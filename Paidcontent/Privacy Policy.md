@@ -56,7 +56,7 @@ If you register for events or webinars provided by Gigaom, we may receive Inform
 
 Third Party Websites/Social Networking Sites
 
-If you choose to use any third party website or service that is integrated with Gigaom, including a third party social networking or blogging site, such as LinkedIn, Facebook, Twitter or WordPress (“Third Party Websites”)â€”or if you use any Gigaom application provided through any Third Party Websiteâ€”we may receive Information, including Personally Identifying Information, from such Third Party Websites, including, but not limited to:
+If you choose to use any third party website or service that is integrated with Gigaom, including a third party social networking or blogging site, such as LinkedIn, Facebook, Twitter or WordPress (“Third Party Websites”)—or if you use any Gigaom application provided through any Third Party Website—we may receive Information, including Personally Identifying Information, from such Third Party Websites, including, but not limited to:
 
 *   Name
 *   Nickname or Username
