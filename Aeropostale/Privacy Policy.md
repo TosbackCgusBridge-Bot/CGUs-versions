@@ -75,7 +75,7 @@ Aéropostale Go
     
     *   BOTTOMS
     *   Jeans
-    *   joggers + sweats
+    *   Joggers + Sweats
     *   Pants
     *   Shorts
     
@@ -123,6 +123,7 @@ Aéropostale Go
     *   Free State
     *   LIVE LOVE DREAM
     *   Lorimer
+    *   The Bikini Lab
     *   Tokyo Darling
     
     *   GUYS
