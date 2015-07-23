@@ -157,7 +157,7 @@ Stay Connected
 
 Connexity® and Audience Discovery® are registered trademarks of Connexity, Inc.
 
-It looks like you are located in the Some Country.
+It looks like you are located in Some Country.
 
 Would you like to go to  
 Some Location?
