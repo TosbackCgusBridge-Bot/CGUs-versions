@@ -24,7 +24,7 @@ The following terms and conditions govern all use of the Gigaom.com website and 
 
 2.6.Non-Confidentiality of Your User Submissions. The Services are available to the public, and your User Submissions, along with information concerning your identity that you provide to Gigaom (including your name, image, employer and location), may be publicly available. Do not post information you consider confidential to the Services. In addition, you agree that Gigaom may reveal your identity and whatever information we know about you to any law enforcement agent or official in the event of legal action or a legal request arising from any User Submission made by you.
 
-2.7.Unsolicited Email, Spamming &. Spoofing. You may not use the Services to transmit unsolicited email. You may not send unsolicited email to the Services or to anyone whose email address includes a domain name used on the Services. You may not use any domain name on our Services as a pseudonymous return email address for any communications which you transmit from another location or through another service. You may not pretend to be someone elseâ€”or spoof their identityâ€”when using the Services.
+2.7.Unsolicited Email, Spamming &. Spoofing. You may not use the Services to transmit unsolicited email. You may not send unsolicited email to the Services or to anyone whose email address includes a domain name used on the Services. You may not use any domain name on our Services as a pseudonymous return email address for any communications which you transmit from another location or through another service. You may not pretend to be someone else—or spoof their identity—when using the Services.
 
 3\. Links to Third-Party Websites
 
