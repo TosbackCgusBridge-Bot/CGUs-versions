@@ -43,8 +43,8 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Gifts $30 &. Under
     *   Gifts $40 &. Under
     *   Gifts Under $50
-    *   Gifts Over $50
-    *   Gifts Over $90
+    *   Gifts $50 &. Over
+    *   Gifts $90 &. Over
 *   Specials
 
 Menu Search Stores Cart Gifts Sausage &. Cheese
@@ -87,8 +87,8 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gifts $30 &. Under
     *   Gifts $40 &. Under
     *   Gifts Under $50
-    *   Gifts Over $50
-    *   Gifts Over $90
+    *   Gifts $50 &. Over
+    *   Gifts $90 &. Over
 *   Specials
 
 Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
