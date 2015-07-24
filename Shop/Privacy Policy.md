@@ -19,7 +19,7 @@ LENOVO Menu
         7.  Deals for Students and Educators
         8.  Outlet
         9.  Warranty-Sale
-    *   Christmas in July We're Six Months Away. Why Not Celebrate Today!
+    *   Summer Getaway Sale Take the savings away with You.
         
         Save up to 80% Site-Wide
         
@@ -27,9 +27,9 @@ LENOVO Menu
         
         We have prebuilt models of our most popular ThinkPad and ThinkCentre PCs!
         
-    *   BACK-TO-SCHOOL GUIDE
+    *   Upromise And Lenovo
         
-        Handy Tools to Get You Ready for School.
+        Join Forces to Help You Save for College!
         
 *   Support
     *   Help placing an order 24 hours a day, 7 days a week  
