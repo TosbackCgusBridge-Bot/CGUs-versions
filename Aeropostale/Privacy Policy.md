@@ -81,7 +81,6 @@ Aéropostale Go
     
     *   JACKETS
     *   UNDERWEAR + LOUNGE
-    *   SHOES
     *   ACCESSORIES
 *   Room
     
@@ -121,8 +120,8 @@ Aéropostale Go
     *   GIRLS
     *   Bethany Mota
     *   Free State
+    *   Invite Only
     *   LIVE LOVE DREAM
-    *   Lorimer
     *   The Bikini Lab
     *   Tokyo Darling
     
