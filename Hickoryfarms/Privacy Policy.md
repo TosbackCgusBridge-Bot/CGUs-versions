@@ -6,6 +6,7 @@
 Your Cart (0) Search Catalog Search Catalog Navigation
 
 *   Gifts
+    *   Summer Gift Guide
     *   Gift Boxes
     *   Gift Baskets
         
@@ -50,6 +51,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 Menu Search Stores Cart Gifts Sausage &. Cheese
 
 *   Gifts
+    *   Summer Gift Guide
     *   Gift Boxes
     *   Gift Baskets
         
