@@ -3,6 +3,7 @@ Terms and Conditions of SamsClub.com
 *   Go to Instant Savings Terms &. Conditions
 *   Go to Cash Rewards Terms &. Conditions
 *   Go to Club Pickup Terms &. Conditions
+*   Membership Terms and Conditions
 
 **Welcome to SamsClub.com.** This site is provided as a service to our Members. Please review the following basic rules that govern the use of our site (the "Agreement"). Please note that your use of our site constitutes your agreement to follow and be bound by these terms. If you do not agree to these terms, please do not use this site. Although you may "bookmark" a particular portion of this site and thereby bypass this Agreement, your use of this site still binds you to the terms. Since SamsClub.com may revise this Agreement at any time, you should visit this page periodically to review the terms of your use. At SamsClub.com, we reserve the right to update or modify these Terms and Conditions at any time without prior notice. Your use of the SamsClub.com Web site following any such change constitutes your agreement to follow and be bound by the Terms and Conditions as changed. For this reason, we encourage you to review these Terms and Conditions whenever you use this Web site.
 
@@ -244,3 +245,85 @@ To be effective, a counter notification must be a written communication provided
 If SamsClub.com receives a valid counter notification, it shall provide the complainant with a copy of the counter notification, inform the complainant that it will replace the removed material or cease disabling access to it in 10 to 14 days from receipt of the counter notification, and replace the removed material or cease disabling access to it in 10 to 14 business days, provided that SamsClub.com has not received notice from the complainant that an action has been filed seeking a court order to restrain the alleged infringer from engaging in infringing activity relating to the material on SamsClub.com's system.
 
 You should be aware that the DMCA provides substantial penalties for a false counter notice filed in response to a notice of copyright infringement. Claimants who make misrepresentations in their the counter notification statement may be liable for any damages, including costs and attorneys' fees, incurred by any copyright owner or copyright owner's authorized licensee, or by SamsClub.com, if injured by relying upon such misrepresentation in replacing the removed material or ceasing to disable access to it.
+
+Membership Terms and Conditions
+
+Published 11/04/2008 10:21 AM | Updated 07/02/2014 10:51 AM  
+Please note: Membership Terms and Conditions are subject to change without notice.
+
+Satisfaction Guaranteed
+
+Membership: We offer a 100% satisfaction guarantee on your Membership or your money back.
+
+Merchandise: If you are not pleased with any product you buy at the Club, we will replace it or refund your money, or provide you with the equivalent amount on a Sam’s Club gift card. Please retain your original receipt to assist us with your refund.
+
+**Please Note:**
+
+Special return instructions for computers, tobacco, refrigerants, and fresh products apply. If you have questions, please contact your Club manager.
+
+Please visit our Return / Refund Policy and our Return / Refund Exceptions for further information about return your products back to Sam's Club.
+
+General Policies:
+
+*   **Children and Guests:** Our Members are welcome to bring their children and up to two guests to Sam’s Club. A Member must accompany children and guests at all times.
+    *   Only a Member may purchase items. Children may not be left unsupervised.
+    *   Parents are responsible for their children.
+    *   Members are responsible for any items opened or damaged by their guests, children or themselves.
+*   Dress Code: Shoes and shirts are required.
+*   Smoking: Not allowed in the Club.
+*   Tobacco and Liquor: No sales to minors.
+*   Receipts: To ensure that you are charged correctly for the merchandise you have selected, you will be requested to show your receipt when exiting.
+*   Sam’s Club reserves the right to inspect any container, backpack, briefcase and so forth upon entering or leaving the Club and to refuse entry to anyone at our discretion.
+
+**Renew Membership:**
+
+*   The primary member or Complimentary card holder may authorize renewal or cardholder changes (including add-ons for Business Members and Plus Members who operate a business), unless the membership is paid by automatic billing to a credit card, deduct from a bank account, or Payroll deduct from earnings, in which case, only a primary member can make such changes. Sam’s Club reserves the right to not allow Complimentary card holders to make any changes to a membership at its sole discretion at any time.
+*   The primary member of an account is solely responsible for Membership account maintenance, and is responsible for the account.
+*   Members receive a renewal notice by mail (unless you are set up with automatic billing on Sam's Club Credit or enrolled in the Auto Renew program).
+*   Member may renew by mail, at the Club, mobile or on SamsClub.com.
+    *   Business Membership and Plus Members who operate a business can renew over the phone if they do not have any add-ons.
+    *   Plus and Sam's Savings renewals can be done over the phone.
+*   Members with Sam's Club Credit will be automatically billed for renewal unless otherwise specified. You will not receive a new card each year.
+*   Renewal within 60 days of your expiration date extends your Membership for 12 months from the expiration date. Renewals after that point is at the discretion of Sam's Club to extend your Membership for 12 months from the renewal.
+
+**Membership:**
+
+*   All Memberships are subject to Sam's Club rules that are amended from time to time and may change without notice.
+*   Sam's Club reserves the right to accept, refuse or revoke Membership without cause.
+*   Sam's Business Memberships are available to all qualifying owners/operators of businesses or licensed professionals - 18 years of age or older. To learn about documentation requirements, click here.
+    *   Plus Members who own or operate a business are able to obtain a "business" distinction on the back of their card if they provide the necessary documentation.
+
+Membership Cards and Fees **For all Members:**
+
+*   Membership fee is for one 12-month period from the date of enrollment of the primary cardholder.
+*   The household card is for the primary cardholder's spouse, domestic partner or household member living in the same household who is 18 years of age or older.
+*   Membership cards require a card number and a photo to be valid. Membership cards are non-transferable and are valid at all Sam's Club locations worldwide.
+*   Membership may be terminated and card revoked at Sam's Club discretion.
+*   Members are requested to show their cards when entering Sam's Club and when checking out.
+*   Report a lost or stolen card immediately at any Sam's Club Member Services Desk or by calling 888-746-7726.
+*   To learn about our Partner Membership Program, please click here.
+*   Specific to Sam's Business Members and Plus Members who own or operate a business:
+*   A primary Business Membership includes a card for you, a card for your household cardholder and a company card.
+*   Primary Business cardholders may add add-on cards for an additional fee.
+    *   Plus Members who own or operate a business may add 16 additional add-on cardholders
+    *   Sam's Business Members may add 8 additional add-on cardholders
+*   The company card is transferable to any Member of the organization.
+
+Payment **For all Members:**
+
+*   We accept checks, cash, Sam's Club Credit, Wal-Mart® Credit, MasterCard®, Discover®, EBT and ATM debit cards.
+*   Personal Checks: Preprinted from Member's personal checking account with Member's name, address and phone number written in the exact amount of the purchase. Photo ID (such as a driver's license or passport) may be required.
+
+**Specific to Sam's Business Members and Plus Members who operate a business:**
+
+*   Business Checks: Preprinted from company's business checking account with company name, address and phone number written in the exact amount of the purchase and signed by an authorized company representative. Photo ID may be required. The company guarantees payment on all purchases made with a company business check.
+*   All company purchases must be made with authorized company (business) checks.
+*   The Primary Business Member is not responsible for personal checks written by add-on cardholders.
+
+**Sam's Business Members and Plus Members who operate a business: Use of Resale Permit or Transaction of Privilege Tax License (Tax-Exempt)**
+
+*   Business Member must declare to the cashier any merchandise being purchased for resale or otherwise tax-exempt.
+*   A tax-exempt organization may purchase tax-free. All items purchased must be used exclusively by the tax-exempt organization for tax-exempt purposes only.
+*   To obtain tax-exempt purchasing privileges, Members must present a valid state tax-exempt number or Sales and Use tax license (or photo copy) with a Membership application and renew it once every three years at Sam's Club.
+*   If the Member buys any property for resale and uses that property for anything other than retention, demonstration or display while holding it for sale, the law requires the Member to report and pay tax, measured by the purchase price or other authorized amount.
+*   Member will hold Sam's Club harmless from and will indemnify Sam's Club against any claim, loss or expense occurring from any failure to comply with resale permits or tax-exempt requirements, and Membership will be subject to immediate forfeiture.
