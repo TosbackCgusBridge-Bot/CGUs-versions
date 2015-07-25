@@ -177,7 +177,7 @@ Some Lenovo Web sites also use Web beacon or other technologies to better tailor
 
 If you turn off cookies, Web beacon and other technologies will still detect visits to these pages, but the notices they generate cannot be associated with other non-identifiable cookie information and are disregarded. For more information, please see "How to work with Cookies".
 
-We use Local Storage Objects (LSOs) such as HTML5 to store \[content information and preferences.\] Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information.
+We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information.
 
 Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager07.html
 
@@ -225,7 +225,7 @@ Some of our pages utilize framing techniques to serve content to from our partne
 
  **Back to top** Notification of Changes
 
-This privacy statement was last updated on January 2, 2014. We may update this privacy policy to reflect changes to our information practices. A notice will be posted on our Web site home page for 30 days prior to the change becoming effective whenever this privacy statement is changed in a material way. We encourage you to periodically review this page for the latest information on our privacy practices.
+This privacy statement was last updated on July 23, 2015. We may update this privacy policy to reflect changes to our information practices. A notice will be posted on our Web site home page for 30 days prior to the change becoming effective whenever this privacy statement is changed in a material way. We encourage you to periodically review this page for the latest information on our privacy practices.
 
  **Back to top** Privacy Questions and Access
 
