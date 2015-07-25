@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   saved items: (1)
+*   no saved items
 *   recommendations
 *   track order
 *   ship to
@@ -12,12 +12,12 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  ROBERT
 *   (sign out)
     
 *   my account
 
-*   saved items: (1)
+*   no saved items
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13683983903
+true true C13683636049
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p30.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Thu Jul 23 11:28:05 EDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Fri Jul 24 08:15:43 EDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
