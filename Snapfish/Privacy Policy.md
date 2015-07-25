@@ -353,6 +353,6 @@ Most web browsers offer you the ability to inform websites and ad networks that 
 
   
 
-You can learn more about network advertising and how to opt out by visiting http://www.aboutads.info .
+You can learn more about network advertising and how to opt out by visiting http://www.aboutads.info/ .
 
 Back to top
