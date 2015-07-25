@@ -14,11 +14,10 @@ Aéropostale Go
     *   Tokyo Darling
     *   Free State
     *   Throwback Tees
-    *   Shop by Outfit
     *   Swim Shop
     *   Uniform
     *   Online Only
-    *   Extended Sizes
+    *   Plus Sizes
     *   Clearance
     
     *   TOPS
@@ -59,10 +58,9 @@ Aéropostale Go
     *   Throwback Tees
     *   Brooklyn Calling
     *   Free State
-    *   Shop by Outfit
     *   Uniform
     *   Online Only
-    *   Extended Sizes
+    *   Plus Sizes
     *   Clearance
     
     *   TOPS
@@ -72,6 +70,7 @@ Aéropostale Go
     *   Tanks
     *   Shirts
     *   Hoodies
+    *   Sweaters
     
     *   BOTTOMS
     *   Jeans
@@ -122,7 +121,7 @@ Aéropostale Go
     *   Free State
     *   Invite Only
     *   LIVE LOVE DREAM
-    *   The Bikini Lab
+    *   Lorimer
     *   Tokyo Darling
     
     *   GUYS
