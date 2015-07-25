@@ -1,11 +1,10 @@
 Terms &. Conditions
 
-This Statement on "Ethics, Terms &. Conditions" must be read and accepted by all patrons of the Comhaltas Archive before a research account will be created. For a more general description of the Comhaltas Archive, refer to the page About the Comhaltas Archive.
+This Statement on "Ethics, Terms &. Conditions" must be read and accepted by all visitors of the Comhaltas Archive. For a more general description of the Comhaltas Archive, refer to the page About the Comhaltas Archive.
 
 *   Ethics Statement
 *   Ethical and Permitted Usage of Recordings
 *   Notice and Takedown policy
-*   Terms of Use for User-contributed Content
 *   Copyright
 *   Acceptable Use Policy
 *   Privacy and Web Log Files
@@ -67,18 +66,6 @@ Upon receipt of a written notification the 'Notice and Takedown' procedure is th
 *   The material is permanently removed from the website.
 
 If the contributor and the complainant are unable to agree a solution, the material will remain unavailable through Comhaltas until a time when a resolution has been reached.
-
-Terms of Use for User-contributed Content
-
-Several aspects of the Comhaltas Archive website allow end-users to contribute original material, for example through the suggestion of item notes or through tune and performer identifications. These user-contributed functionalities (Features) require some special rights to be agreed.
-
-If you use the Features you are deemed to have agreed to abide by all of the following Terms and Conditions together with any amendments thereto (both of which are non-negotiable) under which the Features are offered, and to be bound by them. Breach of any of these Terms and Conditions or any revised Terms and Conditions that we may from time to time impose may result in the blocking of your access to the Comhaltas Archive website.
-
-You acknowledge that any material posted is done so at your own risk. and we cannot guarantee the continued availability of your material within the Features. Your name and login ID may be displayed alongside your material. This personal information will not be used, or disclosed to third parties, except for the purposes of running the Features, or otherwise in accordance with our Terms of Use.
-
-By posting material on the Comhaltas website you hereby grant us a non-exclusive, worldwide, royalty-free, irrevocable licence to use your material within the Features. For the avoidance of doubt, we will not use your material for any commercial purposes whatsoever, or for any purpose other than that set out in this clause. We reserve the right to change or remove the Features without notice at any stage if we deem this necessary or circumstances arise that are outside our control. and to remove any material that does not comply with the rules. Any decision to remove such material is final and no correspondence will be entered into.
-
-If you choose to use these Features, you are warranting that you have full right, power and authority to provide the material, and that such material does not infringe any third party rights. You are hereby indemnifying us against any actions brought against us for any alleged infringement of third party rights arising from the use of the material within the Features.
 
 Copyright
 
