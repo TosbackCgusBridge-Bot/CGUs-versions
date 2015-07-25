@@ -1,6 +1,6 @@
-Sidewalk Sales just got better.
+Military Guests, thank you for your service.
 
-Extra 10% off sale.
+10% Military Discount.
 
 Guest Services 800-607-9788
 
