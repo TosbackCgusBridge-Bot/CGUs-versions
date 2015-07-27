@@ -121,7 +121,6 @@ Aéropostale Go
     *   Free State
     *   Invite Only
     *   LIVE LOVE DREAM
-    *   Lorimer
     *   Tokyo Darling
     
     *   GUYS
