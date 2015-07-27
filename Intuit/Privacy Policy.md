@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13690542073
+true true L13808380552
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Sat Jul 25 05:03:33 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Sun Jul 26 04:18:39 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,106 +48,78 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store and Online
-
-Ends July 28. ONLINE CODE: JULYSAVE
-
-Extra 20% Off\* with your JCPenney Credit Card.
-
-Or, Extra 15% Off\* with any other method of payment.
-
-Online Only, Orders Over $100
-
-Ends July 28. ONLINE CODE: JULYSAVE
-
-Or, Extra 25% Off\* with your JCPenney Credit Card.
-
-Or, Extra 20% Off\* with any other method of payment.
-
-In Store and Online
-
-Ends July 28. ONLINE CODE: JULYSAVE
-
-Or, Extra 15% Off\* furniture, mattresses and custom blinds and shades.
-
-Or, Extra 10% Off\* watches and salon products.
-
-\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
-
-\*See exclusions and details.
-
-*   starts now!
-    
-    back to  
+*   back to  
     school  
     sale
+*   save on  
+    nike shoes  
+    for the family
+    
+    select styles
     
 *   home sale  
     30-50% off
     
     select styles
     
-*   best in class  
-    40-50% off
-    
-    school  
-    uniforms
-    
-*   now online!  
-    sephora
+*   jewelry  
+    spectacular  
+    sale
 
-*   Back to School Sale Shop the Back to School Sale View Store Ad Shop Men Shop Women Shop Kids Shop Baby Shop Juniors Shop Guys Shop Shoes Shop Lingerie Shop Home Shop Jewelry Shop Handbags and Accessories  $10 Off $25 Bonus Cash!
+*   Back to School Sale Shop the Back to School Sale View Store Ad Shop Men Shop Women Shop Kids Shop Baby Shop Juniors Shop Guys Shop Shoes Shop Lingerie Shop Home Shop Jewelry Shop Handbags and Accessories  E-Gift Cards
     
-    In store only! Ends July 28. Earn a $10 off $25 bonus cash coupon when you spend $50 or more on Sephora.
+    $10 Off $10 Coupon | Ends August 15 | Online Only!
     
-    Redeemable July 20 through August 1, 2015 on women's accessories, jewelry and shoes. Some restrictions and exclusions apply. See store associate for details.
+    Earn a $10 off $10 coupon when you purchase $75 in E-Gift Cards. Redeemable August 16 through September 7, 2015 in store and online. Some restrictions apply.
     
-    Night and Day Doorbusters
+    Gift Cards
     
-    Use your coupon and save even more! In store and online doorbusters, Fri 3pm CDT through Sat 1pm CDT.
+    $10 Off $10 Bonus Ca$h! | Ends August 15 | In Store Only!
     
-    Shop Doorbusters
+    Earn a $10 off $10 Bonus Cash Coupon when you purchase $75 in JCPenney Gift Cards. Redeemable August 16 through September 7, 2015. Some restrictions apply.
+    
+    Get Details and Shop Gift Cards
+*   Go the Distance
+    
+    Save on Nike shoes for the family. Excluded from coupon.
+    
+    Shop Nike Shoes
 *    Home Sale
     
-    30-50% Off Home Collections. Select styles.
+    30 to 50% Off Home Collections, select styles
     
-    shop the home sale shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
-*   40 to 50% Off Uniforms
+    Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage
+*   Extra Savings Today Only!
     
-    Select styles. Extended sizes available.
+    Jewelry Spectacular Sale - Now through August 11
     
-    shop school uniforms shop girls' school uniforms shop boys' school uniforms shop juniors' school uniforms shop guys' school uniforms shop Izod shop ArizonaSave on Converse Shoes
+    Shop the Jewelry Spectacular Sale
     
-    Select styles. Excluded from coupon.
+    Today Only! 45 to 65% Off Fine Jewelry and Bijoux Bar
     
-    shop Converse
-*   Sephora Has Arrived
+    Shop Fine Jewelry and Bijoux Bar
     
-    Shop the best beauty -- without ever leaving JCPenney.com
+    Today Only! 25 to 55% Off Watches
     
-    Shop Sephora Now
+    Shop Watches
+    
+    30 to 60% Off Fashion Jewelry
+    
+    Shop Fashion Jewelry Shop Diamonds Shop Diamond Studs
 
 What's New
 
 Refresh your closet for summer! See what's trending now.
 
-Shop Shoes Shop Women's Shop Handbags Shop Jewelry Shop Men's Shop Home New Markdowns! Clearance 55 to 80% Off
+Shop Shoes Shop Womens Shop Handbags Shop Jewelry Shop Mens Shop Home Uniforms Shop All Uniforms Shop Girls Shop Boys Shop Juniors Shop Guys Shop Izod New Markdowns! In Store and Online Shop Clearance
 
-In Store and Online
+Clearance 55 to 80% Off when you use 15% Off coupon code: JULYSAVE
 
-Shop Clearance
-
-When you use 15% Off code: JULYSAVE
-
-Get details: Back to School
-
-Mix-and-match to show how you bend the trend.
-
-Shop Back to School SportsFanShop
+Get details: SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop Star Wars™ Shop Star Wars: Hello Dorm Shop All Dorm
+Shop SportsFanShop Sephora Has Arrived Shop Sephora Hello Dorm Shop All Dorm Download and Get Shopping Check Out the App: Download on the App Store Get It On Google play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
