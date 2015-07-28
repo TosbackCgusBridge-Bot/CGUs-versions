@@ -1,7 +1,4 @@
-DatenschutzerklärungeBay- Datenschutzerklärung Veröffentlicht und gültig für neue Nutzer ab: **1\. Mai 2015**  
-Gültig für vor dem 1. Mai 2015 registrierte Nutzer ab: **15\. Juni 2015**  
-  
-Vorherige Version der Datenschutzerklärung Zusammenfassung und Inhalt
+DatenschutzerklärungeBay- Datenschutzerklärung Zusammenfassung und Inhalt
 
 **Geltungsbereich und Einwilligung**
 
