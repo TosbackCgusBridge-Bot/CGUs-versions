@@ -151,8 +151,8 @@ If you have questions about this Privacy Policy, please contact us at:
 
 TripAdvisor LLC  
 Attn: Legal Department, Privacy Officer  
-141 Needham Street  
-Newton, MA 02464, USA  
+400 1st Avenue  
+Needham, MA 02494, USA  
   
 
 Call Recording and Monitoring.
