@@ -16,6 +16,7 @@ Skip to main content Online Trust Alliance
     *   Brand Protection
     *   Data Privacy &. Protection Day
     *   Identity Theft
+    *   Internt of Things
     *   Online Trust Audit &. Honor Roll
     *   Email Integrity Audit
     *   Privacy
@@ -98,6 +99,10 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   OTA Blog
 *   Newsletters
 
+Mon, Jul 6, 2015 Q&A with OTA – Creating an IoT Trust Framework
+
+Guest Blog from Global Sign - I’m excited to have a guest on today’s blog – Craig Spiezle, the Executive Director and President of the Online Trust Alliance (OTA). The OTA is well known for its online security initiatives, including Data Privacy and Protection Day and the annual Online Trust Audit and Honor Roll, and earlier this year announced it was expanding its sights to the Internet of Things (IoT).
+
 Wed, Jun 24, 2015 OTA Opens Up Membership to IoT Working Group
 
 Today the OTA Board of Directors has agreed to allow any interested party to become a member of the IoT Working Group without having to become a full member of the Online Trust Alliance.The goal is to bring many stakeholders to the table with a shared focus to establish best practices and a framework focused on security, privacy and sustainability.  All existing OTA member companies in good standing are granted membership at no-charge.  Working together we can help shape the future of the “internet of everything” while preserving consumer privacy and security, demonstrating a
@@ -110,7 +115,7 @@ Wed, May 27, 2015 OTA Response to NTIA StakeHolder Engagement in Cybersecurity
 
 Collectively we believe multi-stakeholder efforts must be open, transparent and develop consensus by providing an equitable and fair opportunity for interested parties to participate.  Processes need to be established to help keep discussions, priorities and scope from being dominated by special interest and dominate market players.  We believe a facilitated led process will effectively drive the formation of best practices to allow us to improve the security, stability and resiliency of Internet.
 
-Tue, May 5, 2015 Wearables. the Next Fashion Statement Do consumers know the true price they may be paying? Innovation in personal connected devices, aka the Internet of Things (IoT), has the enticing promise of enabling consumers with a wide range of function and benefits. These advancements are leap frogging what we have realized from smartphones and mobile apps. We are a data driven society and economy, and increasingly conscious of the opportunity the data these devices can provide. Wearables and cross device tracking can provide significant insights into the lives, behaviors and tastes of consumers than ever before. Done right the vendors, marketers, retailers and consumers can equally benefit. As companies who are rushing to the market are they considering the consequences and responsibilities when consumers entrust them with their data. If the past news headlines are an indicator of the future, one might say no. Resources
+Resources
 
 *   Advertising Integrity &. Fraud
 *   Data Breach &. Protection
@@ -125,6 +130,7 @@ Initiatives
 *   Brand Protection
 *   Data Privacy &. Protection Day
 *   Identity Theft
+*   Internt of Things
 *   Online Trust Audit &. Honor Roll
 *   Email Integrity Audit
 *   Privacy
