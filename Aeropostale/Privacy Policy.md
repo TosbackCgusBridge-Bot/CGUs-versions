@@ -112,8 +112,6 @@ Aéropostale Go
     *   Clearance Tops
     *   Clearance Bottoms
     *   Clearance Accessories
-    
-    *   ROOM
 *   Brands
     
     *   GIRLS
