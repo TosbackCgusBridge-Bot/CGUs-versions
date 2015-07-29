@@ -51,7 +51,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Must C
     *   Chatting Cage
     *   DraftKings
-    *   Soak Up Summer
+    *   Pitch and Prevail
     *   #Whiffs
     *   MLB Legends
     *   #MLBMemoryBank
