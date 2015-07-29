@@ -264,6 +264,7 @@ About Us
 *   Science in Action
 *   Membership &. Giving
 *   Photos &. Video
+*   Nature Conservancy Magazine
 *   News &. Features
 *   Gift and Estate Planning
 *   Green Living
