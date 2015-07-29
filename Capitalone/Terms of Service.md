@@ -4,7 +4,7 @@ Menu
 *   Business - Selected
 *   Commercial - Selected
 
-*   Personal - Selected
+*   Personal
     *   Personal Home
     *   Credit Cards Expand Credit Cards Menu Find a Card
         
@@ -59,7 +59,7 @@ Menu
         *   Sign In to Your Account
     *   Learn
     *   Contact
-*   Business - Selected
+*   Business
     *   Business Home
     *   Bank Expand Bank Menu Banking Accounts
         
@@ -80,7 +80,7 @@ Menu
     *   Manage Expand Manage Menu Business Services
         *   Merchant Services
     *   Contact
-*   Commercial - Selected
+*   Commercial
     *   Commercial Home
     *   About
     *   Industry Expertise Expand Industry Expertise Menu
@@ -105,7 +105,6 @@ Menu
     *   Insights
     *   Contact
 *   Locations
-*   Contact
 *   Search
 
 Terms and Conditions
