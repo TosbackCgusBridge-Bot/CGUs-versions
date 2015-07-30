@@ -89,13 +89,13 @@ Find This For Me!
 
 Use our industry-leading, no-obligation "Find This For Me" service to get the pieces you need - start here!
 
-400,000 Patterns!
+425,000 Patterns!
 
 We carry over 12 million pieces in old and new tableware and collectibles, some over 100 years old!
 
 Easy Returns
 
-30-day return policy on all purchases, satisfaction assured in 400,000 patterns!
+30-day return policy on all purchases, satisfaction assured in 425,000 patterns!
 
 Contact Us
 
@@ -104,8 +104,8 @@ Need help or a question answered by e-mail or phone? Start here!
 Privacy Policy
 
 Privacy is important. We guard your data carefully and don't release it.  
-(More on Privacy)
+( More on Privacy)
 
 Copyright  
-©1998-2014 Replacements, Ltd.  
+©1998-2015 Replacements, Ltd.  
 All Rights Reserved.
