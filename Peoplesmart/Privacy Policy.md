@@ -17,7 +17,7 @@ Privacy Policy
 
 Effective Date: February 1, 2015
 
-This privacy policy applies to PeopleSmart.com, owned and operated by Inflection.com, Inc. (“PeopleSmart”, “Inflection”, or “we”). This privacy policy describes how Inflection.com, Inc. collects and uses the personal information you provide on our website, www.peoplesmart.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This Privacy Policy applies to PeopleSmart.com, owned and operated by Inflection.com, Inc. (“PeopleSmart”, “Inflection”, or “we”). This Privacy Policy describes how Inflection.com, Inc. collects and uses the personal information you provide on our website, www.peoplesmart.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 You can learn more about how we protect your privacy and how to manage your information in our databases through the PeopleSmart Privacy Education Center.
 
@@ -27,7 +27,7 @@ Inflection.com, Inc. has received TRUSTe's Privacy Seal signifying that this pri
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
 
-Overview What does this privacy policy cover? What information do we collect?
+Overview What does this Privacy Policy cover? What information do we collect?
 
 *   Registration Information
 *   Billing Information
@@ -67,11 +67,11 @@ Compliance Notices
 *   California Information-Sharing Disclosure
 *   Children’s Online Privacy Protection Act
 
-Changes to this Privacy Policy Contact Information What does this privacy policy cover?
+Changes to this Privacy Policy Contact Information What does this Privacy Policy cover?
 
-This policy covers how PeopleSmart.com treats personal information that we collect and receive from you, including information related to your use of our website, products, and services. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. Unless noted otherwise, this privacy policy does not apply to any information in our people search databases, which is covered separately under our Opt-Out Policy.
+This policy covers how PeopleSmart.com treats personal information that we collect and receive from you, including information related to your use of our website, products, and services. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. Unless noted otherwise, this Privacy Policy does not apply to any information in our people search databases, which is covered separately under our Opt-Out Policy.
 
-Our website also includes links to other websites whose privacy practices may differ from those of Inflection.com, Inc. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
+Our website also includes links to other websites whose privacy practices may differ from those of Inflection.com, Inc. If you submit personal information to any of those sites, your information is governed by their Privacy Policies. We encourage you to carefully read the Privacy Policy of any website you visit.
 
 What information do we collect?
 
@@ -114,7 +114,7 @@ When you give us authorization to access an account you have on a third-party se
 
 Social Media Widgets
 
-Our website includes social media features, such as the Facebook Like button and Widgets, such as the Share This button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our website includes social media features, such as the Facebook Like button and Widgets, such as the Share This button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the Privacy Policy of the company providing it.
 
 Cookies and Other Tracking Technologies
 
@@ -233,7 +233,7 @@ PeopleSmart complies with the Children’s Online Privacy Protection Act (COPPA)
 
 Changes to this Privacy Policy
 
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice posted to this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice posted to this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 Contact Information
 
@@ -246,4 +246,8 @@ Omaha, NE 68139
 
 PeopleSmart maintains offices at 555 Twin Dolphin Drive #200, Redwood City, CA 94065.
 
-About Manage Your Listing Affiliate Program Help Center Privacy Education How We Think About Privacy Terms of Use Privacy Policy Opt-Out Policy Payment Policy FCRA Regulations Contact Us Sitemap © 2015 PeopleSmart Home Join Terms Privacy Sitemap Help Sign In
+About Manage Your Listing Affiliate Program Help Center Privacy Education How We Think About Privacy Terms of Use Privacy Policy Opt-Out Policy Payment Policy FCRA Regulations Contact Us Sitemap Explore Home Join Sign In Manage Listing Directories Find People Court Records Criminal Records County Records Company About Blog Privacy Education Affiliates Support Help Sitemap Get Privacy News and Alerts Submit Thank You. You have been subscribed. Follow PeopleSmart
+
+PeopleSmart is designed to help you find and connect with others. Search by name, email, phone number, and address. PeopleSmart is not a consumer reporting agency as defined by the Fair Credit Reporting Act (FCRA). To learn more, please see our Terms of Use and Privacy Policy. Information offered by PeopleSmart is not to be used for assessing or evaluating a person's eligibility for employment, housing, insurance, credit, or for any other purpose covered under the FCRA. Visit GoodHire.com for all your employment screening needs.
+
+All rights reserved. © 2015 PeopleSmart
