@@ -138,11 +138,11 @@ Réalisé sous la direction de Jean-François PILLOU, fondateur de CommentCaMarc
   
 A voir également
 
-*   Conditions générales d'utilisation
-*   Condition générales d'utilisation site internet
-*   Dutilisation
+*   Conditions générales
+*   Comment rédiger termes et conditions
+*   Autonomie des clauses de conditions générales d'utilisations
 *   Modèle Condition Générale de Vente » Forum - Webmaster
-*   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
+*   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
 *   Redaction conditions generales (Résolu) » Forum - Vos droits sur internet
-*   Comment résilier mon abonnement mobile free? (Résolu) » Forum - Free mobile
+*   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
