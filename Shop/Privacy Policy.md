@@ -19,17 +19,17 @@ LENOVO Menu
         7.  Deals for Students and Educators
         8.  Outlet
         9.  Warranty-Sale
-    *   Summer Getaway Sale Take the savings away with You.
+    *   Summer Getaway Sale Take the Savings Away with You.
         
         Save up to 80% Site-Wide
         
     *   Need it Quick?
         
-        We have prebuilt models of our most popular ThinkPad and ThinkCentre PCs!
+        We have prebuilt models of our most popular PCs in stock and ready to ship!
         
-    *   Upromise And Lenovo
+    *   BACK-TO-SCHOOL GUIDE
         
-        Join Forces to Help You Save for College!
+        Handy Tools to Get You Ready for School.
         
 *   Support
     *   Help placing an order 24 hours a day, 7 days a week  
@@ -262,6 +262,7 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Community
     *   History
     *   Social Responsibility
+    *   Customer Center
     *   Product Security
     *   Legal Information
     *   Privacy
