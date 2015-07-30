@@ -1,4 +1,4 @@
-**Last Revised: July 16, 2015**
+**Last Revised: July 28, 2015**
 
 **PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -338,7 +338,7 @@ You agree to comply with Registry’s Acceptable Use policies and Terms of Servi
 
 You agree to indemnify, defend and hold harmless the Registry Operator and Registry Service Provider and their subcontractors, subsidiaries, affiliates, divisions, shareholders, directors, officers, employees, accountants, attorneys, insurers, agents, predecessors, successors and assigns, from and against any and all claims, demands, damages, losses, costs, expenses, causes of action or other liabilities of any kind, whether known or unknown, including reasonable legal and attorney’s fees and expenses, in any way arising out of, relating to, or otherwise in connection with the your domain name registration.  The registration agreement shall further require that this indemnification obligation survive the termination or expiration of the registration agreement.
 
-**19\. PROVISIONS SPECIFIC TO CentralNic REGISTRATIONS: .BAR. .capital. .cricket. .DESIGN. .engineering. .exchange. .gripe. .ink. .party. .RESt. .science. .SPace .wiki. .xyz**
+**19\. PROVISIONS SPECIFIC TO CentralNic REGISTRATIONS: .BAR. .capital. .cricket. .DESIGN. .engineering. .exchange. .gripe. .ink. .party. .RESt. .science. .SITE. .SPace .wiki. .xyz**
 
 You agree to comply with the following requirements: a) ICANN standards, policies, procedures, and practices for which Registry Operator has monitoring responsibility in accordance. and b) operational standards, policies, procedures, and practices for the Registry TLD established from time to time by Registry Operator and any additional or revised operational standards, policies, procedures, and practices for the Registry TLD.
 
@@ -390,7 +390,7 @@ Mandated certain additional safeguards for the following top-level domains: .sur
 
 In addition to the requirement for Regulated TLDs, you agree to comply with the following: (a) you will provide administrative contact information, which must be kept up‐to‐date, for the notification of complaints or reports of registration abuse, as well as the contact details of the relevant regulatory, or Industry self‐regulatory, bodies in their main place of business. (b) you represent that you possess any necessary authorizations, charters, licenses and/or other related credentials for participation in the sector associated with such Highly‐regulated TLD. and (c) you will report any material changes to the validity of you authorizations, charters, licenses and/or other related credentials for participation in the sector associated with the Highly‐regulated TLD to ensure you continue to conform to the appropriate regulations and licensing requirements and generally conduct your activities in the interests of the consumers they serve.
 
-26\. provisions specific to famous four TLD registrations: .ACCOUNTANT. .bid. .cricket. .DOWNLOAD. .LOAN. .party. .RACING. .science. .trade. .WIN
+26\. provisions specific to famous four TLD registrations: .ACCOUNTANT. .bid. .cricket. .DATE. .DOWNLOAD. .FAITH. .LOAN. .party. .RACING. .REVIEW. .science. .trade. .WIN
 
 You agree to comply with the Registry's Acceptable Use policy and Terms and Service, available here, which are hereby incorporated by reference, as they may be instituted or updated from time to time and published on the Registry website specific to the Registry TLD for the Registered Name.
 
@@ -552,7 +552,7 @@ You agree to indemnify, defend and hold harmless Registry and their subcontracto
 
 You shall not permit content unsuitable for viewing by a minor to be viewed from the main or top-level directory of a .SEXY domain name. For purposes of clarity, content viewed at the main or top-level directory of a .SEXY domain name is the content immediately visible if a user navigates to http://example.sexy or http://www.example.sexy. No restrictions apply to the content at any other page or subdirectory addressed by a .SEXY Registered Name.
 
-47\. provisions specific to ALL united TLD registrations: .actor. .airforce. .army. .attorney. .auction. .band. .consulting. .dance. .degree. .democrat. .Dentist. .engineer. .forsale. .futbol. .gives. .haus. .immobilien. .kaufen. ,market. .moda. .mortgaGe. .navy. .ninja. .pub. .rehab. .republican. .reviews. .rip. .rocks. .SALE. .social. .SOFTWARE. .vet. .VIDEO
+47\. provisions specific to ALL united TLD registrations: .actor. .airforce. .army. .attorney. .auction. .band. .consulting. .dance. .degree. .democrat. .Dentist. .engineer. .forsale. .futbol. .gives. .haus. .immobilien. .kaufen. ,market. .moda. .mortgaGe. .navy. .NEWS. .ninja. .pub. .rehab. .republican. .reviews. .rip. .rocks. .SALE. .social. .SOFTWARE. .vet. .VIDEO
 
 You agree to comply with the Registration Terms and Conditions, available here, which are hereby incorporated by reference, as they may be instituted or updated from time to time and published on the Registry website specific to the Registry TLD for the Registered Name.
 
