@@ -1,6 +1,4 @@
-Military Guests, thank you for your service.
-
-10% Military Discount.
+Sale on Sale – Men’s &. Women’s Sale Shoes and Sale Accessories
 
 Guest Services 800-607-9788
 
