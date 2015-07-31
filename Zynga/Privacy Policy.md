@@ -1,7 +1,37 @@
 Navigation
 
 *   GAMES
+    *   Bubble Safari
+    *   CastleVille Legends
+    *   Chess With Friends
+    *   Draw Something
+    *   Empires and Allies
+    *   FarmVille
+    *   FarmVille 2
+    *   FarmVille 2 Country Escape
+    *   FarmVille Harvest Swap
+    *   Gems With Friends
+    *   Hanging With Friends
+    *   Hit It Rich!
+    *   Looney Tunes Dash
+    *   Mafia Wars
+    *   Matching With Friends
+    *   NFL Showdown
+    *   Solstice Arena
+    *   What's The Phrase
+    *   Wizard of Oz Slots
+    *   Word Streak With Friends
+    *   Words On Tour
+    *   Words With Friends
+    *   Zynga Poker
+    *   Zynga Poker Classic
 *   COMPANY
+    *   News
+    *   Leadership
+    *   Investors
+    *   Advertisers
+    *   Engineering Blog
+    *   Player Panel
 *   JOBS
 *   SUPPORT
 
@@ -757,19 +787,3 @@ Facebook Twitter YouTube Instagram
 *   Contact
 
 ©2015 Zynga Inc. All rights reserved.
-
-*   MENU
-    *   HOME
-    *   GAMES
-    *   COMPANY
-        *   NEWS
-        *   ENGINEERING BLOG
-        *   LEADERSHIP
-        *   INVESTORS
-        *   ADVERTISERS
-        *   PLAYER PANEL
-    *   JOBS
-        *   BENEFITS
-        *   OPEN POSITIONS
-        *   UNIVERSITY
-    *   SUPPORT
