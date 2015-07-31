@@ -19,7 +19,7 @@ LENOVO Menu
         7.  Deals for Students and Educators
         8.  Outlet
         9.  Warranty-Sale
-    *   Summer Getaway Sale Take the Savings Away with You.
+    *   Hot Items, Cool Prices Grab these Hot Items Before they Cool Off
         
         Save up to 80% Site-Wide
         
