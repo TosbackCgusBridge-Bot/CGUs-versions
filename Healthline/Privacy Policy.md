@@ -56,6 +56,6 @@ In accordance with the Federal Children's Online Privacy Protection Act of 1998 
 
 Effective: July 2014. Material changes to this policy will be posted here.
 
-If you have additional questions, please contact us at \[email protected\]. Please note that while we are happy to answer general questions, in order to protect the privacy of our users, we do not answer specific questions about the information collected about specific users (including users who may request access to the information collected on themselves).
+If you have additional questions, please contact us at privacypractices@healthline.com. Please note that while we are happy to answer general questions, in order to protect the privacy of our users, we do not answer specific questions about the information collected about specific users (including users who may request access to the information collected on themselves).
 
 Online privacy is in the regulatory purview of the Federal Trade Commission. For more information or to lodge a complaint, please visit the FTC's Consumer Response Center: https://www.ftccomplaintassistant.gov/
