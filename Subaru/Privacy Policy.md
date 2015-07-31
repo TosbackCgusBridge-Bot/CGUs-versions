@@ -394,7 +394,6 @@ Explore Subaru
 
 Enthusiasts
 
-*   Overview
 *   Dear Subaru
 *   Motorsports
 *   Events
@@ -425,7 +424,7 @@ Owners
 *   MySubaru
 *   Resource Center
 *   Benefits of Ownership
-*   Service, Parts and Accessories
+*   Service, Parts &. Accessories
 *   Guaranteed Trade-In Program
 *   Vehicle Recalls
 
