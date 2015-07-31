@@ -49,7 +49,7 @@ For more information, including privacy policies, regarding such companies pleas
 
 ^Return to top For Our Customers Using the Internet What are "cookies" and how does Eddie Bauer use them?
 
-A "cookie" is a small data file stored on your computer. At Eddie Bauer, we place a unique identifier in the cookie and use the cookie to connect your computer with the information we store for you in our database. Some examples of the data we store in our database includes your account preferences, items added to your shopping bag, user-specific information on pages accessed, and previous visits to our site. Through cookies we may: alert you to new areas that we think might be of interest to you when you return to our site. record past activity at our site. provide advertisements that are tailored to your interests. or, customize Web page content. Your information is stored in a safe and secure database.
+A "cookie" is a small data file stored on your computer. At Eddie Bauer, we place a unique identifier in the cookie and use the cookie to connect your computer with the information we store for you in our database. Some examples of the data we store in our database includes your account preferences, items added to your shopping bag, user-specific information on pages accessed, and previous visits to our site. Through cookies we may: alert you to new areas that we think might be of interest to you when you return to our site. record past activity at our site. provide advertisements that are tailored to your interests. or, customize Web page content.
 
 We do not use cookies to store any of your personal or financial information on your computer.
 
