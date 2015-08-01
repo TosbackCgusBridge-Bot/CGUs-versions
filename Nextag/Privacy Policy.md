@@ -4,14 +4,14 @@
 *   Sign up
 *   Help
 
-**Nextag, Inc. - Website Privacy Statement/Your California Privacy Rights** Effective October 30, 2014  
+**NexTag, Inc. - Website Privacy Statement/Your California Privacy Rights** Effective October 30, 2014  
 
 1.  **SCOPE AND CHANGES**  
-    Nextag, Inc. and/or our subsidiaries ("Nextag," "us" or "we") operate the websites www.nextag.com, www.calibex.com and www.pricemachine.com (we refer to these websites as the "Websites"). This Website Privacy Statement is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties. This Website Privacy Statement applies only to the Websites. It does not apply to your use of any other websites (whether or not operated by us), including any websites to which we provide links or websites of our partners or advertisers, or to any activities which are not online.
+    NexTag, Inc. and/or our subsidiaries ("Nextag, " "us" or "we") operate the websites www.nextag.com, www.calibex.com and www.pricemachine.com (we refer to these websites as the "Websites"). This Website Privacy Statement is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties. This Website Privacy Statement applies only to the Websites. It does not apply to your use of any other websites (whether or not operated by us), including any websites to which we provide links or websites of our partners or advertisers, or to any activities which are not online.
 
 Some services referenced in this Privacy Statement are not available on some Websites. Portions of this Website Privacy Statement that pertain to such features or services may not be applicable on each of the Websites.
 
-**TRUSTe:** Nextag has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Website, and does not cover information that may be collected through software downloaded from the site. If you have questions or complaints regarding our privacy policy or practices, please contact us at legalnotices@nextag.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe here.
+**TRUSTe:** Nextag has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Website, and does not cover information that may be collected through software downloaded from the site. If you have questions or complaints regarding our privacy policy or practices, please contact us at legalnotices@nextag.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe here.
 
 This Privacy Statement applies to all "users", including those who visit the Websites without being registered. This Website Privacy Statement is effective as of the date listed above. Even if you read and/or agreed to a prior privacy statement, you need to review this updated version. We reserve the right to revise this Website Privacy Statement at any time and at our discretion, as described in this paragraph. If we decide to change our Website Privacy Statement, we will post those changes to this Website Privacy Statement accessible on the homepages of the Websites, and other places we deem appropriate. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users via either email or by posting a notice on the Websites for 30 days, prior to such use taking effect.
 
@@ -34,11 +34,11 @@ Our Websites are not intended for use by people under eighteen (18) years of age
     
 *   Social Networks: Some of the Websites allow you to register or login to an account you already have with a social networking account, such as Facebook. If you decide to login via a social networking account, we receive information about you from the social networking account, which can include your name, profile picture, email address, gender, user ID, and comments made on the social networking account site. Logging in to our Websites via a social networking account is always optional, but may allow you to publish your activity or interactions with our Websites to your social network account, such as Facebook or Twitter. The information we collect, and the social network's use of any information that you publish to it, may depend on the privacy settings you have with the social networking account or the social network's privacy policy, so be sure to consult your social networking account's privacy settings, and the social networking account's privacy policy and terms of use.
     
-*   Social Media Widgets: Our Website includes Social Media Features, such as the Facebook and Twitter buttons and Widgets. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+*   Social Media Widgets: Our Website includes Social Media Features, such as the Facebook and Twitter buttons and Widgets. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
     
 *   Blog: Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at legalnotices@nextag.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
     
-*   Survey / Contest: We may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and email address). We use this information to improve our site, notify you if you won a contest or to send you an email newsletter or other marketing materials. We use SurveyMonkey a third party service provider to conduct these surveys. that company is prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a survey with other third parties unless we give you prior notice and choice.
+*   Survey / Contest: We may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and email address). We use this information to improve our site, notify you if you won a contest or to send you an email newsletter or other marketing materials. We use SurveyMonkey a third party service provider to conduct these surveys. that company is prohibited from using our users? personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a survey with other third parties unless we give you prior notice and choice.
     
 *   Links to Third Parties: Our Site includes links to other Websites whose privacy practices may differ from those of Nextag. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Website you visit.
     
@@ -160,27 +160,39 @@ Nextag wants your Internet surfing experience to be safe. Help protect yourself.
 If you have any questions about this Website Privacy Statement, the practices of the Websites, or your use of the Websites, please contact us at:
 
 Privacy Officer  
-Nextag, Inc.  
-2955 Campus Dr., 3rd Floor  
-San Mateo, CA 94403  
+NexTag, Inc.  
+800 Bridge Pkwy, Floor 2  
+Redwood City, California 94065  
 legalnotices@nextag.com
 
 Return to Top  
-Shopping International
+Shopping About US
+
+*   About Nextag
+
+International
 
 *   Australia
+*   Canada
 *   France
 *   Germany
 *   Italy
 *   Japan
 *   Spain
 
-Mobile Merchants My Account About Us Customer Service How Are We Doing?
+Merchant Customer Service My Account
+
+*   Sign In
+*   My Lists
+*   Register
+*   Manage Radar
+*   Preferences
+
+How Are We Doing?
 
 *   Tell Us What You Think
 
-More Fun Stuff
+*   Find us on Facebook
+*   Follow us on Twitter
 
-*   Blog
-
-© 1999-2015, Nextag, Inc.
+© 1999-2015, Nextag, Inc. View Recent: Products (0) | Searches (0) | Sellers (0) My Favorites: Products (0) | Searches (0) | Brands (0) | Sellers (0) | My Lists (0) NexTag. Scroll To Top | Terms of Use | Privacy Policy | © 1999-2015, Nextag, Inc.
