@@ -7,7 +7,7 @@ The LivingSocial privacy policy (the “Privacy Policy”) is intended to inform
 *   Security
 *   Children’s Personal Information
 *   Access
-*   Enforcement
+*   Safe Harbor Dispute Resolution
 *   Changes to this Privacy Policy
 *   How to Contact Us
 
@@ -39,7 +39,7 @@ As you use LivingSocial, certain information may be passively collected and stor
 
 _Mobile &. Location Information_
 
-If you use mobile-enabled services provided by Living Social, such as any LivingSocial mobile application made available by us, we may receive information about your use of our services from your mobile device while you use our applications or services. This may also include information about your precise location if you have enabled location-based services on your mobile device. Certain applications or services may also require addition information collection, such as information to be sent when you are not logged into LivingSocial for alerts services, and the terms of such collection will be identified when you subscribe to or sign up for such services or applications.
+If you use mobile-enabled services provided by Living Social, such as any LivingSocial mobile application made available by us, we may receive information about your use of our services from your mobile device while you use our applications or services. This may also include information about your precise location if you have enabled location-based services on your mobile device. Certain applications or services may also require additional information collection, such as information to be sent when you are not logged into LivingSocial for alerts services, and the terms of such collection will be identified when you subscribe to or sign up for such services or applications.
 
 _Social Media Information_
 
@@ -99,9 +99,9 @@ Access to Personal Information
 
 You have the right to request a copy of the Personal Information that we hold about you. If you would like a copy of some or all of your Personal Information, please contact us at privacy@livingsocial.com. We may charge a reasonable fee for this service. We want to make sure that your information is accurate and up-to-date. You may ask us to correct or remove information that you think is inaccurate. You may change any of your profile information by editing it in the profile settings page.
 
-Enforcement
+Safe Harbor Dispute Resolution
 
-Personal or other information about you collected on LivingSocial sites and services may be stored and processed in the United States or any other country in which LivingSocial or its affiliates, subsidiaries and services providers maintain facilities. LivingSocial complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of information from European Union Member Countries. To learn more about the Safe Harbor program, please visit the Safe Harbor Website.
+Personal or other information about you collected on LivingSocial sites and services may be stored and processed in the United States or any other country in which LivingSocial or its affiliates, subsidiaries and services providers maintain facilities. LivingSocial, Inc. participates in the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided below). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet here. Please click here for fax and postal mail information.
 
 Changes To This Privacy Policy
 
