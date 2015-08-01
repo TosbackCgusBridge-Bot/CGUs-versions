@@ -241,7 +241,7 @@ This Web site is maintained by Lenovo or one of its subsidiaries around the worl
 
 Please use the Back button on your browser or close this window to return to the page where you were.
 
- **Back to top**
+ **Back to top** STAY CONNECTED
 
 *   facebook
 *   twitter
