@@ -1,11 +1,4 @@
-Aéropostale Live Love Dream P.S. from Aéropostale
-
-*   Email Sign Up Sign Up Sign up for Aéropostale emails Sign up for P.S. From Aéropostale emails
-*   My Account
-*   ship to:
-*   My Bag: 0
-
-Aéropostale Go
+Aéropostale
 
 *   Girls
     
@@ -80,9 +73,20 @@ Aéropostale Go
     
     *   JACKETS
     *   UNDERWEAR + LOUNGE
+    *   SHOES
     *   ACCESSORIES
+*   Active
+    *   LIVE LOVE DREAM
+    *   Active
+    *   Yoga
+    *   Lounge
+    *   Swim
+    *   Intimates
+    *   Panties
+    *   Accessories
 *   Room
     
+    *   SHOP BY ROOM
     *   Dreamweaver
     *   Touch of Whimsy
     *   Lofty Ideals
@@ -92,6 +96,7 @@ Aéropostale Go
     *   Forever Island
     *   Peace, Love, &. Neon
     
+    *   SHOP BY CATEGORY
     *   Bedding
     *   Five Star Sheets &. Pillowcases
     *   Decorative Pillows
@@ -112,30 +117,19 @@ Aéropostale Go
     *   Clearance Tops
     *   Clearance Bottoms
     *   Clearance Accessories
-*   Brands
-    
+*   P.S. KIDS
     *   GIRLS
-    *   Bethany Mota
-    *   Free State
-    *   Invite Only
-    *   LIVE LOVE DREAM
-    *   Tokyo Darling
-    
-    *   GUYS
-    *   Brooklyn Calling
-    *   Free State
-*   Factory
-    
-    *   GIRLS
-    *   Factory Tops
-    *   Factory Bottoms
-    *   Factory Accessories
-    
-    *   GUYS
-    *   Factory Tops
-    *   Factory Bottoms
-    *   Factory Accessories
-*   Aero Now
+    *   BOYS
+    *   UNIFORM
+    *   CLEARANCE
+
+*   Go
+
+*   account
+    *   My Account
+    *   Email Sign Up
+    *   Track Your Order
+*   0
 
 Safety, Security and Privacy
 
