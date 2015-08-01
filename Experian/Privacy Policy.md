@@ -252,8 +252,4 @@ Close ×Close Log In To Our Products
 *   Hitwise
 *   Simmons OneView
 
-Register today for the 2015 Client Summit!  
-July 29-31, Las Vegas, NV  
-Learn more
-
 Close The text you entered was incorrect. Please try again. Can't read the words below? Click the refresh button or try the audio icon. The text you entered was incorrect. Please try again. Can't read the words below? Click the refresh button or try the audio icon.
