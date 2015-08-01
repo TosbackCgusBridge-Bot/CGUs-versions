@@ -19,7 +19,6 @@ Menu
         Benefits And Services
         *   View Cardholder Benefits
         *   See Credit Card FAQ
-        *   Learn About Image Card
         *   Redeem and Learn About Rewards
         *   Pay Your Bill
         *   Learn About Credit Tracker
