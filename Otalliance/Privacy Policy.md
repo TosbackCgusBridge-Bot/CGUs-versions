@@ -96,8 +96,20 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
+Mon, Nov 16, 2015 DC Salon Dinner &. Reception - Cross Device Tracking &. IoT
+
+Join FTC Commissioner Julie Brill, Congresswoman Suzan DelBene and members of Congress discuss the evolving world of privacy and the challenges and opportunities of the cross device tracking and  "Internet of Things".  This off-the-record dinner is a unique opportunity for invited guests to discuss the world of big data, role of innovation and the impact on consumer trust and confidence. Attend to get an insider’s view on trends, trheats and opportunities.
+
+Tue, Nov 17, 2015 OTA Member &. IoT Working Group Meeting
+
+Save the date.  Panels to include speakers from the public &. private sectors, with updates on key issues including facial recognition, online tracking, breach legislation, and the IoT trust framework..  Hosted at the Holland &. Knight Conference Center.   Contact OTA for more information at 425-455-7400.  Limited to OTA members and invited guests who abide to "Chatham House Rule"
+
 *   OTA Blog
 *   Newsletters
+
+Fri, Jul 31, 2015 The Demise of Online Advertising As We Know it
+
+Recent news is troubling as the tide has clearly turned on the online advertising community.  As I outlined nearly five years ago, the failure of the industry to put in place meaningful controls and consumer choice regarding data collection AND stem the tide of malicious advertising will bring about a “tragedy of the commons”.  Don’t get me wrong I love advertising and value the benefits I receive from ad supported services.  That said the risk vs reward is increasingly being questioned.  Data today suggests upwards of 25% of users are blocking ads and increasing corpora
 
 Mon, Jul 6, 2015 Q&A with OTA – Creating an IoT Trust Framework
 
@@ -110,10 +122,6 @@ Today the OTA Board of Directors has agreed to allow any interested party to bec
 Wed, Jun 17, 2015 OTA Drops Out of NTIA Multistakeholder Process
 
 Today OTA announced with regret it was withdrawing support of the multi-stakeholder process convened by the National Telecommunications and Information Administration to develop a voluntary code of conduct pertaining to facial recognition technology.  We commend the efforts of NTIA staff including John Verdi and others who have brought to the table a wide range of subject matter experts for us to learn from over the past 16 months.  Regrettably here has been little meaningful progress and it has become clear that we will be unable to reach consensus on fundamental i
-
-Wed, May 27, 2015 OTA Response to NTIA StakeHolder Engagement in Cybersecurity
-
-Collectively we believe multi-stakeholder efforts must be open, transparent and develop consensus by providing an equitable and fair opportunity for interested parties to participate.  Processes need to be established to help keep discussions, priorities and scope from being dominated by special interest and dominate market players.  We believe a facilitated led process will effectively drive the formation of best practices to allow us to improve the security, stability and resiliency of Internet.
 
 Resources
 
