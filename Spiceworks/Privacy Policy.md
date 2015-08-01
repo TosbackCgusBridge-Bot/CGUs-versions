@@ -1,6 +1,6 @@
 Spiceworks Privacy Policy
 
-_Last Updated: November 12, 2014_
+_Last Updated: July 31, 2015_
 
 At Spiceworks, our most important asset is our relationship with our user community. We are committed to maintaining the confidentiality, integrity and security of information about our users and their organizations. We are proud of our privacy practices and want you to know how we protect your information submitted or collected through your use of (a) the Spiceworks website located at www.spiceworks.com and community.spiceworks.com, and any subdomain of thereof (collectively, the "Site"), (b) any off-line software components made available to you by or on behalf of Spiceworks on or through the Site that have links to this Privacy Policy (collectively, the "Software"), and (c) any web-based services made available to you by or on behalf of Spiceworks via the Site that have links to this Privacy Policy (each, a “Web-Based Offering” and (a), (b) and (c), collectively or any part thereof, the "Service").
 
@@ -9,10 +9,6 @@ This Spiceworks Privacy Policy describes how we treat Personal Information you p
 Please take a moment to read the following to learn more about our information practices, including what type of Personal Information is gathered, how the Personal Information is used and for what purposes, to whom we disclose Personal Information, and how we safeguard your Personal Information. If you do not agree with our policies and practices, your choice is not to use our Service. By accessing or using any portion of the Service, you agree to this Privacy Policy.
 
 This Privacy Policy is incorporated by reference into the Spiceworks Terms of Use or other legal document applicable to your relationship with Spiceworks. The term “Spiceworks” includes Spiceworks, Inc. and our affiliates and subsidiaries.
-
-TRUSTe Licensee
-
-Spiceworks has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your Personal Information. The TRUSTe program covers information that is collected through our website www.spiceworks.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at feedback@spiceworks.com. If you are not satisfied with our response you can contact TRUSTe here.
 
 Introduction
 
@@ -143,4 +139,4 @@ If you have comments on any part of the Service or ideas on how to improve it, p
 
 The information contained in this web site is subject to change without notice.  
 Copyright © 2006-2015 Spiceworks, Inc. All rights reserved.  
-Spiceworks, Inc. 3700 North Capital of Texas Highway #100, Austin, TX 78746, USA
+Spiceworks, Inc. 3700 North Capital of Texas Highway #100, Austin, TX 78759, USA
