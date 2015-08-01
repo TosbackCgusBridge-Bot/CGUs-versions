@@ -20,14 +20,14 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Women Featured Shops
             *   2015 Swim Shop
-            *   Activewear Collection
             *   Jeans Guide
-            *   Swim Finder
+            *   Cardigan Shop
+            *   Outerwear Shop
             
             *   New Arrivals
-            *   New UPF 50 Swim Tee
-            *   Little Black Dress
+            *   Best of Fall 2015
             *   Tunic Shop
+            *   Activewear Collection
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
@@ -59,10 +59,10 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Men
         *   Featured Shops
             *   Back to Men Featured Shops
-            *   2015 Polo Shop
+            *   Jeans Guide
             *   No Iron Shop
-            *   Activewear Collection
-            *   Supima Dress Shirts &. Polos
+            *   2015 Polo Shop
+            *   Supima Shirts &. Polos
             
             *   New Arrivals
             *   Tailored Fit Shop
@@ -169,10 +169,10 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Shoes &. Accessories
         *   Featured Shops
             *   Back to Shoes &. Accessories Featured Shops
+            *   Accessories Shop
+            *   Boots &. Booties
+            *   Totes &. Handbags
             *   Backpacks &. Lunch Boxes
-            *   Water Shoes &. Sandals
-            *   Luggage &. Bags
-            *   Totes
     *   *   Women
             *   Back to Shoes &. Accessories Women
             *   Shoes
