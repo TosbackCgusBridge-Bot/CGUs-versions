@@ -1,30 +1,3 @@
-*   home
-*   shows
-    *   News
-    *   Full Episodes
-    *   All Shows
-    *   Music From The Shows
-    *   TV Schedule
-*   celebrity
-    *   News
-    *   Big Morning Buzz Live
-    *   The Gossip Table
-*   music
-    *   News
-    *   Storytellers Live
-    *   The 20
-    *   VH1 Classic
-    *   VH1 Soul
-    *   Vh1 You Oughta Know
-    *   Artists A-Z
-*   news
-*   shop
-
-*   follow **vh1**
-    
-
-*   disconnect
-
 Last Modified: Dec 18, 2014  
 Click here to learn about the most recent significant updates. **Go to Terms of Use Agreement** **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**  
 This is the privacy policy ("Privacy Policy") for VH1.com ("Site," "we," "us," or "our") an Internet website offered in cooperation with the VH1 television channel or programming service ("VH1 Channel"). The VH1 Channel and the Site (together, "VH1") are provided by Viacom Media Networks ("VMN"), a division of Viacom International Inc. (together, VMN and Viacom International Inc., the "Parent Companies").  
