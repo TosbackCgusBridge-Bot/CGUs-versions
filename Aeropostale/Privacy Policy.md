@@ -75,14 +75,12 @@ Aéropostale
     *   UNDERWEAR + LOUNGE
     *   SHOES
     *   ACCESSORIES
-*   Active
+*   LIVE LOVE DREAM
     *   LIVE LOVE DREAM
     *   Active
     *   Yoga
     *   Lounge
-    *   Swim
     *   Intimates
-    *   Panties
     *   Accessories
 *   Room
     
