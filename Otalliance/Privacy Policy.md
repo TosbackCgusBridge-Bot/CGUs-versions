@@ -109,7 +109,9 @@ Save the date.  Panels to include speakers from the public &. private sectors, 
 
 Fri, Jul 31, 2015 The Demise of Online Advertising As We Know it
 
-Recent news is troubling as the tide has clearly turned on the online advertising community.  As I outlined nearly five years ago, the failure of the industry to put in place meaningful controls and consumer choice regarding data collection AND stem the tide of malicious advertising will bring about a “tragedy of the commons”.  Don’t get me wrong I love advertising and value the benefits I receive from ad supported services.  That said the risk vs reward is increasingly being questioned.  Data today suggests upwards of 25% of users are blocking ads and increasing corpora
+Updated 8-1-15
+
+Recent news is troubling as the tide has clearly turned on the online advertising community.  As I outlined nearly five years ago, the failure of the industry to put in place meaningful controls and consumer choice regarding data collection AND stem the tide of malicious advertising will bring about a “tragedy of the advertising commons”. 
 
 Mon, Jul 6, 2015 Q&A with OTA – Creating an IoT Trust Framework
 
