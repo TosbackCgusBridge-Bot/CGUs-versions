@@ -86,11 +86,7 @@ K) Copyrights, Trademarks, Patents and Intellectual Property Rights
 
 44 Tagged respects copyright law and expects Members to do the same. Illegal or unauthorized copying, distribution, modification, public display, or public performance of copyrighted works is an infringement of the copyright holders' rights. If you believe that your work has been copied in a way that constitutes copyright infringement, or your intellectual property rights have been otherwise violated, please notify Tagged's Agent for Notice of claims of copyright or other intellectual property infringement ("Agent"), at:
 
-45 Tagged Copyright Agent  
-101A Clay St Box #117  
-San Francisco, CA 94111  
-(650) 273-4289  
-copyrightagent@tagged.com
+45 Tagged Copyright Agent 101A Clay St Box #117 San Francisco, CA 94111 (650) 273-4289 copyrightagent@tagged.com
 
 Please provide our Agent with the following Notice:
 
