@@ -134,7 +134,7 @@ Resources
 
 *   Blog
 *   Case Studies
-*   Industry Trends
+*   Insights Research
 *   Bizrate Insights FAQ
 *   Publisher Program FAQs
 
