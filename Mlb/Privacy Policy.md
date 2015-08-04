@@ -61,12 +61,12 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
 *   Stats Stats Stats
     *   Players
     *   Regular Season League Leaders
-    *   Regular Season Batting Leaders
-    *   Regular Season Pitching Leaders
+    *   Standard Stats
+    *   Advanced Stats
     *   Statcast Leaders
     *   Sortable Team Stats
     *   Milestone Tracker
-    *   Top Rookies Tracker
+    *   PECOTA
     *   Offseason Leagues
     *   Scoring ChangesSteal A Home Sweeps Sortable Stats
 *   Standings Standings Standings
