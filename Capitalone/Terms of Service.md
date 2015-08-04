@@ -63,6 +63,7 @@ Menu
     *   Bank Expand Bank Menu Banking Accounts
         
         *   Bank Home
+        *   Business Checking
         *   Business Savings
         
         Financing &. Credit
