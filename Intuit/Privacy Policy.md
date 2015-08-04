@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13835039891
+true true 10.60.216.10 C13718820162
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p15.jcpenney.com SERVER NAME :->. dtcomexpr1l1j6 TIME :->. Sun Aug 02 04:30:56 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Mon Aug 03 06:18:12 EDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -146,10 +146,17 @@ Recommendations Discover handpicked items we think you'll love. sign in
 get connected
 
 *   1.800.322.1189
-*   email offers
-*   mobile offers
 
-CUSTOMER SERVICE
+attention
+
+*   Enter a valid email address
+*   Enter a valid email address
+
+attention
+
+*   Enter a valid mobile number.
+
+Sign up for email alerts, offers promotions Mobile offers and promotions Message and data rates might apply. Upto 8 messages from month from 527365 to the mobile number you provide. Signup is not required to purchase goods or services. Text **HELP** for help and **STOP** to cancel. Terms and conditions    privacy policy CUSTOMER SERVICE
 
 *   returns
 *   shipping information
