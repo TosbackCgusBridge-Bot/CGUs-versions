@@ -96,6 +96,10 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
+Mon, Oct 19, 2015 Sailthru Lift 2015 - The Art &. Science of Modern Marketing
+
+Marketing is in the midst of an industrial revolution: consumers are changing, commerce and monetization are shifting, data is growing, and competition is smarter, faster than ever before.  Leading marketers are focused on transforming the customer lifetime experience. They’re looking for solutions to bring themselves closer to consumers than ever before while face-to-face interactions are fewer and far between.
+
 Mon, Nov 16, 2015 DC Salon Dinner &. Reception - Cross Device Tracking &. IoT
 
 Join FTC Commissioner Julie Brill, Congresswoman Suzan DelBene and members of Congress discuss the evolving world of privacy and the challenges and opportunities of the cross device tracking and  "Internet of Things".  This off-the-record dinner is a unique opportunity for invited guests to discuss the world of big data, role of innovation and the impact on consumer trust and confidence. Attend to get an insider’s view on trends, trheats and opportunities.
