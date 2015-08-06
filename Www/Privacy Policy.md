@@ -1,293 +1,134 @@
-Our Online Privacy Policy
+Our Online Privacy Policy Privacy Intro
 
-En Espanol
+**Privacy Policy Pages:** Privacy Policy | Our Cookie Policy | Current Third-Party Pages
 
-_Note: We're updating the White House privacy policy. The new policy will go into effect April 18, 2014 and can be seen here._
+The White House is committed to protecting individual privacy and securing the personal information made available to us when you visit WhiteHouse.gov, use our mobile app, or visit White House pages hosted by other sites (such as our official profiles on social networking sites). This Privacy Policy describes what information is made available to the White House and how that information is used and retained, and provides information on:
 
-The White House is committed to protecting individual privacy and securing the personal information made available to us when you visit WhiteHouse.gov, as well White House pages on other sites (such as official White House profiles on social networks).
+*   **Information we receive** (when you provide it, visit WhiteHouse.gov, use the WhiteHouse.gov mobile app, receive email updates, or interact with official White House presences on third-party sites)
+*   **How this information is used**
+*   **Sharing of this information**
+*   **Data retention**
+*   **Third-party tools and sites**
+*   **Children and privacy**
+*   **Security**
 
-This privacy policy describes what information is made available to the White House and third parties when you visit WhiteHouse.gov or official White House pages on other sites, and how the White House uses and stores that information.
+**If you have questions about this policy or suggestions for its improvement, please let us know at WhiteHouse.gov/Privacy/Feedback.**
 
-If you have questions about this policy or suggestions for its improvement, please let us know.  You can contact us at http://www.whitehouse.gov/privacy/feedback.
+**En español**
 
-This policy is organized into the following sections:
+Information Received and Retained by White House Online Platforms Using the WhiteHouse.gov Mobile Application
 
-1.  Information received and stored when you visit WhiteHouse.gov
-    1.  1.1. Basic information
-    2.  1.2. Website Measurement and Customization Technologies (E.g., Cookies)
-        1.  1.2.1. First-party (WhiteHouse.gov) website measurement and customization technologies
-        2.  1.2.2. Third-party website measurement and customization technologies
-        3.  1.2.3. How you can control website measurement and customization technologies
-    3.  1.3 Personal information that you voluntarily submit to WhiteHouse.gov
-    4.  1.4 WhiteHouse.gov User Accounts
-2.  Links on WhiteHouse.gov to external sites
-3.  Visiting official White House pages on third-party websites
-4.  Email subscriptions and updates
-5.  Children and privacy on WhiteHouse.gov
-6.  Security of WhiteHouse.gov
-7.  Updates to this privacy policy
+When you use the WhiteHouse.gov Mobile Application (“App”), the App pulls content from the White House website, generating the same basic information as when you visit WhiteHouse.gov (see Visits to WhiteHouse.gov). The WhiteHouse.gov Mobile App does not collect geolocation information or use location services.
 
-En Espanol
+You may sign up to receive “push notification” messages via a third party provider (currently Urban Airship). To make sure messages reach the correct devices, our third party provider relies on a device token unique to your mobile device. While we may be able to access a list of the tokens, the App and tokens do not reveal your identity, unique device ID, or contact information to us. If, at any time, you wish to stop receiving push notifications, simply adjust your phone settings or remove the App.
 
-We will revise or update this policy if our practices change, or as we develop better ways to keep you informed about them. You should refer back to this page often for the latest information and the effective date of any changes. If we decide to change this policy, we will post a new policy on our site and change the date at the bottom. Changes to the policy shall not apply retroactively.
+The White House receives aggregate data about the use of our App, such as the number of people who have opened the App from a third party provider (currently Google Analytics). We also receive aggregate data from the platforms that distribute our App (currently the iTunes Store and Google Play Store), such as the number of people who download the App and mobile set-up information (e.g., device model, App version, country, language, and mobile carrier). Please consult the privacy policies of these third parties for further information.
 
-We will revise or update this policy if our practices change, or as we develop better ways to keep you informed about them. You should refer back to this page often for the latest information and the effective date of any changes. If we decide to change this policy, we will post a new policy on our site and change the date at the bottom. Changes to the policy shall not apply retroactively.
+Email Subscriptions
 
-1.  Information received and stored by the White House when you visit WhiteHouse.gov
-    1.  1.1 Basic Information
-        
-        When a computer is used to access information on WhiteHouse.gov, the following basic information is automatically received and stored by the White House web servers hosting WhiteHouse.gov:
-        
-        *   Internet Protocol (IP) Address.  A computer’s IP address establishes its location on the internet and allows other computers, such as those hosting WhiteHouse.gov, to send it content and other information;
-        *   The internet domain name when a computer accesses the internet through a domain, such as from a corporation (“xcompany.com”) or university ("yourschool.edu");
-        *   The date, time, and duration of a website visit;
-        *   If a computer accesses a page on WhiteHouse.gov via a link on another page, the URL of that referring, non-WhiteHouse.gov page;
-        *   Information about the computer set-up, such as the type and version of web browser (e.g., Internet Explorer 8.0, Mozilla Firefox 5.0), operating system (e.g., Unix, Mac OS, MS Windows), Java support (yes or no), Flash version (e.g., 10.1 r85), screen resolution (e.g., 1280x800), and connection speed (e.g., DSL, T1);
-        *   The specific pages a computer accesses when it requests information from  WhiteHouse.gov. and
-        *   The amount of data (measured in number of bytes) transmitted from WhiteHouse.gov to a computer.
-        
-        The White House does not use this information to identify or track the browsing of individual users.  We do use it to generate aggregate statistics about how WhiteHouse.gov is used.  We retain this information for a year—for example, server logs from June 2011 will be deleted in June 2012.
-        
-    2.  We do not sell, rent, exchange, or otherwise disclose this information to persons or organizations outside the Executive Office of the President.  In some cases, we may share the information with other federal agencies in response to lawful law enforcement requests or to protect WhiteHouse.gov from security threats.
-        
-    3.  1.2. Website Measurement and Customization Technologies (E.g., Cookies)
-        1.  1.2.1. First-party (WhiteHouse.gov) Website Measurement and Customization Technologies
-            
-            The White House uses web measurement and customization technologies to make WhiteHouse.gov function better for visitors and to better understand how the public is using the website.
-            
-        2.  This means that when you visit a page on WhiteHouse.gov, the internet browser on your computer may download and save a small file from WhiteHouse.gov (commonly called a “cookie”) so that our website can recognize your specific computer and browser when you use WhiteHouse.gov in the future.  The White House does not use technologies that track your interactions on non-WhiteHouse.gov websites.
-            
-        3.  Information on how to control these web measurement and customization technologies can be found in Section 1.2.3: How you can control website measurement and customization technologies.
-            
-            These technologies fall into two categories, based on the length of time they remain active:
-            
-            *   Single-session cookies last only as long as a web browser is open.  Once the browser is closed, the data files on your computer are deleted.
-            *   Multi-session cookies last beyond a single session of browsing a website. this allows a website to recognize a computer or user for defined amount of time.
-            
-            WhiteHouse.gov uses the following web measurement and customization technologies (defined and organized per the Office of Management and Budget’s “Guidance for Online Use of Web Measurement and Customization Technologies” (OMB M-10-22)):
-            
-            *   Session cookies are used for technical purposes, such as enabling better navigation through the site, facilitating the use of user accounts (see Section 1.4), and generating aggregated statistics about how the website is used. Under the framework of OMB M-10-22, this qualifies as a Tier 1 use.
-            *   Persistent cookies are used to recognize a computer that has previously visited WhiteHouse.gov, which can improve a user’s experience, for example by continuing preference settings from previous visits.  WhiteHouse.gov currently uses the following first-party persistent cookies:  When a visitor views a welcome, or ‘splash,’ page, WhiteHouse.gov sets a persistent cookie to prevent them from seeing that page repeatedly.  This cookie does not collect personal identifying information.  WhiteHouse.gov sets three persistent cookies to measure website metrics, such as which pages are popular and how often people visit the website. These cookies do not collect personal identifying information.  Under the framework of OMB M-10-22, this qualifies as a Tier 2 use.
-            
-            The White House uses a third-party analytics provider (currently Google Analytics) to analyze the data collected through the session and persistent metrics cookies.  The third-party analytics provider does not receive personally identifiable information through these cookies and does not combine, match, or cross-reference WhiteHouse.gov information with any other information.  Please review the third-party analytics provider’s privacy policy for additional information.
-            
-        4.  These cookies collect information similar to that automatically received and stored on the servers hosting WhiteHouse.gov. they do not collect personal identifying information.  The White House generally does not access or store the raw information collected through these cookies.  We do view aggregate statistical analyses prepared by our third-party analytics provider, but these analyses do not include any personally identifiable information.  We do not sell, rent, exchange, or otherwise disclose this information to persons or organizations outside the Executive Office of the President.  In some cases, we may share information with other federal agencies in response to lawful law enforcement requests or to protect WhiteHouse.gov from security threats.  As explained in section 1.2.3, you can control website measurement and customization technologies on WhiteHouse.gov.
-            
-        5.  1.2.2. Third-party website measurement and customization technologies
-            
-            Some pages on WhiteHouse.gov may include web content or functionality from third parties, such as embedded videos hosted by non-WhiteHouse.gov services.  For example, as of July 16, 2012, content or functionality from the following third parties may be present on some WhiteHouse.gov pages:
-            
-            *   YouTube.com;
-            *   Vimeo.com;
-            *   Flickr.com;
-            *   Socrata.com;
-            *   Google Moderator;
-            *   Livestream.com;
-            *   UStream.com;
-            *   MapBox.com;
-            *   SlideShare;
-            *   Scribd.com. and
-            *   SoundCloud.com
-            
-            For your convenience, this list will be updated on a regular basis to reflect the third party providers of content or functionality that are commonly used on WhiteHouse.gov.  If you would like to receive content that is posted using one of these third-party providers without utilizing the third-party provider, please contact us at http://www.whitehouse.gov/tech/feedback. 
-            
-            These third parties may use web measurement and customization technologies (such as cookies) in conjunction with the provision of this content or functionality.  You should consult the privacy policies of these third parties for further information.  We do not knowingly use third-party tools that place a multi-session cookie prior to the user interacting with the tool, for example by playing an embedded video.  If you become aware of a third-party tool on WhiteHouse.gov that places a multi-session cookie prior to any user interaction, please contact us at http://www.whitehouse.gov/privacy/feedback
-            
-        6.  1.2.3. How you can control website measurement and customization technologies
-            
-            Visitors can control aspects of website measurement and customization technologies used on WhiteHouse.gov.  Visitors who choose to disable these technologies will still have access to comparable information and services on WhiteHouse.gov.
-            
-            One of the most common forms of website measurement and customization technologies is the use of “cookies.”  You can choose not to accept cookies from any website, including WhiteHouse.gov, by changing the settings of your browser.  You can also delete cookies stored in your browser at any time. 
-            
-            Here is a list of the cookies that are used by WhiteHouse.gov:
-            
-            *   Cookies that begin with wh\_splash are used to prevent users from seeing welcome, or ‘splash,’ pages repeatedly.  These cookies do not use a unique identifier.
-            *   Cookies that have a name that begin with \_utm are each unique and are used for the purpose of website analytics. 
-                
-            *   Cookies with the name “has\_js” are used to track if a user’s browser has Javascript enabled,and cookies with the name “d” are used to track if the website should present in a desktop or mobile format. these cookies persist on a session basis only.  These cookies do no use a unique identifier.
-            
-            This list will be updated frequently with other cookies used by WhiteHouse.gov.  This list does not include cookies associated with third-party content or functionality included on WhiteHouse.gov (see section 1.2.2.).
-            
-        7.  For more information about cookies, including how to delete them from your computer and configure your browser to refuse them from WhiteHouse.gov or any other site, visit the following resources:
-            
-            *   USA.gov
-            *   GetNetWise
-            
-            Another form of website measurement and customization technology is the use of “flash cookies” which are created by Adobe Flash, a technology that powers web content such as videos.  To manage these, visit the Website Storage Settings Panel on Adobe.com.  WhiteHouse.gov does not currently use first-party flash cookies, but they may be used by third party technologies included in WhiteHouse.gov (see section 1.2.2.). 
-            
-    4.  1.3. Personal information that you voluntarily submit to WhiteHouse.gov
-        
-        If you choose to provide us with personal information, for example by completing a “Contact Us” form, signing up for our email list, or leaving a comment, we may use that information to respond to your message and/or to help us get you the information or services you requested.  Submitting this personal information (name, address, telephone number, email address, etc.) is voluntary and is not required to access information on WhiteHouse.gov.
-        
-        This information will likely be retained by the White House until the end of the current Administration, at which time it will be transferred to the National Archives and Records Administration (NARA) in accordance with the Presidential Records Act (PRA).  NARA may eventually release this material to the public, but is required, in accordance with the PRA and the Freedom of Information Act (FOIA), to withhold any information that would constitute a clearly unwarranted invasion of personal privacy if released.  NARA may also dispose of this information if it determines it to lack value, in accordance with the PRA. the White House may also dispose of it on the same grounds after notifying NARA in accordance with the PRA.  Access to this information may be requested under FOIA five years after the end of the current Administration.
-        
-        Information you voluntarily submit through WhiteHouse.gov, such as your name, city, state, and comments on public issues, may be treated as public information. We may, for example, publish compilations of comments collected through WhiteHouse.gov or provide them to national leaders, members of the press or other individuals outside of the federal government.  We exercise discretion to protect voluntarily submitted information if its disclosure would raise privacy concerns.  Except as described above, we do not sell, rent, exchange, or otherwise disclose this information to persons or organizations outside the Executive Office of the President.  In some cases, we may share information with other federal agencies in response to lawful law enforcement requests or to protect WhiteHouse.gov from security threats.  Additionally, if you seek assistance on a matter within the jurisdiction of a federal agency, we may share your information with that agency for the limited purpose of addressing your request for assistance.
-        
-    5.  1.4. WhiteHouse.gov User Accounts
-        
-        WhiteHouse.gov includes features, such as We the People, that may require users to create a user account in order to access their full functionality. Setting up an account requires the user to provide a valid email address and a first and last name. We use this information to communicate with you and to identify content you create with the account. The features that require a user account may set first party session cookies to maintain a user's login.
-        
-        Some of the information provided to set up a user account (your name and zip code) and user-generated content created with the account may be treated as public information (see Section 1.3). We will not disclose, sell, rent, or exchange the email address you use to create your account to individuals or organizations outside the Executive Office of the President.
-        
-        Data from White House user accounts are not associated with server logs or website analytics.
-        
-        While users may be unable to contribute content to some features on WhiteHouse.gov without an account, they are free to view the site and content generated by others. Those who wish to communicate with the White House but do not wish to create a user account may do so via the Contact the White House page.
-        
-2.  Links on WhiteHouse.gov to External Sites
-    
-    WhiteHouse.gov may contain links to web sites created and maintained by other public and/or private organizations and individuals.  WhiteHouse.gov provides these links as a service to our users.  When you follow a link to an external site, you are leaving WhiteHouse.gov and are subject to the privacy and security policies of the owners/sponsors of the external site. WhiteHouse.gov does not control or guarantee the accuracy, relevance, timeliness, or completeness of information contained in a linked site.  We also do not endorse the organizations or individuals maintaining sites that we link, any views they express, or any products/services they offer. 
-    
-3.  Visiting Official White House Pages on Third-Party Websites
-    
-    The White House maintains official pages or accounts on several third-party web sites in order to better engage with the American public (a current list is below).  Your activity on those third-party sites is governed by the security and privacy policies of the third party sites.  Users of third-party sites are often sharing information with the general public, user community, and/or the third-party operating the third-party site.  These actors may use this information in a variety of ways.  Consequently, you should review the privacy policies of third-party sites before using them and ensure that you understand how your information may be used.  You should also adjust privacy settings on your account on any third-party site to match your preferences. 
-    
-    The White House archives some information that users submit or publish when engaging with the White House through official White House pages or accounts.  The White House archives this information to comply with the Presidential Records Act (PRA).  For example, on the social media service Twitter, the White House archives posts (i.e. “tweets”) from official White House accounts, “direct messages” sent to official White House accounts, and “replies,” which are tweets from other users to official White House accounts (these tweets begin with @ and the username of an official White House account, e.g., @WhiteHouse).  This information may contain PII, such as an individual’s username and any PII they elect to submit or publish. In some cases, public account information (e.g., name and/or handle) about users who “follow,” “friend,” or take a similar action with respect to an official White House page or profile on third-party sites may be automatically archived. This information may be retained by the White House until the end of the current Administration, at which time any archived information will be transferred to the National Archives and Records Administration (NARA) in accordance with the PRA.  NARA may eventually release this material to the public, but is required, in accordance with the PRA and the Freedom of Information Act (FOIA), to withhold any information that would constitute a clearly unwarranted invasion of personal privacy if released.  Access to this information may be requested under FOIA five years after the end of the current Administration.
-    
-    Information, including PII, that you voluntarily submit to or publish on a White House page on a third-party site may be treated as public information.  We may, for example, publish compilations of comments collected through these White House pages or provide them to national leaders, members of the press or other individuals outside of the federal government.  We exercise discretion to protect voluntarily submitted information if its disclosure would raise privacy concerns.  Except as described above, we do not sell, rent, exchange, or otherwise disclose this information to persons or organizations outside the Executive Office of the President.  In some cases, we may share information with other federal agencies in response to lawful law enforcement requests or to protect WhiteHouse.gov from security threats.  Additionally, if you seek assistance on a matter within the jurisdiction of a federal agency, we may share your information with that agency for the limited purpose of addressing your request for assistance.
-    
-    In some instances, a first-party session cookie may be set via third-party websites that feature embedded content served by WhiteHouse.gov (see Section 1.2.1).
-    
-    The White House has conducted and published a Privacy Impact Assessment of Third-Party Sites, which includes more information about these issues and can be accessed here.
-    
-    Below is the current list of official White House pages on third party websites.  For more information, read our blog post on these sites:  
-    Social Networks
-    
-    *   Facebook (Privacy)
-        *   The White House
-        *   Let's Move
-        *   Joining Forces
-        *   Race to the Top
-        *   Educate to Innovate
-        *   White House Live application
-    *   Twitter (Privacy)
-        *   @AmbassadorRice
-        *   @Blog44
-        *   @Bobby44
-        *   @Brundage44
-        *   @Cabinet
-        *   @Cecilia44
-        *   @DavidAgnew44
-        *   @DrBiden
-        *   @Erin44
-        *   @FLOTUS
-        *   @HealthCareTara
-        *   @Inouye44
-        *   @JEarnest44
-        *   @JesseCLee44
-        *   @JoiningForces
-        *   @Jordan44
-        *   @JSmith44
-        *   @Katie44
-        *   @KLewis44
-        *   @Lehrich44
-        *   @KS44
-        *   @LaCasaBlanca
-        *   @LetsMove  
-        *   @Macon44
-        *   @Maley44
-        *   @NSCPress
-        *   @PAniskoff44
-        *   @PeteSouza
-        *   @Pfeiffer44
-        *   @PressSec
-        *   @ProjectMyGov
-        *   @Racusen44
-        *   @Rhodes44
-        *   @Rosholm44
-        *   @Schultz44
-        *   @Simas44
-        *   @Vargas44
-        *   @VJ44
-        *   @VP
-        *   @WethePeople
-        *   @WhiteHouse
-        *   @WHLive
-        *   @WHVideo
-        *   @WHVine
-        *   @WHWeb
-    *   MySpace (Privacy)
-        *   The White House
-    *   LinkedIn: (Privacy)
-        *   The White House Group
-    *   Digg: (Privacy)
-        *    The White House
-    *   GitHub: (Privacy)
-        *    The White House
-    *   Foursquare: (Privacy)
-        *    The White House
-    *   Google+: (Privacy)
-        *    The White House
-    *   iHispano.com: (Privacy)
-        *   The White House
-    *   AMightRiver.com: (Privacy)
-        *   The White House
-    *   Quora: (Privacy)
-        *    Aneesh Chopra (Deactivated)
-        *    Todd Park
-        *    Macon Phillips
-        *    Kori Schulman
-    *   SoundCloud: (Privacy)
-        *    White House
-    *   Thunderclap: (Privacy)
-    *   Tumblr: (Privacy)
-        *    The Official White House Tumblr
-    
-     Video &. Multimedia
-    
-    *   YouTube (Privacy)
-        *   The White House
-        *   Let's Move
-    *   Vimeo (Privacy)
-        *   The White House
-    *   Hulu (Privacy)
-        *   President Obama's Weekly Address
-        *   West Wing Week
-        *   Speeches of President Obama
-        *   Inside the White House
-        *   Music and the Arts
-        *   White House White Board
-    *   Flickr: (Privacy)
-        *   The White House
-        *   Let's Move
-    *   iTunes: (Privacy)
-        *    White House Podcasts
-    *   UStream: (Privacy)
-        *   The White House
-    *   Pinterest: (Privacy)
-        *   The White House
-    *   Vine: (Privacy)
-        *   @WhiteHouse
-        *   @WHVine
-    *   Instagram: (Privacy)
-        *   The White House
-        *   First Lady Michelle Obama
-    
-    Document Sharing
-    
-    *   Avue: (Privacy)
-        *   White House Internship Program
-    *   Socrata: (Privacy)
-        *   The White House
-    *   SlideShare: (Privacy)
-        *   The White House
-    *   Scribd: (Privacy)
-        *   The White House
-4.  Email subscriptions and updates
-    
-    The White House maintains several lists of subscribers who have asked to receive periodic email updates.  Any recipient of a White House email may unsubscribe from future messages via a link at the bottom of each email message.  We do not sell, rent, exchange, or otherwise disclose our list subscribers to persons or organizations outside the Executive Office of the President. 
-    
-    Messages sent from the White House to email subscribers may include a tracking pixel to provide basic aggregate analytics such as the percentage of recipients who opened an email or clicked on a link in an email, the percentage of subscribers using various email clients, and the number of times an email was forwarded or printed.  Our email analytics providers, GovDelivery and Litmus, also offer the capability to view some data, such as whether a mass email was opened, at an individual level for 30 days after an email was sent. as a matter of policy and practice this data is only viewed on an aggregate basis.
-    
-5.  Children and Privacy on WhiteHouse.gov
-    
-    We believe in the importance of protecting the privacy of children online and do not knowingly contact or collect personal information from children under 13.  Our site is not intended to solicit information of any kind from children under 13.  To notify us of our receipt of information by children under 13, please contact us through the Privacy Feedback form.
-    
-6.  Security of WhiteHouse.gov
-    
-    We take reasonable precautions to protect our site and information automatically collected by WhiteHouse.gov or voluntarily submitted to WhiteHouse.gov or an official White House page on a third-party site. For example, we restrict access to information collected by or submitted to WhiteHouse.gov or official White House pages of on third-party sites to employees who access it to perform their official duties.  Access to official White House accounts on third-party sites is limited to the staff who administer those accounts, and all official White House accounts are clearly labeled.  We also utilize commonly used practices and technical controls to protect this information, along with WhiteHouse.gov itself.  These practices and controls include, but are not limited to, encrypting the transfer of personal information over the Internet via Secure Sockets Layer (SSL), using high-strength firewalls and intrusion detection systems (IDS) to safeguard personal information and maintaining strict technical controls and procedures to ensure the integrity of all data on WhiteHouse.gov. We periodically review our processes and systems to verify compliance with industry best practices and ensure the highest level of security for our website.
-    
-7.  Updates to this privacy policy
+In order to manage White House email subscription lists, we retain the names and email address of our email subscribers, as well as other information they may have shared with us (e.g., addresses and phone numbers), logs of emails we send, and automatically generated email data used to improve our email communications. This automatically generated email data (generated through simple tools such as “pixel tags” and link redirects) includes:
 
-Updated: September 19, 2013
+*   The recipient’s email client;
+*   Whether the email was opened;
+*   If a link in the message was clicked;
+*   Whether an email was delivered;
+*   If the email was forwarded. and
+*   If the email was printed.
+
+If, at any time, you wish to stop receiving our messages, simply click on the “Unsubscribe” link at the bottom of each email message.
+
+Third-Party Websites
+
+The White House maintains official pages or accounts on third-party websites in order to better engage with the American public (a current list is here). Your activity on those sites is governed by the third-party website’s security and privacy policies. Users of third-party sites often share information with the general public, user community, and/or the third-party operating the site. Consequently, you should review the privacy policies of third-party sites before using them and ensure that you understand how your information may be shared and used. You should also adjust privacy settings on your account on any third-party site to match your preferences.
+
+For the sole purpose of complying with the Presidential Records Act, the White House archives some information that users submit or publish when engaging with the White House through official White House pages or accounts on third-party websites (e.g., by sending a message, posting a comment, “following,” “friending,” or taking similar actions). This information may contain personal information, such as an individual’s username and other public account information, when such information is available based on the user’s privacy settings and the terms of the site. For example:
+
+*   On Twitter, the White House automatically archives “tweets” from official White House accounts, “direct messages” sent to or from official White House accounts, and “mentions” (tweets from other users to official White House accounts. these tweets contain an @ and the username of an official White House account (e.g., @WhiteHouse). The White House also automatically archives any status that official accounts have “favorited.”
+*   On Facebook, the White House automatically archives all content created by official White House pages, content that tags an official White House page, and any content posted on official White House pages (for example, the number of likes to the page and comments posted).
+*   On Google+, the White House automatically archives all content posted by official White House accounts, as well as the number of likes/comments/shares on each of those posts (including the comments themselves). The White House also automatically archives the total number of Google+ users that have added our page to a “Circle,” and the list of users that White House accounts have added to “Circles.”
+
+For aggregate statistical analysis and to improve the quality of our services, we may integrate web measurement tools with our social media pages. These tools enable basic analysis of social media traffic (such as the number of people visiting a certain page) and do not collect personally identifiable information.
+
+How Information is Used
+
+If you choose to provide us with information, we may use that information to contact you, respond to your message or petition, or provide you the information or services you requested. In order to serve you better, we may analyze multiple sources of data you have provided (for example, to look up whether you previously contacted the White House about the same topic so that we do not send you a duplicative response). We may also use messages or comments collected through WhiteHouse.gov or official social media pages for our own purposes, such as to inform policy decisions or in public advocacy.
+
+We may use data you provide and automatically generated data for statistical analysis to assess, for example, what information is of interest to users, technical design specifications, and system performance. This allows us to make general improvements to our site as well as to offer tailored content to email subscribers (e.g., a follow-up message to subscribers interested in a specific topic based on information they have provided or automatically generated data).
+
+Sharing of this Information
+
+Information you choose to share with the White House (directly and via third party sites) may be treated as public information. We may, for example, publish compilations of messages or comments collected through WhiteHouse.gov or official social media pages and provide them to national leaders, members of the press, or other individuals outside of the Federal Government. And the We the People API allows public access to some We the People signature data. However, we exercise discretion to limit such disclosures to protect your privacy (for example, we generally do not publish last names of commenters).
+
+The White House uses a third-party analytics provider (currently Google Analytics) to analyze data from cookies. The third-party analytics provider does not receive personally identifiable information through these cookies and is prohibited from combining, matching or cross-referencing WhiteHouse.gov information with any other information. We have also limited the provider’s ability to see your full IP address (a process known as “IP masking”). Please review Google Analytics’ privacy policy for additional information.
+
+Within the White House, we restrict access to personally identifiable information to employees, contractors, and vendors subject to non-disclosure requirements who require access to this information in order to perform their official duties and exercise controls to limit what data they can view based on the specific needs of their position.
+
+In some cases, we may share information you have provided or automatically generated information with other government agencies in response to lawful law enforcement requests or to protect WhiteHouse.gov from security threats. Additionally, if you seek assistance on a matter within the jurisdiction of a federal agency, we may share your information with that agency for the limited purpose of addressing your request for assistance.
+
+We do not use or share your information for commercial purposes and, except as described above, we do not exchange or otherwise disclose this information.
+
+Data Retention
+
+Under the Presidential Records Act (PRA), we are generally required to retain information until the end of the current Administration, at which time it will be transferred to the National Archives and Records Administration (NARA). NARA may eventually release this material to the public, but will withhold any information that would constitute a clearly unwarranted invasion of personal privacy if released. Access to this information may be requested under the Freedom of Information Act (FOIA) five years after the end of the current Administration.
+
+NARA or the White House may choose to dispose of information lacking in historical value through procedures under the PRA. The White House currently disposes of certain information under those procedures:
+
+*   Server log entries are retained for one year (for example, server logs from June 2011 will be deleted in June 2012);
+*   Aggregate data on Mobile App use is retained until the end of the current Administration.
+*   Cookie data linked to individual users will be retained for 13 months;
+*   Other cookie data will be retained by the White House until the end of the current Administration. and
+*   Automatically generated email data will be retained by the White House until the end of the current Administration.
+
+Third-Party Tools and Sites Links to External Sites
+
+WhiteHouse.gov and other White House platforms and pages may link to websites created and maintained by other public and/or private organizations and individuals. When you follow a link to an external site, you are leaving WhiteHouse.gov and are subject to the external site‘s privacy and security policies. We do not control or guarantee the accuracy, relevance, timeliness, or completeness of information contained on an external site. We also do not endorse the site’s sponsor, any views they express, or any products or services they offer.
+
+White House Pages on Third-Party Websites
+
+Your activity on those sites (a current list is here) is governed by the third-party website’s security and privacy policies. The White House has conducted and published a Privacy Impact Assessment of Third-Party Sites, which includes more information about these issues and can be accessed here.
+
+White House Content Embedded in Third-Party Sites
+
+In some instances, a third-party website may feature embedded White House content served by WhiteHouse.gov. For example, other websites might embed the WhiteHouse.gov’s “Taxpayer Receipt” calculator. The embedded WhiteHouse.gov content automatically generates White House server logs (see Visits to WhiteHouse.gov) and may set a White House cookie (see Cookies).
+
+Children and Privacy on WhiteHouse.gov
+
+We believe in the importance of protecting the privacy of children online. The Children’s Online Privacy Protection Act (COPPA) governs information gathered online from or about children under the age of 13. Verifiable consent from a child’s parent or guardian is required before collecting, using, or disclosing personal information from a child under age 13. Our site is not intended to solicit information of any kind from children under age 13. If you believe that we have received information from or about children under age 13, please contact us through the Privacy Feedback form.
+
+Security
+
+We take reasonable precautions to protect our site and information automatically collected by WhiteHouse.gov or voluntarily submitted to WhiteHouse.gov or an official White House page on a third-party site. For example, we restrict access to personally identifiable information to employees, contractors, and vendors subject to non-disclosure requirements who require access to this information in order to perform their official duties and exercise controls to limit what data they can view based on the specific needs of their position. Access to official White House accounts on third-party sites is limited to the individuals who administer those accounts, and all official White House accounts are clearly labeled.
+
+We also utilize commonly used practices and technical controls to protect the information in our possession or control, along with WhiteHouse.gov itself. These practices and controls include, but are not limited to: encrypting the transfer of personal information over the internet via Secure Sockets Layer (SSL), using high-strength firewalls and intrusion detection systems (IDS) to safeguard personal information, and maintaining strict technical controls and procedures to ensure the integrity of all data on WhiteHouse.gov.
+
+We periodically review our processes and systems to verify compliance with industry best practices and to ensure the highest level of security for our website.
+
+Updates to This Privacy Policy
+
+We will revise or update this policy from time to time. If we make significant changes to how we handle personal information, we will post changes to the policy on our site and change the date at the bottom. We will provide additional notice in advance (e.g., a disclaimer on our website or an email to subscribers) if material changes are being made.
+
+Updated: April 18, 2014
 
 Previous version(s) of this policy may be accessed on the archive page.
+
+Glossary
+
+**Internet Protocol (IP):** A computer’s IP address establishes its location on the internet and allows other computers, such as those hosting WhiteHouse.gov, to send it content and other information.
+
+Go back up to the term in use.
+
+**Domain name:** For example, “xcompany.com” if you use a private Internet access account, or “yourschool.edu” if you are connecting from a university’s domain.
+
+Go back up to the term in use.
+
+**Cookies:** A small piece of data sent from a website and stored in a user's web browser while the user is browsing that website.
+
+Go back up to the term in use.
+
+**Device token:** A unique string used to identify devices.
+
+Go back up to the term in use.
+
+**Email client:** The email client is the program used to access and manage a user's email (e.g., Gmail, Outlook, Yahoo!).
+
+Go back up to the term in use.
