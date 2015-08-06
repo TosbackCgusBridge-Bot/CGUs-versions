@@ -1,4 +1,4 @@
-**reddit user agreement** _Last Revised June 9, 2015. Effective June 9, 2015_
+**reddit user agreement** _Last Revised August 5, 2015. Effective August 5, 2015_
 
 > reddit powers thousands of distinct online communities.  
 > these terms and your conduct make that possible.
@@ -73,27 +73,17 @@ links and reddit
 
 reddit rules your participation on reddit
 
-23 These guidelines are intended to keep people safe, protect kids, keep reddit running, and to encourage personal responsibility for what you do on reddit. You must:
+23 You also agree to follow the Reddit Content Policy. These guidelines are intended to keep people safe, protect kids, keep reddit running, and to encourage personal responsibility for what you do on reddit.
 
-*   **Keep Everyone Safe**: You agree to not intentionally jeopardize the health and safety of others or yourself.
-*   **Keep Personal Information Off reddit**: You agree to not post anyone's sensitive personal information that relates to that person's real world or online identity.
-*   **Do Not Incite Harm**: You agree not to encourage harm against people.
-*   **Protect Kids**: You agree not to post any child pornography or sexually suggestive content involving minors.
-*   **Take Personal Responsibility**: As you use reddit, please remember that your speech may have consequences and could lead to criminal and civil liability.
+subreddit rules
 
-24 You also agree to follow the rules of reddit.
+24 Subreddits may create their own rules and enforce them as they see fit, providing they do not violate the terms of this agreement.
 
-reddiquette &. subreddit rules
-
-25 You agree to review and make your best efforts to abide by reddiquette, which is an informal expression of the values of many redditors, as written by redditors themselves.
-
-26 Subreddits may create their own rules and enforce them as they see fit, providing they do not violate the terms of this agreement.
-
-27 You agree that reddit is not responsible for the actions taken or not taken by moderators.
+25 You agree that reddit is not responsible for the actions taken or not taken by moderators.
 
 moderators
 
-28 Moderating a subreddit is an unofficial, voluntary position. We reserve the right to revoke that position for any user at any time. If you choose to moderate a subreddit, you agree to the following:
+26 Moderating a subreddit is an unofficial, voluntary position. We reserve the right to revoke that position for any user at any time. If you choose to moderate a subreddit, you agree to the following:
 
 *   You may not enter into any form of agreement on behalf of reddit, or the subreddit which you moderate, without our written approval.
 *   You may not perform moderation actions in return for any form of compensation or favor from third-parties.
@@ -101,41 +91,41 @@ moderators
 
 don’t spam the reddit community
 
-29 You may not post any graphics, text, photographs, images, video, audio or other material that we deem to be junk or spam. Cluttering reddit with this sort of content reduces the quality of the reddit experience for others. For guidance, see our rules about spam and self-promotion.
+27 You may not post any graphics, text, photographs, images, video, audio or other material that we deem to be junk or spam. Cluttering reddit with this sort of content reduces the quality of the reddit experience for others. For guidance, see our rules about spam and self-promotion.
 
 respect users that edit their content
 
-30 You may not purposefully negate any user's actions to delete or edit their content on reddit. This is intended to respect the privacy of reddit users who delete or edit their content, and is not intended to abridge the fair use or the expressive rights shared by us all.
+28 You may not purposefully negate any user's actions to delete or edit their content on reddit. This is intended to respect the privacy of reddit users who delete or edit their content, and is not intended to abridge the fair use or the expressive rights shared by us all.
 
 don’t mess with reddit
 
-31 You agree not to interrupt the serving of reddit, introduce malicious code onto reddit, make it difficult for anyone else to use reddit due to your actions, attempt to manipulate votes or reddit’s systems, or assist anyone in misusing reddit in any way. It takes a lot of work to maintain reddit. Be cool.
+29 You agree not to interrupt the serving of reddit, introduce malicious code onto reddit, make it difficult for anyone else to use reddit due to your actions, attempt to manipulate votes or reddit’s systems, or assist anyone in misusing reddit in any way. It takes a lot of work to maintain reddit. Be cool.
 
-32 We support the responsible reporting of security vulnerabilities. To report a reddit security issue, please send an email to security@reddit.com or participate in our whitehat wiki.
+30 We support the responsible reporting of security vulnerabilities. To report a reddit security issue, please send an email to security@reddit.com or participate in our whitehat wiki.
 
 other ways of accessing reddit
 
-33 Use of the reddit API is governed by the API access rules, available here.
+31 Use of the reddit API is governed by the API access rules, available here.
 
-34 reddit does not select and takes no responsibility for any content available on reddit.tv.
+32 reddit does not select and takes no responsibility for any content available on reddit.tv.
 
-35 We encourage the creation of other ways to access reddit, including browser extensions and mobile and desktop applications. We take no responsibility for, we do not expressly or implicitly endorse, and we do not assume any liability for any mobile or desktop application not produced by us.
+33 We encourage the creation of other ways to access reddit, including browser extensions and mobile and desktop applications. We take no responsibility for, we do not expressly or implicitly endorse, and we do not assume any liability for any mobile or desktop application not produced by us.
 
-36 If you produce or maintain a browser extension or application, you agree not to purposefully negate any user's actions to delete or edit their content on reddit.
+34 If you produce or maintain a browser extension or application, you agree not to purposefully negate any user's actions to delete or edit their content on reddit.
 
 children and reddit
 
-37 reddit is not directed at people under the age of 13, and reddit does not knowingly collect any personal information from such people. If you know that a user under the age of 13 is accessing reddit, please contact us here.
+35 reddit is not directed at people under the age of 13, and reddit does not knowingly collect any personal information from such people. If you know that a user under the age of 13 is accessing reddit, please contact us here.
 
 DMCA copyright, the dmca, &. takedowns
 
-38 We will respond to legitimate requests under the Digital Millennium Copyright Act ("DMCA"), and we retain the right to remove user content on reddit that we deem to be infringing the copyright of others. If you become aware of user content on reddit that infringes your copyright rights, you may submit a properly formatted DMCA request (see 17 U.S.C. § 512) to reddit.
+36 We will respond to legitimate requests under the Digital Millennium Copyright Act ("DMCA"), and we retain the right to remove user content on reddit that we deem to be infringing the copyright of others. If you become aware of user content on reddit that infringes your copyright rights, you may submit a properly formatted DMCA request (see 17 U.S.C. § 512) to reddit.
 
-39 Misrepresentations of infringement can result in liability for monetary damages. You may want to consult an attorney before taking any action pursuant to the DMCA. Any DMCA request should be sent to this contact information:
+37 Misrepresentations of infringement can result in liability for monetary damages. You may want to consult an attorney before taking any action pursuant to the DMCA. Any DMCA request should be sent to this contact information:
 
 `Copyright Agent reddit, Inc. 548 Market St., #16093 San Francisco, CA 94104-5401 copyright@reddit.com`
 
-40 Please send our Copyright Agent the following information:
+38 Please send our Copyright Agent the following information:
 
 1.  The electronic or physical signature of the owner of the copyright or the person authorized to act on the owner's behalf;
 2.  Identification of the copyrighted work claimed to have been infringed, or a representative list of such works;
@@ -146,51 +136,51 @@ DMCA copyright, the dmca, &. takedowns
 
 your right to file a counter-notice
 
-41 If we remove your user content in response to a copyright or trademark notice, we will notify you via reddit’s private messaging system and offer to provide you with a copy of the notice. If you believe your user content was wrongly removed due to a mistake or misidentification of the material, you can file a counter-notice with us that includes the following:
+39 If we remove your user content in response to a copyright or trademark notice, we will notify you via reddit’s private messaging system and offer to provide you with a copy of the notice. If you believe your user content was wrongly removed due to a mistake or misidentification of the material, you can file a counter-notice with us that includes the following:
 
 1.  Your physical or electronic signature;
 2.  Identification of the material that has been removed or to which access has been disabled and where the material was located online before it was removed or access to it was disabled;
 3.  A statement by you, under penalty of perjury, that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled. and
 4.  Your name, address, and telephone number, and a statement that you consent to the jurisdiction of federal district court for the judicial district in which the address is located, or if your address is outside of the United States, for any judicial district in which the service provider may be found, and that you will accept service of process from the person who provided notification under DMCA 512 subsection (c)(1)(c) or an agent of such person.
 
-42 Upon receiving a counter-notice we will forward it to the complaining party and tell them we will restore your content within 10 business days. If that party does not notify us that they have filed an action to enjoin your use of that content on reddit before that period passes, we will consider restoring your user content to the site.
+40 Upon receiving a counter-notice we will forward it to the complaining party and tell them we will restore your content within 10 business days. If that party does not notify us that they have filed an action to enjoin your use of that content on reddit before that period passes, we will consider restoring your user content to the site.
 
-43 It is reddit's policy to close the accounts of users we identify as repeat infringers. We apply this policy at our discretion and in appropriate circumstances, such as when a user has repeatedly been charged with infringing the copyrights or other intellectual property rights of others.
+41 It is reddit's policy to close the accounts of users we identify as repeat infringers. We apply this policy at our discretion and in appropriate circumstances, such as when a user has repeatedly been charged with infringing the copyrights or other intellectual property rights of others.
 
 a few more legalities
 
-44 _Please read the following very carefully. Each of the following sections applies to the maximum extent permitted by law. Where jurisdictions do not allow disclaimers of implied warranties or the limitation of liability in contracts, the contents of this section may not apply._
+42 _Please read the following very carefully. Each of the following sections applies to the maximum extent permitted by law. Where jurisdictions do not allow disclaimers of implied warranties or the limitation of liability in contracts, the contents of this section may not apply._
 
 indemnity
 
-45 All the things you do and all the information you submit or post to reddit remain your responsibility. Indemnity is basically a way of saying that you will not hold us legally liable for any of your user content or actions that infringe the law or the rights of a third party or person in any way.
+43 All the things you do and all the information you submit or post to reddit remain your responsibility. Indemnity is basically a way of saying that you will not hold us legally liable for any of your user content or actions that infringe the law or the rights of a third party or person in any way.
 
-46 _Specifically, you agree to hold reddit, its affiliates, officers, directors, employees, agents, and third party service providers harmless from and defend them against any claims, costs, damages, losses, expenses, and any other liabilities, including attorneys’ fees and costs, arising out of or related to your access to or use of reddit, your violation of this user agreement, and/or your violation of the rights of any third party or person._
+44 _Specifically, you agree to hold reddit, its affiliates, officers, directors, employees, agents, and third party service providers harmless from and defend them against any claims, costs, damages, losses, expenses, and any other liabilities, including attorneys’ fees and costs, arising out of or related to your access to or use of reddit, your violation of this user agreement, and/or your violation of the rights of any third party or person._
 
 disclaimer of warranties
 
-47 _reddit is provided "as is" and without warranty of any kind. To the maximum extent permitted by law, we and our affiliates and third party service providers disclaim any and all warranties, express or implied, including (but not limited to) implied warranties of merchantability, fitness for a particular purpose, and non-infringement of proprietary rights, or any other warranty, condition, guarantee or representation, whether oral or electronic. You are solely responsible for any damage to your computer or mobile device, loss of use, or loss of your user content. We do not guarantee that reddit will always work properly._
+45 _reddit is provided "as is" and without warranty of any kind. To the maximum extent permitted by law, we and our affiliates and third party service providers disclaim any and all warranties, express or implied, including (but not limited to) implied warranties of merchantability, fitness for a particular purpose, and non-infringement of proprietary rights, or any other warranty, condition, guarantee or representation, whether oral or electronic. You are solely responsible for any damage to your computer or mobile device, loss of use, or loss of your user content. We do not guarantee that reddit will always work properly._
 
 limitation of liability
 
-48 _We will not be liable for any special, consequential, indirect, incidental, punitive, reliance, or exemplary damages, whether in tort, contract, or any other legal theory, arising out of or in any way connected with this agreement or your use of or attempt to use reddit, including (but not limited to) damages for loss of profits, goodwill, use, or data. This limitation on liability shall not be affected even if we have been advised of the possibility of such damages. Some states do not allow for the exclusion of implied warranties or the limitation or exclusion of liability for incidental or consequential damages, so the above exclusions may not apply to you. You may have other rights that vary from state to state._
+46 _We will not be liable for any special, consequential, indirect, incidental, punitive, reliance, or exemplary damages, whether in tort, contract, or any other legal theory, arising out of or in any way connected with this agreement or your use of or attempt to use reddit, including (but not limited to) damages for loss of profits, goodwill, use, or data. This limitation on liability shall not be affected even if we have been advised of the possibility of such damages. Some states do not allow for the exclusion of implied warranties or the limitation or exclusion of liability for incidental or consequential damages, so the above exclusions may not apply to you. You may have other rights that vary from state to state._
 
-49 _You agree to release us, our affiliates, and third-party service providers, and each associated director, employee, agents, and officers, from claims, demands and damages (actual and consequential), of every kind and nature, known and unknown, disclosed or undisclosed, arising out of or in any way connected to your use of reddit._
+47 _You agree to release us, our affiliates, and third-party service providers, and each associated director, employee, agents, and officers, from claims, demands and damages (actual and consequential), of every kind and nature, known and unknown, disclosed or undisclosed, arising out of or in any way connected to your use of reddit._
 
 governing law
 
-50 We want you to enjoy reddit, so if you have an issue or dispute, you agree to raise it and try to resolve it with us informally. You can contact us with feedback and concerns here or by emailing us at contact@reddit.com.
+48 We want you to enjoy reddit, so if you have an issue or dispute, you agree to raise it and try to resolve it with us informally. You can contact us with feedback and concerns here or by emailing us at contact@reddit.com.
 
-51 The headings in this agreement are for convenience and do not control any of its provisions.
+49 The headings in this agreement are for convenience and do not control any of its provisions.
 
-52 _Any claim or dispute between you and us arising out of or relating to this user agreement, in whole or in part, shall be governed by the laws of the State of California without respect to its conflict of laws provisions. We agree and you agree to submit to the personal jurisdiction and venue of the state and federal court located in San Francisco County, California._
+50 _Any claim or dispute between you and us arising out of or relating to this user agreement, in whole or in part, shall be governed by the laws of the State of California without respect to its conflict of laws provisions. We agree and you agree to submit to the personal jurisdiction and venue of the state and federal court located in San Francisco County, California._
 
 severability and enforcement
 
-53 _If any provision of this user agreement is held invalid or unenforceable, that provision will be modified to the extent necessary to render it enforceable without losing its intent. If no such modification is possible, that provision will be severed from the rest of this agreement._
+51 _If any provision of this user agreement is held invalid or unenforceable, that provision will be modified to the extent necessary to render it enforceable without losing its intent. If no such modification is possible, that provision will be severed from the rest of this agreement._
 
-54 If we do not enforce any right or provision in this user agreement, that is not to be deemed a waiver of our right to do so in the future.
+52 If we do not enforce any right or provision in this user agreement, that is not to be deemed a waiver of our right to do so in the future.
 
 changes to this user agreement
 
-55 This user agreement is the entire agreement between you and us concerning reddit. It supersedes all prior or contemporaneous agreements between you and us. We may modify this user agreement at any time. If we make changes to this agreement that materially affect your rights, we will provide advance notice and keep this edition available as an archive on the reddit website. By continuing to use reddit after a change to this agreement, you agree to those changes.
+53 This user agreement is the entire agreement between you and us concerning reddit. It supersedes all prior or contemporaneous agreements between you and us. We may modify this user agreement at any time. If we make changes to this agreement that materially affect your rights, we will provide advance notice and keep this edition available as an archive on the reddit website. By continuing to use reddit after a change to this agreement, you agree to those changes.
