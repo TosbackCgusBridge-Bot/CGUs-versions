@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13845446954
+true true L13848805337
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Tue Aug 04 06:57:41 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p17.jcpenney.com SERVER NAME :->. dtcomexpr1l1j2 TIME :->. Wed Aug 05 09:12:07 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,8 +48,37 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   back to  
-    school sale!
+In Store and Online
+
+Ends August 8. USE CODE: 2HOTSALE
+
+Extra $20 Off\* $50 or More
+
+Extra $10 Off\* $25 or More
+
+Online Only
+
+Ends August 8. USE CODE: HOTSVNG
+
+Or, Extra 25% Off\* $150 or More
+
+Or, Extra 20% Off\* $100 or More
+
+In Store and Online
+
+Ends August 8. USE CODE: HOTSVNG
+
+Or, Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.
+
+\*See exclusions and details. Print Coupon
+
+*   starts now!  
+    huge sale
+*   school uniforms  
+    40-50% off
+    
+    select styles
+    
 *   home sale  
     30-50% off
     
@@ -61,38 +90,35 @@ Your version of Internet Explorer is out of date. For best experience please upg
     when you  
     buy 2 or more
     
-*   now online!
-    
-    sephora
-    
 
-*   Back to School Sale Shop the Back to School Sale View Store Ad Shop Women Shop Men Shop Juniors Shop Guys Shop Girls Shop Boys Shop Baby Shop Shoes Shop Lingerie Shop Jewelry Shop Home
+*   Huge Sale
     
-    Arizona Jean Co. -- only at JCPenney
+    In Store and Online | Ends August 8
     
-    Shop Arizona
+    Shop the Huge Sale View Store Ad Shop Women Shop Men Shop Juniors Shop Guys Shop Kids Shop Baby Shop Shoes Shop Accessories Shop Jewelry and Watches Shop Home$10 Off $25 Bonus Ca$h! | Ends August 11 | In Store Only!
     
-    17.99 Kids' Arizona Jeans, select styles
-    
-    Shop Kids' Arizona Jeans
-    
-    17.99 Girls' Joggers, select styles
-    
-    Shop Girls' Joggers
-    
-    5.99-6.99 Kids' Arizona Tees, select styles
-    
-    Shop Kids' Arizona Tees$10 Off $25 Bonus Ca$h! | August 2- August 11 | In Store Only!
-    
-    Earn a $10 off $25 Bonus Cash Coupon when you spend $25 or more in store on Men's, Women's and Kids' apparel or Sephora.
+    Earn a $10 off $25 Bonus Cash Coupon when you spend $25 or more on women's, men's and kids' apparel or Sephora.
     
     Redeemable August 2 through 15, 2015 on shoes, women's accessories and jewelry. Some restrictions and exclusions apply. See store associate for details.
+    
+    Night and Day Doorbusters
+    
+    In Store and Online. Friday 3pm CDT through Saturday 1pm CDT. Use your coupon and save even more!
+    
+    Shop Doorbusters
+*   Play hard. Dress smart.
+    
+    40 to 50% Off School Uniforms, select styles
+    
+    Shop Uniforms Shop Boys Shop Girls Shop Juniors Shop Guys Shop Izod Shop Arizona
+    
+    Also available in extended sizes
     
 *   Home Sale
     
     30 to 50% Off Home Collections, select styles
     
-    Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage Shop Comforters and Bedding Sets
+    Shop Home Sale Shop Window Shop Bedding and Bath Shop Home Decor Shop Furniture and Mattresses Shop Kitchen and Dining Shop Luggage Shop Curtains and Drapes
 *   Bra Fit Event | Now through August 18.
     
     20% Off Bras when you buy 2 or more. Select styles.
@@ -106,14 +132,6 @@ Your version of Internet Explorer is out of date. For best experience please upg
     $15 Perk Rewards for Bras
     
     Get details: Shop Ambrielle -- only at JCPenney
-*   Sephora Has Arrived
-    
-    Shop the best beauty -- without ever leaving JCPenney.com!
-    
-    Shop Sephora
-    
-    Excluded from discount coupon.
-    
 
 What's New
 
@@ -123,19 +141,19 @@ Shop Shoes Shop Womens Shop Handbags Shop Jewelry Shop Mens Shop Home Back to Sc
 
 Mix-and-Match styles to show how you bend the trend.
 
-Find Your Style Shop Guys Shop Juniors Shop Backpacks New Markdowns! In Store and Online Shop Clearance
+Find Your Style Shop Kids Shop Backpacks Clearance 50 to 80% Off
 
-Clearance 55 to 80% Off when you use 15% Off coupon or code: NEWCLASS
+New Markdowns! In Store and Online
 
-Get details: Download and Get Shopping Check Out the App: Download on the App Store Get It On Google play SportsFanShop
+Shop Clearance SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop On the Go Shop the Catalog School Uniforms
+Shop SportsFanShop On the Go Shop the Catalog JCPenney Optical
 
-Play hard. Dress smart.
+Kids' eyeglasses for $29.99.
 
-Shop School Uniforms Round Up and Let Your Change Make Real Change
+Get Details Sephora Has Arrived Shop Sephora Round Up and Let Your Change Make Real Change
 
 Support JCPenney Cares in August by rounding up your purchase to help fund programs that keep kids safe, healthy and engaged beyond the classroom.
 
