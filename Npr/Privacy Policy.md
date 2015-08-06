@@ -35,7 +35,7 @@ Skip to Main Content View Navigation NPR NPR NPR Music **NPR** Books **NPR** Abo
 *   Shop
 *   My Account
 
-Back Back News
+Back ****Loading**** Back News
 
 *   U.S.
 *   World
@@ -283,7 +283,7 @@ Back Back
 
 *   Find Stations
 
-Back
+****Loading****
 
 *   24-hour Program Stream
 *   Listen
