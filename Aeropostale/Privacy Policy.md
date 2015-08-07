@@ -37,7 +37,7 @@ Aéropostale
     *   SHOES
     *   ACCESSORIES
     
-    *   LIVE LOVE DREAM
+    *   Live Love Dream
     *   Active
     *   Yoga
     *   Lounge
@@ -73,10 +73,9 @@ Aéropostale
     
     *   JACKETS
     *   UNDERWEAR + LOUNGE
-    *   SHOES
     *   ACCESSORIES
 *   Active
-    *   LIVE LOVE DREAM
+    *   Live Love Dream
     *   Active
     *   Yoga
     *   Lounge
