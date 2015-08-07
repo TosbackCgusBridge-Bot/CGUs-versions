@@ -19,7 +19,7 @@ LENOVO Menu
         7.  Deals for Students and Educators
         8.  Outlet
         9.  Warranty-Sale
-    *   Hot Items, Cool Prices Grab these Hot Items Before they Cool Off
+    *   Back to School Sale Fresh Style. Reliable Gear. Big Savings.
         
         Save up to 80% Site-Wide
         
@@ -241,7 +241,7 @@ This Web site is maintained by Lenovo or one of its subsidiaries around the worl
 
 Please use the Back button on your browser or close this window to return to the page where you were.
 
- **Back to top** STAY CONNECTED
+ **Back to top** STAY CONNECTED STAY CONNECTED
 
 *   facebook
 *   twitter
