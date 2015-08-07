@@ -182,7 +182,6 @@ back to top
 *   Terms &. Conditions
 *   Tariff Library
 *   Internet Service Management
-*   DNSChanger Customer Notice
 
   
 
