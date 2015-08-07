@@ -82,6 +82,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   National Broadcasts
     *   2014 Postseason
     *   Probable Pitchers
+    *   Meet your baseball Match
 *   Players Players Players
     *   Player Search
     *   Injury Updates
@@ -137,6 +138,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Books &. DVDs
     *   Clearance
     *   Gift Certificates
+    *   Photo Store
     
     Auctions
     *   Authentication
