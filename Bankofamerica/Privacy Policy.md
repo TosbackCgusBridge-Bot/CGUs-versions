@@ -335,7 +335,7 @@ Also, if you opt out of online behavioral advertising, you may still see ads whe
 To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the Bank of America Online Privacy Notice and our Online Privacy FAQs.
 
 Bank of America, N.A. Member FDIC. Equal Housing Lender  
-© 2015 Bank of America Corporation. All rights reserved.
+© 2015 Bank of America Corporation.
 
 Important Notice
 
