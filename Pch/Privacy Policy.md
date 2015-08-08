@@ -36,9 +36,7 @@ We may occasionally change the features and content found on this site. Conseque
 
 12\. What about Publishers Clearing House's off-line information and privacy practices?
 
-13\. U.S. – EU Safe Harbor Framework Compliance
-
-14\. Further Questions?
+13\. Further Questions?
 
 **1\. Why does pch.com collect personal information?** We need to collect certain personal information from our visitors primarily to process and fulfill online sweepstakes entries and online orders for the products and services we offer. For example, we need your full name, e-mail address and date of birth to verify eligibility and enter you in the sweepstakes, notify you if you've won a prize, to process and record coupon request and redemption activity and to send you any magazine subscription or product you may purchase. We may also use the personal data we collect for systems administration and troubleshooting purposes, and to report aggregate information to our marketing partners and others.
 
@@ -141,7 +139,5 @@ California Do Not Track: Because there is currently no industry or legal standar
 **12\. What about Publishers Clearing House's off-line information and privacy practices?** Publishers Clearing House collects certain personal information from our direct mail customers and entrants primarily to process sweepstakes entries and fulfill orders for the products and services we offer. For example, we need your full name and address to enter you in the sweepstakes, notify you if you've won a prize or to send you any magazine subscription or product you may purchase. We may also use the personal data we collect for systems administration and troubleshooting purposes, and to report aggregate information to our marketing partners and other third parties. From time to time we may share or exchange marketing information about the consumers who respond to our offers with other companies so they may contact you about products and services that may interest you.
 
 If you do not want your name passed on to other companies for the purpose of receiving marketing offers, just tell us by contacting us at This e-mail address is being protected from spambots. You need JavaScript enabled to view it. This e-mail address is being protected from spambots. You need JavaScript enabled to view it. or by writing to Christopher L. Irving, , Consumer &. Privacy Affairs, Publishers Clearing House, 382 Channel Drive and we will be pleased to respect your wishes. Please make sure to provide your full name, address, city, state and zip code information if you wish your request to apply to both on-line and off-line marketing information sharing.
-
-**13\. U.S. – EU Safe Harbor Framework Compliance**. Publishers Clearing House complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Publishers Clearing House has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Publishers Clearing House’s certification, please visit http://www.export.gov/safeharbor/
 
 **14\. Further Questions?** We welcome any questions or comments you may have regarding this privacy policy or the use of personal data. To contact us, please visit the Info Center of the site or write directly to Christopher L. Irving, Consumer &. Privacy Affairs, pch.com, 382 Channel Drive, Port Washington, New York, 11050. © 2015 PCH | About Us | Contact Us | PCH Privacy Policy
