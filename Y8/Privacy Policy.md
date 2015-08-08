@@ -10,6 +10,8 @@ Play any type of Game at Y8.com. The biggest Game Collection to play free online
 *   Log in
 *   Register
 
+Parental control
+
 *   games
 *   anims
 *   New Games
