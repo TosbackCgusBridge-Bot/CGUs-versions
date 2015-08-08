@@ -843,7 +843,7 @@ LEARN ABOUT OUR BEST RATE GUARANTEE
 *   Mobile Options
 *   Guest Reviews
 
-  You are on StarwoodHotels.com Other Starwood Brands >. | Four Points Sheraton Aloft W Hotels Le Méridien Luxury Collection Element Westin St. Regis Starwood Preferred Guest Starwood Hotels Learn about our brands Starwood Hotels &. Resorts
+  You are on StarwoodHotels.com Other Starwood Brands >. | Four Points Sheraton Aloft W Hotels Le Méridien Luxury Collection Element Westin St. Regis Tribute Portfolio Starwood Preferred Guest Starwood Hotels Learn about our brands Starwood Hotels &. Resorts
 
 © 2015 Starwood Hotels &. Resorts Worldwide, Inc.
 
