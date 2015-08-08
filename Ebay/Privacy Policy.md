@@ -1,4 +1,9 @@
-DatenschutzerklärungeBay- Datenschutzerklärung Zusammenfassung und Inhalt
+Datenschutzerklärung gültig ab 14. August 2015 bzw. ab 13. September 2015eBay- Datenschutzerklärung gültig ab 14. August 2015 bzw. ab 13. September 2015 **Ab 14. August 2015** gültig für Nutzer, die sich ab 14. August 2015 bei eBay anmelden.  
+**Ab 13. September 2015** gültig für Nutzer, die sich vor dem 14. August 2015 bei eBay angemeldet haben.  
+  
+Vorherige Version der Datenschutzerklärung
+
+Zusammenfassung und Inhalt
 
 **Geltungsbereich und Einwilligung**
 
@@ -20,7 +25,7 @@ Mehr zum Thema.
 
 **Nutzung und Speicherung**
 
-Wir nutzen die von uns erhobenen personenbezogenen Daten für folgende Zwecke: um unsere Services bereitzustellen und zu verbessern, um Ihnen eine personalisierte Nutzererfahrung auf unseren Websites zu bieten (insbesondere um Ihnen Services und Artikel anzuzeigen, die Ihnen möglicherweise gefallen), um Sie zu Ihrem eBay-Konto und unseren Services zu kontaktieren, um Ihnen Leistungen des Kundenservice zur Verfügung zu stellen, um Ihnen personalisierte Werbeanzeigen einzublenden und Marketingaktivitäten zu senden und um Betrug oder rechtswidrige Aktivitäten zu erkennen, zu verhindern, einzudämmen und zu untersuchen.
+Wir nutzen die von uns erhobenen personenbezogenen Daten für folgende Zwecke: um unsere Services bereitzustellen und zu verbessern, um Ihnen eine personalisierte Nutzererfahrung auf unseren Websites zu bieten (insbesondere um Ihnen Services und Artikel anzuzeigen, die Ihnen möglicherweise gefallen), um Sie zu Ihrem eBay-Konto und unseren Services zu kontaktieren, um Ihnen Leistungen des Kundenservice zur Verfügung zu stellen, um Ihnen personalisierte Werbeanzeigen einzublenden und Marketingmitteilungen (wie unten näher beschrieben) zu übermitteln und um Betrug oder rechtswidrige Aktivitäten zu erkennen, zu verhindern, einzudämmen und zu untersuchen.
 
 Wir bewahren Ihre personenbezogenen Daten so lange auf, wie sie für die Erbringungen unserer Services notwendig und wesentlich sind. Darüber hinaus können wir personenbezogene Daten zu geschlossenen Konten aufbewahren. Mögliche Gründe dafür sind unter anderem die Einhaltung gesetzlicher Vorschriften, Betrugsprävention, die Durchsetzung von Gebührenforderungen, die Schlichtung von Streitfällen, die Behebung von Problemen, die Unterstützung von  Ermittlungen, die Durchsetzung unserer Allgemeinen Geschäftsbedingungen und die Durchführung anderer Maßnahmen, sofern diese gesetzlich zulässig oder erforderlich sind.
 
@@ -28,7 +33,7 @@ Mehr zum Thema.
 
 **Wahlmöglichkeiten**
 
-Sie können wählen, wie wir Ihre personenbezogenen Daten nutzen dürfen, um mit Ihnen in Kontakt zu treten, Ihnen Marketinginformationen zu senden und Ihnen personalisierte Werbeanzeigen einzublenden. Außerdem können Sie entscheiden, ob Sie in Ihrem eBay-Konto eingeloggt bleiben möchten.
+Sie können wählen, wie wir Ihre personenbezogenen Daten nutzen dürfen, um mit Ihnen in Kontakt zu treten, Ihnen Marketingmitteilungen zu übermitteln und Ihnen personalisierte Werbeanzeigen einzublenden. Außerdem können Sie entscheiden, ob Sie in Ihrem eBay-Konto eingeloggt bleiben möchten.
 
 Mehr zum Thema.
 
@@ -111,7 +116,7 @@ Wir erheben von Ihnen die folgenden Arten personenbezogener Daten:
     
 *   Finanzinformationen (z.B. Kreditkarten- oder Kontonummern) in Verbindung mit einer Transaktion.
     
-*   Versand-, Rechnungs- und andere Daten, die Sie für den Kauf oder Versand eines Artikels angeben, sowie Informationen, die für die Zollabwicklung benötigt werden (z.B. Steuernummer oder sonstige Identifikationsnummern) sowie relevante Versandinformationen (wie Sendungsnummer und Informationen zur Sendungsverfolgung), sofern der Versand über eines unserer Programme erfolgt.
+*   Versand-, Rechnungs- und andere Daten, die Sie für den Kauf oder Versand eines Artikels angeben, sowie Informationen, die für die Zollabwicklung benötigt werden (z.B. Steuernummer oder sonstige Identifikationsnummern) sowie relevante Versandinformationen (wie Sendungsnummer und Informationen zur Sendungsverfolgung), sofern der Versand über eines unserer Programme erfolgt bzw. Sie die Sendungsnummer eingeben oder hochladen.
     
 *   In bestimmten Fällen geben Sie bei der Nutzung unserer Services Alter, Geschlecht, Interessen und persönliche Vorlieben an.
     
@@ -146,7 +151,7 @@ Zurück zur Zusammenfassung
 
 Nutzung und Speicherung
 
-Wir nutzen die von uns erhobenen personenbezogenen Daten für folgende Zwecke: um unsere Services bereitzustellen und zu verbessern, um Ihnen eine personalisierte Nutzererfahrung auf unseren Websites zu bieten (insbesondere um Ihnen Services und Artikel anzuzeigen, die Ihnen möglicherweise gefallen), um Sie zu Ihrem eBay-Konto und unseren Services zu kontaktieren, um Ihnen Leistungen des Kundenservice zur Verfügung zu stellen, um Ihnen personalisierte Werbeanzeigen einzublenden und Marketingaktivitäten zu senden und um Betrug oder rechtswidrige Aktivitäten zu erkennen, zu verhindern, einzudämmen und zu untersuchen. Wir können Ihre personenbezogenen Daten für folgende Zwecke nutzen:
+Wir nutzen die von uns erhobenen personenbezogenen Daten für folgende Zwecke: um unsere Services bereitzustellen und zu verbessern, um Ihnen eine personalisierte Nutzererfahrung auf unseren Websites zu bieten (insbesondere um Ihnen Services und Artikel anzuzeigen, die Ihnen möglicherweise gefallen), um Sie zu Ihrem eBay-Konto und unseren Services zu kontaktieren, um Ihnen Leistungen des Kundenservice zur Verfügung zu stellen, um Ihnen personalisierte Werbeanzeigen einzublenden und Marketingmitteilungen (wie nachfolgend näher beschrieben) zu übermitteln und um Betrug oder rechtswidrige Aktivitäten zu erkennen, zu verhindern, einzudämmen und zu untersuchen. Wir können Ihre personenbezogenen Daten für folgende Zwecke nutzen:
 
 **Zwecks Bereitstellung, Verbesserung und Personalisierung unserer Services**
 
@@ -180,9 +185,11 @@ Wir nutzen die von uns erhobenen personenbezogenen Daten für folgende Zwecke: u
 
 *   Zur Personalisierung, Bewertung und Verbesserung unserer Werbeanzeigen gemäß Ihren Einstellungen für Werbeanzeigen.
     
-*   Für Benachrichtigungen per E-Mail, telefonisch, per SMS oder per Post, in denen wir Ihnen Gutscheine, Rabatte und Sonderangebote anbieten und Sie über unsere Services und die Services der eBay-Unternehmensgruppe informieren. Wir verwenden die von Ihnen angegebenen Kontaktinformationen, um Sie per E-Mail und/oder SMS zu kontaktieren, wenn Sie Ihre Einwilligung zu einer solchen Kontaktaufnahme gegeben haben. Gegebenenfalls fallen hierfür gesonderte Gebühren an.
+*   Sofern Sie Ihre Einwilligung hierzu erteilt haben, für die Übermittlung von Marketingmitteilungen, in denen wir Sie über aktuelle Angebote (Sonderaktionen, besondere Angebote bei eBay und die besten Tipps rund ums Kaufen und Verkaufen) und Umfragen zu eBay sowie über Produkte und Leistungen ausgewählter Unternehmen der eBay-Unternehmensgruppe informieren. Sie erhalten Marketingmitteilungen nur von eBay und nur auf dem Kommunikationsweg (z.B. E-Mail, Telefon, SMS) und mit dem Inhalt (z.B. Werbung für in der Einwilligung genannte Unternehmen der eBay-Unternehmensgruppe), der von Ihrer Einwilligung umfasst ist. Ohne Ihre Einwilligung übermitteln wir Ihnen Marketingmitteilungen nur in den gesetzlich zulässigen Fällen (z.B. per Post, solange Sie nicht widersprechen).
     
 *   Zur Bereitstellung von Informationen zu gezielten Marketingaktionen, Service-Aktualisierungen und Werbeangeboten.
+    
+*   Zu Ihren Wahlmöglichkeiten bezüglich der Personalisierung unserer Werbeanzeigen und Marketingmitteilungen siehe den folgenden Abschnitt Wahlmöglichkeiten.
     
 
 **Zwecks der Verhinderung, Erkennung, Eindämmung und Untersuchung von rechtswidrigen Aktivitäten**
@@ -198,7 +205,7 @@ Zurück zur Zusammenfassung
 
 Wahlmöglichkeiten
 
-Sie können wählen, wie wir Ihre personenbezogenen Daten nutzen dürfen, um mit Ihnen in Kontakt zu treten, Ihnen Marketinginformationen zu senden und Ihnen personalisierte Werbeanzeigen einzublenden. Außerdem können Sie entscheiden, ob Sie in Ihrem eBay-Konto eingeloggt bleiben möchten.
+Sie können wählen, wie wir Ihre personenbezogenen Daten nutzen dürfen, um mit Ihnen in Kontakt zu treten, Ihnen Marketingmitteilungen zu übermitteln und Ihnen personalisierte Werbeanzeigen einzublenden. Außerdem können Sie entscheiden, ob Sie in Ihrem eBay-Konto eingeloggt bleiben möchten.
 
 **Benachrichtigungseinstellungen**
 
@@ -206,7 +213,7 @@ In den Benachrichtigungseinstellungen in Mein eBay legen Sie fest, auf welche We
 
 **Marketing**
 
-Wenn Sie keine Marketingnachrichten von uns erhalten möchten, können Sie sich über den Link in der von Ihnen empfangenen E-Mail abmelden, Ihre Benachrichtigungseinstellungen in Mein eBay ändern oder dies im direkten Kontakt mit uns angeben. Bitte beachten Sie, dass wir Ihre personenbezogenen Daten ohne Ihre ausdrückliche Einwilligung nicht an Dritte für deren Marketing- und Werbezwecke weitergeben.
+Wenn Sie keine Marketingmitteilungen von uns erhalten möchten, können Sie sich über den Link in der von Ihnen empfangenen E-Mail abmelden, Ihre Benachrichtigungseinstellungen in Mein eBay ändern oder dies im direkten Kontakt mit uns angeben. Bitte beachten Sie, dass wir Ihre personenbezogenen Daten ohne Ihre ausdrückliche Einwilligung nicht an Dritte für deren Marketing- und Werbezwecke weitergeben.
 
 **Werbung**
 
@@ -253,7 +260,7 @@ Auskunft, Korrektur und Löschung
 
 Wir treffen Maßnahmen, um sicherzustellen, dass die von uns erhobenen personenbezogenen Daten korrekt und aktuell sind, und bieten Ihnen die Möglichkeit, Ihre Daten in den Profileinstellungen Ihres eBay-Kontos jederzeit zu aktualisieren. Dies schließt unter anderem die folgenden Schritte ein:
 
-*   Sie können Ihre personenbezogenen Daten aufrufen, überprüfen und ändern, indem Sie sich in Ihr eBay-Konto einloggen. Bitte aktualisieren Sie Ihre personenbezogenen Daten umgehend, wenn diese sich ändern oder falsch sind..
+*   Sie können Ihre personenbezogenen Daten aufrufen, überprüfen und ändern, indem Sie sich in Ihr eBay-Konto einloggen. Bitte aktualisieren Sie Ihre personenbezogenen Daten umgehend, wenn diese sich ändern oder falsch sind.
     
 *   In manchen Fällen ist es nachträglich nicht mehr möglich, Inhalte zu ändern oder zu entfernen, sobald Sie diese auf der Website veröffentlicht haben. Wenn Sie uns eine entsprechende Anfrage senden, werden wir Ihr eBay-Konto schließen und Ihre personenbezogenen Daten aus öffentlichen Bereichen entfernen, sobald dies auf Basis Ihrer Kontoaktivität und gemäß geltenden Recht möglich ist.
     
@@ -276,14 +283,14 @@ Gegebenenfalls geben wir Ihre personenbezogenen Daten an andere Mitglieder der e
     
 *   Zur Bereitstellung personalisierter Werbung für Sie.
     
-*   Zur Verbesserung  deren Produkte, Websites, Anwendungen, Services, Tools und Marketingmitteilungen. Mitglieder der eBay-Unternehmensgruppe dürfen Ihre personenbezogenen  Daten allerdings nur dann für den Versand von Marketingmitteilungen an Sie verwenden, wenn Sie Ihre ausdrücklich Einwilligung dazu gegeben haben.
+*   Zur Verbesserung  deren Produkte, Websites, Anwendungen, Services, Tools und Marketingmitteilungen. Mitglieder der eBay-Unternehmensgruppe dürfen Ihre personenbezogenen Daten allerdings nur dann für die Übermittlung von Marketingmitteilungen an Sie verwenden, wenn Sie Ihre ausdrücklich Einwilligung dazu gegeben haben.
     
 
-**An Serviceanbieter und kooperierende Finanzinstitutespartner**
+**An Serviceanbieter und kooperierende Finanzinstitutspartner**
 
 *   An Serviceanbieter, die uns in unserem Geschäftsbetrieb unterstützen, Zahlungsdienste für uns erbringen, uns bei der Bereitstellung personalisierter Werbung behilflich sind sowie uns bei der Verhinderung, Erkennung, Eindämmung und Untersuchung von möglicherweise rechtswidrigen Handlungen, Verstößen gegen unsere Allgemeinen Geschäftsbedingungen, Betrug und/oder Sicherheitsverletzungen, in Zusammenhang mit Rechnungsinkasso, Partner- und Prämienprogrammen, Co-Branding-Kreditkarten und anderen Geschäftsvorgängen unterstützen.
     
-*   An kooperierende Finanzinstitute, damit diese Ihnen zusammen mit uns gemeinsame Inhalte und Dienstleistungen (wie z.B. die Neuanmeldung zu Services, die Abwicklung von Transaktionen und die Erbringung von Kundenservice) bereitstellen können. Diese  Finanzinstitute verwenden Ihre personenbezogenen Informationen allerdings nur dann für den Versand von Marketingmitteilungen an Sie, wenn Sie deren Dienste auch tatsächlich in Anspruch genommen haben.
+*   An kooperierende Finanzinstitute, damit diese Ihnen zusammen mit uns gemeinsame Inhalte und Dienstleistungen (wie z.B. die Neuanmeldung zu Services, die Abwicklung von Transaktionen und die Erbringung von Kundenservice) bereitstellen können. Diese  Finanzinstitute verwenden Ihre personenbezogenen Informationen allerdings nur dann für die Übermittlung von Marketingmitteilungen an Sie, wenn Sie deren Dienste auch tatsächlich in Anspruch genommen haben.
     
 
 **An Strafverfolgungsbehörden, an gesetzlich autorisierte Dritte** **oder ihm Rahmen von Gerichtsverfahren**
