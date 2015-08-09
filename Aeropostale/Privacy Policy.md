@@ -7,7 +7,6 @@ Aéropostale
     *   Tokyo Darling
     *   Free State
     *   Throwback Tees
-    *   Swim Shop
     *   Uniform
     *   Online Only
     *   Plus Sizes
