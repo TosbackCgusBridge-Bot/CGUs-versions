@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true 10.60.248.10 L13856845822
+true true L13861599794
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p31.jcpenney.com SERVER NAME :->. dtcomexpr1l1j1 TIME :->. Sat Aug 08 06:50:02 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Sun Aug 09 11:29:54 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,34 +48,10 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store and Online
-
-Ends August 8. USE CODE: 2HOTSALE
-
-Extra $20 Off\* $50 or More
-
-Extra $10 Off\* $25 or More
-
-Online Only
-
-Ends August 8. USE CODE: HOTSVNG
-
-Or, Extra 25% Off\* $150 or More
-
-Or, Extra 20% Off\* $100 or More
-
-In Store and Online
-
-Ends August 8. USE CODE: HOTSVNG
-
-Or, Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.
-
-\*See exclusions and details. Print Coupon
-
-*   starts now!  
-    huge sale
-*   school uniforms  
-    40-50% off
+*   extra 25% off  
+    friends &. family
+*   nike sale  
+    25% off
     
     select styles
     
@@ -84,76 +60,69 @@ Or, Extra 10% Off\* watches, salon products, furniture, mattresses and custom bl
     
     select styles
     
-*   20% off
+*   bra fit event  
+    25% off
     
-    select bras  
-    when you  
-    buy 2 or more
+    select styles
     
 
-*   Huge Sale
+*   Friends and Family -- Extra 25% Off\*
     
-    In Store and Online | Ends August 8
+    In Store and Online | Ends August 11 | Online Code: OURFREND
     
-    Shop the Huge Sale View Store Ad Shop Women Shop Men Shop Juniors Shop Guys Shop Kids Shop Baby Shop Shoes Shop Accessories Shop Jewelry and Watches Shop Home$10 Off $25 Bonus Ca$h! | Ends August 11 | In Store Only!
+    Original, regular, sale and clearance-priced apparel, shoes, accessories, fine jewelry, home, furniture, mattresses and custom blinds and shades. or an Extra 15% Off\* watches, salon products, optical and portrait. \*Exclusions apply.
     
-    Earn a $10 off $25 Bonus Cash Coupon when you spend $25 or more on women's, men's and kids' apparel or Sephora.
+    Print Coupon Get Details View Store Ad Shop Home Shop Men Shop Guys Shop Kids Shop Baby Shop Women Shop Juniors Shop Accessories Shop Jewelry and Watches Shop Shoes$10 Off $25 Bonus Ca$h! | Ends August 11 | In Store Only!
+    
+    Earn a $10 Off $25 Bonus Cash Coupon when you spend $25 or more on women's, men's and kids' apparel or Sephora.
     
     Redeemable August 2 through 15, 2015 on shoes, women's accessories and jewelry. Some restrictions and exclusions apply. See store associate for details.
     
-    Night and Day Doorbusters
+*   Nike Sale -- 25% Off Select Nike Styles Only
     
-    In Store and Online. Friday 3pm CDT through Saturday 1pm CDT. Use your coupon and save even more!
+    Ends Saturday, August 15 | Excluded from coupon.
     
-    Shop Doorbusters
-*   Play hard. Dress smart.
-    
-    40 to 50% Off School Uniforms, select styles
-    
-    Shop Uniforms Shop Boys Shop Girls Shop Juniors Shop Guys Shop Izod Shop Arizona
-    
-    Also available in extended sizes
-    
-*   Home Sale
+    Shop Nike Shop Men's Nike Shoes Shop Women's Nike Shoes Shop Kids' Nike Shoes Shop Men's Nike Apparel Shop Women's Nike Apparel Shop Kids' Nike Apparel
+*    Home Sale
     
     30 to 50% Off Home Collections, select styles
     
-    Shop Home Sale Shop Window Shop Bedding and Bath Shop Home Decor Shop Furniture and Mattresses Shop Kitchen and Dining Shop Luggage Shop Curtains and Drapes
+    Shop Home Sale Shop Window Shop Bedding and Bath Shop Home Decor Shop Furniture and Mattresses Shop Kitchen and Dining Shop Luggage
 *   Bra Fit Event | Now through August 18.
     
-    20% Off Bras when you buy 2 or more. Select styles.
+    25% Off Bras when you buy 2 or more, select styles.
     
     Shop Bras
     
-    Ambrielle Convertible Plunge Push-Up Bra. $27.20 ea. when you buy 2 or more, reg. $34.
-    
-    Shop Convertible Plunge Push-Up Bra
-    
     $15 Perk Rewards for Bras
     
-    Get details: Shop Ambrielle -- only at JCPenney
+    Get details: Shop Playtex
 
-What's New
+Just For You
 
-Refresh your closet for summer! See what's trending now.
+Discover personalized recommendations that fit your style.
 
-Shop Shoes Shop Womens Shop Handbags Shop Jewelry Shop Mens Shop Home Back to School
+Try it now: Back to School
 
 Mix-and-Match styles to show how you bend the trend.
 
-Find Your Style Shop Kids Shop Backpacks Clearance 50 to 80% Off
+Find Your Style Shop Guys Shop Juniors Shop Backpacks Clearance 60 to 85% Off Shop Clearance
 
-New Markdowns! In Store and Online
+When you use 25% Off coupon or code: OURFREND
 
-Shop Clearance SportsFanShop
+Get Details SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop On the Go Shop the Catalog JCPenney Optical
+Shop SportsFanShop On the Go Shop the Catalog School Uniforms
+
+Play hard. Dress smart.
+
+Shop School Uniforms JCPenney Optical
 
 Kids' eyeglasses for $29.99.
 
-Get Details Sephora Has Arrived Shop Sephora Round Up and Let Your Change Make Real Change
+Get Details Round Up and Let Your Change Make Real Change
 
 Support JCPenney Cares in August by rounding up your purchase to help fund programs that keep kids safe, healthy and engaged beyond the classroom.
 
