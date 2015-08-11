@@ -164,36 +164,48 @@ Go to Details Other Resources
 *   Deals
 *   In-Store Only
 
-Create Shipment Get Rates Schedule a Pickup Track a Shipment Find a Location FedEx Office Mobile Login
+Create Shipment Get Rates Schedule a Pickup Track a Shipment Find a Location FedEx Office Mobile Login Welcome to the Customer Protection Center
 
-*   Overview
-*   Protecting Yourself
-*   Defending Against Fraud
-    *   Fraudulent Email Samples
+FedEx strives to provide a safe, secure online environment for our customers. The Customer Protection Center provides information about how FedEx works to help protect you and how you can protect yourself.
+
+Share this page:
+
+*   Home
+*   Report Fraud
+*   Recognize Fraud
+    *   Fraudulent Email Examples
+    *   Phishing Examples
+*   Security &. Privacy Tips
 *   Doing Our Part
     *   Account Number Protection
-    *   Electronic Shipping Security
-*   Privacy Policy (U.S. only)
-*   Privacy Policy
+*   Privacy Policy - fedex.com
+*   Privacy Policy - FedEx Digital Platforms
 
-**Suspicious e-mails?**Learn more about fraudulent FedEx e-mails that may contain a virus_Click here_ Privacy Policy for "fedex.com"
+More Resources
 
-FedEx Corporation understands the importance of protecting the privacy of fedex.com and senseaware.com (collectively, the "Websites") users. The information collected is used to market and improve the services we and our subsidiaries offer, to improve the fedex.com Web-site content, and to contact you with updates to the Web site or for other marketing purposes.  
+*   Financial Fraud Enforcement Task Force
+*   Federal Government 
+*   Federal Trade Commission
+*   Department of Justice
 
-Certain areas of fedex.com, including but not limited to FedEx Ship Manager® at fedex.com, FedEx InSight®, FedEx Return Manager®, FedEx® Billing Online, and FedEx® Global Trade Manager, require registration or a password for access. Information obtained from registered users of these areas may also be used for FedEx marketing purposes, and cookies may be used in those and other areas, as is described in this Policy. Information obtained in these areas may also be used in accordance with agreements governing access to and use of the specific areas, including, but not necessarily limited to FedEx Ship Manager at fedex.com, FedEx Return Manager, etc. In addition, visitors to fedex.com may choose to register for a fedex.com Login user ID and password to simplify access to some interactive features on fedex.com. Log file data and other information gathered from registered users of fedex.com are used to improve the fedex.com customer experience.  
-  
+Privacy Policy for FedEx.com
 
-fedex.com Login currently provides users with access to FedEx Ship Manager at fedex.com, FedEx® Global Trade Manager, and Simplify My Shipping. Currently, other applications require separate registrations. In the future, FedEx may add other features to those accessed through fedex.com Login. (In such event, previously registered users will not be required to re-register.)  
+FedEx Corporation understands the importance of protecting the privacy of fedex.com and senseaware.com (collectively, the "Websites") users. The information collected is used to market and improve the services we and our subsidiaries offer, to improve the fedex.com Web-site content, and to contact you with updates to the Web site or for other marketing purposes.
 
-If you are the recipient of a package, we have obtained your name and shipping information from a customer. When you visit fedex.com to track your package in transit, we collect your IP address and other non-identifying information about you, as we do with other visitors to the website. You do not need to register with fedex.com to obtain this information. We use, disclose, and otherwise handle information that we obtain about you to support the operation of fedex.com, to provide our services, and to perform other activities in accordance with this Privacy Policy.  
+Certain areas of fedex.com, including but not limited to FedEx Ship Manager® at fedex.com, FedEx InSight®, FedEx Return Manager®, FedEx® Billing Online, and FedEx® Global Trade Manager, require registration or a password for access. Information obtained from registered users of these areas may also be used for FedEx marketing purposes, and cookies may be used in those and other areas, as is described in this Policy. Information obtained in these areas may also be used in accordance with agreements governing access to and use of the specific areas, including, but not necessarily limited to FedEx Ship Manager at fedex.com, FedEx Return Manager, etc. In addition, visitors to fedex.com may choose to register for a fedex.com Login user ID and password to simplify access to some interactive features on fedex.com. Log file data and other information gathered from registered users of fedex.com are used to improve the fedex.com customer experience.
+
+fedex.com Login currently provides users with access to FedEx Ship Manager at fedex.com, FedEx® Global Trade Manager, and Simplify My Shipping. Currently, other applications require separate registrations. In the future, FedEx may add other features to those accessed through fedex.com Login. (In such event, previously registered users will not be required to re-register.)
+
+If you are the recipient of a package, we have obtained your name and shipping information from a customer. When you visit fedex.com to track your package in transit, we collect your IP address and other non-identifying information about you, as we do with other visitors to the website. You do not need to register with fedex.com to obtain this information. We use, disclose, and otherwise handle information that we obtain about you to support the operation of fedex.com, to provide our services, and to perform other activities in accordance with this Privacy Policy.
 
 Please also see the FedEx Service Guide for terms of carriage, limitations of liability, and disclaimers of warranty and general terms applicable to all delivery services and various information used and provided with FedEx services.
 
-FedEx reserves the right to amend the Privacy Policy at any time with or without notice. Please check back frequently in the event of changes.  
+FedEx reserves the right to amend the Privacy Policy at any time with or without notice. Please check back frequently in the event of changes.
 
 Your use of fedex.com constitutes your agreement to this Privacy Policy.
 
-ShowFor more information on this Privacy Policy, please click here
+  
+More Information on This Privacy Policy
 
 What information does FedEx capture about visitors to its Web site?
 
@@ -217,10 +229,6 @@ Parts of fedex.com, such as FedEx Global Trade Manager, consist of products and 
 
 What is a cookie?
 
-A cookie is a series of data characters that, when programmed into a Web site, is placed by the Web server into the browser's application folder on your computer. Once placed onto your machine, the cookie will allow the Web site to "recognize" you as a unique individual.
-
-Does FedEx use cookies?
-
 Cookies are used to achieve two goals. The first is to provide FedEx with the capability to personalize information for certain segments of its customer base. Secondly, in some instances, cookies are used to allow FedEx the opportunity to associate individual customers with their information profiles. For example, through the use of cookies, fedex.com Login can "remember" your user ID when you login to FedEx Ship Manager at fedex.com on your computer.
 
 Can cookies be removed from my hard drive?
@@ -229,13 +237,7 @@ Yes, cookies can be removed from your hard drive. Also, depending on what type o
 
 How do I contact FedEx?
 
-Our postal address is:  
-FedEx Corporation  
-P.O. Box 727  
-Memphis, TN 38194-1062  
-  
-
-We can be reached via email at webmaster@fedex.com or by telephone at **1.800.GoFedEx 1.800.463.3339**.
+Our postal address is: FedEx Corporation P.O. Box 727 Memphis, TN 38194-1062 We can be reached via email at webmaster@fedex.com or by telephone at **1.800.GoFedEx 1.800.463.3339.**
 
 Additional resources on information privacy
 
