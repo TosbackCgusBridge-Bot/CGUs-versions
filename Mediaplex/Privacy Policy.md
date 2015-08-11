@@ -29,6 +29,7 @@ Skip to main content
     *   Whitepapers
     *   Blog
 *   About Us
+    *   In the News
     *   Partners
     *   Press Releases
     *   Our Locations
@@ -89,6 +90,7 @@ Search form Search Search
     *   Whitepapers
     *   Blog
 *   About Us
+    *   In the News
     *   Partners
     *   Press Releases
     *   Our Locations
@@ -130,6 +132,7 @@ Our Clients                                              
     *   Whitepapers
     *   Blog
 *   About Us
+    *   In the News
     *   Partners
     *   Press Releases
     *   Our Locations
