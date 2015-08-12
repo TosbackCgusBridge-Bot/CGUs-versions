@@ -21,9 +21,9 @@ Skip to main content
         *   Personalization
         *   More Ways to Grow
 *   Our Approach
-    *   Data &. Profiles
-    *   Creative Optimization
-    *   Identification &. Delivery
+    *   Recognition &. Reach
+    *   Individualized Profiles
+    *   Decisioning &. Delivery
     *   Measurement &. Insights
 *   Insights &. Ideas
     *   Whitepapers
@@ -82,9 +82,9 @@ Search form Search Search
         *   Personalization
         *   More Ways to Grow
 *   Our Approach
-    *   Data &. Profiles
-    *   Creative Optimization
-    *   Identification &. Delivery
+    *   Recognition &. Reach
+    *   Individualized Profiles
+    *   Decisioning &. Delivery
     *   Measurement &. Insights
 *   Insights &. Ideas
     *   Whitepapers
@@ -97,16 +97,14 @@ Search form Search Search
 *   Contact Us
     *   Our Locations
 
-We're Fluent  
-In Digital Visit our blog for industry-leading insights Learn more The Power of PersonalSM Connect one-to-one with every individual in your vast target audience. Learn more Conversant Personalization Platform Unleash the power of data for better results and deeper engagement. Learn more Delivering profound and lasting growth We drive an average of 5.1 million purchases daily for the world’s leading brands. Learn more Solutions that connect brands to millions, one person at a time. Enterprise For Marketing Leaders
+We Know Your Customers better than anyone. 80 billion interactions  
+a day prove it. Learn more WE MAKE OVER A TRILLION REAL-TIME  
+DECISIONS every day, for billions of interactions. Visit Our Blog RECOGNIZING  
+REAL PEOPLE is what we do best—at 1 million  
+requests per second. Learn more 10X MORE BANG  
+FOR YOUR BUCK our client programs average 10X incremental return on ad spend. Contact Us CONNECT TO MILLIONS, ONE PERSON AT A TIME. Conversant Media FOR MARKETING &. MEDIA PROFESSIONALS
 
-Creative and media personalization programs that forge lasting relationships. Plus the tools and technology to bring it all together.
-
-Learn More
-
-Media For Media Professionals
-
-Improve your campaign metrics with individual audience definition and cross-channel, cross-device delivery.
+Have meaningful, ongoing conversations with millions of real people, across all of their devices.
 
 Learn More
 
@@ -124,9 +122,9 @@ Our Clients                                              
     *   Media Solutions
     *   CJ Affiliate Solutions
 *   Our Approach
-    *   Data &. Profiles
-    *   Creative Optimization
-    *   Identification &. Delivery
+    *   Recognition &. Reach
+    *   Individualized Profiles
+    *   Decisioning &. Delivery
     *   Measurement &. Insights
 *   Insights &. Ideas
     *   Whitepapers
