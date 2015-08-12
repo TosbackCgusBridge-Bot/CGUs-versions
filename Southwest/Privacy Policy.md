@@ -118,7 +118,7 @@ Subscribe | Unsubscribe
 
 Promotional Mailings
 
-As a Southwest Customer, Southwest account, SWABIZ®, or Rapid Rewards® Member, you may receive periodic promotional postal mailings from Southwest Airlines and/or our select marketing partners.  If you do not wish to receive such promotional mailings, you may call Rapid Rewards Customer Relations at 1-855-234-4654 (Monday - Friday, 7am-8pm CT).
+As a Southwest Customer, Southwest account, SWABIZ®, or Rapid Rewards® Member, you may receive periodic promotional postal mailings from Southwest Airlines and/or our select marketing partners.  If you do not wish to receive such promotional mailings, you may call Rapid Rewards Customer Relations at 1-855-234-4654.
 
 Account Information
 
