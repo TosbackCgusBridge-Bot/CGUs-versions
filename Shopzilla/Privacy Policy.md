@@ -1,12 +1,5 @@
 Connexity
 
-*   US
-    *   FR
-    *   DE
-    *   IT
-    *   UK
-*   Login
-
 *   Solutions
     
     *   Paid Search &. Marketplace
@@ -55,15 +48,48 @@ Connexity
         *   Insights &. ratings
         *   Paid search
     *   Articles &. White Papers
+
+*   *   US
+        *   FR
+        *   DE
+        *   IT
+        *   UK
+    *   Login
+    
 *   Contact
 
-Toggle navigation ×
+Toggle navigation blog navsite nav
 
 *   Solutions
     *   Paid Search &. Marketplace
-    *   Bizrate Insights
+        *   Managed Search Services
+            *   PLAs
+            *   SEM
+            *   SEO
+        *   CPC Marketplace Listings
+            *   Connexity CPC Marketplace
+    *   Bizrate Insights &. Ratings
+        *   Consumer Insights
+            *   Surveys
+            *   Reporting
+        *   Conversion Boosters
+            *   Seller ratings
+            *   Testimonials
+            *   Badges &. awards
+        *   Competitive Intelligence
+        *   Advisory Services
+        *   Subscriptions
     *   Display Media
+        *   Audience Targeting
+            *   In-market
+            *   Lifestyle &. life stage
+            *   Custom
+        *   Contextual Shopping Sites
+        *   Retargeting
+        *   Multi-screen
     *   Publisher Monetization
+        *   CPC Product Monetisation
+        *   CPM Display Monetisation
 *   About
     *   About Connexity
     *   Open Positions
@@ -73,15 +99,12 @@ Toggle navigation ×
 *   Resources
     *   Blog
     *   Case Studies
-    *   Case Studies – Display
-    *   Case Studies – Insights
-    *   Case Studies – Search
+        *   Display media
+        *   Insights &. ratings
+        *   Paid search
     *   Articles &. White Papers
-*   Stay Connected
-    *   Login
-    *   Contact Us
 
-Privacy Policy
+CONTACT Privacy Policy
 
 Last modified on: June 12th 2015
 
