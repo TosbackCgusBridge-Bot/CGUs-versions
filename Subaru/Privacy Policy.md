@@ -196,6 +196,12 @@ Financing
 
 Find information on financing or leasing your new Subaru.
 
+Take a Guided Tour
+
+Get up close and personal with model specific interactive content, videos, and so much more
+
+Start Here
+
 *   Estimate Credit Score
 *   Apply for Financing
 *   Extended Service Plans
@@ -253,6 +259,7 @@ See how the experts rate Subaru and our models.
 *   Dear Subaru
 *   Live. Love.
 *   Social Responsibility
+*   Subaru Loves Pets
 
 Company
 
@@ -397,6 +404,7 @@ Enthusiasts
 *   Dear Subaru
 *   Motorsports
 *   Events
+*   Subaru Loves Pets
 *   Subaru Gear
 *   Drive Magazine
 *   Drive Performance
