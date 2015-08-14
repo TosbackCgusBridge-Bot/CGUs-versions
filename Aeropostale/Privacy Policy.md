@@ -83,14 +83,14 @@ Aéropostale
 *   Room
     
     *   SHOP BY ROOM
-    *   Dreamweaver
-    *   Touch of Whimsy
-    *   Lofty Ideals
-    *   Spirited Away
-    *   Festival Feels
-    *   Floral Fixation
-    *   Forever Island
-    *   Peace, Love, &. Neon
+    *   Bethany's Dreamweaver Room
+    *   Touch of Whimsy Room
+    *   Lofty Ideals Room
+    *   Spirited Away Room
+    *   Festival Feels Room
+    *   Bethany's Floral Fixation Room
+    *   Forever Island Room
+    *   Peace, Love, &. Neon Room
     
     *   SHOP BY CATEGORY
     *   Bedding
