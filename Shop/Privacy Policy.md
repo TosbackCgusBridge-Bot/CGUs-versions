@@ -19,13 +19,13 @@ LENOVO Menu
         7.  Deals for Students and Educators
         8.  Outlet
         9.  Warranty-Sale
-    *   Back to School Sale Fresh Style. Reliable Gear. Big Savings.
+    *   Back to School Sale There’s still time to impress. Don’t settle for less.
         
         Save up to 80% Site-Wide
         
-    *   Need it Quick?
+    *   Upromise And Lenovo
         
-        We have prebuilt models of our most popular PCs in stock and ready to ship!
+        Join Forces to Help You Save for College!
         
     *   BACK-TO-SCHOOL GUIDE
         
