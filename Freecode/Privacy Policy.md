@@ -60,8 +60,8 @@ Please take some time to familiarize yourself with the different ways we use the
     8.  To email users about services, information, products and offers from our business partners (and as set forth in the Section How we share information we gather);
     9.  To personalize a Site for the user;
     10.  To notify the user of any changes with a Site which may affect the user;
-    11.  To enforce terms of use on a Site. and
-    12.  To allow the user to purchase products, access services, or otherwise engage in activities the user selects.
+    11.  To enforce terms of use on a Site;
+    12.  To allow the user to purchase products, access services, or otherwise engage in activities the user selects. and
     13.  To allow us to contact you by phone and/or email.
 
 User names, identifications (“IDs”), and email addresses (as well as any additional information that a user may choose to post) may be publicly available on a Site when a user voluntarily and publicly discloses personally identifiable information, such as when a user posts personally identifiable information in conjunction with content subject to an open source license, uses features to send a message to another user, or as part of a message posted to a public forum or a publicly-released software application. Users may not be able to change or remove public postings once posted. Such personally identifiable information may be used by visitors of these pages to send unsolicited messages. We are not responsible for any consequences which may occur from the use of personally identifiable information that a user chooses to submit to public pages.
