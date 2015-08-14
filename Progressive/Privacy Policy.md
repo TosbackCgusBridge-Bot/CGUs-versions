@@ -153,10 +153,10 @@ Your Policy*   About
     *   Newsroom
     *   Investors
     *   @Progressive
-Privacy &. Security
 
-*   Web Site Security
-*   Report Fraud
+*   Privacy &. Security
+    *   Web Site Security
+    *   Report Fraud
 
  Search / Keywords
 
