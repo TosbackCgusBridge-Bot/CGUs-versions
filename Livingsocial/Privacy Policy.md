@@ -115,4 +115,4 @@ How to Contact Us
 
 If you have questions or concerns about our Privacy Policy, please contact us at: privacy@livingsocial.com.
 
-Last updated: January 22, 2013
+Last updated: August 10, 2015
