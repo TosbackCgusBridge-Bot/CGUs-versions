@@ -89,6 +89,7 @@ My Bag (0) Wish List Search
     *   Privacy Policy - Applicant
     *   Terms &. Conditions
     *   Safe Shopping
+    *   Image Use Agreement
 *   Technical Help
     *   Technical Difficulties
     *   Javascript
