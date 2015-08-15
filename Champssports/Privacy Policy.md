@@ -1,6 +1,6 @@
 Privacy Policy
 
-Last Updated June, 2014
+Last Updated August, 2015
 
 Thank you for visiting our Website. We recently revised our Privacy Statement to make it easier for you to understand. This revised Statement, like our previous one, outlines the information we collect, how we may use and disclose it, and what your options are with respect to our practices. If you have any questions, please contact us at customercare@champssports.com
 
@@ -38,7 +38,7 @@ We may use the information we collect from and about you for the following purpo
 **Information Disclosure**  
 We may disclose the information we collect from and about you as follows:
 
-1.  Among the Foot Locker family of companies including Foot Locker, Lady Foot Locker, Kids Foot Locker, Footaction, Final-Score, Champs Sports, Eastbay, CCS and SIX:02.
+1.  Among the Foot Locker family of companies including Foot Locker, Lady Foot Locker, Kids Foot Locker, Footaction, Final-Score, Champs Sports, Eastbay, and SIX:02 for their own marketing purposes.
 2.  To our service providers, if the disclosure will enable them to perform a business, professional, or technical support function for us.
 3.  To carefully-selected third party partners, so that they may inform you of offers, promotions and services.
 4.  For payment processing and authorization, fraud protection and credit risk reduction, website evaluation and data analysis, and distributing marketing and promotional material
