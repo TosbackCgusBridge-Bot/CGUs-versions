@@ -1,6 +1,6 @@
 User Privacy NoticeeBay- User Privacy Notice This Privacy Notice was posted on **May 1, 2015**. It is effective upon acceptance for new users, and from **June 15, 2015** for all other users. See previous version of this Privacy Notice.
 
-The eBay website is a licensee of the TRUSTe Web Privacy Program. If Customer Support cannot answer your privacy-related questions, please use the TRUSTe Watchdog Dispute Resolution Process.
+The eBay website is a licensee of the TRUSTe Web Privacy Program. In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. If Customer Support cannot answer your privacy-related questions, please use the TRUSTe Watchdog Dispute Resolution Process. The TRUSTe certification applies only to information that is collected through this website, www.ebay.com.
 
 Summary &. Contents
 
@@ -139,7 +139,7 @@ We use cookies, web beacons, unique identifiers, and similar technologies to col
 
 **Personal information from other sources**
 
-*   We may supplement the information we collect with information from third parties and add it to your account information. For example, we may collect and use demographic information that is publically available, additional contact information, credit check information, and information from credit bureaus, as allowed by applicable national laws
+*   We may supplement the personal information we collect with information from third parties and add it to your account information. For example, we may collect and use demographic information that is publically available, additional contact information, credit check information, and information from credit bureaus, as allowed by applicable national laws
     
 *   We may allow you to share information with social media sites, or use social media sites to create your account or to connect your account with the respective social media site. Those social media sites may give us automatically access to certain personal information retained by them about you (e.g., content viewed by you, content liked by you, and information about the advertisements you have been shown or may have clicked on, etc.). If you provide us with access to any site with video content, then you agree that we may share your video viewing with, or obtain information about your video viewing from, third-party social media sites for at least two years or until you withdraw consent. You control the personal information you allow us to have access to through the privacy settings on the applicable social media site and the permissions you give us when you grant us access to your personal information retained by the respective social media site about you. By associating an account managed by a social media site with your account and authorizing us to have access to this information, you agree that we may collect, use and retain the information provided by these social media sites in accordance with this Privacy Notice
     
