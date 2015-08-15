@@ -110,7 +110,6 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
     *   Directory
     *   Blog
     *   Community
-    *   Affiliate Program
     *   Account Log In
     *   Webmail Log In
 
