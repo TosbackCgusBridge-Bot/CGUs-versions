@@ -1,7 +1,7 @@
   Search for:
 
 *   Log In
-*   Sign up
+*   Sign Up
 *   Help
 
 **NexTag, Inc. - Website Privacy Statement/Your California Privacy Rights** Effective October 30, 2014  
