@@ -7,6 +7,7 @@ Aéropostale
     *   Tokyo Darling
     *   Free State
     *   Throwback Tees
+    *   Party Dresses
     *   Uniform
     *   Online Only
     *   Plus Sizes
