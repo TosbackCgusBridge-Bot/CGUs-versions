@@ -17,7 +17,6 @@ Navigation
     *   Mafia Wars
     *   Matching With Friends
     *   NFL Showdown
-    *   Solstice Arena
     *   What's The Phrase
     *   Wizard of Oz Slots
     *   Word Streak With Friends
