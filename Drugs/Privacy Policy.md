@@ -2,7 +2,7 @@ Changes were made to this privacy policy on August 13th, 2015. The changes relat
 
 Privacy Policy
 
-For the purposes of this privacy policy, the terms "we", "us", "our" and "Drugs.com" refer to our web site www.drugs.com. The terms "you" and "end-user" refer to you as a user of this web site. This privacy policy applies to www.drugs.com owned and operated by Drugsite Trust. This privacy policy describes how Drugsite Trust collects and uses the personally identifiable information you provide on our web site: http://www.drugs.com. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
+For the purposes of this privacy policy, the terms "we", "us", "our" and "Drugs.com" refer to our web site www.drugs.com. The terms "you" and "end-user" refer to you as a user of this web site. This privacy policy applies to www.drugs.com owned and operated by Drugsite Trust, doing business as Drugs.com. This privacy policy describes how Drugsite Trust collects and uses the personally identifiable information you provide on our web site: http://www.drugs.com. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
 
 TRUSTe
 
