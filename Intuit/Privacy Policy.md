@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true 10.60.248.10 L13879961599
+true true C13750537438
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p01.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Fri Aug 14 07:29:49 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p01.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Sat Aug 15 02:39:31 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -74,8 +74,7 @@ Ends August 15. USE CODE: BASICS
 
 \*See exclusions and details. Print Coupon
 
-*   starts now!  
-    super  
+*   super  
     saturday  
     sale
 *   a+ looks  
@@ -97,11 +96,11 @@ Ends August 15. USE CODE: BASICS
 
 *   Super Saturday Sale
     
-    Starts Now! | In Store and Online
+    In Store and Online
     
     Shop the Super Saturday Sale View Store Ad Shop Women Shop Baby Shop Accessories Shop Men Shop Juniors Shop Guys Shop Home Shop Jewelry Shop Kids Shop ShoesNight and Day Doorbusters
     
-    Use your coupon and save even more! Friday 3pm CDT through Saturday 1pm CDT.
+    Use your coupon and save even more! Ends Saturday 1pm CDT.
     
     Shop Doorbusters
 *   Up to 50% Off Arizona
