@@ -52,7 +52,7 @@ Menu
         
         Do It Yourself Online
         *   Why Invest with Us
-        
+        *   Compare Trade Prices
         *   Plan Your Retirement
         *   Open an Account
         *   Sign In to Your Account
