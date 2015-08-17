@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13750537438
+true true L13885821541
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p01.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Sat Aug 15 02:39:31 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p05.jcpenney.com SERVER NAME :->. dtcomexpr1l1j2 TIME :->. Sun Aug 16 06:32:19 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,98 +48,81 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-$10 Off\* $25 or More
-
-In Store and Online
-
-Ends August 15. USE CODE: TSHIRTS
-
-Or, Extra 20% Off\* $100 or More
-
-Online Only
-
-Ends August 15. USE CODE: BASICS
-
-Or, Extra 25% Off\* $150 or More
-
-Online Only
-
-Ends August 15. USE CODE: BASICS
-
-Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
-
-In Store and Online
-
-Ends August 15. USE CODE: BASICS
-
-\*See exclusions and details. Print Coupon
-
-*   super  
-    saturday  
+*   big  
+    back to  
+    school  
     sale
-*   a+ looks  
-    up to 50% off
+*   50% off  
+    kids’ arizona
     
-    select  
-    arizona
+    select styles
     
 *   home sale  
     30-50% off
     
     select styles
     
-*   bra fit event  
-    25% off
+*   save on  
+    hanes
     
     select styles
     
 
-*   Super Saturday Sale
+*   Big Back to School Sale Shop the Big Back to School Sale View Store Ad Shop Women Shop Shoes Shop Men Shop Lingerie Shop Juniors Shop Jewelry Shop Kids Shop Dorm Shop Baby Shop Guys Shop Home Shop AccessoriesArizona Jean Co. -- Only at JCPenney
     
-    In Store and Online
+    40 to 50% Off Arizona, select styles
     
-    Shop the Super Saturday Sale View Store Ad Shop Women Shop Baby Shop Accessories Shop Men Shop Juniors Shop Guys Shop Home Shop Jewelry Shop Kids Shop ShoesNight and Day Doorbusters
+    Shop Arizona
+*   50% Off Kids' Arizona
     
-    Use your coupon and save even more! Ends Saturday 1pm CDT.
+    select styles | available in extended sizes
     
-    Shop Doorbusters
-*   Up to 50% Off Arizona
-    
-    select styles | extended sizes available
-    
-    Shop Arizona Shop Juniors Shop Guys Shop Girls Shop Boys
-    
-    Back to School -- mix-and-match to show how you bend the trend.
-    
-    Bend the Trend
+    Shop Arizona Shop Boys Shop Girls  
 *   Home Sale
     
     30 to 50% Off Home Collections, select styles
     
-    Shop Home Sale Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Home Decor Shop Luggage Shop Comforters and Bedding Sets
-*   Bra Fit Event | Now through August 18.
+    Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage Shop Comforters and Bedding Sets
+*   Stock Up
     
-    25% Off Bras when you buy 2 or more, select styles.
+    24.99 each  
+    New! Hanes Ultimate Bras, select styles | orig. $34
     
-    Shop Bras
+    Shop Hanes Ultimate Bras
     
-    $15 Perk Rewards for Bras
+    20% Off Men's Hanes Socks and Underwear, select styles
     
-    Get details: Shop Vanity Fair
+    Shop Hanes Socks and Underwear
 
-Just For You
+Back to School
 
-Discover personalized recommendations that fit your style.
+Mix-and-Match styles to show how you bend the trend.
 
-Try it now: Nike Sale
+Find Your Style Shop Kids Shop Backpacks30 to 40% Off Juniors' Boots
 
-25% Off Select Nike Styles Only | excluded from coupon
+Select styles
 
-Shop all Nike Download the JCPenney App and Get Shopping Check Out the App: Download on the App Store Get It On Google play On the Go Shop the Catalog JCPenney Optical
+Shop Juniors' Boots Shop Arizona Red Zone Clearance 55 to 80% Off
 
-Kids' eyeglasses for $29.99.
+New Markdowns! In Store and Online
 
-Get Details Red Zone Clearance 50 to 80% Off | New Markdowns! Shop Clearance Round Up and Let Your Change Make Real Change
+Shop Clearance
+
+When you use 15% Off coupon or code: BACK2SCH
+
+Get Details JCPenney Optical
+
+Kids' Eyeglasses for $29.99.
+
+Get Details College Colors Day Shop Now School Uniforms
+
+Play hard. Dress smart.
+
+Shop School Uniforms Love Your Fit -- More sizes. More styles. More you.
+
+Bra fit event, now through August 18.
+
+Find a Bra Fit Event Near You Round Up and Let Your Change Make Real Change
 
 Support JCPenney Cares in August by rounding up your purchase to help fund programs that keep kids safe, healthy and engaged beyond the classroom.
 
