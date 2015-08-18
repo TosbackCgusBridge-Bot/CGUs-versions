@@ -24,7 +24,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Voices
     *   MLB.com Pipeline
     *   Sports on Earth
-    *   What's Next
+    *   Postseason
     *   Will Ferrell
     *   Awards
     *   Espanol
@@ -78,7 +78,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Important Dates
     *   Team-by-Team Schedule
     *   National Broadcasts
-    *   2014 Postseason
+    *   2015 Postseason
     *   Probable Pitchers
     *   Meet your baseball Match
 *   Players Players Players
