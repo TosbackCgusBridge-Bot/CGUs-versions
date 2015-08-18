@@ -443,7 +443,7 @@ The Nature Conservancy is a nonprofit, tax-exempt charitable organization (tax i
 
 x **Sign up** for Nature eNews!
 
-Learn about the places you love  
+Learn about the places you love.  
 Find out how you can help.
 
 Share nature's story.
