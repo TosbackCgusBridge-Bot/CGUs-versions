@@ -261,7 +261,7 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Management
     *   Community
     *   History
-    *   Social Responsibility
+    *   Sustainability
     *   Customer Center
     *   Product Security
     *   Legal Information
@@ -344,7 +344,7 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Where to Buy
     *   Product Registration
     *   Product Accessibility
-    *   Environmental Information
+    *   Product Compliance
     *   Training
     *   Blogs
     *   Forums
