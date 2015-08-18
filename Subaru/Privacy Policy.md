@@ -404,6 +404,7 @@ Enthusiasts
 *   Dear Subaru
 *   Motorsports
 *   Events
+*   Subaru Loves Pets
 *   Subaru Gear
 *   Drive Magazine
 *   Drive Performance
