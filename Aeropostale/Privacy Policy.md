@@ -81,7 +81,7 @@ Aéropostale
     *   Lounge
     *   Intimates
     *   Accessories
-*   SHOP BY CATEGORY
+*   SHOP BY ROOM
     
     *   SHOP BY ROOM
     *   Bethany's Dreamweaver Room
