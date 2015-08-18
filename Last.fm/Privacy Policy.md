@@ -1,6 +1,20 @@
-Your privacy matters
+*   Login
 
-**Updated on: Tuesday 15 January 2013**
+Hi! We're going live with our new site. Due to this, some functionality may be temporarily unavailable. You can find more information on our support pages.
+
+Last.fm Logo Toggle navigation
+
+*   Live
+*   What's New
+*   Events
+*   Music
+*   Features
+*   Inbox
+*   Login
+
+Search Search Search Privacy Policy
+
+**Updated on:** Tuesday 15 January 2013
 
 *   We have a pretty simple privacy policy. We are reasonably sure this won’t annoy anyone.
 *   The entry of personal data on this site is completely optional and will require you to setup an account with a password and an email address. Please choose a password that is not easy for someone else to guess, such as birthday, national identification number and phone number.
@@ -143,3 +157,32 @@ If you decide that you do not want your personal information to be used in the w
 20\. Effective Date
 
 This Privacy Policy is effective as of Tuesday 15 January 2013.
+
+*   About
+*   Contact
+*   Developer API
+*   Community Support
+*   Community Guidelines
+*   Free Music Downloads
+
+*   **English**current language
+*   Deutsch
+*   Español
+*   Français
+*   Italiano
+*   日本語
+*   Polski
+*   Português
+*   Русский
+*   Svenska
+*   Türkçe
+*   简体中文
+
+*   CBS Interactive © 2015 Last.fm Ltd. All rights reserved
+*   Terms of Use
+*   Privacy Policy
+*   Legal Policies
+
+You’re viewing a beta version of the new Last.fm website. Leave feedback
+
+Hide API Calls
