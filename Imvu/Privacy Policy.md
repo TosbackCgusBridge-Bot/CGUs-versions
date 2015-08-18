@@ -1,6 +1,6 @@
   **Sign Up Now to Chat in 3D!** Member Login
 
-Last updated as of: September 12, 2014
+Last updated as of: August 17, 2015
 
 IMVU, Inc. Privacy Policy
 
@@ -14,7 +14,6 @@ Thank you for visiting IMVU, Inc.'s ("IMVU") Internet web site located at www.im
 *   Information about Third Party Advertisements
 *   Information about Third Party Offers
 *   Information about Co-Branded Sites
-*   Your use of Facebook/MySpace Connect
 *   How your PII is used, retained and secured
 *   Notice to European User
 *   Methods by which you can update/correct/remove your PII from our Site
@@ -30,11 +29,11 @@ If any modification is unacceptable to you, you shall cease using this Site. If 
 Information Collection and Use
 
 Registration  
-In order to use this Site, we request certain PII from you on the registration form and require you to create a user name and password. During registration you are required to give contact information (such as name and email address). We use this information to register you to use our services, contact you to deliver certain services or information you have requested, verify your authority to enter our Site, improve the content and general administration of the Site and our services, provide you with notices regarding goods or services that you have purchased or may wish to purchase in the future and for targeted marketing purposes.
+In order to use this Site, we request certain PII from you on the registration form and require you to create a username and password. During registration you are required to give contact information (such as email address). We use this information to register you to use our services, contact you to deliver certain services or information you have requested, verify your authority to enter our Site, improve the content and general administration of the Site and our services, provide you with notices regarding goods or services that you have purchased or may wish to purchase in the future and for targeted marketing purposes.
 
 You will also be asked to provide demographic information (such as gender and birth date). we encourage you to submit this information so we can provide you a more personalized experience on our Site and to verify your authority to use our Site.
 
-If you opt-in to ourCreator Notification program or certain other optional IMVU services, we also will ask you for your account name, postal address and/or your cell phone number. We will use this information to administer the Creator Notication program or other programs, and may use this information to send you notices and information.
+If you opt-in to our Creator Notification program or certain other optional IMVU services, we also will ask you for your account name, postal address and/or your cell phone number. We will use this information to administer the Creator Notification program or other programs, and may use this information to send you notices and information.
 
 Purchases and Orders  
 If you wish to Join our VIP program, add credits to your account, or become a creator and purchase your avatar name, or purchase other services, we request certain PII from you on our order form. You must provide us with contact information (such as name, email, and billing address) and financial information (such as credit card number, expiration date).
@@ -48,12 +47,12 @@ Other Communications
 We will send you emails from time to time. Examples include when someone adds you as a friend, when you get a new message from one of your friends or when a user is not your friend but sends you a message. If you do not wish to receive these types of email communications you may go to "Account Settings" "Change email preferences" and change your options.
 
 Photos  
-You have the ability to upload photos on the Site (for example, to use as your avatar image or for your Photo Stream).. Please be aware that if you do this then your photo may be viewed by other users of the Site. You may remove your photo(s) at anytime by going to your avatar homepage, selecting your photos/gallery, and deleting photos individually or as a group.
+You have the ability to upload photos on the Site (for example, to use as your avatar image or for your Photo Stream). Please be aware that if you do this then your photo may be viewed by other users of the Site. You may remove your photo(s) at anytime by going to your avatar homepage, selecting your photos/gallery, and deleting photos individually or as a group.
 
 Chat Rooms/Blogs/Message Boards/Instant Messages  
-If you use the chat room, blog, message board or instant messages on this Site, you should be aware that any PII you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the PII you choose to submit in these forums.
+If you use the chat room, message board or instant messages on this Site, you should be aware that any PII you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the PII you choose to submit in these forums.
 
-If you choose to subscribe to our blog by email we will collect your email address, and we will use your email address to send you an email verification as well as email messages if people comment on the same blog thread as you. You may unsubscribe to this at any time by following the instructions included in each email communication or by  clicking on the "Request Support" tab and selecting "Privacy" as a Case Category.
+If you choose to subscribe to our blog by email we will collect your email address, and we will use your email address to send you an email verification as well as email messages if people comment on the same blog thread as you. You may unsubscribe to this at any time by following the instructions included in each email communication or by clicking on the "Request Support" tab and selecting "Privacy" as a Case Category.
 
 Additionally, IMVU may also collect non-PII such as the aggregate information described below in the "Aggregate Information" section and such other non-PII as statistics about machines running our software, so as to further understand and enhance the user experience, marketing, security, enforcement, and system integrity (prevention of hacks, unauthorized use, etc).
 
@@ -97,7 +96,7 @@ Third Party Advertisements
 
 Certain advertisements that appear on this Site are sometimes delivered (or "served") directly to users by third party advertisers. Some of these third party advertisers automatically receive certain of your PII through your interaction with an advertisement. These third party advertisers may also download non-personally identifiable cookies to your computer, or use other technologies such as "web beacons" to measure the effectiveness of their ads and to personalize advertising content. Their use of your PII will be governed by the terms of their privacy policies and their privacy policies may explain the way in which you can "opt-out" of certain tracking by their advertisements.
 
-For more information about online advertising, please visit the Digital Advertising Alliance webpage at  http://www.aboutads.info/consumers/. Additionally, certain third party advertisers may adhere to the Network Advertising Initiative ("NAI") Principles. You may learn more about the NAI Principles and opt-out of receiving targeted ad programs certain third party advertisers provide at http://www.networkadvertising.org/.
+For more information about online advertising, please visit the Digital Advertising Alliance webpage at http://www.aboutads.info/consumers/. Additionally, certain third party advertisers may adhere to the Network Advertising Initiative ("NAI") Principles. You may learn more about the NAI Principles and opt-out of receiving targeted ad programs certain third party advertisers provide at http://www.networkadvertising.org/.
 
 Third Party Offers
 
@@ -110,10 +109,6 @@ Some pages may have the look and feel of our Site (i.e. www.imvu.com), however t
 At times we may enter into other co-branded relationships. When we enter into these types of relationships we will share your name and email address in order for our co-branded partner(s) to provide you with a better experience, to deliver our products or services, or to allow you to apply for a job.
 
 Our Privacy Policy does not apply to the information collected on these co-branded sites. You should read the privacy policy or statement of our co-branded partner on the co-branded site.
-
-Facebook Connect
-
-The Site allows users to access Facebook Connect to interact with friends and to share on Facebook. If you are already logged into the Site and Facebook, when you click on "Connect with Facebook" you will be prompted to merge your profiles. If you are already logged into Site but not logged into Facebook, when you click on "Connect with Facebook" you will be prompted to enter your Facebook credentials or to "Sign up for Facebook." By proceeding, you are allowing the Site to access your information and you are agreeing to the Facebook Terms of Use in your use of the Site. Conversely, if you are not currently registered as a Site user and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join Site. Once you register on the Site and Connect with Facebook, you will be able to automatically post recent activity back to Facebook. You have the option to disable Facebook Connect at any time by logging into "Account Settings" and clicking on "Manage OpenID auto-signins." Further, you can edit privacy settings for the reviews that appear on Facebook or disconnect this service by visiting the Facebook Application Settings page.
 
 How is your PII retained &. secured?
 
@@ -135,11 +130,11 @@ IMVU recognizes the privacy interests of children and we encourage parents and g
 
 Questions/Contact us
 
-If you have any questions regarding this Privacy Policy please contact IMVU, Inc.  here by clicking on the "Request Support" tab and selecting "Privacy" as a Case Category or via mail at:
+If you have any questions regarding this Privacy Policy please contact IMVU, Inc. here by clicking on the "Request Support" tab and selecting "Privacy" as a Case Category or via mail at:
 
 Privacy Officer  
 IMVU, Inc.  
 PO Box 390012  
 Mountain View, CA 94039.
 
-Mobile | People | Walk Off | Groups | Forums | 3D Chat Rooms | 3D Virtual Catalog | Buy Credits | Earn Credits | Creator Center | Download About Us | Blog | Contact Us | Advertise | Affiliates | Jobs | Terms of Service | Privacy | Help | Safety | Avatar © 2015 IMVU All rights reserved
+Mobile | People | Groups | Forums | 3D Chat Rooms | 3D Virtual Catalog | Buy Credits | Earn Credits | Creator Center | Download About Us | Policies | Blog | Contact Us | Advertise | Jobs | Safety | Avatar | Help © 2015 IMVU All rights reserved
