@@ -230,7 +230,7 @@ When was this policy last updated?
 
 Please click here to view any material and substantive changes made since the last revision of this privacy policy. If you're concerned about how your personal information is used, please visit our site often for this and other important announcements about VictoriasSecret.com.
 
-This Privacy Statement is effective December 19, 2014.
+This Privacy Statement is effective August 17, 2015.
 
 Back To Top
 
