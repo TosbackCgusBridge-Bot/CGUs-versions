@@ -26,7 +26,7 @@ Click on one of the links below to jump directly to the listed section:
 
 Information We Collect
 
-We may obtain personal information about you from various sources, including this and other GILT websites, mobile applications, when you call or email us or communicate with us through social media or our or our partners' live chat functionalities, or when you participate in events or other promotions. We also may obtain information about you from our parent, affiliate or subsidiary companies, business partners and other third parties.
+We may obtain personal information about you from various sources, including this and other GILT websites, mobile applications, when you call or email us or communicate with us through social media, or when you participate in events or other promotions. We also may obtain information about you from our parent, affiliate or subsidiary companies, business partners and other third parties.
 
 The types of personal information we may obtain include:
 
@@ -111,11 +111,11 @@ You may opt out of the aggregation and analysis of data collected about you on o
 
 Targeted Advertising &. Tracking
 
-You may exercise your choices with respect to how third-party ad networks with which we engage collect information about your web use by clicking here. You can opt-out of receiving targeted ads on Facebook by clicking here. To exercise your choices with respect to targeted advertising and tracking on your mobile device, we recommend you explore your options to reset, limit or turn off your advertising ID on your particular device.  
+You may exercise your choices with respect to how third-party ad networks with which we engage collect information about your web use by clicking here. You can opt-out of receiving targeted ads on Facebook by clicking here.  
 
 Geo-Location Information
 
-When you use a GILT application on your mobile device, you may choose not to share your precise geo-location details with us by adjusting the device’s location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer.
+When you use a GILT application on your mobile device, you may choose not to share your geo-location details with us by adjusting the device’s location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer.
 
 Cookies
 
@@ -166,4 +166,4 @@ Attn: Legal Department
 2 Park Avenue, 4th Floor  
 New York, New York 10016
 
-**Last Updated: August 17, 2015**
+**Last Updated: April 2, 2015**
