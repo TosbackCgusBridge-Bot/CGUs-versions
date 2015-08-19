@@ -1,4 +1,4 @@
-Changes were made to this privacy policy on August 13th, 2015. The changes relate to how our employees and contractors handle personally identifiable information. We do not directly access or share any personally identifiable information. Added clause stating we will respond to support requests within a reasonable timeframe.Historical changes can be viewed here.
+Changes were made to this privacy policy on August 13th, 2015. Added clause stating we do not directly access or share any personally identifiable information. Added clause stating we will respond to support requests within a reasonable timeframe. Historical changes can be viewed here.
 
 Privacy Policy
 
