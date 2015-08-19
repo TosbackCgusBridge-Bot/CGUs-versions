@@ -15,10 +15,11 @@ LENOVO Menu
         3.  Desktops Sale
         4.  Tablets Sale
         5.  Accessories Deals
-        6.  Coupon Page
-        7.  Deals for Students and Educators
-        8.  Outlet
-        9.  Warranty-Sale
+        6.  Ready to Ship PCs
+        7.  Coupon Page
+        8.  Deals for Students and Educators
+        9.  Outlet
+        10.  Warranty-Sale
     *   Back to School Sale There’s still time to impress. Don’t settle for less.
         
         Save up to 80% Site-Wide
