@@ -210,8 +210,8 @@ OkCupid © 2015 Free online dating
 *   Atlanta dating
 *   Portland dating
 
-This page is out of date
+Your session has expired
 
-Refresh the page to get OkCupid working again!
+Still there?
 
-*   Refresh
+*   Resume dating
