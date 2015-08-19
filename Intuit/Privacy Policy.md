@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13889803843
+true true 10.60.216.10 C13758107909
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p05.jcpenney.com SERVER NAME :->. dtcomexpr1l1j3 TIME :->. Mon Aug 17 11:15:27 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p25.jcpenney.com SERVER NAME :->. dtcomexpr1c1j4 TIME :->. Tue Aug 18 06:08:10 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,10 +48,10 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   big  
-    back to  
-    school  
-    sale
+*   extra 30% or  
+    25% off  
+    select styles  
+    \+ free shipping
 *   50% off  
     kids’ arizona
     
@@ -68,11 +68,21 @@ Your version of Internet Explorer is out of date. For best experience please upg
     select styles
     
 
-*   Big Back to School Sale Shop the Big Back to School Sale View Store Ad Shop Women Shop Shoes Shop Men Shop Lingerie Shop Juniors Shop Jewelry Shop Kids Shop Dorm Shop Baby Shop Guys Shop Home Shop AccessoriesArizona Jean Co. -- Only at JCPenney
+*   Today Only! | August 18 | Online Only! | Code: 2SCHOOL
     
-    40 to 50% Off Arizona, select styles
+    Extra 30% Off\* $150 or More, select styles
     
-    Shop Arizona
+    Or, Extra 25% Off\* select styles
+    
+    Plus Free Shipping Anywhere over $49\*
+    
+    Or, Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.
+    
+    Get details:
+    
+    \*exclusions apply
+    
+    Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Juniors Shop Lingerie Shop Accessories Shop Home Shop Jewelry Shop Guys
 *   50% Off Kids' Arizona
     
     select styles | available in extended sizes
@@ -102,13 +112,9 @@ Find Your Style Shop Kids Shop Backpacks30 to 40% Off Juniors' Boots
 
 Select styles
 
-Shop Juniors' Boots Shop Arizona Red Zone Clearance 55 to 80% Off
+Shop Juniors' Boots Shop Arizona Red Zone Clearance 60 to 85% Off Shop Clearance
 
-New Markdowns! In Store and Online
-
-Shop Clearance
-
-When you use 15% Off coupon or code: BACK2SCH
+When you use 25% Off code: 2SCHOOL
 
 Get Details JCPenney Optical
 
