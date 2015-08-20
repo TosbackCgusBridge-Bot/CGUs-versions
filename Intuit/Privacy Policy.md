@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true 10.60.216.10 C13758107909
+true true 10.60.248.10 L13891441975
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p25.jcpenney.com SERVER NAME :->. dtcomexpr1c1j4 TIME :->. Tue Aug 18 06:08:10 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p34.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Wed Aug 19 05:33:56 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,12 +48,34 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   extra 30% or  
-    25% off  
-    select styles  
-    \+ free shipping
-*   50% off  
-    kids’ arizona
+Extra 20% Off\* with your JCPenney Credit Card  
+Extra 15% Off\* with any other method of payment
+
+In Store and Online
+
+Ends August 25. ONLINE CODE: BACK2SCH
+
+Or, Extra 25% Off\* with your JCPenney Credit Card  
+Extra 20% Off\* with any other method of payment
+
+Online Only, Orders Over $100
+
+Ends August 25. ONLINE CODE: BACK2SCH
+
+Or, Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.
+
+In Store and Online
+
+Ends August 25. ONLINE CODE: BACK2SCH
+
+\*Credit offers subject to credit approval. All offers apply to select, orig, reg, sale and clearance-priced items.
+
+\*See exclusions and details. Print Coupon
+
+*   big bonus  
+    sale
+*   arizona  
+    up to 50% off
     
     select styles
     
@@ -68,31 +90,31 @@ Your version of Internet Explorer is out of date. For best experience please upg
     select styles
     
 
-*   Today Only! | August 18 | Online Only! | Code: 2SCHOOL
+*   Big Bonu$ Sale Shop the Big Bonu$ Sale View Store Ad Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Accessories Shop Jewelry Shop Lingerie Shop Home Shop Juniors Shop Guys Shop Dorm$15 Bonus Ca$h!
     
-    Extra 30% Off\* $150 or More, select styles
+    August 19-22 | In Store Only!
     
-    Or, Extra 25% Off\* select styles
+    Earn a $15 Bonus Cash coupon when you spend $50 or more in store. Redeemablet August 23 through September 5, 2015.
     
-    Plus Free Shipping Anywhere over $49\*
+    Some restrictions and exclusions apply. See store associate for details.
     
-    Or, Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.
+    Night and Day Doorbusters
     
-    Get details:
+    Use your coupon and save even more. In store and online.
     
-    \*exclusions apply
+    Friday 3pm CDT through Saturday 1pm CDT
     
-    Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Juniors Shop Lingerie Shop Accessories Shop Home Shop Jewelry Shop Guys
-*   50% Off Kids' Arizona
+    Shop Doorbusters Now
+*   Denim 101: The Perfect Fit in the Perfect Wash
     
-    select styles | available in extended sizes
+    40 to 50% Off Arizona, select styles
     
-    Shop Arizona Shop Boys Shop Girls  
+    Shop Arizona           Shop Boys Shop Girls Shop Juniors Shop Guys
 *   Home Sale
     
     30 to 50% Off Home Collections, select styles
     
-    Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage Shop Comforters and Bedding Sets
+    Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage
 *   Stock Up
     
     24.99 each  
@@ -112,9 +134,9 @@ Find Your Style Shop Kids Shop Backpacks30 to 40% Off Juniors' Boots
 
 Select styles
 
-Shop Juniors' Boots Shop Arizona Red Zone Clearance 60 to 85% Off Shop Clearance
+Shop Juniors' Boots Shop Arizona Red Zone Clearance 55 to 80% Off Shop Clearance
 
-When you use 25% Off code: 2SCHOOL
+In store and online. When you use 15% Off coupon or code: BACK2SCH
 
 Get Details JCPenney Optical
 
@@ -124,11 +146,7 @@ Get Details College Colors Day Shop Now School Uniforms
 
 Play hard. Dress smart.
 
-Shop School Uniforms Love Your Fit -- More sizes. More styles. More you.
-
-Bra fit event, now through August 18.
-
-Find a Bra Fit Event Near You Round Up and Let Your Change Make Real Change
+Shop School Uniforms Star Wars™ Shop Star Wars Round Up and Let Your Change Make Real Change
 
 Support JCPenney Cares in August by rounding up your purchase to help fund programs that keep kids safe, healthy and engaged beyond the classroom.
 
@@ -149,7 +167,7 @@ attention
 
 *   Enter a valid mobile number.
 
-Sign up for email alerts, offers promotions Mobile offers and promotions Message and data rates might apply. Upto 8 messages from month from 527365 to the mobile number you provide. Signup is not required to purchase goods or services. Text **HELP** for help and **STOP** to cancel. Terms and conditions    privacy policy CUSTOMER SERVICE
+Sign up for email alerts, offers promotions Mobile offers and promotions Message and data rates may apply. By providing my mobile number, I agree to receive autodialed promotional text alerts from JCPenney to that number. I understand that consent is not required to purchase goods or services. Up to 8 msgs/month from 527365 (JCPenney). Text **HELP** to 527365 for help and **STOP** to 527365 to cancel. Terms and conditions    privacy policy CUSTOMER SERVICE
 
 *   returns
 *   shipping information
