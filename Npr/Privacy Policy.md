@@ -27,7 +27,7 @@ Skip to Main Content View Navigation NPR NPR NPR Music **NPR** Books **NPR** Abo
 *   Connect
 *   Support
 *   Press
-*   Jobs
+*   Careers
 
 *   Podcast Directory
 *   Categories
@@ -247,13 +247,13 @@ Back
 
 Back
 
-*   Jobs
+*   Careers at NPR
+*   Search Jobs
 *   Culture
 *   Applying
 *   Interns
 *   Fellows
 *   Digital
-*   Search Jobs
 
 Back
 
