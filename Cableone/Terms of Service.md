@@ -30,7 +30,7 @@ City:
 Save My Location Order Now For Your Home For Your Business Customer Support Local Information **You are here:** Home Terms &. Conditions Closed Captioning Copyright Notice Privacy Policy Internet AUP Annual Notice (PDF) Network Management Cable Service Guard Internet Acceptable Use Policy CableOne.Net High Speed Internet Access Service  
 Acceptable Use Policy
 
-Effective June 2015
+Effective August 2015
 
 Important Note: Cable One, Inc., may revise this Acceptable Use Policy from time to time without notice by editing the information on this page. Accordingly, users of the Cable One residential services should consult this page regularly to ensure that their activities conform to the most recent version. In the event of a conflict between any subscriber agreement and this policy, the terms of this policy will govern. Questions regarding this policy can be directed to legal@cableone.net. Complaints of violations of this policy by Cable One users can be directed to abuse@cableone.net. Visit http://www.cableone.net/Pages/networkmanagementdisclosure.aspx to review Cable One’s Network Management Disclosure Statement.
 
@@ -134,6 +134,9 @@ Ultra 70 Max &. 100 Max
 1000GB Data Guideline
 
 Names, speeds, and data guidelines are subject to change
+
+**Data Policy**  
+Customers who exceed their data plan 3 or more times in a rolling 12 month period may be required to upgrade to an Internet speed/plan that contains a larger data plan more suitable for their usage. The plan will be determined on the average of the months which customer usage exceeded their data plan and a customer must remain at the new plan for a minimum of 3 months. Customers will be notified via email and in-browser notifications and may monitor their data plan usage online at myaccount.cableone.net.
 
 **How does Cable One address Excessive Use or uncharacteristic use?**  
 The Cable One residential service offering is a consumer product designed for personal use of the Internet. Therefore, if Cable One in its sole but reasonable discretion determines that a customer has exceeded the Excessive Use threshold or is using the Service in a manner significantly uncharacteristic of a typical residential user, Cable One reserves the right to (a) adjust, suspend or terminate Service accounts at any time and without notice. or (b) require the user to upgrade his service level or pay additional fees in accordance with Cable One’s then-current, applicable rates and charges for such Service. or (c) use any technology to be chosen by Cable One at its sole discretion to slow the user’s service for purposes of conserving bandwidth.
