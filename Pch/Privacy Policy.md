@@ -2,7 +2,7 @@ Privacy Policy
 
 **Publishers Clearing House Privacy Policy**
 
-Last Updated: Dec 22, 2014
+Last Updated: Aug 20, 2015
 
 At Publishers Clearing House we take your privacy seriously, which is why we developed this privacy policy to explain our online information collection and use practices. Unless otherwise noted, the information and descriptions in this online Privacy Policy are limited strictly to online transactions and do not apply to the off line privacy, data collection and data transfer policies of Publishers Clearing House.
 
@@ -142,6 +142,10 @@ California Do Not Track: Because there is currently no industry or legal standar
 
 If you do not want your name passed on to other companies for the purpose of receiving marketing offers, just tell us by contacting us at This e-mail address is being protected from spambots. You need JavaScript enabled to view it. This e-mail address is being protected from spambots. You need JavaScript enabled to view it. or by writing to Christopher L. Irving, , Consumer &. Privacy Affairs, Publishers Clearing House, 382 Channel Drive and we will be pleased to respect your wishes. Please make sure to provide your full name, address, city, state and zip code information if you wish your request to apply to both on-line and off-line marketing information sharing.
 
-**13\. U.S. – EU Safe Harbor Framework Compliance** Publishers Clearing House complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Publishers Clearing House has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Publishers Clearing House’s certification, please visit http://www.export.gov/safeharbor/
+**13\. U.S. – EU Safe Harbor Framework Compliance**
+
+Publishers Clearing House complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Publishers Clearing House has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Publishers Clearing House’s certification, please visit http://www.export.gov/safeharbor/.
+
+Publishers Clearing House participates in the Direct Marketing Association's (DMA) Safe Harbor dispute resolution process. If you feel that PCH is not abiding by its posted privacy policy or is not in compliance with the Safe Harbor principals, you should first contact us at This e-mail address is being protected from spambots. You need JavaScript enabled to view it. . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you may then contact the Direct Marketing Association's (DMA) Safe Harbor Dispute Resolution Program at This e-mail address is being protected from spambots. You need JavaScript enabled to view it. . The Direct Marketing Association (DMA) will act as a liaison to Publishers Clearing House to resolve your concerns.
 
 **14\. Further Questions?** We welcome any questions or comments you may have regarding this privacy policy or the use of personal data. To contact us, please visit the Info Center of the site or write directly to Christopher L. Irving, Consumer &. Privacy Affairs, pch.com, 382 Channel Drive, Port Washington, New York, 11050. © 2015 PCH | About Us | Contact Us | PCH Privacy Policy
