@@ -92,9 +92,6 @@ Up to
 *   Compare
 *   Build Your Own
 
-Best Resale Value in its class  
-according to KBB.com
-
 Legacy 3.6R Limited shown
 
 Forester $22,395 starting price 2016 Forester
