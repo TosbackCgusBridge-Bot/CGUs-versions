@@ -1,6 +1,7 @@
+*   Join
 *   Login
 
-Hi! We're going live with our new site. Due to this, some functionality may be temporarily unavailable. You can find more information on our support pages.
+We’re currently migrating data (including scrobbles) to our new site and to minimise data disruption, we’ve temporarily suspended some functionality. Rest assured, we’re re-activating features one-by-one as soon as each data migration completes. Keep an eye on progress here.
 
 Last.fm Logo Toggle navigation
 
@@ -11,6 +12,7 @@ Last.fm Logo Toggle navigation
 *   Features
 *   Inbox
 *   Login
+*   Join
 
 Search Search Search Privacy Policy
 
