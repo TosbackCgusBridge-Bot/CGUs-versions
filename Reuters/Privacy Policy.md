@@ -159,6 +159,7 @@ Details on Practitioner Insights (PDF)
 *   Large &. Midsize Law Firms
 *   Corporate Counsel
 *   Government
+*   Law Schools
 
 *   Practice Area
 *   Jurisdiction
