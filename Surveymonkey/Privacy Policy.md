@@ -26,7 +26,7 @@ SurveyMonkey®
     *   Get Benchmarks
     *   Mobile App
     *   Partner Integrations &. API
-    *   Survey Programming
+    *   Survey Design Services
     *   Surveys in Salesforce®
     *   Take Surveys
     *   Telephone Surveys
