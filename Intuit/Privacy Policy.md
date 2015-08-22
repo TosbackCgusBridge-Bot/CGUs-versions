@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13891447571
+true true C13768155253
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p34.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Thu Aug 20 03:33:42 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p13.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Fri Aug 21 04:50:58 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -206,6 +206,7 @@ ABOUT US
 *   jcp cares
 *   media
 *   investors
+*   CA transparency in supply chain
 
 JCPenney credit card pay bill check balance apply now Popular Searches
 
