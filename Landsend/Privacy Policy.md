@@ -565,11 +565,12 @@ Learn More Shop Our E-Catalog
 
 Environmentally friendly, easy to shop and always at your fingertips.
 
-Browse Catalog Apostrophe
+Browse Catalog A Closer Look at The Land
 
-The Lands' End quarterly filled with fashion, beauty, travel and more.
+The new Fall Edit by _Vogue_  
+Market stylist\* Cara Crowley.
 
-Learn More Shop Your Way Rewards
+Shop Cara's Picks Shop Your Way Rewards
 
 Make every purchase rewarding. Join today. Earn today. It's free.
 
