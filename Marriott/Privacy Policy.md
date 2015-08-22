@@ -213,9 +213,9 @@ Drawers
     
     Marriott International, Inc. and The Ritz-Carlton Hotel Company, L.L.C. are established in the United States, and the servers upon which our site is hosted and on which hotel bookings are processed are located in the United States. The laws of the United States may differ from those of your country of residence and may not offer the same level of protection for personal information. Marriott International, Inc. and its Affiliates are certified to the U.S.-E.U. and U.S.-Swiss Safe Harbor Frameworks for the transfer of personal data to the United States, and such transfers are subject to our European Union and Switzerland Privacy Statement as well as to our safe harbor European and Switzerland Privacy Statement.
     
-    Marriott’s managed and franchised properties are located around the world. As you would expect, where you book to stay in a hotel outside the country in which you live, personal data will be transferred to Marriott’s property manager or franchisee together with other affiliates and Authorized Licensees located in the country in which you are staying so that your reservation is fulfilled.
+    Marriott's managed and franchised properties are located around the world. As you would expect, where you book to stay in a hotel outside the country in which you live, personal data will be transferred to Marriott's property manager or franchisee together with other affiliates and Authorized Licensees located in the country in which you are staying so that your reservation is fulfilled.
     
-    Countries located outside the EEA and Switzerland do not have laws in place which provide the same level of protection for personally identifiable information as provided for in the EEA and Switzerland although such data is covered by Marriott’s own policies and procedures which are designed to ensure an adequate level of protection.
+    Countries located outside the EEA and Switzerland do not have laws in place which provide the same level of protection for personally identifiable information as provided for in the EEA and Switzerland although such data is covered by Marriott's own policies and procedures which are designed to ensure an adequate level of protection.
     
 *   Dubai Financial Centre
     
@@ -223,7 +223,7 @@ Drawers
     
 *   Request for Access to Personal Information/Questions or complaints
     
-    If after reviewing this Statement, you have any questions or privacy concerns please or would like to submit a request, send an email to the Marriott Information Protection &. Privacy department at privacy@marriott.com or privacy@ritzcarlton.com or send a letter to:
+    If after reviewing this Statement, you have any questions or privacy concerns or would like to submit a request, please send an email to the Marriott Information Protection &. Privacy department at privacy@marriott.com or privacy@ritzcarlton.com or send a letter to:
     
     Marriott International, Inc.  
     Attn: Information Protection and Privacy Dept. 52/995.63  
