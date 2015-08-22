@@ -1,4 +1,4 @@
-   Ask Anna!
+   FAQ
 
 *   Log In or Sign Up
 *   My shopping cart
@@ -33,4 +33,4 @@ Conshohocken, PA 19428
   
 We will respond to your inquiry or investigate your concern as quickly as possible.  
   
-DATED: June 22, 2009 IKEA Catalog &. Brochures Request View Online Buying Guides Need Help FAQAsk AnnaContact UsReturn PolicyChildren's Product Registration Delivery Information Store DeliveryOnline DeliveryPicking with DeliveryDelivery Terms &. Conditions Helpful Links Find an IKEA StorePlanning ToolsIKEA Food &. RestaurantWarrantiesIKEA ServicesIKEA Gift Card This is IKEA The IKEA ConceptDemocratic DesignAbout the IKEA GroupPeople &. PlanetPress RoomRead our MaterialsIKEA Foundation Working at the IKEA Group Search careers © Inter IKEA Systems B.V. 1999 - 2015 | Privacy Policy
+DATED: June 22, 2009 IKEA Catalog &. Brochures Request View Online Buying Guides Need Help FAQContact UsReturn PolicyChildren's Product Registration Delivery Information Store DeliveryOnline DeliveryPicking with DeliveryDelivery Terms &. Conditions Helpful Links Find an IKEA StorePlanning ToolsIKEA Food &. RestaurantWarrantiesIKEA ServicesIKEA Gift Card This is IKEA The IKEA ConceptDemocratic DesignAbout the IKEA GroupPeople &. PlanetPress RoomRead our MaterialsIKEA Foundation Working at the IKEA Group Search careers © Inter IKEA Systems B.V. 1999 - 2015 | Privacy Policy
