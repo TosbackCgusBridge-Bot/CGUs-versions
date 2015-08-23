@@ -56,8 +56,6 @@ Privacy Policy
 
 Your privacy is important to us, so Oodle has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy applies to our web sites, and web sites which we operate on behalf of our partners (the "Sites"). This Privacy Policy may be updated from time to time. You can always review the most current version here. By using the Sites, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the Sites and this Privacy Policy, the Terms of Use control.
 
-Information about Safe Harbor can be found here.
-
 Protecting Your Privacy In various places on the Sites, we collect "Personally Identifiable Information," such as your name, postal address, telephone number, e-mail address, or other information that can be used to identify you or contact you.
 
 *   Oodle will not share any of your Personally Identifiable Information, except for the information you choose to publicly disclose in the listings you publish, with our advertisers or any third-parties for marketing purposes.
@@ -153,7 +151,6 @@ Last update August 15, 2015
 *   » Oodle Feeds
 *   » Oodle Feed FAQs
 *   » Privacy Policy
-*         › Safe Harbor
 *   » Terms of Use
 *   » Content Policies
 *   » Copyright Infringement
