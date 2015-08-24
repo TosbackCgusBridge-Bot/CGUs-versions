@@ -12,7 +12,7 @@
 *   customer service
     
 
-*   Hello  John
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true 10.60.216.10 C13773651678
+true true 10.60.216.10 C13777190307
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p29.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Sat Aug 22 05:16:07 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p20.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Sun Aug 23 07:36:18 EDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,105 +48,102 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Extra 20% Off\* with your JCPenney Credit Card  
-Extra 15% Off\* with any other method of payment
-
-In Store and Online
-
-Ends August 25. ONLINE CODE: BACK2SCH
-
-Or, Extra 25% Off\* with your JCPenney Credit Card  
-Extra 20% Off\* with any other method of payment
-
-Online Only, Orders Over $100
-
-Ends August 25. ONLINE CODE: BACK2SCH
-
-Or, Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.
-
-In Store and Online
-
-Ends August 25. ONLINE CODE: BACK2SCH
-
-\*Credit offers subject to credit approval. All offers apply to select, orig, reg, sale and clearance-priced items.
-
-\*See exclusions and details. Print Coupon
-
-*   big bonus  
-    sale
-*   arizona  
-    up to 50% off
-    
-    select styles
-    
-*   home sale  
+*   2 days only!  
     30-50% off
     
+    select home
+    
+*   2 days only!  
+    extra 20% off
+    
     select styles
     
-*   save on  
-    hanes
+*   big back to  
+    school sale  
+    40-50% off
+    
+    select arizona
+    
+*   st. john's bay  
+    30-60% off
     
     select styles
     
 
-*   Big Bonu$ Sale Shop the Big Bonu$ Sale View Store Ad Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Accessories Shop Jewelry Shop Lingerie Shop Home Shop Juniors Shop Guys Shop Dorm$15 Bonus Ca$h!
+*   2 Days Only!
     
-    August 19-22 | In Store Only!
+    Online Only | Ends August 25 | Code: 4HOMNMOR
     
-    Earn a $15 Bonus Cash coupon when you spend $50 or more in store. Redeemablet August 23 through September 5, 2015.
+    \*Exclusions and details:
     
-    Some restrictions and exclusions apply. See store associate for details.
+    50% Off\* select orig and reg-priced items
     
-    Night and Day Doorbusters
+    Shop Bedding and Bath Shop Luggage Shop Window
     
-    Use your coupon and save even more. In store and online.
+    40% Off\* select orig and reg-priced items
     
-    Friday 3pm CDT through Saturday 1pm CDT
+    Shop Home Decor
     
-    Shop Doorbusters Now
-*   Denim 101: The Perfect Fit in the Perfect Wash
+    30% Off\* select orig and reg-priced items
     
-    40 to 50% Off Arizona, select styles
+    Shop Kitchen and Dining Shop Storage and Organization Shop Vacuums and Floorcare
+*   2 Days Only!
     
-    Shop Arizona           Shop Boys Shop Girls Shop Juniors Shop Guys
-*   Home Sale
+    Online Only | Ends August 25 | Code: 4HOMNMOR
     
-    30 to 50% Off Home Collections, select styles
+    \*Exclusions and details:  
     
-    Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage
-*   Stock Up
+    20% Off\* select orig, reg, sale and clearance-priced items
     
-    24.99 each  
-    New! Hanes Ultimate Bras, select styles | orig. $34
+    Shop Men Shop Women Shop Juniors Shop Guys Shop Kids Shop Baby Shop Shoes Shop Accessories Shop Fine and Fashion Jewelry Shop Online Clearance
+*   Big Back to School Sale Shop the Big Back to School Sale View Store Ad Shop Juniors Shop Guys Shop Boys Shop Girls40 to 50% Off Arizona
     
-    Shop Hanes Ultimate Bras
+    select styles | extended sizes available
     
-    20% Off Men's Hanes Socks and Underwear, select styles
+    Shop ArizonaSave on Shoes and Backpacks
     
-    Shop Hanes Socks and Underwear
+    Select styles
+    
+    Shop Backpacks Shop Shoes    
+*   St. John's Bay
+    
+    50 to 60% Off Men's St. John's Bay Sportswear, select styles
+    
+    Shop Men's Sportswear  
+    
+    40% Off Women's St. John's Bay Apparel, select styles
+    
+    Shop Women's Apparel  
+    
+    30 to 40% Off St. John's Bay Shoes, select styles
+    
+    Shop Men's Shoes   Shop Women's Shoes  
 
 Back to School
 
-Mix-and-Match styles to show how you bend the trend.
+Mix-and-Match to show how you bend the trend.
 
-Find Your Style Shop Kids Shop Backpacks30 to 40% Off Juniors' Boots
+Find Your Style Sephora Has Arrived
 
-Select styles
+Shop the best beauty--without ever leaving JCPenney.com!
 
-Shop Juniors' Boots Shop Arizona Red Zone Clearance 55 to 80% Off Shop Clearance
+Shop Sephora SportsFanShop
 
-In store and online. When you use 15% Off coupon or code: BACK2SCH
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Get Details JCPenney Optical
-
-Kids' Eyeglasses for $29.99.
-
-Get Details College Colors Day Shop Now School Uniforms
+Shop SportsFanShop Download and Get Shopping Check Out the App: Download on the App Store Get It On Google play School Uniforms
 
 Play hard. Dress smart.
 
-Shop School Uniforms Star Wars™ Shop Star Wars Round Up and Let Your Change Make Real Change
+Shop School Uniforms JCPenney Optical
+
+Kids' Eyeglasses for $29.99
+
+Get Details Red Zone Clearance 50 to 80% Off
+
+In Store and Online | New Markdowns!
+
+Shop Clearance Round Up and Let Your Change Make Real Change
 
 Support JCPenney Cares in August by rounding up your purchase to help fund programs that keep kids safe, healthy and engaged beyond the classroom.
 
@@ -206,7 +203,6 @@ ABOUT US
 *   jcp cares
 *   media
 *   investors
-*   CA transparency in supply chain
 
 JCPenney credit card pay bill check balance apply now Popular Searches
 
