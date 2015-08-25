@@ -7,7 +7,7 @@
 **NexTag, Inc. - Website Privacy Statement/Your California Privacy Rights** Effective October 30, 2014  
 
 1.  **SCOPE AND CHANGES**  
-    NexTag, Inc. and/or our subsidiaries ("Nextag, " "us" or "we") operate the websites www.nextag.com, www.calibex.com and www.pricemachine.com (we refer to these websites as the "Websites"). This Website Privacy Statement is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties. This Website Privacy Statement applies only to the Websites. It does not apply to your use of any other websites (whether or not operated by us), including any websites to which we provide links or websites of our partners or advertisers, or to any activities which are not online.
+    Nextag, Inc. and/or our subsidiaries ("Nextag," "us" or "we") operate the websites www.nextag.com, www.calibex.com and www.pricemachine.com (we refer to these websites as the "Websites"). This Website Privacy Statement is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties. This Website Privacy Statement applies only to the Websites. It does not apply to your use of any other websites (whether or not operated by us), including any websites to which we provide links or websites of our partners or advertisers, or to any activities which are not online.
 
 Some services referenced in this Privacy Statement are not available on some Websites. Portions of this Website Privacy Statement that pertain to such features or services may not be applicable on each of the Websites.
 
@@ -38,7 +38,7 @@ Our Websites are not intended for use by people under eighteen (18) years of age
     
 *   Blog: Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at legalnotices@nextag.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
     
-*   Survey / Contest: We may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and email address). We use this information to improve our site, notify you if you won a contest or to send you an email newsletter or other marketing materials. We use SurveyMonkey a third party service provider to conduct these surveys. that company is prohibited from using our users? personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a survey with other third parties unless we give you prior notice and choice.
+*   Survey / Contest: We may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and email address). We use this information to improve our site, notify you if you won a contest or to send you an email newsletter or other marketing materials. We use SurveyMonkey a third party service provider to conduct these surveys. that company is prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a survey with other third parties unless we give you prior notice and choice.
     
 *   Links to Third Parties: Our Site includes links to other Websites whose privacy practices may differ from those of Nextag. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Website you visit.
     
@@ -160,9 +160,9 @@ Nextag wants your Internet surfing experience to be safe. Help protect yourself.
 If you have any questions about this Website Privacy Statement, the practices of the Websites, or your use of the Websites, please contact us at:
 
 Privacy Officer  
-NexTag, Inc.  
-800 Bridge Pkwy, Floor 2  
-Redwood City, California 94065  
+Nextag Inc.  
+800 Bridge Parkway, Suite 200  
+Redwood City, CA 94065  
 legalnotices@nextag.com
 
 Return to Top  
