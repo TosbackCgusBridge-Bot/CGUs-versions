@@ -70,7 +70,7 @@ Your privacy rights are set forth in our Privacy Policy, which forms a part of t
 
 **RENEWALS:** Subject to the terms hereof, you may choose to renew your subscription at the end of the subscription period. By default, all subscriptions are set to automatically renew for the same period of time as the original subscription. You may decline to renew at any time prior to the commencement of a renewal subscription. Vimeo reserves the right to deny subscriptions, renewals, and other purchases for any reason. PRO subscriptions offered beginning on October 15, 2013 may not be available to existing users whose storage as of that date exceeds the yearly maximum for a PRO account. Unused storage, plays, and other limits do not roll over to subsequent subscription periods.
 
-**END OF SUBSCRIPTION:** When a Vimeo Plus or PRO subscription ends, the account automatically becomes a Basic (free) account and Vimeo may disable access to or delete any content to comply with Basic account limits. When a custom subscription ends, the account and its content will be deleted if the subscription is not renewed.
+**END OF SUBSCRIPTION:** When a Vimeo Plus or PRO subscription ends, the account automatically becomes a Basic (free) account and Vimeo may disable access to or delete any content to comply with Basic account limits. When a custom or PRO Unlimited subscription ends, the account and its content will be deleted if the subscription is not renewed.
 
 **OTHER PURCHASES:** Purchases of other products and services through the Vimeo Service are subject to our **Payment Addendum** and to other terms and conditions that are presented to you at the time of purchase.
 
