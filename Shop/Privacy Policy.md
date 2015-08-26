@@ -84,7 +84,7 @@ LENOVO Menu
 *   Search
     
 
-View Your Results Offers
+Offers
 
 *   View cart
 
