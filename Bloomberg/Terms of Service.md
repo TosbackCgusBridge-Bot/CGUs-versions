@@ -94,10 +94,6 @@ If any provision of the TOS is found invalid or unenforceable, that provision wi
 
 The TOS and any other terms and conditions of service on this site, and its successor, constitute the entire agreement between you and BLP and govern your use of the Service.
 
-17\. Bloomberg University.
-
-Bloomberg University is not an accredited program or institution, and is provided by BLP on behalf of Bloomberg Finance L.P. for informational purposes only. You understand, acknowledge, and agree that Bloomberg University in no way shall be considered as conforming with any educational standards or qualifications prescribed by any private or governmental entity.
-
 B. LINKING AND FRAMING TERMS AND CONDITIONS back to top
 
 **YOU MAY NOT LINK TO OR FRAME THIS WEB SITE, OR ANY PORTION THEREOF, EXCEPT AS PROVIDED HEREIN.**
