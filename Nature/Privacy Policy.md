@@ -5,7 +5,6 @@ Subscribe
 *   Magazine
 *   Newsroom
 *   Blogs
-*   My Nature
 
 Search:Search Donate Now
 
@@ -386,7 +385,7 @@ WeChat
     *   Monthly Giving
     *   Become a Member
     *   Renew Membership
-    *   MyNature Page
+    *   Log In
     *   Gift &. Estate Planning
     *   Tribute &. Honor Giving
     *   Gift Memberships
