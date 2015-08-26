@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13904648514
+true true C13780298841
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Mon Aug 24 05:05:03 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p34.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Tue Aug 25 06:13:28 EDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,21 +48,46 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   2 days only!  
-    30-50% off
-    
-    select home
-    
-*   2 days only!  
-    extra 20% off
+$10 Off\* $25 or More
+
+In Store and Online
+
+Ends September 1 | Code: LAT4CLAS
+
+Or, Extra 20% Off\* with your JCPenney Credit Card
+
+In Store and Online
+
+Ends September 1 | Code: TRDYBEL
+
+Or, Extra 15% Off\* with any other method of payment
+
+Online Only
+
+Ends September 1 | Code: TRDYBEL
+
+Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
+
+In Store and Online
+
+Ends September 1 | Code: TRDYBEL
+
+\*Credit offers subject to credit approval. All offers apply to select, orig, reg, sale and clearance-priced items.
+
+\*See exclusions and details. Print Coupon
+
+*   starts now!  
+    back to  
+    school  
+    hot sale
+*   save on levi’s®
     
     select styles
     
-*   big back to  
-    school sale  
-    40-50% off
+*   home sale  
+    30-50% off
     
-    select arizona
+    select styles
     
 *   st. john's bay  
     30-60% off
@@ -70,41 +95,33 @@ Your version of Internet Explorer is out of date. For best experience please upg
     select styles
     
 
-*   2 Days Only!
+*   Back to School HOT Sale Shop the Back to School HOT Sale View Store Ad Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Jewelry and Watches Shop Juniors Shop Guys Shop Accessories Shop HomeNight and Day Doorbusters
     
-    Online Only | Ends August 25 | Code: 4HOMNMOR
+    Use your coupon and save even more! Friday 3pm CDT through Saturday 1pm CDT
     
-    \*Exclusions and details:
+    Shop Doorbusters
+*   Levi's(R)
     
-    50% Off\* select orig and reg-priced items
+    Find Your Fit | Excluded from Coupon
     
-    Shop Bedding and Bath Shop Luggage Shop Window
+    Shop Levi's Shop for Her Shop for Him Shop for Kids
     
-    40% Off\* select orig and reg-priced items
+    36.99 Levi's 535(TM) super skinny jeans, reg 49.50
     
-    Shop Home Decor
+    Shop 535(TM) Super Skinny Jeans
     
-    30% Off\* select orig and reg-priced items
+    24.99 Boys' Levi's 510(TM) skinny or 511(TM) slim jeans, orig $44-48
     
-    Shop Kitchen and Dining Shop Storage and Organization Shop Vacuums and Floorcare
-*   2 Days Only!
+    Shop Boys 510(TM) Skinny or 511(TM) Slim Jeans
     
-    Online Only | Ends August 25 | Code: 4HOMNMOR
+    46.99 Guys' Levi's 511(TM) slim fit jeans, reg $68
     
-    \*Exclusions and details:  
+    Shop Guys 511(TM) Slim Fit Jeans
+*   Home Sale
     
-    20% Off\* select orig, reg, sale and clearance-priced items
+    30 to 50% Off Home Collections, select styles
     
-    Shop Men Shop Women Shop Juniors Shop Guys Shop Kids Shop Baby Shop Shoes Shop Accessories Shop Fine and Fashion Jewelry Shop Online Clearance
-*   Big Back to School Sale Shop the Big Back to School Sale View Store Ad Shop Juniors Shop Guys Shop Boys Shop Girls40 to 50% Off Arizona
-    
-    select styles | extended sizes available
-    
-    Shop ArizonaSave on Shoes and Backpacks
-    
-    Select styles
-    
-    Shop Backpacks Shop Shoes    
+    Shop Home Sale Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Home Decor Shop Luggage Shop Furniture and Mattresses Shop Comforters
 *   St. John's Bay
     
     50 to 60% Off Men's St. John's Bay Sportswear, select styles
@@ -154,17 +171,10 @@ Recommendations Discover handpicked items we think you'll love. sign in
 get connected
 
 *   1.800.322.1189
+*   email offers
+*   mobile offers
 
-attention
-
-*   Enter a valid email address
-*   Enter a valid email address
-
-attention
-
-*   Enter a valid mobile number.
-
-Sign up for email alerts, offers promotions Mobile offers and promotions Message and data rates may apply. By providing my mobile number, I agree to receive autodialed promotional text alerts from JCPenney to that number. I understand that consent is not required to purchase goods or services. Up to 8 msgs/month from 527365 (JCPenney). Text **HELP** to 527365 for help and **STOP** to 527365 to cancel. Terms and conditions    privacy policy CUSTOMER SERVICE
+CUSTOMER SERVICE
 
 *   returns
 *   shipping information
@@ -203,7 +213,6 @@ ABOUT US
 *   jcp cares
 *   media
 *   investors
-*   CA transparency in supply chain
 
 JCPenney credit card pay bill check balance apply now Popular Searches
 
