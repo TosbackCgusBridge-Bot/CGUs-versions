@@ -96,6 +96,14 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
+Wed, Sep 16, 2015 IoT Wearables - Deep Dive Into Device Security Practices
+
+Join the webinar to learn more of HP's recent research regarding security practices of leading IoT devices. Guest speaker Daniel Miessler, HP Security Researcher and internet security expert with over 20 years of hands-on experience, Daniel will share his latest research findings and recommendations and insights into how the IoT Trust framework can help address these threats.
+
+Tue, Sep 22, 2015 IoT Security 2015 - Boston Mass
+
+Join OTA Chairman Jeff Wilbur at this key event sharing updates on the OTA IoT Trust Framework.  The only event dedicated to the most crucial security and privacy issues and concerns surrounding IoT.  Event will showcase the latest technology trends and innovations from cutting edge vendors, startups and solution providers making up the future IoT ecosystem.
+
 Mon, Oct 19, 2015 Sailthru Lift 2015 - The Art &. Science of Modern Marketing
 
 Marketing is in the midst of an industrial revolution: consumers are changing, commerce and monetization are shifting, data is growing, and competition is smarter, faster than ever before.  Leading marketers are focused on transforming the customer lifetime experience. They’re looking for solutions to bring themselves closer to consumers than ever before while face-to-face interactions are fewer and far between.
@@ -103,10 +111,6 @@ Marketing is in the midst of an industrial revolution: consumers are changing, c
 Mon, Nov 16, 2015 DC Salon Dinner &. Reception - Cross Device Tracking &. IoT
 
 Join FTC Commissioner Julie Brill, Congresswoman Suzan DelBene and members of Congress discuss the evolving world of privacy and the challenges and opportunities of the cross device tracking and  "Internet of Things".  This off-the-record dinner is a unique opportunity for invited guests to discuss the world of big data, role of innovation and the impact on consumer trust and confidence. Attend to get an insider’s view on trends, trheats and opportunities.
-
-Tue, Nov 17, 2015 OTA Member &. IoT Working Group Meeting
-
-Save the date.  Panels to include speakers from the public &. private sectors, with updates on key issues including facial recognition, online tracking, breach legislation, and the IoT trust framework..  Hosted at the Holland &. Knight Conference Center.   Contact OTA for more information at 425-455-7400.  Limited to OTA members and invited guests who abide to "Chatham House Rule"
 
 *   OTA Blog
 *   Newsletters
