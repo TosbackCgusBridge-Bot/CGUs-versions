@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13780298841
+true true C13787270189
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p34.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Tue Aug 25 06:13:28 EDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p17.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Wed Aug 26 07:17:38 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -171,14 +171,20 @@ Recommendations Discover handpicked items we think you'll love. sign in
 get connected
 
 *   1.800.322.1189
-*   email offers
-*   mobile offers
 
-CUSTOMER SERVICE
+attention
+
+*   Enter a valid email address
+*   Enter a valid email address
+
+attention
+
+*   Enter a valid mobile number.
+
+Sign up for email alerts, offers promotions Mobile offers and promotions Message and data rates may apply. By providing my mobile number, I agree to receive autodialed promotional text alerts from JCPenney to that number. I understand that consent is not required to purchase goods or services. Up to 8 msgs/month from 527365 (JCPenney). Text **HELP** to 527365 for help and **STOP** to 527365 to cancel. Terms and conditions    privacy policy CUSTOMER SERVICE
 
 *   returns
 *   shipping information
-*   CA transparency in supply chains act
 *   my jcp.com account
 *   track my order
 *   CA transparency in supply chain
@@ -193,7 +199,7 @@ STORE SERVICES
 *   jcp portraits
 *   jcp optical
 *   gift registry
-*   jcp custom decorating
+*   jcp custom windows
 *   view all
 
 MORE WAYS TO SHOP
@@ -213,6 +219,7 @@ ABOUT US
 *   jcp cares
 *   media
 *   investors
+*   CA transparency in supply chain
 
 JCPenney credit card pay bill check balance apply now Popular Searches
 
