@@ -94,22 +94,9 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Franchise Four
 *   Tickets Tickets Tickets
     *   General Ticket Information
-    *   All-Star Summer Ticket Information
-    *   Celebrate Sunday Ticket Offer
-    *   Fan Value Corner
-    *   Spring Training Tickets
     *   Autism Awareness
-    *   Bobblehead Games
-    *   Spring Training Travel
-    *   StubHub.com
-    *   All-Star Game Ticket Information
-    *   Labor Day Weekend Tickets
-    *   Postseason Ticket Information
-    *   Postseason Ticket Reservations
-    *   Postseason Ticket Refund Policies
-    *   Take Dad to the BallparkAutism Awareness
+    *   StubHub.comAutism Awareness
 *   Apps Apps Apps
-    *   Mobile
     *   At Bat app
     *   At Bat on Tablets
     *   At Bat on Apple iPad®
@@ -162,9 +149,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Contact UsDevices
 *   Fantasy Fantasy Fantasy
     *   Beat the Streak
-    *   Free Agent Frenzy
-    *   MLB.com Beat Reporters' BTS Picks
-    *   Head to Head Challenge
     *   Yahoo Fantasy Baseball
     *   R.B.I. Baseball 15
     *   MLB.com Home Run Derby
@@ -174,16 +158,10 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Player News &. Updates
     *   Closer Report
     *   Injury Report
-    *   Player Preview
     *   WGT Baseball: MLB
     *   Prospect Watch
     *   Fantasy 411 Blog
-    *   Follow @Fantasy411
-    *   Beat the Streak in a Day
-    *   MLB.com Fantasy Baseball 2013
-    *   CBSSports.com Commissioner
-    *   Player Preview
-    *   Postseason Bracket ChallengeMLB.com Home Run Derby DraftKings R.B.I. Baseball 15
+    *   Follow @Fantasy411MLB.com Home Run Derby DraftKings R.B.I. Baseball 15
 *   Auction
 *   Teams Teams American League AL East
     
