@@ -82,10 +82,10 @@ Menu Explore HSBC.com Search
         *   Scrip dividend
     *   Events and presentations
         
-    *   Financial and regulatory reports expandFinancial and regulatory reports
-        *   Regulatory capital securities
     *   Stock exchange announcements
         
+    *   Financial and regulatory reports expandFinancial and regulatory reports
+        *   Regulatory capital securities
     *   Fixed income securities expandFixed income securities
         *   Covered bond reports
         *   Credit ratings
@@ -311,8 +311,8 @@ Investor relations
 *   Share information
 *   Dividends
 *   Events and presentations
-*   Financial and regulatory reports
 *   Stock exchange announcements
+*   Financial and regulatory reports
 *   Fixed income securities
 *   Governance
 *   Investor resources
