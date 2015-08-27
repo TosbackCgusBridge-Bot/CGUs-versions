@@ -164,6 +164,7 @@ This Privacy Policy is effective as of Tuesday 15 January 2013.
 *   Contact
 *   Developer API
 *   Community Support
+*   Help
 *   Community Guidelines
 *   Free Music Downloads
 
