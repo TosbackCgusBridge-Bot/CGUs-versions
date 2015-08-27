@@ -168,7 +168,7 @@ If you are a minor under 18 and have a profile on macys.com, you may ask us to r
   
 International Customer Privacy  
   
-To fill international orders, macys.com partners with Borderfree, Inc. (âBorderfreeâ). Borderfree will carefully process your personal information with at least the same level of privacy protection set forth in the U.S.-EU Safe Harbor Framework and the U.S. U.S. Swiss Safe Harbor established by the U.S. Department of Commerce. Borderfree also agrees not to sell, transfer, or otherwise use your information other than for processing international shipments.  
+To fill international orders, macys.com partners with Borderfree, Inc. (âBorderfreeâ). Borderfree will carefully process your personal information with at least the same level of privacy protection set forth in the U.S.-EU Safe Harbor Framework and the U.S. Swiss Safe Harbor established by the U.S. Department of Commerce. Borderfree also agrees not to sell, transfer, or otherwise use your information other than for processing international shipments.  
   
 When you indicate you are shipping internationally, you will be redirected to a checkout page hosted by Borderfree. On the checkout page you will be required to submit personal information to Borderfree to complete your order. Once you place your order, you will be prompted to confirm whether you would like to receive future marketing communications from macys.com.  
   
