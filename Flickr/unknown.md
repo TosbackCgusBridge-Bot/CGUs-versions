@@ -1,3 +1,4 @@
+*   Sign Up
 *   Explore
     *   Recent Photos
     *   The Commons
@@ -13,7 +14,6 @@
 *   Upload
 
 *   Sign In
-*   Sign Up
 
 Explore Recent Photos The Commons 20under20 Galleries The Weekly Flickr Flickr Blog Grass could be greener on this side
 
