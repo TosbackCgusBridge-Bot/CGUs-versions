@@ -26,7 +26,7 @@
 
 CALL US ANY TIME:1.800.777.0000 We're available 24 hours, 7 days a week. What's New My bWallet In-Store Pickup Wish List Help Topics Credit Card Returns Order Status Loyallist   Shipping &. Delivery Stores My Account &. Profile Furniture &. Mattresses Products &. Pricing Wedding &. Gift Registry Gifts &. Gift Cards Security &. Privacy   International Contact Us Bloomingdale's and bloomingdales.com Notice of Privacy Practices
 
-The Notice of Privacy Practices was updated on June 25, 2015.
+The Notice of Privacy Practices was updated on August 20, 2015.
 
 This Notice of Privacy Practices applies to information collected in Bloomingdale's stores (including Bloomingdale's outlet stores) and online at bloomingdales.com, and via mobile applications (e.g., Bloomingdale's Brown Bag, bloomingdales.com assessed through your mobile device). To view your separate Department Stores National Bank Privacy (DSNB) Policy for your Bloomingdale's credit card, please click here.
 
@@ -171,32 +171,23 @@ If you are a minor under 18 and have a profile on bloomingdales.com, you may ask
 
 **International Customer Privacy**
 
-To fill international orders, bloomingdales.com partners with Borderfree, Inc. ("Borderfree"). Borderfree will carefully process your personal information, with at least the same level of privacy protection set forth in the U.S. - EU Safe Harbor Privacy Principles and the U.S. - Swiss Safe Harbor Privacy Principles and as established by the U.S. Department of Commerce. Borderfree also agrees not to sell, transfer, or otherwise use your information other than for processing international shipments.
-
-When you indicate you are shipping internationally, you will be redirected to a checkout page hosted by Borderfree. On the checkout page you will be required to submit personal information to Borderfree to complete your order. Once you place your order, you will be prompted to confirm whether you would like to receive future marketing communication from bloomingdales.com.
-
-Borderfree will notify bloomingdales.com of the approval of your order, and bloomingdales.com will then ship approved orders to Borderfree. Simultaneously, Borderfree will purchase the product from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the product to be delivered to you. In this process, Borderfree makes the sale to you as the merchant of record. When ordering a product, you will be presented with Borderfree's terms and conditions. You must agree to them to receive the product(s) you ordered.
-
-Once you have agreed that Borderfree may share your personal information with bloomingdales.com, that data is protected by this notice of privacy practices and you consent to the transfer and storage of that information on our servers located in the United States.
-
-We adhere to both the EU and Swiss Safe Harbor Privacy Principles. We have certified to the U.S. Department of Commerce, Switzerland, and the European Union that our processing of personal data is in compliance with these principles and we perform periodic self-assessments to verify ongoing compliance.
-
-Bloomingdales.com is committed to resolving any customer concerns regarding their privacy. If a customer feels that their privacy may have been violated, based on the Safe Harbor Principles, bloomingdales.com will attempt to directly resolve the complaint. Any complaints that are still unresolved after these direct efforts, will be settled by arbitration administered by JAMS in accordance with its applicable commercial rules.  
+To fill international orders, bloomingdales.com partners with Borderfree, Inc. (“Borderfree”). Borderfree will carefully process your personal information with at least the same level of privacy protection set forth in the U.S.-EU Safe Harbor Framework and the U.S. Swiss Safe Harbor established by the U.S. Department of Commerce. Borderfree also agrees not to sell, transfer, or otherwise use your information other than for processing international shipments.  
   
-JAMS  
-1920 Main Street  
-Suite 300  
-Irvine, CA 92614  
-Phone: 949-224-1810  
-Email box: tlunceford@jamsadr.com
+When you indicate you are shipping internationally, you will be redirected to a checkout page hosted by Borderfree. On the checkout page you will be required to submit personal information to Borderfree to complete your order. Once you place your order, you will be prompted to confirm whether you would like to receive future marketing communications from bloomingdales.com.  
+  
+Borderfree will notify bloomingdales.com of the approval of your order, and bloomingdales.com will then ship approved orders to Borderfree. Simultaneously, Borderfree will purchase the product from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the product to be delivered to you. In this process, Borderfree makes the sale to you as the merchant of record. When ordering a product, you will be presented with Borderfree’s terms and conditions. You must agree to them to receive the product(s) you ordered.  
+  
+Once you agree that Borderfree may share your personal information with bloomingdales.com, that data is protected by this notice of privacy practices and you consent to the transfer and storage of that information on our servers located in the United States.  
+  
+If a customer feels that the privacy protections afforded by the Safe Harbor Privacy Framework may have been violated, please contact Borderfree through its privacy policy. Borderfree will attempt to directly resolve the complaint. Any complaints that are still unresolved after these direct efforts with Borderfree, will be settled by arbitration administered by TRUSTe in accordance with its applicable commercial rules. All customers shipping internationally who wish to:  
 
-Customers shipping internationally who wish to contact bloomingdales.com to
+*   Inquire about or update their personal information
+*   Make a complaint about the collection or use of their personal information
+*   Comment on or ask questions regarding this International Customer Privacy section 
 
-*   inquire about or update their personal information.
-*   make a complaint about the collection or use of their personal information. or
-*   comment on or ask questions regarding this privacy policy
+should contact Borderfree directly or e-mail us at  internationalprivacy@bloomingdales.com and we will assist you in contacting Borderfree.
 
-Please email us at internationalprivacy@bloomingdales.com.
+For More information about Bloomingdale's Privacy and Security please refer to our Security &. Privacy section of our Customer Service pages.  
 
 Does this answer your question? Tells us how you think we can make this answer more helpful to you. We do not respond to comments sent through this form. \*Email:Required \*Your Feedback:Required \* required fields  
 
