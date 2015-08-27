@@ -1,4 +1,4 @@
-Skip to main content Military Students | International Students | Education Resources      
+Skip to main content Free Career Assessment | Military Students | Education Resources      
 
 *   Online Degrees
     *   Business
