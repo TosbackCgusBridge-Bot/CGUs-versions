@@ -28,7 +28,7 @@ We may retain content submitted by you to Digg indefinitely, even after you term
 
 _Digg Reader Information:_
 
-If you are a Digg Reader user, we will maintain information about the sources and subscriptions, including RSS and other content feeds, that you choose to follow. We will collect and store (i) all articles and posts that are part of your subscribed feeds, (ii) data associated with those items, such as the time and date they were published, (iii) whether and when you viewed, saved, or marked them as read, (iv) information related to your organizational choices, such as the folders or tags you assign to sources, and (v) information necessary to complete actions you may choose to take with particular items, such as digging, saving, liking, recommending, or sharing to Third Party Services. If
+If you are a Digg Reader user, we will maintain information about the sources and subscriptions, including RSS and other content feeds, that you choose to follow. We will collect and store (i) all articles and posts that are part of your subscribed feeds, (ii) data associated with those items, such as the time and date they were published, (iii) whether and when you viewed, saved, or marked them as read, (iv) information related to your organizational choices, such as the folders or tags you assign to sources, and (v) information necessary to complete actions you may choose to take with particular items, such as digging, saving, liking, recommending, or sharing to Third Party Services.
 
 _Metrics and Analytics:_
 
