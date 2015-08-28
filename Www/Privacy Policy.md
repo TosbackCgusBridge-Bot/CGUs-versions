@@ -16,7 +16,30 @@ The White House is committed to protecting individual privacy and securing the p
 
 **En español**
 
-Information Received and Retained by White House Online Platforms Using the WhiteHouse.gov Mobile Application
+Information Received and Retained by White House Online Platforms Information You Give Us
+
+You do not have to provide the White House with any personal information or create a user account to access information on WhiteHouse.gov. However, for some services, we may need some personal information from you such as your name, address, telephone number, and email address. For example:
+
+*   The “Contact the White House” form asks for basic contact information so we can respond to your request;
+*   When we ask users to share their story or how a policy decision will impact them, we generally ask for their name, zip code, and email address;
+*   Creating a user account for our online petitions platform “We the People” requires a valid email address and a first and last name. and
+*   We may ask for personal information from people applying to, registering for, or participating in a White House event or competition.
+
+Visits to WhiteHouse.gov
+
+When you visit WhiteHouse.gov, the following basic information is automatically received and stored by the web servers hosting WhiteHouse.gov:
+
+*   The originating Internet Protocol (IP) address;
+
+*   The internet domain name;
+*   Information about your computer or mobile set-up (e.g., type and version of web browser, operating system, screen resolution, and connection speed);
+*   The pages on WhiteHouse.gov that you visit;
+*   The internet address, or URL, of the website that connected you to our site, if you accessed WhiteHouse.gov via a link on another page (i.e., “referral traffic”). and
+*   The amount of data transmitted from WhiteHouse.gov to your computer.
+
+The White House also uses web measurement and customization technologies (such as “cookies"). You can choose not to accept cookies from any website, including WhiteHouse.gov, by changing your browser settings. Click here to learn more about how we use cookies.
+
+Using the WhiteHouse.gov Mobile Application
 
 When you use the WhiteHouse.gov Mobile Application (“App”), the App pulls content from the White House website, generating the same basic information as when you visit WhiteHouse.gov (see Visits to WhiteHouse.gov). The WhiteHouse.gov Mobile App does not collect geolocation information or use location services.
 
