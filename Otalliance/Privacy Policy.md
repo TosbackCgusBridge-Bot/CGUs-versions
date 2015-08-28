@@ -115,6 +115,10 @@ Join FTC Commissioner Julie Brill, Congresswoman Suzan DelBene and members of Co
 *   OTA Blog
 *   Newsletters
 
+Thu, Aug 27, 2015 Back To School Basics
+
+As we are getting ready for “back to school” it is a reminder of the need to get back to the basics and the importance of consumer centric security and privacy enhancing best practices.  The recent Wyndham dispute with the Federal Trade Commission and Spotify’s privacy policy snafu serve as stark reminders of these concerns.
+
 Fri, Jul 31, 2015 The Demise of Online Advertising As We Know it
 
 Updated 8-4-15
@@ -128,10 +132,6 @@ Guest Blog from Global Sign - I’m excited to have a guest on today’s blog �
 Wed, Jun 24, 2015 OTA Opens Up Membership to IoT Working Group
 
 Today the OTA Board of Directors has agreed to allow any interested party to become a member of the IoT Working Group without having to become a full member of the Online Trust Alliance.The goal is to bring many stakeholders to the table with a shared focus to establish best practices and a framework focused on security, privacy and sustainability.  All existing OTA member companies in good standing are granted membership at no-charge.  Working together we can help shape the future of the “internet of everything” while preserving consumer privacy and security, demonstrating a
-
-Wed, Jun 17, 2015 OTA Drops Out of NTIA Multistakeholder Process
-
-Today OTA announced with regret it was withdrawing support of the multi-stakeholder process convened by the National Telecommunications and Information Administration to develop a voluntary code of conduct pertaining to facial recognition technology.  We commend the efforts of NTIA staff including John Verdi and others who have brought to the table a wide range of subject matter experts for us to learn from over the past 16 months.  Regrettably here has been little meaningful progress and it has become clear that we will be unable to reach consensus on fundamental i
 
 Resources
 
