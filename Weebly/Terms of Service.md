@@ -1,6 +1,4 @@
-Weebly Terms of Service Change Log
-
-**August 2015**
+**Last updated August 18, 2015**
 
 **Section 1:** Expanded “Service” definition.  
 **Section 6:** Expanded definitions of “Materials” and “Marks”.  
