@@ -20,9 +20,9 @@ LENOVO Menu
         8.  Deals for Students and Educators
         9.  Outlet
         10.  Warranty-Sale
-    *   Jump Into Savings. Take the Leap! These Deals Won’t Last.
+    *   End of Summer Sale. Temperatures Drop. So do our Prices.
         
-        Save up to 67% Site-Wide
+        Save up to 67% Site-Wide.
         
     *   Need it Quick?
         
