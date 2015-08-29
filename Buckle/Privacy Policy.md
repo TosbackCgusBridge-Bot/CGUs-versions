@@ -62,12 +62,12 @@ My Bag (0) Wish List Search
     *   How to Return
     *   International Return Policy
 *   Promotions
+    *   Buckle Card Double Points May 2015
     *   BUCKLE BLACK CREDIT CARD Exclusive Gift
     *   Fox Ride Your Dream Giveaway Official Rules
     *   Bench Gear Giveaway Official Rules
-    *   Social Giveaway Official Rules
-    *   Tax Free Weekends 2015
     *   Store Events
+    *   Social Giveaway Official Rules
     *   Sweepstakes Winners
     *   Spring Brand Event Official Rules 2015
 *   Gift Cards/Services
