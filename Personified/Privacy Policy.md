@@ -1,4 +1,4 @@
-X Let us help you determine what you need Are you looking to buy a Job Posting or gain access to our Resume Database? Yes, I need to purchase. No, I already have access and need to login. X Event details
+X Let us help you determine what you need What would you like to do? Post a Job Search Candidates Login to myCareerBuilder X Event details
 
 Sales: (877) 345-5256Support: (800) 891-8880
 
