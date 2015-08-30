@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (2)
 *   recommendations
 *   track order
 *   ship to
@@ -17,7 +17,7 @@
     
 *   my account
 
-*   no saved items
+*   saved items: (2)
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13790764227
+true true 10.60.216.10 C13794745052
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Fri Aug 28 05:04:38 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Sat Aug 29 07:06:45 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
