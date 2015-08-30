@@ -138,9 +138,9 @@ Réalisé sous la direction de Jean-François PILLOU, fondateur de CommentCaMarc
   
 A voir également
 
-*   Telecharger facebook mobile samsung gratuit
-*   Music ivoirien
-*   Bourse d'etude gratuit
+*   Conditions générales
+*   Comment rédiger termes et conditions
+*   Autonomie des clauses de conditions générales d'utilisations
 *   Modèle Condition Générale de Vente » Forum - Webmaster
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
