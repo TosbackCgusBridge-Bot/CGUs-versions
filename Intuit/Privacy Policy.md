@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   saved items: (2)
+*   no saved items
 *   recommendations
 *   track order
 *   ship to
@@ -17,7 +17,7 @@
     
 *   my account
 
-*   saved items: (2)
+*   no saved items
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true 10.60.216.10 C13794745052
+true true C13801442240
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Sat Aug 29 07:06:45 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Sun Aug 30 11:34:03 EDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,107 +48,92 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-$10 Off\* $25 or More
-
-In Store and Online
-
-Ends September 1 | Code: LAT4CLAS
-
-Or, Extra 20% Off\* with your JCPenney Credit Card
-
-In Store and Online
-
-Ends September 1 | Code: TRDYBEL
-
-Or, Extra 15% Off\* with any other method of payment
-
-Online Only
-
-Ends September 1 | Code: TRDYBEL
-
-Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
-
-In Store and Online
-
-Ends September 1 | Code: TRDYBEL
-
-\*Credit offers subject to credit approval. All offers apply to select, orig, reg, sale and clearance-priced items.
-
-\*See exclusions and details. Print Coupon
-
-*   starts now!  
-    back to  
+*   back to  
     school  
     hot sale
-*   save on levi’s®
-    
-    select styles
-    
 *   home sale  
     30-50% off
     
     select styles
     
-*   st. john's bay  
-    30-60% off
+*   customer  
+    favorites  
+    save on
     
-    select styles
+    arizona tees
+    
+*   save on
+    
+    juniors’ flats  
+    &. booties
     
 
-*   Back to School HOT Sale Shop the Back to School HOT Sale View Store Ad Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Jewelry and Watches Shop Juniors Shop Guys Shop Accessories Shop HomeNight and Day Doorbusters
+*   Back to School HOT Sale
     
-    Use your coupon and save even more! Friday 3pm CDT through Saturday 1pm CDT
+    In Store and Online | Ends September 1
     
-    Shop Doorbusters
-*   Levi's(R)
-    
-    Find Your Fit | Excluded from Coupon
-    
-    Shop Levi's Shop for Her Shop for Him Shop for Kids
-    
-    36.99 Levi's 535(TM) super skinny jeans, reg 49.50
-    
-    Shop 535(TM) Super Skinny Jeans
-    
-    24.99 Boys' Levi's 510(TM) skinny or 511(TM) slim jeans, orig $44-48
-    
-    Shop Boys 510(TM) Skinny or 511(TM) Slim Jeans
-    
-    46.99 Guys' Levi's 511(TM) slim fit jeans, reg $68
-    
-    Shop Guys 511(TM) Slim Fit Jeans
+    Shop the Back to School HOT Sale View Store Ad Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Accessories Shop Juniors Shop Home Shop Jewelry Shop Guys
 *   Home Sale
     
     30 to 50% Off Home Collections, select styles
     
-    Shop Home Sale Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Home Decor Shop Luggage Shop Furniture and Mattresses Shop Comforters
-*   St. John's Bay
+    Shop Home Sale
     
-    50 to 60% Off Men's St. John's Bay Sportswear, select styles
+    40 to 50% Off Furniture and Mattresses
     
-    Shop Men's Sportswear  
+    Shop Furniture and Mattresses Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Home Decor Shop LuggageSpecial Promotional Financing\*\*
     
-    40% Off Women's St. John's Bay Apparel, select styles
+    Available for furniture and mattresses when you use your JCPenney Credit Card\*\*.
     
-    Shop Women's Apparel  
+    \*\*Exclusions and details:
+*   Customer Favorites
     
-    30 to 40% Off St. John's Bay Shoes, select styles
+    5.99 Guys’ Arizona Tees
     
-    Shop Men's Shoes   Shop Women's Shoes  
+    "I love these shirts and buy them whenever I see a new color. They fit well for me and are very comfortable." -casualdresser
+    
+    Shop Guys' Arizona Tees
+    
+    Juniors’ Arizona Tees, select styles
+    
+    Shop Juniors' Arizona Tees    
+    
+    5.99 Baby and Toddler Okie Dokie Match-Ups for Her, select styles
+    
+    "Love this little tee. So pleased when I got it, so soft and super cute. Way to go JCP!!" -Showersbysds
+    
+    Shop Okie Dokie for Her
+    
+    Okie Dokie Match-Ups for Him, select styles
+    
+    Shop Okie Dokie for Him    
+*        Step Into Style
+    
+    29.99 Juniors’ Flats, select styles
+    
+    Shop Juniors’ Flats
+    
+    49.99 Juniors’ Booties, select styles
+    
+    Shop Juniors’ Booties
+    
+    $15 Perk Rewards for Shoes
+    
+    Get details:
 
-Back to School
+Just For You
 
-Mix-and-Match to show how you bend the trend.
+Discover personalized recommendations that fit your style.
 
-Find Your Style Sephora Has Arrived
+Try it now: Back to School
 
-Shop the best beauty--without ever leaving JCPenney.com!
+Mix-and-Match styles to show how you Bend the Trend.
 
-Shop Sephora SportsFanShop
+Find Your Style Shop Guys Shop Juniors Shop Backpacks Star Wars™ Shop Star Wars College Colors Day
 
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
+September 4, 2015
 
-Shop SportsFanShop Download and Get Shopping Check Out the App: Download on the App Store Get It On Google play School Uniforms
+Shop Now School Uniforms
 
 Play hard. Dress smart.
 
@@ -156,15 +141,7 @@ Shop School Uniforms JCPenney Optical
 
 Kids' Eyeglasses for $29.99
 
-Get Details Red Zone Clearance 50 to 80% Off
-
-In Store and Online | New Markdowns!
-
-Shop Clearance Round Up and Let Your Change Make Real Change
-
-Support JCPenney Cares in August by rounding up your purchase to help fund programs that keep kids safe, healthy and engaged beyond the classroom.
-
-Learn More:
+Get Details
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
