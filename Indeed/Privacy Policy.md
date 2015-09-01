@@ -9,12 +9,12 @@ Find JobsFind ResumesEmployers / Post Job Upload your resume Sign in What: Where
 
 **Job Seekers**
 
-*   Help Center
+*   Job Seeker Help Center
 
 **Employers &. Advertisers**
 
 *   Advertise on Indeed
-*   Job Board Inclusion Guidelines
+*   Employer Help Center
 
 **Publishers**
 
