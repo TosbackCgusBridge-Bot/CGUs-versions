@@ -33,15 +33,13 @@ Skip to main content
     *   Partners
     *   Press Releases
     *   Our Locations
-*   Contact Us
-    *   Our Locations
-
+    *   Contact Us
 *   Careers
+
 *   Investor Relations
 
 *   Publishers
 *   Investor Relations
-*   Careers
 *   Countries
     *   *   United States
         *   United Kingdom
@@ -94,8 +92,8 @@ Search form Search Search
     *   Partners
     *   Press Releases
     *   Our Locations
-*   Contact Us
-    *   Our Locations
+    *   Contact Us
+*   Careers
 
 We Know Your Customers better than anyone. 80 billion interactions  
 a day prove it. Learn more WE MAKE OVER A TRILLION REAL-TIME  
@@ -134,8 +132,8 @@ Our Clients                                              
     *   Partners
     *   Press Releases
     *   Our Locations
-*   Contact Us
-    *   Our Locations
+    *   Contact Us
+*   Careers
 
 *   Publishers
     *   Website
