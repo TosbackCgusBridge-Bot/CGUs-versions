@@ -54,7 +54,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   DraftKings
     *   Pitch and Prevail
     *   #Whiffs
-    *   MLB Legends
+    *   High-Strength Hits
     *   #MLBMemoryBank
     *   Cut 4
     *   MLB Pipeline
@@ -80,7 +80,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   National Broadcasts
     *   2015 Postseason
     *   Probable Pitchers
-    *   Meet your baseball Match
+    *   MLB Singles
 *   Players Players Players
     *   Player Search
     *   Injury Updates
