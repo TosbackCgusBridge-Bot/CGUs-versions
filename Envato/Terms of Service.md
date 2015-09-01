@@ -27,11 +27,11 @@ How browsing and membership works
 
 Membership
 
-7\. **Age**: You need to be 18 years or over to become a member. If you’re under 18 you will need to be under the supervision of a parent or legal guardian who is at least 18 years of age, and this adult will be responsible for all your activities.
+7\. **Age**: You need to be 18 years or over to become a member. If you’re under 18 you will need to use the account of a parent or legal guardian who is at least 18 years of age, with their permission and this adult will be responsible for all your activities.
 
-8\. **Benefits**: Membership is free. When you become a member you get an Envato Market account that is accessible from any of our Envato Market sites (and is also your Envato account for other Envato services). Your membership will allow you to ‘buy’ (license) items from authors, participate in our online forums, and generally contribute to our ecosystem of sites that help people get creative. Membership also gives you the opportunity to become an author (see **section 28 – Becoming an Author**) and earn referral income (see **section 10 – Referrals**).
+8\. **Benefits**: Membership is free. When you become a member you get an Envato Market account that is accessible from any of our Envato Market sites (and is also your Envato account for other Envato services). Your membership will allow you to ‘buy’ (license) items from authors, participate in our online forums, and generally contribute to our ecosystem of sites that help people get creative. Membership also gives you the opportunity to become an author (see **section 29 – Becoming an Author**) and earn referral income (see **section 10 – Referrals**).
 
-9\. **Your responsibility**: You promise that information you give us is true, accurate and complete and that you will keep your account information up-to-date (including a working email address). Your membership is not transferrable. You are responsible for any use of the Envato Market sites that occurs in conjunction with your username and password so keep your password secure and don’t let any other person use your username or password on your behalf. If you realise there’s any unauthorized use of your password or any breach of security you need to let us know immediately.
+9\. **Your responsibility**: You promise that information you give us is true, accurate and complete and that you will keep your account information up-to-date (including a working email address). Your membership is not transferrable. You are responsible for any use of the Envato Market sites that occurs in conjunction with your username and password so keep your password secure and don’t let any other person use your username or password. If you realise there’s any unauthorized use of your password or any breach of security you need to let us know immediately.
 
 It is important that you understand your responsibilities as a member of our community so please take the time to review this section and the Envato Market Terms carefully.
 
@@ -39,42 +39,48 @@ It is important that you understand your responsibilities as a member of our com
 
 How buying items works This section will help you understand what you are buying when you purchase an item and how that transaction takes place on Envato Market.
 
-11\. The total price for an item on Envato Market is made up of several components including:
+11\. **What you're buying:**
 
-1.  **Item price**: When you ‘buy’ an item, you’re paying a price to the author for the right to use that item. you’re not actually buying the item itself. What you get includes a license directly from the author to use that item. Items are subject to specific terms of use, and these terms are the ‘license’ that we set on Envato Market. Different license types are available for you to choose when you have selected an item. You’ll need to think about the way you want to use the item so that you can pick the right license to allow that use. It’s your responsibility to choose the correct license for your requirements. For the different types of licenses and what they mean see our licensing page. This links to our licensing resources, and if you still have a licensing question you can open a support ticket.
-2.  **Buyer services fee**: When you ‘buy’ an item you’re also paying a fee for the services you get from Envato like 24/7 buyer support, fraud protection, item quality control and other related buyers services. You can read more about the awesome buyer services buyers get from us over at Why Buy From Us information page. The **list price** is made up of the: a. item price and b. buyer services fee, and is the price you see on an item page.
-3.  **Handling fee**: In some transactions on Envato Market the total price may include a handling fee. See **section 16** below for details about the handling fee.
-4.  **Taxes**: Some transactions on Envato Market may be subject to tax that may be added to the list price or handling fee. See **section 20** for details about taxes on Envato Market.
+1.  **License**: When you **buy** an item, you acquire the right to use that item. you're not actually acquiring the item itself. What you get includes a license directly from the author to use that item. Items are subject to specific terms of use, and these terms are the ‘license’ that we set on Envato Market. Different license types are available for you to choose when you have selected an item. You’ll need to think about the way you want to use the item so that you can pick the right license to allow that use. It’s your responsibility to choose the correct license for your requirements.
+2.  **Item support**: Authors can choose whether or not to support certain items. If an author chooses to support an item, this will be identified on the item page.  All supported items include a support period. You can buy support extensions on these items. To learn more about item support, like what items are covered, what authors provide, the support period and support extension options, see the item support policy.
+3.  **Buyer services**: When you ‘buy’ an item you also receive services from Envato like 24/7 buyer support, fraud protection, item quality control and other related buyers services. You can read more about the awesome buyer services buyers get from us over at Why Buy From Us information page.
 
-Transacting as a buyer:
+12\. The total price for an item on Envato Market is made up of:
 
-12\. You can make payments in one of two ways: you can ‘buy it now’ or you can buy Envato credits via your Envato Market account.
+1.  **Item price**: The item price is made up of a license fee (for the license you choose for the item), and if relevant the item support fee (for supported items).
+2.  **Buyer services fee**: This is the fee for the buyer services you get from Envato.
+3.  **Handling fee**: In some transactions on Envato Market the total price may include a handling fee. See **section 17** for the details about the handling fee.
+4.  **Taxes**: Some transactions on Envato Market may be subject to tax that may be added to the list price or handling fee. See **section 21** for details about taxes on Envato Market.
 
-13\. **Envato credits**: When you deposit money into your Envato Market account it is converted by your financial institution from your currency to US Dollars. We then convert those US Dollars to Envato credits. Envato credits are the virtual currency on Envato Market and one (1) Envato Credit is equal to one (1) US Dollar.
+The **list price** is made up of the item price and buyer services fee, and is the price you see on an item page. Transacting as a buyer:
 
-14\. Envato credits can only be used to pay for Envato Market transactions. We do not generally refund any monies deposited to your Envato Market account to buy Envato credits (but you may have rights under an applicable consumer law, which we don’t exclude).
+13\. You can make payments in one of two ways: you can ‘buy it now’ or you can buy Envato credits via your Envato Market account.
 
-15\. If you choose to buy using Envato credits, the total price will be deducted from your Envato credits.
+14\. **Envato credits**: When you deposit money into your Envato Market account it is converted by your financial institution from your currency to US Dollars. We then convert those US Dollars to Envato credits. Envato credits are the virtual currency on Envato Market and one (1) Envato Credit is equal to one (1) US Dollar.
 
-16\. If you choose to buy using a method that is not Envato credits you will be redirected to a payment method provider (a ‘payment agent’), and you may be required to pay a handling fee charged over the item price.
+15\. Envato credits can only be used to pay for Envato Market transactions. We do not generally refund any monies deposited to your Envato Market account to buy Envato credits (but you may have rights under an applicable consumer law, which we don’t exclude).
 
-17\. **Currency conversion costs**: You are responsible for all costs of currency conversion relating to your Envato Market account. Your financial institution does the currency conversion and may charge you additional fees (we don’t control either the conversion rates or your financial institution’s fees).
+16\. If you choose to buy using Envato credits, the total price will be deducted from your Envato credits.
+
+17\. If you choose to buy using a method that is not Envato credits you will be redirected to a payment method provider (a ‘payment agent’), and you may be required to pay a handling fee charged over the item price.
+
+18\. **Currency conversion costs**: You are responsible for all costs of currency conversion relating to your Envato Market account. Your financial institution does the currency conversion and may charge you additional fees (we don’t control either the conversion rates or your financial institution’s fees).
 
 This means that you may incur additional costs when purchasing from Envato Market, which we have no control over.
 
-18\. **Terms of buying**: When you buy an Envato Market item you’re doing so on the following terms:
+19\. **Terms of buying**: When you buy an Envato Market item you’re doing so on the following terms:
 
 1.  you promise to us and the author that you have carefully considered the suitability of your chosen license, and that you have chosen appropriately.
 2.  you cannot cancel a completed purchase of an item.
 3.  we and the authors do not promise that any particular item will continue to be available on Envato Market so you should download and save the item as soon as you buy it.
-4.  once you purchase an item and you pay the item price, you acquire a non- exclusive license to use the item under the terms set out in the license (non-exclusive means others might also license the same item).
+4.  once you buy an item and you pay the item price, you acquire a non- exclusive license to use the item under the terms set out in the license (non-exclusive means others might also license the same item).
 5.  the author retains ownership of the item.
 6.  your relevant details may be provided to the author of the item in order to facilitate the transaction, for example for invoicing and item support services.
 7.  we have the right to enforce against you the terms of the license that you have acquired from an author.
 
 It is important that you understand the terms on which you are making a purchase. Please take the time to review this section carefully.
 
-19\. **What authors promise you about items**: The author of an item you buy promises you that:
+20\. **What authors promise you about items**: The author of an item you buy promises you that:
 
 1.  they own or have rights to use the intellectual property rights in that item and that item does not infringe the intellectual property rights of a third party.
 2.  the item is not false, inaccurate, misleading, fraudulent, unlawful or defamatory.
@@ -83,22 +89,22 @@ It is important that you understand the terms on which you are making a purchase
 
 This is what authors are promising you when you buy an item.
 
-20\. **Taxes**:
+21\. **Taxes**:
 
 1.  Prices and fees are inclusive of transactional taxes where relevant (like sales tax, VAT and GST), except for the following (which will be added as part of the total price buyers see before finalising a purchase): (a) European Union VAT (if applicable) and (b) any other transactional taxes we state on the site will be added.
 2.  You are responsible for paying all other fees and taxes associated with your use of Envato Market wherever levied (including withholding tax, if applicable). We may collect geographical location information to determine your location, which may be used for tax purposes (so location information you give us must be accurate for tax residency purposes).
 
-21\. **Envato credits expire**: Envato credits expire if not used within 12 months from the date of deposit, and will be forfeited on the 12 month anniversary of the deposit date. If you deposit money to your Envato Market account at any time during that 12 month period before your Envato credits expire, the total balance of your Envato credits (that is, both the new deposit and the balance of any unused older Envato credits) will become available for a further 12 months from the date of the new deposit. If you don’t use your Envato credits within that further 12 months, the credits will be forfeited on the 12 month anniversary of the new deposit. We generally try to tell you beforehand when Envato credits are going to expire and be forfeited, but this is not always possible and we’re not obliged to warn you. Check your member’s statement regularly for details of expiry dates. If you have different rights under an applicable consumer law, we don’t exclude them.
+22\. **Envato credits expire**: Envato credits expire if not used within 12 months from the date of deposit, and will be forfeited on the 12 month anniversary of the deposit date. If you deposit money to your Envato Market account at any time during that 12 month period before your Envato credits expire, the total balance of your Envato credits (that is, both the new deposit and the balance of any unused older Envato credits) will become available for a further 12 months from the date of the new deposit. If you don’t use your Envato credits within that further 12 months, the credits will be forfeited on the 12 month anniversary of the new deposit. We generally try to tell you beforehand when Envato credits are going to expire and be forfeited, but this is not always possible and we’re not obliged to warn you. Check your member’s statement regularly for details of expiry dates. If you have different rights under an applicable consumer law, we don’t exclude them.
 
 If you haven’t used your Envato credits within 12 months they may expire.
 
-22\. **Items with an incorrect price or incorrect information**: Despite our reasonable efforts, items may occasionally be listed at an incorrect price or with incorrect information. If this happens, we may cancel or reverse a transaction, even after it is completed and a payment has been processed. If we do this, we’ll promptly arrange for any payment to be credited or refunded and you must not use the item.
+23\. **Items with an incorrect price or incorrect information**: Despite our reasonable efforts, items may occasionally be listed at an incorrect price or with incorrect information. If this happens, we may cancel or reverse a transaction, even after it is completed and a payment has been processed. If we do this, we’ll promptly arrange for any payment to be credited or refunded and you must not use the item.
 
 Refunds
 
-23\. Given the nature of downloadable digital items, we do not generally offer a refund or credit on a purchase unless required under Australian consumer law or other relevant consumer protection laws. If you would like to request a refund or credit on a purchase, you should open a support ticket.
+24\. Given the nature of downloadable digital items, we do not generally offer a refund or credit on a purchase unless required under Australian consumer law or other relevant consumer protection laws. If you would like to request a refund or credit on a purchase, you should open a help request.
 
-24\. We will assess refund or credit requests on their merits, considering the digital nature of Envato Market items and the type of item preview that was available before purchase. There is no obligation to provide a refund or credit in situations like the following:
+25\. We will assess refund or credit requests on their merits, considering the digital nature of Envato Market items and the type of item preview that was available before purchase. There is no obligation to provide a refund or credit in situations like the following:
 
 1.  you have changed your mind about an item.
 2.  you bought an item by mistake.
@@ -106,68 +112,68 @@ Refunds
 4.  you ask for goodwill. or
 5.  you can no longer access the item because it has been removed by its author from Envato Market (we advise you to download items as soon as you buy them to avoid this situation).
 
-25\. If we decide to issue a refund or credit, this will be done using the same manner used to make the purchase. So if the item was bought using Envato credits, you will be given credit in Envato credits. if the item was bought using a particular payment method you will be refunded using the same payment method in reverse. Any payment made to you (not Envato credits) will be made in US Dollars, under the rules of the payment method (see **section 17 - Currency conversion costs** about currency conversion back to your local currency).
+26\. If we decide to issue a refund or credit, this will be done using the same manner used to make the purchase. So if the item was bought using Envato credits, you will be given credit in Envato credits. if the item was bought using a particular payment method you will be refunded using the same payment method in reverse. Any payment made to you (not Envato credits) will be made in US Dollars, under the rules of the payment method (see **section 18 - Currency conversion costs** about currency conversion back to your local currency).
 
 It is important that you understand how refunds work on Envato Market.
 
-26\. **Disputes lodged with payment agents**: If, as a buyer, you lodge a dispute with a payment agent, this will result in a freezing of your Envato Market account until the dispute raised with the payment agent has been closed. This makes it very complex to resolve any related issues, and means we cannot make payments or issue refunds out of your Envato Market account, so we encourage buyers to contact us directly first to see if we can help resolve any concerns.
+27\. **Disputes lodged with payment agents**: If, as a buyer, you lodge a dispute with a payment agent, this will result in a freezing of your Envato Market account until the dispute raised with the payment agent has been closed. This makes it very complex to resolve any related issues, and means we cannot make payments or issue refunds out of your Envato Market account, so we encourage buyers to contact us directly first to see if we can help resolve any concerns.
 
-27\. **Fine print**: We are not a bank or licensed deposit taker in Australia or elsewhere, your credits are not deposits under Australian law about banks, and that means you don’t get the benefit of any deposit insurance or guarantee under those laws. We don’t act as a fiduciary or as a trustee for you, and we’re not a licensed financial service provider.
+28\. **Fine print**: We are not a bank or licensed deposit taker in Australia or elsewhere, your credits are not deposits under Australian law about banks, and that means you don’t get the benefit of any deposit insurance or guarantee under those laws. We don’t act as a fiduciary or as a trustee for you, and we’re not a licensed financial service provider.
 
 Becoming an author
 
-28\. Imagine creating what you want, when you want, from the comfort of your own home, making passive income whether you’re working or not. Some of our authors sell stock items in their free time as a hobby, some do it to get their name out there, and some are able to make it their full time profession. If you want to get involved in our community as an author find out how here. Remember that if you become an author these terms will continue to apply, along with the Author Terms you’ll sign up to as an author.
+29\. Imagine creating what you want, when you want, from the comfort of your own home, making passive income whether you’re working or not. Some of our authors sell stock items in their free time as a hobby, some do it to get their name out there, and some are able to make it their full time profession. If you want to get involved in our community as an author find out how here. Remember that if you become an author these terms will continue to apply, along with the Author Terms you’ll sign up to as an author.
 
 To find out more about how to become an Author visit the ‘Become an Author’ guide here. Intellectual Property
 
-29\. **What we own**: We own all the **Envato content** that we have put on Envato Market (unless otherwise stated and excluding content owned by others). This includes the design, compilation, and look and feel of the Envato Market sites, and copyright, trademarks, designs and other intellectual property on Envato Market. We own all the trademarks, logos, service marks and trade names on Envato Market (unless otherwise stated and excluding these things owned by others). You will not copy, distribute, modify or make derivative works of any of our Envato Content or use any of our intellectual property in any way not expressly stated in these terms.
+30\. **What we own**: We own all the **Envato content** that we have put on Envato Market (unless otherwise stated and excluding content owned by others). This includes the design, compilation, and look and feel of the Envato Market sites, and copyright, trademarks, designs and other intellectual property on Envato Market. We own all the trademarks, logos, service marks and trade names on Envato Market (unless otherwise stated and excluding these things owned by others). You will not copy, distribute, modify or make derivative works of any of our Envato Content or use any of our intellectual property in any way not expressly stated in these terms.
 
-30\. **What we don’t own**: We do not own the items on Envato Market. our authors do. So we cannot take responsibility for the quality, safety or legality of the items. We do not warrant that the items or any member content, code, data or materials available on or via the Envato Market do not infringe the intellectual property rights of a third party. (Each author provides warranties to you directly when you purchase their item – see **section 19 - What authors promise you about items**.)
+31\. **What we don’t own**: We do not own the items on Envato Market. our authors do. So we cannot take responsibility for the quality, safety or legality of the items. We do not warrant that the items or any member content, code, data or materials available on or via the Envato Market do not infringe the intellectual property rights of a third party. (Each author provides warranties to you directly when you purchase their item – see **section 20 - What authors promise you about items**.)
 
-31\. **Copyright, trademark and intellectual property claims**: We respect the intellectual property rights of others and we require that authors do the same. If you believe that an item or member content infringes an intellectual property right (including copyright) please see the information in our Content Policy.
+32\. **Copyright, trademark and intellectual property claims**: We respect the intellectual property rights of others and we require that authors do the same. If you believe that an item or member content infringes an intellectual property right (including copyright) please see the information in our Content Policy.
 
 Our Content Policy is where you will find all the information relating to how we treat intellectual property on Envato Market including copyright and other rights. Our use of your information
 
-32\. **Privacy**: We respect your privacy. When you become a member you will be asked to provide some information about yourself. This information may be used by us and contractors in connection with providing the Envato Market sites and their services, including marketing activities.
+33\. **Privacy**: We respect your privacy. When you become a member you will be asked to provide some information about yourself. This information may be used by us and contractors in connection with providing the Envato Market sites and their services, including marketing activities.
 
 Our Privacy Policy explains how we deal with your information and it forms part of these terms.
 
-33\. **Confidential Information**: We value your information and take reasonable precautions to protect it. While we take reasonable steps to preserve the security of your information, please be aware that we can’t promise that your use of the Envato Market will be confidential, and we can’t promise that any information you provide to us is perfectly secure. While using the Envato Market, you may also become aware of confidential information about us or another member. You promise to not disclose any confidential information made available to you through the Envato Market to any other person.
+34\. **Confidential Information**: We value your information and take reasonable precautions to protect it. While we take reasonable steps to preserve the security of your information, please be aware that we can’t promise that your use of the Envato Market will be confidential, and we can’t promise that any information you provide to us is perfectly secure. While using the Envato Market, you may also become aware of confidential information about us or another member. You promise to not disclose any confidential information made available to you through the Envato Market to any other person.
 
 Playing fair
 
-34\. **Prohibited Conduct**: Envato is founded on the idea of community and like any functioning and healthy community, some things are not allowed and will not be tolerated. We aim to take a common sense approach to the general code of conduct on Envato Market but you promise that you will not:
+35\. **Prohibited Conduct**: Envato is founded on the idea of community and like any functioning and healthy community, some things are not allowed and will not be tolerated. We aim to take a common sense approach to the general code of conduct on Envato Market but you promise that you will not:
 
 1.  use a false email address, impersonate others, or misrepresent your affiliation with others.
 2.  attempt to gain unauthorised access to computer systems or content through the Envato Market.
 3.  attempt to contact other members through the Envato Market or use any information gained from the Envato Market with the intention to make a private arrangement that would otherwise be made using the Envato Market.
-4.  enter any arrangements that are not consistent with these terms or the Author Terms.
+4.  enter any arrangements that are not consistent with, or are intended to apply in addition to, these terms or the Author Terms.
 5.  use information gathered from or through the Envato Market in a way that may confuse or mislead consumers (for example, automatically gathering information to set up a site that looks like one of our sites).
 6.  attempt to or actually interrupt, negatively impact or alter the Envato Market operation in any way.
 7.  use the Envato Market or any of the content in a way that violates applicable law, that violates the intellectual property or other rights of us or others, or that is fraudulent, obscene, unprofessional, offensive, misleading or defamatory.
 8.  modify, reproduce, display, publish, distribute, copy, transmit, perform, license, create derivative works from, transfer, or sell or re-sell any information, content, software, or item obtained from or through the Envato Market, other than in accordance with these terms or the license for the item.
 
-35\. We strongly recommend that you don’t make your contact details public on the Envato Market or in any communications via the Envato Market sites. Contact details include your email address, street address, Skype name and phone number (but not social network handles). If you do, it must not be for any reason prohibited under **section 34(c) - Prohibited Conduct** and you do so at your risk!
+36\. We strongly recommend that you don’t make your contact details public on the Envato Market or in any communications via the Envato Market sites. Contact details include your email address, street address, Skype name and phone number (but not social network handles). If you do, it must not be for any reason prohibited under **section 35(c) - Prohibited Conduct** and you do so at your risk!
 
-36\. **Content removal**: We can look at or remove any of your content for any reason at our discretion. Reasons might include quality assurance, if we receive a valid copyright take-down notice, if we think that the use of your content is unauthorised, misleading, incorrect, offensive, or in breach of anyone else’s rights, or if we think that your use of the Envato Market and any content might result in liability to us or anyone else.
+37\. **Content removal**: We can look at or remove any of your content for any reason at our discretion. Reasons might include quality assurance, if we receive a valid copyright take-down notice, if we think that the use of your content is unauthorised, misleading, incorrect, offensive, or in breach of anyone else’s rights, or if we think that your use of the Envato Market and any content might result in liability to us or anyone else.
 
-37\. **Community participation**: We take great pride in our global and thriving community—it’s part of what makes the Envato Market such a friendly place. We focus on transparency and mutual respect and invite you to participate, give feedback and have your say. Before participating on Envato Market, please read the Community Guidelines, as you agree to follow them as part of these terms.
+38\. **Community participation**: We take great pride in our global and thriving community—it’s part of what makes the Envato Market such a friendly place. We focus on transparency and mutual respect and invite you to participate, give feedback and have your say. Before participating on Envato Market, please read the Community Guidelines, as you agree to follow them as part of these terms.
 
 Linking. apps made by others
 
-38\. **Linking to the Envato Market**: We’d be delighted if you decide to link to Envato Market from other sites but you have to link to a full version of a page as seen by someone navigating directly to the Envato Market sites and looks the way we’ve intended and not link directly to an image hosted on Envato Market. That includes no “in-line” linking methods resulting in images hosted on Envato Market being displayed on other sites. You must not “frame” any Envato Market pages by surrounding those pages with someone else’s content, materials or branding. We reserve the right to insist that any link to the Envato Market be discontinued, and to revoke your ability to link to the Envato Market.
+39\. **Linking to the Envato Market**: We’d be delighted if you decide to link to Envato Market from other sites but you have to link to a full version of a page as seen by someone navigating directly to the Envato Market sites and looks the way we’ve intended and not link directly to an image hosted on Envato Market. That includes no “in-line” linking methods resulting in images hosted on Envato Market being displayed on other sites. You must not “frame” any Envato Market pages by surrounding those pages with someone else’s content, materials or branding. We reserve the right to insist that any link to the Envato Market be discontinued, and to revoke your ability to link to the Envato Market.
 
-39\. **Links from the Envato Market**: The Envato Market sites may contain links to other non-Envato sites. We have no control or responsibility over anything on those sites, and do not endorse or sponsor those sites, even if they are affiliated to us.
+40\. **Links from the Envato Market**: The Envato Market sites may contain links to other non-Envato sites. We have no control or responsibility over anything on those sites, and do not endorse or sponsor those sites, even if they are affiliated to us.
 
-40\. **Third party developers**: We welcome the contribution of our members and broader community, who offer applications that work with Envato Market. You will need to form your own view about these applications and their developers. we’re not able to warrant or endorse those applications and disclaim liability relating to these applications.
+41\. **Third party developers**: We welcome the contribution of our members and broader community, who offer applications that work with Envato Market. You will need to form your own view about these applications and their developers. we’re not able to warrant or endorse those applications and disclaim liability relating to these applications.
 
 Legal Housekeeping
 
-41\. **Eligibility, suspension or termination**: Membership is not an automatic right, it is a benefit for community members who follow our reasonable rules and treat other community members well. We hope that you will be with us for a long time. But we do reserve the right, based on our reasonable discretion, to determine whether or not your use of Envato Market complies with these terms. We can suspend or terminate your Envato Market account at any time for any reason (acting reasonably of course), including if you don’t comply with these terms. If we do decide to permanently terminate your Envato Market account you must not apply for a new account as unfortunately you will no longer be welcome in our community.
+42\. **Eligibility, suspension or termination**: Membership is not an automatic right, it is a benefit for community members who follow our reasonable rules and treat other community members well. We hope that you will be with us for a long time. But we do reserve the right, based on our reasonable discretion, to determine whether or not your use of Envato Market complies with these terms. We can suspend or terminate your Envato Market account at any time for any reason (acting reasonably of course), including if you don’t comply with these terms. If we do decide to permanently terminate your Envato Market account you must not apply for a new account as unfortunately you will no longer be welcome in our community.
 
 Our indemnity to you
 
-42\. We provide Envato Market, not the items on Envato Market. We are liable and responsible for:
+43\. We provide Envato Market, not the items on Envato Market. We are liable and responsible for:
 
 1.  our use of the Envato Market.
 2.  the services, messages, Envato Content, software or other information we send through Envato Market.
@@ -175,11 +181,11 @@ Our indemnity to you
 4.  our breach of these terms.
 5.  our breach of any industry code, regulation or law that applies.
 
-43\. You have no responsibility to us for, and we agree to indemnify you from, all liabilities, costs, expenses (including legal fees) and loss arising from third party claims due to any of the matters set out in the previous **section 42 – Our indemnity to you**.
+44\. You have no responsibility to us for, and we agree to indemnify you from, all liabilities, costs, expenses (including legal fees) and loss arising from third party claims due to any of the matters set out in the previous **section 43 – Our indemnity to you**.
 
 Your indemnity to us
 
-44\. You are liable and responsible for:
+45\. You are liable and responsible for:
 
 1.  your use of the Envato Market.
 2.  the items, message, content, information, software or other materials you send through Envato Market.
@@ -188,33 +194,37 @@ Your indemnity to us
 5.  your breach of any license of an item.
 6.  your breach of any industry code, regulation or law that applies.
 
-45\. We have no responsibility to you or to any other person for all liabilities, costs, expenses (including legal fees) and loss arising from third party claims due to any of the matters set out in the previous **section 44 – Your indemnity to us** and you agree to indemnify us, our directors, officers, employees and agents from all losses.
+46\. We have no responsibility to you or to any other person for all liabilities, costs, expenses (including legal fees) and loss arising from third party claims due to any of the matters set out in the previous **section 45 – Your indemnity to us** and you agree to indemnify us, our directors, officers, employees and agents from all losses.
 
 This means that you protect us from costs and claims that happen because of your actions on the site.
 
-46\. We reserve the right, at our own expense, to assume the exclusive defence and control of any matter otherwise subject to indemnification by you, and in such case, you agree to cooperate with our defence of such claim.
+47\. We reserve the right, at our own expense, to assume the exclusive defence and control of any matter otherwise subject to indemnification by you, and in such case, you agree to cooperate with our defence of such claim.
 
-47\. **Availability**: We strive to have the Envato Market available to you 24 hours a day, seven days a week but you know how the internet works: occasionally you might not be able to access the Envato Market, and this might happen for any reason, at any time, with or without notice, or at our absolute discretion. We might also change aspects of how Envato Market works. We will not be liable to you for any loss you suffer as a result of these things.
+48\. **Availability**: We strive to have the Envato Market available to you 24 hours a day, seven days a week but you know how the internet works: occasionally you might not be able to access the Envato Market, and this might happen for any reason, at any time, with or without notice, or at our absolute discretion. We might also change aspects of how Envato Market works. We will not be liable to you for any loss you suffer as a result of these things.
 
-48\. **Third party**: If you’re agreeing to these terms on behalf of someone else (like your employer), then you’re promising to us that you have full legal authority to bind that third party.
+49\. **Third party**: If you’re agreeing to these terms on behalf of someone else (like your employer), then you’re promising to us that you have full legal authority to bind that third party.
 
-49\. **Disclaimer**: In some places there may be consumer or fair trading laws that apply and that may give you rights that we cannot exclude, restrict or modify (‘non-excludable law’). We do not exclude or modify any non-excludable law. Except as provided in a non-excludable law, we are bound only by the express promises made in these terms and we are not bound by implied terms. Except as provided in a non-excludable law, our and each author’s liability for breach of any implied warranty or condition which cannot be excluded is limited, at our or the author’s option, to either replacement or paying the cost of replacement.
+50\. **Disclaimer**: In some places there may be consumer or fair trading laws that apply and that may give you rights that we cannot exclude, restrict or modify (‘non-excludable law’). We do not exclude or modify any non-excludable law. Except as provided in a non-excludable law, we are bound only by the express promises made in these terms and we are not bound by implied terms. Except as provided in a non-excludable law, our and each author’s liability for breach of any implied warranty or condition which cannot be excluded is limited, at our or the author’s option, to either replacement or paying the cost of replacement.
 
-50\. **Relationship between the parties**: Nothing in these terms is to be construed as constituting a partnership, joint venture, employment or agency relationship between you and us, or between you and any other member. Neither you nor us can bind each other in any way. We are, however, an agent of the authors only for the limited purposes of the authors’ providing warranties to buyers in **section 19 - What authors promise you about items** and the disclaimer of authors’ liability to buyers in **section 49 - Disclaimer**.
+51\. **Relationship between the parties**: Nothing in these terms is to be construed as constituting a partnership, joint venture, employment or agency relationship between you and us, or between you and any other member. Neither you nor us can bind each other in any way. We are, however, an agent of the authors only for the limited purposes of the authors’ providing warranties to buyers in **section 20 - What authors promise you about items** and the disclaimer of authors’ liability to buyers in **section 50 - Disclaimer**.
 
-51\. **Notices**: Any notice you send us must be submitted via a support ticket. Any notice we send to you will be emailed to your Envato Market account email address.
+52\. **Notices**: Any notice you send us must be submitted via a help request. Any notice we send to you will be emailed to your Envato Market account email address.
 
-52\. **Changes to Envato Market Terms**: Although we can change any of our terms at any time we will take reasonable steps to let you know when we do so.
+53\. **Changes to Envato Market Terms**: Although we can change any of our terms at any time we will take reasonable steps to let you know when we do so.
 
-53\. **Interpretation**: Words like ‘include’ and ‘including’ are not words of limitation and where anything is within our discretion we mean our sole discretion.
+54\. **Interpretation**: Words like ‘include’ and ‘including’ are not words of limitation and where anything is within our discretion we mean our sole discretion.
 
-54\. **Applicable Laws**: We control and operate the Envato Market from our offices in Australia. The laws of Victoria, Australia govern these user terms, and you submit to the jurisdiction of the courts there.
+55\. **Applicable Laws**: We control and operate the Envato Market from our offices in Australia. The laws of Victoria, Australia govern these user terms, and you submit to the jurisdiction of the courts there.
 
 Definitions
 
 Author:
 
 a member who makes items available for sale on Envato Market.
+
+Buy:
+
+includes downloading an item that is made available for free on Envato Market or that is purchased for you by another member.
 
 Buyer:
 
@@ -250,6 +260,10 @@ Item price:
 
 the price buyers pay for the license to use an item, as detailed in **section 11(a)**.
 
+Item support:
+
+the support an author agrees to provide for an item marked as ‘supported’ as detailed on the item support page.
+
 Items:
 
 digital goods found on Envato Market like WordPress themes, background music, After Effects project files, photography and much, much more.
@@ -272,10 +286,10 @@ any payment agent or method we make available on the Envato Market.
 
 Total price:
 
-the price the buyer will pay in total, which consists of the item price, Envato's buyer services fee and handling fee (if applicable) and any taxes that may be added, as detailed in **section 11**.
+the price the buyer will pay in total, which consists of the item price, Envato's buyer services fee and handling fee (if applicable) and any taxes that may be added, as detailed in **section 12**.
 
 Your content:
 
 everything that you post on the Envato Market, or send via the Envato Market to other members and to us including items, files, communications and materials.
 
-Version 3.1 - Effective date: March 17, 2015.
+Version 4.0 - Effective date: September 1, 2015.
