@@ -19,14 +19,14 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Women
         *   Featured Shops
             *   Back to Women Featured Shops
-            *   2015 Swim Shop
-            *   Jeans Guide
-            *   Cardigan Shop
             *   Outerwear Shop
+            *   Cardigan Shop
+            *   Tunic Shop
+            *   Wear to Work
             
             *   New Arrivals
             *   Best of Fall 2015
-            *   Tunic Shop
+            *   Jeans Guide
             *   Activewear Collection
             *   Sale
         *   Shop By Size Range
@@ -39,22 +39,22 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Tall Plus
     *   *   Categories
             *   Swimsuits
-            *   Knit Tops, Polos &. Turtlenecks
+            *   Knit Tops &. Tees
             *   Shirts &. Blouses
-            *   Sweaters &. Cardigans
-            *   Pants &. Crops
+            *   Sweaters
+            *   Pants
             *   Jeans
             *   Shorts
             *   Dresses
             *   Skirts
             *   Blazers &. Jackets
             *   Activewear
-            *   Outerwear
+            *   Coats
             *   Sleepwear
             *   Shoes
-            *   Socks, Tights &. Underwear
-            *   Accessories &. Handbags
-            *   Hats, Gloves &. Scarves
+            *   Accessories
+            *   Bags
+            *   Long Underwear
 *   Men
     *   *   Back to Main Menu Men
         *   Featured Shops
@@ -62,7 +62,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Jeans Guide
             *   No Iron Shop
             *   2015 Polo Shop
-            *   Supima Shirts &. Polos
+            *   Supima Shirts &. Sweaters
             
             *   New Arrivals
             *   Tailored Fit Shop
@@ -75,31 +75,29 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Tall
             *   Big &. Tall
     *   *   Categories
-            *   Polos, T-shirts &. Turtlenecks
+            *   Polo Shirts
             *   Dress Shirts
-            *   Casual Button-down Shirts
-            *   Swimsuits
-            *   Sweaters &. Cardigans
-            *   Sweatshirts &. Hoodies
+            *   Casual Shirts
+            *   Knit Tops &. Tees
             *   Activewear
+            *   Sweaters
+            *   Sportcoats &. Blazers
             *   Pants
             *   Jeans
             *   Shorts
-            *   Sportcoats &. Blazers
+            *   Coats
+            *   Swimsuits
             *   Sleepwear
-            *   Outerwear
             *   Shoes
-            *   Ties
-            *   Belts &. Accessories
-            *   Hats, Gloves &. Scarves
-            *   Socks &. Underwear
+            *   Accessories
+            *   Underwear &. Long Underwear
 *   Kids
     *   *   Back to Main Menu Kids
         *   Featured Shops
             *   Back to Kids Featured Shops
-            *   Swim Shop
-            *   Backpacks &. Lunch Boxes
+            *   Outerwear Shop
             *   School Uniforms
+            *   Shoes &. Boots
             
             *   New Arrivals
             *   Boys Iron Knee
@@ -118,30 +116,24 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Back to Kids Girls
             *   Swimsuits
             *   Tops
-            *   Graphic Tees
-            *   Sweaters &. Cardigans
-            *   Sweatshirts &. Hoodies
+            *   Sweaters
             *   Dresses
             *   Pants &. Leggings
             *   Jeans
             *   Skirts &. Skorts
             *   Shorts
             *   Blazers &. Jackets
-            *   Activewear
             *   Sleepwear
             *   Outerwear
-            *   Backpacks &. Lunch Boxes
-            *   Tights, Socks &. Underwear
-            *   Accessories
-            *   Hats, Gloves &. Scarves
             *   Shoes
+            *   Accessories
+            *   Long Underwear
+            *   Backpacks &. Lunch Boxes
     *   *   Boys
             *   Back to Kids Boys
             *   Swimsuits
             *   Tops
-            *   Graphic Tees
             *   Sweaters
-            *   Sweatshirts &. Hoodies
             *   Pants
             *   Jeans
             *   Shorts
@@ -149,11 +141,10 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Activewear
             *   Sleepwear
             *   Outerwear
-            *   Backpacks &. Lunch Boxes
-            *   Ties &. Accessories
-            *   Socks &. Underwear
-            *   Hats, Gloves &. Scarves
             *   Shoes
+            *   Accessories
+            *   Long Underwear
+            *   Backpacks &. Lunch Boxes
 *   Swim
     *   *   Back to Main Menu Swim
         *   Shop Swim
@@ -173,64 +164,78 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Boots &. Booties
             *   Totes &. Handbags
             *   Backpacks &. Lunch Boxes
+            
+            *   New Arrivals
+            *   Sale
     *   *   Women
             *   Back to Shoes &. Accessories Women
             *   Shoes
-            *   Accessories &. Handbags
-            *   Socks, Tights &. Underwear
-            *   Totes
-            *   Hats, Gloves &. Scarves
+            *   Accessories
+            *   Bags
+            *   Long Underwear
         *   Men
             *   Back to Shoes &. Accessories Men
             *   Shoes
-            *   Belts &. Accessories
-            *   Socks &. Underwear
-            *   Ties
-            *   Hats, Gloves &. Scarves
+            *   Accessories
+            *   Underwear &. Long Underwear
         *   Girls'
             *   Back to Shoes &. Accessories Girls'
             *   Shoes
             *   Accessories
-            *   Tights, Socks &. Underwear
             *   Backpacks &. Lunch Boxes
-            *   Hats, Gloves &. Scarves
+            *   Long Underwear
         *   Boys'
             *   Back to Shoes &. Accessories Boys'
             *   Shoes
-            *   Ties &. Accessories
-            *   Socks &. Underwear
+            *   Accessories
             *   Backpacks &. Lunch Boxes
-            *   Hats, Gloves &. Scarves
+            *   Long Underwear
 *   Home
     *   *   Back to Main Menu Home
         *   Featured Shops
             *   Back to Home Featured Shops
-            *   Supima Bed &. Bath
-            *   No Iron Bedding
-            *   Beach Essentials
-            *   Canvas Totes &. More
-            
             *   New Arrivals
-            *   Home Buying Guide
+            *   Supima Bedding &. Bath
+            *   Egyptian Cotton Collection
+            *   No Iron Bedding
+            *   Bedding Collections
             *   Sale
-    *   *   Categories
-            *   Bedding
-            *   Bath
+    *   *   Bedding
+            *   Back to All Home Bedding
+            *   Sheets &. Pillowcases
+            *   Duvet Covers &. Comforters
             *   Blankets &. Throws
-            *   Storage &. Organization
+            *   Mattress Pads
+            *   Pillows
+            *   Shop All Bedding
+        *   Bath
+            *   Back to All Home Bath
+            *   Towels
+            *   Rugs &. Mats
             *   Beach Towels
-            *   Totes
-            *   Home Décor &. Gifts
-            *   Luggage &. Bags
-            *   Kids Home
+            *   Soaps &. Scents
+            *   Shop All Bath
+        *   Home DÉcor
+            *   Back to All Home DÉcor
+            *   Storage &. Organization
+            *   Table Linens
+            *   Doormats
+            *   Seasonal
+        
+        *   More for the Home
+            *   Back to All Home More for the Home
+            *   Kids
             *   Dog Shop
+            *   Luggage &. Bags
+            *   Canvas Totes
+        
+
 *   Uniforms
     *   *   Back to Main Menu Uniforms
         *   Find your School
         *   Featured Shops
             *   Back to Uniforms Featured Shops
             *   Find Your School
-            *   Backpacks &. Lunch Boxes
             *   After School
             
             *   Polos that Perform
@@ -247,36 +252,28 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Adult
     *   *   Girls &. Women
             *   Back to Uniforms Girls &. Women
-            *   Shirts
+            *   Tops
             *   Sweaters
-            *   Sweatshirts &. Hoodies
             *   Pants
             *   Shorts
             *   Dresses &. Jumpers
             *   Skirts &. Skorts
-            *   Blazers
             *   Activewear
             *   Outerwear
-            *   Hats, Gloves &. Scarves
             *   Shoes
             *   Accessories
             *   Backpacks &. Bags
-            *   Swimsuits
     *   *   Boys &. Men
             *   Back to Uniforms Boys &. Men
-            *   Shirts
+            *   Tops
             *   Sweaters
-            *   Sweatshirts &. Hoodies
             *   Pants
             *   Shorts
-            *   Blazers
             *   Activewear
             *   Outerwear
-            *   Hats, Gloves &. Scarves
             *   Shoes
             *   Accessories
             *   Backpacks &. Bags
-            *   Swimsuits
 *   Sale
     *   Back to Main Menu
     *   *   Sale
@@ -317,7 +314,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
 *   Gift Cards
 *   Business Outfitters
 *   Ship To
-
 Bag0
 
 *   Help
@@ -550,7 +546,7 @@ Call 1.800.963.4816 Text Chat Now
     *   Shoes
 
 *   Policies
-    *   **Updated Privacy Policy**
+    *   Privacy Policy
     *   Terms Of Use
     *   Shipping
     *   Returns
