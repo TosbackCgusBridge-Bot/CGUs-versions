@@ -3,7 +3,6 @@
     *   My Bill
     *   My Mail
     *   My Phone
-    *   My Domain
 
 |  Home |  Contact Us Your Location:  
 New Location Set Your Location Set Your Location - Step 1 of 2 Close Window You are here: Set Your State Set Your State
