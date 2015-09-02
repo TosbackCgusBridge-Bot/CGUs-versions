@@ -3,7 +3,7 @@
 *   Overview
 *   Terms and policies
 *   Ubuntu Advantage
-*   Bootstack
+*   BootStack
 *   Contributors
 *   Short terms
 
@@ -23,10 +23,10 @@ Contributors agreement ›
 
 Details of the agreement you need to send to us before you begin contributing to projects at Canonical.
 
-Bootstack terms ›
+BootStack terms ›
 
-A legal description of the services included in Bootstack.
+A legal description of the services included in BootStack.
 
 Short terms ›
 
-This agreement sets out Canonical’s standard service terms for both Ubuntu Advantage and Bootstack customers.
+This agreement sets out Canonical’s standard service terms for both Ubuntu Advantage and BootStack customers.
