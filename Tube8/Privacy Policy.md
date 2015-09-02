@@ -5,6 +5,12 @@
 *   Live Girls
 *   Meet&Fuck
 
+en
+
+*   DE Deutsch
+*   ES Español
+*   FR Français
+
 Sign up Login Upload
 
 *   Straight
