@@ -20,7 +20,6 @@ How We and Our Partners Use Cookies and Web Beacons
 Third-Party Websites and Services  
 Changes to Our Privacy Statement Regarding Customer and Online User Information  
 Contacting Us  
-Country Specific Privacy  
   
   
 
