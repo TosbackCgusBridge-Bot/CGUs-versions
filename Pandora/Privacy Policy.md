@@ -1,4 +1,4 @@
-Effective as of June 30, 2015
+Effective as of September 1, 2015
 
 Pandora operates a personalized Internet radio service and related platform features available through the web at pandora.com, on mobile devices and tablets, in automobiles, and through other consumer electronic devices (the "**Pandora Service**" or "**Service**"). As we use it in this policy, "**Pandora**" refers to Pandora Media, Inc. and its subsidiaries. This policy applies to all Pandora-authorized operations of the Service. We may refer to Pandora as "**we**", "**us**", or "**our**". We may refer to you as "**listener**", "**you**", or "**your**". The purpose of this policy is to inform you about the information we collect, how we use and share that information, and the ways in which you can control how we use and share that information. By submitting your information through our Service, you agree to the terms of this policy and you expressly consent to the collection, use, and disclosure of your information in accordance with this policy.
 
@@ -145,6 +145,8 @@ California Business &. Professions Code Section 22575(b) provides that Californi
 11\. European Union-Swiss Safe Harbor
 
 Pandora adheres to the set of data protection principles developed by the United States Department of Commerce, in collaboration with the European Commission and the Federal Data Protection and Information Commissioner of Switzerland, which produced the U.S.-European Union Safe Harbor Framework Documents and U.S.-Swiss Safe Harbor Framework Documents. The privacy principles in this policy are based on these Safe Harbor Principles, including as they relate to personal information transferred from the European Union ("**EU**") and/or Switzerland to the United States ("**U.S.**").
+
+Pandora has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the status of Pandora's certification, please visit https://www.export.gov/safeharbor/.
 
 12\. Transfer of Information of International Listeners
 
