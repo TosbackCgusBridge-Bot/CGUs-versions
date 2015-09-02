@@ -90,6 +90,7 @@ Storytelling &. Humor
 *   Ask Me Another
 *   The Best Of Car Talk
 *   Bullseye
+*   Hidden Brain
 *   How To Do Everything
 *   Invisibilia
 *   Only A Game
@@ -275,7 +276,7 @@ Back
 *   Technology
 *   TV &. Film
 
-Back Back
+Back
 
 *   Sign In/Register
 
@@ -502,6 +503,7 @@ Support The Programs You Love
     *   The Diane Rehm Show
     *   Fresh Air
     *   Here &. Now
+    *   Hidden Brain
     *   Invisibilia
     *   Latino USA
     *   Morning Edition
