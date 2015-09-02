@@ -59,7 +59,7 @@ Aéropostale
     *   TOPS
     *   Graphic Tees
     *   Polos
-    *   Tees
+    *   Henleys + Tees
     *   Tanks
     *   Shirts
     *   Hoodies
