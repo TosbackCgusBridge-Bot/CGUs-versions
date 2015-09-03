@@ -215,13 +215,12 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Beach Towels
             *   Soaps &. Scents
             *   Shop All Bath
-        *   Home DÉcor
+        *   DÉcor
             *   Back to All Home DÉcor
             *   Storage &. Organization
             *   Table Linens
             *   Doormats
             *   Seasonal
-        
         *   More for the Home
             *   Back to All Home More for the Home
             *   Kids
