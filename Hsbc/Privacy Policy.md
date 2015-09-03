@@ -137,6 +137,10 @@ Menu Explore HSBC.com Search
         
     *   Students and graduates expandStudents and graduates
         *   View programmes
+        *   Programmes in Commercial Banking
+        *   Programmes in Global Banking and Markets
+        *   Programmes in Global Private Banking
+        *   Programmes in Retail Banking and Wealth Management
     *   Frequently asked questions
         
 
