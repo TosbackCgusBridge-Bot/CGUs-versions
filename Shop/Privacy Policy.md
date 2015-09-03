@@ -20,7 +20,7 @@ LENOVO Menu
         8.  Deals for Students and Educators
         9.  Outlet
         10.  Warranty-Sale
-    *   End of Summer Sale. Temperatures Drop. So do our Prices.
+    *   Labor Day Sale Celebrate the Season’s Best Prices.
         
         Save up to 67% Site-Wide.
         
@@ -28,9 +28,9 @@ LENOVO Menu
         
         We have prebuilt models of our most popular PCs in stock and ready to ship!
         
-    *   BACK-TO-SCHOOL GUIDE
+    *   Windows 10 is here.
         
-        Handy Tools to Get You Ready for School.
+        Looking ahead, without leaving you behind.
         
 *   Support
     *   Help placing an order 24 hours a day, 7 days a week  
