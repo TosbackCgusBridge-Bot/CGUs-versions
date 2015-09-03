@@ -1,8 +1,6 @@
 *   Join
 *   Login
 
-We’re currently migrating data (including scrobbles) to our new site and to minimise data disruption, we’ve temporarily suspended some functionality. Rest assured, we’re re-activating features one-by-one as soon as each data migration completes. Keep an eye on progress here.
-
 Last.fm Logo Toggle navigation
 
 *   Live
