@@ -1,4 +1,4 @@
-USESDEFRITBR Août 2015
+USESDEFRITBR Septembre 2015
 
 *   Objet
 *   Mentions légales
@@ -72,16 +72,11 @@ Propriété intellectuelle Les textes et illustrations dont la mention le préci
 L'Utilisateur est seul responsable du Contenu Utilisateur qu'il met en ligne via le Service, ainsi que des textes et/ou opinions qu'il formule. Il s'engage notamment à ce que ces données ne soient pas de nature à porter atteinte aux intérêts légitimes de tiers quels qu'ils soient. A ce titre, il garantit Quidéa contre tous recours, fondés directement ou indirectement sur ces propos et/ou données, susceptibles d'être intentés par quiconque à l'encontre de Quidéa. Il s'engage en particulier à prendre en charge le paiement des sommes, quelles qu'elles soient, résultant du recours d'un tiers à l'encontre de Quidéa, y compris les honoraires d'avocat et frais de justice.  
   
 Quidéa se réserve le droit de supprimer tout ou partie du Contenu Utilisateur, à tout moment et pour quelque raison que ce soit, sans avertissement ou justification préalable. L'Utilisateur ne pourra faire valoir aucune réclamation à ce titre.  
-Données personnelles Dans une logique de respect de la vie privée de ses Utilisateurs, Quidéa s'engage à ce que la collecte et le traitement d'informations personnelles, effectués au sein du présent site, soient effectués conformément à la loi n°78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dite Loi « Informatique et Libertés ». A ce titre, le site CommentCaMarche.net fait l'objet d'une déclaration à la CNIL sous le numéro 729280.  
+Données personnelles Dans une logique de respect de la vie privée de ses Utilisateurs, Quidea s'engage à ce que la collecte et le traitement des données personnelles, effectués au sein du présent site, soient effectués conformément à la loi n°78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dite Loi "Informatique et Libertés" telle que modifiée en 2004.  
   
-Conformément à l'article 34 de la loi « Informatique et Libertés », **Quidéa** garantit à l'Utilisateur un droit d'opposition, d'accès et de rectification sur les données nominatives le concernant.  
-L'Utilisateur a la possibilité d'exercer ce droit :
-
-*   sur le site, dans l'Espace membres .
-*   en utilisant le formulaire de contact mis à sa disposition .
-*   en rentrant directement en contact par l'adresse suivante : contact@commentcamarche.net.
-
+Conformément à l'article 34 de la loi "Informatique et Libertés", Quidea garantit à l'Utilisateur un droit d'opposition, d'accès, de rectification et de suppression sur les données personnelles le concernant.  
   
+Pour en savoir plus sur vos droits au regard de vos données personnelles, nous vous invitons à prendre connaissance de notre page de gestion des "données personnelles" dont le contenu fait parti intégrante des présentes Conditions Générales d'Utilisation.  
 Limites de responsabilité Le site CommentCaMarche.net est un site d'information sur les nouvelles technologies et en particulier sur les sujets touchant à l'informatique.  
   
 Les informations diffusées sur le site CommentCaMarche.net proviennent de sources réputées fiables. Toutefois, **Quidéa** ne peut garantir l'exactitude ou la pertinence de ces données. En outre, les informations mises à disposition sur ce site le sont uniquement à titre purement informatif et ne sauraient constituer en aucun cas un conseil ou une recommandation de quelque nature que ce soit.  
