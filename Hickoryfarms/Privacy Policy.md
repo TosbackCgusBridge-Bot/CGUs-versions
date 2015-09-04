@@ -7,7 +7,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 
 *   Gifts
     *   Labor Day
-    *   Summer Gift Guide
     *   Gift Boxes
     *   Gift Baskets
         
@@ -54,7 +53,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
 
 *   Gifts
     *   Labor Day
-    *   Summer Gift Guide
     *   Gift Boxes
     *   Gift Baskets
         
@@ -97,7 +95,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gifts $90 &. Over
 *   Specials
 
-Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Order by 3PM EST tomorrow for Labor Day Overnight Delivery.
+Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
 
 1.  Home
 2.  Customer Service
