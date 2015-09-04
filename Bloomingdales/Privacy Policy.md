@@ -26,7 +26,7 @@
 
 CALL US ANY TIME:1.800.777.0000 We're available 24 hours, 7 days a week. What's New My bWallet In-Store Pickup Wish List Help Topics Credit Card Returns Order Status Loyallist   Shipping &. Delivery Stores My Account &. Profile Furniture &. Mattresses Products &. Pricing Wedding &. Gift Registry Gifts &. Gift Cards Security &. Privacy   International Contact Us Bloomingdale's and bloomingdales.com Notice of Privacy Practices
 
-The Notice of Privacy Practices was updated on August 20, 2015.
+The Notice of Privacy Practices was updated on September 3, 2015.
 
 This Notice of Privacy Practices applies to information collected in Bloomingdale's stores (including Bloomingdale's outlet stores) and online at bloomingdales.com, and via mobile applications (e.g., Bloomingdale's Brown Bag, bloomingdales.com assessed through your mobile device). To view your separate Department Stores National Bank Privacy (DSNB) Policy for your Bloomingdale's credit card, please click here.
 
@@ -192,7 +192,7 @@ Customers shipping internationally who wish to contact bloomingdales.com to
 
 *   Inquire about or update their personal information
 *   Make a complaint about the collection or use of their personal information
-*   Comment on or ask questions regarding this privacy policy
+*   Comment on or ask questions regarding this notice
 
 Please email us at internationalprivacy@bloomingdales.com.  
   
