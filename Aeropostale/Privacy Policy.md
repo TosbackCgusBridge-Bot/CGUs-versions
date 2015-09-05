@@ -5,7 +5,6 @@ Aéropostale
     *   NEW ARRIVALS
     *   Bethany Mota
     *   Tokyo Darling
-    *   Free State
     *   Throwback Tees
     *   Party Dresses
     *   Uniform
