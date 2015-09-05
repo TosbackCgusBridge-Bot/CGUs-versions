@@ -193,4 +193,6 @@ Third-Party Ad-Servers means Vendors and other third parties that provide the te
 
 Vendors means, collectively, third parties that perform business operations on behalf of Ideel, such as transaction processing, billing, mailing, communications services (e-mail, direct mail, etc.), marketing, data processing and analytics, servicing, collections, or ad management.
 
-Last Updated September 6, 2015
+  
+
+Last Updated September 3, 2015
