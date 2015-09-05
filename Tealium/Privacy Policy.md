@@ -189,3 +189,5 @@ Free Trial Schedule a Demo Contact Us | 888-622-2050 Copyright All Rights Reserv
 *   Contact
 *   Privacy Policy
 *   Terms of Use
+
+This website uses cookies. By using our services, you agree to our use of cookies.Accept Learn More
