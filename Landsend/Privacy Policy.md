@@ -38,7 +38,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Petite Plus
             *   Tall Plus
     *   *   Categories
-            *   Swimsuits
+            *   Coats
             *   Knit Tops &. Tees
             *   Shirts &. Blouses
             *   Sweaters
@@ -49,7 +49,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Skirts
             *   Blazers &. Jackets
             *   Activewear
-            *   Coats
+            *   Swimsuits
             *   Sleepwear
             *   Shoes
             *   Accessories
@@ -75,6 +75,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Tall
             *   Big &. Tall
     *   *   Categories
+            *   Coats
             *   Polo Shirts
             *   Dress Shirts
             *   Casual Shirts
@@ -85,11 +86,11 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Pants
             *   Jeans
             *   Shorts
-            *   Coats
             *   Swimsuits
             *   Sleepwear
             *   Shoes
             *   Accessories
+            *   Bags
             *   Underwear &. Long Underwear
 *   Kids
     *   *   Back to Main Menu Kids
@@ -114,7 +115,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
                 *   Big Boy (size 7-20)
     *   *   Girls
             *   Back to Kids Girls
-            *   Swimsuits
+            *   Outerwear
             *   Tops
             *   Sweaters
             *   Dresses
@@ -124,14 +125,14 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Shorts
             *   Blazers &. Jackets
             *   Sleepwear
-            *   Outerwear
+            *   Swimsuits
             *   Shoes
             *   Accessories
             *   Long Underwear
             *   Backpacks &. Lunch Boxes
     *   *   Boys
             *   Back to Kids Boys
-            *   Swimsuits
+            *   Outerwear
             *   Tops
             *   Sweaters
             *   Pants
@@ -140,7 +141,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Blazers &. Jackets
             *   Activewear
             *   Sleepwear
-            *   Outerwear
+            *   Swimsuits
             *   Shoes
             *   Accessories
             *   Long Underwear
@@ -218,7 +219,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   DÉcor
             *   Back to All Home DÉcor
             *   Storage &. Organization
-            *   Table Linens
+            *   Tabletop
             *   Doormats
             *   Seasonal
         *   More for the Home
@@ -228,7 +229,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Luggage &. Bags
             *   Canvas Totes
         
-
 *   Uniforms
     *   *   Back to Main Menu Uniforms
         *   Find your School
@@ -313,6 +313,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
 *   Gift Cards
 *   Business Outfitters
 *   Ship To
+
 Bag0
 
 *   Help
