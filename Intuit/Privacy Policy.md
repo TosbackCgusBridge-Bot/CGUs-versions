@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13818901606
+true true C13818875755
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Thu Sep 03 11:03:02 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Fri Sep 04 09:56:32 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,83 +48,124 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-All Day Dip
+$10 Off\* $25 or More
 
-One Day Only! | Online Only
+In Store and Online
 
-Thursday, September 3 | Online Code: CLOCK31
+Ends September 7 | Code: PICNIC4U
+
+Print CouponOr, Extra 20% Off\* with your JCPenney Credit Card
+
+In Store and Online
+
+Ends September 7 | Code: PARADE4U
+
+Or, Extra 15% Off\* with any other method of payment
 
 Online Only
 
-Extra 25% Off\* select styles
+Ends September 7 | Code: PARADE4U
 
-Or Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades
+Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
 
-Or, Extra 30% Off\* $150 or More select styles
+In Store and Online
 
-Plus Free Shipping Anywhere over $49\*
+Ends September 7 | Code: PARADE4U
 
-\*Exclusions and details:Labor Day Sale and Clearance Shop Now Women
+\*Credit offers subject to credit approval. All offers apply to select, orig, reg, sale and clearance-priced items.
 
-4.99 Juniors' Arizona Tees and Camis, select styles
+\*See exclusions and details.
 
-Shop Juniors' Arizona Tees and Camis
+*   star wars™  
+    force friday
+*   labor day  
+    sale &  
+    clearance
+*   labor day  
+    home sale  
+    30-50% off
+    
+    select styles
+    
+*   new  
+    markdowns  
+    clearance  
+    50-80% off
 
-50% Off Women's Xersion, select styles when you buy 2 or more
+*   Star Wars™ Force Friday
+    
+    An all new generation has arrived. Be ready in full force
+    
+    Shop all Star Wars
+    
+    11.99, 2 for $20, Guys' Star Wars Graphic Tees
+    
+    Select styles
+    
+      Shop Guys
+    
+    11.99 Juniors' Star Wars Graphic Tees
+    
+    Select styles
+    
+      Shop Juniors
+    
+    40% Off Kids' Star Wars Tees
+    
+    Select styles
+    
+      Shop Kids
+*   Labor Day Sale and Clearance
+    
+    In Store and Online | Ends Monday, 9/7
+    
+    Shop the Labor Day Sale and Clearance View Store Ad Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Juniors Shop Guys Shop Home Shop Jewelry Shop Accessories
+*   Labor Day
+    
+    40 to 60% Off Furniture and Mattresses + Extra 10% Off\* With Coupon
+    
+    Shop Furniture and Mattresses
+    
+    Home Sale 30 to 50% Off select styles
+    
+    Shop Home Sale Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Home Decor Shop LuggageSpecial Promotional Financing\*\*
+    
+    Available for furniture and mattresses when you use your JCPenney Credit Card.
+    
+    \*\*See exclusions and details:
+*   Clearance 50 to 80% Off
+    
+    In Store and Online | New Markdowns!
+    
+    Shop Clearance Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Jewelry and Watches Shop Handbags and Accessories Shop Furniture and Mattresses Shop Home Decor Shop Bedding and Bath Shop Window Shop Kitchen and Dining
 
-Shop Women's Xersion
+Just For You
 
-9.99 Liz Claiborne and Worthington Tops, select styles
+Discover personalized recommendations that fit your style.
 
-Shop TopsMen
+Try it now: Carter’s Baby Sale
 
-9.99 Men's St. John's Bay Solid Polos, select styles
+In Store and Online | Now Through September 27
 
-Shop Men's St. John's Bay Solid Polos
+40 to 50% Off Carter’s Apparel and Sleepwear, select sizes
 
-50 to 55% Off Men's Xersion, select styles
+Shop Carter’s
 
-Shop Men's Xersion
+15 to 25% Off Baby Furniture
 
-19.99 Guy's Arizona Hoodie, select styles
+Shop Baby FurnitureLet's Talk Baby!
 
-Shop Guy's Arizona HoodieKids and Shoes
+Join the JCPenney + Carter's Twitter chat on 9/10 at 12pm CDT with #CartersChat
 
-50% Off Kids' Xersion Fleece, select styles
-
-Shop Kids' Xersion Fleece
-
-50% Off All Carter's Sleepwear
-
-Shop Carter's Sleepwear
-
-34.99 Fila Shoes, select styles
-
-Shop Fila ShoesHome
-
-4.99 Home Expressions Bath Towel, reg. $10
-
-Shop Home Expressions Bath Towel
-
-14.99 Cooks Power Blender (after $10 mail-in rebate), sale 24.99 orig. $40
-
-Shop Cooks Power Blender
-
-50 to 60% Off Bed Pillows, select styles
-
-Shop Bed Pillows Red Zone Clearance 50 to 80% Off
-
-In Store and Online | New Markdowns!
-
-Shop Clearance Star Wars™ Shop Star Wars Now College Colors Day
+College Colors Day
 
 September 4, 2015
 
-Shop College Colors Now Back to School Find Your Style JCPenney Optical
+Shop Now It's Your Night: Homecoming 2015 Shop Homecoming Back to School Find Your Style JCPenney Optical
 
-Kids’ Eyeglasses For 29.99
+Kids' Eyeglasses for $29.99
 
-Shop Optical Now
+Get Details
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
