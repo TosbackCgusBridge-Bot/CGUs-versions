@@ -52,12 +52,12 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Must C
     *   Chatting Cage
     *   DraftKings
-    *   Pitch and Prevail
+    *   Postseason Path
     *   #Whiffs
     *   High-Strength Hits
     *   #MLBMemoryBank
     *   Cut 4
-    *   MLB Pipeline
+    *   Pitch and Prevail
     *   Daily Dash
 *   Stats Stats Stats
     *   Players
