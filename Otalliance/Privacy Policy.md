@@ -16,7 +16,7 @@ Skip to main content Online Trust Alliance
     *   Brand Protection
     *   Data Privacy &. Protection Day
     *   Identity Theft
-    *   Internt of Things
+    *   Internet of Things
     *   Online Trust Audit &. Honor Roll
     *   Email Integrity Audit
     *   Privacy
@@ -148,7 +148,7 @@ Initiatives
 *   Brand Protection
 *   Data Privacy &. Protection Day
 *   Identity Theft
-*   Internt of Things
+*   Internet of Things
 *   Online Trust Audit &. Honor Roll
 *   Email Integrity Audit
 *   Privacy
