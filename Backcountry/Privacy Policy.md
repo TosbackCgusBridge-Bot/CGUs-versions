@@ -1,6 +1,6 @@
 BACKCOUNTRY LEGAL NOTICES EFFECTIVE FEBRUARY 17, 2015
 
-Thank you for visiting the Backcountry.com, Inc. family of websites, which include Backcountry.com, Competitivecyclist.com, Chainlove.com, SteepandCheap.com, and WhiskeyMilitia.com (collectively, “Backcountry”). All sites, including mobile applications, are referred to in these notices as the “Sites,” and Backcountry is referred to as “we” or “us.” End users such as yourself are referred to as “you.” By visiting our Sites, you agree to these Terms &. Conditions of Site Use, our Privacy Policy, and our Copyright Policy. You agree that our provision of the Sites and associated services would not be possible on the same terms without your agreement to these terms and policies. Please read them carefully.
+Thank you for visiting the Backcountry.com, LLC. family of websites, which include Backcountry.com, Competitivecyclist.com, Chainlove.com, SteepandCheap.com, and WhiskeyMilitia.com (collectively, “Backcountry”). All sites, including mobile applications, are referred to in these notices as the “Sites,” and Backcountry is referred to as “we” or “us.” End users such as yourself are referred to as “you.” By visiting our Sites, you agree to these Terms &. Conditions of Site Use, our Privacy Policy, and our Copyright Policy. You agree that our provision of the Sites and associated services would not be possible on the same terms without your agreement to these terms and policies. Please read them carefully.
 
 Jump to:
 
@@ -20,7 +20,7 @@ All content included on the Sites, including text, graphics, logos, images, audi
 Our graphics, logos, page headers, button icons, scripts, and service names are trademarks, or trade dress, of ours in the United States and/or other countries. You agree not to use these trademarks and trade dress in any manner prohibited by law or prohibited by us, including but not limited to any manner likely to cause confusion among customers or to disparage or discredit us. There may be other trademarks we do not own appearing on the Sites. Those trademarks are the property of their respective owners, who may or may not be affiliated with us.  
 If you believe that your work has been copied by us, please contact our Legal Department at:  
   
-Backcountry.com, Inc.  
+Backcountry.com, LLC.  
 Attn: Legal Department  
 1678 West Redstone Center Drive  
 Park City, UT 84098  
@@ -59,7 +59,7 @@ We make every effort to ensure that the price of each item listed for sale is ac
 **PRESS RELEASES**  
 All press releases and other promotional materials are only current on their original date, unless otherwise stated. These materials were, to the best of our knowledge, timely and accurate when issued. However, you should not rely on the continued accuracy of any such material beyond the date of issuance.
 
-**DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY** TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, WE (BACKCOUNTRY.COM, INC. AND ITS AFFILIATES) DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WE DO NOT WARRANT THAT THE SITES. INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE, MOBILE APPLICATIONS, AND AFFILIATED WEBSITES), OR SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SITES. OUR SERVERS. OR ELECTRONIC COMMUNICATIONS SENT FROM US ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. YOU AGREE THAT WE WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF THIS SITE OR FROM ANY INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THIS SITE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, AND CONSEQUENTIAL DAMAGES, UNLESS OTHERWISE SPECIFIED IN WRITING.  
+**DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY** TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, WE (BACKCOUNTRY.COM, LLC. AND ITS AFFILIATES) DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WE DO NOT WARRANT THAT THE SITES. INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE, MOBILE APPLICATIONS, AND AFFILIATED WEBSITES), OR SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SITES. OUR SERVERS. OR ELECTRONIC COMMUNICATIONS SENT FROM US ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. YOU AGREE THAT WE WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF THIS SITE OR FROM ANY INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THIS SITE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, AND CONSEQUENTIAL DAMAGES, UNLESS OTHERWISE SPECIFIED IN WRITING.  
 THE SITES AND ALL INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE, MOBILE APPLICATIONS, AND AFFILIATED WEBSITES) AND SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SITES ARE PROVIDED BY US ON AN "AS IS" AND "AS AVAILABLE" BASIS, UNLESS OTHERWISE SPECIFIED IN WRITING. WE MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THIS SITE OR THE INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE, MOBILE APPLICATIONS, AND AFFILIATED WEBSITES) OR SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SITES, UNLESS OTHERWISE SPECIFIED IN WRITING. YOU EXPRESSLY AGREE THAT YOUR USE OF THE SITES IS AT YOUR SOLE RISK.  
 CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS.
 
@@ -73,7 +73,7 @@ The law of the State of Utah and federal law to the extent applicable governs th
 We have the right to modify, amend or delete any policy posted on the Sites at any time or for any reason. If a court deems any policy or provision void or unenforceable, the remaining provisions and policies shall remain valid and enforceable.
 
 **OUR ADDRESS**  
-Backcountry.com, Inc.  
+Backcountry.com, LLC.  
 Attn: Legal Department  
 1678 West Redstone Center Drive  
 Park City, UT 84098  
@@ -171,7 +171,7 @@ If your submission of User Content or any portion of it is removed, or access to
 We may terminate your access to the Site(s) without notice if, under appropriate circumstances, we determine that you are a repeat infringer.  
 DMCA notices and counter-notices should be submitted to our designated agent for receiving such notices, which is our Legal Department at:  
   
-Backcountry.com, Inc.  
+Backcountry.com, LCC.  
 Attn: Legal Department  
 1678 West Redstone Center Drive  
 Park City, UT 84098  
