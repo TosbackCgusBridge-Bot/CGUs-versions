@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13818875755
+true true C13826006850
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Fri Sep 04 09:56:32 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p26.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Sat Sep 05 11:14:55 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -76,8 +76,6 @@ Ends September 7 | Code: PARADE4U
 
 \*See exclusions and details.
 
-*   star wars™  
-    force friday
 *   labor day  
     sale &  
     clearance
@@ -91,36 +89,19 @@ Ends September 7 | Code: PARADE4U
     markdowns  
     clearance  
     50-80% off
+*   carter’s  
+    baby sale  
+    40-50% off
+    
+    select styles
+    
 
-*   Star Wars™ Force Friday
-    
-    An all new generation has arrived. Be ready in full force
-    
-    Shop all Star Wars
-    
-    11.99, 2 for $20, Guys' Star Wars Graphic Tees
-    
-    Select styles
-    
-      Shop Guys
-    
-    11.99 Juniors' Star Wars Graphic Tees
-    
-    Select styles
-    
-      Shop Juniors
-    
-    40% Off Kids' Star Wars Tees
-    
-    Select styles
-    
-      Shop Kids
 *   Labor Day Sale and Clearance
     
     In Store and Online | Ends Monday, 9/7
     
     Shop the Labor Day Sale and Clearance View Store Ad Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Juniors Shop Guys Shop Home Shop Jewelry Shop Accessories
-*   Labor Day
+*   Labor Day Home Sale
     
     40 to 60% Off Furniture and Mattresses + Extra 10% Off\* With Coupon
     
@@ -138,26 +119,44 @@ Ends September 7 | Code: PARADE4U
     In Store and Online | New Markdowns!
     
     Shop Clearance Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Jewelry and Watches Shop Handbags and Accessories Shop Furniture and Mattresses Shop Home Decor Shop Bedding and Bath Shop Window Shop Kitchen and Dining
+*   Carter’s Baby Sale
+    
+    In Store and Online | Now Through September 27
+    
+    40 to 50% Off Carter’s Apparel and Sleepwear, select sizes
+    
+    Shop Carter’s
+    
+    15 to 25% Off Baby Furniture
+    
+    Shop Baby FurnitureLet's Talk Baby!
+    
+    Join the JCPenney + Carter's Twitter chat on 9/10 at 12pm CDT with #CartersChat
+    
 
-Just For You
+Star Wars™
 
-Discover personalized recommendations that fit your style.
+Back in full force
 
-Try it now: Carter’s Baby Sale
+Shop Star Wars
 
-In Store and Online | Now Through September 27
+11.99, 2 for $20, Guys' Star Wars Graphic Tees
 
-40 to 50% Off Carter’s Apparel and Sleepwear, select sizes
+Select styles
 
-Shop Carter’s
+  Shop Guys
 
-15 to 25% Off Baby Furniture
+11.99 Juniors' Star Wars Graphic Tees
 
-Shop Baby FurnitureLet's Talk Baby!
+Select styles
 
-Join the JCPenney + Carter's Twitter chat on 9/10 at 12pm CDT with #CartersChat
+  Shop Juniors
 
-College Colors Day
+40% Off Kids' Star Wars Tees
+
+Select styles
+
+Shop Kids College Colors Day
 
 September 4, 2015
 
