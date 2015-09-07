@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13826006850
+true true 10.60.248.10 L13935880381
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p26.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Sat Sep 05 11:14:55 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Sun Sep 06 05:16:07 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,50 +48,22 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-$10 Off\* $25 or More
-
-In Store and Online
-
-Ends September 7 | Code: PICNIC4U
-
-Print CouponOr, Extra 20% Off\* with your JCPenney Credit Card
-
-In Store and Online
-
-Ends September 7 | Code: PARADE4U
-
-Or, Extra 15% Off\* with any other method of payment
-
-Online Only
-
-Ends September 7 | Code: PARADE4U
-
-Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
-
-In Store and Online
-
-Ends September 7 | Code: PARADE4U
-
-\*Credit offers subject to credit approval. All offers apply to select, orig, reg, sale and clearance-priced items.
-
-\*See exclusions and details.
-
 *   labor day  
     sale &  
     clearance
-*   labor day  
-    home sale  
+*   home sale  
     30-50% off
     
     select styles
     
-*   new  
-    markdowns  
-    clearance  
-    50-80% off
+*   st. john’s bay  
+    50% off
+    
+    select styles
+    
 *   carter’s  
     baby sale  
-    40-50% off
+    25-50% off
     
     select styles
     
@@ -114,57 +86,31 @@ Ends September 7 | Code: PARADE4U
     Available for furniture and mattresses when you use your JCPenney Credit Card.
     
     \*\*See exclusions and details:
-*   Clearance 50 to 80% Off
+*   Casual Fall Styles
     
-    In Store and Online | New Markdowns!
+    50% Off St. John's Bay Apparel, select styles
     
-    Shop Clearance Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Jewelry and Watches Shop Handbags and Accessories Shop Furniture and Mattresses Shop Home Decor Shop Bedding and Bath Shop Window Shop Kitchen and Dining
+      Shop Men     Shop Women  
 *   Carter’s Baby Sale
     
     In Store and Online | Now Through September 27
     
-    40 to 50% Off Carter’s Apparel and Sleepwear, select sizes
+    25 to 50% Off Carter’s, select sizes
     
-    Shop Carter’s
-    
-    15 to 25% Off Baby Furniture
-    
-    Shop Baby FurnitureLet's Talk Baby!
+    Shop Carter’sLet's Talk Baby!
     
     Join the JCPenney + Carter's Twitter chat on 9/10 at 12pm CDT with #CartersChat
     
 
-Star Wars™
+Clearance 50 to 80% Off
 
-Back in full force
+In Store and Online | New Markdowns!
 
-Shop Star Wars
+Shop Clearance Star Wars™ Shop Star Wars People StyleWatch Must Haves
 
-11.99, 2 for $20, Guys' Star Wars Graphic Tees
+Sponsored content
 
-Select styles
-
-  Shop Guys
-
-11.99 Juniors' Star Wars Graphic Tees
-
-Select styles
-
-  Shop Juniors
-
-40% Off Kids' Star Wars Tees
-
-Select styles
-
-Shop Kids College Colors Day
-
-September 4, 2015
-
-Shop Now It's Your Night: Homecoming 2015 Shop Homecoming Back to School Find Your Style JCPenney Optical
-
-Kids' Eyeglasses for $29.99
-
-Get Details
+Shop People StyleWatch It's Your Night: Homecoming 2015 Shop Homecoming Download the JCPenney App and Get Shopping Check Out the App: Download on the App Store Get It On Google play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
