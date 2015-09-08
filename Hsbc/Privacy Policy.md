@@ -282,7 +282,7 @@ HSBC Holdings plc and other members of the HSBC Group may from time to time oper
 
 Data Treasury Corporation (DTC) Licence
 
-HSBC is licensed by DTC under U.S. Patent Nos. 5,910,988. 6,032,137. 5,717,868. 5,774,663. 5,787,403. 5,899,982. 6,594,647. 6,341,272. 5,974,146 and 6,182,052
+HSBC is licensed by DTC under U.S. Patent Nos. 5,910,988. 6,032,137. 6,594,647. 6,341,272. 5,974,146.
 
 Privacy policy
 
