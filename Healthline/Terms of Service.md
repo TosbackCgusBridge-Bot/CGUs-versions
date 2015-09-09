@@ -39,6 +39,6 @@ COMPLETE AGREEMENT
 
 Except as expressly provided in a particular "legal notice" on the Healthline Site, these Terms of Use and the Healthline Privacy Policy and Agreement constitute the entire agreement between you and Healthline with respect to the use of the Healthline Site, and Content.
 
-Thank you for your cooperation. We hope you find the Healthline site helpful and convenient to use! Questions or comments regarding this website, including any reports of non-functioning links, should be directed by electronic mail to \[email protected\] or via U.S. mail to Healthline at 660 Third Street, San Francisco, CA 94107.
+Thank you for your cooperation. We hope you find the Healthline site helpful and convenient to use! Questions or comments regarding this website, including any reports of non-functioning links, should be directed by electronic mail to info@healthline.com or via U.S. mail to Healthline at 660 Third Street, San Francisco, CA 94107.
 
 Copyright (c) 2005-2013 Healthline Networks, Inc. All Rights Reserved.
