@@ -39,15 +39,15 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   120 Sports
     *   Podcasts
     *   Alternative Audio
-    *   MLB Productions
+    *   THIS
     *   Most Popular
     *   Baseball's Best Moments
     *   FAQs
+    *   MLB Productions
     *   MLB.com Support Forum
     *   GetGreat.com
     
     Featured
-    *   THIS
     *   #FilthiestPlays
     *   Must C
     *   Chatting Cage
@@ -56,9 +56,10 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   #Whiffs
     *   High-Strength Hits
     *   #MLBMemoryBank
-    *   Cut 4
     *   Pitch and Prevail
+    *   Cut 4
     *   Daily Dash
+    *   THIS
 *   Stats Stats Stats
     *   Players
     *   Regular Season League Leaders
@@ -75,10 +76,11 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Tiebreaker rules
 *   Schedule Schedule Schedule
     *   2015 Regular Season
+    *   2016 Regular Season
     *   Important Dates
     *   Team-by-Team Schedule
-    *   National Broadcasts
     *   2015 Postseason
+    *   National Broadcasts
     *   Probable Pitchers
     *   MLB Singles
 *   Players Players Players
