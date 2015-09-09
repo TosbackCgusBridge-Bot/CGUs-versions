@@ -1,25 +1,20 @@
-Skip to Content
+Skip to Content Hello. Welcome Back. Sign in to find your next job. Employers Employers
 
-*   My CareerBuilderMy CareerBuilder
+*   Sign in or Sign Up
+*   My CareerBuilderMy CB
 *   Find Jobs
 *   Resumes
 *   Recommendations
 *   Resources
-*   Sign in
-    *   Sign in
-    *   My Account
-    *   Sign Out
-*   Employers
-    *   Employers
-    *   Search Resumes
-    *   Post Jobs
+*   Sign Out
 
 *   Sign in
-*   Resumes
-*   Recommendations
-*   Saved Jobs
-*   Saved Searches
-*   Send Feedback
+*   My Account
+*   Sign Out
+
+*   Employers
+*   Search Resumes
+*   Post Jobs
 
 Find the Right Job. **Right Now.** Job Title, Skills, or Company Location Advanced Search Add your resume today. Employers can find you without even applying to a job. Add Your Resume Popular **job searches** By Category
 
