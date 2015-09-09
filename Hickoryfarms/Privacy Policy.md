@@ -6,7 +6,6 @@
 Your Cart (0) Search Catalog Search Catalog Navigation
 
 *   Gifts
-    *   Labor Day
     *   Gift Boxes
     *   Gift Baskets
         
@@ -52,7 +51,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 Menu Search Stores Cart Gifts Sausage &. Cheese
 
 *   Gifts
-    *   Labor Day
     *   Gift Boxes
     *   Gift Baskets
         
