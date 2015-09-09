@@ -183,6 +183,7 @@ This Privacy Policy is effective as of Tuesday 15 January 2013.
 *   Terms of Use
 *   Privacy Policy
 *   Legal Policies
+*   Gamespot
 
 You’re viewing a beta version of the new Last.fm website. Leave feedback
 
