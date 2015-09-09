@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (5)
 *   recommendations
 *   track order
 *   ship to
@@ -12,12 +12,12 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  Jean Carlos
 *   (sign out)
     
 *   my account
 
-*   no saved items
+*   saved items: (5)
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13935758507
+true true C13834758828
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p13.jcpenney.com SERVER NAME :->. dtcomexpr1l1j5 TIME :->. Mon Sep 07 01:52:25 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1c1j4 TIME :->. Tue Sep 08 09:37:13 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,16 +48,13 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   labor day  
-    sale &  
-    clearance
-*   home sale  
-    30-50% off
+*   2 days only  
+    up to 50% off
     
-    select styles
+    select home
     
-*   st. john’s bay  
-    50% off
+*   2 days only  
+    extra 20% off
     
     select styles
     
@@ -67,30 +64,22 @@ Your version of Internet Explorer is out of date. For best experience please upg
     
     select styles
     
+*   st. john’s bay  
+    50% off
+    
+    select styles
+    
 
-*   Labor Day Sale and Clearance
+*   2 Days Only
     
-    In Store and Online | Ends Monday, 9/7
+    Online Only | Ends September 9 | Code: URSTYLE
     
-    Shop the Labor Day Sale and Clearance View Store Ad Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Juniors Shop Guys Shop Home Shop Jewelry Shop Accessories
-*   Labor Day Home Sale
+    \*Exclusions and details:50% Off\* select orig and reg-priced items Shop Bedding and Bath Shop Holiday Trim and Decor Shop Luggage Shop Window40% Off\* select orig and reg-priced items Shop Home Decor Shop Furniture and Mattresses30% Off\* select orig and reg-priced items Shop Kitchen and Dining Shop Storage and Organization Shop Vacuums and Floorcare
+*   2 Days Only
     
-    40 to 60% Off Furniture and Mattresses + Extra 10% Off\* With Coupon
+    Online Only | Ends September 9 | Code: URSTYLE
     
-    Shop Furniture and Mattresses
-    
-    Home Sale 30 to 50% Off select styles
-    
-    Shop Home Sale Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Home Decor Shop LuggageSpecial Promotional Financing\*\*
-    
-    Available for furniture and mattresses when you use your JCPenney Credit Card.
-    
-    \*\*See exclusions and details:
-*   Casual Fall Styles
-    
-    50% Off St. John's Bay Apparel, select styles
-    
-      Shop Men     Shop Women  
+    \*Exclusions and details:Extra 20% Off\* select orig, reg, sale and clearance-priced items Shop Men Shop Women   Shop Kids Shop Baby Shop Shoes Shop Sports Fan Shop Shop Accessories Shop Fine and Fashion Jewelry Shop Online Clearance
 *   Carter’s Baby Sale
     
     In Store and Online | Now Through September 27
@@ -101,8 +90,17 @@ Your version of Internet Explorer is out of date. For best experience please upg
     
     Join the JCPenney + Carter's Twitter chat on 9/10 at 12pm CDT with #CartersChat
     
+*   Casual Fall Styles
+    
+    50% Off St. John's Bay Apparel, select styles
+    
+      Shop Men     Shop Women  
 
-Clearance 50 to 80% Off
+Just For You
+
+Discover personalized recommendations that fit your style.
+
+Try it now: Clearance 50 to 80% Off
 
 In Store and Online | New Markdowns!
 
