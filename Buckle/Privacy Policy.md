@@ -65,7 +65,6 @@ My Bag (0) Wish List Search
     *   Buckle Card Double Points Fall 2015
     *   BUCKLE BLACK CREDIT CARD Exclusive Gift
     *   Fox Ride Your Dream Giveaway Official Rules
-    *   Bench Gear Giveaway Official Rules
     *   Store Events
     *   Social Giveaway Official Rules
     *   Sweepstakes Winners
