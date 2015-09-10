@@ -19,9 +19,6 @@ Seeking Alpha
 
 *   Portfolio Strategy
 
-*   MY ACCOUNT
-*   Email Settings
-
 *   PREMIUM
 *   Premium Authors
 *   *   Most Popular
@@ -31,6 +28,9 @@ Seeking Alpha
 *   *   Top Ideas
     *   First Look
     *   Idea Filter
+
+*   MY ACCOUNT
+*   Email Settings
 
 *   My Authors
 *   Portfolio
