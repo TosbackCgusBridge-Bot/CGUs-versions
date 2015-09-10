@@ -1,4 +1,4 @@
-Skip to Content Hello. Welcome Back. Sign in to find your next job. Employers Employers
+Skip to Content Hello. Sign in to find your next job. Employers Employers
 
 *   Sign in or Sign Up
 *   My CareerBuilderMy CB
