@@ -20,7 +20,7 @@ LENOVO Menu
         8.  Deals for Students and Educators
         9.  Outlet
         10.  Warranty-Sale
-    *   Labor Day Sale Celebrate the Season’s Best Prices.
+    *   Game Changing Savings. Touchdown to Deals!
         
         Save up to 67% Site-Wide.
         
@@ -56,8 +56,9 @@ LENOVO Menu
         3.  Network Storage Support Support information for Lenovo, LenovoEMC &. Iomega products
         4.  Accessories, Options and Monitors Support for these extras
     *   Payment issues Call 1-800-426-3325, option 3  
+        Monday - Friday, 9am - 5:30pm (EST)  
           
-        Monday - Friday, 9am - 5:30pm (EST)
+        
     *   Need More Help? More ways to contact Lenovo
 
 *   Sales1-855-253-6686
