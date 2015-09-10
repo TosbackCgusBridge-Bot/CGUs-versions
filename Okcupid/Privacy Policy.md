@@ -179,7 +179,7 @@ An email is on its way to .
 If you don’t see it, try checking  
 your Spam folder.
 
-Okay
+Okay Enter Authentication Code Submit Remember this computer for 30 days?
 
 *   About
 *   Contact
