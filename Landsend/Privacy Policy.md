@@ -39,9 +39,9 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Tall Plus
     *   *   Categories
             *   Coats
+            *   Sweaters
             *   Knit Tops &. Tees
             *   Shirts &. Blouses
-            *   Sweaters
             *   Pants
             *   Jeans
             *   Shorts
@@ -146,6 +146,16 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Accessories
             *   Long Underwear
             *   Backpacks &. Lunch Boxes
+*   Outerwear
+    *   *   Back to Main Menu Outerwear
+        *   Shop Outerwear
+        *   Women
+        *   Men
+        *   Girls
+        *   Boys
+        *   Hats, Gloves &. Scarves
+        *   Snow Boots
+        *   Long Underwear
 *   Swim
     *   *   Back to Main Menu Swim
         *   Shop Swim
@@ -153,14 +163,13 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Men
         *   Girls
         *   Boys
-        *   Family Rash Guards &. Cover-ups
-        *   Beach Towels &. Bags
         *   Water Shoes &. Sandals
-        *   Women's Swim Tee
-*   Shoes &. Accessories
-    *   *   Back to Main Menu Shoes &. Accessories
+        *   Totes &. Beach Bags
+        *   Beach Towels
+*   Shoes
+    *   *   Back to Main Menu Shoes
         *   Featured Shops
-            *   Back to Shoes &. Accessories Featured Shops
+            *   Back to Shoes Featured Shops
             *   Accessories Shop
             *   Boots &. Booties
             *   Totes &. Handbags
@@ -169,24 +178,24 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   New Arrivals
             *   Sale
     *   *   Women
-            *   Back to Shoes &. Accessories Women
+            *   Back to Shoes Women
             *   Shoes
             *   Accessories
             *   Bags
             *   Long Underwear
         *   Men
-            *   Back to Shoes &. Accessories Men
+            *   Back to Shoes Men
             *   Shoes
             *   Accessories
             *   Underwear &. Long Underwear
         *   Girls'
-            *   Back to Shoes &. Accessories Girls'
+            *   Back to Shoes Girls'
             *   Shoes
             *   Accessories
             *   Backpacks &. Lunch Boxes
             *   Long Underwear
         *   Boys'
-            *   Back to Shoes &. Accessories Boys'
+            *   Back to Shoes Boys'
             *   Shoes
             *   Accessories
             *   Backpacks &. Lunch Boxes
@@ -557,7 +566,7 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation.
 
-Learn More Shop Our E-Catalog
+Learn More Shop Our Catalog
 
 Environmentally friendly, easy to shop and always at your fingertips.
 
