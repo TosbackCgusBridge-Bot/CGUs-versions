@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   saved items: (5)
+*   no saved items
 *   recommendations
 *   track order
 *   ship to
@@ -12,12 +12,12 @@
 *   customer service
     
 
-*   Hello  Jean Carlos
+*   Hello  
 *   (sign out)
     
 *   my account
 
-*   saved items: (5)
+*   no saved items
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13834758828
+true true 10.60.216.10 C13837518727
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1c1j4 TIME :->. Tue Sep 08 09:37:13 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p07.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Wed Sep 09 07:55:57 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,38 +48,53 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   2 days only  
+*   last day!  
     up to 50% off
     
     select home
     
-*   2 days only  
+*   last day!  
     extra 20% off
     
     select styles
     
+*   billion  
+    dollar  
+    jewelry sale
 *   carter’s  
     baby sale  
     25-50% off
     
     select styles
     
-*   st. john’s bay  
-    50% off
-    
-    select styles
-    
 
 *   2 Days Only
     
-    Online Only | Ends September 9 | Code: URSTYLE
+    Online Only | Last Day! | Code: URSTYLE
     
     \*Exclusions and details:50% Off\* select orig and reg-priced items Shop Bedding and Bath Shop Holiday Trim and Decor Shop Luggage Shop Window40% Off\* select orig and reg-priced items Shop Home Decor Shop Furniture and Mattresses30% Off\* select orig and reg-priced items Shop Kitchen and Dining Shop Storage and Organization Shop Vacuums and Floorcare
 *   2 Days Only
     
-    Online Only | Ends September 9 | Code: URSTYLE
+    Online Only | Last Day! | Code: URSTYLE
     
     \*Exclusions and details:Extra 20% Off\* select orig, reg, sale and clearance-priced items Shop Men Shop Women   Shop Kids Shop Baby Shop Shoes Shop Sports Fan Shop Shop Accessories Shop Fine and Fashion Jewelry Shop Online Clearance
+*   Billion Dollar Jewelry Sale
+    
+    Extra Savings | 4 Days Only! | Wed, Sept 9 through Tues, Sept 22
+    
+      Shop the Billion Dollar Jewelry Sale
+    
+    45 to 65% Off Fine Jewelry and Bijoux Bar
+    
+    Shop Fine Jewelry and Bijoux Bar
+    
+    25 to 55% Off Fine and Fashion Watches
+    
+    Shop Fine and Fashion Watches
+    
+    30 to 60% Off Fashion Jewelry
+    
+    Shop Fashion Jewelry Shop Diamond Blossom
 *   Carter’s Baby Sale
     
     In Store and Online | Now Through September 27
@@ -90,11 +105,6 @@ Your version of Internet Explorer is out of date. For best experience please upg
     
     Join the JCPenney + Carter's Twitter chat on 9/10 at 12pm CDT with #CartersChat
     
-*   Casual Fall Styles
-    
-    50% Off St. John's Bay Apparel, select styles
-    
-      Shop Men     Shop Women  
 
 Just For You
 
