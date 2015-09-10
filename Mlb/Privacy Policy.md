@@ -152,7 +152,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Contact UsDevices
 *   Fantasy Fantasy Fantasy
     *   Beat the Streak
-    *   Yahoo Fantasy Baseball
     *   R.B.I. Baseball 15
     *   MLB.com Home Run Derby
     *   MLB Ballpark Empire
