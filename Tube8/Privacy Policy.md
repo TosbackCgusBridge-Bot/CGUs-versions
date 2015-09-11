@@ -17,14 +17,6 @@ Sign up Login Upload
 *   Gay
 *   Shemale
 
-*   Advertise
-*   Terms
-*   DMCA
-*   Privacy
-*   RTA
-*   Content Partners
-*   18 USC 2257 Statement
-
 Advertise On Tube8 Name: \*Email: Subject: Tube8 advertising
 
 *   Tube8 Advertising
