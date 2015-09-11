@@ -22,7 +22,7 @@ LENOVO Menu
         10.  Warranty-Sale
     *   Game Changing Savings. Touchdown to Deals!
         
-        Save up to 67% Site-Wide.
+        Save up to 68% Site-Wide.
         
     *   Need it Quick?
         
