@@ -54,7 +54,7 @@ Aéropostale
     *   On Your Radar
     *   Uniform
     *   Online Only
-    *   Plus Sizes
+    *   Extended Sizes
     *   Clearance
     
     *   TOPS
