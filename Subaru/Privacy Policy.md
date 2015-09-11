@@ -20,11 +20,11 @@ Please try your search again.
 Change
 
 Visit Retailer Site View special offers, browse  
-inventory and more. See All Vehicles Find Your Subaru See All Vehicles BRZ $25,695 starting price 2015 BRZ
+inventory and more. See All Vehicles Find Your Subaru See All Vehicles BRZ $25,395 starting price 2016 BRZ
 
 Starting at
 
-$25,695 MSRP
+$25,395 MSRP
 
 Up to
 
@@ -34,9 +34,6 @@ Up to
 *   Photos &. Videos
 *   Compare
 *   Build Your Own
-
-Named Best Resale Value  
-by KBB.com
 
 BRZ Limited shown
 
@@ -448,6 +445,10 @@ Connect with Subaru Get Email Updates Customer Support
 *   California Privacy Policy
 *   MySubaru Privacy Policy
 *   Ad Choices
+  
+  
+*   SUBARU STARLINK™ Terms of Use
+*   SUBARU STARLINK™ Privacy Policy
 
 *   English
 *   Español
