@@ -68,7 +68,6 @@ My Bag (0) Wish List Search
     *   Store Events
     *   Social Giveaway Official Rules
     *   Sweepstakes Winners
-    *   Spring Brand Event Official Rules 2015
 *   Gift Cards/Services
     *   Gift Services
     *   Gift Card Donation Requests
