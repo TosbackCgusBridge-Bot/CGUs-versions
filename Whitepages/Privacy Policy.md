@@ -1,27 +1,32 @@
 Search
 
+Go to Pro
+
 *   People
 *   Business
 *   Phone
 *   Address
 
-*   first and last name People
-*   city, state or zip Where Search
+People Where Search Cancel
 
-*   name or category Business
-*   city, state or zip Where Search
+*   e.g. Jon Snow
+*   City, State or ZIP Where
 
-*   e.g. 206-555-1234 Reverse Phone Search
+Business Where Search Cancel
 
-*   e.g. 1234 main st Address
-*   city, state or zip Where Search
+*   e.g. TGI Fridays
+*   City, State or ZIP Where
 
-*   Account
-*   Logout
-*   Join
-*   Log In
+Phone Search Cancel
 
-Go to Pro Data Policy Give Feedback
+*   e.g. 206-867-5309
+
+Address Where Search Cancel
+
+*   e.g. 1600 Pennsylvania Ave NW
+*   City, State or ZIP Where
+
+Data Policy Give Feedback
 
 **Last updated on April 9, 2013.**
 
@@ -106,8 +111,8 @@ If you have any questions about this policy, please write to Whitepages Privacy 
 
 *   People Search
 *   Business Search
-*   Reverse Phone
-*   Reverse Address
+*   Phone Search
+*   Address Search
 
 **Your Whitepages**
 
@@ -206,7 +211,7 @@ If you have any questions about this policy, please write to Whitepages Privacy 
     *   Z
 
 *   © 2015 Whitepages Inc.
-*   Site Map
+*   Sitemap
 
 Success!
 
