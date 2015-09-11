@@ -1,3 +1,5 @@
+An update to this privacy policy will take effect on October 10, 2015. Read it now.
+
 **Effective January 17, 2015 Learn More**Web Services Privacy Policy  
 January 17, 2015
 
