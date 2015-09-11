@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (15)
 *   recommendations
 *   track order
 *   ship to
@@ -12,12 +12,12 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  Emelda
 *   (sign out)
     
 *   my account
 
-*   no saved items
+*   saved items: (15)
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true 10.60.216.10 C13837518727
+true true L13947102758
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p07.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Wed Sep 09 07:55:57 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1l1j6 TIME :->. Thu Sep 10 11:00:36 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,36 +48,64 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   last day!  
-    up to 50% off
+Online Only, Orders Over $100
+
+Extra 25% Off\* with your JCPenney Credit Card.
+
+Or, Extra 20% Off\* with any other method of payment.
+
+In Store and Online
+
+Extra 20% Off\* with your JCPenney Credit Card.
+
+Or, Extra 15% Off\* with any other method of payment.
+
+Or, Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.
+
+\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
+
+Ends September 15. Use Code: SEPTSALE
+
+\*See exclusions and details. print coupon
+
+*   introducing  
+    collection  
+    by michael  
+    strahan
+*   fall  
+    big bonus  
+    sale
     
-    select home
+    select styles
     
-*   last day!  
-    extra 20% off
+*   liz claiborne  
+    30-40% off
     
     select styles
     
 *   billion  
     dollar  
     jewelry sale
-*   carter’s  
-    baby sale  
-    25-50% off
-    
-    select styles
-    
 
-*   2 Days Only
+*   The Men's Store Introducing M Collection by Michael Strahan, only at JCPenney. shop the M CollectionMen's Semi-Annual Wardrobe Sale
     
-    Online Only | Last Day! | Code: URSTYLE
+    50% Off suit separates, sport coats and dress pants.
     
-    \*Exclusions and details:50% Off\* select orig and reg-priced items Shop Bedding and Bath Shop Holiday Trim and Decor Shop Luggage Shop Window40% Off\* select orig and reg-priced items Shop Home Decor Shop Furniture and Mattresses30% Off\* select orig and reg-priced items Shop Kitchen and Dining Shop Storage and Organization Shop Vacuums and Floorcare
-*   2 Days Only
+    shop the men's sale
+*   Fall Big Bonus Sale shop the sale view store ad
     
-    Online Only | Last Day! | Code: URSTYLE
+    30-40% Off Worthington apparel. Select styles.
     
-    \*Exclusions and details:Extra 20% Off\* select orig, reg, sale and clearance-priced items Shop Men Shop Women   Shop Kids Shop Baby Shop Shoes Shop Sports Fan Shop Shop Accessories Shop Fine and Fashion Jewelry Shop Online Clearance
+    shop Worthington shop men's shop women's shop kids' shop baby shop shoes shop lingerie shop home shop jewelry shop handbags and accessories
+*   Fall Boots &. Handbags
+    
+    30-40% Off Liz Claiborne Shoes. Select styles.
+    
+    shop Liz Claiborne shoes30-40% Off Liz Claiborne Handbags
+    
+    Select styles.
+    
+    shop Liz Claiborne handbags$15 Perk Rewards for Shoes see details
 *   Billion Dollar Jewelry Sale
     
     Extra Savings | 4 Days Only! | Wed, Sept 9 through Tues, Sept 22
@@ -95,30 +123,20 @@ Your version of Internet Explorer is out of date. For best experience please upg
     30 to 60% Off Fashion Jewelry
     
     Shop Fashion Jewelry Shop Diamond Blossom
-*   Carter’s Baby Sale
-    
-    In Store and Online | Now Through September 27
-    
-    25 to 50% Off Carter’s, select sizes
-    
-    Shop Carter’sLet's Talk Baby!
-    
-    Join the JCPenney + Carter's Twitter chat on 9/10 at 12pm CDT with #CartersChat
-    
 
 Just For You
 
 Discover personalized recommendations that fit your style.
 
-Try it now: Clearance 50 to 80% Off
+Try it now: Home Sale 30-50% Off Home Collections
 
-In Store and Online | New Markdowns!
+Select styles.
 
-Shop Clearance Star Wars™ Shop Star Wars People StyleWatch Must Haves
+shop the home sale shop curtains and drapes shop bedding and bath shop window shop home decor shop furniture and mattresses shop kitchen and dining shop luggage Carter's Baby Sale Shop the Baby Sale Star Wars™ Shop Star Wars People StyleWatch Must Haves
 
 Sponsored content
 
-Shop People StyleWatch It's Your Night: Homecoming 2015 Shop Homecoming Download the JCPenney App and Get Shopping Check Out the App: Download on the App Store Get It On Google play
+Shop People StyleWatch Download the JCPenney App and Get Shopping Check Out the App: Download on the App Store Get It On Google play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
@@ -173,10 +191,11 @@ ABOUT US
 *   jcp cares
 *   media
 *   investors
-*   CA transparency in supply chain
+*   CA Transparency in Supply Chains Act
 
 JCPenney credit card pay bill check balance apply now Popular Searches
 
+*   labor day sales
 *   homecoming dresses
 *   womens dresses
 *   mens suits
@@ -191,7 +210,6 @@ JCPenney credit card pay bill check balance apply now Popular Searches
 *   mattresses
 *   area rugs
 *   bedding sets
-*   jcpenney blog
 
 *   copyright
 *   privacy policy
