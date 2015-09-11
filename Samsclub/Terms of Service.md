@@ -91,7 +91,6 @@ General Terms
 *   Current and upcoming Instant Savings offers
 *   Number and dollar amount of Instant Savings currently available
 *   Number and dollar amount of Instant Savings redeemed over the last 12 months
-
 *   If an item is returned for a refund and that product had an Instant Savings associated with it, the return will be subject to the Sam's Club Refund Policy, except that the member will only be credited the net amount of the purchase (retail price minus the Instant Savings amount). Please Note: Notwithstanding the terms of the Sam's Club Refund Policy, all Instant Savings refunds require the sales receipt.
 *   All items, services, prices and Instant Savings offers communicated via SamsClub.com, on the Sam's Club mobile application, in any digital or printed materials, by a Sam's Club associate, or via any other means are subject to change without notice and are subject to conditions, restrictions, limitations, availability and qualifications as dictated by Sam's Club.
 *   Sam's Club does not guarantee the accuracy or completeness of the Instant Savings offers, discounts item numbers or item information contained on the website, on the Sam's Club mobile application, or in any printed materials.
@@ -214,18 +213,18 @@ SamsClub.com's Designated Agent for notice of claims of copyright infringement c
 
 By mail:
 
-Jon Pierce  
+Legal  
 Wal-Mart Stores, Inc.  
-702 S.W. 8th Street  
-Bentonville, Arkansas 72716-0520
+850 Cherry Ave.  
+San Bruno, California 94066
 
 By Telephone:
 
-479.273.4505
+650.837.5000
 
 By e-mail:
 
-iplegal@walmart.com
+DMCA@walmart.com
 
 **This contact information is only for reporting claims of copyright infringement. Contact information for other matters is provided elsewhere on this Site.**
 
