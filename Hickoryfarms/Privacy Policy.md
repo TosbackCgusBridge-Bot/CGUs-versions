@@ -37,6 +37,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
         
     *   Gluten Free
     *   Crackers
+    *   HoneyGold Ham
     *   Pfaelzer Brothers Steak &. Seafood
     *   Hickory Farms Reserve
 *   Shop By Price
@@ -82,6 +83,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
         
     *   Gluten Free
     *   Crackers
+    *   HoneyGold Ham
     *   Pfaelzer Brothers Steak &. Seafood
     *   Hickory Farms Reserve
 *   Shop By Price
