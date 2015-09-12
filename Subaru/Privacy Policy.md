@@ -123,6 +123,9 @@ Up to
 *   Compare
 *   Build Your Own
 
+The 2016 Subaru Crosstrek.  
+Love where it takes you.
+
 XV Crosstrek 2.0i Limited shown
 
 XV Crosstrek Hybrid $25,995 starting price 2015 XV Crosstrek Hybrid
