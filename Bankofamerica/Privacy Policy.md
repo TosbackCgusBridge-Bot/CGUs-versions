@@ -18,7 +18,8 @@ Bank of America Privacy &. Security Comprehensive protection. Confident banking.
 
 We're committed to keeping your personal and financial information protected and secure.
 
-**Privacy** Learn how we collect and use information. **Card security** Total Security Protection® on all cards. **Mobile security** Convenience and security **Email fraud** Learn to recognize it in your inbox. Suspicious email? Here's how to recognize and report ›› Protect your PC McAfee Internet Security
+**Privacy** Learn how we collect and use information **Card security** Learn about  
+preventing fraud **Mobile security** Convenience and security **Email fraud** Learn to recognize it in your inbox Suspicious email? Here's how to recognize and report ›› Protect your PC McAfee Internet Security
 
 As an Online Banking customer, you're entitled to a free year of McAfee® Internet Security ››
 
@@ -304,10 +305,10 @@ Bank of America U.S. legal entities that utilize the names: Bank of America, Ban
 
 Rev. 01/2015
 
-Manage your marketing and information-sharing privacy choices What's new
+Manage your marketing and information-sharing privacy choices Security Center
 
-*   Coming soon: More security tools and simpler sign-in.
-*   Manage security options in your Security Center
+*   More tools to help manage your security all in one place
+*   Take a Security Center tour
 
 Best overall —  
 for 9 straight years
