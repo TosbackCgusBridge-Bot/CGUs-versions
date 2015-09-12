@@ -72,8 +72,7 @@ LENOVO Menu
 *   For Work
     *   Small Business
     *   Large Enterprise
-    *   State &. Local Government
-    *   Federal Government
+    *   Government
     *   K-12 Education
     *   Higher Education
     *   Students
