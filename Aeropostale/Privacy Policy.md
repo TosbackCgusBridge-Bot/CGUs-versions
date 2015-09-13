@@ -23,6 +23,7 @@ Aéropostale
     
     *   TOPS
     *   Graphic Tees
+    *   Throwback Tees
     *   Tees
     *   Camis + Tanks
     *   Polos
@@ -67,6 +68,7 @@ Aéropostale
     
     *   TOPS
     *   Graphic Tees
+    *   Throwback Tees
     *   Polos
     *   Henleys + Tees
     *   Tanks
