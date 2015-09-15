@@ -19,6 +19,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
         *   Wedding Gifts
     *   Gifts on the Healthier Side
     *   Tailgating Favorites
+    *   Gifts for the Hostess
 *   Sausage &. Cheese
     *   Sausage &. Cheese Gifts
     *   Cheese
@@ -65,6 +66,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
         *   Wedding Gifts
     *   Gifts on the Healthier Side
     *   Tailgating Favorites
+    *   Gifts for the Hostess
 *   Sausage &. Cheese
     *   Sausage &. Cheese Gifts
     *   Cheese
@@ -149,9 +151,9 @@ My Account
 
 Guarantees
 
-*   100% Satisfaction
-*   Substitution Policy
 *   Security
+*   Substitution Policy
+*   100% Satisfaction
 
 Privacy
 
