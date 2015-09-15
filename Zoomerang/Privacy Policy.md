@@ -1,5 +1,3 @@
-Paste your Google Webmaster Tools verification code here
-
 *   CONTACT
 *   HOME
 *   SOLUTIONS
