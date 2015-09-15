@@ -22,7 +22,7 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   Toy Train Sets
     *   See all >
     
-    EXPLORE FAVORITES
+    BY BRAND/CHARACTER
     *   Everything Baby Everything Baby
     *   Little People®
     *   Imaginext®
