@@ -1,4 +1,4 @@
-Procter &. Gamble Skip to main content Search
+Procter &. Gamble Skip to main content
 
 *   Investor / Shareholder Relations
 *   Careers
