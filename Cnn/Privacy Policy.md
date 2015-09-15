@@ -316,6 +316,8 @@ From time to time, we may update this Privacy Policy. We will notify you about m
 
 _The Privacy Policy posted on this Service was updated on July 31, 2015._
 
+More from CNN Information*   ABOUT CNN.COM
+
 1.  News
     1.  World
     2.  Sport
