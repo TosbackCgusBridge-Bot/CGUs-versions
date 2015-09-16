@@ -4,7 +4,7 @@ Wanneer u Google-services gebruikt, vertrouwt u ons met uw gegevens. Dit Privacy
 
 Privacybeleid Voorbeelden verbergen Voorbeelden weergeven Voorbeelden verbergen
 
-Laatst aangepast: 19 augustus 2015 (gearchiveerde versies weergeven)
+Laatst aangepast: 19 augustus 2015 (gearchiveerde versies weergeven) (De voorbeelden met hyperlinks zijn beschikbaar aan het einde van dit document.)
 
 Pdf-versie downloaden
 
