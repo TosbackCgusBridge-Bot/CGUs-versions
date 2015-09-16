@@ -4,7 +4,7 @@ When you use Google services, you trust us with your information. This Privacy P
 
 Privacy Policy Hide examples Show examples Hide examples
 
-Last modified: 19 August 2015 (view archived versions)
+Last modified: 19 August 2015 (view archived versions) (The hyperlinked examples are available at the end of this document.)
 
 Download PDF version
 
