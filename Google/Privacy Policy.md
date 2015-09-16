@@ -4,7 +4,7 @@ Wenn Sie Google-Dienste verwenden, vertrauen Sie uns Ihre Daten an. In dieser Da
 
 Datenschutzerklärung Beispiele ausblenden Beispiele anzeigen Beispiele ausblenden
 
-Zuletzt geändert am: 19. August 2015 (archivierte Versionen anzeigen)
+Zuletzt geändert am: 19. August 2015 (archivierte Versionen anzeigen) Die verlinkten Beispiele sind unten auf dieser Seite zu finden.
 
 PDF-Version herunterladen
 
