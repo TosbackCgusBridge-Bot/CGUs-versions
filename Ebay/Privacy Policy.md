@@ -1,7 +1,4 @@
-Datenschutzerklärung gültig ab 14. August 2015 bzw. ab 13. September 2015eBay- Datenschutzerklärung gültig ab 14. August 2015 bzw. ab 13. September 2015 **Ab 14. August 2015** gültig für Nutzer, die sich ab 14. August 2015 bei eBay anmelden.  
-**Ab 13. September 2015** gültig für Nutzer, die sich vor dem 14. August 2015 bei eBay angemeldet haben.  
-  
-Vorherige Version der Datenschutzerklärung
+DatenschutzerklärungeBay- Datenschutzerklärung
 
 Zusammenfassung und Inhalt
 
