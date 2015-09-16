@@ -1,4 +1,4 @@
-User Privacy Notice This Privacy Notice was posted on **May 1, 2015**. It is effective upon acceptance for new users, and from **June 15, 2015** for all other users. See previous version of this Privacy Notice.
+User Privacy NoticeeBay- User Privacy Notice This Privacy Notice was posted on **May 1, 2015**. It is effective upon acceptance for new users, and from **June 15, 2015** for all other users. See previous version of this Privacy Notice.
 
 The eBay website is a licensee of the TRUSTe Web Privacy Program. In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. If Customer Support cannot answer your privacy-related questions, please use the TRUSTe Watchdog Dispute Resolution Process. The TRUSTe certification applies only to information that is collected through this website, www.ebay.com.
 
