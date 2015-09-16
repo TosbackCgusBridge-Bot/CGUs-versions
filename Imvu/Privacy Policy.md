@@ -137,4 +137,8 @@ IMVU, Inc.
 PO Box 390012  
 Mountain View, CA 94039.
 
+Final provision
+
+The English text of these User Terms constitutes the sole authentic text. In the event of any discrepancy between the English text and a translation into a foreign language, the English text shall prevail.
+
 Mobile | People | Groups | Forums | 3D Chat Rooms | 3D Virtual Catalog | Buy Credits | Earn Credits | Creator Center | Download About Us | Policies | Blog | Contact Us | Advertise | Jobs | Safety | Avatar | Help © 2015 IMVU All rights reserved
