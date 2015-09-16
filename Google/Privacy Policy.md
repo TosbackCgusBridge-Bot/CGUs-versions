@@ -4,7 +4,7 @@ Quando o usuário usa nossos serviços, confia a nós informações dele. Esta P
 
 Política de Privacidade Ocultar exemplos Mostrar exemplos Ocultar exemplos
 
-Última modificação: 19 de agosto de 2015 (visualizar versões arquivadas)
+Última modificação: 19 de agosto de 2015 (visualizar versões arquivadas) Os exemplos com hiperlinks estão disponíveis no final deste documento.
 
 Fazer o download da versão em PDF
 
