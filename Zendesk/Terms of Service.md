@@ -42,7 +42,7 @@ When used in these Terms with the initial letters capitalized, in addition to th
 
 **Service Data:** means electronic data, text, messages, communications or other materials submitted to and stored within the Service by You, Agents and End-Users in connection with Your use of such Service, which may include, without limitation, Personal Data.
 
-**Service Plan**(s)**:** means the packaged service plan(s) and the functionality and services associated therewith (as detailed on the Site applicable to the Service) for the Zendesk Service or Zopim Service, as applicable, to which You subscribe.
+**Service Plan(s):** means the packaged service plan(s) and the functionality and services associated therewith (as detailed on the Site applicable to the Service) for the Zendesk Service or Zopim Service, as applicable, to which You subscribe.
 
 **Site:** means www.zendesk.com or www.zopim.com, as applicable, as well as the other websites that the Zendesk Contracting Party operates.
 
@@ -54,7 +54,7 @@ When used in these Terms with the initial letters capitalized, in addition to th
 
 “**We**,” “**Us**” or “**Our**”**:** means the Zendesk Contracting Party described in Section 18.
 
-Zendesk **Contracting Party**: means the Zendesk and/or Zopim entity with which You are contracting under these Terms.
+**Zendesk Contracting Party**: means the Zendesk and/or Zopim entity with which You are contracting under these Terms.
 
 **Zendesk** **:** means Zendesk, Inc., a Delaware corporation or any of its successors or assignees.
 
