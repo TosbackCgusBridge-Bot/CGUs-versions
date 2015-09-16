@@ -4,7 +4,7 @@ Lorsque vous utilisez nos services, vous nous faites confiance pour le traitemen
 
 Règles de confidentialité Masquer les exemples Afficher les exemples Masquer les exemples
 
-Date de la dernière modification : 19 août 2015 (voir les versions archivées)
+Date de la dernière modification : 19 août 2015 (voir les versions archivées) (Les exemples en liens hypertexte sont disponibles au bas de ce document.)
 
 Télécharger la version PDF
 
