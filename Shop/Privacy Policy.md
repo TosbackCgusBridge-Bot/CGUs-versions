@@ -58,7 +58,10 @@ LENOVO Menu
     *   Payment issues Call 1-800-426-3325, option 3  
         Monday - Friday, 9am - 5:30pm (EST)  
           
-        
+        Lenovo Preferred Card  
+        844-271-2688  
+        Mon-Sun 8AM-9PM EST  
+        Closed New Year, Easter, Memorial, July 4th, Labor, Thanksgiving, Christmas
     *   Need More Help? More ways to contact Lenovo
 
 *   Sales1-855-253-6686
