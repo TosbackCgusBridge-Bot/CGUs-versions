@@ -51,6 +51,16 @@ _Feedback Information_
 
 If you provide feedback to us, we may use and disclose such feedback for any purpose, provided we do not associate such feedback with your Personal Information. We will collect any information contained in such feedback and will treat the Personal Information in it in accordance with this Privacy Policy. You agree that any such comments and any e-mail we receive becomes our property. We may use feedback for marketing purposes or to add to or modify our services without paying any royalties or other compensation to you.
 
+_Program Specific Details_
+
+From time to time, we may offer programs with more specific data use and permissions.
+
+_Living Social Restaurants Plus Program_
+
+Restaurants Plus allows you to earn cash back when you dine at Plus restaurants with a registered payment card. If you choose to sign up for the Restaurants Plus program, by registering a payment card in connection with the Restaurants Plus program, you authorize LivingSocial and its service provider operating the Program to share your payment card information with your payment card network (e.g., MasterCard, Visa, American Express) so it knows you enrolled. You authorize your payment card network to monitor transactions on your registered card(s) to identify qualifying purchases in order to determine whether you have qualified for or earned an offer linked to your payment card, and for your payment card network to share such transaction details with LivingSocial or its third party servicer to enable your card-linked offer(s). Further, LivingSocial may share the transaction details with the merchant from which the transaction originated to determine eligibility for a reward. When you register for the Restaurants Plus Program, you agree to specific data monitoring and sharing of card activity as specifically outlined in greater detail in the Restaurants Plus Terms.
+
+You can choose to cancel Your use of Restaurants Plus at any time by calling the Restaurants Plus support line at (866) 578-2016 or by clicking on “my account” and deleting any payment cards you have activated in Restaurants Plus.
+
 Use and Disclosure of Information
 
 In general, Personal Information and other information you submit or share with us is used for the following purposes by LivingSocial: to enable your access to our services. to provide, maintain, protect, develop and improve LivingSocial. to fulfill your requests for products and services. to customize the content and advertisements you receive from us and our trusted partners. and to offer you additional information, opportunities, promotions and functionality from us or on our behalf, or from our partners or our advertisers at your request.
@@ -115,4 +125,4 @@ How to Contact Us
 
 If you have questions or concerns about our Privacy Policy, please contact us at: privacy@livingsocial.com.
 
-Last updated: August 10, 2015
+Last updated: September 15, 2015
