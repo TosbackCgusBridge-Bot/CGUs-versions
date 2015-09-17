@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13961644995
+true true C13865263987
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Tue Sep 15 06:05:32 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Wed Sep 16 11:25:37 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,78 +48,97 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   starts now!  
-    fall fashion  
+In Store and Online
+
+Ends September 19. Code: FALLSALE
+
+$10 Off\* $25 or more.
+
+print couponOnline Only
+
+Ends September 19. Code: FALLSHOP
+
+Or, Extra 25% Off\* $150 or more.
+
+Or, Extra 20% Off\* $100 or more.
+
+In Store and Online
+
+Ends September 19. Code: FALLSHOP
+
+Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
+
+\*See exclusions and details.
+
+*   fall huge  
     sale
 *   introducing  
     collection  
     by michael  
     strahan
-*   billion dollar  
-    jewelry sale  
-    20-60% off
+*   shoe, handbag  
+    &. accessories  
+    25-60% off
     
     select styles
     
-*   3 days only!  
-    okie dokie sale
-
-*   Fall Fashion Sale
+*   carter's  
+    baby sale  
+    25-50% off
     
-    In store and online.
+    select styles
+    
+
+*   Fall Huge Sale
+    
+    In store and online. Ends September 21.
     
     shop the sale view store ad
     
-    30-40% Off Worthington apparel. Select styles.
+    30-40% Off Worthington. Select styles.
     
-    shop Worthington shop men's shop women's shop kids' shop baby shop shoes shop handbags and accessories shop home shop jewelry shop Worthington
+    shop Worthington shop men's shop women's shop kids' shop baby shop shoes shop handbags and accessories shop home shop jewelryNight and Day Doorbusters
+    
+    In store and online. Friday 3PM CDT through Saturday 1PM CDT. Use your coupon and save even more!
+    
+    shop doorbusters
 *   The Men's Store Introducing M Collection by Michael Strahan, only at JCPenney. shop the M CollectionMen's Semi-Annual Wardrobe Sale
     
     50% Off suit separates, sport coats and dress pants.
     
     shop the men's sale
-*   Billion Dollar Jewelry Sale
+*   The Shoe, Handbag and Accessories Event
     
-    Extra Savings | 4 Days Only! | Wed, Sept 9 through Tues, Sept 22
+    All you need to finish your look. Ends September 27.
     
-    Shop the Billion Dollar Jewelry Sale
+    25-40% Off Shoes shop shoes25-40% Off Handbags and Wallets shop handbags and wallets    30-60% Off Fashion Jewelry and Accessories
     
-    40 to 60% Off Fine Jewelry and Bijoux Bar
+    Select styles.
     
-    Shop Fine Jewelry and Bijoux Bar
+    shop fashion jewelry and accessories
+*   Carter's Baby Sale
     
-    20 to 50% Off Fine and Fashion Watches
+    In store and online. Now through September 27.
     
-    Shop Fine and Fashion Watches
+    25-50% Off Carter's
     
-    30 to 60% Off Fashion Jewelry
+    Select sizes.
     
-    Shop Fashion Jewelry
-    
-    Diamond Blossom
-    
-    $699.99 After extra 20% off with your JCPenney Credit Card and coupon\*. 3/4 ct. t.w. diamond 10K two-tone gold swirl pendant necklace or earrings, regularly $1458.31.
-    
-    $899.99 After extra 20% off with your JCPenney Credit Card and coupon\*. 1 ct. t.w. diamond 10K two-tone gold swirl ring, regularly $1874.98.
-    
-    $199.99 After extra 20% off with your JCPenney Credit Card and coupon\*. 2-pc. boxed set 1/10 ct. t.w. diamond in 10K yellow gold, regularly $624.98.
-    
-    Shop Diamond Blossom
-*   Hurry, three days only! $3.99 after extra 20% off with your JCPenney Credit Card and coupon\*
-    
-    Regularly $12. Select styles.
-    
-    shop baby and toddler Okie Dokie match-upsOkie Dokie only at JCPenney shop all Okie Dokie shop preschool
+    shop Carter's
 
 Home Sale 30-50% Off Home Collections
 
 Select styles.
 
-shop the home sale shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining explore the fall/winter catalog Star Wars™ Shop Star Wars People StyleWatch Must Haves
+shop the home sale shop bedding and bath shop window shop home decor shop furniture and mattresses shop kitchen and dining explore the fall/winter catalog SportsFanShop
+
+Get back in the game. Suit up in gear available for hundreds of pro and college teams. Excluded from coupon. A fanatics.com experience.
+
+shop SportsFanShop Star Wars™ Shop Star Wars People StyleWatch Must Haves
 
 Sponsored content
 
-Shop People StyleWatch It's Your Night Homecoming 2015 shop homecoming Check out our blog, Styled by JCPenney Read It Now
+Shop People StyleWatch It's Your Night Homecoming 2015 shop homecoming Download the JCPenney App and Get Shopping Check Out the App: Download on the App Store Get It On Google play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
