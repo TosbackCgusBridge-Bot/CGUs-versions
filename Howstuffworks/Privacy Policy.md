@@ -237,7 +237,7 @@ Last Updated On: May 30, 2014
 
 Print Cite This! Close  Please copy/paste the following text to properly cite this HowStuffWorks article:  
   
-"Privacy Policy"  01 April 2000.  HowStuffWorks.com. <http://www.howstuffworks.com/privacy.htm>.  16 September 2015. Citation &. Date Feedback
+"Privacy Policy"  01 April 2000.  HowStuffWorks.com. <http://www.howstuffworks.com/privacy.htm>.  17 September 2015. Citation &. Date Feedback
 
 *   About Us
 
@@ -248,56 +248,34 @@ Print Cite This! Close  Please copy/paste the following text to properly cite t
     *   Working for HowStuffWorks
     *   Freelance Writers: Apply to Write for HowStuffWorks
 
-CHECK OUT OUR PODCASTS HOWSTUFFWORKS NEWSLETTER THE LATEST AND GREATEST SUBSCRIBE HOWSTUFFWORKS
+CHECK OUT OUR PODCASTS
 
-*   Adventure
-*   Animals
-*   Auto
-*   Culture
-*   Entertainment
-*   Health
-*   Home &. Garden
-*   Lifestyle
-*   Money
-*   Science
-*   Tech
-
-MORE STUFF
-
+*   About
+*   Shows
 *   Store
-*   Blogs
-*   RSS
-*   Maps
-*   Podcasts
-*   Quizzes
-*   Newsletters
-*   Video
-*   Site Map
-*   HSW China
+*   Privacy
+*   Terms
 
-STUFF WEBSITES
-
-*   BrainStuff
-*   CarStuff
-*   Fw:Thinking
-*   Stuff Mom Never Told You
-*   Stuff of Genius
-*   Stuff They Don't Want You to Know
-*   Stuff to Blow Your Mind
-*   Stuff You Missed in History Class
-*   Stuff You Should Know
-
-CUSTOMER SERVICE
-
-*   Advertising
 *   Contact Us
+*   Sitemap
+*   Jobs at HowStuffWorks
+*   Advertising
 *   Help
 
-CORPORATE
+HSW ON THE GO
 
-*   About Us
-*   Careers @ HSW
-*   Privacy Policy
-*   Visitor Agreement
+Take us with you on your iPad, iPhone or favorite Android device.
 
-TAKE US WITH YOU FOLLOW US Copyright © 1998-2015 HowStuffWorks, a division of InfoSpace LLC
+NEWSLETTERS
+
+Get the best of HowStuffWorks by email. Keep up to date on:
+
+*   Latest Buzz
+*   Stuff Shows &. Podcasts
+*   Tours
+*   Weird &. Wacky
+
+Sign-up Now! Sign Up
+
+Copyright © 1998-2015 HowStuffWorks,  
+a division of InfoSpace LLC
