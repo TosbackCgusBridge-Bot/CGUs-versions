@@ -40,7 +40,7 @@ TV Videos Photos LOLs Games log in | sign up
 
 *   Family &. Kids
 
-*   Music &. Photos
+*   EMPIRE
 
 About Shockwave
 
