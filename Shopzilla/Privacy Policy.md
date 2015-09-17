@@ -27,6 +27,7 @@ Connexity
         *   In-market
         *   Lifestyle &. life stage
         *   Custom
+    *   Data as a Service
     *   Contextual Shopping Sites
     *   Retargeting
     *   Multi-screen
