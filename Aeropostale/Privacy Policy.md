@@ -1,4 +1,4 @@
-ENDS TODAY! online only! Extra 30% OFF CLEARANCE Code EXTRA30   Girls   Guys   ROOM
+EXTRA 25% OFF ONLINE USE CODE 25OFF   Girls   Guys  
 
 DETAILS
 
