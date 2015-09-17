@@ -19,6 +19,7 @@ Search Use up and down arrows to navigate suggestions.
 *   Insurance
 *   Investing and Retirement
 *   Wealth Management
+*   Rewards
 
 We're sorry, but some features of our site require JavaScript. Please enable JavaScript on your browser and refresh the page.
 
@@ -159,7 +160,7 @@ Wealth Solutions
 *   Specialized Wealth Services
 *   Trust Services
 
-Wealth Advice and Guidance
+Wealth Advice &. Guidance
 
 *   Wealth Management Insights
 *   _Conversations_ Magazine
@@ -169,6 +170,29 @@ Next Step
 *   Contact The Private Bank
 *   Contact Wells Fargo Advisors
 *   Contact Abbot Downing
+
+Rewards Rewards
+
+*   Wells Fargo Rewards®
+*   Earn Rewards
+*   Use Rewards
+*   Share Rewards
+
+Relationship Benefits
+
+*   Relationship Benefits Overview
+
+Your Financial Goals
+
+*   Banking Made Easy
+*   Borrowing and Credit
+*   Fraud Information Center
+
+Popular Links
+
+*   Sign On to Rewards
+*   Rewards FAQs
+*   Credit Cards
 
   
 
