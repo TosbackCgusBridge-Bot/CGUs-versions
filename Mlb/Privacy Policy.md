@@ -39,7 +39,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   120 Sports
     *   Podcasts
     *   Alternative Audio
-    *   THIS
+    *   MLB Awards
     *   Most Popular
     *   Baseball's Best Moments
     *   FAQs
@@ -49,7 +49,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     
     Featured
     *   #FilthiestPlays
-    *   Must C
+    *   MLB Awards
     *   Chatting Cage
     *   DraftKings
     *   Postseason Path
@@ -59,7 +59,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Pitch and Prevail
     *   Cut 4
     *   Daily Dash
-    *   THIS
+    *   Must C
 *   Stats Stats Stats
     *   Players
     *   Regular Season League Leaders
