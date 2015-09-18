@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13865263987
+true true C13868106665
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Wed Sep 16 11:25:37 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p15.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Thu Sep 17 09:59:42 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,97 +48,81 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store and Online
+12 Hours, 12 Deals!
 
-Ends September 19. Code: FALLSALE
+Today 12PM - 12AM CDT | Online Only
 
-$10 Off\* $25 or more.
+Extra 30% Off\* select original, regular, sale and clearance-priced items below
 
-print couponOnline Only
+Use code SHOPNOW2 at checkout
 
-Ends September 19. Code: FALLSHOP
+\*Exclusions and details:
 
-Or, Extra 25% Off\* $150 or more.
+Get these deals before time runs out!
 
-Or, Extra 20% Off\* $100 or more.
+50% Off Men's Tailored Clothing, select styles
 
-In Store and Online
+Shop Men's Tailored Clothing
 
-Ends September 19. Code: FALLSHOP
+40% Off Men's St. John's Bay Shirts, select styles
 
-Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
+Shop Men's St. John's Bay Shirts
 
-\*See exclusions and details.
+30% Off Women's Worthington Pants, select styles
 
-*   fall huge  
-    sale
-*   introducing  
-    collection  
-    by michael  
-    strahan
-*   shoe, handbag  
-    &. accessories  
-    25-60% off
-    
-    select styles
-    
-*   carter's  
-    baby sale  
-    25-50% off
-    
-    select styles
-    
+Shop Women's Worthington Pants
 
-*   Fall Huge Sale
-    
-    In store and online. Ends September 21.
-    
-    shop the sale view store ad
-    
-    30-40% Off Worthington. Select styles.
-    
-    shop Worthington shop men's shop women's shop kids' shop baby shop shoes shop handbags and accessories shop home shop jewelryNight and Day Doorbusters
-    
-    In store and online. Friday 3PM CDT through Saturday 1PM CDT. Use your coupon and save even more!
-    
-    shop doorbusters
-*   The Men's Store Introducing M Collection by Michael Strahan, only at JCPenney. shop the M CollectionMen's Semi-Annual Wardrobe Sale
-    
-    50% Off suit separates, sport coats and dress pants.
-    
-    shop the men's sale
-*   The Shoe, Handbag and Accessories Event
-    
-    All you need to finish your look. Ends September 27.
-    
-    25-40% Off Shoes shop shoes25-40% Off Handbags and Wallets shop handbags and wallets    30-60% Off Fashion Jewelry and Accessories
-    
-    Select styles.
-    
-    shop fashion jewelry and accessories
-*   Carter's Baby Sale
-    
-    In store and online. Now through September 27.
-    
-    25-50% Off Carter's
-    
-    Select sizes.
-    
-    shop Carter's
+40 to 50% Off Carter's Baby Apparel, select styles
 
-Home Sale 30-50% Off Home Collections
+Shop Carter's Baby Apparel
 
-Select styles.
+40% Off Kids' Arizona Apparel, select styles
 
-shop the home sale shop bedding and bath shop window shop home decor shop furniture and mattresses shop kitchen and dining explore the fall/winter catalog SportsFanShop
+Shop Kids' Arizona Apparel
 
-Get back in the game. Suit up in gear available for hundreds of pro and college teams. Excluded from coupon. A fanatics.com experience.
+40 to 50% Off Guys' Arizona Apparel, select styles
 
-shop SportsFanShop Star Wars™ Shop Star Wars People StyleWatch Must Haves
+Shop Guys' Arizona Apparel
 
-Sponsored content
+14.99 Entire Stock Underscore Bras, select styles
 
-Shop People StyleWatch It's Your Night Homecoming 2015 shop homecoming Download the JCPenney App and Get Shopping Check Out the App: Download on the App Store Get It On Google play
+Shop Underscore Bras
+
+60% Off Gold Jewelry, select styles
+
+Shop Gold Jewelry
+
+40 to 60% Off Sheets, select styles
+
+Shop Sheets
+
+40 to 50% Off Ready-Made Curtains, select styles
+
+Shop Ready-Made Curtains
+
+40 to 50% Off Juniors' Decree, select styles
+
+Shop Juniors' Decree
+
+40% Off Women's Stylus Apparel, select styles
+
+Shop Women's Stylus Apparel Home Sale
+
+30 to 50% Off Home Collections, select styles
+
+Shop Home Shop Bedding and Bath Shop Window Shop Home Decor Shop Furniture and Mattresses Shop Kitchen and Dining Get Back In The Game
+
+Suit up in gear available for hundreds of pro and college teams. Excluded from coupon.
+
+Shop SportsFanShop Now Star Wars™ Shop Star Wars Now People Style Watch Must Haves
+
+Sponsored Content
+
+Shop People Style Watch Now Homecoming 2015
+
+It's Your Night
+
+Shop Homecoming Now Download and Get Shopping Check Out The App Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
@@ -195,23 +179,7 @@ ABOUT US
 *   investors
 *   CA Transparency in Supply Chains Act
 
-JCPenney credit card pay bill check balance apply now Popular Searches
-
-*   labor day sales
-*   homecoming dresses
-*   womens dresses
-*   mens suits
-*   backpacks
-*   school uniforms
-*   athletic shoes
-*   girls shoes
-*   boys shoes
-*   mens watches
-*   womens watches
-*   curtains &. drapes
-*   mattresses
-*   area rugs
-*   bedding sets
+JCPenney credit card pay bill check balance apply now
 
 *   copyright
 *   privacy policy
