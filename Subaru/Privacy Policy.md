@@ -28,7 +28,7 @@ $25,395 MSRP
 
 Up to
 
-34/25MPG Hwy/City
+30/22MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
@@ -405,6 +405,7 @@ Enthusiasts
 *   Subaru Gear
 *   Drive Magazine
 *   Drive Performance
+*   Badge of Ownership
 
 Company
 
@@ -467,7 +468,7 @@ Legal Disclaimers
 
 Subaru has the utmost respect for the environment and is a proud partner of Leave No Trace. Care was taken not to harm the environment when taking this photo.
 
-Subaru, SUBARU BOXER, BRZ, Forester, Impreza, Legacy, Outback, STI, Tribeca, WRX, XV Crosstrek, and EyeSight are registered trademarks.
+Subaru, SUBARU BOXER, BRZ, Forester, Impreza, Legacy, Outback, STI, Tribeca, WRX, XV Crosstrek and EyeSight are registered trademarks.
 
 iPod and iPad are registered trademarks of Apple Inc.. Brembo is a registered trademark of Freni Brembo S.p.A.. Alcantara is a registered trademark of Alcantara S.p.A and Alcantara is produced by Toray Group.. TORSEN is a registered trademark of JTEKT Corporation.. BBS is a registered trademark of BBS Kraftfahrzeugtechnik AG.. Bluetooth is a registered trademark of Bluetooth SIG, Inc.. HomeLink is a registered trademark of Prince Corporation, a wholly owned subsidiary of Johnson Controls.. Aha and Harman Kardon are a registered trademarks of Harman International Industries, Inc.. Android is a trademark of Google Inc.. HD Radio is a registered trademark of iBiquity Digital Corporation.. Pandora is a registered trademark of Pandora Media, Inc.. SiriusXM and SiriusXM NavTraffic are registered trademarks of SiriusXM Satellite Radio, Inc.. iHeart is a registered trademark of Clear Channel.
 
