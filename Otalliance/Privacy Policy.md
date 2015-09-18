@@ -96,10 +96,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Wed, Sep 16, 2015 IoT Wearables - Deep Dive Into Device Security Practices
-
-Join the webinar to learn more of HP's recent research regarding security practices of leading IoT devices. Guest speaker Daniel Miessler, HP Security Researcher and internet security expert with over 20 years of hands-on experience, Daniel will share his latest research findings and recommendations and insights into how the IoT Trust framework can help address these threats.
-
 Tue, Sep 22, 2015 IoT Security 2015 - Boston Mass
 
 IoT Security 2015 is the first event of its kind to focus on the security and privacy issues surrounding IoT and managing the information and data associated with the ever increasing amount of connected devices and appliances. Attracting decision makers, stakeholders and investors together under roof, Internet of Things Security boasts a C-Level executive speaker line-up with interactive round table sessions, case studies and networking breaks designed to instigate discussion and enabling business opportunities.
@@ -107,6 +103,14 @@ IoT Security 2015 is the first event of its kind to focus on the security and pr
 Mon, Oct 19, 2015 Sailthru Lift 2015 - The Art &. Science of Modern Marketing
 
 Marketing is in the midst of an industrial revolution: consumers are changing, commerce and monetization are shifting, data is growing, and competition is smarter, faster than ever before.  Leading marketers are focused on transforming the customer lifetime experience. They’re looking for solutions to bring themselves closer to consumers than ever before while face-to-face interactions are fewer and far between.
+
+Wed, Nov 11, 2015 14th annual Seattle SecureWorld Conference
+
+SecureWorld's programs are created to tackle the complexities of cybersecurity with solution-oriented education. The conference will provide networking opportunities designed for IT and security professionals. OTA is proud to be an association sponsor and speaker since 2012.  Take advantage of our event discounts  by using the following codes:
+
+*   SEA4P for $200 off the SecureWorld Plus Pass
+*   SEA4 for $100 off the Conference Pass
+*   SEA4E for $25 off the Open Sessions Pass - Lunch &. CPE's not   included with this pass
 
 Mon, Nov 16, 2015 DC Salon Dinner &. Reception - Cross Device Tracking &. IoT
 
