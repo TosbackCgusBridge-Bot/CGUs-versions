@@ -1,6 +1,6 @@
 BACKCOUNTRY LEGAL NOTICES EFFECTIVE FEBRUARY 17, 2015
 
-Thank you for visiting the Backcountry.com, LLC. family of websites, which include Backcountry.com, Competitivecyclist.com, Chainlove.com, SteepandCheap.com, and WhiskeyMilitia.com (collectively, “Backcountry”). All sites, including mobile applications, are referred to in these notices as the “Sites,” and Backcountry is referred to as “we” or “us.” End users such as yourself are referred to as “you.” By visiting our Sites, you agree to these Terms &. Conditions of Site Use, our Privacy Policy, and our Copyright Policy. You agree that our provision of the Sites and associated services would not be possible on the same terms without your agreement to these terms and policies. Please read them carefully.
+Thank you for visiting the Backcountry.com, LLC. family of websites, which include Backcountry.com, Competitivecyclist.com, SteepandCheap.com, and WhiskeyMilitia.com (collectively, “Backcountry”). All sites, including mobile applications, are referred to in these notices as the “Sites,” and Backcountry is referred to as “we” or “us.” End users such as yourself are referred to as “you.” By visiting our Sites, you agree to these Terms &. Conditions of Site Use, our Privacy Policy, and our Copyright Policy. You agree that our provision of the Sites and associated services would not be possible on the same terms without your agreement to these terms and policies. Please read them carefully.
 
 Jump to:
 
