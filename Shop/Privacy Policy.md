@@ -20,7 +20,7 @@ LENOVO Menu
         8.  Deals for Students and Educators
         9.  Outlet
         10.  Warranty-Sale
-    *   Game Changing Savings. Touchdown to Deals!
+    *   Fall Into Savings. Get These Deals Before They Drift Away.
         
         Save up to 68% Site-Wide.
         
