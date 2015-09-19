@@ -1,4 +1,4 @@
-**Last Revised: August 26, 2015**
+**Last Revised: September 17, 2015**
 
 **PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -344,7 +344,7 @@ You agree to comply with Registry’s Acceptable Use policies and Terms of Servi
 
 You agree to indemnify, defend and hold harmless the Registry Operator and Registry Service Provider and their subcontractors, subsidiaries, affiliates, divisions, shareholders, directors, officers, employees, accountants, attorneys, insurers, agents, predecessors, successors and assigns, from and against any and all claims, demands, damages, losses, costs, expenses, causes of action or other liabilities of any kind, whether known or unknown, including reasonable legal and attorney’s fees and expenses, in any way arising out of, relating to, or otherwise in connection with the your domain name registration.  The registration agreement shall further require that this indemnification obligation survive the termination or expiration of the registration agreement.
 
-**20\. PROVISIONS SPECIFIC TO CentralNic REGISTRATIONS: .BAR. .capital. .cricket. .DESIGN. .engineering. .exchange. .gripe. .ink. .party. .RESt. .science. .SITE. .SPace .wiki. .xyz**
+**20\. PROVISIONS SPECIFIC TO CentralNic REGISTRATIONS: .BAR. .capital. .cricket. .DESIGN. .engineering. .exchange. .gripe. .ink. .party. .RENT. .RESt. .science. .SITE. .SPace .wiki. .xyz**
 
 You agree to comply with the following requirements: a) ICANN standards, policies, procedures, and practices for which Registry Operator has monitoring responsibility in accordance. and b) operational standards, policies, procedures, and practices for the Registry TLD established from time to time by Registry Operator and any additional or revised operational standards, policies, procedures, and practices for the Registry TLD.
 
