@@ -119,6 +119,10 @@ Join FTC Commissioner Julie Brill, Congresswoman Suzan DelBene and members of Co
 *   OTA Blog
 *   Newsletters
 
+Fri, Sep 18, 2015 Does Your Favorite Presidential Candidate Make the Grade?
+
+As the Presidential race kicks into high gear, voters are evaluating how candidates will tackle tough issues on foreign and domestic policy.  Let’s hope they don’t overlook topics relating to online privacy and security.  A recent Pew Research Center survey indicates that 74% of Americ
+
 Mon, Aug 31, 2015 An Open Letter to The Presidential Candidates
 
 As campaigns ramp up for candidates, political parties and super PACs, it is time for politicians to think about the privacy, security and sensitivity of the information their donors and constituents entrust to them.  The nation has been alarmed by data collection practices in the public and private sector, including those of the NSA.  Now candidates must examine their own practices.  Digital data is the lifeblood of the economy but it is being exploited daily by cyber-criminals and state sponsored actors placing America at the crossroads of a trust meltdown, underscoring the
@@ -132,10 +136,6 @@ Fri, Jul 31, 2015 The Demise of Online Advertising As We Know it
 Updated 8-4-15
 
 Recent news is troubling as the tide has clearly turned on the online advertising community.  As I outlined nearly five years ago, the failure of the industry to put in place meaningful controls and consumer choice regarding data collection AND stem the tide of malicious advertising will bring about a “tragedy of the advertising commons”. 
-
-Mon, Jul 6, 2015 Q&A with OTA – Creating an IoT Trust Framework
-
-Guest Blog from Global Sign - I’m excited to have a guest on today’s blog – Craig Spiezle, the Executive Director and President of the Online Trust Alliance (OTA). The OTA is well known for its online security initiatives, including Data Privacy and Protection Day and the annual Online Trust Audit and Honor Roll, and earlier this year announced it was expanding its sights to the Internet of Things (IoT).
 
 Resources
 
