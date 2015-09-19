@@ -26,7 +26,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             
             *   New Arrivals
             *   Best of Fall 2015
-            *   Jeans Guide
+            *   Outerwear Guide
             *   Activewear Collection
             *   Sale
         *   Shop By Size Range
@@ -59,12 +59,13 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Men
         *   Featured Shops
             *   Back to Men Featured Shops
+            *   Outerwear Guide
             *   Jeans Guide
             *   No Iron Shop
-            *   2015 Polo Shop
             *   Supima Shirts &. Sweaters
             
             *   New Arrivals
+            *   Best of Fall 2015
             *   Tailored Fit Shop
             *   Slim Fit Shop
             *   Sale
@@ -170,10 +171,10 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Shoes
         *   Featured Shops
             *   Back to Shoes Featured Shops
-            *   Accessories Shop
-            *   Boots &. Booties
+            *   Snow Boots
+            *   Hats, Gloves &. Scarves
+            *   Long Underwear
             *   Totes &. Handbags
-            *   Backpacks &. Lunch Boxes
             
             *   New Arrivals
             *   Sale
@@ -187,6 +188,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Back to Shoes Men
             *   Shoes
             *   Accessories
+            *   Bags
             *   Underwear &. Long Underwear
         *   Girls'
             *   Back to Shoes Girls'
@@ -206,9 +208,9 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Back to Home Featured Shops
             *   New Arrivals
             *   Supima Bedding &. Bath
-            *   Egyptian Cotton Collection
+            *   Flannel Bedding
             *   No Iron Bedding
-            *   Bedding Collections
+            *   Home Buying Guide
             *   Sale
     *   *   Bedding
             *   Back to All Home Bedding
