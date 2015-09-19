@@ -7,8 +7,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 
 *   Gifts
     *   Gift Boxes
-    *   Gift Baskets
-        
+    *   Gift Baskets and Towers
     *   Business Gifts
         
     *   Military Gifts
@@ -23,39 +22,41 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 *   Sausage &. Cheese
     *   Sausage &. Cheese Gifts
     *   Cheese
-        
+        *   Cheese (Ball)
+    *   Hickory Farms Reserve
     *   Beef Summer Sausage
     *   Turkey Summer Sausage
-    *   Dry Aged Salami
+    *   Dry Salami
 *   Fruit &. Nuts
     *   Fruit Baskets
         
     *   Nuts
 *   Wine
+    *   Wine Gifts
+    *   Wine (Cheese Combo)
 *   Sweets
 *   Specialty Foods
+    *   HoneyGold Ham ®
     *   Mustards &. Spreads
         
-    *   Gluten Free
     *   Crackers
-    *   HoneyGold Ham ®
-    *   Pfaelzer Brothers Steak &. Seafood
     *   Hickory Farms Reserve
+    *   Pfaelzer Brothers Steak &. Seafood
+    *   Gluten Free
 *   Shop By Price
     *   Gifts $20 &. Under
     *   Gifts $30 &. Under
     *   Gifts $40 &. Under
     *   Gifts Under $50
-    *   Gifts $50 &. Over
-    *   Gifts $90 &. Over
+    *   Gifts Over $50
+    *   Gifts Over $90
 *   Specials
 
 Menu Search Stores Cart Gifts Sausage &. Cheese
 
 *   Gifts
     *   Gift Boxes
-    *   Gift Baskets
-        
+    *   Gift Baskets and Towers
     *   Business Gifts
         
     *   Military Gifts
@@ -70,31 +71,34 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
 *   Sausage &. Cheese
     *   Sausage &. Cheese Gifts
     *   Cheese
-        
+        *   Cheese (Ball)
+    *   Hickory Farms Reserve
     *   Beef Summer Sausage
     *   Turkey Summer Sausage
-    *   Dry Aged Salami
+    *   Dry Salami
 *   Fruit &. Nuts
     *   Fruit Baskets
         
     *   Nuts
 *   Wine
+    *   Wine Gifts
+    *   Wine (Cheese Combo)
 *   Sweets
 *   Specialty Foods
+    *   HoneyGold Ham ®
     *   Mustards &. Spreads
         
-    *   Gluten Free
     *   Crackers
-    *   HoneyGold Ham ®
-    *   Pfaelzer Brothers Steak &. Seafood
     *   Hickory Farms Reserve
+    *   Pfaelzer Brothers Steak &. Seafood
+    *   Gluten Free
 *   Shop By Price
     *   Gifts $20 &. Under
     *   Gifts $30 &. Under
     *   Gifts $40 &. Under
     *   Gifts Under $50
-    *   Gifts $50 &. Over
-    *   Gifts $90 &. Over
+    *   Gifts Over $50
+    *   Gifts Over $90
 *   Specials
 
 Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
