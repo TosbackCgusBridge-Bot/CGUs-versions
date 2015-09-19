@@ -14,8 +14,8 @@ The links below provide you access to Charter's current policies &. agreements.
     *   Complaint Procedures for Michigan
 *   Network Management Practices
 *   Annual Notices
-    *   2014 Annual Notice (PDF)
-    *   Espanol 2014 Annual Notice (PDF)
+    *   2015 Annual Notice (PDF)
+    *   Espanol 2015 Annual Notice (PDF)
 *   Rate Card Information
 *   Internet Speed &. Pricing Information
     *   Internet Speed &. Pricing Information (PDF)
