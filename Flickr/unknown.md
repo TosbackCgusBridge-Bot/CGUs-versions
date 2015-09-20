@@ -10,7 +10,8 @@
     *   Flickr Blog
 *   Create
 
-*   _Upload_
+*   Upload
+
 *   Sign In
 *   Sign Up
 
