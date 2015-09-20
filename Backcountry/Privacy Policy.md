@@ -172,7 +172,7 @@ If your submission of User Content or any portion of it is removed, or access to
 We may terminate your access to the Site(s) without notice if, under appropriate circumstances, we determine that you are a repeat infringer.  
 DMCA notices and counter-notices should be submitted to our designated agent for receiving such notices, which is our Legal Department at:  
   
-Backcountry.com, LCC.  
+Backcountry.com, LLC.  
 Attn: Legal Department  
 1678 West Redstone Center Drive  
 Park City, UT 84098  
