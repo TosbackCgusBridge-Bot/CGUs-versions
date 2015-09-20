@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true 10.60.248.10 L13974456257
+true true L13976215096
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p32.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Fri Sep 18 10:52:12 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p20.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Sat Sep 19 07:53:25 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -195,7 +195,23 @@ ABOUT US
 *   investors
 *   CA Transparency in Supply Chains Act
 
-JCPenney credit card pay bill check balance apply now
+JCPenney credit card pay bill check balance apply now Popular Searches
+
+*   labor day sales
+*   homecoming dresses
+*   womens dresses
+*   mens suits
+*   backpacks
+*   school uniforms
+*   athletic shoes
+*   girls shoes
+*   boys shoes
+*   mens watches
+*   womens watches
+*   curtains &. drapes
+*   mattresses
+*   area rugs
+*   bedding sets
 
 *   copyright
 *   privacy policy
