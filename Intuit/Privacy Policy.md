@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13976215096
+true true L13978576514
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p20.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Sat Sep 19 07:53:25 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p19.jcpenney.com SERVER NAME :->. dtcomexpr1l1j2 TIME :->. Sun Sep 20 04:52:01 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,97 +48,49 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store and Online
+VIP Event -- Exclusive Savings Fit Just For You! In Store and Online | Ends 9/22 | Code: VIP
 
-Ends September 19. Code: FALLSALE
+Extra 25% Off\* with your JCPenney Credit Card
 
-$10 Off\* $25 or more.
+Or, Extra 20% Off\* with any other form of payment on apparel, shoes, accessories, fine jewelry and home.
 
-print couponOnline Only
+Or, an Extra 15% Off\* watches, salon products, portrait, optical, furniture, mattresses and custom blinds &. shades.
 
-Ends September 19. Code: FALLSHOP
+\*25% Off subject to credit approval. All offers apply to select orig., reg., sale and clearance items.
 
-Or, Extra 25% Off\* $150 or more.
+  Shop the VIP Event Print Coupon See offer exclusions and details: Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Accessories Shop Jewelry Shop Home Women's Clothing For Day Or Night Liz Claiborne Event -- Now through September 27th
 
-Or, Extra 20% Off\* $100 or more.
+30 to 50% Off Liz Claiborne Apparel, select styles
 
-In Store and Online
+Shop Liz Claiborne Men's Suits From Stafford and More Men's Semi-Annual Wardrobe Sale
 
-Ends September 19. Code: FALLSHOP
+50% Off Men's Suit Separates, select styles
 
-Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
+Shop Suit Separates Shop Men's Semi-Annual Wardrobe Sale Update Your Kitchen With Small Appliances Home Sale
 
-\*See exclusions and details.
+30 to 50% Off Home Collections, select styles
 
-*   fall huge  
-    sale
-*   introducing  
-    collection  
-    by michael  
-    strahan
-*   shoe, handbag  
-    &. accessories  
-    25-60% off
-    
-    select styles
-    
-*   carter's  
-    baby sale  
-    25-50% off
-    
-    select styles
-    
+Shop Home Sale
 
-*   Fall Huge Sale
-    
-    In store and online. Ends September 21.
-    
-    shop the sale view store ad
-    
-    30-40% Off Worthington. Select styles.
-    
-    shop Worthington shop men's shop women's shop kids' shop baby shop shoes shop handbags and accessories shop home shop jewelryNight and Day Doorbusters
-    
-    In store and online. Friday 3PM CDT through Saturday 1PM CDT. Use your coupon and save even more!
-    
-    shop doorbusters
-*   The Men's Store Introducing M Collection by Michael Strahan, only at JCPenney. shop the M CollectionMen's Semi-Annual Wardrobe Sale
-    
-    50% Off suit separates, sport coats and dress pants.
-    
-    shop the men's sale
-*   The Shoe, Handbag and Accessories Event
-    
-    All you need to finish your look. Ends September 27.
-    
-    25-40% Off Shoes shop shoes25-40% Off Handbags and Wallets shop handbags and wallets    30-60% Off Fashion Jewelry and Accessories
-    
-    Select styles.
-    
-    shop fashion jewelry and accessories
-*   Carter's Baby Sale
-    
-    In store and online. Now through September 27.
-    
-    25-50% Off Carter's
-    
-    Select sizes.
-    
-    shop Carter's
+NutriBullet, Ninja and Keurig K10 -- 79.99 ea. | Excluded from Coupon
 
-Home Sale 30-50% Off Home Collections
+Shop Small Appliances Dazzling Deals On Fine Jewelry Billion Dollar Jewelry Sale
 
-Select styles.
+40 to 60% Off Fine Jewelry and Bijoux Bar, select styles
 
-shop the home sale shop bedding and bath shop window shop home decor shop furniture and mattresses shop kitchen and dining explore the fall/winter catalog SportsFanShop
+Shop Fine Jewelry and Bijoux Bar SportsFanShop
 
-Get back in the game. Suit up in gear available for hundreds of pro and college teams. Excluded from coupon. A fanatics.com experience.
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-shop SportsFanShop Star Wars™ Shop Star Wars People StyleWatch Must Haves
+Shop SportsFanShop Star Wars™ Shop Star Wars Now New Markdowns! | Red Zone Clearance
 
-Sponsored content
+60 to 80% Off when you use 20% Off coupon or code: VIP
 
-Shop People StyleWatch It's Your Night Homecoming 2015 shop homecoming Download the JCPenney App and Get Shopping Check Out the App: Download on the App Store Get It On Google play
+Shop Clearance Now Homecoming 2015
+
+It's Your Night
+
+Shop Homecoming Now
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
