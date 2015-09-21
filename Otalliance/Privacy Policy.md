@@ -112,9 +112,9 @@ Wed, Nov 11, 2015 14th annual Seattle SecureWorld Conference
 
 SecureWorld's programs are created to tackle the complexities of cybersecurity with solution-oriented education. The conference will provide networking opportunities designed for IT and security professionals. OTA is proud to be an association sponsor and speaker since 2012.  Take advantage of our event discounts  by using the following codes:
 
-*   SEA4P for $200 off the SecureWorld Plus Pass
-*   SEA4 for $100 off the Conference Pass
-*   SEA4E for $25 off the Open Sessions Pass - Lunch &. CPE's not   included with this pass
+SEA4P for $200 off the SecureWorld Plus Pass  
+SEA4 for $100 off the Conference Pass  
+SEA4E for $25 off the Open Sessions Pass - (Lunch &. CPE's not included)
 
 *   OTA Blog
 *   Newsletters
