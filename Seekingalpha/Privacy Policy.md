@@ -33,6 +33,7 @@ Seeking Alpha
 *   Email Settings
 
 *   My Authors
+*   Home
 *   Portfolio
 *   News
 *   Articles
