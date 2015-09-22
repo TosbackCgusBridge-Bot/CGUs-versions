@@ -95,12 +95,12 @@ Search form Search Search
     *   Contact Us
 *   Careers
 
-We Know Your Customers better than anyone. 80 billion interactions  
+CASE STUDY:  
+CABELA’S How we brought millions of personalized messages to the right people. Learn More We Know Your Customers better than anyone. 80 billion interactions  
 a day prove it. Learn more WE MAKE OVER A TRILLION REAL-TIME  
 DECISIONS every day, for billions of interactions. Visit Our Blog RECOGNIZING  
 REAL PEOPLE is what we do best—at 1 million  
-requests per second. Learn more 10X MORE BANG  
-FOR YOUR BUCK our client programs average 10X incremental return on ad spend. Contact Us CONNECT TO MILLIONS, ONE PERSON AT A TIME. Conversant Media FOR MARKETING &. MEDIA PROFESSIONALS
+requests per second. Learn more CONNECT TO MILLIONS, ONE PERSON AT A TIME. Conversant Media FOR MARKETING &. MEDIA PROFESSIONALS
 
 Have meaningful, ongoing conversations with millions of real people, across all of their devices.
 
