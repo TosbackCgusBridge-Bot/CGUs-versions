@@ -159,7 +159,7 @@ Initiatives
 *   Public Policy
 *   Security
 
-Best Practices Committees News &. Events
+News &. Events
 
 *   OTA In The News
 *   Press Releases
