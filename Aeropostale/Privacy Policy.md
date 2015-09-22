@@ -1,4 +1,4 @@
-ENDS TOMORROW! Extra 25% OFF Online Use Code 25OFF   Girls   Guys   IN STORE GET COUPON
+ENDS TODAY! Extra 25% OFF Online Use Code 25OFF   Girls   Guys   IN STORE GET COUPON
 
 DETAILS
 
