@@ -34,7 +34,7 @@ Search × Site / Articles City / Country Social × Share this page / Follow us o
     *   Calendar 2015
     *   Calendar 2016
     *   Monthly Calendar
-    *   Easy-Print PDF Calendar
+    *   Printable PDF Calendar
     *   Add your own Calendar Events
     *   Calendar Creator
     *   Advanced Calendar Creator
