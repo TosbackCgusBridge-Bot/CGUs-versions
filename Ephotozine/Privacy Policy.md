@@ -23,7 +23,7 @@ If we do want to collect personally identifiable information through any of the 
   
 We also allow cookies to be set by a number of independent measurement, advertising and research companies. These companies read and write their own cookies onto your devices. In most cases, these cookies are used to track the adverts and keep count of the number of times that each advert is viewed by users. We use this type of information to help improve the services the website provides to you and help to ensure that adverts you see online are more relevant to you and your interests.  
   
-You have the ability to accept or decline cookies. Most web browsers are initially set up to automatically accept cookies, but you can set your browser to refuse all cookies or to indicate when a cookie is being sent. However, please be aware that should you choose to disable cookies it may prevent you from taking full advantage of our website and some of this and many other websites may fail to work.  
+You have the ability to accept or decline cookies. Most web browsers are initially set up to automatically accept cookies, but you can set your browser to refuse all cookies or to indicate when a cookie is being sent. However, please be aware that should you choose to disable cookies it may prevent you from taking full advantage of our website and some of this, and other websites, may fail to work.  
   
 **When your register**  
 When you register to join in our forums, post photographs in the gallery or sign up for our newsletter we request your name and email address in addition to the non-identifiable information.  
