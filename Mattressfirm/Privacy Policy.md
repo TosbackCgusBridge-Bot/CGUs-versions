@@ -9,7 +9,7 @@ Mattress Firm is committed to making your search for the perfect mattress and a 
 Rest Easy: What do we collect?  
 
 **Personal Information:**  
-We only collect personal information from you when you: 1) register on the Site, 2) complete a survey, 3) contact us. and 4) order products and services.  
+We only collect personal information from you when you: 1) register on the Site, 2) complete a survey, 3) contact us. and 4) order products and services. In order to guard against fraud, we may on occasion verify and/or supplement the Personal Information you submitted to us with information from third party sources.  
 
 **Non-personal Information:**  
 As part of the standard operation of the Site, we may collect certain non-personal information from you, including, but not limited to your Internet IP address, browser type, domain name, operating system, and referring website addresses. In addition, we may collect information about your browsing behavior, such as the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing the Site, the number of times you return to the Site and other click-stream data. This helps us assist you by allowing us to understand how visitors use our services. This data also becomes part of your unique profile and allows us to make your shopping experience beneficial.  
