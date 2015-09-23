@@ -1,4 +1,4 @@
-**Last Revised: September 21, 2015**
+**Last Revised: September 22, 2015**
 
 **PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -536,7 +536,7 @@ You agree to comply with the following requirements: a) ICANN standards, policie
 
 You agree to indemnify, defend and hold harmless Registry Operator, CentralNic and their subcontractors, and the directors, officers, employees, affiliates and agents of each of them, from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses, arising out of or relating to your domain name registration. This indemnification obligation survive the termination or expiration of the Agreement.
 
-45\. provisions specific to ALL Starting Dot TLD registrations: .archi. .bio
+45\. provisions specific to ALL Starting Dot TLD registrations: .archi. .bio. .SKI
 
 You agree to comply with the following requirements: a) ICANN standards, policies, procedures, and practices for which Registry Operator has monitoring responsibility in accordance. and b) operational standards, policies, procedures, and practices for the Registry TLD established from time to time by Registry Operator and any additional or revised operational standards, policies, procedures, and practices for the Registry TLD.
 
