@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: June 30, 2015**
+**Last Revised: September 22, 2015**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -115,9 +115,9 @@ If you have a website or other content hosted by GoDaddy, you shall retain all o
 
 By posting or publishing User Content to this Site or through the Services, you authorize GoDaddy to use the intellectual property and other proprietary rights in and to your User Content to enable inclusion and use of the User Content in the manner contemplated by this Site and this Agreement.  You hereby grant GoDaddy a worldwide, non-exclusive, royalty-free, sublicensable (through multiple tiers), and transferable license to use, reproduce, distribute, prepare derivative works of, combine with other works, display, and perform your User Content in connection with this Site, the Services and GoDaddy’s (and GoDaddy’s affiliates’) business(es), including without limitation for promoting and redistributing all or part of this Site in any media formats and through any media channels without restrictions of any kind and without payment or other consideration of any kind, or permission or notification, to you or any third party. You also hereby grant each User of this Site a non-exclusive license to access your User Content (with the exception of User Content that you designate “private” or “password protected”) through this Site, and to use, reproduce, distribute, prepare derivative works of, combine with other works, display, and perform your User Content as permitted through the functionality of this Site and under this Agreement. The above licenses granted by you in your User Content terminate within a commercially reasonable time after you remove or delete your User Content from this Site. You understand and agree, however, that GoDaddy may retain (but not distribute, display, or perform) server copies of your User Content that have been removed or deleted. The above licenses granted by you in your User Content are perpetual and irrevocable.  Notwithstanding anything to the contrary contained herein, GoDaddy shall not use any User Content that has been designated “private” or “password protected” by you for the purpose of promoting this Site or GoDaddy’s (or GoDaddy’s affiliates’) business(es). 
 
-****8**. FREE PRODUCT CREDITS**
+****8**. PRODUCT CREDITS**
 
-In the event you are provided with a free product credit (“Credit”) with the purchase of another product (“Purchased Product”), you acknowledge and agree that such Credit is only valid for one year and is only available with a valid purchase and may be terminated in the event the product purchases is deleted, cancelled, transferred or not renewed.  You acknowledge and agree that we may swap your Credit for a similar product, in our sole discretion.  The Credit will expire one (1) year from date of purchase of the Purchased Product if the Credit has not been redeemed.  In the event that the Credit is redeemed, after the initial free one year period, the free product will automatically renew at the then-current renewal price until cancelled. If you wish to cancel the automatic renewal of the product, you may do so by visiting your  Account and turning off the auto-renewal feature, or by contacting customer service.  In the event your Purchased Product includes a free domain name, if you cancel the Purchased Product, the standard price for the domain name will be deducted from the refund amount.
+In the event you are provided with a product credit (“Credit”), whether for redemption of the purchase of a specific product or for free with the purchase of another product (“Purchased Product”), you acknowledge and agree that such Credit is only valid for one (1) year and is only available with a valid purchase and may be terminated in the event the product purchased is deleted, cancelled, transferred or not renewed.The Credit will expire one (1) year from date of purchase of the Purchased Product if the Credit has not been redeemed.  In the event that the Credit is redeemed, after the initial subscription period, the product will automatically renew at the then-current renewal price until cancelled. If you wish to cancel the automatic renewal of the product, you may do so by visiting your Account and turning off the auto-renewal feature, or by contacting customer service.  In the event your Purchased Product includes a free domain name, if you cancel the Purchased Product, the standard price for the domain name will be deducted from the refund amount. For Credits issues for free with another Purchased Product, you acknowledge and agree that we may swap your Credit for a similar product, in our sole discretion. 
 
 ****9**. MONITORING OF CONTENT. ACCOUNT TERMINATION POLICY**
 
@@ -774,5 +774,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 6/30/15  
+Revised: 9/22/15  
 Copyright © 2005-2015 GoDaddy.com, LLC All Rights Reserved.
