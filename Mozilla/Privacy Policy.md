@@ -1,9 +1,9 @@
 Mozilla Menu
 
-*   Mission
 *   About
-*   Products
-*   Get Involved
+*   Participate
+*   Firefox
+*   Donate
 
 Home >. Mozilla Privacy >. Websites, Communications &. Cookies Privacy Notice
 
@@ -83,4 +83,4 @@ Portions of this content are ©1998–2015 by individual mozilla.org contributor
     *   Facebook (Firefox)
     *   YouTube (firefoxchannel)
 
-Other languages: عربيবাংলা (বাংলাদেশ)বাংলা (ভারত)DeutschΕλληνικάEnglishEspañol (de España)Françaisहिन्दीBahasa IndonesiaItaliano日本語МакедонскиPolskiPortuguês (do Brasil)РусскийKiswahiliதமிழ் Go
+Other languages: عربيবাংলা (বাংলাদেশ)বাংলা (ভারত)ČeštinaDeutschΕλληνικάEnglishEspañol (de España)Françaisहिन्दीHrvatskimagyarBahasa IndonesiaItaliano日本語МакедонскиPolskiPortuguês (do Brasil)RomânăРусскийСрпскиKiswahiliதமிழ் Go
