@@ -1,11 +1,3 @@
-ENDS TODAY! Extra 25% OFF Online Use Code 25OFF   Girls   Guys   IN STORE GET COUPON
-
-DETAILS
-
-FREE SHIPPING ON $75
-
-DETAILS
-
 Aéropostale
 
 *   Girls
