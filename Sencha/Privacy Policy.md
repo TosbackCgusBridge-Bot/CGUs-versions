@@ -54,6 +54,7 @@ Sencha
 
 *   Support
 *   Forum
+*   Docs
 *   Resources
 *   Blog
 *   Contact Us
