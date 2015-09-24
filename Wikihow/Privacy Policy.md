@@ -252,7 +252,7 @@ Attn: DMCA Notice
 
 wikiHow, Inc.  
 Address:  
-250 Emerson St  
+530 Lytton Avenue, 2nd Floor  
 Palo Alto, CA 94301  
 Telephone: (650) 492-8008  
 Email: wiki@wikihow.com  
@@ -366,7 +366,7 @@ General Questions and Help
 Snail Mail
 
 wikiHow  
-250 Emerson St  
+530 Lytton Avenue, 2nd Floor  
 Palo Alto, CA 94301
 
 Press Inquiries
