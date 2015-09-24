@@ -221,13 +221,11 @@ Experian and the Experian marks used herein are service marks or registered trad
 *   Malaysia
 *   Mexico
 
-*   Monaco
 *   Morocco
 *   Netherlands
 *   New Zealand
 *   Norway
 *   Poland
-*   Romania
 *   Russia
 *   Singapore
 *   South Africa
