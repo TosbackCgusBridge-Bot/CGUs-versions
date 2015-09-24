@@ -96,10 +96,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Sep 22, 2015 IoT Security 2015 - Boston Mass
-
-IoT Security 2015 is the first event of its kind to focus on the security and privacy issues surrounding IoT and managing the information and data associated with the ever increasing amount of connected devices and appliances. Attracting decision makers, stakeholders and investors together under roof, Internet of Things Security boasts a C-Level executive speaker line-up with interactive round table sessions, case studies and networking breaks designed to instigate discussion and enabling business opportunities.
-
 Fri, Sep 25, 2015 2016 Presidential Candidate Online Trust Audit
 
 Join OTA for a briefing of the 2016 Presidential Candidate Online Trust Audit, revealing key data and best practices for all sites to consider.  Following the review of the findings a panel of, privacy experts including Jules Polonetsky, Executive Director, Future of Privacy Forum, Craig Spiezle, Executive Director of OTA  and others share their views and need for "responsible data privacy practices"  for both the public and private sectors.
@@ -115,6 +111,10 @@ SecureWorld's programs are created to tackle the complexities of cybersecurity w
 SEA4P for $200 off the SecureWorld Plus Pass  
 SEA4 for $100 off the Conference Pass  
 SEA4E for $25 off the Open Sessions Pass - (Lunch &. CPE's not included)
+
+Mon, Nov 16, 2015 DC Salon Dinner &. Reception - Cross Device Tracking &. IoT
+
+Join FTC Commissioner Julie Brill, Congresswoman Suzan DelBene and members of Congress discuss the evolving world of privacy and the challenges and opportunities of the cross device tracking and  "Internet of Things".  This off-the-record dinner is a unique opportunity for invited guests to discuss the world of big data, role of innovation and the impact on consumer trust and confidence. Attend to get an insider’s view on trends, trheats and opportunities.
 
 *   OTA Blog
 *   Newsletters
