@@ -33,7 +33,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Nuts
 *   Wine
     *   Wine Gifts
-    *   Wine (Cheese Combo)
+    *   Wine &. Cheese Combo
 *   Sweets
 *   Specialty Foods
     *   HoneyGold® Ham
@@ -82,7 +82,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Nuts
 *   Wine
     *   Wine Gifts
-    *   Wine (Cheese Combo)
+    *   Wine &. Cheese Combo
 *   Sweets
 *   Specialty Foods
     *   HoneyGold® Ham
