@@ -12,7 +12,6 @@
     *   Find an Agency Partner
     *   Become an Agency Partner
     *   Become a Technology Partner
-    *   Partner Summer Webinar Series
 *   Library
     *   Blog
     *   Case Studies
