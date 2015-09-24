@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13885035301
+true true L13990922479
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Tue Sep 22 08:04:15 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p30.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Wed Sep 23 04:03:04 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,49 +48,51 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-VIP Event -- Exclusive Savings Fit Just For You! In Store and Online | Ends 9/22 | Code: VIP
+$10 Off\* $25 or More
 
-Extra 25% Off\* with your JCPenney Credit Card
+In Store and Online | Ends 9/27 | Code: TENOFF25
 
-Or, Extra 20% Off\* with any other form of payment on apparel, shoes, accessories, fine jewelry and home.
+Print CouponOr, Extra 20% Off\* $100 or More
 
-Or, an Extra 15% Off\* watches, salon products, portrait, optical, furniture, mattresses and custom blinds &. shades.
+Online Only | Ends 9/27 | Code: BUYNMORE
 
-\*25% Off subject to credit approval. All offers apply to select orig., reg., sale and clearance items.
+Or, Extra 25% Off\* $150 or More
 
-  Shop the VIP Event Print Coupon See offer exclusions and details: Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Accessories Shop Jewelry Shop Home Women's Clothing For Day Or Night Liz Claiborne Event -- Now through September 27th
+Online Only | Ends 9/27 | Code: BUYNMORE
 
-30 to 50% Off Liz Claiborne Apparel, select styles
+Or, Extra 10% Off\* select watches, salon products, furniture, mattresses, custom blinds &. shades
 
-Shop Liz Claiborne Men's Suits From Stafford and More Men's Semi-Annual Wardrobe Sale
+In Store and Online | Ends 9/27 | Code: BUYNMORE
+
+\*See exclusions and details Sale Starts Now! | In Store and Online Super Saturday Sale Shop Super Saturday Sale View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Jewelry Shop Accessories Shop Home Shop ShoesNight and Day Doorbusters
+
+Firday 3pm CDT through Saturday 1pm CDT. Use your coupon to save even more!
+
+Shop Doorbusters Men's Suits From Stafford and More Men's Semi-Annual Wardrobe Sale
 
 50% Off Men's Suit Separates, select styles
 
-Shop Suit Separates Shop Men's Semi-Annual Wardrobe Sale Update Your Kitchen With Small Appliances Home Sale
+Shop Suit Separates Shop Men's Semi-Annual Wardrobe Sale Make Room For More Shoes and Handbags The Shoe and Handbag Accessories Event
 
-30 to 50% Off Home Collections, select styles
+25 to 40% Off Shoes and Handbags, select styles
 
-Shop Home Sale
+Shop Shoes Shop Handbags     Update Your Space With New Curtains and Drapes Home Sale | 30 to 50% Off Home Collections
 
-NutriBullet, Ninja and Keurig K10 -- 79.99 ea. | Excluded from Coupon
+Select styles
 
-Shop Small Appliances Dazzling Deals On Fine Jewelry Billion Dollar Jewelry Sale
+Shop the Home Sale Shop Window Shop Bedding and Bath Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage Final Days! Carter's Baby Clothing On Sale 40 to 50% Off Carter's Baby Apparel
 
-40 to 60% Off Fine Jewelry and Bijoux Bar, select styles
+Select styles
 
-Shop Fine Jewelry and Bijoux Bar SportsFanShop
-
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
-
-Shop SportsFanShop Star Wars™ Shop Star Wars Now New Markdowns! | Red Zone Clearance
+Shop Carter's Baby Apparel New Markdowns! | Red Zone Clearance
 
 60 to 80% Off when you use 20% Off coupon or code: VIP
 
-Shop Clearance Now Homecoming 2015
+Shop Clearance Now Star Wars™ Shop Star Wars Now Homecoming 2015
 
 It's Your Night
 
-Shop Homecoming Now
+Shop Homecoming Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
