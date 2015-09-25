@@ -182,14 +182,12 @@ your Spam folder.
 Okay Enter Authentication Code Submit Remember this computer for 30 days?
 
 *   About
-*   Contact
-*   Help
+*   Support
 *   Careers
-*   Press
 *   Legal
 *   Tests
 *   OkTrends
-*   Mobile Apps
+*   Mobile
 
 OkCupid © 2015 Free online dating
 
