@@ -28,13 +28,13 @@ On January 1, 2012, the California Transparency in Supply Chains Act of 2010 (SB
 
 As a responsible corporate citizen, we seek to ensure that quality and safety standards are maintained throughout our supply chain by well-treated, fairly compensated workers in accordance with all applicable laws. We assess our vendors on an annual basis using ThinkGeek and third party resources, which assessment includes onsite inspections (both scheduled and unannounced). We also require our suppliers to certify they are in compliance with all applicable laws. We train our ThinkGeek employees involved in our supply chain on these issues, and will terminate business with any supplier found to have violated this policy.
 
-Need to Bug Us About Something Urgent?
+Need to Talk with Us about Something Urgent?
 
 Our helpful Live Support Monkeys are here to help through live online chat.
 
 Live Chat Unavailable
 
-Bug Us the Old Fashioned Ways
+Communicate with Us the Old-Fashioned Ways
 
 9am to 9pm EST, 365 days a year.
 
