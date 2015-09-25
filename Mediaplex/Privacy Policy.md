@@ -1,5 +1,9 @@
 Skip to main content
 
+We’ll prove to you that we can recognize consumers better than any competitor.
+
+Take the Challenge
+
 *   Search form Search Search
 
 *   Solutions
