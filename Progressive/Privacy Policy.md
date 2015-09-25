@@ -147,7 +147,10 @@ Connect
     *   Service Centers
     *   Roadside Assistance
     *   Catastrophe Claims
-Your Policy*   About
+
+Your Policy
+
+*   About
     *   Overview
     *   Careers
     *   Newsroom
