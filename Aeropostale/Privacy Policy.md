@@ -1,4 +1,6 @@
-FALL INTO SALE UP TO 70% OFF EVERYTHING  Girls Guys
+ONLINE ONLY! EXTRA 30% OFF CLEARANCE USE CODE EXTRA30 Girls  Guys  Room  
+
+DETAILS
 
 FREE SHIPPING ON $50
 
@@ -69,7 +71,6 @@ Aéropostale
     *   Throwback Tees
     *   Polos
     *   Henleys + Tees
-    *   Tanks
     *   Shirts
     *   Hoodies
     *   Sweaters
@@ -81,7 +82,7 @@ Aéropostale
     *   Shorts
     
     *   JACKETS + COATS
-    *   UNDERWEAR + LOUNGE
+    *   UNDERWEAR
     *   ACCESSORIES
 *   Active
     *   Live Love Dream
