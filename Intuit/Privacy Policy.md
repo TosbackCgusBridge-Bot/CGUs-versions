@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13990922479
+true true C13889566478
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p30.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Wed Sep 23 04:03:04 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p05.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Thu Sep 24 12:13:14 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -109,7 +109,7 @@ attention
 
 *   Enter a valid mobile number.
 
-Sign up for email alerts, offers promotions Mobile offers and promotions Message and data rates may apply. By providing my mobile number, I agree to receive autodialed promotional text alerts from JCPenney to that number. I understand that consent is not required to purchase goods or services. Up to 8 msgs/month from 527365 (JCPenney). Text **HELP** to 527365 for help and **STOP** to 527365 to cancel. Terms and conditions    privacy policy CUSTOMER SERVICE
+Sign up for email alerts, offers promotions Mobile offers and promotions Message and data rates may apply. By providing my mobile number, I agree to receive autodialed promotional text alerts from JCPenney to that number. I understand that consent is not required to purchase goods or services. Up to 8 msgs/month from 527365 (JCPenney). Text **HELP** to 527365 for help and **STOP** to 527365 to cancel.Terms and conditions    privacy policy CUSTOMER SERVICE
 
 *   returns
 *   shipping information
@@ -149,7 +149,23 @@ ABOUT US
 *   investors
 *   CA Transparency in Supply Chains Act
 
-JCPenney credit card pay bill check balance apply now
+JCPenney credit card pay bill check balance apply now Popular Searches
+
+*   labor day sales
+*   homecoming dresses
+*   womens dresses
+*   mens suits
+*   backpacks
+*   school uniforms
+*   athletic shoes
+*   girls shoes
+*   boys shoes
+*   mens watches
+*   womens watches
+*   curtains &. drapes
+*   mattresses
+*   area rugs
+*   bedding sets
 
 *   copyright
 *   privacy policy
