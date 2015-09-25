@@ -516,7 +516,7 @@ Request to Opt Out of Third Party Marketing: We may make portions of our catalog
 
 General Privacy Questions: If you have questions about this Privacy Policy‚ please use our Contact Us Form‚ call **1-800-963-4816** or send an email‚ including your name and mailing address‚ to websiteinquiry@landsend.com.
 
-Get Exclusive Offers + News Privacy Policy &. Contact Info sign up facebook twitter pinterest twitter pinterest sywr sywr wanelo Le Blog
+Get Exclusive Offers + News Privacy Policy &. Contact Info sign up facebook twitter pinterest twitter pinterest sywr sywr wanelo
 
 *   Customer Service
 *   Guaranteed. Period.®
@@ -529,7 +529,6 @@ Call 1.800.963.4816 Text Chat Now
 
 *   Company
     *   About Us
-    *   The Lands' End Blog
     *   Careers
     *   As Seen In
     *   Sustainability
