@@ -20,17 +20,15 @@ LENOVO Menu
         8.  Deals for Students and Educators
         9.  Outlet
         10.  Warranty-Sale
-    *   Fall Into Savings. Get These Deals Before They Drift Away.
+    *   Best Seller. Top Rated. Pay Less for the Best.
         
-        Save up to 68% Site-Wide.
+        Save up to 47% Site-Wide.
         
     *   Need it Quick?
         
         We have prebuilt models of our most popular PCs in stock and ready to ship!
         
-    *   Windows 10 is here.
-        
-        Looking ahead, without leaving you behind.
+    *   Windows 10 is here. Looking ahead, without leaving you behind.
         
 *   Support
     *   Help placing an order 24 hours a day, 7 days a week  
