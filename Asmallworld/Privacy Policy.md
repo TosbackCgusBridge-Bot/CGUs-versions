@@ -112,6 +112,9 @@ Back to top
 *   The Globalist
 *   ASW Foundation
 
+*   Terms and Conditions
+*   Privacy Policy
+
 A Small World . Net
 
 Copyright © 2004 - 2015 Asmallworld AG × Login Login REMEMBER ME Forgot Login details? Login with Facebook × Forgot Username or Password?
