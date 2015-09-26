@@ -127,7 +127,7 @@ Menu Explore HSBC.com Search
         *   Working in Global Banking and Markets
         *   Working in Global Private Banking
         *   Working in Retail Banking and Wealth Management
-        *   Working in HSBC Technology and Services
+        *   Working in HSBC Operations, Services and Technology
         *   Working in Global Functions
     *   Meet our people
         
