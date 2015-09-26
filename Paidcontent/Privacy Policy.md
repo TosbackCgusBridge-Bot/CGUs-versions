@@ -14,21 +14,21 @@ What Types of User Information Does Gigaom Obtain?
 
 Gigaom may obtain the following types of information from you or concerning your computer or device (“Information”), which may include information that can be used to identify you as specified below (“Personally Identifiable Information”):
 
-*   Name
-*   Email Address
-*   Mailing Address
-*   Telephone Number(s)
-*   Credit Card Information
-*   Blog or Website URL
-*   Social Networking Handle or Username
-*   Photo
-*   Demographic Information (e.g., age, gender, interests, and preferences)
-*   Professional Title
-*   Company
-*   Industry
-*   Activities or Content Viewed on Gigaom
-*   Information Collected Automatically ( detailed below )
-*   Information Received from Third Parties ( detailed below )
+*   •Name
+*   •Email Address
+*   •Mailing Address
+*   •Telephone Number(s)
+*   •Credit Card Information
+*   •Blog or Website URL
+*   •Social Networking Handle or Username
+*   •Photo
+*   •Demographic Information (e.g., age, gender, interests, and preferences)
+*   •Professional Title
+*   •Company
+*   •Industry
+*   •Activities or Content Viewed on Gigaom
+*   •Information Collected Automatically ( detailed below )
+*   •Information Received from Third Parties ( detailed below )
 
 In certain cases, we may request that you provide some of the Information identified above in order to obtain specific products or services (such as registering for a Gigaom event or logging in to download a research report from Gigaom). If you choose not to provide the Information we request, you may still use Gigaom, but you may be unable to access certain features or services.
 
@@ -38,17 +38,17 @@ Information Collected Automatically
 
 Gigaom may automatically receive and log certain types of information when you visit or interact with our websites, services, mobile applications or other products, including:
 
-*   Browser Information
-*   Operating System Information
-*   Mobile Device Information (e.g., device identifier, mobile operating system, etc.)
-*   IP Address
-*   Internet Service Provider
-*   Content Viewed
-*   Geographic Location
-*   Connection Speed
-*   Time of Visit
-*   Referring Site, Application, or Service
-*   Registration Time
+*   •Browser Information
+*   •Operating System Information
+*   •Mobile Device Information (e.g., device identifier, mobile operating system, etc.)
+*   •IP Address
+*   •Internet Service Provider
+*   •Content Viewed
+*   •Geographic Location
+*   •Connection Speed
+*   •Time of Visit
+*   •Referring Site, Application, or Service
+*   •Registration Time
 
 Information Received From Third Parties Events and Webinars
 
@@ -58,14 +58,14 @@ Third Party Websites/Social Networking Sites
 
 If you choose to use any third party website or service that is integrated with Gigaom, including a third party social networking or blogging site, such as LinkedIn, Facebook, Twitter or WordPress (“Third Party Websites”)—or if you use any Gigaom application provided through any Third Party Website—we may receive Information, including Personally Identifying Information, from such Third Party Websites, including, but not limited to:
 
-*   Name
-*   Nickname or Username
-*   Photo or Graphic Avatar
-*   Unique Third Party Website Identifier (e.g., Facebook User ID)
-*   Biographical or Demographic Information (e.g. professional title, gender, college attended, etc.)
-*   Likes and Interests
-*   Contacts/Friends/Associations
-*   Any Information That Is Publicly Available on Third Party Websites
+*   •Name
+*   •Nickname or Username
+*   •Photo or Graphic Avatar
+*   •Unique Third Party Website Identifier (e.g., Facebook User ID)
+*   •Biographical or Demographic Information (e.g. professional title, gender, college attended, etc.)
+*   •Likes and Interests
+*   •Contacts/Friends/Associations
+*   •Any Information That Is Publicly Available on Third Party Websites
 
 For example, Gigaom may offer the ability to use certain Third Party Websites to facilitate your registration on Gigaom. We may also use information about your profile and connections on Third Party Websites to allow you to share or connect with your friends and contacts on Gigaom or to personalize your experience. In addition, Gigaom offers “plug ins” and “widgets” from various Third Party Websites that allow you to share Gigaom content off of our service, as discussed in “Disclosure of Information to Third Parties”.
 
@@ -93,9 +93,9 @@ Reviewing and Modifying Your Personally Identifying Information
 
 We offer several ways for you to update Personally Identifying Information that is obtained and stored by Gigaom, or to change your account preferences on Gigaom:
 
-1.  If you have an online account with Gigaom, you can log in and update or change your account information here
-2.  You may unsubscribe to any of our e-mail updates or products by following the unsubscribe instructions in the body of any message (see Email or Text Message Communications )
-3.  You may contact us at info@gigaom.com.
+1.  counters(contents, '.', decimal)If you have an online account with Gigaom, you can log in and update or change your account information here
+2.  counters(contents, '.', decimal)You may unsubscribe to any of our e-mail updates or products by following the unsubscribe instructions in the body of any message (see Email or Text Message Communications )
+3.  counters(contents, '.', decimal)You may contact us at info@gigaom.com.
 
 Disclosure of Information to Third Parties
 
@@ -195,3 +195,5 @@ Houston, TX 77008
 Effective Date of this Privacy Policy
 
 This Privacy Policy is effective as of May 17, 2015.
+
+..
