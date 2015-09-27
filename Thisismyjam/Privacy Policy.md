@@ -1,5 +1,3 @@
-Privacy Policy
-
 Last updated: 3 October 2013
 
 We take your privacy seriously. This Privacy Policy (“the policy”) explains how This Is My Jam collects and uses information.
