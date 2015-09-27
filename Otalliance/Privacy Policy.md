@@ -96,10 +96,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Fri, Sep 25, 2015 2016 Presidential Candidate Online Trust Audit
-
-Join OTA for a briefing of the 2016 Presidential Candidate Online Trust Audit, revealing key data and best practices for all sites to consider.  Following the review of the findings a panel of, privacy experts including Jules Polonetsky, Executive Director, Future of Privacy Forum, Craig Spiezle, Executive Director of OTA  and others share their views and need for "responsible data privacy practices"  for both the public and private sectors.
-
 Mon, Oct 19, 2015 Sailthru Lift 2015 - The Art &. Science of Modern Marketing
 
 Marketing is in the midst of an industrial revolution: consumers are changing, commerce and monetization are shifting, data is growing, and competition is smarter, faster than ever before.  Leading marketers are focused on transforming the customer lifetime experience. They’re looking for solutions to bring themselves closer to consumers than ever before while face-to-face interactions are fewer and far between.
@@ -115,6 +111,10 @@ SEA4E for $25 off the Open Sessions Pass - (Lunch &. CPE's not included)
 Mon, Nov 16, 2015 DC Salon Dinner &. Reception - Cross Device Tracking &. IoT
 
 Join FTC Commissioner Julie Brill, Congresswoman Suzan DelBene and members of Congress discuss the evolving world of privacy and the challenges and opportunities of the cross device tracking and  "Internet of Things".  This off-the-record dinner is a unique opportunity for invited guests to discuss the world of big data, role of innovation and the impact on consumer trust and confidence. Attend to get an insider’s view on trends, trheats and opportunities.
+
+Tue, Nov 17, 2015 OTA Annual Member Meeting
+
+Save the date.  Panels to include speakers from the public &. private sectors, with updates on key issues including facial recognition, online tracking, breach legislation, and the IoT trust framework..  Hosted at the Holland &. Knight Conference Center.   Contact OTA for more information at 425-455-7400.  Limited to OTA members and invited guests who abide to "Chatham House Rule" Register Today
 
 *   OTA Blog
 *   Newsletters
