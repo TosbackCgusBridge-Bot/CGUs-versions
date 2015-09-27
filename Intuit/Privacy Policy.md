@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14002090557
+true true L14001906471
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p29.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Fri Sep 25 08:44:45 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p13.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Sat Sep 26 05:16:35 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -64,11 +64,7 @@ Or, Extra 10% Off\* select watches, salon products, furniture, mattresses, custo
 
 In Store and Online | Ends 9/27 | Code: BUYNMORE
 
-\*See exclusions and details Sale Starts Now! | In Store and Online Super Saturday Sale Shop Super Saturday Sale View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Jewelry Shop Accessories Shop Home Shop ShoesNight and Day Doorbusters
-
-Firday 3pm CDT through Saturday 1pm CDT. Use your coupon to save even more!
-
-Shop Doorbusters Men's Suits From Stafford and More Men's Semi-Annual Wardrobe Sale
+\*See exclusions and details Sale Starts Now! | In Store and Online Super Saturday Sale Shop Super Saturday Sale View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Jewelry Shop Accessories Shop Home Shop Shoes Men's Suits From Stafford and More Men's Semi-Annual Wardrobe Sale
 
 50% Off Men's Suit Separates, select styles
 
@@ -86,7 +82,7 @@ Select styles
 
 Shop Carter's Baby Apparel New Markdowns! | Red Zone Clearance
 
-60 to 80% Off when you use 20% Off coupon or code: VIP
+50 to 80% Off when you use 20% Off coupon or code: VIP
 
 Shop Clearance Now Star Wars™ Shop Star Wars Now Homecoming 2015
 
