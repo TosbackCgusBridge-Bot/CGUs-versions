@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (20)
 *   recommendations
 *   track order
 *   ship to
@@ -12,12 +12,12 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  ELAINE
 *   (sign out)
     
 *   my account
 
-*   no saved items
+*   saved items: (20)
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14001906471
+true true L14006187555
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p13.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Sat Sep 26 05:16:35 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p27.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Sun Sep 27 05:00:06 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,47 +48,39 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-$10 Off\* $25 or More
-
-In Store and Online | Ends 9/27 | Code: TENOFF25
-
-Print CouponOr, Extra 20% Off\* $100 or More
-
-Online Only | Ends 9/27 | Code: BUYNMORE
-
-Or, Extra 25% Off\* $150 or More
-
-Online Only | Ends 9/27 | Code: BUYNMORE
-
-Or, Extra 10% Off\* select watches, salon products, furniture, mattresses, custom blinds &. shades
-
-In Store and Online | Ends 9/27 | Code: BUYNMORE
-
-\*See exclusions and details Sale Starts Now! | In Store and Online Super Saturday Sale Shop Super Saturday Sale View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Jewelry Shop Accessories Shop Home Shop Shoes Men's Suits From Stafford and More Men's Semi-Annual Wardrobe Sale
-
-50% Off Men's Suit Separates, select styles
-
-Shop Suit Separates Shop Men's Semi-Annual Wardrobe Sale Make Room For More Shoes and Handbags The Shoe and Handbag Accessories Event
-
-25 to 40% Off Shoes and Handbags, select styles
-
-Shop Shoes Shop Handbags     Update Your Space With New Curtains and Drapes Home Sale | 30 to 50% Off Home Collections
+Update Your Space With Fall Comforter Sets Home Sale | 30 to 50% Off Home Collections
 
 Select styles
 
-Shop the Home Sale Shop Window Shop Bedding and Bath Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage Final Days! Carter's Baby Clothing On Sale 40 to 50% Off Carter's Baby Apparel
+Shop the Home Sale Shop Comforter Sets Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Explore the Catalog Save on Women's Clothes and Accessories For Fall Fall Sale
+
+30 to 40% Off Worthington, select styles
+
+Shop Worthington  
+
+25 to 40% Off Handbags and Wallets, select styles
+
+Shop Handbags and Wallets  
+
+25 to 40% Off Shoes, select styles
+
+Shop Shoes   Hurry! Sale on Men's Suits and Sport Coats Ends Today! Last Day! Men's Semi-Annual Wardrobe Sale
+
+50% Off Men's Suits and Sport Coats, select styles
+
+Shop Suit Separates Shop Men's Semi-Annual Wardrobe Sale Last Day to Save On Carter's Baby Clothes! 40 to 50% Off Carter's Apparel
 
 Select styles
 
-Shop Carter's Baby Apparel New Markdowns! | Red Zone Clearance
+Shop Carter's Apparel Shop Carter's Girls Shop Carter's Boys Going Fast! New Markdowns on Clearance 50 to 80% Off | In Store and Online Shop Clearance SportsFanShop
 
-50 to 80% Off when you use 20% Off coupon or code: VIP
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop Clearance Now Star Wars™ Shop Star Wars Now Homecoming 2015
+Shop SportsFanShop Star Wars™ Shop Star Wars Now Halloween Shop Shop Halloween Now Sephora
 
-It's Your Night
+Discover the world's most sought-after beauty at JCPenney.com
 
-Shop Homecoming Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop Sephora Now
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
