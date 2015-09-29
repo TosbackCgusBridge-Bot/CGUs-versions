@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   saved items: (20)
+*   no saved items
 *   recommendations
 *   track order
 *   ship to
@@ -12,12 +12,12 @@
 *   customer service
     
 
-*   Hello  ELAINE
+*   Hello  
 *   (sign out)
     
 *   my account
 
-*   saved items: (20)
+*   no saved items
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14006187555
+true true C13912364261
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p27.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Sun Sep 27 05:00:06 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Mon Sep 28 10:58:06 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,39 +48,49 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Update Your Space With Fall Comforter Sets Home Sale | 30 to 50% Off Home Collections
+3 Days Only Online Only | Ends September 30 | Code: GRTDEALS \*See offer exclusions and details:
 
-Select styles
+50% Off\* select orig and reg-priced styles
 
-Shop the Home Sale Shop Comforter Sets Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Explore the Catalog Save on Women's Clothes and Accessories For Fall Fall Sale
+Shop Bedding and Bath Shop Holiday Trim and Decor Shop Luggage Shop Window
 
-30 to 40% Off Worthington, select styles
+40% Off\* select orig and reg-priced styles
 
-Shop Worthington  
+Shop Home Decor
 
-25 to 40% Off Handbags and Wallets, select styles
+30% Off\* select orig and reg-priced styles
 
-Shop Handbags and Wallets  
+Shop Kitchen and Dining Shop Storage and Organization Shop Vacuums and Floorcare
 
-25 to 40% Off Shoes, select styles
+Extra 20% Off\* select orig, reg, sale and clearance-priced styles
 
-Shop Shoes   Hurry! Sale on Men's Suits and Sport Coats Ends Today! Last Day! Men's Semi-Annual Wardrobe Sale
+Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Accessories and Handbags Shop Fashion Jewelry Shop Online Clearance Kick Off the Season With Women's Boots Step Into Fall
 
-50% Off Men's Suits and Sport Coats, select styles
+40% Off Booties and Boots, select styles
 
-Shop Suit Separates Shop Men's Semi-Annual Wardrobe Sale Last Day to Save On Carter's Baby Clothes! 40 to 50% Off Carter's Apparel
+47.99 a.n.a. Ryder High-Heel Women's Ankle Booties, orig. $80
 
-Select styles
-
-Shop Carter's Apparel Shop Carter's Girls Shop Carter's Boys Going Fast! New Markdowns on Clearance 50 to 80% Off | In Store and Online Shop Clearance SportsFanShop
-
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
-
-Shop SportsFanShop Star Wars™ Shop Star Wars Now Halloween Shop Shop Halloween Now Sephora
+Shop Booties and Boots Sephora Makeup and Beauty Products Now at JCPenney Sephora
 
 Discover the world's most sought-after beauty at JCPenney.com
 
-Shop Sephora Now
+Shop Sephora Now Winter Coats For Everyone Layered to Chill
+
+30 to 50% Off Coats and Jackets for the Family, select styles
+
+Shop Coats and Jackets for the Family Shop Women's Coats Shop Men's Coats Save Even More on Clearance 50 to 80% Off Clearance
+
+In Store and Online
+
+Shop Clearance SportsFanShop
+
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
+
+Shop SportsFanShop Star Wars™ Shop Star Wars Now Halloween Shop Shop Halloween Now Shop For Good
+
+with products that support breast cancer research and awareness
+
+Shop For Good Now
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
