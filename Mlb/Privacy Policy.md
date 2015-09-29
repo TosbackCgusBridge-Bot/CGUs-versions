@@ -61,7 +61,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Daily Dash
     *   Must C
 *   Stats Stats Stats
-    *   Players
+    *   Sortable Player Stats
     *   Regular Season League Leaders
     *   Statcast Leaders
     *   Sortable Team Stats
@@ -99,7 +99,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   General Ticket Information
     *   Postseason Ticket Refund Policies
     *   Autism Awareness
-    *   StubHub.comAutism Awareness
+    *   StubHub.com2016 Schedule Postseason Tickets
 *   Apps Apps Apps
     *   At Bat app
     *   At Bat on Tablets
@@ -150,7 +150,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.TV Blackouts
     *   MLB.TV Tutorials
     *   MLB.TV Download Center
-    *   Contact UsDevices
+    *   Contact Us
 *   Fantasy Fantasy Fantasy
     *   Beat the Streak
     *   R.B.I. Baseball 15
