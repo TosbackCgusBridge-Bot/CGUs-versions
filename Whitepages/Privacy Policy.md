@@ -212,7 +212,3 @@ If you have any questions about this policy, please write to Whitepages Privacy 
 
 *   © 2015 Whitepages Inc.
 *   Sitemap
-
-Success!
-
-Cancel Remove Whitepages Caller ID Identify unknown callers. Free Download Continue to the Whitepages mobile site
