@@ -23,7 +23,7 @@ Les informations demandées, signalées par un astérisque, sont obligatoires. E
 Les autres informations sont destinées à mieux vous connaître et sont, par conséquent, facultatives. Vous êtes libre de ne pas y répondre.
 
 _Gestion du panier d’achat_  
-Afin que vos faciliter vos achats, nous gardons en mémoire votre panier d’achat par le biais d’un cookie. Si votre compte est activé nous enregistrons et conservons votre panier afin que vous puissiez concrétiser votre achat ultérieurement. Nous sommes susceptibles de vous envoyer des communications électroniques pour vous informer de l’état de votre panier.
+Afin de faciliter vos achats, nous gardons en mémoire votre panier d’achat par le biais d’un cookie. Si votre compte est activé nous enregistrons et conservons votre panier afin que vous puissiez concrétiser votre achat ultérieurement. Nous sommes susceptibles de vous envoyer des communications électroniques pour vous informer de l’état de votre panier.
 
 _Personnalisation de nos services_  
 Lors de la consultation de notre site, des informations relatives à votre navigation sont susceptibles d'être enregistrées par l’intermédiaire de fichiers "Cookies" installés sur votre terminal. Dans la mesure où vous vous êtes identifiés, nous sommes susceptibles d’associer vos données de navigation avec vos données personnelles afin de vous proposer des offres personnalisés, adaptées à vos centres d’intérêts. Vous pourrez à tout moment nous demander de ne plus recevoir d’offres adaptées aux informations de navigation de votre terminal, en nous contactant par courrier à La Redoute – Service Relations Clients – 59081 Roubaix Cedex 2.  
