@@ -71,6 +71,8 @@ The Service may use cookies for various purposes, such as to save you the need t
   
 Advertising Campaigns Viumbe permits third party advertising companies to place advertisements on Viumbe Websites and manage their display. The advertisements originate from these advertising computer systems. In order to manage the advertisements, these companies post cookies on your computer and embed web beacons in the advertisements or in Viumbe Websites' pages. Web beacons are tiny graphics with unique identifiers, embedded in web pages and used to assist in collecting information about the sites usage. The collected information does not identify you, and is only intended to match the displayed advertisements to your personal interests. The use of cookies and web beacons by advertising companies is subject to their own privacy policies and not to this Privacy Policy. Such companies have no access to Viumbe's Websites' cookies and Viumbe has no access to their cookies. Should you wish to check the privacy policies of the companies that are managing the advertising scheme on Viumbe Websites, you may do so via their own websites. To opt out of Google's "interest-based ads" and to learn more about Google's collection of your personal information to serve ads in connection with Viumbe Websites, click here. To receive further information about the advertising companies that Viumbe works with, please contact us at: contact@viumbe.com.  
   
+Facebook Advertising Facebook's privacy policy  
+  
 Information Security Viumbe implements systems, applications and procedures to secure your personal information, to minimize the risks of theft, damage, loss of information, or unauthorized access or use of information. However, these measures are unable to provide absolute assurance. Therefore, although Viumbe takes great efforts to protect your privacy, Viumbe cannot guarantee and you cannot reasonably expect that the Service and the Service's databases will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse, or that your private communications on or through the Service will remain private.  
   
 Changes to this Privacy Policy Viumbe may from time to time change the terms of this policy. Substantial changes will take effect 30 days after Viumbe has posted an initial notification on the Service's homepage or any other relevant web pages on the Service, with respect to such changes. Other changes will take effect 7 days after their initial posting on the Service, unless Viumbe amends the Terms to comply with legal requirements. In such cases the amendments will become effective immediately upon their initial posting, or as required.  
@@ -82,4 +84,4 @@ Viumbe, LLC
 1550 Bryant St., Suite 470  
 San Francisco, CA 94103.  
   
-Last updated: May 2, 2013.
+Last updated: September 29, 2015.
