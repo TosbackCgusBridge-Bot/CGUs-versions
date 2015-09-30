@@ -30,7 +30,6 @@ Navigation
     *   Investors
     *   Advertisers
     *   Engineering Blog
-    *   Player Panel
 *   JOBS
 *   SUPPORT
 
