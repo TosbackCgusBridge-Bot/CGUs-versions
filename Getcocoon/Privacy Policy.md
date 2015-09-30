@@ -1,7 +1,7 @@
-*   Tour
+*   Features
 *   Sign Up
 *   Download
-*   Blog
+*   How It Works
 *   Support
     *   FAQ
     *   Tutorials
@@ -19,7 +19,7 @@ Company Info Pages
 Contact Virtual World Computing  
 5383 Hollister Avenue, Suite 140  
 Santa Barbara, CA 93111  
-Office: 805.964.7200  
+Office: 805.845.9200  
 Privacy Policy
 
 It is our goal to provide in plain English, the clearest, most concise, and most accurate privacy policy on the Internet. We are open to your suggestions for any changes we could include to make this more clear.
@@ -32,7 +32,7 @@ Your personal information:
 Inside Cocoon we do not use cookies or track your browsing history. We do not share your information with any third-parties nor do we allow third-parities to place their tracking technologies within the Cocoon service.
 
 Advertising within Cocoon:  
-To help pay for the free Cocoon service, advertisements are shown in Cocoon. Ads that are shown in Cocoon may be based on the page that you are currently visiting but not on your browsing history, cookies or past behavior. If you do not want your non-personal URL information to be used, then you can subscribe to the Cocoon+ product at https:getcocoon.com/plans.
+To help pay for the free Cocoon service, advertisements are shown in Cocoon. Ads that are shown in Cocoon may be based on the page that you are currently visiting but not on your browsing history, cookies or past behavior. If you do not want your non-personal URL information to be used, then you can subscribe to the Cocoon+ product at getcocoon.com/plans.
 
 If you click on an ad, the advertiser will most likely place a cookie in your Cocoon account, which you can manage like any other cookie a website or advertiser gives you. You can ignore it or delete it as you wish, knowing that Cocoon is still protecting your identity and IP address from advertisers.
 
@@ -45,12 +45,13 @@ We welcome your feedback. Please contact us with your questions or concerns rega
 Virtual World Computing  
 5383 Hollister Avenue, Suite 150  
 Santa Barbara, CA 93111  
+Email
 
 *   *   Overview
+    *   Anti Virus
     *   Privacy
-    *   Security
-    *   No Spam
     *   Portability
+    *   Compare
     *   Sign Up
 *   *   Support
     *   Download
@@ -58,12 +59,10 @@ Santa Barbara, CA 93111
     *   Tutorials
     *   Contact Support
 *   *   Company Info
-    *   Invest In Us
     *   Press Room
     *   Terms of Service
     *   Privacy Policy
     *   Contact
-    *   Blog
 *   *   Twitter
     *   Facebook
     *   YouTube
