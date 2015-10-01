@@ -1,3 +1,5 @@
+Submitted by steveferrone on Thu, 01/06/2011 - 11:12
+
 WEBSITE PRIVACY POLICY  
 Last Updated November 16, 2014  
 1\. INTRODUCTION  
@@ -38,3 +40,5 @@ The Site may contain links to other websites. If you choose to visit other websi
 If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database please feel contact us using the contact information provided in Section 1.1 above.  
 6.2. UPDATES AND CHANGES  
 We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
+
+*   Print
