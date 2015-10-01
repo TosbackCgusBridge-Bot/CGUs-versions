@@ -17,7 +17,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
         *   Birthday Gifts
         *   Wedding Gifts
     *   Gifts on the Healthier Side
-    *   Gifts for the Hostess
 *   Sausage &. Cheese
     *   Sausage &. Cheese Gifts
     *   Cheese
@@ -67,7 +66,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
         *   Birthday Gifts
         *   Wedding Gifts
     *   Gifts on the Healthier Side
-    *   Gifts for the Hostess
 *   Sausage &. Cheese
     *   Sausage &. Cheese Gifts
     *   Cheese
