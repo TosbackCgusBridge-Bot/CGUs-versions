@@ -356,6 +356,7 @@ Helpful Links
 *   Mobile Phone Compatibility
 *   Toyota Mobility Feature
 *   Entune™
+*   Toyota Safety Sense
 *   Car Tips &. Advice
 *   Dealers
 *   Safety Recalls &  
