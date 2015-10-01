@@ -1,8 +1,8 @@
-ENDS TODAY! ONLINE ONLY! EXTRA 30% OFF CLEARANCE USE CODEEXTRA30 Girls  Guys  Room
+ONLINE ONLY! EXTRA 20% OFF YOUR ENTIRE ORDER USE CODE 20OFF Girls  Guys  
 
 DETAILS
 
-FREE SHIPPING ON $50
+FREE SHIPPING ON $75
 
 DETAILS
 
@@ -84,7 +84,7 @@ Aéropostale
     *   Shorts
     
     *   JACKETS + COATS
-    *   UNDERWEAR
+    *   UNDERWEAR + LOUNGE
     *   ACCESSORIES
 *   Active
     *   Live Love Dream
@@ -113,6 +113,9 @@ Aéropostale
     *   Photo Display
     *   Jewelry Holders &. Accessories
     *   Art Gallery
+    
+    *   SHOP CLEARANCE
+    *   Room Clearance
 *   Clearance
     
     *   GIRLS
