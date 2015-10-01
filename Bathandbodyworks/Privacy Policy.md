@@ -133,11 +133,17 @@ BACK TO TOP
 
 If at any time you'd like to stop future delivery of our email offers, simply follow the removal instructions located at the bottom of each message This will stop future email offers from us, but won't stop operational or transactional messages such as email confirmations of your online orders or Customer Care communications. You may also click here or call us at 1-800-756-5005. For Bath &. Body Works Direct TDD, call 1-877-215-5245.
 
+Accessibility Support: 1-800-531-4504  
+See our policy on accommodating assistive readers for visiting our website.
+
 We may occasionally provide you with the opportunity to opt in to receive email messages from third parties. If you do opt in, we'll share your email address with the specific third party with which you have opted in. Please review their privacy policies to see how they treat your personal information.
 
  **2. Mobile Messaging**
 
 If you've signed up for recurring mobile messaging (e.g., SMS and MMS) offers but later decide you no longer wish to receive them, simply follow the applicable opt-out instructions, which are usually included in the mobile message itself. You may also click here or call us at 1-800-756-5005. For Bath &. Body Works Direct TDD, call 1-877-215-5245.
+
+Accessibility Support: 1-800-531-4504  
+See our policy on accommodating assistive readers for visiting our website.
 
  **3. Postal Mailers**
 
@@ -155,6 +161,9 @@ If you don't want your basic contact and purchase information shared with other 
 
 If you would like to request that our affiliates do not use your name, postal address, email address and purchase information for marketing purposes, please contact us at 1-800-395-1001 to make a request. For Bath &. Body Works Store Relations TDD, call 1-866-315-3129.
 
+Accessibility Support: 1-800-531-4504  
+See our policy on accommodating assistive readers for visiting our website.
+
 BACK TO TOP
 
 **WHAT IS THE POLICY FOR VISITORS FROM OUTSIDE THE U.S.?**
@@ -166,6 +175,9 @@ All our online channels are based in the U.S. This privacy policy governs the in
 **HOW MAY I ACCESS AND UPDATE MY PERSONAL INFORMATION?**
 
 We prefer to keep your personal information accurate and up-to-date. You may update or modify your billing- and shipping-related information by logging onto Your Account, or by calling us at 1-800-756-5005. For Bath &. Body Works Direct TDD, call 1-877-215-5245.
+
+Accessibility Support: 1-800-531-4504  
+See our policy on accommodating assistive readers for visiting our website.
 
 BACK TO TOP
 
