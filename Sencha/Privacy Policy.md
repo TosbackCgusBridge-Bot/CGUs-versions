@@ -15,8 +15,10 @@ Sencha
         *   Sencha GXT
         *   Sencha Touch
     *   Tools
-        *   Sencha Architect
+        *   Sencha IDE Plugins
         *   Sencha Cmd
+        *   Sencha Inspector
+        *   Sencha Architect
     *   Management
         *   Sencha Web Application Manager
     *   Sencha Market
@@ -183,8 +185,10 @@ Get Sencha NewsBuy Online
     *   Sencha Ext JS
     *   Sencha GXT
     *   Sencha Touch
-    *   Sencha Architect
+    *   Sencha IDE Plugins
     *   Sencha Cmd
+    *   Sencha Inspector
+    *   Sencha Architect
     *   Sencha Web Application Manager
     *   Sencha Market
 
