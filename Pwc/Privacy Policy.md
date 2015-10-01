@@ -1,10 +1,12 @@
-PwC's privacy commitment Internet privacy policy
+PwC's privacy commitment
 
-The data controller collecting the data described herein is the PwC firm in the visitor’s country or otherwise the PwC firm to which the visitor has submitted their data. Personal data collected by PwC may be transferred to other individual PwC firms, which are member firms of the worldwide PwC organisation, where it is necessary to meet the purpose for which the visitor has submitted the information. By submitting data on PwC's website, the visitor is providing explicit consent to transborder transmission of data collected on the website for the fulfilment of their voluntary requests.
+PwC is a network of member firms in 157 countries. In this statement, PwC, we or us refers to the PwC network and/or one or more of its member firms, each of which is a separate legal entity. Please see www.pwc.com/structure for further details.
+
+The data controller collecting the data provided by a visitor to this website is the PwC firm in the visitor’s country or another PwC firm to which the visitor has submitted their data. Personal data collected by a PwC firm may be transferred to other PwC firms  in connection with the purpose for which the visitor has submitted the information. By submitting data on this website, a visitor provides their explicit consent to the use of the data in accordance with this privacy statement, including the transborder transmission of data collected on the website for the fulfilment of their voluntary requests.
 
 Data collection 
 
-We collect only personally identifiable information that is specifically and voluntarily provided by visitors to PwC'swebsite. PwC receives limited identifiable information, such as name, Title, company address, email address, and telephone and fax numbers, from website visitors. Typically, identifying information is collected to:
+We collect only personally identifiable information that is specifically and voluntarily provided by visitors to this website. PwC receives limited identifiable information, such as name, Title, company address, email address, and telephone and fax numbers, from website visitors. Typically, identifying information is collected to:
 
 *   Register for certain areas of the site
 *   Inquire for further information
@@ -34,7 +36,7 @@ A user may choose to provide personal information in the following examples:
 
 If you would like to find out more about the different categories of information collected, please review the data collection section.
 
-Information attained by the site is used only for the intended purpose stated at the time that the information is collected. This data is not shared with other entities in the network for secondary or unrelated purposes, or shared with a third party, unless otherwise disclosed at the point of collection. If there is an instance where such information may be shared, the visitor will be asked for permission beforehand.
+When a visitor provides personal information to us, we use it in connection with the purposes for which it was provided to us, as stated at the point of collection (or as obvious from the context of collection).  This data is not shared with other entities in the network for secondary or unrelated purposes, or shared with a third party other than as described in this statement or otherwise disclosed at the point of collection. If there is an instance where such information may be shared, the visitor will be asked for permission beforehand.
 
 PwC makes every practical effort to avoid excessive or irrelevant collection of data. If a visitor believes the site has collected excessive information, we encourage the visitor to contact us at privacy@pwc.com to raise any concerns.
 
@@ -44,9 +46,11 @@ Cookies and log files 
 
 Cookies may be used on some pages of our site. "Cookies" are small text files placed on your hard drive that assist us in providing a more customised website experience. For example, a cookie can be used to store registration information in an area of the site so that a user does not need to re-enter it on subsequent visits to that area. It is PwC's policy to use cookies to make navigation of our websites easier for visitors and to facilitate efficient registration procedures. Site statistics are compiled by third parties, and therefore your IP address will be passed to third parties for statistical reporting only.
 
-If you are concerned about cookies, most browsers permit individuals to decline cookies. In most cases, a visitor may refuse a cookie and still fully navigate ourwebsites, however other functionality in the site may be impaired. After termination of the visit to our site, you can always delete the cookie from your system if you wish.
+If you are concerned about cookies, most browsers permit individuals to decline cookies. In most cases, a visitor may refuse a cookie and still fully navigate our websites, however other functionality in the site may be impaired. After termination of the visit to our site, you can always delete the cookie from your system if you wish.
 
 In order to properly manage our website we may anonymously log information on our operational systems, and identify categories of visitors by items such as domains and browser types. These statistics are reported in the aggregate to our webmasters. This is to ensure that our website presents the best web experience for visitors and is an effective information resource.
+
+Full details on the cookies in use on our website can be found on the Cookies information page
 
 Third parties 
 
@@ -63,9 +67,11 @@ Some PwC publications are listed under Amazon.com in order to make it easier for
 
 PwC websites do not collect or compile personally identifying information for dissemination or sale to outside parties for consumer marketing purposes, or host mailings on behalf of third parties.
 
+Personal data collected by PwC may be transferred or disclosed to third party service providers (and their subcontractors and subsidiaries) who process information on PwC’s behalf. These service providers, subcontractors and subsidiaries include providers of information technology, identity management, website hosting and management, data analysis, data back-up, security and storage services. They may be located outside the country where a visitor is located. As a result, a visitor’s information may be transferred outside the country where they’re located.
+
 Third party links
 
-There are several places throughout pwcglobal.com and pwc.com that may link to other websites that do not operate under pwcglobal.com and pwc.com's privacy practices. When you link to otherwebsites, PwC's privacy practices no longer apply. We encourage visitors to review each site's privacy policy before disclosing any personally identifiable information.
+There are several places throughout pwcglobal.com and pwc.com that may link to other websites that do not operate under pwcglobal.com and pwc.com's privacy practices. When you follow links to other websites, PwC's privacy practices no longer apply. We encourage visitors to review each site's privacy policy before disclosing any personally identifiable information.
 
 Data retention 
 
@@ -73,26 +79,26 @@ Some of the information we receive is not retained. For example, we usually do n
 
 Choices 
 
-As a policy, visitors are not required to register to gain access to areas of the PwCwebsites. In certain cases in the future, as your PwC website experience expands, we may require visitors to register in order to obtain a user-id and password for authentication and secure access to a transaction or certain business confidential or proprietary information services on premiumwebsites.
+As a policy, visitors are not required to register to gain access to areas of the PwC websites. In certain cases in the future, as your PwC website experience expands, we may require visitors to register in order to obtain a user-id and password for authentication and secure access to a transaction or certain business confidential or proprietary information services on premium websites.
 
-Personally identifiable information provided to PwC through its website is provided voluntarily by visitors. Should visitors subsequently choose to unsubscribe from mailing lists or any registrations, we will provide instructions on the appropriate website area or in communications to our visitors. or a visitor may contact the webmaster of the appropriate site e.g., webmaster@pwc.com.
+Personally identifiable information provided to PwC through this website is provided voluntarily by visitors. Should visitors subsequently choose to unsubscribe from mailing lists or any registrations, we will provide instructions on the appropriate website area or in communications to our visitors. or a visitor may contact us at privacy@pwc.com.
 
 Access 
 
 Each visitor has the right of access to personal data they have submitted through the websites to PwC.
 
-User updates of information should be handled by going back through the registration process. Inquiries about the accuracy of identifying information previously submitted to PwC through itswebsite, or requests to have outdated information removed, should be directed to: webmaster@pwc.com. PwC is committed to providing reasonable and practical access to visitors to allow them the opportunity to identify and correct any inaccuracies. When requested and practical, PwC will delete identifying information from current operational systems.
+User updates of information should be handled by going back through the registration process. Inquiries about the accuracy of identifying information previously submitted to PwC through this website, or requests to have outdated information removed, should be directed to privacy@pwc.com. PwC is committed to providing reasonable and practical access to visitors to allow them the opportunity to identify and correct any inaccuracies. When requested and practical, PwC will delete identifying information from current operational systems.
 
-When personally identifiable information is retained, PwC assumes responsibility for keeping an accurate record of the information once a visitor has submitted and verified the data. PwC does not assume responsibility for verifying the ongoing accuracy of the content of personal information. When practically possible, if PwC is informed that any personal data collected through a website is no longer accurate, PwC will make appropriate corrections based on the updated information provided by the authenticated visitor.
+When PwC retains personally identifiable information, PwC assumes responsibility for keeping an accurate record of the information once a visitor has submitted and verified the data. PwC does not assume responsibility for verifying the ongoing accuracy of the content of personal information. When practically possible, if PwC is informed that any personal data collected through a website is no longer accurate, PwC will make appropriate corrections based on the updated information provided by the authenticated visitor.
 
 Security 
 
-PwC has implemented generally accepted standards of technology and operational security in order to protect personally identifiable information from loss, misuse, alteration or destruction. All PwC employees follow a network-wide security policy. Only authorised PwC personnel are provided access to personally identifiable information and these employees have agreed to ensure confidentiality of this information. PwC's policy is to use secure socket layer technology for the protection of credit card information submitted through web forms. This policy is also required for any fulfilment agents of our firms.
+PwC has implemented generally accepted standards of technology and operational security in order to protect personally identifiable information from loss, misuse, alteration or destruction. PwC's policy is to use secure socket layer technology for the protection of credit card information submitted through web forms. This policy is also required for any fulfilment agents of our firms.
 
 Children 
 
-PwC understands the importance of protecting children's privacy especially in an online environment. The PwC sites covered by this privacy statement are not intentionally designed for or directed at children 13 years of age or younger. It is PwC's policy never to knowingly collect or maintain information about anyone under the age of 13.
+PwC understands the importance of protecting children's privacy especially in an online environment. This website is not intentionally designed for or directed at children 13 years of age or younger. It is PwC's policy never to knowingly collect or maintain information about anyone under the age of 13.
 
 Modifications 
 
-PwC reserves the right to modify or amend this Statement at any time. The effective date will be displayed at the beginning of this statement. To keep visitors informed, PwC will notify users of changes to our Privacy Statement by prominently identifying the alteration for a period of not less than two weeks on our global home page at http://www.pwc.com.
+PwC reserves the right to modify or amend this Statement at any time by publishing an updated version here. The current version of the statement will be accessible on this website.
