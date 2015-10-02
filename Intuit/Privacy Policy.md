@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14016302288
+true true 10.60.216.10 C13919346363
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p33.jcpenney.com SERVER NAME :->. dtcomexpr1l1j2 TIME :->. Wed Sep 30 05:04:26 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Thu Oct 01 07:37:15 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,49 +48,69 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-3 Days Only Online Only | Ends September 30 | Code: GRTDEALS \*See offer exclusions and details:
+Extra 25% Off\* with your JCPenney Credit Card Or, Extra 20% Off\* with any other method of payment
 
-50% Off\* select orig and reg-priced styles
+Online Only, Orders over $100 | Ends 10/4 | Code: PUPPY
 
-Shop Bedding and Bath Shop Holiday Trim and Decor Shop Luggage Shop Window
+Extra 20% Off\* with your JCPenney Credit Card Or, Extra 15% Off\* with any other method of payment
 
-40% Off\* select orig and reg-priced styles
+In Store and Online | Ends 10/4 | Code: PUPPY
 
-Shop Home Decor
+Or, Extra 15% Off\* furniture, mattresses and custom blinds &. shades Or, Extra 10% Off\* watches and salon products
 
-30% Off\* select orig and reg-priced styles
+In Store and Online | Ends 10/4 | Code: PUPPY
 
-Shop Kitchen and Dining Shop Storage and Organization Shop Vacuums and Floorcare
+\*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
 
-Extra 20% Off\* select orig, reg, sale and clearance-priced styles
+\*See exclusions and details Print Coupon Great Deals In Store and Online Best of Fall Sale Shop Fall Sale Now View Store Ad Shop Men Shop Women   Shop Kids Shop Baby Shop Shoes Shop Accessories and Handbags Shop Home Shop JewelryNight and Day Doorbusters
 
-Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Accessories and Handbags Shop Fashion Jewelry Shop Online Clearance Kick Off the Season With Women's Boots Step Into Fall
+Friday 3 PM CDT through Saturday 1 PM CDT
+
+Shop Doorbusters Now Refresh Your Space With Curtains and Drapes Home Sale | 30 to 50% Off Home Collections
+
+Select styles
+
+  Shop the Home Sale Shop Bedding and Bath Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop LuggageOur Biggest Window Sale of the Season
+
+40 to 50% Off | October 1-12
+
+Shop Curtains and Drapes Shop Blinds and Shades Fall For the Latest Dresses The Dress Event | Now - October 12
+
+40% Off Dresses, select styles
+
+Shop Dresses
+
+39.99 nicole by Nicole Miller print panel dress, orig. $72
+
+Shop Nicole Miller  
+
+49.99 Bisou Bisou sleeveless sweater dress, orig. $86
+
+Shop Bisou Bisou   Kick Off the Season With Women's Boots Step Into Fall
 
 40% Off Booties and Boots, select styles
 
+Shop Booties and Boots
+
 47.99 a.n.a. Ryder High-Heel Women's Ankle Booties, orig. $80
 
-Shop Booties and Boots Sephora Makeup and Beauty Products Now at JCPenney Sephora
+Shop a.n.a. Ryder Booties Levi's(R) -- Lowest Prices of the Season Shop Levi's
 
-Discover the world's most sought-after beauty at JCPenney.com
+29.99 Juniors' Levi's 505(TM) Straight-Fit jeans, reg. 44.50
 
-Shop Sephora Now Winter Coats For Everyone Layered to Chill
+Shop Juniors' Levi's  
 
-30 to 50% Off Coats and Jackets for the Family, select styles
+36.99 Guys' Levi's 514(TM) Straight-Fit Jeans, reg. $58
 
-Shop Coats and Jackets for the Family Shop Women's Coats Shop Men's Coats Save Even More on Clearance 50 to 80% Off Clearance
+Shop Guys' Levi's   New Markdowns! | Red Zone Clearance
 
-In Store and Online
+50 to 80% Off
 
-Shop Clearance SportsFanShop
+Shop Clearance Now Shop For Good
 
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
+Plus round up your October purchases to the nearest dollar to support breast cancer research and awareness.
 
-Shop SportsFanShop Star Wars™ Shop Star Wars Now Halloween Shop Shop Halloween Now Shop For Good
-
-with products that support breast cancer research and awareness
-
-Shop For Good Now
+Shop For Good Now Star Wars™ Shop Star Wars Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
