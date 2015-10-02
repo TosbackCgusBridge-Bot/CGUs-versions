@@ -23,7 +23,7 @@
 *   follow **vh1**
     
 
-*   disconnect
+*   sign out
 
 Last Modified: Dec 18, 2014  
 Click here to learn about the most recent significant updates. **Go to Terms of Use Agreement** **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**  
