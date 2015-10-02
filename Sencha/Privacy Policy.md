@@ -7,20 +7,17 @@ Sencha
 *   Products
     *   Sencha Platform
     *   Why Sencha
-    *   Integrated Products
-        *   Sencha Complete
-        *   Sencha Touch Bundle
     *   Frameworks
-        *   Sencha Ext JS
-        *   Sencha GXT
+        *   Ext JS
+        *   GXT
         *   Sencha Touch
     *   Tools
-        *   Sencha IDE Plugins
-        *   Sencha Cmd
-        *   Sencha Inspector
-        *   Sencha Architect
+        *   IDE Plugins
+        *   Cmd
+        *   Inspector
+        *   Architect
     *   Management
-        *   Sencha Web Application Manager
+        *   Web Application Manager
     *   Sencha Market
 *   Services
     *   Professional Services
@@ -43,13 +40,10 @@ Sencha
     *   Press Releases
     *   Careers
 *   Store
-    *   Sencha Ext JS
-    *   Sencha GXT
-    *   Sencha Architect
-    *   Sencha Touch Support
-    *   Sencha Web Application Manager
-    *   Sencha Complete
-    *   Sencha Touch Bundle
+    *   Ext JS
+    *   GXT
+    *   Architect
+    *   Web Application Manager
     *   Licensing
     *   Ordering Information
     *   Authorized Resellers
@@ -180,16 +174,14 @@ Get Sencha NewsBuy Online
 *   Products
     *   Why Sencha
     *   Sencha Platform
-    *   Sencha Complete
-    *   Sencha Touch Bundle
-    *   Sencha Ext JS
-    *   Sencha GXT
+    *   Ext JS
+    *   GXT
     *   Sencha Touch
-    *   Sencha IDE Plugins
-    *   Sencha Cmd
-    *   Sencha Inspector
-    *   Sencha Architect
-    *   Sencha Web Application Manager
+    *   IDE Plugins
+    *   Cmd
+    *   Inspector
+    *   Architect
+    *   Web Application Manager
     *   Sencha Market
 
 *   Services
@@ -223,13 +215,10 @@ Get Sencha NewsBuy Online
     *   Contact Us
 
 *   Store
-    *   Sencha Ext JS
-    *   Sencha GXT
-    *   Sencha Architect
-    *   Sencha Touch Support
-    *   Sencha Web Application Manager
-    *   Sencha Complete
-    *   Sencha Touch Bundle
+    *   Ext JS
+    *   GXT
+    *   Architect
+    *   Web Application Manager
     *   Licensing
     *   Ordering Information
     *   Authorized Resellers
