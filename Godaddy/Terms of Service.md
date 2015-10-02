@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: September 22, 2015**
+**Last Revised: October 1, 2015**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -185,7 +185,7 @@ IN NO EVENT SHALL GoDaddy, ITS OFFICERS, DIRECTORS, EMPLOYEES,  AGENTS, AND ALL
 
 IN ADDITION, You SPECIFICALLY ACKNOWLEDGE AND agree that any cause of action arising out of or related to this Site or the Services found at this Site must be commenced within one (1) year after the cause of action accrues, otherwise such cause of action shall be permanently barred.
 
-IN ADDITION, You SPECIFICALLY ACKNOWLEDGE AND agree that in no event shall GoDaddy’s total aggregate liability exceed the total amount paid by you for the particular ServiceS that ARE the subject of the cause of action.
+IN ADDITION, You SPECIFICALLY ACKNOWLEDGE AND agree that in no event shall GoDaddy’s total aggregate liability exceed $10,000.00 U.S. Dollars.
 
 THE FOREGOING LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW, AND shall survive any termination or expiration of this Agreement or your use of this Site or the Services found at this Site.
 
@@ -774,5 +774,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 9/22/15  
+Revised: 10/1/15  
 Copyright © 2005-2015 GoDaddy.com, LLC All Rights Reserved.
