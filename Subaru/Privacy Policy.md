@@ -37,11 +37,11 @@ Up to
 
 BRZ Limited shown
 
-Impreza $18,195 starting price 2015 Impreza
+Impreza $18,295 starting price 2016 Impreza
 
 Starting at
 
-$18,195 MSRP
+$18,295 MSRP
 
 Up to
 
@@ -51,9 +51,6 @@ Up to
 *   Photos &. Videos
 *   Compare
 *   Build Your Own
-
-Best Resale Value in its class  
-according to KBB.com
 
 Impreza 2.0i Limited shown
 
