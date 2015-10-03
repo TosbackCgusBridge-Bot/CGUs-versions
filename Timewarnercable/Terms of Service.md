@@ -56,9 +56,7 @@ Explore More Hide
 
 Privacy Policy
 
-About Us
-
-Website Privacy Policy
+About Us Website Privacy Policy
 
 The information Time Warner Cable collects about you at http://www.timewarnercable.com, and the subdomains thereof (the "Site" or "Website") is used to administer the Website and to provide information to Website visitors about the Site’s various services and tools, and to provide general news, information, entertainment and ecommerce capability. Time Warner Cable, together with Time Warner Cable-affiliated cable operators, are collectively referred to in this Privacy Policy as "we," "us," "our" or other similar pronouns, or "Time Warner Cable."
 
