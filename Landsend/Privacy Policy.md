@@ -81,12 +81,12 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Dress Shirts
             *   Casual Shirts
             *   Knit Tops &. Tees
-            *   Activewear
             *   Sweaters
             *   Sportcoats &. Blazers
             *   Pants
             *   Jeans
             *   Shorts
+            *   Activewear
             *   Swimsuits
             *   Sleepwear
             *   Shoes
@@ -219,14 +219,12 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Blankets &. Throws
             *   Mattress Pads
             *   Pillows
-            *   Shop All Bedding
         *   Bath
             *   Back to All Home Bath
             *   Towels
             *   Rugs &. Mats
             *   Beach Towels
             *   Soaps &. Scents
-            *   Shop All Bath
         *   DÉcor
             *   Back to All Home DÉcor
             *   Storage &. Organization
