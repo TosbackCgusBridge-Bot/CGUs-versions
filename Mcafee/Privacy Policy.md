@@ -43,7 +43,19 @@
     
     When non-personal information is combined with other information so that it does identify an individual person, we treat that combination as personally identifiable information.
     
+    McAfee collects some information that is personal (i.e., information that identifies an individual either alone or in combination with other data).
+    
+    McAfee also collects non-personal information that does not, on its own, identify an individual person.
+    
+    When non-personal information is combined with other information so that it does identify an individual person, we treat that combination as personally identifiable information.
+    
 *   It takes data to protect data
+    
+    A bot is software that automatically does things when triggered to do so. Its name comes from "robot."
+    
+    A virus is software that spreads from one computer or device usually without the users permission. Like viruses in humans, viruses in computers or devices affect functionality. A virus can be a bot (and visa versa).
+    
+    Malware is software that can harm you or your computer or device.
     
     A bot is software that automatically does things when triggered to do so. Its name comes from "robot."
     
@@ -76,6 +88,8 @@
     *   Home network defense
         
 *   When you give it to us, we collect your personal and non-personal data
+    
+    We do not knowingly collect personal information directly from children under 13 without proper parental consent. Parents or guardians may sign up the entire family for security protection.
     
     We do not knowingly collect personal information directly from children under 13 without proper parental consent. Parents or guardians may sign up the entire family for security protection.
     
@@ -250,6 +264,8 @@
     
     We will only keep your personal information as long as we have a business relationship and it is needed for internal reporting or legal requirements.
     
+    We will only keep your personal information as long as we have a business relationship and it is needed for internal reporting or legal requirements.
+    
     *   You may unsubscribe from our marketing communications. Go to My Account on our website
     *   You may change settings that control how your data is collected in our products.
     *   You may remove your personal information from a McAfee website testimonial by contacting customer service.
@@ -276,6 +292,8 @@
     McAfee is a globally integrated enterprise that is committed to protecting your personal and system data. We provide a consistent and extensive level of protection regardless of the country in which you or McAfee resides.
     
     If you are located in the European Economic Area or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside of the EEA or Switzerland. McAfee is certified under the Safe Harbor Privacy Framework.
+    
+    We may store your information wherever McAfee and its service providers have facilities.
     
     We may store your information wherever McAfee and its service providers have facilities.
     
@@ -325,6 +343,10 @@
     *   **For Japan:**  
         McAfee Co., Ltd., Shibuya Mark City West Building 12-1, Dogenzaka 1-Chrome, Shibuya-ku, Tokyo 150-0043, Japan
 *   Thank you for your trust Sometimes Privacy Policies change
+    
+    We may update this Notice at any time by posting additions or modifications on this web page. If at any point we decide to use personal information in a manner materially different from that stated at the time it was collected, we will notify users by email or via a prominent notice on our website, or other means. Where required, we will seek appropriate consent of our users.
+    
+    Sometimes Privacy Policies change
     
     We may update this Notice at any time by posting additions or modifications on this web page. If at any point we decide to use personal information in a manner materially different from that stated at the time it was collected, we will notify users by email or via a prominent notice on our website, or other means. Where required, we will seek appropriate consent of our users.
     
