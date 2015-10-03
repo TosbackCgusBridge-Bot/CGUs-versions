@@ -125,7 +125,7 @@ Other Sony Websites
 *   Business and Professional
 *   Sony.com
 
-Mobile Application Support by Sony Shop, Savings and Orders*   Electronics
+Mobile Application Support by Sony Shop*   Electronics
 *   Customer Service
 Where To Buy See Retail Partners Sony Rewards
 
