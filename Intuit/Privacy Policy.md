@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (7)
 *   recommendations
 *   track order
 *   ship to
@@ -12,12 +12,12 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  JEANA
 *   (sign out)
     
 *   my account
 
-*   no saved items
+*   saved items: (7)
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true 10.60.216.10 C13919346363
+true true 10.60.216.10 C13924743385
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Thu Oct 01 07:37:15 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1c1j4 TIME :->. Fri Oct 02 07:13:31 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -62,7 +62,7 @@ In Store and Online | Ends 10/4 | Code: PUPPY
 
 \*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
 
-\*See exclusions and details Print Coupon Great Deals In Store and Online Best of Fall Sale Shop Fall Sale Now View Store Ad Shop Men Shop Women   Shop Kids Shop Baby Shop Shoes Shop Accessories and Handbags Shop Home Shop JewelryNight and Day Doorbusters
+\*See exclusions and details Print Coupon Great Deals In Store and Online Best of Fall Sale Shop Fall Sale Now View Store Ad Shop Men Shop Women   Shop Kids Shop Baby Shop Shoes Shop Accessories and Handbags Shop Home Shop Jewelry Night and Day Doorbusters
 
 Friday 3 PM CDT through Saturday 1 PM CDT
 
@@ -70,7 +70,7 @@ Shop Doorbusters Now Refresh Your Space With Curtains and Drapes Home Sale | 30 
 
 Select styles
 
-  Shop the Home Sale Shop Bedding and Bath Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop LuggageOur Biggest Window Sale of the Season
+  Shop the Home Sale Shop Bedding and Bath Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage Our Biggest Window Sale of the Season
 
 40 to 50% Off | October 1-12
 
