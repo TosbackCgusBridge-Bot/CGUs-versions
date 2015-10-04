@@ -114,7 +114,7 @@ Join FTC Commissioner Julie Brill, Congresswoman Suzan DelBene and members of Co
 
 Tue, Nov 17, 2015 OTA Annual Member Meeting
 
-Save the date.  Panels to include speakers from the public &. private sectors, with updates on key issues including facial recognition, online tracking, breach legislation, and the IoT trust framework..  Hosted at the Holland &. Knight Conference Center.   Contact OTA for more information at 425-455-7400.  Limited to OTA members and invited guests who abide to "Chatham House Rule" Register Today
+Join OTA members, staff and the board as we celebrate our 10th year anniversary. Full-day of interactive discussions on a number of hot topics including briefings with legislators and networking opportunities.  In conjunction with the annual meeting, OTA is hosting a Salon dinner on Monday night the 16th, the IoT Trust Framework Summit on Wednesday 18th and Congressional Staff lunch on Thursday the 19th.
 
 *   OTA Blog
 *   Newsletters
