@@ -1,1 +1,1 @@
-For search results please CLICK HERE.
+foodfunandfacts.com © 2015 DropCatch.com
