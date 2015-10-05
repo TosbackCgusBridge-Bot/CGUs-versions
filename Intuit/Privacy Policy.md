@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (1)
 *   recommendations
 *   track order
 *   ship to
@@ -17,7 +17,7 @@
     
 *   my account
 
-*   no saved items
+*   saved items: (1)
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14031461038
+true true 10.60.216.10 C13930232287
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p25.jcpenney.com SERVER NAME :->. dtcomexpr1l1j1 TIME :->. Sat Oct 03 04:28:47 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p34.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Sun Oct 04 04:06:40 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,69 +48,51 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Extra 25% Off\* with your JCPenney Credit Card Or, Extra 20% Off\* with any other method of payment
-
-Online Only, Orders over $100 | Ends 10/4 | Code: PUPPY
-
-Extra 20% Off\* with your JCPenney Credit Card Or, Extra 15% Off\* with any other method of payment
-
-In Store and Online | Ends 10/4 | Code: PUPPY
-
-Or, Extra 15% Off\* furniture, mattresses and custom blinds &. shades Or, Extra 10% Off\* watches and salon products
-
-In Store and Online | Ends 10/4 | Code: PUPPY
-
-\*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
-
-\*See exclusions and details Print Coupon Great Deals In Store and Online Best of Fall Sale Shop Fall Sale Now View Store Ad Shop Men Shop Women   Shop Kids Shop Baby Shop Shoes Shop Accessories and Handbags Shop Home Shop Jewelry Night and Day Doorbusters
-
-Friday 3 PM CDT through Saturday 1 PM CDT
-
-Shop Doorbusters Now Refresh Your Space With Curtains and Drapes Home Sale | 30 to 50% Off Home Collections
+Update Your Space With Curtains and Drapes Home Sale | 30 to 50% Off Home Collections
 
 Select styles
 
-  Shop the Home Sale Shop Bedding and Bath Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage Our Biggest Window Sale of the Season
-
-40 to 50% Off | October 1-12
-
-Shop Curtains and Drapes Shop Blinds and Shades Fall For the Latest Dresses The Dress Event | Now - October 12
+Shop the Home Sale Shop Window Shop Bedding and Bath Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Save On Women's Dresses During The Dress Event The Dress Event | Now Through October 12
 
 40% Off Dresses, select styles
 
-Shop Dresses
+Shop Women Shop Juniors Levi's(R) Jeans On Sale Lowest Prices Of The Season
 
-39.99 nicole by Nicole Miller print panel dress, orig. $72
+Pricing effective now through 10/26. Excluded from coupon.
 
-Shop Nicole Miller  
+Shop All Levi's
 
-49.99 Bisou Bisou sleeveless sweater dress, orig. $86
+36.99 Guys' Levi's 514(TM) Straight Fit Jeans, reg. $58
 
-Shop Bisou Bisou   Kick Off the Season With Women's Boots Step Into Fall
+Shop Guys' Levi's  
 
-40% Off Booties and Boots, select styles
+22.99 Boys' Levi's 510(TM) Skinny or 511(TM) Slim Jeans, orig. $44-48
 
-Shop Booties and Boots
+Shop Boys' Levi's  
 
-47.99 a.n.a. Ryder High-Heel Women's Ankle Booties, orig. $80
+29.99 Women's Levi's 505(TM) Straight Leg Jeans, reg. 44.50
 
-Shop a.n.a. Ryder Booties Levi's(R) -- Lowest Prices of the Season Shop Levi's
+Shop Women's Levi's   Save On Boots For Men, Women and Kids 30 to 40% Off Boots for the Family
 
-29.99 Juniors' Levi's 505(TM) Straight-Fit jeans, reg. 44.50
+Select styles
 
-Shop Juniors' Levi's  
+Shop Boots for the Family Disney Costumes Just In Time For Halloween Fairest Event Of Them All
 
-36.99 Guys' Levi's 514(TM) Straight-Fit Jeans, reg. $58
+20 to 25% Off All Disney Collection Dress-Up Costumes and Accessories
 
-Shop Guys' Levi's   New Markdowns! | Red Zone Clearance
+Shop Costumes and Dress-Up Shop All Disney SportsFanShop
 
-50 to 80% Off
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop Clearance Now Shop For Good
+Shop SportsFanShop Shop For Good
 
 Plus round up your October purchases to the nearest dollar to support breast cancer research and awareness.
 
-Shop For Good Now Star Wars™ Shop Star Wars Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop For Good Now New Markdowns! | Red Zone Clearance
+
+50 to 80% Off
+
+Shop Clearance Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
