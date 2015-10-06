@@ -321,6 +321,7 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Services &. Warranty
     *   Smartphones
     *   Lenovo Holiday Deals
+    *   Lenovo Preferred Card
     *   Lenovo Gift Cards
     *   Lenovo Photo Service
     *   Gaming Computers
