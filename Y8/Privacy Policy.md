@@ -30,7 +30,7 @@ Parental control
 *   Skill games
 *   Arcade &. Classic games
 *   Fun/Crazy games
-*   View all  
+*   View All  
     356 Tags
 
 PRIVACY POLICY
@@ -102,7 +102,7 @@ Parents, if you would like to review your child's personal information, ask to h
 We may change from time to time the terms of Our Privacy Policy. The mention of the terms "Last modified" followed by a date shall indicate You of this occurrence.  
 If you have any questions, you can contact us through our contact form.
 
-*   Advertise on Y8
+*   Advertise
 *   contact form
 *   Submit a game or animation
 *   Games for your website
