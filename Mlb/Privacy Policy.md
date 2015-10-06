@@ -1,6 +1,6 @@
 To learn about our efforts to improve the accessibility and usability of our website, please visit our Accessibility Information page. Skip to section navigation or Skip to main content Below is an advertisement. 日本語 Español 한국어 繁體中文
 
-Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Fantasy Auction Vote Teams
+Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Fantasy Teams
 
 *   Scores
 *   News News News
@@ -67,7 +67,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Sortable Team Stats
     *   Milestone Tracker
     *   Offseason Leagues
-    *   Scoring ChangesSteal A Home Sweeps Sortable Stats
+    *   Scoring ChangesSortable Stats
 *   Standings Standings Standings
     *   Regular Season Standings
     *   Wild Card Standings
@@ -138,6 +138,9 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Jerseys
     *   Photos
 *   MLB.TV MLB.TV MLB.TV
+    *   MLB.TV Postseason (U.S.)
+    *   MLB.TV Postseason (International)
+    *   Postseason.TV (U.S./Canada)
     *   Watch/Listen
     *   Alternative Audio
     *   MLB.TV with Extra Innings
@@ -149,6 +152,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.TV Download Center
     *   Contact Us
 *   Fantasy Fantasy Fantasy
+    *   Postseason Bracket Challenge
     *   Beat the Streak
     *   R.B.I. Baseball 15
     *   MLB.com Home Run Derby
@@ -156,14 +160,11 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.com Franchise MVP
     *   MLB Connect
     *   Player News &. Updates
-    *   Closer Report
     *   Injury Report
     *   WGT Baseball: MLB
     *   Prospect Watch
     *   Fantasy 411 Blog
-    *   Follow @Fantasy411MLB.com Home Run Derby DraftKings R.B.I. Baseball 15
-*   Auction
-*   Vote
+    *   Follow @Fantasy411MLB.com Home Run Derby R.B.I. Baseball 15
 *   Teams Teams American League AL East
     
     *   Baltimore
