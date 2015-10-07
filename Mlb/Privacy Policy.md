@@ -1,6 +1,6 @@
 To learn about our efforts to improve the accessibility and usability of our website, please visit our Accessibility Information page. Skip to section navigation or Skip to main content Below is an advertisement. 日本語 Español 한국어 繁體中文
 
-Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Fantasy Teams
+Sections Scores News Video Stats Standings Schedule Players Postseason Tickets Apps Shop MLB.TV Fantasy Teams
 
 *   Scores
 *   News News News
@@ -95,6 +95,14 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB Players Association
     *   Probable Pitchers
     *   Franchise Four
+*   Postseason Postseason Postseason
+    *   2015 Postseason Schedule
+    *   WorldSeries.com
+    *   Postseason Bracket Challenge
+    *   2015 Postseason Picture
+    *   Probable Pitchers
+    *   World Series History
+    *   International Broadcasters
 *   Tickets Tickets Tickets
     *   General Ticket Information
     *   Postseason Ticket Refund Policies
@@ -105,6 +113,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   At Bat on Tablets
     *   At Bat on Apple iPad®
     *   MLB.com Ballpark app
+    *   MLB Fans App
     *   Beat the Streak
     *   MLB.com Home Run Derby
     *   RBI Baseball 15
@@ -152,7 +161,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.TV Download Center
     *   Contact Us
 *   Fantasy Fantasy Fantasy
-    *   Postseason Bracket Challenge
     *   Beat the Streak
     *   R.B.I. Baseball 15
     *   MLB.com Home Run Derby
