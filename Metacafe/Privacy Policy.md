@@ -2,7 +2,7 @@ Terms &. Conditions
 
 1.  **Your Acceptance**
     
-    BY USING OR VISITING THIS WEB SITE (together with all Content available through the Metacafe.com domain name and other sites owned, operated or controlled by Collective Digital Studio, LLC (“MetaCafe, LLC”) (the "Web Site"), OR SUBMITTING CONTENT TO THIS WEB SITE, YOU SIGNIFY YOUR ASSENT TO (1) THESE TERMS AND CONDITIONS (the "Terms &. Conditions"), AND (2) MetaCafe, LLC’s PRIVACY POLICY at Privacy Policy These Terms &. Conditions apply to all users of the Web Site. If you do not agree to these Terms &. Conditions, the Privacy Policy, or the Terms &. Conditions for the Producer Program, then please do not use the Web Site.
+    BY USING OR VISITING THIS WEB SITE (together with all Content available through the Metacafe.com domain name and other sites owned, operated or controlled by MetaCafe, LLC (the "Web Site"), OR SUBMITTING CONTENT TO THIS WEB SITE, YOU SIGNIFY YOUR ASSENT TO (1) THESE TERMS AND CONDITIONS (the "Terms &. Conditions"), AND (2) MetaCafe, LLC’s PRIVACY POLICY at Privacy Policy These Terms &. Conditions apply to all users of the Web Site. If you do not agree to these Terms &. Conditions, the Privacy Policy, or the Terms &. Conditions for the Producer Program, then please do not use the Web Site.
     
 2.  **Links**
     
@@ -43,9 +43,9 @@ Terms &. Conditions
       
     MetaCafe, LLC’s Copyright Agent for Notice of claims of copyright infringement can be reached as follows:  
     By mail: Copyright Agent  
-    Collective Digital Studio, LLC  
-    2255 3rd St.  
-    San Francisco, CA 94103  
+    Metacafe, LLC  
+    18012 Cowan, Ste 175  
+    Irvine, CA 92614  
     By email: CR-agent@metacafe.com  
       
       
@@ -89,7 +89,7 @@ Last updated: October 3, 2012.
 
 Privacy Policy
 
-The use of the Metacafe Web Site(s) and/or Metacafe software and any Metacafe services and products (collectively, the "Web Site") provided by Collective Digital Studio, LLC. ("MetaCafe, LLC") are subject to the provisions of this Privacy Policy, including any amendments or updates hereto. This Privacy Policy is incorporated into and is subject to the MetaCafe, LLC Terms &. Conditions. If you do not agree to this Privacy Policy, please do not use the Web Site.
+The use of the Metacafe Web Site(s) and/or Metacafe software and any Metacafe services and products (collectively, the "Web Site") provided by MetaCafe, LLC are subject to the provisions of this Privacy Policy, including any amendments or updates hereto. This Privacy Policy is incorporated into and is subject to the MetaCafe, LLC Terms &. Conditions. If you do not agree to this Privacy Policy, please do not use the Web Site.
 
 General
 
