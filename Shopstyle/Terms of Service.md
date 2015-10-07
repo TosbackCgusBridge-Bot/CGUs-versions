@@ -206,7 +206,7 @@ POPSUGAR Inc., its subsidiaries and affiliates (“POPSUGAR,” “we,” “us,
         
         Sean Macnew  
         POPSUGAR Inc.  
-        111 Sutter Street, 14th Floor  
+        111 Sutter Street, Suite 850  
         San Francisco, CA 94104  
         Phone: (415) 391-7576  
         Fax: (415) 391-7584  
@@ -228,7 +228,7 @@ POPSUGAR Inc., its subsidiaries and affiliates (“POPSUGAR,” “we,” “us,
     10.  Both you and POPSUGAR acknowledge and agree that Apple and Apple’s subsidiaries are third party beneficiaries of this Agreement, and that upon your acceptance of this Agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as the third party beneficiary hereof.
 *   QUESTIONS
     
-    If you have any questions or notices of violation of this Agreement, please contact the editor of the website or service in question, or send an email to community@popsugar.com, or by mail to POPSUGAR Inc., 111 Sutter Street, 14th Floor, San Francisco, CA 94104, or by calling (415) 391-7576.
+    If you have any questions or notices of violation of this Agreement, please contact the editor of the website or service in question, or send an email to community@popsugar.com, or by mail to POPSUGAR Inc., 111 Sutter Street, Suite 850, San Francisco, CA 94104, or by calling (415) 391-7576.
     
 *   FTC DISCLOSURE REQUIREMENTS
     
