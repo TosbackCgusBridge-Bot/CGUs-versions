@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14035859114
+true true C13938900854
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p13.jcpenney.com SERVER NAME :->. dtcomexpr1l1j6 TIME :->. Mon Oct 05 10:43:09 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p32.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Tue Oct 06 06:43:23 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,51 +48,84 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Update Your Space With Curtains and Drapes Home Sale | 30 to 50% Off Home Collections
+Today Online Only! Tuesday, October 6 | Online Code: 1DYEVENT Get Details:Take Your Pick
 
-Select styles
+Extra 25% Off\* select styles
 
-Shop the Home Sale Shop Window Shop Bedding and Bath Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Save On Women's Dresses During The Dress Event The Dress Event | Now Through October 12
+Or, Extra 15% Off\* fine jewelry
 
-40% Off Dresses, select styles
+Or, Extra 10% Off\* watches, salong products, furniture, mattresses and custom blinds and shades
 
-Shop Women Shop Juniors Levi's(R) Jeans On Sale Lowest Prices Of The Season
+Or, Extra 30% Off\* $150 or more, select styles
 
-Pricing effective now through 10/26. Excluded from coupon.
+Plus Free Shipping Anywhere over $49\*  
+\*exclusions apply
 
-Shop All Levi's
+Women
 
-36.99 Guys' Levi's 514(TM) Straight Fit Jeans, reg. $58
+40 to 50% Off Sweaters for Her, select styles
 
-Shop Guys' Levi's  
+Shop Sweaters for Her
 
-22.99 Boys' Levi's 510(TM) Skinny or 511(TM) Slim Jeans, orig. $44-48
+21.99 Juniors' Arizona or Decree Denim, select styles
 
-Shop Boys' Levi's  
+Shop Juniors' Arizona or Decree Denim
 
-29.99 Women's Levi's 505(TM) Straight Leg Jeans, reg. 44.50
+40% Off Women's Coats and Jackets, select styles
 
-Shop Women's Levi's   Save On Boots For Men, Women and Kids 30 to 40% Off Boots for the Family
+Shop Women's Coats and JacketsMen
 
-Select styles
+40% Off Men's Hats, Gloves and Scarves, select styles
 
-Shop Boots for the Family Disney Costumes Just In Time For Halloween Fairest Event Of Them All
+Shop Men's Hats, Gloves and Scarves
 
-20 to 25% Off All Disney Collection Dress-Up Costumes and Accessories
+40 to 50% Off Men's Sweaters, select styles
 
-Shop Costumes and Dress-Up Shop All Disney SportsFanShop
+Shop Men's Sweaters
+
+40% Off Men's Coats and Jackets, select styles
+
+Shop Men's Coats and JacketsKids and Shoes
+
+30 to 40% Off Boots for Her, select styles
+
+Shop Boots for Her
+
+40% Off Boys' and Girls' Arizona Apparel, select styles
+
+Shop Boys' and Girls' Arizona Apparel
+
+40% Off Kids' Coats and Jackets, select styles
+
+Shop Kids' Coats and JacketsHome
+
+60% Off Studio 550TC Ultrafit Performance Sheet Sets, select styles
+
+Shop Studio 550TC Ultrafit Performance Sheet Sets
+
+60% Off JCPenney Home Cirque Dinnerware Set, select styles
+
+Shop JCPenney Home Cirque Dinnerware Set
+
+50% Off Liz Claiborne Kathryn Grommet and Pinch-Pleat Panel, select styles
+
+Shop Liz Claiborne Panels Red Zone Clearance | New Markdowns!
+
+60 to 85% Off when you use 25% Off code: 1DYEVENT
+
+Shop Clearance Get Details SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop Shop For Good
+Shop SportsFanShop Now Shop For Good
 
 Plus round up your October purchases to the nearest dollar to support breast cancer research and awareness.
 
-Shop For Good Now New Markdowns! | Red Zone Clearance
+Shop Now People StyleWatch Must Haves
 
-50 to 80% Off
+Sponsored Content
 
-Shop Clearance Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop People StyleWatch Now Download the JCPenney App and Get Shopping Check Out The App Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
