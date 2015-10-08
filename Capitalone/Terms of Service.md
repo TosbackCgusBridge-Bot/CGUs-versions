@@ -35,8 +35,7 @@ Menu
         *   Mortgage Calculators
         *   Learn More About Mortgages
         *   Home Equity Overview
-        *   Home Equity Loan
-        *   Home Equity Line of Credit
+        *   Home Equity Rates &. Loans
         
         Auto Financing
         *   Auto Financing Home
