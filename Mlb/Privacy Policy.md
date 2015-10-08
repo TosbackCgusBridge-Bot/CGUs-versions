@@ -39,7 +39,7 @@ Sections Scores News Video Stats Standings Schedule Players Postseason Tickets A
     *   120 Sports
     *   Podcasts
     *   Alternative Audio
-    *   MLB Awards
+    *   Must C
     *   Most Popular
     *   Baseball's Best Moments
     *   FAQs
@@ -49,19 +49,20 @@ Sections Scores News Video Stats Standings Schedule Players Postseason Tickets A
     
     Featured
     *   #FilthiestPlays
-    *   MLB Awards
+    *   Must C
     *   Chatting Cage
-    *   DraftKings
-    *   Postseason Path
-    *   #Whiffs
-    *   High-Strength Hits
+    *   Bud Celebrations
+    *   Vixlet FastCast
+    *   Taco Bell Steals
+    *   Outstandings
     *   #MLBMemoryBank
     *   Pitch and Prevail
     *   Cut 4
     *   Daily Dash
     *   Must C
 *   Stats Stats Stats
-    *   Sortable Player Stats
+    *   Postseason Sortable Stats
+    *   Regular Season Sortable Player Stats
     *   Regular Season League Leaders
     *   Statcast Leaders
     *   Sortable Team Stats
