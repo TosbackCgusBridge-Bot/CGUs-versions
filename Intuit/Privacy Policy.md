@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13938900854
+true true C13943991950
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p32.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Tue Oct 06 06:43:23 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p30.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Wed Oct 07 11:55:50 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,84 +48,71 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Today Online Only! Tuesday, October 6 | Online Code: 1DYEVENT Get Details:Take Your Pick
+$10 Off\* $25 Or More In Store and Online | Ends October 12 | Code: SPRINGER Print CouponOr, Extra 20% Off\* with your JCPenney Credit Card In Store and Online | Ends October 12 | Code: SPANIEL Or, Extra 15% Off\* with any other method of payment Online Only | Ends October 12 | Code: SPANIEL Or, Extra 10% Off\* select watches, salong products, furniture, mattresses and custom blinds &. shades In Store and Online | Ends October 12 | Code: SPANIEL
 
-Extra 25% Off\* select styles
+\*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
 
-Or, Extra 15% Off\* fine jewelry
+\*See exclusions and details In Store and Online | Ends October 12 Columbus Day Huge Sale and Clearance Shop Now View Store Ad Shop Women Shop Men Shop Kids Shop Baby Shop Home Shop Accessories Shop Shoes Shop Jewelry and Watches
 
-Or, Extra 10% Off\* watches, salong products, furniture, mattresses and custom blinds and shades
+50 to 80% Off Clearance | In Store and Online
 
-Or, Extra 30% Off\* $150 or more, select styles
+Shop Clearance Now Levi's(R) Jeans On Sale Lowest Prices Of The Season
 
-Plus Free Shipping Anywhere over $49\*  
-\*exclusions apply
+Pricing effective now through 10/26. Excluded from coupon.
 
-Women
+Shop All Levi's
 
-40 to 50% Off Sweaters for Her, select styles
+36.99 Guys' Levi's 514(TM) Straight Fit Jeans, reg. $58
 
-Shop Sweaters for Her
+Shop Guys' Levi's  
 
-21.99 Juniors' Arizona or Decree Denim, select styles
+22.99 Boys' Levi's 510(TM) Skinny or 511(TM) Slim Jeans, orig. $44-48
 
-Shop Juniors' Arizona or Decree Denim
+Shop Boys' Levi's  
 
-40% Off Women's Coats and Jackets, select styles
+29.99 Women's Levi's 505(TM) Straight Leg Jeans, reg. 44.50
 
-Shop Women's Coats and JacketsMen
+Shop Women's Levi's  
 
-40% Off Men's Hats, Gloves and Scarves, select styles
+\*Levi's(R) "lowest prices of the season" refers to the time period from 9/6 through 11/25. prices may be further reduced on items as a part of clearance in the future.
 
-Shop Men's Hats, Gloves and Scarves
+Save On Furniture and Mattresses Home Sale | 30 to 50% Off Home Collections
 
-40 to 50% Off Men's Sweaters, select styles
+Select styles
 
-Shop Men's Sweaters
+Shop the Home Sale40 to 50% Off Furniture and Mattresses
 
-40% Off Men's Coats and Jackets, select styles
+Select styles
 
-Shop Men's Coats and JacketsKids and Shoes
+Shop Furniture and Mattresses Today Only! Extra Savings on Fine Jewelry Diamond Sale | Extra Savings Today Only!
 
-30 to 40% Off Boots for Her, select styles
+45 to 65% Off Fine Jewelry and Bijoux Bar, select styles
 
-Shop Boots for Her
+Shop Fine Jewelry and Bijoux Bar
 
-40% Off Boys' and Girls' Arizona Apparel, select styles
+30 to 60% Off Fashion Jewelry and Fashion Silver, select styles
 
-Shop Boys' and Girls' Arizona Apparel
+Shop Fashion Jewelry and Fashion Silver
 
-40% Off Kids' Coats and Jackets, select styles
+25 to 55% Off Fine and Fashion Watches
 
-Shop Kids' Coats and JacketsHome
+Shop Fine and Fashion Watches   Coats For Women, Men and Kids On Sale 40% Off Coats and Jackets for the Family
 
-60% Off Studio 550TC Ultrafit Performance Sheet Sets, select styles
+Select styles
 
-Shop Studio 550TC Ultrafit Performance Sheet Sets
-
-60% Off JCPenney Home Cirque Dinnerware Set, select styles
-
-Shop JCPenney Home Cirque Dinnerware Set
-
-50% Off Liz Claiborne Kathryn Grommet and Pinch-Pleat Panel, select styles
-
-Shop Liz Claiborne Panels Red Zone Clearance | New Markdowns!
-
-60 to 85% Off when you use 25% Off code: 1DYEVENT
-
-Shop Clearance Get Details SportsFanShop
+Shop Coats and Jackets for the Family SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop Now Shop For Good
+Shop SportsFanShop Halloween Shop Shop Halloween Now Love Your Fit
 
-Plus round up your October purchases to the nearest dollar to support breast cancer research and awareness.
+Bra Fit Event | Now through October 18th
 
-Shop Now People StyleWatch Must Haves
+Shop Now Styled by JCPenney
 
-Sponsored Content
+Check out our blog.
 
-Shop People StyleWatch Now Download the JCPenney App and Get Shopping Check Out The App Download on the App Store Get it on Google Play
+Read it Now
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
