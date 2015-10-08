@@ -8,7 +8,11 @@ Sign In
 *   Create profile
 *   Sign In
 
-\*E-mail \*Password Min. 8 characters \*Password again
+Click here to create a recruiter/company profile!  
+
+Create a job seeker profile:
+
+\*E-mail \*Password Min. 8 characters
 
 \* Required information.
 
