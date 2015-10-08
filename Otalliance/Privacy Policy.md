@@ -63,35 +63,35 @@ Skip to main content Online Trust Alliance
 
 Home › Privacy Policy Privacy Policy Privacy Policy Highlights
 
-**Updated October 6, 2015** (See archived privacy policy)                                  
+**Updated October 8, 2015** (See archived privacy policy)                                  
 
 Complete Privacy Policy                                   
 
 Politica De Privacida
 
-Online Trust Alliance, (OTA, Inc) is committed to protecting your privacy.  By accessing the Site www.otalliance.org, you are consenting to the information collection and use practices described in this privacy policy.
+Online Trust Alliance, (OTA) is committed to protecting your privacy.  By accessing the Site www.otalliance.org, you are consenting to the information collection and use practices described in this privacy policy.
 
 Online Trust Alliance has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Site www.otalliance.org.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe.
 
 **Collection and Use**  
-We need to collect certain information that personally identifies you in order to contact you, provide a service or carry out a transaction that you have requested, including, but not limited to, name, e-mail address, information about your job or company and credit card information. Online Trust Alliance (OTA) may use personal information to provide you with more effective customer service, to improve the https://otalliance.org (Site) and any related OTA products or services.  We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. \[Learn More\]
+We need to collect certain information that personally identifies you in order to contact you, provide a service or carry out a transaction that you have requested, including, but not limited to, name, e-mail address, information about your job or company and credit card information.  OTA may use your personal information to provide you with more effective customer service, to improve the Site: (https://otalliance.org) and any related OTA products or services.  We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. \[Learn More\]
 
 **Data Sharing**  
-OTA occasionally hires other companies, consultants and contractors to provide limited services on our behalf. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose   \[Learn More\] 
+OTA occasionally hires other companies, consultants and contractors to provide limited services on our behalf. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose.  \[Learn More\] 
 
-**Tracking Technologies**  
-Through the use of “cookies”, we may collect data on, among other things, the following information: To make it easier to navigate our Site and to optimize the user experience across multiple devices OTA supports the development of a “do not track” standard. At this time OTA does not respond to DNT mechanisms. Once a standardized "Do Not Track" (DNT) feature is released, OTA intends to adhere to the browser settings accordingly. \[Learn More\]
+**Cookies and Other Tracking Technologies**  
+We and our service providers may use tracking technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the Site, track users’ movements around the Site, and gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies from these companies on an individual or aggregated basis. \[Learn More\]
 
 **User Options**  
-Receiving email messages from OTA, is optional and we provide choice options. Users can also access the personal information they have provided to OTA for the purposes of reviewing, updating and deleting such information.  \[Learn More\]
+Receiving email messages from OTA is optional and we provide choice options. Users can also access the personal information they have provided to OTA for the purposes of reviewing, updating, and deleting such information.  \[Learn More\]
 
 **Data Security**  
-We have implemented a number of security features throughout the site that are intended to prevent the unauthorized release of or access to the user information we collect online.  Summary of best practices
+We have implemented generally accepted standards of security features throughout the Site that are intended to prevent the unauthorized release of or access to the user information we collect online. 
 
 **Other Information**  
-The Site is not targeted nor directed to children under the age of eighteen. To contact us, please visit the Contact Us page
+The Site is not targeted nor directed to children under the age of eighteen. To contact us, please visit the Contact Us page.
 
 *   Upcoming Events
 *   News
@@ -119,6 +119,10 @@ Join OTA members, staff and the board as we celebrate our 10th year anniversary.
 *   OTA Blog
 *   Newsletters
 
+Thu, Oct 8, 2015 Help Your Small Business Weather the Safe Harbor Storm
+
+Europe's highest court recently struck down the "Safe Harbor" agreement between the United States and the European Union (EU), a decision that could have an enormous impact on American and European businesses who depend on transatlantic data transfers for their livelihood.  The decision by the European Court of Justice (ECJ) means that U.S.
+
 Fri, Sep 18, 2015 Does Your Favorite Presidential Candidate Make the Grade?
 
 As the Presidential race kicks into high gear, voters are evaluating how candidates will tackle tough issues on foreign and domestic policy.  Let’s hope they don’t overlook topics relating to online privacy and security.  A recent Pew Research Center survey indicates that 74% of Americ
@@ -130,12 +134,6 @@ As campaigns ramp up for candidates, political parties and super PACs, it is tim
 Thu, Aug 27, 2015 Back To School Basics
 
 As we are getting ready for “back to school” it is a reminder of the need to get back to the basics and the importance of consumer centric security and privacy enhancing best practices.  The recent Wyndham dispute with the Federal Trade Commission and Spotify’s privacy policy snafu serve as stark reminders of these concerns.
-
-Fri, Jul 31, 2015 The Demise of Online Advertising As We Know it
-
-Updated 8-4-15
-
-Recent news is troubling as the tide has clearly turned on the online advertising community.  As I outlined nearly five years ago, the failure of the industry to put in place meaningful controls and consumer choice regarding data collection AND stem the tide of malicious advertising will bring about a “tragedy of the advertising commons”. 
 
 Resources
 
