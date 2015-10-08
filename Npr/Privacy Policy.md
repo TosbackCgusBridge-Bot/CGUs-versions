@@ -79,7 +79,6 @@ Back News and Conversations
 *   Here &. Now
 *   The Diane Rehm Show
 *   Latino USA
-*   On The Media
 *   On Point
 *   Weekend Edition Saturday
 *   Weekend Edition Sunday
@@ -96,8 +95,6 @@ Storytelling &. Humor
 *   Only A Game
 *   Planet Money
 *   Pop Culture Happy Hour
-*   Radiolab
-*   Snap Judgment
 *   StoryCorps
 *   TED Radio Hour
 *   Wait Wait...Don't Tell Me!
@@ -115,7 +112,6 @@ Music
 *   Microphone Check
 *   Mountain Stage
 *   Piano Jazz
-*   Song Travels
 *   The Thistle &. Shamrock
 *   World Cafe
 
@@ -507,10 +503,7 @@ Support The Programs You Love
     *   Invisibilia
     *   Latino USA
     *   Morning Edition
-    *   On The Media
     *   On Point
-    *   Radiolab
-    *   Snap Judgment
     *   StoryCorps
     *   TED Radio Hour
     *   Wait Wait...Don't Tell Me!
