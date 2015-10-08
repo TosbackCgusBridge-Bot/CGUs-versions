@@ -1,4 +1,4 @@
-1.800.753.8558 Find your local store Skip to content
+1.800.753.8558 Find your store Skip to content
 
 *   Login
 *   Register
