@@ -79,8 +79,8 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   Sleeping &. Soothing
     *   Traveling
     
-    *   Fisher-Price Birthday Club
-    *   Birthday Club
+    *   We asked parents around the world the most important question.
+    *   See the responses
 *   GAMES &. ACTIVITIES Online Games Apps for Kids Online Videos Coloring Pages Crafts for Kids
 *   OUR STORY
     
