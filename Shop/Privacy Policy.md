@@ -20,9 +20,9 @@ LENOVO Menu
         8.  Deals for Students and Educators
         9.  Outlet
         10.  Warranty-Sale
-    *   Super Savings Lenovo Fights High Prices. Saves Day.
+    *   Savings You’ll Fall For. Be-leave it or not. These Deals are Real.
         
-        Save up to 47% Site-Wide.
+        Save up to 52% Site-Wide.
         
     *   Need it Quick?
         
