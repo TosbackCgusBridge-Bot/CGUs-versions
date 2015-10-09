@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13943991950
+true true C13948976985
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p30.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Wed Oct 07 11:55:50 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p27.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Thu Oct 08 11:03:36 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -84,9 +84,9 @@ Shop the Home Sale40 to 50% Off Furniture and Mattresses
 
 Select styles
 
-Shop Furniture and Mattresses Today Only! Extra Savings on Fine Jewelry Diamond Sale | Extra Savings Today Only!
+Shop Furniture and Mattresses Save On Sparkling Fine Jewelry Diamond Sale
 
-45 to 65% Off Fine Jewelry and Bijoux Bar, select styles
+40 to 60% Off Fine Jewelry and Bijoux Bar, select styles
 
 Shop Fine Jewelry and Bijoux Bar
 
@@ -94,9 +94,9 @@ Shop Fine Jewelry and Bijoux Bar
 
 Shop Fashion Jewelry and Fashion Silver
 
-25 to 55% Off Fine and Fashion Watches
+20 to 50% Off Fine and Fashion Watches
 
-Shop Fine and Fashion Watches   Coats For Women, Men and Kids On Sale 40% Off Coats and Jackets for the Family
+Shop Fine and Fashion Watches   Coats For Women, Men and Kids On Sale Big Buy! 50% Off Coats and Jackets for the Family
 
 Select styles
 
