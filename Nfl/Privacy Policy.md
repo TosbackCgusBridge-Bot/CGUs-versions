@@ -202,6 +202,7 @@ Information
 *   Jobs: League | Team
 *   Privacy Policy
 *   Terms &. Conditions
+*   Accessibility
 
 Initiatives
 
