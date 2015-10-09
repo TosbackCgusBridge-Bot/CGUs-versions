@@ -112,7 +112,7 @@ Legal Notices &. Trademarks
 *   Trademarks
 *   Linking to Autodesk
 *   Export Compliance
-*   Autodesk Subscription Terms and Conditions
+*   Autodesk Subscription and Support Terms and Conditions
 *   Software License Agreements
 *   Terms of service: A360 and other web services
 *   Code of Business Conduct
