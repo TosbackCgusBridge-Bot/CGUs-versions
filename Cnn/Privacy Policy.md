@@ -318,6 +318,12 @@ From time to time, we may update this Privacy Policy. We will notify you about m
 
 _The Privacy Policy posted on this Service was updated on July 31, 2015._
 
+From Our Partners*   Mortgage rates hit 2.78% APR (15 yr). See if you're eligible LendingTree
+*   7 condiments that were Srirachas of their times Food &. Wine
+*   Shark Tank just revealed a $ trillion idea Motley Fool
+*   Time to sell? What's your home worth? Trulia
+*   30% discounts on 4-star NYC hotels Hipmunk
+
 More from CNN Information*   ABOUT CNN.COM
 
 1.  News
