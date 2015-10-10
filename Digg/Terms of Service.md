@@ -46,7 +46,7 @@ We use Github to archive earlier versions of Digg’s Terms of Service. helpfull
 
 Can Digg change or end the services it offers?
 
-Yes. At the risk of belaboring the obvious, Digg has the right change, terminate, or restrict access to any aspect of Digg Services, at any time, and with or without notice.
+Yes. At the risk of belaboring the obvious, Digg has the right to change, terminate, or restrict access to any aspect of Digg Services, at any time, and with or without notice.
 
 How does Digg protect my privacy?
 
