@@ -167,41 +167,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Water Shoes &. Sandals
         *   Totes &. Beach Bags
         *   Beach Towels
-*   Shoes
-    *   *   Back to Main Menu Shoes
-        *   Featured Shops
-            *   Back to Shoes Featured Shops
-            *   Snow Boots
-            *   Hats, Gloves &. Scarves
-            *   Long Underwear
-            *   Totes &. Handbags
-            
-            *   New Arrivals
-            *   Sale
-    *   *   Women
-            *   Back to Shoes Women
-            *   Shoes
-            *   Accessories
-            *   Bags
-            *   Long Underwear
-        *   Men
-            *   Back to Shoes Men
-            *   Shoes
-            *   Accessories
-            *   Bags
-            *   Underwear &. Long Underwear
-        *   Girls'
-            *   Back to Shoes Girls'
-            *   Shoes
-            *   Accessories
-            *   Backpacks &. Lunch Boxes
-            *   Long Underwear
-        *   Boys'
-            *   Back to Shoes Boys'
-            *   Shoes
-            *   Accessories
-            *   Backpacks &. Lunch Boxes
-            *   Long Underwear
 *   Home
     *   *   Back to Main Menu Home
         *   Featured Shops
@@ -210,7 +175,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Supima Bedding &. Bath
             *   Flannel Bedding
             *   No Iron Bedding
-            *   Home Buying Guide
+            *   Christmas Shop
             *   Sale
     *   *   Bedding
             *   Back to All Home Bedding
@@ -303,6 +268,20 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Not Quite Perfect
             *   In-season Savings
             *   Clearance - Last Chance
+*   Gifts
+    *   *   Back to Main Menu Gifts
+        *   Shop Gifts
+        *   For Her
+        *   For Him
+        *   For Girls
+        *   For Boys
+        *   For Home
+        *   For Dog
+        
+        *   Christmas Shop
+        *   Stockings &. Stuffers
+        *   Personalized Gifts
+        *   Gift Cards
 
 *   My Account
     *   Back to Main Menu My Account
