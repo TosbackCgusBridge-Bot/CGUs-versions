@@ -168,6 +168,7 @@ Copyright © 2015 SPIL GAMES All rights reserved.
 *   Submit a Game
 *   Get Free Games
 *   Help &. Contact
+*   Cookies
 
 *   Facebook
 *   Google+
