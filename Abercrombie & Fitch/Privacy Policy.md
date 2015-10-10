@@ -128,34 +128,34 @@ Opt-Out
 
 To make it easier for you, we have moved your opt-out preference choices to this section of the privacy policy.
 
-**Collection of Location Information:**
+Collection of Location Information:
 
 *   Mobile Device Location Information Through Our Mobile Websites: Your mobile device may allow you to disable location-based services on your device, which will prevent our Websites from accessing your mobile device location information. For specific questions regarding disabling your device's location services, we recommend that you review the specific instructions provided for your mobile device. Note that some features on our Websites, such as check-in, may not be available if you disable location-based services.
 *   Desktop Device Location Information Through Website Features: Your desktop web browser may allow you to remove permission you granted through your desktop device for our Websites to access your location information and/or completely block requests for location information.  For specific questions regarding disabling your browser’s location services, we recommend you review the specific instructions provided with your browser.
 *   Location Information Through Emails: Your email program may allow you to prevent the images in the emails you receive from us from downloading, which will also prevent our service provider from accessing your location information.  You can also unsubscribe from receiving our emails, as described in the “Email” section below.
 
-**Notifications and Access to Data on Your Mobile Device**
+Notifications and Access to Data on Your Mobile Device
 
 If you have provided consent and no longer wish to receive Notifications, or no longer want us to access the specific information on your device (e.g., photos, etc) for which you previously gave consent, you will need to adjust the settings on your mobile device. Please note, the process for changing settings on your mobile device may vary. to learn how to change these settings refer to the specific instructions provided for your mobile device.
 
-**Emails:**
+Emails:
 
 You can choose the frequency at which you receive marketing emails or unsubscribe if you no longer want to receive marketing emails from Abercrombie &. Fitch, or our affiliated companies (like Hollister Co.).  To unsubscribe from Abercrombie &. Fitch go to the unsubscribe page, or to unsubscribe from our affiliated companies if you have created an account or are a member of The A&F Club program, go to the email and phone page within the "My Info" section of the Websites, click on "manage your marketing preferences", and select the option to no longer receive emails in the dropdown menus for each brand, and press 'SUBMIT.'  Please be aware, however, even if you request to limit the frequency you can receive marketing emails or to be removed from our email marketing list, you may still receive email confirmations for any orders placed on our Websites.
 
-**Text Messages:**
+Text Messages:
 
 *   Marketing Text Messages: If you have signed up to receive text messages from Abercrombie &. Fitch, or any of our affiliated companies (for example, Hollister Co. and abercrombie kids), but no longer wish to receive these mobile messages, simply follow the opt-out instructions included in each mobile message or follow the opt-out instructions in the A&F Texts Terms for each brand.  Or, if you created an account or are a member of The A&F Club program, go to the email and phone page within the "My Info" section of the Websites, click on "manage your marketing preferences" and select the option to no longer receive text messages in the drop-down menu for each brand and press 'SUBMIT.' Please note, if you unsubscribe by sending a text or by going to the email and phone page within the "My Info" section of the Websites you may receive a reply message confirming that you have opted out of receiving text messages.
 *   Shipping Alert Text Messages: If you opted to receive shipping alerts via text message but you no longer wish to receive them, reply STOP to a shipping alert message you have received.
 
-**Postal Marketing:**
+Postal Marketing:
 
 If you no longer wish to receive marketing materials from Abercrombie &. Fitch via regular postal mail, please email us at Privacy\_Policy@Abercrombie.com and tell us in your comments that you want to be removed from the Abercrombie &. Fitch postal mailing list, including the postal address you wish to have removed.
 
-**Third-Party Postal Address Sharing:**
+Third-Party Postal Address Sharing:
 
 If you would like to make sure that we do not disclose your name and postal mailing address to unaffiliated third parties for their marketing purposes, please email us at Privacy\_Policy@Abercrombie.com and ask us not to share your postal address with unaffiliated companies, including the postal address.
 
-**Facebook Messenger Communication:**
+Facebook Messenger Communication:
 
 You may opt in to receive communication and updates from us about your order via Facebook. Once you provide this consent during checkout on our site, this will be maintained for all future orders. To opt out, go to the overview page in the account section of our site or open the conversation on Facebook Messenger and click on the "Turn Off" link next to the Messenger updates language. Also, if you elect to delete your A&F account, then you will no longer receive updates via Facebook Messenger.
 
