@@ -62,13 +62,14 @@ My Bag (0) Wish List Search
     *   How to Return
     *   International Return Policy
 *   Promotions
+    *   Best of the Blues Official Rules
     *   Buckle Card Free Lanyard with Purchase 2015
-    *   Buckle Card Double Points Fall 2015
     *   BUCKLE BLACK CREDIT CARD Exclusive Gift
     *   Fox Ride Your Dream Giveaway Official Rules
     *   Social Giveaway Official Rules
     *   Store Events
     *   Sweepstakes Winners
+    *   Buckle Card Double Points Fall 2015
 *   Gift Cards/Services
     *   Gift Services
     *   Gift Card Donation Requests
