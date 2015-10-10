@@ -1,60 +1,4 @@
-*   Inside RCP
-*   Polls
-*   Videos
-*   Issues
-*   Comments
-*   Links
-*   World
-*   Markets
-*   Sports
-
-*   RCP Blog
-*   HorseRaceBlog
-*   PoliticsNation
-*   Cross-Tabs
-*   Transcripts &. Speeches
-*   Best of The Blogs
-*   News
-*   Fantasy '08
-
-*   President
-*   Senate
-*   Job Approval
-*   Latest Polls
-
-*   A
-*   B
-*   C
-*   D
-*   E
-*   F
-*   G
-*   H
-*   I
-*   J
-*   K
-*   L
-*   M
-*   N
-*   O
-*   P
-*   Q
-*   R
-*   S
-*   T
-*   U
-*   V
-*   W
-*   X
-*   Y
-*   Z
-
-*   Newspapers
-*   Magazines
-*   Columnists &. Blogs
-*   Electronic Media
-
-Latest Articles Battleground New Mexico Cap and Trade Trap National Security Continues to Resonate Why McCain Should Have Stood by Hagee White Women Take the Gloves Off The RCP Blog AP: Obama Clinches Run Of Cong. Endorsements Begun Wave Of Obama Endorsements Expected AP: Clinton Will Concede Obama Has the Dels The "Really, Really Burned Out" Chronicles RealClearPolitics Privacy Policy
+RealClearPolitics Privacy Policy
 
 RealClearPolitics knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the RealClearPolitics website, you are accepting the practices outlined in this Privacy Policy.
 
@@ -130,4 +74,4 @@ Privacy Policy Changes
 
 We reserve the right to change this Privacy Policy at any time. You agree to obtain changes to this Privacy Policy electronically by visiting this Site. We require you to check back from time to time to review changes to our Privacy Policy.
 
-Login | Register | RSS About Us | RSS | Contact | Advertise | Privacy Policy         © RealClearPolitics 2015
+©2015 RealClearPolitics | Go to full site
