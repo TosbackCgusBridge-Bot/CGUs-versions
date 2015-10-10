@@ -1,4 +1,4 @@
-﻿
+fanpop privacy policy
 
 _Last Updated: August 2015_
 
