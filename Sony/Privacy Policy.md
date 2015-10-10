@@ -5,7 +5,11 @@ Skip to Content CloseSony Sites About SONY SONY DESIGN Playstation® Sony Profes
 *   Sony PicturesThe hub for your favourite movies and TV shows.
 *   Sony MusicClassic artists to today’s stars, local and global.
 
-SONY search Electronics
+SONY search
+
+*   Favourites
+
+Electronics
 
 *   Cameras
 *   Mobile, Tablets &. Smart Devices 
@@ -32,6 +36,7 @@ PlayMemoriesSpark your imagination &. find new ways to enjoy your photos. Explor
 *   Entertainment
 *   Support
 
+*   Favourites
 *   Search
 *   Sony Sites
 
@@ -85,9 +90,9 @@ Train Smarter
 
 Sony on Twitter
 
-Watch the video for Writing's On The Wall now...
+With a 0.03 second autofocus, the fleeting shot is always yours. #Xperia Z5 http://www.youtube.com
 
-2015-10-06 03:47:01+00:00
+2015-10-09 20:25:02+00:00
 
 View Tweet
 
@@ -147,9 +152,9 @@ Play Video
 
 Sony on Twitter
 
-Rock Band 4 hits PS4 tomorrow! blog.us.playstation.com Freestyle guitar solos, revamped vocals and other new twists
+PlayStation Now launches in UK, priced £12.99 a month
 
-2015-10-06 11:01:48+00:00
+2015-10-09 20:45:18+00:00
 
 View Tweet
 
@@ -253,9 +258,9 @@ Experience the Z4 Tablet
 
 Sony on Twitter
 
-Add some fun to your #Xperia with our #HelloKitty theme! Download from Xperia Lounge now: xperialounge.sonymobile.com
+Only 1 WEEK until all of R.L. Stine’s monsters hit theaters in #GoosebumpsMovie!
 
-2015-10-06 15:45:02+00:00
+2015-10-10 06:27:50+00:00
 
 View Tweet
 
@@ -341,9 +346,9 @@ Hear Music in High Res
 
 Sony on Twitter
 
-Less frame, more screen. Experience the near-borderless display of #Xperia C5 Ultra. sonymobile.com
+Listen to an alternate take of @BobDylan's "Sitting On A Barbed Wire Fence" off the upcoming #CuttingEdge: http://www.vevo.com
 
-2015-10-05 18:39:01+00:00
+2015-10-09 11:00:29+00:00
 
 View Tweet
 
