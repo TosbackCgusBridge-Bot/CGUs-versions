@@ -75,7 +75,7 @@ If you wish to subscribe to our newsletter(s), we will use your name and email a
 
 **Choice and Opt-out**
 
-You can let us know that you do not wish us to share your information with third parties for marketing purposes or to notify you about our own products and services and special offers by opting out at the time that you submit your Student Matching Profile or by sending us a written request either by email to unsubscribe@educationdynamics.com or via postal mail.
+You can let us know that you do not wish us to share your information with third parties for marketing purposes or to notify you about our own products and services and special offers by opting out at the time that you submit your Student Matching Profile or by sending us a written request either by email to info@educationdynamics.com or via postal mail.
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by clicking on the following link to add your email address and/or telephone number directly to our Unsubscribe/Do Not Call lists. Please address postal mail requests to:
 
