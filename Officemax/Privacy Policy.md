@@ -12,7 +12,7 @@ SEG1 hp
 
 Weekly Ad Office Depot Deals
 
-pB9fopTRP-nC4-u4wcjkTNH Recommended Products
+yqe4oQJ3ydXz6SBT69smsqK Recommended Products
 
 Category Matches
 
@@ -36,8 +36,6 @@ Your recent searches
 
 *   Don't show this again
 *   Privacy Policy
-
-*   ×
 
 Product Plans &. Leasing Options Page of There are no items in your cart. Previous Next $ Coupon Code: ZIP CODE You have not selected a store or a zipcode yet Your Coupons See all coupons Includes Coupon(s) Qty. Product Price Price With Tax item(s) Your Price: Quick View See More Results http://static.www.odcdn.com/images/us/od/lb\_loading.gif od Please enter a quantity true true
 
@@ -238,4 +236,6 @@ You will be automatically logged out if you do not click on the button below.
 
 http://officedepot.ugc.bazaarvoice.com 2563 http://static.www.odcdn.com/images/us/od/
 
-This promotion is for loyalty members only. If you want to take advantage of exclusive offers like these, join Office Depot® OfficeMax® Rewards now! Already a member? sign in here.
+This promotion is for Rewards members only. To take advantage of exclusive offers like these, join Office Depot® OfficeMax® Rewards now!
+
+Join Sign In
