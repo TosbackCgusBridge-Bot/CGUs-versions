@@ -2,6 +2,8 @@ Privacy Policy
 
 Effective Date: September 27, 2014.
 
+  
+
 **For information about the privacy of patient health information, please review the  
 CVS/pharmacy** Notice of Privacy Practices.
 
@@ -151,7 +153,7 @@ These sites have not been authorized by CVS to use our name and we work aggressi
 
   
 
-In addition to our official websites, CVS works with a number of third party partners that host websites and micro-sites that provide information and services to our customers. All legitimate sites can be accessed from one of our official sites: www.cvs.com, www.cvscaremark.com, www.caremark.com, and www.cvsphoto.com. If you ever have reason to question whether a website or an email is fraudulent, please contact us by phone at 888-607-4287 with your concerns.
+In addition to our official websites, CVS works with a number of third party partners that host websites and micro-sites that provide information and services to our customers. All legitimate sites can be accessed from one of our official sites: www.cvs.com, www.cvscaremark.com, www.caremark.com, and www.cvs.com/photo. If you ever have reason to question whether a website or an email is fraudulent, please contact us by phone at 888-607-4287 with your concerns.
 
   
 Spyware
@@ -182,9 +184,9 @@ By establishing a CVS.com account, you agree that it is your responsibility to:
 
   
 
- Authorize, monitor, and control access to and use of your CVS.com account, User ID and password.
+• Authorize, monitor, and control access to and use of your CVS.com account, User ID and password.
 
- Promptly inform us of any need to deactivate a password or an account by calling Customer Care at (888)  
+• Promptly inform us of any need to deactivate a password or an account by calling Customer Care at (888)  
  607-4287.
 
   
@@ -207,6 +209,8 @@ Privacy Policy
 
 Effective Date: September 27, 2014.
 
+  
+
 **For information about the privacy of patient health information, please review the  
 CVS/pharmacy** Notice of Privacy Practices.
 
@@ -356,7 +360,7 @@ These sites have not been authorized by CVS to use our name and we work aggressi
 
   
 
-In addition to our official websites, CVS works with a number of third party partners that host websites and micro-sites that provide information and services to our customers. All legitimate sites can be accessed from one of our official sites: www.cvs.com, www.cvscaremark.com, www.caremark.com, and www.cvsphoto.com. If you ever have reason to question whether a website or an email is fraudulent, please contact us by phone at 888-607-4287 with your concerns.
+In addition to our official websites, CVS works with a number of third party partners that host websites and micro-sites that provide information and services to our customers. All legitimate sites can be accessed from one of our official sites: www.cvs.com, www.cvscaremark.com, www.caremark.com, and www.cvs.com/photo. If you ever have reason to question whether a website or an email is fraudulent, please contact us by phone at 888-607-4287 with your concerns.
 
   
 Spyware
@@ -387,9 +391,9 @@ By establishing a CVS.com account, you agree that it is your responsibility to:
 
   
 
- Authorize, monitor, and control access to and use of your CVS.com account, User ID and password.
+• Authorize, monitor, and control access to and use of your CVS.com account, User ID and password.
 
- Promptly inform us of any need to deactivate a password or an account by calling Customer Care at (888)  
+• Promptly inform us of any need to deactivate a password or an account by calling Customer Care at (888)  
  607-4287.
 
   
