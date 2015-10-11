@@ -128,7 +128,7 @@ To make it easier for you, we have moved your opt-out preference choices to this
 
 Collection of Location Information:
 
-*   Mobile Device Location Information Through Our Mobile Websites: Your mobile device may allow you to disable location-based services on your device, which will prevent our Websites from acccessing your mobile device location information. For specific questions regarding disabling your device's location services, we recommend that you review the specific instructions provided for your mobile device. Note that some features on our Websites, such as check-in, may not be available if you disable location-based services.
+*   Mobile Device Location Information Through Our Mobile Websites: Your mobile device may allow you to disable location-based services on your device, which will prevent our Websites from accessing your mobile device location information. For specific questions regarding disabling your device's location services, we recommend that you review the specific instructions provided for your mobile device. Note that some features on our Websites, such as check-in, may not be available if you disable location-based services.
 *   Desktop Device Location Information Through Website Features: Your desktop web browser may allow you to remove the permission you granted through your desktop device for our Websites to access your location information and/or completely block requests for location information. For specific questions regarding disabling your web browser's location services, we recommend that you review the specific instructions provided with your web browser.
 *   Location Information Through Emails: Your email program may allow you to prevent the images in the emails you receive from us from downloading, which will also prevent our service provider from accessing your location information. You can also unsubscribe from receiving our emails, as described in the "Email" section below.
 
@@ -191,7 +191,7 @@ Security Statement
 
 Hollister Co. limits the number of employees that have access to the databases that contain personal data, and Hollister Co. employees are advised of the importance of confidentiality. In addition, it is our policy to never send your payment card number via email.
 
-In addition, we designed our online store to accept orders only from Web browsers that permit communication through Secure Socket Layer (SSL) technology. Browsers that do not meet this requirement will be prevented from navigating the online store section of our Websites. See "Supported Web Browsers" for more information. While we implement the above security measures on this site, you should be aware that 100% security is not always possible.
+In addition, we designed our online store to accept orders only from Web browsers that permit communication through Transport Layer Security (TLS) technology. Browsers that do not meet this requirement will be prevented from navigating the online store section of our Websites. See "Supported Web Browsers" for more information. While we implement the above security measures on this site, you should be aware that 100% security is not always possible.
 
 Supported Web Browsers
 
