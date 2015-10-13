@@ -1,7 +1,4 @@
-Sign Up For  
-**FREE** Pattern Info! Tell A Friend!   Home   FAQ   Letters   Site Map    Cart     Click Here For A FREE E-mail Price List Of Pieces In Your Pattern(s)!    
-Replacements, Ltd.  
-Privacy Policy
+HomeFAQLettersSite MapCart Privacy Policy
 
 At Replacements, Ltd., we recognize that privacy is very important to our customers. Since we would like every customer to thoroughly enjoy their experience with us, we are dedicated to ensuring that your privacy is protected. The information below explains Replacements, Ltd.’s Privacy Policy.
 
@@ -81,31 +78,10 @@ Your Consent
 
 By using our website, you signify your consent to the Privacy Policy of Replacements, Ltd. Please check this page regularly. If we post an updated Privacy Policy, you agree to the terms of the posted Privacy Policy by your continued use of our website.
 
-Last Updated: 06/11/2015
+Last Updated: 10/12/2015
 
-Home | FAQ | Letters | Site Map | Contact Us | Customer Service | Top  
-  
-Find This For Me!
+About Replacements, Ltd. Knowledge Base Frequently Asked Questions News Releases Careers Customer Service Contact Us Returns/Exchange Policy Shipping &. Handling Policy Services Free Pattern Identification Find This For Me Sell To Us Restoration and Repair Connect with us
 
-Use our industry-leading, no-obligation "Find This For Me" service to get the pieces you need - start here!
+1-800-REPLACE | Terms &. Conditions | Site Map | Privacy Policy
 
-425,000 Patterns!
-
-We carry over 12 million pieces in old and new tableware and collectibles, some over 100 years old!
-
-Easy Returns
-
-30-day return policy on all purchases, satisfaction assured in 425,000 patterns!
-
-Contact Us
-
-Need help or a question answered by e-mail or phone? Start here!
-
-Privacy Policy
-
-Privacy is important. We guard your data carefully and don't release it.  
-( More on Privacy)
-
-Copyright  
-©1998-2015 Replacements, Ltd.  
-All Rights Reserved.
+© 2015 Replacements, Ltd. All rights reserved.
