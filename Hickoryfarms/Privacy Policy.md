@@ -11,6 +11,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Business Gifts
         
     *   Military Gifts
+    *   Simply Hickory Farms
     *   Hickory Farms Reserve
     *   Personalized Gifts
     *   Shop By Occasion
@@ -42,6 +43,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Mustards &. Spreads
         
     *   Crackers
+    *   Simply Hickory Farms New!
     *   Hickory Farms Reserve
     *   Pfaelzer Brothers Steak &. Seafood
     *   Gluten Free
@@ -62,6 +64,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Business Gifts
         
     *   Military Gifts
+    *   Simply Hickory Farms
     *   Hickory Farms Reserve
     *   Personalized Gifts
     *   Shop By Occasion
@@ -93,6 +96,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Mustards &. Spreads
         
     *   Crackers
+    *   Simply Hickory Farms New!
     *   Hickory Farms Reserve
     *   Pfaelzer Brothers Steak &. Seafood
     *   Gluten Free
