@@ -42,9 +42,8 @@ We collect general information about our visitors’ experience with our Website
 
 Our Websites and emails may include features that require collecting different types of location information as described below:
 
-Websites: Features include things such as check-in, find in store, or find a product in stores. We may use various technologies to determine location, such as location services included in your browser or your device, IP Address, and sensor data locating your device near Wi-Fi access points, Bluetooth devices or beacons, and cell towers. Some of these technologies may require enabling location-based services and/or your consent for our Websites to access your location information.
-
-Email: Our emails may use your IP address to determine the city where you are located when you open the email.  This allows us to tailor content to you, such as a map of nearby stores.
+*   Websites: Features include things such as check-in, find in store, or find a product in stores. We may use various technologies to determine location, such as location services included in your browser or your device, IP Address, and sensor data locating your device near Wi-Fi access points, Bluetooth devices or beacons, and cell towers. Some of these technologies may require enabling location-based services and/or your consent for our Websites to access your location information.
+*   Emails: Our emails may use your IP address to determine the city where you are located when you open the email.  This allows us to tailor content to you, such as a map of nearby stores.
 
 Mobile devices referenced above include your cell phone, and could include your laptop or tablet depending on the type of wireless connectivity used. If you do not consent to provide or disable location-based services, we may ask you to manually select the region where you are located, or to enter your zip code. if you chose not to provide this information some features of the Websites may not be available.  See the “Opt-Out” section below for the choices you have regarding collection of location information. 
 
@@ -62,8 +61,8 @@ This privacy policy does not cover the privacy and security practices of social 
 
 5\. Information Collected within the "Investors" and "A&F Credit Card" Links on the Website
 
-*   "Investors". If you are an investor and elect to sign up to receive your proxy materials via electronic document delivery or email alerts, you will provide your personal information directly to Broadridge Financial Solutions, Inc., our third party service provider.
-*   "A&F Credit Card". If you apply online for an Abercrombie &. Fitch credit card, or once opened, access your account online (to pay your account, view your statement or account status, add authorized buyers to your account, request a credit limit increase or update the personal information associated with your account) you leave our site and provide your personal information directly to the issuing bank for the Abercrombie &. Fitch Card. However, your name, address, and email address, as well as information necessary for us to provide you with the bonuses and benefits of an Abercrombie &. Fitch Card (which may include birth date, payment card number, and purchasing information), will be provided to us by the Abercrombie &. Fitch Card issuer. We would suggest that you review the privacy policies of these third parties prior to providing them with your information.
+*   "Investors": If you are an investor and elect to sign up to receive your proxy materials via electronic document delivery or email alerts, you will provide your personal information directly to Broadridge Financial Solutions, Inc., our third party service provider.
+*   "A&F Credit Card": If you apply online for an Abercrombie &. Fitch credit card, or once opened, access your account online (to pay your account, view your statement or account status, add authorized buyers to your account, request a credit limit increase or update the personal information associated with your account) you leave our site and provide your personal information directly to the issuing bank for the Abercrombie &. Fitch Card. However, your name, address, and email address, as well as information necessary for us to provide you with the bonuses and benefits of an Abercrombie &. Fitch Card (which may include birth date, payment card number, and purchasing information), will be provided to us by the Abercrombie &. Fitch Card issuer. We would suggest that you review the privacy policies of these third parties prior to providing them with your information.
 
 Mobile Application
 
@@ -98,7 +97,9 @@ Personal Information collected directly by Abercrombie &. Fitch: The collection 
 
 Personal Information collected by the social media sites: This privacy policy does not cover the privacy and security practices of the social media sites on which Abercrombie &. Fitch has Social Media Pages. Please review privacy policies and terms of service on the social media sites if you have any questions about their privacy or security practices.
 
-The social media sites where Abercrombie &. Fitch has Social Media Pages may provide aggregate information and analysis to Abercrombie &. Fitch about your use of our Social Media Pages. This allows us to better understand and analyze our user growth, general demographic information about the users of our Social Media Pages, and interaction with content on our Social Media Pages. Overall, this information may be used to help us understand the types of visitors and users of our Social Media Pages and use of the content.
+The social media sites where Abercrombie &. Fitch has Social Media Pages may provide aggregate information and analysis to Abercrombie &. Fitch about your use of our Social Media Pages. This allows us to better understand and analyze our user growth, general demographic information about the users of our Social Media Pages, and interaction with content on our Social Media Pages. Overall, this information may be used to help us understand the types of visitors and users of our Social Media Pages and use of the content.  
+  
+  
 
 Using Information We Collect Online
 
@@ -128,7 +129,7 @@ Opt-Out
 
 To make it easier for you, we have moved your opt-out preference choices to this section of the privacy policy.
 
-Collection of Location Information:
+Collection of Location Information
 
 *   Mobile Device Location Information Through Our Mobile Websites: Your mobile device may allow you to disable location-based services on your device, which will prevent our Websites from accessing your mobile device location information. For specific questions regarding disabling your device's location services, we recommend that you review the specific instructions provided for your mobile device. Note that some features on our Websites, such as check-in, may not be available if you disable location-based services.
 *   Desktop Device Location Information Through Website Features: Your desktop web browser may allow you to remove permission you granted through your desktop device for our Websites to access your location information and/or completely block requests for location information.  For specific questions regarding disabling your browser’s location services, we recommend you review the specific instructions provided with your browser.
@@ -138,26 +139,28 @@ Notifications and Access to Data on Your Mobile Device
 
 If you have provided consent and no longer wish to receive Notifications, or no longer want us to access the specific information on your device (e.g., photos, etc) for which you previously gave consent, you will need to adjust the settings on your mobile device. Please note, the process for changing settings on your mobile device may vary. to learn how to change these settings refer to the specific instructions provided for your mobile device.
 
-Emails:
+Emails
 
 You can choose the frequency at which you receive marketing emails or unsubscribe if you no longer want to receive marketing emails from Abercrombie &. Fitch, or our affiliated companies (like Hollister Co.).  To unsubscribe from Abercrombie &. Fitch go to the unsubscribe page, or to unsubscribe from our affiliated companies if you have created an account or are a member of The A&F Club program, go to the email and phone page within the "My Info" section of the Websites, click on "manage your marketing preferences", and select the option to no longer receive emails in the dropdown menus for each brand, and press 'SUBMIT.'  Please be aware, however, even if you request to limit the frequency you can receive marketing emails or to be removed from our email marketing list, you may still receive email confirmations for any orders placed on our Websites.
 
-Text Messages:
+Text Messages
 
 *   Marketing Text Messages: If you have signed up to receive text messages from Abercrombie &. Fitch, or any of our affiliated companies (for example, Hollister Co. and abercrombie kids), but no longer wish to receive these mobile messages, simply follow the opt-out instructions included in each mobile message or follow the opt-out instructions in the A&F Texts Terms for each brand.  Or, if you created an account or are a member of The A&F Club program, go to the email and phone page within the "My Info" section of the Websites, click on "manage your marketing preferences" and select the option to no longer receive text messages in the drop-down menu for each brand and press 'SUBMIT.' Please note, if you unsubscribe by sending a text or by going to the email and phone page within the "My Info" section of the Websites you may receive a reply message confirming that you have opted out of receiving text messages.
 *   Shipping Alert Text Messages: If you opted to receive shipping alerts via text message but you no longer wish to receive them, reply STOP to a shipping alert message you have received.
 
-Postal Marketing:
+Postal Marketing
 
 If you no longer wish to receive marketing materials from Abercrombie &. Fitch via regular postal mail, please email us at Privacy\_Policy@Abercrombie.com and tell us in your comments that you want to be removed from the Abercrombie &. Fitch postal mailing list, including the postal address you wish to have removed.
 
-Third-Party Postal Address Sharing:
+Third-Party Postal Address Sharing
 
 If you would like to make sure that we do not disclose your name and postal mailing address to unaffiliated third parties for their marketing purposes, please email us at Privacy\_Policy@Abercrombie.com and ask us not to share your postal address with unaffiliated companies, including the postal address.
 
-Facebook Messenger Communication:
+Facebook Messenger Communication
 
-You may opt in to receive communication and updates from us about your order via Facebook. Once you provide this consent during checkout on our site, this will be maintained for all future orders. To opt out, go to the overview page in the account section of our site or open the conversation on Facebook Messenger and click on the "Turn Off" link next to the Messenger updates language. Also, if you elect to delete your A&F account, then you will no longer receive updates via Facebook Messenger.
+You may opt in to receive communication and updates from us about your order via Facebook. Once you provide this consent during checkout on our site, this will be maintained for all future orders. To opt out, go to the overview page in the account section of our site or open the conversation on Facebook Messenger and click on the "Turn Off" link next to the Messenger updates language. Also, if you elect to delete your A&F account, then you will no longer receive updates via Facebook Messenger.  
+  
+  
 
 If you Apply for a Job or Attend Casting Calls
 
