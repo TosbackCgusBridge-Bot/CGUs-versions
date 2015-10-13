@@ -3,7 +3,7 @@ Privacy Notice
 **Avis Rent a Car System, LLC.**
 
 **Privacy Notice**  
-Notice Last Updated: February 15, 2015
+Notice Last Updated: October 2015
 
 *   **Purpose of this Privacy Notice**
 *   **Who is Covered under this Privacy Notice**
