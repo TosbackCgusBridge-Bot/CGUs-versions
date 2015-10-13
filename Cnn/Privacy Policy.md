@@ -318,11 +318,11 @@ From time to time, we may update this Privacy Policy. We will notify you about m
 
 _The Privacy Policy posted on this Service was updated on July 31, 2015._
 
-From Our Partners*   Mortgage rates hit 2.78% APR (15 yr). See if you're eligible LendingTree
-*   Easy slow cooker recipes Food Network
-*   9 most glorious photos from the Surf City Surf Dog competition People
+From Our Partners*   'American Horror Story' stars: Then &. now Entertainment Weekly
+*   Ree Drummond's Top Recipes Food Network
+*   These 4 balance transfer cards could help you save big LendingTree
+*   Bobby Flay's best recipes Food Network
 *   Time to sell? What's your home worth? Trulia
-*   30% discounts on 4-star NYC hotels Hipmunk
 
 More from CNN Information*   ABOUT CNN.COM
 
