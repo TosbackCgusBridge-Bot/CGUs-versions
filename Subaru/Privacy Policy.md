@@ -105,7 +105,7 @@ Up to
 
 Forester 2.5i Touring shown
 
-XV Crosstrek $21,595 starting price 2015 XV Crosstrek
+Crosstrek $21,595 starting price 2016 Crosstrek
 
 Starting at
 
@@ -120,16 +120,13 @@ Up to
 *   Compare
 *   Build Your Own
 
-The 2016 Subaru Crosstrek.  
-Love where it takes you.
+Crosstrek 2.0i Limited shown
 
-XV Crosstrek 2.0i Limited shown
-
-XV Crosstrek Hybrid $25,995 starting price 2015 XV Crosstrek Hybrid
+Crosstrek Hybrid $26,395 starting price 2016 Crosstrek Hybrid
 
 Starting at
 
-$25,995 MSRP
+$26,395 MSRP
 
 Up to
 
@@ -139,9 +136,6 @@ Up to
 *   Photos &. Videos
 *   Compare
 *   Build Your Own
-
-Named Best Resale Value  
-by KBB.com
 
 XV Crosstrek Hybrid Shown
 
