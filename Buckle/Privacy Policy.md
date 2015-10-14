@@ -1,6 +1,6 @@
-Military Guests, thank you for your service.
+Win a House of Blues® VIP concert experience.
 
-10% Military Discount.
+Enter Now
 
 Guest Services 800-607-9788
 
