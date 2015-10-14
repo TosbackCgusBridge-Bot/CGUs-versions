@@ -1,4 +1,19 @@
-Analytics Google Analytics Terms of Service
+Analytics Analytics
+
+*   Analytics Premium
+*   Adometry
+*   Analytics
+*   Analytics for Mobile Apps
+*   Tag Manager
+
+Sign in
+
+*   Google Analytics
+*   Google Analytics Premium
+*   Google Tag Manager
+*   Adometry by Google
+
+Google Analytics Terms of Service
 
 These Google Analytics Terms of Service (this _"Agreement"_) are entered into by Google Inc. ("Google") and the entity executing this Agreement (_"You"_). This Agreement governs Your use of the standard Google Analytics (the _"Service"_). BY CLICKING THE "I ACCEPT" BUTTON, COMPLETING THE REGISTRATION PROCESS, OR USING THE SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE REVIEWED AND ACCEPT THIS AGREEMENT AND ARE AUTHORIZED TO ACT ON BEHALF OF, AND BIND TO THIS AGREEMENT, THE OWNER OF THIS ACCOUNT. In consideration of the foregoing, the parties agree as follows:
 
