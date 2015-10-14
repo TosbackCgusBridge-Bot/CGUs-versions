@@ -12,7 +12,7 @@
 *   customer service
     
 
-*   Hello  Cynthia
+*   Hello  sandra
 *   (sign out)
     
 *   my account
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13962529474
+true true L14066176153
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Mon Oct 12 11:11:35 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Tue Oct 13 04:19:05 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,47 +48,35 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Furniture and Mattress Are On Sale! 30 to 50% Off Columbus Day Home Sale
+2 Days Only Online Only | Ends October 14 | Code: SAVNG37 \*See offer exclusions and details:
 
-Select styles
+50% Off\* select orig and reg-priced styles
 
-Shop Columbus Day Home Sale40 to 50% Off Furniture and Mattresses
+Shop Bedding and Bath Shop Luggage Shop Window
 
-Select styles
+40% Off\* select orig and reg-priced styles
 
-Shop Furniture and Mattresses Save On Coats and Jackets for the Family 40 to 50% Off Coats and Jackets for the Family
+Shop Home Decor Shop Furniture and Mattresses
 
-Select styles
+30% Off\* select orig and reg-priced styles
 
-Shop Coats and Jackets for the Family Shop Girls Coats Shop Boys Coats Shop Women's Coats Shop Men's Coats Save On Levi's(R) Jeans For The Family Lowest Prices Of The Season through 10/26
+Shop Kitchen and Dining Shop Storage and Organization Shop Vacuums and Floorcare Shop Custom Blinds and Shades
 
-Excluded from coupon.
+Extra 20% Off\* select orig, reg, sale and clearance-priced styles
 
-Shop All Levi's
+Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Accessories and Handbags Shop Fashion Jewelry Shop Online Clearance Workout Apparel and Shoes For The Family Up to 50% Off Activewear for the Family
 
-22.99 Boys' Levi's 510(TM) Skinny or 511(TM) Slim Jeans, orig. $44-48
+Select styles.
 
-Shop Boys' Levi's
+Shop Women Shop Men Shop Kids Shop Athletic Shoes     Save On Bras During The Bra Fit Event Bra Fit Event | Final Days!
 
-36.99 Guys' Levi's 514(TM) Straight Fit Jeans, reg. $58
+Ends October 18
 
-Shop Guys' Levi's  
+Find a Fit Event Location Near You 20% Off Bras
 
-29.99 Women's Levi's 505(TM) Straight Leg Jeans, reg. 44.50
+Select styles when you buy 2 or more.
 
-Shop Women's Levi's
-
-\*Levi's(R) "lowest prices of the season" refers to the time period from 9/6 through 11/25. prices may be further reduced on items as a part of clearance in the future.
-
-Save On Bras During The Bra Fit Event Bra Fit Event
-
-Final Days! Ends October 18
-
-Find a Fit Event Location20% Off Bras
-
-Select styles when you buy 2 or more
-
-Shop Bras Diamond Rings and More Are On Sale Now! Diamond Sale | Ends October 27
+Shop Bras Diamond Rings and More Are On Sale Now! Diamon Sale | Ends October 27
 
 40 to 60% Off Fine Jewelry and Bijoux Bar, select styles
 
@@ -98,25 +86,25 @@ Shop Fine Jewelry and Bijoux Bar
 
 Shop Fashion Jewelry
 
-20 to 50% Off Fine and Fashion Watches
+20 to 50% Off Fine and Fashion Watches, select styles
 
-Shop Fine and Fashion Watches Shop Modern Bride New Markdowns! | Red Zone Clearance
+Shop Fine and Fashion Watches Shop Modern Bride Save On Halloween Costumes From Disney Collection Fairest Event Of Them All | In Store and Online Thru November 1
 
-50 to 80% Off In Store and Online
+25% Off Disney Costumes and Accessories, select styles (excluded from coupon)
 
-Shop Clearance Now SportsFanShop
+Shop Disney Costumes and Accessories Shop Disney Collection SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
 Shop SportsFanShop Shop For Good
 
-Plus round up your October purchases to the nearest dollar to support breast cancer research and awareness.
+Plus round up your October purchases to the nearest dollar to supposrt breast cancer research and awareness.
 
 Shop For Good Now People StyleWatch Must Haves
 
 Sponsored Content
 
-Shop People StyleWatch Now
+Shop People StyleWatch Now Download the JCPenney App and Get Shopping Check out the app: Download on the AppStore Get it on Google play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
