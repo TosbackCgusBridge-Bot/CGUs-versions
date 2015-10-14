@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: October 1, 2015**
+**Last Revised: October 13, 2015**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -193,7 +193,15 @@ THE FOREGOING LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTE
 
 You agree to protect, defend, indemnify and hold harmless GoDaddy and its officers, directors, employees, agents, and third party service providers from and against any and all claims, demands, costs, expenses, losses, liabilities and damages of every kind and nature (including, without limitation, reasonable attorneys’ fees) imposed upon or incurred by GoDaddy directly or indirectly arising from (i) your use of and access to this Site or the Services found at this Site. (ii) your violation of any provision of this Agreement or the policies or agreements which are incorporated herein. and/or (iii) your violation of any third-party right, including without limitation any intellectual property or other proprietary right.  The indemnification obligations under this section shall survive any termination or expiration of this Agreement or your use of this Site or the Services found at this Site.
 
-****17**. FEES AND PAYMENTS**
+**17\. DISCONTINUED SERVICES. END OF LIFE POLICY**
+
+GoDaddy reserves the right to cease offering or providing any of the Services at any time, for any or no reason, and without prior notice. Although GoDaddy makes great effort to maximize the lifespan of all its Services, there are times when a Service we offer will be discontinued or reach its End-of-Life ("EOL"). If that is the case, that product or service will no longer be supported by GoDaddy, in any way, effective on the EOL date.
+
+_Notice and Migration._ In the event that any Service we offer has reached or will reach EOL, we will attempt to notify you thirty or more days in advance of the EOL date. It is your responsibility to take all necessary steps to replace the Service by migrating to a new Service before the EOL date, or by entirely ceasing reliance on said Service before the EOL date. In either case, GoDaddy will either offer a comparable Service for you to migrate to for the remainder of the term of your purchase, a prorated in-store credit, or a prorated refund, to be determined by GoDaddy in its sole and absolute discretion. GoDaddy may, with or without notice to you, migrate you to the most up-to-date version of the Service, if available. You agree to take full responsibility for any and all loss or damage arising from any such migration.
+
+_No Liability._ GoDaddy will not be liable to you or any third party for any modification, suspension, or discontinuance of any of the Services we may offer or facilitate access to.
+
+****18**. FEES AND PAYMENTS**
 
 You acknowledge and agree that your Payment Method may be charged by one of our affiliated entities, Go Daddy Domains Canada, Inc., Go Daddy India Domains and Hosting Services Pvt Ltd, or Go Daddy Europe, Ltd. If, during your purchase, your payment was identified as being processed in the United States, your transaction will be processed by GoDaddy.com, LLC, 14455 N. Hayden Rd., Scottsdale, AZ 85260. if your payment was identified as being processed in Canada, your transaction will be processed by Go Daddy Domains Canada, Inc., 2900-550 Burrard Street, Vancouver, BC V6C 043. if your payment was identified as being processed in the United Kingdom, your transaction will be processed by Go Daddy Europe, Ltd., 5 New Street Square, London EC4A3TW. if your payment was identified as being processed in India, your transaction will be processed by Go Daddy India Domains and Hosting Services India Pvt Ltd, Flat 101, Sai Krishna Enclave, 6-1-132/99, Plot No. 99, Skanagiri, Padmaraonagar 50061. 
 
@@ -731,39 +739,39 @@ _**(H) Expired Domain Name Purchases**_
 
 For expired domains names purchased through Your account, You acknowledge and agree that You are responsible for payment within forty-eight (48) hours of auction close for the successful bid amount plus the one (1) year renewal fee (from the end of the domain name’s previous registration period), plus ICANN fee, if applicable, or any valid payment method associated with the account, will be charged on the third day following the auction close.
 
-****18**. UNCLAIMED PROPERTY. DORMANCY CHARGES**
+****19**. UNCLAIMED PROPERTY. DORMANCY CHARGES**
 
 Please be advised that if a customer has an outstanding account balance (a credit positive balance) for three (3) years or more for any reason, and (i) GoDaddy is unable to issue payment to such customer or (ii) GoDaddy issued payment to such customer in the form of a paper check, but the check was never cashed, then GoDaddy shall turn over such account balance to the State of Arizona in accordance with state law.  You acknowledge and agree that in either case (i) or (ii) above, GoDaddy may withhold a dormancy charge in an amount equal to the lesser of $15.00 or the total outstanding account balance associated with such customer.    
 
-****19**. SUCCESSORS AND ASSIGNS**
+****20**. SUCCESSORS AND ASSIGNS**
 
 This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective heirs, successors and assigns.
 
-****20**. NO THIRD-PARTY BENEFICIARIES**
+****21**. NO THIRD-PARTY BENEFICIARIES**
 
 Nothing in this Agreement shall be deemed to confer any third-party rights or benefits.
 
-****21**. U.S. EXPORT LAWS**
+****22**. U.S. EXPORT LAWS**
 
 This Site and the Services found at this Site are subject to the export laws, restrictions, regulations and administrative acts of the United States Department of Commerce, Department of Treasury Office of Foreign Assets Control (“OFAC”), State Department, and other United States authorities (collectively, “U.S. Export Laws”).  Users shall not use the Services found at this Site to collect, store or transmit any technical information or data that is controlled under U.S. Export Laws.  Users shall not export or re-export, or allow the export or re-export of, the Services found at this Site in violation of any U.S. Export Laws.  None of the Services found at this Site may be downloaded or otherwise exported or re-exported (i) into (or to a national or resident of) any country with which the United States has embargoed trade. or (ii) to anyone on the U.S. Treasury Department's list of Specially Designated Nationals or the U.S. Commerce Department's Denied Persons List, or any other denied parties lists under U.S. Export Laws.  By using this Site and the Services found at this Site, you agree to the foregoing and represent and warrant that you are not a national or resident of, located in, or under the control of, any restricted country. and you are not on any denied parties list. and you agree to comply with all U.S. Export Laws (including “anti-boycott”, “deemed export” and “deemed re-export” regulations).  If you access this Site or the Services found at this Site from other countries or jurisdictions, you do so on your own initiative and you are responsible for compliance with the local laws of that jurisdiction, if and to the extent those local laws are applicable and do not conflict with U.S. Export Laws.  If such laws conflict with U.S. Export Laws, you shall not access this Site or the Services found at this Site.  The obligations under this section shall survive any termination or expiration of this Agreement or your use of this Site or the Services found at this Site.
 
-****22**. FOR INDIA RESIDENTS ONLY**
+****23**. FOR INDIA RESIDENTS ONLY**
 
 You expressly agree that: (i) GoDaddy (or its service provider) may contact you by phone in order to resolve your complaint or dispute, or your current service or billing issue. and (ii) in order to resolve such complaint, dispute or issue, GoDaddy may use and may disclose to its service provider the following information: call recordings, customer name, phone number(s) and contact preferences, tenure of your relationship with GoDaddy, products used, and information about the nature of your complaint, dispute, or service issue.
 
-****23**. COMPLIANCE WITH LOCAL LAWS**
+****24**. COMPLIANCE WITH LOCAL LAWS**
 
 GoDaddy makes no representation or warranty that the content available on this Site or the Services found at this Site are appropriate in every country or jurisdiction, and access to this Site or the Services found at this Site from countries or jurisdictions where its content is illegal is prohibited.  Users who choose to access this Site or the Services found at this Site are responsible for compliance with all local laws, rules and regulations. 
 
-****24**. GOVERNING LAW. JURISDICTION. VENUE. WAIVER OF TRIAL BY JURY**
+****25**. GOVERNING LAW. JURISDICTION. VENUE. WAIVER OF TRIAL BY JURY**
 
 Except for disputes governed by the Uniform Domain Name Dispute Resolution Policy referenced above and available here, this Agreement shall be governed by and construed in accordance with the federal law of the United States and the state law of Arizona, whichever is applicable, without regard to conflict of laws principles.  You agree that any action relating to or arising out of this Agreement shall be brought in the state or federal courts of Maricopa County, Arizona, and you hereby consent to (and waive all defenses of lack of personal jurisdiction and forum non conveniens with respect to) jurisdiction and venue in the state and federal courts of Maricopa County, Arizona.  You agree to waive the right to trial by jury in any action or proceeding that takes place relating to or arising out of this Agreement.
 
-****25**. TITLES AND HEADINGS. INDEPENDENT COVENANTS. SEVERABILITY**
+****26**. TITLES AND HEADINGS. INDEPENDENT COVENANTS. SEVERABILITY**
 
 The titles and headings of this Agreement are for convenience and ease of reference only and shall not be utilized in any way to construe or interpret the agreement of the parties as otherwise set forth herein.  Each covenant and agreement in this Agreement shall be construed for all purposes to be a separate and independent covenant or agreement.  If a court of competent jurisdiction holds any provision (or portion of a provision) of this Agreement to be illegal, invalid, or otherwise unenforceable, the remaining provisions (or portions of provisions) of this Agreement shall not be affected thereby and shall be found to be valid and enforceable to the fullest extent permitted by law.
 
-****26**. CONTACT INFORMATION**
+****27**. CONTACT INFORMATION**
 
 If you have any questions about this Agreement, please contact us by email or regular mail at the following address:
 
@@ -774,5 +782,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 10/1/15  
+Revised: 10/13/15  
 Copyright © 2005-2015 GoDaddy.com, LLC All Rights Reserved.
