@@ -25,6 +25,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Cheese
         *   Cheese (Ball)
     *   Hickory Farms Reserve
+    *   Simply Hickory Farms
     *   Beef Summer Sausage
     *   Turkey Summer Sausage
     *   Dry Salami
@@ -78,6 +79,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Cheese
         *   Cheese (Ball)
     *   Hickory Farms Reserve
+    *   Simply Hickory Farms
     *   Beef Summer Sausage
     *   Turkey Summer Sausage
     *   Dry Salami
