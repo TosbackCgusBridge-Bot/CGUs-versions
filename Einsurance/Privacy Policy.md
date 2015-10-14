@@ -119,7 +119,7 @@ Though we at E-Insure Services make every effort to preserve user privacy, we ma
 
 We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-**If you have reason to believe that any E-Insure affiliate, partner, or a related third party is violating your privacy**, we urge you to promptly notify our Customer Service department. If, following our investigation we determine that an affiliate has in fact violated a user's privacy, we will issue a single warning.  Future violations will result in the immediate termination of the business relationship.  In the event E-Insure goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users?  Personal information will, in most instances, be part of the assets transferred. You will be notified via email and/or a prominent notice on our web site of any chance in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+**If you have reason to believe that any E-Insure affiliate, partner, or a related third party is violating your privacy**, we urge you to promptly notify our Customer Service department. If, following our investigation we determine that an affiliate has in fact violated a user's privacy, we will issue a single warning.  Future violations will result in the immediate termination of the business relationship.  In the event E-Insure goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' Personal information will, in most instances, be part of the assets transferred. You will be notified via email and/or a prominent notice on our web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 Links
 
@@ -131,7 +131,7 @@ Feedback
 
 E-Insure collects user feedback regarding each interaction with our partners. This feedback enables us to identify potential customer service issues, and is also an essential component of the ranking system that determines how partners are presented to prospective future clients. Although feedback is tied to specific user accounts within our database, such information is never presented to partners or to other users except in aggregate form, meaning that no particular feedback instance can be correlated to a specific user.
 
-e Insurance Journal
+EINSURANCE Journal
 
 The mission of the _e Insurance Journal_ is to help people and businesses make well-informed decisions about buying and managing insurance. Although _Journal_ articles are primarily written by insurance industry professionals, the editors highly encourage editorial contributions from the lay public. Although contributors are free to attach personal contact information to their articles and letters, E-Insure accepts no responsibility for the consequences of publishing such potentially sensitive information in the public domain. If you want to update or delete the personal information you submitted with your editorial contribution, you can contact us at privacy@einsure.com
 
@@ -163,8 +163,8 @@ Chicago, IL 60603
 (855) 372-7400  
 privacy@einsure.com  
   
-EFFECTIVE DATE 3.11.20145 (Applies Only to the Policy Statements Above)
+EFFECTIVE DATE 3.11.2014 (Applies Only to the Policy Statements Above)
 
 \[ Back to Top \]
 
-EINSURANCE refers to one web service and privacy policy operating on the following website domain names: einsurance.com, e-insurance.com, einsure.com, E-Insure.com
+EINSURANCE refers to one web service and privacy policy operating on the following website domain names: einsurance.com, e-insurance.com
