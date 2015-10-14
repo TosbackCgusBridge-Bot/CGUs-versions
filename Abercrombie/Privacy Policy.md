@@ -3,18 +3,21 @@ PRIVACY POLICY
 
 Updated: October 2015
 
-AD COOKIE POLICY How Third Parties Serve You Our Advertisements On Other Websites and Your Choices
+AD COOKIE POLICY  
+How Third Parties Serve You Our Advertisements On Other Websites and Your Choices
 
 Abercrombie &. Fitch (also referred to in this policy and the privacy policy below as "we," "us," "our," or "A&F") contracts with third party advertising companies to serve you online display and banner advertisements on other websites.  To serve this advertising, these third parties may place, use or rely on technology, such as cookies and/or Pixel Tags (which are described below in the privacy policy), to collect information about your interactions with our Websites and Apps (both defined below in the privacy policy) and interactions with other websites. These advertising companies may use and share the information gathered to deliver our ads more tailored to your interests on other websites that are a part of their online advertising networks and/or search engines.  We receive aggregate information from these third parties to gauge our advertising effectiveness.
 
 For information about opt out programs these third party advertising companies participate in and the effect of opting out, click on the following: http://www.aboutads.info/choices/ and http://www.networkadvertising.org/choices/ (you will leave this Website for a separately managed online site where you can specify your preference under those programs).  You can also click on the icon that may appear on some of our advertising served through these technologies.  We may use more than one third party company for placing this advertising, which would require you to opt out of each company.
 
+  
 PRIVACY POLICY
 
 This privacy policy statement applies only to the information collected: online through Abercrombie.com, Abercrombie &. Fitch microsites or mobile sites (collectively our "Websites"), our emails, or mobile applications Abercrombie &. Fitch provided for download to your mobile device ("Apps") that expressly adopt and display or link to, this policy. or through our pages on social media sites, such as Facebook, Twitter, et al. ("Social Media Pages").
 
 In order to make your visits to the various online channels of Abercrombie &. Fitch as responsive as possible, we collect information when you visit us online. To help ensure an enjoyable online experience, we provide this summary of what information we collect online, and how that information is used. Your use of the Website/App confirms your acceptance of this privacy policy and your agreement to be bound by it. If you do not accept this privacy policy, do not use this Website/App.
 
+  
 Contents
 
 *   Information Collected Online
@@ -34,6 +37,7 @@ Contents
 *   Supported Web Browsers
 *   Questions/Contact Us
 
+  
 Information Collected Online 1. General Browsing
 
 We collect general information about our visitors’ experience with our Websites and this general information is not connected to personally identifiable information about individual visitors. The information collected includes which pages our visitors are viewing on our Websites and whether visitors arrived through a link for our Websites.  It also includes information on the type of browser and service provider used.  For visitors using a mobile version of our Websites, this includes technical information about the device used, such as screen size, cookie support by the device and how images may appear.   All of this information helps us provide a better experience for our visitors by being able to determine such things as how to best format our mobile Websites for various devices, our most desired pages, products and features, how to best direct visitors to our Websites, and where there might be browser or service provider connection issues.
@@ -64,6 +68,7 @@ This privacy policy does not cover the privacy and security practices of social 
 *   "Investors": If you are an investor and elect to sign up to receive your proxy materials via electronic document delivery or email alerts, you will provide your personal information directly to Broadridge Financial Solutions, Inc., our third party service provider.
 *   "A&F Credit Card": If you apply online for an Abercrombie &. Fitch credit card, or once opened, access your account online (to pay your account, view your statement or account status, add authorized buyers to your account, request a credit limit increase or update the personal information associated with your account) you leave our site and provide your personal information directly to the issuing bank for the Abercrombie &. Fitch Card. However, your name, address, and email address, as well as information necessary for us to provide you with the bonuses and benefits of an Abercrombie &. Fitch Card (which may include birth date, payment card number, and purchasing information), will be provided to us by the Abercrombie &. Fitch Card issuer. We would suggest that you review the privacy policies of these third parties prior to providing them with your information.
 
+  
 Mobile Application
 
 We offer Apps for download to your mobile device that provide you with various interactive features.
@@ -89,6 +94,7 @@ In addition:
 *   Information about preventing the collection of location-based information through the App is provided when referencing Websites under the "Mobile Device Location Information" subsection of "Opt-Out" below.
 *   See the "Opt-Out" section below for the choices you have regarding the collection of data from your mobile device and receipt of Notifications.
 
+  
 Information Collected on Pages Abercrombie &. Fitch Has on Social Media Sites
 
 Personal information may be collected directly by Abercrombie &. Fitch through our Social Media Pages and may also be collected by the social media site hosting the Abercrombie &. Fitch Social Media Page.
@@ -97,14 +103,14 @@ Personal Information collected directly by Abercrombie &. Fitch: The collection 
 
 Personal Information collected by the social media sites: This privacy policy does not cover the privacy and security practices of the social media sites on which Abercrombie &. Fitch has Social Media Pages. Please review privacy policies and terms of service on the social media sites if you have any questions about their privacy or security practices.
 
-The social media sites where Abercrombie &. Fitch has Social Media Pages may provide aggregate information and analysis to Abercrombie &. Fitch about your use of our Social Media Pages. This allows us to better understand and analyze our user growth, general demographic information about the users of our Social Media Pages, and interaction with content on our Social Media Pages. Overall, this information may be used to help us understand the types of visitors and users of our Social Media Pages and use of the content.  
-  
-  
+The social media sites where Abercrombie &. Fitch has Social Media Pages may provide aggregate information and analysis to Abercrombie &. Fitch about your use of our Social Media Pages. This allows us to better understand and analyze our user growth, general demographic information about the users of our Social Media Pages, and interaction with content on our Social Media Pages. Overall, this information may be used to help us understand the types of visitors and users of our Social Media Pages and use of the content.
 
+  
 Using Information We Collect Online
 
 We may use the information we  collect under this policy (including information collected through cookies. see below section on “Cookies and Advertising” for details on cookies and how we use them), to fulfill product orders. to fulfill your requests (such as contact us, click to chat, email a friend, coming soon product alert, wish list, shipping updates, or a post card). to contact you or the product recipient(s) in the event of order or delivery difficulties. to serve site content. to provide marketing communications regarding our products, services and promotions to you (including sending cart abandonment emails) and to people in your account or your A&F Club program Membership (collectively “Membership”) address book. to administer The A&F Club program. to analyze your activity with us, including interaction with our Websites, the effectiveness of our advertising and your purchases. to personalize our communications to you. to respond to your inquiries. to update information maintained in your online Membership. to conduct surveys, sweepstakes or contests. to develop our products, services, and Websites. and to consider you for employment. Abercrombie &. Fitch uses the information collected on its Social Media Pages to send communications regarding our products, services, and promotions. to respond to your inquiries. to conduct surveys, sweepstakes or contests. to analyze your activity on our Social Media Pages and to develop our products and services. See the “Opt-Out” section below for the choices you have related to receiving marketing communications from us.
 
+  
 Information We Share with Our Brands and Other Third Parties
 
 We will share the information described in this policy, such as names, mailing addresses, email addresses, phone numbers, profile information, and purchase history, as well as any other information either you provide us or we may have or collect about you with our affiliated companies (for example, Hollister Co.). A&F and its affiliates will not subscribe you to their ongoing marketing email or text message programs unless you have separately consented to receive such marketing emails or texts from a given affiliate.
@@ -117,6 +123,7 @@ You should also be aware that we may disclose specific information about you if 
 
 If Abercrombie &. Fitch were ever merged with or it or its assets were acquired by another company, or if it acquires another business entity or is involved in a corporate reorganization or other change of control, some or all of the personal information collected about you could be shared with this entity, and may also be retained by Abercrombie &. Fitch. Other than this acquisition, sale or reorganization, we do not sell or rent your email address to unrelated third parties.
 
+  
 Cookies What Are Cookies, Pixel Tags and URL Links, and How Are These Used on Our Websites or in Our Emails?
 
 Our Websites use, and our third party service providers may use, a browser feature known as a cookie, which assigns a unique identification to your computer or device. The cookies are typically stored on your computer's hard drive or mobile device. The information collected when visiting our Websites may include the following: an IP address, the URL of the page from which you arrived. your browser type. other technical information about your device used to visit our Websites. the pages you view. the features you use. whether you create an account or become a member in The A&F Club program (collectively “Membership”), or sign in and where you go on our Websites once signed into your Membership. whether you complete a transaction. whether you have previously completed a survey. and the time of your visit. This information allows us to determine such things as which parts of our Websites are most visited or used, what products are browsed and/or purchased, the effectiveness of the Websites, your specific interaction with our Websites and difficulties you may experience in accessing our Websites. With this knowledge, we can improve the quality of your experience on our Websites by recognizing and delivering more of the most desired features and information, personalize your experience, and resolve access difficulties. In addition, our Websites use cookies to help keep track of items you put into your shopping cart or wish list, whether you purchase any or all of those items, and to tell us whether you have visited one of our Websites in the past. This allows you to maintain shopping carts and wish lists between visits and allows us to inquire about your continued interest in items in your shopping cart or wish list or that you viewed on one of our Websites. Our Websites also use cookies to help keep track of checkout information, other than payment method information, while you remain on our site. In addition, the information collected by us or our service provider(s) may be linked to and combined with information that we collect about you from your visits to our Websites.
@@ -125,6 +132,7 @@ Our Websites use, and our third party service providers may also use, Pixel Tags
 
 In addition, our communications to you may include "click-through URLs" linked to particular pages on one of our Websites. By clicking on one of the URLs, you will automatically enter one of our Websites. Through the use of cookies, we may associate identifying information in the click-through URL with your previous experiences on our Websites. You may avoid having this information collected by not clicking on the URL links in our communications.
 
+  
 Opt-Out
 
 To make it easier for you, we have moved your opt-out preference choices to this section of the privacy policy.
@@ -158,10 +166,9 @@ If you would like to make sure that we do not disclose your name and postal mail
 
 Facebook Messenger Communication
 
-You may opt in to receive communication and updates from us about your order via Facebook. Once you provide this consent during checkout on our site, this will be maintained for all future orders. To opt out, go to the overview page in the account section of our site or open the conversation on Facebook Messenger and click on the "Turn Off" link next to the Messenger updates language. Also, if you elect to delete your A&F account, then you will no longer receive updates via Facebook Messenger.  
-  
-  
+You may opt in to receive communication and updates from us about your order via Facebook. Once you provide this consent during checkout on our site, this will be maintained for all future orders. To opt out, go to the overview page in the account section of our site or open the conversation on Facebook Messenger and click on the "Turn Off" link next to the Messenger updates language. Also, if you elect to delete your A&F account, then you will no longer receive updates via Facebook Messenger.
 
+  
 If you Apply for a Job or Attend Casting Calls
 
 If you want to work for us, you can submit a curriculum vitae or resume online or fill out an employment application online. When you fill in an online employment application, we will collect personal data such as your name and contact details. We will use this information to evaluate you as a candidate for the position that you applied for and to contact you about the position.
@@ -170,38 +177,46 @@ We invite our employees who are interested in becoming a model to attend casting
 
 If you electronically send us information about your interest in being a model for us (such as your name, size stats, work information, contact information, photographs and video), we will only use that information to determine whether we are interested in you being an Abercrombie &. Fitch model and to contact you about prospective modeling. We may share also that information with our modeling agency. The modeling agency will use your information solely to assist us in determining whether we are interested in you being an Abercrombie &. Fitch model.
 
+  
 International Users
 
 If you are visiting one of our Websites from a location outside of the United States, please keep in mind that it is a US based web and/or commerce site. This privacy policy governs the information collected by or on behalf of our Websites irrespective of where you are located when you access it, browse it, interact with it, and make purchases through it (including those that are shipped to addresses outside the US). With respect to personal information you provide to Abercrombie &. Fitch on the Social Media Pages, once received from the social media sites, it is maintained and processed by us on servers and internal systems located in the United States. This means your personal information may be stored outside of the province, state, and/or country in which you reside, and processed by us, an affiliate or a third party service provider as described in this privacy policy. Moreover, governmental bodies that have jurisdiction over us in the United States (e.g., courts and law enforcement agencies) may be entitled to access your personal information.
 
+  
 Updating Personal Information in Your Account
 
 If you have created an online account or become a member of The A&F Club program (collectively "Membership") we prefer to keep your personal information accurate and up-to-date. To do this, we provide you with the opportunity to update or modify your personal information, including your billing address, preferred shipping information, payment details, and contact information. Just sign in to your Membership with your email address and password, and you will see an overview page where you can update your information.
 
 To request to have your account cancelled send an email to Privacy\_Policy@Abercrombie.com and include the email address of the account you wish to cancel.
 
+  
 Privacy of Children
 
 Our Websites that link to this privacy policy are not directed at kids under the age of 13, and no one under the age of 13 should provide personal information on these Websites. We encourage all children under the age of 13 to visit our kids' Website at abercrombiekids.com.
 
+  
 Links
 
 For your convenience and enjoyment, our Websites may contain links to other websites. We do not evaluate and are not responsible for the privacy practices or the content of such websites. We would urge you to review the privacy policies on each link to ensure that you are comfortable with their privacy policies and practices.
 
+  
 Updates to Privacy Policy
 
 As we continue to offer you new and different types of content and services, we may modify our information collection, use, or disclosure practices. Should there be a material change to our information collection, use or disclosure practices, it will be applied only to information collected on a going forward basis, and we will update this privacy policy statement.
 
+  
 Security Statement
 
 Abercrombie &. Fitch limits the number of employees that have access to the databases that contain personal data, and Abercrombie &. Fitch employees are advised of the importance of confidentiality. In addition, it is our policy to never send your payment card number via email.
 
 We designed our online store to accept orders only from Web browsers that permit communication through Transport Layer Security (TLS) technology. Browsers that do not meet this requirement will be prevented from navigating the online store section of our Websites. See "Supported Web Browsers" for more information. While we implement the above security measures on this site, you should be aware that 100% security is not always possible.
 
+  
 Supported Web Browsers
 
 Abercrombie.com supports Microsoft Internet Explorer 9.0+ and Apple Safari 5.1+.  We recommend if you are viewing our websites on Google Chrome or Mozilla Firefox to download the latest version in order to maximize your experience, otherwise you may not be able to access or utilize all pages on our websites as intended.  
 
+  
 Questions/Contact Us
 
 If you have any questions, comments or concerns regarding our privacy practices, please email us at Privacy\_Policy@Abercrombie.com or write to us at the following address:
