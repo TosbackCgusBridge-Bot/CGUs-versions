@@ -12,7 +12,7 @@ Cookies:
 Unsere Website verwendet an mehreren Stellen sogenannte Cookies. Sie dienen dazu, unser Angebot nutzerfreundlicher und effektiver zu machen. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert. Die Cookies enthalten keine persönlichen Daten. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen. Die meisten der von uns verwendeten Cookies sind so genannte Session-Cookies, die gelöscht werden, wenn Sie Ihre Browsersitzung beenden. Sie werden für Transaktionen benötigt und enthalten lediglich eine Transaktions-ID. Daneben gibt es einige langlebige (persistente) Cookies mit einer Lebenszeit von 6 Monaten (Webtrekk) oder 12 Monaten (Tealium), mittels derer wir Sie z.B. als Besucher wiedererkennen (Siehe Punkt 7). Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren.  
 Sie haben die Möglichkeit, Ihren Browser so einzustellen, dass diese Cookies gar nicht erst gespeichert werden oder dass die Cookies am Ende Ihrer Internetsitzung gelöscht werden. Bitte beachten Sie dabei aber, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen unserer Webseiten nutzen können.  
   
-b Für gesetzlich vorgesehene Zwecke  
+b. Für gesetzlich vorgesehene Zwecke  
 Wir verwenden Ihre Daten für gesetzlich vorgesehene Zwecke. Für die Aufdeckung von Missbrauch und für die Erkennung und Beseitigung von Störungen speichern wir Ihre IP-Adresse für sieben Tage.  
   
 **3\. Wo werden meine Daten verarbeitet?**  
