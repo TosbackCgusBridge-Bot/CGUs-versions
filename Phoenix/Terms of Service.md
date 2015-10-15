@@ -30,23 +30,15 @@ If you are an employee of the University, Apollo or another Apollo Institution, 
 
 Unless otherwise indicated in the Sites, the Sites, the Services and all content and other materials on the Sites including, without limitation, the University logo, and all designs, text, graphics, pictures, information, data, software, routines, documentation, technology, sound files, other files, and the selection and arrangement thereof (collectively, the "Site Materials") are the proprietary property of the University, Apollo or their licensors or users and are protected by U.S. and international copyright and other laws. You are granted a limited license, without the right to sublicense, to access and use the Sites, the Site Materials and the Services, and to print hard copy portions of the Site Materials, for your educational, non-commercial and personal use only. Such license is subject to these Terms of Use, the applicable Additional Terms, if any, and any other applicable terms and conditions, and without limiting any of the foregoing, you expressly agree not to:
 
-(a) resell, lease, transfer, lend, timeshare, syndicate or commercially use the Sites, Site Materials or the Services;
-
-(b) decompile, reverse engineer, disassemble or otherwise attempt to derive any source code from the Sites, the Site Materials or the Services;
-
-(c) distribute, publicly perform or publicly display the Sites, the Site Materials or the Services;
-
-(d) modify, adapt, translate, or create any derivative works of the Sites, the Site Materials, the Services or any portion thereof;
-
-(e) use any data mining, crawlers, spiders, robots or similar data gathering or extraction methods;
-
-(f) download, index or in any non-transitory manner store or cache any portion of the Sites, the Site Materials, the Services or any information contained therein, except as expressly permitted on the Sites;
-
-(g) remove, deface, obscure, or alter any copyright, trademark or other proprietary rights notices affixed to or provided in connection with the Sites, the Site Materials or any Services;
-
-(h) create or attempt to create a substitute or similar service or product through the use of or access to the Sites, the Site Materials, the Services or any proprietary information related thereto. or
-
-(i) use the Sites, the Site Materials or the Services other than for its intended purpose.
+*   (a) resell, lease, transfer, lend, timeshare, syndicate or commercially use the Sites, Site Materials or the Services;
+*   (b) decompile, reverse engineer, disassemble or otherwise attempt to derive any source code from the Sites, the Site Materials or the Services;
+*   (c) distribute, publicly perform or publicly display the Sites, the Site Materials or the Services;
+*   (d) modify, adapt, translate, or create any derivative works of the Sites, the Site Materials, the Services or any portion thereof;
+*   (e) use any data mining, crawlers, spiders, robots or similar data gathering or extraction methods;
+*   (f) download, index or in any non-transitory manner store or cache any portion of the Sites, the Site Materials, the Services or any information contained therein, except as expressly permitted on the Sites;
+*   (g) remove, deface, obscure, or alter any copyright, trademark or other proprietary rights notices affixed to or provided in connection with the Sites, the Site Materials or any Services;
+*   (h) create or attempt to create a substitute or similar service or product through the use of or access to the Sites, the Site Materials, the Services or any proprietary information related thereto. or
+*   (i) use the Sites, the Site Materials or the Services other than for its intended purpose.
 
 Any use or attempted use of the Sites, the Site Materials or the Services other than as specifically authorized herein, without the express prior written permission of the University, or its licensors, is strictly prohibited and will, among other things, terminate the license granted herein. Such unauthorized use or attempted use may also violate applicable laws, including without limitation, copyright and trademark laws and applicable communications regulations and statutes. Except as explicitly stated herein, nothing in these Terms of Use or any applicable Additional Terms shall be construed as conferring any license to any intellectual property rights, whether by estoppel, implication or otherwise. This license is revocable at any time, in the University's sole discretion.
 
@@ -69,17 +61,12 @@ E-Mail Address of Designated Agent: CopyrightAgent@apollo.edu
 
 To be effective, a notification of claimed infringement must be a written communication provided to the Designated Agent and include substantially the following:
 
-a) A physical or electronic signature of a person authorized to act on behalf of the owner of the exclusive right that is allegedly infringed.
-
-b) Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single Site are covered by a single notification, a representative list of such works at that Site.
-
-c) Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material.
-
-d) Information reasonably sufficient to permit our or our designee's contact with the Complaining Party, such as a current, valid address, telephone number, and, if available, an electronic mail address at which the Complaining Party may be contacted.
-
-e) A statement that the Complaining Party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
-
-f) A statement that the information in the notification is accurate, and under penalty of perjury, that the Complaining Party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+*   a) A physical or electronic signature of a person authorized to act on behalf of the owner of the exclusive right that is allegedly infringed.
+*   b) Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single Site are covered by a single notification, a representative list of such works at that Site.
+*   c) Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material.
+*   d) Information reasonably sufficient to permit our or our designee's contact with the Complaining Party, such as a current, valid address, telephone number, and, if available, an electronic mail address at which the Complaining Party may be contacted.
+*   e) A statement that the Complaining Party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+*   f) A statement that the information in the notification is accurate, and under penalty of perjury, that the Complaining Party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
 Upon receipt of such notification, the University or the Designated Agent will remove or disable access to such material and give notice of a claim of copyright infringement to the user or subscriber who authored the claimed infringing content by means of any one or more of the following methods at the University's sole option: a general notice on the Sites, electronic mail to the content provider's email address in our records, or by written communication sent by first-class mail to such user's postal address in our records.
 
@@ -87,13 +74,10 @@ Upon receipt of such notification, the University or the Designated Agent will r
 
 A provider of content subject to a claim of infringement may make a counter notification. To file a counter notification with us, please provide the Designated Agent a written communication containing the following:
 
-(a) A physical or electronic signature.
-
-(b) Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled.
-
-(c) A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled.
-
-(d) Your name, address, and telephone number, and a statement that you consent to the jurisdiction of Federal District Court for the judicial district in which your postal address is located, and that you will accept service of process from the Complaining Party who submitted the infringement notification or his, her or its principal or agent.
+*   (a) A physical or electronic signature.
+*   (b) Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled.
+*   (c) A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled.
+*   (d) Your name, address, and telephone number, and a statement that you consent to the jurisdiction of Federal District Court for the judicial district in which your postal address is located, and that you will accept service of process from the Complaining Party who submitted the infringement notification or his, her or its principal or agent.
 
 Upon receipt of such counter notification, the University will promptly provide the Complaining Party that provided the notice of claimed infringement with a copy of the counter notification, and inform the Complaining Party or entity that the University will replace the removed material or cease disabling access to it in 10 business days. The University will replace the removed material and cease disabling access to it between 10 and 14, business days following receipt of the counter notice, unless our Designated Agent first receives notice from or on behalf of the copyright owner that such person or entity has filed an action seeking a court order to restrain the subscriber from engaging in infringing activity relating to the material on our Site(s).
 
@@ -133,21 +117,14 @@ The Sites or the Services may include public or restricted access discussion for
 
 If you post User Content, you agree that your User Content will be accessible and viewed by others. You agree not to post, upload to, transmit, distribute, store, create or otherwise publish through the Sites any of the following:
 
-(a) User Content that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent or otherwise objectionable;
-
-(b) User Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national or international law, including, without limitation, the regulations of the U.S. Securities and Exchange Commission or any rules of a securities exchange such as the New York Stock Exchange, the American Stock Exchange or the NASDAQ;
-
-(c) User Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party;
-
-(d) User Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity;
-
-(e) Any unauthorized commercial use such as, but not limited to, engaging in unsolicited promotions, political campaigning, advertising, or solicitations, hyperlinking off of the Sites, or collecting names and emails addresses for the purpose of sending unsolicited emails;
-
-(f) Private information of any third party, including, without limitation, addresses, phone numbers, email addresses, Social Security numbers and credit card numbers;
-
-(g) Viruses, corrupted data or other harmful, disruptive or destructive files. and
-
-(h) User Content that, in the sole judgment of the University, is objectionable or which restricts or inhibits any other person from using or enjoying the Interactive Areas or the Sites, or which may expose the University or its users to any harm or liability of any type.
+*   (a) User Content that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent or otherwise objectionable;
+*   (b) User Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national or international law, including, without limitation, the regulations of the U.S. Securities and Exchange Commission or any rules of a securities exchange such as the New York Stock Exchange, the American Stock Exchange or the NASDAQ;
+*   (c) User Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party;
+*   (d) User Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity;
+*   (e) Any unauthorized commercial use such as, but not limited to, engaging in unsolicited promotions, political campaigning, advertising, or solicitations, hyperlinking off of the Sites, or collecting names and emails addresses for the purpose of sending unsolicited emails;
+*   (f) Private information of any third party, including, without limitation, addresses, phone numbers, email addresses, Social Security numbers and credit card numbers;
+*   (g) Viruses, corrupted data or other harmful, disruptive or destructive files. and
+*   (h) User Content that, in the sole judgment of the University, is objectionable or which restricts or inhibits any other person from using or enjoying the Interactive Areas or the Sites, or which may expose the University or its users to any harm or liability of any type.
 
 This list of prohibitions provides examples and is not complete or exclusive.
 
@@ -163,23 +140,18 @@ The University takes no responsibility and assumes no liability for any User Con
 
 Except as explicitly indicated in these Terms of Use, or unless otherwise indicated on the Sites or in connection with your use of the Services, if you post User Content to any of the Sites or in connection with the Services, you retain all rights in and to such User Content. You grant the University, its affiliates, and third party service providers a nonexclusive, royalty-free, perpetual, irrevocable and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform and display such User Content throughout the world in any media. You grant the University and its affiliates and sublicensees the right to use the name that you submit in connection with such User Content, at their sole discretion. You specifically acknowledge and agree that the University has the right to sell, license and/or display any advertising, promotional and distribution rights in connection with your User Content and the University will be entitled to retain any and all revenue generated from any sales or licenses of such advertising, promotional or distribution rights. No royalties will be paid to you or any third party for your User Content. Nothing in these Terms of Use obligates or may be deemed to obligate the University to sell, license or offer to sell or license any advertising, promotion or distribution rights. You represent and warrant that:
 
-(a) you own and control all of the rights to the User Content that you post or you otherwise have the right to post such User Content to the Sites and license such User Content to the University and its affiliates as herein provided;
-
-(b) the User Content is accurate and not misleading. and
-
-(c) use and posting of the User Content you supply does not violate these Terms of Use and will not violate any rights of or cause injury to any person or entity.
+*   (a) you own and control all of the rights to the User Content that you post or you otherwise have the right to post such User Content to the Sites and license such User Content to the University and its affiliates as herein provided;
+*   (b) the User Content is accurate and not misleading. and
+*   (c) use and posting of the User Content you supply does not violate these Terms of Use and will not violate any rights of or cause injury to any person or entity.
 
 **Representations. Registration Data. Account Security**
 
 In consideration of your use of any of the Sites, the Site Materials and the Services, you represent you are of legal age to form a binding contract. In consideration of your use of any of the Sites, the Site Materials and Services, you agree to:
 
-(a) provide accurate, current and complete information about you as may be prompted by any registration forms on the Sites ("Registration Data");
-
-(b) maintain and be solely responsible for the security of your password and identification;
-
-(c) maintain and promptly update the Registration Data, and any other information you provide to the University, to keep it accurate, current and complete. and
-
-(d) accept all risks of unauthorized access to the Registration Data and any other information you provide to the University.
+*   (a) provide accurate, current and complete information about you as may be prompted by any registration forms on the Sites ("Registration Data");
+*   (b) maintain and be solely responsible for the security of your password and identification;
+*   (c) maintain and promptly update the Registration Data, and any other information you provide to the University, to keep it accurate, current and complete. and
+*   (d) accept all risks of unauthorized access to the Registration Data and any other information you provide to the University.
 
 **Submissions Relating to Site(s) or Services**
 
