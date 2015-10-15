@@ -155,8 +155,6 @@ Last update August 15, 2015
 *   » Content Policies
 *   » Copyright Infringement
 
-Oodle is now owned and operated by Oodle Holdings. You can review our new terms of use here.
-
 *   About Us
 *   Help
 *   Safety Center
