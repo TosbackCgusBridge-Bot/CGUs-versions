@@ -1,3 +1,11 @@
+ONLINE ONLY! EXTRA 30% OFF CLEARANCE USE CODE EXTRA30    Girls  Guys  Room  
+
+DETAILS
+
+FREE SHIPPING ON $50
+
+DETAILS
+
 Aéropostale
 
 *   Girls
@@ -76,7 +84,7 @@ Aéropostale
     *   Shorts
     
     *   JACKETS + COATS
-    *   UNDERWEAR + LOUNGE
+    *   UNDERWEAR
     *   ACCESSORIES
 *   Active
     *   Live Love Dream
@@ -97,13 +105,11 @@ Aéropostale
     
     *   SHOP BY CATEGORY
     *   Bedding
-    *   Five Star Sheets &. Pillowcases
     *   Decorative Pillows
     *   Wall Decals &. Decor
     *   Throws &. Rugs
     *   Lighting
-    *   Photo Display
-    *   Jewelry Holders &. Accessories
+    *   Accessories &. Organization
     *   Art Gallery
     
     *   SHOP CLEARANCE
