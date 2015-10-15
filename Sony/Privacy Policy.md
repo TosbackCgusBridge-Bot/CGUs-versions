@@ -40,7 +40,21 @@ PlayMemoriesSpark your imagination &. find new ways to enjoy your photos. Explor
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! "Goosebumps" Stories Come Alive on the Big Screen
+Your browser does not support JavaScript! The Ultimate Full-Frame Compact Camera
+
+Introducing the New RX1R II
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Introducing the New RX1R II
+
+"Goosebumps" Stories Come Alive on the Big Screen
 
 Find Tickets
 
