@@ -30,8 +30,9 @@ Parental control
 *   Skill games
 *   Arcade &. Classic games
 *   Fun/Crazy games
+*   Sports games
 *   View All  
-    356 Tags
+    712 Tags
 
 PRIVACY POLICY
 
