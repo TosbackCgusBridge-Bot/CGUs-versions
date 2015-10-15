@@ -264,10 +264,8 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Girls
             *   Boys
             *   Home
-            *   On The Counter
-            *   Not Quite Perfect
             *   In-season Savings
-            *   Clearance - Last Chance
+            *   Last Chance
 *   Gifts
     *   *   Back to Main Menu Gifts
         *   Shop Gifts
