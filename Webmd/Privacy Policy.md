@@ -1,219 +1,194 @@
-Skip to content Enter Search Keywords. Use the arrow keys to navigate suggestions.
+Symptom Checker Physician Directory Sign In Sign UpSubscribe
 
-Symptoms| Doctors| Health Care Reform
+*   My ProfileWelcome
+*   *   My Tools
+    *   My WebMD Pages
+    *   My Account
+    *   Sign Out
 
-*   Health A-Z
-    
-    Common Conditions
-    
-    View All
-    
-    *   ADD/ADHD
-    *   Allergies
-    *   Arthritis
-    *   Cancer
-    *   Cold, Flu &. Cough
-    *   Depression
-    *   Diabetes
-    
-    *   Eye Health
-    *   Heart Disease
-    *   Heartburn/GERD
-    *   Pain Management
-    *   Sexual Conditions
-    *   Skin Problems
-    *   Sleep Disorders
-    
-    Featured Topics
-    
-    *   Identifying Bugs and Their Bites
-    *   Bothered by Yeast Infections?
-    *   The Worst Shoes for Your Feet
-    
-    WebMD Symptom Checker
-    
-    Health concern on your mind?
-    
-    See what your medical symptoms could mean, and learn about possible conditions.
-    
-    Get Started
-    
-    Resources
-    
-    *   **Second Opinion:** Read expert perspectives on popular health topics.
-    *   **Communities:** Connect with people like you, and get expert guidance on living a healthy life.
-    *   **Insurance Guide:** Get ready for changes to your health care coverage.
-    *   **Physician Directory:** Find a doctor in your area.
-    
-    WebMD Pain Coach
-    
-    Track your pain levels, triggers, and treatments. Set goals and get tips with our app for iPhone.
-*   Drugs &. Supplements
-    
-    Find Information About:
-    
-    Drugs &. Supplements
-    
-    Get information and reviews on prescription drugs, over-the-counter medications, vitamins, and supplements. Search by name or medical condition.
-    
-    *   Find or Review a Drug
-    *   Find or Review a Vitamin or Supplement
-    *   Check for Drug Interactions
-    
-    Drug Basics &. Safety
-    
-    *   Commonly Abused Drugs
-    *   What's Your Medication IQ?
-    *   Taking Medications During Pregnancy
-    
-    WebMD Pill Identifier
-    
-    Having trouble identifying your pills?
-    
-    Enter the shape, color, or imprint of your prescription or OTC drug. Our pill identification tool will display pictures that you can compare to your pill.
-    
-    Get Started WebMD My Medicine
-    
-    Save your medicine, check interactions, sign up for FDA alerts, create family profiles and more.
-    
-    Get Started
-    
-    Drug News
-    
-    *   Get the Latest Drug Approvals &. Alerts
-    *   Find FDA Consumer Updates
-    *   Sign up to receive WebMD's award-winning content delivered to your inbox.
-    *   FDA Approves Diet Pill Belviq
-    *   FDA Delays Decision on Blood Thinner Eliquis
-    
-    WebMD Mobile Drug Information App
-    
-    Drug, supplement, and vitamin information on the go.
-*   Living Healthy
-    
-    Featured Content
-    
-    Want luxurious locks?
-    
-    WebMD cuts through the hype to reveal the best kept secrets for healthy hair.
-    
-    Living Healthy Centers
-    
-    View All
-    
-    Diet, Food &. Fitness
-    
-    *   Diet &. Weight Management
-    *   Weight Loss &. Obesity
-    *   Food &. Recipes
-    *   Fitness &. Exercise
-    
-    Beauty, Balance &. Love
-    
-    *   Healthy Beauty
-    *   Health &. Balance
-    *   Sex &. Relationships
-    *   Oral Care
-    
-    Living Well
-    
-    *   Women's Health
-    *   Men's Health
-    *   Aging Well
-    *   Teens
-    *   Fit Kids
-    
-    Featured Topics
-    
-    *   BMI Calculator: Get Personalized Results
-    *   Portion Size Plate: Easy Serving Size Guide
-    *   Your Birth Control Options
-    *   19 Secrets Men Wish Women Knew
-    *   Quiz: Weird, Crazy Dreams
-    *   Food &. Fitness Planner: Personalize Your Weight Loss Plan
-    
-    WebMD Allergy App for iPhone
-    
-    Fight allergies with daily forecasts, local alerts, and personalized tips.
-*   Family &. Pregnancy
-    
-    Featured Content
-    
-    Traveling abroad?
-    
-    Protect yourself and your family by learning which health precautions and vaccines are advised for your destination.
-    
-    Family and Pregnancy Centers
-    
+*   Health  
+    A-Z
+*   Drugs &  
+    Supplements
+*   Living  
+    Healthy
+*   Family &  
     Pregnancy
-    
-    *   Trying to Conceive
-    *   First Trimester
-    *   Second Trimester
-    *   Third Trimester
-    
-    Parenting
-    
-    *   Newborn &. Baby
-    *   Children's Health
-    *   Children's Vaccines
-    *   Raising Fit Kids
-    
-    Pets
-    
-    *   Healthy Cats
-    *   Healthy Dogs
-    
-    Featured Topics
-    
-    *   Know the Signs of Early Pregnancy?
-    *   Test Your Smarts: What's Safe to Eat When You're Pregnant?
-    *   Peek Inside the Womb to See How Baby Grows
-    *   Healthy School Lunches
-    *   Quiz: Know How to Avoid The Next Toddler Meltdown?
-    *   WebMD Vaccine Tracker: Manage Vaccinations for Your Entire Family
-    
-    WebMD Pregnancy App for iPhone
-    
-    The big day is coming! Get organized and track baby's weekly development.
-*   News &. Experts
-    
-    News
-    
-    View All Today's Top Health Headlines Get the Latest Drug Approvals &. Alerts
-    
-    *   Find FDA Consumer Updates
-    *   On The Road Again: FDA Mobile Laboratories
-    *   Sign up to receive WebMD's award-winning content delivered to your inbox.
-    
-    WebMD Health Experts and Community
-    
-    Talk to health experts and other people like you in WebMD's Communities. It's a safe forum where you can create or participate in support groups and discussions about health topics that interest you.
-    
-    WebMD Second Opinion
+*   News &  
+    Experts
+
+Common Conditions View All
+
+*   ADD/ADHD
+*   Allergies
+*   Arthritis
+*   Cancer
+*   Cold, Flu &. Cough
+*   Depression
+*   Diabetes
+
+*   Eye Health
+*   Heart Disease
+*   Heartburn/GERD
+*   Pain Management
+*   Sexual Conditions
+*   Skin Problems
+*   Sleep Disorders
+
+Featured Topics
+
+*   See What Severe Psoriasis Looks Like
+*   16 Tips to Help You Get Organized
+*   Feeling Your Best When You Have MS
+
+Symptom Checker
+
+Health Concern On Your Mind?
+
+See what your medical symptoms could mean, and learn about possible conditions.
+
+Get Started Resources
+
+*   Second Opinion Read expert perspectives on popular health topics
+*   Communities Connect with people like you, and get expert guidance on living a healthy life
+*   Insurance Guide Get ready for changes to your health care coverage
+*   Physician Directory Find a doctor in your area
+
+Pain Coach Track your pain levels, triggers, and treatments. Set goals and get tips with our app. Download Find Information About:
+
+Drugs &. Supplements
+
+Get information and reviews on prescription drugs, over-the-counter medications, vitamins, and supplements. Search by name or medical condition.
+
+*   Find or Review a Drug
+*   Find or Review a Vitamin or Supplement
+*   Check for Drug Interactions
+
+Drugs Basics &. Safety
+
+*   Commonly Abused Drugs
+*   What's Your Medication IQ?
+*   Taking Medications During Pregnancy
+
+Pill Identifier
+
+Having trouble identifying your pills?
+
+Enter the shape, color, or imprint of your prescription or OTC drug. Our pill identification tool will display pictures that you can compare to your pill.
+
+Get Started My Medicine
+
+Save your medicine, check interactions, sign up for FDA alerts, create family profiles and more.
+
+Get Started Drug News
+
+*   Vitamin B12 May Not Help Some Seniors
+*   Do Supplements Give Athletes an Edge?
+*   New Schizophrenia Drug Approved
+*   FDA: New, Stronger Warning for NSAIDs
+*   New Drug Approved for Heart Failure
+
+Mobile Drug Information App Drug, supplement, and vitamin information on the go. Download Featured Content
+
+*   Improve Your Concentration  
+    These Foods and Drinks Can Help
+
+Allergy App Fight allergies with daily forecasts, local alerts, and personalized tips. Download Living Healthy Centers View All Diet, Food &. Fitness
+
+*   Diet &. Weight Management
+*   Weight Loss &. Obesity
+*   Food &. Recipes
+*   Fitness &. Exercise
+
+Beauty &. Balance
+
+*   Healthy Beauty
+*   Health &. Balance
+*   Sex &. Relationships
+*   Oral Care
+
+Living Well
+
+*   Women's Health
+*   Men's Health
+*   Aging Well
+*   Teens
+*   Fit Kids
+
+Featured Topics
+
+*   Overcome Your Fear of Public Speaking
+*   New Clues Why Mosquitos Attack You
+*   Why Do You ... ACHOO!?
+*   Flash Fitness: Try the 7-Minute Workout
+*   Have Sensitive Teeth? See What to Do
+*   16 Tips to Help You Get Organized
+
+Featured Content
+
+*   Improve Your Concentration  
+    What's That Rash? How to Treat Childhood Skin Problems
+
+Pregnancy App The big day is coming! Get organized and track baby's weekly development. Download Family and Pregnancy Centers Pregnancy
+
+*   Trying to Conceive
+*   First Trimester
+*   Second Trimester
+*   Third Trimester
+
+Parenting
+
+*   Newborn &. Baby
+*   Children's Health
+*   Children's Vaccines
+*   Raising Fit Kids
+
+Pets
+
+*   Healthy Cats
+*   Healthy Dogs
+
+Featured Topics
+
+*   When Autism Grows Up
+*   Top Children's Hospitals Ranked
+*   Antidepressants Linked to Birth Defects
+*   When Are You Contagious?
+*   Which Birth Control Is Best for You?
+*   New Test May Help Spot Male Infertility
+
+News View All
+
+*   Why You Should Rethink That Drink Before Dinner
+*   New Clues Why Mosquitoes Find You Irresistible
+*   Article Women: Too Much Sitting Ups Cancer Risk
+*   Article Popular Heartburn Meds Can Have Health Risks
+*   Article Do Supplements Give Athletes an Edge?
+
+WebMD Health Experts and Community
+
+Talk to health experts and other people like you in WebMD's Communities. It's a safe forum where you can create or participate in support groups and discussions about health topics that interest you.
+
+*   Second Opinion
     
     Read expert perspectives on popular health topics.
     
-    WebMD Communities
+*   Community
     
-    Connect with people like you, and get expert guidance on living a healthy life. WebMD Answers
+    Connect with people like you, and get expert guidance on living a healthy life.
     
-    Got a health question? Get answers provided by leading organizations, doctors, and experts.
-    
-    Get Answers
-    
-    WebMD Newsletters
-    
-    Sign up to receive WebMD's award-winning content delivered to your inbox.
 
-Sign In| Sign Up | Subscribe My WebMD Show Menu
+Answers
 
-*   My Tools
-*   My WebMD Pages
-*   My Account
-*   Sign Out
+Got a health question? Get answers provided by leading organizations, doctors, and experts.
 
-FacebookTwitterPinterest WebMD Home About WebMD Policies Email a Friend Print Article WebMD Privacy Policy Summary
+Get Answers Newsletters
+
+Sign up to receive WebMD's award-winning content delivered to your inbox.
+
+Sign Up
+
+WebMD Home About WebMD Policies Email a Friend Print Article WebMD Privacy Policy Summary
 
 En español
 
