@@ -318,11 +318,11 @@ From time to time, we may update this Privacy Policy. We will notify you about m
 
 _The Privacy Policy posted on this Service was updated on July 31, 2015._
 
-From Our Partners*   'American Horror Story' stars: Then &. now Entertainment Weekly
-*   Ree Drummond's Top Recipes Food Network
-*   These 4 balance transfer cards could help you save big LendingTree
-*   Bobby Flay's best recipes Food Network
-*   Time to sell? What's your home worth? Trulia
+Food Network*   Pizza across the country
+*   Easy slow cooker recipes
+*   50 bar cookies that are delicious
+*   Anne Burrells top recipes
+*   The best one pot meals
 
 More from CNN Information*   ABOUT CNN.COM
 
