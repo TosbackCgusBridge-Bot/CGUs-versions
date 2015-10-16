@@ -189,7 +189,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Towels
             *   Rugs &. Mats
             *   Beach Towels
-            *   Soaps &. Scents
         *   DÉcor
             *   Back to All Home DÉcor
             *   Storage &. Organization
