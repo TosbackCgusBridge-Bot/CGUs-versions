@@ -54,7 +54,7 @@ Close
 
 Introducing the New RX1R II
 
-"Goosebumps" Stories Come Alive on the Big Screen
+Watch "Goosebumps" Stories Come Alive on the Big Screen
 
 Find Tickets
 
@@ -94,9 +94,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-@NaomieHarris takes photos with our #Xperia Z5 last night as we celebrate great Sony tech #MadeForBond
+It’s time to take a stand. #TheBlacklist is all new tonight at 9/8c on NBC.
 
-2015-10-14 07:11:51+00:00
+2015-10-15 18:52:01+00:00
 
 View Tweet
 
@@ -152,9 +152,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-Congrats to @Beyonce @CalvinHarris @EmpireFOX @Hozier @JColeNC &. @OneDirection for their #AMA nominations! #AMAs
+RT @GoosebumpsMovie: The stories are alive! Be the FIRST to see #GoosebumpsMovie w/ early shows starting TONIGHT! www.fandango.com
 
-2015-10-14 02:46:30+00:00
+2015-10-16 04:26:40+00:00
 
 View Tweet
 
@@ -236,9 +236,9 @@ Get a Mini Speaker
 
 Sony on Twitter
 
-The Witch and the Hundred Knight: Revival Edition comes to PS4 March 1st: http://blog.us.playstation.com @NISAmerica
+Watch @intanetz's new music video "Get Away" from their acclaimed album Ego Death. youtube.com
 
-2015-10-13 17:00:01+00:00
+2015-10-16 16:02:21+00:00
 
 View Tweet
 
@@ -306,9 +306,9 @@ Play Video
 
 Sony on Twitter
 
-@GoosebumpsMovie: 3 DAYS until Slappy's revenge. #GoosebumpsMovie www.fandango.com
+@Raury's debut album #ALLWENEED is out tomorrow! Listen to his newest track "Woodcrest Manor II" from the record: youtube.com
 
-2015-10-14 09:24:52+00:00
+2015-10-16 03:48:30+00:00
 
 View Tweet
 
@@ -376,9 +376,9 @@ Find Out More
 
 Sony on Twitter
 
-Do more and go farther with up to 2 days of battery life. #Xperia
+New at CEDIA: Sony's STR-ZA3000ES (130 watts x 9 channel) Receiver. youtube.com
 
-2015-10-14 03:06:11+00:00
+2015-10-15 17:00:01+00:00
 
 View Tweet
 
