@@ -318,12 +318,6 @@ From time to time, we may update this Privacy Policy. We will notify you about m
 
 _The Privacy Policy posted on this Service was updated on July 31, 2015._
 
-Food Network*   Pizza across the country
-*   Easy slow cooker recipes
-*   50 bar cookies that are delicious
-*   Anne Burrells top recipes
-*   The best one pot meals
-
 More from CNN Information*   ABOUT CNN.COM
 
 1.  News
