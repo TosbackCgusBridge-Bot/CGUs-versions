@@ -20,7 +20,7 @@ LENOVO Menu
         8.  Deals for Students and Educators
         9.  Outlet
         10.  Warranty-Sale
-    *   Savings You’ll Fall For. Be-leave it or not. These Deals are Real.
+    *   7 Days of Deals. Don’t delay. Get a great deal today!
         
         Save up to 52% Site-Wide.
         
@@ -28,7 +28,9 @@ LENOVO Menu
         
         We have prebuilt models of our most popular PCs in stock and ready to ship!
         
-    *   Windows 10 is here. Looking ahead, without leaving you behind.
+    *   Lenovo A series Tablets The affordable way to enjoy music, videos, and games.
+        
+        Save Up To 35%.
         
 *   Support
     *   Help placing an order 24 hours a day, 7 days a week  
