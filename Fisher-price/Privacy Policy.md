@@ -1,4 +1,4 @@
-icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev iconicon-tag-close icon Toggle navigation Menu
+icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev iconicon-tag-close icon Toggle navigation Menu En Español
 
 *   PRODUCTS BY AGE
     
@@ -90,6 +90,7 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     
     *   Heritage How we’ve grownSee all >.
 *   STORE
+*   EN ESPAÑOL
 
 SIGN UP FOR OUR E-NEWSLETTER >. SUBSCRIBE STAY IN TOUCH WITH US HERE: PRODUCTS
 
