@@ -642,7 +642,7 @@ pspMainSecurityofPersonalDataModule,pspMainWhereWeStoreandProcessDataModule,pspM
 *   Microsoft Cloud
 *   PC and Laptops
 *   Web browser
-*   Windows Phone smartphones
+*   Lumia smartphones
 *   Windows Phone apps and games
 *   Microsoft computer security
 *   Cortana
