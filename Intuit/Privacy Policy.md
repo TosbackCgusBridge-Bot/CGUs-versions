@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13971760518
+true true 10.60.248.10 L14075445069
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Wed Oct 14 06:44:30 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p01.jcpenney.com SERVER NAME :->. dtcomexpr1l1j3 TIME :->. Thu Oct 15 07:51:20 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,63 +48,47 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-2 Days Only Online Only | Ends October 14 | Code: SAVNG37 \*See offer exclusions and details:
+Ends October 18 | Online Code: FALLSAVE Print CouponOnline Only, Orders Over $100 Extra 25% Off\* with your JCPenney Credit Card
 
-50% Off\* select orig and reg-priced styles
+Extra 20% Off\* with any other method of payment
 
-Shop Bedding and Bath Shop Luggage Shop Window
+Or, In Store and Online Extra 20% Off\* with your JCPenney Credit Card
 
-40% Off\* select orig and reg-priced styles
+Extra 15% Off\* with any other method of payment
 
-Shop Home Decor Shop Furniture and Mattresses
+Or, In Store and Online Extra 10% Off\* watches, salong products, furniture, mattresses, custom blinds &. shades
 
-30% Off\* select orig and reg-priced styles
+\*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance items.
 
-Shop Kitchen and Dining Shop Storage and Organization Shop Vacuums and Floorcare Shop Custom Blinds and Shades
+\*See exclusions and details Big Bonus Sale + Doorbusters In Store and Online Big Bonus Sale Shop Big Bonus Sale View Store Ad Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Jewelry Shop Accessories Shop HomeNight and Day Doorbusters | In Store and Online
 
-Extra 20% Off\* select orig, reg, sale and clearance-priced styles
+Friday 3PM CDT through Saturday 1PM CDT
 
-Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Accessories and Handbags Shop Fashion Jewelry Shop Online Clearance Workout Apparel and Shoes For The Family Up to 50% Off Activewear for the Family
+Shop Doorbusters Update Your Space With Bedding and Comforters Home Sale | 30 to 50% Off
 
-Select styles.
+Select styles
 
-Shop Women Shop Men Shop Kids Shop Athletic Shoes     Save On Bras During The Bra Fit Event Bra Fit Event | Final Days!
+Shop Home Sale Shop Comforters and Bedding Sets Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Home Decor Shop Kitchen and Dining Save on Boots, Booties and More 30 to 40% Off Boots for Her
 
-Ends October 18
+Select styles
 
-Find a Fit Event Location Near You 20% Off Bras
+Shop Boots for Her Shop Wide-Calf Boots Save On Coats and Jackets for the Family 40 to 50% Off Coats and Jackets for the Family
 
-Select styles when you buy 2 or more.
+Select styles
 
-Shop Bras Diamond Rings and More Are On Sale Now! Diamon Sale | Ends October 27
+Shop Coats and Jackets for the Family Shop Girls Coats Shop Boys Coats Shop Women's Coats Shop Men's Coats Big Savings On Clearance In Store and Online Red Zone Clearance | New Markdowns!
 
-40 to 60% Off Fine Jewelry and Bijoux Bar, select styles
+55 to 80% Off when you use 15% Off coupon or code: FALLSAVE
 
-Shop Fine Jewelry and Bijoux Bar
+Shop Clearance Get Details Star Wars™ Shop Star Wars Now Shop For Good
 
-30 to 60% Off Fashion Jewelry, select styles
+Plus round up your October purchases to the nearest dollar to support breast cancer research and awareness.
 
-Shop Fashion Jewelry
+Shop For Good Now Halloween Shop Shop Halloween Now Styled by JCPenney
 
-20 to 50% Off Fine and Fashion Watches, select styles
+Check out our blog
 
-Shop Fine and Fashion Watches Shop Modern Bride Save On Halloween Costumes From Disney Collection Fairest Event Of Them All | In Store and Online Thru November 1
-
-25% Off Disney Costumes and Accessories, select styles (excluded from coupon)
-
-Shop Disney Costumes and Accessories Shop Disney Collection SportsFanShop
-
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
-
-Shop SportsFanShop Shop For Good
-
-Plus round up your October purchases to the nearest dollar to supposrt breast cancer research and awareness.
-
-Shop For Good Now People StyleWatch Must Haves
-
-Sponsored Content
-
-Shop People StyleWatch Now Download the JCPenney App and Get Shopping Check out the app: Download on the AppStore Get it on Google play
+Read It Now
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
