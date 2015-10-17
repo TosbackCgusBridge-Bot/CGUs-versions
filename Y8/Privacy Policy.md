@@ -32,7 +32,7 @@ Parental control
 *   Fun/Crazy games
 *   Sports games
 *   View All  
-    712 Tags
+    356 Tags
 
 PRIVACY POLICY
 
