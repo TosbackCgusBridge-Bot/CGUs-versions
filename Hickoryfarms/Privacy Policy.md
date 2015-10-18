@@ -20,6 +20,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Gifts on the Healthier Side
     *   Thanksgiving
     *   Christmas Gifts
+        
     *   Sweetest Day
 *   Sausage &. Cheese
     *   Sausage &. Cheese Gifts
@@ -75,6 +76,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gifts on the Healthier Side
     *   Thanksgiving
     *   Christmas Gifts
+        
     *   Sweetest Day
 *   Sausage &. Cheese
     *   Sausage &. Cheese Gifts
@@ -167,9 +169,9 @@ My Account
 
 Guarantees
 
-*   100% Satisfaction
-*   Substitution Policy
 *   Security
+*   Substitution Policy
+*   100% Satisfaction
 
 Privacy
 
@@ -188,9 +190,9 @@ Security
 
 About Us
 
-*   Store Locator
-*   Employment Opportunities
 *   The Hickory Farms Story
+*   Employment Opportunities
+*   Store Locator
 
 Need Help?
 
