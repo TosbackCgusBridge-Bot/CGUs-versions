@@ -12,7 +12,7 @@
 *   customer service
     
 
-*   Hello  MARY JO
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14078900695
+true true L14079268009
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p29.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Fri Oct 16 07:53:31 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p15.jcpenney.com SERVER NAME :->. dtcomexpr1l1j2 TIME :->. Sat Oct 17 05:35:12 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,23 +48,7 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Ends October 18 | Online Code: FALLSAVE Print CouponOnline Only, Orders Over $100 Extra 25% Off\* with your JCPenney Credit Card
-
-Extra 20% Off\* with any other method of payment
-
-Or, In Store and Online Extra 20% Off\* with your JCPenney Credit Card
-
-Extra 15% Off\* with any other method of payment
-
-Or, In Store and Online Extra 10% Off\* watches, salong products, furniture, mattresses, custom blinds &. shades
-
-\*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance items.
-
-\*See exclusions and details Big Bonus Sale + Doorbusters In Store and Online Big Bonus Sale Shop Big Bonus Sale View Store Ad Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Jewelry Shop Accessories Shop HomeNight and Day Doorbusters | In Store and Online
-
-Friday 3PM CDT through Saturday 1PM CDT
-
-Shop Doorbusters Update Your Space With Bedding and Comforters Home Sale | 30 to 50% Off
+Big Bonus Sale In Store and Online Ends 10/18 Big Bonus Sale Shop Big Bonus Sale View Store Ad Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Jewelry Shop Accessories Shop Home Update Your Space With Bedding and Comforters Home Sale | 30 to 50% Off
 
 Select styles
 
