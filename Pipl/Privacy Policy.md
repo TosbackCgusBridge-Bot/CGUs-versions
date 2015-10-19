@@ -23,8 +23,7 @@ Pipl's website contain links to third party websites and embedded elements from 
 
 **Advertising and promotions**  
 Pipl may display targeted ads and other relevant information, when you are using Pipl's service.  
-Information that relates to a specific advertising campaign on Pipl will be provided to advertisers only in an aggregate form, no personal information about the person who viewed an ad will be provided.  
-Some of our ads are served via third party ad-networks such as Google, in this case we do not provide the advertisers with any targeting information and the ads are served directly by the ad-network to you.
+Information that relates to a specific advertising campaign on Pipl will be provided to advertisers only in an aggregate form, no personal information about the person who viewed an ad will be provided.
 
 **Disclaimer**  
 We reserves the right to disclose information to third parties if we believe we are required to do so by law or have a good-faith belief that such access or disclosure is reasonably necessary to:  
@@ -35,8 +34,7 @@ We reserves the right to disclose information to third parties if we believe we 
 \* Protect the rights, property or safety of Pipl, its users and the public.
 
 **Service Providers**  
-The back-end of our People Data API is powered by Intel Services, please note that when you use the portal or the API you agree to their policy in addition to ours, we recommend that you read their privacy page for more information.  
-Our Support Portal is powered by Kayako, please note that when you send us a support request or when you are using the support portal you agree to their policy in addition to ours, we recommend that you read their privacy page for more information.
+Our Support Portal is powered by Kayako, please note that when you send us a support request, a feedback, or when you are using the support portal you agree to their policy in addition to ours, we recommend that you read their privacy page for more information.
 
 **Transfer of information**  
 Information collected by Pipl may be stored and processed in the United States or any other country in which Pipl or its agents maintain facilities. By using Pipl, you consent to any such transfer of information outside of your country.  
