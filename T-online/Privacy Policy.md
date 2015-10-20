@@ -1,5 +1,11 @@
 Hinweise zum Datenschutz
 
+*   Teilen
+*   Twittern
+*   Drucken
+*   Mailen
+*   Redaktion
+
 **Vertragsabschluss und Besuch unserer Internetseite**
 
 *   Allgemeine Datenschutzhinweise (PDF)
