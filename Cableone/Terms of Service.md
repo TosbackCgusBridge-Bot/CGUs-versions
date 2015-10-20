@@ -110,25 +110,25 @@ Surfing 15Mbps Internet
 
 1.5,Mbps, 5Mbps, 8Mbps, 10Mbps,12Mbps
 
-300GB Data Plsn
+300GB Data Plan
 
-Streaming 50Mbps Internet
+Streaming 50 &. Streaming 100 Internet
 
 300GB Data Plan
 
-Premier 60 &. Premier 75 Internet
+Premier 60, Premier 75, &. Premier 150 Internet
 
 400GB Data Plan
 
-Ultra 70 &. Ultra 100 Internet
+Ultra 70, Ultra 100, &. Ultra 200 Internet
 
 500GB Data Plan
 
-Ultra 60 Plus &. 100 Plus
+Ultra 60 Plus, 100 Plus, &. 200 Plus
 
 750GB Data Plan
 
-Ultra 70 Max &. 100 Max
+Ultra 70 Max, Ultra 100 Max, &. Ultra 200 Max
 
 1000GB Data Plan
 
