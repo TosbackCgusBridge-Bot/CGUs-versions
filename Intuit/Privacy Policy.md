@@ -12,7 +12,7 @@
 *   customer service
     
 
-*   Hello  Aida
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true 10.60.216.10 C13989863415
+true true L14085577944
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Sun Oct 18 07:45:01 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Mon Oct 19 04:56:12 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,31 +48,55 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Big Bonus Sale In Store and Online Ends 10/18 Big Bonus Sale Shop Big Bonus Sale View Store Ad Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Jewelry Shop Accessories Shop Home Update Your Space With Bedding and Comforters Home Sale | 30 to 50% Off
+2 Days Only Online Only | Ends October 20 | Code: WHAT2BUY \*See offer exclusions and details:
+
+50% Off\* select orig and reg-priced styles
+
+Shop Bedding and Bath Shop Luggage Shop Window
+
+40% Off\* select orig and reg-priced styles
+
+Shop Home Decor Shop Furniture and Mattresses
+
+30% Off\* select orig and reg-priced styles
+
+Shop Kitchen and Dining Shop Custom Blinds and Shades
+
+Extra 20% Off\* select orig, reg, sale and clearance-priced styles
+
+Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Handbags and Accessories Shop Fine and Fashion Jewelry Shop Online Clearance Save on Diamonds, Jewelry and Watches Diamond Sale | Ends October 27
+
+40 to 60% Off Fine Jewelry and Bijoux Bar, select styles
+
+Shop Fine Jewelry and Bijoux Bar
+
+30 to 60% Off Fashion Jewelry, select styles
+
+Shop Fashion Jewelry
+
+20 to 50% Off Fine and Fashion Watches, select styles
+
+Shop Fine and Fashion Watches Shop Modern Bride Workout Clothes On Sale! 40% Off Xersion Activewear for the Family
 
 Select styles
 
-Shop Home Sale Shop Comforters and Bedding Sets Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Home Decor Shop Kitchen and Dining Save on Boots, Booties and More 30 to 40% Off Boots for Her
+Shop Women Shop Men Shop Kids     Men's and Women's Sweaters For The Season 40 to 50% Off Sweaters
 
 Select styles
 
-Shop Boots for Her Shop Wide-Calf Boots Save On Coats and Jackets for the Family 40 to 50% Off Coats and Jackets for the Family
+Shop Men's Sweaters   Shop Women's Sweaters   Disney Costumes For Halloween Fairest Event Of Them All | In Store and Online Thru November 1
 
-Select styles
+30 to 40% Off Disney Collection Costumes and Accessories, select styles (excluded from coupon)
 
-Shop Coats and Jackets for the Family Shop Girls Coats Shop Boys Coats Shop Women's Coats Shop Men's Coats Big Savings On Clearance In Store and Online Red Zone Clearance | New Markdowns!
+Shop Disney Costumes and Accessories Shop Disney Collection Shop For Good
 
-55 to 80% Off when you use 15% Off coupon or code: FALLSAVE
+Plus round up your October purchases to the nearest dollar to supposrt breast cancer research and awareness.
 
-Shop Clearance Get Details Star Wars™ Shop Star Wars Now Shop For Good
+Shop For Good Now Star Wars™ Shop Star Wars Now Check Out Our Blog
 
-Plus round up your October purchases to the nearest dollar to support breast cancer research and awareness.
+Styled by JCPenney
 
-Shop For Good Now Halloween Shop Shop Halloween Now Styled by JCPenney
-
-Check out our blog
-
-Read It Now
+Read It Now Halloween Shop Shop Halloween Now
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
