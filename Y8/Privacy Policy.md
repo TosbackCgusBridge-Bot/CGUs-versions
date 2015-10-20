@@ -30,7 +30,7 @@ Parental control
 *   Skill games
 *   Arcade &. Classic games
 *   Fun/Crazy games
-*   Sports games
+*   Movie trailer games
 *   View All  
     356 Tags
 
