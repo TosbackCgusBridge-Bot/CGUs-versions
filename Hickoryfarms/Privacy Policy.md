@@ -21,7 +21,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Thanksgiving
     *   Christmas Gifts
         
-    *   Sweetest Day
 *   Sausage &. Cheese
     *   Sausage &. Cheese Gifts
     *   Cheese
@@ -77,7 +76,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Thanksgiving
     *   Christmas Gifts
         
-    *   Sweetest Day
 *   Sausage &. Cheese
     *   Sausage &. Cheese Gifts
     *   Cheese
@@ -169,9 +167,9 @@ My Account
 
 Guarantees
 
-*   Security
-*   Substitution Policy
 *   100% Satisfaction
+*   Substitution Policy
+*   Security
 
 Privacy
 
