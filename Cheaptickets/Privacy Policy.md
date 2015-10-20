@@ -79,7 +79,7 @@ Hotels under $50 (yes, that cheap!)
 *   Dallas
 *   Cancun
 
-Las Vegas From **$27** Circus Circus Hotel and Casino 3.2 / 5 1588 reviews
+Las Vegas From **$24** Circus Circus Hotel and Casino 3.2 / 5 1588 reviews
 
 Las Vegas, Nevada
 
@@ -91,7 +91,7 @@ Las Vegas, Nevada
 
 **2-for-1 Helicopter, Airplane, and Bus Tours!**
 
-From **$27** Palace Station Hotel 3.1 / 5 319 reviews
+From **$26** Palace Station Hotel 3.1 / 5 319 reviews
 
 Las Vegas, Nevada
 
@@ -103,21 +103,21 @@ Las Vegas, Nevada
 
 **Save 30%**
 
-From **$32** Hooters Casino Hotel 3.0 / 5 173 reviews
+From **$31** Hooters Casino Hotel 3.0 / 5 173 reviews
 
 Las Vegas, Nevada
 
-From **$35** The Orleans Hotel and Casino 3.9 / 5 47 reviews
+From **$34** The Orleans Hotel and Casino 3.9 / 5 47 reviews
 
 Las Vegas, Nevada
 
-See more Hotels in Las Vegas Back to menu Return to top Orlando From **$39** The Floridian Hotel and Suites 2.8 / 5 36 reviews
+See more Hotels in Las Vegas Back to menu Return to top Orlando From **$70** The Floridian Hotel and Suites 2.8 / 5 36 reviews
 
 Orlando, Florida
 
 **25% Off**
 
-From **$50** Monumental Movieland Hotel 3.5 / 5 18 reviews
+From **$52** Monumental Movieland Hotel 3.5 / 5 18 reviews
 
 Orlando, Florida
 
@@ -125,35 +125,35 @@ From **$51** Suburban Extended Stay South 3.0 / 5 1 reviews
 
 Orlando, Florida
 
-From **$43** Econo Lodge International Drive at Universal 1.0 / 5 1 reviews
+From **$70** Econo Lodge International Drive at Universal 1.0 / 5 1 reviews
 
 Orlando, Florida
 
-From **$39** Travelodge Orlando Near Florida Mall 2.4 / 5 14 reviews
+From **$35** Travelodge Orlando Near Florida Mall 2.4 / 5 14 reviews
 
 Orlando, Florida
 
 **Save 20% on your stay**
 
-From **$42** The Orlando Metropolitan Resort 2.3 / 5 92 reviews
+From **$83** The Orlando Metropolitan Resort 2.3 / 5 92 reviews
 
 Orlando, Florida
 
 **Save 15% Off - Stay 3 Nights**
 
-See more Hotels in Orlando Back to menu Return to top San Diego From **$49** Heritage Inn San Diego - Sea World 3.0 / 5 20 reviews
+See more Hotels in Orlando Back to menu Return to top San Diego From **$52** Heritage Inn San Diego - Sea World 3.0 / 5 20 reviews
 
 San Diego, California
 
 **Stay 2 Save 10%**
 
-From **$48** Good Nite Inn San Diego near SeaWorld - Sports Arena 3.1 / 5 85 reviews
+From **$49** Good Nite Inn San Diego near SeaWorld - Sports Arena 3.1 / 5 85 reviews
 
 San Diego, California
 
 **Special Savings - Save 33% on your stay!**
 
-From **$41** 500 West Hotel San Diego Downtown - Bayside 2.7 / 5 49 reviews
+From **$43** 500 West Hotel San Diego Downtown - Bayside 2.7 / 5 49 reviews
 
 San Diego, California
 
@@ -163,7 +163,7 @@ San Diego, California
 
 **Save 20% on your stay**
 
-From **$49** Super 8 Sea World Zoo San Diego Area 2.2 / 5 5 reviews
+From **$53** Super 8 Sea World Zoo San Diego Area 2.2 / 5 5 reviews
 
 San Diego, California
 
@@ -181,7 +181,7 @@ Atlanta, Georgia
 
 **Save 20% on your stay**
 
-See more Hotels in Atlanta Back to menu Return to top Dallas From **$56** Regency Hotel Dallas East 2.5 / 5 8 reviews
+See more Hotels in Atlanta Back to menu Return to top Dallas From **$54** Regency Hotel Dallas East 2.5 / 5 8 reviews
 
 Dallas, Texas
 
@@ -201,47 +201,47 @@ From **$46** Motel 6 Dallas-Fair Park 3.3 / 5
 
 Dallas, Texas
 
-From **$50** Royal Inn Dallas NW 1.0 / 5 1 reviews
+From **$48** Royal Inn Dallas NW 1.0 / 5 1 reviews
 
 Dallas, Texas
 
-From **$52** Super 8 Dallas East 3.1 / 5
+From **$54** Super 8 Dallas East 3.1 / 5
 
 Dallas, Texas
 
 **Save 20% on your stay**
 
-See more Hotels in Dallas Back to menu Return to top Cancun From **$31** Hotel Ikaro Suites Cancun 3.0 / 5 2 reviews
+See more Hotels in Dallas Back to menu Return to top Cancun From **$32** Hotel Ikaro Suites Cancun 3.0 / 5 2 reviews
 
 Cancun, Mexico
 
 **18% off per night**
 
-From **$32** Kin Mayab by Bus Station 3.3 / 5 4 reviews
+From **$27** Kin Mayab by Bus Station 3.3 / 5 4 reviews
 
 Cancun, Mexico
 
 **FREE WI FI &. FREE PARKING**
 
-From **$34** Hotel Antillano 3.5 / 5
+From **$35** Hotel Antillano 3.5 / 5
 
 Cancun, Mexico
 
 **Free Wi Fi and Continental Breakfast**
 
-From **$54** Ramada Cancun City 3.9 / 5 20 reviews
+From **$53** Ramada Cancun City 3.9 / 5 20 reviews
 
 Cancun, Mexico
 
 **FREE Wireless Internet + 2 kids up to 12 STAY FREE**
 
-From **$42** Terracaribe Hotel 3.4 / 5 18 reviews
+From **$41** Terracaribe Hotel 3.4 / 5 18 reviews
 
 Cancun, Mexico
 
 **Book Early and Save 54% of per night!**
 
-From **$55** Ambiance Suites Hotel 4.0 / 5 1 reviews
+From **$57** Ambiance Suites Hotel 4.0 / 5 1 reviews
 
 Cancun, Mexico
 
