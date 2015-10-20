@@ -404,6 +404,8 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
     Fahrzeuge
 *   Werkstatt-  
     vergleich
+*   Kfz-  
+    Versicherung
 
 *   FREIZEIT
 *   Eurojackpot
