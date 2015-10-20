@@ -153,7 +153,7 @@ YOU EXPRESSLY AGREE THAT USE OF THE WEBSITES IS AT YOUR SOLE RISK. THE WEBSITES 
 > > 
 > > (vi) A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-We will investigate notices of copyright infringement and take appropriate actions under the DMCA.  Inquiries that do not follow this procedure may not receive a response.  For more information on our DMCA policy, please click on this hyperlink: Infringements.
+We will investigate notices of copyright infringement and take appropriate actions under the DMCA.  Inquiries that do not follow this procedure may not receive a response.  For more information on our DMCA policy, please click here​.
 
 **14\. CHOICE OF LAW. JURISDICTION AND VENUE**
 
