@@ -1,4 +1,4 @@
-Skip to main content Free Career Assessment | Military Students | Education Resources      
+Skip to main content       Military Students | Education Resources      
 
 *   Online Degrees
     *   Business
@@ -15,7 +15,7 @@ Skip to main content Free Career Assessment | Military Students | Education Reso
 *   Online Certificates
 *   Online Colleges
 *   Transfer Students
-*   Military Scholarship
+*   Free Career Assessment
 *   Popular Degrees
     *   Accounting Degrees
     *   Business Administration
