@@ -126,7 +126,6 @@ legal@plentyoffish.com
 
 **Community**  
 Passion Match  
-Speed Dating  
 Success Stories  
 
 **Help**  
