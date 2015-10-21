@@ -19,7 +19,7 @@ Search Use up and down arrows to navigate suggestions.
 *   Insurance
 *   Investing and Retirement
 *   Wealth Management
-*   Rewards
+*   Rewards and Benefits
 
 We're sorry, but some features of our site require JavaScript. Please enable JavaScript on your browser and refresh the page.
 
@@ -171,7 +171,7 @@ Next Step
 *   Contact Wells Fargo Advisors
 *   Contact Abbot Downing
 
-Rewards Rewards
+Rewards and Benefits Rewards
 
 *   Wells Fargo Rewards®
 *   Earn Rewards
