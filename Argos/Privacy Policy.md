@@ -1,12 +1,12 @@
 \>. Customer services >. Privacy Policy Privacy Policy
 
-(Updated 05 November 2014)
+(Updated 21st October 2015)
 
 The Website is operated by Argos Limited ("Argos/we/our/us") a company incorporated in England (Company Number 01081551) with registered office at 489-499 Avebury Boulevard, Central Milton Keynes, MK9 2NW. Argos is a member of the Home Retail Group ("the Group"). The Group ("we", "us") includes Argos Limited, Argos Business Solutions Limited, Home Retail Group Card Services Limited, Home Retail Group Insurance Services Limited, Home Retail Group Personal Finance Limited, ARG Personal Loans Limited, Homebase Limited, Argos Business Solutions Limited, Habitat Retail Limited and their associated companies. A full list of companies is available upon request (See 'Contact Us' below).
 
 As user of the website (referred to as "you/your") you acknowledge that any use of this website (including any transactions you make) is subject to this Privacy Policy together with our Terms and Conditions.
 
-The purpose of this statement is to set out the purposes for which, and the manner in which, we may collect and use personal information that we may obtain about you. By either registering as a user of any services provided by Argos on this website and/or by using the Argos website generally you consent and agree to this use by us.
+The purpose of this statement is to set out the purposes for which, and the manner in which, we may collect and use personal information that we may obtain about you.
 
 Argos does not knowingly collect data from any unsupervised person under the age of 18. If you are under the age of 18, you must not use the Argos website or submit any personal data to us unless you have the consent of, and are supervised by, a parent or guardian.
 
@@ -38,17 +38,14 @@ Use of your personal information
 (d) to fulfil our agreement with you and to process your order and obtain payment.  
 (e) to analyse and profile your shopping preferences e.g. (market, customer and product analysis) to enable us (i) to provide you with a personalised browsing experience when using the website and (ii) to review, develop and improve the products and services which we offer and to enable us to provide you and other customers with relevant information through our marketing programme.  
 (f) we may use your information to make decisions about you using computerised technology, for example automatically selecting products and/or services which we think will interest you from the information we have.  
-(g) we may keep you informed of such products and services (including products and services of other companies and organisations and including special offers, discounts, offers, competitions, warranties, insurance and so on) which we consider may be of interest to you by any of the following methods:
+(g) Where you have agreed that we may do so, we may keep you informed of products and services (including products and services of other companies and organisations and including special offers, discounts, offers, competitions, warranties, insurance and so on) which we consider may be of interest to you by any of the following methods:
 
 *   Email
 *   Telephone (including automated calls)
 *   SMS text messages and other electronic messages such as picture messaging
 *   Post
-*   Or otherwise
 
-(h) to administer any prize draws or competitions you may enter.
-
-3\. If you do not wish to receive information of products and services which may be of interest to you from us or carefully chosen third parties, please select the opt-out option where appropriate.
+3\. If you do not wish to receive information of products and services which may be of interest to you from us, you can select the opt-out option when you submit your details or you can unsubscribe at any time by sending us an email as described in paragraph 23 below or by signing in and changing your preferences on our website.
 
 4\. We may supplement the information that you provide to us with information that we receive from third parties. In particular we will carry out searches with credit reference agencies.
 
