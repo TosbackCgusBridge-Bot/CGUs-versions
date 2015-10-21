@@ -19,6 +19,8 @@ Seeking Alpha
 
 *   Portfolio Strategy
 
+*   PRO Contests
+
 *   PREMIUM
 *   Premium Authors
 *   *   Most Popular
