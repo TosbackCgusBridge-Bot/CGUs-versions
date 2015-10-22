@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14094330043
+true true L14093809462
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Tue Oct 20 09:44:20 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Wed Oct 21 04:22:47 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,55 +48,53 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-2 Days Only Online Only | Ends October 20 | Code: WHAT2BUY \*See offer exclusions and details:
+Friends and Family -- Extra 25% Off\* In Store and Online | Ends October 27 | Online Code: 2BHAPPY
 
-50% Off\* select orig and reg-priced styles
+Select orig, reg, sale and clearance-priced apparel, shoes, accessories, fine jewelry, home, furniture, mattresses, custom blinds &. shades.
 
-Shop Bedding and Bath Shop Luggage Shop Window
+Or, an Extra 15% Off\* watches, salon products, optical &. portrait
 
-40% Off\* select orig and reg-priced styles
-
-Shop Home Decor Shop Furniture and Mattresses
-
-30% Off\* select orig and reg-priced styles
-
-Shop Kitchen and Dining Shop Custom Blinds and Shades
-
-Extra 20% Off\* select orig, reg, sale and clearance-priced styles
-
-Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Handbags and Accessories Shop Fine and Fashion Jewelry Shop Online Clearance Save on Diamonds, Jewelry and Watches Diamond Sale | Ends October 27
-
-40 to 60% Off Fine Jewelry and Bijoux Bar, select styles
-
-Shop Fine Jewelry and Bijoux Bar
-
-30 to 60% Off Fashion Jewelry, select styles
-
-Shop Fashion Jewelry
-
-20 to 50% Off Fine and Fashion Watches, select styles
-
-Shop Fine and Fashion Watches Shop Modern Bride Workout Clothes On Sale! 40% Off Xersion Activewear for the Family
+Shop Now: Get store coupon \*Exclusions and details Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes 60 to 85% Off Clearance when you use 25% Off code: 2BHAPPY Shop Clearance Get details: Save On Blinds and Shades 30 to 50% Off Home Collections
 
 Select styles
 
-Shop Women Shop Men Shop Kids     Men's and Women's Sweaters For The Season 40 to 50% Off Sweaters
+Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Blinds and Shades Save On Cold-Weather Boots 40 to 50% Off Women's Faux-Fur Boots
 
 Select styles
 
-Shop Men's Sweaters   Shop Women's Sweaters   Disney Costumes For Halloween Fairest Event Of Them All | In Store and Online Thru November 1
+Shop Women's Faux-Fur Boots Levi's(R) Jeans Lowest Prices Of The Season Lowest Prices Of The Season Pricing Effective Now Through 10/26
 
-30 to 40% Off Disney Collection Costumes and Accessories, select styles (excluded from coupon)
+Levi's excluded from coupon
 
-Shop Disney Costumes and Accessories Shop Disney Collection Shop For Good
+Shop All Levi's
+
+36.99 Guys' Levi's 514(TM) Straight Fit Jeans, reg. $58
+
+Shop Guys' Levi's
+
+22.99 Boys' Levi's 510(TM) Skinny or 511(TM) Slim Jeans, orig. $44-48
+
+Shop Kids' Levi's
+
+29.99 Women's Levi's 505(TM) Straight Leg Jeans, reg. $44.50
+
+Shop Women's Levi's  
+
+Levi's "Lowest Prices Of The Season" refers to the time period from 9/6 through 11/25. prices may be further reduced on items as a part of clearance in the future.
+
+Stock Up On Coats and Jackets For The Family 40 to 50% Off Coats and Jackets For The Family
+
+Select styles
+
+Shop Coats and Jackets For The Family Shop Girls Coats and Jackets Shop Boys Coats and Jackets Shop Men's Coats and Jackets Shop Women's Coats and Jackets SportsFanShop
+
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
+
+Shop SportsFanShop Shop For Good
 
 Plus round up your October purchases to the nearest dollar to supposrt breast cancer research and awareness.
 
-Shop For Good Now Star Wars™ Shop Star Wars Now Check Out Our Blog
-
-Styled by JCPenney
-
-Read It Now Halloween Shop Shop Halloween Now
+Shop For Good Now Halloween Shop Shop Halloween Now Download the JCPenney App and Get Shopping Check out the app: Download on the AppStore Get it on Google play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
