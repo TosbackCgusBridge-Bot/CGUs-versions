@@ -100,11 +100,11 @@ Search form Search Search
 *   Careers
 
 CASE STUDY:  
-CABELA’S How we brought millions of personalized messages to the right people. Learn More We Know Your Customers better than anyone. 80 billion interactions  
+CABELA’S How we brought millions of personalized messages to the right people. Learn More NEW RESEARCH: THE  
+5 KEYS TO CONNECTING  
+WITH REAL PEOPLE Download Now We Know Your Customers better than anyone. 80 billion interactions  
 a day prove it. Learn more WE MAKE OVER A TRILLION REAL-TIME  
-DECISIONS every day, for billions of interactions. Visit Our Blog RECOGNIZING  
-REAL PEOPLE is what we do best—at 1 million  
-requests per second. Learn more CONNECT TO MILLIONS, ONE PERSON AT A TIME. Conversant Media FOR MARKETING &. MEDIA PROFESSIONALS
+DECISIONS every day, for billions of interactions. Visit Our Blog CONNECT TO MILLIONS, ONE PERSON AT A TIME. Conversant Media FOR MARKETING &. MEDIA PROFESSIONALS
 
 Have meaningful, ongoing conversations with millions of real people, across all of their devices.
 
@@ -155,8 +155,6 @@ Additional Contact Information
 *   Terms of Use
 *   About our Ads
 *   Site Map
-
-The power of personal.
 
 © 2015  Conversant, LLC. All rights reserved.
 
