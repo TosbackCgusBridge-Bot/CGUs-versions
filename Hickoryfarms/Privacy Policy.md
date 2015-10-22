@@ -40,6 +40,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 *   Sweets
     *   Chocolates
     *   Bakery
+    *   Confections
 *   Specialty Foods
     *   HoneyGold® Ham
     *   Mustards &. Spreads
@@ -95,6 +96,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
 *   Sweets
     *   Chocolates
     *   Bakery
+    *   Confections
 *   Specialty Foods
     *   HoneyGold® Ham
     *   Mustards &. Spreads
