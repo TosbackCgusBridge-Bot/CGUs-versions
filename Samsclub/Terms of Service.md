@@ -150,31 +150,44 @@ Sam's Club reserves the right to amend, cancel or temporarily suspend the Cash R
 
 **These terms and conditions are subject to change without notice.**
 
-CLUB PICKUP (FORMERLY CLICK N PULL) TERMS &. CONDITIONS
+CLUB PICKUP, LOCAL DELIVERY AND ADDITIONAL PICKUP LOCATIONS
 
-Club Pickup is a free service for Sam's Club members that lets you order online and pick up at any Sam's Club in the US and Puerto Rico. Simply place your order online, then pick up your items from the designated Sam's Club at a time that fits your schedule.
+In a continuing effort to provide legendary member service and experience, Sam’s Club offers Club Pickup, local delivery and additional pickup locations for certain members shopping on SamsClub.com. Participation in these services is subject to these terms and conditions, as well as the terms and conditions of Sam's Club Membership, SamsClub.com, Instant Savings, and other Sam's Club programs, all of which are incorporated herein by reference, and all of which may be changed from time-to-time without notice. Club Pickup (Formerly known as Click ‘n’ Pull)
 
-Sam's Club reserves the right to change the terms and conditions or cancel Club Pickup at any time. Participation in Club Pickup is subject to these terms and conditions, as well as the terms and conditions of Sam's Club Membership, SamsClub.com, Instant Savings, and other Sam's Club programs, all of which are incorporated herein by reference.
+Club Pickup is a free service for Sam’s Club members that lets you order online at SamsClub.com and pick up your goods at any Sam’s Club in the US and Puerto Rico. Simply place your order online at SamsClub.com, select a day and time that fits your schedule and then pick up your items from the designated Sam’s Club.
 
-Club Pickup Pricing
+We aim to have your goods ready at the pickup time you selected when placing your order, but we do not guarantee that goods will be ready on or by a certain date and time.  Sam’s Club will not be liable for having the goods ready outside of the requested pickup slot or failing to provide all or any of the goods in your order.
 
-*   All prices are shown in US dollars. Prices may vary by club and dates. For this reason, the price of an item you order online may be different the day you pay for it in the Club. To ensure you pay the price you see online, you can pay online at the time of ordering.
-*   Prices for fresh produce items will vary by club and by weight and therefore must be paid for in the Club and not online.
-*   Pricing errors may occur on the SamClub.com site .We always attempt to correct all pricing errors as soon as they are discovered, or as soon as Samsclub.com receives notice of an error. SamsClub.com reserves the right to cancel any orders containing pricing errors, with no further obligations to you, even after your receipt of an order confirmation notice from SamsClub.com.
+Local Delivery
 
-Club Pick up Weighted Items:
+Local delivery is a service for Sam’s Club Business members that lets you order online at SamsClub.com and have your goods delivered to your business location. Local delivery is currently only offered in select clubs to select Business members and for select merchandise. To find out if local delivery is available in your area contact your local club. Simply place your order online using Easy Reorder, select the local delivery option, select a day and time that fits your schedule and your items will be delivered to the designated address. We can only deliver to an address stored in your address book in your account. Local delivery requires that your order be paid on-line at the time of order placement.
 
-*   The weight of some items may vary from what you order . When this occurs, the price will also reflect that change. . For example, if you have ordered 5 lbs of ground chuck and if we only have 6lbs ground chuck in stock, you will be charged for 6lbs. \*\*Prices in 'the cart' for weighted items are estimates only.
+A delivery fee based on your location will be incurred for use of the local delivery service, and that fee will be shown at the time of order placement. Unless the order is later returned to the club in its entirety, this fee is non-refundable once the order is delivered to the member. If the order is unable to be delivered for any reason, no delivery fee will be charged. You may cancel your order by calling the club where the order was placed no later than close of business on the day prior to the requested delivery date.
 
-Club Pickup Payment
+We aim to deliver your goods within the delivery window you selected when placing your order, but we do not guarantee that goods will be delivered on or by a certain date and time.  Sam’s Club will not be liable for delivering the goods outside of the requested delivery slot or failing to deliver all or any of the goods in your order.
 
-Members can pay by any MasterCardÂ® DiscoverÂ® and other forms of payment types that are currently accepted in club. We do not currently accept Visa Credit and American Express cards for orders paid for in Club. (You may use Visa and American Express for online orders paid for on SamsClub.com).
+Additional Pickup Locations
 
-Current In-Club payment options:
+Additional pickup locations is a service for Sam’s Club members that lets you order online at SamsClub.com and pick up your goods at a local location outside of the Club. Additional pickup locations are currently only offered in select clubs to select members and for select merchandise. If additional pickup locations are available in your area they will show up as an option at time of checkout. Simply place your order online using Easy Reorder, select the most convenient additional pickup location, select the day and time that fits your schedule and your items will be shipped to that location. Use of the additional pickup locations service requires that your order be paid on-line at the time of order placement.
+
+A flat fee, based on the location selected, will be incurred for use of the additional pickup locations service, and that fee will be shown at the time of order placement. Unless the order is later returned to the club in its entirety, this fee is non-refundable once the order is picked up at the additional pickup location. If the order is not picked up for any reason, no delivery fee will be charged. You may cancel your order by calling the club where the order was placed no later than close of business on the day prior to the requested pickup date
+
+We aim to deliver your goods within the pickup window you selected when placing your order, but we do not guarantee that goods will be available on or by a certain date and time.  Sam’s Club will not be liable for delivering the goods outside of the requested pickup slot or failing to deliver all or any of the goods in your order.
+
+Pricing and Weighted Items
+
+All prices on SamsClub.com are shown in US dollars. Prices may vary by club and date. For this reason, if you choose to pay for a Club Pickup order in-club at the time of pickup (option not available for local delivery or additional pickup locations which must be paid on-line at the time of order placement), the price may be different from the on-line price at the time of order placement. If you pay in advance on SamsClub.com at the time of order placement, subject to the note immediately below for fresh weighted items, then that price will not change.
+
+**NOTE on weighted items:** Unit prices and available quantities for items sold by weight, including fresh meat, home meal solutions, and some bakery and cheese products, will vary by club and date. At the time of on-line order placement, you will select the desired quantity of an item and authorize a maximum price for the items. The final price will be determined based on the item’s availability and payment choice. If you choose to pay for a Club Pickup order in-club at the time of pickup (option not available for local delivery or additional pickup locations which must be paid on-line at the time of order placement), then the final price for the items will be based on the weight of the items actually available at time of pickup and the current in-club unit price, which may differ from the unit price shown on-line at the time of order placement. If you choose to pay in advance on SamsClub.com at the time of order placement, then the final price for the items will be based on the weight of the items actually available at time of pickup (whether in-club or at pickup location) or delivery and the on-line unit price at the time of order placement. **In no event will the final price exceed the maximum price that was authorized at the time of order placement.**
+
+Payment
+
+Members can pay for these services by any form of payment currently accepted in club.
 
 *   Sam's Club credit account
-*   DiscoverÂ®
-*   MasterCardÂ®
+*   Discover ®
+*   MasterCard ®
+*   American Express ®
 *   Debit card
 *   Gift Cards
 *   Visa (Debit only)
@@ -182,15 +195,15 @@ Current In-Club payment options:
 
 Authorization Process:
 
-When you place an order, SamsClub.com authorizes your credit card to make sure sufficient credit is available. Also note that all credit/debit card holders are subject to validation checks by third parties and authorization by the card issuer. If the issuer of the card refuses to authorize payment or any other validation checks return adverse results, we will not accept your order. We will not be liable for non-processing of your Club Pickup order. Please contact your card issuer or your bank for the reason of refusal.
+When you place an order, SamsClub.com authorizes your credit card to make sure sufficient credit is available. Also note that all credit/debit card holders are subject to validation checks by third parties and authorization by the card issuer. If the issuer of the card refuses to authorize payment or any other validation checks return adverse results, we will not accept your order. We will not be liable for non-processing of your order. Please contact your card issuer or your bank for the reason of refusal.
 
 Taxes
 
-We are required by law to collect all taxes based on where your order is being processed. When you review your order total during the checkout process, you'll see the estimated sales tax. The actual charge to your credit card will reflect the applicable state and local taxes. Taxes may be applied to pre-discounted prices depending on state and local laws.
+We are required by law to collect all taxes based on where your order is being processed. When you review your order total during the checkout process, you'll see the estimated sales tax. Actual taxes will be charged based on your delivery or pick up destination or the address from where the order is sourced, depending upon state and local laws. Taxes may be applied to pre-discounted prices depending on state and local laws.
 
 Order Cancellation
 
-Orders that are not picked up within the Club two days after the selected Club pickup date will automatically be cancelled and items returned to inventory. If the Club Pickup order was prepaid, you will not be charged if the order is cancelled.
+For Club Pickup, orders that are not picked up within the Club two days after the selected pickup date will automatically be cancelled and items returned to inventory. If the Club Pickup order was prepaid, you will not be charged if the order is cancelled. For local delivery and additional pickup locations orders, those orders will be cancelled after the delivery vehicle returns to the facility after selected time window has passed and items will be returned to inventory. You will not be charged for the product or any fees if the order is cancelled.
 
 DMCA Notice
 
