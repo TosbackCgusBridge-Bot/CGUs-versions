@@ -1,4 +1,4 @@
-Skip to Main Content View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Directory Search Toggle search **Catch up with the** NPR Hourly Newscast 4:45 **Listen to NPR Music Radio** All Songs 24/7
+View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Directory Search Toggle search **Catch up with the** NPR Hourly Newscast 4:45 **Listen to NPR Music Radio** All Songs 24/7
 
 *   NPR Home
 *   Find Stations
@@ -8,7 +8,6 @@ Skip to Main Content View Navigation NPR NPR NPR Music **NPR** Books **NPR** Abo
 *   Music
 *   Topics
 *   Programs **&. Podcasts**
-*   Support comes from
 
 *   NPR Music
 *   Genres
@@ -291,7 +290,7 @@ NPR Newscast
 
 4min 45sec
 
-find stations npr mobile apps find podcasts Privacy Policy May 07, 2013 9:51 AM ET
+find stations npr mobile apps find podcasts Skip to Main Content Privacy Policy May 07, 2013 9:51 AM ET
 
 **Effective Date July 25, 2014**
 
@@ -453,8 +452,8 @@ For international users, please note that it may be necessary to transfer your i
 If you have any questions or comments concerning our Privacy Policy, please Contact Us.
 
 *   Share
-    *   0Facebook
-    *   1Twitter
+    *   Facebook
+    *   Twitter
     *   Google+
     *   Email
 *   Comment
@@ -463,7 +462,7 @@ NPR thanks our sponsors
 
 Become an NPR sponsor
 
-Support comes from: Support NPR NPR Shop
+Support NPR NPR Shop
 
 Support The Programs You Love
 
@@ -529,13 +528,9 @@ Support The Programs You Love
     *   NPR Ombudsman
     *   Permissions
 
-© NPR
-
 *   Help
 *   Contact
 *   Terms of Use
 *   Privacy
 *   Sponsorship Choices
 *   Text-Only
-
-© NPR
