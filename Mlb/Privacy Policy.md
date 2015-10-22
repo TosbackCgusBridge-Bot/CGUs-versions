@@ -151,7 +151,6 @@ Sections Scores News Video Stats Standings Schedule Players Postseason Tickets A
 *   MLB.TV MLB.TV MLB.TV
     *   Buy MLB.TV Postseason (U.S.)
     *   Buy MLB.TV Postseason (International)
-    *   Buy Postseason.TV (U.S./Canada)
     *   Watch/Listen
     *   Alternative Audio
     *   MLB.TV with Extra Innings
