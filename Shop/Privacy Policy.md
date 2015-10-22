@@ -22,7 +22,7 @@ LENOVO Menu
         10.  Warranty-Sale
     *   7 Days of Deals. Don’t delay. Get a great deal today!
         
-        Save up to 52% Site-Wide.
+        Save up to 42% Site-Wide.
         
     *   Need it Quick?
         
