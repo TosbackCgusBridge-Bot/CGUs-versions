@@ -3,7 +3,6 @@ This JavaScript enables OnlineOpinion, a method for collecting secure feedback d
 *   Discover Thomson Reuters
 *   Login
 *   Contact Us
-*   Find your rep
 *   **Cart 0**
 
 Thomson Reuters Industries
@@ -21,7 +20,6 @@ About Thomson Reuters
 
 *   ThomsonReuters.com
 *   About Us
-
 *   Office Locations
 *   Media Contacts
 *   Press Releases
@@ -49,7 +47,7 @@ Advanced Search Law Books Solutions Support News &. Views Home >. westlaw legal 
     *   Large &. Midsize Firms
     *   Small Firms
 *   Training &. Support
-*   Find your rep
+*   Contact Sales
 
 Practitioner Insights
 
@@ -143,7 +141,6 @@ pip
 
 *   Customer Service
 *   Contact Us
-*   Find Your Rep
 *   My Account
 *   OnePass
 *   Payment, Shipping &. Returns
