@@ -1,4 +1,4 @@
-Free File Fillable Forms Opens Jan 20, 2015Skip Navigation
+Free File Fillable Forms is Now ClosedSkip Navigation
 
 *   Subscriptions
     *   IRS Guidewire
@@ -33,11 +33,15 @@ Text Search Advanced
 *   Help &. Resources
 *   for Tax Pros
 
-Like - Click this link to Add this page to your bookmarks Share - Click this link to Share this page through email or social media Print - Click this link to Print this page Free File Fillable Forms Opens Jan 20, 2015
+Like - Click this link to Add this page to your bookmarks Share - Click this link to Share this page through email or social media Print - Click this link to Print this page Free File Fillable Forms is Now Closed The program operates every year from January through October 15
 
-Come back on **Jan. 20, 2015** at 10 a.m. Eastern Time to file your 2014 federal tax return. 
+**After October 20, each year:**
 
-When Free File Fillable Forms opens on January 20, 2015, make sure you create a new account to file your 2014 federal tax return. You cannot access your prior tax return information (tax years 2013 and earlier).
+*   Every account is erased from the server
+*   It is not possible to access any account or return information
+*   It is not possible to print a return from an account you had created
+
+**You cannot access your prior tax return information (tax years 2014 and earlier).**
 
 Information regarding prior year tax returns using Free File Fillable Forms:
 
@@ -48,49 +52,40 @@ Information regarding prior year tax returns using Free File Fillable Forms:
 *   Need a copy of your federal return? If the IRS has accepted your return, Get a Transcript 
 *   Do you want to pay your balance or make estimated tax payments? Access Direct Pay
 
-Page Last Reviewed or Updated: 16-Jan-2015
+Page Last Reviewed or Updated: 17-Sep-2015
 
+*   Our Agency
+    
+    *   About Us
+    *   Work at IRS
+    *   Help &. Resources
+    *   Contact Your Local Office
+    *   Tax Stats, Facts &. Figures
+*   Know Your Rights
+    
+    *   Taxpayer Bill of Rights
+    *   Taxpayer Advocate
+    *   Accessibility
+    *   Civil Rights
+    *   Freedom of Information Act
+    *   No FEAR Act
+    *   Privacy Policy
 *   Resolve an Issue
     
-    *   Appealing a Tax Dispute
-    *   Responding to a Notice
-    *   Taxpayer Advocate Service
-    *   Disaster Relief
-    *   Civil Rights
-*   Learn About IRS
-    
-    *   Commissioner
-    *   Organization
-    *   Compliance &. Enforcement
-    *   Tax Stats, Facts &. Figures
-    *   IRS.gov Information
-    *   Contact Your Local IRS Office
-    *   Contact Us
-    *   More ...
-*   Work at IRS
-    
-    *   Careers
-    *   Job Postings
-    *   Equal Employment Opportunity
-    *   Contracting Opportunities
-*   Get Important Info
-    
-    *   Tax Fraud &. Abuse
-    *   Privacy Policy
-    *   Reporting Phishing
+    *   Respond to a Notice
+    *   Office of Appeals
     *   Identity Theft
-    *   No FEAR Act
-    *   Freedom of Information Act
-    *   Accessibility
-    *   BusinessUSA.gov
-*   Visit Other Sites
+    *   Report Phishing
+    *   Tax Fraud &. Abuse
+*   Other Languages
     
     *   Español
     *   中文
     *   한국어
     *   Pусский
     *   TiếngViệt
+*   Related Sites
+    
     *   U.S. Treasury
-    *   USA.gov
-    *   Whitehouse.gov
     *   Treasury Inspector General for Tax Administration
+    *   USA.gov
