@@ -81,7 +81,7 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     
     *   We asked parents around the world the most important question.
     *   See the responses
-*   GAMES &. ACTIVITIES Online Games Apps for Kids Online Videos Coloring Pages Crafts for Kids
+*   GAMES &. ACTIVITIES Online Games Apps for Kids Online Videos Coloring Pages Crafts for Kids Play &. Learn Activities
 *   OUR STORY
     
     *   Safety Earning your trust
