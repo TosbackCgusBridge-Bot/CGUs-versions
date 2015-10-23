@@ -37,22 +37,22 @@ Like - Click this link to Add this page to your bookmarks Share - Click this lin
 
 **After October 20, each year:**
 
-*   Every account is erased from the server
-*   It is not possible to access any account or return information
-*   It is not possible to print a return from an account you had created
+1.  Every account is erased from the server
+2.  It is not possible to access an account or return information
+3.  It is not possible to print a return from an account you created
 
-**You cannot access your prior tax return information (tax years 2014 and earlier).**
+Information and links that may assist you:
 
-Information regarding prior year tax returns using Free File Fillable Forms:
+*   If you weren't able to e-file your return but printed a copy, mail it in  
+*   If you do not have a copy to mail, prepare another return
+*   For filing options, view the Online Individuals page
+*   Get up-to-date refund information with Where's My Refund
+*   Get a copy of your _**accepted**_ federal return with Get a Transcript 
+*   Pay your balance or make estimated tax payments with Direct Pay
 
-*   If you were not able to successfully e-file your return but printed a copy, mail it in.  
-*   If you do not have a copy to mail, you will have to prepare another. 
-*   For more information, go to our Online Individuals page.
-*   Need to get up-to-date refund information? Go to Where's My Refund
-*   Need a copy of your federal return? If the IRS has accepted your return, Get a Transcript 
-*   Do you want to pay your balance or make estimated tax payments? Access Direct Pay
+The Free File Fillable Forms program welcomes your comments.
 
-Page Last Reviewed or Updated: 17-Sep-2015
+Page Last Reviewed or Updated: 22-Oct-2015
 
 *   Our Agency
     
