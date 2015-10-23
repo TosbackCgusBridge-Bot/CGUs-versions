@@ -1,8 +1,4 @@
-ONLINE ONLY! EXTRA 30% OFF CLEARANCE USE CODE EXTRA30    Girls  Guys  Room  
-
-DETAILS
-
-FREE SHIPPING ON $50
+ONLINE ONLY!EXTRA 20% OFF + FREE SHIPPING ON ORDERS OF $75USE CODETREATGirls   Guys   Room
 
 DETAILS
 
@@ -13,6 +9,7 @@ Aéropostale
     *   NEW ARRIVALS
     *   Bethany Mota
     *   Tokyo Darling
+    *   Cold Weather
     *   Throwback Tees
     *   Party Dresses
     *   On Your Radar
@@ -84,15 +81,15 @@ Aéropostale
     *   Shorts
     
     *   JACKETS + COATS
-    *   UNDERWEAR
+    *   UNDERWEAR + LOUNGE
     *   ACCESSORIES
 *   Active
     *   Live Love Dream
-    *   Active
-    *   Yoga
-    *   Lounge
+    *   Tops
+    *   Bottoms
     *   Intimates
     *   Accessories
+    *   Sleep
 *   Room
     
     *   SHOP BY ROOM
