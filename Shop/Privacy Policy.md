@@ -20,17 +20,15 @@ LENOVO Menu
         8.  Deals for Students and Educators
         9.  Outlet
         10.  Warranty-Sale
-    *   7 Days of Deals. Don’t delay. Get a great deal today!
+    *   Cool Deals. Refreshing Prices On Top Models.
         
         Save up to 42% Site-Wide.
         
-    *   Need it Quick?
+    *   HORIZON 2s 2-IN-1 PC 2 modes in 1, built to bring together.
         
-        We have prebuilt models of our most popular PCs in stock and ready to ship!
+        Enjoy 35% savings.
         
-    *   Lenovo A series Tablets The affordable way to enjoy music, videos, and games.
-        
-        Save Up To 35%.
+    *   Lenovo Preferred Card The Best Offers with Instant and Affordable Financing.
         
 *   Support
     *   Help placing an order 24 hours a day, 7 days a week  
