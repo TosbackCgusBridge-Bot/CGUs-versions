@@ -195,15 +195,13 @@ Facebook
 
 Twitter
 
-Flickr
-
-Google Plus
+Instagram
 
 Linked In
 
-Instagram
+Google Plus
 
-WeChat
+Flickr
 
 *   Where We Work
     *   Worldwide
