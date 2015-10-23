@@ -57,7 +57,7 @@ Sections Scores News Video Stats Standings Schedule Players Postseason Tickets A
     *   Taco Bell Steals
     *   Outstandings
     *   #MLBMemoryBank
-    *   Pitch and Prevail
+    *   Top Relievers
     *   Cut 4
     *   Daily Dash
     *   Must C
