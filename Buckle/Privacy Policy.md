@@ -156,7 +156,7 @@ In addition, we carefully select third party advertising companies and allow the
 
 Coremetrics will place cookies on your computer to collect information on our behalf that will educate us on such things as search engine referral, how you navigate around our site, responses to email, unique visitor identification, and product browsing and purchasing information. Buckle.com does not allow Coremetrics to collect credit card, username or password information. Coremetrics is required to maintain all information collected and its analysis in confidence. For more information, including how to opt-out, consult Coremetrics' privacy policy by clicking the following link: Coremetrics - Privacy Policy.
 
-For more information about Google Analytics, the data it collects and how that service processes your information, please visit "How Google Uses Data When You Use Our Partners' Sites or Apps" at Google - Privacy Policy. For more information, including how to opt-out, consult Google's privacy policy by clicking the following link: Goggle Privacy.
+For more information about Google Analytics, the data it collects and how that service processes your information, please visit "How Google Uses Data When You Use Our Partners' Sites or Apps" at Google - Privacy Policy. For more information, including how to opt-out, consult Google's privacy policy by clicking the following link: Google Privacy.
 
 **Updating Personal Information**  
 We prefer to keep your personal information accurate and up-to-date. To do this, we provide you with the opportunity to update or modify your personal information including billing and shipping information by logging in to Your Account.
