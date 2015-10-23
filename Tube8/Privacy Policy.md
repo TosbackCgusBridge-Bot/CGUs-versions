@@ -1,4 +1,4 @@
-*   Home
+*   Videos
 *   Categories
 *   Tags
 *   Premium HD
