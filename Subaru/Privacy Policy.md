@@ -28,7 +28,7 @@ $25,395 MSRP
 
 Up to
 
-30/22MPG Hwy/City
+30/22 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
@@ -45,7 +45,7 @@ $18,295 MSRP
 
 Up to
 
-37/28MPG Hwy/City
+37/28 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
@@ -62,7 +62,7 @@ $26,595 MSRP
 
 Up to
 
-27/20MPG Hwy/City
+27/20 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
@@ -79,7 +79,7 @@ $21,745 MSRP
 
 Up to
 
-36/26MPG Hwy/City
+36/26 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
@@ -96,7 +96,7 @@ $22,395 MSRP
 
 Up to
 
-32/24MPG Hwy/City
+32/24 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
@@ -113,7 +113,7 @@ $21,595 MSRP
 
 Up to
 
-34/26MPG Hwy/City
+34/26 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
@@ -130,7 +130,7 @@ $26,395 MSRP
 
 Up to
 
-34/30MPG Hwy/City
+34/30 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
@@ -147,7 +147,7 @@ $24,995 MSRP
 
 Up to
 
-33/25MPG Hwy/City
+33/25 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
