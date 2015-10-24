@@ -14,7 +14,6 @@ At Target, we want you to know how we collect, use, share, and protect informati
 *   How Is Your Personal Information Protected?
 *   Children’s Personal Information
 *   How Do You Contact Target?
-*   Interest Based Ads
 
 What Information Is Collected?
 
