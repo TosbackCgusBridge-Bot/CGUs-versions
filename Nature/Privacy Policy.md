@@ -201,6 +201,8 @@ Linked In
 
 Google Plus
 
+Flipboard
+
 Flickr
 
 *   Where We Work
