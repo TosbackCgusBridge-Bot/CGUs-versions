@@ -20,15 +20,13 @@ We use this information to measure the number of visitors to our site and its va
 Up to top  
 How NIH Collects Information
 
-NIH Web sites use a variety of different Web measurement software tools.
+NIH.gov uses Google Analytics to collect the information in the bulleted list in the _Types of Information Collected_ section above. Google Analytics gathers information automatically and continuously. No Personally Identifiable Information (PII) is collected. NIH staff conducts analyses and reports on the aggregated data from Google Analytics and those reports are only available to NIH.gov managers, members of the NIH.gov communications and web teams, and other designated staff who require this information to perform their duties.
 
-NIH.gov uses Webtrends and Google Analytics measurement software to collect the information in the bulleted list in the _Types of Information Collected_ section above. Webtrends and Google Analytics collect information automatically and continuously. No personally identifiable information is collected. The NIH staff conducts analyses and reports on the aggregated data from Webtrends and Google Analytics. The reports are only available to NIH.gov managers, members of the NIH.gov Communications and Web Teams, and other designated staff who require this information to perform their duties.
+Additionally, NIH.gov participates in the Digital Analytics Program (DAP), in which Google Analytics data is collected from websites across the Federal Government. For more information on DAP, please visit the DigitalGov website.
 
-NIH also uses online surveys to collect opinions and feedback from a random sample of visitors. NIH.gov uses the ForeSee Results’ American Customer Satisfaction Index (ACSI) online survey to obtain feedback and data on visitors’ satisfaction with the NIH.gov Web site. This survey does not collect personally identifiable information. Although the survey invitation pops up for a random sample of visitors, it is optional. If you decline the survey, you will still have access to the identical information and resources at the NIH.gov site as those who do not take the survey. The survey reports are available only to NIH.gov managers, members of the NIH.gov Communications and Web Teams, and other designated staff who require this information to perform their duties.
+NIH also uses online surveys to collect opinions and feedback from a random sample of visitors. NIH.gov uses the ForeSee Results’ American Customer Satisfaction Index (ACSI) online survey to obtain feedback and data on visitors’ satisfaction with the NIH.gov website. This survey does not collect PII. Although the survey invitation pops up for a random sample of visitors, it is optional. If you decline the survey, you will still have access to the identical information and resources at the NIH.gov site as those who do not take the survey. The survey reports are available only to NIH.gov managers, members of the NIH.gov Communications and Web Teams, and other designated staff who require this information to perform their duties.
 
-NIH retains the data from Webtrends, Google Analytics, and ACSI survey results as long as needed to support the mission of the NIH.gov Web site.
-
-Up to top  
+NIH retains the data from Google Analytics, and ACSI survey results as long as needed to support the mission of the NIH.gov website. Up to top  
 How NIH Uses Cookies
 
 The Office of Management and Budget Memo M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies allows Federal agencies to use session and persistent cookies.
