@@ -710,8 +710,7 @@ pspMainSecurityofPersonalDataModule,pspMainWhereWeStoreandProcessDataModule,pspM
 *   Windows
 *   Office
 *   Surface
-*   Windows Phone
-*   Mobile devices
+*   Lumia
 *   Xbox
 *   Skype
 *   MSN
