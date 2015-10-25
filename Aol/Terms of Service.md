@@ -201,15 +201,13 @@ Registrations, agreements, and terms presented by us electronically to you have 
   
 When you sign up for Services and provide us with your telephone number or mobile phone number, you agree that we may contact you from time-to-time about the Services.  
   
-YOU GIVE US CONSENT TO USE AUTODIALED AND PRERECORDED MESSAGES TO CONTACT YOU AT THE NUMBER YOU PROVIDE TO US.  
+We may use the phone number that you provide to us when you open your account, when you add a telephone number to your account information, when you provide it to one of our employees or customer support, or by contacting us from your number.  
   
-We may use the phone number that you provide to us when you open your account, when you add a telephone number to your account information, when you provide it to one of our employees or customer support, or by contacting us from your number. If you provide us with a mobile number, you consent to receive SMS or text messages at that number. You may stop further text messaging by simply texting “STOP” per the instructions we provide to you. Standard telephone minute and text charges may apply if we contact you.  
-  
-We will not share your phone number with non-affiliated third parties for their purposes without your consent, but we may share your phone number with our service providers, such as billing or collection companies, who may contact you using auto-dialed or prerecorded message calls or text messages.  
+We will not share your phone number with non-affiliated third parties for their purposes without your consent, but we may share your phone number with our service providers, such as billing or collection companies, who may contact you.  
   
 The delivery of any communication from us is effective when sent by us, regardless of when you receive or read the communication. In addition, we are not responsible for communications that do not reach you if you have not provided us with your current contact information. If you decided not to receive notices from us electronically, we may cancel your account and terminate access to the Services.  
   
 We may be required by law to release information to a third party about your account, including the content of e-mail. Except as prohibited by law, we will send you notice if we plan to comply with a civil subpoena related to your account. You agree to hold us harmless for the release of any information related to your account in connection with a civil subpoena including, but not limited to, any claims that you did not receive notice of the civil subpoena from us.  
   
 _Last Updated_  
-9-15-2014
+10-23-2015
