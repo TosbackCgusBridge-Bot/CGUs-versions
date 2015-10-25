@@ -11,7 +11,6 @@ Aéropostale
     *   Tokyo Darling
     *   Cold Weather
     *   Throwback Tees
-    *   Party Dresses
     *   On Your Radar
     *   Uniform
     *   Under $10
