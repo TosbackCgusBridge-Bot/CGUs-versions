@@ -83,7 +83,7 @@ Las Vegas From **$24** Circus Circus Hotel and Casino 3.2 / 5 1588 reviews
 
 Las Vegas, Nevada
 
-**Book Now and Save 40%**
+**Limited Time Offer!**
 
 From **$40** Flamingo Las Vegas 3.4 / 5 627 reviews
 
@@ -121,11 +121,11 @@ From **$52** Monumental Movieland Hotel 3.5 / 5 18 reviews
 
 Orlando, Florida
 
-From **$51** Suburban Extended Stay South 3.0 / 5 1 reviews
+From **$45** Suburban Extended Stay South 3.0 / 5 1 reviews
 
 Orlando, Florida
 
-From **$70** Econo Lodge International Drive at Universal 1.0 / 5 1 reviews
+From **$38** Econo Lodge International Drive at Universal 1.0 / 5 1 reviews
 
 Orlando, Florida
 
@@ -141,23 +141,23 @@ Orlando, Florida
 
 **Save 15% Off - Stay 3 Nights**
 
-See more Hotels in Orlando Back to menu Return to top San Diego From **$44** Heritage Inn San Diego - Sea World 3.0 / 5 20 reviews
+See more Hotels in Orlando Back to menu Return to top San Diego From **$72** Heritage Inn San Diego - Sea World 3.0 / 5 20 reviews
 
 San Diego, California
 
 **Stay 3 Save 10%**
 
-From **$45** Good Nite Inn San Diego near SeaWorld - Sports Arena 3.1 / 5 85 reviews
+From **$66** Good Nite Inn San Diego near SeaWorld - Sports Arena 3.1 / 5 85 reviews
 
 San Diego, California
 
 **Special Savings - Save 33% on your stay!**
 
-From **$39** 500 West Hotel San Diego Downtown - Bayside 2.7 / 5 49 reviews
+From **$77** 500 West Hotel San Diego Downtown - Bayside 2.7 / 5 49 reviews
 
 San Diego, California
 
-From **$60** Travelodge San Diego Mission Valley/Hotel Circle 2.4 / 5 26 reviews
+From **$48** Travelodge San Diego Mission Valley/Hotel Circle 2.4 / 5 26 reviews
 
 San Diego, California
 
@@ -211,7 +211,7 @@ Dallas, Texas
 
 **Save 20% on your stay**
 
-See more Hotels in Dallas Back to menu Return to top Cancun From **$52** Hotel Ikaro Suites Cancun 3.0 / 5 2 reviews
+See more Hotels in Dallas Back to menu Return to top Cancun From **$26** Hotel Ikaro Suites Cancun 3.0 / 5 2 reviews
 
 Cancun, Mexico
 
@@ -235,13 +235,13 @@ Cancun, Mexico
 
 **FREE Wireless Internet + 2 kids up to 12 STAY FREE**
 
-From **$63** Terracaribe Hotel 3.4 / 5 18 reviews
+From **$38** Terracaribe Hotel 3.4 / 5 18 reviews
 
 Cancun, Mexico
 
 **Book Early and Save 54% of per night!**
 
-From **$108** Ambiance Suites Hotel 4.0 / 5 1 reviews
+From **$48** Ambiance Suites Hotel 4.0 / 5 1 reviews
 
 Cancun, Mexico
 
