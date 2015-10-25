@@ -1,7 +1,5 @@
 SEG1 hp
 
-*   ×
-
 *   800-GO-DEPOT
 *   Office Depot Business Solution
 *   OfficeMax Workplace
@@ -14,7 +12,7 @@ SEG1 hp
 
 Weekly Ad Office Depot Deals
 
-OKy6ZfF\_CWYUSfQALwKrTDL Recommended Products
+PRCgTvH5W9Jvm-KGFt-\_cRn Recommended Products
 
 Category Matches
 
