@@ -162,6 +162,7 @@ Sections Scores News Video Stats Standings Schedule Players Postseason Tickets A
     *   MLB.TV Download Center
     *   Contact Us
 *   Fantasy Fantasy Fantasy
+    *   World Series Pick Em
     *   Postseason Showdown
     *   R.B.I. Baseball 15
     *   MLB.com Home Run Derby
@@ -173,7 +174,7 @@ Sections Scores News Video Stats Standings Schedule Players Postseason Tickets A
     *   WGT Baseball: MLB
     *   Prospect Watch
     *   Fantasy 411 Blog
-    *   Follow @Fantasy411Postseason Showdown MLB.com Home Run Derby R.B.I. Baseball 15
+    *   Follow @Fantasy411World Series Pick Em Postseason Showdown MLB.com Home Run Derby R.B.I. Baseball 15
 *   Teams Teams American League AL East
     
     *   Baltimore
