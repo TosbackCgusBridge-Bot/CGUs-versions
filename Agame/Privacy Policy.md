@@ -1,23 +1,48 @@
-Your zone to play free online games
-
-Join or Login
+Explore Games
 
 *   Home
-*   Puzzle
-*   Awards
-*   Racing
+*   Puzzle Games
+*   Social Games
+*   Skill Games
+*   Award Games
+
+*   2 Player
 *   Action
-*   Sports
-*   Skill
-*   Girls
 *   Adventure
+*   Aim &. Shoot
+*   Animal Games
+*   Avoiding
+*   Board &. Card
+*   Bubble Shooter
+*   Caring
+*   Collect &. Run
+*   Collection
+*   Concentration
+*   Cooking
+*   Dress Up
+*   Friv Games
+*   Girls
+*   Hidden Objects
+*   Highscore Games
+*   Kids
+*   Mahjong
+*   Match 3
 *   Multiplayer
-*   More
-    *   War Games
-    *   Board &. Card
-    *   High scores
-    *   MMO
-    *   Mobile &. Tablet Games
+*   Mundigames
+*   My Dolphin Show
+*   Physics
+*   Qplay Games
+*   Quizzes
+*   Racing
+*   Room Decoration
+*   Run &. Shoot
+*   Soccer
+*   Sports
+*   Time Management
+*   Tower Defence
+*   Uphill Racing
+
+Sign In
 
 *   Home
 *   privacy policy
@@ -132,37 +157,17 @@ If you have any additional questions or requests, you may send an email to info@
 
 100209
 
-*   Best Games
-    *   Snail Bob
-    *   Flakboy 2
-    *   Bloons Tower Defense 3
-    *   Lose the Heat 3
-    *   Uphill Rush 3
-*   Best Game Types
-    *   Skateboarding
-    *   cool-math-games
-    *   Baseball
-    *   War Games
-    *   Bubble Shooter
-*   Other game sites
-    *   Online Games
-    *   Dress up games
-    *   Games
-    *   Mobile &. Tablet Games
-    *   A10 Games
-
 Welcome to Agame.com, your zone to play free online games. Stocked each day with new free games, including action games, adventure games, board &. card games, multiplayer games, puzzle games, racing games, skill games, sports games, and more addicting games.  
   
 Did you know that: you can rate every game you play, you can share your favorite game with your friends on Facebook,Myspace,Twitter and more, you can embed a game in your own website or blog, and lots of our games are homemade in our own gamestudio? Eager to play yet?
 
-Switch to Mobile View
-
-Copyright © 2015 SPIL GAMES All rights reserved.
+*   Facebook
+*   Google+
+*   Twitter
 
 *   Terms of Use
 *   Privacy Policy
 *   Privacy Policy, Kids &. Parents
-
 *   About Us
 *   Advertise with Us
 *   Submit a Game
@@ -170,6 +175,4 @@ Copyright © 2015 SPIL GAMES All rights reserved.
 *   Help &. Contact
 *   Cookies
 
-*   Facebook
-*   Google+
-*   Twitter
+Copyright © 2015 SPIL GAMES All rights reserved.
