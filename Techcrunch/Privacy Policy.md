@@ -1,4 +1,4 @@
-AOL
+Search the web
 
 *   Privacy Main
 *   Privacy FAQ
