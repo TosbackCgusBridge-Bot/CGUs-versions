@@ -68,7 +68,7 @@ Menu Explore HSBC.com Search
     
     *   Investing in HSBC expandInvesting in HSBC
         *   Annual General Meeting
-        *   Latest financial information
+        *   Upcoming financial information
         *   Investor Update 2015
         *   Fast facts
     *   Share information expandShare information
