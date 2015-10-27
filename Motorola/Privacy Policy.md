@@ -90,6 +90,10 @@ When you place an order or provide personal information, we use certain security
   
 _However, no data transmission over the Internet can be guaranteed to be 100% secure._ As a result, while we have taken appropriate steps to protect your personal information, Motorola cannot ensure or otherwise warrant the security of any information you provide to us or from our Web site and therefore you use our site at your own risk.
 
+Please report security questions, issues or possible incidents to the Motorola Mobility Security Team via email or phone: Email: security@motorola.com. Telephone: +1.866.343.5220 (In the U.S.). +1.302.444.9838 (All other locations)
+
+  
+
 As a global company Motorola has websites and users all over the world. The information you provide may be transmitted, used, processed and stored outside of the country where you submitted that information, including countries that may not have data privacy laws that provide protection equivalent to such laws in your home country. However, whenever Motorola handles personal information, regardless of where this occurs, we take appropriate steps to ensure that your information is treated securely and in accordance with the relevant Terms of Use, this Privacy Statement and all applicable laws and regulations.
 
 In addition to the privacy practices set out in this policy, Motorola has established a set of “Binding Corporate Rules”, which have been approved by certain European Union Data Protection Authorities. These binding corporate rules are a commitment by Motorola Mobility to adequately protect personal data that we process regardless of where the data resides. A full copy of the rules can be found here.
