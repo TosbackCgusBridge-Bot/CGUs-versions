@@ -54,44 +54,6 @@ Close
 
 Learn More
 
-New Music From Adele
-
-Watch Video
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Watch Video
-
-Experience PhotoPlus 2015
-
-Watch Videos
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Watch Videos
-
-Sony on Twitter
-
-RT @carrieunderwood: Today's the day! #Storyteller selfie #newmusic #happyfriday
-
-2015-10-24 05:38:40+00:00
-
-View Tweet
-
-Sony on Instagram
-
 Revive the Brotherhood in Assassin's Creed Syndicate
 
 Play PS4™ Exclusives
@@ -105,6 +67,62 @@ Close
 *   Copy URL to share
 
 Play PS4™ Exclusives
+
+Sony on Instagram
+
+Pocket-Size Powerhouse
+
+See the RX100 IV
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+See the RX100 IV
+
+"SPECTRE" in Theaters November 6
+
+Find Tickets
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Sony on Twitter
+
+Watch all the action from the red carpet of the World Premiere of #SPECTRE. www.youtube.com
+
+2015-10-27 01:50:21+00:00
+
+View Tweet
+
+Fast Focus for Fleeting Moments
+
+Try the Z5
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Try the Z5
 
 Watch "Goosebumps" Stories Come Alive on the Big Screen
 
@@ -124,27 +142,9 @@ Sony on YouTube
 
 Play Video
 
-Carrie Underwood Takes You Behind the Scenes of "Smoke Break"
+Add a Little Horror to Your Halloween
 
-Listen to Song
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-Fast Focus for Fleeting Moments
-
-Try the Z5
+See PS4™ Games
 
 Close
 
@@ -154,149 +154,9 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Try the Z5
-
-Sony on Twitter
-
-"We aspire to create new concepts" - Takuya Niitsu. Hear more from our design team here: www.youtube.com
-
-2015-10-20 05:00:17+00:00
-
-View Tweet
-
-5 Essential Camera Settings
-
-For Better Photos
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-For Better Photos
+See PS4™ Games
 
 Sony on Instagram
-
-"Testament of Youth," a Powerful Story of Love and War
-
-Bring Home the Blu-ray™
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Bring Home the Blu-ray™
-
-A More Colorful Way to Listen to Hi-Res Audio
-
-Be Inspired by Music
-
-Sony on Vine
-
-Sony on Instagram
-
-Sony on Twitter
-
-Make the most of the #XperiaZ5’s 0.03sec autofocus to capture the countryside for this week’s #PhotoFriday
-
-2015-10-24 00:32:21+00:00
-
-View Tweet
-
-Release Your Inner Rock Star
-
-Play Guitar Hero Live
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-Bring the Boom With You
-
-Get a Mini Speaker
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Get a Mini Speaker
-
-More Than Just a Smart TV
-
-See Features
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-See Features
-
-A Day at the Zoo, From a Different Point of View
-
-Made With Action Cams
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-Good News for PlayStation Lovers
-
-Read On
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Read On
-
-Sony on Instagram
-
-Sony on Twitter
-
-#TeamSony is in booth 519 at @PhotoPlusExpo in NYC til Saturday. See pictures from #PPE2015: www.facebook.com
-
-2015-10-24 00:35:03+00:00
-
-View Tweet
 
 Hear Terrifying Tunes
 
@@ -312,37 +172,23 @@ Close
 
 Start Streaming
 
-Ready for a Scary Adventure?
+Sony on Twitter
 
-Download App
+The #spooky season is upon us! Give us a fright with your #scary shots and we'll RT our favourites! #Halloween
 
-Close
+2015-10-27 06:48:03+00:00
 
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
+View Tweet
 
-Download App
+Hanging Out This Halloween?
 
-Take Your Run to the Next Level
+Capture the Fun
 
-Train Smarter
+Sony on Vine
 
-Close
+Full-Frame Power in a Palm-Size Package
 
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Train Smarter
-
-The Circles of Life
-
-Get Tracking
+Check Out the RX1R II
 
 Close
 
@@ -352,21 +198,35 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Get Tracking
+Check Out the RX1R II
+
+Take Gaming On the Go
+
+Get a PS Vita
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Get a PS Vita
 
 Sony on Instagram
 
 Sony on Twitter
 
-"Perfect, powerful, light, compact" - Mountaineer @shaunwalby on why he shoots with a Sony RX100M3. #SonyCybershot
+@WALKTHEMOONBand want YOU to #ShutUpAndVote for Favorite Alternative Rock Artist at @TheAMAs 2015! Vote NOW: www.ama.votenow.tv
 
-2015-10-24 00:52:31+00:00
+2015-10-27 06:14:01+00:00
 
 View Tweet
 
-Enter the 2016 Sony World Photography Awards
+Scroll Through Blu-rays™ on Your PS4™
 
-Learn About Contest
+With a Universal Remote
 
 Close
 
@@ -376,7 +236,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Learn About Contest
+With a Universal Remote
 
 Our Thinnest 4K TV Ever
 
@@ -395,6 +255,146 @@ Play Video
 Sony on YouTube
 
 Play Video
+
+Does Music Inspire Your Creativity?
+
+Find the Perfect Sound
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Find the Perfect Sound
+
+See How "Pixels" Was Made
+
+On the Blu-ray™
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Sony on Instagram
+
+Sony on Twitter
+
+RT @Rushy33: You can watch the #PGW press conference via your #PS4. Register via the events tab so you don't forget!
+
+2015-10-27 05:54:30+00:00
+
+View Tweet
+
+5 Essential Camera Settings
+
+For Better Photos
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+For Better Photos
+
+Relive All of the Action
+
+Get Details
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Get Details
+
+New Music From Adele
+
+Watch Video
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Watch Video
+
+Sony on Instagram
+
+Sony on Twitter
+
+Helldivers: Democracy Strikes Back out today: blog.us.playstation.com. New mission, Helldivers &. #ForSuperEarth
+
+2015-10-27 10:02:00+00:00
+
+View Tweet
+
+Rocket League Brought to Life by Remote Play
+
+Game Everywhere
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+4K Movie Projector
+
+Upgrade Now
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Upgrade Now
+
+Enter the 2016 Sony World Photography Awards
+
+Learn About Contest
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Learn About Contest
 
 Load More
 
