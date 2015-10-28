@@ -29,7 +29,9 @@ City:
 Save My Location Order Now For Your Home For Your Business Customer Support Local Information **You are here:** Home Terms &. Conditions Closed Captioning Copyright Notice Privacy Policy Internet AUP Annual Notice (PDF) Network Management Cable Service Guard Internet Acceptable Use Policy CableOne.Net High Speed Internet Access Service  
 Acceptable Use Policy
 
-Effective August 2015
+Effective October 2015
+
+\`
 
 Important Note: Cable One, Inc., may revise this Acceptable Use Policy from time to time without notice by editing the information on this page. Accordingly, users of the Cable One residential services should consult this page regularly to ensure that their activities conform to the most recent version. In the event of a conflict between any subscriber agreement and this policy, the terms of this policy will govern. Questions regarding this policy can be directed to legal@cableone.net. Complaints of violations of this policy by Cable One users can be directed to abuse@cableone.net. Visit http://www.cableone.net/Pages/networkmanagementdisclosure.aspx to review Cable One’s Network Management Disclosure Statement.
 
@@ -77,7 +79,8 @@ In general, the Policy prohibits uses and activities involving the Service that 
 II. CUSTOMER CONDUCT AND FEATURES OF THE SERVICE
 
 **What are your obligations under this Policy?**  
-You are responsible for any misuse of the Services that you have contracted for, even if the inappropriate activity was committed by a friend, family member, guest, employee or customer with access to your account. Therefore, you should take steps to ensure that others do not gain unauthorized access to the Services and ensure that users you have authorized do not engage in any of the “Prohibited Uses and Activities” identified above.  
+You are responsible for any misuse of the Services that you have contracted for, even if the inappropriate activity was committed by a friend, family member, guest, employee or customer with access to your account. Therefore, you should take steps to ensure that others do not gain unauthorized access to the Services and ensure that users you have authorized do not engage in any of the “Prohibited Uses and Activities” identified above.
+
 You are solely responsible for the security of any device you choose to connect to the Services, including any data stored on that device. In particular, Cable One recommends against enabling file or printer sharing of any sort. Cable One recommends that any files or services you do choose to make available for remote access be protected with a strong password, personal firewall or as otherwise appropriate.
 
 **How Does Cable One address inappropriate content and transmissions?**  
@@ -89,83 +92,66 @@ The Services may not be used to or distribute e-mail or other forms of communica
 **What requirements apply to instant, video, and audio messages?**  
 Each user is responsible for the contents of his or her instant, video, and audio messages and the consequences of any of these messages. Cable One assumes no responsibility for the timeliness, mis-delivery or deletion of, or any failure to store, these messages. In the event that a Service account is terminated for any reason, all instant, video, and audio messages associated with that account (and any secondary accounts) will be permanently deleted as well.
 
-III. NETWORK MANAGEMENT AND LIMITATIONS ON BANDWIDTH CONSUMPTION AND DATA STORAGE
+III. NETWORK MANAGEMENT AND LIMITATIONS ON BANDWIDTH CONSUMPTION
 
 The Cable One network is designed for typical usage by a typical residential computer user. Computer activity resulting in excessive or sustained bandwidth consumption may burden the network and such usage may be restricted. Bandwidth on our network is a limited, shared resource among subscribers. Because we seek to provide the Service at a reasonable cost to the largest number of users, the use of our network is subject to usage limitations. Users therefore must comply with the current bandwidth, data throughput, and other limitations on the Service, including the excessive use guidelines described below. Users must ensure their activity does not improperly restrict, inhibit, or degrade any other user's use of the Service, nor represent (in the sole but reasonable judgment of Cable One) an unusually large burden on the network itself. In addition, users must ensure that their activity does not improperly restrict, inhibit, disrupt, degrade or impede Cable One's ability to deliver the Service and monitor the Services, backbone, network nodes, and/or other network services.
 
-**How does Cable One manage its Network?**  
-Cable One strives to provide customers the best experience when using our network, a shared resource among hundreds of thousands of customers.  
+**How does Cable One manage its Network?**
+
+Cable One strives to provide customers the best experience when using our network, a shared resource among hundreds of thousands of customers.
+
 Cable One may use tools and techniques to manage its network, deliver the Service, and ensure compliance with this Policy and the Subscriber Agreement. These tools and techniques are dynamic, like the network and its usage, and can and do change frequently. For example, these network management activities may include (i) identifying spam and preventing its delivery to customer e-mail accounts, (ii) detecting malicious Internet traffic and preventing the distribution of viruses or other harmful code or content, (iii) limiting speeds during periods of extended congestion, (iv) requiring an upgrade or purchase of a different Internet service and (v) using other tools or techniques that Cable One may be required to implement in order to meet its goal of delivering the best broadband Internet experience to all its customers.
 
-**How does Cable One track usage?**  
-We collect data on customer traffic pattern usage through the use of traffic management software. Cable One reserves the right to conduct tests to improve network security, to enhance the performance of our network, and to determine whether to make available new service offerings. These technical tests are performed almost continuously and without notice.  
+**How does Cable One track usage?**
+
+We collect data on customer traffic pattern usage through the use of traffic management software. Cable One reserves the right to conduct tests to improve network security, to enhance the performance of our network, and to determine whether to make available new service offerings. These technical tests are performed almost continuously and without notice.
+
 Users may also monitor their bandwidth usage in the MyBandwidth section of http://myaccount.cableone.net
 
-**What is Excessive Use?**  
+**What is Excessive Use?**
+
 Excessive use means bandwidth or data usage that is significantly higher than typical usage for which our network is designed. Excessive Users consume so much data that their usage could negatively impact the Service provided to other customers. In order to ensure an optimized Internet experience for all customers, data plans have been assigned to all Internet services.
 
-Surfing 15Mbps Internet
-
-50GB Data Plan
-
-1.5,Mbps, 5Mbps, 8Mbps, 10Mbps,12Mbps
-
-300GB Data Plan
-
-Streaming 50 &. Streaming 100 Internet
-
-300GB Data Plan
-
-Premier 60, Premier 75, &. Premier 150 Internet
-
-400GB Data Plan
-
-Ultra 70, Ultra 100, &. Ultra 200 Internet
-
-500GB Data Plan
-
-Ultra 60 Plus, 100 Plus, &. 200 Plus
-
-750GB Data Plan
-
-Ultra 70 Max, Ultra 100 Max, &. Ultra 200 Max
-
-1000GB Data Plan
+  
+Surfing 15Mbps Internet 50GB Data Plan 1.5,Mbps, 5Mbps, 8Mbps, 10Mbps,12Mbps 300GB Data Plan Streaming 50 &. Streaming 100 Internet 300GB Data Plan Premier 60, Premier 75, &. Premier 150 Internet 400GB Data Plan Ultra 70, Ultra 100, &. Ultra 200 Internet 500GB Data Plan Ultra 60 Plus, 100 Plus, &. 200 Plus 750GB Data Plan Ultra 70 Max, Ultra 100 Max, &. Ultra 200 Max 1000GB Data Plan  
 
 Names, speeds, and data plans are subject to change
 
-**Data Policy**  
-Customers who exceed their data plan 3 or more times in a rolling 12 month period may be required to upgrade to an Internet speed/plan that contains a larger data plan more suitable for their usage. The plan will be determined on the average of the months which customer usage exceeded their data plan and a customer must remain at the new plan for a minimum of 3 months. Customers will be notified via email and in-browser notifications and may monitor their data plan usage online at myaccount.cableone.net.
+**Data Policy**
 
-**How does Cable One address Excessive Use or uncharacteristic use?**  
+Customers who exceed their data plan 3 or more times in a rolling 12 month period may be required to upgrade to an Internet speed/plan that contains a larger data plan more suitable for their usage. The plan will be determined on the average of the months which customer usage exceeded their data plan and a customer must remain at the new plan for a minimum of 3 months. Customers will be notified via email and in-browser notifications and may monitor their data plan usage online at http://myaccount.cableone.net.
+
+**How does Cable One address Excessive Use or uncharacteristic use?**
+
 The Cable One residential service offering is a consumer product designed for personal use of the Internet. Therefore, if Cable One in its sole but reasonable discretion determines that a customer has exceeded the Excessive Use threshold or is using the Service in a manner significantly uncharacteristic of a typical residential user, Cable One reserves the right to (a) adjust, suspend or terminate Service accounts at any time and without notice. or (b) require the user to upgrade his service level or pay additional fees in accordance with Cable One’s then-current, applicable rates and charges for such Service. or (c) use any technology to be chosen by Cable One at its sole discretion to slow the user’s service for purposes of conserving bandwidth.
 
-**What activities may cause excessive bandwidth consumption and uncharacteristic use?**  
+**What activities may cause excessive bandwidth consumption and uncharacteristic use?**
+
 Common activities that may cause excessive bandwidth consumption in violation of this Policy include, but are not limited to, numerous or continuous bulk transfers of files and other high capacity traffic using (i) file transfer protocol ("FTP"), (ii) peer-to-peer applications, and (iii) newsgroups, whether provided by Cable One or a third party.
 
-**What services are not available to Residential service users?**  
-The Service does not provide the type of security, upstream performance and total downstream throughput capability typically associated with commercial use. You may not run a server in connection with the Cable One residential service, nor may you provide network services to others via the Cable One residential service . Examples of prohibited uses include, but are not limited to, running servers for mail (pop3 &. smtp), http, https, FTP, IRC, DHCP and multi-user interactive forums. For information about commercial Internet pricing, please see www.CableOne.net.
+**What services are not available to Residential service users?**
 
-IV. VIOLATION OF THIS ACCEPTABLE USE POLICY
+The Service does not provide the type of security, upstream performance and total downstream throughput capability typically associated with commercial use. You may not run a server in connection with the Cable One residential service, nor may you provide network services to others via the Cable One residential service . Examples of prohibited uses include, but are not limited to, running servers for mail (pop3 &. smtp), http, https, FTP, IRC, DHCP and multi-user interactive forums. For information about commercial Internet pricing, please see  http://www.CableOne.net. IV. VIOLATION OF THIS ACCEPTABLE USE POLICY
 
-**What happens if you violate this policy?**  
+What happens if you violate this policy?
+
 Cable One reserves the right to suspend without notice or terminate the Service and your Subscriber Agreement if you violate the terms of this Policy or the Subscriber Agreement.
 
-**How does Cable One enforce this Policy?**  
-Cable One does not routinely monitor the activity of accounts for violation of this Policy. However, in our efforts to comply with applicable law and promote good citizenship within the Internet community, we will respond appropriately if we become aware of inappropriate use of our Services. If we receive notice under the Digital Millennium Copyright Act, 17 U.S.C. sec. 512, that you have allegedly infringed the intellectual property rights of a third party, we retain the right to take down or disable access to the allegedly infringing material. In complying with applicable law in this area, it is our policy, in appropriate circumstances, to terminate the accounts of subscribers who repeatedly infringe the intellectual property rights of third parties. We also will take such other action as appropriate under the circumstances to preserve our rights. Although Cable One has no obligation to monitor the Services and/or the network, Cable One reserves the right to monitor bandwidth, usage, and content from time to time to operate the Services. to identify violations of this Policy. and/or to protect the network and Cable One users. Cable One prefers to advise customers of inappropriate behavior and any necessary corrective action. However, if the Services are used in a way which Cable One, in its sole but reasonable discretion, believes violate this Policy, Cable One may take any responsive actions it deems appropriate. Such actions include, but are not limited to, temporary or permanent removal of content, cancellation of newsgroup posts, filtering of Internet transmissions, and the immediate suspension or termination of all or any portion of the Services. Cable One will not have any liability for any such responsive actions. The above described actions are not Cable One's exclusive remedies and Cable One may take any other legal or technical action it deems appropriate. Cable One reserves the right to investigate suspected violations of this Policy, including the gathering of information from the user or users involved and the complaining party, if any, and examination of material on Cable One's servers and network. During an investigation, Cable One may suspend the account or accounts involved and/or remove material which potentially violates this Policy. You hereby authorize Cable One to cooperate with (i) law enforcement authorities in the investigation of suspected criminal violations, and (ii) and system administrators at other Internet service providers or other network or computing facilities in order to enforce this Policy. Such cooperation may include Cable One providing the username, IP address, or other identifying information about a subscriber. Upon termination of an account, Cable One is authorized to delete any user ID, files, programs, data and email messages associated with such account. The failure of Cable One to enforce this Policy, for whatever reason, shall not be construed as a waiver of any right to do so at any time. You agree that, if any portion of this Policy is held invalid or unenforceable, that portion will be construed consistent with applicable law as nearly as possible, and the remaining portions will remain in full force and effect. This Policy shall be exclusively governed by, and construed in accordance with, the laws of the State of Arizona.
+**How does Cable One enforce this Policy?**
 
-V. MISCELLANEOUS PROVISIONS
+Cable One does not routinely monitor the activity of accounts for violation of this Policy. However, in our efforts to comply with applicable law and promote good citizenship within the Internet community, we will respond appropriately if we become aware of inappropriate use of our Services. If we receive notice under the Digital Millennium Copyright Act, 17 U.S.C. sec. 512, that you have allegedly infringed the intellectual property rights of a third party, we retain the right to take down or disable access to the allegedly infringing material. In complying with applicable law in this area, it is our policy, in appropriate circumstances, to terminate the accounts of subscribers who repeatedly infringe the intellectual property rights of third parties. We also will take such other action as appropriate under the circumstances to preserve our rights. Although Cable One has no obligation to monitor the Services and/or the network, Cable One reserves the right to monitor bandwidth, usage, and content from time to time to operate the Services. to identify violations of this Policy. and/or to protect the network and Cable One users. Cable One prefers to advise customers of inappropriate behavior and any necessary corrective action. However, if the Services are used in a way which Cable One, in its sole but reasonable discretion, believes violate this Policy, Cable One may take any responsive actions it deems appropriate. Such actions include, but are not limited to, temporary or permanent removal of content, cancellation of newsgroup posts, filtering of Internet transmissions, and the immediate suspension or termination of all or any portion of the Services. Cable One will not have any liability for any such responsive actions. The above described actions are not Cable One's exclusive remedies and Cable One may take any other legal or technical action it deems appropriate. Cable One reserves the right to investigate suspected violations of this Policy, including the gathering of information from the user or users involved and the complaining party, if any, and examination of material on Cable One's servers and network. During an investigation, Cable One may suspend the account or accounts involved and/or remove material which potentially violates this Policy. You hereby authorize Cable One to cooperate with (i) law enforcement authorities in the investigation of suspected criminal violations, and (ii) and system administrators at other Internet service providers or other network or computing facilities in order to enforce this Policy. Such cooperation may include Cable One providing the username, IP address, or other identifying information about a subscriber. Upon termination of an account, Cable One is authorized to delete any user ID, files, programs, data and email messages associated with such account. The failure of Cable One to enforce this Policy, for whatever reason, shall not be construed as a waiver of any right to do so at any time. You agree that, if any portion of this Policy is held invalid or unenforceable, that portion will be construed consistent with applicable law as nearly as possible, and the remaining portions will remain in full force and effect. This Policy shall be exclusively governed by, and construed in accordance with, the laws of the State of Arizona. V. MISCELLANEOUS PROVISIONS
 
-**Cable Modems**  
+**Cable Modems**
+
 Cable One strives to produce a high level of reliability, stability and security for our High Speed Internet Subscribers. The cable modem is a critical network element which we constantly evaluate for compatibility and performance. Due to technical limitations, changes to our network, discontinued support by manufacturers, regulatory obligations, or defects, certain cable modem models that previously were certified may be deemed to no longer be suitable for our network. If you own your modem and in our sole but reasonable discretion it becomes unsuitable for any of these or other reasons, it will be your responsibility to purchase a new modem. Cable One’s support web site maintains a current list of certified modems for use on its network. Cable One reserves the right to upgrade, via software download and without subscriber notification, all cable modems currently connected to its network. Effective October 1, 2015, only DOCSIS 3.0 and DOCSIS 3.1 Modems and EMTAs will be compatible with our network.
 
-**Communication**  
+**Communication**
+
 Cable One may choose to communicate with you regarding these policies using a variety of methods including email to your Cable One email address or in-browser notices. In-browser notices are an effective way to quickly alert you to important service-impacting issues. These notices may require you to acknowledge receipt of the message or log into your Cable One account for more information.
 
-**Limitations of Liability**  
-Cable One will make reasonable efforts to provide customer with uninterrupted and error-free service. Nonetheless, there are numerous factors that could affect the Service. Temporary interruptions of the Service may occur as normal events in the provision of the Service. Cable One reserves the right to interrupt the Service usually between the hours of 1am to 5am (MST or Local) for maintenance purposes. Also understand that Cable One has no control over the networks, facilities or services of third parties and that delays and disruptions involving them are completely beyond Cable One's control. As to Cable One’s own equipment and software, failure may occur without warning due to causes ranging from our own errors to malicious attack. If you have requirements that substantially exceed the average consumer’s bandwidth use or if continuous Internet access is the basis of your livelihood, you should purchase an alternate, backup connection. While Cable One employs virus and spam checking software, the speed of new virus and spam creation is such that Cable One does not represent or warrant that traffic on its network will be virus or spam free. In light of that, your use of the Service is at your own risk and the Service is provided without warranty or guarantee of any kind either expressed or implied, including warranties of merchantability and fitness for a particular purpose. Without limiting the foregoing, Cable One, its parent company and affiliates will not be liable for any interruptions in service or failure to perform or partial performance that results in corrupted transmissions and will not be responsible for consequential damages of any sort. In any event, Cable One’s liability to you for all potential claims will not exceed the total amount of service fees paid during the preceding three months. As to consumer customers, some states do not allow the exclusion or limitation of implied warranties, so the above exclusions or limitations may not apply to you. Nothing in this Agreement gives you any interest, title or license in the user ID, electronic mail address or IP address that is used in conjunction with the Service.
+**Limitations of Liability**
 
-For Your Home  For Your Business  Customer Support  Remote Connect  Local Information  All About Us  
+Cable One will make reasonable efforts to provide customer with uninterrupted and error-free service. Nonetheless, there are numerous factors that could affect the Service. Temporary interruptions of the Service may occur as normal events in the provision of the Service. Cable One reserves the right to interrupt the Service usually between the hours of 1am to 5am (MST or Local) for maintenance purposes. Also understand that Cable One has no control over the networks, facilities or services of third parties and that delays and disruptions involving them are completely beyond Cable One's control. As to Cable One’s own equipment and software, failure may occur without warning due to causes ranging from our own errors to malicious attack. If you have requirements that substantially exceed the average consumer’s bandwidth use or if continuous Internet access is the basis of your livelihood, you should purchase an alternate, backup connection. While Cable One employs virus and spam checking software, the speed of new virus and spam creation is such that Cable One does not represent or warrant that traffic on its network will be virus or spam free. In light of that, your use of the Service is at your own risk and the Service is provided without warranty or guarantee of any kind either expressed or implied, including warranties of merchantability and fitness for a particular purpose. Without limiting the foregoing, Cable One, its parent company and affiliates will not be liable for any interruptions in service or failure to perform or partial performance that results in corrupted transmissions and will not be responsible for consequential damages of any sort. In any event, Cable One’s liability to you for all potential claims will not exceed the total amount of service fees paid during the preceding three months. As to consumer customers, some states do not allow the exclusion or limitation of implied warranties, so the above exclusions or limitations may not apply to you. Nothing in this Agreement gives you any interest, title or license in the user ID, electronic mail address or IP address that is used in conjunction with the Service. For Your Home  For Your Business  Customer Support  Remote Connect  Local Information  All About Us  
 Investor Relations  Legal Notices  Open Internet/Network Management  Contact Us  Great Careers  Payment Center  Site Map
 
 Copyright 2015, Cable ONE Inc., All Rights Reserved.
