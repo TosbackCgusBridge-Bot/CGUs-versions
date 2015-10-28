@@ -1,6 +1,6 @@
 Terms of Service
 
-**Last Updated on November 27, 2012**. These terms and conditions are effective immediately for those registering accounts after that date and will become effective December 27, 2012 for those with pre-existing accounts. To review the previous terms, please click here.
+**Last Updated on October 13, 2015**. These terms and conditions are effective immediately for those registering accounts after that date and will become effective December 27, 2012 for those with pre-existing accounts. To review the previous terms, please click here.
 
 These terms and conditions (the **"Terms"**) govern your access to and use of Yelp's websites and mobile applications that link to or reference these Terms (**"Site"**). By accessing or using the Site, you are agreeing to these Terms and concluding a legally binding contract with Yelp Inc., a Delaware corporation headquartered in San Francisco, California (**"Yelp"**). Do not access or use the Site if you are unwilling or unable to be bound by the Terms.
 
@@ -124,6 +124,7 @@ These terms and conditions (the **"Terms"**) govern your access to and use of Ye
     If you purchase a Yelp Deal or Gift Certificate, the terms of your purchase will be governed by the Yelp General Terms for Deals and Certificates. Please review them before you make each purchase since they may change from time to time. In the event of any conflict between the Yelp General Terms for Deals and Certificates and these Terms, the Yelp General Terms for Deals and Certificates will prevail.
     
     Similarly, if you create a business owner's account on the Site or purchase advertising from Yelp, the Yelp Advertising Agreement will apply. In the event of any conflict between the Yelp Advertising Agreement and these Terms, the Yelp Advertising Agreement will prevail.
+    
 9.  Suggestions and Improvements
     
     By sending us any ideas, suggestions, documents or proposals (**"Feedback"**), you agree that (i) your Feedback does not contain the confidential or proprietary information of third parties, (ii) we are under no obligation of confidentiality, express or implied, with respect to the Feedback, (iii) we may have something similar to the Feedback already under consideration or in development, and (iv) you grant us an irrevocable, non-exclusive, royalty-free, perpetual, worldwide license to use, modify, prepare derivative works, publish, distribute and sublicense the Feedback, and you irrevocably waive, and cause to be waived, against Yelp and its users any claims and assertions of any moral rights contained in such Feedback.
@@ -163,7 +164,7 @@ These terms and conditions (the **"Terms"**) govern your access to and use of Ye
         
     2.  We may close your account, suspend your ability to use certain portions of the Site, and/or ban you altogether from the Site for any or no reason, and without notice or liability of any kind. Any such action could prevent you from accessing your account, the Site, Your Content, Site Content, or any other related information.
         
-    3.  In the event of any termination of these Terms, whether by you or us, Sections 1, 5, 6, 10 - 14 will continue in full force and effect, including our right to use Your Content as detailed in Section 5.
+    3.  In the event of any termination of these Terms, whether by you or us, Sections 1, 5, 6, 11 - 15 will continue in full force and effect, including our right to use Your Content as detailed in Section 5.
         
 15.  General Terms
     1.  We reserve the right to modify, update, or discontinue the Site at our sole discretion, at any time, for any or no reason, and without notice or liability.
