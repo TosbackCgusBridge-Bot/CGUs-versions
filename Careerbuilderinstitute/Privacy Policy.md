@@ -1,63 +1,38 @@
-Skip navigation Hello. Sign in to find your next job. Employer Site  
+Skip to Content Hello. Sign in to find your next job. Employers Employers
 
-*   Sign In or Sign Up
-*   Add Resume
-*   Browse Jobs
-*   Explore Insights
-*   Search Resources
+*   Sign in or Sign Up
+*   My CareerBuilderMy CB
+*   Find Jobs
+*   Resumes
+*   Recommendations
+*   Resources
+*   Sign Out
+
+*   Sign in
+*   My Account
+*   Sign Out
 
 *   Employer Sign In
-*   Search Candidates
-*   Post a Job
+*   Search Resumes
+*   Post Jobs
 
-Job Title, Skills, or Company Search Location Find the right job. Right now. Job Title, Skills, or Company Search Location No Recent Searches Add your resume today. Employers can find you even if you don't apply. Add Your Resume Quick Links Resumes Cover Letters Saved Jobs Saved Searches Profile Job Recommendations Popular job searches By Category
+Find the Right Job. **Right Now.** Job Title, Skills, or Company Location Advanced Search Add your resume today. Employers can find you without even applying to a job. Add Your Resume Popular **job searches** By Category
 
-*   Sales
-*   Customer Service
-*   Accounting
-*   Entry Level
-*   Administrative Assistant
-*   Retail
-*   Registered Nurse
+Sales • Customer Service • Accounting • Entry Level • Administrative Assistant • Registered Nurse • Work from Home
 
-Browse All Categories By City
+By City
 
-*   Chicago
-*   Houston
-*   Dallas
-*   Boston
-*   New York
-*   Atlanta
-*   San Francisco
-*   Miami
-*   Denver
+Chicago • Houston • Dallas • Boston • New York • Atlanta • San Francisco • Miami • Denver • Milwaukee
 
-Browse All Locations By Company
+By Company
 
-*   Macy's
-*   Robert Half
-*   UPS
-*   Aerotek
-*   Army National Guard
-*   UnitedHealth Group
-*   Kelly Service
+Macy's • UnitedHealth Group • Firestone • Chipotle • Vitamin Shoppe • Securitas • UPS • TruGreen • Enterprise Rent-A-Car
 
-Browse All Companies Speed up your job search.
+**Browse All Categories** **Browse All Locations** **Browse All Companies** You account has been removed.  
+  
+**Speed up your job search.** Let us send you an email with the newest job postings. Email Job Title Location **Finding a new job just got easier.** You'll start receiving emails for new job postings this week. Need Help? help center
 
-Let us send you an email with the newest job postings.
-
-Email Job Title Location Sending your request... Sorry, an unexpected error has occurred.
-
-Please reload this page or try again later.
-
-Finding a new job just got easier.
-
-You will start receiving emails for new job postings this week.
-
-Start searching now for {job\_title} in {location}.
-
-Start Search Need Help? help center job seekers
-
+*   job seekers
 *   Find Jobs
 *   Top Categories
 *   Top Locations
@@ -67,30 +42,29 @@ Start Search Need Help? help center job seekers
 *   Sitemap
 *   Accessibility
 
-employers
-
+*   employers
 *   Search Resumes
 *   Post Jobs
 *   Talent Networks
 *   Advertising
 *   Our Partners
 
-legal
-
+*   legal
 *   Security &. Fraud
 *   Privacy Policy
 *   Terms
 *   Ad Choices
 
-careerbuilder
-
+*   careerbuilder
 *   About Us
 *   Work at CareerBuilder
 
-200 N. LaSalle St.  
-Suite 1100  
-Chicago, IL 60601
+*   200 N. LaSalle St.
+*   Suite 1100
+*   Chicago, IL 60601
 
-social
+Sign in
 
-Sign In Terms Privacy Full Site © 2015 Careerbuilder, LLC. All rights reserved.
+*   social
+
+Terms Privacy Full Site © 2015 CareerBuilder, LLC. All rights reserved.
