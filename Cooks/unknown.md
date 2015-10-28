@@ -2,8 +2,6 @@ Third Party Advertising
 
   We use third-party advertising companies to serve ads when you visit our Web site.
 
-  We also participate in AOL Behavioral Targeting (previously TACODA) to optimize the advertisements you see. For more information on online advertising and important privacy and safety information, please click **here**.
-
   These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
   If you would like more information about this practice and to know your choices about not having this information used by these companies, please click **here**.
