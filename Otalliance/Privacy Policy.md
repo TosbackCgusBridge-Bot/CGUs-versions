@@ -96,9 +96,11 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Oct 27, 2015 Return Path World Tour 2015 - Chicago Thu, Oct 29, 2015 Return Path World Tour 2015 - New York Tue, Nov 3, 2015 Return Path World Tour 2015 - San Francisco Wed, Nov 4, 2015 IoT Trust Framework and security best practices based on GlobalSign’s identity and security solutions
+Thu, Oct 29, 2015 Return Path World Tour 2015 - New York Tue, Nov 3, 2015 Return Path World Tour 2015 - San Francisco Wed, Nov 4, 2015 IoT Trust Framework and security best practices based on GlobalSign’s identity and security solutions
 
 GlobalSign, a leading provider of identity and security solutions for the Internet of Everything (IoE), and the Online Trust Alliance (OTA), a non-profit with the mission to enhance online trust, invite you to attend our webinar, Capturing the new value propositions of privacy, trust, and security in IoT.  Recognizing a need for privacy and security best practices for the growing number of consumer IoT devices, the OTA established the IoT Working Group in January which recently released a draft Internet of Things Trust Framework.
+
+Thu, Nov 5, 2015 Return Path World Tour 2015 - Los Angeles
 
 *   OTA Blog
 *   Newsletters
