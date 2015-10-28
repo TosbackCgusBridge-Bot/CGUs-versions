@@ -79,8 +79,8 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   Sleeping &. Soothing
     *   Traveling
     
-    *   We asked parents around the world the most important question.
-    *   See the responses
+    *   See what's most important to moms around the world.
+    *   The Happy Factor
 *   GAMES &. ACTIVITIES Online Games Apps for Kids Online Videos Coloring Pages Crafts for Kids Play &. Learn Activities
 *   OUR STORY
     
