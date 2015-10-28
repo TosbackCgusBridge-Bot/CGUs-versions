@@ -1,8 +1,8 @@
 Intermarkets, Inc. Up-to-date industry insights, news, and events Site Navigation Skip to content
 
-*   Advertisers
+*   Advertiser Solutions
 *   Publishers
-*   Political &. Advocacy
+*   Political Solutions
 *   About
 *   Contact
 *   Blog
