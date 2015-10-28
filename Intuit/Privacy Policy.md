@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14022745400
+true true C14025917597
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1c1j4 TIME :->. Mon Oct 26 11:30:38 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p19.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Tue Oct 27 11:28:31 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,13 +48,15 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Friends and Family -- Extra 25% Off\* In Store and Online | Ends October 27 | Online Code: 2BHAPPY
+Friends and Family There's still time to save even more and share with your friends!
 
-Orig, reg, sale and clearance-priced apparel, shoes, accessories, fine jewelry, home, furniture, mattresses, custom blinds &. shades.
+In Store and Online | Ends October 31
 
-Or, an Extra 15% Off\* watches, salon products, optical &. portrait
+Extra 25% Off\* | Code: 2BHAPPY
 
-Shop Now: Get store coupon \*Exclusions and details Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes60 to 85% Off Clearance when you use 25% Off code: 2BHAPPY Shop Clearance Get details: Refresh Your Home For Fall 30 to 50% Off Home Collections
+Or, $10 Off $25 or More\* | Code: SHOPNOW3
+
+\*Exclusions and details Get store coupon Shop Now: Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes60 to 85% Off Clearance when you use 25% Off code: 2BHAPPY Shop Clearance Get details: Refresh Your Home For Fall 30 to 50% Off Home Collections
 
 Select styles
 
