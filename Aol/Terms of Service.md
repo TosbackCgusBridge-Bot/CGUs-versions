@@ -210,4 +210,4 @@ The delivery of any communication from us is effective when sent by us, regardle
 We may be required by law to release information to a third party about your account, including the content of e-mail. Except as prohibited by law, we will send you notice if we plan to comply with a civil subpoena related to your account. You agree to hold us harmless for the release of any information related to your account in connection with a civil subpoena including, but not limited to, any claims that you did not receive notice of the civil subpoena from us.  
   
 _Last Updated_  
-10-23-2015
+10-27-2015
