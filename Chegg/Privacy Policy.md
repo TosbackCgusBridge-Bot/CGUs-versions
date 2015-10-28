@@ -207,6 +207,8 @@ Santa Clara, CA 95054
 
 The TRUSTe program covers only information that is collected through this websites, www.chegg.com and www.instaedu.com and through the Chegg mobile application and does not cover information that may be collected through software downloaded from the website.
 
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
+
 **California Residents - Your CA Privacy Rights**
 
 Pursuant to California Civil Code Section 1798.83, residents of the State of California have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain categories of personal information during the preceding year for the third parties' direct marketing purposes and the categories of personal information the company shares. Alternatively, the law provides that a company that has a privacy policy that provides consumers choice (opt-out or opt-in) regarding sharing personal information with third parties for those third parties' direct marketing purposes may instead provide information on how to exercise that choice. Chegg qualifies for the alternative option. it has a comprehensive privacy policy that sets forth that Chegg provides you choice prior to sharing your personal information with third parties for their direct marketing purposes. If you do not opt-in or if you choose to opt-out at the time Chegg offers that choice, Chegg does not share your information with that identified third party for its direct marketing purposes.
