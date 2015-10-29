@@ -211,8 +211,6 @@ From time to time, we may update this Privacy Policy. We will notify you about m
 
 The Privacy Policy posted on this Service was updated on October 24_,_ 2015.
 
-**This privacy policy was last modified on August 22, 2012.**
-
    
 **Questions?** 
 
