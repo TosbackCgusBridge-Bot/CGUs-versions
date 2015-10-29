@@ -24,10 +24,6 @@ Sencha
     *   Partners
     *   Developers
 *   Training
-    *   Overview
-    *   Open Enrollment Courses
-    *   Live Online Training
-    *   Private On-Site Training
 *   Resources
     *   Webinars
     *   Videos
@@ -190,10 +186,6 @@ Get Sencha NewsBuy Online
     *   Developer
 
 *   Training
-    *   Overview
-    *   Open Enrollment Courses
-    *   Live Online Training
-    *   Private On-Site Training
 
 *   Customers
 
