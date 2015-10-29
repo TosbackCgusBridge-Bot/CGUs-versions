@@ -100,7 +100,7 @@ Search form Search Search
 *   Careers
 
 CASE STUDY:  
-CABELA’S How we brought millions of personalized messages to the right people. Learn More NEW RESEARCH: THE  
+CABELA’S How we brought millions of personalized messages to the right people. Learn More NEW GUIDE: THE  
 5 KEYS TO CONNECTING  
 WITH REAL PEOPLE Download Now We Know Your Customers better than anyone. 80 billion interactions  
 a day prove it. Learn more WE MAKE OVER A TRILLION REAL-TIME  
