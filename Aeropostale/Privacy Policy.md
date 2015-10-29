@@ -13,7 +13,6 @@ Aéropostale
     *   Throwback Tees
     *   On Your Radar
     *   Uniform
-    *   Under $10
     *   Online Only
     *   Plus Sizes
     *   Clearance
@@ -59,7 +58,6 @@ Aéropostale
     *   Free State
     *   On Your Radar
     *   Uniform
-    *   Under $10
     *   Online Only
     *   Extended Sizes
     *   Clearance
