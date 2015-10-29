@@ -122,9 +122,9 @@ Réalisé sous la direction de Jean-François PILLOU, fondateur de CommentCaMarc
   
 A voir également
 
-*   Dutilisation
-*   Wattsapp
-*   Tubidy
+*   Conditions générales d'utilisation
+*   Conditions d'utilisation d'internet
+*   Les sites de films
 *   Modèle Condition Générale de Vente » Forum - Webmaster
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
