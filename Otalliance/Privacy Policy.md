@@ -96,14 +96,24 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Thu, Oct 29, 2015 Return Path World Tour 2015 - New York Tue, Nov 3, 2015 Return Path World Tour 2015 - San Francisco Wed, Nov 4, 2015 IoT Trust Framework and security best practices based on GlobalSign’s identity and security solutions
+Tue, Nov 3, 2015 Return Path World Tour 2015 - San Francisco Wed, Nov 4, 2015 IoT Trust Framework and security best practices based on GlobalSign’s identity and security solutions
 
 GlobalSign, a leading provider of identity and security solutions for the Internet of Everything (IoE), and the Online Trust Alliance (OTA), a non-profit with the mission to enhance online trust, invite you to attend our webinar, Capturing the new value propositions of privacy, trust, and security in IoT.  Recognizing a need for privacy and security best practices for the growing number of consumer IoT devices, the OTA established the IoT Working Group in January which recently released a draft Internet of Things Trust Framework.
 
-Thu, Nov 5, 2015 Return Path World Tour 2015 - Los Angeles
+Thu, Nov 5, 2015 Return Path World Tour 2015 - Los Angeles Wed, Nov 11, 2015 14th annual Seattle SecureWorld Conference
+
+SecureWorld's programs are created to tackle the complexities of cybersecurity with solution-oriented education. The conference will provide networking opportunities designed for IT and security professionals. OTA is proud to be an association sponsor and speaker since 2012.  Take advantage of our event discounts  by using the following codes:
+
+SEA4P for $200 off the SecureWorld Plus Pass  
+SEA4 for $100 off the Conference Pass  
+SEA4E for $25 off the Open Sessions Pass - (Lunch &. CPE's not included)
 
 *   OTA Blog
 *   Newsletters
+
+Wed, Oct 28, 2015 Moving to a World of Trusted IoT Devices &. Services
+
+Today represents a significant milestone, the release of the “last call” of the IoT Trust Framework.  For the past 8 months the IoT Trustworthy working group has been meeting, debating and sharing insights into criteria which today has formed the IoT Trust framework.  Over the next three weeks we will be soliciting input and reviewing feedback to integrate into what promises to be the foundation for an IoT trustworthy code of conduct and future certification programs. 
 
 Wed, Oct 21, 2015 Is Your Smart Home Outsmarting You?
 
@@ -116,10 +126,6 @@ Europe's highest court recently struck down the "Safe Harbor" agreement between 
 Fri, Sep 18, 2015 Does Your Favorite Presidential Candidate Make the Grade?
 
 As the Presidential race kicks into high gear, voters are evaluating how candidates will tackle tough issues on foreign and domestic policy.  Let’s hope they don’t overlook topics relating to online privacy and security.  A recent Pew Research Center survey indicates that 74% of Americ
-
-Mon, Aug 31, 2015 An Open Letter to The Presidential Candidates
-
-As campaigns ramp up for candidates, political parties and super PACs, it is time for politicians to think about the privacy, security and sensitivity of the information their donors and constituents entrust to them.  The nation has been alarmed by data collection practices in the public and private sector, including those of the NSA.  Now candidates must examine their own practices.  Digital data is the lifeblood of the economy but it is being exploited daily by cyber-criminals and state sponsored actors placing America at the crossroads of a trust meltdown, underscoring the
 
 Resources
 
