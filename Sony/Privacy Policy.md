@@ -174,17 +174,25 @@ Start Streaming
 
 Sony on Twitter
 
-The #spooky season is upon us! Give us a fright with your #scary shots and we'll RT our favourites! #Halloween
+PlayStation VR. 2016. Let’s go. www.youtube.com
 
-2015-10-27 06:48:03+00:00
+2015-10-26 16:55:01+00:00
 
 View Tweet
 
-Hanging Out This Halloween?
+The Perfect Accessory for a Human—or a Werewolf
 
-Capture the Fun
+Check Out the SmartWatch 3
 
-Sony on Vine
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Check Out the SmartWatch 3
 
 Full-Frame Power in a Palm-Size Package
 
@@ -218,9 +226,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-@WALKTHEMOONBand want YOU to #ShutUpAndVote for Favorite Alternative Rock Artist at @TheAMAs 2015! Vote NOW: www.ama.votenow.tv
+#HARMONIZERS, #JENERALS, #CSQUAD! Vote for @Ciara, @FifthHarmony &. @Jidenna in @VEVO's #YearInVEVO awards! www.vevo.com
 
-2015-10-27 06:14:01+00:00
+2015-10-29 12:07:48+00:00
 
 View Tweet
 
@@ -344,9 +352,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-Helldivers: Democracy Strikes Back out today: blog.us.playstation.com. New mission, Helldivers &. #ForSuperEarth
+RT @depechemode: New holographic music video for "All of This and Nothing" from Dave Gahan &. Soulsavers: www.youtube.com
 
-2015-10-27 10:02:00+00:00
+2015-10-29 06:14:18+00:00
 
 View Tweet
 
