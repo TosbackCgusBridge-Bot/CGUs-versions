@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14025917597
+true true C14030370242
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p19.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Tue Oct 27 11:28:31 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Wed Oct 28 11:31:52 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,33 +48,35 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Friends and Family There's still time to save even more and share with your friends!
+Take Your Pick Online Only | Ends October 31 | Online Code: SCARIEST
 
-In Store and Online | Ends October 31
+Extra 31% Off\* $100 or More, select styles
 
-Extra 25% Off\* | Code: 2BHAPPY
+Or, Extra 25% Off\* select styles
 
-Or, $10 Off $25 or More\* | Code: SHOPNOW3
+\*Get detailsPlus Free Shipping Anywhere Over $49
 
-\*Exclusions and details Get store coupon Shop Now: Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes60 to 85% Off Clearance when you use 25% Off code: 2BHAPPY Shop Clearance Get details: Refresh Your Home For Fall 30 to 50% Off Home Collections
+No Code Required
+
+Get details and exclusionsSuper Saturday Sale
+
+Starts Now! | In Store and Online
+
+Shop Super Saturday Sale Now
+
+Extra 25% Off\* | Use Code: 2BHAPPY
+
+Or, $10 Off $25 or More\* | Use Code: SHOPNOW3
+
+\*Exclusions and Details Get Store Coupon Save On Workout Clothes For The Family 40 to 50% Off Xersion For The family
 
 Select styles
 
-  Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage Diamond Rings and More Are On Sale Now! Diamond Sale
+Shop Women Shop Men Shop Boys Shop Girls         Boots and Booties On Sale Now! 20 to 50% Off Boots For Her
 
-Final Days! Ends October 27
+Select styles
 
-40 to 60% Off Fine Jewelry and Bijoux Bar, select styles
-
-Shop Fine Jewelry and Bijoux Bar
-
-30 to 60% Off Fashion Jewelry, select styles
-
-Shop Fashion Jewelry
-
-20 to 50% Off Fine and Fashion Watches, select styles
-
-Shop Watches Shop Modern Bride Coats, Hats, Gloves and Scarves For Men, Women and Kids 40 to 50% Off Coats, Hats, Gloves and Scarves For The Family
+Shop Boots Shop Wide-Calf Boots Coats, Hats, Gloves and Scarves For Men, Women and Kids 40 to 50% Off Coats, Hats, Gloves and Scarves For The Family
 
 Select styles
 
