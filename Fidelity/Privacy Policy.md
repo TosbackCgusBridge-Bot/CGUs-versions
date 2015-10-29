@@ -41,6 +41,7 @@ Search Fidelity.com
     *   IPOs
     *   Annuities
     *   Learning Center
+    *   NotebookLog In Required
 *   Guidance &. Retirement
     *   Investment Guidance
     *   Retirement Planning
