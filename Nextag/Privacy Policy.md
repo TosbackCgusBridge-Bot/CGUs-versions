@@ -195,4 +195,4 @@ How Are We Doing?
 *   Find us on Facebook
 *   Follow us on Twitter
 
-© 1999-2015, Nextag, Inc. View Recent: Products (0) | Searches (0) | Sellers (0) My Favorites: Products (0) | Searches (0) | Brands (0) | Sellers (0) | My Lists (0) NexTag. Scroll To Top | Terms of Use | Privacy Policy | © 1999-2015, Nextag, Inc.
+© 1999-2015, Nextag, Inc. View Recent: Products (0) | Searches (0) | Sellers (0) My Favorites: Products (0) | Searches (0) | Brands (0) | Sellers (0) | My Lists (0)
