@@ -104,9 +104,9 @@ Play Video
 
 Sony on Twitter
 
-Watch all the action from the red carpet of the World Premiere of #SPECTRE. www.youtube.com
+Track your activities even if you don’t have your phone with you. #SmartBand2
 
-2015-10-27 01:50:21+00:00
+2015-10-31 02:50:59+00:00
 
 View Tweet
 
@@ -174,9 +174,9 @@ Start Streaming
 
 Sony on Twitter
 
-PlayStation VR. 2016. Let’s go. www.youtube.com
+Just added to the PlayStation Gear Store: the Traveler's scarf from Journey! Get it here: www.gear.playstation.com
 
-2015-10-26 16:55:01+00:00
+2015-10-31 04:27:55+00:00
 
 View Tweet
 
@@ -226,9 +226,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-#HARMONIZERS, #JENERALS, #CSQUAD! Vote for @Ciara, @FifthHarmony &. @Jidenna in @VEVO's #YearInVEVO awards! www.vevo.com
+@CageTheElephant dropped #MessAround – the 1st single from the new album #TellMeImPretty! Listen on @Vevo: www.vevo.com
 
-2015-10-29 12:07:48+00:00
+2015-10-31 03:55:02+00:00
 
 View Tweet
 
@@ -300,9 +300,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-RT @Rushy33: You can watch the #PGW press conference via your #PS4. Register via the events tab so you don't forget!
+Here's November's PS Plus lineup! Featuring The Walking Dead Season Two &. Magicka 2 www.blog.us.playstation.com
 
-2015-10-27 05:54:30+00:00
+2015-10-31 02:33:33+00:00
 
 View Tweet
 
@@ -352,9 +352,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-RT @depechemode: New holographic music video for "All of This and Nothing" from Dave Gahan &. Soulsavers: www.youtube.com
+Upgrade the way you train with the Sony Smart B-Trainer. www.sony.net
 
-2015-10-29 06:14:18+00:00
+2015-10-31 01:22:49+00:00
 
 View Tweet
 
