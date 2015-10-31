@@ -7,11 +7,13 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
+    *   Corny Christmas
     *   Bethany Mota
-    *   Tokyo Darling
-    *   Cold Weather
-    *   Throwback Tees
+    *   Meet the Atomics
     *   On Your Radar
+    *   Cold Weather
+    *   Tokyo Darling
+    *   Throwback Tees
     *   Uniform
     *   Online Only
     *   Plus Sizes
@@ -53,10 +55,13 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
+    *   Corny Christmas
+    *   Meet the Atomics
+    *   On Your Radar
+    *   Borrowed from the Boys
     *   Throwback Tees
     *   Brooklyn Calling
     *   Free State
-    *   On Your Radar
     *   Uniform
     *   Online Only
     *   Extended Sizes
@@ -90,6 +95,8 @@ Aéropostale
 *   Room
     
     *   SHOP BY ROOM
+    *   Cozy Cabin Room
+    *   Metallic Moment Room
     *   Bethany's Dreamweaver Room
     *   Touch of Whimsy Room
     *   Lofty Ideals Room
