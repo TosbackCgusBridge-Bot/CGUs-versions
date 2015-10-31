@@ -1,30 +1,20 @@
-*   Products
-    *   Mobile CRM app
-    *   Mobile CTI
-    *   Support
-*   Enterprises
-*   Partners
-*   Telcos
-*   Company
+*   CRM
+*   TELCOS
+*   COMPANY
     *   About
     *   Blog
     *   Jobs
-    *   Support
     *   Contact
+*   SUPPORT
 
-*   Products
-    *   Mobile CRM app
-    *   Mobile CTI
-    *   Support
-*   Enterprises
-*   Partners
-*   Telcos
-*   Company
+*   CRM
+*   TELCOS
+*   COMPANY
     *   About
     *   Blog
     *   Jobs
-    *   Support
     *   Contact
+*   SUPPORT
 
 Privacy Policy 1. Data Collection, Processing and Use
 
@@ -88,11 +78,11 @@ Do you like Phonedeck? Try it right now for free! Get 30 days trial! Menu
 
 Recent Blog Posts
 
+*   Phonedeck shortlisted for BT Hackathon Award 2015! Vote now! October 8, 2015
+*   Phonedeck at BT Hackathon London 2015 September 29, 2015
 *   How to improve business process efficiency with enterprise mobility July 7, 2015
 *   Phonedeck is hiring – Senior Fullstack Software Engineer July 1, 2015
 *   Phonedeck’s partner Alcatel-Lucent awarded by GSMA March 9, 2015
-*   How to adopt mobility in your organization February 25, 2015
-*   Productivity is about daily task management February 11, 2015
 
 Phonedeck Newsletter Email Address\* First Name\* Last Name\* Company \* = required field About Phonedeck
 
