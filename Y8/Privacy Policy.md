@@ -2,13 +2,15 @@ GAMES AT Y8.COM. PLAY OVER 50.000+ FREE ONLINE GAMES ON Y8.COM
 
 Play any type of Game at Y8.com. The biggest Game Collection to play free online. Flash, Unity 3D, Html5, Android, Java and Shockwave.
 
-*   My games ()
-*   My Profile
+*   Your Score:
+*   My games () / My Profile
 *   Log out
+*   powered
 
+*   Your Score:
 *   Not logged in.
-*   Log in
-*   Register
+*   Log in / Register
+*   powered
 
 Parental control
 
@@ -31,7 +33,7 @@ Parental control
 *   Arcade &. Classic games
 *   Fun/Crazy games
 *   View All  
-    356 Tags
+    360 Tags
 
 PRIVACY POLICY
 
