@@ -1,5 +1,14 @@
- 
+  GO
 
+Your location cannot be displayed.
+
+Please try your search again.
+
+Your location cannot be displayed.
+
+To connect with Subaru of Hawaii, please click here
+
+*   Your Location: Enter ZIP
 *   For Owners
 *   Customer Support
 *   Search
@@ -11,16 +20,7 @@
 *   Build Your Own
 *   Find a Retailer
 
-GO
-
-Your location cannot be displayed.
-
-Please try your search again.
-
-Change
-
-Visit Retailer Site View special offers, browse  
-inventory and more. See All Vehicles Find Your Subaru See All Vehicles BRZ $25,395 starting price 2016 BRZ
+See All Vehicles Find Your Subaru See All Vehicles BRZ $25,395 starting price 2016 BRZ
 
 Starting at
 
@@ -137,7 +137,7 @@ Up to
 *   Compare
 *   Build Your Own
 
-XV Crosstrek Hybrid Shown
+Crosstrek Hybrid Touring Shown
 
 Outback $24,995 starting price 2016 Outback
 
