@@ -36,8 +36,8 @@ Menu Explore HSBC.com Search
         *   Country contacts
     *   Awards
         
-    *   Advertising expandAdvertising
-        *   In the future
+    *   Advertising
+        
     *   Sponsorship expandSponsorship
         *   Golf
         *   Rugby
