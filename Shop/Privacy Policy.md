@@ -20,13 +20,13 @@ LENOVO Menu
         8.  Deals for Students and Educators
         9.  Outlet
         10.  Warranty-Sale
-    *   Cool Deals. Refreshing Prices On Top Models.
+    *   Early black Friday Sale Big Savings. No Waiting.
         
-        Save up to 42% Site-Wide.
+        Save up to 44% Site-Wide.
         
-    *   HORIZON 2s 2-IN-1 PC 2 modes in 1, built to bring together.
+    *   Need it Quick?
         
-        Enjoy 35% savings.
+        We have prebuilt models of our most popular PCs in stock and ready to ship!
         
     *   Lenovo Preferred Card The Best Offers with Instant and Affordable Financing.
         
@@ -73,6 +73,7 @@ LENOVO Menu
 *   For Work
     *   Small Business
     *   Large Enterprise
+    *   Health
     *   Government
     *   K-12 Education
     *   Higher Education
@@ -333,9 +334,8 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Home &. Home Office
     *   Small Business Store
     *   Large Enterprise
-    *   State &. Local Government
-    *   Federal Government
-    *   Healthcare
+    *   Government
+    *   Health
     *   K-12 Education
     *   Higher Education
     *   Students
