@@ -104,6 +104,7 @@ Our Websites typically collect two (2) kinds of information about you: (a) infor
 *   Twitter
 *   LinkedIn
 *   Rss Feed
+*   Instagram
 
 *   Privacy Policy
 *   :
