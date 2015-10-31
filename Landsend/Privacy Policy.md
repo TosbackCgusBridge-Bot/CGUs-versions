@@ -21,13 +21,13 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Back to Women Featured Shops
             *   Outerwear Shop
             *   Cardigan Shop
+            *   Best of Holiday 2015
             *   Tunic Shop
-            *   Wear to Work
             
             *   New Arrivals
-            *   Best of Fall 2015
+            *   The Starfish Collection
             *   Outerwear Guide
-            *   Activewear Collection
+            *   Turtleneck Shop
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
@@ -60,7 +60,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Men Featured Shops
             *   Outerwear Guide
-            *   Jeans Guide
+            *   Hats, Gloves &. Scarves
             *   No Iron Shop
             *   Supima Shirts &. Sweaters
             
@@ -98,6 +98,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Kids Featured Shops
             *   Outerwear Shop
+            *   Holiday Dressing
             *   School Uniforms
             *   Shoes &. Boots
             
@@ -175,7 +176,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Supima Bedding &. Bath
             *   Flannel Bedding
             *   No Iron Bedding
-            *   Christmas Shop
+            *   Holiday Shop
             *   Sale
     *   *   Bedding
             *   Back to All Home Bedding
@@ -210,8 +211,9 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Find Your School
             *   After School
             
-            *   Polos that Perform
+            *   Best-in-Class Polos
             *   Iron Knee Pants
+            *   Winter Layers
             *   Phys Ed Locker Room
             *   Sale
         *   Shop By Age Range
@@ -224,6 +226,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Adult
     *   *   Girls &. Women
             *   Back to Uniforms Girls &. Women
+            *   Outerwear
             *   Tops
             *   Sweaters
             *   Pants
@@ -231,18 +234,17 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Dresses &. Jumpers
             *   Skirts &. Skorts
             *   Activewear
-            *   Outerwear
             *   Shoes
             *   Accessories
             *   Backpacks &. Bags
     *   *   Boys &. Men
             *   Back to Uniforms Boys &. Men
+            *   Outerwear
             *   Tops
             *   Sweaters
             *   Pants
             *   Shorts
             *   Activewear
-            *   Outerwear
             *   Shoes
             *   Accessories
             *   Backpacks &. Bags
@@ -275,7 +277,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   For Home
         *   For Dog
         
-        *   Christmas Shop
+        *   Holiday Shop
         *   Stockings &. Stuffers
         *   Personalized Gifts
         *   Gift Cards
