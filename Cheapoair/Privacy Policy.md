@@ -1,13 +1,18 @@
-   Privacy Policy (Effective Date: 08/05/2015) Introduction   **CheapOair is Strongly Committed to Protecting Your Privacy**
+   Privacy Policy (Effective Date: 10/29/2015)   **Introduction**
 
-CheapOair (collectively, "We", "Us", or "Our") has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with Truste's program requirements including transparency, accountability and choice regarding our collection and use of personally identifiable information, as defined below, and other information about you. This Privacy Policy and the TRUSTe program covers only information that is collected through this website, www.CheapOair.com, and the CheapOair mobile applications (collectively, the "Sites"). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.  
+The following describes the Privacy Policy (as amended from time to time, the "Privacy Policy") applicable to the information collected through the CheapOair.com website, the CheapOair.com mobile website, our iPhone, Android and other mobile applications and any other online communications and interfaces from CheapOair (the "Site" or "Sites").
+
+  
+**CheapOair is Strongly Committed to Protecting Your Privacy**
+
+At CheapOair ("We", "Us", or "Our"), we value your trust. That is why we would like you to know what information about you may be collected when you use our Sites. We also want to make sure you understand how your information is protected and how it may be used.  
   
 Please read this privacy policy ("Privacy Policy") to learn about our information collection and dissemination practices in connection with the sites. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update it. By reviewing our Privacy Policy, agreeing to our Terms &. Conditions and/or by visiting any portion of the Site you agree to the practices described herein. If you do not agree to this Privacy Policy, you should not use the Sites.  
   
-If you have questions or concerns regarding our Privacy Policy, you should first contact customer service at feedback@CheapOair.com. If you do not receive acknowledgement of your inquiry within 10 business days or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at //watchdog.truste.com/. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding our Privacy Policy, you should contact our customer service at feedback@CheapOair.com.
 
-  
-Information CheapOair Collects from You
+Return to Top  
+**Information CheapOair Collects from You**
 
 We receive, use and store information you provide to us while visiting Sites, including any information that can be used to personally identify you ("personally identifiable information" or "PII"). Such information may include your first and last name, your physical address, e-mail address, date of birth, geo-location, telephone number, and your billing information (including cardholder name, credit card number and expiration date).  
   
@@ -21,17 +26,17 @@ We collect your location-based information for the purpose of customizing your e
   
 We may share your geo-location data with third parties for the purpose of them serving you ads for places (such as restaurants) in your area. If you do not wish to allow us to share your information in this manner please opt-out by contacting us at feedback@cheapoair.com.  
   
-You may opt-out of location based services at any time by editing the setting at the device level or by emailing us at feedback@cheapoair.com.
+You may opt-out of location based services at any time by editing the setting at the device level or by emailing us at feedback@CheapOair.com.
 
-  
-How CheapOair Uses Your PII
+Return to Top  
+**How CheapOair Uses Your PII**
 
 CheapOair uses and stores sensitive personally identifiable information such as financial information (credit card number, cardholder's name, and expiration date), postal and billing address, provided to us through our website, mobile application or in any other way for billing purposes, to fulfill your orders and as otherwise described in this Privacy Policy. We use your other personally identifiable information for the following general purposes: (i) to provide you with travel services or other products that you purchase from us, or to fulfil the purpose for which you provide it (ii) to send your itinerary confirmation, vouchers, or service related notifications, (iii) to communicate with you as our customer, (iv) to provide you with special offers regarding products or services that may be of interest to you from our agents, service providers or marketing partners, (v) to solicit information from you, (vi) to resolve any disputes, collect any due fees, (vii) to enforce our Terms and Conditions, (viii) to prevent or recover any potential or actual losses resulting from or related to any suspect criminal activity including but not limited to fraud or identity theft, (ix) to improve our website and services, (x) for any purpose disclosed by us to you at the time your personally identifiable information is collected, and (xi) as further disclosed in this Privacy Policy.  
   
 Other than described in this Privacy Policy, CheapOair does not sell, trade, or rent your personally identifiable information to third parties without your prior consent.
 
-  
-E-mail Communications and Newsletters
+Return to Top  
+**E-mail Communications and Newsletters**
 
 From time to time, we may notify you via email newsletter of any changes or additions to the Sites, and new offers and products from third parties that may be of interest to you. You may opt-out from our email newsletter by following the unsubscribe instructions in any email newsletter you receive from us.  
   
@@ -39,8 +44,8 @@ We will send you push notifications if you opt-in to receive them to announce sp
   
 Other sites accessible through links on the Sites have their own privacy policies and data collection practices. Please consult each site's Privacy Policy before providing your personally identifiable information. CheapOair is not responsible for the actions of websites whose links are accessible through our Sites or any actions of third parties that are not under CheapOair's exclusive control.
 
-  
-With Whom CheapOair May Share Your PII
+Return to Top  
+**With Whom CheapOair May Share Your PII**
 
 Other than in the cases set forth in this Privacy Policy, you will be notified when personally identifiable information about you will be shared with third parties, and you will have an opportunity to choose not to have us share such information:
 
@@ -71,7 +76,7 @@ We may use Local Storage (LS) such as HTML5. Third parties with whom we partner 
   
 If you reject cookies, you may still use the Sites, but your ability to use some features or areas of our Sites may be limited.  
   
-We partner with third parties to either display advertising on our Web site or to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on our Sites and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served generic ads. You will continue to receive generic ads.
+We partner with third parties to either display advertising on our Web site or to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on our Sites and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here and following the opt-out process. Please note this does not opt you out of being served generic ads. You will continue to receive generic ads.
 
 Return to Top  
 **Mobile Analytics** We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile app. Return to Top  
