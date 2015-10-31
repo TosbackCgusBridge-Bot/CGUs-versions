@@ -14,10 +14,6 @@ E-mail
 
 When you ask us to send you recipes, cooking ideas, or other content by e-mail, you may provide us with certain information like your e-mail address so we can fulfill your request.
 
-Kraft First Taste
-
-If you sign up through Kraft First Taste, we may ask you for certain information so we can provide you with the communications and offers you requested, including communications about new products and services.
-
 Ratings and Other Interactive Features
 
 When you participate in certain interactive features on our site, such as using our recipe exchange, recipe ratings and product ratings and reviews, you may submit information and content, such as recipes, ratings, comments, pictures, etc. to the site. You may also provide us with certain information like your e-mail address, nickname, city and state of residency. We may use this information to contact you about the content you have provided or to post with your content. Remember that what you post or upload to the site will be publicly available, so please exercise caution when deciding whether to disclose anything personal about yourself. Kraft cannot control the actions of third parties who may view the website and use publicly-available information for their own purposes.
