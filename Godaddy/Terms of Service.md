@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: October 22, 2015**
+**Last Revised: October 30, 2015**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -264,6 +264,8 @@ _**(C) PAY BY CHECK (ELECTRONIC CHECK)**_
 By using GoDaddy’s pay by check option (“Pay By Check”), you can purchase GoDaddy Services using an electronic check (from your personal or business checking account, as appropriate). In connection therewith, you agree to allow Certegy Check Services, Inc. (“Certegy”) to debit the full amount of your purchase from your checking account (“Checking Account”), which is non-refundable. Certegy will create an electronic funds transfer (“EFT”) or bank draft, which will be presented to your bank or financial institution for payment from your Checking Account. The Checking Account must be at a financial institution in the United States, and the check must be payable in U.S. dollars.
 
 It is your responsibility to keep your Checking Account current and funded. You acknowledge and agree that (i) Certegy reserves the right to decline a transaction for any reason (including, but not limited to, payments that fail to go through as a result of your Checking Account no longer existing or not holding available/sufficient funds) and (ii) in such event, neither Certegy nor GoDaddy shall be liable to you or any third party regarding the same.  If for any reason Certegy is unable to withdraw the full amount owed for the Services provided, you agree that Certegy and GoDaddy may pursue all available lawful remedies in order to obtain payment (plus applicable fees).  GoDaddy is not responsible for the actions of Certegy.  You agree that if the EFT or bank draft is returned unpaid, you will pay a service charge in accordance with the fees provided below, or as otherwise permitted by law. These fees may be debited from your Checking Account using an EFT or bank draft.  All fees are in U.S. Dollars.
+
+GoDaddy and its service providers, including but not limited to Certegy Check Services, Inc. and Complete Payment Recovery Services, Inc., may provide you with notices, including those regarding changes to these terms of service, including by, but not limited to, email, regular mail, SMS, MMS, text message, postings on the services, or other reasonable means now known or hereafter developed. Such notices may not be received if you violate these terms of service by accessing the services in an unauthorized manner. Your agreement to these terms of service constitutes your agreement that you are deemed to have received any and all notices that would have been delivered had you accessed the services in an authorized manner. You further expressly authorize GoDaddy and its Service Providers, including but not limited to Certegy Check Services, Inc. and Complete Payment Recovery Services, Inc., and their affiliates to contact you, via auto-dialer, pre-recorded messages, or any other method, on any of your mobile phone numbers or emails. You further acknowledge that email addresses you provide are not shared, accessed by others and are not employer-related email addresses.
 
 **United States, including District of Columbia**:
 
@@ -782,5 +784,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 10/22/15  
+Revised: 10/30/15  
 Copyright © 2005-2015 GoDaddy.com, LLC All Rights Reserved.
