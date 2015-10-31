@@ -7,15 +7,12 @@
     *   TV Schedule
 *   celebrity
     *   News
-    *   Big Morning Buzz Live
-    *   The Gossip Table
 *   music
     *   News
-    *   Storytellers Live
+    *   Big Music In 2015
     *   The 20
     *   VH1 Classic
     *   VH1 Soul
-    *   Vh1 You Oughta Know
     *   Artists A-Z
 *   news
 *   shop
