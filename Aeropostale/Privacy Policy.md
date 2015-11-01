@@ -12,6 +12,7 @@ Aéropostale
     *   Meet the Atomics
     *   On Your Radar
     *   Cold Weather
+    *   Borrowed from the Boys
     *   Tokyo Darling
     *   Throwback Tees
     *   Uniform
@@ -58,7 +59,6 @@ Aéropostale
     *   Corny Christmas
     *   Meet the Atomics
     *   On Your Radar
-    *   Borrowed from the Boys
     *   Throwback Tees
     *   Brooklyn Calling
     *   Free State
