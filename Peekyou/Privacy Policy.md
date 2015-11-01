@@ -77,7 +77,7 @@ Facebook Twitter Pinterest Wikipedia Instagram Google+ Linkedin Foursquare Music
 
 *   Supergirl to Take Off
     
-      We’re excited for tonight’s launch of a new series chronicling the ongoing trials of our favorite aliens, the Kryptonians.  Af…
+    We’re excited for tonight’s launch of a new series chronicling the ongoing trials of our favorite aliens, the Kryptonians.  After so…
     
     Read More
 
