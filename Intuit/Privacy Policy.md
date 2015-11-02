@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14040902701
+true true L14132429771
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Sat Oct 31 11:23:15 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Sun Nov 01 11:30:25 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,55 +48,35 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Take Your Pick Online Only | Ends October 31 | Online Code: SCARIEST
-
-Extra 31% Off\* $100 or More, select styles
-
-Or, Extra 25% Off\* select styles
-
-\*Get detailsPlus Free Shipping Anywhere Over $49
-
-No Code Required
-
-Get details and exclusions Super Saturday Sale In Store and Online Shop Super Saturday Sale Now
-
-Extra 25% Off\* | Use Code: 2BHAPPY
-
-Or, $10 Off $25 or More\* | Use Code: SHOPNOW3
-
-\*Exclusions and Details Get Store CouponNight and Day Doorbusters
-
-All Day Friday through Saturday 1pm CDT. Use your coupon to save even more!
-
-Shop Doorbusters Now Curtains, Drapes and More On Sale! 30 to 50% Off Home Collections
+Refresh Your Space With Comforters and Bedding 30 to 50% Off Home Collections
 
 Select styles
 
-Shop Curtains and Drapes Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage Coats, Hats, Gloves and Scarves For Men, Women and Kids 40 to 50% Off Coats, Hats, Gloves and Scarves For The Family
+Shop Comforters Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage Coats, Hats, Gloves and Scarves for Men, Women and Kids 40 to 50% Off Coats, Hats, Gloves and Scarves For The Family
 
 Select styles
 
-Shop Outerwear For The Family Shop Girls Outerwear Shop Boys Outerwear Shop Women's Outerwear Shop Men's Outerwear Boots and Booties On Sale Now! 20 to 50% Off Boots For Her
+Shop Coats, Hats, Gloves and Scarves For The Family Women's Sweaters From Your Favorite Brands 40% Off Sweaters For Her from A.N.A, Stylus and St. John's Bay
 
 Select styles
 
-Shop Boots Shop Wide-Calf Boots Save On Workout Clothes For The Family 40 to 50% Off Xersion For The family
+Shop Sweaters For Her Women's Boots On Sale 49.99 Tall Boots For Her
 
 Select styles
 
-Shop Women Shop Men Shop Boys Shop Girls         SportsFanShop
+Shop Tall Boots For Her Shop Wide-Calf Boots $15 Perk Rewards For Shoes Get details: Gifts For The Whole Family Where Giving Begins
+
+Gifts they want. Savings you love.
+
+Shop All Gifts SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop Now Shop For Good
+Shop SportsFanShop Star Wars™ Shop Star Wars Now JCPenney | portraits
 
-Plus round up your October purchases to the nearest dollar to supposrt breast cancer research and awareness.
+Holiday Memories -- 40% Off Photo Purchase
 
-Shop For Good Now Fairest Event Of Them All
-
-Disney Collection
-
-Shop Now Download the JCPenney App and Get Shopping Check out the app: Download on the AppStore Get it on Google play
+Shop Portraits Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
