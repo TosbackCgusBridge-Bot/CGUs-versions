@@ -115,6 +115,7 @@ Legal Notices &. Trademarks
 *   Autodesk Subscription and Support Terms and Conditions
 *   Software License Agreements
 *   Terms of service: A360 and other web services
+*   Terms of Service: Autodesk Digital Distribution Web Services
 *   Code of Business Conduct
 *   Partner Code of Conduct
 *   Autodesk Terms and Conditions Governing the Provision of Consulting Services
