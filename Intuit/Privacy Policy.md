@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14132429771
+true true L14137531649
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Sun Nov 01 11:30:25 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p05.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Mon Nov 02 11:32:31 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,23 +48,35 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Refresh Your Space With Comforters and Bedding 30 to 50% Off Home Collections
+2 Days Only Online Only | Ends November 3 | Code: SAVALOT \*See offer exclusions and details:
+
+50% Off\* select orig and reg-priced items
+
+Shop Bedding and Bath Shop Window Shop Gold Jewelry Shop Silver Jewelry
+
+40% Off\* select orig and reg-priced items
+
+Shop Home Decor Shop Furniture and Mattresses Shop Diamond Jewelry Shop Gemstone Jewelry
+
+30% Off\* select orig and reg-priced items
+
+Shop Kitchen and Dining Shop Storage and Organization Shop Vacuums and Floorcare Shop Custom Blinds and Shades
+
+Extra 20% Off\* select orig, reg, sale and clearance-priced items
+
+Shop Men Shop Women Shop Kids Shop Shoes Shop Fashion Jewelry Shop Watches Shop Online Clearance Women's Sweaters From Your Favorite Brands 40% Off Sweaters For Her from A.N.A, Stylus and St. John's Bay
 
 Select styles
 
-Shop Comforters Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage Coats, Hats, Gloves and Scarves for Men, Women and Kids 40 to 50% Off Coats, Hats, Gloves and Scarves For The Family
+Shop Sweaters For Her Women's Boots On Sale 49.99 Tall Boots for Her
 
 Select styles
 
-Shop Coats, Hats, Gloves and Scarves For The Family Women's Sweaters From Your Favorite Brands 40% Off Sweaters For Her from A.N.A, Stylus and St. John's Bay
+Shop Tall Boots for Her Shop Wide-Calf Boots$15 Perk Rewards for Shoes Get details: Save On Pajamas for Men, Women and Kids 40 to 50% Off Sleepwear For The Family
 
-Select styles
+Select Styles
 
-Shop Sweaters For Her Women's Boots On Sale 49.99 Tall Boots For Her
-
-Select styles
-
-Shop Tall Boots For Her Shop Wide-Calf Boots $15 Perk Rewards For Shoes Get details: Gifts For The Whole Family Where Giving Begins
+Shop Sleepwear For The Family Gifts For The Whole Family Where Giving Begins
 
 Gifts they want. Savings you love.
 
@@ -74,9 +86,9 @@ Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 
 
 Shop SportsFanShop Star Wars™ Shop Star Wars Now JCPenney | portraits
 
-Holiday Memories -- 40% Off Photo Purchase
+Holiday Memories - 40% Off Photo Purchase
 
-Shop Portraits Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop Portraits Now Download the JCPenney App and Get Shopping Check out the app: Download on the AppStore Get it on Google play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
