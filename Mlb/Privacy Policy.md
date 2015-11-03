@@ -79,11 +79,10 @@ Sections Scores News Video Stats Standings Schedule Players Postseason Tickets A
     *   Spring Training Standings
     *   Tiebreaker rules
 *   Schedule Schedule Schedule
-    *   2015 Regular Season
     *   2016 Regular Season
+    *   2015 Postseason
     *   Important Dates
     *   Team-by-Team Schedule
-    *   2015 Postseason
     *   National Broadcasts
     *   Probable Pitchers
     *   MLB Singles
@@ -93,11 +92,11 @@ Sections Scores News Video Stats Standings Schedule Players Postseason Tickets A
     *   Depth Charts
     *   Transactions
     *   Top Prospects
-    *   Interactive All-Star rosters
+    *   Hot Stove Tracker
     *   Mobile Player Alerts
     *   MLB Players Association
     *   Probable Pitchers
-    *   Franchise Four
+    *   Franchise FourHot Stove Tracker
 *   Postseason Postseason Postseason
     *   2015 Postseason Schedule
     *   WorldSeries.com
@@ -150,8 +149,7 @@ Sections Scores News Video Stats Standings Schedule Players Postseason Tickets A
     *   Jerseys
     *   Photos
 *   MLB.TV MLB.TV MLB.TV
-    *   Buy MLB.TV Postseason (U.S.)
-    *   Buy MLB.TV Postseason (International)
+    *   Buy MLB.TV (Offseason)
     *   Watch/Listen
     *   Alternative Audio
     *   MLB.TV with Extra Innings
@@ -164,6 +162,7 @@ Sections Scores News Video Stats Standings Schedule Players Postseason Tickets A
     *   Contact Us
 *   Fantasy Fantasy Fantasy
     *   Postseason Showdown
+    *   Free Agent Frenzy
     *   R.B.I. Baseball 15
     *   MLB.com Home Run Derby
     *   MLB Ballpark Empire
@@ -174,7 +173,7 @@ Sections Scores News Video Stats Standings Schedule Players Postseason Tickets A
     *   WGT Baseball: MLB
     *   Prospect Watch
     *   Fantasy 411 Blog
-    *   Follow @Fantasy411Postseason Showdown MLB.com Home Run Derby R.B.I. Baseball 15
+    *   Follow @Fantasy411MLB.com Home Run Derby R.B.I. Baseball 15
 *   Teams Teams American League AL East
     
     *   Baltimore
