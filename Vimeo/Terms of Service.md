@@ -171,10 +171,7 @@ All pictures, graphics, videos, and other visual media displayed on the Vimeo Se
 
 **NOTICES:** You consent to receive all communications including notices, agreements, disclosures, or other information from Vimeo electronically. Vimeo may provide all such communications by email or by posting them on the Vimeo Service. For support-related inquiries, you may contact us. You may send notices of a legal nature to Vimeo at legal\[at\]vimeo\[dot\]com or the following address:
 
-> Vimeo, LLC  
-> 555 West 18th Street  
-> New York, New York 10011  
-> Attention: Legal Department
+> Vimeo, LLC 555 West 18th Street New York, New York 10011 Attention: Legal Department
 
 Nothing herein shall limit Vimeo's right to object to subpoenas, claims, or other demands.
 
