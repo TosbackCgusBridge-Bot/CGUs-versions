@@ -1,7 +1,3 @@
-ONLINE ONLY!EXTRA 20% OFF + FREE SHIPPING ON ORDERS OF $75USE CODETREATGirls   Guys   Room
-
-DETAILS
-
 Aéropostale
 
 *   Girls
