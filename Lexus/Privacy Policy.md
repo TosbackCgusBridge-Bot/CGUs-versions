@@ -85,15 +85,15 @@ COMPARE **NX**
 
 **RX**
 
-*   Starting at $40,970\*
-*   270-hp 3.5L V6
+*   Starting at $41,900\*
+*   295-hp 3.5L V6
 
 *   Build
 *   Current Offers
 
 **RX HYBRID**
 
-*   Starting at $47,620\*
+*   Starting at $52,235\*
 *   30-MPG combined rating\*
 
 *   Build
@@ -119,7 +119,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **RC**
 
-*   Starting at $42,790\*
+*   Starting at $39,995\*
 *   306-hp\* 3.5L V6
 
 *   Build
@@ -127,7 +127,7 @@ COMPARE **RC**
 
 **RC F**
 
-*   Starting at $62,400\*
+*   Starting at $62,805\*
 *   467-hp\* 5.0L V8
 
 *   Build
@@ -161,7 +161,7 @@ COMPARE **CT HYBRID**
 
 **RX HYBRID**
 
-*   Starting at $47,620\*
+*   Starting at $52,235\*
 *   32/28 CITY/HWY MPG\*
 
 *   Build
@@ -195,7 +195,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **RC F**
 
-*   Starting at $62,400\*
+*   Starting at $62,805\*
 *   467 hp\*
 
 *   Build
@@ -213,11 +213,7 @@ COMPARE **RC F**
 
 SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
-COMPARE **RX**
-
-*   ARRIVING LATE 2015
-
-**GS F**
+COMPARE **GS F**
 
 *   ARRIVING LATE 2015
 
@@ -232,6 +228,10 @@ COMPARE **RX**
 **LF-SA**
 
 *   CONCEPT VEHICLE
+
+**LF-FC**
+
+*   Concept Vehicle
 
 *   sedans
     
