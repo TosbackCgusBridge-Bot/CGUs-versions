@@ -7,7 +7,7 @@ Skip to Content CloseSony Sites About SONY SONY DESIGN Playstation® Sony Profes
 
 SONY search
 
-*   Favourites
+*   Favorites
 
 Electronics
 
@@ -36,7 +36,7 @@ PlayMemoriesSpark your imagination &. find new ways to enjoy your photos. Explor
 *   Entertainment
 *   Support
 
-*   Favourites
+*   Favorites
 *   Search
 *   Sony Sites
 
@@ -53,36 +53,6 @@ Close
 *   Copy URL to share
 
 Learn More
-
-Revive the Brotherhood in Assassin's Creed Syndicate
-
-Play PS4™ Exclusives
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play PS4™ Exclusives
-
-Sony on Instagram
-
-Pocket-Size Powerhouse
-
-See the RX100 IV
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-See the RX100 IV
 
 "SPECTRE" in Theaters November 6
 
@@ -102,87 +72,47 @@ Sony on YouTube
 
 Play Video
 
+Get More From Your Smartphone
+
+Switch to Xperia
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Switch to Xperia
+
+Find Moneypenny's Assailants
+
+Play Game
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Game
+
 Sony on Twitter
 
-Track your activities even if you don’t have your phone with you. #SmartBand2
+Slow down the action with technology that's #MadeForBond: http://www.sony.com/madeforbond
 
-2015-10-31 02:50:59+00:00
+2015-11-03 08:10:01+00:00
 
 View Tweet
-
-Fast Focus for Fleeting Moments
-
-Try the Z5
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Try the Z5
-
-Watch "Goosebumps" Stories Come Alive on the Big Screen
-
-Find Tickets
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-Add a Little Horror to Your Halloween
-
-See PS4™ Games
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-See PS4™ Games
 
 Sony on Instagram
 
-Hear Terrifying Tunes
+The Perks of a Pro Camera in a Small Package
 
-Start Streaming
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Start Streaming
-
-Sony on Twitter
-
-Just added to the PlayStation Gear Store: the Traveler's scarf from Journey! Get it here: www.gear.playstation.com
-
-2015-10-31 04:27:55+00:00
-
-View Tweet
-
-The Perfect Accessory for a Human—or a Werewolf
-
-Check Out the SmartWatch 3
+Check Out the RX100 IV
 
 Close
 
@@ -192,133 +122,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Check Out the SmartWatch 3
-
-Full-Frame Power in a Palm-Size Package
-
-Check Out the RX1R II
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Check Out the RX1R II
-
-Take Gaming On the Go
-
-Get a PS Vita
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Get a PS Vita
-
-Sony on Instagram
-
-Sony on Twitter
-
-@CageTheElephant dropped #MessAround – the 1st single from the new album #TellMeImPretty! Listen on @Vevo: www.vevo.com
-
-2015-10-31 03:55:02+00:00
-
-View Tweet
-
-Scroll Through Blu-rays™ on Your PS4™
-
-With a Universal Remote
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-With a Universal Remote
-
-Our Thinnest 4K TV Ever
-
-See the X900C
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-Does Music Inspire Your Creativity?
-
-Find the Perfect Sound
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Find the Perfect Sound
-
-See How "Pixels" Was Made
-
-On the Blu-ray™
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-Sony on Instagram
-
-Sony on Twitter
-
-Here's November's PS Plus lineup! Featuring The Walking Dead Season Two &. Magicka 2 www.blog.us.playstation.com
-
-2015-10-31 02:33:33+00:00
-
-View Tweet
-
-5 Essential Camera Settings
-
-For Better Photos
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-For Better Photos
+Check Out the RX100 IV
 
 Relive All of the Action
 
@@ -334,9 +138,9 @@ Close
 
 Get Details
 
-New Music From Adele
+High-Res Tunes, To Go
 
-Watch Video
+Learn More
 
 Close
 
@@ -346,21 +150,49 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Watch Video
+Learn More
 
 Sony on Instagram
 
 Sony on Twitter
 
-Upgrade the way you train with the Sony Smart B-Trainer. www.sony.net
+Get every @BobDylan note recorded between '65 and '66 in the #CuttingEdge Collector's Edition out Nov 6!
 
-2015-10-31 01:22:49+00:00
+2015-11-03 19:53:11+00:00
 
 View Tweet
 
-Rocket League Brought to Life by Remote Play
+Ultra-Slim Sound Bar + Wireless Subwoofer =
 
-Game Everywhere
+Stylish Home Audio
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Stylish Home Audio
+
+4K Makes Everything Look LIke a Work of Art
+
+Elevate Your TV
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Elevate Your TV
+
+All of the Classic Uncharted Moments, Now on PS4™
+
+Get the Nathan Drake Collection
 
 Close
 
@@ -376,23 +208,9 @@ Sony on YouTube
 
 Play Video
 
-4K Movie Projector
+For the Ultimate Call of Duty Fans
 
-Upgrade Now
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Upgrade Now
-
-Enter the 2016 Sony World Photography Awards
-
-Learn About Contest
+Pre-Order PS4™
 
 Close
 
@@ -402,7 +220,185 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Learn About Contest
+Pre-Order PS4™
+
+Sony on Instagram
+
+Turn Any Room Into
+
+a Game Room
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+a Game Room
+
+Sony on Twitter
+
+Call of Duty: Black Ops III launches this Friday. Are you ready?
+
+2015-11-03 18:54:45+00:00
+
+View Tweet
+
+3 Different Campaigns, 1 New Call of Duty
+
+Play It Day One
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play It Day One
+
+New Music From Adele
+
+Watch Video
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Watch Video
+
+Sony on Twitter
+
+MT @HelloVancity Wow! Amazing! @NitroCircus @TravisPastrana @sony\_canada @Actioncam #NitroCircus
+
+2015-11-03 18:00:20+00:00
+
+View Tweet
+
+Sony on Instagram
+
+"Truth," Starring Robert Redford &. Cate Blanchett
+
+Learn More
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Got Tickets for "SPECTRE"?
+
+Earn Rewards
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Earn Rewards
+
+Hear Music That Inspires Your Creativity
+
+Find the Perfect Sound
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Find the Perfect Sound
+
+Fast Autofocus for the Perfect Shot
+
+See the a6000
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+See the a6000
+
+Old Dominion's "Break Up With Him"
+
+Hear More Music
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Sony on Twitter
+
+Get a behind-the-scenes look at @IAmBeckyG’s latest video, #BreakASweat, now on @Vevo
+
+2015-11-03 03:07:01+00:00
+
+View Tweet
+
+Smarter Tracking for a
+
+Healthier Life
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Healthier Life
+
+Sony on Instagram
+
+Sync the App With the Show
+
+Play Today
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Today
 
 Load More
 
