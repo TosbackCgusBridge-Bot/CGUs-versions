@@ -40,7 +40,7 @@ PlayMemoriesSpark your imagination &. find new ways to enjoy your photos. Explor
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! Watch Moneypenny Pick Up Bond's Latest Gear
+Your browser does not support JavaScript! Made for Bond Watch Moneypenny Pick Up Bond's Latest Gear
 
 Learn More
 
@@ -190,9 +190,9 @@ Close
 
 Elevate Your TV
 
-All of the Classic Uncharted Moments, Now on PS4™
+Customize Your PS4™ With a "SPECTRE" Theme
 
-Get the Nathan Drake Collection
+Go To PlayStation Store
 
 Close
 
@@ -202,11 +202,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Play Video
-
-Sony on YouTube
-
-Play Video
+Go To PlayStation Store
 
 For the Ultimate Call of Duty Fans
 
