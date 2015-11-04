@@ -12,7 +12,7 @@ Our Mobile Application
 
 This Privacy Policy describes our practices related to the use, storage and disclosure of information we collect from or about you in the course of providing commercial air travel services through our Fly Delta App.  For policies related to your use of our Website, visit delta.com.   Delta reserves the right to modify this Privacy Policy at any time and without prior notice. The privacy policy link within the App will point your device to our most current policy, so please check regularly for the most recent version of our Privacy Policy. This Privacy Policy is not a contract and does not create any legal rights or obligations.
 
-Expand All
+Privacy and Security Expand All Privacy and Security
 
 *   Information About You (information you type in)
     
