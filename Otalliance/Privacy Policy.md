@@ -96,17 +96,25 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Nov 3, 2015 Return Path World Tour 2015 - San Francisco Wed, Nov 4, 2015 IoT Trust Framework and security best practices based on GlobalSign’s identity and security solutions
+Wed, Nov 4, 2015 IoT Trust Framework and security best practices based on GlobalSign’s identity and security solutions
 
 GlobalSign, a leading provider of identity and security solutions for the Internet of Everything (IoE), and the Online Trust Alliance (OTA), a non-profit with the mission to enhance online trust, invite you to attend our webinar, Capturing the new value propositions of privacy, trust, and security in IoT.  Recognizing a need for privacy and security best practices for the growing number of consumer IoT devices, the OTA established the IoT Working Group in January which recently released a draft Internet of Things Trust Framework.
 
-Thu, Nov 5, 2015 Return Path World Tour 2015 - Los Angeles Wed, Nov 11, 2015 14th annual Seattle SecureWorld Conference
+Wed, Nov 11, 2015 14th annual Seattle SecureWorld Conference
 
 SecureWorld's programs are created to tackle the complexities of cybersecurity with solution-oriented education. The conference will provide networking opportunities designed for IT and security professionals. OTA is proud to be an association sponsor and speaker since 2012.  Take advantage of our event discounts  by using the following codes:
 
 SEA4P for $200 off the SecureWorld Plus Pass  
 SEA4 for $100 off the Conference Pass  
 SEA4E for $25 off the Open Sessions Pass - (Lunch &. CPE's not included)
+
+Mon, Nov 16, 2015 DC Salon Dinner &. Reception - Cross Device Tracking &. IoT
+
+Join OTA, Congresswoman Suzan DelBene (Washington), Daniel Kaufman, Deputy Director for the FTC’s Bureau of Consumer Protection and others discuss the evolving world of privacy, and the challenges and opportunities of the cross device tracking and  "Internet of Things."  This off-the-record dinner is a unique opportunity for invited guests to discuss the world of big data, the role of innovation and the impact on consumer trust and confidence. Attend to get an insider’s view on trends, threats and opportunities.
+
+Tue, Nov 17, 2015 OTA Annual Member Meeting
+
+Join OTA members, staff and the board as we celebrate our 10th year anniversary. Full-day of interactive discussions on a number of hot topics including briefings with legislators and networking opportunities.  In conjunction with the annual meeting, OTA is hosting a Salon dinner on Monday night the 16th, the IoT Trust Framework Summit on Wednesday the 18th and Congressional Staff lunch on Thursday the 19th.
 
 *   OTA Blog
 *   Newsletters
