@@ -3,6 +3,7 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
+    *   Gift Guide
     *   Corny Christmas
     *   Bethany Mota
     *   Meet the Atomics
@@ -52,6 +53,7 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
+    *   Gift Guide
     *   Corny Christmas
     *   Meet the Atomics
     *   On Your Radar
