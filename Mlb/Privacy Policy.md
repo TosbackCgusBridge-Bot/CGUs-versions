@@ -98,10 +98,10 @@ Sections Scores News Video Stats Standings Schedule Players Postseason Tickets A
     *   Probable Pitchers
     *   Franchise FourHot Stove Tracker
 *   Postseason Postseason Postseason
+    *   Postseason Results
     *   2015 Postseason Schedule
     *   WorldSeries.com
     *   Postseason Bracket Challenge
-    *   2015 Postseason Picture
     *   Probable Pitchers
     *   World Series History
     *   International Broadcasters
@@ -173,7 +173,7 @@ Sections Scores News Video Stats Standings Schedule Players Postseason Tickets A
     *   WGT Baseball: MLB
     *   Prospect Watch
     *   Fantasy 411 Blog
-    *   Follow @Fantasy411MLB.com Home Run Derby R.B.I. Baseball 15
+    *   Follow @Fantasy411Free Agent Frenzy MLB.com Home Run Derby R.B.I. Baseball 15
 *   Teams Teams American League AL East
     
     *   Baltimore
