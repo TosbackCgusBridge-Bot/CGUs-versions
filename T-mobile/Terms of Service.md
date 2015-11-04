@@ -1,12 +1,12 @@
   
   
 
-Did you activate (or renew) service prior to June 12, 2015? If yes, please click the date for the applicable version of the Terms and Conditions: March 18, 2015 | November 10, 2014 | March 27, 2014 | October 20, 2013 | December 30, 2011 | July 24, 2011 | July 18, 2010 | June 28, 2008 | December 2004
+Did you activate (or renew) service prior to October 4, 2015? If yes, please click the date for the applicable version of the Terms and Conditions: June 12, 2015 | March 18, 2015 | November 10, 2014 | March 27, 2014 | October 20, 2013 | December 30, 2011 | July 24, 2011 | July 18, 2010 | June 28, 2008 | December 2004
 
   
 T-Mobile Terms &. Conditions.
 
-Effective June 12, 2015.  
+Effective October 4, 2015.  
   
 
 Your agreement with "T-Mobile" (defined as T-Mobile USA, Inc., and its controlled subsidiaries, assignees, and agents) includes these Terms and Conditions ("T&Cs"), your Service Agreement, applicable supplemental terms and conditions, and your Rate Plan terms, which are available at www.T-Mobile.com (collectively "Agreement"). Your Rate Plan includes your Service allotments for minutes, messages or data ("Allotments"), rates, coverage and other terms ("Rate Plan"). To the extent any term in your Rate Plan expressly conflicts with these T&Cs, the term in your Rate Plan will govern. **Your Agreement applies to each line of Service, although different T&Cs may apply to different lines of Service on your account.**
