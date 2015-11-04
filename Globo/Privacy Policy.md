@@ -1,4 +1,4 @@
-Política de segurança e privacidade globo.com
+Política de privacidade globo.com
 
 A Globo.com sabe o quanto é importante para você conhecer e estar seguro sobre a utilização dos seus dados pessoais. Por isso, nos preocupamos em esclarecer e divulgar nossa política de utilização dessas informações. Assim, você poderá entender melhor quais informações obtemos e como as utilizamos. Dedique alguns minutos do seu tempo para ler essa política e aproveitar de forma consciente e segura tudo o que a Globo.com tem para oferecer. Para assegurar regras claras e precisas, a Globo.com pode alterar essa política de tempos em tempos, e sendo assim, recomenda sua leitura periodicamente.
 
@@ -143,5 +143,99 @@ Esta política permitirá que você saiba:
     Nunca forneça sua senha a ninguém on-line. Apenas forneça sua senha ao realizar compras pessoalmente. Se sua senha foi fornecida, mude-a imediatamente.
     
     Anúncios pessoais e salas de bate-papo são de domínio público. Qualquer informação que você torne disponível em salas de bate-papo, em fóruns ou em anúncios pessoais estará disponível a qualquer pessoa com acesso a esses locais. Sugerimos que você evite incluir informações que permitam às pessoas encontrá-lo, tais como o número de seu telefone ou seu endereço para correspondência.
+    
+    topo
+    
+
+Política de segurança globo.com
+
+Este instrumento, bem como outros termos, contratos, políticas, regras, exigências, limitações, sinalizações, notas, notificações e demais condições disponíveis no Portal Globo.com, inclusive termos de uso de produtos específicos e a Política de Segurança e Privacidade do Portal Globo.com localizada no endereço http://www.globo.com/privacidade.html (“Política de Privacidade”), documentos estes passíveis de alteração e tal como vigentes à época de utilização do Portal Globo.com (doravante, todos, em conjunto, denominados "Termos Gerais"), regulamentam a disponibilização e a utilização e acesso pelo usuário (doravante simplesmente denominado “Você”) aos Conteúdos (conforme definição do termo abaixo), bem como limitam a responsabilidade da GLOBO COMUNICAÇÃO E PARTICIPAÇÕES S.A., por sua filial localizada na Avenida das Américas, nº 700, Bloco 2A, salas 101 a 316, na cidade e Estado do Rio de Janeiro, Brasil, CEP: 22.640-100, inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda Brasileiro (CNPJ/MF) sob o nº 27.865.757/0024-90 e/ou suas afiliadas ("Globo.com") pela disponibilização dos mesmos.
+
+Esta política permitirá que você saiba:
+
+1.  Direitos sobre o conteúdo disponibilizado;
+2.  Isenção de responsabilidade;
+3.  Segurança e fluxo normal de comunicações entre servidores;
+4.  Aceitação;
+5.  Suspensão, bloqueio e exclusão;
+6.  Condições gerais.
+
+1.  Direitos sobre o conteúdo disponibilizado
+    
+    Todos os materiais contidos no Portal Globo.com e nos aplicativos disponibilizados pela Globo.com, incluindo mas sem se limitar a textos, vídeos, formatos, ilustrações, animações, gráficos, fotografias, marcas, patentes, fontes, grafismo, esquemas de cores, layout, trade-dress, identidade visual, experiência de navegação, designs, aplicativos, interfaces de aplicativos, softwares, fragmentos de softwares (doravante designados coletivamente ou em relação a qualquer parcela destes como “Conteúdo”) são protegidos pela legislação brasileira, em especial pela Lei de Direitos Autorais (Lei Federal 9.610/98) e Lei de Propriedade Industrial (Lei Federal 9.279/96).
+    
+    Em relação ao uso autorizado dos Conteúdos, este consiste unicamente em uma licença a Você, não exclusiva, intransferível, revogável e limitada, estritamente para visualização do Conteúdo nos meios disponibilizados e autorizados pela Globo.com, sempre em âmbito pessoal e privado, sem fins comerciais. Nenhum outro direito adicional é concedido a Você salvo se feito de forma expressa e por escrito pela Globo.com ou legítimo titular de direitos sobre o Conteúdo.
+    
+    Lembramos que qualquer acesso e/ou utilização que não os expressamente autorizados ficam vedados. São vedadas, exemplificativamente, as seguintes práticas, seja por meio de ação, dispositivo, mecanismo, software ou de qualquer forma e para qualquer fim:
+    
+    (i) remover, alterar, interferir, degradar, desativar, evitar ou de qualquer forma modificar marca d’água, copyright, símbolo, marca ou qualquer outro sinal indicativo de titularidade ou para outro fim inserido no Conteúdo, ou quaisquer direitos e/ou mecanismos de proteção associados ao Conteúdo, bem como filtros e controle de acesso, inclusive se baseados em território (geoblocking) ou faixa etária;
+    
+    (ii) copiar no todo ou em parte, fazer download, executar engenharia reversa, “descompilar”, “recompilar”, “compilar”, criptografar, “desencriptografar”, desmembrar, capturar, reproduzir, arquivar, distribuir, fazer upload, publicar, modificar, traduzir, exibir, transmitir, distribuir, disponibilizar, utilizar métodos de data mining, coleta ou extração de dados, ou embeddar o Conteúdo;
+    
+    (iii) utilizar meta-tags para extração dos Conteúdos, reorganizar, armazenar, captar, exibir, retransmitir, tornar disponível ou incorporar o Conteúdo, inclusive frames, recaps e screenshots em qualquer meio;
+    
+    (iv) comercializar, distribuir gratuita ou onerosamente, anunciar ou desenvolver um negócio, direta ou indiretamente, a partir do Conteúdo;
+    
+    (v) utilizar o Conteúdo de qualquer forma para a criação de obras derivadas ou nele baseadas, tais como aplicativos, websites, montagens, mash-ups, vídeos e materiais de marketing ou merchandising, entre outros;
+    
+    (vi) modificar, remover, interferir, tentar alterar qualquer parte do Conteúdo, em especial os players de vídeo, ou qualquer tecnologia por trás dos mesmos. Essa restrição também se aplica a qualquer alteração, interferência ou ação que de qualquer forma possibilite, ainda que de forma privada, a visualização do Conteúdo sem que sejam exibidos e/ou utilizados os aplicativos e players de vídeo disponibilizados pela Globo.com e todos os elementos relacionados ao Portal Globo.com (tais como interface, marcas registradas e eventuais anúncios) ou sem que sejam acessíveis todas as funcionalidades, anúncios e interfaces associados aos Conteúdos pela Globo.com;
+    
+    (vii) associar ou gerar qualquer impressão, de fato ou em potência, de associação de nomes, produtos, pessoas, empresas, terceiros ou de qualquer elemento com os Conteúdos e/ou com a Globo.com, seus sócios, talentos, afiliadas ou dirigentes. ou
+    
+    (viii) utilizar de qualquer interface (API) da própria Globo.com ou de terceiros para qualquer fim, inclusive para extração, distribuição, execução e/ou disponibilização dos Conteúdos.
+    
+    Excepcionalmente, a Globo.com autoriza a indexação automatizada de textos presentes no Conteúdo, desde que estejam disponíveis em áreas de acesso irrestrito do Portal Globo.com e não contenham qualquer ressalva à indexação, por crawlers de ferramentas de buscas de utilização pública e gratuita exclusivamente para apresentação de hyperlinks em resultados gerais de busca que apontem para os Conteúdos, desde que isto não importe em violação dos itens “i” a “viii” acima, em especial do item “iii”.
+    
+    topo
+    
+2.  Isenção de responsabilidade
+    
+    Hyperlinks externos não constituem endosso pela Globo.com dos sites/ambientes vinculados ou as informações, produtos ou serviços ali contidos.
+    
+    A Globo.com não concede qualquer garantia relacionada à disponibilidade, continuidade de funcionamento ou infalibilidade do Portal Globo.com e/ou Conteúdos, nem que os mesmos serão úteis para a realização de qualquer atividade em particular. Ainda, consideradas as características do meio internet, a Globo.com não garante a segurança e privacidade do Conteúdo fora do domínio globo.com, salvo se nos termos da Política de Privacidade, nem que o mesmo será ininterrupto, livre de vírus ou outros problemas, erros e ataques e, em particular, não garante que terceiros não autorizados não possam acessar e, eventualmente, interceptar, eliminar, alterar, modificar ou manipular de qualquer modo os dados presentes e/ou transmitidos a seus servidores.
+    
+    topo
+    
+3.  Segurança e fluxo normal de comunicações entre servidores
+    
+    Fica expressamente vedada qualquer prática que possa prejudicar a imagem da Globo.com ou violar direitos desta sobre o Conteúdo, danificar seu patrimônio, danificar ou de qualquer forma interferir no fluxo normal de comunicações com seus servidores, na segurança, inviolabilidade e privacidade dos dados lá armazenados e transmitidos, incluindo, mas não se limitando àquelas que importem, possam importar em ou favoreçam:
+    
+    (i) Interceptação ou monitoramento do tráfego de dados a partir ou para os servidores da Globo.com;
+    
+    (ii) Fraudar, mascarar ou alterar a origem de comunicações (incluindo, mas sem se limitar a alteração de cabeçalhos de e-mails, origem de arquivos, origem da requisição de dados, etc.);
+    
+    (iii) Degradar, fazer qualquer uso que não expressamente autorizado ou sobrecarregar com qualquer finalidade os servidores da Globo.com;
+    
+    (iv) Acessar qualquer dado disponibilizado nos servidores da Globo.com de forma ilegítima (falsificando credenciais, utilizando-se de credenciais de terceiros, etc.). ou
+    
+    (v) Quebrar, bypassar, danificar, adulterar ou degradar qualquer parte ou mecanismo de segurança do Portal Globo.com e seus servidores.
+    
+    topo
+    
+4.  Aceitação
+    
+    Ao assistir e/ou utilizar o Conteúdo de qualquer forma, Você expressa sua aceitação plena e sem reservas aos Termos Gerais tal como vigentes naquele instante, para todos os fins de direito. Assim, a leitura atenta por Você dos Termos Gerais em cada uma das ocasiões em que se propuser a assistir e/ou utilizar o Conteúdo é recomendável. Se Você não concordar com algum dos termos e regras aqui previstos, Você não deverá assistir e/ou utilizar o Conteúdo.
+    
+    topo
+    
+5.  Suspensão, bloqueio e exclusão
+    
+    A fim de otimizar a disponibilização do Conteúdo, a Globo.com poderá, inclusive por questões de segurança, restringir, limitar e realizar a suspensão ou bloqueios, totais ou parciais, de disponibilização e acesso ao Conteúdo.
+    
+    A Globo.com poderá descontinuar a disponibilidade ou distribuição de qualquer Conteúdo, a qualquer tempo e sem necessidade de prévio aviso.
+    
+    topo
+    
+6.  Condições gerais
+    
+    No caso de conflitos existentes entre regras e instrumentos listados na definição dos Termos Gerais constantes no caput deste instrumento, deverão prevalecer regras e condições sobre produtos e/ou serviços específicos tal como disponibilizados por escrito pela Globo.com.
+    
+    O não exercício pela Globo.com de quaisquer direitos ou faculdades que lhe sejam conferidos por estes Termos Gerais ou pela legislação brasileira, bem como a eventual tolerância contra infrações a estes Termos Gerais ou a seus direitos, não importará na renúncia aos seus direitos, novação ou alteração de itens e cláusulas deste instrumento, podendo ainda a Globo.com exercer seus direitos a qualquer momento.
+    
+    Estes Termos Gerais, bem como a relação decorrente das ações aqui compreendidas, assim como qualquer disputa que surja em virtude disto será regulada exclusivamente pela legislação brasileira.
+    
+    Fica eleito o Foro Central da Comarca da Capital do Estado do Rio de Janeiro para dirimir quaisquer questões oriundas da utilização dos Conteúdos e/ou violação destes Termos Gerais, renunciando as partes a qualquer outro, por mais privilegiado que seja ou venha a ser.
+    
+    Caso você considere que existem fatos, circunstâncias ou suspeita de qualquer uso inadequado dos Conteúdos ou qualquer questão de segurança relacionada à Globo.com e, em particular, que representem violação de direito autoral ou de propriedade intelectual ou outros direitos, pedimos que envie uma comunicação à Globo.com por meio do e-mail csirt@csirt.globo contendo, se possível, seus dados pessoais (nome, endereço e número de telefone), bem como especificação do evento verificado por Você (em particular, quando se tratar de suposta violação de direitos autorais, indicação precisa e completa dos conteúdos protegidos e supostamente infringidos com as respectivas URLs).
     
     topo
