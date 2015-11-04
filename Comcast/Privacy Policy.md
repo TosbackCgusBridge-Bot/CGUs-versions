@@ -41,7 +41,7 @@ As stated below in this privacy policy, in the section titled “What do we do t
 
 Comcast is participating in the World Wide Web Consortium’s (W3C) process to develop a “Do Not Track” Standard. Since the definitions and rules for such a standard have not yet been defined, Comcast does not yet respond to “Do Not Track” signals sent from browsers.
 
-You may opt out of receiving cookies from the companies that provide services on this website by going to www.networkadvertising.org/consumer/opt\_out.asp. You may opt out of receiving promotional email or direct mail from Comcast based on your visits to this website by going to our Preference Center at www.comcast.com/preferences and following the instructions there. You may also contact Comcast at 1-800-XFINITY to ask to be placed on our do not mail list.
+You may opt out of receiving cookies from the companies that provide services on this website by going to www.comcast.com/preferences and following the instructions there. You may also contact Comcast at 1-800-XFINITY to ask to be placed on our do not mail list.
 
 Comcast’s affiliated websites are members of the Digital Advertising Alliance (DAA), which permits you to opt out of receiving online behavioral advertising by making choices at http://www.aboutads.info/choices . We comply with the rules of the DAA’s ad choices program.
 
