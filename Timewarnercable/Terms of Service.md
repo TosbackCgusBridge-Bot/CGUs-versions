@@ -25,7 +25,7 @@
     You do not have cookies enabled. In order for us to serve you better, please enable cookies. Learn How
     
       
-    You have entered a zip code of less than 5 digits. Please enter a 5 digit zip code.  
+    You have entered a ZIP Code of less than 5 digits. Please enter a 5-digit ZIP Code.  
     
 *   Search GO
 
