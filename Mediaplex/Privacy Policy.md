@@ -1,9 +1,5 @@
 Skip to main content
 
-We’ll prove to you that we can recognize consumers better than any competitor.
-
-Take the Challenge
-
 *   Search form Search Search
 
 *   What We Do
@@ -54,25 +50,98 @@ Take the Challenge
     *   Contact Us
 *   Careers
 
-CASE STUDY:  
-CABELA’S How we brought millions of personalized messages to the right people. Learn More NEW GUIDE: THE  
-5 KEYS TO CONNECTING  
-WITH REAL PEOPLE Download Now We Know Your Customers better than anyone. 80 billion interactions  
-a day prove it. Learn more WE MAKE OVER A TRILLION REAL-TIME  
-DECISIONS every day, for billions of interactions. Visit Our Blog CONNECT TO MILLIONS, ONE PERSON AT A TIME. Conversant Media FOR MARKETING &. MEDIA PROFESSIONALS
+Login Let's Connect CONNECTING  
+BRANDS TO  
+MILLIONS OF REAL  
+PEOPLE BETTER  
+THAN ANYONE See What We Do
+
+*   80 BILLION Interactions  
+    Every Day
+*   1+ Trillion Daily Real-Time  
+    Decisions
+*   1+ Million Requests Per  
+    Second
+*   10X Average Incremental  
+    Return On Ad Spend
+
+*   The Latest News
+*   Personalized Video
+    
+    Our newest 1:1 product
+    
+*   The Mobile Mafia Awards
+    
+    Winner, Best Tech/Publishing Platform
+    
+*   Conversant Access
+    
+    Take control of your own data
+    
+*   ShopperView
+    
+    Our new product for CPG
+    
+*   Growing Actionable Audiences
+    
+    How we found 8x the consumers
+    
+
+OUR IMPACT
+
+We’ll prove to you that we can recognize consumers  
+better than any competitor.
+
+Take the Challenge NEW GUIDE
+
+The 5 Keys to Connecting with Real People
+
+DOWNLOAD NOW View Case Study
+
+How we brought millions of personalized  
+messages to the right people.
+
+Read More Conversant Media
+
+for marketing &. media professionals
 
 Have meaningful, ongoing conversations with millions of real people, across all of their devices.
 
-Learn More
+  
+Learn More CJ Affiliate
 
-CJ Affiliate For Affiliate Marketers
+for affiliate marketers
 
-Drive outstanding growth with the world’s largest affiliate network. World class service, insights and personalization.
-
-Learn More
+Drive outstanding growth with the world’s largest affiliate network. World-class service, insights &. personalization.
 
   
-Our Clients                                              
+Learn More SOME OF THE COMPANIES THAT HARNESS OUR POWER
+
+Our 4,000 clients include 400+ blue chip brands and 65 of the Internet Retailer Top 100.
+
+                                        ✕
+
+First Name\*
+
+Last Name\*
+
+Job Title\*
+
+Company\*
+
+Email Address\*
+
+Business Phone\*
+
+CNVR\_State/Province\* -- Please Select --AlaskaAlabamaArkansasArizonaCaliforniaColoradoConnecticutD.C.DelawareFloridaGeorgiaHawaiiIowaIdahoIllinoisIndianaKansasKentuckyLouisianaMassachusettsMarylandMaineMichiganMinnesotaMissouriMississippiMontanaNorth CarolinaNorth DakotaNebraskaNew HampshireNew JerseyNew MexicoNevadaNew YorkOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVirginiaVermontWashingtonWisconsinWest VirginiaWyomingAlbertaManitobaBritish ColumbiaNew BrunswickNewfoundland and LabradorNova ScotiaNorthwest TerritoriesNunavutOntarioPrince Edward IslandQuebecSaskatchewanYukon Territory
+
+Area of Interest\* -- Please Select --AdservingAffiliate MarketingCRM/PersonalizationCross Device AdvertisingDisplay AdvertisingMedia Publisher or Service ProviderMobile AdvertisingProgrammatic AdvertisingRich MediaTag ManagementVideo AdvertisingPress InquiryClient Support InquiryOther
+
+Questions/Comments
+
+Send me emails containing marketing messages from Conversant and our affiliates.
+
+✕
 
 *   What We Do
     *   Overview
@@ -118,25 +187,3 @@ Additional Contact Information
 *   Login
 
 © 2015  Conversant, LLC. All rights reserved.
-
-Login Let's Connect ✕ Search form Search Search ✕
-
-First Name\*
-
-Last Name\*
-
-Job Title\*
-
-Company\*
-
-Email Address\*
-
-Business Phone\*
-
-CNVR\_State/Province\* -- Please Select --AlaskaAlabamaArkansasArizonaCaliforniaColoradoConnecticutD.C.DelawareFloridaGeorgiaHawaiiIowaIdahoIllinoisIndianaKansasKentuckyLouisianaMassachusettsMarylandMaineMichiganMinnesotaMissouriMississippiMontanaNorth CarolinaNorth DakotaNebraskaNew HampshireNew JerseyNew MexicoNevadaNew YorkOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVirginiaVermontWashingtonWisconsinWest VirginiaWyomingAlbertaManitobaBritish ColumbiaNew BrunswickNewfoundland and LabradorNova ScotiaNorthwest TerritoriesNunavutOntarioPrince Edward IslandQuebecSaskatchewanYukon Territory
-
-Area of Interest\* -- Please Select --AdservingAffiliate MarketingCRM/PersonalizationCross Device AdvertisingDisplay AdvertisingMedia Publisher or Service ProviderMobile AdvertisingProgrammatic AdvertisingRich MediaTag ManagementVideo AdvertisingPress InquiryClient Support InquiryOther
-
-Questions/Comments
-
-Send me emails containing marketing messages from Conversant and our affiliates.
