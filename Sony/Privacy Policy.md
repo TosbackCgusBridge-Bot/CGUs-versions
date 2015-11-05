@@ -156,9 +156,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-Get every @BobDylan note recorded between '65 and '66 in the #CuttingEdge Collector's Edition out Nov 6!
+The iconic silver #SPECTRE ring is now available to buy at 007.com
 
-2015-11-03 19:53:11+00:00
+2015-11-05 01:58:01+00:00
 
 View Tweet
 
@@ -206,7 +206,7 @@ Go To PlayStation Store
 
 For the Ultimate Call of Duty Fans
 
-Pre-Order PS4™
+Get Your PS4™
 
 Close
 
@@ -216,7 +216,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Pre-Order PS4™
+Get Your PS4™
 
 Sony on Instagram
 
@@ -236,15 +236,15 @@ a Game Room
 
 Sony on Twitter
 
-Call of Duty: Black Ops III launches this Friday. Are you ready?
+RT @Activision: Get unlimited access to @GuitarHero Live’s on-demand song library this weekend
 
-2015-11-03 18:54:45+00:00
+2015-11-05 09:20:10+00:00
 
 View Tweet
 
 3 Different Campaigns, 1 New Call of Duty
 
-Play It Day One
+Play It Today
 
 Close
 
@@ -254,7 +254,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Play It Day One
+Play It Today
 
 New Music From Adele
 
@@ -272,9 +272,9 @@ Watch Video
 
 Sony on Twitter
 
-MT @HelloVancity Wow! Amazing! @NitroCircus @TravisPastrana @sony\_canada @Actioncam #NitroCircus
+#Exclusive Hear a Rare @BobDylan Outtake from Highway 61 Revisited via @Esquire
 
-2015-11-03 18:00:20+00:00
+2015-11-05 03:08:47+00:00
 
 View Tweet
 
@@ -360,9 +360,9 @@ Play Video
 
 Sony on Twitter
 
-Get a behind-the-scenes look at @IAmBeckyG’s latest video, #BreakASweat, now on @Vevo
+Your #SmartWear, #YourRules. Make every day count with up to 2 days’ battery life #Xperia
 
-2015-11-03 03:07:01+00:00
+2015-11-04 22:58:03+00:00
 
 View Tweet
 
