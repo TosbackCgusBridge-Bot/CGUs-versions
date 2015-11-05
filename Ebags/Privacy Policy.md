@@ -58,7 +58,7 @@ eBags will cooperate with law enforcement inquiries. eBags reserves the right to
 
 Accessing and Updating Your Information You always have the opportunity to review and change the information you provide to us by logging into the site and entering in the new information yourself. You can edit your name, contact information and preferences by logging into the Your Account section of the site.
 
-As a customer, subscriber or contest entrant, you will receive e-mail communications about new eBags products, special offers and requests for feedback. If you want to stop receiving our emails or to specify the communications you prefer to receive, you may unsubscribe or edit your profile at any time. You can do this through any of our emails, by visiting Manage Email Preferences or by sending us an email at help@ebags.com.
+As a customer, subscriber or contest entrant, you will receive e-mail communications about new eBags products, special offers and requests for feedback. If you want to stop receiving our emails or to specify the communications you prefer to receive, you may unsubscribe or edit your profile at any time. You can do this through any of our emails, by visiting Manage Email Preferences or by sending us an email help@ebags.com.
 
 You may ask to have your account information removed from our active databases. however, because we keep track of past purchases, you cannot delete information associated with past purchases. Such information will be deactivated as soon as reasonably possible based on your account activity. Also, as a security measure we "back up" the data stored on our systems, and such prior information cannot be completely removed from our databases. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests.
 
@@ -70,7 +70,7 @@ Privacy Policy Changes eBags reserves the right to change, modify, add or remove
 
 Contacting eBags If you have further questions about eBags' Privacy Policy or comments on how we can improve the eBags shopping experience, please do not hesitate to email us at privacy@ebags.com.
 
-Need more help? You can refer to our Help Center, email one of our friendly Customer Help Specialists at help@ebags.com or call 1-800-820-6126.
+Need more help? You can refer to our Help Center, email one of our friendly Customer Help Specialists help@ebags.com or call 1-800-820-6126.
 
 You may also write to us at:  
 Privacy Manager  
