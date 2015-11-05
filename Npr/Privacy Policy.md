@@ -19,7 +19,6 @@ View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Dir
 *   **Author** Interviews
 *   Find Books
 *   Reviews
-*   Bestsellers
 
 *   About NPR
 *   Overview
@@ -461,10 +460,6 @@ If you have any questions or comments concerning our Privacy Policy, please Cont
 NPR thanks our sponsors
 
 Become an NPR sponsor
-
-Support NPR NPR Shop
-
-Support The Programs You Love
 
 *   News
     *   U.S.
