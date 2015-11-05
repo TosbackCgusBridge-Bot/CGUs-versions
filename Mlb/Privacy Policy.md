@@ -50,15 +50,15 @@ Sections Scores News Video Stats Standings Schedule Players Postseason Tickets A
     *   GetGreat.com
     
     Featured
-    *   #FilthiestPlays
+    *   2015 Postseason
+    *   MLB.com Hot Stove
+    *   MLB Awards
     *   Must C
     *   Chatting Cage
     *   Bud Celebrations
-    *   Vixlet FastCast
-    *   Taco Bell Steals
+    *   FastCast
+    *   AFL
     *   Outstandings
-    *   #MLBMemoryBank
-    *   Top Relievers
     *   Cut 4
     *   Daily Dash
     *   Must C
