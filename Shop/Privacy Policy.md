@@ -20,13 +20,13 @@ LENOVO Menu
         8.  Deals for Students and Educators
         9.  Outlet
         10.  Warranty-Sale
-    *   Early black Friday Sale Big Savings. No Waiting.
+    *   Holiday Kick-Off Sale. Celebrate the Season of Giving with Savings.
         
-        Save up to 44% Site-Wide.
+        Save up to 50% Site-Wide.
         
-    *   Need it Quick?
+    *   Holiday Gift Guide 2015 Need some inspiration?
         
-        We have prebuilt models of our most popular PCs in stock and ready to ship!
+        Check out our Holiday Gift Guide for ideas!
         
     *   Lenovo Preferred Card The Best Offers with Instant and Affordable Financing.
         
@@ -323,6 +323,7 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Smartphones
     *   Lenovo Holiday Deals
     *   Lenovo Preferred Card
+    *   Trade-In Program
     *   Lenovo Gift Cards
     *   Lenovo Photo Service
     *   Gaming Computers
