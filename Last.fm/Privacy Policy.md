@@ -4,9 +4,8 @@
 Last.fm Logo Toggle navigation
 
 *   Live
-*   What's New
-*   Events
 *   Music
+*   Events
 *   Features
 *   Inbox
 *   Login
