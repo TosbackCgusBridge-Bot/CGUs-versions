@@ -124,9 +124,8 @@ Yahoo Vie Privée Nous vous proposons un grand nombre de liens décrivant le tra
 
 *   Aide complémentaire
 *   Nous contacter
-*   Infos Compte
+*   Infos Compte 
 
-  
-   Ajout et correspondance des données
+Ajout et correspondance des données
 
 Yahoo peut être amené à ajouter et utiliser des données relatives aux utilisateurs, lesquelles sont publiquement disponibles ou agrégées par des fournisseurs de données tiers, et ce afin de fournir de la publicité et des contenus personnalisés. Cliquez-ici pour en savoir plus.
