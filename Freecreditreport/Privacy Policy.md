@@ -1,4 +1,4 @@
-Member Sign In Privacy Policy
+Member Sign In Sign Up For Free Privacy Policy
 
 _Last Revised: 8/23/2012_
 
