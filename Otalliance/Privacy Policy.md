@@ -96,10 +96,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Wed, Nov 4, 2015 IoT Trust Framework and security best practices based on GlobalSign’s identity and security solutions
-
-GlobalSign, a leading provider of identity and security solutions for the Internet of Everything (IoE), and the Online Trust Alliance (OTA), a non-profit with the mission to enhance online trust, invite you to attend our webinar, Capturing the new value propositions of privacy, trust, and security in IoT.  Recognizing a need for privacy and security best practices for the growing number of consumer IoT devices, the OTA established the IoT Working Group in January which recently released a draft Internet of Things Trust Framework.
-
 Wed, Nov 11, 2015 14th annual Seattle SecureWorld Conference
 
 SecureWorld's programs are created to tackle the complexities of cybersecurity with solution-oriented education. The conference will provide networking opportunities designed for IT and security professionals. OTA is proud to be an association sponsor and speaker since 2012.  Take advantage of our event discounts  by using the following codes:
@@ -115,6 +111,10 @@ Join OTA, Congresswoman Suzan DelBene (Washington), Daniel Kaufman, Deputy Direc
 Tue, Nov 17, 2015 OTA Annual Member Meeting
 
 Join OTA members, staff and the board as we celebrate our 10th year anniversary. Full-day of interactive discussions on a number of hot topics including briefings with legislators and networking opportunities.  In conjunction with the annual meeting, OTA is hosting a Salon dinner on Monday night the 16th, the IoT Trust Framework Summit on Wednesday the 18th and Congressional Staff lunch on Thursday the 19th.
+
+Wed, Nov 18, 2015 IoT Trust Framework Summit
+
+The Online Trust Alliance will be hosting the face-to-face working group meeting to review the final draft of the trust framework and discuss steps for moving the program to a self regulatory code of conduct and/or certification program.  Registration fee includes breakfast, lunch and breaks. This program is open to the public for all organizations and participants who agree to "Chatham House Rule."  The workshop will be hosted at the offices of Holland &. Knight, 800 17th Street N.W, District of Columbia, DC 20006.  
 
 *   OTA Blog
 *   Newsletters
