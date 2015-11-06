@@ -55,8 +55,9 @@ My Bag (0) Wish List Search
     *   Email Updates
     *   Maintain Your Wish List
 *   Shipping/Handling
-    *   Shipping Rates/Options
+    *   Holiday Shipping
     *   International Shipping
+    *   Shipping Rates/Options
 *   Returns
     *   Return Policy
     *   How to Return
