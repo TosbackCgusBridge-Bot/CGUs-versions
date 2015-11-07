@@ -158,16 +158,38 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Hats, Gloves &. Scarves
         *   Snow Boots
         *   Long Underwear
-*   Swim
-    *   *   Back to Main Menu Swim
-        *   Shop Swim
-        *   Women
+*   Shoes
+    *   *   Back to Main Menu Shoes
+        *   Featured Shops
+            *   Back to Shoes Featured Shops
+            *   New Arrivals
+            *   Sock Shop
+            *   Accessories Shop
+            *   Sale
+    *   *   Women
+            *   Back to Shoes Women
+            *   Boots
+            *   Casual
+            *   Slippers
+            *   Flats
+            *   Heels
         *   Men
-        *   Girls
-        *   Boys
-        *   Water Shoes &. Sandals
-        *   Totes &. Beach Bags
-        *   Beach Towels
+            *   Back to Shoes Men
+            *   Boots
+            *   Casual
+            *   Slippers
+            *   Dress
+        *   Girls'
+            *   Back to Shoes Girls'
+            *   Boots
+            *   Flats
+            *   Casual
+            *   Slippers
+        *   Boys'
+            *   Back to Shoes Boys'
+            *   Boots
+            *   Casual &. Dress
+            *   Slippers
 *   Home
     *   *   Back to Main Menu Home
         *   Featured Shops
@@ -305,7 +327,8 @@ Bag0
 
 *   Help
     *   Contact Us
-    *   Order Tracking
+    *   Track My Order
+    *   Make a Return
     *   FAQ
     *   Live Chat
 *   Store
@@ -497,10 +520,11 @@ Get Exclusive Offers + News Privacy Policy &. Contact Info sign up facebook twit
 *   Customer Service
 *   Guaranteed. Period.®
 *   Contact Us
-*   FAQs
+*   Track Your Order
+*   Make a Return
 
 **Get Live Help**  
-A helpful Customer Care Specialist is just a click or call away.  
+We're just a click or call away.  
 Call 1.800.963.4816 Text Chat Now
 
 *   Company
