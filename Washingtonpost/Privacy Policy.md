@@ -6,22 +6,6 @@ The WP Company LLC (“The Washington Post”) recognizes the importance of prot
 
 This Privacy Policy covers the following:
 
-Information We Collect
-
-How We Use Information
-
-Sharing of Information
-
-Links to Third Party Sites
-
-Data Security
-
-How to Access or Update Your Information
-
-Changes to this Privacy Policy
-
-Other Important Information
-
 **Information We Collect**
 
 We may collect personal information about our users in various ways. For example, we may collect information that you provide to us, information that we collect through your use of the Services, and information that we collect from publicly available sources or third parties.
@@ -32,15 +16,17 @@ We also collect information that you provide us when you comment on articles, pa
 
 **Information About Your Use of the Services.** In addition to the information you provide to us directly, we may collect information about your use of the Services. For example, we may collect:
 
-*   _Device information_—such as your hardware model, IP address, other unique device identifiers, operating system version, and settings of the device you use to access the Services.
-*   _Usage information_—such as information about the Services you use, the time and duration of your use of the Services and other information about your interaction with content offered through a Service, and any information stored in cookies and similar technologies that we have set on your device. For detailed information about our use of cookies, web beacons, and other technologies, see Online Tracking and Advertising.
-*   _Location information_—such as your computer’s IP address, your mobile device’s GPS signal or information about nearby WiFi access points and cell towers that may be transmitted to us when you use certain Services.
+● _Device information_ — such as your hardware model, IP address, other unique device identifiers, operating system version, and settings of the device you use to access the Services.
+
+● _Usage information_ — such as information about the Services you use, the time and duration of your use of the Services and other information about your interaction with content offered through a Service, and any information stored in cookies and similar technologies that we have set on your device. For detailed information about our use of cookies, web beacons, and other technologies, see Online Tracking and Advertising.
+
+● _Location information_ — such as your computer’s IP address, your mobile device’s GPS signal or information about nearby WiFi access points and cell towers that may be transmitted to us when you use certain Services.
 
 **Information From Third-Party Sources.** We may receive information about you from publicly and commercially available sources, as permitted by law, which we may combine with other information we receive from or about you. For example, we may receive information about you from a social media site if you connect to the Services through that site.
 
 **Other Information We Collect.** We also may collect other information about you, your device, or your use of the services in ways that we describe to you at the point of collection or otherwise with your consent. You may choose not to provide us with certain types of information, but doing so may affect your ability to use some of the Services.
 
-**How We Use Information**
+_**How We Use Information**_
 
 **To Provide and Manage the Services You Request.** This includes, for example, processing your subscription, sending you electronic newsletters, enabling you to participate in the features provided by the Services. It also includes providing personalized content and recommendations to you, including through Personal Post. Through such features, we are able to bring you information and content tailored to your individual interests and needs.
 
@@ -84,9 +70,7 @@ Our Services may link to third-party websites and services that are outside our 
 
 **Manage Your washingtonpost.com Account.** You may access or modify your washingtonpost.com account on the User Profile page. This link will also allow you to update your subscriptions to electronic newsletters provided by the Services and to view your comment history.
 
-**Email Promotions**
-
-You may opt out of receiving commercial email messages from us by following the instructions contained in those email messages.
+**Email Promotions.** You may opt out of receiving commercial email messages from us by following the instructions contained in those email messages.
 
 **Targeted Advertising.** You may choose whether to receive some forms of targeted advertising from many ad networks, audience segment providers, ad serving vendors, and other service providers by visiting websites operated by the Network Advertising Initiative and Digital Advertising Alliance . Please see Online Tracking and Advertising and visit our Ad Choices pages for further information about how to disable cookies and other choices that may be available to you with respect to certain types of targeted advertising.
 
@@ -94,7 +78,7 @@ You may opt out of receiving commercial email messages from us by following the 
 
 We have in place physical, electronic and managerial procedures to protect the information we collect online. However, as effective as these measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the Internet.
 
-**Other Important Information**
+_**Other Important Information**_
 
 **Children’s Privacy.** We do not knowingly collect any personal information from children under the age of 13 without parental consent, unless permitted by law. If we learn that a child under the age of 13 has provided us with personal information, we will delete it in accordance with applicable law.
 
@@ -116,9 +100,11 @@ We and third parties that provide content, advertising, or functionality on our 
 
 **Cookies.** Cookies are small files that are placed on your computer when you visit a website. Cookies may be used to store a unique identification number tied to your computer or device so that you can be recognized as the same user across one or more browsing sessions, and across one or more sites. Cookies serve many useful purposes. For example:
 
-*   Cookies can remember your sign-in credentials so you do not have to enter those credentials each time you visit a Service
-*   Cookies can help us and third parties understand which parts of our Services are the most popular because they help us see which pages and features visitors access and how much time they spend on the pages. By studying this kind of information, we are better able to adapt our Services and provide you with a better experience.
-*   Cookies help us and third parties understand which ads you have seen so that you don’t receive the same ad each time you access a Service.
+● Cookies can remember your sign-in credentials so you do not have to enter those credentials each time you visit a Service
+
+● Cookies can help us and third parties understand which parts of our Services are the most popular because they help us see which pages and features visitors access and how much time they spend on the pages. By studying this kind of information, we are better able to adapt our Services and provide you with a better experience.
+
+● Cookies help us and third parties understand which ads you have seen so that you don’t receive the same ad each time you access a Service.
 
 Most browsers accept cookies automatically, but can be configured not to do so or to notify the user when a cookie is being sent. If you wish to disable cookies, refer to your browser help menu to learn how to disable cookies. If you disable browser cookies or flash cookies, it may interfere with the proper functioning of the Services.
 
