@@ -54,7 +54,7 @@ Close
 
 Learn More
 
-"SPECTRE" in Theaters November 6
+"SPECTRE," Only in Theaters
 
 Find Tickets
 
