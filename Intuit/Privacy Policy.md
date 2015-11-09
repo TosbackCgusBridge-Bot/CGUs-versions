@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14062953262
+true true C14066244742
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p05.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Sat Nov 07 11:32:31 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p11.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Sun Nov 08 11:27:13 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,95 +48,39 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-$10 Off\* $25 Or More In Store and Online | Ends November 7 | Code: BIGSTSAL Get Coupon Or, Extra 20% Off\* $100 Or More Online Only | Ends November 7 | Code: WHATASAL Or, Extra 25% Of\* $150 Or More Online Only | Ends November 7 | Code: WHATASAL \*See exclusions and details. Our Biggest Sale Of Them All Entire Store On Sale | In Store and Online Shop Our Biggest Sale of Them All View Store Ad
+Save on Furniture, Mattresses and More Veteran's Day Home Sale | 30 to 50% Off Home Collections
 
-Sale pricing excludes Nike, Converse and Sephora. Additional coupon exclusions apply.
+Select styles
 
-See details. Shop Women Shop Kids Shop Shoes Shop Home Shop Men Shop Baby Shop Handbags and Accessories Shop Jewelry Doorbusters Friday 3PM CST Through Saturday 1PM CST
+Shop Home Sale Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Home Decor
 
-Use your coupon and save even more!
+40 to 50% Off Furniture and Mattresses, select styles
 
-Shop Doorbusters Coupon Giveaway -- $10 Off $10 Or More
+Shop Furniture and Mattresses60 Months Special Promotional Financing November 4 through 30
 
-Saturday at the door while they last!
+Available for furniture and mattresses when you use your JCPenney Credit Card.
 
-Women
+Exclusions and details: Warm Up With Coats and Jackets for Men, Women and Kids Big Buy! 50% Off Coats and Jackets For The Family
 
-50% Off Coats for Her, select styles
+Select styles
 
-Shop Coats for Her
+Shop Coats and Jackets For The Family Shop Coats and Jackets For Women Shop Coats and Jackets For Boys Shop Coats and Jackets For Girls Shop Coats and Jackets For Men Fine and Fashion Jewelry On Sale Now Jewelry Spectacular Sale | Ends Monday November 16
 
-40 to 50% Off Activewear for Her, select styles
+30 to 60% Off Jewelry, select styles
 
-Shop Activewear for Her
+Shop Jewelry Spectacular Sale Shop Diamonds Shop Gemstones Shop Gold Shop Fashion Jewelry Shop Modern Bride Save On Your Favorite Levi's(R) Jeans Levi's
 
-40% Off Sleepwear for Her
+Save on select styles. Excluded from coupon.
 
-Shop Sleepwear for Her Men
-
-50% Off Men's Suit Separates, select styles
-
-Shop Men's Suit Separates
-
-40 to 50% Off Men's Coats and Jackets, select styles
-
-Shop Men's Coats and Jackets
-
-39.99 Men's Levi's(R) 505(TM) Regular Fit Jeans, reg. $58. Excluded from coupon.
-
-Shop Men's Levi's(R) Kids and Shoes
-
-30 to 40% Off Clarks for Her, select styles
-
-Shop Clarks for Her
-
-50% Off Kids' Coats and Jackets, select styles
-
-Shop Kids' Coats and Jackets
-
-40% Off Carter's Sleepwear, select styles
-
-Shop Carter's Sleepwear Home
-
-30 to 50% Off Bedding and Bath, select styles
-
-Shop Bedding and Bath
-
-40 to 50% Off Window, select styles
-
-Shop Window
-
-30 to 50% Off Small Appliances, select styles. Excluded from coupon.
-
-Shop Small Appliances Accessories
-
-25 to 55% Off Watches, select styles
-
-Shop Watches
-
-40% Off Handbags and Wallets, select styles
-
-Shop Handbags and Wallets
-
-45 to 65% Off Fine Jewelry, select styles
-
-Shop Fine Jewelry Red Zone Clearance | New Markdowns! 50 to 80% Off
-
-In Store and Online
-
-Shop Clearance Now Where Giving Begins Gifts they want. Savings you love.
-
-Shop by Price | Shop by Personality | Shop Gift Cards
-
-Shop All Gifts SportsFanShop
+Shop Levi's 39.99 Guys' Levi's 514(TM) Straight-Fit Jeans, reg. $58 32.99 Women's Levi's 505(TM) Straight-Fit Jeans, reg. 44.50 27.99 Boys' Levi's 510(TM) Skinny or 511(TM) Slim-Fit Jeans, reg. $44-$48       SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop Now Star Wars Shop Star Wars Now JCPenney | portraits
+Shop SportsFanShop Star Wars™ Shop Star Wars Now JCPenney | portraits
 
-Holiday Memoriea - 40% Off Photo Purchase
+Holiday Memories - 40% Off Photo Purchase
 
-Shop Portraits Now Download the JCPenney App and Get Shopping Check Out The App Download on the App Store Get it on Google Play
+Shop Portraits Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
