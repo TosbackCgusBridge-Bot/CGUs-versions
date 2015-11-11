@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14067667691
+true true L14176256823
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Mon Nov 09 11:30:46 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p19.jcpenney.com SERVER NAME :->. dtcomexpr1l1j5 TIME :->. Tue Nov 10 11:30:11 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,39 +48,92 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Save on Furniture, Mattresses and More Veteran's Day Home Sale | 30 to 50% Off Home Collections
+Black Friday Stores Open Thanksgiving Day
 
-Select styles
+Preview the deals and make your list.
 
-Shop Home Sale Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Home Decor
+View Store Ad Extra 25% Off\*, select styles  
+Or, Extra 30% Off\* $100 or More, select styles 24 Hours Only | Online Only! | Code: ERLYSHOP
 
-40 to 50% Off Furniture and Mattresses, select styles
+Save big from 11PM CST November 10 through 11PM CST November 11. \*Exclusions apply
 
-Shop Furniture and Mattresses60 Months Special Promotional Financing November 4 through 30
+Get details: It's Veterans Day! Shop Now View Store Ad Big Buys Use Your Coupon and Save Even More!
 
-Available for furniture and mattresses when you use your JCPenney Credit Card.
+Shop and Save ends November 11
 
-Exclusions and details: Warm Up With Coats and Jackets for Men, Women and Kids Big Buy! 50% Off Coats and Jackets For The Family
+Women
 
-Select styles
+Big Buy: 50% Off Coats and Jackets For Her, select styles
 
-Shop Coats and Jackets For The Family Shop Coats and Jackets For Women Shop Coats and Jackets For Boys Shop Coats and Jackets For Girls Shop Coats and Jackets For Men Fine and Fashion Jewelry On Sale Now Jewelry Spectacular Sale | Ends Monday November 16
+Shop Coats and Jackets
 
-30 to 60% Off Jewelry, select styles
+Big Buy: 12.99 A.N.A Sweaters, select styles
 
-Shop Jewelry Spectacular Sale Shop Diamonds Shop Gemstones Shop Gold Shop Fashion Jewelry Shop Modern Bride Save On Your Favorite Levi's(R) Jeans Levi's
+Shop A.N.A Sweaters
 
-Save on select styles. Excluded from coupon.
+Big Buy: 7.99 Tees, select styles
 
-Shop Levi's 39.99 Guys' Levi's 514(TM) Straight-Fit Jeans, reg. $58 32.99 Women's Levi's 505(TM) Straight-Fit Jeans, reg. 44.50 27.99 Boys' Levi's 510(TM) Skinny or 511(TM) Slim-Fit Jeans, reg. $44-$48       SportsFanShop
+Shop Stylus Shop St. John's Bay Men
 
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
+50% Off Men's Outerwear, select styles
 
-Shop SportsFanShop Star Wars™ Shop Star Wars Now JCPenney | portraits
+Shop Coats and Jackets Shop Hats, Gloves and Scarves
+
+Buy One, Get One Free\* Men's Stafford Microfleece and Flannel Sleep Pants, select styles
+
+Shop Sleep Pants
+
+Big Buy: 19.99 Guys' Arizona Jeans, select styles
+
+Shop Arizona Jeans Shoes
+
+50% Off St. John's Bay Boots For Her, select styles
+
+Shop St. John's Bay Boots
+
+40 to 50% Off Liz Claiborne and Clarks Boots, select styles
+
+Shop Claiborne and Clarks Boots
+
+40% Off Men's Fashion Boots, select styles
+
+Shop Men's Boots Home
+
+3.99 Home Expressions 100% Cotton Solid Bath Towel
+
+Shop Bath Towels
+
+14.99, After $10 Mail-In Rebate, Cooks Small Appliances, select styles
+
+Shop Small Appliances
+
+15.99 JCPenney Home The Hunk 2PK Standard or Queen Pillow
+
+Shop Pillows Kids
+
+Big Buy: 29.99 Kids' Puffer Jackets, reg. $70
+
+Shop Kids' Puffer Jackets
+
+Buy One, Get One Free\* Kids' Xersion Activewear, select styles
+
+Shop Kids' Activewear
+
+Big Buy: Buy One, Get One 50% Off\* Kids' Arizona Tops and Denim, select styles
+
+Shop Kids' Arizona
+
+\*Buy one item at regular price, get the second item of equal or lesser value for 50% off. Buy one item at regular price, get the second item of equal or lesser value for free.
+
+Where Giving Begins
+
+Gifts they want. Savings you love.
+
+Shop All Gifts Star Wars Shop Star Wars Now JCPenney | portraits
 
 Holiday Memories - 40% Off Photo Purchase
 
-Shop Portraits Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop Portraits Now Sephora Shop Gifts Now
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
