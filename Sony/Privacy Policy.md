@@ -40,7 +40,7 @@ PlayMemoriesSpark your imagination &. find new ways to enjoy your photos. Explor
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! Made for Bond Watch Moneypenny Pick Up Bond's Latest Gear
+Your browser does not support JavaScript! Watch Moneypenny Pick Up Bond's Latest Gear
 
 Learn More
 
@@ -320,7 +320,11 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Get Blu-ray™
+Play Video
+
+Sony on YouTube
+
+Play Video
 
 Fast Autofocus for the Perfect Shot
 
