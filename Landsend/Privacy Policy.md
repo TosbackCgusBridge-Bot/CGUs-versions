@@ -520,7 +520,7 @@ Get Exclusive Offers + News Privacy Policy &. Contact Info sign up facebook twit
 *   Customer Service
 *   Guaranteed. Period.®
 *   Contact Us
-*   Track Your Order
+*   Track My Order
 *   Make a Return
 
 **Get Live Help**  
