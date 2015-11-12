@@ -189,8 +189,8 @@ Gigaom
 ATTN: Privacy
 
 Knowingly Corporation  
-538 W. 21st Street #54600  
-Houston, TX 77008
+401 Congress Ave, Suite 1540  
+Austin, TX 78701
 
 Effective Date of this Privacy Policy
 
