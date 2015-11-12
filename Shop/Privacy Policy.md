@@ -53,7 +53,7 @@ LENOVO Menu
         2.  Servers, Storage &. Networking Support information for System x issues and questions
         3.  Network Storage Support Support information for Lenovo, LenovoEMC &. Iomega products
         4.  Accessories, Options and Monitors Support for these extras
-    *   Payment issues Call 1-800-426-3325, option 3  
+    *   Payment issues Call 1-855-253-6686, option 2  
         Monday - Friday, 9am - 5:30pm (EST)  
           
         Lenovo Preferred Card  
@@ -254,7 +254,7 @@ Please use the Back button on your browser or close this window to return to the
 *   flickr
 *   lenovoForums
 
-Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelgium - DutchBelgium - FrancaisBeninBoliviaBotswanaBrazilBulgariaBurkinaBurundiCameroonCanada - EnglishCanada - FrançaisCape VerdeCentral African RepublicChadChileChinaColombiaComorosCongo, Dem. Rep. (Kinshasa)Congo, Rep. (Brazzaville)Côte d'Ivoire (Ivory Coast)CroatiaCzech RepublicDenmarkDeutschlandDjiboutiEcuadorEgyptEquatorial GuineaEritreaEstoniaEthiopiaFinlandFranceGabonGambia, TheGhanaGreeceGuineaGuinea-BissauHong Kong S.A.R of China - EnglishHong Kong S.A.R of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLesothoLiberiaLibyaLithuaniaMadagascarMalawiMalaysiaMaliMauritaniaMauritiusMéxicoMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigerNigeriaNorwayOmanPakistanParaguayPerúPhilippinesPolandPortugalQatarRéunionRomaniaRussian FederationRwandaSaint HelenaSão Tomé and PríncipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSomaliaSouth AfricaSouth SudanSpainSri LankaSudanSwazilandSwedenSwitzerland - DeutschSwitzerland - FrançaisTaiwanTanzaniaThailandTogoTunisiaTurkeyUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayVenezuelaVietnamWestern SaharaZambiaZimbabwe
+Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelgium - DutchBelgium - FrancaisBeninBoliviaBotswanaBrazilBulgariaBurkinaBurundiCameroonCanada - EnglishCanada - FrançaisCape VerdeCentral African RepublicChadChileChinaColombiaComorosCongo, Dem. Rep. (Kinshasa)Congo, Rep. (Brazzaville)Côte d'Ivoire (Ivory Coast)CroatiaCzech RepublicDenmarkDeutschlandDjiboutiEcuadorEgyptEquatorial GuineaEritreaEstoniaEthiopiaFinlandFranceGabonGambia, TheGhanaGreeceGuineaGuinea-BissauHong Kong S.A.R of China - EnglishHong Kong S.A.R of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLesothoLiberiaLibyaLithuaniaMacedoniaMadagascarMalawiMalaysiaMaliMauritaniaMauritiusMéxicoMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigerNigeriaNorwayOmanPakistanParaguayPerúPhilippinesPolandPortugalQatarRéunionRomaniaRussian FederationRwandaSaint HelenaSão Tomé and PríncipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSomaliaSouth AfricaSouth SudanSpainSri LankaSudanSwazilandSwedenSwitzerland - DeutschSwitzerland - FrançaisTaiwanTanzaniaThailandTogoTunisiaTurkeyUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayVenezuelaVietnamWestern SaharaZambiaZimbabwe
 
 *   About Lenovo
     *   Our Company
