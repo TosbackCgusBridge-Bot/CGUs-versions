@@ -162,7 +162,7 @@ COMPARE **CT HYBRID**
 **RX HYBRID**
 
 *   Starting at $52,235\*
-*   32/28 CITY/HWY MPG\*
+*   30-MPG COMBINED RATING
 
 *   Build
 *   Current Offers
