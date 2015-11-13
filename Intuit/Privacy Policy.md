@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14080650116
+true true C14083698369
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p19.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Wed Nov 11 11:31:17 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p07.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Thu Nov 12 11:29:53 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,88 +48,46 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Black Friday Stores Open Thanksgiving Day
+Extra 30% Off\* $100 or More Online Only | Ends November 16 | Use Code: SHOPALOT Or, Extra 20% Off\* with your JCPenney Credit Card  
+Extra 15% Off\* with any other method of payment In Store and Online | Ends November 16 | Use Code: SHOPALOT
+
+\*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
+
+Get Coupon See exclusions and details Great Deals On Gifts For Everyone Make Your List Sale Shop The Make Your List Sale View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop ShoesNight and Day Doorbusters
+
+Friday 3PM CST through Saturday 1PM CST
+
+Shop Doorbusters Black Friday Stores Open Thanksgiving Day
 
 Preview the deals and make your list.
 
-View Store Ad Extra 25% Off\*, select styles  
-Or, Extra 30% Off\* $100 or More, select styles 24 Hours Only | Online Only! | Code: ERLYSHOP
+View Store Ad Save On Jewelry For The Season Jewelry Spectacular Sale - Ends Monday, November 16
 
-Save big from 11PM CST November 10 through 11PM CST November 11. \*Exclusions apply
+30 to 60% Off Jewelry, select styles
 
-Get details: It's Veterans Day! Shop Now View Store Ad Big Buys Use Your Coupon and Save Even More!
+Shop Jewelry Spectacular Sale Shop Diamonds Shop Gemstones Shop Gold Shop Fashion Jewelry Shop Modern Bride Hurry! Our Home Sale Ends Soon 30 to 50% Off Home Collections
 
-Shop and Save ends November 11
+Select styles
 
-Women
+Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining
 
-Big Buy: 50% Off Coats and Jackets For Her, select styles
+24.99, after $15 mail-in rebate, Bella 18qt Turkey Roaster, reg. $85
 
-Shop Coats and Jackets
+14.99, after $5 mial-in rebate, Circulon Pan, reg. $35
 
-Big Buy: 12.99 A.N.A Sweaters, select styles
+Shop Entertaining Men's Suit Separates From JF J. Ferrar 50% Off Men's Suit Separates, Sport Coats and Dress Pants
 
-Shop A.N.A Sweaters
+Select styles
 
-Big Buy: 7.99 Tees, select styles
+Shop Men's Suit Separates, Sport Coats and Dress Pants Boots For The Family On Sale 40 to 50% Off Boots For The Family
 
-Shop Stylus Shop St. John's Bay Men
+Select styles
 
-50% Off Men's Outerwear, select styles
-
-Shop Coats and Jackets Shop Hats, Gloves and Scarves
-
-Buy One, Get One Free\* Men's Stafford Microfleece and Flannel Sleep Pants, select styles
-
-Shop Sleep Pants
-
-Big Buy: 19.99 Guys' Arizona Jeans, select styles
-
-Shop Arizona Jeans Shoes
-
-50% Off St. John's Bay Boots For Her, select styles
-
-Shop St. John's Bay Boots
-
-40 to 50% Off Liz Claiborne and Clarks Boots, select styles
-
-Shop Claiborne and Clarks Boots
-
-40% Off Men's Fashion Boots, select styles
-
-Shop Men's Boots Home
-
-3.99 Home Expressions 100% Cotton Solid Bath Towel
-
-Shop Bath Towels
-
-14.99, After $10 Mail-In Rebate, Cooks Small Appliances, select styles
-
-Shop Small Appliances
-
-15.99 JCPenney Home The Hunk 2PK Standard or Queen Pillow
-
-Shop Pillows Kids
-
-Big Buy: 29.99 Kids' Puffer Jackets, reg. $70
-
-Shop Kids' Puffer Jackets
-
-Buy One, Get One Free\* Kids' Xersion Activewear, select styles
-
-Shop Kids' Activewear
-
-Big Buy: Buy One, Get One 50% Off\* Kids' Arizona Tops and Denim, select styles
-
-Shop Kids' Arizona
-
-\*Buy one item at regular price, get the second item of equal or lesser value for 50% off. Buy one item at regular price, get the second item of equal or lesser value for free.
-
-Where Giving Begins
+Shop Boots For The Family Where Giving Begins
 
 Gifts they want. Savings you love.
 
-Shop All Gifts Star Wars Shop Star Wars Now JCPenney | portraits
+Shop All Gifts Star Wars™ Shop Star Wars Now JCPenney | portraits
 
 Holiday Memories - 40% Off Photo Purchase
 
