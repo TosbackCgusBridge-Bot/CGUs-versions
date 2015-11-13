@@ -836,24 +836,24 @@ Destination Guides
     *   Ho Chi Minh City
     *   Nha Trang
 
-LEARN ABOUT OUR BEST RATE GUARANTEE
+WHY BOOK HERE
 
 *   Stay connected to Starwood Hotels:
 *   More
 *   Mobile Options
 *   Guest Reviews
 
-  You are on StarwoodHotels.com Other Starwood Brands >. | Four Points Sheraton Aloft W Hotels Le Méridien Luxury Collection Element Westin St. Regis Tribute Portfolio Starwood Preferred Guest Starwood Hotels Learn about our brands Starwood Hotels &. Resorts
+You are on StarwoodHotels.com Starwood Hotels &. Resorts Other Starwood Brands >. Four Points Sheraton Aloft W Hotels Le Méridien Luxury Collection Element Westin St. Regis Tribute Portfolio Design Hotels Starwood Preferred Guest Starwood Hotels Learn about our brands
 
-© 2015 Starwood Hotels &. Resorts Worldwide, Inc.
+© 2015 Starwood Hotels &. Resorts Worldwide, Inc., All rights reserved. |
 
-All rights reserved.
+AdChoices
 
 *   Website Terms of Use |
 *   Updated Privacy Statement
 *   | Text Only
 
-AdChoices Close X Get a Better View
+Close X Get a Better View
 
 Upgrade your browser from Internet Explorer 6 or Firefox 3.0, 3.5 or 4.0 to the latest version for the best possible StarwoodHotels.com experience.
 
