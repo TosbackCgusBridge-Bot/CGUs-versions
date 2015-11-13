@@ -20,7 +20,7 @@ LENOVO Menu
         8.  Deals for Students and Educators
         9.  Outlet
         10.  Warranty-Sale
-    *   Holiday Kick-Off Sale. Celebrate the Season of Giving with Savings.
+    *   Early Bird Savings. Start Now - Save Big!
         
         Save up to 50% Site-Wide.
         
@@ -53,7 +53,8 @@ LENOVO Menu
         2.  Servers, Storage &. Networking Support information for System x issues and questions
         3.  Network Storage Support Support information for Lenovo, LenovoEMC &. Iomega products
         4.  Accessories, Options and Monitors Support for these extras
-    *   Payment issues Call 1-855-253-6686, option 2  
+    *   Payment issues Call 1-855-2-LENOVO  
+        (1-855-253-6686), Option 2  
         Monday - Friday, 9am - 5:30pm (EST)  
           
         Lenovo Preferred Card  
