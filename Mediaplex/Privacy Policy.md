@@ -66,6 +66,14 @@ THAN ANYONE See What We Do
     Return On Ad Spend
 
 *   The Latest News
+*   Click Measurement
+    
+    Why display clicks shouldn't matter
+    
+*   Accurately Recognizing Consumers
+    
+    How to avoid the 3 biggest mistakes
+    
 *   Personalized Video
     
     Our newest 1:1 product
@@ -77,14 +85,6 @@ THAN ANYONE See What We Do
 *   Conversant Access
     
     Take control of your own data
-    
-*   ShopperView
-    
-    Our new product for CPG
-    
-*   Growing Actionable Audiences
-    
-    How we found 8x the consumers
     
 
 OUR IMPACT
