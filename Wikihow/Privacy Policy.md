@@ -360,8 +360,9 @@ E. Contact. Please contact us wiki@wikiHow.com with any questions regarding this
 General Questions and Help
 
 *   Please contact Chris Hadley
-    *   Email wiki@wikiHow.com
+    *   Email wiki@wikihow.com
     *   Call 650-492-8008
+    *   Advertisers please contact: ads@wikihow.com
 
 Snail Mail
 
