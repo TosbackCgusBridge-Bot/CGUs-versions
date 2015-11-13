@@ -96,14 +96,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Wed, Nov 11, 2015 14th annual Seattle SecureWorld Conference
-
-SecureWorld's programs are created to tackle the complexities of cybersecurity with solution-oriented education. The conference will provide networking opportunities designed for IT and security professionals. OTA is proud to be an association sponsor and speaker since 2012.  Take advantage of our event discounts  by using the following codes:
-
-SEA4P for $200 off the SecureWorld Plus Pass  
-SEA4 for $100 off the Conference Pass  
-SEA4E for $25 off the Open Sessions Pass - (Lunch &. CPE's not included)
-
 Mon, Nov 16, 2015 DC Salon Dinner &. Reception - Cross Device Tracking &. IoT
 
 Join OTA, Congresswoman Suzan DelBene (Washington), Daniel Kaufman, Deputy Director for the FTC’s Bureau of Consumer Protection and others discuss the evolving world of privacy, and the challenges and opportunities of the cross device tracking and  "Internet of Things."  This off-the-record dinner is a unique opportunity for invited guests to discuss the world of big data, the role of innovation and the impact on consumer trust and confidence. Attend to get an insider’s view on trends, threats and opportunities.
@@ -116,8 +108,18 @@ Wed, Nov 18, 2015 IoT Trust Framework Summit
 
 The Online Trust Alliance will be hosting the face-to-face working group meeting to review the final draft of the trust framework and discuss steps for moving the program to a self regulatory code of conduct and/or certification program.  Registration fee includes breakfast, lunch and breaks. This program is open to the public for all organizations and participants who agree to "Chatham House Rule."  The workshop will be hosted at the offices of Holland &. Knight, 800 17th Street N.W, District of Columbia, DC 20006.  
 
+Thu, Nov 19, 2015 IoT Trust Framework Congressional Staff Briefing
+
+Limited to Senate, House and Congressional staff and invited subject matter experts. This lunch program will review the multi-stakeholder trust framework addressing key security, privacy and sustainability issues as they pertain to the connected home and wearable technologies, leading to a volunary code of conduct and / or certifcation program.  Details on the framework are posted at https://otalliance.org/IoT.  For more information call 425-455-7400 or email kims@otalliance.org. 
+
+More >>.
+
 *   OTA Blog
 *   Newsletters
+
+Thu, Nov 12, 2015 Why We Need an IoT Framework
+
+We already suspected our smart TVs were ‘watching’ our viewing behavior and sharing data with advertising and television business partners.  Now, our smart TVs can open our homes to criminals. 
 
 Wed, Oct 28, 2015 Moving to a World of Trusted IoT Devices &. Services
 
@@ -131,11 +133,7 @@ Thu, Oct 8, 2015 Help Your Small Business Weather the Safe Harbor Storm
 
 Europe's highest court recently struck down the "Safe Harbor" agreement between the United States and the European Union (EU), a decision that could have an enormous impact on American and European businesses who depend on transatlantic data transfers for their livelihood.  The decision by the European Court of Justice (ECJ) means that U.S.
 
-Fri, Sep 18, 2015 Does Your Favorite Presidential Candidate Make the Grade?
-
-As the Presidential race kicks into high gear, voters are evaluating how candidates will tackle tough issues on foreign and domestic policy.  Let’s hope they don’t overlook topics relating to online privacy and security.  A recent Pew Research Center survey indicates that 74% of Americ
-
-Resources
+More >>. Resources
 
 *   Advertising Integrity &. Fraud
 *   Data Breach &. Protection
@@ -194,5 +192,3 @@ About Us
 *   Subscribe
 *   Privacy Policy
 *   Contact Us
-
-Printer-friendly version
