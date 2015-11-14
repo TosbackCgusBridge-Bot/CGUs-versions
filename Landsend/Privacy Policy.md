@@ -27,7 +27,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   New Arrivals
             *   The Starfish Collection
             *   Outerwear Guide
-            *   Turtleneck Shop
+            *   2016 Swim Preview
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
@@ -59,13 +59,13 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Men
         *   Featured Shops
             *   Back to Men Featured Shops
-            *   Outerwear Guide
+            *   Gifts for Him
             *   Hats, Gloves &. Scarves
             *   No Iron Shop
             *   Supima Shirts &. Sweaters
             
             *   New Arrivals
-            *   Best of Fall 2015
+            *   Outerwear Guide
             *   Tailored Fit Shop
             *   Slim Fit Shop
             *   Sale
@@ -141,8 +141,8 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Jeans
             *   Shorts
             *   Blazers &. Jackets
-            *   Activewear
             *   Sleepwear
+            *   Activewear
             *   Swimsuits
             *   Shoes
             *   Accessories
