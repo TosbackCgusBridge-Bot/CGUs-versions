@@ -14,7 +14,7 @@ LENOVO Menu
         2.  Professional Laptops Sale
         3.  Desktops Sale
         4.  Tablets Sale
-        5.  Accessories Deals
+        5.  Stocking Stuffers
         6.  Ready to Ship PCs
         7.  Coupon Page
         8.  Deals for Students and Educators
@@ -328,6 +328,7 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Lenovo Gift Cards
     *   Lenovo Photo Service
     *   Gaming Computers
+    *   Yoga Computers
     *   Discover Lenovo
     *   New Product Showcase
     *   New Product Announcements
