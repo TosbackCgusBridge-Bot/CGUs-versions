@@ -93,8 +93,6 @@ Our Websites typically collect two (2) kinds of information about you: (a) infor
     *   Cooking Channel
     *   Travel Channel
     *   Great American Country
-    *   FrontDoor
-    *   HGTVRemodels.com
     *   Food.com
     
 
