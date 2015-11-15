@@ -82,8 +82,8 @@ Popular Links
 
 *   Mortgage Rates
 *   Home Equity Rates
+*   Auto Loan Rates
 *   Get Help with Payment Challenges
-*   Rewards
 *   Finish Application/Check Status
 *   Student Loan Discounts
 
