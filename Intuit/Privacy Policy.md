@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14193464476
+true true C14101831185
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Sat Nov 14 11:32:16 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Sun Nov 15 11:32:51 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,42 +48,49 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Extra 30% Off\* $100 or More Online Only | Ends November 16 | Use Code: SHOPALOT Or, Extra 20% Off\* with your JCPenney Credit Card  
-Extra 15% Off\* with any other method of payment In Store and Online | Ends November 16 | Use Code: SHOPALOT
-
-\*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
-
-Get Coupon See exclusions and details Great Deals On Gifts For Everyone Make Your List Sale Shop The Make Your List Sale View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop ShoesNight and Day Doorbusters
-
-Friday 3PM CST through Saturday 1PM CST
-
-Shop Doorbusters Black Friday Stores Open Thanksgiving Day
-
-Preview the deals and make your list.
-
-View Store Ad Save On Jewelry For The Season Jewelry Spectacular Sale - Ends Monday, November 16
-
-30 to 60% Off Jewelry, select styles
-
-Shop Jewelry Spectacular Sale Shop Diamonds Shop Gemstones Shop Gold Shop Fashion Jewelry Shop Modern Bride Hurry! Our Home Sale Ends Soon 30 to 50% Off Home Collections
+Save On Holiday Dress Clothes For The Family 40 to 50% Off Worthington Apparel
 
 Select styles
 
-Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining
-
-24.99, after $15 mail-in rebate, Bella 18qt Turkey Roaster, reg. $85
-
-14.99, after $5 mial-in rebate, Circulon Pan, reg. $35
-
-Shop Entertaining Men's Suit Separates From JF J. Ferrar 50% Off Men's Suit Separates, Sport Coats and Dress Pants
+Shop Worthington Apparel 40 to 50% Off Men's Suit Separates, Sport Coats and Dress Pants
 
 Select styles
 
-Shop Men's Suit Separates, Sport Coats and Dress Pants Boots For The Family On Sale 40 to 50% Off Boots For The Family
+Shop Men's Suit Separates, Sport Coats and Dress Pants 40 to 50% Off Kids' Dress-Up
 
 Select styles
 
-Shop Boots For The Family Where Giving Begins
+Shop Kids' Dress-Up         Save On Everything You Need For The Holidays 30 to 50% Off Home Collections
+
+Select styles
+
+Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Holiday Entertaining Save On Pajamas For Men, Women and Kids 40 to 50% Off Sleepwear For The Family
+
+Select styles
+
+Shop Sleepwear For The Family Xersion Apparel On Sale! 40 to 50% Off Xersion Apparel
+
+Select styles
+
+Shop Men Shop Women Shop Boys Shop Girls     Black Friday Sneak Peek! Black Friday Deals
+
+Preview the deals and make your list
+
+View Store Ad Doors Open at 3PM\*
+
+\*Except where prohibited by law. Hours of our Black Friday Sale may vary by store. Please check with your local store for details.
+
+Get in store early Thanksgiving Day! You could get an in-store and online coupon
+
+$500 Off\* $500 Super-Savings Coupon  
+Or, $100 Off\* $100 Instant-Savings Coupon  
+Or, $10 Off\* $10 Instant-Savings Coupon
+
+Plus your chance to win 1 of 10 $10,000 Cash Grand Prizes\*
+
+\*While supplies last. Some restrictions and exclusions apply.
+
+Get details and official rules: Where Giving Begins
 
 Gifts they want. Savings you love.
 
@@ -91,7 +98,7 @@ Shop All Gifts Star Wars™ Shop Star Wars Now JCPenney | portraits
 
 Holiday Memories - 40% Off Photo Purchase
 
-Shop Portraits Now Sephora Shop Gifts Now
+Shop Portraits Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
