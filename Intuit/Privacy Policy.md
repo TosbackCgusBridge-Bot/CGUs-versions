@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14101831185
+true true C14104504670
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Sun Nov 15 11:32:51 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p08.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Mon Nov 16 11:29:23 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,35 +48,35 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Save On Holiday Dress Clothes For The Family 40 to 50% Off Worthington Apparel
+3 Days Only Online Only | Ends November 18 | Code: SAVALOT2 \*See offer exclusions and details:
+
+50% Off\* select orig and reg-priced items
+
+Shop Bedding and Bath Shop Luggage Shop Window
+
+40% Off\* select orig and reg-priced items
+
+Shop Home Decor Shop Furniture and Mattresses
+
+30% Off\* select orig and reg-priced items
+
+Shop Kitchen and Dining Shop Storage and Organization Shop Vacuums and Floorcare Shop Custom Blinds and Shades
+
+Extra 20% Off\* select orig, reg, sale and clearance-priced items
+
+Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Fine and Fashion Jewelry Shop Handbags and Accessories Shop Online Clearance Save On Pajamas for Men, Women and Kids 40 to 50% Off Sleepwear For The Family
+
+Select Styles
+
+Shop Sleepwear For The Family Men's, Women's and Kids' Boots On Sale! 40 to 50% Off Boots For The Family
 
 Select styles
 
-Shop Worthington Apparel 40 to 50% Off Men's Suit Separates, Sport Coats and Dress Pants
-
-Select styles
-
-Shop Men's Suit Separates, Sport Coats and Dress Pants 40 to 50% Off Kids' Dress-Up
-
-Select styles
-
-Shop Kids' Dress-Up         Save On Everything You Need For The Holidays 30 to 50% Off Home Collections
-
-Select styles
-
-Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Holiday Entertaining Save On Pajamas For Men, Women and Kids 40 to 50% Off Sleepwear For The Family
-
-Select styles
-
-Shop Sleepwear For The Family Xersion Apparel On Sale! 40 to 50% Off Xersion Apparel
-
-Select styles
-
-Shop Men Shop Women Shop Boys Shop Girls     Black Friday Sneak Peek! Black Friday Deals
+Shop Boots For The Family Black Friday Sneak Peek! Black Friday Deals
 
 Preview the deals and make your list
 
-View Store Ad Doors Open at 3PM\*
+View Store AdDoors Open at 3PM\*
 
 \*Except where prohibited by law. Hours of our Black Friday Sale may vary by store. Please check with your local store for details.
 
@@ -90,15 +90,23 @@ Plus your chance to win 1 of 10 $10,000 Cash Grand Prizes\*
 
 \*While supplies last. Some restrictions and exclusions apply.
 
-Get details and official rules: Where Giving Begins
+Get details and official rules: Star Wars On Sale 40 to 50% Off Star Wars Apparel and Accessories For The Family
 
-Gifts they want. Savings you love.
+Select styles
 
-Shop All Gifts Star Wars™ Shop Star Wars Now JCPenney | portraits
+Shop Star Wars SportsFanShop
+
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
+
+Shop SportsFanShop Where Giving Begins
+
+Gifts they want. Savings you love
+
+Shop All Gifts JCPenney | portraits
 
 Holiday Memories - 40% Off Photo Purchase
 
-Shop Portraits Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop Portraits Now Download the JCPenney App and Get Shopping Check out the app: Download on the AppStore Get it on Google play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
