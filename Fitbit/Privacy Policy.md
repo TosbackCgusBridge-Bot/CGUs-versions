@@ -38,11 +38,9 @@ We know policies are important, but sometimes they get pretty confusing. So, we 
 
 our pledge
 
-We pledge to respect your privacy, to be transparent about our data practices, to keep your data safe, to never sell it, to let you decide how your information is shared, and to only collect data that helps us improve our products and services.
+We pledge to respect your privacy, to be transparent about our data practices, to keep your data safe, to never sell your personal data, to let you decide how your information is shared, and to only collect data that helps us improve our products and services.
 
-If you want more information and love fine print as much as our lawyers love writing it, you can peruse our full privacy policy.
-
-And, if you have any questions, comments or concerns, email us at privacy@fitbit.com.
+If you want more information, you can peruse our full privacy policy. And, if you have any questions, comments or concerns, email us at privacy@fitbit.com.
 
 WHAT WE COLLECT
 
@@ -152,9 +150,9 @@ Learn More What people are saying
 
 Serving up another batch of info. And this time, it’s cookie-related.
 
-  Our policy on cookies—in life, and online—is that we like them a lot, in moderation. We use cookies and other technologies to improve our services and your experience.  Hungry for more answers?
+  Our policy on cookies—in life, and online—is that we like them a lot, in moderation. We use cookies and other technologies to improve our services and your experience.  
 
-Read on
+Hungry for more answers? Read on
 
 Get the low-down on  
 all things Fitbit legal.
