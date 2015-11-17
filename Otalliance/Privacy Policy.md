@@ -192,3 +192,5 @@ About Us
 *   Subscribe
 *   Privacy Policy
 *   Contact Us
+
+Printer-friendly version
