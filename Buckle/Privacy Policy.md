@@ -1,6 +1,4 @@
-Military Guests, thank you for your service.
-
-10% Military Discount
+Receive a FREE gift with a qualifying purchase!
 
 Guest Services 800-607-9788
 
