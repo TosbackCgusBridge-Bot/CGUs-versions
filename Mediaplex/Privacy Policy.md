@@ -56,12 +56,12 @@ MILLIONS OF REAL
 PEOPLE BETTER  
 THAN ANYONE See What We Do
 
+*   150+ MILLION Real People You Can  
+    Message Right Now
 *   80 BILLION Interactions  
     Every Day
 *   1+ Trillion Daily Real-Time  
     Decisions
-*   1+ Million Requests Per  
-    Second
 *   10X Average Incremental  
     Return On Ad Spend
 
