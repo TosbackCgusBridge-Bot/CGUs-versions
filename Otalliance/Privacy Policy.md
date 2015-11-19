@@ -96,10 +96,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Mon, Nov 16, 2015 DC Salon Dinner &. Reception - Cross Device Tracking &. IoT
-
-Join OTA, Congresswoman Suzan DelBene (Washington), Daniel Kaufman, Deputy Director for the FTC’s Bureau of Consumer Protection and others discuss the evolving world of privacy, and the challenges and opportunities of the cross device tracking and  "Internet of Things."  This off-the-record dinner is a unique opportunity for invited guests to discuss the world of big data, the role of innovation and the impact on consumer trust and confidence. Attend to get an insider’s view on trends, threats and opportunities.
-
 Tue, Nov 17, 2015 OTA Annual Member Meeting
 
 Join OTA members, staff and the board as we celebrate our 10th year anniversary. Full-day of interactive discussions on a number of hot topics including briefings with legislators and networking opportunities.  In conjunction with the annual meeting, OTA is hosting a Salon dinner on Monday night the 16th, the IoT Trust Framework Summit on Wednesday the 18th and Congressional Staff lunch on Thursday the 19th.
@@ -112,7 +108,7 @@ Thu, Nov 19, 2015 IoT Trust Framework Congressional Staff Briefing
 
 Limited to Senate, House and Congressional staff and invited subject matter experts. This lunch program will review the multi-stakeholder trust framework addressing key security, privacy and sustainability issues as they pertain to the connected home and wearable technologies, leading to a volunary code of conduct and / or certifcation program.  Details on the framework are posted at https://otalliance.org/IoT.  For more information call 425-455-7400 or email kims@otalliance.org. 
 
-More >>.
+Thu, Nov 19, 2015 IoT Trust Framework - Hill Briefing &. Lunch More >>.
 
 *   OTA Blog
 *   Newsletters
