@@ -10,6 +10,7 @@ en
 *   DE Deutsch
 *   ES Español
 *   FR Français
+*   JP 日本の
 
 Sign up Login Upload
 
@@ -314,3 +315,4 @@ Copyright © 2007-2015 Tube8.com, All Rights Reserved. en
 *   DE Deutsch
 *   ES Español
 *   FR Français
+*   JP 日本の
