@@ -77,6 +77,7 @@ Back News and Conversations
 *   Here &. Now
 *   The Diane Rehm Show
 *   Latino USA
+*   NPR Politics Podcast
 *   On Point
 *   Weekend Edition Saturday
 *   Weekend Edition Sunday
@@ -289,7 +290,7 @@ NPR Newscast
 
 4min 45sec
 
-find stations npr mobile apps find podcasts Skip to Main Content Privacy Policy May 07, 2013 9:51 AM ET
+find stations npr mobile apps find podcasts Skip to Main Content Privacy Policy Updated July 25, 20143:08 PM ET Originally published May 7, 20139:51 AM ET
 
 **Effective Date July 25, 2014**
 
