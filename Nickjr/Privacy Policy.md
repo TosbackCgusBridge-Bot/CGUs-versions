@@ -1,6 +1,6 @@
 **THE NICKELODEON GROUP PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**
 
-**LAST UPDATED:** Nickelodeon Universal Privacy Policy - Last Updated Date 04/09/2015
+**LAST UPDATED:** Nickelodeon Universal Privacy Policy - Last Updated Date 11/18/2015
 
 Click here to learn about the most recent significant updates.
 
@@ -145,7 +145,7 @@ We may request or collect certain information when you visit the Nickelodeon Sit
 
 **A.  Registration Information**:  The information required to register varies by Site, but may include: (a) birth date. (b) gender. (c) country. (d) state. (e) zip code. (f) user name and password. (g) wireless telephone number. (h) email address. and (i) other profile information such as avatar preferences, communications preferences, and interests. If the Site either is directed to children under 13 or has actual knowledge that a user is under 13 years old, the child may be asked to provide his or her parent's or guardian's email address. For certain countries, visitors or their parents/guardians will receive an activation email and must follow the procedures or otherwise agree to the terms within the activation email within a certain time period to activate the account. accounts not activated within that time period will be deleted.
 
-Registration information is used to enable visitors to take advantage of site offerings. respond to visitor’s requests for products, services, and information. manage games. serve appropriate material. customize the content you see when you visit the Nickelodeon Sites. and offer visitors special offers and promotions from Nickelodeon Sites and the “Viacom family of companies” (which comprises Viacom International Inc. and its subsidiaries and affiliates), as well as on behalf of selected third parties offering products, programs or services, that we believe may be of interest to you.
+Registration information is used to enable visitors to log into their accounts across different devices and platforms. take advantage of site offerings. respond to visitor’s requests for products, services, and information. send communications to users in connection with their account. manage games. serve appropriate material. customize the content you see when you visit the Nickelodeon Sites. and offer visitors special offers and promotions from Nickelodeon Sites and the “Viacom family of companies” (which comprises Viacom International Inc. and its subsidiaries and affiliates), as well as on behalf of selected third parties offering products, programs or services, that we believe may be of interest to you.
 
 Certain non-child-directed Sites may offer visitors opportunities to apply for certain programs or other employment, training or internship opportunities. In order to submit an application for any one of these opportunities, the applicant may be required to supply other pertinent personal information including, without limitation, full name, postal address, telephone number(s) and email address. Additional personal information and other information may be requested during the application process (but may not be required). Such submissions are also subject to the policies regarding such respective programs.
 
@@ -364,11 +364,11 @@ Nickelodeon Online
 
 New York, New York 10036
 
-This document is the sole statement of the Nickelodeon Sites' Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid. In interpreting this Agreement, the English version governs the interpretation and meaning of the obligation set forth herein. To the extent there is an ambiguity or conflict with the Privacy
+This document is the sole statement of the Nickelodeon Sites' Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid. In interpreting this Agreement, the English version governs the interpretation and meaning of the obligation set forth herein. To the extent there is an ambiguity or conflict with the Privacy Policy in other languages, the Privacy Policy in English governs.
 
 **IX. CONTACT US**
 
-If you have any other questions about our information handling practices, including our practices with respect to
+If you have any other questions about our information handling practices, including our practices with respect to children’s personal information, please contact us at:
 
 Nick.com CA Privacy Coordinator
 
