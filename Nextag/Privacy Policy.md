@@ -173,7 +173,6 @@ Shopping About US
 International
 
 *   Australia
-*   Canada
 *   France
 *   Germany
 *   Italy
