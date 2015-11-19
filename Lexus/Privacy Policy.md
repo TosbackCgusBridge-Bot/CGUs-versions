@@ -35,18 +35,25 @@ MENU **IS**
 
 **GS**
 
-*   Starting at $48,600\*
-*   306-hp\* 3.5L V6
+*   Starting at $45,615\*
+*   2.0L I-4 or 3.5L V6
 
 *   Build
 *   Current Offers
 
 **GS HYBRID**
 
-*   Starting at $61,330\*
+*   Starting at $63,080\*
 *   338 hp\* (total system)
 
 *   Build
+*   Current Offers
+
+**GS F**
+
+*   Starting at $84,440\*
+*   467 hp\*
+
 *   Current Offers
 
 **LS**
@@ -177,7 +184,7 @@ COMPARE **CT HYBRID**
 
 **GS HYBRID**
 
-*   Starting at $61,330\*
+*   Starting at $63,080\*
 *   338 hp\* (total system)
 
 *   Build
@@ -201,6 +208,13 @@ COMPARE **RC F**
 *   Build
 *   Current Offers
 
+**GS F**
+
+*   Starting at $84,440\*
+*   467 hp\*
+
+*   Current Offers
+
 **LFA**
 
 *   ALL 500 UNITS SOLD
@@ -213,11 +227,7 @@ COMPARE **RC F**
 
 SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
-COMPARE **GS F**
-
-*   ARRIVING LATE 2015
-
-**LF-LC**
+COMPARE **LF-LC**
 
 *   CONCEPT VEHICLE
 
