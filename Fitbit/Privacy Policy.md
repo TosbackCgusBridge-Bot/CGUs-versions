@@ -44,7 +44,7 @@ If you want more information, you can peruse our full privacy policy. And, if yo
 
 WHAT WE COLLECT
 
-From motivational sayings to fitness tips, we think it’s important to collect things that make us better. That’s why we collect data you when use our products and services—because that information helps us get to you know and create a better experience for you. And you deserve the best.
+From motivational sayings to fitness tips, we think it’s important to collect things that make us better. That’s why we collect data when you use our products and services—because that information helps us get to you know and create a better experience for you. And you deserve the best.
 
 Device Info
 
