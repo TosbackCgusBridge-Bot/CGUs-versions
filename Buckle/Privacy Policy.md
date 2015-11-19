@@ -1,4 +1,4 @@
-Receive a FREE gift with a qualifying purchase!
+Spend $150, get FREE SHIPPING!
 
 Guest Services 800-607-9788
 
