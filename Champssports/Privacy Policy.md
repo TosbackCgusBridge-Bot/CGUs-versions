@@ -1,6 +1,6 @@
 Privacy Policy
 
-Last Updated August, 2015
+Last Updated November, 2015
 
 Thank you for visiting our Website. We recently revised our Privacy Statement to make it easier for you to understand. This revised Statement, like our previous one, outlines the information we collect, how we may use and disclose it, and what your options are with respect to our practices. If you have any questions, please contact us at customercare@champssports.com
 
@@ -19,7 +19,7 @@ Information Collection Information Use Information Disclosure Updating Your Info
     If you register with or order from us, we may use cookies to monitor and maintain information about how you use our Site and what you buy. If you do not register with or buy from us, we may monitor and maintain information about your use in order to improve your shopping experience and provide you with more relevant content and advertising.
 4.  _Tracking Options._ You may adjust your browser settings to limit certain tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of our offerings.  
       
-    Even without a cookie, you can still take advantage of most of the features of our Site, including making a purchase, but we will not be able to recognize you as a registered user unless you log in. Our system may not respond to Do Not Track requests or headers from some or all browsers. To opt-out of Champs Sports’ use of cookies to deliver more relevant advertising and to learn about your choices about not having this information used by certain service providers, please click here. On your mobile device, you can adjust your privacy and advertising settings to limit your tracking for advertising or control whether you receive more relevant advertising.
+    Even without a cookie, you can still take advantage of most of the features of our Site, including making a purchase, but we will not be able to recognize you as a registered user unless you log in. Our system may not respond to Do Not Track requests or headers from some or all browsers. To opt-out of Champs Sports’ use of cookies to deliver more relevant advertising and to learn about your choices about not having this information used by certain service providers, please click here. For certain service providers, such as social media platforms, and on your mobile device, you can adjust your privacy and advertising settings to limit your tracking for advertising or control whether you receive more relevant advertising.
 5.  _Information Collected From Other Sources._ We may obtain information about you from other sources, including social networks that you use to connect with us. This information may include name, user name, demographic information, updated address or contact information, interests, and publicly-observed data, such as from social media and online activity.
 6.  _Combination of Information._ We may also combine the information we receive from and about you, including the information you provide to us on the Site or through the Loyalty Program, information we receive from third parties, information we automatically collect (as explained above), and information provided or collected offline when you shop in our Stores.
 
