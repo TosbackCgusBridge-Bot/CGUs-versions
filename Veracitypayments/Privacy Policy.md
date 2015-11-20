@@ -142,7 +142,7 @@ Read Vanco's blog for timely news and insights about effective management of ele
 
   
 © 2015 Vanco Payment Solutions. All rights reserved.  
-Vanco Payment Solutions is a registered ISO of Wells Fargo Bank, N.A., Walnut Creek, CA., and a registered ISO/MSP of Synovus Bank, Columbus, GA.
+Vanco Payment Solutions is a registered ISO of Wells Fargo Bank, N.A., Walnut Creek, CA.
 
 *   Privacy Policy|
 *   Terms Of Service|
