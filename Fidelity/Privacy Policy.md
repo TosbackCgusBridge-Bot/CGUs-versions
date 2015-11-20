@@ -2,12 +2,12 @@ Skip to Main Content. Site navigation Fidelity.com Home
 
 *   Customer Service
 *   Open An Account
-*   Profile
+*   Refer A Friend
 *   Log In
 
 *   Customer Service
 *   Open An Account
-*   Profile
+*   Refer A Friend
 *   Log Out
 
 Search Fidelity.com
@@ -16,11 +16,12 @@ Search Fidelity.com
     *   PortfolioLog In Required
     *   Account PositionsLog In Required
     *   TradeLog In Required
+    *   Active Trader ProLog In Required
     *   Transfer Money / SharesLog In Required
     *   Cash ManagementLog In Required
     *   BillPayLog In Required
     *   Full ViewLog In Required
-    *   Refer A Friend
+    *   ProfileLog In Required
     *   Update Accounts / FeaturesLog In Required
     *   StatementsLog In Required
     *   Retirement Distribution CenterLog In Required
@@ -69,12 +70,12 @@ Search Fidelity.com
 
 *   Customer Service
 *   Open An Account
-*   Profile
+*   Refer A Friend
 *   Log In
 
 *   Customer Service
 *   Open An Account
-*   Profile
+*   Refer A Friend
 *   Log Out
 
 *   **Home**»
