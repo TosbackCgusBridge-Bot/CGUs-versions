@@ -1,4 +1,4 @@
-**A substantial amount information is collected during rendering services DepositFiles in ordinary course of business due to technological or contractual necessity. DepositFiles shall do its best to safeguard your privacy within the legal boundaries. In other words we do not collect more data than necessary for proper rendering of Services and we do our best to keep any collected information confidential unless legally obliged otherwise.**
+**A substantial amount information is collected during rendering services DepositFiles in ordinary course of business. DepositFiles shall do its best to safeguard your privacy within the legal boundaries.**
 
 1.  **Information not considered private:**
     
@@ -14,11 +14,11 @@
         
 2.  **Private information.**
     
-    The following information is collected during rendering services DepositFiles confidential and undisclosed unless stated otherwise:
+    The following information held by DepositFiles is confidential and undisclosed unless stated otherwise:
     
-    1.  **Private Content.**
+    1.  **Personal information.**
         
-        Any stored information accessible exclusively via private account within the terms of DepositStorage services is confidential and is not subject to review or filtering upon presumption of fair use;
+        Any personal information not made publically available through your action or inaction - is confidential and is not subject to disclosure or filtering upon presumption of fair use;
         
     2.  **Cookies use.**
         
@@ -46,14 +46,22 @@
         
 3.  **Advertisers' access to information.**
     
-    Advertisements located on our website can be posted and/or hosted by a third party, advertisers or their agents. These persons can use the information regarding your visits obtained due to common use of Internet-protocols (geographical location, IP, language and other information automatically disclosed by your browser) to place an advertisement of goods and services that might be interest you. Any information collected at the pages owned by third parties is not subject to this Privacy Policy.
+    Certain third parties may have access to your non-personally identifiable information as follows:
     
+    1.  **Impression of advertisements.**
+        
+        Advertisements located on our website can be posted and/or hosted by a third party, advertiser or agents. These persons can use the information regarding your visits obtained due to common use of Internet-protocols (geographical location, IP, language and other information automatically disclosed by your browser) to place an advertisement of goods and services that might be interest you. Any information collected at the pages owned by third parties is not subject to this Privacy Policy.
+        
+    2.  **Third-party behavioral advertising practice.**
+        
+        We allow third-party companies to collect certain information of residents of United States as permitted by law thereof. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at www.aboutads.info and Networking Advertising Initiative at www.networkadvertising.org/choices/.
+        
 4.  **DISCLOSURE.**
     
     DEPOSITFILES MAY DISCLOSE ANY CONFIDENTIAL INFORMATION IN CASE IT BECOMES NECESSARY TO DEFEND ITS JURIDICAL RIGHTS.
     
-    IN CASE YOU ACTIONS LEAD TO SUSPICION OF TANGIBLE OR ASSUMED SABOTEUR ACTIONS OR POSES A POTENTIAL THREAT TO ANY PERSON'S PHYSICAL SAFETY OR ANY OTHER GRAVE CRIME, ALL YOUR KNOWN INFORMATION (INCLUDING BUT NOT LIMITED TO PERSONAL DETAILS, IP ADDRESSES, PAYMENT DATA) MAY BE DISCLOSED TO LAW ENFORCEMENT ORGANIZATIONS AND/OR MEMBERS OF THE ISP WITHOUT PRIOR NOTICE.
+    IN CASE YOU ACTIONS LEAD TO SUSPICION OF TANGIBLE OR ASSUMED SABOTEUR ACTIONS OR POSES A POTENTIAL THREAT TO ANY PERSON'S PHYSICAL SAFETY OR ANY OTHER GRAVE CRIME, ALL YOUR KNOWN INFORMATION (INCLUDING BUT NOT LIMITED TO PERSONAL DETAILS, IP ADDRESSES, PAYMENT DATA) MAY BE DISCLOSED TO LAW ENFORCEMENT ORGANIZATIONS AND/OR INTERNET SERVICE PROVIDER WITHOUT PRIOR NOTICE.
     
-    IN CASE OF ANY EVIDENCE OF DISTRIBUTION OF THE FILES CONTAINING MATERIALS WHICH APPEAR INVOLVING CHILD EXPLOITATION, THE ACCOUNT BELONGING TO THE USER WHO UPLOADED SUCH FILES WILL BE IMMEDIATELY DELETED AND ALL KNOWN INFORMATION (INCLUDING BUT NOT LIMITED TO PERSONAL DETAILS, IP ADDRESSES, PAYMENT DATA) WILL BE DIRECTED TO THE NATIONAL CENTER FOR MISSING &. EXPLOITED CHILDREN AND/OR HOTLINE COMBATING CHILD PORNOGRAPHY ON THE INTERNET, AS WELL AS LAW ENFORCEMENT ORGANIZATIONS AND/OR MEMBERS OF THE ISP WITHOUT PRIOR NOTICE.
+    IN CASE OF ANY EVIDENCE OF DISTRIBUTION OF THE FILES CONTAINING MATERIALS WHICH APPEAR INVOLVING CHILD EXPLOITATION, THE ACCOUNT BELONGING TO THE USER WHO UPLOADED SUCH FILES WILL BE IMMEDIATELY DELETED AND ALL KNOWN INFORMATION (INCLUDING BUT NOT LIMITED TO PERSONAL DETAILS, IP ADDRESSES, PAYMENT DATA) WILL BE DIRECTED TO THE NATIONAL CENTER FOR MISSING &. EXPLOITED CHILDREN AND/OR HOTLINE COMBATING CHILD PORNOGRAPHY ON THE INTERNET, AS WELL AS LAW ENFORCEMENT ORGANIZATIONS AND/OR MEMBERS OF INTERNET SERVICE PROVIDERS WITHOUT PRIOR NOTICE.
     
     DISCLOSURE OF YOUR INFORMATION CAN BE LAWFUL AS A RESULT OF A LEGAL PROCESS.
