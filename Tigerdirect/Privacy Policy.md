@@ -135,7 +135,7 @@ If you have any questions or concerns about this Privacy Policy, please e-mail u
   
 ****10\. BUSINESS TRANSFER****  
   
-We may transfer or assign any customer information, including Personal Information, owned, under the control of, or received by the Company or its affiliates, in connection with a merger, divestiture, stock sale, restructuring, reorganization, dissolution or other sale or transfer of some of all of the Companys assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding.  
+We may transfer or assign any customer information, including Personal Information, owned, under the control of, or received by the Company or its affiliates, in connection with a merger, divestiture, stock sale, restructuring, reorganization, dissolution or other sale or transfer of some or all of the Companys assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding.  
   
 ****11\. LIMITATIONS ON LIABILITY****  
   
