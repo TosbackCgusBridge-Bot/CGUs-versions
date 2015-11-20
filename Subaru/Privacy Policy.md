@@ -393,7 +393,6 @@ Enthusiasts
 *   Motorsports
 *   Events
 *   Subaru Loves Pets
-*   Subaru Gear
 *   Drive Magazine
 *   Drive Performance
 *   Badge of Ownership
@@ -432,6 +431,7 @@ Other Sites
 *   Subaru Power Products
 *   STIS
 *   Order Subaru Parts
+*   Subaru Gear
 *   Subaru Fleet
 
 Connect with Subaru Get Email Updates Customer Support
