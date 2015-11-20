@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14114100462
+true true L14212943441
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Wed Nov 18 11:31:02 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p13.jcpenney.com SERVER NAME :->. dtcomexpr1l1j1 TIME :->. Thu Nov 19 11:47:16 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,39 +48,48 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-3 Days Only Online Only | Ends November 18 | Code: SAVALOT2 \*See offer exclusions and details:
+Extra 30% Off\* $100 or More Online Only | Ends November 21 | Use Code: GETREADY
 
-50% Off\* select orig and reg-priced items
+Or
 
-Shop Bedding and Bath Shop Luggage Shop Window
+Extra 20% Off\* with your JCPenney Credit Card  
+Extra 15% Off\* with any other method of payment In Store and Online | Ends November 21 | Use Code: GETREADY
 
-40% Off\* select orig and reg-priced items
+\*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
 
-Shop Home Decor Shop Furniture and Mattresses
+Get Coupon See exclusions and details Sale Starts Now | In Store and Online Big Bonus Sale Shop The Big Bonus Sale View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop ShoesNight and Day Doorbusters
 
-30% Off\* select orig and reg-priced items
+Friday 3PM CST through Saturday 1PM CST
 
-Shop Kitchen and Dining Shop Storage and Organization Shop Vacuums and Floorcare Shop Custom Blinds and Shades
-
-Extra 20% Off\* select orig, reg, sale and clearance-priced items
-
-Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Fine and Fashion Jewelry Shop Handbags and Accessories Shop Online Clearance Save On Pajamas for Men, Women and Kids 40 to 50% Off Sleepwear For The Family
-
-Select Styles
-
-Shop Sleepwear For The Family Men's, Women's and Kids' Boots On Sale! 40 to 50% Off Boots For The Family
+Shop Doorbusters Update Your Space With Fall Bedding and Comforters 30 to 50% Off Home Collections
 
 Select styles
 
-Shop Boots For The Family Black Friday Sneak Peek! Black Friday Deals
+Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage Shop Comforters Save On Holiday Dress Clothes For The Family 40 to 50% Off Worthington Apparel
 
-Preview the deals and make your list
+Select styles
 
-View Store AdDoors Open at 3PM\*
+Shop Worthington Apparel40 to 50% Off Men's Suit Separates, Sport Coats and Dress Pants
+
+Select styles
+
+Shop Men's Suit Separates, Sport Coats and Dress Pants40 to 50% Off Kids' Dress-Up
+
+Select styles
+
+Shop Kids' Dress-Up         Boots For The Family On Sale Now 40 to 50% Off Boots For The Family
+
+Select styles
+
+Shop Boots For The Family Black Friday Sneak Peek! Doors Open at 3PM\*
 
 \*Except where prohibited by law. Hours of our Black Friday Sale may vary by store. Please check with your local store for details.
 
-Get in store early Thanksgiving Day! You could get an in-store and online coupon
+Black Friday Deals
+
+Preview the deals and make your list
+
+View Store AdGet in store early Thanksgiving Day! You could get an in-store and online coupon
 
 $500 Off\* $500 Super-Savings Coupon  
 Or, $100 Off\* $100 Instant-Savings Coupon  
@@ -90,23 +99,15 @@ Plus your chance to win 1 of 10 $10,000 Cash Grand Prizes\*
 
 \*While supplies last. Some restrictions and exclusions apply.
 
-Get details and official rules: Star Wars On Sale 40 to 50% Off Star Wars Apparel and Accessories For The Family
-
-Select styles
-
-Shop Star Wars SportsFanShop
+Get details and official rules: Star Wars™ Shop Star Wars Now SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
 Shop SportsFanShop Where Giving Begins
 
-Gifts they want. Savings you love
+Gifts they want. Savings you love.
 
-Shop All Gifts JCPenney | portraits
-
-Holiday Memories - 40% Off Photo Purchase
-
-Shop Portraits Now Download the JCPenney App and Get Shopping Check out the app: Download on the AppStore Get it on Google play
+Shop All Gifts Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
