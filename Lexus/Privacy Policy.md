@@ -54,6 +54,7 @@ MENU **IS**
 *   Starting at $84,440\*
 *   467 hp\*
 
+*   Build
 *   Current Offers
 
 **LS**
@@ -213,6 +214,7 @@ COMPARE **RC F**
 *   Starting at $84,440\*
 *   467 hp\*
 
+*   Build
 *   Current Offers
 
 **LFA**
