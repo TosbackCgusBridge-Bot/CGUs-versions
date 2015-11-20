@@ -7,7 +7,9 @@ The Social Network for **meeting** new people
 
   TERMS OF SERVICE Jump to Privacy Policy Terms of Service
 
-Updated as of March 19, 2015
+Updated as of November 18, 2015
+
+TAGGED DOES NOT CONDUCT CRIMINAL BACKGROUND CHECKS. PLEASE BE SAFE WHEN INTERACTING WITH USERS. Read our Online Safety tips.
 
 1 This Terms of Service Agreement (the "Agreement") controls your access and use of any of the various services (the "Services") made available to you (the "Member") by Ifwe, Inc. ("Tagged") through http://www.tagged.com, Tagged mobile applications or otherwise. 2 ONLY USERS WHO ARE 18 YEARS OF AGE OR OLDER MAY REGISTER FOR TAGGED. By accessing the services and/or completing the registration process for the Tagged website, 3 you represent that you are 18 years of age or older, and can and will be legally bound by this Agreement. By registering on Tagged, you represent and warrant that you are not required to register as a sex offender with any government entity. 4 No Member may participate where doing so would be prohibited by any applicable law or regulation.
 
@@ -74,7 +76,7 @@ H) Tagged Gold
 
 I) VIP Membership
 
-37 You may decide to upgrade your membership to VIP status for an additional monthly cost. If you choose to become a Tagged VIP, you will be able to elect to have your membership automatically renewed on a monthly basis by enrolling in the auto-renew program. If, at any point, you wish to discontinue your VIP membership, you must visit http://www.tagged.com/account\_info.html and select 'CANCEL' at least 3 days prior to your next scheduled automatic payment so that we can process your cancellation properly.
+37 You may decide to upgrade your membership to VIP status for an additional monthly cost. If you choose to become a Tagged VIP, you will be able to elect to have your membership automatically renewed on a monthly basis by enrolling in the auto-renew program. If, at any point, you wish to discontinue your VIP membership, you may do so at your convenience. If your VIP membership account is billed through our website, you must visit http://www.tagged.com/account\_info.html and select 'CANCEL' at least 3 days prior to your next scheduled automatic payment so that we can process your cancellation properly. If your VIP membership account is billed through iTunes, you must cancel at least 24 hours prior to your next scheduled automatic payment, by following the process outlined here.
 
 J) Mobile
 
