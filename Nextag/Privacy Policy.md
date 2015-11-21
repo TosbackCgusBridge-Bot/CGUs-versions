@@ -175,9 +175,8 @@ International
 *   Australia
 *   France
 *   Germany
-*   Italy
 *   Japan
-*   Spain
+*   United Kingdom
 
 Merchant Customer Service My Account
 
