@@ -88,6 +88,7 @@ Menu Explore HSBC.com Search
         *   Regulatory capital securities
     *   Fixed income securities expandFixed income securities
         *   Covered bond reports
+        *   Green bond reports
         *   Credit ratings
         *   Issuance programmes
     *   Governance expandGovernance
