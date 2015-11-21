@@ -207,23 +207,27 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Blankets &. Throws
             *   Mattress Pads
             *   Pillows
+            *   Shop All Bedding
         *   Bath
             *   Back to All Home Bath
             *   Towels
             *   Rugs &. Mats
             *   Beach Towels
-        *   DÉcor
-            *   Back to All Home DÉcor
+            *   Shop All Bath
+        *   Décor
+            *   Back to All Home Décor
             *   Storage &. Organization
             *   Tabletop
             *   Doormats
             *   Seasonal
+            *   Shop all Décor
         *   More for the Home
             *   Back to All Home More for the Home
-            *   Kids
+            *   Kids Home
             *   Dog Shop
             *   Luggage &. Bags
             *   Canvas Totes
+            *   Shop All More for the Home
         
 *   Uniforms
     *   *   Back to Main Menu Uniforms
@@ -234,8 +238,8 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   After School
             
             *   Best-in-Class Polos
-            *   Iron Knee Pants
             *   Winter Layers
+            *   Iron Knee Pants
             *   Phys Ed Locker Room
             *   Sale
         *   Shop By Age Range
