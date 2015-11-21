@@ -202,7 +202,6 @@ Contact Information Who do I contact if I am concerned, or have questions, about
 
 *   FEATURES
 *   City Guides
-*   Every Car Listed
 *   Featured Businesses
 *   Popular Categories
 *   Enlighten Me
