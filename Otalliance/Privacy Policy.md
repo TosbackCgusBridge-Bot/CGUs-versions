@@ -96,10 +96,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Wed, Nov 18, 2015 IoT Trust Framework Summit
-
-The Online Trust Alliance will be hosting the face-to-face working group meeting to review the final draft of the trust framework and discuss steps for moving the program to a self regulatory code of conduct and/or certification program.  Registration fee includes breakfast, lunch and breaks. This program is open to the public for all organizations and participants who agree to "Chatham House Rule."  The workshop will be hosted at the offices of Holland &. Knight, 800 17th Street N.W, District of Columbia, DC 20006.  
-
 Thu, Nov 19, 2015 IoT Trust Framework Congressional Staff Briefing
 
 Limited to Senate, House and Congressional staff and invited subject matter experts. This lunch program will review the multi-stakeholder trust framework addressing key security, privacy and sustainability issues as they pertain to the connected home and wearable technologies, leading to a volunary code of conduct and / or certifcation program.  Details on the framework are posted at https://otalliance.org/IoT.  For more information call 425-455-7400 or email kims@otalliance.org. 
@@ -108,7 +104,9 @@ Thu, Nov 19, 2015 IoT Trust Framework - Hill Briefing &. Lunch Tue, Dec 8, 2015 
 
 The European Commission’s proposal for a General Data Protection Regulation represents the most significant global development in data protection law in the last twenty years. EU Data Protection 2015 is the premier event on the US West Coast to address the proposed changes in the Regulation and the business impact.
 
-More >>.
+Mon, Feb 29, 2016 RSA 2016
+
+Secure your seat at RSA® Conference 2016 February 29–March 4 in San Francisco. Register today for your 5-day Full Conference Pass and gain access to two halls of 500+ exhibitors, 400+ expert-led sessions, unprecedented networking and not-to-be-missed keynote speakers.
 
 *   OTA Blog
 *   Newsletters
