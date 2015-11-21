@@ -74,9 +74,9 @@ Try PlayStation Vue
 
 Sony on Twitter
 
-The 25th anniv edition of one of hip-hop's most important albums is out now! #ATCQ25 www.amazon.com
+Adele 25 is here and it’s our new music Friday Deal of the Day too. www.sonyrewards.com
 
-2015-11-15 21:30:01+00:00
+2015-11-20 18:29:01+00:00
 
 View Tweet
 
@@ -98,7 +98,7 @@ Collect Them All
 
 New Music From Adele
 
-Pre-Order "25"
+Order "25"
 
 Close
 
@@ -108,7 +108,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Pre-Order "25"
+Order "25"
 
 Out of the Vault, and Into the Wasteland
 
@@ -126,9 +126,9 @@ Play Fallout 4 on PS4™
 
 Sony on Twitter
 
-Want a chance to win a PS4™? Watch @SuperMansiontv and answer a question: www.crackle.com #CrackleSweeps
+Always impressing us, @tonyhawk via @Mashable #ActionCam
 
-2015-11-15 22:57:01+00:00
+2015-11-20 19:31:01+00:00
 
 View Tweet
 
@@ -220,9 +220,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-6 Pro Tips For Getting The Most Instagrammable #ActionCam Shots via @Dicks
+Everything You Need to Listen to Music in High-Res via @mensjournal
 
-2015-11-16 01:30:01+00:00
+2015-11-20 18:30:01+00:00
 
 View Tweet
 
@@ -264,15 +264,15 @@ Sony on Instagram
 
 Sony on Twitter
 
-RT @BetterCallSaul: It’s all good, man, as Jimmy tries to make a name for himself in #BetterCallSaul Season 2, premiering February 15: www.amc.com
+#TheNightBefore is now in theaters! Get tickets now for the FUNNIEST CHRISTMAS MOVIE EVER! www.fandango.com
 
-2015-11-17 05:47:10+00:00
+2015-11-20 18:08:01+00:00
 
 View Tweet
 
 Enter the World of New York City Auction Houses
 
-Start Streaming on Thursday
+Stream Now
 
 Close
 
@@ -370,9 +370,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-We're celebrating 4 #Daysto25 by watching some of @Adele's classics in this playlist: www.youtube.com
+Check out this @Medium story on @nas' iconic rap album, 'Illmatic': www.medium.com #FridayReads
 
-2015-11-17 07:00:47+00:00
+2015-11-20 18:12:01+00:00
 
 View Tweet
 
