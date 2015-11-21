@@ -67,13 +67,13 @@ gutefrage.net ist sich der Sensibilität persönlicher Daten sowie des Schutzes 
 
 1.  Der Nutzer versichert, dass er über die erforderlichen Rechte an den Inhalten verfügt, die er auf die Plattform hochlädt.
 2.  Ist ein Nutzer der Ansicht, dass seine Werke unberechtigt genutzt werden, so ist gutefrage.net hierauf unverzüglich hinzuweisen. Nach Kenntniserlangung und Prüfung des Sachverhalts wird gutefrage.net diese Inhalte nicht mehr zum Abruf zur Verfügung stellen. gutefrage.net weist darauf hin, dass gutefrage.net Inhalte erst dann wieder freischalten wird, wenn der Nutzer, der die Inhalte hochgeladen hat, nachweisen kann, dass der rechtswidrige Zustand beseitigt ist.
-3.  Der Nutzer räumt durch das Hochladen seiner Inhalte auf die Plattform die zur Darstellung und Nutzung der Inhalte im Rahmen der Dienste erforderlichen, nicht ausschließlichen, unterlizenzierbaren, zeitlich und räumlich uneingeschränkten Nutzungs- und erwertungsrechte an diesen Inhalten ein. Diese Nutzungs- und Verwertungsrechte beinhalten insbesondere:
-    *   das Recht zur Einspeicherung in die Platform von gutefrage.net;
+3.  Der Nutzer räumt durch das Hochladen seiner Inhalte auf die Plattform die zur Darstellung und Nutzung der Inhalte im Rahmen der Dienste erforderlichen, nicht ausschließlichen, unterlizenzierbaren, zeitlich und räumlich uneingeschränkten Nutzungs- und V erwertungsrechte an diesen Inhalten ein. Diese Nutzungs- und Verwertungsrechte beinhalten insbesondere:
+    *   das Recht zur Einspeicherung in die Plattform von gutefrage.net;
     *   das Recht, die Inhalte der Öffentlichkeit ganz oder teilweise, bearbeitet oder unbearbeitet zugänglich zu machen;
     *   das Recht, die Inhalte auf Abruf von Nutzern der Webseiten hin zu vervielfältigen;
     *   das Recht, die Inhalte in Zusammenhang mit den Webseiten von gutefrage.net auch in anderen Medien weiter zu verwerten,
     *   das Recht, im räumlichem Umfeld der Inhalte Werbung in jeglicher Form zu platzieren.
-4.  gutefrage.net ist ferner berechtigt, die Inhalte der Plattform auf Webseiten unter anderen von gutefrage.net betriebenen Domainadressen (z.B. www.helpster.de, www.cosmiq.de) und Mobilen Applikationen sowie in Verbindung mit gutefrage.net auf Dritt-Webseiten (z.B. durch Einbindung von Widgets) öffentlich zugänglich zu machen.
+4.  gutefrage.net ist ferner berechtigt, die Inhalte der Plattform auf Webseiten unter anderen von gutefrage.net betriebenen Domainadressen (z.B. www.helpster.de, www.cosmiq.de) und mobilen Applikationen sowie in Verbindung mit gutefrage.net auf Dritt-Webseiten (z.B. durch Einbindung von Widgets) öffentlich zugänglich zu machen.
 
 §10 Beendigung der Nutzung der Dienste von gutefrage.net
 
