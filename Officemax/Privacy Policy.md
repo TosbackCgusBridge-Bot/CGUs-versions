@@ -2,28 +2,26 @@ SEG1 hp
 
 *   ×
 
-*   800-GO-DEPOT
 *   Office Depot Business Solution
 *   OfficeMax Workplace
 *   Corporate/Government
     *   Office Depot Business Solution
     *   OfficeMax Workplace
-*   Order by Item #
-*   Track Your Order
+*   Weekly Ad
+*   800-GO-DEPOT
 *   Login or Register
 
-Weekly Ad Office Depot Deals
+Office Depot Deals
 
-nx5AnHmIPEPClhnwqxc-BJk Recommended Products
+obriJvimE6Du1j5rTe8ZwOg Recommended Products
 
 Category Matches
 
 Your recent searches
 
-*   Stores
-*   Account
-*   My Lists
-*   Cart
+*   STORES
+*   CART 0
+*   MY OFFICE DEPOT  
 
 *   Office Supplies
 *   Paper
@@ -35,9 +33,6 @@ Your recent searches
 *   School Supplies
 *   Copy &. Print
 *   $ Deals
-
-*   Don't show this again
-*   Privacy Policy
 
 Product Plans &. Leasing Options Page of There are no items in your cart. Previous Next $ Coupon Code: ZIP CODE You have not selected a store or a zipcode yet Your Coupons See all coupons Includes Coupon(s) Qty. Product Price Price With Tax item(s) Your Price: Quick View See More Results http://static.www.odcdn.com/images/us/od/lb\_loading.gif od Please enter a quantity true true
 
