@@ -96,11 +96,7 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Thu, Nov 19, 2015 IoT Trust Framework Congressional Staff Briefing
-
-Limited to Senate, House and Congressional staff and invited subject matter experts. This lunch program will review the multi-stakeholder trust framework addressing key security, privacy and sustainability issues as they pertain to the connected home and wearable technologies, leading to a volunary code of conduct and / or certifcation program.  Details on the framework are posted at https://otalliance.org/IoT.  For more information call 425-455-7400 or email kims@otalliance.org. 
-
-Thu, Nov 19, 2015 IoT Trust Framework - Hill Briefing &. Lunch Tue, Dec 8, 2015 EU Data Protection 2015
+Tue, Dec 8, 2015 EU Data Protection 2015
 
 The European Commission’s proposal for a General Data Protection Regulation represents the most significant global development in data protection law in the last twenty years. EU Data Protection 2015 is the premier event on the US West Coast to address the proposed changes in the Regulation and the business impact.
 
