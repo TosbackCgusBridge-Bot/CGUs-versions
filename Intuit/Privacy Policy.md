@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14222071719
+true true C14129893609
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Sat Nov 21 11:34:26 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p08.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Sun Nov 22 11:33:35 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,66 +48,139 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Extra 30% Off\* $100 or More Online Only | Ends November 21 | Use Code: GETREADY
+VIP Event In Store and Online | Ends November 25 | Use Code: VIP43
 
-Or
+Extra 25% Off\* with your JCPenney Credit Card
 
-Extra 20% Off\* with your JCPenney Credit Card  
-Extra 15% Off\* with any other method of payment In Store and Online | Ends November 21 | Use Code: GETREADY
+Or, Extra 20% Off\* with any other method of payment
 
 \*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
 
-Get Coupon See exclusions and details Sale Starts Now | In Store and Online Big Bonus Sale Shop The Big Bonus Sale View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop ShoesNight and Day Doorbusters
+Get coupon: Exclusions and details:One Day Deals Today Only! These deals end at midnight.
 
-Friday 3PM CST through Saturday 1PM CST
+New deals every day through Wednesday | Online Only
 
-Shop Doorbusters Update Your Space With Fall Bedding and Comforters 30 to 50% Off Home Collections
+Shop Now
+
+50% Off Select Bath Towels and Rugs, reg. $6-$300
+
+Shop Bath Towels and Rugs
+
+50% Off Select Ready Made Curtains, reg. $9-$390
+
+Shop Ready Made Curtains
+
+40 to 50% Off Cuisinart Small Appliances, reg. $30-$890 (excluded from coupon)
+
+Shop Cuisinart Small Appliances
+
+60% Off Select Bedding Sets, reg. $80-$380
+
+Shop Bedding Sets
+
+50 to 60% Off Select Sheets, reg. $30-$700
+
+Shop Sheets
+
+50% Off Select Kids' Dress Clothes, reg. $38-$78
+
+Shop Kids' Dress Clothes
+
+50% Off Select Carter's Sleepwear, reg. $20-$42
+
+Shop Carter's Sleepwear
+
+50% Off Select Diamond Jewelry, reg. 249.98-1249.98
+
+Shop Diamond Jewelry
+
+9.99 Guys' Arizona Solid Thermals, reg. $22
+
+Shop Guys' Arizona Solid Thermals
+
+40% Off Select Cold Weather Accessories, reg. $10-$58
+
+Shop Cold Weather Accessories
+
+50 to 60% Off Select Stafford and The Foundry Supply Co. Sleep Pants, reg. $28-$30
+
+Shop Sleep Pants
+
+60% Off Select Arizona Boots For Her, reg. $60-$90
+
+Shop Arizona Boots For Her
+
+25% Off Select Nike Shoes For Him and Her, MSRP $55-$85 (excluded from coupon)
+
+Shop Nike Shoes For Him and Her
+
+25% Off Select Men's Nike Apparel, reg. $14-$90 (excluded from coupon)
+
+Shop Men's Nike Apparel
+
+50% Off Select Liz Claiborne Tops and Sweaters, reg. $18-$54
+
+Shop Liz Claiborne Tops and Sweaters
+
+19.99 Select Women's St. John's Bay Jeans, orig. $44
+
+Shop Women's St. John's Bay Jeans
+
+60% Off Select Plus Casual Sweaters, reg. $36-$48
+
+Shop Plus Casual Sweaters
+
+50 to 60% Off Select Women's Coats and Jackets, reg. $100-$240
+
+Shop Women's Coats and Jackets
+
+40% Off Select Socks, Tights and Leggings, reg. $8-$34
+
+Shop Socks, Tights and Leggings
+
+50 to 60% Off Select Big and Tall The Foundry Supply Co.
+
+Shop The Foundry Supply Co.
+
+29.99 Dockers Easy Khakis, reg. $58
+
+Shop Dockers Easy Khakis
+
+50% Off Select Men's Slippers, reg. $60
+
+Shop Men's Slippers
+
+12.99 Select Juniors' Arizona Sweaters, reg. $34
+
+Shop Juniors' Arizona Sweaters
+
+60% Off Select Blankets and Throws, reg. $25-$510
+
+Shop Blankets and Throws Black Friday Stores Open Thanksgiving Day
+
+Preview the deals and make your list.
+
+View Store Ad Star Wars | Back In Full Force 50 to 60% Off Star Wars(TM): The Force Awakens Apparel
 
 Select styles
 
-Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage Shop Comforters Save On Holiday Dress Clothes For The Family 40 to 50% Off Worthington Apparel
-
-Select styles
-
-Shop Worthington Apparel40 to 50% Off Men's Suit Separates, Sport Coats and Dress Pants
-
-Select styles
-
-Shop Men's Suit Separates, Sport Coats and Dress Pants40 to 50% Off Kids' Dress-Up
-
-Select styles
-
-Shop Kids' Dress-Up         Boots For The Family On Sale Now 40 to 50% Off Boots For The Family
-
-Select styles
-
-Shop Boots For The Family Black Friday Sneak Peek! Doors Open at 3PM\*
-
-\*Except where prohibited by law. Hours of our Black Friday Sale may vary by store. Please check with your local store for details.
-
-Black Friday Deals
-
-Preview the deals and make your list
-
-View Store AdGet in store early Thanksgiving Day! You could get an in-store and online coupon
-
-$500 Off\* $500 Super-Savings Coupon  
-Or, $100 Off\* $100 Instant-Savings Coupon  
-Or, $10 Off\* $10 Instant-Savings Coupon
-
-Plus your chance to win 1 of 10 $10,000 Cash Grand Prizes\*
-
-\*While supplies last. Some restrictions and exclusions apply.
-
-Get details and official rules: Star Wars™ Shop Star Wars Now SportsFanShop
-
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
-
-Shop SportsFanShop Where Giving Begins
+Shop Star Wars Where Giving Begins
 
 Gifts they want. Savings you love.
 
-Shop All Gifts Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop All Gifts Where Giving Begins
+
+Buy a pair of striped gloves and a portion of the purchase price will go to JCPenney Cares.
+
+Shop Now JCPenney | portraits
+
+Holiday Memories - 40% Off Photo Purchase
+
+Shop Portraits Now E-Gift Cards
+
+Customize with a message, photo or video.
+
+Shop E-Gift Cards Now Download the JCPenney App and Get Shopping Check Out The App Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
