@@ -324,6 +324,7 @@ _°_
 *   Türkçe
 *   Norsk
 *   Suomi
+*   English (UK)
 
 Copyright © 1999 - 2015 SurveyMonkey
 
