@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14129893609
+true true L14229542276
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p08.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Sun Nov 22 11:33:35 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Mon Nov 23 11:32:56 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -62,101 +62,102 @@ New deals every day through Wednesday | Online Only
 
 Shop Now
 
-50% Off Select Bath Towels and Rugs, reg. $6-$300
+60% Off Select Kids' and Teens' Bedding, reg. $100-$170
 
-Shop Bath Towels and Rugs
+Shop Kids' and Teens' Bedding
 
-50% Off Select Ready Made Curtains, reg. $9-$390
+60% Off Entire Stock Flatware, reg. $13-$400
 
-Shop Ready Made Curtains
+Shop Flatware
 
-40 to 50% Off Cuisinart Small Appliances, reg. $30-$890 (excluded from coupon)
+21.99 Stafford Soft Touch Robe, reg. $50
 
-Shop Cuisinart Small Appliances
+Shop Stafford Soft Touch Robe
 
-60% Off Select Bedding Sets, reg. $80-$380
+17.99 Select Men's St. John's Bay Sweaters, reg. $50
 
-Shop Bedding Sets
+Shop Men's St. John's Bay Sweaters
 
-50 to 60% Off Select Sheets, reg. $30-$700
+40 to 50% Off Select Men's Coats and Jackets, reg. $80-$500
 
-Shop Sheets
+Shop Men's Coats and Jackets
 
-50% Off Select Kids' Dress Clothes, reg. $38-$78
+4.99 Select Baby and Toddler Okie Dokie Match-Ups, reg. $12
 
-Shop Kids' Dress Clothes
+Shop Baby and Toddler Okie Dokie Match-Ups
 
-50% Off Select Carter's Sleepwear, reg. $20-$42
+50% Off Select Coats, Hats, Gloves and Scarves, reg. $12-$140
 
-Shop Carter's Sleepwear
+Shop Coats, Hats, Gloves and Scarves
 
-50% Off Select Diamond Jewelry, reg. 249.98-1249.98
+19.99 Guys' Arizona Jeans, reg. $40
 
-Shop Diamond Jewelry
+Shop Guys' Arizona Jeans
 
-9.99 Guys' Arizona Solid Thermals, reg. $22
+19.99 Select Stylus Jeans, reg. $50
 
-Shop Guys' Arizona Solid Thermals
+Shop Stylus Jeans
 
-40% Off Select Cold Weather Accessories, reg. $10-$58
+50% Off Select Women's Dresses, reg. $60-$86
 
-Shop Cold Weather Accessories
+Shop Women's Dresses
 
-50 to 60% Off Select Stafford and The Foundry Supply Co. Sleep Pants, reg. $28-$30
+50% Off Select Worthington Tops and Sweaters, reg. $16-$44
 
-Shop Sleep Pants
+Shop Worthington Tops and Sweaters
 
-60% Off Select Arizona Boots For Her, reg. $60-$90
+50% Off Entire Stock Maternity Apparel, reg. $20-$60
 
-Shop Arizona Boots For Her
+Shop Maternity Apparel
 
-25% Off Select Nike Shoes For Him and Her, MSRP $55-$85 (excluded from coupon)
+60% Off Select Women's Sleep Chic Sleepwear, reg. $54
 
-Shop Nike Shoes For Him and Her
+Shop Women's Sleep Chic Sleepwear
 
-25% Off Select Men's Nike Apparel, reg. $14-$90 (excluded from coupon)
+60% Off Select Holiday Trim and Decor, reg. $4-$180
 
-Shop Men's Nike Apparel
+Shop Holiday Trim and Decor
 
-50% Off Select Liz Claiborne Tops and Sweaters, reg. $18-$54
+40 to 60% Off Select Boots For Her, reg. $60-$120
 
-Shop Liz Claiborne Tops and Sweaters
+Shop Boots For Her
 
-19.99 Select Women's St. John's Bay Jeans, orig. $44
+40 to 50% Off Select Girls' Boots, reg. $40-$55
 
-Shop Women's St. John's Bay Jeans
+Shop Girls' Boots
 
-60% Off Select Plus Casual Sweaters, reg. $36-$48
+Extra 15% Off Keurig Coffee Brewers, reg. $150-$350, See final price in cart (excluded from coupon)
 
-Shop Plus Casual Sweaters
+Shop Keurig
 
-50 to 60% Off Select Women's Coats and Jackets, reg. $100-$240
+70% Off Select Gold Jewelry and Select Fine Silver Jewelry, reg. 24.98-7499.98
 
-Shop Women's Coats and Jackets
+Shop Fine Gold Jewelry  
+Shop Fine Silver Jewelry
 
-40% Off Select Socks, Tights and Leggings, reg. $8-$34
+70% Off Select Liz Claiborne Luggage, reg. $160-$360
 
-Shop Socks, Tights and Leggings
+Shop Luggage
 
-50 to 60% Off Select Big and Tall The Foundry Supply Co.
+50% Off Select Memory Foam Pillows and Mattress Toppers, reg. $40-$800
 
-Shop The Foundry Supply Co.
+Shop Memory Foam
 
-29.99 Dockers Easy Khakis, reg. $58
+50% Off Select Total Girl Apparel, reg. $16-$50
 
-Shop Dockers Easy Khakis
+Shop Total Girl Apparel
 
-50% Off Select Men's Slippers, reg. $60
+40% Off Select Dickies Workwear, reg. $20-$180
 
-Shop Men's Slippers
+Shop Dickies Workwear
 
-12.99 Select Juniors' Arizona Sweaters, reg. $34
+12.99 Juniors' Arizona Jeans, reg. $34-$38
 
-Shop Juniors' Arizona Sweaters
+Shop Juniors' Arizona Jeans
 
-60% Off Select Blankets and Throws, reg. $25-$510
+99.99 + Extra 10% Off All Fitness - Weslo Exercise Bike, reg. $220 (excluded from coupon)
 
-Shop Blankets and Throws Black Friday Stores Open Thanksgiving Day
+Shop Fitness Black Friday Stores Open Thanksgiving Day
 
 Preview the deals and make your list.
 
