@@ -118,11 +118,12 @@ Sections Scores News Video Stats Standings Schedule Players Postseason Tickets A
     *   MLB Fans App
     *   Beat the Streak
     *   MLB.com Home Run Derby
+    *   MLB.com Line Drive
     *   RBI Baseball 15
     *   MLB Ballpark Empire
     *   MLB.com Franchise MVP
     *   Mobile Dashboard
-    *   FAQ
+    *   FAQMLB.com Line Drive
 *   Shop Shop Shop
     
     *   Shop Homepage
