@@ -10,19 +10,21 @@ LENOVO Menu
     *   Services &. Warranty
 *   Deals
     *   Current Offers
-        1.  Home Laptops Sale
-        2.  Professional Laptops Sale
-        3.  Desktops Sale
-        4.  Tablets Sale
-        5.  Stocking Stuffers
-        6.  Ready to Ship PCs
-        7.  Coupon Page
-        8.  Deals for Students and Educators
-        9.  Outlet
-        10.  Warranty-Sale
-    *   Give Gifts. Get Thanks. No Need to Wait for Santa!
+        1.  Home Laptop Doorbusters
+        2.  Professional Laptop Doorbusters
+        3.  Desktop Doorbusters
+        4.  Tablets Doorbusters
+        5.  Accessories Doorbusters
+        6.  Stocking Stuffers
+        7.  Daily Deal
+        8.  Ready to Ship PCs
+        9.  Coupon Page
+        10.  Deals for Students and Educators
+        11.  Outlet
+        12.  Warranty-Sale
+    *   BLACK FRIDAY DOORBUSTERS Big Savings Starts Now!
         
-        Save up to 45% Site-Wide.
+        Save up to 67% Site-Wide.
         
     *   Lenovo Preferred Card The Best Offers with Instant and Affordable Financing.
         
