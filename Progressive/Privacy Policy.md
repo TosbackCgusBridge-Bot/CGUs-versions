@@ -123,7 +123,7 @@ Connect
 
 *   1-855-347-3939
 *   About
-*   Contact &. Support
+*   Customer Support
 *   Careers
 *   Progressive App
 *   Investors
@@ -169,11 +169,13 @@ Your Policy
 *   
 
 *   Home
+*   Contact Us
 *   Site Map
 *   Website Accessibility
 *   Technical Help
 *   Privacy &. Security
 *   Terms of Use
+*   Insurance Resources
 
 Copyright 1995 - 2015. Progressive Casualty Insurance Company. All Rights Reserved.
 
