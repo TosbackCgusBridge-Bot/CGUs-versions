@@ -100,6 +100,12 @@ Tue, Dec 8, 2015 EU Data Protection 2015
 
 The European Commission’s proposal for a General Data Protection Regulation represents the most significant global development in data protection law in the last twenty years. EU Data Protection 2015 is the premier event on the US West Coast to address the proposed changes in the Regulation and the business impact.
 
+Tue, Feb 9, 2016 FTC To Host Data Security Conference - Seattle
+
+The Federal Trade Commission will host a one-day conference in Seattle on Feb. 9, 2016, on how companies can build security into their products and services. The event will have a particular focus on guidance for startups and early stage businesses about how to make security considerations a part of a company’s culture from the start.
+
+FTC Commissioner Julie Brill will provide opening remarks for the conference, which will be the third “Start with Security” event nationwide. The conference will bring together experts in data security to provide guidance to businesses.
+
 Mon, Feb 29, 2016 RSA 2016
 
 Secure your seat at RSA® Conference 2016 February 29–March 4 in San Francisco. Register today for your 5-day Full Conference Pass and gain access to two halls of 500+ exhibitors, 400+ expert-led sessions, unprecedented networking and not-to-be-missed keynote speakers.
