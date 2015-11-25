@@ -1,7 +1,7 @@
   >> Privacy &. Security    Choose a link to select a section.  
 Website, Store and Restaurant Privacy Notice Safe Harbor Privacy Policy  
 Mobile Application Privacy Notice  
-**Ralph Lauren Corporation**    WEBSITE, STORE AND RESTAURANT PRIVACY NOTICE    Last modified: February 5, 2015
+**Ralph Lauren Corporation**    WEBSITE, STORE AND RESTAURANT PRIVACY NOTICE    Last modified: November 16, 2015
 
 Ralph Lauren Corporation and its affiliates (collectively, " Ralph Lauren") respect your concerns about privacy. This Privacy Notice applies to personal information we collect (i) on this website, (ii) at Ralph Lauren stores, Ralph Lauren Factory Outlet Stores (collectively, the "Stores"), and (iii) through the other channels described below. Ralph Lauren is responsible for this website.
 
@@ -20,17 +20,18 @@ Click on one of the links below to jump to the listed section:
         *   Email to a Friend
         *   Contact Us
         *   Other Site Features
-        *   Information We Collect by Automated Means
+        *   Information Collected by Automated Means
+        *   Interest-Based Advertising
     *   Our Stores
         *   Shopping
         *   Customer Registry
         *   Customer Satisfaction Surveys
         *   Ralph Lauren Credit Card
     *   Other Ways We Collect Personal Information
+        *   In-Store Wi-Fi Data Collection
         *   QR Codes
         *   Customer Assistance
         *   Ralph Lauren Restaurants and Bars
-        *   Other Ways We Obtain and Use Information
         *   Department Stores
 *   Information We Share
 *   Links to Other Sites
@@ -116,25 +117,29 @@ We offer visitors to this website various features for their information and enj
 
    
 
-_Information We Collect by Automated Means_
+_Information Collected by Automated Means_
 
-We obtain certain information by automated means when you visit our website, such as the IP address of the device you use to connect to the Internet and the pages accessed. By collecting this information, we learn how to best tailor our website to our visitors and understand what products and services you might prefer. We collect this information through various means, such as "cookies" and "web beacons." Both we and others (such as our service providers) may collect personal information about our visitors’ online activities over time and across third-party websites.
-
-_Cookies_
+We obtain certain information by automated means when you visit our website, such as through cookies, web beacons, and web server logs. The information we collect in this manner includes the IP address of the device you use to connect to the Internet, unique device identifier, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on our site, dates and times of website visits and the pages accessed. By collecting this information, we learn how to best tailor our website to our visitors and understand what products and services you might prefer. Both we and others (such as our service providers) may collect personal information about our visitors’ online activities over time and across third-party websites.
 
 Like many companies, we use "cookies" on this website. Cookies are bits of text that are placed on your computer's hard drive when you visit certain websites. Cookies may enhance your online experience by saving your preferences while you are visiting a particular site. We use cookies, for example, to preserve the contents of your virtual shopping bag between visits. We also use cookies to measure activity on the site and determine which areas and features of the site are the most popular.
 
 Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie and how to disable existing cookies. Without cookies, however, you may not be able to take full advantage of all our site features. For example, if you turn off cookies or refuse them, you will not be able to make purchases on the site.
 
-Using cookies, we utilize Google AdWords remarketing service to show you our ads on other websites based on your prior visits to our website. You can opt out of this feature by clicking here.
-
-We may use third party targeted advertising display and related services, such as those of eBay Enterprise Targeted Display Advertising Services, on this website. You can learn more about how the eBay Enterprise service functions by clicking here, and you may opt out of eBay Enterprise targeted display services by clicking here. You also may opt out of ad network interest-based advertising generally (including eBay Enterprise targeted display services) through the Network Advertising Initiative website.
-
-_Web Beacons_
-
 Certain pages on this website contain "web beacons" (also known as Internet tags, pixel tags and clear GIFs). Web beacons are used for internal purposes, such as to obtain the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, and the type of browser used to view the page. We also retain service providers who use web beacons to assess the effectiveness of our email communications and learn what pages our visitors viewed.
 
-We may use third party web analytics services, such as those of Adobe Analytics and Google Analytics, to measure the effectiveness of our advertising and determine how visitors use this website. These service providers’ tools, including cookies and web beacons, allow us to collect information such as the state and zip code from which our visitors come and the IP addresses of our visitors' computers. To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click here and here.
+We use information collected through these automated means for purposes such as (i) customizing our users' visits to our website, (ii) delivering content tailored to our users' interests and the manner in which our users browse our sites, and (iii) managing our sites and other aspects of our business. To the extent required by applicable law, we will obtain your consent before collecting information using cookies or similar automated means.
+
+We also may use third party web analytics services, such as those of Adobe Analytics and Google Analytics, to measure the effectiveness of our advertising and determine how visitors use this website. These service providers’ tools, including cookies and web beacons, allow us to collect information such as the state and zip code from which our visitors come and the IP addresses of our visitors' computers. To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click here and here.
+
+   
+
+_Interest-Based Advertising_
+
+We may collect information about your online activities on our website to provide you with advertising about products and services tailored to your individual interests. We also may obtain information for this purpose from third-party websites on which our ads are served. This section of our Privacy Notice provides details and explains how to exercise your choices.
+
+You may see certain ads on other websites because we work with advertising partners (including advertising networks) to engage in remarketing and retargeting activities. Our advertising partners allow us to target our messaging to users through demographic, interest-based and contextual means. These partners track your online activities over time and across websites by collecting information through automated means, including through the use of third-party cookies, web server logs, and web beacons. They use this information to show you advertisements that may be tailored to your individual interests. The information our advertising partners may collect includes data about your visits to websites that participate in the relevant advertising networks, such as the pages or advertisements you view and the actions you take on the websites. This data collection takes place both on our website and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts. For example, we utilize Netmining's targeted advertising services to show you our ads on other websites based on your prior visits to our site and other online activity. You can opt out of this feature by clicking here.
+
+You also may opt out of ad network interest-based advertising generally through the Network Advertising Initiative website or by visiting http://www.aboutads.info/choices/.
 
    
 
@@ -181,12 +186,6 @@ In certain stores we use a service that analyzes Wi-Fi signals from mobile devic
 _QR Codes_
 
 We use QR codes in connection with certain promotions, contests and special events. If you scan our QR code, you will get an invitation on your mobile device to join our mailing list. To sign up, we ask you for information such as your name, mailing address, email address, telephone numbers, and age. We use the information to communicate with you about our products, services and promotions.
-
-   
-
-_Customer Assistance_
-
-You may call our customer service line for information about our products or personal shopping advice. If you do so, we may ask you for information such as your name, email address, postal address, telephone number and, if you choose to make a purchase, your payment card information. We use this information to respond to your request and process your transaction.
 
    
 
@@ -260,7 +259,7 @@ You can choose not to receive marketing communications from us by clicking on th
 
 If you are a California resident, you may ask us to refrain from sharing your information with certain of our affiliates and other third parties for their marketing purposes.
 
-To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click here and here. To opt out of eBay Enterprise targeted display services, please click here. To learn how to opt out of ad network interest-based advertising generally, click here.
+To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click here and here. To opt out of Netmining's targeted advertising services, click here. To learn how to opt out of ad network interest-based advertising generally, click here or visit http://www.aboutads.info/choices/.
 
 To opt out of Wi-Fi data collection in our stores after you have opted in, either turn off your device's Wi-Fi function or click here.
 
