@@ -1,4 +1,4 @@
-ideel Privacy Statement
+Ideel Privacy Statement
 
 This Privacy Statement (“Privacy Statement”) explains how Ideel (“Ideel,” “us,” “our,” and “we”) uses your information and applies to all who use our Web site – www.Ideel.com, mobile applications, electronic services, social networking sites, interactive features, online services, or any of our described online activities we own or control (collectively, the “Site”). This Privacy Statement is incorporated in our Terms of Use, which also apply when you use our Site.
 
