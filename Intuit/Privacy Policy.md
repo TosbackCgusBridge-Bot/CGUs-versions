@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14229542276
+true true C14137810367
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Mon Nov 23 11:32:56 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p19.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Tue Nov 24 11:28:53 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -56,108 +56,107 @@ Or, Extra 20% Off\* with any other method of payment
 
 \*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
 
-Get coupon: Exclusions and details:One Day Deals Today Only! These deals end at midnight.
+Get coupon: Exclusions and details: One Day Deals Today Only! These deals end at midnight.
 
 New deals every day through Wednesday | Online Only
 
 Shop Now
 
-60% Off Select Kids' and Teens' Bedding, reg. $100-$170
+60% Off Select Home Expressions Bedding, reg. $110-$300
 
-Shop Kids' and Teens' Bedding
+Shop Home Expressions Bedding
 
-60% Off Entire Stock Flatware, reg. $13-$400
+60% Off Select JCPenney Home Ready-Made Blinds and Shades, reg. $20-$200
 
-Shop Flatware
+Shop JCPenney Home Ready-Made Blinds and Shades
 
-21.99 Stafford Soft Touch Robe, reg. $50
+50% Off Select Kids' Xersion Fleece, reg. $25-$30
 
-Shop Stafford Soft Touch Robe
+Shop Kids' Xersion Fleece
 
-17.99 Select Men's St. John's Bay Sweaters, reg. $50
+9.99 Select Disney Collection Medium Plush, reg. $16 (excluded from coupon)
 
-Shop Men's St. John's Bay Sweaters
+Shop Disney Collection Medium Plush
 
-40 to 50% Off Select Men's Coats and Jackets, reg. $80-$500
+50% Off Select Guys' Graphic Tees, reg $12-$20
 
-Shop Men's Coats and Jackets
+Shop Guys' Graphic Tees
 
-4.99 Select Baby and Toddler Okie Dokie Match-Ups, reg. $12
+40 to 65% Off Select Fashion Jewelry and Fashion Silver, reg. $6-$75
 
-Shop Baby and Toddler Okie Dokie Match-Ups
+Shop Fashion Jewelry and Fashion Silver
 
-50% Off Select Coats, Hats, Gloves and Scarves, reg. $12-$140
+60% Off Select Men's St. John's Bay Pants, reg. $60
 
-Shop Coats, Hats, Gloves and Scarves
+Shop Men's St. John's Bay Pants
 
-19.99 Guys' Arizona Jeans, reg. $40
+40% Off Select Men's Athletic Brands
 
-Shop Guys' Arizona Jeans
+Shop Men's Athletic Brands
 
-19.99 Select Stylus Jeans, reg. $50
+50% Off Select Men's Holiday Ties, reg. $26-$42
 
-Shop Stylus Jeans
+Shop Men's Holiday Ties
 
-50% Off Select Women's Dresses, reg. $60-$86
+50% Off Select JF J. Ferrar Dress Shoes, reg. $60
 
-Shop Women's Dresses
+Shop JF J. Ferrar Dress Shoes
 
-50% Off Select Worthington Tops and Sweaters, reg. $16-$44
+24.99 Select Crossbody Bags, reg. $35-$42
 
-Shop Worthington Tops and Sweaters
+Shop Crossbody Bags
 
-50% Off Entire Stock Maternity Apparel, reg. $20-$60
+14.99 Select St. John's Bay Sweaters For Her, reg. $30
 
-Shop Maternity Apparel
+Shop St. John's Bay Sweaters For Her
 
-60% Off Select Women's Sleep Chic Sleepwear, reg. $54
+60% Off Select Juniors' Holiday Novelty Apparel, reg. $20-$50
 
-Shop Women's Sleep Chic Sleepwear
+Shop Juniors' Holiday Novelty Apparel
 
-60% Off Select Holiday Trim and Decor, reg. $4-$180
+50% Off Select Petites' Apparel, reg. $16-$86
 
-Shop Holiday Trim and Decor
+Shop Petites' Apparel
 
-40 to 60% Off Select Boots For Her, reg. $60-$120
+60% Off Plus Fleece and Velour Activewear, reg. $26-$40
 
-Shop Boots For Her
+Shop Plus Fleece and Velour Activewear
 
-40 to 50% Off Select Girls' Boots, reg. $40-$55
+60% Off Select Animal Planet Pet Accessories, reg. $30-$120
 
-Shop Girls' Boots
+Shop Animal Planet Pet Accessories
 
-Extra 15% Off Keurig Coffee Brewers, reg. $150-$350, See final price in cart (excluded from coupon)
+40% Off Select Mixit Slippers, reg. $20-$36
 
-Shop Keurig
+Shop Mixit Slippers
 
-70% Off Select Gold Jewelry and Select Fine Silver Jewelry, reg. 24.98-7499.98
-
-Shop Fine Gold Jewelry  
-Shop Fine Silver Jewelry
-
-70% Off Select Liz Claiborne Luggage, reg. $160-$360
+39.99 4-Piece Protocol Goodwin Luggage Set, reg. $180
 
 Shop Luggage
 
-50% Off Select Memory Foam Pillows and Mattress Toppers, reg. $40-$800
+50 to 60% Off Select Cooks Small Appliances, reg. $20-$175 (excluded from coupon)
 
-Shop Memory Foam
+Shop Cooks Small Appliances
 
-50% Off Select Total Girl Apparel, reg. $16-$50
+60% Off Select Blankets and Throws, reg. $25-$510
 
-Shop Total Girl Apparel
+Shop Blankets and Throws
 
-40% Off Select Dickies Workwear, reg. $20-$180
+17.99 Select Guys' Arizona Fleece, reg. $42
 
-Shop Dickies Workwear
+Shop Guys' Arizona Fleece
 
-12.99 Juniors' Arizona Jeans, reg. $34-$38
+60% Off Select Liz Claiborne and St. John's Bay Boots, reg. $100-$120
 
-Shop Juniors' Arizona Jeans
+Shop Liz Claiborne and St. John's Bay Boots
 
-99.99 + Extra 10% Off All Fitness - Weslo Exercise Bike, reg. $220 (excluded from coupon)
+50% Off Entire Stock Women's Tall Apparel
 
-Shop Fitness Black Friday Stores Open Thanksgiving Day
+Shop Women's Tall Apparel
+
+40 to 60% Off Entire Stock Hoover Floorcare, reg. $130-$430 (excluded from coupon)
+
+Shop Hoover Floorcare Black Friday Stores Open Thanksgiving Day
 
 Preview the deals and make your list.
 
