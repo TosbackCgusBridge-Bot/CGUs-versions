@@ -106,11 +106,19 @@ View Tweet
 
 Sony on Instagram
 
-Day and Night, Then Day and Night Again
+Get Your Game On With a Stunning Display &. Remote Play
 
-Stay in Touch With Xperia
+Experience the Xperia Z3+
 
-Sony on Vine
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Experience the Xperia Z3+
 
 2 Days Dedicated to All Things PlayStation
 
