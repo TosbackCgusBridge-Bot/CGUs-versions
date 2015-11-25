@@ -20,8 +20,6 @@ LENOVO Menu
         8.  Ready to Ship PCs
         9.  Coupon Page
         10.  Deals for Students and Educators
-        11.  Outlet
-        12.  Warranty-Sale
     *   BLACK FRIDAY DOORBUSTERS Big Savings Starts Now!
         
         Save up to 67% Site-Wide.
@@ -51,10 +49,7 @@ LENOVO Menu
         
     *   Technical Support
         1.  Lenovo Products Tablet, Laptop, Workstation, ThinkServer, Storage, and Smartphone support information
-        2.  Other brands by Lenovo - System x Server &. Storage (IBM)  
-            \- LenovoEMC &. Iomega Storage  
-            \- Motorola
-        3.  Accessories, Options and Monitors Support for these extras
+        2.  Other brands by Lenovo - System x Server &. Storage (IBM)- LenovoEMC &. Iomega Storage- Motorola
     *   Payment issues Call 1-855-2-LENOVO  
         (1-855-253-6686), Option 2  
         Monday - Friday, 9am - 5:30pm (EST)  
