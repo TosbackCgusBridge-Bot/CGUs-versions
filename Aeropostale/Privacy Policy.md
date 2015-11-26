@@ -1,9 +1,8 @@
-Aéropostale
+    Aéropostale
 
 *   Girls
     
     *   NEW ARRIVALS
-    *   Two - For You
     *   Deals + Steals
     *   Gift Guide
     *   Corny Christmas
@@ -55,7 +54,6 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
-    *   Two-For You
     *   Deals + Steals
     *   Gift Guide
     *   Corny Christmas
