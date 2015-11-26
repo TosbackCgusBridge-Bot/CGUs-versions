@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14137810367
+true true C14140025007
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p19.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Tue Nov 24 11:28:53 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Wed Nov 25 11:30:31 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,7 +48,7 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-VIP Event In Store and Online | Ends November 25 | Use Code: VIP43
+VIP Event -- Last Day! In Store and Online | Ends November 25 | Use Code: VIP43
 
 Extra 25% Off\* with your JCPenney Credit Card
 
@@ -62,101 +62,105 @@ New deals every day through Wednesday | Online Only
 
 Shop Now
 
-60% Off Select Home Expressions Bedding, reg. $110-$300
+50% Off Select Bath Towels and Rugs, reg. $6-$300
 
-Shop Home Expressions Bedding
+Shop Bath Towels and Rugs
 
-60% Off Select JCPenney Home Ready-Made Blinds and Shades, reg. $20-$200
+50 to 60% Off Select Sheets, reg. $30-$700
 
-Shop JCPenney Home Ready-Made Blinds and Shades
+Shop Sheets
 
-50% Off Select Kids' Xersion Fleece, reg. $25-$30
+55% Off Select Men's St. John's Bay Flannel, reg. $34
 
-Shop Kids' Xersion Fleece
+Shop Men's St. John's Bay Flannel
 
-9.99 Select Disney Collection Medium Plush, reg. $16 (excluded from coupon)
+19.99 Men's Stafford Microfiber or JF J. Ferrar Dress Pants, reg. $60-$70
 
-Shop Disney Collection Medium Plush
+Shop Dress Pants
 
-50% Off Select Guys' Graphic Tees, reg $12-$20
+50% Off Select Men's Star Wars(TM) Apparel, reg. $20-$60
 
-Shop Guys' Graphic Tees
+Shop Men's Star Wars(TM) Apparel
 
-40 to 65% Off Select Fashion Jewelry and Fashion Silver, reg. $6-$75
+39.99 Guys Levi's(R) 505(TM) Regular Fit Jeans, reg. $58
 
-Shop Fashion Jewelry and Fashion Silver
+Shop Guys Levi's(R)
 
-60% Off Select Men's St. John's Bay Pants, reg. $60
+7.99 Select Kids' Sleep Separates, reg. $20
 
-Shop Men's St. John's Bay Pants
+Shop Kids' Sleep Separates
 
-40% Off Select Men's Athletic Brands
+6.99 Select Disney Collection Classic Dolls, reg. $12 (excluded from coupon)
 
-Shop Men's Athletic Brands
+Shop Disney Collection Classic Dolls
 
-50% Off Select Men's Holiday Ties, reg. $26-$42
+30% Off Select Seiko Watches, reg. $175-$775
 
-Shop Men's Holiday Ties
+Shop Seiko Watches
 
-50% Off Select JF J. Ferrar Dress Shoes, reg. $60
+50% Off Select A2 by Aerosoles Boots, reg. $90-$120
 
-Shop JF J. Ferrar Dress Shoes
+Shop A2 by Aerosoles Boots
 
-24.99 Select Crossbody Bags, reg. $35-$42
+50% Off Select Women's Wallets, reg. $25-$40
 
-Shop Crossbody Bags
+Shop Wallets
 
-14.99 Select St. John's Bay Sweaters For Her, reg. $30
+14.99 Select Women's Stylus Sweaters, orig. $36
 
-Shop St. John's Bay Sweaters For Her
+Shop Women's Stylus Sweaters
 
-60% Off Select Juniors' Holiday Novelty Apparel, reg. $20-$50
+7.99 Plus Tees, reg. $18-$22
 
-Shop Juniors' Holiday Novelty Apparel
+Shop Plus Tees
 
-50% Off Select Petites' Apparel, reg. $16-$86
+17.99 Juniors' Arizona Jeans, reg. $42
 
-Shop Petites' Apparel
+Shop Juniors' Arizona Jeans
 
-60% Off Plus Fleece and Velour Activewear, reg. $26-$40
+24.99 Select Juniors' Fleece and Puffer Jackets, reg. $52-$68
 
-Shop Plus Fleece and Velour Activewear
+Shop Juniors' Fleece and Puffer Jackets
 
-60% Off Select Animal Planet Pet Accessories, reg. $30-$120
+50% Off Select Sleepwear For Her, reg. $18-$54
 
-Shop Animal Planet Pet Accessories
+Shop Sleepwear For Her
 
-40% Off Select Mixit Slippers, reg. $20-$36
+50% Off Certified International Dinnerware, reg. $90-$240
 
-Shop Mixit Slippers
+Shop Certified International Dinnerware
 
-39.99 4-Piece Protocol Goodwin Luggage Set, reg. $180
+60% Off Select Quilts and Bedspreads, reg. $100-$300
 
-Shop Luggage
+Shop Quilts and Bedspreads
 
-50 to 60% Off Select Cooks Small Appliances, reg. $20-$175 (excluded from coupon)
+30 to 40% Off Select Electronics, reg. $15-$360 (excluded from coupon)
 
-Shop Cooks Small Appliances
+Shop Electronics
 
-60% Off Select Blankets and Throws, reg. $25-$510
+50 to 60% Off Select Cookware, reg. $100-$400
 
-Shop Blankets and Throws
+Shop Cookware
 
-17.99 Select Guys' Arizona Fleece, reg. $42
+9.99 Select Arizona Comfy Fleece, reg. $20
 
-Shop Guys' Arizona Fleece
+Shop Arizona Comfy Fleece
 
-60% Off Select Liz Claiborne and St. John's Bay Boots, reg. $100-$120
+14.99 Select Adidas Graphic Tees, reg. $22-$25
 
-Shop Liz Claiborne and St. John's Bay Boots
+Shop Adidas Graphic Tees
 
-50% Off Entire Stock Women's Tall Apparel
+29.99 Select Alfred Dunner Sweaters, reg. $66
 
-Shop Women's Tall Apparel
+Shop Alfred Dunner Sweaters
 
-40 to 60% Off Entire Stock Hoover Floorcare, reg. $130-$430 (excluded from coupon)
+50% Off Select Ready-Made Curtains, reg. $9-$390
 
-Shop Hoover Floorcare Black Friday Stores Open Thanksgiving Day
+Shop Ready-Made Curtains
+
+\*Levi's(R) Black Friday Event: Thursday, 11/26/15 at 12:01AM - Monday, 11/30/15 at 11:59PM. Levi's(R) excluded from coupon offer.
+
+Black Friday Stores Open Thanksgiving Day
 
 Preview the deals and make your list.
 
