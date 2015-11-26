@@ -1,4 +1,4 @@
-T-Mobile Privacy Policy July 4, 2015  
+T-Mobile Privacy Policy November 25, 2015  
 Please click here for Spanish version of the T-Mobile Privacy Policy  
 Please click here for the T-Mobile Privacy Policy Highlights  
   
@@ -93,7 +93,7 @@ For example some of the ways we may automatically collect information include:
     
     _Other Websites._ When your devices web browser utilizes our data services to access websites other than our own, we automatically capture information associated with your browsing activities, and measure and monitor network and Internet connection performance, throughput, latency, and similar network data.
     
-    _Do Not Track Policy._ Some browsers have incorporated "Do Not Track" features. Most of these features, when turned on, send a signal or preference to the websites you visit indicating that you do not wish to be tracked. Those sites (or the third party content on those sites) may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites privacy practices. Because there is not yet a common understanding of how to interpret the DNT signal, we do not currently respond to the browser DNT signals when you use our services and products or interact with our websites or online services. We do allow you to exercise choice regarding the collection of information by third parties about your online activities over time and across third-party websites or online services for online interest based advertising purposes and to opt out of our interest-based advertising on your device, as described below .
+    _Do Not Track Policy._ Some browsers have incorporated "Do Not Track" features. Most of these features, when turned on, send a signal or preference to the websites you visit indicating that you do not wish to be tracked. Those sites (or the third party content on those sites) may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites privacy practices. Because there is not yet a common understanding of how to interpret the DNT signal, we do not currently respond to the browser DNT signals when you use our services and products or interact with our websites or online services. We do allow you to exercise choice regarding the collection of information by third parties about your online activities over time and across third-party websites or online services for online interest based advertising purposes and to opt out of our interest-based advertising on your device, as described below.
     
 *   **Voice Controlled Applications**
     
@@ -124,7 +124,7 @@ We use the information we collect for a variety of business purposes, such as:
   
 **Fraud Prevention**
 
-We may use Personal Information, including voice print recordings, account information (such as purchase patterns) and device information for investigations or prevention of fraud or network abuse.
+We may use Personal Information, including voice print recordings, account information (such as purchase patterns) and device information for investigations or prevention of fraud or network abuse. We provide fraud prevention services to banks or other third parties. As part of this service, we may verify your phone number to help those third parties prevent your personal information from being used for fraudulent purposes. We also may provide the information you report as spam to 7726 to a third party to prevent fraud or network abuse, and we may share such information with government agencies and others that work to combat spam and prevent fraudulent, deceptive, and unfair practices.
 
 **Information Collected from Cookies**
 
@@ -226,11 +226,11 @@ We may disclose information to third-party vendors and partners who complete tra
 
 **Third-Party Carriers and Suppliers**
 
-If you are roaming on the network of another carrier, your wireless telephone number, your location, the numbers you dial, and other information about your usage will be available to that carrier to facilitate that service. Additionally, services and functionality offered through certain devices are sometimes provided in conjunction with entities other than T-Mobile. As a result, Personal Information from your devices may be uploaded and stored on their servers. For instance, BlackBerry® service is provided in conjunction with Research in Motion (RIM), and Personal Information from your device is stored on their BlackBerry Enterprise ServersTM. Their specific terms and conditions, terms of use, and privacy polices apply to those services.
+If you are roaming on the network of another carrier or WiFi service provider, your wireless telephone number, your location, the numbers you dial, and other information about your usage will be available to that carrier to facilitate that service. Additionally, services and functionality offered through certain devices are sometimes provided in conjunction with entities other than T-Mobile. As a result, Personal Information from your devices may be uploaded and stored on their servers. For instance, BlackBerry® service is provided in conjunction with Research in Motion (RIM), and Personal Information from your device is stored on their BlackBerry Enterprise ServersTM. Their specific terms and conditions, terms of use, and privacy polices apply to those services.
 
 **In a Business Transfer**
 
-We may sell, disclose, or transfer information about you as part of a corporate business transaction, such as a merger or acquisition, joint venture, corporate reorganization, financing, or sale of company assets, or in the unlikely event of insolvency, bankruptcy, or receivership, in which such information could be transferred to third-parties as a business asset in the transaction.
+We may sell, disclose, or transfer information about you as part of a corporate business transaction, such as a merger or acquisition, joint venture, corporate reorganization, financing, or sale of company assets, or in the unlikely event of insolvency, bankruptcy, or receivership, in which such information could be transferred to third-parties as a business asset in the transaction. We may also share information with banks for purposes of transferring loans in connection with your device financing.
 
 **For Legal Process &. Protection**
 
@@ -241,6 +241,7 @@ We may disclose Personal Information, and other information about you, or your c
 *   To protect our rights or interests, property or safety or that of others;
 *   In connection with claims, disputes, or litigation  in court or elsewhere;
 *   To protect users of our services and other carriers or providers from fraudulent, abusive, or unlawful use of, or subscription to, such services;
+*   When information is reported to the Spam Reporting Service, it may be shared with government agencies and others that work to combat spam and prevent fraudulent, deceptive, and unfair practices;
 *   To facilitate or verify the appropriate calculation of taxes, fees, or other obligations due to a local, state, or federal government. or
 *   In an emergency situation.
 
@@ -251,6 +252,8 @@ If you provide information to us in connection with a co-sponsored website, this
 **De-Identified Information**
 
 We may provide information that does not identify you personally to third-parties for marketing, advertising or other purposes.
+
+For more information about our INSIGHTS Program see Privacy Resources/T-Mobile INSIGHTS
 
 **Third-Party Applications for Your Devices**
 
@@ -291,7 +294,7 @@ The FTC maintains a National Do Not Call Registry at https://www.donotcall.gov/,
   
 top**YOUR ROLE IN PROTECTING YOUR PRIVACY**
 
-You play an important role in ensuring the security of Personal Information. We encourage you to use safeguards to protect your information and devices. For more information please see Privacy Resources/Protecting Your Privacy .
+You play an important role in ensuring the security of Personal Information. We encourage you to use safeguards to protect your information and devices. For more information please see Privacy Resources/Protecting Your Privacy.
 
   
 top**OTHER INFORMATION YOU SHOULD KNOW** **Consumer Code for Wireless Service**
