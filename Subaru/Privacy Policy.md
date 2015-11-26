@@ -380,7 +380,7 @@ Explore Subaru
 
 *   Vehicles
 *   View a Brochure
-*   Why Subaru
+*   All Things Subaru
 *   Build Your Own
 *   Shopping Tools
 *   Find a Retailer
