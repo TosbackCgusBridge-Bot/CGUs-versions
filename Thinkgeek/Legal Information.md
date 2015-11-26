@@ -44,7 +44,7 @@ Live Chat Unavailable
 
 Communicate with Us the Old-Fashioned Ways
 
-9am to 9pm EST, 365 days a year.
+9am to 9pm EST, 365 days a year\*
 
 *   1-888-GEEKSTUFF
     
@@ -54,6 +54,8 @@ Communicate with Us the Old-Fashioned Ways
 **ThinkGeek, Inc.** 11216 Waples Mill Rd. Suite 100  
 Fairfax, VA 22030  
 508-970-2002
+
+_\*except major holidays_
 
 Need a map?  
 Sorry locals, we don't have a walk-in store. Just our offices. If you need to come by for an interview, please call first. Thanks!
