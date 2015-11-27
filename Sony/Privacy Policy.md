@@ -40,9 +40,9 @@ PlayMemoriesSpark your imagination &. find new ways to enjoy your photos. Explor
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! The Perfect Present Is Just Waiting to Be Found
+Your browser does not support JavaScript! The Holiday Season Has Officially Begun
 
-Start Looking
+Start It Off Right
 
 Close
 
@@ -52,7 +52,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Start Looking
+Start It Off Right
 
 Limited-Edition Vinyl Releases to Celebrate Record Store Day
 
