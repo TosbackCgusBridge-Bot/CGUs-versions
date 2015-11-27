@@ -29,7 +29,7 @@ LEGAL INFORMATION COMPANY INFORMATION
 *   Terms of use
 *   Privacy Policy
 *   Cookies policy
-*   Multi-Campaing Advertising
+*   Multi-Campaign Advertising
 *   Software Policy
 
 Contact us
