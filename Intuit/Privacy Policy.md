@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14140025007
+true true C14145583567
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Wed Nov 25 11:30:31 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Thu Nov 26 11:31:41 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,131 +48,149 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-VIP Event -- Last Day! In Store and Online | Ends November 25 | Use Code: VIP43
+9.99 Men's St. John's Bay Flannel Shirt, reg. $34
 
-Extra 25% Off\* with your JCPenney Credit Card
+Shop St. John's Bay Flannel Shirt
 
-Or, Extra 20% Off\* with any other method of payment
+49.99 Women's St. John's Bay Wool Peacoat, reg. $200
 
-\*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
+Shop St. John's Bay Wool Peacoat
 
-Get coupon: Exclusions and details: One Day Deals Today Only! These deals end at midnight.
+7.99 - after $12 mail-in rebate - Select Cooks Small Appliances, reg. $40-$70, sale 19.99 (excluded from coupon, quantities limited at this price)
 
-New deals every day through Wednesday | Online Only
+Shop Cooks Small Appliances
 
-Shop Now
+19.99 Select Boots For Her, reg. $60-$90
 
-50% Off Select Bath Towels and Rugs, reg. $6-$300
+Shop Boots For Her
 
-Shop Bath Towels and Rugs
+30% Off - already reduced 40 to 65% off - Select Fine Jewelry
 
-50 to 60% Off Select Sheets, reg. $30-$700
+Shop Fine Jewelry
 
-Shop Sheets
+2.99 Home Expressions 100% Cotton Solid Bath Towel, reg. $10 (quantities limited at this price)
 
-55% Off Select Men's St. John's Bay Flannel, reg. $34
+Shop Bath Towels
 
-Shop Men's St. John's Bay Flannel
+Black Friday Deals - Shop All Women
 
-19.99 Men's Stafford Microfiber or JF J. Ferrar Dress Pants, reg. $60-$70
+Shop All Women
 
-Shop Dress Pants
-
-50% Off Select Men's Star Wars(TM) Apparel, reg. $20-$60
-
-Shop Men's Star Wars(TM) Apparel
-
-39.99 Guys Levi's(R) 505(TM) Regular Fit Jeans, reg. $58
-
-Shop Guys Levi's(R)
-
-7.99 Select Kids' Sleep Separates, reg. $20
-
-Shop Kids' Sleep Separates
-
-6.99 Select Disney Collection Classic Dolls, reg. $12 (excluded from coupon)
-
-Shop Disney Collection Classic Dolls
-
-30% Off Select Seiko Watches, reg. $175-$775
-
-Shop Seiko Watches
-
-50% Off Select A2 by Aerosoles Boots, reg. $90-$120
-
-Shop A2 by Aerosoles Boots
-
-50% Off Select Women's Wallets, reg. $25-$40
-
-Shop Wallets
-
-14.99 Select Women's Stylus Sweaters, orig. $36
-
-Shop Women's Stylus Sweaters
-
-7.99 Plus Tees, reg. $18-$22
-
-Shop Plus Tees
-
-17.99 Juniors' Arizona Jeans, reg. $42
-
-Shop Juniors' Arizona Jeans
-
-24.99 Select Juniors' Fleece and Puffer Jackets, reg. $52-$68
-
-Shop Juniors' Fleece and Puffer Jackets
-
-50% Off Select Sleepwear For Her, reg. $18-$54
-
-Shop Sleepwear For Her
-
-50% Off Certified International Dinnerware, reg. $90-$240
-
-Shop Certified International Dinnerware
-
-60% Off Select Quilts and Bedspreads, reg. $100-$300
-
-Shop Quilts and Bedspreads
-
-30 to 40% Off Select Electronics, reg. $15-$360 (excluded from coupon)
+49.99 - after $50 mail-in rebate - Skyking Drone With Camera, reg. $150, sale 99.99 (excluded from coupon)
 
 Shop Electronics
 
-50 to 60% Off Select Cookware, reg. $100-$400
+25% Off Select Women's Nike Fleece, MSRP $60 (excluded from coupon)
+
+Shop Women's Nike Fleece
+
+25% Off Select Nike Athletic Shoes For the Family, MSRP $55-$85 (excluded from coupon)
+
+Shop Nike Athletic Shoes For the Family
+
+25% Off Select Men's Nike Apparel and Accessories, reg. $14-$90 (excluded from coupon)
+
+Shop Men's Nike Apparel and Accessories
+
+99.99 + $15 mail-in rebate - Keurig K250 Coffee Brewer, reg. $175 (excluded from coupon)
+
+Shop Keurig
+
+Black Friday Deals - Shop All Men
+
+Shop All Men
+
+9.99 Select Women's Sweaters, reg. $36
+
+Shop Women's Sweaters
+
+60% Off Select Carter's Apparel and Sleepwear, reg. $12-$44
+
+Shop Carter's Apparel and Sleepwear
+
+14.99 Guys' Arizona Jeans, reg. $40
+
+Shop Guys' Arizona Jeans
+
+8.99 Select Disney Collection Classic Dolls, reg. $12 (excluded from coupon)
+
+Shop Disney Collection Classic Dolls
+
+50 to 70% Off Select Comforters, reg. $80-$550
+
+Shop Comforters
+
+35 to 75% Off Select Watches, reg. $12-$995
+
+Shop Watches
+
+3.99 Select Baby and Toddler Okie Dokie Match-Ups, reg. $12
+
+Shop Okie Dokie Match-Ups
+
+9.99 Select Stafford Microfleece and Flannel Sleep Pants, reg. $28-$30
+
+Shop Sleep Pants
+
+7.99 Made For Life 1/4-Zip Fleece Pullover, orig. $22
+
+Shop Made For Life
+
+6.99 to 12.99 Select Women's Slippers, reg. $20-$36
+
+Shop Women's Slippers
+
+Black Friday Deals - Shop All Kids
+
+Shop All Kids
+
+50 to 60% Off Select Handbags, reg. $35-$70
+
+Shop Handbags
+
+15.99 Select Kids' Puffer Jackets, reg. $60-$72
+
+Shop Kids' Puffer Jackets
+
+29.99 Men's St. John's Bay Puffer Coats, reg. $100
+
+Shop Men's St. John's Bay Puffer Coats
+
+60 to 80% Off Select Women's Sleepwear and Robes, reg. $18-$78
+
+Shop Women's Sleepwear and Robes
+
+9.99 Men's Stafford Travel Easy-Care Broadcloth Dress Shirt, reg. $36
+
+Shop Dress Shirts
+
+Black Friday Deals - Shop All Home
+
+Shop All Home
+
+60% Off Select Samsonite Luggage, reg. $120-$540
+
+Shop Luggage
+
+4.99 Select Pashmina-Style Scarves, reg. $20
+
+Shop Scarves and Wraps
+
+12.99 Select Juniors' City Streets Apparel, reg. $34-$42
+
+Shop Juniors' City Streets Apparel
+
+27.99 - after $20 mail-in rebate - Cooks 12-Piece Stainless Steel Cookware Set, reg. $100, sale 47.99
 
 Shop Cookware
 
-9.99 Select Arizona Comfy Fleece, reg. $20
+5.99 Select Tees, reg. $16-$22
 
-Shop Arizona Comfy Fleece
+Shop Tees
 
-14.99 Select Adidas Graphic Tees, reg. $22-$25
+24.99 - after $15 mail-in rebate - Talbot 16-Piece Dinnerware Set, reg. $130, sale 39.99
 
-Shop Adidas Graphic Tees
-
-29.99 Select Alfred Dunner Sweaters, reg. $66
-
-Shop Alfred Dunner Sweaters
-
-50% Off Select Ready-Made Curtains, reg. $9-$390
-
-Shop Ready-Made Curtains
-
-\*Levi's(R) Black Friday Event: Thursday, 11/26/15 at 12:01AM - Monday, 11/30/15 at 11:59PM. Levi's(R) excluded from coupon offer.
-
-Black Friday Stores Open Thanksgiving Day
-
-Preview the deals and make your list.
-
-View Store Ad Star Wars | Back In Full Force 50 to 60% Off Star Wars(TM): The Force Awakens Apparel
-
-Select styles
-
-Shop Star Wars Where Giving Begins
-
-Gifts they want. Savings you love.
-
-Shop All Gifts Where Giving Begins
+Shop Dinnerware Where Giving Begins
 
 Buy a pair of striped gloves and a portion of the purchase price will go to JCPenney Cares.
 
