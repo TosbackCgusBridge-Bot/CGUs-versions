@@ -20,13 +20,15 @@ LENOVO Menu
         8.  Ready to Ship PCs
         9.  Coupon Page
         10.  Deals for Students and Educators
-    *   BLACK FRIDAY DOORBUSTERS Big Savings Starts Now!
+    *   HOLIDAY DEALS Save on Gifts For Everyone on Your List.
         
         Save up to 67% Site-Wide.
         
     *   Lenovo Preferred Card The Best Offers with Instant and Affordable Financing.
         
-    *   The Daily Deal Get Special Savings on a Select Product Featured Everyday!
+    *   For Only a PENNY! Add Your NFL Team’s Logo to Your Laptop.
+        
+        Sale Ends November 30.
         
 *   Support
     *   Help placing an order 24 hours a day, 7 days a week  
