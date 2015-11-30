@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14250114937
+true true L14255511136
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Sat Nov 28 11:33:55 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Sun Nov 29 11:30:57 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,165 +48,153 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-9.99 Select Women's Sweaters, reg. $30-$44
+79.99 Crosley Cruiser 3-Speed Portable Turntable, reg. $120 (excluded from coupon)
 
-Shop Women's Sweaters
+Shop Portable Turntable
 
-60% Off Select Men's Coats, Hats, Gloves and Scarves, reg. $80-$350
+20 to 25% Off Select Baby Furniture and Bedding
 
-Shop Men's Coats, Hats, Gloves and Scarves
+Shop Baby Furniture and Bedding
 
-19.99 Boys' Levi's(R) 505(TM) Regular Fit and 550(TM) Relaxed Fit Jeans, reg. $40 (excluded from coupon)
+3.99 Baby and Toddler Okie Dokie Match-Ups, reg. $12
 
-Shop Boys' Levi's
+Shop Okie Dokie Match-Ups
 
-89.99 + $15 mail-in rebate Keurig K45 Coffee Brewer, reg. $175 (excluded from coupon)
+50% Off Select Kids' Arizona Jeans
 
-Shop Keurig
+Shop Kids' Arizona Jeans
 
-4.99 JCPenney Home 30x54" Solid or Striped Bath Towels, reg. $12
+59.99 Any Size Royal Velvet 400tc Wrinkle-Guard Sheet Set, reg. $130-$200
 
-Shop Bath Towels
+Shop Sheet Sets
 
-29.99 Select Boots For Her, reg. $60-$90
+60% Off Select Quilts and Bedspreads, reg. $100-$300
+
+Shop Quilts and Bedspreads
+
+60 to 70% Off Select Ready-Made Blinds and Shades
+
+Shop Ready-Made Blinds and Shades
+
+59.99 Protocol Richardson 3-Piece Luggage Set, reg. $170
+
+Shop Luggage Sets
+
+25% Off Select Women's Nike Activewear (excluded from coupon)
+
+Shop Women's Nike
+
+25% Off Boys' Nike KO Fleece, MSRP $40 (excluded from coupon)
+
+Shop Boys' Nike
+
+25% Off Select Nike Shoes For the Family (excluded from coupon)
+
+Shop Nike Shoes
+
+25% Off Select Men's Nike Activewear (excluded from coupon)
+
+Shop Men's Nike
+
+40 to 50% Off Diamond Jewelry
+
+Shop Diamond Jewelry
+
+40 to 50% Off Select Invicta Watches, reg. $139-$699
+
+Shop Invicta Watches
+
+45 to 55% Off Select Diamond Studs
+
+Shop Diamond Studs
+
+29.99 Select Boots For Her
 
 Shop Boots For Her
 
-Black Friday Doorbusters - Shop All Women
+50 to 60% Off Select Sleepwear and Robes For Her
 
-Shop All Women
+Shop Sleepwear and Robes
 
-40 to 65% Off + Extra 25% Off Select Fine Jewelry
+9.99 Select Slippers, reg. $28
 
-Shop Fine Jewelry
+Shop Slippers
 
-25% Off Select Men's Nike Apparel and Accessories, reg. $14-$90
+32.99 Levi's(R) 535(TM) Super Skinny Denim, reg. $49.50 (excluded from coupon)
 
-Shop Men's Nike Apparel and Accessories
+Shop Levi's
 
-25% Off Select Women's Nike Fleece, reg. $60
+60 to 70% Off Entire Stock Energy-Saving Window Treatments
 
-Shop Women's Nike Fleece
+Shop Energy-Saving Window Treatments
 
-40 to 50% Off Select Handbags and Wallets, reg. $35-$89
+50 to 60% Off Select Coats and Jackets For Her
 
-Shop Handbags and Wallets
+Shop Coats and Jackets For Her
 
-50% Off Select Carter's Apparel and Sleepwear, reg. $12-$44
+12.99 Select Sweaters, reg. $36
 
-Shop Carter's Apparel and Sleepwear
+Shop Sweaters
 
-Black Friday Doorbusters - Shop All Men
+9.99 Select Juniors' Arizona Sweaters, reg. $30
 
-Shop All Men
+Shop Juniors' Arizona
 
-60% Off Select Women's Coats and Jackets, reg. $100-$240
-
-Shop Women's Coats and Jackets
-
-9.99 - after $12 mail-in rebate - Select Cooks Small Appliances, reg. $40-$60, sale 21.00 (excluded from coupon, quantities limited at this price)
-
-Shop Cooks Small Appliances
-
-39.99 Men's Levi's(R) 511(TM) Slim Fit Jeans, reg. $68
-
-Shop Men's Levi's
-
-60% Off Select Holiday Trim and Decor, orig. $4-$180
-
-Shop Holiday Trim and Decor
-
-50% Off Select Fine Watches, reg. 99.99-299.99
-
-Shop Fine Watches
-
-50 to 60% Off Select Kids' Arizona Apparel, reg. $12-$46
-
-Shop Kids' Arizona Apparel
-
-14.99 Select Women's Pajama Sets, reg. $54
-
-Shop Women's Pajama Sets
-
-60% Off Select Men's Sweaters
-
-Shop Men's Sweaters
-
-40 to 60% Off Select Men's and Women's Athletic Shoes, MSRP $65-$75 (excluded from coupon)
-
-Shop Athletic Shoes
-
-50 to 60% Off Select Plus Apparel, reg. $20-$100
+60% Off Select Plus Apparel
 
 Shop Plus Apparel
 
-Black Friday Doorbusters - Shop All Kids
+15.99 Stafford Travel Wrinkle-Free Oxford Dress Shirt, reg. $40
 
-Shop All Kids
+Shop Dress Shirts
 
-12.99 JCPenney Home 300tc Easy-Care Solid or Print Twin Sheet Set, reg. $50
+998.82 Oliver Sofa and Loveseat Set, reg. $2,780
 
-Shop Sheets
+Shop Oliver Sofa and Loveseat Set
 
-50 to 60% Off Select Women's Fashion Accessories, reg. $10-$60
+36.99 Men's Levi's(R) 505(TM) Regular Fit Jeans, reg. $58
 
-Shop Women's Fashion Accessories
+Shop Men's Levi's
 
-14.99 Stafford Travel Easy-Care Broadcloth Dress Shirts, reg. $36
+17.99 Guys' Arizona Jeans, reg. $40
 
-Shop Easy-Care Broadcloth Dress Shirts
+Shop Guys' Arizona Jeans
 
-50% Off Entire Stock Curtains and Drapes, reg. $9-$390
+31.99 Dockers Signature Khakis, reg. $58
 
-Shop Curtains and Drapes
+Shop Dockers Signature Khakis
 
-32.99 Women's Levi's(R) 535(TM) Super Skinny Jeans, reg. 49.50
+50 to 60% Off Select Men's Coats and Jackets
 
-Shop Women's Levi's
+Shop Men's Coats and Jackets
 
-Black Friday Doorbusters - Shop All Home
+60% Off Select Men's Slippers
 
-Shop All Home
+Shop Men's Slippers
 
-40 to 60% Off Select Blankets and Throws, reg. $25-$510
+8.99 Guys' Graphic Tees, reg. $20
 
-Shop Blankets and Throws
+Shop Guys' Graphic Tees
 
-5.99 Select Cozy Socks For Her, reg. $12
+\*Levi's(R) Black Friday Event: Thursday, 11/26/15 at 12:01AM - Monday, 11/30/15 at 11:59PM. Levi's(R) excluded from coupon offer.
 
-Shop Socks For Her
+Holiday Gift Shop Where Giving Begins
 
-17.99 Women's Holiday Sweaters, orig. $44
+Gifts they want. Savings you love.
 
-Shop Women's Holiday Sweaters
-
-50 to 70% Off Select Bedding, reg. $80-$550
-
-Shop Bedding
-
-9.99 Underscore Bra, reg. $20
-
-Shop Underscore Bra
-
-50% Off Select Disney Apparel by Okie Dokie for Toddlers and Preschoolers, reg. $16-$36
-
-Shop Disney Apparel by Okie Dokie
-
-Levi's(R) Black Friday Event: Thursday, 11/26/15 at 12:01AM - Monday, 11/30/15 at 11:59PM. Levi's(R) excluded from coupon offer.
-
-Where Giving Begins
-
-Buy a pair of striped gloves and a portion of the purchase price will go to JCPenney Cares.
-
-Shop Now JCPenney | portraits
-
-Holiday Memories - 40% Off Photo Purchase
-
-Shop Portraits Now E-Gift Cards
+Shop All Gifts E-Gift Cards
 
 Customize with a message, photo or video.
 
-Shop E-Gift Cards Now Download the JCPenney App and Get Shopping Check Out The App Download on the App Store Get it on Google Play
+Shop E-Gift Cards Now JCPenney | portraits
+
+Holiday Memories - 40% Off Photo Purchase
+
+Shop Portraits Now Red Zone Clearance | New Markdowns!
+
+55 to 80% Off Clearance - With coupon or code GR8DEAL
+
+Shop Clearance Star Wars Shop Star Wars Now
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
