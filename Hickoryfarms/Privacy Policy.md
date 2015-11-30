@@ -57,6 +57,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Gifts Over $50
     *   Gifts Over $90
 *   Specials
+    *   Cyber Monday Deals
 
 Menu Search Stores Cart Gifts Sausage &. Cheese
 
@@ -112,8 +113,9 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gifts Over $50
     *   Gifts Over $90
 *   Specials
+    *   Cyber Monday Deals
 
-Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Special Deals! Up to 25% Off select items Plus Free Shipping $35+\*
+Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go _CYBER MONDAY DEALS!_ Up to 50% Off select items Plus Free Shipping $35+\*
 
 1.  Home
 2.  Customer Service
@@ -167,9 +169,9 @@ My Account
 
 Guarantees
 
-*   Security
-*   Substitution Policy
 *   100% Satisfaction
+*   Substitution Policy
+*   Security
 
 Privacy
 
