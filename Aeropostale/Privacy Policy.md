@@ -3,7 +3,7 @@
 *   Girls
     
     *   NEW ARRIVALS
-    *   Deals + Steals
+    *   Cyber Monday Deals
     *   Gift Guide
     *   Corny Christmas
     *   Bethany Mota
@@ -54,7 +54,7 @@
 *   Guys
     
     *   NEW ARRIVALS
-    *   Deals + Steals
+    *   Cyber Monday Deals
     *   Gift Guide
     *   Corny Christmas
     *   Meet the Atomics
