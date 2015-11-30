@@ -40,9 +40,9 @@ PlayMemoriesSpark your imagination &. find new ways to enjoy your photos. Explor
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! The Holiday Season Has Officially Begun
+Your browser does not support JavaScript! Give a Gift That Inspires Them All Year Long
 
-Start It Off Right
+Find One Today
 
 Close
 
@@ -52,7 +52,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Start It Off Right
+Find One Today
 
 Limited-Edition Vinyl Releases to Celebrate Record Store Day
 
