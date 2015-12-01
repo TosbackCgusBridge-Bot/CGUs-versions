@@ -1,4 +1,4 @@
-USESDEFRITBR Novembre 2015
+USESDEFRITBR Décembre 2015
 
 *   Objet
 *   Mentions légales
@@ -41,7 +41,7 @@ Le site CommentCaMarche.net est hébergé par :
 Equinix France  
 114 rue Ambroise Croizat  
 93200 SAINT DENIS  
-SAS au capital de 23 510 900,40   
+SAS au capital de 23 510 900,40 €  
 RCS : Bobigny B 429 840 853  
 +33 (0) 155 87 22 00  
 Définitions
@@ -103,7 +103,7 @@ Evolution du présent contrat Quidéa se réserve le droit de modifier les terme
 Il est ainsi conseillé à l'Utilisateur de consulter régulièrement la dernière version des Conditions d'Utilisation disponible sur le site www.commentcamarche.net.  
 Durée et résiliation Le présent contrat est conclu pour une durée indéterminée à compter de l'Utilisation du Service par l'Utilisateur.  
 Droit applicable et juridiction compétente Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents. Pour une lecture illimitée hors ligne, vous avez la possibilité de télécharger gratuitement cet article au format PDF :  
-Conditions-generales-d-utilisation .pdf Précédent
+Conditions-gnrales-d-utilisation .pdf Précédent
 
 *   8
 *   9
@@ -122,9 +122,9 @@ Réalisé sous la direction de Jean-François PILLOU, fondateur de CommentCaMarc
   
 A voir également
 
-*   Tubidy
 *   Conditions générales utilisation
 *   D'UTILISATION
+*   Conditions générale d'une webradio
 *   Modèle Condition Générale de Vente » Forum - Webmaster
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
