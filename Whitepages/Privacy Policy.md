@@ -3,8 +3,8 @@ Search
 Go to Pro
 
 *   People
-*   Business
 *   Phone
+*   Business
 *   Address
 
 People Where Search Cancel
@@ -12,14 +12,14 @@ People Where Search Cancel
 *   e.g. Jon Snow
 *   City, State or ZIP Where
 
+Phone Search Cancel
+
+*   e.g. 206-867-5309
+
 Business Where Search Cancel
 
 *   e.g. TGI Fridays
 *   City, State or ZIP Where
-
-Phone Search Cancel
-
-*   e.g. 206-867-5309
 
 Address Where Search Cancel
 
@@ -110,8 +110,8 @@ If you have any questions about this policy, please write to Whitepages Privacy 
 **Find**
 
 *   People Search
-*   Business Search
 *   Phone Search
+*   Business Search
 *   Address Search
 
 **Your Whitepages**
