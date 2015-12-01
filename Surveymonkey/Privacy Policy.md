@@ -27,9 +27,7 @@ SurveyMonkey®
     *   Mobile App
     *   Partner Integrations &. API
     *   Survey Programming
-    *   Surveys in Salesforce®
     *   Take Surveys
-    *   Telephone Surveys
     *   Wufoo Online Forms
 *   Plans &. Pricing
 *   Help
