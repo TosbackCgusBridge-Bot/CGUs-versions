@@ -100,6 +100,10 @@ Tue, Dec 8, 2015 EU Data Protection 2015
 
 The European Commission’s proposal for a General Data Protection Regulation represents the most significant global development in data protection law in the last twenty years. EU Data Protection 2015 is the premier event on the US West Coast to address the proposed changes in the Regulation and the business impact.
 
+Thu, Dec 17, 2015 Email Unsubscribe Audit - Who Has Been Naughty &. Who Has Been Nice?
+
+Join OTA for a review of the unsubscribe audit and recommended best practices moving beyond compliance. Key learnings provide marketers actionable and prescriptive advice to making their email marketing initiative more trustworthy. Details at https://otalliance.org/unsub
+
 Tue, Feb 9, 2016 FTC To Host Data Security Conference - Seattle
 
 The Federal Trade Commission will host a one-day conference in Seattle on Feb. 9, 2016, on how companies can build security into their products and services. The event will have a particular focus on guidance for startups and early stage businesses about how to make security considerations a part of a company’s culture from the start.
