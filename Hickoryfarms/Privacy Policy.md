@@ -17,7 +17,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Shop By Occasion
         *   Birthday Gifts
     *   Gifts on the Healthier Side
-    *   Thanksgiving
     *   Christmas Gifts
         
 *   Sausage &. Cheese
@@ -73,7 +72,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Shop By Occasion
         *   Birthday Gifts
     *   Gifts on the Healthier Side
-    *   Thanksgiving
     *   Christmas Gifts
         
 *   Sausage &. Cheese
@@ -169,9 +167,9 @@ My Account
 
 Guarantees
 
-*   100% Satisfaction
-*   Substitution Policy
 *   Security
+*   Substitution Policy
+*   100% Satisfaction
 
 Privacy
 
