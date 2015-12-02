@@ -108,8 +108,7 @@ Sections Scores News Video Stats Standings Schedule Players Postseason Tickets A
 *   Tickets Tickets Tickets
     *   General Ticket Information
     *   Postseason Ticket Refund Policies
-    *   Autism Awareness
-    *   StubHub.com2016 Schedule Postseason Tickets
+    *   StubHub.com2016 Schedule
 *   Apps Apps Apps
     *   At Bat app
     *   At Bat on Tablets
@@ -150,6 +149,7 @@ Sections Scores News Video Stats Standings Schedule Players Postseason Tickets A
     *   Jerseys
     *   Photos
 *   MLB.TV MLB.TV MLB.TV
+    *   MLB.TV Gift Giving
     *   Buy MLB.TV (Offseason)
     *   Watch/Listen
     *   Alternative Audio
@@ -160,7 +160,7 @@ Sections Scores News Video Stats Standings Schedule Players Postseason Tickets A
     *   MLB.TV Blackouts
     *   MLB.TV Tutorials
     *   MLB.TV Download Center
-    *   Contact Us
+    *   Contact UsMLB.TV Gift Giving
 *   Fantasy Fantasy Fantasy
     *   Free Agent Frenzy
     *   R.B.I. Baseball 15
