@@ -1,4 +1,4 @@
-Get your FREE gift now!
+Buckle Card Holders, get your FREE gift now!!
 
 Guest Services 800-607-9788
 
@@ -61,6 +61,7 @@ My Bag (0) Wish List Search
     *   How to Return
     *   International Return Policy
 *   Promotions
+    *   Buckle Card Rock Revival Double Points
     *   Buckle Card Free Wallet or Wristlet
     *   Buckle Card 20th Anniversary
     *   Best of the Blues Official Rules
