@@ -137,8 +137,6 @@ More information
 
 Details on Practitioner Insights (PDF)
 
-pip
-
 *   Customer Service
 *   Contact Us
 *   My Account
