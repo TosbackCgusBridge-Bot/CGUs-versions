@@ -56,7 +56,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Gifts Over $50
     *   Gifts Over $90
 *   Specials
-    *   Cyber Monday Deals
 
 Menu Search Stores Cart Gifts Sausage &. Cheese
 
@@ -111,9 +110,8 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gifts Over $50
     *   Gifts Over $90
 *   Specials
-    *   Cyber Monday Deals
 
-Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go _CYBER MONDAY DEALS!_ Up to 50% Off select items Plus Free Shipping $35+\*
+Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
 
 1.  Home
 2.  Customer Service
@@ -167,9 +165,9 @@ My Account
 
 Guarantees
 
-*   Security
-*   Substitution Policy
 *   100% Satisfaction
+*   Substitution Policy
+*   Security
 
 Privacy
 
@@ -188,9 +186,9 @@ Security
 
 About Us
 
-*   The Hickory Farms Story
-*   Employment Opportunities
 *   Store Locator
+*   Employment Opportunities
+*   The Hickory Farms Story
 
 Need Help?
 
@@ -222,6 +220,7 @@ Call Us - 1800.753.8558 Sign up for fresh gift ideas and delicious deals Sign up
 *   About Us
 *   In The News
 *   Our Blog
+*   Traditions Matter
 *   My Account
 *   No Kid Hungry®
 
