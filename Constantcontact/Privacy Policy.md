@@ -217,5 +217,6 @@ Back to Top
 *   Terms &. Conditions
 *   Privacy Statement
 *   California Privacy Rights
-*   Security Anti-Spam
+*   Security
+*   Anti-Spam
 *   © Constant Contact, Inc. 1996-2015
