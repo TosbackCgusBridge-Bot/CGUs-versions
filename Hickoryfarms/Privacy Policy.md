@@ -111,7 +111,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gifts Over $90
 *   Specials
 
-Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
+Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go __FREE__ Standard Delivery on shipments $35 or more!\*
 
 1.  Home
 2.  Customer Service
@@ -186,9 +186,9 @@ Security
 
 About Us
 
-*   Store Locator
-*   Employment Opportunities
 *   The Hickory Farms Story
+*   Employment Opportunities
+*   Store Locator
 
 Need Help?
 
