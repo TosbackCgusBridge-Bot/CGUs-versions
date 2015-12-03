@@ -3,14 +3,15 @@
 Company Information
 
 *   About Bankrate.com
-*   Bankrate management
+*   Bankrate, Inc. management
+*   Bankrate.com management
 *   Advertise with Bankrate
 *   Press releases
-*   Partnership Opportunities
+*   Partnership opportunities
 *   Honors and awards
 *   Employment opportunities
-*   Editorial Policy
-*   Email Newsletters
+*   Editorial policy
+*   Email newsletters
 *   Rate Data in print
 *   Press Room
 *   Investor Relations
