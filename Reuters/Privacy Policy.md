@@ -51,7 +51,23 @@ Advanced Search Law Books Solutions Support News &. Views Home >. westlaw legal 
 
 Practitioner Insights
 
-Start your day in the know. Choose a Practitioner Insights page as your start page on WestlawNext for up-to-the-minute legal developments in your practice area.
+Current events and related legal developments have a significant impact on the decisions you make every day. Now there's a single access point you can rely on for comprehensive information and expert analysis to help you stay informed and up to date on what's affecting your practice area.
+
+A dedicated team of attorney-editors monitors each practice area to ensure you see the most important updates of the day
+
+Get exclusive practice area-focused content and expert analysis, including Westlaw Daily Briefings, Reuters Legal, Wolters Kluwer, CQ Roll Call, and more
+
+Seamlessly access your Alerts on WestlawNext to inform you promptly of new developments relevant to your practice area or matching your customized search
+
+Select a Practitioner Insights page to be your WestlawNext Start Page so you can start each day "in the know"
+
+Try out Practitioner Insights free
+
+Start your day in the know with up-to-the-minute legal developments in your practice area.
+
+Contact sales to start your free trial See how Practitioner Insights works
+
+Click the orange buttons to explore the Practitioner Insights interface.
 
 *   More Top News
     
@@ -136,6 +152,8 @@ If you like, set up daily email summaries as well. You can add colleagues to the
 More information
 
 Details on Practitioner Insights (PDF)
+
+pip
 
 *   Customer Service
 *   Contact Us
