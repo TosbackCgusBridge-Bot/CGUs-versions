@@ -55,6 +55,8 @@ If you choose to purchase a report or subscription on this site, we may collect 
 
 You can buy reports on this service by entering your payment information, including your credit card information, name, email address, and physical address. For processing payments, we use systems that are compliant with the Payment Card Industry Data Security Standard (PCI DSS). All payment and transaction-related information is safely stored according to PCI DSS requirements.
 
+If you choose to use one of our communication relay services (for example, our email relay or postal relay services), we will collect your message content, as well as your relevant contact information for return correspondence. Please note that your contact information (e.g. name and email address or name and mailing address) will be shared with the person you contact through the relay service.
+
 Information We Collect From All Visitors Technical and Analytics Information
 
 We collect technical and analytics information from all visitors. This information includes your IP address, the URL that brought you to the site, and information about your device and browser.
@@ -152,7 +154,7 @@ Inflection.com, Inc. has received TRUSTe's Privacy Seal signifying that this pri
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
 
-Effective Date: November 11, 2015
+Effective Date: December 2, 2015
 
 About Manage Your Listing Affiliate Program Help Center Privacy Education How We Think About Privacy Terms of Use Privacy Policy Opt-Out Policy Payment Policy FCRA Regulations Contact Us Sitemap Explore Home Join Sign In Manage Listing Directories Find People Court Records Criminal Records County Records Company About Blog Privacy Education Affiliates Support Help Sitemap Get Privacy News and Alerts Submit Thank You. You have been subscribed.
 
