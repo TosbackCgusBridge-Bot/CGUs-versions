@@ -3,8 +3,8 @@
     *   Where we are
     *   Leadership team
     *   Our people
-    *   Softonic CSR
     *   Softonic Clean &. Safe
+    *   Softonic CSR
 *   What we do
     *   User services
     *   Developer services
