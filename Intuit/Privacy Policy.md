@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14173203382
+true true C14176957444
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Wed Dec 02 11:35:23 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p31.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Thu Dec 03 11:39:47 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,35 +48,43 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Save On Cold-Weather Bedding and More 30 to 50% Off Home Collections
+Friends and Family Extra 30% Off\* $100 or More
+
+Online Only | Ends December 7 | Code: DECFRND
+
+Or, Extra 25% Off\*
+
+In Store and Online | Ends December 7 | Code: DECFRND
+
+Or, $10 Off\* $25 Or More
+
+In Store and Online | Ends December 7 | Code: 4AFRIEND
+
+  \*See exclusions and details: Get Coupon   Shop Friends and Family Now Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Fine and Fashion Jewelry Shop Shoes Shop Handbags and Accessories Save on Cold-Weather Bedding and More 30 to 50% Off Home Collections
 
 Select styles
 
-Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage Shop Cold-Weather Bedding 15 Shades | Customized Case | All Gwen New. Urban Decay.
-
-UD | Gwen Stefani Eyeshadow Pallette
-
-Shop Now Save on Star Wars 40 to 60% Off Star Wars The Force Awakens Apparel For The Family
+Shop Cold-Weather Bedding Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage Warm Up! Coats and Jackets Are On Sale 50% Off Coats, Hats, Gloves and Scarves For the Family
 
 Select styles
 
-Shop Star Wars Gifts For Everyone On Your List Holiday Gift Shop
+Shop Coats, Hats, Gloves and Scarves For the Family Nike Shoes and More On Sale! 25% Off Nike Shoes For the Family
 
-Gifts they want. Savings you love.
+Select styles, excluded from coupon
 
-Shop All Gifts Where Giving Begins
+Shop Nike Most-Wanted Beauty Gifts Sephora
+
+Oh what gifts!
+
+Shop Sephora Now Where Giving Begins
 
 Buy a pair of striped gloves and a portion of the purchase price will go to JCPenney Cares.
 
-Shop Now E-Gift Cards
+Get details E-Gift Cards
 
-Customize with a message, photo or video.
+Customize with a message, photo or video
 
-Shop E-Gift Cards Now JCPenney | portraits
-
-Holiday Memories - 40% Off Photo Purchase
-
-Shop Portraits Now New Markdowns!
+Shop E-Gift Cards Now Star Wars™ Shop Star Wars Now New Markdowns!
 
 60 to 80% Off Clearance
 
