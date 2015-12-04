@@ -22,7 +22,7 @@ LENOVO Menu
         10.  Deals for Students and Educators
     *   CYBER MONDAY DOORBUSTERS EXTENDED! Need More Time? You Got It!
         
-        Save up to 67% Site-Wide.
+        Save up to 50% Site-Wide.
         
     *   Lenovo Preferred Card The Best Offers with Instant and Affordable Financing.
         
