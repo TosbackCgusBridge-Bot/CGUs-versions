@@ -28,7 +28,7 @@ Tél: +33 1 47 79 50 00
 SAS au capital de 57 600,00 euros  
 Nanterre B 453 986 960  
 Président : Howto Media Group.  
-Le directeur de la publication est **Jean-François Pillou**.  
+Le directeur de la publication est **Marc Feuillée**.  
   
 Quidea est une société du groupe **Howto Media Group**  
 (nom commercial **CCM Benchmark Group**),  
