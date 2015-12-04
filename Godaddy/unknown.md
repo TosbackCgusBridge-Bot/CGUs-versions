@@ -22,7 +22,7 @@ This Trademark/Copyright Infringement policy specifically excludes domain name d
 
 **A. Trademark Claims**
 
-1\. If you (the "Complaining Party") would like to submit a trademark claim for violation of a mark on which you hold a valid, registered trademark or service mark (registered with the United States Patent and Trademark Office on the Principal Register or, for foreign marks, registered with the appropriate intellectual property organization of your country. state registrations and registrations on the Supplemental Register are not considered valid for these purposes), GoDaddy requests that the Complaining Party substantiate such claim by either: (i) filling out the form available here, or (ii) providing the following information via email to trademarkclaims@godaddy.com.  The words "Trademark Claim" should appear in the subject line. PLEASE NOTE: Filling out the online form is the quickest way to get your claim addressed.
+1\. If you (the "Complaining Party") would like to submit a trademark claim for violation of a mark on which you hold a valid, registered trademark or service mark (registered with the United States Patent and Trademark Office on the Principal Register or, for foreign marks, registered with the appropriate intellectual property organization of your country. state registrations and registrations on the Supplemental Register are not considered valid for these purposes), GoDaddy requests that the Complaining Party substantiate such claim by either: (i) filling out the form available here, or (ii) providing the following information via email to trademarkclaims@godaddy.com.  The words "Trademark Claim" should appear in the subject line of the email. **PLEASE NOTE: Filling out the online form is the quickest way to get your claim addressed.**
 
 To be considered effective, a notification of a claimed trademark violation must include the following information:
 
@@ -49,7 +49,7 @@ To be considered effective, a notification of a claimed trademark violation must
 
 **B. Copyright Claims**
 
-1\. If the Complaining Party would like to submit a copyright claim for material on which you hold a bona fide copyright, GoDaddy requests that the Complaining Party substantiate such claim by providing GoDaddy with the following information via email to copyrightclaims@godaddy.com. The words "Copyright Claim" should appear in the subject line. A copyright claim can also be submitted by mail to: Copyright Agent, GoDaddy, 14455 N. Hayden Road, Suite 219, Scottsdale, AZ 85260
+1\. If the Complaining Party would like to submit a copyright claim for material on which you hold a bona fide copyright, GoDaddy requests that the Complaining Party substantiate such claim by either: (i) filling out the form available here, or (ii) providing the following information via email to copyrightclaims@godaddy.com.  The words "Copyright Claim" should appear in the subject line of the email. A copyright claim can also be submitted by mail to: Copyright Agent, GoDaddy, 14455 N. Hayden Road, Suite 219, Scottsdale, AZ 85260. **PLEASE NOTE: Filling out the online form is the quickest way to get your claim addressed.**
 
 To be considered effective, a notification of a claimed copyright infringement must be provided to GoDaddy and must include the following information:
 
