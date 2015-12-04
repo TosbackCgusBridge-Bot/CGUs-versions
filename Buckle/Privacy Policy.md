@@ -1,4 +1,4 @@
-Buckle Card Holders, get your FREE gift now!!
+Free Gifts from your Favorite Brands!
 
 Guest Services 800-607-9788
 
