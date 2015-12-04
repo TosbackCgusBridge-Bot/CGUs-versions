@@ -1,6 +1,6 @@
 Delicious Terms of Service Last Updated: January 10, 2013 - What’s new Welcome to Delicious!
 
-Delicious Science, LLC provides Delicious – the service that enables users to collect and discover web content through our website located at www.delicious.com and by using related applications and the Delicious bookmarklet extension for your internet browser. For simplicity, we’ll refer to any or all of this as the “Service”.
+Delicious Media Inc provides Delicious – the service that enables users to collect and discover web content through our website located at www.delicious.com and by using related applications and the Delicious bookmarklet extension for your internet browser. For simplicity, we’ll refer to any or all of this as the “Service”.
 
 When you access or use the Service, you are agreeing to the following terms and conditions (“Terms”) and acknowledge that they are a binding legal agreement between you and Delicious Science.
 
