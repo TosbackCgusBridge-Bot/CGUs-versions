@@ -149,11 +149,7 @@ Use your alerts on WestlawNext to inform you promptly of new legal developments 
 
 If you like, set up daily email summaries as well. You can add colleagues to the email list.
 
-More information
-
-Details on Practitioner Insights (PDF)
-
-pip
+Contact sales to start your free trial › pip
 
 *   Customer Service
 *   Contact Us
