@@ -191,14 +191,15 @@ _Our Ads on Other Websites._ We may ask third-parties to place advertisements ab
 *   Advertising may be tailored to the interests that advertisers have inferred from your browsing of our websites or other websites or applications with which the third-party partners to provide advertising.
 *   We may provide third-party advertisers with aggregated or de-identified location, demographic or similar data (unrelated to your browsing activities) that does not personally identify you. This data may be used by advertisers to help tailor their ads on our websites, and on other sites and applications.
 *   We, and our providers, may use a de-identified profile of your web-browsing and application use activity and interests. This profile does not contain information that identifies you personally, but may include a unique or encrypted identifier that enables your device to be matched to a profile of your browsing activity and de-identified characteristics about your interests.
-*   When we use information associated with your web browsing activities on websites that are not our own to provide interest-based advertising or offers, we will provide you with notice and appropriate choice.
+*   When we use information associated with your web browsing activities on websites that are not our own to provide interest-based advertising or offers, we will provide you with notice and appropriate choice.  
+      
+    For more information see privacy resources/T-Mobile Ad Options for Your Device
 *     
     **Choices About Advertising.**
 *     
     
 *   _On Your Mobile Device._ Where we offer interest-based ads, you can opt-out of certain interest-based advertising by clicking on the ad options link on or near the advertisement or by clicking here.
     
-    Ma
     *   If you turn off interest-based ads, you will still see just as many ads, but the ads may not be based on your interests and may be less relevant to you.
     *   Your choice only affects the ads you see on websites and applications you access on your device.
     *   If your devices browser cookies are deleted, or your device is reset, you may need to reset the interest-based ads feature.
