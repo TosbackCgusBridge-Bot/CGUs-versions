@@ -13,7 +13,7 @@ SEG1 hp
 
 Office Depot Deals
 
-HK3ReBRHvfXF7eqNfpqzLvx Recommended Products
+MOv5yU5y6E1gHBgH9ggr2Mq Recommended Products
 
 Category Matches
 
@@ -156,7 +156,7 @@ to your Mobile Phone      
 *   PRODUCTS
 *   Ativa®
 *   Black Friday 2015
-*   Foray &. trade
+*   Foray™
 *   Gift &. Rewards Cards
 *   Greener Office
 *   Products A-Z
@@ -173,7 +173,7 @@ to your Mobile Phone      
 *   Small Business Handbook
 *   Security Solutions
 *   Shredding Services
-*   Tech Depot &. trade Services
+*   Tech Depot™ Services
 *   Tech Trade-In
 
 *   ABOUT US
