@@ -10,13 +10,13 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Gift Baskets and Towers
     *   Business Gifts
         
-    *   Military Gifts
     *   Simply Hickory Farms
     *   Hickory Farms Reserve
     *   Personalized Gifts
     *   Shop By Occasion
         *   Birthday Gifts
     *   Gifts on the Healthier Side
+    *   New Product Showcase
     *   Christmas Gifts
         
 *   Sausage &. Cheese
@@ -64,13 +64,13 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gift Baskets and Towers
     *   Business Gifts
         
-    *   Military Gifts
     *   Simply Hickory Farms
     *   Hickory Farms Reserve
     *   Personalized Gifts
     *   Shop By Occasion
         *   Birthday Gifts
     *   Gifts on the Healthier Side
+    *   New Product Showcase
     *   Christmas Gifts
         
 *   Sausage &. Cheese
@@ -165,9 +165,9 @@ My Account
 
 Guarantees
 
-*   100% Satisfaction
-*   Substitution Policy
 *   Security
+*   Substitution Policy
+*   100% Satisfaction
 
 Privacy
 
