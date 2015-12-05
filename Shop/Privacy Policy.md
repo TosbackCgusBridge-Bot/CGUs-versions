@@ -261,7 +261,7 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   News
     *   Investor Relations
     *   Management
-    *   Community
+    *   Lenovo Cares
     *   History
     *   Sustainability
     *   Customer Center
