@@ -60,7 +60,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Men Featured Shops
             *   Gifts for Him
-            *   Hats, Gloves &. Scarves
+            *   Holiday Style Guide
             *   No Iron Shop
             *   Supima Shirts &. Sweaters
             
@@ -160,36 +160,17 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Long Underwear
 *   Shoes
     *   *   Back to Main Menu Shoes
-        *   Featured Shops
-            *   Back to Shoes Featured Shops
-            *   New Arrivals
-            *   Sock Shop
-            *   Accessories Shop
-            *   Sale
-    *   *   Women
-            *   Back to Shoes Women
-            *   Boots
-            *   Casual
-            *   Slippers
-            *   Flats
-            *   Heels
+        *   Shop Shoes
+        *   Women
         *   Men
-            *   Back to Shoes Men
-            *   Boots
-            *   Casual
-            *   Slippers
-            *   Dress
-        *   Girls'
-            *   Back to Shoes Girls'
-            *   Boots
-            *   Flats
-            *   Casual
-            *   Slippers
-        *   Boys'
-            *   Back to Shoes Boys'
-            *   Boots
-            *   Casual &. Dress
-            *   Slippers
+        *   Girls
+        *   Boys
+        
+        *   Boots &. Booties
+        *   Slippers
+        *   Sock Shop
+        *   Accessories Shop
+        *   Sale
 *   Home
     *   *   Back to Main Menu Home
         *   Featured Shops
@@ -202,32 +183,32 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Sale
     *   *   Bedding
             *   Back to All Home Bedding
+            *   View All
             *   Sheets &. Pillowcases
             *   Duvet Covers &. Comforters
             *   Blankets &. Throws
             *   Mattress Pads
             *   Pillows
-            *   Shop All Bedding
         *   Bath
             *   Back to All Home Bath
+            *   View All
             *   Towels
             *   Rugs &. Mats
             *   Beach Towels
-            *   Shop All Bath
         *   Décor
             *   Back to All Home Décor
-            *   Storage &. Organization
-            *   Tabletop
-            *   Doormats
+            *   View All
             *   Seasonal
-            *   Shop all Décor
+            *   Tabletop
+            *   Storage &. Organization
+            *   Doormats
         *   More for the Home
             *   Back to All Home More for the Home
+            *   View All
             *   Kids Home
             *   Dog Shop
             *   Luggage &. Bags
             *   Canvas Totes
-            *   Shop All More for the Home
         
 *   Uniforms
     *   *   Back to Main Menu Uniforms
