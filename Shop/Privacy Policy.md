@@ -20,9 +20,9 @@ LENOVO Menu
         8.  Ready to Ship PCs
         9.  Coupon Page
         10.  Deals for Students and Educators
-    *   CYBER MONDAY DOORBUSTERS EXTENDED! Need More Time? You Got It!
+    *   Holiday Hustle Hurry! These Deals Won’t Last.
         
-        Save up to 50% Site-Wide.
+        Save up to 58% Site-Wide.
         
     *   Lenovo Preferred Card The Best Offers with Instant and Affordable Financing.
         
