@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14279653255
+true true L14282676772
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p11.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Sat Dec 05 11:32:28 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p08.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Sun Dec 06 11:32:14 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -60,35 +60,53 @@ Or, $10 Off\* $25 Or More
 
 In Store and Online | Ends December 7 | Code: 4AFRIEND
 
-  \*See exclusions and details: Get Coupon   Shop Friends and Family Now Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Fine and Fashion Jewelry Shop Shoes Shop Handbags and Accessories Save on Cold-Weather Bedding and More 30 to 50% Off Home Collections
+  \*See exclusions and details: Get Coupon   Shop Friends and Family Now Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Shoes Shop Handbags and Accessories Gifts For Everyone On Your List 9.99 Disney Collection Sleepwear
+
+Select styles. Excluded from coupon.
+
+Shop Disney Collection Sleepwear17.99 Sweaters For Her
 
 Select styles
 
-Shop Cold-Weather Bedding Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage Warm Up! Coats and Jackets Are On Sale 50% Off Coats, Hats, Gloves and Scarves For the Family
+Shop Sweaters For Her19.99 Men's St. John's Bay Sweaters
 
 Select styles
 
-Shop Coats, Hats, Gloves and Scarves For the Family Nike Shoes and More On Sale! 25% Off Nike Shoes For the Family
+Shop Men's St. John's Bay Sweaters59.99 Skyking Drone With Camera, reg. $150
 
-Select styles, excluded from coupon
+Excluded from coupon.
 
-Shop Nike Most-Wanted Beauty Gifts Sephora
+Shop Skyking Drone With CameraHoliday Gift Shop
 
-Oh what gifts!
+Gifts they want. Savings you love.
 
-Shop Sephora Now Where Giving Begins
+Shop All Gifts Diamonds On Sale! Holiday Jewelry Sale | Ends December 7
+
+30 to 60% Off Jewelry, select styles
+
+Shop All Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Save On Bedding, Comforters and More 30 to 50% Off Home Collections
+
+Select styles
+
+Shop Cold-Weather Bedding Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage
+
+Shop Star Wars SportsFanShop
+
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
+
+Shop SportsFanShop People StyleWatch Must Haves
+
+Sponsored Content
+
+Shop People StyleWatch Now JCPenney | portraits
+
+Holiday Memories - 40% Off Photo Purchase
+
+Shop Portraits Now Where Giving Begins
 
 Buy a pair of striped gloves and a portion of the purchase price will go to JCPenney Cares.
 
-Get details E-Gift Cards
-
-Customize with a message, photo or video
-
-Shop E-Gift Cards Now Star Wars™ Shop Star Wars Now New Markdowns!
-
-60 to 80% Off Clearance
-
-Shop Clearance Now
+Get details
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
