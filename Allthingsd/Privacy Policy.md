@@ -1,10 +1,10 @@
 The Dow Jones Privacy Policy Effective October 26, 2013 1. INTRODUCTION
 
-Dow Jones &. Company, Inc. and its subsidiaries ("Dow Jones", "us" or "we") want you to be familiar with how we collect, use and disclose information from and about you.
+Dow Jones &. Company, Inc. and its subsidiaries (“Dow Jones”, “us” or “we”) want you to be familiar with how we collect, use and disclose information from and about you.
 
-This Privacy Policy applies to information we collect from all sources including in connection with our websites, mobile sites, applications ("apps"), electronic newsletters and widgets (collectively the "Dow Jones Online Services") that link to this Privacy Policy. If there is a conflict between this Policy and a Dow Jones Online Services corporate subscription agreement, the Dow Jones Online Services corporate subscription agreement will take precedence.
+This Privacy Policy applies to information we collect from all sources including in connection with our websites, mobile sites, applications (“apps”), electronic newsletters and widgets (collectively the “Dow Jones Online Services”) that link to this Privacy Policy. If there is a conflict between this Policy and a Dow Jones Online Services corporate subscription agreement, the Dow Jones Online Services corporate subscription agreement will take precedence.
 
-This Policy describes Dow Jones's collection and use of users' Personal Information. It also describes generally Dow Jones's practices for handling Other Information (e.g., interests, demographics and services usage) collected through our Dow Jones Online Services or from a third party to the extent such information is associated with a particular device, user or user account. As described more fully below, we share information with our affiliated companies ("Dow Jones Affiliates") for the purposes described in this privacy policy. A list of Dow Jones Affiliates is available here. By using the Dow Jones Online Services or by providing personal information to us, you agree to the terms and conditions of this Privacy Policy.
+This Policy describes Dow Jones’s collection and use of users’ Personal Information. It also describes generally Dow Jones’s practices for handling Other Information (e.g., interests, demographics and services usage) collected through our Dow Jones Online Services or from a third party to the extent such information is associated with a particular device, user or user account. As described more fully below, we share information with our affiliated companies (“Dow Jones Affiliates”) for the purposes described in this privacy policy. A list of Dow Jones Affiliates is available here. By using the Dow Jones Online Services or by providing personal information to us, you agree to the terms and conditions of this Privacy Policy.
 
 The Dow Jones Online Services are a network of general audience sites, are not targeted to children, and do not knowingly collect personal information from children under 14 years of age.
 
@@ -14,7 +14,7 @@ Dow Jones and our service providers may collect the following information from a
 
 **Personal Information**
 
-"Personal Information" is the information that identifies you as an individual, such as name, postal address, telephone number, email address, credit or debit card number, profile picture, or social media account ID.
+“Personal Information” is the information that identifies you as an individual, such as name, postal address, telephone number, email address, credit or debit card number, profile picture, or social media account ID.
 
 Personal Information from You
 
@@ -26,7 +26,7 @@ We may receive Personal Information about you from third parties, such as social
 
 Other Information
 
-"Other Information" is any information that does not reveal your specific identity, such as browser information, app usage data, information collected through cookies and other technologies, demographic information, and aggregated information.
+“Other Information” is any information that does not reveal your specific identity, such as browser information, app usage data, information collected through cookies and other technologies, demographic information, and aggregated information.
 
 Other Information You Submit
 
@@ -38,13 +38,13 @@ We may receive Other Information about you from third parties, including, for ex
 
 Other Information We Collect Automatically When You are Online
 
-When you access and interact with our Dow Jones Online Services, we and our service providers may automatically collect certain information about those visits. For example, in order to permit your connection to the Dow Jones Online Services, our servers receive and record information about your computer, device, and browser, potentially including your IP address, browser type, and other software or hardware information. If you access the Dow Jones Online Services from a mobile or other device, we may collect a unique device identifier assigned to that device ("UDID"), geolocation data, or other transactional information for that device.
+When you access and interact with our Dow Jones Online Services, we and our service providers may automatically collect certain information about those visits. For example, in order to permit your connection to the Dow Jones Online Services, our servers receive and record information about your computer, device, and browser, potentially including your IP address, browser type, and other software or hardware information. If you access the Dow Jones Online Services from a mobile or other device, we may collect a unique device identifier assigned to that device (“UDID”), geolocation data, or other transactional information for that device.
 
 Dow Jones and our service providers also may use cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology including cookies) when you visit or use the Dow Jones Online Services. Third parties that support the Dow Jones Online Services by serving advertisements or providing services, such as providing users with the ability to comment on content, allowing users to share content, customizing content based on usage, or tracking aggregate site usage statistics, may also use these technologies to collect Other Information. Please see the Dow Jones Cookie Policy here for more information about our use of these technologies.
 
-Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information (e.g., http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies).
+Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the “Help” section of your browser for more information (e.g., http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies).
 
-Users can manage the use of Flash technologies with the Flash management tools available at Adobe's website, see http://www.adobe.com/devnet/security.edu.html. Please note that by blocking any or all cookies you may not have access to certain features or personalization available through our Dow Jones Online Services.
+Users can manage the use of Flash technologies with the Flash management tools available at Adobe’s website, see http://www.adobe.com/devnet/security.edu.html. Please note that by blocking any or all cookies you may not have access to certain features or personalization available through our Dow Jones Online Services.
 
 3\. HOW WE USE YOUR INFORMATION
 
@@ -83,9 +83,9 @@ In addition, we may share your Personal Information with non-affiliated third pa
 
 **To provide co-branded services and features**. We may offer co-branded services or features, such as conferences, contests, sweepstakes or other promotions together with a third party (“Co-Branded Services”). These Co-Branded Services may be hosted on the Dow Jones Online Services or on the third party’s service. By virtue of these relationships, we may share the information you submit in connection with the Co-Branded Service with the third party. The third party’s use of your information will be governed by the third party’s privacy policy.
 
-**To permit unaffiliated third parties to send you promotional materials**.If you subscribe to the U.S. edition of The Wall Street Journal or Barron's print publications, we may share your contact information with unaffiliated companies whose products and services may be of interest to you. While many of our subscribers appreciate receiving offerings from these companies, if you prefer that we do not share your information for this purpose, please contact Customer Service as described below in How to Access, Correct or Update Your Information. If you sign up to receive a Special Offer on the MarketWatch.com Service, Dow Jones will forward your request along with your email and Special Offer delivery information, to the company making the relevant Special Offer so that it can contact you directly. Once your information is provided to another company pursuant to your request it is not governed by this Privacy Policy.
+**To permit unaffiliated third parties to send you promotional materials**.If you subscribe to the U.S. edition of The Wall Street Journal or Barron’s print publications, we may share your contact information with unaffiliated companies whose products and services may be of interest to you. While many of our subscribers appreciate receiving offerings from these companies, if you prefer that we do not share your information for this purpose, please contact Customer Service as described below in How to Access, Correct or Update Your Information. If you sign up to receive a Special Offer on the MarketWatch.com Service, Dow Jones will forward your request along with your email and Special Offer delivery information, to the company making the relevant Special Offer so that it can contact you directly. Once your information is provided to another company pursuant to your request it is not governed by this Privacy Policy.
 
-If you subscribe solely to any other Dow Jones Online Service, we may share your Personal Information with unaffiliated third parties for such parties' own marketing purposes if you have given us permission to do so.
+If you subscribe solely to any other Dow Jones Online Service, we may share your Personal Information with unaffiliated third parties for such parties’ own marketing purposes if you have given us permission to do so.
 
 **To allow social sharing functionality**.If you log in with or connect a social media service account with a Dow Jones Online Service, we may share your user name, picture, and likes, as well as your activities and comments with other Dow Jones Online Services users and with your friends associated with your social media service. We may also share the same information with the social media service provider. By logging in with or connecting your Dow Jones Online Services account and your social media service, you are authorizing us to share information we collect from and about you with the social media service provider, other users and your friends, and you understand that the social media service’s use of the shared information will be governed by the social media service’s privacy policy. If you do not want your Personal Information shared in this way, please do not connect your social media service account with your Dow Jones Online Services account, and do not participate in social sharing on the Dow Jones Online Services.
 
@@ -105,7 +105,7 @@ Here are links to pages where subscribers and registered users may update their 
 
 *   Wall Street Journal Customer Center
 *   Wall Street Journal Email Setup
-*   Barron's Customer Center
+*   Barron’s Customer Center
 *   MarketWatch My Profile
 *   DJX – Factiva Customer Support
 *   AllThingsD.com
@@ -135,7 +135,7 @@ and include your name and the address to which you would like us to respond.
 
 **Linked Services**. The Dow Jones Online Services may also be linked to sites operated by third parties, and may carry advertisements or offer content, functionality, games or applications developed and maintained by third parties. Some of these third party sites may be co-branded with a Dow Jones logo, even though they are not operated or maintained by us. For example:
 
-*   A portion of The Wall Street Journal Archive is hosted by an unrelated company - ProQuest - through its ProQuest Archiver service, and all article purchases are processed by ProQuest. ProQuest collects and uses your information in accordance with its privacy policy, and makes your information available to us. We will treat all information that ProQuest provides about you in accordance with this Privacy Policy.
+*   A portion of The Wall Street Journal Archive is hosted by an unrelated company – ProQuest – through its ProQuest Archiver service, and all article purchases are processed by ProQuest. ProQuest collects and uses your information in accordance with its privacy policy, and makes your information available to us. We will treat all information that ProQuest provides about you in accordance with this Privacy Policy.
 *   The Portfolio feature is provided by a third party, LikeAssets. LikeAssets collects and uses your information in accordance with its privacy policy, which is separate from this one.
 
 Dow Jones is not responsible for the privacy practices of any such third parties, and once you leave the Dow Jones Online Services or click an advertisement, you should check the applicable privacy policy of the other service.
