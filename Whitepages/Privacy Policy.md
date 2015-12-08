@@ -176,6 +176,7 @@ If you have any questions about this policy, please write to Whitepages Privacy 
     *   Seattle
     *   Tampa
     *   Washington, DC
+*   Whitepages Mexico
 *   Names
 *   411.com
 
