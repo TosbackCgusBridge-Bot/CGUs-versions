@@ -1,4 +1,4 @@
-User Privacy NoticeeBay- User Privacy Notice This Privacy Notice was posted on **1 May 2015**. It is effective upon acceptance for new users, and from **15 June 2015** for all other users. See previous version of this Privacy Notice. Summary &. Contents
+User Privacy Notice This Privacy Notice was posted on **1 May 2015**. It is effective upon acceptance for new users, and from **15 June 2015** for all other users. See previous version of this Privacy Notice. Summary &. Contents
 
 **Scope and Consent**
 
