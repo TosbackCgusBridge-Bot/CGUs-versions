@@ -24,6 +24,12 @@ Skip to main content
     *   Our Locations
     *   Contact Us
 *   Careers
+*   Publishers
+    *   Overview
+    *   Website
+    *   App Publishers
+    *   Affiliate
+    *   Join Us
 
 *   Investor Relations
 
@@ -49,6 +55,12 @@ Skip to main content
     *   Our Locations
     *   Contact Us
 *   Careers
+*   Publishers
+    *   Overview
+    *   Website
+    *   App Publishers
+    *   Affiliate
+    *   Join Us
 
 Login Let's Connect CONNECTING  
 BRANDS TO  
@@ -87,12 +99,11 @@ THAN ANYONE See What We Do
     Take control of your own data
     
 
-OUR IMPACT
+NEW GUIDE
 
-We’ll prove to you that we can recognize consumers  
-better than any competitor.
+Making True 1:1 Marketing Happen, at Scale
 
-Take the Challenge NEW GUIDE
+Download Now INTELLIGENCE
 
 The 5 Keys to Connecting with Real People
 
@@ -165,7 +176,6 @@ Send me emails containing marketing messages from Conversant and our affiliates.
     *   Our Locations
     *   Contact Us
 *   Careers
-
 *   Publishers
     *   Overview
     *   Website
