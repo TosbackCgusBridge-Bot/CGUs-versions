@@ -1,4 +1,4 @@
-DatenschutzerklärungeBay- Datenschutzerklärung
+Datenschutzerklärung
 
 Zusammenfassung und Inhalt
 
