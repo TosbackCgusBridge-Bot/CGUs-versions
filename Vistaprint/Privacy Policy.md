@@ -4,8 +4,8 @@ We also use ETags to store a unique customer code in the cache of your browser t
 Vistaprint Limited  
 c/o Vistaprint USA Incorporated  
 Customer Care  
-95 Hayden Avenue  
-Lexington MA 02421  
+275 Wyamn Street  
+Waltham Ma 02451  
 USA  
 Copy Text to Clipboard  
 Vistaprint Limited  
