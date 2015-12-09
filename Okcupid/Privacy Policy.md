@@ -162,8 +162,7 @@ or
 
 Sign in Welcome Back!
 
-Restore your account to continue  
-meeting new people.
+Restore your account to continue meeting new people.
 
 Restore Account Yes! I would like to re-enable my current A-List subscription! Reset your password
 
@@ -176,10 +175,11 @@ Or, try logging in again.
 Email sent!
 
 An email is on its way to .  
-If you don’t see it, try checking  
-your Spam folder.
+If you don’t see it, try checking your Spam folder.
 
-Okay Enter Authentication Code Submit Remember this computer for 30 days?
+Okay Enter Authentication Code Submit Remember this computer for 30 days? Sign in Not so fast!
+
+You need to complete your basic info on the mobile app before you can use the desktop site.
 
 *   About
 *   Support
