@@ -37,7 +37,7 @@ If you do not want to receive email from us in the future, click on the unsubscr
 
 Home Knowledge Base Legal-Small Print Privacy Policy
 
-*   Printer-friendly version
+*   Print
 
 **Home**   **Omniscope** Download   **Support**   About Visokio Partners What's new? Editions Forums Video tutorials &. reference Careers Contact us Demos &. screenshots Clients Knowledge Base Featured videos
 
