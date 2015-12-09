@@ -1,70 +1,106 @@
-Breaking News Toggle Search International Edition
+Breaking News Home+ RegionsU.S.MoneySportEntertainmentTechTravelStyleFeaturesVideo Live TV Search » International Edition+ U.S. International Arabic Español
 
-*   U.S.
-*   International
-*   Arabic
-*   Español
-*   Set edition preference
-*   Confirm
+Set edition preference:
 
-Search
+U.S. InternationalConfirm International Edition+ U.S. International Arabic Español
 
-*   News
-    *   World
-    *   Sport
-    *   Technology
-    *   Entertainment
-    *   Style
-    *   Travel
-    *   Money
-*   Regions
-    *   U.S.
-    *   China
-    *   Asia
-    *   Middle East
-    *   Africa
-    *   Europe
-    *   Americas
-*   Video
-    *   Must Watch Videos
-    *   Shows
-    *   CNN en Español
-*   TV
-    *   TV Shows
-    *   Schedule
-    *   Faces of CNN Worldwide
+Set edition preference:
+
+U.S. InternationalConfirm Home
+
+Regions
+
+*   Africa
+*   Americas
+*   Asia
+*   China
+*   Europe
+*   Middle East
+
+U.S.
+
+*   Crime + Justice
+*   Energy + Environment
+*   Extreme Weather
+*   Space + Science
+
+*   Business
+*   Markets
+*   Tech
+*   Media
+*   Luxury
+
+Sport
+
+*   Football
+*   Golf
+*   Tennis
+*   Motorsport
+*   Horseracing
+*   Equestrian
+*   Sailing
+
+Entertainment
+
+*   Celebrity Watch
+*   TV + Web
+*   Movies + Music
+
+Tech
+
+*   Gadgets
+*   Cyber Security
+*   Innovation Nation
+*   Vital Signs
+
+Travel
+
+*   Aviation
+*   Business Traveller
+*   Destinations
 *   Features
-    *   Travel
-    *   All Features
-*   Opinions
-    *   iReport
-*   More…
-    
-    *   Photos
-    *   Weather
-    *   CNN Mobile
-    *   Tools &. Extras
-    *   CNN Profiles A-Z
-    *   CNN Leadership
-    *   CNN Arabic
-    *   CNN Español
-    *   CNN Mexico
-    *   CNN Facebook
-    *   CNN Twitter
-    *   CNN Google+
-    *   CNN Heroes
-    *   Impact Your World
-    *   CNN Freedom Project
-    
-    *   Quick Links
-    *   Photos
-    *   Weather
-    *   CNN Mobile
-    *   Tools &. Extras
-    *   CNN Profiles A-Z
-    *   CNN Leadership
+*   Food and Drink
+*   Hotels
+*   CNN Partner Hotels
 
-CNN Privacy Statement
+*   Fashion
+*   Design
+*   Architecture
+*   Arts
+*   Autos
+*   Luxury
+
+Features
+
+*   Insider Guides
+*   Freedom Project
+*   Impact Your World
+*   Inside Africa
+*   Silk Road
+*   2 degrees
+
+Video
+
+*   Video news
+*   Feature shows
+*   TV shows
+*   TV schedule
+*   Faces of CNN Worldwide
+
+More…
+
+*   Weather
+*   CNN Heroes
+*   CNN Profiles A-Z
+*   CNN Leadership
+*   CNN Pressroom
+*   iReport
+
+U.S. International Español Arabic
+
+Set edition preference:
+
+U.S. InternationalConfirm FacebookTwitterInstagram CNN Privacy Statement
 
 (CNN) **What's New in the Updated Privacy Policy? We have updated the privacy policy applicable to our online and mobile websites, applications, and digital services and clarified data collection, usage and sharing practices among Turner, its affiliates and unaffiliated third parties. Please take the time to read the full privacy statement. You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of our Services (as described below), including when you access any content or videos.**
 
@@ -318,48 +354,88 @@ From time to time, we may update this Privacy Policy. We will notify you about m
 
 _The Privacy Policy posted on this Service was updated on July 31, 2015._
 
-1.  News
-    1.  World
-    2.  Sport
-    3.  Technology
-    4.  Entertainment
-    5.  Style
-    6.  Travel
-    7.  Money
+1.  Home
 
 1.  Regions
-    1.  U.S.
-    2.  China
+    1.  Africa
+    2.  Americas
     3.  Asia
-    4.  Middle East
-    5.  Africa
-    6.  Europe
-    7.  Americas
+    4.  China
+    5.  Europe
+    6.  Middle East
 
-1.  Video
-    1.  Must Watch Videos
-    2.  Shows
-    3.  CNN en Español
+1.  U.S.
+    1.  Crime + Justice
+    2.  Energy + Environment
+    3.  Extreme Weather
+    4.  Space + Science
 
-1.  TV
-    1.  TV Shows
-    2.  Schedule
-    3.  Faces of CNN Worldwide
+1.  Money
+    1.  Business
+    2.  Markets
+    3.  Tech
+    4.  Media
+    5.  Luxury
+
+1.  Sport
+    1.  Football
+    2.  Golf
+    3.  Tennis
+    4.  Motorsport
+    5.  Horseracing
+    6.  Equestrian
+    7.  Sailing
+
+1.  Entertainment
+    1.  Celebrity Watch
+    2.  TV + Web
+    3.  Movies + Music
+
+1.  Tech
+    1.  Gadgets
+    2.  Cyber Security
+    3.  Innovation Nation
+    4.  Vital Signs
+
+1.  Travel
+    1.  Aviation
+    2.  Business Traveller
+    3.  Destinations
+    4.  Features
+    5.  Food and Drink
+    6.  Hotels
+    7.  CNN Partner Hotels
+
+1.  Style
+    1.  Fashion
+    2.  Design
+    3.  Architecture
+    4.  Arts
+    5.  Autos
+    6.  Luxury
 
 1.  Features
-    1.  Travel
-    2.  All Features
+    1.  Insider Guides
+    2.  Freedom Project
+    3.  Impact Your World
+    4.  Inside Africa
+    5.  Silk Road
+    6.  2 degrees
 
-1.  Opinions
-    1.  iReport
+1.  Video
+    1.  Video news
+    2.  Feature shows
+    3.  TV shows
+    4.  TV schedule
+    5.  Faces of CNN Worldwide
 
 1.  More…
-    1.  Photos
-    2.  Weather
-    3.  CNN Mobile
-    4.  Tools &. Extras
-    5.  CNN Profiles A-Z
-    6.  CNN Leadership
+    1.  Weather
+    2.  CNN Heroes
+    3.  CNN Profiles A-Z
+    4.  CNN Leadership
+    5.  CNN Pressroom
+    6.  iReport
 
 International Edition
 
