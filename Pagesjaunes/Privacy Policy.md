@@ -49,48 +49,6 @@ X Lire les CGUEn poursuivant votre navigation sur ce site, vous acceptez que nou
     *   dans vos favoris
     *   sur votre bureau
 
-*   Se connecter
-    
-    Le compte PagesJaunes
-    
-    Bénéficiez vite de tous les services du compte ! Ecrivez des avis sur des professionnels, créez votre carnet d'adresses, mettez à jour vos coordonnées, recevez toute l'actualité de votre ville...
-    
-    S'identifier à son compte PagesJaunesS'identifier à son compte PagesJaunes
-    
-    Avec Facebook
-    
-    **Connectez vous à votre compte PagesJaunes en 1 clic.**
-    
-    Plus de mot de passe à retenir.
-    
-    Aucun contenu ne sera publié sans votre permission.
-    
-    Se connecter avec Facebook
-    
-    Avec vos identifiants PagesJaunes
-    
-    S'identifier
-    
-    Se créer un compte PagesJaunesSe créer un compte PagesJaunes
-    
-    Avec Facebook Connect
-    
-    **Créez votre compte PagesJaunes via Facebook en quelques secondes.**
-    
-    Plus facile et rapide.
-    
-    Aucun contenu ne sera publié sans votre permission.
-    
-    Créer un compte avec Facebook
-    
-    Sans Facebook Connect
-    
-    Se créer un compte PagesJaunes
-    
-    **Professionnels**, ��valuez la performance de votre communication, optimisez votre r��f��rencement local et enrichissez vos contenus sur PagesJaunes Business Center.
-    
-    Fermer
-
 Les recherches PagesJaunes
 
 Mentions légales - Conditions d'utilisation Le site http://www.pagesjaunes.fr/ est édité par :
