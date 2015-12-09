@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14194344175
+true true L14291603064
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p30.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Mon Dec 07 11:32:05 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Tue Dec 08 11:32:27 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,19 +48,11 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Friends and Family Extra 30% Off\* $100 or More
+Save on Men, Women, and Kids' Nike Save on Nike For The Family
 
-Online Only | Ends December 7 | Code: DECFRND
+Select styles. Excluded from coupon.
 
-Or, Extra 25% Off\*
-
-In Store and Online | Ends December 7 | Code: DECFRND
-
-Or, $10 Off\* $25 Or More
-
-In Store and Online | Ends December 7 | Code: 4AFRIEND
-
-  \*See exclusions and details: Get Coupon   Shop Friends and Family Now Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Shoes Shop Handbags and Accessories Gifts For Everyone On Your List 9.99 Disney Collection Sleepwear
+Shop Nike For The Family Gifts For Everyone On Your List 9.99 Disney Collection Sleepwear
 
 Select styles. Excluded from coupon.
 
@@ -80,15 +72,13 @@ Shop Skyking Drone With CameraHoliday Gift Shop
 
 Gifts they want. Savings you love.
 
-Shop All Gifts Diamonds On Sale! Holiday Jewelry Sale | Ends December 7
-
-30 to 60% Off Jewelry, select styles
-
-Shop All Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Save On Bedding, Comforters and More 30 to 50% Off Home Collections
+Shop All Gifts Save On Bedding, Comforters and More 30 to 50% Off Home Collections
 
 Select styles
 
-Shop Cold-Weather Bedding Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage
+Shop Cold-Weather Bedding Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage Star Wars Apparel On Sale 40 to 50% Off Star Wars
+
+Select styles
 
 Shop Star Wars SportsFanShop
 
