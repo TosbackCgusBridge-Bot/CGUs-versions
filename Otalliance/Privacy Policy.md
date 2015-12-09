@@ -119,6 +119,10 @@ More >>.
 *   OTA Blog
 *   Newsletters
 
+Wed, Dec 9, 2015 It Sees You When You're Sleeping, It Knows When You're Awake
+
+I love my fitness tracker.  Not only does it affirm me (I met my today’s goal!), it also supports my inner narrative (of course I’m cranky – I slept badly last night… be nice to me).  Last holiday season it was the gift I didn’t even know I wanted until I got it.  This year, we’re both older and wiser. Trust in our relationship has shifted from blind innocence to practical, mature action.  I’ve come to realize more and more about how my device gathers, transmits and stores reams of personal data on me and my habits.
+
 Thu, Nov 12, 2015 Why We Need an IoT Framework
 
 We already suspected our smart TVs were ‘watching’ our viewing behavior and sharing data with advertising and television business partners.  Now, our smart TVs can open our homes to criminals. 
@@ -130,10 +134,6 @@ Today represents a significant milestone, the release of the “last call” of 
 Wed, Oct 21, 2015 Is Your Smart Home Outsmarting You?
 
 My wife and I recently bought a new house that is equipped with a smart technology to control the thermostat, garage door and driveway gate.  All of these handy features can be controlled from an app on my iPhone and it got me thinking about the potential privacy and security risks that might be lurking in those smart devices, apps and appliances in my home.  When we took ownership of the home, the installer for the cable provider to
-
-Thu, Oct 8, 2015 Help Your Small Business Weather the Safe Harbor Storm
-
-Europe's highest court recently struck down the "Safe Harbor" agreement between the United States and the European Union (EU), a decision that could have an enormous impact on American and European businesses who depend on transatlantic data transfers for their livelihood.  The decision by the European Court of Justice (ECJ) means that U.S.
 
 More >>. Resources
 
