@@ -70,7 +70,8 @@ Sections Scores News Video Stats Standings Schedule Players Postseason Tickets A
     *   Sortable Team Stats
     *   Milestone Tracker
     *   Offseason Leagues
-    *   Scoring ChangesSortable Stats
+    *   Scoring Changes
+    *   GlossarySortable Stats
 *   Standings Standings Standings
     *   Regular Season Standings
     *   Wild Card Standings
