@@ -14,22 +14,17 @@ Search Term
 *   Online &. Mobile Security link and menu. Press enter to navigate to this link. Press control + space to open submenu. To move through submenu items press tab and then press up or down arrow. Online Banking Security Mobile Banking Security Email Fraud Trusteer Rapport®Free fraud protection while signed in to Online Banking SafePass®Authorize transactions using secure one-time Passcodes End of submenu
 *   Report a Problem link and menu. Press enter to navigate to this link. Press control + space to open submenu. To move through submenu items press tab and then press up or down arrow. Report a Suspicious Email Report a Lost or Stolen Card Resolve Identity Theft Understand Data Compromise Resources FAQs Glossary External Links End of submenu
 
-Bank of America Privacy &. Security Comprehensive protection. Confident banking.
+Bank of America Privacy and Security Get information about privacy and security at Bank of America. Learn how we can help you protect your accounts and what you can do to help stay secure. bank of america security, bank of america privacy notice, bank of america privacy and security Bank of America Privacy and Security Working together to keep your information protected
 
-We're committed to keeping your personal and financial information protected and secure.
+How we help keep your everyday banking secure:
 
-**Privacy** Learn how we collect and use information **Card security** Learn about  
-preventing fraud **Mobile security** Convenience and security **Email fraud** Learn to recognize it in your inbox Suspicious email? Here's how to recognize and report ›› Protect your PC McAfee Internet Security
+Protect your privacy
 
-As an Online Banking customer, you're entitled to a free year of McAfee® Internet Security ››
+Prevent card fraud
 
-Lost or stolen card? Report a lost or stolen card
+Safeguard info across devices
 
-Be sure to notify us promptly. You won't be liable for fraudulent activity ››
-
-Got questions? Protecting Your Information FAQs
-
-We have answers. Explore our FAQs about privacy and security ››
+Report a lost or stolen card Report a suspicious email What you can do to stay secure: Visit your Security Center Learn how to set alerts, update Passcode and manage security—all in one place Set your privacy choices Manage marketing and information-sharing settings Help ensure you're on the real Bank of America site Know what to look for before you sign in Get a free online security tool Find out how to get Trusteer Rapport fraud protection
 
 *   U.S. Online Privacy Notice
 *   U.S. Consumer Privacy Notice
@@ -305,25 +300,35 @@ Bank of America U.S. legal entities that utilize the names: Bank of America, Ban
 
 Rev. 01/2015
 
-Manage your marketing and information-sharing privacy choices Security Center
-
-*   More tools to help manage your security all in one place
-*   Take a Security Center tour
-
-Best overall —  
-for 9 straight years
-
-**Bank of America held the title of best overall provider of protection against identity fraud** for its ninth consecutive survey year. The award is based on strong performance in the categories of fraud prevention, detection and resolution.
-
 Browser check
 
-Browser in use:
+Browser in use:  
+ 
 
-Congratulations! Your internet browser meets our security requirements Please update your Internet browser to ensure your information is secure
+Congratulations! Your internet browser meets our security requirementsPlease update your Internet browser to ensure your information is secure
 
-Review our browser security requirements.
+Review requirements
 
-  Home Accessible Banking Privacy &. Security Careers Site Map Advertising Practices Advertising Practices
+Hide More Resources
+
+*   Stay protected with our Online Banking Security Guarantee
+*   Watch our video "Keeping Your Financial Info Safe"
+
+Hide Protect your PC
+
+*   Get one free year of McAfee® Internet Security
+
+Hide FAQs
+
+*   Review our FAQs
+
+ 
+
+Best overall
+
+For 9 years in a row, Bank of America has earned the respected and coveted Best Overall Identity Safety in Banking Award byJavelin Strategy &. Research, the nation's leading provider of financial institution insights. The award is based on strong performance in the categories of fraud prevention, detection and resolution.
+
+Home Accessible Banking Privacy &. Security Careers Site Map Advertising Practices Advertising Practices
 
 We strive to provide you with information about products and services you might find interesting and useful. Relationship-based ads and online behavioral advertising help us do that.
 
