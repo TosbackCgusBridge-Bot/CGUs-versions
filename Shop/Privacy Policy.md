@@ -10,11 +10,11 @@ LENOVO Menu
     *   Services &. Warranty
 *   Deals
     *   Current Offers
-        1.  Home Laptop Doorbusters
-        2.  Professional Laptop Doorbusters
-        3.  Desktop Doorbusters
-        4.  Tablets Doorbusters
-        5.  Accessories Doorbusters
+        1.  Home Laptop Deals
+        2.  Professional Laptop Deals
+        3.  Desktop Deals
+        4.  Tablet Deals
+        5.  Accessories Deals
         6.  Stocking Stuffers
         7.  Daily Deal
         8.  Ready to Ship PCs
