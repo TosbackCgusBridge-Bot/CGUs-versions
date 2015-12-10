@@ -1,4 +1,4 @@
-Breaking News Home+ RegionsU.S.MoneySportEntertainmentTechTravelStyleFeaturesVideo Live TV Search » International Edition+ U.S. International Arabic Español
+Breaking News Home+ RegionsU.S.MoneyEntertainmentTechSportTravelStyleFeaturesVideo Watch Live TV Search » International Edition+ U.S. International Arabic Español
 
 Set edition preference:
 
@@ -16,6 +16,7 @@ Regions
 *   China
 *   Europe
 *   Middle East
+*   World
 
 U.S.
 
@@ -30,16 +31,6 @@ U.S.
 *   Media
 *   Luxury
 
-Sport
-
-*   Football
-*   Golf
-*   Tennis
-*   Motorsport
-*   Horseracing
-*   Equestrian
-*   Sailing
-
 Entertainment
 
 *   Celebrity Watch
@@ -52,6 +43,17 @@ Tech
 *   Cyber Security
 *   Innovation Nation
 *   Vital Signs
+
+Sport
+
+*   Football
+*   Golf
+*   Tennis
+*   Motorsport
+*   Horseracing
+*   Equestrian
+*   Sailing
+*   Skiing
 
 Travel
 
@@ -363,6 +365,7 @@ _The Privacy Policy posted on this Service was updated on July 31, 2015._
     4.  China
     5.  Europe
     6.  Middle East
+    7.  World
 
 1.  U.S.
     1.  Crime + Justice
@@ -377,15 +380,6 @@ _The Privacy Policy posted on this Service was updated on July 31, 2015._
     4.  Media
     5.  Luxury
 
-1.  Sport
-    1.  Football
-    2.  Golf
-    3.  Tennis
-    4.  Motorsport
-    5.  Horseracing
-    6.  Equestrian
-    7.  Sailing
-
 1.  Entertainment
     1.  Celebrity Watch
     2.  TV + Web
@@ -396,6 +390,16 @@ _The Privacy Policy posted on this Service was updated on July 31, 2015._
     2.  Cyber Security
     3.  Innovation Nation
     4.  Vital Signs
+
+1.  Sport
+    1.  Football
+    2.  Golf
+    3.  Tennis
+    4.  Motorsport
+    5.  Horseracing
+    6.  Equestrian
+    7.  Sailing
+    8.  Skiing
 
 1.  Travel
     1.  Aviation
