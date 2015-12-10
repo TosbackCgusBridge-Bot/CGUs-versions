@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14291603064
+true true L14295315434
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Tue Dec 08 11:32:27 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Wed Dec 09 11:31:36 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,47 +48,63 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Save on Men, Women, and Kids' Nike Save on Nike For The Family
+One Day Sale! Today Online Only | December 9 | Code: BUYNOW45 30% Off\* $100 Or More
 
-Select styles. Excluded from coupon.
+Select orig, reg, sale and clearance-priced items
 
-Shop Nike For The Family Gifts For Everyone On Your List 9.99 Disney Collection Sleepwear
+\*Exclusions and details: Shop Now
 
-Select styles. Excluded from coupon.
+40% Off Jockey Activewear for Her, select styles
 
-Shop Disney Collection Sleepwear17.99 Sweaters For Her
+Shop Activewear for Her
 
-Select styles
+50% Off Boys' and Girls' Arizona Apparel, reg. $12 to $46
 
-Shop Sweaters For Her19.99 Men's St. John's Bay Sweaters
+Shop Arizona Apparel
 
-Select styles
+29.99 Innovative Tech Bluetooth Radio and Speaker, reg. $45
 
-Shop Men's St. John's Bay Sweaters59.99 Skyking Drone With Camera, reg. $150
+Shop Bluetooth Radio and Speaker
 
-Excluded from coupon.
+40 to 50% Off Sleepwear and Robes for Her, select styles
 
-Shop Skyking Drone With CameraHoliday Gift Shop
+Shop Sleepwear and Robes for Her
+
+29.99 Boots for Her, select styles
+
+Shop Boots for Her
+
+29.99 Jam Replay Speakers, reg. $45
+
+Shop Jam Replay Speakers
+
+50 to 60% Off Boys' and Girls' Sleepwear Sets, select styles, reg. $30 to $36
+
+Shop Sleepwear Sets
+
+40 to 50% Off Men's Dress Shirts, reg. $36 to $60
+
+Shop Men's Dress Shirts
+
+50% Off Quilts and Bedspreads, select styles
+
+Shop Quilts and Bedspreads
+
+17.99 Sweaters for Her, select styles, orig. $36
+
+Shop Sweaters for Her
+
+14.99 Juniors' Sweatshirts, reg. $34
+
+Shop Juniors' Sweatshirts
+
+40 to 60% Off Fine Jewelry, select styles
+
+Shop Fine Jewelry Holiday Gift Shop Where Giving Begins
 
 Gifts they want. Savings you love.
 
-Shop All Gifts Save On Bedding, Comforters and More 30 to 50% Off Home Collections
-
-Select styles
-
-Shop Cold-Weather Bedding Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage Star Wars Apparel On Sale 40 to 50% Off Star Wars
-
-Select styles
-
-Shop Star Wars SportsFanShop
-
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
-
-Shop SportsFanShop People StyleWatch Must Haves
-
-Sponsored Content
-
-Shop People StyleWatch Now JCPenney | portraits
+Shop All Gifts Disney Collection Shop Disney Now JCPenney | portraits
 
 Holiday Memories - 40% Off Photo Purchase
 
@@ -96,7 +112,7 @@ Shop Portraits Now Where Giving Begins
 
 Buy a pair of striped gloves and a portion of the purchase price will go to JCPenney Cares.
 
-Get details
+Get Details Download the JCPenney App and Get Shopping Check Out The App Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
