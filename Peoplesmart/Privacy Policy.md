@@ -76,7 +76,7 @@ This site makes use of tools such as cookies to collect various types of informa
 
 How We Use The Information We Collect
 
-Your information is only used to provide and market this service for visitors and registered users, which includes operating the website, remembering your preferences, conducting in-house research, preventing fraud or abuse, marketing you products or services offered by us, and to communicate with you and address your concerns.
+Your information is only used to provide and market this service for visitors and registered users, which includes operating the website, remembering your preferences, conducting in-house research, preventing fraud or abuse, marketing to you products or services offered by us, and to communicate with you and address your concerns.
 
 We Only Share Your Information in the Following Situations
 
@@ -154,9 +154,9 @@ Inflection.com, Inc. has received TRUSTe's Privacy Seal signifying that this pri
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
 
-Effective Date: December 2, 2015
+Effective Date Of This Policy: December 2, 2015
 
-About Manage Your Listing Affiliate Program Help Center Privacy Education How We Think About Privacy Terms of Use Privacy Policy Opt-Out Policy Payment Policy FCRA Regulations Contact Us Sitemap Explore Home Join Sign In Manage Listing Directories Find People Court Records Criminal Records County Records Company About Blog Privacy Education Affiliates Support Help Sitemap Get Privacy News and Alerts Submit Thank You. You have been subscribed.
+About Manage Your Listing Affiliate Program Help Center Privacy Education How We Think About Privacy Important Notices for Use Terms of Use Privacy Policy Opt-Out Policy Payment Policy FCRA Regulations Contact Us Sitemap Explore Home Join Sign In Manage Listing Directories Find People Court Records Criminal Records County Records Company About Blog Privacy Education Affiliates Support Help Sitemap Opt out Get Privacy News and Alerts Submit Thank You. You have been subscribed.
 
 PeopleSmart is designed to help you find and connect with others. Search by name, email, phone number, and address. PeopleSmart is not a consumer reporting agency as defined by the Fair Credit Reporting Act (FCRA). To learn more, please see our Terms of Use and Privacy Policy. Information offered by PeopleSmart is not to be used for assessing or evaluating a person's eligibility for employment, housing, insurance, credit, or for any other purpose covered under the FCRA. Visit GoodHire.com for all your employment screening needs.
 
