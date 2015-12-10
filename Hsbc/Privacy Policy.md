@@ -158,7 +158,20 @@ Terms and conditions Share click to expand
 *   RSS 2.0
 *   E-mail
 
-Print
+Print Share
+
+*   Print
+*   E-mail this link
+
+*   Subscribe to RSS
+
+*   Share on Facebook
+
+*   Share on LinkedIn
+
+*   Tweet this
+
+*   Share
 
 **hsbc.com** provides a portal, or gateway, to the financial services offered by members of the **HSBC Group**. The Site is owned by **HSBC Holdings plc**.
 
