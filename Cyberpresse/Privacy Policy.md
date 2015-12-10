@@ -1,8 +1,8 @@
 POLITIQUE DE CUEILLETTE ET DE PROTECTION DE RENSEIGNEMENTS PERSONNELS ÉNONCÉ GÉNÉRAL
 
-La protection de votre vie privée est importante pour La Presse, ltée (« La Presse »). Nous méritons votre confiance et souhaitons faire en sorte qu'elle résulte d'une excellente connaissance et compréhension de ce à quoi vous vous engagez lorsque vous interagissez avec un employé de La Presse ou l'un de ses représentants ou sous-contractants, que vous visitez notre site Web (www.lapresse.ca), que vous utilisez l'une ou l'autre de nos applications mobiles ou que vous effectuez une transaction avec nous en personne, par téléphone ou par l'entremise de notre site Web ou de l'une de nos applications mobiles.
+La protection de votre vie privée est importante pour La Presse, ltée (« La Presse »). Nous méritons votre confiance et souhaitons faire en sorte qu'elle résulte d'une excellente connaissance et compréhension de ce à quoi vous vous engagez lorsque vous interagissez avec un employé de La Presse ou l'un de ses représentants ou sous-contractants, que vous visitez notre site Web (www.lapresse.ca), que vous utilisez l'une ou l'autre de nos applications mobiles (La Presse Mobile ou La Presse+) ou que vous effectuez une transaction avec nous en personne, par téléphone ou par l'entremise de notre site Web ou de l'une de nos applications mobiles.
 
-Nous savons que votre vie privée vous tient à cœur. Vos renseignements personnels, c'est à dire toute information vous concernant comme personne physique et qui permet de vous identifier (exemple : nom, adresse de résidence, adresse de courriel personnelle, numéro de téléphone au domicile ou cellulaire personnel, date de naissance) (les « **renseignements personnels** »), sont précieux. La cueillette de ces renseignements nous permet de vous offrir des produits et des services qui vous intéressent, de répondre promptement et adéquatement à vos besoins et, en partenariat avec vous, d'améliorer sans cesse notre contribution à votre qualité de vie.
+Nous savons que votre vie privée vous tient à cœur. Vos renseignements personnels, c'est à dire toute information vous concernant comme personne physique et qui permet de vous identifier (exemple : nom, adresse de résidence, adresse de courriel personnelle, numéro de téléphone au domicile ou cellulaire personnel, date de naissance) (les « renseignements personnels »), sont précieux. La cueillette de ces renseignements nous permet de vous offrir des produits et des services qui vous intéressent, de répondre promptement et adéquatement à vos besoins et, en partenariat avec vous, d'améliorer sans cesse notre contribution à votre qualité de vie.
 
 Il est donc essentiel de partager avec vous notre politique en matière de vie privée relative à la cueillette, à l'usage et à la communication des renseignements personnels que vous nous communiquez. En connaissant et en contrôlant les cueillettes, les usages et les communications de renseignements personnels que vous nous confiez, vous serez en mesure de faire des choix éclairés.
 
@@ -10,11 +10,11 @@ Bien qu'il ne soit pas notre intention de modifier fréquemment ou substantielle
 
 NOTRE POLITIQUE DE CONFIDENTIALITÉ DES RENSEIGNEMENTS PERSONNELS
 
-La Presse a pour politique de gérer la collecte, l'utilisation et la communication des renseignements personnels conformément aux exigences des lois applicables en la matière, y compris aux normes énoncées dans la _Loi sur la protection des renseignements personnels et les documents électroniques_. Dans certaines circonstances, des renseignements personnels peuvent être recueillis, utilisés ou communiqués à l'insu de la personne concernée ou sans son consentement. Ces exceptions incluent, de façon non exhaustive, les renseignements personnels recueillis pour des fins légales, de sécurité ou encore pour la détection et la prévention de fraudes.
+La Presse a pour politique de gérer la collecte, l'utilisation et la communication des renseignements personnels conformément aux exigences des lois applicables en la matière, y compris aux normes énoncées dans la _Loi sur la protection des renseignements personnels et les documents électroniques_. Dans certaines circonstances, des renseignements personnels peuvent être recueillis, utilisés ou communiqués à l'insu de la personne concernée ou sans son consentement. Ces exceptions incluent, de façon non exhaustive, les renseignements personnels recueillis pour des fins légales, de sécurité ou encore pour la détection et la prévention de fraudes
 
 A. PRINCIPES GÉNÉRAUX
 
-Dans sa cueillette et gestion de renseignements personnels, La Presse s'engage à respecter votre vie privée et à mettre en application les 10 principes de protection suivants conformément au code type sur la protection des renseignements personnels de l'Association canadienne de normalisation, sauf lorsque la loi l'en exempte:
+Dans sa cueillette et gestion de renseignements personnels, La Presse s'engage à respecter votre vie privée et à mettre en application les 10 principes de protection suivants conformément au code type sur la protection des renseignements personnels de l'Association canadienne de normalisation, sauf lorsque la loi l'en exempte :
 
 1.  Désigner et faire connaître les personnes responsables chez La Presse du suivi de la présente politique
 2.  Recevoir et traiter toute plainte relative à la mise en œuvre de la présente politique et des pratiques qui en découlent
@@ -36,19 +36,17 @@ Tous les employés de La Presse sont responsables de la politique et des pratiqu
 Toute demande ou plainte relative à la mise en œuvre de la présente politique peut être adressée à La Presse aux coordonnées suivantes :
 
 Adresse postale :  
-
-La Presse  
+_La Presse  
 Service à la clientèle  
 7, rue Saint-Jacques  
-Montréal (Québec) H2Y 1K9
-
-Courriel : commentaires@lapresse.ca  
+Montréal (Québec) H2Y 1K9_  
+commentaires@lapresse.ca  
 Téléphone : 1 866 806-1804  
 Télécopieur : 514 285-7123  
 
 3\. Déterminer pourquoi des renseignements personnels sont recueillis
 
-La Presse détermine, avant ou au moment de la cueillette de renseignements personnels les fins auxquelles ces renseignements sont destinés (et vous en avise à ce moment) et comprennent, entre autres, les fins suivantes :
+La Presse détermine, avant ou au moment de la cueillette de renseignements personnels les fins auxquelles ces renseignements sont destinés (et vous en avise à ce moment) et comprennent, entre autres, les fins suivantes :
 
 *   Établir et maintenir des relations commerciales de confiance avec ses clients et fournir un service de qualité;
 *   Connaître les besoins et les préférences de ses clients;
@@ -86,7 +84,7 @@ La Presse vous permet, sous réserve des conditions et des exceptions prévues �
 
 B. INSTANCES DE CUEILLETTE DE RENSEIGNEMENTS PERSONNELS
 
-En règle générale, les appels téléphoniques, les envois de courriel, le site Web et les applications mobiles de La Presse ne servent pas d'outil de collecte de renseignements personnels. Toutefois, dans certaines circonstances, La Presse peut vous demander de vous inscrire et de lui fournir votre nom et certains renseignements personnels comme lorsque vous vous inscrivez à un concours, souscrivez à un abonnement, placez des commentaires sur notre site Web ou par l'entremise d'une application mobile, si vous créez un compte « Ma Presse » ou si vous vous abonnez à l'une de nos infolettres. Vous pouvez toujours refuser de ce faire. Dans un tel cas, vous aurez néanmoins accès à la majeure partie du site Web et/ou des fonctionnalités des applications mobiles mais vous ne pourrez accéder aux sections ou aux fonctionnalités exigeant votre inscription.
+En règle générale, les appels téléphoniques, les envois de courriel, le site Web et les applications mobiles de La Presse ne servent pas d'outil de collecte de renseignements personnels. Toutefois, dans certaines circonstances, La Presse peut vous demander de vous inscrire et de lui fournir votre nom et certains renseignements personnels comme lorsque vous vous inscrivez à un concours, souscrivez à un abonnement, placez des commentaires sur notre site Web ou par l'entremise d'une application mobile, si vous créez un compte « Ma Presse » ou si vous vous abonnez à l'une de nos infolettres. Vous pouvez toujours refuser de ce faire. Dans un tel cas, vous aurez néanmoins accès à la majeure partie du site Web et/ou des fonctionnalités des applications mobiles mais vous ne pourrez accéder aux sections ou aux fonctionnalités exigeant votre inscription.
 
 Si vous acceptez de vous inscrire, les renseignements que vous fournirez serviront essentiellement aux fins suivantes, autres que les fins expressément désignées lors de votre inscription :
 
@@ -116,6 +114,28 @@ Soyez assurés qu'aucun renseignement personnel n'est conservé dans les témoin
 Vous pouvez refuser ou désactiver les témoins. Pour ce faire, consultez les options de configuration de votre navigateur. Dans ce cas, certaines fonctions de notre site Web ne seront plus disponibles.
 
 Nos applications mobiles peuvent se servir de dispositifs, tels que des logiciels, d'analyse d'audience afin d'obtenir des informations sur les données d'utilisation et les modèles de trafic de nos applications et ainsi améliorer leur contenu et la qualité de notre service.
+
+E. PUBLICITÉ COMPORTEMENTALE EN LIGNE
+
+La Presse peut utiliser des informations recueillies lors de votre consultation de La Presse+, telles que votre adresse IP, l'identifiant unique de votre tablette numérique ou le fait que vous y avez consulté un contenu spécifique (excluant votre nom, adresse, adresse courriel ou numéro de téléphone), pour établir votre profil d'utilisateur et sélectionner des publicités qui correspondent mieux à vos intérêts afin qu'elles puissent vous être offertes sur les différentes plateformes de La Presse et sur des sites Web de tiers, partenaires de La Presse. Cette pratique est connue sous le nom de « publicité comportementale en ligne ».
+
+Pour désactiver la publicité comportementale en ligne :
+
+**Version iPad**
+
+*   Rendez-vous dans les Réglages de votre appareil;
+*   Sélectionnez « Confidentialité », puis « Publicité »;
+*   Faites glisser vers la droite le commutateur relié à « Suivi publicitaire limité ». Le commutateur deviendra vert.
+
+**Version Android**
+
+*   Rendez-vous dans les Paramètres de votre appareil;
+*   Sous Compte, sélectionnez « Google »;
+*   Sélectionnez « Annonces »;
+*   Activez l'option : « Désactiver les annonces par centres d'intérêt »;
+*   Cochez « OK ».
+
+La procédure pourrait varier selon la tablette. Pour plus de renseignements, consultez le site web du fournisseur.
 
 LA PROTECTION DES RENSEIGNEMENTS PERSONNELS PAR AD TECH
 
