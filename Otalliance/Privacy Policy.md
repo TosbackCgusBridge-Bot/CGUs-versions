@@ -108,11 +108,9 @@ Tue, Jan 19, 2016 The Reckoning
 
 Join OTA Executive Director Craig Spiezle at this key event addressing the integrity of online advertising and consumer trends in "ad avoidance". It’s payback time! Advertising broke the Internet, and just about all of the stakeholders finally are getting pissed. Many marketers are losing faith in the system. Where their ads are going, they still wonder. Are they being seen? And who is making what from that CPM they are paying anyway? But they aren’t alone. Consumers are fed up with ad and data collection abuse. Site experiences degenerate, data gets harvested.
 
-Tue, Feb 9, 2016 FTC To Host Data Security Conference - Seattle
+Thu, Jan 28, 2016
 
-The Federal Trade Commission will host a one-day conference in Seattle on Feb. 9, 2016, on how companies can build security into their products and services. The event will have a particular focus on guidance for startups and early stage businesses about how to make security considerations a part of a company’s culture from the start.
-
-FTC Commissioner Julie Brill will provide opening remarks for the conference, which will be the third “Start with Security” event nationwide. The conference will bring together experts in data security to provide guidance to businesses.
+Stay tuned for an informative program with the FBI, OTA and industry leaders.  Registration Coming Soon.
 
 More >>.
 
