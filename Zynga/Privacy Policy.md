@@ -39,13 +39,13 @@ Navigation
 Search form Search Privacy
 
 *   Privacy Policy
-*   PrivacyVille
 *   Cookies
-*   Frequently Asked Questions
-*   Privacy Resources
+*   FAQs
+*   Resources
     *   Resources for Parents
     *   Privacy Resources for Teens
     *   Additional Resources
+*   PrivacyVille
 
 Privacy Policy English简体中文FrançaisDeutschItaliano日本語한국어PortuguêsEspañolTürkçe
 
