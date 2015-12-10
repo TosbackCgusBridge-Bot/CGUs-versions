@@ -187,8 +187,6 @@ Let's Connect!
 
 877 361 3316
 
-Additional Contact Information
-
 *   Privacy Policy
 *   Terms of Use
 *   About our Ads
