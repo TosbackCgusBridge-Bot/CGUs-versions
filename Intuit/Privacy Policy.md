@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14295315434
+true true C14203807486
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Wed Dec 09 11:31:36 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p30.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Thu Dec 10 11:30:55 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,71 +48,43 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-One Day Sale! Today Online Only | December 9 | Code: BUYNOW45 30% Off\* $100 Or More
+$10 Off\* $25 or More In Store and Online | Ends December 12 | Use Code: FMLYFUN Or, Extra 25% Off\* $100 or More Online Only | Ends December 12 | Use Code: GOODTIME Or, Extra 20% Off\* Under $100 Online Only | Ends December 12 | Use Code: GOODTIME \*Exclusions and details Print Coupon Super Saturday Sale Starts Now! | In Store and Online Shop Super Saturday Sale Now View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop ShoesNight and Day Doorbusters
 
-Select orig, reg, sale and clearance-priced items
+Friday 3PM CST through Saturday 1PM CST.
 
-\*Exclusions and details: Shop Now
+Shop Doorbusters Save on Sweaters for Men, Women, Boys and Girls Up to 60% Off Sweaters For the Family
 
-40% Off Jockey Activewear for Her, select styles
+Select styles.
 
-Shop Activewear for Her
+Shop Women's Sweaters Shop Men's Sweaters Shop Boys Sweaters Shop Girls Sweaters         Big Savings on Skillets, Griddles, Slow Cookers and More Holiday Home Sale | 30 to 50% Off Home Collections
 
-50% Off Boys' and Girls' Arizona Apparel, reg. $12 to $46
+Select styles
 
-Shop Arizona Apparel
+Shop Holiday Home SaleBig Buys! 14.99, after $10 mail-in rebate, sale 24.99
 
-29.99 Innovative Tech Bluetooth Radio and Speaker, reg. $45
+Select styles. Excluded from coupon.
 
-Shop Bluetooth Radio and Speaker
+Shop Small Appliances Women's Boots On Sale! 29.99 Boots for Her
 
-40 to 50% Off Sleepwear and Robes for Her, select styles
+Select styles.
 
-Shop Sleepwear and Robes for Her
+Shop Boots for Her Star Wars Apparel On Sale 40 to 50% Off Star Wars
 
-29.99 Boots for Her, select styles
+Select styles.
 
-Shop Boots for Her
+Shop Star Wars Now Disney Collection Shop Disney Now E-Gift Cards
 
-29.99 Jam Replay Speakers, reg. $45
+Customize with a message, photo or video
 
-Shop Jam Replay Speakers
-
-50 to 60% Off Boys' and Girls' Sleepwear Sets, select styles, reg. $30 to $36
-
-Shop Sleepwear Sets
-
-40 to 50% Off Men's Dress Shirts, reg. $36 to $60
-
-Shop Men's Dress Shirts
-
-50% Off Quilts and Bedspreads, select styles
-
-Shop Quilts and Bedspreads
-
-17.99 Sweaters for Her, select styles, orig. $36
-
-Shop Sweaters for Her
-
-14.99 Juniors' Sweatshirts, reg. $34
-
-Shop Juniors' Sweatshirts
-
-40 to 60% Off Fine Jewelry, select styles
-
-Shop Fine Jewelry Holiday Gift Shop Where Giving Begins
-
-Gifts they want. Savings you love.
-
-Shop All Gifts Disney Collection Shop Disney Now JCPenney | portraits
+Shop E-Gift Cards Now JCPenney | portraits
 
 Holiday Memories - 40% Off Photo Purchase
 
-Shop Portraits Now Where Giving Begins
+Shop Portraits Now Holiday Gift Shop
 
-Buy a pair of striped gloves and a portion of the purchase price will go to JCPenney Cares.
+Where giving begins. Gifts they want. Savings you love.
 
-Get Details Download the JCPenney App and Get Shopping Check Out The App Download on the App Store Get it on Google Play
+Shop All Gifts
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
