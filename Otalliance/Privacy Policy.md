@@ -96,21 +96,23 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Dec 8, 2015 EU Data Protection 2015
-
-The European Commission’s proposal for a General Data Protection Regulation represents the most significant global development in data protection law in the last twenty years. EU Data Protection 2015 is the premier event on the US West Coast to address the proposed changes in the Regulation and the business impact.
-
 Thu, Dec 17, 2015 Email Unsubscribe Audit - Who Has Been Naughty &. Who Has Been Nice?
 
 Join OTA for a review of the unsubscribe audit and recommended best practices moving beyond compliance. Key learnings provide marketers actionable and prescriptive advice to making their email marketing initiative more trustworthy. Details at https://otalliance.org/unsub
 
 Tue, Jan 19, 2016 The Reckoning
 
-Join OTA Executive Director Craig Spiezle at this key event addressing the integrity of online advertising and consumer trends in "ad avoidance". It’s payback time! Advertising broke the Internet, and just about all of the stakeholders finally are getting pissed. Many marketers are losing faith in the system. Where their ads are going, they still wonder. Are they being seen? And who is making what from that CPM they are paying anyway? But they aren’t alone. Consumers are fed up with ad and data collection abuse. Site experiences degenerate, data gets harvested.
+Join OTA Executive Director Craig Spiezle at this key event addressing the integrity of online advertising and consumer trends in "ad avoidance". Save $100 off of the early bird price and $200 off the regular price using the code **OTA16R.** Advertising broke the Internet, and just about all of the stakeholders finally are getting pissed. Many marketers are losing faith and consumers are fed up with ad and data collection abuse.Why not toggle that ad blocking switch and get the experience we really want?
 
 Thu, Jan 28, 2016
 
 Stay tuned for an informative program with the FBI, OTA and industry leaders.  Registration Coming Soon.
+
+Tue, Feb 9, 2016 FTC To Host Data Security Conference - Seattle
+
+The Federal Trade Commission will host a one-day conference in Seattle on Feb. 9, 2016, on how companies can build security into their products and services. The event will have a particular focus on guidance for startups and early stage businesses about how to make security considerations a part of a company’s culture from the start.
+
+FTC Commissioner Julie Brill will provide opening remarks for the conference, which will be the third “Start with Security” event nationwide. The conference will bring together experts in data security to provide guidance to businesses.
 
 More >>.
 
