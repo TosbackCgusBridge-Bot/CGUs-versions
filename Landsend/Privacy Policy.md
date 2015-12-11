@@ -115,7 +115,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
                 *   Toddler Boy (2T-4T)
                 *   Little Boy (size 4-7)
                 *   Big Boy (size 7-20)
-    *   *   Girls
+    *   *   **Girls**
             *   Back to Kids Girls
             *   Outerwear
             *   Tops
@@ -132,7 +132,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Accessories
             *   Long Underwear
             *   Backpacks &. Lunch Boxes
-    *   *   Boys
+    *   *   **Boys**
             *   Back to Kids Boys
             *   Outerwear
             *   Tops
@@ -181,34 +181,31 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   No Iron Bedding
             *   Holiday Shop
             *   Sale
-    *   *   Bedding
+        
+        *   **More For the Home**
+            *   Back to All Home More For the Home
+            *   Kids Home
+            *   Dog Shop
+            *   Luggage &. Bags
+            *   Canvas Totes
+    *   *   **Bedding**
             *   Back to All Home Bedding
-            *   View All
             *   Sheets &. Pillowcases
             *   Duvet Covers &. Comforters
             *   Blankets &. Throws
             *   Mattress Pads
             *   Pillows
-        *   Bath
+        *   **Bath**
             *   Back to All Home Bath
-            *   View All
             *   Towels
             *   Rugs &. Mats
             *   Beach Towels
-        *   Décor
+        *   **Décor**
             *   Back to All Home Décor
-            *   View All
             *   Seasonal
             *   Tabletop
             *   Storage &. Organization
             *   Doormats
-        *   More for the Home
-            *   Back to All Home More for the Home
-            *   View All
-            *   Kids Home
-            *   Dog Shop
-            *   Luggage &. Bags
-            *   Canvas Totes
         
 *   Uniforms
     *   *   Back to Main Menu Uniforms
@@ -231,7 +228,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Young Men
             *   Big Kid
             *   Adult
-    *   *   Girls &. Women
+    *   *   **Girls &. Women**
             *   Back to Uniforms Girls &. Women
             *   Outerwear
             *   Tops
@@ -244,7 +241,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Shoes
             *   Accessories
             *   Backpacks &. Bags
-    *   *   Boys &. Men
+    *   *   **Boys &. Men**
             *   Back to Uniforms Boys &. Men
             *   Outerwear
             *   Tops
@@ -257,7 +254,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Backpacks &. Bags
 *   Sale
     *   Back to Main Menu
-    *   *   Sale
+    *   *   **Sale**
             *   Back to Sale Sale
             *   Women
             *   Men
@@ -265,7 +262,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Boys
             *   Home
             *   School Uniforms
-    *   *   Clearance
+    *   *   **Clearance**
             *   Back to Clearance Clearance
             *   Women
             *   Men
@@ -287,6 +284,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Holiday Shop
         *   Stockings &. Stuffers
         *   Personalized Gifts
+        *   Canvas Totes
         *   Gift Cards
 
 *   My Account
