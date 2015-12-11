@@ -1,6 +1,6 @@
 Delicious Privacy Policy Last Updated: January 10, 2013 - What’s new Welcome to Delicious!
 
-Delicious Media Inc. provides Delicious – the service that enables users to collect and discover web content through our website located at www.delicious.com and by using related applications and the Delicious bookmarklet extension for your internet browser. For simplicity, we’ll refer to any or all of this as the “Service”.
+Delicious Science, LLC. provides Delicious – the service that enables users to collect and discover web content through our website located at www.delicious.com and by using related applications and the Delicious bookmarklet extension for your internet browser. For simplicity, we’ll refer to any or all of this as the “Service”.
 
 We provide this Privacy Policy so you know what we do regarding the collection, use and disclosure of personal information we receive from users of the Service. This Privacy Policy applies only to information that you provide to us through the Service. Your use of the Service is your consent to the collection, disclosure, transfer, processing, storage and other uses of your information as described in this Privacy Policy.
 
