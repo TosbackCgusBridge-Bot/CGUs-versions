@@ -80,9 +80,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-Acclaimed story title Gone Home hits PS4 in January, full post from @fullbright: blog.us.playstation.com
+It’s been almost a week since PS Experience 2015! Watch a small thank-you from our team: http://youtube.com
 
-2015-12-08 12:04:24+00:00
+2015-12-12 07:19:34+00:00
 
 View Tweet
 
@@ -144,9 +144,9 @@ See Hi-Res Audio Headphones
 
 Sony on Twitter
 
-Get the first listen to @CamCountry’s debut album #UNTAMED before it drops on 12/11 on @EW
+Check out @LunchMoneyLewis' newest video "Ain't Too Cool" featuring @baddiewinkle http://youtube.com
 
-2015-12-08 19:26:06+00:00
+2015-12-12 06:24:04+00:00
 
 View Tweet
 
@@ -248,9 +248,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-12/11 #SonyProUSA free 2hr F55/F5 Masterclass w/ @Stormguy in Austin, TX at @OmegaBroadcast www.streamlinegraphics.com
+#SonyProUSA is at @SportsVideo's #SVGSummit in NYC, 12/14-15 in booth 40 w/ sports solutions http://thesvgsummit.com
 
-2015-12-08 06:35:04+00:00
+2015-12-12 12:05:06+00:00
 
 View Tweet
 
@@ -314,9 +314,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-@TheArtofMore: @Cary\_Elwes took over the @Crackle Twitter account and answered your questions! #ICYMI #askcaryTAOM
+Meet @ChrisYoungMusic in the "music city" and more. Get your bids in. http://sonyrewards.com
 
-2015-12-08 05:35:16+00:00
+2015-12-10 16:57:00+00:00
 
 View Tweet
 
