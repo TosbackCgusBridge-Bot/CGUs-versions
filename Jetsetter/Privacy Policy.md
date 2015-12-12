@@ -157,8 +157,8 @@ This Privacy Notice may be updated periodically and without prior notice to you 
 If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at privacy@jetsetter.com.  You also may write to us at:  
 Smarter Travel Media LLC  
 Attn: Jetsetter.com  
-500 Rutherford Avenue  
-Charlestown, MA 02129  
+226 Causeway St  
+Boston, MA 02114  
 617-886-5555  
 617-886-5501 (fax)  
 privacy@jetsetter.com
