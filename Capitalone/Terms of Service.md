@@ -38,11 +38,12 @@ Menu
         *   Home Equity Rates &. Loans
         
         Auto Financing
-        *   Auto Financing Home
+        *   Auto Finance Overview
         *   New &. Used Auto Financing
         *   Auto Loan Refinancing
-        *   Auto Loan Calculators
         *   Auto Rates
+        *   Auto Loan Calculators
+        *   Auto Learning Center
     *   Invest Expand Invest Menu Team with an Advisor
         
         *   Invest Home
