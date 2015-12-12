@@ -203,14 +203,12 @@ Página principal
 
 *   Personal
 *   Privacy, Security, and Legal
-*   Privacy Policies
+*   Privacy Policies and Notices
 *   Wells Fargo Digital Privacy and Cookies Policy
 
 Wells Fargo Digital Privacy and Cookies Policy
 
 *   Print
-
-En español. Ver esta información en español
 
 _Date of most recent update: July 7, 2015_
 
