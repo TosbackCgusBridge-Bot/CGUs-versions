@@ -1,4 +1,4 @@
-Symptom Checker Physician Directory Sign In Sign UpSubscribe
+Skip to content Symptom Checker Physician Directory Sign In Sign UpSubscribe
 
 *   My ProfileWelcome
 *   *   My Tools
