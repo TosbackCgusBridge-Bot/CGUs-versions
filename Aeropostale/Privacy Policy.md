@@ -107,7 +107,7 @@
     *   Bedding
     *   Decorative Pillows
     *   Wall Decals &. Decor
-    *   Throws &. Rugs
+    *   Throws, Curtains &. Rugs
     *   Lighting
     *   Accessories &. Organization
     *   Art Gallery
