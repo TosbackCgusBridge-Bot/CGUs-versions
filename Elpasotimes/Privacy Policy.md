@@ -85,46 +85,42 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ News Alleged gun buyer in San Bernardino rampage was 'goody two shoes'
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Elections Iowa Poll: Cruz soars past Trump into lead among GOP
 
 TOP STORIES
 
-*   Nation 'It's a problem for the nation': Former Okla. cop preyed on poor women
-*   Washington White House says Obama won't declare Muslim holiday
-*   NBA Warriors edge Celtics in 2OT to stretch record win streak to 24
-*   Mom's 'spoiled' kids' gifts pic sparks outrage
-*   Lady Gaga expands on rape at 19
-*   Priest named in sex-slave prostitute suit
-*   Elon Musk joins $1B artificial intelligence bet
-*   Column: The myth of the 'good guy with a gun'
-*   13 companies can't afford their big dividends
-*   2016 stock picks from top investment analysts
-*   Ending ISIS: an ex-CIA chief's plan
-*   Carson: I'll quit GOP over a brokered convention
+*   Cars What the global climate accord means for you
+*   Heisman Alabama's Derrick Henry wins Heisman Trophy
+*   Warriors Warriors streak ends, Bucks win 108-95
+*   Paris Agreement: 5 key takeaways
+*   Nurse helps save restaurant patron, disappears
+*   Donald Trump hits Ted Cruz, Saudi prince
+*   5 famous 'Star Wars' references, explained
+*   Excuse me, while I kiss the ski: Vonn wins
+*   Paris climate accord is a 'turning point for the world'
+*   'Make Room for Daddy' star Marjorie Lord dies
+*   FSU QB throws football over stadium wall
+*   Woman will stop at nothing for this sweatshirt
 
-Washington
+Ufc
 
-Obama gives federal workers the gift of time off
+LIVE: UFC 194 play-by-play and results
 
-MLB
+Fantasy Sports
 
-Jason Heyward a good get for Cubs, but NL Central far from a done deal
+Answers to your Week 14 fantasy football questions -- Sunday, noon ET
 
-Entertain This
+News
 
-The definitive ranking of the 'Star Wars' movies
+Texas gun-rights activists, students face off in Austin
 
-Music
+Ufc
 
-These are the five phrases Taylor Swift just applied to trademark
+Ronda Rousey keeps her word at Marine Corps Ball
 
 VANISHING GROUNDWATER: SPECIAL REPORT Nation Now
 
-Special report: Pumped beyond limits, U.S. aquifers in decline
-
-Nation Now
-
-Groundwater severely overpumped by farms in Morocco
+In California, 'the vineyards are killing us'
 
 News
 
@@ -132,177 +128,197 @@ News
 
 Nation Now
 
-Full coverage: World groundwater crisis
+Time is running out in Kansas
 
-10 money-making tips for 2016
+Nation Now
 
-Here are 10 things you can plan for in 2016 to help you and your investment portfolio enjoy a more prosperous year.
+Solutions: Should we have to pay for water?
 
-1 of 19 See more video
+Dad Rock holiday survival guide: cocktails
 
-Cops wrangle 40 cows on side of highway
+Jim Lenahan and Patrick Foster from USA TODAY's Dad Rock podcast visit the Hard Rock Cafe in search of the best holiday drinks.
 
-Police in Jackson, Mississippi worked to wrangle about 40 cows that escaped after a tractor trailer overturned on the highway, WJTV reports. (Dec. 11)
-
-2 of 19 See more video
+1 of 21 See more video
 
 Viral dog moments even cat lovers will like
 
 Cats might rule the internet, but there is a reason why dogs are known as 'man's best friend'. Keri Lumm (@thekerilumm) shares dogs best viral moments of 2015.
 
-3 of 19 See more video
+2 of 21 See more video
 
 Travel luggage-free with this unique app
 
 An app voted by 10Best.com readers as the best new travel app allows you to travel luggage-free by simplifying and speeding up the airport process for frequent travelers.
 
-4 of 19 See more video
+3 of 21 See more video
 
-5 tips to travel stress free this holiday season
+Just Cool Cars: 1949 bus is art deco marvel
 
-Do traffic, busy airports and crazy relatives have you worried about enjoying your holiday season? Your annual holiday trip can be your best one yet...here's how!
+USA TODAY's Chris Woodyard takes us on a tour of this beautiful 1949 Flxible Clipper bus.
 
-5 of 19 See more video
+4 of 21 See more video
 
-This turtleneck with a deep V is only for brave souls
+Dad Rock Holiday Survival Guide: Holiday songs
 
-You want the deep V-cut but your neck gets cold. A new shirt called the Turtle V solves that problem, but would you wear it?
+The cohosts of USA TODAY's Dad Rock podcast recommend their favorite holiday songs.
 
-6 of 19 See more video
-
-Suspect flees crime scene on hoverboard
-
-Police in London say a man swiped a box of soda at a supermarket then left the scene on his hoverboard. They are now asking the public for help identifying the suspect.
-
-7 of 19 See more video
+5 of 21 See more video
 
 Customers beat clerk over cigar
 
 Police in Florida are searching for four men after they were caught on camera beating a gas station clerk. The clerk was attacked after he reportedly denied selling one of them a cigar, because they couldn't produce identification.
 
-8 of 19 See more video
+6 of 21 See more video
 
 Mailman punches dog, saves girl from attack
 
 A mailman is being hailed as a hero after he came to the rescue of a 7-year-old girl being attacked by a dog. Witnesses say had it not been for the man, the little girl may have died.
 
-9 of 19 See more video
+7 of 21 See more video
 
 Vacant house sends big message to Donald Trump
 
 A vacant house along a busy road is decorated with big, red anti-Trump signs as a form of protest for the presidential candidate.
 
-10 of 19 See more video
+8 of 21 See more video
+
+350 infants possibly exposed to tuberculosis
+
+Officials at a Bay Area hospital are offering antibiotic treatments to hundreds of infants and mothers after a nurse was diagnosed with tuberculosis. Video provided by Newsy
+
+9 of 21 See more video
+
+Nintendo files a patent for weirdest controller yet
+
+Nintendo's patent for a mostly touchscreen controller might mean it's about to repeat the mistakes from the Wii U on its next generation console. Video provided by Newsy
+
+10 of 21 See more video
+
+5 things to know about Frank Sinatra
+
+For what would have been Frank Sinatra's 100th birthday, USA TODAY takes a look at 5 things to know about the music icon's life.
+
+11 of 21 See more video
+
+Save big this Green Monday with these 5 deals
+
+Looking for a way to save big this Green Monday? Money expert Matt Granite has you covered with all the biggest deals!
+
+12 of 21 See more video
+
+Getting a drone for Xmas? Here's how to fly legally
+
+At the LA drone show, drone experts talk about the legalities of flying drones recreationally and what you need to do to apply for a license to use a drone commercially. Jefferson Graham reports.
+
+13 of 21 See more video
+
+Pop group detained over concerns they were 'prostitutes'
+
+Popular K-pop group Oh My Girl headed back to South Korea after being detained at Los Angeles International Airport for 15 hours.
+
+14 of 21 See more video
+
+Great tech gifts for non-techie people
+
+Columnist Marc Saltzman shows off awesome gadgets that are easy to set up and use.
+
+15 of 21 See more video
+
+Woman leads police on high speed chase while eating this
+
+A woman took police on a high speed chase after they pulled her over for eating cereal. Reaching speeds up to 100 mph, it was one crazy ride!
+
+16 of 21 See more video
 
 Bionic eye helps blind woman see after two decades
 
 A new device implanted in a woman's eye has helped her see for the first time in two decades. The total surgery cost is about $200,000.
 
-11 of 19 See more video
+17 of 21 See more video
 
 Raw: Bald eagle attacks Trump during photoshoot
 
 A bald eagle got up close and personal with Republican presidential candidate Donald Trump during a recent photoshoot for TIME magazine. (Dec. 10)
 
-12 of 19 See more video
+18 of 21 See more video
 
 Lost and lonely duck can finally stop running
 
 A lost and lonely duck who's been having a rough time running in the snow in cold Minnesota winter can finally stop running thanks to some unlikely friends.
 
-13 of 19 See more video
-
-Top 6 new roller coaster rides | Travel + Leisure
-
-This summer's roller-coaster rides are sure to get your adrenaline pumping.
-
-14 of 19 See more video
-
-Sleep with fish in this 'under the sea' hotel
-
-Planet Ocean Underwater Hotel won a U.S. patent for its Undersea design. Patrick Jones (@Patrick\_E\_Jones) elaborates.
-
-15 of 19 See more video
+19 of 21 See more video
 
 Tips and tricks for a good night's sleep
 
 Say goodbye to insomnia this new year. Sloane Glass (@sloaneglass) shares some helpful ways you can fall asleep, and stay asleep.
 
-16 of 19 See more video
+20 of 21 See more video
 
 Drama at the zoo: Chimps confront curious raccoon
 
 A raccoon found itself stuck in the chimpanzee habitat at the Knoxville Zoo. Keepers eventually rescued and freed the raccoon from the enclosure.
 
-17 of 19 See more video
+21 of 21 See more video Last VideoNext Video news
 
-These shipping mistakes are costing you way too much
+Students mock a mock-shooting event just off campus
 
-Savings expert Matt Granite reveals the biggest mistakes we make when we ship holiday packages and how we can avoid unnecessary charges.
+Despite push, ‘multi-state’ health plans are unavailable
 
-18 of 19 See more video
+8 hours, 35 minutes | News
 
-10 important tax changes to plan for in 2016
+Donald Trump, terrorism will dominate Sunday talk showsWhat you need to know about the climate agreementObama: Paris Agreement a 'turning point' sports
 
-Here is a list of 10 important changes you need to know about before filing your 2016 taxes.
+Warriors' historic streak comes to an end in Milwaukee
 
-19 of 19 See more video Last VideoNext Video news
+Derrick Henry wins Heisman Trophy
 
-Full coverage: Vanishing groundwater creating global crisis
+3 hours, 6 minutes | Heisman
 
-6 locations where groundwater is vanishing
+LIVE: UFC 194 play-by-play — main card underwayWhy Army-Navy rivalry means moreColts punter pays electric bills for 83 families life
 
-1 day, 11 hours | News
+Mary-Louise Parker and the men in her life
 
-Responding to petition, White House says Obama won't declare Muslim…Priest named in sex-slave prostitute suitLost and lonely duck can finally stop running sports
+Cross WordsAll GamesEntertain This! 5 famous 'Star Wars' references, explainedPlan your week in entertainment Stephen Colbert, Lin-Manuel Miranda spotlight a different Founding… money
 
-Warriors outlast Celtics in 2OT to stay unbeaten
+BlackRock's Koesterich on '16 stocks: A fun TRIP, looks like
 
-Nightengale: Don't crown Cubs yet
+StocksPortfolio TrackerAmerica's Markets LOW flying high? Edward Jones' Warne on '16 stocksT. Rowe Price pro on stocks charged for '16 gainsGoldman's Kostin: 2016 profits brewing with these stocks tech
 
-2 hours, 22 minutes | MLB
+Buying a drone for Xmas? What you need to know
 
-Barkley calls Trump supporters 'losers,' rips CNNMcGregor, Aldo separated after UFC 194 weigh-inWhere does Peterson rank among all-time great RBs? life
+The perfect tech gifts for non-techie people
 
-The definitive ranking of the 'Star Wars' movies
+14 hours, 59 minutes | Saltzman
 
-Cross WordsAll GamesEntertain This! These are the five phrases Taylor Swift just applied to trademarkThe Mothership: A 'Star Wars' prequel debate'Today' weatherman Willard Scott retiring after decades on TV money
+Musk, tech titans put $1B toward AI researchUber wants drivers to sign lawsuit pledgeYour guide to choosing the right laptop travel
 
-Holiday shopper alert: UPS falling behind
+Where to celebrate Sinatra's 100th birthday in Las Vegas
 
-StocksPortfolio TrackerAmerica's Markets Dow Chemical, DuPont reach deal on merger10 money-making tips for 201613 companies can't afford their big dividends tech
+National World War II Museum: New "Road To Tokyo" exhibit…
 
-Uber wants drivers to sign lawsuit pledge
+1 day, 16 hours | America
 
-Your guide to choosing the right laptop
-
-9 hours, 11 minutes | Personal
-
-These drones see in the darkStop skimmers from stealing your moneyApple urging iPhone upgrades with App Store ad travel
-
-Holiday decorations, Vegas style
-
-Sail away to paradise in French Polynesia
-
-17 hours, 8 minutes | Cruises
-
-Custom rankings: Top 20 ski resorts in North AmericaDeck the halls with festive holiday drinksDestinations on the Rise: TripAdvisor's up-and-comers Reviewed.com
+Santa in the islands: Celebrating Christmas in the CaribbeanSail away to paradise in French PolynesiaBoeing rolls out first 737 MAX Reviewed.com
 
 The best smart bulbs of 2015
 
 The best holiday gifts for cooks and foodies
 
-1 week, 4 days | Tech
+1 week, 5 days | Tech
 
 Amazon Dash coming to Whirlpool washers in 2016Your oven is lying to you5 great electric and induction cooktops experience
 
-Extra pints: Craft breweries find a thirsty following with NFL fans
+Savor holiday sweets around the world
 
-Action! Six films to see before your Caribbean vacation
+Get lost in Las Vegas' winter displays
 
-1 day, 13 hours | Caribbean
+2 days, 11 hours | Las Vegas
 
-All I want for Christmas is a cruise'Tis the season: Small towns go all out for ChristmasWynn Las Vegas debuts new and improved buffet VOICES News
+The ice cold truth about cruise ship drink packagesAction! Six films to see before your Caribbean vacationExtra pints: Craft breweries find a thirsty following with NFL fans VOICES Opinion
+
+Column: The myth of the 'good guy with a gun'
+
+News
 
 Everything you need to know this holiday season
 
@@ -313,10 +329,6 @@ Dad Rock talks memorabilia at Hard Rock Cafe
 Movies
 
 Quiz: How well do you know 'Star Wars'?
-
-Voices
-
-Voices: Donald Trump is my son’s bogeyman
 
 Movies
 
@@ -334,34 +346,34 @@ Your Take
 
 #YourTake2015: Share your best moments of the year
 
-*   Fun and festive Santas from around the world
-*   Photos: Rihanna's 2015 Diamond Ball
-*   Holiday gift guide for the new (or soon-to-be!) mom
-*   Photos: Revisit the 'Star Wars' prequel trilogy
-*   Photos: Relive the original 'Star Wars' trilogy
+*   SantaCon amasses sipping St. Nicks
+*   Best of the 116th Army-Navy Game
+*   13 new Sinatra releases for his centennial
+*   Heisman Trophy winners since 1982
+*   World climate rallies and protests
 
 Most Popular
 
-*   "It's a problem for the nation": Former Okla. cop preyed on minority…
+*   Conor McGregor vs. Jose Aldo at UFC 194: Fight time, PPV schedule
     
-*   Obama executive order: Federal employees can go home early on…
+*   Iowa Poll: Cruz soars past Trump into lead among GOP
     
-*   Woman's photo of presents to 'spoiled' kids sparks outrage
+*   Facebook's Mark Zuckberg posts sweet photo changing daughter Max's…
     
-*   13 companies can't afford their big dividends
+*   What the global climate accord means for you
     
 
 Trending on Social
 
-*   Sold: Janis Joplin's psychedelic 1964 Porsche fetches $1.7 million
+*   Warriors streak ends, Bucks win 108-95
     
-*   Alleged gun buyer in San Bernardino rampage was 'goody two shoes'
+*   Mystery nurse helps save restaurant patron, disappears
     
-*   Obama executive order: Federal employees can go home early on Christmas Eve
+*   Goldman's Kostin: 2016 profits brewing with these stocks
     
-*   These are the five phrases Taylor Swift just applied to trademark
+*   Wells Fargo's Moser on stocks set for 2016 takeoff
     
-*   Warriors edge Celtics in 2OT to stretch record win streak to 24
+*   Japan's Yuzuru Hanyu breaks records to win Grand Prix Final
     
 
 SPONSOR CONTENT Right Now
