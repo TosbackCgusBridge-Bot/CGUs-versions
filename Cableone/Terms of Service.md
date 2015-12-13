@@ -1,37 +1,40 @@
+You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page. Turn on more accessible mode Turn off more accessible mode Skip Ribbon Commands Skip to main content Turn off Animations Turn on Animations
+
 *   My Services
     *   My Account
     *   My Bill
     *   My Mail
     *   My Phone
+*   |
+*   Home
+*   |
+*   Contact Us
 
-|  Home |  Contact Us Your Location:  
-New Location Set Your Location Set Your Location - Step 1 of 2 Close Window You are here: Set Your State Set Your State
+  
+Your Location:  
+New Location Set Your Location It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
 
-Find and click on your state's button in the US map (below)  
-Setting your location will allow us to provide you with the most accurate information about our products and services. The dark blue shows the states currently served by Cable ONE. You may also set your location directly in the fields below.
+*   For Your Home
+*   For Your Business
+*   Customer Support
+*   Local Information
+*   Order Now
 
-State: AlabamaArizonaArkansasIdahoIowaKansasLouisianaMinnesotaMississippiMissouriNebraskaNew MexicoNorth DakotaOklahomaOregonSouth DakotaTennesseeTexasWashington Clear Existing Location - or - Zipcode: You are here: Set Your State >. Set Your Location Set Your Location    Hover over a system to see the ares served. Click the system to set your location.  
-System Areas Served  
-State:  
-City:  
-\- or - Zipcode:  
-    
-You are here: Set Your State >. Set Your City >. Set Your Location Set Your Location
+**You are here:** Home >. Internet AUP
 
-Click on the Continue button to set your location (below)  
-You may also set your location directly in the fields below.
+*   Terms &. Conditions
+    *   Closed Captioning
+*   Copyright Notice
+*   Privacy Policy
+*   Internet Aup
+*   Network Management
+    *   Annual Notice (PDF)
+*   Cable Service Guard
 
-You have selected:  
-**Serving the areas:** Save My Location State:  
-City:  
-\- or - Zipcode:  
-    
-Save My Location Order Now For Your Home For Your Business Customer Support Local Information **You are here:** Home Terms &. Conditions Closed Captioning Copyright Notice Privacy Policy Internet AUP Annual Notice (PDF) Network Management Cable Service Guard Internet Acceptable Use Policy CableOne.Net High Speed Internet Access Service  
+Internet Acceptable Use Policy CableOne.Net High Speed Internet Access Service  
 Acceptable Use Policy
 
 Effective October 2015
-
-\`
 
 Important Note: Cable One, Inc., may revise this Acceptable Use Policy from time to time without notice by editing the information on this page. Accordingly, users of the Cable One residential services should consult this page regularly to ensure that their activities conform to the most recent version. In the event of a conflict between any subscriber agreement and this policy, the terms of this policy will govern. Questions regarding this policy can be directed to legal@cableone.net. Complaints of violations of this policy by Cable One users can be directed to abuse@cableone.net. Visit http://www.cableone.net/Pages/networkmanagementdisclosure.aspx to review Cable One’s Network Management Disclosure Statement.
 
@@ -151,7 +154,19 @@ Cable One may choose to communicate with you regarding these policies using a va
 
 **Limitations of Liability**
 
-Cable One will make reasonable efforts to provide customer with uninterrupted and error-free service. Nonetheless, there are numerous factors that could affect the Service. Temporary interruptions of the Service may occur as normal events in the provision of the Service. Cable One reserves the right to interrupt the Service usually between the hours of 1am to 5am (MST or Local) for maintenance purposes. Also understand that Cable One has no control over the networks, facilities or services of third parties and that delays and disruptions involving them are completely beyond Cable One's control. As to Cable One’s own equipment and software, failure may occur without warning due to causes ranging from our own errors to malicious attack. If you have requirements that substantially exceed the average consumer’s bandwidth use or if continuous Internet access is the basis of your livelihood, you should purchase an alternate, backup connection. While Cable One employs virus and spam checking software, the speed of new virus and spam creation is such that Cable One does not represent or warrant that traffic on its network will be virus or spam free. In light of that, your use of the Service is at your own risk and the Service is provided without warranty or guarantee of any kind either expressed or implied, including warranties of merchantability and fitness for a particular purpose. Without limiting the foregoing, Cable One, its parent company and affiliates will not be liable for any interruptions in service or failure to perform or partial performance that results in corrupted transmissions and will not be responsible for consequential damages of any sort. In any event, Cable One’s liability to you for all potential claims will not exceed the total amount of service fees paid during the preceding three months. As to consumer customers, some states do not allow the exclusion or limitation of implied warranties, so the above exclusions or limitations may not apply to you. Nothing in this Agreement gives you any interest, title or license in the user ID, electronic mail address or IP address that is used in conjunction with the Service. For Your Home  For Your Business  Customer Support  Remote Connect  Local Information  All About Us  
-Investor Relations  Legal Notices  Open Internet/Network Management  Contact Us  Great Careers  Payment Center  Site Map
+Cable One will make reasonable efforts to provide customer with uninterrupted and error-free service. Nonetheless, there are numerous factors that could affect the Service. Temporary interruptions of the Service may occur as normal events in the provision of the Service. Cable One reserves the right to interrupt the Service usually between the hours of 1am to 5am (MST or Local) for maintenance purposes. Also understand that Cable One has no control over the networks, facilities or services of third parties and that delays and disruptions involving them are completely beyond Cable One's control. As to Cable One’s own equipment and software, failure may occur without warning due to causes ranging from our own errors to malicious attack. If you have requirements that substantially exceed the average consumer’s bandwidth use or if continuous Internet access is the basis of your livelihood, you should purchase an alternate, backup connection. While Cable One employs virus and spam checking software, the speed of new virus and spam creation is such that Cable One does not represent or warrant that traffic on its network will be virus or spam free. In light of that, your use of the Service is at your own risk and the Service is provided without warranty or guarantee of any kind either expressed or implied, including warranties of merchantability and fitness for a particular purpose. Without limiting the foregoing, Cable One, its parent company and affiliates will not be liable for any interruptions in service or failure to perform or partial performance that results in corrupted transmissions and will not be responsible for consequential damages of any sort. In any event, Cable One’s liability to you for all potential claims will not exceed the total amount of service fees paid during the preceding three months. As to consumer customers, some states do not allow the exclusion or limitation of implied warranties, so the above exclusions or limitations may not apply to you. Nothing in this Agreement gives you any interest, title or license in the user ID, electronic mail address or IP address that is used in conjunction with the Service. For Your Home For Your Business Customer Support Remote Connect Local Information All About Us  
+Investor Relations Legal Notices Open Internet/Network Management Contact Us Great Careers Payment Center Site Map
 
 Copyright 2015, Cable ONE Inc., All Rights Reserved.
+
+Close Window X Set Your Location - Step 1 of 2 You are here: Set Your State Set Your State Find and click on your state's button in the US map (below)
+
+Setting your location will allow us to provide you with the most accurate information about our products and services. The dark blue shows the states currently served by Cable ONE. You may also set your location directly in the fields below.
+
+You are here: Set Your State >. Set Your Location Set Your Location **Hover over a system to see the ares served. Click the system to set your location.** System Areas Served
+
+State: -OR- Zipcode: Go State: City: -OR- Zipcode: Go Clear Existing Location We're sorry, cable one is not  
+available in this area. But we're still here to help, contact our friends at cablemover.com to find service in your area.  
+  
+  
+1-866-270-9684
