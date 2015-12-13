@@ -1,32 +1,37 @@
+You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page. Turn on more accessible mode Turn off more accessible mode Skip Ribbon Commands Skip to main content Turn off Animations Turn on Animations
+
 *   My Services
     *   My Account
     *   My Bill
     *   My Mail
     *   My Phone
+*   |
+*   Home
+*   |
+*   Contact Us
 
-|  Home |  Contact Us Your Location:  
-New Location Set Your Location Set Your Location - Step 1 of 2 Close Window You are here: Set Your State Set Your State
+  
+Your Location:  
+New Location Set Your Location It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
 
-Find and click on your state's button in the US map (below)  
-Setting your location will allow us to provide you with the most accurate information about our products and services. The dark blue shows the states currently served by Cable ONE. You may also set your location directly in the fields below.
+*   For Your Home
+*   For Your Business
+*   Customer Support
+*   Local Information
+*   Order Now
 
-State: AlabamaArizonaArkansasIdahoIowaKansasLouisianaMinnesotaMississippiMissouriNebraskaNew MexicoNorth DakotaOklahomaOregonSouth DakotaTennesseeTexasWashington Clear Existing Location - or - Zipcode: You are here: Set Your State >. Set Your Location Set Your Location    Hover over a system to see the ares served. Click the system to set your location.  
-System Areas Served  
-State:  
-City:  
-\- or - Zipcode:  
-    
-You are here: Set Your State >. Set Your City >. Set Your Location Set Your Location
+**You are here:** Home >. Terms and Conditions
 
-Click on the Continue button to set your location (below)  
-You may also set your location directly in the fields below.
+*   Terms &. ConditionsCurrently selected
+    *   Closed Captioning
+*   Copyright Notice
+*   Privacy Policy
+*   Internet Aup
+*   Network Management
+    *   Annual Notice (PDF)
+*   Cable Service Guard
 
-You have selected:  
-**Serving the areas:** Save My Location State:  
-City:  
-\- or - Zipcode:  
-    
-Save My Location Order Now For Your Home For Your Business Customer Support Local Information **You are here:** Home Terms &. Conditions Closed Captioning Copyright Notice Privacy Policy Internet AUP Annual Notice (PDF) Network Management Cable Service Guard Terms &. Conditions
+Terms &. Conditions
 
 **Terms and Conditions**
 
@@ -52,7 +57,19 @@ Cable ONE, Inc. may make changes to the information provided in this site, or to
 
 For immediate technical concerns or service issues **with Closed Captioning**, please call **(toll-free) 1-877-MY-CABLE (877-692-2253)**, fax 1-602-200-0516, or email us at: **NOC@cableone.biz**. Formal written complaints should be addressed to Emerson Yearwood, Assistant General Counsel -- Regulatory Affairs, Cable One, Inc. 210 East Earll Drive, Phoenix, AZ 85012. Telephone: 602.364.6000. Fax: 602.364.6013. emerson.yearwood@cableone.biz
 
-For Your Home  For Your Business  Customer Support  Remote Connect  Local Information  All About Us  
-Investor Relations  Legal Notices  Open Internet/Network Management  Contact Us  Great Careers  Payment Center  Site Map
+For Your Home For Your Business Customer Support Remote Connect Local Information All About Us  
+Investor Relations Legal Notices Open Internet/Network Management Contact Us Great Careers Payment Center Site Map
 
 Copyright 2015, Cable ONE Inc., All Rights Reserved.
+
+Close Window X Set Your Location - Step 1 of 2 You are here: Set Your State Set Your State Find and click on your state's button in the US map (below)
+
+Setting your location will allow us to provide you with the most accurate information about our products and services. The dark blue shows the states currently served by Cable ONE. You may also set your location directly in the fields below.
+
+You are here: Set Your State >. Set Your Location Set Your Location **Hover over a system to see the ares served. Click the system to set your location.** System Areas Served
+
+State: -OR- Zipcode: Go State: City: -OR- Zipcode: Go Clear Existing Location We're sorry, cable one is not  
+available in this area. But we're still here to help, contact our friends at cablemover.com to find service in your area.  
+  
+  
+1-866-270-9684
