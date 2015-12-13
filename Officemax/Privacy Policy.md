@@ -13,7 +13,7 @@ SEG1 hp
 
 Office Depot Deals
 
-XhCo6UMhtkk9Y-0vUcAU0og Recommended Products
+tSa-nOh\_FG9Qi82J4-MaLLg Recommended Products
 
 Category Matches
 
@@ -33,6 +33,9 @@ Your recent searches
 *   School Supplies
 *   Copy &. Print
 *   $ Deals
+
+*   Don't show this again
+*   Privacy Policy
 
 Product Plans &. Leasing Options Page of There are no items in your cart. Previous Next $ Coupon Code: ZIP CODE You have not selected a store or a zipcode yet Your Coupons See all coupons Includes Coupon(s) Qty. Product Price Price With Tax item(s) Your Price: Quick View See More Results http://static.www.odcdn.com/images/us/od/lb\_loading.gif od Please enter a quantity true true
 
@@ -147,16 +150,19 @@ and get special financing options
 paper and copy/print/ship purchases
 
  **1-800-GO-DEPOT**  
-(1-800-463-3768)  Live Chat  Signup to receive  
-**Special Offers**  
-to your inbox  Signup to receive  
-**Special Offers**  
-to your Mobile Phone      
+(1-800-463-3768)  Live Chat Available 24/7  **FREE** store pickup.  
+order online  
+ready in 1 hour!  **Tap our app**  
+get offers,  
+manage rewards,  
+compare prices  Signup to receive  
+exclusive offers  
+to your inbox
 
 *   PRODUCTS
 *   Ativa®
 *   Black Friday 2015
-*   Foray™
+*   Foray &. trade
 *   Gift &. Rewards Cards
 *   Greener Office
 *   Products A-Z
@@ -165,7 +171,7 @@ to your Mobile Phone      
 
 *   BUSINESS SERVICES
 *   Business Form Templates
-*   Business Solutions Center
+*   Business Resource Center
 *   Copy &. Print Depot™
 *   MaxAssurance
 *   Prevention of Online Threats
@@ -173,14 +179,13 @@ to your Mobile Phone      
 *   Small Business Handbook
 *   Security Solutions
 *   Shredding Services
-*   Tech Depot™ Services
+*   Tech Depot &. trade Services
 *   Tech Trade-In
 
 *   ABOUT US
 *   Find a Store
 *   About Office Depot®
 *   Affiliate Program
-*   CA Supply Chain Disclosure
 *   Careers
 *   Compliance and Ethics
 *   Diversity
@@ -205,17 +210,17 @@ to your Mobile Phone      
 *   Website Feedback
 
 *   SPECIAL PROGRAMS
-*   Give Back to Schools Program
+*   5% Back to Schools Program
 *   Environmental Programs
 *   Veterans Advantage
 
-MOBILE APPS   
+MOBILE APPS         
 
 *   Site Map
 *   Terms of Use
 *   Privacy Policy
-*   Office Depot Tracking Tools
 *   Office Depot Anywhere
+*   Office Depot Tracking Tools
 *   International
 *   Grand &. Toy Canada
 
