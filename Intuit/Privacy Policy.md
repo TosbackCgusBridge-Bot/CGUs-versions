@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14214335541
+true true C14218613886
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Sat Dec 12 11:31:32 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Sun Dec 13 11:30:36 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,43 +48,35 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-$10 Off\* $25 or More In Store and Online | Ends December 12 | Use Code: FMLYFUN Or, Extra 25% Off\* $100 or More Online Only | Ends December 12 | Use Code: GOODTIME Or, Extra 20% Off\* Under $100 Online Only | Ends December 12 | Use Code: GOODTIME \*Exclusions and details Print Coupon Super Saturday Sale Starts Now! | In Store and Online Shop Super Saturday Sale Now View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop ShoesNight and Day Doorbusters
-
-Friday 3PM CST through Saturday 1PM CST.
-
-Shop Doorbusters Save on Sweaters for Men, Women, Boys and Girls Up to 60% Off Sweaters For the Family
+Outerwear For The Whole Family 40 to 60% Off Coats and Jackets For The Family
 
 Select styles.
 
-Shop Women's Sweaters Shop Men's Sweaters Shop Boys Sweaters Shop Girls Sweaters         Big Savings on Skillets, Griddles, Slow Cookers and More Holiday Home Sale | 30 to 50% Off Home Collections
+Shop Coats and Jackets For The Family Holiday Jewelry Sale Going On Now Holiday Jewelry Sale | December 8-24
 
-Select styles
+20 to 60% Off Jewelry, select styles
 
-Shop Holiday Home SaleBig Buys! 14.99, after $10 mail-in rebate, sale 24.99
-
-Select styles. Excluded from coupon.
-
-Shop Small Appliances Women's Boots On Sale! 29.99 Boots for Her
+Shop All Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Shop Love in Motion Get Great Home Gifts At Our Home Sale 30 to 50% Off Home Collections
 
 Select styles.
 
-Shop Boots for Her Star Wars Apparel On Sale 40 to 50% Off Star Wars
+Shop Home Sale Shop Juicers and Blenders Save On Pajamas For The Family 50 to 60% Off Sleepwear For The Family
 
 Select styles.
 
-Shop Star Wars Now Disney Collection Shop Disney Now E-Gift Cards
+Shop Sleepwear For The Family Big Holiday Savings On Star Wars Clothing 40 to 50% Off Star Wars Apparel
 
-Customize with a message, photo or video
+Select styles.
 
-Shop E-Gift Cards Now JCPenney | portraits
+Shop Star Wars Apparel Disney Collection Shop Disney Now E-Gift Cards
 
-Holiday Memories - 40% Off Photo Purchase
+Customize with a message, photo or video.
 
-Shop Portraits Now Holiday Gift Shop
+Shop E-Gift Cards Now Holiday Gift Shop
 
-Where giving begins. Gifts they want. Savings you love.
+Where Giving Begins: Gifts they want. Savings you love.
 
-Shop All Gifts
+Shop All Gifts Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
