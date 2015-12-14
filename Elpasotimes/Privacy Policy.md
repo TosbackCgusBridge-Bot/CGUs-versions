@@ -85,38 +85,38 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Elections Iowa Poll: Cruz soars past Trump into lead among GOP
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Nation Kerry: Paris climate deal will transform economy
 
 TOP STORIES
 
-*   Cars What the global climate accord means for you
-*   Heisman Alabama's Derrick Henry wins Heisman Trophy
-*   Warriors Warriors streak ends, Bucks win 108-95
-*   Paris Agreement: 5 key takeaways
-*   Nurse helps save restaurant patron, disappears
-*   Donald Trump hits Ted Cruz, Saudi prince
-*   5 famous 'Star Wars' references, explained
-*   Excuse me, while I kiss the ski: Vonn wins
-*   Paris climate accord is a 'turning point for the world'
-*   'Make Room for Daddy' star Marjorie Lord dies
-*   FSU QB throws football over stadium wall
-*   Woman will stop at nothing for this sweatshirt
+*   OnPolitics CNN debate: Christie, Paul on main stage. Huckabee out
+*   World Anti-ISIL strikes now aimed at moving targets
+*   Nation Now Edward Norton raises $375K for Mich.-bound Syrian family
+*   50 things we learned in NFL Week 14
+*   Police: Two mosques near L.A. defaced
+*   Patriots return to front of AFC playoff race
+*   Paris climate deal: what comes next
+*   Poll: What do we want in our next president?
+*   Woman stabbed while visiting Fla. nudist colony
+*   Video shows L.A. cops fatally shoot armed man
+*   Eva Longoria is engaged
+*   ISIL likely acquired passport-making machine
 
-Ufc
+Nation
 
-LIVE: UFC 194 play-by-play and results
+FBI searches lake for Calif. shooters' hard drive
 
-Fantasy Sports
+Nation Now
 
-Answers to your Week 14 fantasy football questions -- Sunday, noon ET
+N.J. trooper delivers baby along parkway
 
-News
+Movies
 
-Texas gun-rights activists, students face off in Austin
+Sneak peek: Hugh Jackman helps 'Eddie the Eagle' soar again
 
-Ufc
+Movies
 
-Ronda Rousey keeps her word at Marine Corps Ball
+The Force awakens in J.J. Abrams' 'Star Wars' journey
 
 VANISHING GROUNDWATER: SPECIAL REPORT Nation Now
 
@@ -134,169 +134,175 @@ Nation Now
 
 Solutions: Should we have to pay for water?
 
-Dad Rock holiday survival guide: cocktails
+6 things to know about the GOP debate
 
-Jim Lenahan and Patrick Foster from USA TODAY's Dad Rock podcast visit the Hard Rock Cafe in search of the best holiday drinks.
+GOP presidential candidates will debate again on Tuesday. Here's what to expect, from USA TODAY Washington Bureau Chief Susan Page.
 
-1 of 21 See more video
+1 of 22 See more video
+
+Ted Cruz gains ground in polls, upsetting Trump
+
+Ted Cruz is gaining momentum in the polls, and Donald Trump is not so happy about it.
+
+2 of 22 See more video
+
+What you need to know about the climate agreement
+
+Delegates from 195 countries have approved a historic climate accord that seeks to slow the rise of greenhouse gasses. Here is what you need to know about the Paris Agreement.
+
+3 of 22 See more video
+
+5-year-old has precious message for injured officer
+
+Even though they'd never met, when 5-year-old JJ Shaver heard Denver Police Officer Tony Lopez Jr. was shot seven times in the line of duty, his immediate response was "Can we see him?" JJ's dad took him to the hospital to deliver this message.
+
+4 of 22 See more video
+
+Machete-wielding suspect killed at Walmart
+
+Police say the 20-year-old man was wielding a machete and two handguns and threatening customers before he was fatally shot by police. Video provided by Newsy
+
+5 of 22 See more video
 
 Viral dog moments even cat lovers will like
 
 Cats might rule the internet, but there is a reason why dogs are known as 'man's best friend'. Keri Lumm (@thekerilumm) shares dogs best viral moments of 2015.
 
-2 of 21 See more video
+6 of 22 See more video
+
+VA hospital takes down veteran's Christmas decorations
+
+For 33 years, Vietnam veteran Ethel Jo Holloway has volunteered her time and money, decorating the Audie Murphy VA hospital for Christmas. This year some of her decorations were thrown out, and she can't believe why.
+
+7 of 22 See more video
+
+5-year-old has precious message for injured officer
+
+Even though they'd never met, when 5-year-old JJ Shaver heard Denver Police Officer Tony Lopez Jr. was shot seven times in the line of duty, his immediate response was "Can we see him?" JJ's dad took him to the hospital to deliver this message.
+
+8 of 22 See more video
+
+Green Monday deals as good as Cyber Monday
+
+Looking for a way to save big this Green Monday? Money expert Matt Granite has you covered with all the biggest deals!
+
+9 of 22 See more video
 
 Travel luggage-free with this unique app
 
 An app voted by 10Best.com readers as the best new travel app allows you to travel luggage-free by simplifying and speeding up the airport process for frequent travelers.
 
-3 of 21 See more video
+10 of 22 See more video
 
 Just Cool Cars: 1949 bus is art deco marvel
 
 USA TODAY's Chris Woodyard takes us on a tour of this beautiful 1949 Flxible Clipper bus.
 
-4 of 21 See more video
+11 of 22 See more video
 
-Dad Rock Holiday Survival Guide: Holiday songs
+Tips to get the most from your coach class trip
 
-The cohosts of USA TODAY's Dad Rock podcast recommend their favorite holiday songs.
+Struggling to keep up with discount carriers, major airlines are getting rid of even the smallest frills for coach passengers. Here's how can you protect you rights and get the most from your airline, no matter what zone you're seated in.
 
-5 of 21 See more video
+12 of 22 See more video
+
+Deadly crash sparks massive train tanker fire
+
+A deadly crash sparked a massive railroad tanker car fire in Portland, forcing residents to hunker down in their homes as thick black smoke filled the air.
+
+13 of 22 See more video
 
 Customers beat clerk over cigar
 
 Police in Florida are searching for four men after they were caught on camera beating a gas station clerk. The clerk was attacked after he reportedly denied selling one of them a cigar, because they couldn't produce identification.
 
-6 of 21 See more video
+14 of 22 See more video
 
 Mailman punches dog, saves girl from attack
 
 A mailman is being hailed as a hero after he came to the rescue of a 7-year-old girl being attacked by a dog. Witnesses say had it not been for the man, the little girl may have died.
 
-7 of 21 See more video
+15 of 22 See more video
 
 Vacant house sends big message to Donald Trump
 
 A vacant house along a busy road is decorated with big, red anti-Trump signs as a form of protest for the presidential candidate.
 
-8 of 21 See more video
+16 of 22 See more video
 
-350 infants possibly exposed to tuberculosis
+Real Grinch steals Christmas trees, but not spirit
 
-Officials at a Bay Area hospital are offering antibiotic treatments to hundreds of infants and mothers after a nurse was diagnosed with tuberculosis. Video provided by Newsy
+A thief may have run off with this community's gifts for the needy, but something much greater could not be moved.
 
-9 of 21 See more video
-
-Nintendo files a patent for weirdest controller yet
-
-Nintendo's patent for a mostly touchscreen controller might mean it's about to repeat the mistakes from the Wii U on its next generation console. Video provided by Newsy
-
-10 of 21 See more video
+17 of 22 See more video
 
 5 things to know about Frank Sinatra
 
 For what would have been Frank Sinatra's 100th birthday, USA TODAY takes a look at 5 things to know about the music icon's life.
 
-11 of 21 See more video
-
-Save big this Green Monday with these 5 deals
-
-Looking for a way to save big this Green Monday? Money expert Matt Granite has you covered with all the biggest deals!
-
-12 of 21 See more video
-
-Getting a drone for Xmas? Here's how to fly legally
-
-At the LA drone show, drone experts talk about the legalities of flying drones recreationally and what you need to do to apply for a license to use a drone commercially. Jefferson Graham reports.
-
-13 of 21 See more video
+18 of 22 See more video
 
 Pop group detained over concerns they were 'prostitutes'
 
 Popular K-pop group Oh My Girl headed back to South Korea after being detained at Los Angeles International Airport for 15 hours.
 
-14 of 21 See more video
+19 of 22 See more video
 
 Great tech gifts for non-techie people
 
 Columnist Marc Saltzman shows off awesome gadgets that are easy to set up and use.
 
-15 of 21 See more video
+20 of 22 See more video
 
-Woman leads police on high speed chase while eating this
+Santa drive-thru puts wish lists on fast track
 
-A woman took police on a high speed chase after they pulled her over for eating cereal. Reaching speeds up to 100 mph, it was one crazy ride!
+Forget standing in line to see Santa. These kids didn't even have to get out of their cars to tell him what they want for Christmas.
 
-16 of 21 See more video
-
-Bionic eye helps blind woman see after two decades
-
-A new device implanted in a woman's eye has helped her see for the first time in two decades. The total surgery cost is about $200,000.
-
-17 of 21 See more video
-
-Raw: Bald eagle attacks Trump during photoshoot
-
-A bald eagle got up close and personal with Republican presidential candidate Donald Trump during a recent photoshoot for TIME magazine. (Dec. 10)
-
-18 of 21 See more video
+21 of 22 See more video
 
 Lost and lonely duck can finally stop running
 
 A lost and lonely duck who's been having a rough time running in the snow in cold Minnesota winter can finally stop running thanks to some unlikely friends.
 
-19 of 21 See more video
+22 of 22 See more video Last VideoNext Video news
 
-Tips and tricks for a good night's sleep
+Ohio Planned Parenthood sues to 'protect abortion access'
 
-Say goodbye to insomnia this new year. Sloane Glass (@sloaneglass) shares some helpful ways you can fall asleep, and stay asleep.
+Paris climate deal: what comes next
 
-20 of 21 See more video
+7 hours, 20 minutes | World
 
-Drama at the zoo: Chimps confront curious raccoon
+Police: Two mosques near L.A. defacedToday in History for December 14thThe year in political selfies sports
 
-A raccoon found itself stuck in the chimpanzee habitat at the Knoxville Zoo. Keepers eventually rescued and freed the raccoon from the enclosure.
+Broncos out of answers as Peyton question looms
 
-21 of 21 See more video Last VideoNext Video news
+Patriots shed Texans, return to front of AFC race
 
-Students mock a mock-shooting event just off campus
+42 minutes | New England Patriots
 
-Despite push, ‘multi-state’ health plans are unavailable
+Jerry Jones: Dallas needs lots of workBell: Eagles win, but no love from LeSean McCoyRanking the top 5 NBA backcourts by the numbers life
 
-8 hours, 35 minutes | News
+'Star Wars': Now &. then
 
-Donald Trump, terrorism will dominate Sunday talk showsWhat you need to know about the climate agreementObama: Paris Agreement a 'turning point' sports
+Cross WordsAll GamesEntertain This! 5 famous 'Star Wars' references, explainedJ.J. Abrams: ‘History repeats itself’ in new ‘Star Wars’Critic's Corner: 'Fargo' is meticulously crafted money
 
-Warriors' historic streak comes to an end in Milwaukee
+There may be no bidders for Yahoo. Here's why
 
-Derrick Henry wins Heisman Trophy
+StocksPortfolio TrackerAmerica's Markets Wells Fargo's Moser on stocks set for 2016 takeoffA customer-friendly TSA comes to the aid of fliers on TwitterFed likely to emphasize gradual rate hikes tech
 
-3 hours, 6 minutes | Heisman
-
-LIVE: UFC 194 play-by-play — main card underwayWhy Army-Navy rivalry means moreColts punter pays electric bills for 83 families life
-
-Mary-Louise Parker and the men in her life
-
-Cross WordsAll GamesEntertain This! 5 famous 'Star Wars' references, explainedPlan your week in entertainment Stephen Colbert, Lin-Manuel Miranda spotlight a different Founding… money
-
-BlackRock's Koesterich on '16 stocks: A fun TRIP, looks like
-
-StocksPortfolio TrackerAmerica's Markets LOW flying high? Edward Jones' Warne on '16 stocksT. Rowe Price pro on stocks charged for '16 gainsGoldman's Kostin: 2016 profits brewing with these stocks tech
-
-Buying a drone for Xmas? What you need to know
+DoubleClick message should have prompted double take
 
 The perfect tech gifts for non-techie people
 
-14 hours, 59 minutes | Saltzman
+1 day, 14 hours | Saltzman
 
-Musk, tech titans put $1B toward AI researchUber wants drivers to sign lawsuit pledgeYour guide to choosing the right laptop travel
+Buying a drone for Xmas? What you need to knowUber's suit, women risk takers, tech &. concussions: podcastMusk, tech titans put $1B toward AI research travel
 
 Where to celebrate Sinatra's 100th birthday in Las Vegas
 
 National World War II Museum: New "Road To Tokyo" exhibit…
 
-1 day, 16 hours | America
+2 days, 16 hours | America
 
 Santa in the islands: Celebrating Christmas in the CaribbeanSail away to paradise in French PolynesiaBoeing rolls out first 737 MAX Reviewed.com
 
@@ -304,7 +310,7 @@ The best smart bulbs of 2015
 
 The best holiday gifts for cooks and foodies
 
-1 week, 5 days | Tech
+1 week, 6 days | Tech
 
 Amazon Dash coming to Whirlpool washers in 2016Your oven is lying to you5 great electric and induction cooktops experience
 
@@ -312,9 +318,13 @@ Savor holiday sweets around the world
 
 Get lost in Las Vegas' winter displays
 
-2 days, 11 hours | Las Vegas
+3 days, 11 hours | Las Vegas
 
-The ice cold truth about cruise ship drink packagesAction! Six films to see before your Caribbean vacationExtra pints: Craft breweries find a thirsty following with NFL fans VOICES Opinion
+The ice cold truth about cruise ship drink packagesAction! Six films to see before your Caribbean vacationExtra pints: Craft breweries find a thirsty following with NFL fans VOICES News
+
+Ending ISIL (Part III): An ex-CIA chief’s plan
+
+Opinion
 
 Column: The myth of the 'good guy with a gun'
 
@@ -322,21 +332,17 @@ News
 
 Everything you need to know this holiday season
 
-Music
-
-Dad Rock talks memorabilia at Hard Rock Cafe
-
 Movies
 
 Quiz: How well do you know 'Star Wars'?
 
 Movies
 
+'M:I III,' 'Trek' give me new hope for 'Star Wars'
+
+Movies
+
 Countdown to 'Star Wars: The Force Awakens'
-
-Rieder
-
-Rieder: The media's Donald Trump bind
 
 Sponsor Story
 
@@ -346,34 +352,34 @@ Your Take
 
 #YourTake2015: Share your best moments of the year
 
+*   The year in political selfies
+*   The day in pictures
 *   SantaCon amasses sipping St. Nicks
-*   Best of the 116th Army-Navy Game
 *   13 new Sinatra releases for his centennial
 *   Heisman Trophy winners since 1982
-*   World climate rallies and protests
 
 Most Popular
 
-*   Conor McGregor vs. Jose Aldo at UFC 194: Fight time, PPV schedule
+*   J.J. Abrams: ‘History repeats itself’ in new ‘Star Wars’
     
-*   Iowa Poll: Cruz soars past Trump into lead among GOP
+*   Anti-ISIL strikes now aimed at moving targets
     
-*   Facebook's Mark Zuckberg posts sweet photo changing daughter Max's…
+*   There may be no bidders for Yahoo. Here's why
     
-*   What the global climate accord means for you
+*   Eva Longoria is engaged
     
 
 Trending on Social
 
-*   Warriors streak ends, Bucks win 108-95
+*   California in overdraft
     
-*   Mystery nurse helps save restaurant patron, disappears
+*   Patriots shed Texans, return to front of AFC playoff race
     
-*   Goldman's Kostin: 2016 profits brewing with these stocks
+*   50 things we learned in Week 14 of the 2015 NFL season
     
-*   Wells Fargo's Moser on stocks set for 2016 takeoff
+*   Khalil Mack storms onto national stage with five-sack day
     
-*   Japan's Yuzuru Hanyu breaks records to win Grand Prix Final
+*   NFL Week 14 injuries: Andy Dalton (thumb) to miss at least another week
     
 
 SPONSOR CONTENT Right Now
