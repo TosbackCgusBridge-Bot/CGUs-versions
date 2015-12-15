@@ -20,13 +20,13 @@ LENOVO Menu
         8.  Ready to Ship PCs
         9.  Coupon Page
         10.  Deals for Students and Educators
-    *   ‘Tis the Season Deck the halls with Savings!
+    *   Last Minute Holiday Deals Get it in Time for Christmas!
         
-        Save up to 58% Site-Wide.
+        Order by December 21.
         
     *   Lenovo Preferred Card The Best Offers with Instant and Affordable Financing.
         
-    *   The Daily Deal Get Special Savings on a Select Product Featured Everyday!
+    *   Black Friday Doorbusters are Back! Save BIG on ThinkPad and ThinkCentre PCs.
         
 *   Support
     *   Help placing an order 24 hours a day, 7 days a week  
