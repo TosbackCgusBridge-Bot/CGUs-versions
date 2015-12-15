@@ -1,15 +1,18 @@
 Wix
 
+*   I Need a Site for...
+
+*   {"BUSINESS":"Business","MUSIC":"Music","PHOTOGRAPHY":"Photography","ONLINE\_STORE":"Online Store","DESIGNER":"Designer","RESTAURANTS":"Restaurants","ACCOMMODATION":"Accommodation","EVENTS":"Events","PORTFOLIO\_AND\_CV":"Portfolio &. CV","OTHER":"Other"}
 *   My Sites
 *   Templates
 *   Explore
-    *   Get Inspired See real users' examples
-    *   Features Why choose Wix?
-    *   App Market Add popular web services
+    *   Get Inspired
+    *   Features
+    *   App Market
 *   Subscriptions
-    *   Premium Plans Pick the best for you
-    *   Domains Get your own web address
-    *   Mailboxes Add personalized emails
+    *   Premium Plans
+    *   Domains
+    *   Mailboxes
 *   Support
 
 Sign In Hi, {username}
@@ -37,7 +40,7 @@ stunning website. It’s free
 
 Sign Up
 
-\* By signing up, you agree to our Terms of Use, Privacy and to receive Wix emails, newsletters &. updates.
+\* By signing up, you agree to our Terms of Use, Privacy Policy and to receive Wix emails, newsletters &. updates.
 
 Thank you!
 
@@ -55,15 +58,7 @@ You already have an account at Wix.com
 
 To sign in to your Wix account,please go to your desktop or laptop
 
-OK Wix.com Wix.com is a leading cloud-based web development platform with millions of users worldwide. We make it simple for everyone to create a beautiful, professional web presence. No creative limits, no coding skills needed to get your business online.
-
-*   Facebook
-*   Twitter
-*   Google+
-*   Youtube
-*   Pinterest
-*   Instagram
-*   Linkedin
+OK
 
 *   PRODUCT
 *   Templates
@@ -82,7 +77,8 @@ OK Wix.com Wix.com is a leading cloud-based web development platform with millio
 *   Jobs
 *   Design Assets
 *   Terms of use
-*   Privacy
+*   App Market Terms
+*   Privacy Policy
 *   Abuse
 *   Affiliates
 *   Contact Us
@@ -97,9 +93,18 @@ OK Wix.com Wix.com is a leading cloud-based web development platform with millio
 *   Google+
 *   Pinterest
 *   Youtube
+*   Linkedin
 
 *   SUPPORT
 *   Support Center
 *   Training Videos
 
-Promote your business, showcase your art, set up an online shop or just test out new ideas. Wix is a website builder that has everything you need to build a fully-personalized, high-quality free website. Browse our collection of beautiful website templates. You'll find loads of stunning designs, ready to be customized. © 2006-2015 Wix.com, Inc
+Wix.com Wix.com is a leading cloud-based development platform with millions of users worldwide. We make it easy for everyone to create a beautiful, professional web presence. Promote your business, showcase your art, set up an online shop or just test out new ideas. The Wix website builder has everything you need to create a fully personalized, high-quality free website. © 2006-2015 Wix.com, Inc
+
+*   Facebook
+*   Twitter
+*   Google+
+*   Youtube
+*   Pinterest
+*   Instagram
+*   Linkedin
