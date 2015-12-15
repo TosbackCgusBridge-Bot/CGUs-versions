@@ -85,248 +85,242 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Nation Kerry: Paris climate deal will transform economy
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ OnPolitics The rise of Trump: 26 weeks that changed 2016 Read StoryTrump doc: He'd be healthiest prez ever
 
 TOP STORIES
 
-*   OnPolitics CNN debate: Christie, Paul on main stage. Huckabee out
-*   World Anti-ISIL strikes now aimed at moving targets
-*   Nation Now Edward Norton raises $375K for Mich.-bound Syrian family
-*   50 things we learned in NFL Week 14
-*   Police: Two mosques near L.A. defaced
-*   Patriots return to front of AFC playoff race
-*   Paris climate deal: what comes next
-*   Poll: What do we want in our next president?
-*   Woman stabbed while visiting Fla. nudist colony
-*   Video shows L.A. cops fatally shoot armed man
-*   Eva Longoria is engaged
-*   ISIL likely acquired passport-making machine
+*   Washington Seeking action on guns, White House turns to governors
+*   Nation Feds: Md. man got funds from Islamic State for 'operational purposes'
+*   Movies Photos: 'Star Wars: The Force Awakens' premieres in L.A.
+*   First U.S. city allows Uber drivers to unionize
+*   Trump: 'Don't worry. it's just Iowa'
+*   Why Apple just saw $133.5B of its value vanish
+*   Box office awaits show of 'Star Wars' force
+*   Harrison Ford has no nostalgia for 'Star Wars'
+*   Election winners die before losing rivals
+*   Alabama to pay strength coach like a head coach
+*   Disgruntled guest crashes truck into hotel
+*   EU privacy directive may cost U.S. firms billions
 
-Nation
+Weather
 
-FBI searches lake for Calif. shooters' hard drive
+Welcome to your freakish December heat wave
+
+People
+
+Bill Cosby countersues seven of his accusers
+
+High School Sports
+
+Former HS coach pleads guilty in attack on ref
+
+MLB
+
+Nightengale: It's over for Rose - he's dead to MLB
+
+OUR PICKS Nation
+
+Bergdahl to face court martial for desertion
 
 Nation Now
 
-N.J. trooper delivers baby along parkway
-
-Movies
-
-Sneak peek: Hugh Jackman helps 'Eddie the Eagle' soar again
-
-Movies
-
-The Force awakens in J.J. Abrams' 'Star Wars' journey
-
-VANISHING GROUNDWATER: SPECIAL REPORT Nation Now
-
-In California, 'the vineyards are killing us'
+Report: Soldiers lack sleep, struggle to eat right
 
 News
 
-6 locations where groundwater is vanishing
+Why 88% of Chicago teachers are ready to strike
 
-Nation Now
+News
 
-Time is running out in Kansas
+Antidepressants during pregnancy linked to autism
 
-Nation Now
+Watch: Real Ethan Hunts do 'Impossible' stunts
 
-Solutions: Should we have to pay for water?
+Six real-life Ethan Hunts tried to perform stunts like Tom Cruise's Ethan Hunt from "Mission: Impossible, Rogue Nation."
+
+1 of 19 See more video
+
+Dad makes reindeer drone when son worries Santa won't find them
+
+Santa will know exactly where this kid's home is after his father made a reindeer drone mapping the path to their new house. Keleigh Nealon (@keleighnealon) has the story.
+
+2 of 19 See more video
+
+Secret Santas strike again, shower strangers with cash
+
+Watch these reactions as two Secret Santas hand out $14,000 in $100 bills to complete strangers.
+
+3 of 19 See more video
 
 6 things to know about the GOP debate
 
 GOP presidential candidates will debate again on Tuesday. Here's what to expect, from USA TODAY Washington Bureau Chief Susan Page.
 
-1 of 22 See more video
+4 of 19 See more video
 
-Ted Cruz gains ground in polls, upsetting Trump
+Is this really December?
 
-Ted Cruz is gaining momentum in the polls, and Donald Trump is not so happy about it.
+It's felt more like fall than winter for much of the country, with record highs being broken by unseasonably warm temperatures.
 
-2 of 22 See more video
+5 of 19 See more video
 
-What you need to know about the climate agreement
+Plumber sues for $1M after truck shown with terrorists
 
-Delegates from 195 countries have approved a historic climate accord that seeks to slow the rise of greenhouse gasses. Here is what you need to know about the Paris Agreement.
+An owner of a Texas plumbing company says he's suing after his company truck was sold to Islamic State terrorists and being photographed with the group with his business logo still attached.
 
-3 of 22 See more video
-
-5-year-old has precious message for injured officer
-
-Even though they'd never met, when 5-year-old JJ Shaver heard Denver Police Officer Tony Lopez Jr. was shot seven times in the line of duty, his immediate response was "Can we see him?" JJ's dad took him to the hospital to deliver this message.
-
-4 of 22 See more video
+6 of 19 See more video
 
 Machete-wielding suspect killed at Walmart
 
 Police say the 20-year-old man was wielding a machete and two handguns and threatening customers before he was fatally shot by police. Video provided by Newsy
 
-5 of 22 See more video
+7 of 19 See more video
+
+'Hate messages' terrorize entire community for months
+
+A Maryland man who's been intimidatiing his neighbors and posting seemingly racial motivated signs that attack his next-door neighbor won't face any charges, but has agreed to move out of the house, according to authorities.
+
+8 of 19 See more video
 
 Viral dog moments even cat lovers will like
 
 Cats might rule the internet, but there is a reason why dogs are known as 'man's best friend'. Keri Lumm (@thekerilumm) shares dogs best viral moments of 2015.
 
-6 of 22 See more video
+9 of 19 See more video
+
+Dreamy polar bear cub will leave you smiling all day
+
+A 5-week-old polar bear cub at the Columbus Zoo and Aquarium kicks and sticks out her tongue while sleeping.
+
+10 of 19 See more video
+
+6 ways Santa unwinds before Christmas
+
+Santa Claus is hard at work preparing for the big day now, but he had several chances to blow off some steam earlier this holiday season.
+
+11 of 19 See more video
 
 VA hospital takes down veteran's Christmas decorations
 
 For 33 years, Vietnam veteran Ethel Jo Holloway has volunteered her time and money, decorating the Audie Murphy VA hospital for Christmas. This year some of her decorations were thrown out, and she can't believe why.
 
-7 of 22 See more video
+12 of 19 See more video
+
+Man slams pickup through hotel lobby
+
+Surveillance video shows a man allegedly driving his pickup truck into the lobby of an Oklahoma hotel. (Dec. 14)
+
+13 of 19 See more video
 
 5-year-old has precious message for injured officer
 
 Even though they'd never met, when 5-year-old JJ Shaver heard Denver Police Officer Tony Lopez Jr. was shot seven times in the line of duty, his immediate response was "Can we see him?" JJ's dad took him to the hospital to deliver this message.
 
-8 of 22 See more video
-
-Green Monday deals as good as Cyber Monday
-
-Looking for a way to save big this Green Monday? Money expert Matt Granite has you covered with all the biggest deals!
-
-9 of 22 See more video
+14 of 19 See more video
 
 Travel luggage-free with this unique app
 
 An app voted by 10Best.com readers as the best new travel app allows you to travel luggage-free by simplifying and speeding up the airport process for frequent travelers.
 
-10 of 22 See more video
+15 of 19 See more video
 
 Just Cool Cars: 1949 bus is art deco marvel
 
 USA TODAY's Chris Woodyard takes us on a tour of this beautiful 1949 Flxible Clipper bus.
 
-11 of 22 See more video
+16 of 19 See more video
 
 Tips to get the most from your coach class trip
 
 Struggling to keep up with discount carriers, major airlines are getting rid of even the smallest frills for coach passengers. Here's how can you protect you rights and get the most from your airline, no matter what zone you're seated in.
 
-12 of 22 See more video
+17 of 19 See more video
 
 Deadly crash sparks massive train tanker fire
 
 A deadly crash sparked a massive railroad tanker car fire in Portland, forcing residents to hunker down in their homes as thick black smoke filled the air.
 
-13 of 22 See more video
+18 of 19 See more video
 
 Customers beat clerk over cigar
 
 Police in Florida are searching for four men after they were caught on camera beating a gas station clerk. The clerk was attacked after he reportedly denied selling one of them a cigar, because they couldn't produce identification.
 
-14 of 22 See more video
+19 of 19 See more video Last VideoNext Video news
 
-Mailman punches dog, saves girl from attack
+Three years after Sandy Hook, 26 we'll never forget
 
-A mailman is being hailed as a hero after he came to the rescue of a 7-year-old girl being attacked by a dog. Witnesses say had it not been for the man, the little girl may have died.
+The rise of Trump: 26 weeks that changed 2016
 
-15 of 22 See more video
+9 hours, 47 minutes | OnPolitics
 
-Vacant house sends big message to Donald Trump
+Seattle becomes first U.S. city to let Uber drivers unionizeArmy says Bergdahl to face court martial for desertionSeeking action on guns, White House turns to governors sports
 
-A vacant house along a busy road is decorated with big, red anti-Trump signs as a form of protest for the presidential candidate.
+Beckham's big TDs keep Giants tied atop NFC East
 
-16 of 22 See more video
+Watch: Odell Beckham makes another unreal TD catch
 
-Real Grinch steals Christmas trees, but not spirit
+36 minutes | NFL
 
-A thief may have run off with this community's gifts for the needy, but something much greater could not be moved.
+Panthers shutter criticism of in-game photoCueto set to join Giants for $130 millionEx-high school coach pleads guilty in ref attack life
 
-17 of 22 See more video
+Why did John Boyega wear a glove to the 'Star Wars' premiere?
 
-5 things to know about Frank Sinatra
+Cross WordsAll GamesEntertain This! Box office awaits show of 'Star Wars' force Photos: 'Star Wars: The Force Awakens' premieres in L.A.Bill Cosby countersues 7 accusers money
 
-For what would have been Frank Sinatra's 100th birthday, USA TODAY takes a look at 5 things to know about the music icon's life.
+Fed rate hike likely to tap economy's brakes
 
-18 of 22 See more video
+StocksPortfolio TrackerAmerica's Markets Stocks seesaw higher as oil reboundsApple fails yet again: $123B vanishesThis week: Fed likely to raise rates for first time since 2006 tech
 
-Pop group detained over concerns they were 'prostitutes'
+Seattle becomes first U.S. city to let Uber drivers unionize
 
-Popular K-pop group Oh My Girl headed back to South Korea after being detained at Los Angeles International Airport for 15 hours.
+New EU privacy directive could cost U.S. firms billions
 
-19 of 22 See more video
+4 hours, 29 minutes | News
 
-Great tech gifts for non-techie people
+Yahoo shareholder wants Marissa Mayer goneAmazon stops selling some hoverboards over safetyApple fails yet again: $123B vanishes travel
 
-Columnist Marc Saltzman shows off awesome gadgets that are easy to set up and use.
+Top 20 museums in the USA
 
-20 of 22 See more video
+Hoist a pint to the Guinness Storehouse
 
-Santa drive-thru puts wish lists on fast track
+18 hours, 24 minutes | Food &. Wine
 
-Forget standing in line to see Santa. These kids didn't even have to get out of their cars to tell him what they want for Christmas.
+Isle Royale National Park: Over 400 islands of wildernessA customer-friendly TSA comes to the aid of fliers on TwitterCoach class continues downward spiral Reviewed.com
 
-21 of 22 See more video
+The best streaming devices of 2015
 
-Lost and lonely duck can finally stop running
+Why you shouldn't be afraid of MSG
 
-A lost and lonely duck who's been having a rough time running in the snow in cold Minnesota winter can finally stop running thanks to some unlikely friends.
+1 day, 8 hours | News
 
-22 of 22 See more video Last VideoNext Video news
-
-Ohio Planned Parenthood sues to 'protect abortion access'
-
-Paris climate deal: what comes next
-
-7 hours, 20 minutes | World
-
-Police: Two mosques near L.A. defacedToday in History for December 14thThe year in political selfies sports
-
-Broncos out of answers as Peyton question looms
-
-Patriots shed Texans, return to front of AFC race
-
-42 minutes | New England Patriots
-
-Jerry Jones: Dallas needs lots of workBell: Eagles win, but no love from LeSean McCoyRanking the top 5 NBA backcourts by the numbers life
-
-'Star Wars': Now &. then
-
-Cross WordsAll GamesEntertain This! 5 famous 'Star Wars' references, explainedJ.J. Abrams: ‘History repeats itself’ in new ‘Star Wars’Critic's Corner: 'Fargo' is meticulously crafted money
-
-There may be no bidders for Yahoo. Here's why
-
-StocksPortfolio TrackerAmerica's Markets Wells Fargo's Moser on stocks set for 2016 takeoffA customer-friendly TSA comes to the aid of fliers on TwitterFed likely to emphasize gradual rate hikes tech
-
-DoubleClick message should have prompted double take
-
-The perfect tech gifts for non-techie people
-
-1 day, 14 hours | Saltzman
-
-Buying a drone for Xmas? What you need to knowUber's suit, women risk takers, tech &. concussions: podcastMusk, tech titans put $1B toward AI research travel
-
-Where to celebrate Sinatra's 100th birthday in Las Vegas
-
-National World War II Museum: New "Road To Tokyo" exhibit…
-
-2 days, 16 hours | America
-
-Santa in the islands: Celebrating Christmas in the CaribbeanSail away to paradise in French PolynesiaBoeing rolls out first 737 MAX Reviewed.com
-
-The best smart bulbs of 2015
-
-The best holiday gifts for cooks and foodies
-
-1 week, 6 days | Tech
-
-Amazon Dash coming to Whirlpool washers in 2016Your oven is lying to you5 great electric and induction cooktops experience
-
-Savor holiday sweets around the world
+The best holiday gifts for cooks and foodiesGE's $600 dryer is simple, but effective5 sleek, space-saving wall ovens experience
 
 Get lost in Las Vegas' winter displays
 
-3 days, 11 hours | Las Vegas
+National WWII Museum: 'Road To Tokyo' exhibit opens
 
-The ice cold truth about cruise ship drink packagesAction! Six films to see before your Caribbean vacationExtra pints: Craft breweries find a thirsty following with NFL fans VOICES News
+3 days, 16 hours | America
 
-Ending ISIL (Part III): An ex-CIA chief’s plan
+Santa in the islands: Celebrating Christmas in the CaribbeanThe ice cold truth about cruise ship drink packagesPlan your city escape with USA TODAY Travel's destination guides VOICES Opinion
 
-Opinion
+Ted Cruz's divisive politics: Our view
 
-Column: The myth of the 'good guy with a gun'
+Rieder
+
+Rieder: NBC News' welcome fact-checking alliance
+
+Voices
+
+Voices: Muslim families play key role in anti-terrorist fight
+
+News
+
+Ending ISIS (Part III): An ex-CIA chief’s plan
+
+Voices
+
+Voices: Stop the presses! Buffalo has no snow
 
 News
 
@@ -336,50 +330,38 @@ Movies
 
 Quiz: How well do you know 'Star Wars'?
 
-Movies
-
-'M:I III,' 'Trek' give me new hope for 'Star Wars'
-
-Movies
-
-Countdown to 'Star Wars: The Force Awakens'
-
-Sponsor Story
-
-Interactive: Need-to-know resources for small biz owners
-
 Your Take
 
 #YourTake2015: Share your best moments of the year
 
+*   Photos: 'Star Wars: The Force Awakens' premieres in L.A.
 *   The year in political selfies
 *   The day in pictures
 *   SantaCon amasses sipping St. Nicks
-*   13 new Sinatra releases for his centennial
-*   Heisman Trophy winners since 1982
+*   December political cartoons from Gannett cartoonists
 
 Most Popular
 
-*   J.J. Abrams: ‘History repeats itself’ in new ‘Star Wars’
+*   Apple fails yet again: $123B vanishes
     
-*   Anti-ISIL strikes now aimed at moving targets
+*   Meet the strength coach who Alabama will pay like a head coach
     
-*   There may be no bidders for Yahoo. Here's why
+*   Adele reveals North American tour dates for 2016
     
-*   Eva Longoria is engaged
+*   Feds: Maryland man got thousands from Islamic State
     
 
 Trending on Social
 
-*   California in overdraft
+*   R2-D2, where are you? Droids hit 'Star Wars' carpet
     
-*   Patriots shed Texans, return to front of AFC playoff race
+*   After Sandy Hook and San Bernardino, optimism can still change gun politics: Gabby Giffords
     
-*   50 things we learned in Week 14 of the 2015 NFL season
+*   Giants' Kuhn leaves game against Dolphins with a knee injury
     
-*   Khalil Mack storms onto national stage with five-sack day
+*   Trump: 'Don't worry. it's just Iowa'
     
-*   NFL Week 14 injuries: Andy Dalton (thumb) to miss at least another week
+*   Carrie Fisher has mommy-daughter date for 'Star Wars' premiere
     
 
 SPONSOR CONTENT Right Now
