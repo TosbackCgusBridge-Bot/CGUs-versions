@@ -126,7 +126,7 @@ Target Corporation owns and operates Target Stores, websites, mobile application
 
 **Card Issuing Bank**
 
-We may share the information we collect with our banking partner, TD Bank USA N.A., which issues the Target Visa Card and Target Credit Card.
+We may share the information we collect with our banking partner, TD Bank USA N.A., which issues the Target MasterCard and Target Credit Card.
 
 **Service Providers**
 
@@ -254,11 +254,10 @@ Target Privacy Policy Scope
 
 This privacy policy applies to all current or former guest personal information, except for information collected by or provided in connection with:
 
-*   Use of a Target Pharmacy or the Rx Rewards program. See the Target Pharmacy Notice of Privacy Practices.
 *   Use of a Target Clinic. See the Target Clinic Notice of Privacy Practices.
 *   Use of the Target Healthful mobile application or mobile website. See the Target Healthful Privacy Policy.
 *   A Target Debit Card. See the Target Debit Card Privacy Policy.
-*   A Target Visa Card or a Target Credit Card. See the Target Credit Card Privacy Policy. Note, contact information you provide on a Target Credit Card application is provided to both TD Bank USA N.A. and to Target and its affiliates.
+*   A Target MasterCard or a Target Credit Card. See the Target Credit Card Privacy Policy. Note, contact information you provide on a Target Credit Card application is provided to both TD Bank USA N.A. and to Target and its affiliates.
 *   Use of Target’s Wireless Service. See the Target Wireless Service Privacy Policy.
 *   Completing of an application for employment with Target.
 
