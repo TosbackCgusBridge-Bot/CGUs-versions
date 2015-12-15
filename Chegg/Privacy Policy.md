@@ -5,8 +5,7 @@ Last Updated: September 28, 2015
 See also: Terms of Use  
 General Policies  
 Tutoring Policies  
-Intellectual Property Rights Owner Program  
-PRIVACY POLICY
+Intellectual Property Rights Owner Program PRIVACY POLICY
 
 We at Chegg, Inc. (collectively with any subsidiaries, "Chegg") have created this Privacy Policy to describe our practices regarding information we collect through our web sites (www.chegg.com &. www.instaedu.com), mobile features, applications and any other interactive features or services owned or controlled by Chegg that post a link to this Privacy Policy (each, a "Service" and collectively, the "Services"). Certain features discussed in this Privacy Policy may not be offered on each Service at any particular time. Note that we combine the information we collect from you through all of our websites (www.chegg.com &. www.instaedu.com), mobile applications, and other Services.
 
