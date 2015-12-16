@@ -715,6 +715,8 @@ For Large Parcel Curbside Deliveries, delivery usually takes between 3-6 busines
 
 For Large Parcel Inside Deliveries, delivery usually takes 1-4 weeks from the time items leave the warehouse (4-6 weeks for Canadian shipments). Your order will travel through a nationwide network of professional moving companies who will handle your item(s) with the utmost care. You will be contacted for a delivery appointment when your order reaches the delivery agent. Although the items are handled carefully throughout transit, we require that our orders undergo a thorough inspection at the delivery agent to ensure your item is delivered in perfect condition.
 
+For products that display 'Arrives by Christmas', Wayfair is not responsible for late shipments resulting from carrier delays or any other causes beyond our control.
+
 Tracking Packages
 
 *   Click on the " Track Packages" link in the Orders section on the Welcome page of My Account.
