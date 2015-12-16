@@ -119,6 +119,10 @@ More >>.
 *   OTA Blog
 *   Newsletters
 
+Tue, Dec 15, 2015 Top Ten Practices: Correct Collection Leads to Improved Connection
+
+For the past several years, marketers have been capturing email addresses at brick-and-mortar locations. As we approach another holiday buying season there will likely be a bump in this practice. The immediate value driver for the consumer is typically an electronic receipt, which is certainly a convenience, but the practice also helps brands to connect with customers. There are tradeoffs, however.
+
 Wed, Dec 9, 2015 It Sees You When You're Sleeping, It Knows When You're Awake
 
 I love my fitness tracker.  Not only does it affirm me (I met my today’s goal!), it also supports my inner narrative (of course I’m cranky – I slept badly last night… be nice to me).  Last holiday season it was the gift I didn’t even know I wanted until I got it.  This year, we’re both older and wiser. Trust in our relationship has shifted from blind innocence to practical, mature action.  I’ve come to realize more and more about how my device gathers, transmits and stores reams of personal data on me and my habits.
@@ -130,10 +134,6 @@ We already suspected our smart TVs were ‘watching’ our viewing behavior and 
 Wed, Oct 28, 2015 Moving to a World of Trusted IoT Devices &. Services
 
 Today represents a significant milestone, the release of the “last call” of the IoT Trust Framework.  For the past 8 months the IoT Trustworthy working group has been meeting, debating and sharing insights into criteria which today has formed the IoT Trust framework.  Over the next three weeks we will be soliciting input and reviewing feedback to integrate into what promises to be the foundation for an IoT trustworthy code of conduct and future certification programs. 
-
-Wed, Oct 21, 2015 Is Your Smart Home Outsmarting You?
-
-My wife and I recently bought a new house that is equipped with a smart technology to control the thermostat, garage door and driveway gate.  All of these handy features can be controlled from an app on my iPhone and it got me thinking about the potential privacy and security risks that might be lurking in those smart devices, apps and appliances in my home.  When we took ownership of the home, the installer for the cable provider to
 
 More >>. Resources
 
