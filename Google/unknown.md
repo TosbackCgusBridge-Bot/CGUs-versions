@@ -142,7 +142,7 @@ Demos &. Tools
 
 Help &. Communities
 
-Partner Program
+Technology Partner Program
 
 Related Products
 
