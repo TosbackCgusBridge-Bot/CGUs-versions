@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14316592169
+true true C14229130306
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p19.jcpenney.com SERVER NAME :->. dtcomexpr1l1j6 TIME :->. Mon Dec 14 11:30:42 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p19.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Tue Dec 15 11:28:12 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,93 +48,31 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Extra 15% Off Keurig Coffee Brewers, reg. $150-$350 (See final price in cart, excluded from coupon.)
+$10 Off\* $25 or More In Store and Online | Ends December 16 | Use Code: NOWSAV Get NOWSAV CouponOr, Extra 20% Off\* With Your JCPenney Credit Card In Store and Online | Ends December 16 | Use Code: WESHOP Get WESHOP CouponOr, Extra 15% Off\* With Any Other Method Of Payment Online Only | Ends December 16 | Use Code: WESHOP
 
-Shop Keurig Coffee Brewers
+\*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
 
-75% Off Select Holiday Trim and Decor, reg. $4-$180
+See exclusions and details Great Prices On St. John's Bay Sweaters For Him and Her 17.99 St. John's Bay Sweaters
 
-Shop Holiday Trim and Decor
+Select styles.
 
-50% Off Select Memory Toppers and Foam Pillows, reg. $40-$600
+Shop Men's Sweaters Shop Women's Sweaters     Star Wars: The Force Awakens Apparel On Sale 40 to 50% Off Star Wars Apparel
 
-Shop Memory Toppers and Foam Pillows
+Select styles.
 
-50 to 70% Off Select Sheets, reg. $30-$550
+Shop Star Wars Apparel Holiday Jewelry Sale Going On Now Holiday Jewelry Sale | December 8-24
 
-Shop Sheets
+20 to 60% Off Jewelry, select styles
 
-50 to 60% Off Select Sleepwear for Her, reg. $18-$78
+Shop All Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Shop Love in Motion Get Ready For Guests With Comforters and Bedding 30 to 50% Off Home Collections
 
-Shop Sleepwear for Her
+Select styles.
 
-60% Off Select Juniors Coats and Jackets, reg. $52-$100
+Shop Home Sale Shop Comforters and Bedding Save On Pajamas For The Family 50 to 60% Off Sleepwear For The Family
 
-Shop Juniors Coats and Jackets
+Select styles.
 
-60% Off Select Plus St. John's Bay Sweaters, reg. $36-$50
-
-Shop Plus St. John's Bay Sweaters
-
-50% Off Select Women's Dresses, reg. $60-$120
-
-Shop Women's Dresses
-
-50% Off Select Worthington Tops, reg. $30-$48
-
-Shop Worthington Tops
-
-50% Off Select Girl's Boots, reg. $35-$55
-
-Shop Girl's Boots
-
-50% Off Select Clarks Boots, reg. $134-$200 (excluded from coupon)
-
-Shop Clarks Boots
-
-60 to 70% Off Select Men's Coats and Jackets, reg. $23.99-$199.99
-
-Shop Men's Coats and Jackets
-
-50% Off Select Gemstone Jewelry, reg. $249.98-$324.98
-
-Shop Gemstone Jewelry
-
-50% Off Select Pearl Jewelry, reg. $249.98-$324.98
-
-Shop Pearl Jewelry
-
-9.99 Select Stafford Sleep Pants, reg. $28-$30
-
-Shop Stafford Sleep Pants
-
-15.99 Select Men's St. John's Bay Sweaters, reg. $42
-
-Shop Men's St. John's Bay Sweaters
-
-39.99 Guys' Levi's(R) 511(TM) Slim Fit Jeans, orig. $68 (excluded from coupon)
-
-Shop Levi's
-
-50 to 60% Off Select Boys' and Girls' Sleepwear, reg. $20-$44
-
-Shop Boys' and Girls' Sleepwear
-
-5.99 Select Okie Dokie Match-Ups, reg. $12
-
-Shop Okie Dokie Match-Ups
-
-50% Off Select Bath Towels and Rugs, reg. $6-$300
-
-Shop Bath Towels and Rugs
-
-60% Off Select Bedding Sets, reg. $80-$550
-
-Shop Bedding Sets Star Wars 40 to 50% Off Star Wars(TM): The Force Awakens Apparel
-
-Select styles
-
-Shop Star Wars Apparel Disney Collection Shop Disney Now E-Gift Cards
+Shop Sleepwear For The Family Disney Collection Shop Disney Now E-Gift Cards
 
 Customize with a message, photo or video.
 
@@ -142,7 +80,7 @@ Shop E-Gift Cards Now Holiday Gift Shop
 
 Where Giving Begins: Gifts they want. Savings you love.
 
-Shop All Gifts Download the JCPenney App and Get Shopping Check Out The App Download on the App Store Get it on Google Play
+Shop All Gifts Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
