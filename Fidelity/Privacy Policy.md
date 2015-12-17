@@ -17,14 +17,15 @@ Search Fidelity.com
     *   Account PositionsLog In Required
     *   TradeLog In Required
     *   Active Trader ProLog In Required
-    *   Transfer Money / SharesLog In Required
+    *   TransferLog In Required
     *   Cash ManagementLog In Required
     *   BillPayLog In Required
     *   Full ViewLog In Required
     *   ProfileLog In Required
-    *   Update Accounts / FeaturesLog In Required
+    *   Account FeaturesLog In Required
     *   StatementsLog In Required
-    *   Retirement Distribution CenterLog In Required
+    *   Tax InformationLog In Required
+    *   Retirement DistributionsLog In Required
 *   News &. Insights
     *   News
     *   Insights
