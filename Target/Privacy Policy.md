@@ -52,7 +52,7 @@ Target participates in interest-based advertising (IBA), also known as Online Be
 
 We allow third-party companies to collect certain information when you visit our websites or use our mobile applications. This information is used to serve ads for Target products or services or for the products or services of other companies when you visit this website or other websites. These companies use non-personally-identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, hardware/software information, cookie and session ID) and personally identifiable information (e.g., static IP address) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These parties typically use a cookie, web beacon, or other similar tracking technologies to collect this information.
 
-**Our Do Not Track Policy:** Some browsers have a “do not track” feature that lets you tell websites that you do not want to have your online activities tracked. At this time, we do not respond to browser “do not track” signals, but we do provide you the option to opt out of interest based advertising. To learn more about IBA or to opt-out of this type of advertising, visit the Network Advertising Initiative website and the Digital Advertising Alliance website. Options you select are browser and device-specific.
+**Our Do Not Track Policy:** Some browsers have a "do not track" feature that lets you tell websites that you do not want to have your online activities tracked. At this time, we do not respond to browser "do not track" signals, but we do provide you the option to opt out of interest based advertising. To learn more about IBA or to opt-out of this type of advertising, visit the Network Advertising Initiative website and the Digital Advertising Alliance website. Options you select are browser and device-specific.
 
 **Mobile Location Information**
 
@@ -172,7 +172,7 @@ You also have the ability to unsubscribe from promotional e-mails via the opt ou
 
 _Text Messages_
 
-We distribute mobile coupons and other text messages to devices of guests who have requested this information via an opt in request. To opt out of Target mobile messaging, reply “stop” to text messages sent from 827438 (TARGET). This will opt you out of all Target text message campaigns from 827438 (TARGET). To opt out of Target Healthful text messaging, reply “stop” to 84879 or call 888-347-4944.
+We distribute mobile coupons and other text messages to devices of guests who have requested this information via an opt in request. To opt out of Target mobile messaging, reply "stop" to text messages sent from 827438 (TARGET). This will opt you out of all Target text message campaigns from 827438 (TARGET). To opt out of Target Healthful text messaging, reply "stop" to 84879 or call 888-347-4944.
 
 _Push Notifications_
 
@@ -228,7 +228,7 @@ How Is Your Personal Information Protected?
 
 **Security Methods**
 
-We maintain administrative, technical, and physical safeguards to protect your personal information. When we collect or transmit sensitive information such as a credit or debit card number, we use industry standard methods to protect that information. However, no e-commerce solution, website, mobile application, database or system is completely secure or “hacker proof.” You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
+We maintain administrative, technical, and physical safeguards to protect your personal information. When we collect or transmit sensitive information such as a credit or debit card number, we use industry standard methods to protect that information. However, no e-commerce solution, website, mobile application, database or system is completely secure or "hacker proof." You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
 
 **E-mail Security**
 
