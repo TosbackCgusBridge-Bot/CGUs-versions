@@ -85,289 +85,331 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Elections Analysis: A combative debate for top Republican candidates Read StoryCruz wants Trump to pay for his wall'Happy hour' debateBlitzer tells Cruz 'Wait your turn'Bush calls Trump 'chaos candidate'
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Washington Congress to vote on $1.1 trillion spending, $629 billion in tax cuts
 
 TOP STORIES
 
-*   OnPolitics Trump indicates he'll stick with Republicans
-*   OnPolitics Fifth GOP debate: Highlights from Las Vegas
-*   OnPolitics Trump vs. Bush: 'Am I talking or are you talking?'
-*   The most quotable moments from the fifth Republican debate
-*   Congress reaches deal to fund government
-*   L.A. schools to reopen after terrorism scare
-*   Case of burned-alive teen results in 17 arrests
-*   Southwest plane skids off runway at Tenn. airport
-*   Apple hit with more bad news on iPhones
-*   Reports: Kelly Rutherford loses custody of kids
-*   Climate change impacts will last for decades
-*   See Vanna White's adorable wardrobe malfunction
-
-Nation Now
-
-Family of girl who killed herself sues school district
-
-Nation
-
-Feds, some states extend Obamacare enrollment for two days
-
-People
-
-Fiancé of 'Downton' star Michelle Dockery dies
+*   Nation Baltimore on edge after mistrial in first Freddie Gray case
+*   Personal Finance Sorry, savers — rate hike doesn't mean much for you (yet)
+*   TV 'Big Bang' ends the year with a bang
+*   Feds ask Supreme Court to stay out of pot lawsuit
+*   How NFL fine money helps ex-players in distress
+*   Higher interest rates: Winners and losers
+*   China ends U.S. home streak in Wambach's finale
+*   Man who 'tripped,' fell on teen cleared of rape
+*   Google 'disappointed' by driverless car rules
+*   Surprise soldier homecoming for 4 daughters
+*   Report: U.S., Cuba will resume commercial flights
+*   Clinton: I'd rather be president than Beyonce
 
 OnPolitics
 
-GOP Power Rankings: Cruz crowned as the new king
-
-2015 YEAR IN REVIEW Money
-
-USA TODAY's Innovator of the Year is ...
-
-News
-
-These are the 10 most-read stories of 2015
+Nobel laureate condemns Trump 'hatred'
 
 Nation Now
 
-15 notable people who passed in 2015
+Car dealer who scammed buyers works for IRS
 
-Personal Finance
+WNBA
 
-Year-end financial tasks you can probably safely skip
+Gilbert Arenas said terrible things about WNBA
+
+Humankind
+
+'Love at first sight' for rescued Golden and new owner
+
+2015 YEAR IN REVIEW Sponsor Story
+
+The top 5 stocks of the past 10 years
+
+News
+
+Best USA TODAY photos of 2015
+
+Nation
+
+At $1.7 billion, 2015 was USA's costliest wildfire season on record
+
+Sports
+
+Sports figures we lost in 2015
+
+Lamar Odom, 'Jurassic World,' Paris: among 2015's top Google searches
+
+At the top of Google's annual list of its top searches are Lamar Odom, the tragic attacks in Paris and dinosaurs on the big screen. Video provided by Newsy
+
+1 of 27 See more video
+
+Will Smith - 'We're going to get smashed by 'Star Wars'
+
+Will Smith - 'We're going to get smashed by 'Star Wars'
+
+2 of 27 See more video
+
+Filming 'Concussion' was 'bittersweet' for star Will Smith
+
+Will Smith tells USA TODAY's Bryan Alexander it was "bittersweet" for the Philadelphia native to work on the film "Concussion" which focuses on Pittsburgh Steelers players.
+
+3 of 27 See more video
+
+How Fed's rate hike impacts your money
+
+The Federal Reserve's hike in its benchmark short-term interest rate is likely to to have an impact on your wallet.
+
+4 of 27 See more video
+
+Protesters upset after mistrial in 1st Freddie Gray case
+
+After a mistrial was declared in the first officer's trial in the Freddie Gray case, protestors outside the courthouse reacted
+
+5 of 27 See more video
+
+What does Apple want for Christmas?
+
+What would you buy with $200 Billion? Could GoPro, Tesla or Microsoft be it's next target? USA Today's Laura Mandaro has more.
+
+6 of 27 See more video
+
+Instructions for stress-free gift wrapping
+
+Are you stressing out about wrapping your holiday gifts? Watch this video to learn how to make an impression on your family and friends with your gift wrapping skills.
+
+7 of 27 See more video
+
+Wacky song tells what Millennials 'want' for Christmas
+
+'The 12 Days of Christmas' song gets a makeover this year, with Millennials in mind! Check out this hilarious parody of the famous Christmas tune.
+
+8 of 27 See more video
+
+'Love at first sight' for rescued Golden and new owner
+
+Andrew Powell and his Golden Retriever Gunner have a lot in common. Both have overcome huge obstacles to get to where they are today.
+
+9 of 27 See more video
+
+Student-run holiday jingle service open for business
+
+Student-run holiday jingle service open for business
+
+10 of 27 See more video
+
+'Point Break' wingsuit scene "most hardcore stunt" ever
+
+Crew at the 'Point Break' world premiere told us the wingsuit sequence, filmed over the course of 60+ jumps, is "something to behold."
+
+11 of 27 See more video
+
+Dad Rock Holiday Survival Guide: Holiday songs
+
+The cohosts of USA TODAY's Dad Rock podcast recommend their favorite holiday songs.
+
+12 of 27 See more video
+
+If you can tie your shoe, you can make this bow
+
+Here is a holiday gift bow tying method that is as easy as tying your shoe. With this easy method you are sure to have the prettiest gifts under the tree this year.
+
+13 of 27 See more video
 
 'Star Wars' names explained
 
-Star Wars' writer Lawrence Kasdan tells USA TODAY's Carly Mallenbaum about naming the character in hit fim series.
+'Star Wars' writer Lawrence Kasdan tells USA TODAY's Carly Mallenbaum about naming the characters in the movies.
 
-1 of 20 See more video
+14 of 27 See more video
+
+Grownups rush to buy 'adult onesies'
+
+Have you ordered yours yet? According to Google, "adult onesie" is the most popular search in the holiday fashion category! Keleigh Nealon (@keleighnealon) has the story!
+
+15 of 27 See more video
+
+Letting your dog share your bed can mean better sleep
+
+Studies show sleeping with a dog can make you feel more secure and relaxed, making your sleep that much better. Jordyn Rolling (@jordynrolling) can explain!
+
+16 of 27 See more video
 
 Happy ending to story of homeless man and his dog
 
 When Pete became homeless, he walked 5 miles every day to visit his dog in the shelter. One year later, we're happy to report that Pete and Buster are together again.
 
-2 of 20 See more video
-
-10 most-read stories of 2015
-
-The Paris attacks, Lamar Odom, Bobbi Kristina Brown and the San Bernardino, Calif., shootings are among the stories you clicked on most this year.
-
-3 of 20 See more video
-
-Willard Scott jokes 'I'm expiring, not retiring'
-
-After 65 years of laughs and memories, Willard Scott said farewell on NBC's 'Today.'
-
-4 of 20 See more video
-
-BBQ guys 'twist' a cupcake with moonshine
-
-The guys behind Mr. Troy's Carolina Twisted share their secrets for concocting creative cupcake flavors while competing at the 2015 World Food Championships in Celebration, Florida.
-
-5 of 20 See more video
+17 of 27 See more video
 
 Pigeons lead cops to $70,000 marijuana grow house bust
 
 A group of pigeons inadvertently ratted out a grow house operation in the UK. Gillian Pensavalle (@GillianWithaG) explains.
 
-6 of 20 See more video
-
-How to glitter bomb your beard
-
-Step-by-step instructions for this fabulously festive look.
-
-7 of 20 See more video
-
-Apparently some of us don't know where the White House is
-
-Gillian Pensavalle (@GillianWithaG) has the results of a survey saying Americans can't locate famous landmarks such as the Grand Canyon, Mount Rushmore, and even the White House.
-
-8 of 20 See more video
+18 of 27 See more video
 
 Tina Fey is hilariously bad at celebrity impressions
 
 Tina Fey and Jimmy Fallon took turns doing celebrity impressions on "The Tonight Show," and the results were so bad they were funny. Video provided by Newsy
 
-9 of 20 See more video
+19 of 27 See more video
+
+Best moments from the 5th GOP debate in 3 minutes
+
+Watch the best moments from the CNN GOP debate as Republican presidential candidates trade blows.
+
+20 of 27 See more video
 
 Dad makes reindeer drone when son worries Santa won't find them
 
 Santa will know exactly where this kid's home is after his father made a reindeer drone mapping the path to their new house. Keleigh Nealon (@keleighnealon) has the story.
 
-10 of 20 See more video
+21 of 27 See more video
 
 Secret Santas strike again, shower strangers with cash
 
 Watch these reactions as two Secret Santas hand out $14,000 in $100 bills to complete strangers.
 
-11 of 20 See more video
+22 of 27 See more video
 
 Plumber sues for $1M after truck shown with terrorists
 
 An owner of a Texas plumbing company says he's suing after his company truck was sold to Islamic State terrorists and being photographed with the group with his business logo still attached.
 
-12 of 20 See more video
+23 of 27 See more video
 
-Machete-wielding suspect killed at Walmart
+Dad Rock Holiday Survival Guide: more box sets!
 
-Police say the 20-year-old man was wielding a machete and two handguns and threatening customers before he was fatally shot by police. Video provided by Newsy
+Need a gift for the music lover in your life? Dad Rock podcast cohosts Patrick Foster and Jim Lenahan share a few more of their favorite box sets from this year.
 
-13 of 20 See more video
+24 of 27 See more video
 
-'Hate messages' terrorize entire community for months
+This 'wedding cake' castle is visible from highway
 
-A Maryland man who's been intimidatiing his neighbors and posting seemingly racial motivated signs that attack his next-door neighbor won't face any charges, but has agreed to move out of the house, according to authorities.
+Take a tour through Tovrea Castle, one of a small group of landmark American castles.
 
-14 of 20 See more video
+25 of 27 See more video
 
-Viral dog moments even cat lovers will like
+First look at new giant panda cub Bei Bei
 
-Cats might rule the internet, but there is a reason why dogs are known as 'man's best friend'. Keri Lumm (@thekerilumm) shares dogs best viral moments of 2015.
+The latest addition to the Smithsonian National Zoo in Washington, D.C., giant panda cub Bei Bei made his first debut to the press before greeting throngs of eager visitors later next year. (Dec. 16)
 
-15 of 20 See more video
+26 of 27 See more video
 
-Dreamy polar bear cub will leave you smiling all day
+Experienced 12-year-old car thief caught on video
 
-A 5-week-old polar bear cub at the Columbus Zoo and Aquarium kicks and sticks out her tongue while sleeping.
+A 12-year-old Florida boy with a long history of car theft was caught on surveillance camera stealing an 89-year-old man's car at a gas station. Gillian Pensavalle (@GillianWithaG) has the story behind the video.
 
-16 of 20 See more video
+27 of 27 See more video Last VideoNext Video news
 
-VA hospital takes down veteran's Christmas decorations
+That Fed move: No reason to freak out people
 
-For 33 years, Vietnam veteran Ethel Jo Holloway has volunteered her time and money, decorating the Audie Murphy VA hospital for Christmas. This year some of her decorations were thrown out, and she can't believe why.
+Trump takes jabs at Bush at rally in Arizona
 
-17 of 20 See more video
+3 hours, 59 minutes | Elections
 
-Man slams pickup through hotel lobby
+Surprise soldier homecoming for four unsuspecting daughtersToday in History for December 17thTurtle recovers from fishing hook, returned to sea sports
 
-Surveillance video shows a man allegedly driving his pickup truck into the lobby of an Oklahoma hotel. (Dec. 14)
+NFL QB rankings: What's wrong with Matt Ryan?
 
-18 of 20 See more video
+Arenas' shocking remarks on WNBA
 
-5-year-old has precious message for injured officer
+6 hours, 1 minute | WNBA
 
-Even though they'd never met, when 5-year-old JJ Shaver heard Denver Police Officer Tony Lopez Jr. was shot seven times in the line of duty, his immediate response was "Can we see him?" JJ's dad took him to the hospital to deliver this message.
+Brady's presser cut short after Trump questionsChina ends U.S. home streak in Wambach's finaleDwight Howard really wants to make Rockets work life
 
-19 of 20 See more video
+'Big Bang' ends the year with a bang
 
-Tips to get the most from your coach class trip
+Cross WordsAll GamesEntertain This! 'Star Wars:' Here's what the critics are saying about 'Force Awakens'Killer fashion arrives at the 'Star Wars' London premiereLamar Odom, 'Jurassic World,' Paris: among 2015's top Google searches money
 
-Struggling to keep up with discount carriers, major airlines are getting rid of even the smallest frills for coach passengers. Here's how can you protect you rights and get the most from your airline, no matter what zone you're seated in.
+Borrowers' interest rates already rising, but savers' rates aren't
 
-20 of 20 See more video Last VideoNext Video news
+StocksPortfolio TrackerAmerica's Markets Rieder: Review-Journal tucked in Vegas shadowsFirst take: It's about time, Fed!Why is milk in the back? tech
 
-There's this movie called 'Star Wars.' Heard of it?
+Google 'disappointed' by proposed restrictions on driverless cars
 
-Fifth GOP debate: Highlights from Las Vegas
+Washington state files suit against tech support scammer
 
-1 hour | OnPolitics
+4 hours, 28 minutes | News
 
-FAA: Southwest plane rolls off taxiway at Nashville airport, injuring…Terrorism is top debate topic after Paris, CaliforniaSouthwest Airlines plane rolls off Taxiway sports
+Uber rides now easily hailed within Facebook Messenger appSwagway hoverboards back for sale on AmazonApple's $200B war chest ramps up acquisition talk travel
 
-Serena explains idea behind Sports Illustrated cover
+'Star Wars' cast flies to London on Dreamliner painted like R2-D2
 
-Wisconsin coach retires, effective immediately
+Photo tour: Las Vegas' Suncoast Hotel &. Casino
 
-38 minutes | Bigten
+1 day, 18 hours | Las Vegas
 
-Reports: Pats RB out for season with hip injuryNightengale: Heyward gives Cubs next great dynastyPeyton to practice, Osweiler starter vs. Steelers life
+The worst places to sit on a planeBest and worst airports: J.D. Power rankingsThe ultimate gingerbread structures to see this season Reviewed.com
 
-'The Voice' crowns champ for Season 9
+Here's what USDA beef grades actually mean
 
-Cross WordsAll GamesEntertain This! Reports: Kelly Rutherford loses custody of childrenSerkis: Development of 'Snoke' was organic'Star Wars' names explained money
+MPAA study: Parents prefer violence to sex
 
-Fed poised to finally lift rates — it hopes
+8 hours, 29 minutes | Life
 
-StocksPortfolio TrackerAmerica's Markets Vegas mystery: Who owns 'Review-Journal' now?Loan to terror couple challenges regulatorsHalliburton, Baker Hughes extend closing to April tech
+The best holiday gifts for cooks and foodiesThese jeans are made from self-cleaning denimThis toy oven makes Girl Scouts cookies year-round experience
 
-Facebook tests changes to 'real name' policy
+Holiday spirit: These 10 hotels make the season bright
 
-Slack hits 2M daily users, sets up $80M app developer fund
+Classic Hollywood goes to the Caribbean
 
-3 hours, 12 minutes | Tech
+1 day, 17 hours | Caribbean
 
-Ford to test self-driving cars on Calif. roadsYelp falls 9% as Facebook tests local business reviewsNew European privacy rule represents huge change travel
+Guinness Storehouse celebrates 15 yearsIsle Royale National Park: Over 400 islands of wildernessPlan your city escape with USA TODAY Travel's destination guides VOICES Rieder
 
-American castles: Majestic fortresses right here at home
-
-Photo tour: The elegance of a Princess ship
-
-16 hours, 58 minutes | Cruises
-
-Christmas meals around the worldTop 20 museums in the USAStar Wars: Join the dark side at Walt Disney World Reviewed.com
-
-How 'hard water' hurts your dishwasher
-
-Hands-on with the Girl Scouts Cookie oven
-
-10 hours, 19 minutes | Tech
-
-The best holiday gifts for cooks and foodiesThe best streaming devices of 2015Why you shouldn't be afraid of MSG experience
-
-Deck the halls with festive holiday drinks
-
-Isle Royale National Park: Over 400 islands of wilderness
-
-1 day, 16 hours | America
-
-Get lost in Las Vegas' winter displaysFloating museums: The best cruise ships for art loversSanta in the islands: Celebrating Christmas in the Caribbean VOICES Opinion
-
-Markets are never ready for the Fed: David Callaway
+Rieder: Newspaper shouldn't be a Vegas mystery
 
 Opinion
 
-Hang up on NSA phone tracking: Our view
-
-Opinion
-
-Punchlines: Where’s Hillary Clinton?
+The Fed makes the right call: Our view
 
 Voices
 
-Voices: One year later, U.S.-Cuba bonds deepen
+Voices: We Syrians aren't the real security threat
+
+Opinion
+
+Cruz and Rubio steal the show: Ken Rudin
 
 Nation Now
 
 Test your news knowledge with USA TODAY's year-end quiz
 
-News
-
-Everything you need to know this holiday season
-
 Movies
 
 Quiz: How well do you know 'Star Wars'?
+
+Music
+
+Survive the holidays, with help from Dad Rock
 
 Your Take
 
 #YourTake2015: Share your best moments of the year
 
+*   The fifth Republican debate in Las Vegas
 *   2015: The year in pictures
 *   Photos: 'Star Wars: The Force Awakens' premieres in L.A.
 *   Your Take: USA TODAY's top reader photo of the day
 *   December political cartoons from Gannett cartoonists
-*   The year in political selfies
 
 Most Popular
 
-*   Reports: Kelly Rutherford loses custody of children
+*   Man shames panhandlers who refuse his job offer
     
-*   Apple hit with more bad news on iPhones as shares fall again
+*   Millionaire who said he 'tripped,' fell on teen cleared of rape charge
     
-*   Adele reveals North American tour dates for 2016
+*   'Big Bang' ends the year with a bang
     
-*   Fiance of 'Downton Abbey' star Michelle Dockery dies at 34
+*   'Voice' winner Smith looks ahead to music career
     
 
 Trending on Social
 
-*   At Michigan State and Oklahoma, revenue sports are four of a kind
+*   Millionaire who said he 'tripped,' fell on teen cleared of rape charge
     
-*   Congress reaches deal on 2016 spending bill to fund federal government
+*   USA TODAY GOP Power Rankings: Cruz the new king, Christie gains ground
     
-*   Marines relax rules on lock, twist hairstyles
+*   After Sandy Hook and San Bernardino, optimism can still change gun politics: Gabby Giffords
     
-*   Trump indicates he'll stick with Republicans
+*   Google 'disappointed' by proposed restrictions on driverless cars
     
-*   Wisconsin coach Bo Ryan announces immediate retirement
+*   China ends USA's 104-game home unbeaten streak in Abby Wambach's finale
     
 
 SPONSOR CONTENT Right Now
