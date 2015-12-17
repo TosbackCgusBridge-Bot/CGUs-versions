@@ -194,8 +194,11 @@ Get Sencha NewsBuy Online
     *   Forum
 
 *   Resources
-    *   Webinars
     *   Videos
+    *   Webinars
+    *   Examples
+    *   Datasheets
+    *   White Papers
 
 *   Company
     *   Overview
