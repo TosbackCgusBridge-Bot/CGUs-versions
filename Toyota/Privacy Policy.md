@@ -140,6 +140,7 @@ Whether you're across town or across the country, use this feature to find the n
 *   Toyota de Puerto Rico
 *   Toyota Mexico
 *   SERVCO (Hawaii)
+*   Toyota USA
 
 Toyota USA Newsroom
 
@@ -197,7 +198,7 @@ Crossovers &. SUVs
 *   RAV4
 *   Sequoia
 
-Hybrids &. EVs
+Hybrids
 
 *   Avalon Hybrid
 *   Camry Hybrid
@@ -282,11 +283,16 @@ Buy Toyota
 *   **Certified Used Vehicles**
 *   **Local Specials**
 
-Your Privacy Rights **Personal Information Sharing Practices for 2014**  
-During 2014, Toyota shared diversonal information about our customers with specific third parties where the information was used for the recipient's own marketing.  
+Your Privacy Rights **Personal Information Sharing Practices for 2015**  
+During 2015, Toyota shared diversonal information about our customers with specific third parties where the information was used for the recipient's own marketing.  
+  
+Learn more  
+**Toyota Safety Connect® Connected Vehicle Services Privacy and Protection Notice**  
+Your vehicle may be equipped with Connected Vehicle Services technology that electronically transmits Vehicle Data to Toyota. These Services are called Safety Connect®. Toyota may use your Vehicle Data to respond to vehicle emergencies, find destinations you request, activate remote services, help you manage your vehicle service and maintenance, improve vehicle safety, develop new and better vehicles, confirm vehicle quality and analyze vehicle trends. We also collect and use your Personal Information to facilitate your usage of Connected Vehicle Services technology, fulfill your requests, and manage our relationship with you.  
+  
 Learn more  
 **Toyota Privacy Policy – Summary**  
-This summary of our privacy policy applies to Web sites operated by Toyota Motor Sales, U.S.A., Inc. ("Toyota") (all such Web sites are collectively referred to as the "Sites"). Last Updated January 1, 2015  
+This summary of our privacy policy applies to Web sites operated by Toyota Motor Sales, U.S.A., Inc. ("Toyota") (all such Web sites are collectively referred to as the "Sites"). Last Updated January 1, 2016  
 **Information Collected**
 
 *   We collect personal information you choose to provide which may include your name, mailing address, email address, and phone number together with certain demographic information from you in connection with surveys or from commercially available services.
@@ -328,23 +334,17 @@ To read our full Privacy Policy click here.
 
   
 
-**Privacy and Cookie Notice**
-
-  
+**Toyota Online Privacy Statement**
 
 \[Versión en Español\]
 
-  
-
-UPDATED AS OF: January 14, 2015
-
-  
+UPDATED AS OF: January 1, 2016
 
 Toyota Motor Sales, U.S.A., Inc. ("Toyota", "we", "us", or "our") is committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, web pages, interactive features, applications, Twitter, Facebook and other social media networks, and mobile applications (“Platforms”). If you are a resident of the European Union, please use the applicable European Union websites and applications, as our Platforms are intended only for the United States residents.
 
   
 
-We take your privacy seriously, no matter how you access our Platforms. For a version of this Privacy Notice optimized for our mobile applications, please click here.
+**Toyota Safety Connect®** This Online Privacy Statement does not apply specifically to our Toyota Safety Connect® Connected Vehicles Services. Please go to www.toyota.com/privacyvts to learn more about our vehicle and personal data collection, use and sharing practices.
 
   
 **QUICK GUIDE TO CONTENTS**  
@@ -380,7 +380,7 @@ _Usage Information._ Whenever you visit or interact with the Platforms, we, as w
 
 _Device Identifier._ We automatically collect your IP address or other unique identifier ("Device Identifier") for the Device (computer, mobile phone, tablet or other device) you use to access the Platforms. A Device Identifier is a number that is assigned to your Device when you access a website or its servers, and our computers identify your Device by its Device Identifier. We, and our vendors, may use a Device Identifier to, among other things, administer the Platforms, help diagnose problems with our servers, analyze trends, track users’ web page movements over time and across different websites, help identify you and your shopping cart, and gather broad demographic information for aggregate use.
 
-_Cookies. Pixel Tags._ The technologies used on the Platforms to collect Usage Information, including Device Identifiers, include but are not limited to: cookies (data files placed on a Device when it is used to visit the Platforms), mobile analytics software and pixel tags (transparent graphic images, sometimes called web beacons or tracking beacons, placed on a web page or in an email, which indicates that a page or email has been viewed). Cookies may also be used to associate you with social networking sites like Facebook and Twitter and, if you so choose, enable interaction between your activities on the Platforms and your activities on such social networking sites. We, or our vendors, may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while visiting our Platforms (such as allowing us to select which ads or offers are most likely to appeal to you, based on your interests, preferences, location or demographic information). A pixel tag may tell your browser to get content from another server.
+_Cookies. Pixel Tags._ The technologies used on the Platforms to collect Usage Information, including Device Identifiers, include but are not limited to: cookies (data files placed on a Device when it is used to visit the Platforms), mobile analytics software and pixel tags (transparent graphic images, sometimes called web beacons or tracking beacons, placed on a web page or in an email, which indicates that a page or email has been viewed). Cookies may also be used to associate you with social networking sites like Facebook and Twitter and, if you so choose, enable interaction between your activities on the Platforms and your activities on such social networking sites. We, or our vendors, may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while visiting our Platforms (such as allowing us to select which ads or offers are most likely to appeal to you, based on your interests, preferences, location or demographic information). Please note that Dealer Advertising Associations may opt to place cookies or similar files on your Device to personalize your experience on their websites, including www.buyatoyota.com. A pixel tag may tell your browser to get content from another server.
 
 To learn how you may be able to reduce the number of cookies you receive from us, or delete cookies that have already been installed in your browser’s cookie folder, please refer to your browser’s help menu or other instructions related to your browser. If you do disable or opt out of receiving cookies, please be aware that some features and services on our Platforms may not work properly because we may not be able to recognize and associate you with your Toyota account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests. If you block or delete cookies, not all tracking that we have described in this privacy statement will stop. Some browsers have a "do not track" feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so we are not currently set up to respond to those signals.
 
@@ -405,8 +405,6 @@ Except as described here, we will not provide any of your Personal Information t
 **Business Transfers.** We may share your Personal Information with other entities and our affiliates primarily for business and operational purposes. We may also share your information with our authorized dealers and their holding companies, dealer advertising associations and distributors for their own use. In the event that Toyota is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction.
 
 **Legal Disclosure.** We may transfer and disclose your information to third parties to comply with a legal obligation. when we believe in good faith that the law or a governmental authority requires it. to verify or enforce our Terms of Use or other applicable policies. to address fraud, security or technical issues. to respond to an emergency. or otherwise to protect our rights or property or security of third parties, visitors to our Platforms or the public.
-
-**Toyota Safety Connect®:** If you have a Toyota Safety Connect® Subscription Agreement, we collect Personal Information necessary to meet your requests and may use your Personal Information to facilitate your usage of the Toyota Safety Connect® Service to which you subscribe. We may share your information with our business partners to assist us in fulfilling your requests.
 
   
 
@@ -444,7 +442,7 @@ The Platforms are not directed to children under 13. We do not knowingly collect
 
   
 
-**8\. SECURITY OF YOUR INFORMATION.**
+**8\. SECURITY OF YOUR INFORMATION AND PHISHING SCAMS.**
 
 We take information security seriously and use certain reasonable security measures to help protect your Personal Information. However, no electronic data transmission or storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use the Platforms and provide us with your information at your own risk. When we collect sensitive information on our sites or within our mobile application (such as credit card number or geo-location information), we encrypt the transmission of that information using secure socket layer technology.
 
@@ -491,9 +489,9 @@ Torrance, CA 90501
 
   
 
-**PERSONAL INFORMATION SHARING PRACTICES FOR 2014**  
-(Effective as of January 01, 2015)  
-During 2014, we shared the following types of personal information about our customers with SiriusXM Satellite Radio, Toyota Financial Services and our authorized Toyota dealers where the information was used for the recipient's own marketing:
+**PERSONAL INFORMATION SHARING PRACTICES FOR 2015**  
+(Effective as of January 01, 2016)  
+During 2015, we shared the following types of personal information about our customers with SiriusXM Satellite Radio, Toyota Financial Services and our authorized Toyota dealers where the information was used for the recipient's own marketing:
 
 Name  
 Address  
@@ -522,14 +520,14 @@ Toyota Customer Relations - Mailstop WC 11
 19001 S. Western Ave.  
 Torrance, CA 90501
 
-Legal Terms _Last Updated Date: October 6, 2011_  
+Legal Terms _Last Updated Date: January 1, 2016_  
   
 
 These Terms of Use (the "Terms") set forth the legally binding terms governing your access to and use of the Toyota family of Web sites, Web pages, interactive features, applications, widgets, blogs and their respective contents and any other interactive content that links to the Toyota family of Web sites owned and/or operated by Toyota (as defined herein) (collectively, the "Sites"). The Sites are operated by Toyota Motor Sales, U.S.A., Inc. (hereinafter referred to as "Toyota"), and any materials on the Sites are owned by Toyota or its affiliated companies, or licensed by Toyota from third parties and posted on the Sites.
 
 These Terms apply to all persons who visit any of the Sites ("Visitors"), regardless of the Visitor’s level of participation. In these Terms, "you" and "your" refer to each Visitor and his or her agents (unless the context requires otherwise), and "we", "us" and "our" refer collectively to Toyota. These Terms explain our obligations to you, and your obligations to us in relation to the use of the Sites. By accessing and visiting any of the Sites you accept and agree to be bound by these Terms, any applicable Additional Terms (as defined below), and our Privacy Policy.
 
-**PLEASE READ THESE TERMS CAREFULLY. THESE TERMS INCLUDE AN AGREEMENT TO MANDATORY ARBITRATION, WHICH MEANS THAT YOU AGREE TO SUBMIT ANY DISPUTE RELATED TO YOUR USE OF ANY OF THE SITES TO BINDING INDIVIDUAL ARBITRATION RATHER THAN PROCEED IN COURT. IF YOU WANT TO OPT-OUT OF THIS MANDATORY ARBITRATION AGREEMENT, THE DISPUTES/ARBITRATION PROVISION BELOW DESCRIBES THE PROCEDURES YOU MUST FOLLOW TO DO SO. THE DISPUTES/ARBITRATION PROVISION ALSO INCLUDES A CLASS ACTION WAIVER, WHICH MEANS THAT YOU AGREE TO PROCEED WITH ANY DISPUTE INDIVIDUALLY AND NOT AS PART OF A CLASS ACTION. THIS AGREEMENT ALSO INCLUDES A JURY WAIVER. DO NOT ACCESS OR USE ANY OF THE SITES IF YOU DO NOT AGREE TO THESE TERMS IN THEIR ENTIRETY.**
+**PLEASE READ THESE TERMS CAREFULLY. THESE TERMS INCLUDE AN AGREEMENT TO MANDATORY ARBITRATION, WHICH MEANS THAT YOU AGREE TO SUBMIT ANY DISPUTE RELATED TO YOUR USE OF ANY OF THE SITES TO BINDING INDIVIDUAL ARBITRATION RATHER THAN PROCEED IN COURT. THE DISPUTES/ARBITRATION PROVISION ALSO INCLUDES A CLASS ACTION WAIVER, WHICH MEANS THAT YOU AGREE TO PROCEED WITH ANY DISPUTE INDIVIDUALLY AND NOT AS PART OF A CLASS ACTION. THIS AGREEMENT ALSO INCLUDES A JURY WAIVER. DO NOT ACCESS OR USE ANY OF THE SITES IF YOU DO NOT AGREE TO THESE TERMS IN THEIR ENTIRETY.**
 
 THE SITES ARE ONLY INTENDED FOR VIEWING IN THE CONTINENTAL UNITED STATES IF YOU ARE EIGHTEEN (18) YEARS OR OLDER AND NOT A MINOR IN YOUR STATE OF RESIDENCE. If you are not an intended viewer, kindly do not use or view any of the Sites.
 
@@ -744,6 +742,9 @@ You should review our Privacy Policy at http://toyota.com/support/privacy-rights
 
   
 
+**Toyota Safety Connect® Connected Vehicle Services**  
+Your vehicle may be equipped with Connected Vehicle Services technology that electronically transmits Vehicle Data to Toyota. These Services are called Safety Connect®. You should review our Connected Vehicle Services Privacy and Protection Notice at www.toyota.com/privacyvts for an explanation of our collection and use of your Vehicle Data and Personal Information for Toyota Safety Connect®.
+
 **13\. INDEMNITY AND HOLD HARMLESS.**
 
 You agree to defend, indemnify and hold harmless Toyota and its parent, subsidiaries and affiliates, and their respective distributors, dealers, dealer associations and advertising and promotions agencies, licensors and contractors, together with each of their respective employees, agents, directors, officers and shareholders (collectively, "Toyota Entities", each a "Toyota Entity"), from and against all the liabilities, claims, damages and expenses (including reasonable attorneys' fees and costs) arising out of your use of the Sites, your breach or alleged breach of any of these Terms, or your breach or alleged violation of the patent, copyright, trademark, proprietary or other rights of third parties.
@@ -797,21 +798,17 @@ Torrance, CA 90501
 
 **18\. DISPUTES/ARBITRATION.**
 
-PLEASE READ THIS PROVISION CAREFULLY. IT INCLUDES AN AGREEMENT TO MANDATORY ARBITRATION, WHICH MEANS THAT YOU AGREE TO SUBMIT ANY DISPUTE RELATED TO YOUR USE OF ANY OF THE SITES TO BINDING INDIVIDUAL ARBITRATION RATHER THAN PROCEED IN COURT. IF YOU WANT TO OPT-OUT OF THIS MANDATORY ARBITRATION AGREEMENT, THIS PROVISION DESCRIBES THE PROCEDURES YOU MUST FOLLOW TO DO SO. THIS PROVISION ALSO INCLUDES A CLASS ACTION WAIVER, WHICH MEANS THAT YOU AGREE TO PROCEED WITH ANY DISPUTE INDIVIDUALLY AND NOT AS PART OF A CLASS ACTION. THIS AGREEMENT ALSO INCLUDES A JURY WAIVER.
+PLEASE READ THIS PROVISION CAREFULLY. IT INCLUDES AN AGREEMENT TO MANDATORY ARBITRATION, WHICH MEANS THAT YOU AGREE TO SUBMIT ANY DISPUTE RELATED TO YOUR USE OF ANY OF THE SITES TO BINDING INDIVIDUAL ARBITRATION RATHER THAN PROCEED IN COURT. THIS PROVISION ALSO INCLUDES A CLASS ACTION WAIVER, WHICH MEANS THAT YOU AGREE TO PROCEED WITH ANY DISPUTE INDIVIDUALLY AND NOT AS PART OF A CLASS ACTION. THIS AGREEMENT ALSO INCLUDES A JURY WAIVER.
 
 It is Toyota's goal that the Sites meet your expectations and that you are satisfied. However, there may be instances when you have a problem or dispute that needs special attention. In those instances, Toyota is committed to working with you to reach a reasonable resolution that satisfies you. however, we can only do this if we know about and understand your issue. Therefore, for any problem or dispute that you may have with Toyota, you acknowledge and agree that you will first give Toyota an opportunity to resolve your problem or dispute. This includes you first sending a written description of your problem or dispute to Toyota Motor Sales, U.S.A., Inc., 19001 S. Western Ave., WC 11, Torrance, CA 90509. You then agree to negotiate with Toyota in good faith about your problem or dispute. This should lead to resolution, but if for some reason your problem or dispute is not resolved satisfactorily within sixty (60) days after Toyota's receipt of your written description of it, you agree to the further dispute resolution provisions below.
 
-You agree that the sole and exclusive forum and remedy for any and all disputes and claims that cannot be resolved informally and that relate in any way to or arise out of your use of any of the Sites and these Terms shall be final and binding arbitration, except to the extent that you have in any manner infringed upon or violated or threatened to infringe upon or violate any of the Toyota Entities' or any third party patent, copyright, trademark, trade secret, privacy or publicity rights, in which case you acknowledge that arbitration is not an adequate remedy at law and that injunctive or other appropriate relief may be sought by the Toyota Entities and/or the applicable third party(ies). You and we acknowledge that the Agreement affects interstate commerce and that the Federal Arbitration Act and federal arbitration law apply to arbitrations under the Agreement (despite any other choice of law provision).
+You agree that the sole and exclusive forum and remedy for any and all disputes and claims that cannot be resolved informally and that relate in any way to or arise out of your use of any of the Sites and these Terms shall be final and binding arbitration, except to the extent that you have in any manner infringed upon or violated or threatened to infringe upon or violate any of the Toyota Entities' or any third party patent, copyright, trademark, trade secret, privacy or publicity rights, in which case you acknowledge that there is no adequate remedy at law and that injunctive or other appropriate relief may be sought by the Toyota Entities and/or the applicable third party(ies) either in court or from an arbitrator. You and we acknowledge that the Agreement affects interstate commerce and that the Federal Arbitration Act and federal arbitration law apply to arbitrations under the Agreement (despite any other choice of law provision). To the extent that the Federal Arbitration Act and federal arbitration law do not supply substantive law necessary for the resolution of any disputes or claims, the laws of the State of Texas shall apply, except that Texas laws concerning choice of law or conflict of laws shall not apply if they would cause the substantive law of another jurisdiction to apply. To the extent that the parties litigate any part of any dispute or claim in court, including, without limitation, obtaining provisional remedies in aid of arbitration, confirmation of the award, and judgment enforcement, the laws of the State of Texas shall apply, except that Texas laws concerning choice of law or conflict of laws shall not apply if they would cause the substantive law of another jurisdiction to apply.
 
-Arbitration under this Agreement shall be conducted by JAMS. The arbitration shall be administered by JAMS pursuant to its Comprehensive Arbitration Rules and Procedures (pursuant to JAMS' Streamlined Arbitration Rules and Procedures). Judgment on the Award may be entered in any court having jurisdiction. This clause shall not preclude parties from seeking provisional remedies in aid of arbitration from a court of appropriate jurisdiction. **You and we agree to pay our own fees, costs, and expenses, including those for any attorneys, experts, and witnesses.** An arbitrator may award on an individual basis any relief that would be available in a court, including injunctive or declaratory relief and attorneys' fees. In addition, for claims under $75,000 as to which you provided notice and negotiated in good faith with Toyota as required above before initiating arbitration, if the arbitrator finds that you are the prevailing party in the arbitration, you will be entitled to a recovery of reasonable attorneys' fees and costs. Except for claims determined to be frivolous, Toyota agrees not to seek an award of attorneys' fees in arbitration even if an award is otherwise available under applicable law. As a limited exception to the agreement to arbitrate, you and we agree that you may take claims to small claims court, if your claims qualify for hearing by such court.
-
-**YOU HAVE A RIGHT TO OPT-OUT OF THIS ARBITRATION AGREEMENT.** If you do not agree to this mandatory arbitration provision with regard to your use of any of the Sites, then prior to accessing and/or using any of the Sites, you may opt-out of this part of the Terms by calling the Toyota Customer Experience Center at 1-800-331-4331 or sending written notification to the following address:
-
-Toyota Motor Sales, U.S.A., Inc., 19001 S. Western Ave., WC 11, Torrance, CA 90509
+Arbitration under this Agreement shall be conducted by the American Arbitration Association (“AAA”). The arbitration shall be administered by AAA pursuant to its Consumer Arbitration Rules. If the arbitration results in an award, then judgment on the award may be entered in any court having jurisdiction. This clause shall not preclude parties from seeking provisional remedies in aid of arbitration from a court of appropriate jurisdiction. **You and we agree to pay our own fees, costs, and expenses, including those for any attorneys, experts, and witnesses.** You agree that any claim for or award of attorneys' fees, including such claim or award pursuant of Chapter 38 of Texas Civil Practice and Remedies Code, is waived. An arbitrator may award on an individual basis any relief. As a limited exception to the agreement to arbitrate, you and we agree that you may take claims to small claims court, if your claims qualify for hearing by such court.
 
 To the fullest extent permitted by applicable law, NO ARBITRATION OR OTHER CLAIM UNDER THIS AGREEMENT SHALL BE JOINED TO ANY OTHER ARBITRATION OR CLAIM, INCLUDING ANY ARBITRATION OR CLAIM INVOLVING ANY OTHER CURRENT OR FORMER VISITOR OF THE SITES, AND NO CLASS ARBITRATION PROCEEDINGS SHALL BE PERMITTED. In the event that this **CLASS ACTION WAIVER** is deemed unenforceable, then any putative class action may only proceed in a court of competent jurisdiction and not in arbitration.
 
-WE BOTH AGREE THAT, WHETHER ANY CLAIM IS IN ARBITRATION OR IN COURT, YOU AND TOYOTA BOTH WAIVE ANY RIGHT TO A JURY TRIAL INVOLVING ANY CLAIMS OR DISPUTES BETWEEN US.In no event shall any claim, action or proceeding by you related in any way to the Application or this Agreement be instituted more than three (3) years after the cause of action arose.
+WE BOTH AGREE THAT, WHETHER ANY CLAIM IS IN ARBITRATION OR IN COURT, YOU AND TOYOTA BOTH WAIVE ANY RIGHT TO A JURY TRIAL INVOLVING ANY CLAIMS OR DISPUTES BETWEEN US.In no event shall any claim, action or proceeding by you related in any way to this Agreement be instituted more than two (2) years after the cause of action arose.
 
   
 
