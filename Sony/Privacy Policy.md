@@ -84,9 +84,9 @@ Download App
 
 Sony on Twitter
 
-Calls, texts, and notifications are just a glance away. #SmartWatch3
+Announcing a new partnership with one of the most celebrated game developers in history: www.youtube.com
 
-2015-12-15 12:55:36+00:00
+2015-12-16 07:01:01+00:00
 
 View Tweet
 
@@ -154,9 +154,9 @@ Pre-Order Today
 
 Sony on Twitter
 
-Listen to Christmas tunes from @NSYNC @OfficialTLC &. more ‘90s throwbacks here: www.spotify.com
+We're always striving to produce the most beautiful and functional form. community.sony.co.uk
 
-2015-12-15 19:01:21+00:00
+2015-12-18 00:38:00+00:00
 
 View Tweet
 
@@ -204,25 +204,17 @@ Close
 
 Watch "Concussion" Trailer
 
-Give the Gift of Exceptional Sound
+Music According to Your Heart Rate
 
-See Hi-Res Audio Headphones
+Train Smarter
 
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-See Hi-Res Audio Headphones
+Sony on Vine
 
 Sony on Twitter
 
-Don't forget to tune into @NBC tonight at 10/9c to catch @Adele's Live In New York City special! #AdeleLiveInNYC
+Catch the light &. seize the night with advanced #camera tech inside every #Xperia smartphone.
 
-2015-12-15 07:00:06+00:00
+2015-12-17 04:58:03+00:00
 
 View Tweet
 
@@ -302,9 +294,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-Stardust Vanguards blasts onto PS4 January 19th: www.playstation.com. Intense space combat with a retro twist
+In case you missed it, check out #1DCarpoolKaraoke with @JKCorden now! www.youtube.com
 
-2015-12-14 20:29:01+00:00
+2015-12-16 21:43:01+00:00
 
 View Tweet
 
