@@ -59,7 +59,7 @@ We want you to understand how personal information you provide to us is collecte
 
   
 
-****Surveys**:**From time to time, CVS requests information from users via surveys on the Services. Participation in these surveys is voluntary, and the information collected is used in accordance with this Privacy Policy.
+****Surveys**:** From time to time, CVS requests information from users via surveys on the Services. Participation in these surveys is voluntary, and the information collected is used in accordance with this Privacy Policy.
 
   
 
@@ -148,7 +148,7 @@ Your IP address is a number that is automatically assigned to the computer that 
 
   
 
-We may use Adobe Flash Local Stored Objects (“LSOs”) and other technologies to, among other things, collect and store information about your use of the Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the Website Storage Settings Panel. You can also control Flash LSOs by going to the Global Storage Settings Panel and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to "information" on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications.
+We may use Adobe Flash Local Stored Objects (“LSOs”) and other technologies to, among other things, collect and store information about your use of the Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the Website Storage Settings Panel. You can also control Flash LSOs by going to the Global Storage Settings Panel and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to “information” on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications.
 
   
 Tracking/Third-Party Advertisers
@@ -184,7 +184,7 @@ In addition to our official websites, CVS works with a number of third parties t
   
 Your Choices and Access
 
-You can take yourself off our email list for promotional offers at any time by updating your Email Communications preference in your Account Profile in the My Accountsection or by following the instructions contained in such emails. If you opt out of receiving promotional emails from us, we may still send you important administrative messages, from which you cannot opt out.
+You can take yourself off our email list for promotional offers at any time by updating your Email Communications preference in your Account Profile in the My Account section or by following the instructions contained in such emails. If you opt out of receiving promotional emails from us, we may still send you important administrative messages, from which you cannot opt out.
 
   
 
@@ -192,7 +192,7 @@ You may stop the receipt of push notifications through your mobile device settin
 
   
 
-You can request the removal or modification of the personal information you have provided to us by sending an email to the appropriate area under "Contact Us". For your protection, we may only implement requests with respect to the personal information associated with the particular email address that you use to send us your request, and we may need to verify your identity and obtain information on the context in which you provided your personal information before implementing your request. We will try to accommodate your request as soon as reasonably practicable.
+You can request the removal or modification of the personal information you have provided to us by sending an email to the appropriate area under “Contact Us”. For your protection, we may only implement requests with respect to the personal information associated with the particular email address that you use to send us your request, and we may need to verify your identity and obtain information on the context in which you provided your personal information before implementing your request. We will try to accommodate your request as soon as reasonably practicable.
 
   
 
@@ -291,7 +291,7 @@ We want you to understand how personal information you provide to us is collecte
 
   
 
-****Surveys**:**From time to time, CVS requests information from users via surveys on the Services. Participation in these surveys is voluntary, and the information collected is used in accordance with this Privacy Policy.
+****Surveys**:** From time to time, CVS requests information from users via surveys on the Services. Participation in these surveys is voluntary, and the information collected is used in accordance with this Privacy Policy.
 
   
 
@@ -380,7 +380,7 @@ Your IP address is a number that is automatically assigned to the computer that 
 
   
 
-We may use Adobe Flash Local Stored Objects (“LSOs”) and other technologies to, among other things, collect and store information about your use of the Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the Website Storage Settings Panel. You can also control Flash LSOs by going to the Global Storage Settings Panel and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to "information" on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications.
+We may use Adobe Flash Local Stored Objects (“LSOs”) and other technologies to, among other things, collect and store information about your use of the Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the Website Storage Settings Panel. You can also control Flash LSOs by going to the Global Storage Settings Panel and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to “information” on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications.
 
   
 Tracking/Third-Party Advertisers
@@ -416,7 +416,7 @@ In addition to our official websites, CVS works with a number of third parties t
   
 Your Choices and Access
 
-You can take yourself off our email list for promotional offers at any time by updating your Email Communications preference in your Account Profile in the My Accountsection or by following the instructions contained in such emails. If you opt out of receiving promotional emails from us, we may still send you important administrative messages, from which you cannot opt out.
+You can take yourself off our email list for promotional offers at any time by updating your Email Communications preference in your Account Profile in the My Account section or by following the instructions contained in such emails. If you opt out of receiving promotional emails from us, we may still send you important administrative messages, from which you cannot opt out.
 
   
 
@@ -424,7 +424,7 @@ You may stop the receipt of push notifications through your mobile device settin
 
   
 
-You can request the removal or modification of the personal information you have provided to us by sending an email to the appropriate area under "Contact Us". For your protection, we may only implement requests with respect to the personal information associated with the particular email address that you use to send us your request, and we may need to verify your identity and obtain information on the context in which you provided your personal information before implementing your request. We will try to accommodate your request as soon as reasonably practicable.
+You can request the removal or modification of the personal information you have provided to us by sending an email to the appropriate area under “Contact Us”. For your protection, we may only implement requests with respect to the personal information associated with the particular email address that you use to send us your request, and we may need to verify your identity and obtain information on the context in which you provided your personal information before implementing your request. We will try to accommodate your request as soon as reasonably practicable.
 
   
 
