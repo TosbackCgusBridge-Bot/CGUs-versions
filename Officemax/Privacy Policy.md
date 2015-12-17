@@ -13,7 +13,7 @@ SEG1 hp
 
 Office Depot Deals
 
-QnKwu-6\_w5tNXMus6wEAZHt Recommended Products
+QUaxw8M0WztBaI1nBiuItjk Recommended Products
 
 Category Matches
 
@@ -143,8 +143,8 @@ Office Depot, Inc.s charitable arm, The Office Depot Foundation, supports prog
 Give them a gift card.  
 Never expires, ships for free
 
-Sign up for a credit card  
-and get special financing options
+Open an Office Depot Credit Card  
+and start saving today
 
 10% back in reward points on ink, toner,  
 paper and copy/print/ship purchases
@@ -171,7 +171,7 @@ to your inbox
 
 *   BUSINESS SERVICES
 *   Business Form Templates
-*   Business Resource Center
+*   Business Solutions Center
 *   Copy &. Print Depot™
 *   MaxAssurance
 *   Prevention of Online Threats
