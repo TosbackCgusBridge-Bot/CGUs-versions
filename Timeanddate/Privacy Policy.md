@@ -11,6 +11,7 @@ Search × Site / Articles City / Country Social × Share this page / Follow us o
     *   Newsletter
     *   About Us
     *   Site Map
+    *   Account/Settings
     *   Article Topics
 *   World ClockBack
     *   Main World Clock
@@ -57,6 +58,7 @@ Search × Site / Articles City / Country Social × Share this page / Follow us o
     *   Astronomy Articles
 *   TimersBack
     *   Countdown to Any Date
+    *   Christmas Countdown
     *   New Year Countdown
     *   Timer
     *   Stopwatch
@@ -74,7 +76,7 @@ Search × Site / Articles City / Country Social × Share this page / Follow us o
 *   Apps &. APIBack
     *   iOS Apps
     *   Android Apps
-    *   Windows 8 Apps
+    *   Windows App
     *   Free Clock
     *   Free Countdown
     *   API for Developers
@@ -86,7 +88,7 @@ Search × Site / Articles City / Country Social × Share this page / Follow us o
     *   Date Pattern Calculator
     *   Fun Fact Articles
 
-Newsletter About Us Site Map Article Topics Home >. Site information >. Privacy Statement for timeanddate.com Privacy Statement for timeanddate.com
+Newsletter About Us Site Map Account/Settings Article Topics Home >. Site information >. Privacy Statement for timeanddate.com Privacy Statement for timeanddate.com
 
 timeanddate.com has created this privacy statement to demonstrate our firm commitment to privacy. This page discloses our information gathering and dissemination practices for this website: www.timeanddate.com.
 
