@@ -355,12 +355,14 @@ Brand &. Lifestyle
 *   Luxury Awaits
 *   Vida Lexus
 *   Lexus International
+*   Sponsored Athletes
 
 *   About
 *   Contact Us
 *   Careers
 *   Request Brochure
 *   Newsletter Signup
+*   Press Releases
 *   Ad choices
 *   Privacy
 *   Legal
@@ -402,6 +404,7 @@ Brand &. Lifestyle
     *   Luxury Awaits
     *   Vida Lexus
     *   Lexus International
+    *   Sponsored Athletes
 
 Safety Recalls &. Service Campaigns  
 
