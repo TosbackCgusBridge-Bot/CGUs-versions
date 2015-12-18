@@ -38,7 +38,7 @@ Macy's • UnitedHealth Group • Firestone • Chipotle • Vitamin Shoppe • 
 *   Top Categories
 *   Top Locations
 *   Top Keywords
-*   Partner Job Boards
+*   International Jobs
 *   Blog
 *   Sitemap
 *   Accessibility
