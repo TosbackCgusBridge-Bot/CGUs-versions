@@ -242,7 +242,7 @@ Envato Market:
 
 When we refer to the ‘Envato Market’ we’re talking about the Envato digital marketplaces, which include these sites:
 
-Site Name: Accessible at: ActiveDen www.activeden.net AudioJungle www.audiojungle.net CodeCanyon www.codecanyon.net GraphicRiver www.graphicriver.net ThemeForest www.themeforest.net VideoHive www.videohive.net 3DOcean www.3docean.net PhotoDune www.photodune.net
+Site Name: Accessible at: AudioJungle www.audiojungle.net CodeCanyon www.codecanyon.net GraphicRiver www.graphicriver.net ThemeForest www.themeforest.net VideoHive www.videohive.net 3DOcean www.3docean.net PhotoDune www.photodune.net
 
 Envato Market account:
 
