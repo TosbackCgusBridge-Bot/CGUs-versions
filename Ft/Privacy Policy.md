@@ -61,7 +61,7 @@ Personal information is collected by the FT companies listed below on behalf of 
 > 
 > Registered Office:Number One Southwark Bridge, London SE1 9HL
 > 
-> Registered Number:227590
+> Registered Number: 879531
 > 
 > Data Protection Registration Number:Z7087146
 > 
