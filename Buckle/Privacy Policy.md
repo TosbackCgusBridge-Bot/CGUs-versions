@@ -1,4 +1,6 @@
-Free Gifts from your Favorite Brands!
+The easiest gift you’ll ever give.
+
+Right Here!
 
 Guest Services 800-607-9788
 
