@@ -214,6 +214,7 @@ Follow Us
 
 *   Facebook
 *   Twitter
+*   Instagram
 *   YouTube
 *   Untangled Blog
 *   Mi Cultura
