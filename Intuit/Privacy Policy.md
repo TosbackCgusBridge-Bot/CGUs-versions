@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14323573248
+true true L14325625625
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p31.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Wed Dec 16 11:29:59 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p29.jcpenney.com SERVER NAME :->. dtcomexpr1l1j1 TIME :->. Thu Dec 17 11:33:55 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,35 +48,47 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-$10 Off\* $25 or More In Store and Online | Ends December 16 | Use Code: NOWSAV Get NOWSAV CouponOr, Extra 20% Off\* With Your JCPenney Credit Card In Store and Online | Ends December 16 | Use Code: WESHOP Get WESHOP CouponOr, Extra 15% Off\* With Any Other Method Of Payment Online Only | Ends December 16 | Use Code: WESHOP
+$10 Off\* $25 or More In Store and Online | Ends December 19 | Use Code: NOWSAV Print CouponOr, Extra 30% Off\* $100 or More Online Only | Ends December 19 | Use Code: FUNSHOP Or, Extra 25% Off\* Up To $100 Online Only | Ends December 19 | Use Code: FUNSHOP
 
-\*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
+\*All offers apply to select orig, reg, sale and clearance-priced items.
 
-See exclusions and details Great Prices On St. John's Bay Sweaters For Him and Her 17.99 St. John's Bay Sweaters
+See exclusions and details Budget-Friendly Gifts Under $15 Gifts Under $15 Shop Now12.99 Stafford Travel Easy-Care Broadcloth Dress Shirts
 
-Select styles.
+reg. $36
 
-Shop Men's Sweaters Shop Women's Sweaters     Star Wars: The Force Awakens Apparel On Sale 40 to 50% Off Star Wars Apparel
-
-Select styles.
-
-Shop Star Wars Apparel Holiday Jewelry Sale Going On Now Holiday Jewelry Sale | December 8-24
-
-20 to 60% Off Jewelry, select styles
-
-Shop All Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Shop Love in Motion Get Ready For Guests With Comforters and Bedding 30 to 50% Off Home Collections
+Shop Stafford Dress ShirtsBig Buy! 6.99-8.99 Boys' and Girls' Sleepwear Separates
 
 Select styles.
 
-Shop Home Sale Shop Comforters and Bedding Save On Pajamas For The Family 50 to 60% Off Sleepwear For The Family
+Shop Boys' and Girls' Sleepwear8.99 Made for Life V-Neck Brushed Fleece
+
+orig. $18
+
+Shop Made for Life9.99 - after $10 mail-in rebate - Cooks Small Appliances
+
+sale 19.99, select styles, excluded from coupon
+
+Shop Cooks Small Appliances Save On Gifts For The Home 30 to 50% Off Home Collections
 
 Select styles.
 
-Shop Sleepwear For The Family Disney Collection Shop Disney Now E-Gift Cards
+Shop Home Sale 119.99 - plus $20 mail-in rebate, Keurig 2.0 K250 Brewer (excluded from coupon) Star Wars: The Force Awakens Apparel On Sale 40 to 50% Off Star Wars Apparel
 
-Customize with a message, photo or video.
+Select styles.
 
-Shop E-Gift Cards Now Holiday Gift Shop
+Shop Star Wars Apparel Going Fast! New Markdowns on Clearance 60 to 80% Off Clearance | In Store and Online | New Markdowns!
+
+Christmas gifts at clearance prices.
+
+Shop Clearance Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Home Shop Handbags and Accessories Shop Jewelry SportsFanShop
+
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
+
+Shop SportsFanShop Round Up and Let Your Change Make Real Change
+
+Support JCPenney Cares in December by rounding up your purchase to help fund programs that keep kids safe, healthy and engaged beyond the classroom.
+
+Learn More Holiday Gift Shop
 
 Where Giving Begins: Gifts they want. Savings you love.
 
