@@ -26,6 +26,7 @@ Change country/language X
         *   AutoCAD Design Suite
         *   All AutoCAD
     *   3ds Max
+    *   A360
     *   Building Design Suite
     *   Civil 3D
     *   Fusion 360
