@@ -22,7 +22,7 @@
         
     2.  **Cookies use.**
         
-        You explicitly authorize DepositFiles to create and store cookies at your web-client. Such cookies are exclusively used for your comfort in order to save the browser settings. DepositFiles does not use any methods for tracking users (the so-called "spy" or "1x1" gif images etc.);
+        You explicitly authorize DepositFiles to create and store cookies at your computer. Please read DepositFiles Cookie Policy for detailed information;
         
     3.  **Page indexing.**
         
@@ -54,13 +54,13 @@
         
     2.  **Third-party behavioral advertising practice.**
         
-        We allow third-party companies to collect certain information of residents of United States as permitted by law thereof. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at www.aboutads.info and Networking Advertising Initiative at www.networkadvertising.org/choices/.
+        We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at www.aboutads.info and Networking Advertising Initiative at www.networkadvertising.org/choices/.
         
 4.  **DISCLOSURE.**
     
     DEPOSITFILES MAY DISCLOSE ANY CONFIDENTIAL INFORMATION IN CASE IT BECOMES NECESSARY TO DEFEND ITS JURIDICAL RIGHTS.
     
-    IN CASE YOU ACTIONS LEAD TO SUSPICION OF TANGIBLE OR ASSUMED SABOTEUR ACTIONS OR POSES A POTENTIAL THREAT TO ANY PERSON'S PHYSICAL SAFETY OR ANY OTHER GRAVE CRIME, ALL YOUR KNOWN INFORMATION (INCLUDING BUT NOT LIMITED TO PERSONAL DETAILS, IP ADDRESSES, PAYMENT DATA) MAY BE DISCLOSED TO LAW ENFORCEMENT ORGANIZATIONS AND/OR INTERNET SERVICE PROVIDER WITHOUT PRIOR NOTICE.
+    IN CASE YOUR ACTIONS LEAD TO SUSPICION OF TANGIBLE OR ASSUMED SABOTEUR ACTIONS OR POSES A POTENTIAL THREAT TO ANY PERSON'S PHYSICAL SAFETY OR ANY OTHER GRAVE CRIME, ALL YOUR KNOWN INFORMATION (INCLUDING BUT NOT LIMITED TO PERSONAL DETAILS, IP ADDRESSES, PAYMENT DATA) MAY BE DISCLOSED TO LAW ENFORCEMENT ORGANIZATIONS AND/OR INTERNET SERVICE PROVIDER WITHOUT PRIOR NOTICE.
     
     IN CASE OF ANY EVIDENCE OF DISTRIBUTION OF THE FILES CONTAINING MATERIALS WHICH APPEAR INVOLVING CHILD EXPLOITATION, THE ACCOUNT BELONGING TO THE USER WHO UPLOADED SUCH FILES WILL BE IMMEDIATELY DELETED AND ALL KNOWN INFORMATION (INCLUDING BUT NOT LIMITED TO PERSONAL DETAILS, IP ADDRESSES, PAYMENT DATA) WILL BE DIRECTED TO THE NATIONAL CENTER FOR MISSING &. EXPLOITED CHILDREN AND/OR HOTLINE COMBATING CHILD PORNOGRAPHY ON THE INTERNET, AS WELL AS LAW ENFORCEMENT ORGANIZATIONS AND/OR MEMBERS OF INTERNET SERVICE PROVIDERS WITHOUT PRIOR NOTICE.
     
