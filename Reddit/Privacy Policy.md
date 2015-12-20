@@ -132,7 +132,7 @@ International Data Transfers
 
 31 We are based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing, transfer and storage of information in and to the U.S. and other countries, where you may not have the same rights as you do under local law.
 
-32 Reddit complies with the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Despite an adverse judgment by the European Court of Justice on October 6, 2015, the U.S. Department of Commerce has advised that it continues to administer the Safe Harbor program until further notice. To learn more about the Safe Harbor program, and to view our certification, please visit the U.S. Department of Commerce website.
+32 Reddit complies with the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Despite an adverse judgment by the European Court of Justice on October 6, 2015, the U.S. Department of Commerce has advised that it continues to administer the Safe Harbor program until further notice. To learn more about the Safe Harbor program, and to view our certification, please visit the U.S. Department of Commerce website. If you have concerns about our compliance with the Safe Harbor program, you should contact us. If you are unable to resolve your concern or dispute with us, you may submit complaints to JAMS for mediation pursuant to the JAMS International Mediation Rules.
 
 Changes
 
