@@ -98,7 +98,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Kids Featured Shops
             *   Outerwear Shop
-            *   Holiday Dressing
             *   School Uniforms
             *   Shoes &. Boots
             
