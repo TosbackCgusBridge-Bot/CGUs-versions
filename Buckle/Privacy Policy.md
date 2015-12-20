@@ -1,6 +1,4 @@
-The easiest gift you’ll ever give.
-
-Right Here!
+Still can’t decide? Grab an eGift Card now!
 
 Guest Services 800-607-9788
 
