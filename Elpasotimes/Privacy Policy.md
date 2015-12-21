@@ -85,214 +85,226 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Elections Clinton, Sanders move past data spat in Dem debate
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ News Reports: Car hits multiple pedestrians on Las Vegas Strip
 
 TOP STORIES
 
-*   OnPolitics Hillary Clinton returns late after commercial break
-*   OnPolitics Sanders to Clinton on data breach: 'Yes, I apologize'
-*   Nation Visa for San Bernardino shooter ‘sloppily approved’
-*   'Star Wars': Kylo Ren's pop-culture ancestors
-*   Tourist killed in psychedelic ritual in Peru
-*   Miss Spain gets promotion: Miss World
-*   Trump touts Iowa ground game as caucuses near
-*   SpaceX aims to land rocket back at Cape Canaveral
-*   Spending bill calls truce on executive power
-*   'Star Wars: The Force Awakens' blasts records
-*   Stallone put his 'Rocky' stuff up for auction
-*   Rafael dos Anjos drubs Donald Cerrone
+*   OnPolitics Trump on Clinton's Islamic State claim: She 'lies like crazy'
+*   World 91 missing from landslide that buries buildings in China
+*   Entertain This Oh no! Steve Harvey crowns wrong woman Miss Universe
+*   Jimmy Carter's 28-year-old grandson dies suddenly
+*   Five dead in Calif. small plane crash
+*   At Supreme Court, Texas dominates docket
+*   Former 3 Doors Down bassist heading to prison
+*   Why your parents are disappointed in you
+*   After 2,000 years, Christians in Gaza disappearing
+*   'Star Wars' destroys records with $238M weekend
+*   Elway: Peyton Manning hasn't refused Broncos role
+*   Fact check: Dems stretched the truth at third debate
 
-NFL
+World
 
-NFL playoff picture: With win, Jets hold onto wild-card spot ... for now
+Fake bomb forces diversion of Air France flight
 
-People
+OnPolitics
 
-Cosby lawyers fight deposition of wife Camille
+Donald Trump: No proof Putin has 'killed anybody'
 
-Entertain This
+Carolina Panthers
 
-Second take: What you pick up seeing 'Force Awakens' again
+Josh Norman, Panthers hit back on Odell Beckham Jr. for heated play
 
-News
+Movies
 
-FBI said to probe breach of Juniper Networks VPN software
+Ryan Gosling, Brad Pitt go full un-hot in 'Big Short'
 
 2015 YEAR IN REVIEW News
 
-From water on Mars to the Homo naledi, 2015 crammed with major discoveries
-
-Road Warriors
-
-These are Google's 2015 top travel searches (and they're strange)
-
-Sports
-
-10 most emotional sports moments of the year
+Full coverage: Looking back at 2015
 
 News
 
-Full coverage: Looking back at 2015
+Passages 2015: Remembering those we've lost through the year
+
+Nation Now
+
+How well do you remember 2015? Test your news knowledge
+
+News
+
+Best USA TODAY photos of 2015
+
+2015: A year of global turmoil
+
+From terrorist attacks to natural disasters, 2015 saw its share of turmoil across the globe.
+
+1 of 21 See more video
+
+Yogi Berra, B.B. King among greats we remember in 2015
+
+We remember the celebrities who passed away in 2015, after years of touching our hearts and lives.
+
+2 of 21 See more video
+
+2008's Sarah Palin meets 2015's Hillary Clinton on 'SNL'
+
+Tina Fey and Amy Poehler returned to 'Saturday Night Live,' and they brought their impersonations of Sarah Palin and Hillary Clinton with them. Video provided by Newsy
+
+3 of 21 See more video
 
 Best moments from 3rd Democratic debate in 3 minutes
 
 The final Democratic debate of 2015 focused on the economy, foreign policy and of course, Donald Trump. Hillary Clinton, Bernie Sanders and Martin O'Malley all had choice words for the billionaire businessman.
 
-1 of 19 See more video
+4 of 21 See more video
 
-Air Force brings unlikely Christmas to remote islands
+Steve Harvey accidentally crowns wrong Miss Universe
 
-Each Christmas for the past 64 years, the Air Force has been parachuting donated gifts and humanitarian supplies to tiny islands dotting this vast area of the western Pacific. By Kirk Spitzer and Rene Alston
+Talk about awkward. Miss Universe host Steve Harvey accidentally crowned the wrong winner during the Las Vegas pageant.
 
-2 of 19 See more video
+5 of 21 See more video
 
 The dumbest criminals of 2015
 
 Gillian Pensavalle (@GillianWithaG) rounds up some of the dumbest criminals of 2015.
 
-3 of 19 See more video
+6 of 21 See more video
+
+Deputy hands drivers $100 instead of tickets
+
+An anonymous donor gave the Monroe County Sheriff's Office $5,000 to help spread Christmas cheer to unsuspecting Georgia drivers.
+
+7 of 21 See more video
 
 Watch what happens when you pull over Chewbacca
 
 A traffic stop in Texas goes differently than planned for one officer after he pulls over a car full of Star Wars characters in this playful video posted to Facebook by the Fulshear, Texas Police Department.
 
-4 of 19 See more video
+8 of 21 See more video
 
 Army mom gets best reaction surprising kids at school
 
 Elise Kurek has spent seven months away from her family, training for a medical career in the Army. See what happened when she came home early and surprised her kids at school.
 
-5 of 19 See more video
+9 of 21 See more video
 
-100 rescue dogs involved in crash, now safe and sound
+'Star Wars' broke all debut records except this one
 
-A hundred dogs were traveling from Texas to Seattle on their way to being adopted until the truck carrying them crashed in Colorado. Now, after a local animal shelter stepped in, the pups are safe and sound.
+"Star Wars: Episode VII" brought in an estimated $238 million. That's the best domestic debut of any movie ever, and the records don't stop there. Video provided by Newsy
 
-6 of 19 See more video
+10 of 21 See more video
 
 Rare photo of Billy the Kid may have been found
 
 A rare tintype photo of Billy the Kid may have been found. If the photo is authentic, it could be worth millions of dollars.
 
-7 of 19 See more video
+11 of 21 See more video
+
+What drives attacks on U.S. places of worship?
+
+A recent report shows a spike in attacks on U.S. mosques this year, but other religious buildings have also been targets of violence or vandalism. Video provided by Newsy
+
+12 of 21 See more video
+
+Even black holes have their limits, study says
+
+Researchers from the University of Leicester say there's a limit to how big a black hole can get before it stops growing. Video provided by Newsy
+
+13 of 21 See more video
+
+Travel hassle-free in 2016 with these tips
+
+Planning a trip in 2016? Don't book anything until you hear these 3 tips for traveling hassle free all year long.
+
+14 of 21 See more video
 
 Bank robbed during live TV report
 
 An Iowa TV reporter was on live TV outside a Minnesota bank when a bank employee pointed out a suspect who had allegedly just robbed it. A suspect was arrested later. (Dec. 16)
 
-8 of 19 See more video
-
-Big surprise tip changes Christmas for single mom
-
-A single mom waiting tables received a $200 tip from a random stranger helping her make her daughter's Christmas memorable.
-
-9 of 19 See more video
+15 of 21 See more video
 
 How to nail those viral dances at your holiday party
 
 It's holiday party season, and you'll likely have to dance. We'll show you some of the year's hottest dance moves (sort of). Video provided by Newsy
 
-10 of 19 See more video
+16 of 21 See more video
 
 Man sued for allegedly eating shipmate while lost at sea
 
 After more than a year lost at sea, a man returns to find himself in a $1M lawsuit for eating his shipmate's body. The man says he didn't do it but the deceased's family doesn't believe him. Keleigh Nealon (@keleighnealon) has the story!
 
-11 of 19 See more video
+17 of 21 See more video
 
 'Point Break' wingsuit scene "most hardcore stunt" ever
 
 Crew at the 'Point Break' world premiere told us the wingsuit sequence, filmed over the course of 60+ jumps, is "something to behold."
 
-12 of 19 See more video
+18 of 21 See more video
 
 Outraged mom: Daughter's henna ruined Christmas
 
 A Texas mom is upset after her 7-year-old daughter got a henna tattoo from a multicultural event at school. She worries about its connections to other religions during the holiday season.
 
-13 of 19 See more video
-
-LeBron James dives for loose ball, slams into fan
-
-NBA Star LeBron James expressed concern after crashing on top of a fan sitting courtside at Thursday night's Cleveland Cavaliers game. Ellie Day, the wife of PGA champion Jason Day, was taken to a hospital. (Dec. 18)
-
-14 of 19 See more video
+19 of 21 See more video
 
 Deputy jumps into moving truck to save driver
 
 Watch this dramatic rescue as a sheriff's deputy jumps into a moving semitrailer after the driver apparently passed out at the wheel in Madison County, Nebraska.
 
-15 of 19 See more video
-
-Teen punches Spanish prime minister in face
-
-Spain's Prime Minister Mariano Rajoy suffered a scare Wednesday when a 17-year-old youth punched him in the face during a campaign appearance in his northwestern fiefdom of Galicia, breaking his glasses. Video provided by AFP
-
-16 of 19 See more video
-
-Surprise soldier homecoming for 4 unsuspecting kids
-
-Four daughters of the Long family sit impatiently inside the central terminal at Denver International airport, unknowingly waiting for something they've been patient about for the last 15 months.
-
-17 of 19 See more video
-
-Boys get surprise gift from garbage man
-
-Two little boys who love the trash truck got a treasure from a city worker that made their Christmas!
-
-18 of 19 See more video
+20 of 21 See more video
 
 Mom makes miracle halfcourt shot, wins kid free tuition
 
 A Minnesota student was the top fundraiser in a school project helping raise money to feed the hungry. The prize was $4,000 towards her tuition, but she could claim the prize only after her mom made a miraculous half-court shot.
 
-19 of 19 See more video Last VideoNext Video news
+21 of 21 See more video Last VideoNext Video news
 
-Army mom returning to Mich. surprises kids at school
+Donald Trump: Hillary Clinton 'lies like crazy'
 
-Kurt Masur, who led New York Philharmonic, dies at 88
+After 2,000 years, Christians in Gaza disappearing
 
-8 hours, 48 minutes | Nation
+18 hours, 23 minutes | World
 
-Spending bill represents a cease-fire in battle over executive powerMan who drove a $1M Bugatti into a lake is going to jailClinton, Sanders move past data spat in Dem debate sports
+Israel faces rocket attacks after strike in LebanonWrong Miss Universe Winner AnnouncedPolice: 1 dead, 37 injured after car plows into pedestrians on Las… sports
 
-Jets edge Cowboys to stay on top of wild-card race
+Cardinals whip Eagles to wrap up NFC West crown
 
-Rivera a perfect coach for Panthers, their swagger
+Panthers fire back at Beckham for Norman hit
 
-5 hours, 59 minutes | NFL
+4 hours, 55 minutes | Carolina Panthers
 
-Roy Williams rides Brice Johnson. Can UNC, too?Dos Anjos warns McGregor after defending UFC titleBYU hires football coach life
+NFL playoff picture: Where things stand right nowSteelers surge by Broncos to stay in playoff huntBengals derive little joy in playoff-clinching win life
 
-'Star Wars': Kylo Ren's pop-culture ancestors
+Ryan Gosling, Brad Pitt go full un-hot in 'Big Short'
 
-Cross WordsAll GamesEntertain This! Secret celeb stormtroopers and J.J. Abrams Easter eggs10 burning questions we have after seeing 'Force Awakens'Plan your week in entertainment money
+Cross WordsAll GamesEntertain This! New 'Star Wars' destroys records with $238M weekendSteve Harvey accidentally crowns wrong Miss UniverseTwitter roasts Steve Harvey over Miss Universe mistake money
 
-The best TVs to buy this Christmas
+The silver lining in a rate hike
 
-StocksPortfolio TrackerAmerica's Markets Review: Jeep Renegade Latitude still has attitudeHeads up! Amazon holiday shipping deadlines nearFalling oil prices raise fears about economy tech
+StocksPortfolio TrackerAmerica's Markets Internet of Things puts energy grid to testReview: Jeep Renegade Latitude still has attitudeWolff: The end of Yahoo tech
 
-The perfect tech gifts for non-techie people
+SpaceX rocket launch, landing postponed to Monday
 
-FBI said to probe breach of Juniper Networks
+Monday's winter solstice marks our longest night
 
-5 hours, 43 minutes | News
+9 hours, 7 minutes | Sciencefair
 
-3 things to know before buying next lightbulbSpaceX aims to land rocket back at Cape CanaveralApple's slow App Store slowness has a silver lining travel
+Best tech gifts for big spendersThe best dishwashers to buy this ChristmasHow Facebook brought burn victim an early Christmas travel
 
-Amazing underwater adventures in the Caribbean
+Eight smart travel predictions for 2016
 
-The best last-minute gifts for food and travel lovers
+Rick Steves: Journeys to the ends of Europe
 
-3 days, 1 hour | Food &. Wine
+1 day, 16 hours | Destinations
 
-Rick Steves: Journeys to the ends of EuropeA guide to flying for Christmas and New Year’sThe worst places to sit on a plane Reviewed.com
+Amazing underwater adventures in the CaribbeanThe best last-minute gifts for food and travel loversA guide to flying for Christmas and New Year’s Reviewed.com
 
 The best headphones to buy this Christmas
 
 All beer lovers should try these 5 winter brews
 
-2 days, 6 hours | News
+3 days, 6 hours | News
 
 The best holiday gifts for cooks and foodies5 delicious Hanukkah foods everyone should tryHow to clean stainless-steel appliances experience
 
@@ -300,27 +312,27 @@ The best last-minute gifts for food and travel lovers
 
 Seven things to know before visiting a cruise ship spa
 
-1 day, 17 hours | Cruise
+2 days, 17 hours | Cruise
 
-The best underwater adventures in the CaribbeanPhoto tour: Las Vegas' Suncoast Hotel &. CasinoAmerican castles: Majestic fortresses right here at home VOICES Opinion
+The best underwater adventures in the CaribbeanPhoto tour: Las Vegas' Suncoast Hotel &. CasinoAmerican castles: Majestic fortresses right here at home VOICES Voices
 
-Punchlines: The Force, and Fallon's singing, awakens
+Voices: 'Revenant' a gripping tale of guts and spirit
+
+Opinion
+
+George Takei: The currency of fear
+
+Opinion
+
+Christmas doesn't have to be controversial in public schools: Column
 
 Your Take
 
 #YourTake2015: Share the year's best moments
 
-Opinion
+News
 
-Glenn Reynolds: Go to college or go to jail?
-
-Opinion
-
-Federal Grinches spoil Christmas: Column
-
-Voices
-
-Voices: Learning to cope with terrorism threat
+Everything you need to know this holiday season
 
 Music
 
@@ -342,26 +354,26 @@ Your Take: USA TODAY's top reader photo of the day
 
 Most Popular
 
-*   Boy hospitalized, 90 animals seized in abuse case
+*   Jimmy Carter teaches Sunday school hours after grandson dies
     
-*   FBI said to probe breach of Juniper Networks VPN software
+*   Wolff: The end of Yahoo
     
-*   Falling oil prices raise fears about economy
+*   Odell Beckham Jr. loses cool, lunges at Josh Norman's head
     
-*   SpaceX aims to land rocket back at Cape Canaveral
+*   Playoff picture: Texans gain control of AFC South. Chiefs continue to…
     
 
 Trending on Social
 
-*   Clinton, Sanders move past data spat in Dem debate
+*   Oh no! Steve Harvey crowns wrong woman Miss Universe
     
-*   Hall of Famer Richard Dent would try to 'knock (Cam Newton's) ass out of the game'
+*   Police: 1 dead, 37 injured after car plows into pedestrians on Las Vegas Strip
     
-*   Analysis: Democratic candidates did what they came to do at third debate
+*   Twitter roasts Steve Harvey over Miss Universe mistake
     
-*   Jets take down Kellen Moore, Cowboys 19-16 with late field goal
+*   91 missing from landslide that buries buildings in China
     
-*   San Jose State rallies to beat Georgia State in Cure Bowl
+*   After 2,000 years, Christians disappearing from Gaza
     
 
 SPONSOR CONTENT Right Now
