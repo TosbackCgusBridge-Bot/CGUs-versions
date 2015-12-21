@@ -1,7 +1,5 @@
 SEG1 hp
 
-*   ×
-
 *   Office Depot Business Solution
 *   OfficeMax Workplace
 *   Corporate/Government
@@ -13,7 +11,7 @@ SEG1 hp
 
 Office Depot Deals
 
-mZsZgvKdQw3ln1sp2GvCKt3 Recommended Products
+tOqJuR7EYUOQeSBhu9HWYJ\_ Recommended Products
 
 Category Matches
 
