@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14243722456
+true true C14247053486
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p31.jcpenney.com SERVER NAME :->. dtcomexpr1c1j4 TIME :->. Sat Dec 19 11:14:53 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Sun Dec 20 11:15:20 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,47 +48,31 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-$10 Off\* $25 or More In Store and Online | Ends December 19 | Use Code: NOWSAV Print CouponOr, Extra 30% Off\* $100 or More Online Only | Ends December 19 | Use Code: FUNSHOP Or, Extra 25% Off\* Up To $100 Online Only | Ends December 19 | Use Code: FUNSHOP
+Great Deals On Gifts For Everyone Hurry In! Only a Few Days Left to Shop!
 
-\*All offers apply to select orig, reg, sale and clearance-priced items.
+Wrap It Up Sale
 
-See exclusions and details Budget-Friendly Gifts Under $15 Gifts Under $15 Shop Now12.99 Stafford Travel Easy-Care Broadcloth Dress Shirts
+Shop Sale View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Nike Shoes, Apparel and More On Sale 25% Off Nike For The Family
 
-reg. $36
+Select styles, excluded from coupon.
 
-Shop Stafford Dress ShirtsBig Buy! 6.99-8.99 Boys' and Girls' Sleepwear Separates
-
-Select styles.
-
-Shop Boys' and Girls' Sleepwear8.99 Made for Life V-Neck Brushed Fleece
-
-orig. $18
-
-Shop Made for Life9.99 - after $10 mail-in rebate - Cooks Small Appliances
-
-sale 19.99, select styles, excluded from coupon
-
-Shop Cooks Small Appliances Save On Gifts For The Home 30 to 50% Off Home Collections
+Shop Nike For The Family Shop Men Shop Women Shop Boys Shop Shoes         Save On Kitchen, Bath and More Home Decor 30 to 50% Off Home Collections
 
 Select styles.
 
-Shop Home Sale 119.99 - plus $20 mail-in rebate, Keurig 2.0 K250 Brewer (excluded from coupon) Star Wars: The Force Awakens Apparel On Sale 40 to 50% Off Star Wars Apparel
+Shop Home Sale Shop Small Appliances (excluded from coupon) Gifts That Sparkle At Our Holiday Jewelry Sale Holiday Jewelry Sale | December 8-24
 
-Select styles.
+20 to 60% Off Jewelry, select styles
 
-Shop Star Wars Apparel Going Fast! New Markdowns on Clearance 60 to 80% Off Clearance | In Store and Online | New Markdowns!
+Shop All Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Shop Love in Motion Gifts That Make Scents Sephora
 
-Christmas gifts at clearance prices.
+Eau what fun!
 
-Shop Clearance Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Home Shop Handbags and Accessories Shop Jewelry SportsFanShop
+Shop fragrance: SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop Round Up and Let Your Change Make Real Change
-
-Support JCPenney Cares in December by rounding up your purchase to help fund programs that keep kids safe, healthy and engaged beyond the classroom.
-
-Learn More Holiday Gift Shop
+Shop SportsFanShop Star Wars™ Shop Star Wars Now Holiday Gift Shop
 
 Where Giving Begins: Gifts they want. Savings you love.
 
