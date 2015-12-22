@@ -425,6 +425,6 @@ This section describes what rights you and NetZero possess if you and NetZero ha
 A list of ways to contact NetZero is available at http://www.netzero.net/support/support.html.  
   
 NetZero Home | My NetZero | Help | My Account | Corporate | Join Now | Site Map About NetZero | About United Online | Our Services | Advertisers | Investors | Press | Privacy Policy | Your Privacy Rights | About Ads | Terms of Service  
-United Online Classmates | MyPoints | NetZero | Juno | MySite
+United Online MyPoints | NetZero | Juno | MySite
 
 © 1998-2015 NetZero, Inc. NetZero is a registered trademark, and the NetZero logo is a trademark of NetZero, Inc.
