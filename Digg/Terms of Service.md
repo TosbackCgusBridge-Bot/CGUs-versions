@@ -68,7 +68,7 @@ Digg complies with the Digital Millennium Copyright Act. We have a policy of ter
 
 The contact information for Digg’s Designated Agent for receipt of notices of claimed infringement is here:
 
-> _Physical mail:_ Digg / News.me Inc., 29 Little West 12th Street, New York, NY, 10014, Attn: Digg Copyright Agent
+> _Physical mail:_ Digg / News.me Inc., 50 Eldridge Street, New York, NY, 10002, Attn: Digg Copyright Agent
 > 
 > _Email:_ support@digg.com
 
