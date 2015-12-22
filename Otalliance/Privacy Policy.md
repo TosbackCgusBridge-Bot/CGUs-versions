@@ -100,9 +100,9 @@ Tue, Jan 19, 2016 The Reckoning
 
 Join OTA Executive Director Craig Spiezle at this key event addressing the integrity of online advertising and consumer trends in "ad avoidance". Save $100 off of the early bird price and $200 off the regular price using the code **OTA16R.** Advertising broke the Internet, and just about all of the stakeholders finally are getting pissed. Many marketers are losing faith and consumers are fed up with ad and data collection abuse.Why not toggle that ad blocking switch and get the experience we really want?
 
-Thu, Jan 28, 2016
+Thu, Jan 28, 2016 2016 Data Privacy Day
 
-Stay tuned for an informative program with the FBI, OTA and industry leaders.  Registration Coming Soon.
+Join us on January 28 as experts in law enforcement, forensics and security, policy and communications answer these questions through insightful discussions about cybersecurity trends and best practices on how to prepare for and respond to a cybersecurity event. Speakers include Tim Wallach, Supervisor Special Agent of the FBI and Craig Spiezle, Executive Director &. President, Online Trust Alliance.  
 
 Tue, Feb 9, 2016 FTC To Host Data Security Conference - Seattle
 
