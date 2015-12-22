@@ -111,7 +111,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gifts Over $90
 *   Specials
 
-Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Up to 20% off Select Items + ~$25~ $10 2-DAY Delivery on Shipments $20+\*
+Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Still time to deliver for Christmas! - Select Overnight Delivery
 
 1.  Home
 2.  Customer Service
