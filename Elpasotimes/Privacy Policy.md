@@ -85,38 +85,38 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ News Reports: Car hits multiple pedestrians on Las Vegas Strip
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Nation Now SpaceX launches Falcon 9 rocket, lands booster back on Earth
 
 TOP STORIES
 
-*   OnPolitics Trump on Clinton's Islamic State claim: She 'lies like crazy'
-*   World 91 missing from landslide that buries buildings in China
-*   Entertain This Oh no! Steve Harvey crowns wrong woman Miss Universe
-*   Jimmy Carter's 28-year-old grandson dies suddenly
-*   Five dead in Calif. small plane crash
-*   At Supreme Court, Texas dominates docket
-*   Former 3 Doors Down bassist heading to prison
-*   Why your parents are disappointed in you
-*   After 2,000 years, Christians in Gaza disappearing
-*   'Star Wars' destroys records with $238M weekend
-*   Elway: Peyton Manning hasn't refused Broncos role
-*   Fact check: Dems stretched the truth at third debate
+*   News No charges in Sandra Bland jailhouse death
+*   Elections Clinton to call for Alzheimer's cure, increase spending to $2 billion…
+*   Nation Driver in Las Vegas Strip crash 'stressed' by security guards
+*   No bail for alleged San Bernardino gun buyer
+*   Report: Ford, Google to build self-driving cars together
+*   The longest night of the year is here
+*   Vegas crash suspect once lauded as role model
+*   Raiders' Woodson to retire after 2015 season
+*   Chelsea Clinton announces she's pregnant
+*   Jet.com can't guarantee Christmas delivery
+*   Turnabout is fair play: Palin counter-spoofs Fey
+*   NFL suspends Odell Beckham for one game
 
-World
+Markets
 
-Fake bomb forces diversion of Air France flight
+11 retailers sled past Amazon during holidays
 
-OnPolitics
+Money
 
-Donald Trump: No proof Putin has 'killed anybody'
+Chipotle linked to a second E. coli outbreak
 
-Carolina Panthers
+Nation Now
 
-Josh Norman, Panthers hit back on Odell Beckham Jr. for heated play
+McNativity? Pic of burger joint window goes viral
 
-Movies
+People
 
-Ryan Gosling, Brad Pitt go full un-hot in 'Big Short'
+What Trump says about the Miss Universe flub
 
 2015 YEAR IN REVIEW News
 
@@ -124,211 +124,223 @@ Full coverage: Looking back at 2015
 
 News
 
-Passages 2015: Remembering those we've lost through the year
+The amazing scientific discoveries of 2015
 
-Nation Now
+Nation
 
-How well do you remember 2015? Test your news knowledge
+Most unfortunate shirts worn during arrests in 2015
 
-News
+Nation
 
-Best USA TODAY photos of 2015
+The famous -- and near-famous -- who died in 2015
+
+SpaceX launches Falcon 9, successfully lands booster
+
+SpaceX successfully launched their Falcon 9 rocket carrying 11 satellites to low-Earth orbit. This mission also marked SpaceX's first successful landing of the first stage booster.
+
+1 of 23 See more video
+
+Guests rescued from SeaWorld Orlando ride
+
+SeaWorld Orlando officials say rescuers successfully removed guests from the Sky Tower after it stopped working. The 400-foot ride features a double-decker, rotating pod that guests board at ground level and take a leisurely ride to the top.
+
+2 of 23 See more video
+
+USA TODAY's best photographs of 2015
+
+USA TODAY's best photographs of 2015
+
+3 of 23 See more video
+
+Mechanic foots single dad's $1,500 repair bill
+
+When a single dad could not afford the $1,500 needed to fix his mini-van, a Denver mechanic waived all the costs as an early Christmas gift.
+
+4 of 23 See more video
+
+Sign-language Santa brings joy to deaf children
+
+It turns out that Santa Claus can speak any language! These deaf and hard-of-hearing children got to tell Santa everything on their lists.
+
+5 of 23 See more video
+
+The apps that made you say 'Wow!' this year
+
+USA TODAY's Jefferson Graham takes a look at the top apps that made smartphone users say 'Wow!' in 2015.
+
+6 of 23 See more video
 
 2015: A year of global turmoil
 
 From terrorist attacks to natural disasters, 2015 saw its share of turmoil across the globe.
 
-1 of 21 See more video
+7 of 23 See more video
 
-Yogi Berra, B.B. King among greats we remember in 2015
+10 most-read stories of 2015
 
-We remember the celebrities who passed away in 2015, after years of touching our hearts and lives.
+The Paris attacks, Lamar Odom, Bobbi Kristina Brown and the San Bernardino, Calif., shootings are among the stories you clicked on most this year.
 
-2 of 21 See more video
+8 of 23 See more video
 
-2008's Sarah Palin meets 2015's Hillary Clinton on 'SNL'
+Instagram's most-liked image of 2015 not who you think
 
-Tina Fey and Amy Poehler returned to 'Saturday Night Live,' and they brought their impersonations of Sarah Palin and Hillary Clinton with them. Video provided by Newsy
+Kendall Jenner has taken the top spot for the most liked photo on Instagram in 2015. Keri Lumm (@thekerilumm) has the story.
 
-3 of 21 See more video
+9 of 23 See more video
 
-Best moments from 3rd Democratic debate in 3 minutes
+SpaceX launches Falcon 9, successfully lands booster
 
-The final Democratic debate of 2015 focused on the economy, foreign policy and of course, Donald Trump. Hillary Clinton, Bernie Sanders and Martin O'Malley all had choice words for the billionaire businessman.
+SpaceX successfully launched their Falcon 9 rocket carrying 11 satellites to low-Earth orbit. This mission also marked SpaceX's first successful landing of the first stage booster.
 
-4 of 21 See more video
+10 of 23 See more video
 
-Steve Harvey accidentally crowns wrong Miss Universe
+The top gadgets of 2015
 
-Talk about awkward. Miss Universe host Steve Harvey accidentally crowned the wrong winner during the Las Vegas pageant.
+USA TODAY tech columnist Jennifer Jolly shares her picks for this year's best gadgets.
 
-5 of 21 See more video
+11 of 23 See more video
 
-The dumbest criminals of 2015
+A very Photoshopped Royal family Christmas?
 
-Gillian Pensavalle (@GillianWithaG) rounds up some of the dumbest criminals of 2015.
+Many on social media believe the Duke and Duchess of Cambridge used Photoshop on Princess Charlotte in their latest Christmas picture. Video provided by Newsy
 
-6 of 21 See more video
+12 of 23 See more video
+
+Astronauts Fix Jammed Station during Spacewalk
+
+Two American astronauts helped move a stalled rail car back into place outside the International Space Station on Monday, quickly finishing the primary job of an unplanned spacewalk before moving on to other housekeeping tasks. (Dec. 21)
+
+13 of 23 See more video
+
+Lindsey Graham Exits GOP Presidential Race
+
+Continuing to stuggle with low poll numbers, South Carolina Senator Lindsey Graham suspends his campaign urging restoration of the military and defeat of the Islamic State. Courtesy Lindsey Graham Campaign. (Dec. 21)
+
+14 of 23 See more video
+
+Staying fit during the holidays is not impossible
+
+Cookies, cakes, and pies, oh my! Here are three moves to keep you fit in between all of that holiday shopping and eating.
+
+15 of 23 See more video
+
+Shipping mania: Delivering millions of gifts
+
+UPS plans to deliver about 36 million packages on Dec. 22, 2015, its busiest day of the year, up from 35 million in 2014. The key to getting all those orders delivered on time is Worldport, a massive sorting facility located in Louisville.
+
+16 of 23 See more video
 
 Deputy hands drivers $100 instead of tickets
 
 An anonymous donor gave the Monroe County Sheriff's Office $5,000 to help spread Christmas cheer to unsuspecting Georgia drivers.
 
-7 of 21 See more video
+17 of 23 See more video
+
+2008's Sarah Palin meets 2015's Hillary Clinton on 'SNL'
+
+Tina Fey and Amy Poehler returned to 'Saturday Night Live,' and they brought their impersonations of Sarah Palin and Hillary Clinton with them. Video provided by Newsy
+
+18 of 23 See more video
+
+Steve Harvey accidentally crowns wrong Miss Universe
+
+Talk about awkward. Miss Universe host Steve Harvey accidentally crowned the wrong winner during the Las Vegas pageant.
+
+19 of 23 See more video
+
+Steve Harvey after Miss Universe: 'I made a mistake'
+
+Miss Universe Host Steve Harvey explained that he made a mistake and didn't read his entire card when he announced the wrong pageant winner. He named Miss Colombia Miss Universe before realizing his error and announcing that Miss Philippines had won.
+
+20 of 23 See more video
+
+The dumbest criminals of 2015
+
+Gillian Pensavalle (@GillianWithaG) rounds up some of the dumbest criminals of 2015.
+
+21 of 23 See more video
 
 Watch what happens when you pull over Chewbacca
 
 A traffic stop in Texas goes differently than planned for one officer after he pulls over a car full of Star Wars characters in this playful video posted to Facebook by the Fulshear, Texas Police Department.
 
-8 of 21 See more video
+22 of 23 See more video
 
-Army mom gets best reaction surprising kids at school
+Most unfortunate shirts worn during arrests in 2015
 
-Elise Kurek has spent seven months away from her family, training for a medical career in the Army. See what happened when she came home early and surprised her kids at school.
+From incriminating evidence to honest admissions, Gillian Pensavalle (@GillianWithaG) has some of the most unfortunate shirts people wore when they were arrested in 2015.
 
-9 of 21 See more video
+23 of 23 See more video Last VideoNext Video news
 
-'Star Wars' broke all debut records except this one
+No charges in Sandra Bland jailhouse death
 
-"Star Wars: Episode VII" brought in an estimated $238 million. That's the best domestic debut of any movie ever, and the records don't stop there. Video provided by Newsy
+Report: Ford, Google to build self-driving cars together
 
-10 of 21 See more video
+16 minutes | Nation Now
 
-Rare photo of Billy the Kid may have been found
+2015: The year in picturesToday in History for December 22ndSpaceX Sucessfully Lands Spent Rocket sports
 
-A rare tintype photo of Billy the Kid may have been found. If the photo is authentic, it could be worth millions of dollars.
+'Leastern' no more: Balance of power returning to NBA
 
-11 of 21 See more video
+Stafford's big night helps Lions march past Saints
 
-What drives attacks on U.S. places of worship?
+28 minutes | NFL
 
-A recent report shows a spike in attacks on U.S. mosques this year, but other religious buildings have also been targets of violence or vandalism. Video provided by Newsy
+Bell: Beckham behavior inexcusableWatch: Lions RB embarrasses defender with jukeBeckham suspended one game life
 
-12 of 21 See more video
+Filming 'Concussion' was 'bittersweet' for star Will Smith
 
-Even black holes have their limits, study says
+Cross WordsAll GamesEntertain This! Miss Universe explodes over gaffe, Trump weighs inNew 'Star Wars' destroys records with $238M weekend'Concussion' set was 'somber, hopeful' money
 
-Researchers from the University of Leicester say there's a limit to how big a black hole can get before it stops growing. Video provided by Newsy
+BMW hit with $40M fine for recall violations
 
-13 of 21 See more video
+StocksPortfolio TrackerAmerica's Markets Chipotle linked to a second E. coli outbreakReport: Ford, Google joining to build self-driving carsRobots are taking over your portfolio tech
 
-Travel hassle-free in 2016 with these tips
+Jet.com says it can't guarantee Christmas delivery
 
-Planning a trip in 2016? Don't book anything until you hear these 3 tips for traveling hassle free all year long.
+Start-ups target Christmas shopping procrastinators
 
-14 of 21 See more video
+5 hours, 19 minutes | News
 
-Bank robbed during live TV report
+Sources: Google to invest $500M in new Tenn. data centerApple CEO backs use of encryptionSnow plow alerts on Waze tested by three New England states travel
 
-An Iowa TV reporter was on live TV outside a Minnesota bank when a bank employee pointed out a suspect who had allegedly just robbed it. A suspect was arrested later. (Dec. 16)
+Photo tour: A stylish new ship that will get you off the beaten path
 
-15 of 21 See more video
+The toiletries war heats up at hotels
 
-How to nail those viral dances at your holiday party
+1 day, 6 hours | Hotels
 
-It's holiday party season, and you'll likely have to dance. We'll show you some of the year's hottest dance moves (sort of). Video provided by Newsy
+Ask the Captain: How do airlines pair planes and routes?Eight smart travel predictions for 2016 Unusual holiday decorations around the USA Reviewed.com
 
-16 of 21 See more video
+How do dishwashers actually work?
 
-Man sued for allegedly eating shipmate while lost at sea
+It took 800 people to perfect the iPhone camera
 
-After more than a year lost at sea, a man returns to find himself in a $1M lawsuit for eating his shipmate's body. The man says he didn't do it but the deceased's family doesn't believe him. Keleigh Nealon (@keleighnealon) has the story!
+10 hours, 57 minutes | Tech
 
-17 of 21 See more video
+10 Christmas cookie recipes from celebrity chefsThe best cameras to buy this ChristmasThe best holiday gifts for cooks and foodies experience
 
-'Point Break' wingsuit scene "most hardcore stunt" ever
+Unusual holiday decorations around the USA
 
-Crew at the 'Point Break' world premiere told us the wingsuit sequence, filmed over the course of 60+ jumps, is "something to behold."
+The ultimate gingerbread structures to see this season
 
-18 of 21 See more video
+6 days, 10 hours | Food &. Wine
 
-Outraged mom: Daughter's henna ruined Christmas
+Holiday gift guide: Perfect presents from the CaribbeanPhoto tour: Las Vegas' Suncoast Hotel &. CasinoAmerican castles: Majestic fortresses right here at home VOICES Bell
 
-A Texas mom is upset after her 7-year-old daughter got a henna tattoo from a multicultural event at school. She worries about its connections to other religions during the holiday season.
-
-19 of 21 See more video
-
-Deputy jumps into moving truck to save driver
-
-Watch this dramatic rescue as a sheriff's deputy jumps into a moving semitrailer after the driver apparently passed out at the wheel in Madison County, Nebraska.
-
-20 of 21 See more video
-
-Mom makes miracle halfcourt shot, wins kid free tuition
-
-A Minnesota student was the top fundraiser in a school project helping raise money to feed the hungry. The prize was $4,000 towards her tuition, but she could claim the prize only after her mom made a miraculous half-court shot.
-
-21 of 21 See more video Last VideoNext Video news
-
-Donald Trump: Hillary Clinton 'lies like crazy'
-
-After 2,000 years, Christians in Gaza disappearing
-
-18 hours, 23 minutes | World
-
-Israel faces rocket attacks after strike in LebanonWrong Miss Universe Winner AnnouncedPolice: 1 dead, 37 injured after car plows into pedestrians on Las… sports
-
-Cardinals whip Eagles to wrap up NFC West crown
-
-Panthers fire back at Beckham for Norman hit
-
-4 hours, 55 minutes | Carolina Panthers
-
-NFL playoff picture: Where things stand right nowSteelers surge by Broncos to stay in playoff huntBengals derive little joy in playoff-clinching win life
-
-Ryan Gosling, Brad Pitt go full un-hot in 'Big Short'
-
-Cross WordsAll GamesEntertain This! New 'Star Wars' destroys records with $238M weekendSteve Harvey accidentally crowns wrong Miss UniverseTwitter roasts Steve Harvey over Miss Universe mistake money
-
-The silver lining in a rate hike
-
-StocksPortfolio TrackerAmerica's Markets Internet of Things puts energy grid to testReview: Jeep Renegade Latitude still has attitudeWolff: The end of Yahoo tech
-
-SpaceX rocket launch, landing postponed to Monday
-
-Monday's winter solstice marks our longest night
-
-9 hours, 7 minutes | Sciencefair
-
-Best tech gifts for big spendersThe best dishwashers to buy this ChristmasHow Facebook brought burn victim an early Christmas travel
-
-Eight smart travel predictions for 2016
-
-Rick Steves: Journeys to the ends of Europe
-
-1 day, 16 hours | Destinations
-
-Amazing underwater adventures in the CaribbeanThe best last-minute gifts for food and travel loversA guide to flying for Christmas and New Year’s Reviewed.com
-
-The best headphones to buy this Christmas
-
-All beer lovers should try these 5 winter brews
-
-3 days, 6 hours | News
-
-The best holiday gifts for cooks and foodies5 delicious Hanukkah foods everyone should tryHow to clean stainless-steel appliances experience
-
-The best last-minute gifts for food and travel lovers
-
-Seven things to know before visiting a cruise ship spa
-
-2 days, 17 hours | Cruise
-
-The best underwater adventures in the CaribbeanPhoto tour: Las Vegas' Suncoast Hotel &. CasinoAmerican castles: Majestic fortresses right here at home VOICES Voices
-
-Voices: 'Revenant' a gripping tale of guts and spirit
+Bell: There's no justification for Giants WR Odell Beckham's behavior
 
 Opinion
 
-George Takei: The currency of fear
+Farewell, Lindsey Graham: Editorial
 
 Opinion
 
-Christmas doesn't have to be controversial in public schools: Column
+America's deadliest drug problem: Our view
 
-Your Take
+Opinion
 
-#YourTake2015: Share the year's best moments
+How Obama can follow Paris climate deal: Column
 
 News
 
@@ -346,34 +358,34 @@ Nation
 
 Your Take: USA TODAY's top reader photo of the day
 
+*   Your Take: Readers show off stunning weather photos
 *   Day in celebrities
 *   College football bowl watchability rankings
 *   December political cartoons from Gannett cartoonists
 *   Star Wars fans around the world celebrate 'The Force Awakens' premiere
-*   Bucket-list adventure: A hot-air balloon ride
 
 Most Popular
 
-*   Jimmy Carter teaches Sunday school hours after grandson dies
+*   Driver in Las Vegas Strip crash 'stressed' by security guards…
     
-*   Wolff: The end of Yahoo
+*   The Short List: Steve Harvey's blunder, Lindsey Graham drops out,…
     
-*   Odell Beckham Jr. loses cool, lunges at Josh Norman's head
+*   SpaceX launches Falcon 9 rocket, lands booster back on land
     
-*   Playoff picture: Texans gain control of AFC South. Chiefs continue to…
+*   Monday's winter solstice marks our longest night
     
 
 Trending on Social
 
-*   Oh no! Steve Harvey crowns wrong woman Miss Universe
+*   Monday's winter solstice marks the longest night
     
-*   Police: 1 dead, 37 injured after car plows into pedestrians on Las Vegas Strip
+*   From water on Mars to the Homo naledi, 2015 crammed with major discoveries
     
-*   Twitter roasts Steve Harvey over Miss Universe mistake
+*   #YourTake2015: Share your best moments of the year
     
-*   91 missing from landslide that buries buildings in China
+*   Chelsea Clinton announces second pregnancy on Twitter
     
-*   After 2,000 years, Christians disappearing from Gaza
+*   SpaceX launches Falcon 9 rocket, lands booster back on land
     
 
 SPONSOR CONTENT Right Now
