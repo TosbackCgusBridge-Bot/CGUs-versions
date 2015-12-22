@@ -44,18 +44,17 @@ Live Chat Unavailable
 
 Communicate with Us the Old-Fashioned Ways
 
-9am to 9pm EST, 365 days a year
+9am to 9pm EST, Every Day\*
+
+*   **\*Holiday Closings:**
+*   11/26: Thanksgiving
+*   12/25: Christmas Day
+*   1/1: New Years Day
 
 *   1-888-GEEKSTUFF
     
     (1-888-433-5788)
     
-
-Holiday CS Closings:
-
-*   11/26: Thanksgiving
-*   12/25: Christmas Day
-*   1/1: New Years Day
 
 **ThinkGeek, Inc.** 11216 Waples Mill Rd. Suite 100  
 Fairfax, VA 22030  
