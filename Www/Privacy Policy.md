@@ -130,7 +130,7 @@ Updates to This Privacy Policy
 
 We will revise or update this policy from time to time. If we make significant changes to how we handle personal information, we will post changes to the policy on our site and change the date at the bottom. We will provide additional notice in advance (e.g., a disclaimer on our website or an email to subscribers) if material changes are being made.
 
-Updated: April 18, 2014
+Updated: December 19, 2015
 
 Previous version(s) of this policy may be accessed on the archive page.
 
