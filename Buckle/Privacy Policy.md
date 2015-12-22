@@ -1,4 +1,4 @@
-Still can’t decide? Grab an eGift Card now!
+Get it by Christmas! See our shipping schedule.
 
 Guest Services 800-607-9788
 
