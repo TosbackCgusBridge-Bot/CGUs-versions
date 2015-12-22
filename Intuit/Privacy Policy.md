@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14247053486
+true true C14248849356
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Sun Dec 20 11:15:20 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Mon Dec 21 11:16:10 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,27 +48,11 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Great Deals On Gifts For Everyone Hurry In! Only a Few Days Left to Shop!
-
-Wrap It Up Sale
-
-Shop Sale View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Nike Shoes, Apparel and More On Sale 25% Off Nike For The Family
+Nike Shoes, Apparel and More On Sale 25% Off Nike For The Family
 
 Select styles, excluded from coupon.
 
-Shop Nike For The Family Shop Men Shop Women Shop Boys Shop Shoes         Save On Kitchen, Bath and More Home Decor 30 to 50% Off Home Collections
-
-Select styles.
-
-Shop Home Sale Shop Small Appliances (excluded from coupon) Gifts That Sparkle At Our Holiday Jewelry Sale Holiday Jewelry Sale | December 8-24
-
-20 to 60% Off Jewelry, select styles
-
-Shop All Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Shop Love in Motion Gifts That Make Scents Sephora
-
-Eau what fun!
-
-Shop fragrance: SportsFanShop
+Shop Nike For The Family Shop Men Shop Women Shop Boys Shop Shoes         SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
