@@ -20,35 +20,44 @@ LENOVO Menu
         8.  Ready to Ship PCs
         9.  Coupon Page
         10.  Deals for Students and Educators
-    *   Last Minute Holiday Deals Get it in Time for Christmas!
+    *   Year-end Clearance Event. Get Our Hottest Deals on Select Products.
         
-        Order by December 21.
+        Hurry While Supplies Last.
         
     *   Lenovo Preferred Card The Best Offers with Instant and Affordable Financing.
         
-    *   Black Friday Doorbusters are Back! Save BIG on ThinkPad and ThinkCentre PCs.
+    *   The Daily Deal Get Special Savings on a Select Product Featured Everyday!
         
 *   Support
     *   Help placing an order 24 hours a day, 7 days a week  
           
         Call 1-855-2-LENOVO (1-855-253-6686), Option 1  
-        Monday-Friday 8am-11pm (EST)  
-        Saturday 9am-8pm (EST)  
-        Sunday 9am-6pm (EST)  
+        12/21-12/23: 9am-10pm (EST)  
+        12/24: 8am-noon (EST)  
+        12/25: CLOSED  
+        12/26: 9am-9pm (EST)  
+        12/27: CLOSED  
+          
           
         Outlet sales: Call 1-877-698-4465, Option 1  
-        Monday-Friday 8am-11pm (EST)  
-        Saturday 9am-8pm (EST)  
-        Sunday 9am-6pm (EST)  
+        12/21-12/23: 9am-10pm (EST)  
+        12/24: 8am-noon (EST)  
+        12/25: CLOSED  
+        12/26: 9am-9pm (EST)  
+        12/27: CLOSED  
+          
         
     *   Help with an existing order Check order status online - track by order number  
           
           
         Call 1-855-2-LENOVO (1-855-253-6686), Option 2  
           
-        Monday-Friday 8am-11pm (EST)  
-        Saturday 9am-8pm (EST)  
-        Sunday 9am-6pm (EST)  
+        12/21-12/23: 9am-10pm (EST)  
+        12/24: 8am-noon (EST)  
+        12/25: CLOSED  
+        12/26: 9am-9pm (EST)  
+        12/27: CLOSED  
+          
         
     *   Technical Support
         1.  Lenovo Products Tablet, Laptop, Workstation, ThinkServer, Storage, and Smartphone support information
