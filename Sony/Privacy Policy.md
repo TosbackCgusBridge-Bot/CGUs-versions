@@ -154,7 +154,11 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Watch "Hotel Transylvania 2"
+Play Video
+
+Sony on YouTube
+
+Play Video
 
 Soccer Meets Driving in Rocket League
 
