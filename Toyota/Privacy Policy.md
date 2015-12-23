@@ -57,7 +57,6 @@ Hybrids & Fcv
 Upcoming Vehicles
 
 *   2016 Prius View More Info
-*   2016 RAV4 Hybrid View More Info
 *   2015 Concept Vehicles View More Info
 
 Shopping Tools
