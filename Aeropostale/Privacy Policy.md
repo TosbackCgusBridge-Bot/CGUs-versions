@@ -82,7 +82,7 @@
     *   Shorts
     
     *   JACKETS + COATS
-    *   UNDERWEAR + LOUNGE
+    *   UNDERWEAR
     *   ACCESSORIES
 *   Active
     *   Live Love Dream
