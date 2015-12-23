@@ -9,7 +9,6 @@ Contents
 *   Wayfair Giveaway Sweepstakes Official Rules
 *   Wayfair Gift Card Terms and Conditions
 *   Becoming a Supplier
-*   Becoming An Advertiser with GetItNearMe™
 *   Send Us Your Suggestions
 *   Contact Us
 *   How Will My Order Ship?
@@ -225,6 +224,10 @@ You also agree that you will not violate or attempt to violate the security of t
 Order Acceptance
 
 The receipt of an order number or an email order confirmation does not constitute the acceptance of an order or a confirmation of an offer to sell. Wayfair reserves the right, without prior notification, to limit the order quantity on any item and/or to refuse service to any customer. Verification of information may be required prior to the acceptance of an order. Prices and availability of products on the Sites are subject to change without notice. Errors will be corrected when discovered and Wayfair reserves the right to revoke any stated offer and to correct any error, inaccuracy, or omission (including after an order has been submitted). Certain orders constitute improper use of the Sites and the Wayfair Rewards Program described below. Wayfair reserves the right, at its sole discretion, to refuse or cancel any order for any reason. Your account may also be restricted or terminated for any reason, at Wayfair's sole discretion.
+
+About Our Prices
+
+Where a product listing on our Site references a higher price, typically denoted by a strikethrough (e.g. "$549"), such higher price represents the retail price suggested by the manufacturer or supplier. In the absence of a price suggested by the manufacturer or supplier, this price represents the highest price at which we offered or sold the product at some point in the past. The "Sale" tag on a product listing on our Site signifies that we are selling the product at a discount from a price in the previous 90 days.
 
 Wayfair Rewards Program
 
@@ -521,19 +524,6 @@ We value our 2,000+ supplier relationships and believe these to be the key eleme
 **Flexibility and Ease** - Each of our suppliers works closely with a Wayfair category team that is highly proficient at taking the supplier though the entire process of: (1) establishing the relationship, (2) effectively merchandising the product, (3) driving growth and (4) providing excellent customer service. We understand that every supplier may have unique needs in areas of logistics, order flow, payments, returns, etc. and we try to tune our approach to match our suppliers' needs and to make the entire process as smooth and seamless as possible.
 
 If you are interested in growing your business, please email us. We look forward to hearing from you.
-
-Becoming An Advertiser with GetItNearMe
-
-**Interested In Being an Advertiser?**  
-Wayfair provides a unique media platform for brick and mortar retailers by granting them access to an audience of 9 million unique monthly visitors who share a common goal: they are looking to buy home furnishings! With 200+ specialty sites focusing primarily on furniture, Wayfair has become a popular online destination for consumers to conduct product research before making their purchases.
-
-**Highly Targeted Ads** - Your ads will appear only to consumers in your local area when they browse our sites for the product types and brands that you carry. With 77 product categories and over 1,200 brands to choose from, you can fine tune your ads to make sure you are attracting the right customers.
-
-**Cost Effective Advertising** - In addition to your ads being shown only to highly targeted customers who are near your retail stores and interested in buying furniture, our advantageous pricing vs. paid search and other media vehicles, built-in reporting feature, and the ability to set a monthly budget make obtaining a high return on your investment easy to manage.
-
-**Flexibility** - While GetItNearMe can be as simple and low-maintenance as "setting and forgetting" a single ad, we also provide the tools to create and manage more aggressive ad campaigns.
-
-If you're ready for your advertising to "Go Local", sign up at www.getitnearme.com or contact us by email.
 
 Send Us Your Suggestions
 
