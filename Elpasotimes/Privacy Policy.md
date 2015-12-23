@@ -85,262 +85,262 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Nation Now SpaceX launches Falcon 9 rocket, lands booster back on Earth
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Nation Now Workplace bias complaints pour in from Muslims
 
 TOP STORIES
 
-*   News No charges in Sandra Bland jailhouse death
-*   Elections Clinton to call for Alzheimer's cure, increase spending to $2 billion…
-*   Nation Driver in Las Vegas Strip crash 'stressed' by security guards
-*   No bail for alleged San Bernardino gun buyer
-*   Report: Ford, Google to build self-driving cars together
-*   The longest night of the year is here
-*   Vegas crash suspect once lauded as role model
-*   Raiders' Woodson to retire after 2015 season
-*   Chelsea Clinton announces she's pregnant
-*   Jet.com can't guarantee Christmas delivery
-*   Turnabout is fair play: Palin counter-spoofs Fey
-*   NFL suspends Odell Beckham for one game
+*   Nation Healthcare.gov enrollment up more than one third over 2014
+*   News Year in review: 50 stories from 50 states
+*   News Report: Robert Durst to return to L.A. to face murder charge
+*   Out of the loop today? We've got what you missed
+*   Chicago cop: Mom of man I shot threatened me
+*   Woman dies while being kicked out of hospital
+*   Ford recalls 303K sedans for faulty headlights
+*   Vt. police kill man in drug raid
+*   19 cars, SUVs you will no longer be able to buy
+*   Woman bites off husband's ear over a beer
+*   This tech makes great stocking stuffers
+*   Armour: 'Concussion' highlights football's risks
+
+Opinion
+
+Draft our daughters: Column
 
 Markets
 
-11 retailers sled past Amazon during holidays
+Gadget overload! Gizmos lose their appeal
 
-Money
+NFL
 
-Chipotle linked to a second E. coli outbreak
+NFL coaching hot seat rankings
 
-Nation Now
+Movies
 
-McNativity? Pic of burger joint window goes viral
-
-People
-
-What Trump says about the Miss Universe flub
+Review: Jennifer Lawrence is a real 'Joy'
 
 2015 YEAR IN REVIEW News
 
 Full coverage: Looking back at 2015
 
+Sports
+
+The top 10 sports controversies of 2015
+
 News
 
-The amazing scientific discoveries of 2015
+Car tech took the wheel in 2015
 
-Nation
+Music
 
-Most unfortunate shirts worn during arrests in 2015
+50 best songs of 2015
 
-Nation
+Christmas carol singing flashmob takes over German airport
 
-The famous -- and near-famous -- who died in 2015
-
-SpaceX launches Falcon 9, successfully lands booster
-
-SpaceX successfully launched their Falcon 9 rocket carrying 11 satellites to low-Earth orbit. This mission also marked SpaceX's first successful landing of the first stage booster.
+A German broadcasting company gave the gift of song and cheer to those traveling through the Cologne Bonn airport this holiday season. Thanks to their flashmob style, it was a pleasant surprise. Scott Knowlton has more.
 
 1 of 23 See more video
 
-Guests rescued from SeaWorld Orlando ride
+Top media controversies of 2015
 
-SeaWorld Orlando officials say rescuers successfully removed guests from the Sky Tower after it stopped working. The 400-foot ride features a double-decker, rotating pod that guests board at ground level and take a leisurely ride to the top.
+USA TODAY editor-at-large Rem Rieder shares his picks for this year's biggest controversies involving the media.
 
 2 of 23 See more video
 
-USA TODAY's best photographs of 2015
+Making holiday truffles with Godiva's head chocolatier
 
-USA TODAY's best photographs of 2015
+Godiva gave us an up close look at the process to make their limited edition holiday truffles. The creation process for Godiva starts years in advance and can take over six months to test, package and design.
 
 3 of 23 See more video
 
-Mechanic foots single dad's $1,500 repair bill
+Obama makes amazing 40-foot chip shot
 
-When a single dad could not afford the $1,500 needed to fix his mini-van, a Denver mechanic waived all the costs as an early Christmas gift.
+President Barack Obama sank a 40-foot chip shot on the 18th hole at the Mid Pacific Country Club in Hawaii.
 
 4 of 23 See more video
 
-Sign-language Santa brings joy to deaf children
+Godiva's tips on how to make truffles at home
 
-It turns out that Santa Claus can speak any language! These deaf and hard-of-hearing children got to tell Santa everything on their lists.
+From Godiva's head chocolatier, here are three tips for making truffles at home just in time for Christmas.
 
 5 of 23 See more video
 
-The apps that made you say 'Wow!' this year
+Obama, Seinfeld chat and grab coffee
 
-USA TODAY's Jefferson Graham takes a look at the top apps that made smartphone users say 'Wow!' in 2015.
+President Obama will join Jerry Seinfeld for a drive, a cup of coffee and a wide-ranging chat on the first episode of the seventh season of the stand-up's web series, "Comedians in Cars Getting Coffee."
 
 6 of 23 See more video
 
-2015: A year of global turmoil
+Top 5 car stories of 2015
 
-From terrorist attacks to natural disasters, 2015 saw its share of turmoil across the globe.
+From airbags to diesel emissions, these auto stories made big news in 2015.
 
 7 of 23 See more video
-
-10 most-read stories of 2015
-
-The Paris attacks, Lamar Odom, Bobbi Kristina Brown and the San Bernardino, Calif., shootings are among the stories you clicked on most this year.
-
-8 of 23 See more video
-
-Instagram's most-liked image of 2015 not who you think
-
-Kendall Jenner has taken the top spot for the most liked photo on Instagram in 2015. Keri Lumm (@thekerilumm) has the story.
-
-9 of 23 See more video
-
-SpaceX launches Falcon 9, successfully lands booster
-
-SpaceX successfully launched their Falcon 9 rocket carrying 11 satellites to low-Earth orbit. This mission also marked SpaceX's first successful landing of the first stage booster.
-
-10 of 23 See more video
 
 The top gadgets of 2015
 
 USA TODAY tech columnist Jennifer Jolly shares her picks for this year's best gadgets.
 
+8 of 23 See more video
+
+The apps that made you say 'Wow!' this year
+
+USA TODAY's Jefferson Graham takes a look at the top apps that made smartphone users say 'Wow!' in 2015.
+
+9 of 23 See more video
+
+Miss Universe contestants go makeup-free
+
+The women of Miss Universe showed us their bare faces in a series of selfies. It was part of the #ConfidentlyBeautiful campaign. Sloane Glass (@sloaneglass) has more.
+
+10 of 23 See more video
+
+This car has wheels made completely out of ice
+
+Leaxus has fitted one of its compact crossovers with a set of wheels and tires made from ice. Paula Vasan (@paulavasan) has the details.
+
 11 of 23 See more video
+
+13-year-old flees in car with 8-year-old sister inside
+
+A 13-year-old boy is facing charges after leading police on a car chase with his 8-year-old sister in the vehicle.
+
+12 of 23 See more video
+
+Santa loses one of his reindeer, causing chaos in the streets
+
+Tesco was hosting a Christmas event with live reindeer, when one of them got loose. Keri Lumm (@thekerilumm) reports.
+
+13 of 23 See more video
+
+Mechanic foots single dad's $1,500 repair bill
+
+When a single dad could not afford the $1,500 needed to fix his mini-van, a Denver mechanic waived all the costs as an early Christmas gift.
+
+14 of 23 See more video
+
+Parents upset by how Santa treated special needs child
+
+Santa posed for a photo standing with a 13-month-old suffering from a genetic brain and muscle disorder after the child's parents say he refused to let the little boy sit in his lap like the other children.
+
+15 of 23 See more video
+
+Best and worst cities for single people in 2015
+
+Wallet Hub ranked 150 American cities based on how affordable and easy it is to date there. Mara Montalbano (@maramontalbano) tells us where singles should consider moving if they want to find love.
+
+16 of 23 See more video
+
+Airlines add dogs to staff to help calm passengers during travel
+
+To help you destress for the holidays, a growing number of airlines are doing their part! They're using dogs to help customers relax during seasonal travel. Keleigh Nealon (@keleighnealon) has the story!
+
+17 of 23 See more video
+
+Say goodbye to jet-lag, this new plane will help beat it
+
+The Airbus A350 XWB has some features that its designers say should help people battle jet-lag. Patrick Jones (@Patrick\_E\_Jones) explains.
+
+18 of 23 See more video
+
+USA TODAY's best photographs of 2015
+
+USA TODAY's photo staff chooses their favorite images from 2015.
+
+19 of 23 See more video
+
+SpaceX launches Falcon 9, successfully lands booster
+
+SpaceX successfully launched their Falcon 9 rocket carrying 11 satellites to low-Earth orbit. This mission also marked SpaceX's first successful landing of the first stage booster.
+
+20 of 23 See more video
+
+Guests rescued from SeaWorld Orlando ride
+
+SeaWorld Orlando officials say rescuers successfully removed guests from the Sky Tower after it stopped working. The 400-foot ride features a double-decker, rotating pod that guests board at ground level and take a leisurely ride to the top.
+
+21 of 23 See more video
 
 A very Photoshopped Royal family Christmas?
 
 Many on social media believe the Duke and Duchess of Cambridge used Photoshop on Princess Charlotte in their latest Christmas picture. Video provided by Newsy
 
-12 of 23 See more video
-
-Astronauts Fix Jammed Station during Spacewalk
-
-Two American astronauts helped move a stalled rail car back into place outside the International Space Station on Monday, quickly finishing the primary job of an unplanned spacewalk before moving on to other housekeeping tasks. (Dec. 21)
-
-13 of 23 See more video
-
-Lindsey Graham Exits GOP Presidential Race
-
-Continuing to stuggle with low poll numbers, South Carolina Senator Lindsey Graham suspends his campaign urging restoration of the military and defeat of the Islamic State. Courtesy Lindsey Graham Campaign. (Dec. 21)
-
-14 of 23 See more video
-
-Staying fit during the holidays is not impossible
-
-Cookies, cakes, and pies, oh my! Here are three moves to keep you fit in between all of that holiday shopping and eating.
-
-15 of 23 See more video
-
-Shipping mania: Delivering millions of gifts
-
-UPS plans to deliver about 36 million packages on Dec. 22, 2015, its busiest day of the year, up from 35 million in 2014. The key to getting all those orders delivered on time is Worldport, a massive sorting facility located in Louisville.
-
-16 of 23 See more video
-
-Deputy hands drivers $100 instead of tickets
-
-An anonymous donor gave the Monroe County Sheriff's Office $5,000 to help spread Christmas cheer to unsuspecting Georgia drivers.
-
-17 of 23 See more video
-
-2008's Sarah Palin meets 2015's Hillary Clinton on 'SNL'
-
-Tina Fey and Amy Poehler returned to 'Saturday Night Live,' and they brought their impersonations of Sarah Palin and Hillary Clinton with them. Video provided by Newsy
-
-18 of 23 See more video
-
-Steve Harvey accidentally crowns wrong Miss Universe
-
-Talk about awkward. Miss Universe host Steve Harvey accidentally crowned the wrong winner during the Las Vegas pageant.
-
-19 of 23 See more video
-
-Steve Harvey after Miss Universe: 'I made a mistake'
-
-Miss Universe Host Steve Harvey explained that he made a mistake and didn't read his entire card when he announced the wrong pageant winner. He named Miss Colombia Miss Universe before realizing his error and announcing that Miss Philippines had won.
-
-20 of 23 See more video
-
-The dumbest criminals of 2015
-
-Gillian Pensavalle (@GillianWithaG) rounds up some of the dumbest criminals of 2015.
-
-21 of 23 See more video
+22 of 23 See more video
 
 Watch what happens when you pull over Chewbacca
 
 A traffic stop in Texas goes differently than planned for one officer after he pulls over a car full of Star Wars characters in this playful video posted to Facebook by the Fulshear, Texas Police Department.
 
-22 of 23 See more video
-
-Most unfortunate shirts worn during arrests in 2015
-
-From incriminating evidence to honest admissions, Gillian Pensavalle (@GillianWithaG) has some of the most unfortunate shirts people wore when they were arrested in 2015.
-
 23 of 23 See more video Last VideoNext Video news
 
-No charges in Sandra Bland jailhouse death
+Christmas procrastinating isn't what if used to be. Welcome to 2015
 
-Report: Ford, Google to build self-driving cars together
+Obama marks 5th anniversary of repealing 'Don't Ask, Don't…
 
-16 minutes | Nation Now
+8 hours, 33 minutes | The Oval
 
-2015: The year in picturesToday in History for December 22ndSpaceX Sucessfully Lands Spent Rocket sports
+2015: The year in picturesToday in History for December 23rdVt. police kill man in drug raid sports
 
-'Leastern' no more: Balance of power returning to NBA
+Panthers lead Pro Bowl selections with 10 players
 
-Stafford's big night helps Lions march past Saints
+Ravens rookie stuck with $11,561 restaurant bill
 
-28 minutes | NFL
+8 hours, 26 minutes | NFL
 
-Bell: Beckham behavior inexcusableWatch: Lions RB embarrasses defender with jukeBeckham suspended one game life
+HS hockey team experiments with two-goalie lineupDean Blandino reminded ref he could eject BeckhamAlabama's too good to make excuses this time life
 
-Filming 'Concussion' was 'bittersweet' for star Will Smith
+'Pageantgate' still pumping out outrage, derision and talk of plots
 
-Cross WordsAll GamesEntertain This! Miss Universe explodes over gaffe, Trump weighs inNew 'Star Wars' destroys records with $238M weekend'Concussion' set was 'somber, hopeful' money
+Cross WordsAll GamesEntertain This! The 50 best songs of 2015Cleveland has native son Steve Harvey's backLady Gaga got a WHAT for Christmas? money
 
-BMW hit with $40M fine for recall violations
+19 cars, SUVs you will no longer be able to buy
 
-StocksPortfolio TrackerAmerica's Markets Chipotle linked to a second E. coli outbreakReport: Ford, Google joining to build self-driving carsRobots are taking over your portfolio tech
+StocksPortfolio TrackerAmerica's Markets SEC still pursuing Steven CohenGadget overload! Gizmos lose their appealRieder: How the media was the news in 2015 tech
 
-Jet.com says it can't guarantee Christmas delivery
+Car tech took the wheel in 2015
 
-Start-ups target Christmas shopping procrastinators
+Oculus Rift due out in Q1, founder Luckey tweets
 
-5 hours, 19 minutes | News
+9 hours, 14 minutes | Tech
 
-Sources: Google to invest $500M in new Tenn. data centerApple CEO backs use of encryptionSnow plow alerts on Waze tested by three New England states travel
-
-Photo tour: A stylish new ship that will get you off the beaten path
-
-The toiletries war heats up at hotels
-
-1 day, 6 hours | Hotels
-
-Ask the Captain: How do airlines pair planes and routes?Eight smart travel predictions for 2016 Unusual holiday decorations around the USA Reviewed.com
-
-How do dishwashers actually work?
-
-It took 800 people to perfect the iPhone camera
-
-10 hours, 57 minutes | Tech
-
-10 Christmas cookie recipes from celebrity chefsThe best cameras to buy this ChristmasThe best holiday gifts for cooks and foodies experience
+Start-ups target Christmas shopping procrastinatorsPandora strikes deals with songwriters' licensersTwitter's Dorsey wants users to be more expressive travel
 
 Unusual holiday decorations around the USA
 
-The ultimate gingerbread structures to see this season
+St. Barts serves up a taste of France closer to home
 
-6 days, 10 hours | Food &. Wine
+3 days, 16 hours | Destinations
 
-Holiday gift guide: Perfect presents from the CaribbeanPhoto tour: Las Vegas' Suncoast Hotel &. CasinoAmerican castles: Majestic fortresses right here at home VOICES Bell
+Tasty holiday specials at hotelsHow to keep your New Year's resolutions at seaPhoto tour: A stylish new ship that will get you off the beaten path Reviewed.com
 
-Bell: There's no justification for Giants WR Odell Beckham's behavior
+11 great last-minute foodie stocking stuffers
+
+It took 800 people to perfect the iPhone camera
+
+1 day, 11 hours | Tech
+
+How do dishwashers actually work? 10 Christmas cookie recipes from celebrity chefsThe best holiday gifts for cooks and foodies experience
+
+Las Vegas' best winter and holiday activities
+
+Seven things to know before visiting a cruise ship spa
+
+4 days, 17 hours | Cruise
+
+Holiday gift guide: Perfect presents from the CaribbeanDine with over-the-top holiday decorDisney Parks: The Force has now awakened VOICES Opinion
+
+Ted Cruz, the Bible and immigration: Column
 
 Opinion
 
-Farewell, Lindsey Graham: Editorial
+Democrats stifle their message: Our view
 
-Opinion
+Voices
 
-America's deadliest drug problem: Our view
+Voices: Our post-Katrina Christmas still moves us
 
-Opinion
+Rieder
 
-How Obama can follow Paris climate deal: Column
+How the media was the news in 2015
 
 News
 
@@ -358,34 +358,34 @@ Nation
 
 Your Take: USA TODAY's top reader photo of the day
 
+*   Fun and festive Santas from around the world
+*   The day in pictures
 *   Your Take: Readers show off stunning weather photos
-*   Day in celebrities
 *   College football bowl watchability rankings
 *   December political cartoons from Gannett cartoonists
-*   Star Wars fans around the world celebrate 'The Force Awakens' premiere
 
 Most Popular
 
-*   Driver in Las Vegas Strip crash 'stressed' by security guards…
+*   Family outraged by Santa's standing photo with special needs child
     
-*   The Short List: Steve Harvey's blunder, Lindsey Graham drops out,…
+*   Woman dies while being kicked out of hospital
     
-*   SpaceX launches Falcon 9 rocket, lands booster back on land
+*   19 cars, SUVs you will no longer be able to buy
     
-*   Monday's winter solstice marks our longest night
+*   Review: 'Revenant' is a brutal, beautiful epic
     
 
 Trending on Social
 
-*   Monday's winter solstice marks the longest night
+*   #NotMyAbuela: Twitter users mock Clinton effort to reach Hispanic voters
     
-*   From water on Mars to the Homo naledi, 2015 crammed with major discoveries
+*   'I no longer trust them to fix me when I’m broken'
     
-*   #YourTake2015: Share your best moments of the year
+*   Bernie Sanders launches Nevada TV ad campaign
     
-*   Chelsea Clinton announces second pregnancy on Twitter
+*   Voices: Why I decided to buy a handgun
     
-*   SpaceX launches Falcon 9 rocket, lands booster back on land
+*   #IWillProtectYou: U.S. service members soothe scared Muslim girl
     
 
 SPONSOR CONTENT Right Now
