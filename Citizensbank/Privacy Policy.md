@@ -1,4 +1,4 @@
-Online Privacy Policy (Revised 12/2014)
+Online Privacy Policy (Revised 12/2015)
 
 We respect and value your privacy. Our Online Privacy Policy (“Privacy Policy”) describes and applies to the information we collect from you when you visit our online interfaces (e.g. website or mobile application) owned or controlled by us (“the Site”). The terms “we,” “our,” and “us” in this Privacy Policy refer to Citizens Financial Group, Inc. and/or its affiliates, divisions, or subsidiaries. Our Privacy Policy generally describes how we collect, share, use, and protect your information. If you are a customer who has opened an account or obtained a financial product or service from us for personal, family, or household purposes, our Privacy Notice may apply to you as well and further explains how we may use your information.
 
@@ -87,6 +87,6 @@ PRINTING INSTRUCTIONS
 
 For a copy of this document, use the print command on your web browser.  
 
-**_This Privacy Policy was last updated on: December 31, 2014_**
+**_This Privacy Policy was last updated on: December 2015_**
 
 View our Customer Privacy Notice
