@@ -1,4 +1,4 @@
-Skip to content Symptom Checker Physician Directory Sign In Sign UpSubscribe
+Skip to content Check Your Symptoms Find A Doctor Sign In Sign UpSubscribe
 
 *   My ProfileWelcome
 *   *   My Tools
@@ -126,8 +126,7 @@ Featured Topics
 
 Featured Content
 
-*   Improve Your Concentration  
-    What's That Rash? How to Treat Childhood Skin Problems
+*   What's That Rash? How to Treat Childhood Skin Problems
 
 Pregnancy App The big day is coming! Get organized and track baby's weekly development. Download Family and Pregnancy Centers Pregnancy
 
