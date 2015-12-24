@@ -3,10 +3,7 @@
 *   Girls
     
     *   NEW ARRIVALS
-    *   Gift Guide
-    *   Corny Christmas
     *   Bethany Mota
-    *   Meet the Atomics
     *   On Your Radar
     *   Cold Weather
     *   Borrowed from the Boys
@@ -53,11 +50,7 @@
 *   Guys
     
     *   NEW ARRIVALS
-    *   Gift Guide
-    *   Corny Christmas
-    *   Meet the Atomics
     *   On Your Radar
-    *   Cold Weather
     *   Throwback Tees
     *   Brooklyn Calling
     *   Free State
