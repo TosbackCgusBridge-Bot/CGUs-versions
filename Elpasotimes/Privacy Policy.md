@@ -85,262 +85,284 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Nation Now Workplace bias complaints pour in from Muslims
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Weather Flowers, trees, bugs confused by freakishly warm December
 
 TOP STORIES
 
-*   Nation Healthcare.gov enrollment up more than one third over 2014
-*   News Year in review: 50 stories from 50 states
-*   News Report: Robert Durst to return to L.A. to face murder charge
-*   Out of the loop today? We've got what you missed
-*   Chicago cop: Mom of man I shot threatened me
-*   Woman dies while being kicked out of hospital
-*   Ford recalls 303K sedans for faulty headlights
-*   Vt. police kill man in drug raid
-*   19 cars, SUVs you will no longer be able to buy
-*   Woman bites off husband's ear over a beer
-*   This tech makes great stocking stuffers
-*   Armour: 'Concussion' highlights football's risks
-
-Opinion
-
-Draft our daughters: Column
-
-Markets
-
-Gadget overload! Gizmos lose their appeal
-
-NFL
-
-NFL coaching hot seat rankings
-
-Movies
-
-Review: Jennifer Lawrence is a real 'Joy'
-
-2015 YEAR IN REVIEW News
-
-Full coverage: Looking back at 2015
-
-Sports
-
-The top 10 sports controversies of 2015
-
-News
-
-Car tech took the wheel in 2015
+*   Markets Disney stock down since 'Star Wars.' Here's why
+*   Weather Severe storms, tornadoes target South, Midwest
+*   News Black Lives Matter protest snarls Minneapolis airport
+*   'Help me, Ma!' boy screamed as dogs attacked
+*   Airmen killed in Afghan suicide bombing identified
+*   Suspect in clinic attack fears becoming 'zombie'
+*   'It’s not easy being Santa Claus' these days
+*   Texas gov. says nativity scene 'mocks Christians'
+*   Did you ask for this holiday's most requested gifts?
+*   French train hero to leave Air Force next year
+*   UFO captured? Man says he has proof
+*   20 cool gifts for the women in your life
 
 Music
 
-50 best songs of 2015
+Madonna goes to court to force son to return home
 
-Christmas carol singing flashmob takes over German airport
+Travel
 
-A German broadcasting company gave the gift of song and cheer to those traveling through the Cologne Bonn airport this holiday season. Thanks to their flashmob style, it was a pleasant surprise. Scott Knowlton has more.
+Pat-down vs. body scan: The choice lies with TSA
 
-1 of 23 See more video
+Nation Now
 
-Top media controversies of 2015
+Girl knocks over 'Elf on the Shelf,' calls 911
 
-USA TODAY editor-at-large Rem Rieder shares his picks for this year's biggest controversies involving the media.
+Entertain This
 
-2 of 23 See more video
+The Kardashians release kid-only card
 
-Making holiday truffles with Godiva's head chocolatier
+2015 YEAR IN REVIEW Christine Brennan
 
-Godiva gave us an up close look at the process to make their limited edition holiday truffles. The creation process for Godiva starts years in advance and can take over six months to test, package and design.
+Brennan: Why I don't want to say goodbye to 2015
 
-3 of 23 See more video
+News
 
-Obama makes amazing 40-foot chip shot
+Full coverage: Looking back at 2015
 
-President Barack Obama sank a 40-foot chip shot on the 18th hole at the Mid Pacific Country Club in Hawaii.
+News
 
-4 of 23 See more video
+Year in review: 50 stories from 50 states
 
-Godiva's tips on how to make truffles at home
+Columnist
 
-From Godiva's head chocolatier, here are three tips for making truffles at home just in time for Christmas.
+10 last-minute tech stocking stuffers
 
-5 of 23 See more video
+Photo apps to help you shoot like a pro
+
+Jefferson Graham runs down 5 Photo apps to help you shoot like a pro on #TalkingTech.
+
+1 of 26 See more video
+
+Black Lives Matter shut down airport terminal
+
+Police officers in riot gear were brought in to clear Black Lives Matter protesters out of the Minneapolis St. Paul International Airport terminal and from in front of the airport.
+
+2 of 26 See more video
+
+School lunch lady fired for giving girl free meal
+
+A lunch lady in Idaho is out of a job after giving a middle school student a free meal when a 12-year-old girl told her she didn't have any money and was hungry.
+
+3 of 26 See more video
+
+The Snuggle Is Real: Cats + Wrapping Paper
+
+Get into the spirit of the season with this countdown of the most hilarious videos of felines vs. gift wrap
+
+4 of 26 See more video
+
+Santa consumes how many calories each Christmas?!
+
+Santa Claus will gain some serious weight after eating A LOT of cookies and drinking A LOT of milk while delivering presents on Christmas Eve.
+
+5 of 26 See more video
+
+19 cars, SUVs you will no longer be able to buy
+
+As 2015 winds down, it's time to bid adieu to cars and trucks that went out of production in 2015 and others that we know will reach the end of the line in 2016. You're not likely to miss many of them.
+
+6 of 26 See more video
+
+These robot reindeer will haunt your Christmas
+
+Boston Dynamics, a Massachusetts-based robotics company, shared a special holiday greeting on YouTube. The video shows three of their 'robo-dogs' pulling Santa's sleigh.
+
+7 of 26 See more video
+
+Woman arrested for assaulting farting husband
+
+Too much farting led to a few punches being thrown in bed! Rob Smith (@robsmithonline) has all the details about this flatulence flap.
+
+8 of 26 See more video
+
+Taco shop creates viral video, cracks on burglars
+
+Frijoles and Frescas in Las Vegas caught a recent burglary on surveillance video. Instead of just filing a police report, they created this awesome video in hopes to help catch the suspects.
+
+9 of 26 See more video
+
+Skier barely misses being hit by falling drone
+
+The International Ski Federation is banning camera drones from its World Cup races after a drone crashed and nearly hit Austrian skier Marcel Hirscher during a slalom in Italy. (Dec. 23)
+
+10 of 26 See more video
 
 Obama, Seinfeld chat and grab coffee
 
 President Obama will join Jerry Seinfeld for a drive, a cup of coffee and a wide-ranging chat on the first episode of the seventh season of the stand-up's web series, "Comedians in Cars Getting Coffee."
 
-6 of 23 See more video
-
-Top 5 car stories of 2015
-
-From airbags to diesel emissions, these auto stories made big news in 2015.
-
-7 of 23 See more video
+11 of 26 See more video
 
 The top gadgets of 2015
 
 USA TODAY tech columnist Jennifer Jolly shares her picks for this year's best gadgets.
 
-8 of 23 See more video
-
-The apps that made you say 'Wow!' this year
-
-USA TODAY's Jefferson Graham takes a look at the top apps that made smartphone users say 'Wow!' in 2015.
-
-9 of 23 See more video
-
-Miss Universe contestants go makeup-free
-
-The women of Miss Universe showed us their bare faces in a series of selfies. It was part of the #ConfidentlyBeautiful campaign. Sloane Glass (@sloaneglass) has more.
-
-10 of 23 See more video
-
-This car has wheels made completely out of ice
-
-Leaxus has fitted one of its compact crossovers with a set of wheels and tires made from ice. Paula Vasan (@paulavasan) has the details.
-
-11 of 23 See more video
-
-13-year-old flees in car with 8-year-old sister inside
-
-A 13-year-old boy is facing charges after leading police on a car chase with his 8-year-old sister in the vehicle.
-
-12 of 23 See more video
-
-Santa loses one of his reindeer, causing chaos in the streets
-
-Tesco was hosting a Christmas event with live reindeer, when one of them got loose. Keri Lumm (@thekerilumm) reports.
-
-13 of 23 See more video
-
-Mechanic foots single dad's $1,500 repair bill
-
-When a single dad could not afford the $1,500 needed to fix his mini-van, a Denver mechanic waived all the costs as an early Christmas gift.
-
-14 of 23 See more video
-
-Parents upset by how Santa treated special needs child
-
-Santa posed for a photo standing with a 13-month-old suffering from a genetic brain and muscle disorder after the child's parents say he refused to let the little boy sit in his lap like the other children.
-
-15 of 23 See more video
+12 of 26 See more video
 
 Best and worst cities for single people in 2015
 
 Wallet Hub ranked 150 American cities based on how affordable and easy it is to date there. Mara Montalbano (@maramontalbano) tells us where singles should consider moving if they want to find love.
 
-16 of 23 See more video
+13 of 26 See more video
 
-Airlines add dogs to staff to help calm passengers during travel
+Turns out comets are more dangerous than we thought
 
-To help you destress for the holidays, a growing number of airlines are doing their part! They're using dogs to help customers relax during seasonal travel. Keleigh Nealon (@keleighnealon) has the story!
+A new study is finding that Comets present much more a danger than we previously thought. Patrick Jones (@Patrick\_E\_Jones) has the details.
 
-17 of 23 See more video
+14 of 26 See more video
+
+Atheist Santa ad incites Christmas billboard war
+
+A billboard urging people to skip church has inspired some people to support highway ads with a counter-message. Video provided by Newsy
+
+15 of 26 See more video
 
 Say goodbye to jet-lag, this new plane will help beat it
 
 The Airbus A350 XWB has some features that its designers say should help people battle jet-lag. Patrick Jones (@Patrick\_E\_Jones) explains.
 
-18 of 23 See more video
+16 of 26 See more video
 
-USA TODAY's best photographs of 2015
+Christmas carol singing flashmob takes over airport
 
-USA TODAY's photo staff chooses their favorite images from 2015.
+A German broadcasting company gave the gift of song and cheer to those traveling through the Cologne Bonn airport this holiday season. Thanks to their flashmob style, it was a pleasant surprise. Scott Knowlton has more.
 
-19 of 23 See more video
+17 of 26 See more video
 
-SpaceX launches Falcon 9, successfully lands booster
+Miss Colombia speaks out about being Miss Universe for just minutes
 
-SpaceX successfully launched their Falcon 9 rocket carrying 11 satellites to low-Earth orbit. This mission also marked SpaceX's first successful landing of the first stage booster.
+Miss Colombia thanked her fans and supporters after she was wrongly crowned the winner of Miss Universe 2015. Ariadna Gutierrez Arevalo had been crowned and only moments later host Steve Harvey returned to announce the error.
 
-20 of 23 See more video
+18 of 26 See more video
 
-Guests rescued from SeaWorld Orlando ride
+The world's 8 scariest airport runways
 
-SeaWorld Orlando officials say rescuers successfully removed guests from the Sky Tower after it stopped working. The 400-foot ride features a double-decker, rotating pod that guests board at ground level and take a leisurely ride to the top.
+Would you fly into these airports?
 
-21 of 23 See more video
+19 of 26 See more video
 
-A very Photoshopped Royal family Christmas?
+Santa consumes how many calories each Christmas?!
 
-Many on social media believe the Duke and Duchess of Cambridge used Photoshop on Princess Charlotte in their latest Christmas picture. Video provided by Newsy
+Santa Claus will gain some serious weight after eating A LOT of cookies and drinking A LOT of milk while delivering presents on Christmas Eve.
 
-22 of 23 See more video
+20 of 26 See more video
 
-Watch what happens when you pull over Chewbacca
+Watch an otter swim with her adorable newborn pup
 
-A traffic stop in Texas goes differently than planned for one officer after he pulls over a car full of Star Wars characters in this playful video posted to Facebook by the Fulshear, Texas Police Department.
+An otter at the Monterey Bay Aquarium just gave birth to a new pup and they're pretty adorable together.
 
-23 of 23 See more video Last VideoNext Video news
+21 of 26 See more video
 
-Christmas procrastinating isn't what if used to be. Welcome to 2015
+Ride along as skydiver crashes into tree
 
-Obama marks 5th anniversary of repealing 'Don't Ask, Don't…
+Dan Jeffers says his 167th jump left him with several broken bones, including his legs, feet, ankles and back. He caught the entire crash on a GoPro camera.
 
-8 hours, 33 minutes | The Oval
+22 of 26 See more video
 
-2015: The year in picturesToday in History for December 23rdVt. police kill man in drug raid sports
+Grandma trapped in bathroom for 4 days knits a scarf
 
-Panthers lead Pro Bowl selections with 10 players
+An old lady was trapped in a public bathroom for 4 days, but she didn't actually mind it all that much. Patrick Jones (@patrick\_e\_jones) explains how she made herself comfortable.
 
-Ravens rookie stuck with $11,561 restaurant bill
+23 of 26 See more video
 
-8 hours, 26 minutes | NFL
+How one high school girl is making football history
 
-HS hockey team experiments with two-goalie lineupDean Blandino reminded ref he could eject BeckhamAlabama's too good to make excuses this time life
+Krysten Muir is putting points on the board and her team has her back. The kicker for her high school's football team trains with a former NFL kicker, and she's ready to take her skills to the next level.
 
-'Pageantgate' still pumping out outrage, derision and talk of plots
+24 of 26 See more video
 
-Cross WordsAll GamesEntertain This! The 50 best songs of 2015Cleveland has native son Steve Harvey's backLady Gaga got a WHAT for Christmas? money
+Obama makes amazing 40-foot chip shot
 
-19 cars, SUVs you will no longer be able to buy
+President Barack Obama sank a 40-foot chip shot on the 18th hole at the Mid Pacific Country Club in Hawaii.
 
-StocksPortfolio TrackerAmerica's Markets SEC still pursuing Steven CohenGadget overload! Gizmos lose their appealRieder: How the media was the news in 2015 tech
+25 of 26 See more video
 
-Car tech took the wheel in 2015
+The apps that made you say 'Wow!' this year
 
-Oculus Rift due out in Q1, founder Luckey tweets
+USA TODAY's Jefferson Graham takes a look at the top apps that made smartphone users say 'Wow!' in 2015.
 
-9 hours, 14 minutes | Tech
+26 of 26 See more video Last VideoNext Video news
 
-Start-ups target Christmas shopping procrastinatorsPandora strikes deals with songwriters' licensersTwitter's Dorsey wants users to be more expressive travel
+UK Muslim family says it was barred from flight to LA
 
-Unusual holiday decorations around the USA
+Girl knocks 'Elf on the Shelf' onto the floor, calls 911
 
-St. Barts serves up a taste of France closer to home
+12 hours, 24 minutes | Nation Now
 
-3 days, 16 hours | Destinations
+Year in Review: 50 stories from 50 states'Help me, Ma!' boy screamed as dogs attackedKy. gov removes clerks' names from marriage licenses sports
 
-Tasty holiday specials at hotelsHow to keep your New Year's resolutions at seaPhoto tour: A stylish new ship that will get you off the beaten path Reviewed.com
+Aqib Talib angry Steelers OL wasn't suspended for hit
+
+Pelissero: Does Cam Newton have MVP locked up?
+
+3 hours, 38 minutes | NFL
+
+Refs union head criticizes crew for Beckham ordealBeckham's suspension upheld on appealDirk passes Shaq for sixth on career scoring list life
+
+Critic's Corner: 'Mr. Magoo's Christmas Carol'
+
+Cross WordsAll GamesEntertain This! The Kardashians release kid-only cardThe Beatles finally add music to streaming servicesThe Snuggle Is Real: Cats + Wrapping Paper money
+
+Disney stock down since 'Star Wars.' Here's why
+
+StocksPortfolio TrackerAmerica's Markets Shkreli met with feds long before his arrestS&P 500 vaults into positive territory for 2015Regulators: Ninth person killed by exploding Takata air bag tech
+
+20 cool gifts for the women in your life
+
+YouTube lashes out on T-Mobile's throttling video streams
+
+8 hours, 45 minutes | Tech
+
+How to switch from iPhone to AndroidPicking the right video game for any ageShopping online at work? Don't get caught travel
+
+Best new airport amenities in 2015
+
+Where to experience the world's largest iconic restaurants
+
+2 days, 23 hours | Food &. Wine
+
+Christmas with characters: Disney Parks light up the holidaysSexiest swim-up bars in the CaribbeanA guide to flying for Christmas and New Year’s Reviewed.com
 
 11 great last-minute foodie stocking stuffers
 
 It took 800 people to perfect the iPhone camera
 
-1 day, 11 hours | Tech
+2 days, 10 hours | Tech
 
 How do dishwashers actually work? 10 Christmas cookie recipes from celebrity chefsThe best holiday gifts for cooks and foodies experience
 
-Las Vegas' best winter and holiday activities
+Unusual holiday decorations around the USA
 
-Seven things to know before visiting a cruise ship spa
+How to keep your New Year's resolutions at sea
 
-4 days, 17 hours | Cruise
+1 day, 17 hours | Cruise
 
-Holiday gift guide: Perfect presents from the CaribbeanDine with over-the-top holiday decorDisney Parks: The Force has now awakened VOICES Opinion
+Tasty holiday specials at hotelsLas Vegas' best winter and holiday activitiesHoliday gift guide: Perfect presents from the Caribbean VOICES Voices
 
-Ted Cruz, the Bible and immigration: Column
+Voices: An unforgettable Christmas act of kindness
 
 Opinion
 
-Democrats stifle their message: Our view
+Good news for Jimmy Carter, but long road for other melanoma patients: Column
 
-Voices
+Humankind
 
-Voices: Our post-Katrina Christmas still moves us
+How one high school girl is making football history
 
 Rieder
 
-How the media was the news in 2015
+Rieder: Adelson – hands off Vegas paper's reporting
+
+Columnist
+
+How to switch from iPhone to Android
 
 News
 
@@ -354,10 +376,6 @@ Personal
 
 Jennifer Jolly's best gadgets of 2015
 
-Nation
-
-Your Take: USA TODAY's top reader photo of the day
-
 *   Fun and festive Santas from around the world
 *   The day in pictures
 *   Your Take: Readers show off stunning weather photos
@@ -368,24 +386,24 @@ Most Popular
 
 *   Family outraged by Santa's standing photo with special needs child
     
-*   Woman dies while being kicked out of hospital
+*   UFO captured? Man says he has proof
     
-*   19 cars, SUVs you will no longer be able to buy
+*   Disney stock down since 'Star Wars.' Here's why
     
-*   Review: 'Revenant' is a brutal, beautiful epic
+*   Black Lives Matter protest snarls MPLS airport
     
 
 Trending on Social
 
-*   #NotMyAbuela: Twitter users mock Clinton effort to reach Hispanic voters
+*   UFO captured? Man says he has proof
     
-*   'I no longer trust them to fix me when I’m broken'
+*   Flowers, trees, bugs confused by freakishly warm December
     
-*   Bernie Sanders launches Nevada TV ad campaign
+*   Screech ready for last comedy show before jail
     
-*   Voices: Why I decided to buy a handgun
+*   IRS gains power to revoke tax scofflaws' passports
     
-*   #IWillProtectYou: U.S. service members soothe scared Muslim girl
+*   Black Lives Matter protest snarls Minneapolis-St. Paul airport
     
 
 SPONSOR CONTENT Right Now
