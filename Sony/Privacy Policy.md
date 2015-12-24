@@ -92,9 +92,9 @@ Play Video
 
 Sony on Twitter
 
-Watch the new CG rendered trailer for Uncharted 4: A Thief’s End coming exclusively to PS4: youtube.com
+Win the ultimate @FrankSinatra box set! #Sinatra100Radio
 
-2015-12-22 06:25:29+00:00
+2015-12-24 14:30:13+00:00
 
 View Tweet
 
@@ -196,25 +196,17 @@ Meet the Z4 Tablet
 
 Sony on Twitter
 
-@Esquire talks to the team behind @DavidBowieReal's upcoming album and #Lazarus: esquire.com
+The teeth-rattling fuzz of @CageTheElephant sounds even better at max volume.
 
-2015-12-22 06:30:03+00:00
+2015-12-18 14:59:01+00:00
 
 View Tweet
 
-Hear Adele's Triumphant Return in "25"
+More Bass Than a Holiday Box Can Contain
 
-Download Today
+Give the Gift of Music
 
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Download Today
+Sony on Vine
 
 The Future of Digital Imaging Is Here
 
@@ -262,9 +254,9 @@ Stream All Month
 
 Sony on Twitter
 
-We sent a group of Instagrammers to #RiseFestival. With their #Xperia Z5 they took great photos! #ChallengeXperia
+Watch episode 2 of @JColeNC's Road to Homecoming now on @HBO or Vimeo #jcole #coleworld
 
-2015-12-22 05:34:39+00:00
+2015-12-24 07:56:27+00:00
 
 View Tweet
 
