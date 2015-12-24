@@ -77,7 +77,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **NX**
 
-*   Starting at $34,965\*
+*   Starting at $34,865\*
 *   235-hp 2.0L turbo
 
 *   Build
@@ -244,6 +244,10 @@ COMPARE **LF-LC**
 **LF-FC**
 
 *   Concept Vehicle
+
+**WORLD PREMIERE**
+
+*   COMING SOON
 
 *   sedans
     
