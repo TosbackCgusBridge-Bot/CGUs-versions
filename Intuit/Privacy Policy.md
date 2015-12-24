@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14342518922
+true true L14347045371
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p11.jcpenney.com SERVER NAME :->. dtcomexpr1l1j5 TIME :->. Tue Dec 22 11:15:30 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p29.jcpenney.com SERVER NAME :->. dtcomexpr1l1j6 TIME :->. Wed Dec 23 11:15:20 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,19 +48,31 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Nike Shoes, Apparel and More On Sale 25% Off Nike For The Family
+Great Deals On Gifts For Everyone Hurry In! Only a Few Days Left to Shop! Wrap It Up Sale Shop Wrap It Up Sale View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Nike Shoes, Apparel and More On Sale 25% Off Nike For The Family
 
 Select styles, excluded from coupon.
 
-Shop Nike For The Family Shop Men Shop Women Shop Boys Shop Shoes         SportsFanShop
+Shop Nike For The Family Shop Men Shop Women Shop Boys Shop Shoes         Bring Home The Savings With Gifts For The Home! 30 to 50% Off Home Collections
+
+Select Styles
+
+Shop Home Sale Shop Small Appliances
+
+Excluded from coupon.
+
+Save On Sparkle At Our Holiday Jewelry Sale Holiday Jewelry Sale | December 8-24 20 to 60% Off Jewelry
+
+Select styles
+
+Shop All Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Shop Love in Motion Gifts That Make Scents Sephora
+
+Eau what fun!
+
+Shop Fragrance SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop Star Wars™ Shop Star Wars Now Holiday Gift Shop
-
-Where Giving Begins: Gifts they want. Savings you love.
-
-Shop All Gifts Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop SportsFanShop Star Wars™ Shop Star Wars Now Work Out and About For Less Shop Fitness Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
