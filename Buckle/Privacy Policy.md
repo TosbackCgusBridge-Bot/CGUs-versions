@@ -1,4 +1,4 @@
-Still can’t decide? Grab an eGift Card now!
+Winter Sale. Up to 75% off. Shop Now!
 
 Guest Services 800-607-9788
 
