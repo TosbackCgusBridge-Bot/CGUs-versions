@@ -161,4 +161,11 @@ Last update August 15, 2015
 *   Privacy Policy
 *   Terms of Use
 
+*   United States
+*   Canada
+*   United Kingdom
+*   India
+*   Ireland
+*   Australia
+
 © Copyright 2015 Oodle Holdings, LLC. All rights reserved.
