@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14347045371
+true true C14260382302
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p29.jcpenney.com SERVER NAME :->. dtcomexpr1l1j6 TIME :->. Wed Dec 23 11:15:20 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p33.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Thu Dec 24 11:15:27 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,19 +48,29 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Great Deals On Gifts For Everyone Hurry In! Only a Few Days Left to Shop! Wrap It Up Sale Shop Wrap It Up Sale View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Nike Shoes, Apparel and More On Sale 25% Off Nike For The Family
+Extra 25% Off\* with your JCPenney Credit Card Extra 20% Off\* with any other method of payment Online Only | $100 or More | Ends December 24 | Use Code: FUNSHOPN Or, Extra 20% Off\* with your JCPenney Credit Card Or, Extra 15% Off\* with any other method of payment In Store and Online | Ends December 24 | Use Code: FUNSHOPN
+
+\*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
+
+Print Coupon See exclusions and details It's Not Too Late To Send A Gift! Stores Open 7AM-6PM Find a Store:It's not too late to find the perfect gift!
+
+Redeem in store and online. No added fees. Never expire.
+
+Email an e-gift card. Personalize with message, photo or video and deliver within minutes. Link to site operated by CashStar.
+
+Shop E-Gift Cards:Spend $100 or more on JCPenney E-Gift Cards and get a $25 off\* $25 coupon.
+
+Ends December 25. \*Redeem 12/26-1/30. Some restrictions and exclusions apply.
+
+Get details: Hurry! Save On Last-Minute Gifts From Nike 25% Off Nike For The Family
 
 Select styles, excluded from coupon.
 
-Shop Nike For The Family Shop Men Shop Women Shop Boys Shop Shoes         Bring Home The Savings With Gifts For The Home! 30 to 50% Off Home Collections
+Shop Nike For The Family Shop Men Shop Women Shop Boys Shop Shoes         There's Still Time To Save On Gifts For The Home 30 to 50% Off Home Collections
 
 Select Styles
 
-Shop Home Sale Shop Small Appliances
-
-Excluded from coupon.
-
-Save On Sparkle At Our Holiday Jewelry Sale Holiday Jewelry Sale | December 8-24 20 to 60% Off Jewelry
+Shop Home Sale Shop Comforters and Bedding Sets Show Some Sparkle At Our Holiday Jewelry Sale! Holiday Jewelry Sale | December 8-24 20 to 60% Off Jewelry
 
 Select styles
 
