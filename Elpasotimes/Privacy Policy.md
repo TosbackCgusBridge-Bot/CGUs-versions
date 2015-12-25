@@ -85,325 +85,277 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Weather Flowers, trees, bugs confused by freakishly warm December
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Nation Now BP claims office sends fraud notices then closes for Christmas
 
 TOP STORIES
 
-*   Markets Disney stock down since 'Star Wars.' Here's why
-*   Weather Severe storms, tornadoes target South, Midwest
-*   News Black Lives Matter protest snarls Minneapolis airport
-*   'Help me, Ma!' boy screamed as dogs attacked
-*   Airmen killed in Afghan suicide bombing identified
-*   Suspect in clinic attack fears becoming 'zombie'
-*   'It’s not easy being Santa Claus' these days
-*   Texas gov. says nativity scene 'mocks Christians'
-*   Did you ask for this holiday's most requested gifts?
-*   French train hero to leave Air Force next year
-*   UFO captured? Man says he has proof
-*   20 cool gifts for the women in your life
+*   Weather Record Christmas Eve warmth for eastern U.S.
+*   Sports Charles Barkley says Christmas isn't fun for him
+*   Nation Now N.Y. pizza shop owner an Islamic State conduit
+*   Strategies: 10 things to toss before 2016
+*   NORAD keeps watch over Santa's Christmas trek
+*   Pope Francis celebrates Christmas Eve Mass
+*   Off-duty officer shoots, kills 1 at N.C. mall
+*   Severe storms, tornadoes target South, Midwest
+*   Video: Jewish extremists celebrate toddler's death
+*   Robert Downey Jr. gets pardon for drug conviction
+*   Lunch lady fired over free meal offered job back
+*   GoFundMe effort backfires on cancer patient's mom
 
-Music
+Tech
 
-Madonna goes to court to force son to return home
+Merry Moon: Rare full moon on Christmas Day
 
-Travel
+NCAAB
 
-Pat-down vs. body scan: The choice lies with TSA
+Confessions of a college basketball 'slimeball'
+
+Money
+
+Why the $15 minimum wage could spread in 2016
 
 Nation Now
 
-Girl knocks over 'Elf on the Shelf,' calls 911
+Girl cancer-free year after meeting Pope Francis
 
-Entertain This
-
-The Kardashians release kid-only card
-
-2015 YEAR IN REVIEW Christine Brennan
-
-Brennan: Why I don't want to say goodbye to 2015
-
-News
+2015 YEAR IN REVIEW News
 
 Full coverage: Looking back at 2015
+
+Cars
+
+The 19 most daring concept cars of 2015
+
+Tech
+
+5 apps that made us say 'wow' in 2015
 
 News
 
 Year in review: 50 stories from 50 states
 
-Columnist
+Best gift of all - video memories
 
-10 last-minute tech stocking stuffers
+Jefferson Graham outlines how to give the best gift of them all--video memories, during this holiday season, on #TalkingTech.
 
-Photo apps to help you shoot like a pro
+1 of 18 See more video
 
-Jefferson Graham runs down 5 Photo apps to help you shoot like a pro on #TalkingTech.
+Inside Hershey’s secret Chocolate Innovation Lab 239
 
-1 of 26 See more video
+Inside Hershey’s secret Chocolate Innovation Lab 239 with a remake of the Hershey's kiss for the first time in the company's 100-plus year history.
 
-Black Lives Matter shut down airport terminal
-
-Police officers in riot gear were brought in to clear Black Lives Matter protesters out of the Minneapolis St. Paul International Airport terminal and from in front of the airport.
-
-2 of 26 See more video
-
-School lunch lady fired for giving girl free meal
-
-A lunch lady in Idaho is out of a job after giving a middle school student a free meal when a 12-year-old girl told her she didn't have any money and was hungry.
-
-3 of 26 See more video
-
-The Snuggle Is Real: Cats + Wrapping Paper
-
-Get into the spirit of the season with this countdown of the most hilarious videos of felines vs. gift wrap
-
-4 of 26 See more video
-
-Santa consumes how many calories each Christmas?!
-
-Santa Claus will gain some serious weight after eating A LOT of cookies and drinking A LOT of milk while delivering presents on Christmas Eve.
-
-5 of 26 See more video
-
-19 cars, SUVs you will no longer be able to buy
-
-As 2015 winds down, it's time to bid adieu to cars and trucks that went out of production in 2015 and others that we know will reach the end of the line in 2016. You're not likely to miss many of them.
-
-6 of 26 See more video
-
-These robot reindeer will haunt your Christmas
-
-Boston Dynamics, a Massachusetts-based robotics company, shared a special holiday greeting on YouTube. The video shows three of their 'robo-dogs' pulling Santa's sleigh.
-
-7 of 26 See more video
+2 of 18 See more video
 
 Woman arrested for assaulting farting husband
 
 Too much farting led to a few punches being thrown in bed! Rob Smith (@robsmithonline) has all the details about this flatulence flap.
 
-8 of 26 See more video
-
-Taco shop creates viral video, cracks on burglars
-
-Frijoles and Frescas in Las Vegas caught a recent burglary on surveillance video. Instead of just filing a police report, they created this awesome video in hopes to help catch the suspects.
-
-9 of 26 See more video
-
-Skier barely misses being hit by falling drone
-
-The International Ski Federation is banning camera drones from its World Cup races after a drone crashed and nearly hit Austrian skier Marcel Hirscher during a slalom in Italy. (Dec. 23)
-
-10 of 26 See more video
-
-Obama, Seinfeld chat and grab coffee
-
-President Obama will join Jerry Seinfeld for a drive, a cup of coffee and a wide-ranging chat on the first episode of the seventh season of the stand-up's web series, "Comedians in Cars Getting Coffee."
-
-11 of 26 See more video
-
-The top gadgets of 2015
-
-USA TODAY tech columnist Jennifer Jolly shares her picks for this year's best gadgets.
-
-12 of 26 See more video
-
-Best and worst cities for single people in 2015
-
-Wallet Hub ranked 150 American cities based on how affordable and easy it is to date there. Mara Montalbano (@maramontalbano) tells us where singles should consider moving if they want to find love.
-
-13 of 26 See more video
-
-Turns out comets are more dangerous than we thought
-
-A new study is finding that Comets present much more a danger than we previously thought. Patrick Jones (@Patrick\_E\_Jones) has the details.
-
-14 of 26 See more video
-
-Atheist Santa ad incites Christmas billboard war
-
-A billboard urging people to skip church has inspired some people to support highway ads with a counter-message. Video provided by Newsy
-
-15 of 26 See more video
-
-Say goodbye to jet-lag, this new plane will help beat it
-
-The Airbus A350 XWB has some features that its designers say should help people battle jet-lag. Patrick Jones (@Patrick\_E\_Jones) explains.
-
-16 of 26 See more video
-
-Christmas carol singing flashmob takes over airport
-
-A German broadcasting company gave the gift of song and cheer to those traveling through the Cologne Bonn airport this holiday season. Thanks to their flashmob style, it was a pleasant surprise. Scott Knowlton has more.
-
-17 of 26 See more video
-
-Miss Colombia speaks out about being Miss Universe for just minutes
-
-Miss Colombia thanked her fans and supporters after she was wrongly crowned the winner of Miss Universe 2015. Ariadna Gutierrez Arevalo had been crowned and only moments later host Steve Harvey returned to announce the error.
-
-18 of 26 See more video
-
-The world's 8 scariest airport runways
-
-Would you fly into these airports?
-
-19 of 26 See more video
+3 of 18 See more video
 
 Santa consumes how many calories each Christmas?!
 
 Santa Claus will gain some serious weight after eating A LOT of cookies and drinking A LOT of milk while delivering presents on Christmas Eve.
 
-20 of 26 See more video
+4 of 18 See more video
 
-Watch an otter swim with her adorable newborn pup
+19 cars, SUVs you will no longer be able to buy
 
-An otter at the Monterey Bay Aquarium just gave birth to a new pup and they're pretty adorable together.
+As 2015 winds down, it's time to bid adieu to cars and trucks that went out of production in 2015 and others that we know will reach the end of the line in 2016. You're not likely to miss many of them.
 
-21 of 26 See more video
+5 of 18 See more video
+
+These robot reindeer will haunt your Christmas
+
+Boston Dynamics, a Massachusetts-based robotics company, shared a special holiday greeting on YouTube. The video shows three of their 'robo-dogs' pulling Santa's sleigh.
+
+6 of 18 See more video
+
+Taco shop creates viral video, cracks on burglars
+
+Frijoles and Frescas in Las Vegas caught a recent burglary on surveillance video. Instead of just filing a police report, they created this awesome video in hopes to help catch the suspects.
+
+7 of 18 See more video
+
+Skier barely misses being hit by falling drone
+
+The International Ski Federation is banning camera drones from its World Cup races after a drone crashed and nearly hit Austrian skier Marcel Hirscher during a slalom in Italy. (Dec. 23)
+
+8 of 18 See more video
+
+Divorced woman fights to implant frozen embryos from ex
+
+A divorced Missouri couple are engaged in a legal battle over what to do with their frozen embryos. A Missouri appeals court is reviewing the case after a St. Louis County trial court ruled that the couple jointly owns the two remaining embryos.
+
+9 of 18 See more video
+
+Best and worst cities for single people in 2015
+
+Wallet Hub ranked 150 American cities based on how affordable and easy it is to date there. Mara Montalbano (@maramontalbano) tells us where singles should consider moving if they want to find love.
+
+10 of 18 See more video
+
+Siblings killed after taking Christmas light tour
+
+A Texas family is suffering after a car crash left two siblings dead and sent the parents to the hospital. The family was on their way home from a Christmas lights tour when they were struck from behind by another car.
+
+11 of 18 See more video
+
+Turns out comets are more dangerous than we thought
+
+A new study is finding that Comets present much more a danger than we previously thought. Patrick Jones (@Patrick\_E\_Jones) has the details.
+
+12 of 18 See more video
+
+Christmas carol singing flashmob takes over airport
+
+A German broadcasting company gave the gift of song and cheer to those traveling through the Cologne Bonn airport this holiday season. Thanks to their flashmob style, it was a pleasant surprise. Scott Knowlton has more.
+
+13 of 18 See more video
+
+The world's 8 scariest airport runways
+
+Would you fly into these airports?
+
+14 of 18 See more video
+
+Saturn's moons align to form unique bullseye in orbit
+
+NASA has just released an image of Tethys and Enceladus taken at the perfect moment. Video provided by Newsy
+
+15 of 18 See more video
 
 Ride along as skydiver crashes into tree
 
 Dan Jeffers says his 167th jump left him with several broken bones, including his legs, feet, ankles and back. He caught the entire crash on a GoPro camera.
 
-22 of 26 See more video
+16 of 18 See more video
 
-Grandma trapped in bathroom for 4 days knits a scarf
+The Snuggle Is Real: Cats + Wrapping Paper
 
-An old lady was trapped in a public bathroom for 4 days, but she didn't actually mind it all that much. Patrick Jones (@patrick\_e\_jones) explains how she made herself comfortable.
+Get into the spirit of the season with this countdown of the most hilarious videos of felines vs. gift wrap
 
-23 of 26 See more video
+17 of 18 See more video
 
-How one high school girl is making football history
+Obama, Seinfeld chat and grab coffee
 
-Krysten Muir is putting points on the board and her team has her back. The kicker for her high school's football team trains with a former NFL kicker, and she's ready to take her skills to the next level.
+President Obama will join Jerry Seinfeld for a drive, a cup of coffee and a wide-ranging chat on the first episode of the seventh season of the stand-up's web series, "Comedians in Cars Getting Coffee."
 
-24 of 26 See more video
+18 of 18 See more video Last VideoNext Video news
 
-Obama makes amazing 40-foot chip shot
+Year in Review: 50 stories from 50 states
 
-President Barack Obama sank a 40-foot chip shot on the 18th hole at the Mid Pacific Country Club in Hawaii.
+Christmas Day forecast: Mild East, soggy South, cold West
 
-25 of 26 See more video
+1 hour, 35 minutes | Weather
 
-The apps that made you say 'Wow!' this year
+Pope Francis celebrates Christmas Eve MassToday in History for December 25thGirl knocks 'Elf on the Shelf' onto the floor, calls 911 sports
 
-USA TODAY's Jefferson Graham takes a look at the top apps that made smartphone users say 'Wow!' in 2015.
+Woodson's stirring speech before final home game
 
-26 of 26 See more video Last VideoNext Video news
+NBA offers up a holiday feast for Christmas Day
 
-UK Muslim family says it was barred from flight to LA
+1 hour, 4 minutes | NBA
 
-Girl knocks 'Elf on the Shelf' onto the floor, calls 911
+Report: Playoff star Murphy agrees with Mets rivalTexas A&M transfer Murray signs with new schoolCan Cousins, Redskins lock up NFC East vs. Eagles? life
 
-12 hours, 24 minutes | Nation Now
+David Beckham isn't the only star bribing Santa
 
-Year in Review: 50 stories from 50 states'Help me, Ma!' boy screamed as dogs attackedKy. gov removes clerks' names from marriage licenses sports
+Cross WordsAll GamesEntertain This! The Poe/Finn 'Star Wars' bromance has taken over the InternetThe Beatles finally add music to streaming servicesShort hair? Yeah, we care! A whole lot in fact. money
 
-Aqib Talib angry Steelers OL wasn't suspended for hit
+$15 minimum wage could spread in 2016
 
-Pelissero: Does Cam Newton have MVP locked up?
+StocksPortfolio TrackerAmerica's Markets Taking Social Security in 2016? Here's what you need to knowMortgage rates dip, despite Fed rate hikeIran delusional about its oil potential: OilPrice tech
 
-3 hours, 38 minutes | NFL
+Best gift of all - video and photo memories
 
-Refs union head criticizes crew for Beckham ordealBeckham's suspension upheld on appealDirk passes Shaq for sixth on career scoring list life
+Federal gov't issues safety alert on transporting…
 
-Critic's Corner: 'Mr. Magoo's Christmas Carol'
+1 hour, 38 minutes | News
 
-Cross WordsAll GamesEntertain This! The Kardashians release kid-only cardThe Beatles finally add music to streaming servicesThe Snuggle Is Real: Cats + Wrapping Paper money
+McAfee will run as Libertarian Party candidate for presidentHigh-tech gear aims to lessen deadly risk of football concussionsLive-tweeting Christmas? Think again travel
 
-Disney stock down since 'Star Wars.' Here's why
+10 travel myths you need to stop believing right now
 
-StocksPortfolio TrackerAmerica's Markets Shkreli met with feds long before his arrestS&P 500 vaults into positive territory for 2015Regulators: Ninth person killed by exploding Takata air bag tech
+Dream Boats: Aquatic gifts for the super-rich
 
-20 cool gifts for the women in your life
+10 hours, 46 minutes | Travel
 
-YouTube lashes out on T-Mobile's throttling video streams
-
-8 hours, 45 minutes | Tech
-
-How to switch from iPhone to AndroidPicking the right video game for any ageShopping online at work? Don't get caught travel
-
-Best new airport amenities in 2015
-
-Where to experience the world's largest iconic restaurants
-
-2 days, 23 hours | Food &. Wine
-
-Christmas with characters: Disney Parks light up the holidaysSexiest swim-up bars in the CaribbeanA guide to flying for Christmas and New Year’s Reviewed.com
+Five DIY drinks for snow daysTSA can now require full-body scans, trumping pat-down optionVanishing act: Cruise ship features that have gone away Reviewed.com
 
 11 great last-minute foodie stocking stuffers
 
 It took 800 people to perfect the iPhone camera
 
-2 days, 10 hours | Tech
+3 days, 10 hours | Tech
 
 How do dishwashers actually work? 10 Christmas cookie recipes from celebrity chefsThe best holiday gifts for cooks and foodies experience
 
-Unusual holiday decorations around the USA
+Where to experience the world's largest iconic restaurants
 
-How to keep your New Year's resolutions at sea
+Christmas with characters: Disney Parks light up the…
 
-1 day, 17 hours | Cruise
+2 days, 10 hours | America
 
-Tasty holiday specials at hotelsLas Vegas' best winter and holiday activitiesHoliday gift guide: Perfect presents from the Caribbean VOICES Voices
+Sexiest swim-up bars in the CaribbeanHow to keep your New Year's resolutions at seaLas Vegas' best winter and holiday activities VOICES Voices
 
-Voices: An unforgettable Christmas act of kindness
+Voices: A beautiful act of Christmas kindness
 
-Opinion
+Columnist
 
-Good news for Jimmy Carter, but long road for other melanoma patients: Column
+Live-tweeting Christmas? Think again
 
-Humankind
+Criticscorner
 
-How one high school girl is making football history
+Holiday TV: 'Mr. Magoo,' 'Andy Griffith'
 
-Rieder
+Music
 
-Rieder: Adelson – hands off Vegas paper's reporting
+Dad Rock podcast counts down albums of 2015
+
+Movies
+
+Santa's conundrum: Your ultimate holiday movie guide
+
+Movies
+
+The Mothership: Let's talk about 'The Force Awakens' (spoilers edition)
+
+Nation Now
+
+Quiz: Were you paying attention to the Internet this year?
 
 Columnist
 
 How to switch from iPhone to Android
 
-News
-
-Everything you need to know this holiday season
-
-Music
-
-Survive the holidays, with help from Dad Rock
-
-Personal
-
-Jennifer Jolly's best gadgets of 2015
-
 *   Fun and festive Santas from around the world
 *   The day in pictures
-*   Your Take: Readers show off stunning weather photos
+*   Around the world at Christmas 2015
 *   College football bowl watchability rankings
 *   December political cartoons from Gannett cartoonists
 
 Most Popular
 
-*   Family outraged by Santa's standing photo with special needs child
-    
 *   UFO captured? Man says he has proof
     
-*   Disney stock down since 'Star Wars.' Here's why
+*   GoFundMe campaign backfires on cancer patient's mom
     
-*   Black Lives Matter protest snarls MPLS airport
+*   Top U.S. military agency NORAD keeps watch over Santa's around the…
+    
+*   Florida restaurant employee shoots, kills would-be robber
     
 
 Trending on Social
 
-*   UFO captured? Man says he has proof
+*   Merry Moon: Rare full moon on Christmas Day
     
-*   Flowers, trees, bugs confused by freakishly warm December
+*   The Poe/Finn 'Star Wars' bromance has taken over the Internet
     
-*   Screech ready for last comedy show before jail
+*   Gas tanker truck fire kills scores in Nigeria
     
-*   IRS gains power to revoke tax scofflaws' passports
+*   N.Y. pizza shop owner an Islamic State conduit
     
-*   Black Lives Matter protest snarls Minneapolis-St. Paul airport
+*   Pope Francis celebrates Christmas Eve Mass
     
 
 SPONSOR CONTENT Right Now
