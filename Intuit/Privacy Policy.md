@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14260382302
+true true L14354072589
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p33.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Thu Dec 24 11:15:27 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p19.jcpenney.com SERVER NAME :->. dtcomexpr1l1j2 TIME :->. Fri Dec 25 11:15:37 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,37 +48,41 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Extra 25% Off\* with your JCPenney Credit Card Extra 20% Off\* with any other method of payment Online Only | $100 or More | Ends December 24 | Use Code: FUNSHOPN Or, Extra 20% Off\* with your JCPenney Credit Card Or, Extra 15% Off\* with any other method of payment In Store and Online | Ends December 24 | Use Code: FUNSHOPN
+Great Deals On Gifts For Everyone Merry Christmas! Extra 25% Off\* Today Only!
 
-\*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
+Online Only | December 25 | Use Code: YOUSAVE
 
-Print Coupon See exclusions and details It's Not Too Late To Send A Gift! Stores Open 7AM-6PM Find a Store:It's not too late to find the perfect gift!
+\*Some exclusions apply.
 
-Redeem in store and online. No added fees. Never expire.
+Get details:There's Still Time To Send A Gift!
 
-Email an e-gift card. Personalize with message, photo or video and deliver within minutes. Link to site operated by CashStar.
+Buy now for delivery today! Customize with photo or video, redeem in store and online.
 
-Shop E-Gift Cards:Spend $100 or more on JCPenney E-Gift Cards and get a $25 off\* $25 coupon.
+Shop E-Gift Cards Use Your Coupon And Save Even More! Our Biggest After Christmas Sale and Clearance
 
-Ends December 25. \*Redeem 12/26-1/30. Some restrictions and exclusions apply.
+Starts Now Online! | Extended Store Hours: Saturday 12/26 Doors Open at 6AM!
 
-Get details: Hurry! Save On Last-Minute Gifts From Nike 25% Off Nike For The Family
+Shop Sale Shop Clearance View Store Ad   Shop Women Shop Men Shop Kids Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop ShoesBig Buys - 3 Days Only Use Your Coupon and Save Even More!
 
-Select styles, excluded from coupon.
+Starts Now Online | In Store December 26-27 | Doors Open 6AM Saturday!
 
-Shop Nike For The Family Shop Men Shop Women Shop Boys Shop Shoes         There's Still Time To Save On Gifts For The Home 30 to 50% Off Home Collections
+$10 Off $10 + More Coupon Giveaway
 
-Select Styles
+Saturday at the door while they last!
 
-Shop Home Sale Shop Comforters and Bedding Sets Show Some Sparkle At Our Holiday Jewelry Sale! Holiday Jewelry Sale | December 8-24 20 to 60% Off Jewelry
+Start Fresh With Savings For The Home Stock Up White Sale | December 25 - January 3
 
-Select styles
+30 to 50% Off Home Collections, select styles
 
-Shop All Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Shop Love in Motion Gifts That Make Scents Sephora
+Shop Home Collections Shop Bedding and Bath Arizona Jeans On Sale Now 14.99 to 17.99 Arizona Jeans
 
-Eau what fun!
+Select styles.
 
-Shop Fragrance SportsFanShop
+Shop Guys Shop Juniors Shop Boys Shop Girls         Get Going With Xersion Activewear Big Buy! 50% Off Xersion Activewear
+
+Select styles.
+
+Shop Women Shop Men     SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
