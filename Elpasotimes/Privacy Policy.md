@@ -85,38 +85,38 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Nation Now BP claims office sends fraud notices then closes for Christmas
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Nation When the photo became the story in 2015
 
 TOP STORIES
 
-*   Weather Record Christmas Eve warmth for eastern U.S.
-*   Sports Charles Barkley says Christmas isn't fun for him
-*   Nation Now N.Y. pizza shop owner an Islamic State conduit
-*   Strategies: 10 things to toss before 2016
-*   NORAD keeps watch over Santa's Christmas trek
-*   Pope Francis celebrates Christmas Eve Mass
-*   Off-duty officer shoots, kills 1 at N.C. mall
-*   Severe storms, tornadoes target South, Midwest
-*   Video: Jewish extremists celebrate toddler's death
-*   Robert Downey Jr. gets pardon for drug conviction
-*   Lunch lady fired over free meal offered job back
-*   GoFundMe effort backfires on cancer patient's mom
+*   Weather On Christmas, warm greetings from the East – really warm
+*   NBA Warriors vs. Cavs was no revenge game
+*   World Jailed reporter sends colleagues 'Season's Greetings' from Iran prison
+*   Experience a 360-degree video of Colo. skiing
+*   Confessions of a college basketball 'slimeball'
+*   Clinton's first home damaged in suspected arson
+*   Got a new smartphone? Download these apps
+*   'Is this planet Earth?' Astronaut dials wrong number
+*   Miley Cyrus releases saddest Christmas song ever
+*   Steve Harvey crowns the wrong holiday
+*   Diver finds man's lost wedding ring on ocean floor
+*   Texas mosque fire on Christmas called suspicious
 
-Tech
+Cars
 
-Merry Moon: Rare full moon on Christmas Day
+Hey Santa, bring us one of these new cars in '16
 
-NCAAB
+Olympics
 
-Confessions of a college basketball 'slimeball'
+Wrestlers aiming for Rio Olympics spread cheer to sick children
 
-Money
+Humankind
 
-Why the $15 minimum wage could spread in 2016
+Adventurous Ace heading 1,000 miles home to Texas
 
-Nation Now
+TV
 
-Girl cancer-free year after meeting Pope Francis
+'Joy' shines spotlight on home shopping
 
 2015 YEAR IN REVIEW News
 
@@ -124,169 +124,169 @@ Full coverage: Looking back at 2015
 
 Cars
 
-The 19 most daring concept cars of 2015
+These 19 wild concept cars turned heads in 2015
 
 Tech
 
 5 apps that made us say 'wow' in 2015
 
-News
+World
 
-Year in review: 50 stories from 50 states
+Around the world at Christmas 2015
 
-Best gift of all - video memories
+Great tech gifts for non-techie people
 
-Jefferson Graham outlines how to give the best gift of them all--video memories, during this holiday season, on #TalkingTech.
+Columnist Marc Saltzman shows off awesome gadgets that are easy to set up and use.
 
 1 of 18 See more video
 
-Inside Hershey’s secret Chocolate Innovation Lab 239
+The brilliant light displays of Paul Tudor Jones
 
-Inside Hershey’s secret Chocolate Innovation Lab 239 with a remake of the Hershey's kiss for the first time in the company's 100-plus year history.
+In keeping with holiday tradition, hedge fund billionaire Paul Tudor Jones, the founder of Tudor Investment Corp, has put up another elaborate Christmas lights display at his Belle Haven estate in Greenwich, Connecticut.
 
 2 of 18 See more video
 
-Woman arrested for assaulting farting husband
+Air Force brings unlikely Christmas to remote islands
 
-Too much farting led to a few punches being thrown in bed! Rob Smith (@robsmithonline) has all the details about this flatulence flap.
+Each Christmas for the past 64 years, the Air Force has been parachuting donated gifts and humanitarian supplies to tiny islands dotting this vast area of the western Pacific. By Kirk Spitzer and Rene Alston
 
 3 of 18 See more video
+
+Godiva's tips on how to make truffles at home
+
+From Godiva's head chocolatier, here are three tips for making truffles at home just in time for Christmas.
+
+4 of 18 See more video
 
 Santa consumes how many calories each Christmas?!
 
 Santa Claus will gain some serious weight after eating A LOT of cookies and drinking A LOT of milk while delivering presents on Christmas Eve.
 
-4 of 18 See more video
+5 of 18 See more video
 
 19 cars, SUVs you will no longer be able to buy
 
 As 2015 winds down, it's time to bid adieu to cars and trucks that went out of production in 2015 and others that we know will reach the end of the line in 2016. You're not likely to miss many of them.
 
-5 of 18 See more video
+6 of 18 See more video
+
+See how an accidental email helped save this man's life
+
+A Mattress Firm employee in Georgia accidentally sent a company email to the wrong person. That email then sparked a chain of events that helped the recipient's fiancé find the treatment he needed for his pancreatic cancer.
+
+7 of 18 See more video
 
 These robot reindeer will haunt your Christmas
 
 Boston Dynamics, a Massachusetts-based robotics company, shared a special holiday greeting on YouTube. The video shows three of their 'robo-dogs' pulling Santa's sleigh.
 
-6 of 18 See more video
+8 of 18 See more video
 
 Taco shop creates viral video, cracks on burglars
 
 Frijoles and Frescas in Las Vegas caught a recent burglary on surveillance video. Instead of just filing a police report, they created this awesome video in hopes to help catch the suspects.
 
-7 of 18 See more video
+9 of 18 See more video
+
+Strangers help dog get home after wandering 1,100 miles
+
+A network of people are working together to deliver a stray dog to his owner 1,100 miles away. The dog was found in South Carolina after wandering away from his elderly owner in Texas.
+
+10 of 18 See more video
 
 Skier barely misses being hit by falling drone
 
 The International Ski Federation is banning camera drones from its World Cup races after a drone crashed and nearly hit Austrian skier Marcel Hirscher during a slalom in Italy. (Dec. 23)
 
-8 of 18 See more video
-
-Divorced woman fights to implant frozen embryos from ex
-
-A divorced Missouri couple are engaged in a legal battle over what to do with their frozen embryos. A Missouri appeals court is reviewing the case after a St. Louis County trial court ruled that the couple jointly owns the two remaining embryos.
-
-9 of 18 See more video
+11 of 18 See more video
 
 Best and worst cities for single people in 2015
 
 Wallet Hub ranked 150 American cities based on how affordable and easy it is to date there. Mara Montalbano (@maramontalbano) tells us where singles should consider moving if they want to find love.
 
-10 of 18 See more video
-
-Siblings killed after taking Christmas light tour
-
-A Texas family is suffering after a car crash left two siblings dead and sent the parents to the hospital. The family was on their way home from a Christmas lights tour when they were struck from behind by another car.
-
-11 of 18 See more video
+12 of 18 See more video
 
 Turns out comets are more dangerous than we thought
 
 A new study is finding that Comets present much more a danger than we previously thought. Patrick Jones (@Patrick\_E\_Jones) has the details.
 
-12 of 18 See more video
+13 of 18 See more video
 
 Christmas carol singing flashmob takes over airport
 
 A German broadcasting company gave the gift of song and cheer to those traveling through the Cologne Bonn airport this holiday season. Thanks to their flashmob style, it was a pleasant surprise. Scott Knowlton has more.
 
-13 of 18 See more video
+14 of 18 See more video
 
 The world's 8 scariest airport runways
 
 Would you fly into these airports?
 
-14 of 18 See more video
-
-Saturn's moons align to form unique bullseye in orbit
-
-NASA has just released an image of Tethys and Enceladus taken at the perfect moment. Video provided by Newsy
-
 15 of 18 See more video
 
-Ride along as skydiver crashes into tree
+Making holiday truffles with Godiva's head chocolatier
 
-Dan Jeffers says his 167th jump left him with several broken bones, including his legs, feet, ankles and back. He caught the entire crash on a GoPro camera.
+Godiva gave us an up close look at the process to make their limited edition holiday truffles. The creation process for Godiva starts years in advance and can take over six months to test, package and design.
 
 16 of 18 See more video
 
-The Snuggle Is Real: Cats + Wrapping Paper
+Yogi Berra, B.B. King among greats we remember in 2015
 
-Get into the spirit of the season with this countdown of the most hilarious videos of felines vs. gift wrap
+We remember the celebrities who passed away in 2015, after years of touching our hearts and lives.
 
 17 of 18 See more video
 
-Obama, Seinfeld chat and grab coffee
+Top media controversies of 2015
 
-President Obama will join Jerry Seinfeld for a drive, a cup of coffee and a wide-ranging chat on the first episode of the seventh season of the stand-up's web series, "Comedians in Cars Getting Coffee."
+USA TODAY editor-at-large Rem Rieder shares his picks for this year's biggest controversies involving the media.
 
 18 of 18 See more video Last VideoNext Video news
 
+Bill Clinton's first home damaged in suspected arson
+
 Year in Review: 50 stories from 50 states
 
-Christmas Day forecast: Mild East, soggy South, cold West
+3 days, 2 hours | News
 
-1 hour, 35 minutes | Weather
+Okinawa sues Tokyo in bid to stop U.S. base relocationTexas mosque fire on Christmas called suspiciousGirl knocks 'Elf on the Shelf' onto the floor, calls 911 sports
 
-Pope Francis celebrates Christmas Eve MassToday in History for December 25thGirl knocks 'Elf on the Shelf' onto the floor, calls 911 sports
+Why Warriors vs. Cavaliers was no revenge game
 
-Woodson's stirring speech before final home game
+Warriors fan mocking LeBron caught red-handed
 
-NBA offers up a holiday feast for Christmas Day
+5 hours, 45 minutes | NBA
 
-1 hour, 4 minutes | NBA
+Mark Jackson: Steph Curry is 'hurting the game'NFL picks: Broncos, Bengals meet in key AFC clashNo. 1s part of NBA's 'what could have been' team life
 
-Report: Playoff star Murphy agrees with Mets rivalTexas A&M transfer Murray signs with new schoolCan Cousins, Redskins lock up NFC East vs. Eagles? life
+Kris puts out a stocking for Caitlyn
 
-David Beckham isn't the only star bribing Santa
+Cross WordsAll GamesEntertain This! Miley Cyrus releases saddest Christmas song everThe Beatles finally add music to streaming services'Joy' shines spotlight on home shopping money
 
-Cross WordsAll GamesEntertain This! The Poe/Finn 'Star Wars' bromance has taken over the InternetThe Beatles finally add music to streaming servicesShort hair? Yeah, we care! A whole lot in fact. money
+Embattled drugmaker Valeant's CEO hospitalized
 
-$15 minimum wage could spread in 2016
+StocksPortfolio TrackerAmerica's Markets Why Christmas Day sales could become a realityTaking Social Security in 2016? Here's what you need to knowMortgage rates dip, despite Fed rate hike tech
 
-StocksPortfolio TrackerAmerica's Markets Taking Social Security in 2016? Here's what you need to knowMortgage rates dip, despite Fed rate hikeIran delusional about its oil potential: OilPrice tech
+Deadline looms for Sprint, Verizon 'cramming' refund
 
-Best gift of all - video and photo memories
+5 things you didn't know your tablet could do
 
-Federal gov't issues safety alert on transporting…
+15 hours, 54 minutes | Komando
 
-1 hour, 38 minutes | News
+Got a new smartphone? Download these apps10 great games for your smartphone or tablet5 apps that made us say 'wow' in 2015 travel
 
-McAfee will run as Libertarian Party candidate for presidentHigh-tech gear aims to lessen deadly risk of football concussionsLive-tweeting Christmas? Think again travel
-
-10 travel myths you need to stop believing right now
+OMG! meals of 2015: Best of Great American Bites
 
 Dream Boats: Aquatic gifts for the super-rich
 
-10 hours, 46 minutes | Travel
+1 day, 10 hours | Travel
 
-Five DIY drinks for snow daysTSA can now require full-body scans, trumping pat-down optionVanishing act: Cruise ship features that have gone away Reviewed.com
+10 travel myths you need to stop believing right now7 Indiana holy sites worth visitingFive DIY drinks for snow days Reviewed.com
 
 11 great last-minute foodie stocking stuffers
 
 It took 800 people to perfect the iPhone camera
 
-3 days, 10 hours | Tech
+4 days, 10 hours | Tech
 
 How do dishwashers actually work? 10 Christmas cookie recipes from celebrity chefsThe best holiday gifts for cooks and foodies experience
 
@@ -294,9 +294,13 @@ Where to experience the world's largest iconic restaurants
 
 Christmas with characters: Disney Parks light up the…
 
-2 days, 10 hours | America
+3 days, 10 hours | America
 
 Sexiest swim-up bars in the CaribbeanHow to keep your New Year's resolutions at seaLas Vegas' best winter and holiday activities VOICES Voices
+
+Voices: Why I decided to buy a handgun
+
+Voices
 
 Voices: A beautiful act of Christmas kindness
 
@@ -307,10 +311,6 @@ Live-tweeting Christmas? Think again
 Criticscorner
 
 Holiday TV: 'Mr. Magoo,' 'Andy Griffith'
-
-Music
-
-Dad Rock podcast counts down albums of 2015
 
 Movies
 
@@ -328,34 +328,34 @@ Columnist
 
 How to switch from iPhone to Android
 
+*   Around the world at Christmas 2015
 *   Fun and festive Santas from around the world
 *   The day in pictures
-*   Around the world at Christmas 2015
 *   College football bowl watchability rankings
 *   December political cartoons from Gannett cartoonists
 
 Most Popular
 
+*   Bill Clinton's first home damaged in suspected arson
+    
+*   Got a new smartphone? Download these apps
+    
+*   N.Y. pizza shop owner an Islamic State conduit
+    
 *   UFO captured? Man says he has proof
-    
-*   GoFundMe campaign backfires on cancer patient's mom
-    
-*   Top U.S. military agency NORAD keeps watch over Santa's around the…
-    
-*   Florida restaurant employee shoots, kills would-be robber
     
 
 Trending on Social
 
-*   Merry Moon: Rare full moon on Christmas Day
+*   Earthquake shakes Pakistan, Afghanistan and India
     
-*   The Poe/Finn 'Star Wars' bromance has taken over the Internet
+*   Texas mosque fire on Christmas called suspicious
     
-*   Gas tanker truck fire kills scores in Nigeria
+*   Jailed reporter sends colleagues 'Season's Greetings' from Iran prison
     
-*   N.Y. pizza shop owner an Islamic State conduit
+*   Center Jack Allen sets the tone for Michigan State's offense
     
-*   Pope Francis celebrates Christmas Eve Mass
+*   No. 2 Oklahoma beats Harvard in Diamond Head Classic title game
     
 
 SPONSOR CONTENT Right Now
