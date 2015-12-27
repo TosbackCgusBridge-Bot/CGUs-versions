@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14354072589
+true true C14263618704
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p19.jcpenney.com SERVER NAME :->. dtcomexpr1l1j2 TIME :->. Fri Dec 25 11:15:37 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Sat Dec 26 11:15:20 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,33 +48,23 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Great Deals On Gifts For Everyone Merry Christmas! Extra 25% Off\* Today Only!
+$10 Off\* $25 or More In Store and Online | Ends December 29 | Code: LETSHOP Print CouponOr, Extra 25% Off\* $150 or More Online Only | Ends December 29 | Code: USAV2DAY Or, Extra 20% Off\* $100 or More Online Only | Ends December 29 | Code: USAV2DAY \*Exclusions and details Save Big At Our After-Christmas Sale Our Biggest After Christmas Sale and Clearance
 
-Online Only | December 25 | Use Code: YOUSAVE
+In Store and Online
 
-\*Some exclusions apply.
+Shop Sale Shop Clearance View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop ShoesBig Buys - 3 Days Only Use Your Coupon and Save Even More!
 
-Get details:There's Still Time To Send A Gift!
-
-Buy now for delivery today! Customize with photo or video, redeem in store and online.
-
-Shop E-Gift Cards Use Your Coupon And Save Even More! Our Biggest After Christmas Sale and Clearance
-
-Starts Now Online! | Extended Store Hours: Saturday 12/26 Doors Open at 6AM!
-
-Shop Sale Shop Clearance View Store Ad   Shop Women Shop Men Shop Kids Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop ShoesBig Buys - 3 Days Only Use Your Coupon and Save Even More!
-
-Starts Now Online | In Store December 26-27 | Doors Open 6AM Saturday!
+In Store and Online thru December 27 | Doors Open 6AM Saturday!
 
 $10 Off $10 + More Coupon Giveaway
 
 Saturday at the door while they last!
 
-Start Fresh With Savings For The Home Stock Up White Sale | December 25 - January 3
+Refresh Your Space With Savings On Home Stock Up White Sale | Ends January 3
 
 30 to 50% Off Home Collections, select styles
 
-Shop Home Collections Shop Bedding and Bath Arizona Jeans On Sale Now 14.99 to 17.99 Arizona Jeans
+Shop Home Collections Shop Bedding and Bath Save On Arizona Jeans For The Family 14.99 to 17.99 Arizona Jeans
 
 Select styles.
 
@@ -82,7 +72,7 @@ Shop Guys Shop Juniors Shop Boys Shop Girls         Get Going With Xersion A
 
 Select styles.
 
-Shop Women Shop Men     SportsFanShop
+Shop Women Shop Men     Cash In Your Gift Cards and E-Gift Cards Got a Gift Card? Redeem in store or online! Check your gift card balance: SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
