@@ -85,200 +85,212 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Nation When the photo became the story in 2015
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Weather Eight dead after tornado, storms hit Texas Read StoryScare ahead of Cotton Bowl
 
 TOP STORIES
 
-*   Weather On Christmas, warm greetings from the East – really warm
-*   NBA Warriors vs. Cavs was no revenge game
-*   World Jailed reporter sends colleagues 'Season's Greetings' from Iran prison
-*   Experience a 360-degree video of Colo. skiing
-*   Confessions of a college basketball 'slimeball'
-*   Clinton's first home damaged in suspected arson
-*   Got a new smartphone? Download these apps
-*   'Is this planet Earth?' Astronaut dials wrong number
-*   Miley Cyrus releases saddest Christmas song ever
-*   Steve Harvey crowns the wrong holiday
-*   Diver finds man's lost wedding ring on ocean floor
-*   Texas mosque fire on Christmas called suspicious
+*   Nation Now Marine Corps uniform changes expected this year
+*   Denver Broncos Peyton Manning calls report of HGH shipments 'totally made up'
+*   Washington At least 3 groceries opt out of Texas open-carry gun law
+*   Tom Brady fulfills cancer patient's wish
+*   Chicago police officer fatally shoots 2
+*   Squatter armed with machete found in Utah home
+*   'Star Wars' sets Christmas box-office record
+*   Calif. highway reopens as fire containment grows
+*   Mall shooting suspect had long rap sheet
+*   Police hunt man after Calif. woman set on fire
+*   ISIL leader says 'caliphate' well, mocks U.S.
+*   Stanley Morgan Jr. makes spectacular TD catch
 
-Cars
+Nation Now
 
-Hey Santa, bring us one of these new cars in '16
+A cheaper ride from Indy airport debuts soon
 
-Olympics
+Sports
 
-Wrestlers aiming for Rio Olympics spread cheer to sick children
+Sports predictions for 2016: The silly and serious
 
-Humankind
+Tech
 
-Adventurous Ace heading 1,000 miles home to Texas
+Hitler's cojone: Incredible discoveries of the week
 
-TV
+NCAAB
 
-'Joy' shines spotlight on home shopping
+Louisville coach denies making obscene gesture at Kentucky fan
 
 2015 YEAR IN REVIEW News
 
 Full coverage: Looking back at 2015
 
-Cars
+Tech
 
-These 19 wild concept cars turned heads in 2015
+Top #TalkingTech interviews of 2015
 
 Tech
 
 5 apps that made us say 'wow' in 2015
 
-World
+Nation
 
-Around the world at Christmas 2015
+A lot happened in space in 2015
 
-Great tech gifts for non-techie people
+The apps that made you say 'Wow!' this year
 
-Columnist Marc Saltzman shows off awesome gadgets that are easy to set up and use.
+USA TODAY's Jefferson Graham takes a look at the top apps that made smartphone users say 'Wow!' in 2015.
 
-1 of 18 See more video
+1 of 20 See more video
 
-The brilliant light displays of Paul Tudor Jones
+These are the must-have apps for your smartphone, tablet
 
-In keeping with holiday tradition, hedge fund billionaire Paul Tudor Jones, the founder of Tudor Investment Corp, has put up another elaborate Christmas lights display at his Belle Haven estate in Greenwich, Connecticut.
+Get a new smartphone or tablet this holiday? Download some of these apps right away.
 
-2 of 18 See more video
+2 of 20 See more video
 
-Air Force brings unlikely Christmas to remote islands
+Apple names the most innovative app of the year - Workflow
 
-Each Christmas for the past 64 years, the Air Force has been parachuting donated gifts and humanitarian supplies to tiny islands dotting this vast area of the western Pacific. By Kirk Spitzer and Rene Alston
+Workflow, an app that connects you to some of your most-used tasks, is Apple's pick for most innovative app of the year. Jefferson Graham reports.
 
-3 of 18 See more video
+3 of 20 See more video
 
-Godiva's tips on how to make truffles at home
+Photo apps to help you shoot like a pro
 
-From Godiva's head chocolatier, here are three tips for making truffles at home just in time for Christmas.
+Jefferson Graham runs down 5 Photo apps to help you shoot like a pro on #TalkingTech.
 
-4 of 18 See more video
+4 of 20 See more video
 
-Santa consumes how many calories each Christmas?!
+TalkingTech Top 10 2015
 
-Santa Claus will gain some serious weight after eating A LOT of cookies and drinking A LOT of milk while delivering presents on Christmas Eve.
+Jefferson Graham counts down his top 10 favorite #TalkingTech interviews of 2015, highlighted by driving with the mayor of Los Angeles in a semi-self-driving car, a meetup with ZZ Top guitarist Billy Gibbons and visit by mom to the podcast studio.
 
-5 of 18 See more video
+5 of 20 See more video
+
+And the app of the year is...Periscope
+
+Live mobile video app Periscope was named app of the year by Apple in its annual year-end rankings of the best in Mobile. Jefferson Graham reports.
+
+6 of 20 See more video
+
+Watch the biggest headlines of 2015 in 3 minutes
+
+2015 year in review: The biggest headlines you may have missed.
+
+7 of 20 See more video
 
 19 cars, SUVs you will no longer be able to buy
 
 As 2015 winds down, it's time to bid adieu to cars and trucks that went out of production in 2015 and others that we know will reach the end of the line in 2016. You're not likely to miss many of them.
 
-6 of 18 See more video
+8 of 20 See more video
 
 See how an accidental email helped save this man's life
 
 A Mattress Firm employee in Georgia accidentally sent a company email to the wrong person. That email then sparked a chain of events that helped the recipient's fiancé find the treatment he needed for his pancreatic cancer.
 
-7 of 18 See more video
-
-These robot reindeer will haunt your Christmas
-
-Boston Dynamics, a Massachusetts-based robotics company, shared a special holiday greeting on YouTube. The video shows three of their 'robo-dogs' pulling Santa's sleigh.
-
-8 of 18 See more video
+9 of 20 See more video
 
 Taco shop creates viral video, cracks on burglars
 
 Frijoles and Frescas in Las Vegas caught a recent burglary on surveillance video. Instead of just filing a police report, they created this awesome video in hopes to help catch the suspects.
 
-9 of 18 See more video
+10 of 20 See more video
 
 Strangers help dog get home after wandering 1,100 miles
 
 A network of people are working together to deliver a stray dog to his owner 1,100 miles away. The dog was found in South Carolina after wandering away from his elderly owner in Texas.
 
-10 of 18 See more video
+11 of 20 See more video
+
+Officials suspect arson in fire at Bill Clinton's birthplace
+
+The William J. Clinton home in Hope, Arkansas, is where the former president was born. Firefighters were called to the scene at about 3:20 a.m. Video provided by Newsy
+
+12 of 20 See more video
+
+Diver recovers man's lost wedding ring on ocean floor
+
+The odds were slim, but Jay Bradford knew he had to try and find his wedding ring that slipped off his finger and fell into the ocean off the coast of New Jersey. Luckily, he had a few friends that specialize in diving.
+
+13 of 20 See more video
+
+A lot happened in space in 2015
+
+We take a look at the coolest things to come out of space flight this year. Video provided by Newsy
+
+14 of 20 See more video
+
+'Is this planet Earth?': Astronaut calls wrong number
+
+British astronaut Tim Peake had a hard time assuring the person he called on Earth that it wasn't a prank. Video provided by Newsy
+
+15 of 20 See more video
+
+Top 3 things to remember when you inevitably regift that item
+
+When it comes to regifting those not-so-wanted presents, there are three things you need to take into account. Video provided by Newsy
+
+16 of 20 See more video
 
 Skier barely misses being hit by falling drone
 
 The International Ski Federation is banning camera drones from its World Cup races after a drone crashed and nearly hit Austrian skier Marcel Hirscher during a slalom in Italy. (Dec. 23)
 
-11 of 18 See more video
+17 of 20 See more video
 
 Best and worst cities for single people in 2015
 
 Wallet Hub ranked 150 American cities based on how affordable and easy it is to date there. Mara Montalbano (@maramontalbano) tells us where singles should consider moving if they want to find love.
 
-12 of 18 See more video
+18 of 20 See more video
 
 Turns out comets are more dangerous than we thought
 
 A new study is finding that Comets present much more a danger than we previously thought. Patrick Jones (@Patrick\_E\_Jones) has the details.
 
-13 of 18 See more video
-
-Christmas carol singing flashmob takes over airport
-
-A German broadcasting company gave the gift of song and cheer to those traveling through the Cologne Bonn airport this holiday season. Thanks to their flashmob style, it was a pleasant surprise. Scott Knowlton has more.
-
-14 of 18 See more video
+19 of 20 See more video
 
 The world's 8 scariest airport runways
 
 Would you fly into these airports?
 
-15 of 18 See more video
+20 of 20 See more video Last VideoNext Video news
 
-Making holiday truffles with Godiva's head chocolatier
-
-Godiva gave us an up close look at the process to make their limited edition holiday truffles. The creation process for Godiva starts years in advance and can take over six months to test, package and design.
-
-16 of 18 See more video
-
-Yogi Berra, B.B. King among greats we remember in 2015
-
-We remember the celebrities who passed away in 2015, after years of touching our hearts and lives.
-
-17 of 18 See more video
-
-Top media controversies of 2015
-
-USA TODAY editor-at-large Rem Rieder shares his picks for this year's biggest controversies involving the media.
-
-18 of 18 See more video Last VideoNext Video news
-
-Bill Clinton's first home damaged in suspected arson
+Eight dead after tornado, storms hit Texas
 
 Year in Review: 50 stories from 50 states
 
-3 days, 2 hours | News
+4 days, 2 hours | News
 
-Okinawa sues Tokyo in bid to stop U.S. base relocationTexas mosque fire on Christmas called suspiciousGirl knocks 'Elf on the Shelf' onto the floor, calls 911 sports
+Scenic Calif. highway reopens as fire containment growsChicago police fatally shoots 2, including one by accident, in…Girl knocks 'Elf on the Shelf' onto the floor, calls 911 sports
 
-Why Warriors vs. Cavaliers was no revenge game
+Redskins claim wacky NFC East with win in Philly
 
-Warriors fan mocking LeBron caught red-handed
+Was Indiana robbed of tying FG against Duke?
 
-5 hours, 45 minutes | NBA
+2 hours, 31 minutes | NCAAF
 
-Mark Jackson: Steph Curry is 'hurting the game'NFL picks: Broncos, Bengals meet in key AFC clashNo. 1s part of NBA's 'what could have been' team life
+Irony: Awesome photos of Sun Bowl — in the snowPeyton Manning: Report of HGH shipments 'made up'Everett Golson is not attending Peach Bowl life
 
-Kris puts out a stocking for Caitlyn
+Crafting the animation of 'Anomalisa'
 
-Cross WordsAll GamesEntertain This! Miley Cyrus releases saddest Christmas song everThe Beatles finally add music to streaming services'Joy' shines spotlight on home shopping money
+Cross WordsAll GamesEntertain This! Trailer: 'Anomalisa'The Beatles finally add music to streaming servicesWatch: New 'Deadpool' trailer offers holiday mirth money
 
-Embattled drugmaker Valeant's CEO hospitalized
+Don't like it? Tips on how to make holiday gift returns
 
-StocksPortfolio TrackerAmerica's Markets Why Christmas Day sales could become a realityTaking Social Security in 2016? Here's what you need to knowMortgage rates dip, despite Fed rate hike tech
+StocksPortfolio TrackerAmerica's Markets World steel chief calls Chinese glut 'serious and critical'Just Cool Cars: '59 Rambler wagon now a hot rodPost-Christmas shopping: Go for the clothing sales tech
 
-Deadline looms for Sprint, Verizon 'cramming' refund
+Cortana app isn't exactly a talker for Apple, Android devices
 
-5 things you didn't know your tablet could do
+#TalkingTech Portraits 2015
 
-15 hours, 54 minutes | Komando
+9 hours, 25 minutes | Tech
 
-Got a new smartphone? Download these apps10 great games for your smartphone or tablet5 apps that made us say 'wow' in 2015 travel
+TalkingTech Top 10 2015Top #TalkingTech interviews of 2015LG's Styler: A dry cleaner for your closet? travel
 
 OMG! meals of 2015: Best of Great American Bites
 
 Dream Boats: Aquatic gifts for the super-rich
 
-1 day, 10 hours | Travel
+2 days, 10 hours | Travel
 
 10 travel myths you need to stop believing right now7 Indiana holy sites worth visitingFive DIY drinks for snow days Reviewed.com
 
@@ -286,7 +298,7 @@ Dream Boats: Aquatic gifts for the super-rich
 
 It took 800 people to perfect the iPhone camera
 
-4 days, 10 hours | Tech
+5 days, 10 hours | Tech
 
 How do dishwashers actually work? 10 Christmas cookie recipes from celebrity chefsThe best holiday gifts for cooks and foodies experience
 
@@ -294,7 +306,7 @@ Where to experience the world's largest iconic restaurants
 
 Christmas with characters: Disney Parks light up the…
 
-3 days, 10 hours | America
+4 days, 10 hours | America
 
 Sexiest swim-up bars in the CaribbeanHow to keep your New Year's resolutions at seaLas Vegas' best winter and holiday activities VOICES Voices
 
@@ -312,9 +324,9 @@ Criticscorner
 
 Holiday TV: 'Mr. Magoo,' 'Andy Griffith'
 
-Movies
+World
 
-Santa's conundrum: Your ultimate holiday movie guide
+Around the world at Christmas 2015
 
 Movies
 
@@ -328,34 +340,34 @@ Columnist
 
 How to switch from iPhone to Android
 
+*   #TalkingTech Portraits 2015
 *   Around the world at Christmas 2015
-*   Fun and festive Santas from around the world
 *   The day in pictures
 *   College football bowl watchability rankings
 *   December political cartoons from Gannett cartoonists
 
 Most Popular
 
-*   Bill Clinton's first home damaged in suspected arson
+*   At least 3 groceries opt out of Texas open-carry gun law
     
-*   Got a new smartphone? Download these apps
+*   Eight dead after tornado, storms hit Texas
     
-*   N.Y. pizza shop owner an Islamic State conduit
+*   Death from diabetes sparks change, a new law
     
-*   UFO captured? Man says he has proof
+*   Marine Corps uniform changes expected this year
     
 
 Trending on Social
 
-*   Earthquake shakes Pakistan, Afghanistan and India
+*   Mich. park plants 400K milkweed seeds to help monarchs
     
-*   Texas mosque fire on Christmas called suspicious
+*   Peyton Manning calls report of HGH shipments 'totally made up'
     
-*   Jailed reporter sends colleagues 'Season's Greetings' from Iran prison
+*   At least 3 groceries opt out of Texas open-carry gun law
     
-*   Center Jack Allen sets the tone for Michigan State's offense
+*   Redskins claim wacky NFC East with win over Eagles
     
-*   No. 2 Oklahoma beats Harvard in Diamond Head Classic title game
+*   Chicago police officer fatally shoots 2 while responding to call
     
 
 SPONSOR CONTENT Right Now
