@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14263618704
+true true L14357908194
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Sat Dec 26 11:15:20 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Sun Dec 27 11:15:34 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,35 +48,35 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-$10 Off\* $25 or More In Store and Online | Ends December 29 | Code: LETSHOP Print CouponOr, Extra 25% Off\* $150 or More Online Only | Ends December 29 | Code: USAV2DAY Or, Extra 20% Off\* $100 or More Online Only | Ends December 29 | Code: USAV2DAY \*Exclusions and details Save Big At Our After-Christmas Sale Our Biggest After Christmas Sale and Clearance
+Save Big At Our After-Christmas Sale and Clearance Our Biggest After Christmas Sale and Clearance
 
 In Store and Online
 
-Shop Sale Shop Clearance View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop ShoesBig Buys - 3 Days Only Use Your Coupon and Save Even More!
+Shop Sale Shop Clearance View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Refresh Your Space With Savings On Home Stock Up White Sale | Ends January 3
 
-In Store and Online thru December 27 | Doors Open 6AM Saturday!
+40 to 50% Off Home Collections, select styles
 
-$10 Off $10 + More Coupon Giveaway
+Shop Home Collections Shop Bedding and Bath Save On Nike For The Family Nike Sale | 25% Off Nike For The Family
 
-Saturday at the door while they last!
+Select styles, excluded from coupon.
 
-Refresh Your Space With Savings On Home Stock Up White Sale | Ends January 3
-
-30 to 50% Off Home Collections, select styles
-
-Shop Home Collections Shop Bedding and Bath Save On Arizona Jeans For The Family 14.99 to 17.99 Arizona Jeans
+Shop Nike For The Family Shop Men Shop Women Shop Boys Shop Shoes         Save On Arizona Jeans For The Family 14.99 to 17.99 Arizona Jeans
 
 Select styles.
 
-Shop Guys Shop Juniors Shop Boys Shop Girls         Get Going With Xersion Activewear Big Buy! 50% Off Xersion Activewear
+Shop Guys Shop Juniors Shop Boys Shop Girls         Star Wars On Sale! 40 to 50% Off Star Wars Apparel
 
 Select styles.
 
-Shop Women Shop Men     Cash In Your Gift Cards and E-Gift Cards Got a Gift Card? Redeem in store or online! Check your gift card balance: SportsFanShop
+Shop Star Wars Apparel Now Got a Gift Card?
 
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
+Redeem In Store or Online!
 
-Shop SportsFanShop Star Wars™ Shop Star Wars Now Work Out and About For Less Shop Fitness Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Check Your Balance Work Out and About For Less Shop Fitness Now Styled by JCPenney
+
+Check out our blog
+
+Read It Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
