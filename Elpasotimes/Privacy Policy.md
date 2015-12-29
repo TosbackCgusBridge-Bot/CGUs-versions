@@ -85,289 +85,301 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ News Iraqi forces claim key victory in Ramadi. say Islamic State in retreat
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Elections 2016 Christie gains in N.H. and Trump notices
 
 TOP STORIES
 
-*   Weather Texas under siege: Tornadoes, flooding, snow and ice
-*   Weather For the first time, December is the deadliest month for tornadoes
-*   People USA TODAY names Taraji P. Henson Entertainer of the Year
-*   Trump attacks Bill Clinton for his 'sexism'
-*   Weather prompts Mo. gov. to declare emergency
-*   MLB postseason hero Dave Henderson dies at 57
-*   Bell: Deep Cardinals look like NFL's best team
-*   BALCO founder slams Al Jazeera PED report
-*   2,000 teens fight at Louisville mall
-*   Police kill neighbor by accident in Chicago
-*   Reports: Israeli soldiers shoot two Palestinians
-*   Kim and North were twinning in Christmas braids
+*   Nation 'Affluenza' Teen apprehended in Mexico, CNN reports
+*   Music Motörhead's Lemmy Kilmister dies at 70
+*   Christine Brennan Brennan: Should we believe in Peyton Manning?
+*   Weather snarls flights for second day in a row
+*   Obamacare no cure for working poor
+*   No charges in Tamir Rice killing
+*   These year-end mistakes could cost you big time
+*   CNN anchor Poppy Harlow passes out on air
+*   Police: Killer shot woman for not believing in God
+*   Lawsuit says 'Big Bang' stole 'Soft Kitty' song
+*   How 'Star Wars' could score big on Oscar night
+*   Good news! Monster asteroids will miss Earth
 
-Movies
+Weather
 
-'Force Awakens' passes $1B at global box office
+Extreme weather continues to slam Midwest, South
 
-Denver Broncos
+People
 
-'Furious' Manning denies report of HGH use
+Reports: Ryan Phillippe is engaged
 
-Nation Now
+OnPolitics
 
-Low lake level reveals a glimpse of old town
+Obama most admired man. Trump tied for 2nd
 
-New England Patriots
+Nation
 
-Patriots insist no confusion on decision to kick off after winning coin flip
+Chicago mayor cuts Cuba trip short after shooting
 
 2015 YEAR IN REVIEW Movies
 
-Movie person of the year: J.J. Abrams
+Brian Truitt's 10 best movies of 2015
 
-Music
+Markets
 
-Musician of the year: Adele
+Ouch! 5 CEOs lost $20B this year
+
+Cars
+
+These wild concept cars turned heads in 2015
 
 News
 
 Full coverage: Looking back at 2015
 
-Tech
+20-hour high speed boat chase nearly ends in crash
 
-5 apps that made us say 'wow' in 2015
+Lt. Christopher Nyce, of the Lee County Sheriff's Office Marine Unit, and Sheriff Mike Scott give details about capturing the three suspects in a recent high-speed boat theft. Video by Kinfay Moroti/news-press.com
 
-Tornado survivors describe deadly twister
+1 of 22 See more video
 
-An EF-4 tornado claimed at least 8 lives in Garland, Texas, where residents describe shielding loved ones and rescuing strangers from the storm.
+It's a trap! How to spot and avoid fake travel reviews
 
-1 of 20 See more video
+Many travelers rely heavily on online reviews to make decisions. But what happens when some of those reviews turn out to be bogus?
 
-What would you have done differently in 2015?
+2 of 22 See more video
 
-Lessons for the new year, learned the hard way in 2015.
+This micro apartment will make your home look like a palace
 
-2 of 20 See more video
+The apartments in a new Manhattan building boast little balconies, tall ceilings, dishwashers and storage space. All in 360 square feet or less. It marks the city's first experiment in decades with building super-small dwellings. (Dec. 28)
 
-Peyton Manning denies HGH allegations
+3 of 22 See more video
 
-USA TODAY Sports on the recent Al Jazeera report that claims the Broncos quarterback received shipments of HGH.
+Kitten stuck in drain for 2 hours, rescued with pipe and rope
 
-3 of 20 See more video
+A crew of emergency responders in Illinois spent hours rescuing a kitten stuck in a pipe drain. Police and fire officials saved the kitty who is now in safe hands with Animal Control. Keleigh Nealon (@keleighnealon) has the story!
+
+4 of 22 See more video
+
+Owl attacks police officer then won't leave
+
+A police officer in Louisiana had an interesting encounter with an owl who flew into his patrol car. Gillian Pensavalle (@GillianWithaG) has the video.
+
+5 of 22 See more video
+
+Couple spends $100K to clone puppies
+
+A British couple spends $100,000 to clone their puppy after he passes. The pair ends up with a big surprise! Keleigh Nealon (@keleighnealon) has the story!
+
+6 of 22 See more video
+
+Angry man leaves chickens in tax office lobby
+
+A man in Oregon left seven chickens in the lobby of the Department of Revenue after allegedly getting frustrated with its services. Gillian Pensavalle (@GillianWithaG) explains.
+
+7 of 22 See more video
+
+How to start 2016 off on the right financial foot
+
+Savings expert Matt Granite shows you how to start the new year with your money where it should be - in your wallet.
+
+8 of 22 See more video
+
+San Francisco irate over rampant Justin Bieber graffiti
+
+Following weeks of complaints regarding graffiti dotting the sidewalks of San Francisco, City Attorney Dennis Herrera wrote an open letter to Justin Bieber's record label on Monday.
+
+9 of 22 See more video
 
 These photos define the year's biggest stories
 
 From the tragic death of a migrant child to the shocking knock out of Ronda Rousey, photos made the news in 2015. Take a look back at some of the images we won't forget from this past year.
 
-4 of 20 See more video
-
-'Come Together' is most-streamed Beatles' song so far
-
-The Beatles' catalog has only been available for streaming on Spotify for a few days, but a few favorites have already emerged among fans.
-
-5 of 20 See more video
-
-Radiohead releases rejected theme song for 'Spectre'
-
-Whether you consider it Bond-worthy or not, the release is an encouraging sign for fans the band is working on new material.
-
-6 of 20 See more video
-
-App helps you unload unwanted gifts
-
-Got a gift you wish you hadn't received? An app called 5miles helps you sell it, so you can get what you really want instead.
-
-7 of 20 See more video
+10 of 22 See more video
 
 The apps that made you say 'Wow!' this year
 
 USA TODAY's Jefferson Graham takes a look at the top apps that made smartphone users say 'Wow!' in 2015.
 
-8 of 20 See more video
+11 of 22 See more video
 
 These are the must-have apps for your smartphone, tablet
 
 Get a new smartphone or tablet this holiday? Download some of these apps right away.
 
-9 of 20 See more video
+12 of 22 See more video
 
 Apple names the most innovative app of the year - Workflow
 
 Workflow, an app that connects you to some of your most-used tasks, is Apple's pick for most innovative app of the year. Jefferson Graham reports.
 
-10 of 20 See more video
+13 of 22 See more video
 
 Photo apps to help you shoot like a pro
 
 Jefferson Graham runs down 5 Photo apps to help you shoot like a pro on #TalkingTech.
 
-11 of 20 See more video
-
-And the app of the year is...Periscope
-
-Live mobile video app Periscope was named app of the year by Apple in its annual year-end rankings of the best in Mobile. Jefferson Graham reports.
-
-12 of 20 See more video
-
-Watch the biggest headlines of 2015 in 3 minutes
-
-2015 year in review: The biggest headlines you may have missed.
-
-13 of 20 See more video
+14 of 22 See more video
 
 19 cars, SUVs you will no longer be able to buy
 
 As 2015 winds down, it's time to bid adieu to cars and trucks that went out of production in 2015 and others that we know will reach the end of the line in 2016. You're not likely to miss many of them.
 
-14 of 20 See more video
+15 of 22 See more video
 
 See how an accidental email helped save this man's life
 
 A Mattress Firm employee in Georgia accidentally sent a company email to the wrong person. That email then sparked a chain of events that helped the recipient's fiancé find the treatment he needed for his pancreatic cancer.
 
-15 of 20 See more video
+16 of 22 See more video
 
 Taco shop creates viral video, cracks on burglars
 
 Frijoles and Frescas in Las Vegas caught a recent burglary on surveillance video. Instead of just filing a police report, they created this awesome video in hopes to help catch the suspects.
 
-16 of 20 See more video
+17 of 22 See more video
+
+Distracted man dies after falling off cliff
+
+A 33-year-old Indiana man was walking along California's Sunset Cliffs on Christmas Day when he fell 60 feet to his death. Video provided by Newsy
+
+18 of 22 See more video
 
 Strangers help dog get home after wandering 1,100 miles
 
 A network of people are working together to deliver a stray dog to his owner 1,100 miles away. The dog was found in South Carolina after wandering away from his elderly owner in Texas.
 
-17 of 20 See more video
+19 of 22 See more video
 
 Best and worst cities for single people in 2015
 
 Wallet Hub ranked 150 American cities based on how affordable and easy it is to date there. Mara Montalbano (@maramontalbano) tells us where singles should consider moving if they want to find love.
 
-18 of 20 See more video
+20 of 22 See more video
 
 Turns out comets are more dangerous than we thought
 
 A new study is finding that Comets present much more a danger than we previously thought. Patrick Jones (@Patrick\_E\_Jones) has the details.
 
-19 of 20 See more video
+21 of 22 See more video
 
 The world's 8 scariest airport runways
 
 Would you fly into these airports?
 
-20 of 20 See more video Last VideoNext Video news
+22 of 22 See more video Last VideoNext Video news
 
-Iraqi military claims key victory in Ramadi, says ISIL is in retreat
+Grand jury: No charges in Tamir Rice killing
 
-Chicago officer fatally shoots 2, one deemed accident
+Most of those without Medicaid are the working poor
 
-16 hours, 58 minutes | News
+6 hours, 48 minutes | Nation
 
-No arrests after 2,000 teens fight at Louisville mallGuy looking at device falls off cliff on Christmas DaySouth Korea, Japan to discuss wartime Korean sex slaves sports
+Extreme weather continues to slam Midwest, South as fatalities riseToday in History for December 29thIraq retakes central Ramadi from Islamic State sports
 
-Vikings surge into NFC North title clash with Packers
+Broncos outlast Bengals in OT to lock up playoff berth
 
-NFL playoff picture: Who's in and who's out?
+Brennan: Should we believe in Peyton Manning?
 
-4 hours, 41 minutes | NFL
+5 hours, 24 minutes | Christine Brennan
 
-Bell: Dangerously deep Cards look like NFL's bestSeahawks DE calls Todd Gurley 'average' after lossBALCO founder Conte slams Al Jazeera PED report life
+NFL playoff picture: Broncos punch ticket with winDabo Swinney's rise from 'walk-on' coach to No. 1Browns coach not judging Manziel over latest video life
 
-USA TODAY names 'Empire' star Taraji P. Henson Entertainer of the Year
+Brian Truitt's 10 best movies of 2015
 
-Cross WordsAll GamesEntertain This! 'Force Awakens' passes $1B at global box office'Star Wars' makes $1B in less than 12 parsecsWatch Muppets' gift to you: 'Kodachrome' money
+Cross WordsAll GamesEntertain This! 'Big Bang Theory' sued over 'Soft Kitty' songSan Francisco irate over rampant Justin Bieber graffitiMotörhead's Lemmy Kilmister dies at 70 money
 
-World steel chief calls Chinese glut 'serious and critical'
+Icahn raises Pep Boys takeover bid, topping Bridgestone
 
-StocksPortfolio TrackerAmerica's Markets Don't like it? Tips on how to make holiday gift returnsJust Cool Cars: '59 Rambler wagon now a hot rodDo you work on vacation? You're not alone tech
+StocksPortfolio TrackerAmerica's Markets Small biz trends: 'Social' upheaval? MaybeThese year-end mistakes could cost you big timeMeet the map maker for self-driving cars tech
 
-Cutting the Cord: Next year will bring even more streaming options
+Meet the map maker for self-driving cars
 
-Tech Fails: The year in consumer gadget calamities
+Future of messaging apps spells end to 'Google as we know…
 
-9 hours, 4 minutes | Columnist
+9 hours, 3 minutes | News
 
-Cybersecurity predictions for 2016Cortana app isn't exactly a talker for Apple, Android devicesWhite House photog shows off best iPhone shots of 2015 travel
+Tech Fails: The year in consumer gadget calamitiesTablets have banner 2015, thanks to lesser known labelsAmazon: Prime members in 'tens of millions' travel
 
-Top 20 museums in the USA
+Best of 2015: 50 state secrets to visit around the USA
 
-OMG! meals of 2015: Best of Great American Bites
+The ultimate cruise adventure? New river ship explores…
 
-2 days, 19 hours | Great American Bites
+16 hours, 30 minutes | Cruises
 
-Literary Caribbean: Explore the places behind the novelsDo you work on vacation? You're not aloneDream Boats: Aquatic gifts for the super-rich Reviewed.com
+Wisconsin's best takes on cheeseFake online reviews trip travelersAtlanta is world's first airport to hit 100 million passengers in year Reviewed.com
 
-11 great last-minute foodie stocking stuffers
+LG's Sidekick is a washer under your washer
 
-It took 800 people to perfect the iPhone camera
+You can finally buy a foot-powered washer
 
-6 days, 10 hours | Tech
+12 hours, 6 minutes | Tech
 
-How do dishwashers actually work? 10 Christmas cookie recipes from celebrity chefsThe best holiday gifts for cooks and foodies experience
+9 Christmas movies for people who hate Christmas moviesHow to save your Christmas tree from certain doom8 genius uses for your ice cube tray experience
 
-Where to experience the world's largest iconic restaurants
+Sexiest swim-up bars in the Caribbean
 
-Christmas with characters: Disney Parks light up the…
+Five DIY drinks for snow days
 
-5 days, 10 hours | America
+1 week | Food &. Wine
 
-Sexiest swim-up bars in the CaribbeanHow to keep your New Year's resolutions at seaLas Vegas' best winter and holiday activities VOICES Voices
+Vanishing act: Cruise ship features that have gone awayWhere to experience the world's largest iconic restaurantsPlan your city escape with USA TODAY Travel's destination guides VOICES Opinion
 
-Voices: Why I decided to buy a handgun
+Congress loses interest in the deficit: Our view
 
 Voices
 
-Voices: A beautiful act of Christmas kindness
+Voices: My fairy-tale romance with my Benz comes to 'The End'
 
-Columnist
+Opinion
 
-Live-tweeting Christmas? Think again
+Fighting Christmas debt: Column
 
-Criticscorner
+Wolff
 
-Holiday TV: 'Mr. Magoo,' 'Andy Griffith'
+Wolff: Why they call it storytelling at 'The New York Times'
+
+Opinion
+
+Some stores opt out of open-carry gun laws: #tellusatoday
 
 Golf
 
 Tiger Woods at 40: Down and in pain, but not yet ready to call it a career
 
-World
+Sports
 
-Around the world at Christmas 2015
-
-Movies
-
-The Mothership: Let's talk about 'The Force Awakens' (spoilers edition)
+Action, emotion: The 26 best sports photos of 2015
 
 Nation Now
 
 Quiz: Were you paying attention to the Internet this year?
 
+*   Amazing yachts you can buy from $1M to $22M
+*   Severe weather hits South and Midwest
 *   Chicago police shooting vigil
-*   #TalkingTech Portraits 2015
-*   Daily editorial cartoons
-*   The day in pictures
-*   College football bowl watchability rankings
+*   Best of NFL Week 16
+*   Cruise ship tours: Avalon Waterways' new Avalon Myanmar
 
 Most Popular
 
-*   Guy looking at device falls off cliff on Christmas Day
+*   Pregnant CNN anchor Poppy Harlow passes out on air in middle of report
     
-*   No arrests after 2,000 teens fight at Louisville mall
+*   Most of those without Medicaid are the working poor
     
-*   Texas under siege: Tornadoes, flooding, snow and ice
+*   Brennan: Should we believe in Peyton Manning?
     
-*   Low lake level reveals a glimpse of old town
+*   Lawsuit claims 'Big Bang' stole 'Soft Kitty' song
     
 
 Trending on Social
 
-*   Low lake level reveals a glimpse of old town
+*   Police: Woman shot victim, kept body for 3 days as shrine
     
-*   The Donald strikes back: Trump attacks Bill Clinton's 'sexism'
+*   'Affluenza' teen apprehended in Mexico, CNN reports
     
-*   Image of crying children in migrant crisis wins UNICEF photo of the year
+*   Christie gains in N.H. and Trump notices
     
-*   Selling a home in 2016? Here's your need-to-know
+*   How 'Star Wars' could score big on Oscar night
     
-*   Bell: Dangerously deep Cardinals look like NFL's best team
+*   Motörhead's Lemmy Kilmister dies at 70
     
 
 SPONSOR CONTENT Right Now
