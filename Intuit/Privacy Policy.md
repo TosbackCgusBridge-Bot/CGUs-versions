@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14357908194
+true true C14270439615
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Sun Dec 27 11:15:34 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p28.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Mon Dec 28 11:15:33 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -60,11 +60,13 @@ Shop Home Collections Shop Bedding and Bath Save On Nike For The Family Nike Sal
 
 Select styles, excluded from coupon.
 
-Shop Nike For The Family Shop Men Shop Women Shop Boys Shop Shoes         Save On Arizona Jeans For The Family 14.99 to 17.99 Arizona Jeans
+Shop Nike For The Family Shop Men Shop Women Shop Boys Shop Shoes         Save On Arizona Jeans For The Family Buy 1, Get 1\* Free Arizona Jeans
 
 Select styles.
 
-Shop Guys Shop Juniors Shop Boys Shop Girls         Star Wars On Sale! 40 to 50% Off Star Wars Apparel
+\*Buy one item at regular price, get the second item of equal or lesser value for free
+
+Shop Guys Shop Juniors     Star Wars On Sale! 40 to 50% Off Star Wars Apparel
 
 Select styles.
 
