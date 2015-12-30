@@ -21,7 +21,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Back to Women Featured Shops
             *   Outerwear Shop
             *   Cardigan Shop
-            *   Best of Holiday 2015
+            *   New Activewear 2016
             *   Tunic Shop
             
             *   New Arrivals
@@ -59,8 +59,8 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Men
         *   Featured Shops
             *   Back to Men Featured Shops
-            *   Gifts for Him
-            *   Holiday Style Guide
+            *   Outerwear Shop
+            *   Key Looks
             *   No Iron Shop
             *   Supima Shirts &. Sweaters
             
@@ -157,6 +157,13 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Hats, Gloves &. Scarves
         *   Snow Boots
         *   Long Underwear
+*   Swim
+    *   *   Back to Main Menu Swim
+        *   Shop Swim
+        *   Women
+        *   Men
+        *   Girls
+        *   Boys
 *   Shoes
     *   *   Back to Main Menu Shoes
         *   Shop Shoes
@@ -178,7 +185,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Supima Bedding &. Bath
             *   Flannel Bedding
             *   No Iron Bedding
-            *   Holiday Shop
+            *   Home Buying Guide
             *   Sale
         
         *   **More For the Home**
@@ -270,21 +277,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Home
             *   In-season Savings
             *   Last Chance
-*   Gifts
-    *   *   Back to Main Menu Gifts
-        *   Shop Gifts
-        *   For Her
-        *   For Him
-        *   For Girls
-        *   For Boys
-        *   For Home
-        *   For Dog
-        
-        *   Holiday Shop
-        *   Stockings &. Stuffers
-        *   Personalized Gifts
-        *   Canvas Totes
-        *   Gift Cards
 
 *   My Account
     *   Back to Main Menu My Account
