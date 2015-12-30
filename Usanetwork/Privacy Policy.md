@@ -46,7 +46,7 @@ Skip to main content
             4.  Universal Pictures International Universal Pictures International The international marketing and distribution division for Universal Pictures. Universal Pictures International
         6.  Parks
             1.  Universal Orlando Resort Universal Orlando Resort Offers guests unique and popular entertainment experiences. Its renowned theme parks feature some of the world’s most thrilling film and TV based attractions. Universal Orlando Resort
-            2.  Universal Studios Hollywood Universal Studios Hollywood Celebrate the 50th Anniversary of the world-famous Studio Tour and go behind the scenes to explore real film sets where Hollywood movies are made. Universal Studios Hollywood
+            2.  Universal Studios Hollywood Universal Studios Hollywood Get ready for the ultimate Hollywood movie experience! Universal Studios Hollywood
             3.  Universal Studios Japan Universal Studios Japan Offers guests unique and popular entertainment experiences. Its renowned theme parks feature some of the world’s most thrilling film and TV based attractions. Universal Studios Japan
             4.  Universal Studios Singapore Universal Studios Singapore Offers guests unique and popular entertainment experiences. Its renowned theme parks feature some of the world’s most thrilling film and TV based attractions. Universal Studios Singapore
         7.  TV Studios Production
