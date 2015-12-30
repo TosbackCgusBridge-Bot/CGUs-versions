@@ -1,6 +1,6 @@
 **THE NICKELODEON GROUP PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**
 
-**LAST UPDATED:** Nickelodeon Universal Privacy Policy - Last Updated Date 11/18/2015
+**LAST UPDATED:** Nickelodeon Universal Privacy Policy - Last Updated Date 12/29/2015
 
 Click here to learn about the most recent significant updates.
 
@@ -135,7 +135,9 @@ For more detailed information regarding who we are, please go here
 
 **VIII. YOUR CALIFORNIA PRIVACY RIGHTS.**
 
-**IX. CONTACT US**
+**IX. CHANGES TO THIS PRIVACY POLICY AND NOTICE.**
+
+**X. CONTACT US**
 
   
 
@@ -366,7 +368,11 @@ New York, New York 10036
 
 This document is the sole statement of the Nickelodeon Sites' Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid. In interpreting this Agreement, the English version governs the interpretation and meaning of the obligation set forth herein. To the extent there is an ambiguity or conflict with the Privacy Policy in other languages, the Privacy Policy in English governs.
 
-**IX. CONTACT US**
+**IX. CHANGES TO THIS PRIVACY POLICY AND NOTICE.**
+
+We reserve the right to revise this Privacy Policy at any time for any reason in our sole discretion by posting an updated Privacy Policy without advance notice to you. Such revisions shall be effective immediately upon posting and if you use the Site after they become effective it will signify your agreement to be bound by the changes. We shall post or display notices of material changes on the Site’s homepage or otherwise on the Site and/or e-mail you or notify you upon login about these changes. the form of such notice is at our discretion. However, we encourage you to check this Privacy Policy often for updates.
+
+**X. CONTACT US**
 
 If you have any other questions about our information handling practices, including our practices with respect to children’s personal information, please contact us at:
 
