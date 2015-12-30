@@ -6,9 +6,9 @@ This Notice of Privacy Practices explains:
 
 *   The kinds of information we collect
 *   How we use information
-*   Our information sharing practices
-*   Customer Preference and Opt-Out Choices
-*   How you may access some of the information you provide to us
+*   Our information sharing practices 
+*   Customer Preference and Opt-Out Choices 
+*   How you may access some of the information you provide to us 
 
 We encourage you to refer to this notice periodically so that you understand our current privacy practices.  
   
@@ -83,7 +83,7 @@ Externally
 
 > > Website Optimization Services macys.com shares data using the IBM Digital Analytics tool to understand and optimize website performance and enhance site usability for our customers. IBM Digital Analytics analyzes data it collects from macys.com and returns reports to us through an encrypted connection. IBM Data Analytics is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Macy's. We do not share credit card or password information with IBM Digital Analytics. To learn more about opting out of IBM Digital Analytics of your browsing and purchasing behavior, please refer to the Customer Preferences and Opt-Out Choices section of this notice.  
 > >   
-> > Borderfree macys.com processes international customer orders through our partner Borderfree. Borderfree is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Macy's. To learn more about international customer privacy, please see the International Customer Privacy section of this notice.  
+> > Borderfree macys.com processes international customer orders through our partner Borderfree. Borderfree is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Macy's. To learn more about international customer privacy, please see the International Customer Privacy section of this notice.  
 
 Back to Top
 
