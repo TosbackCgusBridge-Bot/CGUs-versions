@@ -85,252 +85,262 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Elections 2016 Christie gains in N.H. and Trump notices
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ World General warns against pulling U.S. troops out of Afghanistan
 
 TOP STORIES
 
-*   Nation 'Affluenza' Teen apprehended in Mexico, CNN reports
-*   Music Motörhead's Lemmy Kilmister dies at 70
-*   Christine Brennan Brennan: Should we believe in Peyton Manning?
-*   Weather snarls flights for second day in a row
-*   Obamacare no cure for working poor
-*   No charges in Tamir Rice killing
-*   These year-end mistakes could cost you big time
-*   CNN anchor Poppy Harlow passes out on air
-*   Police: Killer shot woman for not believing in God
-*   Lawsuit says 'Big Bang' stole 'Soft Kitty' song
-*   How 'Star Wars' could score big on Oscar night
-*   Good news! Monster asteroids will miss Earth
+*   Weather Missouri governor warns of 'historic' floods. at least 13 dead
+*   Philadelphia Eagles Chip Kelly's power grab cost him job with Eagles
+*   TV 'Glee' star Mark Salling arrested on child-porn charge
+*   Plane lands on Sea-Tac taxiway instead of runway
+*   George Pataki to drop presidential bid
+*   4.3-magnitude quake near San Bernardino
+*   Postal workers split $1 million lottery prize
+*   Brennan: Tiger turns 40, but it looks like 70
+*   Sheriff: Mom plotted 'affluenza' teen's escape
+*   Amanda Blackburn killing part of 8-day spree
+*   Florida manatees could lose ‘endangered’ status
+*   'Star Wars' blasts away another box office record
 
-Weather
+Tech
 
-Extreme weather continues to slam Midwest, South
+10 most essential, can't live without apps
 
-People
+Music
 
-Reports: Ryan Phillippe is engaged
+Who is Miranda Lambert's new beau?
 
-OnPolitics
+NCAAF
 
-Obama most admired man. Trump tied for 2nd
+New expense for college football programs: Looking good
+
+Nation Now
+
+Story of dying dog with 'bucket list' touched the world
+
+2015 YEAR IN REVIEW OnPolitics
+
+GOP Power Rankings: Year ends with Trump No. 1
 
 Nation
 
-Chicago mayor cuts Cuba trip short after shooting
-
-2015 YEAR IN REVIEW Movies
-
-Brian Truitt's 10 best movies of 2015
-
-Markets
-
-Ouch! 5 CEOs lost $20B this year
+When the photo became the story in 2015
 
 Cars
 
-These wild concept cars turned heads in 2015
+Rivalries: What cars won buyers over in 2015?
 
 News
 
 Full coverage: Looking back at 2015
 
-20-hour high speed boat chase nearly ends in crash
+Why we won't be hit by asteroids this month
 
-Lt. Christopher Nyce, of the Lee County Sheriff's Office Marine Unit, and Sheriff Mike Scott give details about capturing the three suspects in a recent high-speed boat theft. Video by Kinfay Moroti/news-press.com
+Tabloids are reporting two monster asteroids will 'skim by' Earth on Dec. 29 and Jan. 22, but their definition of 'close' may be a bit loose.
 
-1 of 22 See more video
+1 of 23 See more video
+
+Teen shocked everyone with her Make-A-Wish request
+
+Sheradia Linton didn't want a trip to Walt Disney World, nor did she want to meet her favorite celebrity when Make-A-Wish officials approached her. What she asked for surprised everyone.
+
+2 of 23 See more video
+
+Fire volunteer pulls man from burning car
+
+Volunteer fire chief Nate Tracey jumped into action and rescued a man from his burning vehicle.
+
+3 of 23 See more video
+
+You can't see the ground in parts of this town
+
+Heavy rains swelled a river in the town of Union, Missouri Tuesday, covering roadways and flooding homes and businesses along a nearby river. (Dec. 29)
+
+4 of 23 See more video
+
+'Affluenza' teen had going away party before fleeing to Mexico
+
+Officials in Tarrant County, Texas said that "affluenza" fugitive Ethan Couch and his mother Tonya had a going away party before fleeing to Mexico.
+
+5 of 23 See more video
+
+The Instagram user with more than one billion likes in 2015
+
+Kylie Jenner did not have the most liked photo on Instagram this year, but she did have the most cumulative likes with over a billion for the year. Keri Lumm (@thekerilumm) reports.
+
+6 of 23 See more video
+
+Helicopters capture devastating scenes of flooding
+
+Missouri, Gov. Jay Nixon activated the state National Guard on Tuesday as flooding has led to the deaths of 13 people in the state so far.
+
+7 of 23 See more video
+
+Drone gets too close to Obama motorcade
+
+A drone was spotted flying near President Obama's motorcade in Hawaii on Monday. The drone operator told law enforcement he didn't know Obama was in the area and immediately complied. No charges were filed.
+
+8 of 23 See more video
+
+Fallen Guardsman, NYPD detective Joseph Lemm honored
+
+Air Force Tech Sgt. Joseph Lemm, a member of the NYPD and a resident of West Harrison, body was returned home at Stewart Air National Guard Base.
+
+9 of 23 See more video
+
+500-pound elephant seal tries to cross the road
+
+California Highway Patrol had to stop a 500 pound elephant seal from crossing the road. Keri Lumm (@thekerilumm) reports.
+
+10 of 23 See more video
+
+Nuns devote Sundays to God...and the Arizona Cardinals
+
+In Arizona, you can find seven sisters with die-hard faith. Not just for God, but also for the Arizona Cardinals football team.
+
+11 of 23 See more video
+
+Target wants your unwanted gift cards
+
+The retailer will buy gift cards from other stores in exchange for store credit.
+
+12 of 23 See more video
+
+Police: Woman kept dead body on sofa as shrine
+
+Police say 39-year-old Anitra Lashone Braxton told them she shot the unidentified woman in the eye for not believing in God. Braxton's family says she is mentally ill.
+
+13 of 23 See more video
+
+Former inmate returns to prison after computer glitch
+
+A former inmate turns himself back in after being mistakenly released from a Washington state prison. A glitch in the Department of Corrections system caused about 3,200 prisoners to be released before their sentences were completed.
+
+14 of 23 See more video
 
 It's a trap! How to spot and avoid fake travel reviews
 
 Many travelers rely heavily on online reviews to make decisions. But what happens when some of those reviews turn out to be bogus?
 
-2 of 22 See more video
+15 of 23 See more video
+
+20-hour high speed boat chase nearly ends in crash
+
+Lt. Christopher Nyce, of the Lee County Sheriff's Office Marine Unit, and Sheriff Mike Scott give details about capturing the three suspects in a recent high-speed boat theft. Video by Kinfay Moroti/news-press.com
+
+16 of 23 See more video
 
 This micro apartment will make your home look like a palace
 
 The apartments in a new Manhattan building boast little balconies, tall ceilings, dishwashers and storage space. All in 360 square feet or less. It marks the city's first experiment in decades with building super-small dwellings. (Dec. 28)
 
-3 of 22 See more video
+17 of 23 See more video
 
 Kitten stuck in drain for 2 hours, rescued with pipe and rope
 
 A crew of emergency responders in Illinois spent hours rescuing a kitten stuck in a pipe drain. Police and fire officials saved the kitty who is now in safe hands with Animal Control. Keleigh Nealon (@keleighnealon) has the story!
 
-4 of 22 See more video
+18 of 23 See more video
+
+Unusually warm winter is tricking these butterflies
+
+The warm weather has inspired these black swallowtail butterfly larvae to make their journey into adulthood.
+
+19 of 23 See more video
 
 Owl attacks police officer then won't leave
 
 A police officer in Louisiana had an interesting encounter with an owl who flew into his patrol car. Gillian Pensavalle (@GillianWithaG) has the video.
 
-5 of 22 See more video
+20 of 23 See more video
 
 Couple spends $100K to clone puppies
 
 A British couple spends $100,000 to clone their puppy after he passes. The pair ends up with a big surprise! Keleigh Nealon (@keleighnealon) has the story!
 
-6 of 22 See more video
-
-Angry man leaves chickens in tax office lobby
-
-A man in Oregon left seven chickens in the lobby of the Department of Revenue after allegedly getting frustrated with its services. Gillian Pensavalle (@GillianWithaG) explains.
-
-7 of 22 See more video
-
-How to start 2016 off on the right financial foot
-
-Savings expert Matt Granite shows you how to start the new year with your money where it should be - in your wallet.
-
-8 of 22 See more video
-
-San Francisco irate over rampant Justin Bieber graffiti
-
-Following weeks of complaints regarding graffiti dotting the sidewalks of San Francisco, City Attorney Dennis Herrera wrote an open letter to Justin Bieber's record label on Monday.
-
-9 of 22 See more video
-
-These photos define the year's biggest stories
-
-From the tragic death of a migrant child to the shocking knock out of Ronda Rousey, photos made the news in 2015. Take a look back at some of the images we won't forget from this past year.
-
-10 of 22 See more video
-
-The apps that made you say 'Wow!' this year
-
-USA TODAY's Jefferson Graham takes a look at the top apps that made smartphone users say 'Wow!' in 2015.
-
-11 of 22 See more video
-
-These are the must-have apps for your smartphone, tablet
-
-Get a new smartphone or tablet this holiday? Download some of these apps right away.
-
-12 of 22 See more video
-
-Apple names the most innovative app of the year - Workflow
-
-Workflow, an app that connects you to some of your most-used tasks, is Apple's pick for most innovative app of the year. Jefferson Graham reports.
-
-13 of 22 See more video
-
-Photo apps to help you shoot like a pro
-
-Jefferson Graham runs down 5 Photo apps to help you shoot like a pro on #TalkingTech.
-
-14 of 22 See more video
-
-19 cars, SUVs you will no longer be able to buy
-
-As 2015 winds down, it's time to bid adieu to cars and trucks that went out of production in 2015 and others that we know will reach the end of the line in 2016. You're not likely to miss many of them.
-
-15 of 22 See more video
+21 of 23 See more video
 
 See how an accidental email helped save this man's life
 
 A Mattress Firm employee in Georgia accidentally sent a company email to the wrong person. That email then sparked a chain of events that helped the recipient's fiancé find the treatment he needed for his pancreatic cancer.
 
-16 of 22 See more video
+22 of 23 See more video
 
-Taco shop creates viral video, cracks on burglars
+Netflix will trick kids into going to bed earlier on NYE
 
-Frijoles and Frescas in Las Vegas caught a recent burglary on surveillance video. Instead of just filing a police report, they created this awesome video in hopes to help catch the suspects.
+The struggle to get kids to bed is real and Netflix hears you. The streaming service created special programming to trick kids into going to bed early and let parents ring in the New Year in peace! Keleigh Nealon (@keleighnealon) has the story.
 
-17 of 22 See more video
+23 of 23 See more video Last VideoNext Video news
 
-Distracted man dies after falling off cliff
+Top U.S. general may seek more troops for Afghanistan
 
-A 33-year-old Indiana man was walking along California's Sunset Cliffs on Christmas Day when he fell 60 feet to his death. Video provided by Newsy
+Former New York Gov. George Pataki drops presidential bid
 
-18 of 22 See more video
+2 hours, 8 minutes | Elections
 
-Strangers help dog get home after wandering 1,100 miles
+Sheriff: Mom plotted 'affluenza' teen's escapeToday in History for December 30thGoodguys founder Gary Meadors, 76, dies sports
 
-A network of people are working together to deliver a stray dog to his owner 1,100 miles away. The dog was found in South Carolina after wandering away from his elderly owner in Texas.
+Three Clemson players suspended for failed drug tests
 
-19 of 22 See more video
+Bell: Kelly's up-tempo downfall
 
-Best and worst cities for single people in 2015
+2 hours, 46 minutes | Philadelphia Eagles
 
-Wallet Hub ranked 150 American cities based on how affordable and easy it is to date there. Mara Montalbano (@maramontalbano) tells us where singles should consider moving if they want to find love.
+Chip Kelly fired by EaglesWhat's next for Kelly?Jerry Jones stumped by Brandon Weeden's success life
 
-20 of 22 See more video
+Robert Bianco's 10 best of TV in 2015
 
-Turns out comets are more dangerous than we thought
+Cross WordsAll GamesEntertain This! Miranda Lambert ''Gets butterflies'' when she's with Anderson East'Star Wars' propels North American box office past record $11 billionCritic's Corner: 'Mozart in the Jungle' airs on Amazon money
 
-A new study is finding that Comets present much more a danger than we previously thought. Patrick Jones (@Patrick\_E\_Jones) has the details.
+How the car, SUV sales rivalries stacked up in 2015
 
-21 of 22 See more video
+StocksPortfolio TrackerAmerica's Markets The inescapable truth about Yahoo: columnDuPont to cut 1,700 jobs in DelawareHome prices in 40% of areas are back to peak tech
 
-The world's 8 scariest airport runways
+The inescapable truth about Yahoo: column
 
-Would you fly into these airports?
+CES to search bags, ban luggage this year
 
-22 of 22 See more video Last VideoNext Video news
+6 hours, 55 minutes | News
 
-Grand jury: No charges in Tamir Rice killing
+10 most essential, can't live without apps Sidecar ride service to shutter Dec. 31Twitter diversity pick stirs controversy travel
 
-Most of those without Medicaid are the working poor
+New Year's Eve: Ring in 2016 with 16 unusual drops
 
-6 hours, 48 minutes | Nation
+Made in Ohio: 40 flavors only found in Columbus
 
-Extreme weather continues to slam Midwest, South as fatalities riseToday in History for December 29thIraq retakes central Ramadi from Islamic State sports
+1 day, 7 hours | Food &. Wine
 
-Broncos outlast Bengals in OT to lock up playoff berth
+Five myths about bed and breakfastsStar-studded Caribbean: Celebrities' favorite beachesBest of 2015: 50 state secrets to visit around the USA Reviewed.com
 
-Brennan: Should we believe in Peyton Manning?
+Are lint rollers ruining your clothes?
 
-5 hours, 24 minutes | Christine Brennan
+Samsung builds smart home tech into 2016 TVs
 
-NFL playoff picture: Broncos punch ticket with winDabo Swinney's rise from 'walk-on' coach to No. 1Browns coach not judging Manziel over latest video life
+8 hours, 49 minutes | Tech
 
-Brian Truitt's 10 best movies of 2015
+Nestlé to switch to cage-free eggs by 2020How to save your Christmas tree from certain doom6 great excuses to play with fire in the kitchen experience
 
-Cross WordsAll GamesEntertain This! 'Big Bang Theory' sued over 'Soft Kitty' songSan Francisco irate over rampant Justin Bieber graffitiMotörhead's Lemmy Kilmister dies at 70 money
+Full steam ahead: Ships we can't wait to see in 2016
 
-Icahn raises Pep Boys takeover bid, topping Bridgestone
+Wisconsin's best takes on cheese
 
-StocksPortfolio TrackerAmerica's Markets Small biz trends: 'Social' upheaval? MaybeThese year-end mistakes could cost you big timeMeet the map maker for self-driving cars tech
+1 day, 16 hours | Food &. Wine
 
-Meet the map maker for self-driving cars
+Literary Caribbean: Explore the places behind the novelsWhere to experience the world's largest iconic restaurantsPlan your city escape with USA TODAY Travel's destination guides VOICES Columnist
 
-Future of messaging apps spells end to 'Google as we know…
-
-9 hours, 3 minutes | News
-
-Tech Fails: The year in consumer gadget calamitiesTablets have banner 2015, thanks to lesser known labelsAmazon: Prime members in 'tens of millions' travel
-
-Best of 2015: 50 state secrets to visit around the USA
-
-The ultimate cruise adventure? New river ship explores…
-
-16 hours, 30 minutes | Cruises
-
-Wisconsin's best takes on cheeseFake online reviews trip travelersAtlanta is world's first airport to hit 100 million passengers in year Reviewed.com
-
-LG's Sidekick is a washer under your washer
-
-You can finally buy a foot-powered washer
-
-12 hours, 6 minutes | Tech
-
-9 Christmas movies for people who hate Christmas moviesHow to save your Christmas tree from certain doom8 genius uses for your ice cube tray experience
-
-Sexiest swim-up bars in the Caribbean
-
-Five DIY drinks for snow days
-
-1 week | Food &. Wine
-
-Vanishing act: Cruise ship features that have gone awayWhere to experience the world's largest iconic restaurantsPlan your city escape with USA TODAY Travel's destination guides VOICES Opinion
-
-Congress loses interest in the deficit: Our view
-
-Voices
-
-Voices: My fairy-tale romance with my Benz comes to 'The End'
+The inescapable truth about Yahoo: column
 
 Opinion
 
-Fighting Christmas debt: Column
+Common Ground: It’s time to say goodbye
+
+Opinion
+
+College (Wretched Excess) Bowl: Our view
+
+Voices
+
+Voices: Japan holidays echo U.S. traditions – with a twist
 
 Wolff
 
@@ -340,10 +350,6 @@ Opinion
 
 Some stores opt out of open-carry gun laws: #tellusatoday
 
-Golf
-
-Tiger Woods at 40: Down and in pain, but not yet ready to call it a career
-
 Sports
 
 Action, emotion: The 26 best sports photos of 2015
@@ -352,34 +358,34 @@ Nation Now
 
 Quiz: Were you paying attention to the Internet this year?
 
+*   Highlights from college football bowl games
+*   Motorhead's Lemmy Kilmister through the years
 *   Amazing yachts you can buy from $1M to $22M
 *   Severe weather hits South and Midwest
 *   Chicago police shooting vigil
-*   Best of NFL Week 16
-*   Cruise ship tours: Avalon Waterways' new Avalon Myanmar
 
 Most Popular
 
-*   Pregnant CNN anchor Poppy Harlow passes out on air in middle of report
+*   Eagles fire Chip Kelly after nearly three seasons
     
-*   Most of those without Medicaid are the working poor
+*   Flooding intensifies as massive storm rolls across U.S.
     
-*   Brennan: Should we believe in Peyton Manning?
+*   Brennan: Tiger Woods turns 40, but it sure looks like 70
     
-*   Lawsuit claims 'Big Bang' stole 'Soft Kitty' song
+*   'Glee' star Mark Salling arrested on child-porn charge
     
 
 Trending on Social
 
-*   Police: Woman shot victim, kept body for 3 days as shrine
+*   'Glee' star Mark Salling arrested on child-porn charge
     
-*   'Affluenza' teen apprehended in Mexico, CNN reports
+*   Postal workers split $1 million lottery prize
     
-*   Christie gains in N.H. and Trump notices
+*   Eagles fire Chip Kelly after nearly three seasons
     
-*   How 'Star Wars' could score big on Oscar night
+*   5 tax scams to watch out for in 2016
     
-*   Motörhead's Lemmy Kilmister dies at 70
+*   Amanda Blackburn killing part of eight-day crime spree
     
 
 SPONSOR CONTENT Right Now
