@@ -94,9 +94,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-Play with @BobDylan stems from classic recordings off #CuttingEdge out now! thecuttingedge.bobdylan.com
+Your free PS Plus games for January, 2016: blog.us.playstation.com Hardware: Rivals, Grim Fandango lead the lineup.
 
-2015-12-29 03:02:18+00:00
+2015-12-31 04:33:03+00:00
 
 View Tweet
 
@@ -280,9 +280,9 @@ Get Started
 
 Sony on Twitter
 
-Manage and transfer your PS4 saved data via USB! Instructions can be found here: playstation.com
+Color and Personality. What your new headphones say about you. www.sony.com
 
-2015-12-28 10:45:03+00:00
+2015-12-30 17:30:07+00:00
 
 View Tweet
 
