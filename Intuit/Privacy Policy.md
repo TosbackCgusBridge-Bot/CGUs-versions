@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14363897154
+true true L14370760859
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p28.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Tue Dec 29 11:15:21 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Wed Dec 30 11:15:31 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,29 +48,31 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Save Big At Our After-Christmas Sale and Clearance Our Biggest After Christmas Sale and Clearance
+Extra 25% Off\* with your JCPenney Credit Card Extra 20% Off\* with any other method of payment Online Only | $100 or More | Ends January 3 | Code: BIGSAVNG Or, Extra 20% Off\* with your JCPenney Credit Card Or, Extra 15% Off\* with any other method of payment In Store and Online | Ends January 3 | Code: BIGSAVNG
+
+\*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
+
+Print Coupon \*Exclusions and details Big Bonus Sale! In Store and Online Big Bonus Sale
 
 In Store and Online
 
-Shop Sale Shop Clearance View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Refresh Your Space With Savings On Home Stock Up White Sale | Ends January 3
-
-40 to 50% Off Home Collections, select styles
-
-Shop Home Collections Shop Bedding and Bath Save On Nike For The Family Nike Sale | 25% Off Nike For The Family
+Shop Sale View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Save On Nike For The Family Nike Sale | 25% Off Nike For The Family
 
 Select styles, excluded from coupon.
 
-Shop Nike For The Family Shop Men Shop Women Shop Boys Shop Shoes         Save On Arizona Jeans For The Family Buy 1, Get 1\* Free Arizona Jeans
+Shop Nike For The Family Shop Men Shop Women Shop Boys Shop Shoes         Refresh Your Space With Savings On Home Stock Up White Sale | Ends January 3
 
-Select styles.
+40 to 50% Off Home Collections, select styles
 
-\*Buy one item at regular price, get the second item of equal or lesser value for free
+Shop Home Collections Shop Bedding and Bath Stock Up On Bras! Stock Up Sale Now Through January 10
 
-Shop Guys Shop Juniors     Star Wars On Sale! 40 to 50% Off Star Wars Apparel
+12.99 to 21.99 Bras, select styles
 
-Select styles.
+Shop Bras New Markdowns! 60 to 80% Off Clearance
 
-Shop Star Wars Apparel Now Got a Gift Card?
+In Store and Online
+
+Shop Clearance Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Home Shop Handbags and Accessories Shop Jewelry Got a Gift Card?
 
 Redeem In Store or Online!
 
