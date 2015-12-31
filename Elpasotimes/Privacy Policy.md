@@ -41,7 +41,6 @@ SUBSCRIBE NOWto get home delivery
 *   Photo Galleries
 *   Portfolio Tracker
 *   Scores
-*   Web to Watch
 *   Your Take
 *   Newsstand
 *   Audio
@@ -69,7 +68,6 @@ SUBSCRIBE NOWto get home delivery
     *   Photo Galleries
     *   Portfolio Tracker
     *   Scores
-    *   Web to Watch
     *   Your Take
     *   Newsstand
     *   Audio
@@ -85,250 +83,254 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ World General warns against pulling U.S. troops out of Afghanistan
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Elections TV, the old king of U.S. politics, faces mortality Read StoryJeb cancels Iowa TV ads
 
 TOP STORIES
 
-*   Weather Missouri governor warns of 'historic' floods. at least 13 dead
-*   Philadelphia Eagles Chip Kelly's power grab cost him job with Eagles
-*   TV 'Glee' star Mark Salling arrested on child-porn charge
-*   Plane lands on Sea-Tac taxiway instead of runway
-*   George Pataki to drop presidential bid
-*   4.3-magnitude quake near San Bernardino
-*   Postal workers split $1 million lottery prize
-*   Brennan: Tiger turns 40, but it looks like 70
-*   Sheriff: Mom plotted 'affluenza' teen's escape
-*   Amanda Blackburn killing part of 8-day spree
-*   Florida manatees could lose ‘endangered’ status
-*   'Star Wars' blasts away another box office record
+*   People Cosby free on $1 million bond for sexual assault charge
+*   Nation Now 'Affluenza' teen's mom deported. he remains in Mexico
+*   News Security officials around the world on New Year's Eve alert
+*   Man accused of setting Texas mosque fire
+*   Officer who killed unarmed parole violator not indicted
+*   4 accounts of encounter that led to Cosby charge
+*   Friend of San Bernardino shooter indicted
+*   Consumer Reports' 10 most loved, hated cars
+*   Report: Microsoft didn't warn users China had hacked accounts
+*   'Seinfeld' to sidelines: One MSU coach's journey
+*   Tamir Rice protesters take to streets in Cleveland
+*   Trump ends 2015 by bashing rivals
 
 Tech
 
-10 most essential, can't live without apps
-
-Music
-
-Who is Miranda Lambert's new beau?
-
-NCAAF
-
-New expense for college football programs: Looking good
+What I want from smartphones in 2016
 
 Nation Now
 
-Story of dying dog with 'bucket list' touched the world
+Watch: Kid tries bacon for first time, completely loses it
 
-2015 YEAR IN REVIEW OnPolitics
+Tech
 
-GOP Power Rankings: Year ends with Trump No. 1
+AT&T to stop offering two-year contracts
+
+Cruises
+
+Another giant new ship on the way for Princess Cruises
+
+2015 YEAR IN REVIEW Opinion
+
+Resolutions we’d like to see: Our view
 
 Nation
 
 When the photo became the story in 2015
 
-Cars
+Humankind
 
-Rivalries: What cars won buyers over in 2015?
+Most heartwarming stories of 2015: Where are they now?
 
 News
 
 Full coverage: Looking back at 2015
 
-Why we won't be hit by asteroids this month
+Cartoonist sums up 2015 in less than 60 seconds
 
-Tabloids are reporting two monster asteroids will 'skim by' Earth on Dec. 29 and Jan. 22, but their definition of 'close' may be a bit loose.
+The Indy Star's cartoonist Gary Varvel illustrates the many struggles we had in 2015 and hopes for a better year in 2016 with his year-end cartoon.
 
 1 of 23 See more video
+
+Three Times Square hotels to view the ball drop on New Years Eve
+
+Seeing the ball drop in Times Square on New Years Eve is a bucket list item for many people. But if braving the cold and masses of people doesn't sound appealing, here are three Times Square hotels who offer viewing options on December 31st.
+
+2 of 23 See more video
+
+Aerials show extensive flooding in Missouri
+
+Missouri Gov. Jay Nixon said his state is in a "massive flood fight" Wednesday as rising waters from the Mississippi threaten the state.
+
+3 of 23 See more video
+
+Chicago to arm police officers with Tasers
+
+Chicago mayor announced a police policy overhaul that stresses "mitigation and de-escalation techniques" over lethal force.
+
+4 of 23 See more video
+
+Final Farewell for Joseph Lemm at burial ceremony
+
+The gravesite ceremony for Joseph Lemm at Gate of Heaven cemetery in Hawthorne following the funeral mass at Saint Patrick's Cathedral Dec. 30, 2015.
+
+5 of 23 See more video
+
+'We can't fight it,' Flooding continues in Missouri
+
+Missouri Governor Jay Nixon delcared a state of emergency due to the "historic levels" of flooding in the state.
+
+6 of 23 See more video
+
+Three Times Square hotels to view the ball drop on New Years Eve
+
+Seeing the ball drop in Times Square on New Years Eve is a bucket list item for many people. But if braving the cold and masses of people doesn't sound appealing, here are three Times Square hotels who offer viewing options on December 31st.
+
+7 of 23 See more video
+
+Fake countdown tricks kids into going to bed early New Year's Eve
+
+The struggle to get kids to bed is real and Netflix hears you. The streaming service created special programming to trick kids into going to bed early and let parents ring in the New Year in peace! Keleigh Nealon (@keleighnealon) has the story.
+
+8 of 23 See more video
+
+Raw: Bill Cosby Arrives for Arraignment
+
+Actor Bill Cosby arrived at a magistrate's office Wednesday to be arraigned on charges of indecent assault following accusations of an incident at his home 12 years ago. (Dec. 30)
+
+9 of 23 See more video
+
+Husband surprises wife with DIY white Christmas
+
+One man gave his wife the ultimate Christmas present on a warm day: a makeshift winter wonderland! Rob Smith (@robsmithonline) has the details on the best gift ever!
+
+10 of 23 See more video
+
+Rare giant squid caught on camera
+
+A giant squid made a surprise appearance in Toyama Bay, central Japan, last week. Giant squids normally inhabit the deep sea rather than coastal areas. (Dec. 30)
+
+11 of 23 See more video
+
+'Dog Pants' is the hottest Internet debate since 'The Dress'
+
+A question about how a dog would wear pants -- on 2 or 4 legs -- is hilariously dividing the Internet. Mara Montalbano (@maramontalbano) shows us.
+
+12 of 23 See more video
+
+Man steals woman's purse at church
+
+Police released a video that shows a man stealing an 84-year-old woman's purse in a North Lauderdale, Florida church. The purse was recovered two days later, but its wallet and money were still missing.
+
+13 of 23 See more video
+
+The 5 least friendly cities in the U.S.
+
+New York, Boston, and Detroit top the list of Travel and Leisure's most unfriendly cities in the country. Native New Yorker Gillian Pensavalle (@GillianWithaG) has a problem with that.
+
+14 of 23 See more video
 
 Teen shocked everyone with her Make-A-Wish request
 
 Sheradia Linton didn't want a trip to Walt Disney World, nor did she want to meet her favorite celebrity when Make-A-Wish officials approached her. What she asked for surprised everyone.
 
-2 of 23 See more video
+15 of 23 See more video
 
 Fire volunteer pulls man from burning car
 
 Volunteer fire chief Nate Tracey jumped into action and rescued a man from his burning vehicle.
 
-3 of 23 See more video
-
-You can't see the ground in parts of this town
-
-Heavy rains swelled a river in the town of Union, Missouri Tuesday, covering roadways and flooding homes and businesses along a nearby river. (Dec. 29)
-
-4 of 23 See more video
+16 of 23 See more video
 
 'Affluenza' teen had going away party before fleeing to Mexico
 
 Officials in Tarrant County, Texas said that "affluenza" fugitive Ethan Couch and his mother Tonya had a going away party before fleeing to Mexico.
 
-5 of 23 See more video
+17 of 23 See more video
 
 The Instagram user with more than one billion likes in 2015
 
 Kylie Jenner did not have the most liked photo on Instagram this year, but she did have the most cumulative likes with over a billion for the year. Keri Lumm (@thekerilumm) reports.
 
-6 of 23 See more video
+18 of 23 See more video
 
 Helicopters capture devastating scenes of flooding
 
 Missouri, Gov. Jay Nixon activated the state National Guard on Tuesday as flooding has led to the deaths of 13 people in the state so far.
 
-7 of 23 See more video
+19 of 23 See more video
+
+Dogs get anxious just like you
+
+Dogs can suffer from anxiety, and their triggers are similar to what makes humans anxious. Sloane Glass (@sloaneglass) has more.
+
+20 of 23 See more video
 
 Drone gets too close to Obama motorcade
 
 A drone was spotted flying near President Obama's motorcade in Hawaii on Monday. The drone operator told law enforcement he didn't know Obama was in the area and immediately complied. No charges were filed.
 
-8 of 23 See more video
-
-Fallen Guardsman, NYPD detective Joseph Lemm honored
-
-Air Force Tech Sgt. Joseph Lemm, a member of the NYPD and a resident of West Harrison, body was returned home at Stewart Air National Guard Base.
-
-9 of 23 See more video
+21 of 23 See more video
 
 500-pound elephant seal tries to cross the road
 
 California Highway Patrol had to stop a 500 pound elephant seal from crossing the road. Keri Lumm (@thekerilumm) reports.
 
-10 of 23 See more video
+22 of 23 See more video
 
-Nuns devote Sundays to God...and the Arizona Cardinals
+Nuns devote Sundays to God...and football
 
 In Arizona, you can find seven sisters with die-hard faith. Not just for God, but also for the Arizona Cardinals football team.
 
-11 of 23 See more video
-
-Target wants your unwanted gift cards
-
-The retailer will buy gift cards from other stores in exchange for store credit.
-
-12 of 23 See more video
-
-Police: Woman kept dead body on sofa as shrine
-
-Police say 39-year-old Anitra Lashone Braxton told them she shot the unidentified woman in the eye for not believing in God. Braxton's family says she is mentally ill.
-
-13 of 23 See more video
-
-Former inmate returns to prison after computer glitch
-
-A former inmate turns himself back in after being mistakenly released from a Washington state prison. A glitch in the Department of Corrections system caused about 3,200 prisoners to be released before their sentences were completed.
-
-14 of 23 See more video
-
-It's a trap! How to spot and avoid fake travel reviews
-
-Many travelers rely heavily on online reviews to make decisions. But what happens when some of those reviews turn out to be bogus?
-
-15 of 23 See more video
-
-20-hour high speed boat chase nearly ends in crash
-
-Lt. Christopher Nyce, of the Lee County Sheriff's Office Marine Unit, and Sheriff Mike Scott give details about capturing the three suspects in a recent high-speed boat theft. Video by Kinfay Moroti/news-press.com
-
-16 of 23 See more video
-
-This micro apartment will make your home look like a palace
-
-The apartments in a new Manhattan building boast little balconies, tall ceilings, dishwashers and storage space. All in 360 square feet or less. It marks the city's first experiment in decades with building super-small dwellings. (Dec. 28)
-
-17 of 23 See more video
-
-Kitten stuck in drain for 2 hours, rescued with pipe and rope
-
-A crew of emergency responders in Illinois spent hours rescuing a kitten stuck in a pipe drain. Police and fire officials saved the kitty who is now in safe hands with Animal Control. Keleigh Nealon (@keleighnealon) has the story!
-
-18 of 23 See more video
-
-Unusually warm winter is tricking these butterflies
-
-The warm weather has inspired these black swallowtail butterfly larvae to make their journey into adulthood.
-
-19 of 23 See more video
-
-Owl attacks police officer then won't leave
-
-A police officer in Louisiana had an interesting encounter with an owl who flew into his patrol car. Gillian Pensavalle (@GillianWithaG) has the video.
-
-20 of 23 See more video
-
-Couple spends $100K to clone puppies
-
-A British couple spends $100,000 to clone their puppy after he passes. The pair ends up with a big surprise! Keleigh Nealon (@keleighnealon) has the story!
-
-21 of 23 See more video
-
-See how an accidental email helped save this man's life
-
-A Mattress Firm employee in Georgia accidentally sent a company email to the wrong person. That email then sparked a chain of events that helped the recipient's fiancé find the treatment he needed for his pancreatic cancer.
-
-22 of 23 See more video
-
-Netflix will trick kids into going to bed earlier on NYE
-
-The struggle to get kids to bed is real and Netflix hears you. The streaming service created special programming to trick kids into going to bed early and let parents ring in the New Year in peace! Keleigh Nealon (@keleighnealon) has the story.
-
 23 of 23 See more video Last VideoNext Video news
 
-Top U.S. general may seek more troops for Afghanistan
+Bill Cosby arraigned on sexual assault charge in Pennsylvania
 
-Former New York Gov. George Pataki drops presidential bid
+Cities around the world on New Year's Eve alert
 
-2 hours, 8 minutes | Elections
+8 hours, 50 minutes | News
 
-Sheriff: Mom plotted 'affluenza' teen's escapeToday in History for December 30thGoodguys founder Gary Meadors, 76, dies sports
+'Affluenza' teen's mom deported, but he'll stay in MexicoFriend of San Bernardino shooter indicted on terror-related chargesToday in History for December 31st sports
 
-Three Clemson players suspended for failed drug tests
+Peyton Manning embraces 'next step' as a backup
 
-Bell: Kelly's up-tempo downfall
+Is Chip Kelly too stubborn for NFL?
 
-2 hours, 46 minutes | Philadelphia Eagles
+5 hours, 16 minutes | NFL
 
-Chip Kelly fired by EaglesWhat's next for Kelly?Jerry Jones stumped by Brandon Weeden's success life
+'Seinfeld' to sidelines: One MSU coach's journeyCFP previews: Orange BowlBell: Patriots among best, worst of NFL in 2015 life
 
-Robert Bianco's 10 best of TV in 2015
+Bill Cosby arraigned on sexual assault charge in Pennsylvania
 
-Cross WordsAll GamesEntertain This! Miranda Lambert ''Gets butterflies'' when she's with Anderson East'Star Wars' propels North American box office past record $11 billionCritic's Corner: 'Mozart in the Jungle' airs on Amazon money
+Cross WordsAll GamesEntertain This! Critic's Corner: Ring in 2016 with Ryan SeacrestJeremy Renner's divorce is finalBill Cosby will find silence is not his friend in court: Turley money
 
-How the car, SUV sales rivalries stacked up in 2015
+Reports: Apple to settle with Italy on $348 million tax dispute
 
-StocksPortfolio TrackerAmerica's Markets The inescapable truth about Yahoo: columnDuPont to cut 1,700 jobs in DelawareHome prices in 40% of areas are back to peak tech
+StocksPortfolio TrackerAmerica's Markets 2016 stock outlook: Up but not up, up and awayConsumer Reports lists Top 10 most loved, hated carsPuerto Rico tumbles deeper into default tech
 
-The inescapable truth about Yahoo: column
+What I want from smartphones in 2016
 
-CES to search bags, ban luggage this year
+Oculus to ship 'Lucky's Tale' game with Rift
 
-6 hours, 55 minutes | News
+7 hours, 51 minutes | News
 
-10 most essential, can't live without apps Sidecar ride service to shutter Dec. 31Twitter diversity pick stirs controversy travel
+AT&T to stop offering two-year contractsBroadband speeds three times faster than in 2011Uber hits 1 billion rides travel
 
-New Year's Eve: Ring in 2016 with 16 unusual drops
+Best of 2015: America's 50 most visited national parks
 
 Made in Ohio: 40 flavors only found in Columbus
 
-1 day, 7 hours | Food &. Wine
+2 days, 7 hours | Food &. Wine
 
-Five myths about bed and breakfastsStar-studded Caribbean: Celebrities' favorite beachesBest of 2015: 50 state secrets to visit around the USA Reviewed.com
+14 stunning places where you can sleep in a treehouseAnother giant new ship on the way for Princess CruisesWinners and losers in airline travel in 2015 Reviewed.com
 
-Are lint rollers ruining your clothes?
+4K TVs could add billions to our energy bills
 
-Samsung builds smart home tech into 2016 TVs
+Beyond Champagne: A guide to sparkling wine
 
-8 hours, 49 minutes | Tech
+7 hours, 33 minutes | Life
 
-Nestlé to switch to cage-free eggs by 2020How to save your Christmas tree from certain doom6 great excuses to play with fire in the kitchen experience
+Massive Maytag washer is a top-load powerhouseSamsung builds smart home tech into 2016 TVsWhy you shouldn't buy a cookware set experience
 
-Full steam ahead: Ships we can't wait to see in 2016
+New Year's Eve: Ring in 2016 with 16 unusual drops
 
-Wisconsin's best takes on cheese
+Star-studded Caribbean: Celebrities' favorite beaches
 
-1 day, 16 hours | Food &. Wine
+1 day, 17 hours | Caribbean
 
-Literary Caribbean: Explore the places behind the novelsWhere to experience the world's largest iconic restaurantsPlan your city escape with USA TODAY Travel's destination guides VOICES Columnist
+Full steam ahead: Ships we can't wait to see in 2016Wisconsin's best takes on cheesePlan your city escape with USA TODAY Travel's destination guides VOICES Opinion
 
-The inescapable truth about Yahoo: column
+Death toll from violent cops is a guessing game: Column
+
+Opinion
+
+Bill Cosby will find silence is not his friend in court: Turley
 
 Opinion
 
@@ -336,56 +338,52 @@ Common Ground: It’s time to say goodbye
 
 Opinion
 
-College (Wretched Excess) Bowl: Our view
+Glenn Reynolds: Playing the 'Bill card' against Hillary
 
 Voices
 
-Voices: Japan holidays echo U.S. traditions – with a twist
+Voices: There's no joy in being the bearer of bad news
 
-Wolff
+Sponsor Story
 
-Wolff: Why they call it storytelling at 'The New York Times'
+Feeding body and soul
 
 Opinion
 
-Some stores opt out of open-carry gun laws: #tellusatoday
-
-Sports
-
-Action, emotion: The 26 best sports photos of 2015
+Capturing 2015: Share your memories
 
 Nation Now
 
 Quiz: Were you paying attention to the Internet this year?
 
-*   Highlights from college football bowl games
-*   Motorhead's Lemmy Kilmister through the years
-*   Amazing yachts you can buy from $1M to $22M
+*   Passages 2015: Remembering those we've lost through the year
+*   The day in pictures
+*   Your Take: USA TODAY's top reader photo of the day
 *   Severe weather hits South and Midwest
-*   Chicago police shooting vigil
+*   Consumer Reports lists owners' most, least 'satisfying' cars
 
 Most Popular
 
-*   Eagles fire Chip Kelly after nearly three seasons
+*   'Affluenza' teen's mom deported, but he'll stay in Mexico
     
-*   Flooding intensifies as massive storm rolls across U.S.
+*   Bill Cosby arraigned on sexual assault charge in Pennsylvania
     
-*   Brennan: Tiger Woods turns 40, but it sure looks like 70
+*   Consumer Reports lists Top 10 most loved, hated cars
     
-*   'Glee' star Mark Salling arrested on child-porn charge
+*   AT&T to stop offering two-year contracts
     
 
 Trending on Social
 
-*   'Glee' star Mark Salling arrested on child-porn charge
+*   Watch: Kid tries bacon for first time, completely loses it
     
-*   Postal workers split $1 million lottery prize
+*   Tamir Rice protesters take to streets in Cleveland
     
-*   Eagles fire Chip Kelly after nearly three seasons
+*   'Affluenza' teen's mom deported, but he'll stay in Mexico
     
-*   5 tax scams to watch out for in 2016
+*   Marines in dress blues thwart suspected phone thieves
     
-*   Amanda Blackburn killing part of eight-day crime spree
+*   Judge rejects GM's move to nix ignition-switch trial
     
 
 SPONSOR CONTENT Right Now
@@ -432,7 +430,6 @@ Life
 *   Music
 *   TV
 *   Books
-*   Web to Watch
 
 Money
 
