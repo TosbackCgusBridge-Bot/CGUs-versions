@@ -12,6 +12,7 @@ Explore Games
 *   Aim &. Shoot
 *   Animal Games
 *   Avoiding
+*   Best of 2015
 *   Board &. Card
 *   Bubble Shooter
 *   Caring
@@ -20,7 +21,6 @@ Explore Games
 *   Concentration
 *   Cooking
 *   Dress Up
-*   Friv Games
 *   Girls
 *   Hidden Objects
 *   Highscore Games
