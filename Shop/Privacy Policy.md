@@ -38,19 +38,20 @@ LENOVO Menu
           
           
         Outlet sales: Call 1-877-698-4465, Option 1  
-        Monday-Friday 8am-11pm (EST)  
-        Saturday 9am-8pm (EST)  
-        Sunday 9am-6pm (EST)  
+        Mon-Wed 9am-9pm EST  
+        Thursday 9am-3pm EST  
+        New Year's Day - CLOSED  
+        Saturday 9am-6pm  
           
         
     *   Help with an existing order Check order status online - track by order number  
           
           
         Call 1-855-2-LENOVO (1-855-253-6686), Option 2  
-          
-        Monday-Friday 8am-11pm (EST)  
-        Saturday 9am-8pm (EST)  
-        Sunday 9am-6pm (EST)  
+        Mon-Wed 9am-9pm  
+        Thur 9am-3pm  
+        New Year's Day CLOSED  
+        Sat 9am-6pm  
         
     *   Technical Support
         1.  Lenovo Products Tablet, Laptop, Workstation, ThinkServer, Storage, and Smartphone support information
