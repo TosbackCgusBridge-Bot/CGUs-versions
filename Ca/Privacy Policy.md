@@ -31,7 +31,6 @@ Skip to Main Content Search this site:
     *   Emergencies Disasters, emergency alerts, emergency preparedness
     
     *   Environmental Safety Fire safety, natural hazards, organizations
-    *   Health &. Wellness Health care providers, health insurance, hospitals, mental health, nutrition
     *   Health Care Services, health plans, disabilities, seniors, veterans
     
     *   Laws &. Regulations (Health &. Safety) Health and safety code, regulations, laws
