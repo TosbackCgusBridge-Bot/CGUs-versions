@@ -263,4 +263,4 @@ Services
 *   •Copyright
 *   •Cookie policy
 
-**© The Financial Times Ltd 2015** FT and 'Financial Times' are trademarks of The Financial Times Ltd.
+**© The Financial Times Ltd 2016** FT and 'Financial Times' are trademarks of The Financial Times Ltd.
