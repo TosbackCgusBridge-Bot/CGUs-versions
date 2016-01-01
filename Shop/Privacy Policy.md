@@ -14,28 +14,25 @@ LENOVO Menu
         2.  Professional Laptop Deals
         3.  Desktop Deals
         4.  Tablet Deals
-        5.  Accessories Deals
-        6.  Stocking Stuffers
-        7.  Daily Deal
-        8.  Ready to Ship PCs
-        9.  Coupon Page
-        10.  Deals for Students and Educators
-    *   Year-end Clearance Event. Get Our Hottest Deals on Select Products.
+        5.  Ready to Ship PCs
+        6.  Coupon Page
+        7.  Deals for Students and Educators
+    *   New Year. New Savings. Make a resolution to save!
         
-        Hurry While Supplies Last.
+        Sale ends January 6.
         
     *   Lenovo Preferred Card The Best Offers with Instant and Affordable Financing.
         
-    *   The Daily Deal Get Special Savings on a Select Product Featured Everyday!
+    *   NEED IT QUICK? Prebuilt models of our most popular PCs ship to your door sooner!
         
 *   Support
     *   Help placing an order 24 hours a day, 7 days a week  
           
         Call 1-855-2-LENOVO (1-855-253-6686), Option 1  
-        Monday-Friday 8am-11pm (EST)  
-        Saturday 9am-8pm (EST)  
-        Sunday 9am-6pm (EST)  
-          
+        Mon-Wed 9am-9pm EST  
+        Thursday 9am-3pm EST  
+        New Year's Day - CLOSED  
+        Saturday 9am-6pm  
           
         Outlet sales: Call 1-877-698-4465, Option 1  
         Mon-Wed 9am-9pm EST  
