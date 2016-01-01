@@ -450,7 +450,7 @@ International Edition
 *   Set edition preference
 *   Confirm
 
-© 2015 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.
+© 2016 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.
 
 *   Terms of Use
 *   Privacy Policy
