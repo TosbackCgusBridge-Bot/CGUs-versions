@@ -44,12 +44,7 @@ Live Chat Unavailable
 
 Communicate with Us the Old-Fashioned Ways
 
-9am to 9pm EST, Every Day\*
-
-*   **\*Holiday Closings:**
-*   11/26: Thanksgiving
-*   12/25: Christmas Day
-*   1/1: New Years Day
+9am to 9pm EST, Every Day
 
 *   1-888-GEEKSTUFF
     
