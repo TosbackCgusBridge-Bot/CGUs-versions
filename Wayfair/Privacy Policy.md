@@ -231,7 +231,7 @@ Where a product listing on our Site references a higher price, typically denoted
 
 Wayfair Rewards Program
 
-The Wayfair Rewards Program (the "**Rewards Program**") is exclusively for users of the Sites who have registered for the Rewards Program in accordance with the directions set forth below and on the Sites. When you make a qualifying purchase at any of the Sites designated as participating sites by Wayfair from time to time (the "**Participating Sites**"), you will have the opportunity to earn Wayfair "**Rewards Dollars**" equal to three percent (3%) of the net amount paid for the qualifying purchase. Rewards Dollars may be applied to future purchases at the Participating Sites in accordance with these Terms of Use. Please click here for complete Rewards Program details, as may be in effect from time to time and which are incorporated herein by reference.
+The Wayfair Rewards Program (the "**Rewards Program**") is exclusively for users of the Sites who have registered for the Rewards Program in accordance with the directions set forth below and on the Sites. Rewards Dollars may be applied to future purchases at the Participating Sites in accordance with these Terms of Use. Please click here for complete Rewards Program details, as may be in effect from time to time and which are incorporated herein by reference.
 
 Links to Other Websites
 
