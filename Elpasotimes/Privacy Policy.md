@@ -41,7 +41,6 @@ SUBSCRIBE NOWto get home delivery
 *   Photo Galleries
 *   Portfolio Tracker
 *   Scores
-*   Your Take
 *   Newsstand
 *   Audio
 *   More
@@ -68,7 +67,6 @@ SUBSCRIBE NOWto get home delivery
     *   Photo Galleries
     *   Portfolio Tracker
     *   Scores
-    *   Your Take
     *   Newsstand
     *   Audio
 
@@ -83,307 +81,289 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Elections TV, the old king of U.S. politics, faces mortality Read StoryJeb cancels Iowa TV ads
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ News Nations welcome 2016 in age of uncertainty
 
 TOP STORIES
 
-*   People Cosby free on $1 million bond for sexual assault charge
-*   Nation Now 'Affluenza' teen's mom deported. he remains in Mexico
-*   News Security officials around the world on New Year's Eve alert
-*   Man accused of setting Texas mosque fire
-*   Officer who killed unarmed parole violator not indicted
-*   4 accounts of encounter that led to Cosby charge
-*   Friend of San Bernardino shooter indicted
-*   Consumer Reports' 10 most loved, hated cars
-*   Report: Microsoft didn't warn users China had hacked accounts
-*   'Seinfeld' to sidelines: One MSU coach's journey
-*   Tamir Rice protesters take to streets in Cleveland
-*   Trump ends 2015 by bashing rivals
+*   World German police warn of 'imminent' terror threat
+*   News Multi-story fire erupts at Dubai hotel
+*   People 'M.A.S.H.' star Wayne Rogers dies at 82
+*   Out of the loop today? We've got what you missed
+*   Why Peyton Manning likely won't sue Al Jazeera
+*   Armour: Clemson silences doubters in major way
+*   The most daring fashion moments of 2015
+*   Alabama routs MSU to reach playoff final
+*   Watch Mark Dantonio walk out on ESPN interview
+*   Chief Justice Roberts seeks faster, fairer courts
+*   State Dept. releases more Hillary Clinton emails
+*   Feds: N.Y. man tied to ISIL planned NYE bar attack
 
-Tech
+Movies
 
-What I want from smartphones in 2016
+George Lucas sorry for 'white slavers' remark
 
 Nation Now
 
-Watch: Kid tries bacon for first time, completely loses it
+Feds: Woman took $1.9M in purse over 15 years
 
-Tech
+Nation Now
 
-AT&T to stop offering two-year contracts
+Hotel let attacker into woman's room, lawsuit claims
 
-Cruises
+Nation Now
 
-Another giant new ship on the way for Princess Cruises
+Family horrified by gruesome death on cruise ship
 
-2015 YEAR IN REVIEW Opinion
+2015 YEAR IN REVIEW Your Take
 
-Resolutions we’d like to see: Our view
+#YourTake2015: Readers share their stories of 2015
 
-Nation
+OnPolitics
 
-When the photo became the story in 2015
+In 2015, you didn’t just read about Donald Trump
 
-Humankind
+Markets
 
-Most heartwarming stories of 2015: Where are they now?
+2016 stock outlook: Up, but not up and away
 
 News
 
 Full coverage: Looking back at 2015
 
+CES 2016 preview with Gary Shapiro
+
+Gary Shapiro, the CEO of the Consumer Technology Association previews the 2016 CES on #TalkingTech.
+
+1 of 20 See more video
+
+Midwest floods sweep entire homes down river
+
+Heavy rain has turned Missouri's Meramec River into a nightmare for thousands of people outside of St. Louis.
+
+2 of 20 See more video
+
+Woman uses kid as lookout during theft
+
+Police call the crime "brazen" and have surveillance video of the entire incident.
+
+3 of 20 See more video
+
+5 things to know about how the world parties on New Year's Eve
+
+5 fun facts about New Year's Eve celebrations from around the world.
+
+4 of 20 See more video
+
+See bobcat kitten orphan emerge from rehab cage
+
+An orphaned bobcat was released back into the wild three months after the loss of her mom, who was electrocuted while climbing a power pole.
+
+5 of 20 See more video
+
+President Obama likes salad...but only in emergencies
+
+Apparently, President Obama is a selective eater. But some things on his "no" list are a bit weird. Video provided by Newsy
+
+6 of 20 See more video
+
+Old Navy apologizes for controversial toddler shirts
+
+Old Navy's t-shirts read "young aspiring artist," except the word "artist" has been crossed out, with "astronaut" or "president" written beneath. Mara Montalbano (@maramontalbano) has more.
+
+7 of 20 See more video
+
+Obama drives around with Jerry Seinfeld
+
+President Obama was Seinfeld's guest on the comedian's streaming series "Comedians in Cars Getting Coffee."
+
+8 of 20 See more video
+
+'Dating Sunday' could be your time to find love
+
+Match.com has declared the Sunday after New Year's Day, 'Dating Sunday'. Mara Montalbano (@maramontalbano) has more.
+
+9 of 20 See more video
+
+Woman finds vulgar message on Domino's receipt
+
+A Michigan woman says she received a Domino's Pizza receipt with a vulgar note written on it. Video provided by Newsy
+
+10 of 20 See more video
+
+Cop saves man's life with hug
+
+NYPD Officer Campoverde was able to talk a man off a ledge by asking him the question "Can I give you a hug?". Keri Lumm (@thekerilumm) reports.
+
+11 of 20 See more video
+
+Trump spokeswoman wears bullet necklace
+
+The national spokeswoman for Donald Trump's presidential campaign made news when she wore a necklace made of bullets during an interview. Video provided by Newsy
+
+12 of 20 See more video
+
+How the top car, SUV sales rivalries stacked up in 2015
+
+Who's up and who's down, compared to their rivals. It's more than automakers who care about the sales stats. Some owners clubs and others take great pride in knowing their model came out on top. But 2015 was a topsy-turvy year. Buyers moved to SUVs
+
+13 of 20 See more video
+
 Cartoonist sums up 2015 in less than 60 seconds
 
 The Indy Star's cartoonist Gary Varvel illustrates the many struggles we had in 2015 and hopes for a better year in 2016 with his year-end cartoon.
 
-1 of 23 See more video
-
-Three Times Square hotels to view the ball drop on New Years Eve
-
-Seeing the ball drop in Times Square on New Years Eve is a bucket list item for many people. But if braving the cold and masses of people doesn't sound appealing, here are three Times Square hotels who offer viewing options on December 31st.
-
-2 of 23 See more video
+14 of 20 See more video
 
 Aerials show extensive flooding in Missouri
 
 Missouri Gov. Jay Nixon said his state is in a "massive flood fight" Wednesday as rising waters from the Mississippi threaten the state.
 
-3 of 23 See more video
-
-Chicago to arm police officers with Tasers
-
-Chicago mayor announced a police policy overhaul that stresses "mitigation and de-escalation techniques" over lethal force.
-
-4 of 23 See more video
-
-Final Farewell for Joseph Lemm at burial ceremony
-
-The gravesite ceremony for Joseph Lemm at Gate of Heaven cemetery in Hawthorne following the funeral mass at Saint Patrick's Cathedral Dec. 30, 2015.
-
-5 of 23 See more video
-
-'We can't fight it,' Flooding continues in Missouri
-
-Missouri Governor Jay Nixon delcared a state of emergency due to the "historic levels" of flooding in the state.
-
-6 of 23 See more video
-
-Three Times Square hotels to view the ball drop on New Years Eve
-
-Seeing the ball drop in Times Square on New Years Eve is a bucket list item for many people. But if braving the cold and masses of people doesn't sound appealing, here are three Times Square hotels who offer viewing options on December 31st.
-
-7 of 23 See more video
-
-Fake countdown tricks kids into going to bed early New Year's Eve
-
-The struggle to get kids to bed is real and Netflix hears you. The streaming service created special programming to trick kids into going to bed early and let parents ring in the New Year in peace! Keleigh Nealon (@keleighnealon) has the story.
-
-8 of 23 See more video
-
-Raw: Bill Cosby Arrives for Arraignment
-
-Actor Bill Cosby arrived at a magistrate's office Wednesday to be arraigned on charges of indecent assault following accusations of an incident at his home 12 years ago. (Dec. 30)
-
-9 of 23 See more video
-
-Husband surprises wife with DIY white Christmas
-
-One man gave his wife the ultimate Christmas present on a warm day: a makeshift winter wonderland! Rob Smith (@robsmithonline) has the details on the best gift ever!
-
-10 of 23 See more video
+15 of 20 See more video
 
 Rare giant squid caught on camera
 
 A giant squid made a surprise appearance in Toyama Bay, central Japan, last week. Giant squids normally inhabit the deep sea rather than coastal areas. (Dec. 30)
 
-11 of 23 See more video
-
-'Dog Pants' is the hottest Internet debate since 'The Dress'
-
-A question about how a dog would wear pants -- on 2 or 4 legs -- is hilariously dividing the Internet. Mara Montalbano (@maramontalbano) shows us.
-
-12 of 23 See more video
+16 of 20 See more video
 
 Man steals woman's purse at church
 
 Police released a video that shows a man stealing an 84-year-old woman's purse in a North Lauderdale, Florida church. The purse was recovered two days later, but its wallet and money were still missing.
 
-13 of 23 See more video
+17 of 20 See more video
 
 The 5 least friendly cities in the U.S.
 
 New York, Boston, and Detroit top the list of Travel and Leisure's most unfriendly cities in the country. Native New Yorker Gillian Pensavalle (@GillianWithaG) has a problem with that.
 
-14 of 23 See more video
+18 of 20 See more video
 
 Teen shocked everyone with her Make-A-Wish request
 
 Sheradia Linton didn't want a trip to Walt Disney World, nor did she want to meet her favorite celebrity when Make-A-Wish officials approached her. What she asked for surprised everyone.
 
-15 of 23 See more video
-
-Fire volunteer pulls man from burning car
-
-Volunteer fire chief Nate Tracey jumped into action and rescued a man from his burning vehicle.
-
-16 of 23 See more video
-
-'Affluenza' teen had going away party before fleeing to Mexico
-
-Officials in Tarrant County, Texas said that "affluenza" fugitive Ethan Couch and his mother Tonya had a going away party before fleeing to Mexico.
-
-17 of 23 See more video
-
-The Instagram user with more than one billion likes in 2015
-
-Kylie Jenner did not have the most liked photo on Instagram this year, but she did have the most cumulative likes with over a billion for the year. Keri Lumm (@thekerilumm) reports.
-
-18 of 23 See more video
-
-Helicopters capture devastating scenes of flooding
-
-Missouri, Gov. Jay Nixon activated the state National Guard on Tuesday as flooding has led to the deaths of 13 people in the state so far.
-
-19 of 23 See more video
+19 of 20 See more video
 
 Dogs get anxious just like you
 
 Dogs can suffer from anxiety, and their triggers are similar to what makes humans anxious. Sloane Glass (@sloaneglass) has more.
 
-20 of 23 See more video
+20 of 20 See more video Last VideoNext Video news
 
-Drone gets too close to Obama motorcade
+Your ultimate New Year's Eve survival guide
 
-A drone was spotted flying near President Obama's motorcade in Hawaii on Monday. The drone operator told law enforcement he didn't know Obama was in the area and immediately complied. No charges were filed.
+Ringing in 2016 around the world
 
-21 of 23 See more video
+3 hours, 32 minutes | News
 
-500-pound elephant seal tries to cross the road
+Reports: German police warn of terror attackMulti-story fire erupts at Dubai hotel Swollen Mississippi crests in Missouri, rolls south sports
 
-California Highway Patrol had to stop a 500 pound elephant seal from crossing the road. Keri Lumm (@thekerilumm) reports.
+Alabama cruises for title game date with Clemson
 
-22 of 23 See more video
+Armour: Clemson quiets doubters in big way
 
-Nuns devote Sundays to God...and football
+4 hours, 14 minutes | Nancy Armour
 
-In Arizona, you can find seven sisters with die-hard faith. Not just for God, but also for the Arizona Cardinals football team.
+Clemson looks every bit like No. 1 in Orange BowlTakeaways: Alabama dominant on both sides of ballWatch Mark Dantonio walk out on ESPN interview life
 
-23 of 23 See more video Last VideoNext Video news
+Look: The most daring fashion moments of 2015
 
-Bill Cosby arraigned on sexual assault charge in Pennsylvania
+Cross WordsAll GamesEntertain This! George Lucas apologizes for 'white slavers' remarkWayne Rogers, Trapper John on 'M.A.S.H.,' dies at 82'Sherlock' goes vintage with holiday special money
 
-Cities around the world on New Year's Eve alert
+Dow, S&P 500 fall in '15. Nasdaq up 5.7%
 
-8 hours, 50 minutes | News
+StocksPortfolio TrackerAmerica's Markets Gas should remain a bargain in 2016The best — and worst — stock sectors in 2015Report card: Dimon's 10 years as JPMorgan CEO tech
 
-'Affluenza' teen's mom deported, but he'll stay in MexicoFriend of San Bernardino shooter indicted on terror-related chargesToday in History for December 31st sports
+What to expect from Apple in 2016
 
-Peyton Manning embraces 'next step' as a backup
+WhatsApp trying to fix outage
 
-Is Chip Kelly too stubborn for NFL?
+9 hours, 41 minutes | News
 
-5 hours, 16 minutes | NFL
+Facebook trying to fix 46-year glitchOculus Touch controller delayedAT&T to stop offering two-year contracts travel
 
-'Seinfeld' to sidelines: One MSU coach's journeyCFP previews: Orange BowlBell: Patriots among best, worst of NFL in 2015 life
+Best of 2015: Idyllic and picturesque towns in each state
 
-Bill Cosby arraigned on sexual assault charge in Pennsylvania
+Explore New Year's foods from around the world
 
-Cross WordsAll GamesEntertain This! Critic's Corner: Ring in 2016 with Ryan SeacrestJeremy Renner's divorce is finalBill Cosby will find silence is not his friend in court: Turley money
+1 day, 16 hours | Food &. Wine
 
-Reports: Apple to settle with Italy on $348 million tax dispute
+Five historic places that were saved in 2015 — and five that were lostThe 14 places in America you have to visit in 201610 Best: Bloody Marys to start the New Year Reviewed.com
 
-StocksPortfolio TrackerAmerica's Markets 2016 stock outlook: Up but not up, up and awayConsumer Reports lists Top 10 most loved, hated carsPuerto Rico tumbles deeper into default tech
-
-What I want from smartphones in 2016
-
-Oculus to ship 'Lucky's Tale' game with Rift
-
-7 hours, 51 minutes | News
-
-AT&T to stop offering two-year contractsBroadband speeds three times faster than in 2011Uber hits 1 billion rides travel
-
-Best of 2015: America's 50 most visited national parks
-
-Made in Ohio: 40 flavors only found in Columbus
-
-2 days, 7 hours | Food &. Wine
-
-14 stunning places where you can sleep in a treehouseAnother giant new ship on the way for Princess CruisesWinners and losers in airline travel in 2015 Reviewed.com
-
-4K TVs could add billions to our energy bills
+Use the right Champagne glass this New Year's
 
 Beyond Champagne: A guide to sparkling wine
 
-7 hours, 33 minutes | Life
+1 day, 7 hours | Life
 
-Massive Maytag washer is a top-load powerhouseSamsung builds smart home tech into 2016 TVsWhy you shouldn't buy a cookware set experience
+4K TVs could add billions to our energy billsLG announces SmartThinQ smart home hubSamsung builds smart home tech into 2016 TVs experience
 
-New Year's Eve: Ring in 2016 with 16 unusual drops
+Best of 2015: 50 state secrets to visit around the USA
 
-Star-studded Caribbean: Celebrities' favorite beaches
+Made in Ohio: 40 flavors only found in Columbus
 
-1 day, 17 hours | Caribbean
+3 days, 7 hours | Food &. Wine
 
-Full steam ahead: Ships we can't wait to see in 2016Wisconsin's best takes on cheesePlan your city escape with USA TODAY Travel's destination guides VOICES Opinion
+New Year's Eve: Ring in 2016 with 16 unusual dropsStar-studded Caribbean: Celebrities' favorite beachesFull steam ahead: Ships we can't wait to see in 2016 VOICES Entertain This
 
-Death toll from violent cops is a guessing game: Column
-
-Opinion
-
-Bill Cosby will find silence is not his friend in court: Turley
+Watch: The year in TV, summed up in 3 minutes
 
 Opinion
 
-Common Ground: It’s time to say goodbye
+Punchlines: The best of 2015
+
+Life
+
+Use the right Champagne glass this New Year's
 
 Opinion
 
-Glenn Reynolds: Playing the 'Bill card' against Hillary
-
-Voices
-
-Voices: There's no joy in being the bearer of bad news
+Silence won't help Cosby in court: Column
 
 Sponsor Story
 
-Feeding body and soul
-
-Opinion
-
-Capturing 2015: Share your memories
+How an injured cat changed a woman's life
 
 Nation Now
 
 Quiz: Were you paying attention to the Internet this year?
 
+Criticscorner
+
+Holiday TV: 'Rockin' Eve,' 'Downton' specials
+
+Washington
+
+Sunday Standings: Tallying the top talk-show guests
+
+*   Ringing in 2016 around the world
+*   Highlights from the Cotton Bowl Playoff semifinal
 *   Passages 2015: Remembering those we've lost through the year
-*   The day in pictures
-*   Your Take: USA TODAY's top reader photo of the day
-*   Severe weather hits South and Midwest
 *   Consumer Reports lists owners' most, least 'satisfying' cars
+*   Your Take: USA TODAY's top reader photo of the day
 
 Most Popular
 
-*   'Affluenza' teen's mom deported, but he'll stay in Mexico
+*   Family horrified by gruesome death on cruise ship
     
-*   Bill Cosby arraigned on sexual assault charge in Pennsylvania
+*   Feds: Woman stuffed $1.9 million in purse over 15 years
     
-*   Consumer Reports lists Top 10 most loved, hated cars
+*   Wayne Rogers, Trapper John on 'M.A.S.H.,' dies at 82
     
-*   AT&T to stop offering two-year contracts
+*   Multi-story fire erupts at Dubai hotel
     
 
 Trending on Social
 
-*   Watch: Kid tries bacon for first time, completely loses it
+*   Alabama routs Michigan State to reach College Football Playoff final
     
-*   Tamir Rice protesters take to streets in Cleveland
+*   Wayne Rogers, Trapper John on 'M.A.S.H.,' dies at 82
     
-*   'Affluenza' teen's mom deported, but he'll stay in Mexico
+*   North Pole could be warmer than Southern California today
     
-*   Marines in dress blues thwart suspected phone thieves
+*   #YourTake2015: Readers share their stories of 2015
     
-*   Judge rejects GM's move to nix ignition-switch trial
+*   The reasons why Peyton Manning, others probably won't sue Al Jazeera over report
     
 
 SPONSOR CONTENT Right Now
@@ -467,7 +447,7 @@ Opinion
 
 WeatherElections 2016
 
-© 2015 USA TODAY, a division of Gannett Satellite Information Network, Inc.
+© 2016 USA TODAY, a division of Gannett Satellite Information Network, Inc.
 
 Information
 
