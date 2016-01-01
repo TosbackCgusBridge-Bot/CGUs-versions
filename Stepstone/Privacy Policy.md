@@ -131,4 +131,4 @@ This Privacy Statement replaces all other privacy statements previously applicab
 
   
 sitemap | Press | Contact | Join StepStone  
-Copyright © 1996−2015 StepStone GmbH. All rights reserved. | Join StepStone | Terms of use | Privacy statement | sitemap
+Copyright © 1996−2016 StepStone GmbH. All rights reserved. | Join StepStone | Terms of use | Privacy statement | sitemap
