@@ -197,5 +197,5 @@ E-mail: customerhelp@economist.com
 
 Last update—February 26th, 2015
 
-Copyright © The Economist Newspaper Limited 2015  
+Copyright © The Economist Newspaper Limited 2016  
 Registered in England and Wales. No. 236383 | Registered office: 25 St James's Street, London, SW1A 1HG | VAT Reg No: GB 340 436 876
