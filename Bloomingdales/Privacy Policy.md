@@ -73,7 +73,7 @@ The following are examples of the types of information we may collect:
 
 We may use the information we collect to: process a transaction. provide products or services you request. improve our website and stores. enhance your shopping experience. and for marketing and promotional purposes. We may combine information about you that we collect online, in our stores, via mobile devices (including mobile applications), and from third party sources.
 
-****Cookies and Other Technologies on bloomingdales.com****
+**Cookies and Other Technologies on bloomingdales.com**
 
 **This section addresses bloomingdales.com use of cookies and Flash Cookies.**
 
@@ -97,9 +97,9 @@ We may share your information within Macy's, Inc. and its affiliates and subsidi
 
 *   **We may share your information with third parties to assist in the management of the site or so that they can directly market their products or services to you if we feel that these products or services may be of interest to you. For example:**
 
-> > **Website Optimization Services. bloomingdales.com shares data using the IBM Digital Analytics tool to understand and optimize website performance and enhance site usability for our customers. IBM Digital Analytics analyzes data it collects from bloomingdales.com and returns reports to us through an encrypted connection. IBM Data Analytics is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Bloomingdale's. We do not share credit card or password information with IBM Digital Analytics. To learn more about opting out of IBM Digital Analytics analysis of your browsing and purchasing behavior, please refer to the Customer Preferences and Opt-Out Choices section of this notice.  
+> > **Website Optimization Services. bloomingdales.com shares data using the IBM Digital Analytics tool to understand and optimize website performance and enhance site usability for our customers. IBM Digital Analytics analyzes data it collects from bloomingdales.com and returns reports to us through an encrypted connection. IBM Data Analytics is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Bloomingdale's. We do not share credit card or password information with IBM Digital Analytics. To learn more about opting out of IBM Digital Analytics analysis of your browsing and purchasing behavior, please refer to the Customer Preferences and Opt-Out Choices section of this notice.  
 > >   
-> > Borderfree. bloomingdales.com processes international customer orders through our partner Borderfree. Borderfree is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Bloomingdale's. To learn more about international customer privacy, please see the International Customer Privacy section of this notice.**
+> > Borderfree. bloomingdales.com processes international customer orders through our partner Borderfree. Borderfree is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Bloomingdale's. To learn more about international customer privacy, please see the International Customer Privacy section of this notice.**
 
 **Customer Preferences and Opt-Out Choices**
 
@@ -156,7 +156,7 @@ If you are an international customer and want access to your information, please
 
 **Information Security**
 
-Please refer to the Security Policy for additional details.
+Please refer to the Security Policy for additional details.
 
 **Information About Children Under 13**
 
