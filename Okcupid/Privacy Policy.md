@@ -189,7 +189,7 @@ You need to complete your basic info on the mobile app before you can use the de
 *   OkTrends
 *   Mobile
 
-OkCupid © 2015 Free online dating
+OkCupid © 2016 Free online dating
 
 *   Local dating
 *   Jewish dating
