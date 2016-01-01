@@ -65,4 +65,4 @@ Print
 
 AOL Inc. | Privacy | Terms of Service | About Our Ads
 
-© 2015, AOL Inc. All rights reserved.
+© 2016, AOL Inc. All rights reserved.
