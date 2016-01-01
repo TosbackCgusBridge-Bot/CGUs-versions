@@ -157,6 +157,6 @@ Call Recording and Monitoring.
 
 Please be aware that calls to and from TripAdvisor may be recorded.  We may use the call recordings to monitor our customer service for quality or compliance purposes, to check the accuracy of the information you provide us, for fraud prevention purposes, or to provide training to our staff.  We will retain the call recordings for as long as reasonably necessary to perform such activities and then delete them.  Any personal information obtained from you during the call will be treated in accordance with the provisions of this Privacy Policy.
 
-©2015 TripAdvisor LLC. All rights reserved.  
+©2016 TripAdvisor LLC. All rights reserved.  
 
 This Privacy Policy is effective as of April 28, 2014
