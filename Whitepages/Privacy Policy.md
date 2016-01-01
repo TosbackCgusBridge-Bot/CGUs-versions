@@ -211,5 +211,5 @@ If you have any questions about this policy, please write to Whitepages Privacy 
     *   Y
     *   Z
 
-*   © 2015 Whitepages Inc.
+*   © 2016 Whitepages Inc.
 *   Sitemap
