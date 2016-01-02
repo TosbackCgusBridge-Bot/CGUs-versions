@@ -29,26 +29,31 @@ LENOVO Menu
     *   Help placing an order 24 hours a day, 7 days a week  
           
         Call 1-855-2-LENOVO (1-855-253-6686), Option 1  
-        Mon-Wed 9am-9pm EST  
-        Thursday 9am-3pm EST  
-        New Year's Day - CLOSED  
-        Saturday 9am-6pm  
+        New Year's Day CLOSED  
+        Saturday 9am-6pm (EST)  
+          
+        Regular hours return January 2:  
+        Monday-Friday 9am-9pm (EST)  
+        Saturday 9am-6pm (EST)  
           
         Outlet sales: Call 1-877-698-4465, Option 1  
-        Mon-Wed 9am-9pm EST  
-        Thursday 9am-3pm EST  
-        New Year's Day - CLOSED  
-        Saturday 9am-6pm  
+        New Year's Day CLOSED  
+        Saturday 9am-6pm (EST)  
           
+        Regular hours return January 2:  
+        Monday-Friday 9am-9pm (EST)  
+        Saturday 9am-6pm (EST)  
         
     *   Help with an existing order Check order status online - track by order number  
           
           
         Call 1-855-2-LENOVO (1-855-253-6686), Option 2  
-        Mon-Wed 9am-9pm  
-        Thur 9am-3pm  
         New Year's Day CLOSED  
-        Sat 9am-6pm  
+        Saturday 9am-6pm (EST)  
+          
+        Regular hours return January 2:  
+        Monday-Friday 9am-9pm (EST)  
+        Saturday 9am-6pm (EST)  
         
     *   Technical Support
         1.  Lenovo Products Tablet, Laptop, Workstation, ThinkServer, Storage, and Smartphone support information
@@ -364,4 +369,4 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Order Status
     *   Support
 
-trusteValidation 2015 Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of Use
+trusteValidation 2016 Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of Use
