@@ -191,4 +191,4 @@ Store Locator | White/Yellow Pages White/Yellow Pages | Email Offers | Referral 
   
 For Home | Small Business | Medium Business | Enterprise | Wholesale  
   
-© 2015, CenturyLink. All Rights Reserved. Feedback
+© 2016, CenturyLink. All Rights Reserved. Feedback
