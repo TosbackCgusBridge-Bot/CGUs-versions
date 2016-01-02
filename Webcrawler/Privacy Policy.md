@@ -94,7 +94,7 @@ E-mail: Contact us
 
 Policy effective January 1, 2005
 
-*   © 2015 InfoSpace, LLC
+*   © 2016 InfoSpace, LLC
 *   About
 *   .
 *   Privacy
