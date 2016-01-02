@@ -220,7 +220,7 @@ Claim your Free Listing
 
 Claim your free business listing on Superpages. The more information you provide about your business, the easier it will be for your customers to find you online.
 
-Get your Free Listing Copyright © 2015 Dex Media, Inc. All rights reserved. | Terms &. Conditions | Privacy Policy
+Get your Free Listing Copyright © 2016 Dex Media, Inc. All rights reserved. | Terms &. Conditions | Privacy Policy
 
 Connect with us on
 
