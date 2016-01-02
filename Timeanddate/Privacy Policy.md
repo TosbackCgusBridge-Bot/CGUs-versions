@@ -32,8 +32,8 @@ Search × Site / Articles City / Country Social × Share this page / Follow us o
     *   Time Zone Articles
 *   CalendarBack
     *   Calendar Info
-    *   Calendar 2015
     *   Calendar 2016
+    *   Calendar 2017
     *   Monthly Calendar
     *   Printable PDF Calendar
     *   Add your own Calendar Events
@@ -57,10 +57,8 @@ Search × Site / Articles City / Country Social × Share this page / Follow us o
     *   Moon Light World Map
     *   Astronomy Articles
 *   TimersBack
-    *   New Year Countdown
-    *   New Year Countdown World Map
-    *   New Year Trivia
     *   Countdown to Any Date
+    *   New Year Countdown
     *   Timer
     *   Stopwatch
 *   CalculatorsBack
