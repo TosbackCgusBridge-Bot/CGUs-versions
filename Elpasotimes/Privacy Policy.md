@@ -81,230 +81,230 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ News Nations welcome 2016 in age of uncertainty
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Movies 'Star Wars' set to surpass 'Titanic' at box office
 
 TOP STORIES
 
-*   World German police warn of 'imminent' terror threat
-*   News Multi-story fire erupts at Dubai hotel
-*   People 'M.A.S.H.' star Wayne Rogers dies at 82
-*   Out of the loop today? We've got what you missed
-*   Why Peyton Manning likely won't sue Al Jazeera
-*   Armour: Clemson silences doubters in major way
-*   The most daring fashion moments of 2015
-*   Alabama routs MSU to reach playoff final
-*   Watch Mark Dantonio walk out on ESPN interview
-*   Chief Justice Roberts seeks faster, fairer courts
-*   State Dept. releases more Hillary Clinton emails
-*   Feds: N.Y. man tied to ISIL planned NYE bar attack
+*   NCAAF Christian McCaffrey sets Rose Bowl record in Stanford's romp
+*   Life 'Unforgettable' singer Natalie Cole dies at 65
+*   Personal Finance How to make a budget and control your spending
+*   Ethan Couch's mom paid his Mexican strip club tab
+*   Ind. woman killed in New Year's skydiving accident
+*   N.Y. terrorism cases likely shared same informant
+*   Manhunt after 2 killed in Tel Aviv bar
+*   Josh Freeman's strange journey to the NFL
+*   Dubai high-rise fire still smoldering
+*   Merger frenzy hit new high in 2015
+*   Elk falls through window into living room
+*   Barrier islands could be unlivable in 50 years
+
+News
+
+Water recedes in St. Louis, threatens new targets
+
+NHL
+
+Q&A: NHL commish Gary Bettman on the future of the Winter Classic
+
+People
+
+Social media remembers 'Unforgettable' Natalie Cole
 
 Movies
 
-George Lucas sorry for 'white slavers' remark
+Your ultimate holiday movie guide
+
+OUR PICKS News
+
+Year in Review: 50 stories from 50 states
+
+Tech
+
+More 4K TV programming finally here in 2016
 
 Nation Now
 
-Feds: Woman took $1.9M in purse over 15 years
-
-Nation Now
-
-Hotel let attacker into woman's room, lawsuit claims
-
-Nation Now
-
-Family horrified by gruesome death on cruise ship
-
-2015 YEAR IN REVIEW Your Take
-
-#YourTake2015: Readers share their stories of 2015
-
-OnPolitics
-
-In 2015, you didn’t just read about Donald Trump
-
-Markets
-
-2016 stock outlook: Up, but not up and away
+Do you remember 2015? Test your knowledge
 
 News
 
 Full coverage: Looking back at 2015
 
-CES 2016 preview with Gary Shapiro
+Many hangover 'cures' are merely myths
 
-Gary Shapiro, the CEO of the Consumer Technology Association previews the 2016 CES on #TalkingTech.
+Hangovers are hard. We're here to make sure you don't waste your time by doing these things. Video provided by Newsy
 
 1 of 20 See more video
-
-Midwest floods sweep entire homes down river
-
-Heavy rain has turned Missouri's Meramec River into a nightmare for thousands of people outside of St. Louis.
-
-2 of 20 See more video
 
 Woman uses kid as lookout during theft
 
 Police call the crime "brazen" and have surveillance video of the entire incident.
 
+2 of 20 See more video
+
+Gun found in Couches' Mexico hotel room
+
+A maid in Puerto Vallarta, Mexico, said she found a pistol in the Couches' hotel room, and that Ethan Couch claimed it as his own.
+
 3 of 20 See more video
-
-5 things to know about how the world parties on New Year's Eve
-
-5 fun facts about New Year's Eve celebrations from around the world.
-
-4 of 20 See more video
 
 See bobcat kitten orphan emerge from rehab cage
 
 An orphaned bobcat was released back into the wild three months after the loss of her mom, who was electrocuted while climbing a power pole.
 
-5 of 20 See more video
-
-President Obama likes salad...but only in emergencies
-
-Apparently, President Obama is a selective eater. But some things on his "no" list are a bit weird. Video provided by Newsy
-
-6 of 20 See more video
-
-Old Navy apologizes for controversial toddler shirts
-
-Old Navy's t-shirts read "young aspiring artist," except the word "artist" has been crossed out, with "astronaut" or "president" written beneath. Mara Montalbano (@maramontalbano) has more.
-
-7 of 20 See more video
-
-Obama drives around with Jerry Seinfeld
-
-President Obama was Seinfeld's guest on the comedian's streaming series "Comedians in Cars Getting Coffee."
-
-8 of 20 See more video
-
-'Dating Sunday' could be your time to find love
-
-Match.com has declared the Sunday after New Year's Day, 'Dating Sunday'. Mara Montalbano (@maramontalbano) has more.
-
-9 of 20 See more video
+4 of 20 See more video
 
 Woman finds vulgar message on Domino's receipt
 
 A Michigan woman says she received a Domino's Pizza receipt with a vulgar note written on it. Video provided by Newsy
 
-10 of 20 See more video
+5 of 20 See more video
+
+Old Navy apologizes for controversial toddler shirts
+
+Old Navy's t-shirts read "young aspiring artist," except the word "artist" has been crossed out, with "astronaut" or "president" written beneath. Mara Montalbano (@maramontalbano) has more.
+
+6 of 20 See more video
 
 Cop saves man's life with hug
 
 NYPD Officer Campoverde was able to talk a man off a ledge by asking him the question "Can I give you a hug?". Keri Lumm (@thekerilumm) reports.
 
-11 of 20 See more video
+7 of 20 See more video
 
 Trump spokeswoman wears bullet necklace
 
 The national spokeswoman for Donald Trump's presidential campaign made news when she wore a necklace made of bullets during an interview. Video provided by Newsy
 
-12 of 20 See more video
+8 of 20 See more video
+
+New year resolutions you make vs. what really happens
+
+New Year resolutions are a good idea to hope and work towards making your life better but then there is what really happens. Patrick Jones (@Patrick\_E\_Jones) explains.
+
+9 of 20 See more video
 
 How the top car, SUV sales rivalries stacked up in 2015
 
-Who's up and who's down, compared to their rivals. It's more than automakers who care about the sales stats. Some owners clubs and others take great pride in knowing their model came out on top. But 2015 was a topsy-turvy year. Buyers moved to SUVs
+Who's up and who's down, compared with rivals? It's more than automakers who care about the sales stats. Some owners clubs and others take great pride in knowing their models came out on top. But 2015 was a topsy-turvy year. Buyers moved to SUVs.
 
-13 of 20 See more video
+10 of 20 See more video
 
 Cartoonist sums up 2015 in less than 60 seconds
 
 The Indy Star's cartoonist Gary Varvel illustrates the many struggles we had in 2015 and hopes for a better year in 2016 with his year-end cartoon.
 
-14 of 20 See more video
+11 of 20 See more video
 
 Aerials show extensive flooding in Missouri
 
 Missouri Gov. Jay Nixon said his state is in a "massive flood fight" Wednesday as rising waters from the Mississippi threaten the state.
 
-15 of 20 See more video
+12 of 20 See more video
 
 Rare giant squid caught on camera
 
 A giant squid made a surprise appearance in Toyama Bay, central Japan, last week. Giant squids normally inhabit the deep sea rather than coastal areas. (Dec. 30)
 
+13 of 20 See more video
+
+Ways to save for your 2016 travel plans
+
+2016 can be an adventurous year, if you start saving right now. Mara Montalbano (@maramontalbano) shows us how.
+
+14 of 20 See more video
+
+Mom freezes unconventional donation for storm victims
+
+By asking for breast milk donations, a Texas mother did not expect her way of helping tornado victims would catch on so quickly.
+
+15 of 20 See more video
+
+Terminally-ill dog finally fulfills his bucket-list
+
+Poh is an Instagram star suffering from a terminal illness. Thanks to his owner, he recently completed his bucket-list with a visit to the beach.
+
 16 of 20 See more video
 
-Man steals woman's purse at church
+Winter forces elk to seek shelter...in living room!
 
-Police released a video that shows a man stealing an 84-year-old woman's purse in a North Lauderdale, Florida church. The purse was recovered two days later, but its wallet and money were still missing.
+Snow is pushing elk from mountains to valleys, and in to the homes of local residents.
 
 17 of 20 See more video
+
+See how Times Square rang in 2016
+
+Take a look at some fun moments from the New Year's Eve celebration in Times Square.
+
+18 of 20 See more video
+
+Man turns embarrassing back hair into art
+
+Mike Wolfe asked his friend to shave his back hair into art. The two have produced enough designs to create a 'Calend-hair' for charity.
+
+19 of 20 See more video
 
 The 5 least friendly cities in the U.S.
 
 New York, Boston, and Detroit top the list of Travel and Leisure's most unfriendly cities in the country. Native New Yorker Gillian Pensavalle (@GillianWithaG) has a problem with that.
 
-18 of 20 See more video
-
-Teen shocked everyone with her Make-A-Wish request
-
-Sheradia Linton didn't want a trip to Walt Disney World, nor did she want to meet her favorite celebrity when Make-A-Wish officials approached her. What she asked for surprised everyone.
-
-19 of 20 See more video
-
-Dogs get anxious just like you
-
-Dogs can suffer from anxiety, and their triggers are similar to what makes humans anxious. Sloane Glass (@sloaneglass) has more.
-
 20 of 20 See more video Last VideoNext Video news
 
-Your ultimate New Year's Eve survival guide
+The famous and near-famous who passed away in 2015
 
-Ringing in 2016 around the world
+Emails: Chicago officials worried about response to video…
 
-3 hours, 32 minutes | News
+11 hours, 15 minutes | Nation
 
-Reports: German police warn of terror attackMulti-story fire erupts at Dubai hotel Swollen Mississippi crests in Missouri, rolls south sports
+Ethan Couch's mom paid his Mexican strip club tabFBI wanted terror suspect as informant, grandma saysPilot turns plane around for grieving family sports
 
-Alabama cruises for title game date with Clemson
+McCaffrey sets Rose Bowl record in Stanford romp
 
-Armour: Clemson quiets doubters in big way
+Watch: Stanford dupes Iowa with fake fumble for TD
 
-4 hours, 14 minutes | Nancy Armour
+5 hours, 18 minutes | NCAAF
 
-Clemson looks every bit like No. 1 in Orange BowlTakeaways: Alabama dominant on both sides of ballWatch Mark Dantonio walk out on ESPN interview life
+Josh Freeman's strange journey back to the NFLMatt Barnes rips Derek Fisher in Instagram rantMeet the best MLB team realistic money can buy life
 
-Look: The most daring fashion moments of 2015
+Natalie Cole, legendary songstress, dead at 65
 
-Cross WordsAll GamesEntertain This! George Lucas apologizes for 'white slavers' remarkWayne Rogers, Trapper John on 'M.A.S.H.,' dies at 82'Sherlock' goes vintage with holiday special money
+Cross WordsAll GamesEntertain This! Natalie Cole made her own unforgettable mark5 TV shows to binge-watch on New Year's DayCritic's Corner: Eva Longoria shines in 'Telenovela' money
 
-Dow, S&P 500 fall in '15. Nasdaq up 5.7%
+Merger frenzy hit new high in 2015
 
-StocksPortfolio TrackerAmerica's Markets Gas should remain a bargain in 2016The best — and worst — stock sectors in 2015Report card: Dimon's 10 years as JPMorgan CEO tech
+StocksPortfolio TrackerAmerica's Markets Billionaire Bill Ackman trims Valeant stakeScientist: Barrier islands could be unlivable in 50 yearsHonda confirms death due to faulty air bag inflator tech
 
-What to expect from Apple in 2016
+More 4K TV programming finally here in 2016
 
-WhatsApp trying to fix outage
+Where are they now? Tech hits of CES 2015
 
-9 hours, 41 minutes | News
+16 hours, 10 minutes | News
 
-Facebook trying to fix 46-year glitchOculus Touch controller delayedAT&T to stop offering two-year contracts travel
+What to expect from Apple in 2016How to safely use free Wi-FiInternet of Things looms large at CES, along with its security… travel
 
-Best of 2015: Idyllic and picturesque towns in each state
+Travel in 2016: Hot destinations, top trends
 
-Explore New Year's foods from around the world
+New thrills for 2016: The coolest rides coming to theme…
 
-1 day, 16 hours | Food &. Wine
+17 hours, 26 minutes | America
 
-Five historic places that were saved in 2015 — and five that were lostThe 14 places in America you have to visit in 201610 Best: Bloody Marys to start the New Year Reviewed.com
+Heli-skiing in the Colorado Mountains delivers a wild rideExplore New Year's foods from around the worldFive historic places that were saved in 2015 — and five that were lost Reviewed.com
 
-Use the right Champagne glass this New Year's
+Massive Maytag washer is a top-load powerhouse
 
-Beyond Champagne: A guide to sparkling wine
+Smart frying pan tells you when your food is done
 
-1 day, 7 hours | Life
+14 hours, 55 minutes | Tech
 
-4K TVs could add billions to our energy billsLG announces SmartThinQ smart home hubSamsung builds smart home tech into 2016 TVs experience
+Why you shouldn't buy a cookware setLG announces SmartThinQ smart home hubYou can finally buy a foot-powered washer experience
 
-Best of 2015: 50 state secrets to visit around the USA
+16 flavors to celebrate in 2016
 
-Made in Ohio: 40 flavors only found in Columbus
+Literary Caribbean: Explore the places behind the novels
 
-3 days, 7 hours | Food &. Wine
+6 days, 17 hours | Caribbean
 
-New Year's Eve: Ring in 2016 with 16 unusual dropsStar-studded Caribbean: Celebrities' favorite beachesFull steam ahead: Ships we can't wait to see in 2016 VOICES Entertain This
+Best of 2015: Idyllic and picturesque towns in each stateWisconsin's best takes on cheeseFull steam ahead: Ships we can't wait to see in 2016 VOICES Entertain This
 
 Watch: The year in TV, summed up in 3 minutes
 
@@ -312,9 +312,9 @@ Opinion
 
 Punchlines: The best of 2015
 
-Life
+Opinion
 
-Use the right Champagne glass this New Year's
+Resolutions we'd like to see: Our view
 
 Opinion
 
@@ -328,42 +328,42 @@ Nation Now
 
 Quiz: Were you paying attention to the Internet this year?
 
-Criticscorner
+Entertain This
 
-Holiday TV: 'Rockin' Eve,' 'Downton' specials
+5 TV shows to binge-watch on New Year's Day
 
 Washington
 
 Sunday Standings: Tallying the top talk-show guests
 
-*   Ringing in 2016 around the world
-*   Highlights from the Cotton Bowl Playoff semifinal
 *   Passages 2015: Remembering those we've lost through the year
-*   Consumer Reports lists owners' most, least 'satisfying' cars
-*   Your Take: USA TODAY's top reader photo of the day
+*   Natalie Cole: Unforgettable
+*   Ringing in 2016 around the world
+*   2016 NHL Winter Classic: Bruins vs. Canadiens at Gillette Stadium
+*   January political cartoons from Gannett cartoonists
 
 Most Popular
 
+*   Natalie Cole, legendary songstress, dead at 65
+    
 *   Family horrified by gruesome death on cruise ship
     
-*   Feds: Woman stuffed $1.9 million in purse over 15 years
+*   Ethan Couch's mom paid his Mexican strip club tab
     
-*   Wayne Rogers, Trapper John on 'M.A.S.H.,' dies at 82
-    
-*   Multi-story fire erupts at Dubai hotel
+*   Kim Jong Un says he's ready for war in New Year address
     
 
 Trending on Social
 
-*   Alabama routs Michigan State to reach College Football Playoff final
+*   How to safely use free Wi-Fi
     
-*   Wayne Rogers, Trapper John on 'M.A.S.H.,' dies at 82
+*   Top growth stocks to buy in 2016
     
-*   North Pole could be warmer than Southern California today
+*   Monster plans Michael Jackson tribute at CES
     
-*   #YourTake2015: Readers share their stories of 2015
+*   AG seeks restitution to New York customers of DraftKings, FanDuel
     
-*   The reasons why Peyton Manning, others probably won't sue Al Jazeera over report
+*   Natalie Cole, legendary songstress, dead at 65
     
 
 SPONSOR CONTENT Right Now
