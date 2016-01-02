@@ -324,7 +324,7 @@ _°_
 *   Suomi
 *   English (UK)
 
-Copyright © 1999 - 2015 SurveyMonkey
+Copyright © 1999 - 2016 SurveyMonkey
 
 *   Truste
 *   BBOnline
