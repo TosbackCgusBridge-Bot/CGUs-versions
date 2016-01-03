@@ -139,8 +139,8 @@ How to Contact Us
 
 You can direct questions regarding this Privacy Policy to CareerBuilder by emailing us at customer.service@careerbuilder.com or by letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests.
 
-Copyright © 2016 Jobs.net, All Rights Reserved - About Us
+Copyright © 2015 Jobs.net, All Rights Reserved - About Us
 
 Sales Jobs  •   Job Search  •  Employment &. Job Resources  •  Freelance and Part Time Jobs  •  Retail Jobs  •  Going Green Jobs  •  Talent Management  • 
 
-Education Center  •  Internships 2016  •  Entry Level Jobs   •   Salaries  •   Resume Help   •   Jobs in Canada   •   Jobs in UK   •   En Espanol   •   Internships   •   Moving Trucks   •
+Education Center  •  Internships 2015  •  Entry Level Jobs   •   Salaries  •   Resume Help   •   Jobs in Canada   •   Jobs in UK   •   En Espanol   •   Internships   •   Moving Trucks   •
