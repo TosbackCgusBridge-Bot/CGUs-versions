@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14284184781
+true true C14286057036
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Fri Jan 01 11:15:28 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p29.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Sat Jan 02 11:15:31 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,63 +48,27 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Happy New Year! Today Online Only | January 1 | Code: NUYEAR Extra 25% Off\*
+Extra 25% Off\* with your JCPenney Credit Card Extra 20% Off\* with any other method of payment Online Only | $100 or More | Ends January 3 | Code: BIGSAVNG Or, Extra 20% Off\* with your JCPenney Credit Card Or, Extra 15% Off\* with any other method of payment In Store and Online | Ends January 3 | Code: BIGSAVNG
 
-\*Some exclusions apply.
+\*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
 
-\*Exclusions and details:
+Print Coupon \*Exclusions and details Big Bonus Sale! In Store and Online Big Bonus Sale
 
-Buy 1 Get 1 Free\* Juniors' Arizona Apparel, reg. $14-$48
+In Store and Online
 
-\*Buy one item at regular price, get the second item of equal or lesser value for free.
+Shop Sale View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Save On Nike For The Family Nike Sale | 25% Off Nike For The Family
 
-Shop Juniors' Arizona Apparel
+Select styles, excluded from coupon.
 
-Buy 1 Get 1 Free\* Guys' Arizona Jeans, select styles
+Shop Nike For The Family Shop Men Shop Women Shop Boys Shop Shoes         Refresh Your Space With Savings On Home Stock Up White Sale | Ends January 3
 
-\*Buy one item at regular price, get the second item of equal or lesser value for free.
+40 to 50% Off Home Collections, select styles
 
-Shop Guys' Arizona Jeans
+Shop Home Collections Shop Bedding and Bath Stock Up On Bras! Stock Up Sale Now Through January 10
 
-Big Buy! 50 to 60% Off Boys' and Girls' Xersion, select styles
+12.99 to 21.99 Bras, select styles
 
-Shop Boys' and Girls' Xersion
-
-25% Off Nike for Her, select styles
-
-Shop Nike for Her
-
-25% Off Men's Nike Apparel, select styles, (excluded from coupon)
-
-Shop Men's Nike Apparel
-
-25% Off Nike Shoes, select styles
-
-Shop Men's Nike Shop Women's Nike
-
-40 to 50% Off Women's Fila and New Balance, select styles, (excluded from coupon)
-
-Shop Women's Fila and New Balance
-
-14.99 Arizona Jeans, reg. $30
-
-Shop Boy's Arizona Jeans Shop Girl's Arizona Jeans
-
-14.99 Ambrielle Cotton Bras, reg. $30)
-
-Shop Ambrielle Cotton Bras
-
-50 to 70% Off Cold-Weather Accessories, select styles
-
-Shop Cold-Weather Accessories
-
-15.99 JCPenney Home 300TC Easy Care Solid or Print Twin Sheet Set, reg. $50
-
-Shop JCPenney Home 300TC Easy Care Solid or Print Twin Sheet Set
-
-6.99 JCPenney Home Quick Dri 30X56 Solid Bath Towel, reg. $16
-
-Shop JCPenney Home Quick Dri 30X56 Solid Bath Towel New Markdowns! 60 to 80% Off Clearance
+Shop Bras New Markdowns! 60 to 80% Off Clearance
 
 In Store and Online
 
