@@ -1,4 +1,4 @@
-USESDEFRITBR Décembre 2015
+USESDEFRITBR Janvier 2016
 
 *   Objet
 *   Mentions légales
@@ -122,9 +122,9 @@ Réalisé sous la direction de Jean-François PILLOU, fondateur de CommentCaMarc
   
 A voir également
 
-*   Conditions générales utilisation
-*   D'UTILISATION
-*   Conditions générale d'une webradio
+*   WWW.BOURSEDETUDE.ORG
+*   Tubidy
+*   Conditions Générales D'utilisation
 *   Modèle Condition Générale de Vente » Forum - Webmaster
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
