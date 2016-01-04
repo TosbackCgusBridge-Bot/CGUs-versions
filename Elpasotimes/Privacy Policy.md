@@ -81,246 +81,246 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ News CES '16: More smart cars, drones. fewer humans Read StoryCES 2015 winners: Where are they now?Beyond 4K: Dolby Vision to debutMichael Jackson tribute at CESFull coverage
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Washington Obama begins gun violence effort that could define his last year
 
 TOP STORIES
 
-*   World Iranian protesters overrun Saudi embassy, set fires
-*   OnPolitics Bernie Sanders raises $33 million. Clinton $37M
-*   NFL 5 matchups that will define NFL Week 17
-*   Officials: Washing machine dispute led to 4 murders
-*   Manziel spotted at casino on eve of season finale
-*   Miss. councilman suggests throwing rocks at police
-*   Man killed by police was holding phone, not gun
-*   Tonight's Powerball pot at $334M
-*   Will Bill help Hillary in New Hampshire?
-*   N.J. revision backfires on low-paid workers
-*   'Star Wars: The Force Awakens' beats 'Titanic'
-*   Watch: Harbaugh's final tantrum of the season
+*   Nation Sheriff: Militia members used rancher protest as ruse
+*   World Saudi Arabia severs ties with Iran
+*   Denver Broncos Peyton Manning vaults Broncos to No. 1 seed
+*   Major earthquake hits northeast India
+*   49ers fire Tomsula after one season as coach
+*   Councilman: 'Thugs with badges' drive cop chases
+*   Candidates trying to crack Iowa caucus avoiders
+*   Zuckerberg's goal for '16: Build an AI assistant
+*   Trump: Clinton has 'caused tremendous death'
+*   Browns unsure whether Manziel went to Vegas
+*   Want to lose weight? Get on the scale every day
+*   10 radical travel trends to watch for in 2016
 
-Ufc
+People
 
-UFC 195 play-by-play and live results
-
-Entertain This
-
-Miranda Lambert's Instagram shows she has moved on
-
-NCAAF
-
-Penn State LB slams head into teammates' helmets
+Chris Brown is accused of battery in Las Vegas
 
 Nation Now
 
-Nearly 200 Muslim workers fired over prayer dispute in Colorado
+No winners sets up frenzy for $400M Powerball
 
-OUR PICKS Nation Now
+Tech
 
-Clemson University responds to suit over fraternity pledge's 2014 death
+CES 2016 sneak peek: Gadgets galore
 
-NCAAF
+TV
 
-New expense for college football programs: Looking good
+Joy, tears to accompany 'Downton's' Season 6 goodbye
 
-MLB
+OUR PICKS News
 
-The best MLB team realistic money can buy
+Southern states brace for river flooding
 
-Nation Now
+NFL
 
-Family opens home to fragile, dying kids
+NFL playoff picture: Vikings win NFC North. Steelers sneak in AFC field
 
-Woman uses kid as lookout during theft
+Movies
 
-Police call the crime "brazen" and have surveillance video of the entire incident.
+'Star Wars' sails to $88M weekend, new records
+
+Nation
+
+Boston Globe editors, reporters play paperboy for a day
+
+Politicians share when they first caught political bug
+
+Politicians share when they first caught political bug and decided to run.
 
 1 of 19 See more video
-
-Gun found in Couches' Mexico hotel room
-
-A maid in Puerto Vallarta, Mexico, said she found a pistol in the Couches' hotel room, and that Ethan Couch claimed it as his own.
-
-2 of 19 See more video
-
-See bobcat kitten orphan emerge from rehab cage
-
-An orphaned bobcat was released back into the wild three months after the loss of her mom, who was electrocuted while climbing a power pole.
-
-3 of 19 See more video
-
-Woman finds vulgar message on Domino's receipt
-
-A Michigan woman says she received a Domino's Pizza receipt with a vulgar note written on it. Video provided by Newsy
-
-4 of 19 See more video
-
-Old Navy apologizes for controversial toddler shirts
-
-Old Navy's t-shirts read "young aspiring artist," except the word "artist" has been crossed out, with "astronaut" or "president" written beneath. Mara Montalbano (@maramontalbano) has more.
-
-5 of 19 See more video
-
-Trump spokeswoman wears bullet necklace
-
-The national spokeswoman for Donald Trump's presidential campaign made news when she wore a necklace made of bullets during an interview. Video provided by Newsy
-
-6 of 19 See more video
-
-The 5 least friendly cities in the U.S.
-
-New York, Boston, and Detroit top the list of Travel and Leisure's most unfriendly cities in the country. Native New Yorker Gillian Pensavalle (@GillianWithaG) has a problem with that.
-
-7 of 19 See more video
-
-How the top car, SUV sales rivalries stacked up in 2015
-
-Who's up and who's down, compared with rivals? It's more than automakers who care about the sales stats. Some owners clubs and others take great pride in knowing their models came out on top. But 2015 was a topsy-turvy year. Buyers moved to SUVs.
-
-8 of 19 See more video
-
-Cartoonist sums up 2015 in less than 60 seconds
-
-The Indy Star's cartoonist Gary Varvel illustrates the many struggles we had in 2015 and hopes for a better year in 2016 with his year-end cartoon.
-
-9 of 19 See more video
-
-Rare giant squid caught on camera
-
-A giant squid made a surprise appearance in Toyama Bay, central Japan, last week. Giant squids normally inhabit the deep sea rather than coastal areas. (Dec. 30)
-
-10 of 19 See more video
-
-Climate Change Expert Makes Bold Prediction
-
-Dr. Harold Wanless, nicknamed Dr. Doom, believes the government has underestimated sea level rise.
-
-11 of 19 See more video
-
-'Africa's biggest Jesus statue' unveiled in Nigeria
-
-Nigeria unveils a nine-metre tall statue of Jesus Christ carved from white marble, thought to be the biggest of its kind in Africa. Video provided by AFP
-
-12 of 19 See more video
 
 Mark your calendar for these events in 2016
 
 2016 is going to be a busy year. USA TODAY takes a look at the biggest news events already on the calendar.
 
+2 of 19 See more video
+
+Powerball jackpot jumps to $400M
+
+Saturday's winning numbers were 5, 6, 15, 29, 42, and Powerball 10. With no player matching them all, Wednesday's jackpot climbs to $400 million.
+
+3 of 19 See more video
+
+Woman uses kid as lookout during theft
+
+Police call the crime "brazen" and have surveillance video of the entire incident.
+
+4 of 19 See more video
+
+Gun found in Couches' Mexico hotel room
+
+A maid in Puerto Vallarta, Mexico, said she found a pistol in the Couches' hotel room, and that Ethan Couch claimed it as his own.
+
+5 of 19 See more video
+
+See bobcat kitten orphan emerge from rehab cage
+
+An orphaned bobcat was released back into the wild three months after the loss of her mom, who was electrocuted while climbing a power pole.
+
+6 of 19 See more video
+
+Woman finds vulgar message on Domino's receipt
+
+A Michigan woman says she received a Domino's Pizza receipt with a vulgar note written on it. Video provided by Newsy
+
+7 of 19 See more video
+
+Prince William says fatherhood has changed him
+
+Prince William, father of 2-year-old Prince George and 8-month-old baby Princess Charlotte, talks about fatherhood in an ITV documentary.
+
+8 of 19 See more video
+
+Fed up journalists deliver newspapers themselves
+
+The Boston Globe recently changed delivery services, and readers weren't getting the paper on time or, in some cases, at all. Video provided by Newsy
+
+9 of 19 See more video
+
+Old Navy apologizes for controversial toddler shirts
+
+Old Navy's t-shirts read "young aspiring artist," except the word "artist" has been crossed out, with "astronaut" or "president" written beneath. Mara Montalbano (@maramontalbano) has more.
+
+10 of 19 See more video
+
+The 5 least friendly cities in the U.S.
+
+New York, Boston, and Detroit top the list of Travel and Leisure's most unfriendly cities in the country. Native New Yorker Gillian Pensavalle (@GillianWithaG) has a problem with that.
+
+11 of 19 See more video
+
+How the top car, SUV sales rivalries stacked up in 2015
+
+Who's up and who's down, compared with rivals? It's more than automakers who care about the sales stats. Some owners clubs and others take great pride in knowing their models came out on top. But 2015 was a topsy-turvy year. Buyers moved to SUVs.
+
+12 of 19 See more video
+
+Cartoonist sums up 2015 in less than 60 seconds
+
+The Indy Star's cartoonist Gary Varvel illustrates the many struggles we had in 2015 and hopes for a better year in 2016 with his year-end cartoon.
+
 13 of 19 See more video
 
-Paramedic dad delivers his own daughter in car
+Rare giant squid caught on camera
 
-It's one thing to deliver someone else's baby. It's quite another to deliver your own, even if you're a paramedic, in the parking lot of a gas station.
+A giant squid made a surprise appearance in Toyama Bay, central Japan, last week. Giant squids normally inhabit the deep sea rather than coastal areas. (Dec. 30)
 
 14 of 19 See more video
+
+Climate change expert makes bold prediction
+
+Dr. Harold Wanless, nicknamed Dr. Doom, believes the government has underestimated sea level rise.
+
+15 of 19 See more video
+
+'Africa's biggest Jesus statue' unveiled in Nigeria
+
+Nigeria unveils a nine-metre tall statue of Jesus Christ carved from white marble, thought to be the biggest of its kind in Africa. Video provided by AFP
+
+16 of 19 See more video
+
+Make the most of your 2016 travel plans with these tips
+
+Travel companies are actually making an effort to ease their customers' pain in 2016. But there are some steps you should take to get the most of your upcoming trip.
+
+17 of 19 See more video
 
 Winter forces elk to seek shelter...in living room!
 
 Snow is pushing elk from mountains to valleys, and in to the homes of local residents.
 
-15 of 19 See more video
+18 of 19 See more video
 
 Healthiest U.S. state just toughened its smoking laws
 
 The healthiest state in the U.S. is cracking down on smoking.
 
-16 of 19 See more video
-
-What it's like to get mistaken for the leader of ISIS
-
-Twitter hasn't explained why it suspended the account of an anti-ISIS activist who happens to have the same last name as the ISIS leader. Video provided by Newsy
-
-17 of 19 See more video
-
-Where to see 4K TV programming in 2016
-
-Finding 4K programming to watch on your new 4K TV should be easier in 2016, reports Jefferson Graham on #TalkingTech.
-
-18 of 19 See more video
-
-Man turns embarrassing back hair into art
-
-Mike Wolfe asked his friend to shave his back hair into art. The two have produced enough designs to create a 'Calend-hair' for charity.
-
 19 of 19 See more video Last VideoNext Video news
 
-Islamic State counterattacks target Iraqi troops in Ramadi
+Saudi Arabia severs ties with Iran
 
-Officials: Washing machine dispute led to quadruple homicide
+Sheriff: Militia members used rancher protest as ruse
 
-11 hours, 59 minutes | Nation Now
+6 hours, 13 minutes | Nation
 
-Police arrest man, seize weapons outside NHL's Winter ClassicDid anyone win tonight's $334M Powerball pot?Pilot turns plane around for grieving family sports
+Environmental disaster: Using bombs for fishingToday in History for January 4thFamily of Ariz. shooting victim may be at White House for guns… sports
 
-Watch: O.J. Mayo restrained from lunging at refs
+Jim Tomsula fired by 49ers after one season as coach
 
-Down 31, TCU stages record rally to top Oregon
+Vikings end Packers' NFC North reign, Seattle next
 
-53 minutes | NCAAF
+39 minutes | Vikings
 
-Will Playoff change NYE games after ratings drop?UFC 195 live results and play-by-playSidelined from finale, Manziel heads to Vegas life
+Armour: Browns can't break cycle of own mistakesPeyton returns, Broncos grab top seed50 things we learned in NFL's Week 17 life
 
-'DWTS' pro Witney Carson marries high school beau
+Joy, tears to accompany 'Downton's' Season 6 goodbye
 
-Cross WordsAll GamesEntertain This! 'Star Wars: The Force Awakens' sails past 'Titanic' at box office'Downton Abbey's' final season is worth enjoying5 ways George R.R. Martin could finish Book 6 faster money
+Cross WordsAll GamesEntertain This! 'Star Wars: The Force Awakens' sails to $88M weekend, new records'Star Wars' has best 3rd week in box office historyEmotion-free 'Inside Out' will make you cry money
 
-More automakers add automatic braking to cars
+Shire may be close to deal to acquire Baxalta
 
 StocksPortfolio TrackerAmerica's Markets Merger frenzy hit new high in 2015Billionaire Bill Ackman trims Valeant stakeHonda confirms death due to faulty air bag inflator tech
 
-LG debuts "Super UHD" TVs ahead of CES 2016
+Zuckerberg's goal for '16: Build an AI assistant
 
-Hacking the Internet of Things looms over CES
+Tesla's electric car production breaks 50,000 mark
 
-13 hours, 40 minutes | News
+9 hours, 44 minutes | Cars
 
-How to kid-proof your new gadgetsCES preview: More smart cars, drones, fewer humansMore 4K TV programming finally here in 2016 travel
+Life-size, rolling R2-D2 fridge debuts at CESCES 2016 sneak peek: biometric bra, livestreaming video camera,…How to read the hype of CES travel
 
 Travel in 2016: Hot destinations, top trends
 
 New thrills for 2016: The coolest rides coming to theme…
 
-1 day, 17 hours | America
+2 days, 17 hours | America
 
 Heli-skiing in the Colorado Mountains delivers a wild rideExplore New Year's foods from around the worldFive historic places that were saved in 2015 — and five that were lost Reviewed.com
 
-Massive Maytag washer is a top-load powerhouse
+Life-size, rolling R2-D2 fridge debuts at CES
 
-Smart frying pan tells you when your food is done
+This Apple alum wants to kill the clothes dryer
 
-1 day, 14 hours | Tech
+14 hours, 31 minutes | Tech
 
-Why you shouldn't buy a cookware setLG announces SmartThinQ smart home hubYou can finally buy a foot-powered washer experience
+LG debuts "Super UHD" TVs ahead of CES 201615-year-old invents world's smartest microwaveVideo: Watch LG's home dry cleaner at work experience
 
 16 flavors to celebrate in 2016
 
 Literary Caribbean: Explore the places behind the novels
 
-1 week | Caribbean
+1 week, 1 day | Caribbean
 
-Best of 2015: Idyllic and picturesque towns in each stateWisconsin's best takes on cheeseFull steam ahead: Ships we can't wait to see in 2016 VOICES News
+Best of 2015: Idyllic and picturesque towns in each stateWisconsin's best takes on cheeseFull steam ahead: Ships we can't wait to see in 2016 VOICES Opinion
 
-CES 2016 complete coverage
+Glenn Reynolds: Chicago sings blue-model blues
 
-NFL
+Opinion
 
-Bell Tolls: Bills-Jets Week 17 drama not how Rex Ryan pictured it
+War on ISIL far from over: Our view
+
+Opinion
+
+Rep McGovern: Congress must vote on ISIL war
 
 Road Warriors
 
 Miles experts share their travel resolutions
 
-Opinion
-
-Punchlines: The best of 2015
-
 Sponsor Story
 
 How an injured cat changed a woman's life
 
-Opinion
+News
 
-Resolutions we'd like to see: Our view
+CES 2016 complete coverage
 
 Nation Now
 
@@ -330,34 +330,34 @@ Money
 
 From chemical to digital: Bridging the photographic divide
 
+*   A starry awards night in Palm Springs
 *   The day in pictures
 *   Passages 2015: Remembering those we've lost through the year
 *   Natalie Cole: Unforgettable
-*   2016 NHL Winter Classic: Bruins vs. Canadiens at Gillette Stadium
 *   January political cartoons from Gannett cartoonists
 
 Most Popular
 
-*   Officials: Washing machine dispute led to quadruple homicide
+*   NFL playoff picture: Vikings win NFC North. Steelers sneak in AFC…
     
-*   Iranian protesters overrun Saudi embassy, set fires
+*   Johnny Manziel spotted at Las Vegas casino on eve of season finale
     
-*   College Football Playoff remains committed to New Year's Eve games
+*   Major earthquake hits northeast India
     
-*   'Star Wars: The Force Awakens' sails past 'Titanic' at box office
+*   Peyton Manning vaults Broncos to No. 1 seed in AFC, but he's not…
     
 
 Trending on Social
 
-*   Johnny Manziel spotted at Las Vegas casino on eve of season finale
+*   Zuckerberg's goal for '16: Build an AI assistant
     
-*   Five historic places that were saved in 2015 — and five that were lost
+*   Emotion-free 'Inside Out' will make you cry
     
-*   Iranian protesters overrun Saudi embassy, set fires
+*   Miss. councilman: 'Thugs with badges' driving cop chases
     
-*   Did anyone win tonight's $334M Powerball pot?
+*   Denver's defense caps historic day, season
     
-*   Down 31-0, TCU roars back to beat Oregon in 3OT to win Alamo Bowl
+*   Browns' odd setup could make for complicated searches
     
 
 SPONSOR CONTENT Right Now
