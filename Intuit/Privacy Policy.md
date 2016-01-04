@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14286057036
+true true L14380966150
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p29.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Sat Jan 02 11:15:31 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Sun Jan 03 11:15:19 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,39 +48,39 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Extra 25% Off\* with your JCPenney Credit Card Extra 20% Off\* with any other method of payment Online Only | $100 or More | Ends January 3 | Code: BIGSAVNG Or, Extra 20% Off\* with your JCPenney Credit Card Or, Extra 15% Off\* with any other method of payment In Store and Online | Ends January 3 | Code: BIGSAVNG
+Big Bonus Sales Ends Today Big Bonus Sale
 
-\*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
+Last Day! In Store and Online
 
-Print Coupon \*Exclusions and details Big Bonus Sale! In Store and Online Big Bonus Sale
+Shop Big Bonus Sale View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Work Out and About For Less Save On Activewear
 
-In Store and Online
+Select styles
 
-Shop Sale View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Save On Nike For The Family Nike Sale | 25% Off Nike For The Family
+Shop Men's Activewear Shop Women's Activewear Shop Boy's Activewear Shop Girl's Activewear Shop Athletic Shoes Shop Nike Shop Xersion Shop Adidas     40 to 50% Off Sheets, Bath Towels, Pillows and More Last Day! Stock Up White Sale
 
-Select styles, excluded from coupon.
+40 to 50% Off Select Home Items, select styles
 
-Shop Nike For The Family Shop Men Shop Women Shop Boys Shop Shoes         Refresh Your Space With Savings On Home Stock Up White Sale | Ends January 3
-
-40 to 50% Off Home Collections, select styles
-
-Shop Home Collections Shop Bedding and Bath Stock Up On Bras! Stock Up Sale Now Through January 10
+Shop Home Collections Shop Bedding and Bath Bras On Sale Stock Up Sale Now Through January 10
 
 12.99 to 21.99 Bras, select styles
 
-Shop Bras New Markdowns! 60 to 80% Off Clearance
+Shop Bras Up To 80% Off Clea New Markdowns! 60 to 80% Off Clearance
 
 In Store and Online
 
-Shop Clearance Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Home Shop Handbags and Accessories Shop Jewelry Got a Gift Card?
+Shop Clearance Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Home Shop Handbags and Accessories Shop Jewelry SportsFanShop
+
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
+
+Shop SportsFanShop Got a Gift Card?
 
 Redeem In Store or Online!
 
-Check Your Balance Work Out and About For Less Shop Fitness Now Styled by JCPenney
+Check Your Balance Sephora
 
-Check out our blog
+New Beauty Arrivals
 
-Read It Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop New Beauty Arrivals Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
