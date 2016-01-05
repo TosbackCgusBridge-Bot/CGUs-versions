@@ -231,7 +231,7 @@ This Privacy Policy may be amended from time to time. Any such changes will be p
 
 Search Help
 
-*   © 2015 The New York Times Company
+*   © 2016 The New York Times Company
 *   Site Map
 *   Privacy
 *   Your Ad Choices
