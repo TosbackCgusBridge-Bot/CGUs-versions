@@ -33,13 +33,13 @@ Text Search Advanced
 *   Help &. Resources
 *   for Tax Pros
 
-Like - Click this link to Add this page to your bookmarks Share - Click this link to Share this page through email or social media Print - Click this link to Print this page Free File Fillable Forms is Now Closed The program operates every year from January through October 15
+Like - Click this link to Add this page to your bookmarks Share - Click this link to Share this page through email or social media Print - Click this link to Print this page Free File Fillable Forms is Now Closed Check back on January 19, 2016 to use Free File Fillable Forms
 
-**After October 20, each year:**
+**Things you can do to get ready:**
 
-1.  Every account is erased from the server
-2.  It is not possible to access an account or return information
-3.  It is not possible to print a return from an account you created
+1.  Upgrade your Internet Browser to optimize your performance. Internet Explorer **8.0** will no longer be supported.
+2.  Review our Free File Fillable Forms User Guide.
+3.  Gather all your tax documents.
 
 Information and links that may assist you:
 
@@ -52,7 +52,7 @@ Information and links that may assist you:
 
 The Free File Fillable Forms program welcomes your comments.
 
-Page Last Reviewed or Updated: 22-Oct-2015
+Page Last Reviewed or Updated: 04-Jan-2016
 
 *   Our Agency
     
