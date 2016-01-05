@@ -208,7 +208,7 @@ Reasons we can share your personal information Does Bank of America share? Can y
 
 *   Call 888.341.5000 - our menu will prompt you through your choices
 *   Visit us online: bankofamerica.com/privacy
-*   Talk to a banking center associate
+*   Talk to a financial center associate
 *   Talk to your assigned account representative (e.g., financial advisor, mortgage loan officer)
 
 **Please note:**  
@@ -218,7 +218,7 @@ To limit direct marketing contact
 
 *   Call 888.341.5000 - our menu will prompt you through your choices
 *   Visit us online: bankofamerica.com/privacy
-*   Talk to a banking center associate
+*   Talk to a financial center associate
 *   Talk to your assigned account representative (e.g., financial advisor, mortgage loan officer)
 
 **Please note:**  
@@ -230,7 +230,7 @@ Call 888.341.5000 or go to bankofamerica.com/privacy
 
 Who we are Who is providing this notice?
 
-Bank of America U.S. legal entities that utilize the names: Bank of America, Banc of America, U.S. Trust, LandSafe or Merrill Lynch, as well as the entities listed in the Bank of America U.S. legal entities section.
+Bank of America U.S. legal entities that utilize the names: Bank of America, Banc of America, U.S. Trust, LandSafe or Merrill Lynch, as well as the entities listed in the _Bank of America U.S. legal entities_ section.
 
 What we do How does Bank of America protect my personal information?
 
@@ -250,7 +250,7 @@ Why can’t I limit all sharing?
 
 Federal law gives you the right to limit some but not all sharing related to:
 
-*   affiliates' everyday business purposes—information about your creditworthiness
+*   affiliates’ everyday business purposes—information about your creditworthiness
 *   affiliates from using your information to market to you
 *   nonaffiliates to market to you
 
@@ -258,23 +258,21 @@ State laws and individual Bank of America companies may give you more rights to 
 
 What happens when I limit sharing for an account I hold jointly with someone else?
 
-Your choices will apply to you alone unless you tell us otherwise. However, your choice to limit sharing with nonaffiliates to market to you for credit card accounts or Sponsored Accounts will apply to all joint account holders.
-
-If you have more than one credit card account or Sponsored Account and you choose to opt out, you will need to do so for each account.
+Your choices will apply to you alone unless you tell us otherwise. However, your choice to limit sharing with nonaffiliates to market to you for credit card accounts or Sponsored Accounts will apply to all joint account holders. If you have more than one credit card account or Sponsored Account and you choose to opt out, you will need to do so for each account.
 
 Definitions Affiliates
 
 Companies related by common ownership or control. They can be Financial and nonfinancial companies.
 
-*   Our affiliates include companies that utilize the names Bank of America. Banc of America. U.S. Trust. LandSafe or Merrill Lynch, financial companies such as General Fidelity Life Insurance Company.
+*   Our affiliates include companies that utilize the names Bank of America, Banc of America, U.S. Trust, LandSafe or Merrill Lynch, as well as financial companies such as General Fidelity Life Insurance Company.
 
 Nonaffiliates
 
-Companies not related by common ownership or control. They can be Financial and nonfinancial companies.
+Companies not related by common ownership or control. They can be financial and nonfinancial companies.
 
 *   Nonaffiliates we share with can include financial services companies such as insurance agencies or mortgage brokers, nonfinancial companies such as retailers, travel companies and membership groups, other companies such as nonprofit groups.
 
-Joint Marketing
+Joint marketing
 
 A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
 
@@ -284,7 +282,7 @@ Other important information
 
 **Do Not Call Policy.** This notice is the Bank of America Do Not Call Policy under the Telephone Consumer Protection Act. We do not solicit via telephone numbers listed on the state or federal Do Not Call lists, unless the law allows. Bank of America employees receive training on how to document and process telephone marketing choices. Consumers who ask not to receive telephone solicitations from Bank of America will be placed on the Bank of America Do Not Call list and will not be called in any future campaigns, including those of Bank of America affiliates. If you communicate with us by telephone, we may monitor or record the call.
 
-**For Nevada residents only.** We are providing you this notice under state law. You may be placed on our internal Do Not Call List by following the directions in the _To limit direct marketing contact_ section. Nevada law requires we provide the following contact information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101. Phone number: 702.486.3132. email: BCPINFO@ ag.state.nv.us. Bank of America, P.O. Box 25118, FL1-300-01-29, Tampa, FL 33633-5118. Phone number: 888.341.5000. email: Click on “Contact Us” at bankofamerica.com/privacy.
+**For Nevada residents only.** We are providing you this notice under state law. You may be placed on our internal Do Not Call List by following the directions in the _To limit direct marketing contact_ section. Nevada law requires we provide the following contact information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101. Phone number: 702.486.3132. email: BCPINFO@ag.state.nv.us. Bank of America, P.O. Box 25118, FL1-300-01-29, Tampa, FL 33633-5118. Phone number: 888.341.5000. email: Click on “Contact Us” at bankofamerica.com/privacy.
 
 **Vermont:** Under Vermont law, we will not share information we collect about Vermont residents with companies outside of our corporate family, unless the law allows. For example, we may share information with your consent, to service your accounts or under joint marketing agreements with other financial institutions with which we have joint marketing agreements. We will not share information about your creditworthiness within our corporate family except with your consent, but we may share information about our transactions or experiences with you within our corporate family without your consent.
 
@@ -296,9 +294,9 @@ Other important information
 
 Bank of America U.S. legal entities
 
-Bank of America U.S. legal entities that utilize the names: Bank of America, Banc of America, U.S. Trust, LandSafe or Merrill Lynch, as well as the following entities: BACAP Alternative Advisors, Inc., BofA Advisors, LLC, BofA Distributors, Inc., General Fidelity Life Insurance Company, Managed Account Advisors LLC, NationsCredit Financial Services Corporation, The Princeton Retirement Group, Inc.
+Bank of America U.S. legal entities that utilize the names: Bank of America, Banc of America, U.S. Trust, LandSafe or Merrill Lynch, as well as the following entities: BACAP Alternative Advisors, Inc., BofA Advisors, LLC, BofA Distributors, Inc., General Fidelity Life Insurance Company, Managed Account Advisors LLC, NationsCredit Financial Services Corporation.
 
-Rev. 01/2015
+Rev. 01/2016
 
 Browser check
 
