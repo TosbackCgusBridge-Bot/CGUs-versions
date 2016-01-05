@@ -77,7 +77,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **NX**
 
-*   Starting at $34,865\*
+*   Starting at $34,965\*
 *   235-hp 2.0L turbo
 
 *   Build
@@ -109,7 +109,7 @@ COMPARE **NX**
 
 **GX**
 
-*   Starting at $50,140\*
+*   Starting at $50,780\*
 *   Full-time 4WD
 
 *   Build
