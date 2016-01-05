@@ -1,7 +1,5 @@
 Terms of Service
 
-Effective November 17, 2015
-
 POPSUGAR Inc., its subsidiaries and affiliates (“POPSUGAR,” “we,” “us,” “our”) owns and operates the POPSUGAR and ShopStyle shopping networks, its network of websites including http://www.popsugar.com and http://www.shopstyle.com , mobile applications, and any other linked and related pages, content, features, products, software, video player and tools offered by POPSUGAR (the “Services”).
 
 *   YOUR ACCEPTANCE OF TERMS
