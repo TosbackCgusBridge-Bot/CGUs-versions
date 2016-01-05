@@ -372,7 +372,7 @@ For Members in the United States: LinkedIn Corporation Attn: Privacy Policy Issu
 *   Universities
 *   Titles
 
-LinkedIn Corporation _© 2015_
+LinkedIn Corporation _© 2016_
 
 *   User Agreement
 *   Privacy Policy
