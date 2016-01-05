@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14380966150
+true true L14385012873
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Sun Jan 03 11:15:19 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Mon Jan 04 11:10:21 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,19 +48,19 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Big Bonus Sales Ends Today Big Bonus Sale
-
-Last Day! In Store and Online
-
-Shop Big Bonus Sale View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Work Out and About For Less Save On Activewear
+Work Out and About For Less Save On Activewear
 
 Select styles
 
-Shop Men's Activewear Shop Women's Activewear Shop Boy's Activewear Shop Girl's Activewear Shop Athletic Shoes Shop Nike Shop Xersion Shop Adidas     40 to 50% Off Sheets, Bath Towels, Pillows and More Last Day! Stock Up White Sale
+Shop Men's Activewear Shop Women's Activewear Shop Boy's Activewear Shop Girl's Activewear Shop Athletic Shoes Shop Nike Shop Xersion Shop Adidas     Great Deals on Arizona Jeans Buy 1, Get 1 Free\* Guys' and Juniors' Arizona Jeans
 
-40 to 50% Off Select Home Items, select styles
+Select styles
 
-Shop Home Collections Shop Bedding and Bath Bras On Sale Stock Up Sale Now Through January 10
+Shop Guys' Arizona Jeans Shop Juniors' Arizona Jeans 40% Off Kids' Arizona Jeans
+
+Select styles
+
+Shop Boy's Arizona Jeans Shop Girl's Arizona Jeans         Bras On Sale Stock Up Sale Now Through January 10
 
 12.99 to 21.99 Bras, select styles
 
