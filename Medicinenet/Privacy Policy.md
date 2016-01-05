@@ -262,4 +262,4 @@ WebMD.com, MedicineNet.com, and eMedicineHealth.com comply with the HONcode stan
 
 Effective Date: September 1, 2015
 
-© 2015 WebMD, LLC. All rights reserved.
+© 2016 WebMD, LLC. All rights reserved.
