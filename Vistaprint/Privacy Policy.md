@@ -15,7 +15,7 @@ Customer Care
 Lexington MA 02421  
 USA  
 Website Security We maintain reasonable physical, electronic, and procedural safeguards designed to help us protect your nonpublic Personal Information against loss, misuse, disclosure and alteration. For example, we use Secure Socket Layer (SSL) technology to encrypt your credit card information when you purchase products through our Website. When you establish an account at Vistaprint, you choose a password to help protect your account information. A password is only as strong as you make it: you should select a unique password and keep it safe. You may change your password as often as you wish by going to My Account section of the Website. Changes to this Privacy Policy Vistaprint may revise this Privacy Policy from time to time by posting a revised Privacy Policy on our Website and changing the last modified date at the top of the Privacy Policy. If we make significant changes to the Privacy Policy, we will note the Privacy Policy has changed on the main page of the Website. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. Vistaprint Address for Written Requests Written request may be sent to the following address. When writing to us, please be sure to include your exact name, mailing address, telephone number and specific preferences or request. Vistaprint Netherlands B.V.  
-c/o \_\[LM:SiteBranding:CompanyName\]\_ USA, Incorporated  
+c/o Vistaprint USA, Incorporated  
 Customer Service  
 275 Wyman Street  
 WalthamMA 02451  
