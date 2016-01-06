@@ -178,7 +178,7 @@ This Privacy Policy is effective as of Tuesday 15 January 2013.
 *   Türkçe
 *   简体中文
 
-*   CBS Interactive © 2015 Last.fm Ltd. All rights reserved
+*   CBS Interactive © 2016 Last.fm Ltd. All rights reserved
 *   Terms of Use
 *   Privacy Policy
 *   Legal Policies
