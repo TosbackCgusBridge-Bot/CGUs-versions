@@ -11,13 +11,13 @@ Sections Scores News Video Stats Standings Schedule Players Postseason Tickets A
     *   Top Prospects
     *   Injury Updates
     *   Transactions
+    *   Hall of Fame
     *   History
     *   World Series
     *   Events
     *   MLB Draft
     *   All-Star Game
     *   Game Notes
-    *   Hall of Fame
     
     Featured
     *   Cut 4
