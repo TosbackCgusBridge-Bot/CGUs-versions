@@ -1,14 +1,21 @@
 Fitbit
 
 *   Products
-    *   _**Everyday** fitness_
-    *   _**Active** fitness_
-    *   _**Performance** fitness_
-    *   _**Wi-Fi** Smart Scale_
-    *   *   **accessories**
-        
-        _**Product** extras_
-    *   Compare all products
+    *   **Everyday**
+        *   Fitbit Zip®
+        *   Fitbit One®
+        *   Fitbit Flex®
+        *   Fitbit Charge™
+    *   **Active**
+        *   Fitbit Charge HR™
+        *   Fitbit Blaze™ new
+    *   **Performance**
+        *   Fitbit Surge™
+    *   **Wi-Fi** Smart Scale
+        *   Fitbit® Aria®
+    *   *   **FITBIT ACCESSORIES**
+        *   **TORY BURCH FOR FITBIT**
+    Not sure which product is right for you? FIND YOUR FIT
 *   Experiences
     *   Mobile App + Dashboard
     *   Premium Membership
@@ -22,12 +29,11 @@ Fitbit
     *   Blog
     *   Buzz
     *   Fitness Quiz
-    *   FitForGood
-    *   Fitbit Local
 *   Help
     *   Product Help
     *   Wear and Care
 
+*   *   Your cart is currently empty. Let's shop
 *   Store
 *   Log in
 *   Setup
