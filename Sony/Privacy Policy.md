@@ -40,7 +40,21 @@ PlayMemoriesSpark your imagination &. find new ways to enjoy your photos. Explor
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! The Wonders of Winter Captured in 4K
+Your browser does not support JavaScript! Adding the Extraordinary to Your Everyday
+
+See Our CES Announcements
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+See Our CES Announcements
+
+The Wonders of Winter Captured in 4K
 
 Grab an Action Cam &. Go
 
@@ -54,9 +68,9 @@ Close
 
 Grab an Action Cam &. Go
 
-New Innovations Coming Soon
+Live Stream Our CES Press Conference
 
-Get Ready
+Starting at 5PM PST/8PM EST
 
 Close
 
@@ -66,7 +80,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Get Ready
+Starting at 5PM PST/8PM EST
 
 Your Life, Quantified
 
@@ -86,9 +100,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-The countdown begins. Tune in for #SonyCES LIVE tomorrow at 5PM. sony.com/ces
+And we're LIVE #SonyCES #CES2016
 
-2016-01-05 05:00:04+00:00
+2016-01-06 13:19:57+00:00
 
 View Tweet
 
@@ -142,9 +156,9 @@ Find Out How
 
 Sony on Twitter
 
-We're aware that some users are having trouble accessing PSN. Thanks for your patience as we investigate.
+More than 40 PS3 exclusives join the PS Now subscription library today: playstation.com
 
-2016-01-05 05:49:32+00:00
+2016-01-06 05:13:06+00:00
 
 View Tweet
 
@@ -230,9 +244,9 @@ Start Bidding
 
 Sony on Twitter
 
-Earn Sony Rewards points when you upload your @ConcussionMovie ticket.
+How To Become a Rap Star (according to Big Tasty). #TheGoldbergs are back for an all-new episode tomorrow!
 
-2016-01-05 04:31:51+00:00
+2016-01-05 19:30:01+00:00
 
 View Tweet
 
