@@ -98,307 +98,289 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ World North Korea claims to have detonated a hydrogen bomb
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Markets China stocks dive 7%. trade halted
 
 TOP STORIES
 
-*   Nation FBI: 18 minutes missing in San Bernardino shooting timeline
-*   OnPolitics Trump plays the birther card on Ted Cruz
-*   News 10 fun gadgets 'Unveiled' at CES 2016
-*   Steely Dan's Donald Fagen arrested in NYC
-*   Apple stock crash nears another scary level
-*   Marine arrested in Texas student’s NYE shooting
-*   Amy Schumer brings her 'man' to the White House
-*   'NCIS' favorite Michael Weatherly is leaving show
-*   Huge Powerball jackpot jumps to $450M
-*   Ryan Howard, Ryan Zimmerman sue Al Jazeera
-*   Obama can't commute 'Making a Murderer' sentence
-*   This smart blender is here to improve your smoothies
+*   Nation Now $500M Powerball jackpot winning numbers are …
+*   Bucs Buccaneers shockingly fire coach Lovie Smith
+*   Life People's Choice Awards 2016
+*   Rude! Stage-crasher interrupts the People's Choice Awards
+*   25,000 U.S. troops wait for next step in Korea
+*   Biden: Obama actions help law-abiding gun owners
+*   'Star Wars' passes 'Avatar' to rule box office
+*   Macy's to eliminate 4,500 positions
+*   Marine boot camp, job titles to be gender neutral
+*   Wearable translator may smash language barriers
+*   Griffey, Piazza elected to baseball Hall of Fame
+*   Ala. chief justice defies gay-marriage ruling
 
-Money
+Entertain This
 
-Vegas newspaper owners in damage control mode
+Dad of Bristol Palin's second baby goes public
 
-NCAAF
+Entertain This
 
-What Playoff entrants did with NCAA stipends
-
-Indycar
-
-Former Indy Racing League driver gets 25 years for child sex abuse
-
-News
-
-Twitter suspends account of Oregon militia leader
-
-OUR PICKS Washington
-
-Tearful Obama unveils plan to tighten gun sales
-
-Tech
-
-The 5 coolest things we've seen so far at CES 2016
+Watch Dakota Johnson's wardrobe malfunction
 
 Nation Now
 
-Mom of 'affluenza' teen says she'll return to Texas
+Texas trooper indicted in Sandra Bland case faces dismissal
 
-Today in the Sky
+Voices
 
-Flight attendants audition in bikinis for China job
+Voices: Is Faraday Future Apple's hidden elephant?
 
-Chris Christie, rising in N.H., fires at Donald Trump, Ted Cruz
+OUR PICKS Washington
 
-USA Today's Susan Page talks to NJ Governor Chris Christie, a 2016 GOP presidential candidate.
+White House skeptical of N. Korea H-bomb claims
 
-1 of 23 See more video
+People
 
-Millennial resolutions: Lower your interest paid on student loans
+Los Angeles DA declines to prosecute Cosby on criminal charge
 
-This year, commit to putting even just $5 to $10 more a month toward student loans.
+News
 
-2 of 23 See more video
+10 fun gadgets 'Unveiled' at CES 2016
 
-Cat rescued from wall must really have 9 lives!
+World
 
-A cat was trapped in between two walls and rescued by local firefighters. The cat has been named "Lucky" and is resting at an animal hospital, waiting for adoption.
+The Nuclear Club: Who are the 9 members?
 
-3 of 23 See more video
+State of the Union: 6 years of speeches in 4 minutes
 
-Burgers will be cheaper in 2016, but you may not like why
+As President Obama prepares to deliver his final State of the Union Address on January 12, we look back at his previous six messages to Congress.
 
-The price of fatty beef is going down due to farmers overfeeding cows, and fewer Americans eating red meat. Gillian Pensavalle (@GillianWithaG) explains.
+1 of 20 See more video
 
-4 of 23 See more video
+Lotto ticket up for auction but with a catch
 
-Bachelor premiere recap: The bizarre moments
+A Michigan man is auctioning his Cash for Life winning lotto ticket which has paid him $1,000 a month since 1984. But the opening bid may surprise you.
 
-The premiere of ABC's The Bachelor was filled with plenty of interesting moments from the women vying for Ben Higgins' hand in marriage.
+2 of 20 See more video
 
-5 of 23 See more video
+Longtime sign painter leaves behind a legacy
 
-Unique fitness classes to get you excited about working out
+A local grocery store sign painter in Minnesota is hanging it up after 55 years but it's who he's leaving his business behind to and why that makes this much more than just a story of retirement.
 
-Fitness classes are a great way to get in shape and one-up your friends on Instagram. Keri Lumm (@thekerilumm) has some ideas.
+3 of 20 See more video
 
-6 of 23 See more video
+Luxury en vogue for RVs
 
-Trump ad shows Morocco instead of Mexican border
+Low gas prices mean buyers are willing to pay for the comforts of home on wheels. USA TODAY reporter Trevor Hughes takes you inside the nation's largest RV show. Video by Trevor Hughes, USA TODAY
 
-The campaign said the use of the footage was "intentional." Video provided by Newsy
-
-7 of 23 See more video
-
-Teacher's epic dance moves go viral
-
-Students at the Ron Clark Academy in Atlanta shot a video dancing with their teacher and school founder Ron Clark. In only 24 hours, the video has 30 million views.
-
-8 of 23 See more video
-
-Weird things dogs ate in 2015
-
-Vets in Britain revealed the weirdest things they removed from dogs in 2015 during surgery. Patrick Jones (@Patrick\_E\_Jones) explains.
-
-9 of 23 See more video
-
-Sheep found after 6 years gets a trim
-
-For six years, a sheep named Sheila had been lost amidst the dense forest of Tasmania. She was rescued when a man found her unable to move because of the weight of her fleece. On Monday, the sheep was sheared, shedding 46 pounds of wool. (Jan. 4)
-
-10 of 23 See more video
-
-Sushi boss pays $117K for endangered tuna
-
-A Japanese sushi boss pays more than $117,000 for a giant bluefin tuna as Tokyo's Tsukiji fish market holds its last New Year auction ahead of a much-needed modernisation move. Video provided by AFP
-
-11 of 23 See more video
-
-'New Jihadi John' appears in Islamic State video
-
-A new execution video released by the Islamic State features a familiar figure and threat.
-
-12 of 23 See more video
-
-This inflatable hoodie is perfect for naps and stylish too
-
-A small company's already successful kickstarter campaign has people dreaming of a hoodie with a pillow in the hood. Naps are coming. Patrick Jones (@Patrick\_E\_Jones) has the rest.
-
-13 of 23 See more video
-
-14-Year-old dog abandoned before Christmas gets loving home for final days
-
-A blind 14-year-old dog named Blackie was dropped off at an animal shelter just a few days before Christmas. His story caught the attention of volunteer who decided to give Blackie a loving home for his final days. Their story has gone viral.
-
-14 of 23 See more video
-
-Obama sheds tears as he calls for new gun measures
-
-President Obama announced a series of executive actions on guns, and shed tears as he remembered the victims of gun violence.
-
-15 of 23 See more video
-
-Company makes world's largest sticker ball
-
-Weighing in at more than 220 pounds and built from more than 100,000 individual stickers, this unusual ball is headed for the record books, reporter Trevor Hughes explains.
-
-16 of 23 See more video
+4 of 20 See more video
 
 CES 2016 - Five coolest things we saw so far
 
 Jefferson Graham runs down the 5 coolest things he saw at CES so far, including a new 4K 360 camera, a device to deal with thinning hair and a steering wheel attachment to help curb distracted driving.
 
-17 of 23 See more video
+5 of 20 See more video
 
-Cat rescued from wall must really have 9 lives!
+10 great gadgets from CES 2016
 
-A cat was trapped in between two walls and rescued by local firefighters. The cat has been named "Lucky" and is resting at an animal hospital, waiting for adoption.
+Columnist Jennifer Jolly shares her favorite devices from the Consumer Electronics Show.
 
-18 of 23 See more video
+6 of 20 See more video
 
-Fitbit takes on Apple with smartwatch
+CES 2016: This drone can avoid obstacles
 
-No. 1 wearable gadget maker Fitbit is taking in Apple with a new smartwatch. CEO James Park sits down with Jefferson Graham for a preview.
+From CES 2016: Jefferson Graham previews the new drone that knows when a building or tree is nearby, and steps out of the way automatically.
 
-19 of 23 See more video
+7 of 20 See more video
 
-See bobcat kitten orphan emerge from rehab cage
+5 coolest security tech seen @CES 2016
 
-An orphaned bobcat was released back into the wild three months after the loss of her mom, who was electrocuted while climbing a power pole.
+From using your eyes to sign in to an ATM to a new battery powered security camera with two-way voice capabality, Jefferson Graham runs down the 5 coolest security tech he's seen yet at CES 2016.
 
-20 of 23 See more video
+8 of 20 See more video
 
-Worst pizza delivery driver shows up 90 minutes late, stabs customer
+LEVL breathalyzer detects if you're burning body fat
 
-Police in Covina, California arrested a Domino's Pizza delivery driver for allegedly stabbing a customer after arguing over the 90 minute wait time on the delivery. Sean Dowling (@seandowlingtv) has more.
+At the Consumer Electronics Show in Las Vegas, columnist Jennifer Jolly checks out the LEVL, a breathalyzer that can tell how much fat you're burning.
 
-21 of 23 See more video
+9 of 20 See more video
 
-5 state licenses not valid at airports
+Plane skids off icy runway, passengers stranded
 
-Due to the Real ID Act several state issued licenses are not considered valid by Homeland Security and the TSA. Patrick Jones (@Patrick\_E\_Jones) explains.
+Airport crews in Spokane, Washington pulled a stranded plane out of the snow after it slid off the taxiway.
 
-22 of 23 See more video
+10 of 20 See more video
 
-Minor league hockey game ends with massive brawl
+50-ft Revolutionary War-era ship found near hotel site
 
-A brawl broke out on Saturday night at the conclusion of a game between the ECHL's Rapid City Rush and Tulsa Oilers, resulting in 216 penalty minutes and five suspensions.
+Archeologists are rushing to recover the remains of a centuries-old ship unearthed at a construction site for a new hotel in Alexandria, Virginia.
 
-23 of 23 See more video Last VideoNext Video news
+11 of 20 See more video
 
-FBI: 18 minutes missing in San Bernardino shooting timeline
+6 things to know about the $450M Powerball jackpot
 
-N. Korea tests hydrogen bomb, earthquake reported
+Here are the things to know before you buy your lottery ticket for the $450 million Powerball jackpot.
 
-27 minutes | World
+12 of 20 See more video
 
-Marine arrested in Texas student’s shooting deathToday in History for January 6thUSA TODAY GOP Power Rankings: Carson and Fiorina fading sports
+Twitter may increase character limit to 10,000...or less
 
-Armour: Failed NFL coaches still finding multiple suitors
+Twitter's CEO confirmed the company is looking at ways to get around the 140-character limit. Mara Montalbano (@maramontalbano) has the story.
 
-Ranking eliminated teams for 2016 Super Bowl push
+13 of 20 See more video
 
-9 hours, 29 minutes | NFL
+Rescuers post to owner who abandoned their dog goes viral
 
-Spurs are breathing down Warriors' necks in WestMLB stars file defamation suit over PED reportStory behind tent on Alabama's football sideline life
+Heartbreaking video of an abandoned dog left at the end of a dirt road has gone viral. So has the scathing post that goes with it, aimed directly at the person responsible. Sean Dowling (@seandowlingtv) has more.
 
-'Goldbergs' mines more '80s touchstones
+14 of 20 See more video
 
-Cross WordsAll GamesEntertain This! Instagram official: Amy Schumer brings her new 'man' to the White…Leaner times can't erase memory of 'Idol' gloryReview: Riveting performances power new 'American Crime' season money
+NYC to replace payphones with free Wi-Fi
 
-Vegas newspaper owners in damage control mode
+Out with the old, vandalized pay phones, in with the new, shiny, free Wi-Fi hot spot pillars. Video provided by Newsy
 
-StocksPortfolio TrackerAmerica's Markets Small biz trends: Fasten your seat belts, entrepreneursRecord numbers of bad brokers in 2015One thing Obama's gun plan can't take away tech
+15 of 20 See more video
 
-10 fun gadgets 'Unveiled' at CES 2016
+Kidnapped car salesman shares his story
 
-Samsung’s TV business: Dominant, but not standing still
+The Houston car salesman was beaten and put in the trunk of a car during a test drive Monday, Jan. 4, 2016.
 
-3 hours, 33 minutes | Tech
+16 of 20 See more video
 
-Breathalyzer can tell whether you're burning fatFirst Response unveils first Bluetooth pregnancy testSony announces new TV lineup travel
+Adorable baby gorilla gets her first physical
 
-The 53 largest cruise ships in the world
+An adorable baby gorilla gets her first check up with the vet and it is beyond cute! The six-week-old infant weight just seven pounds and is healthy as can be. Keleigh Nealon (@keleighnealon) has the story!
 
-The most affordable times to visit the world's priciest…
+17 of 20 See more video
 
-15 hours, 5 minutes | Destinations
+Burgers will be cheaper in 2016, but you may not like why
 
-Amtrak's Southwest Chief service keeps rolling on new tracksCalifornia's culinary capital: Los Angeles or San Francisco?New thrills for 2016: The coolest rides coming to theme parks Reviewed.com
+The price of fatty beef is going down due to farmers overfeeding cows, and fewer Americans eating red meat. Gillian Pensavalle (@GillianWithaG) explains.
 
-Sony announces new TV lineup
+18 of 20 See more video
 
-This smart scale is here to improve your smoothies
+These competitive sign spinners will make you dizzy
 
-2 hours, 39 minutes | Tech
+Spinners showed off their skills at the Denver preliminaries for a spot to compete at the 9th World Sign Spinning Championship in Las Vegas.
 
-Dual-load your laundry with LG's new mini-washSamsung announces its 2016 lineup of TVsNikon's new D5: The first pro DSLR to shoot 4K video experience
+19 of 20 See more video
 
-A dog's life: Bring along (and pamper) your pup while traveling
+Teacher's epic dance moves go viral
 
-16 flavors to celebrate in 2016
+Students at the Ron Clark Academy in Atlanta shot a video dancing with their teacher and school founder Ron Clark. In only 24 hours, the video has 30 million views.
 
-4 days, 17 hours | Food &. Wine
+20 of 20 See more video Last VideoNext Video news
 
-How to keep New Year's Resolutions on your Caribbean vacationBest of 2015: Idyllic and picturesque towns in each statePlan your city escape with USA TODAY Travel's destination guides VOICES Opinion
+Powerball jackpot spikes to $500 million
 
-Obama takes small steps on guns: Our view
+Ala. chief justice defies high court gay-marriage ruling
+
+5 hours, 42 minutes | News
+
+Texas trooper indicted in Sandra Bland case faces dismissal7 reasons Chris Christie is poised for an Iowa bumpPowerball frenzy boosts pot to $500M. did anyone win? sports
+
+Buccaneers shockingly fire Lovie Smith
+
+Get ready for one of the coldest NFL games ever
+
+7 hours, 31 minutes | NFL
+
+Nightengale: The Kid was always destined for HallGriffey Jr., Piazza elected to HOFLeBron's marketing agency cuts ties with Manziel life
+
+Rude! Stage-crasher interrupts the People's Choice Awards
+
+Cross WordsAll GamesEntertain This! Ooh Rah! The father of Bristol Palin's second baby goes publicWatch Dakota Johnson's wardrobe malfunction at the People's Choice…List: Who won People's Choice Awards? money
+
+China stocks dive 7% early, trade halted for the day
+
+StocksPortfolio TrackerAmerica's Markets Macy's announces layoffs, lists 36 store closuresJobs report could shed light on slowing economy$10.3M man: Apple CEO gets big raise tech
+
+Is Faraday Future a front for Apple?
+
+IBM unveils new Watson partners in Internet of Things push
+
+3 hours, 22 minutes | News
+
+$10.3M man: Apple CEO gets big raiseWearable translator smashes language barriersGM's Barra takes a dig at auto 'newcomers' travel
+
+Roadside Americana: Travel the USA in photos
+
+2016 spirits preview: New releases and tasting rooms
+
+1 week, 1 day | Food &. Wine
+
+Airfare 2016: What you need to knowGroovy Caribbean: The region's best music festivals in 2016The 53 largest cruise ships in the world Reviewed.com
+
+Forget home-brewing — this gadget will do it for you
+
+New smart thermometer tracks your family's temps
+
+6 hours, 43 minutes | Tech
+
+This bracelet is hiding Bluetooth headphonesProjections for global tech sales are bleakThis laundry machine is the first truly smart washer experience
+
+California's culinary capital: Los Angeles or San Francisco?
+
+A dog's life: Bring along (and pamper) your pup while…
+
+2 days, 17 hours | America
+
+How to keep New Year's Resolutions on your Caribbean vacation16 flavors to celebrate in 2016Plan your city escape with USA TODAY Travel's destination guides VOICES Opinion
+
+North Korea has bedeviled more presidents than just Obama: Column
+
+Rieder
+
+Rieder: Longer tweets? Is nothing sacred?
+
+Elections
+
+Candidate Match Game: Find your 2016 favorite
+
+Opinion
+
+Marco Rubio's very bad idea: Our view
 
 Voices
 
 Voices: More guns are simply not the answer
 
+Christine Brennan
+
+Brennan: Bid to move Rams betrays St. Louis
+
 Opinion
 
-America between a Shiite and a Sunni place: David Andelman
-
-Opinion
-
-Kirsten Powers - A tale of two Bills: Cosby, Clinton and predatory men
-
-Voices
-
-Voices: For some, foreclosure means free housing
-
-Voices
-
-Voices: A year of terrorism has changed Paris
+Garrison Keillor: Trump, Ventura and political performance art
 
 News
 
 CES 2016 complete coverage
 
-Money
-
-From chemical to digital: Bridging the photographic divide
-
-*   Kristen Stewart, Baldwins light up NYFCC red carpet
+*   Life in North Korea
+*   Stars hit the red carpet at NBR gala
 *   CES 2016: The coolest tech you have to see
-*   Best of NFL Week 17
-*   The hottest new cruise ships of 2016
+*   Day in Sports
 *   January political cartoons from Gannett cartoonists
 
 Most Popular
 
-*   Apple stock crash nears another scary level
+*   Macy's announces layoffs, lists 36 store closures
     
-*   FBI: 18 minutes missing in San Bernardino shooting timeline
+*   Donald Trump has America's pulse: Rick Scott
     
-*   Obama announces gun actions in emotional plea for congressional action
+*   Ken Griffey Jr., Mike Piazza elected to baseball Hall of Fame
     
-*   N. Korea tests hydrogen bomb, earthquake reported
+*   It's official: 'Star Wars' passes 'Avatar' to rule box office
     
 
 Trending on Social
 
-*   N. Korea tests hydrogen bomb, earthquake reported
+*   Watch Vin Diesel's tear-jerking People's Choice Awards speech
     
-*   MasterCard lets you order groceries from this Samsung fridge
+*   List: Who won People's Choice Awards?
     
-*   Twitter restores suspended account of Oregon militia leader Ammon Bundy
+*   Donald Trump has America's pulse: Rick Scott
     
-*   Marine arrested in Texas student’s shooting death
+*   Bucs fire Lovie Smith on heels of effusive praise from Jameis Winston
     
-*   2-year-old Georgia girl likely to survive shooting
+*   Buccaneers fire coach Lovie Smith after 2 seasons
     
 
 SPONSOR CONTENT Right Now
