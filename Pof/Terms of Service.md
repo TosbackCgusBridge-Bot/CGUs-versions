@@ -140,7 +140,6 @@ Press
 Careers  
 Terms of Service
 
-  
 Get the POF Mobile app
 
 **Countries**  
