@@ -54,23 +54,9 @@ Close
 
 See Our CES Announcements
 
-The Wonders of Winter Captured in 4K
+Let There Be Light and Music
 
-Grab an Action Cam &. Go
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Grab an Action Cam &. Go
-
-Live Stream Our CES Press Conference
-
-Starting at 5PM PST/8PM EST
+See the Glass Sound Speaker
 
 Close
 
@@ -80,11 +66,11 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Starting at 5PM PST/8PM EST
+See the Glass Sound Speaker
 
-Your Life, Quantified
+Your Story, Captured in 4K
 
-Try SmartBand 2
+Meet the New Handycam
 
 Close
 
@@ -94,15 +80,33 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Try SmartBand 2
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Extra Bass + Special Effects =
+
+Party Time
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Party Time
 
 Sony on Instagram
 
 Sony on Twitter
 
-And we're LIVE #SonyCES #CES2016
+Get a first look at some of the newest #SonyCES products: youtube.com
 
-2016-01-06 13:19:57+00:00
+2016-01-07 04:05:07+00:00
 
 View Tweet
 
@@ -244,9 +248,9 @@ Start Bidding
 
 Sony on Twitter
 
-How To Become a Rap Star (according to Big Tasty). #TheGoldbergs are back for an all-new episode tomorrow!
+Season 2 of @SportsJeopardy! is in full-swing. Stream now and test your sports knowledge! crackle.com
 
-2016-01-05 19:30:01+00:00
+2016-01-07 04:39:02+00:00
 
 View Tweet
 
