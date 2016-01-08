@@ -198,4 +198,4 @@
 
 Last updated March 4, 2011
 
-Copyright © 2013 Typepad, Inc. All rights reserved.
+Copyright © 2016 Typepad, Inc. All rights reserved.
