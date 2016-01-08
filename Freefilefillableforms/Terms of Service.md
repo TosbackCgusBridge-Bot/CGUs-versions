@@ -33,7 +33,7 @@ Text Search Advanced
 *   Help &. Resources
 *   for Tax Pros
 
-Like - Click this link to Add this page to your bookmarks Share - Click this link to Share this page through email or social media Print - Click this link to Print this page Free File Fillable Forms is Now Closed Check back on January 19, 2016 to use Free File Fillable Forms
+Like - Click this link to Add this page to your bookmarks Share - Click this link to Share this page through email or social media Print - Click this link to Print this page Free File Fillable Forms is Now Closed Check back on January 19, 2016 at 1pm EST to use Free File Fillable Forms.
 
 **Things you can do to get ready:**
 
@@ -52,7 +52,7 @@ Information and links that may assist you:
 
 The Free File Fillable Forms program welcomes your comments.
 
-Page Last Reviewed or Updated: 04-Jan-2016
+Page Last Reviewed or Updated: 07-Jan-2016
 
 *   Our Agency
     
