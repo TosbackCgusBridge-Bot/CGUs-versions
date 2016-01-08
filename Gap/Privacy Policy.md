@@ -226,8 +226,8 @@ How do I contact you?
 For questions about our privacy policy, to make choices about receiving promotional communications, to update your personal information, or to place an order, you can contact any of our Gap Inc. brands by email, telephone, or postal mail:
 
 Gap Customer Services  
-5930 Gap Online Drive  
-Groveport, OH 43195-0002  
+100 Gap Online Drive  
+Grove City, OH 43123  
 1-800-GAPSTYLE (1-800-427-7895)  
 1-888-906-1104 (TDD hearing impaired)  
 custserv@gap.com
