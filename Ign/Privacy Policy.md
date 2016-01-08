@@ -54,7 +54,7 @@ Several of the services that we offer require registration as a condition of use
 
 Please note that Ziff Davis is not responsible for the information you volunteer about yourself in the discussions in our forums, blogs, wikis, chat rooms, or other publicly accessible interaction, or information that you choose to make public in your member profile or other areas that allow users to upload or post content. We discourage users from posting personally identifiable information in this fashion, and any personally identifiable information you post to these areas is not covered by this Privacy Policy. You can change your publicly available information at any time via your profile page or to request removal of your Personal Information from these areas, please see our section on Updating Your Registration Information in this Privacy Policy. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why. Please refer to the Terms of Use for our websites for more information.
 
-We display personal testimonials of satisfied customers on our emedia web sites in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at ZDLegal1@ziffdavis.com **and be sure to include “Privacy Policy” in the subject line.**
+We display personal testimonials of satisfied customers on our emedia web sites in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at ZDLegal1@ziffdavis.com **and be sure to include “Privacy Policy” in the subject line.**
 
 _Referrals_  If you choose to use our referral service to send an article to a friend, we will ask you for your friend’s email address. We will automatically send your friend a one-time email inviting him or her to visit the website. Ziff Davis does not store your friend’s email address.
 
@@ -152,7 +152,7 @@ _Pixel Tags_.  You can disable pixel tags by changing your browser settings to 
 
 _Updating Your Registration Information_. You can correct, delete or change the information collected during user registration at any time at the profile page for that membership, app or website. Please allow five to ten business days for corrections or changes to be publicly displayed or implemented throughout our systems.
 
-You may opt-out of location-based services at any time by editing the setting at the device level or by emailing us at ZDLegal1@ziffdavis.com;**and be sure to include “Privacy Policy” in the subject line.**
+You may opt-out of location-based services at any time by editing the setting at the device level or by emailing us at ZDLegal1@ziffdavis.com;**and be sure to include “Privacy Policy” in the subject line.**
 
 If you have any trouble accessing, correcting or deleting any of your information, contact the website directly by clicking on the appropriate link (which should lead to a “Contact Us” or support page):
 
@@ -235,4 +235,4 @@ If you have an unresolved privacy or data use concern that we have not addressed
   
 A j2 Global, Inc. Company
 
-Use of the site is governed by our Terms of Use and Privacy Policy. Copyright 1996-2015 Ziff Davis. All Rights Reserved. Reproduction in whole or in part in any form or medium without express written permission of Ziff Davis, LLC. is prohibited.
+Use of the site is governed by our Terms of Use and Privacy Policy. Copyright 1996-2016 Ziff Davis. All Rights Reserved. Reproduction in whole or in part in any form or medium without express written permission of Ziff Davis, LLC. is prohibited.
