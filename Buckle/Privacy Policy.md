@@ -61,12 +61,10 @@ My Bag (0) Wish List Search
     *   How to Return
     *   International Return Policy
 *   Promotions
-    *   Buckle Card Rock Revival Double Points
+    *   Buckle Card Double Points 2016
     *   Buckle Card Free Wallet or Wristlet
-    *   Buckle Card 20th Anniversary
-    *   Best of the Blues Official Rules
-    *   Buckle Card Free Lanyard with Purchase 2015
     *   Social Giveaway Official Rules
+    *   Best of the Blues Official Rules
     *   Store Events
     *   Sweepstakes Winners
 *   Gift Cards/Services
