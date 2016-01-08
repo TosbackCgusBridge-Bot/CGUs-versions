@@ -65,9 +65,9 @@ Publishing
 
 We reserve the right to publish emails and letters sent to The Register. If the sender asks that that we don't reveal his or her identity, that information won't be published. We never publish a private email address unless specifically asked to do so by its owner.
 
-Rackspace
+Our servers
 
-Peer 1 hosts The Register's websites. It outlines its regulatory responsibilities here.
+Peer 1 hosts The Register's websites.
 
 Data Protection
 
