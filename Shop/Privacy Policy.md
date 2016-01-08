@@ -17,13 +17,15 @@ LENOVO Menu
         5.  Ready to Ship PCs
         6.  Coupon Page
         7.  Deals for Students and Educators
-    *   New Year. New Savings. Make a resolution to save!
+    *   Winter Sale Enjoy a blizzard of savings!
         
-        Sale ends January 6.
+        Sale ends January 13.
+        
+    *   Powerful Gaming PCs.
+        
+        Check out the Y700 Series for the perfect gaming experience.
         
     *   Lenovo Preferred Card The Best Offers with Instant and Affordable Financing.
-        
-    *   NEED IT QUICK? Prebuilt models of our most popular PCs ship to your door sooner!
         
 *   Support
     *   Help placing an order 24 hours a day, 7 days a week  
