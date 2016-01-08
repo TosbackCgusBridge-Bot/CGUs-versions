@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14389265592
+true true C14306072125
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Wed Jan 06 11:15:21 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Thu Jan 07 11:15:35 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,23 +48,27 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Work Out and About For Less Save On Activewear
+$10 Off\* $25 or More In Store and Online | Ends January 10 | Code: SUPERSAV Print CouponOr, Extra 25% Off\* $100 or More Online Only | Ends January 10 | Code: BIGSAVE Or, Extra 20% Off\* Online Only | Ends January 10 | Code: BIGSAVE \*Exclusions and details Sale Starts Now In Store and Online! Super Saturday Sale, Ends January 10 Night and Day Doorbusters
+
+Friday 3 PM CST Through Saturday 1PM CST
+
+Shop Super Saturday Sale View Store Ad Shop Night and Day Doorbusters Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Workout Clothes On Sale Save On Activewear
 
 Select styles
 
-Shop Men's Activewear Shop Women's Activewear Shop Boy's Activewear Shop Girl's Activewear Shop Athletic Shoes Shop Nike Shop Xersion Shop Adidas     Great Deals on Arizona Jeans Buy 1, Get 1 Free\* Guys' and Juniors' Arizona Jeans
+Shop Men's Activewear Shop Women's Activewear Shop Boy's Activewear Shop Girl's Activewear Shop Athletic Shoes Shop Nike Shop Xersion Shop Adidas     Save On Curtains, Drapes and More Home Sale
+
+30 to 50% Off Select Home Items
+
+Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Great Deals on Arizona Jeans Buy 1, Get 1 Free\* Guys' and Juniors' Arizona Jeans
 
 Select styles
 
-Shop Guys' Arizona Jeans Shop Juniors' Arizona Jeans 40% Off Kids' Arizona Jeans
+Shop Guys' Arizona Jeans Shop Juniors' Arizona Jeans40% Off Kids' Arizona Jeans
 
 Select styles
 
-Shop Boy's Arizona Jeans Shop Girl's Arizona Jeans         Bras On Sale Stock Up Sale Now Through January 10
-
-12.99 to 21.99 Bras, select styles
-
-Shop Bras Up To 80% Off Clea New Markdowns! 60 to 80% Off Clearance
+Shop Boy's Arizona Jeans Shop Girl's Arizona Jeans         Up To 80% Off Clea New Markdowns! 60 to 80% Off Clearance
 
 In Store and Online
 
