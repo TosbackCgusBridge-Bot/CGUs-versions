@@ -1,4 +1,12 @@
-    Aéropostale
+ EXTRA 40% OFF CLEARANCE USE CODE EXTRA40     Girls   Guys   Room  
+
+DETAILS
+
+FREE SHIPPING ON $100
+
+DETAILS
+
+Aéropostale
 
 *   Girls
     
@@ -66,7 +74,6 @@
     *   Henleys + Tees
     *   Shirts
     *   Hoodies
-    *   Sweaters
     
     *   BOTTOMS
     *   Jeans
