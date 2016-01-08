@@ -160,9 +160,9 @@ Find Out How
 
 Sony on Twitter
 
-More than 40 PS3 exclusives join the PS Now subscription library today: playstation.com
+No fear. You can also register @TheWalkMovie disc for Sony Rewards points. sonyrewards.com
 
-2016-01-06 05:13:06+00:00
+2016-01-06 17:57:01+00:00
 
 View Tweet
 
@@ -212,7 +212,11 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Introducing the RX1R II Compact Camera
+Play Video
+
+Sony on YouTube
+
+Play Video
 
 Steve Martin on "Comedians in Cars Getting Coffee"
 
