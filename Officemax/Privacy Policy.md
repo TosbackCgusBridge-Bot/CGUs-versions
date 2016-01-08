@@ -13,11 +13,13 @@ SEG1 hp
 
 Office Depot Deals
 
-\_4uoA0ROAQR77JsZTe0KsoI Recommended Products
+9ceP4ebcWPcLtCiVLVzqPsz
 
-Category Matches
+Search Suggestions
 
 Your recent searches
+
+Category Matches
 
 *   STORES
 *   CART 0
