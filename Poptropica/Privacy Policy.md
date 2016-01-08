@@ -14,7 +14,7 @@ Dictionary
 About Family Education Network  
 About Our Partners  
 Help  
-PRIVACY STATEMENT (10/2015)
+PRIVACY STATEMENT (1/2016)
 
 FEN, a division of Sandbox Networks, Inc., ("FEN") operates this website ("Website") and is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to family and educator concerns about children's safety and information related to them. We want you to know about and understand the measures we have taken to keep the websites and online services provided by FEN a safe and secure environment for everyone. This privacy statement tells you about the types of information that we collect from you, how we collect that information from you and how we use that information.
 
@@ -24,7 +24,7 @@ If you have any questions or concerns about this privacy statement, or your deal
 
 a) E-mail us at Customer Support.
 
-b) Write to us at: FEN, 501 Boylston St, Suite 900, Boston, MA 02116. or
+b) Write to us at: FEN, 50 Congress St, Suite 1025, Boston, MA 02109. or
 
 c) Call us at: 1-800-498-3264.
 
