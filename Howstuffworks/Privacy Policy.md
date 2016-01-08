@@ -1,5 +1,3 @@
-Follow us
-
 *   NOW
 *   Adventure
 *   Animals
@@ -16,11 +14,63 @@ Follow us
 *   Shows
 *   Quizzes
 
-*   Home
+Follow us
 
-Privacy Policy
+Facebook
+
+YouTube
+
+Twitter
+
+Pinterest
+
+Toggle navigation
+
+Follow us
+
+Facebook
+
+YouTube
+
+Twitter
+
+Pinterest
+
+*   NOW
+*   Adventure
+*   Animals
+*   Auto
+*   Culture
+*   Entertainment
+*   Health
+*   Home &. Garden
+*   More
+    *   Lifestyle
+    *   Money
+    *   Science
+    *   Tech
+    *   Video
+    *   Shows
+    *   Quizzes
+*   Lifestyle
+*   Money
+*   Science
+*   Tech
+*   Video
+*   Shows
+*   Quizzes
+
+Privacy Policy | HSW
 
 **Privacy Policy**
+
+Up Next
+
+*   Stuff Mom Never Told You: Should Women Own Guns?
+*   The Cola Wars: Coca-Cola vs. Pepsi Quiz
+*   The Ultimate ThunderCats Quiz
+*   The U.S. Presidential Debates Quiz
+*   The Ultimate Titanic Movie Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -236,20 +286,21 @@ Email: hsw\_privacy@infospace.com
 
 Last Updated On: May 30, 2014
 
-Print Cite This! Close  Please copy/paste the following text to properly cite this HowStuffWorks article:  
-  
-"Privacy Policy"  01 April 2000.  HowStuffWorks.com. <http://www.howstuffworks.com/privacy.htm>.  07 January 2016. Citation &. Date Feedback
+Print | Citation &. Date
 
-*   About Us
+More to Explore About Us
 
-*   About Us
-    *   About HowStuffWorks
-    *   Awards
-    *   Advertising
-    *   Working for HowStuffWorks
-    *   Freelance Writers: Apply to Write for HowStuffWorks
+**About HowStuffWorks**
 
-CHECK OUT OUR PODCASTS
+**Awards**
+
+**Advertising**
+
+**Working for HowStuffWorks**
+
+**Freelance Writers: Apply to Write for HowStuffWorks**
+
+More to Explore
 
 *   About
 *   Shows
@@ -276,7 +327,7 @@ Get the best of HowStuffWorks by email. Keep up to date on:
 *   Tours
 *   Weird &. Wacky
 
-Sign-up Now! Sign Up
+Sign-up Now! Testing this long verbose error message to check the behaviour
 
-Copyright © 1998-2015 HowStuffWorks,  
+Copyright © 1998-2016 HowStuffWorks,  
 a division of InfoSpace LLC
