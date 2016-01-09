@@ -66,11 +66,11 @@ Privacy Policy | HSW
 
 Up Next
 
+*   HowStuffWorks NOW: The High Tech Cars of CES 2016
+*   Who Said It? The 'Game of Thrones' Quiz
 *   Stuff Mom Never Told You: Should Women Own Guns?
 *   The Cola Wars: Coca-Cola vs. Pepsi Quiz
 *   The Ultimate ThunderCats Quiz
-*   The U.S. Presidential Debates Quiz
-*   The Ultimate Titanic Movie Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
