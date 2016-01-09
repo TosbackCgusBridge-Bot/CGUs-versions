@@ -110,11 +110,19 @@ Get a first look at some of the newest #SonyCES products: youtube.com
 
 View Tweet
 
-Music That Matches Your Heart Rate
+Bring Your Record Collection With You Everywhere
 
-Run Faster This Year
+Introducing the USB Turntable
 
-Sony on Vine
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Introducing the USB Turntable
 
 "The Blacklist" Returns This Week With a Thrilling New Episode
 
