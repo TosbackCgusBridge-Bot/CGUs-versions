@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14306072125
+true true C14309084400
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Thu Jan 07 11:15:35 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p13.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Fri Jan 08 11:15:25 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,7 +48,7 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-$10 Off\* $25 or More In Store and Online | Ends January 10 | Code: SUPERSAV Print CouponOr, Extra 25% Off\* $100 or More Online Only | Ends January 10 | Code: BIGSAVE Or, Extra 20% Off\* Online Only | Ends January 10 | Code: BIGSAVE \*Exclusions and details Sale Starts Now In Store and Online! Super Saturday Sale, Ends January 10 Night and Day Doorbusters
+$10 Off\* $25 or More In Store and Online | Ends January 10 | Code: SUPERSAV Print Coupon Or, Extra 25% Off\* $100 or More Online Only | Ends January 10 | Code: BIGSAVE Or, Extra 20% Off\* Online Only | Ends January 10 | Code: BIGSAVE \*Exclusions and details Sale Starts Now In Store and Online! Super Saturday Sale, Ends January 10 Night and Day Doorbusters
 
 Friday 3 PM CST Through Saturday 1PM CST
 
@@ -64,7 +64,7 @@ Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses S
 
 Select styles
 
-Shop Guys' Arizona Jeans Shop Juniors' Arizona Jeans40% Off Kids' Arizona Jeans
+Shop Guys' Arizona Jeans Shop Juniors' Arizona Jeans 40% Off Kids' Arizona Jeans
 
 Select styles
 
