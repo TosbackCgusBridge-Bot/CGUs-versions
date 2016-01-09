@@ -20,14 +20,14 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Women Featured Shops
             *   Outerwear Shop
-            *   Cardigan Shop
+            *   Swim Shop
             *   New Activewear 2016
-            *   Tunic Shop
+            *   Best of Spring
             
             *   New Arrivals
             *   The Starfish Collection
-            *   Outerwear Guide
-            *   2016 Swim Preview
+            *   Jeans Guide
+            *   Cardigan Shop
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
@@ -60,7 +60,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Men Featured Shops
             *   Outerwear Shop
-            *   Key Looks
+            *   Wear to Work
             *   No Iron Shop
             *   Supima Shirts &. Sweaters
             
@@ -164,6 +164,8 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Men
         *   Girls
         *   Boys
+        
+        *   Women's Swim Finder
 *   Shoes
     *   *   Back to Main Menu Shoes
         *   Shop Shoes
@@ -175,7 +177,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Boots &. Booties
         *   Slippers
         *   Sock Shop
-        *   Accessories Shop
         *   Sale
 *   Home
     *   *   Back to Main Menu Home
@@ -208,10 +209,10 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Beach Towels
         *   **Décor**
             *   Back to All Home Décor
-            *   Seasonal
-            *   Tabletop
             *   Storage &. Organization
             *   Doormats
+            *   Tabletop
+            *   Seasonal
         
 *   Uniforms
     *   *   Back to Main Menu Uniforms
@@ -554,4 +555,4 @@ Shop Cara's Picks Shop Your Way Rewards
 
 Make every purchase rewarding. Join today. Earn today. It's free.
 
-Join Now ® Copyright 2015 Lands' End
+Join Now ® Copyright 2016 Lands' End
