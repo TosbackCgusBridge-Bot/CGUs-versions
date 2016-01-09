@@ -60,7 +60,7 @@ For immediate technical concerns or service issues **with Closed Captioning**, p
 For Your Home For Your Business Customer Support Remote Connect Local Information All About Us  
 Investor Relations Legal Notices Open Internet/Network Management Contact Us Great Careers Payment Center Site Map
 
-Copyright 2015, Cable ONE Inc., All Rights Reserved.
+Copyright 2016, Cable ONE Inc., All Rights Reserved.
 
 Close Window X Set Your Location - Step 1 of 2 You are here: Set Your State Set Your State Find and click on your state's button in the US map (below)
 
