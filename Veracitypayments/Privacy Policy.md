@@ -4,7 +4,6 @@ Toggle navigation
 
 *   About|
 *   Security|
-*   EMV Central|
 *   Blog|
 *   Newsroom|
 *   Support|
