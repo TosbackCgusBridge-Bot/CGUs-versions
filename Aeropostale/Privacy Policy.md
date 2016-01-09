@@ -71,7 +71,8 @@ Aéropostale
     *   Graphic Tees
     *   Throwback Tees
     *   Polos
-    *   Henleys + Tees
+    *   Tees
+    *   Tanks
     *   Shirts
     *   Hoodies
     
