@@ -98,248 +98,266 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Nation Now In Oregon, a new-age militia holds their ground
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ News Texas allows guns into state mental health hospitals
 
 TOP STORIES
 
-*   Washington Obama defends gun executive actions on CNN
-*   News YouTube says digital video will soon surpass TV
-*   NFL 50 things we look forward to in NFL's wild-card weekend
-*   Iraqi refugees charged in terror cases
-*   Amtrak workers got nearly $1M as DEA informants
-*   Bill calls sex between lobbyists, lawmakers 'gifts'
-*   Natalie Cole's family reveals cause of death
-*   Trump enthralls handpicked audience in Vermont
-*   'Game of Thrones' sets Season 6 return
-*   Oklahoma hit with 70 quakes in a week
-*   Chinese stocks destroy $47B in U.S. wealth
-*   Double-digit pain! Apple crashes below $100
+*   NBA Lamar Odom moved to specialized L.A. rehabilitation clinic
+*   Nation Now Families of school-shooting victims seeking $110M
+*   OnPolitics Trump in South Carolina: From China to El Chapo
+*   NYPD sergeant charged in Eric Garner case
+*   LeBron throws down fancy dunk, then raises roof
+*   Wintertime floods among costliest in U.S. history
+*   Mexican drug kingpin 'El Chapo' recaptured
+*   Teens with toy guns raise tough questions for police
+*   In child's hospital room, a mom is dead, dad ODs
+*   Bieber gets in trouble at historical site in Mexico
+*   Terror charges inflame refugee debate
+*   How to increase your Powerball winnings
 
-Music
+Movies
 
-Beyoncé to join Coldplay at Super Bowl 50
-
-Nation Now
-
-Trooper in Bland case surrenders to Texas Rangers
-
-TV
-
-Schneider on 'One Day at a Time' dies at 86
+Who will win a Golden Globe — and who should?
 
 Nation Now
 
-Chick-fil-A: Goodbye coleslaw, hello superfood
+Great white shark dies after 3 days in aquarium
 
-CES 2016 Tech
+Washington
 
-Drumroll, please: CES Editors' Choice awards
+Public employee unions face major Supreme Court hurdle
+
+Nation Now
+
+'Affluenza' teen's mom complains about jail cell
+
+OUR PICKS News
+
+Women honored at CES, where their presence is still sparse
+
+Columnist
+
+CE-NO thank you: 5 things I could do without from CES
 
 Tech
 
+Reviewed.com's three top picks from CES 2016
+
+News
+
 Flying camera touts $34 million in pre-sales
 
-Voices
+New cars, new tech expected at Detroit Auto Show
 
-Callaway: The ghosts of CES past
+The 2016 North American International Auto Show in Detroit will see many new concept and production debuts.
 
-Saltzman
+1 of 23 See more video
 
-7 tech toys we really want from CES
+Best you can buy? LG G6 4K OLED television
 
-Armed stand-off in Oregon continues. What does this group want?
+The New LG G6 is one of the best televisions to debut at this year's CES.
 
-USA TODAY's Gordon Friedman reports from the Malheur National Wildlife Refuge Headquarters near Burns, Oregon as an armed anti-government militia group continues to occupy the Malheur National Wildlife Headquarters.
+2 of 23 See more video
 
-1 of 20 See more video
+Ben Carson fumbles after singling out 'worst student'
 
-Smells like time to get up. new alarm clock unvieled at CES
+Ben Carson didn't expect an answer when he asked a group of fifth-grade students in Iowa "Who's the worst student?" Several kids responded and pointed at a student in the crowd. Carson later met with the singled out boy and smoothed things over.
 
-I love the smell of an alarm clock in the morning. This smell-based alarm clock doesn't wake you with annoying sounds.
+3 of 23 See more video
 
-2 of 20 See more video
+Majestic snowy owl captured on traffic cam
 
-Brr! These car sculptures are ice cold!
+A Canadian traffic camera catches video of a snowy owl soaring through the air above a picturesque winter backdrop near Montreal.
 
-Professional ice sculptors recreate the 1957 Chevy Nomad, 1966 Ford Mustang, and other classic cars just in time for the North American International Auto Show in Detroit.
+4 of 23 See more video
 
-3 of 20 See more video
+Best of the best: three favorite products from CES 2016
+
+To see all of our CES Editors' Choice award winners, head over to Reviewed.com.
+
+5 of 23 See more video
+
+'One Nation' series debuts in Des Moines on Thursday
+
+For more information on this exciting series of live events, visit onenation.usatoday.com
+
+6 of 23 See more video
+
+360 video experience is the talk of CES 2016
+
+Jefferson Graham explores why watching spherical 360 degree video, virtual reality, was the talk of CES.
+
+7 of 23 See more video
+
+Move over Jetsons, get your personal robot at CES 2016
+
+Meet Pepper the robot at CES 2016 in Las Vegas, Nevada. Aldebaran, the Japanese-owned company based in Paris that makes the 4-foot-tall robot is hoping everyone will want a robot companion.
+
+8 of 23 See more video
+
+Grandmother gives birth to granddaughter
+
+After a Texas woman was having trouble with her pregnancy, she turned to her mother to help give her the greatest gift she could ask for.
+
+9 of 23 See more video
+
+Coolest gadget of 2016 at CES. The Avegant Glyph
+
+Jefferson Graham picks the Glyph "Personal Theater" viewer as the coolest gadget from CES 2016. He tells why on #TalkingTech.
+
+10 of 23 See more video
 
 Jeering protesters interrupt Trump rally in Vermont
 
 GOP presidential candidate Donald Trump was interrupted by protesters multiple times while speaking at a rally in Burlington, Vermont.
 
-4 of 20 See more video
+11 of 23 See more video
 
-Getting your coffee fix might be harder in 3 years
+Plumber caught after racist road rage rant
 
-Experts predict there will be a coffee shortage in a few years because farmers can't keep up with the growing demand. Panic? Video provided by Newsy
+A man from Oregon was fired from his job after a woman recorded him yelling Hispanic racial slurs at her.
 
-5 of 20 See more video
+12 of 23 See more video
 
-17 miners freed from North America's deepest salt mine
+Masters jacket from 1960s found in thrift store
 
-Miners in New York were descending down a shaft to a salt mine at the start of a 10 p.m. shift Wednesday, when a mechanical break related to the elevator system stranded the workers.
+A legendary green 'Masters' jacket from the 1960s was found in a Houston thrift shop.
 
-6 of 20 See more video
-
-CNN host mistaken for bank robber
-
-A man wanted for robbing a bank in Oregon looks a lot like the host of Discovery's "Dirty Jobs with Mike Rowe". Mara Montalbano (@maramontalbano) shows us.
-
-7 of 20 See more video
-
-'Puppy Bowl' unleashes virtual-reality experience
-
-Get up close and personal with the puppies in the annual Puppy Bowl this year. Animal Planet is launching a virtual reality feature and fans will be able to interact with the puppies in a way never seen before.
-
-8 of 20 See more video
+13 of 23 See more video
 
 The new trendy superfood may surprise you
 
 There a new hot super food for 2016 and it may look familiar. The Irish favorite, black pudding, is the newest health trend. Sloane Glass (@sloaneglass) tells us why.
 
-9 of 20 See more video
+14 of 23 See more video
 
-CES 2016: Amazing car tech
+The hottest new cruise ships of 2016
 
-CES 2016: USA TODAY's Jefferson Graham and Marco della Cava talk what is coming down the road at CES 2016.
+Take a peek at some of the coolest new cruise ships to hit the seas this year.
 
-10 of 20 See more video
+15 of 23 See more video
 
 Blind cats, pit bulls become fast friends
 
 Sherry Stewart and her 14 year-old daughter Annie Hake have been rescuing dogs and cats for the past three years. Recently, they took on a blind cat, Helen, and two blind kittens.
 
-11 of 20 See more video
+16 of 23 See more video
 
 Boss' tip ends up saving employee's life
 
 A Texas man noticed his employee was looking and acting differently so he sent him to the doctor. That visit ended up saving his employee's life.
 
-12 of 20 See more video
+17 of 23 See more video
 
 Runaway trash can has mind of its own
 
 The rain in California causes this trash can to go on a wet and wild ride.
 
-13 of 20 See more video
+18 of 23 See more video
 
 Dog leads owner to missing woman
 
 What started out as a regular walk around the neighborhood, quickly turned into a rescue mission for Rebecca Burley and her dog Roxanne.
 
-14 of 20 See more video
+19 of 23 See more video
+
+These luxury yachts will have you saying, 'Sign me up!'
+
+Enjoy a swim stop or dock in the heart of premium port location on a luxury yacht with this cruise line voted by 10Best.com readers as the best boutique cruise line.
+
+20 of 23 See more video
 
 What cuddling says about you
 
 Today is National Cuddle Up Day! Learn the meaning behind a couple of common cuddle positions.
 
-15 of 20 See more video
-
-10 great gadgets from CES 2016
-
-Columnist Jennifer Jolly shares her favorite devices from the Consumer Electronics Show.
-
-16 of 20 See more video
-
-Lotto ticket up for auction but with a catch
-
-A Michigan man is auctioning his Cash for Life winning lotto ticket which has paid him $1,000 a month since 1984. But the opening bid may surprise you.
-
-17 of 20 See more video
-
-Longtime sign painter leaves behind a legacy
-
-A local grocery store sign painter in Minnesota is hanging it up after 55 years but it's who he's leaving his business behind to and why that makes this much more than just a story of retirement.
-
-18 of 20 See more video
+21 of 23 See more video
 
 Rescuers post to owner who abandoned their dog goes viral
 
 Heartbreaking video of an abandoned dog left at the end of a dirt road has gone viral. So has the scathing post that goes with it, aimed directly at the person responsible. Sean Dowling (@seandowlingtv) has more.
 
-19 of 20 See more video
+22 of 23 See more video
 
 Teacher's epic dance moves go viral
 
 Students at the Ron Clark Academy in Atlanta shot a video dancing with their teacher and school founder Ron Clark. In only 24 hours, the video has 30 million views.
 
-20 of 20 See more video Last VideoNext Video news
+23 of 23 See more video Last VideoNext Video news
 
-The bitter truth about America's sweet tooth
+'Affluenza' teen's mom arraigned, complains about cell
 
-Obama: I am a single-issue voter on guns
+Police: Suspect says he shot cop 'in the name of Islam'
 
-2 hours, 31 minutes | Washington
+10 hours, 52 minutes | News
 
-Follow who's up and who's down in the 2016 Presidential Poll TrackerSeoul hits North Korea with barrage of K-PopWaitress gets 370% tip and priceless note from patron sports
+Seoul hits North Korea with barrage of K-PopAnother $100M: Powerball prize jumps to $800MAt 150, Fisk University celebrates rich history sports
 
-50 things we look forward to in wild-card weekend
+Marshawn Lynch to miss wild-card game vs. Vikings
 
-Report: McGregor-dos Anjos, Holm-Tate at UFC 197
+Lamar Odom on to next phase of overdose recovery
 
-42 minutes | Ufc
+4 hours, 18 minutes | NBA
 
-Peterson, Vikings have come long way since dramaPlayer who could lead Steelers to Super Bowl glorySuper Bowl 50 picks: Nobody likes Patriots to win life
+LeBron throws down fancy dunk, then raises roofMcGregor shreds Mayweather in epic Facebook postCam Newton explains why he named his son Chosen life
 
-A short list of things you should invest in besides The Powerball
+Stars kick off Globes weekend at AFI Awards
 
-Cross WordsAll GamesEntertain This! They're back! See the first photos from Netflix's 'Fuller House'Pat Harrington Jr., Emmy-winning super on 'One Day at a Time,' diesJagger, Scorsese visit '70s music biz in HBO's 'Vinyl' money
+Cross WordsAll GamesEntertain This! The Drapers reunite pre-GlobesRicky Gervais' best/worst Golden Globes jokesStars schmooze at AFI Awards luncheon money
 
-Can jobs report help markets turn things around?
+Stealth bear market mauls Wall Street
 
-StocksPortfolio TrackerAmerica's Markets Don't blame 'circuit breakers' for China's woesDouble-digit pain! Apple crashes below $100S&P 500 off to worst-ever start to year tech
+StocksPortfolio TrackerAmerica's Markets Another $100M: Powerball prize jumps to $800MWon the lottery? Do these things firstStocks close out week with worst start to year ever tech
 
-Digital video surpasses TV by decade's end—YouTube
+Internet of things: hyped but here to stay
 
-White House officials to talk terrorism with Silicon Valley…
+CE-NO thank you: 5 things I could do without from CES
 
-5 hours, 34 minutes | News
+4 hours, 22 minutes | Columnist
 
-Flying camera touts $34 million in pre-salesMove over Jetsons, get your personal robot at CES 2016Future of TVs seen at CES aims to boost 'wow' experience travel
+CES is less diverse than White House: SmithLG's flagship OLED TV: Beautiful, inside and outCoolest gadget of CES 2016? I pick Glyph travel
 
-Save big on bucket-list destinations in 2016
+Sneak peek: The hottest new cruise ships of 2016
 
-15 food trucks spinning comfort classics
+Hong Kong's 20 hottest dining destinations
 
-1 day, 8 hours | Food &. Wine
+1 day, 11 hours | Food &. Wine
 
-Old American mills: Photo tour of a day gone byConnecticut classic: Hot dogs at Woody’sReport ranks the world’s safest airlines Reviewed.com
+10Best: New travel adventures for 201616 hottest Airbnb neighborhoods around the worldBuyers considering pricier RVs as gas prices remain low Reviewed.com
 
 CES 2016 Editors' Choice award winners
 
-These earbuds could change the way you hear
+Reviewed.com's three top picks from CES 2016
 
-5 hours, 39 minutes | Tech
+10 hours, 20 minutes | Tech
 
-Meet the Miles Davis of blood pressure cuffsNew Garmin is the smart watch Rambo would wearNew smart thermometer tracks your family's temps experience
+Will this solar device replace your grill?LG's flagship OLED TV: Beautiful, inside and outNew Fisher-Price toy teaches toddlers to code experience
 
-The 53 largest cruise ships in the world
+Old American mills: Photo tour of a day gone by
 
-Roadside Americana: Travel the USA in photos
+15 food trucks spinning comfort classics
 
-1 day, 14 hours | America
+2 days, 8 hours | Food &. Wine
 
-2016 spirits preview: New releases and tasting roomsGroovy Caribbean: The region's best music festivals in 2016A dog's life: Bring along (and pamper) your pup while traveling VOICES Elections
+The 53 largest cruise ships in the worldGroovy Caribbean: The region's best music festivals in 2016Roadside Americana: Travel the USA in photos VOICES Business
+
+'Flying wind mills' and nuclear waste: The future of energy?
+
+Entertain This
+
+Watch: Golden Globe movie nominee trailers
+
+Elections
 
 For the Record: Sign up for our new politics newsletter
 
 Opinion
 
-Real ID is about to get real for states: Our view
-
-Opinion
-
 Marco Rubio's very bad idea: Our view
 
-Rieder
+Nation Now
 
-Rieder: Longer tweets? Is nothing sacred?
-
-TV
-
-TV midseason preview: What to expect
+The buzzy 2015 movie you should see, based on your personality type
 
 World
 
@@ -353,34 +371,34 @@ News
 
 CES 2016 complete coverage
 
-*   People's Choice Awards: Photos from the red carpet
+*   The Golden Globes' very best dresses
+*   16 hottest Airbnb neighborhoods around the world
 *   Attack of the Drones at CES 2016
 *   January political cartoons from Gannett cartoonists
-*   Life in North Korea
 *   10 dream trips you can actually afford in 2016
 
 Most Popular
 
-*   Natalie Cole's family reveals cause of death
+*   In child's hospital room, a mom is dead, dad overdoses
     
-*   Traffic camera captures images of snowy owl in flight
-    
-*   The Short List: Bitter truth about sugar. 'Charlie Hebdo'…
+*   Won the lottery? Do these things first
     
 *   Q&A: 10 things to know as record $675M Powerball looms
+    
+*   Reports: ISIS fighter executes his own mother
     
 
 Trending on Social
 
-*   Natalie Cole's family reveals cause of death
+*   Armour: Numbers don't add up for College Football Playoff
     
-*   Iraqi refugees charged in terror cases
+*   Another $100M: Powerball prize jumps to $800M
     
-*   Colts hire Monachino as offensive coordinator
+*   Stealth bear market mauls Wall Street
     
-*   Traffic camera captures images of snowy owl in flight
+*   Texas allows guns into state mental health hospitals
     
-*   Kirsten Powers - A tale of two Bills: Cosby, Clinton and predatory men
+*   Reports: ISIS fighter executes his own mother
     
 
 SPONSOR CONTENT Right Now
