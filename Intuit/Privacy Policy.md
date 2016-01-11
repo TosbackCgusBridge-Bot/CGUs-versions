@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14399890765
+true true L14401624285
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p28.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Sat Jan 09 11:15:31 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p28.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Sun Jan 10 11:14:32 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,43 +48,43 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-$10 Off\* $25 or More In Store and Online | Ends January 10 | Code: SUPERSAV Print Coupon Or, Extra 25% Off\* $100 or More Online Only | Ends January 10 | Code: BIGSAVE Or, Extra 20% Off\* Online Only | Ends January 10 | Code: BIGSAVE \*Exclusions and details Sale Starts Now In Store and Online! Super Saturday Sale, Ends January 10 Night and Day Doorbusters
+Start Fresh With Savings On Home 30 to 50% Off Select Home Items Shop Home Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining
 
-Friday 3 PM CST Through Saturday 1PM CST
+79.99 Nutribullet or Ninja Blenders, select styles. Excluded from coupon.
 
-Shop Super Saturday Sale View Store Ad Shop Night and Day Doorbusters Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Workout Clothes On Sale Save On Activewear
+Shop Blenders Activewear From Nike Nike For The Family
+
+Excluded from coupon.
+
+Shop Nike For The Family Shop Men Shop Women Shop Kids Shop Shoes         Great Deals On Arizona Jeans Buy 1, Get 1 Free\*
+
+Guys' and Juniors' Arizona Jeans, select styles
+
+Shop Guys' Arizona Jeans Shop Juniors' Arizona Jeans
+
+\*Buy one item at regular price, get the second item of equal or lesser value for free.
+
+40% Off Kids' Arizona Jeans
 
 Select styles
 
-Shop Men's Activewear Shop Women's Activewear Shop Boy's Activewear Shop Girl's Activewear Shop Athletic Shoes Shop Nike Shop Xersion Shop Adidas     Save On Curtains, Drapes and More Home Sale
+Shop Boys Arizona Jeans Shop Girls Arizona Jeans         Bras On Sale! Stock Up Sale - Now Through January 16
 
-30 to 50% Off Select Home Items
+14.99-21.99 Bras, select styles
 
-Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Great Deals on Arizona Jeans Buy 1, Get 1 Free\* Guys' and Juniors' Arizona Jeans
-
-Select styles
-
-Shop Guys' Arizona Jeans Shop Juniors' Arizona Jeans 40% Off Kids' Arizona Jeans
-
-Select styles
-
-Shop Boy's Arizona Jeans Shop Girl's Arizona Jeans         Up To 80% Off Clea New Markdowns! 60 to 80% Off Clearance
+Shop Bras Up To 80% Off Clearance 60 to 80% Off Clearance
 
 In Store and Online
 
-Shop Clearance Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Home Shop Handbags and Accessories Shop Jewelry SportsFanShop
+Shop Clearance Shop Women Clearance Shop Men Clearance Shop Kids Clearance Shop Baby Clearance Shop Shoes Clearance Shop Home Clearance Shop Handbags and Accessories Clearance Shop Jewelry Clearance SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop Got a Gift Card?
+Shop SportsFanShop Work Out and About For Less Shop Fitness JCPenney | optical
 
-Redeem In Store or Online!
+70% Off Frames, 40% Off Lenses and a $25 Instant Rebate.
 
-Check Your Balance Sephora
-
-New Beauty Arrivals
-
-Shop New Beauty Arrivals Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop Optical Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
