@@ -2,6 +2,8 @@ Skip to main content Online Trust Alliance
 
 *   Home
 *   Subscribe
+*   Member Login
+*   Request New Login
 *   Privacy Policy
 *   Contact Us
 
@@ -43,14 +45,12 @@ Skip to main content Online Trust Alliance
     *   Benefits
     *   History &. Overview
     *   Member Levels
-    *   Working Committees
     *   Donate
 *   About Us
     *   Members
     *   Board of Directors
     *   Non-Governmental Organizations
     *   Strategic Advisors
-    *   Committees
     *   Staff
     *   Careers
 *   Blog
@@ -172,7 +172,6 @@ Membership
 *   Benefits
 *   History &. Overview
 *   Member Levels
-*   Working Committees
 *   Donate
 
 About Us
@@ -182,7 +181,6 @@ About Us
 *   Board of Directors
 *   Non-Governmental Organizations
 *   Strategic Advisors
-*   Committees
 *   Staff
 *   Careers
 
@@ -192,6 +190,8 @@ About Us
 
 *   Home
 *   Subscribe
+*   Member Login
+*   Request New Login
 *   Privacy Policy
 *   Contact Us
 
