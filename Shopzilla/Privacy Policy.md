@@ -22,15 +22,10 @@ Connexity
     *   Advisory Services
     *   Subscriptions
     
-    *   Display Media
-    *   Audience Targeting
-        *   In-market
-        *   Lifestyle &. life stage
-        *   Custom
-    *   Data as a Service
-    *   Contextual Shopping Sites
-    *   Retargeting
-    *   Multi-screen
+    *   Programmatic
+    *   Our Audiences
+    *   Your Audiences
+    *   Modeled Audiences
     
     *   Site Monetization
     *   CPC Product Monetization
@@ -170,15 +165,6 @@ Connexity
 *   Open Positions
 *   Press
 
-Stay Connected
-
-*   Contact Us
-*   Facebook
-*   Twitter
-*   LinkedIn
-
 &copy 2016 Connexity, Inc. / Privacy Policy / Opt Out / Site Map
 
 Connexity® and Audience Discovery® are registered trademarks of Connexity, Inc.
-
-Rochelle BailisNov 23 at 4:20pm Code snippet:
