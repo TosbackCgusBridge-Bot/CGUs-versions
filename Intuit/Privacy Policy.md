@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14401624285
+true true C14319217271
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p28.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Sun Jan 10 11:14:32 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p01.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Mon Jan 11 11:15:30 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,29 +48,21 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Start Fresh With Savings On Home 30 to 50% Off Select Home Items Shop Home Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining
-
-79.99 Nutribullet or Ninja Blenders, select styles. Excluded from coupon.
-
-Shop Blenders Activewear From Nike Nike For The Family
+2 Days Only | Online Only | Ends January 12 | Code: JANUARY2 \*Exclusions and details50% Off\* select orig and reg-priced styles Shop Bedding and Bath Shop Luggage Shop Window Shop Gold and Silver Jewelry40% Off\* select orig and reg-priced styles Shop Home Decor Shop Diamond and Gemstone Jewelry30% Off\* select orig and reg-priced styles Shop Kitchen and DiningExtra 20% Off\* select orig and reg-priced styles Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Fashion Jewelry Shop Handbags and Accessories Shop Watches Shop Online ClearancePlus Free Shipping Over $49\* Activewear From Nike Nike For The Family
 
 Excluded from coupon.
 
-Shop Nike For The Family Shop Men Shop Women Shop Kids Shop Shoes         Great Deals On Arizona Jeans Buy 1, Get 1 Free\*
+Shop Nike For The Family Shop Men Shop Women Shop Kids Shop Shoes         Stock Up On Tee Shirts and Polos 12.99 Men's St. John's Bay Polos
 
-Guys' and Juniors' Arizona Jeans, select styles
+Select styles.
 
-Shop Guys' Arizona Jeans Shop Juniors' Arizona Jeans
+Shop Men's St. John's Bay Polos  8.99 Women's St. John's Bay Tees
 
-\*Buy one item at regular price, get the second item of equal or lesser value for free.
+Select styles.
 
-40% Off Kids' Arizona Jeans
+Shop Women's St. John's Bay Tees   Bras On Sale! Stock Up Sale - Now Through January 16
 
-Select styles
-
-Shop Boys Arizona Jeans Shop Girls Arizona Jeans         Bras On Sale! Stock Up Sale - Now Through January 16
-
-14.99-21.99 Bras, select styles
+20% Off Bras, select styles when you buy 2 or more.
 
 Shop Bras Up To 80% Off Clearance 60 to 80% Off Clearance
 
