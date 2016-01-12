@@ -81,6 +81,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Tiebreaker rules
 *   Schedule Schedule Schedule
     *   2016 Spring Training
+    *   Spring Training Workout Dates
     *   2016 Regular Season
     *   2015 Postseason
     *   Important Dates
