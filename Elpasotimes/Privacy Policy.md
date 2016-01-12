@@ -98,265 +98,278 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ TV Review: Impish Gervais pokes fun at Globes, and its stars Read StoryGallery: Red carpet stylesWho took home Golden Globe Awards?
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ NCAAF Alabama holds off Deshaun Watson, Clemson to win national championship
 
 TOP STORIES
 
-*   Tech Ford plans commuter app, Ford car not required
-*   Nation 2nd Baltimore officer in Freddie Gray case goes on trial
-*   Entertain This Lady Gaga won a Globe but Leo's reaction won the night
-*   Biggest news you missed this weekend
-*   Mexico begins extradition process for 'El Chapo'
-*   Winners: Who took home Golden Globe Awards?
-*   Volkswagen CEO: 'We are not a criminal brand'
-*   Police to deliver water door-to-door in Flint
-*   Report: Steelers QB has separated shoulder
-*   'Rolling Stone' blasted for 'El Chapo' interview
-*   High school athlete suspended for tweet
-*   Kidnapping victims describe attack, torture
+*   OnPolitics Paul, Fiorina bumped from next prime-time GOP debate
+*   Nation Now Home explosion kills Ohio mom, daughter
+*   Markets 'Lower for longer:' Oil prices crater to 2003 levels
+*   3 models that stole the first day of the Detroit auto show
+*   Bengals' Vontaze Burfict suspended three games by NFL
+*   Clinton calls for stopping immigration raids
+*   Police dog shot, killed after flushing out burglary suspect
+*   Leo explains his ridiculous Lady Gaga face
+*   What Millennials really want in their next president
+*   Sean Penn was right: Spying eyes were on him
+*   Playboy Mansion for sale — but Hef gets to stay
+*   Where’s Johnny? Concern grows for Manziel
 
-Money
+Humankind
 
-These 5 retailers are suffering in new world
-
-Vikings
-
-Botched field goal ends Vikings' season
+'Wheel of Fortune' gives boy awesome surprise
 
 Nation Now
 
-Cape Coral, Fla., begins rebuilding after tornado
+Judge cuts 'affluenza' teen's mom bond
 
-News
+Sponsor Story
 
-FBI probes another fatal Chicago police shooting
+Infographic: Going to work with a cold
 
-OUR PICKS Entertain This
+Music
 
-Taraji P. Henson gave the REALEST Golden Globes speech ever
+Appreciation: Bowie, a man of many ch-ch-changes
 
-Entertain This
+OUR PICKS News
 
-Ricky Gervais &. Mel Gibson are the Miley Cyrus &. Nicki Minaj of the Globes
-
-Entertain This
-
-Jamie Foxx just pulled a Steve Harvey at the Golden Globes
+Lucky? 13 things to know about record Powerball
 
 People
 
-10 best dressed from the Golden Globes' red carpet
+MTV Australia apologizes for dubious tweet aimed at Longoria, Ferrera
 
-'One Nation' series debuts in Des Moines on Thursday
+Tech
 
-For more information on this exciting series of live events, visit onenation.usatoday.com
+Live like a Microsoft CEO, for $3.5 million
 
-1 of 16 See more video
+Entertain This
 
-The Golden Globes will be a hot mess, and that's why we love them
+Fashion flubs: The 7 worst dressed at Golden Globes
 
-The 2016 Golden Globes are sure to be full of jokes, duplicate dresses and drunken moments. Video provided by Newsy
+5 things more likely to happen than winning the powerball
 
-2 of 16 See more video
+Have you bought in to the powerball frenzy? If so, you may want to reconsider that ticket because your odds of winning aren't very good.
 
-Key positional battles for Alabama, Clemson
+1 of 20 See more video
 
-USA TODAY Sports' Paul Myerberg provides the tale of the tape between Alabama and Clemson in the College Football Playoff National Championship.
+Trapped window washers rescued from sky-high building
 
-3 of 16 See more video
+Two window washers found themselves trapped on the top floor of a Houston sky-rise after their scaffolding malfunctioned. Watch the dramatic rescue.
 
-10 more awesome gadgets at CES 2016
+2 of 20 See more video
 
-Columnist Jennifer Jolly shows off even more cool technology at this week's Consumer Electronics Show.
+Family uses Airbnb, accidentally rents marijuana grow house
 
-4 of 16 See more video
+A family expecting a nice vacation found themselves detained when they accidentally booked a marijuana grow house. The police raided the home and seized all paraphernalia. Keleigh Nealon (@keleighnealon) has the story!
 
-New cars, new tech expected at Detroit Auto Show
+3 of 20 See more video
 
-The 2016 North American International Auto Show in Detroit will see many new concept and production debuts.
+What you need to know about the record Powerball
 
-5 of 16 See more video
+Wednesday's Powerball drawing is now an estimated $1.4 Billion - here are some of the basics you need to know to play.
 
-Powerball jackpot balloons to $1.3 billion
+4 of 20 See more video
 
-Lofty dreams of becoming a billionaire are budding for Powerball players after nobody won Saturday's massive jackpot.
+Winter waves freeze car in place
 
-6 of 16 See more video
+Winter waves have frozen a car in place along the shore of Lake Erie after inches of ice encased one side of the vehicle overnight.
 
-Majestic snowy owl captured on traffic cam
+5 of 20 See more video
 
-A Canadian traffic camera catches video of a snowy owl soaring through the air above a picturesque winter backdrop near Montreal.
+Teen uses 'crazy strength' to lift burning car off dad
 
-7 of 16 See more video
+Charlotte Heffelmire's father can't believe what his 19-year-old daughter was able to do to save his life. Trapped under a burning car, she was able to lift it enough for him to escape. But that isn't all she accomplished that day.
 
-Plumber caught after racist road rage rant
+6 of 20 See more video
 
-A man from Oregon was fired from his job after a woman recorded him yelling Hispanic racial slurs at her.
+Making screen-accurate 'Star Wars' costumes isn't easy
 
-8 of 16 See more video
+Dawn Bright spent seven months building her Adam Driver-inspired Kylo Ren costume from scratch.
 
-Convicted ex-cop who held gun to man's head 'not sorry'
+7 of 20 See more video
 
-A former Maryland police officer who blocked a man from entering his own home and held a gun to his head was sentenced to five years to prison, but showed no remorse, according to officials.
+David Bowie's top five movie roles
 
-9 of 16 See more video
+David Bowie certainly made an impression with his iconic performances on the stage and on the big screen.
 
-Masters jacket from 1960s found in thrift store
+8 of 20 See more video
 
-A legendary green 'Masters' jacket from the 1960s was found in a Houston thrift shop.
+Six things to watch in the State of the Union
 
-10 of 16 See more video
+USA TODAY's Susan Page outlines the six things to watch in President Barack Obama's final State of the Union address.
 
-These luxury yachts will have you saying, 'Sign me up!'
+9 of 20 See more video
 
-Enjoy a swim stop or dock in the heart of premium port location on a luxury yacht with this cruise line voted by 10Best.com readers as the best boutique cruise line.
+Nissan Titan Warrior concept - First Look
 
-11 of 16 See more video
+In keeping with the fighter/combatant theme, Nissan revealed the Titan Warrior Concept pickup truck at the 2016 North American International Auto Show in Detroit, where many will likely assume this new pickup is meant to be a Ford Raptor fighter.
 
-Runaway trash can has mind of its own
+10 of 20 See more video
 
-The rain in California causes this trash can to go on a wet and wild ride.
+Ford reveals their new Raptor truck
 
-12 of 16 See more video
+Ford introduces the new model of their powerful Raptor truck at the North American International Auto Show in Detroit.
 
-Dog leads owner to missing woman
+11 of 20 See more video
 
-What started out as a regular walk around the neighborhood, quickly turned into a rescue mission for Rebecca Burley and her dog Roxanne.
+What you need to know about the record Powerball
 
-13 of 16 See more video
+Wednesday's Powerball drawing is now an estimated $1.4 Billion - here are some of the basics you need to know to play.
 
-Pope baptizes 26 babies in Sistine Chapel
+12 of 20 See more video
 
-Sunday marked the Feast of the Baptism of Our Lord for the Catholic Church. Pope Francis celebrated by baptizing 26 infants. Video provided by Newsy
+Three sexy cars at the 2016 auto show
 
-14 of 16 See more video
+Beautiful cars could be found at every turn of the North American International Auto Show in Detroit, but which ones stand out? USA TODAY's Chris Woodyard found three that show where sedan design is leading.
 
-Rescuers post to owner who abandoned their dog goes viral
+13 of 20 See more video
 
-Heartbreaking video of an abandoned dog left at the end of a dirt road has gone viral. So has the scathing post that goes with it, aimed directly at the person responsible. Sean Dowling (@seandowlingtv) has more.
+Two trucks made for the rugged outdoors
 
-15 of 16 See more video
+USA TODAY's Chris Woodyward breaks down two of the most rugged trucks introduced at the North American International Auto Show in Detroit.
 
-Teacher's epic dance moves go viral
+14 of 20 See more video
 
-Students at the Ron Clark Academy in Atlanta shot a video dancing with their teacher and school founder Ron Clark. In only 24 hours, the video has 30 million views.
+Buick reveals concept Avista at the 2016 NAIAS
 
-16 of 16 See more video Last VideoNext Video news
+Buick reveals the Avista concept at the 2016 Detroit auto show. Mandi Wright/DFP
 
-Mexico: Sean Penn interview helped nab 'El Chapo'
+15 of 20 See more video
 
-2nd Baltimore officer in Freddie Gray case goes on trial
+Chrysler reveals the 2017 Pacifica
 
-49 minutes | Nation
+Chrysler is dropping the Town &. Country has revealed its new 2017 Chrysler Pacifica at the North American International Auto Show in Detroit.
 
-American artist, 35, found dead in her apartment in Florence, ItalyToday in History for January 11thNo Pants Subway Ride sports
+16 of 20 See more video
 
-Bell: Rodgers kicks into playoff mode
+Dolce and Gabbana release not-so-modest Muslim wear
 
-50 things we learned in NFL's wild-card weekend
+Dolce and Gabbana's new collection of hijabs and abayas target Muslim clothing seekers in the Middle East. Jordyn Rolling (@jordynrolling) has the controversy!
 
-1 hour, 21 minutes | NFL
+17 of 20 See more video
 
-Rob Ryan joins Rex on Bills' staff as assistantPackers' offense wakes up in win over Redskins3 crazy plays that saved Seahawks life
+Canadian astronaut covers Bowie's 'Space Oddity'
 
-Leonardo DiCaprio, 'Revenant' win big at Golden Globes
+Canadian Commander Chris Hadfield becomes a web sensation when he said goodbye to life on the International Space Station by performing a cover version of David Bowie's 'Space Oddity.' Bowie himself later endorsed the video.
 
-Cross WordsAll GamesEntertain This! Golden Globes 2016 red carpet stylesWinners: Who took home Golden Globe Awards?Ranked: Ricky Gervais' greatest (and groaniest) Golden Globe jokes money
+18 of 20 See more video
 
-At Detroit's auto show, the big issue is trust
+Flight attendants reveal worst behavior in the sky
 
-StocksPortfolio TrackerAmerica's Markets Cars with the worst gas mileage3 reasons not to pay off your mortgageMercedes-Benz shows new E-Class sedan tech
+Flight attendants took to Quora to reveal some of the worst behavior they've seen. It's all very concerning says Patrick Jones (@Patrick\_E\_Jones).
 
-Ford plans commuter app, Ford car not required
+19 of 20 See more video
 
-Five CES gadgets you can actually buy this year
+Golden Globe Awards: Best moments, big winners
 
-1 day, 14 hours | Saltzman
+The big winners and funniest moments from the 2016 Golden Globe Awards.
 
-More great tech from CES 2016A snapshot of the future of PolaroidAmpy charges gadgets with your movements travel
+20 of 20 See more video Last VideoNext Video news
 
-16 hottest Airbnb neighborhoods around the world
+Lucky? 13 things to know about record Powerball
 
-Rick Steves: Wonderful wineries in Tuscany
+Why the el Chapo extradition could take years
 
-1 day, 16 hours | Destinations
+11 hours, 24 minutes | Nation
 
-Sneak peek: The hottest new cruise ships of 2016Hong Kong's 20 hottest dining destinations10Best: New travel adventures for 2016 Reviewed.com
+Bomb threats made at multiple schools in Del., Md., Va.Cuomo’s office cleared in Moreland Commission probeToday in History for January 12th sports
+
+The call that might have won 'Bama the championship
+
+Swinney fumes over clock
+
+1 hour, 36 minutes | NCAAF
+
+CFP championship game: First-half takeawaysPelissero: Burfict's dirty plays had to be curbedBurfict suspended 3 games life
+
+Sean Penn was right: Spying eyes were on him
+
+Cross WordsAll GamesEntertain This! Appreciation: David Bowie, a man of many ch-ch-changesBen Higgins had some pretty awkward first dates on 'The Bachelor'Critic's Corner: CW honors 20th anniversary of 'MADtv' money
+
+3 models that stole the first day of the Detroit auto show
+
+StocksPortfolio TrackerAmerica's Markets The first things to do if you win the lottery'Lower for longer:' Oil prices crater to 2003 levelsStocks close mixed as oil tanks almost 6% tech
+
+Fed hike, China torpedo tech toward bear market
+
+Big venture funding rounds drop in half
+
+4 hours, 34 minutes | News
+
+Apple loses more ground to Google's Chromebook in education marketLive like a Microsoft CEO, for $3.5 millionTwitter shares hit all-time low travel
+
+Cruise smackdown: Norwegian Breakaway vs. Carnival Magic
+
+January's #avgeek gallery: 30 cool aviation photos (2016)
+
+15 hours, 53 minutes | Today in the Sky
+
+How to score the best seat on the plane10 iconic NYC eateries with locations in other citiesAsk the Captain: What should I do if I see ice on the wing? Reviewed.com
 
 CES 2016 Editors' Choice award winners
 
 Reviewed.com's three top picks from CES 2016
 
-2 days, 10 hours | Tech
+3 days, 10 hours | Tech
 
 Samsung SUHD TV: Smarter, brighter than the restGet your paws on the latest pet tech at CES 2016LG's flagship OLED TV: Beautiful, inside and out experience
 
-Old American mills: Photo tour of a day gone by
+Hong Kong's 20 hottest dining destinations
 
-15 food trucks spinning comfort classics
+Get sorted for Universal Orlando's big Harry Potter bash
 
-4 days, 8 hours | Food &. Wine
+3 days, 16 hours | America
 
-The 53 largest cruise ships in the worldGroovy Caribbean: The region's best music festivals in 2016Roadside Americana: Travel the USA in photos VOICES Opinion
+Old American mills: Photo tour of a day gone byGroovy Caribbean: The region's best music festivals in 2016The 53 largest cruise ships in the world VOICES Rieder
 
-Perverting teen sexting laws: Column
+Rieder: Sean Penn/Rolling Stone/El Chapo debacle
+
+Opinion
+
+Paul LePage has more apologizing to do: Column
+
+NCAAB
+
+Kansas takes over as unanimous No. 1 in USA TODAY coaches poll
 
 Wolff
 
 Wolff: The two faces of the Times
 
-Opinion
-
-China's economy vs. its leaders: Our view
-
 Voices
 
-Voices: Emanuel toughs it out in political 'hell'
+Voices: Helping the homeless is everyone's responsibility
 
-Opinion
+OnPolitics
 
-Supreme Court education case threatens local control: Column
-
-Nation Now
-
-January political cartoons from Gannett cartoonists
+Viewer’s guide to Tuesday's State of the Union Address
 
 Elections
 
 2016 USA TODAY/Facebook Candidate Barometer
 
-News
+Nation Now
 
-CES 2016 complete coverage
+January political cartoons from Gannett cartoonists
 
+*   David Bowie: singer, songwriter and actor, Jan. 8, 1947- Jan. 11, 2016
 *   New car models wow at Detroit auto show
 *   The 73rd Annual Golden Globe Awards show
 *   Best from NFL wild-card games
 *   The day in pictures
-*   CES 2016: The coolest tech you have to see
-
-Most Popular
-
-*   Ask the Captain: What should I do if I see ice on the wing?
-    
-*   No Powerball winner, jackpot rises to estimated $1.3 billion
-    
-*   Sean Penn took meeting in jungle with 'El Chapo'
-    
-*   Gas prices could drop toward $1 a gallon
-    
 
 Trending on Social
 
-*   Teacher sickouts to close Detroit schools
+*   Judge cuts 'affluenza' teen's mom bond
     
-*   Leonardo DiCaprio, 'Revenant' win big at Golden Globes
+*   USA TODAY/Rock the Vote poll: Millennials' agenda for the next president
     
-*   2nd Baltimore officer in Freddie Gray case goes on trial
+*   Macy's announces layoffs, lists 36 store closures
     
-*   Taraji P. Henson went full Cookie for her Golden Globes speech
+*   Viewer’s guide to Tuesday's State of the Union Address
     
-*   Receivers coach Billy Napier helps turn Alabama weakness into a strength
+*   Honda Civic named North American Car of the Year
     
 
 SPONSOR CONTENT Right Now
