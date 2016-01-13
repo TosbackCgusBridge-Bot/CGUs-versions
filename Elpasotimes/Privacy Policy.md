@@ -98,278 +98,308 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ NCAAF Alabama holds off Deshaun Watson, Clemson to win national championship
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Elections State of the Union analysis: Obama targets Trump Read StoryObama lays out 4 'big questions'Watch Obama's best jokesFull textObama's most used words
 
 TOP STORIES
 
-*   OnPolitics Paul, Fiorina bumped from next prime-time GOP debate
-*   Nation Now Home explosion kills Ohio mom, daughter
-*   Markets 'Lower for longer:' Oil prices crater to 2003 levels
-*   3 models that stole the first day of the Detroit auto show
-*   Bengals' Vontaze Burfict suspended three games by NFL
-*   Clinton calls for stopping immigration raids
-*   Police dog shot, killed after flushing out burglary suspect
-*   Leo explains his ridiculous Lady Gaga face
-*   What Millennials really want in their next president
-*   Sean Penn was right: Spying eyes were on him
-*   Playboy Mansion for sale — but Hef gets to stay
-*   Where’s Johnny? Concern grows for Manziel
+*   NFL Rams moving back to Los Angeles with Chargers given option to join
+*   OnPolitics Trump: #SOTU 'really boring … hard to watch'
+*   OnPolitics 8 key quotes from Obama's State of the Union
+*   Ronda Rousey won't rematch Holm at UFC 200
+*   Investigators: N.Y. fire likely set to hide 4 slayings
+*   Still #Ramily? Rams players react to move
+*   'Ghostbusters' actor David Margulies dies
+*   Six takeaways from Obama's last State of the Union
+*   Munn on Aaron Rodgers engagement rumor
+*   Full text of the GOP response by Nikki Haley
+*   Former Butler standout Andrew Smith dies
+*   Iran detains 2 U.S. Navy boats, 10 sailors
 
-Humankind
+NFL
 
-'Wheel of Fortune' gives boy awesome surprise
+REMINDER: The NFL is moving to Inglewood, not LA
+
+Cars
+
+Detroit auto show: Crossovers, concepts and snafus unveiled
 
 Nation Now
 
-Judge cuts 'affluenza' teen's mom bond
+How you'd spend Powerball based on your personality
 
-Sponsor Story
+News
 
-Infographic: Going to work with a cold
+Amazon quietly builds its own shipping company
 
-Music
+OUR PICKS Washington
 
-Appreciation: Bowie, a man of many ch-ch-changes
+Kim Davis gets State of the Union seat
 
-OUR PICKS News
+Washington
 
-Lucky? 13 things to know about record Powerball
+Biden in charge of 'moonshot' to cure cancer
 
-People
+Opinion
 
-MTV Australia apologizes for dubious tweet aimed at Longoria, Ferrera
+For Obama, turmoil abroad detracts from success at home: Our view
 
-Tech
+Opinion
 
-Live like a Microsoft CEO, for $3.5 million
+Happy talk can’t obscure failure: Other views
 
-Entertain This
+Obama 'regrets' deeper divide between political parties
 
-Fashion flubs: The 7 worst dressed at Golden Globes
+President Obama addressed Washington's lack of bipartisanship during his final State of the Union address. The widening gap between political parties is 'one of the few regrets' he has about his presidency.
 
-5 things more likely to happen than winning the powerball
+1 of 25 See more video
 
-Have you bought in to the powerball frenzy? If so, you may want to reconsider that ticket because your odds of winning aren't very good.
+What hit and what missed at the auto show
 
-1 of 20 See more video
+USA TODAY's Chris Woodyard and Nathan Bomey break down the hits and the misses at the North American International Auto Show in Detroit.
+
+2 of 25 See more video
+
+City unleashes 'Poopmaster 6000' to clean sidewalks
+
+Crows in Portland, Oregon have become such a nuisance that the city introduced a new machine to help combat the problem.
+
+3 of 25 See more video
+
+Obama's best jokes from the State of the Union address
+
+President Obama made his final State of the Union address. He poked fun at Congress and himself during his speech on the economy, climate change and healthcare.
+
+4 of 25 See more video
+
+President Obama renews vow to close Gitmo
+
+President Obama renewed his vow to shut down the prison at Guantanamo Bay, Cuba during his final State of the Union address. He called the prison "expensive" and "unnecessary."
+
+5 of 25 See more video
+
+The new Lincoln Continental revealed
+
+Lincoln reveals the new Continental at the North American International Auto Show in Detroit Tuesday.
+
+6 of 25 See more video
+
+First things you should do if you win Powerball jackpot
+
+Winning the lottery would be great but have you thought about all of the risks that come with being a billionaire?
+
+7 of 25 See more video
+
+Girl on 'Bachelor': 'I swear I'm not crazy'
+
+On Monday's episode of The Bachelor, Lace was not afraid to let the claws out when it was time to score alone time with Ben.
+
+8 of 25 See more video
+
+NASA pics show alphabet in natural formations from space
+
+NASA has taken some incredible pictures that one employee has searched to find the letters of the alphabet displayed in natural formations. They're breathtaking says Patrick Jones (@Patrick\_E\_Jones).
+
+9 of 25 See more video
+
+This traveling cat is better than you in every way possible
+
+Meet Gandalf, the traveling cat who's been more places in the US than you! He also has some tips on how to travel affordably! Keleigh Nealon (@keleighnealon) has the moving story!
+
+10 of 25 See more video
+
+City unleashes 'Poopmaster 6000' to clean sidewalks
+
+Crows in Portland, Oregon have become such a nuisance that the city introduced a new machine to help combat the problem.
+
+11 of 25 See more video
+
+Would you wait in this 3 hour line for powerball tickets?
+
+People waited for three hours in line at a lottery store on the California/Nevada border Tuesday for their chance to buy a Powerball ticket potentially worth $1.5 Billion. Nevada does not participate in the Powerball lottery. (Jan. 12)
+
+12 of 25 See more video
 
 Trapped window washers rescued from sky-high building
 
 Two window washers found themselves trapped on the top floor of a Houston sky-rise after their scaffolding malfunctioned. Watch the dramatic rescue.
 
-2 of 20 See more video
+13 of 25 See more video
+
+Obama wants U.S. to be the nation to cure cancer
+
+President Obama announced a new national effort to cure cancer and asked Vice President Joe Biden to lead the charge. Biden's son, Beau, died from brain cancer in May 2015.
+
+14 of 25 See more video
+
+Footage shows operation that led to 'El Chapo' arrest
+
+Video footage released by the Mexican government shows the military operation that led to the arrest of drug kingpin Joaquin 'El Chapo' Guzman. Video provided by AFP
+
+15 of 25 See more video
 
 Family uses Airbnb, accidentally rents marijuana grow house
 
 A family expecting a nice vacation found themselves detained when they accidentally booked a marijuana grow house. The police raided the home and seized all paraphernalia. Keleigh Nealon (@keleighnealon) has the story!
 
-3 of 20 See more video
+16 of 25 See more video
 
-What you need to know about the record Powerball
+The No Pants Subway Ride spreads across the globe to thousands
 
-Wednesday's Powerball drawing is now an estimated $1.4 Billion - here are some of the basics you need to know to play.
+The "No Pants Subway Ride" began in New York City in 2002. It has since grown to 60 cities around the world with thousands of participants. Keri Lumm (@thekerilumm) reports.
 
-4 of 20 See more video
+17 of 25 See more video
+
+Your four best friends after winning the lottery
+
+Winning the powerball is a dream come true, but you'll probably need some financial advice. Here are four professionals ready to help out.
+
+18 of 25 See more video
+
+Obama's best jokes from the State of the Union address
+
+President Obama made his final State of the Union address. He poked fun at Congress and himself during his speech on the economy, climate change and healthcare.
+
+19 of 25 See more video
 
 Winter waves freeze car in place
 
 Winter waves have frozen a car in place along the shore of Lake Erie after inches of ice encased one side of the vehicle overnight.
 
-5 of 20 See more video
+20 of 25 See more video
 
-Teen uses 'crazy strength' to lift burning car off dad
+Teen girl uses 'crazy strength' to lift burning car off dad
 
 Charlotte Heffelmire's father can't believe what his 19-year-old daughter was able to do to save his life. Trapped under a burning car, she was able to lift it enough for him to escape. But that isn't all she accomplished that day.
 
-6 of 20 See more video
-
-Making screen-accurate 'Star Wars' costumes isn't easy
-
-Dawn Bright spent seven months building her Adam Driver-inspired Kylo Ren costume from scratch.
-
-7 of 20 See more video
+21 of 25 See more video
 
 David Bowie's top five movie roles
 
 David Bowie certainly made an impression with his iconic performances on the stage and on the big screen.
 
-8 of 20 See more video
+22 of 25 See more video
 
-Six things to watch in the State of the Union
+5 things more likely to happen than winning the powerball
 
-USA TODAY's Susan Page outlines the six things to watch in President Barack Obama's final State of the Union address.
+Have you bought in to the powerball frenzy? If so, you may want to reconsider that ticket because your odds of winning aren't very good.
 
-9 of 20 See more video
-
-Nissan Titan Warrior concept - First Look
-
-In keeping with the fighter/combatant theme, Nissan revealed the Titan Warrior Concept pickup truck at the 2016 North American International Auto Show in Detroit, where many will likely assume this new pickup is meant to be a Ford Raptor fighter.
-
-10 of 20 See more video
-
-Ford reveals their new Raptor truck
-
-Ford introduces the new model of their powerful Raptor truck at the North American International Auto Show in Detroit.
-
-11 of 20 See more video
-
-What you need to know about the record Powerball
-
-Wednesday's Powerball drawing is now an estimated $1.4 Billion - here are some of the basics you need to know to play.
-
-12 of 20 See more video
+23 of 25 See more video
 
 Three sexy cars at the 2016 auto show
 
 Beautiful cars could be found at every turn of the North American International Auto Show in Detroit, but which ones stand out? USA TODAY's Chris Woodyard found three that show where sedan design is leading.
 
-13 of 20 See more video
-
-Two trucks made for the rugged outdoors
-
-USA TODAY's Chris Woodyward breaks down two of the most rugged trucks introduced at the North American International Auto Show in Detroit.
-
-14 of 20 See more video
-
-Buick reveals concept Avista at the 2016 NAIAS
-
-Buick reveals the Avista concept at the 2016 Detroit auto show. Mandi Wright/DFP
-
-15 of 20 See more video
-
-Chrysler reveals the 2017 Pacifica
-
-Chrysler is dropping the Town &. Country has revealed its new 2017 Chrysler Pacifica at the North American International Auto Show in Detroit.
-
-16 of 20 See more video
-
-Dolce and Gabbana release not-so-modest Muslim wear
-
-Dolce and Gabbana's new collection of hijabs and abayas target Muslim clothing seekers in the Middle East. Jordyn Rolling (@jordynrolling) has the controversy!
-
-17 of 20 See more video
-
-Canadian astronaut covers Bowie's 'Space Oddity'
-
-Canadian Commander Chris Hadfield becomes a web sensation when he said goodbye to life on the International Space Station by performing a cover version of David Bowie's 'Space Oddity.' Bowie himself later endorsed the video.
-
-18 of 20 See more video
+24 of 25 See more video
 
 Flight attendants reveal worst behavior in the sky
 
 Flight attendants took to Quora to reveal some of the worst behavior they've seen. It's all very concerning says Patrick Jones (@Patrick\_E\_Jones).
 
-19 of 20 See more video
+25 of 25 See more video Last VideoNext Video news
 
-Golden Globe Awards: Best moments, big winners
+8 key quotes from Obama's State of the Union
 
-The big winners and funniest moments from the 2016 Golden Globe Awards.
+S.C. Gov. Nikki Haley sounds optimistic tone in GOP address
 
-20 of 20 See more video Last VideoNext Video news
+1 hour, 50 minutes | Washington
 
-Lucky? 13 things to know about record Powerball
+Vice President Biden will head pursuit of cancer cureIran detains 2 U.S. Navy boats, 10 sailors in Persian GulfObama Summons Americans to Compromise and Change sports
 
-Why the el Chapo extradition could take years
+Rams are moving back to Los Angeles
 
-11 hours, 24 minutes | Nation
+'Greatest plan ever?' Rams' vision wows NFL owners
 
-Bomb threats made at multiple schools in Del., Md., Va.Cuomo’s office cleared in Moreland Commission probeToday in History for January 12th sports
+27 minutes | St. Louis Rams
 
-The call that might have won 'Bama the championship
+12 years after going No. 1, Palmer is deliveringRams players react to Los Angeles returnBernie Kosar: Johnny Manziel keeps blowing me off life
 
-Swinney fumes over clock
+Kevin Hart, Ice Cube hit the gas for 'Ride Along 2'
 
-1 hour, 36 minutes | NCAAF
+Cross WordsAll GamesEntertain This! The Weeknd explains how he found his falsettoCritic's Corner: 'American Crime' is off to great startU.S.-backed music festival headed to Cuba money
 
-CFP championship game: First-half takeawaysPelissero: Burfict's dirty plays had to be curbedBurfict suspended 3 games life
+Rieder: How innovative Philly newspaper approach took shape
 
-Sean Penn was right: Spying eyes were on him
+StocksPortfolio TrackerAmerica's Markets Self-driving cars may be here faster than you thinkTime to pity oil companies? $30 oil is hereStocks manage 2nd day of gains after late rally tech
 
-Cross WordsAll GamesEntertain This! Appreciation: David Bowie, a man of many ch-ch-changesBen Higgins had some pretty awkward first dates on 'The Bachelor'Critic's Corner: CW honors 20th anniversary of 'MADtv' money
+Binge-on controversy won't go away
 
-3 models that stole the first day of the Detroit auto show
+Amazon quietly builds its own shipping company
 
-StocksPortfolio TrackerAmerica's Markets The first things to do if you win the lottery'Lower for longer:' Oil prices crater to 2003 levelsStocks close mixed as oil tanks almost 6% tech
+6 hours, 54 minutes | News
 
-Fed hike, China torpedo tech toward bear market
+Google car's computer got smarter in 2015Tesla's Musk says Apple car is an 'open secret'Five questions about new social app Peach travel
 
-Big venture funding rounds drop in half
+50 state road trip: America's quirkiest tourist attractions
 
-4 hours, 34 minutes | News
+Will $99 fares to Europe become the new normal?
 
-Apple loses more ground to Google's Chromebook in education marketLive like a Microsoft CEO, for $3.5 millionTwitter shares hit all-time low travel
+1 day, 5 hours | Today in the Sky
 
-Cruise smackdown: Norwegian Breakaway vs. Carnival Magic
-
-January's #avgeek gallery: 30 cool aviation photos (2016)
-
-15 hours, 53 minutes | Today in the Sky
-
-How to score the best seat on the plane10 iconic NYC eateries with locations in other citiesAsk the Captain: What should I do if I see ice on the wing? Reviewed.com
+Colorado's best breweries and distilleries near ski townsTravel in 2016: Hot destinations, top trendsCruise smackdown: Norwegian Breakaway vs. Carnival Magic Reviewed.com
 
 CES 2016 Editors' Choice award winners
 
-Reviewed.com's three top picks from CES 2016
+Samsung's smart fridge: Gimmick or game-changer?
 
-3 days, 10 hours | Tech
+10 hours, 25 minutes | Tech
 
-Samsung SUHD TV: Smarter, brighter than the restGet your paws on the latest pet tech at CES 2016LG's flagship OLED TV: Beautiful, inside and out experience
+Whirlpool's new fridge has shelf space to spareWill this solar device replace your grill?Keurig Kold adds cocktails to the mix experience
 
-Hong Kong's 20 hottest dining destinations
+Cruise smackdown: Norwegian Breakaway vs. Carnival Magic
 
-Get sorted for Universal Orlando's big Harry Potter bash
+10 iconic NYC eateries with locations in other cities
 
-3 days, 16 hours | America
+1 day, 17 hours | Food &. Wine
 
-Old American mills: Photo tour of a day gone byGroovy Caribbean: The region's best music festivals in 2016The 53 largest cruise ships in the world VOICES Rieder
+Get sorted for Universal Orlando's big Harry Potter bashGroovy Caribbean: The region's best music festivals in 2016Old American mills: Photo tour of a day gone by VOICES Opinion
 
-Rieder: Sean Penn/Rolling Stone/El Chapo debacle
+Donald Trump: My nomination would increase voter turnout
+
+Bell
+
+Bell: NFL's path back to Los Angeles paved with personal wealth
 
 Opinion
 
-Paul LePage has more apologizing to do: Column
-
-NCAAB
-
-Kansas takes over as unanimous No. 1 in USA TODAY coaches poll
-
-Wolff
-
-Wolff: The two faces of the Times
+Punchlines: ‘El Chapo’ capture made for the movies
 
 Voices
 
-Voices: Helping the homeless is everyone's responsibility
+Voices: Powerball ticket can power your dreams
 
-OnPolitics
+Rieder
 
-Viewer’s guide to Tuesday's State of the Union Address
+Rieder: How innovative Philly newspaper approach took shape
+
+Opinion
+
+When Powerball fails you: Column
+
+Opinion
+
+Bengals' Burfict gets off too easy: Our view
 
 Elections
 
 2016 USA TODAY/Facebook Candidate Barometer
 
-Nation Now
-
-January political cartoons from Gannett cartoonists
-
-*   David Bowie: singer, songwriter and actor, Jan. 8, 1947- Jan. 11, 2016
+*   President Obama's final State of the Union
 *   New car models wow at Detroit auto show
+*   Day in celebrities
+*   Your Take: These dressed pets never looked better
 *   The 73rd Annual Golden Globe Awards show
-*   Best from NFL wild-card games
-*   The day in pictures
 
 Trending on Social
 
-*   Judge cuts 'affluenza' teen's mom bond
+*   Mich. governor activates National Guard in water crisis
     
-*   USA TODAY/Rock the Vote poll: Millennials' agenda for the next president
+*   'Greatest plan ever' in sports? Rams' vision for L.A. wows NFL owners
     
-*   Macy's announces layoffs, lists 36 store closures
+*   Rams moving back to Los Angeles with Chargers given option to join
     
-*   Viewer’s guide to Tuesday's State of the Union Address
+*   Self-driving cars may be here faster than you think
     
-*   Honda Civic named North American Car of the Year
+*   Rams players react to leaving St. Louis for Los Angeles
     
 
 SPONSOR CONTENT Right Now
