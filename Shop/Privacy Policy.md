@@ -350,6 +350,7 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Reset my Homepage
     *   Affinity Discount Program
     *   Help Me Find a PC
+    *   Community
 *   Customer Support
     *   Contact Us
     *   Shopping Help
