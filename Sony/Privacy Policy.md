@@ -42,7 +42,7 @@ PlayMemoriesSpark your imagination &. find new ways to enjoy your photos. Explor
 
 Your browser does not support JavaScript! Honoring David Bowie, a Musical Icon
 
-Revisit His Songs
+Stream More Songs
 
 Close
 
@@ -76,9 +76,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-Last night was a great time! Congratulations again to Laszlo Nemes, writer/director of SON OF SAUL #GoldenGlobes
+The votes are in! Here are your PS.Blog GOTY 2015 winners: playstation.com
 
-2016-01-12 07:04:41+00:00
+2016-01-13 09:32:00+00:00
 
 View Tweet
 
@@ -138,9 +138,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-Don’t miss @CamCountry performing her @TheGRAMMYs nominated hit #BurningHouse TONIGHT -11:35pm ET on @FallonTonight!
+@AGreatBigWorld: Tour dates are announced for our Kaleidoscope Tour! Who's coming? Tickets are on sale Friday morning. #agreatbigtour
 
-2016-01-12 06:32:40+00:00
+2016-01-13 04:15:57+00:00
 
 View Tweet
 
@@ -252,9 +252,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-Tomorrow, we’re celebrating a new beauty! Don’t miss it. 12.01.16 – 2:00 CET. #Xperia
+GO. ON. IN. Check out our new h.ear line-up. #SonyCES sony.co.uk
 
-2016-01-12 05:21:55+00:00
+2016-01-13 01:15:05+00:00
 
 View Tweet
 
