@@ -1,4 +1,4 @@
-Winter Sale. Up to 75% off. Shop Now!
+Earn Bonus Reward Points when you use your Buckle Card! See details.
 
 Guest Services 800-607-9788
 
