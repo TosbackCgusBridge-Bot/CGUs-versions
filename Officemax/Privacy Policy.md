@@ -13,7 +13,7 @@ SEG1 hp
 
 Office Depot Deals
 
-CBf7DflQeNIz9AbdAmAoud0
+aC-6p3e8CgRneUXXH4mZSAn
 
 Search Suggestions
 
@@ -212,7 +212,7 @@ to your inbox
 *   Website Feedback
 
 *   SPECIAL PROGRAMS
-*   5% Back to Schools Program
+*   Give Back to Schools Program
 *   Environmental Programs
 *   Veterans Advantage
 
