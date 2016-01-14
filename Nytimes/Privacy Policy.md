@@ -1,4 +1,5 @@
-*   Help
+*   Subscribe Now
+Subscribe campaign: inyt2016\_bar1\_digi\_new\_year\_4XRJJ -- 282856, creative: 1\_CRS-9102\_inyt2016\_bar1\_digi\_new\_year\_4XRJJ -- 411949, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1*   Help
 
 *   Home Page
 *   Today's Paper
@@ -243,3 +244,5 @@ Search Help
 *   Help
 *   Contact Us
 *   Site Feedback
+
+campaign: nyt2014\_edu\_propensity\_cookie\_dropper -- 256873, creative: nyt2015\_edu\_propensity\_cookie\_dropper -- 401071, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Inv1
