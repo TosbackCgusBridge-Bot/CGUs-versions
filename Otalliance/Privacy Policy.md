@@ -1,9 +1,9 @@
 Skip to main content Online Trust Alliance
 
 *   Home
-*   Subscribe
+*   Newsletter Signup
 *   Member Login
-*   Request New Login
+    *   Request New Login
 *   Privacy Policy
 *   Contact Us
 
@@ -37,7 +37,7 @@ Skip to main content Online Trust Alliance
 *   News &. Events
     *   OTA In The News
     *   Press Releases
-    *   DpD 2015
+    *   DpD 2016
     *   Upcoming Events
         *   Recent Events
         *   Events Archive
@@ -104,15 +104,13 @@ Thu, Jan 28, 2016 Security Best Practice to Drive Trust in IoT
 
 In recogntion of World Data Protection Day, please join OTA and Cryptosoft reviewing the challenges and opportunities of IoT devices. With over 20bn connected devices expected globally by 2020 (Gartner) the opportunities are huge – however this also comes with security risks. With data passing through these 6bn devices how will we ensure security without halting technical advances?  IoT also has the fundamental problem of ownership. IoT ecosystems invariably consist of a mix of ownership, standards and technologies.
 
+Thu, Jan 28, 2016 Security Best Practices to Drive Trust in IoT
+
+In response to the increasing levels of data breaches and the global importance of privacy and data security, in 2010 the Online Trust Alliance (OTA) and dozens of global organizations embraced Data Protection Day as Data Privacy &. Protection Day, emphasizing the need to look at the long-term impact to consumers of data collection, use and protection practices.
+
 Thu, Jan 28, 2016 2016 Data Privacy Day
 
 Join us on January 28 as experts in law enforcement, forensics and security, policy and communications answer these questions through insightful discussions about cybersecurity trends and best practices on how to prepare for and respond to a cybersecurity event. Speakers include Tim Wallach, Supervisor Special Agent of the FBI and Craig Spiezle, Executive Director &. President, Online Trust Alliance.  
-
-Tue, Feb 9, 2016 FTC To Host Data Security Conference - Seattle
-
-The Federal Trade Commission will host a one-day conference in Seattle on Feb. 9, 2016, on how companies can build security into their products and services. The event will have a particular focus on guidance for startups and early stage businesses about how to make security considerations a part of a company’s culture from the start.
-
-FTC Commissioner Julie Brill will provide opening remarks for the conference, which will be the third “Start with Security” event nationwide. The conference will bring together experts in data security to provide guidance to businesses.
 
 More >>.
 
@@ -161,8 +159,7 @@ News &. Events
 
 *   OTA In The News
 *   Press Releases
-*   DpD 2015
-    *   DpD 2015 Day Speakers
+*   DpD 2016
 *   Upcoming Events
     *   Recent Events
     *   Events Archive
@@ -189,9 +186,8 @@ About Us
 © 2015   Online Trust Alliance
 
 *   Home
-*   Subscribe
+*   Newsletter Signup
 *   Member Login
-*   Request New Login
 *   Privacy Policy
 *   Contact Us
 
