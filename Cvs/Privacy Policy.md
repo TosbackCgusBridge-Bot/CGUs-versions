@@ -1,6 +1,6 @@
 Privacy Policy
 
-Effective Date: December 10, 2015
+Effective Date: January 13, 2016
 
   
 
@@ -17,7 +17,7 @@ We may change this Privacy Policy. The “Effective Date” legend at the top of
 
   
 
-In some circumstances, CVS Caremark's use of your information will also be subject to the requirements of the Health Information Portability and Accountability Act (frequently referred to as 'HIPAA'). For example, when you are submitting information for prescription refills we are subject to the requirements of HIPAA. In those circumstances, the terms of CVS Caremark's HIPAA Notice of Privacy Practices will apply. If you have questions about which policy applies to information you have submitted, please do not hesitate to Contact Us, or call us toll-free at (888) 607-4287.
+In some circumstances, CVS/pharmacy use of your information will also be subject to the requirements of the Health Information Portability and Accountability Act (frequently referred to as 'HIPAA'). For example, when you are submitting information for prescription refills we are subject to the requirements of HIPAA. In those circumstances, the terms of CVS/pharmacy HIPAA Notice of Privacy Practices will apply. If you have questions about which policy applies to information you have submitted, please do not hesitate to Contact Us, or call us toll-free at (888) 607-4287.
 
   
 
@@ -232,7 +232,7 @@ Woonsocket, R.I. 02895
 
 Privacy Policy
 
-Effective Date: December 10, 2015
+Effective Date: January 13, 2016
 
   
 
@@ -249,7 +249,7 @@ We may change this Privacy Policy. The “Effective Date” legend at the top of
 
   
 
-In some circumstances, CVS Caremark's use of your information will also be subject to the requirements of the Health Information Portability and Accountability Act (frequently referred to as 'HIPAA'). For example, when you are submitting information for prescription refills we are subject to the requirements of HIPAA. In those circumstances, the terms of CVS Caremark's HIPAA Notice of Privacy Practices will apply. If you have questions about which policy applies to information you have submitted, please do not hesitate to Contact Us, or call us toll-free at (888) 607-4287.
+In some circumstances, CVS/pharmacy use of your information will also be subject to the requirements of the Health Information Portability and Accountability Act (frequently referred to as 'HIPAA'). For example, when you are submitting information for prescription refills we are subject to the requirements of HIPAA. In those circumstances, the terms of CVS/pharmacy HIPAA Notice of Privacy Practices will apply. If you have questions about which policy applies to information you have submitted, please do not hesitate to Contact Us, or call us toll-free at (888) 607-4287.
 
   
 
