@@ -193,7 +193,7 @@ If you have questions about either this Privacy Policy (or your travel planning 
 
 This Privacy Policy is effective as of December 4, 2015.
 
-Explore More
+Explore More Deals
 
 *   Cheap Flights
 *   Cheap Hotels
@@ -204,7 +204,7 @@ Explore More
 *   CheapTravelDeals
 *   Travel Blog
 
-Deals
+Cheap Tickets
 
 *   About CheapTickets
 *   Investor Relations
@@ -217,14 +217,12 @@ Deals
 *   Terms of Use
 *   Privacy Policy
 
-Cheap Tickets
+Other Links
 
 *   CheapCash
 *   Best Price Guarantee
 *   Mobile
 *   My Account
 *   Site Map
-
-Other Links
 
 ©2015, Trip Network, Inc. (d/b/a CheapTickets) All rights reserved. CheapTickets, CheapTickets.com, and the CheapTickets logo are either registered trademarks or trademarks of Trip Network, Inc. in the U.S. and/or other countries. Other logos or product and company names mentioned herein may be the property of their respective owners.
