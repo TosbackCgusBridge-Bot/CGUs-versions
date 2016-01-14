@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14404877976
+true true L14408231995
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p34.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Tue Jan 12 11:14:51 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Wed Jan 13 11:15:21 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,27 +48,31 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-2 Days Only | Online Only | Ends January 12 | Code: JANUARY2 \*Exclusions and details50% Off\* select orig and reg-priced styles Shop Bedding and Bath Shop Luggage Shop Window Shop Gold and Silver Jewelry40% Off\* select orig and reg-priced styles Shop Home Decor Shop Diamond and Gemstone Jewelry30% Off\* select orig and reg-priced styles Shop Kitchen and DiningExtra 20% Off\* select orig and reg-priced styles Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Fashion Jewelry Shop Handbags and Accessories Shop Watches Shop Online ClearancePlus Free Shipping Over $49\* Activewear From Nike Nike For The Family
+Extra 25% Off\* with your JCPenney Credit Card Or, Extra 20% Off\* with any other method of payment Online Only | $100 or More | Ends January 18 | Use Code: JANSAVE Or, Extra 20% Off\* with your JCPenney Credit Card Or, Extra 15% Off\* with any other method of payment In Store and Online | Ends January 18 | Use Code: JANSAVE Print Coupon
+
+\*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
+
+\*Exclusions and details Big Savings Start Now In Store and Online Big Weekend Sale and Clearance Starts Now! Shop Big Weekend Sale Shop Clearance View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Activewear From Nike Nike For The Family
 
 Excluded from coupon.
 
-Shop Nike For The Family Shop Men Shop Women Shop Kids Shop Shoes         Stock Up On Tee Shirts and Polos 12.99 Men's St. John's Bay Polos
+Shop Nike For The Family Shop Men Shop Women Shop Kids Shop Athletic Shoes         Great Deals On Arizona Jeans Buy 1, Get 1 Free\*
 
-Select styles.
+Guys', Juniors' and Kids' Arizona Jeans, select styles
 
-Shop Men's St. John's Bay Polos  8.99 Women's St. John's Bay Tees
+Shop Guys' Arizona Jeans Shop Juniors' Arizona Jeans Shop Boys Arizona Jeans Shop Girls Arizona Jeans
 
-Select styles.
+\*Buy one item at regular price, get the second item of equal or lesser value for free.
 
-Shop Women's St. John's Bay Tees   Bras On Sale! Stock Up Sale - Now Through January 16
+        Our Home Sale Is Going On Now! 30 to 50% Off Select Home Items Shop Home Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Stock Up On Tee Shirts and Polos Buy 1, Get 1 Free\*
 
-20% Off Bras, select styles when you buy 2 or more.
+St. John's Bay Men's Polos, select styles
 
-Shop Bras Up To 80% Off Clearance 60 to 80% Off Clearance
+Shop Men's St. John's Bay Polos  
 
-In Store and Online
+St. John's Bay Women's Tees, select styles
 
-Shop Clearance Shop Women Clearance Shop Men Clearance Shop Kids Clearance Shop Baby Clearance Shop Shoes Clearance Shop Home Clearance Shop Handbags and Accessories Clearance Shop Jewelry Clearance SportsFanShop
+Shop Women's St. John's Bay Tees   SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
