@@ -200,7 +200,7 @@ If you have questions about either this Privacy Policy (or your travel planning 
 
 This Privacy Policy is effective as of December 4, 2015.
 
-Explore More
+Explore More Orbitz
 
 *   About Orbitz
 *   Investor Relations
@@ -216,7 +216,7 @@ Explore More
 *   Terms of Use
 *   Privacy Policy
 
-Orbitz
+Other Links
 
 *   Vacation Packages
 *   Car Rental
@@ -228,7 +228,5 @@ Orbitz
 *   Best Price Guarantee
 *   Travel Deals
 *   Mobile
-
-Other Links
 
 ©2015 Orbitz, LLC. All rights reserved. Orbitz, Orbitz.com, and the Orbitz logo are either registered trademarks or trademarks of Orbitz, LLC in the U.S. and/or other countries. Other logos or product and company names mentioned herein may be the property of their respective owners.
