@@ -619,4 +619,4 @@ Facebook Twitter YouTube Instagram
 *   Security
 *   Contact
 
-©2015 Zynga Inc. All rights reserved.
+©2016 Zynga Inc. All rights reserved.
