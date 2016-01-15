@@ -82,9 +82,9 @@ The votes are in! Here are your PS.Blog GOTY 2015 winners: playstation.com
 
 View Tweet
 
-Hit the Slopes With Action Cam
+The Xperia Z5 Arrives Soon
 
-Adventure Awaits
+Get Details
 
 Close
 
@@ -94,7 +94,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Adventure Awaits
+Get Details
 
 Bring Your Record Collection With You Everywhere
 
