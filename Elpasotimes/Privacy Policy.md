@@ -98,230 +98,266 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Nation Now California lottery: Winning ticket sold in Chino Hills
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Elections Republican hopefuls brawl in feisty debate Read StoryPhotos from the debateAnalysisCruz, Rubio come out swingingThe undercard debate
 
 TOP STORIES
 
-*   Elections Paul Ryan: Obama's State of the Union 'degrades the presidency'
-*   News As diseases proliferate, mosquitoes becoming Public Enemy No. 1
-*   Washington Obama approves largest-ever expansion of refugee aid
-*   Suicide bombers attack Jakarta Starbucks, other locations
-*   Al Jazeera America already closing shop
-*   White House: Naval crisis validates Iran engagement
-*   Manziel's future with Browns as uncertain as ever
-*   Record-low 31.3M watched Obama's last SOTU
-*   'Lost's' Holloway, Cuse reunite for USA's 'Colony'
-*   Theater shooter thanked church slayings suspect
-*   Honduras bus crash kills 3 Columbia students
-*   Late selloff tips stocks into correction zone
-
-NFL
-
-Lawrence Phillips found dead in prison at age 40
+*   Elections Debate analysis: Smaller field, higher stakes, tougher jabs
+*   OnPolitics Rubio comes out swinging at Cruz as debate nears end
+*   OnPolitics Cruz turns tables on Trump with citizenship question
+*   3 men arrested on suspected links to Jakarta attack
+*   At least 14 dead in ski tour bus accident in Japan
+*   Céline Dion's husband René Angélil dies
+*   Video shows teen running from cops when he's shot
+*   Miss Washington found with stabbed MLS player
+*   Goldman Sachs agrees to tentative $5.1B settlement
+*   Officials: At least 1 killed in Florida Amtrak crash
+*   3 Baltimore police officers suspended in assault
+*   Baby's body found in high school bathroom
 
 Nation Now
 
-Hunter kills lion that trekked 450 miles to Mont.
+One Nation: Renewable energy tech could eliminate utilities
 
-People
+TV
 
-Charlie Sheen says he's back on HIV meds
+Matthew Perry won't be part of 'Friends' 'reunion'
 
-NFL
+Denver Broncos
 
-Greatest moments in the history of all 32 NFL teams
+Broncos aren't buying Ben Roethlisberger's 'Jedi mind trick' regarding injured shoulder
+
+Entertain This
+
+10 Alan Rickman movies besides 'Harry Potter'
 
 OUR PICKS Nation Now
 
-'Making the Murderer': Wisconsin, nation differ on Avery
+$1 million Powerball winner gives back by giving blood
 
-Sports
+Movies
 
-7 most devastating U.S. sports franchise moves
+Yet again, Oscar nods show glaring lack of diversity
 
-Cars
+NFL
 
-The 3 worst – and best – cars from Detroit auto show
+50 things to watch for in NFL divisional playoff games
 
-Sponsor Story
+OnPolitics
 
-Infographic: Top 5 reasons you need an escape
+'Deal from strength or get crushed,' kids sing in bizarre Trump anthem
+
+Dad sends formal rejection letter to deny 6-Year-Old son A $20 loan
+
+There's a regular loan rejection letter, then there's a loan rejection letter from your dad. Video provided by Newsy
+
+1 of 23 See more video
+
+Best moments from the Fox Business undercard GOP debate
+
+Fox Business Network played host to the Republican primary debate. Mike Huckabee, Carly Fiorina and Rick Santorum were featured at the undercard debate. These are their best moments.
+
+2 of 23 See more video
+
+Testing new Jelly Belly flavors 'Spoiled Milk' and 'Dead Fish'
+
+Jelly Belly's gross BeanBoozled collection is getting two new flavors this spring. Our reporter's sister, Lauren Mallenbaum, got an exclusive first-taste of the Spoiled Milk and Dead Fish flavors. We also threw in an old flavor to confuse her.
+
+3 of 23 See more video
+
+New video is released in death of Chicago teen fleeing police
+
+Newly-released video footage shows a plainclothes Chicago police officer fatally shooting an unarmed 17-year-old as the young man sprinted away from cops after stealing a car.
+
+4 of 23 See more video
+
+Car frozen for days finally freed from ice
+
+A car that had been turned into an ice sculpture by Lake Erie in upstate New York is finally freed from ice after being frozen for several days.
+
+5 of 23 See more video
+
+Mom knits creepy life-size replica of her son
+
+Marieke of Club Geluk decided to take her knitting game to a whole new level, by knitting her son. Keri Lumm (@thekerilumm) reports.
+
+6 of 23 See more video
+
+Dad sends formal rejection letter to deny 6-Year-Old son A $20 loan
+
+There's a regular loan rejection letter, then there's a loan rejection letter from your dad. Video provided by Newsy
+
+7 of 23 See more video
+
+Cop spots kid playing with the wrong ball, fixes it
+
+A North Carolina police officer did something that no one expected when he pulled over and approached a group of kids playing basketball in their driveway.
+
+8 of 23 See more video
+
+Powerball: How much did you win?
+
+How much does each level of winning Powerball pay out? Here are the exact amounts and the odds each winner faced.
+
+9 of 23 See more video
+
+US customs agents seize 2,800 marijuana 'carrots'
+
+U.S. Customs agents in Pharr, Texas, discovered the marijuana disguised as carrots. They weren't fooled by the phony produce. Video provided by Newsy
+
+10 of 23 See more video
+
+The films that got snubbed by Oscar nominations
+
+At the Oscar nominations ceremony USA TODAY's speaks with Deadline.com's Pete Hammand and film critic Leonard Martin about the films that were overlooked for this year's Academy Awards.
+
+11 of 23 See more video
+
+Cate Blanchett &. Rooney Mara on the forbidden love in 'Carol'
+
+Cate Blanchett, Rooney Mara, and director Todd Haynes discuss making their film 'Carol.' Both actresses are nominated for Oscars for their performances.
+
+12 of 23 See more video
+
+Leo DiCaprio: 'The Revenant' challenge was the cold
+
+Leonardo DiCaprio tells USA TODAY's Bryan Alexander about surviving the cold weather during the filming of 'The Revenant.'
+
+13 of 23 See more video
+
+Matt Damon talks Martian potatoes
+
+Matt Damon tells USA TODAY's Andrea Mandell about the importance of potatoes in his new film 'The Martian.'
+
+14 of 23 See more video
 
 Academy Award winners who lost their Oscars
 
 Winning an Academy Award is incredibly difficult. But holding on to that Oscar may be even harder, considering how many celebs have lost track of them. Rachel Holt (@ItsRachelHolt) has the details.
 
-1 of 17 See more video
+15 of 23 See more video
+
+Weirdest places Oscar winners keep their awards
+
+Winning an Oscar is a big deal, but not everyone likes to put their awards on display. From the bathroom to the fridge, Rachel Holt (@ItsRachelHolt) will school you on the strangest places celebs store their awards.
+
+16 of 23 See more video
 
 House Speaker Paul Ryan responds to Obama State of the Union
 
 Speaker of the House Paul Ryan reacts to Obama's State of the Union and Gov. Nikki Haley's remarks in this episode of Capital Download with Susan Page.
 
-2 of 17 See more video
+17 of 23 See more video
 
 Deputy admits to beating K-9 partner
 
 A Ramsey County, Minnesota deputy pleaded guilty to hitting his K-9 partner. The deputy was caught on camera dragging the dog and striking the animal multiple times.
 
-3 of 17 See more video
-
-Sweet story behind ice cream shop's bench
-
-The 'Good Neighbor' benches were meant to be worn, weathered, and most of all loved. Once the artists were finished making them beautiful, they were placed with individuals who do good for others.
-
-4 of 17 See more video
-
-'Friends' reunion is coming to NBC. This is not a drill
-
-Chandler, Monica, Joey, Phoebe, Ross and Rachel will be reuniting for an NBC special to honor comedy director James Burrows. Video provided by Newsy
-
-5 of 17 See more video
-
-Sports odds more likely than winning Powerball
-
-So you're saying there's a chance.
-
-6 of 17 See more video
-
-Can Lori Loughlin pass this tough 'Full House' quiz?
-
-Before we head to Fuller House, we put Loughlin to the test to see how much she remembers from the original series
-
-7 of 17 See more video
+18 of 23 See more video
 
 Watch: Kid reenacts Steph Curry's dribble moves with amazing accuracy
 
 After much practice, this 11-year-old can perfectly replicate Curry's incredibly difficult dribble moves.
 
-8 of 17 See more video
+19 of 23 See more video
 
 What hit and what missed at the auto show
 
 USA TODAY's Chris Woodyard and Nathan Bomey break down the hits and the misses at the North American International Auto Show in Detroit.
 
-9 of 17 See more video
-
-City unleashes 'Poopmaster 6000' to clean sidewalks
-
-Crows in Portland, Oregon have become such a nuisance that the city introduced a new machine to help combat the problem.
-
-10 of 17 See more video
-
-The new Lincoln Continental revealed
-
-Lincoln reveals the new Continental at the North American International Auto Show in Detroit Tuesday.
-
-11 of 17 See more video
+20 of 23 See more video
 
 'Poop pills' could be the next weight loss trend
 
 Researchers in Massachusetts want to see if they can fight obesity by changing the microbes in a person's gut, but as Mara Montalbano (@maramontalbano) tells us, to do this they have to get people to eat poop.
 
-12 of 17 See more video
-
-First things you should do if you win Powerball jackpot
-
-Winning the lottery would be great but have you thought about all of the risks that come with being a billionaire?
-
-13 of 17 See more video
-
-Your four best friends after winning the lottery
-
-Winning the powerball is a dream come true, but you'll probably need some financial advice. Here are four professionals ready to help out.
-
-14 of 17 See more video
+21 of 23 See more video
 
 Girl on 'Bachelor': 'I swear I'm not crazy'
 
 On Monday's episode of The Bachelor, Lace was not afraid to let the claws out when it was time to score alone time with Ben.
 
-15 of 17 See more video
+22 of 23 See more video
 
 Monk fights back after being robbed while buying lottery tickets
 
 Police say the thief stole three hundred and fifty bucks from a 61-year-old Buddhist monk while he was buying lottery tickets. Gillian Pensavalle (@GillianWithaG) has the video.
 
-16 of 17 See more video
+23 of 23 See more video Last VideoNext Video news
 
-Obama's best jokes from the State of the Union address
+The Short List: #OscarsSoWhite, Alan Rickman, Jakarta
 
-President Obama made his final State of the Union address. He poked fun at Congress and himself during his speech on the economy, climate change and healthcare.
+Winners in 3 states to split record $1.6B Powerball jackpot
 
-17 of 17 See more video Last VideoNext Video news
+16 hours, 27 minutes | Nation Now
 
-Outcome of naval crisis validates engagement with Iran, White House…
+Paul Ryan's short list of what could get done this yearAlex, first January hurricane since 1938, forms in AtlanticOne Nation: Join the conversation sports
 
-Paul Ryan: Obama's State of the Union 'degrades the…
+Spurs muscle past Cavs to remain unbeaten at home
 
-6 hours, 57 minutes | Elections
+50 things to watch for in NFL divisional playoffs
 
-Spending heavily, Jeb Bush super PAC lobs last-minute attacksHonduras bus crash kills 3 Columbia studentsSuicide bombers attack Jakarta Starbucks, other locations sports
+2 hours, 57 minutes | NFL
 
-Seahawks all-pro comes to Cam Newton's defense
+Broncos won't fall for Big Ben's 'Jedi mind trick'Eagles to hire Pederson once Chiefs' season endsPelissero: Kelly's shot at redemption life
 
-What is Manziel's Browns future under Jackson?
+Céline Dion's husband René Angélil dies
 
-4 hours, 9 minutes | Cleveland Browns
+Cross WordsAll GamesEntertain This! Matthew Perry won't be part of 'Friends' 'reunion'Oscars: Acting races are an all-white field10 Alan Rickman movies to watch besides 'Harry Potter' money
 
-St. Louis never had chance vs. L.A.Giants working on deal to make Ben McAdoo coachLawrence Phillips found dead in prison life
+Goldman Sachs agrees to tentative $5.1B mortgage settlement
 
-'Lost's' Holloway, Cuse reunite for USA's 'Colony'
+StocksPortfolio TrackerAmerica's Markets 13 stores where you're spending fewer bucksWhat JPMorgan's warning on oil means for banksU.S. government pushes for self-driving cars tech
 
-Cross WordsAll GamesEntertain This! Charlie Sheen says he's back on HIV medsMatt Damon talks Martian potatoesBrie Larson opens up about her character in the film “Room” money
+2015 was a big year for VC investing
 
-Fox Business Network sees debates as turning point
+Intel shares tumble. profits slip but top views
 
-StocksPortfolio TrackerAmerica's Markets Rieder: Battered newspapers still importantAl Jazeera America to shut downLate selloff tips major U.S. stock indexes into correction zone tech
+7 hours, 56 minutes | News
 
-GoPro pounded on late-day stunner
+Crowley out as Foursquare CEO. company lands $45M in fundingCalifornia fines Uber $7.6M on rider, driver reportsGates, Jobs rivalry to play out in song on Broadway travel
 
-Pope Francis to meet Alphabet's Eric Schmidt
+Best solo trips for 2016
 
-5 hours, 35 minutes | News
+Buffet at Wynn, 2.0: What to eat at upgraded Vegas spread
 
-Netflix, Amazon shares divePC shipments plunge — except for Apple'sVoices: A stormy forecast for Silicon Valley travel
+16 hours, 15 minutes | Great American Bites
 
-Photo tour: The Italian flair of a Costa Cruises ship
-
-Best Amtrak routes for snow lovers
-
-16 hours, 14 minutes | Destinations
-
-Remote winter restaurants not reachable by carChicagoland was Disney's land (and will be again)Airlines to report 'blowout' record profits amid low gas prices,… Reviewed.com
+Photo tour: A day of deep-sea fishing in the BahamasVisit Veracruz, Mexico's Mercado de PescaderiaPhoto tour: The Italian flair of a Costa Cruises ship Reviewed.com
 
 CES 2016 Editors' Choice award winners
 
-Samsung bets big on compact laundry machines
+Confusing clothing label? This iPhone app can help
 
-12 hours, 44 minutes | Tech
+8 hours, 7 minutes | Tech
 
-Samsung's smart fridge: Gimmick or game-changer?Whirlpool's new fridge has shelf space to spareWill this solar device replace your grill? experience
+Hands-free with the LG Signature fridgeLG's new dishwashers blast plates from all anglesSamsung bets big on compact laundry machines experience
 
-50 state road trip: America's quirkiest tourist attractions
+Photo tour: The Italian flair of a Costa Cruises ship
 
-Colorado's best breweries and distilleries near ski towns
+Remote winter restaurants not reachable by car
 
-2 days, 7 hours | Food &. Wine
+2 days, 11 hours | Food &. Wine
 
-Cruise smackdown: Norwegian Breakaway vs. Carnival MagicCaribbean cuisine: The region's best food festivals in 2016 Plan your city escape with USA TODAY Travel's destination guides VOICES Opinion
+Chicagoland was Disney's land (and will be again)Caribbean cuisine: The region's best food festivals in 2016 Plan your city escape with USA TODAY Travel's destination guides VOICES Opinion
 
-Republicans' demographic death wish: Our view
+Citizen Cruz: Our view
+
+Opinion
+
+Iran protects its payday: Our view
 
 Rieder
 
 Rieder: Battered newspapers still important
 
-Opinion
+Nation
 
-Punchlines: Powerball hopefuls in it to win it
+Your Take: USA TODAY's top reader photo of the day
 
-OnPolitics
+Voices
 
-For the Record: Obama's final SOTU — who's got next?
-
-Opinion
-
-Donald Trump: My nomination would increase voter turnout
+Voices: A stormy forecast for Silicon Valley
 
 Elections
 
@@ -335,23 +371,23 @@ Elections
 
 For the Record: Sign up for our new politics newsletter
 
-*   President Obama's final State of the Union
-*   New car models wow at Detroit auto show
-*   Day in celebrities
 *   Your Take: These dressed pets never looked better
+*   Photos: 2016 Oscar acting nominees
+*   Alan Rickman through the years
+*   New car models wow at Detroit auto show
 *   Daily editorial cartoons
 
 Trending on Social
 
-*   California lottery: Winning ticket sold in Chino Hills
+*   Matthew Perry won't be part of 'Friends' 'reunion'
     
-*   Suicide bombers attack Jakarta Starbucks
+*   Broncos aren't buying Ben Roethlisberger's 'Jedi mind trick' regarding injured shoulder
     
-*   PC shipments plunge — except for Apple's
+*   Céline Dion's husband René Angélil dies
     
-*   Al Jazeera America to shut down
+*   Debate analysis: Smaller field, higher stakes, tougher jabs
     
-*   Hue Jackson is Browns' best bet for rebuild — with or without Johnny Manziel
+*   Exclusive: 'Star Wars: Poe Dameron' comic book debuts in April
     
 
 SPONSOR CONTENT Right Now
