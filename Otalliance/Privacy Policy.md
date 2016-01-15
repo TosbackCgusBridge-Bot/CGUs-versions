@@ -110,7 +110,9 @@ In response to the increasing levels of data breaches and the global importance 
 
 Thu, Jan 28, 2016 2016 Data Privacy Day
 
-Join us on January 28 as experts in law enforcement, forensics and security, policy and communications answer these questions through insightful discussions about cybersecurity trends and best practices on how to prepare for and respond to a cybersecurity event. Speakers include Tim Wallach, Supervisor Special Agent of the FBI and Craig Spiezle, Executive Director &. President, Online Trust Alliance.  
+Join us on January 28 as experts in law enforcement, forensics and security, policy and communications answer these questions through insightful discussions about cybersecurity trends and best practices on how to prepare for and respond to a cybersecurity event.
+
+Public revelations of cybersecurity incidents dominate the headlines today. The threat landscape continues to evolve and businesses around the world, in industries from financial services to healthcare and retail, face serious risks to their bottom line, future business and brand reputation.
 
 More >>.
 
