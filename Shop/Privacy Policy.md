@@ -17,13 +17,11 @@ LENOVO Menu
         5.  Ready to Ship PCs
         6.  Coupon Page
         7.  Deals for Students and Educators
-    *   Winter Sale Enjoy a blizzard of savings!
+    *   7 Days of Deals Time is marching on! Get these deals before they’re gone!
         
-        Sale ends January 13.
+        Sale ends January 20
         
-    *   Powerful Gaming PCs.
-        
-        Check out the Y700 Series for the perfect gaming experience.
+    *   NEW ThinkPad P Series Redefining power in a mobile workstation
         
     *   Lenovo Preferred Card The Best Offers with Instant and Affordable Financing.
         
@@ -75,6 +73,7 @@ LENOVO Menu
     *   Business Partners
     *   Resource Center
     *   See all solutions for work
+*   Community
 *   Account
 
 *   Search
@@ -344,12 +343,10 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Product Accessibility
     *   Product Compliance
     *   Training
-    *   Blogs
-    *   Forums
-    *   Customer Feedback
-    *   Reset my Homepage
     *   Affinity Discount Program
+    *   Customer Feedback
     *   Help Me Find a PC
+    *   Reset my Homepage
     *   Community
 *   Customer Support
     *   Contact Us
