@@ -1,3 +1,12 @@
+Visit Your Profile logout _Sign In_ To PBS KIDS
+
+*   Apps
+*   Shop
+
+*   Parents
+*   TV Times
+*   Settings
+
 For Families Visiting PBS KIDS: Last modified: July 1, 2013
 
 You have trusted us for many years to make safe and quality educational children's content that family members of all ages can enjoy. We understand how important privacy is to you and your family, which is why we are committed to creating a safe and secure environment that family members of all ages can enjoy. As a not-for-profit public institution, our goal is to collect only the information about our users and their use of our services that will help us provide the best online experience possible and implement PBS's mission.  
