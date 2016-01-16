@@ -76,7 +76,7 @@ Click the orange buttons to explore the Practitioner Insights interface.
     Close
 *   More Analysis
     
-    This section includes analysis of the day's leading developments in your practice area from Wolters Kluwer Daily Reporting Suite, CQ Roll Call Washington Briefings, Westlaw Daily, and more.
+    This section includes analysis of the day's leading developments in your practice area from Wolters Kluwer Daily Reporting Suite, CQ Roll Call Washington Briefings, Westlaw Daily Briefings, and more.
     
     Close
 *   More Most Popular Analysis
