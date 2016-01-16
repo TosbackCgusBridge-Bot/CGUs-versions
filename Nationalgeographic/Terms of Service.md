@@ -197,6 +197,14 @@ All disputes regarding these Terms of Service, with the exception of copyright c
 
 More From National Geographic
 
+*   Primate Portraits
+    
+*   A Flight of Birds
+    
+*   A Collection of Mammals
+    
+*   Amphibians and Reptiles
+    
 *   Reading an Ancient Comic Strip
     
 *   Let's Walk
