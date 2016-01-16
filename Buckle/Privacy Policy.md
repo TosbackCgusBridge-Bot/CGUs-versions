@@ -1,4 +1,6 @@
-Earn Bonus Reward Points when you use your Buckle Card! See details.
+SALE. SALE. SALE.
+
+Shop Now!
 
 Guest Services 800-607-9788
 
