@@ -98,184 +98,184 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Elections Republican hopefuls brawl in feisty debate Read StoryPhotos from the debateAnalysisCruz, Rubio come out swingingThe undercard debate
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ News Reports: 20 dead in possible terror attack in West Africa
 
 TOP STORIES
 
-*   Elections Debate analysis: Smaller field, higher stakes, tougher jabs
-*   OnPolitics Rubio comes out swinging at Cruz as debate nears end
-*   OnPolitics Cruz turns tables on Trump with citizenship question
-*   3 men arrested on suspected links to Jakarta attack
-*   At least 14 dead in ski tour bus accident in Japan
-*   Céline Dion's husband René Angélil dies
-*   Video shows teen running from cops when he's shot
-*   Miss Washington found with stabbed MLS player
-*   Goldman Sachs agrees to tentative $5.1B settlement
-*   Officials: At least 1 killed in Florida Amtrak crash
-*   3 Baltimore police officers suspended in assault
-*   Baby's body found in high school bathroom
+*   Nation Now Tenn. couple picks up $528.8M Powerball check
+*   Washington U.S. pardon attorney to resign amid Obama's last-year clemency push
+*   News Army anthrax revelations raise oversight concerns
+*   Dow slides 391. oil and China drops rattle investors
+*   ESPN's Chris Mortensen battling throat cancer
+*   Market crash robs $2.3 trillion from investors
+*   Botched drug trial leaves 1 brain dead, 5 in hospital
+*   Walmart to shut 269 stores, dump 'Express' format
+*   'Grizzly Adams' star Dan Haggerty dies at 74
+*   Cruz 'apologizes' to people of New York
+*   Mos Def arrested, told to leave South Africa
+*   Supreme Court takes on McDonnell 'corruption'
 
-Nation Now
+News
 
-One Nation: Renewable energy tech could eliminate utilities
+Chicago looks for new police chief to work with embattled Rahm Emanuel
 
-TV
+News
 
-Matthew Perry won't be part of 'Friends' 'reunion'
-
-Denver Broncos
-
-Broncos aren't buying Ben Roethlisberger's 'Jedi mind trick' regarding injured shoulder
-
-Entertain This
-
-10 Alan Rickman movies besides 'Harry Potter'
-
-OUR PICKS Nation Now
-
-$1 million Powerball winner gives back by giving blood
+Supreme Court to define corruption by public officials in McDonnell case
 
 Movies
 
-Yet again, Oscar nods show glaring lack of diversity
+Sean Penn: My interview with El Chapo 'failed'
 
-NFL
+Sciencefair
 
-50 things to watch for in NFL divisional playoff games
+Spaced out: From colliding galaxies to massive black holes
 
-OnPolitics
+OUR PICKS The Oval
 
-'Deal from strength or get crushed,' kids sing in bizarre Trump anthem
+Obama issues decree in pants-on-dog debate
 
-Dad sends formal rejection letter to deny 6-Year-Old son A $20 loan
+Elections
 
-There's a regular loan rejection letter, then there's a loan rejection letter from your dad. Video provided by Newsy
+Fact check: The sixth Republican debate
+
+Nation
+
+Egregious safety failures at Army lab led to anthrax mistakes
+
+Nation Now
+
+Touching photo captures bond between bride and her service dog
+
+We paid $6B in fees to The 3 biggest Banks last year
+
+CNN and SNL Financial found that Americans paid a total of $6 billion in overdraft and ATM fees to JPMorgan Chase, Bank of America and Wells Fargo. Video provided by Newsy
 
 1 of 23 See more video
 
-Best moments from the Fox Business undercard GOP debate
+5 things to know about Walmart
 
-Fox Business Network played host to the Republican primary debate. Mike Huckabee, Carly Fiorina and Rick Santorum were featured at the undercard debate. These are their best moments.
+Walmart announced it is closing 269 stores worldwide. Here are five things you need to know about the company.
 
 2 of 23 See more video
-
-Testing new Jelly Belly flavors 'Spoiled Milk' and 'Dead Fish'
-
-Jelly Belly's gross BeanBoozled collection is getting two new flavors this spring. Our reporter's sister, Lauren Mallenbaum, got an exclusive first-taste of the Spoiled Milk and Dead Fish flavors. We also threw in an old flavor to confuse her.
-
-3 of 23 See more video
-
-New video is released in death of Chicago teen fleeing police
-
-Newly-released video footage shows a plainclothes Chicago police officer fatally shooting an unarmed 17-year-old as the young man sprinted away from cops after stealing a car.
-
-4 of 23 See more video
-
-Car frozen for days finally freed from ice
-
-A car that had been turned into an ice sculpture by Lake Erie in upstate New York is finally freed from ice after being frozen for several days.
-
-5 of 23 See more video
-
-Mom knits creepy life-size replica of her son
-
-Marieke of Club Geluk decided to take her knitting game to a whole new level, by knitting her son. Keri Lumm (@thekerilumm) reports.
-
-6 of 23 See more video
-
-Dad sends formal rejection letter to deny 6-Year-Old son A $20 loan
-
-There's a regular loan rejection letter, then there's a loan rejection letter from your dad. Video provided by Newsy
-
-7 of 23 See more video
-
-Cop spots kid playing with the wrong ball, fixes it
-
-A North Carolina police officer did something that no one expected when he pulled over and approached a group of kids playing basketball in their driveway.
-
-8 of 23 See more video
 
 Powerball: How much did you win?
 
 How much does each level of winning Powerball pay out? Here are the exact amounts and the odds each winner faced.
 
+3 of 23 See more video
+
+Bush Wins Endorsement of Sen. Lindsey Graham
+
+Republican presidential candidate Jeb Bush has scored the endorsement of South Carolina Sen. Lindsey Graham, who holds major clout in one of the critical early voting primary states. (Jan. 15)
+
+4 of 23 See more video
+
+Honda and Volvo North American Car and Truck of the Year
+
+Mark Phelan of the Detroit Free Press reports from the North American International Auto Show where the Honda Civic and the Volvo XC90 were named the North American Car and Truck of the Year.
+
+5 of 23 See more video
+
+Great White Shark stares right into camera
+
+A large male Great White Shark took a long look directly into a camera very close up. Patrick Jones (@Patrick\_E\_Jones) explains.
+
+6 of 23 See more video
+
+Men spend more time getting ready than women
+
+A study shows men care more about their appearance than they let on. Jordyn Rolling (@jordynrolling) can expand!
+
+7 of 23 See more video
+
+Photo of bride and service dog is capturing our hearts
+
+A touching photo, taken by photographer Maddie Peschong, has captured the hearts of many people on social media.
+
+8 of 23 See more video
+
+One Nation: Energy facts you didn't know
+
+At the One Nation: Energy forum sponsored by Des Moines Register and the USA TODAY Network, audience members found out more about America's energy production and concumption
+
 9 of 23 See more video
+
+NFL Inside Slant: Coaches on the move
+
+USA TODAY Sports' Tom Pelissero discusses the flurry of recent coaching changes in the NFL.
+
+10 of 23 See more video
+
+Watch as boy cleverly pulls out loose tooth with toy car
+
+Ajay Genge, 6, decided to take a shot at pulling out a loose tooth with the use of a piece of string and a remote control car. Attaching one end of the string to his tooth and the other to a remote control car he bravely pushed the control forward.
+
+11 of 23 See more video
+
+Best moments from the Fox Business undercard GOP debate
+
+Fox Business Network played host to the Republican primary debate. Mike Huckabee, Carly Fiorina and Rick Santorum were featured at the undercard debate. These are their best moments.
+
+12 of 23 See more video
+
+Testing new Jelly Belly flavors 'Spoiled Milk' and 'Dead Fish'
+
+Jelly Belly's gross BeanBoozled collection is getting two new flavors this spring. Our reporter's sister, Lauren Mallenbaum, got an exclusive first-taste of the Spoiled Milk and Dead Fish flavors. We also threw in an old flavor to confuse her.
+
+13 of 23 See more video
+
+GOP candidates slam one another at Fox Business debate
+
+The top seven Republican presidential candidates traded jabs during Thursday's Fox Business debate. These are their best exchanges.
+
+14 of 23 See more video
+
+New video is released in death of Chicago teen fleeing police
+
+Newly-released video footage shows a plainclothes Chicago police officer fatally shooting an unarmed 17-year-old as the young man sprinted away from cops after stealing a car.
+
+15 of 23 See more video
+
+Baby's body found in high school bathroom
+
+A janitor found a baby's body in a South Houston High School. The janitor reportedly found the infant in a women's bathroom.
+
+16 of 23 See more video
+
+Car frozen for days finally freed from ice
+
+A car that had been turned into an ice sculpture by Lake Erie in upstate New York is finally freed from ice after being frozen for several days.
+
+17 of 23 See more video
+
+Mom knits creepy life-size replica of her son
+
+Marieke of Club Geluk decided to take her knitting game to a whole new level, by knitting her son. Keri Lumm (@thekerilumm) reports.
+
+18 of 23 See more video
+
+Dad sends formal rejection letter to deny 6-Year-Old son A $20 loan
+
+There's a regular loan rejection letter, then there's a loan rejection letter from your dad. Video provided by Newsy
+
+19 of 23 See more video
+
+Cop spots kid playing with the wrong ball, fixes it
+
+A North Carolina police officer did something that no one expected when he pulled over and approached a group of kids playing basketball in their driveway.
+
+20 of 23 See more video
 
 US customs agents seize 2,800 marijuana 'carrots'
 
 U.S. Customs agents in Pharr, Texas, discovered the marijuana disguised as carrots. They weren't fooled by the phony produce. Video provided by Newsy
 
-10 of 23 See more video
-
-The films that got snubbed by Oscar nominations
-
-At the Oscar nominations ceremony USA TODAY's speaks with Deadline.com's Pete Hammand and film critic Leonard Martin about the films that were overlooked for this year's Academy Awards.
-
-11 of 23 See more video
-
-Cate Blanchett &. Rooney Mara on the forbidden love in 'Carol'
-
-Cate Blanchett, Rooney Mara, and director Todd Haynes discuss making their film 'Carol.' Both actresses are nominated for Oscars for their performances.
-
-12 of 23 See more video
-
-Leo DiCaprio: 'The Revenant' challenge was the cold
-
-Leonardo DiCaprio tells USA TODAY's Bryan Alexander about surviving the cold weather during the filming of 'The Revenant.'
-
-13 of 23 See more video
-
-Matt Damon talks Martian potatoes
-
-Matt Damon tells USA TODAY's Andrea Mandell about the importance of potatoes in his new film 'The Martian.'
-
-14 of 23 See more video
-
-Academy Award winners who lost their Oscars
-
-Winning an Academy Award is incredibly difficult. But holding on to that Oscar may be even harder, considering how many celebs have lost track of them. Rachel Holt (@ItsRachelHolt) has the details.
-
-15 of 23 See more video
-
-Weirdest places Oscar winners keep their awards
-
-Winning an Oscar is a big deal, but not everyone likes to put their awards on display. From the bathroom to the fridge, Rachel Holt (@ItsRachelHolt) will school you on the strangest places celebs store their awards.
-
-16 of 23 See more video
-
-House Speaker Paul Ryan responds to Obama State of the Union
-
-Speaker of the House Paul Ryan reacts to Obama's State of the Union and Gov. Nikki Haley's remarks in this episode of Capital Download with Susan Page.
-
-17 of 23 See more video
-
-Deputy admits to beating K-9 partner
-
-A Ramsey County, Minnesota deputy pleaded guilty to hitting his K-9 partner. The deputy was caught on camera dragging the dog and striking the animal multiple times.
-
-18 of 23 See more video
+21 of 23 See more video
 
 Watch: Kid reenacts Steph Curry's dribble moves with amazing accuracy
 
 After much practice, this 11-year-old can perfectly replicate Curry's incredibly difficult dribble moves.
-
-19 of 23 See more video
-
-What hit and what missed at the auto show
-
-USA TODAY's Chris Woodyard and Nathan Bomey break down the hits and the misses at the North American International Auto Show in Detroit.
-
-20 of 23 See more video
-
-'Poop pills' could be the next weight loss trend
-
-Researchers in Massachusetts want to see if they can fight obesity by changing the microbes in a person's gut, but as Mara Montalbano (@maramontalbano) tells us, to do this they have to get people to eat poop.
-
-21 of 23 See more video
-
-Girl on 'Bachelor': 'I swear I'm not crazy'
-
-On Monday's episode of The Bachelor, Lace was not afraid to let the claws out when it was time to score alone time with Ben.
 
 22 of 23 See more video
 
@@ -285,71 +285,71 @@ Police say the thief stole three hundred and fifty bucks from a 61-year-old Budd
 
 23 of 23 See more video Last VideoNext Video news
 
-The Short List: #OscarsSoWhite, Alan Rickman, Jakarta
+Five things to know about the Zika virus
 
-Winners in 3 states to split record $1.6B Powerball jackpot
+Son plays worst Powerball prank ever on nurse
 
-16 hours, 27 minutes | Nation Now
+12 hours, 34 minutes | Nation
 
-Paul Ryan's short list of what could get done this yearAlex, first January hurricane since 1938, forms in AtlanticOne Nation: Join the conversation sports
+Donald Trump, Ted Cruz continue newfound feudSpaceX tests engines on landed Falcon rocketBiden seeks to tackle politics of cancer sports
 
-Spurs muscle past Cavs to remain unbeaten at home
+Phillips' family agrees to donate brain for CTE study
 
-50 things to watch for in NFL divisional playoffs
+Holly Holm has deal with illegal supplement maker
 
-2 hours, 57 minutes | NFL
+7 hours, 23 minutes | Ufc
 
-Broncos won't fall for Big Ben's 'Jedi mind trick'Eagles to hire Pederson once Chiefs' season endsPelissero: Kelly's shot at redemption life
+Sharapova got someone else's underwear in laundryESPN's Chris Mortensen battling throat cancerDivisional playoff picks: Can Panthers move on? life
 
-Céline Dion's husband René Angélil dies
+Review: Showtime's 'Billions' is bankrupt
 
-Cross WordsAll GamesEntertain This! Matthew Perry won't be part of 'Friends' 'reunion'Oscars: Acting races are an all-white field10 Alan Rickman movies to watch besides 'Harry Potter' money
+Cross WordsAll GamesEntertain This! Watch: Fallon, Cumberbatch engage in 'Rickman-off'Concert tour celebrates 'Star Trek' 50th anniversaryShatner discusses importance of music to ‘Star Trek’ money
 
-Goldman Sachs agrees to tentative $5.1B mortgage settlement
+What's made from oil goes way beyond the gas pump
 
-StocksPortfolio TrackerAmerica's Markets 13 stores where you're spending fewer bucksWhat JPMorgan's warning on oil means for banksU.S. government pushes for self-driving cars tech
+StocksPortfolio TrackerAmerica's Markets Powerball jackpot will cost winners big bucks: Here's howList of the 154 U.S. stores Walmart is closing Dow slides 391. oil and China drops rattle investors tech
 
-2015 was a big year for VC investing
+Podcast - why are smartphone, PC and GoPro sales tanking?
 
-Intel shares tumble. profits slip but top views
+GE appliances get a Chinese owner in U.S. state of mind
 
-7 hours, 56 minutes | News
+4 hours, 23 minutes | News
 
-Crowley out as Foursquare CEO. company lands $45M in fundingCalifornia fines Uber $7.6M on rider, driver reportsGates, Jobs rivalry to play out in song on Broadway travel
+Tech stocks lose their market-darling statusApple stock destroys $218B: How low can it go?FCC to allow U.S. telecom services to Cuba travel
 
-Best solo trips for 2016
+Five bucket-list U.S. sporting events you can attend
 
-Buffet at Wynn, 2.0: What to eat at upgraded Vegas spread
+AAA names its newest Five Diamond hotels
 
-16 hours, 15 minutes | Great American Bites
+15 hours, 33 minutes | Travel
 
-Photo tour: A day of deep-sea fishing in the BahamasVisit Veracruz, Mexico's Mercado de PescaderiaPhoto tour: The Italian flair of a Costa Cruises ship Reviewed.com
+Tour Thomas Keller's restaurants from coast to coastWinter adventures: 10 unique activities to try this season10Best: 2016 travel anniversaries and celebrations Reviewed.com
 
 CES 2016 Editors' Choice award winners
 
-Confusing clothing label? This iPhone app can help
+Amid GE acquisition, Haier's own applianes grow
 
-8 hours, 7 minutes | Tech
+13 hours, 19 minutes | Money
 
-Hands-free with the LG Signature fridgeLG's new dishwashers blast plates from all anglesSamsung bets big on compact laundry machines experience
+Confusing clothing label? This iPhone app can helpHands-free with the LG Signature fridgeLG's new dishwashers blast plates from all angles experience
+
+Photo tour: A day of deep-sea fishing in the Bahamas
 
 Photo tour: The Italian flair of a Costa Cruises ship
 
-Remote winter restaurants not reachable by car
+2 days, 17 hours | Costa-cruises
 
-2 days, 11 hours | Food &. Wine
+Remote winter restaurants not reachable by carChicagoland was Disney's land (and will be again)Plan your city escape with USA TODAY Travel's destination guides VOICES College
 
-Chicagoland was Disney's land (and will be again)Caribbean cuisine: The region's best food festivals in 2016 Plan your city escape with USA TODAY Travel's destination guides VOICES Opinion
-
-Citizen Cruz: Our view
+Voices: Why I quit my full-time job to work at Trader Joe's
 
 Opinion
 
-Iran protects its payday: Our view
+Consumers' healthcare power growing: Column
 
-Rieder
+Music
 
-Rieder: Battered newspapers still important
+Dad Rock podcast picks favorite Bowie songs
 
 Nation
 
@@ -379,18 +379,18 @@ For the Record: Sign up for our new politics newsletter
 
 Trending on Social
 
-*   Matthew Perry won't be part of 'Friends' 'reunion'
+*   Amazon drops Prime membership to $73 for the weekend
     
-*   Broncos aren't buying Ben Roethlisberger's 'Jedi mind trick' regarding injured shoulder
+*   TSA Precheck reaches 2M members
     
-*   Céline Dion's husband René Angélil dies
+*   Supreme Court will rule on church-state divide in playground case
     
-*   Debate analysis: Smaller field, higher stakes, tougher jabs
+*   NFL divisional playoff game kickoff times, TV info and betting lines
     
-*   Exclusive: 'Star Wars: Poe Dameron' comic book debuts in April
+*   New coach Ben McAdoo hints Giants may not look very different in 2016
     
 
-SPONSOR CONTENT Right Now
+AD CONTENT Right Now
 
 News
 
