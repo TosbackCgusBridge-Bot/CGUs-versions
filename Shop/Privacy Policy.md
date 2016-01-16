@@ -43,7 +43,7 @@ LENOVO Menu
         Saturday 9am-6pm (EST)
     *   Technical Support
         1.  Lenovo Products Tablet, Laptop, Workstation, ThinkServer, Storage, and Smartphone support information
-        2.  Other brands by Lenovo - System x Server &. Storage (IBM)- LenovoEMC &. Iomega Storage- Motorola
+        2.  Other brands by Lenovo - System x Server and Storage- LenovoEMC &. Iomega Storage- Motorola
     *   Payment issues Call 1-855-2-LENOVO  
         (1-855-253-6686), Option 2  
         Monday - Friday, 9am - 5:30pm (EST)  
