@@ -3,10 +3,10 @@ Search JobCompany English
 *   Suomi
 *   Français
 
-Sign In
+Login
 
 *   Create profile
-*   Sign In
+*   Login
 
 Click here to create a recruiter/company profile!  
 
