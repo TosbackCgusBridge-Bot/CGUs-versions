@@ -1,5 +1,5 @@
 *   Subscribe Now
-Subscribe campaign: inyt2016\_bar1\_digi\_new\_year\_4XRJJ -- 282856, creative: 1\_CRS-9102\_inyt2016\_bar1\_digi\_new\_year\_4XRJJ -- 411949, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1*   Help
+Subscribe campaign: inyt2015\_bar1\_digi\_usd\_4L9UF -- 277474, creative: inyt2015\_bar1\_digi\_buttononly\_usd\_4L9UF -- 406560, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1*   Help
 
 *   Home Page
 *   Today's Paper
