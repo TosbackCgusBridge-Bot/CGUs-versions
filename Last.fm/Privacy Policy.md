@@ -33,7 +33,7 @@ At Last.fm, we are fully committed to respecting your privacy and to protecting 
 
 The Policy explains how Last.fm collects and uses information. We hope that our candour will remove any concerns you may have and will make visiting the Website a rewarding experience.
 
-**If you would like to obtain information about how we may have shared your information with third parties for their direct marketing purposes, you may send such requests to us via postal mail at: Data Access Request, Last.fm Limited, 5-11 Lavington Street, London, SE1 0NZ or contact us via email at: legal@last.fm.**
+**If you would like to obtain information about how we may have shared your information with third parties for their direct marketing purposes, you may send such requests to us via postal mail at: Data Access Request, Last.fm Limited, The Warehouse, The Bower, 207-211 Old Street, London EC1V 9NR, United Kingdom or contact us via email at: legal@last.fm.**
 
 Although we endeavour to keep you up-to-date on all changes made to the Website, this Policy may be amended from time to time without notice to you. It is your responsibility to read the Policy carefully and review any changes that may have been made.
 
