@@ -17,6 +17,7 @@ United Airlines respects your privacy. This Policy discloses United’s privacy 
 *   Protecting information collected
 *   Your role in protecting your information
 *   Opting out
+*   Location of your information/Data transfer/Notice to non-US persons
 *   Other sites/digital channels
 *   Contact us
 *   Legal effect and changes to this policy
@@ -223,6 +224,10 @@ Opting out
 
 MileagePlus members can opt out of receiving marketing or promotion-related emails or direct mail from United by accessing their account profile information on the United website and changing their profile to indicate their desire to be excluded. In addition, members can contact the MileagePlus Service Center by phone or in writing and request a profile change. Emails sent to members will contain a message and link on how to opt out of that type of communication in the future. Regardless of your opt-out preferences, we reserve the right to send you emails or other communications for administrative purposes.
 
+Location of your information/Data transfer/Notice to non-US persons
+
+United will transfer, store, and process information that we collect about you, as described in this Policy, in the United States, which may not provide the same level of protection for your personal information as your home country. In addition, we may further transfer your information outside the United States for the purposes described in this Policy. By submitting any personal information or by using the website and without limitation to any other rights or obligations we have, you consent to such transfer to, and processing in, the United States and these other countries, and acknowledge that your information may be subject to access by law enforcement and other government entities, including courts and tribunals, in accordance with laws applicable in those jurisdictions.
+
 Other sites/digital channels
 
 Our sites and our online services may contain links to third party sites. Any access to and use of such linked sites is not governed by this Policy but instead is governed by the privacy policies of those third party sites. We are not responsible for the information practices of such third party sites.
@@ -233,6 +238,6 @@ If you have comments or questions about this Privacy Policy, please submit your 
 
 Legal effect and changes to the policy
 
-As previously stated, this Privacy Policy is not a contract nor does it otherwise create any legal rights or obligations. Rather, this Privacy Policy merely reflects guidelines setting forth United’s intended business practices. By using any United digital channel, and/or by providing any information to United online or offline, you consent to the collection and use of such information by United, its affiliates, partners, contractors and permitted agents as herein described and consistent with applicable laws. Also, United, in its discretion, may amend, interpret, modify or withdraw any portion of this Privacy Policy and related business practices at any time by posting updated text on this site, and your continued use of our digital channels or offline outlets constitutes your consent to those changes. A version of this Privacy Policy has been effective since October 15, 2002, and was last updated on November 13, 2015. This Privacy Policy supersedes previous privacy policies posted on united.com and coair.com.
+As previously stated, this Privacy Policy is not a contract nor does it otherwise create any legal rights or obligations. Rather, this Privacy Policy merely reflects guidelines setting forth United’s intended business practices. By using any United digital channel, and/or by providing any information to United online or offline, you consent to the collection and use of such information by United, its affiliates, partners, contractors and permitted agents as herein described and consistent with applicable laws. Also, United, in its discretion, may amend, interpret, modify or withdraw any portion of this Privacy Policy and related business practices at any time by posting updated text on this site, and your continued use of our digital channels or offline outlets constitutes your consent to those changes. A version of this Privacy Policy has been effective since October 15, 2002, and was last updated on January 15, 2016. This Privacy Policy supersedes previous privacy policies posted on united.com and coair.com.
 
 Thank you for taking the time to read this Privacy Policy.
