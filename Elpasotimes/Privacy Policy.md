@@ -98,238 +98,214 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ News Reports: 20 dead in possible terror attack in West Africa
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Rieder Rieder: Reporter's outrageous detention over at last
 
 TOP STORIES
 
-*   Nation Now Tenn. couple picks up $528.8M Powerball check
-*   Washington U.S. pardon attorney to resign amid Obama's last-year clemency push
-*   News Army anthrax revelations raise oversight concerns
-*   Dow slides 391. oil and China drops rattle investors
-*   ESPN's Chris Mortensen battling throat cancer
-*   Market crash robs $2.3 trillion from investors
-*   Botched drug trial leaves 1 brain dead, 5 in hospital
-*   Walmart to shut 269 stores, dump 'Express' format
-*   'Grizzly Adams' star Dan Haggerty dies at 74
-*   Cruz 'apologizes' to people of New York
-*   Mos Def arrested, told to leave South Africa
-*   Supreme Court takes on McDonnell 'corruption'
+*   World Freed 'Washington Post' reporter shined light on Iranian culture
+*   World U.N. nuclear watchdog certifies Iran is complying with deal
+*   World Iran frees 'unjustly detained' Rezaian, 4 others
+*   Obama revokes Iran nuclear sanctions
+*   Céline Dion's brother dies of cancer
+*   Obama calls state of emergency in Flint water crisis
+*   Iran lays out welcome mat with prisoners' release
+*   Dying 8-year-old's wish captivates China
+*   Tony Stewart confronts fan at Chili Bowl Nationals
+*   Texas lawyer files 'birther' lawsuit against Ted Cruz
+*   Pope Francis to visit Mexico: 4 things to expect
+*   Amendola deserves suspension for dirty hit
 
-News
+NFL
 
-Chicago looks for new police chief to work with embattled Rahm Emanuel
+Cardinals get wild OT win over Packers to reach NFC title game
 
-News
+World
 
-Supreme Court to define corruption by public officials in McDonnell case
+Burkina Faso takeover ends. at least 28 people dead
 
-Movies
+TV
 
-Sean Penn: My interview with El Chapo 'failed'
+Keri Russell is expecting with 'Americans' co-star Matthew Rhys
 
-Sciencefair
+NFL
 
-Spaced out: From colliding galaxies to massive black holes
+Randall Cobb makes jaw-dropping one-handed catch
 
-OUR PICKS The Oval
+OUR PICKS Nation
 
-Obama issues decree in pants-on-dog debate
+Presidential candidates waste no time weighing in on Iran prisoner releases
 
-Elections
+NFL
 
-Fact check: The sixth Republican debate
-
-Nation
-
-Egregious safety failures at Army lab led to anthrax mistakes
+10 amazing facts about the Patriots' 10 AFC title games
 
 Nation Now
 
-Touching photo captures bond between bride and her service dog
+Lawsuit over shot-down drone could set U.S. law
 
-We paid $6B in fees to The 3 biggest Banks last year
+World
 
-CNN and SNL Financial found that Americans paid a total of $6 billion in overdraft and ATM fees to JPMorgan Chase, Bank of America and Wells Fargo. Video provided by Newsy
+Gallery: Iran frees American prisoners
 
-1 of 23 See more video
+The most dangerous states in America
+
+These states are the most dangerous in America, based on a 24/7 Wall Street report looking at crime date from the FBI.
+
+1 of 19 See more video
 
 5 things to know about Walmart
 
 Walmart announced it is closing 269 stores worldwide. Here are five things you need to know about the company.
 
-2 of 23 See more video
+2 of 19 See more video
 
 Powerball: How much did you win?
 
 How much does each level of winning Powerball pay out? Here are the exact amounts and the odds each winner faced.
 
-3 of 23 See more video
-
-Bush Wins Endorsement of Sen. Lindsey Graham
-
-Republican presidential candidate Jeb Bush has scored the endorsement of South Carolina Sen. Lindsey Graham, who holds major clout in one of the critical early voting primary states. (Jan. 15)
-
-4 of 23 See more video
+3 of 19 See more video
 
 Honda and Volvo North American Car and Truck of the Year
 
 Mark Phelan of the Detroit Free Press reports from the North American International Auto Show where the Honda Civic and the Volvo XC90 were named the North American Car and Truck of the Year.
 
-5 of 23 See more video
+4 of 19 See more video
+
+Cop being called 'racist' after controversial comments
+
+A Georgia police officer accused of using racially insensitive language during a traffic stop has been suspended without pay for two weeks.
+
+5 of 19 See more video
 
 Great White Shark stares right into camera
 
 A large male Great White Shark took a long look directly into a camera very close up. Patrick Jones (@Patrick\_E\_Jones) explains.
 
-6 of 23 See more video
+6 of 19 See more video
 
-Men spend more time getting ready than women
+Texas lawyer sues Ted Cruz over eligibility
 
-A study shows men care more about their appearance than they let on. Jordyn Rolling (@jordynrolling) can expand!
+A Houston lawyer has filed a lawsuit challenging Ted Cruz's eligibility to run for president.
 
-7 of 23 See more video
+7 of 19 See more video
 
 Photo of bride and service dog is capturing our hearts
 
 A touching photo, taken by photographer Maddie Peschong, has captured the hearts of many people on social media.
 
-8 of 23 See more video
-
-One Nation: Energy facts you didn't know
-
-At the One Nation: Energy forum sponsored by Des Moines Register and the USA TODAY Network, audience members found out more about America's energy production and concumption
-
-9 of 23 See more video
-
-NFL Inside Slant: Coaches on the move
-
-USA TODAY Sports' Tom Pelissero discusses the flurry of recent coaching changes in the NFL.
-
-10 of 23 See more video
-
-Watch as boy cleverly pulls out loose tooth with toy car
-
-Ajay Genge, 6, decided to take a shot at pulling out a loose tooth with the use of a piece of string and a remote control car. Attaching one end of the string to his tooth and the other to a remote control car he bravely pushed the control forward.
-
-11 of 23 See more video
+8 of 19 See more video
 
 Best moments from the Fox Business undercard GOP debate
 
 Fox Business Network played host to the Republican primary debate. Mike Huckabee, Carly Fiorina and Rick Santorum were featured at the undercard debate. These are their best moments.
 
-12 of 23 See more video
+9 of 19 See more video
 
-Testing new Jelly Belly flavors 'Spoiled Milk' and 'Dead Fish'
+Watch as boy cleverly pulls out loose tooth with toy car
 
-Jelly Belly's gross BeanBoozled collection is getting two new flavors this spring. Our reporter's sister, Lauren Mallenbaum, got an exclusive first-taste of the Spoiled Milk and Dead Fish flavors. We also threw in an old flavor to confuse her.
+Ajay Genge, 6, decided to take a shot at pulling out a loose tooth with the use of a piece of string and a remote control car. Attaching one end of the string to his tooth and the other to a remote control car he bravely pushed the control forward.
 
-13 of 23 See more video
+10 of 19 See more video
 
-GOP candidates slam one another at Fox Business debate
+Just Cool Cars: 1954 Buick convertible
 
-The top seven Republican presidential candidates traded jabs during Thursday's Fox Business debate. These are their best exchanges.
+USA TODAY's Chris Woodyard talks to Brent Rothweiler about his custom 1954 Buick convertible.
 
-14 of 23 See more video
+11 of 19 See more video
 
 New video is released in death of Chicago teen fleeing police
 
 Newly-released video footage shows a plainclothes Chicago police officer fatally shooting an unarmed 17-year-old as the young man sprinted away from cops after stealing a car.
 
-15 of 23 See more video
+12 of 19 See more video
 
 Baby's body found in high school bathroom
 
 A janitor found a baby's body in a South Houston High School. The janitor reportedly found the infant in a women's bathroom.
 
-16 of 23 See more video
+13 of 19 See more video
 
 Car frozen for days finally freed from ice
 
 A car that had been turned into an ice sculpture by Lake Erie in upstate New York is finally freed from ice after being frozen for several days.
 
-17 of 23 See more video
+14 of 19 See more video
 
 Mom knits creepy life-size replica of her son
 
 Marieke of Club Geluk decided to take her knitting game to a whole new level, by knitting her son. Keri Lumm (@thekerilumm) reports.
 
-18 of 23 See more video
+15 of 19 See more video
 
 Dad sends formal rejection letter to deny 6-Year-Old son A $20 loan
 
 There's a regular loan rejection letter, then there's a loan rejection letter from your dad. Video provided by Newsy
 
-19 of 23 See more video
+16 of 19 See more video
 
 Cop spots kid playing with the wrong ball, fixes it
 
 A North Carolina police officer did something that no one expected when he pulled over and approached a group of kids playing basketball in their driveway.
 
-20 of 23 See more video
-
-US customs agents seize 2,800 marijuana 'carrots'
-
-U.S. Customs agents in Pharr, Texas, discovered the marijuana disguised as carrots. They weren't fooled by the phony produce. Video provided by Newsy
-
-21 of 23 See more video
+17 of 19 See more video
 
 Watch: Kid reenacts Steph Curry's dribble moves with amazing accuracy
 
 After much practice, this 11-year-old can perfectly replicate Curry's incredibly difficult dribble moves.
 
-22 of 23 See more video
+18 of 19 See more video
 
 Monk fights back after being robbed while buying lottery tickets
 
 Police say the thief stole three hundred and fifty bucks from a 61-year-old Buddhist monk while he was buying lottery tickets. Gillian Pensavalle (@GillianWithaG) has the video.
 
-23 of 23 See more video Last VideoNext Video news
+19 of 19 See more video Last VideoNext Video news
 
-Five things to know about the Zika virus
+Lawsuit over shot-down drone could set U.S. law
 
-Son plays worst Powerball prank ever on nurse
+Texas lawyer files 'birther' lawsuit against Ted Cruz
 
-12 hours, 34 minutes | Nation
+13 hours, 24 minutes | Elections
 
-Donald Trump, Ted Cruz continue newfound feudSpaceX tests engines on landed Falcon rocketBiden seeks to tackle politics of cancer sports
+MLK Day: Why on Monday and what was Stevie Wonder's role?How frozen Minneapolis became a biking mecca7 most memorable, potent attacks of 2016 campaign sports
 
-Phillips' family agrees to donate brain for CTE study
+Cardinals get wild OT win to reach NFC title game
 
-Holly Holm has deal with illegal supplement maker
+Packers force OT with another miracle Hail Mary TD
 
-7 hours, 23 minutes | Ufc
+26 minutes | Sports
 
-Sharapova got someone else's underwear in laundryESPN's Chris Mortensen battling throat cancerDivisional playoff picks: Can Panthers move on? life
+Edelman's return 'changes everything' for PatriotsFTW: Amendola deserves suspension for cheap shotReid's time management was maddening — again life
 
-Review: Showtime's 'Billions' is bankrupt
+FX series shows O.J. trial still draws attention
 
-Cross WordsAll GamesEntertain This! Watch: Fallon, Cumberbatch engage in 'Rickman-off'Concert tour celebrates 'Star Trek' 50th anniversaryShatner discusses importance of music to ‘Star Trek’ money
+Cross WordsAll GamesEntertain This! Céline Dion's brother dies of cancerYep, Keri Russell is expecting with 'Americans' co-star Matthew RhysMatthew Perry can still pass 'Friends' trivia test money
 
-What's made from oil goes way beyond the gas pump
+GM's Cadillac will import plug-in SUV from China
 
-StocksPortfolio TrackerAmerica's Markets Powerball jackpot will cost winners big bucks: Here's howList of the 154 U.S. stores Walmart is closing Dow slides 391. oil and China drops rattle investors tech
+StocksPortfolio TrackerAmerica's Markets The party is over for soaring tech valuations, big funding roundsThe dangers of co-signing a student loanRieder: Reporter's outrageous detention over at last tech
 
-Podcast - why are smartphone, PC and GoPro sales tanking?
+The party is over for soaring tech valuations, big funding rounds
 
 GE appliances get a Chinese owner in U.S. state of mind
 
-4 hours, 23 minutes | News
+1 day, 4 hours | News
 
-Tech stocks lose their market-darling statusApple stock destroys $218B: How low can it go?FCC to allow U.S. telecom services to Cuba travel
+Tech stocks lose their market-darling statusApple stock destroys $218B: How low can it go?Those totally cool '13 Hours' night vision goggles are totally fake travel
 
-Five bucket-list U.S. sporting events you can attend
+10Best: 2016 travel anniversaries and celebrations
 
-AAA names its newest Five Diamond hotels
+Made in Reno-Tahoe: 50 flavors only found in the…
 
-15 hours, 33 minutes | Travel
+1 day, 11 hours | Food &. Wine
 
-Tour Thomas Keller's restaurants from coast to coastWinter adventures: 10 unique activities to try this season10Best: 2016 travel anniversaries and celebrations Reviewed.com
+AAA names its newest Five Diamond hotels Five bucket-list U.S. sporting events you can attendWinter adventures: 10 unique activities to try this season Reviewed.com
 
 CES 2016 Editors' Choice award winners
 
 Amid GE acquisition, Haier's own applianes grow
 
-13 hours, 19 minutes | Money
+1 day, 13 hours | Money
 
 Confusing clothing label? This iPhone app can helpHands-free with the LG Signature fridgeLG's new dishwashers blast plates from all angles experience
 
@@ -337,11 +313,11 @@ Photo tour: A day of deep-sea fishing in the Bahamas
 
 Photo tour: The Italian flair of a Costa Cruises ship
 
-2 days, 17 hours | Costa-cruises
+3 days, 17 hours | Costa-cruises
 
-Remote winter restaurants not reachable by carChicagoland was Disney's land (and will be again)Plan your city escape with USA TODAY Travel's destination guides VOICES College
+Remote winter restaurants not reachable by carChicagoland was Disney's land (and will be again)Plan your city escape with USA TODAY Travel's destination guides VOICES Movies
 
-Voices: Why I quit my full-time job to work at Trader Joe's
+The Mothership remembers Alan Rickman
 
 Opinion
 
@@ -375,19 +351,19 @@ For the Record: Sign up for our new politics newsletter
 *   Photos: 2016 Oscar acting nominees
 *   Alan Rickman through the years
 *   New car models wow at Detroit auto show
-*   Daily editorial cartoons
+*   January political cartoons from Gannett cartoonists
 
 Trending on Social
 
-*   Amazon drops Prime membership to $73 for the weekend
+*   Cardinals get wild OT win over Packers to reach NFC title game
     
-*   TSA Precheck reaches 2M members
+*   Sizzurp: What you need to know about cough syrup high
     
-*   Supreme Court will rule on church-state divide in playground case
+*   When Powerball fails you: Column
     
-*   NFL divisional playoff game kickoff times, TV info and betting lines
+*   Texas holds on to beat Oklahoma State 74-69
     
-*   New coach Ben McAdoo hints Giants may not look very different in 2016
+*   Buffet at Wynn, 2.0: What to eat at upgraded Vegas spread
     
 
 AD CONTENT Right Now
