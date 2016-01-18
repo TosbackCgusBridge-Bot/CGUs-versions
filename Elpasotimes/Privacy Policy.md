@@ -98,206 +98,236 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Rieder Rieder: Reporter's outrageous detention over at last
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Elections Democrats debate guns, health care as voting nears Read StoryThe highlightsPhotosSanders, Clinton get personal
 
 TOP STORIES
 
-*   World Freed 'Washington Post' reporter shined light on Iranian culture
-*   World U.N. nuclear watchdog certifies Iran is complying with deal
-*   World Iran frees 'unjustly detained' Rezaian, 4 others
-*   Obama revokes Iran nuclear sanctions
-*   Céline Dion's brother dies of cancer
-*   Obama calls state of emergency in Flint water crisis
-*   Iran lays out welcome mat with prisoners' release
-*   Dying 8-year-old's wish captivates China
-*   Tony Stewart confronts fan at Chili Bowl Nationals
-*   Texas lawyer files 'birther' lawsuit against Ted Cruz
-*   Pope Francis to visit Mexico: 4 things to expect
-*   Amendola deserves suspension for dirty hit
+*   OnPolitics Martin O'Malley wants 'just 10 seconds'
+*   Entertain This T.J. Miller knocked Golden Globes host Ricky Gervais
+*   Pittsburgh Steelers Tearful Mike Tomlin, Steelers watch trying season slip away
+*   Americans freed from Iran land in Germany
+*   At least two dead as tornadoes slam Florida
+*   Volkswagen diesel protesters stop by auto show
+*   New 'Ghostbusters': 4 things we know about the film
+*   Pinkett Smith, Cheadle react to #OscarsSoWhite
+*   Law would allow warrantless cell-phone searches
+*   Nearly naked Justin Bieber shows off purple hair
+*   New issue in Trump-Cruz battle: John Roberts
+*   Target cashier's kindness goes viral
+
+Entertain This
+
+'Compton' star reacts (really eloquently) to Oscar snub
+
+People
+
+Sean Penn defends 'experimental journalism' in El Chapo story
+
+Advice
+
+The truth behind 'best rate' guarantees
+
+Columnist
+
+Why that Fitbit might not be so good for you
+
+OUR PICKS Road Warriors
+
+Airline allegedly charges job applicants to interview
 
 NFL
 
-Cardinals get wild OT win over Packers to reach NFC title game
+SNL lampoons media coverage of NFL injuries
 
-World
+Movies
 
-Burkina Faso takeover ends. at least 28 people dead
+Exclusive: Original 'Snow White' kiss was a shocker
 
 TV
 
-Keri Russell is expecting with 'Americans' co-star Matthew Rhys
+Yep, Keri Russell is expecting with 'Americans' co-star Matthew Rhys
 
-NFL
+Clinton: It's an 'interesting' relationship with Putin
 
-Randall Cobb makes jaw-dropping one-handed catch
+Hillary Clinton isn't tipping her hand on Vladimir Putin. Clinton was asked about her relationship with the Russian president by NBC's Lester Holt at Sunday's Democratic presidential debate.
 
-OUR PICKS Nation
+1 of 24 See more video
 
-Presidential candidates waste no time weighing in on Iran prisoner releases
+'Team Ninja Warrior' course guide: Log Grip
 
-NFL
+'Ninja Warrior' star 'Mighty Kacy' Catanzaro shows USA TODAY's Carly Mallenbaum how to tackle the Log Grip obstacle in 'American Ninja Warrior' spin-off 'Team Ninja Warrior.'
 
-10 amazing facts about the Patriots' 10 AFC title games
+2 of 24 See more video
 
-Nation Now
+'Team Ninja Warrior' course guide: Magnetic Swing
 
-Lawsuit over shot-down drone could set U.S. law
+'Ninja Warrior' star 'Mighty Kacy' Catanzaro shows USA TODAY's Carly Mallenbaum how to tackle the Magnetic Swing obstacle in 'American Ninja Warrior' spin-off 'Team Ninja Warrior,' which airs Jan. 19 on Esquire Network.
 
-World
+3 of 24 See more video
 
-Gallery: Iran frees American prisoners
+'Team Ninja Warrior' course guide: Dancing Stones
+
+'Ninja Warrior' star 'Mighty Kacy' Catanzaro shows USA TODAY's Carly Mallenbaum how to tackle the Dancing Stones in 'American Ninja Warrior' spin-off 'Team Ninja Warrior,' which airs on the Esquire Network Jan. 19.
+
+4 of 24 See more video
+
+5 great Martin Luther King Jr. quotes
+
+Historical comments by the great civil rights leader Dr. Martin Luther King Jr. Jan. 18 is MLK Day
+
+5 of 24 See more video
+
+Celine Dion loses brother to cancer days after husband's death
+
+Celine Dion has suffered another family tragedy: Her brother Daniel Dion has died of cancer, days after her husband.
+
+6 of 24 See more video
+
+Keri Russell and Matthew Rhys are expecting a child
+
+Keri Russell and Matthew Rhys are expecting a child
+
+7 of 24 See more video
 
 The most dangerous states in America
 
 These states are the most dangerous in America, based on a 24/7 Wall Street report looking at crime date from the FBI.
 
-1 of 19 See more video
+8 of 24 See more video
+
+David Bowie's 'Blackstar' album hits #1
+
+David Bowie's last album has landed in the top spot on the Billboard charts.
+
+9 of 24 See more video
+
+SpaceX still can't land a rocket on its floating landing pad
+
+SpaceX carried out another successful launch Sunday, but it wasn't able to land its Falcon 9 rocket intact on a floating barge. Video provided by Newsy
+
+10 of 24 See more video
 
 5 things to know about Walmart
 
 Walmart announced it is closing 269 stores worldwide. Here are five things you need to know about the company.
 
-2 of 19 See more video
-
-Powerball: How much did you win?
-
-How much does each level of winning Powerball pay out? Here are the exact amounts and the odds each winner faced.
-
-3 of 19 See more video
-
-Honda and Volvo North American Car and Truck of the Year
-
-Mark Phelan of the Detroit Free Press reports from the North American International Auto Show where the Honda Civic and the Volvo XC90 were named the North American Car and Truck of the Year.
-
-4 of 19 See more video
+11 of 24 See more video
 
 Cop being called 'racist' after controversial comments
 
 A Georgia police officer accused of using racially insensitive language during a traffic stop has been suspended without pay for two weeks.
 
-5 of 19 See more video
+12 of 24 See more video
 
 Great White Shark stares right into camera
 
 A large male Great White Shark took a long look directly into a camera very close up. Patrick Jones (@Patrick\_E\_Jones) explains.
 
-6 of 19 See more video
+13 of 24 See more video
 
 Texas lawyer sues Ted Cruz over eligibility
 
 A Houston lawyer has filed a lawsuit challenging Ted Cruz's eligibility to run for president.
 
-7 of 19 See more video
+14 of 24 See more video
 
 Photo of bride and service dog is capturing our hearts
 
 A touching photo, taken by photographer Maddie Peschong, has captured the hearts of many people on social media.
 
-8 of 19 See more video
+15 of 24 See more video
 
 Best moments from the Fox Business undercard GOP debate
 
 Fox Business Network played host to the Republican primary debate. Mike Huckabee, Carly Fiorina and Rick Santorum were featured at the undercard debate. These are their best moments.
 
-9 of 19 See more video
+16 of 24 See more video
 
-Watch as boy cleverly pulls out loose tooth with toy car
+Teaser: 'Orange is the New Black' - Season 4
 
-Ajay Genge, 6, decided to take a shot at pulling out a loose tooth with the use of a piece of string and a remote control car. Attaching one end of the string to his tooth and the other to a remote control car he bravely pushed the control forward.
+'Orange is the New Black' fans can return to Litchfield on June 17th, when Season 4 premieres on Netflix.
 
-10 of 19 See more video
-
-Just Cool Cars: 1954 Buick convertible
-
-USA TODAY's Chris Woodyard talks to Brent Rothweiler about his custom 1954 Buick convertible.
-
-11 of 19 See more video
+17 of 24 See more video
 
 New video is released in death of Chicago teen fleeing police
 
 Newly-released video footage shows a plainclothes Chicago police officer fatally shooting an unarmed 17-year-old as the young man sprinted away from cops after stealing a car.
 
-12 of 19 See more video
+18 of 24 See more video
 
 Baby's body found in high school bathroom
 
 A janitor found a baby's body in a South Houston High School. The janitor reportedly found the infant in a women's bathroom.
 
-13 of 19 See more video
+19 of 24 See more video
 
 Car frozen for days finally freed from ice
 
 A car that had been turned into an ice sculpture by Lake Erie in upstate New York is finally freed from ice after being frozen for several days.
 
-14 of 19 See more video
+20 of 24 See more video
 
-Mom knits creepy life-size replica of her son
-
-Marieke of Club Geluk decided to take her knitting game to a whole new level, by knitting her son. Keri Lumm (@thekerilumm) reports.
-
-15 of 19 See more video
-
-Dad sends formal rejection letter to deny 6-Year-Old son A $20 loan
+Dad sends formal rejection letter to deny 6-year-old son a $20 loan
 
 There's a regular loan rejection letter, then there's a loan rejection letter from your dad. Video provided by Newsy
 
-16 of 19 See more video
+21 of 24 See more video
 
 Cop spots kid playing with the wrong ball, fixes it
 
 A North Carolina police officer did something that no one expected when he pulled over and approached a group of kids playing basketball in their driveway.
 
-17 of 19 See more video
+22 of 24 See more video
 
 Watch: Kid reenacts Steph Curry's dribble moves with amazing accuracy
 
 After much practice, this 11-year-old can perfectly replicate Curry's incredibly difficult dribble moves.
 
-18 of 19 See more video
+23 of 24 See more video
 
 Monk fights back after being robbed while buying lottery tickets
 
 Police say the thief stole three hundred and fifty bucks from a 61-year-old Buddhist monk while he was buying lottery tickets. Gillian Pensavalle (@GillianWithaG) has the video.
 
-19 of 19 See more video Last VideoNext Video news
+24 of 24 See more video Last VideoNext Video news
 
-Lawsuit over shot-down drone could set U.S. law
+Voting rights advocates observe somber King holiday
 
-Texas lawyer files 'birther' lawsuit against Ted Cruz
+Kentucky becomes health care testing ground with Medicaid…
 
-13 hours, 24 minutes | Elections
+8 hours, 12 minutes | Nation Now
 
-MLK Day: Why on Monday and what was Stevie Wonder's role?How frozen Minneapolis became a biking mecca7 most memorable, potent attacks of 2016 campaign sports
+Americans freed from Iran land in GermanyBernie Sanders: Debate issues, not Bill Clinton's pastClinton: It's an 'interesting' relationship with Putin sports
 
-Cardinals get wild OT win to reach NFC title game
+Tearful Tomlin, Steelers see trying season slip away
 
-Packers force OT with another miracle Hail Mary TD
+Broncos edge Steelers late, clash with Pats next
 
-26 minutes | Sports
+2 hours, 26 minutes | Denver Broncos
 
-Edelman's return 'changes everything' for PatriotsFTW: Amendola deserves suspension for cheap shotReid's time management was maddening — again life
+5 things to know about the Brady-Manning rivalryArmour: Manning-Brady showdown how it should beWilson: Early deficit 'my fault' life
 
-FX series shows O.J. trial still draws attention
+Critics' Choice Awards: Actors remember their worst reviews
 
-Cross WordsAll GamesEntertain This! Céline Dion's brother dies of cancerYep, Keri Russell is expecting with 'Americans' co-star Matthew RhysMatthew Perry can still pass 'Friends' trivia test money
+Cross WordsAll GamesEntertain This! 'Spotlight' wins best picture at Critics' Choice Amy Schumer turned a televised shoe-wreck into Critics' Choice laughsHere’s why Will Forte, Mel Rodriguez have half-shaven beards money
 
-GM's Cadillac will import plug-in SUV from China
+Asian markets fall again over oil price concerns
 
-StocksPortfolio TrackerAmerica's Markets The party is over for soaring tech valuations, big funding roundsThe dangers of co-signing a student loanRieder: Reporter's outrageous detention over at last tech
+StocksPortfolio TrackerAmerica's Markets Oxfam study highlights massive global wealth divideIranian oil likely to push prices lowerTech faces hour of reckoning as fundraising drops, layoffs rise tech
 
-The party is over for soaring tech valuations, big funding rounds
+Tech faces hour of reckoning as fundraising drops, layoffs rise
 
-GE appliances get a Chinese owner in U.S. state of mind
+What to do after Microsoft ends support for older browsers
 
-1 day, 4 hours | News
+9 hours, 26 minutes | Columnist
 
-Tech stocks lose their market-darling statusApple stock destroys $218B: How low can it go?Those totally cool '13 Hours' night vision goggles are totally fake travel
+#TalkingTech PodcastSpaceX still can't land a rocket on its floating landing padNew service brings fresh smoothies to your door travel
 
 10Best: 2016 travel anniversaries and celebrations
 
 Made in Reno-Tahoe: 50 flavors only found in the…
 
-1 day, 11 hours | Food &. Wine
+2 days, 11 hours | Food &. Wine
 
 AAA names its newest Five Diamond hotels Five bucket-list U.S. sporting events you can attendWinter adventures: 10 unique activities to try this season Reviewed.com
 
@@ -305,7 +335,7 @@ CES 2016 Editors' Choice award winners
 
 Amid GE acquisition, Haier's own applianes grow
 
-1 day, 13 hours | Money
+2 days, 13 hours | Money
 
 Confusing clothing label? This iPhone app can helpHands-free with the LG Signature fridgeLG's new dishwashers blast plates from all angles experience
 
@@ -313,57 +343,57 @@ Photo tour: A day of deep-sea fishing in the Bahamas
 
 Photo tour: The Italian flair of a Costa Cruises ship
 
-3 days, 17 hours | Costa-cruises
+4 days, 17 hours | Costa-cruises
 
-Remote winter restaurants not reachable by carChicagoland was Disney's land (and will be again)Plan your city escape with USA TODAY Travel's destination guides VOICES Movies
+Remote winter restaurants not reachable by carChicagoland was Disney's land (and will be again)Plan your city escape with USA TODAY Travel's destination guides VOICES Opinion
 
-The Mothership remembers Alan Rickman
+Racial bias, police mistrust plague some communities: Your Say
 
 Opinion
 
-Consumers' healthcare power growing: Column
+Citizen Cruz: Our view
 
-Music
+Opinion
 
-Dad Rock podcast picks favorite Bowie songs
+Iran curbs its nukes: Our view
 
-Nation
+Opinion
 
-Your Take: USA TODAY's top reader photo of the day
+Whites killed MLK. Now we honor him: Column
 
-Voices
+Golf
 
-Voices: A stormy forecast for Silicon Valley
+One beautiful picture of the 2016 British Open
 
-Elections
+Destinations
 
-Candidate Match Game: Find your 2016 favorite
+5 reasons you should use the Instagram community when you travel
 
-Elections
+News
 
-2016 USA TODAY/Facebook Candidate Barometer
+Post Office, others raise shipping service rates
 
-Elections
+Life
 
-For the Record: Sign up for our new politics newsletter
+B. Smith shares a life story and a call to action on Alzheimer's
 
-*   Your Take: These dressed pets never looked better
-*   Photos: 2016 Oscar acting nominees
-*   Alan Rickman through the years
-*   New car models wow at Detroit auto show
+*   Photos: The fourth Democratic debate
+*   Best from the NFL divisional playoffs
 *   January political cartoons from Gannett cartoonists
+*   Day in Sports
+*   Your Take: USA TODAY's top reader photo of the day
 
 Trending on Social
 
-*   Cardinals get wild OT win over Packers to reach NFC title game
+*   Why Jacob Tremblay's Critics' Choice speech was the cutest thing ever
     
-*   Sizzurp: What you need to know about cough syrup high
+*   U.S. sanctions Iran's ballistic missile program
     
-*   When Powerball fails you: Column
+*   Martin O'Malley wants 'just 10 seconds'
     
-*   Texas holds on to beat Oklahoma State 74-69
+*   Obama: Iran deal makes the world safer
     
-*   Buffet at Wynn, 2.0: What to eat at upgraded Vegas spread
+*   New issue in Trump-Cruz battle: John Roberts
     
 
 AD CONTENT Right Now
