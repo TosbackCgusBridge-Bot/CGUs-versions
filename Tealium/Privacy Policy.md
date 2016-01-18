@@ -1,33 +1,32 @@
 *   Products
-    *   Tealium Customer Data Platform
     *   Tealium iQ
     *   Tealium AudienceStream
-    *   Tealium DataAccess Product Overview
-    *   Tealium for Mobile
-*   Services
-    *   Support
-    *   Education
-    *   Tealium Learning Community
-*   Partners
-    *   Find an Agency Partner
-    *   Become an Agency Partner
-    *   Become a Technology Partner
-*   Library
-    *   Blog
+    *   Tealium DataAccess
+*   Solutions
+    *   Retail
+    *   Omnichannel Marketing
+    *   Mobile &. IOT
+    *   Cybersecurity
+    *   Privacy &. Data Protection
+    *   Healthcare
+*   Integrations
+*   Resources
     *   Case Studies
-    *   Product Datasheets
-    *   Reports and Whitepapers
+    *   Whitepapers
+    *   Webinars
     *   Solution Briefs
-    *   Webinars and Videos
+    *   Datasheets
+    *   Tealium Learning Community
+    *   Education
+    *   Support
 *   Company
-    *   About Tealium
+    *   People
     *   Blog
     *   Careers
-    *   Leadership Team
     *   Events
-    *   News and Recognition
-    *   Press Releases
-*   Contact
+    *   News
+    *   Partners
+    *   Contact
 *   Login
 
 Privacy Policy Tealium Inc. Web Site Privacy Statement
@@ -182,11 +181,24 @@ From time to time, we may change this Privacy Statement to accommodate new techn
 
 If you have questions regarding this Privacy Statement or the information practices of the Tealium Website please contact the Tealium’s privacy team at privacy@tealium.com or by mailing Tealium’s Privacy Office, 11085 Torreyana Road, San Diego, CA 92121.
 
-Free Trial Schedule a Demo Contact Us | 888-622-2050 Copyright All Rights Reserved © 2008-2015
+11085 Torreyana Road  
+San Diego, CA 92121  
+Main: +1 (858) 779-1344  
 
-*   Site Map
+*   Tealium Customer Data Platform
+*   Tealium iQ
+*   Tealium AudienceStream
+*   Tealium DataAccess
+
 *   Contact
+*   Site Map
 *   Privacy Policy
 *   Terms of Use
+
+Get a Demo
+
+Call: (888) 622-2050
+
+Copyright All Rights Reserved © 2008-2016
 
 This website uses cookies. By using our services, you agree to our use of cookies.Accept Learn More
