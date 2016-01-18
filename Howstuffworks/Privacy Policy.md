@@ -66,11 +66,11 @@ Privacy Policy | HSW
 
 Up Next
 
+*   Stuff They Don't Want You to Know: 3 Fossil Fuel Disasters and Cover-ups
 *   What the Stuff?!: 4 Misconceptions About the Flu
 *   HowStuffWorks NOW: Kodak Ushers In Film Renaissance
 *   Stuff Mom Never Told You: Who Spends the Most Time on the Toilet?
 *   BrainStuff: How Does Caffeine Wake You Up?
-*   HowStuffWorks NOW: Missing History: The Declaration of Sentiments
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
