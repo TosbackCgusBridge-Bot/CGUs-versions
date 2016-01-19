@@ -21,6 +21,7 @@ Explore Games
 *   Concentration
 *   Cooking
 *   Dress Up
+*   Friv Games
 *   Girls
 *   Hidden Objects
 *   Highscore Games
@@ -36,7 +37,6 @@ Explore Games
 *   Racing
 *   Room Decoration
 *   Run &. Shoot
-*   Soccer
 *   Sports
 *   Time Management
 *   Tower Defence
