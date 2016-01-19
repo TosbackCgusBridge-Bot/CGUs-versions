@@ -4,20 +4,18 @@
 *   Sign Up
 *   Help
 
-**NexTag, Inc. - Website Privacy Statement/Your California Privacy Rights** Effective December 03, 2015  
+**NexTag, Inc. - Website Privacy Statement/Your California Privacy Rights** Effective January 18, 2016  
 
 1.  SCOPE AND CHANGES
 
-Nextag, Inc. and/or our subsidiaries ("Nextag," "us" or "we") operate the websites www.nextag.com, www.calibex.com and www.pricemachine.com (we refer to these websites as the "Websites"). This Website Privacy Statement is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties. This Website Privacy Statement applies only to the Websites. It does not apply to your use of any other websites (whether or not operated by us), including any websites to which we provide links or websites of our partners or advertisers, or to any activities which are not online. Some services referenced in this Privacy Statement are not available on some Websites. Portions of this Website Privacy Statement that pertain to such features or services may not be applicable on each of the Websites.
-
-TRUSTe: Nextag has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Website, and does not cover information that may be collected for registering or maintaining an account as a Nextag Merchant or Publisher via our Program Portals. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have questions or complaints regarding our privacy policy or practices, please contact us at legalnotices@nextag.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe here.
+Nextag, Inc. and/or our subsidiaries ("Nextag, " "us" or "we") operate the websites www.nextag.com, www.calibex.com and www.pricemachine.com (we refer to these websites as the "Websites"). This Website Privacy Statement is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties. This Website Privacy Statement applies only to the Websites. It does not apply to your use of any other websites (whether or not operated by us), including any websites to which we provide links or websites of our partners or advertisers, or to any activities which are not online. Some services referenced in this Privacy Statement are not available on some Websites. Portions of this Website Privacy Statement that pertain to such features or services may not be applicable on each of the Websites.
 
 This Privacy Statement applies to all "users", including those who visit the Websites without being registered. This Website Privacy Statement is effective as of the date listed above. Even if you read and/or agreed to a prior privacy statement, you need to review this updated version. We reserve the right to revise this Website Privacy Statement at any time and at our discretion, as described in this paragraph. If we decide to change our Website Privacy Statement, we will post those changes to this Website Privacy Statement accessible on the homepages of the Websites, and other places we deem appropriate. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users via either email or by posting a notice on the Websites within a reasonable timeframe prior to such use taking effect.
 
 PEOPLE UNDER 18 YEARS OLD  
 Our Websites are not intended for use by people under eighteen (18) years of age. If you are under 18, please do not send any information to us. By accessing Websites or using our services, you represent that you are 18 years of age or older.
 
-6.  INFORMATION COLLECTION AND USE
+5.  INFORMATION COLLECTION AND USE
 
 This section describes the information that we collect about you and how it is used.
 
