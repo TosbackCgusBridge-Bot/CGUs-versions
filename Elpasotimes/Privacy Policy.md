@@ -98,264 +98,240 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Elections Democrats debate guns, health care as voting nears Read StoryThe highlightsPhotosSanders, Clinton get personal
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Nation Now Crowd calls for Mich. gov.'s arrest in wake of Flint water crisis
 
 TOP STORIES
 
-*   OnPolitics Martin O'Malley wants 'just 10 seconds'
-*   Entertain This T.J. Miller knocked Golden Globes host Ricky Gervais
-*   Pittsburgh Steelers Tearful Mike Tomlin, Steelers watch trying season slip away
-*   Americans freed from Iran land in Germany
-*   At least two dead as tornadoes slam Florida
-*   Volkswagen diesel protesters stop by auto show
-*   New 'Ghostbusters': 4 things we know about the film
-*   Pinkett Smith, Cheadle react to #OscarsSoWhite
-*   Law would allow warrantless cell-phone searches
-*   Nearly naked Justin Bieber shows off purple hair
-*   New issue in Trump-Cruz battle: John Roberts
-*   Target cashier's kindness goes viral
+*   People Eagles member Glenn Frey dies at 67
+*   Markets Chinese economy grew 6.9% in 2015. meets expectations
+*   Aus Venus Williams upset in Australian Open 1st round
+*   The women played for keeps on 'The Bachelor'
+*   Americans freed by Iran to cope with return
+*   Stars react to Glenn Frey's death
+*   Police: Ex-boyfriend stabs, kills 2 N.Y. students
+*   J.K. Rowling reveals secret about Snape
+*   Justin Upton, Tigers agree to 6-year, $132M deal
+*   With Netflix, subscriber numbers really add up
+*   'Black Lives Matter' protesters block S.F. Bay Bridge
+*   5 planets align for rare celestial event
+
+Nation
+
+Daycare worker guilty in 'baby fight club' abuse case
 
 Entertain This
 
-'Compton' star reacts (really eloquently) to Oscar snub
+Kate Winslet: 'It's probably going to be Leo's year'
 
-People
+Opinion
 
-Sean Penn defends 'experimental journalism' in El Chapo story
-
-Advice
-
-The truth behind 'best rate' guarantees
-
-Columnist
-
-Why that Fitbit might not be so good for you
-
-OUR PICKS Road Warriors
-
-Airline allegedly charges job applicants to interview
+Policing the USA: Mistrust devastates health, community
 
 NFL
 
-SNL lampoons media coverage of NFL injuries
+Cam Newton gets open letter calling him 'classless'
 
-Movies
+OUR PICKS Nation Now
 
-Exclusive: Original 'Snow White' kiss was a shocker
+'As tragic as it gets': Town reeling after fatal fire
 
-TV
+Nation Now
 
-Yep, Keri Russell is expecting with 'Americans' co-star Matthew Rhys
+10 most tweeted Martin Luther King Jr. quotes
 
-Clinton: It's an 'interesting' relationship with Putin
+News
 
-Hillary Clinton isn't tipping her hand on Vladimir Putin. Clinton was asked about her relationship with the Russian president by NBC's Lester Holt at Sunday's Democratic presidential debate.
+Tech faces hour of reckoning as fundraising drops, layoffs rise
 
-1 of 24 See more video
+Elections
 
-'Team Ninja Warrior' course guide: Log Grip
+Fact check: The fourth Democratic debate
 
-'Ninja Warrior' star 'Mighty Kacy' Catanzaro shows USA TODAY's Carly Mallenbaum how to tackle the Log Grip obstacle in 'American Ninja Warrior' spin-off 'Team Ninja Warrior.'
+Eagles founder Glenn Frey dies at age 67
 
-2 of 24 See more video
+Eagles founder and guitarist Glenn Frey has passed away at the age of 67. He is known for co-writing some of the band's top hits as well as a successful solo career.
 
-'Team Ninja Warrior' course guide: Magnetic Swing
+1 of 20 See more video
 
-'Ninja Warrior' star 'Mighty Kacy' Catanzaro shows USA TODAY's Carly Mallenbaum how to tackle the Magnetic Swing obstacle in 'American Ninja Warrior' spin-off 'Team Ninja Warrior,' which airs Jan. 19 on Esquire Network.
+Keep an eye to the sky! The planets are aligning
 
-3 of 24 See more video
+Five planets will align in an event visible to the naked eye in late January and early February.
 
-'Team Ninja Warrior' course guide: Dancing Stones
-
-'Ninja Warrior' star 'Mighty Kacy' Catanzaro shows USA TODAY's Carly Mallenbaum how to tackle the Dancing Stones in 'American Ninja Warrior' spin-off 'Team Ninja Warrior,' which airs on the Esquire Network Jan. 19.
-
-4 of 24 See more video
+2 of 20 See more video
 
 5 great Martin Luther King Jr. quotes
 
 Historical comments by the great civil rights leader Dr. Martin Luther King Jr. Jan. 18 is MLK Day
 
-5 of 24 See more video
+3 of 20 See more video
+
+9-year-old's Critics' Choice acceptance speech is the cutest
+
+Jacob Tremblay won 'best young actor/actress' at the Critics' Choice Awards. When the 9-year-old took the stage to say thank you, the entire crowd swooned, and so will you.
+
+4 of 20 See more video
 
 Celine Dion loses brother to cancer days after husband's death
 
 Celine Dion has suffered another family tragedy: Her brother Daniel Dion has died of cancer, days after her husband.
 
-6 of 24 See more video
-
-Keri Russell and Matthew Rhys are expecting a child
-
-Keri Russell and Matthew Rhys are expecting a child
-
-7 of 24 See more video
+5 of 20 See more video
 
 The most dangerous states in America
 
 These states are the most dangerous in America, based on a 24/7 Wall Street report looking at crime date from the FBI.
 
-8 of 24 See more video
+6 of 20 See more video
 
-David Bowie's 'Blackstar' album hits #1
+Reporter keeps cool when man flashes gun on live TV
 
-David Bowie's last album has landed in the top spot on the Billboard charts.
+A man waved what appeared to be a gun in front of a Serbian reporter's face during a live television broadcast. Video provided by Newsy
 
-9 of 24 See more video
+7 of 20 See more video
 
 SpaceX still can't land a rocket on its floating landing pad
 
 SpaceX carried out another successful launch Sunday, but it wasn't able to land its Falcon 9 rocket intact on a floating barge. Video provided by Newsy
 
-10 of 24 See more video
+8 of 20 See more video
 
 5 things to know about Walmart
 
 Walmart announced it is closing 269 stores worldwide. Here are five things you need to know about the company.
 
-11 of 24 See more video
+9 of 20 See more video
 
 Cop being called 'racist' after controversial comments
 
 A Georgia police officer accused of using racially insensitive language during a traffic stop has been suspended without pay for two weeks.
 
-12 of 24 See more video
+10 of 20 See more video
 
 Great White Shark stares right into camera
 
 A large male Great White Shark took a long look directly into a camera very close up. Patrick Jones (@Patrick\_E\_Jones) explains.
 
-13 of 24 See more video
+11 of 20 See more video
 
-Texas lawyer sues Ted Cruz over eligibility
+Man stabbed, bitten after stirring someone else's chili
 
-A Houston lawyer has filed a lawsuit challenging Ted Cruz's eligibility to run for president.
+A 30-year-old Detroit man was stabbed and bitten after stirring someone else's chili. Sean Dowling (@seandowlingtv) has more on the wacky story.
 
-14 of 24 See more video
+12 of 20 See more video
+
+Store sells vodka bottles full of water
+
+A store in Canada is being called out for selling vodka bottles that have been filled with water. Though it may not be all their fault. Patrick Jones (@Patrick\_E\_Jones) has the story.
+
+13 of 20 See more video
+
+SpaceX rocket topples over after hard landing
+
+SpaceX's Founder posted video of the rocket at it toppled over upon landing. The rocket made the hard landing after delivering an ocean-monitoring satellite into orbit. (Jan. 18)
+
+14 of 20 See more video
+
+Exclusive: Early 'Snow White' shows different Prince
+
+How Disney initially planned for the couple to meet was very different, as this video from the digital HD release (Jan. 19) of 'Snow White and the Seven Dwarfs' shows.
+
+15 of 20 See more video
 
 Photo of bride and service dog is capturing our hearts
 
 A touching photo, taken by photographer Maddie Peschong, has captured the hearts of many people on social media.
 
-15 of 24 See more video
-
-Best moments from the Fox Business undercard GOP debate
-
-Fox Business Network played host to the Republican primary debate. Mike Huckabee, Carly Fiorina and Rick Santorum were featured at the undercard debate. These are their best moments.
-
-16 of 24 See more video
-
-Teaser: 'Orange is the New Black' - Season 4
-
-'Orange is the New Black' fans can return to Litchfield on June 17th, when Season 4 premieres on Netflix.
-
-17 of 24 See more video
+16 of 20 See more video
 
 New video is released in death of Chicago teen fleeing police
 
 Newly-released video footage shows a plainclothes Chicago police officer fatally shooting an unarmed 17-year-old as the young man sprinted away from cops after stealing a car.
 
-18 of 24 See more video
-
-Baby's body found in high school bathroom
-
-A janitor found a baby's body in a South Houston High School. The janitor reportedly found the infant in a women's bathroom.
-
-19 of 24 See more video
+17 of 20 See more video
 
 Car frozen for days finally freed from ice
 
 A car that had been turned into an ice sculpture by Lake Erie in upstate New York is finally freed from ice after being frozen for several days.
 
-20 of 24 See more video
-
-Dad sends formal rejection letter to deny 6-year-old son a $20 loan
-
-There's a regular loan rejection letter, then there's a loan rejection letter from your dad. Video provided by Newsy
-
-21 of 24 See more video
+18 of 20 See more video
 
 Cop spots kid playing with the wrong ball, fixes it
 
 A North Carolina police officer did something that no one expected when he pulled over and approached a group of kids playing basketball in their driveway.
 
-22 of 24 See more video
+19 of 20 See more video
 
 Watch: Kid reenacts Steph Curry's dribble moves with amazing accuracy
 
 After much practice, this 11-year-old can perfectly replicate Curry's incredibly difficult dribble moves.
 
-23 of 24 See more video
+20 of 20 See more video Last VideoNext Video news
 
-Monk fights back after being robbed while buying lottery tickets
+'As tragic as it gets': Town reeling after fatal fire
 
-Police say the thief stole three hundred and fifty bucks from a 61-year-old Buddhist monk while he was buying lottery tickets. Gillian Pensavalle (@GillianWithaG) has the video.
+Police: Ex-boyfriend stabs, kills 2 N.Y. students
 
-24 of 24 See more video Last VideoNext Video news
+5 hours, 30 minutes | Nation Now
 
-Voting rights advocates observe somber King holiday
+Crowd calls for Mich. gov.'s arrest in protest at his homeToday in History for January 19thChina's economy sees low fourth-quarter growth sports
 
-Kentucky becomes health care testing ground with Medicaid…
+Warriors assert dominance over Cavs yet again
 
-8 hours, 12 minutes | Nation Now
+Cam Newton gets another angry fan letter after win
 
-Americans freed from Iran land in GermanyBernie Sanders: Debate issues, not Bill Clinton's pastClinton: It's an 'interesting' relationship with Putin sports
+3 hours, 44 minutes | NFL
 
-Tearful Tomlin, Steelers see trying season slip away
+Justin Upton gets nine-figure deal from TigersSpieth's new mansion worth an estimated $8MOklahoma loses at ISU after returning to No. 1 life
 
-Broncos edge Steelers late, clash with Pats next
+Appreciation: Glenn Frey led Eagles' easy sound
 
-2 hours, 26 minutes | Denver Broncos
+Cross WordsAll GamesEntertain This! 'Frustrated' Academy head promises 'dramatic steps'Eagles member Glenn Frey dies at 67Timeline: Glenn Frey's life money
 
-5 things to know about the Brady-Manning rivalryArmour: Manning-Brady showdown how it should beWilson: Early deficit 'my fault' life
+4 telltale signs point to stocks' directions
 
-Critics' Choice Awards: Actors remember their worst reviews
+StocksPortfolio TrackerAmerica's Markets China's economy sees low fourth-quarter growthChinese economy grew 6.9% in 2015. meets expectationsJapan stocks rise slightly ahead of China GDP data tech
 
-Cross WordsAll GamesEntertain This! 'Spotlight' wins best picture at Critics' Choice Amy Schumer turned a televised shoe-wreck into Critics' Choice laughsHere’s why Will Forte, Mel Rodriguez have half-shaven beards money
+With Netflix, subscriber numbers really add up
 
-Asian markets fall again over oil price concerns
+China slump could hurt tech stocks again this week
 
-StocksPortfolio TrackerAmerica's Markets Oxfam study highlights massive global wealth divideIranian oil likely to push prices lowerTech faces hour of reckoning as fundraising drops, layoffs rise tech
+10 hours, 42 minutes | Shinal
 
-Tech faces hour of reckoning as fundraising drops, layoffs rise
+WhatsApp to drop annual feeThis rug is also an alarm clockHow WhatsApp plans to make money without A subscription Fee or ads travel
 
-What to do after Microsoft ends support for older browsers
+10 cruise ship suites that will blow your mind
 
-9 hours, 26 minutes | Columnist
+Favorite U.S. airports: Top picks from our travel panel
 
-#TalkingTech PodcastSpaceX still can't land a rocket on its floating landing padNew service brings fresh smoothies to your door travel
+1 day, 3 hours | Road Warriors
 
-10Best: 2016 travel anniversaries and celebrations
-
-Made in Reno-Tahoe: 50 flavors only found in the…
-
-2 days, 11 hours | Food &. Wine
-
-AAA names its newest Five Diamond hotels Five bucket-list U.S. sporting events you can attendWinter adventures: 10 unique activities to try this season Reviewed.com
+Five myths about State Department travel warningsThe truth behind 'best rate' guaranteesMade in Reno-Tahoe: 50 flavors only found in the adventurous area Reviewed.com
 
 CES 2016 Editors' Choice award winners
 
-Amid GE acquisition, Haier's own applianes grow
+What is Design and Construction Week 2016?
 
-2 days, 13 hours | Money
+12 hours, 23 minutes | Tech
 
-Confusing clothing label? This iPhone app can helpHands-free with the LG Signature fridgeLG's new dishwashers blast plates from all angles experience
+New service brings fresh smoothies to your doorIn Vegas, Samsung bets big on the connected homeThis wearable claims automatic calorie tracking experience
 
-Photo tour: A day of deep-sea fishing in the Bahamas
+Winter adventures: 10 unique activities to try this season
 
-Photo tour: The Italian flair of a Costa Cruises ship
+Tour Thomas Keller's restaurants from coast to coast
 
-4 days, 17 hours | Costa-cruises
+4 days, 5 hours | Food &. Wine
 
-Remote winter restaurants not reachable by carChicagoland was Disney's land (and will be again)Plan your city escape with USA TODAY Travel's destination guides VOICES Opinion
+Photo tour: The Italian flair of a Costa Cruises shipCaribbean cuisine: The region's best food festivals in 2016 Plan your city escape with USA TODAY Travel's destination guides VOICES Opinion
 
-Racial bias, police mistrust plague some communities: Your Say
+Iran prisoner swap was the right call: Our view
+
+Rieder
+
+Rieder: Democrats' battle takes center stage
 
 Opinion
 
-Citizen Cruz: Our view
-
-Opinion
-
-Iran curbs its nukes: Our view
+Keep the pressure on Iran: Ryan Crocker
 
 Opinion
 
@@ -377,23 +353,23 @@ Life
 
 B. Smith shares a life story and a call to action on Alzheimer's
 
+*   Martin Luther King Jr.'s birthday
 *   Photos: The fourth Democratic debate
 *   Best from the NFL divisional playoffs
-*   January political cartoons from Gannett cartoonists
 *   Day in Sports
 *   Your Take: USA TODAY's top reader photo of the day
 
 Trending on Social
 
-*   Why Jacob Tremblay's Critics' Choice speech was the cutest thing ever
+*   Timeline: Glenn Frey's life
     
-*   U.S. sanctions Iran's ballistic missile program
+*   McCarthy says Eddie Lacy must lose weight
     
-*   Martin O'Malley wants 'just 10 seconds'
+*   LA Rams begin taking ticket deposits, report heavy interest
     
-*   Obama: Iran deal makes the world safer
+*   Five planets — Mercury, Venus, Mars, Jupiter, Saturn — are all visible at once
     
-*   New issue in Trump-Cruz battle: John Roberts
+*   'Black Lives Matter' protesters block S.F. Bay Bridge
     
 
 AD CONTENT Right Now
