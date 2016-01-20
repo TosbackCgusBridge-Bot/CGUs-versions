@@ -1,4 +1,4 @@
-**Last Revised: December 8, 2015**
+**Last Revised: January 19, 2016**
 
 **PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -6,7 +6,7 @@
 
 This Domain Name Registration Agreement (this "Agreement") is entered into by and between GoDaddy.com, LLC, a Delaware limited liability company ("GoDaddy") and you, and is made effective as of the date of electronic acceptance.  This Agreement sets forth the terms and conditions of your use of GoDaddy's Domain Name Registration services (the "Domain Name Registration Services" or the "Services"). 
 
-Your electronic acceptance of this Agreement signifies that you have read, understand, acknowledge and agree to be bound by this Agreement, which incorporates by reference each of (i) GoDaddy’s Universal Terms of Service Agreement ("UTOS"), (ii) all guidelines, policies, practices, procedures, registration requirements or operational standards of the top-level domain ("TLD") in which you register any domain (“Registry Policies”), and (Iii) any plan limits, product disclaimers or other restrictions presented to you on the Domain Name Registration Services landing page of the GoDaddy website (this “Site”). To link to and review the Registry Policies for the TLD in which you wish to register a domain name, please click here.    
+Your electronic acceptance of this Agreement signifies that you have read, understand, acknowledge and agree to be bound by this Agreement, which incorporates by reference each of (i) GoDaddy’s Universal Terms of Service Agreement ("UTOS"), (ii) all agreements, guidelines, policies, practices, procedures, registration requirements or operational standards of the top-level domain ("TLD") in which you register any domain (“Registry Policies”), and (iii) any plan limits, product disclaimers or other restrictions presented to you on the Domain Name Registration Services landing page of the GoDaddy website (this “Site”). **To link to and review the Registry Policies for the TLD in which you wish to register a domain name, please click here.**    
 
 The terms "we", "us" or "our" shall refer to GoDaddy.  The terms "you", "your", "User" or "customer" shall refer to any individual or entity who accepts this Agreement.  Unless otherwise specified, nothing in this Agreement shall be deemed to confer any third-party rights or benefits.
 
@@ -316,7 +316,7 @@ Domain Names registered in .REISE should be used for purposes dedicated to trave
 
 You shall not permit content unsuitable for viewing by a minor to be viewed from the main or top-level directory of a .SEXY domain name. For purposes of clarity, content viewed at the main or top-level directory of a .SEXY domain name is the content immediately visible if a user navigates to http://example.sexy or http://www.example.sexy. No restrictions apply to the content at any other page or subdirectory addressed by a .SEXY Registered Name. 
 
-**19\. OTHER COUNTRY CODE TOP LEVEL DOMAINS**
+**19\. COUNTRY CODE TOP LEVEL DOMAINS**
 
 You represent and warrant that you meet the eligibility requirements of each ccTLD you apply for. You further agree to be bound by any registry rules, policies, and agreements for that particular ccTLD. These may include, but are not limited to, agreeing to indemnify the ccTLD provider, limiting the liability of the ccTLD provider, and requirements that any disputes be resolved under that particular country's laws.
 
@@ -330,6 +330,14 @@ You acknowledge and agree that should there be insufficient funds prepaid by the
 
 _.CA ASCII and IDN domain variants_ are bundled and reserved for a single registrant.  Registrants are not required to register all variants in a bundle, but all registered variants must be registered and managed at a single registrar. Each variant registered will incur a registration fee.  In addition, when registering multiple .CA domain (ASCII and IDN) variants in a bundle, your registrant information **must be identical**.  If variants are registered at other registrars or if registrant information does not match, it may result in an "unavailable" search result, delayed or failed registration. If information does not match, validation is required and may take up to seven business days and delay availability of domain.
 
-**21\. PROVISIONS SPECIFIC TO .JP registrationS**
+**21. **PROVISIONS SPECIFIC TO .CN REGISTRATIONS**** 
+
+.CN is a restricted TLD – applications are subject to both a domain name check and real name verification as required by the People’s Republic of China.  Registrations in .CN are therefore subject to the following additional terms:
+
+_Verification, Registration and Activation._  If a domain name is not permitted to be registered by the Chinese government, as determined by us, the Registry Operator or a 3rd party provider utilized for such services and determinations, in either party’s discretion, the application for registration will not be successful.  In such event, the name will be deleted and you will be eligible for a refund as further described below. If permitted, then the Registration may proceed.  However, a .CN domain name may not be activated (i.e., it will not resolve in the Internet) unless and until you have submitted (via the process described during registration) valid documents required of us to perform real name verification.  The following are acceptable forms of documents for the purpose of verification: valid resident ID, temporary resident ID, business license or organization code certificate from China, a valid driver’s license, passport or business license from Hong Kong, Singapore or Taiwan OR a valid driver’s license or passport from Australia, Canada, or the United States.  Documents submitted to us are used solely for the purpose of real name verification, and are stored in the U.S. and are otherwise subject to our Privacy Policy.  
+
+_Refunds._  Refunds for .CN Registrations will only be allowed where (i) registration of the applied for domain name is not permitted by the Chinese government. or (ii) you notify us of your intent to cancel for any reason within the first five (5) days after the Registration (i.e., after it is deemed permissible by the Chinese government).  For the avoidance of doubt, refunds will not be permitted under any circumstances after five (5) days from the date of Registration, including, for example, in the event real name verification is not successful or if the Chinese government determines after Registration that the domain name should not have been registered (and directs us to delete).
+
+**22\. PROVISIONS SPECIFIC TO .JP registrationS**
 
 _Registration Restrictions_.  You represent and warrant that you have a local presence in Japan with a home or office address. You agree that certain domain names are reserved and can only be registered by certain parties. These include: (i) TLDs, other than ccTLDs, as determined by ICANN. (ii) geographical-type .JP domain names that are defined as metropolitan, prefectural, and municipal labels. (iii) names of primary and secondary educational organizations. (iv) names of organizations related to Internet management. (v) names required for .JP domain name operations. and (vi) character strings which may be confused with ASCII-converted Japanese domain names. The complete list of .JP Reserved Domains is available here.
