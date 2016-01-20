@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14421681693
+true true C14352219691
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p30.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Mon Jan 18 11:15:34 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p13.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Tue Jan 19 11:15:21 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,35 +48,31 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Big Savings In Store and Online Big Weekend Sale and Clearance Shop Big Weekend Sale Shop Clearance View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Activewear From Nike Nike For The Family
+2 Days Only | Online Only | Ends January 20 | Code: JANUARY3 \*Exclusions and details50% Off\* select orig and reg-priced styles Shop Bedding and Bath Shop Luggage Shop Window Shop Gold and Silver Jewelry40% Off\* select orig and reg-priced styles Shop Home Decor Shop Furniture and Mattresses Shop Diamond and Gemstone Jewelry30% Off\* select orig and reg-priced styles Shop Kitchen and Dining Shop Custom Blinds and ShadesExtra 20% Off\* select orig, reg, sale and clearance-priced styles Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Fashion Jewelry Shop Handbags and Accessories Shop Watches Shop Online Clearance Workout Clothes On Sale Save On Activewear
 
-Excluded from coupon.
+Select styles
 
-Shop Nike For The Family Shop Men Shop Women Shop Kids Shop Athletic Shoes         Great Deals On Arizona Jeans Buy 1, Get 1 Free\*
+Shop Men Shop Women Shop Boys Shop Girls Shop Athletic Shoes     Shop Nike Shop Xersion Shop Adidas Save on Women's Dresses and Men's Suits! 25 to 30% Off Dresses
 
-Guys', Juniors' and Kids' Arizona Jeans, select styles
+Select styles
 
-Shop Guys' Arizona Jeans Shop Juniors' Arizona Jeans Shop Boys Arizona Jeans Shop Girls Arizona Jeans
+Shop Dresses50% Off All Suit Separates, Sport Coats and Dress Pants Shop Suit Separates, Sport Coats and Dress Pants Shop All Gifts Save on Diamond Jewelry and More 40 to 50% Off Fine Jewelry
 
-\*Buy one item at regular price, get the second item of equal or lesser value for free.
+Use Code: JANUARY3
 
-        Our Home Sale Is Going On Now! 30 to 50% Off Select Home Items Shop Home Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Stock Up On Tee Shirts and Polos Buy 1, Get 1 Free\*
+  Shop Fine Jewelry Get details: Up To 80% Off Clearance 60 to 80% Off Clearance
 
-St. John's Bay Men's Polos, select styles
+In Store and Online
 
-Shop Men's St. John's Bay Polos  
-
-St. John's Bay Women's Tees, select styles
-
-Shop Women's St. John's Bay Tees   SportsFanShop
+Shop Clearance Shop Women Clearance Shop Men Clearance Shop Kids Clearance Shop Baby Clearance Shop Shoes Clearance Shop Home Clearance Shop Handbags and Accessories Clearance Shop Jewelry Clearance SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop Work Out and About For Less Shop Fitness JCPenney | optical
+Shop SportsFanShop People StyleWatch Must Haves
 
-70% Off Frames, 40% Off Lenses and a $25 Instant Rebate.
+Sponsored Content
 
-Shop Optical Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop People StyleWatch Now Best Prom Ever Shop Prom Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
