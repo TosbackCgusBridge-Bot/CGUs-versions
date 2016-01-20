@@ -98,236 +98,274 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Nation Now Crowd calls for Mich. gov.'s arrest in wake of Flint water crisis
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ News Nearly 500K immigrants overstayed visas in 2015
 
 TOP STORIES
 
-*   People Eagles member Glenn Frey dies at 67
-*   Markets Chinese economy grew 6.9% in 2015. meets expectations
-*   Aus Venus Williams upset in Australian Open 1st round
-*   The women played for keeps on 'The Bachelor'
-*   Americans freed by Iran to cope with return
-*   Stars react to Glenn Frey's death
-*   Police: Ex-boyfriend stabs, kills 2 N.Y. students
-*   J.K. Rowling reveals secret about Snape
-*   Justin Upton, Tigers agree to 6-year, $132M deal
-*   With Netflix, subscriber numbers really add up
-*   'Black Lives Matter' protesters block S.F. Bay Bridge
-*   5 planets align for rare celestial event
+*   Washington Michigan governor on Flint lead crisis: 'I'm sorry and I will fix it'
+*   OnPolitics Poll: Sanders soars to stunning lead over Clinton on N.H.
+*   Nation Now Ben Carson volunteer dies after crash on icy roads
+*   New Detroit teacher sickout looms
+*   4 teachers at 1 school arrested for student sex
+*   Super Bowl champ wishes he never played
+*   Feds tighten Obamacare enrollment rules
+*   Woman accused of stabbing Denver fire chief ID'd
+*   Islamic State confirms the death of 'Jihadi John'
+*   Sarah Palin ready to 'stump for Trump'
+*   Obama vetoes attempt to kill clean water rule
+*   How Tom Brady is exacting his Deflategate revenge
 
-Nation
+Washington
 
-Daycare worker guilty in 'baby fight club' abuse case
+Obama's Iran pardons have unusual conditions
+
+Movies
+
+Jamie Foxx helps rescue man from burning car
 
 Entertain This
 
-Kate Winslet: 'It's probably going to be Leo's year'
-
-Opinion
-
-Policing the USA: Mistrust devastates health, community
-
-NFL
-
-Cam Newton gets open letter calling him 'classless'
-
-OUR PICKS Nation Now
-
-'As tragic as it gets': Town reeling after fatal fire
+New 'Suicide Squad' trailer spotlights the 'worst heroes ever'
 
 Nation Now
 
-10 most tweeted Martin Luther King Jr. quotes
+Woman freezes to death trying to rescue husband
 
-News
+OUR PICKS Nation Now
 
-Tech faces hour of reckoning as fundraising drops, layoffs rise
+How water crisis in Flint, Mich., became federal state of emergency
 
-Elections
+Music
 
-Fact check: The fourth Democratic debate
+Nile Rodgers: "Why I call David Bowie the Picasso of Rock &. Roll"
 
-Eagles founder Glenn Frey dies at age 67
+Nation
 
-Eagles founder and guitarist Glenn Frey has passed away at the age of 67. He is known for co-writing some of the band's top hits as well as a successful solo career.
+'Making a Murderer' - Updates on Steven Avery, the case, more
 
-1 of 20 See more video
+Tech
+
+Apple's new diversity numbers show slow progress
+
+Millennials ditching driver's licenses
+
+Young adults are ditching driver's licenses at a quickening pace, according to a new study, raising a red flag for automakers as they grapple with the emergence of ride-sharing services and an indifferent attitude about cars.
+
+1 of 25 See more video
+
+Sarah Palin endorses Donald Trump for president
+
+Donald Trump has his biggest endorsement yet: Sarah Palin. The former Alaska governor, and 2008 vice presidential nominee, announced her decision while appearing in Iowa with the GOP front runner.
+
+2 of 25 See more video
+
+Carson pauses campaign after volunteer dies in wreck
+
+A 25-year-old Ben Carson volunteer died after a van he was riding in hit a patch of ice and crashed. Carson temporarily suspended all campaign activity following the deadly wreck.
+
+3 of 25 See more video
+
+Jack Black shows off true 'Kung Fu Panda' kicks
+
+Jack Black shows off true 'Kung Fu Panda' kicks
+
+4 of 25 See more video
+
+Jack Black runs through his 'Panda' voice exercises
+
+Jack Black runs through his 'Panda' voice exercises
+
+5 of 25 See more video
+
+3 cool tricks to try when it's below freezing out
+
+Nathan Zielgler, upper school principal at Hope Academy in Minneapolis, demonstrates three winter weather experiments kids of all ages can enjoy.
+
+6 of 25 See more video
+
+Pete Rose on induction into Reds Hall of Fame
+
+Rose will be inducted into the Reds Hall of Fame in June. Out of respect for MLB, the team had held off on Pete's induction until after Commissioner Rob Manfred ruled.
+
+7 of 25 See more video
+
+Russians brave frigid waters for Epiphany
+
+Thousands of Russians took a dip in icy waters on Tuesday to celebrate Epiphany - a major holiday in Orthodox Christianity, marking the birth and baptism of Jesus. (Jan. 19)
+
+8 of 25 See more video
+
+British parliament debates banning Trump from U.K.
+
+Britain's Parliament debated banning Donald Trump from the U.K. since he wants to block Muslim immigrants from the U.S.
+
+9 of 25 See more video
+
+Why you should eat more popcorn
+
+Jan 19th is National Popcorn Day. Jean Tsai of Pop Karma tells us why popcorn is good.
+
+10 of 25 See more video
+
+Michael Moore talks in Flint on the water crisis
+
+Flint native and director talked to a crowd of 150 about the ongoing Flint water crisis that is affecting thousands of people.
+
+11 of 25 See more video
+
+Cops already crown the 'dumbest criminal of the year'
+
+The new year has barely begun, but cops have already named the 'dumbest criminal' of 2016. Once you find out what he allegedly did, you'll understand. Sean Dowling (@seandowlingtv) has more.
+
+12 of 25 See more video
+
+These folks are freezing their pants off...literally
+
+It's so cold in Minneapolis, one man brought a whole new meaning to the expression "freezing your pants off," and he challenged his neighbors to follow suit.
+
+13 of 25 See more video
+
+Take the stress out of filing taxes
+
+Tax season is upon us and Mara Montalbano (@maramontalbano) has some tips to make filing less painful.
+
+14 of 25 See more video
+
+3 cool tricks to try when it's below freezing out
+
+Nathan Zielgler, upper school principal at Hope Academy in Minneapolis, demonstrates three winter weather experiments kids of all ages can enjoy.
+
+15 of 25 See more video
 
 Keep an eye to the sky! The planets are aligning
 
 Five planets will align in an event visible to the naked eye in late January and early February.
 
-2 of 20 See more video
-
-5 great Martin Luther King Jr. quotes
-
-Historical comments by the great civil rights leader Dr. Martin Luther King Jr. Jan. 18 is MLK Day
-
-3 of 20 See more video
+16 of 25 See more video
 
 9-year-old's Critics' Choice acceptance speech is the cutest
 
 Jacob Tremblay won 'best young actor/actress' at the Critics' Choice Awards. When the 9-year-old took the stage to say thank you, the entire crowd swooned, and so will you.
 
-4 of 20 See more video
+17 of 25 See more video
 
-Celine Dion loses brother to cancer days after husband's death
+Rich people, rejoice! 'Uber for helicopters' is here
 
-Celine Dion has suffered another family tragedy: Her brother Daniel Dion has died of cancer, days after her husband.
+Uber, the popular on-demand car service, is partnering with Airbus to provide on-demand helicopter service for the 2016 Sundance Film Festival. To no one's surprise, the rides cost a small fortune. Sean Dowling (@seandowlingtv) has more.
 
-5 of 20 See more video
-
-The most dangerous states in America
-
-These states are the most dangerous in America, based on a 24/7 Wall Street report looking at crime date from the FBI.
-
-6 of 20 See more video
-
-Reporter keeps cool when man flashes gun on live TV
-
-A man waved what appeared to be a gun in front of a Serbian reporter's face during a live television broadcast. Video provided by Newsy
-
-7 of 20 See more video
-
-SpaceX still can't land a rocket on its floating landing pad
-
-SpaceX carried out another successful launch Sunday, but it wasn't able to land its Falcon 9 rocket intact on a floating barge. Video provided by Newsy
-
-8 of 20 See more video
-
-5 things to know about Walmart
-
-Walmart announced it is closing 269 stores worldwide. Here are five things you need to know about the company.
-
-9 of 20 See more video
-
-Cop being called 'racist' after controversial comments
-
-A Georgia police officer accused of using racially insensitive language during a traffic stop has been suspended without pay for two weeks.
-
-10 of 20 See more video
-
-Great White Shark stares right into camera
-
-A large male Great White Shark took a long look directly into a camera very close up. Patrick Jones (@Patrick\_E\_Jones) explains.
-
-11 of 20 See more video
-
-Man stabbed, bitten after stirring someone else's chili
-
-A 30-year-old Detroit man was stabbed and bitten after stirring someone else's chili. Sean Dowling (@seandowlingtv) has more on the wacky story.
-
-12 of 20 See more video
-
-Store sells vodka bottles full of water
-
-A store in Canada is being called out for selling vodka bottles that have been filled with water. Though it may not be all their fault. Patrick Jones (@Patrick\_E\_Jones) has the story.
-
-13 of 20 See more video
+18 of 25 See more video
 
 SpaceX rocket topples over after hard landing
 
 SpaceX's Founder posted video of the rocket at it toppled over upon landing. The rocket made the hard landing after delivering an ocean-monitoring satellite into orbit. (Jan. 18)
 
-14 of 20 See more video
+19 of 25 See more video
 
-Exclusive: Early 'Snow White' shows different Prince
+Not even fame could break this kitten and puppy's bond
 
-How Disney initially planned for the couple to meet was very different, as this video from the digital HD release (Jan. 19) of 'Snow White and the Seven Dwarfs' shows.
+Roxy and Oscar are buddies. Roxy is a dog, Oscar a cat, a difference that will come to mean little. Their friendship has lasted since they were days old and has stood the test of time, even if it hasn't been very long.
 
-15 of 20 See more video
+20 of 25 See more video
 
-Photo of bride and service dog is capturing our hearts
+Police aren't happy about these types of donuts
 
-A touching photo, taken by photographer Maddie Peschong, has captured the hearts of many people on social media.
+The driver of a jeep caught doing multiple donuts and destroying the grass of a local park is now wanted by police.
 
-16 of 20 See more video
+21 of 25 See more video
 
-New video is released in death of Chicago teen fleeing police
+Twitter users had a moment of panic as the site crashed
 
-Newly-released video footage shows a plainclothes Chicago police officer fatally shooting an unarmed 17-year-old as the young man sprinted away from cops after stealing a car.
+Twitter experienced a global disruption that left 300 million users in shock. Jordyn Rolling (@jordynrolling) has it all!
 
-17 of 20 See more video
+22 of 25 See more video
 
-Car frozen for days finally freed from ice
+The most dangerous states in America
 
-A car that had been turned into an ice sculpture by Lake Erie in upstate New York is finally freed from ice after being frozen for several days.
+These states are the most dangerous in America, based on a 24/7 Wall Street report looking at crime date from the FBI.
 
-18 of 20 See more video
+23 of 25 See more video
 
-Cop spots kid playing with the wrong ball, fixes it
+Reporter keeps cool when man flashes gun on live TV
 
-A North Carolina police officer did something that no one expected when he pulled over and approached a group of kids playing basketball in their driveway.
+A man waved what appeared to be a gun in front of a Serbian reporter's face during a live television broadcast. Video provided by Newsy
 
-19 of 20 See more video
+24 of 25 See more video
 
-Watch: Kid reenacts Steph Curry's dribble moves with amazing accuracy
+5 things to know about Walmart
 
-After much practice, this 11-year-old can perfectly replicate Curry's incredibly difficult dribble moves.
+Walmart announced it is closing 269 stores worldwide. Here are five things you need to know about the company.
 
-20 of 20 See more video Last VideoNext Video news
+25 of 25 See more video Last VideoNext Video news
 
-'As tragic as it gets': Town reeling after fatal fire
+New Detroit teacher sickout looms
 
-Police: Ex-boyfriend stabs, kills 2 N.Y. students
+FBI official: 'Perfect storm' imperiling gun background…
 
-5 hours, 30 minutes | Nation Now
+9 hours, 3 minutes | Nation
 
-Crowd calls for Mich. gov.'s arrest in protest at his homeToday in History for January 19thChina's economy sees low fourth-quarter growth sports
+Obama's Iran pardons have unusual conditionsWoman accused of stabbing Denver fire chief ID'dSupreme Court will rule on President Obama's immigration plan sports
 
-Warriors assert dominance over Cavs yet again
+Tom Brady already has gotten revenge for Deglategate
 
-Cam Newton gets another angry fan letter after win
+Super Bowl champ wishes he never played football
 
-3 hours, 44 minutes | NFL
+6 hours, 13 minutes | NFL
 
-Justin Upton gets nine-figure deal from TigersSpieth's new mansion worth an estimated $8MOklahoma loses at ISU after returning to No. 1 life
+Ranking the NFL's 7 new coaching hiresSEC made a killing in 1st year of its network, CFPGluck: NASCAR adds unnecessary drama life
 
-Appreciation: Glenn Frey led Eagles' easy sound
+New 'Suicide Squad' trailer spotlights the 'worst heroes ever'
 
-Cross WordsAll GamesEntertain This! 'Frustrated' Academy head promises 'dramatic steps'Eagles member Glenn Frey dies at 67Timeline: Glenn Frey's life money
+Cross WordsAll GamesEntertain This! Bonnaroo 2016 lineup: Pearl Jam, Dead &. Company, moreAppreciation: Glenn Frey led Eagles' easy sound Trailer: 'Suicide Squad' money
 
-4 telltale signs point to stocks' directions
+Apple's new diversity numbers show slow progress
 
-StocksPortfolio TrackerAmerica's Markets China's economy sees low fourth-quarter growthChinese economy grew 6.9% in 2015. meets expectationsJapan stocks rise slightly ahead of China GDP data tech
+StocksPortfolio TrackerAmerica's Markets Feds tighten when people can enroll in Obamacare plansMicrosoft earmarks $1B for public cloud projectsMillennials spurn driver's licenses, study finds tech
 
-With Netflix, subscriber numbers really add up
+Microsoft earmarks $1B for public cloud projects
 
-China slump could hurt tech stocks again this week
+IBM sales drop as Rometty pushes turnaround
 
-10 hours, 42 minutes | Shinal
+6 hours, 44 minutes | News
 
-WhatsApp to drop annual feeThis rug is also an alarm clockHow WhatsApp plans to make money without A subscription Fee or ads travel
+Netflix shares surge on international growthOakland tech hub fights for diversityNielsen brings Facebook buzz to its TV ratings travel
 
-10 cruise ship suites that will blow your mind
+These airlines bring a taste of place aboard
 
-Favorite U.S. airports: Top picks from our travel panel
+Photos: The world's tallest Ferris wheels
 
-1 day, 3 hours | Road Warriors
+3 days, 5 hours | Destinations
 
-Five myths about State Department travel warningsThe truth behind 'best rate' guaranteesMade in Reno-Tahoe: 50 flavors only found in the adventurous area Reviewed.com
+Bike the Caribbean: The region's most scenic rides10 cruise ship suites that will blow your mindAsk the Captain: Are airlines vulnerable to hacking? Reviewed.com
 
 CES 2016 Editors' Choice award winners
 
-What is Design and Construction Week 2016?
+With Signature, LG enters luxury kitchen market
 
-12 hours, 23 minutes | Tech
+9 hours, 45 minutes | Tech
 
-New service brings fresh smoothies to your doorIn Vegas, Samsung bets big on the connected homeThis wearable claims automatic calorie tracking experience
+We take Electrolux's Nest-like washer for a spinNew Bosch appliances target tech-savvy urbanitesWhat is Design and Construction Week 2016? experience
 
 Winter adventures: 10 unique activities to try this season
 
 Tour Thomas Keller's restaurants from coast to coast
 
-4 days, 5 hours | Food &. Wine
+5 days, 5 hours | Food &. Wine
 
 Photo tour: The Italian flair of a Costa Cruises shipCaribbean cuisine: The region's best food festivals in 2016 Plan your city escape with USA TODAY Travel's destination guides VOICES Opinion
 
-Iran prisoner swap was the right call: Our view
+Democrats' delusions: Our view
 
-Rieder
+Opinion
 
-Rieder: Democrats' battle takes center stage
+Public pressure promotes reform: Opposing view
+
+Opinion
+
+What failed leaders owe Flint: Column
+
+Opinion
+
+Four-year college isn't only path to career readiness: Column
 
 Opinion
 
@@ -335,41 +373,33 @@ Keep the pressure on Iran: Ryan Crocker
 
 Opinion
 
-Whites killed MLK. Now we honor him: Column
+Policing the USA: Mistrust devastates health, community
 
-Golf
+Opinion
 
-One beautiful picture of the 2016 British Open
+MADD president: I hate that ‘affluenza’ is in this headline
 
-Destinations
+Nation Now
 
-5 reasons you should use the Instagram community when you travel
+So a journalist and her comedian husband walk into a news podcast ...
 
-News
-
-Post Office, others raise shipping service rates
-
-Life
-
-B. Smith shares a life story and a call to action on Alzheimer's
-
-*   Martin Luther King Jr.'s birthday
-*   Photos: The fourth Democratic debate
-*   Best from the NFL divisional playoffs
+*   Thousands take a dip in icy waters to celebrate Epiphany
+*   Remembering Glenn Frey
 *   Day in Sports
+*   January political cartoons from Gannett cartoonists
 *   Your Take: USA TODAY's top reader photo of the day
 
 Trending on Social
 
-*   Timeline: Glenn Frey's life
-    
-*   McCarthy says Eddie Lacy must lose weight
-    
-*   LA Rams begin taking ticket deposits, report heavy interest
+*   New 'Suicide Squad' trailer spotlights the 'worst heroes ever'
     
 *   Five planets — Mercury, Venus, Mars, Jupiter, Saturn — are all visible at once
     
-*   'Black Lives Matter' protesters block S.F. Bay Bridge
+*   Woman freezes to death after trying to rescue husband in wheelchair
+    
+*   Benny Feilhaber slams Jurgen Klinsmann's USMNT player selection policy
+    
+*   Supreme Court will rule on President Obama's immigration plan
     
 
 AD CONTENT Right Now
