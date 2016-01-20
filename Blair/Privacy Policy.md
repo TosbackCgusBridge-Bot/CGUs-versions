@@ -27,9 +27,9 @@ Creative inspiration for the home. Products that make life easier: problem-solve
 
 Font Size: A A A Customer Service>. Privacy and Security Appleseed's | Customer Service Privacy and Security
 
-This policy was last updated on July 9, 2014  
+This policy was last updated on January 19, 2016.  
   
-Blair is part of the Orchard Brands family of companies. This Common Privacy and Security Policy applies to personal information collected by Blair at our website Blair.com, also at our stores. through our call centers. via mail. through our authorized third parties. or by any of the other means described in this policy.  
+Blair is part of the Bluestem Brands, Inc. family of companies. This Common Privacy and Security Policy applies to personal information collected by Blair at our website Blair.com, also at our stores. through our call centers. via mail. through our authorized third parties. or by any of the other means described in this policy.  
   
 We value our customers and understand your concerns about online privacy and security. Because we know that your privacy is very important, we have established policies to help ensure that your personal information is handled in a safe, respectful and responsible manner. Our Privacy and Security Policy describes the types of personal information we collect about our customers, how we use the information, with whom we share it, the steps we take to safeguard it, the choices you have regarding our use of your personal information and how you may contact us about our privacy practices.  
   
@@ -55,12 +55,12 @@ Click on any link below to find more information about that privacy or security 
   
 **About Us**  
 
-Blair is part of a family of companies owned by Orchard Brands Company, that also includes, as of the effective date of this policy, the brands listed below. Please note that this list is subject to change.  
+Blair is part of a family of companies owned by Bluestem Brands, Inc., that also includes, as of the effective date of this policy, the brands listed below. Please note that this list is subject to change.  
   
 
 Appleseed's Bedford Fair Lifestyles Blair Draper's &. Damon's Gold Violin Haband linensource Norm Thompson Outfitters Old Pueblo Traders Sahalie Solutions The Tog Shop Willow Ridge WinterSilks  
 
-Please note that the privacy and security policies and data collection processes for these Orchard Brands family of related companies may differ from this Privacy and Security Policy published for Blair. Please refer to the website for each of these related companies for their particular privacy and security policy detailing how that affiliated company handles your privacy concerns and personal information.  
+Please note that the privacy and security policies and data collection processes for these Bluestem Brands, Inc. companies may differ from this Privacy and Security Policy published for Blair. Please refer to the website for each of these related companies for their particular privacy and security policy detailing how that affiliated company handles your privacy concerns and personal information.  
   
 
   
@@ -108,7 +108,7 @@ We may use the information you provide to:
 *   • Assist you in customer service communications
 *   • Administer "My Account" information, online forms, and other website features
 *   • Enable you to check out and complete your purchases, and to fill and ship your orders
-*   • Send you special announcements or promotional information about new products or services and upcoming events, and to allow our Orchard Brands family or affiliated companies and our other trusted third party partners to do the same
+*   • Send you special announcements or promotional information about new products or services and upcoming events, and to allow our Bluestem Brands, Inc. family or affiliated companies and our other trusted third party partners to do the same
 *   • Send you printed catalogs in the mail
 *   • Share your information as necessary, with trusted third-party companies that provide support services to us or with which we partner to provide services, including special programs, offers and discounts
 *   • Operate, evaluate and improve our business (including developing new products and services. managing our communications. analyzing our products. performing data analytics. and performing accounting, auditing and other internal functions)
@@ -118,19 +118,19 @@ We may use the information you provide to:
 
   
 
-We may supplement the information listed above with information listed above with information that is collected automatically when you visit our website, and information acquired from our joint marketing partners, from third parties, and from our Orchard Brands affiliated companies.  
+We may supplement the information listed above with information listed above with information that is collected automatically when you visit our website, and information acquired from our joint marketing partners, from third parties, and from our Bluestem Brands, Inc. affiliated companies.  
   
 
 Emails  
 
-We may use your e-mail address to notify you about the status of your order, provide customer service information or to answer your questions and requests. We may also occasionally send you our e-mail updates, sales notifications, or other promotional information about our products and services or about the products and services of our Orchard Brands affiliated companies or trusted third party partners that may be of interest to you.  
+We may use your e-mail address to notify you about the status of your order, provide customer service information or to answer your questions and requests. We may also occasionally send you our e-mail updates, sales notifications, or other promotional information about our products and services or about the products and services of our Bluestem Brands, Inc. affiliated companies or trusted third party partners that may be of interest to you.  
   
 
 Telephone Contact  
 
 If you provide us with your phone number, you may receive telephone contact from us for customer service communications, (for example, to inquire about an order you have placed). If you call our customer service toll-free number, we may ask you for personal identification information, depending on the nature of your request, to better assist you with your requests and questions. We may retain this information to help meet your future needs.  
   
-We may occasionally use your phone number to contact you with updates, sales notifications, or other promotional information about our products and services or those of our Orchard Brands affiliated companies or trusted third party partners in which you may be interested. We may also make your personal information available to our Orchard Brands affiliated companies and our other trusted third party partners to enable them to contact you directly with their promotional information, such as information about their products and services, sales and other promotions.  
+We may occasionally use your phone number to contact you with updates, sales notifications, or other promotional information about our products and services or those of our Bluestem Brands, Inc. affiliated companies or trusted third party partners in which you may be interested. We may also make your personal information available to our Bluestem Brands, Inc. affiliated companies and our other trusted third party partners to enable them to contact you directly with their promotional information, such as information about their products and services, sales and other promotions.  
   
 
 In-store Shopping  
@@ -175,7 +175,7 @@ We also may contract with third-party advertising networks that collect IP addre
 
 How we may use information collected by automated means  
 
-We may use the information we collect through automated means on our websites for market research, data analytics and system administration purposes, such as to determine whether you?ve visited us before or are new to the site, and for compliance with our legal obligations, policies and procedures, including compliance with relevant industry standards. We may combine the information we collect through automated means with other information we have collected from you. This information may be used to improve our websites, to personalize your online experience, to focus our communications with you to items of the most interest to you, to determine the effectiveness of our advertising, and for other internal business purposes to improve your shopping experience with us. We also may use the information in other ways for which specific notice is provided at the time of collection.  
+We may use the information we collect through automated means on our websites for market research, data analytics and system administration purposes, such as to determine whether you've visited us before or are new to the site, and for compliance with our legal obligations, policies and procedures, including compliance with relevant industry standards. We may combine the information we collect through automated means with other information we have collected from you. This information may be used to improve our websites, to personalize your online experience, to focus our communications with you to items of the most interest to you, to determine the effectiveness of our advertising, and for other internal business purposes to improve your shopping experience with us. We also may use the information in other ways for which specific notice is provided at the time of collection.  
   
 
   
@@ -183,9 +183,9 @@ We may use the information we collect through automated means on our websites fo
 **How do we share your information?**  
 We do not sell or otherwise disclose personal information we collect about you, except as described here. We may share your personal information with:  
   
-Orchard Brands Affiliated Companies  
+Bluestem Brands, Inc. Affiliated Companies  
 
-To provide you with other marketing information or promotions that may be of interest to you, we may disclose your personal information to our other Orchard Brands affiliated companies. We may also make your name, postal address and transactional information available to our Orchard Brands affiliated companies so that you may receive mailings directly from them about products and services that may be of interest to you.
+To provide you with other marketing information or promotions that may be of interest to you, we may disclose your personal information to our other Bluestem Brands, Inc. affiliated companies. We may also make your name, postal address and transactional information available to our Bluestem Brands, Inc. affiliated companies so that you may receive mailings directly from them about products and services that may be of interest to you.
 
   
   
@@ -209,7 +209,7 @@ In certain instances, we may disclose information about you (1) if we are requir
   
 Sale of Business  
 
-We also reserve the right to transfer personal information we have about you in the event that Orchard Brands Corporation, or any of its subsidiary companies or any part of any of them implicating the Blair business(es), sells or transfers all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Policy. Following such a sale or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information.  
+We also reserve the right to transfer personal information we have about you in the event that Bluestem Brands, Inc., or any of its subsidiary companies or any part of any of them implicating the Blair business(es), sells or transfers all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Policy. Following such a sale or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information.  
   
 
   
@@ -244,17 +244,17 @@ To remove or delete our apps from your Facebook account, follow the instructions
   
 Sharing Information with Third Parties  
 
-If you would rather that we did not share your personal information with our Orchard Brands affiliated companies or our third party partners for their direct marketing purposes, please send your full name, address and customer number to our mailing address listed at the end of this privacy policy. Please note that even if you opt out of having your information shared with third parties in this way, we may still disclose your information to third parties in other circumstances as described in this privacy policy, for example, where required to enable our third party service providers to provide services to us, and where required by law.  
+If you would rather that we did not share your personal information with our Bluestem Brands, Inc. affiliated companies or our third party partners for their direct marketing purposes, please send your full name, address and customer number to our mailing address listed at the end of this privacy policy. Please note that even if you opt out of having your information shared with third parties in this way, we may still disclose your information to third parties in other circumstances as described in this privacy policy, for example, where required to enable our third party service providers to provide services to us, and where required by law.  
   
 
-Please also note that where we have previously disclosed personal information to an Orchard Brands affiliated company or third party partner prior to your opting out, that company's use of your information will be governed by its privacy policy. If you want to change how information is used by an Orchard Brands affiliate company or third party (for example, by opting-out of receiving emails or telephone communications from that company), you must contact that company or party directly. We cannot alter or remove your information from any of our Orchard Brands affiliated companies' or third party partners' databases.  
+Please also note that where we have previously disclosed personal information to a Bluestem Brands, Inc. affiliated company or third party partner prior to your opting out, that company's use of your information will be governed by its privacy policy. If you want to change how information is used by a Bluestem Brands, Inc. affiliate company or third party (for example, by opting-out of receiving emails or telephone communications from that company), you must contact that company or party directly. We cannot alter or remove your information from any of our Bluestem Brands, Inc. affiliated companies' or third party partners' databases.  
   
 
   
   
 **How do we safeguard your information?**  
 
-Protecting the safety of your personal information is important to us. We maintain appropriate technical, administrative and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. When you enter your personal information on our websites, we use Secure Sockets Layer (SSL) technology to protect your information as it is transmitted to us. As an additional security check, you may want to look at the URL or Location line of your browser to ensure that the first characters of the address changes from ?http? to ?https?. If you are not comfortable shopping online at our websites, please feel free to place your order with us at the number listed on the websites.  
+Protecting the safety of your personal information is important to us. We maintain appropriate technical, administrative and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. When you enter your personal information on our websites, we use Secure Sockets Layer (SSL) technology to protect your information as it is transmitted to us. As an additional security check, you may want to look at the URL or Location line of your browser to ensure that the first characters of the address changes from "http" to "https". If you are not comfortable shopping online at our websites, please feel free to place your order with us at the number listed on the websites.  
   
 
 Secure Shopping  
@@ -273,7 +273,7 @@ We follow industry practices to protect your personal information from unauthori
   
 **Links To Other Websites**  
 
-Please remember that this Privacy and Security Policy applies only to the Blair not to the other Orchard Brands family of related companies. The other Orchard Brands family of companies have their own privacy policies which may differ from this Privacy and Security Policy. In addition, our websites may include links that take you to other websites for outside business partners, vendors and advertisers. These third party websites have separate privacy and data collection practices. We have no control over such websites, and are not responsible or liable for the privacy practices or information-gathering practices of other entities or websites.  
+Please remember that this Privacy and Security Policy applies only to the Blair not to the other Bluestem Brands, Inc. family of related companies. The other Bluestem Brands, Inc. family of companies have their own privacy policies which may differ from this Privacy and Security Policy. In addition, our websites may include links that take you to other websites for outside business partners, vendors and advertisers. These third party websites have separate privacy and data collection practices. We have no control over such websites, and are not responsible or liable for the privacy practices or information-gathering practices of other entities or websites.  
   
 
   
@@ -287,7 +287,7 @@ Our websites are not directed towards children. We do not knowingly collect any 
   
 **California Privacy Rights**  
 
-In certain circumstances, California law entitles California residents to request us to provide, free of charge and no more than once per calendar year, a list of the categories of the residents? personal information disclosed by us to third parties for such third parties' direct marketing purposes during the immediately preceding calendar year, together with the names and addresses of all such third parties and a description of such third parties' businesses, if not already reasonably apparent from the third parties' names. If you are a California resident and would like to receive such information, please contact us using the mailing address at the end of this Privacy and Security Policy.  
+In certain circumstances, California law entitles California residents to request us to provide, free of charge and no more than once per calendar year, a list of the categories of the residents' personal information disclosed by us to third parties for such third parties' direct marketing purposes during the immediately preceding calendar year, together with the names and addresses of all such third parties and a description of such third parties' businesses, if not already reasonably apparent from the third parties' names. If you are a California resident and would like to receive such information, please contact us using the mailing address at the end of this Privacy and Security Policy.  
   
 
   
