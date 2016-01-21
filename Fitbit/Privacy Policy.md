@@ -29,6 +29,8 @@ Fitbit
     *   Blog
     *   Buzz
     *   Fitness Quiz
+    *   FitForGood
+    *   Fitbit Local
 *   Help
     *   Product Help
     *   Wear and Care
