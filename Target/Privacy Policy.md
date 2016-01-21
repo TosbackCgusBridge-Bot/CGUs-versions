@@ -156,23 +156,23 @@ What Choices Do You Have?
 
 **Postal Mail**
 
-If you do not wish to receive catalogs, coupons, and other promotional postal mail, contact us or call 800-440-0680 to opt out.
+If you do not wish to receive catalogs, coupons, and other promotional postal mail, email guest.relations@target.com with your first and last name and complete mailing address or call 800-440-0680 to opt out.
 
 **Telephone**
 
-If you do not wish to receive promotional telephone calls, contact us or call 800-440-0680 to opt out. This opt out does not apply to operational phone calls (e.g., confirmation of delivery address and prescription refills).
+If you do not wish to receive promotional telephone calls, email guest.relations@target.com with your first and last name and telephone number or call 800-440-0680 to opt out. This opt out does not apply to operational phone calls (e.g., confirmation of delivery address and prescription refills).
 
 **E-mail**
 
-If you do not wish to receive promotional e-mails from us, contact us or call 800-440-0680 to opt out. You may still receive select emails from us if you have requested them through one of our services such as Weekly Ad Reminders, Gift Reminders, or E-mail Me when Available notifications. You can discontinue these e-mails by canceling your subscription to these services.
+If you do not wish to receive promotional e-mails from us, email guest.relations@target.com or call 800-440-0680 to opt out. You may still receive select emails from us if you have requested them through one of our services such as Weekly Ad Reminders, Gift Reminders, or E-mail Me when Available notifications. You can discontinue these e-mails by canceling your subscription to these services.
 
-You also have the ability to unsubscribe from promotional e-mails via the opt out link included in each promotional e-mail. All such opt outs will be applied within 10 business days.
+You also have the ability to unsubscribe from promotional e-mails via the opt out link included in each promotional e-mail.
 
 **Mobile**
 
 _Text Messages_
 
-We distribute mobile coupons and other text messages to devices of guests who have requested this information via an opt in request. To opt out of Target mobile messaging, reply "stop" to text messages sent from 827438 (TARGET). This will opt you out of all Target text message campaigns from 827438 (TARGET). To opt out of Target Healthful text messaging, reply "stop" to 84879 or call 888-347-4944.
+We distribute mobile coupons and other text messages to devices of guests who have requested this information via an opt in request. To opt out of Target mobile messaging, reply “stop” to text messages sent from 827438 (TARGET). This will opt you out of all Target text message campaigns from 827438 (TARGET). To opt out of Target Healthful text messaging, reply “stop” to 84879 or call 888-347-4944.
 
 _Push Notifications_
 
@@ -194,7 +194,7 @@ Note: If you uninstall the mobile application from your device, the Target uniqu
 
 **Sharing with Other Companies (for their marketing purposes)**
 
-If you do not wish us to share the personal information we have collected with other unaffiliated companies (for their marketing purposes), contact us or call 800-440-0680 to opt out.
+If you do not wish us to share the personal information we have collected with other unaffiliated companies (for their marketing purposes), email this request to guest.relations@target.com with your first and last name and complete mailing address or call 800-440-0680 to opt out.
 
 **Cookies, Tracking, and Interest-Based Advertising**
 
@@ -215,14 +215,14 @@ Analytics services such as Site Catalyst by Adobe Analytics and Google Analytics
 
 If you are a California resident and have an established business relationship with us, you can request a notice disclosing the categories of personal information we have shared with third parties, for the third parties’ direct marketing purposes, during the preceding calendar year. To request a notice, please submit your request to Target Corporation, Attn: California Shine the Light Inquiry, P.O. Box 9350 Minneapolis, MN 55440. Please allow 30 days for a response.
 
-If you are a California resident under 18 years old and a registered user, you can request that we remove content or information that you have posted to our website or other online services. Note that fulfilment of the request may not ensure complete or comprehensive removal (e.g., if the content or information has been reposted by another user). To request removal of content or information, please contact us or call 800-440-0680.
+If you are a California resident under 18 years old and a registered user, you can request that we remove content or information that you have posted to our website or other online services. Note that fulfilment of the request may not ensure complete or comprehensive removal (e.g., if the content or information has been reposted by another user). To request removal of content or information, please email guest.relations@target.com or call 800-440-0680.
 
 How Do You Access and Update Your Personal Information?
 
 In order to keep your personal information accurate and complete, you can access or update some of it in the following ways:
 
 *   If you have created a Target.com account, you can log in to review and update your account information, including contact, billing, and shipping information.
-*   Contact us with your current contact information and the personal information you would like to access. We will provide you the personal information requested if reasonably available, or will describe the types of personal information we typically collect.
+*   Email guest.relations@target.com or call 800-440-0680 with your current contact information and the personal information you would like to access. We will provide you the personal information requested if reasonably available, or will describe the types of personal information we typically collect.
 
 How Is Your Personal Information Protected?
 
@@ -236,7 +236,7 @@ We maintain administrative, technical, and physical safeguards to protect your p
 
 **Children’s Personal Information**
 
-We recognize the particular importance of protecting privacy where children are involved. We do not knowingly collect personal information online from children under the age of 13. If a child under the age of 13 has provided us with personal information online, we ask that a parent or guardian contact us or call 800-440-0680.
+We recognize the particular importance of protecting privacy where children are involved. We do not knowingly collect personal information online from children under the age of 13. If a child under the age of 13 has provided us with personal information online, we ask that a parent or guardian email guest.relations@target.com or call 800-440-0680.
 
 How Do You Contact Target?
 
