@@ -1,22 +1,13 @@
-Skip to main content  Menu
+Skip to Main Content 
 
+*   Insurance
 *   Claims
-*   Log In
+*   About
 
-Your Policies
-
-Log In
-
-First time logging in? Start here
-
-Or, skip logging in:
-
-Make a Payment
+*   1-855-347-3939
+*   Log In
 
 Progressive Privacy Policy
-
-*   Home
-*   Privacy &. Security
 
 Please select from the following list to review the Privacy Policy for your state:
 
@@ -99,74 +90,42 @@ Back
 
 Back
 
-
+*   Home
+*   Privacy &. Security
 
-#1 Insurance Site
+Insurance Offerings
 
-Get Started
-
-*   Auto Insurance
-*   Homeowners Insurance
+*   Car Insurance
+*   Home Insurance
 *   Renters Insurance
+*   Insurance Bundles
 *   Motorcycle Insurance
 *   Boat Insurance
 *   RV Insurance
-
-*   Classic Car Insurance
-*   Commercial Auto Insurance
-*   Business Insurance
 *   Life Insurance
+*   See All Insurance Choices
+*   Commercial Insurance
 *   Local Car Insurance
-*   Car Insurance Australia
+*   Australia Car Insurance
+
+Our Company
+
+*   About Progressive
+*   Jobs
+*   Investors
+*   Newsroom
 
 Connect
 
 *   1-855-347-3939
-*   About
 *   Customer Support
-*   Careers
 *   Progressive App
-*   Investors
-
-
-
-*   Insurance
-    *   Auto
-    *   Homeowners
-    *   Renters
-    *   Motorcycle
-    *   Boat
-    *   RV
-    *   Commercial Auto
-    *   Life
-    *   Health
-    *   View Everything
-*   Claims
-    *   Report/Track a Claim
-    *   The Process
-    *   Service Centers
-    *   Roadside Assistance
-    *   Catastrophe Claims
-
-Your Policy
-
-*   About
-    *   Overview
-    *   Careers
-    *   Newsroom
-    *   Investors
-    *   Life Lanes
-
-*   Privacy &. Security
-    *   Web Site Security
-    *   Report Fraud
-
- Search / Keywords
+*   PerkShare
 
 *   
 *   
-*   
 *   
+*   
 
 *   Home
 *   Contact Us
@@ -177,6 +136,122 @@ Your Policy
 *   Terms of Use
 *   Insurance Resources
 
+The #1 Insurance Site
+
 Copyright 1995 - 2016. Progressive Casualty Insurance Company. All Rights Reserved.
 
+Search / Keywords
+
 We offer insurance by phone, online and through independent agents. Prices vary based on how you buy. Rates for policies sold through agents and brokers are available, and can also be retrieved, through ProgressiveAgent.com or via the Find a Local Agent button.
+
+*   Insurance
+    *   Vehicle &. Recreational
+        
+        *   Auto
+        *   Motorcycle
+        *   RV/Trailer
+        *   Boat
+        *   Classic Car
+        *   Snowmobile
+        *   ATV
+        *   PWC
+        *   Golf Cart
+        *   Segway
+        *   Auto &. Property Bundle
+        
+        Home &. Property
+        *   Homeowners
+        *   Renters
+        *   Condo
+        *   Mobile Home
+        *   FloodBundle Auto and Property
+    *   Everything Else
+        *   Commercial
+        *   Pet
+        *   Health
+        *   Wedding &. Event
+        *   Life
+        *   Mechanical Breakdown
+        *   Umbrella
+        *   ID Theft
+        *   Travel
+        *   Mexico Auto
+        *   View All Insurance Products
+
+*   Claims
+    *   Claims
+        *   Claims Overview
+        *   The Process
+        *   Windshield &. Glass
+        *   Catastrophe
+    *   Service Centers
+        *   Our Service Centers
+        *   Locations
+        *   Virtual Tour
+    *   Help on the Road
+        *   Roadside Assistance
+        *   If You're in an Accident
+        *   How to Jump a Battery
+    *   Report or Track a Claim Log In to Policy
+        
+        Or, call 1-800-274-4499
+        
+        Not a Customer? Track claim here
+        
+
+*   About
+    *   Who We Are
+        *   About Progressive
+        *   Company Overview
+        *   History
+        *   Leadership
+    *   Media &. Investors
+        *   Investor Relations
+        *   Newsroom
+        *   Media Contacts
+        *   TV Commercials
+    *   Careers
+        *   Jobs Overview
+        *   View and Apply
+        *   Hiring Process
+        *   Working at Progressive
+    *   B2B Partners
+        *   Apply to be a Network Shop
+        *   Become an Agent
+        *   Prospective Suppliers
+        *   Policy Verification (PROVE)
+
+
+
+Quote &. save today!
+
+Zip Code 
+
+Bundle for even more savings!
+
+*   Auto + Home
+*   Auto + Renters
+*   Auto + Condo
+
+*   Auto
+*   Home
+*   Renters
+*   Condo
+*   Mobile Home
+*   Classic Car
+
+*   Motorcycle/ATV
+*   Boat/PWC
+*   RV/Trailer
+*   Snowmobile
+*   Term Life
+*   Health
+
+*   Commercial Auto
+*   Business
+*   Travel
+*   Pet
+*   Mechanical Repair
+*   ID Theft
+
+Auto + HomeAuto + RentersAuto + CondoAutoHomeRentersCondoMobile HomeClassic CarMotorcycle/ATVBoat/PWCRV/TrailerSnowmobileTerm LifeHealthCommercial AutoBusinessTravelPetMechanical RepairID Theft 
