@@ -1,8 +1,10 @@
 ELECTRONIC ARTS PRIVACY AND COOKIE POLICY  
   
-Effective Date: June 28, 2013  
+Effective Date: January 20, 2016  
+  
 
-Previous Privacy and Cookie Policy: Effective Date: July 31, 2012
+Previous Privacy and Cookie Policy: Effective Date: June 28, 2013  
+Effective Date: July 31, 2012
 
   
   
@@ -185,7 +187,9 @@ We may also access and disclose personal information, including personal communi
   
 VII.    Where Is The Information Held?  
   
-EA is a global organization and the majority of the computer systems on which EA collects, stores, and uses the information it collects or receives are based in the United States and The Netherlands. We may also utilize data storage facilities located in Asia, Canada and/or the European Union. Your personal information may be transferred to, used, processed or held by EA in the United States and in other countries, including countries outside your country of residence both in and outside the European Union and Asia, and used for the purposes set out in this Privacy Policy.  
+Personal Information we collect may be stored and processed for the purposes set out in this Privacy Policy in the United States or any other country in which EA, its subsidiaries, or third party agents operate. By using our products, you consent that your personal information may be transferred to recipients in the United States and other countries that may not offer the same level of privacy protection as the laws in your country of residence or citizenship.  
+  
+We comply with the U.S.-Swiss Safe Harbor Framework for the collection, use, and retention of data from Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit http://www.export.gov/safeharbor.  Where necessary, EA adopts contractual measures to adequately protect Personal Information transferred outside of the EEA in line with relevant laws.  
   
 VIII.    How Does EA Protect Your Personal Information?  
   
@@ -283,4 +287,4 @@ The right to attorneys' fees and expenses discussed above supplements any right 
   
 **G. Changes to This Provision.**  Notwithstanding any provision in this Agreement to the contrary, we agree that if EA makes any future change to this arbitration provision (other than a change to the Notice Address), you may reject any such change by sending us written notice within 30 days of the change to the Arbitration Notice Address provided above.  By rejecting any future change, you are agreeing that you will arbitrate any dispute between us in accordance with the language of this provision.  
   
-Version 54402\_9
+Version 54402\_10
