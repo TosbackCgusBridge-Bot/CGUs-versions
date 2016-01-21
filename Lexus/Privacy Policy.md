@@ -264,15 +264,19 @@ COMPARE **LC**
 *   Find a Dealer
     
 
-YOUR PRIVACY RIGHTS Lexus Personal Information Sharing Practices – 2015 LEARN MORE
+YOUR PRIVACY RIGHTS Lexus Personal Information Sharing Practices – 2015
 
 During 2015, Lexus shared Personal Information about our customers with SiriusXM™ Satellite Radio, Lexus hotel partners, Lexus Financial Services, Lexus Financial Savings Bank and our authorized Lexus dealers, where the information was used for the recipient’s own marketing.
+
+LEARN MORE
 
 Connected Vehicle Services Privacy and Protection Notice
 
 Your vehicle may be equipped with Connected Services technology that electronically transmits Vehicle Data to Toyota. Toyota may use your Vehicle Data to respond to vehicle emergencies, find destinations you request, activate remote services, help you manage your vehicle service and maintenance, improve vehicle safety, develop new and better vehicles, confirm vehicle quality and analyze vehicle trends. We also collect and use your Personal Information to facilitate your usage of Connected Vehicle Services technology, fulfill your requests, and manage our relationship with you.
 
-LEARN MORE Lexus Online Privacy Statement
+LEARN MORE
+
+Lexus Online Privacy Statement
 
 This statement applies to the websites operated by Lexus, a division of Toyota Motor Sales, U.S.A., Inc. (Lexus) online.
 
@@ -412,7 +416,7 @@ Brand &. Lifestyle
 
 Safety Recalls &. Service Campaigns  
 
-©2006-2015 Lexus, a Division of Toyota Motor Sales, U.S.A., Inc. All information contained herein applies to U.S. vehicles only.
+©2006-2016 Lexus, a Division of Toyota Motor Sales, U.S.A., Inc. All information contained herein applies to U.S. vehicles only.
 
 Close Your browser is currently not supported.
 
