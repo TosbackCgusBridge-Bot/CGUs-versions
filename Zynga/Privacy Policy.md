@@ -1,7 +1,6 @@
 Navigation
 
 *   GAMES
-    *   Bubble Safari
     *   CastleVille Legends
     *   Chess With Friends
     *   Draw Something
