@@ -98,308 +98,278 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ News Nearly 500K immigrants overstayed visas in 2015
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Elections A contested GOP convention — a dream and a nightmare Read StoryA history of contested conventions
 
 TOP STORIES
 
-*   Washington Michigan governor on Flint lead crisis: 'I'm sorry and I will fix it'
-*   OnPolitics Poll: Sanders soars to stunning lead over Clinton on N.H.
-*   Nation Now Ben Carson volunteer dies after crash on icy roads
-*   New Detroit teacher sickout looms
-*   4 teachers at 1 school arrested for student sex
-*   Super Bowl champ wishes he never played
-*   Feds tighten Obamacare enrollment rules
-*   Woman accused of stabbing Denver fire chief ID'd
-*   Islamic State confirms the death of 'Jihadi John'
-*   Sarah Palin ready to 'stump for Trump'
-*   Obama vetoes attempt to kill clean water rule
-*   How Tom Brady is exacting his Deflategate revenge
+*   Markets Apple falls close to a freak-out level
+*   World U.S. airstrikes against Islamic State grow more lethal in Iraq
+*   News Crashing oil prices hit former Texas boomtowns
+*   Connor McGregor's chilling warning to Floyd Mayweather
+*   Out of the loop today? Here's what you missed
+*   Freed Iran prisoner returning to Idaho
+*   Bob Dole on Ted Cruz: 'Nobody likes him'
+*   Prosecutor: Cosby wants special treatment
+*   Wild day on Street: Dow halves 500-plus drop
+*   'Star Wars: Episode VIII' moved to December 2017
+*   Major winter storm forecast to slam East Coast
+*   Mich. governor releases emails on Flint water crisis
 
-Washington
+Buffalo Bills
 
-Obama's Iran pardons have unusual conditions
-
-Movies
-
-Jamie Foxx helps rescue man from burning car
-
-Entertain This
-
-New 'Suicide Squad' trailer spotlights the 'worst heroes ever'
-
-Nation Now
-
-Woman freezes to death trying to rescue husband
-
-OUR PICKS Nation Now
-
-How water crisis in Flint, Mich., became federal state of emergency
-
-Music
-
-Nile Rodgers: "Why I call David Bowie the Picasso of Rock &. Roll"
+Bills hire NFL's first female full-time assistant coach
 
 Nation
 
-'Making a Murderer' - Updates on Steven Avery, the case, more
+Government's failure to track foreign visitors angers Congress
 
-Tech
+Music
 
-Apple's new diversity numbers show slow progress
+ABBA in rare appearance at 'Mama Mia!' dinner-theater in Sweden
+
+Nation
+
+Woman leaves party in shorts, freezes to death
+
+OUR PICKS News
+
+Sarah Palin: Arrested son was 'hardened' by war
+
+Nation
+
+Meet the new planet nobody's even seen before
+
+TV
+
+NBC Burrows tribute will feature six 'Friends,' with Perry via tape
+
+Nation Now
+
+Man, 95, to be tried for Auschwitz murders
+
+Unlikely teen breaks ground with new business
+
+Blake Pyron is about to become the youngest business owner in his town and possibly the only business owner in Texas with Down syndrome.
+
+1 of 20 See more video
+
+2015 Earth's hottest year by far
+
+2015 was the hottest year on record...surpassing 2014.
+
+2 of 20 See more video
+
+Scientists believe they've found a 'real ninth planet'
+
+Two Caltech researchers, Konstantin Batygin and Mike Brown, believe they've found evidence of another planet in our solar system, which they've nicknamed Planet Nine.
+
+3 of 20 See more video
+
+Orphaned baby otters have champagne taste, need nearly $4,300 worth of fish to survive
+
+It seems the staff at an animal rescue center in the UK will do anything for two orphaned baby otters. Including breaking the bank and spending nearly $4,300 on trout their mother would have caught for free in the wild. Sean Dowling (@seandowlingtv)
+
+4 of 20 See more video
+
+Jamie Foxx praised for heroism after pulling man from wreck
+
+Actor and musician Jamie Foxx doesn't consider himself a hero, but that's what he's being called after he helped pull a man from a wrecked truck. Video provided by Newsy
+
+5 of 20 See more video
+
+World's 5 tallest Ferris wheels will wow you
+
+You can see three countries from Singapore's biggest Ferris wheel, and it's not even the tallest in the world.
+
+6 of 20 See more video
+
+Fun facts about penguins on Penguin Awareness Day
+
+Penguins are a lovable species that are constantly entertaining us. From Happy Feet to The March Of The Penguins, people are fascinated by the aquatic birds. Unfortunately, some birds are becoming endangered due to habitat and climate changes.
+
+7 of 20 See more video
+
+Why gun background checks are all jammed up
+
+The FBI has been overwhelmed by so many background checks for new gun sales, that they've had to halt appeals by prospective buyers who've been turned down, but that's not the only problem facing the system.
+
+8 of 20 See more video
 
 Millennials ditching driver's licenses
 
 Young adults are ditching driver's licenses at a quickening pace, according to a new study, raising a red flag for automakers as they grapple with the emergence of ride-sharing services and an indifferent attitude about cars.
 
-1 of 25 See more video
+9 of 20 See more video
 
-Sarah Palin endorses Donald Trump for president
+'El Chapo's' taco takeout led police right to him
 
-Donald Trump has his biggest endorsement yet: Sarah Palin. The former Alaska governor, and 2008 vice presidential nominee, announced her decision while appearing in Iowa with the GOP front runner.
+The New York Times reports it was a large taco delivery that led authorities to El Chapo's hideout the night he was captured. Mara Montalbano (@maramontalbano) has more.
 
-2 of 25 See more video
+10 of 20 See more video
 
-Carson pauses campaign after volunteer dies in wreck
+Homeless cat looks like 'Star Wars' character, gets adopted
 
-A 25-year-old Ben Carson volunteer died after a van he was riding in hit a patch of ice and crashed. Carson temporarily suspended all campaign activity following the deadly wreck.
+A homeless cat became a viral sensation after people on social media noticed he looked like actor Adam Driver, who famously plays Kylo Ren in "Star Wars: The Force Awakens." It wasn't long before he found himself a new home. Sean Dowling (@seandowli
 
-3 of 25 See more video
+11 of 20 See more video
 
-Jack Black shows off true 'Kung Fu Panda' kicks
+Are these milkshakes worth $15 and a 2-hour wait? Yes.
 
-Jack Black shows off true 'Kung Fu Panda' kicks
+New Yorkers are going nuts over these over-the-top milkshakes offered by Black Craft Burgers &. Beer. Garnished with lollipops, cotton candy, pretzels and more, there's something to satisfy every craving.
 
-4 of 25 See more video
-
-Jack Black runs through his 'Panda' voice exercises
-
-Jack Black runs through his 'Panda' voice exercises
-
-5 of 25 See more video
+12 of 20 See more video
 
 3 cool tricks to try when it's below freezing out
 
 Nathan Zielgler, upper school principal at Hope Academy in Minneapolis, demonstrates three winter weather experiments kids of all ages can enjoy.
 
-6 of 25 See more video
-
-Pete Rose on induction into Reds Hall of Fame
-
-Rose will be inducted into the Reds Hall of Fame in June. Out of respect for MLB, the team had held off on Pete's induction until after Commissioner Rob Manfred ruled.
-
-7 of 25 See more video
-
-Russians brave frigid waters for Epiphany
-
-Thousands of Russians took a dip in icy waters on Tuesday to celebrate Epiphany - a major holiday in Orthodox Christianity, marking the birth and baptism of Jesus. (Jan. 19)
-
-8 of 25 See more video
-
-British parliament debates banning Trump from U.K.
-
-Britain's Parliament debated banning Donald Trump from the U.K. since he wants to block Muslim immigrants from the U.S.
-
-9 of 25 See more video
+13 of 20 See more video
 
 Why you should eat more popcorn
 
 Jan 19th is National Popcorn Day. Jean Tsai of Pop Karma tells us why popcorn is good.
 
-10 of 25 See more video
-
-Michael Moore talks in Flint on the water crisis
-
-Flint native and director talked to a crowd of 150 about the ongoing Flint water crisis that is affecting thousands of people.
-
-11 of 25 See more video
+14 of 20 See more video
 
 Cops already crown the 'dumbest criminal of the year'
 
 The new year has barely begun, but cops have already named the 'dumbest criminal' of 2016. Once you find out what he allegedly did, you'll understand. Sean Dowling (@seandowlingtv) has more.
 
-12 of 25 See more video
-
-These folks are freezing their pants off...literally
-
-It's so cold in Minneapolis, one man brought a whole new meaning to the expression "freezing your pants off," and he challenged his neighbors to follow suit.
-
-13 of 25 See more video
-
-Take the stress out of filing taxes
-
-Tax season is upon us and Mara Montalbano (@maramontalbano) has some tips to make filing less painful.
-
-14 of 25 See more video
-
-3 cool tricks to try when it's below freezing out
-
-Nathan Zielgler, upper school principal at Hope Academy in Minneapolis, demonstrates three winter weather experiments kids of all ages can enjoy.
-
-15 of 25 See more video
-
-Keep an eye to the sky! The planets are aligning
-
-Five planets will align in an event visible to the naked eye in late January and early February.
-
-16 of 25 See more video
+15 of 20 See more video
 
 9-year-old's Critics' Choice acceptance speech is the cutest
 
 Jacob Tremblay won 'best young actor/actress' at the Critics' Choice Awards. When the 9-year-old took the stage to say thank you, the entire crowd swooned, and so will you.
 
-17 of 25 See more video
+16 of 20 See more video
 
 Rich people, rejoice! 'Uber for helicopters' is here
 
 Uber, the popular on-demand car service, is partnering with Airbus to provide on-demand helicopter service for the 2016 Sundance Film Festival. To no one's surprise, the rides cost a small fortune. Sean Dowling (@seandowlingtv) has more.
 
-18 of 25 See more video
-
-SpaceX rocket topples over after hard landing
-
-SpaceX's Founder posted video of the rocket at it toppled over upon landing. The rocket made the hard landing after delivering an ocean-monitoring satellite into orbit. (Jan. 18)
-
-19 of 25 See more video
+17 of 20 See more video
 
 Not even fame could break this kitten and puppy's bond
 
 Roxy and Oscar are buddies. Roxy is a dog, Oscar a cat, a difference that will come to mean little. Their friendship has lasted since they were days old and has stood the test of time, even if it hasn't been very long.
 
-20 of 25 See more video
+18 of 20 See more video
 
 Police aren't happy about these types of donuts
 
 The driver of a jeep caught doing multiple donuts and destroying the grass of a local park is now wanted by police.
 
-21 of 25 See more video
-
-Twitter users had a moment of panic as the site crashed
-
-Twitter experienced a global disruption that left 300 million users in shock. Jordyn Rolling (@jordynrolling) has it all!
-
-22 of 25 See more video
-
-The most dangerous states in America
-
-These states are the most dangerous in America, based on a 24/7 Wall Street report looking at crime date from the FBI.
-
-23 of 25 See more video
+19 of 20 See more video
 
 Reporter keeps cool when man flashes gun on live TV
 
 A man waved what appeared to be a gun in front of a Serbian reporter's face during a live television broadcast. Video provided by Newsy
 
-24 of 25 See more video
+20 of 20 See more video Last VideoNext Video news
 
-5 things to know about Walmart
+Major winter storm forecast to slam East Coast
 
-Walmart announced it is closing 269 stores worldwide. Here are five things you need to know about the company.
+Poll: One-third of Americans say the best thing about a…
 
-25 of 25 See more video Last VideoNext Video news
+15 hours, 35 minutes | OnPolitics
 
-New Detroit teacher sickout looms
+Stephen Hawking: Human race is in danger, and it's our fault'Making a Murderer' - Latest on the Steven Avery caseFLDS trial: Sect, towns both claim religious discrimination sports
 
-FBI official: 'Perfect storm' imperiling gun background…
+Bills hire NFL's first female full-time assistant coach
 
-9 hours, 3 minutes | Nation
+Conor McGregor's chilling warning to Mayweather
 
-Obama's Iran pardons have unusual conditionsWoman accused of stabbing Denver fire chief ID'dSupreme Court will rule on President Obama's immigration plan sports
+3 hours, 48 minutes | Ufc
 
-Tom Brady already has gotten revenge for Deglategate
+Warriors score while two players tie shoesBroncos tired of getting burned by GronkBest underclassmen players to pass on NFL draft life
 
-Super Bowl champ wishes he never played football
+Review: '5th Wave' is an inviting sci-fi invasion
 
-6 hours, 13 minutes | NFL
+Cross WordsAll GamesEntertain This! Tyrese Gibson: Chris Rock should step down as Oscar hostCritic's Corner: Zach Galifianakis stars in 'Baskets'Nielsens: 'Mercy Street,' 'Billions,' 'Angie Tribeca' money
 
-Ranking the NFL's 7 new coaching hiresSEC made a killing in 1st year of its network, CFPGluck: NASCAR adds unnecessary drama life
+Looking for signs of stocks' final washout as fear, panic spike
 
-New 'Suicide Squad' trailer spotlights the 'worst heroes ever'
+StocksPortfolio TrackerAmerica's Markets House committee subpoenas Shkreli on drug pricesRieder: The return of Sarah PalinApple faces challenges from every flank tech
 
-Cross WordsAll GamesEntertain This! Bonnaroo 2016 lineup: Pearl Jam, Dead &. Company, moreAppreciation: Glenn Frey led Eagles' easy sound Trailer: 'Suicide Squad' money
+No more independent contractors for this gig economy startup
 
-Apple's new diversity numbers show slow progress
+EMC stock suggests VMware tracking stock is worthless
 
-StocksPortfolio TrackerAmerica's Markets Feds tighten when people can enroll in Obamacare plansMicrosoft earmarks $1B for public cloud projectsMillennials spurn driver's licenses, study finds tech
+3 hours, 55 minutes | Shinal
 
-Microsoft earmarks $1B for public cloud projects
+Apple faces challenges from every flankApple wins lawsuit, kills old Samsung phone salesTech stocks rebound following early selloff travel
 
-IBM sales drop as Rometty pushes turnaround
+Cruise ship tours: The charm of the Royal Clipper
 
-6 hours, 44 minutes | News
+TripAdvisor names 2016 Travelers' Choice hotel winners
 
-Netflix shares surge on international growthOakland tech hub fights for diversityNielsen brings Facebook buzz to its TV ratings travel
+14 hours, 48 minutes | Travel
 
-These airlines bring a taste of place aboard
-
-Photos: The world's tallest Ferris wheels
-
-3 days, 5 hours | Destinations
-
-Bike the Caribbean: The region's most scenic rides10 cruise ship suites that will blow your mindAsk the Captain: Are airlines vulnerable to hacking? Reviewed.com
+Dates to remember for the cheapest flights of 2016Utah's best breweries and distilleries near ski townsTour Las Vegas' historic Plaza Hotel &. Casino Reviewed.com
 
 CES 2016 Editors' Choice award winners
 
-With Signature, LG enters luxury kitchen market
+New Leica goes where no Leica has gone before
 
-9 hours, 45 minutes | Tech
+9 hours, 29 minutes | Tech
 
-We take Electrolux's Nest-like washer for a spinNew Bosch appliances target tech-savvy urbanitesWhat is Design and Construction Week 2016? experience
+Apple wins lawsuit, kills old Samsung phone salesGE's $10K pizza oven cooks pies like a proWith Signature, LG enters luxury kitchen market experience
 
-Winter adventures: 10 unique activities to try this season
+Bike the Caribbean: The region's most scenic rides
 
-Tour Thomas Keller's restaurants from coast to coast
+These airlines bring a taste of place aboard
 
-5 days, 5 hours | Food &. Wine
+2 days, 7 hours | Food &. Wine
 
-Photo tour: The Italian flair of a Costa Cruises shipCaribbean cuisine: The region's best food festivals in 2016 Plan your city escape with USA TODAY Travel's destination guides VOICES Opinion
+Winter adventures: 10 unique activities to try this seasonPhoto tour: The Italian flair of a Costa Cruises shipVisit Veracruz, Mexico's Mercado de Pescaderia VOICES Opinion
 
-Democrats' delusions: Our view
-
-Opinion
-
-Public pressure promotes reform: Opposing view
+Get rid of ethanol mandate: Our view
 
 Opinion
 
-What failed leaders owe Flint: Column
+Fuel standard is sound policy: Opposing view
 
 Opinion
 
-Four-year college isn't only path to career readiness: Column
+Pakistani Taliban attack kills hope for talks: Column
+
+Rieder
+
+Rieder: The return of Sarah Palin
 
 Opinion
 
-Keep the pressure on Iran: Ryan Crocker
+Kirsten Powers: Can Hillary take '13 Hours' of truth?
+
+OnPolitics
+
+For the Record: One year until Inauguration Day 2017
 
 Opinion
 
-Policing the USA: Mistrust devastates health, community
-
-Opinion
-
-MADD president: I hate that ‘affluenza’ is in this headline
+Diversity shouldn’t factor into Oscar nominations: #tellusatoday
 
 Nation Now
 
 So a journalist and her comedian husband walk into a news podcast ...
 
-*   Thousands take a dip in icy waters to celebrate Epiphany
+*   Best of the Australian Open
 *   Remembering Glenn Frey
-*   Day in Sports
+*   10 hotels to jump start your New Year’s resolutions
 *   January political cartoons from Gannett cartoonists
 *   Your Take: USA TODAY's top reader photo of the day
 
 Trending on Social
 
-*   New 'Suicide Squad' trailer spotlights the 'worst heroes ever'
+*   FLDS trial: Sect, towns both claim religious discrimination
     
-*   Five planets — Mercury, Venus, Mars, Jupiter, Saturn — are all visible at once
+*   It's a boy! Baby born on Queen Mary 2
     
-*   Woman freezes to death after trying to rescue husband in wheelchair
+*   Evidence of missing toddler found in woods, sheriff says
     
-*   Benny Feilhaber slams Jurgen Klinsmann's USMNT player selection policy
+*   SB 47: Ravens hang on in lights-out Super Bowl
     
-*   Supreme Court will rule on President Obama's immigration plan
+*   SB 48: Seahawks cruise to crown in Big Apple
     
 
 AD CONTENT Right Now
