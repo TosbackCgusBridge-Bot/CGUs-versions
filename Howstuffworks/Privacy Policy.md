@@ -66,11 +66,11 @@ Privacy Policy | HSW
 
 Up Next
 
-*   FW: Thinking: Save The Bees!
-*   HowStuffWorks NOW: When Grunting is More Effective Than Speaking
-*   From Mario to Zelda: The Nintendo Entertainment System Games Quiz
-*   The Will Smith Quiz
-*   BrainStuff: How Does Agoraphobia Work?
+*   BrainStuff: Can Your Eyes Pop Out Of Your Head When You Sneeze?
+*   HowStuffWorks NOW: What exactly is an HDR TV?
+*   Stuff Mom Never Told You: Oscars Are for White Ladies
+*   The Apple Store Quiz
+*   The Country Music Stars Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
