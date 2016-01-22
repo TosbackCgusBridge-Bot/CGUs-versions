@@ -102,7 +102,7 @@ Toggle navigation blog navsite nav
 
 CONTACT Privacy Policy
 
-Last modified on: June 12th 2015
+Last modified on: January 21st 2016
 
 Welcome to the website of Connexity, Inc. (hereinafter: “Connexity”). This policy aims to inform you as to the type, extent and purpose of the collection and use of personal data during your visit our website. If you have any questions, you can contact us at any time by email or by post. You can find our contact information in our Imprint.
 
@@ -141,6 +141,10 @@ Our website contains links to third party websites. We advise that we have no in
 Access to information, rectification, blocking and erasure
 
 You have the right to demand information from us, free of charge, as to the personal data we have stored about you, the recipients or categories of recipient to which we have disclosed that data as well as the purpose of storage. Beyond that, you have, where applicable, the right to rectification, blocking or erasure of personal data within the statutory requirements. You can find contact information in the website’s Imprint.
+
+Connexity shopping data use in Online Behavioral Advertising (“OBA”)
+
+Connexity believes that relevant advertising is a good thing for consumers, and so we leverage shopping and other data we know about consumer to help power more relevant advertising across the Internet. Our OBA is cookie based and does not collect or use any personally identifiable information. We do collect and share behavioral data (such as what products you viewed, what categories you browsed, or what stores and brands you visited). This information can power both advertising on our own platform as well as advertising on other third party platforms. If you want to learn about ways to opt out of OBA, please visit our opt out page.
 
 Home  /  Privacy Policy Overview
 
