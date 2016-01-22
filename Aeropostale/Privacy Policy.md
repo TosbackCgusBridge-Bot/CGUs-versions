@@ -3,7 +3,6 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
-    *   Back to Basics
     *   Bethany Mota
     *   On Your Radar
     *   Borrowed from the Boys
@@ -50,7 +49,6 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
-    *   Back to Basics
     *   On Your Radar
     *   Throwback Tees
     *   Brooklyn Calling
