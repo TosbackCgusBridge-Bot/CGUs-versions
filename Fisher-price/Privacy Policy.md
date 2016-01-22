@@ -148,6 +148,7 @@ CUSTOMER SERVICE
 *   Contact Us
 *   Product Registration
 *   Recalls
+*   Instructions
 
 OTHER F-P SITES
 
