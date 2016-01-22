@@ -17,11 +17,13 @@ LENOVO Menu
         5.  Ready to Ship PCs
         6.  Coupon Page
         7.  Deals for Students and Educators
-    *   7 Days of Deals Time is marching on! Get these deals before they’re gone!
+    *   Temperatures are Dropping… and so are our Prices!
         
-        Sale ends January 20
+        Sale ends January 27
         
-    *   NEW ThinkPad P Series Redefining power in a mobile workstation
+    *   Clearance Sale Get these deals before they’re gone.
+        
+        Hurry While supplies last!
         
     *   Lenovo Preferred Card The Best Offers with Instant and Affordable Financing.
         
