@@ -78,21 +78,21 @@ THAN ANYONE See What We Do
     Return On Ad Spend
 
 *   The Latest News
+*   In-App Viewability Verification
+    
+    New partnership with Integral Ad Science
+    
+*   Ad Quality Guide
+    
+    Solve for viewability, fraud and brand safety
+    
 *   Click Measurement
     
     Why display clicks shouldn't matter
     
-*   Accurately Recognizing Consumers
-    
-    How to avoid the 3 biggest mistakes
-    
 *   Personalized Video
     
     Our newest 1:1 product
-    
-*   The Mobile Mafia Awards
-    
-    Winner, Best Tech/Publishing Platform
     
 *   Conversant Access
     
