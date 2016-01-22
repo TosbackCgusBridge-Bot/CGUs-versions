@@ -88,9 +88,9 @@ Start Bidding
 
 Sony on Twitter
 
-Congrats @MirandaSings on #HatersBackOff! Catch her on #ComediansinCarsGettingCoffee www.crackle.com
+Be one of the first to own the #Xperia Z5 Compact @SonyXperiaUS. Start bidding. sonyrewards.com
 
-2016-01-20 11:01:46+00:00
+2016-01-20 16:23:01+00:00
 
 View Tweet
 
@@ -220,7 +220,7 @@ Close
 
 Adventure Awaits
 
-Transform Any Room Into a World Beyond Your Imagination
+Transform Any Surface Into Your Own Personal Screen
 
 See the Portable Ultra Short Throw Projector
 
@@ -270,9 +270,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-Play On with Sony Rewards. Earn Sony Rewards points to redeem them for PlayStation games, fan experiences &. more.
+Congrats @MirandaSings on #HatersBackOff! Catch her on #ComediansinCarsGettingCoffee www.crackle.com
 
-2016-01-20 10:18:30+00:00
+2016-01-20 11:01:46+00:00
 
 View Tweet
 
@@ -335,7 +335,7 @@ Other Sites
 
 United States
 
-For ProfessionalsCareersContact UsCompany Info
+For ProfessionalsCareersContact UsCompany InfoVoluntary Recall
 
 *   Like us on Facebook
 
