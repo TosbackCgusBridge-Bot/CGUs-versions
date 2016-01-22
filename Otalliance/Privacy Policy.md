@@ -96,10 +96,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Jan 19, 2016 The Reckoning
-
-Join OTA Executive Director Craig Spiezle at this key event addressing the integrity of online advertising and consumer trends in "ad avoidance". Save $100 off of the early bird price and $200 off the regular price using the code **OTA16R.** Advertising broke the Internet, and just about all of the stakeholders finally are getting pissed. Many marketers are losing faith and consumers are fed up with ad and data collection abuse.Why not toggle that ad blocking switch and get the experience we really want?
-
 Thu, Jan 28, 2016 Security Best Practice to Drive Trust in IoT
 
 In recogntion of World Data Protection Day, please join OTA and Cryptosoft reviewing the challenges and opportunities of IoT devices. With over 20bn connected devices expected globally by 2020 (Gartner) the opportunities are huge – however this also comes with security risks. With data passing through these 6bn devices how will we ensure security without halting technical advances?  IoT also has the fundamental problem of ownership. IoT ecosystems invariably consist of a mix of ownership, standards and technologies.
@@ -113,6 +109,11 @@ Thu, Jan 28, 2016 2016 Data Privacy Day
 Join us on January 28 as experts in law enforcement, forensics and security, policy and communications answer these questions through insightful discussions about cybersecurity trends and best practices on how to prepare for and respond to a cybersecurity event.
 
 Public revelations of cybersecurity incidents dominate the headlines today. The threat landscape continues to evolve and businesses around the world, in industries from financial services to healthcare and retail, face serious risks to their bottom line, future business and brand reputation.
+
+Wed, Feb 3, 2016 Highlights of the 2016 Data Protection &. Breach Readiness Guide
+
+Webinar to review highlights of the 2016 Data Protection &. Breach Readiness Plan. Attend to learn best practices to help protect your data, complete risk assessments and develop an adequate response plan.  Note the webinar is scheduled at multiple times supporting international and North America attendees.  Details and the guide is posted at https://otalliance.org/breach.   
+ 
 
 More >>.
 
