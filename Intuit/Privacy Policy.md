@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14358477362
+true true C14364895318
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1c1j4 TIME :->. Wed Jan 20 11:15:31 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Thu Jan 21 11:15:36 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,23 +48,35 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-2 Days Only | Online Only | Ends January 20 | Code: JANUARY3 \*Exclusions and details50% Off\* select orig and reg-priced styles Shop Bedding and Bath Shop Luggage Shop Window Shop Gold and Silver Jewelry40% Off\* select orig and reg-priced styles Shop Home Decor Shop Furniture and Mattresses Shop Diamond and Gemstone Jewelry30% Off\* select orig and reg-priced styles Shop Kitchen and Dining Shop Custom Blinds and ShadesExtra 20% Off\* select orig, reg, sale and clearance-priced styles Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Fashion Jewelry Shop Handbags and Accessories Shop Watches Shop Online Clearance Workout Clothes On Sale Save On Activewear
+Up to 80% Off Clearance 60 to 80% Off Red Zone Clearance
+
+New Markdowns In Store and Online
+
+Shop Clearance Now Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Home Shop Handbags and Accessories Shop Jewelry Save On Cookware During Our Home Sale 30 to 50% Off Select Home Items Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Workout Clothes On Sale Save on Activewear
 
 Select styles
 
-Shop Men Shop Women Shop Boys Shop Girls Shop Athletic Shoes     Shop Nike Shop Xersion Shop Adidas Save on Women's Dresses and Men's Suits! 25 to 30% Off Dresses
+Shop Men   Shop Women   Shop Boys Shop Girls Shop Athletic Shoes Shop Nike Shop Xersion Shop Adidas Valentine's Day Gifts On Sale! Valentine's Gift Ideas Shop Gifts30 to 40% Off Handbags and Shoes
 
 Select styles
 
-Shop Dresses50% Off All Suit Separates, Sport Coats and Dress Pants Shop Suit Separates, Sport Coats and Dress Pants Shop All Gifts Save on Diamond Jewelry and More 40 to 50% Off Fine Jewelry
+Shop Handbags   Shop Shoes  40 to 60% Off Fashion Jewelry
 
-Use Code: JANUARY3
+Select styles when you buy 2 or more
 
-  Shop Fine Jewelry Get details: Up To 80% Off Clearance 60 to 80% Off Clearance
+Shop Fashion Jewelry19.99 Stafford Oxford Dress Shirt
 
-In Store and Online
+Select styles
 
-Shop Clearance Shop Women Clearance Shop Men Clearance Shop Kids Clearance Shop Baby Clearance Shop Shoes Clearance Shop Home Clearance Shop Handbags and Accessories Clearance Shop Jewelry Clearance SportsFanShop
+Shop Dress Shirts30% Off Women's Trendy Tops
+
+Select styles
+
+Shop Women's Trendy Tops Carter's Baby Sale! 35 to 50% Off Carter's Apparel and Sleepwear
+
+Select styles
+
+Shop Carter's SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
