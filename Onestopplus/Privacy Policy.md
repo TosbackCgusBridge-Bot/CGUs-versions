@@ -5,7 +5,7 @@ you are looking for, please
 
 Privacy Policy
 
-Privacy Policy Last updated on: May 25, 2015
+Privacy Policy Last updated on: January 1, 2016
 
   
   
@@ -164,7 +164,12 @@ www.roamans.com Roaman’s
 El Paso, TX 79912 (800) 677-0229  
   
 TDD Hearing Impaired:  
-(800) 274-0260 (800) 274-3102 Woman Within Please visit the My Account section on www.womanwithin.com Woman Within,  
+(800) 274-0260 (800) 274-3102 Swimsuitsforall Please visit  
+My Account on  
+www.swimsuitsforall.com Swimsuitsforall  
+10300 Sanden Drive  
+Suite 100 Dallas, TX 75238 (888) 241-SWIM  
+N/A Woman Within Please visit the My Account section on www.womanwithin.com Woman Within,  
 500 S Mesa Hills Dr  
 El Paso, TX 79912 (800) 677-0216  
   
@@ -273,13 +278,15 @@ If you have any questions or concerns about our Privacy Policy, please contact P
 
  Effective Date and Privacy Policy Changes
 
-We may from time to time make changes to our Privacy Policy to reflect changes in our practices. We reserve the right to revise or modify this Privacy Policy in whole or in part at any time. We will inform you of any update to our Privacy Policy by posting the updated Privacy Policy with its effective date on our Site. The effective date is posted at the beginning of the notice.
+We may from time to time make changes to our Privacy Policy to reflect changes in our practices. We reserve the right to revise or modify this Privacy Policy in whole or in part at any time. We will inform you of any update to our Privacy Policy by posting the updated Privacy Policy with its effective date on our websites. The effective date is posted at the beginning of the notice. We may email periodic reminders of our Privacy Policy, but you should check our website frequently to see any recent changes.
 
   Terms of Use
 
-**PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THIS SITE**
+**PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING OUR SERVICES**
 
-By using this site, (the "Site"), you signify your agreement to these Terms of Use. If you do not agree to these Terms of Use, please do not use this Site. This Site is owned and operated by FULLBEAUTY Brands, Inc. and its affiliates and their brands. The words "we", "our", "us" and "FULLBEAUTY Brands" refer to FULLBEAUTY Brands, Inc. and its affiliates and their brands unless a different meaning is evident from the context. We reserve the right, at any time and in our sole discretion, to change, modify or otherwise alter these Terms of Use. Such changes and/or modifications are effective immediately when posted on the Site. Please review the Terms of Use periodically. If any modification is not acceptable to you, your only recourse is to stop using the Site. Your continued use of the Site after the changes and/or modifications are posted will constitute your acceptance of the revised terms and conditions.
+By accessing or using FULLBEAUTY Brands websites (the "Site(s)"), catalogs and other products and services, or contacting our call center representatives (collectively, the "Services"), you signify your agreement to these Terms of Use. This Site is owned and operated by FULLBEAUTY Brands, Inc. and its affiliates and their brands. The words "we", "our", "us" and "FULLBEAUTY Brands" refer to FULLBEAUTY Brands, Inc. and its affiliates and their brands unless a different meaning is evident from the context.
+
+The Services are offered to you conditioned upon your acceptance without modification of all the terms, conditions, and notices set forth herein. Please read these Terms of Use carefully, as they contain important information about limitations of liability and resolution of disputes through arbitration rather than in court. You should also read our Privacy Policy, which also governs our relationship. We reserve the right, at any time and in our sole discretion, to change, modify or otherwise alter these Terms of Use. Such changes and/or modifications are effective immediately when posted on our websites. We may email periodic reminders of our Terms of Use, but you should check our website frequently to see any recent changes. Your continued use of our Services after the changes and/or modifications are posted will constitute your acceptance of the revised terms and conditions. If you do not agree to these Terms of Use, please do not use our Services.
 
 **ACCEPTABLE USES**
 
@@ -295,11 +302,11 @@ This Site contains copyrighted materials, trademarks and other proprietary infor
 
 **DISCLAIMER**
 
-THIS SITE AND ANY OTHER SITE THAT LISTS OUR PRODUCTS, AND ALL MATERIALS CONTAINED ON THIS SITE AND ANY OTHER SITE THAT LISTS OUR PRODUCTS, ARE DISTRIBUTED AND TRANSMITTED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. WE DO NOT WARRANT THAT: (A) THE CONTENTS OF THIS SITE OR ANY OTHER SITE THAT LISTS OUR PRODUCTS (INCLUDING PRICING, DESCRIPTION AND OTHER PRODUCT INFORMATION) WILL BE ACCURATE, RELIABLE, CURRENT OR ERROR-FREE, OR THAT ANY ERRORS IN SUCH CONTENTS WILL BE CORRECTED. OR MISTAKES IN PRICING OR OTHER PRODUCT DETAILS WILL BE HONORED. (B) THAT THIS SITE, ANY OTHER SITE THAT LISTS OUR PRODUCTS OR THE SERVERS THAT MAKE SUCH SITES AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. OR (C) THAT YOUR USE OF THIS SITE OR OTHER SITE THAT LISTS OUR PRODUCTS WILL BE UNINTERRUPTED. DESPITE OUR BEST EFFORTS, FROM TIME TO TIME ITEMS ON THIS SITE OR ANY OTHER SITE THAT LISTS OUR PRODUCTS MAY BE MISPRICED. IF AN ITEMâS CORRECT PRICE IS HIGHER THAN THE LISTED PRICE, WE RESERVE THE RIGHT, IN OUR SOLE DISCRETION, TO CANCEL YOUR ORDER AND NOTIFY YOU OF SUCH CANCELLATION. IF A PRODUCT OFFERED ON THIS SITE OR ANY OTHER SITE THAT LISTS OUR PRODUCTS IS NOT AS DESCRIBED, YOUR SOLE REMEDY IS TO RETURN IT IN UNUSED CONDITION.
+THIS SITE AND ANY OTHER SITE THAT LISTS OUR PRODUCTS, AND ALL MATERIALS CONTAINED ON THIS SITE AND ANY OTHER SITE THAT LISTS OUR PRODUCTS, INCLUDING ANY OUR OTHER SERVICES, ARE DISTRIBUTED AND TRANSMITTED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. WE DO NOT WARRANT THAT: (A) THE CONTENTS OF THIS SITE OR ANY OTHER SITE OR SERVICE THAT LISTS OUR PRODUCTS (INCLUDING PRICING, DESCRIPTION AND OTHER PRODUCT INFORMATION) WILL BE ACCURATE, RELIABLE, CURRENT OR ERROR-FREE, OR THAT ANY ERRORS IN SUCH CONTENTS WILL BE CORRECTED. OR MISTAKES IN PRICING OR OTHER PRODUCT DETAILS WILL BE HONORED. (B) THAT THIS SITE, ANY OTHER SITE OR SERVICE THAT LISTS OUR PRODUCTS OR THE SERVERS THAT MAKE SUCH SITES AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. OR (C) THAT YOUR USE OF THIS SITE OR OTHER SITE OR SERVICE THAT LISTS OUR PRODUCTS WILL BE UNINTERRUPTED. DESPITE OUR BEST EFFORTS, FROM TIME TO TIME ITEMS ON THIS SITE OR ANY OTHER SITE OR SERVICE THAT LISTS OUR PRODUCTS MAY BE MISPRICED. IF AN ITEMâS CORRECT PRICE IS HIGHER THAN THE LISTED PRICE, WE RESERVE THE RIGHT, IN OUR SOLE DISCRETION, TO CANCEL YOUR ORDER AND NOTIFY YOU OF SUCH CANCELLATION. IF A PRODUCT OFFERED ON THIS SITE OR ANY OTHER SITE OR SERVICE THAT LISTS OUR PRODUCTS IS NOT AS DESCRIBED, YOUR SOLE REMEDY IS TO RETURN IT IN UNUSED CONDITION.
 
 **LIMITATION OF LIABILITY**
 
-UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY (INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE) SHALL WE BE LIABLE TO YOU OR ANY OTHER PERSON FOR ANY DAMAGES, WHETHER DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR OTHERWISE THAT RESULT FROM, ARISE OUT OF, OR ARE IN CONNECTION WITH THE USE OF OR ACCESS TO, OR THE INABILITY TO USE OR ACCESS, THIS SITE OR ITS CONTENTS, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY (INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE) SHALL WE BE LIABLE TO YOU OR ANY OTHER PERSON FOR ANY DAMAGES, WHETHER DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR OTHERWISE THAT RESULT FROM, ARISE OUT OF, OR ARE IN CONNECTION WITH THE USE OF OR ACCESS TO, OR THE INABILITY TO USE OR ACCESS, THIS SITE OR ITS CONTENTS, OR ANY OF THE SERVICES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS OR LIMITATIONS MAY NOT APPLY TO YOU AND YOU MIGHT HAVE ADDITIONAL RIGHTS.
 
@@ -349,35 +356,29 @@ We do not collect sales or use taxes in all states. For states imposing sales or
 
 **JURISDICTION AND GOVERNING LAW**
 
-The Privacy Policy and Terms of Use are managed from our offices in the State of Indiana, United States of America. Although this site can be accessed from other locations, by accessing this Site you agree that these Terms of Use shall be governed by and construed in accordance with the laws of the State of Indiana, without giving effect to its conflicts of law principles. By using the Sites you irrevocably consent to personal jurisdiction in the City and State of Indianapolis, Indiana, for any dispute arising hereunder. No software from this Site may be downloaded, exported or re-exported in violation of any law including, without limitation, to countries that are subject to U.S. export restrictions.
+By accessing this Site and/or using our Services, you agree that these Terms of Use shall be governed by and construed in accordance with the laws of the State of Indiana, without giving effect to its conflicts of law principles. No software from this Site may be downloaded, exported or re-exported in violation of any law including, without limitation, to countries that are subject to U.S. export restrictions.
 
 **DISPUTES AND ARBITRATION AGREEMENT**
 
-Any dispute or claim relating in any way to products or services sold or distributed through the Site, or relating in any way to your use of the Site (including without limitation claims relating to the breach of the Terms of Use, Privacy Policy or the unauthorized disclosure of personally identifiable information) will be resolved by binding arbitration, rather than in court, except that you may assert claims in small claims court if your claims qualify. Unless you proceed with a small claims action, the Federal Arbitration Act and federal arbitration law will apply.
+Any dispute or claim relating in any way to the Services, including products or services sold or distributed through our websites and catalogs, any dealings with us and our customer service agents, any representations made by us, and/or your use of our websites (including without limitation claims relating to the Terms of Use, Privacy Policy or the unauthorized disclosure of personally identifiable information) will be resolved by binding arbitration, rather than in court, except that you may assert individual claims in small claims court if your claims qualify and so long as the matter remains in such court and advances only on an individual basis. This includes any dispute or claim you assert against our subsidiaries, affiliates and assigns. This also includes any dispute or claim that arose before you accepted these revised Terms of Use.
 
-There is no judge or jury in arbitration, and court review of an arbitration award is limited. However, an arbitrator can award on an individual basis the same damages and relief as a court (including injunctive and declaratory relief or statutory damages), and must follow the terms of these Terms of Use as a court would.
+Unless you proceed with a small claims action, the Federal Arbitration Act and federal arbitration law will apply. There is no judge or jury in arbitration, and court review of an arbitration award is limited. However, an arbitrator can award on an individual basis the same damages and relief as a court (including injunctive and declaratory relief or statutory damages), and must follow the terms of these Terms of Use as a court would.
 
-If for any reason a claim proceeds in court rather than in arbitration YOU HEREBY WAIVE ANY RIGHT TO A JURY TRIAL. We also both agree that either of us may bring suit in court to enjoin infringement or other misuse of intellectual property rights.
+WE EACH AGREE THAT ANY DISPUTE RESOLUTION PROCEEDINGS WILL BE CONDUCTED ONLY ON AN INDIVIDUAL BASIS AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, CONSOLIDATED OR REPRESENTATIVE ACTION. Unless we both agree otherwise, the arbitrator may not consolidate more than one person's claims with your claims, and may not otherwise preside over any form of a representative, consolidated or class proceeding. If the requirements of this paragraph are found to be unenforceable, then the entirety of this arbitration provision shall be null and void except for the waiver of any right to a jury trial described below. Without limiting the foregoing, if for any reason a claim proceeds in court rather than in arbitration, WE EACH HEREBY WAIVE ANY RIGHT TO A JURY TRIAL. We also both agree that either of us may bring suit in court to enjoin infringement or other misuse of intellectual property rights.
 
-ANY DISPUTE RESOLUTION PROCEEDINGS WILL BE CONDUCTED ONLY ON AN INDIVIDUAL BASIS AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, CONSOLIDATED OR REPRESENTATIVE ACTION.
+Payment of all filing, administration and arbitrator fees will be governed by the American Arbitration Associationâs ("AAA") rules, except as provided in this section. If your total claims seek less than $10,000, we will reimburse you for filing fees you pay to the AAA and will pay arbitratorâs fees, unless the arbitrator determines your claims are frivolous. You may choose to have the arbitration conducted by telephone, based on written submissions, or in person. The arbitrator's award shall be final and binding and may be entered as a judgment in any court of competent jurisdiction.
 
-Unless we both agree otherwise, the arbitrator may not consolidate more than one person's claims with your claims, and may not otherwise preside over any form of a representative, consolidated or class proceeding. If the requirements of this paragraph are found to be unenforceable, then the entirety of this arbitration provision shall be null and void except for the waiver of any right to a jury trial described in the previous paragraph.
+If a dispute arises, we strongly encourage you to first contact our Customer Service Department before starting arbitration or filing a claim in small claims court. We value our relationships with our customers and will try to resolve your claims informally and quickly.
 
-If a dispute arises we strongly encourage you to first contact our Customer Service Department before starting arbitration or filing a claim in small claims court. We value our relationships with our customers and will try to resolve your claims informally and quickly.
-
-If your dispute is not resolved by Customer Service, before beginning arbitration, you must send written notice describing the claim to the Office of the General Counsel at the following address:
+If your dispute is not resolved by Customer Service, before beginning arbitration, please send written notice describing the claim to the Office of the General Counsel at the following address:
 
 FULLBEAUTY Brands  
-2300 Southeastern Avenue  
-Indianapolis, Indiana 46201  
+One New York Plaza  
+New York, New York 10004  
 ATTN: General Counsel  
 Email: GeneralCounsel@FBBrands.com
 
-If the claim has not been resolved within 30 days of sending the notice you may then commence an arbitration proceeding. The arbitration will be conducted by the American Arbitration Association (AAA) under its rules, including the AAA's Supplementary Procedures for Consumer-Related Disputes. The AAA's rules and forms are available at www.adr.org or by calling 1-800-778-7879. Payment of all filing, administration and arbitrator fees will be governed by the AAA's rules.
-
-You may choose to have the arbitration conducted by telephone, based on written submissions, or in person.
-
-The arbitrator's award shall be final and binding and may be entered as a judgment in any court of competent jurisdiction. Any claim or disputes arising out of, related to or connected with the use of the Site must be filed within one (1) year after such claim or cause of action arose or is forever banned.
+If the claim has not been resolved within 30 days of sending the notice, you may then commence an arbitration proceeding. The arbitration will be conducted by the AAA under its rules, including the AAA's Supplementary Procedures for Consumer-Related Disputes. The AAA's rules and forms are available at www.adr.org or by calling 877-495-4185.
 
 **NOTIFYING US OF CLAIMED COPYRIGHT INFRINGEMENT**
 
