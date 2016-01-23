@@ -38,9 +38,9 @@ Legal Solutions
 
 Free Standard Shipping!
 
-Advanced Search Law Books Solutions Support News &. Views Home >. westlaw legal research >. practitioner insights Log in to WestlawNext WestlawNext online legal research
+Advanced Search Law Books Solutions Support News &. Views Home >. westlaw legal research >. practitioner insights Log in to Westlaw Thomson Reuters Westlaw online legal research
 
-*   Why WestlawNext?
+*   Why Westlaw?
 *   Plans
     *   Corporate Counsel
     *   Government
@@ -57,9 +57,9 @@ A dedicated team of attorney-editors monitors each practice area to ensure you s
 
 Get exclusive practice area-focused content and expert analysis, including Westlaw Daily Briefings, Reuters Legal, Wolters Kluwer, CQ Roll Call, and more
 
-Seamlessly access your Alerts on WestlawNext to inform you promptly of new developments relevant to your practice area or matching your customized search
+Seamlessly access your Alerts on Westlaw to inform you promptly of new developments relevant to your practice area or matching your customized search
 
-Select a Practitioner Insights page to be your WestlawNext Start Page so you can start each day "in the know"
+Select a Practitioner Insights page to be your Westlaw Start Page so you can start each day "in the know"
 
 Try out Practitioner Insights free
 
@@ -91,7 +91,7 @@ Click the orange buttons to explore the Practitioner Insights interface.
     Close
 *   More Make this my start page.
     
-    Just one click turns this page into your WestlawNext Start Page.
+    Just one click turns this page into your Westlaw Start Page.
     
     Close
 *   More Browse
@@ -101,7 +101,7 @@ Click the orange buttons to explore the Practitioner Insights interface.
     Close
 *   More My Alerts
     
-    Create and manage all of your alerts on WestlawNext. A real-time feed of the most recent alerts is displayed.
+    Create and manage all of your alerts on Westlaw. A real-time feed of the most recent alerts is displayed.
     
     Close
 *   More Featured Legal Filings
@@ -145,7 +145,7 @@ Practitioner Insights and analysis from top legal news sources
 *   The Hill and Practitioner Insights commentaries
 *   The largest collection of litigation content
 
-Use your alerts on WestlawNext to inform you promptly of new legal developments in your practice area or from your customized search.
+Use your alerts on Westlaw to inform you promptly of new legal developments in your practice area or from your customized search.
 
 If you like, set up daily email summaries as well. You can add colleagues to the email list.
 
