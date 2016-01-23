@@ -98,240 +98,246 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ News TSA found record 2,653 guns at checkpoints
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Weather Epic snowstorm slams East Coast. 6,000+ flights canceled Read StoryFliers face chaosTop ten snowstorms in D.C. historyHow to help others, stay safeGallery: Your snow photos
 
 TOP STORIES
 
-*   Nation Now Sheriff: Body of missing toddler found in woods
-*   Buffalo Bills Meet the NFL's first female full-time assistant coach
-*   News Oklahoma cop gets life for sex crimes against the poor
-*   CNN poll: Sanders, Trump lead in Iowa
-*   FBI ran website sharing child porn images
-*   Ranking the 50 best Super Bowl commercials
-*   EPA official resigns amid Flint water crisis
-*   East Coast blizzard already a travel nightmare
-*   Protesting couple unable to return car at VW offices
-*   'Zombie-like,' rabid raccoon attacks child
-*   Homeless man paid $5 to pour coffee over his head
-*   Student suspended for carrying student to nurse
+*   News 'Nightmare': Shooter kills four in Canada town, H.S.
+*   Nation Now White wedding: Couple marries on bridge in snowstorm
+*   Weather How to watch the blizzard of 2016 in real time
+*   Legionnaires’ expert blames spike in Flint on water
+*   Note found on Lawrence Phillips spurs probe call
+*   Academy takes 'historic' steps to increase diversity
+*   Ex-speaker Hastert asks for delay in sentencing
+*   Dale Jr. discusses engagement: ‘Good as it gets’
+*   Mariah Carey engaged to Aussie billionaire
+*   The biggest challenge facing new Cavs coach
+*   Apple surges back over $100. Here's why
+*   Super Bowl ads: Amy Schumer, rocker Tyler have got game
 
-Tech
+Today in the Sky
 
-Hermès Apple Watch collection goes online
+Fliers face chaos as blizzard halts flights
 
-Money
+Nation
 
-JPMorgan CEO gets 35% pay raise to $27M amid cutbacks
+Obama’s dog enjoys blizzard
 
-NBA
-
-NBA All-Star starters revealed
-
-Movies
-
-Sundance: Redford talks diversity, sidesteps Oscars
-
-OUR PICKS Nation Now
+Nation Now
 
 Winter hacks to get you through snowstorms
 
-Advice
+Entertain This
 
-Seven ways you're throwing money away while traveling
+Hunkered down? A binge-watch guide just for you
 
-News
+OUR PICKS World
 
-Crashing oil prices decimate Texas boomtowns
+American student held in N. Korea for 'hostile act'
 
-Money
+Cars
 
-Davos 2016: Highlights of our coverage
+Ferrari fanatic selling 8 cars to make room for more
 
-Toyota's RAV4 Hybrid is ravenous for the road
+Movies
 
-USA TODAY autos reporter Chris Woodyard takes a look at Toyota's 2016 RAV4 Hybrid.
+Sundance: Molly Shannon veers to tears in cancer movie 'Other People'
 
-1 of 20 See more video
+Nation Now
 
-Taste-test: Artificial vs. all-natural brownies
+Strange frog, thought extinct since 1870, found in India
 
-Can an all-natural baking mix beat out the brands we've loved for decades? USA TODAY's New York bureau conducts an unofficial experiment to find out.
+Watch as the National Mall fills with snow in 45 seconds
 
-2 of 20 See more video
+Snow falls as the cameras of EarthCam.com capture the National Mall filling with snow in this time lapse video during a historic winter storm that hit the east coast Friday.
+
+1 of 21 See more video
+
+Watch astronaut play ping-pong with a water droplet in space
+
+Astronaut Scott Kelly is spending his free time on the International Space Station playing pingpong with a water droplet.
+
+2 of 21 See more video
+
+Deputy scoops up toddler running down busy highway
+
+Watch the dashcam video of a sheriff's deputy rescuing a small child running straight towards his patrol car on a busy Oregon highway. Just seconds later, a semi-truck speeds by the pair.
+
+3 of 21 See more video
+
+Meet Houston's little miracle baby
+
+Meet Houston's little miracle baby
+
+4 of 21 See more video
+
+Blizzard prep: Buying up bread, milk...red velvet oreos?
+
+Bread and milk seem to be the first things to disappear from store shelves when a snow storm hits. Find out what other items people are stocking up on ahead of the impending blizzard.
+
+5 of 21 See more video
+
+World's fastest cheetah remembered as 'symbol of hope'
+
+Sarah, the world's fastest cheetah, died at the ripe age of 15 in her home at the Cincinnati Zoo. She set the world record by running 100 meters in 5.95 seconds.
+
+6 of 21 See more video
+
+The worst states to grow old in
+
+24/7 Wall Street and Douglas McIntyre delve into the worst states in America for people aged 65 and older.
+
+7 of 21 See more video
 
 Woman finds poisonous, pregnant snake under refrigerator
 
 An Australian woman discovered a poisonous snake under her refrigerator. As Gillian Pensavalle (@GillianWithaG) tells you, found it just in time.
 
-3 of 20 See more video
+8 of 21 See more video
 
 These penguins don't mind a little snow
 
 Penguins at the Cincinnatti Zoo are frolicking in the snow and it might make you want to do the same.
 
-4 of 20 See more video
-
-Unlikely teen breaks ground with new business
-
-Blake Pyron is about to become the youngest business owner in his town and possibly the only business owner in Texas with Down syndrome.
-
-5 of 20 See more video
-
-Orphaned baby otters have champagne taste, need nearly $4,300 worth of fish to survive
-
-It seems the staff at an animal rescue center in the UK will do anything for two orphaned baby otters. Including breaking the bank and spending nearly $4,300 on trout their mother would have caught for free in the wild. Sean Dowling (@seandowlingtv)
-
-6 of 20 See more video
+9 of 21 See more video
 
 Man naps with bears, hasn't been eaten yet
 
 If you thought Jim Kowalczik from Orphaned Wildlife Center was crazy for playing with bears, watci him nap with them after playtime. Mara Montalbano (@maramontalbano) shows us.
 
-7 of 20 See more video
+10 of 21 See more video
 
 World's 5 tallest Ferris wheels will wow you
 
 You can see three countries from Singapore's biggest Ferris wheel, and it's not even the tallest in the world.
 
-8 of 20 See more video
+11 of 21 See more video
 
-Fitbit shows heartbreak after man dumped
+How to use a shower curtain to rip ice off your car
 
-A man's Twitter photo is going viral because it shows how his Fitbit tracked his heartbreak the day he got dumped. Mara Montalbano (@maramontalbano) shows us.
+You won't believe this easy trick to keep ice from forming on your car's windshield during a snowstorm. All it takes is an old shower curtain.
 
-9 of 20 See more video
+12 of 21 See more video
+
+Policeman responds to noise complaint with sweet dunk
+
+The Gainesville, Florida Police Department was dispatched out to answer a call about a group of kids playing basketball noisily in the street. What the officer did to address the complaint is sure to make you smile.
+
+13 of 21 See more video
+
+Disney weddings bring all of your fantasies to life
+
+Wedding planner Korri McFann explains the many magical options, from location to style, couples can choose to create their fantasy wedding by planning with Disney's Weddings and Honeymoons.
+
+14 of 21 See more video
+
+Would you ride a scooter in a blizzard? This guy tried
+
+One man braved the blizzard slamming D.C. by venturing out with his scooter. Was he successful?
+
+15 of 21 See more video
+
+Avoid these extreme driving mistakes on the icy roads
+
+The winter brings on crazy road conditions. Be safe and avoid what happened to these drivers.
+
+16 of 21 See more video
 
 3 cool tricks to try when it's below freezing out
 
 Nathan Zielgler, upper school principal at Hope Academy in Minneapolis, demonstrates three winter weather experiments kids of all ages can enjoy.
 
-10 of 20 See more video
+17 of 21 See more video
 
 Father-daughter dance proves life-changing for this dad
 
 Paul Martin faced his fears and danced at his daughter's wedding in the wheelchair he's been in for the last 17 years. He hasn't stopped dancing since.
 
-11 of 20 See more video
-
-Finally a way to decipher your baby's cries
-
-The Infant Cries Translator app promises to tell you why your baby is crying. Sean Dowling (@seandowlingtv) has more.
-
-12 of 20 See more video
-
-You can actually be allergic to the cold
-
-A portion of the population has an allergy to the cold. Sloane Glass (@sloaneglass) has more.
-
-13 of 20 See more video
+18 of 21 See more video
 
 This former WWII concentration Camp will become A luxury resort
 
 An island concentration camp that once housed thousands of prisoners is being turned into a multimillion-dollar resort. Video provided by Newsy
 
-14 of 20 See more video
+19 of 21 See more video
 
 Shop these 5 companies for guaranteed lowest prices
 
 These companies are so confident they have the lowest prices, they'll pay you if you find anything cheaper.
 
-15 of 20 See more video
-
-Scientists believe they've found a 'real ninth planet'
-
-Two Caltech researchers, Konstantin Batygin and Mike Brown, believe they've found evidence of another planet in our solar system, which they've nicknamed Planet Nine.
-
-16 of 20 See more video
-
-Why you should eat more popcorn
-
-Jan 19th is National Popcorn Day. Jean Tsai of Pop Karma tells us why popcorn is good.
-
-17 of 20 See more video
+20 of 21 See more video
 
 Cops already crown the 'dumbest criminal of the year'
 
 The new year has barely begun, but cops have already named the 'dumbest criminal' of 2016. Once you find out what he allegedly did, you'll understand. Sean Dowling (@seandowlingtv) has more.
 
-18 of 20 See more video
+21 of 21 See more video Last VideoNext Video news
 
-9-year-old's Critics' Choice acceptance speech is the cutest
+Epic blizzard with heavy snow begins to move up East Coast
 
-Jacob Tremblay won 'best young actor/actress' at the Critics' Choice Awards. When the 9-year-old took the stage to say thank you, the entire crowd swooned, and so will you.
+Winter hacks to get you through snowstorms
 
-19 of 20 See more video
+12 hours, 57 minutes | Nation Now
 
-Rich people, rejoice! 'Uber for helicopters' is here
+Winter storm wallops eastern USALegionnaires’ expert blames spike in Flint on waterAvery's blood could still be ‘game-changer’ sports
 
-Uber, the popular on-demand car service, is partnering with Airbus to provide on-demand helicopter service for the 2016 Sundance Film Festival. To no one's surprise, the rides cost a small fortune. Sean Dowling (@seandowlingtv) has more.
+Watch: Robin Lopez smacks Chris Paul, gets ejected
 
-20 of 20 See more video Last VideoNext Video news
+What Lue must overcome to win Cavs title
 
-Get ready to start cursing your weatherman
+4 hours, 36 minutes | Cavaliers
 
-Photo of young boy helps define Flint, Mich., water crisis…
+Report: Yoenis Cespedes reaches deal with Mets'Highly suspicious' Phillips note raises questionsCavs fire David Blatt as coach life
 
-8 hours, 8 minutes | Nation Now
+Academy takes 'historic' steps to increase diversity
 
-Father-daughter dance proves life-changing for this dadBody of missing toddler found in woods, sheriff saysToday in History for January 22nd sports
+Cross WordsAll GamesEntertain This! Mariah Carey engaged to her billionaire Australian boyfriendLouis Tomlinson welcomes first 1D baby after ex-girlfriend gives birthThe Mothership: 'The 5th Wave' and sci-fi we loved as kids money
 
-Brennan: Why U.S. figure skating has fallen so far down
+Super Bowl ads: Amy Schumer, rocker Tyler have got game
 
-Tony Stewart calls out NASCAR chairman France
+StocksPortfolio TrackerAmerica's Markets Microsoft expands in Google's backyardApple vet tasked with car project leavingInvestors prepare for lower earnings | America's Markets tech
 
-1 hour | NASCAR
+Apple vet tasked with car project leaving
 
-Get to know the NFL's first female full-time coachForcing Manning's hand could be key for PatriotsNBA All-Star starters life
+Microsoft expands in Google's backyard
 
-Jack Black runs through his 'Panda' voice exercises
+3 hours, 40 minutes | News
 
-Cross WordsAll GamesEntertain This! Ruffalo will attend Oscars, praises boycottJack Black shows off true 'Kung Fu Panda' kicksMiley Cyrus and Liam Hemsworth engaged again? 4 clues that make us… money
+Google paid Apple $1B to be default search engine on iOSApple's Tim Cook meets with Pope FrancisIBM, Symantec storage results bode ill for EMC, HPE travel
 
-JPMorgan CEO gets pay raise of 35% to $27M
+Safari 101: Planning a bucket-list Africa trip
 
-StocksPortfolio TrackerAmerica's Markets Amazon offers full refunds on hoverboardsBankruptcy judge to reconsider order requiring Bloomberg sources'…Boeing cuts 747 jet production program tech
+Fliers face chaos as blizzard slams East Coast
 
-Car with aftermarket self-driving tech crashes
+8 hours, 4 minutes | Today in the Sky
 
-Google Street View cameras top Mont Blanc for 360-degree…
-
-8 hours, 41 minutes | News
-
-IBM acquires Ustream, launches cloud video unitKapor Capital institutes diversity pledge for its venture investmentsVerizon's Q4 subscriber growth drives earnings beat travel
-
-Photo tour: All-inclusive luxury at Sandals Grande Antigua
-
-Crave-inducing comfort foods to fight the cold
-
-2 months, 1 week | Food &. Wine
-
-East Coast blizzard already a travel nightmareSeven ways you're throwing money away while travelingChicken, pork spun to perfection at new rotisserie restaurant Reviewed.com
+10Best: Cities for Restaurant Week discountsPhoto tour: All-inclusive luxury at Sandals Grande Antigua2016's best Mardi Gras king cakes Reviewed.com
 
 CES 2016 Editors' Choice award winners
 
-An iconic retro refrigerator grows up
+This luxury range is unlike any other
 
-8 hours, 41 minutes | Tech
+7 hours, 15 minutes | Tech
 
-This retro dishwasher is a blast from the pastNew Leica goes where no Leica has gone beforeApple wins lawsuit, kills old Samsung phone sales experience
+Pro stainless-steel ranges offer surprising valueAn iconic retro refrigerator grows upThis retro dishwasher is a blast from the past experience
 
-10 cruise ship suites that will blow your mind
+Cruise ship tours: The charm of the Royal Clipper
 
-Tour Las Vegas' historic Plaza Hotel &. Casino
+Photo tour: All-inclusive luxury at Sandals Grande Antigua
 
-2 days, 10 hours | Destinations
+1 day, 17 hours | Caribbean
 
-Utah's best breweries and distilleries near ski townsBike the Caribbean: The region's most scenic ridesWinter adventures: 10 unique activities to try this season VOICES Opinion
+Crave-inducing comfort foods to fight the coldTour Las Vegas' historic Plaza Hotel &. CasinoWinter adventures: 10 unique activities to try this season VOICES Super-Bowl
 
-How officials failed Flint: Our view
+We rank the 50 best Super Bowl commercials
+
+Opinion
+
+Flint lead crisis getting a tad overblown: David Mastio
 
 Opinion
 
 Gov. Snyder: I will fix this, and I mean it
-
-Rieder
-
-Rieder: The Palestra, college hoops cathedral.
 
 Elections
 
@@ -354,22 +360,22 @@ Nation Now
 So a journalist and her comedian husband walk into a news podcast ...
 
 *   Your Take: Beautiful photos of snowfall across the USA
+*   Winter storm wallops eastern USA
 *   Best of the Australian Open
-*   Remembering Glenn Frey
 *   10 hotels to jump start your New Year’s resolutions
 *   January political cartoons from Gannett cartoonists
 
 Trending on Social
 
-*   Student suspended after carrying classmate to nurse
+*   Honorary captains abound for championship games
     
-*   JPMorgan CEO gets 35% pay raise to $27M amid cutbacks
+*   Reshaped to John Elway's liking, Broncos and Peyton Manning again on Super Bowl cusp
     
-*   'Zombie-like,' rabid raccoon attacks child
+*   Academy takes 'historic' steps to increase diversity
     
-*   Oklahoma cop gets life for sex crimes against the poor
+*   Exclusive: Take the bad guys home with new 'Suicide Squad' movie statues
     
-*   EPA official resigns amid Flint water crisis
+*   White wedding: Couple marries on bridge in snowstorm
     
 
 AD CONTENT Right Now
