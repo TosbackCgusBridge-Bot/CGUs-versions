@@ -61,9 +61,9 @@ Travel
 *   Business Traveller
 *   Destinations
 *   Features
-*   Food and Drink
+*   Food/Drink
 *   Hotels
-*   CNN Partner Hotels
+*   Partner Hotels
 
 *   Fashion
 *   Design
@@ -406,9 +406,9 @@ _The Privacy Policy posted on this Service was updated on July 31, 2015._
     2.  Business Traveller
     3.  Destinations
     4.  Features
-    5.  Food and Drink
+    5.  Food/Drink
     6.  Hotels
-    7.  CNN Partner Hotels
+    7.  Partner Hotels
 
 1.  Style
     1.  Fashion
