@@ -17,6 +17,7 @@ LENOVO Menu
         5.  Ready to Ship PCs
         6.  Coupon Page
         7.  Deals for Students and Educators
+        8.  Clearance PCs
     *   Temperatures are Dropping… and so are our Prices!
         
         Sale ends January 27
