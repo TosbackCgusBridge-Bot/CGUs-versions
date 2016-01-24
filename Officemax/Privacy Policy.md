@@ -1,23 +1,27 @@
 SEG1 hp
 
+*   Weekly Ad
 *   Office Depot Business Solution
 *   OfficeMax Workplace
 *   Corporate/Government
     *   Office Depot Business Solution
     *   OfficeMax Workplace
-*   Weekly Ad
 *   800-GO-DEPOT
+*   Chat or Call
+    *   Live Chat 24 Hours, 7 Days a Week
+    *   1-800-463-3768 24 Hours, 7 Days a Week Have Us Call You Ensure your phone line is open and  
+        enter your number below.
 *   Login or Register
 
 Office Depot Deals
 
-4Uf94S4IJTZTDhsn0-keWvy
+I83x8-ma9nDF-yE2jheUnh1
 
 Search Suggestions
 
-Your recent searches
-
 Category Matches
+
+Your recent searches
 
 *   STORES
 *   CART 0
@@ -143,8 +147,8 @@ Office Depot, Inc.s charitable arm, The Office Depot Foundation, supports prog
 Give them a gift card.  
 Never expires, ships for free
 
-Open an Office Depot Credit Card  
-and start saving today
+Sign up for a credit card  
+and get special financing options
 
 10% back in reward points on ink, toner,  
 paper and copy/print/ship purchases
@@ -171,12 +175,12 @@ to your inbox
 
 *   BUSINESS SERVICES
 *   Business Form Templates
-*   Business Solutions Center
+*   Business Resource Center
 *   Copy &. Print Depot™
 *   MaxAssurance
 *   Prevention of Online Threats
 *   Property Damage Protection
-*   Small Business Handbook
+*   Office Depot Business Services
 *   Security Solutions
 *   Shredding Services
 *   Tech Depot &. trade Services
@@ -210,7 +214,7 @@ to your inbox
 *   Website Feedback
 
 *   SPECIAL PROGRAMS
-*   Give Back to Schools Program
+*   5% Back to Schools Program
 *   Environmental Programs
 *   Veterans Advantage
 
