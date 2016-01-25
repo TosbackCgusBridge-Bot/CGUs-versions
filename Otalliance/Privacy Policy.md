@@ -36,6 +36,7 @@ Skip to main content Online Trust Alliance
 *   Committees
 *   News &. Events
     *   OTA In The News
+    *   Newsletters
     *   Press Releases
     *   DpD 2016
     *   Upcoming Events
@@ -108,16 +109,18 @@ Wed, Feb 3, 2016 Highlights of the 2016 Data Protection &. Breach Readiness Guid
 
 Webinar to review highlights of the 2016 Data Protection &. Breach Readiness Plan. Attend to learn best practices to help protect your data, complete risk assessments and develop an adequate response plan.  Note the webinar is scheduled at multiple times supporting international and North America attendees.
 
-Tue, Feb 9, 2016 FTC To Host Data Security Conference - Seattle
+Tue, Feb 9, 2016 Start with Security - Seattle (FTC)
 
-The Federal Trade Commission will host a one-day conference in Seattle on Feb. 9, 2016, on how companies can build security into their products and services. The event will have a particular focus on guidance for startups and early stage businesses about how to make security considerations a part of a company’s culture from the start.
-
-FTC Commissioner Julie Brill will provide opening remarks for the conference, which will be the third “Start with Security” event nationwide. The conference will bring together experts in data security to provide guidance to businesses.
+The Federal Trade Commission will host a one-day conference in Seattle on Feb. 9, 2016, on how companies can build security into their products and services. The event will have a particular focus on guidance for startups and early stage businesses about how to make security considerations a part of a company’s culture from the start. FTC Commissioner Julie Brill will provide opening remarks for the conference, which will be the third “Start with Security” event nationwide.
 
 More >>.
 
 *   OTA Blog
 *   Newsletters
+
+Sun, Jan 24, 2016 Donor Data. the New Currency for Presidential Candidates, Time for ethical data privacy practice
+
+Voter data is the new currency and candidates are reaping the rewards targeting voters and ultimately determining who will be the next President. As we have transformed into a data driven society and economy this may be expected. But the candidate’s privacy and data practices in both the news headlines and in the backroom are not.  As we head into the State primaries and caucuses, this data is proving to be invaluable.
 
 Tue, Dec 15, 2015 Top Ten Practices: Correct Collection Leads to Improved Connection
 
@@ -130,10 +133,6 @@ I love my fitness tracker.  Not only does it affirm me (I met my today’s goal
 Thu, Nov 12, 2015 Why We Need an IoT Framework
 
 We already suspected our smart TVs were ‘watching’ our viewing behavior and sharing data with advertising and television business partners.  Now, our smart TVs can open our homes to criminals. 
-
-Wed, Oct 28, 2015 Moving to a World of Trusted IoT Devices &. Services
-
-Today represents a significant milestone, the release of the “last call” of the IoT Trust Framework.  For the past 8 months the IoT Trustworthy working group has been meeting, debating and sharing insights into criteria which today has formed the IoT Trust framework.  Over the next three weeks we will be soliciting input and reviewing feedback to integrate into what promises to be the foundation for an IoT trustworthy code of conduct and future certification programs. 
 
 More >>. Resources
 
@@ -160,6 +159,7 @@ Initiatives
 News &. Events
 
 *   OTA In The News
+*   Newsletters
 *   Press Releases
 *   DpD 2016
 *   Upcoming Events
