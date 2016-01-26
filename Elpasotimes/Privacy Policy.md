@@ -98,252 +98,270 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Carolina Panthers Panthers pummel Cardinals, set Super Bowl 50 matchup with Broncos Read StoryNewton's MVP performanceSupporting cast steps up5 stories to watch in Super Bowl 50
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ World Iraq pleads for cop trainers to thwart Islamic State
 
 TOP STORIES
 
-*   Aus Australian Open: Match-fixing suspicions raised
-*   NFL Cam Newton's cleats list teammates' names
-*   Denver Broncos Broncos dethrone Patriots, head for Super Bowl
-*   Family: Boy missing in woods touched lives
-*   Alaska hit with aftershock after 7.1 earthquake
-*   Debris could be linked to doomed Malaysia flight
-*   Blizzard breaks records, paralyzes the East
-*   Bloomberg for president? Candidates weigh in
-*   Actress, bumped from 1st class, complains online
-*   Bobby Kennedy's close friend, adviser dies at 85
-*   Jack Dorsey overhauling Twitter leadership
-*   More plastic than fish will fill oceans by 2050
-
-Entertain This
-
-Twitter helps Mark Ruffalo find his phone and wallet
-
-Tv
-
-Tina Fey as Sarah Palin makes 'SNL' great again
-
-OnPolitics
-
-Santorum acknowledges the end might be near
-
-Ufc
-
-Rousey delivers classy message to Holm
-
-OUR PICKS Books
-
-USA TODAY's top 100 books of 2015
+*   News Makers of undercover Planned Parenthood videos indicted
+*   Nation Now Weather Channel meteorologist dies in crash
+*   Denver Broncos Broncos TE thought he saw Patriots pull shenanigans
+*   Obama to propose expanding retirement plans
+*   'Gruesome' slaying of 3 shocks loved ones
+*   Twitter has 412 years in cash to fix itself
+*   Academy on changes: 'We're widening our net'
+*   Obama restricts use of solitary confinement
+*   Warren Buffett's 15-minute retirement plan
+*   Blizzard cancellations top 13K, spill into Tues.
+*   China’s giant Pentagon-shaped mall is empty
+*   Women advised to avoid pregnancy over Zika virus
 
 Nation
 
-4 awesome timelapse videos of the blizzard
-
-NCAAF
-
-Two Clemson football players propose at banquet
+Dangerous Calif. escapees remain on the loose
 
 News
 
-Amazon founder Bezos launches reused rocket
+Assault charge for professor in Mizzou protest
 
-Giant 'Star Wars'-themed snowball fight draws hundreds
+OnPolitics
 
-Participants hoped the Force was with them as they lobbed and dodged snowballs in Washington's famed Dupont Circle.
+Iowa countdown: Cruz battles Iowa gov., Trump attack ads land
 
-1 of 20 See more video
+TV
 
-Avoid a vacation rental surprise with these 3 tips
+Exclusive: Big events will mark 'Star Trek' 50th anniversary
 
-Going on a trip is exciting and fun. Getting to your destination only to find the rental isn't as advertised isn't so fun. Avoid a scary rental surprise with these 3 tips.
+OUR PICKS Weather
 
-2 of 20 See more video
+Could another snowstorm be on the way?
 
-Watch: National Mall fills with snow in seconds
+Super-Bowl
 
-Snow falls as the cameras of EarthCam.com capture the National Mall filling with snow in this time lapse video during a historic winter storm that hit the east coast Friday.
+Ad Meter: Vote for the all-time best Super Bowl commercial
 
-3 of 20 See more video
+Nation Now
 
-Blizzard makes 'Rocky' steps perfect for sledding
+How the water crisis in Flint, Mich., unfolded
 
-The Philadelphia Museum of Art's iconic steps were transformed into a wintry playground by the massive winter storm.
+Money
 
-4 of 20 See more video
+We laughed, we cried, we got angry: Re-watch last year's Super Bowl ads
 
-This panda is really loving all the snow from the blizzard
+Unlike you, the dogs of USA Today loved #Snowzilla
 
-The Washington D.C. area is completely shut down and is covered in snow, but the intense cold and high winds aren't keeping Tian Tian the panda at the Smithsonian National Zoo from frolicking outside.
+Ok, we know you're sick of Jonas 2016. But, if you have just 60 more seconds, you'll smile when you see these dogs (and one cat) that truly enjoyed the winter snow that blasted the NorthEast.
 
-5 of 20 See more video
+1 of 23 See more video
 
-At Davos, world leaders get real about killer robots
+Blizzard 2016: By the numbers
 
-At the World Economic Forum, there's a lot of talk about robots, artificial intelligence and how all of that could shape the future of war and work. Video provided by Newsy
+The snow has not even stopped falling and in addition to snow, other statisitcs are rising. Here is a breakdown of some of the storm statistics so far.
 
-6 of 20 See more video
+2 of 23 See more video
+
+Tip for clearing your driveway
+
+A USA TODAY motion graphic showing how to clear your driveway to ensure that when a snowplow comes through you don't have to do it again. Source: Virginia Department of Transportation.
+
+3 of 23 See more video
+
+Saddle up! N.C. woman ditches truck, rides horse to work
+
+The only problem with this type of horsepower: No headlights! Gabby, of Burlington, N.C., had to leave work before it got dark.
+
+4 of 23 See more video
+
+Shaq shows up for epic basketball game with kids
+
+After a Gainesville, Florida police officer gained internet fame for playing basketball with a group of kids, he returned for a rematch and brought NBA legend Shaquille O'Neill.
+
+5 of 23 See more video
+
+This is why you should NOT try and kiss wild hawks
+
+I can't believe this has to be said but don't try and kiss wild hawks. Patrick Jones (@Patrick\_E\_Jones) explains what happened when someone did.
+
+6 of 23 See more video
+
+Time-lapse: Winter storm blasts into NYC
+
+Watch a time-lapse of the storm arriving into city from above
+
+7 of 23 See more video
+
+Dueling pandas, a showdown in the snow
+
+Tian Tian the panda captured our hearts when he was captured on video frolicking in the snow from Winter Storm Jonas. Not to be outdone, Jeffrey Perez put on a panda suit and showed off some moves of his own.
+
+8 of 23 See more video
+
+This is what winter storm Jonas looked like from space
+
+Astronaut Scott Kelly captured breathtaking photos of winter storm Jonas from the International Space Station.
+
+9 of 23 See more video
 
 Deputy scoops up toddler running down busy highway
 
 Watch the dashcam video of a sheriff's deputy rescuing a small child running straight towards his patrol car on a busy Oregon highway. Just seconds later, a semi-truck speeds by the pair.
 
-7 of 20 See more video
+10 of 23 See more video
 
-Historic blizzard slams East Coast, turns road into river
+Republicans can expect 'bear hugs' if Clinton wins
 
-More than 60 million people were under blizzard, winter storm or freezing rain warnings as the storm's effects stretched from Georgia to Massachusetts.
+How will Democratic presidential candidate Hillary Clinton work with Republicans if elected? She'll gather them up and give them "bear hugs" to start.
 
-8 of 20 See more video
+11 of 23 See more video
 
 6 winter hacks to get you through snowstorms
 
 Try these six winter hacks in your house and on the road as severe winter storms bear down on large swaths of the U.S.
 
-9 of 20 See more video
+12 of 23 See more video
+
+Bernie Sanders cracks jokes during CNN's town hall
+
+Presidential candidate Bernie Sanders wasn't all serious during CNN's Democratic town hall. The senator couldn't help but crack a few jokes, even at his own expense.
+
+13 of 23 See more video
 
 Tina Fey as Sarah Palin makes 'SNL' great again
 
 Right down to the matching sparkly fringe jacket, Tina Fey nails her latest impression of Sarah Palin on 'Saturday Night Live.
 
-10 of 20 See more video
+14 of 23 See more video
+
+Woman delivers baby at home during snow storm
+
+A North Carolina mother was forced to give birth at home on Friday when she began having contractions and was unable to travel to a hospital in the storm. (Jan. 25)
+
+15 of 23 See more video
+
+Bald eagle dies from suspected poisoning
+
+A bald eagle didn't survive after Eagle Watch volunteers say they suspect she ate a poisoned rodent. Sadly her death dooms her eggs and leaves her mate alone.
+
+16 of 23 See more video
+
+The 5 best timelapse videos from winter storm Jonas
+
+Watch our favorite timelapse videos from the blizzard that blanketed the East Coast over the weekend.
+
+17 of 23 See more video
+
+Learn how caucuses work in under a minute
+
+What is a caucus? And what will happen at the caucus? Get the details and learn how the Republican and Democratic caucuses are different in the first-in-the-nation Iowa Caucuses.
+
+18 of 23 See more video
+
+Ronda Rousey congratulates Holly Holm on 'SNL'
+
+Two months after her stunning loss to Holly Holm, Ronda Rousey recognized her in a very public way, while hosting 'Saturday Night Live.'
+
+19 of 23 See more video
+
+Avoid a vacation rental surprise with these 3 tips
+
+Going on a trip is exciting and fun. Getting to your destination only to find the rental isn't as advertised isn't so fun. Avoid a scary rental surprise with these 3 tips.
+
+20 of 23 See more video
 
 The worst states to grow old in
 
 24/7 Wall Street and Douglas McIntyre delve into the worst states in America for people aged 65 and older.
 
-11 of 20 See more video
-
-Woman finds poisonous, pregnant snake under refrigerator
-
-An Australian woman discovered a poisonous snake under her refrigerator. As Gillian Pensavalle (@GillianWithaG) tells you, found it just in time.
-
-12 of 20 See more video
-
-Man naps with bears, hasn't been eaten yet
-
-If you thought Jim Kowalczik from Orphaned Wildlife Center was crazy for playing with bears, watci him nap with them after playtime. Mara Montalbano (@maramontalbano) shows us.
-
-13 of 20 See more video
+21 of 23 See more video
 
 Can you clear a driveway of snow in 20 seconds?
 
 Can you clear a driveway of snow in 20 seconds? Watch a time-lapse of snow removal, clearing off a foot and a half of snow dumped during a historic blizzard in Vienna, Va.. Andrew P. Scott, USA TODAY
 
-14 of 20 See more video
+22 of 23 See more video
 
 How to use a shower curtain to rip ice off your car
 
 You won't believe this easy trick to keep ice from forming on your car's windshield during a snowstorm. All it takes is an old shower curtain.
 
-15 of 20 See more video
+23 of 23 See more video Last VideoNext Video news
 
-Producers weigh in on Academy's diversity initiative
+We’re not digging the post-#Snowzilla forecast
 
-Film producers at the Producers Guild Awards react to the Academy's new efforts to increase diversity among its members.
+Flint residents protest high bills for 'poison' water
 
-16 of 20 See more video
+4 hours, 10 minutes | Nation Now
 
-Policeman responds to noise complaint with sweet dunk
+Weather Channel meteorologist dies in crashThe Blizzard of '16: Where things standDemocratic hopefuls open up to voters at Iowa town hall sports
 
-The Gainesville, Florida Police Department was dispatched out to answer a call about a group of kids playing basketball noisily in the street. What the officer did to address the complaint is sure to make you smile.
+Broncos TE thought he saw Patriots pull shenanigans
 
-17 of 20 See more video
+Armour: Panthers owe no apologies
 
-Avoid these extreme driving mistakes on the icy roads
+7 hours, 42 minutes | Carolina Panthers
 
-The winter brings on crazy road conditions. Be safe and avoid what happened to these drivers.
+Ranking all 30 MLB teams' starting rotationsJim Nantz wants keep calling Masters until 2036Serena into Aussie semis after beating Sharapova life
 
-18 of 20 See more video
+What happens in Vegas goes in our 'Bachelor' recap
 
-This former WWII concentration camp will become a luxury resort
+Cross WordsAll GamesEntertain This! Exclusive: Big events will mark 'Star Trek' 50th anniversaryKhloe: Lamar Odom's memory 'isn't so good'Academy on membership changes: 'We're widening our net' money
 
-An island concentration camp that once housed thousands of prisoners is being turned into a multimillion-dollar resort. Video provided by Newsy
+This tax-avoiding haven's luck is running out
 
-19 of 20 See more video
+StocksPortfolio TrackerAmerica's Markets Rieder: A boneheaded attack on the pressTwitter has 412 years in cash to fix itselfObama to propose expanding retirement plans tech
 
-Cops already crown the 'dumbest criminal of the year'
+Apple's new iOS center in Naples raises eyebrows
 
-The new year has barely begun, but cops have already named the 'dumbest criminal' of 2016. Once you find out what he allegedly did, you'll understand. Sean Dowling (@seandowlingtv) has more.
+What management turmoil at Twitter means to us users
 
-20 of 20 See more video Last VideoNext Video news
+8 hours, 32 minutes | Baig
 
-Blizzard 2016: What you need to know the day after
+One in five American adults is an Amazon Prime memberApple car suffers another setback, report saysGraphic: Twitter's revolving door travel
 
-Alaska hit with aftershock after 7.1-magnitude earthquake
+Beyond gumbo: New Orleans' new food scene
 
-7 hours, 37 minutes | Nation
+Hilton announces new affordable hotel brand, Tru
 
-A Bloomberg presidential bid? Candidates give mixed reviewsBiggest news you missed this weekendMayor Rahm Emanuel taps high-profile officer to advise Chicago police sports
+21 hours, 8 minutes | Hotels
 
-MVP! Cam Newton leads Panthers to Super Bowl
-
-Panthers advance to SB 50
-
-1 hour, 32 minutes | Carolina Panthers
-
-Bell: Manning isn't done yetPats kicker: 'I lost the game'Bronco's parting shot: Patriots 'disrespected' us life
-
-Madonna gives Mercy a birthday treat on Miami stage
-
-Cross WordsAll GamesEntertain This! Andie MacDowell defends complaint after being bumped from First Class‘Revenant’ survives winter storm Jonas to win box officeTwitter helps Mark Ruffalo find his phone and wallet money
-
-Shaken investors wonder if rebound rally will stick
-
-StocksPortfolio TrackerAmerica's Markets Earnings season picks up steam this week Jack Dorsey overhauling Twitter leadershipJohnson Controls in talks to merge with Tyco tech
-
-Jack Dorsey overhauling Twitter leadership
-
-Amazon founder's reused rocket successfully launches, lands
-
-10 hours, 14 minutes | News
-
-4 Coolest things we saw @NAMM 2016How to prolong your phone's life in a power outageWhen will you die? 'Death Clock' says it knows travel
-
-Snow escape: 10 Caribbean destinations to dream about
-
-Sunday: Snow is over, but flight cancellations top 12,000
-
-3 hours, 45 minutes | Today in the Sky
-
-D.C.’s hidden tunnels to become underground art spaceSafari 101: Planning a bucket-list Africa trip10Best: Cities for Restaurant Week discounts Reviewed.com
+Are you brave enough? 10 cruises for adventureBlizzard cancellations top 13,000, spill into TuesdayHow to avoid a vacation rental surprise Reviewed.com
 
 CES 2016 Editors' Choice award winners
 
-This luxury range is unlike any other
+Italian dishwashers finally arrive in your kitchen
 
-2 days, 7 hours | Tech
+9 hours, 16 minutes | Tech
 
-Pro stainless-steel ranges offer surprising valueAn iconic retro refrigerator grows upThis retro dishwasher is a blast from the past experience
+This isn't your grandmother's gas rangeThis luxury range is unlike any otherPro stainless-steel ranges offer surprising value experience
 
-Cruise ship tours: The charm of the Royal Clipper
+Snow escape: 10 Caribbean destinations to dream about
 
-Photo tour: All-inclusive luxury at Sandals Grande Antigua
+2016's best Mardi Gras king cakes
 
-3 days, 17 hours | Caribbean
+3 days, 17 hours | Food &. Wine
 
-Crave-inducing comfort foods to fight the coldTour Las Vegas' historic Plaza Hotel &. CasinoWinter adventures: 10 unique activities to try this season VOICES Opinion
+Cruise ship tours: The charm of the Royal ClipperTour Las Vegas' historic Plaza Hotel &. CasinoWinter adventures: 10 unique activities to try this season VOICES Opinion
 
-Barry Sanders: Should you let your kids play football?
+Planned Parenthood videos an ugly truth: Daleiden
+
+Rieder
+
+Rieder: A boneheaded attack on the press
+
+Voices
+
+Voices: Is Trump a demagogue?
+
+Opinion
+
+Glenn Reynolds: Forecast of distrust with a chance of revolution
+
+Opinion
+
+Ed Rollins: Michael Bloomberg's bad White House idea
 
 Super-Bowl
 
 We rank the 50 best Super Bowl commercials
-
-Entertain This
-
-Sundance diary: I tried 7 VR experiences
-
-NFL
-
-Bell: Broncos' DeMarcus Ware has been waiting for this moment
-
-Opinion
-
-Flint lead crisis getting a tad overblown: David Mastio
-
-Opinion
-
-The Trump-Palin 2016 reality show: Column
 
 Nation Now
 
@@ -353,23 +371,23 @@ OnPolitics
 
 For the Record: BRB, buying #snowmageddonocalypseendtimes supplies
 
-*   Winter storm wallops eastern USA
-*   Blizzard brings coastal flooding to East Coast
+*   One great photo from every Super Bowl in history
+*   The day in pictures
 *   Your Take: Beautiful photos of snowfall across the USA
-*   Best of the Australian Open
+*   January political cartoons from Gannett cartoonists
 *   Day in celebrities
 
 Trending on Social
 
-*   By 2050, our oceans will hold more plastic than fish
+*   Obama restricts use of solitary confinement
     
-*   Armour: Peyton Manning vs. Cam Newton makes for historic Super Bowl
+*   Apple's iPhone success may be reaching its peak
     
-*   Five stories to watch in Super Bowl 50 for Broncos, Panthers
+*   We laughed, we cried, we got angry: Re-watch last year's Super Bowl ads
     
-*   Manning's Broncos to face Newton's Panthers in Super Bowl
+*   #Snowzilla art: One of the coolest forms of expression
     
-*   Panthers pummel Cardinals, set Super Bowl 50 matchup with Broncos
+*   These are the 10 video games to watch in 2016
     
 
 AD CONTENT Right Now
