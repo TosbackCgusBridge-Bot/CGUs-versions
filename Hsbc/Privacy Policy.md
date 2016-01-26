@@ -34,15 +34,12 @@ Menu Explore HSBC.com Search
         *   Global Private Banking
         *   Retail Banking and Wealth Management
         *   Country contacts
-    *   Awards
-        
-    *   Advertising
-        
-    *   Sponsorship expandSponsorship
-        *   Golf
-        *   Rugby
-        *   Culture
-        *   Other sponsorships
+    *   Corporate governance expandCorporate governance
+        *   Board committees
+        *   Corporate governance codes
+        *   Internal control
+        *   Obligations of senior financial officers
+        *   Employee share plans
     *   Procurement expandProcurement
         *   Purchase order terms and conditions
     *   Contact us
@@ -91,21 +88,16 @@ Menu Explore HSBC.com Search
         *   Green bond reports
         *   Credit ratings
         *   Issuance programmes
-    *   Governance expandGovernance
-        *   Board committees
-        *   Corporate governance codes
-        *   Global Standards
-        *   Health and safety
-        *   Internal control
-        *   Obligations of senior financial officers
-        *   Reputational and operational risks
-        *   Share plans
-        *   USA Patriot Act certification
     *   Investor resources expandInvestor resources
         *   Consensus financial estimates
         *   Investor contacts
         *   Electronic communication
         *   Frequently asked questions - investor relations
+    *   Risk and responsibility expandRisk and responsibility
+        *   Global Standards
+        *   Health and safety
+        *   Reputational and operational risks
+        *   USA Patriot Act certification
 *   News and insight in News and insight
     
     Get the latest news, analysis and commentary. Our business specialists share their views.
@@ -115,6 +107,15 @@ Menu Explore HSBC.com Search
         *   Speeches
     *   Insight archive
         
+    *   Awards
+        
+    *   Advertising
+        
+    *   Sponsorship expandSponsorship
+        *   Golf
+        *   Rugby
+        *   Culture
+        *   Other sponsorships
 *   Careers in Careers
     
     We offer a world of interesting and varied opportunities. Learn about local and global careers and our values-led culture.
@@ -312,8 +313,7 @@ Site navigation About HSBC
 *   Leadership
 *   Company history
 *   Structure and network
-*   Advertising
-*   Sponsorship
+*   Corporate governance
 *   Procurement
 *   Contact us
 
@@ -332,13 +332,16 @@ Investor relations
 *   Stock exchange announcements
 *   Financial and regulatory reports
 *   Fixed income securities
-*   Governance
 *   Investor resources
+*   Risk and responsibility
 
 News and insight
 
 *   Media resources
 *   Insight archive
+*   Awards
+*   Advertising
+*   Sponsorship
 
 Careers
 
