@@ -63,6 +63,7 @@ My Bag (0) Wish List Search
     *   How to Return
     *   International Return Policy
 *   Promotions
+    *   Review Your Blues Sweepstakes Rules
     *   Buckle Card Double Points 2016
     *   Buckle Card Free Wallet or Wristlet
     *   Social Giveaway Official Rules
