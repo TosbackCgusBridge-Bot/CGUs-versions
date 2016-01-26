@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14376609130
+true true L14438242507
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p28.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Sun Jan 24 11:15:39 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Mon Jan 25 11:15:32 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,43 +48,39 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Up to 80% Off Clearance 60 to 80% Off Red Zone Clearance
-
-New Markdowns In Store and Online
-
-Shop Clearance Now Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Home Shop Handbags and Accessories Shop Jewelry Save On Cookware During Our Home Sale 30 to 50% Off Select Home Items Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Workout Clothes On Sale Save on Activewear
+3 Days Only | Online Only | Ends January 27 | Code: JANUARY4 \*Get details50% Off\* select orig and reg-priced styles Shop Bedding and Bath Shop Luggage Shop Window Shop Gold and Silver Jewelry40% Off\* select orig and reg-priced styles Shop Home Decor Shop Furniture and Mattresses Shop Diamond and Gemstone Jewelry30% Off\* select orig and reg-priced styles Shop Kitchen and Dining Shop Custom Blinds and ShadesExtra 20% Off\* select orig, reg, sale and clearance-priced items Shop Men Shop Women Shop Kids Shop Baby Shop Handbags and Accessories Shop Fashion Jewelry Shop Watches Shop Shoes Shop Online Clearance A Sweet Deal On Valentine's Gifts Shop Valentine's Gifts25 to 30% Off Dresses
 
 Select styles
 
-Shop Men   Shop Women   Shop Boys Shop Girls Shop Athletic Shoes Shop Nike Shop Xersion Shop Adidas Valentine's Day Gifts On Sale! Valentine's Gift Ideas Shop Gifts30 to 40% Off Handbags and Shoes
+Shop Dresses12.99 Disney Collection Plush, reg. $16 Shop Disney Collection Plush30 to 40% Off Dress Shoes and Handbags
 
 Select styles
 
-Shop Handbags   Shop Shoes  40 to 60% Off Fashion Jewelry
+    Shop Men's Dress Shoes Shop Women's Dress Shoes Shop Handbags50% Off All Men's Suit Separates Shop Men's Suit Separates Save On Jewelry For Your Sweetheart A Sweetheart Of a Deal
+
+Reserve in store now and get opening day savings!
+
+20 to 50% Off Jewelry
+
+Select styles. Use Code: JANUARY4
+
+  Shop Jewelry Get details: Valentine's Day Lingerie and Sleepwear On Sale Now 20% Off Bras
 
 Select styles when you buy 2 or more
 
-Shop Fashion Jewelry19.99 Stafford Oxford Dress Shirt
+Shop Bras40% Off Sleepwear
 
 Select styles
 
-Shop Dress Shirts30% Off Women's Trendy Tops
+Shop Sleepwear Shop Ambrielle Up To 80% Off Clearance 60 to 80% Off Clearance
 
-Select styles
+New Markdowns In Store and Online!
 
-Shop Women's Trendy Tops Carter's Baby Sale! 35 to 50% Off Carter's Apparel and Sleepwear
-
-Select styles
-
-Shop Carter's SportsFanShop
+Shop Clearance Shop Women Clearance Shop Men Clearance Shop Kids Clearance Shop Baby Clearance Shop Shoes Clearance Shop Home Clearance Shop Handbags and Accessories Clearance Shop Jewelry Clearance SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop People StyleWatch Must Haves
-
-Sponsored Content
-
-Shop People StyleWatch Now Best Prom Ever Shop Prom Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop SportsFanShop Work Out and About For Less Shop Fitness Best Prom Ever Shop Prom Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
