@@ -149,7 +149,7 @@ Use your alerts on Westlaw to inform you promptly of new legal developments in y
 
 If you like, set up daily email summaries as well. You can add colleagues to the email list.
 
-Contact sales to start your free trial › pip
+Contact sales to start your free trial ›
 
 *   Customer Service
 *   Contact Us
