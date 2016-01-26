@@ -62,11 +62,7 @@ Skip to main content
     *   Affiliate
     *   Join Us
 
-Login Let's Connect CONNECTING  
-BRANDS TO  
-MILLIONS OF REAL  
-PEOPLE BETTER  
-THAN ANYONE See What We Do
+Login Let's Connect See What We Do
 
 *   150+ MILLION Real People You Can  
     Message Right Now
