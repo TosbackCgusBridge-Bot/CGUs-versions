@@ -2,6 +2,10 @@
 *   Sign Up
 *   Download
 *   How It Works
+    *   Anti-Virus
+    *   Security
+    *   Privacy
+    *   Portability
 *   Support
     *   FAQ
     *   Tutorials
