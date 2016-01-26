@@ -34,6 +34,13 @@ How secure is my personal information?
 
 *   We are very concerned about the security of customer data. All personal information is password protected and all passwords are encrypted.
 
+How do I opt out of targeted advertistments?
+
+*   If you’d like to opt out from receiving targeted advertisements from those companies that have placed an advertising cookie on your computer, mobile device, or other similar device, please click on the links below.
+*   Digital Advertising Alliance: http://www.aboutads.info/choices
+*   Network Advertising Initiative: http://www.networkadvertising.org/managing/opt\_out.asp
+*   JumpTap: https://opt.jumptap.com/optout/opt
+
 How will I know when there are changes to this Privacy Policy?
 
 *   This Privacy Policy is subject to modification from time to time at Newser’s discretion. All changes will be incorporated into the written policy and posted on the privacy policy pages of the Newser Website. The date of last revision to the policy is indicated at the top of the document.
