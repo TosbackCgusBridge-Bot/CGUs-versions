@@ -58,9 +58,9 @@ Sony on YouTube
 
 Play Video
 
-Will Humankind Survive the Final Wave?
+Take Trip Down Memory Lane With 1D
 
-Find Out This Week
+Listen to "Made in the A.M."
 
 Close
 
@@ -98,9 +98,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-These titles are expiring soon to make room for a new batch! Binge-watch mode: Engage. http://crackle.watch/Home
+6 things you'll want to know before you start The Witness: playstation.com. Don't worry, no spoilers!
 
-2016-01-26 10:43:02+00:00
+2016-01-27 03:31:40+00:00
 
 View Tweet
 
@@ -182,9 +182,9 @@ Check Out Z4
 
 Sony on Twitter
 
-Street Fighter V story details and free cinematic expansion revealed: playstation.com
+It's here! V7 firmware for #SonyProUSA's F5 and F55. Download it: community.sony.com #F55 #F5 #CineAlta
 
-2016-01-26 10:03:34+00:00
+2016-01-27 01:09:19+00:00
 
 View Tweet
 
