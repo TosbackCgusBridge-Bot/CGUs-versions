@@ -147,5 +147,5 @@ Publishers
 *   Manage Subscriptions
 *   EzineArticles RSS
 
-© 2016 SparkNET  
+© 2016 EzineArticles  
 All Rights Reserved Worldwide
