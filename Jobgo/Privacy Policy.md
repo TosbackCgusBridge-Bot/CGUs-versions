@@ -1,25 +1,7 @@
-Search JobCompany Login
-
-*   Create profile
-*   Login
-
-Click here to create a recruiter/company profile!  
-
-Create a job seeker profile:
-
-\*E-mail \*Password Min. 8 characters
-
-\* Required information.
-
+LOGIN  
   
-
-By clicking Register, you are indicating that you have read, understood,  
-and agree to JobGo's Terms of Use and Privacy policy.
-
-Sign in or register Remember me Forgot your password? English
-
-*   Suomi
-*   Français
+Forgot your password?  
+LOGIN Remember me Don't have an account yet? Sign up here.
 
 *   Home
 *   Jobs
