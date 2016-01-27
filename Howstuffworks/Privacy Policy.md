@@ -66,11 +66,11 @@ Privacy Policy | HSW
 
 Up Next
 
+*   BrainStuff: What Is Sick Building Syndrome?
+*   Stuff Mom Never Told You: The Insult All Vegan Guys Hear
+*   Get Down to Work: The Best Toolbox Tools Quiz
+*   How Well Do You Know the Constellations?
 *   Stuff You Should Know: Internet Roundup: The Gangs of Disneyland &. Netflix Genres
-*   HowStuffWorks NOW: How the White House Has Become the Ultimate 'Social Network’
-*   HowStuffWorks NOW: Missing History: The Declaration of Sentiments
-*   Children of the Atom: The 'Uncanny X-Men' Quiz
-*   The Ultimate Bruno Mars Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
