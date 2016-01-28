@@ -20,7 +20,7 @@ MENU **IS**
 **ES**
 
 *   Starting at $38,000\*
-*   268-hp\* 3.5L V6
+*   268-hp 3.5L V6
 
 *   Build
 *   Current Offers
@@ -78,7 +78,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 COMPARE **NX**
 
 *   Starting at $34,965\*
-*   235-hp 2.0L turbo
+*   235-hp\* 2.0L turbo
 
 *   Build
 *   Current Offers
