@@ -208,7 +208,7 @@ Play Video
 
 Follow One Family's Battle to Defend Their Way of Living
 
-Watch the Premiere of "Outsiders"
+Watch the First Episode of "Outsiders" on Crackle
 
 Close
 
