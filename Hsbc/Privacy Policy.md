@@ -63,35 +63,29 @@ Menu Explore HSBC.com Search
     
     Learn about our investment case, our internal controls and how we handle risk. Find financial results, dividend information and investor presentations.
     
-    *   Investing in HSBC expandInvesting in HSBC
-        *   Annual General Meeting
-        *   Latest financial information
-        *   Investor Update 2015
-    *   Share information expandShare information
-        *   Equity analyst coverage
-        *   Share analytics
-        *   Treasury shares
-    *   Dividends expandDividends
+    *   Financial and regulatory reports expandFinancial and regulatory reports
+        *   Regulatory capital securities
+    *   Share and dividend information expandShare and dividend information
         *   Dividend calculators
         *   Dividend history
         *   Dividend timetable
+        *   Equity analyst coverage
         *   Scrip dividend
+        *   Share analytics
+        *   Treasury shares
     *   Events and presentations
         
-    *   Stock exchange announcements
-        
-    *   Financial and regulatory reports expandFinancial and regulatory reports
-        *   Regulatory capital securities
+    *   Investor resources expandInvestor resources
+        *   Contact our registrar
+        *   Investor contacts
+        *   Frequently asked questions - investor relations
     *   Fixed income securities expandFixed income securities
         *   Covered bond reports
         *   Green bond reports
         *   Credit ratings
         *   Issuance programmes
-    *   Investor resources expandInvestor resources
-        *   Consensus financial estimates
-        *   Investor contacts
-        *   Electronic communication
-        *   Frequently asked questions - investor relations
+    *   Stock exchange announcements
+        
     *   Risk and responsibility expandRisk and responsibility
         *   Global Standards
         *   Health and safety
@@ -324,14 +318,12 @@ Citizenship
 
 Investor relations
 
-*   Investing in HSBC
-*   Share information
-*   Dividends
-*   Events and presentations
-*   Stock exchange announcements
 *   Financial and regulatory reports
-*   Fixed income securities
+*   Share and dividend information
+*   Events and presentations
 *   Investor resources
+*   Fixed income securities
+*   Stock exchange announcements
 *   Risk and responsibility
 
 News and insight
