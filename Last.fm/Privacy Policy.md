@@ -186,4 +186,4 @@ This Privacy Policy is effective as of Tuesday 15 January 2013.
 
 You’re viewing a beta version of the new Last.fm website. Leave feedback
 
-Hide API Calls
+API Calls
