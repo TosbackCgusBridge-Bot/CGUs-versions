@@ -98,268 +98,256 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ News 1 killed as feds move in, arrest protest leader Ammon Bundy
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ OnPolitics Iowa countdown: Huckabee covers Adele. Trump trumps debate Read StoryTrump goes on defensiveTrump and Fox lob bombs
 
 TOP STORIES
 
-*   OnPolitics Trump team says he'll ditch Thursday's GOP debate
-*   News Apple iPhone sales slow and Cook warns on quarter
-*   Money Oprah loses 26 pounds, Weight Watchers stock soars
-*   Ranking the best and worst Super Bowl announcers
-*   Legendary NASCAR announcer Barney Hall dies
-*   Milwaukee man charged in mass shooting plot
-*   Bus driver: Struck principal pushed kids to safety
-*   United to offer refunds to Zika-affected regions
-*   Chase ATMs to give cash via smartphones
-*   Appreciation: 'Barney Miller's' old soul Abe Vigoda
-*   Hard look at math, reading scores 'disconcerting'
-*   Ad Meter 50 for 50th: Sweet 16 matchups
+*   News Ammon Bundy tells remaining Ore. occupiers to 'stand down'
+*   News Mizzou professor who called for 'muscle' suspended
+*   NFL Tom Brady shares heartfelt handwritten letter
+*   Obama warns of growing anti-Semitism
+*   Grenada: Slain American was sexually assaulted
+*   Tyra Banks welcomes 'miracle baby boy'
+*   Teen girl charged with killing 13-year-old
+*   Trump goes on defensive about debate decision
+*   The 'Work' is done! Listen to Rihanna's new album, 'ANTI'
+*   Google DeepMind's program beats human at Go
+*   5 arrests, but Calif. escapees still at large
+*   Georgia state trooper shot after interstate chase
 
-OnPolitics
+College
 
-Iowa countdown: Help, Ted Cruz and Donald Trump keep beefing
+Duke student hospitalized, 10 sororities suspended
 
-Sports
+Carolina Panthers
 
-What could the world of sports look like in 25 years?
-
-Nation Now
-
-Cleveland fires 6 officers in 137-shot case
+Newton: People might fear me as black QB
 
 Movies
 
-Emily Blunt, John Krasinski expecting again
+Sold! These movies are killing it at Sundance
 
-OUR PICKS World
+Money
 
-Daring human smugglers use social media to lure migrants fleeing Syria
+Bloomberg editor quits over policy of not covering Bloomberg
 
-OnPolitics
+OUR PICKS Nation Now
 
-GOP Power Rankings: Trump rules yet again
+Wife of freed pastor details marriage conflict
+
+Nation Now
+
+Watch last year's funniest Super Bowl ads
 
 News
 
-Task Force: Doctors should screen all adults for depression
+Experts: USA must prepare now for Zika virus
 
-Elections
+NFL
 
-This is Ted Cruz's likability challenge
+Ranking all 49 Super Bowl champs, best to worst
 
-6 officers fired for deadly Cleveland police chase
+Like soccer and basketball? You'll love Futsal
 
-Six Cleveland police officers were fired and another six were diciplined for a deadly police chase in which officers shot 137 bullets into the suspect's car.
+Futsal is a mix between soccer, basketball and hockey. It's a fast-paced sport made popular in Brazil and it's gaining popularity in the U.S.
 
-1 of 24 See more video
+1 of 22 See more video
 
-Trump won't attend FOX debate
+5 things to know about the dangers of 'Dewshine'
 
-Donald Trump said Tuesday that he "most likely" will not participate in Thursday night's FOX News debate, citing the participation of Megyn Kelly as well as FOX's press release poking fun at Trump's rhetoric.
+Tennessee health officials are warning about the risks of "Dewshine," a homemade cocktail made of Mountain Dew and racing fuel. The extremely poisonous concoction is already tied to the deaths of two teens.
 
-2 of 24 See more video
+2 of 22 See more video
 
-College student changes lives $30 at a time
+The future is now, the DeLorean is back in production
 
-Sarah Stubbs lives her life by a certain saying: "Let the world change you, and you can change the world." Changing the world is something she's doing one water filter at a time.
+The DeLorean is back. A recent change in federal law allows a facility in Humble, Texas, to start making the vehicle for the first time in three decades, Houston NBC affiliate KPRC reported. The sleek, silver cars were made famous by the 1985 movi
 
-3 of 24 See more video
+3 of 22 See more video
+
+These are the most corrupt countries in the world
+
+Transparency International says corruption may be improving globally, although some countries saw their corruption levels rise since last year. Video provided by Newsy.
+
+4 of 22 See more video
+
+Rare white giraffe spotted in Tanzania
+
+The Wild Nature Institute first saw this rare white giraffe in January of 2015 and she has made another appearance. Gillian Pensavalle (@GillianWithaG) has the photos.
+
+5 of 22 See more video
+
+10,000-year-old mammoth remains found below stadium
+
+The mammoth bones were found near one of the end zones below Oregon State University's Reser Stadium. They were unearthed by workers during a construction project.
+
+6 of 22 See more video
+
+Airbnb shuts down man's igloo rental, but these 'gems' are available
+
+There are some pretty interesting places you can stay at listed on Airbnb. Jordyn Rolling (@jordynrolling) shows a few!
+
+7 of 22 See more video
 
 Common household items you're not replacing enough
 
 Bras, pillows and sponges - certain household items can be breeding grounds for germs. Jordyn Rolling (@jordynrolling) can tell you about them!
 
-4 of 24 See more video
+8 of 22 See more video
 
-'Doomsday Clock' reflects dangers to the world
+Meet the newest baby Budweiser Clydesdale
 
-Scientists behind a "Doomsday Clock" that measures the likelihood of a global cataclysm say the world is still under grave threat. The Bulletin of the Atomic Scientists announced on Tuesday that the minute hand was at three minutes-to-midnight. (Jan
+This little foal has some great timing! Mac, the newest member of the Budweiser Clydesdale family, was born just days before the Super Bowl. He joins a herd of more than 160 other Clydesdales.
 
-5 of 24 See more video
+9 of 22 See more video
 
 This coupon crash course will pay off for years
 
 Not all coupons are created equal. Savings expert Matt Granite shows you where to find the deals you can trust.
 
-6 of 24 See more video
+10 of 22 See more video
 
 Your favorite conspiracy theories would have unraveled by now
 
 An Oxford physicist's new formula predicts a conspiracy like faking the moon landings would have fallen apart within four years. Video provided by Newsy
 
-7 of 24 See more video
+11 of 22 See more video
 
 Zika virus: 5 things you need to know
 
 Zika, a virus transmitted through mosquito bites, is affecting multiple countries in Latin America, and is expected to spread to the U.S.
 
-8 of 24 See more video
+12 of 22 See more video
 
-'Godfather' and 'Barney Miller' actor Abe Vigoda dies
+Most of us are confused by "natural" food
 
-Abe Vigoda, a character actor best known for his roles in 'Barney Miller' and 'The Godfather' has passed away at the age of 94.
+More shoppers are buying food labeled as "natural" even though most of us don't know what it means.
 
-9 of 24 See more video
+13 of 22 See more video
+
+What's the point of that tiny front pocket on your jeans?
+
+Levis Strauss and Co. debunks the mystery of why jeans have that small front pocket. Video provided by Newsy
+
+14 of 22 See more video
+
+This newborn eaglet is a messy eater
+
+A new baby eagle hatched in Florida and already has a big appetite! The eagle family can be watched on the Southwest Florida Eagle Cam.
+
+15 of 22 See more video
+
+Uber is trying to tame drunk passengers with Bop-Its
+
+There have been several instances of Uber drivers getting attacked while picking up passengers. Now, Uber has come up with a solution - and it involves providing a classic '80s toy.
+
+16 of 22 See more video
+
+Super Bowl tickets for a house? Not really!
+
+A bitter Steelers fan pulls the ultimate prank on his friend in Denver. Now, it's game on.
+
+17 of 22 See more video
 
 Burger King employee steals nuggets on his last day
 
 A tweet posted by a guy named Zealot is currently going viral, as people everywhere are impressed with his ability to steal what is likely just $5 of chicken nuggets.
 
-10 of 24 See more video
+18 of 22 See more video
 
-Airline to treat 'possessed' dolls like people
+Students surprise dining-hall employee with dream trip
 
-Thai Smile Airlines is going to be treating possessed dolls as if they were people. What a victory for...dolls. Patrick Jones (@Patrick\_E\_Jones) explains.
+A dining hall employee at Arizona State University was surprised by 150 students with an oversize check for nearly $2,500, printed on an image of the blues, pinks and greens of the Aurora Borealis.
 
-11 of 24 See more video
-
-Big game, even bigger commercials
-
-The 2015 crop of Super Bowl commercials tugged at our hearts. In preparation for what 2016 has to offer, we share some highlights from some of the most popular ads from last year.
-
-12 of 24 See more video
-
-The dogs of USA TODAY loved #Snowzilla
-
-Ok, we know you're sick of Jonas 2016. But, if you have just 60 more seconds, you'll smile when you see these dogs (and one cat) that truly enjoyed the winter snow that blasted the NorthEast.
-
-13 of 24 See more video
+19 of 22 See more video
 
 Tip for clearing your driveway
 
 A USA TODAY motion graphic showing how to clear your driveway to ensure that when a snowplow comes through you don't have to do it again. Source: Virginia Department of Transportation.
 
-14 of 24 See more video
+20 of 22 See more video
 
 Shaq shows up for epic basketball game with kids
 
 After a Gainesville, Florida police officer gained internet fame for playing basketball with a group of kids, he returned for a rematch and brought NBA legend Shaquille O'Neill.
 
-15 of 24 See more video
-
-Saddle up! N.C. woman ditches truck, rides horse to work
-
-The only problem with this type of horsepower: No headlights! Gabby, of Burlington, N.C., had to leave work before it got dark.
-
-16 of 24 See more video
+21 of 22 See more video
 
 This is why you should NOT try and kiss wild hawks
 
 I can't believe this has to be said but don't try and kiss wild hawks. Patrick Jones (@Patrick\_E\_Jones) explains what happened when someone did.
 
-17 of 24 See more video
+22 of 22 See more video Last VideoNext Video news
 
-Was winter storm Jonas a blizzard?
+On 'O'Reilly,' Trump goes on defensive about debate decision
 
-As people on the East Coast continue to dig out from the massive winter storm dubbed Jonas, they may be surprised to learn the exact criteria of what makes a blizzard. Depending on where you live, it may or may not have been one.
+DOJ complaint lays out case against Oregon protesters
 
-18 of 24 See more video
+1 hour, 15 minutes | News
 
-Time-lapse: Winter storm blasts into NYC
+Mizzou professor who called for 'muscle' suspendedUtah ranchers gather in vigil for Ore. protester killed in FBI…Re-elected Vietnam communist boss: 'A lot of work ahead' sports
 
-Watch a time-lapse of the storm arriving into city from above
+Serena rolls in semis, makes 7th Australian final
 
-19 of 24 See more video
+Panthers player answers ticket requests perfectly
 
-Dueling pandas, a showdown in the snow
+5 hours, 59 minutes | Carolina Panthers
 
-Tian Tian the panda captured our hearts when he was captured on video frolicking in the snow from Winter Storm Jonas. Not to be outdone, Jeffrey Perez put on a panda suit and showed off some moves of his own.
+The 49 Super Bowl champs rankedLue to coach East All-Stars after just three gamesCam Newton: People might fear me as a black QB life
 
-20 of 24 See more video
+The 'Work' is done! Listen to Rihanna's new album, 'ANTI'
 
-6 winter hacks to get you through snowstorms
+Cross WordsAll GamesEntertain This! Tyra Banks welcomes 'miracle baby boy'Harrison Ford to reveal details on 'Star Wars' lands in ABC specialCritic's Corner: Mystery, romance blend in 'London Spy' money
 
-Try these six winter hacks in your house and on the road as severe winter storms bear down on large swaths of the U.S.
+Rieder: Trump meets his match in Kelly
 
-21 of 24 See more video
+StocksPortfolio TrackerAmerica's Markets U.S. slaps $1.3B in penalties on Swiss banksChocolate fries: McDonald’s hopes they'll spark Japan turnaroundThe future is now, the DeLorean is back in production tech
 
-Tina Fey as Sarah Palin makes 'SNL' great again
+Facebook soars 12% on surge in mobile ad sales
 
-Right down to the matching sparkly fringe jacket, Tina Fey nails her latest impression of Sarah Palin on 'Saturday Night Live.
+Facebook takes Apple's place as tech's Teflon co.
 
-22 of 24 See more video
+7 hours, 8 minutes | Columnist
 
-Bald eagle dies from suspected poisoning
+Theranos lab poses 'immediate jeopardy' to patients, say regulatorsYour next Android phone might 'see' like humansFacebook Groups reaches 1 billion users travel
 
-A bald eagle didn't survive after Eagle Watch volunteers say they suspect she ate a poisoned rodent. Sadly her death dooms her eggs and leaves her mate alone.
+Exclusive: First look at Uniworld's new river ship in India
 
-23 of 24 See more video
+Guns at checkpoints: Texas airports tops for TSA 'catches'
 
-Ronda Rousey congratulates Holly Holm on 'SNL'
+16 hours, 19 minutes | Flights
 
-Two months after her stunning loss to Holly Holm, Ronda Rousey recognized her in a very public way, while hosting 'Saturday Night Live.'
-
-24 of 24 See more video Last VideoNext Video news
-
-Trump team says he'll ditch Thursday's GOP debate
-
-1 killed as feds move in, arrest protest leader Ammon Bundy
-
-9 minutes | News
-
-2nd teen dies from fuel mixed with Mountain DewToday in History for January 27thReport links violence, tyranny and corruption sports
-
-Broncos' Anderson sends touching message to Brady
-
-Legendary NASCAR announcer Barney Hall dies
-
-13 minutes | NASCAR
-
-Lakers coach denies threatening fan on InstagramBlake Griffin apologizes for fightRanking the every Super Bowl announcing team ever life
-
-'Barney Miller' star Abe Vigoda dead at 94
-
-Cross WordsAll GamesEntertain This! Emily Blunt and husband John Krasinski are expecting againKanye's album has (another) new title: 'WAVES'British singer Colin Vearncombe, aka 'Black,' dies after car accident money
-
-Chase ATMs to give cash via smartphones
-
-StocksPortfolio TrackerAmerica's Markets Fed likely to keep rate-hike options openApple off 2.6% after hours on no-growth worryUnited to offer refunds, waivers for travel to Zika-affected regions tech
-
-Apple iPhone sales slow and Cook warns on quarter
-
-Live blog: Apple earnings
-
-7 hours, 54 minutes | News
-
-VMware forecast comes at a bad time for EMCLive video with GoPro and Periscope work in progressVMware to lay off 800, CFO resigns travel
-
-Get the Caribbean for less: Book an Airbnb!
-
-Taste the future of fast-casual food in New York City
-
-1 day, 6 hours | Food &. Wine
-
-Can it be? Flight schedules improving after Blizzard of 2016Uber, Lyft and Airbnb soar in popularity with business travelersPut these 25 things on your Phoenix bucket list Reviewed.com
+Vermont's best breweries and distilleries near ski towns14 stunning countryside retreatsGet the Caribbean for less: Book an Airbnb! Reviewed.com
 
 New Viking ranges take a detour to Italy
 
 T-shirt too small? Use this chart for the perfect fit
 
-11 hours, 39 minutes | Tech
+1 day, 11 hours | Tech
 
 Italian dishwashers finally arrive in your kitchenThis isn't your grandmother's gas rangeThis luxury range is unlike any other experience
 
-Are you brave enough? 10 cruises for adventure
+Get the Caribbean for less: Book an Airbnb!
 
-Beyond gumbo: New Orleans' new food scene
+Taste the future of fast-casual food in New York City
 
-2 days, 5 hours | Food &. Wine
+2 days, 6 hours | Food &. Wine
 
-Exclusive: Everything Is Awesome in Legoland's new Lego Movie 4DSnow escape: 10 Caribbean destinations to dream aboutTour Las Vegas' historic Plaza Hotel &. Casino VOICES Super-Bowl
+Are you brave enough? 10 cruises for adventureExclusive: Everything Is Awesome in Legoland's new Lego Movie 4DTour Las Vegas' historic Plaza Hotel &. Casino VOICES Rieder
 
-Ad Meter: Vote for the all-time best Super Bowl commercial
+Rieder: Trump meets his match in Kelly
+
+Voices
+
+Voices: The real Iowa caucuses
 
 Opinion
 
-For Trump, honesty isn’t best policy: Our view
+Trump, Sanders may be changing Iowa: Column
 
-Elections
+Super-Bowl
 
-Iowa Gov. Branstad on Trump, Cruz and turnout
-
-Rieder
-
-Rieder: A boneheaded attack on the press
+Ad Meter: Vote for the all-time best Super Bowl commercial
 
 Opinion
 
@@ -377,23 +365,23 @@ Nation Now
 
 In 73 seconds, everything changed for Challenger
 
+*   Militia standoff at Oregon's Malheur National Wildlife Refuge
+*   Remembering Abe Vigoda
 *   One great photo from every Super Bowl in history
-*   The day in pictures
 *   Your Take: Dazzling photos to cure your winter blues
 *   January political cartoons from Gannett cartoonists
-*   Day in celebrities
 
 Trending on Social
 
-*   Oprah loses 26 pounds, gains $12.5M on Weight Watchers stock
+*   Emmanuel Omogbo, Colorado State get back to work following family tragedy
     
-*   Trump team says he'll ditch Thursday's GOP debate
+*   Film: Survivors' kin tell Holocaust stories
     
-*   Legendary NASCAR announcer Barney Hall dies
+*   Tyra Banks welcomes 'miracle baby boy'
     
-*   1 killed as feds move in, arrest protest leader Ammon Bundy
+*   Mizzou professor who called for 'muscle' suspended
     
-*   After record-breaking 2015 winter, Jonas lets Boston off the hook
+*   Serena Williams soars in semis, advances to Australian Open final
     
 
 AD CONTENT Right Now
