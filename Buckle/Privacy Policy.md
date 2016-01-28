@@ -1,6 +1,6 @@
-SALE. SALE. SALE.
+Share your love this Valentine’s Day with a
 
-Shop Now!
+Buckle Giftcard.
 
 Guest Services 800-607-9788
 
