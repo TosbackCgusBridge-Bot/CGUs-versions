@@ -29,6 +29,7 @@ SUBSCRIBE NOWto get home delivery
 *   Crosswords
 *   Elections 2016
 *   Investigations
+*   AD Meter
 *   Video
 *   Stocks
 *   Apps
@@ -55,6 +56,7 @@ SUBSCRIBE NOWto get home delivery
     *   Crosswords
     *   Elections 2016
     *   Investigations
+    *   AD Meter
     *   Video
     *   Stocks
     *   Apps
@@ -98,260 +100,252 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ OnPolitics Iowa countdown: Huckabee covers Adele. Trump trumps debate Read StoryTrump goes on defensiveTrump and Fox lob bombs
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Elections Debate analysis: The man who wasn't there? He was.
 
 TOP STORIES
 
-*   News Ammon Bundy tells remaining Ore. occupiers to 'stand down'
-*   News Mizzou professor who called for 'muscle' suspended
-*   NFL Tom Brady shares heartfelt handwritten letter
-*   Obama warns of growing anti-Semitism
-*   Grenada: Slain American was sexually assaulted
-*   Tyra Banks welcomes 'miracle baby boy'
-*   Teen girl charged with killing 13-year-old
-*   Trump goes on defensive about debate decision
-*   The 'Work' is done! Listen to Rihanna's new album, 'ANTI'
-*   Google DeepMind's program beats human at Go
-*   5 arrests, but Calif. escapees still at large
-*   Georgia state trooper shot after interstate chase
-
-College
-
-Duke student hospitalized, 10 sororities suspended
-
-Carolina Panthers
-
-Newton: People might fear me as black QB
-
-Movies
-
-Sold! These movies are killing it at Sundance
-
-Money
-
-Bloomberg editor quits over policy of not covering Bloomberg
-
-OUR PICKS Nation Now
-
-Wife of freed pastor details marriage conflict
+*   News FBI releases video of shooting death of Oregon protester
+*   OnPolitics Seventh Republican debate: Highlights from Iowa
+*   Music Jefferson Airplane’s Paul Kantner dies at 74
+*   White House: Pay data could close gender gap
+*   Carson: 'Putin is a one-horse country'
+*   Xerox reportedly plans split into two companies
+*   Trump holds rival event during debate
+*   No Trump, but Fox offered Wallace vs. Cruz
+*   Bank of Japan introduces negative interest rate
+*   Armour: Real reason behind Cam Newton criticism
+*   VandeHei, Allen, other top players to leave Politico
+*   CBS supports Carey: 'He’s almost always right'
 
 Nation Now
 
-Watch last year's funniest Super Bowl ads
+Sonic boom rattles some on East Coast
+
+Money
+
+Expect to be tickled, inspired by Super Bowl ads
+
+Denver Broncos
+
+Peyton Manning welcomes investigation on HGH allegations
 
 News
 
-Experts: USA must prepare now for Zika virus
+Amazon stock dives as sales, earnings disappoint
+
+OUR PICKS Flint Water Crisis
+
+Amid denials, state workers in Flint got clean water
+
+World
+
+Reporter's notebook: Syrian migrants in Austria
+
+News
+
+Zika in the U.S.: We have infections, not outbreak
 
 NFL
 
-Ranking all 49 Super Bowl champs, best to worst
+Ranking the Super Bowl halftime shows, from worst to first
+
+'Affluenza' teen returns to Texas to face charges
+
+Ethan Couch sparked an international manhunt after disappearing while on a parole for a deadly drunk driving accident. He and his mom were found in Mexico in December.
+
+1 of 20 See more video
+
+How Mexican gray wolves are tracked in the wild
+
+The annual Mexican gray wolf population survey in Alpine, Arizona shows that poaching is slowing the species' recovery. To combat this, researchers use GPS monitoring to keep tabs on the animals.
+
+2 of 20 See more video
+
+9-year-old collects almost 1000 Barbies, doesn't plan on keeping them
+
+A little girl in Virginia hopes to get her hands on 1000 Barbies so she can give them to the less fortunate. The dolls are coming in from all over the country and she's almost hit her goal! Keleigh Nealon (@keleighnealon) has the story!
+
+3 of 20 See more video
 
 Like soccer and basketball? You'll love Futsal
 
 Futsal is a mix between soccer, basketball and hockey. It's a fast-paced sport made popular in Brazil and it's gaining popularity in the U.S.
 
-1 of 22 See more video
+4 of 20 See more video
+
+Plenty of zingers from GOP debate without Trump's help
+
+The GOP candidates still had plenty of jabs for the absent Donald Trump, the moderators, and of course, each other at the Fox News debate.
+
+5 of 20 See more video
+
+What you missed from the 7th GOP debate in 2 minutes
+
+The 7th Republican debate was the first without front-runner Donald Trump. The other candidates took advantage of his absence to try and sway voters ahead of the caucuses.
+
+6 of 20 See more video
+
+Watch baby eagle wiggle out of its shell
+
+It took days for this eaglet to break free from its shell and join its newborn sibling. Southwest Florida Eagle Cam captured the magical moments.
+
+7 of 20 See more video
+
+Baby orca swimming with pod caught on camera
+
+Scientists at NOAA Fisheries captured video of a baby orca swimming with a pod of killer whales in Puget Sound near Seattle.
+
+8 of 20 See more video
+
+NAACP leader opposes offensive shirts, but then says this
+
+The president of the Maricopa County, Arizona NAACP is drawing widespread ire for a remark he made about a female reporter. She didn't hear his comments at the time, but they were captured on tape.
+
+9 of 20 See more video
+
+Puppy clinging to freeway median gets rescued
+
+A traffic camera reporter rushed to help out a dog who became stranded in the middle of an Arizona highway during rush hour traffic. Thanks to his quick thinking, she's alive. Sean Dowling (@seandowlingtv) has more.
+
+10 of 20 See more video
 
 5 things to know about the dangers of 'Dewshine'
 
 Tennessee health officials are warning about the risks of "Dewshine," a homemade cocktail made of Mountain Dew and racing fuel. The extremely poisonous concoction is already tied to the deaths of two teens.
 
-2 of 22 See more video
+11 of 20 See more video
 
 The future is now, the DeLorean is back in production
 
-The DeLorean is back. A recent change in federal law allows a facility in Humble, Texas, to start making the vehicle for the first time in three decades, Houston NBC affiliate KPRC reported. The sleek, silver cars were made famous by the 1985 movi
+The DeLorean is back. A recent change in federal law allows a facility in Humble, Texas, to start making the vehicle for the first time in three decades, Houston NBC affiliate KPRC reported. The sleek, silver cars were made famous by the 1985 movie.
 
-3 of 22 See more video
+12 of 20 See more video
 
 These are the most corrupt countries in the world
 
 Transparency International says corruption may be improving globally, although some countries saw their corruption levels rise since last year. Video provided by Newsy.
 
-4 of 22 See more video
+13 of 20 See more video
 
-Rare white giraffe spotted in Tanzania
+Move to Hawaii and Alaska, feel better
 
-The Wild Nature Institute first saw this rare white giraffe in January of 2015 and she has made another appearance. Gillian Pensavalle (@GillianWithaG) has the photos.
+Hawaii and Alaska take the top spots when it comes to well-being. The State of American Well-Being rankings is out and puts each state in its place. Keleigh Nealon (@keleighnealon) has the feel-good story.
 
-5 of 22 See more video
+14 of 20 See more video
 
-10,000-year-old mammoth remains found below stadium
+Bracelets sent on a worldwide mission of kindness
 
-The mammoth bones were found near one of the end zones below Oregon State University's Reser Stadium. They were unearthed by workers during a construction project.
+In 2013, Grace Murdock decided to make bracelets to help people track kindness. Murdock had no idea how these simple bracelets would change her life.
 
-6 of 22 See more video
-
-Airbnb shuts down man's igloo rental, but these 'gems' are available
-
-There are some pretty interesting places you can stay at listed on Airbnb. Jordyn Rolling (@jordynrolling) shows a few!
-
-7 of 22 See more video
-
-Common household items you're not replacing enough
-
-Bras, pillows and sponges - certain household items can be breeding grounds for germs. Jordyn Rolling (@jordynrolling) can tell you about them!
-
-8 of 22 See more video
-
-Meet the newest baby Budweiser Clydesdale
-
-This little foal has some great timing! Mac, the newest member of the Budweiser Clydesdale family, was born just days before the Super Bowl. He joins a herd of more than 160 other Clydesdales.
-
-9 of 22 See more video
-
-This coupon crash course will pay off for years
-
-Not all coupons are created equal. Savings expert Matt Granite shows you where to find the deals you can trust.
-
-10 of 22 See more video
-
-Your favorite conspiracy theories would have unraveled by now
-
-An Oxford physicist's new formula predicts a conspiracy like faking the moon landings would have fallen apart within four years. Video provided by Newsy
-
-11 of 22 See more video
-
-Zika virus: 5 things you need to know
-
-Zika, a virus transmitted through mosquito bites, is affecting multiple countries in Latin America, and is expected to spread to the U.S.
-
-12 of 22 See more video
-
-Most of us are confused by "natural" food
-
-More shoppers are buying food labeled as "natural" even though most of us don't know what it means.
-
-13 of 22 See more video
+15 of 20 See more video
 
 What's the point of that tiny front pocket on your jeans?
 
 Levis Strauss and Co. debunks the mystery of why jeans have that small front pocket. Video provided by Newsy
 
-14 of 22 See more video
-
-This newborn eaglet is a messy eater
-
-A new baby eagle hatched in Florida and already has a big appetite! The eagle family can be watched on the Southwest Florida Eagle Cam.
-
-15 of 22 See more video
+16 of 20 See more video
 
 Uber is trying to tame drunk passengers with Bop-Its
 
 There have been several instances of Uber drivers getting attacked while picking up passengers. Now, Uber has come up with a solution - and it involves providing a classic '80s toy.
 
-16 of 22 See more video
-
-Super Bowl tickets for a house? Not really!
-
-A bitter Steelers fan pulls the ultimate prank on his friend in Denver. Now, it's game on.
-
-17 of 22 See more video
-
-Burger King employee steals nuggets on his last day
-
-A tweet posted by a guy named Zealot is currently going viral, as people everywhere are impressed with his ability to steal what is likely just $5 of chicken nuggets.
-
-18 of 22 See more video
+17 of 20 See more video
 
 Students surprise dining-hall employee with dream trip
 
 A dining hall employee at Arizona State University was surprised by 150 students with an oversize check for nearly $2,500, printed on an image of the blues, pinks and greens of the Aurora Borealis.
 
-19 of 22 See more video
+18 of 20 See more video
 
 Tip for clearing your driveway
 
 A USA TODAY motion graphic showing how to clear your driveway to ensure that when a snowplow comes through you don't have to do it again. Source: Virginia Department of Transportation.
 
-20 of 22 See more video
-
-Shaq shows up for epic basketball game with kids
-
-After a Gainesville, Florida police officer gained internet fame for playing basketball with a group of kids, he returned for a rematch and brought NBA legend Shaquille O'Neill.
-
-21 of 22 See more video
+19 of 20 See more video
 
 This is why you should NOT try and kiss wild hawks
 
 I can't believe this has to be said but don't try and kiss wild hawks. Patrick Jones (@Patrick\_E\_Jones) explains what happened when someone did.
 
-22 of 22 See more video Last VideoNext Video news
+20 of 20 See more video Last VideoNext Video news
 
-On 'O'Reilly,' Trump goes on defensive about debate decision
+FBI releases video of shooting death of Oregon protester
 
-DOJ complaint lays out case against Oregon protesters
+Debate analysis: The man who wasn't there? He was.
 
-1 hour, 15 minutes | News
+7 minutes | Elections
 
-Mizzou professor who called for 'muscle' suspendedUtah ranchers gather in vigil for Ore. protester killed in FBI…Re-elected Vietnam communist boss: 'A lot of work ahead' sports
+Police: 6 dead in domestic murder-suicide in VirginiaHuckabee, Santorum show up at Trump's event after debateCyndi Lauper Takes 'Detour' to Nashville sports
 
-Serena rolls in semis, makes 7th Australian final
+Michael Phelps dons speedo to join student section
 
-Panthers player answers ticket requests perfectly
+NBA All-Star reserves: Who got snubbed?
 
-5 hours, 59 minutes | Carolina Panthers
+3 hours | NBA
 
-The 49 Super Bowl champs rankedLue to coach East All-Stars after just three gamesCam Newton: People might fear me as a black QB life
+Armour: Real reason behind Cam Newton criticismManning welcomes HGH investigationCBS defends embattled rules analyst life
 
-The 'Work' is done! Listen to Rihanna's new album, 'ANTI'
+Sia hides in plain sight (and big sound) on 'This Is Acting'
 
-Cross WordsAll GamesEntertain This! Tyra Banks welcomes 'miracle baby boy'Harrison Ford to reveal details on 'Star Wars' lands in ABC specialCritic's Corner: Mystery, romance blend in 'London Spy' money
+Cross WordsAll GamesEntertain This! Jefferson Airplane’s Paul Kantner dies at 74Review: NBC's 'Apocalypse' is odd, inventive funNetflix, Amazon make it rain at Sundance money
 
-Rieder: Trump meets his match in Kelly
+GDP growth likely to slow but follow the jobs
 
-StocksPortfolio TrackerAmerica's Markets U.S. slaps $1.3B in penalties on Swiss banksChocolate fries: McDonald’s hopes they'll spark Japan turnaroundThe future is now, the DeLorean is back in production tech
+StocksPortfolio TrackerAmerica's Markets Xerox reportedly plans split into two companiesVandeHei, Allen, other top players to leave PoliticoUnder Armour soars 23% with Stephen Curry tech
 
-Facebook soars 12% on surge in mobile ad sales
+Xerox reportedly plans split into two companies
 
-Facebook takes Apple's place as tech's Teflon co.
+Amazon is 'disintermediating' more parts of tech
 
-7 hours, 8 minutes | Columnist
+4 hours, 21 minutes | Shinal
 
-Theranos lab poses 'immediate jeopardy' to patients, say regulatorsYour next Android phone might 'see' like humansFacebook Groups reaches 1 billion users travel
+Amazon stock dives as sales, earnings disappointMicrosoft beats the Street on cloud, Windows 10 growthDropbox CEO, new diversity chief address goals with more 'firepower' travel
+
+Beyond the igloo: Weird and wonderful rentals on Airbnb
+
+Taste of Tampa: Flavors only found in Cigar City
+
+17 hours, 29 minutes | Food &. Wine
+
+Great regional food goes national as barbecue, burger chains expandEight things you should always do on a planeUnderwater paradise: Spectacular snorkeling in the Caribbean Reviewed.com
+
+How to wash stuffed animals
+
+Olympus keeps it old school with throwback PEN-F
+
+1 day, 13 hours | Tech
+
+New Viking ranges take a detour to ItalyT-shirt too small? Use this chart for the perfect fitItalian dishwashers finally arrive in your kitchen experience
 
 Exclusive: First look at Uniworld's new river ship in India
 
-Guns at checkpoints: Texas airports tops for TSA 'catches'
-
-16 hours, 19 minutes | Flights
-
-Vermont's best breweries and distilleries near ski towns14 stunning countryside retreatsGet the Caribbean for less: Book an Airbnb! Reviewed.com
-
-New Viking ranges take a detour to Italy
-
-T-shirt too small? Use this chart for the perfect fit
-
-1 day, 11 hours | Tech
-
-Italian dishwashers finally arrive in your kitchenThis isn't your grandmother's gas rangeThis luxury range is unlike any other experience
-
-Get the Caribbean for less: Book an Airbnb!
-
-Taste the future of fast-casual food in New York City
+Vermont's best breweries and distilleries near ski towns
 
 2 days, 6 hours | Food &. Wine
 
-Are you brave enough? 10 cruises for adventureExclusive: Everything Is Awesome in Legoland's new Lego Movie 4DTour Las Vegas' historic Plaza Hotel &. Casino VOICES Rieder
+Get the Caribbean for less: Book an Airbnb! Exclusive: Everything Is Awesome in Legoland's new Lego Movie 4DTour Las Vegas' historic Plaza Hotel &. Casino VOICES Rieder
 
-Rieder: Trump meets his match in Kelly
-
-Voices
-
-Voices: The real Iowa caucuses
+Rieder: Trump meets his match in Megyn Kelly
 
 Opinion
 
-Trump, Sanders may be changing Iowa: Column
+Trump boycott may give the lead to Cruz: Column
+
+Opinion
+
+The standoff in Oregon: Our view
+
+Opinion
+
+Low oil prices produce calamity: Opposing view
+
+OnPolitics
+
+Learn how the Iowa caucuses work in 60 seconds
 
 Super-Bowl
 
 Ad Meter: Vote for the all-time best Super Bowl commercial
-
-Opinion
-
-Planned Parenthood videos an ugly truth: Daleiden
 
 Super-Bowl
 
@@ -359,29 +353,25 @@ We rank the 50 best Super Bowl commercials
 
 Nation Now
 
-So a journalist and her comedian husband walk into a news podcast ...
+Quiz: Test your black history knowledge
 
-Nation Now
-
-In 73 seconds, everything changed for Challenger
-
-*   Militia standoff at Oregon's Malheur National Wildlife Refuge
-*   Remembering Abe Vigoda
+*   Photos: The seventh Republican debate
+*   A look at popemobiles through the years
 *   One great photo from every Super Bowl in history
 *   Your Take: Dazzling photos to cure your winter blues
 *   January political cartoons from Gannett cartoonists
 
 Trending on Social
 
-*   Emmanuel Omogbo, Colorado State get back to work following family tragedy
+*   Sonic boom rattles some on East Coast
     
-*   Film: Survivors' kin tell Holocaust stories
+*   White House wants companies to submit pay data to close gender gap
     
-*   Tyra Banks welcomes 'miracle baby boy'
+*   Super Bowl’s first black quarterback defends Cam Newton
     
-*   Mizzou professor who called for 'muscle' suspended
+*   Bank of Japan introduces negative interest rate to boost economy
     
-*   Serena Williams soars in semis, advances to Australian Open final
+*   Debate analysis: The man who wasn't there? He was.
     
 
 AD CONTENT Right Now
@@ -463,7 +453,7 @@ Opinion
 *   Voices
 *   Leaders
 
-WeatherElections 2016
+WeatherElections 2016AD Meter
 
 © 2016 USA TODAY, a division of Gannett Satellite Information Network, Inc.
 
