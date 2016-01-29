@@ -1,4 +1,4 @@
-Finding great jobs for great people **over 500,000 jobs** | **25 million CVs** | **13.6 million active subscribers** | **50 million monthly visits**
+Finding great jobs for great people **over 600,000 jobs** | **26 million searchable CVs** | **16 million active subscribers** | **50 million monthly visits**
 
 *   **Home**
 *   **Find a job**
