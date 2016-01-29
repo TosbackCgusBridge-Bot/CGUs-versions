@@ -9,8 +9,6 @@ Seeking Alpha
 
 *   Earnings Center
 
-*   ETF Hub
-
 *   Income Investing
 
 *   Investing Ideas
