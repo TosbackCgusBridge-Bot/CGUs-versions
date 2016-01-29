@@ -36,7 +36,7 @@ Help Section
 *   Terms of Use
 *   Site Map
 
-Privacy Policy
+Privacy Policy .
 
 **Last Updated on November 11, 2015.**
 
