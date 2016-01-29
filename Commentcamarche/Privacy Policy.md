@@ -122,9 +122,9 @@ Réalisé sous la direction de Jean-François PILLOU, fondateur de CommentCaMarc
   
 A voir également
 
-*   WWW.BOURSEDETUDE.ORG
 *   Tubidy
-*   Conditions Générales D'utilisation
+*   Conditions générales
+*   Watsapp
 *   Modèle Condition Générale de Vente » Forum - Webmaster
 *   Nouvelles conditions générales PEL 2016 » Forum - Internet Explorer
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
