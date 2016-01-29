@@ -13,6 +13,7 @@ Skip to Main Content. Site navigation Fidelity.com Home
 Search Fidelity.com
 
 *   Accounts &. Trade
+    
     *   PortfolioLog In Required
     *   Account PositionsLog In Required
     *   TradeLog In Required
@@ -26,6 +27,8 @@ Search Fidelity.com
     *   StatementsLog In Required
     *   Tax InformationLog In Required
     *   Retirement DistributionsLog In Required
+    
+    *   OFFER See our featured trading offer. Learn more.
 *   News &. Insights
     *   News
     *   Insights
