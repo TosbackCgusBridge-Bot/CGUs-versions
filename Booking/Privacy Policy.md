@@ -1,4 +1,4 @@
-2016-01-27 06:30:05
+2016-01-29 06:31:06
 
 Privacy and Cookies
 
@@ -191,4 +191,4 @@ Who's responsible for the processing of personal data on the Booking.com website
 
 Booking.com B.V. controls the processing of personal data on its websites and mobile apps. Booking.com B.V. is a private limited liability company, incorporated under the laws of the Netherlands and has its offices at Herengracht 597, 1017 CE Amsterdam, the Netherlands. The Dutch Data Protection Authority Notification number is 1288246. If you have any suggestions or comments about this privacy notice, please send an email to customer.service@booking.com.
 
-_Last updated, August 2014_
+_Last updated January 2016_
