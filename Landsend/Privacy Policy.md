@@ -19,15 +19,15 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Women
         *   Featured Shops
             *   Back to Women Featured Shops
-            *   Outerwear Shop
             *   Swim Shop
-            *   New Activewear 2016
+            *   Cardigan Shop
             *   Best of Spring
+            *   Tunic Shop
             
             *   New Arrivals
             *   The Starfish Collection
-            *   Jeans Guide
-            *   Cardigan Shop
+            *   Swim Finder
+            *   Wear to Work
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
@@ -38,7 +38,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Petite Plus
             *   Tall Plus
     *   *   Categories
-            *   Coats
+            *   Swimsuits
             *   Sweaters
             *   Knit Tops &. Tees
             *   Shirts &. Blouses
@@ -49,7 +49,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Skirts
             *   Blazers &. Jackets
             *   Activewear
-            *   Swimsuits
+            *   Coats
             *   Sleepwear
             *   Shoes
             *   Accessories
@@ -59,13 +59,13 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Men
         *   Featured Shops
             *   Back to Men Featured Shops
-            *   Outerwear Shop
-            *   Wear to Work
             *   No Iron Shop
             *   Supima Shirts &. Sweaters
+            *   Wear to Work
+            *   Vacation Getaway
             
             *   New Arrivals
-            *   Outerwear Guide
+            *   Spring Style Guide
             *   Tailored Fit Shop
             *   Slim Fit Shop
             *   Sale
@@ -76,29 +76,28 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Tall
             *   Big &. Tall
     *   *   Categories
-            *   Coats
-            *   Polo Shirts
             *   Dress Shirts
             *   Casual Shirts
+            *   Polo Shirts
             *   Knit Tops &. Tees
+            *   Activewear
             *   Sweaters
             *   Sportcoats &. Blazers
             *   Pants
             *   Jeans
             *   Shorts
-            *   Activewear
             *   Swimsuits
-            *   Sleepwear
-            *   Shoes
+            *   Coats
             *   Accessories
-            *   Bags
+            *   Sleepwear
             *   Underwear &. Long Underwear
+            *   Shoes
 *   Kids
     *   *   Back to Main Menu Kids
         *   Featured Shops
             *   Back to Kids Featured Shops
-            *   Outerwear Shop
             *   Swim Shop
+            *   Easter Dressing
             *   School Uniforms
             *   Shoes &. Boots
             
@@ -117,7 +116,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
                 *   Big Boy (size 7-20)
     *   *   **Girls**
             *   Back to Kids Girls
-            *   Outerwear
+            *   Swimsuits
             *   Tops
             *   Sweaters
             *   Dresses
@@ -127,14 +126,14 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Shorts
             *   Blazers &. Jackets
             *   Sleepwear
-            *   Swimsuits
+            *   Outerwear
             *   Shoes
             *   Accessories
             *   Long Underwear
             *   Backpacks &. Lunch Boxes
     *   *   **Boys**
             *   Back to Kids Boys
-            *   Outerwear
+            *   Swimsuits
             *   Tops
             *   Sweaters
             *   Pants
@@ -142,8 +141,8 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Shorts
             *   Blazers &. Jackets
             *   Sleepwear
+            *   Outerwear
             *   Activewear
-            *   Swimsuits
             *   Shoes
             *   Accessories
             *   Long Underwear
@@ -166,6 +165,9 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Girls
         *   Boys
         
+        *   Water Shoes &. Sandals
+        *   Totes &. Beach Bags
+        *   Beach Towels
         *   Women's Swim Finder
 *   Shoes
     *   *   Back to Main Menu Shoes
@@ -190,12 +192,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Home Buying Guide
             *   Sale
         
-        *   **More For the Home**
-            *   Back to All Home More For the Home
-            *   Kids Home
-            *   Dog Shop
-            *   Luggage &. Bags
-            *   Canvas Totes
     *   *   **Bedding**
             *   Back to All Home Bedding
             *   Sheets &. Pillowcases
@@ -208,12 +204,13 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Towels
             *   Rugs &. Mats
             *   Beach Towels
+            *   Shower Curtains
         *   **Décor**
             *   Back to All Home Décor
-            *   Storage &. Organization
-            *   Doormats
-            *   Tabletop
-            *   Seasonal
+        *   **Kids' Room**
+            *   Back to All Home Kids' Room
+        *   **Dog Shop**
+            *   Back to All Home Dog Shop
         
 *   Uniforms
     *   *   Back to Main Menu Uniforms
@@ -238,7 +235,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Adult
     *   *   **Girls &. Women**
             *   Back to Uniforms Girls &. Women
-            *   Outerwear
             *   Tops
             *   Sweaters
             *   Pants
@@ -246,17 +242,18 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Dresses &. Jumpers
             *   Skirts &. Skorts
             *   Activewear
+            *   Outerwear
             *   Shoes
             *   Accessories
             *   Backpacks &. Bags
     *   *   **Boys &. Men**
             *   Back to Uniforms Boys &. Men
-            *   Outerwear
             *   Tops
             *   Sweaters
             *   Pants
             *   Shorts
             *   Activewear
+            *   Outerwear
             *   Shoes
             *   Accessories
             *   Backpacks &. Bags
@@ -316,6 +313,7 @@ Bag0
     *   Manage Account
     *   Edit Order
     *   Order History
+    *   Refer a Friend
     *   Sign Out
 *   Ship To
 
@@ -547,12 +545,12 @@ Learn More Shop Our Catalog
 
 Environmentally friendly, easy to shop and always at your fingertips.
 
-Browse Catalog A Closer Look at The Land
+Browse Catalog It's Beautiful Here
 
-The new Fall Edit by _Vogue_  
-Market stylist\* Cara Crowley.
+The New Spring 2016  
+ecatalog is here.
 
-Shop Cara's Picks Shop Your Way Rewards
+Explore the Ecatalog Shop Your Way Rewards
 
 Make every purchase rewarding. Join today. Earn today. It's free.
 
