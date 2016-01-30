@@ -4,6 +4,7 @@ für 1&1 Mail &. Media GmbH, München, hat der Schutz Ihrer persönlichen Inform
 
 Erhebung, Verarbeitung und Nutzung personenbezogener Daten  
 Erhebung, Verarbeitung und Nutzung von Nutzungs- und Verkehrsdaten  
+Ort der Datenverarbeitung und Maßnahmen zur Datensicherheit  
 Löschung von Daten  
 Weitergabe von Daten  
 Cookies &. nutzungsbasierte Onlinewerbung - Einsatz &. Wahlmöglichkeit  
@@ -37,6 +38,10 @@ Nutzungsdaten, wie zum Beispiel Angaben über Beginn, Ende und Umfang der Nutzun
 Soweit die Nutzungs- beziehungsweise Verkehrsdaten für Abrechnungszwecke erforderlich sind (Abrechnungsdaten), werden sie längstens bis zu sechs Monate nach Versendung der Rechnung gespeichert, darüber hinaus nur, wenn und solange der Nutzer Einwendungen gegen die Rechnung erhebt oder die Rechnung trotz Zahlungsaufforderung nicht bezahlt, oder gesetzliche Vorschriften die längere Aufbewahrung vorsehen.
 
 Wir unterliegen dem Deutschen Datenschutzrecht und der ständigen Aufsicht der Bundesbeauftragten für den Datenschutz und die Informationsfreiheit. Wir werden deswegen nie den Inhalt Ihrer E-Mails für eigene Zwecke auswerten. Wir sind gemäß §§109 Absatz 2. 100 Absatz 1 und 3 des Telekommunikationsgesetzes (TKG) verpflichtet Maßnahmen für die Stabilität und die Sicherheit des Netzes und der Systeme zu ergreifen.
+
+Ort der Datenverarbeitung und Maßnahmen zur Datensicherheit
+
+Alle Daten Ihres E-Mail Accounts bei der 1&1 Mail &. Media GmbH befinden sich ausschließlich in eigenen Hochleistungs-Rechenzentren innerhalb Deutschlands. Ihre Daten werden durch umfangreiche technische und organisatorische Sicherheitsmaßnahmen geschützt. Weitere Informationen zu Datenschutz und Datensicherheit erhalten Sie hier.
 
 Löschung von Daten
 
@@ -118,4 +123,4 @@ Bitte beachten Sie, dass diese Datenschutzhinweise jederzeit unter Beachtung der
 
 Falls Sie noch Fragen haben, können Sie uns gerne ebenfalls unter den oben genannten Adressen kontaktieren.
 
-06/2015
+01/2016
