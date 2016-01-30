@@ -263,8 +263,8 @@ Please read the Fidelity Funds Privacy Policy in conjunction with the Privacy Po
 The Fidelity Funds Privacy Policy is provided on behalf of the Fidelity Investments family of mutual funds.
 
   
-Effective June 2015   
-©1998-2015 FMR LLC. All Rights Reserved.  
+Effective June 2015    
+©1998-2016 FMR LLC. All Rights Reserved.  
   
 Questions?
 
@@ -275,7 +275,7 @@ Questions?
 
 View the Fidelity Investments and the Fidelity Funds Privacy Notice (PDF).
 
-627309.6.0
+627309.8.0
 
 *   Mutual Funds
 *   ETFs
