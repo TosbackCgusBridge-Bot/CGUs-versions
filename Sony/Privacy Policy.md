@@ -58,9 +58,9 @@ Sony on YouTube
 
 Play Video
 
-Take Trip Down Memory Lane With 1D
+Will Humankind Survive the Final Wave?
 
-Listen to "Made in the A.M."
+Find Out This Week
 
 Close
 
@@ -98,9 +98,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-6 things you'll want to know before you start The Witness: playstation.com. Don't worry, no spoilers!
+Watch @Sia’s perform #CheapThrills from #THISISACTING (out tmrw!) from last night’s @FallonTonight
 
-2016-01-27 03:31:40+00:00
+2016-01-29 08:47:41+00:00
 
 View Tweet
 
@@ -182,9 +182,9 @@ Check Out Z4
 
 Sony on Twitter
 
-It's here! V7 firmware for #SonyProUSA's F5 and F55. Download it: community.sony.com #F55 #F5 #CineAlta
+That looks great on you… Channel effortless cool with #Xperia C5 Ultra. sonymobile.com
 
-2016-01-27 01:09:19+00:00
+2016-01-29 07:39:03+00:00
 
 View Tweet
 
@@ -292,9 +292,9 @@ See the RX100 IV
 
 Sony on Twitter
 
-Get a Sneak Peek at the Star-Studded Documentary on Country Icon @LorettaLynn via @People
+Chasing waterfalls in Bali, Indonesia #ActionCam www.instagram.com
 
-2016-01-26 12:21:21+00:00
+2016-01-29 07:30:02+00:00
 
 View Tweet
 
