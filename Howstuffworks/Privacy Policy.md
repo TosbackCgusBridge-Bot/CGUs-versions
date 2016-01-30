@@ -66,11 +66,11 @@ Privacy Policy | HSW
 
 Up Next
 
-*   HowStuffWorks NOW: Internet of Things: Ask Your Mother Edition
-*   BrainStuff: Why Is Bird Poop White?
-*   Stuff Mom Never Told You: Sad After Sex?
-*   The 'World of Warcraft' Quiz
-*   Test Your Knowledge: Boston Celtics and Los Angeles Lakers
+*   HowStuffWorks NOW: Dutch Accept Pastafarianism. Are Dudeism and Jediism next?
+*   HowStuffWorks NOW: Lead Poisoning: Why It’s Happening Now
+*   FW: Thinking: Quantum Computing
+*   Not Just Rocks: The Geology Quiz
+*   Up, Up and Away: The SpaceX Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
