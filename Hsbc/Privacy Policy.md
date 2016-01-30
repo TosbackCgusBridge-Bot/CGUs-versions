@@ -34,12 +34,21 @@ Menu Explore HSBC.com Search
         *   Global Private Banking
         *   Retail Banking and Wealth Management
         *   Country contacts
+    *   Awards
+        
+    *   Advertising
+        
     *   Corporate governance expandCorporate governance
         *   Board committees
         *   Corporate governance codes
         *   Internal control
         *   Obligations of senior financial officers
         *   Employee share plans
+    *   Sponsorship expandSponsorship
+        *   Golf
+        *   Rugby
+        *   Culture
+        *   Other sponsorships
     *   Procurement expandProcurement
         *   Purchase order terms and conditions
     *   Contact us
@@ -100,15 +109,6 @@ Menu Explore HSBC.com Search
         *   Speeches
     *   Insight archive
         
-    *   Awards
-        
-    *   Advertising
-        
-    *   Sponsorship expandSponsorship
-        *   Golf
-        *   Rugby
-        *   Culture
-        *   Other sponsorships
 *   Careers in Careers
     
     We offer a world of interesting and varied opportunities. Learn about local and global careers and our values-led culture.
@@ -306,7 +306,9 @@ Site navigation About HSBC
 *   Leadership
 *   Company history
 *   Structure and network
+*   Advertising
 *   Corporate governance
+*   Sponsorship
 *   Procurement
 *   Contact us
 
@@ -330,9 +332,6 @@ News and insight
 
 *   Media resources
 *   Insight archive
-*   Awards
-*   Advertising
-*   Sponsorship
 
 Careers
 
