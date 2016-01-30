@@ -3,8 +3,9 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
+    *   Teen Vogue Editors Picks
     *   Bethany Mota
-    *   On Your Radar
+    *   Scene Stealers
     *   Borrowed from the Boys
     *   Tokyo Darling
     *   Throwback Tees
@@ -49,7 +50,7 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
-    *   On Your Radar
+    *   Teen Vogue Editors Picks
     *   Throwback Tees
     *   Brooklyn Calling
     *   Free State
