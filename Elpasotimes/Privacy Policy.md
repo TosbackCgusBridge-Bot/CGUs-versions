@@ -100,244 +100,232 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Elections Debate analysis: The man who wasn't there? He was.
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ News Sheriff in deadly Ore. standoff no stranger to battle
 
 TOP STORIES
 
-*   News FBI releases video of shooting death of Oregon protester
-*   OnPolitics Seventh Republican debate: Highlights from Iowa
-*   Music Jefferson Airplane’s Paul Kantner dies at 74
-*   White House: Pay data could close gender gap
-*   Carson: 'Putin is a one-horse country'
-*   Xerox reportedly plans split into two companies
-*   Trump holds rival event during debate
-*   No Trump, but Fox offered Wallace vs. Cruz
-*   Bank of Japan introduces negative interest rate
-*   Armour: Real reason behind Cam Newton criticism
-*   VandeHei, Allen, other top players to leave Politico
-*   CBS supports Carey: 'He’s almost always right'
+*   News Facebook, Instagram ban private gun sales
+*   Elections 37 pages of Clinton emails withheld as 'top secret'
+*   Sports Surfer free-falls 40 feet in jaw-dropping wipeout
+*   Mizzou prof. who called for 'muscle' cuts deal
+*   Chargers to stay in San Diego for now
+*   Phil Mickelson misses Farmers Insurance Open cut
+*   France threatens to recognize Palestinian state
+*   Lead levels in Flint water exceed filters' ability
+*   Pulitzer prize-winning expert denied WH clearance
+*   Pizza wars heat up with Super Bowl push
+*   Mom wants seat saved for dead son at graduation
+*   Ex-drug CEO Shkreli allegedly threatened the Wu
+
+Entertain This
+
+Teen built a life-size BB-8 with household items
+
+NBA
+
+Watch LeBron painfully botch fastbreak slam dunk
+
+Nancy Armour
+
+Armour: Real reason Cam Newton is criticized
+
+Elections
+
+The Iowa caucuses: An accident of history
+
+OUR PICKS Today in the Sky
+
+Boeing's new 737 MAX completes its maiden flight
 
 Nation Now
 
-Sonic boom rattles some on East Coast
+Black History Month: Obama says work isn't over
 
-Money
+Ad-Meter
 
-Expect to be tickled, inspired by Super Bowl ads
+Sign up to be a Super Bowl Ad Meter panelist
 
-Denver Broncos
+Komando
 
-Peyton Manning welcomes investigation on HGH allegations
+Five Windows 10 tricks you need to know
 
-News
+Even newborn eaglet siblings fight at the dinner table
 
-Amazon stock dives as sales, earnings disappoint
+When it comes to feeding time, these two newborn eaglets push and pull each other to get the first bite.
 
-OUR PICKS Flint Water Crisis
+1 of 18 See more video
 
-Amid denials, state workers in Flint got clean water
+Checking in from Panthers' Super Bowl 50 practice
 
-World
+USA TODAY Sports' Jeff Gluck reports from Carolina practice.
 
-Reporter's notebook: Syrian migrants in Austria
+2 of 18 See more video
 
-News
+Ride along with candidates on Iowa campaign trail
 
-Zika in the U.S.: We have infections, not outbreak
+18 hours, 19 stops and nine candidates. The Des Moines Register and Iowa City Press-Citizen staff photographers spent one day all over the state documenting a full day on the campaign trail in Iowa.
 
-NFL
+3 of 18 See more video
 
-Ranking the Super Bowl halftime shows, from worst to first
+Best of: Super Bowl ads you want to watch over and over
 
-'Affluenza' teen returns to Texas to face charges
+Nostalgia runs deep in these bite-size versions of the top Super Bowl ads of the last 27 years as scored by USA Today's Ad Meter.
 
-Ethan Couch sparked an international manhunt after disappearing while on a parole for a deadly drunk driving accident. He and his mom were found in Mexico in December.
+4 of 18 See more video
 
-1 of 20 See more video
+Dad found 'Not Guilty' for parenting his child
 
-How Mexican gray wolves are tracked in the wild
+Ronald Jackson took his daughter's phone away after deeming her text messages inappropriate. Two years in court later, he has been found not guilty of theft. Keri Lumm (@thekerilumm) reports.
 
-The annual Mexican gray wolf population survey in Alpine, Arizona shows that poaching is slowing the species' recovery. To combat this, researchers use GPS monitoring to keep tabs on the animals.
-
-2 of 20 See more video
-
-9-year-old collects almost 1000 Barbies, doesn't plan on keeping them
-
-A little girl in Virginia hopes to get her hands on 1000 Barbies so she can give them to the less fortunate. The dolls are coming in from all over the country and she's almost hit her goal! Keleigh Nealon (@keleighnealon) has the story!
-
-3 of 20 See more video
+5 of 18 See more video
 
 Like soccer and basketball? You'll love Futsal
 
 Futsal is a mix between soccer, basketball and hockey. It's a fast-paced sport made popular in Brazil and it's gaining popularity in the U.S.
 
-4 of 20 See more video
+6 of 18 See more video
 
 Plenty of zingers from GOP debate without Trump's help
 
 The GOP candidates still had plenty of jabs for the absent Donald Trump, the moderators, and of course, each other at the Fox News debate.
 
-5 of 20 See more video
-
-What you missed from the 7th GOP debate in 2 minutes
-
-The 7th Republican debate was the first without front-runner Donald Trump. The other candidates took advantage of his absence to try and sway voters ahead of the caucuses.
-
-6 of 20 See more video
+7 of 18 See more video
 
 Watch baby eagle wiggle out of its shell
 
 It took days for this eaglet to break free from its shell and join its newborn sibling. Southwest Florida Eagle Cam captured the magical moments.
 
-7 of 20 See more video
+8 of 18 See more video
+
+See nearly 60 years of Barbie's transformation in under 1 minute
+
+Barbie is out with three new body shapes and dozens of different features to make her look more like the girls who play with her. See how much the popular Mattel doll has changed since her 1959 debut.
+
+9 of 18 See more video
 
 Baby orca swimming with pod caught on camera
 
 Scientists at NOAA Fisheries captured video of a baby orca swimming with a pod of killer whales in Puget Sound near Seattle.
 
-8 of 20 See more video
+10 of 18 See more video
 
 NAACP leader opposes offensive shirts, but then says this
 
 The president of the Maricopa County, Arizona NAACP is drawing widespread ire for a remark he made about a female reporter. She didn't hear his comments at the time, but they were captured on tape.
 
-9 of 20 See more video
+11 of 18 See more video
+
+What you missed from the 7th GOP debate in 2 minutes
+
+The 7th Republican debate was the first without front-runner Donald Trump. The other candidates took advantage of his absence to try and sway voters ahead of the caucuses.
+
+12 of 18 See more video
+
+She overcame paralysis to win big in world competition
+
+Josee Lanzi prided herself in catching what she cooked. But an accident threatened her life and her career. She fought hard to compete at the 2015 World Food Championship and the results will warm your heart.
+
+13 of 18 See more video
+
+Michael Phelps joins ASU's 'curtain of distraction' in speedo
+
+Would you let an Olympic gold medalist distract you from making a free throw? Michael Phelps was hoping so when he joined Arizona State's 'curtain of distraction'.
+
+14 of 18 See more video
+
+Who got the most buzz on Twitter during the GOP debates?
+
+With the presidential nominating process starting Monday with the Iowa Caucuses, which candidates are generating the most "buzz"? This motion graphic shows the share of the conversation each candidate received on Twitter during each debate.
+
+15 of 18 See more video
 
 Puppy clinging to freeway median gets rescued
 
 A traffic camera reporter rushed to help out a dog who became stranded in the middle of an Arizona highway during rush hour traffic. Thanks to his quick thinking, she's alive. Sean Dowling (@seandowlingtv) has more.
 
-10 of 20 See more video
-
-5 things to know about the dangers of 'Dewshine'
-
-Tennessee health officials are warning about the risks of "Dewshine," a homemade cocktail made of Mountain Dew and racing fuel. The extremely poisonous concoction is already tied to the deaths of two teens.
-
-11 of 20 See more video
-
-The future is now, the DeLorean is back in production
-
-The DeLorean is back. A recent change in federal law allows a facility in Humble, Texas, to start making the vehicle for the first time in three decades, Houston NBC affiliate KPRC reported. The sleek, silver cars were made famous by the 1985 movie.
-
-12 of 20 See more video
-
-These are the most corrupt countries in the world
-
-Transparency International says corruption may be improving globally, although some countries saw their corruption levels rise since last year. Video provided by Newsy.
-
-13 of 20 See more video
-
-Move to Hawaii and Alaska, feel better
-
-Hawaii and Alaska take the top spots when it comes to well-being. The State of American Well-Being rankings is out and puts each state in its place. Keleigh Nealon (@keleighnealon) has the feel-good story.
-
-14 of 20 See more video
-
-Bracelets sent on a worldwide mission of kindness
-
-In 2013, Grace Murdock decided to make bracelets to help people track kindness. Murdock had no idea how these simple bracelets would change her life.
-
-15 of 20 See more video
+16 of 18 See more video
 
 What's the point of that tiny front pocket on your jeans?
 
 Levis Strauss and Co. debunks the mystery of why jeans have that small front pocket. Video provided by Newsy
 
-16 of 20 See more video
+17 of 18 See more video
 
 Uber is trying to tame drunk passengers with Bop-Its
 
 There have been several instances of Uber drivers getting attacked while picking up passengers. Now, Uber has come up with a solution - and it involves providing a classic '80s toy.
 
-17 of 20 See more video
+18 of 18 See more video Last VideoNext Video news
 
-Students surprise dining-hall employee with dream trip
+State TV: Iran flew drone over U.S. aircraft carrier
 
-A dining hall employee at Arizona State University was surprised by 150 students with an oversize check for nearly $2,500, printed on an image of the blues, pinks and greens of the Aurora Borealis.
+Six takeaways from the Iowa Republican debate
 
-18 of 20 See more video
+15 hours, 19 minutes | OnPolitics
 
-Tip for clearing your driveway
+FBI releases video of shooting death of Oregon protesterFlint water crisis drives widespread grassroots effortsEven newborn eaglet siblings fight at the dinner table sports
 
-A USA TODAY motion graphic showing how to clear your driveway to ensure that when a snowplow comes through you don't have to do it again. Source: Virginia Department of Transportation.
+Watch LeBron painfully botch this fastbreak dunk
 
-19 of 20 See more video
+Chargers in San Diego for now but have L.A. deal
 
-This is why you should NOT try and kiss wild hawks
+6 hours, 33 minutes | NFL
 
-I can't believe this has to be said but don't try and kiss wild hawks. Patrick Jones (@Patrick\_E\_Jones) explains what happened when someone did.
+Mickelson falls hard, misses cut at Torrey PinesSurfer free-falls 40 feet in jaw-dropping wipeoutX Games medalist sees positives since coming out life
 
-20 of 20 See more video Last VideoNext Video news
+WATCH: Hilary Duff even surprises herself with this celeb crush on…
 
-FBI releases video of shooting death of Oregon protester
+Cross WordsAll GamesEntertain This! Oprah's favorite birthday presentNetflix revives 'Gilmore Girls' with Graham, BledelKourtney Kardashian &. Scott Disick are together… in this #FBF pic money
 
-Debate analysis: The man who wasn't there? He was.
+Review: Chevrolet Impala Bi-Fuel is right car for wrong time
 
-7 minutes | Elections
+StocksPortfolio TrackerAmerica's Markets Misconceptions about selling your businessXerox makes official its split into two companies Go behind the counter of Papa John's and its new pledge tech
 
-Police: 6 dead in domestic murder-suicide in VirginiaHuckabee, Santorum show up at Trump's event after debateCyndi Lauper Takes 'Detour' to Nashville sports
+Facebook bans private gun sales
 
-Michael Phelps dons speedo to join student section
+Apple builds VR team, says report
 
-NBA All-Star reserves: Who got snubbed?
+11 hours, 5 minutes | News
 
-3 hours | NBA
+Ursula Burns' future at Xerox a big unknownFive Windows 10 tricks you need to knowXerox makes official its split into two companies travel
 
-Armour: Real reason behind Cam Newton criticismManning welcomes HGH investigationCBS defends embattled rules analyst life
+Live for less: Charming Cuenca, Ecuador, courts American expats
 
-Sia hides in plain sight (and big sound) on 'This Is Acting'
+Winter migration patterns of the super-rich
 
-Cross WordsAll GamesEntertain This! Jefferson Airplane’s Paul Kantner dies at 74Review: NBC's 'Apocalypse' is odd, inventive funNetflix, Amazon make it rain at Sundance money
+15 hours, 33 minutes | Flights
 
-GDP growth likely to slow but follow the jobs
+San Francisco-Singapore will be world's longest Dreamliner routeWizarding World of Harry Potter: A lifelong fan makes the pilgrimage10Best: San Francisco sites for Super Bowl visitors Reviewed.com
 
-StocksPortfolio TrackerAmerica's Markets Xerox reportedly plans split into two companiesVandeHei, Allen, other top players to leave PoliticoUnder Armour soars 23% with Stephen Curry tech
+GE's dishwasher tech promises sparkling dishware
 
-Xerox reportedly plans split into two companies
+How to use leftover produce
 
-Amazon is 'disintermediating' more parts of tech
+13 hours, 4 minutes | News
 
-4 hours, 21 minutes | Shinal
-
-Amazon stock dives as sales, earnings disappointMicrosoft beats the Street on cloud, Windows 10 growthDropbox CEO, new diversity chief address goals with more 'firepower' travel
-
-Beyond the igloo: Weird and wonderful rentals on Airbnb
+GE uses jet turbine tech for 'nuclear hot sauce'How to wash stuffed animalsOlympus keeps it old school with throwback PEN-F experience
 
 Taste of Tampa: Flavors only found in Cigar City
 
-17 hours, 29 minutes | Food &. Wine
+Underwater paradise: Spectacular snorkeling in the Caribbean
 
-Great regional food goes national as barbecue, burger chains expandEight things you should always do on a planeUnderwater paradise: Spectacular snorkeling in the Caribbean Reviewed.com
+1 day, 17 hours | Caribbean
 
-How to wash stuffed animals
+Exclusive: First look at Uniworld's new river ship in IndiaExclusive: Everything Is Awesome in Legoland's new Lego Movie 4DTour Las Vegas' historic Plaza Hotel &. Casino VOICES Opinion
 
-Olympus keeps it old school with throwback PEN-F
-
-1 day, 13 hours | Tech
-
-New Viking ranges take a detour to ItalyT-shirt too small? Use this chart for the perfect fitItalian dishwashers finally arrive in your kitchen experience
-
-Exclusive: First look at Uniworld's new river ship in India
-
-Vermont's best breweries and distilleries near ski towns
-
-2 days, 6 hours | Food &. Wine
-
-Get the Caribbean for less: Book an Airbnb! Exclusive: Everything Is Awesome in Legoland's new Lego Movie 4DTour Las Vegas' historic Plaza Hotel &. Casino VOICES Rieder
-
-Rieder: Trump meets his match in Megyn Kelly
+Trump, Jeb and the death of WASPy power: Column
 
 Opinion
 
-Trump boycott may give the lead to Cruz: Column
+Ack! Here come Trump's first 100 days: Column
 
 Opinion
 
-The standoff in Oregon: Our view
+No-shows at the GOP debate: Our view
 
 Opinion
 
-Low oil prices produce calamity: Opposing view
+Your dog could make me sick: Column
 
 OnPolitics
 
@@ -363,15 +351,15 @@ Quiz: Test your black history knowledge
 
 Trending on Social
 
-*   Sonic boom rattles some on East Coast
+*   Michigan governor: No time frame for Flint water fix
     
-*   White House wants companies to submit pay data to close gender gap
+*   37 pages of Hillary Clinton emails withheld as 'top secret'
     
-*   Super Bowl’s first black quarterback defends Cam Newton
+*   This teenager built a life-sized, functional BB-8 with household items
     
-*   Bank of Japan introduces negative interest rate to boost economy
+*   Anguished mom wants seat saved for son at graduation
     
-*   Debate analysis: The man who wasn't there? He was.
+*   Sheriff in Oregon standoff no stranger to battle - and peacekeeping
     
 
 AD CONTENT Right Now
