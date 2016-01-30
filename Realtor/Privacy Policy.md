@@ -151,5 +151,25 @@ Page Content
 *   Effective Date and Modifications
 *   Contacting Us
 
-Corporate: Bookmark this Site | Site Map | Help | Sign In | About Move | Contact Us | Link to Us | Investor Relations | Media Room | Careers | Advertise with Us | Privacy Policy | Ad Choices | Terms of Use Operated by Move, Inc.: Move.com® | Homes by REALTOR.com® | Real Estate News Blog by REALTOR.com® | Real Estate Trends Blog | Movers - Moving.com  
-Senior Housing | TOP PRODUCER® | HomeInsight.com | New Homes | Apartments for Rent | Property Values © 2013 Move, Inc. All rights reserved. Equal Housing Opportunity.
+*   About us
+*   Careers
+*   Feedback
+*   Media Room
+
+*   Ad Choices
+*   Advertise with us
+*   Agent support
+*   Products
+    *   ListHub
+    *   TigerLead
+    *   Top Producer
+    *   Homefair
+    *   Home Insight
+    *   Move.com
+    *   Relocation
+*   Privacy / Terms
+*   Sitemap
+
+©1995-2015 National Association of REALTORS® and Move, Inc. All rights reserved.
+
+realtor.com® is the official site of the National Association of REALTORS® and is operated by Move, Inc., a subsidiary of News Corp.
