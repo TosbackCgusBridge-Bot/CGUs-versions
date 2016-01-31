@@ -100,208 +100,226 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ News Sheriff in deadly Ore. standoff no stranger to battle
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Movies 'Spotlight,' diversity win big at SAGs
 
 TOP STORIES
 
-*   News Facebook, Instagram ban private gun sales
-*   Elections 37 pages of Clinton emails withheld as 'top secret'
-*   Sports Surfer free-falls 40 feet in jaw-dropping wipeout
-*   Mizzou prof. who called for 'muscle' cuts deal
-*   Chargers to stay in San Diego for now
-*   Phil Mickelson misses Farmers Insurance Open cut
-*   France threatens to recognize Palestinian state
-*   Lead levels in Flint water exceed filters' ability
-*   Pulitzer prize-winning expert denied WH clearance
-*   Pizza wars heat up with Super Bowl push
-*   Mom wants seat saved for dead son at graduation
-*   Ex-drug CEO Shkreli allegedly threatened the Wu
+*   Entertain This 9 worst dressed at the SAGs
+*   Entertain This Idris Elba: 'Welcome to diverse TV'
+*   Entertain This Leo and Kate were utter perfection at the SAG Awards
+*   Trump regains lead in final Iowa Poll
+*   Clinton holds on to small lead in final Iowa Poll
+*   Iowa elections chief calls out Cruz on mailings
+*   Trump: When audiences get bored I use ‘the wall’
+*   1 dead, more wounded at Denver motorcycle event
+*   Two remaining fugitive Calif. inmates caught in SF
+*   Two 'Compton' stars see industry change happening
+*   Mom finds son’s rare eye cancer with camera flash
+*   Police look into new Johnny Manziel incident
 
-Entertain This
+Movies
 
-Teen built a life-size BB-8 with household items
+'Birth of A Nation' takes top Sundance awards
 
-NBA
+News
 
-Watch LeBron painfully botch fastbreak slam dunk
+Pulitzer-winner denied White House clearance
 
-Nancy Armour
+Tennis
 
-Armour: Real reason Cam Newton is criticized
-
-Elections
-
-The Iowa caucuses: An accident of history
-
-OUR PICKS Today in the Sky
-
-Boeing's new 737 MAX completes its maiden flight
+Serena's classy message to Aussie Open winner
 
 Nation Now
 
-Black History Month: Obama says work isn't over
+Drummer falls out window at Nashville honky tonk
 
-Ad-Meter
+OUR PICKS NBA
 
-Sign up to be a Super Bowl Ad Meter panelist
+LeBron James accidentally wore the wrong shorts
 
-Komando
+Nation Now
 
-Five Windows 10 tricks you need to know
+Mercedes-Benz auctions for record $9.9 million
+
+Nation Now
+
+Former Seattle zoo elephant dies at Oklahoma City Zoo
+
+NFL
+
+Ad Meter 50 for 50th: Budweiser dominating Final 4 matchups
+
+Check out these cool features on Windows 10
+
+Microsoft's Windows 10 is now installed on more than 200 million gadgets worldwide.
+
+1 of 21 See more video
+
+5 things you should always do on a plane
+
+Don't put your comfort or health at risk, and always do these five things as soon as you get on the plane.
+
+2 of 21 See more video
+
+Apple is late to the virtual-reality game
+
+Apple is building its augmented reality and virtual reality resources but, in classic Apple fashion, doesn't seem eager to be a pioneer in the market. Video provided by Newsy
+
+3 of 21 See more video
+
+Super-fast space laser satellites could help save lives on earth
+
+The European Space Agency just launched the first node in a new satellite network that could help first responders on Earth. Video provided by Newsy
+
+4 of 21 See more video
+
+Drummer falls out window of Nashville honky tonk
+
+The Don Kelley band's drummer played so hard at Robert's Western World he fell backwards, crashing through a plate glass window. Ty Anderson from the Indianapolis, Indiana area caught the accident on camera and said the drummer was not hurt.
+
+5 of 21 See more video
+
+Just Cool Cars: Chevy Sedan Delivery
+
+USA TODAY's Chris Woodyard takes a look at a 1960 Chevy sedan delivery truck.
+
+6 of 21 See more video
 
 Even newborn eaglet siblings fight at the dinner table
 
 When it comes to feeding time, these two newborn eaglets push and pull each other to get the first bite.
 
-1 of 18 See more video
+7 of 21 See more video
 
-Checking in from Panthers' Super Bowl 50 practice
+Shark swallows another shark in Seoul aquarium
 
-USA TODAY Sports' Jeff Gluck reports from Carolina practice.
+Visitors to a giant aquarium in are presented with the gory aftermath of a territorial dispute between two sharks, which left one dead inside the mouth and gullet of the other. Video provided by AFP
 
-2 of 18 See more video
-
-Ride along with candidates on Iowa campaign trail
-
-18 hours, 19 stops and nine candidates. The Des Moines Register and Iowa City Press-Citizen staff photographers spent one day all over the state documenting a full day on the campaign trail in Iowa.
-
-3 of 18 See more video
+8 of 21 See more video
 
 Best of: Super Bowl ads you want to watch over and over
 
 Nostalgia runs deep in these bite-size versions of the top Super Bowl ads of the last 27 years as scored by USA Today's Ad Meter.
 
-4 of 18 See more video
+9 of 21 See more video
 
 Dad found 'Not Guilty' for parenting his child
 
 Ronald Jackson took his daughter's phone away after deeming her text messages inappropriate. Two years in court later, he has been found not guilty of theft. Keri Lumm (@thekerilumm) reports.
 
-5 of 18 See more video
+10 of 21 See more video
 
 Like soccer and basketball? You'll love Futsal
 
 Futsal is a mix between soccer, basketball and hockey. It's a fast-paced sport made popular in Brazil and it's gaining popularity in the U.S.
 
-6 of 18 See more video
-
-Plenty of zingers from GOP debate without Trump's help
-
-The GOP candidates still had plenty of jabs for the absent Donald Trump, the moderators, and of course, each other at the Fox News debate.
-
-7 of 18 See more video
+11 of 21 See more video
 
 Watch baby eagle wiggle out of its shell
 
 It took days for this eaglet to break free from its shell and join its newborn sibling. Southwest Florida Eagle Cam captured the magical moments.
 
-8 of 18 See more video
+12 of 21 See more video
 
 See nearly 60 years of Barbie's transformation in under 1 minute
 
 Barbie is out with three new body shapes and dozens of different features to make her look more like the girls who play with her. See how much the popular Mattel doll has changed since her 1959 debut.
 
-9 of 18 See more video
+13 of 21 See more video
+
+5 things you should always do on a plane
+
+Don't put your comfort or health at risk, and always do these five things as soon as you get on the plane.
+
+14 of 21 See more video
 
 Baby orca swimming with pod caught on camera
 
 Scientists at NOAA Fisheries captured video of a baby orca swimming with a pod of killer whales in Puget Sound near Seattle.
 
-10 of 18 See more video
+15 of 21 See more video
 
 NAACP leader opposes offensive shirts, but then says this
 
 The president of the Maricopa County, Arizona NAACP is drawing widespread ire for a remark he made about a female reporter. She didn't hear his comments at the time, but they were captured on tape.
 
-11 of 18 See more video
+16 of 21 See more video
 
 What you missed from the 7th GOP debate in 2 minutes
 
 The 7th Republican debate was the first without front-runner Donald Trump. The other candidates took advantage of his absence to try and sway voters ahead of the caucuses.
 
-12 of 18 See more video
-
-She overcame paralysis to win big in world competition
-
-Josee Lanzi prided herself in catching what she cooked. But an accident threatened her life and her career. She fought hard to compete at the 2015 World Food Championship and the results will warm your heart.
-
-13 of 18 See more video
+17 of 21 See more video
 
 Michael Phelps joins ASU's 'curtain of distraction' in speedo
 
 Would you let an Olympic gold medalist distract you from making a free throw? Michael Phelps was hoping so when he joined Arizona State's 'curtain of distraction'.
 
-14 of 18 See more video
-
-Who got the most buzz on Twitter during the GOP debates?
-
-With the presidential nominating process starting Monday with the Iowa Caucuses, which candidates are generating the most "buzz"? This motion graphic shows the share of the conversation each candidate received on Twitter during each debate.
-
-15 of 18 See more video
+18 of 21 See more video
 
 Puppy clinging to freeway median gets rescued
 
 A traffic camera reporter rushed to help out a dog who became stranded in the middle of an Arizona highway during rush hour traffic. Thanks to his quick thinking, she's alive. Sean Dowling (@seandowlingtv) has more.
 
-16 of 18 See more video
+19 of 21 See more video
 
 What's the point of that tiny front pocket on your jeans?
 
 Levis Strauss and Co. debunks the mystery of why jeans have that small front pocket. Video provided by Newsy
 
-17 of 18 See more video
+20 of 21 See more video
 
 Uber is trying to tame drunk passengers with Bop-Its
 
 There have been several instances of Uber drivers getting attacked while picking up passengers. Now, Uber has come up with a solution - and it involves providing a classic '80s toy.
 
-18 of 18 See more video Last VideoNext Video news
+21 of 21 See more video Last VideoNext Video news
 
-State TV: Iran flew drone over U.S. aircraft carrier
+Two remaining fugitive Calif. inmates caught in San Francisco
 
-Six takeaways from the Iowa Republican debate
+Rubio says Cruz ad strategy indicates concern
 
-15 hours, 19 minutes | OnPolitics
+14 hours, 33 minutes | OnPolitics
 
-FBI releases video of shooting death of Oregon protesterFlint water crisis drives widespread grassroots effortsEven newborn eaglet siblings fight at the dinner table sports
+Oregon standoff grinds on as Bundy brothers denied bailRed carpet photos: Screen Actors Guild Awards 2016Stars Shine on the SAG Awards Red Carpet sports
 
-Watch LeBron painfully botch this fastbreak dunk
+The good and bad from NHL All-Star skills competition
 
-Chargers in San Diego for now but have L.A. deal
+Police look into incident involving Manziel, ex
 
-6 hours, 33 minutes | NFL
+10 hours, 13 minutes | NFL
 
-Mickelson falls hard, misses cut at Torrey PinesSurfer free-falls 40 feet in jaw-dropping wipeoutX Games medalist sees positives since coming out life
+D'backs get former All-Star SS in five-player dealCavs run by Spurs for elusive win over NBA's elitePGA and LPGA golfers card ultra-rare double eagles life
 
-WATCH: Hilary Duff even surprises herself with this celeb crush on…
+'Spotlight,' diversity win big at SAGs
 
-Cross WordsAll GamesEntertain This! Oprah's favorite birthday presentNetflix revives 'Gilmore Girls' with Graham, BledelKourtney Kardashian &. Scott Disick are together… in this #FBF pic money
+Cross WordsAll GamesEntertain This! Winners: Who took home SAG Awards?Actors recall their most memorable directing noteThe snacks your favorite celebrities will be eating this Super Bowl… money
 
-Review: Chevrolet Impala Bi-Fuel is right car for wrong time
+Mercedes-Benz auctions for record $9.9 million
 
-StocksPortfolio TrackerAmerica's Markets Misconceptions about selling your businessXerox makes official its split into two companies Go behind the counter of Papa John's and its new pledge tech
+StocksPortfolio TrackerAmerica's Markets Review: Chevrolet Impala Bi-Fuel is right car for wrong timeXerox makes official its split into two companies Couple count savings from ‘No Spend January’ tech
+
+Thanks to tech, it's time to telecommute
 
 Facebook bans private gun sales
 
-Apple builds VR team, says report
+22 hours, 25 minutes | News
 
-11 hours, 5 minutes | News
+Super-fast space laser satellites could help save lives on earthApple is late to the virtual-reality gameTesla CEO Elon Musk exercises $100M in stock options travel
 
-Ursula Burns' future at Xerox a big unknownFive Windows 10 tricks you need to knowXerox makes official its split into two companies travel
+Vegas hotels emerge from renovations better than ever
 
-Live for less: Charming Cuenca, Ecuador, courts American expats
+Party on: The 10 best Carnivals in the Caribbean
 
-Winter migration patterns of the super-rich
+1 day, 6 hours | Caribbean
 
-15 hours, 33 minutes | Flights
-
-San Francisco-Singapore will be world's longest Dreamliner routeWizarding World of Harry Potter: A lifelong fan makes the pilgrimage10Best: San Francisco sites for Super Bowl visitors Reviewed.com
+Winter migration patterns of the super-richBoeing's new 737 MAX completes its maiden flightLive for less: Charming Cuenca, Ecuador, courts American expats Reviewed.com
 
 GE's dishwasher tech promises sparkling dishware
 
 How to use leftover produce
 
-13 hours, 4 minutes | News
+1 day, 13 hours | News
 
 GE uses jet turbine tech for 'nuclear hot sauce'How to wash stuffed animalsOlympus keeps it old school with throwback PEN-F experience
 
@@ -309,57 +327,57 @@ Taste of Tampa: Flavors only found in Cigar City
 
 Underwater paradise: Spectacular snorkeling in the Caribbean
 
-1 day, 17 hours | Caribbean
+2 days, 17 hours | Caribbean
 
-Exclusive: First look at Uniworld's new river ship in IndiaExclusive: Everything Is Awesome in Legoland's new Lego Movie 4DTour Las Vegas' historic Plaza Hotel &. Casino VOICES Opinion
+Exclusive: First look at Uniworld's new river ship in IndiaExclusive: Everything Is Awesome in Legoland's new Lego Movie 4DTour Las Vegas' historic Plaza Hotel &. Casino VOICES Ad-Meter
+
+Sign up to be a Super Bowl Ad Meter panelist
+
+NFL
+
+Column: Super Bowl matchup masks an ugly year on field
+
+Saltzman
+
+Thanks to tech, it's time to telecommute
+
+Opinion
 
 Trump, Jeb and the death of WASPy power: Column
-
-Opinion
-
-Ack! Here come Trump's first 100 days: Column
-
-Opinion
-
-No-shows at the GOP debate: Our view
-
-Opinion
-
-Your dog could make me sick: Column
-
-OnPolitics
-
-Learn how the Iowa caucuses work in 60 seconds
-
-Super-Bowl
-
-Ad Meter: Vote for the all-time best Super Bowl commercial
-
-Super-Bowl
-
-We rank the 50 best Super Bowl commercials
 
 Nation Now
 
 Quiz: Test your black history knowledge
 
-*   Photos: The seventh Republican debate
-*   A look at popemobiles through the years
-*   One great photo from every Super Bowl in history
-*   Your Take: Dazzling photos to cure your winter blues
+Opinion
+
+Ack! Here come Trump's first 100 days: Column
+
+Super-Bowl
+
+Ad Meter: Vote for the all-time best Super Bowl commercial
+
+OnPolitics
+
+Learn how the Iowa caucuses work in 60 seconds
+
+*   Migrant crisis continues to plague Europe
+*   Australian Open women's final
+*   Day in celebrities
+*   Boeing's new 737 MAX makes its maiden flight
 *   January political cartoons from Gannett cartoonists
 
 Trending on Social
 
-*   Michigan governor: No time frame for Flint water fix
+*   New Zealand town being 'targeted' by great white sharks
     
 *   37 pages of Hillary Clinton emails withheld as 'top secret'
     
-*   This teenager built a life-sized, functional BB-8 with household items
+*   Trump regains lead in final Iowa Poll before caucuses
     
-*   Anguished mom wants seat saved for son at graduation
+*   Leonardo DiCaprio: 'It’s a sin to destroy our planet'
     
-*   Sheriff in Oregon standoff no stranger to battle - and peacekeeping
+*   Fan appreciation goes both ways for SAG honoree Carol Burnett
     
 
 AD CONTENT Right Now
