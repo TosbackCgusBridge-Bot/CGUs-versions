@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14444869397
+true true L14448485068
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Fri Jan 29 11:14:46 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p32.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Sat Jan 30 11:15:40 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -68,13 +68,11 @@ Shop Bras40% Off Sleepwear
 
 Select styles
 
-Shop Sleepwear Shop Ambrielle Save On Jewelry For Your Sweetheart 20 to 60% Off Jewelry
+Shop Sleepwear Shop Ambrielle Valentine's Day Jewelry On Sale 20 to 60% Off Jewelry
 
-A Sweetheart Of A Deal | Reserve in store now and get opening day savings!
+Select styles
 
-Select styles. Use code: 2JEWELRY
-
-Shop Jewelry Get details   Up to 80% Off Clearance 60 to 80% Off Red Zone Clearance
+Shop Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Up to 80% Off Clearance 60 to 80% Off Red Zone Clearance
 
 New Markdowns In Store and Online
 
