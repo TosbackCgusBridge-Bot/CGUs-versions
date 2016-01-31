@@ -53,7 +53,6 @@ Aéropostale
     *   Teen Vogue Editors Picks
     *   Throwback Tees
     *   Brooklyn Calling
-    *   Free State
     *   Uniform
     *   Online Only
     *   Extended Sizes
