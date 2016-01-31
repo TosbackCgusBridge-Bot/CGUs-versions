@@ -3,13 +3,17 @@ Toggle navigation  
 *   Find
     *   People
     
-    *   Lottery
+    *   Lottery Results
     
     *   Weather
     
     *   Maps
     
     *   Cars
+    
+    *   Popular Categories
+    
+    *   State Directory
 
 *   Join
 *   •
