@@ -97,14 +97,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Thu, Jan 28, 2016 Security Best Practices to Drive Trust in IoT
-
-In response to the increasing levels of data breaches and the global importance of privacy and data security, in 2010 the Online Trust Alliance (OTA) and dozens of global organizations embraced Data Protection Day as Data Privacy &. Protection Day, emphasizing the need to look at the long-term impact to consumers of data collection, use and protection practices.
-
-Thu, Jan 28, 2016 Data Privacy Day - Cyber Breach Forum &. Reception
-
-Join us on January 28 as experts in law enforcement, forensics and security, policy and communications answer these questions through insightful discussions about cybersecurity trends and best practices on how to prepare for and respond to a cybersecurity event.  It’s an environment that begs a number of questions. How can organizations prepare for cybersecurity incidents in a way that keeps both business interests and customer satisfaction at the forefront?
-
 Wed, Feb 3, 2016 Highlights of the 2016 Data Protection &. Breach Readiness Guide
 
 Webinar to review highlights of the 2016 Data Protection &. Breach Readiness Plan. Attend to learn best practices to help protect your data, complete risk assessments and develop an adequate response plan.  Note the webinar is scheduled at multiple times supporting international and North America attendees.
@@ -112,6 +104,16 @@ Webinar to review highlights of the 2016 Data Protection &. Breach Readiness Pla
 Tue, Feb 9, 2016 Start with Security - Seattle (FTC)
 
 The Federal Trade Commission will host a one-day conference in Seattle on Feb. 9, 2016, on how companies can build security into their products and services. The event will have a particular focus on guidance for startups and early stage businesses about how to make security considerations a part of a company’s culture from the start. FTC Commissioner Julie Brill will provide opening remarks for the conference, which will be the third “Start with Security” event nationwide.
+
+Wed, Feb 10, 2016 Creating Trust for the Internet of Things
+
+OTA's Craig Spiezle joins Scott Perry for this PECB Webinar on increasing trust in the Internet of Things through security, privacy and sustainability.  For pre-reading click here for more info on OTA's IoT Trust Framework and working group. 
+
+Mon, Feb 29, 2016 RSA Conference 2016 - Key Sessions &. Events
+
+**OTA is a proud supporter and sponsor of RSA Conference 2016.  Join OTA staff, Board, Committee Chairs and members at these key sessions and member events to learn, connect and collaborate.** 
+
+**Register today for RSA 2016 using the OTA discount code 16UOTAFCD. the Expo**
 
 More >>.
 
