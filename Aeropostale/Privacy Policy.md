@@ -82,7 +82,7 @@ Aéropostale
     *   Bottoms
     *   Intimates
     *   Accessories
-    *   Sleep
+    *   Swim
 *   Room
     
     *   SHOP BY ROOM
