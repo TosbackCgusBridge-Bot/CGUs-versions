@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14448485068
+true true C14406698656
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p32.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Sat Jan 30 11:15:40 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Sun Jan 31 11:14:54 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,39 +48,39 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Extra 25% Off\* with your JCPenney Credit Card Or, Extra 20% Off\* with any other method of payment Online Only | $100 or More | Ends January 30 | Code: GRTSVNGS Or, Extra 20% Off\* with your JCPenney Credit Card Or, Extra 15% Off\* with any other method of payment In Store and Online | Ends January 30 | Code: GRTSVNGS
-
-\*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
-
-Print Coupon \*Exclusions and details Save On Valentine's Day Home Goods 30 to 50% Off Select Home Items Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining A Sweet Deal On Valentine's Day Gifts Valentine's Gift Ideas Shop Gifts25 to 30% Off Dresses
+Up To 50% Off Home Items 30 to 50% Off Select Home Items Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Valentine's Day Jewelry On Sale 20 to 60% Off Jewelry
 
 Select styles
 
-Shop Dresses12.99 Disney Collection Plush, reg. $16 Shop Disney Collection Plush30 to 40% Off Dress Shoes and Handbags
+Shop All Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Valentine's Day is February 14 Valentine's Day Gift Shop
 
-Select styles
+Share the love. Love the savings.
 
-    Shop Men's Dress Shoes Shop Women's Dress Shoes Shop Handbags50% Off All Men's Suit Separates Shop Men's Suit Separates Valentine's Day Lingerie and Sleepwear On Sale Now 20% Off Bras
+Shop All GiftsGift Cards
 
-Select styles when you buy 2 or more.
+$15 Off $15 Coupon | In Store Only! | Ends February 14
 
-Shop Bras40% Off Sleepwear
+Spend $75 on Gift Cards and get a $15 off $15 Coupon. Redeemable 2/15/16-2/29/16 in store only. Some restrictions apply. See store for details.
 
-Select styles
+Shop Gift CardsE-Gift Cards
 
-Shop Sleepwear Shop Ambrielle Valentine's Day Jewelry On Sale 20 to 60% Off Jewelry
+$15 Off $15 Coupon | Online Only! | Ends February 14
 
-Select styles
+Spend $75 on E-Gift Cards and get a $15 off $15 coupon. Redeemable 2/15/16-2/29/16 in store and online. Some restrictions apply.
 
-Shop Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Up to 80% Off Clearance 60 to 80% Off Red Zone Clearance
+Get details: Up to 80% Off Clearance 50 to 80% Off Red Zone Clearance
 
 New Markdowns In Store and Online
 
-Shop Clearance Now Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Home Shop Handbags and Accessories Shop Jewelry SportsFanShop
+Shop Clearance Now Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Home Shop Handbags and Accessories Shop Jewelry Activewear For The Family On Sale 40% Off Xersion For The Family
+
+Select styles
+
+Shop Men Shop Women Shop Boys Shop Girls       Shop All Fitness SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop Work Out and About For Less Shop Fitness Best Prom Ever Shop Prom Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop SportsFanShop Sephora Shop New Beauty Arrivals Carter's Baby Sale Shop Carter's Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
