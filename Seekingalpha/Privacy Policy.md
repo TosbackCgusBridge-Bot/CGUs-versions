@@ -1,49 +1,16 @@
-Seeking Alpha
-
-*   THEMES
-*   Home
-
-*   Alt Investing
-
-*   Dividend Investing
-
-*   Earnings Center
-
+*   Dividend Investing Center
 *   ETF Hub
+*   Portfolio Strategy Center
 
-*   Income Investing
+*   Market News
+*   Stock Ideas
+*   Dividends
+*   Market Outlook
+*   Investing Strategy
+*   ETFs &. Funds
+*   Earnings
 
-*   Investing Ideas
-
-*   Macro View
-
-*   Portfolio Strategy
-
-*   PRO Contests
-
-*   PREMIUM
-*   Premium Authors
-*   *   Most Popular
-    *   Newest
-
-*   PRO
-*   *   Top Ideas
-    *   First Look
-    *   Idea Filter
-
-*   MY ACCOUNT
-*   Email Settings
-
-*   My Authors
-*   Home
-*   Portfolio
-*   News
-*   Articles
-*   StockTalk
-*   Marketplace
-*   PRO
-
-To screen ETFs by asset class, performance, yield and more, check out the ETF Hub. ETF Hub Home » Privacy Privacy
+Privacy
 
 Thank you for visiting http://seekingalpha.com (together with all other websites and services operated by or on behalf of Seeking Alpha, Ltd., the "Site"). Your privacy is important to us. To better protect your privacy, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used at the Site. This Privacy Policy forms part of the Terms of Use.
 
@@ -127,4 +94,4 @@ Seeking Alpha's Privacy Policy is to share personal information only with the ow
 
 _Updated: May 26, 2015_
 
-Top Authors  |      RSS Feeds  |  Sitemap  |  About Us  |  Contact Us Terms of Use | Privacy | Xignite quote data | © 2016 Seeking Alpha
+Top Authors| RSS Feeds| Sitemap| About Us| Contact Us Terms of Use| Privacy| Xignite quote data| © 2016 Seeking Alpha
