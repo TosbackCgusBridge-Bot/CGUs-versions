@@ -66,11 +66,11 @@ Privacy Policy | HSW
 
 Up Next
 
+*   Stuff They Don't Want You to Know: Political Conspiracies: 2016
+*   HowStuffWorks Animations: How Bats Fly
 *   What the Stuff?!: 7 Obscene Hand Gestures from Around the World
 *   HowStuffWorks NOW: Dutch Accept Pastafarianism. Are Dudeism and Jediism next?
 *   HowStuffWorks NOW: Lead Poisoning: Why It’s Happening Now
-*   FW: Thinking: Quantum Computing
-*   Not Just Rocks: The Geology Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
