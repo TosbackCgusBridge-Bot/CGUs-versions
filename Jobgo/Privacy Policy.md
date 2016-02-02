@@ -1,14 +1,7 @@
 LOGIN  
   
 Forgot your password?  
-LOGIN Remember me Don't have an account yet? Sign up here.
-
-*   Home
-*   Jobs
-*   Talents
-*   Companies
-
-  Privacy Policy
+LOGIN Remember me Don't have an account yet? Sign up here.   Privacy Policy
 
 This Privacy Policy applies to Internet based Recruitment and Social media services rendered worldwide by JobGo and JobGo International Ltd. (‘JobGo’), as well as to products and web sites under the JobGo brand.
 
