@@ -82,7 +82,6 @@ Change country/language X
     *   Buy online
     *   Find a reseller
     *   Special offers
-    *   Subscription plans
     *   Support offerings
     *   Options
     *   Education
@@ -107,6 +106,7 @@ Change country/language X
 
 Legal Notices &. Trademarks
 
+*   Maintenance Plan, Subscription and Enterprise support terms and conditions
 *   Terms of Service: Autodesk Digital Distribution Web Services
 *   Website Terms of Use
 *   Privacy Statement
@@ -114,7 +114,6 @@ Legal Notices &. Trademarks
 *   Trademarks
 *   Linking to Autodesk
 *   Export Compliance
-*   Autodesk Subscription and Support Terms and Conditions
 *   Software License Agreements
 *   Terms of service: A360 and other web services
 *   Code of Business Conduct
