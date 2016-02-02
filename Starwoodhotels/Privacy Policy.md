@@ -134,7 +134,7 @@ Although the data protection requirements and other laws of these various countr
 
 If you are located in the European Economic Area or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal data to countries outside of the European Economic Area or Switzerland (including using, as appropriate, Binding Corporate Rules (BCRs), Model Clauses, and U.S. Safe Harbor program).
 
-Starwood is certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce, European Commission and Switzerland regarding the collection, storage, use, transfer and other processing of PII transferred from the European Economic Area or Switzerland to the U.S. Please note that since October 6, 2015, the European Union no longer recognizes Safe Harbor. Nonetheless, Starwood upholds to comply with the Safe Harbor Privacy Principles.
+Starwood is certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce, European Commission and Switzerland regarding the collection, storage, use, transfer and other processing of PII transferred from the European Economic Area or Switzerland to the U.S. Please note that since October 6, 2015, the European Union no longer recognizes Safe Harbor. Nonetheless, Starwood upholds to comply with the Safe Harbor Privacy Principles. To learn more about the Safe Harbor program, and to view Starwood’s certification, please visit http://www.export.gov/safeharbor/.
 
 Back to Top
 
