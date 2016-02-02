@@ -100,288 +100,270 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ News Powerful storm hits Southern Calif.. 1 dead
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Elections Clinton, Sanders locked in tight battle in Iowa
 
 TOP STORIES
 
-*   Washington Candidates make final push in Iowa
-*   Nation 2nd Virginia Tech student arrested in teen's death
-*   Nation Now Appeals will keep Steven Avery in spotlight
-*   Bernie Sanders bridges anger and hope
-*   Boston bomber seeks to overturn conviction
-*   How Namath set the stage for Cam Newton
-*   Trove of evidence in Philly Amtrak crash coming
-*   Boko Haram burns kids alive in Nigeria, 86 dead
-*   50 dead in Syria bombings claimed by ISIL
-*   Drunken driver to pay officer's family $10.1M
-*   Recaptured inmates returned to California jail
-*   Zika virus concerns athletes in Rio for Olympics
+*   OnPolitics Iowa caucuses: What's happening right now
+*   Elections Ted Cruz gets major win over Donald Trump in Iowa
+*   Opinion Sanders takes fantasy land victory lap: Column
+*   Old Trump tweet: 'No one remembers' second place
+*   Microsoft app used to tally votes at Iowa caucus fails in some areas
+*   What ever happened to Deez Nuts?
+*   Martin O'Malley ends long-shot bid for Democratic nomination
+*   Huckabee ends GOP presidential bid
+*   Cam Newton on dab: 'I don't plan on changing'
+*   Father, son die after fall through thin ice on lake
+*   What's going to happen at Cosby criminal hearing?
+*   Delta attendants reportedly get in fist fight
+
+OnPolitics
+
+Dingell trolls Cruz after Iowa caucus win
+
+Opinion
+
+Iowa caucus voters rewrite the script: Our view
+
+Rieder
+
+Rieder: Hillary Clinton's ticking time bomb
+
+Elections 2016
+
+America's richest pick sides in '16 contests
+
+OUR PICKS Denver Broncos
+
+Peyton Manning remains mum on retirement, backs Cam for MVP
 
 Nation
 
-Death camp guard is last U.S. Nazi case
+Mom hears dead son inside 4-year-old girl
 
 Nation Now
 
-Black History Month: We carry the imprints of people and places
+Hospital must buy $1.5M in art before floor can open
 
-Entertain This
+High School Sports
 
-Uzo Aduba's date for the SAG Awards is the same guy she took to prom
+Oklahoma JV wrestlers charged with rape on bus
 
-Life
+Ted Cruz beats out Donald Trump to win Iowa
 
-Annual physicals a waste, some doctors say
+Ted Cruz has defeated Donald Trump in the Iowa caucuses. Marco Rubio was a close third, according to late returns.
 
-OUR PICKS Music
+1 of 23 See more video
 
-David Bowie requests ashes be scattered in Bali
+Video: How the Iowa Caucuses work
 
-Super Bowl
+What is a caucus? And what will happen at the caucus? Get the details and learn how the Republican and Democratic caucuses are different in the first-in-the-nation Iowa Caucuses.
 
-10 surprising Panthers, Broncos facts for Super Bowl 50
+2 of 23 See more video
 
-Money
+20 lucky kids rode in Trump's personal helicopter
 
-Analysts: Global deal to cut oil production unlikely
+Donald Trump invited 20 children to take a ride in his personal helicopter at the Iowa State Fair as a way to show his love for Iowa and for kids.
 
-NFL
+3 of 23 See more video
 
-Ad Meter 50 for 50th: Budweiser dominating Final 4 matchups
+Flight attendants lose their cool, get into fist fight mid-air
+
+Two flight attendants who weren't able to solve their issues on the group took them to flight! When a fist fight broke out, a third stepped in to help but all three ended up getting kicked out. Keleigh Nealon (@keleighnealon) has the story!
+
+4 of 23 See more video
+
+'Grease Live!': Best and worst moments
+
+'Grease Live!' on Fox experienced highs and lows from equipment malfunctions and unexpected weather events, to great costumes and some epic performances. For the most part though, the latest live TV musical event had everyone hand-jiving along.
+
+5 of 23 See more video
+
+Ted Cruz reflects on visiting all 99 Iowa counties
+
+Republican presidential candidate Ted Cruz talks about going the "Full Grassley," hitting all 99 state counties in Iowa.
+
+6 of 23 See more video
+
+The Super bowl creates super moments
+
+It has been 50 years since the first Super Bowl and every year the game generates memoriable plays, fans and halftime performances. Here are just a few of the greatest Super Bowl moments.
+
+7 of 23 See more video
+
+Mom hears son's donated heart beat in little girl
+
+After tragedy struck, a mother was able to save lives by donating her son's organs. Two years later, she came face to face with the little girl who received his heart. She was given a gift that brought her to tears.
+
+8 of 23 See more video
+
+Gear up for the big game with a new TV for less
+
+Deal expert Matt Granite shows you where to score the biggest savings on a new TV in time for the Super Bowl.
+
+9 of 23 See more video
+
+Bank manager won't let would-be robber through the door
+
+Someone tried to rob a bank and the manager had a pretty straight forward response: he just didn't let the guy in. Gillian Pensavalle (@GillianWithaG) has the video.
+
+10 of 23 See more video
+
+Think Iowa is all cornfields and caucuses? Think again
+
+The critique that Iowa isn't a fair representation of the U.S. electorate isn't a new one - but what does it mean to be representative? Video provided by Newsy
+
+11 of 23 See more video
+
+These controversial commercials didn't make the Super Bowl cut
+
+USA TODAY takes a look at some of the recent commercials that were rejected by the networks broadcasting the Super Bowl.
+
+12 of 23 See more video
 
 The Oregon wildlife refuge standoff is now a video game
 
 A mod for the popular shooter "Counter-Strike: Global Offensive" lets players battle on a digital recreation of the Malheur National Wildlife Refuge. Video provided by Newsy
 
-1 of 26 See more video
+13 of 23 See more video
 
-Iranian commanders receive medals for capturing US sailors
+6 things you didn't know about Groundhog Day
 
-Several high-ranking Iranian naval commanders were honored with the nation's victory medal for their part in capturing 10 U.S. sailors this month. Video provided by Newsy
+It wasn't always Groundhog Day. See which adorable animal people looked to first for signs of an extended winter and other unusual facts.
 
-2 of 26 See more video
+14 of 23 See more video
 
 Top 5 Super Bowl ads and teasers already released
 
 Ads airing during the Super Bowl are going for about $5 million per 30 seconds of airtime. Here are our favorite ads and trailers released so far. Video provided by Newsy
 
-3 of 26 See more video
+15 of 23 See more video
 
 Veterans charity put on watch list for excessive spending
 
 The Wounded Warrior Project was placed on Charity Navigator's watch list. The monitoring group cited reports of the organization's wasteful spending. Video provided by Newsy
 
-4 of 26 See more video
+16 of 23 See more video
 
 Avoid hotel annoyances with these tips
 
 It's unavoidable: We've all been annoyed by hotel staff at one time or another. But before you lose your cool, take a deep breath and remember these three tips.
 
-5 of 26 See more video
-
-Is Trump for real? And other answers from Iowa
-
-After months of hearing from pundits and pollsters, voters will answer some big 2016 questions.
-
-6 of 26 See more video
-
-Actors recall their most memorable directing note
-
-USA TODAY asks actors on the 22nd SAG Awards red carpet to recall their favorite note they received from a director on set.
-
-7 of 26 See more video
-
-Vanessa Hudgens dedicates 'Grease: Live!' to late dad
-
-Vanessa Hudgens will perform in 'Grease: Live!' a day after losing her father to cancer.
-
-8 of 26 See more video
+17 of 23 See more video
 
 Check out these cool features on Windows 10
 
 Microsoft's Windows 10 is now installed on more than 200 million gadgets worldwide.
 
-9 of 26 See more video
-
-This coupon crash course will pay off for years
-
-Not all coupons are created equal. Savings expert Matt Granite shows you where to find the deals you can trust.
-
-10 of 26 See more video
-
-5 things you should always do on a plane
-
-Don't put your comfort or health at risk, and always do these five things as soon as you get on the plane.
-
-11 of 26 See more video
-
-Apple is late to the virtual-reality game
-
-Apple is building its augmented reality and virtual reality resources but, in classic Apple fashion, doesn't seem eager to be a pioneer in the market. Video provided by Newsy
-
-12 of 26 See more video
-
-Just Cool Cars: Chevy Sedan Delivery
-
-USA TODAY's Chris Woodyard takes a look at a 1960 Chevy sedan delivery truck.
-
-13 of 26 See more video
-
-Even newborn eaglet siblings fight at the dinner table
-
-When it comes to feeding time, these two newborn eaglets push and pull each other to get the first bite.
-
-14 of 26 See more video
+18 of 23 See more video
 
 Shark swallows another shark in Seoul aquarium
 
 Visitors to a giant aquarium in are presented with the gory aftermath of a territorial dispute between two sharks, which left one dead inside the mouth and gullet of the other. Video provided by AFP
 
-15 of 26 See more video
+19 of 23 See more video
 
 Best of: Super Bowl ads you want to watch over and over
 
 Nostalgia runs deep in these bite-size versions of the top Super Bowl ads of the last 27 years as scored by USA Today's Ad Meter.
 
-16 of 26 See more video
-
-Here's Eddie Redmayne, fresh off of 'Fantastic Beasts'
-
-USA TODAY's Andrea Mandell asks Eddie Redmayne if he plans to get J.K. Rowling to sign a copy of every 'Harry Potter' book for his baby on the way.
-
-17 of 26 See more video
-
-Dad found 'Not Guilty' for parenting his child
-
-Ronald Jackson took his daughter's phone away after deeming her text messages inappropriate. Two years in court later, he has been found not guilty of theft. Keri Lumm (@thekerilumm) reports.
-
-18 of 26 See more video
-
-Like soccer and basketball? You'll love Futsal
-
-Futsal is a mix between soccer, basketball and hockey. It's a fast-paced sport made popular in Brazil and it's gaining popularity in the U.S.
-
-19 of 26 See more video
-
-Watch baby eagle wiggle out of its shell
-
-It took days for this eaglet to break free from its shell and join its newborn sibling. Southwest Florida Eagle Cam captured the magical moments.
-
-20 of 26 See more video
+20 of 23 See more video
 
 5 things you should always do on a plane
 
 Don't put your comfort or health at risk, and always do these five things as soon as you get on the plane.
 
-21 of 26 See more video
+21 of 23 See more video
 
 Baby orca swimming with pod caught on camera
 
 Scientists at NOAA Fisheries captured video of a baby orca swimming with a pod of killer whales in Puget Sound near Seattle.
 
-22 of 26 See more video
-
-NAACP leader opposes offensive shirts, but then says this
-
-The president of the Maricopa County, Arizona NAACP is drawing widespread ire for a remark he made about a female reporter. She didn't hear his comments at the time, but they were captured on tape.
-
-23 of 26 See more video
-
-Puppy clinging to freeway median gets rescued
-
-A traffic camera reporter rushed to help out a dog who became stranded in the middle of an Arizona highway during rush hour traffic. Thanks to his quick thinking, she's alive. Sean Dowling (@seandowlingtv) has more.
-
-24 of 26 See more video
+22 of 23 See more video
 
 What's the point of that tiny front pocket on your jeans?
 
 Levis Strauss and Co. debunks the mystery of why jeans have that small front pocket. Video provided by Newsy
 
-25 of 26 See more video
+23 of 23 See more video Last VideoNext Video news
 
-Uber is trying to tame drunk passengers with Bop-Its
+Clinton, Sanders locked in tight battle in Iowa
 
-There have been several instances of Uber drivers getting attacked while picking up passengers. Now, Uber has come up with a solution - and it involves providing a classic '80s toy.
+Ted Cruz gets major win over Donald Trump in Iowa
 
-26 of 26 See more video Last VideoNext Video news
+42 minutes | Elections
 
-Campaigns make final push in Iowa
+Dingell trolls Cruz after Iowa caucus winLive results from the Iowa caucusesClinton Speaks To Supporters During Caucuses sports
 
-Second Virginia Tech student arrested in teen's death
+Newton: 'I don't plan on changing'
 
-3 hours, 51 minutes | Nation
+John Elway's advice to Peyton
 
-Boko Haram burns kids alive in Nigeria, 86 deadWHO to hold emergency meeting Monday on Zika virus Recaptured inmates returned to California jail sports
+2 hours, 6 minutes | Denver Broncos
 
-Why Von Miller could be Super Bowl breakout star
+NFL Network reporter has spectacular on-air flubSuper Bowl 50 Opening Night as it happenedRousey's mom rips her coach: 'Idiot' and 'a fraud' life
 
-Russell Wilson earns MVP in Pro Bowl victory
+What's going to happen at first Bill Cosby criminal hearing?
 
-1 hour, 16 minutes | NFL
+Cross WordsAll GamesEntertain This! Exclusive: 'Fresh Off the Boat' stars talk Chinese New Year'Fresh Off the Boat' says Happy Chinese New Year!ACM nominations indicate 'changing of the guard' money
 
-Report: Megatron said he plans to retireJohn Scott goes from unwanted to unbelievableBell: Joe Montana understands Super Bowl pressure life
+February not likely to rescue stocks, history shows
 
-Review: Visually impressive 'Grease: Live!' still slips
+StocksPortfolio TrackerAmerica's Markets Microsoft app used to tally votes at Iowa caucus fails in some areasUSA TODAY Ad Meter WinnersLumber Liquidators sentenced in wood import scheme tech
 
-Cross WordsAll GamesEntertain This! Kate Winslet had to touch Susan Sarandon's chest at the SAGsVanessa Hudgens to act in 'Grease: Live!' day after father's death7 must-know moments from the SAG Awards money
+Microsoft app used to tally votes at Iowa caucus fails in some areas
 
-Analysts: Global deal to cut oil production unlikely
+Alphabet vaults Apple to become most valuable company
 
-StocksPortfolio TrackerAmerica's Markets Top 5 Super Bowl ads and teasers already releasedWolff: Guardian bet shows digital risksMercedes-Benz auctions for record $9.9 million tech
+4 hours, 44 minutes | News
 
-Ways to ditch some — but not all — of your cable boxes
+Alphabet is No. 1! And Apple is sent packingEuropean Union describes outline of critical data transfer ruleYahoo reportedly cutting staff prior to 4Q earnings travel
 
-Q&A: Guard your tax refund
+12 cruise ship spas that will blow your mind
 
-14 hours, 2 minutes | Komando
+50 state road trip: 50 historic and famous must-see homes
 
-The Oregon wildlife refuge standoff is now a video gameWith driverless cars, how safe is safe enough?: ColumnFive Windows 10 tricks you need to know travel
+17 hours, 26 minutes | America
 
-Vegas hotels emerge from renovations better than ever
+Five myths about airline foodTour Marché de Rungis, the world’s biggest food marketBad service is biggest bugaboo for hotel guests Reviewed.com
 
-Party on: The 10 best Carnivals in the Caribbean
-
-2 days, 6 hours | Caribbean
-
-Winter migration patterns of the super-richBoeing's new 737 MAX completes its maiden flightLive for less: Charming Cuenca, Ecuador, courts American expats Reviewed.com
+LG cuts prices on flagship TVs for the big game
 
 The best big-screen TVs for the big game
 
-The best gas and electric ranges under $800
+1 day, 10 hours | Tech
 
-14 hours, 27 minutes | Tech
+The best gas and electric ranges under $800This magical disc tells you when dishes are dirtyWhat it's like to use Samsung's ActiveWash experience
 
-This magical disc tells you when dishes are dirtyWhat it's like to use Samsung's ActiveWashGE's dishwasher tech promises sparkling dishware experience
+Las Vegas' latest hotel renovations reach for the stars
 
-Taste of Tampa: Flavors only found in Cigar City
+Party on: The 10 best Carnivals in the Caribbean
 
-Underwater paradise: Spectacular snorkeling in the Caribbean
+14 hours, 30 minutes | Caribbean
 
-3 days, 17 hours | Caribbean
+2016's first restaurant openingsWizarding World of Harry Potter: A lifelong fan makes the pilgrimageExclusive: First look at Uniworld's new river ship in India VOICES NFL
 
-Exclusive: First look at Uniworld's new river ship in IndiaExclusive: Everything Is Awesome in Legoland's new Lego Movie 4DTour Las Vegas' historic Plaza Hotel &. Casino VOICES Opinion
-
-Why should Iowa and N.H. always go first? Our view
-
-Voices
-
-Voices: Merry Candlemas! It's time to undeck the halls
+Armour: Goodell's flippant reaction to concussion quip stings
 
 Opinion
 
-Vying for the faithful in Iowa: Column
+Is it immoral to watch the Super Bowl?: Column
 
-Ad-Meter
+Movies
 
-Sign up to be a Super Bowl Ad Meter panelist
+Jesse Jackson: Time to flip the script on diversity
+
+Voices
+
+Voices: A war that restored confidence in military
 
 Nation Now
 
 Quiz: Test your black history knowledge
 
-Opinion
+Ad-Meter
 
-Ack! Here come Trump's first 100 days: Column
+Sign up to be a Super Bowl Ad Meter panelist
 
 Super-Bowl
 
@@ -391,23 +373,23 @@ OnPolitics
 
 Learn how the Iowa caucuses work in 60 seconds
 
-*   Screen Actors Guild Awards stars party
-*   Red carpet photos: Screen Actors Guild Awards 2016
-*   Australian Open men's final
-*   Day in celebrities
-*   January political cartoons from Gannett cartoonists
+*   February political cartoons from Gannett cartoonists
+*   Your Take: USA TODAY's top reader photo of the day
+*   2016 presidential race dropouts
+*   The day in pictures
+*   Merry-go-rounds: 10 of the oldest carousels in the USA
 
 Trending on Social
 
-*   Archie Comics come to the CW: What to know about the 'Riverdale' gang
+*   Twitter has 412 years in cash to fix itself
     
-*   10 surprising facts about Panthers, Broncos ahead of Super Bowl 50
+*   Trump's old tweet: 'No one remembers who comes in second'
     
-*   Russell Wilson throws 3 TDs, earns MVP in Pro Bowl victory
+*   Ted Cruz gets major win over Donald Trump in Iowa
     
-*   Bell: San Francisco icon Joe Montana knows what lies ahead in Super Bowl 50
+*   Huckabee ends campaign: 'Voters are sick of me'
     
-*   Caterpillar closing 5 plants, cutting 670 jobs
+*   Clinton, Sanders locked in tight battle in Iowa
     
 
 AD CONTENT Right Now
