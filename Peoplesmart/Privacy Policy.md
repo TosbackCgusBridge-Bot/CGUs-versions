@@ -1,11 +1,11 @@
-Sign In Join Search Search Search Search Search Choose
+Sign In Join Search Search Search Search Choose
 
 *   People
 *   Phone
 *   Email
 *   Address
 
-Find Location \*a-z dash, period, spaces only Birth MonthJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember Day12345678910111213141516171819202122232425262728293031 Birth Year19981997199619951994199319921991199019891988198719861985198419831982198119801979197819771976197519741973197219711970196919681967196619651964196319621961196019591958195719561955195419531952195119501949194819471946194519441943194219411940193919381937193619351934193319321931193019291928192719261925192419231922192119201919 +/- --012510 Minimize Phone: Email: \*enter valid email address Street: City:
+Find Location \*a-z dash, period, spaces only Birth MonthJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember Day12345678910111213141516171819202122232425262728293031 Birth Year19981997199619951994199319921991199019891988198719861985198419831982198119801979197819771976197519741973197219711970196919681967196619651964196319621961196019591958195719561955195419531952195119501949194819471946194519441943194219411940193919381937193619351934193319321931193019291928192719261925192419231922192119201919 +/- --012510 Minimize Phone: Email: \*enter valid email address Street: City: Search
 
 *   Sign In
 *   Join
@@ -65,14 +65,19 @@ Activity Information
 
 When you visit this site, we may collect information about which pages you visit, who and what you search for, and the products you buy.
 
-Information collected by cookies and in the background
+Cookies and Other Tracking Technologies
 
 This site makes use of tools such as cookies to collect various types of information about your activity and computer while you use the website. We only use information collected in the background to deliver and market our service - information collected by cookies and other tools is not used to augment our search results.
 
-*   **Content and preference cookies.** We use different types of cookies (both temporary and persistent) to make it easier for you to help you navigate the site, track usage of our site to improve your experience, and remember your preferences. Disabling cookies may limit your ability to use some areas of our site.
-*   **Technical and analytics data.** We use services such as Google Analytics to learn about how people discover, use, and interact with the site.
-*   **Social media integration.** The site includes social media features operated by third parties, such as the Facebook Like button. These features may collect your IP address and other information about your browsing activity, including the page you are visiting on our site. The information those services collect is subject to their respective privacy policies.
-*   **Advertising information.** We use third party advertisers to show you ads for Inflection products on other websites. Showing you these ads involves placement of a cookie on your computer. If you would like more information about these practices and to know your choices for opting out, please visit the Google opt out page to opt-out of Google cookies, or the Network Advertising Initiative’s opt out system.
+The methods we use to collect technical and analytics data include the following:
+
+*   Technologies such as: cookies, beacons, tags and scripts are used by Inflection.com, Inc., our affiliates, and our analytics and service providers. These technologies are used in analyzing trends, administering the site, tracking your movements around the site, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by our service providers on an individual as well as aggregated basis.
+*   We use cookies for our shopping cart, to remember your settings (e.g. language preference), for authentication, and for analyzing site usage. You can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+*   As is true of most web sites, we gather certain information automatically and store it in log files. This information may include your internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or your clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve the services we offer you, to improve marketing, analytics, and site functionality.
+*   We partner with third parties to manage our advertising on other sites. Our third-party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You will continue to receive generic ads. To learn more about these practices, and about how to opt out of certain advertising, you can visit the Google opt-out page, and the Network Advertising Initiative’s opt-out system.
+*   Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information.
+*   Various browsers may offer their own management tools for removing content stored locally using HTML5.
+*   **Social media integration**. The site includes social media features operated by third parties, such as the Facebook Like button. These features may collect your IP address and other information about your browsing activity, including the page you are visiting on our site. The information those services collect is subject to their respective privacy policies.
 
 How We Use The Information We Collect
 
@@ -150,11 +155,11 @@ privacy@peoplesmart.com
 
 TRUSTe
 
-Inflection.com, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website: www.peoplesmart.com, and does not cover information that may be collected through software downloaded from the site.
+The TRUSTe program covers only information that is collected through this website: www.peoplesmart.com, and does not cover information that may be collected through software downloaded from the site. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
 
-Effective Date Of This Policy: December 2, 2015
+Effective Date Of This Policy: January 27, 2016
 
 About Manage Your Listing Affiliate Program Help Center Privacy Education How We Think About Privacy Important Notices for Use Terms of Use Privacy Policy Opt-Out Policy Payment Policy FCRA Regulations Contact Us Sitemap Explore Home Join Sign In Manage Listing Directories Find People Court Records Criminal Records County Records Company About Blog Privacy Education Affiliates Support Help Sitemap Opt out Get Privacy News and Alerts Submit Thank You. You have been subscribed.
 
