@@ -184,13 +184,13 @@ Payment
 
 Members can pay for these services by any form of payment currently accepted in club.
 
-*   Sam's Club credit account
-*   Discover ®
-*   MasterCard ®
-*   American Express ®
-*   Debit card
+*   Visa
+*   American Express
+*   Sam’s Club credit account
+*   Discover®
+*   MasterCard®
+*   Debit Card
 *   Gift Cards
-*   Visa (Debit only)
 *   Cash
 
 Authorization Process:
