@@ -168,7 +168,7 @@ If you would like to make sure that we do not disclose your name and postal mail
 
 Facebook Messenger Communication
 
-You may opt in to receive communication and updates from us about your order via Facebook. Once you provide this consent during checkout on our site, this will be maintained for all future orders. To opt out, go to the overview page in the account section of our site or open the conversation on Facebook Messenger and click on the "Turn Off" link next to the Messenger updates language. Also, if you elect to delete your A&F account, then you will no longer receive updates via Facebook Messenger.
+You may opt in to receive communication and updates from us about your order via Facebook Messenger. Once you provide this consent during checkout on our site, it will be maintained for all future orders. To opt out, go to the overview page in the account section on our site or open the conversation on Facebook Messenger and click on the “Turn Off” link (located next to the Facebook Messenger updates language). If you elect to delete your A&F account, then you will no longer receive updates via Facebook Messenger.
 
   
   If you Apply for a Job or Attend Casting Calls
