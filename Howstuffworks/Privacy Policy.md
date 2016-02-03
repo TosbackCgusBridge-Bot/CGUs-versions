@@ -66,11 +66,11 @@ Privacy Policy | HSW
 
 Up Next
 
+*   BrainStuff: Why Does Spicy Food Make Your Nose Run?
+*   Stuff Mom Never Told You: TAMPON TAX UNWRAPPED
+*   The Abraham Lincoln Quiz
+*   The Captain America Quiz
 *   Stuff You Should Know: Internet Roundup: Germany Reissues 'Mein Kampf' &. the Mysterious Bread Face Blog
-*   All Dolled Up: The Barbie Quiz
-*   Money Game Test
-*   And the Award Goes To … : The Oscars Quiz
-*   United Way’s Money Game App, powered by the SunTrust Foundation
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
