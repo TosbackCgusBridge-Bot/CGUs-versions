@@ -26,14 +26,14 @@ Toyota Vehicles Cars & Minivan
 
 *   2016   Avalon $32,650 starting 1 21 /31 est. mpg2 as shown 1 Build your own
 *   2016   Camry $23,070 starting 1 25 /35 est. mpg2 as shown 1 Build your own
-*   2016   Corolla $17,230 starting 1 28 /37 est. mpg2 as shown 1 Build your own
+*   2016   Corolla $17,300 starting 1 28 /37 est. mpg2 as shown 1 Build your own
 *   2015   Sienna $28,700 starting 1 18 /25 est. mpg2 as shown 1 Build your own
 *   2015   Yaris $14,845 starting 1 30 /37 est. mpg2 as shown 1 Build your own
 
 Trucks
 
 *   2016   Tacoma $23,300 starting 1 19 /24 est. mpg2 as shown 1 Build your own
-*   2016   Tundra $28,640 starting 1 15 /19 est. mpg2 as shown 1 Build your own
+*   2016   Tundra $29,950 starting 1 15 /19 est. mpg2 as shown 1 Build your own
 
 Crossovers & Suvs
 
