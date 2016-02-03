@@ -2,13 +2,10 @@ Connexity
 
 *   Solutions
     
-    *   Paid Search &. Marketplace
-    *   Managed Search Services
-        *   PLAs
-        *   SEM
-        *   SEO
-    *   CPC Marketplace Listings
-        *   Connexity CPC Marketplace
+    *   CPC Listings
+    *   Retailer Listings
+    *   Retailer Site Monetization
+    *   Publisher Monetization
     
     *   Bizrate Insights &. Ratings
     *   Consumer Insights
@@ -26,11 +23,6 @@ Connexity
     *   Our Audiences
     *   Your Audiences
     *   Modeled Audiences
-    
-    *   Site Monetization
-    *   CPC Product Monetization
-    *   CPM Display Monetization
-    *   Product Ads for Retailers
 *   About
     *   About Connexity
     *   Open Positions
