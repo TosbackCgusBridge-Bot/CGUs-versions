@@ -8,11 +8,11 @@
 
 At Advance Auto Parts, Inc. one of our primary – and most important – goals is to maintain and ensure the security of our customer data. We understand that you may have concerns regarding the privacy of your personal information. This is why we have specifically created this section. to address your concerns and answer questions you may have.
 
-This Customer Privacy Policy describes the information and privacy practices for Advance Auto Parts retail stores (the “Stores”), Advance Auto Parts Customer Care centers (the “Call Centers”),  www.AdvanceAutoParts.com, www.advancecommercial.com, pro.advancecommercial.com, websites (the “Sites”), our platform all other locations, occasions, or events where your personal information is collected by, or on behalf of Advance Auto Parts.
+This Customer Privacy Policy describes the information and privacy practices for Advance Auto Parts retail stores (the “Stores”), Advance Auto Parts Customer Care centers (the “Call Centers”),  www.AdvanceAutoParts.com, www.advancecommercial.com, pro.advancecommercial.com, http://www.motologic.com, http://www.carquest.com, http://www.motoshop.com, websites (the “Sites”), our platform all other locations, occasions, or events where your personal information is collected by, or on behalf of Advance Auto Parts.
 
-Advance Auto Parts has received TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
+The TRUSTe program covers information collected through these Web sites (www.advanceautoparts.com, www.advancecommercial.com, pro.advancecommercial.com, http://www.motologic.com, http://www.carquest.com, http://www.motoshop.com ) and our platforms. The associated platforms with the exception of information collected behind the logins of the MOTOSHOP, MOTOREV, or ADVANCE AUTO PARTS eBILL platforms.
 
-The TRUSTe program covers information collected through these Web sites (www.advanceautoparts.com, www.advancecommercial.com, pro.advancecommercial.com ) and our platforms. The uses of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged Advanace Auto Parts.
+The uses of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged Advanace Auto Parts. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal.
 
 If you have questions or concerns regarding this privacy policy or our practices, please contact us at 1-877-ADVANCE or webcare@advanceautoparts.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request. 
 
@@ -80,7 +80,7 @@ If you would like to opt-out of communication from Advance Auto Parts, we will a
 If you prefer to opt out of any of the marketing messages above, you may email Customer Care at webcare@advanceautoparts.com, through www.speedperks.com communication preferences or by contacting us by telephone or postal mail by clicking the Contact Us link at the bottom of this page.
 
 **Updating/Accessing/Amending/Correcting Personally Identifiable Information**  
-If your personally identifiable information changes, or if you no longer desire our service, you may update or delete it by making the change on our member information page, your Speed Perks profile page or by emailing Customer Care at webcare@advanceautoparts.com or by contacting us by telephone or postal mail by clicking the Contact Us link at the bottom of this page.
+If your personally identifiable information changes, or if you no longer desire our service, you may update or delete it by making the change on our member information page, your Speed Perks profile page or by emailing Customer Care at webcare@advanceautoparts.com or by contacting us by telephone or postal mail by clicking the Contact Us link at the bottom of this page. We will respond to your request to access within a reasonable timeframe.
 
 **Customer Testimonials/Comments/Reviews**  
 We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information such as our customer’s name. We obtain our customer’s consent prior to posting. If you wish to update or delete your testimonial, you can contact us at support@advance-auto.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
@@ -100,7 +100,7 @@ Regretfully, no form of electronic communication can be guaranteed to be 100% se
 **How We Share Your Information Outside Advance Auto Parts**  
 We share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
 
-We may contract with companies or persons to provide certain services including credit card processing, shipping, data management, collections processing, promotional services, etc. We call these our Service Providers. We provide our Service Providers with the information needed for them to perform these services. We may disclose some of your personally identifiable information when we have reason to believe that it is necessary to identify, contact, or bring legal action against persons or entities who may seek to cause injury to you, Advance Auto Parts, or others. We will disclose your personally identifiable information when required to by law through properly served subpoena if we believe it necessary.
+We may contract with companies or persons to provide certain services including credit card processing, shipping, data management, collections processing, promotional services, etc. We call these our Service Providers. We provide our Service Providers with the information needed for them to perform these services. We may disclose some of your personally identifiable information when we have reason to believe that it is necessary to identify, contact, or bring legal action against persons or entities who may seek to cause injury to you, Advance Auto Parts, or others. We will disclose your personally identifiable information when required to by law through properly served subpoena if we believe it necessary or when we believe in good faith that disclosure is necessary to protect our rights, investigate fraud, or respond to a government request.
 
 From time to time we might establish a business relationship with other persons or entities that we believe trustworthy. These are known as our Marketing Partners. In such cases we might share and cross-reference information, including some personally identifiable information about you, to enable such persons or entities to contact you regarding products and services that may be of interest to you. We only share the information we believe is appropriate to enable the Marketing Partners to carry out their responsibilities under our contracts, and we require that the information be used only for the specifically authorized purpose and that its confidentiality be maintained.
 
@@ -126,7 +126,7 @@ Within our Site you may find links to websites of our partners, vendors, or adve
 Our Web site includes Social Media Features, such as the Facebook and Twitter buttons. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 **Cookies**  
-Technologies such as: cookies, beacons, tags and scripts are used by Advance Auto Parts and our marketing partners, affiliates, or analytics / service providers (provides online customer support and data to improve the online customer shopping experience). These technologies are used in analyzing trends, administering the sites, tracking users’ movements, receivimg reports based on the use of these technologies by these companies on an individual as well as aggregated basis.  
+Technologies such as: cookies, beacons, tags and scripts are used by Advance Auto Parts and our marketing partners, affiliates, or analytics / service providers (provides online customer support and data to improve the online customer shopping experience). These technologies are used in analyzing trends, administering the sites, tracking users’ movements, receiving reports based on the use of these technologies by these companies on an individual as well as aggregated basis.  
 We use cookies for our shopping cart, to remember users’ settings (e.g. language preference), for targeted messaging, and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 **Behavioral Targeting / Re-Targeting**  
@@ -185,7 +185,7 @@ Access and Retention of Data Controlled by our Clients:
 *   Advance Auto Parts has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Advance Auto Parts’s Client (the data controller). If requested to remove data we will respond within 30 days.
 *   We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Advance Auto Parts will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-This policy was last modified on January 30, 2015.
+This policy was last modified on February 3, 2016.
 
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below:
