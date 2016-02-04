@@ -24,6 +24,8 @@ Twitter
 
 Pinterest
 
+howstuffworks
+
 Toggle navigation
 
 Follow us
@@ -66,11 +68,11 @@ Privacy Policy | HSW
 
 Up Next
 
+*   HowStuffWorks NOW: Firearms on Facebook
+*   The George Washington Quiz
+*   Pigskins and Promos: The Super Bowl Commercials Quiz
 *   BrainStuff: Why Does Spicy Food Make Your Nose Run?
 *   Stuff Mom Never Told You: TAMPON TAX UNWRAPPED
-*   The Abraham Lincoln Quiz
-*   The Captain America Quiz
-*   Stuff You Should Know: Internet Roundup: Germany Reissues 'Mein Kampf' &. the Mysterious Bread Face Blog
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -288,7 +290,23 @@ Last Updated On: May 30, 2014
 
 Print | Citation &. Date
 
-More to Explore About Us
+More to Explore NOW
+
+**The Only Wild Jaguar in the U.S. Has Finally Been Filmed**
+
+**Composing in Code: Musician-Programmers Are Changing the Way Music Is Made**
+
+**Not a Morning Person? Your Body's Circadian Rhythms Could Ease Mars Colonization**
+
+**Facebook Takes Aim at Unlicensed Firearm Sales**
+
+**Warding Off the ‘Retirement Curse’**
+
+**Are Black Kites Avian Arsonists, Spreading Wildfires to Flush Out Prey?**
+
+**See More Headlines »**
+
+About Us
 
 **About HowStuffWorks**
 
