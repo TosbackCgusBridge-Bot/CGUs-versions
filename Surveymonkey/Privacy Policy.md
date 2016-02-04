@@ -1,9 +1,7 @@
-Menu
-
 1.  Sign In
 2.  Help
 
-SurveyMonkey®
+SurveyMonkey® ÷
 
 *   Sign In
 *   Home
@@ -330,3 +328,30 @@ Copyright © 1999 - 2016 SurveyMonkey
 *   BBOnline
 *   Ramp Web
 *   Qualys
+
+*   Sign In
+*   Home
+*   How It Works
+*   Examples
+    *   Survey Templates
+    *   Survey Tips
+    *   Survey Types
+    *   Academic Research
+    *   Customer Satisfaction
+    *   Education
+    *   Employee
+    *   Healthcare
+    *   Market Research
+    *   Non Profit
+    *   Events
+*   Survey Services
+    *   Buy Survey Responses
+    *   Buy a Multi-User Account
+    *   Get Benchmarks
+    *   Mobile App
+    *   Partner Integrations &. API
+    *   Survey Programming
+    *   Take Surveys
+    *   Wufoo Online Forms
+*   Plans &. Pricing
+*   Help
