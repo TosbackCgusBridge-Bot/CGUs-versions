@@ -100,256 +100,256 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ News Sexually transmitted Zika virus reported in Texas
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ World New intelligence estimates there are 20-25K Islamic State fighters
 
 TOP STORIES
 
-*   OnPolitics Trump: New Hampshire 'probably suits me better'
-*   News House fails to override veto of Obamacare repeal
-*   Columnist First Take: Layoffs spell rough times for Yahoo
-*   Brennan: Manning's legacy hangs in the balance
-*   Ex-Flint manager shrugs off House subpoena
-*   Councilwoman arrested for public intoxication
-*   Broncos' Ryan Murphy sent home after being questioned in prostitution…
-*   Jonah Goldberg: Hillary's 'win' big loss for Dems
-*   Explosion forces plane to make emergency landing
-*   Taliban hostage rescue earns Navy SEAL top honor
-*   Key witness to Bill Cosby: 'I'm not on your side'
-*   Prosecutor: Va. Tech student stabbed teen to death
+*   World Assange says he'll accept arrest if U.N. rules against him
+*   Elections At town hall, Sanders downplays N.H. expectations
+*   People Judge rules against Cosby, criminal trial will proceed
+*   IRS computer problems shut down e-file system
+*   Fact check: Clinton’s bipartisan bluster
+*   'Hated' CEO Martin Shkreli told to zip it
+*   The prayer breakfast from Eisenhower to Obama
+*   Darren Sharper get tougher sentence for rape
+*   Lawsuit: Lottery fraud reduced winner's payout
+*   Trump plane has 'engine problems'
+*   9 potential suitors for Yahoo
+*   How many CTE cases will it take to spark change?
 
-Weather
+Movies
 
-Blizzard blasts central U.S., storms hit South
+Who's who in Coens' 'Hail, Caesar!' Hollywood
+
+OnPolitics
+
+Marco Rubio wants you to call him 'bae'
 
 Nation Now
 
-This one-year-old snowboarder can really shred
+Universal Hollywood unveils demand-based pricing
+
+OnPolitics
+
+Donald Trump says Ted Cruz 'stole' Iowa
+
+OUR PICKS Money
+
+Moonves succeeds Redstone as CBS chairman
 
 Nation Now
 
-Judge: Lauren Spierer search warrants to remain sealed
-
-Entertain This
-
-why Ariel Winter bared her breast reduction scars
-
-OUR PICKS Nation Now
-
-Mich. congresswoman wants $1 billion for Flint
+Smithsonian black history museum still on lookout for artifacts
 
 News
 
-No birth control? Drink no booze, CDC says
+Everything you need to know about Zika
 
-Tech
+Nation
 
-Reviewed.com's ultimate guide to the big game
+11 Super Bowl snacks you need in your life this weekend
 
-Money
+Vegans, Rejoice! Ben &. Jerry's now has dairy-free ice cream
 
-Our favorite celebrity Super Bowl ads from 2015
-
-Sexually transmitted Zika virus reported in Texas
-
-The Dallas County health department has confirmed two people in the Texas county have tested positive for the Zika virus. One patient had sexual contact with another infected individual. the other patient contracted the virus while in Venezuela.
+The ice cream company says it had to do a lot of testing, but it's now offering four new almond-based flavors. Video provided by Newsy
 
 1 of 22 See more video
 
-A very toned down Donald Trump explains his Iowa loss
+Judge rules against Bill Cosby in sexual assault case
 
-After enduring more than six months of chest-thumping bravado, Americans are finally learning what brings Donald Trump back down to earth, losing. Trump placed second Monday night in Iowa to Sen. Ted Cruz.
+A Philadelphia judge has ruled that the criminal sexual assault case against Bill Cosby can move forward. The next step is a preliminary hearing to determine if a trial will be held.
 
 2 of 22 See more video
 
-Mom turns breast milk into meaningful accessory
+Video captures only known wild jaguar in U.S.
 
-One mom is transforming breast milk into jewelry as a way to commemorate the special bond between a mother and her child.
+This video of the only known jaguar in the U.S. is part of an effort to track, preserve and monitor the endangered species.
 
 3 of 22 See more video
+
+Go behind the scenes at Puppy Bowl XII
+
+A behind-the-scenes look at the Puppy Bowl - Animal Planet's adorable alternative to the Super Bowl. The event takes three 12-hour days to shoot and months to edit into the final product you'll see on television this weekend.
+
+4 of 22 See more video
+
+Get a sneak peak at artifacts headed to the new Smithsonian
+
+USA TODAY's Deborah Barfield Berry gets a sneak peak at amazing items destined for the new Smithsonian Institution's National Museum of African American History and Culture.
+
+5 of 22 See more video
+
+Who is 'Serial' subject Adnan Syed?
+
+Adnan Syed was convicted for murdering his ex-girlfirend in 1999 at the age of 17. Now his case might be getting a second chance.
+
+6 of 22 See more video
+
+Caught on cam: Simple tool saves high schooler's life
+
+You don't hear of many kids suffering from cardiac arrest. This 17-year-old's scare was caught on camera, along with the quick action from school staff that saved her life, but not all schools are ready for this kind of emergency.
+
+7 of 22 See more video
+
+Firefighter goes all out to cheer up kindergartner
+
+A lonely kindergartner was playing outside in a fireman outfit when a real firefighter from his hometown spotted him and pulled out all the stops to cheer him up.
+
+8 of 22 See more video
+
+Emotional House hearing on Flint: 'We poisoned kids'
+
+At the House hearing on Flint's water crisis, emotional testimony was heard by members of congress on the events leading up to the water contamination in the Michigan city.
+
+9 of 22 See more video
+
+Outrageous Super Bowl commercials
+
+USA TODAY takes a look at Super Bowl commercials that grabbed your attention.
+
+10 of 22 See more video
+
+Cheetah and dog race in epic video to see who's faster
+
+A cheetah and a dog are an unlikely pair but the San Diego Park Safari made it happen! In an amazing video, the two race to see who is faster. Keleigh Nealon (@keleighnealon) has the story!
+
+11 of 22 See more video
+
+Giant anaconda found in Florida neighborhood
+
+A Florida woman was walking her dogs when all of a sudden she spotted the 9-foot-long anaconda snake in the grass. The snake has been euthanized and questions remain on where it came from.
+
+12 of 22 See more video
+
+Most iconic Super Bowl ads of all time
+
+Some Super Bowl ads are unforgettable. these are a few of the most iconic throughout the years.
+
+13 of 22 See more video
 
 Puppy would have never walked if not for this
 
 Volunteers are logging countless hours of therapy to help an English bulldog puppy who can't walk or even stand up on his own.
 
-4 of 22 See more video
+14 of 22 See more video
 
-Funny Sookie lines that won't be in new 'Gilmore Girls'
+Luckiest dog in the world survives being shot in the back
 
-Despite the sad news that Melissa McCarthy will not reprise her role as the lovable Sookie in the 'Gilmore Girls' remake, she left us with plenty of moments that made us wish she was our best friend too.
+After being found with an arrow in her back, a dog was rushed to an animal clinic. The stray pup managed to survive the desperate attempt to save her life but all eyes are still on her progress. Keleigh Nealon (@keleighnealon) has the story.
 
-5 of 22 See more video
+15 of 22 See more video
 
 This university requires new students to wear Fitbits
 
 Some students have a problem, but it's not because the school is collecting their personal information. Video provided by Newsy
 
-6 of 22 See more video
-
-Dad accidentally records teen's cardiac arrest
-
-Claire Crawford was playing volleyball at school, when she suddenly collapsed in cardiac arrest last fall. School staff saved her life. The whole thing was captured on her dad's camera, which he had set up to record the match.
-
-7 of 22 See more video
-
-Cuddly groundhog rivals Punxsutawney Phil
-
-Move over Punxsutawney Phil. America has a new groundhog and she is taking on Hollywood!
-
-8 of 22 See more video
-
-Pope Francis to make his film debut in a family adventure film
-
-Pope Francis makes his film debut in AMBI Pictures' upcoming film "Beyond the Sun." He's agreed to a small cameo appearance as himself. Video provided by Newsy
-
-9 of 22 See more video
+16 of 22 See more video
 
 Ad Meter 2016: Heinz ketchup 'Wiener Stampede'
 
 Ad Meter 2016: Heinz ketchup 'Wiener Stampede'.
 
-10 of 22 See more video
+17 of 22 See more video
 
 Police officer mistaken for stripper when checking in on wild party
 
 A group of women celebrating a 50th birthday party went wild at the sight of a police officer and mistook him for the stripper they ordered. Gillian Pensavalle (@GillianWithaG) has the story.
 
-11 of 22 See more video
-
-Forget the candidates, Sticker Kid won Iowa
-
-Not all eyes were on presidential candidates in Iowa. This guy stole the show during Hillary Clinton's speech.
-
-12 of 22 See more video
-
-5 takeaways from the 'Hail, Caesar!' premiere
-
-The stars of 'Hail, Caesar!' tell USA TODAY's Carly Mallenbaum about the filming of the latest Coen Brothers film.
-
-13 of 22 See more video
+18 of 22 See more video
 
 Flight attendants lose their cool, get into fist fight mid-air
 
 Two flight attendants who weren't able to solve their issues on the group took them to flight! When a fist fight broke out, a third stepped in to help but all three ended up getting kicked out. Keleigh Nealon (@keleighnealon) has the story!
 
-14 of 22 See more video
+19 of 22 See more video
 
 Bank manager won't let would-be robber through the door
 
 Someone tried to rob a bank and the manager had a pretty straight forward response: he just didn't let the guy in. Gillian Pensavalle (@GillianWithaG) has the video.
 
-15 of 22 See more video
+20 of 22 See more video
 
 These controversial commercials didn't make the Super Bowl cut
 
 USA TODAY takes a look at some of the recent commercials that were rejected by the networks broadcasting the Super Bowl.
 
-16 of 22 See more video
-
-Top 5 Super Bowl ads and teasers already released
-
-Ads airing during the Super Bowl are going for about $5 million per 30 seconds of airtime. Here are our favorite ads and trailers released so far. Video provided by Newsy
-
-17 of 22 See more video
+21 of 22 See more video
 
 Avoid hotel annoyances with these tips
 
 It's unavoidable: We've all been annoyed by hotel staff at one time or another. But before you lose your cool, take a deep breath and remember these three tips.
 
-18 of 22 See more video
-
-Shark swallows another shark in Seoul aquarium
-
-Visitors to a giant aquarium in are presented with the gory aftermath of a territorial dispute between two sharks, which left one dead inside the mouth and gullet of the other. Video provided by AFP
-
-19 of 22 See more video
-
-Best of: Super Bowl ads you want to watch over and over
-
-Nostalgia runs deep in these bite-size versions of the top Super Bowl ads of the last 27 years as scored by USA Today's Ad Meter.
-
-20 of 22 See more video
-
-5 things you should always do on a plane
-
-Don't put your comfort or health at risk, and always do these five things as soon as you get on the plane.
-
-21 of 22 See more video
-
-What's the point of that tiny front pocket on your jeans?
-
-Levis Strauss and Co. debunks the mystery of why jeans have that small front pocket. Video provided by Newsy
-
 22 of 22 See more video Last VideoNext Video news
 
-Councilwoman arrested after meeting on public intoxication charges
+Assange says he'll accept arrest if U.N. rules against him
 
-Looks like Apple needs more cool kids
+Hillary Clinton, Bernie Sanders battle over meaning of…
 
-6 hours, 42 minutes | News
+45 minutes | Elections
 
-Trump: New Hampshire 'probably suits me better'Blizzard blasts central U.S., severe storms hit SouthMany low-, moderate-income families 'under-connected' to Internet sports
+Controversial bill aims to privatize air-traffic controlHow presidents pray: The prayer breakfast from Eisenhower to ObamaAfter Satanists' plea, Phoenix City Council votes to end prayer at… sports
 
-Bronco questioned in prostitution sting, is then sent home
+Eli Manning weighs in on Peyton's question marks
 
-Brennan: Peyton Manning's legacy hangs in balance
+Steph Curry drops 51 as Warriors win
 
-5 hours, 8 minutes | Christine Brennan
+1 hour, 3 minutes | NBA
 
-Armour: Win, and Panthers could be all-time bestHow this unknown receiver became Peyton's saviorBell: Trick to deciphering Camspeak life
+Armour: How many CTE cases is enough?Alabama recruiting class elite againCam Newton's season not just great. it's historic life
 
-Lily James gives USA TODAY a kick
+Judge rules against Cosby, criminal trial will proceed
 
-Cross WordsAll GamesEntertain This! Funny Sookie lines that won't be in new 'Gilmore Girls'Lily James talks killing zombiesKey witness to Bill Cosby: 'I'm not on your side' money
+Cross WordsAll GamesEntertain This! Time runs out for WGN America's 'Manhattan'Critic's Corner: Rosie O'Donnell guest stars on 'Mom'Judge rules against Bill Cosby in sexual assault case money
 
-Yahoo latest strategic plan likely just buys time
+Calif. lottery winner could lose $63 million prize
 
-StocksPortfolio TrackerAmerica's Markets Auction features Madoff jewelry and watchesUSA rules! The 10 most valuable companies: Alphabet hits #1Chipotle Q4 income falls 44% on health scares tech
+StocksPortfolio TrackerAmerica's Markets IRS computer problems shut down e-file system'Hated' CEO Martin Shkreli told to zip it Moonves succeeds Redstone as CBS chairman tech
 
-Yahoo to lay off 15% of workforce amid $400M cost-cutting
+Facebook in 2030? 5 billion users, says Zuck
 
-Iowa caucus vote tallying system worked perfectly
+Mall owner backtracks from Amazon bookstore statement
 
-7 hours, 8 minutes | News
+6 hours, 6 minutes | News
 
-Yahoo latest strategic plan likely just buys timeMicrosoft app used to tally votes at Iowa caucus fails in some areasVirtual reality's promise, risk loom large for health researchers travel
+The long, troubled history of Yahoo's top execs9 potential suitors for YahooGoPro misses by a mile: Shares down 10% travel
 
-Visit these 50 places during Black History Month
+Photo tour: The luxury of a Crystal Cruises ship
+
+10 drop-dead gorgeous indoor pools around the world
+
+16 hours, 29 minutes | Hotels
+
+Universal Hollywood unveils demand-based pricingIowa’s Toppling Goliath Brewing aims for 'perfect beer'Unaccompanied minors flying: What you need to know Reviewed.com
+
+Tide launches laundry service with free delivery
+
+Buying seafood? When frozen is the smarter choice
+
+12 hours, 21 minutes | Money
+
+Reviewed.com's ultimate guide to the big gameThe best slow cookers for the big gameCanon’s new flagship DSLR takes aim at Nikon experience
 
 Merry-go-rounds: 10 of the oldest carousels in the USA
 
-8 hours, 1 minute | Experience
+The Caribbean's most romantic seaside restaurants
 
-10 top chocolate spots for Valentine's Day treatsAsk the Captain: When pilot and co-pilot use conflicting controlsThe Caribbean's most romantic seaside restaurants Reviewed.com
+1 day, 17 hours | Caribbean
 
-Reviewed.com's ultimate guide to the big game
+Tour Marché de Rungis, the world’s biggest food marketLas Vegas' latest hotel renovations reach for the starsExclusive: First look at Uniworld's new river ship in India VOICES Opinion
 
-The best slow cookers for the big game
+Mosquitoes, this time it is war: Column
 
-12 hours, 24 minutes | Money
+Opinion
 
-Canon’s new flagship DSLR takes aim at NikonHow to watch Super Bowl 50LG cuts prices on flagship TVs for the big game experience
+Ted Cruz's flawed tax plan: Our view
 
-50 state road trip: 50 historic and famous must-see homes
+Rieder
 
-Tour Marché de Rungis, the world’s biggest food market
-
-1 day, 14 hours | Food &. Wine
-
-Party on: The 10 best Carnivals in the CaribbeanLas Vegas' latest hotel renovations reach for the starsExclusive: First look at Uniworld's new river ship in India VOICES Opinion
-
-Zika do's and don'ts: Our view
+Rieder: What next for Trump media circus?
 
 Voices
 
-Voices: San Francisco is Super Bowl Central this week
-
-Opinion
-
-Iowa lessons — 5 about Republicans and 2 about Democrats: Michael Medved
-
-Opinion
-
-Sanders takes fantasy land victory lap: Column
+Voices: Cuban consulate in Miami sparks debate
 
 Nation Now
 
@@ -359,31 +359,31 @@ Ad-Meter
 
 Sign up to be a Super Bowl Ad Meter panelist
 
+Elections
+
+For the Record: Sign up for our new politics newsletter
+
 Super-Bowl
 
 Ad Meter: Vote for the all-time best Super Bowl commercial
 
-OnPolitics
-
-Learn how the Iowa caucuses work in 60 seconds
-
-*   It's Groundhog Day!
+*   Day in celebrities
+*   2016 presidential race dropouts
 *   February political cartoons from Gannett cartoonists
 *   Your Take: USA TODAY's top reader photo of the day
-*   2016 presidential race dropouts
 *   Merry-go-rounds: 10 of the oldest carousels in the USA
 
 Trending on Social
 
-*   Pentagon needs more smart bombs for ISIL
+*   Assange says he'll accept arrest if U.N. rules against him
     
-*   Many low-, moderate-income families 'under-connected' to Internet
+*   IRS computer problems shut down e-file system
     
-*   Mercer basketball player shot, killed in parking lot
+*   Aqib Talib, Chris Harris in sync on Broncos' Super Bowl mission
     
-*   It's official: Hillary Clinton won Iowa
+*   Want to know why voters are so mad? Mia Love has the answer: Glenn Reynolds
     
-*   37 pages of Hillary Clinton emails withheld as 'top secret'
+*   Trailer reveal: Emilia Clarke and Sam Claflin in 'Me Before You'
     
 
 AD CONTENT Right Now
