@@ -1,4 +1,4 @@
-Last Updated: December 18, 2015
+Last Updated: January 28, 2016
 
 Bloomberg L.P. and its affiliates (together, "Bloomberg") respects the privacy rights of our users and is strongly committed to protecting your privacy. This Privacy Policy applies to this Web site, any newsletters subscribed to via this Web site, information collected and provided to Bloomberg when you subscribe to the digital edition of Bloomberg Businessweek at third-party websites and applications, and information collected offline when you subscribe to the print edition of Bloomberg Businessweek, but does not apply to any other products or services or to information collected in any other way (whether offline or online) by Bloomberg, unless expressly indicated by Bloomberg (such as by including a link to this Privacy Policy on other Bloomberg websites or on Bloomberg mobile applications).
 
@@ -34,7 +34,7 @@ Bloomberg may share your personal and other information with our affiliates (inc
 
 If you participate in certain features of this Web site (e.g., sharing news stories of interest), please note that any information you or others voluntarily disclose through use of these features, becomes available to the public and/or other users whom you have designated. If you choose to provide access to designated individuals, please be aware that any information you post will be visible to such individuals for their use. Bloomberg is not responsible for the information that you or others choose to disclose publicly on this Web site, and neither Bloomberg’s nor others’ use of such information is subject to this Privacy Policy.
 
-Bloomberg may also disclose your personal and other information to unaffiliated third parties if we believe in good faith that such disclosure is necessary: (a) to comply with the law or in response to a subpoena, court order, government request, or other legal process. (b) to produce relevant documents or information in connection with litigation, arbitration, mediation, adjudication, government or internal investigations, or other legal or administrative proceedings. (c) to protect the interests, rights, safety, or property of Bloomberg or others. (d) to enforce any terms of service on this Web site. (e) to provide you and other users of this Web site with the services or products requested by you and/or the other users (including allowing a purchaser of Bloomberg or a Bloomberg division to continue to serve you), and to perform other activities related to such services and products, including billing and collection. (f) to provide you with special offers or promotions from Bloomberg that may be of interest to you. or (g) to operate Bloomberg’s systems properly.
+Bloomberg may also disclose your personal and other information to unaffiliated third parties if we believe in good faith that such disclosure is necessary: (a) to comply with the law or in response to a subpoena, court order, or other legal process, subject to Bloomberg's Law Enforcement Data Request Statement. (b) to protect the interests, rights, safety, or property of Bloomberg or others. (c) to enforce any terms of service on this Web site. (d) to provide you and other users of this Web site with the services or products requested by you and/or the other users (including allowing a purchaser of Bloomberg or a Bloomberg division to continue to serve you), and to perform other activities related to such services and products, including billing and collection. (e) to provide you with special offers or promotions from Bloomberg that may be of interest to you. or (f) to operate Bloomberg’s systems properly.
 
 The collection, further use, and/or disclosure of your information by Third-Party Providers or by other third parties is not the responsibility of Bloomberg. Rather, such collection, use, and/or disclosure is governed by the third parties’ privacy policies.
 
@@ -48,7 +48,7 @@ To access, review, rectify, or delete your personal information covered by this 
 
 Transfer of Personal Information To Other Countries
 
-Some of the uses and disclosures mentioned in this Privacy Policy may involve the transfer and processing of your personal information to and in various countries around the world that may have different levels of privacy protection than your country. By submitting your personal information, you consent to such transfers and processing, including to and in the United States.
+Some of the uses and disclosures mentioned in this Privacy Policy may involve the transfer and processing of your personal information to and in various countries around the world that may have different levels of privacy protection than your country. By submitting your personal information, you consent to such transfers and processing, including to and in the United States. Bloomberg's Intra-Group Personal Data Protection Statement provides additional information about the transfer of personal information from the EU, EEA, and Switzerland to the United States and is available here.
 
 Links To Third-Party Websites
 
@@ -64,8 +64,12 @@ If you are a California resident, California Civil Code Section 1798.83 permits 
 
 To make such a request, please send an email with your first name, last name, mailing address, email address and telephone number to privacy@bloomberg.com. Please include "California Privacy Rights" in the Subject line of your email.
 
-You may also make such a request by writing to us at: Bloomberg L.P. Bloomberg L.P. Attn: Legal Department 731 Lexington Avenue New York, NY 10022
+You may also make such a request by writing to us at:
 
-Modifications To This Privacy Policy
+  
+Bloomberg L.P.  
+Attn: Legal Department  
+731 Lexington Avenue  
+New York, NY 10022 Modifications To This Privacy Policy
 
 Bloomberg reserves the right to change this Privacy Policy at any time by posting revisions on this Web page. Such changes will be effective upon posting.
