@@ -6,6 +6,7 @@ Fitbit
         *   Fitbit One®
         *   Fitbit Flex®
         *   Fitbit Charge™
+        *   Fitbit Alta™ new
     *   **Active**
         *   Fitbit Charge HR™
         *   Fitbit Blaze™ new
