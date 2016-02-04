@@ -52,7 +52,6 @@ Aéropostale
     *   NEW ARRIVALS
     *   Teen Vogue Editors Picks
     *   Throwback Tees
-    *   Brooklyn Calling
     *   Uniform
     *   Online Only
     *   Extended Sizes
