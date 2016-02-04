@@ -12,7 +12,7 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  JEFFREY
 *   (sign out)
     
 *   my account
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14455591589
+true true L14458014580
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Tue Feb 02 11:00:24 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1l1j5 TIME :->. Wed Feb 03 11:14:34 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,39 +49,35 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Up To 50% Off Home Items 30 to 50% Off Select Home Items Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Valentine's Day Jewelry On Sale 20 to 60% Off Jewelry
+Up to 80% Off Clearance New Markdowns on Clearance - Up to 80% Off
+
+In Store and Online Clearaway! Stores Open at 10AM
+
+Shop Clearance Shop Women Shop Men Shop Kids Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Valentine's Day Jewelry On Sale 20 to 60% Off Jewelry
 
 Select styles
 
 Shop All Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Valentine's Day is February 14 Valentine's Day Gift Shop
 
-Share the love. Love the savings.
+February 14
 
-Shop All GiftsGift Cards
+Shop All Gifts Gift Cards
 
 $15 Off $15 Coupon | In Store Only! | Ends February 14
 
 Spend $75 on Gift Cards and get a $15 off $15 Coupon. Redeemable 2/15/16-2/29/16 in store only. Some restrictions apply. See store for details.
 
-Shop Gift CardsE-Gift Cards
+Shop Gift Cards E-Gift Cards
 
 $15 Off $15 Coupon | Online Only! | Ends February 14
 
 Spend $75 on E-Gift Cards and get a $15 off $15 coupon. Redeemable 2/15/16-2/29/16 in store and online. Some restrictions apply.
 
-Get details: Up to 80% Off Clearance 50 to 80% Off Red Zone Clearance
-
-New Markdowns In Store and Online
-
-Shop Clearance Now Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Home Shop Handbags and Accessories Shop Jewelry Activewear For The Family On Sale 40% Off Xersion For The Family
-
-Select styles
-
-Shop Men Shop Women Shop Boys Shop Girls       Shop All Fitness SportsFanShop
+Get details: SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop Sephora Shop New Beauty Arrivals Carter's Baby Sale Shop Carter's Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop SportsFanShop Sephora Shop New Beauty Arrivals Write a Review For Your Chance to Win $1,000 Get Details: Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
