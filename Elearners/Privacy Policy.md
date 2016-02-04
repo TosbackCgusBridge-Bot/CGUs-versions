@@ -12,9 +12,13 @@ Skip to main content       Military Students | Education Resources      
     *   Religious Studies
     *   Technology
     *   Vocational Training
+*   Online Degrees by Level
+    *   Online Associates Degrees
+    *   Online Bachelor's Degrees
+    *   Online Master's Degrees
+    *   Online Doctorate Degrees
 *   Online Certificates
 *   Online Colleges
-*   Transfer Students
 *   Free Career Assessment
 *   Popular Degrees
     *   Accounting Degrees
