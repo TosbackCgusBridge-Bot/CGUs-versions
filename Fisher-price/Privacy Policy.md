@@ -86,7 +86,7 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   See what's most important to moms around the world.
     *   The Happy Factor
 *   GAMES &. ACTIVITIES Online Games Apps for Kids Online Videos Coloring Pages Crafts for Kids Play &. Learn Activities
-*   OUR STORY Safety Earning your trust Research Learning from the experts Heritage How we’ve grown Loved and Trusted See all >.
+*   OUR STORY Safety Earning your trust Research Learning from the experts Heritage How we’ve grown Loved &. Trusted Thanks, Mom! See all >.
 *   STORE
 *   EN ESPAÑOL
 
