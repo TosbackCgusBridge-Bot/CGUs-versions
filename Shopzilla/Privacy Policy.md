@@ -49,13 +49,10 @@ Connexity
 Toggle navigation blog navsite nav
 
 *   Solutions
-    *   Paid Search &. Marketplace
-        *   Managed Search Services
-            *   PLAs
-            *   SEM
-            *   SEO
-        *   CPC Marketplace Listings
-            *   Connexity CPC Marketplace
+    *   CPC Listings
+        *   Retailer Listings
+        *   Retailer Site Monetization
+        *   Publisher Monetization
     *   Bizrate Insights &. Ratings
         *   Consumer Insights
             *   Surveys
@@ -67,17 +64,10 @@ Toggle navigation blog navsite nav
         *   Competitive Intelligence
         *   Advisory Services
         *   Subscriptions
-    *   Display Media
-        *   Audience Targeting
-            *   In-market
-            *   Lifestyle &. life stage
-            *   Custom
-        *   Contextual Shopping Sites
-        *   Retargeting
-        *   Multi-screen
-    *   Publisher Monetization
-        *   CPC Product Monetisation
-        *   CPM Display Monetisation
+    *   Programmatic
+        *   Our Audiences
+        *   Your Audiences
+        *   Modeled Audiences
 *   About
     *   About Connexity
     *   Open Positions
