@@ -40,9 +40,9 @@ PlayMemoriesSpark your imagination &. find new ways to enjoy your photos. Explor
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! Fast Autofocus for the Perfect Shot
+Your browser does not support JavaScript! Focus That's Fast Enough to Capture the Action
 
-See the a6000
+Introducing the New a6300 Camera
 
 Close
 
@@ -52,7 +52,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-See the a6000
+Introducing the New a6300 Camera
 
 Run Faster, Stronger, Smarter
 
