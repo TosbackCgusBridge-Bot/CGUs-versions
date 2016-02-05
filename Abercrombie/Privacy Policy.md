@@ -1,7 +1,7 @@
 ABERCROMBIE &. FITCH US  
 PRIVACY POLICY
 
-Updated: January 2016
+Updated: February 2016
 
 AD COOKIE POLICY  
 How Third Parties Serve You Our Advertisements On Other Websites and Your Choices
