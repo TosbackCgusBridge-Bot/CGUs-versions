@@ -1,7 +1,7 @@
 Hollister Co. US  
 Privacy Policy
 
-Updated: January 2016
+Updated: February 2016
 
 Ad Cookie Policy How Third Parties Serve You Our Advertisements On Other Websites and Your Choices
 
