@@ -76,9 +76,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-@OutsidersWGN: Catch up with the first episode of #OutsidersWGN on @Crackle. www.crackle.com
+This FRIDAY our ticket upload window is open for #PPZmovie! Earn Sony Rewards points by uploading them here. sonyrewards.com
 
-2016-02-02 13:42:57+00:00
+2016-02-03 16:49:01+00:00
 
 View Tweet
 
@@ -226,9 +226,9 @@ Sony on YouTube
 
 Play Video
 
-Gravity Rush Gets Remastered
+A Treasure Worth Collecting
 
-Play on PS4™
+Pre-Order Today
 
 Close
 
