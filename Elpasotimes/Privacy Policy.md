@@ -100,256 +100,284 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ World New intelligence estimates there are 20-25K Islamic State fighters
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Elections Clinton, Sanders tangle in fierce one-on-one Democratic debate
 
 TOP STORIES
 
-*   World Assange says he'll accept arrest if U.N. rules against him
-*   Elections At town hall, Sanders downplays N.H. expectations
-*   People Judge rules against Cosby, criminal trial will proceed
-*   IRS computer problems shut down e-file system
-*   Fact check: Clinton’s bipartisan bluster
-*   'Hated' CEO Martin Shkreli told to zip it
-*   The prayer breakfast from Eisenhower to Obama
-*   Darren Sharper get tougher sentence for rape
-*   Lawsuit: Lottery fraud reduced winner's payout
-*   Trump plane has 'engine problems'
-*   9 potential suitors for Yahoo
-*   How many CTE cases will it take to spark change?
-
-Movies
-
-Who's who in Coens' 'Hail, Caesar!' Hollywood
+*   Music Earth, Wind &. Fire's Maurice White was a shining star of R&B
+*   Actionsports BMX star Dave Mirra dies
+*   OnPolitics Fifth Democratic debate: Highlights from N.H.
+*   UK wants authority to serve warrants in U.S.
+*   Clinton to Sanders: End the 'very artful' smears
+*   Kik messaging app scrutinized in wake of murder
+*   Johnny Manziel's ex-girlfriend: QB assaulted her
+*   Reports: Two NYPD officers shot in the Bronx
+*   EPA tests show better results for Flint lead filters
+*   Hassan: Clinton just might beat Sanders in N.H.
+*   The 8 most important new 'Kimojis'
+*   Six found slain in Chicago home
 
 OnPolitics
 
-Marco Rubio wants you to call him 'bae'
+Politics stressing you out? Our 2016 coloring book is here
 
 Nation Now
 
-Universal Hollywood unveils demand-based pricing
+Rappers who ran into burning house for boy honored
 
-OnPolitics
+NFL
 
-Donald Trump says Ted Cruz 'stole' Iowa
-
-OUR PICKS Money
-
-Moonves succeeds Redstone as CBS chairman
+NFL cheerleaders scoring victories in labor lawsuits
 
 Nation Now
 
-Smithsonian black history museum still on lookout for artifacts
+Fairfield Four gospel singer, in 'O Brother,' dies at age 84
 
-News
+SUPER BOWL 50 Ad-Meter
 
-Everything you need to know about Zika
+Sign up to be a Super Bowl Ad Meter panelist
 
-Nation
+Weather
 
-11 Super Bowl snacks you need in your life this weekend
+Super Bowl weather forecast looks super
 
-Vegans, Rejoice! Ben &. Jerry's now has dairy-free ice cream
+Voices
 
-The ice cream company says it had to do a lot of testing, but it's now offering four new almond-based flavors. Video provided by Newsy
+Voices: A Super Bowl dream comes true
 
-1 of 22 See more video
+Money
 
-Judge rules against Bill Cosby in sexual assault case
+Our favorite celebrity Super Bowl ads from 2015
 
-A Philadelphia judge has ruled that the criminal sexual assault case against Bill Cosby can move forward. The next step is a preliminary hearing to determine if a trial will be held.
+Naked man accused of attacking teen at bus stop
 
-2 of 22 See more video
+A man is charged with assault for attacking a 16-year-old girl walking home from her school bus. Neighbors came to her rescue and pulled the man off of her.
+
+1 of 26 See more video
+
+Ad Meter 2016: WeatherTech 'Resources'
+
+Ad Meter 2016: WeatherTech 'Resources' .
+
+2 of 26 See more video
+
+Guarding your home from the Zika virus
+
+A USA TODAY motion graphic showing how to prevent your home from becoming a breeding ground for the Aedes mosquito, known to spread the Zika virus. Source: National Environmental Health Association
+
+3 of 26 See more video
+
+Ad Meter 2016: Pepsi 'Joy of Pepsi'
+
+Ad Meter 2016: Pepsi 'Joy of Pepsi'.
+
+4 of 26 See more video
+
+Ad Meter 2016: Hyundai 'First Date'
+
+Ad Meter 2016: Hyundai 'First Date'.
+
+5 of 26 See more video
+
+'Hated' drug exec Martin Shkreli grins before Congress
+
+Drug executive Martin Shkreli, who vigorously defends his decision to hike the price of a life-saving drug, went silent and smirked as he appeared at a Congressional hearing on Thursday.
+
+6 of 26 See more video
+
+Earth, Wind, &. Fire leader Maurice White dead at 74
+
+Maurice White, the founder and leader of the legendary R&B group Earth, Wind &. Fire, has passed away at the age of 74. He is known for creating the eclectic sound behind dance hits like 'September' and 'Boogie Wonderland.'
+
+7 of 26 See more video
+
+Coldplay's 'Left Shark' moment
+
+Coldplay remembers Super Bowl halftime shows of years past, and explain why they're picking the 'Denver Panthers' to win Super Bowl 50.
+
+8 of 26 See more video
+
+Why some people can't handle drinking as well as others
+
+There are simple physiological reasons why some people can handle drinking as well as others. Patrick Jones (@Patrick\_E\_Jones) explains.
+
+9 of 26 See more video
+
+Panda cub Bei Bei ventures outdoors for first time
+
+The Smithsonian National Zoo's latest panda cub Bei Bei got his first taste of the outdoors on Thursday afternoon. (Feb. 4)
+
+10 of 26 See more video
+
+Johnny Manziel's ex-girlfriend: He assaulted me
+
+The ex-girlfriend of NFL quarterback Johnny Manziel told police that the Heisman Trophy winner told her "shut up or I'll kill us both" after physically assaulting her.
+
+11 of 26 See more video
+
+Best Super Bowl ads breakout stars
+
+Super Bowl 50 is almost here, and we're counting down the greatest big game commercials of all time. Here's a look at the best breakout stars of Super Bowl ads.
+
+12 of 26 See more video
+
+Rare American crocodile hanging out near condo building
+
+Residents in Cape Coral, Florida spotted a rare American crocodile that has been hanging out near a condominium building.
+
+13 of 26 See more video
+
+Ad Meter 2016: Mini '#DefyLabels'
+
+Ad Meter 2016: Mini '#DefyLabels'.
+
+14 of 26 See more video
+
+Ad Meter 2016: Snickers 'Marilyn'
+
+Ad Meter 2016: Snickers 'Marilyn'.
+
+15 of 26 See more video
 
 Video captures only known wild jaguar in U.S.
 
 This video of the only known jaguar in the U.S. is part of an effort to track, preserve and monitor the endangered species.
 
-3 of 22 See more video
+16 of 26 See more video
 
-Go behind the scenes at Puppy Bowl XII
+Firefighters rescue dog from drainage culvert
 
-A behind-the-scenes look at the Puppy Bowl - Animal Planet's adorable alternative to the Super Bowl. The event takes three 12-hour days to shoot and months to edit into the final product you'll see on television this weekend.
+A 3-year-old Border Collie got stuck in a culvert but firefighters came quick to her rescue and she was back to wagging her tail in no time.
 
-4 of 22 See more video
+17 of 26 See more video
 
-Get a sneak peak at artifacts headed to the new Smithsonian
+Man tries to sell drugs in courtroom, gets arrested
 
-USA TODAY's Deborah Barfield Berry gets a sneak peak at amazing items destined for the new Smithsonian Institution's National Museum of African American History and Culture.
+A man was arrested trying to sell drugs to someone during traffic court. Gillian Pensavalle (@GillianWithaG) explains.
 
-5 of 22 See more video
-
-Who is 'Serial' subject Adnan Syed?
-
-Adnan Syed was convicted for murdering his ex-girlfirend in 1999 at the age of 17. Now his case might be getting a second chance.
-
-6 of 22 See more video
-
-Caught on cam: Simple tool saves high schooler's life
-
-You don't hear of many kids suffering from cardiac arrest. This 17-year-old's scare was caught on camera, along with the quick action from school staff that saved her life, but not all schools are ready for this kind of emergency.
-
-7 of 22 See more video
-
-Firefighter goes all out to cheer up kindergartner
-
-A lonely kindergartner was playing outside in a fireman outfit when a real firefighter from his hometown spotted him and pulled out all the stops to cheer him up.
-
-8 of 22 See more video
-
-Emotional House hearing on Flint: 'We poisoned kids'
-
-At the House hearing on Flint's water crisis, emotional testimony was heard by members of congress on the events leading up to the water contamination in the Michigan city.
-
-9 of 22 See more video
+18 of 26 See more video
 
 Outrageous Super Bowl commercials
 
 USA TODAY takes a look at Super Bowl commercials that grabbed your attention.
 
-10 of 22 See more video
+19 of 26 See more video
 
 Cheetah and dog race in epic video to see who's faster
 
 A cheetah and a dog are an unlikely pair but the San Diego Park Safari made it happen! In an amazing video, the two race to see who is faster. Keleigh Nealon (@keleighnealon) has the story!
 
-11 of 22 See more video
+20 of 26 See more video
+
+Fierce winds force waterfalls to flow backwards
+
+At the Isle of Mull in Scotland, harsh winds turned the stream of two waterfalls upside down. Video courtesy of www.isleofmullcottages.com
+
+21 of 26 See more video
 
 Giant anaconda found in Florida neighborhood
 
 A Florida woman was walking her dogs when all of a sudden she spotted the 9-foot-long anaconda snake in the grass. The snake has been euthanized and questions remain on where it came from.
 
-12 of 22 See more video
+22 of 26 See more video
 
 Most iconic Super Bowl ads of all time
 
 Some Super Bowl ads are unforgettable. these are a few of the most iconic throughout the years.
 
-13 of 22 See more video
+23 of 26 See more video
 
-Puppy would have never walked if not for this
+Special needs teen scores 'golden goal' for team
 
-Volunteers are logging countless hours of therapy to help an English bulldog puppy who can't walk or even stand up on his own.
+The program "Golden Goals" helped facilitate this winning soccer goal by special needs high school senior Katherine Booras.
 
-14 of 22 See more video
-
-Luckiest dog in the world survives being shot in the back
-
-After being found with an arrow in her back, a dog was rushed to an animal clinic. The stray pup managed to survive the desperate attempt to save her life but all eyes are still on her progress. Keleigh Nealon (@keleighnealon) has the story.
-
-15 of 22 See more video
-
-This university requires new students to wear Fitbits
-
-Some students have a problem, but it's not because the school is collecting their personal information. Video provided by Newsy
-
-16 of 22 See more video
+24 of 26 See more video
 
 Ad Meter 2016: Heinz ketchup 'Wiener Stampede'
 
 Ad Meter 2016: Heinz ketchup 'Wiener Stampede'.
 
-17 of 22 See more video
+25 of 26 See more video
 
 Police officer mistaken for stripper when checking in on wild party
 
 A group of women celebrating a 50th birthday party went wild at the sight of a police officer and mistook him for the stripper they ordered. Gillian Pensavalle (@GillianWithaG) has the story.
 
-18 of 22 See more video
+26 of 26 See more video Last VideoNext Video news
 
-Flight attendants lose their cool, get into fist fight mid-air
+Wipe that smirk off your face: A 5,000% drug increase is no joke
 
-Two flight attendants who weren't able to solve their issues on the group took them to flight! When a fist fight broke out, a third stepped in to help but all three ended up getting kicked out. Keleigh Nealon (@keleighnealon) has the story!
+Sperm banks draft Zika virus policy
 
-19 of 22 See more video
+6 hours, 48 minutes | News
 
-Bank manager won't let would-be robber through the door
+Crocodile gets comfortable in Fla. neighborhoodZika Q&A: What you need to know about sex, blood donationsUndocumented worker injured on job seeks aid in court sports
 
-Someone tried to rob a bank and the manager had a pretty straight forward response: he just didn't let the guy in. Gillian Pensavalle (@GillianWithaG) has the video.
+Joe Montana on life at 59: 'I can't really run or do much'
 
-20 of 22 See more video
+Manziel's ex-girlfriend says QB assaulted her
 
-These controversial commercials didn't make the Super Bowl cut
+5 hours, 36 minutes | Cleveland Browns
 
-USA TODAY takes a look at some of the recent commercials that were rejected by the networks broadcasting the Super Bowl.
+Super Bowl picks: Who takes home Lombardi trophy?Broncos back at full strength for Super Bowl 50Changes may be coming to NBA's 'Hack-a-Shaq' rule life
 
-21 of 22 See more video
+Earth, Wind &. Fire founder Maurice White dead at 74
 
-Avoid hotel annoyances with these tips
+Cross WordsAll GamesEntertain This! Earth, Wind &. Fire's Maurice White was a shining star of R&BThe 8 most important new "Kimojis"Bruce Springsteen fulfills fan's bucket list with a dance money
 
-It's unavoidable: We've all been annoyed by hotel staff at one time or another. But before you lose your cool, take a deep breath and remember these three tips.
+Average 30-year mortgage rate falls for a 5th straight week
 
-22 of 22 See more video Last VideoNext Video news
+StocksPortfolio TrackerAmerica's Markets Is job growth poised to slow in 2016?Obama to propose $10-a-barrel oil taxObama oil tax proposal would cost motorists tech
 
-Assange says he'll accept arrest if U.N. rules against him
+'Feel-good' wearables promote dopamine, endorphins
 
-Hillary Clinton, Bernie Sanders battle over meaning of…
+UK wants authority to serve warrants in U.S.
 
-45 minutes | Elections
+2 hours, 17 minutes | News
 
-Controversial bill aims to privatize air-traffic controlHow presidents pray: The prayer breakfast from Eisenhower to ObamaAfter Satanists' plea, Phoenix City Council votes to end prayer at… sports
+Atlas V on pad for Friday launch of GPS satelliteWhen will smartphones take over the planet?Love Legos? Love 'Star Wars?' You'll love this news travel
 
-Eli Manning weighs in on Peyton's question marks
+The ultimate guide to what's free in Europe
 
-Steph Curry drops 51 as Warriors win
+Our guide to the hottest new cruise ships on order
 
-1 hour, 3 minutes | NBA
+16 hours, 52 minutes | Cruise Log
 
-Armour: How many CTE cases is enough?Alabama recruiting class elite againCam Newton's season not just great. it's historic life
+State flowers: The bloom to come after winter's gloomRed velvet 32 ways for Valentine's DayPark City’s best-kept dining secret Reviewed.com
 
-Judge rules against Cosby, criminal trial will proceed
-
-Cross WordsAll GamesEntertain This! Time runs out for WGN America's 'Manhattan'Critic's Corner: Rosie O'Donnell guest stars on 'Mom'Judge rules against Bill Cosby in sexual assault case money
-
-Calif. lottery winner could lose $63 million prize
-
-StocksPortfolio TrackerAmerica's Markets IRS computer problems shut down e-file system'Hated' CEO Martin Shkreli told to zip it Moonves succeeds Redstone as CBS chairman tech
-
-Facebook in 2030? 5 billion users, says Zuck
-
-Mall owner backtracks from Amazon bookstore statement
-
-6 hours, 6 minutes | News
-
-The long, troubled history of Yahoo's top execs9 potential suitors for YahooGoPro misses by a mile: Shares down 10% travel
-
-Photo tour: The luxury of a Crystal Cruises ship
-
-10 drop-dead gorgeous indoor pools around the world
-
-16 hours, 29 minutes | Hotels
-
-Universal Hollywood unveils demand-based pricingIowa’s Toppling Goliath Brewing aims for 'perfect beer'Unaccompanied minors flying: What you need to know Reviewed.com
+What's a third rack dishwasher, and do I need one?
 
 Tide launches laundry service with free delivery
 
-Buying seafood? When frozen is the smarter choice
+1 day, 9 hours | Tech
 
-12 hours, 21 minutes | Money
+Buying seafood? When frozen is the smarter choiceReviewed.com's ultimate guide to the big gameThe best slow cookers for the big game experience
 
-Reviewed.com's ultimate guide to the big gameThe best slow cookers for the big gameCanon’s new flagship DSLR takes aim at Nikon experience
+Photo tour: The luxury of a Crystal Cruises ship
 
-Merry-go-rounds: 10 of the oldest carousels in the USA
+10 top chocolate spots for Valentine's Day treats
 
-The Caribbean's most romantic seaside restaurants
+2 days, 17 hours | Food &. Wine
 
-1 day, 17 hours | Caribbean
+Merry-go-rounds: 10 of the oldest carousels in the USAThe Caribbean's most romantic seaside restaurantsLas Vegas' latest hotel renovations reach for the stars VOICES Opinion
 
-Tour Marché de Rungis, the world’s biggest food marketLas Vegas' latest hotel renovations reach for the starsExclusive: First look at Uniworld's new river ship in India VOICES Opinion
+Montel Williams: I'd return to GOP for Kasich
 
-Mosquitoes, this time it is war: Column
+Columnist
+
+Why there's nothing fake about Facebook friends
+
+Register Editorial
+
+Editorial: Something smells in the Democratic Party
 
 Opinion
 
-Ted Cruz's flawed tax plan: Our view
+Trump, Sanders and the maverick state: Column
 
-Rieder
+News
 
-Rieder: What next for Trump media circus?
-
-Voices
-
-Voices: Cuban consulate in Miami sparks debate
+Zika Q&A: What you need to know about sex, blood donations
 
 Nation Now
 
@@ -361,29 +389,25 @@ Sign up to be a Super Bowl Ad Meter panelist
 
 Elections
 
-For the Record: Sign up for our new politics newsletter
-
-Super-Bowl
-
-Ad Meter: Vote for the all-time best Super Bowl commercial
+For the Record: Sign up for our politics newsletter
 
 *   Day in celebrities
 *   2016 presidential race dropouts
-*   February political cartoons from Gannett cartoonists
+*   Meet some of the cute Puppy Bowl XII players
 *   Your Take: USA TODAY's top reader photo of the day
-*   Merry-go-rounds: 10 of the oldest carousels in the USA
+*   February political cartoons from Gannett cartoonists
 
 Trending on Social
 
-*   Assange says he'll accept arrest if U.N. rules against him
+*   Hurricane Patricia's winds reached record 215 mph
     
-*   IRS computer problems shut down e-file system
+*   Tom Brady to attend NFL's Super Bowl 50 ceremony despite Deflategate flap
     
-*   Aqib Talib, Chris Harris in sync on Broncos' Super Bowl mission
+*   Johnny Manziel's ex-girlfriend tells police QB assaulted her
     
-*   Want to know why voters are so mad? Mia Love has the answer: Glenn Reynolds
+*   Joe Montana at 59: 'I can't really run or do much'
     
-*   Trailer reveal: Emilia Clarke and Sam Claflin in 'Me Before You'
+*   BMX star Dave Mirra dies
     
 
 AD CONTENT Right Now
