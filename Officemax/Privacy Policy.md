@@ -17,7 +17,7 @@ SEG1 hp
 
 Office Depot Deals
 
-j4t6vvx90JpSBlFB5nuD7uT
+ugWKrsumqcZp6G3B8LwSrcY
 
 Search Suggestions
 
@@ -25,9 +25,10 @@ Category Matches
 
 Your recent searches
 
+*   Ideas
+*   Account
 *   STORES
-*   CART 0
-*   MY OFFICE DEPOT  
+*   0 CART
 
 *   Office Supplies
 *   Paper
@@ -39,6 +40,8 @@ Your recent searches
 *   School Supplies
 *   Copy &. Print
 *   $ Deals
+
+MY OFFICE DEPOT  
 
 *   Don't show this again
 *   Privacy Policy
