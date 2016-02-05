@@ -1,10 +1,10 @@
   
 
-Did you activate (or renew) service prior to November 14, 2015? If yes, please click the date for the applicable version of the Terms and Conditions: June12, 2015 | March 18, 2015 |November 10, 2014 |March 27, 2014 |October 20, 2013 |December 30, 2011 |July 24, 2011 |July 18, 2010 |June 28, 2008 | December 2004
+Did you activate (or renew) service prior to January 25, 2016? If yes, please click the date for the applicable version of the Terms and Conditions: November 14, 2015 | June12, 2015 | March 18, 2015 |November 10, 2014 |March 27, 2014 |October 20, 2013 |December 30, 2011 |July 24, 2011 |July 18, 2010 |June 28, 2008 | December 2004
 
 **T-Mobile Terms &. Conditions**
 
-Effective as of November 14, 2015
+Effective as of January 25, 2016
 
 Thanks for choosing T-Mobile. Please read these Terms &. Conditions (T&Cs), which contain important information about your relationship with T-Mobile, including mandatory arbitration of disputes between us, instead of class actions or jury trials. You will become bound by these provisions once you accept these T&Cs.
 
@@ -78,9 +78,9 @@ These T&Cs describe the experience you can expect on our network, including info
 
 *   Please check our coverage maps, which approximate our anticipated coverage area outdoors. Your experience on our network may vary and change without notice depending on a variety of factors. For more information, click here. You agree that we are not liable for problems relating to Service availability or quality.
 *   For more information about roaming, click here.
-*   To provide the best possible experience for the most possible customers, we prioritize the data usage of a small percentage of our Unlimited high-speed data customers who use the highest amount of data below that of other customers in times and locations where there are competing customer demands for network resources. Click here for more information.
+*   To provide the best possible experience for the most possible customers, we prioritize the data usage of a small percentage of our data customers who use the highest amount of data (currently, more than 25GB) below that of other customers in times and locations where there are competing customer demands for network resources. Click here for more information.
 *   Additionally, we may implement other network management practices, such as caching less data and deploying streaming video optimization technology. For more information on video optimization, click here.
-*   Our Open Internet Policy includes important information on these topics as well as information on commercial terms, performance characteristics (such as expected speed, latency and packet loss) and network practices.
+*   Our Open Internet Policy includes important information on these topics as well as information on commercial terms, performance characteristics (such as expected speed, latency) and network practices.
 
 **\*WHAT ARE THE PERMITTED AND PROHIBITED USES FOR MY DEVICE AND THE SERVICE?**
 
@@ -150,7 +150,7 @@ Click here for additional terms that apply to you.
 
   
 
-**Dispute Resolution** Go Back
+**Dispute Resolution**
 
 **\*HOW DO I RESOLVE DISPUTES WITH T-MOBILE?**
 
@@ -168,7 +168,7 @@ For all disputes (except for Puerto Rico customers), whether pursued in court or
 
 **PUERTO RICO CUSTOMERS** **:** We will provide you with a determination regarding any dispute you present to us within 15 days after we receive it. You will have 20 days from the mailing date of the notification to request a reconsideration of our determination. You may appeal our determination to the Telecommunications Board of the Commonwealth of Puerto Rico (Telecommunications Board) by filing a petition for review up to 30 days after the date of our determination. Your petition for review shall be made through the filing of a document containing the following information: (a) your name and address. (b) our company name. (c) the pertinent facts. (d) any applicable legal provisions that you are aware of. and (e) the remedy you are requesting. The document may be filed handwritten or typewritten, and must be signed by you. You must send us a copy of your document to the following address: 654 Muñoz Rivera Avenue, Suite 2000, Hato Rey, Puerto Rico 00918, Attn: Customer Care Manager. You must send your petition for review to the Puerto Rico Telecommunications Regulatory Board at the following address: 500 Ave. Roberto H. Todd (Pda. 18  Santurce), San Juan, Puerto Rico 00907-3941. The Telecommunications Board will review our determination only on appeal. You are advised of the provisions regarding suspension of Service that appear in Law 33 of July 7, 1985, Law 213 of September 12, 1996 and Regulations 8065 promulgated on August 31, 2011 by the Telecommunications Board regarding the procedures for customers dispute resolution and suspension of Services.
 
-**Other Terms Regarding Dispute Resolution** Go Back
+**Other Terms Regarding Dispute Resolution**
 
 **\*HOW CAN I DISPUTE MY CHARGES?**
 
@@ -196,21 +196,21 @@ You agree to defend, indemnify, and hold us and our directors, officers, and emp
 
   
 
-**Additional Terms for Prepaid Customers** Go Back
+**Additional Terms for Prepaid Customers**
 
 Your T-Mobile prepaid Service account balance, if sufficient, or your active prepaid plan, gives you access to our prepaid Service for a limited amount of time. you must use your prepaid Service during the designated period of availability. To use our prepaid Service you must have a T-Mobile prepaid Service account balance for pay as you go service or be on an active prepaid plan. Service will be suspended when your account balance reaches zero and/or you are at the end of the time period associated with your prepaid plan. Monthly plan features are available for 30 days, however, depending on the time of day that you activate your Service or that your Service expires, your service cycle may not equal 30 full 24 hour days. Your monthly plan will automatically renew at the end of 30 days if you have a sufficient T-Mobile prepaid Service account balance to cover your prepaid Service plan before the first day after your service cycle. If you do not have a sufficient T-Mobile prepaid Service account balance, your prepaid Service will be suspended unless you move to a pay as you go plan. If you do not reinstate prepaid Service within the required period based upon your service plan, your phone number will be reallocated. The Charges for Service and the amount of time that Service is available following activation of your prepaid Service account balance may vary. see your Rate Plan for more information. Prepaid Service is non-refundable (even if returned during the Cancellation Period), and no refunds or other compensation will be given for unused airtime balances, lost or stolen prepaid cards, or coupons. You will not have access to detailed usage records or receive monthly bills. Coverage specific to our prepaid Service may be found at http://prepaid-phones.t-mobile.com/prepaid-coverage and differs from coverage related to our postpaid Service.
 
   
 
-**Using Our Network** Go Back
+**Using Our Network**
 
 **WILL MY SERVICE VARY? WHAT FACTORS MAY AFFECT MY SERVICE?**
 
 As our customer, your actual Service area, network availability, coverage and quality may vary based on a number of factors, including network capacity, terrain and weather. Outages and interruptions in Service may occur, and speed of Service varies. Devices also have varying speed capabilities and may connect to different networks depending on technology. Even within coverage areas and with broadband-capable devices, network changes, traffic volume, outages, technical limitations, signal strength, obstructions, weather, and other conditions may impact speeds and service availability.
 
-We engineer our network to provide consistent high-speed data service, but at times and at locations where the number of customers using the network exceeds available network resources, customers will experience reduced data speeds. To provide the best possible experience for the most possible customers and minimize capacity issues and degradation in network performance, we may, without advance notice, take any actions necessary to manage our network on a content-agnostic basis, including prioritizing the data usage of a small percentage of Unlimited high-speed data customers who use the highest amount of data below that of other customers in times and locations where there are competing customer demands for network resources, for the remainder of the billing cycle. Where the network is lightly loaded in relation to available capacity, a customer whose data is de-prioritized will notice little, if any, effect from having lower priority. This will be the case in the vast majority of times and locations. At times and locations where the network is heavily loaded in relation to available capacity, however, these customers will likely see significant reductions in data speeds, especially if they are engaged in data-intensive activities. We constantly work to improve network performance and capacity, but there are physical and technical limits on how much capacity is available, and in constrained locations the frequency of heavy loading in relation to available capacity may be greater than in other locations. When network loading goes down or the customer moves to a location that is less heavily loaded in relation to available capacity, the customers speeds will likely improve. See www.T-Mobile.com/OpenInternet for details and for current data amount subject to this practice.
+We engineer our network to provide consistent high-speed data service, but at times and at locations where the number of customers using the network exceeds available network resources, customers will experience reduced data speeds. To provide the best possible experience for the most possible customers and minimize capacity issues and degradation in network performance, we may, without advance notice, take any actions necessary to manage our network on a content-agnostic basis, including prioritizing the data usage of a small percentage of data customers who use the highest amount of data (currently, more than 25GB) below that of other customers in times and locations where there are competing customer demands for network resources, for the remainder of the billing cycle. Where the network is lightly loaded in relation to available capacity, a customer whose data is de-prioritized will notice little, if any, effect from having lower priority. This will be the case in the vast majority of times and locations. At times and locations where the network is heavily loaded in relation to available capacity, however, these customers will likely see significant reductions in data speeds, especially if they are engaged in data-intensive activities. We constantly work to improve network performance and capacity, but there are physical and technical limits on how much capacity is available, and in constrained locations the frequency of heavy loading in relation to available capacity may be greater than in other locations. When network loading goes down or the customer moves to a location that is less heavily loaded in relation to available capacity, the customers speeds will likely improve. See www.T-Mobile.com/OpenInternet for details.
 
-**Roaming** Go Back
+**Roaming**
 
 **\*CAN I ROAM ON MY DEVICE?**
 
@@ -220,11 +220,11 @@ We engineer our network to provide consistent high-speed data service, but at ti
 
   
 
-**Streaming Video** Go Back
+**Streaming Video**
 
 We may deploy streaming video optimization technology throughout our network so that available network capacity can be utilized to provide a good service experience for the maximum number of customers. This technology is intended to manage data usage on the network, reduce the risk of streaming video stalling and buffering, and reduce the amount of high-speed data consumed for streaming video. Streaming video optimization improves streaming video reliability and, by reducing the amount of data used for streaming video on the network, makes room for other users to enjoy higher speeds. The streaming video optimization process is agnostic as to the streaming video content itself and to the service that provides it. While video streaming optimization happens in the background and should be indiscernible, the optimization process may minimally impact the appearance of the streaming video as displayed on a users device, but is very unlikely to be noticed by users in most circumstances.  
 
-**Examples of Permitted and Prohibited Uses of the Service and Your Device** Go Back
+**Examples of Permitted and Prohibited Uses of the Service and Your Device**
 
 Permitted uses include:
 
@@ -256,7 +256,7 @@ Unless explicitly permitted by your Rate Plan or Data Plan, you are not permitte
 
   
 
-**Information about What Happens if Your Device is Lost or Stolen** Go Back
+**Information about What Happens if Your Device is Lost or Stolen**
 
 Once you notify us that your Device has been lost or stolen, we will suspend your Service and you will not be responsible for additional usage charges incurred in excess of your Rate Plan Charges, applicable taxes, fees, and surcharges. If Charges are incurred before you notify us, you are not liable for Charges you did not authorize. However, the fact that your Device or account was used is some evidence of authorization. You may request us to investigate Charges you believe were unauthorized. We may ask you to provide information and you may submit information to support your request. If we determine the Charges were unauthorized, we will credit your account. If we determine the Charges were authorized, we will inform you within 30 days and you will remain responsible for the Charges. If you request that we not suspend your Service, you will remain responsible for all Charges incurred. We may prevent a lost or stolen Device from registering on our and other networks.
 
@@ -264,7 +264,7 @@ You can click here to learn about additional anti-theft measures that may apply 
 
   
 
-**Billing Information** Go Back
+**Billing Information**
 
 Please read the following for more information about how we bill for calls, data usage and messaging, Wi-Fi usage, third party charges, taxes, and surcharges.
 
@@ -274,13 +274,13 @@ Please read the following for more information about how we bill for calls, data
 
 **Surcharges** : You agree to pay all surcharges. Surcharges are not mandated or imposed on you by law, they are T-Mobile Charges that are determined, collected and retained by us. The components and amounts of the surcharges are subject to change without notice. Surcharges include charges, costs, fees and certain taxes that we incur to provide Services (and are not government taxes or fees imposed directly on our customers). Examples include general and administrative fees (such as certain costs we incur to provide Service) as well as governmental-related assessments (such as Federal or State Universal Service fees, regulatory or public safety charges, and gross receipts taxes). Surcharges assessed to you may vary depending on the type of Service you have. Surcharges will apply whether or not you benefit from the programs, activities or services included in the Surcharge. You can find the surcharges in either the Taxes, Fees &. Surcharges, T-Mobile Fees and Charges or the Other Charges sections of your bill. Regardless of any rate plan guarantee, surcharges may change from time to time without notice.  
 
-**Additional Software License Terms** Go Back
+**Additional Software License Terms**
 
 Except as permitted by applicable law, you may not assign, transfer, sublicense, copy, reproduce, redistribute, resell, modify, decompile, attempt to derive the source code of, or reverse engineer all or any part of the Software, or alter, disable or circumvent any digital rights management security features embedded in the Software. The Software may not be transferable from one Device to another Device. You may not create derivative works of all or any part of the Software. You agree the Software contains proprietary content and information owned by T-Mobile, its licensors, and/or other third parties. T-Mobile, its licensors, and such other third parties reserve the right to change, suspend, terminate, remove, impose limits on the use or access to, or disable access to, the Software at any time without notice and will have no liability for doing so. You agree that your violation of the Software license harms T-Mobile, its licensors, and/or other third parties, which cannot be fully redressed by money damages, and that T-Mobile, its licensors, and such other third parties shall be entitled to immediate injunctive relief in addition to all other remedies available.
 
   
 
-**Additional Terms** Go Back
+**Additional Terms**
 
 If we don't enforce our rights under this Agreement in one instance, that doesn't mean we won't or can't enforce those rights in any other instance. Except as provided in the Section entitled How Do I Resolve Disputes with T-Mobile, if any part of the Agreement is held invalid that part may be severed from the Agreement.
 
