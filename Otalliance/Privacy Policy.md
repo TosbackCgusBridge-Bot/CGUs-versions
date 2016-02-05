@@ -30,7 +30,6 @@ Skip to main content Online Trust Alliance
     *   Email Security &. Integrity
     *   Malicious Threats
     *   Web and Mobile Security
-    *   Educational Videos and Webinars
     *   Glossary
 *   Best Practices
 *   Committees
@@ -43,7 +42,6 @@ Skip to main content Online Trust Alliance
         *   Recent Events
         *   Events Archive
 *   Membership
-    *   Benefits
     *   History &. Overview
     *   Member Levels
     *   Donate
@@ -53,7 +51,6 @@ Skip to main content Online Trust Alliance
     *   Non-Governmental Organizations
     *   Strategic Advisors
     *   Staff
-    *   Careers
 *   Blog
 
 *   Print
@@ -109,11 +106,9 @@ Wed, Feb 10, 2016 Creating Trust for the Internet of Things
 
 OTA's Craig Spiezle joins Scott Perry for this PECB Webinar on increasing trust in the Internet of Things through security, privacy and sustainability.  For pre-reading click here for more info on OTA's IoT Trust Framework and working group. 
 
-Mon, Feb 29, 2016 RSA Conference 2016 - Key Sessions &. Events
+Wed, Feb 10, 2016 EU-US Privacy Shield: Understanding the New Framework
 
-**OTA is a proud supporter and sponsor of RSA Conference 2016.  Join OTA staff, Board, Committee Chairs and members at these key sessions and member events to learn, connect and collaborate.** 
-
-**Register today for RSA 2016 using the OTA discount code 16UOTAFCD. the Expo**
+Register for this webinar today to hear directly from the Department of Commerce on the new EU-US Privacy Shield framework. The speaker will address a) what companies will need to do to comply with the new Framework, and b) what the differences are with the old Safe Harbor.  Eligible CPEs: 1.00 CPE/60 minutes.
 
 More >>.
 
@@ -143,7 +138,6 @@ More >>. Resources
 *   Email Security &. Integrity
 *   Malicious Threats
 *   Web and Mobile Security
-*   Educational Videos and Webinars
 *   Glossary
 
 Initiatives
@@ -170,7 +164,6 @@ News &. Events
 
 Membership
 
-*   Benefits
 *   History &. Overview
 *   Member Levels
 *   Donate
@@ -183,7 +176,6 @@ About Us
 *   Non-Governmental Organizations
 *   Strategic Advisors
 *   Staff
-*   Careers
 
  
 
