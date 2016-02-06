@@ -18,9 +18,9 @@ LENOVO Menu
         6.  Coupon Page
         7.  Deals for Students and Educators
         8.  Clearance PCs
-    *   Groundhog Day 2-in-1 Sale! Save up to 46% on Select Systems
+    *   Sweet Deals PCs not Edible.
         
-        Sale ends February 3.
+        Sale ends February 10.
         
     *   Clearance Sale Get these deals before they’re gone.
         
