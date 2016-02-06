@@ -68,11 +68,11 @@ Privacy Policy | HSW
 
 Up Next
 
+*   HowStuffWorks NOW: The Heart of the James Webb Space Telescope
+*   The 'Harry Potter and the Prisoner of Azkaban' Quiz
+*   'The Simpsons' Guest Appearances Quiz
 *   HowStuffWorks NOW: The Kitchen of Tomorrow
 *   BrainStuff: How To Forage For Edible Plants
-*   Stuff Mom Never Told You: Can I Date My Boss?
-*   Amulet of Quizzening +3 — The Dungeons &. Dragons Quiz
-*   Who Said It: Fictional President or Real President?
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,17 +292,17 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Is the Smart Kitchen Finally Smart?**
+**Watch Out, Damselfish. Here Comes Leatherface on His Personal Watercraft**
 
-**Calling All U.S. Presidential Candidates: Fix the Food System**
+**Are Super Bowl Ads Really Worth $30 Million?**
 
-**Scientists Are Outsourcing Their Work — to You**
+**13 Superb Owl Pictures That Are Truly Magnificent**
 
-**Chronic Fatigue Syndrome Affects Teens More Than We Thought, Finds New Study**
+**Peering Into the Heart of the James Webb Space Telescope**
 
-**New Study Finds Surprising Reason to Keep Your Kitchen Tidy**
+**Chrysler Builds the First Plug-in Hybrid Minivan (You Know You Want It.)**
 
-**Here's What Scientists Just Determined About the Moon's Influence on Rainfall**
+**This Salad Brought to You by Robots**
 
 **See More Headlines »**
 
