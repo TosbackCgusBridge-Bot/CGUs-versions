@@ -131,6 +131,10 @@ Your username and a temporary password have been emailed to the address you prov
 
 Should you need any other assistance, please contact support@asw.com.
 
-× Apply  
+Error ×
+
+An Error Has Occurred.
+
+Close × Apply  
 for  
-membership Start Application
+membership
