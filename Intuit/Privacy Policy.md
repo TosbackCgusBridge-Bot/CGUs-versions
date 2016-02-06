@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14460846411
+true true C14425867170
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p20.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Thu Feb 04 11:15:35 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p29.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Fri Feb 05 11:15:38 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,55 +49,19 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Today Online Only | Code: 2NOWSHOP Extra 25% Off\* select apparel, shoes, accessories, fine jewelry and home Or, Extra 15% Off select watches, salon products, furniture, mattresses, custom blinds and shades. Get details: Super Saturday Sale Starts Now! In Store and Online | Ends February 6 Shop Now View Store Ad Women 40% Off Women's Xersion
+$10 Off\* $25 Or More In Store and Online | Ends February 6 | Code: SUPRSAVN Print CouponOr, Extra 20% Off\* $100 or More Online Only | Ends February 6 | Code: 4SAVINGS Or, Extra 15% Off\* Online Only | Ends February 6 | Code: 4SAVINGS \*Exclusions and details Starts Now! In Store and Online Super Saturday Sale Shop Super Saturday Sale View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop ShoesNight and Day Doorbusters
+
+Friday 3PM CST Through Saturday 1PM CST
+
+Shop Doorbusters50 to 80% Off Clearance
+
+In Store and Online | New Markdowns
+
+Shop Clearance Home Flash Sale | Extra 30% Off Home In A Flash 2 Days Online Only! | Ends February 6 | Code: GET4YOU Extra 30% Off\* $100 or More Or, 25% Off\* Select Home Already 40 to 60% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds and Shades \*Exclusions and details Shop Home Flash Sale Valentine's Day Jewelry On Sale 20 to 60% Off Jewelry
 
 Select styles
 
-Shop Women's Xersion40 to 50% Off Juniors' Arizona
-
-Select styles
-
-Shop Juniors' Arizona20% Off 2 or More Bras
-
-Select styles
-
-Shop BrasMen 40 to 50% Off Men's Xersion
-
-Select styles
-
-Shop Men's Xersion50% Off Stafford Dress Shirts
-
-Select styles
-
-Shop Stafford Dress Shirts40% Off Guys' Arizona
-
-Select styles
-
-Shop Guys' ArizonaKids and Shoes 40% Off Kids' Xersion
-
-Select styles
-
-Shop Kids' Xersion40% Off Kids' Arizona
-
-Select styles
-
-Shop Kids' Arizona20% Off Nike Shoes
-
-Select styles. Excluded from coupon.
-
-Shop Nike ShoesHome and Jewelry 30 to 50% Off Bedding and Bath
-
-Select styles
-
-Shop Bedding and Bath40 to 50% Off Window
-
-Select styles
-
-Shop Window40% Off Diamond Jewelry
-
-Select styles
-
-Shop Diamond Jewelry Valentine's Day is February 14 Valentine's Day Gift Shop
+Shop All Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Valentine's Day is February 14 Valentine's Day Gift Shop
 
 Share the love. Love the savings.
 
@@ -113,7 +77,11 @@ $15 Off $15 Coupon | Online Only! | Ends February 14
 
 Spend $75 on E-Gift Cards and get a $15 off $15 coupon. Redeemable 2/15/16-2/29/16 in store and online. Some restrictions apply.
 
-Get details: SportsFanShop
+Get details: Activewear For The Family On Sale 40% Off Xersion For The Family
+
+Select styles
+
+Shop All Fitness Shop Men Shop Women Shop Boys Shop Girls       SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
