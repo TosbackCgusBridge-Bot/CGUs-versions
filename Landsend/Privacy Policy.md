@@ -92,6 +92,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Sleepwear
             *   Underwear &. Long Underwear
             *   Shoes
+            *   Bags
 *   Kids
     *   *   Back to Main Menu Kids
         *   Featured Shops
@@ -189,7 +190,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Supima Bedding &. Bath
             *   Flannel Bedding
             *   No Iron Bedding
-            *   Home Buying Guide
+            *   Canvas Totes &. More
             *   Sale
         
     *   *   **Bedding**
@@ -241,6 +242,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Shorts
             *   Dresses &. Jumpers
             *   Skirts &. Skorts
+            *   Blazers
             *   Activewear
             *   Outerwear
             *   Shoes
@@ -252,6 +254,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Sweaters
             *   Pants
             *   Shorts
+            *   Blazers
             *   Activewear
             *   Outerwear
             *   Shoes
