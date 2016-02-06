@@ -100,280 +100,238 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Elections Clinton, Sanders tangle in fierce one-on-one Democratic debate
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Money Millennials will spend the most for Super Bowl Sunday Read StorySuper Bowl forecast: SuperUber, Lyft riders in for surprisesSuper Bowl 50 predictionsBruno Mars is back for halftime show
 
 TOP STORIES
 
-*   Music Earth, Wind &. Fire's Maurice White was a shining star of R&B
-*   Actionsports BMX star Dave Mirra dies
-*   OnPolitics Fifth Democratic debate: Highlights from N.H.
-*   UK wants authority to serve warrants in U.S.
-*   Clinton to Sanders: End the 'very artful' smears
-*   Kik messaging app scrutinized in wake of murder
-*   Johnny Manziel's ex-girlfriend: QB assaulted her
-*   Reports: Two NYPD officers shot in the Bronx
-*   EPA tests show better results for Flint lead filters
-*   Hassan: Clinton just might beat Sanders in N.H.
-*   The 8 most important new 'Kimojis'
-*   Six found slain in Chicago home
-
-OnPolitics
-
-Politics stressing you out? Our 2016 coloring book is here
+*   Shinal Bye-bye Internet bubble 2.0
+*   Nation Now The most iconic Super Bowl ads of all time
+*   Cleveland Browns Police to investigate incident involving Manziel
+*   Police kill trans man having Asperger's meltdown
+*   Female combat recruit turns self in after deserting
+*   6.4M earthquake strikes Taiwan
+*   Man walking behind truck disappears in sinkhole
+*   FBI: Michigan man plotted attacks in support of ISIL
+*   Six slain in a 'bloody mess' in Chicago home
+*   Twitter suspends 125,000 ISIL-related accounts
+*   How to pick the perfect TV for Super Bowl
+*   #Cleavagegate: Sarandon fires back at Piers Morgan
 
 Nation Now
 
-Rappers who ran into burning house for boy honored
+Mitchell, astronaut who walked on moon, dies
+
+News
+
+Louisville remembers Jill Conley, cancer warrior
+
+TV
+
+Samantha Bee goes 'Full Frontal' with TBS series
+
+Nation
+
+Medicaid across U.S. a matter of when, not if, says federal health chief
+
+SUPER BOWL 50 Music
+
+Bruno Mars back for Super Bowl halftime show
 
 NFL
 
-NFL cheerleaders scoring victories in labor lawsuits
+Joe Montana at 59: 'I can't really run or do much'
 
-Nation Now
-
-Fairfield Four gospel singer, in 'O Brother,' dies at age 84
-
-SUPER BOWL 50 Ad-Meter
+Ad-Meter
 
 Sign up to be a Super Bowl Ad Meter panelist
 
-Weather
+Nation Now
 
-Super Bowl weather forecast looks super
+Epic Super Bowl 'snack stadium' inspiration
 
-Voices
+'Bonnie &. Clyde' crime spree ends in deadly shootout
 
-Voices: A Super Bowl dream comes true
+A 'Bonnie &. Clyde'-esque couple's crime spree ended in Florida in a deadly shootout. The male suspect died at the scene and the female suspect was injured and taken to the hospital.
 
-Money
+1 of 19 See more video
 
-Our favorite celebrity Super Bowl ads from 2015
+Lucky teen gets to keep $18,000 bar of gold she found
 
-Naked man accused of attacking teen at bus stop
+The girl found the bar in a lake not far from Adolf Hitler's German home. Video provided by Newsy
 
-A man is charged with assault for attacking a 16-year-old girl walking home from her school bus. Neighbors came to her rescue and pulled the man off of her.
+2 of 19 See more video
 
-1 of 26 See more video
+Facebook testing Snapchat-Style disappearing messages
 
-Ad Meter 2016: WeatherTech 'Resources'
+Facebook is said to be testing Snapchat-style disappearing messages for its Messenger platform. Video provided by Newsy
 
-Ad Meter 2016: WeatherTech 'Resources' .
+3 of 19 See more video
 
-2 of 26 See more video
+Deadly New York crane crash caught on camera
 
-Guarding your home from the Zika virus
+Glenn Zito was on the 30th floor of a neighboring building when a massive crane crashed in lower Manhattan. At the time of the recording, it wasn't known that one person was killed and several others were injured.
 
-A USA TODAY motion graphic showing how to prevent your home from becoming a breeding ground for the Aedes mosquito, known to spread the Zika virus. Source: National Environmental Health Association
-
-3 of 26 See more video
-
-Ad Meter 2016: Pepsi 'Joy of Pepsi'
-
-Ad Meter 2016: Pepsi 'Joy of Pepsi'.
-
-4 of 26 See more video
-
-Ad Meter 2016: Hyundai 'First Date'
-
-Ad Meter 2016: Hyundai 'First Date'.
-
-5 of 26 See more video
-
-'Hated' drug exec Martin Shkreli grins before Congress
-
-Drug executive Martin Shkreli, who vigorously defends his decision to hike the price of a life-saving drug, went silent and smirked as he appeared at a Congressional hearing on Thursday.
-
-6 of 26 See more video
-
-Earth, Wind, &. Fire leader Maurice White dead at 74
-
-Maurice White, the founder and leader of the legendary R&B group Earth, Wind &. Fire, has passed away at the age of 74. He is known for creating the eclectic sound behind dance hits like 'September' and 'Boogie Wonderland.'
-
-7 of 26 See more video
-
-Coldplay's 'Left Shark' moment
-
-Coldplay remembers Super Bowl halftime shows of years past, and explain why they're picking the 'Denver Panthers' to win Super Bowl 50.
-
-8 of 26 See more video
-
-Why some people can't handle drinking as well as others
-
-There are simple physiological reasons why some people can handle drinking as well as others. Patrick Jones (@Patrick\_E\_Jones) explains.
-
-9 of 26 See more video
-
-Panda cub Bei Bei ventures outdoors for first time
-
-The Smithsonian National Zoo's latest panda cub Bei Bei got his first taste of the outdoors on Thursday afternoon. (Feb. 4)
-
-10 of 26 See more video
-
-Johnny Manziel's ex-girlfriend: He assaulted me
-
-The ex-girlfriend of NFL quarterback Johnny Manziel told police that the Heisman Trophy winner told her "shut up or I'll kill us both" after physically assaulting her.
-
-11 of 26 See more video
-
-Best Super Bowl ads breakout stars
-
-Super Bowl 50 is almost here, and we're counting down the greatest big game commercials of all time. Here's a look at the best breakout stars of Super Bowl ads.
-
-12 of 26 See more video
-
-Rare American crocodile hanging out near condo building
-
-Residents in Cape Coral, Florida spotted a rare American crocodile that has been hanging out near a condominium building.
-
-13 of 26 See more video
-
-Ad Meter 2016: Mini '#DefyLabels'
-
-Ad Meter 2016: Mini '#DefyLabels'.
-
-14 of 26 See more video
-
-Ad Meter 2016: Snickers 'Marilyn'
-
-Ad Meter 2016: Snickers 'Marilyn'.
-
-15 of 26 See more video
-
-Video captures only known wild jaguar in U.S.
-
-This video of the only known jaguar in the U.S. is part of an effort to track, preserve and monitor the endangered species.
-
-16 of 26 See more video
-
-Firefighters rescue dog from drainage culvert
-
-A 3-year-old Border Collie got stuck in a culvert but firefighters came quick to her rescue and she was back to wagging her tail in no time.
-
-17 of 26 See more video
-
-Man tries to sell drugs in courtroom, gets arrested
-
-A man was arrested trying to sell drugs to someone during traffic court. Gillian Pensavalle (@GillianWithaG) explains.
-
-18 of 26 See more video
-
-Outrageous Super Bowl commercials
-
-USA TODAY takes a look at Super Bowl commercials that grabbed your attention.
-
-19 of 26 See more video
-
-Cheetah and dog race in epic video to see who's faster
-
-A cheetah and a dog are an unlikely pair but the San Diego Park Safari made it happen! In an amazing video, the two race to see who is faster. Keleigh Nealon (@keleighnealon) has the story!
-
-20 of 26 See more video
-
-Fierce winds force waterfalls to flow backwards
-
-At the Isle of Mull in Scotland, harsh winds turned the stream of two waterfalls upside down. Video courtesy of www.isleofmullcottages.com
-
-21 of 26 See more video
-
-Giant anaconda found in Florida neighborhood
-
-A Florida woman was walking her dogs when all of a sudden she spotted the 9-foot-long anaconda snake in the grass. The snake has been euthanized and questions remain on where it came from.
-
-22 of 26 See more video
+4 of 19 See more video
 
 Most iconic Super Bowl ads of all time
 
 Some Super Bowl ads are unforgettable. these are a few of the most iconic throughout the years.
 
-23 of 26 See more video
+5 of 19 See more video
 
-Special needs teen scores 'golden goal' for team
+Ad Meter 2016: Pepsi 'Joy of Pepsi'
 
-The program "Golden Goals" helped facilitate this winning soccer goal by special needs high school senior Katherine Booras.
+Ad Meter 2016: Pepsi 'Joy of Pepsi'.
 
-24 of 26 See more video
+6 of 19 See more video
 
-Ad Meter 2016: Heinz ketchup 'Wiener Stampede'
+Ad Meter 2016: Hyundai 'First Date'
 
-Ad Meter 2016: Heinz ketchup 'Wiener Stampede'.
+Ad Meter 2016: Hyundai 'First Date'.
 
-25 of 26 See more video
+7 of 19 See more video
 
-Police officer mistaken for stripper when checking in on wild party
+Best Super Bowl ads breakout stars
 
-A group of women celebrating a 50th birthday party went wild at the sight of a police officer and mistook him for the stripper they ordered. Gillian Pensavalle (@GillianWithaG) has the story.
+Super Bowl 50 is almost here, and we're counting down the greatest big game commercials of all time. Here's a look at the best breakout stars of Super Bowl ads.
 
-26 of 26 See more video Last VideoNext Video news
+8 of 19 See more video
 
-Wipe that smirk off your face: A 5,000% drug increase is no joke
+Ad Meter 2016: WeatherTech 'Resources'
 
-Sperm banks draft Zika virus policy
+Ad Meter 2016: WeatherTech 'Resources' .
 
-6 hours, 48 minutes | News
+9 of 19 See more video
 
-Crocodile gets comfortable in Fla. neighborhoodZika Q&A: What you need to know about sex, blood donationsUndocumented worker injured on job seeks aid in court sports
+Ad Meter 2016: Snickers 'Marilyn'
 
-Joe Montana on life at 59: 'I can't really run or do much'
+Ad Meter 2016: Snickers 'Marilyn'.
 
-Manziel's ex-girlfriend says QB assaulted her
+10 of 19 See more video
 
-5 hours, 36 minutes | Cleveland Browns
+Spice up your Super Bowl with this party in a glass
 
-Super Bowl picks: Who takes home Lombardi trophy?Broncos back at full strength for Super Bowl 50Changes may be coming to NBA's 'Hack-a-Shaq' rule life
+Learn how to make the perfect Bloody Maria to wow your Super Bowl party crowd.
 
-Earth, Wind &. Fire founder Maurice White dead at 74
+11 of 19 See more video
 
-Cross WordsAll GamesEntertain This! Earth, Wind &. Fire's Maurice White was a shining star of R&BThe 8 most important new "Kimojis"Bruce Springsteen fulfills fan's bucket list with a dance money
+Panda Bei Bei tries to climb a tree, adorably tumbles
 
-Average 30-year mortgage rate falls for a 5th straight week
+Bei Bei was let outside to play for the first time with mama bear at the Smithsonian National Zoo. He tries to climb trees but ends up falling over a few times before heading back inside.
 
-StocksPortfolio TrackerAmerica's Markets Is job growth poised to slow in 2016?Obama to propose $10-a-barrel oil taxObama oil tax proposal would cost motorists tech
+12 of 19 See more video
 
-'Feel-good' wearables promote dopamine, endorphins
+Naked man accused of attacking teen at bus stop
 
-UK wants authority to serve warrants in U.S.
+A man is charged with assault for attacking a 16-year-old girl walking home from her school bus. Neighbors came to her rescue and pulled the man off of her.
 
-2 hours, 17 minutes | News
+13 of 19 See more video
 
-Atlas V on pad for Friday launch of GPS satelliteWhen will smartphones take over the planet?Love Legos? Love 'Star Wars?' You'll love this news travel
+There's a tarantula species named after Johnny Cash
+
+Some new tarantula species were discovered, and one of them lives near Folsom Prison in California. Meet Aphonopelma johnnycashi. Video provided by Newsy
+
+14 of 19 See more video
+
+See this baby polar bear grow up in under 2 minutes
+
+An adorable time-lapsed video of a baby polar bear shows the stages of her growing up.
+
+15 of 19 See more video
+
+Why some people can't handle drinking as well as others
+
+There are simple physiological reasons why some people can handle drinking as well as others. Patrick Jones (@Patrick\_E\_Jones) explains.
+
+16 of 19 See more video
+
+Firefighters rescue dog from drainage culvert
+
+A 3-year-old Border Collie got stuck in a culvert but firefighters came quick to her rescue and she was back to wagging her tail in no time.
+
+17 of 19 See more video
+
+Cheetah and dog race in epic video to see who's faster
+
+A cheetah and a dog are an unlikely pair but the San Diego Park Safari made it happen! In an amazing video, the two race to see who is faster. Keleigh Nealon (@keleighnealon) has the story!
+
+18 of 19 See more video
+
+Fierce winds force waterfalls to flow backwards
+
+At the Isle of Mull in Scotland, harsh winds turned the stream of two waterfalls upside down. Video courtesy of www.isleofmullcottages.com
+
+19 of 19 See more video Last VideoNext Video news
+
+How to watch the New Hampshire Republican debate
+
+6.4M earthquake strikes Taiwan
+
+6 hours, 46 minutes | News
+
+Police kill trans man in midst of Asperger's meltdownFrom inmate to lawyer: Tenn. man turns his life aroundOfficials see 'epidemic' of motorists passing school buses sports
+
+Injured NBA star leaves wheelchair to shoot FTs
+
+Police will open investigation in Manziel incident
+
+2 hours, 20 minutes | Cleveland Browns
+
+Barkley trashes Suns organization in epic rantPat Haden to resign as USC athletic directorLouisville to impose ban in scandal life
+
+Daily Show's' Bee goes 'Full Frontal' with her own TBS series
+
+Cross WordsAll GamesEntertain This! Channing Tatum, Joseph Gordon-Levitt team up for R-rated musical…At Zoo, Lioness Picks Panthers in Super BowlAdam Levine rocks pink hair money
+
+7 things parents, teens need to know about Snapchat
+
+StocksPortfolio TrackerAmerica's Markets Nasdaq hits 15-month low in Friday freefall. Dow falls 212Tech-stock wreck destroys $529B this yearIRS resumes tax return processing after computer outage tech
+
+Bye-bye Internet bubble 2.0
+
+Uber, Lyft riders in for Super Bowl surprises
+
+4 hours, 22 minutes | News
+
+Twitter suspends 125,000 ISIL-related accountsAmazon intensifies Echo push with Super Bowl, Uber dealsBlackberry hit with layoffs travel
+
+Florida Panhandle: Raucous spring break or scenic solitude?
 
 The ultimate guide to what's free in Europe
 
-Our guide to the hottest new cruise ships on order
+1 day, 16 hours | Destinations
 
-16 hours, 52 minutes | Cruise Log
+Fan fare: Signature food and drinks at 2016's major sporting events10Best: Mardi Gras celebrations around the worldCheap drinks: The happiest hours in the Caribbean Reviewed.com
 
-State flowers: The bloom to come after winter's gloomRed velvet 32 ways for Valentine's DayPark City’s best-kept dining secret Reviewed.com
+Why you should refinish your hardwood floors
 
-What's a third rack dishwasher, and do I need one?
+iPhone-maker Foxconn to acquire Sharp for $5.6B
 
-Tide launches laundry service with free delivery
+12 hours, 31 minutes | Tech
 
-1 day, 9 hours | Tech
+New album proves your washer is a musical instrumentWhat's a third rack dishwasher, and do I need one?Tide launches laundry service with free delivery experience
 
-Buying seafood? When frozen is the smarter choiceReviewed.com's ultimate guide to the big gameThe best slow cookers for the big game experience
+State flowers: The bloom to come after winter's gloom
 
-Photo tour: The luxury of a Crystal Cruises ship
+Red velvet 32 ways for Valentine's Day
 
-10 top chocolate spots for Valentine's Day treats
+1 day, 17 hours | Food &. Wine
 
-2 days, 17 hours | Food &. Wine
+Photo tour: The luxury of a Crystal Cruises shipThe Caribbean's most romantic seaside restaurantsLas Vegas' latest hotel renovations reach for the stars VOICES OnPolitics
 
-Merry-go-rounds: 10 of the oldest carousels in the USAThe Caribbean's most romantic seaside restaurantsLas Vegas' latest hotel renovations reach for the stars VOICES Opinion
-
-Montel Williams: I'd return to GOP for Kasich
-
-Columnist
-
-Why there's nothing fake about Facebook friends
-
-Register Editorial
-
-Editorial: Something smells in the Democratic Party
+Politics stressing you out? Our coloring book is here
 
 Opinion
 
-Trump, Sanders and the maverick state: Column
+Montel Williams: I'd return to GOP for Kasich
+
+Movies
+
+The Mothership: 'Hail, Caesar!' and the best of the Coens
+
+Voices
+
+Voices: A Super Bowl dream comes true
 
 News
 
@@ -383,9 +341,9 @@ Nation Now
 
 Quiz: Test your black history knowledge
 
-Ad-Meter
+Register Editorial
 
-Sign up to be a Super Bowl Ad Meter panelist
+Editorial: Something smells in the Democratic Party
 
 Elections
 
@@ -399,18 +357,18 @@ For the Record: Sign up for our politics newsletter
 
 Trending on Social
 
-*   Hurricane Patricia's winds reached record 215 mph
+*   Obama's $10 oil tax proposal would cost motorists
     
-*   Tom Brady to attend NFL's Super Bowl 50 ceremony despite Deflategate flap
+*   Cindy Crawford recreates 1992 Super Bowl ad
     
-*   Johnny Manziel's ex-girlfriend tells police QB assaulted her
+*   Twitter suspends 125,000 ISIL-related accounts
     
-*   Joe Montana at 59: 'I can't really run or do much'
+*   More car manufacturing jobs move south -- to Mexico
     
-*   BMX star Dave Mirra dies
+*   Twitter CEO Jack Dorsey wants another job
     
 
-AD CONTENT Right Now
+AD CONTENT by Taboola Right Now
 
 News
 
