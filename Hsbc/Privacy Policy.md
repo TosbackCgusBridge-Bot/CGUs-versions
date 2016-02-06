@@ -19,8 +19,8 @@ Menu Explore HSBC.com Search
     
     *   Our purpose
         
-    *   Our strategy
-        
+    *   Our strategy expandOur strategy
+        *   Actions to capture value
     *   Leadership
         
     *   Company history expandCompany history
@@ -154,7 +154,7 @@ Terms and conditions Share click to expand
 
 Print Share
 
-*   Print
+*   Print this page
 *   E-mail this link
 
 *   Subscribe to RSS
