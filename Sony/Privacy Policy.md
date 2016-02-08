@@ -54,9 +54,9 @@ Close
 
 Introducing the New a6300 Camera
 
-Run Faster, Stronger, Smarter
+Giving Fans the Best Football Experience
 
-Get Smart B-Trainer
+Learn More
 
 Close
 
@@ -66,11 +66,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Play Video
-
-Sony on YouTube
-
-Play Video
+Learn More
 
 Sony on Instagram
 
