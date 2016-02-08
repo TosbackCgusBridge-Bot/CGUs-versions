@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14432442295
+true true C14434595341
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p08.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Sat Feb 06 11:15:21 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p13.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Sun Feb 07 11:15:31 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,21 +49,17 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-$10 Off\* $25 Or More In Store and Online | Ends February 6 | Code: SUPRSAVN Print CouponOr, Extra 20% Off\* $100 or More Online Only | Ends February 6 | Code: 4SAVINGS Or, Extra 15% Off\* Online Only | Ends February 6 | Code: 4SAVINGS \*Exclusions and details Starts Now! In Store and Online Super Saturday Sale Shop Super Saturday Sale View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop ShoesNight and Day Doorbusters
+Big Savings In Store and Online VIP Event -- Exclusive Savings Just For You! Extra 25% Off\* with your JCPenney Credit Card Or, Extra 20% Off\* with any other method of payment
 
-Friday 3PM CST Through Saturday 1PM CST
+In Store and Online | Ends February 9 | Code: VIPEVENT
 
-Shop Doorbusters50 to 80% Off Clearance
+Shop VIP Event Get Coupon:
 
-In Store and Online | New Markdowns
+\*Coupon required. Credit offer subject to credit approval.
 
-Shop Clearance Home Flash Sale | Extra 30% Off Home In A Flash 2 Days Online Only! | Ends February 6 | Code: GET4YOU Extra 30% Off\* $100 or More Or, 25% Off\* Select Home Already 40 to 60% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds and Shades \*Exclusions and details Shop Home Flash Sale Valentine's Day Jewelry On Sale 20 to 60% Off Jewelry
+Exclusions and details: Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Valentine's Day is February 14 Valentine's Day Gift Shop
 
-Select styles
-
-Shop All Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Valentine's Day is February 14 Valentine's Day Gift Shop
-
-Share the love. Love the savings.
+February 14
 
 Shop All GiftsGift Cards
 
@@ -77,15 +73,15 @@ $15 Off $15 Coupon | Online Only! | Ends February 14
 
 Spend $75 on E-Gift Cards and get a $15 off $15 coupon. Redeemable 2/15/16-2/29/16 in store and online. Some restrictions apply.
 
-Get details: Activewear For The Family On Sale 40% Off Xersion For The Family
+Get details: Save On Valentine's Day Fine Jewelry and More 20 to 60% Off Jewelry
 
 Select styles
 
-Shop All Fitness Shop Men Shop Women Shop Boys Shop Girls       SportsFanShop
+Shop All Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Love Your Home! Select Styles On Sale. 30 to 50% Off Select Home Items Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Save Up To 80% Off Clearance 50 to 80% Off Red Zone Clearance
 
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
+New Markdowns In Store and Online
 
-Shop SportsFanShop Sephora Shop New Beauty Arrivals Best Prom Ever Shop Prom Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop Clearance Now Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Home Shop Handbags and Accessories Shop Jewelry Sephora Shop New Beauty Arrivals Carter's Baby Sale Shop Carter's Now Arizona Jean Co. Shop Arizona Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
