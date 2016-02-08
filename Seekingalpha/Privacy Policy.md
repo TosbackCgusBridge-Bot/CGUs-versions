@@ -1,6 +1,9 @@
-*   Dividend Investing Center
+*   Home
+
+*   Insight Centers
+*   Dividend Investing
 *   ETF Hub
-*   Portfolio Strategy Center
+*   Portfolio Strategy
 
 *   Market News
 *   Stock Ideas
