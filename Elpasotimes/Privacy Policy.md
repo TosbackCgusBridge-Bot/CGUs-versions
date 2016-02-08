@@ -100,232 +100,226 @@ Close
 
 Get the news
 
-Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Nancy Armour Peyton Manning's future: Pain and suffering
+Log In or Subscribe to skip Sign in with FacebookSign in with GoogleSign in FAQ Bell Bell: Peyton Manning gets help with storybook end Read StoryVon Miller's huge nightFull story: Broncos win Super Bowl 50Spieth sends Manning hilarious tweetInstant analysis
 
 TOP STORIES
 
-*   Elections Republican candidates target Rubio in debate
-*   OnPolitics Top takeaways from the Republican debate
-*   OnPolitics Trump on waterboarding: I'll do much worse than that
-*   North Korea fires rocket seen as missile test
-*   Cam Newton named NFL MVP
-*   Favre highlights Football Hall of Fame class
-*   The GOP debate got off to an awkward start
-*   Iowans claim Sanders was shorted delegates
-*   Watch: Beyoncé gets into 'Formation'
-*   Charlie Sheen has advice for Johnny Manziel
-*   Salma Hayek visits ER wearing 'inappropriate' shirt
-*   Ad Meter: How to vote for Super Bowl commercials
+*   Business Hyundai's 'First Date' wins Super Bowl Ad Meter
+*   Nancy Armour Armour: Pure domination by Denver's defense
+*   NFL Eli Manning is miserable as Peyton locks up win
+*   The top 5 commercials of Super Bowl 50
+*   Cam Newton bolts Super Bowl news conference
+*   Broncos slam Cam Newton to win Super Bowl
+*   Romanowski calls Cam Newton 'boy' in tweet
+*   Beyonce upstages Coldplay in halftime show
+*   Woman in her garden saw sinkhole swallow man
+*   Williamsburg ad criticized for 9/11 footage
+*   Lady Gaga's national anthem is total perfection
+*   Did Marshawn Lynch tweet retirement?
+
+TV
+
+'The Good Wife' calls it quits
+
+Ad-Meter
+
+Super Bowl 50 ads: Watch them all again
+
+Nation Now
+
+Sold for sex — teens trafficked in Indiana
+
+Nation Now
+
+Florida's giant Powerball jackpot still unclaimed
+
+SUPER BOWL 50 News
+
+Facebook CEO offers holiday greetings in Mandarin
 
 NFL
 
-Johnny Manziel's troubles hit close to home, Todd Marinovich says
-
-World
-
-Austrian police: 5 skiers killed in ‘massive’ avalanche
+FTW: That was an absolutely hideous Super Bowl
 
 Entertain This
 
-The best critic slams of 'The Choice'
+9 most important Beyoncé halftime gifs
 
-Ufc
+Entertain This
 
-UFC Fight Night 82 play-by-play and live results
+We are all this happy dancing halftime guy
 
-SUPER BOWL 50 NFL
+Ad Meter 2016: Pokémon 20th anniversary
 
-USA TODAY Sports' Super Bowl 50 picks
+Celebrate 20 years of Pokémon by watching the 2016 Pokémon Super Bowl spot! Join the conversation with #Pokemon20 on Twitter, Instagram, and YouTube. Visit the official Pokemon20.com site for more exciting ways to Train On.
 
-Carolina Panthers
+1 of 21 See more video
 
-Armour: Ron Rivera gives NFL owners reason to rethink decisions
+Bears, sheep, a marmot &. even a beer tap talk in Super Bowl ads
 
-NFL
+Honda, Marmot, Hyundai and Mountain Dew opted to feature talking animals in their Super Bowl ads. Shock Top gave a voice to an inanimate object. its branded beer tap hurled insults at TJ Miller.
 
-Super Bowl 50: A viewer's guide to Super Bowl Sunday
-
-MLB
-
-Pete Rose stars in Super Bowl ad for sports betting app
-
-Trump: People back down from me and I like it
-
-Donald Trump did not hold any punches during the ABC Republican Debate as he called out follow candidates and explained why he thinks Hillary Clinton can't win against him.
-
-1 of 22 See more video
-
-Top Super Bowl halftime shows
-
-USA Today Sports ranks some of the most most memorable halftime shows in Super Bowl history.
-
-2 of 22 See more video
-
-Cavemen ate better than you think
-
-Cavemen may have eaten much better than we thought. Patrick Jones (@Patrick\_E\_Jones) explains.
-
-3 of 22 See more video
-
-'Bonnie &. Clyde' crime spree ends in deadly shootout
-
-A 'Bonnie &. Clyde'-esque couple's crime spree ended in Florida in a deadly shootout. The male suspect died at the scene and the female suspect was injured and taken to the hospital.
-
-4 of 22 See more video
-
-Lucky teen gets to keep $18,000 bar of gold she found
-
-The girl found the bar in a lake not far from Adolf Hitler's German home. Video provided by Newsy
-
-5 of 22 See more video
-
-Rubio battled Christie, Trump got booed in GOP debate
-
-Republican presidential candidates Marco Rubio battled Chris Christie while Trump got booed after telling Jeb Bush to be quiet.
-
-6 of 22 See more video
-
-Deadly New York crane crash caught on camera
-
-Glenn Zito was on the 30th floor of a neighboring building when a massive crane crashed in lower Manhattan. At the time of the recording, it wasn't known that one person was killed and several others were injured.
-
-7 of 22 See more video
-
-Man travels to 10 Super Bowls to score free tickets
-
-A die-hard Broncos fan has traveled to 10 Super Bowl games in attempts to score last-minute free tickets, and he says he's now developed a system.
-
-8 of 22 See more video
-
-Ad Meter 2016: Pepsi 'Joy of Pepsi'
-
-Ad Meter 2016: Pepsi 'Joy of Pepsi'.
-
-9 of 22 See more video
+2 of 21 See more video
 
 Ad Meter 2016: Hyundai 'First Date'
 
 Ad Meter 2016: Hyundai 'First Date'.
 
-10 of 22 See more video
+3 of 21 See more video
 
-Best Super Bowl ads breakout stars
+Ad Meter 2016: 'Doritos Ultrasound'
 
-Super Bowl 50 is almost here, and we're counting down the greatest big game commercials of all time. Here's a look at the best breakout stars of Super Bowl ads.
+Ad Meter 2016: 'Doritos Ultrasound'
 
-11 of 22 See more video
+4 of 21 See more video
 
-Ad Meter 2016: WeatherTech 'Resources'
+Ad Meter 2016: Bourne 5
 
-Ad Meter 2016: WeatherTech 'Resources' .
+'Bourne 5' movie ad is shown during Super Bowl 50.
 
-12 of 22 See more video
+5 of 21 See more video
+
+Ad Meter 2016: Skittles 'Portrait'
+
+Skittles 'The Portrait' Steven Tyler features Aerosmith lead singer Steven Tyler. He commissions a Skittles portrait, which ends up singing to him.
+
+6 of 21 See more video
+
+Top Super Bowl halftime shows
+
+USA Today Sports ranks some of the most most memorable halftime shows in Super Bowl history.
+
+7 of 21 See more video
+
+See America's largest firework explode
+
+Watch as a crew sets and detonates a 1,175-pound firework in Steamboat Springs, Colorado. It was the largest ever detonated in North America and possibly the heaviest anywhere in the world.
+
+8 of 21 See more video
+
+'Bonnie &. Clyde' crime spree ends in deadly shootout
+
+A 'Bonnie &. Clyde'-esque couple's crime spree ended in Florida in a deadly shootout. The male suspect died at the scene and the female suspect was injured and taken to the hospital.
+
+9 of 21 See more video
+
+Dog stabbed in head recovering
+
+The knife penetrated inches deep in the dog's head but had just missed vital parts, the veterinarian who treated it said.
+
+10 of 21 See more video
+
+Deadly New York crane crash caught on camera
+
+Glenn Zito was on the 30th floor of a neighboring building when a massive crane crashed in lower Manhattan. At the time of the recording, it wasn't known that one person was killed and several others were injured.
+
+11 of 21 See more video
+
+Fact check: Leading GOP candidates stretch the truth
+
+During the 8th Republican debate, Factcheck.org found all of the candidates who've been leading in the polls made misleading claims and misrepresentations of the truth.
+
+12 of 21 See more video
+
+Rubio battled Christie, Trump got booed in GOP debate
+
+Republican presidential candidates Marco Rubio battled Chris Christie while Trump got booed after telling Jeb Bush to be quiet.
+
+13 of 21 See more video
+
+Lucky teen gets to keep $18,000 bar of gold she found
+
+The girl found the bar in a lake not far from Adolf Hitler's German home. Video provided by Newsy
+
+14 of 21 See more video
+
+Man travels to 10 Super Bowls to score free tickets
+
+A die-hard Broncos fan has traveled to 10 Super Bowl games in attempts to score last-minute free tickets, and he says he's now developed a system.
+
+15 of 21 See more video
+
+Outrageous Super Bowl commercials
+
+USA TODAY takes a look at Super Bowl commercials that grabbed your attention.
+
+16 of 21 See more video
+
+Ad Meter 2016: Pepsi 'Joy of Pepsi'
+
+Ad Meter 2016: Pepsi 'Joy of Pepsi'.
+
+17 of 21 See more video
+
+Ad Meter 2016: Budweiser 'Not Backing Down'
+
+Budweiser has skipped the puppies in this Super Bowl 50 ad, instead showcasing their most iconic symbols: beer and Clydesdales.
+
+18 of 21 See more video
+
+Ad Meter 2016: Mobile Strike
+
+Mobile Strike Super Bowl 2016 commercial. Arnold Schwarzenegger. Mobilize military units, use cutting-edge weapons and devastating assault vehicles in this global MMO!
+
+19 of 21 See more video
+
+Ad Meter 2016: T-Mobile "#Ballogize" feat. Steve Harvey
+
+Steve Harvey pokes fun of his controversial Miss Universe slip-up in this T-Mobile Super Bowl 50 commercial.
+
+20 of 21 See more video
 
 Ad Meter 2016: Snickers 'Marilyn'
 
 Ad Meter 2016: Snickers 'Marilyn'.
 
-13 of 22 See more video
+21 of 21 See more video Last VideoNext Video news
 
-Spice up your Super Bowl with this party in a glass
+Medical science can extend life but also pain
 
-Learn how to make the perfect Bloody Maria to wow your Super Bowl party crowd.
+Florida's giant Powerball jackpot still unclaimed
 
-14 of 22 See more video
+4 hours, 46 minutes | Nation Now
 
-These states pay the most in gas tax
+Iowa Dems fix errors, say Clinton still caucus winnerWoman in her garden saw sinkhole swallow manCelebration just beginning for Broncos fans sports
 
-From 24/7 Wall Street, Douglas McIntyre looks at the states who pay the most in gas tax.
+How Broncos won big at dismantling Cam Newton
 
-15 of 22 See more video
+Armour: Broncos defense comes up big for Manning
 
-Panda Bei Bei tries to climb a tree, adorably tumbles
+1 hour, 48 minutes | Nancy Armour
 
-Bei Bei was let outside to play for the first time with mama bear at the Smithsonian National Zoo. He tries to climb trees but ends up falling over a few times before heading back inside.
+Rogers: Newton fizzles in the endBroncos slam Cam, win Super BowlFTW: What a hideous Super Bowl life
 
-16 of 22 See more video
+Review: Beyonce upstages Coldplay in Super Bowl halftime show
 
-Naked man accused of attacking teen at bus stop
+Cross WordsAll GamesEntertain This! Nailed it! Lady Gaga's national anthem performance is total perfection'The Good Wife' calls it quitsNews &. views: John Leguizamo's perfect world money
 
-A man is charged with assault for attacking a 16-year-old girl walking home from her school bus. Neighbors came to her rescue and pulled the man off of her.
+Hyundai's 'First Date' wins USA TODAY's Super Bowl Ad Meter
 
-17 of 22 See more video
+StocksPortfolio TrackerAmerica's Markets Super Bowl ad costs soar — but so does buzzHedge funds keep getting crushedSuper Bowl ads to put diversity on display tech
 
-See this baby polar bear grow up in under 2 minutes
-
-An adorable time-lapsed video of a baby polar bear shows the stages of her growing up.
-
-18 of 22 See more video
-
-Why some people can't handle drinking as well as others
-
-There are simple physiological reasons why some people can handle drinking as well as others. Patrick Jones (@Patrick\_E\_Jones) explains.
-
-19 of 22 See more video
-
-Firefighters rescue dog from drainage culvert
-
-A 3-year-old Border Collie got stuck in a culvert but firefighters came quick to her rescue and she was back to wagging her tail in no time.
-
-20 of 22 See more video
-
-Cheetah and dog race in epic video to see who's faster
-
-A cheetah and a dog are an unlikely pair but the San Diego Park Safari made it happen! In an amazing video, the two race to see who is faster. Keleigh Nealon (@keleighnealon) has the story!
-
-21 of 22 See more video
-
-Fierce winds force waterfalls to flow backwards
-
-At the Isle of Mull in Scotland, harsh winds turned the stream of two waterfalls upside down. Video courtesy of www.isleofmullcottages.com
-
-22 of 22 See more video Last VideoNext Video news
-
-Ore. cop shot, killed while attempting to serve warrant
-
-More than 3,100 pregnant women infected with Zika in…
-
-7 hours, 15 minutes | News
-
-Trump: Jeb Bush 'had to bring in mommy to take a slap at me'Top takeaways from the New Hampshire Republican debateRubio battled Christie, Trump got booed in GOP debate sports
-
-Cam Newton named NFL MVP
-
-Favre headlines 2016 Hall of Fame class
-
-3 hours, 30 minutes | NFL
-
-T.O. denied in first shot at Hall of FameWatt repeats as NFL Defensive Player of the YearManziel's troubles hit close to home for ex-QB life
-
-Watch: Beyoncé gets into 'Formation'
-
-Cross WordsAll GamesEntertain This! 'Playboy' debuts first-ever non-nude issue at Super Bowl partySuper Bowl 50: A viewer's guide to Super Bowl SundayPlayboy and ESPN host Super Bowl parties money
-
-Super Bowl ads to put diversity on display
-
-StocksPortfolio TrackerAmerica's Markets Nasdaq hits 15-month low in Friday freefall. Dow falls 212Tech-stock wreck destroys $529B this yearIRS resumes tax return processing after computer outage tech
+No one showed for Scott Kelly's Super Bowl party
 
 It doesn’t matter how, but back-up your files
 
-Uber, Lyft riders in for Super Bowl surprises
+1 day, 11 hours | Saltzman
 
-1 day, 4 hours | News
+How to make your passwords less hackableFacebook CEO offers holiday greetings in MandarinBye-bye Internet bubble 2.0 travel
 
-7 things parents, teens need to know about SnapchatBye-bye Internet bubble 2.0CEO Dorsey responds to Twitter timeline outrage travel
+35 stunning photos of the Empire State Building
 
-Florida Panhandle: Raucous spring break or scenic solitude?
+Cheap drinks: The happiest hours in the Caribbean
 
-The ultimate guide to what's free in Europe
+2 days, 17 hours | Caribbean
 
-2 days, 16 hours | Destinations
-
-Fan fare: Signature food and drinks at 2016's major sporting events10Best: Mardi Gras celebrations around the worldCheap drinks: The happiest hours in the Caribbean Reviewed.com
+Fan fare: Signature food and drinks at 2016's major sporting eventsState flowers: The bloom to come after winter's gloomFlorida Panhandle: Raucous spring break or scenic solitude? Reviewed.com
 
 Why you should refinish your hardwood floors
 
 iPhone-maker Foxconn to acquire Sharp for $5.6B
 
-1 day, 12 hours | Tech
+2 days, 12 hours | Tech
 
 New album proves your washer is a musical instrumentWhat's a third rack dishwasher, and do I need one?Tide launches laundry service with free delivery experience
 
@@ -333,11 +327,11 @@ State flowers: The bloom to come after winter's gloom
 
 Red velvet 32 ways for Valentine's Day
 
-2 days, 17 hours | Food &. Wine
+3 days, 17 hours | Food &. Wine
 
-Photo tour: The luxury of a Crystal Cruises shipThe Caribbean's most romantic seaside restaurantsLas Vegas' latest hotel renovations reach for the stars VOICES OnPolitics
+Photo tour: The luxury of a Crystal Cruises shipThe Caribbean's most romantic seaside restaurantsLas Vegas' latest hotel renovations reach for the stars VOICES Christine Brennan
 
-Politics stressing you out? Our coloring book is here
+Brennan: Imagining the NFL 50 years from now
 
 NFL
 
@@ -345,11 +339,15 @@ Bell: Super Bowl 50 demands an all-time team ... with a few extras
 
 Opinion
 
-To win progressives, Hillary has to dump Bill: Column
+Politics is killing journalists: Our view
 
-Movies
+OnPolitics
 
-The Mothership: 'Hail, Caesar!' and the best of the Coens
+Politics stressing you out? Our coloring book is here
+
+Cox
+
+Ask the Captain: Why does it take so long to open the exit door?
 
 News
 
@@ -359,31 +357,27 @@ Nation Now
 
 Quiz: Test your black history knowledge
 
-Music
-
-Dad Rock: Hey, ho, Ramones' debut turns 40
-
 Voices
 
 Voices: A Super Bowl dream comes true
 
-*   Playboy and ESPN host Super Bowl parties
+*   Best photos from Super Bowl 50
+*   Halftime show at Super Bowl 50
 *   Meet some of the cute Puppy Bowl XII players
 *   Your Take: USA TODAY's top reader photo of the day
 *   February political cartoons from Gannett cartoonists
-*   The day in pictures
 
 Trending on Social
 
-*   Obama's $10 oil tax proposal would cost motorists
+*   Hyundai's 'First Date' wins USA TODAY's Super Bowl Ad Meter
     
-*   Eric Berry named NFL Comeback Player of the Year after beating cancer
+*   How the Broncos bet big on stopping Cam Newton and won
     
-*   Pete Rose stars in Super Bowl ad for sports betting app
+*   The funniest Twitter slams of Coldplay's Super Bowl halftime show
     
-*   Cam Newton named NFL MVP
+*   More car manufacturing jobs move south -- to Mexico
     
-*   Iowans claim instances when Sanders was shorted delegates
+*   Watch again: Fourth quarter ads from Super Bowl 50
     
 
 AD CONTENT by Taboola Right Now
