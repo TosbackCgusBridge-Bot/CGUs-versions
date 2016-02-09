@@ -1,6 +1,6 @@
 Share your love this Valentine’s Day with a
 
-Buckle Giftcard.
+Buckle Gift Card.
 
 Guest Services 800-607-9788
 
