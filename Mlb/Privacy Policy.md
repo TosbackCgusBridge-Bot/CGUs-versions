@@ -150,6 +150,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.TV Download Center
     *   Contact Us
 *   Fantasy Fantasy Fantasy
+    *   Fantasy Player Preview
     *   Free Agent Frenzy
     *   R.B.I. Baseball 15
     *   MLB.com Home Run Derby
@@ -163,7 +164,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   WGT Baseball: MLB
     *   Prospect Watch
     *   Fantasy 411 Blog
-    *   Follow @Fantasy411MLB.com Home Run Derby MLB.com Line Drive R.B.I. Baseball 15
+    *   Follow @Fantasy411Fantasy Player Preview 160x160 MLB.com Home Run Derby MLB.com Line Drive R.B.I. Baseball 15
 *   Teams Teams American League AL East
     
     *   Baltimore
