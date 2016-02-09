@@ -68,11 +68,11 @@ Privacy Policy | HSW
 
 Up Next
 
+*   Stuff You Should Know: Internet Roundup: The FBI Hosts A Child Porn Site &. Bigfoot's 3D-Printed Skeleton
+*   The 'Fight Club' Quiz
+*   The 'Ferris Bueller's Day Off' Quiz
 *   HowStuffWorks Animations: Dark Fairy Tales
 *   Why You Can't Win Arguments Online
-*   HowStuffWorks NOW: The Heart of the James Webb Space Telescope
-*   The 'Harry Potter and the Prisoner of Azkaban' Quiz
-*   'The Simpsons' Guest Appearances Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,17 +292,17 @@ Print | Citation &. Date
 
 More to Explore NOW
 
+**How Does Your Boss Compare to Optimus Prime?**
+
+**C-sections Can Affect a Baby's Immune System**
+
+**What's the Right Age for Kids to Learn to Code?**
+
+**Researchers Link Maternal Diabetes and Obesity to Autism in Kids**
+
+**Ridiculous History: The Woman Who Once Was a Cabdriver's Worst Nightmare**
+
 **Watch Out, Damselfish. Here Comes Leatherface on His Personal Watercraft**
-
-**Are Super Bowl Ads Really Worth $30 Million?**
-
-**13 Superb Owl Pictures That Are Truly Magnificent**
-
-**Peering Into the Heart of the James Webb Space Telescope**
-
-**Chrysler Builds the First Plug-in Hybrid Minivan (You Know You Want It.)**
-
-**This Salad Brought to You by Robots**
 
 **See More Headlines »**
 
