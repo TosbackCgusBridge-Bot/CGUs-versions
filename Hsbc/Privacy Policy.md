@@ -352,6 +352,18 @@ banking services
 *   Global Private Banking
 *   Retail Banking and Wealth Management
 
+Follow us on
+
+*   Twitter
+*   LinkedIn
+*   YouTube
+
+Follow us on
+
+*   Twitter
+*   LinkedIn
+*   YouTube
+
 *   Terms and conditions
 *   Privacy policy
 *   Cookie policy
