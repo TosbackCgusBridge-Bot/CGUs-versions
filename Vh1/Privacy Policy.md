@@ -10,14 +10,15 @@ VH1 Menu VH1
     *   Hit The Floor
     *   Mob Wives
     *   Stevie J &. Joseline Go Hollywood
-    *   K.Michelle: My LifeSee all Shows
+    *   K.Michelle: My Life
+    *   Family Therapy With Dr. JennSee all Shows
 *   Celebrity
 *   Music
 *   TV Provider Sign Out
 
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Hit The Floor Mob Wives Stevie J &. Joseline Go Hollywood K.Michelle: My Life See all Shows
+*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Hit The Floor Mob Wives Stevie J &. Joseline Go Hollywood K.Michelle: My Life Family Therapy With Dr. Jenn See all Shows
 *   Celebrity
 *   Music
 *   facebook twitter tumblr
