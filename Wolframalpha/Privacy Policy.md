@@ -52,7 +52,7 @@ From time to time, Wolfram|Alpha may contain links to other websites. We do not 
 
 Accessing Wolfram|Alpha from Third-Party Sources
 
-Wolfram|Alpha may additionally be accessed through web widgets or gadgets that are embedded on third-party sites, such as iGoogle. If you choose to access Wolfram|Alpha via such tools, then depending on the third-party widget technology, your personal information and queries may be passed on to the third party's servers prior to being processed on the Wolfram|Alpha website.
+Wolfram|Alpha may additionally be accessed through web widgets or gadgets that are embedded on third-party sites. If you choose to access Wolfram|Alpha via such tools, then depending on the third-party widget technology, your personal information and queries may be passed on to the third party's servers prior to being processed on the Wolfram|Alpha website.
 
 Security
 
