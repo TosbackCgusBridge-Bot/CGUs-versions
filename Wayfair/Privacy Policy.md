@@ -724,22 +724,10 @@ You can even change the shipping address of an item after your order has been pl
 
 International Shipping International shipping outside of the United States:
 
-If you would like to have an order shipped outside the United States or Canada, please email us with the following information:
-
 Visit our international sites (product selection varies by country):
 
 *   Canada: wayfair.ca
 *   United Kingdom: wayfair.co.uk
 *   Germany: wayfair.de
-
-Want to ship somewhere else in the world?
-
-If your order costs over $5,000, please contact us with the following information:
-
-*   The SKU numbers of each product (or a link to each product page)
-*   The total quantity you want to order
-*   The final delivery address
-
-We'll get you a personalized, competitive quote from our international freight forwarder. Please note: once the freight forwarder receives your products you assume full liability of the shipment. Keep in mind that certain products may not be able to ship internationally due to safety regulations, including youth items such as strollers, cribs, and car seats.
 
 Back To Top
