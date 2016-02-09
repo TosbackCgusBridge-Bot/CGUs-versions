@@ -22,19 +22,21 @@ Tout accès et/ou Utilisation du site www.commentcamarche.net suppose l'acceptat
 Dans le cas où l'Utilisateur ne souhaite pas accepter tout ou partie des présentes conditions générales, il lui est demandé de renoncer à tout usage du Service.  
 Mentions légales Le site CommentCaMarche.net est édité par :  
   
-**Quidea**,  
-94, rue de Provence 75009 Paris  
+CCM Benchmark Group  
+94, rue de Provence  
+75009 Paris  
 Tél: +33 1 47 79 50 00  
-SAS au capital de 57 600,00 euros  
-Nanterre B 453 986 960  
-Président : Howto Media Group.  
+  
+SAS au capital de 164 628,00 euros  
+RCS Paris 453 986 960  
+N° de TVA intracommunautaire : FR 65 453 986 960  
 Le directeur de la publication est **Marc Feuillée**.  
   
-Quidea est une société du groupe **Howto Media Group**  
-(nom commercial **CCM Benchmark Group**),  
+  
+CCM Benchmark Group est une société du groupe **Howto Media Group**  
 Société Anonyme au capital de 1 893 212,05 euros,  
 94, rue de Provence 75009 Paris  
-**Nanterre B 512 085 630**  
+RCS Paris 512 085 630  
   
 Le site CommentCaMarche.net est hébergé par :  
   
@@ -126,7 +128,7 @@ A voir également
 *   Conditions générales
 *   Watsapp
 *   Modèle Condition Générale de Vente » Forum - Webmaster
-*   Nouvelles conditions générales PEL 2016 » Forum - Internet Explorer
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
 *   Redaction conditions generales (Résolu) » Forum - Vos droits sur internet
+*   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
