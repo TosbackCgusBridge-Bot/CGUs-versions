@@ -9,6 +9,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Gift Boxes
     *   Gift Baskets and Towers
     *   Valentine's Day Gifts
+    *   Easter Favorites
     *   Business Gifts
         
     *   Simply Hickory Farms
@@ -61,6 +62,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gift Boxes
     *   Gift Baskets and Towers
     *   Valentine's Day Gifts
+    *   Easter Favorites
     *   Business Gifts
         
     *   Simply Hickory Farms
@@ -161,9 +163,9 @@ My Account
 
 Guarantees
 
-*   100% Satisfaction
-*   Substitution Policy
 *   Security
+*   Substitution Policy
+*   100% Satisfaction
 
 Privacy
 
