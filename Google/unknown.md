@@ -1,17 +1,7 @@
 Analytics Analytics
 
-*   Analytics Premium
-*   Adometry
 *   Analytics
-*   Analytics for Mobile Apps
 *   Tag Manager
-
-Sign in
-
-*   Google Analytics
-*   Google Analytics Premium
-*   Google Tag Manager
-*   Adometry by Google
 
 Google Analytics Terms of Service
 
