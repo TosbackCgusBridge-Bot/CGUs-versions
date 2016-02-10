@@ -223,6 +223,5 @@ Other Links
 *   Best Price Guarantee
 *   Mobile
 *   My Account
-*   Site Map
 
 ©2016, Trip Network, Inc. (d/b/a CheapTickets) All rights reserved. CheapTickets, CheapTickets.com, and the CheapTickets logo are either registered trademarks or trademarks of Trip Network, Inc. in the U.S. and/or other countries. Other logos or product and company names mentioned herein may be the property of their respective owners.
