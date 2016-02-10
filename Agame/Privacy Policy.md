@@ -42,7 +42,17 @@ Explore Games
 *   Tower Defence
 *   Uphill Racing
 
-Sign In
+Sign In Categories
+
+*   {text} ({games\_number})
+    
+
+Games
+
+*   {text}
+    
+
+View more results
 
 *   Home
 *   privacy policy
