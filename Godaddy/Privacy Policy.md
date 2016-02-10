@@ -1,4 +1,4 @@
-**Last Revised: January 11, 2016**
+**Last Revised: February 9, 2016**
 
 GoDaddy Respects your privacy
 
@@ -31,6 +31,8 @@ We also use tracking technologies such as:  CI codes (click tracking), ISC (sou
 With your express consent, we may access and track location data from your mobile device in order to personalize results such as user favorite domain name selections.  We do not tie any personally identifiable information about you to any of the location tracking technologies that we use, and we do not track location data when our mobile applications are not in use.  You may withdraw your consent for us to use location data at any time by turning off the location services setting on your device.
 
 This Site and our mobile applications contain links to other websites. Unfortunately, GoDaddy is not responsible for the privacy practices or the content of such sites.  We encourage you to carefully read the privacy statement of any website you visit.
+
+For domain name registrations, please review the privacy portion (where available) of the Registry Policies for the top-level domain in which you wish to or have registered a domain name to better understand how your WHOIS data is utilized by the individual registry.
 
 **Security**
 
