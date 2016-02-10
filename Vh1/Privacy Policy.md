@@ -25,8 +25,8 @@ VH1 Menu VH1
 
 *   FAQ/Help
 *   Jobs
-*   Terms of Use
-*   Privacy Policy/Privacy Rights
+*   Terms of Use \[Updated 2/9/2016\]
+*   Privacy Policy/Privacy Rights \[Updated 2/9/2016\]
 *   Copyright
 *   Closed Captioning
 *   Eventful
