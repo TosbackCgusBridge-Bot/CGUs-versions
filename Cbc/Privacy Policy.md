@@ -2,7 +2,7 @@ Protection of Personal Information at the CBC Privacy on the Internet Third Part
 
 The CBC Privacy Coordinator is accountable for the CBC’s policies and practices, with respect to the management of personal information, and is the individual to whom complaints and inquires can be forwarded.
 
-Sylvie Gadoury  
+Marie-Claude Ferland  
 Privacy Coordinator  
 Canadian Broadcasting Corporation  
 181 Queen Street,  
@@ -120,7 +120,7 @@ Personal Information Protection and Electronic Documents Act Corporate Records a
 
 Operating Principles
 
-All questions related to the interpretation and application of this policy should be directed to the Privacy Coordinator, Sylvie Gadoury in Ottawa at 613-288-6165.
+All questions related to the interpretation and application of this policy should be directed to the Privacy Coordinator, Marie-Claude Ferland in Ottawa at 613-288-6165.
 
 Third Party Advertising
 
