@@ -206,7 +206,6 @@ Explore More Orbitz
 *   Investor Relations
 *   Jobs
 *   Media Room
-*   Site Map
 *   Advertising
 *   Become an Affiliate
 *   Add a Hotel
