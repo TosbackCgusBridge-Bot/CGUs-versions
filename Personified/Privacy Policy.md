@@ -1,49 +1,104 @@
-X Let us help you determine what you need What would you like to do? Post a Job Search Candidates Login to myCareerBuilder X Event details
+Post a Job Search Resumes New Year, New Site
 
-Sales: (877) 345-5256Support: (800) 891-8880
+You can now purchase and post jobs as well as access the resume database from here.
 
-*   Search for Jobs
-*   Employers Sign In
+Got It!
 
-_shoppingcart_ $0.00 Checkout Search form Search Main menu
+*   Browse Products
+    *   Broadbean Job Distribution  
+        Multi-job posting across networks
+    *   CareerBuilder Search  
+        Advanced resume search
+    *   Talentstream Engage  
+        Career site and talent network
+    *   Talentstream Recruit  
+        Pre-hire platform
+    *   View All Products
+*   Post a Job
+    *   Buy Job Postings
+    *   Edit My Jobs
+    *   About Job Postings
+*   Search Resumes
+    *   Buy Resume Database Access
+    *   Sign in to Search Resumes
+    *   About Resume Database
+*   About Us
+    *   Overview
+    *   Blog: The Hiring Site
+    *   Careers
+    *   History
+    *   Leadership
+    *   Locations
+    *   Press Room
+    *   Research Collaboration
 
-*   Home
-*   Buy Job/Post Job
-*   Candidate Sourcing
-*   HR Software
-*   Workforce Data
-*   Resource Center
-*   Customer Stories
-*   Markets &. Verticals
+*   More
 
-Source and Screen Source and Screen
+*   Sign In
+*   $0.00 Cart
+*   Contact Us
 
-Put the Work of Finding the Right Candidates into Our Hands
+*   Job Seekers Site
 
-On average, candidates use 16 different sources when looking for a job: Let our team advertise your jobs for you in all the right places.
+*   Overview
+*   Features
+*   Customers
+*   Resources
 
-Finding the right talent for your open positions doesn't have to be difficult. With Source and Screen, we create a pipeline of qualified and interested candidates for you -- simplifying your process so you can focus on other business initiatives.
+Get Pricing Hiring Events
 
-**How Does it Work?**
+Get a powerhouse team to build your next recruitment strategy
 
-1.  First, we determine where your ideal candidates are located, which resources they use to find a job, and what they are looking for in an employer.
-2.  Based on those results, we get to work finding the best candidates for your open position (so you don't have to). Our team of strategists sources and screens candidates for your open positions, delivering only the top talent and automatically filling up your interview schedule with only the best people for your open jobs.
+*   Overview
+*   Features
+*   Customers
+*   Resources
 
-**Benefits:**
+Get Pricing Overview
 
-*   Speed up your search for the perfect candidates with an experienced team of project managers and the right job seeker data to drive your recruitment strategy.
-*   Build a pipeline of candidates and give your open position and company maximum exposure to the right candidate pool.
-*   Maximize your recruitment investment by paying only one flat rate per position -- no matter how many hires you make. You also gain full ownership of the candidates we send you for review.
+When it comes to recruiting, time is a luxury. Rely on our experienced team of project managers and nearly 20 years of job seeker data to drive your recruitment strategy – and find your ideal candidates quickly.   We’ll scour the marketplace for the right candidates, pre-screen them, deliver the top ones to you – and put time back in your day. ​
 
-**Customized to Meet Your Needs:**
+Benefits  
+  
+Augment your team
 
-Many companies experience a continuous need to recruit target talent, but do not have the resources to effectively locate, engage and hire that talent. Our platform sourcing solutions are customized to meet your needs and can assist your team's sourcing and screening efforts across all open positions. Platform sourcing engagements can also include consultative services, training for your recruiters and hiring managers, managing all or select steps in the recruitment process on your behalf, providing comprehensive reporting and tracking and more.
+Let our experts work on your behalf to extend your sourcing power.
 
-Resources Candidate Sourcing and Screening Tips: How Can YOU Save Time and Money? Videos How Sourcing Solutions Can Help You Find Qualified Candidates See How Sourcing Solutions Can Help You Find Qualified Candidates Video of See How Sourcing Solutions Can Help You Find Qualified Candidates CareerBuilder ResumeFlip CareerBuilder ResumeFlip Video of CareerBuilder ResumeFlip Videos CareerBuilder ResumeFlip CareerBuilder ResumeFlip Video of CareerBuilder ResumeFlip
+  
+Re-prioritize
 
-*   ABOUT US
-*   TERMS &. CONDITIONS
-*   PARTNERS &. AFFILIATES
-*   ADVERTISE WITH US
-*   SECURITY/PRIVACY
-*   HELP
+Enable your team to spend more time building relationships with candidates by engaging CareerBuilder’s team on sourcing and pre-screening.
+
+Pay one flat fee
+
+Make as many hires from your pool of candidates as you like, at no extra cost.
+
+  
+Resources
+
+*   \>. Source and Screen Data Sheet​
+
+Get Pricing First Name  
+Last Name  
+Company Name  
+Email Address  
+Phone Number  
+Message (optional)  
+Submit
+
+Thank you! More great content headed your way!
+
+Sorry, there was a problem with your email address. Please try again.
+
+Sign Up for the Latest Recruitement News, Tips and Advice Email Comments
+
+*   Help
+*   Terms &. Conditions
+*   Security &. Privacy
+*   Advertise With Us
+*   Partners &. Affiliates
+
+©2016 CareerBuilder, LLC. All rights reserved.  
+200 N. LaSalle Street, Chicago, IL
+
+Clicky!
