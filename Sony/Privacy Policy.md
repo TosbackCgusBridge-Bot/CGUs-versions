@@ -88,9 +88,9 @@ See PS4™ Co-Op Games
 
 Sony on Twitter
 
-Congrats @BrysonTlIIer on #Dont going #1 record at Urban Radio!
+“Pride + Prejudice + Zombies” + Sony Rewards Points too. Upload your @PPZmovie tickets here. sonyrewards.com
 
-2016-02-09 05:08:59+00:00
+2016-02-07 00:45:01+00:00
 
 View Tweet
 
@@ -172,9 +172,9 @@ Close
 
 With Handycam
 
-Get Down With "Uptown Funk"
+Congrats to Our Grammy Nominees
 
-Hear More Songs
+See the List
 
 Close
 
@@ -184,11 +184,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Play Video
-
-Sony on YouTube
-
-Play Video
+See the List
 
 Play Firewatch, a PS4™ Exclusive
 
