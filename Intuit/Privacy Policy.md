@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14473569367
+true true L14476878950
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p07.jcpenney.com SERVER NAME :->. dtcomexpr1l1j3 TIME :->. Tue Feb 09 11:15:35 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p34.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Wed Feb 10 11:15:36 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,15 +49,19 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Big Savings In Store and Online VIP Event -- Exclusive Savings Just For You! Extra 25% Off\* with your JCPenney Credit Card Or, Extra 20% Off\* with any other method of payment
+Spend $25 or More and Get $10 Off\* In Store and Online | Ends February 15 | Code: LUVSVNGS Print CouponExtra 20% Off\* with your JCPenney Credit Card In Store and Online | Ends February 15 | Code: TRUSVNGS Or, Extra 15% Off\* with any other method of payment Online Only | Ends February 15 | Code: TRUSVNGS
 
-In Store and Online | Ends February 9 | Code: VIPEVENT
+\*Credit offer subject to credit approval.
 
-Shop VIP Event Get Coupon:
+\*Exclusions and details Save Big On Furniture and Mattresses Presidents' Day Home Sale 40 to 60% Off Furniture and Mattresses
 
-\*Coupon required. Credit offer subject to credit approval.
+Select styles
 
-Exclusions and details: Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Valentine's Day is February 14 Valentine's Day Gift Shop
+Shop Home Sale Shop Furniture and Mattresses60 Months Special Financing\* Available for Furniture and Mattress purchases of $1500 or more 2/10/16-2/15/16.
+
+\*Subject to credit approval. Miinum monthly payments required. See store associate for details.
+
+Valentine's Day Gifts For Everyone On Your List Valentine's Day Gift Shop
 
 February 14
 
@@ -77,11 +81,23 @@ Get details: Save On Valentine's Day Fine Jewelry and More 20 to 60% Off Jewelry
 
 Select styles
 
-Shop All Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Love Your Home! Select Styles On Sale. 30 to 50% Off Select Home Items Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Save Up To 80% Off Clearance 50 to 80% Off Red Zone Clearance
+Shop All Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Great Deals On Arizona Jeans 21.99 Juniors' and Guys' Arizona Jeans
+
+reg. $40-$42
+
+Shop Juniors Shop Guys    14.99 Kids' Arizona Jeans
+
+reg. $30
+
+Shop Boys Shop Girls     Save Up To 80% Off Clearance 50 to 80% Off Red Zone Clearance
 
 New Markdowns In Store and Online
 
-Shop Clearance Now Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Home Shop Handbags and Accessories Shop Jewelry Sephora Shop New Beauty Arrivals Carter's Baby Sale Shop Carter's Now Arizona Jean Co. Shop Arizona Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop Clearance Now Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Home Shop Handbags and Accessories Shop Jewelry Ambrielle Week - Now Through February 27 Shop Ambrielle Now Sephora Shop New Beauty Arrivals SportsFanShop
+
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
+
+Shop SportsFanShop Carter's Baby Sale Shop Carter's Now
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
