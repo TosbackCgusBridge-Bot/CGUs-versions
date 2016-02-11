@@ -279,7 +279,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Home
             *   In-season Savings
             *   Last Chance
-
+*   ECATALOG
 *   My Account
     *   Back to Main Menu My Account
     *   Sign In
