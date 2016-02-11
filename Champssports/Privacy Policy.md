@@ -1,6 +1,6 @@
 Privacy Policy
 
-Last Updated November, 2015
+Last Updated February, 2016
 
 Thank you for visiting our Website. We recently revised our Privacy Statement to make it easier for you to understand. This revised Statement, like our previous one, outlines the information we collect, how we may use and disclose it, and what your options are with respect to our practices. If you have any questions, please contact us at customercare@champssports.com
 
@@ -8,7 +8,7 @@ Thank you for visiting our Website. We recently revised our Privacy Statement to
 
 Champs Sports believes in protecting your information. With this in mind, we have adopted this Privacy Statement, which describes the information we may collect when you use visit our websites (each a "Site"), sign up for a brand loyalty membership (each a "Loyalty Program"), or shop in our stores (each a "Store") (collectively the "Services"). By using this Site, you agree to the collection, use and disclosure of your personal information as described in this Statement. If you do not, please do not use the Site. This Statement addresses:
 
-Information Collection Information Use Information Disclosure Updating Your Information Changes to our Privacy Statement Option to Opt-out Children's Privacy Security of Information Your California Privacy Rights Questions/Contacting Us Links to Other Websites Safe Harbor Certification
+Information Collection Information Use Information Disclosure Updating Your Information Changes to our Privacy Statement Option to Opt-out Children's Privacy Security of Information Your California Privacy Rights Questions/Contacting Us Links to Other Websites Data Transfers
 
 **Information Collection**
 
@@ -87,5 +87,5 @@ This Site contains links to other sites, which may have privacy policies that di
 
 You acknowledge and agree that Champs Sports is not responsible for the content, accuracy, legality, decency, copyright compliance, privacy practices, security or any other aspects of any such linked websites, and that the access or use of any such linked websites is solely at your own risk, and you hereby waive any and all claims against Champs Sports with respect to such linked websites.
 
-**Safe Harbor Certification**  
-Champs Sports adheres to the Safe Harbor Privacy Framework as set forth by the United States Department of Commerce in coordination with the European Commission. If you have any complaints regarding our compliance with the Safe Harbor, you should contact us at: counsel@footlocker.com.
+**Data Transfers**  
+We may transfer the personal information we collect about you through our Site to countries other than the country in which the information was collected. If you are an international visitor to our Site, please be aware that the information you provide may be transferred to computers in the United States. We take steps to ensure that the data collected under this Privacy Statement is processed according to the purposes set out in this Privacy Statement and, in transferring data, that the information is protected as described herein.
