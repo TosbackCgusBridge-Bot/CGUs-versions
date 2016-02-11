@@ -2,6 +2,7 @@
 
 *   Explore
     *   Recent Photos
+    *   TrendingNew
     *   Flickr VR
     *   The Commons
     *   20under20
@@ -17,7 +18,7 @@
 *   Sign In
 *   Sign Up
 
-Explore Recent Photos The Commons 20under20 Galleries The Weekly Flickr Flickr Blog Grass could be greener on this side
+Explore Recent Photos TrendingNew The Commons 20under20 Galleries The Weekly Flickr Flickr Blog Grass could be greener on this side
 
 You seem to be using an unsupported browser. To get the most out of Flickr please upgrade to the latest version of Chrome, Safari, Firefox, or Internet Explorer.
 
