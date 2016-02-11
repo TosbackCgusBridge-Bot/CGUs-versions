@@ -73,7 +73,7 @@ Aéropostale
     *   Shorts
     
     *   JACKETS + COATS
-    *   UNDERWEAR
+    *   UNDERWEAR + SOCKS
     *   ACCESSORIES
 *   Active
     *   Live Love Dream
