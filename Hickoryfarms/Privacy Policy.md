@@ -37,7 +37,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Wine &. Cheese Combo
 *   Sweets
     *   Chocolates
-    *   Confections
 *   Specialty Foods
     *   HoneyGold® Ham
     *   Mustards &. Spreads
@@ -90,7 +89,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Wine &. Cheese Combo
 *   Sweets
     *   Chocolates
-    *   Confections
 *   Specialty Foods
     *   HoneyGold® Ham
     *   Mustards &. Spreads
