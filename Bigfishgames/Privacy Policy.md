@@ -1,6 +1,6 @@
 Big Fish Games, Inc. Privacy Policy
 
-Last modified: April 9th, 2015
+Last modified: February 10th, 2016
 
 We at Big Fish have created this Privacy Policy to describe how information is collected, used, and disclosed when you visit or use a Big Fish Offering. **By accessing and/or using this Big Fish website or any Big Fish Offering, you are accepting the practices described in this Privacy Policy.**
 
@@ -36,7 +36,7 @@ When you download or access Big Fish Offerings via a mobile device, we and our s
 
 Aggregated, Anonymous Information:
 
-We may collect aggregated, anonymized information via Big Fish Offerings that does not identify any single user or device.
+We may collect aggregated, anonymized information via Big Fish Offerings that does not identify any single user or device. If you choose to provide a username within a Big Fish Offering, please do not provide as your username any information that identifies you in real life, such as your real name.
 
 USE AND SECURITY OF COLLECTED INFORMATION
 
