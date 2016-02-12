@@ -339,7 +339,7 @@ Site Map
 Customer Service
 
 Email Us  
-international@orchardbrands.com  
+international@blair.com  
 International Shipping  
 Site Map  
 
