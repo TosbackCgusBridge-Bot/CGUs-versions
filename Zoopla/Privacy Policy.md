@@ -37,6 +37,10 @@ Zoopla Property Group Ad Providers. Use of these technologies by Zoopla Property
 
 Zoopla Property Group marketing service providers. If you do not want Zoopla Property Group and its marketing services providers to follow your usage of our Services via cookies and Web beacons, you can opt out of Cookies/Web beacons from: comScore, Google Analytics, Omniture and Yahoo! Opting out of these services does not mean you will no longer receive online advertising. It does mean that the service from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns. Please note that, if you opt out and later delete your cookies, use a different browser, or use a different computer or other electronic device, you will need to renew your opt-out choices.
 
+Visitors can opt out of Google Analytics for Display Advertising and customise Google Display Network ads using Google's Ad Settings page
+
+Visitors can opt out of Google Analytics using this browser add-on.
+
 Safety and security
 
 Personal information is processed and stored in our databases and we have taken reasonable steps to secure and protect the information under our control, including establishing processes to prevent unauthorized access or disclosure of this information. However, whilst we make every effort to ensure the security of your information, we are unable to guarantee the protection of the information from misuse, accidental disclosure or unauthorised acts by others. Information provided by you may be stored or processed outside the United Kingdom.
