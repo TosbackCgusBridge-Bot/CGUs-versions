@@ -99,7 +99,7 @@ About Us
 *   Youth Programs
 *   Contact Us
 *   Social Media
-*   Volunteer: Connect with Nature
+*   Volunteer: Connect With Nature
 *   Visit a Preserve
 *   Where We Work
 *   How We Work
