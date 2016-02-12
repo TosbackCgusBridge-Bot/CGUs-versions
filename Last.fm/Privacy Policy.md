@@ -1,7 +1,9 @@
+Last.fm
+
 *   Join
 *   Login
 
-Last.fm Logo Toggle navigation
+Toggle navigation
 
 *   Live
 *   Music
