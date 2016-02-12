@@ -57,6 +57,7 @@ Hybrids & Fcv
 Upcoming Vehicles
 
 *   2015 Concept Vehicles View More Info
+*   2017 Tacoma TRD Pro View More Info
 
 Shopping Tools
 
