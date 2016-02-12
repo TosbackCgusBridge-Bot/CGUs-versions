@@ -44,6 +44,7 @@ Search Google Appliance Enter the terms you wish to search for. Search
 *   Help
 *   Business
 
+*   Español
 *   TV Lineup
 *   Suddenlink FYI
 *   Suddenlink2GO
