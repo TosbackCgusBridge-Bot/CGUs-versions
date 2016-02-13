@@ -68,11 +68,11 @@ Privacy Policy | HSW
 
 Up Next
 
+*   HowStuffWorks NOW: The Chemistry of Space
+*   Test Your Knowledge: Exotic Meats
+*   The Professional Sports Mascots Quiz
+*   The 'Making a Murderer' Quiz
 *   BrainStuff: Why Do Dogs Tilt Their Heads?
-*   HowStuffWorks NOW: Slimy Bacteria Sees The Light
-*   Stuff Mom Never Told You: The ABCs of Asexuality
-*   Who Said It? The US Presidential Quotes Quiz
-*   Test Your Knowledge: Experimental Foods
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,17 +292,17 @@ Print | Citation &. Date
 
 More to Explore NOW
 
+**NASA Urges You to Get Your Butt to Mars ... and Other Exciting Destinations**
+
+**Discovering the Chemistry of Space Through Telescopes**
+
+**Viking Toilet Worm Investigation Finds Genetic Clues to Emphysema's Origins**
+
+**Volvo's Death-proof Promise Is Nothing New**
+
 **Two New Studies Find Potential Harmful Effects of E-Cigarettes**
 
-**U.S. Coins Don't Have Numbers on Them — Not Even the Government Knows Why**
-
-**No More Notebooks: How Smartphone Apps Help Songwriters Create Music**
-
-**Slimy Bacteria Inch Toward the Light**
-
-**Still Riding the Rails: Life as a Modern Hobo**
-
-**Gravitational Waves! Or the Chirps That Prove Einstein Was Right**
+**U.S. Coins Display No Numerical Values — Not Even the Government Knows Why**
 
 **See More Headlines »**
 
