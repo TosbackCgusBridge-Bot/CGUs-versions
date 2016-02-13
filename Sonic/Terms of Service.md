@@ -24,6 +24,7 @@ From SonicWiki Jump to: navigation, search Contents
     *   1.13 Billing Policy
     *   1.14 Equipment Policy
     *   1.15 Legal Process Policy
+    *   1.16 Regulatory
 
 Sonic.net Policies Sonic.net, Inc. General Policy
 
@@ -149,6 +150,12 @@ Legal Process Policy
 
 Legal Process Policy
 
+Regulatory
+
+CA Tariff - Local Exchange Services
+
+CA Access Services Tariff – Intrastate
+
 Pages in category "Policies"
 
 The following 6 pages are in this category, out of 6 total.
@@ -177,4 +184,4 @@ S
 
 *   Software Disclaimer
 
-Retrieved from "https://wiki.sonic.net/index.php?title=Category:Policies&oldid=4475"
+Retrieved from "https://wiki.sonic.net/index.php?title=Category:Policies&oldid=5120"
