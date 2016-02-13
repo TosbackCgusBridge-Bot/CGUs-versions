@@ -88,7 +88,6 @@ Aéropostale
     *   Cozy Cabin Room
     *   Metallic Moment Room
     *   Bethany's Dreamweaver Room
-    *   Touch of Whimsy Room
     *   Lofty Ideals Room
     *   Spirited Away Room
     *   Festival Feels Room
