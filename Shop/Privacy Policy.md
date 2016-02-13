@@ -18,9 +18,9 @@ LENOVO Menu
         6.  Coupon Page
         7.  Deals for Students and Educators
         8.  Clearance PCs
-    *   Sweet Deals PCs not Edible.
+    *   Valentine's Day Sale Deals so sweet you'll say "Be Mine"!
         
-        Sale ends February 10.
+        Sale ends February 14.
         
     *   Clearance Sale Get these deals before they’re gone.
         
@@ -319,6 +319,7 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Smartphones
     *   Lenovo Holiday Deals
     *   Lenovo Preferred Card
+    *   Trade-In Program
     *   Lenovo Photo Service
     *   Gaming Computers
     *   Yoga Computers
