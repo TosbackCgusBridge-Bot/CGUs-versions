@@ -94,14 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Wed, Feb 10, 2016 Creating Trust for the Internet of Things
-
-OTA's Craig Spiezle joins Scott Perry for this PECB Webinar on increasing trust in the Internet of Things through security, privacy and sustainability.  For pre-reading click here for more info on OTA's IoT Trust Framework and working group. 
-
-Wed, Feb 10, 2016 EU-US Privacy Shield: Understanding the New Framework
-
-Register for this webinar today to hear directly from the Department of Commerce on the new EU-US Privacy Shield framework. The speaker will address a) what companies will need to do to comply with the new Framework, and b) what the differences are with the old Safe Harbor.  Eligible CPEs: 1.00 CPE/60 minutes.
-
 Mon, Feb 29, 2016 RSA Conference 2016 - Key Sessions &. Events
 
 **OTA is a proud supporter and sponsor of RSA Conference 2016.  Join OTA staff, Board, Committee Chairs and members at these key sessions and member events to learn, connect and collaborate.** 
@@ -111,6 +103,14 @@ Mon, Feb 29, 2016 RSA Conference 2016 - Key Sessions &. Events
 Mon, Feb 29, 2016 RSA 2016
 
 Secure your seat at RSA® Conference 2016 February 29–March 4 in San Francisco. Register today with the OTA discount code **16UOTAFCD** and gain access to two halls of 500+ exhibitors, 400+ expert-led sessions, unprecedented networking and not-to-be-missed keynote speakers. Celebrating its 25th anniversary this year, RSA Conference continues to drive the information security agenda worldwide with annual industry events in the U.S., Europe and Asia.
+
+Tue, Mar 1, 2016 2016 SC Magazine Awards &. Dinner
+
+Join OTA at the 2016 SC Magazine Awards program including dinner and reception recognizing industry leaders, start ups and trends.  A must attend event for anyone attending RSA.
+
+Wed, Mar 2, 2016 RSA "Blended Intelligence" Reception
+
+An evening of connecting, collaborating and sharing. Registration information coming soon. Sponsored by IID, Infoblox, OTA, ThreatWave &. TRUSTe.
 
 More >>.
 
