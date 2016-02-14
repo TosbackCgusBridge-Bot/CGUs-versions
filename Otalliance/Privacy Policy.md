@@ -117,6 +117,10 @@ More >>.
 *   OTA Blog
 *   Newsletters
 
+Fri, Jan 29, 2016 Getting Ready for the 2016 Online Trust Audit
+
+The Online Trust Audit continues to serve as benchmark of security, privacy and consumer protection enhancing best practices.  Consistent with OTA's view such standards and practices need to continually evolve to to reflect the threat landscape, new standards and regulatory requirements this year's methodology and scoring has been updated.
+
 Sun, Jan 24, 2016 Donor Data. the New Currency for Presidential Candidates, Time for ethical data privacy practice
 
 Voter data is the new currency and candidates are reaping the rewards targeting voters and ultimately determining who will be the next President. As we have transformed into a data driven society and economy this may be expected. But the candidate’s privacy and data practices in both the news headlines and in the backroom are not.  As we head into the State primaries and caucuses, this data is proving to be invaluable.
@@ -128,10 +132,6 @@ For the past several years, marketers have been capturing email addresses at bri
 Wed, Dec 9, 2015 It Sees You When You're Sleeping, It Knows When You're Awake
 
 I love my fitness tracker.  Not only does it affirm me (I met my today’s goal!), it also supports my inner narrative (of course I’m cranky – I slept badly last night… be nice to me).  Last holiday season it was the gift I didn’t even know I wanted until I got it.  This year, we’re both older and wiser. Trust in our relationship has shifted from blind innocence to practical, mature action.  I’ve come to realize more and more about how my device gathers, transmits and stores reams of personal data on me and my habits.
-
-Thu, Nov 12, 2015 Why We Need an IoT Framework
-
-We already suspected our smart TVs were ‘watching’ our viewing behavior and sharing data with advertising and television business partners.  Now, our smart TVs can open our homes to criminals. 
 
 More >>. Resources
 
