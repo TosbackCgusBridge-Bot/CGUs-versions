@@ -39,7 +39,7 @@ Banking Accounts and Services
 *   Transfers
 *   Online Statements
 *   Mobile Banking
-*   Identity Theft Protection Plans
+*   Identity Theft Protection
 
 Your Financial Goals
 
