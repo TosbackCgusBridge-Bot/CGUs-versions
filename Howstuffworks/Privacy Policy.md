@@ -68,11 +68,11 @@ Privacy Policy | HSW
 
 Up Next
 
+*   What the Stuff?!: 5 Gross Things That Happen When You Die
 *   HowStuffWorks NOW: The Chemistry of Space
 *   Test Your Knowledge: Exotic Meats
 *   The Professional Sports Mascots Quiz
 *   The 'Making a Murderer' Quiz
-*   BrainStuff: Why Do Dogs Tilt Their Heads?
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,6 +292,10 @@ Print | Citation &. Date
 
 More to Explore NOW
 
+**Spotted: Early Planetary Formation Around a Binary Star System**
+
+**Air Pollution Kills 5.5 Million Per Year, Half in China and India Alone**
+
 **NASA Urges You to Get Your Butt to Mars ... and Other Exciting Destinations**
 
 **Discovering the Chemistry of Space Through Telescopes**
@@ -299,10 +303,6 @@ More to Explore NOW
 **Viking Toilet Worm Investigation Finds Genetic Clues to Emphysema's Origins**
 
 **Volvo's Death-proof Promise Is Nothing New**
-
-**Two New Studies Find Potential Harmful Effects of E-Cigarettes**
-
-**U.S. Coins Display No Numerical Values — Not Even the Government Knows Why**
 
 **See More Headlines »**
 
