@@ -139,7 +139,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Jerseys
     *   PhotosMLB Auctions
 *   MLB.TV MLB.TV MLB.TV
-    *   Buy MLB.TV (Offseason)
+    *   Buy MLB.TV
     *   Watch/Listen
     *   Alternative Audio
     *   MLB.TV with Extra Innings
