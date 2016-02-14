@@ -40,7 +40,7 @@ Need to Talk with Us about Something Urgent?
 
 Our helpful Live Support Monkeys are here to help through live online chat.
 
-Chat With Someone Now Live Chat Unavailable
+Live Chat Unavailable
 
 Communicate with Us the Old-Fashioned Ways
 
