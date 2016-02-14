@@ -88,9 +88,9 @@ See PS4™ Co-Op Games
 
 Sony on Twitter
 
-“Pride + Prejudice + Zombies” + Sony Rewards Points too. Upload your @PPZmovie tickets here. sonyrewards.com
+Get your weekend started with @ZHUmusik's remix for “Working For It” featuring @nomeromusic! spotify.com
 
-2016-02-07 00:45:01+00:00
+2016-02-13 10:14:14+00:00
 
 View Tweet
 
@@ -110,11 +110,19 @@ Close
 
 Stream This Mix
 
-The Z5's ETA Is Now
+May You Level-Up Your Love This Valentine's Day
 
-Switch Today
+Game On
 
-Sony on Vine
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Game On
 
 A Bloody Twist on Jane Austen's Classic Novel
 
@@ -152,9 +160,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-It’s not easy looking this good in the wild. @OutsidersWGN is streaming now on Crackle! http://crackle.watch/Outsiders
+#PPZmovie has you covered this Valentine’s Day with tips to fight like a lady. sonypicutres.com
 
-2016-02-09 04:16:02+00:00
+2016-02-11 18:12:01+00:00
 
 View Tweet
 
@@ -272,9 +280,9 @@ With a Smart Sensor
 
 Sony on Twitter
 
-Calling all @EllieGoulding fans! Enter at #Xperia Lounge to win a VIP trip to see the @Vevo Certified star.
+The Hitman Beta is live this weekend: playstation.com. Take on two missions from Agent 47's violent past
 
-2016-02-09 05:02:02+00:00
+2016-02-12 17:01:01+00:00
 
 View Tweet
 
