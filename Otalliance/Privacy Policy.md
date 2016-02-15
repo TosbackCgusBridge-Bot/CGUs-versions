@@ -119,7 +119,9 @@ More >>.
 
 Fri, Jan 29, 2016 Getting Ready for the 2016 Online Trust Audit
 
-The Online Trust Audit continues to serve as benchmark of security, privacy and consumer protection enhancing best practices.  Consistent with OTA's view such standards and practices need to continually evolve to to reflect the threat landscape, new standards and regulatory requirements this year's methodology and scoring has been updated.
+Updated - February 15, 2016
+
+The Online Trust Audit continues to serve as benchmark of security, privacy and consumer protection enhancing best practices for organizations throughout the world.  Consistent with OTA's view such standards and practices need to continually evolve to reflect the threat landscape, new standards and regulatory requirements, this year's methodology and scoring is being updated.
 
 Sun, Jan 24, 2016 Donor Data. the New Currency for Presidential Candidates, Time for ethical data privacy practice
 
