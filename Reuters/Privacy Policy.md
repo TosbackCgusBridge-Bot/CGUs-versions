@@ -1,40 +1,31 @@
 This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
 
 *   Discover Thomson Reuters
+*   USA - English
+    *   Australia    English
+    *   Canada    English
+    *   Canada    Français
+    *   France    Français
+    *   Middle East    English
+    *   New Zealand    English
+    *   UK &. Ireland    English
+    *   thomsonreuters.com
+    *   View all sites
 *   Login
 *   Contact Us
 *   **Cart 0**
 
-Thomson Reuters Industries
-
 *   Financial &. Risk
-*   Legal
-*   Life Sciences
-*   Tax &. Accounting
-
 *   Intellectual Property
-*   Reuters News Agency
+*   Legal
+*   Reuters New Agency
+*   Life Science
 *   Scholarly &. Scientific Research
-
-About Thomson Reuters
-
-*   ThomsonReuters.com
-*   About Us
-*   Office Locations
-*   Media Contacts
-*   Press Releases
-*   Careers
-
-Connect with Us
-
-*   Facebook
-*   Twitter
-*   LinkedIn
-*   Google+
+*   Tax &. Accounting
 
 Skip to content Skip to navigation menu **Your browser is not supported by this site.** Please update to the latest version, or use a different browser for the best experience. Learn more
 
-Legal Solutions
+Legal Solutions | USA
 
 Free Standard Shipping!
 
