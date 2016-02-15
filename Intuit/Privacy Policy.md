@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14455619734
+true true C14459836889
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p17.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Sat Feb 13 11:15:20 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p27.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Sun Feb 14 11:15:29 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,47 +49,47 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Presidents' Day Sale Online Only! | Ends February 15 | Code: 2SAVNOW Extra 30% Off\* $100 or More Or, Extra 25% Off\* Or, Extra 20% Off\* select salon products, furniture, mattresses, custom blinds and shades Shop Presidents' Day Sale Now View Store Ad \*Exclusions and details:Spend $25 or More and Get $10 Off
-
-In Store and Online | Code: LUVSVNGS
-
-Get coupon: Shop Furniture Shop Mattresses Shop Women Shop Men Shop Window Shop Bed and Bath Shop Kids Shop Shoes Save On Valentine's Day Fine Jewelry and More 20 to 60% Off Jewelry
+Up to 60% Off Jewelry Sale 20 to 60% Off Jewelry
 
 Select styles
 
-Shop All Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Valentine's Day Gifts For Everyone On Your List Valentine's Day Gift Shop
+Shop All Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Up To 80% Off Clearance 50 to 80% Off Red Zone Clearance
 
-February 14
+New Markdowns on Coats, Sweaters and Fleece | In Store and Online
 
-Shop All GiftsGift Cards
+Shop Clearance Now Shop Women Shop Men Shop Kids Shop Shoes Shop Home Save on Levi's(R) for Men, Women and Kids 36.99 Women's Levi's(R) 524(TM) Skinny Jeans
 
-$15 Off $15 Coupon | In Store Only! | Ends February 14
+orig. $49.50
 
-Spend $75 on Gift Cards and get a $15 off $15 Coupon. Redeemable 2/15/16-2/29/16 in store only. Some restrictions apply. See store for details.
+Shop Women's  24.99 Boys' Levi's(R) 510(TM) Skinny or 511(TM) Slim Jeans
 
-Shop Gift CardsE-Gift Cards
+reg. $44-$48
 
-$15 Off $15 Coupon | Online Only! | Ends February 14
+Shop Boys  46.99 Guys' Levi's(R) 511(TM) Slim Jeans
 
-Spend $75 on E-Gift Cards and get a $15 off $15 coupon. Redeemable 2/15/16-2/29/16 in store and online. Some restrictions apply.
+reg. $69.50
 
-Get details: Great Deals On Arizona Jeans 21.99 Juniors' and Guys' Arizona Jeans
+Shop Guys  
 
-reg. $40-$42
+offers and coupons do not apply
 
-Shop Juniors Shop Guys    17.99 Kids' Arizona Jeans
+Save on Baby and Toddler Clothes During Carter's Baby Sale 40% Off Carter's Apparel
 
-reg. $30
+Select styles
 
-Shop Boys Shop Girls     Save Up To 80% Off Clearance 50 to 80% Off Red Zone Clearance
-
-New Markdowns In Store and Online
-
-Shop Clearance Now Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Home Shop Handbags and Accessories Shop Jewelry Ambrielle Week - Now Through February 27 Shop Ambrielle Now Sephora Shop New Beauty Arrivals SportsFanShop
+Shop Carter's SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop Carter's Baby Sale Shop Carter's Now
+Shop SportsFanShop JCPenney | optical
+
+60% Off Two or More, OR 50% Off One Pair of Glasses
+
+Shop Optical E-Gift Cards
+
+Customize with a message, photo or video.
+
+Get Details Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
