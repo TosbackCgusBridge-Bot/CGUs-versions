@@ -27,14 +27,6 @@ Participation in these surveys or contests is completely voluntary and you there
   
 We may use third party service providers to conduct these surveys or contests. These companies are prohibited from using our users’ personally identifiable information for any other purpose. These third parties are bound by contract to Southwest Airlines to use adequate security measures to protect your personal information.
 
-DING!
-
-From our web site, you have the option to download our DING! application. If you choose to download this application, you will be notified of exclusive Southwest air fare offers.  
-  
-You do not have to install DING! to use our web site, and downloading the application is completely voluntary. If you choose to take advantage of this application, you will be asked to provide up to 10 airports for which you are interested in receiving special offers. You will also be asked to provide your Rapid Rewards number, although providing this information is not required to use the application.  
-  
-For more information on our DING! application, please visit **southwest.com/ding**.
-
 Forward-to-a-Friend and Refer-a-Friend
 
 You may use a referral feature (either on a web page, in an e-mail, from a banner ad or other communication) to inform a friend about a Southwest web page or promotion. Southwest may use any e-mail address provided when using this referral feature to send an e-mail on your behalf to such designated recipients about the particular promotion, product, or service in which you indicated your "friend" may have an interest.
@@ -205,4 +197,4 @@ This privacy policy is current as of the effective date set forth below. Southwe
 
 Additional Privacy Policy for Mexico
 
-Updated: July 1, 2015
+You may use a referral feature (either on a web page, in an e-mail, from a banner ad or other communication) to inform a friend about a Southwest web page or promotion. Southwest may use any e-mail address provided when using this referral feature to send an e-mail on your behalf to such designated recipients about the particular promotion, product, or service in which you indicated your "friend" may have an interest.
