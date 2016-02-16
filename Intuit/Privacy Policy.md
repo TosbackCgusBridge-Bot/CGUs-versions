@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14459836889
+true true C14464146639
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p27.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Sun Feb 14 11:15:29 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Mon Feb 15 11:15:07 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,15 +49,11 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Up to 60% Off Jewelry Sale 20 to 60% Off Jewelry
+LAST DAY! Presidents' Day Sale Online Only! | Ends February 15 | Code: 2SAVNOW Extra 30% Off\* $100 or More Or, Extra 25% Off\* Or, Extra 20% Off\* select salon products, furniture, mattresses, custom blinds and shades Shop Presidents' Day Sale Now View Store Ad \*Exclusions and details: Shop Furniture Shop Mattresses Shop Women Shop Men Shop Window Shop Bed and Bath Shop Kids Shop ShoesSpend $25 or More and Get $10 Off
 
-Select styles
+In Store and Online | Code: LUVSVNGS
 
-Shop All Jewelry Shop Fine Jewelry and Bijoux Bar Shop Fashion Jewelry and Fashion Silver Shop Fine and Fashion Watches Up To 80% Off Clearance 50 to 80% Off Red Zone Clearance
-
-New Markdowns on Coats, Sweaters and Fleece | In Store and Online
-
-Shop Clearance Now Shop Women Shop Men Shop Kids Shop Shoes Shop Home Save on Levi's(R) for Men, Women and Kids 36.99 Women's Levi's(R) 524(TM) Skinny Jeans
+Get coupon: Save on Levi's(R) for Men, Women and Kids 36.99 Women's Levi's(R) 524(TM) Skinny Jeans
 
 orig. $49.50
 
@@ -73,11 +69,23 @@ Shop Guys  
 
 offers and coupons do not apply
 
-Save on Baby and Toddler Clothes During Carter's Baby Sale 40% Off Carter's Apparel
+Ambrielle Bras On Sale Ambrielle Week -- Now Through February 27
+
+14.99 and 19.99 Ambrielle Bras, select styles, reg. $30-38
+
+Shop Ambrielle BrasFree Lace Cheeky Panty
+
+with the purchase of an Ambrielle bra while supplies last.
+
+Shop Now Save on Baby and Toddler Clothes During Carter's Baby Sale 40% Off Carter's Apparel
 
 Select styles
 
-Shop Carter's SportsFanShop
+Shop Carter's Up To 80% Off Clearance 50 to 80% Off Red Zone Clearance
+
+New Markdowns on Coats, Sweaters and Fleece | In Store and Online
+
+Shop Clearance Now Shop Women Shop Men Shop Kids Shop Shoes Shop Home SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
@@ -85,11 +93,7 @@ Shop SportsFanShop JCPenney | optical
 
 60% Off Two or More, OR 50% Off One Pair of Glasses
 
-Shop Optical E-Gift Cards
-
-Customize with a message, photo or video.
-
-Get Details Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop Optical Write a Review For Your Chance to Win $1,000 Get Details: Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
