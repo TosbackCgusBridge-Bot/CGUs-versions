@@ -68,7 +68,7 @@ Dailymotion’s Copyright Agent for notice of claims of copyright infringement o
   
 Copyright Agent  
 Dailymotion  
-Notifications@dailymotion.com 8. Registration and access 8.1 Registration
+Notifications@dailymotion.com8. Registration and access 8.1 Registration
 
 In order to use many of the Website's features, you must set up an account using the online registration form. You are free to modify the Prohibited Content section, (ii) the retention of your connection data, which is subject to our policies on Personal Data you provide on the form at any time. Upon registering, you will be sent an email containing an hyperlink that must be clicked in order to confirm your registration. You may access your account by entering your username and password in the login fields on the homepage. You alone are responsible for keeping your username and password secure. Registration entitles you to use the Website. We reserve the right to terminate your account at any time. Failure to comply with the Terms or any other policy of Dailymotion may result in access to your personal page being temporarily or permanently suspended, immediately and without notice, or in the deactivation of your account, without prejudice to any other rights we may have.
 
