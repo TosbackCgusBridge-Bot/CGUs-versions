@@ -18,9 +18,9 @@ LENOVO Menu
         6.  Coupon Page
         7.  Deals for Students and Educators
         8.  Clearance PCs
-    *   Valentine's Day Sale Deals so sweet you'll say "Be Mine"!
+    *   Presidential Savings Save up to 48% site-wide.
         
-        Sale ends February 14.
+        Sale ends February 17.
         
     *   Clearance Sale Get these deals before they’re gone.
         
@@ -42,8 +42,7 @@ LENOVO Menu
           
           
         Call 1-855-2-LENOVO (1-855-253-6686), Option 2  
-        Monday-Friday 9am-9pm (EST)  
-        Saturday 9am-6pm (EST)
+        Monday-Friday 9am-9pm (EST)
     *   Technical Support
         1.  Lenovo Products Tablet, Laptop, Workstation, ThinkServer, Storage, and Smartphone support information
         2.  Other brands by Lenovo - System x Server and Storage- LenovoEMC &. Iomega Storage- Motorola
