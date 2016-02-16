@@ -1,6 +1,6 @@
-Share your love this Valentine’s Day with a
+Review Your Blues Sweepstakes
 
-Buckle Gift Card.
+Get Started!
 
 Guest Services 800-607-9788
 
