@@ -292,17 +292,17 @@ Print | Citation &. Date
 
 More to Explore NOW
 
+**New Clues to Ancient Roman Art Discovered in Egyptian Mummy Portraits**
+
+**Online Voting: It Could Be Easier, But Is It Better?**
+
+**Tragic History: The Bioethical Boondoggle in Guatemala**
+
 **Spotted: Early Planetary Formation Around a Binary Star System**
 
 **Air Pollution Kills 5.5 Million Per Year, Half in China and India Alone**
 
 **NASA Urges You to Get Your Butt to Mars ... and Other Exciting Destinations**
-
-**Discovering the Chemistry of Space Through Telescopes**
-
-**Viking Toilet Worm Investigation Finds Genetic Clues to Emphysema's Origins**
-
-**Volvo's Death-proof Promise Is Nothing New**
 
 **See More Headlines »**
 
