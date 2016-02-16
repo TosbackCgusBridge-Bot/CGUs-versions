@@ -29,6 +29,11 @@ Umfang der Verarbeitung Ihrer personenbezogenen Daten für den Zweck der Erfüll
 *   Name, Vorname
 *   E-Mail
 
+  
+
+**2.5** Bei der Nutzung der Onlinespiele unseres Spieleportals werden vom jeweiligen Dienstleister unter Umständen personenbezogene Daten erhoben und verarbeitet. Die rechtliche und inhaltliche Verantwortung für die Verarbeitung dieser Daten liegt daher beim jeweiligen Spieleanbieter, deren geltende Datenschutzbestimmungen in unserem Spieleportal bzw. beim Start eines Spiels verlinkt sind. Die CHIP Digital GmbH speichert diesbezüglich keine personenbezogenen Daten.
+
+  
 **3\. Was ist eigentlich mit IP-Adressen etc.?** Einklappen Mit Ihrem Zugriff auf diese Website werden mögliche Identifizierungsdaten (IP-Adresse) und weitere Angaben (Datum, Uhrzeit, betrachtete Seite) auf unserem Server für Zwecke der Datensicherheit gespeichert. Eine Auswertung der Daten, mit Ausnahme für statistische Zwecke und dann nur in anonymisierter Form (d.h. um mehrere Nummern verkürzte oder in eine andere Zahlenfolge verschlüsselte IP-Adresse, vgl. hierzu Abschnitt "Erstellen von Nutzungsprofilen), erfolgt nicht. **4\. Nutzung und Weitergabe personenbezogener Daten** Einklappen
 
 **4.1** CHIP Digital nutzt Ihre personenbezogenen Informationen nur innerhalb der Gesellschaft und gibt sie nur an solche Unternehmen weiter, die bei der Erfüllung der mit Ihnen abgeschlossenen Verträge oder sonst bei der Leistungserbringung eingeschaltet werden. Ansonsten werden Ihre personenbezogenen Angaben nicht an Dritte weitergegeben, wenn Sie dazu nicht ausdrücklich Ihr Einverständnis gegeben haben oder wir zur Herausgabe verpflichtet sind, beispielsweise aufgrund einer gerichtlichen oder behördlichen Anordnung.
