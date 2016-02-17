@@ -110,7 +110,7 @@ Join OTA at the 2016 SC Magazine Awards program including dinner and reception r
 
 Wed, Mar 2, 2016 RSA "Blended Intelligence" Reception
 
-An evening of connecting, collaborating and sharing. Registration information coming soon. Sponsored by IID, Infoblox, OTA, ThreatWave &. TRUSTe.
+An evening of connecting, collaborating and sharing. Join us for premium wines, interesting people and some Blended Intelligence! Sponsored by IID, Infoblox, OTA, ThreatWave &. TRUSTe.
 
 More >>.
 
