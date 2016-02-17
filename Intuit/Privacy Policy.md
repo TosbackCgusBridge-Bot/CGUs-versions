@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14464146639
+true true C14466896211
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Mon Feb 15 11:15:07 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p13.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Tue Feb 16 11:12:28 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,11 +49,23 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-LAST DAY! Presidents' Day Sale Online Only! | Ends February 15 | Code: 2SAVNOW Extra 30% Off\* $100 or More Or, Extra 25% Off\* Or, Extra 20% Off\* select salon products, furniture, mattresses, custom blinds and shades Shop Presidents' Day Sale Now View Store Ad \*Exclusions and details: Shop Furniture Shop Mattresses Shop Women Shop Men Shop Window Shop Bed and Bath Shop Kids Shop ShoesSpend $25 or More and Get $10 Off
+2 Days Only Online Only | Ends February 17 | Code: NOWSHOP3 \*Get details:
 
-In Store and Online | Code: LUVSVNGS
+50% Off\* select orig and reg-priced styles
 
-Get coupon: Save on Levi's(R) for Men, Women and Kids 36.99 Women's Levi's(R) 524(TM) Skinny Jeans
+Shop Bedding and Bath Shop Luggage Shop Window Shop Gold and Silver Jewelry
+
+40% Off\* select orig and reg-priced styles
+
+Shop Home Decor Shop Furniture and Mattresses Shop Diamond and Gemstone Jewelry
+
+30% Off\* select orig and reg-priced styles
+
+Shop Kitchen and Dining Shop Custom Blinds and Shades
+
+Extra 20% Off\* select orig and reg, sale and clearance-priced items
+
+Shop Men Shop Women Shop Kids Shop Baby Shop Handbags and Accessories Shop Fashion Jewelry Shop Watches Shop Shoes Shop Online Clearance Save on Levi's(R) for Men, Women and Kids 36.99 Women's Levi's(R) 524(TM) Skinny Jeans
 
 orig. $49.50
 
