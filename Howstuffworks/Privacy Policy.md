@@ -68,11 +68,11 @@ Privacy Policy | HSW
 
 Up Next
 
+*   Stuff Mom Never Told You: Ridiculous Lies Parents Tell Girls About Leg Shaving
+*   HowStuffWorks NOW: The Chemistry of Space
 *   Stuff They Don't Want You to Know: Cattle Mutilation
 *   What the Stuff?!: 5 Gross Things That Happen When You Die
-*   HowStuffWorks NOW: The Chemistry of Space
 *   Test Your Knowledge: Exotic Meats
-*   The Professional Sports Mascots Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,17 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**New Clues to Ancient Roman Art Discovered in Egyptian Mummy Portraits**
+**Yes, You Can be Allergic to Vibrations**
 
-**Online Voting: It Could Be Easier, But Is It Better?**
+**Fossils of Ancient Filter-feeding Fish Discovered in Colorado**
 
-**Tragic History: The Bioethical Boondoggle in Guatemala**
-
-**Spotted: Early Planetary Formation Around a Binary Star System**
-
-**Air Pollution Kills 5.5 Million Per Year, Half in China and India Alone**
-
-**NASA Urges You to Get Your Butt to Mars ... and Other Exciting Destinations**
+**After 20 Years, Pokemon Is Still Going Strong**
 
 **See More Headlines »**
 
