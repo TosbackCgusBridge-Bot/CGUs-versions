@@ -9,8 +9,8 @@ Show menu
     *   Cars
     *   Cruises
     *   Flights
-    *   Event Tickets
     *   DEALS!
+    *   Activities
     *   Mobile
     *   CheapCash
 
@@ -31,8 +31,8 @@ Show menu
 *   Cars
 *   Cruises
 *   Flights
-*   Event Tickets
 *   DEALS!
+*   Activities
 *   Mobile
 *   CheapCash
 *   More
