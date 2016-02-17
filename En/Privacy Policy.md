@@ -4,7 +4,7 @@
     *   Leadership team
     *   Our people
     *   Softonic Clean &. Safe
-    *   Softonic CSR
+    *   Softonic &. Our Environment
 *   What we do
     *   User services
     *   Developer services
@@ -56,9 +56,5 @@ Softonic International S.A.: Tax Identification Number: A-62134341. Filed with t
 *   Barcelona
 *   Madrid
 *   San Francisco
-*   New York
-*   Tokyo
-*   Shanghai
-*   Mexico City
 
 The name and logo of Softonic are registered trademarks of Softonic International, S.A. Copyright Softonic International, S.A. © 1997-2014 – All rights reserved.
