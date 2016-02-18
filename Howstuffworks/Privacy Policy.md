@@ -68,11 +68,11 @@ Privacy Policy | HSW
 
 Up Next
 
+*   FW: Thinking: The Future of Vaccines Part 2
+*   HowStuffWorks NOW: Your body heat changes this polymer
+*   The Amateur Inventors Quiz
+*   Take Two: The Movie Remakes Quiz
 *   Stuff Mom Never Told You: Ridiculous Lies Parents Tell Girls About Leg Shaving
-*   HowStuffWorks NOW: The Chemistry of Space
-*   Stuff They Don't Want You to Know: Cattle Mutilation
-*   What the Stuff?!: 5 Gross Things That Happen When You Die
-*   Test Your Knowledge: Exotic Meats
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Yes, You Can be Allergic to Vibrations**
+**Tragic History: The Bioethical Boondoggle in Guatemala**
 
-**Fossils of Ancient Filter-feeding Fish Discovered in Colorado**
+**New Polymer Thinks You’re Hot Stuff**
 
-**After 20 Years, Pokemon Is Still Going Strong**
+**Comic Books Are More Than Just White Guys in Tights**
 
 **See More Headlines »**
 
