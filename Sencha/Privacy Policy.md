@@ -11,6 +11,8 @@ Sencha
         *   Ext JS
         *   GXT
         *   Sencha Touch
+    *   Test
+        *   Sencha Test
     *   Tools
         *   IDE Plugins
         *   Cmd
@@ -37,6 +39,7 @@ Sencha
     *   Careers
 *   Store
     *   Ext JS
+    *   Sencha Test
     *   GXT
     *   Architect
     *   Web Application Manager
@@ -172,6 +175,7 @@ Get Sencha NewsBuy Online
     *   Why Sencha
     *   Sencha Platform
     *   Ext JS
+    *   Sencha Test
     *   GXT
     *   Sencha Touch
     *   IDE Plugins
@@ -212,6 +216,7 @@ Get Sencha NewsBuy Online
 
 *   Store
     *   Ext JS
+    *   Sencha Test
     *   GXT
     *   Architect
     *   Web Application Manager
