@@ -117,29 +117,42 @@ Toyota Owners
 
 A website just for you. Keep track of service history, watch how-to videos, chat with other Toyota owners, and more.
 
-*   Safety Recall Lookup
-*   Owner's Manuals
-*   Maintenance Guide
-*   Dashboard Indicators
-*   Videos
+*   Safety Recall Lookup  
+    
+*   Owner's Manuals  
+    
+*   Maintenance Guide  
+    
+*   Dashboard Indicators  
+    
+*   Videos  
+    
 
 Toyota Financial Services (TFS)
 
 From explaining credit to providing information on buying and leasing, we’ll help you learn what’s best for you.
 
-*   Lease and Loan
-*   Financing
-*   Pay Bill Online
+*   Lease and Loan  
+    
+*   Financing  
+    
+*   Pay Bill Online  
+    
 
 Dealer Locator
 
 Whether you're across town or across the country, use this feature to find the nearest Toyota dealer.
 
-*   Toyota Canada
-*   Toyota de Puerto Rico
-*   Toyota Mexico
-*   SERVCO (Hawaii)
-*   Toyota USA
+*   Toyota Canada  
+    
+*   Toyota de Puerto Rico  
+    
+*   Toyota Mexico  
+    
+*   SERVCO (Hawaii)  
+    
+*   Toyota USA  
+    
 
 Toyota USA Newsroom
 
@@ -147,140 +160,255 @@ For more information about Toyota, or to register as a journalist and access con
 
 Toyota Vehicles
 
-*   All Vehicles
-*   Cars
-*   Compact Cars
-*   Trucks
-*   SUVs
-*   Minivan
-*   Crossovers
+*   All Vehicles  
+    
+*   Cars  
+    
+*   Compact Cars  
+    
+*   Trucks  
+    
+*   SUVs  
+    
+*   Minivan  
+    
+*   Crossovers  
+    
 
-*   Hybrid Vehicles
-*   Hybrid Cars
-*   Hybrid SUVs
-*   Hatchback Cars
-*   Fuel Efficient Cars
-*   Fuel Efficient SUVs
-*   Search Inventory
+*   Hybrid Vehicles  
+    
+*   Hybrid Cars  
+    
+*   Hybrid SUVs  
+    
+*   Hatchback Cars  
+    
+*   Fuel Efficient Cars  
+    
+*   Fuel Efficient SUVs  
+    
+*   Search Inventory  
+    
 
-*   Comparison
-*   Customize Your Own Toyota
-*   Find Your Match
-*   Future Vehicles &. Concept Cars
-*   Request a Quote
-*   Brochure Request
-*   Get Trade-in Value
+*   Customize Your Own Toyota  
+    
+*   Find Your Match  
+    
+*   Future Vehicles &. Concept Cars  
+    
+*   Request a Quote  
+    
+*   Brochure Request  
+    
+*   Get Trade-in Value  
+    
+*   Prius Family  
+    
 
 Cars
 
-*   Avalon
-*   Camry
-*   Corolla
-*   Matrix
-*   Yaris
+*   Avalon  
+    
+*   Camry  
+    
+*   Corolla  
+    
+*   Yaris  
+    
 
 Minivan
 
-*   Sienna
+*   Sienna  
+    
 
 Trucks
 
-*   Tacoma
-*   Tundra
+*   Tacoma  
+    
+*   Tundra  
+    
 
 Crossovers &. SUVs
 
-*   FJ Cruiser
-*   4Runner
-*   Highlander
-*   Land Cruiser
-*   RAV4
-*   Sequoia
+*   4Runner  
+    
+*   Highlander  
+    
+*   Land Cruiser  
+    
+*   RAV4  
+    
+*   Sequoia  
+    
 
 Hybrids
 
-*   Avalon Hybrid
-*   Camry Hybrid
-*   Highlander Hybrid
-*   Prius
-*   Prius _c_
-*   Prius Family
-*   Prius Plug-in
-*   Prius _v_
-*   RAV4 EV
+*   Avalon Hybrid  
+    
+*   Camry Hybrid  
+    
+*   Highlander Hybrid  
+    
+*   Prius  
+    
+*   Prius _c_  
+    
+*   Prius Plug-in  
+    
+*   Prius _v_  
+    
+*   RAV4 Hybrid  
+    
+
+Discontinued Vehicles
+
+*   Venza  
+    
+*   Matrix  
+    
+*   FJ Cruiser  
+    
+*   RAV4 EV  
+    
 
 Features
 
-*   Entune™
-*   Safety Connect®
-*   ToyotaCare
-*   Genuine Toyota Accessories
+*   Entune™  
+    
+*   Safety Connect®  
+    
+*   ToyotaCare  
+    
+*   Genuine Toyota Accessories  
+    
 
 General / Car Tips Content
 
-*   Car Tips
-*   Choosing a Fuel Efficient Vehicle
-*   Fuel Efficient Driving Techniques
-*   Fuel Economy Tips
-*   In Car Technology
-*   Hands Free Tips
-*   Maintenance Tips &. Service Checklist
+*   Car Tips  
+    
+*   Choosing a Fuel Efficient Vehicle  
+    
+*   Fuel Efficient Driving Techniques  
+    
+*   Fuel Economy Tips  
+    
+*   In Car Technology  
+    
+*   Hands Free Tips  
+    
+*   Maintenance Tips &. Service Checklist  
+    
 
 Support
 
-*   Phone Compatibility &. Pairing
-*   Frequently Asked Questions
-*   Contact Us
-*   Toyota Dealers
-*   Sign Up for Information
-*   Your Privacy Rights
-*   Legal Terms
+*   Phone Compatibility &. Pairing  
+    
+*   Frequently Asked Questions  
+    
+*   Contact Us  
+    
+*   Toyota Dealers  
+    
+*   Sign Up for Information  
+    
+*   Your Privacy Rights  
+    
+*   Legal Terms  
+    
 
 About Toyota
 
-*   Awards
-*   Toyota USA Newsroom
-*   Our Values
-*   Operations
-*   Environment
-*   Philanthropy
-*   Diversity
-*   Careers
-*   For Investors
-*   Technology
-*   Quality
-*   Value
-*   Safety
-*   Fuel Economy
+*   Awards  
+    
+*   Toyota USA Newsroom  
+    
+*   Our Values  
+    
+*   Operations  
+    
+*   Environment  
+    
+*   Philanthropy  
+    
+*   Diversity  
+    
+*   Careers  
+    
+*   For Investors  
+    
+*   Technology  
+    
+*   Quality  
+    
+*   Value  
+    
+*   Safety  
+    
+*   Fuel Economy  
+    
 
 Toyota Brands
 
-*   Lexus
-*   SCION
-*   Industrial Equipment
+*   Lexus  
+    
+*   SCION  
+    
+*   Industrial Equipment  
+    
 
 International
 
-*   Toyota USA
-*   Toyota USA (Español)
-*   Toyota Global
-*   Toyota Canada
-*   Toyota Japan
-*   Toyota Mexico
+*   Toyota USA  
+    
+*   Toyota USA (Español)  
+    
+*   Toyota Global  
+    
+*   Toyota Canada  
+    
+*   Toyota Japan  
+    
+*   Toyota Mexico  
+    
 
 External Sites
 
-*   Toyota Financial Services
-*   Toyota Racing
-*   Toyota Rent a Car
-*   Toyota Mobility
+*   Toyota Financial Services  
+    
+*   Toyota Racing  
+    
+*   Toyota Rent a Car  
+    
+*   Toyota Mobility  
+    
+
+Compare
+
+*   Corolla vs Civic  
+    
+*   Rav4 vs Crv  
+    
+*   Corolla vs Elantra  
+    
+*   Corolla vs Focus  
+    
+*   Camry vs Accord  
+    
+*   Prius vs C-max  
+    
 
 Buy Toyota
 
-*   **Toyota Owners**
-*   **Dealer Locator**
-*   **Certified Used Vehicles**
-*   **Local Specials**
+*   **Toyota Owners**  
+    **Buy a Toyota**  
+    
+*   **Dealer Locator**  
+    **Deals**  
+    
+*   **Certified Used Vehicles**  
+    
+*   **Local Specials**  
+    
 
 Your Privacy Rights **Personal Information Sharing Practices for 2015**  
 During 2015, Toyota shared personal information about our customers with specific third parties where the information was used for the recipient's own marketing.  
