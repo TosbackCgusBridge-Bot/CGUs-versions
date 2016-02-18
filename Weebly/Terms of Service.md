@@ -1,16 +1,7 @@
-**Last updated August 18, 2015**
+**Last updated February 16, 2016**
 
-**Section 1:** Expanded “Service” definition.  
-**Section 6:** Expanded definitions of “Materials” and “Marks”.  
-**Section 8:** Added more Content and Conduct rules.  
-**Section 9:** Added E-commerce Services terms and conditions, regarding “Selling Through Weebly”.  
-**Section 10:** Updated provisions regarding automatic renewal policy.   
-**Section 13:** Revised provisions regarding Weebly’s responsibility for third party services.  
-**Section 17:** Added Domain Services terms and conditions.  
-**Section 18:** Revised indemnity provisions relating to third party claims arising from Commercial Products and use of Domain Services.  
-**Section 19:** Revised warranty disclaimer for third party services and sites.  
-**Section 20:** Revised user remedy under Limitation of Liability.  
-**Section 23:** Added provisions regarding arbitration and class action waiver.  
+**Section 18:** Added Email Services.  
+Updated Section Numbers  
 
   
   
@@ -189,11 +180,79 @@ On certain occasions, domain name registrations may become the subject of a lega
   
 You must notify us immediately if you lose the rights to a domain name registered by Weebly on your behalf.
 
-18\. Indemnity
+18\. Email Services
+
+For the email marketing services provided directly to you by Weebly (the “Email Services”), the following terms and conditions also apply. **Your use of the Email Services serves as your consent to these terms.** Weebly may suspend or terminate your access to and use of the Email Services if you do not comply with these terms.
+
+Your use of the Email Services must comply with all applicable domestic and international laws. This includes the laws applicable to you and also laws applicable to Weebly and all recipients to whom you intend to send emails (each a “Recipient”). Examples of applicable laws include laws relating to spam or unsolicited commercial email (hereinafter “Spam” or “UCE”), privacy, security, obscenity, defamation, intellectual property, pornography, terrorism, homeland security, gambling, child protection, and other applicable laws. It is your responsibility to know and understand the laws applicable to your use of the Email Services and the emails you generate and send through the Email Services. Your use of the Email Services must also comply with the Privacy Notice applicable to the Email Services. Weebly’s Privacy Notice is available here.
+
+**You are solely responsible for your products and services and any other promotion and Content contained in or referred to in your emails sent through the Email Services. You agree to use the Email Services in a lawful, safe, and professional manner, consistent with industry best practices, including keeping reliable records. You are solely responsible for any and all statements you make and for all user assistance, warranty and support of your products and services.**
+
+Your use of the Email Services must follow all applicable guidelines established by Weebly. The guidelines below are examples of practices that may violate these Terms when generating or sending email or messages through the Email Services:
+
+**You will not:**
+
+1.  Use the Email Services in violation of Weebly’s Terms of Service or of any law applicable to you or your Recipients;
+2.  Use the Email Services to send Spam. You must ensure that all Recipients have explicitly granted permission to receive emails from you by affirmatively opting-in to receive those emails. All emails and messages sent by means of the Email Services must comply with our Anti-Spam Policy, as outlined below:
+    1.  Weebly has a no tolerance Spam policy and does not knowingly do business with any user or company that participates in sending Spam/UCE. We do not sell or exchange personal information from our opt-in lists.
+    2.  An email is Spam if: (a) the recipient’s personal identity and context are irrelevant because the message is equally applicable to many other potential recipients. (b) the recipient has not verifiably granted deliberate, explicit and still-revocable permission for it to be sent. and (c) the transmission and reception of the message appears to give a disproportionate benefit to the sender.
+    3.  Spam is an issue of consent, not content. A recipient should “affirmatively opt-in,” or expressly consent to receiving the message, either in response to a clear and conspicuous request or at the recipient’s own initiative.
+    4.  The U.S. CAN-SPAM Act regulates and establishes requirements for commercial messages, gives recipients the right to have you stop emailing them, and spells out tough penalties for violations. Other international regulations and laws also apply to electronic marketing, and while we cannot give legal advice, we encourage you to become familiar with these laws, especially if you live in or mail to recipients outside the U.S.
+    5.  If you receive Spam complaints or run into compliance problems, or if Weebly identifies a potentially problematic contact list, we will first ask questions to try to understand your business as well as your marketing goals. If we determine that a list is not consent-based or is too old or problematic to work with, we will require that it be removed from your account. In certain instances, we may ask you to find another service provider because our goals are simply not compatible.
+    6.  Please refer to our Email Marketing FAQ located in the Help Center for further guidance on how to become a responsible mailer, as well as the additional ways that Weebly helps protect against sending unwanted or unsolicited email.
+    7.  If you feel a Weebly user is sending unsolicited email, you can report it to us by sending it to abuse@weebly.com.
+3.  Use the Email Services to request, collect or send any non-public or personally identifiable information about another user or any other person without their express prior written consent (or the parent’s consent in the case of a minor), illegal information, or any other information you do not have the right to request, collect or distribute;
+4.  Use the Email Services to send email campaigns that link to or display pornography, other sexually explicit content, illegal goods or services, or any other Content that Weebly deems inappropriate;
+5.  Transmit any message, information, data, text, software or image, or other Content that is not owned by you or legally licensed to you, or is unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, libelous, or otherwise objectionable which may violate another’s right of privacy or publicity;
+6.  Send through the Email Services any unethical, false or misleading advertising, promotions, or sales efforts and practices;
+7.  Post or transmit any materials that contains a virus or corrupted data;
+8.  Use purchased or rented email lists;
+9.  Use third party email addresses, domain names, or mail servers without proper permission;
+10.  Send emails to non-specific addresses (e.g., webmaster@domain.com or info@domain.com) or distribution lists, newsgroups, publicly available press or media addresses or purchased email addresses;
+11.  Send emails that result in an unacceptable number of Spam or UCE complaints (even if the emails themselves were not actually Spam or UCE);
+12.  Disable or fail to include a working “unsubscribe” link in every email, which allows the Recipient/s to remove themselves from your mailing list. Each such link must remain operational for at least 60 days after the date on which you send the message, and you agree that you will not remove, disable or attempt to remove or disable the link;
+13.  Disable or fail to comply with any request from a recipient to be removed from your mailing list within seven (7) calendar days of receipt of the request. You cannot charge a fee, require the recipient to give you any personally identifiable information beyond an email address, or make the recipient take any step other than sending a reply email or visiting a single page on an Internet website as a condition for honoring an unsubscribe request. As required under the U.S. CAN-SPAM Act and other applicable laws, you acknowledge that you are responsible for maintaining and honoring the list of unsubscribe requests following termination of your Weebly account, for any reason whatsoever;
+14.  Disguise the origin or subject matter of any email or falsify or manipulate the originating email address, subject line, headers, or transmission path information for any email. For any email or message sent by you using the Email Services, (a) the “from” line must accurately and in a non-deceptive manner identify your identity or your organization’s identity. and (b) the “subject” line of your email must relate to the email’s actual content and must not contain any deceptive or misleading content regarding the overall subject matter of the email message. You agree that you are the sole or designated sender of any email you send through the Email Services, pursuant to any law or act applicable to your use of the Email Services (e.g., U.S. CAN-SPAM Act of 2003, Canada’s Anti-Spam Legislation, S.C. 2010, c. 23 and Directive 2003/58/EC of the European Parliament and of the Council of 12 July 2002), and as such you are required to comply with such laws and any other laws in other jurisdictions that apply to your use of the Email Services, and be responsible for any violation of any such applicable laws.
+15.  Fail to include in each email your valid physical mailing address (which if you are located in the United States, may be a valid post office box meeting the registration requirements established by the United States Postal Service) or a link to that information. For Recipients based in the EU, each email must additionally include the sender’s business registration number and VAT ID or a link to that information;
+16.  Include “junk mail”, “chain letters”, “pyramid schemes”, incentives (e.g., coupons, discounts, awards, or other incentives) or other material in any email that encourages a Recipient to forward the email to another recipient. and
+17.  Fail to comply with export and import regulations for the U.S. and other countries.
+
+Some industries yield higher than normal abuse rates for Spam. Thus, Email Services may not be used on behalf of certain industries and senders. This includes, but is not limited to, the following:
+
+1.  Pharmaceutical products;
+2.  Work from home, make money online, “get rich schemes”, and lead generation opportunities;
+3.  Online trading, day trading tips, or stock market-related content;
+4.  Mortgage and loan content;
+5.  Nutritional, herbal and vitamin supplements;
+6.  Gambling services, products, or tips;
+7.  Multi-level marketing;
+8.  Affiliate marketing or any type of performance marketing, in which a business rewards one or more affiliates for each visitor or customer brought by the affiliate’s own marketing efforts;
+9.  Credit repair and get out of debt opportunities. and
+10.  Counterfeit or “knock off” products appearing to be another brand.
+
+It is your responsibility to ensure that the Content you put in your emails does not violate these guidelines. Weebly has no obligation to do so, but may monitor your account to ensure compliance with these Terms and operation within the acceptable industry standards. In our sole discretion, we reserve the right to block emails, remove Content, or prohibit use of the Email Services that may be in violation of the foregoing or of the Terms (including SendGrid Terms). You understand and agree that we and any applicable third party that supports, posts, publishes or distributes your emails and Content also has the right to reformat, edit, monitor, reject, block or remove any of your emails and Content and suspend or terminate the Email Services, in whole or in part, permanently or for a certain period. In no case will the foregoing make us responsible or liable to you or for compliance with any such laws or obligations, for which you remain solely responsible and liable.
+
+If you know of or suspect any violations of these Terms, please notify Weebly here. Weebly will determine compliance with these Terms in its sole discretion and reserves the right, without notice, to take all measures of any nature (legal, technical, or otherwise) or prevent UCE and/or any other unauthorized email, messages or campaigns from entering, utilizing or remaining within our network. We may terminate the Email Services and your Weebly account at any time and for any reason. If your account is terminated, we may permanently delete it and any associated data.
+
+In order to provide the Email Services, we currently use SendGrid’s API (www.sendgrid.com). hence, your use of the Email Services is also governed by SendGrid’s terms and policies, as now effective and/or as may be effective in the future (“SendGrid Terms”), including, without limitation, SendGrid’s Terms of Use and SendGrid’s Privacy Policy. SendGrid Terms are in addition to these Terms, and you shall comply with both as applicable to the Email Services. We may terminate any Third Party Service, including SendGrid, in our sole discretion at any time, without notice to you, with no liability to you or to the third party. Any such termination or any act by a Third Party Service may impact our ability to make available some or all of the features of the Email Services, and we will not be liable to you or to any third party for any such actions.
+
+We will obtain any information that you provide us in connection with your use of the Email Services, such as contact lists (including email addresses and any other information contained in such lists) and Content posted or used by you for the Email Services, or in any other manner. We acknowledge your ownership rights in such contact lists (“Customer Information”) and Content. We won’t sell or rent your Customer Information without your prior explicit permission and won’t use your Customer Information for any purpose other than as described in our Privacy Notice and in these Terms. SendGrid may also use the Customer Information and other information provided by you as part of the Email Services, in accordance with the SendGrid Terms.
+
+You hereby grant to us a revocable, non-exclusive, royalty-free, worldwide license, with the right to sublicense, to use, reproduce, publish, distribute, perform and display Customer Information, only as required by us to offer and operate the Email Services.
+
+You are solely responsible for the accuracy, quality, integrity, legality, reliability and appropriateness of all Customer Information. You are responsible for maintaining, securing and storing all Customer Information in accordance with applicable law and your contractual obligations, including the Terms. You represent and warrant that you own or have rights in the material in your emails and the Customer Information required for us to use the Customer Information as contemplated by these Terms.
+
+When using the Email Services, you agree that any emails and messages and Content contained therein are non-confidential, and you automatically grant or warrant that the owner of such Content or intellectual property has expressly granted to us an irrevocable, non-exclusive, royalty-free, perpetual, transferable, worldwide license, with the right to sublicense, to use, reproduce, create derivative works from, modify, publish, edit, translate, distribute, perform and display such Content or intellectual property in any manner or in any media now known or hereafter created, including in connection with our marketing and promotional activities.
+
+To the extent permitted by law, we may make and preserve copies of all Customer Information as necessary to provide the Email Services and for internal back-up and other legal or regulatory purposes. However, we are not obligated to preserve copies of your Customer Information, emails and messages, Content or other data. You are responsible for backing up your Customer Information.
+
+We make no representation or warranty that the content and materials on our website or and/or the Email Services are appropriate for use in locations outside the United States. Those who choose to access the Email Services from other locations do so at their own risk, and are responsible for compliance with applicable local laws. We reserve the right, at any time and in our sole discretion, to limit the availability, quantity, and accessibility of the Email Services to any person, geographic area, or jurisdiction.
+
+19\. Indemnity
 
 You will indemnify and hold harmless Weebly, and its subsidiaries, licensors, affiliates, officers, directors, agents, co-branders, partners, employees, successors, and assigns (collectively “Indemnified Parties”) from any and all liability, loss, claim, damages, expenses, costs or demands, (including but not limited to reasonable attorneys' fees), incurred or made against the Indemnified Parties by any third party in connection with any claim arising from or related to: (a) your use (or anyone using your account/s) use of the Service, the Site or the Materials, (b) your Content, (c) any Commercial Products you offer on or through the Site or using our Services, or (d) your use of the Domain Services. This includes, but is not limited to, any breach or violation of these Terms by you or anyone utilizing your account. You must fully cooperate at your expense as required by an Indemnified Party. Each Indemnified Party may, at its election, assume the defense and control of any matter for which it is indemnified hereunder. You shall not settle any matter involving an Indemnified Party without the consent of the applicable Indemnified Party.
 
-19\. Disclaimer of warranties
+20\. Disclaimer of warranties
 
 1.  YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. THE SERVICE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. WE EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
 2.  WE ARE NOT RESPONSIBLE FOR ANY DAMAGE, LOSS OF DATA, CUSTOMER INFORMATION OR VENDOR DATA, REVENUE, OR OTHER HARM TO BUSINESS ARISING OUT OF DELAYS, MISDELIVERY OR NONDELIVERY OF INFORMATION, RESTRICTION OR LOSS OF ACCESS, BUGS OR OTHER ERRORS, UNAUTHORIZED USE DUE TO YOUR SHARING OF ACCESS TO THE SERVICE, OR OTHER INTERACTION WITH THE SERVICE. YOU ARE RESPONSIBLE FOR MAINTAINING AND BACKING-UP YOUR DATA AND INFORMATION THAT MAY RESIDE ON THE SERVICE. WEEBLY DOES NOT WARRANT THAT (i) THE SERVICE WILL MEET YOUR SPECIFIC REQUIREMENTS, (ii) THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (iii) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICE WILL BE ACCURATE OR RELIABLE, (iv) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SERVICE WILL MEET YOUR EXPECTATIONS, AND (V) ANY ERRORS IN THE SERVICE WILL BE CORRECTED.
@@ -203,21 +262,21 @@ You will indemnify and hold harmless Weebly, and its subsidiaries, licensors, af
 6.  NEITHER WEEBLY NOR ANY THIRD PARTY PROVIDERS, PARTNERS, OR AFFILIATES WARRANT THAT THE SITE, ITS SERVERS, THE MATERIALS OR THE SERVICE, OR ANY EMAIL SENT FROM THE SITE OR ANY THIRD PARTY PROVIDERS, PARTNERS, OR AFFILIATES ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
 7.  WEEBLY AND ITS LICENSORS MAKE NO WARRANTY OR REPRESENTATION THAT THE SERVICES, MATERIALS, OR SITE ARE APPROPRIATE OR AVAILABLE FOR USE IN ALL GEOGRAPHIC LOCATIONS.
 
-20\. Limitation of Liability
+21\. Limitation of Liability
 
 WE WILL NOT BE LIABLE TO YOU OR ANY OTHER PERSON FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF WEEBLY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (a) THE USE OR THE INABILITY TO USE THE SERVICE. (b) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES RESULTING FROM ANY GOODS, DATA, INFORMATION OR SERVICES PURCHASED OR OBTAINED OR MESSAGES RECEIVED OR TRANSACTIONS ENTERED INTO THROUGH OR FROM THE SERVICE. (c) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA. (d) STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SERVICE. OR (e) ANY OTHER MATTER RELATING TO THE SERVICE.  
   
 IN THE EVENT OF ANY PROBLEM WITH THE SITE, THE SERVICE, OR THE MATERIALS, YOUR SOLE AND EXCLUSIVE REMEDY IS TO CEASE USING THE SITE, THE SERVICE, AND THE MATERIALS. UNDER NO CIRCUMSTANCES SHALL WEEBLY, ITS AFFILIATES, OR LICENSORS BE LIABLE IN ANY WAY FOR YOUR USE OF THE SITE, THE SERVICE, THE MATERIALS, YOUR CONTENT, THE COMMERCIAL PRODUCTS OR THIRD PARTY USER GENERATED CONTENT AVAILABLE ON OR THROUGH THE SITE, INCLUDING, BUT NOT LIMITED TO, ANY ERRORS OR OMISSIONS, ANY INFRINGEMENT OF THE INTELLECTUAL PROPERTY RIGHTS OR OTHER RIGHTS OF THIRD PARTIES, OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF, OR RELATED TO, THE USE OF THE SITE, THE SERVICE, THE MATERIALS, YOUR CONTENT, THE COMMERCIAL PRODUCTS OR ANY THIRD PARTY USER GENERATED CONTENT AVAILABLE ON OR THROUGH THE SITE.
 
-21\. Exclusions and Limitations
+22\. Exclusions and Limitations
 
 SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS OF SECTIONS 19 AND 20 MAY NOT APPLY TO YOU.
 
-22\. U.S. Government Restricted Rights
+23\. U.S. Government Restricted Rights
 
 The materials on the Service are provided with "RESTRICTED RIGHTS." Use, duplication, or disclosure by the U.S. Government is subject to restrictions as set forth in applicable laws and regulations. Use of the materials by the U.S. Government constitutes acknowledgment of our proprietary rights in them.
 
-23\. Agreement to Arbitrate. Class Waiver
+24\. Agreement to Arbitrate. Class Waiver
 
 We want to address your concerns or issues before filing a claim against Weebly. Please contact us at http://hc.weebly.com. We'll contact you by email to informally resolve the dispute. You or Weebly may start a formal dispute resolution process if a dispute is not resolved within 10 business days of your submission.  
   
@@ -227,10 +286,10 @@ Any claim relating to these Terms that is not resolved through our informal proc
   
 Either party may bring a lawsuit solely for injunctive relief to stop unauthorized use or abuse of the Service, or to enforce intellectual property rights (e.g., copyright, trademark, trade secret, or patent rights) without first engaging in our informal dispute resolution process or arbitration. In the event this agreement to arbitrate does not apply to you or your claim, any judicial proceeding will be brought in the federal or state courts of San Francisco County, California. You and Weebly agree to submit to the personal and exclusive jurisdiction of the courts in San Francisco, California. **REGARDLESS OF ANY STATUTE OR LAW TO THE COUNTRARY, ANY CLAIM OR CAUSE OF ACTION ARISING OUR OF OR RELATED TO USE OF THE SERVICE OR THESE TERMS MUST BE FILED WITHIN ONE (1) YEAR AFTER SUCH CLAIM OR CAUSE OF ACTION AROSE OR BE FOREVER BARRED.**
 
-24\. General
+25\. General
 
 We may provide notices to you via either email or regular mail. The Service may also provide notices of changes to these Terms or other matters by displaying notices or links to notices to you generally on the Service. These Terms and the relationship between you and Weebly shall be governed by the laws of the State of California without regard to its conflict of law provisions. You and Weebly agree to submit to the personal and exclusive jurisdiction of the courts located within San Francisco, California. The failure of Weebly to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision. These Terms constitute the entire agreement between you and us and govern your use of the Service, superseding any prior agreements (including, but not limited to, any prior versions of these Terms). You also may be subject to additional terms and conditions that may apply when you use affiliate or other services, third-party content or third-party software. If any provision of these Terms or incorporated documents are found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of these Terms remain in full force and effect. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Service or these Terms must be filed within one (1) year after such claim or cause of action arose or be forever barred. The section titles in these Terms are for convenience only and have no legal or contractual effect. You acknowledge and agree that you are each waiving the right to participate as a plaintiff or class member in any purported class action or representative proceeding. Further, more than one person's claims may not be consolidated under any circumstances, in any form of any class or representative proceeding or otherwise.
 
-25\. Violations
+26\. Violations
 
 Please visit our Abuse page to report any violations of these Terms.
