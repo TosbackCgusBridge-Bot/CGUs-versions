@@ -172,7 +172,7 @@ View Tweet
 
 Sony on Instagram
 
-It's Never Too Late for Laughs
+Some Holiday Fun in February
 
 Watch "The Night Before"
 
@@ -184,7 +184,11 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Watch "The Night Before"
+Play Video
+
+Sony on YouTube
+
+Play Video
 
 Finally, Lenses as Innovative as Today's Cameras
 
