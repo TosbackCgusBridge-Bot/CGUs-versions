@@ -81,7 +81,7 @@ EarthLink recommends that children ask a parent for permission before sending an
 
 **11\. California Privacy Rights**
 
-California Civil Code Section 1798.83, also known as S.B. 27, allows our California customers to request certain information regarding our disclosures in the prior calendar year, if any, of PII to third parties for their own direct marketing purposes. If you are a California resident and want to make such a request, please contact us at earthlinkconsumerprivacy@corp.earthlink.com or EarthLink, LLC, Legal Department/Consumer Privacy, 1375 Peachtree Street, Atlanta, GA 30309 and include your name and address. Please note that under California law, businesses are only required to respond to a customer request for this information once during any calendar year.
+California Civil Code Section 1798.83, also known as S.B. 27, allows our California customers to request certain information regarding our disclosures in the prior calendar year, if any, of PII to third parties for their own direct marketing purposes. If you are a California resident and want to make such a request, please contact us at earthlinkconsumerprivacy@corp.earthlink.com or EarthLink, LLC, Legal Department/Consumer Privacy, 1170 Peachtree Street, Suite 900, Atlanta, GA 30309 and include your name and address. Please note that under California law, businesses are only required to respond to a customer request for this information once during any calendar year.
 
 **12\. International Visitors**
 
@@ -95,7 +95,7 @@ In addition, if any of the revisions to this Privacy Policy will materially affe
 
 **14\. How to Contact Us**
 
-Please contact us if you have any questions about this Privacy Policy or its implementation, at earthlinkconsumerprivacy@corp.earthlink.com or EarthLink, LLC, Legal Department/Consumer Privacy, 1375 Peachtree Street, Atlanta, GA 30309.
+Please contact us if you have any questions about this Privacy Policy or its implementation, at earthlinkconsumerprivacy@corp.earthlink.com or EarthLink, LLC, Legal Department/Consumer Privacy, 1700 Peachtree Street, Suite 900, Atlanta, GA 30309.
 
 Effective Date: February 14, 2014
 
