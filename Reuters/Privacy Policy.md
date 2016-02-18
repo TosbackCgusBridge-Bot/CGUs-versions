@@ -5,7 +5,6 @@ This JavaScript enables OnlineOpinion, a method for collecting secure feedback d
     *   Australia    English
     *   Canada    English
     *   Canada    Français
-    *   France    Français
     *   Middle East    English
     *   New Zealand    English
     *   UK &. Ireland    English
@@ -173,4 +172,4 @@ Contact sales to start your free trial ›
 *   Editorial Submissions
 *   Legal Notices
 
-Careers | Site Map | Terms of Use | Privacy Statement | © 2015 Thomson Reuters Feedback
+Careers | Site Map | Terms of Use | Privacy Statement | © 2016 Thomson Reuters Feedback
