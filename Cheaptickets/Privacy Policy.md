@@ -11,6 +11,7 @@ Show menu
     *   Flights
     *   DEALS!
     *   Activities
+    *   Event Tickets
     *   Mobile
     *   CheapCash
 
@@ -33,6 +34,7 @@ Show menu
 *   Flights
 *   DEALS!
 *   Activities
+*   Event Tickets
 *   Mobile
 *   CheapCash
 *   More
