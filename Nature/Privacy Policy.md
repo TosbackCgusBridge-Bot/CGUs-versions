@@ -91,7 +91,6 @@ About Us
 *   Ethics and Compliance
 *   Terms of Use
 *   Our Accountability
-*   Why We're Effective
 *   Private Lands Conservation
 *   Working with Companies
 *   Careers
