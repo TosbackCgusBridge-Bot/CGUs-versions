@@ -68,11 +68,11 @@ Privacy Policy | HSW
 
 Up Next
 
-*   FW: Thinking: The Future of Vaccines Part 2
-*   HowStuffWorks NOW: Your body heat changes this polymer
-*   The Amateur Inventors Quiz
-*   Take Two: The Movie Remakes Quiz
-*   Stuff Mom Never Told You: Ridiculous Lies Parents Tell Girls About Leg Shaving
+*   BrainStuff: How Does Vocal Fry Work?
+*   HowStuffWorks NOW: Too Much Light Makes the Baby Go Fat? | HowStuffWorks NOW
+*   Stuff Mom Never Told You: The Power of Fake Confidence
+*   The University Science Specialties Quiz
+*   The Scientific Jargon Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Tragic History: The Bioethical Boondoggle in Guatemala**
+**How Rude! Computer Scientists are Building an Enraged Robot**
 
-**New Polymer Thinks You’re Hot Stuff**
+**Tiny Underwater Snails Fly Through Water Using Same Physics as Winged Insects**
 
-**Comic Books Are More Than Just White Guys in Tights**
+**Could Too Much Screen Time Mean Obesity or Cancer?**
 
 **See More Headlines »**
 
