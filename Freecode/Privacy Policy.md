@@ -4,20 +4,20 @@ SLASHDOT MEDIA PRIVACY POLICY
 
 Effective Date: April 21, 2015
 
-This Privacy Policy describes our policies on the collection, use and disclosure of your information in connection with the following Slashdot Media Internet properties (individually a “Site” and collectively “Sites”):
+This Privacy Policy describes our policies on the collection, use and disclosure of your information in connection with the following SourceForge Media, LLC dba Slashdot Media (“SlashDot Media”, “Company”, “we”, “us” and “our”) Internet properties (individually a “Site” and collectively “Sites”):
 
 *   SlashdotMedia.com
 *   SourceForge.net
 *   Slashdot.org
 *   Freecode.com
 
-Information collected on these Sites may be used in the manner described below by our parent entity, DHI Group, Inc., subsidiaries and affiliates acting on our behalf (collectively, “DHI”).  When used herein, the terms, “we”, “us”, and “our” refer to DHI.
+Information collected on these Sites may be used in the manner described below by our parent entity, BIZX, LLC, subsidiaries and affiliates acting on our behalf (collectively, “SlashDot Media”).
 
 We are committed to good privacy practices regarding your personally identifiable information. Your loyalty as a customer or visitor is important, and we hope that our concerns regarding your privacy, as described in this policy (the “Privacy Policy” or “Policy”), demonstrate our commitment to making your experience with us an enjoyable and satisfying one.
 
 We have been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your personally identifiable information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@slashdotmedia.com. If you are not satisfied with our response you can contact TRUSTe here. The TRUSTe program covers information collected through the Sites.
 
-DHI complies with the U.S.-E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. DHI Group, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view DHI Group, Inc.’s certification, please visit http://www.export.gov/safeharbor/.
+SlashDot Media complies with the U.S.-E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. SlashDot Media has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view SlashDot Media’s certification, please visit http://www.export.gov/safeharbor/.
 
 This Privacy Policy governs your interaction with the Sites and your registration for and use of our online services (collectively, the “Services”). Except as set forth within this Privacy Policy and our Terms of Use Agreement and other published guidelines, we do not release personally identifiable information about our users and visitors without their permission.
 
@@ -40,9 +40,9 @@ A. The information we gather
 We gather two (2) types of information about users:
 
 1.  Non-personally identifiable information (information that does not identify a specific individual): When visitors use the Services, we collect and aggregate information indicating, among other things, which pages were visited, the order in which they were visited, and which links were “clicked.” Collecting such information involves the collection and logging of IP addresses, operating system, and browser software used by each user of the Services. Although such information is not personally identifiable, we can determine from the IP address a visitor’s Internet Service Provider and the geographic location of his or her point of connectivity. The non-personally identifiable information we collect helps us identify the most popular areas of the Sites and determine the effectiveness of our promotional activities. In addition, we may disclose some of this information to advertisers to inform them of the number of people who have seen and/or clicked through their advertisements. We collect non-personally identifiable information in part through the use of “cookies.” For more information, read our section entitled “Cookies” below.
-2.  Personally identifiable information: In certain areas of the Services, such as those in which you complete a profile, submit your resume, create a new account, or enter DHI-sponsored contests or promotions, we may request that you provide us with certain personally identifiable information, such as your e-mail address, name, zip code, profession, or work experience. We will, in such situations, seek to identify which informational items are required and which are optional.
+2.  Personally identifiable information: In certain areas of the Services, such as those in which you complete a profile, submit your resume, create a new account, or enter SlashDot Media-sponsored contests or promotions, we may request that you provide us with certain personally identifiable information, such as your e-mail address, name, zip code, profession, or work experience. We will, in such situations, seek to identify which informational items are required and which are optional.
 
-DHI Services are not available to children under 13 years of age. We do not knowingly collect personally identifiable information from children under 13 years of age.
+SlashDot Media services are not available to children under 13 years of age. We do not knowingly collect personally identifiable information from children under 13 years of age.
 
 B. How we use the information we gather
 
@@ -53,10 +53,10 @@ Please take some time to familiarize yourself with the different ways we use the
     1.  To understand a user’s needs and create content that is relevant to the user;
     2.  To generate statistical studies;
     3.  To conduct market research and planning by sending user surveys;
-    4.  To notify user referrals of DHI services, information, or products when a user requests that we send such information to referrals.
+    4.  To notify user referrals of SlashDot Media services, information, or products when a user requests that we send such information to referrals.
     5.  To improve services, information, and products;
-    6.  To help a user complete a transaction, or provide services or customer support to users and to recipients of DHI products;
-    7.  To communicate with the user and with recipients of DHI products and services;
+    6.  To help a user complete a transaction, or provide services or customer support to users and to recipients of SlashDot Media products;
+    7.  To communicate with the user and with recipients of SlashDot Media products and services;
     8.  To email users about services, information, products and offers from our business partners (and as set forth in the Section How we share information we gather);
     9.  To personalize a Site for the user;
     10.  To notify the user of any changes with a Site which may affect the user;
@@ -72,7 +72,7 @@ C. How we share information we gather
 
 Subject to the foregoing, we use your personally identifiable information in several ways. We may share your personal information with service providers to help us with our business activities such as processing credit cards, email marketing, offering customer service, or operating a community forum.  These companies are authorized to use your personally identifiable information only as necessary to provide these services to us. We require that these third parties establish safeguards to protect the confidentiality of the information that we provide them. We take steps to ensure they subscribe to Safe Harbor, are subject to EU Directive or another adequacy finding, or we enter into a written agreement requiring that they provide at least the same level of protection as required by relevant Safe Harbor principles.
 
-In addition, we reserve the right to share aggregate information collected from users of the Sites, without prior notice, with entities that are part of the DHI corporate family and unrelated third parties. Aggregate information is used in a collective manner and no single person can be identified by such compiled information.
+In addition, we reserve the right to share aggregate information collected from users of the Sites, without prior notice, with entities that are part of the SlashDot Media corporate family and unrelated third parties. Aggregate information is used in a collective manner and no single person can be identified by such compiled information.
 
 We may share certain data from SourceForge.net, Freecode.com, and Slashdot.org with researchers and research organizations for the purpose of supporting academic and scholarly research on free and/or open source software.  We may further choose to establish agreements for these parties to act in a clearinghouse capacity and authorize them to share this data with other researchers studying free and/or open source software.  When data from these websites is transmitted to researchers, we make commercially reasonable efforts to remove personally identifiable information from data fields designed to capture personally identifiable information (other than user names and information that users have made publicly available through one of the sites).  We, however, do not guarantee the complete removal of information that may identify a user, particularly in cases where the user has provided that information in comment fields or other fields not specifically designed for the collection of identifiers.
 
@@ -82,7 +82,7 @@ When you submit any personal identifiable information on a Site, we will obtain 
 
 Please note that we reserve the right to disclose information submitted by or concerning any visitor or user as we reasonably feel is necessary to protect our systems or business. We may also disclose your personally identifiable information as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. We cooperate with law enforcement agencies in identifying those who may be using our servers or Services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution, or to suspend or terminate your use of the Sites in connection with any suspected illegal or infringing activity or if you are in violation of our Terms of Use Agreement or other published guidelines.
 
-If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or a prominent notice on the Site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information. DHI reserves the right to assign, sell, license, or otherwise transfer to a third party your personally identifiable information in connection with an assignment, sale, joint venture, or other transfer or disposition of any portion or all of DHI’s or its affiliated entities’ assets or stock.
+If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or a prominent notice on the Site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information. SlashDot Media reserves the right to assign, sell, license, or otherwise transfer to a third party your personally identifiable information in connection with an assignment, sale, joint venture, or other transfer or disposition of any portion or all of SlashDot Media’s or its affiliated entities’ assets or stock.
 
 D. Tracking Technologies Pixels
 
@@ -164,4 +164,4 @@ Note that, by using the Services, you signify your agreement to this Privacy Pol
 
 K. Questions?
 
-Questions regarding this Privacy Policy should be directed to privacy@slashdotmedia.com. You may also contact us at DHI Group, Inc., 12150 Meredith Drive, Urbandale, IA 50323, or 888-321-3423.
+Questions regarding this Privacy Policy should be directed to privacy@slashdotmedia.com. You may also contact us at SourceForge Media, LLC dba Slashdot Media, PO Box 2452, La Jolla, CA 92038.
