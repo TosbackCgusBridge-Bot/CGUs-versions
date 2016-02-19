@@ -25,6 +25,9 @@ From SonicWiki Jump to: navigation, search Contents
     *   1.14 Equipment Policy
     *   1.15 Legal Process Policy
     *   1.16 Regulatory
+    *   1.17 Terms and Conditions of Global Calling
+        *   1.17.1 Normal, Reasonable Residential Use:
+        *   1.17.2 Impermissible Use:
 
 Sonic.net Policies Sonic.net, Inc. General Policy
 
@@ -156,6 +159,30 @@ CA Tariff - Local Exchange Services
 
 CA Access Services Tariff – Intrastate
 
+Terms and Conditions of Global Calling
+
+Sonic’s Global Calling feature is for normal residential use only and can’t be used for commercial or other special purposes. Global Calling is subject to reasonable use parameters as determined by Sonic. Customers are liable for all charges incurred from fraudulent use.
+
+Normal, Reasonable Residential Use:
+
+Sonic's residential unlimited voice plan and features are for residential members and are based on usage patterns of the average residential customer.
+
+Impermissible Use:
+
+Each of the following is impermissible under Sonic’s residential unlimited voice plan and considered outside of normal residential customer usage:
+
+• Sharing or reselling features
+
+• operating a business, even if operating from the residence
+
+• operating any other enterprise, including not-for-profit or governmental
+
+• operating a call center
+
+• automated dialing
+
+• telemarketing or bulk faxing
+
 Pages in category "Policies"
 
 The following 6 pages are in this category, out of 6 total.
@@ -184,4 +211,4 @@ S
 
 *   Software Disclaimer
 
-Retrieved from "https://wiki.sonic.net/index.php?title=Category:Policies&oldid=5120"
+Retrieved from "https://wiki.sonic.net/index.php?title=Category:Policies&oldid=5380"
