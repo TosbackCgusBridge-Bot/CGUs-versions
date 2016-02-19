@@ -87,11 +87,8 @@ Aéropostale
     *   SHOP BY ROOM
     *   Cozy Cabin Room
     *   Metallic Moment Room
-    *   Bethany's Dreamweaver Room
     *   Lofty Ideals Room
     *   Spirited Away Room
-    *   Festival Feels Room
-    *   Bethany's Floral Fixation Room
     
     *   SHOP BY CATEGORY
     *   Bedding
