@@ -18,9 +18,9 @@ LENOVO Menu
         6.  Coupon Page
         7.  Deals for Students and Educators
         8.  Clearance PCs
-    *   Presidential Savings Save up to 48% site-wide.
+    *   Presidential Savings EXTENDED Save up to 48% site-wide.
         
-        Sale ends February 17.
+        Sale ends February 24.
         
     *   Clearance Sale Get these deals before they’re gone.
         
