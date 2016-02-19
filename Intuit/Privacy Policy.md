@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14484740907
+true true C14489023222
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Wed Feb 17 11:14:06 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p26.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Thu Feb 18 11:11:31 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,51 +49,45 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-2 Days Only Online Only | Ends February 17 | Code: NOWSHOP3 \*Get details:
+Stock Up Sale Starts Now Stock Up Sale
 
-50% Off\* select orig and reg-priced styles
+In Store and Online | Ends February 21
 
-Shop Bedding and Bath Shop Luggage Shop Window Shop Gold and Silver Jewelry
+Shop Stock Up Sale Now View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop ShoesBuy 1 Get 1 Free\*
 
-40% Off\* select orig and reg-priced styles
+St. John's Bay Apparel, select styles, reg. $12-$44
 
-Shop Home Decor Shop Furniture and Mattresses Shop Diamond and Gemstone Jewelry
+\*Buy one item at regular price, get the second item of equal or lesser value for free.
 
-30% Off\* select orig and reg-priced styles
+Shop Men St. John's Bay   Shop Women St. John's Bay   Buy 1 Get 1 Free\* Bath Towels
 
-Shop Kitchen and Dining Shop Custom Blinds and Shades
+Select styles, reg. $6-$25
 
-Extra 20% Off\* select orig and reg, sale and clearance-priced items
+Shop Bath Towels  Bed Pillows
 
-Shop Men Shop Women Shop Kids Shop Baby Shop Handbags and Accessories Shop Fashion Jewelry Shop Watches Shop Shoes Shop Online Clearance Save on Levi's(R) for Men, Women and Kids 36.99 Women's Levi's(R) 524(TM) Skinny Jeans
+Select styles, reg. $12-$200, excluded memory foam
 
-orig. $49.50
+Shop Bed Pillows  
 
-Shop Women's  24.99 Boys' Levi's(R) 510(TM) Skinny or 511(TM) Slim Jeans
+\*Buy one item at regular price, get the second item of equal or lesser value for free.
 
-reg. $44-$48
+Buy 1 Get 1 Free\* Arizona Apparel
 
-Shop Boys  46.99 Guys' Levi's(R) 511(TM) Slim Jeans
+Select styles, reg. $12-$60
 
-reg. $69.50
+Shop Juniors Arizona   Shop Guys Arizona  
 
-Shop Guys  
+\*Buy one item at regular price, get the second item of equal or lesser value for free.
 
-offers and coupons do not apply
+Buy 1 Get 1 Free\* Arizona Apparel
 
-Ambrielle Bras On Sale Ambrielle Week -- Now Through February 27
+Select styles, reg. $12-$46
 
-14.99 and 19.99 Ambrielle Bras, select styles, reg. $30-38
+Shop Boys Arizona   Shop Girls Arizona  
 
-Shop Ambrielle BrasFree Lace Cheeky Panty
+\*Buy one item at regular price, get the second item of equal or lesser value for free.
 
-with the purchase of an Ambrielle bra while supplies last.
-
-Shop Now Save on Baby and Toddler Clothes During Carter's Baby Sale 40% Off Carter's Apparel
-
-Select styles
-
-Shop Carter's Up To 80% Off Clearance 50 to 80% Off Red Zone Clearance
+Up To 80% Off Clearance 50 to 80% Off Red Zone Clearance
 
 New Markdowns on Coats, Sweaters and Fleece | In Store and Online
 
