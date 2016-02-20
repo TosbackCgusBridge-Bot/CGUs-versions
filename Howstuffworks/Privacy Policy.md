@@ -68,11 +68,11 @@ Privacy Policy | HSW
 
 Up Next
 
-*   BrainStuff: How Does Vocal Fry Work?
-*   HowStuffWorks NOW: Too Much Light Makes the Baby Go Fat? | HowStuffWorks NOW
-*   Stuff Mom Never Told You: The Power of Fake Confidence
-*   The University Science Specialties Quiz
-*   The Scientific Jargon Quiz
+*   HowStuffWorks NOW: Building an Epic Telescope
+*   The History of Oil Crises Quiz
+*   The Twilight Character Quiz
+*   The Twilight Book vs. Movie Quiz
+*   Twilight: Who Said It? Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**How Rude! Computer Scientists are Building an Enraged Robot**
+**New '4-D Printing' Advance Makes Shape-changing Objects Inspired by Nature**
 
-**Tiny Underwater Snails Fly Through Water Using Same Physics as Winged Insects**
+**The Challenge of Building a Massive Space Telescope**
 
-**Could Too Much Screen Time Mean Obesity or Cancer?**
+**U.S. Lawmakers Ask Whether It's Time for Women to Register for the Draft**
 
 **See More Headlines »**
 
