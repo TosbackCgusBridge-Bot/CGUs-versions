@@ -103,7 +103,7 @@ If you have any questions about this policy, please write to Whitepages Privacy 
 
 *   Home
 *   About Us
-*   Advertise
+*   Partners
 *   Careers
 *   Blog
 
