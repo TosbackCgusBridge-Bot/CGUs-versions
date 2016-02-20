@@ -100,7 +100,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Swim Shop
             *   Easter Dressing
             *   School Uniforms
-            *   Shoes &. Boots
+            *   Shoes &. Sandals
             
             *   New Arrivals
             *   Boys Iron Knee
@@ -170,6 +170,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Totes &. Beach Bags
         *   Beach Towels
         *   Women's Swim Finder
+        *   Sale
 *   Shoes
     *   *   Back to Main Menu Shoes
         *   Shop Shoes
@@ -178,9 +179,10 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Girls
         *   Boys
         
+        *   Water Shoes &. Sandals
+        *   Accessories Shop
         *   Boots &. Booties
         *   Slippers
-        *   Sock Shop
         *   Sale
 *   Home
     *   *   Back to Main Menu Home
@@ -219,10 +221,10 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Uniforms Featured Shops
             *   Find Your School
+            *   Spiritwear
             *   After School
             
             *   Best-in-Class Polos
-            *   Winter Layers
             *   Iron Knee Pants
             *   Phys Ed Locker Room
             *   Sale
