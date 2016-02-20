@@ -20,6 +20,9 @@ Show menu
 *   Account
     *   Sign In
     *   Create an Account
+*   My Scratchpad   Things you view while shopping are saved here. Things you view while shopping are saved here. Save Scratchpad Send updates Send updates Send updates
+    
+    View Scratchpad
 *   My Trips
 *   Support
     *   Customer Support
