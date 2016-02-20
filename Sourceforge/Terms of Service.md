@@ -132,5 +132,5 @@ Slashdot Media may terminate a user’s account in Slashdot Media’s absolute d
 
 Under California Civil Code Section 1789.3, California residents are entitled to the following specific consumer rights information:
 
-*   **Pricing Information:** Current rates for our services may be obtained by calling us at 800-450-5977, by sending a fax to 515-280-1452, or an e-mail to the SlashDot Media Sales Department. We reserve the right to change fees, surcharges, monthly or other periodic subscription fees or to institute new fees at any time as provided in this Agreement.
+*   **Pricing Information:** Current rates for our services may be obtained by calling us at 800-450-5977, by sending a fax to 707-237-2321, or an e-mail to the SlashDot Media Sales Department. We reserve the right to change fees, surcharges, monthly or other periodic subscription fees or to institute new fees at any time as provided in this Agreement.
 *   **Complaints:** The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 400 R Street, Suite 1080, Sacramento, CA 95814, or by telephone at (916) 445-1254 or (800) 952-5210.
