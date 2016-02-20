@@ -700,7 +700,7 @@ Go there now »
 
 Free Shipping?
 
-Items marked **FREE SHIPPING!** on the product page will ship for free! In order to keep your costs down and our pricing simple, we either provide free shipping or, in certain cases, charge shipping per item. This charge, if any, is indicated in your shopping cart and covers ground shipping within the contiguous United States (click here for information on international shipping costs). We won't surprise you with any hidden charges or handling fees. The price you see in the shopping cart is the price you pay, with one exception: if you are shipping an order to California, Illinois, Kentucky, Massachusetts, New York, Utah, or any Canadian province, we are required to charge sales tax.
+Items marked **FREE SHIPPING!** on the product page will ship for free! In order to keep your costs down and our pricing simple, we either provide free shipping or, in certain cases, charge shipping per item. This charge, if any, is indicated in your shopping cart and covers ground shipping within the contiguous United States (click here for information on international shipping costs). We won't surprise you with any hidden charges or handling fees. The price you see in the shopping cart is the price you pay, with one exception: if you are shipping an order to California, Illinois, Kentucky, Massachusetts, New York, Texas, Utah, or any Canadian province, we are required to charge sales tax.
 
 Beware of companies who mask their shipping charges and surprise you with prohibitive shipping and handling fees or oversize charges at the end of the checkout process. Make sure you know the total cost of your purchase when shopping around.
 
