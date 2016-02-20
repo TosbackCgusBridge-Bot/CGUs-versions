@@ -98,7 +98,7 @@ Mon, Feb 29, 2016 RSA Conference 2016 - Key Sessions &. Events
 
 **OTA is a proud supporter and sponsor of RSA Conference 2016.  Join OTA staff, Board, Committee Chairs and members at these key sessions and member events to learn, connect and collaborate.** 
 
-**Register today for RSA 2016 using the OTA discount code 16UOTAFCD.**
+**Featured RSA Session - Diffusing the IoT Time Bomb: _Security, Privacy &. Sustainability Best Practices_**
 
 Mon, Feb 29, 2016 RSA 2016
 
