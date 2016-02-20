@@ -3,12 +3,12 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
+    *   Swim
     *   Teen Vogue Editors Picks
     *   Bethany Mota
     *   Scene Stealers
     *   Borrowed from the Boys
     *   Tokyo Darling
-    *   Throwback Tees
     *   Uniform
     *   Online Only
     *   Plus Sizes
