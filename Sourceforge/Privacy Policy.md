@@ -2,7 +2,7 @@ Privacy Statement
 
 SLASHDOT MEDIA PRIVACY POLICY
 
-Effective Date: April 21, 2015
+Effective Date: February 18, 2016
 
 This Privacy Policy describes our policies on the collection, use and disclosure of your information in connection with the following SourceForge Media, LLC dba Slashdot Media (“SlashDot Media”, “Company”, “we”, “us” and “our”) Internet properties (individually a “Site” and collectively “Sites”):
 
