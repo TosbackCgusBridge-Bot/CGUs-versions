@@ -8,7 +8,6 @@ Aéropostale
     *   Bethany Mota
     *   Scene Stealers
     *   Borrowed from the Boys
-    *   Tokyo Darling
     *   Uniform
     *   Online Only
     *   Plus Sizes
