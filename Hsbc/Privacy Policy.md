@@ -20,6 +20,7 @@ Menu Explore HSBC.com Search
     *   Our purpose
         
     *   Our strategy expandOur strategy
+        *   The value of our network
         *   Actions to capture value
     *   Leadership
         
