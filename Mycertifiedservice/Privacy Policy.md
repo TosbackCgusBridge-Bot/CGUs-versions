@@ -81,7 +81,7 @@ x Cancel
 
 Privacy Policy
 
-**General Motors Company U.S. Consumer Privacy Statement**
+**SUBHEAD: General Motors Company U.S. Consumer Privacy Statement**
 
 Last modified: January 19, 2016
 
@@ -89,13 +89,13 @@ Your privacy is important to General Motors Company (“GM” or “we”) as is
 
 View the California Privacy Policy
 
-**Scope**
+**SUBHEAD: Scope**
 
 This Privacy Statement applies to personal information we obtain from and about individuals interacting with GM and its websites, products and services. It does not apply to personal information we obtain in our capacity as an employer.
 
 This Privacy Statement covers all GM controlled subsidiaries and affiliates in the U.S. except for General Motors Financial Company, Inc. which has its own Privacy Statement. OnStar, LLC is covered by this Privacy Statement only with respect to the Data Transfer section below. OnStar, LLC’s privacy practices are otherwise covered in the separate OnStar, LLC Privacy Statement, which can be viewed at https://www.onstar.com/web/portal/privacy. Additionally, mobile applications have separate privacy statements, as described in the Mobile Applications section below.
 
-**Information Collected**  
+**SUBHEAD: Information Collected**  
   
 As you interact with GM, there may be opportunities for you to provide us with your information. Additionally, we may collect certain information about you or your vehicle as further described below.  
   
@@ -117,7 +117,7 @@ The types of information that GM collects about you may include, but are not lim
 *   stockholder services information (such as account information)
 *   photographs such as those that you may submit for contests or sweepstakes
 
-**Use**  
+**SUBHEAD: Use**  
   
 The information GM collects about you and your vehicle will be used:
 
@@ -135,13 +135,13 @@ The information GM collects about you and your vehicle will be used:
 
 You may choose to forward information from one of our websites or emails to another person through our Forward to a Friend program. Email addresses submitted to our E-card or other Forward to a Friend programs will not be captured for later use in marketing unless the recipient opts into receiving additional marketing materials from GM.
 
-**Mobile Applications**  
+**SUBHEAD: Mobile Applications**  
   
 GM has developed certain mobile applications that you may download to your mobile device or vehicle (“GM Applications”). When you download a GM Application, there may be an opportunity for you to provide us with or for us to obtain information about you or your vehicle. Each GM Application will display a separate Privacy Statement that will inform you about how any information shared via the application will be handled and how to decline such use or uninstall the application.  
   
 Through the Infotainment system, GM may also offer applications developed by third parties (“3rd Party Application”). When you download a 3rd Party Application to your mobile device or vehicle, the 3rd Party Application may collect information about you in connection with your download or use of that application. GM is not responsible for the collection or use of information by 3rd Party Applications. We recommend that you carefully review the privacy statement of each 3rd Party Application prior to downloading or using them.
 
-**Sharing**
+**SUBHEAD: Sharing**
 
 GM may share the information it collects about you or your vehicle in the following instances:
 
@@ -155,7 +155,7 @@ GM may share the information it collects about you or your vehicle in the follow
 
 Apart from the purposes listed above, GM will not share information about you or your vehicle with other third parties for their independent use without your permission.
 
-**How to Manage Your Personal Information/Communications Preferences**  
+**SUBHEAD: How to Manage Your Personal Information/Communications Preferences**  
   
 If you do not want to receive unsolicited marketing communications from GM, please visit our Consumer Preference System website at www.gmcontactpreferences.com. This will allow you to opt out of telephone and email communications and/or to change previously submitted opt-out preferences. You can also call 1-866-MYPRIVACY (1-866-697-7482) to opt out of direct mail communications, as well as telephone and email communications, and/or to change previously submitted opt-out preferences.  
   
@@ -165,11 +165,11 @@ GM and GM dealers are separate legal entities with their own privacy practices.�
 
 If you opt out of receiving marketing communications from GM, your personal information will not be used for marketing, but may still be used for the other purposes described in this Privacy Statement (such as vehicle support and service).
 
-**Security**  
+**SUBHEAD: Security**  
   
 GM uses administrative, technical and physical security to protect the personal information we maintain and to help ensure that it is used according to this Privacy Statement.
 
-**Cookies/Tracking Technologies**  
+**SUBHEAD: Cookies/Tracking Technologies**  
   
 GM websites use “cookies” to remember user preferences and to maximize the performance of our website and services. Using cookies on our websites provides benefits to you, such as allowing you to maintain your account login information or contact information on Request a Quote forms between visits, or locating a nearby dealer. In addition, we use information gathered from cookies to autofill fields on forms such as the city, state or zip code associated with your IP address. This information can be corrected by you before submitting any form or inquiry or you can disable the cookie as discussed below and the information will not be collected.  
   
@@ -189,21 +189,21 @@ Opting out of relevant advertising will not opt you out of all advertising, but 
 
 If you choose to decline cookies, some of the functionality of a website may be impaired.
 
-**Linked Sites**  
+**SUBHEAD: Linked Sites**  
   
 GM websites may contain links to third-party sites not controlled by GM or covered by this Privacy Statement, such as those belonging to GM dealers, GM licensees, co-branded websites offered in conjunction with a business partner, or independent product review sites. We recommend that you check the Privacy Statement of other sites you visit before providing any personal information.
 
-**GM Dealers**       
+**SUBHEAD: GM Dealers**       
   
 When you buy or lease a GM vehicle from a GM dealer, the dealer will share your information with GM as the vehicle manufacturer.  Please be aware that each dealer operates as a separate legal entity and you should read the dealer’s privacy statement to ensure that you understand its privacy practices and procedures. Additionally, because the GM dealer often is the first contact with you, the dealer can answer any questions you may have about its privacy practices. While GM encourages its dealers to ensure full compliance with all applicable privacy legislation and has provided information to our dealers relating to privacy obligations, GM is not responsible for dealers’ compliance with applicable law.  
   
 When completing a purchase or lease agreement or signing a service repair order with the GM dealer, you should be provided with information describing the dealership's privacy practices and related policies that explain that certain personal information that you provide to the dealer may be shared with GM or others in accordance with this Statement.
 
-**Children's Privacy**  
+**SUBHEAD: Children's Privacy**  
   
 GM websites do not target or knowingly collect any information from children under the age of 13.
 
-**Data Transfer**
+**SUBHEAD: Data Transfer**
 
 When GM and its controlled subsidiaries and affiliates in the United States, including OnStar, LLC, (“GM U.S.”) receive information from GM controlled subsidiaries and affiliates in Europe, including OnStar Europe Ltd., (collectively “GM Europe companies”), we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside of the EEA or Switzerland. GM U.S. acts as a data processor for its GM controlled subsidiaries and affiliates in Europe (collectively, “GM Europe companies”) by providing data hosting, maintenance, support, and troubleshooting of services, as well as other redundant back office support. GM U.S. acts as a data processor for OnStar Europe Ltd. by providing maintenance, support, and troubleshooting of services, as well as other redundant back office support. GM Europe companies and OnStar Europe Ltd. act as controllers of their own European customer data, and GM U.S. acts as a data processor for these companies.
 
@@ -211,7 +211,7 @@ Individuals that use products or services offered by a GM Europe company or OnSt
 
 In addition, anonymized and aggregated data from OnStar Europe Ltd. is shared with GM U.S. to evaluate or research the safety, quality, usage, and functionality of vehicles and services, including the OnStar Services. to provide OnStar Europe Ltd. customers with vehicle support and services. and to ensure accurate customer records and maintain customer relationships.  Information also is shared with GM U.S. in order to contact OnStar Europe Ltd. customers about their vehicle or the services, or for marketing purposes, but only if the individual has opted in to receive marketing information.
 
-**Privacy Inquiries and Correcting Your Information**  
+**SUBHEAD: Privacy Inquiries and Correcting Your Information**  
   
 If you have concerns or questions regarding GM's consumer privacy practices or this Privacy Statement, please refer to the frequently asked questions that follow, or you may contact us at 1-866-MYPRIVACY (1-866-697-7482).  
   
@@ -250,7 +250,7 @@ For GM Family First participants, you may correct your information by contacting
 *   GM Military Discount
 *   Educator Discount
 
-**Changes to Privacy Statement**  
+**SUBHEAD: Changes to Privacy Statement**  
   
 We may update this Privacy Statement from time to time. We will do so by posting additions or modifications to this page.
 
@@ -258,7 +258,7 @@ Effective date: September 1, 2011
 
 Last modified: January 19, 2016  
   
-**Frequently Asked Questions**  
+**SUBHEAD: Frequently Asked Questions**  
 
   
 Q1: How long will my opt-out preferences last?  
