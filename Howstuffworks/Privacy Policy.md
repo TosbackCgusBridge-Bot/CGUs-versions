@@ -68,11 +68,11 @@ Privacy Policy | HSW
 
 Up Next
 
+*   Stuff You Should Know: Internet Roundup: Sirhan Sirhan's Parole Hearing &. Raising the Minimum Wage
+*   Newsletter Signup
+*   Test Your Knowledge: Steve Jobs vs. Steve Wozniak
+*   The Innovations in Video Game Design Quiz
 *   Stuff They Don't Want You to Know: Superbugs: Infection Apocalypse
-*   What the Stuff?!: 5 Gay Parenting Myths
-*   HowStuffWorks NOW: Building an Epic Telescope
-*   The History of Oil Crises Quiz
-*   The Twilight Book vs. Movie Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**New '4-D Printing' Advance Makes Shape-changing Objects Inspired by Nature**
+**Alexander Hamilton? Yeah, He Wasn't a U.S. President**
 
-**The Challenge of Building a Massive Space Telescope**
+**5 Cool New Tech Products Making Bicycling Safer**
 
-**U.S. Lawmakers Ask Whether It's Time for Women to Register for the Draft**
+**Decoding Wolf Dialects**
 
 **See More Headlines »**
 
