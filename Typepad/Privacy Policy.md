@@ -177,10 +177,10 @@ Attention: Legal Department
 
 12.1 If you have a privacy concern regarding any Typepad Site, Product or Service, or this Privacy Policy, please contact our Customer Support team or write to us at:
 
-Typepad, Inc.  
-180 Townsend Street  
-San Francisco, CA 94107  
-Attention: Legal Department
+Typepad  
+10 Corporate Dr  
+Burlington, MA 01803  
+Attention: Typepad Copyright Agent  
 
 Last updated March 4, 2011
 
