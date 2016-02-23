@@ -45,9 +45,9 @@ Got It!
 *   Customers
 *   Resources
 
-Get Pricing Hiring Events
+Get Pricing Source &. Screen  
 
-Get a powerhouse team to build your next recruitment strategy
+A powerhouse team of project managers dedicated to growing your candidate pool at record speed.  
 
 *   Overview
 *   Features
@@ -56,27 +56,42 @@ Get a powerhouse team to build your next recruitment strategy
 
 Get Pricing Overview
 
-When it comes to recruiting, time is a luxury. Rely on our experienced team of project managers and nearly 20 years of job seeker data to drive your recruitment strategy – and find your ideal candidates quickly.   We’ll scour the marketplace for the right candidates, pre-screen them, deliver the top ones to you – and put time back in your day. ​
+When it comes to recruiting, time is a luxury and sometimes you just don’t have the time or resources to keep up with the hiring demands of your organization.
 
-Benefits  
+Source &. Screen leverages over 20 years of candidate behavior experience and the latest in labor market data to develop and execute an effective sourcing strategy for the positions you hire most frequently. Our experienced project managers will scour the CareerBuilder candidate marketplace of active and passive job seekers, and utilize leading job boards, resume databases and professional networking sites to find the right candidates for your business. Your dedicated specialist will then screen candidates either visually or through a phone call to eliminate those who may not be a fit, and deliver the entire book of top sourced talent for your review.  
+
+The candidates you receive from our Source &. Screen team are never shopped around to other companies: They’re yours to keep upon completion and you can hire as many of them as you like – all for one flat rate.
+
+Features  
   
-Augment your team
-
-Let our experts work on your behalf to extend your sourcing power.
-
   
-Re-prioritize
+Supplement Your Efforts  
 
-Enable your team to spend more time building relationships with candidates by engaging CareerBuilder’s team on sourcing and pre-screening.
-
-Pay one flat fee
-
-Make as many hires from your pool of candidates as you like, at no extra cost.
+Let our experts work on your behalf to broaden your sourcing power, allowing your team to focus on making hires.  
 
   
-Resources
+Data Intelligence  
 
-*   \>. Source and Screen Data Sheet​
+Custom campaigns built using labor market data, candidate behavior and historical media campaign results.  
+
+  
+Pay One Flat Rate  
+
+Make as many hires as you can from your exclusive pool of screened candidates - at no extra cost.  
+
+Customers  
+
+  
+Resources  
+
+*   \>  
+    **Data Sheet:** Source &. Screen  
+    
+*   \>  
+    **Coming Soon:** Buyer's Checklist  
+    
+*     
+    
 
 Get Pricing First Name  
 Last Name  
