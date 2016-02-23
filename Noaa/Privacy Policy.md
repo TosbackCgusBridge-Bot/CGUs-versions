@@ -119,7 +119,9 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Disclaimer
 *   USA.gov
 *   Ready.gov
+*   EEO
 *   Employee Check-In
+*   Contact us
 *   Staff Directory
 *   Need help?
 
