@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14527672565
+true true C14503662917
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Sun Feb 21 11:15:28 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p27.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Mon Feb 22 11:10:30 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,57 +49,55 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Stock Up Sale Starts Now Stock Up Sale
+3 Days Only Online Only | Ends February 24 | Code: BIGSHOP4 \*Get details:
 
-In Store and Online | Ends February 21
+50% Off\* select orig and reg-priced styles
 
-Shop Stock Up Sale Now View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop ShoesBuy 1 Get 1 Free\*
+Shop Bedding and Bath Shop Luggage Shop Window Shop Gold and Silver Jewelry
 
-St. John's Bay Apparel, select styles, reg. $12-$44
+40% Off\* select orig and reg-priced styles
 
-\*Buy one item at regular price, get the second item of equal or lesser value for free.
+Shop Home Decor Shop Furniture and Mattresses Shop Diamond and Gemstone Jewelry
 
-Shop Men St. John's Bay   Shop Women St. John's Bay   Buy 1 Get 1 Free\* Bath Towels
+30% Off\* select orig and reg-priced styles
 
-Select styles, reg. $6-$25
+Shop Kitchen and Dining Shop Custom Blinds and Shades
 
-Shop Bath Towels  Bed Pillows
+Extra 20% Off\* select orig and reg, sale and clearance-priced items
 
-Select styles, reg. $12-$200, excluded memory foam
+Shop Men Shop Women Shop Kids Shop Shoes Shop Handbags and Accessories Shop Fashion Jewelry Shop Watches Shop Online Clearance Stock Up On The Bras You Love Ambrielle Week -- Now Through February 27
 
-Shop Bed Pillows  
+14.99 and 19.99 Ambrielle Bras, select styles, reg. $30-38
 
-\*Buy one item at regular price, get the second item of equal or lesser value for free.
+Shop Ambrielle BrasFree Lace Cheeky Panty
 
-Buy 1 Get 1 Free\* Arizona Apparel
+with the purchase of an Ambrielle bra while supplies last.
 
-Select styles, reg. $12-$60
+Shop Now St. John's Bay Apparel On Sale Buy 1, Get 1 Free\*
 
-Shop Juniors Arizona   Shop Guys Arizona  
+Men's Solid St. John's Bay Polos, select styles, reg. $12.99
 
-\*Buy one item at regular price, get the second item of equal or lesser value for free.
+Shop St. John's Bay Polos  7.99 St. John's Bay Tees For Her
 
-Buy 1 Get 1 Free\* Arizona Apparel
+Select styles
 
-Select styles, reg. $12-$46
+Shop St. John's Bay Tees   Save On Arizona Styles For Spring Break 40 to 50% Off Arizona Apparel
 
-Shop Boys Arizona   Shop Girls Arizona  
+Select styles
 
-\*Buy one item at regular price, get the second item of equal or lesser value for free.
+Shop Arizona Shop Boys Arizona   Shop Girls Arizona   Save Up To 70% Off Clearance 50 to 70% Off Red Zone Clearance
 
-Up To 80% Off Clearance 50 to 80% Off Red Zone Clearance
+New Markdowns In Store and Online
 
-New Markdowns on Coats, Sweaters and Fleece | In Store and Online
-
-Shop Clearance Now Shop Women Shop Men Shop Kids Shop Shoes Shop Home SportsFanShop
+Shop Clearance Now Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Home Shop Handbags and Accessories Shop Jewelry SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop JCPenney | optical
+Shop SportsFanShop JCPenney | portraits
 
-60% Off Two or More, OR 50% Off One Pair of Glasses
+40% Off Your Photo Purchase
 
-Shop Optical Write a Review For Your Chance to Win $1,000 Get Details: Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Schedule Now Write a Review For Your Chance to Win $1,000 Get Details: Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
