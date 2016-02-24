@@ -33,6 +33,7 @@ Search × Site / Articles City / Country Social × Share this page / Follow us o
 *   CalendarBack
     *   Calendar Info
     *   Calendar 2016
+    *   Leap Year
     *   Calendar 2017
     *   Monthly Calendar
     *   Printable PDF Calendar
@@ -118,6 +119,6 @@ Norway
 webmaster@timeanddate.com  
 Fax: +47 5163 2711
 
-Copyright © Time and Date AS 1995–2015. All rights reserved.
+Copyright © Time and Date AS 1995–2016. All rights reserved.
 
 Feedback | Linking Policy | About Us | Advertising | Disclaimer | Privacy | Sitemap
