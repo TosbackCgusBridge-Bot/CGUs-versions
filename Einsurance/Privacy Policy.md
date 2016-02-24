@@ -13,16 +13,15 @@ If you have an unresolved privacy or data use concern that we have not addressed
   
 Introduction
 
-E-Insure Services, Inc. ("E-Insure"), recognizes the importance of protecting the privacy of personal information about our clients and others who visit our Web site. Within this context, the term "personal information" includes any personally identifying information you provide, whether online or by any other means. You may give E-Insure personal information when you register for an account or service, or when you communicate with us via telephone, fax, or e-mail. E-Insure's policy is never to share your personal information with any third party except as you _specifically_ permit or as required by law and only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.  
+This privacy policy applies to http://www.einsurance.com owned and operated by E-Insure Services, Inc.. E-Insure Services, Inc. ("E-Insure"), recognizes the importance of protecting the privacy of personal information about our clients and others who visit our Web site. Within this context, the term "personal information" includes any personally identifying information you provide, whether online or by any other means. You may give E-Insure personal information when you register for an account or service, or when you communicate with us via telephone, fax, or e-mail. E-Insure's policy is never to share your personal information with any third party except as you specifically permit or as required by law and only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.  
 
 Information Collection
 
 E-Insure Services, Inc., is the sole owner of the information collected on **einsurance.com**. E-Insure collects information from our users at the following points on this website:
 
-*   Support Requests
-*   Disussion Topics &. Editorial Comments
-*   Insurance Quotes
-*   User Profile Maintenance
+*   Support Support Requests
+*   Topics &. Editorial Comments
+*   Insurance Quotesli>User Profile Maintenance
 *   User Registration
 
 User Registration
@@ -68,7 +67,7 @@ We use cookies to remember users’ settings (e.g. language preference), and for
 
 LSOs
 
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager.html#117118
+We use LWe use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To learn how to manage privacy and storage settings for Flash cookies click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager.html#117118
 
 Log Files
 
@@ -163,8 +162,6 @@ Chicago, IL 60603
 (855) 372-7400  
 privacy@einsure.com  
   
-EFFECTIVE DATE 3.11.2014 (Applies Only to the Policy Statements Above)
-
-\[ Back to Top \]
+EFFECTIVEFFECTIVE DATE 02.23.2016 (Applies Only to the Policy Statements Above)
 
 EINSURANCE refers to one web service and privacy policy operating on the following website domain names: einsurance.com, e-insurance.com
