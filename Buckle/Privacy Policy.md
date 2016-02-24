@@ -44,6 +44,7 @@ My Bag (0) Wish List Search
     *   Ordering Methods
     *   Payment Options
     *   Order Inquiry
+    *   Buckle Guest Loyalty Program
     *   Primo Card
 *   Your Account
     *   Forgot Password
