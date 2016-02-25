@@ -91,4 +91,4 @@ Advertisement Advertisement
 
 Copyright © 2016 IMS Health Incorporated. All rights reserved.
 
-Pollen.com and Allergy Alert are registered trademarks of IMS Health Incorporated. Page last modified: 02/24/2016
+Pollen.com and Allergy Alert are registered trademarks of IMS Health Incorporated. Page last modified: 02/25/2016
