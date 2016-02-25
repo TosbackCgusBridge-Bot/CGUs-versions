@@ -6,7 +6,7 @@ customers &. websites on
 Trustworthiness?**  |  
   **REPUTATION**  
 
-E-Insure Services, Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, EINSURANCE.COM and does not cover information that may be collected through our mobile site.
+E-Insure Services, Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, EINSURANCE.COM.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe here.
 
@@ -109,8 +109,6 @@ Unsubscribing from communications with E-Insure does not guarantee that you will
 Our web site includes Social Media Features such as Facebook Like button and Google Plus. These Features may collect your IP address, which page you are visiting on your site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing them.
 
 This site uses the “Share This” widget where personal information is collected in the form of the invite-a-friend feature. This feature is used to send a one-time invite to the third party email address you entered through the widget. The personal information entered on this widget is subject to the privacy policy of the “Share This” widget. E-Insure shares no responsibility in regards to the personal information entered through the widget.
-
-You can also import email contacts using this widget. The widget will import email addresses from various email service providers into your account. Once the email addresses are imported you must manually click on each email you address you wish to send a communication to. The information is only used for the purpose it was collected.
 
 Sharing
 
