@@ -373,8 +373,7 @@ _The Privacy Policy posted on this Service was updated on July 31, 2015._
     3.  Extreme Weather
     4.  Space + Science
 
-1.  Money
-    1.  Business
+1.  1.  Business
     2.  Markets
     3.  Tech
     4.  Media
@@ -410,8 +409,7 @@ _The Privacy Policy posted on this Service was updated on July 31, 2015._
     6.  Hotels
     7.  Partner Hotels
 
-1.  Style
-    1.  Fashion
+1.  1.  Fashion
     2.  Design
     3.  Architecture
     4.  Arts
