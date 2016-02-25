@@ -34,15 +34,15 @@ Mobile Services
 
 The Service includes our mobile application, and certain functionality available via your mobile device, such the ability to browse the Site from your mobile device (e.g., view show times, theatre information, and movie information such as one-sheet posters, synopses, cast/crew listings and trailers) (collectively, the "Mobile Services"). At this time, we do not charge for the Mobile Services. However, your carrier's normal Internet access, messaging, data and other rates and fees will still apply. Please note that we will receive certain information about your use of the Mobile Services through our communications with your mobile device, and will handle such information in accordance with our privacy policy.
 
-You may opt-in to push notifications through the account settings section of the Application and opt-in to SMS messaging by sending **AMC** to **242424**. You will then be asked to confirm your opt-in to the program by responding with Y.
+You may opt-in to push notifications through the account settings section of the Application and opt-in to SMS messaging by sending **AMC** to **272727**. You will then be asked to confirm your opt-in to the program by responding with Y.
 
 You may stop the delivery of Push Notification or other email messages from AMC by managing your notification preferences in the account settings section of the Application or your online account with an AMC website.
 
 AMC will implement your request within a reasonable time. Please note that your request to opt out of receiving marketing communications will only apply to future communications and transactions with AMC and its service providers. Even if you choose to opt out of receiving marketing communications from AMC, AMC will still send you transactional or administrative communications.
 
-If you have subscribed to AMC's SMS text alerts by sending **AMC** to **242424** via SMS text, you will receive up to six SMS text alerts from AMC a month. Depending on the terms of your contract with your mobile telecommunications service provider, message and data rates may apply. By confirming with Y to receive these text messages you understand that these text messages will be sent using an automated dialing system. Your consent of receiving these text messages is not required for purchasing any goods or services from AMC Theatres.
+If you have subscribed to AMC's SMS text alerts by sending **AMC** to **272727** via SMS text, you will receive up to six SMS text alerts from AMC a month. Depending on the terms of your contract with your mobile telecommunications service provider, message and data rates may apply. By confirming with Y to receive these text messages you understand that these text messages will be sent using an automated dialing system. Your consent of receiving these text messages is not required for purchasing any goods or services from AMC Theatres.
 
-If at any time you want to stop receiving SMS text alerts from AMC, please send **STOP** to **242424** via SMS text, manage your communication preferences in the account settings section of the Application or online account with an AMC website, or call AMC's customer service department at 1-888-562-4262 , or you may send AMC your request in writing to the following address:AMC Entertainment
+If at any time you want to stop receiving SMS text alerts from AMC, please send **STOP** to **272727** via SMS text, manage your communication preferences in the account settings section of the Application or online account with an AMC website, or call AMC's customer service department at 1-888-562-4262 , or you may send AMC your request in writing to the following address:AMC Entertainment
 
 Attn: Privacy Manager  
 920 Main Street  
@@ -50,7 +50,7 @@ Kansas City, MO 64105
 
 Your mobile phone number will be removed or suppressed from AMC's SMS text messaging database within 30 days. You will not receive any further SMS text messages from AMC unless you solicit the communication.
 
-For help with AMC SMS text alerts, please send **HELP** to **242424** via SMS text, or contact AMC's customer service department at 1-888-562-4262.
+For help with AMC SMS text alerts, please send **HELP** to **272727** via SMS text, or contact AMC's customer service department at 1-888-562-4262.
 
 The following carriers are currently supported: Alltel, AT&T, Boost Mobile, CellCom, Cellular One, Cellular South, Cincinnati Bell, Cricket, nTelos, Nextel, Sprint, T-Mobile, US Cellular, Verizon Wireless, Virgin Mobile, Interop, and Metro PCS.
 
