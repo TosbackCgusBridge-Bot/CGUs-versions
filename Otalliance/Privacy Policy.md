@@ -117,6 +117,10 @@ More >>.
 *   OTA Blog
 *   Newsletters
 
+Wed, Feb 24, 2016 Trust and Taxes
+
+Tax season.  It's that time again for taxpayers and cybercriminals. While earners work to complete their 1040s, criminals tune their tax fraud campaigns with increased sophistication. Reputable companies are face being victimized, tarnishing their brands and impacting their business models, employees and shareholders.  In today’s world knowing who you can trust is crucial to navigating tax season -- but sadly, many companies are failing security fundamentals and consumer protection best practices.
+
 Fri, Jan 29, 2016 Getting Ready for the 2016 Online Trust Audit
 
 Updated - February 15, 2016
@@ -130,10 +134,6 @@ Voter data is the new currency and candidates are reaping the rewards targeting 
 Tue, Dec 15, 2015 Top Ten Practices: Correct Collection Leads to Improved Connection
 
 For the past several years, marketers have been capturing email addresses at brick-and-mortar locations. As we approach another holiday buying season there will likely be a bump in this practice. The immediate value driver for the consumer is typically an electronic receipt, which is certainly a convenience, but the practice also helps brands to connect with customers. There are tradeoffs, however.
-
-Wed, Dec 9, 2015 It Sees You When You're Sleeping, It Knows When You're Awake
-
-I love my fitness tracker.  Not only does it affirm me (I met my today’s goal!), it also supports my inner narrative (of course I’m cranky – I slept badly last night… be nice to me).  Last holiday season it was the gift I didn’t even know I wanted until I got it.  This year, we’re both older and wiser. Trust in our relationship has shifted from blind innocence to practical, mature action.  I’ve come to realize more and more about how my device gathers, transmits and stores reams of personal data on me and my habits.
 
 More >>. Resources
 
