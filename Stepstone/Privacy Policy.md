@@ -1,72 +1,35 @@
-Finding great jobs for great people **over 600,000 jobs** | **22 million searchable CVs** | **18 million active subscribers** | **60 million monthly visits**
+We use cookies! By using this website you consent to the use of cookies, according to the current browser settings. Dismiss
 
-*   **Home**
-*   **Find a job**
-*   **Post a job**
-*   **Products &. Services**
-*   **About StepStone**
-*   **Join StepStone**
+*   Home
+*   About StepStone
+    *   About StepStone
+    *   Mission &. Vision
+    *   Management
+    *   Values
+    *   Timeline
+    *   Press
+    *   Brand Assets
+    *   Contact
+*   For recruiters
+    *   For recruiters
+    *   Job advertising
+    *   CV database
+    *   Recruitment campaigns
+*   Join us
 
-Home footer Privacy statement Terms Of Use, Copyright, Privacy Statement, Disclaimer
+*   Select your country
+    *   Europe
+    *   Americas
+    *   Africa
+    *   Asia &. Pacific
+    *   Middle east
 
-*   Terms Of Use &. Copyright
-*   Privacy Statement &. Disclaimer
+*   Contact
+*   Terms of use
+*   Privacy statement
+*   Sitemap
 
-Terms Of Use
-
-**By using our web site you agree to be legally bound by these Terms of Use, as they may be modified and posted on our web site from time to time. If you do not wish to be bound by these Terms of Use then you may not use our web site.**
-
-This web site contains many types of data and information, which are protected by trade mark and copyright laws. It is therefore not permitted to download, copy or distribute the whole or any part of this web site.
-
-However we do permit you to make technical copies for the purposes of reading or browsing and you may also make permanent copies for your personal use.
-
-Downloads
-
-Downloads shall be entirely at your own risk. We shall not be liable for any damage which may result from the download, installation, storage or use of software or content from our web site not due to our fault. Although we use state of the art anti virus programs, any liability for damage or disturbance of functionality caused by viruses or worms is excluded.
-
-Content
-
-We are liable for the content on our web sites to the extent that this is governed by local law. However, we do not accept any liability for the accuracy, completeness, suitability for a particular purpose or currency of the information published.
-
-Contact forms
-
-Please read our Privacy Statement carefully prior to disclosing any personal data. We do not offer SSL encryption for the electronic transmittal of your personal data to us.
-
-Links to other Web Sites
-
-If you follow an external link and thereby leave our site, the content of such other web site is beyond our control and influence. We do not accept liability for this unless we had actual knowledge of the illegal content. In such cases we will disable the link after investigation.
-
-Please note that the terms of use and privacy statements of such linked sites may differ from the Terms of Use and Privacy Statement of our site. Therefore you should read and comply with the privacy statements and terms of use posted on linked sites.
-
-Attachments, Content
-
-Please ensure that you do not send us any attachments that contain worms or viruses. Personal details provided to StepStone GmbH should not contain:
-
-*   Information on illnesses
-*   Information on pregnancy
-*   Any information about ethnic origin, political opinion, religious or philosophical beliefs, trade union membership, health and sexual orientation
-*   Defamatory or slanderous information
-*   Information having no reasonable relation to the job profile
-
-The information you send us must be accurate and must not infringe the rights of third parties, contravene official regulations or breach public policy ("Illegal Content"). Please note that you shall undertake to indemnify us against all claims made against us as a consequence of your failure to prevent Illegal Content appearing in any information you provide.
-
-Rights Reserved by StepStone GmbH
-
-StepStone GmbH does not warrant that the services offered on its web site are available at certain times. Disturbances, interruptions or a possible breakdown of the online service cannot be excluded by StepStone GmbH.
-
-Systematic backups of the servers are carried out regularly. In so far as you transfer data to StepStone GmbH- regardless of type - we recommend that you store safety backup copies of your data.
-
-We reserve the right to change, extend, limit or withdraw its services or to delete data without notice at any time. You have no right to claim publication.
-
-Other
-
-You agree to use the Internet at your own risk. We have no liability for any down times on our web site caused by technical problems or access to the Internet.
-
-StepStone GmbH 's Privacy Statement will apply in addition to these Terms of Use. We reserve the right to amend these Terms of Use from time to time. The invalidity or incompleteness of any individual provision of these Terms of Use will not effect the validity of the remaining terms.
-
-These Terms of Use replace all other terms of use previously applicable to the use of our web site.
-
-Privacy Statement Purpose of Data Collection
+Home Privacy statement Privacy statement Purpose of Data Collection
 
 One of the fundamentals of the relationship with StepStone – in fact of any relationship – is trust. With StepStone, you can trust that we are 100% committed to protecting your privacy. Our goal is to offer you, the user, a secure and risk free service. We will use our best efforts to ensure that the information you submit to us remains confidential, and is used only for the purposes described on our site.
 
@@ -125,10 +88,13 @@ F +49 30 398 09111
 
 **Managing Directors:** Ralf Baumann, Thorsten Otte
 
-E-mail : stepstone@stepstone.no
+E-mail : info@stepstone.com
 
 This Privacy Statement replaces all other privacy statements previously applicable to the use of our web site.
 
-  
-sitemap | Press | Contact | Join StepStone  
-Copyright © 1996−2016 StepStone GmbH. All rights reserved. | Join StepStone | Terms of use | Privacy statement | sitemap
+Copyright 1996-2015 StepStone GmbH All rights reserved
+
+*   Contact
+*   Terms of use
+*   Privacy statement
+*   Sitemap
