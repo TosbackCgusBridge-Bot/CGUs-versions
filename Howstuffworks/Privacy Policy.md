@@ -62,17 +62,17 @@ Pinterest
 *   Shows
 *   Quizzes
 
-Privacy Policy | HSW
+Privacy Policy | HSW NEXT PAGENEXT  
 
 **Privacy Policy**
 
 Up Next
 
-*   BrainStuff: Does TV Resolution Matter?
-*   Stuff Mom Never Told You: Dental dams 101
-*   10 Possible Future Disasters
-*   The Impossible Movie Technology Quiz
-*   E.T. The Extra Terrestrial Quiz
+*   FW: Thinking: Editing Your DNA Has Never Been Easier
+*   HowStuffWorks NOW: The Stuff Inside Your Stuff | HowStuffWorks NOW
+*   The U.S. Presidential Also-Rans Quiz
+*   The Ultimate Chinese Zodiac Quiz
+*   The Words We All Misuse Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**The Odd Empathy of Vicarious Embarrassment**
+**Marijuana Use in Colorado Sending More Visitors to ER Than Residents**
 
-**Committed a Super-serious Sin? Head for a Super-confessor!**
+**Meet the New Food Peddlers**
 
-**Suicides of Top Chefs Shed Light on Food Industry Issues**
+**Red Lobster Owes Beyoncé Some Free Cheddar Bay Biscuits**
 
 **See More Headlines »**
 
