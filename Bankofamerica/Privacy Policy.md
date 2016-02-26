@@ -127,11 +127,11 @@ You may set your choices for advertising in the following ways:
 
 Opting out also means that the online content and advertising you receive on our non-servicing sites (i.e. before sign-in) will be untailored and will not be based on your online behavior or your relationship.
 
-Please note that if you opt out of this advertising, you may still receive untailored advertising from Bank of America.  When accessing online account servicing areas (i.e. after sign-in), such as Online Banking or MyMerrill, you may receive tailored content and advertising based on your account relationships.  In addition, financial advisors/Client Managers may continue to use information collected online as described in this Notice to provide details on products and services in accordance with account agreements. See **Important Reminder** section below.
+Please note that if you opt out of this advertising, you may still receive untailored advertising from Bank of America. When accessing online account servicing areas (i.e. after sign-in), such as Online Banking or MyMerrill, you may receive tailored content and advertising based on your account relationships. In addition, financial advisors/Client Managers may continue to use information collected online as described in this Notice to provide details on products and services in accordance with account agreements. See **Important Reminder** section below.
 
 **Bank managed Direct Marketing:**  If you prefer we not deliver you marketing offers in email, postal mail or through telemarketing you may manage your direct marketing choices online  or:
 
-*   by telephone at 1.888.341.5000 -our menu will prompt you through the choices,
+*   by telephone at 888.341.5000 — our menu will prompt you through the choices,
 *   through your assigned account representative (e.g., Financial Advisor, Mortgage Loan Officer) or a representative at a banking center
 
 **Advertising on third party sites:** Bank of America participates in the Digital Advertising Alliance (DAA) self-regulatory program, uses the  Advertising Options Icon on our behavioral ads on third party sites (excluding ads appearing on platforms that do not accept the icon) and adheres to the DAA self-regulatory Principles for Online Behavioral Advertising. Anyone receiving a behavioral ad may click on the displayed icon to receive more information and can opt out at that time or by visiting the third party site's privacy policy for an opt out mechanism.
