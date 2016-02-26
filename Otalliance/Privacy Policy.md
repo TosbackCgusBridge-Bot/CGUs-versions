@@ -117,9 +117,13 @@ More >>.
 *   OTA Blog
 *   Newsletters
 
+Fri, Feb 26, 2016 To Email or Not to Email?
+
+Keep your brand off the spam list through best practices in honoring unsubscribes. Email marketing remains a vibrant channel to interact with customers, and the better you respect customers’ wishes, the better engagement you’ll have.
+
 Wed, Feb 24, 2016 Trust and Taxes
 
-Tax season.  It's that time again for taxpayers and cybercriminals. While earners work to complete their 1040s, criminals tune their tax fraud campaigns with increased sophistication. Reputable companies are face being victimized, tarnishing their brands and impacting their business models, employees and shareholders.  In today’s world knowing who you can trust is crucial to navigating tax season -- but sadly, many companies are failing security fundamentals and consumer protection best practices.
+Tax season.  It's that time again for taxpayers and cybercriminals. While earners work to complete their 1040s, criminals tune their tax fraud campaigns with increased sophistication. Reputable companies are being victimized, tarnishing their brands and impacting their business models, employees and shareholders.  In today’s world knowing who you can trust is crucial to navigating the tax season -- but sadly, many companies are failing security fundamentals, consumer protection and responsible privacy practices.
 
 Fri, Jan 29, 2016 Getting Ready for the 2016 Online Trust Audit
 
@@ -130,10 +134,6 @@ Got Trust?  The Online Trust Audit continues to serve as benchmark of security,
 Sun, Jan 24, 2016 Donor Data. the New Currency for Presidential Candidates, Time for ethical data privacy practice
 
 Voter data is the new currency and candidates are reaping the rewards targeting voters and ultimately determining who will be the next President. As we have transformed into a data driven society and economy this may be expected. But the candidate’s privacy and data practices in both the news headlines and in the backroom are not.  As we head into the State primaries and caucuses, this data is proving to be invaluable.
-
-Tue, Dec 15, 2015 Top Ten Practices: Correct Collection Leads to Improved Connection
-
-For the past several years, marketers have been capturing email addresses at brick-and-mortar locations. As we approach another holiday buying season there will likely be a bump in this practice. The immediate value driver for the consumer is typically an electronic receipt, which is certainly a convenience, but the practice also helps brands to connect with customers. There are tradeoffs, however.
 
 More >>. Resources
 
