@@ -81,7 +81,7 @@ If you have any questions regarding this Policy, please contact us at 1-866-739-
 Contact Us
 
 *   About Us
-*   Savings
+*   Offers
 *   Education
 *   FAQs
 *   Blog
@@ -101,7 +101,7 @@ Contact Us
 *   Privacy Policy
 *   Ad Targeting Policy
 *   Site Map
-*   Savings
+*   Offers
 *   Education
 *   FAQs
 
