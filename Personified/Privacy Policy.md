@@ -93,13 +93,7 @@ Resources
 *     
     
 
-Get Pricing First Name  
-Last Name  
-Company Name  
-Email Address  
-Phone Number  
-Message (optional)  
-Submit
+Get Pricing ​
 
 Thank you! More great content headed your way!
 
