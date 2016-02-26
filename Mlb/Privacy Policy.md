@@ -50,12 +50,12 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   GetGreat.com
     
     Featured
+    *   Spring Training
     *   2015 Postseason
     *   MLB.com Hot Stove
     *   MLB Awards
     *   Must C
     *   Chatting Cage
-    *   Bud Celebrations
     *   FastCast
     *   AFL
     *   Outstandings
