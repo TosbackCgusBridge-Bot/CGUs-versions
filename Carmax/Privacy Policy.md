@@ -61,40 +61,7 @@ For residents of California Only. Section 1798.83 of the California Civil Code r
 
 **If you are a current CarMax customer in California, you may request such information from CarMax by sending an email correspondence noting your name, address, and email address. You must also include a request that CarMax provide such information to you using the following or similar verbiage. "I request that CarMax provide its third-party information sharing disclosures required by section 1798.83 of the California Civil Code." Press the link at the end of this sentence to create your message: WebOptOut@carmax.com. The same request may be made by regular mail by sending the above information to CarMax, 12800 Tuckahoe Creek Parkway, Richmond, VA 23238, ATTENTION: Legal Department.**
 
-**FINANCIAL PRIVACY**  
-FACTS WHAT DOES CARMAX DO WITH YOUR PERSONAL INFORMATION? Why? Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do. What? The types of personal information we collect and share depend on the product or service you have with us. This information can include:
-
-*   Social Security Number and Income
-*   Account Balances and Payment History
-*   Credit Score and Credit History
-
-When you are no longer our customer, we continue to share your information as described in this notice. How? All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information. the reasons CarMax chooses to share. and whether you can limit this sharing. Reasons we can share your personal information Does CarMax share? Can you limit this sharing? **For our everyday business purposes** — such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus Yes No **For our marketing purposes** — To offer our products and services to you Yes No **For joint marketing with other financial companies** No We don't share **For our affiliates' everyday business purposes** — Information about your transactions and experiences Yes No **For our affiliates' everyday business purposes** — Information about your creditworthiness No We don't share **For nonaffiliates to market to you** No We don't share Questions? Call (800) 519-1511 Who we are Who is providing this notice? CarMax and its related entities in the CarMax family of companies. What we do How does CarMax protect my personal information? To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. We also maintain other physical, electronic and procedural safeguards to protect this information and we limit access to information for those employees for whom access is appropriate. How does CarMax collect my personal information? We collect your personal information, for example, when you
-
-*   apply for financing
-*   give us your income information
-*   give us your employment history
-*   give us your contact information
-*   show your driver's license
-
-We also collect your personal information from others, such as credit bureaus, affiliates, or other companies. Why can't I limit all sharing? Federal law gives you the right to limit only
-
-*   sharing for affiliates' everyday business purposes – information about your creditworthiness
-*   affiliates from using your information to market to you
-*   sharing for nonaffiliates to market to you
-
-State laws and individual companies may give you additional rights to limit sharing. Definitions Affiliates Companies related by common ownership or control. They can be financial and nonfinancial companies.
-
-*   CarMax, Inc., CarMax Auto Superstores, Inc., CarMax of Laurel, LLC, CarMax Auto Mall, LLC, CarMax Auto Superstores West Coast, Inc., CarMax Business Services, LLC (includes CarMax Auto Finance, a division), CarMax Auto Superstores California, LLC, CarMax Funding Services, LLC, CarMax Funding Services II, LLC, CarMax Auto Superstores Services, Inc.
-
-Nonaffiliates Companies not related by common ownership or control. They can be financial and nonfinancial companies.
-
-*   CarMax does not share with nonaffiliates so they can market to you.
-
-Joint marketing A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
-
-*   CarMax doesn't jointly market.
-
-Other important information CarMax includes, CarMax, Inc., CarMax Auto Superstores, Inc., CarMax of Laurel, LLC, CarMax Auto Mall, LLC, CarMax Auto Superstores West Coast, Inc., CarMax Business Services, LLC (includes CarMax Auto Finance, a division), CarMax Auto Superstores California, LLC, CarMax Funding Services, LLC, CarMax Funding Services II, LLC, CarMax Auto Superstores Services, Inc. **CarMax About Our Ads**  
+**CarMax About Our Ads**  
 
 We use common tracking technologies.
 
@@ -134,3 +101,7 @@ Options you select are browser and device specific.
 **You can opt-out of online behavioral advertising.**  
 
 The Self-Regulatory Program for Online Behavioral Advertising program provides consumers with the ability to opt-out of having their online behavior recorded and used for advertising purposes. To opt out of having your online behavior collected for advertising purposes, click here. Choices you make are both browser and device-specific.
+
+**Financing Privacy Policy**
+
+Click here to review our Financial Privacy Policy
