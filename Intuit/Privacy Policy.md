@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14508189636
+true true C14516535227
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p33.jcpenney.com SERVER NAME :->. dtcomexpr1c1j4 TIME :->. Wed Feb 24 11:15:34 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Thu Feb 25 11:15:33 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,31 +49,11 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-3 Days Only Online Only | Ends February 24 | Code: BIGSHOP4 \*Get details:
+Spend $25 or More and Get $10 Off\* In Store and Online | Ends February 27 | Code: FEBSHOP Print CouponOr, Spend $100 or More and Get 25% Off\* Online Only | Ends February 27 | Code: 4SHOPNOW Or, Extra 20% Off\* Online Only | Ends February 27 | Code: 4SHOPNOW \*Exclusions and details Big Savings Start Now In Store and Online Super Saturday Sale Shop Super Saturday Sale View Store AdNight and Day Doorbusters
 
-50% Off\* select orig and reg-priced styles
+Friday 3PM CST through Saturday 1PM CST
 
-Shop Bedding and Bath Shop Luggage Shop Window Shop Gold and Silver Jewelry
-
-40% Off\* select orig and reg-priced styles
-
-Shop Home Decor Shop Furniture and Mattresses Shop Diamond and Gemstone Jewelry
-
-30% Off\* select orig and reg-priced styles
-
-Shop Kitchen and Dining Shop Custom Blinds and Shades
-
-Extra 20% Off\* select orig and reg, sale and clearance-priced items
-
-Shop Men Shop Women Shop Kids Shop Shoes Shop Handbags and Accessories Shop Fashion Jewelry Shop Watches Shop Online Clearance Stock Up On The Bras You Love Ambrielle Week -- Now Through February 27
-
-14.99 and 19.99 Ambrielle Bras, select styles, reg. $30-38
-
-Shop Ambrielle BrasFree Lace Cheeky Panty
-
-with the purchase of an Ambrielle bra while supplies last.
-
-Shop Now St. John's Bay Apparel On Sale Buy 1, Get 1 Free\*
+Shop Doorbusters Now Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Save On Bedding, Bath and More For The Home 30 to 50% Off Select Home Items Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining St. John's Bay Apparel On Sale Buy 1, Get 1 Free\*
 
 Men's Solid St. John's Bay Polos, select styles, reg. $12.99
 
