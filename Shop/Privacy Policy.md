@@ -3,7 +3,8 @@ LENOVO Menu
 *   Products
     *   Laptops
     *   Tablets
-    *   Desktops &. All-in-Ones
+    *   Desktops &  
+        All-in-Ones
     *   Workstations
     *   Servers, Storage &. Networking
     *   Accessories &. Software
@@ -14,13 +15,12 @@ LENOVO Menu
         2.  Professional Laptop Deals
         3.  Desktop Deals
         4.  Tablet Deals
-        5.  Ready to Ship PCs
-        6.  Coupon Page
-        7.  Deals for Students and Educators
-        8.  Clearance PCs
-    *   Presidential Savings EXTENDED Save up to 48% site-wide.
-        
-        Sale ends February 24.
+        5.  Accessories Deals
+        6.  Ready to Ship PCs
+        7.  Coupon Page
+        8.  Deals for Students and Educators
+        9.  Clearance PCs
+    *   Leap Year Sale Sale ends March 2.
         
     *   Clearance Sale Get these deals before they’re gone.
         
