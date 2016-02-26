@@ -128,6 +128,12 @@ Terms &. Conditions and Privacy Policy
     
     If you've signed up for mobile messaging (e.g., SMS and MMS) offers but later decide you no longer wish to receive them, simply follow the opt-out instructions included in the mobile message.
     
+    Express Checkout
+    
+    Express Checkout allows users to purchase a single item of merchandise through an expedited checkout process. By enabling Express Checkout, you agree that your payment method may be charged and your purchase completed by way of the Express Checkout process. Express Checkout is available only for purchase originating from and shipping to the Continental United States.  
+      
+    Express Checkout Last Updated February 25, 2016
+    
     Acceptance
     
     By using this website, you accept the policies set forth in this Privacy Policy.
