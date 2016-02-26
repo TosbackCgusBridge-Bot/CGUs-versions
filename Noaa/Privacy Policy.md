@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Climate
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms NOAA satellites helped save 250 lives in 2015 AROUND NOAA // Explorers welcome here: Discover the new NOAA.gov Scientists launch unprecedented effort to discover how El Niño affects weather As mountain snow becomes perilous, forecasts are critical
+Enter Search Terms NOAA satellites helped save 250 lives in 2015 AROUND NOAA // Explorers welcome here: Discover the new NOAA.gov Scientists launch unprecedented effort to discover how El Niño affects weather Catch shares reduce risky fishing
 
 *   About our agency
 *   News and features
