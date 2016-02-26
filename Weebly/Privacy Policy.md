@@ -1,4 +1,4 @@
-Last updated November 19, 2015 1. What This Privacy Policy Covers
+Last updated November 19, 2015 1. What This Privacy Notice Covers
 
 This notice covers how Weebly, Inc., a U.S. company ("Weebly," "we," "us," or "our") treats personal information that it collects and receives from its websites, website hosting services, communication tools, mobile applications, app marketplace, ecommerce tools, and other services (collectively, the “Service”).
 
@@ -56,7 +56,7 @@ You are prohibited from creating or using a Weebly account if you are not legall
 
 4\. Information Use, Sharing, Disclosure, and Retention
 
-(a) Use. Weebly uses information for providing products and services, identification and authentication, Service operation, analytics and improvements, support, contact (e.g., sending notifications related to use of the Service), research, and anonymous reporting. We may combine Automatically Collected Information with other information we collect about you to improve site functionality and the services we offer you, and for Service and internal marketing analytics.
+**(a) Use.** Weebly uses information for providing products and services, identification and authentication, Service operation, analytics and improvements, support, contact (e.g., sending notifications related to use of the Service), research, and anonymous reporting. We may combine Automatically Collected Information with other information we collect about you to improve site functionality and the services we offer you, and for Service and internal marketing analytics.
 
 IP addresses, browser and session information may be used to:
 
