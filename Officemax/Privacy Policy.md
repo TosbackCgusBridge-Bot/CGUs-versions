@@ -8,14 +8,14 @@ SEG1 hp
     *   OfficeMax Workplace
 *   800-GO-DEPOT
 *   Chat or Call
-    *   Live Chat 24 Hours, 7 Days a Week
-    *   1-800-463-3768 24 Hours, 7 Days a Week Have Us Call You Ensure your phone line is open and  
+    *   Live Chat Live Chat Available 24/7
+    *   1-800-463-3768 Live Chat Available 24/7 Have Us Call You Ensure your phone line is open and  
         enter your number below.
 *   Login or Register
 
 Office Depot Deals
 
-u1vpa2QcMwQTpIQmHQTSsTv
+lvhJhA5vVLXnXw\_2mHVGfpP
 
 Search Suggestions
 
