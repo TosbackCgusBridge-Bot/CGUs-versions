@@ -84,12 +84,9 @@ Customers
   
 Resources  
 
-*   \>  
-    **Data Sheet:** Source &. Screen  
+*   \>. **Coming Soon:** Data Sheet  
     
-*   \>  
-    **Coming Soon:** Buyer's Checklist  
-    
+*   \>. **Coming Soon:** Buyer's Checklist
 *     
     
 
