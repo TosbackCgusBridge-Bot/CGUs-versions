@@ -1,6 +1,6 @@
-Review Your Blues Sweepstakes
+Think Spring...
 
-Get Started!
+Shop New Arrivals.
 
 Guest Services 800-607-9788
 
