@@ -20,14 +20,14 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Women Featured Shops
             *   Swim Shop
-            *   Cardigan Shop
+            *   Wear to Work
             *   Best of Spring
             *   Tunic Shop
             
             *   New Arrivals
             *   The Starfish Collection
             *   Swim Finder
-            *   Wear to Work
+            *   Easter Dressing
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
@@ -61,13 +61,13 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Back to Men Featured Shops
             *   No Iron Shop
             *   Supima Shirts &. Sweaters
-            *   Wear to Work
-            *   Vacation Getaway
+            *   Easter Dressing
+            *   Swim Shop 2016
             
             *   New Arrivals
             *   Spring Style Guide
             *   Tailored Fit Shop
-            *   Slim Fit Shop
+            *   Big &. Tall Shop
             *   Sale
         *   Shop By Size Range
             *   Back to Men Shop By Size Range
