@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14516535227
+true true C14522104804
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Thu Feb 25 11:15:33 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Fri Feb 26 11:15:35 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,13 +49,19 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Spend $25 or More and Get $10 Off\* In Store and Online | Ends February 27 | Code: FEBSHOP Print CouponOr, Spend $100 or More and Get 25% Off\* Online Only | Ends February 27 | Code: 4SHOPNOW Or, Extra 20% Off\* Online Only | Ends February 27 | Code: 4SHOPNOW \*Exclusions and details Big Savings Start Now In Store and Online Super Saturday Sale Shop Super Saturday Sale View Store AdNight and Day Doorbusters
+Spend $25 or More and Get $10 Off\* In Store and Online | Ends February 27 | Code: FEBSHOP Print CouponOr, Spend $100 or More and Get 25% Off\* Online Only | Ends February 27 | Code: 4SHOPNOW Or, Extra 20% Off\* Online Only | Ends February 27 | Code: 4SHOPNOW \*Exclusions and details Big Savings In Store and Online Super Saturday Sale Shop Super Saturday Sale View Store AdDoorbusters
 
-Friday 3PM CST through Saturday 1PM CST
+Ends Saturday 1PM CST
 
-Shop Doorbusters Now Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Save On Bedding, Bath and More For The Home 30 to 50% Off Select Home Items Shop Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining St. John's Bay Apparel On Sale Buy 1, Get 1 Free\*
+Shop Doorbusters Now Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags and Accessories Shop Shoes Hurry! Extra Savings on Bedding, Bath and More For The Home Home in a Flash! Online Only | Ends February 27 | Code: SAVEBIG4
 
-Men's Solid St. John's Bay Polos, select styles, reg. $12.99
+Extra 30% Off\* $100 or More
+
+Or 25% Off\* Select Home Already 30 to 50% Off
+
+Shop Now \*Exclusions and details: St. John's Bay Apparel On Sale 12.99 Men's Solid St. John's Bay Polos
+
+Select styles, reg. $26
 
 Shop St. John's Bay Polos  7.99 St. John's Bay Tees For Her
 
