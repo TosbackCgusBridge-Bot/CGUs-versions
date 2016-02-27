@@ -1,17 +1,16 @@
 Web Services Privacy Policy  
-Revised and Effective: March 1, 2016
+Revised and Effective: October 10, 2015
 
 If you are accessing this Web Services Privacy Policy from a mobile device, and would like to read a mobile-optimized and TRUSTe-approved summary privacy notice for http://m.comcast.net and the Xfinity TV Go mobile application, please click here. http://privacy-policy.truste.com/certified-policy/mobile/app/en/comcast.com/index.html
 
 Summary (Jump to Full Policy) What the Privacy Policy does
 
-The Web Services Privacy Policy describes the information Comcast collects about you when you use the Web Services, how Comcast uses that information, and how Comcast protects your privacy when you use certain websites, mobile applications, and other interactive features that link to this Privacy Policy, including, but not limited to:
+The Web Services Privacy Policy describes the information Comcast collects about you when you use the Web Services, how Comcast uses that information, and how Comcast protects your privacy when you use certain websites, mobile applications, and other interactive features that link to this Privacy Policy, including, but not limited to::
 
 1.  Comcast-branded mobile applications that link to this Web Services Privacy Policy, such as the Xfinity Connect and Xfinity TV Go iOS and Android apps.
 2.  Comcast-branded websites and web services that link to this Web Services Privacy Policy, such as: www.comcast.net, my.xfinity.com, xfinityhomesecurity.com, plaxo.com, and see.it
-3.  versions of these sites and services that are optimized for mobile browsing (e.g., m.comcast.net);
-4.  XFINITY Wi-Fi, if you are not an XFINITY Internet subscriber. and
-5.  a Comcast-provided email address (such as yourname@comcast.net), if you are not an XFINITY Internet or XFINITY Voice subscriber.
+3.  versions of these sites and services that are optimized for mobile browsing (e.g., m.comcast.net). and
+4.  XFINITY Wi-Fi, if you are not an XFINITY Internet subscriber.
 
 This summary gives you some key points from the Privacy Policy, but you should read the whole Privacy Policy to get a full understanding of our privacy practices.
 
@@ -93,9 +92,8 @@ This Privacy Policy explains how Comcast will use the information that you provi
 
 1.  the websites comcast.net, xfinitytv.com, my.xfinity.com, xfinityhomesecurity.com, plaxo.com, and see.it, excluding certain co-branded websites and web services provided by third parties through contractual arrangements with Comcast, as further described below (the "**Comcast Sites**"). and
 2.  all mobile applications provided by Comcast that link to this Privacy Policy (such as the Xfinity TV Go, Xfinity TV Remote, and Xfinity Connect applications) (the "**Comcast Apps**"). and
-3.  all software and services provided by Plaxo, including those services made available through its application programming interfaces ("**APIs**") (collectively the "**Plaxo Service**");
-4.  XFINITY Wi-Fi, if you are not an XFINITY Internet subscriber. and
-5.  a Comcast-provided email address (such as yourname@comcast.net), if you are not an XFINITY Internet or XFINITY Voice subscriber (collectively, (1) through (5) are referred to as the "**Comcast Web Services**").
+3.  all software and services provided by Plaxo, including those services made available through its application programming interfaces ("**APIs**") (collectively the "**Plaxo Service**"). and
+4.  XFINITY Wi-Fi, if you are not an XFINITY Internet subscriber (collectively, (1) through (4) are referred to as the "**Comcast Web Services**").
 
 What is outside the scope of this Privacy Policy?
 
@@ -346,4 +344,4 @@ Changes to Information
 
 You may review and change PII that you provide to us through the Wi-Fi Service by returning to the pages where you entered it, and reviewing or changing the information directly. You may also request changes to your payment information if you are a pay per use customer of the Wi-Fi Service, by calling Comcast at 1-800-XFINITY, where you will be required to verify your identity.
 
-Revised and Effective: March 1, 2016
+Revised and Effective: October 10, 2015
