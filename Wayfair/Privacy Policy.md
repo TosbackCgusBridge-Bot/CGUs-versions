@@ -7,7 +7,7 @@ Contents
 *   Wayfair's Copyright Policy
 *   Wayfair Rewards Program Terms
 *   Wayfair Giveaway Sweepstakes Official Rules
-*   Wayfair Gift Card Terms and Conditions
+*   Wayfair eGift Card Terms and Conditions
 *   Becoming a Supplier
 *   Send Us Your Suggestions
 *   Contact Us
@@ -47,7 +47,7 @@ Like many website providers, we use your IP address to help diagnose problems wi
 
 We use web beacons (a.k.a. clear GIFs, web bugs or pixel tags) to personalize your experience of the Service and to generate information about Service traffic and trends. Web beacons collect General Information, such as the type of browser that you use and your IP address. Web beacons may be used alone or in conjunction with cookies. when web beacons are used with cookies, they may link General Information to Personal Information. Web beacons usually are not visible to you.
 
-We also use cookies to keep track of your shopping cart and for other purposes like personalizing the Service. A cookie is a small file stored by your internet browser on your computer. A "session cookie" stores temporary information that is erased when you close your web browser or turn off your computer. A "persistent cookie" enables the Service to recognize you when ou return to it and remains stored on your computer until you delete it. Your web browser is usually set up to initially accept cookies. If you set your browser to reject cookies, the Service will not be able to recognize your account or to personalize the content that you see. A "flash cookie," also known as a "local storage object," is not stored in your browser, unlike other cookies, and instead placed on your computer by websites that use Adobe Flash. You may disable flash cookies via your Flash Player preferences or by using third-party software. We do not and cannot use cookies to gather other information that may be stored on your hard drive.
+We also use cookies to keep track of your shopping cart and for other purposes like personalizing the Service. A cookie is a small file stored by your internet browser on your computer. A "session cookie" stores temporary information that is erased when you close your web browser or turn off your computer. A "persistent cookie" enables the Service to recognize you when you return to it and remains stored on your computer until you delete it. Your web browser is usually set up to initially accept cookies. If you set your browser to reject cookies, the Service will not be able to recognize your account or to personalize the content that you see. A "flash cookie," also known as a "local storage object," is not stored in your browser, unlike other cookies, and instead placed on your computer by websites that use Adobe Flash. You may disable flash cookies via your Flash Player preferences or by using third-party software. We do not and cannot use cookies to gather other information that may be stored on your hard drive.
 
 Third-party advertising management partners may help us display tailored content to our customers’ interests and serve interest-based advertising on our behalf. Wayfair and our advertising management partners may use cookies, web beacons and other tools to collect General Information about your activities on the Service, to deliver advertising on the Service or elsewhere on the Internet based upon your interests that may be more relevant to you and to measure effectiveness of our marketing efforts and the Service.
 
@@ -251,7 +251,7 @@ Pursuant to California Civil Code Section 1789.3, Wayfair provides users of the 
 
 Communications with Wayfair
 
-For all communications made to or with Wayfair, including but not limited to feedback, questions, comments, suggestions and the like: (i)&npsp;you will have no right to confidentiality in your communications and Wayfair will have no obligation to protect your communications from disclosure. (ii) Wayfair will be free to reproduce, use, disclose and distribute your communications to others without limitation. and (iii) Wayfair will be free to use any ideas, concepts, know-how, content or techniques contained in your communications for any purpose whatsoever, including, but not limited to, the development, production and marketing of products and services that incorporate such information.
+For all communications made to or with Wayfair, including but not limited to feedback, questions, comments, suggestions and the like: (i) you will have no right to confidentiality in your communications and Wayfair will have no obligation to protect your communications from disclosure. (ii) Wayfair will be free to reproduce, use, disclose and distribute your communications to others without limitation. and (iii) Wayfair will be free to use any ideas, concepts, know-how, content or techniques contained in your communications for any purpose whatsoever, including, but not limited to, the development, production and marketing of products and services that incorporate such information.
 
 Indemnity
 
@@ -489,7 +489,7 @@ _\*For the Prize, the home goods products style, color and size are subject to i
 
 **SPONSOR:** Wayfair LLC LLC, 4 Copley Place, Floor 7, Boston, MA 02116
 
-Wayfair Gift Card Terms and Conditions
+Wayfair eGift Card Terms and Conditions
 
 The following terms and conditions (the "Terms") apply to any Wayfair electronic gift card originally purchased by you or someone on your behalf (the "gift card") through the Wayfair website. Gift cards are issued by Wayfair LLC (referred to hereinafter as either "AllModern", "DwellStudio", Wayfair", "we", "us" or "our"). By purchasing a gift card, accepting and retaining a gift card, or using a gift card, you agree to these Terms.
 
