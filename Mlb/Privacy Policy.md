@@ -1,6 +1,6 @@
 To learn about our efforts to improve the accessibility and usability of our website, please visit our Accessibility Information page. Skip to section navigation or Skip to main content Below is an advertisement. 日本語 Español
 
-Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Fantasy Auction Teams
+Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Fantasy Teams
 
 *   Scores
 *   News News News
@@ -167,7 +167,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Prospect Watch
     *   Fantasy 411 Blog
     *   Follow @Fantasy411Fantasy Player Preview 160x160 MLB.com Home Run Derby MLB.com Line Drive R.B.I. Baseball 15
-*   Auction
 *   Teams Teams American League AL East
     
     *   Baltimore
