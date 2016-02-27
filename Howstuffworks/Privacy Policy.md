@@ -68,11 +68,11 @@ Privacy Policy | HSW NEXT PAGENEXT  
 
 Up Next
 
-*   BrainStuff: How Do The Academy Awards Work?
-*   HowStuffWorks NOW: Boston Dynamics’ Atlas: A Bipedal Robot with Smooth Moves
-*   Stuff Mom Never Told You: Ke$ha Cocktail Tutorial | (#FreeKesha
-*   Let's Get Physical: The Physics Quiz
-*   The Worst Gas Guzzlers Quiz
+*   HowStuffWorks NOW: We Want More Emojis, Facebook, And Here's Why
+*   The Ultimate LeBron James Quiz
+*   Fitness Fact and Fiction Quiz
+*   Johnny Depp Quiz: Are You a Real Fan?
+*   Organ Function Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Female Newborns May Fare Better After Some Brain Injuries**
+**Dodo Birds: Maybe Not Complete Dummies After All**
 
-**A Small Shove for a Robot, a Giant Leap for Robotkind**
+**Dear Facebook, We Need These Emojis**
 
-**The Strong Bias Against Women in Coding**
+**Librarian of Congress Is Way More Important Than You Think**
 
 **See More Headlines »**
 
