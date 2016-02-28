@@ -69,10 +69,10 @@ Privacy Policy | HSW NEXT PAGENEXT  
 Up Next
 
 *   HowStuffWorks NOW: We Want More Emojis, Facebook, And Here's Why
-*   The Ultimate LeBron James Quiz
+*   Ultimate Call of Duty Quiz
 *   Fitness Fact and Fiction Quiz
 *   Johnny Depp Quiz: Are You a Real Fan?
-*   Organ Function Quiz
+*   Mustang vs. Corvette
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
