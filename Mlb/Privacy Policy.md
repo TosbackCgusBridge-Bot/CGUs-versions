@@ -83,7 +83,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   2016 Spring Training
     *   Spring Training Workout Dates
     *   2016 Regular Season
-    *   2015 Postseason
     *   Important Dates
     *   Team-by-Team Schedule
     *   National Broadcasts
@@ -116,7 +115,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   RBI Baseball 15
     *   MLB Ballpark Empire
     *   MLB.com Franchise MVP
-    *   Mobile Dashboard
     *   FAQMLB.com Line Drive
 *   Shop Shop Shop
     
@@ -140,6 +138,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   PhotosCustom Shop MLB Auctions
 *   MLB.TV MLB.TV MLB.TV
     *   Buy MLB.TV
+    *   Buy Gameday Audio
     *   Watch/Listen
     *   Alternative Audio
     *   MLB.TV with Extra Innings
