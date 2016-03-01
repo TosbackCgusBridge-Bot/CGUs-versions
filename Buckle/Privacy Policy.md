@@ -44,7 +44,6 @@ My Bag (0) Wish List Search
     *   Ordering Methods
     *   Payment Options
     *   Order Inquiry
-    *   Buckle Guest Loyalty Program
     *   Primo Card
 *   Your Account
     *   Forgot Password
@@ -85,6 +84,9 @@ My Bag (0) Wish List Search
 *   Buckle Credit Card
     *   Buckle Credit Card
     *   Buckle Card Payment Options
+*   Buckle Guest Loyalty
+    *   Buckle Guest Loyalty Program
+    *   Terms and Conditions
 *   Privacy &. Security
     *   Privacy Policy
     *   Privacy Policy - Applicant
@@ -103,7 +105,6 @@ My Bag (0) Wish List Search
     *   Get Fitted
     *   Store Locator
     *   Investor Information
-    *   Screenprinting
     *   Vendor Compliance
     *   Buckle Outlet Stores
     *   Fraud Alert
