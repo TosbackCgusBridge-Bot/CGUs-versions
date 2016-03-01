@@ -164,6 +164,7 @@ Attn: Privacy
     *   Regulatory Notices
     *   PO Terms &. Conditions
     *   Tariffs, Catalogs &. Price Lists
+    *   Consumer Disclosures – BIAS
 *   Connect With Us
     
 
