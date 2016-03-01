@@ -177,11 +177,7 @@ Talk to health experts and other people like you in WebMD's Communities. It's a 
     Connect with people like you, and get expert guidance on living a healthy life.
     
 
-Answers
-
-Got a health question? Get answers provided by leading organizations, doctors, and experts.
-
-Get Answers Newsletters
+Newsletters
 
 Sign up to receive WebMD's award-winning content delivered to your inbox.
 
