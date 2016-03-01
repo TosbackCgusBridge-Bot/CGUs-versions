@@ -45,4 +45,4 @@ Copyright © 2014 JobGo International. All rights reserved. 
 
  **Last revision: 19.01.2014**
 
-About The service Terms of Use Privacy policy Register as a Recruiter Global customer service: recruiters@jobgo.com ✓English Suomi Copyright © 2016 JobGo International Oy. All rights reserved.
+Select languageEnglishSuomi JOBGO About us JOBSEEKERS Sign up RECRUITERS Sign up QUESTIONS Contact us Privacy policy Terms of use
