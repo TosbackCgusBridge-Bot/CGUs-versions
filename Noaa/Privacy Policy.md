@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Climate Groundhog Day: How seeing shadows, or not, stacks up against history Fisheries What is aquaculture? National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Video: The Last Grand Challenge Fisheries What is aquaculture? National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Climate
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms NOAA satellites helped save 250 lives in 2015 AROUND NOAA // Explorers welcome here: Discover the new NOAA.gov Scientists launch unprecedented effort to discover how El Niño affects weather Catch shares reduce risky fishing
+Enter Search Terms Researchers study killer tornadoes in Southeast AROUND NOAA // Explorers welcome here: Discover the new NOAA.gov Scientists launch unprecedented effort to discover how El Niño affects weather Catch shares reduce risky fishing
 
 *   About our agency
 *   News and features
