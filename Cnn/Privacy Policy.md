@@ -74,7 +74,6 @@ Travel
 
 Features
 
-*   Insider Guides
 *   Freedom Project
 *   Impact Your World
 *   Inside Africa
@@ -96,6 +95,7 @@ More…
 *   CNN Profiles A-Z
 *   CNN Leadership
 *   CNN Pressroom
+*   CNN Partners
 *   iReport
 
 U.S. International Español Arabic
@@ -417,12 +417,11 @@ _The Privacy Policy posted on this Service was updated on July 31, 2015._
     6.  Luxury
 
 1.  Features
-    1.  Insider Guides
-    2.  Freedom Project
-    3.  Impact Your World
-    4.  Inside Africa
-    5.  Silk Road
-    6.  2 degrees
+    1.  Freedom Project
+    2.  Impact Your World
+    3.  Inside Africa
+    4.  Silk Road
+    5.  2 degrees
 
 1.  Video
     1.  Video news
@@ -437,7 +436,8 @@ _The Privacy Policy posted on this Service was updated on July 31, 2015._
     3.  CNN Profiles A-Z
     4.  CNN Leadership
     5.  CNN Pressroom
-    6.  iReport
+    6.  CNN Partners
+    7.  iReport
 
 International Edition
 
