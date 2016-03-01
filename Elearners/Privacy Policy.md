@@ -1,4 +1,4 @@
-Skip to main content       Military Students | Education Resources      
+Skip to main content       Military Students | Education Resources| Professor Junction
 
 *   Online Degrees
     *   Business
