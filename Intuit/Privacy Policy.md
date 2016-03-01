@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14528924687
+true true L14564963173
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Sun Feb 28 11:13:32 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1l1j5 TIME :->. Mon Feb 29 11:15:34 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,21 +49,49 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Penney Days Sale -- Buy 1 Get 1 For .01 Any Arizona Guys', Juniors' and Kids' Apparel and Accessories\*
+Leap Day Savings! February 29 -- Extra 29% Off\* Online Only | Code SHOPNOW4 Plus Free Shipping Over $49 \*Exclusions and details: 49.99 Cooks 13-piece Aluminum Cookware Set
+
+Select styles
+
+Shop Cookware 9.99 Home Expressions Microfiber Twin Sheet Set
+
+Select styles
+
+Shop Sheets 40% Off A.N.A Apparel for Her
+
+Select styles
+
+Shop A.N.A 50% Off Men's Suit Separates
+
+Select styles
+
+Shop Men's Suit Separates Up to 60% Off Fine Jewelry
+
+Select styles
+
+Shop Fine Jewelry 30 to 40% Off Kids' Dress Clothes
+
+Select styles
+
+Shop Kids' Dress Clothes 30 to 40% Off Worthington Apparel for Her
+
+Select styles
+
+Shop Worthington 30 to 40% Off Women's Dress Shoes
+
+Select styles
+
+Shop Women's Dress Shoes 20% Off Bras
+
+Select styles when you buy 2 or more
+
+Shop Bras Penney Days Sale -- Buy 1 Get 1 For .01 Any Arizona Guys', Juniors' and Kids' Apparel and Accessories\*
 
 Reg. $10-$60 | In Store and Online through March 5
 
 \*Buy one Arizona item at regular price, get a second Arizona item of equal or lesser value for one cent, while supplies last.
 
-Shop Arizona Shop Juniors Shop Guys   Shop Girls Shop Boys
-
-At JCPenney, we're on a mission to make sure every trip is worth your time, effort and hard-earned money. No matter what it takes. That's getting your Penney's worth.
-
-Home Sale Up to 50% Off
-
-Select styles
-
-Shop All Home Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Furniture and Mattresses 50 to 70% Off Clearance In Store and Online Shop Clearance Now SportsFanShop
+Shop Arizona 50 to 70% Off Clearance on Coats, Sweaters and Fleece In Store and Online Shop Clearance Now SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
