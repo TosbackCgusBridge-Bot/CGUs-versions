@@ -91,13 +91,13 @@ Your Choices
 
 We offer you choices when we ask for Personal Information, whenever reasonably possible. You may decline to provide Personal Information to us and/or refuse cookies in your browser, although some if not all of our features or services may not function properly as a result.
 
-You can manage your email subscriptions at any time by editing your personal profile at the following URL: http://community.spiceworks.com/profile/subscriptions
+You can manage your email subscriptions at any time by editing your personal profile at the following URL: https://community.spiceworks.com/profile/subscriptions
 
-Spiceworks relies on Google Services for display of ads on our site http://community.spiceworks.com. To Opt-Out of any targeted ads based on your activity on our site, please utilize the following URL: http://www.google.com/policies/technologies/ads/.
+Spiceworks relies on Google Services for display of ads on our site https://community.spiceworks.com. To Opt-Out of any targeted ads based on your activity on our site, please utilize the following URL: http://www.google.com/policies/technologies/ads/.
 
 We make good faith efforts to provide you access to your Personal Information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible. If your Personal Information changes, you may update it using the "Update Profile" link at the bottom of the email newsletter. When you update information, we may keep a copy of the prior version for our records.
 
-You have control over your Spiceworks user profile and related privacy settings and can edit such to remove information that you do not want others to see publicly via the Site. You can manage your personal profile information by visiting the URL: http://community.spiceworks.com/profile. The information you post in your project pages or profile pages is publicly available and there are not any privacy settings on those pages so if you do not want certain information to be publicly available, do not post it to your project pages or profile pages.
+You have control over your Spiceworks user profile and related privacy settings and can edit such to remove information that you do not want others to see publicly via the Site. You can manage your personal profile information by visiting the URL: https://community.spiceworks.com/profile. The information you post in your project pages or profile pages is publicly available and there are not any privacy settings on those pages so if you do not want certain information to be publicly available, do not post it to your project pages or profile pages.
 
 We may access, preserve, and disclose your Personal Information, other account information, and content, including after you terminate usage of our Service, if we believe doing so is required or appropriate to: comply with our legal obligations, resolve disputes, respond to your requests. or protect yours’, ours’ or others’ rights, property, or safety.
 
