@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14564963173
+true true L14571622745
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1l1j5 TIME :->. Mon Feb 29 11:15:34 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p17.jcpenney.com SERVER NAME :->. dtcomexpr1l1j1 TIME :->. Tue Mar 01 11:15:36 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,43 +49,27 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Leap Day Savings! February 29 -- Extra 29% Off\* Online Only | Code SHOPNOW4 Plus Free Shipping Over $49 \*Exclusions and details: 49.99 Cooks 13-piece Aluminum Cookware Set
+2 Days Only Online Only | Ends March 2 | Code: 2SAVEBIG \*Get details:50% Off\*
 
-Select styles
+Select orig and reg-priced styles
 
-Shop Cookware 9.99 Home Expressions Microfiber Twin Sheet Set
+Shop Furniture and Mattresses Shop Bedding and Bath Shop Home Decor Shop Window Shop Luggage40% Off\*
 
-Select styles
+Select orig and reg-priced styles
 
-Shop Sheets 40% Off A.N.A Apparel for Her
+Shop Kitchen and Dining30% Off\*
 
-Select styles
+Select orig and reg-priced styles
 
-Shop A.N.A 50% Off Men's Suit Separates
+Shop Custom Blinds and Shades Shop Storage and Organization Shop Vacuums and FloorcareExtra 20% Off\*
 
-Select styles
+Select orig, reg, sale and clearance-priced styles
 
-Shop Men's Suit Separates Up to 60% Off Fine Jewelry
+Shop Men Shop Women Shop Kids Shop Baby Shop Handbags Shop Fine and Fashion Jewelry Shop Shoes Shop Online Clearance
 
-Select styles
+At JCPenney, we're on a mission to make sure every trip is worth your time, effort and hard-earned money. No matter what it takes. That's getting Your Penney's Worth.
 
-Shop Fine Jewelry 30 to 40% Off Kids' Dress Clothes
-
-Select styles
-
-Shop Kids' Dress Clothes 30 to 40% Off Worthington Apparel for Her
-
-Select styles
-
-Shop Worthington 30 to 40% Off Women's Dress Shoes
-
-Select styles
-
-Shop Women's Dress Shoes 20% Off Bras
-
-Select styles when you buy 2 or more
-
-Shop Bras Penney Days Sale -- Buy 1 Get 1 For .01 Any Arizona Guys', Juniors' and Kids' Apparel and Accessories\*
+Penney Days Sale -- Buy 1 Get 1 For .01 Any Arizona Guys', Juniors' and Kids' Apparel and Accessories\*
 
 Reg. $10-$60 | In Store and Online through March 5
 
