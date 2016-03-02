@@ -58,9 +58,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-Get to know the PXW-Z150 4K Handheld Camera! pro.sony.com #justannounced #4KReadyToImpress
+@StephenKing confirms @idriselba and Matthew @McConaughey to star in #DarkTowerMovie
 
-2016-03-01 06:25:07+00:00
+2016-03-02 11:50:05+00:00
 
 View Tweet
 
@@ -188,11 +188,19 @@ Close
 
 Only for PlayStation®
 
-How Are You Spending Your "Extra" Monday?
+Meet the World Through Math
 
-Celebrate Leap Day
+Sign Up Today
 
-Sony on Vine
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Sign Up Today
 
 Cameras That Keep Up With the Excitement of Life
 
