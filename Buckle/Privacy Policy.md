@@ -215,9 +215,6 @@ The Buckle, Inc.
 Kearney, NE 68845  
 Phone: 800.626.1255
 
-Screenprinting Service:  
-Phone: 800.626.1255
-
 The Buckle Inc.
 
 About Buckle
