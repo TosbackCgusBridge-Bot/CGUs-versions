@@ -73,12 +73,8 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Scoring Changes
     *   GlossarySortable Stats
 *   Standings Standings Standings
-    *   Regular Season Standings
-    *   Wild Card Standings
-    *   Postseason Probabilities
-    *   Postseason Picture
     *   Spring Training Standings
-    *   Tiebreaker rules
+    *   2015 Regular Season Standings
 *   Schedule Schedule Schedule
     *   2016 Spring Training
     *   Spring Training Workout Dates
