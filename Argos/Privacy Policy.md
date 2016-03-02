@@ -1,8 +1,8 @@
 \>. Customer services >. Privacy Policy Privacy Policy
 
-(Updated 21st October 2015)
+(Updated 29th February 2016)
 
-The Website is operated by Argos Limited ("Argos/we/our/us") a company incorporated in England (Company Number 01081551) with registered office at 489-499 Avebury Boulevard, Central Milton Keynes, MK9 2NW. Argos is a member of the Home Retail Group ("the Group"). The Group ("we", "us") includes Argos Limited, Argos Business Solutions Limited, Home Retail Group Card Services Limited, Home Retail Group Insurance Services Limited, Home Retail Group Personal Finance Limited, ARG Personal Loans Limited, Homebase Limited, Argos Business Solutions Limited, Habitat Retail Limited and their associated companies. A full list of companies is available upon request (See 'Contact Us' below).
+The Website is operated by Argos Limited ("Argos/we/our/us") a company incorporated in England (Company Number 01081551) with registered office at 489-499 Avebury Boulevard, Central Milton Keynes, MK9 2NW. Argos is a member of the Home Retail Group ("the Group"). The Group ("we", "us") includes Argos Limited, Argos Business Solutions Limited, Home Retail Group Card Services Limited, Home Retail Group Insurance Services Limited, Home Retail Group Personal Finance Limited, ARG Personal Loans Limited, Argos Business Solutions Limited, Habitat Retail Limited and their associated companies. A full list of companies is available upon request (See 'Contact Us' below).
 
 As user of the website (referred to as "you/your") you acknowledge that any use of this website (including any transactions you make) is subject to this Privacy Policy together with our Terms and Conditions.
 
