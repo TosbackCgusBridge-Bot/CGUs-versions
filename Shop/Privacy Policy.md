@@ -318,7 +318,6 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Smartphones
     *   Lenovo Holiday Deals
     *   Lenovo Preferred Card
-    *   Trade-In Program
     *   Lenovo Photo Service
     *   Gaming Computers
     *   Yoga Computers
