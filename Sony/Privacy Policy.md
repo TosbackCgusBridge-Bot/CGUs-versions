@@ -96,9 +96,9 @@ Sony on YouTube
 
 Play Video
 
-"Son of Saul" Wins Best Foreign Film Oscar
+Get the Best Channels With PlayStation™Vue—Now With ESPN &. Disney Channel
 
-Find Tickets
+Start Your Trial Now
 
 Close
 
@@ -108,11 +108,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Play Video
-
-Sony on YouTube
-
-Play Video
+Start Your Trial Now
 
 Access Your World Without a Phone
 
