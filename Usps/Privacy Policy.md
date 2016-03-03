@@ -78,6 +78,7 @@ Postal Facts
 
 *   Size and Scope
 *   Decade of Facts and Figures
+*   Top 12 Things to Know
 *   This Post Office Is Always Open
 *   History. Foundation. Art. Preservation.
 *   People. Community. Social Responsibility
@@ -88,11 +89,10 @@ Postal Facts
 *   Innovative Technologies - Systems at Work
 *   Information Technology
 *   Security. Law Enforcement. Preserving the Trust.
-*   Forensics. Crime Scenes. Evidence.
-*   Military and Diplomatic Postal Services
+*   Defending the Frontier. Enforcing the Law.
+*   Military Postal Service Agency
 *   One Day by the Numbers
 *   Fun facts
-*   Top 10 Things to Know
 
 Privacy Policy Highlights  
 
