@@ -33,7 +33,7 @@ Parental control
 *   Arcade &. classic games
 *   Fun/crazy games
 *   View All  
-    375 Tags
+    366 Tags
 
 PRIVACY POLICY
 
