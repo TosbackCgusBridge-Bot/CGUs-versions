@@ -42,7 +42,7 @@ There may be certain orders that we are either unable to accept or must cancel. 
 
 Promotion pricing, including but not limited to, Instant Savings, Coupon Savings, Mail-In Savings, and Bundled Savings, that is available on www.officedepot.com is not available for orders placed on business.officedepot.com.
 
-For compliance with select California and Texas laws and for financial reporting purposes, all sales shipped to California and Texas customers are made by eDepot, LLC, a wholly-owned subsidiary of Office Depot, Inc. California sales are F.O.B. destination point. Texas sales tax is based on the location where the order was received.
+All taxable sales shipped to California and Texas customers are made by eDepot, LLC, a wholly-owned subsidiary of Office Depot, Inc. and are F.O.B. destination point. Texas sales taxes and the California one percent local sales tax are based on the eDepot location where the order is received.
 
 USER COMMENTS, FEEDBACK, AND OTHER INFORMATION AND SUBMISSIONS PROVIDED BY YOU
 
@@ -104,46 +104,6 @@ TERMS OF USE REVISIONS
 
 Office Depot may revise these terms of use by updating this posting. You agree that in the event any portion of these Site terms of use is found to be unenforceable, the remainder of these Site terms and conditions shall remain in full force and effect. By using this Site you agree to be bound by any such revisions and should therefore periodically visit this page to determine the current terms of use to which you are bound.
 
-MOBILE TERMS OF USE
+Privacy Policy
 
-Welcome to Office Depot Inc.'s ("Office Depot") Mobile Alert Program (the "Program"). These Mobile Terms of Use describe our Program and available codes. Please review these Mobile Terms of Use which govern your use of the Program, including but not limited to the ongoing alert program and one-time text offers. BY ACCESSING, BROWSING, OR USING THE PROGRAM, YOU ACKNOWLEDGE AND AGREE THAT: (1) YOU ARE THE CURRENT SUBSCRIBER OR CUSTOMARY USER OF THE MOBILE PHONE NUMBER YOU PROVIDED TO OFFICE DEPOT IN ORDER TO PARTICIPATE IN THE PROGRAM. AND (2) YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY ALL THESE TERMS. IF YOU DO NOT AGREE TO THESE TERMS THEN PLEASE DO NOT USE THE PROGRAM. You are also subject to and agree to comply with Office Depot's general Terms of Use.
-
-ONGOING ALERT PROGRAMS
-
-**Office Depot Offers**
-
-Customers wishing to participate in the Program must opt-in and agree to these Mobile Terms of Use by taking any of the following affirmative steps: (i) entering their mobile telephone number on Office Depot's E-mail Sign Up and Mobile Opt-in webpage. or (ii) texting **OFFER** to 33768 (DEPOT). Message and data rates may apply. **Text messages from Office Depot may be sent using an automatic telephone dialing system. Consent to receive marketing text messages is not required as a condition of purchasing any goods or services from Office Depot.**
-
-PROGRAM DETAILS AND RESTRICTIONS
-
-By subscribing to the Program by texting **OFFER**, or another general keyword, to 33768, you are providing your electronic signature indicating that you (i) agree to Office Depots Mobile Terms of Use and (ii) give your express written consent to receive recurring text messages from Office Depot at the phone number from which you text OFFER. By subscribing to the Program, you may receive Office Depot alerts, polls, advertisements, coupons, promotions, and/or information regarding giveaways, sweepstakes, and contests.
-
-If your device does not support MMS alerts then you will receive an SMS alert.
-
-To unsubscribe at any time from the Program, reply **STOP** or **QUIT** to any of our messages, or text **STOP** or **QUIT** to 33768, or contact us at mailoptout@officedepot.com or call 1-800-463-3768. If you have any questions, reply **HELP** to any of our messages, text **HELP** to 33768, or contact us at 1-800-463-3768.
-
-PLEASE NOTE: You agree that if the mobile telephone number you provide as part of the Program at any time becomes reassigned, terminated or otherwise no longer your current mobile telephone number, you will PROMPTLY NOTIFY Office Depot, Inc. of any such reassignment or termination by calling 1-800-463-3768 or clicking here mailoptout@officedepot.com
-
-**Message &. Data Rates May Apply.** All charges are billed by and payable to your mobile service provider. Office Depot, Inc. does not charge for sending or receiving messages to 33768. Office Depot, Inc. is not liable for any delays in the receipt of any messages as delivery is subject to effective transmission from your network operator. Data obtained from you in connection with this SMS service may include your mobile phone number, your carrier's name, your opt-out status, and the date, time, and content of your messages. We may use this information to contact you and to provide you with the Program services. All data obtained is subject to our Privacy Policy.
-
-The Program is available on these SMS supported carriers: AT&T, T-Mobile®, Verizon, Sprint, U.S. Cellular, Boost Mobile, Cricket, Virgin Mobile, Iowa Wireless, Metro PCS, ACS Wireless, West Central Cellular, Ntelos, Bluegrass, Plateau Wireless, AWCC, Cincinnati Bell, Cellular South, Carolina West Wireless, Immix Wireless/Keystone Wireless, Golden State Cellular, Cellcom, ECIT, GCI/Alaska Digitel, Inland Cellular, Illinois Valley, Nex-Tech, Chat Mobility, NW Missouri Cellular, NE Cellular One of PA, Element Wireless, MTPCS, Thumb Cellular, Viaero Wireless.
-
-The Program is available on these MMS Supported Carriers: AT&T, Cricket, T-Mobile®, Sprint, Verizon, U.S. Cellular.
-
-ABOUT OUR TEXT OFFERS
-
-Unless otherwise noted, the following terms and conditions apply. Unless otherwise noted, the prices and offers advertised through the Program are valid only at www.officedepot.com, by phone or fax, or in-store. To redeem in-store, show the Office Depot, Inc. text message containing a coupon code ("cc") to the cashier at time of purchase. Coupons are valid on regularly priced items in stores. For phone or fax orders, use the 8-digit cc. To redeem online, visit www.officedepot.com/cart/addCoupon.do and enter the 8-digit cc. savings will appear at checkout. Coupons cannot be combined with Store Purchasing or Procurement Card and cannot be used as account payments. Coupons are good for one-time use only, are not transferable, are not for resale or auction and cannot be combined with other offers or promotions. We reserve the right to limit quantities sold to each customer. Limit 1 coupon per household/business. Void where prohibited.
-
-DISPUTE RESOLUTION
-
-*   **Mandatory Arbitration.** These Mobile Terms of Use and your participation in the Program are governed by the laws of the State of Florida, U.S.A. In the event of any controversy or dispute arising out of or relating to the Mobile Terms of Use, the parties to such controversy or dispute shall meet and seek resolution in good faith. Any controversy or claim arising out of or relating to the Mobile Terms of Use or the breach thereof, which is not resolved within thirty (30) days or such longer period as may be mutually agreed upon between the parties, will be submitted to binding arbitration in accordance with the procedures set forth below.
-*   **Arbitration Procedure.** Any such binding arbitration shall be administered by the American Arbitration Association (AAA) in accordance with its Commercial Arbitration Rules, and shall be held in Palm Beach County, Florida. One arbitrator shall be appointed in accordance with the rules of the AAA. Judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction thereof.
-*   **Fees and Costs.** Each party to any binding arbitration under this provision shall bear its own costs, fees, and expenses of arbitration. However, Office Depot shall pay all filing and administration fees charged by the arbitrator up to $1,000. If the arbitrator issues an award in Office Depots favor, you will not be required to reimburse Office Depot for these filing and administration fees.
-*   **Award.** The arbitrators decision and award shall be in writing, and counterpart copies thereof shall be delivered to each of the parties simultaneously. In rendering such decision and award, the arbitrator shall not add to, subtract from or otherwise modify the provisions of this agreement or any agreement entered into pursuant hereto. Any and all claims, judgments, and awards shall be limited to actual out-of-pocket costs incurred, but in no event attorneys fees. Under no circumstances will you be permitted to seek recovery for, and you hereby waive all rights to claim, punitive, incidental, and consequential damages and any other damages, other than for actual out-of-pocket expenses and statutory damages, and waive any and all rights to have damages multiplied or otherwise increased.
-*   **Limitation of Other Proceedings and Class Action Waiver.** Each party agrees that it will not file (nor will it cause any other person or entity to file) any suit, motion, petition, or otherwise commence any legal action or proceeding which may be submitted to arbitration pursuant to this Agreement. Upon the entry of an order dismissing or staying any such action or proceeding in a court, the party which filed such action or proceeding shall promptly pay to the other party the attorneys fees, costs, and expenses incurred by such other party prior to the entry of such order. Moreover, BY AGREEING TO ARBITRATION IN ACCORDANCE WITH THIS PROVISION, YOU WAIVE YOUR RIGHT TO PARTICIPATE AS A CLASS REPRESENTATIVE OR CLASS MEMBER IN ANY ACTION AGAINST OFFICE DEPOT REGARDING ANY CLASS CLAIM YOU MAY HAVE AGAINST OFFICE DEPOT, INCLUDING ANY RIGHT TO CLASS ARBITRATION OR ANY CONSOLIDATION OF INDIVIDUAL ARBITRATIONS.
-*   **Opt-out.** YOU MAY OPTOUT OF THIS ARBITRATION PROVISION BY CONTACTING OFFICE DEPOT AT mailoptout@officedepot.com WITHIN THIRTY (30) DAYS FROM THE DATE OF OPTING-IN TO THE PROGRAM.
-*   **Severability.** If any provision of these Mobile Terms of Use is found to be unlawful, void or for any reason unenforceable, that provision will be deemed severable from these Mobile Terms of Use and will not affect the validity and enforceability of any remaining provision.
-
-CHANGES TO TERMS OF USE
-
-Office Depot may change these Mobile Terms of Use from time to time by notifying you of such changes by any reasonable means, including by posting a revised version of these Mobile Terms of Use on the Office Depot website or texting you notification of the changes. Your use of the Office Depot website as well as your participation in the Program following any changes to these Terms of Use will constitute your acceptance of such changes.
+Office Depot, Inc. respects your right to privacy. You can view our privacy policy here.
