@@ -4,7 +4,6 @@ Aéropostale
     
     *   NEW ARRIVALS
     *   Swim
-    *   Teen Vogue Editors Picks
     *   Bethany Mota
     *   Scene Stealers
     *   Borrowed from the Boys
@@ -49,7 +48,6 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
-    *   Teen Vogue Editors Picks
     *   Throwback Tees
     *   Uniform
     *   Online Only
