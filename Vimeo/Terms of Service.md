@@ -1,6 +1,6 @@
 Terms of Service
 
-Last Updated: April 20, 2015
+Last Updated: March 2, 2016
 
 \*\*PLEASE READ THIS DOCUMENT CAREFULLY. Vimeo, LLC ("Vimeo," "we," or "us") offers an online video sharing platform and community through its website located at Vimeo.com and other Vimeo-operated sites (collectively, the "Vimeo Site"), mobile applications, connected TV applications, and other online services (collectively and including the Vimeo Site, the "Vimeo Service"). By registering as a member or by using the Vimeo Service in any way, you accept these Terms of Service ("Agreement"), which forms a binding agreement between you and Vimeo. If you do not wish to be bound by this Agreement, do not use the Vimeo Service. \*\*
 
@@ -40,7 +40,9 @@ Content
 *   You are a Vimeo PRO user, in which case you may use and access the Vimeo Service for commercial and non-commercial purposes, subject to compliance with the Vimeo Guidelines. or
 *   You are a small-scale independent production company, non-profit, or artist, in which case you may use the Vimeo Service to showcase or promote your own creative works.
 
-**RESTRICTIONS:** Except as expressly permitted by Vimeo in writing, you will not reproduce, redistribute, sell, create derivative works from, decompile, reverse engineer, or disassemble the Vimeo Service. Nor will you take any measures to interfere with or damage the Vimeo Service. All rights not expressly granted by Vimeo are reserved.
+If you sell Vimeo-hosted videos directly to users other than through Vimeo On Demand, such usage will be deemed an "Application" under our API Terms (whether you use our API or not) and will be subject to our API Terms.
+
+**RESTRICTIONS:** Except as expressly permitted by Vimeo in writing, you will not scrape, reproduce, redistribute, sell, create derivative works from, decompile, reverse engineer, or disassemble the Vimeo Service or any source code therein. Nor will you attempt to circumvent any of Vimeo's technical measures or take any measures to interfere with or damage the Vimeo Service. All rights not expressly granted by Vimeo are reserved.
 
 **MOBILE APP:** Your use of the Vimeo Service through one of our mobile applications is also subject to our Mobile App Addendum.
 
