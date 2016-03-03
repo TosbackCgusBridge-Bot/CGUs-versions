@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Researchers study killer tornadoes in Southeast AROUND NOAA // Explorers welcome here: Discover the new NOAA.gov Scientists launch unprecedented effort to discover how El Niño affects weather Catch shares reduce risky fishing
+Enter Search Terms Researchers study killer tornadoes in Southeast AROUND NOAA // Explorers welcome here: Discover the new NOAA.gov Seven miles deep, the ocean is still a noisy place Catch shares reduce risky fishing
 
 *   About our agency
 *   News and features
