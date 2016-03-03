@@ -94,16 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Mon, Feb 29, 2016 RSA Conference 2016 - Key Sessions &. Events
-
-**OTA is a proud supporter and sponsor of RSA Conference 2016.  Join OTA staff, Board, Committee Chairs and members at these key sessions and member events to learn, connect and collaborate.** 
-
-**Featured RSA Session - Diffusing the IoT Time Bomb: _Security, Privacy &. Sustainability Best Practices_**
-
-Mon, Feb 29, 2016 RSA 2016
-
-Secure your seat at RSA® Conference 2016 February 29–March 4 in San Francisco. Register today with the OTA discount code **16UOTAFCD** and gain access to two halls of 500+ exhibitors, 400+ expert-led sessions, unprecedented networking and not-to-be-missed keynote speakers. Celebrating its 25th anniversary this year, RSA Conference continues to drive the information security agenda worldwide with annual industry events in the U.S., Europe and Asia.
-
 Tue, Mar 1, 2016 2016 SC Magazine Awards &. Dinner
 
 Join OTA at the 2016 SC Magazine Awards program including dinner and reception recognizing industry leaders, start ups and trends.  A must attend event for anyone attending RSA.
@@ -111,6 +101,14 @@ Join OTA at the 2016 SC Magazine Awards program including dinner and reception r
 Wed, Mar 2, 2016 RSA "Blended Intelligence" Reception
 
 An evening of connecting, collaborating and sharing. Join us for premium wines, interesting people and some Blended Intelligence! Sponsored by IID, Infoblox, OTA, ThreatWave &. TRUSTe.
+
+Wed, Mar 2, 2016 Diffusing the IoT Time Bomb – Security &. Privacy Trust Code of Conduct
+
+Session AST2-WO2 - Join OTA members including, Brian Witten, Sr Director, Internet of Things, Symantec, Paul Plofchan, Regulatory Affairs, Chief Privacy Officer, ADT and Harvey Anderson, Chief Legal Officer and Chief Privacy Officer, AVG Technologies and Craig Spiezle, Executive Director and President, Online Trust Alliance, (OTA).  Panel will review the IoT landscape and the recently released IoT Trust Framework including
+
+Wed, Mar 2, 2016 Connected Products Consumer Conference. Challenges &. Opportunities
+
+This conference is intended to encourage a dialogue between suppliers, regulators and consumer representatives.  ICRT’s target is to ensure the best balance between personalised service and data privacy, and thereby ensuring the best possible products for the consumer.ICRT’s objective is to refine our future strategy by: informing and improving the test protocols of its members and exploring the interaction of hardware, services and legal/regulatory aspects. (Invite Only)
 
 More >>.
 
