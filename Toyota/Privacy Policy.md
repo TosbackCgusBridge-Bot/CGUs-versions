@@ -24,36 +24,36 @@
 
 Toyota Vehicles Cars & Minivan
 
-*   2016   Avalon $32.650 starting 1 21 /31 est. mpg2 as shown 1 Build your own
-*   2016   Camry $23.070 starting 1 25 /35 est. mpg2 as shown 1 Build your own
-*   2016   Corolla $17.300 starting 1 28 /37 est. mpg2 as shown 1 Build your own
-*   2015   Sienna $28.700 starting 1 18 /25 est. mpg2 as shown 1 Build your own
-*   2015   Yaris $14.845 starting 1 30 /37 est. mpg2 as shown 1 Build your own
+*   2016   Avalon $32,650 starting 1 21 /31 est. mpg2 as shown 1 Build your own
+*   2016   Camry $23,070 starting 1 25 /35 est. mpg2 as shown 1 Build your own
+*   2016   Corolla $17,300 starting 1 28 /37 est. mpg2 as shown 1 Build your own
+*   2015   Sienna $28,700 starting 1 18 /25 est. mpg2 as shown 1 Build your own
+*   2015   Yaris $14,845 starting 1 30 /37 est. mpg2 as shown 1 Build your own
 
 Trucks
 
-*   2016   Tacoma $23.300 starting 1 19 /24 est. mpg2 as shown 1 Build your own
-*   2016   Tundra $29.950 starting 1 15 /19 est. mpg2 as shown 1 Build your own
+*   2016   Tacoma $23,300 starting 1 19 /24 est. mpg2 as shown 1 Build your own
+*   2016   Tundra $29,950 starting 1 15 /19 est. mpg2 as shown 1 Build your own
 
 Crossovers & Suvs
 
-*   2015   RAV4 $23.680 starting 1 24 /31 est. mpg2 as shown 1 Build your own
-*   2015   Venza $29.065 starting 1 20 /26 est. mpg2 as shown 1 Build your own
-*   2016   Highlander $29.990 starting 1 20 /25 est. mpg2 as shown 1 Build your own
-*   2016   4Runner $33.810 starting 1 17 /22 est. mpg2 as shown 1 Build your own
-*   2016   Sequoia $44.965 starting 1 13 /17 est. mpg2 as shown 1 Build your own
-*   2016   Land Cruiser $83.825 starting 1 13 /18 est. mpg2 as shown 1 Build your own
+*   2015   RAV4 $23,680 starting 1 24 /31 est. mpg2 as shown 1 Build your own
+*   2015   Venza $29,065 starting 1 20 /26 est. mpg2 as shown 1 Build your own
+*   2016   Highlander $29,990 starting 1 20 /25 est. mpg2 as shown 1 Build your own
+*   2016   4Runner $33,810 starting 1 17 /22 est. mpg2 as shown 1 Build your own
+*   2016   Sequoia $44,965 starting 1 13 /17 est. mpg2 as shown 1 Build your own
+*   2016   Land Cruiser $83,825 starting 1 13 /18 est. mpg2 as shown 1 Build your own
 
 Hybrids & Fcv
 
-*   2016   prius c $19.560 starting 1 53 /46 est. mpg2 as shown 1 Build your own
-*   2015   Prius $24.200 starting 1 51 /48 est. mpg2 as shown 1 Build your own
-*   2016   $26.790 starting 1 43 /39 est. mpg2 as shown 1 Build your own
-*   2016   Prius v $26.675 starting 1 44 /40 est. mpg2 as shown 1 Build your own
-*   2015   Prius Plug-in Hybrid $29.990 starting 1 95 /50 est. mpg2 as shown 1 Build your own
-*   2016   $36.650 starting 1 40 /39 est. mpg2 as shown 1 Build your own
-*   2016   $47.870 starting 1 27 /28 est. mpg2 as shown 1 Build your own
-*   2016   $28.370 starting 1 34 /31 est. mpg2 as shown 1 Build your own
+*   2016   prius c $19,560 starting 1 53 /46 est. mpg2 as shown 1 Build your own
+*   2015   Prius $24,200 starting 1 51 /48 est. mpg2 as shown 1 Build your own
+*   2016   $26,790 starting 1 43 /39 est. mpg2 as shown 1 Build your own
+*   2016   Prius v $26,675 starting 1 44 /40 est. mpg2 as shown 1 Build your own
+*   2015   Prius Plug-in Hybrid $29,990 starting 1 95 /50 est. mpg2 as shown 1 Build your own
+*   2016   $36,650 starting 1 40 /39 est. mpg2 as shown 1 Build your own
+*   2016   $47,870 starting 1 27 /28 est. mpg2 as shown 1 Build your own
+*   2016   $28,370 starting 1 34 /31 est. mpg2 as shown 1 Build your own
 
 Upcoming Vehicles
 
