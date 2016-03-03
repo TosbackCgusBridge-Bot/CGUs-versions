@@ -31,12 +31,12 @@ Got It!
     *   Locations
     *   Press Room
     *   Research Collaboration
+    *   RightSkill
 
 *   More
-
-*   Sign In
-*   $0.00 Cart
-*   Contact Us
+    *   Sign In
+    *   $0.00 Cart
+    *   Contact Us
 
 *   Job Seekers Site
 
