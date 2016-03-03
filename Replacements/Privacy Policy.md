@@ -84,4 +84,4 @@ About Replacements, Ltd. Knowledge Base Frequently Asked Questions News Releases
 
 1-800-REPLACE | Terms &. Conditions | Site Map | Privacy Policy
 
-© 2015 Replacements, Ltd. All rights reserved.
+© 2016 Replacements, Ltd. All rights reserved.
