@@ -1,4 +1,4 @@
-3d pan white
+flickr-free-ic3d pan white
 
 *   Explore
     *   Recent Photos
