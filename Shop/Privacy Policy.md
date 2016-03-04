@@ -20,7 +20,9 @@ LENOVO Menu
         7.  Coupon Page
         8.  Deals for Students and Educators
         9.  Clearance PCs
-    *   Leap Year Sale Sale ends March 2.
+    *   Lenovo Top Picks Save big on our favorite PCs!
+        
+        Sale ends March 9.
         
     *   Clearance Sale Get these deals before they’re gone.
         
