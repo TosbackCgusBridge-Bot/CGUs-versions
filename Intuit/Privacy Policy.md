@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14577483584
+true true L14582808940
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Wed Mar 02 11:16:00 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Thu Mar 03 11:05:23 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,33 +49,29 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-2 Days Only Online Only | Ends March 2 | Code: 2SAVEBIG \*Get details:50% Off\*
+Extra 25% Off\* With Your JCPenney Credit Card Extra 20% Off\* With Any Other Method of Payment Online Only | $100 or More | Ends March 12 | Code: 4SAVENOW
 
-Select orig and reg-priced styles
+OR
 
-Shop Furniture and Mattresses Shop Bedding and Bath Shop Home Decor Shop Window Shop Luggage40% Off\*
+Extra 20% Off\* With Your JCPenney Credit Card Extra 15% Off\* With Any Other Method of Payment In Store and Online | Ends March 12 | Code: 4SAVENOW
 
-Select orig and reg-priced styles
+\*Credit offers subject to credit approval.
 
-Shop Kitchen and Dining30% Off\*
-
-Select orig and reg-priced styles
-
-Shop Custom Blinds and Shades Shop Storage and Organization Shop Vacuums and FloorcareExtra 20% Off\*
-
-Select orig, reg, sale and clearance-priced styles
-
-Shop Men Shop Women Shop Kids Shop Baby Shop Handbags Shop Fine and Fashion Jewelry Shop Shoes Shop Online Clearance
-
-At JCPenney, we're on a mission to make sure every trip is worth your time, effort and hard-earned money. No matter what it takes. That's getting Your Penney's Worth.
-
-Penney Days Sale -- Buy 1 Get 1 For .01 Any Arizona Guys', Juniors' and Kids' Apparel and Accessories\*
+Print Coupon Exclusions and details: Penney Days Sale -- Buy 1 Get 1 For .01 Any Arizona Guys', Juniors' and Kids' Apparel and Accessories\*
 
 Reg. $10-$60 | In Store and Online through March 5
 
 \*Buy one Arizona item at regular price, get a second Arizona item of equal or lesser value for one cent, while supplies last.
 
-Shop Arizona 50 to 70% Off Clearance on Coats, Sweaters and Fleece In Store and Online Shop Clearance Now SportsFanShop
+Shop Arizona Now View Store Ad Shop Juniors Shop Guys   Shop Girls Shop Boys
+
+At JCPenney, we're on a mission to make sure every trip is worth your time, effort and hard-earned money. No matter what it takes. That's getting your Penney's worth.
+
+Home Sale Up to 50% Off
+
+Select styles
+
+Shop All Home Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Furniture and Mattresses 50 to 70% Off Clearance on Coats, Sweaters and Fleece In Store and Online Shop Clearance Now SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
