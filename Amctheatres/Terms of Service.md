@@ -66,7 +66,7 @@ Any of your conduct that restricts or inhibits any other visitor from using or e
 
 User Purchases
 
-You agree that all purchases made by you through the Service are subject to the terms applicable to those purchases, such as the purchase of movie tickets, which is subject to Fandango's purchase policy located at www.fandango.com/purchasepolicy.aspx, the purchase of an AMC Stubs™ membership, which is subject to the AMC Stubs™ terms and conditions located at www.amcstubs.com/staticpage/termsandconditions, or the purchase of AMC gift cards, which is subject to the terms and conditions located at https://www.amcnationalsales.com/standard/B2C\_TC.aspx.
+You agree that all purchases made by you through the Service are subject to the terms applicable to those purchases, such as the purchase of movie tickets, the purchase of an AMC Stubs™ membership, which is subject to the AMC Stubs™ terms and conditions located at https://www.amctheatres.com/amcstubs/terms-and-conditions, or the purchase of AMC gift cards, which is subject to the terms and conditions located at https://www.amcnationalsales.com/standard/B2C\_TC.aspx.
 
 User Content
 
