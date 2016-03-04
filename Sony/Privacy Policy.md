@@ -40,7 +40,25 @@ PlayMemoriesSpark your imagination &. find new ways to enjoy your photos. Explor
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! Ready, Set, Action Cam
+Your browser does not support JavaScript! The New "Ghostbusters" Trailer Is Here
+
+Get More Info
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Ready, Set, Action Cam
 
 Capture Life
 
