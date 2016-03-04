@@ -94,10 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Mar 1, 2016 2016 SC Magazine Awards &. Dinner
-
-Join OTA at the 2016 SC Magazine Awards program including dinner and reception recognizing industry leaders, start ups and trends.  A must attend event for anyone attending RSA.
-
 Wed, Mar 2, 2016 RSA "Blended Intelligence" Reception
 
 An evening of connecting, collaborating and sharing. Join us for premium wines, interesting people and some Blended Intelligence! Sponsored by IID, Infoblox, OTA, ThreatWave &. TRUSTe.
@@ -109,6 +105,10 @@ Session AST2-WO2 - Join OTA members including, Brian Witten, Sr Director, Int
 Wed, Mar 2, 2016 Connected Products Consumer Conference. Challenges &. Opportunities
 
 This conference is intended to encourage a dialogue between suppliers, regulators and consumer representatives.  ICRT’s target is to ensure the best balance between personalised service and data privacy, and thereby ensuring the best possible products for the consumer.ICRT’s objective is to refine our future strategy by: informing and improving the test protocols of its members and exploring the interaction of hardware, services and legal/regulatory aspects. (Invite Only)
+
+Tue, Mar 8, 2016 2016 Online Trust Audit of "Free" eFile Tax Sites
+
+Choose 8AM or 3PM  PST -- Join OTA for a briefing of the 2016 Online Trust Audit of IRS approved e-File services. Attend to learn who "made the grade" and what steps all tax and service providers need to embrace during the "tax fraud season". This webinar will review findings in consumer protection, server and infrastructure security and responsible privacy practices. Results will be compared to other segments recently audited including the 2016 Presidential candidates, top 100 FDIC banks and top 500 ecommerce sites.
 
 More >>.
 
