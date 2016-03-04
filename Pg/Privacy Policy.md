@@ -86,4 +86,4 @@ How to Contact Us
 *   Privacy
 *   Ad Choices
 
-© 2014 Procter &. Gamble. All claims valid only in the U.S.
+© 2016 Procter &. Gamble. All claims valid only in the U.S.
