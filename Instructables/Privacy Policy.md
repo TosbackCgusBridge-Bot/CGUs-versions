@@ -23,7 +23,6 @@ Change country/language X
         *   AutoCAD
         *   AutoCAD LT
         *   AutoCAD 360
-        *   AutoCAD Design Suite
         *   All AutoCAD
     *   3ds Max
     *   A360
