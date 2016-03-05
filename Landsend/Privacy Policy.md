@@ -148,16 +148,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Accessories
             *   Long Underwear
             *   Backpacks &. Lunch Boxes
-*   Outerwear
-    *   *   Back to Main Menu Outerwear
-        *   Shop Outerwear
-        *   Women
-        *   Men
-        *   Girls
-        *   Boys
-        *   Hats, Gloves &. Scarves
-        *   Snow Boots
-        *   Long Underwear
 *   Swim
     *   *   Back to Main Menu Swim
         *   Shop Swim
@@ -171,6 +161,16 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Beach Towels
         *   Women's Swim Finder
         *   Sale
+*   Outerwear
+    *   *   Back to Main Menu Outerwear
+        *   Shop Outerwear
+        *   Women
+        *   Men
+        *   Girls
+        *   Boys
+        *   Hats, Gloves &. Scarves
+        *   Snow Boots
+        *   Long Underwear
 *   Shoes
     *   *   Back to Main Menu Shoes
         *   Shop Shoes
