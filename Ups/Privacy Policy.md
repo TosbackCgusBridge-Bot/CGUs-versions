@@ -1,8 +1,8 @@
 Close Window  
   
-  Privacy Notice **Effective Date: September 1, 2014**  
+  Privacy Notice **Effective Date: March 4, 2016**  
   
-We at United Parcel Service, Inc., along with our subsidiaries and affiliates (collectively, "UPS"), respect your concerns about privacy. This Privacy Notice describes the types of personal information we collect about consumers, how we may use the information and with whom we may share it. The notice also describes the measures we take to safeguard the personal information. In addition, we tell you how you can ask us to (i) access or change the personal information we maintain about you, (ii) withdraw consent you previously provided to us, (iii) refrain from sending you certain communications, and (iv) answer questions you may have about our privacy practices. This notice does not apply to The UPS Store or any other retail location.  
+We at United Parcel Service, Inc., along with our subsidiaries and affiliates (collectively, "UPS"), respect your concerns about privacy. This Privacy Notice describes the types of personal information we collect about consumers, how we may use the information and with whom we may share it. The notice also describes the measures we take to safeguard the personal information. In addition, we tell you how you can ask us to (i) access or change the personal information we maintain about you, (ii) withdraw consent you previously provided to us, (iii) refrain from sending you certain communications, and (iv) answer questions you may have about our privacy practices. This notice does not apply to The UPS Store or any other retail location.  This Notice does not apply to any subsidiary or affiliate of United Parcel Service, Inc. that maintains its own privacy notice, including The UPS Store or any other retail location.  
   
 Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements.  
   
@@ -19,8 +19,7 @@ The types of personal information we may obtain include:
   
 
 *   Individual and business contact information (such as name, company name, physical address, email address, and telephone or fax number)
-*   Shipping information (such as (i) shipping-related contact details like the shipper's and consignee's name, physical address, email address and telephone number, (ii) signature for proof of delivery, (iii) UPS account number, and (iv) information given to us that helps us access locations to which we provide service) and information provided to us regarding the content of certain shipments, but only to the extent an identifiable person can be linked to such content
-*   Information that enables us to verify an individual's identity
+*   Shipping information (such as (i) shipping-related contact details like the shipper's, and consignee's and/or neighbor's (for UPS My Choice's "leave with neighbor" feature) name, physical address, email address and telephone number, (ii) signature for proof of delivery, (iii) UPS account number, and (iv) information given to us that helps us access locations to which we provide service) and information provided to us regarding the content of certain shipments, but only to the extent an identifiable person can be linked to such content
 *   Names, email addresses and telephone numbers of others to whom we are asked to send information
 *   Information provided in response to surveys
 *   Username, password and other credentials used to access UPS products and services
