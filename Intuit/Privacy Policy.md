@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14582808940
+true true L14589289662
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Thu Mar 03 11:05:23 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1l1j5 TIME :->. Fri Mar 04 11:15:33 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -67,11 +67,11 @@ Shop Arizona Now View Store Ad Shop Juniors Shop Guys   Shop Girls Shop Boys
 
 At JCPenney, we're on a mission to make sure every trip is worth your time, effort and hard-earned money. No matter what it takes. That's getting your Penney's worth.
 
-Home Sale Up to 50% Off
+2 Days Online Only! Home In A Flash Extra 30% Off\* $100 or More Or, Extra 25% Off\* Select Home Already 40 to 60% Off March 4-5 | Code: BIGSAVE6
 
-Select styles
+Plus Extra 20% Off Furniture, Mattresses, Custom Blinds and Shades
 
-Shop All Home Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Furniture and Mattresses 50 to 70% Off Clearance on Coats, Sweaters and Fleece In Store and Online Shop Clearance Now SportsFanShop
+\*Exclusions and details: Shop Now 50 to 70% Off Clearance on Coats, Sweaters and Fleece In Store and Online Shop Clearance Now SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
