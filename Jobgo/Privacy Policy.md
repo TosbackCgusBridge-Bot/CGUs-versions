@@ -45,4 +45,4 @@ Copyright © 2014 JobGo International. All rights reserved. 
 
  **Last revision: 19.01.2014**
 
-Select languageEnglishSuomi JOBGO About us JOBSEEKERS Sign up RECRUITERS Sign up QUESTIONS Contact us Privacy policy Terms of use
+Select languageEnglishSuomi JOBGO About us JOBSEEKERS Sign up RECRUITERS Sign up QUESTIONS Contact us Privacy policy Terms of use Share with:
