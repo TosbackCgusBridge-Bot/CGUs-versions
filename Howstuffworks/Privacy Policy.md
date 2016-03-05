@@ -68,11 +68,11 @@ Privacy Policy | HSW NEXT PAGENEXT  
 
 Up Next
 
+*   HowStuffWorks NOW: Seeing Through Time with Dr. John Mather
+*   The Dave Matthews Band Quiz
+*   The 'Harry Potter and the Deathly Hallows' Quiz
 *   BrainStuff: How Old is the Oldest Fairy Tale?
 *   HowStuffWorks NOW: Could the cure for cancer be in vaccines?
-*   Stuff Mom Never Told You: Barbie Explains Feminist Theories
-*   How Color-changing Ice Cream Works
-*   A Show About Nothing: The Seinfeld Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Winning the Green Windbreaker: Inside the Real World of Pro Mini Golf**
+**Pass the Barf Bag If You're Not Going to Use It**
 
-**New Study: Fear Alone, Replacing Actual Predators, Can Change Ecosystems**
+**Two Words to Make You Consider Homeschooling: Super Lice**
 
-**Former Jocks Report Happier Lives (Unless They Played Basketball or Football)**
+**Can Police (Legally) Shoot Down Drones?**
 
 **See More Headlines »**
 
