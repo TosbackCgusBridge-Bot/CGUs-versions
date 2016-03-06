@@ -1,4 +1,5 @@
-Privacy Policy
+Privacy Policy See also: Terms of Use • Giveaway Terms  
+Review Guidelines • Author Guidelines • Q&A Guidelines
 
 This privacy policy was last modified on December 29, 2008.
 
