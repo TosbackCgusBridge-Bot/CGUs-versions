@@ -113,6 +113,10 @@ The 2016 Privacy Risk Summit will bring together leading privacy practitioners, 
 *   OTA Blog
 *   Newsletters
 
+Mon, Mar 7, 2016 RSA 2016 Recap
+
+2016 marked the second consecutive year where OTA was named as an industry sponsor for the RSA Conference.  OTA's participation included a range of member and press briefings and activities. Highlights included the RSA member meet-up and "**Blended Intelligence**" reception at the Contemporary Jewish Museum, organized by IID/Infoblox.  In partnership with OTA founding members IID, TRUSTe and ThreatWave, the reception was noted as one of the best RSA events to connect, network and collaborate. 
+
 Fri, Feb 26, 2016 To Email or Not to Email?
 
 Keep your brand off the spam list through best practices in honoring unsubscribes. Email marketing remains a vibrant channel to interact with customers, and the better you respect customers’ wishes, the better engagement you’ll have.
@@ -126,10 +130,6 @@ Fri, Jan 29, 2016 Getting Ready for the 2016 Online Trust Audit
 Updated - February 15, 2016
 
 Got Trust?  The Online Trust Audit continues to serve as benchmark of security, privacy and consumer protection best practices for organizations throughout the world.  Consistent with OTA's view such standards and practices need to continually evolve to reflect the threat landscape, new standards and regulatory requirements, this year's methodology and scoring is being updated.
-
-Sun, Jan 24, 2016 Donor Data. the New Currency for Presidential Candidates, Time for ethical data privacy practice
-
-Voter data is the new currency and candidates are reaping the rewards targeting voters and ultimately determining who will be the next President. As we have transformed into a data driven society and economy this may be expected. But the candidate’s privacy and data practices in both the news headlines and in the backroom are not.  As we head into the State primaries and caucuses, this data is proving to be invaluable.
 
 More >>. Resources
 
