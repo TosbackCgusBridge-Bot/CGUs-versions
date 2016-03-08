@@ -12,6 +12,7 @@
 *   Investing Strategy
 *   ETFs &. Funds
 *   Earnings
+*   PRO
 
 Privacy
 
