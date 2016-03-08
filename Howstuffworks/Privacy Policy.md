@@ -68,11 +68,11 @@ Privacy Policy | HSW NEXT PAGENEXT  
 
 Up Next
 
+*   Who Said It: 'Star Wars: The Force Awakens' Quiz
+*   The Cold War Quiz
+*   True or False: The Fuel Economy Myths Quiz
 *   Stuff They Don't Want You to Know: Chinese Alchemy
 *   What the Stuff?!: 5 Reasons Zombies Are Physically Impossible
-*   HowStuffWorks NOW: Seeing Through Time with Dr. John Mather
-*   The Dave Matthews Band Quiz
-*   The 'Harry Potter and the Deathly Hallows' Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Pass the Barf Bag If You're Not Going to Use It**
+**6 Crazy Theme Cruises**
 
-**Two Words to Make You Consider Homeschooling: Super Lice**
+**Lazy Cheating Plant Lives Underground, Outsources Photosynthesis to Fungus**
 
-**Can Police (Legally) Shoot Down Drones?**
+**Ridiculous History: Meet Simeon Ellerton, Noted Pedestrian &. Rock Hound**
 
 **See More Headlines »**
 
