@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Researchers study killer tornadoes in Southeast AROUND NOAA // Explorers welcome here: Discover the new NOAA.gov El Niño-fueled storms to bring heavy rain to West Coast Seven miles deep, the ocean is still a noisy place
+Enter Search Terms Dive with the crew of the Okeanos Explorer AROUND NOAA // Explorers welcome here: Discover the new NOAA.gov Winter was record warm for the contiguous U.S. Seven miles deep, the ocean is still a noisy place
 
 *   About our agency
 *   News and features
