@@ -21,7 +21,7 @@ Menu
         *   See Credit Card FAQ
         *   Redeem and Learn About Rewards
         *   Pay Your Bill
-        *   Learn About Credit Tracker
+        *   Learn About CreditWise®
     *   Bank Expand Bank Menu Personal Banking
         *   Bank Home
         *   Checking Accounts
