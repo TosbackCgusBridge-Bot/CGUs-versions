@@ -113,4 +113,4 @@ POPSUGAR Inc., its subsidiaries and affiliates (“POPSUGAR,” “we,” “us,
     
 *   HOW TO CONTACT POPSUGAR
     
-    If you have any questions or concerns regarding our privacy policies, please send us a detailed message to community@popsugar.com or contact us at 111 Sutter Street, Suite 850, San Francisco, California, 94104, ATTN: POPSUGAR. If you are an EU Promo Entrant, you may also contact us at Sugar Inc UK Limited, 2nd Floor Moray House, 23-31 Great Titchfield Street, London W1W 7PA, United Kingdom, ATTN: POPSUGAR.
+    If you have any questions or concerns regarding our privacy policies, please send us a detailed message to community@popsugar.com or contact us at 111 Sutter Street, 16th Floor, San Francisco, California, 94104, ATTN: POPSUGAR. If you are an EU Promo Entrant, you may also contact us at Sugar Inc UK Limited, 2nd Floor Moray House, 23-31 Great Titchfield Street, London W1W 7PA, United Kingdom, ATTN: POPSUGAR.
