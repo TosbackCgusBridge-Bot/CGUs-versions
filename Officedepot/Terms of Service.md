@@ -142,7 +142,7 @@ DISPUTE RESOLUTION
 
 5\. **Limitation of Other Proceedings and Class Action Waiver.** Each party agrees that it will not file (nor will it cause any other person or entity to file) any suit, motion, petition, or otherwise commence any legal action or proceeding which may be submitted to arbitration pursuant to this Agreement. Upon the entry of an order dismissing or staying any such action or proceeding in a court, the party which filed such action or proceeding shall promptly pay to the other party the attorneys fees, costs, and expenses incurred by such other party prior to the entry of such order. Moreover, BY AGREEING TO ARBITRATION IN ACCORDANCE WITH THIS PROVISION, YOU WAIVE YOUR RIGHT TO PARTICIPATE AS A CLASS REPRESENTATIVE OR CLASS MEMBER IN ANY ACTION AGAINST OFFICE Updated March 4, 2016 DEPOT REGARDING ANY CLASS CLAIM YOU MAY HAVE AGAINST OFFICE DEPOT, INCLUDING ANY RIGHT TO CLASS ARBITRATION OR ANY CONSOLIDATION OF INDIVIDUAL ARBITRATIONS.
 
-6\. **Opt-out.** YOU MAY OPTOUT OF THIS ARBITRATION PROVISION BY CONTACTING OFFICE DEPOT AT \[@@\] WITHIN THIRTY (30) DAYS FROM THE DATE OF OPTING-IN TO THE PROGRAM.
+6\. **Opt-out.** YOU MAY OPTOUT OF THIS ARBITRATION PROVISION BY CONTACTING OFFICE DEPOT AT 1-800-463-3768 WITHIN THIRTY (30) DAYS FROM THE DATE OF OPTING-IN TO THE PROGRAM.
 
 7\. **Severability.** If any provision of these Mobile Terms of Use is found to be unlawful, void or for any reason unenforceable, that provision will be deemed severable from these Mobile Terms of Use and will not affect the validity and enforceability of any remaining provision.
 
