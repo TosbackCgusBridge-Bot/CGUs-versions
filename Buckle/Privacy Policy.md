@@ -1,6 +1,4 @@
-Think Spring...
-
-Shop New Arrivals.
+Enter now for a chance to win a Buckle gift card!
 
 Guest Services 800-607-9788
 
