@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14602894640
+true true C14545602699
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Mon Mar 07 11:15:31 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Tue Mar 08 11:15:32 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,46 +49,17 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Extra 25% Off\* with your JCPenney Credit Card Extra 20% Off\* with any other method of payment Online Only | $100 or More | Ends March 12 | Code: 4SAVENOW
+Extra 25% Off\* 25 Hours Only Online Only | Ends March 9 | Code: GO2SHOP
 
-OR
+\*some exclusions apply
 
-Extra 20% Off\* with your JCPenney Credit Card Extra 15% Off\* with any other method of payment In Store and Online | Ends March 12 | Code: 4SAVENOW
+Get details: Penney Days Sale -- Buy 1 Get 1 For .01 Any JCPenney Home Bath Towel, Bath Rug, Pillow and Window Covering\*
 
-\*Credit offers subject to credit approval.
-
-Print Coupon Exclusions and details: Penney Days Sale -- Buy 1 Get 1 For .01 Any JCPenney Home Bath Towel, Bath Rug, Pillow and Window Covering\*
-
-Reg. $8-$200 | In Store and Online Through March 12
+Reg. $8-$200 | In Store and Online Now Through March 12
 
 \*Buy one JCPenney Home item at regular price, get a second JCPenney Home item of equal or lesser value for one cent, while supplies last.
 
-Shop JCPenney Home Now Shop Curtains and Drapes Shop Bed Pillows Shop Bath Rugs Shop Bath Towels  
-
-At JCPenney, we're on a mission to make sure every trip is worth your time, effort and hard-earned money. No matter what it takes. That's getting your Penney's worth.
-
-Introducing Penney Days! | March 9 | In Store Only 5-Star Rated JCPenney Home Towel Just .01
-
-Limited time offer. One per customer. While supplies last.
-
-Get details: 30 to 50% Off Spring Looks For The Family Now through March 19
-
-Select styles
-
-Shop Women Shop Men Shop Kids Shop Shoes       Shoe, Handbag and Accessories Sale | Now through March 19 30 to 40% Off Women's Dress Shoes and Handbags
-
-Select styles
-
-Shop Women's Dress Shoes Shop Handbags   Bra Fit Sale | Now through March 19 20% Off Bras
-
-Select styles, reg. $34-$42  
-When you buy 2 or more
-
-Shop Bras Home Sale | Up to 50% Off
-
-Select styles
-
-Shop All Home Shop Bedding Shop Kitchen and Dining Shop Home Decor Shop Furniture and Mattresses JCPenney | portraits
+Shop JCPenney Home Now Shop Curtains and Drapes Shop Bed Pillows Shop Bath Rugs Shop Bath Towels   JCPenney | portraits
 
 40% Off Your Photo Purchase
 
