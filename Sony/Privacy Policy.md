@@ -5,11 +5,7 @@ Skip to Content CloseSony Sites About SONY SONY DESIGN Playstation® Sony Profes
 *   Sony PicturesThe hub for your favourite movies and TV shows.
 *   Sony MusicClassic artists to today’s stars, local and global.
 
-SONY search
-
-*   Favorites
-
-Electronics
+SONY search Electronics
 
 *   Cameras
 *   Mobile, Tablets &. Smart Devices 
@@ -17,8 +13,9 @@ Electronics
 *   Audio
 *   Video Cameras
 *   Car &. Marine
+*   All Electronics
 
-All Electronics Reward yourself with Sony.Earn towards the electronics you crave with Sony Rewards. Learn More Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up PlayStation
+All Electronics Reward yourself with Sony.Earn towards the electronics you crave with Sony Rewards. Learn More Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up
 
 *   PlayStation
 
@@ -28,7 +25,11 @@ Entertainment
 *   Movies &. TV Shows
 *   Music
 
-Phone and Tablet AppsThe best of what Sony has to offer on iOS or Android. Download our apps. SONY
+Phone and Tablet AppsThe best of what Sony has to offer on iOS or Android. Download our apps.
+
+*   Support
+
+SONY
 
 *   Sony Sites
 *   Electronics
@@ -86,13 +87,25 @@ Close
 
 The Future
 
-Sony on Instagram
+Small Size, Big Zoom Lens
+
+Introducing the HX80
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Introducing the HX80
 
 Sony on Twitter
 
-It was the battle of the proton packs at a special #Ghostbusters fan event!
+Bid to meet Joe Satriani at his DC #surfingtoshockwavetour show! sonyrewards.com
 
-2016-03-05 19:04:01+00:00
+2016-03-08 23:30:01+00:00
 
 View Tweet
 
@@ -166,9 +179,9 @@ Start Your Trial Now
 
 Sony on Twitter
 
-The Division launches tomorrow on PS4. Read our Q&A to learn about @Ubisoft's infected NYC: playstation.com
+Excited to announce that #TheMeddler will be at 2016 @Tribeca Film Festival! @LoreneScafaria @SusanSarandon
 
-2016-03-08 11:34:26+00:00
+2016-03-09 07:17:00+00:00
 
 View Tweet
 
@@ -242,9 +255,9 @@ Find Your Sound Bar
 
 Sony on Instagram
 
-STEM Is Everywhere
+Pocket-Size Powerhouse
 
-Join the Movement
+See the RX100 IV
 
 Close
 
@@ -254,13 +267,13 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Join the Movement
+See the RX100 IV
 
 Sony on Twitter
 
-#NowPlaying: Loretta Lynn &. Willie Nelson - Lay Me Down #FullCircle spotify.com
+Amazing roster of @recordstoreday (April 16!) drops from @SonyLegacyRecs
 
-2016-03-07 04:05:01+00:00
+2016-03-09 08:34:56+00:00
 
 View Tweet
 
@@ -278,9 +291,9 @@ Close
 
 Meet the Xperia X
 
-The Fight for Freedom Begins This Week
+The Fight for Freedom Begins This Week With the Premiere of "Underground"
 
-Watch "Underground"
+Watch Wednesday at 10PM EST on WGN
 
 Close
 
