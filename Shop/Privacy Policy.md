@@ -273,22 +273,25 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
             1.  View all laptops
             2.  Lenovo B Series
             3.  Lenovo Flex Series
-            4.  Lenovo G Series
-            5.  Lenovo LaVie
-            6.  Lenovo N Series
-            7.  Lenovo S Series
-            8.  Lenovo U Series
-            9.  Lenovo Y Series
-            10.  Lenovo Yoga Series
-            11.  Lenovo Z Series
-            12.  ThinkPad 11e
-            13.  ThinkPad E
-            14.  ThinkPad Helix
-            15.  ThinkPad L
-            16.  ThinkPad T
-            17.  ThinkPad W
-            18.  ThinkPad X
-            19.  ThinkPad Yoga
+            4.  Lenovo S Series
+            5.  Lenovo U Series
+            6.  Lenovo Y Series
+            7.  Lenovo Yoga Series
+            8.  Lenovo Z Series
+            9.  ThinkPad 11e
+            10.  ThinkPad E
+            11.  ThinkPad Helix
+            12.  ThinkPad L
+            13.  ThinkPad T
+            14.  ThinkPad X
+            15.  ThinkPad Yoga
+            16.  ThinkPad P
+            17.  Ideapad Y700
+            18.  Ideapad 100
+            19.  Ideapad 300
+            20.  Ideapad 500
+            21.  Ideapad 700
+            22.  Chromebook
     *   1.  Tablets
             1.  View all tablets
             2.  Lenovo A Series
@@ -300,19 +303,25 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
             8.  ThinkPad Yoga
     *   1.  Desktops
             1.  View all desktops
-            2.  A Series All-in-Ones
-            3.  B Series All-in-Ones
-            4.  C Series All-in-Ones
-            5.  H Series Towers
-            6.  Horizon Table PCs
-            7.  K Series Towers
-            8.  M Series All-in-Ones
-            9.  M Series SFF
-            10.  M Series Thin Clients
-            11.  M Series Tiny
-            12.  M Series Towers
-            13.  Q Series Minis
-            14.  Erazer X Series
+            2.  C Series All-in-Ones
+            3.  H Series Towers
+            4.  Horizon Table PCs
+            5.  K Series Towers
+            6.  M Series All-in-Ones
+            7.  M Series SFF
+            8.  M Series Tiny
+            9.  M Series Towers
+            10.  Q Series Minis
+            11.  Erazer X Series
+            12.  Yoga Home 900
+            13.  Ideacentre 700
+            14.  Ideacentre AIO 700
+            15.  Ideacentre 300
+            16.  Ideacentre AIO 300
+            17.  Ideacentre 200
+            18.  Stick 300
+            19.  Y700
+            20.  Y900
     *   Workstations
     *   Servers, Storage, &. Networking
     *   Accessories &. Software
