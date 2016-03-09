@@ -26,6 +26,7 @@
     *   Events
     *   News
     *   Partners
+    *   Brand Assets
     *   Contact
 *   Login
 
