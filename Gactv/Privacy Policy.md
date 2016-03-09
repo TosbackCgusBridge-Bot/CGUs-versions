@@ -1,17 +1,19 @@
-Turn on more accessible mode Turn off more accessible mode Skip Ribbon Commands Skip to main content
+Turn on more accessible mode Turn off more accessible mode Skip Ribbon Commands Skip to main content ​
 
-*   Home
-*   Newsroom
-*   Contact Us
+*   Facebook
+*   Twitter
+*   LinkedIn
+*   Rss Feed
+*   Instagram
 
     Search
 
 *   SNICurrently selected
     *   Our Company
-    *   Our Brands
-    *   Investors
     *   Careers
     *   Outreach
+    *   Investors
+    *   Newsroom
 
  Privacy Policy Page Content
 
@@ -85,24 +87,12 @@ Our Websites typically collect two (2) kinds of information about you: (a) infor
 
 ​​​​​​​​
 
-*   Our Brands.
-    
-    *   HGTV
-    *   DIY Network
-    *   Food Network
-    *   Cooking Channel
-    *   Travel Channel
-    *   Great American Country
-    *   Food.com
-    
-
-​
-
-*   Facebook
-*   Twitter
-*   LinkedIn
-*   Rss Feed
-*   Instagram
+*   ​
+    *   Facebook
+    *   Twitter
+    *   LinkedIn
+    *   Rss Feed
+    *   Instagram
 
 *   Privacy Policy
 *   :
