@@ -1,19 +1,7 @@
-Datenschutz **1.** **Allgemeines**  
-                                 **  8.** **Conversion Tracking**  
-**2.** **Datenerfassung**  
-  **  9.** **Datenkontrolle**  
-**3.** **Datenverarbeitung**  
-  **10.** **Online Chatservice**  
-**4.** **Datensicherheit**  
-  **11.** **Information über gespeicherte Daten**  
-**5.** **Datenweitergabe**  
-  **12.** **Daten berichtigen**  
-**6.** **Datenspeicherung**  
-  **13.** **Weitere Informationen**  
-**7.** **Datenauswertung**   **14.** **Ansprechpartner**    
+Datenschutz **1.** **Allgemeines** **8.** **Conversion Tracking** **2.** **Datenerfassung** **9.** **Datenkontrolle** **3.** **Datenverarbeitung** **10.** **Online Chatservice** **4.** **Datensicherheit** **11.** **Information über gespeicherte Daten** **5.** **Datenweitergabe** **12.** **Daten berichtigen** **6.** **Datenspeicherung** **13.** **Weitere Informationen** **7.** **Datenauswertung** **14.** **Ansprechpartner**  
 **1\. Allgemeines**  
 Der Schutz Ihrer persönlichen Daten hat für die Deutsche Telekom einen hohen Stellenwert. Es ist uns wichtig, Sie darüber zu informieren, welche persönlichen Daten wir während Ihres Besuchs auf unseren Webseiten erfassen, wie diese verwendet werden und welche Gestaltungsmöglichkeiten Sie dabei haben. Dieser Datenschutzhinweis gibt Ihnen Antworten auf die wichtigsten Fragen.  
-   
+  
 **2\. Welche Daten werden erfasst und wie werden sie verwendet?**  
   
 a. Für die Erbringung unserer Leistungen  
@@ -26,13 +14,13 @@ Sie haben die Möglichkeit, Ihren Browser so einzustellen, dass diese Cookies ga
   
 b. Für gesetzlich vorgesehene Zwecke  
 Wir verwenden Ihre Daten für gesetzlich vorgesehene Zwecke. Für die Aufdeckung von Missbrauch und für die Erkennung und Beseitigung von Störungen speichern wir Ihre IP-Adresse für sieben Tage.  
-   
+  
 **3\. Wo werden meine Daten verarbeitet?**  
 Ihre Daten werden grundsätzlich in Deutschland verarbeitet. Nur in Einzelfällen und im gesetzlich zulässigen Rahmen findet die Datenverarbeitung auch im Ausland statt  
-   
+  
 **4\. Wie sicher sind meine Daten?**  
 Zum Schutz Ihrer Daten vor unberechtigtem Zugriff und Missbrauch haben wir umfangreiche technische und betriebliche Sicherheitsvorkehrungen nach deutschem Recht getroffen.  
-   
+  
 **5\. Werden meine Daten an Dritte weitergegeben, zum Beispiel an Behörden?**  
 Ja, einige Daten müssen unter strengen vertraglichen und gesetzlichen Auflagen weitergegeben werden:  
   
@@ -43,10 +31,10 @@ Ja, einige Daten müssen unter strengen vertraglichen und gesetzlichen Auflagen 
     In bestimmten Fällen sind wir gesetzlich verpflichtet, Daten an eine anfragende staatliche Stelle zu übermitteln. Nach Vorlage eines Gerichtsbeschlusses sind wir gemäß § 101 Urheberrechtsgesetz verpflichtet, Inhabern von Urheber- und Leistungsschutzrechten Auskunft über Kunden zu geben, die urheberrechtlich geschützte Werke in Internet-Tauschbörsen angeboten haben sollen. Unsere Auskunft enthält in diesen Fällen die Benutzerkennung einer zum angefragten Zeitpunkt zugeteilten IP-Adresse sowie, wenn bekannt, Namen und Anschrift des Kunden.
 
 Darüber hinaus geben wir keine Daten an Dritte weiter, es sei denn, Sie haben ausdrücklich eingewilligt oder dies ist gesetzlich vorgesehen.  
-   
+  
 **6\. Wird meine IP-Adresse gespeichert?**  
 Um Missbrauch aufzudecken (Spam, Viren, Würmer etc.) und Störungen in unserem Netz erkennen und beseitigen zu können, wird Ihre IP-Adresse für sieben Tage ab Ende der Verbindung gespeichert.  
-   
+  
 **7\. Wird mein Nutzungsverhalten ausgewertet, z.B. für Werbung?**  
 Im Rahmen der gesetzlichen Regelungen legen wir Nutzungsprofile unter einem Pseudonym an. Diese können wir für Werbung und Marktforschung auswerten. Ein unmittelbarer Rückschluss auf Sie ist dabei nicht möglich. Eine Verknüpfung der Profildaten mit weiteren Informationen über Ihre Person findet nicht statt. Der Erstellung der Nutzungsprofile können Sie jederzeit widersprechen.  
   
@@ -118,7 +106,7 @@ Für Zwecke der Werbung, der Marktforschung oder zur bedarfsgerechten Gestaltung
 Sie können die Erfassung Ihrer Daten durch die Maxymiser Technologie sowie die Verarbeitung dieser Daten durch uns verhindern, indem Sie das entsprechende Cookie mit dem unter dem folgenden Link verfügbare Opt-Out deaktivieren: http://www.maxymiser.de/cookie\_optout.htm.  
   
 **Nutzungsbasierte Online-Werbung:**  
-Wir arbeiten mit Werbepartnern zusammen, die webseitenübergreifend Nutzungsprofile unter einem Pseudonym anlegen. Für die Datenerhebung zur Auslieferung von nutzungsbasierter Online-Werbung sind folgende Unternehmen im Auftrag der Telekom zuständig: Google, Yieldr (auch über BidSwitch, Improve Digital, Rubicon, Smart AdServer und AppNexus), Adform und Xplosion (auch über AppNexus und Adnologies). Nutzungsbasierte Online-Werbung wird von selbigen Auftragnehmern ausgeliefert.  
+Wir arbeiten mit Werbepartnern zusammen, die webseitenübergreifend Nutzungsprofile unter einem Pseudonym anlegen. Für die Datenerhebung zur Auslieferung von nutzungsbasierter Online-Werbung sind folgende Unternehmen im Auftrag der Telekom zuständig: Google, Yieldr (auch über BidSwitch, Improve Digital, Rubicon, Smart AdServer und AppNexus), Adform und Xplosion (auch über AppNexus und Adnologies) und emetriq. Nutzungsbasierte Online-Werbung wird von selbigen Auftragnehmern ausgeliefert.  
 Wenn Sie keine nutzungsbasierten Werbeeinblendungen mehr erhalten möchten, können Sie die Datenerhebung unter den folgenden Links deaktivieren:  
   
 Google: http://www.google.com/settings/ads/onweb/  
@@ -126,6 +114,7 @@ Yieldr (sowie BidSwitch, Improve Digital, Rubicon, Smart AdServer und AppNexus):
 http://info.evidon.de/more\_info/12701?ecaid\[12701\]=camp\_id%3A1930  
 Adform: http://site.adform.com/privacy-policy\_de/  
 Xplosion (sowie AppNexus und Adnologies): http://www.xplosion.de/so-funktionierts/opt-out.html  
+emetriq: http://www.emetriq.com/opt-out  
   
 Auf der Webseite www.meine-cookies.org oder www.youronlinechoices.com können Sie weitere Informationen zu Cookies und den einzelnen Anbietern nachlesen. Sie haben dort auch die Möglichkeit, der nutzungsbasierten Online-Werbung durch einzelne oder durch alle Unternehmen zu widersprechen (http://www.youronlinechoices.com/de/praferenzmanagement/).  
 Wir haben uns freiwillig der Selbstregulierung des Deutschen Datenschutzrat Online-Werbung (DDOW) unterworfen. Informationen zu diesem Thema finden Sie hier unter: http://www.t-online.de/nutzungsbasierte-online-werbung/id\_56770518/index  
@@ -144,7 +133,7 @@ Neben der Veröffentlichung von Statistiken überprüft die IVW das SZM-Verfahre
 Weitere Informationen zum SZM-Verfahren finden Sie auf der Webseite der INFOnline GmbH (www.infonline.de), die das SZM-Verfahren betreibt, der Datenschutzseite der AGOF (http://www.agof.de/datenschutz) und der Datenschutzseite der IVW (http://www.ivw.eu).  
   
 Sie können der Datenverarbeitung durch das SZM jederzeit unter folgendem Link widersprechen: http://optout.ivwbox.de  
-   
+  
 **8\. Was ist Conversion Tracking und wie wird es eingesetzt?**  
 Wenn Sie über eine Google-Anzeige, eine Affiliate-Anzeige oder eine E-Mail der Telekom auf unsere Webseiten gelangt sind, wird von Google AdWords, Metalyzer oder Teradata ein Cookie auf Ihrem Rechner gespeichert. Dieses Cookie verliert nach 30 Tagen seine Gültigkeit. Ein Rückschluss auf Ihre Person ist dabei nicht möglich.  
 Die mit Hilfe des Conversion-Cookies eingeholten Informationen dienen uns dazu, Statistiken über unsere Konversionsrate zu erstellen. Das bedeutet, dass wir erfahren, wie viele Nutzer von einer Google-Anzeige, einer Affiliate-Anzeige oder über eine E-Mail der Telekom kommen und innerhalb von 30 Tagen ein Produkt über unsere Webseiten erwerben.  
@@ -153,7 +142,7 @@ Wenn Sie nicht an dem Tracking-Verfahren teilnehmen möchten, können Sie Cookie
 Google Adwords: googleadservices.com  
 Metalyzer: tracking.mlsat02.de und tracking.metalyzer.com  
 Teradata: email-telekom.de  
-   
+  
 **9\. Datenkontrolle bei den eingesetzten Social Media Plugins**  
 Einige der Telekom Angebotseiten enthalten Buttons von Social Media Netzwerken, mit dem Sie Ihren Freunden und Bekannten die Angebote der Telekom empfehlen können. Damit die volle Datenkontrolle bei Ihnen liegt, zeigen wir beim Laden der Seite an Stelle der tatsächlichen Social Plugins ausgegraute Bilder der jeweiligen Funktionen (Facebook-Like-Button, Google +1, Twitter-Button) an. Erst mit einem Klick auf das Häkchen neben den Bildern wird der Datenaustausch durch das Laden des jeweiligen Social Plugins mit der Webseite aktiviert. Wenn Sie mit Ihrem Klick ein Plugin aktivieren, können folgende Daten an die Seitenbetreiber übermittelt werden:  
   
@@ -168,23 +157,23 @@ Einige der Telekom Angebotseiten enthalten Buttons von Social Media Netzwerken, 
   
   
 Sie können die Einwilligung zur Anzeige der Social Plugins auf dieser Seite mit Wirkung für die Zukunft widerrufen. Beim nächsten Seitenaufruf wird dann erneut ein ausgegrautes Bild anstelle des aktiven Social Plugins gezeigt und es werden keine Daten mehr übermittelt.  
-   
+  
 **10\. Online Chatservice**  
 Sie haben auf unserer Website die Möglichkeit, unseren Online-Chatservice kostenlos und in Echtzeit zu nutzen. Hierfür werden Cookies durch den Chatservicebetreiber LivePerson Netherlands B.V. gesetzt, die eine Analyse der Benutzung der Website ermöglichen. Im Rahmen der gesetzlichen Regelungen legt LivePerson Netherlands B.V. Nutzungsprofile unter einem Pseudonym an. Ein unmittelbarer Rückschluss auf Sie ist dabei nicht möglich. Eine Verknüpfung der Profildaten mit weiteren Informationen über Ihre Person findet nicht statt. Der Erstellung der Nutzungsprofile können Sie jederzeit widersprechen. Die Telekom verwendet die Dienste der Firma LivePerson Netherlands B.V., um statistische Daten über die Nutzung dieser Anwendung zu erheben und unser Angebot entsprechend zu optimieren.  
   
 Opt-Out-Möglichkeit:  
 Für den Ausschluss vom Online Chatservice wird ein Cookie mit dem Namen LPOptOut von der Domain telekom.de und t-mobile.de gesetzt. Das Cookie ist für die genannte Domain, pro Browser und Rechner gesetzt. Falls Sie daher zum Beispiel unsere Webseite von zu Hause und der Arbeit oder mit unterschiedlichen Browsern besuchen, müssten Sie von jedem Rechner und Browser das Cookie gesondert setzen. Zur Vervollständigung des Widerspruchs klicken Sie bitte auf den folgenden Link: Opt-Out-Cookie setzen (https://www.telekom.de/datenschutz/widerspruch-registriert).  
-   
+  
 **11\. Kann ich Auskunft über meine gespeicherten Daten erhalten?**  
 Sie können unentgeltlich Auskunft über den Umfang, die Herkunft und die Empfänger der gespeicherten Daten sowie den Zweck der Speicherung verlangen.  
-   
+  
 **12\. Kann ich Daten berichtigen lassen?**  
 Sie können jederzeit verlangen, dass unrichtige Daten berichtigt werden.  
-   
+  
 **13\. Wo finde ich weitere Informationen zum Thema Datenschutz bei der Telekom?**  
 Weitere Informationen, auch zum Datenschutz zu speziellen Produkten, erhalten Sie unter  
 www.telekom.com/datenschutz und unter www.telekom.de/agb/direkt?AGBID=1162  
-   
+  
 **14\. Wer ist mein Ansprechpartner, wenn ich Fragen zum Datenschutz bei der Telekom habe?**  
 Bei Fragen oder Kommentaren erreichen Sie uns über das Kontakt-Formular. Sie können sich alternativ auch an unseren Kunden­service wenden oder an den Datenschutzbeauftragten der Deutschen Telekom AG, Herrn Dr. Claus D. Ulmer, Friedrich-Ebert-Allee 140, 53113 Bonn, datenschutz@telekom.de.  
   
