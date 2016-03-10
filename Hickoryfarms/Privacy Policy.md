@@ -189,7 +189,7 @@ Need Help?
 If you have any questions or need help with your account, you may Contact Us to assist you.
 
 Customer Service  
-8:30 AM to 8:00 PM EST  
+8:30 AM to 6:00 PM EST  
 
 1.800.442.5671
 
