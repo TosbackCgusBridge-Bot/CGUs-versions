@@ -20,21 +20,6 @@ Parental control
 *   Best of new games
 *   Most Popular Games
 
-*   Racing &. driving games
-*   Girls games
-*   Strategy/rpg games
-*   Management games
-*   Thinking games
-*   Action &. adventure games
-*   Sports games
-*   Shooting games
-*   Fighting games
-*   Skill games
-*   Arcade &. classic games
-*   Fun/crazy games
-*   View All  
-    368 Tags
-
 PRIVACY POLICY
 
 _Last modified: January 15, 2013_
