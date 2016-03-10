@@ -355,6 +355,7 @@ Menu
             *   Denver, CO: How do you help make a healthy community even healthier?
             *   Philadelphia, PA: How can we make the biggest impact on young people’s health?
             *   East St. Louis, IL: Can we work together to improve the health of a community?
+            *   Triangle Region, NC: How can we support young people aging out of the foster care system to become healthy adults?
     *   Everyday health
         *   Everyday health
         *   Science of a different stripe
