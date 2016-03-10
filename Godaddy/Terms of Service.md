@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: March 8, 2016**
+**Last Revised: March 9, 2016**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -225,15 +225,13 @@ If for any reason GoDaddy is unable to charge your Payment Method for the full a
 
 GoDaddy may offer product-level pricing in various currencies. however, transaction processing is supported only in U.S. dollars and a select number of the currency options displayed on this Site ("Supported Currency" or “Supported Currencies”). If the currency selected is a Supported Currency, then the transaction will be processed in the Supported Currency and the pricing displayed during the checkout process will be the actual amount processed and submitted to your bank for payment. If the currency selected is not a Supported Currency, then the transaction will be processed in U.S. dollars and the pricing displayed during the checkout process will be an estimated conversion price at the time of purchase. In either case (whether the currency selected is a Supported Currency or not), if the transaction is processed in a currency that differs from the currency of your bank account, you may be charged exchange rate conversion fees by your bank.  In addition, due to time differences between (i) the time you complete the checkout process, (ii) the time the transaction is processed, and (iii) the time the transaction posts to your bank statement, the conversion rates may fluctuate, and GoDaddy makes no representations or warranties that (a) the amount submitted to your bank for payment will be the same as the amount posted to your bank statement (in the case of a Supported Currency) or (b) the estimated conversion price will be the same as either the amount processed or the amount posted to your bank statement (in the case of a non-Supported Currency), and you agree to waive any and all claims based upon such discrepancies (including any and all claims for a refund based on the foregoing). In addition, regardless of the selected currency, you acknowledge and agree that you may be charged Value Added Tax ("VAT"), Goods and Services Tax ("GST"), or other localized fees and/or taxes, based on your bank and/or the country indicated in your billing address section.
 
-Refund Policy:  Products and Services available for refunds are described here (“Refund Policy”).  For products and services eligible for a refund, you may request a full refund for annual plans within forty five (45) days of purchase and within 48 hours of purchase for monthly plans (each “Refund Period”).  For refunds requested after the Refund Period, an in-store credit will be issued for any unused time remaining on your plan. Unused time will be calculated as the number of months remaining on the purchase term excluding the month in which the refund is requested. In the event you purchase a product that includes a free domain name, if you cancel the product, the list price for the domain name will be deducted from the refund amount. The list price is the price of the domain name listed on GoDaddy’s website and is not subject to any promotion, discount, or other reduction in price.
+_**(B) REFUND POLICY**_
 
-Annual Plans:  Any product purchased for 1 year or greater will be considered an annual plan under the terms of this policy.  Within forty five (45) days, you may request a full refund of the purchase price of the product. After forty five (45) days, you may request an in-store credit for any unused time remaining on your annual plan. Unused time will be pro-rated based on the date of original purchase and, for renewals, the anniversary date of the original purchase date of the product (this is referred to as the Service Date).
+Products and Services available for refunds are described here (“Refund Policy”). 
 
-Monthly Plans:  Any product purchased for less than 1 year will be considered a monthly plan under the terms of this policy.  Within forty eight (48) hours, you may request a full refund of the purchase price of the product. After forty eight (48) hours, you may request an in-store credit for any unused time remaining on your multi-monthly plan excluding the month in which the refund is requested.  Single month plans are not eligible for refunds after forty eight (48) hours.  Unused time will be pro-rated based on the date of original purchase and, for renewals, the monthly scheduled renewal date based on the original purchase date of the product (this is referred to as the Service Date). 
+In the event you purchase a product that includes a free domain name, if you cancel the product, the list price for the domain name will be deducted from the refund amount. The list price is the price of the domain name listed on GoDaddy’s website and is not subject to any promotion, discount, or other reduction in price.
 
-In no event will you be eligible for more than one refund of the same product. 
-
-_**(B) GOOD AS GOLD PREPAID SERVICES**_
+_**(C) GOOD AS GOLD PREPAID SERVICES**_
 
 _Service Details_
 
@@ -259,7 +257,7 @@ Use of funds in your Good As Gold Account can only be made through the GoDaddy p
 
 You will be able to access your Good As Gold Account activity and records from the “Manage Your Account” link on GoDaddy’s website. Your Good As Gold Account will show purchases and the amount of funds remaining in your Good As Gold Account. GoDaddy reserves the right at all times to disclose any information about your Good As Gold Account as GoDaddy deems necessary to satisfy any applicable law, regulation, legal process or governmental request, or to edit, refuse to post or to remove any information or materials, in whole or in part from your Good As Gold Account, in the sole and absolute discretion of GoDaddy.
 
-_**(C) PAY BY CHECK (ELECTRONIC CHECK)**_
+_**(D) PAY BY CHECK (ELECTRONIC CHECK)**_
 
 By using GoDaddy’s pay by check option (“Pay By Check”), you can purchase GoDaddy Services using an electronic check (from your personal or business checking account, as appropriate). In connection therewith, you agree to allow Certegy Check Services, Inc. (“Certegy”) to debit the full amount of your purchase from your checking account (“Checking Account”), which is non-refundable. Certegy will create an electronic funds transfer (“EFT”) or bank draft, which will be presented to your bank or financial institution for payment from your Checking Account. The Checking Account must be at a financial institution in the United States, and the check must be payable in U.S. dollars.
 
@@ -699,7 +697,7 @@ $20.00
 
 By clicking the box labeled “I agree” to the terms of the Pay By Check payment option, you authorize the information provided to be used for the creation of an EFT or bank draft and you authorize a debit of the full amount of your purchase from your Checking Account.
 
-_**(D) PAY BY PAYPAL**_
+_**(E) PAY BY PAYPAL**_
 
 By using GoDaddy’s pay by PayPal payment option (“PayPal”), you can purchase Services using PayPal. In connection therewith, you agree to allow PayPal to debit the full amount of your purchase from your PayPal account (“PayPal Account”) or from credit card(s), bank account(s), or other allowed payment method(s) linked to your PayPal Account (“PayPal Funding Source”).
 
@@ -707,7 +705,7 @@ It is your responsibility to keep your PayPal Account and PayPal Funding Source 
 
 By clicking the box labeled “I agree” to the terms of the PayPal payment option, you authorize a debit of the full amount of your purchase from your PayPal Account or PayPal Funding Source.
 
-_**(E)  INTERNATIONAL PAYMENT OPTIONS**_
+_**(F)  INTERNATIONAL PAYMENT OPTIONS**_
 
 GoDaddy offers a variety of alternative international payment options through a variety of International Payment Providers (“IPP”).  In the event you select an IPP, you represent that you have already agreed to any and all of the IPP’s applicable customer service agreements in advance of completing your transaction at GoDaddy.  You also agree to allow the IPP to debit the full amount of your purchase from the selected bank account, e-wallet account (including credit card(s), bank account(s), or other allowed payment method(s) linked to your e-wallet account) or any other type of account associated with the selected IPP (including but not limited to, prepaid cards and mobile payments), collectively “Funding Sources”. In addition, you agree to allow the selected IPP to debit, if applicable, an “Exchange Rate Conversion Fee”, as well as any other fees or charges applicable to your agreement with the IPP (collectively, the “IPP Fees”), from your Funding Sources. You understand and agree that IPP Fees are subject to change at any time by the IPP without notice to you by GoDaddy.
 
@@ -715,7 +713,7 @@ It is your responsibility to keep your Funding Sources current and funded. You a
 
 If, at the time GoDaddy receives confirmation of payment from the IPP (through its associated payment processor), either (i) the Services (including domain names) are no longer available for purchase. or (ii) a pending order has been cancelled in our systems. or (iii) the confirmation of payment does not match the dollar amount of the pending order, and as a result your purchase is either over-funded or under-funded, GoDaddy may automatically issue a partial refund (in the case of over-funding) or a full refund (in the case of under-funding) to your Funding Source. If the IPP (or its associated payment processor) imposes refund limitations of any kind, GoDaddy reserves the right to issue refunds to an in-store credit balance.  If you receive a full refund, you will need to begin the purchase process again. You acknowledge and agree that the IPP reserves the right not to refund IPP Fees associated with a refunded transaction. Accordingly, any refunds issued by GoDaddy will be net of the IPP Fees unless otherwise specified.
 
-**_(F) IN-STORE CREDIT BALANCES_**
+**_(G) IN-STORE CREDIT BALANCES_**
 
 In the event that your Account contains an in-store credit balance, you may apply any available credit balance to any future purchase in your Account.  In the event that your Account contains an in-store credit balance, you hereby authorize GoDaddy to apply any available credit balance to any outstanding administrative fees, chargebacks or other fees related to your Account.  In the event that your default Payment Method fails for an automated billing in connection with the processing of any Service renewals, GoDaddy may utilize any available in-store credit balance if there are enough funds to cover the entire transaction. Regardless of the amount of in-store credit available in your account, GoDaddy is not responsible for the loss of products resulting from an inability to collect funds from your default Payment Methods or the in-store credit.  In-store credits will be applied based on the currency selected in the shopping cart at the time of purchase (or renewal). If you have more than one in-store credit, then the credits will be processed according to the age of the credit, with the oldest in-store credit being applied first. If additional funds are required to complete the purchase or renewal, credits held in a non-selected currency will be converted using GoDaddy’s daily exchange rate based on the age of the credit (oldest to newest) until (i) enough funds are allocated to complete the transaction, or (ii) there is no available balance left in your account. You understand and agree that at the time of conversion, GoDaddy may also impose an additional administrative fee to compensate for the risks and costs associated with providing currency conversion services.
 
@@ -723,7 +721,7 @@ You can verify your available in-store credit balance at any time by logging int
 
 You also acknowledge that funds available in your in-store credit balance will be held by GoDaddy and will not accrue or pay interest for your behalf. To the extent any interest may accrue, you understand and agree that GoDaddy shall be entitled to receive and keep any such amounts to cover costs associated with supporting the in-store credit balance functionality.
 
-_**(G) GIFT CARDS**_
+_**(H) GIFT CARDS**_
 
 This section sets forth the terms and conditions of Your use of Go Daddy's Gift Card service and its related services (collectively, the "Card").  Go Daddy grants You a non-exclusive license to use the Card, provided, however, that You abide by the terms and conditions set forth herein and in each of Go Daddy's policies and procedures.
 
@@ -737,7 +735,7 @@ The Card is like cash in that it may be used immediately without identification.
 
 Go Daddy reserves the right, in its sole discretion, to deem any value on a Card not redeemed within five (5) years from purchase date to be expired.
 
-_**(H) Expired Domain Name Purchases**_
+_**(I) Expired Domain Name Purchases**_
 
 For expired domains names purchased through Your account, You acknowledge and agree that You are responsible for payment within forty-eight (48) hours of auction close for the successful bid amount plus the one (1) year renewal fee (from the end of the domain name’s previous registration period), plus ICANN fee, if applicable, or any valid payment method associated with the account, will be charged on the third day following the auction close.
 
@@ -784,5 +782,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 3/8/16  
+Revised: 3/9/16  
 Copyright © 2005-2016 GoDaddy.com, LLC All Rights Reserved.
