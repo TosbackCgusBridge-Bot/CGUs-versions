@@ -46,43 +46,7 @@ Connexity
     
 *   Contact
 
-Toggle navigation blog navsite nav
-
-*   Solutions
-    *   CPC Listings
-        *   Retailer Listings
-        *   Retailer Site Monetization
-        *   Publisher Monetization
-    *   Bizrate Insights &. Ratings
-        *   Consumer Insights
-            *   Surveys
-            *   Reporting
-        *   Conversion Boosters
-            *   Seller ratings
-            *   Testimonials
-            *   Badges &. awards
-        *   Competitive Intelligence
-        *   Advisory Services
-        *   Subscriptions
-    *   Programmatic
-        *   Our Audiences
-        *   Your Audiences
-        *   Modeled Audiences
-*   About
-    *   About Connexity
-    *   Open Positions
-    *   Benefits
-    *   Team
-    *   Press
-*   Resources
-    *   Blog
-    *   Case Studies
-        *   Display media
-        *   Insights &. ratings
-        *   Paid search
-    *   Articles &. White Papers
-
-CONTACT Privacy Policy
+Privacy Policy
 
 Last modified on: January 22nd 2016
 
