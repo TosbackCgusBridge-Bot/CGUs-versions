@@ -20,9 +20,9 @@ LENOVO Menu
         7.  Coupon Page
         8.  Deals for Students and Educators
         9.  Clearance PCs
-    *   Lenovo Top Picks Save big on our favorite PCs!
+    *   Save a lot O’ Green Lucky You!
         
-        Sale ends March 9.
+        Sale ends March 17.
         
     *   Clearance Sale Get these deals before they’re gone.
         
