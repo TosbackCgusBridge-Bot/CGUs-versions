@@ -143,7 +143,6 @@ MORE TO EXPLORE
 *   Birthday Party Tips
 *   Our Story
 *   Parenting Articles
-*   Photo Sharing Site
 
 SHOPPING
 
