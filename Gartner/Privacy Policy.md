@@ -52,14 +52,12 @@ Gartner uses third-party service providers such as credit card processing compan
 
 When you register for a Gartner event, we provide necessary information to hotels and to facilities hosting events. These parties are allowed to use that personal information only to provide services relevant to the event.
 
-**Usage Entitlements**  
-Username and Passwords
+**Usage Entitlements -** Username and Passwords
 
 *   Passwords are for user's individual use
 *   Passwords may not be shared with others
 
-**Document Use**  
-Users may not:
+**Document Use -** Users May Not
 
 *   Store documents in shared folders.
 *   Act as a 'librarian' for redistribution of documents to non-users unless otherwise stated in their contract terms.
@@ -92,7 +90,7 @@ We will notify you about significant changes to our Privacy Policy by placing a 
 **Contact Gartner**  
 If you would like to be taken off our marketing lists, please send an e-mail to privacy@gartner.com. For additional questions, please contact the Gartner Privacy Officer nearest you.
 
-Last Updated: September, 2009
+Last Updated: March, 2016
 
 *   About
 *   |
