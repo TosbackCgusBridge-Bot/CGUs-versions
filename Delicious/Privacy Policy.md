@@ -35,7 +35,13 @@ Forgot password?
 
 Sign Up with your email address
 
-Sign up Stay in the loop with Delicious Trending By clicking the button, you agree to the Terms &. Conditions. Sign Up Delicious
+Sign up Stay in the loop with Delicious Trending By clicking the button, you agree to the Terms &. Conditions. Sign Up Forgot Password?
+
+Please enter your username below and press the send button.A password reset link will be sent to you.
+
+If you are unable to access the email address originally associated with your Delicious account, we recommend creating a new account.
+
+Send Delicious
 
 *   Sign In
 *   Sign Up
