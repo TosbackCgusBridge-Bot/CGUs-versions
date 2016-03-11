@@ -94,10 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Mar 8, 2016 2016 Online Trust Audit of "Free" eFile Tax Sites - Webinar
-
-8AM PST -- Join OTA for a briefing of the 2016 Online Trust Audit of IRS approved e-File services. Attend to learn who "made the grade" and what steps all tax and service providers need to embrace during the "tax fraud season". This webinar will review findings in consumer protection, server and infrastructure security and responsible privacy practices. Results will be compared to other segments recently audited including the 2016 Presidential candidates, top 100 FDIC banks and top 500 ecommerce sites.
-
 Tue, May 10, 2016 Middle East (Cyber) Security Awards &. Conference (MESA)
 
 The Global Digital Transformation is posing new challenges to security &. risk executives globally. MESA is an event designed to highlight and discuss the biggest challenges of CISO’s and deliberate ways to address it. While all this is done, MESA is also celebrated by recognizing and awarding the security and risk leaders of Middle East. MESA Conference will be engaging in a dialogue with some of the top experts from the information security and Risk industry to debate and discuss on the key issues and challenges facing the sector.
