@@ -322,6 +322,8 @@ TUBE8 - DMCA DMCA Notice of Copyright Infringement
 
 It is our policy to respond to notices of alleged infringement that comply with the Digital Millennium Copyright Act (For content of the act please refer to http://www.copyright.gov) and/or any other applicable intellectual property legislation or laws. Responses may include removing or disabling access to material claimed to be the subject of infringing activity and/or terminating subscribers. If we remove or disable access in response to such a notice, we will make a good-faith attempt to contact the owner of the affected content so that they may make a counter notification pursuant to sections 512(g)(2) and (3) of that Act. It is our policy to document all notices of alleged infringement on which we act.
 
+The copyright owner's name may be published on Tube8 in place of disabled content. This will become part of the public record of your DMCA Notice, along with your description of the work(s) allegedly infringed. All the information provided in a DMCA Notice and/or the actual DMCA Notice (including your personal information) may be forwarded to the uploader of the allegedly infringing content. By submitting a DMCA Notice, you consent to having your information revealed in this way.
+
 To file a notice of infringement with us, you can submit the notification through the form provided here. This method is the fastest method for submission:
 
 http://www.copyrightcomplianceagency.com/s/tube8.com
