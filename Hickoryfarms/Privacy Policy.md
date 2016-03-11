@@ -159,9 +159,9 @@ My Account
 
 Guarantees
 
-*   100% Satisfaction
-*   Substitution Policy
 *   Security
+*   Substitution Policy
+*   100% Satisfaction
 
 Privacy
 
@@ -205,7 +205,6 @@ Call Us - 1800.753.8558 Sign up for fresh gift ideas and delicious deals Sign up
 *   Find a Store
 *   Order Tracking
 *   Request a Catalog
-*   E-Catalog
 
 *   Customer Service
 *   Contact Us
