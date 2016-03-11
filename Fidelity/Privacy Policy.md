@@ -39,7 +39,7 @@ Search Fidelity.com
     *   AlertsLog In Required
     *   Mutual Funds
     *   Stocks
-    *   Fixed Income &. Bonds
+    *   Fixed Income, Bonds &. CDs
     *   ETFs
     *   Options
     *   Markets &. Sectors
@@ -62,7 +62,7 @@ Search Fidelity.com
     *   Retirement &. IRAs
     *   Trading
     *   Stocks
-    *   Fixed Income &. Bonds
+    *   Fixed Income, Bonds &. CDs
     *   ETFs
     *   Options
     *   Sector Investing
