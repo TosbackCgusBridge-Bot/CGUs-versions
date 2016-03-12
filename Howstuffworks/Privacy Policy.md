@@ -68,11 +68,11 @@ Privacy Policy | HSW NEXT PAGENEXT  
 
 Up Next
 
+*   HowStuffWorks NOW: The Hydra's Mouth is a Hungry Wound
+*   The Fuel Efficiency of Military Vehicles Quiz
+*   We're No. 2!: The Second-best Musicians Quiz
 *   HowStuffWorks NOW: Would crops grown on Mars be safe to eat?
 *   Stuff Mom Never Told You: MENOPAUSE AT 30?!
-*   The Ultimate Endangered Species Quiz
-*   The Daylight Saving Time Quiz
-*   The Ultimate Grateful Dead Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**England Attempts to Clamp Down on — Exclamation Points!**
+**When Will U.S. Subway Design Catch Up With the Rest of the World?**
 
-**Will Speech Recognition Software Mean the End of Accents?**
+**Gaze Into the Disappearing Mouth of the Hydra**
 
-**Does Grandpa Need Help in the Bathroom? Send in C-3PO**
+**Alligators Fatter and Happier Courtesy of Wading Birds**
 
 **See More Headlines »**
 
