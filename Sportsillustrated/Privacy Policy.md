@@ -1,4 +1,4 @@
-Sports Illustrated PRIVACY POLICY Table of Contents
+Style Watch PRIVACY POLICY Table of Contents
 
 *   The Information We Collect
 *   How We Use the Information
@@ -22,7 +22,7 @@ Canada Privacy Information
 
 This is the Privacy Policy which applies to you if you live outside the European Union, Switzerland, Norway, Lichtenstein, Iceland, Australia, New Zealand, and Canada.
 
-Thank you for visiting Sports Illustrated, or using our mobile device applications (the "Apps") or other services (together with the Apps, the "Services"), Services within the network of Time Inc. and its subsidiaries, each of which have adopted this Privacy Policy. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. and its subsidiaries. Click here for a list of the sites of Time Inc. and its subsidiaries which are governed by this Privacy Notice.
+Thank you for visiting Style Watch, or using our mobile device applications (the "Apps") or other services (together with the Apps, the "Services"), Services within the network of Time Inc. and its subsidiaries, each of which have adopted this Privacy Policy. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. and its subsidiaries. Click here for a list of the sites of Time Inc. and its subsidiaries which are governed by this Privacy Notice.
 
 The Information We Collect
 
@@ -138,8 +138,6 @@ Time Customer Service
 Attention: Consumer Affairs  
 3000 University Center Drive  
 Tampa, Florida 33612-6408
-
-http://www.si.com
 
 back to top
 
