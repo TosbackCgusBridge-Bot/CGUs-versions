@@ -94,6 +94,10 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
+Wed, Mar 23, 2016 2016 Online Trust Audit &. Honor Roll - Maximizing Your Score
+
+Methodology webinar: get your website ready for this year's Online Trust Audit by joining Jeff Wilbur, OTA Chairman to hear the latest on methodology updates for 2016. Understand how to maximize your results on brand protection, site security and privacy. Learn why these measures are good business in terms of consumer trust, brand reputation and crucial data protection.
+
 Tue, May 10, 2016 Middle East (Cyber) Security Awards &. Conference (MESA)
 
 The Global Digital Transformation is posing new challenges to security &. risk executives globally. MESA is an event designed to highlight and discuss the biggest challenges of CISO’s and deliberate ways to address it. While all this is done, MESA is also celebrated by recognizing and awarding the security and risk leaders of Middle East. MESA Conference will be engaging in a dialogue with some of the top experts from the information security and Risk industry to debate and discuss on the key issues and challenges facing the sector.
