@@ -1,4 +1,4 @@
-**Last Revised: September 22, 2015**
+**Last Revised: March 11, 2016**
 
 Please read this Domain Name Proxy Agreement ("Agreement") carefully. By using the Services and/or website of Domains By Proxy, LLC, a Delaware limited liability company ("DBP"), You (as defined below) agree to all the terms and conditions set forth both herein and in the DBP privacy policy, which is incorporated by reference and can be found by clicking here.  You acknowledge that DBP may amend this Agreement at any time upon posting the amended terms on its website, and that any new, different or additional features changing the services provided by DBP will automatically be subject to this Agreement. If You do not agree to be bound by, or if You object to, the terms and conditions of this Agreement and any amendments hereto, do not use or access DBP's services. Continued use of DBP's services and its website after any such changes to this Agreement have been posted, constitutes Your acceptance of those changes.
 
@@ -56,7 +56,7 @@ It is Your responsibility to keep Your personal information current and accurate
 
 You agree DBP, as Registrant, will arrange for Your Registrar to charge the credit card You have on file with the Registrar, at the Registrar's then current rates.
 
-Renewal fees, once charged, will be non-refundable. You may also elect to disengage the automatic renewal feature for DBP's private registration services, by logging into Your DBP customer account and disabling the privacy service. It is Your responsibility to keep Your credit card information current and accurate, including the expiration date.
+You may elect to disengage the automatic renewal feature for DBP's private registration services, by logging into Your DBP customer account and disabling the privacy service. It is Your responsibility to keep Your credit card information current and accurate, including the expiration date.
 
 If for any reason DBP and/or the Registrar for Your domain name is unable to charge Your credit card for the full amount of the service provided, or if DBP and/or the Registrar is charged back for any fee it previously charged to the credit card You provided, You agree that DBP and/or the Registrar may, without notice to You, pursue all available remedies in order to obtain payment, including but not limited to immediate cancellation of all services DBP provides to You.
 
