@@ -93,10 +93,9 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     More to explore:
     
     *   Email Sign Up
-    *   Photo Sharing Site
+    *   Birthday Party Ideas
     
     *   My First Birthday Club
-    *   Birthday Party Ideas
     
     *   International Parenting Study
 *   GAMES &. ACTIVITIES Online Games Apps for Kids Online Videos Coloring Pages Crafts for Kids Play &. Learn Activities
