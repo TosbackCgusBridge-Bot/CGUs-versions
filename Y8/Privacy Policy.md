@@ -15,7 +15,7 @@ Play any type of Game at Y8.com. The biggest Game Collection to play free online
 Parental control
 
 *   games
-*   anims
+*   videos
 *   New Games
 *   Best of new games
 *   Most Popular Games
@@ -89,6 +89,7 @@ Parents, if you would like to review your child's personal information, ask to h
 We may change from time to time the terms of Our Privacy Policy. The mention of the terms "Last modified" followed by a date shall indicate You of this occurrence.  
 If you have any questions, you can contact us through our contact form.
 
+*   Y8/IDnet game contest
 *   Advertise
 *   contact form
 *   Submit a game or animation
