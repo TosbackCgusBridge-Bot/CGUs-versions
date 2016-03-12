@@ -103,9 +103,9 @@ Introducing the HX80
 
 Sony on Twitter
 
-Bid to meet Joe Satriani at his DC #surfingtoshockwavetour show! sonyrewards.com
+Hey #NoShoesNation look who’s back in the studio making music.
 
-2016-03-08 23:30:01+00:00
+2016-03-10 17:26:01+00:00
 
 View Tweet
 
@@ -179,9 +179,9 @@ Start Your Trial Now
 
 Sony on Twitter
 
-Excited to announce that #TheMeddler will be at 2016 @Tribeca Film Festival! @LoreneScafaria @SusanSarandon
+@DeJLoaf's video for #Desire made the cut for @Vevo #HotThisWeek. Watch here: vevo.com
 
-2016-03-09 07:17:00+00:00
+2016-03-12 09:21:55+00:00
 
 View Tweet
 
@@ -271,9 +271,9 @@ See the RX100 IV
 
 Sony on Twitter
 
-Amazing roster of @recordstoreday (April 16!) drops from @SonyLegacyRecs
+SPT's #Outsiders renewed by WGN America for a second season.
 
-2016-03-09 08:34:56+00:00
+2016-03-12 07:59:40+00:00
 
 View Tweet
 
@@ -355,6 +355,6 @@ For ProfessionalsCareersContact UsCompany InfoVoluntary Recall
 *   Follow us on Tumblr
 *   Visit us on Tumblr
 
-Facebook Twitter Instagram Vine Tumblr © 2015 SONY CORPORATION OF AMERICA
+Facebook Twitter Instagram Vine Tumblr © 2016 SONY CORPORATION OF AMERICA
 
 Terms and ConditionsPrivacy Policy/Your California Privacy Rights
