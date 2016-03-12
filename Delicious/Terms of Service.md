@@ -44,6 +44,7 @@ If you are unable to access the email address originally associated with your De
 Send Delicious
 
 *   Sign In
+*   Shop
 *   Sign Up
 
 Search
@@ -51,6 +52,7 @@ Search
 Search
 
 *   Sign In
+*   Shop
 *   Sign Up
 
 *   Home
