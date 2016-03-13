@@ -144,16 +144,7 @@ Menu Explore HSBC.com Search
 *   \>
 *   Terms and conditions
 
-Terms and conditions Share click to expand
-
-*   Facebook
-*   LinkedIn
-*   Twitter
-*   Google
-*   RSS 2.0
-*   E-mail
-
-Print Share
+Terms and conditions Share
 
 *   Print this page
 *   E-mail this link
