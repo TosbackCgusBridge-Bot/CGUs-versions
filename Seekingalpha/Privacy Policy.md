@@ -1,5 +1,3 @@
-*   Home
-
 *   Insight Centers
 *   Dividend Investing
 *   ETF Hub
