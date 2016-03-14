@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14631695076
+true true L14635257033
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p07.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Sat Mar 12 11:14:52 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Sun Mar 13 11:15:29 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,50 +49,41 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Extra 25% Off\* with your JCPenney Credit Card Extra 20% Off\* with any other method of payment Online Only | $100 or More | Ends March 12 | Code: 4SAVENOW
-
-OR
-
-Extra 20% Off\* with your JCPenney Credit Card Extra 15% Off\* with any other method of payment In Store and Online | Ends March 12 | Code: 4SAVENOW
+Friends and Family Sale Extra 30% Off\* with your JCPenney Credit Card  
+OR  
+Extra 25% Off\* with any form or payment Starts Now | In Store and Online | March 13-15 | Code: FRIEND Shop Friends and Family Now View Store Ad Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Jewelry Shop Home Shop Handbags
 
 \*Credit offers subject to credit approval.
 
-Print Coupon Exclusions and details: Penney Days Sale -- Buy 1 Get 1 For .01 Any JCPenney Home Bath Towel, Bath Rug, Pillow and Window Covering\*
-
-Reg. $8-$200 | In Store and Online Now Through March 12
-
-\*Buy one JCPenney Home item at regular price, get a second JCPenney Home item of equal or lesser value for one cent, while supplies last.
-
-Shop JCPenney Home Now View Store Ad Shop Curtains and Drapes Shop Bed Pillows Shop Bath Rugs Shop Bath Towels   30 to 50% Off Spring Looks For The Family Now through March 19
+\*Exclusions and details: Get Coupon Home Sale | Up to 50% Off
 
 Select styles
 
-Shop Women Shop Men Shop Kids Shop Shoes       Shoe, Handbag and Accessories Sale | Now through March 19 30 to 40% Off Women's Dress Shoes and Handbags
+Shop All Home Shop Bedding and Bath   Shop Window Shop Kitchen and Dining Shop Furniture and Mattresses 30 to 50% Off Easter Dress Clothes
 
 Select styles
 
-Shop Women's Dress Shoes Shop Handbags   Bra Fit Sale | Now through March 19 20% Off Bras
-
-Select styles, reg. $34-$42  
-When you buy 2 or more
-
-Shop Bras Home Sale | Up to 50% Off
+Shop Men Shop Women Shop Boys Shop Girls       Billion Dollar Jewelry Sale 40 to 60% Off Fine and Fashion Jewelry
 
 Select styles
 
-Shop All Home Shop Bedding Shop Kitchen and Dining Shop Window Shop Furniture and Mattresses JCPenney | portraits
+Shop Jewelry Bra Fit Sale 20% Off Bras
+
+Select styles when you buy 2 or more
+
+Shop Bras SportsFanShop
+
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
+
+Shop SportsFanShop JCPenney | portraits
 
 40% Off Your Photo Purchase
 
-Get Coupon: Best Prom Ever Shop Prom Now Swim Shop
+Get Coupon: Swim Shop
 
 Make a splash in swimwear styles for the family.
 
-Shop Swim Now 50 to 70% Off Clearance
-
-New Markdowns! In Store and Online
-
-Shop Clearance Now
+Shop Swim Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
