@@ -68,11 +68,11 @@ Privacy Policy | HSW NEXT PAGENEXT  
 
 Up Next
 
+*   Stuff You Should Know: The Los Lunas Decalogue Stone &. Target's Gender-Neutral Pillow Fort
+*   The St. Patrick's Day History Quiz
+*   The April Fools' Day Quiz
 *   HowStuffWorks NOW: Lazer Team: An Interview With Burnie Burns
 *   HowStuffWorks Now: My Robot Friend
-*   Stuff They Don't Want You to Know: How close are we to artificial intelligence?
-*   HowStuffWorks NOW: The Hydra's Mouth is a Hungry Wound
-*   The Fuel Efficiency of Military Vehicles Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
+**Discovery of Horse-sized Dinosaur Sheds Light on T. Rex Evolution**
+
 **The Power of Crowds: The 'Lazer Team' Story**
 
 **Hanging With the Robot Experts at SXSW Interactive 2016**
-
-**When Will U.S. Subway Design Catch Up With the Rest of the World?**
 
 **See More Headlines »**
 
