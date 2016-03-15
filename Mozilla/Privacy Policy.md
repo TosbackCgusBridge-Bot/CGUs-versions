@@ -7,7 +7,7 @@ Mozilla Menu
 
 Home >. Mozilla Privacy >. Websites, Communications &. Cookies Privacy Notice
 
-June 1, 2015
+March 14, 2016
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our Mozilla Privacy Policy describes how we handle that information.
 
@@ -40,7 +40,7 @@ We may use cookies, clear GIFs, third party web analytics, device information, a
 *   **Metrics**: Clear GIFs, cookies and third party services help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
     
     *   Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites. This helps us to improve site content.
-    *   Optimizely, which places a cookie on your device, to help us test variations of web content. This helps us offer better web experiences to users.
+    *   Optimizely and ShareProgress, which place a cookie on your device, to help us test variations of web content. This helps us offer better web experiences to users.
     *   Flashtalking, which uses a clear GIF on our download Firefox page. This helps us measure the effectiveness of our advertising campaigns.
 
 You can control individual cookie preferences, indicate your cookie preferences to others, select text only emails, and opt-out of web analytics and optimization tools.
@@ -51,7 +51,7 @@ You can control individual cookie preferences, indicate your cookie preferences 
     
 *   **Email**: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your Mozilla email preferences. You can disable the functionality of clear GIFs by viewing emails from us in “text only” format.
     
-*   **Analytics &. Optimization**: If you do not want data about your visits to Mozilla websites to be collected by Google Analytics, you can install the Google Analytics Opt-out Browser Add-on. The add-on keeps your visits anonymous and prohibits data transmission to Google Analytics. If you do not want data about your visits to Mozilla websites to be collected by Optimizely, you can opt-out on www.mozilla.org or visit Optimizely's opt-out website for more information. Some Mozilla.org pages also use clear GIFs to understand the effectiveness of our advertising campaigns. You can opt-out by going to the “Your Choices” section of Flashtalking’s Privacy Policy and selecting “Click here to opt-out”.
+*   **Analytics &. Optimization**: If you do not want data about your visits to Mozilla websites to be collected by Google Analytics, you can install the Google Analytics Opt-out Browser Add-on. The add-on keeps your visits anonymous and prohibits data transmission to Google Analytics. If you do not want data about your visits to Mozilla websites to be collected by Optimizely, you can opt-out on www.mozilla.org or visit Optimizely's opt-out website for more information. If you do not want data about your visits to Mozilla websites to be collected by ShareProgress, you can turn on Do Not Track in your browser. Some Mozilla.org pages also use clear GIFs to understand the effectiveness of our advertising campaigns. You can opt-out by going to the “Your Choices” section of Flashtalking’s Privacy Policy and selecting “Click here to opt-out”.
     
 *   **Social Media**: The social sharing buttons on Mozilla websites are designed not to share data with the social media provider until you specifically click the button.
     
