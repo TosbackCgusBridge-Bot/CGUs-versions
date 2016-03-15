@@ -1,4 +1,4 @@
-By using Indeed, you agree to our new Terms. Find JobsFind ResumesEmployers / Post Job Upload your resume Sign in What: Where: Advanced Job Search       job title, keywords or company city, state, or zip **Cookies, Privacy and Terms of Service** About Indeed **Company Info**
+By using Indeed, you agree to our new Terms. × Find JobsFind ResumesEmployers / Post Job Upload your resume Sign in What: Where: Advanced Job Search       job title, keywords or company city, state, or zip **Cookies, Privacy and Terms of Service** About Indeed **Company Info**
 
 *   Company Information
 *   Press Releases
