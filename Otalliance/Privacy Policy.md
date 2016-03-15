@@ -113,6 +113,10 @@ The 2016 Privacy Risk Summit will bring together leading privacy practitioners, 
 *   OTA Blog
 *   Newsletters
 
+Tue, Mar 15, 2016 IoT Trust Framework Released - Momentum Growing
+
+The Online Trust Alliance’s IoT Trust Framework is rapidly evolving to be the foundation of an international effort to integrate security, privacy and sustainability in IoT devices and services. Developed over the past twelve months, the Framework represents collective input from over 100 organizations who, through a multi-stakeholder process, established a baseline Framework of 30 essential criteria.
+
 Mon, Mar 7, 2016 RSA 2016 Recap
 
 2016 marked the second consecutive year where OTA was named as an industry sponsor for the RSA Conference.  OTA's participation included a range of member and press briefings and activities. Highlights included the RSA member meet-up and "**Blended Intelligence**" reception at the Contemporary Jewish Museum, organized by IID/Infoblox.  In partnership with OTA founding members IID, TRUSTe and ThreatWave, the reception was noted as one of the best RSA events to connect, network and collaborate. 
@@ -124,12 +128,6 @@ Keep your brand off the spam list through best practices in honoring unsubscribe
 Wed, Feb 24, 2016 Trust and Taxes
 
 Tax season.  It's that time again for taxpayers and cybercriminals. While earners work to complete their 1040s, criminals tune their tax fraud campaigns with increased sophistication. Reputable companies are being victimized, tarnishing their brands and impacting their business models, employees and shareholders.  In today’s world knowing who you can trust is crucial to navigating the tax season -- but sadly, many companies are failing security fundamentals, consumer protection and responsible privacy practices.
-
-Fri, Jan 29, 2016 Getting Ready for the 2016 Online Trust Audit
-
-Updated - February 15, 2016
-
-Got Trust?  The Online Trust Audit continues to serve as benchmark of security, privacy and consumer protection best practices for organizations throughout the world.  Consistent with OTA's view such standards and practices need to continually evolve to reflect the threat landscape, new standards and regulatory requirements, this year's methodology and scoring is being updated.
 
 More >>. Resources
 
