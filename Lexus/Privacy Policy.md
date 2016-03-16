@@ -422,22 +422,8 @@ Safety Recalls &. Service Campaigns
 
 ©2006-2016 Lexus, a Division of Toyota Motor Sales, U.S.A., Inc. All information contained herein applies to U.S. vehicles only.
 
-Close Your browser is currently not supported.
+Notice for Internet Explorer Users
 
-Lexus.com was built using the latest web technologies. In order to provide you with the best experience, please upgrade your browser to the latest version or download a new browser:
+To ensure your experience on lexus.com is as exceptional as our vehicles, we no longer support Internet Explorer Version 10 and older. We do, however, support Version 11 and other browsers. Click here to upgrade your current browser or, to install a new one, select a link below.
 
-*   Google
-    
-    Chrome
-    
-*   Mozilla
-    
-    Firefox
-    
-*   Microsoft
-    
-    Internet Explorer
-    
-*   Apple
-    
-    Safari
+Firefox Google Chrome
