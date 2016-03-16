@@ -59,11 +59,19 @@ Sony on YouTube
 
 Play Video
 
-Celebrating Pi Day the Right Way
+PlayStation VR Ready for You in October
 
-Enjoy 3/14
+Find Out More
 
-Sony on Vine
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Find Out More
 
 Love Brainteasers?
 
