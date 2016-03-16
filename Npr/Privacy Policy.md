@@ -76,6 +76,7 @@ Back News and Conversations
 *   Fresh Air
 *   Here &. Now
 *   The Diane Rehm Show
+*   Embedded
 *   Latino USA
 *   NPR Politics Podcast
 *   On Point
@@ -229,9 +230,7 @@ Back
 
 Back
 
-*   Institutional Giving
-*   Individual Giving
-*   NPR Foundation
+*   Support Public Radio
 *   Corporate Sponsorship
 
 Back
@@ -492,6 +491,7 @@ Become an NPR sponsor
     *   The Best Of Car Talk
     *   Bullseye
     *   The Diane Rehm Show
+    *   Embedded
     *   Fresh Air
     *   Here &. Now
     *   Hidden Brain
