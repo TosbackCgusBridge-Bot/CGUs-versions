@@ -1,8 +1,4 @@
-Post a Job Search Resumes New Year, New Site
-
-You can now purchase and post jobs as well as access the resume database from here.
-
-Got It!
+Post a Job Search Resumes
 
 *   Browse Products
     *   Broadbean Job Distribution  
