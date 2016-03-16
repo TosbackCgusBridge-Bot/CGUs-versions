@@ -7,7 +7,7 @@ Contents
 *   Wayfair's Copyright Policy
 *   Wayfair Rewards Program Terms
 *   Wayfair Giveaway Sweepstakes Official Rules
-*   Wayfair eGift Card Terms and Conditions
+*   Wayfair Gift Card Terms and Conditions
 *   Becoming a Supplier
 *   Send Us Your Suggestions
 *   Contact Us
@@ -489,12 +489,13 @@ _\*For the Prize, the home goods products style, color and size are subject to i
 
 **SPONSOR:** Wayfair LLC LLC, 4 Copley Place, Floor 7, Boston, MA 02116
 
-Wayfair eGift Card Terms and Conditions
+Wayfair Gift Card Terms and Conditions
 
-The following terms and conditions (the "Terms") apply to any Wayfair electronic gift card originally purchased by you or someone on your behalf (the "gift card") through the Wayfair website. Gift cards are issued by Wayfair LLC (referred to hereinafter as either "AllModern", "DwellStudio", Wayfair", "we", "us" or "our"). By purchasing a gift card, accepting and retaining a gift card, or using a gift card, you agree to these Terms.
+The following terms and conditions (the "Terms") apply to any Wayfair gift card originally purchased by you or someone on your behalf (the "gift card") through one of the Wayfair websites. Gift cards are issued by Wayfair LLC (referred to hereafter as either “Wayfair,” “Wayfair Supply,” “AllModern,” “DwellStudio,” “Birch Lane,” “Joss &. Main,” “we,” “us,” or “our”). By purchasing a gift card, accepting and retaining a gift card, or using a gift card, you agree to these Terms.
 
-*   Gift cards are only valid in the United States of America and Canada. Void where prohibited.
-*   Gift cards can only be redeemed through one of the Wayfair websites.
+*   Gift cards do not expire.
+*   Gift cards are only valid in the country in which they were purchased. Void where prohibited.
+*   Gift cards can only be redeemed through one of the Wayfair websites: Wayfair.com, WayfairSupply.com, AllModern.com, DwellStudio.com, BirchLane.com, JossandMain.com (Wayfair U.S.). Wayfair.ca (Wayfair Canada). Wayfair.co.uk (Wayfair UK). or Wayfair.de (Wayfair Germany).
 *   Gift cards cannot be used to purchase gift cards.
 *   Gift cards are not redeemable for cash and cannot be returned for a cash refund, except to the extent required by law.
 *   Use of the gift card is limited to the amount of funds held on the gift card. The full amount of each purchase, including taxes, will be deducted from the funds held on the gift card, up to the total funds available on the gift card. Any unused balance will be placed in the recipient's gift card account and is not transferable. If you make a purchase and there are insufficient funds held on the gift card to cover that purchase, you must pay the difference by a valid credit card or debit card.
@@ -706,7 +707,7 @@ Beware of companies who mask their shipping charges and surprise you with prohib
 
 Please refer to the following chart to understand the specific shipping rates for items that fall under our Shipping Policy:
 
-Order Amount Standard Shipping Cost Rewards Member Shipping Cost < $49 $6.99 $4.99 ≥ $49 Free! Free!
+Order Amount Standard Shipping Cost < $49 $4.99 ≥ $49 Free!
 
 Exclusions: Certain products we offer do carry associated shipping charges either per item or per order amount. The total item shipping charges, if any, will be detailed in the shopping cart page prior to checkout.
 
