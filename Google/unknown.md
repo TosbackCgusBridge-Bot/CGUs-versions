@@ -144,7 +144,7 @@ AdSense
 
 More Solutions from Google
 
-Google Business Solutions
+Business Solutions
 
 Google Apps for Work
 
