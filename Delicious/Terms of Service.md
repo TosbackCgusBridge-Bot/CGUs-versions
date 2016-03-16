@@ -55,6 +55,8 @@ Search
 *   Shop
 *   Sign Up
 
+ADVERTISEMENT
+
 *   Home
 *   User
 *   html
@@ -76,9 +78,12 @@ Following: 0 Users
 
 Search by Tag html has no links with the tags: terms.html. See all links tagged terms.html
 
+ADVERTISEMENT ADVERTISEMENT
+
 *   Home
 *   About
 *   Apps
+*   Blog
 *   Branding
 *   Copyright
 *   Help
