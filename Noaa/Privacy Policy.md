@@ -103,7 +103,6 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Satellite imagery, reports, launch information
 *   Climate data and reports
 *   Budgets, grants and Corporate Services
-*   Educational resources
 
 Enter Search Terms Dive with the crew of the Okeanos Explorer AROUND NOAA // Explorers welcome here: Discover the new NOAA.gov What is marine debris? Record annual increase of carbon dioxide observed at Mauna Loa for 2015
 
