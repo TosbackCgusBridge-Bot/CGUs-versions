@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14576807582
+true true L14648661448
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p07.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Tue Mar 15 11:15:30 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Wed Mar 16 11:14:15 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,17 +49,15 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Friends and Family Sale Extra 30% Off\* with your JCPenney Credit Card  
-OR  
-Extra 25% Off\* with any form or payment Starts Now | In Store and Online | March 13-15 | Code: FRIEND Shop Friends and Family Now View Store Ad Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Jewelry Shop Home Shop Handbags
+Spend $25 or More and Get $10 Off\* In Store and Online | Ends March 19 | Code: MARSALE
 
-\*Credit offers subject to credit approval.
+OR
 
-\*Exclusions and details: Get Coupon Home Sale | Up to 50% Off
+Extra 25% Off\* $100 or More Or, Extra 20% Off\* Online Only | Ends March 19 | Code: 4SPRING Print Coupon Exclusions and details: Super Saturday Sale Starts Now! | In Store and Online | March 16-19 Shop Super Saturday Sale Now View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags Shop Shoes Home Sale | Up to 50% Off
 
 Select styles
 
-Shop All Home Shop Bedding and Bath   Shop Window Shop Kitchen and Dining Shop Furniture and Mattresses 30 to 50% Off Easter Dress Clothes
+Shop All Home Shop Bedding and Bath   Shop Window Shop Kitchen and Dining Shop Furniture and Mattresses 40 to 50% Off Easter Dress Clothes
 
 Select styles
 
