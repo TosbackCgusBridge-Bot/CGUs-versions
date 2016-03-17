@@ -83,12 +83,12 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   Sleeping &. Soothing
     *   Traveling
     
-    *   See what's most important to moms around the world.
-    *   The Happy Factor
+    *   best possible start: A film by you
+    *   Watch now
     
     *   Introducing Grow Parenting App  
         Learn more >.
-    *   Learn More
+    *   Learn more
     
     More to explore:
     
