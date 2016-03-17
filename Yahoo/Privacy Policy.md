@@ -12,7 +12,6 @@
 *   Mobile
 *   **Plus** _⋁_
     *   Messenger
-    *   Horoscopes
 
 Yahoo Settings
 
