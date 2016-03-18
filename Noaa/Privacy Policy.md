@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Research Marine &. Aviation Airborne researchers giving weather forecasters detailed look at atmospheric river Oceans &. Coasts Video: The Last Grand Challenge National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Research Marine &. Aviation Airborne researchers giving weather forecasters detailed look at atmospheric river Oceans &. Coasts Video: The last grand challenge National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -104,7 +104,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Climate data and reports
 *   Budgets, grants and Corporate Services
 
-Enter Search Terms Dive with the crew of the Okeanos Explorer AROUND NOAA // Explorers welcome here: Discover the new NOAA.gov What is marine debris? Record annual increase of carbon dioxide observed at Mauna Loa for 2015
+Enter Search Terms Spring outlook: moderate flood risk for drenched Louisiana, east Texas AROUND NOAA // Explorers welcome here: Discover the new NOAA.gov February global temperature anomaly sets new record for the globe United States and Cuba open doors to marine science cooperation
 
 *   About our agency
 *   News and features
