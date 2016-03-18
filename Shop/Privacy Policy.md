@@ -17,9 +17,8 @@ LENOVO Menu
         4.  Tablet Deals
         5.  Accessories Deals
         6.  Ready to Ship PCs
-        7.  Coupon Page
-        8.  Deals for Students and Educators
-        9.  Clearance PCs
+        7.  Deals for Students and Educators
+        8.  Clearance PCs
     *   Save a lot O’ Green Lucky You!
         
         Sale ends March 17.
@@ -83,7 +82,7 @@ LENOVO Menu
 *   Search
     
 
-Offers
+Filter by specs Offers
 
 *   View cart
 
