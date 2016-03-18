@@ -111,9 +111,9 @@ Close
 
 Join Us
 
-When Product Design Is Inspired by Interior Design
+Discover New Ways to Transform Your Living Space
 
-Introducing the X850D Series
+Design a Smarter Home
 
 Close
 
@@ -123,7 +123,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Introducing the X850D Series
+Design a Smarter Home
 
 The Portable Speaker for People Inspired by Music
 
