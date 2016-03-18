@@ -68,11 +68,11 @@ Privacy Policy | HSW NEXT PAGENEXT  
 
 Up Next
 
-*   FW: Thinking: Megatall Buildings
-*   HowStuffWorks NOW: Magic, Hacking and Social Engineering
-*   10 Things That Aren't Free Speech
-*   Stuff Mom Never Told You: Second Wave Feminism without White Women
-*   HowStuffWorks NOW: Autonomous Cars Are Coming And You Can’t Have One
+*   HowStuffWorks NOW: Squid Tooth Biomaterials Could Make You Stronger
+*   The Ultimate 'Metroid' Quiz
+*   The Batman vs. Superman Quiz
+*   The Shocking Olympic Scandals Quiz
+*   The Ultimate Sherlock Holmes Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Dynamic Duo's Run on 'Batman' Comic Comes Full Circle**
+**From Prison to Peace Park, a Plan for Guantanamo**
 
-**Lena Dunham Got Us Thinking About Ovarian Cysts**
+**Squid Teeth and Spider Silk Heal Your Future Body**
 
-**Just What Was the Tully Monster? New Science Finally Explains the Enigma**
+**Slugs Might Save Your Plane From Icy Wings**
 
 **See More Headlines »**
 
