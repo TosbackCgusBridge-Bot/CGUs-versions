@@ -12,7 +12,7 @@ or
 
 Sign Up with your email address
 
-Add Tags Type tags to add Cancel Add Tags Duplicate Tags Common tags to remove Cancel Remove Tags Rename Tags Select a tag to rename New tag name Cancel Rename Tag Add Bookmark URL Title Tags (Separated by comma) Comment (Max. 1000 characters) Private Public Cancel Save Link Share It With Others! Type Emails or User Names (comma-separated) Link shares via email will come from your email address so recipients know it's you and can reply. Share
+Add Tags Type tags to add Cancel Add Tags Duplicate Tags Common tags to remove Cancel Remove Tags Rename Tags Select a tag to rename New tag name Cancel Rename Tag Share It With Others! Type Emails or User Names (comma-separated) Link shares via email will come from your email address so recipients know it's you and can reply. Share
 
 *   Twitter
 *   Facebook
