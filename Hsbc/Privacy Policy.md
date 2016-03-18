@@ -41,8 +41,8 @@ Menu Explore HSBC.com Search
         *   Internal control
         *   Obligations of senior financial officers
         *   Employee share plans
-    *   Procurement expandProcurement
-        *   Purchase order terms and conditions
+    *   Procurement
+        
     *   Contact us
         
 *   Citizenship in Citizenship
