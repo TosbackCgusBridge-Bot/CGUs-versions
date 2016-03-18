@@ -206,10 +206,10 @@ Explore More Deals
 *   Cheap Cruises
 *   Cheap Vacations
 *   Cheap Events
-*   CheapTravelDeals
+*   Cheap Travel Deals
 *   Travel Blog
 
-Cheap Tickets
+CheapTickets
 
 *   About CheapTickets
 *   Investor Relations
