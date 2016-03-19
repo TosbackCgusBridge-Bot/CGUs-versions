@@ -68,11 +68,11 @@ Privacy Policy | HSW NEXT PAGENEXT  
 
 Up Next
 
+*   HowStuffWorks NOW: Mayor Kasim Reed on the Future of Atlanta as a "Smart City"
 *   HowStuffWorks NOW: Squid Tooth Biomaterials Could Make You Stronger
 *   The Ultimate 'Metroid' Quiz
 *   The Batman vs. Superman Quiz
 *   The Shocking Olympic Scandals Quiz
-*   The Ultimate Sherlock Holmes Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**From Prison to Peace Park, a Plan for Guantanamo**
+**Does Your Doctor Screen You for Depression? Why Not?**
 
-**Squid Teeth and Spider Silk Heal Your Future Body**
+**The Goodyear Eagle-360 Concept Reinvents the Wheel**
 
-**Slugs Might Save Your Plane From Icy Wings**
+**Sea Monkey Superpowers Come With a Price**
 
 **See More Headlines »**
 
