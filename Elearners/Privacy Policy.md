@@ -168,9 +168,9 @@ By entering my email address and clicking "Subscribe" I agree to be contacted by
 
 Popular Topics:
 
-*   Online Colleges
 *   Online Degrees
-*   Online Courses
+*   Online Certificates
+*   Online Colleges
 
 Online Degrees By Level
 
