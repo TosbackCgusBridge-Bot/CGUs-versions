@@ -19,9 +19,9 @@ LENOVO Menu
         6.  Ready to Ship PCs
         7.  Deals for Students and Educators
         8.  Clearance PCs
-    *   Save a lot O’ Green Lucky You!
+    *   Markdown Madness Your ticket to BIG savings!
         
-        Sale ends March 17.
+        Sale ends March 23.
         
     *   Clearance Sale Get these deals before they’re gone.
         
@@ -366,4 +366,4 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Order Status
     *   Support
 
-trusteValidation 2016 Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of Use
+trusteValidation 2016 Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission Policy
