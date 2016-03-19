@@ -65,7 +65,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Swim Shop 2016
             
             *   New Arrivals
-            *   Spring Style Guide
+            *   Vacation Getaway
             *   Tailored Fit Shop
             *   Big &. Tall Shop
             *   Sale
@@ -86,7 +86,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Pants
             *   Jeans
             *   Shorts
-            *   Swimsuits
+            *   Swimwear
             *   Coats
             *   Accessories
             *   Sleepwear
@@ -98,7 +98,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Kids Featured Shops
             *   Swim Shop
-            *   Easter Dressing
+            *   Dress Up
             *   School Uniforms
             *   Shoes &. Sandals
             
@@ -134,7 +134,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Backpacks &. Lunch Boxes
     *   *   **Boys**
             *   Back to Kids Boys
-            *   Swimsuits
+            *   Swimwear
             *   Tops
             *   Sweaters
             *   Pants
@@ -161,16 +161,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Beach Towels
         *   Women's Swim Finder
         *   Sale
-*   Outerwear
-    *   *   Back to Main Menu Outerwear
-        *   Shop Outerwear
-        *   Women
-        *   Men
-        *   Girls
-        *   Boys
-        *   Hats, Gloves &. Scarves
-        *   Snow Boots
-        *   Long Underwear
 *   Shoes
     *   *   Back to Main Menu Shoes
         *   Shop Shoes
@@ -180,9 +170,9 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Boys
         
         *   Water Shoes &. Sandals
-        *   Accessories Shop
+        *   Trekkers Mocs &. More
         *   Boots &. Booties
-        *   Slippers
+        *   Accessories Shop
         *   Sale
 *   Home
     *   *   Back to Main Menu Home
@@ -190,7 +180,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Back to Home Featured Shops
             *   New Arrivals
             *   Supima Bedding &. Bath
-            *   Flannel Bedding
+            *   Oxford Bedding
             *   No Iron Bedding
             *   Canvas Totes &. More
             *   Sale
