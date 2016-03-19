@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14653761322
+true true C14591247787
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Thu Mar 17 11:15:27 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Fri Mar 18 11:15:07 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,59 +49,35 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Happy St. Patrick's Day -- Hats Off To Big Savings! Extra 25% Off or 10% Off select watches, salon products, furniture, mattresses, custom blinds and shades. Today Online Only | Code: LUCKYDAY Shop Now 40% Off Bras
+Spend $25 or More and Get $10 Off\* In Store and Online | Ends March 19 | Code: MARSALE
 
-Select styles, when you buy 2 or more
+OR
 
-Shop Bras 30 to 60% Off Fashion Jewelry and Fashion Silver
+Extra 25% Off\* $100 or More Or, Extra 20% Off\* Online Only | Ends March 19 | Code: 4SPRING Print Coupon Exclusions and details: Super Saturday Sale Starts Now! | In Store and Online | March 16-19 Shop Super Saturday Sale Now View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags Shop ShoesNight and Day Doorbusters
 
-Select styles
+Friday 3PM CST Through Saturday 1PM CST.
 
-Shop Fashion Jewelry and Silver 50% Off Men's Suit Separates, Sport Coats and Dress Pants
-
-Select styles
-
-Shop Men's Suits 40% Off Dresses
+Shop Doorbusters Home Sale | Up to 50% Off
 
 Select styles
 
-Shop Dresses 50% Off Boys' and Girls' Arizona Apparel
+Shop All Home Shop Bedding and Bath   Shop Window Shop Kitchen and Dining Shop Furniture and Mattresses 40 to 50% Off Easter Dress Clothes
 
 Select styles
 
-Shop Kids' Arizona 40 to 50% Off Kids' Dress Clothes
+Shop Men Shop Women Shop Boys Shop Girls       Billion Dollar Jewelry Sale 40 to 60% Off Fine and Fashion Jewelry
 
 Select styles
 
-Shop Kids' Dress Clothes 40 to 50% Off Men's St. John's Bay Sportswear
+Shop Jewelry 40% Off Juniors' Prom Dresses
 
 Select styles
 
-Shop St. John's Bay 49.99 Converse Shoes
+Shop Prom Dresses50% Off Guys' Suit Separates, Sport Coats and Dress Pants
 
 Select styles
 
-Excluded from coupon.
-
-Shop Men's Converse Shop Women's Converse 119.99 + Extra 15% Off Keurig K55 Brewer
-
-Small appliances excluded from coupon. 15% off reflected at checkout.
-
-Shop Keurig Up to 50% Off Bedding
-
-Select styles
-
-Shop Bedding 40% Off Handbags and Wallets
-
-Select styles
-
-Shop Handbags and Wallets Buy 1 Get 1 Free\* -- Juniors' Arizona Apparel
-
-Select styles
-
-\*Buy one Arizona item at regular price, get a second Arizona item of equal or lesser value for free, while supplies last.
-
-Shop Arizona SportsFanShop
+Shop Guys' Dress Clothes Shop Shoes Shop Fashion Jewelry     SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
