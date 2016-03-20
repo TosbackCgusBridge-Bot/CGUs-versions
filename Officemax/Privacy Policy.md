@@ -1,5 +1,7 @@
 SEG1 hp
 
+*   ×
+
 *   Weekly Ad
 *   Office Depot Business Solution
 *   OfficeMax Workplace
@@ -15,7 +17,7 @@ SEG1 hp
 
 Office Depot Deals
 
-v-iS-FFn\_2RWu94BSALpVHj
+JD94tvkKfplA6TykgbT8peI
 
 Search Suggestions
 
@@ -245,7 +247,7 @@ Your session will time out in 120 seconds.
 
 You will be automatically logged out if you do not click on the button below.
 
-http://officedepot.ugc.bazaarvoice.com 2563 http://static.www.odcdn.com/images/us/od/
+http://officedepot.ugc.bazaarvoice.com 2563 http://static.www.odcdn.com/images/us/od/ Placeholder
 
 This promotion is for Rewards members only. To take advantage of exclusive offers like these, join Office Depot® OfficeMax® Rewards now!
 
