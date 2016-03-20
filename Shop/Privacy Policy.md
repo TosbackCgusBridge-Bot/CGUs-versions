@@ -16,9 +16,8 @@ LENOVO Menu
         3.  Desktop Deals
         4.  Tablet Deals
         5.  Accessories Deals
-        6.  Ready to Ship PCs
-        7.  Deals for Students and Educators
-        8.  Clearance PCs
+        6.  Deals for Students and Educators
+        7.  Clearance PCs
     *   Markdown Madness Your ticket to BIG savings!
         
         Sale ends March 23.
