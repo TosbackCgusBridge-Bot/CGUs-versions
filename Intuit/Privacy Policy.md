@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14658229313
+true true L14661168886
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p13.jcpenney.com SERVER NAME :->. dtcomexpr1l1j6 TIME :->. Sat Mar 19 11:15:26 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Sun Mar 20 11:13:50 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,35 +49,31 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Spend $25 or More and Get $10 Off\* In Store and Online | Ends March 19 | Code: MARSALE
-
-OR
-
-Extra 25% Off\* $100 or More Or, Extra 20% Off\* Online Only | Ends March 19 | Code: 4SPRING Print Coupon Exclusions and details: Super Saturday Sale Starts Now! | In Store and Online | March 16-19 Shop Super Saturday Sale Now View Store Ad Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags Shop ShoesNight and Day Doorbusters
-
-Friday 3PM CST Through Saturday 1PM CST.
-
-Shop Doorbusters Home Sale | Up to 50% Off
+40 to 50% Off Easter Dress Up for the Family
 
 Select styles
 
-Shop All Home Shop Bedding and Bath   Shop Window Shop Kitchen and Dining Shop Furniture and Mattresses 40 to 50% Off Easter Dress Clothes
+Shop Men Shop Women Shop Kids Shop Baby      Last Day: Order by Today, 3/20, for delivery by Easter. Home Sale Up to 50% Off Select Home Items
+
+Small appliances excluded from coupon.
+
+Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses Shop KitchenAid Nike Sale 25% Off Nike for the Family Shop All Nike Shop Women Shop Men Shop Girls Shop Boys      
+
+Select styles. MSRP $18-$50. Nike excluded from coupon.
+
+Shop Women's Shoes Shop Men's Shoes
+
+Select styles. MSRP $60-$85.
+
+Billion Dollar Jewelry Sale Up to 60% Off Jewelry
 
 Select styles
 
-Shop Men Shop Women Shop Boys Shop Girls       Billion Dollar Jewelry Sale 40 to 60% Off Fine and Fashion Jewelry
+Shop Jewelry Limited Time In Store Only! Ends March 26 Extra 25% Off Already Reduced
 
-Select styles
+50 to 80% Off Clearance
 
-Shop Jewelry 40% Off Juniors' Prom Dresses
-
-Select styles
-
-Shop Prom Dresses50% Off Guys' Suit Separates, Sport Coats and Dress Pants
-
-Select styles
-
-Shop Guys' Dress Clothes Shop Shoes Shop Fashion Jewelry     SportsFanShop
+Find a StoreOr Shop 50 to 80% Off Clearance Online Shop Clearance SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
@@ -85,11 +81,7 @@ Shop SportsFanShop JCPenney | portraits
 
 40% Off Your Photo Purchase
 
-Get Coupon: Swim Shop
-
-Make a splash in swimwear styles for the family.
-
-Shop Swim Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Get Coupon Best Prom Ever Shop Prom Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
