@@ -104,7 +104,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Climate data and reports
 *   Budgets, grants and Corporate Services
 
-Enter Search Terms Spring outlook: moderate flood risk for drenched Louisiana, east Texas AROUND NOAA // Explorers welcome here: Discover the new NOAA.gov February global temperature anomaly sets new record for the globe United States and Cuba open doors to marine science cooperation
+Enter Search Terms Spring outlook: moderate flood risk for drenched Louisiana, east Texas AROUND NOAA // Explorers welcome here: Discover the new NOAA.gov Last light: Sunset at the South Pole United States and Cuba open doors to marine science cooperation
 
 *   About our agency
 *   News and features
