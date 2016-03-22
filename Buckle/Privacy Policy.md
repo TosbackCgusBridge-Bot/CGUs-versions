@@ -1,4 +1,4 @@
-Enter now for a chance to win a Buckle gift card!
+Free drawstring bags with a qualifying brand purchase.
 
 Guest Services 800-607-9788
 
