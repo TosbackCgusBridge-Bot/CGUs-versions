@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14661168886
+true true L14668148816
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Sun Mar 20 11:13:50 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p13.jcpenney.com SERVER NAME :->. dtcomexpr1l1j5 TIME :->. Mon Mar 21 11:15:29 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,15 +49,15 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-40 to 50% Off Easter Dress Up for the Family
+2 Days Only | Ends March 22 | Online Only | Code: NOWSHOP2 \*Get details:50% Off\* select orig and reg-priced styles Shop Bedding and Bath Shop Window Shop Luggage40% Off\* select orig and reg-priced styles Shop Furniture and Mattresses Shop Home Decor30% Off\* select orig and reg-priced styles Shop Kitchen and Dining Shop Custom Blinds and ShadesExtra 20% Off\* select orig, reg, sale and clearance-priced styles Shop Men Shop Women Shop Kids Shop Baby Shop Handbags and Accessories   Shop Shoes Shop Fine and Fashion Jewelry Shop Online Clearance 40 to 50% Off Easter Dress Up for the Family
 
 Select styles
 
-Shop Men Shop Women Shop Kids Shop Baby      Last Day: Order by Today, 3/20, for delivery by Easter. Home Sale Up to 50% Off Select Home Items
+Shop Men's Shop Women's Shop Kids Shop Baby      $5 Express Shipping Anywhere Over $49 | No Code Required
 
-Small appliances excluded from coupon.
+Select Express 2-Day Delivery by 3/22 to get it by Easter
 
-Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses Shop KitchenAid Nike Sale 25% Off Nike for the Family Shop All Nike Shop Women Shop Men Shop Girls Shop Boys      
+Get details: Nike Sale 25% Off Nike for the Family Shop All Nike Shop Women Shop Men Shop Girls Shop Boys      
 
 Select styles. MSRP $18-$50. Nike excluded from coupon.
 
