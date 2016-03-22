@@ -183,7 +183,7 @@ Sign up to receive WebMD's award-winning content delivered to your inbox.
 
 Sign Up
 
-WebMD Home About WebMD Policies Email a Friend Print Article WebMD Privacy Policy Summary
+Subscribe WebMD Home About WebMD Policies Email a Friend Print Article WebMD Privacy Policy Summary
 
 En español
 
