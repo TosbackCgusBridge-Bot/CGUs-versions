@@ -125,11 +125,11 @@ Réalisé sous la direction de Jean-François PILLOU, fondateur de CommentCaMarc
   
 A voir également
 
-*   Tubidy
-*   Comment maîtriser MERISE
-*   Email inscription
-*   Modèle Condition Générale de Vente » Forum - Webmaster
+*   Www.outlook.com
+*   Www.chez.com
+*   Facebook inscription
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
+*   Créer un compte Samsung Apps pour télécharger des applications Samsung » Conseils pratiques - Samsung
 *   Redaction conditions generales (Résolu) » Forum - Vos droits sur internet
 *   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
