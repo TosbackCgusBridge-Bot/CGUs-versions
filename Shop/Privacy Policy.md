@@ -16,9 +16,8 @@ LENOVO Menu
         3.  Desktop Deals
         4.  Tablet Deals
         5.  Accessories Deals
-        6.  Ready to Ship PCs
-        7.  Deals for Students and Educators
-        8.  Clearance PCs
+        6.  Deals for Students and Educators
+        7.  Clearance PCs
     *   Markdown Madness Your ticket to BIG savings!
         
         Sale ends March 23.
@@ -30,32 +29,13 @@ LENOVO Menu
     *   Lenovo Preferred Card The Best Offers with Instant and Affordable Financing.
         
 *   Support
-    *   Help placing an order 24 hours a day, 7 days a week  
-          
-        Call 1-855-2-LENOVO (1-855-253-6686), Option 1  
-        Monday-Friday 9am-9pm (EST)  
-        Saturday 9am-6pm (EST)  
-          
-        Outlet sales: Call 1-877-698-4465, Option 1  
-        Monday-Friday 9am-9pm (EST)  
-        Saturday 9am-6pm (EST)
-    *   Help with an existing order Check order status online - track by order number  
-          
-          
-        Call 1-855-2-LENOVO (1-855-253-6686), Option 2  
-        Monday-Friday 9am-9pm (EST)
-    *   Technical Support
-        1.  Lenovo Products Tablet, Laptop, Workstation, ThinkServer, Storage, and Smartphone support information
-        2.  Other brands by Lenovo - System x Server and Storage- LenovoEMC &. Iomega Storage- Motorola
-    *   Payment issues Call 1-855-2-LENOVO  
-        (1-855-253-6686), Option 2  
-        Monday - Friday, 9am - 5:30pm (EST)  
-          
-        Lenovo Preferred Card  
-        844-271-2688  
-        Mon-Sun 8AM-9PM EST  
-        Closed New Year, Easter, Memorial, July 4th, Labor, Thanksgiving, Christmas
-    *   Need More Help? More ways to contact Lenovo
+    *   SALES Sales order help Let us help decide what system is right for you
+    *   ORDER SUPPORT Existing order help Check order status online or talk with an agent
+    *   TECHNICAL SUPPORT Update drivers Stay up to date with the latest drivers and software
+    *     Search solutions Look up how-to guides and step-by-step instructions
+    *     Download manuals Read and download information for your Lenovo product
+    *     Support resources Tools and support for warranty, repair and diagnostics
+    *     Get technical help Contact a technical support agent for help with your Lenovo device
 
 *   Sales1-855-253-6686
 
