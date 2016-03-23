@@ -48,6 +48,7 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
+    *   Headlining Now
     *   Throwback Tees
     *   Uniform
     *   Online Only
