@@ -29,7 +29,7 @@ Mein SPIEGEL
 *   \>Allgemeine Nutzungsbedingungen
 
   
-  
+Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen.  
 Allgemeine Nutzungsbedingungen
 
 **Liebe Leserin, lieber Leser,**
