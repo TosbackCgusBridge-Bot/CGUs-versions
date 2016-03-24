@@ -299,7 +299,9 @@ Attention: General Counsel EMEA
 Switzerland  
   
 Email: eu.privacy@ralphlauren.com  
-Back to Top     Safe Harbor Privacy Policy    Last modified: March 6, 2015 We at Ralph Lauren Corporation and its US affiliate, Club Monaco US, LLC, (collectively "Ralph Lauren") respect your concerns about privacy and value the relationship we have with you. Ralph Lauren has certified that it abides by the Safe Harbor privacy principles, as set forth by the United States Department of Commerce, regarding the collection, storage, transfer, use and other processing of Personal Information (as defined below) transferred to the United States from the EEA and Switzerland. This Policy outlines our general policy and practices for implementing the Safe Harbor privacy principles for Personal Information that we collect online and offline.  
+Back to Top     Safe Harbor Privacy Policy    Last modified: March 23, 2016 We at Ralph Lauren Corporation and its US affiliate, Club Monaco US, LLC, (collectively "Ralph Lauren") respect your concerns about privacy and value the relationship we have with you. Ralph Lauren has certified that it abides by the Safe Harbor privacy principles, as set forth by the United States Department of Commerce, regarding the collection, storage, transfer, use and other processing of Personal Information (as defined below) transferred to the United States from the EEA and Switzerland. This Policy outlines our general policy and practices for implementing the Safe Harbor privacy principles for Personal Information that we collect online and offline.  
+  
+While the Safe Harbor framework is no longer considered a valid data transfer mechanism in the EEA, Ralph Lauren Corporation continues to comply with the relevant principles of the Safe Harbor. We continue to implement other data transfer mechanisms consistent with these principles and applicable law.  
   
 For purposes of this Policy:  
   
