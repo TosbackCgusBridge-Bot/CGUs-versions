@@ -32,10 +32,10 @@ LENOVO Menu
     *   SALES Sales order help Let us help decide what system is right for you
     *   ORDER SUPPORT Existing order help Check order status online or talk with an agent
     *   TECHNICAL SUPPORT Update drivers Stay up to date with the latest drivers and software
-    *     Search solutions Look up how-to guides and step-by-step instructions
-    *     Download manuals Read and download information for your Lenovo product
-    *     Support resources Tools and support for warranty, repair and diagnostics
-    *     Get technical help Contact a technical support agent for help with your Lenovo device
+    *   TECHNICAL SUPPORT Search solutions Look up how-to guides and step-by-step instructions
+    *   TECHNICAL SUPPORT Download manuals Read and download information for your Lenovo product
+    *   TECHNICAL SUPPORT Support resources Tools and support for warranty, repair and diagnostics
+    *   TECHNICAL SUPPORT Get technical help Contact a technical support agent for help with your Lenovo device
 
 *   Sales1-855-253-6686
 
