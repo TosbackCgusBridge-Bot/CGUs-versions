@@ -11,6 +11,7 @@ Links
 Projects  
   
 MonkeyBrains Links **Local** **Support** **Offsite** Press  
+ISP Tech: Popular Mechanics - Can an Indie ISP Beat Comcast (2016)  
 Wireless: SF Chronicle - MonkeyBrains can help with Internet (2015)  
 Civic Duty: SF Examiner - SF shelter to gain free Wi-Fi for homeless (2015)  
 Podcast: Burrito Justice Radio (2015)  
