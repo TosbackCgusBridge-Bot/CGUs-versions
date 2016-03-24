@@ -45,7 +45,7 @@ Menu Explore HSBC.com Search
         
     *   Contact us
         
-*   Citizenship in Citizenship
+*   Our approach in Our approach
     
     We recognise that we have responsibilities not only towards our customers, employees and shareholders but also to the countries and communities in which we operate.
     
@@ -57,9 +57,11 @@ Menu Explore HSBC.com Search
         *   Finance
         *   Operations
         *   Communities
-        *   Frequently asked questions
-        *   Reports and documentation
         *   Case studies
+    *   Frequently asked questions
+        
+    *   Reports and documentation
+        
 *   Investor relations in Investor relations
     
     Learn about our investment case, our internal controls and how we handle risk. Find financial results, dividend information and investor presentations.
@@ -302,11 +304,13 @@ Site navigation About HSBC
 *   Procurement
 *   Contact us
 
-Citizenship
+Our approach
 
 *   Our values
 *   Diversity and inclusion
 *   Sustainability
+*   Frequently asked questions
+*   Reports and documentation
 
 Investor relations
 
