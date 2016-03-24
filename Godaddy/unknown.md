@@ -1,4 +1,4 @@
-**Last Revised: February 19, 2016**
+**Last Revised: March 23, 2016**
 
 **PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -320,7 +320,17 @@ You shall not permit content unsuitable for viewing by a minor to be viewed from
 
 You represent and warrant that you meet the eligibility requirements of each ccTLD you apply for. You further agree to be bound by any registry rules, policies, and agreements for that particular ccTLD. These may include, but are not limited to, agreeing to indemnify the ccTLD provider, limiting the liability of the ccTLD provider, and requirements that any disputes be resolved under that particular country's laws.
 
-**20\. provisions specific to .CA registrations**
+****_(A) _ **_PROVISIONS SPECIFIC TO .AU REGISTRATIONS_****** 
+
+.au Registrations (to include com.au, net.au and org.au) are governed by the following additional terms and conditions:
+
+auDA. auDA means .au Domain Administration Limited ACN 079 009 340, the .au domain names administrator.  The Registrar acts as agent for auDA for the sole purpose, but only to the extent necessary, to enable auDA to receive the benefit of rights and covenants conferred to it under this Agreement. auDA is an intended third party beneficiary of this agreement.
+
+auDA Published Policy.  auDA Published Policies means those specifications and policies established and published by auDA from time to time at http://www.auda.org.au.  You must comply with all auDA Published Policies, as if they were incorporated into, and form part of, this Agreement. In the event of any inconsistency between any auDA Published Policy and this Agreement, then the auDA Published Policy will prevail to the extent of such inconsistency.  You acknowledge that under the auDA Published Policies: (1) there are mandatory terms and conditions that apply to all domain names. (2) licences, and such terms and conditions are incorporated into, and form part of, this Agreement. (3) You are bound by, and must submit to, the .au Dispute Resolution Policy. and (4) auDA may delete or cancel the registration of a .au domain name. 
+
+auDA's Liabilities and Indemnity.  To the fullest extent permitted by law, auDA will not be liable to Registrant for any direct, indirect, consequential, special, punitive or exemplary losses or damages of any kind (including, without limitation, loss of use, loss or profit, loss or corruption of data, business interruption or indirect costs) suffered by Registrant arising from, as a result of, or otherwise in connection with, any act or omission whatsoever of auDA, its employees, agents or contractors. Registrant agrees to indemnify, keep indemnified and hold auDA, its employees, agents and contractors harmless from all and any claims or liabilities, arising from, as a result of, or otherwise in connection with, Registrant's registration or use of its .au domain name. Nothing in this document is intended to exclude the operation of Trade Practices Act 1974.
+
+**_(B) provisions specific to .CA registrations_**
 
 You acknowledge and agree that registration of your selected domain name in your first application to CIRA shall not be effective until you have entered into and agreed to be bound by CIRA's Registrant Agreement.
 
@@ -328,9 +338,9 @@ _CIRA Certified Registrar_.  The registrar shall immediately give notice to you
 
 You acknowledge and agree that should there be insufficient funds prepaid by the registrar in the CIRA Deposit Account to be applied in payment of any fees, CIRA may in its sole discretion stop accepting applications for domain name registrations from the registrar, stop effecting registrations of domain names and transfers, renewals, modifications, and cancellations requested by the registrar and stop performing other billable transactions requested by the registrar not paid in full and CIRA may terminate the Registrar Agreement between CIRA and the Registrar.
 
-_.CA ASCII and IDN domain variants_ are bundled and reserved for a single registrant.  Registrants are not required to register all variants in a bundle, but all registered variants must be registered and managed at a single registrar. Each variant registered will incur a registration fee.  In addition, when registering multiple .CA domain (ASCII and IDN) variants in a bundle, your registrant information **must be identical**.  If variants are registered at other registrars or if registrant information does not match, it may result in an "unavailable" search result, delayed or failed registration. If information does not match, validation is required and may take up to seven business days and delay availability of domain.
+_.CA ASCII and IDN domain variants_ are bundled and reserved for a single registrant.  Registrants are not required to register all variants in a bundle, but all registered variants must be registered and managed at a single registrar. Each variant registered will incur a registration fee.  In addition, when registering multiple .CA domain (ASCII and IDN) variants in a bundle, your registrant information **must be identical**.  If variants are registered at other registrars or if registrant information does not match, it may result in an "unavailable" search result, delayed or failed registration. If information does not match, validation is required and may take up to seven business days and delay availability of domain. 
 
-**21. **PROVISIONS SPECIFIC TO .CN REGISTRATIONS**** 
+**_(C) _ **_PROVISIONS SPECIFIC TO .CN REGISTRATIONS_**** 
 
 .CN is a restricted TLD – applications are subject to both a domain name check and real name verification as required by the People’s Republic of China.  Registrations in .CN are therefore subject to the following additional terms:
 
@@ -338,6 +348,6 @@ _Verification, Registration and Activation._  If a domain name is not permitte
 
 _Refunds._  Refunds for .CN Registrations will only be allowed where (i) registration of the applied for domain name is not permitted by the Chinese government. or (ii) you notify us of your intent to cancel for any reason within the first five (5) days after the Registration (i.e., after it is deemed permissible by the Chinese government).  For the avoidance of doubt, refunds will not be permitted under any circumstances after five (5) days from the date of Registration, including, for example, in the event real name verification is not successful or if the Chinese government determines after Registration that the domain name should not have been registered (and directs us to delete).
 
-**22\. PROVISIONS SPECIFIC TO .JP registrationS**
+_**(D) PROVISIONS SPECIFIC TO .JP registrationS**_
 
 _Registration Restrictions_.  You represent and warrant that you have a local presence in Japan with a home or office address. You agree that certain domain names are reserved and can only be registered by certain parties. These include: (i) TLDs, other than ccTLDs, as determined by ICANN. (ii) geographical-type .JP domain names that are defined as metropolitan, prefectural, and municipal labels. (iii) names of primary and secondary educational organizations. (iv) names of organizations related to Internet management. (v) names required for .JP domain name operations. and (vi) character strings which may be confused with ASCII-converted Japanese domain names. The complete list of .JP Reserved Domains is available here.
