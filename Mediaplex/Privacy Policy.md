@@ -64,10 +64,10 @@ Skip to main content
 
 Loading... Login Let's Connect See What We Do
 
-*   150+ MILLION Real People You Can  
+*   160+ MILLION Real People You Can  
     Message Right Now
-*   80 BILLION Interactions  
-    Every Day
+*   96% Verified Cross-Device  
+    Matching Precision
 *   1+ Trillion Daily Real-Time  
     Decisions
 *   10X Average Incremental  
