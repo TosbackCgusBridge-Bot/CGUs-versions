@@ -172,6 +172,10 @@ Menu
     
     *   About us
     *   What we do
+        *   What we do
+        *   Pharmaceuticals
+        *   Vaccines
+        *   Consumer Healthcare
     *   Our mission and strategy
     *   Corporate Executive Team
     *   US Pharmaceuticals Leadership Team
@@ -406,7 +410,6 @@ Menu
         *   How we discover new products
         *   How we discover new medicines
         *   How we discover new vaccines
-        *   How we discover new consumer products
         *   Consumer healthcare research
         *   Responsible research
     *   Trials in people
