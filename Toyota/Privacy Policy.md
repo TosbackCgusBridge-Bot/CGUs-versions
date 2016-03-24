@@ -57,8 +57,12 @@ Hybrids & Fcv
 
 Upcoming Vehicles
 
-*   2015 Concept Vehicles View More Info
+*   2017 Prius Prime View More Info
+*   2017 Toyota 86 View More Info
 *   2017 Tacoma TRD Pro View More Info
+*   2017 Corolla View More Info
+*   2017 Highlander View More Info
+*   2015 Concept Vehicles View More Info
 
 Shopping Tools
 
@@ -274,17 +278,19 @@ Discontinued Vehicles
 
 Compare Toyota vs. the Competition
 
-*   Toyota Corolla vs. Honda Civic  
+*   Toyota Corolla vs Honda Civic  
     
-*   Toyota RAV4 vs. Honda CR-V  
+*   Toyota RAV4 vs Honda CR-V  
     
-*   Toyota Corolla vs. Hyundai Elantra  
+*   Toyota Corolla vs Hyundai Elantra  
     
-*   Toyota Corolla vs. Ford Focus  
+*   Toyota Corolla vs Ford Focus  
     
-*   Toyota Camry vs. Honda Accord  
+*   Toyota Camry vs Honda Accord  
     
-*   Toyota Prius vs Ford C-MAX  
+*   Toyota Prius vs Ford C-Max  
+    
+*   Toyota Tacoma vs Chevrolet Colorado  
     
 
 Features
@@ -984,11 +990,7 @@ Helpful Links
 *   Dealers
 *   Safety Recalls &  
     Service Campaigns
-*   Site Feedback  
-      
-      
-      
-    
+*   Site Feedback
 
 About Toyota
 
@@ -1013,7 +1015,7 @@ Help
 *   Site Map
 *   AdChoices
 
-©2015 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.
+©2016 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.
 
 \[#\] View All Disclosures
 
