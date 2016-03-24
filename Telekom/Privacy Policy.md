@@ -4,7 +4,7 @@ Der Schutz Ihrer persönlichen Daten hat für die Deutsche Telekom einen hohen S
   
 **2\. Welche Daten werden erfasst und wie werden sie verwendet?**  
   
-a. Für die Erbringung unserer Leistungen  
+Für die Erbringung unserer Leistungen  
 Technische Merkmale:  
 Wenn Sie unsere Webseiten besuchen, verzeichnen unsere Web-Server vorübergehend den Domain-Namen oder die IP- Adresse Ihres Computers, die Dateianfrage des Clients (Dateiname und URL), den http-Antwort-Code und die Internetseite, von der aus Sie uns besuchen. Diese Daten werden nach Ihrer Internetsitzung gelöscht.  
   
@@ -12,11 +12,10 @@ Cookies:
 Unsere Website verwendet an mehreren Stellen sogenannte Cookies. Sie dienen dazu, unser Angebot nutzerfreundlicher und effektiver zu machen. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert. Die Cookies enthalten keine persönlichen Daten. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen. Die meisten der von uns verwendeten Cookies sind so genannte Session-Cookies, die gelöscht werden, wenn Sie Ihre Browsersitzung beenden. Sie werden für Transaktionen benötigt und enthalten lediglich eine Transaktions-ID. Daneben gibt es einige langlebige (persistente) Cookies mit einer Lebenszeit von 6 Monaten (Webtrekk) oder 12 Monaten (Tealium), mittels derer wir Sie z.B. als Besucher wiedererkennen (Siehe Punkt 7). Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren.  
 Sie haben die Möglichkeit, Ihren Browser so einzustellen, dass diese Cookies gar nicht erst gespeichert werden oder dass die Cookies am Ende Ihrer Internetsitzung gelöscht werden. Bitte beachten Sie dabei aber, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen unserer Webseiten nutzen können.  
   
-b. Für gesetzlich vorgesehene Zwecke  
-Wir verwenden Ihre Daten für gesetzlich vorgesehene Zwecke. Für die Aufdeckung von Missbrauch und für die Erkennung und Beseitigung von Störungen speichern wir Ihre IP-Adresse für sieben Tage.  
+  
   
 **3\. Wo werden meine Daten verarbeitet?**  
-Ihre Daten werden grundsätzlich in Deutschland verarbeitet. Nur in Einzelfällen und im gesetzlich zulässigen Rahmen findet die Datenverarbeitung auch im Ausland statt  
+Ihre Daten werden in Deutschland verarbeitet. Im gesetzlich zulässigen Rahmen findet die Datenverarbeitung auch im europäischen und außereuropäischen Ausland statt.  
   
 **4\. Wie sicher sind meine Daten?**  
 Zum Schutz Ihrer Daten vor unberechtigtem Zugriff und Missbrauch haben wir umfangreiche technische und betriebliche Sicherheitsvorkehrungen nach deutschem Recht getroffen.  
@@ -101,7 +100,7 @@ Die AT Internet GmbH setzt für diese Analysen Cookies ein. Das sind kleine Text
 http://de.atinternet.com/de/politique-du-respect-de-la-vie-privee/.  
   
 **Webseiten-Analyse mit Maxymiser:**  
-Zur weiteren Verbesserung unserer Webseite nutzen wir die Technologie der Maxymiser Ltd (UK), 121 Great Portland Street, London, W1W 6QL ("Maxymiser Technologie).  
+Zur weiteren Verbesserung unserer Webseite nutzen wir die Technologie der Maxymiser GmbH (DE), Neuer Zollhof 3, 40221 Düsseldorf (Maxymiser Technologie).  
 Für Zwecke der Werbung, der Marktforschung oder zur bedarfsgerechten Gestaltung legt Maxymiser Nutzungsprofile unter einem Pseudonymen an, sofern Sie dem nicht widersprechen. Zur Erstellung der Nutzungsprofile werden keine personenbezogenen, sondern nur anonymisierte oder pseudonymisierte Daten verwenden. Wir werden die unter einem Pseudonym erstellten Nutzungsprofile nicht mit Daten über den Träger des Pseudonyms zusammenführen. Die Maxymiser Ltd wird im Auftrag von uns die übermittelten Daten insbesondere dazu benutzen, das Besucherverhalten auf unserer Webseite auszuwerten und um die Webseite zu optimieren. Die Maxymiser Technologie verwendet Cookies, um eine Analyse der Benutzung der Webseite durch Sie zu ermöglichen.  
 Sie können die Erfassung Ihrer Daten durch die Maxymiser Technologie sowie die Verarbeitung dieser Daten durch uns verhindern, indem Sie das entsprechende Cookie mit dem unter dem folgenden Link verfügbare Opt-Out deaktivieren: http://www.maxymiser.de/cookie\_optout.htm.  
   
