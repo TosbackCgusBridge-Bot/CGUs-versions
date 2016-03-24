@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14671266826
+true true C14613980016
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p19.jcpenney.com SERVER NAME :->. dtcomexpr1l1j1 TIME :->. Tue Mar 22 11:15:34 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1c1j4 TIME :->. Wed Mar 23 11:15:35 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,15 +49,73 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-2 Days Only | Ends March 22 | Online Only | Code: NOWSHOP2 \*Get details:50% Off\* select orig and reg-priced styles Shop Bedding and Bath Shop Window Shop Luggage40% Off\* select orig and reg-priced styles Shop Furniture and Mattresses Shop Home Decor30% Off\* select orig and reg-priced styles Shop Kitchen and Dining Shop Custom Blinds and ShadesExtra 20% Off\* select orig, reg, sale and clearance-priced styles Shop Men Shop Women Shop Kids Shop Baby Shop Handbags and Accessories   Shop Shoes Shop Fine and Fashion Jewelry Shop Online Clearance 40 to 50% Off Easter Dress Up for the Family
+Spend $50 or More and Get $20 Off\* Or, Spend $25 or More and Get $10 Off\* In Store Only | Ends March 26 Print Coupon
+
+OR
+
+Extra 25% Off\* $100 or More Or, Extra 20% Off\* Online Only | Ends March 26 | Code: SAVE2 Exclusions and details: JCPenney Rewards Members Get a $10 bonus Reward With a $50 or more purchase in store or online through March 26.\*
+
+Not a JCPenney Rewards Member?
+
+\*Redeemable through 5/10/16. Limit 1 per Rewards member. Some restrictions and exclusions apply. See store associate for details.
+
+Enroll TodayStarts Now! The Entire Store On Sale Our Biggest Sale of the Season
+
+Sale pricing excludes Nike, Converse and Sephora. Additional coupon exclusions apply.
+
+Shop Now View Store AdAll-Day Doorbusters Now Through Saturday Shop Doorbusters Doorbuster 45 to 65% Off Fine Jewelry
 
 Select styles
 
-Shop Men's Shop Women's Shop Kids Shop Baby      $5 Express Shipping Anywhere Over $49 | No Code Required
+Shop Fine JewelryDoorbuster 14.99 Bras
 
-Select Express 2-Day Delivery by 3/22 to get it by Easter
+Select styles, reg. $30-$40, from Ambrielle, Bali, Vanity Fair, Maidenform and more.
 
-Get details: Nike Sale 25% Off Nike for the Family Shop All Nike Shop Women Shop Men Shop Girls Shop Boys      
+Shop BrasDoorbuster 60% Off Men's Suit Separates, Sport Coats, and Dress Pants
+
+Select styles
+
+Shop Men's Suit Separates, Sport Coats, and Dress PantsDoorbuster $5 Kids' Arizona Tees
+
+Select styles, reg. $12
+
+Shop Kids' Arizona TeesDoorbuster 60% Off Kids' Dress Clothes
+
+Select styles, reg. $24-$100
+
+Shop Kids' Dress ClothesDoorbuster 50 to 60% Off Men's St. John's Bay Sportwear
+
+Select styles
+
+Shop Men's St. John's Bay SportwearDoorbuster 7.99 Home Expressions Microfiber Solid or Print Twin Sheet Set
+
+Select styles, reg. $30
+
+Shop Home Expressions Microfiber Solid or Print Twin Sheet SetDoorbuster 50 to 60% Off Ready-Made Curtains
+
+Select styles, excluded from coupon
+
+Shop Ready-Made CurtainsDoorbuster 50 to 70% Off Women's Dress Shoes
+
+Select styles
+
+Shop Women's Dress ShoesDoorbuster 14.99 St. John's Bay Secretly Slender Capris
+
+Select styles, reg. $36
+
+Shop St. John's Bay Secretly Slender CaprisDoorbuster 19.99 Dresses
+
+Select styles, reg. $50-$60
+
+Shop DressesDoorbuster 50% Off Girls' Sandals
+
+Select styles
+
+Shop Girls' Sandals Limited Time In Store Only! Ends March 26 Extra 25% Off Already Reduced
+
+50 to 80% Off Clearance
+
+Find a StoreOr Shop 50 to 80% Off Clearance Online Shop Clearance Nike Sale 25% Off Nike for the Family Shop All Nike Shop Women Shop Men Shop Girls Shop Boys      
 
 Select styles. MSRP $18-$50. Nike excluded from coupon.
 
@@ -65,15 +123,15 @@ Shop Women's Shoes Shop Men's Shoes
 
 Select styles. MSRP $60-$85.
 
-Billion Dollar Jewelry Sale Up to 60% Off Jewelry
+40 to 50% Off Easter Dress Up for the Family
 
 Select styles
 
-Shop Jewelry Limited Time In Store Only! Ends March 26 Extra 25% Off Already Reduced
+Shop Men Shop Women Shop Kids Shop Baby      $10 Express Shipping Anywhere Over $49 | No Code Required
 
-50 to 80% Off Clearance
+Select Expedited 1-Day Delivery by Noon CDT 3/24 to get it by Easter
 
-Find a StoreOr Shop 50 to 80% Off Clearance Online Shop Clearance SportsFanShop
+Get details: SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
