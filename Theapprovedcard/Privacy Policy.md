@@ -1,1 +1,5 @@
-Click here to proceed.
+For search results please CLICK HERE.
+
+Buy this domain.
+
+theapprovedcard.com Privacy Policy
