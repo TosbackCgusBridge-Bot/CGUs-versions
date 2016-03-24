@@ -61,7 +61,7 @@ Skip to main content Online Trust Alliance
 
 Home › Privacy Policy Privacy Policy Privacy Policy Highlights
 
-**Updated October 8, 2015** (See archived privacy policy)                                  
+**Updated March 1, 2016** (See archived privacy policy)                                  
 
 Complete Privacy Policy                                   
 
@@ -77,13 +77,13 @@ If you have an unresolved privacy or data use concern that we have not addressed
 We need to collect certain information that personally identifies you in order to contact you, provide a service or carry out a transaction that you have requested, including, but not limited to, name, e-mail address, information about your job or company and credit card information.  OTA may use your personal information to provide you with more effective customer service, to improve the Site: (https://otalliance.org) and any related OTA products or services.  We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. \[Learn More\]
 
 **Data Sharing**  
-OTA occasionally hires other companies, consultants and contractors to provide limited services on our behalf. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose.  \[Learn More\] 
+OTA does not share or sell any data to third parities with the exception of thrid parties who provide services on our behalf.  OTA occasionally hires other companies, consultants and contractors to provide limited services. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose.  \[Learn More\] 
 
 **Cookies and Other Tracking Technologies**  
 We and our service providers may use tracking technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the Site, track users’ movements around the Site, and gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies from these companies on an individual or aggregated basis. \[Learn More\]
 
 **User Options**  
-Receiving email messages from OTA is optional and we provide choice options. Users can also access the personal information they have provided to OTA for the purposes of reviewing, updating, and deleting such information.  \[Learn More\]
+OTA honors a user's Do Not Track Setting, directing a site to not share tracking information with any third party with the exception of providing services on OTA's behalf as outlined above. Receiving email messages from OTA is optional and we provide choice options. Users can also access the personal information they have provided to OTA for the purposes of reviewing, updating, and deleting such information.  \[Learn More\]
 
 **Data Security**  
 We have implemented generally accepted standards of security features throughout the Site that are intended to prevent the unauthorized release of or access to the user information we collect online. 
