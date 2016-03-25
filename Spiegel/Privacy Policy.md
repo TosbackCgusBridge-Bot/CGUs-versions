@@ -418,8 +418,6 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
 *   AUTO UND FREIZEIT
 *   Arztsuche
 *   DSL-Vergleich
-*   Hörgeräte-  
-    Beratung
 *   Ferientermine
 *   Traumreise
 
