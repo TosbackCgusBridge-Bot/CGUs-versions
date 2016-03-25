@@ -176,26 +176,23 @@ If you have questions about this policy or Ideas People Media, please send corre
 
 The Economist Group
 
-Attn: Data Protection Officer
+Attn: Data Privacy Officer
 
-750 3rd Avenue
+20 Cabot Square,
 
-New York, NY 10017  
-  
+London,
+
+E14 4QW
+
+United Kingdom
 
 To relay any concern regarding the respect of your privacy, you may use this email address:
 
 dataprotectionofficer@economist.com
 
-You may also contact our consumer services via the following:
+Please contact the customer services center, by telephone or email for you region here.
 
-Telephone: 1 800 456 6086 (from outside the US and Canada, 1 636 449 5702)
-
-Facsimile: 1 866 856 8075 (from outside the US and Canada, 1 636 449 5703)
-
-E-mail: customerhelp@economist.com
-
-Last update—February 26th, 2015
+Last update—March 24th, 2016
 
 Copyright © The Economist Newspaper Limited 2016  
 Registered in England and Wales. No. 236383 | Registered office: 25 St James's Street, London, SW1A 1HG | VAT Reg No: GB 340 436 876
