@@ -1,4 +1,4 @@
-**Last Revised: February 9, 2016**
+**Last Revised: March 24, 2016**
 
 GoDaddy Respects your privacy
 
@@ -6,7 +6,7 @@ This Privacy Policy describes how we collect and use the personally identifiable
 
 The TRUSTe program covers only information that is collected through this Site and in our mobile applications, and does not cover information that may be collected through downloadable software.  If you have questions or complaints regarding our Privacy Policy or practices, please contact us at privacy@godaddy.com or call (480) 505-8877.  If you are not satisfied with our response, please contact TRUSTe.
 
-GoDaddy complies with the U.S-EU Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from  European Union member countries.  We adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement.  To learn more about the Safe Harbor program, please visit http://www.export.gov/safeharbor/.
+GoDaddy complies with the U.S-EU Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from  European Union member countries.  We adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement.  To learn more about the Safe Harbor program, please visit http://www.export.gov/safeharbor/.  You can find our certification listed under our parent company, Go Daddy Operating Company, LLC.
 
 **Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
