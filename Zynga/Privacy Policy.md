@@ -46,7 +46,7 @@ Search form Search Privacy
     *   Additional Resources
 *   PrivacyVille
 
-Privacy Policy English简体中文FrançaisDeutschItaliano日本語한국어PortuguêsEspañolTürkçe
+Privacy Policy English简体中文FrançaisDeutschItaliano日本語한국어PortuguêsEspañolTürkçeРусский
 
 This Privacy Policy will be effective from February 1, 2016. To review a copy the Privacy Policy effective prior to February 1, 2016, click here.
 
