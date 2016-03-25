@@ -3,6 +3,7 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
+    *   Spring Looks
     *   Swim
     *   Bethany Mota
     *   Scene Stealers
@@ -48,6 +49,7 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
+    *   Spring Looks
     *   Headlining Now
     *   Throwback Tees
     *   Uniform
