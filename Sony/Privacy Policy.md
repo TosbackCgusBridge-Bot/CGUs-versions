@@ -165,7 +165,7 @@ Live 4K Streaming Trials Exclusive to Sony 4K HDR Ultra HD TVs: blog.sony.com
 
 View Tweet
 
-"The Bronze," Now Playing in Theaters
+"Powers" Returns With a New Season May 31
 
 Learn More
 
