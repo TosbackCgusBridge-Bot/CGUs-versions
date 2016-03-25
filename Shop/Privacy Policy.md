@@ -18,9 +18,9 @@ LENOVO Menu
         5.  Accessories Deals
         6.  Deals for Students and Educators
         7.  Clearance PCs
-    *   Markdown Madness Your ticket to BIG savings!
+    *   SALE Great deals on select PCs and accessories.
         
-        Sale ends March 23.
+        Sale ends March 30.
         
     *   Clearance Sale Get these deals before they’re gone.
         
@@ -62,7 +62,7 @@ LENOVO Menu
 *   Search
     
 
-Filter by specs Offers
+Offers
 
 *   View cart
 
