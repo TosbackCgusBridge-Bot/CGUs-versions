@@ -3,7 +3,6 @@ Datenschutz **1.** **Allgemeines** **8.** **Conversion Tracking** **2.** **Daten
 Der Schutz Ihrer persönlichen Daten hat für die Deutsche Telekom einen hohen Stellenwert. Es ist uns wichtig, Sie darüber zu informieren, welche persönlichen Daten wir während Ihres Besuchs auf unseren Webseiten erfassen, wie diese verwendet werden und welche Gestaltungsmöglichkeiten Sie dabei haben. Dieser Datenschutzhinweis gibt Ihnen Antworten auf die wichtigsten Fragen.  
   
 **2\. Welche Daten werden erfasst und wie werden sie verwendet?**  
-  
 Für die Erbringung unserer Leistungen  
 Technische Merkmale:  
 Wenn Sie unsere Webseiten besuchen, verzeichnen unsere Web-Server vorübergehend den Domain-Namen oder die IP- Adresse Ihres Computers, die Dateianfrage des Clients (Dateiname und URL), den http-Antwort-Code und die Internetseite, von der aus Sie uns besuchen. Diese Daten werden nach Ihrer Internetsitzung gelöscht.  
@@ -11,8 +10,6 @@ Wenn Sie unsere Webseiten besuchen, verzeichnen unsere Web-Server vorübergehend
 Cookies:  
 Unsere Website verwendet an mehreren Stellen sogenannte Cookies. Sie dienen dazu, unser Angebot nutzerfreundlicher und effektiver zu machen. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert. Die Cookies enthalten keine persönlichen Daten. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen. Die meisten der von uns verwendeten Cookies sind so genannte Session-Cookies, die gelöscht werden, wenn Sie Ihre Browsersitzung beenden. Sie werden für Transaktionen benötigt und enthalten lediglich eine Transaktions-ID. Daneben gibt es einige langlebige (persistente) Cookies mit einer Lebenszeit von 6 Monaten (Webtrekk) oder 12 Monaten (Tealium), mittels derer wir Sie z.B. als Besucher wiedererkennen (Siehe Punkt 7). Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren.  
 Sie haben die Möglichkeit, Ihren Browser so einzustellen, dass diese Cookies gar nicht erst gespeichert werden oder dass die Cookies am Ende Ihrer Internetsitzung gelöscht werden. Bitte beachten Sie dabei aber, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen unserer Webseiten nutzen können.  
-  
-  
   
 **3\. Wo werden meine Daten verarbeitet?**  
 Ihre Daten werden in Deutschland verarbeitet. Im gesetzlich zulässigen Rahmen findet die Datenverarbeitung auch im europäischen und außereuropäischen Ausland statt.  
