@@ -54,7 +54,7 @@ We leverage data from any source, anywhere and at any time and apply our proprie
 
 OUR GLOBAL TEAM OF EXPERTS IS EXCITED TO HELP YOU
 
-Headquartered in Rotterdam and San Francisco, MetrixLab has conducted analytics and insights projects in more than 50 countries worldwide.
+MetrixLab, a Macromill Group company has conducted analytics and insights projects in more than 80 countries worldwide.
 
 Let’s get in touch!
 
