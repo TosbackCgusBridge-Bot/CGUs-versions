@@ -111,9 +111,9 @@ Close
 
 Sign Up
 
-Watch the Latest Episode of "The Making of Uncharted 4: A Thief's End"
+Nathan Drake Wonders: Was It All Worth It?
 
-Pre-Order Game
+Find Out on May 10
 
 Close
 
