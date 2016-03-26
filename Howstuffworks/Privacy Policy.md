@@ -68,11 +68,11 @@ Privacy Policy | HSW NEXT PAGENEXT  
 
 Up Next
 
+*   The 'Despicable Me' Quiz
+*   The 'How to Train Your Dragon' Quiz
 *   BrainStuff: How Do Tattoo Machines Work?
 *   Stuff Mom Never Told You: Don't Let Your Ladystache Get You Down
 *   The 'Kung Fu Panda' Quiz
-*   Now Calculating … The Famous Algorithms Quiz
-*   The Formula 1 vs. Sprint Cup Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Anti-asteroid Space 'Sentinel' Could Soon Patrol the Planetary Skies**
+**10 Unexpected Reasons Behind Past Batman vs. Superman Battles**
 
-**Probing the Sun's Physics With a New Magnetic Field Simulation**
+**Tattoos May Be Good for Your Health**
 
-**You and Your Partner Can Shower in the Same Water for Two Weeks**
+**There's an Evolutionary Reason Humans Developed the Ability to Feel Shame**
 
 **See More Headlines »**
 
