@@ -20,4 +20,4 @@ By using our Site, you acknowledge acceptance of this Privacy Statement in effec
 **Contact Us**   
 If you have any concerns about our use of your information or about this Privacy Statement, please send an e-mail to privacy@nissan.com We will make every reasonable effort to address your concerns and remedy any problems you bring to our attention.  
   
-This Privacy Statement was last revised on September 14, 2012.
+This Privacy Statement was last revised on March 2016.
