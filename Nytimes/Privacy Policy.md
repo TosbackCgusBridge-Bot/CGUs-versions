@@ -1,5 +1,5 @@
 *   Subscribe Now
-Subscribe campaign: inyt2016\_bar1\_inyt\_q1\_blitz\_4YWLW -- 283295, creative: 1\_CRS-9886\_bar1\_inyt\_q1\_blitz\_4YWLW -- 412769, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1*   Help
+Subscribe campaign: inyt2016\_bar1\_inyt\_q1\_blitz\_4YWLW -- 283295, creative: 2\_CRS-9886\_bar1\_inyt\_q1\_blitz\_4YWLW\_tom -- 412770, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1*   Help
 
 *   Home Page
 *   Today's Paper
