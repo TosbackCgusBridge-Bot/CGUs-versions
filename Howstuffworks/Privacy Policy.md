@@ -68,11 +68,11 @@ Privacy Policy | HSW NEXT PAGENEXT  
 
 Up Next
 
+*   HowStuffWorks NOW: Killer Mike &. Shanti Das: From Artist to Activist
+*   Stuff They Don't Want You to Know: Lead in Flint Michigan
 *   The 'Despicable Me' Quiz
 *   The 'How to Train Your Dragon' Quiz
 *   BrainStuff: How Do Tattoo Machines Work?
-*   Stuff Mom Never Told You: Don't Let Your Ladystache Get You Down
-*   The 'Kung Fu Panda' Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
+**Killer Mike Talks Activism and Music at SxSW**
+
 **10 Unexpected Reasons Behind Past Batman vs. Superman Battles**
 
 **Tattoos May Be Good for Your Health**
-
-**There's an Evolutionary Reason Humans Developed the Ability to Feel Shame**
 
 **See More Headlines »**
 
