@@ -3,8 +3,10 @@ Explore Games
 *   Home
 *   Puzzle Games
 *   Social Games
+*   Anime and Manga Games
 *   Skill Games
 *   Award Games
+*   War Games
 
 *   2 Player
 *   Action
@@ -52,12 +54,10 @@ Games
 *   {text}
     
 
-View more results
+View more results privacy policy
 
 *   Home
 *   privacy policy
-
-privacy policy
 
 **PRIVACY POLICY**
 
