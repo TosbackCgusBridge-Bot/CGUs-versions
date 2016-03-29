@@ -113,6 +113,12 @@ The 2016 Privacy Risk Summit will bring together leading privacy practitioners, 
 *   OTA Blog
 *   Newsletters
 
+Mon, Mar 28, 2016 Mobilizing for Privacy on Campus - Mozilla Seeking Volunteers &. Mentors!
+
+Do you have privacy knowledge and a passion to work with students?  Or are you a college student with a passion to spread the word about privacy to your fellow students and beyond?  Mozilla’s new Take Back the Web Campaign may be for you.
+
+Recently Mozilla launched a call for volunteers to help lead a Take Back the Web Campaign at universities around the world. The campaign is built on student leaders and mentors who will work together to raise awareness and empower other students to make choices about how their personal information is used online.
+
 Tue, Mar 15, 2016 IoT Trust Framework Released - Momentum Growing
 
 The Online Trust Alliance’s IoT Trust Framework is rapidly evolving to be the foundation of an international effort to integrate security, privacy and sustainability in IoT devices and services. Developed over the past twelve months, the Framework represents collective input from over 100 organizations who, through a multi-stakeholder process, established a baseline Framework of 30 essential criteria.
@@ -124,10 +130,6 @@ Mon, Mar 7, 2016 RSA 2016 Recap
 Fri, Feb 26, 2016 To Email or Not to Email?
 
 Keep your brand off the spam list through best practices in honoring unsubscribes. Email marketing remains a vibrant channel to interact with customers, and the better you respect customers’ wishes, the better engagement you’ll have.
-
-Wed, Feb 24, 2016 Trust and Taxes
-
-Tax season.  It's that time again for taxpayers and cybercriminals. While earners work to complete their 1040s, criminals tune their tax fraud campaigns with increased sophistication. Reputable companies are being victimized, tarnishing their brands and impacting their business models, employees and shareholders.  In today’s world knowing who you can trust is crucial to navigating the tax season -- but sadly, many companies are failing security fundamentals, consumer protection and responsible privacy practices.
 
 More >>. Resources
 
