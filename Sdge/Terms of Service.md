@@ -41,6 +41,14 @@ Scheduling Appliance Service Requests
 
 You may place an online request to have an SDG&E service technician visit your home or business to check, or in some circumstances, repair, your gas appliance(s). Emergency requests cannot be taken online. During the day, an adult (18 years or older) should be on the premises for any scheduled visit, but you may make advance alternate arrangements to have the service technician access the appliance(s). After dark an adult must be at the premises, or the service technician will not enter. SDG&E assumes no liability in accessing your home or business, even if a key is left to provide access.
 
+Content Submission
+
+If a User submits any digital images or other content including all photographs, illustrations, graphics and text (collectively, “Materials”) to Company through the Web site, then the following terms will also apply:
+
+*   User may only submit Materials to Company through the Web site for which User holds all intellectual property rights. In other words, if a User submits a digital image to Company, the User must own all rights to such image or the User must have the authorization of the person who does own those rights. Minors may not submit Materials to Company through the Web site. Further, a User may not submit any personally identifiable information about any child under the age of 13.
+*   User hereby grants to Company a worldwide, nonexclusive, royalty-free, perpetual right and license to (a) reproduce, distribute, transmit, publicly perform and publicly display the Materials, in whole or in part, in any manner and media of conveying information, whether now known or hereafter devised (“Media”), (b) modify, adapt, translate and create derivative works from the Materials, in whole or in part, in any manner and Media, and (c) sublicense the foregoing rights, in whole or in part, to any third party, with or without a fee.
+*   User hereby grants to Company and its sublicensees a nonexclusive, worldwide, royalty-free license to use all trademarks, trade names, and the names and likenesses of any individuals that appear in the Materials. User grants to Company and its sublicensees the right to use the name that User submits in connection with the Materials.
+
 Limitation of Liability
 
 Company, and its parent companies and affiliates, along with their respective officers, directors, personnel, employees, or representatives, are not liable or responsible for, and User hereby waives any claims, demands, liabilities, causes of action, lawsuits, damages and costs, including, without limitation, direct, indirect, accidental, incidental, consequential, circumstantial, extraordinary, special or punitive damages of any kind with respect to this Web site (including our products, services, and Content), even if Company, its parent or its affiliates have been advised of the possibility of such damages. Users’ only recourse for such claims, demands, liabilities, causes of action, lawsuits, damages or costs is to terminate the use of this Web site.
@@ -65,6 +73,22 @@ Indemnity
 
 Users will indemnify and hold harmless the Company, along with its parent and affiliates, and their respective officers, directors, personnel, employees, or representatives from any claim, demand, liability, cause of action, lawsuit, damages or costs (including reasonable attorneys' fees and disbursements) arising in connection with their use of the Web site (including our products, services, and Content), including, but not limited to incorrect Web site information, content, or delivery, or Company or third party products and services.
 
+Location-Enabled Features
+
+Certain location-enabled functionality (e.g., locating the nearest Company payment office or nearest CNG station) made available in the Web site is provided by third party providers. Users use of that functionality is subject to such third party’s terms and conditions (as updated from time to time). Users must exercise their own judgment as to the adequacy and appropriateness of the information. All location-based information is provided entirely “as-is,” without warranties of any kind.
+
+Dispute Resolution Agreement to Arbitrate Disputes
+
+BY USING, ACCESSING, DOWNLOADING, INSTALLING, OBTAINING OR PROVIDING INFORMATION FROM OR TO THIS WEB SITE, USERS EXPRESSLY AGREE THAT ANY LEGAL CLAIM, DISPUTE OR OTHER CONTROVERSY BETWEEN USERS AND COMPANY ARISING OUT OF OR OTHERWISE RELATING IN ANY WAY TO THE WEB SITE, INCLUDING CONTROVERSIES RELATING TO THE APPLICABILITY, ENFORCEABILITY OR VALIDITY OF ANY PROVISION OF THESE TERMS AND CONDITIONS OR OUR PRIVACY POLICY (COLLECTIVELY “DISPUTES”), SHALL BE RESOLVED BY THE PROCEDURES SET FORTH HEREIN. ANY PARTY MAY FILE A CLAIM AGAINST THE COMPANY BY CLICKING HERE. IN THE EVENT THAT THE CLAIM CANNOT BE RESOLVED INFORMALLY, USER HEREBY AGREES TO RESOLVE ALL DISPUTES THROUGH CONFIDENTIAL BINDING ARBITRATION, SAVE FOR THE ONE EXCEPTION SET FORTH BELOW. ALL DISPUTES SHALL BE RESOLVED BY ONE ARBITRATOR, WHO WILL BE A NEUTRAL ARBITRATOR AGREED UPON BY BOTH PARTIES TO THE DISPUTES. IN THE EVENT THAT THE PARTIES CANNOT AGREE ON A NEUTRAL ARBITRATOR AFTER SIXTY (60) DAYS, JAMS SHALL SELECT THE NEUTRAL ARBITRATOR FOR THE DISPUTES. THE COMPANY SHALL BEAR THE COSTS OF THE MUTUALLY SELECTED ARBITRATOR FOR ALL NON FRIVOLOUS CLAIMS. THE ARBITRATION WILL BE GOVERNED BY JAMS’ COMPREHENSIVE ARBITRATION RULES AND PROCEDURES LOCATED AT WWW.JAMSADR.COM. USERS SPECIFICALLY AGREE THAT THEY ARE BOUND TO RESOLVE ANY AND ALL DISPUTES IN ARBITRATION, INCLUDING BUT NOT LIMITED TO THE ABILITY TO ENFORCE THIS ARBITRATION AGREEMENT, EXCEPT SHOULD THEY CHOOSE TO PROCEED IN SMALL CLAIMS COURT AS SET FORTH BELOW. Each party agrees to pay its own attorneys’ fees and expenses. User and Company further agree that for any claim of damages of less than $10,000, the arbitration may be conducted at plaintiff’s discretion solely based on written submissions. User and Company further agree that for any dispute that is less than $10,000 a utility customer can choose to file that claim in Small Claims Court in the county in which that utility customer is billed, or for all others in Small Claims Court in Los Angeles, California. If the dispute is brought by any utility customer of Company, the arbitration shall be conducted in the county where that customer is billed. If the Dispute is brought by any other party, the arbitration shall be conducted in Los Angeles, California. The arbitrator has the power to award injunctive relief, but does not have the power to award punitive damages. The dispute shall be governed by California law, without regard to conflict of law provisions.
+
+Waiver of Class Arbitration
+
+To the fullest extent permissible under applicable law, all Disputes shall be resolved by binding confidential arbitration on an individual basis in each party’s individual capacity, and not as a plaintiff or class member in any purported class or representative proceeding. The arbitrator does not have the power to consolidate more than one person's claims, and may not otherwise preside over any form of a representative or class proceeding. Users expressly agree that no other Disputes shall be consolidated or joined with your Dispute, whether through class arbitration proceedings or otherwise. By using, accessing, downloading, installing, obtaining or providing information from or to, this Web site, Users acknowledge that they are voluntarily and knowingly waiving any right to participate as a representative or member of any class of claimants pertaining to any Dispute.
+
+Enforcement of Arbitration Award
+
+The arbitrator’s award shall be final and binding on all parties subject to these Terms and Conditions, and may be entered as a judgment in any court of competent jurisdiction.
+
 Applicable Law
 
 These Terms and Conditions may only be interpreted and enforced under the laws of the State of California, without reference to its principles on conflicts of laws. In the event of any dispute, User and Company consent to the exclusive venue and jurisdiction of the State and Federal Courts located in San Diego County, California and the Southern District of California, and waive any right to contest such venue, jurisdiction or the inconvenience of such forum.
@@ -72,6 +96,10 @@ These Terms and Conditions may only be interpreted and enforced under the laws o
 Severability
 
 If any provision of the Terms and Conditions is held to be invalid, void or unenforceable, the remaining provisions shall nevertheless continue in full force and effect and the invalid, void, or unenforceable provision shall be deemed modified so that it is valid and enforceable to the maximum extent permitted by the law.
+
+Prevailing Language
+
+To the extent there is any inconsistency, ambiguity, or conflict between the English version of these Terms and Conditions and those translated into another language, the English version shall prevail.
 
 Questions and Feedback
 
