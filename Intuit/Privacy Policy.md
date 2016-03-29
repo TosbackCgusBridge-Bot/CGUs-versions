@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14625994909
+true true L14691957891
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Sun Mar 27 11:15:35 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1l1j2 TIME :->. Mon Mar 28 11:15:31 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,73 +49,63 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Happy Easter Extra 30% Off\* $100 or more Or, Extra 25% Off\* Today Online Only | Code: SAVING2 Exclusions and details 7.99 A.N.A Tank
+2 Days Only | Ends March 29 | Code: TOSHOP2 Print Coupon Exclusions and DetailsOnline Only 50% Off\* select orig and reg-priced styles Shop Bedding and Bath Shop Window Shop Luggage40% Off\* select orig and reg-priced styles Shop Furniture and Mattresses Shop Home Decor30% Off\* select orig and reg-priced styles Shop Kitchen and Dining Shop Custom Blinds and ShadesIn Store and Online Extra 25% Off\*
+
+With your JCPenney Credit Card
+
+Or, Extra 15% Off\*
+
+With any other method of payment
+
+select orig, reg, sale and clearance-priced styles
+
+\*Credit offers subject to credit approval.
+
+Shop Men Shop Women Shop Kids Shop Baby Shop Handbags Shop Shoes Shop Fine and Fashion Jewelry Spring Essentials 7.99 A.N.A Tank
 
 Select styles, orig. $14
 
-Shop A.N.A Tank 30 to 40% Off Hats and Sunglasses
+Shop A.N.A Tank30 to 40% Off Hats and Sunglasses
 
-Select styles, reg. $14
+Select styles, reg. $18-$36
 
-Shop Hats and Sunglasses 12.99 All Men's Solid St. John's Bay Polos
+Shop Hats and Sunglasses9.99 All St. John's Bay Solid Polos
 
 Reg. $26
 
-Shop All Men's Solid St. John's Bay Polos 19.99 Sandals for Her
+Shop St. John's Bay Solid Polos19.99 Sandals for Her
+
+Select styles, reg. $40-$50
+
+Shop Sandals for Her     30 to 40% Off Swim for the Family
+
+Select styles, reg. $24-$104
+
+Shop Men Shop Women Shop Kids     40% Off Prom Dresses and Plus Prom Dresses
 
 Select styles
 
-Shop Sandals for Her 50% Off Kids' Arizona Apparel
-
-Select styles, reg. $12-$46
-
-\*Buy one Arizona item at regualr price, get the second Arizona item of equal or lesser value for free, while supplies last.
-
-Shop Kids' Arizona Apparel 40 to 50% Off Kids' Xersion Activewear
+Shop Prom Dresses Shop Plus Prom Dresses50% Off Guys' Suit Separates, Sport Coats and Dress Pants
 
 Select styles
 
-Shop Kids' Xersion Activewear 19.99 Cooks Small Appliances
-
-Select styles, small appliances excluded from coupon
-
-Shop Cooks Small Appliances Up to 50% Off Curtains and Drapes
+Shop Guys' Suit Separates, Sport Coats and Dress Pants30 to 60% Off Fashion Jewelry and Fashion Silver
 
 Select styles
 
-Shop Curtains and Drapes 18.99 JCPenney Easy-Care Sheet Set
+Shop Fashion Jewelry Shop Fashion Silver Shop Shoes     Limited Time In Store Only! Ends April 2 Extra 25% Off Already Reduced
 
-Select styles
+50 to 80% Off Clearance
 
-Shop JCPenney Easy-Care Sheet Set 50% Off Total Girl Apparel
-
-Select styles
-
-Shop Total Girl Apparel 30% Off Swimwear for Her
-
-Select styles
-
-Nike excluded from coupon
-
-Shop Swimwear for Her 25% Off Men's Nike Apparel
-
-Select styles
-
-Nike excluded from coupon
-
-Shop Men's Nike Apparel Up to 50% Off Home Sale
-
-Select styles
-
-Shop All Home Shop Bedding and Bath Shop window Shop Kitchen and Dining Shop Furniture and Mattresses SportsFanShop
+Find a StoreOr Shop 50 to 80% Off Clearance Online Shop Clearance SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop Best Prom Ever Shop Prom Now JCPenney | optical
+Shop SportsFanShop JCPenney | optical
 
-Free shipping on contacts
+Free Shipping on Contacts
 
-Order Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop Optical Write a Review For Your Chance to Win $1,000 Get Details: Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
