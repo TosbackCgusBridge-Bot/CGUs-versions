@@ -6,9 +6,9 @@ VH1 Menu VH1
     *   Shows A-Z
     *   Show News
     *   TV Schedule
+    *   Behind The Movie
     *   Love &. Hip Hop
     *   Hit The Floor
-    *   Stevie J &. Joseline Go Hollywood
     *   K.Michelle: My Life
     *   Love &. Hip Hop Atlanta
     *   Black Ink Crew
@@ -20,7 +20,7 @@ VH1 Menu VH1
 
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Hit The Floor Stevie J &. Joseline Go Hollywood K.Michelle: My Life Love &. Hip Hop Atlanta Black Ink Crew Family Therapy With Dr. Jenn Mob Wives See all Shows
+*   Shows Full Episodes Shows A-Z Show News TV Schedule Behind The Movie Love &. Hip Hop Hit The Floor K.Michelle: My Life Love &. Hip Hop Atlanta Black Ink Crew Family Therapy With Dr. Jenn Mob Wives See all Shows
 *   Celebrity
 *   Music
 *   facebook twitter tumblr
