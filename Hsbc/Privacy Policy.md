@@ -116,6 +116,8 @@ Menu Explore HSBC.com Search
     
     We offer a world of interesting and varied opportunities. Learn about local and global careers and our values-led culture.
     
+    *   Where we hire
+        
     *   Why HSBC? expandWhy HSBC?
         *   Learning and development
         *   Culture and community
@@ -332,6 +334,7 @@ News and insight
 
 Careers
 
+*   Where we hire
 *   Why HSBC?
 *   Explore our business
 *   Meet our people
