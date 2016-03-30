@@ -1,4 +1,4 @@
-View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Directory Search Toggle search **Catch up with the** NPR Hourly Newscast 4:45 **Listen to NPR Music Radio** All Songs 24/7
+View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Directory Search Toggle search
 
 *   NPR Home
 *   Find Stations
@@ -14,6 +14,7 @@ View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Dir
 *   New Music
 *   Concerts **&. Videos**
 *   Articles **&. Lists**
+*   Tiny Desk
 
 *   NPR Books
 *   **Author** Interviews
@@ -215,23 +216,24 @@ Back
 
 Back
 
-*   Generation Listen
-*   NPR Extra Blog
-*   NPR Presents
-*   Contact Us
-*   Shop NPR
 *   Visit NPR
-*   Volunteer
+*   NPR Presents
 *   Studio 1 Events
-*   Ways to Listen
-*   Sign Up: Newsletters
+*   Generation Listen
 *   Book a Speaker
 *   Request Permissions
+*   Ways to Listen
+*   NPR Extra Blog
+*   Email Newsletters
+*   Shop NPR
+*   Get Help
+*   Contact Us
 
 Back
 
 *   Support Public Radio
 *   Corporate Sponsorship
+*   Volunteer
 
 Back
 
@@ -278,18 +280,14 @@ Back
 
 *   Find Stations
 
-****Loading****
+****Loading**** **Privacy Policy** Privacy Policy
 
-*   24-hour Program Stream
-*   Listen
+*   **Facebook**
+*   **Twitter**
+*   **Google+**
+*   **Email**
 
-latest news
-
-NPR Newscast
-
-4min 45sec
-
-find stations find podcasts Skip to Main Content Privacy Policy **Updated** July 25, 20143:08 PM ET **Published** May 7, 20139:51 AM ET
+May 7, 20139:51 AM ET
 
 **Effective Date July 25, 2014**
 
@@ -450,12 +448,10 @@ For international users, please note that it may be necessary to transfer your i
 
 If you have any questions or comments concerning our Privacy Policy, please Contact Us.
 
-*   Share
-    *   Facebook
-    *   Twitter
-    *   Google+
-    *   Email
-*   Comment
+*   **Facebook**
+*   **Twitter**
+*   **Google+**
+*   **Email**
 
 NPR thanks our sponsors
 
@@ -505,12 +501,6 @@ Become an NPR sponsor
     *   Weekend Edition Saturday
     *   Weekend Edition Sunday
     *   Youth Radio
-*   Listen
-    *   Hourly News
-    *   NPR Program Stream
-    *   Find Station Streams
-    *   Podcasts
-    *   More Ways To Listen
 *   About
     *   NPR Overview
     *   NPR Finances
