@@ -7,181 +7,167 @@ Skip to content Check Your Symptoms Find A Doctor Sign In Sign UpSubscribe
     *   Sign Out
 
 *   Health  
-    A-Z
+    A-Z Common Conditions View All
+    
+    *   ADD/ADHD
+    *   Allergies
+    *   Arthritis
+    *   Cancer
+    *   Cold, Flu &. Cough
+    *   Depression
+    *   Diabetes
+    
+    *   Eye Health
+    *   Heart Disease
+    *   Heartburn/GERD
+    *   Pain Management
+    *   Sexual Conditions
+    *   Skin Problems
+    *   Sleep Disorders
+    
+    Featured Topics
+    
+    *   See What Severe Psoriasis Looks Like
+    *   16 Tips to Help You Get Organized
+    *   Feeling Your Best When You Have MS
+    
+    Symptom Checker
+    
+    Health Concern On Your Mind?
+    
+    See what your medical symptoms could mean, and learn about possible conditions.
+    
+    Get Started Resources
+    *   Second Opinion Read expert perspectives on popular health topics
+    *   Communities Connect with people like you, and get expert guidance on living a healthy life
+    *   Insurance Guide Get ready for changes to your health care coverage
+    *   Physician Directory Find a doctor in your areaPain Coach Track your pain levels, triggers, and treatments. Set goals and get tips with our app. Download
 *   Drugs &  
-    Supplements
+    Supplements Find Information About:
+    
+    Drugs &. Supplements
+    
+    Get information and reviews on prescription drugs, over-the-counter medications, vitamins, and supplements. Search by name or medical condition.
+    
+    *   Find or Review a Drug
+    *   Find or Review a Vitamin or Supplement
+    *   Check for Drug Interactions
+    
+    Drugs Basics &. Safety
+    
+    *   Commonly Abused Drugs
+    *   What's Your Medication IQ?
+    *   Taking Medications During Pregnancy
+    
+    Pill Identifier
+    
+    Having trouble identifying your pills?
+    
+    Enter the shape, color, or imprint of your prescription or OTC drug. Our pill identification tool will display pictures that you can compare to your pill.
+    
+    Get Started My Medicine
+    
+    Save your medicine, check interactions, sign up for FDA alerts, create family profiles and more.
+    
+    Get Started Drug News
+    *   Vitamin B12 May Not Help Some Seniors
+    *   Do Supplements Give Athletes an Edge?
+    *   New Schizophrenia Drug Approved
+    *   FDA: New, Stronger Warning for NSAIDs
+    *   New Drug Approved for Heart FailureMobile Drug Information App Drug, supplement, and vitamin information on the go. Download
 *   Living  
-    Healthy
+    Healthy Featured Content
+    
+    *   Improve Your Concentration  
+        These Foods and Drinks Can Help
+    
+    Allergy App Fight allergies with daily forecasts, local alerts, and personalized tips. Download Living Healthy Centers View All Diet, Food &. Fitness
+    
+    *   Diet &. Weight Management
+    *   Weight Loss &. Obesity
+    *   Food &. Recipes
+    *   Fitness &. Exercise
+    
+    Beauty &. Balance
+    
+    *   Healthy Beauty
+    *   Health &. Balance
+    *   Sex &. Relationships
+    *   Oral Care
+    
+    Living Well
+    
+    *   Women's Health
+    *   Men's Health
+    *   Aging Well
+    *   Teens
+    *   Fit Kids
+    
+    Featured Topics
+    *   Overcome Your Fear of Public Speaking
+    *   New Clues Why Mosquitos Attack You
+    *   Why Do You ... ACHOO!?
+    *   Flash Fitness: Try the 7-Minute Workout
+    *   Have Sensitive Teeth? See What to Do
+    *   16 Tips to Help You Get Organized
 *   Family &  
-    Pregnancy
+    Pregnancy Featured Content
+    
+    *   What's That Rash? How to Treat Childhood Skin Problems
+    
+    Pregnancy App The big day is coming! Get organized and track baby's weekly development. Download Family and Pregnancy Centers Pregnancy
+    
+    *   Trying to Conceive
+    *   First Trimester
+    *   Second Trimester
+    *   Third Trimester
+    
+    Parenting
+    
+    *   Newborn &. Baby
+    *   Children's Health
+    *   Children's Vaccines
+    *   Raising Fit Kids
+    
+    Pets
+    
+    *   Healthy Cats
+    *   Healthy Dogs
+    
+    Featured Topics
+    *   When Autism Grows Up
+    *   Top Children's Hospitals Ranked
+    *   Antidepressants Linked to Birth Defects
+    *   When Are You Contagious?
+    *   Which Birth Control Is Best for You?
+    *   New Test May Help Spot Male Infertility
 *   News &  
-    Experts
-
-Common Conditions View All
-
-*   ADD/ADHD
-*   Allergies
-*   Arthritis
-*   Cancer
-*   Cold, Flu &. Cough
-*   Depression
-*   Diabetes
-
-*   Eye Health
-*   Heart Disease
-*   Heartburn/GERD
-*   Pain Management
-*   Sexual Conditions
-*   Skin Problems
-*   Sleep Disorders
-
-Featured Topics
-
-*   See What Severe Psoriasis Looks Like
-*   16 Tips to Help You Get Organized
-*   Feeling Your Best When You Have MS
-
-Symptom Checker
-
-Health Concern On Your Mind?
-
-See what your medical symptoms could mean, and learn about possible conditions.
-
-Get Started Resources
-
-*   Second Opinion Read expert perspectives on popular health topics
-*   Communities Connect with people like you, and get expert guidance on living a healthy life
-*   Insurance Guide Get ready for changes to your health care coverage
-*   Physician Directory Find a doctor in your area
-
-Pain Coach Track your pain levels, triggers, and treatments. Set goals and get tips with our app. Download Find Information About:
-
-Drugs &. Supplements
-
-Get information and reviews on prescription drugs, over-the-counter medications, vitamins, and supplements. Search by name or medical condition.
-
-*   Find or Review a Drug
-*   Find or Review a Vitamin or Supplement
-*   Check for Drug Interactions
-
-Drugs Basics &. Safety
-
-*   Commonly Abused Drugs
-*   What's Your Medication IQ?
-*   Taking Medications During Pregnancy
-
-Pill Identifier
-
-Having trouble identifying your pills?
-
-Enter the shape, color, or imprint of your prescription or OTC drug. Our pill identification tool will display pictures that you can compare to your pill.
-
-Get Started My Medicine
-
-Save your medicine, check interactions, sign up for FDA alerts, create family profiles and more.
-
-Get Started Drug News
-
-*   Vitamin B12 May Not Help Some Seniors
-*   Do Supplements Give Athletes an Edge?
-*   New Schizophrenia Drug Approved
-*   FDA: New, Stronger Warning for NSAIDs
-*   New Drug Approved for Heart Failure
-
-Mobile Drug Information App Drug, supplement, and vitamin information on the go. Download Featured Content
-
-*   Improve Your Concentration  
-    These Foods and Drinks Can Help
-
-Allergy App Fight allergies with daily forecasts, local alerts, and personalized tips. Download Living Healthy Centers View All Diet, Food &. Fitness
-
-*   Diet &. Weight Management
-*   Weight Loss &. Obesity
-*   Food &. Recipes
-*   Fitness &. Exercise
-
-Beauty &. Balance
-
-*   Healthy Beauty
-*   Health &. Balance
-*   Sex &. Relationships
-*   Oral Care
-
-Living Well
-
-*   Women's Health
-*   Men's Health
-*   Aging Well
-*   Teens
-*   Fit Kids
-
-Featured Topics
-
-*   Overcome Your Fear of Public Speaking
-*   New Clues Why Mosquitos Attack You
-*   Why Do You ... ACHOO!?
-*   Flash Fitness: Try the 7-Minute Workout
-*   Have Sensitive Teeth? See What to Do
-*   16 Tips to Help You Get Organized
-
-Featured Content
-
-*   What's That Rash? How to Treat Childhood Skin Problems
-
-Pregnancy App The big day is coming! Get organized and track baby's weekly development. Download Family and Pregnancy Centers Pregnancy
-
-*   Trying to Conceive
-*   First Trimester
-*   Second Trimester
-*   Third Trimester
-
-Parenting
-
-*   Newborn &. Baby
-*   Children's Health
-*   Children's Vaccines
-*   Raising Fit Kids
-
-Pets
-
-*   Healthy Cats
-*   Healthy Dogs
-
-Featured Topics
-
-*   When Autism Grows Up
-*   Top Children's Hospitals Ranked
-*   Antidepressants Linked to Birth Defects
-*   When Are You Contagious?
-*   Which Birth Control Is Best for You?
-*   New Test May Help Spot Male Infertility
-
-News View All
-
-*   Why You Should Rethink That Drink Before Dinner
-*   New Clues Why Mosquitoes Find You Irresistible
-*   Article Women: Too Much Sitting Ups Cancer Risk
-*   Article Popular Heartburn Meds Can Have Health Risks
-*   Article Do Supplements Give Athletes an Edge?
-
-WebMD Health Experts and Community
-
-Talk to health experts and other people like you in WebMD's Communities. It's a safe forum where you can create or participate in support groups and discussions about health topics that interest you.
-
-*   Second Opinion
+    Experts News View All
     
-    Read expert perspectives on popular health topics.
+    *   Why You Should Rethink That Drink Before Dinner
+    *   New Clues Why Mosquitoes Find You Irresistible
+    *   Article Women: Too Much Sitting Ups Cancer Risk
+    *   Article Popular Heartburn Meds Can Have Health Risks
+    *   Article Do Supplements Give Athletes an Edge?
     
-*   Community
+    WebMD Health Experts and Community
     
-    Connect with people like you, and get expert guidance on living a healthy life.
+    Talk to health experts and other people like you in WebMD's Communities. It's a safe forum where you can create or participate in support groups and discussions about health topics that interest you.
     
-
-Newsletters
-
-Sign up to receive WebMD's award-winning content delivered to your inbox.
-
-Sign Up
+    *   Second Opinion
+        
+        Read expert perspectives on popular health topics.
+        
+    *   Community
+        
+        Connect with people like you, and get expert guidance on living a healthy life.
+        
+    
+    Newsletters
+    
+    Sign up to receive WebMD's award-winning content delivered to your inbox.
+    
+    Sign Up
 
 Subscribe WebMD Home About WebMD Policies Email a Friend Print Article WebMD Privacy Policy Summary
 
