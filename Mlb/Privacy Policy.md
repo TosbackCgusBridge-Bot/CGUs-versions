@@ -108,7 +108,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Beat the Streak
     *   MLB.com Home Run Derby
     *   MLB.com Line Drive
-    *   RBI Baseball 15
+    *   R.B.I. Baseball 16
     *   MLB Ballpark Empire
     *   MLB.com Franchise MVP
     *   FAQMLB.com Line Drive
@@ -149,7 +149,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Fantasy Player Preview
     *   Fantasy Baseball 2016
     *   Free Agent Frenzy
-    *   R.B.I. Baseball 15
+    *   R.B.I. Baseball 16
     *   MLB.com Home Run Derby
     *   MLB.com Line Drive
     *   MLB Ballpark Empire
@@ -161,7 +161,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   WGT Baseball: MLB
     *   Prospect Watch
     *   Fantasy 411 Blog
-    *   Follow @Fantasy411Fantasy Player Preview 160x160 MLB.com Home Run Derby MLB.com Line Drive R.B.I. Baseball 15
+    *   Follow @Fantasy411Fantasy Player Preview 160x160 R.B.I. Baseball 16 MLB.com Line Drive MLB.com Home Run Derby
 *   Teams Teams American League AL East
     
     *   Baltimore
