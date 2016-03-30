@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts PODCAST: Connecting the dots between humans and coral reefs World Water Day: Building a sustainable future for water National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts PODCAST: Connecting the dots between humans and coral reefs Sanctuaries Oceans &. Coasts The mystery of the missing USS Conestoga is solved National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -104,7 +104,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Climate data and reports
 *   Budgets, grants and Corporate Services
 
-Enter Search Terms Spring outlook: moderate flood risk for drenched Louisiana, east Texas AROUND NOAA // The mystery of the missing USS Conestoga is solved Last light: Sunset at the South Pole United States and Cuba open doors to marine science cooperation Explorers welcome here: Discover the new NOAA.gov
+Enter Search Terms Spring outlook: moderate flood risk for drenched Louisiana, east Texas AROUND NOAA // NOAA deploys hurricane hunters, weather balloons, and drone to probe El Niño A Maine lobster fishing community confronts their changing climate Last light: Sunset at the South Pole Explorers welcome here: Discover the new NOAA.gov
 
 *   About our agency
 *   News and features
