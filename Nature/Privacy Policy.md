@@ -1,85 +1,37 @@
-Start receiving our award-winning magazine today!
-
-Subscribe
-
-*   Magazine
-*   Newsroom
-*   Blogs
-
-Search:Search Donate Now
-
-*   **Where** We Work \[close\] Worldwide
+*   Our Work **Where We Work** United States **Priorities** **Science** \[close\] Where We Work
     
-    *   Africa
-    *   Australia
-    *   Asia &. the Pacific Islands
-    *   Caribbean
-    *   Central America
+    *   United States
     *   North America
-    *   South America
+    *   Latin America
+    *   Caribbean
+    *   Africa
+    *   Asia Pacific
+    *   Australia
     *   Europe
     
-    United States
+    Priorities
     
-    *   Alabama
-    *   Alaska
-    *   Arizona
-    *   Arkansas
-    *   California
-    *   Colorado
-    *   Connecticut
-    *   Delaware
-    *   Florida
-    *   Georgia
-    *   Hawaii
-    *   Idaho
-    *   Illinois
-    *   Indiana
-    *   Iowa
-    *   Kansas
-    *   Kentucky
+    *   Lands
+    *   Climate
+    *   Water
+    *   Oceans
+    *   Cities
     
-    *   Louisiana
-    *   Maine
-    *   Maryland/DC
-    *   Massachusetts
-    *   Michigan
-    *   Minnesota
-    *   Mississippi
-    *   Missouri
-    *   Montana
-    *   Nebraska
-    *   Nevada
-    *   New Hampshire
-    *   New Jersey
-    *   New Mexico
-    *   New York
-    *   North Carolina
-    *   North Dakota
+    Science
+    *   Latest Research
+    *   Conservation by Design
+    *   Cool Green Science Blog
+*   Get Involved **Visit a Preserve** **Volunteer** **Give** **Take Action** **Youth Programs** **Sign up for E-news** **Carbon Calculator** \[close\] Visit a Preserve Volunteer Give Take Action Youth Programs Sign up for E-news Carbon Calculator
+*   About Us **Mission** **History** **Accountability** **Leadership** **Newsroom** **Careers** **Contact Us** \[close\] Mission History Accountability Leadership Newsroom Careers Contact us
+*   Membership &. Giving **Membership** Join Renew Give Monthly **Gift Membership** **Gift Catalog** **Gift &. Estate Planning** **Honor &. Tribute Giving** **Other Ways to Give** \[close\] Membership
     
-    *   Ohio
-    *   Oklahoma
-    *   Oregon
-    *   Pennsylvania
-    *   Rhode Island
-    *   South Carolina
-    *   South Dakota
-    *   Tennessee
-    *   Texas
-    *   Utah
-    *   Vermont
-    *   Virginia
-    *   Washington
-    *   West Virginia
-    *   Wisconsin
-    *   Wyoming
-*   **How** We Work \[close\] Who We Work With Get Involved Habitats Urgent Issues
-*   **Science** in Action \[close\] Latest Research Leading with Science Our Scientists Conservation by Design Cool Green Science
-*   **Membership** &. Giving \[close\] Membership Become a Member Renew Membership Donate Now Monthly Giving Gift Ideas More Ways to Give Gift &. Estate Planning Tribute &. Honor Giving
-*   **Photos** &. Videos \[close\] Photo Contest Natural Light Photo of the Month Share Your Photos Videos
-*   **About** Us \[close\] Vision and Mission Our Governance Our Accountability Working with Companies Annual Report &. Financials Volunteer Careers Diversity &. Inclusion Contact Us
+    *   Join
+    *   Renew
+    *   Give Monthly
+    
+    **Gift Membership** Gift Catalog Gift &. Estate Planning Honor &. Tribute Giving Other Ways to Give
 
-About Us
+Donate Now Press enter to search. About Us
 
 *   Vision and Mission
 *   Our Governance
@@ -183,13 +135,7 @@ Help Conserve Water
 
 Everyday tips for how you can save water, our most precious resource. Read Our Tips
 
-Sign Up for Nature e-News Get our email updates filled with eco-tips and info on the places you care about most. GO We’re Accountable
-
-The Nature Conservancy makes careful use of your support.
-
-More Ratings
-
-Find Us On...
+SIGN UP FOR e-NEWS SUBSCRIBE STAY CONNECTED
 
 Facebook
 
@@ -205,83 +151,45 @@ Flipboard
 
 Flickr
 
-*   Where We Work
-    *   Worldwide
-    *   Africa
-    *   Asia &. the Pacific
-    *   Caribbean
-    *   Central America
-    *   Europe
-    *   North America
-    *   South America
-*   How We Work
-    *   Habitats
-    *   Urgent Issues
-*   Science in Action
-    *   Conservation by Design
-    *   Our Scientists
-    *   Science Council
-    *   Science Features
-    *   Conservation Gateway
-*   Membership &. Giving
-    *   Donate Now
-    *   Monthly Giving
-    *   Become a Member
-    *   Renew Membership
-    *   Log In
-    *   Gift &. Estate Planning
-    *   Tribute &. Honor Giving
-    *   Gift Memberships
-    *   Gift Ideas
-    *   Birthday Ecards
-*   Photos &. Video
-    *   Photography
-    *   Video
-    *   Public Service Advertisements
+GET TEXT UPDATES\* Spam Control Text:   Please leave this field empty GET UPDATES Please provide a valid phone number
+
+*   Our Work
+    *   Where We Work
+    *   Priorities
+    *   Science
 *   About Us
-    *   Vision &. Mission
-    *   Our Governance
-    *   Our Accountability
-    *   Why We're Effective
-    *   Working with Companies
-    *   Our Partners in Conservation
+    *   Mission
+    *   Newsroom
     *   Careers
-    *   Diversity
-    *   Social Media
-    *   Volunteer
+    *   Family of Sites
+*   Give
+    *   Donate Now
+    *   Membership
+    *   Gift &. Estate Planning
+    *   Gift Catalog
+*   **CONNECT**
+    *   Contact Us
+    *   (800) 628-6860
+    *   FAQ
+    *   Feedback
+    *   Log In
+*   Our Accountability
+    
+    More Ratings
+    
 
-*   Contact Us   |  
-*   Help/FAQs   |  
-*   Provide Feedback   |  
-*   Newsroom   |  
-*   Green Living   |  
-*   Advertise with Us
-
-Our Family of Sites
-
-*   Across the Globe
-    *   Australia: English
-    *   Brazil: Portugues
-    *   China: 简体中文
-    *   Hong Kong: 繁體中文 | English
-    *   Indonesia: Indonesian | English
-    *   Latin America: Español
-*   More Sites
-    *   Adopt an Acre
-    *   Blogs
-    *   Carbon Calculator
-    *   Climate Wizard
-    *   Conservation Gateway
-    *   Global Solutions
-    *   _Nature Conservancy_ Magazine
-    *   Nature Works Everywhere
-    *   Plant a Billion Trees
-    *   Science for Nature &. People
-    *   Use Your Outside Voice
+Global Sites*   Australia: English
+*   Brazil: Portugues
+*   China: 简体中文
+*   Hong Kong: 繁體中文 | English
+*   Indonesia: Indonesian | English
+*   Latin America: Español
 
 **Copyright © 2016 The Nature Conservancy. Terms of Use | Privacy Policy | Charitable Solicitation Disclosures**
 
 The Nature Conservancy is a nonprofit, tax-exempt charitable organization (tax identification number 53-0242652) under Section 501(c)(3) of the Internal Revenue Code. Donations are tax-deductible as allowed by law.
+
+\*By providing my mobile phone number, I agree that The Nature Conservancy may contact me by mobile phone call and text message regarding the Conservancy's programs, events and membership. Terms of Use | Privacy Policy
 
 x **Sign up** for Nature eNews! Sign Up for Nature e-News
 
