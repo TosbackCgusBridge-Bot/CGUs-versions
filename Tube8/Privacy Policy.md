@@ -18,7 +18,7 @@ Sign up Login Upload
 *   Gay
 *   Shemale
 
-AdBlock blows! Please disable the add-on to ensure you get the most out of Tube8's features and functionality. Read about why you shouldn't use AdBlock. Close Advertise On Tube8 Name: \*Email: Subject: Tube8 AdvertisingReport inappropriate contentFeedback Type: Type: VideoAdsProfileOther Spot/Placement: Screenshot: My site: I'm interested in: Global TrafficGeo-Targeted Traffic Link to content being reported: \*Comments:  
+You have Adblock enabled. Adblock has been known to cause issues with site functionality. If you experience any difficulties, please try disabling Adblock. Close Advertise On Tube8 Name: \*Email: Subject: Tube8 AdvertisingReport inappropriate contentFeedback Type: Type: VideoAdsProfileOther Spot/Placement: Screenshot: My site: I'm interested in: Global TrafficGeo-Targeted Traffic Link to content being reported: \*Comments:  
 Send Start advertising on Tube8 today: Create your advertiser account. TUBE8 - Terms of service
 
 Last Modified: January 14, 2016
