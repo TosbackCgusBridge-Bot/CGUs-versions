@@ -77,9 +77,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-Celebrating the winners in the "Open" category of the Sony World Photography Awards 2016! #SWPA
+Want sharp quality? Stream blockbusters &. classics in 4K res on your eligible Sony 4K Ultra HD TV, launches 4/4
 
-2016-03-30 01:25:22+00:00
+2016-03-29 23:50:01+00:00
 
 View Tweet
 
