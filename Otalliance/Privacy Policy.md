@@ -113,6 +113,10 @@ The 2016 Privacy Risk Summit will bring together leading privacy practitioners, 
 *   OTA Blog
 *   Newsletters
 
+Wed, Mar 30, 2016 FCC Chairman Takes Position on Privacy &. Broadband Providers
+
+Earlier this month FCC Chairman Wheeler released a draft fact sheet and Notice of Proposed Rule Making (NPRM), identifying several key concerns regarding consumer privacy and the use of their data. In response, **OTA submitted written comments to the Commission**.
+
 Mon, Mar 28, 2016 Mobilizing for Privacy on Campus - Mozilla Seeking Volunteers &. Mentors!
 
 Do you have privacy knowledge and a passion to work with students?  Or are you a college student with a passion to spread the word about privacy to your fellow students and beyond?  Mozilla’s new Take Back the Web Campaign may be for you.
@@ -126,10 +130,6 @@ The Online Trust Alliance’s IoT Trust Framework is rapidly evolving to be the 
 Mon, Mar 7, 2016 RSA 2016 Recap
 
 2016 marked the second consecutive year where OTA was named as an industry sponsor for the RSA Conference.  OTA's participation included a range of member and press briefings and activities. Highlights included the RSA member meet-up and "**Blended Intelligence**" reception at the Contemporary Jewish Museum, organized by IID/Infoblox.  In partnership with OTA founding members IID, TRUSTe and ThreatWave, the reception was noted as one of the best RSA events to connect, network and collaborate. 
-
-Fri, Feb 26, 2016 To Email or Not to Email?
-
-Keep your brand off the spam list through best practices in honoring unsubscribes. Email marketing remains a vibrant channel to interact with customers, and the better you respect customers’ wishes, the better engagement you’ll have.
 
 More >>. Resources
 
