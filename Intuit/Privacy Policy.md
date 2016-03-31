@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14635228055
+true true L14700480026
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p07.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Tue Mar 29 11:15:19 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Wed Mar 30 11:15:19 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,27 +49,23 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-2 Days Only | Ends March 29 | Code: TOSHOP2 Print Coupon Exclusions and DetailsOnline Only 50% Off\* select orig and reg-priced styles Shop Bedding and Bath Shop Window Shop Luggage40% Off\* select orig and reg-priced styles Shop Furniture and Mattresses Shop Home Decor30% Off\* select orig and reg-priced styles Shop Kitchen and Dining Shop Custom Blinds and ShadesIn Store and Online Extra 25% Off\*
+40% Off Xersion Activewear for the Family
 
-With your JCPenney Credit Card
+Select styles
 
-Or, Extra 15% Off\*
+Shop Men Shop Women Shop Kids       Up to 50% Off Home Sale
 
-With any other method of payment
+Select styles
 
-select orig, reg, sale and clearance-priced styles
-
-\*Credit offers subject to credit approval.
-
-Shop Men Shop Women Shop Kids Shop Baby Shop Handbags Shop Shoes Shop Fine and Fashion Jewelry Spring Essentials 7.99 A.N.A Tank
+Shop All Home Shop Bedding and Bath Shop window Shop Kitchen and Dining Shop Furniture and Mattresses Spring Essentials 7.99 A.N.A Tank
 
 Select styles, orig. $14
 
-Shop A.N.A Tank30 to 40% Off Hats and Sunglasses
+Shop A.N.A Tank40% Off Sunglasses and Flip Flops
 
 Select styles, reg. $18-$36
 
-Shop Hats and Sunglasses12.99 All St. John's Bay Solid Polos
+Shop Sunglasses and Flip Flops9.99 All St. John's Bay Solid Polos
 
 Reg. $26
 
@@ -77,11 +73,7 @@ Shop St. John's Bay Solid Polos19.99 Sandals for Her
 
 Select styles, reg. $40-$50
 
-Shop Sandals for Her     30 to 40% Off Swim for the Family
-
-Select styles, reg. $24-$104
-
-Shop Men Shop Women Shop Kids     40% Off Prom Dresses and Plus Prom Dresses
+Shop Sandals for Her     40% Off Prom Dresses and Plus Prom Dresses
 
 Select styles
 
@@ -101,11 +93,11 @@ Find a StoreOr Shop 50 to 80% Off Clearance Online Shop Clearance SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop JCPenney | optical
+Shop SportsFanShop Swim Shop
 
-Free Shipping on Contacts
+Make a splash in swimwear styles for the family.
 
-Shop Optical Write a Review For Your Chance to Win $1,000 Get Details: Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop Swim Now Write a Review For Your Chance to Win $1,000 Get Details: Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
