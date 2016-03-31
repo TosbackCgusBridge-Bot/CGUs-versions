@@ -63,10 +63,7 @@ My Bag (0) Wish List Search
 *   Promotions
     *   Spring Break Away Official Rules 2016
     *   Review Your Blues Sweepstakes Rules
-    *   Buckle Card Double Points 2016
-    *   Buckle Card Free Wallet or Wristlet
     *   Social Giveaway Official Rules
-    *   Best of the Blues Official Rules
     *   Store Events
     *   Sweepstakes Winners
 *   Gift Cards/Services
