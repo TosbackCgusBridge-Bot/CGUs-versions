@@ -62,17 +62,17 @@ Pinterest
 *   Shows
 *   Quizzes
 
-Privacy Policy | HSW NEXT PAGENEXT  
+Privacy Policy | HSW Privacy Policy   Next  
 
 **Privacy Policy**
 
 Up Next
 
-*   HowStuffWorks NOW: Peyote Paved the Way for Georgia’s Religious Liberty Bill
-*   Who Said It: Leslie Knope or Liz Lemon?
-*   The '30 Rock' Quiz
-*   BrainStuff: Is A 'Dog Year' Really 7 Years?
-*   HowStuffWorks NOW: How the Sharing Economy is Changing the World
+*   BrainStuff: What Are Eye Boogers?
+*   HowStuffWorks NOW: You Could Be a Contender
+*   Stuff Mom Never Told You: Can I Stop Feeling Ashamed of Sex?
+*   Who Said It: Tracy Jordan or Jean-Ralphio Saperstein?
+*   The Sleep Myths Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**MacGyver It! Beer Me! Let's Turn That Noun Into a Verb**
+**Merrick Garland Is a Legal Mystery**
 
-**Would You Rather Eat Cruz or Clinton? PancakeBot Can Make Both**
+**Blame That New Food Allergy on Your Transplant**
 
-**NASA's Aiming for Supersonic Jets Free of That Pesky Sonic Boom**
+**Eccentric Georgian Billionaire Takes Giant Tree for Sea Cruise**
 
 **See More Headlines »**
 
