@@ -77,7 +77,7 @@ If you have an unresolved privacy or data use concern that we have not addressed
 We need to collect certain information that personally identifies you in order to contact you, provide a service or carry out a transaction that you have requested, including, but not limited to, name, e-mail address, information about your job or company and credit card information.  OTA may use your personal information to provide you with more effective customer service, to improve the Site: (https://otalliance.org) and any related OTA products or services.  We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. \[Learn More\]
 
 **Data Sharing**  
-OTA does not share or sell any data to third parities with the exception of thrid parties who provide services on our behalf.  OTA occasionally hires other companies, consultants and contractors to provide limited services. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose.  \[Learn More\] 
+OTA does not share or sell any data to third parties with the exception of third parties who provide services on our behalf.  OTA occasionally hires other companies, consultants and contractors to provide limited services. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose.  \[Learn More\] 
 
 **Cookies and Other Tracking Technologies**  
 We and our service providers may use tracking technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the Site, track users’ movements around the Site, and gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies from these companies on an individual or aggregated basis. \[Learn More\]
@@ -98,6 +98,10 @@ Tue, Apr 5, 2016 2016 Bad Bot Report: Quantifying the Risk and Economic Impact o
 
 Distil Networks has produced their third annual Bad Bot Report. It's the IT Security Industry's most in-depth analysis on the sources, types, and sophistication levels of last year's bot attacks -- and there are serious implications for anyone responsible for securing websites and APIs.  Join Derek Brink, Vice President of Research at Aberdeen Group  and Rami Essaid, CEO of Distil Networks to learn more.
 
+Thu, Apr 7, 2016 When Do I Really Need to Pay Attention to IPv6?
+
+IPv6 crossed some major milestones in 2015. Join us as we predict what IPv6 will likely do in 2016 and beyond. This webinar will update you on how these milestones could impact you and your business. Join Pluralsight author Ed Horley and IPv6 Evangelist Tom Coffeen (author of O’Reilly’s “IPv6 Address Planning”) to learn more.
+
 Tue, May 10, 2016 Middle East (Cyber) Security Awards &. Conference (MESA)
 
 The Global Digital Transformation is posing new challenges to security &. risk executives globally. MESA is an event designed to highlight and discuss the biggest challenges of CISO’s and deliberate ways to address it. While all this is done, MESA is also celebrated by recognizing and awarding the security and risk leaders of Middle East. MESA Conference will be engaging in a dialogue with some of the top experts from the information security and Risk industry to debate and discuss on the key issues and challenges facing the sector.
@@ -106,16 +110,14 @@ Tue, Jun 7, 2016 IRCE 2016
 
 Internet Retailer Conference &. Exhibition (IRCE) provides you with a conference full of industry experts and unrivaled agenda content, an exhibit hall filled with the latest and greatest solution providers, and a community made for networking with thousands of like-minded industry peers. IRCE 2016 will take place in the world-class city of Chicago, June 7-10, at McCormick Place West.
 
-Wed, Jun 8, 2016 Privacy Risk Summit 2016
-
-The 2016 Privacy Risk Summit will bring together leading privacy practitioners, lawyers, regulators, and academics to address the top privacy risks and share proven strategies for success. The Summit builds on the success of the EU Data Protection Conference and IoT Privacy Summits to offer an expanded program with three parallel conference tracks focusing on the risks rising from technological and regulatory change and privacy risk management best practices.
+More >>.
 
 *   OTA Blog
 *   Newsletters
 
 Wed, Mar 30, 2016 FCC Chairman Takes Position on Privacy &. Broadband Providers
 
-Earlier this month FCC Chairman Wheeler released a draft fact sheet and Notice of Proposed Rule Making (NPRM), identifying several key concerns regarding consumer privacy and the use of their data. In response, **OTA submitted written comments to the Commission**.
+Earlier this month FCC Chairman Wheeler released a draft fact sheet and Notice of Proposed Rule Making (NPRM), identifying several key concerns regarding consumer privacy and the use of their data. In response, **OTA submitted written comments to the Commission**.  _Update on March 31 the FCC Commisioners voted 3 to 2 to move forward on the NPRM._
 
 Mon, Mar 28, 2016 Mobilizing for Privacy on Campus - Mozilla Seeking Volunteers &. Mentors!
 
