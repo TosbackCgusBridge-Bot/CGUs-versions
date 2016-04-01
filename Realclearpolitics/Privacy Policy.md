@@ -29,7 +29,7 @@ Many companies offer programs that help you to visit websites anonymously. While
 
 What About Cookies?
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. RealClearPolitics cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is.
+Cookies are alphanumeric identifiers that we transfer to your computerâ€™s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. RealClearPolitics cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is.
 
 The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of RealClearPolitics's most attractive features.
 
@@ -74,4 +74,6 @@ Privacy Policy Changes
 
 We reserve the right to change this Privacy Policy at any time. You agree to obtain changes to this Privacy Policy electronically by visiting this Site. We require you to check back from time to time to review changes to our Privacy Policy.
 
-©2015 RealClearPolitics | Go to full site
+  
+  
+©2016 RealClearPolitics | Go to full site
