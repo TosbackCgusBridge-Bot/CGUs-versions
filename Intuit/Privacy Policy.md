@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14700480026
+true true C14643418981
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Wed Mar 30 11:15:19 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Thu Mar 31 11:15:30 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -61,15 +61,15 @@ Shop All Home Shop Bedding and Bath Shop window Shop Kitchen and Dining Shop Fur
 
 Select styles, orig. $14
 
-Shop A.N.A Tank40% Off Sunglasses and Flip Flops
+Shop A.N.A Tank 40% Off Sunglasses and Flip Flops
 
 Select styles, reg. $18-$36
 
-Shop Sunglasses and Flip Flops9.99 All St. John's Bay Solid Polos
+Shop Sunglasses and Flip Flops 9.99 All St. John's Bay Solid Polos
 
 Reg. $26
 
-Shop St. John's Bay Solid Polos19.99 Sandals for Her
+Shop St. John's Bay Solid Polos 19.99 Sandals for Her
 
 Select styles, reg. $40-$50
 
@@ -77,11 +77,11 @@ Shop Sandals for Her     40% Off Prom Dresses and Plus Prom Dresses
 
 Select styles
 
-Shop Prom Dresses Shop Plus Prom Dresses50% Off Guys' Suit Separates, Sport Coats and Dress Pants
+Shop Prom Dresses Shop Plus Prom Dresses 50% Off Guys' Suit Separates, Sport Coats and Dress Pants
 
 Select styles
 
-Shop Guys' Suit Separates, Sport Coats and Dress Pants30 to 60% Off Fashion Jewelry and Fashion Silver
+Shop Guys' Suit Separates, Sport Coats and Dress Pants 30 to 60% Off Fashion Jewelry and Fashion Silver
 
 Select styles
 
@@ -89,7 +89,7 @@ Shop Fashion Jewelry Shop Fashion Silver Shop Shoes     Limited Time In Store 
 
 50 to 80% Off Clearance
 
-Find a StoreOr Shop 50 to 80% Off Clearance Online Shop Clearance SportsFanShop
+Find a Store Or Shop 50 to 80% Off Clearance Online Shop Clearance SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
@@ -99,9 +99,7 @@ Make a splash in swimwear styles for the family.
 
 Shop Swim Now Write a Review For Your Chance to Win $1,000 Get Details: Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
-Recommendations Discover handpicked items we think you'll love. sign in
-
-get connected
+Recommendations Discover handpicked items we think you'll love. sign in get connected
 
 *   1.800.322.1189
 
