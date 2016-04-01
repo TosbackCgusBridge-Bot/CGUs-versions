@@ -1,18 +1,14 @@
 *   CRM
-*   TELCOS
 *   COMPANY
     *   About
     *   Blog
-    *   Jobs
     *   Contact
 *   SUPPORT
 
 *   CRM
-*   TELCOS
 *   COMPANY
     *   About
     *   Blog
-    *   Jobs
     *   Contact
 *   SUPPORT
 
@@ -65,12 +61,7 @@ If you have further questions or comments about the Data Privacy Provisions, ple
 Do you like Phonedeck? Try it right now for free! Get 30 days trial! Menu
 
 *   Products
-*   Enterprises
-*   Partners
-*   Telcos
 *   Support
-*   Blog
-*   Jobs
 *   Contact
 *   Terms of Service
 *   Privacy Policy
