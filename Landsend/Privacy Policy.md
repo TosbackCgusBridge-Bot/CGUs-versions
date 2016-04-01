@@ -1,297 +1,6 @@
-skip to content skip to navigation skip to search
-
-Cookies are not enabled on your browser
-
-You must have Cookies enabled on your Web browser to fully interact with our site and place an order. (To enable Cookies, please adjust the security or privacy setting for your browser.)
-
-JavaScript is not enabled on your browser
-
-You must have JavaScript enabled on your Web browser to fully interact with our site and place an order. (To enable JavaScript, open Preferences for your browser and select the "enable JavaScript" checkbox.)
-
-*   New Arrivals
-    *   *   Back to Main Menu New Arrivals
-    *   *   *   Women
-            *   Men
-            *   Girls
-            *   Boys
-            *   Home
-*   Women
-    *   *   Back to Main Menu Women
-        *   Featured Shops
-            *   Back to Women Featured Shops
-            *   Swim Shop
-            *   Wear to Work
-            *   Summer Sneak Peek
-            *   Tunic Shop
-            
-            *   New Arrivals
-            *   The Starfish Collection
-            *   Swim Finder
-            *   Cardigan Shop
-            *   Sale
-        *   Shop By Size Range
-            *   Back to Women Shop By Size Range
-            *   Regular
-            *   Plus
-            *   Petite
-            *   Tall
-            *   Petite Plus
-            *   Tall Plus
-    *   *   Categories
-            *   Swimsuits
-            *   Sweaters
-            *   Knit Tops &. Tees
-            *   Shirts &. Blouses
-            *   Pants
-            *   Jeans
-            *   Shorts
-            *   Dresses
-            *   Skirts
-            *   Blazers &. Jackets
-            *   Activewear
-            *   Coats
-            *   Sleepwear
-            *   Shoes
-            *   Accessories
-            *   Bags
-            *   Long Underwear
-*   Men
-    *   *   Back to Main Menu Men
-        *   Featured Shops
-            *   Back to Men Featured Shops
-            *   No Iron Shop
-            *   Supima Shirts &. Sweaters
-            *   Summer Event Essentials
-            *   Swim Shop 2016
-            
-            *   New Arrivals
-            *   Vacation Getaway
-            *   Tailored Fit Shop
-            *   Big &. Tall Shop
-            *   Sale
-        *   Shop By Size Range
-            *   Back to Men Shop By Size Range
-            *   Regular
-            *   Big
-            *   Tall
-            *   Big &. Tall
-    *   *   Categories
-            *   Dress Shirts
-            *   Casual Shirts
-            *   Polo Shirts
-            *   Knit Tops &. Tees
-            *   Activewear
-            *   Sweaters
-            *   Sportcoats &. Blazers
-            *   Pants
-            *   Jeans
-            *   Shorts
-            *   Swimwear
-            *   Coats
-            *   Accessories
-            *   Sleepwear
-            *   Underwear &. Long Underwear
-            *   Shoes
-            *   Bags
-*   Kids
-    *   *   Back to Main Menu Kids
-        *   Featured Shops
-            *   Back to Kids Featured Shops
-            *   Swim Shop
-            *   Dress Up
-            *   School Uniforms
-            *   Shoes &. Sandals
-            
-            *   New Arrivals
-            *   Boys Iron Knee
-            *   Girls Knit Kit
-            *   Sale
-        *   Shop By Age Range
-            *   Back to Kids Shop By Age Range
-            *   *   Toddler Girl (2T-4T)
-                *   Little Girl (size 4-7)
-                *   Big Girl (size 7-20)
-                
-                *   Toddler Boy (2T-4T)
-                *   Little Boy (size 4-7)
-                *   Big Boy (size 7-20)
-    *   *   **Girls**
-            *   Back to Kids Girls
-            *   Swimsuits
-            *   Tops
-            *   Sweaters
-            *   Dresses
-            *   Pants &. Leggings
-            *   Jeans
-            *   Skirts &. Skorts
-            *   Shorts
-            *   Blazers &. Jackets
-            *   Sleepwear
-            *   Outerwear
-            *   Shoes
-            *   Accessories
-            *   Long Underwear
-            *   Backpacks &. Lunch Boxes
-    *   *   **Boys**
-            *   Back to Kids Boys
-            *   Swimwear
-            *   Tops
-            *   Sweaters
-            *   Pants
-            *   Jeans
-            *   Shorts
-            *   Blazers &. Jackets
-            *   Sleepwear
-            *   Outerwear
-            *   Activewear
-            *   Shoes
-            *   Accessories
-            *   Long Underwear
-            *   Backpacks &. Lunch Boxes
-*   Swim
-    *   *   Back to Main Menu Swim
-        *   Shop Swim
-        *   Women
-        *   Men
-        *   Girls
-        *   Boys
-        
-        *   Water Shoes &. Sandals
-        *   Totes &. Beach Bags
-        *   Beach Towels
-        *   Women's Swim Finder
-        *   Sale
-*   Shoes
-    *   *   Back to Main Menu Shoes
-        *   Shop Shoes
-        *   Women
-        *   Men
-        *   Girls
-        *   Boys
-        
-        *   Water Shoes &. Sandals
-        *   Trekkers Mocs &. More
-        *   Boots &. Booties
-        *   Accessories Shop
-        *   Sale
-*   Home
-    *   *   Back to Main Menu Home
-        *   Featured Shops
-            *   Back to Home Featured Shops
-            *   New Arrivals
-            *   Supima Bedding &. Bath
-            *   Oxford Bedding
-            *   No Iron Bedding
-            *   Canvas Totes &. More
-            *   Sale
-        
-    *   *   **Bedding**
-            *   Back to All Home Bedding
-            *   Sheets &. Pillowcases
-            *   Duvet Covers &. Comforters
-            *   Blankets &. Throws
-            *   Mattress Pads
-            *   Pillows
-        *   **Bath**
-            *   Back to All Home Bath
-            *   Towels
-            *   Rugs &. Mats
-            *   Beach Towels
-            *   Shower Curtains
-        *   **Décor**
-            *   Back to All Home Décor
-        *   **Kids' Room**
-            *   Back to All Home Kids' Room
-        *   **Dog Shop**
-            *   Back to All Home Dog Shop
-        
-*   Uniforms
-    *   *   Back to Main Menu Uniforms
-        *   Find your School
-        *   Featured Shops
-            *   Back to Uniforms Featured Shops
-            *   Find Your School
-            *   Spiritwear
-            *   After School
-            
-            *   Best-in-Class Polos
-            *   Iron Knee Pants
-            *   Phys Ed Locker Room
-            *   Sale
-        *   Shop By Age Range
-            *   Back to Uniforms Shop By Age Range
-            *   Toddler
-            *   Junior
-            *   Little Kid
-            *   Young Men
-            *   Big Kid
-            *   Adult
-    *   *   **Girls &. Women**
-            *   Back to Uniforms Girls &. Women
-            *   Tops
-            *   Sweaters
-            *   Pants
-            *   Shorts
-            *   Dresses &. Jumpers
-            *   Skirts &. Skorts
-            *   Blazers
-            *   Activewear
-            *   Outerwear
-            *   Shoes
-            *   Accessories
-            *   Backpacks &. Bags
-    *   *   **Boys &. Men**
-            *   Back to Uniforms Boys &. Men
-            *   Tops
-            *   Sweaters
-            *   Pants
-            *   Shorts
-            *   Blazers
-            *   Activewear
-            *   Outerwear
-            *   Shoes
-            *   Accessories
-            *   Backpacks &. Bags
-*   Sale
-    *   Back to Main Menu
-    *   *   **Sale**
-            *   Back to Sale Sale
-            *   Women
-            *   Men
-            *   Girls
-            *   Boys
-            *   Home
-            *   School Uniforms
-    *   *   **Clearance**
-            *   Back to Clearance Clearance
-            *   Women
-            *   Men
-            *   Girls
-            *   Boys
-            *   Home
-            *   In-season Savings
-            *   Last Chance
-*   COMING SOON
-*   My Account
-    *   Back to Main Menu My Account
-    *   Sign In
-    *   Create an Account
-    *   Manage Account
-    *   Edit Order
-    *   Order History
-    *   Sign Out
-*   Help Center
-    *   Back to Main Menu Help Center
-    *   Contact Us
-    *   Order Tracking
-    *   FAQ
-    *   Live Chat
-*   Store Locator
+*   Stores
 *   Gift Cards
 *   Business Outfitters
-*   Ship To
-
-Bag0
 
 *   Help
     *   Contact Us
@@ -299,43 +8,604 @@ Bag0
     *   Make a Return
     *   FAQ
     *   Live Chat
-*   Store
-*   Gift Cards
-*   Business Outfitters
+*   Ship To
+
+*   Lands' End
+
+*   Lands' End
+
 *   My Account
     *   Sign In
     *   Create an Account
+    
     *   Manage Account
     *   Edit Order
     *   Order History
     *   Refer a Friend
     *   Sign Out
-*   Ship To
+*   Bag 0
 
-menu Lands' End Customer Service Menu
+1.800.963.4816 menu 0
 
-*   Customer Service
-    *   Frequently Asked Questions
-    *   Shipping &. Handling
-    *   Returns
-    *   Contact Us
-    *   Manage &. Track Orders
-    *   Gift Cards
-    *   Manage Email Subscription
-    *   Services
-    *   Legal Policies
-        *   Privacy
-        *   Terms of Use
-        *   Recall Alerts
-        *   Legal Information
-    *   Technical Information
-    *   Store Locator
-    *   More Lands' End Sites
-    *   Size Charts
-    *   Site Map
-    *   Glossary
+*   Women
+    
+    *   Lands' End
+    
+    Back | Women CATEGORIES
+    
+    *   Swimsuits
+    *   Knit Tops &. Tees
+    *   Shirts &. Blouses
+    *   Sweaters
+    *   Pants
+    *   Jeans
+    *   Shorts
+    *   Dresses
+    *   Skirts
+    *   Blazers &. Jackets
+    *   Activewear
+    *   Coats
+    *   Sleepwear
+    *   Shoes
+    *   Accessories
+    *   Bags
+    *   Long Underwear
+    
+    FEATURED SHOPS
+    
+    *   New Arrivals
+    *   Swim Shop
+    *   Wear to Work
+    *   Summer Sneak Peek
+    *   Tunic Shop
+    *   Starfish Collection
+    *   Swim Finder
+    *   Cardigan Shop
+    *   Sale
+    
+    SHOP BY SIZE RANGE
+    *   Regular
+    *   Petite
+    *   Tall
+    *   Plus
+    *   Petite Plus
+    *   Tall Plus
+*   Men
+    
+    *   Lands' End
+    
+    Back | Men CATEGORIES
+    
+    *   Dress Shirts
+    *   Casual Shirts
+    *   Polo Shirts
+    *   Knit Tops &. Tees
+    *   Activewear
+    *   Sweaters
+    *   Sportcoats &. Blazers
+    *   Pants
+    *   Jeans
+    *   Shorts
+    *   Swimwear
+    *   Coats
+    *   Accessories
+    *   Sleepwear
+    *   Underwear &. Long Underwear
+    *   Shoes
+    *   Bags
+    
+    FEATURED SHOPS
+    
+    *   New Arrivals
+    *   Supima Shirts &. Sweaters
+    *   Essentials for Summer Events
+    *   Swim Shop 2016
+    *   No Iron Shop
+    *   Vacation Getaway
+    *   Tailored Fit Shop
+    *   Big &. Tall Shop
+    *   Sale
+    
+    SHOP BY SIZE RANGE
+    *   Regular
+    *   Tall
+    *   Big
+    *   Big &. Tall
+*   Kids
+    
+    *   Lands' End
+    
+    Back | Kids Girls>.
+    
+    *   Swimsuits
+    *   Tops
+    *   Sweaters
+    *   Dresses
+    *   Pants &. Leggings
+    *   Jeans
+    *   Skirts &. Skorts
+    *   Shorts
+    *   Blazers &. Jackets
+    *   Sleepwear
+    *   Outerwear
+    *   Shoes
+    *   Accessories
+    *   Long Underwear
+    *   Backpacks &. Lunch Boxes
+    
+    Boys>.
+    
+    *   Swimwear
+    *   Tops
+    *   Sweaters
+    *   Pants
+    *   Jeans
+    *   Shorts
+    *   Blazers &. Jackets
+    *   Sleepwear
+    *   Outerwear
+    *   Activewear
+    *   Shoes
+    *   Accessories
+    *   Long Underwear
+    *   Backpacks &. Lunch Boxes
+    
+    FEATURED SHOPS
+    
+    *   New Arrivals
+    *   Swim Shop
+    *   Dress Up
+    *   School Uniforms
+    *   Shoes &. Sandals
+    *   Boys' Iron Knee
+    *   Girls' Knit Kit
+    *   Sale
+    
+    SHOP BY AGE RANGE
+    *   Toddler Girl (2T-4T)
+    *   Little Girl (size 4-7)
+    *   Big Girl (size 7-20)
+    *   Toddler Boy (2T-4T)
+    *   Little Boy (size 4-7)
+    *   Big Boy (size 7-20)
+*   Swim
+    
+    *   Lands' End
+    
+    Back | Swim SHOP SWIM
+    
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    
+    FEATURED SHOPS
+    *   Swim Tees &. Rashguards
+    *   Water Shoes &. Sandal
+    *   Totes &. Beach Bags
+    *   Beach Towels
+    *   Women's Swim Finder
+*   Shoes
+    
+    *   Lands' End
+    
+    Back | Shoes SHOP SHOES
+    
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    
+    FEATURED SHOPS
+    *   Water Shoes &. Sandals
+    *   Trekkers, Mocs &. More
+    *   Boots &. Booties
+    *   Accessories Shop
+    *   Sale
+*   Home
+    
+    *   Lands' End
+    
+    Back | Home BEDDING >.
+    
+    *   Sheets &. Pillowcases
+    *   Duvet Covers &. Comforters
+    *   Blankets &. Throws
+    *   Mattress Pads
+    *   Pillows
+    
+    BATH >.
+    
+    *   Bath Towels
+    *   Rugs &. Mats
+    *   Beach Towels
+    *   Shower Curtains
+    
+    DECOR >. KIDS ROOM >. DOG SHOP >. FEATURED SHOPS
+    *   New Arrivals
+    *   Supima Bedding &. Bath
+    *   Oxford Bedding
+    *   No Iron Bedding
+    *   Canvas Totes &. More
+    *   Sale
+*   Uniforms
+    
+    *   Lands' End
+    
+    Back | Uniforms Girls &. Women>.
+    
+    *   Tops
+    *   Sweaters
+    *   Pants
+    *   Shorts
+    *   Dresses &. Jumpers
+    *   Skirts &. Skorts
+    *   Blazers
+    *   Activewear
+    *   Outerwear
+    *   Shoes
+    *   Accessories
+    *   Backpacks &. Bags
+    
+    Boys &. Men>.
+    
+    *   Tops
+    *   Sweaters
+    *   Pants
+    *   Shorts
+    *   Blazers
+    *   Activewear
+    *   Outerwear
+    *   Shoes
+    *   Accessories
+    *   Backpacks &. Bags
+    
+    FIND YOUR SCHOOL>. FEATURED SHOPS
+    
+    *   Best-in-Class Polos
+    *   Iron Knee Pants
+    *   Phys-ed Locker Room
+    *   Spiritwear
+    *   After School
+    *   Sale
+    
+    SHOP BY AGE RANGE
+    *   Toddler
+    *   Little Kid
+    *   Big Kid
+    *   Junior
+    *   Young Men
+    *   Adult
+*   Sale
+    
+    *   Lands' End
+    
+    Back | Sale SALE>.
+    
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    *   Home
+    *   School Uniforms
+    
+    CLEARANCE>.
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    *   Home
+    *   School Uniforms
+    *   In-Season Savings
+    *   Last Chance
+*   Coming Soon
 
-  Privacy Policy Last Updated: June 22‚ 2015
+*   Lands' End
+
+*   My Account
+*   Help
+*   Stores
+*   Gift Cards
+*   Business  
+    Outfitters
+*   Ship To 
+*   1.800.963.4816
+
+*   Women
+    
+    *   Lands' End
+    
+    Back | Women CATEGORIES Back | CATEGORIES
+    
+    *   Swimsuits
+    *   Knit Tops &. Tees
+    *   Shirts &. Blouses
+    *   Sweaters
+    *   Pants
+    *   Jeans
+    *   Shorts
+    *   Dresses
+    *   Skirts
+    *   Blazers &. Jackets
+    *   Activewear
+    *   Coats
+    *   Sleepwear
+    *   Shoes
+    *   Accessories
+    *   Bags
+    *   Long Underwear
+    
+    FEATURED SHOPS Back | Women
+    
+    *   New Arrivals
+    *   Swim Shop
+    *   Wear to Work
+    *   Summer Sneak Peek
+    *   Tunic Shop
+    *   Starfish Collection
+    *   Swim Finder
+    *   Cardigan Shop
+    *   Sale
+    
+    SHOP BY SIZE RANGE Back | Women
+    *   Regular
+    *   Petite
+    *   Tall
+    *   Plus
+    *   Petite Plus
+    *   Tall Plus
+*   Men
+    
+    *   Lands' End
+    
+    Back | Men CATEGORIES Back | CATEGORIES
+    
+    *   Dress Shirts
+    *   Casual Shirts
+    *   Polo Shirts
+    *   Knit Tops &. Tees
+    *   Activewear
+    *   Sweaters
+    *   Sportcoats &. Blazers
+    *   Pants
+    *   Jeans
+    *   Shorts
+    *   Swimwear
+    *   Coats
+    *   Accessories
+    *   Sleepwear
+    *   Underwear &. Long Underwear
+    *   Shoes
+    *   Bags
+    
+    FEATURED SHOPS Back | Men
+    
+    *   New Arrivals
+    *   Supima Shirts &. Sweaters
+    *   Essentials for Summer Events
+    *   Swim Shop 2016
+    *   No Iron Shop
+    *   Vacation Getaway
+    *   Tailored Fit Shop
+    *   Big &. Tall Shop
+    *   Sale
+    
+    SHOP BY SIZE RANGE Back | Men
+    *   Regular
+    *   Tall
+    *   Big
+    *   Big &. Tall
+*   Kids
+    
+    *   Lands' End
+    
+    Back | Kids Girls Back | Girls
+    
+    *   Swimsuits
+    *   Tops
+    *   Sweaters
+    *   Dresses
+    *   Pants &. Leggings
+    *   Jeans
+    *   Skirts &. Skorts
+    *   Shorts
+    *   Blazers &. Jackets
+    *   Sleepwear
+    *   Outerwear
+    *   Shoes
+    *   Accessories
+    *   Long Underwear
+    *   Backpacks &. Lunch Boxes
+    
+    Boys Back | Boys
+    
+    *   Swimwear
+    *   Tops
+    *   Sweaters
+    *   Pants
+    *   Jeans
+    *   Shorts
+    *   Blazers &. Jackets
+    *   Sleepwear
+    *   Outerwear
+    *   Activewear
+    *   Shoes
+    *   Accessories
+    *   Long Underwear
+    *   Backpacks &. Lunch Boxes
+    
+    FEATURED SHOPS Back | Kids
+    
+    *   New Arrivals
+    *   Swim Shop
+    *   Dress Up
+    *   School Uniforms
+    *   Shoes &. Sandals
+    *   Boys' Iron Knee
+    *   Girls' Knit Kit
+    *   Sale
+    
+    SHOP BY AGE RANGE Back | Kids
+    *   Toddler Girl (2T-4T)
+    *   Little Girl (size 4-7)
+    *   Big Girl (size 7-20)
+    *   Toddler Boy (2T-4T)
+    *   Little Boy (size 4-7)
+    *   Big Boy (size 7-20)
+*   Swim
+    
+    *   Lands' End
+    
+    Back | Swim SHOP SWIM Back | SHOP SWIM
+    
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    
+    FEATURED SHOPS Back | Swim
+    *   Swim Tees &. Rashguards
+    *   Water Shoes &. Sandal
+    *   Totes &. Beach Bags
+    *   Beach Towels
+    *   Women's Swim Finder
+*   Shoes
+    
+    *   Lands' End
+    
+    Back | Shoes SHOP SHOES Back | SHOP SHOES
+    
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    
+    FEATURED SHOPS Back | Shoes
+    *   Water Shoes &. Sandals
+    *   Trekkers, Mocs &. More
+    *   Boots &. Booties
+    *   Accessories Shop
+    *   Sale
+*   Home
+    
+    *   Lands' End
+    
+    Back | Home BEDDING Back | BEDDING
+    
+    *   Sheets &. Pillowcases
+    *   Duvet Covers &. Comforters
+    *   Blankets &. Throws
+    *   Mattress Pads
+    *   Pillows
+    
+    BATH Back | BATH
+    
+    *   Bath Towels
+    *   Rugs &. Mats
+    *   Beach Towels
+    *   Shower Curtains
+    
+    DECOR Back | DECOR KIDS ROOM Back | KIDS ROOM DOG SHOP Back | DOG SHOP FEATURED SHOPS Back | Home
+    *   New Arrivals
+    *   Supima Bedding &. Bath
+    *   Oxford Bedding
+    *   No Iron Bedding
+    *   Canvas Totes &. More
+    *   Sale
+*   Uniforms
+    
+    *   Lands' End
+    
+    Back | Uniforms Girls &. Women Back | Girls &. Women
+    
+    *   Tops
+    *   Sweaters
+    *   Pants
+    *   Shorts
+    *   Dresses &. Jumpers
+    *   Skirts &. Skorts
+    *   Blazers
+    *   Activewear
+    *   Outerwear
+    *   Shoes
+    *   Accessories
+    *   Backpacks &. Bags
+    
+    Boys &. Men Back | Boys &. Men
+    
+    *   Tops
+    *   Sweaters
+    *   Pants
+    *   Shorts
+    *   Blazers
+    *   Activewear
+    *   Outerwear
+    *   Shoes
+    *   Accessories
+    *   Backpacks &. Bags
+    
+    FIND YOUR SCHOOL Back | FIND YOUR SCHOOL FEATURED SHOPS Back | Uniforms
+    
+    *   Best-in-Class Polos
+    *   Iron Knee Pants
+    *   Phys-ed Locker Room
+    *   Spiritwear
+    *   After School
+    *   Sale
+    
+    SHOP BY AGE RANGE Back | Uniforms
+    *   Toddler
+    *   Little Kid
+    *   Big Kid
+    *   Junior
+    *   Young Men
+    *   Adult
+*   Sale
+    
+    *   Lands' End
+    
+    Back | Sale SALE Back | SALE
+    
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    *   Home
+    *   School Uniforms
+    
+    CLEARANCE Back | CLEARANCE
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    *   Home
+    *   School Uniforms
+    *   In-Season Savings
+    *   Last Chance
+*   Coming Soon
+
+Customer Service Menu
+
+Customer Service
+
+*   Customer Service Home
+*   FAQ
+*   Shipping &. Handling
+*   Returns
+*   Contact Us
+*   Manage &. Track Orders
+*   Gift Cards
+*   Manage Email Subscription
+*   Services
+*   Legal Policies
+*   Technical Information
+*   Store Locator
+*   More Lands' End Sites
+*   Size Charts
+*   Site Map
+*   Glossary
+
+  Privacy Last Updated: June 22‚ 2015
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
@@ -476,77 +746,68 @@ You are entitled to receive a copy of this information in a standardized format 
 
 Contact Us
 
-Request to Receive Catalogs: If you would like to receive our catalogs‚ please call **1-800-800-5800** websiteinquiry@landsend.com. We will need your name‚ address‚ and telephone number to mail catalogs to you.
+Request to Receive Catalogs: If you would like to receive our catalogs‚ please call **1-800-478-8508** websiteinquiry@landsend.com. We will need your name‚ address‚ and telephone number to mail catalogs to you.
 
-Request to Stop Catalogs: If you would like to stop receiving our catalogs‚ please call **1-800-800-5800** or email websiteinquiry@landsend.com. It may take 2-4 weeks to process your request.
+Request to Stop Catalogs: If you would like to stop receiving our catalogs‚ please call **1-800-478-8508** or email websiteinquiry@landsend.com. It may take 2-4 weeks to process your request.
 
-Request to Opt Out of Third Party Marketing: We may make portions of our catalog and e-mail lists available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld from these lists‚ please call us toll-free at**1-800-800-5800** or send an email to websiteinquiry@landsend.com.
+Request to Opt Out of Third Party Marketing: We may make portions of our catalog and e-mail lists available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld from these lists‚ please call us toll-free at**1-800-478-8508** or send an email to websiteinquiry@landsend.com.
 
-General Privacy Questions: If you have questions about this Privacy Policy‚ please use our Contact Us Form‚ call **1-800-963-4816** or send an email‚ including your name and mailing address‚ to websiteinquiry@landsend.com.
+General Privacy Questions: If you have questions about this Privacy Policy‚ please use our Contact Us Form‚ call **1-800-478-8508** or send an email‚ including your name and mailing address‚ to websiteinquiry@landsend.com.
 
-Get Exclusive Offers + News Privacy Policy &. Contact Info sign up facebook twitter pinterest twitter pinterest sywr sywr wanelo
+sign up **Get exclusive Offers and News** Privacy Policy &. Contact Info Customer Service
 
-*   Customer Service
+*   **800-963-4816**
+*   **Live Chat**
+*   Help Center
 *   Guaranteed. Period.®
-*   Contact Us
 *   Track My Order
-*   Make a Return
+*   Contact Us
+*   Shipping
+*   Returns
 
-**Get Live Help**  
-We're just a click or call away.  
-Call 1.800.963.4816 Text Chat Now
+Company
 
-*   Company
-    *   About Us
-    *   Careers
-    *   As Seen In
-    *   Sustainability
-    *   Investor Relations
-    *   Newsroom
+*   About Us
+*   Our Blog
+*   Careers
+*   Sustainability
+*   Investor Relations
+*   Newsroom
 
-*   Services
-    *   Gift Cards
-    *   Monogramming &. Embroidery
-    *   Shop Your Way Rewards
-    *   Shop Catalogs
-    *   Catalog Requests
-    *   Email Subscription
-    *   Glossary
-    *   Site Map
+Our Brands
 
-*   Specialty Shops
-    *   LE Business Outfitters
-    *   Gifts
-    *   Women's Plus Sizes
-    *   Women's Petite Sizes
-    *   School Uniforms
-    *   Swimwear
-    *   International Websites
-    *   Shoes
+*   Lands' End
+*   Business Outfitters
+*   International Sites
 
-*   Policies
-    *   Privacy Policy
-    *   Terms Of Use
-    *   Shipping
-    *   Returns
-    *   Recall &. Safety Info
-    *   California Transparency Act
+Services
 
-Sustainability
+*   Gift Cards
+*   Monogramming &. Embroidery
+*   Shop Your Way Rewards
+*   Shop Catalogs
+*   Catalog Requests
+*   Refer a Friend
 
-We're a proud partner of the National Forest Foundation.
+Policies
 
-Learn More Shop Our Catalog
+*   Privacy Policy
+*   Terms of Use
+*   Recall &. Safety Info
+*   CA Transparency Act
 
-Environmentally friendly, easy to shop and always at your fingertips.
+*   Privacy Policy
+*   Terms of Use
+*   Recall &. Safety Info
+*   CA Transparency Act
 
-Browse Catalog It's Beautiful Here
+*   © lands' end
+*   Sitemap
 
-The New Spring 2016  
-ecatalog is here.
-
-Explore the Ecatalog Shop Your Way Rewards
+Shop Your Way Rewards
 
 Make every purchase rewarding. Join today. Earn today. It's free.
 
-Join Now ® Copyright 2016 Lands' End
+Sustainability
+
+We're a proud partner of the National Forest Foundation. Learn More.
