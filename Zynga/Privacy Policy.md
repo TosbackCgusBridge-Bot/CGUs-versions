@@ -19,6 +19,7 @@ Navigation
     *   Princess Bride Slots
     *   Speed Guess Something
     *   What's The Phrase
+    *   Willy Wonka Slots
     *   Wizard of Oz Slots
     *   Word Streak With Friends
     *   Words On Tour
