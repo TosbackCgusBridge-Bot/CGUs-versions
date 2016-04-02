@@ -97,9 +97,9 @@ Close
 
 Learn More
 
-Looking for a Phone That's Easier to Handle?
+The World’s First Ghost-Catching Device
 
-Try the Xperia Z5 Compact
+Get Your Proton Pack
 
 Close
 
@@ -109,7 +109,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Try the Xperia Z5 Compact
+Get Your Proton Pack
 
 Don Cheadle Stars as Jazz Musician Miles Davis in "Miles Ahead"
 
