@@ -6,14 +6,13 @@ VH1 Menu VH1
     *   Shows A-Z
     *   Show News
     *   TV Schedule
-    *   Behind The Movie
-    *   Love &. Hip Hop
-    *   Hit The Floor
-    *   K.Michelle: My Life
     *   Love &. Hip Hop Atlanta
     *   Black Ink Crew
     *   Family Therapy With Dr. Jenn
-    *   Mob WivesSee all Shows
+    *   Behind The Movie
+    *   Love &. Hip Hop
+    *   Stevie J &. Joseline Go Hollywood
+    *   K.Michelle: My LifeSee all Shows
 *   Pop Culture
     *   Music
     *   Celebrity
@@ -28,7 +27,7 @@ VH1 Menu VH1
 
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z Show News TV Schedule Behind The Movie Love &. Hip Hop Hit The Floor K.Michelle: My Life Love &. Hip Hop Atlanta Black Ink Crew Family Therapy With Dr. Jenn Mob Wives See all Shows
+*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Atlanta Black Ink Crew Family Therapy With Dr. Jenn Behind The Movie Love &. Hip Hop Stevie J &. Joseline Go Hollywood K.Michelle: My Life See all Shows
 *   Pop Culture Music Celebrity Movies TV Around The Web See all Pop Culture
 *   Life Beauty &. Health Style Relationships See all Life
 *   facebook twitter tumblr
