@@ -139,7 +139,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Alternative Audio
     *   MLB.TV with Extra Innings
     *   MLB.TV Devices
-    *   MLB.TV Spring Training
     *   FAQs
     *   MLB.com Support Forum
     *   MLB.TV Blackouts
@@ -161,7 +160,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   WGT Baseball: MLB
     *   Prospect Watch
     *   Fantasy 411 Blog
-    *   Follow @Fantasy411Fantasy Player Preview 160x160 R.B.I. Baseball 16 MLB.com Line Drive MLB.com Home Run Derby
+    *   Follow @Fantasy411DraftKings R.B.I. Baseball 16 MLB.com Line Drive MLB.com Home Run Derby Fantasy Player Preview 160x160
 *   Teams Teams American League AL East
     
     *   Baltimore
