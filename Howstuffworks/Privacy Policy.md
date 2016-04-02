@@ -68,11 +68,11 @@ Privacy Policy | HSW Privacy Policy   Next  
 
 Up Next
 
+*   HowStuffWorks NOW: How Selling Band Merchandise on the Road Just Got Easier
+*   The Restroom Etiquette Rules People Are Constantly Breaking Quiz
 *   BrainStuff: What Are Eye Boogers?
-*   HowStuffWorks NOW: You Could Be a Contender
 *   Stuff Mom Never Told You: Can I Stop Feeling Ashamed of Sex?
-*   Who Said It: Tracy Jordan or Jean-Ralphio Saperstein?
-*   The Sleep Myths Quiz
+*   HowStuffWorks NOW: You Could Be a Contender
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Merrick Garland Is a Legal Mystery**
+**Introverts Just Got a New Job: Grammar Police**
 
-**Blame That New Food Allergy on Your Transplant**
+**Prairie Dogs Savagely Kill Squirrels to Eliminate the Competition**
 
-**Eccentric Georgian Billionaire Takes Giant Tree for Sea Cruise**
+**That Slice of Cake Pictured on the Box? It's 762 Calories, Not 247**
 
 **See More Headlines »**
 
