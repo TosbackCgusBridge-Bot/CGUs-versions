@@ -75,16 +75,16 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   News Briefs: See 'Baywatch' Cast on the Beach Read More
-    *   Ben Affleck Has Written a Script for His Own 'Batman' Movie Read More
-    *   Jennifer Lawrence Wants More 'X-Men,' Plus: Is Tom Hiddleston Done with Marvel Movies? Read More
+    *   News Briefs: 'Rose Red,' Snow White's Sister, Gets Her Own Disney Movie Read More
+    *   April Fools! See How 'Ghostbusters' and 'Finding Dory' Are Pranking Fans Read More
+    *   'New Mutants' Casting Rumors Include 'Game of Thrones' Star Maisie Williams Read More
     
     Explore Content
     *   Movie Reviews
     *   Family
     *   Hero Central
     *   Indie Movie Guide
-    *   House of Screams
+    *   Star Wars
     *   Mom's Movie Minute
     *   Reel Kids
     *   Weekend Ticket
