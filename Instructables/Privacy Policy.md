@@ -78,13 +78,15 @@ Change country/language X
     *   File viewers
     *   Updates &. service packs
 *   Buy
-    *   Buy online
+    *   Buy or Subscribe
+    *   Autodesk store
     *   Find a reseller
     *   Special offers
-    *   Support offerings
     *   Options
-    *   Education
-    *   Financing
+    *   Subscriber benefits
+    *   Maintenance plan benefits
+    *   Support offerings
+    *   Educational institutions
 *   About Autodesk
     *   Careers
     *   Company
