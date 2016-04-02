@@ -6,6 +6,8 @@
 Your Cart (0) Search Catalog Search Catalog Navigation
 
 *   Gifts
+    *   Mother's Day Favorites
+    *   Spring Favorites
     *   Gift Boxes
     *   Gift Baskets and Towers
     *   Business Gifts
@@ -56,6 +58,8 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 Menu Search Stores Cart Gifts Sausage &. Cheese
 
 *   Gifts
+    *   Mother's Day Favorites
+    *   Spring Favorites
     *   Gift Boxes
     *   Gift Baskets and Towers
     *   Business Gifts
