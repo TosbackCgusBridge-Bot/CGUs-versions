@@ -41,7 +41,7 @@ As stated below in this privacy policy, in the section titled “What do we do t
 
 Comcast is participating in the World Wide Web Consortium’s (W3C) process to develop a “Do Not Track” Standard. Since the definitions and rules for such a standard have not yet been defined, Comcast does not yet respond to “Do Not Track” signals sent from browsers.
 
-You may opt out of receiving cookies from the companies that provide services on this website by going to www.comcast.com/preferences and following the instructions there. You may also contact Comcast at 1-800-XFINITY to ask to be placed on our do not mail list.
+You may opt out of receiving cookies from the companies that provide services on this website by going to www.networkadvertising.org/consumer/opt\_out.asp. You may opt out of receiving promotional email or direct mail from Comcast based on your visits to this website by going to our Preference Center at //www.xfinity.com/preferences and following the instructions there. You may also contact Comcast at 1-800-XFINITY to ask to be placed on our do not mail list.
 
 Comcast’s affiliated websites are members of the Digital Advertising Alliance (DAA), which permits you to opt out of receiving online behavioral advertising by making choices at http://www.aboutads.info/choices . We comply with the rules of the DAA’s ad choices program.
 
@@ -55,7 +55,7 @@ We, or our advertising providers, may automatically deliver ads for third-party 
 
 To help make our website more responsive to the needs of our users and visitors, we use a standard feature of browser software called a "cookie." We use cookies to help us tailor our website to your needs, to deliver a better, more personalized service, and to remember certain choices you’ve made so you don’t have to re-enter them.
 
-Comcast uses cookies, among other things, to remember your username and password, if you choose to store them, from the home page of the website at www.comcast.com, as well as to remember some of your personalization preferences and website features. Comcast does not store your name or other personal information in cookies. You may read about enabling, disabling, and deleting cookies at www.comcast.com at any time by searching for “cookie” and clicking on the link for the topic you wish to read. Of course, if you set your browser not to accept cookies or you delete them, you may not be able to take advantage of the personalized features enjoyed by other visitors to and users of our website.
+Comcast uses cookies, among other things, to remember your username and password, if you choose to store them, from the home page of the website at //www.xfinity.com, as well as to remember some of your personalization preferences and website features. Comcast does not store your name or other personal information in cookies. You may read about enabling, disabling, and deleting cookies at //www.xfinity.com at any time by searching for “cookie” and clicking on the link for the topic you wish to read. Of course, if you set your browser not to accept cookies or you delete them, you may not be able to take advantage of the personalized features enjoyed by other visitors to and users of our website.
 
 The cookies we use don’t directly identify visitors to or users of our website as particular persons. Rather, they contain information sufficient to simplify and improve a visitor’s or user’s experience on our website. For example, we may use session-based cookies to track the pages on our website visited by our users. We can build a better website if we know which pages our users are visiting and how often. Or, we may use persistent cookies to simplify access to a user’s account information over our website, for example.
 
@@ -70,7 +70,7 @@ Sometimes Comcast offers different versions of and subscription plans for our pr
 
 Where do we permit visitors and users to opt in or out of Comcast promotional e-mail or direct mail?
 
-You may choose to receive, or not receive, promotional e-mails about Comcast’s products and services by going to the Internet web page located at www.comcast.com/preferences and following the instructions there. If you have otherwise provided your e-mail address to Comcast, or Comcast has already obtained it, then Comcast may have already contacted you about receiving promotional e-mails separately. You may contact Comcast at 1-800-COMCAST to ask us to put your name on our internal company “do not mail” list so that you do not receive marketing or promotional postal mail from us or made at our request.
+You may choose to receive, or not receive, promotional e-mails about Comcast’s products and services by going to the Internet web page located at //www.xfinity.com/preferences and following the instructions there. If you have otherwise provided your e-mail address to Comcast, or Comcast has already obtained it, then Comcast may have already contacted you about receiving promotional e-mails separately. You may contact Comcast at 1-800-COMCAST to ask us to put your name on our internal company “do not mail” list so that you do not receive marketing or promotional postal mail from us or made at our request.
 
 Other Websites
 
@@ -90,6 +90,6 @@ We may change this privacy statement from time to time. If we change this privac
 
 Privacy Policies for Comcast Products and Services
 
-This privacy statement discloses the privacy practices for this website only. Comcast supplies a copy of the privacy notice that applies to our cable television, high-speed Internet, and phone products and services separately to our subscribers.  You may also view this privacy notice at www.comcast.com at any time by searching for “privacy policy” and clicking on the link for the privacy notice.
+This privacy statement discloses the privacy practices for this website only. Comcast supplies a copy of the privacy notice that applies to our cable television, high-speed Internet, and phone products and services separately to our subscribers.  You may also view this privacy notice at //www.xfinity.com at any time by searching for “privacy policy” and clicking on the link for the privacy notice.
 
 Effective: January 13, 2014
