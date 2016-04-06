@@ -28,9 +28,9 @@ Skip to main content Online Trust Alliance
     *   Advertising Integrity &. Fraud
     *   Data Breach &. Protection
     *   Email Security &. Integrity
+    *   IoT Resources
     *   Malicious Threats
     *   Web and Mobile Security
-    *   Glossary
 *   Best Practices
 *   Committees
 *   News &. Events
@@ -102,13 +102,13 @@ Thu, Apr 7, 2016 When Do I Really Need to Pay Attention to IPv6?
 
 IPv6 crossed some major milestones in 2015. Join us as we predict what IPv6 will likely do in 2016 and beyond. This webinar will update you on how these milestones could impact you and your business. Join Pluralsight author Ed Horley and IPv6 Evangelist Tom Coffeen (author of O’Reilly’s “IPv6 Address Planning”) to learn more.
 
+Thu, Apr 14, 2016 NTIA Request for Comments on Government Role in IoT
+
+Please join OTA Executive Director Craig Spiezle and Travis Hall, Telecommunications Policy Analyst with NTIA, for a briefing on NTIA’s Request for Comments on the benefits, challenges and potential roles for government in fostering the advancement of the Internet of Things (IoT). Prior to joining NTIA, Dr. Hall has been a Researcher, Policy Consultant and Lecturer in communications and surveillance. He joins us to discuss the RFC and answer questions.
+
 Tue, May 10, 2016 Middle East (Cyber) Security Awards &. Conference (MESA)
 
 The Global Digital Transformation is posing new challenges to security &. risk executives globally. MESA is an event designed to highlight and discuss the biggest challenges of CISO’s and deliberate ways to address it. While all this is done, MESA is also celebrated by recognizing and awarding the security and risk leaders of Middle East. MESA Conference will be engaging in a dialogue with some of the top experts from the information security and Risk industry to debate and discuss on the key issues and challenges facing the sector.
-
-Tue, Jun 7, 2016 IRCE 2016
-
-Internet Retailer Conference &. Exhibition (IRCE) provides you with a conference full of industry experts and unrivaled agenda content, an exhibit hall filled with the latest and greatest solution providers, and a community made for networking with thousands of like-minded industry peers. IRCE 2016 will take place in the world-class city of Chicago, June 7-10, at McCormick Place West.
 
 More >>.
 
@@ -138,9 +138,9 @@ More >>. Resources
 *   Advertising Integrity &. Fraud
 *   Data Breach &. Protection
 *   Email Security &. Integrity
+*   IoT Resources
 *   Malicious Threats
 *   Web and Mobile Security
-*   Glossary
 
 Initiatives
 
