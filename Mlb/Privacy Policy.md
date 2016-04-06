@@ -63,9 +63,9 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Daily Dash
     *   Must C
 *   Stats Stats Stats
-    *   Postseason Sortable Stats
-    *   Regular Season Sortable Player Stats
+    *   Regular Season Sortable Stats
     *   Regular Season League Leaders
+    *   Spring Training Sortable Stats
     *   Statcast Leaders
     *   Sortable Team Stats
     *   Milestone Tracker
@@ -73,6 +73,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Scoring Changes
     *   GlossarySortable Stats
 *   Standings Standings Standings
+    *   2016 Regular Season Standings
     *   Spring Training Standings
     *   2015 Regular Season Standings
 *   Schedule Schedule Schedule
@@ -98,7 +99,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   General Ticket Information
     *   Postseason Ticket Refund Policies
     *   Autism Awareness
-    *   StubHub.com2016 Schedule
+    *   StubHub.comBank of America 2016 Schedule
 *   Apps Apps Apps
     *   At Bat app
     *   At Bat on Tablets
@@ -106,7 +107,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.com Ballpark app
     *   MLB Fans App
     *   Beat the Streak
-    *   MLB.com Home Run Derby
+    *   MLB.com Home Run Derby 16
     *   MLB.com Line Drive
     *   R.B.I. Baseball 16
     *   MLB Ballpark Empire
@@ -160,7 +161,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   WGT Baseball: MLB
     *   Prospect Watch
     *   Fantasy 411 Blog
-    *   Follow @Fantasy411DraftKings R.B.I. Baseball 16 MLB.com Line Drive MLB.com Home Run Derby Fantasy Player Preview 160x160
+    *   Follow @Fantasy411Beat the Streak R.B.I. Baseball 16 DraftKings MLB.com Line Drive MLB.com Home Run Derby Fantasy Player Preview 160x160
 *   Teams Teams American League AL East
     
     *   Baltimore
