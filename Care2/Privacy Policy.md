@@ -2,7 +2,7 @@
   
      Privacy Policy
 
-Last Updated: 05/27/2015
+Last Updated: 03/31/2016
 
 Care2.com ("Care2") takes seriously the issue of safeguarding your privacy online. This privacy policy applies to www.care2.com and thepetitionsite.com owned and operated by Care2.com. This privacy policy describes how Care2.com collects and uses the personal information you provide on our web site: www.care2.com and www.thepetitionsite.com. Please read the following to understand our views and practices regarding this matter, and how they pertain to you as you use our many offerings.
 
