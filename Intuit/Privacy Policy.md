@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14649984195
+true true C14665486264
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p07.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Fri Apr 01 11:15:20 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Tue Apr 05 11:14:26 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,63 +49,53 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-April 1st: All-Day Savings -- No Kidding! Extra 30% Off\* $100 or More Or, Extra 25% Off\* Today Only Online | Ends April 1 | Code: SHOPNOW8 +Free Shipping Anywhere Over $49
+Extra 30% Off\* With Your JCPenney Credit Card Extra 20% Off\* With Any Other Method of Payment Online Only, $100 or More | Ends April 6 | Code: BIGSAVE2
 
-\*Exclusions apply
+OR
 
-Get Details 40% Off Women's Xersion Activewear
+Extra 25% Off\* With Your JCPenney Credit Card Extra 15% Off\* With Any Method of Payment In Store and Online | Ends April 6 | Code: BIGSAVE2
 
-Select styles
+Select family apparel, shoes, baby furniture, handbags &. accessories, fine &. fashion jewelry and salon products.
 
-Shop Women's Xersion Activewear 7.99 Juniors' Graphic Tees
+\*Credit offer subject to credit approval.
 
-Select styles, reg. $14
+Print Coupon Exclusions and details: 3 Days | Online Only | Ends April 6 | Code: BIGSAVE2 \*Get details 50% Off\*
 
-Shop Juniors' Graphic Tees 20% Off Bras
+select orig and reg-priced styles
 
-Select styles when you buy 2 or more.
+Shop Bedding and Bath Shop Window Shop Luggage 40% Off\*
 
-Shop Bras 19.99 Sandals For Her
+select orig and reg-priced styles
 
-Select styles, reg. $40-$50
+Shop Furniture and Mattresses Shop Home Decor 30% Off\*
 
-Shop Sandals For Her Buy 1 Get 1 Free\* Kids' Arizona Apparel
+select orig and reg-priced styles
 
-Select styles, reg. $12-$46
+Shop Kitchen and Dining Shop Custom Blinds and Shades Great Deals on Spring Essentials 8.99 A.N.A Boyfriend Tee
 
-\*Buy one Arizona or Carter's item at regular price, get the second Arizona or Carter's item of equal or lesser value for free, while supplies last.
+Select styles, orig. $16
 
-Shop Kids' Arizona Apparel Up To 60% Off Fine Jewelry
+Shop A.N.A Boyfriend Tee 30 to 40% Off Hats and Sunglasses
 
-Select styles
+Select styles, reg. $18-$36
 
-Shop Fine Jewelry 39.99 Clarks Flip Flops
-
-Select styles, reg. $55, excluded from coupon
-
-Shop Clarks Flip Flops Buy 1 Get 1 Free\* Carter's Baby Essentials
-
-Select styles, reg. $22-$26
-
-\*Buy one Arizona or Carter's item at regular price, get the second Arizona or Carter's item of equal or lesser value for free, while supplies last.
-
-Shop Carter's Baby Essentials 40 to 50% Off Men's Xersion Activewear
-
-Select styles
-
-Shop Men's Xersion Activewear 40 to 60% Off Bedding
-
-Select styles
-
-Shop Bedding Up to 50% Off Curtains and Drapes
-
-Select styles
-
-Shop Curtains and Drapes 9.99 All Men's Solid St. John's Bay Polos
+Shop Hats and Sunglasses 12.99 All Men's St. John's Bay Solid Polos
 
 reg. $26
 
-Shop Men's Solid St. John's Bay Polos Extra 25% Off Already Reduced 50 to 80% Off Clearance Final Days, Ends April 2 | Limited Time In Store Only! Find a Store Or Shop 50 to 80% Off Clearance Online Shop Clearance Now SportsFanShop
+Shop St. John's Bay Solid Polos 19.99 Sandals For Her
+
+Select styles, reg. $40-$50
+
+Shop Sandals For Her 40 to 50% Off Xersion Activewear For The Family
+
+Select styles.
+
+Shop Men Shop Women Shop Boys Shop Girls     19.99 Nike Sandals
+
+Select styles. Excluded from coupon.
+
+Shop Men Shop Women SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
