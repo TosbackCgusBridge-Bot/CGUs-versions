@@ -23,6 +23,10 @@ Connexity
     *   Our Audiences
     *   Your Audiences
     *   Modeled Audiences
+    
+    *   Hitwise
+    *   AudienceView
+    *   Online Intelligence
 *   About
     *   About Connexity
     *   Open Positions
@@ -68,6 +72,9 @@ Toggle navigation blog navsite nav
         *   Our Audiences
         *   Your Audiences
         *   Modeled Audiences
+    *   Hitwise
+        *   Audience Insights
+        *   Online Intelligence
 *   About
     *   About Connexity
     *   Open Positions
