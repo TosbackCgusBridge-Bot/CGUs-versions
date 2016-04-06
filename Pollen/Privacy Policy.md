@@ -80,7 +80,7 @@ Send us a message by clicking here.
 Advertisement Advertisement
 
 *   Home
-*   My Diary
+*   My Pollen.com
 *   About Us
 *   Contact Us
 *   F.A.Q.
@@ -91,4 +91,4 @@ Advertisement Advertisement
 
 Copyright © 2016 IMS Health Incorporated. All rights reserved.
 
-Pollen.com and Allergy Alert are registered trademarks of IMS Health Incorporated. Page last modified: 04/02/2016
+Pollen.com and Allergy Alert are registered trademarks of IMS Health Incorporated. Page last modified: 04/06/2016
