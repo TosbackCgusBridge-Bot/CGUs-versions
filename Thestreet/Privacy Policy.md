@@ -87,5 +87,3 @@ TheStreet discloses personal information about former customers only in accordan
 Please note that this Privacy Policy will not apply to your independent relationships with other companies that from time to time may offer you products and services on TheStreet's sites. Those companies' privacy policies will govern how they collect, use and disclose personal information that you provide to them. TheStreet is not responsible for the privacy practices or content of those websites. We encourage you to review the privacy policy of any company before submitting your personal information.
 
 Questions or comments regarding this policy should be directed to **privacy@thestreet.com**. TheStreet reserves the right to modify this policy.
-
-*   Send to a Friend
