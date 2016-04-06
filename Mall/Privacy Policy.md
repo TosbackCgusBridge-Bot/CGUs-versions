@@ -1,9 +1,9 @@
-**GIGA MARKET LTD.** is committed to protect the privacy of individuals who visit the website and who make use of the on-line facilities.
+**Socio Store** is committed to protect the privacy of individuals who visit the website and who make use of the on-line facilities.
 
-This statement discloses the privacy practices that apply to the online collection of data collected on **www.mall.soc.io**, owned and operated by the Giga Market Ltd. , a company part of Seavus Group. You can find more information about the Seavus Group on **www.seavus.com** . Seavus is a member of the GeoTrustEurope program and is strongly committed to protecting your privacy online. GeoTrust provides e-business security that helps drive revenue, profitability and growth, while maintaining business continuity.
+This statement discloses the privacy practices that apply to the online collection of data collected on **soc.io**, owned and operated by the Socio Store
 
 **Acceptance**  
-Please read the following Privacy Policy to understand how your personal information will be treated as you take advantage of our offerings. Giga Market Ltd. may update this Privacy Policy periodically.  
+Please read the following Privacy Policy to understand how your personal information will be treated as you take advantage of our offerings. Socio Store may update this Privacy Policy periodically.  
 This Privacy Policy provides you with information in terms of articles 19 and 20 of the Data Protection Act. It also takes consideration of Recommendation 2/2001 of the Article 29 Data Protection Working Party, adopted on 17 May 2001, on certain minimum requirements for collecting personal data on-line.  
 The policy can be easily accessible via a link at the bottom of the web page.
 
@@ -24,18 +24,18 @@ When you visit our website the following information will automatically be proce
 **Your e-mail address**  
 When submitting your e-mail and other contact information you accept that from time to time we may send you communications regarding our products and services.  
 You may at any time opt-out from receiving electronic communications as explained below.  
-Your e-mail and other contact information will not be shared with anyone outside of the Giga Market Ltd. and its authorized Giga Market Ltd. representatives in your country.  
+Your e-mail and other contact information will not be shared with anyone outside of the Socio Store and its authorized Socio Store representatives in your country.  
 You can remove your e-mail address from our mailing list by clicking on the automatic "unsubscribe" link in any of our mailings, simply at unsubscribe email.
 
 **Cookies**  
 Cookies are small pieces of data that the site transfers to the user’s computer hard drive when the user visits the website. Our website uses only session cookies which are erased when the user closes the Web browser. The session cookie is stored in temporary memory and is not retained after the browser is closed. Session cookies do not collect information from the user’s computer. They will typically store information in the form of a session identification that does not personally identify the user.
 
 **Protection and handling of personal data provided by the data subject**  
-We respect and protect your privacy. Giga Market Ltd. is the sole owner of the information collected on this site.  
+We respect and protect your privacy. Socio Store is the sole owner of the information collected on this site.  
 The personal information we collect may include your name, title, company or organizational name, email, work phone, work or home address and etc. This information is generally entered into the fields in the registration and subscription forms and enables you to take a full advantage of the products and services that we offer.  
 We will not share this information with anyone outside of our organization, other than as necessary to fulfill your request, e.g. to ship your order. It is our policy not to sell lists containing personal information about Site users, registrants or subscribers.  
 We collect information about your visit, such as name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet, the pages that you access while at the Site. This information is primarily used to improve, administer the Site and for analytic purposes.  
-Giga Market Ltd. also uses personally identifiable information to complete transactions. We use personally identifiable information to inform you of services, products and promotions that we, based on the information submitted to us by you, think will be of interest to you or your organization.  
+Socio Store also uses personally identifiable information to complete transactions. We use personally identifiable information to inform you of services, products and promotions that we, based on the information submitted to us by you, think will be of interest to you or your organization.  
 We only keep personal data for a five-year period or in shorter periods in order to fulfill legal requirements.
 
   
@@ -59,7 +59,7 @@ We use Secure Sockets Layer (SSL) to ensure secure transmission of your personal
   
 
 **5\. Privacy Protection for Children**  
-We will never deliberately request personally identifiable information from anyone under the age of 13 without requiring parental consent. Any person who provides personal information to Soc.io Mall through this web site represents that is aged 13 years or older. If we establish that the opposite occurred we will take appropriate steps to remove the member's information from the database and we will restrict this individual from future access to Soc.io Mall, unless the child was invited by his or her parent or legal guardian.
+We will never deliberately request personally identifiable information from anyone under the age of 13 without requiring parental consent. Any person who provides personal information to Socio Store through this web site represents that is aged 13 years or older. If we establish that the opposite occurred we will take appropriate steps to remove the member's information from the database and we will restrict this individual from future access to Socio Store, unless the child was invited by his or her parent or legal guardian.
 
   
 
@@ -70,13 +70,13 @@ We remain having the right to change and amend this Privacy Policy at any time. 
 
 **7\. Feedback**  
 Any comments or suggestions that you may have and which may contribute to a better quality of service will be welcome and greatly appreciated.  
-If you have any questions about this policy, feel free to contact us at mallsupport@soc.io  
+If you have any questions about this policy, feel free to contact us at mallcontact@soc.io  
 If you feel that we are not abiding by this Privacy Policy, you should contact us immediately:  
-**Giga Market Ltd.**  
+**Eferio Ltd**  
 **66 Old Bakery Street, Valletta, Malta**  
 **Email:** mallcontact@soc.io
 
   
 
 **8\. Newsletter**  
-Giga Market Ltd. may choose to create a member newsletter. When this feature is offered, members will be able to opt-out of receiving the newsletter by following the instructions included at the footer of the newsletter.
+Socio Store may choose to create a member newsletter. When this feature is offered, members will be able to opt-out of receiving the newsletter by following the instructions included at the footer of the newsletter.
