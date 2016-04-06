@@ -90,13 +90,25 @@ Search × Site / Articles City / Country Social × Share this page / Follow us o
 
 Newsletter About Us Site Map Account/Settings Article Topics Home >. Site information >. Privacy Statement for timeanddate.com Privacy Statement for timeanddate.com
 
-timeanddate.com has created this privacy statement to demonstrate our firm commitment to privacy. This page discloses our information gathering and dissemination practices for this website: www.timeanddate.com.
+We have a firm commitment to privacy at timeanddate.com.
+
+This page discloses our information gathering and dissemination practices for this website: **www.timeanddate.com.**
+
+IP Adress and Cookies
 
 We use your IP address to help diagnose problems with our server and to administer our website. Your IP address is used to gather broad demographic information. We use cookies to deliver content specific to your interests.
 
-If you register with the site, your email address is used as your login name. Your email address will not be shared with a third party. We will only send an email to your email address when you first register with the site, when you request your password to be reset, or for answering support questions.
+Registration and Servers
 
-This site contains links to other sites. **timeanddate.com** is not responsible for the privacy practices or the content of such websites.
+If you register with the site, your email address is used as your login name. Your email address will not be sold nor distributed to any third party, but for technical purposes it is shared with vendors working on our behalf. We will only send mail to your email address when you first register with the site, when you request your password to be reset, or for answering support questions.
+
+Our servers are located in USA, Germany, Singapore, and Norway. We also rely on third parties to host our services and our infrastructure, and to distribute our content. Although we have security measures in place we cannot guarantee full privacy.
+
+We recommend that you do not add sensitive information to the calendars.
+
+External Links
+
+This site contains links to other sites. timeanddate.com is not responsible for the privacy practices or the content of such websites.
 
 Our online surveys may ask visitors for contact information (such as their email address). The customer's contact information is used to contact the visitor when necessary.
 
@@ -116,9 +128,37 @@ Time and Date AS
 PO Box 27 Forus  
 NO-4064 Stavanger  
 Norway  
-webmaster@timeanddate.com  
-Fax: +47 5163 2711
+webmaster@timeanddate.com timeanddate.com
+
+1.  About Us
+2.  Contact Us
+3.  Feedback
+4.  Privacy Statement
+5.  Copyright
+6.  Logo Use
+7.  Support Us
+8.  Work Here
+9.  Advertise
+10.  Disclaimer
+
+Index
+
+You might also like GMT or BST in the UK?
+
+The UK is not on Greenwich Mean Time (GMT) all year. During Daylight Saving Time the correct time zone is British Summer Time (BST). more
+
+Standard Time is the Norm
+
+Standard time is also known as winter time or normal time in some countries. more
+
+Time Zones and DST in Europe
+
+Europe is divided into 4 main time zones that span from UTC +0 hours in western European countries to UTC +3 hours in Belarus and parts of Russia. more
+
+How to Use the Business Date Calculator
+
+The Business Date Calculator adds or subtracts any number of business days or non-working days from a date of your choice. Here's how to use it. more
 
 Copyright © Time and Date AS 1995–2016. All rights reserved.
 
-Feedback | Linking Policy | About Us | Advertising | Disclaimer | Privacy | Sitemap
+Feedback | About Us | Advertising | Disclaimer | Privacy | Sitemap
