@@ -88,7 +88,7 @@ Our Tech Resources may allow you to connect and share information with Facebook.
   
 In addition, by choosing to use any third party social media platform or choosing to share content or communications with any social media platform, you allow us to share information with the designated social media platform. We cannot control any policies or terms of such third party platform. As a result, we cannot be responsible for any use of your information or content by a third party platform, which you use at your own risk.  
   
-We may also use the advertising services and networks offered by various social media platforms, such as Facebook and Twitter to deliver ad content. Use of these services requires the social media platform to implement cookies and/or pixels to deliver ads to you while online with such platforms. You can opt out of receiving these ads as set forth below.  
+We may also use the advertising services and networks offered by various social media platforms, such as Facebook and Twitter to deliver ad content. Use of these services requires the social media platform to implement cookies and/or pixels to deliver ads to you while online with such platforms. To opt out of these ads, please click here.  
   
 If you are a member of one of these networks but do not wish the operator to collect data relating to you via our Tech Resources, you can take the following steps:  
   
