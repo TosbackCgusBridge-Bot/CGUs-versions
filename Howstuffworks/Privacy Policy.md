@@ -68,11 +68,11 @@ Privacy Policy | HSW Privacy Policy   Next  
 
 Up Next
 
-*   HowStuffWorks NOW: How Selling Band Merchandise on the Road Just Got Easier
-*   The Restroom Etiquette Rules People Are Constantly Breaking Quiz
-*   BrainStuff: What Are Eye Boogers?
-*   Stuff Mom Never Told You: Can I Stop Feeling Ashamed of Sex?
-*   HowStuffWorks NOW: You Could Be a Contender
+*   BrainStuff: Should Animals Have Human Rights?
+*   Stuff Mom Never Told You: Nude Selfies Aren't Empowerment - And That's OK
+*   HowStuffWorks NOW: Defining Geek Culture
+*   Quiz: Real Headline or Onion Headline?
+*   The 'FIFA 16' Video Game Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Introverts Just Got a New Job: Grammar Police**
+**Anyone Can Make Vladimir Putin Smile**
 
-**Prairie Dogs Savagely Kill Squirrels to Eliminate the Competition**
+**Geekdom Is on the Rise**
 
-**That Slice of Cake Pictured on the Box? It's 762 Calories, Not 247**
+**Climate Change Is Affecting French Wines — For Good and Bad**
 
 **See More Headlines »**
 
