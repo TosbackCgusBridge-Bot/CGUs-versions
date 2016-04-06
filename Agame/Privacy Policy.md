@@ -1,46 +1,233 @@
 Explore Games
 
-*   Home
-*   Puzzle Games
-*   Social Games
-*   Skill Games
-*   Award Games
-
-*   2 Player
-*   Action
-*   Adventure
-*   Aim &. Shoot
-*   Animal Games
-*   Avoiding
-*   Best of 2015
-*   Board &. Card
-*   Bubble Shooter
-*   Caring
-*   Collect &. Run
-*   Collection
-*   Concentration
-*   Cooking
-*   Dress Up
-*   Friv Games
-*   Girls
-*   Hidden Objects
-*   Highscore Games
-*   Kids
-*   Mahjong
-*   Match 3
 *   Multiplayer
-*   Mundigames
-*   My Dolphin Show
-*   Physics
-*   Qplay Games
-*   Quizzes
+    *   Social Games
+    *   2 player
+*   Action
+    *   Arena Fighting
+    *   Anime and Manga Games
+    *   Shooting Games
+    *   Strategy
+    *   Tower Defence
+    *   War Games
+    *   Zombie Games
+*   Adventure
+    *   Platform Games
+    *   Physics
+    *   Funny Games
+    *   Simulation
+    *   Minecraft Games
+    *   Scary Games
+    *   Ninja Games
+*   Puzzle
+    *   Casino Games
+    *   Hidden Objects
+    *   Colored Blocks
+    *   Mahjong
+    *   Match 3
+    *   Card Solitaire
+    *   Bubble Shooter
+*   Girls
+    *   Animal Games
+    *   Beauty Games
+    *   Caring
+    *   Cooking
+    *   Room Decoration
+    *   Dress Up
+    *   Love Games
+    *   Princess Games
 *   Racing
-*   Room Decoration
-*   Run &. Shoot
+    *   BMX Games
+    *   Truck Games
+    *   Flight Games
+    *   Car Games
+    *   Motor Racing
+    *   Parking
+    *   Boat Racing
+    *   Stunt Driving
 *   Sports
-*   Time Management
-*   Tower Defence
-*   Uphill Racing
+    *   Athletics
+    *   Basketball
+    *   Billiards
+    *   Skateboarding
+    *   Winter Sports
+    *   Golf
+    *   Soccer
+    *   Boxing
+
+*   Multiplayer
+    
+    Top Categories
+    
+    *   Social Games
+    *   2 player
+    
+    BROWSE BY
+    
+    *   Recently Added
+    *   Most popular
+    *   Alphabetical Order
+    
+    Best Games
+    *   Family Barn
+    *   Harvest Honors Classic
+    *   Pyramid Solitaire Duel
+    *   Crystical
+    *   Klondike - the lost expedition
+    *   Goodgame PokerSpotlight Forge of Empires
+*   Action
+    
+    Top Categories
+    
+    *   Arena Fighting
+    *   Anime and Manga Games
+    *   Shooting Games
+    *   Strategy
+    *   Tower Defence
+    *   War Games
+    *   Zombie Games
+    
+    BROWSE BY
+    
+    *   Recently Added
+    *   Most popular
+    *   Alphabetical Order
+    
+    Best Games
+    *   Swords &. Souls: A Soul Adventure
+    *   Xibalba
+    *   Takeover
+    *   Super Mechs
+    *   Sniper Team 2
+    *   Mighty Knight 2Spotlight Strike Force Heroes 2
+*   Adventure
+    
+    Top Categories
+    
+    *   Platform Games
+    *   Physics
+    *   Funny Games
+    *   Simulation
+    *   Minecraft Games
+    *   Scary Games
+    *   Ninja Games
+    
+    BROWSE BY
+    
+    *   Recently Added
+    *   Most popular
+    *   Alphabetical Order
+    
+    Best Games
+    *   Papa Louie 3: When Sundaes Attack
+    *   Cactus McCoy 2
+    *   Paladog
+    *   Lego Star Wars Adventure
+    *   Tomb Runner
+    *   Stealth HunterSpotlight Fireboy &. Watergirl 4: Crystal Temple
+*   Puzzle
+    
+    Top Categories
+    
+    *   Casino Games
+    *   Hidden Objects
+    *   Colored Blocks
+    *   Mahjong
+    *   Match 3
+    *   Card Solitaire
+    *   Bubble Shooter
+    
+    BROWSE BY
+    
+    *   Recently Added
+    *   Most popular
+    *   Alphabetical Order
+    
+    Best Games
+    *   Mahjong Link
+    *   Smarty Bubbles
+    *   Fitz!
+    *   Spider Soli
+    *   Jewel Academy
+    *   3D MahjongSpotlight Mahjong Chain
+*   Girls
+    
+    Top Categories
+    
+    *   Animal Games
+    *   Beauty Games
+    *   Caring
+    *   Cooking
+    *   Room Decoration
+    *   Dress Up
+    *   Love Games
+    *   Princess Games
+    
+    BROWSE BY
+    
+    *   Recently Added
+    *   Most popular
+    *   Alphabetical Order
+    
+    Best Games
+    *   Papa’s Cheeseria
+    *   Shopaholic: Hollywood
+    *   My Puppy Play Day
+    *   My New Room 2
+    *   Disney Descendants: Smarte Couture
+    *   Gingerbread House: Sara's Cooking ClassSpotlight My Dolphin Show 8
+*   Racing
+    
+    Top Categories
+    
+    *   BMX Games
+    *   Truck Games
+    *   Flight Games
+    *   Car Games
+    *   Motor Racing
+    *   Parking
+    *   Boat Racing
+    *   Stunt Driving
+    
+    BROWSE BY
+    
+    *   Recently Added
+    *   Most popular
+    *   Alphabetical Order
+    
+    Best Games
+    *   Valvoline Race of the Decades
+    *   4x4 Soccer
+    *   Renegade Racing
+    *   Bus Man Parking 3D
+    *   ATV Destroyer
+    *   FMX TeamSpotlight Car Eats Car 2: Mad Dreams
+*   Sports
+    
+    Top Categories
+    
+    *   Athletics
+    *   Basketball
+    *   Billiards
+    *   Skateboarding
+    *   Winter Sports
+    *   Golf
+    *   Soccer
+    *   Boxing
+    
+    BROWSE BY
+    
+    *   Recently Added
+    *   Most popular
+    *   Alphabetical Order
+    
+    Best Games
+    *   Billiards Master Pro
+    *   Football Headz Cup
+    *   The Champions 4: World Domination
+    *   Sports Heads Basketball
+    *   Baseball
+    *   SnookerSpotlight England Soccer League
 
 Sign In Categories
 
@@ -52,12 +239,10 @@ Games
 *   {text}
     
 
-View more results
+View more results privacy policy
 
 *   Home
 *   privacy policy
-
-privacy policy
 
 **PRIVACY POLICY**
 
