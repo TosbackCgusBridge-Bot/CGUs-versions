@@ -1,4 +1,4 @@
-eBay User Agreement This User Agreement is effective upon acceptance for new users, and from October 28, 2015 for existing users. The previous amendment to this User Agreement was effective for all users on June 15, 2015. In this article Introduction About eBay Using eBay Policy Enforcement Fees Listing Conditions Purchase Conditions International Buying and Selling. Translation Content Notice for Claims of Intellectual Property Violations and Copyright Infringement Pursuant to Section 512(c) of Title 17 of the United States Code Holds Authorization to Contact You. Recording Calls Additional Terms 
+eBay User Agreement This User Agreement is effective upon acceptance for new users, and from May 19, 2016 for existing users. The previous amendment to this User Agreement was effective for all users on October 28, 2015. In this article Introduction About eBay Using eBay Policy Enforcement Fees Listing Conditions Purchase Conditions International Buying and Selling. Translation Content Notice for Claims of Intellectual Property Violations and Copyright Infringement Pursuant to Section 512(c) of Title 17 of the United States Code Holds Authorization to Contact You. Recording Calls Additional Terms 
 
 *   Returns 
     
@@ -63,6 +63,8 @@ In connection with using or accessing the Services you will not:
     
 *   circumvent any technical measures we use to provide the Services.
     
+
+Sellers must meet eBay's minimum performance standards. Failure to meet these standards may result in eBay limiting, restricting, suspending, or downgrading your seller account.
 
 If we believe you are abusing eBay in any way, we may, in our sole discretion and without limiting other remedies, limit, suspend, or terminate your user account(s) and access to our Services, delay or remove hosted content, remove any special status associated with your account(s), remove and demote listings, reduce or eliminate any discounts, and take technical and/or legal steps to prevent you from using our Services.
 
@@ -166,10 +168,10 @@ Additional Terms
 
 *   **Returns and Cancellations**
     
-    Sellers can create rules to automate replacements, returns, and refunds under certain circumstances. Where returns or replacements have been automated, an eBay-generated return shipping label will be provided to your buyer. You agree to comply with our returns policy.
+    Sellers can create rules to automate replacements, returns, and refunds under certain circumstances. For all new sellers, in listings where returns are accepted, eBay will set a default rule that automates the return process. Sellers may remove or customize their return preferences in their account settings within My eBay. Where settings have been set to automatically accept requests for returns or replacements, an eBay-generated return shipping label will be provided to your buyer. You agree to comply with our returns policy.
     
       
-    When an item is returned, to refund the buyer, you (as seller) authorize eBay to instruct PayPal to remove the refund amount (in same or other currency) from your PayPal account, place the amount on your invoice, and/or charge your payment method on file.  
+    When an item is returned, to refund the buyer, you (as seller) authorize eBay to request that PayPal remove the refund amount (in same or other currency) from your PayPal account, place the amount on your invoice, and/or charge your payment method on file.  
     
       
     The cost of return shipping for an item that is not as described is the seller's responsibility.   
@@ -183,7 +185,7 @@ Additional Terms
     *   You fail to send your buyer a return shipping label and, instead, an eBay-generated shipping label is used.
         
     
-    When a transaction is cancelled, to refund the buyer, you (as seller) authorize eBay to instruct PayPal to remove the refund amount (in same or other currency) from your PayPal account. See our Cancellation Policy for more details.  
+    When a transaction is cancelled, to refund the buyer, you (as seller) authorize eBay to request that PayPal remove the refund amount (in same or other currency) from your PayPal account. See our Cancellation Policy for more details.  
     
 *   **Global Shipping Program**
     
@@ -268,7 +270,7 @@ You agree that, except to the extent inconsistent with or preempted by federal l
 
 1.  **Prohibition of Class and Representative Actions and Non-Individualized Relief**
     
-    **YOU AND EBAY AGREE THAT EACH OF US MAY BRING CLAIMS AGAINST THE OTHER ONLY ON AN INDIVIDUAL BASIS AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE ACTION OR PROCEEDING. UNLESS BOTH YOU AND EBAY AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE OR JOIN MORE THAN ONE PERSON'S OR PARTY'S CLAIMS, AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A CONSOLIDATED, REPRESENTATIVE, OR CLASS PROCEEDING. ALSO, THE ARBITRATOR MAY AWARD RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO PROVIDE RELIEF NECESSITATED BY THAT PARTY'S INDIVIDUAL CLAIM(S). ANY RELIEF AWARDED CANNOT AFFECT OTHER USERS.**
+    **YOU AND EBAY AGREE THAT EACH OF US MAY BRING CLAIMS AGAINST THE OTHER ONLY ON AN INDIVIDUAL BASIS AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE OR PRIVATE ATTORNEY GENERAL ACTION OR PROCEEDING. UNLESS BOTH YOU AND EBAY AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE OR JOIN MORE THAN ONE PERSON'S OR PARTY'S CLAIMS, AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A CONSOLIDATED, REPRESENTATIVE, CLASS, OR PRIVATE ATTORNEY GENERAL ACTION OR PROCEEDING. ALSO, THE ARBITRATOR MAY AWARD RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO PROVIDE RELIEF NECESSITATED BY THAT PARTY'S INDIVIDUAL CLAIM(S). ANY RELIEF AWARDED CANNOT AFFECT OTHER USERS.** If a court decides that applicable law precludes enforcement of any of this paragraph's limitations as to a particular claim for relief, then that claim (and only that claim) must be severed from the arbitration and may be brought in court, subject to your and eBay's right to appeal the court's decision. All other claims will be arbitrated.
     
 2.  **Arbitration Procedures**
     
@@ -290,11 +292,11 @@ You agree that, except to the extent inconsistent with or preempted by federal l
     
 3.  **Costs of Arbitration**
     
-    Payment of all filing, administration and arbitrator fees will be governed by the AAA's rules, unless otherwise stated in this Agreement to Arbitrate. If the value of the relief sought is $10,000 or less, at your request, eBay will pay all filing, administration, and arbitrator fees associated with the arbitration. Any request for payment of fees by eBay should be submitted by mail to the AAA along with your Demand for Arbitration and eBay will make arrangements to pay all necessary fees directly to the AAA. In the event the arbitrator determines the claim(s) you assert in the arbitration to be frivolous, you agree to reimburse eBay for all fees associated with the arbitration paid by eBay on your behalf that you otherwise would be obligated to pay under the AAA's rules.
+    Payment of all filing, administration and arbitrator fees will be governed by the AAA's rules, unless otherwise stated in this Agreement to Arbitrate. If the value of the relief sought is $10,000 or less, at your request, eBay will pay all filing, administration, and arbitrator fees associated with the arbitration. Any request for payment of fees by eBay should be submitted by mail to the AAA along with your Demand for Arbitration and eBay will make arrangements to pay all necessary fees directly to the AAA. If (a) you willfully fail to comply with the Notice of Dispute requirement discussed above, or (b) in the event the arbitrator determines the claim(s) you assert in the arbitration to be frivolous, you agree to reimburse eBay for all fees associated with the arbitration paid by eBay on your behalf that you otherwise would be obligated to pay under the AAA's rules.
     
 4.  **Severability**
     
-    With the exception of any of the provisions in Section 1 of this Agreement to Arbitrate ("Prohibition of Class and Representative Actions and Non-Individualized Relief"), if an arbitrator or court decides that any part of this Agreement to Arbitrate is invalid or unenforceable, the other parts of this Agreement to Arbitrate shall still apply. If an arbitrator or court decides that any of the provisions in Section 1 of this Agreement to Arbitrate ("Prohibition of Class and Representative Actions and Non-Individualized Relief") is invalid or unenforceable, then the entirety of this Agreement to Arbitrate shall be null and void. The remainder of the Agreement and its Legal Disputes Section will continue to apply.
+    With the exception of any of the provisions in Section 1 of this Agreement to Arbitrate ("Prohibition of Class and Representative Actions and Non-Individualized Relief"), if an arbitrator or court decides that any part of this Agreement to Arbitrate is invalid or unenforceable, the other parts of this Agreement to Arbitrate shall still apply.
     
 5.  **Opt-Out Procedure**
     
