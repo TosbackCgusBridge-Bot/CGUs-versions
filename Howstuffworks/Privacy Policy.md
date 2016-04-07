@@ -68,11 +68,11 @@ Privacy Policy | HSW Privacy Policy   Next  
 
 Up Next
 
+*   HowStuffWorks NOW: Would you put your genome on your smartphone for $999?
+*   10 Questions That Science Can’t Answer Yet
+*   The iPhone vs. Android Quiz
+*   The Rotary Engines Quiz
 *   BrainStuff: Should Animals Have Human Rights?
-*   Stuff Mom Never Told You: Nude Selfies Aren't Empowerment - And That's OK
-*   HowStuffWorks NOW: Defining Geek Culture
-*   Quiz: Real Headline or Onion Headline?
-*   The 'FIFA 16' Video Game Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Anyone Can Make Vladimir Putin Smile**
+**The (White) Doctor Will See You Now: Why Racist Hospital Patients Often Win**
 
-**Geekdom Is on the Rise**
+**Crunch Time: Hearing Yourself Chew May Prevent Overeating**
 
-**Climate Change Is Affecting French Wines — For Good and Bad**
+**Is Knowing Your Full Genome a Right or a Privilege?**
 
 **See More Headlines »**
 
