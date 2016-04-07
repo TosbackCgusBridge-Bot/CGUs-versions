@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14665486264
+true true C14671162034
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Tue Apr 05 11:14:26 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Wed Apr 06 11:16:04 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -59,7 +59,7 @@ Select family apparel, shoes, baby furniture, handbags &. accessories, fine &. f
 
 \*Credit offer subject to credit approval.
 
-Print Coupon Exclusions and details: 3 Days | Online Only | Ends April 6 | Code: BIGSAVE2 \*Get details 50% Off\*
+Print Coupon Exclusions and details: Up to 80% Off | In Store and Online Clearaway! Hurry! Get them before they're gone. Bigger markdowns on clearance. Shop Now Last Day! | Online Only | Ends April 6 | Code: BIGSAVE2 \*Get details 50% Off\*
 
 select orig and reg-priced styles
 
@@ -91,11 +91,7 @@ Shop Sandals For Her 40 to 50% Off Xersion Activewear For The Family
 
 Select styles.
 
-Shop Men Shop Women Shop Boys Shop Girls     19.99 Nike Sandals
-
-Select styles. Excluded from coupon.
-
-Shop Men Shop Women SportsFanShop
+Shop Men Shop Women Shop Boys Shop Girls     SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
