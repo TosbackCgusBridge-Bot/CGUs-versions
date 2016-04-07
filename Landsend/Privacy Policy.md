@@ -11,8 +11,10 @@
 *   Ship To
 
 *   Lands' End
+*   Canvas by Lands' End
 
 *   Lands' End
+*   Canvas by Lands' End
 
 *   My Account
     *   Sign In
@@ -29,6 +31,7 @@
 
 *   Women
     
+    *   Lands' End
     *   Lands' End
     
     Back | Women CATEGORIES
@@ -73,6 +76,7 @@
 *   Men
     
     *   Lands' End
+    *   Lands' End
     
     Back | Men CATEGORIES
     
@@ -113,6 +117,7 @@
     *   Big &. Tall
 *   Kids
     
+    *   Lands' End
     *   Lands' End
     
     Back | Kids Girls>.
@@ -171,6 +176,7 @@
 *   Swim
     
     *   Lands' End
+    *   Lands' End
     
     Back | Swim SHOP SWIM
     
@@ -188,6 +194,7 @@
 *   Shoes
     
     *   Lands' End
+    *   Lands' End
     
     Back | Shoes SHOP SHOES
     
@@ -204,6 +211,7 @@
     *   Sale
 *   Home
     
+    *   Lands' End
     *   Lands' End
     
     Back | Home BEDDING >.
@@ -230,6 +238,7 @@
     *   Sale
 *   Uniforms
     
+    *   Lands' End
     *   Lands' End
     
     Back | Uniforms Girls &. Women>.
@@ -279,6 +288,7 @@
 *   Sale
     
     *   Lands' End
+    *   Lands' End
     
     Back | Sale SALE>.
     
@@ -298,9 +308,9 @@
     *   School Uniforms
     *   In-Season Savings
     *   Last Chance
-*   Coming Soon
 
 *   Lands' End
+*   Canvas by Lands' End
 
 *   My Account
 *   Help
@@ -313,6 +323,7 @@
 
 *   Women
     
+    *   Lands' End
     *   Lands' End
     
     Back | Women CATEGORIES Back | CATEGORIES
@@ -357,6 +368,7 @@
 *   Men
     
     *   Lands' End
+    *   Lands' End
     
     Back | Men CATEGORIES Back | CATEGORIES
     
@@ -397,6 +409,7 @@
     *   Big &. Tall
 *   Kids
     
+    *   Lands' End
     *   Lands' End
     
     Back | Kids Girls Back | Girls
@@ -455,6 +468,7 @@
 *   Swim
     
     *   Lands' End
+    *   Lands' End
     
     Back | Swim SHOP SWIM Back | SHOP SWIM
     
@@ -472,6 +486,7 @@
 *   Shoes
     
     *   Lands' End
+    *   Lands' End
     
     Back | Shoes SHOP SHOES Back | SHOP SHOES
     
@@ -488,6 +503,7 @@
     *   Sale
 *   Home
     
+    *   Lands' End
     *   Lands' End
     
     Back | Home BEDDING Back | BEDDING
@@ -514,6 +530,7 @@
     *   Sale
 *   Uniforms
     
+    *   Lands' End
     *   Lands' End
     
     Back | Uniforms Girls &. Women Back | Girls &. Women
@@ -563,6 +580,7 @@
 *   Sale
     
     *   Lands' End
+    *   Lands' End
     
     Back | Sale SALE Back | SALE
     
@@ -582,7 +600,6 @@
     *   School Uniforms
     *   In-Season Savings
     *   Last Chance
-*   Coming Soon
 
 Customer Service Menu
 
@@ -777,6 +794,7 @@ Company
 Our Brands
 
 *   Lands' End
+*   Canvas by Lands' End
 *   Business Outfitters
 *   International Sites
 
