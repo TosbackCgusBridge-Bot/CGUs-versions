@@ -172,9 +172,9 @@ Next Step
 *   Contact Wells Fargo Advisors
 *   Contact Abbot Downing
 
-Rewards and Benefits Rewards
+Rewards and Benefits Go Far™ Rewards
 
-*   Wells Fargo Rewards®
+*   Explore Rewards
 *   Earn Rewards
 *   Use Rewards
 *   Share Rewards
@@ -191,8 +191,8 @@ Your Financial Goals
 
 Popular Links
 
-*   Sign On to Rewards
-*   Rewards FAQs
+*   Sign On to Go Far Rewards
+*   Go Far Rewards FAQs
 *   Credit Cards
 
   
