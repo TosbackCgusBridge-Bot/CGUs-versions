@@ -1,8 +1,10 @@
 Explore Games
 
+*   Home
 *   Multiplayer
     *   Social Games
     *   2 player
+    *   Casino Games
 *   Action
     *   Arena Fighting
     *   Anime and Manga Games
@@ -61,8 +63,9 @@ Explore Games
     
     *   Social Games
     *   2 player
+    *   Casino Games
     
-    BROWSE BY
+    Browse By
     
     *   Recently Added
     *   Most popular
@@ -87,7 +90,7 @@ Explore Games
     *   War Games
     *   Zombie Games
     
-    BROWSE BY
+    Browse By
     
     *   Recently Added
     *   Most popular
@@ -112,7 +115,7 @@ Explore Games
     *   Scary Games
     *   Ninja Games
     
-    BROWSE BY
+    Browse By
     
     *   Recently Added
     *   Most popular
@@ -137,7 +140,7 @@ Explore Games
     *   Card Solitaire
     *   Bubble Shooter
     
-    BROWSE BY
+    Browse By
     
     *   Recently Added
     *   Most popular
@@ -163,7 +166,7 @@ Explore Games
     *   Love Games
     *   Princess Games
     
-    BROWSE BY
+    Browse By
     
     *   Recently Added
     *   Most popular
@@ -189,7 +192,7 @@ Explore Games
     *   Boat Racing
     *   Stunt Driving
     
-    BROWSE BY
+    Browse By
     
     *   Recently Added
     *   Most popular
@@ -215,7 +218,7 @@ Explore Games
     *   Soccer
     *   Boxing
     
-    BROWSE BY
+    Browse By
     
     *   Recently Added
     *   Most popular
