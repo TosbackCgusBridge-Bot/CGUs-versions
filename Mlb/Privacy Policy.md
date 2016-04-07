@@ -50,18 +50,17 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   GetGreat.com
     
     Featured
-    *   Spring Training
-    *   2015 Postseason
-    *   MLB.com Hot Stove
-    *   MLB Awards
+    *   Opening Week
+    *   16 Firsts
+    *   Memory Bank
     *   Must C
     *   Chatting Cage
     *   FastCast
-    *   AFL
     *   Outstandings
     *   Cut 4
+    *   MLB Awards
+    *   AFL
     *   Daily Dash
-    *   Must C
 *   Stats Stats Stats
     *   Regular Season Sortable Stats
     *   Regular Season League Leaders
@@ -71,7 +70,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Milestone Tracker
     *   Offseason Leagues
     *   Scoring Changes
-    *   GlossarySortable Stats
+    *   GlossaryQuicken Loans Sortable Stats
 *   Standings Standings Standings
     *   2016 Regular Season Standings
     *   Spring Training Standings
@@ -90,11 +89,10 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Depth Charts
     *   Transactions
     *   Top Prospects
-    *   Hot Stove Tracker
     *   Mobile Player Alerts
     *   MLB Players Association
     *   Probable Pitchers
-    *   Franchise FourHot Stove Tracker
+    *   Franchise Four
 *   Tickets Tickets Tickets
     *   General Ticket Information
     *   Postseason Ticket Refund Policies
