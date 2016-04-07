@@ -3,6 +3,8 @@ Navigation
 *   GAMES
     *   CastleVille Legends
     *   Chess With Friends
+    *   Crazy Cake Swap
+    *   Crazy Kitchen
     *   Draw Something
     *   Empires and Allies
     *   FarmVille
@@ -24,6 +26,7 @@ Navigation
     *   Word Streak With Friends
     *   Words On Tour
     *   Words With Friends
+    *   Yummy Gummy
     *   Zynga Poker
     *   Zynga Poker Classic
 *   COMPANY
