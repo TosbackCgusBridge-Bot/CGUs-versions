@@ -39,6 +39,7 @@ Help Section
 *   CA Privacy Policy
 *   Terms of Use
 *   Site Map
+*   In the meantime, we would love to help you find a school that is right for you!
 
 Privacy Policy .
 
