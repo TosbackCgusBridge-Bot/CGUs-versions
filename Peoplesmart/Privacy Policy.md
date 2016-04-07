@@ -121,7 +121,9 @@ You may use your account to access, correct, or change any personal information 
 
 Deleting Your Account
 
-In the event you want to delete an account that you have created, which includes your customer registration information, please contact our Privacy Team at privacy@peoplesmart.com. For information about opting out of our public records search records, click here. We will do our best to promptly respond to your request.
+You can delete your account through your PeopleSmart dashboard. Once deleted, you will no longer have access to any information in your account including your registration information and purchase history.
+
+For information about opting out of our public records search records, click here. We will do our best to promptly respond to your request.
 
 Communication Preferences
 
