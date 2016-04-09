@@ -82,25 +82,6 @@ Aéropostale
     *   Intimates
     *   Accessories
     *   Swim
-*   Room
-    
-    *   SHOP BY ROOM
-    *   Cozy Cabin Room
-    *   Metallic Moment Room
-    *   Lofty Ideals Room
-    *   Spirited Away Room
-    
-    *   SHOP BY CATEGORY
-    *   Bedding
-    *   Decorative Pillows
-    *   Wall Decals &. Decor
-    *   Throws, Curtains &. Rugs
-    *   Lighting
-    *   Accessories &. Organization
-    *   Art Gallery
-    
-    *   SHOP CLEARANCE
-    *   Room Clearance
 *   Clearance
     
     *   GIRLS
@@ -114,6 +95,7 @@ Aéropostale
     *   Clearance Accessories
     
     *   ROOM
+*   Trending
 *   P.S. KIDS
     *   GIRLS
     *   BOYS
