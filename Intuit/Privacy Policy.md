@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14671162034
+true true C14682301998
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Wed Apr 06 11:16:04 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Fri Apr 08 11:04:45 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,49 +49,31 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Extra 30% Off\* With Your JCPenney Credit Card Extra 20% Off\* With Any Other Method of Payment Online Only, $100 or More | Ends April 6 | Code: BIGSAVE2
+Extra 30% Off\* With Your JCPenney Credit Card Extra 20% Off\* With Any Other Method of Payment Online Only, $100 or More | Ends April 12 | Code: NEWYOU2
 
 OR
 
-Extra 25% Off\* With Your JCPenney Credit Card Extra 15% Off\* With Any Method of Payment In Store and Online | Ends April 6 | Code: BIGSAVE2
-
-Select family apparel, shoes, baby furniture, handbags &. accessories, fine &. fashion jewelry and salon products.
+Extra 25% Off\* With Your JCPenney Credit Card Extra 15% Off\* With Any Method of Payment In Store and Online | Ends April 12 | Code: NEWYOU2
 
 \*Credit offer subject to credit approval.
 
-Print Coupon Exclusions and details: Up to 80% Off | In Store and Online Clearaway! Hurry! Get them before they're gone. Bigger markdowns on clearance. Shop Now Last Day! | Online Only | Ends April 6 | Code: BIGSAVE2 \*Get details 50% Off\*
+Print Coupon Exclusions and details: Spring-Ready Styles For The Family In Store and Online | Under $15 View Store Ad Shop Men Shop Women Shop Kids Shop Baby Night and Day Doorbusters
 
-select orig and reg-priced styles
+Friday 3PM CDT Through Saturday 1PM CDT
 
-Shop Bedding and Bath Shop Window Shop Luggage 40% Off\*
-
-select orig and reg-priced styles
-
-Shop Furniture and Mattresses Shop Home Decor 30% Off\*
-
-select orig and reg-priced styles
-
-Shop Kitchen and Dining Shop Custom Blinds and Shades Great Deals on Spring Essentials 8.99 A.N.A Boyfriend Tee
-
-Select styles, orig. $16
-
-Shop A.N.A Boyfriend Tee 30 to 40% Off Hats and Sunglasses
-
-Select styles, reg. $18-$36
-
-Shop Hats and Sunglasses 12.99 All Men's St. John's Bay Solid Polos
-
-reg. $26
-
-Shop St. John's Bay Solid Polos 19.99 Sandals For Her
-
-Select styles, reg. $40-$50
-
-Shop Sandals For Her 40 to 50% Off Xersion Activewear For The Family
+Shop Doorbusters Up to 50% Off Home Sale
 
 Select styles.
 
-Shop Men Shop Women Shop Boys Shop Girls     SportsFanShop
+Shop All Home Shop Comforters and Bedding Sets   Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses 40 to 50% Off Xersion Activewear For The Family
+
+Select styles.
+
+Shop Men Shop Women Shop Boys Shop Girls     44.99 Women's Athletic Shoes
+
+Select styles, athletic shoes excluded from coupon.
+
+Shop Women's Athletic Shoes Clearance 50 to 80% Off New Markdowns! In Store and Online Shop Clearance Now SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
