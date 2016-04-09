@@ -94,10 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Apr 5, 2016 2016 Bad Bot Report: Quantifying the Risk and Economic Impact of Bad Bots
-
-Distil Networks has produced their third annual Bad Bot Report. It's the IT Security Industry's most in-depth analysis on the sources, types, and sophistication levels of last year's bot attacks -- and there are serious implications for anyone responsible for securing websites and APIs.  Join Derek Brink, Vice President of Research at Aberdeen Group  and Rami Essaid, CEO of Distil Networks to learn more.
-
 Thu, Apr 7, 2016 When Do I Really Need to Pay Attention to IPv6?
 
 IPv6 crossed some major milestones in 2015. Join us as we predict what IPv6 will likely do in 2016 and beyond. This webinar will update you on how these milestones could impact you and your business. Join Pluralsight author Ed Horley and IPv6 Evangelist Tom Coffeen (author of O’Reilly’s “IPv6 Address Planning”) to learn more.
@@ -109,6 +105,10 @@ Please join OTA Executive Director Craig Spiezle and Travis Hall, Telecommunicat
 Tue, May 10, 2016 Middle East (Cyber) Security Awards &. Conference (MESA)
 
 The Global Digital Transformation is posing new challenges to security &. risk executives globally. MESA is an event designed to highlight and discuss the biggest challenges of CISO’s and deliberate ways to address it. While all this is done, MESA is also celebrated by recognizing and awarding the security and risk leaders of Middle East. MESA Conference will be engaging in a dialogue with some of the top experts from the information security and Risk industry to debate and discuss on the key issues and challenges facing the sector.
+
+Tue, Jun 7, 2016 IRCE 2016
+
+Internet Retailer Conference &. Exhibition (IRCE) provides you with a conference full of industry experts and unrivaled agenda content, an exhibit hall filled with the latest and greatest solution providers, and a community made for networking with thousands of like-minded industry peers. IRCE 2016 will take place in the world-class city of Chicago, June 7-10, at McCormick Place West.
 
 More >>.
 
