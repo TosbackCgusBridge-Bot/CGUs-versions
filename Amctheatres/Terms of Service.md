@@ -52,7 +52,7 @@ Your mobile phone number will be removed or suppressed from AMC's SMS text messa
 
 For help with AMC SMS text alerts, please send **HELP** to **272727** via SMS text, or contact AMC's customer service department at 1-888-562-4262.
 
-The following carriers are currently supported: Alltel, AT&T, Boost Mobile, CellCom, Cellular One, Cellular South, Cincinnati Bell, Cricket, nTelos, Nextel, Sprint, T-Mobile, US Cellular, Verizon Wireless, Virgin Mobile, Interop, and Metro PCS.
+The following carriers are currently supported: Alltel, AT&T, Boost Mobile, CellCom, Cellular One, Cellular South, Cincinnati Bell, Cricket, nTelos, Nextel, Sprint, T-Mobile, US Cellular, Verizon Wireless, Virgin Mobile, Interop, and Metro PCS. T-Mobile is not liable for delayed or undelivered messages.
 
 Registration. User Accounts
 
