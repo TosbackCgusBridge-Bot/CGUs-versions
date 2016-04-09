@@ -267,9 +267,9 @@ Play Video
 
 Sony on Twitter
 
-Get ready #Outlander fans, we’ve got a Fan Pack Coming Soon to celebrate the release of Season 2.
+Get our new ultimate #Outlander Fan Pack! Bid now! sonyrewards.com
 
-2016-04-04 18:32:01+00:00
+2016-04-08 16:32:01+00:00
 
 View Tweet
 
