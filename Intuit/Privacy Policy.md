@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14682301998
+true true C14684581997
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Fri Apr 08 11:04:45 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Sat Apr 09 11:15:41 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -57,15 +57,15 @@ Extra 25% Off\* With Your JCPenney Credit Card Extra 15% Off\* With Any Method o
 
 \*Credit offer subject to credit approval.
 
-Print Coupon Exclusions and details: Spring-Ready Styles For The Family In Store and Online | Under $15 View Store Ad Shop Men Shop Women Shop Kids Shop Baby Night and Day Doorbusters
+Print Coupon Exclusions and details: Spring-Ready Styles For The Family In Store and Online | Under $15 View Store Ad Shop Men Shop Women Shop Kids Shop Baby Doorbusters
 
-Friday 3PM CDT Through Saturday 1PM CDT
+Through Saturday 1PM CDT
 
-Shop Doorbusters Up to 50% Off Home Sale
+Shop Doorbusters Home Flash Sale | Online Only! Extra 30% Off\* $100 or More Or Extra 25% Off\* Select Home Already 40 to 60% Off Or Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds and Shades
 
-Select styles.
+April 9 | All Day | Code: GOSHOP99
 
-Shop All Home Shop Comforters and Bedding Sets   Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses 40 to 50% Off Xersion Activewear For The Family
+\*Exclusions and details: Shop Now   40 to 50% Off Xersion Activewear For The Family
 
 Select styles.
 
