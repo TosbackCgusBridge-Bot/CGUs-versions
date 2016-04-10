@@ -94,10 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Thu, Apr 7, 2016 When Do I Really Need to Pay Attention to IPv6?
-
-IPv6 crossed some major milestones in 2015. Join us as we predict what IPv6 will likely do in 2016 and beyond. This webinar will update you on how these milestones could impact you and your business. Join Pluralsight author Ed Horley and IPv6 Evangelist Tom Coffeen (author of O’Reilly’s “IPv6 Address Planning”) to learn more.
-
 Thu, Apr 14, 2016 NTIA Request for Comments on Government Role in IoT
 
 Please join OTA Executive Director Craig Spiezle and Travis Hall, Telecommunications Policy Analyst with NTIA, for a briefing on NTIA’s Request for Comments on the benefits, challenges and potential roles for government in fostering the advancement of the Internet of Things (IoT). Prior to joining NTIA, Dr. Hall has been a Researcher, Policy Consultant and Lecturer in communications and surveillance. He joins us to discuss the RFC and answer questions.
@@ -110,7 +106,9 @@ Tue, Jun 7, 2016 IRCE 2016
 
 Internet Retailer Conference &. Exhibition (IRCE) provides you with a conference full of industry experts and unrivaled agenda content, an exhibit hall filled with the latest and greatest solution providers, and a community made for networking with thousands of like-minded industry peers. IRCE 2016 will take place in the world-class city of Chicago, June 7-10, at McCormick Place West.
 
-More >>.
+Wed, Jun 8, 2016 Privacy Risk Summit 2016
+
+The 2016 Privacy Risk Summit will bring together leading privacy practitioners, lawyers, regulators, and academics to address the top privacy risks and share proven strategies for success. The Summit builds on the success of the EU Data Protection Conference and IoT Privacy Summits to offer an expanded program with three parallel conference tracks focusing on the risks rising from technological and regulatory change and privacy risk management best practices.
 
 *   OTA Blog
 *   Newsletters
