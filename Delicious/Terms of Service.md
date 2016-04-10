@@ -67,6 +67,8 @@ RSS: Public
 
 Following: 0 Users
 
+Featured at the Delicious Store
+
 *   html
 *   Feed
 *   Following
@@ -76,9 +78,9 @@ Following: 0 Users
     *   Normal View
     *   Expanded View
 
-Search by Tag html has no links with the tags: terms.html. See all links tagged terms.html
+Search by Tag html has no links with the tags: terms.html. See all links tagged terms.html ADVERTISEMENT
 
-ADVERTISEMENT ADVERTISEMENT ADVERTISEMENT ADVERTISEMENT
+ADVERTISEMENT ADVERTISEMENT ADVERTISEMENT
 
 *   Home
 *   About
