@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14684581997
+true true L14742977572
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Sat Apr 09 11:15:41 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Sun Apr 10 11:10:21 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,35 +49,27 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Extra 30% Off\* With Your JCPenney Credit Card Extra 20% Off\* With Any Other Method of Payment Online Only, $100 or More | Ends April 12 | Code: NEWYOU2
+Penney Days Sale | Buy 1 Get 1 for .01 Apparel and Activewear from Arizona, St. John's Bay, Xersion and more, plus select Home items\* In Store and Online | April 10-17
 
-OR
+\*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
 
-Extra 25% Off\* With Your JCPenney Credit Card Extra 15% Off\* With Any Method of Payment In Store and Online | Ends April 12 | Code: NEWYOU2
+Get details:       Shop Juniors Shop Guys Shop Kids Shop Women Shop Men Shop Home Up to 50% Off Home Sale
 
-\*Credit offer subject to credit approval.
+Select styles
 
-Print Coupon Exclusions and details: Spring-Ready Styles For The Family In Store and Online | Under $15 View Store Ad Shop Men Shop Women Shop Kids Shop Baby Doorbusters
+Shop All Home Shop Bedding Shop Curtains and Drapes   Shop Kitchen and Dining Shop Furniture and Mattresses 20% Off Nike Shoes
 
-Through Saturday 1PM CDT
+Select styles. Nike excluded from coupon.
 
-Shop Doorbusters Home Flash Sale | Online Only! Extra 30% Off\* $100 or More Or Extra 25% Off\* Select Home Already 40 to 60% Off Or Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds and Shades
-
-April 9 | All Day | Code: GOSHOP99
-
-\*Exclusions and details: Shop Now   40 to 50% Off Xersion Activewear For The Family
-
-Select styles.
-
-Shop Men Shop Women Shop Boys Shop Girls     44.99 Women's Athletic Shoes
-
-Select styles, athletic shoes excluded from coupon.
-
-Shop Women's Athletic Shoes Clearance 50 to 80% Off New Markdowns! In Store and Online Shop Clearance Now SportsFanShop
+Shop Nike Shoes Shop Men Shop Women SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop Best Prom Ever Shop Prom Now Write a Review For Your Chance to Win $1,000 Get Details: Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop SportsFanShop Get Your Mother's Day Worth
+
+Mother's Day is May 8
+
+Shop Gifts Write a Review For Your Chance to Win $1,000 Get Details: Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
