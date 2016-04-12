@@ -68,11 +68,11 @@ Privacy Policy | HSW Privacy Policy   Next  
 
 Up Next
 
+*   Stuff You Should Know: Internet Roundup: Google's Hive-Mind Robot Arms &. the Coyote Vest for Your Pets
+*   Greek or Roman Deity? Quiz
+*   The Rom-com Quotes Quiz
 *   Stuff They Don't Want You to Know: Why do people disappear in national parks?
 *   What the Stuff?!: 4 Futuristic Auto Repair Technologies
-*   HowStuffWorks NOW: The Last Unicorn Died in Siberia
-*   The Cooking Techniques Quiz
-*   Kitchen Catastrophes: The Cooking Failures Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Marked at Birth: Your Birth Month, Allergies and DNA Are Linked**
+**When Touchscreens Touch Back**
 
-**Should We Cloak Earth to Hide It From Evil Aliens?**
+**Products for Your Period Finally Enter the 21st Century**
 
-**Where Does 'Rogue One' Fit in the Star Wars Universe?**
+**Ridiculous History: When Benjamin Franklin Remade the Alphabet**
 
 **See More Headlines »**
 
