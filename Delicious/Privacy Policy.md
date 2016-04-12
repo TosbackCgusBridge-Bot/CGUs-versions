@@ -80,7 +80,7 @@ Featured at the Delicious Store
 
 Search by Tag html has no links with the tags: privacy.html. See all links tagged privacy.html ADVERTISEMENT
 
-ADVERTISEMENT ADVERTISEMENT ADVERTISEMENT
+ADVERTISEMENT ADVERTISEMENT
 
 *   Home
 *   About
