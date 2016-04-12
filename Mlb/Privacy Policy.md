@@ -38,10 +38,10 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Instant Replay
     *   Statcast
     *   MLB Network
+    *   #MLBmemorybank
     *   120 Sports
     *   Podcasts
     *   Alternative Audio
-    *   Must C
     *   Most Popular
     *   Baseball's Best Moments
     *   FAQs
@@ -52,7 +52,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     Featured
     *   Opening Week
     *   16 Firsts
-    *   Memory Bank
     *   Must C
     *   Chatting Cage
     *   FastCast
