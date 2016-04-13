@@ -55,7 +55,7 @@ Search
 *   Shop
 *   Sign Up
 
-ADVERTISEMENT ADVERTISEMENT
+ADVERTISEMENT ADVERTISEMENT ADVERTISEMENT
 
 *   Home
 *   User
@@ -78,7 +78,7 @@ Featured at the Delicious Store
     *   Normal View
     *   Expanded View
 
-Search by Tag html has no links with the tags: terms.html. See all links tagged terms.html ADVERTISEMENT
+Search by Tag html has no links with the tags: terms.html. See all links tagged terms.html ADVERTISEMENT ADVERTISEMENT
 
 ADVERTISEMENT ADVERTISEMENT
 
