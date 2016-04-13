@@ -1,11 +1,10 @@
-*   Legal ›
-
-*   Overview
-*   Terms and policies
-*   Ubuntu Advantage
-*   BootStack
-*   Contributors
-*   Short terms
+*   Legal
+    *   Overview
+    *   Terms and policies
+    *   Ubuntu Advantage
+    *   BootStack
+    *   Contributors
+    *   Short terms
 
 Ubuntu legal terms and policies
 
