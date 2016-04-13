@@ -59,7 +59,7 @@ _Living Social Restaurants Plus Program_
 
 Restaurants Plus allows you to earn cash back when you dine at Plus restaurants with a registered payment card. If you choose to sign up for the Restaurants Plus program, by registering a payment card in connection with the Restaurants Plus program, you authorize LivingSocial and its service provider operating the Program to share your payment card information with your payment card network (e.g., MasterCard, Visa, American Express) so it knows you enrolled. You authorize your payment card network to monitor transactions on your registered card(s) to identify qualifying purchases in order to determine whether you have qualified for or earned an offer linked to your payment card, and for your payment card network to share such transaction details with LivingSocial or its third party servicer to enable your card-linked offer(s). Further, LivingSocial may share the transaction details with the merchant from which the transaction originated to determine eligibility for a reward. When you register for the Restaurants Plus Program, you agree to specific data monitoring and sharing of card activity as specifically outlined in greater detail in the Restaurants Plus Terms.
 
-You can choose to cancel Your use of Restaurants Plus at any time by calling the Restaurants Plus support line at (866) 578-2016 or by clicking on “my account” and deleting any payment cards you have activated in Restaurants Plus.
+You can choose to cancel Your use of Restaurants Plus at any time by calling the Restaurants Plus support line at (202) 503-2777 or by clicking on “my account” and deleting any payment cards you have activated in Restaurants Plus.
 
 Use and Disclosure of Information
 
