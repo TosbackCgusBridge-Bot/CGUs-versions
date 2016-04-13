@@ -55,7 +55,7 @@ Search
 *   Shop
 *   Sign Up
 
-ADVERTISEMENT ADVERTISEMENT
+ADVERTISEMENT ADVERTISEMENT ADVERTISEMENT
 
 *   Home
 *   User
@@ -78,7 +78,7 @@ Featured at the Delicious Store
     *   Normal View
     *   Expanded View
 
-Search by Tag html has no links with the tags: privacy.html. See all links tagged privacy.html ADVERTISEMENT
+Search by Tag html has no links with the tags: privacy.html. See all links tagged privacy.html ADVERTISEMENT ADVERTISEMENT
 
 ADVERTISEMENT ADVERTISEMENT
 
