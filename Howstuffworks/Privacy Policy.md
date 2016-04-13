@@ -68,11 +68,11 @@ Privacy Policy | HSW Privacy Policy   Next  
 
 Up Next
 
+*   Stuff Mom Never Told You: When Facial Hair Can Get You Killed
+*   HowStuffWorks NOW: The Last Unicorn Died in Siberia
+*   10 Animals With Better Jobs Than You
 *   Stuff You Should Know: Internet Roundup: Google's Hive-Mind Robot Arms &. the Coyote Vest for Your Pets
 *   Greek or Roman Deity? Quiz
-*   The Rom-com Quotes Quiz
-*   Stuff They Don't Want You to Know: Why do people disappear in national parks?
-*   What the Stuff?!: 4 Futuristic Auto Repair Technologies
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**When Touchscreens Touch Back**
+**Chinese Restaurants Fire Robot Servers, Forestalling Robot Apocalypse**
 
-**Products for Your Period Finally Enter the 21st Century**
+**We Can All Stop Misusing These Psychological Terms**
 
-**Ridiculous History: When Benjamin Franklin Remade the Alphabet**
+**Why Did Humans Lose Their Tails?**
 
 **See More Headlines »**
 
