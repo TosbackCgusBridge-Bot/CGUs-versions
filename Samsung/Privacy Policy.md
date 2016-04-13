@@ -126,7 +126,7 @@ We have put in place reasonable physical and technical measures to safeguard the
 
 Your California Privacy Rights  
 
-California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of personally identifiable information to third parties for their direct marketing purposes in the preceding calendar year (e.g., requests made in 2013 will receive information about 2012 sharing activities). We comply with this law by giving users the ability to tell us not to share personally identifiable information with third parties for their direct marketing purposes. To make such a request, send an email to opt-out-shine-the-light-law@sisa.samsung.com. We may need additional information to process your request.
+California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of personally identifiable information to third parties for their direct marketing purposes in the preceding calendar year (e.g., requests made in 2013 will receive information about 2012 sharing activities). We comply with this law by giving users the ability to tell us not to share personally identifiable information with third parties for their direct marketing purposes. To make such a request, send an email to NAPrivacy@sea.samsung.com. We may need additional information to process your request.
 
 Third-Party Links and Products on Our Services  
 
