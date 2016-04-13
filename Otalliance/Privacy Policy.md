@@ -110,6 +110,8 @@ Wed, Jun 8, 2016 Privacy Risk Summit 2016
 
 The 2016 Privacy Risk Summit will bring together leading privacy practitioners, lawyers, regulators, and academics to address the top privacy risks and share proven strategies for success. The Summit builds on the success of the EU Data Protection Conference and IoT Privacy Summits to offer an expanded program with three parallel conference tracks focusing on the risks rising from technological and regulatory change and privacy risk management best practices.
 
+More >>.
+
 *   OTA Blog
 *   Newsletters
 
