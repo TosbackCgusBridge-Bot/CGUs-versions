@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14748335388
+true true L14754941169
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p15.jcpenney.com SERVER NAME :->. dtcomexpr1l1j6 TIME :->. Mon Apr 11 11:10:21 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1l1j1 TIME :->. Tue Apr 12 11:15:36 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -53,15 +53,11 @@ Penney Days Sale | Buy 1 Get 1 for .01 Apparel and Activewear from Arizona, St. 
 
 \*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
 
-Get details:       Shop Juniors Shop Guys Shop Kids Shop Women Shop Men Shop Home Up to 50% Off Home Sale
+Get details:       Shop Juniors Shop Guys Shop Kids Shop Women Shop Men Shop Home Extra 25% Off\* Select Jewelry Already Up To 60% Off Today Online Only! | Code: JEWELRY2 \*Exclusions and details: Shop Jewelry   Up to 50% Off Home Sale
 
 Select styles
 
-Shop All Home Shop Bedding Shop Curtains and Drapes   Shop Kitchen and Dining Shop Furniture and Mattresses 20% Off Nike Shoes
-
-Select styles. Nike excluded from coupon.
-
-Shop Nike Shoes Shop Men Shop Women SportsFanShop
+Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and MattressesRe-Introducing Fiesta Shop Fiesta SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
