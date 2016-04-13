@@ -82,6 +82,7 @@ Aéropostale
     *   Intimates
     *   Accessories
     *   Swim
+*   Trending
 *   Clearance
     
     *   GIRLS
@@ -95,7 +96,6 @@ Aéropostale
     *   Clearance Accessories
     
     *   ROOM
-*   Trending
 *   P.S. KIDS
     *   GIRLS
     *   BOYS
