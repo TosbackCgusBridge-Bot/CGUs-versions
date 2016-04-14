@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14754941169
+true true L14759099420
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1l1j1 TIME :->. Tue Apr 12 11:15:36 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p08.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Wed Apr 13 11:15:07 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,15 +49,19 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Penney Days Sale | Buy 1 Get 1 for .01 Apparel and Activewear from Arizona, St. John's Bay, Xersion and more, plus select Home items\* In Store and Online | April 10-17
+Penney Days Sale | Buy 1 Get 1 for .01 Apparel and Activewear from Arizona, St. John's Bay, Xersion and more, plus select Home items\* In Store and Online | Ends April 17
 
 \*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
 
-Get details:       Shop Juniors Shop Guys Shop Kids Shop Women Shop Men Shop Home Extra 25% Off\* Select Jewelry Already Up To 60% Off Today Online Only! | Code: JEWELRY2 \*Exclusions and details: Shop Jewelry   Up to 50% Off Home Sale
+Get details:       Shop Women Shop Men Shop Juniors Shop Guys Shop Kids Shop HomeDoorbusters
+
+All day Friday, Saturday until 1PM CDT.
+
+Shop Doorbusters Now Up to 50% Off Home Sale
 
 Select styles
 
-Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and MattressesRe-Introducing Fiesta Shop Fiesta SportsFanShop
+Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
@@ -65,7 +69,11 @@ Shop SportsFanShop Get Your Mother's Day Worth
 
 Mother's Day is May 8
 
-Shop Gifts Write a Review For Your Chance to Win $1,000 Get Details: Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop Gifts Sephora Shop New Beauty Arrivals JCP Salon
+
+Buy 2 Get 1 Free - on salon haircare product
+
+Shop Now
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
