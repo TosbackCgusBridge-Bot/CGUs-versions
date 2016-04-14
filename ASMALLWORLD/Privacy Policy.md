@@ -1,6 +1,6 @@
 Privacy Policy
 
-ASMALLWORLD is a private community built on trust. ASMALLWORLD AG of Bellerivestrasse 241, 8008 Zurich, Switzerland and ASMALLWORLD Limited having its registered office at Eighth Floor, 6 New Street Square, New Fetter Lane, London, England EC4A 3AQ are joint data controllers (collectively “ASW” or “we”) and we take your privacy seriously. If you have any questions about this policy, we can be reached by email at privacy@asw.com. Alternatively, you can contact us at:
+ASMALLWORLD is a private community built on trust. ASMALLWORLD AG of Bellerivestrasse 241, 8008 Zurich, Switzerland and ASMALLWORLD Limited having its registered office at Eighth Floor, 6 New Street Square, New Fetter Lane, London, England EC4A 3AQ are joint data controllers (collectively “ASW” or “we”) and we take your privacy seriously. If you have any questions about this policy, we can be reached by email at \[email protected\]. Alternatively, you can contact us at:
 
 Privacy Policy Issues
 
@@ -68,11 +68,11 @@ We may disclose your personal information:
 
 Opting In or Out of Communications
 
-By using the Site you are consenting to the terms of this privacy policy and you agree that ASW and its partners (if you have provided the respective partner your email address or have consented to us giving your email address to the respective partner) may send you communications regarding goods, services, events and other information that may be of interest to you. You may opt out of receiving communications from us and/or our partners, and from participating in member surveys at any time by either following the simple unsubscribe process set out in each email, sending us an email at privacy@asw.com or going to your account settings and deselecting the relevant boxes. You may opt in to receiving communications from us and/or our partners at any time by going to your account setting and selecting the relevant boxes.
+By using the Site you are consenting to the terms of this privacy policy and you agree that ASW and its partners (if you have provided the respective partner your email address or have consented to us giving your email address to the respective partner) may send you communications regarding goods, services, events and other information that may be of interest to you. You may opt out of receiving communications from us and/or our partners, and from participating in member surveys at any time by either following the simple unsubscribe process set out in each email, sending us an email at \[email protected\] or going to your account settings and deselecting the relevant boxes. You may opt in to receiving communications from us and/or our partners at any time by going to your account setting and selecting the relevant boxes.
 
 Please be aware that on certain, rare occasions, we will send emails to communicate important corporate or member messages, like changes in our privacy policy or a receipt of your membership payment. These emails will not have an unsubscribe feature, as they are one-time only communications.
 
-If you supply us with your postal address on-line, you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please go to your account settings and deselect the relevant boxes or let us know by emailing us at privacy@asw.com.
+If you supply us with your postal address on-line, you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please go to your account settings and deselect the relevant boxes or let us know by emailing us at \[email protected\]
 
 To ensure removal from any lists, please provide us with your exact name, as it appears in your ASW profile, and address when communicating with us.
 
@@ -100,7 +100,7 @@ The Swiss-Act and the UK-Act give you the right to access personal data held abo
 
 Notification of New Uses
 
-On occasion, we may use personal information for new, unanticipated uses not previously disclosed in this privacy policy. In such cases, we will notify you of the content and purposes of the change by email. If you do not oppose such change in writing (by email to privacy@asw.com) within ten (10) days of the date of the email, the changes will be deemed accepted by you. Any data collection changes will be effective from then on. We will not retroactively collect data for new collection procedures.
+On occasion, we may use personal information for new, unanticipated uses not previously disclosed in this privacy policy. In such cases, we will notify you of the content and purposes of the change by email. If you do not oppose such change in writing (by email to \[email protected\]) within ten (10) days of the date of the email, the changes will be deemed accepted by you. Any data collection changes will be effective from then on. We will not retroactively collect data for new collection procedures.
 
 This policy became effective on 13 May 2013.
 
@@ -121,15 +121,15 @@ Copyright © 2004 - 2016 Asmallworld AG × Login Login REMEMBER ME Forgot Login 
 
 If you are registered with ASMALLWORLD, please enter your email address below and we will send you your login credentials.
 
-Email Address The email address that you have provided does not match any in our database. Please try a different address or contact support@asmallworld.net.
+Email Address The email address that you have provided does not match any in our database. Please try a different address or contact \[email protected\]
 
-If you can no longer access the email you used to create your account or are experiencing other issues, please email support@asw.com.
+If you can no longer access the email you used to create your account or are experiencing other issues, please email \[email protected\].
 
 Thank you!
 
 Your username and a temporary password have been emailed to the address you provided. When you receive the message, you can log in and reset your password to one of your choice.
 
-Should you need any other assistance, please contact support@asw.com.
+Should you need any other assistance, please contact \[email protected\].
 
 Error ×
 
