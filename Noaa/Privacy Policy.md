@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Podcast: Explore living shorelines National Weather Service will stop using all caps in its forecasts National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheries Scientists devote their careers to making sure we have plenty of fish to eat National Weather Service will stop using all caps in its forecasts National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -103,8 +103,9 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Satellite imagery, reports, launch information
 *   Climate data and reports
 *   Budgets, grants and Corporate Services
+*   Educational resources
 
-Enter Search Terms Ocean temperatures may hold key to predicting tornado outbreaks AROUND NOAA // March was 4th warmest for the contiguous U.S. Klamath Basin agreement removes four dams, restores fisheries Explorers welcome here: Discover the new NOAA.gov
+Enter Search Terms Ocean temperatures may hold key to predicting tornado outbreaks AROUND NOAA // America's astounding progress in ending overfishing Coming this fall to an orbit near you: GOES-R Explorers welcome here: Discover the new NOAA.gov
 
 *   About our agency
 *   News and features
