@@ -1,6 +1,6 @@
 icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev iconicon-tag-close icon Toggle navigation Menu En Español Go
 
-*   PRODUCTS BY AGE
+*   PRODUCTS BROWSE BY AGE
     
     *   Baby on the way
     *   Birth - 5 months
@@ -12,7 +12,7 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   5+ years
     *   See all >.
     
-    BY CATEGORY
+    BROWSE BY CATEGORY
     
     *   Baby Gear
     *   Baby Toys
