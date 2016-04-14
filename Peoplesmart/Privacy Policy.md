@@ -39,7 +39,7 @@ This site displays public records that are available in the real world, such as 
 
 Your safety and privacy are very important to us
 
-We want to minimize the risk of harm resulting from use of public records information. Please contact us if you are particularly at risk for certain types of harm as a result of your public records being available on this site. Inflection will work with you on mitigating the risk of any potential harm, including physical harm, threats to public officials such as law enforcement, and issues related to identity theft. Please send your request to our Privacy Department at privacy@peoplesmart.com along with appropriate documentation
+We want to minimize the risk of harm resulting from use of public records information. Please contact us if you are particularly at risk for certain types of harm as a result of your public records being available on this site. Inflection will work with you on mitigating the risk of any potential harm, including physical harm, threats to public officials such as law enforcement, and issues related to identity theft. Please send your request to our Privacy Department at privacy@peoplesmart.com along with appropriate documentation.
 
 We Collect Information Related to Your Account and Identity
 
@@ -127,7 +127,7 @@ For information about opting out of our public records search records, click her
 
 Communication Preferences
 
-We may send you information about our products, notices regarding your account, and other messages related to this and other services we own, including marketing emails. You can unsubscribe from commercial emails by clicking on the unsubscribe link in those emails, emailing privacy@peoplesmart.com with the email address you wish to unsubscribe from. Please note that you may still receive account and billing notices from us, if applicable.
+We may send you information about our products, notices regarding your account, and other messages related to this and other services we own, including marketing emails. You can unsubscribe from commercial emails by clicking on the unsubscribe link in those emails or by emailing privacy@peoplesmart.com with the email address you wish to unsubscribe from. Please note that you may still receive account and billing notices from us, if applicable.
 
 Data Sources
 
