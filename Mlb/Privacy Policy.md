@@ -141,7 +141,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.com Support Forum
     *   MLB.TV Blackouts
     *   MLB.TV Download Center
-    *   Contact UsMLB.TV ST
+    *   Contact UsMLB.TV Student MLB.TV ST
 *   Fantasy Fantasy Fantasy
     *   Fantasy Player Preview
     *   Fantasy Baseball 2016
