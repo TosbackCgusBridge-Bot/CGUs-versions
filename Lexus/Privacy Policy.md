@@ -44,7 +44,7 @@ MENU **IS**
 **GS HYBRID**
 
 *   Starting at $63,080\*
-*   338 hp\* (total system)
+*   338 TOTAL SYSTEM HP\*
 
 *   Build
 *   Current Offers
@@ -52,7 +52,7 @@ MENU **IS**
 **GS F**
 
 *   Starting at $84,440\*
-*   467 hp\*
+*   467-HP\* 5.0L V8
 
 *   Build
 *   Current Offers
@@ -60,7 +60,7 @@ MENU **IS**
 **LS**
 
 *   Starting at $72,520\*
-*   386-hp\* 4.6L V8
+*   386-HP\* 4.6L V8 (RWD)
 
 *   Build
 *   Current Offers
@@ -68,7 +68,7 @@ MENU **IS**
 **LS HYBRID**
 
 *   Starting at $120,440\*
-*   438 hp\* (total system)
+*   438 TOTAL SYSTEM HP\*
 
 *   Build
 *   Current Offers
@@ -86,7 +86,7 @@ COMPARE **NX**
 **NX HYBRID**
 
 *   Starting at $39,720\*
-*   33-MPG combined rating\*
+*   33-MPG combined rating\* (FWD)
 
 *   Build
 *   Current Offers
@@ -102,7 +102,7 @@ COMPARE **NX**
 **RX HYBRID**
 
 *   Starting at $52,235\*
-*   30-MPG combined rating\*
+*   30-MPG COMBINED RATING\*
 
 *   Build
 *   Current Offers
@@ -110,7 +110,7 @@ COMPARE **NX**
 **GX**
 
 *   Starting at $50,780\*
-*   Full-time 4WD
+*   301-HP\* V8, FULL-TIME 4WD
 
 *   Build
 *   Current Offers
@@ -118,7 +118,7 @@ COMPARE **NX**
 **LX**
 
 *   Starting at $88,880\*
-*   Full-Time 4WD
+*   383-HP\* V8, FULL-TIME 4WD
 
 *   Build
 *   Current Offers
@@ -128,7 +128,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 COMPARE **RC**
 
 *   Starting at $39,995\*
-*   306-hp\* 3.5L V6
+*   2.0L I-4 OR 3.5L V6
 
 *   Build
 *   Current Offers
@@ -162,7 +162,7 @@ COMPARE **CT HYBRID**
 **NX HYBRID**
 
 *   Starting at $39,720\*
-*   33-MPG combined rating\*
+*   33-MPG combined rating\* (FWD)
 
 *   Build
 *   Current Offers
@@ -170,7 +170,7 @@ COMPARE **CT HYBRID**
 **RX HYBRID**
 
 *   Starting at $52,235\*
-*   30-MPG COMBINED RATING
+*   30-MPG COMBINED RATING\*
 
 *   Build
 *   Current Offers
@@ -178,7 +178,7 @@ COMPARE **CT HYBRID**
 **ES HYBRID**
 
 *   Starting at $40,920\*
-*   40-MPG combined rating\*
+*   40-MPG COMBINED RATING\*
 
 *   Build
 *   Current Offers
@@ -186,7 +186,7 @@ COMPARE **CT HYBRID**
 **GS HYBRID**
 
 *   Starting at $63,080\*
-*   338 hp\* (total system)
+*   338 TOTAL SYSTEM HP\*
 
 *   Build
 *   Current Offers
@@ -194,7 +194,7 @@ COMPARE **CT HYBRID**
 **LS HYBRID**
 
 *   Starting at $120,440\*
-*   438 hp\* (total system)
+*   438 TOTAL SYSTEM HP\*
 
 *   Build
 *   Current Offers
@@ -204,7 +204,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 COMPARE **RC F**
 
 *   Starting at $62,805\*
-*   467 hp\*
+*   467-HP\* 5.0L V8
 
 *   Build
 *   Current Offers
@@ -212,7 +212,7 @@ COMPARE **RC F**
 **GS F**
 
 *   Starting at $84,440\*
-*   467 hp\*
+*   467-HP\* 5.0L V8
 
 *   Build
 *   Current Offers
