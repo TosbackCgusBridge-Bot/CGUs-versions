@@ -116,7 +116,7 @@ General
 
 How can I get my name removed from the argos.co.uk mailing list?
 
-23\. If you want to be removed from our mailing list, please send an email to reply@argos.co.uk with the word 'remove' in the subject line and the email address that you wish to be removed within the email. Please note that it may take up to 28 days to action your request. In addition, each electronic mailing we send you will contain details of how you can unsubscribe.
+23\. If you want to be removed from our mailing list, please send an email to help@argos.co.uk with the word 'remove' in the subject line and the email address that you wish to be removed within the email. Please note that it may take up to 28 days to action your request. In addition, each electronic mailing we send you will contain details of how you can unsubscribe.
 
 How do I change any details stored on Argos.co.uk?
 
