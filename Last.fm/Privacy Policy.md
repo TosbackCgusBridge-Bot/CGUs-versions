@@ -9,7 +9,7 @@ Toggle navigation
 *   Music
 *   Events
 *   Features
-*   Inbox
+*   Subscribe
 *   Login
 *   Join
 
@@ -161,6 +161,7 @@ This Privacy Policy is effective as of Tuesday 15 January 2013.
 
 *   About
 *   Contact
+*   Subscribe
 *   Developer API
 *   Community Support
 *   Help
