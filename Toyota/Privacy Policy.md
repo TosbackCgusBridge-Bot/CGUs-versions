@@ -73,6 +73,10 @@ Shopping Tools
 *   Search Inventory
 *   Toyota Certified Used Vehicles
 
+About Toyota
+
+*   Careers
+
 Español | Owners View All Vehicles
 
 Close
@@ -1000,6 +1004,7 @@ About Toyota
 *   Toyota Worldwide
 *   Toyota Racing
 *   TRD USA
+*   Toyota Speak Up Line
 
 Language
 
