@@ -1,4 +1,4 @@
-**Last Revised: March 30, 2016**
+**Last Revised: April 14, 2016**
 
 **PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -360,4 +360,8 @@ _Refunds_ _._  Refunds for .CN Registrations will only be allowed where (i) reg
 
 **_(D) PROVISIONS SPECIFIC TO .JP REGISTRATIONS_**
 
-_Registration Restrictions_.  You represent and warrant that you have a local presence in Japan with a home or office address. You agree that certain domain names are reserved and can only be registered by certain parties. These include: (i) TLDs, other than ccTLDs, as determined by ICANN. (ii) geographical-type .JP domain names that are defined as metropolitan, prefectural, and municipal labels. (iii) names of primary and secondary educational organizations. (iv) names of organizations related to Internet management. (v) names required for .JP domain name operations. and (vi) character strings which may be confused with ASCII-converted Japanese domain names. The complete list of .JP Reserved Domains is available here.
+_Registration Restrictions_.  You represent and warrant that you have a local presence in Japan with a home or office address. You agree that certain domain names are reserved and can only be registered by certain parties. These include: (i) TLDs, other than ccTLDs, as determined by ICANN. (ii) geographical-type .JP domain names that are defined as metropolitan, prefectural, and municipal labels. (iii) names of primary and secondary educational organizations. (iv) names of organizations related to Internet management. (v) names required for .JP domain name operations. and (vi) character strings which may be confused with ASCII-converted Japanese domain names. The complete list of .JP Reserved Domains is available here. 
+
+**20\. ENGLISH LANGUAGE CONTROLS**
+
+This Agreement, along with all policies and the applicable product agreements identified above and incorporated herein by reference (collectively, the “Agreement”), is executed in the English language. To the extent any translation is provided to you, it is provided for convenience purposes only, and in the event of any conflict between the English and translated version, where permitted by law, the English version will control and prevail. Where the translated version is required to be provided to you and is to be considered binding by law (i) both language versions shall have equal validity, (ii) each party acknowledges that it has reviewed both language versions and that they are substantially the same in all material respects, and (iii) in the event of any discrepancy between these two versions, the translated version may prevail, provided that the intent of the Parties has been fully taken into consideration.
