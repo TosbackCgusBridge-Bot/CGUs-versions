@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14759099420
+true true L14773016013
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p08.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Wed Apr 13 11:15:07 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Fri Apr 15 11:15:31 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -53,7 +53,7 @@ Penney Days Sale | Buy 1 Get 1 for .01 Apparel and Activewear from Arizona, St. 
 
 \*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
 
-Get details:       Shop Women Shop Men Shop Juniors Shop Guys Shop Kids Shop HomeDoorbusters
+Get details:       Shop Women Shop Men Shop Juniors Shop Guys Shop Kids Shop Home Doorbusters
 
 All day Friday, Saturday until 1PM CDT.
 
