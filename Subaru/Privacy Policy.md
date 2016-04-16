@@ -190,7 +190,7 @@ Get up close and personal with model specific interactive content, videos, and s
 
 Start Here
 
-*   Estimate Credit Score
+*   Free Equifax Credit Score
 *   Apply for Financing
 *   Extended Service Plans
 *   Trade-In Appraisal
