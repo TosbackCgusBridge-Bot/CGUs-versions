@@ -170,7 +170,7 @@ Contact sales to start your free trial › pip
 *   About Us
 *   Email Exclusives &. Newsletters
 *   Headnote of the Day
-*   Editorial Submissions
+*   West Key Authors
 *   Legal Notices
 
 Careers | Site Map | Terms of Use | Privacy Statement | © 2016 Thomson Reuters Feedback
