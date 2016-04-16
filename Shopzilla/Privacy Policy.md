@@ -137,10 +137,10 @@ Connexity believes that relevant advertising is a good thing for consumers, and 
 
 Home  /  Privacy Policy Overview
 
-*   Paid Search &. Marketplace
+*   CPC Listings
 *   Bizrate Insights
-*   Display Media
-*   Publisher Monetization
+*   Programmatic
+*   Hitwise
 
 Resources
 
@@ -160,4 +160,4 @@ Connexity
 
 &copy 2016 Connexity, Inc. / Privacy Policy / Opt Out / Site Map
 
-Connexity® and Audience Discovery® are registered trademarks of Connexity, Inc.
+Connexity®, Audience Discovery® and Hitwise® are registered trademarks of Connexity, Inc.
