@@ -1,4 +1,4 @@
-icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev iconicon-tag-close icon Toggle navigation Menu En Español Go
+icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev iconicon-tag-close icon Toggle navigation Menu Go
 
 *   PRODUCTS BROWSE BY AGE
     
@@ -102,9 +102,8 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
 *   GAMES &. ACTIVITIES Online Games Apps for Kids Online Videos Coloring Pages Crafts for Kids Play &. Learn Activities
 *   OUR STORY Safety Earning your trust Research Learning from the experts Heritage How we’ve grown Loved &. Trusted Thanks, Mom! See all >.
 *   STORE
-*   EN ESPAÑOL
 
-SIGN UP FOR OUR E-NEWSLETTER >. SUBSCRIBE STAY IN TOUCH WITH US HERE: PRODUCTS
+Subscribe to our newsletter! >. SIGN UP STAY IN TOUCH WITH US HERE: PRODUCTS
 
 *   Baby Gear
 *   Baby Toys
