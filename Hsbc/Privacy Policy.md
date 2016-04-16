@@ -41,8 +41,6 @@ Menu Explore HSBC.com Search
         *   Internal control
         *   Obligations of senior financial officers
         *   Employee share plans
-    *   Procurement
-        
     *   Contact us
         
 *   Our approach in Our approach
@@ -61,6 +59,8 @@ Menu Explore HSBC.com Search
     *   Frequently asked questions
         
     *   Reports and documentation
+        
+    *   Supplier code of conduct
         
 *   Investor relations in Investor relations
     
@@ -303,7 +303,6 @@ Site navigation About HSBC
 *   Company history
 *   Structure and network
 *   Corporate governance
-*   Procurement
 *   Contact us
 
 Our approach
@@ -313,6 +312,7 @@ Our approach
 *   Sustainability
 *   Frequently asked questions
 *   Reports and documentation
+*   Supplier code of conduct
 
 Investor relations
 
