@@ -3,9 +3,9 @@
   
 FORBES.COM PRIVACY STATEMENT
 
-_Revised and posted as of: July 2, 2015_
+_Revised and posted as of: April 15, 2016_
 
-Forbes.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Forbes.com website and services. The Forbes.com website is owned and operated by Forbes.com LLC.
+Forbes.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Forbes.com website and services. The Forbes.com website is owned and operated by Forbes Media LLC.
 
 Forbes has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us by email at privacy@forbes.com. If you are not satisfied with our response you can contact TRUSTe here.
 
@@ -103,7 +103,7 @@ We occasionally hire other companies to provide limited services on our behalf, 
 
 In The Event of Sale or Bankruptcy
 
-The ownership of Forbes.com may change at some point in the future. Should that occur, we want this site to be able to maintain a relationship with you. In the event of a sale, merger, public offering, bankruptcy or other change in control of Forbes.com LLC and/or Forbes.com your information may be shared with the person or business that owns or controls this site. Opting out of receiving information from third parties will not affect our right to transfer your information to a new owner, but your choices will continue to be respected regarding the use of your information. You will be notified as described below in "How will I know if the Privacy Policy is changed."
+The ownership of Forbes.com may change at some point in the future. Should that occur, we want this site to be able to maintain a relationship with you. In the event of a sale, merger, public offering, bankruptcy or other change in control of Forbes Media LLC and/or Forbes.com your information may be shared with the person or business that owns or controls this site. Opting out of receiving information from third parties will not affect our right to transfer your information to a new owner, but your choices will continue to be respected regarding the use of your information. You will be notified as described below in "How will I know if the Privacy Policy is changed."
 
 As Required By Law
 
