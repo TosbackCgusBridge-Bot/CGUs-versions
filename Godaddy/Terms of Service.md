@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: March 28, 2016**
+**Last Revised: April 15, 2016**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -21,7 +21,7 @@ Email Marketing Service Agreement Pro Service Agreement Online Store/Quick Shopp
 
 Policies
 
-Privacy Policy Subpoena Policy Attorney Tips Dispute on Transfer Away Form Uniform Domain Name Dispute Resolution Policy ICANN Registrant Rights and Responsibilites ICANN Registrar Transfer Dispute Resolution Policy Trademark Copyright Infringement Brand Guidelines and Permissions Patent Notice
+Privacy Policy Subpoena Policy Attorney Tips Dispute on Transfer Away Form Uniform Domain Name Dispute Resolution Policy ICANN Registrant Rights and Responsibilites ICANN Registrar Transfer Dispute Resolution Policy Trademark Copyright Infringement Brand Guidelines and Permissions Patent Notice Refund Policy    
 
 The terms “we”, “us” or “our” shall refer to GoDaddy.  The terms “you”, “your”, “User” or “customer” shall refer to any individual or entity who accepts this Agreement, has access to your account or uses the Services.  Nothing in this Agreement shall be deemed to confer any third-party rights or benefits.
 
@@ -90,7 +90,7 @@ In addition to the general rules above, the provisions in this Section apply sp
 
 _GoDaddy Content_ _._ Except for User Content, the content on this Site and the Services , including without limitation the text, software, scripts, source code, API, graphics, photos, sounds, music, videos and interactive features and the trademarks, service marks and logos contained therein (“GoDaddy Content”), are owned by or licensed to GoDaddy in perpetuity, and are subject to copyright, trademark, and/or patent protection in the United States and foreign countries, and other intellectual property rights under United States and foreign laws. GoDaddy Content is provided to you “as is”, “as available” and “with all faults” for your information and personal, non-commercial use only and may not be downloaded, copied, reproduced, distributed, transmitted, broadcast, displayed, sold, licensed, or otherwise exploited for any purposes whatsoever without the express prior written consent of GoDaddy. No right or license under any copyright, trademark, patent, or other proprietary right or license is granted by this Agreement. GoDaddy reserves all rights not expressly granted in and to the GoDaddy Content, this Site and the Services, and this Agreement do not transfer ownership of any of these rights.
 
-_User Content_ _._ Some of the features of this Site or the Services may allow Users to view, post, publish, share, store, or manage (a) ideas, opinions, recommendations, or advice (“User Submissions”), or (b) literary, artistic, musical, or other content, including but not limited to photos and videos (together with User Submissions, “User Content”).  User Content includes all content submitted through your Account.  By posting or publishing User Content to this Site or to the Services, you represent and warrant to GoDaddy that (i) you have all necessary rights to distribute User Content via this Site or via the Services, either because you are the author of the User Content and have the right to distribute the same, or because you have the appropriate distribution rights, licenses, consents, and/or permissions to use, in writing, from the copyright or other owner of the User Content, and (ii) the User Content does not violate the rights of any third party.
+_User Content_ _._ Some of the features of this Site or the Services may allow Users to view, post, publish, share, store, or manage (a) ideas, opinions, recommendations, or advice (“User Submissions”), or (b) literary, artistic, musical, or other content, including but not limited to photos and videos (together with User Submissions, “User Content”).  User Submissions include, but are not limited to, forum posts, content submitted in connection with a contest, product reviews or recommendations, or photos to be incorporated into a social media event or activity. User Content includes all content submitted through your Account.  By posting or publishing User Content to this Site or to the Services, you represent and warrant to GoDaddy that (i) you have all necessary rights to distribute User Content via this Site or via the Services, either because you are the author of the User Content and have the right to distribute the same, or because you have the appropriate distribution rights, licenses, consents, and/or permissions to use, in writing, from the copyright or other owner of the User Content, and (ii) the User Content does not violate the rights of any third party.
 
 _Security_ _._ You agree not to circumvent, disable or otherwise interfere with the security-related features of this Site or the Services found at this Site (including without limitation those features that prevent or restrict use or copying of any GoDaddy Content or User Content) or enforce limitations on the use of this Site or the Services found at this Site, the GoDaddy Content or the User Content therein.
 
@@ -771,7 +771,11 @@ Except for disputes governed by the Uniform Domain Name Dispute Resolution Polic
 
 The titles and headings of this Agreement are for convenience and ease of reference only and shall not be utilized in any way to construe or interpret the agreement of the parties as otherwise set forth herein.  Each covenant and agreement in this Agreement shall be construed for all purposes to be a separate and independent covenant or agreement.  If a court of competent jurisdiction holds any provision (or portion of a provision) of this Agreement to be illegal, invalid, or otherwise unenforceable, the remaining provisions (or portions of provisions) of this Agreement shall not be affected thereby and shall be found to be valid and enforceable to the fullest extent permitted by law.
 
-****27**. CONTACT INFORMATION**
+****27**. ENGLISH LANGUAGE CONTROLS**
+
+This Agreement, along with all policies and the applicable product agreements identified above and incorporated herein by reference (collectively, the “Agreement”), is executed in the English language. To the extent any translation is provided to you, it is provided for convenience purposes only, and in the event of any conflict between the English and translated version, where permitted by law, the English version will control and prevail. Where the translated version is required to be provided to you and is to be considered binding by law (i) both language versions shall have equal validity, (ii) each party acknowledges that it has reviewed both language versions and that they are substantially the same in all material respects, and (iii) in the event of any discrepancy between these two versions, the translated version may prevail, provided that the intent of the Parties has been fully taken into consideration. 
+
+****28**. CONTACT INFORMATION**
 
 If you have any questions about this Agreement, please contact us by email or regular mail at the following address:
 
@@ -782,5 +786,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 3/28/16  
+Revised: 4/15/16  
 Copyright © 2005-2016 GoDaddy.com, LLC All Rights Reserved.
