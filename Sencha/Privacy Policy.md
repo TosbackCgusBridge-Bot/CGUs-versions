@@ -47,7 +47,7 @@ Sencha
     *   Ordering Information
     *   Authorized Resellers
 
-*   Roadshow 2016
+*   SenchaCon 2016
 *   Support
 *   Forum
 *   Docs
