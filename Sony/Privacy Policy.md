@@ -95,9 +95,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-Take a listen to a few of Sia's songs stripped down on piano on the @Spotify Sessions EP
+#RSD2016 is tomorrow and @sonylegacyrecs has got you covered: legacyrecordings.com
 
-2016-04-12 11:12:31+00:00
+2016-04-16 01:05:39+00:00
 
 View Tweet
 
@@ -175,9 +175,9 @@ Learn More
 
 Sony on Twitter
 
-Who said a full-frame camera should be big and heavy? sony.co.uk
+#MilesAhead, starring @IamDonCheadle, is now playing select cities. Read the @nytimes' rave review and see it now!
 
-2016-04-11 21:33:38+00:00
+2016-04-15 17:59:01+00:00
 
 View Tweet
 
@@ -289,9 +289,9 @@ Get the Shot
 
 Sony on Twitter
 
-RT @wildbellemusic: Our new album Dreamland is coming out April 15th. Pre-order it now!
+RT @Ghostbusters: #GBFanFriday is our favorite holiday because we always get the best presents. Check it out! #Ghostbusters
 
-2016-04-12 00:20:52+00:00
+2016-04-16 05:23:39+00:00
 
 View Tweet
 
