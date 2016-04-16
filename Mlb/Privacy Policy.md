@@ -24,9 +24,9 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Play Ball
     *   Voices
     *   Pipeline
-    *   2015 Awards
+    *   Awards
     *   Sports on Earth
-    *   Postseason
+    *   Entertainment
     *   Will Ferrell
     *   #AwardWorthy
     *   Espanol
