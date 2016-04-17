@@ -94,10 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Thu, Apr 14, 2016 NTIA Request for Comments on Government Role in IoT
-
-Please join OTA Executive Director Craig Spiezle and Travis Hall, Telecommunications Policy Analyst with NTIA, for a briefing on NTIA’s Request for Comments on the benefits, challenges and potential roles for government in fostering the advancement of the Internet of Things (IoT). Prior to joining NTIA, Dr. Hall has been a Researcher, Policy Consultant and Lecturer in communications and surveillance. He joins us to discuss the RFC and answer questions.
-
 Tue, May 10, 2016 Middle East (Cyber) Security Awards &. Conference (MESA)
 
 The Global Digital Transformation is posing new challenges to security &. risk executives globally. MESA is an event designed to highlight and discuss the biggest challenges of CISO’s and deliberate ways to address it. While all this is done, MESA is also celebrated by recognizing and awarding the security and risk leaders of Middle East. MESA Conference will be engaging in a dialogue with some of the top experts from the information security and Risk industry to debate and discuss on the key issues and challenges facing the sector.
@@ -109,6 +105,10 @@ Internet Retailer Conference &. Exhibition (IRCE) provides you with a conference
 Wed, Jun 8, 2016 Privacy Risk Summit 2016
 
 The 2016 Privacy Risk Summit will bring together leading privacy practitioners, lawyers, regulators, and academics to address the top privacy risks and share proven strategies for success. The Summit builds on the success of the EU Data Protection Conference and IoT Privacy Summits to offer an expanded program with three parallel conference tracks focusing on the risks rising from technological and regulatory change and privacy risk management best practices.
+
+Tue, Jun 14, 2016 2016 Online Trust Audit &. Awards
+
+Join leaders in public policy, security and privacy as we review the results from the 2016 Honor Roll and recognize organizations who have demonstrated a commitment to security, responsibly privacy practices and a commitment to consumer safety.  Now in our 8th year the Online Trust Audit is a comprehensive audit of over 50 data points accessing a sites security, privacy and consumer protection practices.  Briefing will recognize leaders in each key sectors, comparing and contrasting trends between the public and private sectors.
 
 More >>.
 
