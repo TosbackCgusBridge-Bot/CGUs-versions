@@ -124,19 +124,23 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     
     Auctions
     *   Authentication
+    *   Autographed
     *   Baseball Cards
     *   Baseballs
+    *   Bats
     *   Caps
     *   Experiences
+    *   Game-Used
     *   Jerseys
     *   PhotosCustom Shop MLB Auctions
 *   MLB.TV MLB.TV MLB.TV
     *   Buy MLB.TV
     *   Buy Gameday Audio
     *   Watch/Listen
+    *   View MLB.TV Demo
     *   Alternative Audio
-    *   MLB.TV with Extra Innings
     *   MLB.TV Devices
+    *   MLB.TV with Extra Innings
     *   FAQs
     *   MLB.com Support Forum
     *   MLB.TV Blackouts
