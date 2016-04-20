@@ -1,4 +1,6 @@
-Free drawstring bags with a qualifying brand purchase.
+Check out what's new!
+
+Shop New Arrivals.
 
 Guest Services 800-607-9788
 
