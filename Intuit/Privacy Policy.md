@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14710545930
+true true C14715536053
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Sun Apr 17 11:15:34 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Tue Apr 19 11:15:35 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,11 +49,15 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Penney Days Sale | Buy 1 Get 1 for .01 Apparel and Activewear from Arizona, St. John's Bay, Xersion and more, plus select Home items\* In Store and Online | Ends April 17
+HELD OVER! Penney Days Sale | Buy 1 Get 1 for .01 Apparel and Activewear from Arizona, St. John's Bay, Xersion and more, plus select Home items\* In Store and Online | Ends April 19
 
 \*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
 
-      Shop Women Shop Men Shop Juniors Shop Guys Shop Kids Shop Home Up to 50% Off Home Sale
+      Shop Women Shop Men Shop Juniors Shop Guys Shop Kids Shop Home 19.99 Sandals for Her Get Your Penney's Worth
+
+Select styles
+
+Shop Sandals for Her Up to 50% Off Home Sale
 
 Select styles
 
@@ -65,11 +69,7 @@ Shop SportsFanShop Get Your Mother's Day Worth
 
 Mother's Day is May 8
 
-Shop Gifts Sephora Shop New Beauty Arrivals JCP Salon
-
-Buy 2 Get 1 Free - on salon haircare product
-
-Shop Now
+Shop Gifts Sephora Shop New Beauty Arrivals Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
