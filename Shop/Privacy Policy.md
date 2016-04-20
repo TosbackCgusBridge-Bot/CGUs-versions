@@ -15,12 +15,11 @@ LENOVO Menu
         2.  Professional Laptop Deals
         3.  Desktop Deals
         4.  Tablet Deals
-        5.  Accessories Deals
-        6.  Deals for Students and Educators
-        7.  Clearance PCs
+        5.  Deals for Students and Educators
+        6.  Clearance PCs
     *   SALE Great deals on select PCs and accessories.
         
-        Sale ends April 13.
+        Sale ends April 20.
         
     *   Clearance Sale Get these deals before they’re gone.
         
