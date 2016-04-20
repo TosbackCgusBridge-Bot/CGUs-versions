@@ -15,7 +15,6 @@ Aéropostale
     
     *   TOPS
     *   Graphic Tees
-    *   Throwback Tees
     *   Tees
     *   Camis + Tanks
     *   Polos
@@ -51,7 +50,6 @@ Aéropostale
     *   NEW ARRIVALS
     *   Spring Looks
     *   Headlining Now
-    *   Throwback Tees
     *   Uniform
     *   Online Only
     *   Extended Sizes
@@ -59,7 +57,6 @@ Aéropostale
     
     *   TOPS
     *   Graphic Tees
-    *   Throwback Tees
     *   Polos
     *   Tees
     *   Tanks
