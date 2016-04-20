@@ -5,12 +5,7 @@
     *   Contact
 *   SUPPORT
 
-*   CRM
-*   COMPANY
-    *   About
-    *   Blog
-    *   Contact
-*   SUPPORT
+*   No menu assigned!
 
 Privacy Policy 1. Data Collection, Processing and Use
 
@@ -82,3 +77,10 @@ Phonedeck is the productivity boost for mobile calls – on the road and in the 
 Supported by the EU
 
 © 2016 Phonedeck. Phonedeck GmbH, Berlin. All rights reserved.
+
+*   CRM
+*   COMPANY
+    *   About
+    *   Blog
+    *   Contact
+*   SUPPORT
