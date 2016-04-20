@@ -1,4 +1,4 @@
-Privacy Policy  
+Privacy Policy
 
 Last updated: November 5, 2015
 
@@ -6,9 +6,7 @@ Last updated: November 5, 2015
 
 Mattress Firm, Inc. (“Mattress Firm,” “we,” “us” and “our”) is committed to making your search for the perfect mattress and a great night sleep as pleasurable and easy as possible. Maintaining your privacy is part of that commitment. As such, this Privacy Policy describes the types of personal and non-personal information we collect on Mattressfirm.com (the “Site,”) how we use such information and to whom and under what circumstances we may disclose it. By using the Site, you agree to the collection, use and disclosure of your personally identifiable information as described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site.
 
-  
-
-Rest Easy: What do we collect?  
+Rest Easy: What do we collect?
 
 **Personal Information:**  
 Personal information is information that specifically identifies an individual, such as a customer’s name, address, telephone number, e–mail address, credit card or other account number, and information about that individual’s activities when directly linked to that person, such as information about his or her purchases. Personal information also includes demographic information, such as date of birth, gender, geographic area and preferences when such information is linked to other personal information that identifies you. We only collect personal information from you when you: 1) register on the Site and create an account, including any account created using already established social networking accounts such as Facebook or Twitter. 2) complete a survey. 3) sign up for our e-mail list or newsletter. 4) share content from the Site with your friends. 5) contact us by e-mail or by using the chat feature for any reason. or 6) order products and services.  
@@ -18,8 +16,8 @@ The Site is a general audience site not directed to children less than 13 years 
 **Non-personal Information:**  
 As part of the standard operation of the Site, we may collect certain non-personal information from you, including, but not limited to your Internet IP address, browser type, domain name, operating system, and referring website addresses. In addition, we may collect information about your browsing behavior, such as the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing the Site, the number of times you return to the Site. This data helps us understand trends and customer needs so that we can better consider new products and services and tailor existing products and services to customer desires. This allows us to make your shopping experience beneficial.  
 
-**Rest Easy: How do we collect your information?**  
-  
+**Rest Easy: How do we collect your information?**
+
 **Clickstream Data**  
 Clickstream data is a record of your activity on the Internet. This data is recorded whenever you click anywhere in a webpage or application and is used for the purposes of collecting, analyzing and reporting data about how you use the Site. This method of data collection is used to capture non-personal information.
 
@@ -31,7 +29,6 @@ A cookie is a small text file that may be stored on the hard drive of your compu
 If you register with us, this cookie allows us to recognize you when you return to our website and provides you with access to your account information. If you save your information with or order from us, we may also use cookies to monitor and maintain information about your use of our website.  
   
 If you have not saved your information with or ordered from us, we may monitor and maintain information about your use of our website in a manner that does not identify you. We may use cookies to collect the non-personal information described above in order to 1) provide you with customized content and advertising. 2) monitor Site usage. and 3) conduct research to improve our content and services. You are free to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all our offerings. Check the “Help” menu of your browser to learn how to change your cookie preferences.   
-  
 
 **Pixel Tags**  
 A pixel tag (also known as a web beacon) is a small string of code that represents a clear graphic image and is used in conjunction with a cookie. A pixel tag allows us to capture certain additional types of information about a visitor's actions on a web site, such as a visitor's cookie number, the time, date, duration and number of page views, a description of the page where the tag is placed and details about any items that were purchased. Pixel tags help us analyze our customers' online behavior and measure the effectiveness of our website and our advertising. We work with service providers that help us track, collect and analyze this information.  
