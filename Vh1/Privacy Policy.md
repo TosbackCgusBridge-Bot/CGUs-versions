@@ -10,10 +10,10 @@ VH1 Menu VH1
     *   Black Ink Crew
     *   Family Therapy With Dr. Jenn
     *   Behind The Movie
+    *   Dear Mama
     *   Love &. Hip Hop
     *   Stevie J &. Joseline Go Hollywood
-    *   K.Michelle: My Life
-    *   Hit The FloorSee all Shows
+    *   K.Michelle: My LifeSee all Shows
 *   Pop Culture
     *   Music
     *   Celebrity
@@ -28,7 +28,7 @@ VH1 Menu VH1
 
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Atlanta Black Ink Crew Family Therapy With Dr. Jenn Behind The Movie Love &. Hip Hop Stevie J &. Joseline Go Hollywood K.Michelle: My Life Hit The Floor See all Shows
+*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Atlanta Black Ink Crew Family Therapy With Dr. Jenn Behind The Movie Dear Mama Love &. Hip Hop Stevie J &. Joseline Go Hollywood K.Michelle: My Life See all Shows
 *   Pop Culture Music Celebrity Movies TV Around The Web See all Pop Culture
 *   Life Beauty &. Health Style Relationships See all Life
 *   facebook twitter tumblr
