@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14715536053
+true true C14719292799
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Tue Apr 19 11:15:35 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Wed Apr 20 11:15:35 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,27 +49,35 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-HELD OVER! Penney Days Sale | Buy 1 Get 1 for .01 Apparel and Activewear from Arizona, St. John's Bay, Xersion and more, plus select Home items\* In Store and Online | Ends April 19
+Mother's Day Sale 30 to 40% Off Dresses
 
-\*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
+Select styles, orig. $40-$86
 
-      Shop Women Shop Men Shop Juniors Shop Guys Shop Kids Shop Home 19.99 Sandals for Her Get Your Penney's Worth
-
-Select styles
-
-Shop Sandals for Her Up to 50% Off Home Sale
-
-Select styles
-
-Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   SportsFanShop
-
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
-
-Shop SportsFanShop Get Your Mother's Day Worth
+In Store and Online
 
 Mother's Day is May 8
 
-Shop Gifts Sephora Shop New Beauty Arrivals Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop Mother's Day Sale View Store Ad Shop DressesJCPenney Rewards Members Spend $50 and Get $10 Bonus Rewards\* \*get details: Liz Claiborne Sale 30 to 60% Off Liz Claiborne
+
+Select styles
+
+Shop Liz Claiborne Sale Shop Shoes Shop Handbags Shop Apparel Shop Fashion Jewelry Up to 50% Off Home Sale
+
+Select styles
+
+Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses  
+
+Small appliances excluded from coupon.
+
+Sephora Get It Together Shop palettes and sets Get Your Mother's Day Worth Mother's Day is May 8 Shop Mother's Day Gifts Shop Gifts Under $25 Shop Gifts Under $50 Shop Gift Cards Write a Review For Your Chance to Win $1,000 Get Details: JCP Salon
+
+Save on Salon Haircare Products
+
+Shop Now JCPenney | optical
+
+Free Shipping on Contacts
+
+Order Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
