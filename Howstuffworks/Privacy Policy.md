@@ -68,11 +68,11 @@ Privacy Policy | HSW Privacy Policy   Next  
 
 Up Next
 
+*   HowStuffWorks NOW: 30 Years Later, Chernobyl Wildlife Thrives
+*   The 'Doctor Who' Quiz
+*   The Surprisingly Canceled TV Shows Quiz
 *   Stuff Mom Never Told You: 5 Rad Jobs Men Stole from Women
 *   BrainStuff: Why Do So Many Price Tags End In .99?
-*   The Classic Game Shows Quiz
-*   From Aklo to Klingon: The Fictional Languages Quiz
-*   You Got It, Dude: The 'Full House' Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**A New Cure for Cancer: Marriage**
+**Why Google Warned Us About Google.com**
 
-**Can Your Name Predict the Kind of Life You'll Lead?**
+**Headphones That Could Make You Happy**
 
-**Toyota's Newest Electric Concept Car Is Made of Wood**
+**Harriet Tubman to Replace Andrew Jackson on the $20 Bill**
 
 **See More Headlines »**
 
