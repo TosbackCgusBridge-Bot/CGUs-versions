@@ -77,9 +77,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-Show your support and place your votes over at @thewebbyawards for #SuperMansion and #ComediansinCarsGettingCoffee.
+RT @UndergroundWGN: Historic! #HarrietTubman led so many to freedom and is now getting the recognition she deserves on the $20 bill!
 
-2016-04-07 02:34:01+00:00
+2016-04-21 06:22:14+00:00
 
 View Tweet
 
@@ -167,9 +167,9 @@ Play Video
 
 Sony on Twitter
 
-Day one of #SonyNABShow16 is about to begin! See us in booth C11001 in Las Vegas through Thursday. #beyonddefinition
+This September, it’s seven against an army. Watch the @Mag7Movie teaser trailer now. #Mag7
 
-2016-04-19 02:46:36+00:00
+2016-04-21 03:03:48+00:00
 
 View Tweet
 
@@ -239,9 +239,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-#XperiaX &. #XperiaEar: made for each other.
+RT @chloeandhalle: ICYMI #DROP is on @Spotify
 
-2016-04-19 03:50:44+00:00
+2016-04-21 06:28:44+00:00
 
 View Tweet
 
