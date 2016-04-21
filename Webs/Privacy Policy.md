@@ -579,7 +579,3 @@ Sign Up Free
 Social Marketing Made Simple.
 
 Learn More
-
-Contact Management Made Simple.
-
-Learn More
