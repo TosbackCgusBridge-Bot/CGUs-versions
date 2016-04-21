@@ -35,6 +35,7 @@ Fitbit
 *   Help
     *   Product Help
     *   Wear and Care
+    *   How-To Videos
 
 *   *   Your cart is currently empty. Let's shop
 *   Store
