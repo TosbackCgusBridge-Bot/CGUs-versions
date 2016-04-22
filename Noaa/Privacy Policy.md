@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheries Know the rules: Free app connects anglers with saltwater fishing regulations Fisheries Scientists devote their careers to making sure we have plenty of fish to eat National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Torrential rain brings record flooding to Houston Fisheries Know the rules: Free app connects anglers with saltwater fishing regulations National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheri
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms For 11th straight month, the globe was record warm AROUND NOAA // Scientists: Climate change poses bleaching risk to Australian coral reefs America's astounding progress in ending overfishing Coming this fall to an orbit near you: GOES-R Explorers welcome here: Discover the new NOAA.gov
+Enter Search Terms For 11th straight month, the globe was record warm AROUND NOAA // Dive virtually with the Okeanos Explorer in the Marianas Scientists: Climate change poses bleaching risk to Australian coral reefs The story behind the first Earth Day Explorers welcome here: Discover the new NOAA.gov
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock/NOAA
+NOAA/iStock
