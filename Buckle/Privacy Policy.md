@@ -1,6 +1,6 @@
-Check out what's new!
+Find the Perfect Mother's Day Gift!
 
-Shop New Arrivals.
+Shop Gifts for Mom.
 
 Guest Services 800-607-9788
 
