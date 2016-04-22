@@ -69,7 +69,6 @@ Aéropostale
     *   Pants
     *   Shorts
     
-    *   JACKETS + COATS
     *   UNDERWEAR + SOCKS
     *   ACCESSORIES
 *   Active
