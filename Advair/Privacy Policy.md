@@ -148,6 +148,12 @@ GSK Global Website www.gsk.com
         *   PROMACTA (eltrombopag)
         *   Tanzeum™ (albiglutide)
         *   US IMPACT Awards
+        *   World Meningitis Day
+            *   World Meningitis Day
+            *   Jamie Schanbaum
+            *   Meningococcal disease fact sheet
+            *   Hour of Power Rowing &. Cycling Challenge
+            *   Knowledge gaps in vaccination against meningococcal disease
     *   Infographics
     *   Media contacts
     *   Corporate reporting
