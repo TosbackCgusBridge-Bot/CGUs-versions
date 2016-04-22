@@ -18,16 +18,9 @@ Post a Job Search Resumes
     *   Buy Resume Database Access
     *   Sign in to Search Resumes
     *   About Resume Database
-*   About Us
-    *   Overview
+*   Resources
     *   Blog: The Hiring Site
-    *   Careers
-    *   History
-    *   Leadership
-    *   Locations
     *   Press Room
-    *   Research Collaboration
-    *   RightSkill
 
 *   More
     *   Sign In
@@ -94,10 +87,21 @@ Sorry, there was a problem with your email address. Please try again.
 Sign Up for the Latest Recruitment News, Tips and Advice Email Comments
 
 *   Help
+*   About Us
 *   Terms &. Conditions
 *   Security &. Privacy
 *   Advertise With Us
 *   Partners &. Affiliates
+
+*   <. Back
+*   About Us:
+*   Overview
+*   Careers
+*   History
+*   Leadership
+*   Locations
+*   Research Collaboration
+*   RightSkill
 
 ©2016 CareerBuilder, LLC. All rights reserved.  
 200 N. LaSalle Street, Chicago, IL
