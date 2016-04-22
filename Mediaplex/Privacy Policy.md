@@ -75,25 +75,26 @@ Loading... Login Let's Connect See What We Do
     Return On Ad Spend
 
 *   The Latest News
+*   Watch: Ideas &. Intelligence
+    
+    How to match consumers with their data  
+    
 *   In-App Viewability Verification
     
     New partnership with Integral Ad Science
     
+*   Matching People to Devices
+    
+    We explore the best way to achieve it
+    
 *   Ad Quality Guide
     
-    Solve for viewability, fraud and brand safety
+    Solve for viewability, fraud and brand  
+    safety
     
 *   Click Measurement
     
     Why display clicks shouldn't matter
-    
-*   Personalized Video
-    
-    Our newest 1:1 product
-    
-*   Conversant Access
-    
-    Take control of your own data
     
 
 NEW GUIDE
