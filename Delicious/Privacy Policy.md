@@ -67,8 +67,6 @@ RSS: Public
 
 Following: 0 Users
 
-Featured at the Delicious Store
-
 *   html
 *   Feed
 *   Following
