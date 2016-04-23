@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Torrential rain brings record flooding to Houston Fisheries Know the rules: Free app connects anglers with saltwater fishing regulations National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Sanctuaries Video: Explore NOAA's efforts to keep our marine places free of debris Weather Torrential rain brings record flooding to Houston National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms For 11th straight month, the globe was record warm AROUND NOAA // Dive virtually with the Okeanos Explorer in the Marianas Scientists: Climate change poses bleaching risk to Australian coral reefs The story behind the first Earth Day Explorers welcome here: Discover the new NOAA.gov
+Enter Search Terms For 11th straight month, the globe was record warm AROUND NOAA // Here are 5 successes to celebrate this Earth Day The story behind the first Earth Day Dive virtually with the Okeanos Explorer in the Marianas Explorers welcome here: Discover the new NOAA.gov
 
 *   About our agency
 *   News and features
