@@ -3,7 +3,6 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
-    *   Spring Looks
     *   Swim
     *   Bethany Mota
     *   Scene Stealers
