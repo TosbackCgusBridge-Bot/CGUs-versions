@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14801216235
+true true L14807820029
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Thu Apr 21 11:15:34 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Fri Apr 22 11:14:52 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,27 +49,79 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Mother's Day Sale 30 to 40% Off Dresses
+Mother's Day Sale In Store and Online | Mother's Day is May 8 Shop Mother's Day Sale View Store AdJCPenney Rewards Members Spend $50 and Get $10 Bonus Rewards\* \*Get details:Night and Day Doorbusters
 
-Select styles, orig. $40-$86
+Friday 3PM CDT through Saturday 1PM CDT
 
-In Store and Online
+Shop Hundreds of Doorbusters Now: 5.99 St. John's Bay Tees for Her
 
-Mother's Day is May 8
+Select styles, orig. $14
 
-Shop Mother's Day Sale View Store Ad Shop DressesJCPenney Rewards Members Spend $50 and Get $10 Bonus Rewards\* \*get details: Liz Claiborne Sale 30 to 60% Off Liz Claiborne
+Shop St. John's Bay Tees for Her 12.99 St. John's Bay Secretly Slender Capris
+
+orig. $36
+
+Shop St. John's Bay Secretly Slender Capris 11.99 Women's Career Tops
+
+Select styles, orig. $30-$36
+
+Shop Women's Career Tops 50-60% Off Liz Claiborne Apparel
+
+Select styles, reg. $7-$45
+
+Shop Liz Claiborne Apparel 16.99 Bali Double Support Bra
+
+reg. $39-$40
+
+Shop Bali Double Support Bra 70% Off Fashion Silver
 
 Select styles
 
-Shop Liz Claiborne Sale Shop Shoes Shop Handbags Shop Apparel Shop Fashion Jewelry Up to 50% Off Home Sale
+Shop Fashion Silver 15.99 Sandals for Her
 
-Select styles
+Select styles, reg. $40
 
-Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses  
+Shop Sandals for Her 60% Off All Men's St. John's Bay Shorts
 
-Small appliances excluded from coupon.
+reg. $40-$44
 
-Sephora Get It Together Shop palettes and sets Get Your Mother's Day Worth Mother's Day is May 8 Shop Mother's Day Gifts Shop Gifts Under $25 Shop Gifts Under $50 Shop Gift Cards Write a Review For Your Chance to Win $1,000 Get Details: JCP Salon
+Shop Men's St. John's Bay Shorts 4.99 Guys' Arizona Solid Tee
+
+reg. $12
+
+Shop Guys' Arizona Solid Tee 4.99 Kids' Arizona
+
+Select styles, reg. $12
+
+Shop Kids' Arizona 55% Off Carter's 2-piece Infant and Toddler Playwear Sets
+
+Select styles, reg. $24-$28
+
+Shop Carter's 4.99 Baby and Toddler Okie Dokie Match-Ups
+
+Select styles, reg. $12
+
+Shop Okie Dokie Match-Ups 60% Off All Ready-Made Curtains
+
+reg. $14-$130
+
+Shop Ready-Made Curtains 39.99 Cooks 12-piece Stainless Steel Cookware Set
+
+Select styles, reg. $100
+
+Shop Cooks 12-piece Stainless Steel Cookware Set 4.99 JCPenney Home Trellis or 30x54" Solid Bath Towel
+
+reg. $12
+
+Shop JCPenney Home Bath Towels 17.99 Cooks 5-quart Programmable Slow Cooker
+
+reg. $70
+
+Shop Cooks 5-quart Programmable Slow Cooker Home Flash Sale Extra 30% Off\* $100 or More Or Extra 25% Off\* Select Home Already Up to 50% Off Or Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds &. Shades
+
+2 Days Online Only | Ends April 23 | Code: GETNOW2
+
+\*Excusions and details: Shop Home Flash Sale Get Your Mother's Day Worth Mother's Day is May 8 Shop All Mother's Day Gifts Shop Gifts Under $25 Shop Gifts Under $50 Shop Gift Cards Sephora Shop New Beauty Arrivals JCP Salon
 
 Save on Salon Haircare Products
 
