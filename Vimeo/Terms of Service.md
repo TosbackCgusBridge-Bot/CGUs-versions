@@ -1,6 +1,6 @@
 Terms of Service
 
-Last Updated: March 2, 2016
+Last Updated: April 22, 2016
 
 \*\*PLEASE READ THIS DOCUMENT CAREFULLY. Vimeo, LLC ("Vimeo," "we," or "us") offers an online video sharing platform and community through its website located at Vimeo.com and other Vimeo-operated sites (collectively, the "Vimeo Site"), mobile applications, connected TV applications, and other online services (collectively and including the Vimeo Site, the "Vimeo Service"). By registering as a member or by using the Vimeo Service in any way, you accept these Terms of Service ("Agreement"), which forms a binding agreement between you and Vimeo. If you do not wish to be bound by this Agreement, do not use the Vimeo Service. \*\*
 
@@ -64,7 +64,7 @@ Your privacy rights are set forth in our Privacy Policy, which forms a part of t
 
 5\. Subscriptions and Purchases
 
-**VIMEO PLUS AND PRO:** In addition to offering Basic (free) Vimeo memberships, we offer Vimeo Plus and Vimeo PRO subscriptions. Please see our subscription pages for current Plus and PRO features and pricing. Features and prices are subject to change. Storage limits are calculated based upon source files. We may also offer add-on features and packages. Vimeo PRO users who wish to obtain additional storage may request a custom account by contacting us here: vimeo.com/help/contact. Additional terms and conditions (to be shown prior to purchase) apply to custom accounts. All fees may be subject to taxes.
+**VIMEO PLUS AND PRO:** In addition to offering Basic (free) Vimeo memberships, we offer Vimeo Plus and Vimeo PRO subscriptions. Please see our subscription pages for current Plus and PRO features and pricing. Features and prices are subject to change. Storage limits are calculated based upon source files. We reserve the right to charge for excessive use of bandwidth where plays occur on third-party sites and applications outside the native Vimeo player or apps. Vimeo PRO users who wish to obtain additional storage capacity, or additional bandwidth for applications not using the Vimeo player may request a custom account by contacting us here: vimeo.com/help/contact. Additional terms and conditions (to be shown prior to purchase) apply to custom accounts. All fees may be subject to taxes.
 
 **CANCELATION AND REFUNDS:** Users who purchase annual subscriptions have thirty (30) days after their purchase to cancel and receive a full refund. Users who purchase monthly subscriptions have five (5) days after purchase to cancel and receive a full refund. After the cancelation period ends, all purchases are final and all fees paid are non-refundable, even if your account is later terminated by Vimeo. If your account is terminated due to your breach of this Agreement during the relevant cancelation period, you will not be refunded. If you have questions, please contact us.
 
