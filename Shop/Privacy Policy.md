@@ -331,6 +331,7 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Where to Buy
     *   Product Registration
     *   Product Accessibility
+    *   Affiliate Program
     *   Product Compliance
     *   Training
     *   Affinity Discount Program
