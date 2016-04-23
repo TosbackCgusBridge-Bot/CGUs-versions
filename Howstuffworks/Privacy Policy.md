@@ -68,11 +68,11 @@ Privacy Policy | HSW Privacy Policy   Next  
 
 Up Next
 
+*   HowStuffWorks NOW: Computer Predicts Game of Thrones Deaths
+*   FW: Thinking: The Future of Retirement Homes
 *   BrainStuff: Does Disease Have A Smell?
 *   Stuff Mom Never Told You: Does Clitoris Size Matter?
 *   The '80s Movie Resurrections Quiz
-*   Stand Up! Hook Up! Sound Off!: The 'Band of Brothers' Quiz
-*   The World Cup Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**The Chance a Stranger Helps You in a Medical Emergency Is Depressingly Low**
+**Take a Dose of Dickinson: Poetry as Therapy**
 
-**Space Menstruation Deserves Further Study**
+**No, Not Only U.S. Presidents Are on American Money**
 
-**Baby Titanosaurs Hatched With Adult Proportions, Still Pretty Darn Cute**
+**Life Expectancy for White Women in U.S. Decreases**
 
 **See More Headlines »**
 
