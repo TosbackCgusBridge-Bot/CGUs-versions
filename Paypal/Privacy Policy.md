@@ -1,15 +1,16 @@
-PayPal requires JavaScript for many of its features. To check out, please turn on Javascript in your internet browser.
+PayPal requires JavaScript to be enabled for many of its features. To check out, please enable JavaScript in your internet browser.
 
-Search PayPal Search Skip to main content
+Skip to main content
 
 *   Sign Up
 *   Log In
 *   Help
-*   Security and Protection
+*   Security Center
 
 *   Home
 *   Personal
 *   Business
+*   Products
 
 Page Not Found
 
@@ -17,43 +18,34 @@ You have requested an outdated version of PayPal. This error often results from 
 
 More Information
 
-*   About PayPal
-*   Contact Us
+*   About
+*   Accounts
 *   Fees
-*   PayPal Developers
-*   Merchant Services
-*   Worldwide
-
 *   Privacy
-*   PayPal Blog
-*   Jobs
+*   Security Center
+*   Contact Us
 *   Legal Agreements
-*   Site Map
-*   eBay
+*   Jobs
+*   Mass Pay
 
-Copyright © 1999-2016 PayPal. All rights reserved.
+Copyright © 1999-2016 PayPal. All rights reserved.  
+Consumer advisory- PayPal Pte. Ltd., the holder of PayPal's stored value  
+facility, does not require the approval of the Monetary Authority of Singapore.  
+Users are advised to read the terms and conditions carefully.
 
 *   Home
-    *   Get to Know PayPal
-        *   Why PayPal
-        *   How To Use PayPal
-        *   How to Setup an Account
-        *   How Much It Costs
-        *   Account Types
-    *   Pay Online
-        *   PayPal Extras MasterCard
-        *   Shop Via Mobile
-    *   Send Money
-        *   Send Money Online
-        *   Internationally
-        *   To Your Teen
-        *   Via Your Mobile
-    *   Get Paid
+    *   Get Started
+        *   Why Use PayPal
+        *   How It Works
+        *   Where to Shop With It
+    *   Send Payment
+        *   Send Payment Online
+        *   Make a Mass Payment
+    *   Request Money
         *   Request Money
-        *   Sell on eBay
-        *   Sell with Classifieds
-        *   Sell on Your Website
-        *   Fundraise
-    *   Products &. Services
+        *   Send an Invoice
+    *   Sell on eBay
+    *   Developers
 *   Personal
 *   Business
+*   Products
