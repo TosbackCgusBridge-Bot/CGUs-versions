@@ -57,13 +57,11 @@
     FEATURED SHOPS
     
     *   New Arrivals
-    *   Swim Shop
+    *   Our Favorite Summer Dresses
+    *   The Starfish Collection
     *   Wear to Work
-    *   Summer Sneak Peek
     *   Tunic Shop
-    *   Starfish Collection
     *   Swim Finder
-    *   Cardigan Shop
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -206,7 +204,7 @@
     FEATURED SHOPS
     *   Water Shoes &. Sandals
     *   Trekkers, Mocs &. More
-    *   Boots &. Booties
+    *   Espadrilles
     *   Accessories Shop
     *   Sale
 *   Home
@@ -224,7 +222,7 @@
     
     BATH >.
     
-    *   Bath Towels
+    *   Towels
     *   Rugs &. Mats
     *   Beach Towels
     *   Shower Curtains
@@ -349,13 +347,11 @@
     FEATURED SHOPS Back | Women
     
     *   New Arrivals
-    *   Swim Shop
+    *   Our Favorite Summer Dresses
+    *   The Starfish Collection
     *   Wear to Work
-    *   Summer Sneak Peek
     *   Tunic Shop
-    *   Starfish Collection
     *   Swim Finder
-    *   Cardigan Shop
     *   Sale
     
     SHOP BY SIZE RANGE Back | Women
@@ -498,7 +494,7 @@
     FEATURED SHOPS Back | Shoes
     *   Water Shoes &. Sandals
     *   Trekkers, Mocs &. More
-    *   Boots &. Booties
+    *   Espadrilles
     *   Accessories Shop
     *   Sale
 *   Home
@@ -516,7 +512,7 @@
     
     BATH Back | BATH
     
-    *   Bath Towels
+    *   Towels
     *   Rugs &. Mats
     *   Beach Towels
     *   Shower Curtains
