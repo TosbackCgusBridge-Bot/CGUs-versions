@@ -135,6 +135,4 @@ Error ×
 
 An Error Has Occurred.
 
-Close × Apply  
-for  
-membership
+Close
