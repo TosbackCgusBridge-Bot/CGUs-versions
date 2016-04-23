@@ -171,8 +171,8 @@ If you have any questions about this Website Privacy Statement, the practices of
 
 Privacy Officer  
 Nextag Inc.  
-800 Bridge Parkway\\\\  
-Suite 200  
+555 Twin Dolphin Drive\\\\  
+Suite 370  
 Redwood City, CA 94065  
 legalnotices@nextag.com
 
