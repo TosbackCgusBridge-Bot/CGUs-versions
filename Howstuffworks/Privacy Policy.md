@@ -68,11 +68,11 @@ Privacy Policy | HSW Privacy Policy   Next  
 
 Up Next
 
+*   What the Stuff?!: 3 Knife Skills
 *   HowStuffWorks NOW: Computer Predicts Game of Thrones Deaths
 *   FW: Thinking: The Future of Retirement Homes
 *   BrainStuff: Does Disease Have A Smell?
 *   Stuff Mom Never Told You: Does Clitoris Size Matter?
-*   The '80s Movie Resurrections Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
+**Is Your Airbnb Photo 'Trustworthy'? If So, You Could Be Charging More**
+
 **Take a Dose of Dickinson: Poetry as Therapy**
 
 **No, Not Only U.S. Presidents Are on American Money**
-
-**Life Expectancy for White Women in U.S. Decreases**
 
 **See More Headlines »**
 
