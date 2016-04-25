@@ -28,6 +28,14 @@ Special Thanks
 
 Web 1 Marketing: Search Engine Optimization &. Internet Marketing Consultation Services
 
-Windermere Real Estate South
+Brokerages
+
+Scott Price is a Washington licensed real estate broker with RSVP Real Estate.
+
+Veronqiue Hval is a Washington licensed real estate broker with Windermere Real Estate South.
+
+and
+
+Windermere Real Estate South and RSVP Real Estate
 
 **© Copyright WaterHavens.com. All Rights Reserved.**
