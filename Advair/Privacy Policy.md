@@ -169,6 +169,8 @@ GSK Global Website www.gsk.com
     *   Shareholders
     *   Employees/retirees
     *   Business partners/vendors
+        *   Business partners/vendors
+        *   GSK Consumer Healthcare Trading Partners
     *   Healthcare providers
     *   Integrity and compliance
 
