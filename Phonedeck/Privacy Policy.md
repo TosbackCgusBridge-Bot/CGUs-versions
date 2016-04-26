@@ -1,7 +1,6 @@
 *   CRM
 *   COMPANY
     *   About
-    *   Blog
     *   Contact
 *   SUPPORT
 
@@ -70,7 +69,11 @@ Recent Blog Posts
 *   Phonedeck is hiring – Senior Fullstack Software Engineer July 1, 2015
 *   Phonedeck’s partner Alcatel-Lucent awarded by GSMA March 9, 2015
 
-Phonedeck Newsletter Email Address\* First Name\* Last Name\* Company \* = required field About Phonedeck
+Widget Area 3
+
+Click here to assign a widget to this area.
+
+About Phonedeck
 
 Phonedeck is the productivity boost for mobile calls – on the road and in the office. We work in the edge of CRM and telecommunication technology allowing you to remote control your smartphone.
 
@@ -81,6 +84,5 @@ Supported by the EU
 *   CRM
 *   COMPANY
     *   About
-    *   Blog
     *   Contact
 *   SUPPORT
