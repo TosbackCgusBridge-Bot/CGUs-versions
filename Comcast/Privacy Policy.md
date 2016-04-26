@@ -280,7 +280,7 @@ IV. Customer Access and Choice **How can I see my personally identifiable inform
 
 You may examine and correct, if necessary, the personally identifiable information regarding you that is collected and maintained by Comcast in our regular business records. In most cases, the personally identifiable information contained in these records consists solely of billing and account information. We will correct our records if you make a reasonable showing that any of the personally identifiable information we have collected about you is inaccurate.
 
-If you have Internet access, you can view and change certain information yourself by going to //www.comcast.com/myaccount and signing in with your Comcast username and password to access the My Account feature. If you are a home security customer, you can go to the subscriber portal at //www.comcast.com/xhportal.
+If you have Internet access, you can view and change certain information yourself by going to //www.xfinity.com/myaccount and signing in with your Comcast username and password to access the My Account feature. If you are a home security customer, you can go to the subscriber portal at //www.xfinity.com/xhportal.
 
 You may also examine the records containing your personally identifiable information at your local Comcast office upon reasonable prior notice to us and during our regular business hours. If you wish to examine these records, please contact us by mail or telephone at 1-800-XFINITY, giving us a reasonable period of time to locate and, if necessary, prepare the information for review, and to arrange an appointment. You will only be permitted to examine records that contain personally identifiable information about your account and no other account.
 
@@ -291,7 +291,7 @@ Comcast reserves the right to charge you for the reasonable cost of retrieving a
 Back to Top  
 **How do I manage or opt out of uses of information about my Comcast account?**  
 
-You may opt out of receiving more relevant advanced advertising delivered with programs made available through our cable video service by going to http://www.comcast.com/adservices. Even if you opt out, you will still receive advertising and we will continue to send you Comcast marketing messages based on the way you use our products and services and the information we have collected about you.
+You may opt out of receiving more relevant advanced advertising delivered with programs made available through our cable video service by going to http://www.xfinity.com/adservices. Even if you opt out, you will still receive advertising and we will continue to send you Comcast marketing messages based on the way you use our products and services and the information we have collected about you.
 
 Back to Top  
 **How do I give or withhold my approval for Comcast to use CPNI to market additional products and services to me?**  
@@ -312,7 +312,7 @@ Back to Top
 
 We may send a welcome e-mail and sometimes other information to new subscribers to our cable service and other services (including each new secondary account holder, where applicable). We may also send service-related announcements to our subscribers from time to time. For example, we may send you an e-mail announcement about a pricing change, a change in operating policies, a service appointment, or new features of one or more of the cable service or other services you receive from us. You may not opt-out of these service-related communications. If you fail to check your primary e-mail address for service-related announcements, you may miss important information about our services, including legal notices, for example.
 
-We reserve the right to send you promotional or commercial e-mail as permitted by applicable law.  You can manage the promotional or commercial e-mails Comcast may send to you by following the instructions contained in the e-mails or by going to the Web page located at //www.comcast.com/preferences and following the directions there. We may ask for additional information on this preferences page such as your zip code, for example.  By providing this additional information to us we will be able to better inform you of the availability of special offers and promotions in your area.  If you no longer wish to receive these e-mails you may opt-out of receiving them by going to the same page and changing your contact preferences.
+We reserve the right to send you promotional or commercial e-mail as permitted by applicable law.  You can manage the promotional or commercial e-mails Comcast may send to you by following the instructions contained in the e-mails or by going to the Web page located at //www.xfinity.com/preferences and following the directions there. We may ask for additional information on this preferences page such as your zip code, for example.  By providing this additional information to us we will be able to better inform you of the availability of special offers and promotions in your area.  If you no longer wish to receive these e-mails you may opt-out of receiving them by going to the same page and changing your contact preferences.
 
 Back to Top  
 **What can I do if I think my privacy rights have been violated?**  
@@ -322,7 +322,7 @@ If you believe that you have been aggrieved by any act of ours in violation of t
 Back to Top  
 **Will Comcast notify me if it changes this notice?**  
 
-As required by the Cable Act, we will provide you with a copy of this customer privacy notice at the time we enter into an agreement to provide any cable service or other service to you, and annually afterwards, or as otherwise permitted by law. You can view the most current version of this notice by going to http://www.comcast.com/Corporate/Customers/Policies/CustomerPrivacy.html.
+As required by the Cable Act, we will provide you with a copy of this customer privacy notice at the time we enter into an agreement to provide any cable service or other service to you, and annually afterwards, or as otherwise permitted by law. You can view the most current version of this notice by going to http://www.xfinity.com/Corporate/Customers/Policies/CustomerPrivacy.html.
 
 We may modify this notice at any time. We will notify you of any material changes through written, electronic, or other means and as otherwise permitted by law. If you find the changes to this notice unacceptable, you have the right to cancel your service. If you continue to use the service following notice of the changes, we will deem that to be your acceptance of and consent to the changes in the revised privacy notice. This includes your consent for any personally identifiable information that we may collect and use starting on the effective date of the revised notice, as well as for any personally identifiable information that we have collected prior to the effective date of the revised notice. However, we will only deem your continued use of the service to be your acceptance of and consent to changes in the revised privacy notice for changes made after December 31, 2006.
 
@@ -332,7 +332,7 @@ Back to Top
 If you have any questions or suggestions regarding this privacy notice, or wish to contact us about your personal information, please reach us as follows:
 
 Phone:  1-800-XFINITY  
-Website: http://customer.comcast.com/contact-us/  
+Website: http://customer.xfinity.com/contact-us/  
 Mail:  Comcast Cable Communications, LLC  
 Attn: Law Department - Customer Privacy Notice  
 One Comcast Center  
