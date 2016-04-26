@@ -29,3 +29,17 @@ A legal description of the services included in BootStack.
 Short terms ›
 
 This agreement sets out Canonical’s standard service terms for both Ubuntu Advantage and BootStack customers.
+
+Want a fully managed private cloud?
+
+BootStack is your OpenStack private cloud with our experts responsible for design, deployment and availability.
+
+Get BootStack ›
+
+Get Ubuntu
+
+The open source software platform that runs everywhere from the smartphone, the tablet and the PC to the server and the cloud.
+
+Download Ubuntu
+
+Further reading Find out more at insights.ubuntu.com
