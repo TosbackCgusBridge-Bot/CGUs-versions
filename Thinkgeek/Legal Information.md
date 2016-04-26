@@ -44,7 +44,7 @@ Chat With Someone Now Live Chat Unavailable
 
 Communicate with Us the Old-Fashioned Ways
 
-9am to 9pm EST  
+9am to 6pm EST  
 Monday - Friday
 
 *   1-888-GEEKSTUFF
