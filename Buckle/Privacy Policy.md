@@ -55,7 +55,6 @@ My Bag (0) Wish List Search
     *   Email Updates
     *   Maintain Your Wish List
 *   Shipping/Handling
-    *   Holiday Shipping
     *   International Shipping
     *   Shipping Rates/Options
 *   Returns
@@ -213,9 +212,6 @@ Corporate Office:
 The Buckle, Inc.  
 2407 W. 24th Street  
 Kearney, NE 68845  
-Phone: 800-626-1255
-
-Screenprinting Service:  
 Phone: 800-626-1255
 
 The Buckle Inc.
