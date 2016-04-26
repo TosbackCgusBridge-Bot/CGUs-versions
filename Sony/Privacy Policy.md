@@ -15,7 +15,7 @@ SONY search Electronics
 *   Car &. Marine
 *   All Electronics
 
-All Electronics Transform your spaceOur Life Space UX range is designed to unlock the hidden potential of everyday space. Find out more Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up
+All Electronics Reward yourself with Sony.Earn towards the electronics you crave with Sony Rewards. Learn More Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up
 
 *   PlayStation
 
@@ -41,7 +41,109 @@ SONY
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! On Location With Photographer David McLain
+Your browser does not support JavaScript! Don't Miss This Bold Biopic About Miles Davis, Directed by and Starring Don Cheadle
+
+Find Tickets for "Miles Ahead"
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Jazz Musician Robert Glasper Reinterprets Miles Davis
+
+Pre-Order Album
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+By Miles Davis
+
+Sony on Instagram
+
+Sony on Twitter
+
+"Everything's Beautiful" features Stevie Wonder, @fatbellybella, @illaj &. more. Pre-order now.
+
+2016-04-21 07:30:01+00:00
+
+View Tweet
+
+Get Lost in the Music
+
+From the Movie
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+From the Movie
+
+Start Building Your Record Collection Today
+
+See Albums
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+See Albums
+
+Explore 4 New Maps for Call of Duty: Black Ops III
+
+Plus, Fight Zombies
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+On Location With Photographer David McLain
 
 Discover Alpha Cameras
 
@@ -77,9 +179,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-RT @UndergroundWGN: Historic! #HarrietTubman led so many to freedom and is now getting the recognition she deserves on the $20 bill!
+SPT’s #Underground renewed by WGN America for a second season.
 
-2016-04-21 06:22:14+00:00
+2016-04-26 09:05:38+00:00
 
 View Tweet
 
@@ -111,98 +213,6 @@ Close
 
 Train Smarter
 
-Don Cheadle Stars as Jazz Musician Miles Davis in "Miles Ahead"
-
-Find Tickets
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-See How the Xperia X Keeps Up With Your Lifestyle
-
-Stay Connected
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-On the Set of Future's New Video
-
-See More Music Videos
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-Sony on Twitter
-
-This September, it’s seven against an army. Watch the @Mag7Movie teaser trailer now. #Mag7
-
-2016-04-21 03:03:48+00:00
-
-View Tweet
-
-Small Size, Big Zoom
-
-Get the Shot
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Get the Shot
-
-Sony on Instagram
-
-Take Extra Bass With You Anywhere
-
-Be Portable
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Be Portable
-
 A Few of Your Favorite PlayStation Heroes Are Back
 
 Play Ratchet &. Clank on PS4™
@@ -221,9 +231,9 @@ Sony on YouTube
 
 Play Video
 
-Our Spirit, Your Experience
+Autofocus That Tracks Your Subject for the Perfect Shot
 
-Sony's Stories
+Switch to Xperia
 
 Close
 
@@ -233,35 +243,35 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Sony's Stories
+Switch to Xperia
 
 Sony on Instagram
 
+Table Lamp + Speaker =
+
+The Future
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+The Future
+
 Sony on Twitter
 
-RT @chloeandhalle: ICYMI #DROP is on @Spotify
+RT @Outlander\_STARZ: Don't waste your time waiting for anything or anyone. Watch all of #Outlander now.
 
-2016-04-21 06:28:44+00:00
+2016-04-26 03:52:37+00:00
 
 View Tweet
 
-Made for Music Lovers
+When the Best Seat of the House Is at Home
 
-Learn More
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Learn More
-
-A New Dark Souls Game Is Here
-
-Play on PS4™
+Build Your Home Theater
 
 Close
 
@@ -271,15 +281,11 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Play Video
+Build Your Home Theater
 
-Sony on YouTube
+Watch Nigel Sylvester's Test Run
 
-Play Video
-
-Mini-Flipping Around the World in 10 Days
-
-Captured With Action Cams
+Captured With Action Cam
 
 Close
 
@@ -294,20 +300,6 @@ Play Video
 Sony on YouTube
 
 Play Video
-
-Add Your Favorite Vinyl Records to Your Digital Music Collection
-
-Check Out Our New Turntable
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Check Out Our New Turntable
 
 Load More
 
