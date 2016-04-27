@@ -236,9 +236,9 @@ Email Communications
 
 > Note: It may take up to 10 business days to process your request.
 
-*   Customer Survey Emails: We may separately send surveys, via e-mail, to our customers in order to collect opinions and feedback about their shopping experiences. To opt-out of receiving survey emails from Bloomingdale’s, you may use the unsubscribe link at the bottom of any survey email.  
+*   Customer Survey Emails: We may separately send surveys, via e-mail, to our customers in order to collect opinions and feedback about their shopping experiences. To opt-out of receiving survey emails from Bloomingdale’s, you may use the unsubscribe link at the bottom of any survey email.
     
-*   Specialized Email Programs: You may have signed up for one of our specialized email programs (e.g.  Registry Star Rewards). To opt-out of receiving emails from one of those specialized programs, you may use the unsubscribe link at the bottom of any of these emails.  
+*   Specialized Email Programs: You may have signed up for one of our specialized email programs (e.g.  Registry Star Rewards). To opt-out of receiving emails from one of those specialized programs, you may use the unsubscribe link at the bottom of any of these emails.
     
 *   b-connected: Customers who have a one-to-one relationship with a Bloomingdale’s sales associate and no longer wish to receive e-mails from that associate may contact the associate directly and opt-out of receiving those e-mails.  
       
