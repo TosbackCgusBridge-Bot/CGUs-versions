@@ -352,7 +352,6 @@ Gerichtsstand ist Hamburg. Es gilt deutsches Recht.
 Zur Startseite Diesen Artikel...
 
 *   **Drucken**
-*   **Merken**
 *   Feedback
 *   Nutzungsrechte
 
