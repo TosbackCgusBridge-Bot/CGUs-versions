@@ -382,7 +382,7 @@ Explore Subaru
 *   View a Brochure
 *   All Things Subaru
 *   Build Your Own
-*   Shopping Tools
+*   Compare Vehicles
 *   Find a Retailer
 *   Certified Pre-Owned
 *   Site Map
