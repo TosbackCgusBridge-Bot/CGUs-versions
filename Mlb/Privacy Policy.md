@@ -149,7 +149,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
 *   Fantasy Fantasy Fantasy
     *   Fantasy Player Preview
     *   Fantasy Baseball 2016
-    *   Free Agent Frenzy
     *   R.B.I. Baseball 16
     *   MLB.com Home Run Derby
     *   MLB.com Line Drive
