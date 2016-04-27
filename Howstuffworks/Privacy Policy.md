@@ -68,11 +68,11 @@ Privacy Policy | HSW Privacy Policy   Next  
 
 Up Next
 
-*   Stuff You Should Know: India's Push for Solar Power &. Smithers Comes Out
-*   From Gaia to Medusa: The Greek Mythology Quiz
-*   'Jane Eyre' vs. 'Wuthering Heights' Quiz
-*   Who Was Older? Quiz
-*   Stuff They Don't Want You to Know: 5 Things You Didn't Know About Jinn
+*   BrainStuff: Can You Die Of Fright?
+*   Stuff Mom Never Told You: Nipple Hair Don't Care
+*   The Wizarding World of Harry Potter Quiz
+*   A Literary Family: The Brontes Quiz
+*   Singing Slogans: The Famous Ad Jingles Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Ridiculous History: When People Thought They Were Made of Glass**
+**Parents: Ditch the Spanking and Try Non-punitive Discipline Instead**
 
-**What's the Oldest Living Thing on Earth?**
+**Exploring the World of Mail-order Marriages**
 
-**Test Driving Buckminster Fuller's Dymaxion Car**
+**Surprise! There's Such a Thing as Abdominal Migraine**
 
 **See More Headlines »**
 
