@@ -125,9 +125,9 @@ Close
 
 See Albums
 
-Explore 4 New Maps for Call of Duty: Black Ops III
+Beyoncé's New Visual Album Is Here
 
-Plus, Fight Zombies
+Listen Now
 
 Close
 
@@ -137,11 +137,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Play Video
-
-Sony on YouTube
-
-Play Video
+Listen Now
 
 On Location With Photographer David McLain
 
@@ -213,9 +209,9 @@ Close
 
 Train Smarter
 
-A Few of Your Favorite PlayStation Heroes Are Back
+What Happens When Technology Disrupts Commerce As We Know It?
 
-Play Ratchet &. Clank on PS4™
+Get Ready for "StartUp"
 
 Close
 
