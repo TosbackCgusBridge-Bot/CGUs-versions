@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14739735568
+true true C14746350630
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Tue Apr 26 11:15:33 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Wed Apr 27 11:05:27 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -53,7 +53,7 @@ Friends &. Family Sale Extra 30% Off\* With Your JCPenney Credit Card Or, Extra 
 
 Or, Extra 15% Off\* select watches, optical, portrait, electrics/electronics
 
-Starts Now! | Mother's Day is May 8 In Store and Online | April 24-26 | Code: FAMILY Print Coupon Shop Friends &. Family Sale View Store Ad   Exclusions and details:
+HELD OVER! | Mother's Day is May 8 Online Only | April 27 | Code: FAMILY Shop Friends &. Family Sale View Store Ad   Exclusions and details:
 
 \*Credit offers subject to credit approval.
 
@@ -69,11 +69,11 @@ Shop Fine Jewelry Up to 50% Off Home Sale
 
 Select styles
 
-Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and MattressesFriends and Family Sale Extra 30% Off\* With Your JCPenney Credit Card
+Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses Friends and Family Sale Extra 30% Off\* With Your JCPenney Credit Card
 
 Select styles | Code: FAMILY
 
-Shop Small Appliances Get Your Mother's Day Worth Mother's Day is May 8 Shop All Mother's Day Gifts Shop Gifts Under $25 Shop Gifts Under $50Gift Cards and E-Gift Cards | $10 Off $10 Coupon Spend $75 on gift cards or e-gift cards and get a $10 off $10 coupon.
+Shop Small Appliances Get Your Mother's Day Worth Mother's Day is May 8 Shop All Mother's Day Gifts Shop Gifts Under $25 Shop Gifts Under $50 Gift Cards and E-Gift Cards | $10 Off $10 Coupon Spend $75 on gift cards or e-gift cards and get a $10 off $10 coupon.
 
 Ends May 8.
 
