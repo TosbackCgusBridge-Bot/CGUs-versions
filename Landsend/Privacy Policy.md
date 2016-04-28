@@ -34,7 +34,7 @@
     *   Lands' End
     *   Lands' End
     
-    Back | Women CATEGORIES
+    CATEGORIES
     
     *   Swimsuits
     *   Knit Tops &. Tees
@@ -76,7 +76,7 @@
     *   Lands' End
     *   Lands' End
     
-    Back | Men CATEGORIES
+    CATEGORIES
     
     *   Dress Shirts
     *   Casual Shirts
@@ -118,7 +118,7 @@
     *   Lands' End
     *   Lands' End
     
-    Back | Kids Girls>.
+    Girls>.
     
     *   Swimsuits
     *   Tops
@@ -176,7 +176,7 @@
     *   Lands' End
     *   Lands' End
     
-    Back | Swim SHOP SWIM
+    SHOP SWIM
     
     *   Women
     *   Men
@@ -194,7 +194,7 @@
     *   Lands' End
     *   Lands' End
     
-    Back | Shoes SHOP SHOES
+    SHOP SHOES
     
     *   Women
     *   Men
@@ -212,7 +212,7 @@
     *   Lands' End
     *   Lands' End
     
-    Back | Home BEDDING >.
+    BEDDING >.
     
     *   Sheets &. Pillowcases
     *   Duvet Covers &. Comforters
@@ -239,7 +239,7 @@
     *   Lands' End
     *   Lands' End
     
-    Back | Uniforms Girls &. Women>.
+    Girls &. Women>.
     
     *   Tops
     *   Sweaters
@@ -288,7 +288,7 @@
     *   Lands' End
     *   Lands' End
     
-    Back | Sale SALE>.
+    SALE>.
     
     *   Women
     *   Men
@@ -781,7 +781,6 @@ sign up **Get exclusive Offers and News** Privacy Policy &. Contact Info Custome
 Company
 
 *   About Us
-*   Our Blog
 *   Careers
 *   Sustainability
 *   Investor Relations
