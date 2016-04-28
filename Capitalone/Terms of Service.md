@@ -26,7 +26,6 @@ Menu
         *   Bank Home
         *   Checking Accounts
         *   Savings Accounts
-        *   CD Accounts
         *   Online and Mobile Banking Tools
     *   Borrow Expand Borrow Menu Mortgages &. Home Equity
         
