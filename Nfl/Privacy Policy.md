@@ -221,6 +221,7 @@ Media Info
 Player Services
 
 *   NFL Health &. Safety
+*   NFL Legends Community
 *   NFL Player Care
 *   Player Engagement
 *   NFL Alumni Association
