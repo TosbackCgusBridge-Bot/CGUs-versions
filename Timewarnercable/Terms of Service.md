@@ -197,7 +197,7 @@ Contact Us
 *   Channel Feedback
 *   Investor Relations
 *   Careers
-*   Email Offers
+*   Email Preferences
 
 Other Sites
 
