@@ -50,7 +50,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   GetGreat.com
     
     Featured
-    *   Opening Week
+    *   #ASGWorthy
     *   16 Firsts
     *   Must C
     *   Chatting Cage
