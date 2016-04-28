@@ -55,8 +55,8 @@ My Bag (0) Wish List Search
     *   Email Updates
     *   Maintain Your Wish List
 *   Shipping/Handling
-    *   International Shipping
     *   Shipping Rates/Options
+    *   International Shipping
 *   Returns
     *   Return Policy
     *   How to Return
@@ -100,7 +100,7 @@ My Bag (0) Wish List Search
     *   Military Discounts
     *   Team Highlights
     *   Ratings &. Reviews
-    *   Get Fitted
+    *   Personal Shopping
     *   Store Locator
     *   Investor Information
     *   Vendor Compliance
@@ -111,6 +111,7 @@ My Bag (0) Wish List Search
     *   Corporate Profile
     *   Affiliate Program
     *   Music/Celebrity Sponsorship Requests
+    *   Get Fitted
 *   FAQs
 
 Privacy &. Security
