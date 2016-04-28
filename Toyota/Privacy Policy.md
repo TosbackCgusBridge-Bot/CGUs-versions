@@ -284,17 +284,13 @@ Compare Toyota vs. the Competition
 
 *   Toyota Corolla vs Honda Civic  
     
-*   Toyota RAV4 vs Honda CR-V  
-    
-*   Toyota Corolla vs Hyundai Elantra  
-    
-*   Toyota Corolla vs Ford Focus  
-    
 *   Toyota Camry vs Honda Accord  
     
-*   Toyota Prius vs Ford C-Max  
-    
 *   Toyota Tacoma vs Chevrolet Colorado  
+    
+*   Toyota Prius vs Chevrolet Volt  
+    
+*   Toyota RAV4 Hybrid vs Honda CR-V  
     
 
 Features
