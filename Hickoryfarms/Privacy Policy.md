@@ -107,9 +107,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gifts Over $90
 *   Specials
 
-Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
-
-Enter to win a gourmet basket for Mother's Day!
+Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Enter to win a gourmet basket for Mother's Day!
 
 1.  Home
 2.  Customer Service
@@ -163,9 +161,9 @@ My Account
 
 Guarantees
 
-*   100% Satisfaction
-*   Substitution Policy
 *   Security
+*   Substitution Policy
+*   100% Satisfaction
 
 Privacy
 
