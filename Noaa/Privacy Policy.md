@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms For 11th straight month, the globe was record warm AROUND NOAA // Severe weather likely Tuesday in Central and Southern Plains, see the latest alerts Dive virtually with the Okeanos Explorer in the Marianas Here are 5 successes to celebrate this Earth Day Explorers welcome here: Discover the new NOAA.gov
+Enter Search Terms For 11th straight month, the globe was record warm AROUND NOAA // Dive virtually with the Okeanos Explorer in the Marianas Here are 5 successes to celebrate this Earth Day Explorers welcome here: Discover the new NOAA.gov
 
 *   About our agency
 *   News and features
