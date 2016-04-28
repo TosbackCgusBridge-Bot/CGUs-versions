@@ -19,7 +19,7 @@ MENU **IS**
 
 **ES**
 
-*   Starting at $38,000\*
+*   Starting at $38,100\*
 *   268-hp 3.5L V6
 
 *   Build
@@ -27,7 +27,7 @@ MENU **IS**
 
 **ES HYBRID**
 
-*   Starting at $40,920\*
+*   Starting at $41,020\*
 *   40-MPG combined rating\*
 
 *   Build
@@ -141,14 +141,6 @@ COMPARE **RC**
 *   Build
 *   Current Offers
 
-**IS C**
-
-*   Starting at $43,360\*
-*   2.5L or 3.5L V6
-
-*   Build
-*   Current Offers
-
 SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **CT HYBRID**
@@ -177,7 +169,7 @@ COMPARE **CT HYBRID**
 
 **ES HYBRID**
 
-*   Starting at $40,920\*
+*   Starting at $41,020\*
 *   40-MPG COMBINED RATING\*
 
 *   Build
