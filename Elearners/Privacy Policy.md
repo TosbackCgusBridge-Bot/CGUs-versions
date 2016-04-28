@@ -34,7 +34,6 @@ Help Section
 *   About Us
 *   Learn more about the eLearners affiliate program
 *   Legal Notices
-*   Media Kit Request
 *   Privacy Policy
 *   CA Privacy Policy
 *   Terms of Use
