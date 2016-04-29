@@ -50,7 +50,6 @@ Aéropostale
     *   NEW ARRIVALS
     *   Spring Looks
     *   Headlining Now
-    *   Throwback Tees
     *   Uniform
     *   Online Only
     *   Extended Sizes
