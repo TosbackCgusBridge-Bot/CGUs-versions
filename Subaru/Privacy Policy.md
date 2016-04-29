@@ -20,7 +20,7 @@ To connect with Subaru of Hawaii, please click here
 *   Build Your Own
 *   Find a Retailer
 
-See All Vehicles Find Your Subaru See All Vehicles BRZ $25,395 starting price 2016 BRZ
+BRZ $25,395 starting price 2016 BRZ
 
 Starting at
 
@@ -156,11 +156,11 @@ Up to
 
 Outback 2.5i Limited shown
 
-Certified Pre-Owned Certified Pre-Owned
+All Vehicles Find Your Subaru All Vehicles Certified Pre-Owned Certified Pre-Owned
 
 Fully checked, factory-covered and ready for more adventures.
 
-Search Inventory   Compare
+Search Inventory   Future Vehicles Compare
 
 Compare Subaru models and other car manufacturers.
 
