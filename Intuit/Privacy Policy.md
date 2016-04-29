@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14746350630
+true true L14834119427
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Wed Apr 27 11:05:27 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p01.jcpenney.com SERVER NAME :->. dtcomexpr1l1j3 TIME :->. Thu Apr 28 11:15:35 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,43 +49,43 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Friends &. Family Sale Extra 30% Off\* With Your JCPenney Credit Card Or, Extra 25% Off\* With Any Other Form of Payment
+Super Saturday Sale In Store and Online
 
-Or, Extra 15% Off\* select watches, optical, portrait, electrics/electronics
+Mother's Day is May 8.
 
-HELD OVER! | Mother's Day is May 8 Online Only | April 27 | Code: FAMILY Shop Friends &. Family Sale View Store Ad   Exclusions and details:
+Shop Super Saturday Sale View Store Ad   Night and Day Doorbusters
 
-\*Credit offers subject to credit approval.
+Friday 3PM CDT through Saturday 1PM CDT
 
-Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Jewelry Shop Home Shop Handbags Liz Claiborne Sale 30 to 50% Off Liz Claiborne
+Shop Doorbusters Shop Women Shop Kids Shop Men Shop Curtains and Drapes Shop Bedding Shop Jewelry Shop Handbags Shop Shoes Hurry in Friday and Saturday morning for a $10, $20 or $100 Off\* Coupon Giveaway
+
+Limited time offer in store, 4/29 and 4/30. One coupon per customer. While supplies last. Exclusions apply.
+
+\*Get details 40% Off Dresses
+
+Select styles, orig. $40-$86
+
+Shop Dresses Mother's Day Jewelry Sale Up to 60% Off Fine Jewelry
 
 Select styles
 
-Shop Apparel   Shop Handbags and Wallets Shop Fashion Jewelry   Mother's Day Jewelry Sale Up to 60% Off Fine Jewelry
+Shop Fine Jewelry Liz Claiborne Sale 30 to 50% Off Liz Claiborne
 
 Select styles
 
-Shop Fine Jewelry Up to 50% Off Home Sale
+Shop Apparel   Shop Handbags and Wallets Shop Fashion Jewelry   Up to 50% Off Home Sale
 
 Select styles
 
-Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses Friends and Family Sale Extra 30% Off\* With Your JCPenney Credit Card
+Shop All Home Shop Comforters and Bedding Sets   Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses Sephora Shop New Beauty Arrivals Get Your Mother's Day Worth
 
-Select styles | Code: FAMILY
+Mother's Day is May 8
 
-Shop Small Appliances Get Your Mother's Day Worth Mother's Day is May 8 Shop All Mother's Day Gifts Shop Gifts Under $25 Shop Gifts Under $50 Gift Cards and E-Gift Cards | $10 Off $10 Coupon Spend $75 on gift cards or e-gift cards and get a $10 off $10 coupon.
+Shop Gifts 80% Off Final Markdowns
 
-Ends May 8.
+Plus! New Markdowns 50 to 70% Off
 
-Get details: Shop Gift Cards   SportsFanShop
-
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
-
-Shop SportsFanShop Write a Review For Your Chance to Win $1,000 Get Details: Sephora Shop New Beauty Arrivals JCP Salon
-
-Save on Salon Haircare Products
-
-Shop Now
+Shop Clearance Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
