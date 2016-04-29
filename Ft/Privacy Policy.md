@@ -25,15 +25,12 @@ Remember me on this computer Sign in
     *   Search
     *   Clippings
     *   Alerts hub
-    *   Terms and conditions
     *   Information for contributors
     *   Commenting
     *   Gift Article
     *   RSS
     *   Press Cuttings
     *   Social media Q&A
-    *   Back to FT.com
-    
 *   Newspaper 
     *   About the newspaper
     *   Subscription queries
