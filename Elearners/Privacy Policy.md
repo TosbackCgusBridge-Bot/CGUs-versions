@@ -194,7 +194,6 @@ About eLearners:
 
 *   About Us
 *   Affiliate Program
-*   Our Partners
 *   Site Map
 *   FAQ
 
