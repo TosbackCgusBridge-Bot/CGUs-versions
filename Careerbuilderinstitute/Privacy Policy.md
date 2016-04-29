@@ -7,7 +7,7 @@ Skip navigation Hello. Sign in to find your next job. For Employers
 *   Explore Careers
 *   Search Resources
 
-Search Find the right job. Right now. Search No Recent Searches Add your resume today. Upload your resume to be found by employers Add Your Resume Quick Links Resumes Cover Letters Saved &. Applied Jobs Saved Searches Profile Job Recommendations Popular job searches By Category
+Search Location Find the right job. Right now. Search Location No Recent Searches Add your resume today. Upload your resume to be found by employers Add Your Resume Quick Links Resumes Cover Letters Saved &. Applied Jobs Saved Searches Profile Job Recommendations Popular job searches By Category
 
 *   Sales
 *   Customer Service
