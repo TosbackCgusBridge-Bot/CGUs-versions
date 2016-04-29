@@ -32,7 +32,7 @@
 
 Privacy Policy Tealium Inc. Web Site Privacy Statement
 
-Privacy Statement Effective as of April 27, 2015
+Privacy Statement Effective as of April 28, 2016
 
 Tealium Inc. (“**Tealium**”) is committed to protecting the privacy of individuals who visit Tealium’s website (http://tealium.com) (“**Tealium Website**”) and individuals who use the Services as defined below. This Tealium Website Privacy Statement describes Tealium’s privacy practices in relation to the use of the Tealium Website and the related services offered by Tealium, which services are accessible via the Tealium Website (the “**Services**”). The Tealium Website may contain links to other websites. The privacy statements of such other websites govern the content and use of information of those websites. Tealium encourages you to review the privacy statements of such other websites to understand their information practices. Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it. Tealium will take all steps reasonably necessary to ensure that your information is treated securely and in accordance with this Tealium Website Privacy Statement.
 
@@ -150,7 +150,7 @@ It may be necessary for Tealium to disclose your Personal Information, either by
 
 To facilitate Tealium’s global operations, Tealium may transfer and access Customer Information from around the world, including the United States. This Privacy Statement shall apply even if Tealium transfers Customer Information to other countries.
 
-Wherever we transfer, store or process your Personal Information, we will take reasonable steps to safeguard the privacy of your Personal Information. When using or disclosing Personal Information transferred from the European Union, we abide by the Safe Harbor Principles as set forth by the U.S. Department of Commerce, adopt other means under European Union law for ensuring adequate safeguards, or obtain your consent. For European Site Visitors and Customers, your Personal Information may be transferred outside of the European Economic Area (“**EEA**”) in order to provide the information or Services you request from us. By visiting the Tealium Website or using the Services, you agree to Tealium transferring your Personal Information outside the EEA.
+Wherever we transfer, store or process your Personal Information, we will take reasonable steps to safeguard the privacy of your Personal Information. When using or disclosing Personal Information transferred from the European Union, we adopt appropriate measures under European Union law for ensuring adequate safeguards, or obtain your consent. For European Site Visitors and Customers, your Personal Information may be transferred outside of the European Economic Area (“**EEA**”) in order to provide the information or Services you request from us. By visiting the Tealium Website or using the Services, you agree to Tealium transferring your Personal Information outside the EEA.
 
 7\. Use of the Tealium Web Site by Children
 
