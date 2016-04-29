@@ -1,4 +1,4 @@
-Last Modified: June 13, 2013 - Effective Date: June 13, 2013
+Last Modified: June 13,2013 - Effective Date: June 13,2013
 
 AutoZone knows that you care how information about you is used and shared. As part of its commitment to customer service, AutoZone strives to make you feel safe and comfortable doing business with AutoZone. Here are some guidelines AutoZone follows to keep your personal information private. AutoZone reserves the right to modify this Privacy Policy at any time in our sole discretion without notice.
 
@@ -8,7 +8,7 @@ AutoZone may collect certain personally identifiable information, including but 
 
 The Web Site may use third party products and services to gather anonymous traffic statistics using cookies and web beacons. A cookie is a small piece of information stored with your browser that helps web sites and multiple servers recognize you. AutoZone and its third party service providers may also use pixels, or transparent GIF files, for web site management and user tracking.
 
-AutoZone transmits non-personally identifiable user information about visitors to the servers of reputable third parties for the purpose of targeting its internet banner advertisements on other sites. To do this, AutoZone uses web beacons in conjunction with cookie level data. To opt out of having non-personal information or cookies used to target ads to you by the party service providers, please Click Here.
+AutoZone transmits non-personally identifiable user information about visitors to the servers of reputable third parties for the purpose of targeting its internet banner advertisements on other sites. To do this, AutoZone uses web beacons in conjunction with cookie level data. To opt out of having non-personal information or cookies used to target ads to you by the party service providers, please  Click Here .
 
 Information Use
 
@@ -40,4 +40,4 @@ From time to time, AutoZone may modify this Privacy Policy. AutoZone will notify
 
 How to Contact Us
 
-If you have questions about this privacy statement, the practices of this site or your dealings with this site, please contact AutoZone via e-mail.
+If you have questions about this privacy statement, the practices of this site or your dealings with this site, please contact AutoZone via  e-mail.
