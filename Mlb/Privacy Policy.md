@@ -34,7 +34,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     
     In This Section
     
-    *   Watch / Listen
+    *   Watch MLB.TV
     *   Instant Replay
     *   Statcast
     *   MLB Network
@@ -75,8 +75,8 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Spring Training Standings
     *   2015 Regular Season Standings
 *   Schedule Schedule Schedule
-    *   2016 Spring Training
     *   2016 Regular Season
+    *   2016 Spring Training
     *   Important Dates
     *   Team-by-Team Schedule
     *   National Broadcasts
@@ -134,9 +134,8 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Jerseys
     *   PhotosCustom Shop MLB Auctions
 *   MLB.TV MLB.TV MLB.TV
+    *   Watch MLB.TV
     *   Buy MLB.TV
-    *   Buy Gameday Audio
-    *   Watch/Listen
     *   View MLB.TV Demo
     *   Alternative Audio
     *   MLB.TV Devices
