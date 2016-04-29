@@ -2,9 +2,9 @@
 *   Privacy Policy
 *   Legal Statement
 
-Terms &. Conditions
+Terms and Conditions
 
-Welcome to williams-sonoma.com ("Web Site")! We are part of "Williams-Sonoma, Inc." which includes Williams-Sonoma®, Pottery Barn®, pottery barn kids®, PBteen®, west elm®, Rejuvenation® and Mark and Graham®.
+Welcome to williams-sonoma.com/ ("Web Site")! We are part of "Williams-Sonoma, Inc." which includes Williams-Sonoma®, Pottery Barn®, pottery barn kids®, PBteen®, west elm®, Rejuvenation® and Mark and Graham®.
 
 Please take a few minutes to review these Terms and Conditions. These Terms and Conditions apply to your access and use of the Web Site and our mobile applications. Your use of our Web Site or our mobile application constitutes your agreement to follow these Terms and Conditions and to be bound by them.
 
@@ -24,35 +24,35 @@ Some of our stores offer certain in-store pick up options, including paid hold a
 
 User Comments
 
-We welcome your comments about our Web Site. However, any comments, feedback, notes, messages, ideas, suggestions or other communications (collectively “Comments”) sent to our Web Site shall be and remain the exclusive property of Williams-Sonoma, Inc.. Your submission of any such Comments shall constitute an assignment to Williams-Sonoma, Inc. of all worldwide rights, titles and interests in all copyrights and other intellectual property rights in the Comments. Williams-Sonoma, Inc. will be entitled to use, reproduce, disclose, publish and distribute any material you submit for any purpose whatsoever, without restriction and without compensating you in any way. For this reason, we ask that you not send us any comments that you do not wish to assign to us, including any confidential information or any original creative materials such as stories, product ideas, computer code or original artwork.
+We welcome your comments about our Web Site. However, any comments, feedback, notes, messages, ideas, suggestions or other communications (collectively "Comments") sent to our Web Site shall be and remain the exclusive property of Williams-Sonoma, Inc.. Your submission of any such Comments shall constitute an assignment to Williams-Sonoma, Inc. of all worldwide rights, titles and interests in all copyrights and other intellectual property rights in the Comments. Williams-Sonoma, Inc. will be entitled to use, reproduce, disclose, publish and distribute any material you submit for any purpose whatsoever, without restriction and without compensating you in any way. For this reason, we ask that you not send us any comments that you do not wish to assign to us, including any confidential information or any original creative materials such as stories, product ideas, computer code or original artwork.
 
 Acceptable Use
 
 You are responsible for your use of the Web Site and mobile applications, and for any use of the Web Site or mobile applications made using your account. Our goal is to create a positive, useful, and safe user experience. To promote this goal, we prohibit certain kinds of conduct that may be harmful to other users or to us. When you use the Web Site or mobile applications, you may not:
 
-*   violate any law or regulation.
-*   violate, infringe, or misappropriate other people’s intellectual property, privacy, publicity, or other legal rights;
-*   post or share anything that is illegal, abusive, harassing, harmful to reputation, pornographic, indecent, profane, obscene, hateful, racist, or otherwise objectionable;
-*   send unsolicited or unauthorized advertising or commercial communications, such as spam;
-*   engage in spidering or harvesting, or participate in the use of software, including spyware, designed to collect data from the Web Site or mobile applications;
-*   transmit any viruses or other computer instructions or technological means whose purpose is to disrupt, damage, or interfere with the use of computers or related systems;
-*   stalk, harass, or harm another individual;
-*   impersonate any person or entity or perform any other similar fraudulent activity, such as phishing;
-*   use any means to scrape or crawl any Web pages contained in the Web Site;
-*   attempt to circumvent any technological measure implemented by us or any of our providers or any other third party (including another user) to protect the Web Site or mobile applications;
-*   attempt to decipher, decompile, disassemble, or reverse engineer any of the software or other underlying code used to provide the Web Site or mobile applications. or
-*   advocate, encourage, or assist any third party in doing any of the foregoing.
+*   • violate any law or regulation;
+*   • violate, infringe, or misappropriate other people's intellectual property, privacy, publicity, or other legal rights;
+*   • post or share anything that is illegal, abusive, harassing, harmful to reputation, pornographic, indecent, profane, obscene, hateful, racist, or otherwise objectionable;
+*   • send unsolicited or unauthorized advertising or commercial communications, such as spam;
+*   • engage in spidering or harvesting, or participate in the use of software, including spyware, designed to collect data from the Web Site or mobile applications;
+*   • transmit any viruses or other computer instructions or technological means whose purpose is to disrupt, damage, or interfere with the use of computers or related systems;
+*   • stalk, harass, or harm another individual;
+*   • impersonate any person or entity or perform any other similar fraudulent activity, such as phishing;
+*   • use any means to scrape or crawl any Web pages contained in the Web Site;
+*   • attempt to circumvent any technological measure implemented by us or any of our providers or any other third party (including another user) to protect the Web Site or mobile applications;
+*   • attempt to decipher, decompile, disassemble, or reverse engineer any of the software or other underlying code used to provide the Web Site or mobile applications. or
+*   • advocate, encourage, or assist any third party in doing any of the foregoing.
 
 User Content
 
-The Web Site allows you to upload, submit, store, send, or receive content and data (“User Content”). You retain ownership of any intellectual property rights that you hold in that User Content.
+The Web Site allows you to upload, submit, store, send, or receive content and data ("User Content"). You retain ownership of any intellectual property rights that you hold in that User Content.
 
 When you upload, submit, send, or receive User Content to or through the Web Site, you give us permission to reproduce and use your User Content as follows: you grant to us and those we work with a license to use, host, store, reproduce, modify, create derivative works (such as translations, adaptations, or other changes we make so that User Content works better with the Web Site), publicly perform, publicly display, and distribute your User Content. This license is for the purpose of operating and improving the Web Site, to develop new products and services, and for other Williams-Sonoma, Inc. marketing purposes, including without limitation in catalogs, email and other customer communications, store materials and other marketing. We may display advertisements in connection with your User Content or on pages where your User Content may be viewed by you or others, and we may use your User Content to advertise and promote Williams-Sonoma, Inc. or the Web Site.. Our license to your User Content is non-exclusive, meaning you may use the User Content for your own purposes or let others use your User Content for their purposes. This license is fully-paid and royalty free, meaning we do not owe you anything else in connection with our use of your User Content. We may exercise our rights under this license anywhere in the world. Lastly, this license is perpetual, meaning that our rights under this license continue even after you stop using the Web Site.
 
 You promise that:
 
-*   you own all rights to your User Content or, alternatively, that you have the right to give us the rights described above. and
-*   your User Content does not infringe the intellectual property rights, privacy rights, publicity rights, or other legal rights of any third party.
+*   • you own all rights to your User Content or, alternatively, that you have the right to give us the rights described above. and
+*   • your User Content does not infringe the intellectual property rights, privacy rights, publicity rights, or other legal rights of any third party.
 
 We may refuse to accept or transmit User Content for any reason. We may remove User Content from the Web Site for any reason.
 
@@ -60,12 +60,12 @@ Copyright Policy
 
 We respond to notices of alleged copyright infringement and terminate accounts of repeat infringers according to the process set out in the U.S. Digital Millennium Copyright Act. If you believe that your work has been copied in a way that constitutes copyright infringement, please forward the following information to the Copyright Agent named below:
 
-*   Your address, telephone number, and email address.
-*   A description of the copyrighted work that you claim has been infringed.
-*   A description of where the alleged infringing material is located.
-*   A statement by you that you have a good faith belief that the disputed use is not authorized by you, the copyright owner, its agent, or the law.
-*   An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest.
-*   A statement by you, made under penalty of perjury, that the above information is accurate and that you are the copyright owner or authorized to act on behalf of the copyright owner.
+*   • Your address, telephone number, and email address.
+*   • A description of the copyrighted work that you claim has been infringed.
+*   • A description of where the alleged infringing material is located.
+*   • A statement by you that you have a good faith belief that the disputed use is not authorized by you, the copyright owner, its agent, or the law.
+*   • An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest.
+*   • A statement by you, made under penalty of perjury, that the above information is accurate and that you are the copyright owner or authorized to act on behalf of the copyright owner.
 
 Copyright Agent:
 
@@ -79,10 +79,10 @@ For clarity, only copyright infringement notices should go to our Copyright Agen
 
 If you believe the content that was removed (or to which access was disabled) is not infringing, or that you have the authorization from the copyright owner, the copyright owner's agent, or pursuant to the law, to post and use such content, you may submit a counter-notice to the address listed above containing the following information:
 
-*   Your physical or electronic signature;
-*   Identification of the content that has been removed or to which access has been disabled and the location at which the content appeared before it was removed or disabled;
-*   A statement that you have a good faith belief that the content was removed or disabled as a result of mistake or a misidentification of the content. and
-*   Your name, physical address, telephone number, and e-mail address, a statement that you consent to the jurisdiction of the federal court in San Francisco, California, and a statement that you will accept service of process from the person who provided notification of the alleged infringement.
+*   • Your physical or electronic signature;
+*   • Identification of the content that has been removed or to which access has been disabled and the location at which the content appeared before it was removed or disabled;
+*   • A statement that you have a good faith belief that the content was removed or disabled as a result of mistake or a misidentification of the content. and
+*   • Your name, physical address, telephone number, and e-mail address, a statement that you consent to the jurisdiction of the federal court in San Francisco, California, and a statement that you will accept service of process from the person who provided notification of the alleged infringement.
 
 After we receive your counter-notification, we will forward it to the party who submitted the original claim of copyright infringement. Please note that when we forward the counter-notification, it includes your personal information. By submitting a counter-notification, you consent to having your information revealed in this way. We will not forward the counter-notification to any party other than the original claimant.
 
@@ -94,9 +94,9 @@ To the extent our Web Site contains hyperlinks to outside services and resources
 
 Disclaimer
 
-THIS WEB SITE AND OUR MOBILE APPLICATIONS, AND ALL CONTENT AVAILABLE ON THIS WEB SITE, OUR MOBILE APPLICATIONS, OR BOTH, ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WITHOUT LIMITATION WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE OR THOSE ARISING OUT OF A COURSE OF DEALING OR USAGE OF TRADE, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOU ACKNOWLEDGE AND AGREE, BY YOUR USE OF THIS WEB SITE OR OUR MOBILE APPLICATIONS, AS APPLICABLE, THAT YOUR USE IS AT YOUR SOLE RISK, THAT YOU ASSUME FULL RESPONSIBILITY FOR ALL COSTS ASSOCIATED WITH ALL NECESSARY SERVICING OR REPAIRS OF ANY EQUIPMENT YOU USE IN CONNECTION WITH YOUR USE, AND THAT WILLIAMS-SONOMA, INC. AND ITS OFFICERS, EMPLOYEES, DIRECTORS, SHAREHOLDERS, PARENTS, SUBSIDIARIES, AFFILIATES, AGENTS, AND LICENSORS (“AFFILIATES”) SHALL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND RELATED TO YOUR USE OF THIS WEB SITE OR OUR MOBILE APPLICATIONS.
+THIS WEB SITE AND OUR MOBILE APPLICATIONS, AND ALL CONTENT AVAILABLE ON THIS WEB SITE, OUR MOBILE APPLICATIONS, OR BOTH, ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WITHOUT LIMITATION WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE OR THOSE ARISING OUT OF A COURSE OF DEALING OR USAGE OF TRADE, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOU ACKNOWLEDGE AND AGREE, BY YOUR USE OF THIS WEB SITE OR OUR MOBILE APPLICATIONS, AS APPLICABLE, THAT YOUR USE IS AT YOUR SOLE RISK, THAT YOU ASSUME FULL RESPONSIBILITY FOR ALL COSTS ASSOCIATED WITH ALL NECESSARY SERVICING OR REPAIRS OF ANY EQUIPMENT YOU USE IN CONNECTION WITH YOUR USE, AND THAT WILLIAMS-SONOMA, INC. AND ITS OFFICERS, EMPLOYEES, DIRECTORS, SHAREHOLDERS, PARENTS, SUBSIDIARIES, AFFILIATES, AGENTS, AND LICENSORS ("AFFILIATES") SHALL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND RELATED TO YOUR USE OF THIS WEB SITE OR OUR MOBILE APPLICATIONS.
 
-IN PARTICULAR AND TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, WILLIAMS-SONOMA, INC. AND ITS AFFILIATES MAKE NO REPRESENTATIONS OR WARRANTIES ABOUT THE ACCURACY OR COMPLETENESS OF CONTENT AVAILABLE ON OR THROUGH THE WEB SITE OR MOBILE APPLICATIONS, OR THE CONTENT OF ANY WEBSITES OR ONLINE SERVICES LINKED TO OR INTEGRATED WITH THE WEB SITE OR MOBILE APPLICATIONS. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, WILLIAMS-SONOMA, INC. AND ITS AFFILIATES WILL HAVE NO LIABILITY FOR ANY: (A) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT. (B) PERSONAL INJURY OR PROPERTY DAMAGE RESULTING FROM YOUR ACCESS TO OR USE OF THE WEB SITE OR MOBILE APPLICATIONS. (C) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SERVERS OR OF ANY PERSONAL INFORMATION OR USER DATA. (D) ANY INTERRUPTION OF TRANSMISSION TO OR FROM THE WEB SITE OR MOBILE APPLICATIONS. (E) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED ON OR THROUGH THE WEB SITE OR MOBILE APPLICATIONS BY ANY THIRD PARTY. OR (F) ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED OR SHARED THROUGH THE WEB SITE OR MOBILE APPLICATIONS.
+IN PARTICULAR AND TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, WILLIAMS-SONOMA, INC. AND ITS AFFILIATES MAKE NO REPRESENTATIONS OR WARRANTIES ABOUT THE ACCURACY OR COMPLETENESS OF CONTENT AVAILABLE ON OR THROUGH THE WEB SITE OR MOBILE APPLICATIONS, OR THE CONTENT OF ANY WEBSITES OR ONLINE SERVICES LINKED TO OR INTEGRATED WITH THE WEB SITE OR MOBILE APPLICATIONS. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, WILLIAMS-SONOMA, INC. AND ITS AFFILIATES WILL HAVE NO LIABILITY FOR ANY: (A) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT. (b) PERSONAL INJURY OR PROPERTY DAMAGE RESULTING FROM YOUR ACCESS TO OR USE OF THE WEB SITE OR MOBILE APPLICATIONS. (c) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SERVERS OR OF ANY PERSONAL INFORMATION OR USER DATA. (d) ANY INTERRUPTION OF TRANSMISSION TO OR FROM THE WEB SITE OR MOBILE APPLICATIONS. (e) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED ON OR THROUGH THE WEB SITE OR MOBILE APPLICATIONS BY ANY THIRD PARTY. OR (f) ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED OR SHARED THROUGH THE WEB SITE OR MOBILE APPLICATIONS.
 
 TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL WILLIAMS-SONOMA, INC. OR ITS AFFILIATES BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES (INCLUDING FOR THE INDIRECT LOSS OF PROFIT, REVENUE, OR DATA) ARISING OUT OF OR RELATING TO THE WEB SITE OR MOBILE APPLICATIONS, HOWEVER CAUSED, AND UNDER WHATEVER CAUSE OF ACTION OR THEORY OF LIABILITY BROUGHT (INCLUDING UNDER ANY CONTRACT, NEGLIGENCE, OR OTHER TORT THEORY OF LIABILITY) EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
@@ -106,11 +106,11 @@ Product Pricing Information
 
 The prices displayed on our Web Site may differ from prices that are available in stores or in catalogs, and our pricing may differ from store to store. If you are in the U.S. or Canada, Web Site prices will be displayed in U.S. Dollars. Elsewhere, Web Site prices will generally be displayed in the local currency. The prices displayed in our printed catalogs are quoted in U.S. Dollars and are valid and effective only in the U.S.
 
-For full-price products, “Suggested Price” or “Sugg. Price” refers to the manufacturers’ suggested retail price. “Our Price” refers to the everyday value price we offer to our customers. For sale products (identified by pricing in red), “Suggested Price” or “Sugg. Price” refers to the most recent selling price. “Sale” refers to the reduced price we are offering to our customers.
+For full-price products, "Suggested Price" or "Sugg. Price" refers to the manufacturers' suggested retail price. "Our Price" refers to the everyday value price we offer to our customers. For sale products (identified by pricing in red), "Suggested Price" or "Sugg. Price" refers to the most recent selling price. "Sale" refers to the reduced price we are offering to our customers.
 
 Special Offers
 
-Occasionally we will offer special promotions to our customers that we refer to as “special offers” or “special offer”. This can include a gift with purchase, free shipping, manufacturer offers, or other promotional activity associated with a product purchase. These offers may be for a limited time only.
+Occasionally we will offer special promotions to our customers that we refer to as "special offers" or "special offer". This can include a gift with purchase, free shipping, manufacturer offers, or other promotional activity associated with a product purchase. These offers may be for a limited time only.
 
 Inaccuracy Disclaimer
 
@@ -118,19 +118,19 @@ From time to time there may be information on our Web Site or in our catalog tha
 
 Indemnification
 
-To the fullest extent permitted by applicable law, you agree to indemnify and hold harmless Williams-Sonoma, Inc. and its Affiliates from and against any and all claims, costs, proceedings, demands, losses, damages, and expenses (including, without limitation, reasonable attorney’s fees and legal costs) of any kind or nature, arising from or relating to, any actual or alleged breach of these Terms and Conditions by you or anyone using your account. If we assume the defense of such a matter, you will reasonably cooperate with us in such defense.
+To the fullest extent permitted by applicable law, you agree to indemnify and hold harmless Williams-Sonoma, Inc. and its Affiliates from and against any and all claims, costs, proceedings, demands, losses, damages, and expenses (including, without limitation, reasonable attorney's fees and legal costs) of any kind or nature, arising from or relating to, any actual or alleged breach of these Terms and Conditions by you or anyone using your account. If we assume the defense of such a matter, you will reasonably cooperate with us in such defense.
 
 Arbitration Agreement &. Waiver of Certain Rights
 
-You and Williams-Sonoma, Inc. agree that we will resolve any disputes between us through binding and final arbitration instead of through court proceedings. You and Williams-Sonoma, Inc. hereby waive any right to a jury trial of any Claim. All controversies, claims, counterclaims, or other disputes arising between you and Williams-Sonoma, Inc. relating to these Terms and Conditions or the Web Site or our mobile applications (each a “Claim”) shall be submitted for binding arbitration in accordance with the Rules of the American Arbitration Association (“AAA Rules”). The arbitration will be heard and determined by a single arbitrator. The arbitrator's decision in any such arbitration will be final and binding upon the parties and may be enforced in any court of competent jurisdiction. The parties agree that the arbitration will be kept confidential and that the existence of the proceeding and any element of it (including, without limitation, any pleadings, briefs or other documents submitted or exchanged and any testimony or other oral submissions and awards) will not be disclosed beyond the arbitration proceedings, except as may lawfully be required in judicial proceedings relating to the arbitration or by applicable disclosure rules and regulations of securities regulatory authorities or other governmental agencies.
+You and Williams-Sonoma, Inc. agree that we will resolve any disputes between us through binding and final arbitration instead of through court proceedings. You and Williams-Sonoma, Inc. hereby waive any right to a jury trial of any Claim. All controversies, claims, counterclaims, or other disputes arising between you and Williams-Sonoma, Inc. relating to these Terms and Conditions or the Web Site or our mobile applications (each a "Claim") shall be submitted for binding arbitration in accordance with the Rules of the American Arbitration Association ("AAA Rules"). The arbitration will be heard and determined by a single arbitrator. The arbitrator's decision in any such arbitration will be final and binding upon the parties and may be enforced in any court of competent jurisdiction. The parties agree that the arbitration will be kept confidential and that the existence of the proceeding and any element of it (including, without limitation, any pleadings, briefs or other documents submitted or exchanged and any testimony or other oral submissions and awards) will not be disclosed beyond the arbitration proceedings, except as may lawfully be required in judicial proceedings relating to the arbitration or by applicable disclosure rules and regulations of securities regulatory authorities or other governmental agencies.
 
 If you demonstrate that the costs of arbitration will be prohibitive as compared to the costs of litigation, Williams-Sonoma, Inc. will pay as much of the administrative costs and arbitrator's fees required for the arbitration as the arbitrator deems necessary to prevent the cost of the arbitration from being prohibitive. In the final award, the arbitrator may apportion the costs of arbitration and the compensation of the arbitrator among the parties in such amounts as the arbitrator deems appropriate.
 
 This arbitration agreement does not preclude you or Williams-Sonoma, Inc. from seeking action by federal, state, or local government agencies. You and Williams-Sonoma, Inc. also have the right to bring qualifying claims in small claims court. In addition, you and Williams-Sonoma, Inc. retain the right to apply to any court of competent jurisdiction for provisional relief, including pre-arbitral attachments or preliminary injunctions, and any such request shall not be deemed incompatible with these Terms and Conditions, nor a waiver of the right to have disputes submitted to arbitration as provided in these Terms and Conditions.
 
-Neither you nor Williams-Sonoma, Inc. may act as a class representative or private attorney general, nor participate as a member of a class of claimants, with respect to any Claim. Claims may not be arbitrated on a class or representative basis. The arbitrator can decide only your and/or Williams-Sonoma, Inc.’s individual Claims. The arbitrator may not consolidate or join the claims of other persons or parties who may be similarly situated.
+Neither you nor Williams-Sonoma, Inc. may act as a class representative or private attorney general, nor participate as a member of a class of claimants, with respect to any Claim. Claims may not be arbitrated on a class or representative basis. The arbitrator can decide only your and/or Williams-Sonoma, Inc.'s individual Claims. The arbitrator may not consolidate or join the claims of other persons or parties who may be similarly situated.
 
-If any provision of this Section is found to be invalid or unenforceable, then that specific provision shall be of no force and effect and shall be severed, but the remainder of this Section shall continue in full force and effect. No waiver of any provision of this Section of the Terms and Conditions will be effective or enforceable unless recorded in a writing signed by the party waiving such a right or requirement. Such a waiver shall not waive or affect any other portion of this Terms and Conditions. This Section of the Terms and Conditions will survive the termination of your relationship with Williams-Sonoma, Inc..
+If any provision of this Section is found to be invalid or unenforceable, then that specific provision shall be of no force and effect and shall be severed, but the remainder of this Section shall continue in full force and effect. No waiver of any provision of this Section of the Terms and Conditions will be effective or enforceable unless recorded in a writing signed by the party waiving such a right or requirement. Such a waiver shall not waive or affect any other portion of this Terms and Conditions. This Section of the Terms and Conditions will survive the termination of your relationship with Williams-Sonoma, Inc.
 
 THIS SECTION LIMITS CERTAIN RIGHTS, INCLUDING THE RIGHT TO MAINTAIN A COURT ACTION, THE RIGHT TO A JURY TRIAL, THE RIGHT TO PARTICIPATE IN ANY FORM OF CLASS OR REPRESENTATIVE CLAIM, THE RIGHT TO ENGAGE IN DISCOVERY EXCEPT AS PROVIDED IN AAA RULES, AND THE RIGHT TO CERTAIN REMEDIES AND FORMS OF RELIEF. OTHER RIGHTS THAT YOU OR WILLIAMS-SONOMA, INC. WOULD HAVE IN COURT ALSO MAY NOT BE AVAILABLE IN ARBITRATION.
 
@@ -150,11 +150,9 @@ We may assign our rights and obligations under these Terms and Conditions, inclu
 
 Last Updated: March 2016
 
-Back to Top
-
 Privacy Policy
 
-We are part of the Williams-Sonoma, Inc. Brands which includes Williams-Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, Rejuvenation and Mark and Graham. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase contact information means any information by which you can be contacted or personally identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. This Privacy Policy applies to information we collect about you in our stores and through our websites and mobile applications. By using any of our web sites, mobile applications, or sharing your contact information with us, you are accepting and consenting to the practices described in this Privacy Policy.
+We are part of the Williams-Sonoma, Inc. Brands which includes Williams-Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, Rejuvenation and Mark and Graham. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase "contact information" means any information by which you can be contacted or personally identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. This Privacy Policy applies to information we collect about you in our stores and through our websites and mobile applications. By using any of our web sites, mobile applications, or sharing your contact information with us, you are accepting and consenting to the practices described in this Privacy Policy.
 
 As a part of our commitment to your privacy, Williams-Sonoma, Inc. Brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association's Privacy Promise to American Consumers. We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale, or exchange with other marketers. (2) honor customers' requests not to share their contact information with other marketers. and (3) honor customers' requests not to receive mail, telephone, or other solicitations from Williams-Sonoma, Inc. Brands.
 
@@ -172,12 +170,12 @@ Using Information About You
 
 We use your contact information for analytical and marketing purposes, such as:
 
-*   confirming and tracking your order, subscription, or registration;
-*   analyzing preferences, trends, and statistics;
-*   informing you of our new products, services, and offers. and
-*   providing you with other information from and about Williams-Sonoma, Inc. Brands.
+*   • confirming and tracking your order, subscription, or registration;
+*   • analyzing preferences, trends, and statistics;
+*   • informing you of our new products, services, and offers. and
+*   • providing you with other information from and about Williams-Sonoma, Inc. Brands.
 
-We contact you only in ways compatible with the your communications choices. To the extent necessary for such purposes, we take reasonable steps to make sure that your contact information is accurate, complete, current, and otherwise reliable.
+We contact you only in ways compatible with your communications choices. To the extent necessary for such purposes, we take reasonable steps to make sure that your contact information is accurate, complete, current, and otherwise reliable.
 
 From time to time we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy policies are consistent with ours. These are known as our Select Partners. In such cases we might rent, exchange, share and/or cross-reference information, including contact information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you.
 
@@ -195,17 +193,13 @@ Opting Out Of Marketing And Transfers. Updating and Deleting Information About Y
 
 We want to communicate with you only if you want to hear from us. If you prefer not to receive direct marketing from us or from our Select Partners, or if you would like to opt out of our rental or exchange of your information with other marketers, please let us know. In the U.S., you can call us at 800.541.1262 or send us an email. Outside of the U.S., you can call us at 405.717.6139 or send us an email. Please be sure to include your full name, email address, mailing address, and specifically what information you do not want to receive. If you would like to update or correct your email address, mailing address or other contact information with us please contact us the same way. If you like, you may use one of the following statements in your message to us:
 
-*   I prefer not to receive email advertisements, such as updates regarding products and services, special promotions  
-    or upcoming events.
-*   I prefer not to receive direct mail advertisements, such as periodic catalogs and mailings regarding products and  
-    services, special promotions or upcoming events.
-*   I prefer not to have my contact information provided to third parties for their marketing purposes.
+*   • I prefer not to receive email advertisements, such as updates regarding products and services, special promotions or upcoming events.
+*   • I prefer not to receive direct mail advertisements, such as periodic catalogs and mailings regarding products and services, special promotions or upcoming events.
+*   • I prefer not to have my contact information provided to third parties for their marketing purposes.
 
 You may also click the designated link at the bottom of all email advertisements to be removed from future email updates.
 
-Please note that any requests to remove or update your contact information may take up to five days for your email request and 6-8 weeks to process your postal mail request.
-
-Back to Top
+Please note that any requests to remove or update your contact information may take up to five days for your email request and 6–8 weeks to process your postal mail request.
 
 International Customer Privacy
 
@@ -227,8 +221,6 @@ When you visit our web sites, we send one or more cookies to your computer or ot
 
 Certain of our Service Providers may use cookies and collect information on our behalf. They are prohibited by our contract with them from sharing that information with anyone other than us or our other Service Providers. However, we respect your right to choose whether to be included in such services. You may opt out of certain of these services by clicking here. In addition, we or certain of our Service Providers, in connection with the services that they provide to us, may work with third parties who may use cookies to collect information to tailor advertising for you and others elsewhere on the Internet and on our web sites, and to assist in reminding us of who you are. If you would like to opt out of accepting cookies altogether, you can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. However, certain features of our web sites or other services may not work if you delete or disable cookies.
 
-Back to Top
-
 Security
 
 We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of information transmitted to us. To guard your information delivered to us electronically, our web sites use Secure Sockets Layer (SSL). SSL encrypts your credit card number, name and address so only we are able to decode your information. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your contact information, to the extent permitted by law, we do not guarantee or warrant the security of any information you transmit to or from our web sites, and you do so at your own risk.
@@ -243,8 +235,6 @@ Children under the age of 13 should always ask their parents or guardians for pe
 
 California users under the age of 18 may request the removal of their content or information publically posted on web sites or mobile applications by sending us an email. Please note that most of the user content that appears on our Site or Services is stored and controlled by third party providers. thus, complete and comprehensive removal of the content may not be possible.
 
-Back to Top
-
 Links to Third Party Web Sites
 
 Our web sites may contain links to web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked web sites may be different from our privacy policy. You access such linked web sites at your own risk. You should always read the privacy policy of a linked web site before disclosing any of your information on such web site.
@@ -258,8 +248,6 @@ Your Feedback
 To help us improve our privacy policy and practice, please give us your feedback. In the U.S., you can call us at 800.541.1262 or send us an email. Outside of the U.S., you can call us at 405.717.6139 or send us an email.
 
 Effective Date: June 11, 2015
-
-Back to Top
 
 Legal Statement
 
