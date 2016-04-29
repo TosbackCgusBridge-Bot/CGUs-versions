@@ -133,8 +133,8 @@ Menu Explore HSBC.com Search
         
     *   Application hints and tips
         
-    *   Careers events
-        
+    *   Careers events expandCareers events
+        *   HSBC Women in Finance Event
     *   Students and graduates expandStudents and graduates
         *   View programmes
         *   Programmes in Commercial Banking
