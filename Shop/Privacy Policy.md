@@ -19,7 +19,7 @@ LENOVO Menu
         6.  Clearance PCs
     *   SALE Great deals on select PCs and accessories.
         
-        Sale ends April 27.
+        Sale ends May 4.
         
     *   Clearance Sale Get these deals before they’re gone.
         
