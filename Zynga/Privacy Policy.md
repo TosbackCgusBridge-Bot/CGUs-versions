@@ -1,7 +1,6 @@
 Navigation
 
 *   GAMES
-    *   CastleVille Legends
     *   Chess With Friends
     *   Crazy Cake Swap
     *   Crazy Kitchen
@@ -20,6 +19,7 @@ Navigation
     *   NFL Showdown
     *   Princess Bride Slots
     *   Speed Guess Something
+    *   Spin It Rich
     *   What's The Phrase
     *   Willy Wonka Slots
     *   Wizard of Oz Slots
