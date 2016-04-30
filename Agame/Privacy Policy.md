@@ -5,6 +5,7 @@ Explore Games
     *   Social Games
     *   2 player
     *   Casino Games
+    *   MMO &. Strategy
 *   Action
     *   Arena Fighting
     *   Anime and Manga Games
@@ -64,6 +65,7 @@ Explore Games
     *   Social Games
     *   2 player
     *   Casino Games
+    *   MMO &. Strategy
     
     Browse By
     
