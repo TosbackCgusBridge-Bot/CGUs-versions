@@ -304,6 +304,7 @@ Menu
         *   Our locations
         *   Meet our apprentices
         *   Application and assessment
+    *   Consortium Orientation Program
     
     *   Search jobs and apply
         
@@ -431,6 +432,7 @@ Menu
     *   Trials in people
         *   Trials in people
         *   Clinical trial phases
+        *   COPD clinical trials in the US
         *   Become a clinical research volunteer
     *   Our use of animals
         *   Our use of animals
