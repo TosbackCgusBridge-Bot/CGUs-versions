@@ -30,23 +30,26 @@ Creative inspiration for the home. Products that make life easier: problem-solve
 *   Best of Blair
 *   Clearance
 
-Font Size: A A A Customer Service>. Privacy and Security Untitled Document
+Font Size: A A A Customer Service>. Privacy and Security
 
-**Privacy Policy**  
-**Please Note This Policy Has Changed**  
+**Privacy Policy**
+
+**Please Note This Policy Has Changed**
+
 **BLAIR.COM  
-Online Privacy Policy**  
+Online Privacy Policy**
+
 **Effective Date: May 1, 2016**
 
 Welcome to Blair.com (this "Site").
 
-Blair (“we,” “us,” “our,” and “Blair”) cares about your privacy. We value your trust and will work hard to earn and keep it.
+Blair ("we," "us," "our," and "Blair") cares about your privacy. We value your trust and will work hard to earn and keep it.
 
 **Scope of This Privacy Policy**  
-This Online Privacy Policy (this “Privacy Policy”) covers all of the “personal information” we collect through this Site.
+This Online Privacy Policy (this "Privacy Policy") covers all of the "personal information" we collect through this Site.
 
 **What is Personal Information?**  
-“Personal Information” is information that identifies you personally, either alone or in combination with other information available to us. Examples of personal information include your name, address, email address, credit card information, and the information you provide when you make a purchase.
+"Personal Information" is information that identifies you personally, either alone or in combination with other information available to us. Examples of personal information include your name, address, email address, credit card information, and the information you provide when you make a purchase.
 
 **Your Consent**  
 PLEASE READ THIS PRIVACY POLICY. BY ACCESSING OR USING THIS SITE YOU ARE CONSENTING TO THE COLLECTION, USE AND DISCLOSURE OF YOUR PERSONAL INFORMATION AS SET FORTH IN THIS PRIVACY POLICY.
@@ -54,18 +57,18 @@ PLEASE READ THIS PRIVACY POLICY. BY ACCESSING OR USING THIS SITE YOU ARE CONSENT
 If you do not consent to the collection, use and disclosure of your personal information as set forth in this Privacy Policy, please do not use this Site.
 
 **This Privacy Policy is Part of Our Terms of Use**  
-This Privacy Policy is incorporated by reference and is part of the Blair Terms of Use (“Terms of Use”) governing your use of this Site. Our Terms of Use contain the terms on which you may purchase products and services through this Site. Please read our Terms of Use, if you have not already done so. You may access the current version of the Terms of Use at any time by clicking on the link marked “Terms of Use” at the bottom of each page of this Site.
+This Privacy Policy is incorporated by reference and is part of the Blair Terms of Use ("Terms of Use") governing your use of this Site. Our Terms of Use contain the terms on which you may purchase products and services through this Site. Please read our Terms of Use, if you have not already done so. You may access the current version of the Terms of Use at any time by clicking on the link marked "Terms of Use" at the bottom of each page of this Site.
 
 **This Privacy Policy May Change**  
 We reserve the right to update or modify this Privacy Policy, at any time and without prior notice, by posting the revised version of this Privacy Policy on this Site. These changes will only apply to personal information we collect after we have posted the revised Privacy Policy. Your use of this Site following any such change constitutes your agreement that all personal information collected from or about you through this Site after the revised Privacy Policy is posted will be subject to the terms of the revised Privacy Policy. For this reason, it is important to review this Privacy Policy regularly. If we modify this Privacy Policy, we will provide a notice at the top of this Privacy Policy for at least 30 days after the new effective date.
 
-You may access the current version of this Privacy Policy at any time by clicking on the link marked “Privacy Policy” at the bottom of each page of this Site. For your convenience, we post the effective date of this Privacy Policy at the top of this page, so that you can see whether this Privacy Policy has changed since your last visit.
+You may access the current version of this Privacy Policy at any time by clicking on the link marked "Privacy Policy" at the bottom of each page of this Site. For your convenience, we post the effective date of this Privacy Policy at the top of this page, so that you can see whether this Privacy Policy has changed since your last visit.
 
 **Privacy Notices**  
-This Privacy Policy may be supplemented or amended from time to time by “privacy notices” posted on this Site. Generally, privacy notices provide details about the personal information we collect on particular pages or particular areas of this Site, why we need that information, and choices you may have about the ways we use that information. Our privacy notices are part of this Privacy Policy.
+This Privacy Policy may be supplemented or amended from time to time by "privacy notices" posted on this Site. Generally, privacy notices provide details about the personal information we collect on particular pages or particular areas of this Site, why we need that information, and choices you may have about the ways we use that information. Our privacy notices are part of this Privacy Policy.
 
 **Agreements Governing Specific Features and Password-Protected Areas of This Site**  
-This Privacy Policy may be supplemented or amended by special terms and conditions governing specific features or password-protected areas of this Site. When you sign up to use a special feature or password-protected area, you may be asked to agree to special terms governing your use of the special feature or password-protected area. In such cases, you will be asked to expressly consent to the special terms, for example, by checking a box or clicking on a button marked “I agree.” This type of agreement is known as a “click-through” agreement. If any of the terms of the click-through agreement are different than the terms of this Privacy Policy, the terms of the click-through agreement will supplement or amend this Privacy Policy, but only with respect to the matters governed by the “click-through agreement.”
+This Privacy Policy may be supplemented or amended by special terms and conditions governing specific features or password-protected areas of this Site. When you sign up to use a special feature or password-protected area, you may be asked to agree to special terms governing your use of the special feature or password-protected area. In such cases, you will be asked to expressly consent to the special terms, for example, by checking a box or clicking on a button marked "I agree." This type of agreement is known as a "click-through" agreement. If any of the terms of the click-through agreement are different than the terms of this Privacy Policy, the terms of the click-through agreement will supplement or amend this Privacy Policy, but only with respect to the matters governed by the "click-through agreement."
 
 **WHAT PERSONAL INFORMATION DOES** **BLAIR** **COLLECT THROUGH THIS SITE?**
 
@@ -76,18 +79,25 @@ We collect the personal information that you knowingly and voluntarily provide w
 To serve you better, we may combine information you give us by shopping our catalogs with the information we collect through this Site. We may also supplement the information we collect through this Site with information that is publicly available such as information based on your address, zip code or information you submit in a public forum (e.g. a blog, chat room, or social network). We may also supplement the information we collect through this Site within information we receive from or cross-reference with our Marketing Partners.
 
 **Information Sent to Us by Your Web Browser**  
-We collect information that is sent to us automatically by your Web browser. This information typically includes the IP address of your Internet service provider, your IP-based geographic location, the name and version of your operating system, the name and version of your browser, the date and time of your visit, the pages you visit and the web address you came from. Please check your browser if you want to learn what information your browser sends or how to change your settings. This information sent to us by your Web browser does not identify you personally. If, however, you have created a user identity on one of your visits to this Site (for example, by making a purchase), we may link the information provided by your browser to information that identifies you personally and use it for the purposes described below. In addition, we may review our server logs for security purposes, such as detecting intrusions into our network. If we suspect criminal activity, we may share portions of our server logs, which contain visitors' IP addresses, with the appropriate investigative and/or law enforcement authorities who may use that information to trace and identify individuals.
+We collect information that is sent to us automatically by your Web browser. This information typically includes the IP address of your Internet service provider, your IP-based geographic location, the name and version of your operating system, the name and version of your browser, the date and time of your visit, the pages you visit and the web address you came from. Please check your browser if you want to learn what information your browser sends or how to change your settings. This information sent to us by your Web browser does not identify you personally. If, however, you have created a user identity on one of your visits to this Site (for example, by making a purchase), we may link the information provided by your browser to information that identifies you personally and use it for the purposes described below. In addition, we may review our server logs for security purposes, such as detecting intrusions into our network. If we suspect criminal activity, we may share portions of our server logs, which contain visitors' IP addresses, with the appropriate investigative and/or law enforcement authorities who may use that information to trace and identify individuals.
 
 **Information Collected Using Cookies and Similar Technologies  
-**We use “cookies” and similar technologies, such as Web beacons (also referred to as “GIF files,” “pixels,” or “action tags”), to collect information and support certain features of this Site. For example, we may use these technologies to
+**We use "cookies" and similar technologies, such as Web beacons (also referred to as "GIF files," "pixels," or "action tags"), to collect information and support certain features of this Site. For example, we may use these technologies to
 
-*   collect information that may include which pages you visit, which web address you came from, which links you use, and how long you stay on each page the type of browser/device/hardware you are using, purchase and checkout process, search terms you use and IP-based geographic location;
-*   support the features and functionality of this Site - for example, to track the items you add to your shopping cart or to track your order;
-*   customize your Site experience and our advertising and marketing to you including Blair advertising and marketing presented on another website or mobile application;
-*   save you the trouble of reentering information already in our database or to prompt the settings you established on previous visits to this Site;
-*   personalize your shopping experience;
-*   manage and determine the effectiveness of our advertising and marketing efforts including how you respond to our advertising and marketing efforts;
-*   provide site security and or fraud prevention purposes.
+*   • collect information that may include which pages you visit, which web address you came from, which links you use, and how long you stay on each page the type of browser/device/hardware you are using, purchase and checkout process, search terms you use and IP-based geographic location;
+    
+*   • support the features and functionality of this Site - for example, to track the items you add to your shopping cart or to track your order;
+    
+*   • customize your Site experience and our advertising and marketing to you including Blair advertising and marketing presented on another website or mobile application;
+    
+*   • save you the trouble of reentering information already in our database or to prompt the settings you established on previous visits to this Site;
+    
+*   • personalize your shopping experience;
+    
+*   • manage and determine the effectiveness of our advertising and marketing efforts including how you respond to our advertising and marketing efforts;
+    
+*   • provide site security and or fraud prevention purposes.
+    
 
 Generally, the information we collect using these Web technologies does not identify you personally. If, however, you have created a user identity we may link the information we collect using Web technologies to other information that identifies you personally.
 
@@ -102,19 +112,32 @@ This Site includes social media features, such as the Facebook Like button, Goog
 **How Does** **Blair** **Use Your Personal Information?**  
 We use the personal information we collect through this Site
 
-*   to provide the products, information and services you request;
-*   for security, credit or fraud prevention purposes;
-*   to provide you with effective customer service;
-*   to provide you with a personalized experience when you use this Site;
-*   to display personalized advertising when you visit this Site;
-*   to contact you with special offers and other information we believe will be of interest to you (but only with your permission);
-*   to contact you with information and notices related to your use of this Site;
-*   to invite you to participate in surveys and provide feedback to us;
-*   to invite you to participate in and administer sweepstakes and contests. to better understand your needs and interests;
-*   to improve the content, functionality and usability of this Site;
-*   to improve our products and services;
-*   to improve our marketing and promotional efforts. and
-*   for any other purpose identified in an applicable privacy notice or other agreement between Blair and you.
+*   • to provide the products, information and services you request;
+    
+*   • for security, credit or fraud prevention purposes;
+    
+*   • to provide you with effective customer service;
+    
+*   • to provide you with a personalized experience when you use this Site;
+    
+*   • to display personalized advertising when you visit this Site;
+    
+*   • to contact you with special offers and other information we believe will be of interest to you (but only with your permission);
+    
+*   • to contact you with information and notices related to your use of this Site;
+    
+*   • to invite you to participate in surveys and provide feedback to us;
+    
+*   • to invite you to participate in and administer sweepstakes and contests. to better understand your needs and interests;
+    
+*   • to improve the content, functionality and usability of this Site;
+    
+*   • to improve our products and services;
+    
+*   • to improve our marketing and promotional efforts. and
+    
+*   • for any other purpose identified in an applicable privacy notice or other agreement between Blair and you.
+    
 
 To learn more about the choices you have about the ways we use your personal information, see "Your Choices".
 
@@ -124,10 +147,10 @@ To learn more about the choices you have about the ways we use your personal inf
 We share personal information with companies and organizations that perform services on our behalf, for example, companies that provide support services to us (such as credit card processing services, data storage services, and web hosting services) or that help us market our products and services (such as third-party email marketing companies). These third parties are required by contract to use the personal information we share with them only to perform services on our behalf and to take commercially reasonable measures to protect the confidentiality and security of your personal information.
 
 **With Our Marketing Partners**  
-From time to time we may establish a business relationship with third parties whom we believe trustworthy. These are known as our “Marketing Partners.” In such cases, we may share and cross-reference information, including some personal information about you, so that our Marketing Partners can contact you regarding products and services that may be of interest to you. If you do not want us to share your personal information with our Marketing Partners, you may “opt-out” at any time using one of the methods described below.
+From time to time we may establish a business relationship with third parties whom we believe trustworthy. These are known as our "Marketing Partners." In such cases, we may share and cross-reference information, including some personal information about you, so that our Marketing Partners can contact you regarding products and services that may be of interest to you. If you do not want us to share your personal information with our Marketing Partners, you may "opt-out" at any time using one of the methods described below.
 
 **With Our Affiliates**  
-We may share the personal information we collect through this Site with our affiliates so that they can contact you regarding products and services that may be of interest to you. If you do not want us to share your personal information with our affiliates, you may “opt-out” at any time using one of the methods described below.
+We may share the personal information we collect through this Site with our affiliates so that they can contact you regarding products and services that may be of interest to you. If you do not want us to share your personal information with our affiliates, you may "opt-out" at any time using one of the methods described below.
 
 **Business Transfers**  
 Your personal information may be transferred to a company that has acquired the stock or assets of Blair or one of our businesses, for example, as the result of a sale, merger, reorganization or liquidation. If such a transfer occurs, the acquiring company's use of your personal information will still be subject to this Privacy Policy and the privacy preferences you have expressed to us.
@@ -144,10 +167,10 @@ We reserve the right to disclose your personal information as described in any c
 **YOUR CHOICES**  
   
 **In General**  
-We respect your right to make choices about the ways we collect, use and disclose your personal information. In most cases, we will ask you to indicate your choices at the time we collect your personal information. We will also include an “opt-out” link in newsletters or promotional emails we send you so that you can inform us that you do not wish to receive such communications from us in the future. If you have created an account or a personal profile on this Site, you may be able to update some or all of your privacy choices by changing the settings on your account settings or profile page.
+We respect your right to make choices about the ways we collect, use and disclose your personal information. In most cases, we will ask you to indicate your choices at the time we collect your personal information. We will also include an "opt-out" link in newsletters or promotional emails we send you so that you can inform us that you do not wish to receive such communications from us in the future. If you have created an account or a personal profile on this Site, you may be able to update some or all of your privacy choices by changing the settings on your account settings or profile page.
 
 **Direct Marketing**  
-We want to communicate with you only if you want to hear from us. You have the choice to be excluded from our offers and promotions and to be excluded from sharing personal information with our affiliates or Marketing Partners. If you choose not to receive information from us or do not want us to share your personal information with our affiliates or Marketing Partners, please let us know by calling us at 1-800-821-5744 or by sending us an email at customerservice@blair.com. Please be sure to include your email address, full name, and specifically what information you do not want to receive, such as “no phone offers”, “no mail offers”, “no email offers”, or “no sharing of information with Marketing Partners.” DO NOT include your Social Security number or account number in the email. We will respond to reasonable requests within a reasonable time and, in any event, within the time period required by law.
+We want to communicate with you only if you want to hear from us. You have the choice to be excluded from our offers and promotions and to be excluded from sharing personal information with our affiliates or Marketing Partners. If you choose not to receive information from us or do not want us to share your personal information with our affiliates or Marketing Partners, please let us know by calling us at 1-800-821-5744 or by sending us an email at customerservice@blair.com. Please be sure to include your email address, full name, and specifically what information you do not want to receive, such as "no phone offers", "no mail offers", "no email offers", or "no sharing of information with Marketing Partners." DO NOT include your Social Security number or account number in the email. We will respond to reasonable requests within a reasonable time and, in any event, within the time period required by law.
 
 Even if you ask us not to share or use your personal information for direct marketing purposes, we may still use your personal information, when you purchase from us online or through our catalogs to contact you via phone, email or mail to address questions specific to your order, even if you have opted to not receive marketing communications.
 
@@ -155,10 +178,10 @@ Even if you ask us not to share or use your personal information for direct mark
 If you wish to update or correct your personal information, please let us know by calling us at 1-800-821-5744 or by sending us an email at customerservice@blair.com. Please be sure to include your email address, full name, and specifically what information you would like to update or correct. If you contact us by email, DO NOT include your Social Security number or account number.
 
 **Information Collected by Third Party Advertising and Marketing Consultants**  
-If you do not wish to receive our advertising or marketing consultants' cookies or similar technologies, you may “opt-out” at either the Network Advertising Initiative website or Digital Advertising Alliance website.
+If you do not wish to receive our advertising or marketing consultants' cookies or similar technologies, you may "opt-out" at either the Network Advertising Initiative website or Digital Advertising Alliance website.
 
 **Do Not Track**  
-Do Not Track signals your opt-out preference with an HTTP header that requests that we disable tracking you on our Site and across sites. At this time, we do not respond to browser “do not track” signals.
+Do Not Track signals your opt-out preference with an HTTP header that requests that we disable tracking you on our Site and across sites. At this time, we do not respond to browser "do not track" signals.
 
 **Protecting Children**  
 Our website is not focused on marketing or attracting minors and we do not knowingly collect personal information about anyone under the age of 18. Anyone under the age of 18 should not use this Site. Our goal is to comply with applicable laws and regulations relating to collection and use of information from children, including the federal Children's Online Privacy Protection Act. If you believe that we have received information from a child, please notify us immediately by calling us at 1-800-821-5744 or by sending us an email at customerservice@blair.com and we will remove that information from our database.
@@ -181,13 +204,15 @@ This site may contain links to Web sites operated by other companies, including 
 This Privacy Policy is governed under the laws of the State of Minnesota without regard to its conflicts of law provisions.
 
 **Interpretation**  
-As used in this Privacy Policy, the word “including” means “including, without limitation.”
+As used in this Privacy Policy, the word "including" means "including, without limitation."
 
 **Contact Us**  
-If you have questions about this policy or our privacy practices, please email us at customerservice@blair.com and write “Privacy” in the subject line or write us at:
+If you have questions about this policy or our privacy practices, please email us at customerservice@blair.com and write "Privacy" in the subject line or write us at:
 
-**Blair**  
-**220 Hickory St.**  
+**Blair**
+
+**220 Hickory St.**
+
 **Warren, PA 16366**
 
   
@@ -213,7 +238,8 @@ About Us
 
 Shipping &. Delivery  
 Guarantee/Return Policy  
-Privacy &. Security Policy  
+Privacy Policy  
+Terms of Use  
 The Blair Story  
 Career Opportunities  
 Our Stores  
