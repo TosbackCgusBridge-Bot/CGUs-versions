@@ -8,6 +8,8 @@ Privacy
 
 KidsHealth is committed to preserving Your right to privacy. KidsHealth does not collect identifying information about You (such as Your name, address, telephone number, or email address) unless You voluntarily submit that information to us through our Contact Us page, our newsletter subscription pages, or other means.
 
+In the event you opt-in to any KidsHealth newsletter or texting series, the personally identifiable information (email address and/or mobile phone number) you provide to enroll will only be used to deliver the communications. This information is not typically viewed by a human being unless there is a problem with the database. Users may unsubscribe from any communications at any time. Newsletter subscribers may remove their email address from our list by using the unsubscribe link provided at the bottom of each newsletter. Texting series subscribers may text STOP to quit.
+
 Please do not provide any confidential information (including health information) about you or anyone to us via electronic communication. Any information you do submit will not be sold to any third parties. If we publish any information you provide to us on the website, we will not disclose personally identifiable information.
 
 We collect information about your use of our website through the use of cookies. The information collected by cookies allows us to statistically monitor how many people are using our website. We may use cookie information to determine the popularity of certain content and how long visitors stay on the site.
