@@ -169,7 +169,7 @@ COUNTRY AustraliaBelgium (België)Brazil (Brasil)Bulgaria (България)Cana
 *   Terms &. Conditions
 *   Privacy Statement
 
-©2015 Mattel All Rights Reserved
+©2016 Mattel All Rights Reserved
 
 Home for Fisher-Price Toys &. More | Use of this site signifies your acceptance of the terms and conditions of use.
 
