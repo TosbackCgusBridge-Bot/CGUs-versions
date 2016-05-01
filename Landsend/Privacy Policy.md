@@ -103,7 +103,7 @@
     *   Essentials for Summer Events
     *   Swim Shop 2016
     *   No Iron Shop
-    *   Shirts of Summer
+    *   Vacation Getaway
     *   Tailored Fit Shop
     *   Big &. Tall Shop
     *   Sale
@@ -157,7 +157,7 @@
     
     *   New Arrivals
     *   Swim Shop
-    *   Red, White &. Blue
+    *   Dress Up
     *   School Uniforms
     *   Shoes &. Sandals
     *   Boys' Iron Knee
@@ -393,7 +393,7 @@
     *   Essentials for Summer Events
     *   Swim Shop 2016
     *   No Iron Shop
-    *   Shirts of Summer
+    *   Vacation Getaway
     *   Tailored Fit Shop
     *   Big &. Tall Shop
     *   Sale
@@ -447,7 +447,7 @@
     
     *   New Arrivals
     *   Swim Shop
-    *   Red, White &. Blue
+    *   Dress Up
     *   School Uniforms
     *   Shoes &. Sandals
     *   Boys' Iron Knee
