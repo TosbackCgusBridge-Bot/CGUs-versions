@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14839695902
+true true C14757390600
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Fri Apr 29 11:15:28 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Sat Apr 30 11:14:57 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -53,83 +53,23 @@ Super Saturday Sale In Store and Online
 
 Mother's Day is May 8.
 
-Shop Super Saturday Sale View Store Ad   Hurry in Friday and Saturday morning for a $10, $20 or $100 Off\* Coupon Giveaway
+Shop Super Saturday Sale View Store Ad   Shop Women Shop Kids Shop Men Shop Curtains and Drapes Shop Bedding Shop Jewelry Shop Handbags Shop Shoes Home Flash Sale | Today Online Only! Extra 30% Off\* $100 or More Or, Extra 25% Off\* Select Home Already 30 to 50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds &. Shades
 
-Limited time offer in store, 4/29 and 4/30. One coupon per customer. While supplies last. Exclusions apply.
+Ends April 30 | Code: BIGSHOP2
 
-\*Get details Shop Women Shop Kids Shop Men Shop Curtains and Drapes Shop Bedding Shop Jewelry Shop Handbags Shop Shoes Night and Day Doorbusters
+\*Exclusions and details Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Furniture and Mattresses Shop All Home 40% Off Dresses
 
-Friday 3PM CDT through Saturday 1PM CDT
+Select styles, orig. $40-$86
 
-Shop Doorbusters Doorbuster - 50% Off Worthington Apparel and Dresses
-
-Select styles, orig. $16-$86
-
-Shop Worthington Doorbuster - 6.99 Stylus, St. John's Bay or a.n.a Tee
-
-Select styles, orig. $14-$16
-
-Shop Tees Doorbuster - 14.99 Stylus, St. John's Bay or a.n.a Shorts
-
-Select styles, orig. $30
-
-Shop Shorts Doorbuster - 50% Off Juniors' Dresses and By &. By Sportswear
-
-Select styles, reg. $38-$52
-
-Shop Juniors Doorbuster - 50% Off Plus Apparel
-
-Select styles, orig. $18-$86
-
-Shop Plus Apparel Doorbuster - 40% Off Haircare
-
-Select styles, exclusions apply, orig. $4-$54
-
-Shop Haircare Doorbuster - 16.99 Sleep Sets for Her
-
-Select styles, orig. $50. Also available in plus.
-
-Shop Sleep Sets Doorbuster - 14.99 Ambrielle Cotton Bras
-
-Select styles, reg. $30-$38
-
-Shop Ambrielle Doorbuster - 15.99 Sandals for Her
-
-Select styles, orig. $40-$50
-
-Shop Sandals Doorbuster - 60% Off Wallets for Her
-
-Select styles, orig. $8-$20
-
-Shop Wallets Doorbuster - Up to 70% Off Fine Jewelry
+Shop Dresses Mother's Day Jewelry Sale Up to 60% Off Fine Jewelry
 
 Select styles
 
-Shop Fine Jewelry Doorbuster - Up to 65% Off Fashion Jewelry and Fashion Silver
-
-Select styles, reg. $6-$75
-
-Shop Fashion Jewelry Doorbuster - 4.99 JCPenney Home Trellis or 30x54" Solid Bath Towel
-
-Select styles, reg. $12
-
-Shop Towels Doorbuster - 50 to 60% Off Sheets
-
-Select styles, reg. $30-$220
-
-Shop Sheets Doorbuster - 99.99 Protocol Simmons 5-piece Luggage Set
-
-Select styles, reg. $260
-
-Shop Luggage Doorbuster - 25 to 55% Off Seiko, Citizen, Bulova and more
-
-Select styles, orig. $28-$899
-
-Shop Watches Up to 50% Off Home Sale
+Shop Fine Jewelry Liz Claiborne Sale 30 to 50% Off Liz Claiborne
 
 Select styles
 
-Shop All Home Shop Comforters and Bedding Sets   Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses Sephora Shop New Beauty Arrivals Get Your Mother's Day Worth
+Shop Apparel   Shop Handbags and Wallets Shop Fashion Jewelry   Sephora Shop New Beauty Arrivals Get Your Mother's Day Worth
 
 Mother's Day is May 8
 
