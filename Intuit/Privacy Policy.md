@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14757390600
+true true C14757999017
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Sat Apr 30 11:14:57 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p08.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Sun May 01 11:15:32 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,35 +49,35 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Super Saturday Sale In Store and Online
+Mother's Day Sale Shop Mother's Day Sale View Store Ad40% Off Worthington
 
-Mother's Day is May 8.
+Select styles.
 
-Shop Super Saturday Sale View Store Ad   Shop Women Shop Kids Shop Men Shop Curtains and Drapes Shop Bedding Shop Jewelry Shop Handbags Shop Shoes Home Flash Sale | Today Online Only! Extra 30% Off\* $100 or More Or, Extra 25% Off\* Select Home Already 30 to 50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds &. Shades
+Shop Worthington  40% Off Dresses
 
-Ends April 30 | Code: BIGSHOP2
+Select styles.
 
-\*Exclusions and details Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Furniture and Mattresses Shop All Home 40% Off Dresses
+Shop Dresses  Last Day! Order by today, 5/1, for delivery by Mother's Day. Shop Mother's Day Gifts Get Your Mother's Day Worth Mother's Day is May 8! Shop All Mother's Day Gifts Shop Gifts Under $25 Shop Gifts Under $50Gift Cards and E-Gift Cards | $10 Off $10 Coupon Spend $75 on gift cards or e-gift cards and get a $10 off $10 coupon.
 
-Select styles, orig. $40-$86
+Ends May 8.
 
-Shop Dresses Mother's Day Jewelry Sale Up to 60% Off Fine Jewelry
-
-Select styles
-
-Shop Fine Jewelry Liz Claiborne Sale 30 to 50% Off Liz Claiborne
+Get details: Shop Gift Cards   Mother's Day Jewelry Sale Up to 60% Off Fine Jewelry
 
 Select styles
 
-Shop Apparel   Shop Handbags and Wallets Shop Fashion Jewelry   Sephora Shop New Beauty Arrivals Get Your Mother's Day Worth
+Shop Fine Jewelry   30 to 40% Off Fashion Accessories For Her
 
-Mother's Day is May 8
+Select styles.
 
-Shop Gifts 80% Off Final Markdowns
+  Shop Fashion Accessories For Her Up to 50% Off Home Sale
 
-Plus! New Markdowns 50 to 70% Off
+Select styles
 
-Shop Clearance Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   JCP Salon 11 For $11 Each - Sexy Hair Styling Products
+
+Offer valid 5/1/16-5/8/16
+
+Shop Now Gift Sephora Shop Beauty Write a Review For Your Chance to Win $1,000 Get Details: Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
