@@ -1,4 +1,4 @@
-USESDEFRITBR Avril 2016
+USESDEFRITBR Mai 2016
 
 *   Objet
 *   Mentions légales
@@ -125,11 +125,11 @@ Réalisé sous la direction de Jean-François PILLOU, fondateur de CommentCaMarc
   
 A voir également
 
-*   Www.outlook.com
-*   Www.chez.com
-*   Facebook inscription
+*   Facebook.com
+*   Email.com
+*   Condition générales d' utilosatipn
+*   Modèle Condition Générale de Vente » Forum - Webmaster
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
-*   Créer un compte Samsung Apps pour télécharger des applications Samsung » Conseils pratiques - Samsung
 *   Redaction conditions generales (Résolu) » Forum - Vos droits sur internet
 *   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
