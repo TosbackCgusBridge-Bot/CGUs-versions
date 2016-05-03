@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14757999017
+true true L14847798854
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p08.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Sun May 01 11:15:32 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p11.jcpenney.com SERVER NAME :->. dtcomexpr1l1j2 TIME :->. Mon May 02 11:15:37 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -57,7 +57,7 @@ Shop Worthington  40% Off Dresses
 
 Select styles.
 
-Shop Dresses  Last Day! Order by today, 5/1, for delivery by Mother's Day. Shop Mother's Day Gifts Get Your Mother's Day Worth Mother's Day is May 8! Shop All Mother's Day Gifts Shop Gifts Under $25 Shop Gifts Under $50Gift Cards and E-Gift Cards | $10 Off $10 Coupon Spend $75 on gift cards or e-gift cards and get a $10 off $10 coupon.
+Shop Dresses  $5 Express Shipping Anywhere over $75. Order by 5/3 for delivery by Mother's Day. Get details: Get Your Mother's Day Worth Mother's Day is May 8!   Shop All Mother's Day Gifts Shop Gifts Under $25 Shop Gifts Under $50Gift Cards and E-Gift Cards | $10 Off $10 Coupon Spend $75 on gift cards or e-gift cards and get a $10 off $10 coupon.
 
 Ends May 8.
 
