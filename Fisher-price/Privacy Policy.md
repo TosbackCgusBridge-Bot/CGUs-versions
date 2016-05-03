@@ -84,8 +84,8 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   Sleeping &. Soothing
     *   Traveling
     
-    *   best possible start: A film by you
-    *   Watch now
+    *   Iconic designer Jonathan Adler is joining our team!
+    *   Learn more
     
     *   Introducing Grow Parenting App  
         Learn more >.
@@ -97,6 +97,7 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   Birthday Party Ideas
     
     *   My First Birthday Club
+    *   A Film by You
     
     *   International Parenting Study
 *   GAMES &. ACTIVITIES Online Games Apps for Kids Online Videos Coloring Pages Crafts for Kids Play &. Learn Activities
