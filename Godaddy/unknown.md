@@ -1,4 +1,4 @@
-**Last Revised: April 14, 2016**
+**Last Revised: May 2, 2016**
 
 **PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -354,7 +354,7 @@ If permitted, then the Registration may proceed, but a .CN domain name may not b
 *   Taiwan: Resident ID, driver’s license or business license
 *   Other Countries/Regions: Driver’s license or passport
 
-Documents submitted to us are used by us and shared with the Registry solely for the purpose of real name verification, and are otherwise subject to our Privacy Policy.  
+Documents submitted to us are used by us and shared with the Registry solely for the purpose of real name verification, and are otherwise subject to our Privacy Policy.  By registering a .CN domain, you expressly agree that your data may be stored on servers in the U.S., or otherwise outside of the People's Republic of China.
 
 _Refunds_ _._  Refunds for .CN Registrations will only be allowed where (i) registration of the applied for domain name is not permitted by the Chinese government. or (ii) you notify us of your intent to cancel for any reason within the first five (5) days after the Registration (i.e., after it is deemed permissible by the Chinese government).  For the avoidance of doubt, refunds will not be permitted under any circumstances after five (5) days from the date of Registration, including, for example, in the event real name verification is not successful or if the Chinese government determines after Registration that the domain name should not have been registered (and directs us to delete).
 
