@@ -42,7 +42,6 @@ Sencha
     *   Sencha Test
     *   GXT
     *   Architect
-    *   Web Application Manager
     *   Licensing
     *   Ordering Information
     *   Authorized Resellers
@@ -215,7 +214,6 @@ Get Sencha NewsBuy Online
     *   Sencha Test
     *   GXT
     *   Architect
-    *   Web Application Manager
     *   Licensing
     *   Ordering Information
     *   Authorized Resellers
