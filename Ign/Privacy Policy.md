@@ -1,11 +1,12 @@
-*   Cookie Policy
-*   Safe Harbor Policy
-*   International User
-*   California Do Not Track – CalOPPA
-*   Email Overview
-*   Interest Based Ads
+*   Brands
+*   Audience
+*   Worldwide
+*   Press
+*   Leadership
+*   Careers
+*   Contact
 
-Version Française Ziff Davis, LLC Privacy Policy **Effective March 7, 2016**
+Privacy Policy
 
 This Privacy Policy describes what information Ziff Davis, LLC (“Ziff Davis” or “we”) gathers, how we collect it, our information-sharing practices, how users may change the way their information is collected and how to access their information that is provided on our websites and mobile applications.
 
@@ -44,7 +45,8 @@ Personal Information generally means information that might reasonably be used t
 *   Purchase a software license or a product;
 *   Sign up for emails, bulletins, newsletters, webinars or white papers;
 *   Enter a sweepstakes, contest, competition or prize draw;
-*   Register for site membership or create a profile or account on any of our sites, including IGN, AskMen One, PCMag.com, Toolbox.com, LogicBuy.com and TechBargains.com, Ookla.com, Speedtest.net, Salesify.com, Offers.com and CouponCodes.com;
+*   Register for site membership or create a profile or account on any of our sites, including IGN, AskMen One, PCMag.com, Toolbox.com, LogicBuy.com and  
+    TechBargains.com, Ookla.com, Speedtest.net, Salesify.com, Offers.com and CouponCodes.com;
 *   Participate in surveys;
 *   Perform search queries on our websites;
 *   Use a third party connection or log-in to create a membership or profile on any of our sites, access our content, or forward our content to another person, platform or service, e.g. through email, Facebook, Twitter, Google+, StumbleUpon, LinkedIn and/or Pinterest;
@@ -89,13 +91,14 @@ _Offers.com—Merchant Preferences._ When using the Offers.com service, we may c
 
 _Social Media Widgets._ Our websites include social media features, such as the Facebook “Like” button and widgets, which include the “Share This” button or interactive mini-programs that run on our sites. These features may collect your IP Address, track which page you are visiting on our site, and may set a cookie to enable the features to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our sites. **Your interactions with these features are governed by the privacy policy of the company providing it.**
 
-_Online Ad Serving._ Ziff Davis and some of our advertisers use third party advertising service companies to serve advertisements when you visit our sites or use our apps. Often, these third party advertising companies employ cookie, pixel tag and other technologies to measure the effectiveness of Web, app and email advertisement and to create a record of interaction with our content that they use in conjunction with their advertising which appears on other sites or apps, or for reporting website traffic, app use, statistics, advertisement data and/or other activities on our sites. We will also engage third party providers to assist with the segmentation of this data. Ziff Davis and/or these third party advertisers may collect non-Personal Information about you for online behavioral advertising (OBA) purposes- which includes mobile devices and apps- in order for you to receive relevant interest-based advertising from us in the future but see below - Interest Based Ads- for more information on OBA. **The specific providers we use are subject to change.**
+_Online Ad Serving._ Ziff Davis and some of our advertisers use third party advertising service companies to serve advertisements when you visit our sites or use our apps. Often, these third party advertising companies employ cookie, pixel tag and other technologies to measure the effectiveness of Web, app and email advertisement and to create a record of interaction with our content that they use in conjunction with their advertising which appears on other sites or apps, or for reporting website traffic, app use, statistics, advertisement data and/or other activities on our sites. We will also engage third party providers to assist with the segmentation of this data. Ziff Davis and/or these third party advertisers may collect non-Personal Information about you for online behavioral advertising (OBA) purposes- which includes mobile devices and apps- in order for you to receive relevant interest-based advertising from us in the future but see below – Interest Based Ads- for more information on OBA. **The specific providers we use are subject to change.**
 
 For a list of the applicable providers, click here. For information about how to opt out of tracking methods for these entities and others, click here.
 
 **What We Provide to Third Parties:**
 
-_Statistical Reports and Contact Lists_. The aggregate statistics that describe our online audience—which are often based on the information you provide when you subscribe, register, or browse our sites—help us sell advertising by, among other things, describing the demographics of our visitors, and otherwise publicize Ziff Davis and our brands. In addition, we make some information collected by our B2B, emedia and Salesify divisions, such as the name of our users, their mailing address, phone number, email address—and in certain circumstances their employer's name, company size and other industry data—available on a rental or other basis (e.g. sale) to third party providers of goods and services when such information is provided in connection with webcasts and white papers or other sponsored downloads. Please note that we only take such actions in connection with emails collected by PCMag, Toolbox.com, ITtoolbox, Inside CRM, IT Management, IT Security, and Voip-News. Please see the sections Webcasts and White Papers/Other Sponsored Downloads below to learn more. To learn how you can make choices about how this information is used or shared, please visit the How You Can Change or Control What is Collected section below.
+_Statistical Reports and Contact Lists_. The aggregate statistics that describe our online audience—which are often based on the information you provide when you subscribe, register, or browse our sites—help us sell advertising by, among other things, describing the demographics of our visitors, and otherwise publicize Ziff Davis and our brands. In addition, we make some information collected by our B2B, emedia and Salesify divisions, such as the name of our users, their mailing address, phone number, email address—and in certain circumstances their employer’s name, company size and other industry data—available on a rental or other basis (e.g. sale) to third party providers of goods and services when such information is provided in connection with webcasts and white papers or other sponsored downloads. Please note that we only take such actions in connection with emails collected by PCMag, Toolbox.com, ITtoolbox, Inside CRM, IT Management, IT Security, and Voip-News. Please see the sections  
+Webcasts and White Papers/Other Sponsored Downloads below to learn more. To learn how you can make choices about how this information is used or shared, please visit the How You Can Change or Control What is Collected section below.
 
 _Email Deployment, Data Analysis E-Commerce and Other Services_. We provide customer lists, email addresses and other information to third party companies and contractors who provide us with specialized services, such as email message deployment, merge-purge (identifying and removing duplicate addresses), subscription fulfillment, customer support and service, research, statistical analysis, data and website hosting, and other data and transaction processing. These companies work on our behalf, and we do not provide our lists or other data to them for their own permanent use. Those service providers will be permitted to obtain only the information they need to deliver the service. They should also maintain the confidentiality of the information and are prohibited from using it for any other purpose.
 
@@ -139,7 +142,9 @@ _Behavioral Targeting/Re-Targeting_.  We partner with third party ad networks t
 
 **How You Can Change or Control what is Collected:**
 
-_Cookies_. Most web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. You may stop or restrict cookies on your computer or purge them from your browser by adjusting your web browser preferences. If you would prefer that we not collect anonymous data that may be used to help determine which advertisements to serve you, opt out by clicking this icon ,which can be found on most of our webpages. However, if you “turn off,” purge, or disable cookies, although you may still use our websites, you may not be able to use all of the features, functions, or services available on our websites.
+_Cookies_. Most web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. You may stop or restrict cookies on your computer or purge them from your browser by adjusting your web browser preferences. If you would prefer that we not collect anonymous data that may be used to help determine which advertisements to serve you, opt out by clicking this icon
+
+,which can be found on most of our webpages. However, if you “turn off,” purge, or disable cookies, although you may still use our websites, you may not be able to use all of the features, functions, or services available on our websites.
 
 _Digital Advertising Alliances_. The Digital Advertising Alliance (DAA) is an independent non-profit organization that collaborates with businesses, public policy groups, and public officials to ensure that the high standards for consumer privacy, transparency and control are addressed and enforced.
 
@@ -216,11 +221,11 @@ California’s “Shine the Light” law, Civil Code Section 1798.83, permits ou
 
 Ziff Davis Legal Department  
 28 East 28th Street  
-New York, NY 10016  
+New York, NY 10016
 
 For more information concerning your use of Ookla’s websites and services (including Speedtest and Pingtest), please visit Ookla Terms of Use page. The Ookla Terms of Use page are incorporated by reference into this Privacy Policy.
 
-For more information concerning your use of all other Ziff Davis websites and services, please visit Ziff Davis' Terms of Use page. The Ziff Davis Terms of Use are incorporated by reference into this Privacy Policy.
+For more information concerning your use of all other Ziff Davis websites and services, please visit Ziff Davis’ Terms of Use page. The Ziff Davis Terms of Use are incorporated by reference into this Privacy Policy.
 
 _Changes to the Privacy Policy_.  We may change this Privacy Policy from time to time, and all changes will be effective at the time we post them. If we believe there is a significant change to this Privacy Policy or our data collection and use practices, we will indicate on our sites that our Privacy Policy has changed prior to the change becoming effective. The then-posted version of the Privacy Policy supersedes all prior versions. Your continued access to or use of any of our sites shall be deemed your acceptance of the Privacy Policy.
 
@@ -230,7 +235,7 @@ _Changes to the Privacy Policy_.  We may change this Privacy Policy from time t
 
 Ziff Davis Legal Department  
 28 East 28th Street  
-New York, NY 10016  
+New York, NY 10016
 
 **TRUSTe-Certified Websites and Mobile Applications**
 
@@ -238,7 +243,10 @@ The TRUSTe program covers only information that is collected through these websi
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe by clicking here.
 
-  
-A j2 Global, Inc. Company
+Comments are closed.
+
+Facebook Linkedin Twitter
 
 Use of the site is governed by our Terms of Use and Privacy Policy. Copyright 1996-2016 Ziff Davis. All Rights Reserved. Reproduction in whole or in part in any form or medium without express written permission of Ziff Davis, LLC. is prohibited.
+
+Back to Top
