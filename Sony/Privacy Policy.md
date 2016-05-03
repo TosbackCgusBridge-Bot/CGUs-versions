@@ -41,27 +41,9 @@ SONY
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! Don't Miss This Bold Biopic About Miles Davis, Directed by and Starring Don Cheadle
+Your browser does not support JavaScript! The Perfect Present: The Power to Create
 
-Find Tickets for "Miles Ahead"
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-Jazz Musician Robert Glasper Reinterprets Miles Davis
-
-Pre-Order Album
+With the a7S Camera
 
 Close
 
@@ -71,11 +53,11 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Play Video
+With the a7S Camera
 
-Sony on YouTube
+Women Who Work Out Will Love
 
-Play Video
+The Wire-Free Walkman
 
 Close
 
@@ -85,21 +67,13 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-By Miles Davis
+The Wire-Free Walkman
 
 Sony on Instagram
 
-Sony on Twitter
+Our Fave Movie Mamas
 
-"Everything's Beautiful" features Stevie Wonder, @fatbellybella, @illaj &. more. Pre-order now.
-
-2016-04-21 07:30:01+00:00
-
-View Tweet
-
-Get Lost in the Music
-
-From the Movie
+See List
 
 Close
 
@@ -109,25 +83,11 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-From the Movie
+See List
 
-Start Building Your Record Collection Today
+Hosting Brunch on Sunday?
 
-See Albums
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-See Albums
-
-Beyoncé's New Visual Album Is Here
-
-Listen Now
+Stream This Playlist
 
 Close
 
@@ -137,81 +97,17 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Listen Now
+Stream This Playlist
 
-On Location With Photographer David McLain
+Give Mom Eggs With a Side of Apps
 
-Discover Alpha Cameras
+Check Out Tablets
 
-Close
+Sony on Vine
 
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
+Watch Susan Sarandon Star as a Mother With No Boundaries in "The Meddler"
 
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-Uncharted Around the World Sweepstakes
-
-Enter Today
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Enter Today
-
-Sony on Instagram
-
-Sony on Twitter
-
-SPT’s #Underground renewed by WGN America for a second season.
-
-2016-04-26 09:05:38+00:00
-
-View Tweet
-
-A Smartphone Remote
-
-For the Car
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-For the Car
-
-All-in-One Music Player and Fitness Tracker
-
-Train Smarter
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Train Smarter
-
-What Happens When Technology Disrupts Commerce As We Know It?
-
-Get Ready for "StartUp"
+Find Movie Tickets
 
 Close
 
@@ -259,9 +155,9 @@ The Future
 
 Sony on Twitter
 
-RT @Outlander\_STARZ: Don't waste your time waiting for anything or anyone. Watch all of #Outlander now.
+Check out the debut of the poster for @PlayStation's #Powers: Season 2. www.ign.com
 
-2016-04-26 03:52:37+00:00
+2016-05-03 08:46:44+00:00
 
 View Tweet
 
@@ -282,6 +178,108 @@ Build Your Home Theater
 Watch Nigel Sylvester's Test Run
 
 Captured With Action Cam
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Beyoncé's New Visual Album Is Here
+
+Listen Now
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Listen Now
+
+Battleborn, From the Creators of Borderlands
+
+Play on PS4™
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Turn a Wall Into a Screen
+
+Learn More
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Learn More
+
+Sony on Instagram
+
+Sony on Twitter
+
+We've got a @Outlander\_STARZ fan pack to bid on! sonyrewards.com
+
+2016-05-02 20:23:01+00:00
+
+View Tweet
+
+Upscale Audio &. Video
+
+With One Player
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+With One Player
+
+Start Building Your Record Collection Today
+
+See Albums
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+See Albums
+
+The Creator of Sherlock Holmes and a Daring Escape Artist Team Up in This New TV Show
+
+"Houdini &. Doyle" Premieres Tonight on FOX
 
 Close
 
