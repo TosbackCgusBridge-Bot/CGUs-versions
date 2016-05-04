@@ -126,8 +126,8 @@ GSK Global Website www.gsk.com
 *   Media
     *   Media
     *   Press releases
-    *   Press kits
-        *   Press kits
+    *   Press Kits
+        *   Press Kits
         *   Altius Institute for Biomedical Sciences
         *   ANORO™ ELLIPTA™
         *   Arnuity™ Ellipta® &. Incruse® Ellipta®
@@ -154,6 +154,7 @@ GSK Global Website www.gsk.com
             *   Meningococcal disease fact sheet
             *   Hour of Power Rowing &. Cycling Challenge
             *   Knowledge gaps in vaccination against meningococcal disease
+        *   The State of Uncontrolled Asthma in America
     *   Infographics
     *   Media contacts
     *   Corporate reporting
@@ -304,7 +305,6 @@ Menu
         *   Our locations
         *   Meet our apprentices
         *   Application and assessment
-    *   Consortium Orientation Program
     
     *   Search jobs and apply
         
@@ -341,6 +341,7 @@ Menu
         *   Whooping cough: confronting the hidden risk to infants
         *   TEDMED 2015: Art, inspired by vaccination
         *   TEDMED 2015: An interview with curator, Christine McNab
+        *   GSK uncovers the state of uncontrolled asthma in America
     *   How we do R&D
         *   How we do R&D
         *   Tackling the threat of antibiotic resistance
