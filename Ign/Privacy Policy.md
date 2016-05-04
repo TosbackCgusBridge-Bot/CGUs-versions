@@ -6,7 +6,18 @@
 *   Careers
 *   Contact
 
-Privacy Policy
+Privacy Policy Effective March 7, 2016
+
+*   Cookie Policy
+*   Safe Harbor Policy
+*   International User
+*   California Do Not Track – CalOPPA
+*   Email Overview
+*   Interest Based Ads
+
+Version Française
+
+Ziff Davis, LLC Privacy Policy
 
 This Privacy Policy describes what information Ziff Davis, LLC (“Ziff Davis” or “we”) gathers, how we collect it, our information-sharing practices, how users may change the way their information is collected and how to access their information that is provided on our websites and mobile applications.
 
