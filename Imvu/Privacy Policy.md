@@ -134,8 +134,8 @@ If you have any questions regarding this Privacy Policy please contact IMVU, Inc
 
 Privacy Officer  
 IMVU, Inc.  
-PO Box 390012  
-Mountain View, CA 94039.
+PO Box 2772  
+Redwood City, CA 94063.
 
 Final provision
 
