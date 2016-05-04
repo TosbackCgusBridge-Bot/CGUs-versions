@@ -32,14 +32,14 @@ Toyota Vehicles Cars & Minivan
 
 Trucks
 
-*   2016   Tacoma $23,300 starting 1 19 /24 est. mpg2 as shown 1 Build your own
+*   2016   Tacoma $23,660 starting 1 19 /24 est. mpg2 as shown 1 Build your own
 *   2016   Tundra $29,950 starting 1 15 /19 est. mpg2 as shown 1 Build your own
 
 Crossovers & Suvs
 
 *   2015   RAV4 $23,680 starting 1 24 /31 est. mpg2 as shown 1 Build your own
 *   2015   Venza $29,065 starting 1 20 /26 est. mpg2 as shown 1 Build your own
-*   2016   Highlander $29,990 starting 1 20 /25 est. mpg2 as shown 1 Build your own
+*   2016   Highlander $30,490 starting 1 20 /25 est. mpg2 as shown 1 Build your own
 *   2016   4Runner $33,810 starting 1 17 /22 est. mpg2 as shown 1 Build your own
 *   2016   Sequoia $44,965 starting 1 13 /17 est. mpg2 as shown 1 Build your own
 *   2016   Land Cruiser $83,825 starting 1 13 /18 est. mpg2 as shown 1 Build your own
@@ -279,6 +279,8 @@ Discontinued Vehicles
     
 *   Venza  
     
+*   All Discontinued Toyota Vehicles  
+    
 
 Compare Toyota vs. the Competition
 
@@ -336,6 +338,8 @@ Support
 *   Your Privacy Rights  
     
 *   Legal Terms  
+    
+*   Toyota Speak Up Line  
     
 
 About Toyota
@@ -1000,7 +1004,6 @@ About Toyota
 *   Toyota Worldwide
 *   Toyota Racing
 *   TRD USA
-*   Toyota Speak Up Line
 
 Language
 
