@@ -118,6 +118,7 @@ Music
 
 More
 
+*   All Programs
 *   Podcast Directory
 *   NPR Podcasts
 
@@ -488,25 +489,6 @@ Become an NPR sponsor
     *   Tiny Desk
     *   Videos
 *   Programs
-    *   All Things Considered
-    *   Ask Me Another
-    *   The Best Of Car Talk
-    *   Bullseye
-    *   The Diane Rehm Show
-    *   Embedded
-    *   Fresh Air
-    *   Here &. Now
-    *   Hidden Brain
-    *   Invisibilia
-    *   Latino USA
-    *   Morning Edition
-    *   On Point
-    *   StoryCorps
-    *   TED Radio Hour
-    *   Wait Wait...Don't Tell Me!
-    *   Weekend Edition Saturday
-    *   Weekend Edition Sunday
-    *   Youth Radio
 *   About
     *   NPR Overview
     *   NPR Finances
