@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14847798854
+true true C14763797855
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p11.jcpenney.com SERVER NAME :->. dtcomexpr1l1j2 TIME :->. Mon May 02 11:15:37 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Tue May 03 11:15:33 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -57,7 +57,7 @@ Shop Worthington  40% Off Dresses
 
 Select styles.
 
-Shop Dresses  $5 Express Shipping Anywhere over $75. Order by 5/3 for delivery by Mother's Day. Get details: Get Your Mother's Day Worth Mother's Day is May 8!   Shop All Mother's Day Gifts Shop Gifts Under $25 Shop Gifts Under $50Gift Cards and E-Gift Cards | $10 Off $10 Coupon Spend $75 on gift cards or e-gift cards and get a $10 off $10 coupon.
+Shop Dresses  LAST DAY! $5 Express Shipping Anywhere over $75. Order by today, 5/3, for delivery by Mother's Day. Get details: Get Your Mother's Day Worth Mother's Day is May 8!   Shop All Mother's Day Gifts Shop Gifts Under $25 Shop Gifts Under $50Gift Cards and E-Gift Cards | $10 Off $10 Coupon Spend $75 on gift cards or e-gift cards and get a $10 off $10 coupon.
 
 Ends May 8.
 
@@ -69,11 +69,11 @@ Shop Fine Jewelry   30 to 40% Off Fashion Accessories For Her
 
 Select styles.
 
-  Shop Fashion Accessories For Her Up to 50% Off Home Sale
+  Shop Fashion Accessories For Her Home Flash Sale | Today Online Only! Extra 30% Off\* $100 or More Or, Extra 25% Off\* Select Home Already Up To 50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds and Shades
 
-Select styles
+Ends May 3 | Code: WESHOP98
 
-Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   JCP Salon 11 For $11 Each - Sexy Hair Styling Products
+\*Exclusions and details: Shop Home Flash Sale JCP Salon 11 For $11 Each - Sexy Hair Styling Products
 
 Offer valid 5/1/16-5/8/16
 
