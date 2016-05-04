@@ -39,17 +39,7 @@ Browse All Locations By Company
 *   UnitedHealth Group
 *   Kelly Service
 
-Browse All Companies Speed up your job search. Let us send you an email with the newest job postings. Email Job Title Location Sending your request... Sorry, an unexpected error has occurred.
-
-Please reload this page or try again later.
-
-Finding a new job just got easier.
-
-You will start receiving emails for new job postings this week.
-
-Start searching now for {job\_title} in {location}.
-
-Start Search Back
+Browse All Companies Back
 
 *   **Job Seekers**
 *   **Help Center**
