@@ -279,7 +279,7 @@ See Albums
 
 The Creator of Sherlock Holmes and a Daring Escape Artist Team Up in This New TV Show
 
-"Houdini &. Doyle" Premieres Tonight on FOX
+Check Out "Houdini &. Doyle"
 
 Close
 
