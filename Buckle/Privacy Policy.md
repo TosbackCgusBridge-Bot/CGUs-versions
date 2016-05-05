@@ -63,7 +63,6 @@ My Bag (0) Wish List Search
     *   International Return Policy
 *   Promotions
     *   Buckle Card Double Points 2016
-    *   Buckle Card Free Waterbottle
     *   Spring Break Away Official Rules 2016
     *   Review Your Blues Sweepstakes Rules
     *   Social Giveaway Official Rules
