@@ -104,7 +104,7 @@ Explore Games
     *   Takeover
     *   Super Mechs
     *   Sniper Team 2
-    *   Mighty Knight 2Spotlight Strike Force Heroes 2
+    *   Mighty Knight 2Spotlight Hero Simulator: Idle Adventure
 *   Adventure
     
     Top Categories
