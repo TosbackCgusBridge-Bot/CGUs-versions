@@ -94,15 +94,15 @@ We have a firm commitment to privacy at timeanddate.com.
 
 This page discloses our information gathering and dissemination practices for this website: **www.timeanddate.com.**
 
-IP Adress and Cookies
+IP Address and Cookies
 
 We use your IP address to help diagnose problems with our server and to administer our website. Your IP address is used to gather broad demographic information. We use cookies to deliver content specific to your interests.
 
 Registration and Servers
 
-If you register with the site, your email address is used as your login name. Your email address will not be sold nor distributed to any third party, but for technical purposes it is shared with vendors working on our behalf. We will only send mail to your email address when you first register with the site, when you request your password to be reset, or for answering support questions.
+If you register with the site, your email address is used as your login name. Your email address will not be sold nor distributed to any third party, but for technical purposes, it is shared with vendors working on our behalf. We will only send mail to your email address when you first register with the site, when you request your password to be reset, or for answering support questions.
 
-Our servers are located in USA, Germany, Singapore, and Norway. We also rely on third parties to host our services and our infrastructure, and to distribute our content. Although we have security measures in place we cannot guarantee full privacy.
+Our servers are located in USA, Germany, Singapore, and Norway. We also rely on third parties to host our services and our infrastructure, and to distribute our content. Although we have security measures in place, we cannot guarantee full privacy.
 
 We recommend that you do not add sensitive information to the calendars.
 
@@ -112,7 +112,7 @@ This site contains links to other sites. timeanddate.com is not responsible for 
 
 Our online surveys may ask visitors for contact information (such as their email address). The customer's contact information is used to contact the visitor when necessary.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. For more information about this practice and your possibility to opt out, click here.
 
 Third-party Privacy Policies
 
@@ -122,7 +122,7 @@ Third-party Privacy Policies
 
 Contacting the Website
 
-If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you can contact:
+If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please contact:
 
 Time and Date AS  
 PO Box 27 Forus  
