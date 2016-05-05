@@ -1,8 +1,8 @@
-Campaign ID: 283562 | Creative: 1\_inyt2016\_bar1\_digi\_may\_sale\_64XLF -- 413246 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Bar1
+Campaign ID: 283562 | Creative: 2\_inyt2016\_bar1\_digi\_may\_sale\_64XLF -- 413258 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Bar1
 
 *   1 of 10 articles read
 *   Subscribe Now The Digital Sale  
-    Ends May 4 **One Year. 60% off.  
+    Ends Today **One Year. 60% off.  
     Unlimited Access.** Save now
 
 Subscribe*   Help
