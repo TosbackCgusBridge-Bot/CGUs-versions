@@ -68,11 +68,11 @@ Privacy Policy | HSW NEXT PAGENEXT  
 
 Up Next
 
+*   HowStuffWorks NOW: Can you really zap your bad habits away?
+*   FW: Thinking: How To Make A Living When Robot's Take Our Jobs
 *   BrainStuff: How Does A Duel Work?
 *   Stuff Mom Never Told You: Beyonce's Lemonade Is Good for Her Marriage
 *   Marcia, Marcia, Marcia!: 'The Brady Bunch' Quiz
-*   'The Brady Bunch' Reunions Quiz
-*   'The Hunger Games' Districts Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Study Argues Systemic Medical Error Is Third Leading Cause of Death in U.S.**
+**Shock Your Bad Habits Away**
 
-**Retweeting Isn't Doing You Any Comprehension Favors**
+**The World Just Had Its First Mind-Controlled Drone Race**
 
-**Goodbye to Allergies? Scientists Discover How to Trick Body's Immune System**
+**Live the Dream, Drive an Excavator at a Construction Theme Park for Adults**
 
 **See More Headlines »**
 
