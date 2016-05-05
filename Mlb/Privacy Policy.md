@@ -1,6 +1,6 @@
 To learn about our efforts to improve the accessibility and usability of our website, please visit our Accessibility Information page. Skip to section navigation or Skip to main content Below is an advertisement. 日本語 Español
 
-Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Fantasy Auction Teams
+Sections Scores News Video Stats Standings Schedule Players Vote Tickets Apps Shop MLB.TV Fantasy Auction Teams
 
 *   Scores
 *   News News News
@@ -92,6 +92,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB Players Association
     *   Probable Pitchers
     *   Franchise Four
+*   Vote
 *   Tickets Tickets Tickets
     *   General Ticket Information
     *   Postseason Ticket Refund Policies
