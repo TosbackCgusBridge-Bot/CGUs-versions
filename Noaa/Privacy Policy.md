@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Sanctua
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms For 11th straight month, the globe was record warm AROUND NOAA // Will droughts turn the Amazon into a giant source of carbon emissions? Dive virtually with the Okeanos Explorer in the Marianas Explorers welcome here: Discover the new NOAA.gov
+Enter Search Terms For 11th straight month, the globe was record warm AROUND NOAA // New West Coast mission investigates ocean acidification threat Will droughts turn the Amazon into a giant source of carbon emissions? Explorers welcome here: Discover the new NOAA.gov
 
 *   About our agency
 *   News and features
