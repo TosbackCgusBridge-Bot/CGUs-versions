@@ -92,7 +92,7 @@ Toggle navigation blog navsite nav
 
 CONTACT Privacy Policy
 
-Last modified on: January 22nd 2016
+Last modified on: May 5th 2016
 
 Welcome to the website of Connexity, Inc. (hereinafter: “Connexity”). This policy aims to inform you as to the type, extent and purpose of the collection and use of personal data during your visit our website. If you have any questions, you can contact us at any time by email or by post. You can find our contact information in our Imprint.
 
