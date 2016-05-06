@@ -3,6 +3,7 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
+    *   Cinco De Mayo
     *   Swim
     *   Bethany Mota
     *   Scene Stealers
@@ -48,6 +49,7 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
+    *   Cinco de Mayo
     *   Spring Looks
     *   Headlining Now
     *   Uniform
