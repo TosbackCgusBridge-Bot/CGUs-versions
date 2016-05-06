@@ -28,7 +28,7 @@ Terms &. Conditions
     BBWD and its affiliates have a no-tolerance policy regarding the use of our trademarks or names in metatags and/or hidden text. Specifically, the use of our trademarks or names in metatag keywords is trademark infringement, and the use of trademarks or names in page text, metatags, and/or hidden text for purposes of gaining higher rankings from search engines is unfair competition. Linking to any page on this Site is prohibited absent express written permission from BBWD. Framing, inline linking or other association of this Site or its or its suppliers software or HTML code, scripts, text, artwork, photographs, images, video, and audio with links, advertisements and/or other information not originating from the BathandBodyWorks.com Web site is expressly prohibited.
 9.  **Third Party Links**  
       
-    Periodically, links may be established from this Site to one or more external web sites or resources operated by third parties (the "Third Party Sites"). These links are provided for your convenience only. In addition, certain Third Party Sites also may, with our written permission, provide links to this Site. None of these links should be deemed to imply that BBWD endorses the Third Party Sites or any content therein. BBWD does not control and therefore would not be responsible for any Third Party Sites or any content, advertising, products, or other materials on or available from such Third Party Sites.
+    Periodically, links may be established from this Site to one or more external web sites or resources operated by third parties (the "Third Party Sites"). These links are provided for your convenience only. In addition, certain Third Party Sites also may, with our written permission, provide links to this Site. None of these links should be deemed to imply that BBWD endorses the Third Party Sites or any content therein. BBWD does not control and therefore would not be responsible for any Third Party Sites or any content, advertising, products, or other materials on or available from such Third Party Sites. Access to any Third Party Sites is at your own risk.
 10.  **Patents**  
       
     One or more patents may apply to this Website, including without limitation: U.S. Patent Nos. 5,528,490. 5,761,649. and 6,029,142.
@@ -43,7 +43,7 @@ Terms &. Conditions
     These Terms and Conditions may be revised at any time and from time to time by updating this posting. You should visit this page from time to time to review the then current Terms and Conditions because they are binding on you. Certain provisions of these Terms and Conditions may be superseded by legal notices or terms located on particular pages of this Site. Your continued use of this Site after any changes to these terms and conditions are posted will be considered acceptance of those changes.
 14.  **Choice of Law. Jurisdiction**  
       
-    These Terms and Conditions supersede any other agreement between you and BBWD to the extent necessary to resolve any inconsistency or ambiguity between them. These Terms and Conditions will be governed by and construed in accordance with the laws of the State of Ohio , without giving effect to any principles of conflicts of laws. Any action seeking legal or equitable relief arising out of or relating to this Site will be brought only in the courts of the State of Ohio or the United States District Court for the Southern District of Ohio. A printed version of these Terms and Conditions will be admissible in judicial and administrative proceedings based upon or relating to these Terms and Conditions to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
+    These Terms and Conditions supersede any other agreement between you and BBWD to the extent necessary to resolve any inconsistency or ambiguity between them. Any action seeking legal or equitable relief arising out of or relating to this Site will be brought only in the courts of the State of Ohio or the United States District Court for the Southern District of Ohio. A printed version of these Terms and Conditions will be admissible in judicial and administrative proceedings based upon or relating to these Terms and Conditions to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
 15.  **Termination**  
       
     You or we may suspend or terminate your account or your use of this Site at any time, for any reason or for no reason. We reserve the right to change, suspend, or discontinue all or any aspect of this Site at any time without notice.
@@ -70,8 +70,10 @@ Our agent for notice of claims of copyright infringement can be reached as follo
 
 By Mail:
 
-Bath and Body Works Direct, Inc.  
-General Counsel's Office  
+Bath and Body Works  
+Direct, Inc.  
+General Counsel's  
+Office  
 c/o L Brands, Inc.  
 Three Limited Parkway  
 Columbus OH 43230
