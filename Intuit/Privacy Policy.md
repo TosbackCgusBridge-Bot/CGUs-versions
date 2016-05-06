@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14771610889
+true true C14774824672
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p20.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Wed May 04 11:00:28 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Thu May 05 11:15:29 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,27 +49,19 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Mother's Day Sale Shop Mother's Day Sale View Store Ad 40% Off Dresses
+¡CELEBRA! It's Cinco De Mayo Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100 Or, Extra 15% Off\* select watches, salon products, furniture, mattresses, custom blinds &. shades
 
-Select styles.
+Today Online Only | Code: BIGDEAL2
 
-Shop Dresses   $10 Express Shipping Anywhere over $75. Order by Noon CDT on 5/5 for delivery by Mother's Day. Get details: Get Your Mother's Day Worth Mother's Day is May 8!   Shop All Mother's Day Gifts Shop Gifts Under $25 Shop Gifts Under $50 Gift Cards and E-Gift Cards | $10 Off $10 Coupon Spend $75 on gift cards or e-gift cards and get a $10 off $10 coupon.
+\*Exclusions and details: Shop Women Shop Men Shop Kids Shop Shoes Shop Handbags Shop Jewelry Shop Bedding Shop Window Get Your Mother's Day Worth Mother's Day is May 8!   Shop All Mother's Day Gifts Shop Gifts Under $25 Shop Gifts Under $50Last Day! $10 Express Shipping Anywhere over $75. Order by Noon CDT today, 5/5, for delivery by Mother's Day. Get details:Gift Cards and E-Gift Cards | $10 Off $10 Coupon Spend $75 on gift cards or e-gift cards and get a $10 off $10 coupon.
 
 Ends May 8.
 
-Get details: Shop Gift Cards   Mother's Day Jewelry Sale Up to 60% Off Fine Jewelry
+Get details: Shop Gift Cards   Red Zone Clearance 80% Off Final Markdowns
 
-Select styles
+Plus! New Markdowns 50 to 70% Off
 
-Shop Fine Jewelry   30 to 40% Off Fashion Accessories For Her
-
-Select styles.
-
-  Shop Fashion Accessories For Her Up to 50% Off Home Sale
-
-Select styles
-
-Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   JCP Salon 11 For $11 Each - Sexy Hair Styling Products
+Shop Clearance JCP Salon 11 For $11 Each - Sexy Hair Styling Products
 
 Offer valid 5/1/16-5/8/16
 
