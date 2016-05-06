@@ -54,11 +54,11 @@ Up to
 
 Impreza 2.0i Limited shown
 
-WRX $26,595 starting price 2016 WRX
+WRX $26,695 starting price 2017 WRX
 
 Starting at
 
-$26,595 MSRP
+$26,695 MSRP
 
 Up to
 
