@@ -18,8 +18,6 @@ Sencha
         *   Cmd
         *   Inspector
         *   Architect
-    *   Management
-        *   Web Application Manager
     *   Sencha Market
 *   Services
     *   Professional Services
@@ -177,7 +175,6 @@ Get Sencha NewsBuy Online
     *   Cmd
     *   Inspector
     *   Architect
-    *   Web Application Manager
     *   Sencha Market
 
 *   Services
