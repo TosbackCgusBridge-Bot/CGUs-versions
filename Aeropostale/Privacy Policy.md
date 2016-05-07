@@ -3,7 +3,6 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
-    *   Cinco De Mayo
     *   Swim
     *   Bethany Mota
     *   Scene Stealers
@@ -15,13 +14,11 @@ Aéropostale
     
     *   TOPS
     *   Graphic Tees
-    *   Throwback Tees
     *   Tees
     *   Camis + Tanks
     *   Polos
     *   Shirts
     *   Hoodies + Sweatshirts
-    *   Sweaters
     *   Active Tops
     
     *   BOTTOMS
@@ -49,7 +46,6 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
-    *   Cinco de Mayo
     *   Spring Looks
     *   Headlining Now
     *   Uniform
