@@ -76,9 +76,9 @@ Your California Privacy Rights
 
 For California Residents: We may share your personally-identifiable information with affiliated third parties, some of which do not share the Kraft name, for their own direct marketing purposes. Because this category of affiliates is considered to be “unaffiliated parties” under California Law, you may opt out of us sharing with them. To opt out, please send a letter with your name, postal address, e-mail, with the heading “California Privacy Rights” to:  
   
-Kraft Foods Group, Inc.  
-Three Lakes Drive  
-Northfield, IL 60093  
+Kraft Heinz Company  
+200 E. Randolph Suite 7600  
+Chicago, IL 60601  
 Attention: Consumer Relations
 
 Links To Other Websites
@@ -107,13 +107,13 @@ How To Contact Us
 
 If you have any questions about this Privacy Notice, you can contact us at:
 
-Kraft Foods Group, Inc.  
-Three Lakes Drive  
-Northfield, IL 60093  
+Kraft Heinz Company  
+200 E. Randolph Suite 7600  
+Chicago, IL 60601  
 Attention: Consumer Relations
 
 1-800-543-5335  
-9 a.m. - 5 p.m. Eastern Time, Monday through Friday, excluding holidays.
+9 a.m. - 6 p.m. Eastern Time, Monday through Friday, excluding holidays.
 
 E-mail us.
 
