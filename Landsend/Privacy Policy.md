@@ -184,7 +184,7 @@
     *   Boys
     
     FEATURED SHOPS
-    *   Swim Tees &. Rashguards
+    *   Swim Tees &. Rash Guards
     *   Water Shoes &. Sandal
     *   Totes &. Beach Bags
     *   Beach Towels
@@ -271,7 +271,7 @@
     
     *   Best-in-Class Polos
     *   Iron Knee Pants
-    *   Phys-ed Locker Room
+    *   Go To Camp
     *   Spiritwear
     *   After School
     *   Sale
@@ -474,7 +474,7 @@
     *   Boys
     
     FEATURED SHOPS Back | Swim
-    *   Swim Tees &. Rashguards
+    *   Swim Tees &. Rash Guards
     *   Water Shoes &. Sandal
     *   Totes &. Beach Bags
     *   Beach Towels
@@ -561,7 +561,7 @@
     
     *   Best-in-Class Polos
     *   Iron Knee Pants
-    *   Phys-ed Locker Room
+    *   Go To Camp
     *   Spiritwear
     *   After School
     *   Sale
