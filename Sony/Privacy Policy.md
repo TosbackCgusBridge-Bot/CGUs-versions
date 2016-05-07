@@ -155,9 +155,9 @@ The Future
 
 Sony on Twitter
 
-Check out the debut of the poster for @PlayStation's #Powers: Season 2. www.ign.com
+Ready Gamers? Our E3 ShowStopper package is NOW OPEN for bidding.
 
-2016-05-03 08:46:44+00:00
+2016-05-06 15:58:01+00:00
 
 View Tweet
 
@@ -243,9 +243,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-We've got a @Outlander\_STARZ fan pack to bid on! sonyrewards.com
+Is May too early to call this @jtimberlake song the Song of the Summer?
 
-2016-05-02 20:23:01+00:00
+2016-05-06 12:22:01+00:00
 
 View Tweet
 
