@@ -112,7 +112,6 @@ My Bag (0) Wish List Search
     *   Corporate Profile
     *   Affiliate Program
     *   Music/Celebrity Sponsorship Requests
-    *   Get Fitted
 *   FAQs
 
 Privacy &. Security
