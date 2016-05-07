@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14774824672
+true true L14862163258
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Thu May 05 11:15:29 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Fri May 06 11:15:31 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,23 +49,91 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-¡CELEBRA! It's Cinco De Mayo Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100 Or, Extra 15% Off\* select watches, salon products, furniture, mattresses, custom blinds &. shades
+Mother's Day Sale In Store and Online | Ends May 8 Shop Mother's Day Sale View Store Ad  Night and Day Doorbusters Friday 3PM CDT through Saturday 1PM CDT
 
-Today Online Only | Code: BIGDEAL2
+Use your coupon to save even more.
 
-\*Exclusions and details: Shop Women Shop Men Shop Kids Shop Shoes Shop Handbags Shop Jewelry Shop Bedding Shop Window Get Your Mother's Day Worth Mother's Day is May 8!   Shop All Mother's Day Gifts Shop Gifts Under $25 Shop Gifts Under $50Last Day! $10 Express Shipping Anywhere over $75. Order by Noon CDT today, 5/5, for delivery by Mother's Day. Get details:Gift Cards and E-Gift Cards | $10 Off $10 Coupon Spend $75 on gift cards or e-gift cards and get a $10 off $10 coupon.
+Shop Doorbusters Doorbuster - 50% Off Worthington Apparel and Dresses
 
-Ends May 8.
+Select styles, orig. $16-$86
 
-Get details: Shop Gift Cards   Red Zone Clearance 80% Off Final Markdowns
+Shop Worthington Doorbuster - 6.99 Stylus, St. John's Bay or a.n.a. Tee
 
-Plus! New Markdowns 50 to 70% Off
+Select styles, orig. $14-$16
 
-Shop Clearance JCP Salon 11 For $11 Each - Sexy Hair Styling Products
+Shop Tees Doorbuster - 14.99 Stylus, St. John's Bay or a.n.a Shorts
+
+Select styles, orig. $30
+
+Shop Shorts Doorbuster - 50% Off Juniors' Dresses, Decree and By &. By Apparel
+
+Select styles, reg. $14-$52
+
+Shop Juniors Doorbuster - 50% Off Plus Apparel
+
+Select styles, orig. $18-$86
+
+Shop Plus Apparel Doorbuster - 40% Off Haircare
+
+Select styles, exclusions apply, orig. $4-$54
+
+Shop Haircare Doorbuster - 14.99 Bras from Playtex, Maidenform and Underscore
+
+Select styles, reg. $25-$38
+
+Shop Bras Doorbuster - 16.99 Capri Pajama Sets for Her
+
+Select styles, available in plus sizes, orig. $50
+
+Shop Pajama Sets Doorbuster - 15.99 Sandals for Her
+
+Select styles, orig. $40-$50
+
+Shop Sandals Doorbuster - 60% Off Wallets for Her
+
+Select styles, orig. $20-$50
+
+Shop Wallets Doorbuster - Up to 70% Off Fine and Fashion Jewelry
+
+Select styles
+
+Shop Jewelry Doorbuster - 39.99 New Balance Shoes for Him and Her
+
+Select styles, msrp. $60-$75
+
+Shop New Balance Doorbuster - 3.99 JCPenney Home 100% Cotton Solid Bath Towel
+
+Select styles, reg. $10
+
+Shop Towels Doorbuster - 50 to 60% Off Sheets
+
+Select styles, reg. $30-$220
+
+Shop Sheets Doorbuster - 9.99, After $10 Mail-In Rebate, Cook's Nonstick Griddle or Programmable Coffee Maker
+
+Sale $19.99, reg. $40-$50, excluded from coupon.
+
+Shop Cook's Small Appliances Doorbuster - 25 to 55% Off Seiko, Citizen, Bulova and More
+
+Select styles, orig. $28-$899
+
+Shop Watches Up to 50% Off Home Sale
+
+Select styles
+
+Shop All Home Shop Comforters and Bedding Sets   Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses Get Your Mother's Day Worth Mother's Day is May 8! Shop All Mother's Day GiftsGift Cards and E-Gift Cards $10 Off $10 Coupon Spend $75 on gift cards or e-gift cards and get a $10 off $10 coupon.
+
+Ends May 8
+
+Get details: Shop E-Gift Cards   JCP Salon | 11 for $11 Each Sexy Hair Styling Products
 
 Offer valid 5/1/16-5/8/16
 
-Shop Now Gift Sephora Shop Beauty Write a Review For Your Chance to Win $1,000 Get Details: Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop Now Gift Sephora Shop Beauty Carter's Baby Sale
+
+Online Only!
+
+Shop Carter's Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
