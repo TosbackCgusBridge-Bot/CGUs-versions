@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Sanctuaries Family members of those lost to USS Conestoga wreck write of gratitude, sadness Oceans &. Coasts May 5: Ask NOAA experts about harmful algal blooms on reddit National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Research Beauty in motion: The jellyfish that's turning heads Sanctuaries Family members of those lost to USS Conestoga wreck write of gratitude, sadness National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Sanctua
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms For 11th straight month, the globe was record warm AROUND NOAA // New West Coast mission investigates ocean acidification threat Will droughts turn the Amazon into a giant source of carbon emissions? Explorers welcome here: Discover the new NOAA.gov
+Enter Search Terms Warm April contributes to second warmest year to date for contiguous U.S. Alaska continues to experience record warmth AROUND NOAA // New West Coast mission investigates ocean acidification threat Will droughts turn the Amazon into a giant source of carbon emissions? Explorers welcome here: Discover the new NOAA.gov
 
 *   About our agency
 *   News and features
