@@ -72,7 +72,7 @@ Up Next
 *   Who Said It? Famous Quotes From the Civil War Quiz
 *   From 'Congo' to 'Jurassic Park': The Michael Crichton Books Quiz
 *   The Birth of Rock: Music of the 1950s Quiz
-*   HowStuffWorks NOW: These Are The Drones You’re Looking For
+*   Who Said It: Groot or Hodor?
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
+**Japanese Corpse Hotels Arise in Response to Super Busy Crematoriums**
+
 **Paranoid Fears Crumble in the Virtual World**
 
 **What's Up With Captain America's Shield?**
-
-**Expectations Color the Ethics of the Powerful, for Good and Bad**
 
 **See More Headlines »**
 
