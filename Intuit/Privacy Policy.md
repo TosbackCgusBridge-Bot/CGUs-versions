@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14863378532
+true true L14869120894
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Sat May 07 10:59:41 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Sun May 08 11:15:30 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,35 +49,39 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Mother's Day Sale Shop Mother's Day Sale View Store Ad40% Off Dresses
+Happy Mother's Day! There's Still Time to Send a Gift!
+
+Buy now for delivery today! Customize with photo or video to redeem in store and online.
+
+Shop E-Gift Cards
+
+Link to site operated by CashStar.
+
+Shop Mother's Day Gifts   Mother's Day Sale Last Day! In Store and Online Shop Mother's Day Sale View Store Ad 30 to 40% Off Dresses
 
 Select styles
 
-Shop Dresses   Get Your Mother's Worth Mother's Day is May 8! Shop Mother's Day Gifts Shop Gifts Under $25 Shop Gifts Under $50Gift Cards and E-Gift Cards $10 Off $10 Coupon Spend $75 on gift cards or e-gift cards and get a $10 off $10 coupon.
-
-Ends May 8
-
-Get details: Shop E-Gift Cards   Mother's Day Jewelry Sale Up to 60% Off Fine Jewelry
+Shop Dresses   Mother's Day Jewelry Sale - Ends May 11 Up to 60% Off Fine Jewelry
 
 Select styles
 
-Shop Fine Jewelry   Up to 50% Off Home Sale
+Shop Fine Jewelry   30% Off Fashion Accessories for Her
+
+Select styles.
+
+  Shop Fashion Accessories Up to 50% Off Home Sale
 
 Select styles
 
-Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   Red Zone Clearance 80% Off Final Markdowns
-
-Plus! New Markdowns 50 to 70% Off
-
-Shop Clearance Shop Women Shop Kids Shop Men Shop Baby Shop Home Shop Jewelry Shop Handbags Shop Shoes JCP Salon 11 For $11 Each - Sexy Hair Styling Products
+Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   Gift Sephora Shop Beauty JCP Salon 11 For $11 Each - Sexy Hair Styling Products
 
 Offer valid 5/1/16-5/8/16
 
-Shop Now Gift Sephora Shop Beauty Carter's Baby Sale
+Shop Now 80% Off Final Markdowns
 
-Online Only!
+Plus! New Markdowns 50 to 70% Off
 
-Shop Carter's Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop Clearance Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
