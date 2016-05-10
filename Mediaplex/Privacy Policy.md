@@ -83,9 +83,9 @@ Loading... Login Let's Connect See What We Do
     
     New partnership with Integral Ad Science
     
-*   Matching People to Devices
+*   Building Consumer Profiles
     
-    We explore the best way to achieve it
+    6 things every marketer should know
     
 *   Ad Quality Guide
     
