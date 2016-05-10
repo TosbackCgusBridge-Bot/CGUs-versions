@@ -1,9 +1,10 @@
 ELECTRONIC ARTS PRIVACY AND COOKIE POLICY  
   
-Effective Date: January 20, 2016  
+Effective Date: May 9, 2016  
   
 
-Previous Privacy and Cookie Policy: Effective Date: June 28, 2013  
+Previous Privacy and Cookie Policy: Effective Date: January 20, 2016  
+Effective Date: June 28, 2013  
 Effective Date: July 31, 2012
 
   
@@ -40,8 +41,6 @@ EA and its subsidiary companies know that you care how information about you is 
 If you reside in the United States, Canada or Japan, these terms are an agreement between you and Electronic Arts Inc.  If you reside in any other country, then these terms are an agreement between you and Electronic Arts Swiss Sàrl.  
   
 This policy also applies to TRUSTe certified EA Websites. To view a list of these Validated EA Websites, please visit www.TRUSTe.com. In addition, EA owns several other domain names that point to the websites referenced above. We may also add new sites that are subject to this privacy policy and that list will be updated to include those. Please note that this policy applies only to sites maintained by EA, and not to websites maintained by other companies or organizations to which we link.  
-  
-EA complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from European Union member countries and Switzerland.   EA has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view EA's certification, please visit http://www.export.gov/safeharbor.  
   
 II.    EA's Site Is TRUSTe Certified  
   
@@ -189,7 +188,7 @@ VII.    Where Is The Information Held?
   
 Personal Information we collect may be stored and processed for the purposes set out in this Privacy Policy in the United States or any other country in which EA, its subsidiaries, or third party agents operate. By using our products, you consent that your personal information may be transferred to recipients in the United States and other countries that may not offer the same level of privacy protection as the laws in your country of residence or citizenship.  
   
-We comply with the U.S.-Swiss Safe Harbor Framework for the collection, use, and retention of data from Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit http://www.export.gov/safeharbor.  Where necessary, EA adopts contractual measures to adequately protect Personal Information transferred outside of the EEA in line with relevant laws.  
+EA participates in the U.S.-Swiss Safe Harbor Framework for the collection, use, and retention of data from Switzerland. While EA relies on various mechanisms to effectuate cross-border transfers, we continue to adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit http://www.export.gov/safeharbor.  
   
 VIII.    How Does EA Protect Your Personal Information?  
   
@@ -287,4 +286,4 @@ The right to attorneys' fees and expenses discussed above supplements any right 
   
 **G. Changes to This Provision.**  Notwithstanding any provision in this Agreement to the contrary, we agree that if EA makes any future change to this arbitration provision (other than a change to the Notice Address), you may reject any such change by sending us written notice within 30 days of the change to the Arbitration Notice Address provided above.  By rejecting any future change, you are agreeing that you will arbitrate any dispute between us in accordance with the language of this provision.  
   
-Version 54402\_10
+Version 54402\_11
