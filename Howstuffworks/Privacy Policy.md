@@ -68,11 +68,11 @@ Privacy Policy | HSW NEXT PAGENEXT  
 
 Up Next
 
+*   Stuff You Should Know: Internet Roundup: The Brain on LSD &. Flint's Water Crisis
+*   The North American Geography Quiz
+*   'The Brady Bunch' Characters Quiz
 *   Stuff They Don't Want You to Know: Who was the Original Night Stalker?
 *   HowStuffWorks NOW: Paranoia Got You Down? Slip on some Virtual Reality Goggles
-*   Who Said It? Famous Quotes From the Civil War Quiz
-*   From 'Congo' to 'Jurassic Park': The Michael Crichton Books Quiz
-*   The Birth of Rock: Music of the 1950s Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Japanese Corpse Hotels Arise in Response to Super Busy Crematoriums**
+**We Love What John Oliver Just Said About Science**
 
-**Paranoid Fears Crumble in the Virtual World**
+**Hear and Now: The Pavlok, Paranoia and Persistent Drones**
 
-**What's Up With Captain America's Shield?**
+**The Two Basic Steps to Put Your Own Face on U.S. Money**
 
 **See More Headlines »**
 
