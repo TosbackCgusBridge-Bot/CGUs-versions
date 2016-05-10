@@ -1,6 +1,6 @@
-Find the Perfect Mother's Day Gift!
+Buckle Cardholders, earn double rewards!
 
-Shop Gifts for Mom.
+See details.
 
 Guest Services 800-607-9788
 
