@@ -1,8 +1,8 @@
 Terms of Service
 
-Last Updated: April 22, 2016
+Last Updated: May 9, 2016
 
-\*\*PLEASE READ THIS DOCUMENT CAREFULLY. Vimeo, LLC ("Vimeo," "we," or "us") offers an online video sharing platform and community through its website located at Vimeo.com and other Vimeo-operated sites (collectively, the "Vimeo Site"), mobile applications, connected TV applications, and other online services (collectively and including the Vimeo Site, the "Vimeo Service"). By registering as a member or by using the Vimeo Service in any way, you accept these Terms of Service ("Agreement"), which forms a binding agreement between you and Vimeo. If you do not wish to be bound by this Agreement, do not use the Vimeo Service. \*\*
+\*\*PLEASE READ THIS DOCUMENT CAREFULLY. Vimeo, Inc. ("Vimeo," "we," or "us") offers an online video sharing platform and community through its website located at Vimeo.com and other Vimeo-operated sites (collectively, the "Vimeo Site"), mobile applications, connected TV applications, and other online services (collectively and including the Vimeo Site, the "Vimeo Service"). By registering as a member or by using the Vimeo Service in any way, you accept these Terms of Service ("Agreement"), which forms a binding agreement between you and Vimeo. If you do not wish to be bound by this Agreement, do not use the Vimeo Service. \*\*
 
 Content
 
@@ -173,7 +173,7 @@ All pictures, graphics, videos, and other visual media displayed on the Vimeo Se
 
 **NOTICES:** You consent to receive all communications including notices, agreements, disclosures, or other information from Vimeo electronically. Vimeo may provide all such communications by email or by posting them on the Vimeo Service. For support-related inquiries, you may contact us. You may send notices of a legal nature to Vimeo at legal\[at\]vimeo\[dot\]com or the following address:
 
-> Vimeo, LLC 555 West 18th Street New York, New York 10011 Attention: Legal Department
+> Vimeo, Inc. 555 West 18th Street New York, New York 10011 Attention: Legal Department
 
 Nothing herein shall limit Vimeo's right to object to subpoenas, claims, or other demands.
 
