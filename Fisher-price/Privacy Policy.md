@@ -91,7 +91,7 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
         Learn more >.
     *   Learn more
     
-    More to explore:
+    MORE TO EXPLORE
     
     *   Email Sign Up
     *   Birthday Party Ideas
