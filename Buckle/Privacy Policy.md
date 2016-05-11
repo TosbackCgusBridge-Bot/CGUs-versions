@@ -102,6 +102,7 @@ My Bag (0) Wish List Search
     *   Team Highlights
     *   Ratings &. Reviews
     *   Personal Shopping
+    *   buckle SELECT
     *   Store Locator
     *   Investor Information
     *   Vendor Compliance
