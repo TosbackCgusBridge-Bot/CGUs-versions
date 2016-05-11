@@ -6,7 +6,7 @@
 Your Cart (0) Search Catalog Search Catalog Navigation
 
 *   Gifts
-    *   Father's Day Favorites
+    *   Father's Day Gifts
         *   Gifts for Dad
     *   Gift Boxes
     *   Gift Baskets and Towers
@@ -58,7 +58,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 Menu Search Stores Cart Gifts Sausage &. Cheese
 
 *   Gifts
-    *   Father's Day Favorites
+    *   Father's Day Gifts
         *   Gifts for Dad
     *   Gift Boxes
     *   Gift Baskets and Towers
