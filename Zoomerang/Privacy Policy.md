@@ -1,3 +1,17 @@
+I'm looking for product
+
+*   Any
+
+in a size size
+
+*   Any
+
+. Show me the colour
+
+*   Any
+
+items. Super Search
+
 *   CONTACT
 *   HOME
 *   SOLUTIONS
@@ -21,6 +35,8 @@
 *   CLIENT LOGIN
     *   METRIXLAB
     *   MARKETTOOLS
+
+MetrixLab MetrixLab | Predicting People
 
 OUR MISSION IS TO CHANGE THE WAY MARKETING RESEARCH IS USED TO GENERATE INSIGHTS THAT IMPACT BUSINESS DECISIONS
 
