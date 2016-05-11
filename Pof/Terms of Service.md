@@ -150,4 +150,4 @@ POF France
 POF Spain  
 POF Germany
 
-Copyright 2001-2016 Plentyoffish Media Inc. POF, PLENTYOFFISH, PLENTY OF FISH and PLENTY OF are registered trademarks of Plentyoffish Media Inc.
+Copyright 2001-2016 Plentyoffish Media ULC POF, PLENTYOFFISH, PLENTY OF FISH and PLENTY OF are registered trademarks of Plentyoffish Media ULC
