@@ -86,9 +86,9 @@ Reporting Security Vulnerabilities
 
 If you believe you have found a security vulnerability with one of our products or services, please email your security concern to securityconcern@email.progressive.com.
 
-Back
+ Back
 
-Back
+ Back
 
 *   Home
 *   Privacy &. Security
@@ -142,7 +142,7 @@ Copyright 1995 - 2016. Progressive Casualty Insurance Company. All Rights Reserv
 
 Search / Keywords
 
-We offer insurance by phone, online and through independent agents. Prices vary based on how you buy. Rates for policies sold through agents and brokers are available, and can also be retrieved, through ProgressiveAgent.com or via the Find a Local Agent button.
+We offer insurance by phone, online and through independent agents. Prices vary based on how you buy.
 
 *   Insurance
     *   Vehicle &. Recreational
@@ -202,9 +202,9 @@ We offer insurance by phone, online and through independent agents. Prices vary 
 *   About
     *   Who We Are
         *   About Progressive
-        *   Company Overview
         *   History
         *   Leadership
+        *   Local Agents
     *   Media &. Investors
         *   Investor Relations
         *   Newsroom
