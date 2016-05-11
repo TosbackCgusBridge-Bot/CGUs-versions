@@ -62,6 +62,8 @@ To enable your participation in Khan Academy partnership arrangements.
 
 Khan Academy will not share Personal Information with other third-party organizations for their marketing or promotional use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in. You can grant us permission to share your Personal Information with authorized partners, not-for-profit organizations, and other entities that are not affiliated with Khan Academy. In these cases, we will only provide to these third parties the information you have authorized or asked us to share to these third parties.
 
+If you participate in special programs, Khan Academy may collect personal information from you to facilitate those programs. For example, LearnStorm participants may be asked to provide information related to event logistics and prize awarding and processing (e.g., contact information, dietary restrictions, shirt sizes, etc.), and College Board program participants may provide information regarding study habits and test scores (e.g., the number of hours studied, modules or tests taken, scores earned, etc.). This information may be shared with our program partners for research or evaluation purposes or as otherwise permitted under this Privacy Notice.
+
 Khan Academy may send information or offers to you on behalf of these third parties. For example, if we partner with a not-for-profit organization running a contest in your region and send you an email notifying you of the partnership, we will only share your information with the third party if you opt-in to participate in the contest, and if so, the information we would share would be limited to that needed to facilitate your participation in the contest and enable you to redeem your prize.
 
 Data Retention.
@@ -93,6 +95,10 @@ Some of our Users choose to connect their Khan Academy account with social netwo
 We may share data with third-party applications that you authorize.
 
 Third-party application developers and service providers (commonly known as “App Developers“) may build complementary services for our platform, such as a mobile application for visually-impaired learners to access our resources. You may request we share your information with App Developers by connecting to the application or service and approving access to your Khan Academy account. Khan Academy has taken steps to try to ensure the safety of information accessed by App Developers and requires App Developers to comply with our API Terms of Service and this Privacy Notice.
+
+We may share data in connection with special programs you participate in.
+
+If you participate in special programs where Khan Academy partners with third parties, Khan Academy may share data collected from or about you with its third party partners to facilitate the program or services being offered. For instance, if you participate in Khan Academy’s program with College Board, Khan Academy may share information regarding your study habits, tests taken, and test scores with College Board.
 
 We may share anonymous or aggregate data to improve our services and learn more about our Users.
 
