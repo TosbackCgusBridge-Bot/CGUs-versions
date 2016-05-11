@@ -1,8 +1,8 @@
 Privacy Policy Home » About Us » Privacy Policy
 
-Effective as of February 4, 2016
+Thank you for using our services. This privacy policy will go into effect on May 20, 2016. The current privacy policy is located here.
 
-The WSI Corporation (sometimes, "we" or "us") is committed to protecting your privacy. This Privacy Policy is important and we encourage you to carefully read it.
+The WSI Corporation, an IBM business, (sometimes, "we" or "us") is committed to protecting your privacy. This Privacy Policy is important and we encourage you to carefully read it.
 
 This Privacy Policy discloses how we collect, use and share information that we gather about you on the intellicast.com website (the "**Site**") and our software applications, mobile applications and other websites and services that reference or link to this Privacy Policy (together, the "**Services**"). This Privacy Policy also describes the choices you have regarding our use of and your ability to correct the information. The Services do not include websites, mobile applications or other services that link to another privacy policy.
 
@@ -69,7 +69,7 @@ A. _Our Use of Cookies, Web Beacons, Single-pixel Gifs, and Information Saved by
 We and third parties acting on our behalf use various technologies that help us to manage the operations of our Services and track usage behavior so that we can tailor information and advertisements to make your visits more enjoyable and meaningful. These data collection technologies include:
 
 *   **Cookies**: Cookies are text files containing small amounts of information that are downloaded to your computer or mobile device when you visit a website and stored within your browser. Cookies are then sent back to the originating website on each subsequent visit to that website or to another website that recognizes those cookies. Some cookies on our Services collect IP and Mac addresses, which may be considered personal data in some jurisdictions. Cookies are useful because they allow a website to recognize a user's device. If you have registered for a user account on the Site, these cookies may let us know who you are, may be necessary to access your account information, and may provide us and our service providers with information that we will use to personalize the Services in accordance with your preferences. You can find more information about cookies at www.allaboutcookies.org.
-*   **Web beacons and GIFs**: Certain pages on the Services contain web beacons (also known as web bugs, pixel tags and clear GIFs). A pixel tag is an electronic image, often a single pixel (1x1), which is ordinarily not visible to users and may be associated with cookies on users hard drives. A pixel tag allows us to understand which pages you visit on the Services and are used to help us optimize and tailor the Services for you and other future visitors to the website. Web beacons allow third parties to obtain information, such as the IP address of the computer that downloaded the page on which the web beacon appears, the URL of the page on which the web beacon appears, the time the page containing the web beacon was viewed, the type of browser used to view the page, and the information in cookies sent by the third party.
+*   **Web beacons and GIFs**: Certain pages on the Services contain web beacons (also known as web bugs, pixel tags and clear GIFs). A pixel tag is an electronic image, often a single pixel (1x1), which is ordinarily not visible to users and may be associated with cookies on users' hard drives. A pixel tag allows us to understand which pages you visit on the Services and are used to help us optimize and tailor the Services for you and other future visitors to the website. Web beacons allow third parties to obtain information, such as the IP address of the computer that downloaded the page on which the web beacon appears, the URL of the page on which the web beacon appears, the time the page containing the web beacon was viewed, the type of browser used to view the page, and the information in cookies sent by the third party.
 *   **Local Storage**: We use local storage, such as HTML5 Local Storage, to enhance user experience by, for example, storing your user preferences and settings (e.g., volume/mute) in connection with animated content on the Services. Local storage is similar to browser cookies but can store data more complex than simple text. By itself, local storage cannot do anything to or with the data stored on your device. Like cookies, local storage can only access personal data that you have provided on the Services.
 
 Information that we collect via the data collection technologies described in this section may be linked to other information about you and may be personal data. We use the technologies described in this section, alone or in combination, to provide, manage and administer the Services, understand user behavior, target and measure the effectiveness of advertisements, help diagnose problems, recognize repeat visitors, track and analyze usage behavior and, facilitate your access to and use of the Services.
@@ -84,19 +84,9 @@ Ad Partners may place cookies, web beacons and/or other data collection technolo
 
 This Privacy Policy does not cover the practices of our Ad Partners. While we work with Ad Partners to improve user experience, we do not control Ad Partners' technologies. For more information about technologies and how they use the information collected by the technologies on the Services and your options not to accept cookies placed by some of Ad Partners on the Services, please visit the DAA's opt-out page
 
-In addition, you can visit the opt-out pages of these Ad Partners that use data collection technologies on the Services:
+In addition, you can find the links to our Ad Partners that may use data collection technologies on the Services here.
 
-*   DoubleClick: www.google.com/doubleclick
-*   Nielsen: www.nielsen-netratings.com/privacy/sitecensus.htm
-*   Quantcast: www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/
-*   Lotame: www.lotame.com/opt-out-preference-manager
-*   Amazon: www.amazon.com/gp/dra/info
-*   Criteo: www.criteo.com/privacy/
-*   Factual: www.factual.com/privacy/opt-out
-*   Telium: tealium.com/privacy/
-*   OpenX: openx.com/legal/
-
-You may also opt-out of additional third-party advertising networks by going to the Network Advertising Initiative's website and following the directions.
+You may also opt-out of additional third-party advertising networks by going to the Network Advertising Initiative's website at www.networkadvertising.org and following the directions.
 
 The DAA offers AppChoices, a separate choice tool for users to exercise control over the collection and use of data through mobile applications for interest-based advertising and other related uses. To exercise choice for participating companies, you can install the DAA's AppChoices application on your mobile device. Visit here for more information on DAA's AppChoices tool.
 
@@ -106,16 +96,13 @@ You can also opt-out of future information collection from the Services by ceasi
 
 C. _Use of Cookies by Third Parties for Analytics_
 
-We contract with certain third parties that use data collection technologies to track, analyze and report data about the use of the Services and to analyze and optimize the performance of the Services. Information about these third parties is available at the following links:
-
-*   Adobe: www.adobe.com/privacy.html
-*   Localytics: www.localytics.com/privacy-policy/
-*   comScore and Scorecard Research: www.scorecardresearch.com/About.aspx
-*   Google Analytics: www.google.com/analytics/learn/privacy.html
+We contract with certain third parties that use data collection technologies to track, analyze and report data about the use of the Services and to analyze and optimize the performance of the Services. Information about these third parties is available here.
 
 3\. How We Share or Disclose Your Information
 
-One of the most valuable assets of our business is you. Except as described below, we do not rent or sell personal data about you with other people or non-affiliated companies.
+One of the most valuable assets of our business is you. As part of the Services, we will prepare and maintain aggregated information collected from the Services and use it for our business purposes. This aggregated information will not contain identifiers that identify you or other individuals.
+
+Except as described below, we do not rent or sell personal data about you with other people or non-affiliated companies.
 
 A. _Third-Party Processors_. When your personal data is collected on the Services, it may be shared with selected third parties who assist us with our business operations, with the provision of the Services, with our marketing or advertising campaigns, or in delivering you the features and functionality that you have requested ("**Third-Party Processors**"). These Third-Party Processors include companies that process credit card information, handle shipping for us, and deliver materials to you via e-mail or postal service, for example. We also may provide personal data to third-party mapping service providers to provide you with map content for the Services. Third-Party Processors are authorized to use the personal data that we provide to them only to carry out the service they are providing for us. We require the Third-Party Processors by contract to secure your personal data and maintain it so that it can be accessed when needed for future purposes. All such Third-Party Processors are contractually bound by us to keep the personal data confidential.
 
@@ -137,15 +124,15 @@ We, our affiliates, or our Third-Party Processors may disclose your personal dat
 
 5\. Opting-Out, Access, Corrections and Cancellations
 
-If you have registered a user account with us, you may reset your password, update your personal data, correct information, delete your account or opt-out of certain Services, by accessing your account or you may contact us directly here, subject to certain exceptions prescribed by law.
+If you have registered a user account with us, you may reset your password, update your personal data, correct information, delete your account or opt-out of certain Services, by accessing your account or you may contact us directly by sending us a letter to the address listed below, subject to certain exceptions prescribed by law.
 
 You may have the right to access, update, and correct inaccuracies in certain of your personal data in our custody and control, subject to certain exceptions prescribed by law. You may request to access, update and correct inaccuracies in personal data we have in our custody or control by writing to us at the contact information set out below. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to his or her personal information records.
 
 6\. Minors' Privacy and Submissions
 
-We are committed to protecting the safety and privacy of young people using the Internet. We do not knowingly collect personal data from children under age 13. We believe that children should get their parents or guardians consent before giving out any personal data. If you become aware that we have collected personal data from a child without parental consent, please notify us promptly here. If we become aware that a child under age 13 has provided us with personal data without parental consent, we will take steps to remove such personal data.
+We are committed to protecting the safety and privacy of young people using the Internet. We do not knowingly collect personal data from children under age 13. We believe that children should get their parents or guardians consent before giving out any personal data. If you become aware that we have collected personal data from a child without parental consent, please notify us promptly by sending us a letter to the address listed below. If we become aware that a child under age 13 has provided us with personal data without parental consent, we will take steps to remove such personal data.
 
-If you are a California resident under age 18 and are a registered user of any of the Services, then you may request that we remove any Submissions that you publicly posted on or in the Services. To request removal of a Submission, please contact us here with a detailed description of the specific Submission. We reserve the right to request that you provide information that will enable us to confirm that the Submission that you want removed was created and posted by you.
+If you are a California resident under age 18 and are a registered user of any of the Services, then you may request that we remove any Submissions that you publicly posted on or in the Services. To request removal of a Submission, please contact us by sending us a letter to the address listed below with a detailed description of the specific Submission. We reserve the right to request that you provide information that will enable us to confirm that the Submission that you want removed was created and posted by you.
 
 We will make a good faith effort to delete or remove your Submission from public view as soon as reasonably practicable. Please note, however, that your request that we delete your Submission does not ensure complete or comprehensive removal of your Submission. Your Submission may remain on backup media, cached or otherwise retained by us for administrative or legal purposes or your Submission may remain publicly available if you or someone else has forwarded or re-posted your Submission on another website or service prior to its deletion. We may be required by law to not remove or allow removal of your Submission.
 
@@ -161,9 +148,6 @@ We have put in place physical, electronic and managerial procedures intended to 
 
 We reserve the right to change our Privacy Policy as business needs require. If we decide to change our Privacy Policy, we will post those changes here prior to the time they take effect. If we make material changes to the way we use personal data, affected users who have provided us with an e-mail address will be notified via e-mail.
 
-Contact Us  
-or  
-WSI Corporation  
-Intellicast Customer Care  
+Intellicast Customer Care/Privacy Office  
 400 Minuteman Road  
 Andover, MA 01810
