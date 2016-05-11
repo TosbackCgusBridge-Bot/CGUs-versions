@@ -6,6 +6,7 @@ Sports Illustrated PRIVACY POLICY Table of Contents
 *   Your California Privacy Rights: Notice to California Customers
 *   Collection of Information by Third-Party Sites and Sponsors
 *   Cookies
+
 *   Our Commitment to Security
 *   Accessing, Correcting, and Deleting Your Personal Information
 *   Retention of Personal Information
@@ -94,7 +95,7 @@ To enhance your experience on our Services, we may place "cookies" on your compu
 
 We use cookies (and Local Shared Objects, HTML5, cache cookies, web beacons, or clear gifs, all described further below) to understand usage of the Services and to improve our content and offerings and to deliver advertisements that you might be interested in. For example, we may use cookies to personalize your experience on our Services (e.g., to recognize you by name when you return to our site, to save your password in password-protected areas, to enable shopping carts, or to tailor content or product and service offerings).
 
-Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you have refused cookies or similar tracking technologies and you should be aware that disabling cookies or similar tracking technologies might prevent you from accessing some of our content. However, your viewing of editorial content may be hampered. If you wish to block cookies, go to http://www.allaboutcookies.org/ to find out how, or check your browser.s instructions.
+Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you have refused cookies or similar tracking technologies and you should be aware that disabling cookies or similar tracking technologies might prevent you from accessing some of our content. However, your viewing of editorial content may be hampered. If you wish to block cookies, go to http://www.allaboutcookies.org/ to find out how, or check your browser's instructions.
 
 _Local Shared Objects_: Local shared objects, such as .Flash cookies,. also may be stored on your computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings. For information on managing Flash cookies, for example, see http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html.
 
