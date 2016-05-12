@@ -318,31 +318,75 @@ The headings in these Terms of Service are for convenience only and have no lega
 
 We may terminate these Terms of Service for any or no reason at any time by notifying you through a notice on the Website, by email, or by any other method of communication. Any such termination will be without prejudice to our rights, remedies, claims, or defenses hereunder. Upon termination of the Terms of Service, you will no longer have a right to access your account or your Content. We will not have any obligation to assist you in migrating your data or your Content and we may not keep any back up of any of your Content. We will not be not responsible for deleting your Content. Note that, even if your Content is deleted from our active servers, it may remain in our archives (but we have no obligation to archive or back-up your Content), and subject to the licenses set forth in these Terms of Service.
 
-TUBE8 - DMCA DMCA Notice of Copyright Infringement
+TUBE8 - DMCA Reporting Claims of Copyright Infringement
 
-It is our policy to respond to notices of alleged infringement that comply with the Digital Millennium Copyright Act (For content of the act please refer to http://www.copyright.gov) and/or any other applicable intellectual property legislation or laws. Responses may include removing or disabling access to material claimed to be the subject of infringing activity and/or terminating subscribers. If we remove or disable access in response to such a notice, we will make a good-faith attempt to contact the owner of the affected content so that they may make a counter notification pursuant to sections 512(g)(2) and (3) of that Act. It is our policy to document all notices of alleged infringement on which we act.
+We take claims of copyright infringement seriously. We will respond to notices of alleged copyright infringement that comply with the Digital Millennium Copyright Act (the "DMCA") or any other applicable intellectual property legislation or laws. Responses may include removing, blocking or disabling access to material claimed to be the subject of infringing activity, terminating the user’s access to http://www.tube8.com/ ("**Tube8**"), or all of the foregoing.
 
-The copyright owner's name may be published on Tube8 in place of disabled content. This will become part of the public record of your DMCA Notice, along with your description of the work(s) allegedly infringed. All the information provided in a DMCA Notice and/or the actual DMCA Notice (including your personal information) may be forwarded to the uploader of the allegedly infringing content. By submitting a DMCA Notice, you consent to having your information revealed in this way.
+If you believe any material accessible on Tube8 infringes your copyright, you may submit a copyright infringement notification (see below, "Filing a DMCA Notice of Copyright Infringement" for instructions on filing such a notice). These requests should only be submitted by the copyright owner or an agent authorized to act on the owner’s behalf.
 
-To file a notice of infringement with us, you can submit the notification through the form provided here. This method is the fastest method for submission:
+If we remove or disable access to material in response to such a notice, we will take reasonable steps to notify the user that uploaded the affected content material that we have removed or disabled access to so that the user has the opportunity to submit a counter notification (see below, "Counter-Notification Procedures" for instructions on filing a counter notification). It is our policy to document all notices of alleged infringement on which we act.
 
-http://www.copyrightcomplianceagency.com/s/tube8.com
+All copyright infringement notifications and counter-notifications must be written in English. Any attempted notifications written in foreign languages or using foreign characters may, at our discretion, be deemed non-compliant and disregarded.
 
-This form is designed to help the copyright owners identify their content accurately and help speed up the process of content take-down should such material proved to be infringing upon the rights of the IP owner.
+Filing a DMCA Notice of Copyright Infringement
 
-Please note that you will be liable for damages (including court costs and attorneys' fees) if you materially misrepresent that a product or activity is infringing your copyrights.
+If you choose to request removal of content by submitting an infringement notification, please remember that you are initiating a legal process. **Do not make false claims. Misuse of this process may result in the suspension of your account or other legal consequences.**
 
-If you would prefer to submit your claim by postal mail or email, please provide us with all information required by the Digital Millennium Copyright Act and send your notice to the following addresses:
+In accordance with the DMCA, the written notice (the "**DMCA Notice**") must include substantially the following:
 
-**Attn:**  
-Legal Team at Copyright Compliance Agency  
-Equity House  
-84 Albert Street  
-Belize City,  
-Belize  
-tube8.com@copyrightcomplianceagency.com
+*   Identification of the copyrighted work you believe to have been infringed or, if the claim involves multiple works, a representative list of such works.
+*   Identification of the material you believe to be infringing in a sufficiently precise manner to allow us to locate that material. If your complaint does not contain the specific URL of the video you believe infringes your rights, we may be unable to locate and remove it. General information about the video, such as a channel URL or username, is typically not adequate. Please include the URL(s) of the exact video(s).
+*   Adequate information by which we, and the uploader(s) of any video(s) you remove, can contact you (including your name, postal address, telephone number and, if available, e-mail address).
+*   A statement that you have a good faith belief that use of the copyrighted material is not authorized by the copyright owner, its agent or the law.
+*   A statement that the information in the written notice is accurate, and under penalty of perjury, that you are the owner, or an agent authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed.
+*   Complete complaints require the physical or electronic signature of the copyright owner or a representative authorized to act on their behalf. To satisfy this requirement, you may type your full legal name to act as your signature at the bottom of your complaint.
 
-**Please note:** Copyright Compliance Agency cannot guarantee recipient of all mail unless it is sent by registered mail. Submitting your notice through any means other than the form may slow down the process of investigation of claims.
+Our designated copyright agent to receive DMCA Notices is:  
+Lawrence G. Walters  
+**Walters Law Group**  
+195 W. Pine Ave.  
+Longwood, FL 32750  
+Email: copyright@tube8.com
+
+_Please do not send other inquiries or requests to our designated copyright agent. Absent prior express permission, our designated copyright agent is not authorized to accept or waive service of formal legal process, and any agency relationship beyond that required to receive valid DMCA Notices or Counter-Notices (as defined below) is expressly disclaimed._
+
+If you fail to comply with all of the requirements of Section 512(c)(3) of the DMCA, your DMCA Notice may not be effective.
+
+Please be aware that if you knowingly materially misrepresent that material or activity on Tube8 is infringing your copyright, you may be held liable for damages (including costs and attorneys’ fees) under Section 512(f) of the DMCA.
+
+The copyright owner’s name will be published on Tube8 in place of disabled content. This will become part of the public record of your DMCA Notice, along with your description of the work(s) allegedly infringed. All the information provided in a DMCA Notice, the actual DMCA Notice (including your personal information), or both may be forwarded to the uploader of the allegedly infringing content. By submitting a DMCA Notice, you consent to having your information revealed in this way.
+
+Counter-Notification Procedures
+
+If you have received a DMCA Notice and believe that material you posted on Tube8 was removed or access to it was disabled by mistake or misidentification, you may file a counter-notification with us (a "**Counter-Notice**"). Counter notifications must be submitted by the video’s original uploader or an agent authorized to act on their behalf.
+
+Counter-notices must be sent to our designated agent:  
+Lawrence G. Walters  
+**Walters Law Group**  
+195 W. Pine Ave.  
+Longwood, FL 32750  
+Email: copyright@tube8.com
+
+_Please do not send other inquiries or requests to our designated copyright agent. Absent prior express permission, our designated copyright agent is not authorized to accept or waive service of formal legal process, and any agency relationship beyond that required to receive valid DMCA Notices or Counter-Notices is expressly disclaimed._
+
+Pursuant to the DMCA, the Counter-Notice must include substantially the following:
+
+*   Your name, address, phone number and physical or electronic signature.
+*   Identification of the allegedly infringing content and its location before removal or access to it was disabled.
+*   A statement under penalty of perjury that you believe in good faith that the content was removed by mistake or misidentification. and
+*   A statement that you consent to the jurisdiction of the U.S. Federal District Court for the judicial district in which you are located (or if you are outside the U.S., for any judicial district in which the operator of Tube8 may be found), and that you will accept service of process from the person who originally provided us with the DMCA Notice or an agent of such person.
+
+We will not respond to Counter-Notices that do not meet the requirements set out above.
+
+After we receive your Counter Notice, we will forward it to the party who submitted the original DMCA Notice and inform that party that the removed material may be restored after 10 business days but no later than 14 business days from the date we received your Counter Notice, unless our Designated Agent first receives notice from the party who filed the original DMCA Notice informing us that such party has filed a court action to restrain you from engaging in infringing activity related to the material in question.
+
+Please note that when we forward your Counter Notice, it will include your personal information. By submitting a counter notification, you consent to having your information revealed in this way. We will not forward the counter notification to any party other than the original claimant or to law enforcement or parties that assist us with enforcing and protecting our rights.
+
+Please be aware that if you knowingly materially misrepresent that material or activity on Tube8 was removed or disabled by mistake or misidentification, you may be held liable for damages (including costs and attorneys’ fees) under Section 512(f) of the DMCA.
+
+Repeat Infringers
+
+In accordance with the DMCA and other applicable law, we have adopted a policy of terminating or disabling, in appropriate circumstances and at our sole discretion, the accounts of users who are deemed to be repeat infringers. We may also at our sole discretion limit access to Tube8, terminate or disable the accounts of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
 
 TUBE8 - PRIVACY POLICY
 
