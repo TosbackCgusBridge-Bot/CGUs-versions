@@ -227,13 +227,19 @@ Email Us
 FAQs  
 Site Map  
 International Shipping  
+Blair Accessibility Policy  
+California Transparency  
+in Supply Chain Act
 
 Customer Service
 
 Email Us  
 international@blair.com  
 International Shipping  
+Blair Accessibility Policy  
 Site Map  
+California Transparency  
+in Supply Chain Act
 
 About Us
 
@@ -243,8 +249,9 @@ Privacy Policy
 Terms of Use  
 The Blair Story  
 Career Opportunities  
-Our Stores  
-Blair Credit Card
+Retail Store  
+Blair Credit Card  
+Blair Affiliates
 
 Shopping Services
 
