@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Warm April contributes to second warmest year to date for contiguous U.S. Alaska continues to experience record warmth AROUND NOAA // New West Coast mission investigates ocean acidification threat See more than stars: Spotting NOAA satellites in the sky Explorers welcome here: Discover the new NOAA.gov
+Enter Search Terms Warm April contributes to second warmest year to date for contiguous U.S. Alaska continues to experience record warmth AROUND NOAA // NOAA’s premier forecast model goes 4-D See more than stars: Spotting NOAA satellites in the sky Explorers welcome here: Discover the new NOAA.gov
 
 *   About our agency
 *   News and features
