@@ -68,11 +68,11 @@ Privacy Policy | HSW NEXT PAGENEXT  
 
 Up Next
 
+*   HowStuffWorks NOW: Your Brain Sleeps with One Eye Open in New Places
+*   Home of The King: The Graceland Quiz
 *   BrainStuff: How Do We Grow Hard Bones From Soft Tissue?
 *   Stuff Mom Never Told You: The Science of Ugly Crying
 *   HowStuffWorks: Black Panther’s Return With Artist Brian Stelfreeze
-*   The King of Rock 'n' Roll: The Elvis Presley Songs Quiz
-*   The Man in Black: Johnny Cash Quiz
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -292,11 +292,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**The Galaxy Just Got More Crowded**
+**'Rogue One' Spoiler May Have Improved 'Rogue One'**
 
-**Interviewing the Artist Behind the New Black Panther**
+**First Night in a New Place? One Brain Half Will Stay Up and Keep Watch**
 
-**New Device Promises to Zap Period Pain**
+**This Guy Tried to Walk Across the Atlantic Ocean in a Bubble — Again**
 
 **See More Headlines »**
 
