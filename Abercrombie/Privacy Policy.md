@@ -1,7 +1,7 @@
 ABERCROMBIE &. FITCH US  
 PRIVACY POLICY
 
-Updated: April 2016
+Updated: May 2016
 
 AD COOKIE POLICY How Third Parties Serve You Our Advertisements On Other Websites and Your Choices
 
@@ -112,7 +112,7 @@ We may use the information that we collect under this Privacy Policy for the pur
 
     Information We Share with Our Brands and Other Third Parties
 
-We will share the information described in this policy, such as names, mailing addresses, email addresses, phone numbers, profile information, and purchase history, as well as any other information either you provide us or we may have or collect about you with our affiliated companies (for example, Hollister Co.). A&F and its affiliates will not subscribe you to their ongoing marketing email or text message programs unless you have separately consented to receive such marketing emails or texts from a given affiliate.
+_We may disclose the information that you provide to us (including, without limitation, your personal data) to any member of our group, which means our subsidiaries, our ultimate holding company, and the subsidiaries of our holding company (including our affiliated companies)._ **A&F and its affiliated companies will not subscribe you to their ongoing marketing email and/or text message programs unless you have separately consented to receive such marketing communications from a given affiliated company.**
 
 We make the names and postal addresses in our postal mailing list, sometimes categorized by purchasing information, available to other unaffiliated companies for their marketing purposes. See the “Opt-Out” section below for instructions on how to opt out of sharing with unaffiliated companies. 
 
