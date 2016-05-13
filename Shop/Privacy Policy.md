@@ -22,7 +22,7 @@ LENOVO Menu
         9.  Clearance PCs
     *   SALE Great deals on select PCs and Tablets.
         
-        Sale ends May 11.
+        Sale ends May 18.
         
     *   Clearance Sale Get these deals before they’re gone.
         
@@ -314,7 +314,6 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Lenovo Photo Service
     *   Gaming Computers
     *   Yoga Computers
-    *   Discover Lenovo
     *   New Product Showcase
     *   New Product Announcements
     *   Outlet
@@ -340,7 +339,6 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Training
     *   Affinity Discount Program
     *   Customer Feedback
-    *   Help Me Find a PC
     *   Reset my Homepage
     *   Community
 *   Customer Support
