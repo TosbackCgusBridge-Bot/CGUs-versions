@@ -129,7 +129,7 @@ Explore Games
     *   Paladog
     *   Lego Star Wars Adventure
     *   Tomb Runner
-    *   Stealth HunterSpotlight Fireboy &. Watergirl 4: Crystal Temple
+    *   Stealth HunterSpotlight Easy Joe World
 *   Puzzle
     
     Top Categories
