@@ -40,7 +40,6 @@ At Starwood Hotels &. Resorts Worldwide, Inc. (“Starwood”), we are dedicated
 We have provided this Privacy Statement as an explanation of the information we collect, how we use it, how the use of this information can benefit your experience on our web sites and during your relationship with us, with whom and for what purposes we may share the information, and the choices you can make about our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. We wish to help you make informed decisions, so please take a moment to read the sections below.
 
 *   THE WORLD OF STARWOOD
-*   STARWOOD VACATION OWNERSHIP
 *   TYPES OF INFORMATION WE COLLECT
 *   PURPOSE FOR COLLECTION, PROCESSING, AND DISCLOSURE
 *   CONSENT
@@ -57,12 +56,6 @@ We have provided this Privacy Statement as an explanation of the information we 
 THE WORLD OF STARWOOD:
 
 In order to provide multiple access points to the services and products we offer, Starwood Hotels &. Resorts Worldwide, Inc. operates directly, or through its affiliates or service providers, many web sites, including www.starwood.com, www.starwoodhotels.com, www.starwoodvo.com, www.sheraton.com, www.stregis.com, www.westin.com, www.luxurycollection.com, www.whotels.com , www.alofthotels.com,  www.lemeridien.com, www.starwoodhotels.com/element, www.fourpoints.com, www.preferredguest.com, and www.spg.com. Any one of these web sites may ask for and collect personally identifiable information in order to enhance your experience and provide you with relevant information.
-
-  
-  
-STARWOOD VACATION OWNERSHIP:
-
-If you visit the Starwood Vacation Ownership web site, please note that a separate privacy statement governs the use of that site, available at http://www.starwoodvacationownership.com/legal/privacy.jsp.
 
   
   
@@ -223,21 +216,21 @@ P.O. Box 6020
 Lancaster, California 93539-6020  
 USA
 
-**Customer Service**
+**CUSTOMER CARE ASSISTANCE**
 
-If you would like to contact Starwood’s Customer Service Department, please choose the most convenient method from the following:
+Feel free to contact our Customer Service department regarding a recent hotel experience
 
-by e-mail:  
-customercare@starwoodhotels.com
+CALL US  
+1-800-328-6242 if you are calling from the U.S. or Canada. For reservations only, dial 1-877-STARWOOD.
 
-by telephone:  
-1-800-328-6242
+EMAIL US  
+Contact us to compliment a hotel, express a concern or to ask a question. Go
 
-by writing to us at:  
-Starwood Preferred Guest Program  
-P.O. Box 6020  
-Lancaster, California 93539-6020  
-USA
+WRITE US  
+Starwood Hotels &. Resorts Worldwide, Inc.  
+Corporate Customer Service  
+P.O. Box 20190  
+St. Thomas, ON Canada N5P 4H4
 
 Attention: Customer Service
 
