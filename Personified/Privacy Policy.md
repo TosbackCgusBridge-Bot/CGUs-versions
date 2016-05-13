@@ -27,7 +27,7 @@ Post a Job Search Resumes
     *   $0.00 Cart
     *   Contact Us
 
-*   Job Seekers Site
+*   Job Seeker Site
 
 *   Overview
 *   Features
