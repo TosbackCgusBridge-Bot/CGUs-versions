@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14884800331
+true true C14805128864
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Wed May 11 11:03:23 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Thu May 12 11:15:27 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,23 +49,39 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Up to 50% Off Swim for the Family
+JCPenney Rewards Shop and Get Unlimited $10 Bonus Rewards\*
 
-Select styles.
+Get rewards twice as fast when you use your JCPenney Credit Card.
 
-Shop All Swim Shop Women Shop Men Shop Kids 30 to 40% Off Fashion Accessories for Her
+\*Get details: Penney Days Sale | Buy 1 Get 1 For .01 Apparel from Arizona, St. John's Bay and more, plus select home items\*
 
-Select styles, reg. $8-$48
+In Store and Online | Ends May 15
 
-  Shop Fashion Accessories Mother's Day Jewelry Sale - Ends May 11 Up to 60% Off Fine Jewelry
+View Store Ad Get details:
+
+\*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
+
+Buy 1 Get 1 For .01 Arizona Apparel\*
+
+Select styles, reg. $12-$60
+
+Shop Guys Shop Juniors Shop Girls Shop Boys    
+
+\*Buy one Arizona item at regular price, get a second Arizona item of equal or lesser value for 1 cent, while supplies last.
+
+Buy 1 Get 1 For .01 All Bath Towels, Bath Rugs, Bed Pillows and Ready-Made Curtains\*
+
+reg. $8-$200
+
+Shop Now: Shop Bath Towels Shop Ready-Made Curtains Shop Bath Rugs Shop Bed Pillows Up To 50% Off Swim For The Family
 
 Select styles
 
-Shop Fine Jewelry   Carter's Baby Sale | Online Only! Through May 11 Baby Sale Up To 50% Off
+Shop All Swim Shop Women Shop Men Shop Kids Hurry In Store! Final Markdowns! 80% Off Clearance Featuring Thousands of Items From $3.99, $7.99 and $9.99
 
-Select styles.
+Plus! New Markdowns 50 to 70% Off
 
-Shop All Carter's Shop Baby Apparel Shop Furniture Shop Bedding SportsFanShop
+Find a StoreOr, Shop 50 to 80% Off Online Clearance Shop Online Clearance SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
