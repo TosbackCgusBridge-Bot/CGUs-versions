@@ -182,5 +182,5 @@ Amtsgericht Bonn HRB 5919,
 Sitz der Gesellschaft Bonn  
 USt-IdNr. DE 122265872  
   
-E-Mail: info@telekom.de  
+  
 Telefon: 0228/ 181-0
