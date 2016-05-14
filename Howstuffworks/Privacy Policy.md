@@ -284,11 +284,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**This Explanation Will Change How You View 'Jurassic Park'**
+**Mesmerizing Drone Footage Shows Eerily Abandoned Chernobyl**
 
-**New 'Second Skin' Polymer Cream Could Cure the Looking-Your-Age Epidemic**
+**On the One Hand, Fewer Mosquitoes. On the Other, Increased Autism**
 
-**Six Days of Your Life Back, Thanks to Netflix**
+**Underwater Dig Finds Proof Humans Settled U.S. Earlier Than Thought**
 
 **See More Headlines »**
 
