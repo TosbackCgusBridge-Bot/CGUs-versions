@@ -1,4 +1,4 @@
-Skip to main content       Military Students | Education Resources| Professor Junction
+Skip to main content
 
 *   Online Degrees
     *   Business
@@ -12,22 +12,10 @@ Skip to main content       Military Students | Education Resources| Professor
     *   Religious Studies
     *   Technology
     *   Vocational Training
-*   Online Degrees by Level
-    *   Online Associates Degrees
-    *   Online Bachelor's Degrees
-    *   Online Master's Degrees
-    *   Online Doctorate Degrees
 *   Online Certificates
 *   Online Colleges
 *   Free Career Assessment
-*   Popular Degrees
-    *   Accounting Degrees
-    *   Business Administration
-    *   Early Childhood Education Degrees
-    *   Criminal Justice Degrees
-    *   Nursing Degrees
-    *   Psychology Degrees
-    *   Video Game Design Degrees
+*   College Resources
 
 Help Section
 
@@ -196,7 +184,6 @@ About eLearners:
 *   Affiliate Program
 *   Site Map
 *   FAQ
-*   Project Working Mom
 
 By entering my email address and clicking "Subscribe" I agree to be contacted by eLearners, EducationDynamics, and preferred third-party partners of eLearners for additional education products and services. Privacy Policy. Privacy Policy | CA Privacy Policy | Terms of Use | Legal Notice
 
