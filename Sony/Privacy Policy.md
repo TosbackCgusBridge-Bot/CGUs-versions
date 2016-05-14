@@ -89,9 +89,9 @@ On PS4™
 
 Sony on Twitter
 
-One more day. #Uncharted4
+We detail 7 ways to take amazing shots with Uncharted 4's Photo Mode: http://blog.us.playstation.com.
 
-2016-05-10 12:39:38+00:00
+2016-05-14 00:00:34+00:00
 
 View Tweet
 
@@ -203,17 +203,17 @@ With One Player
 
 Sony on Twitter
 
-Congratulations to our Sony Nashville #CMTawards nominees! Voting is now open at @CMT.
+We <3 @OfficialGrace's #HellOfAGirl. Watch the video now on @TheSun.
 
-2016-05-10 02:38:05+00:00
+2016-05-14 00:30:34+00:00
 
 View Tweet
 
 Sony on Instagram
 
-Attend E3 in Los Angeles This Summer
+Sony Rewards Is Looking for Its First-Ever SuperFan
 
-Start Bidding
+Go to Contest
 
 Close
 
@@ -223,7 +223,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Start Bidding
+Go to Contest
 
 When the Moment Strikes, You Need a Camera With the Power to Capture It
 
@@ -269,9 +269,9 @@ With Action Cam
 
 Sony on Twitter
 
-A grand slam in design. #Xperia Z5 Premium Pink
+Head over to @EW to see the exclusive trailer for #DontBreathe.
 
-2016-05-10 11:04:02+00:00
+2016-05-14 04:19:23+00:00
 
 View Tweet
 
