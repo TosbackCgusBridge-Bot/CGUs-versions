@@ -1,7 +1,5 @@
 SEG1 hp
 
-*   ×
-
 *   Weekly Ad
 *   Office Depot Business Solution
 *   OfficeMax Workplace
@@ -17,7 +15,7 @@ SEG1 hp
 
 Office Depot Deals
 
-xY3rzhzERkfthD4EEm4d5DD
+v0dDGNL5Xd0FEhZcoWt0RTV
 
 Search Suggestions
 
@@ -147,7 +145,7 @@ Office Depot, Inc. is a resource and a catalyst to help customers work better. W
   
 The company serves consumers and businesses in 57 countries with more than 2,000 retail stores, award-winning e-commerce sites and a dedicated business-to-business sales organization  all delivered through a global network of wholly owned operations, joint ventures, franchisees, licensees and alliance partners. The company operates under several banner brands including Office Depot, OfficeMax, OfficeMax Grand &. Toy, Reliable and Viking. Office Depot and OfficeMax features products from brands consumers trust such as HP, Samsung, Xerox, Hammermill, Post-It, Keurig, Bic, Brother, HON, Scotch and Dell. The companys portfolio of exclusive product brands include TUL, Foray, DiVOGA, Ativa, WorkPRO, Realspace and HighMark.  
   
-Office Depot, Inc.s charitable arm, The Office Depot Foundation, supports programs that enhance quality of life for children, strengthen communities, encourage local and international economic growth, and empower schools and non-profit organizations. Office Depot and OfficeMax also provides resources and support to small businesses through its Business Solutions Center. The center provides informative tips, advice, articles, videos and more designed to help businesses achieve their goals. validation failed, try again after sometime. For added security please choose an option to validate your reward certificate(s).
+Office Depot, Inc.s charitable arm, The Office Depot Foundation, supports programs that enhance quality of life for children, strengthen communities, encourage local and international economic growth, and empower schools and non-profit organizations. Office Depot and OfficeMax also provides resources and support to small businesses through its Business Solutions Center. The center provides informative tips, advice, articles, videos and more designed to help businesses achieve their goals. validation failed, try again after sometime.
 
 Give them a gift card.  
 Never expires, ships for free
