@@ -1,4 +1,4 @@
-**Last Revised: March 24, 2016**
+**Last Revised: May 14, 2016**
 
 GoDaddy Respects your privacy
 
@@ -94,10 +94,10 @@ When your GoDaddy account is cancelled (either voluntarily or involuntarily) all
 
 **Updating Your Information** 
 
-You may alter, update or deactivate your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+You may alter, update or deactivate your account information or opt out of receiving communications from us and our partners at any time. However, where your personal information is reasonably necessary for the provisioning of the services you have requested or the operation of our network, the collection, use and disclosure of personal information is a condition of service and you cannot opt-out without terminating your services.  If your personal information is not reasonably necessary for the provisioning of the services you have requested or the operation of our network, you will have the choice to withdraw your consent by opting out.  For example, where you have provided express consent for the use of specific product or services for marketing purposes, you can opt-out later on as you like.  Similarly, you can opt-out of your personal information being used for a variety of marketing communications by us, including telemarketing or addressed marketing mail, or commercial electronic messages like emails and SMS messages, at any time by revisiting Contact Preferences in your Account Settings.  We have the following options for changing and modifying your account information or contact preferences.
 
-1.  You may send an email to mailto:hq@godaddy.com
-2.  You may visit your online Account
+1.  Access your Account online (Accounts Settings >. Contact Preferences) 
+2.  You may send an email to mailto:hq@godaddy.com
 3.  You may send mail to GoDaddy at the following postal address:  
     14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 4.  You may call us at: (480) 505-8800
