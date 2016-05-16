@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14809148115
+true true L14901035366
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Fri May 13 11:15:29 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p01.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Sun May 15 10:47:03 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -53,11 +53,7 @@ JCPenney Rewards Shop and Get A $10 Bonus Reward\*
 
 Get rewards twice as fast when you use your JCPenney Credit Card.
 
-\*Get details: Home Flash Sale | Today Online Only! Extra 30% Off\* $100 or More Or, Extra 25% Off\* Select Home Already 40-60% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds and Shades
-
-May 13 | Code: GOSHOP98
-
-\*Exclusions and details: Shop Home Flash Sale Now Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses Penney Days Sale | Buy 1 Get 1 For .01 Apparel from Arizona, St. John's Bay and more, plus select home items\*
+\*Get details: Penney Days Sale | Buy 1 Get 1 For .01 Apparel from Arizona, St. John's Bay and more, plus select home items\*
 
 In Store and Online | Ends May 15
 
@@ -69,11 +65,15 @@ Buy 1 Get 1 For .01 Arizona Apparel\*
 
 Select styles, reg. $12-$60
 
-Shop Guys Shop Girls Shop Boys Shop Juniors    
+Shop Guys Shop Juniors Shop Girls Shop Boys    
 
 \*Buy one Arizona item at regular price, get a second Arizona item of equal or lesser value for 1 cent, while supplies last.
 
-Up To 50% Off Swim For The Family
+Buy 1 Get 1 For .01 All Bath Towels, Bath Rugs, Bed Pillows and Ready-Made Curtains\*
+
+reg. $8-$200
+
+Shop Now: Shop Bath Towels Shop Ready-Made Curtains Shop Bath Rugs Shop Bed Pillows Up To 50% Off Swim For The Family
 
 Select styles
 
