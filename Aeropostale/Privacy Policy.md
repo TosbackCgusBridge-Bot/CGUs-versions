@@ -46,7 +46,6 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
-    *   Spring Looks
     *   Headlining Now
     *   Uniform
     *   Online Only
