@@ -2,56 +2,48 @@ Go to: Navigation Content Footer
 
 Alt+0 to show this section, Tab to navigate forward, Shift+Tab key to navigate backward, Enter to access link, and Esc to reset
 
-HSBC Cookie Policy
+We use cookies to give you the best experience on our website. By continuing to browse the site, you are agreeing to our use of cookies. You can change your cookie settings at any time but if you do, you may lose some functionality. More information can be found in our Privacy policy and Cookie policy.
 
-We use cookies to give you the best possible experience on our website. Full details can be found here
+Close Press tab key to access skip links section. Press Alt+0 to access it anytime. Search Menu
 
-Press tab key to access skip links section. Press Alt+0 to access it anytime.
-
-*   Search
-*   Go to internet banking
-
-Menu Explore HSBC.com Search
-
-*   About HSBC in About HSBC
-    
-    Learn about our history, our purpose, and our strategy to become the world's leading international bank. Get information on our leadership team and our global network.
+*   About HSBC
     
     *   Our purpose
         
-    *   Our strategy expandOur strategy
+    *   Our strategy
         *   The value of our network
         *   Actions to capture value
     *   Leadership
         
-    *   Company history expandCompany history
-        *   HSBC's history
-        *   HSBC’s archives
-        *   Online gallery
-        *   Frequently asked questions
-    *   Structure and network expandStructure and network
+    *   Structure and network
         *   Commercial Banking
         *   Global Banking and Markets
         *   Global Private Banking
         *   Retail Banking and Wealth Management
         *   Country contacts
-    *   Corporate governance expandCorporate governance
+    *   Contact us
+        
+    
+    *   Company history
+        *   HSBC's history
+        *   HSBC’s archives
+        *   Online gallery
+        *   Frequently asked questions
+    *   Corporate governance
         *   Board committees
         *   Corporate governance codes
         *   Internal control
         *   Obligations of senior financial officers
         *   Employee share plans
-    *   Contact us
-        
-*   Our approach in Our approach
     
-    We recognise that we have responsibilities not only towards our customers, employees and shareholders but also to the countries and communities in which we operate.
+    *   Contact us You can find the best way to get in touch with us here.
+*   Our approach
     
     *   Our values
         
     *   Diversity and inclusion
         
-    *   Sustainability expandSustainability
+    *   Sustainability
         *   Finance
         *   Operations
         *   Communities
@@ -62,13 +54,15 @@ Menu Explore HSBC.com Search
         
     *   Supplier code of conduct
         
-*   Investor relations in Investor relations
     
-    Learn about our investment case, our internal controls and how we handle risk. Find financial results, dividend information and investor presentations.
+    *   Our values How we do business is as important as what we do.
     
-    *   Financial and regulatory reports expandFinancial and regulatory reports
+    *   Clean water, safer homes We are working with WaterAid to improve sanitation in India.
+*   Investor relations
+    
+    *   Financial and regulatory reports
         *   Regulatory capital securities
-    *   Share and dividend information expandShare and dividend information
+    *   Share and dividend information
         *   Dividend calculators
         *   Dividend history
         *   Dividend timetable
@@ -78,27 +72,27 @@ Menu Explore HSBC.com Search
         *   Treasury shares
     *   Events and presentations
         
-    *   Investor resources expandInvestor resources
+    
+    *   Investor resources
         *   Contact our registrar
         *   Investor contacts
         *   Frequently asked questions - investor relations
-    *   Fixed income securities expandFixed income securities
+    *   Fixed income securities
         *   Covered bond reports
         *   Green bond reports
         *   Credit ratings
         *   Issuance programmes
     *   Stock exchange announcements
         
-    *   Risk and responsibility expandRisk and responsibility
+    
+    *   Risk and responsibility
         *   Global Standards
         *   Health and safety
         *   Reputational and operational risks
         *   USA Patriot Act certification
-*   News and insight in News and insight
+*   News and insight
     
-    Get the latest news, analysis and commentary. Our business specialists share their views.
-    
-    *   Media resources expandMedia resources
+    *   Media resources
         *   Media releases
         *   Speeches
     *   Insight archive
@@ -107,35 +101,37 @@ Menu Explore HSBC.com Search
         
     *   Advertising
         
-    *   Sponsorship expandSponsorship
+    
+    *   Sponsorship
         *   Golf
         *   Rugby
         *   Culture
         *   Other sponsorships
-*   Careers in Careers
     
-    We offer a world of interesting and varied opportunities. Learn about local and global careers and our values-led culture.
+    *   Making a difference HSBC’s USD150 million community fund is helping projects worldwide.
+*   Careers
     
     *   Where we hire
         
-    *   Why HSBC? expandWhy HSBC?
+    *   Why HSBC?
         *   Learning and development
         *   Culture and community
         *   Benefits
-    *   Explore our business expandExplore our business
+    *   Explore our business
         *   Working in Commercial Banking
         *   Working in Global Banking and Markets
         *   Working in Global Private Banking
         *   Working in Retail Banking and Wealth Management
         *   Working in HSBC Operations, Services and Technology
         *   Working in Global Functions
+    
     *   Meet our people
         
     *   Application hints and tips
         
     *   Careers events
         
-    *   Students and graduates expandStudents and graduates
+    *   Students and graduates
         *   View programmes
         *   Programmes in Commercial Banking
         *   Programmes in Global Banking and Markets
@@ -143,6 +139,11 @@ Menu Explore HSBC.com Search
         *   Programmes in Retail Banking and Wealth Management
     *   Frequently asked questions
         
+    
+    *   Beginning the journey Find out what it is like to work at HSBC.
+    *   Why HSBC? We have a supportive, inclusive and diverse environment.
+
+Internet bankingInternet banking
 
 *   Home
 *   \>
@@ -292,9 +293,6 @@ Privacy policy
 
 Our privacy statement sets out our current policies and demonstrates our commitment to your privacy.
 
-*   Contact us
-*   Search Search
-
 Site navigation About HSBC
 
 *   Our purpose
@@ -343,8 +341,7 @@ Careers
 *   Students and graduates
 *   Frequently asked questions
 
-HSBC  
-banking services
+Banking services
 
 *   Commercial Banking
 *   Global Banking and Markets
