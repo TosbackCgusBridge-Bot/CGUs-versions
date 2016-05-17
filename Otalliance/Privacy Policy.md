@@ -96,15 +96,15 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 
 Thu, May 19, 2016 ISSA -- May CISO Forum Charlotte 2016
 
-Craig Spiezel, Executive Director Online Trust Alliance (OTA) will be giving the keynote -- Facing the Storm: Preparing for Breaches, Ransomware, Malvertising and IoT -- at the Monday evening session on May 19th in Charlotte, NC.
+Craig Spiezel, Executive Director Online Trust Alliance (OTA) will be giving the keynote -- Facing the Storm: Preparing for Breaches, Ransomware, Malvertising and IoT -- at the Thursday evening session on May 19th in Charlotte, NC.
 
 Tue, Jun 7, 2016 IRCE 2016
 
 Internet Retailer Conference &. Exhibition (IRCE) provides you with a conference full of industry experts and unrivaled agenda content, an exhibit hall filled with the latest and greatest solution providers, and a community made for networking with thousands of like-minded industry peers. IRCE 2016 will take place in the world-class city of Chicago, June 7-10, at McCormick Place West.
 
-Wed, Jun 8, 2016 Privacy Risk Summit 2016
+Wed, Jun 8, 2016 TRUSTe Privacy Risk Summit 2016
 
-The 2016 Privacy Risk Summit will bring together leading privacy practitioners, lawyers, regulators, and academics to address the top privacy risks and share proven strategies for success. The Summit builds on the success of the EU Data Protection Conference and IoT Privacy Summits to offer an expanded program with three parallel conference tracks focusing on the risks rising from technological and regulatory change and privacy risk management best practices.
+The 2016 Privacy Risk Summit will bring together leading privacy practitioners, lawyers, regulators, and academics to address the top privacy risks and share proven strategies for success. The Summit builds on the success of the EU Data Protection Conference and IoT Privacy Summits to offer an expanded program with three parallel conference tracks focusing on the risks rising from technological and regulatory change and privacy risk management best practices.  OTA members may register for only $149, a savings of 50%. 
 
 Tue, Jun 14, 2016 2016 Online Trust Audit &. Awards
 
