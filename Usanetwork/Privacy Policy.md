@@ -6,19 +6,18 @@ Skip to main content
 *   Values
 *   Careers
 *   Businesses
-    *   1.  Lifestyle Networks
-        2.  Broadcast
+    *   1.  Broadcast
             1.  NBC Entertainment NBC Entertainment Develops and schedules programming for the network’s primetime, late-night, and daytime schedules. NBC Entertainment
             2.  NBC News NBC News Global leader in news across all broadcast and digital platforms including NBC Nightly News with Lester Holt, TODAY and Meet the Press. NBC News
             3.  NBC Olympics NBC Olympics Produces, programs and promotes NBCUniversal's multiplatform Olympics coverage, delivering the largest audiences in U.S. television history. NBC Olympics
             4.  NBC Sports NBC Sports Serves today's passionate sports fans with coverage of the Summer and Winter Olympics, NHL, Premier League, Formula One, MLS, Tour de France and more. NBC Sports
             5.  Telemundo Telemundo An industry leader in the production and distribution of high-quality Spanish-language content across its multiplatform portfolio. Telemundo
-        3.  Local Media
+        2.  Local Media
             1.  Cozi TV Cozi TV National multicast network that delivers an easy-to-watch, comfortable and familiar viewing experience to family audiences. Cozi TV
             2.  NBC Sports Regional Networks NBC Sports Regional Networks 10 regional networks that deliver more than 2,400 live sporting events annually, award-winning breaking news, comprehensive analysis, digital content and more. NBC Sports Regional Networks
             3.  NBCUniversal Owned Television Stations NBCUniversal Owned Television Stations Includes 28 NBC and Telemundo local television stations that produce the best regional news, information and entertainment content. NBCUniversal Owned Television Stations
             4.  TeleXitos TeleXitos TeleXitos is the Telemundo Station Group’s national multicast network that serves as a destination for viewers who want to watch their favorite action and adventure television series and movies from the 1970s to 2000s in Spanish and without subtitles. TeleXitos
-        4.  Cable
+        3.  Cable
             1.  Bravo Media Bravo Media Original pop culture programming including the best in food, fashion, beauty and reality. Bravo Media
             2.  Chiller Chiller The brand dedicated to round-the-clock scares with an entertaining lineup of high-quality horror. Chiller
             3.  Cloo Cloo The new destination for original crime and mystery series, contemporary scripted dramas and the genre's best movies. Cloo
@@ -35,26 +34,26 @@ Skip to main content
             14.  The Weather Channel Company The Weather Channel Company Provides millions of people every day with the world's best weather forecasts, content and data. The Weather Channel Company
             15.  Universal HD Universal HD The best Universal movies and sports programming in high-definition. Universal HD
             16.  USA Network USA Network A powerful portfolio of scripted and unscripted drama and comedy originals seen in more than 102 million U.S. homes. USA Network
-        5.  Digital Businesses
+        4.  Digital Businesses
             1.  Fandango Fandango The nation's leading moviegoer destination. Sells tickets to more than 24,000 screens nationwide. Fandango
             2.  GolfNow GolfNow Uses leading-edge technology to offers nearly 2 million registered golfers more ways to stay connected to their favorite courses and tee times. GolfNow
             3.  Hulu Hulu A premium streaming TV destination that seeks to captivate and connect viewers with the stories they love. Hulu
             4.  Seeso Seeso A new streaming comedy channel offering original and library TV and Film content for $3.99 per month Seeso
-        6.  Film
+        5.  Film
             1.  Focus Features Focus Features Produces, acquires, and releases movies from rising and established talent and filmmakers. Offers a diverse slate for a wide range of moviegoers. Focus Features
             2.  Universal Pictures Universal Pictures Creates and distributes theatrical and non-theatrical filmed entertainment for a growing global marketplace. Universal Pictures
             3.  Universal Pictures Home Entertainment Universal Pictures Home Entertainment Universal Pictures Home Entertainment (UPHE) is a unit of Universal Pictures Universal Pictures Home Entertainment
             4.  Universal Pictures International Universal Pictures International The international marketing and distribution division for Universal Pictures. Universal Pictures International
-        7.  Parks
+        6.  Parks
             1.  Universal Orlando Resort Universal Orlando Resort Offers guests unique and popular entertainment experiences. Its renowned theme parks feature some of the world’s most thrilling film and TV based attractions. Universal Orlando Resort
             2.  Universal Studios Hollywood Universal Studios Hollywood Get ready for the ultimate Hollywood movie experience! Universal Studios Hollywood
             3.  Universal Studios Japan Universal Studios Japan Offers guests unique and popular entertainment experiences. Its renowned theme parks feature some of the world’s most thrilling film and TV based attractions. Universal Studios Japan
             4.  Universal Studios Singapore Universal Studios Singapore Offers guests unique and popular entertainment experiences. Its renowned theme parks feature some of the world’s most thrilling film and TV based attractions. Universal Studios Singapore
-        8.  TV Studios Production
+        7.  TV Studios Production
             1.  Telemundo Studios Telemundo Studios Telemundo Studios is a full service facilities company owned and operated by Telemundo / NBCUniversal. Telemundo Studios
             2.  Universal Cable Productions Universal Cable Productions Creates innovative and critically acclaimed original scripted and digital content across media platforms for domestic and international distribution. Universal Cable Productions
             3.  Universal Television Universal Television One of the largest and most successful television production companies in the U.S. Produces primetime series, late night and reality programs for a variety of platforms. Universal Television
-        9.  International
+        8.  International
             1.  CNBC International CNBC International The leading global broadcaster of live business and financial news and information, reporting directly from the major financial markets around the globe. CNBC International
             2.  NBCUniversal International Television NBCUniversal International Television Brings together NBCUniversal International’s channels, distribution and production businesses people across the globe. The division includes Universal Networks International, International Television Distribution and International Television Production. NBCUniversal International Television
 *   Search
