@@ -41,25 +41,7 @@ SONY
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! The Wait Is Over: Experience the Final Chapter in Nathan Drake's Adventure
-
-Only on PlayStation
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-Been Looking for a Reason to Upgrade?
+Your browser does not support JavaScript! Been Looking for a Reason to Upgrade?
 
 Here It Is
 
@@ -73,9 +55,9 @@ Close
 
 Here It Is
 
-Replay the Trilogy
+7 Photo Mode Tips
 
-On PS4™
+For Uncharted 4
 
 Close
 
@@ -85,13 +67,13 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-On PS4™
+For Uncharted 4
 
 Sony on Twitter
 
-We detail 7 ways to take amazing shots with Uncharted 4's Photo Mode: http://blog.us.playstation.com.
+This is your chance to win a Limited Edition Uncharted 4 PS4 Bundle. Details: http://play.st/1YrL4Ht
 
-2016-05-14 00:00:34+00:00
+2016-05-14 12:00:01+00:00
 
 View Tweet
 
@@ -109,20 +91,6 @@ Close
 
 Get Some Gear
 
-Multiplayer Perks, Character Figurine, Stickers and More
-
-Check Out the Collector's Edition
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Check Out the Collector's Edition
-
 Details Make a Difference When It Comes to Gaming
 
 See Why Our TVs Are Good for Gamers
@@ -136,6 +104,186 @@ Close
 *   Copy URL to share
 
 See Why Our TVs Are Good for Gamers
+
+Naughty Dog's Developers Talk About Creating the Uncharted Franchise
+
+Watch All Episodes
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+The Wait Is Over: Experience the Final Chapter in Nathan Drake's Adventure
+
+Only on PlayStation
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+"Preacher," Based on the Comic Book Series, Premieres Sunday on AMC
+
+Learn More About the Show
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Giving You the Freedom to Explore
+
+With Smart Battery Management
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Sony on Instagram
+
+Sony on Twitter
+
+YES! Congrats @jtimberlake! #CantStopTheFeeling debuts at NUMBER ONE on @billboard's #Hot100!
+
+2016-05-17 06:35:52+00:00
+
+View Tweet
+
+A Smartphone Remote
+
+For the Car
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+For the Car
+
+It's Not a Party Without Music
+
+Bring the Bass
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Bring the Bass
+
+What If You Could Sync Your Music and Lighting to Set the Perfect Mood?
+
+Discover the LED Bulb Speaker
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Alicia Keys Is Back With a New Song
+
+Stream Now
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Stream Now
+
+Sony on Instagram
+
+Sony on Twitter
+
+RT @Ghostbusters: .@Nas x @RonHermanDotCom unveiled the #Ghostbusters Fashion Collection in LA - with an appearance by #RayParkerJr!
+
+2016-05-17 11:14:00+00:00
+
+View Tweet
+
+Share Your Epic Adventures
+
+With Action Cam
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+With Action Cam
+
+Access Your World Without a Phone
+
+Introducing Xperia Ear
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Introducing Xperia Ear
 
 Julia Roberts and George Clooney Star in This Thriller Directed by Jodie Foster
 
@@ -155,76 +303,6 @@ Sony on YouTube
 
 Play Video
 
-On Repeat: Kygo's Infectious Beats &. Uplifting Songs
-
-Hear More Music
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-Access Your World Without a Phone
-
-Introducing Xperia Ear
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Introducing Xperia Ear
-
-Upscale Audio &. Video
-
-With One Player
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-With One Player
-
-Sony on Twitter
-
-We <3 @OfficialGrace's #HellOfAGirl. Watch the video now on @TheSun.
-
-2016-05-14 00:30:34+00:00
-
-View Tweet
-
-Sony on Instagram
-
-Sony Rewards Is Looking for Its First-Ever SuperFan
-
-Go to Contest
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Go to Contest
-
 When the Moment Strikes, You Need a Camera With the Power to Capture It
 
 Learn About the a6300's Autofocus
@@ -238,76 +316,6 @@ Close
 *   Copy URL to share
 
 Learn About the a6300's Autofocus
-
-It's Not a Party Without Music
-
-Bring the Bass
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Bring the Bass
-
-Share Your Epic Adventures
-
-With Action Cam
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-With Action Cam
-
-Sony on Twitter
-
-Head over to @EW to see the exclusive trailer for #DontBreathe.
-
-2016-05-14 04:19:23+00:00
-
-View Tweet
-
-Sony on Instagram
-
-Love to Work Out?
-
-Go Wire-Free
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Go Wire-Free
-
-Find Out What Happens to the Macon 7 in the Season Finale
-
-Learn More About "Underground"
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
 
 Load More
 
