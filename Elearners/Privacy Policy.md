@@ -15,7 +15,7 @@ Skip to main content
 *   Online Certificates
 *   Online Colleges
 *   Free Career Assessment
-*   College Resources
+*   Education Resources
 
 Help Section
 
