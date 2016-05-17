@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Weather prediction: It's math! Weather National Hurricane Preparedness Week is May 15-21, 2016 National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Weather prediction: It's math! Weather Oceans &. Coasts Hurricane preparedness video: What is storm surge? National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Warm April contributes to second warmest year to date for contiguous U.S. Alaska continues to experience record warmth AROUND NOAA // NOAA’s premier forecast model goes 4-D See more than stars: Spotting NOAA satellites in the sky Explorers welcome here: Discover the new NOAA.gov
+Enter Search Terms National Hurricane Preparedness Week is May 15-21, 2016 AROUND NOAA // Warm April contributes to second warmest year to date for contiguous U.S. NOAA’s premier forecast model goes 4-D Explorers welcome here: Discover the new NOAA.gov
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-NOAA/iStock
+NOAA
