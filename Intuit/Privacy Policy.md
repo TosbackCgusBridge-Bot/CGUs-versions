@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14901035366
+true true L14908160241
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p01.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Sun May 15 10:47:03 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p07.jcpenney.com SERVER NAME :->. dtcomexpr1l1j5 TIME :->. Mon May 16 11:15:28 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,43 +49,31 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-JCPenney Rewards Shop and Get A $10 Bonus Reward\*
+50% Off\* Select Orig and Reg-Priced Styles Online Only | Ends May 17 | Code: TOSHOP4 \*Get details:   Shop Window Shop Luggage Shop Bedding Shop Bath Shop Home Decor Shop Furniture Shop Mattresses 40 to 50% Off Swim For The Family
 
-Get rewards twice as fast when you use your JCPenney Credit Card.
+Select styles.
 
-\*Get details: Penney Days Sale | Buy 1 Get 1 For .01 Apparel from Arizona, St. John's Bay and more, plus select home items\*
+Shop Women Shop Men Shop Girls Shop Boys       29.99 Women's Wedges
 
-In Store and Online | Ends May 15
+Select styles, reg. $50-$60
 
-View Store Ad Get details:
-
-\*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
-
-Buy 1 Get 1 For .01 Arizona Apparel\*
-
-Select styles, reg. $12-$60
-
-Shop Guys Shop Juniors Shop Girls Shop Boys    
-
-\*Buy one Arizona item at regular price, get a second Arizona item of equal or lesser value for 1 cent, while supplies last.
-
-Buy 1 Get 1 For .01 All Bath Towels, Bath Rugs, Bed Pillows and Ready-Made Curtains\*
-
-reg. $8-$200
-
-Shop Now: Shop Bath Towels Shop Ready-Made Curtains Shop Bath Rugs Shop Bed Pillows Up To 50% Off Swim For The Family
+  Shop Women's Wedges Carter's Baby Sale | In Store and Online Through May 30 Baby Sale 35 to 50% Off
 
 Select styles
 
-Shop All Swim Shop Women Shop Men Shop Kids Hurry In Store! Final Markdowns! 80% Off Clearance Featuring Thousands of Items From $3.99, $7.99 and $9.99
+Shop Apparel and Sleepwear Shop Furniture Shop Bedding   40 to 50% Off Men's St. John's Bay Polos, Tees and Shorts
 
-Plus! New Markdowns 50 to 70% Off
+Select styles, reg. 12.99-19.99
 
-Find a StoreOr, Shop 50 to 80% Off Online Clearance Shop Online Clearance SportsFanShop
+Shop St. John's Bay SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop: Write a Review For Your Chance to Win $1,000 Get details: JCPenney | portraits
+Shop SportsFanShop: Don't Forget Dad!
+
+Father's Day is June 19.
+
+Shop Gifts JCPenney | portraits
 
 ONE FREE 8x10 traditional sheet and  
 50% OFF your photo purchase
