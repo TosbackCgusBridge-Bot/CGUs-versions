@@ -58,6 +58,17 @@ Explore Games
     *   Soccer
     *   Boxing
 
+*   For you
+    
+    For you
+    
+    My last played games
+    
+    FAVE GAMES
+    
+    Are you a existing user? Then log in to see you favorited games here! Don't have an account yet? Be sure to sign up to use this feature.
+    
+    Join for free
 *   Multiplayer
     
     Top Categories
