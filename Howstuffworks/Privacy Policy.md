@@ -248,11 +248,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Did the Chinese Invent the Superhero Team?**
+**Swarm Intelligence Correctly Predicts Top Four Kentucky Derby Finishers**
 
-**SpaceX Just Hired a Superhero Design Team for its Spacesuits**
+**The Man Who Lived Like a Goat for Six Days**
 
-**Hear and Now: Sleep, Slime and Way Fewer Commercials**
+**Divers Find Roman-era Sunken Treasure in Shipwreck Off Israel**
 
 **See More Headlines »**
 
