@@ -4,7 +4,7 @@ Privacy Policy
 
 All Help Center topics
 
-Effective Date:  May 19, 2015  
+Effective Date:  May 17, 2016  
 
 This Privacy Policy ("Policy") explains how information about you is collected, used, and disclosed by Recreational Equipment, Inc. and our subsidiaries and affiliates (collectively, "REI," "we" or "us") when you access or use our websites or other online or mobile services or applications ("Services"), sign up to become an REI member, shop in our stores, sign up for activities and events, or otherwise interact with us. We may supply different or additional notices of our information practices specific to certain programs or activities. We may also provide different notices of our information practices with respect to certain subsidiaries or affiliates, in which case this Policy will not apply.
 
@@ -92,6 +92,8 @@ REI takes reasonable measures, including administrative, technical, and physical
 **Third Party Advertising, Analytics and Services**
 
 We allow third parties to serve advertisements on our behalf across the Internet and to provide analytics services. These third parties may use cookies, web beacons, and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked, and conversion information. This information may be used by REI and these third parties to analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, and better understand your online activity. This Policy does not apply to, and we are not responsible for, third party cookies, web beacons, or other tracking technologies and we encourage you to check the privacy policies of these third parties to learn more about their privacy practices. For more information about interest-based ads, or to opt out of having your web browsing information used in this way, please visit www.aboutads.info/choices.
+
+We may also work with third parties to serve ads to you as part of a customized campaign on third-party platforms (such as Facebook or Google), unless you opt-out of having information about you used in this way by changing your settings on those platforms.
 
 We also use a third party to "power" product reviews on our Services.  When you submit a product review, you become subject to the terms of use and privacy policy of this third party and the reviews you submit may be posted on our Services and on third-party sites.
 
