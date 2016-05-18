@@ -229,7 +229,7 @@ Site Map
 International Shipping  
 Blair Accessibility Policy  
 California Transparency  
-in Supply Chain Act
+in Supply Chains Act
 
 Customer Service
 
