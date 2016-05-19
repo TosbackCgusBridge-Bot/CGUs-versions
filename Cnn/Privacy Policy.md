@@ -1,4 +1,4 @@
-Breaking News Home+ RegionsU.S.MoneyEntertainmentTechSportTravelStyleFeaturesVideo Live TV Search » International Edition+ U.S. International Arabic Español
+Breaking News Home+ RegionsU.S. PoliticsMoneyEntertainmentTechSportTravelStyleFeaturesVideo Live TV Search » International Edition+ U.S. International Arabic Español
 
 Set edition preference:
 
@@ -10,25 +10,26 @@ U.S.InternationalConfirm Home
 
 Regions
 
+*   U.S.
 *   Africa
 *   Americas
 *   Asia
 *   China
 *   Europe
 *   Middle East
+*   Opinion
+
+U.S. Politics
+
+*   Election Results
+*   2016
+*   Nation
 *   World
-
-U.S.
-
-*   Crime + Justice
-*   Energy + Environment
-*   Extreme Weather
-*   Space + Science
+*   Our Team
 
 *   Business
 *   Markets
 *   Tech
-*   Media
 *   Luxury
 
 Entertainment
@@ -53,7 +54,6 @@ Sport
 *   Horseracing
 *   Equestrian
 *   Sailing
-*   Skiing
 
 Travel
 
@@ -61,9 +61,9 @@ Travel
 *   Business Traveller
 *   Destinations
 *   Features
-*   Food/Drink
+*   Food and Drink
 *   Hotels
-*   Partner Hotels
+*   CNN Partner Hotels
 
 *   Fashion
 *   Design
@@ -74,11 +74,13 @@ Travel
 
 Features
 
+*   Culinary Journeys
 *   Freedom Project
 *   Impact Your World
 *   Inside Africa
 *   Silk Road
 *   2 degrees
+*   All Features
 
 Video
 
@@ -95,7 +97,7 @@ More…
 *   CNN Profiles A-Z
 *   CNN Leadership
 *   CNN Pressroom
-*   CNN Partners
+*   CNN Partner sites
 *   iReport
 
 U.S. International Español Arabic
@@ -139,25 +141,26 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 1.  Home
 
 1.  Regions
-    1.  Africa
-    2.  Americas
-    3.  Asia
-    4.  China
-    5.  Europe
-    6.  Middle East
-    7.  World
+    1.  U.S.
+    2.  Africa
+    3.  Americas
+    4.  Asia
+    5.  China
+    6.  Europe
+    7.  Middle East
+    8.  Opinion
 
-1.  U.S.
-    1.  Crime + Justice
-    2.  Energy + Environment
-    3.  Extreme Weather
-    4.  Space + Science
+1.  U.S. Politics
+    1.  Election Results
+    2.  2016
+    3.  Nation
+    4.  World
+    5.  Our Team
 
 1.  1.  Business
     2.  Markets
     3.  Tech
-    4.  Media
-    5.  Luxury
+    4.  Luxury
 
 1.  Entertainment
     1.  Celebrity Watch
@@ -178,16 +181,15 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
     5.  Horseracing
     6.  Equestrian
     7.  Sailing
-    8.  Skiing
 
 1.  Travel
     1.  Aviation
     2.  Business Traveller
     3.  Destinations
     4.  Features
-    5.  Food/Drink
+    5.  Food and Drink
     6.  Hotels
-    7.  Partner Hotels
+    7.  CNN Partner Hotels
 
 1.  1.  Fashion
     2.  Design
@@ -197,11 +199,13 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
     6.  Luxury
 
 1.  Features
-    1.  Freedom Project
-    2.  Impact Your World
-    3.  Inside Africa
-    4.  Silk Road
-    5.  2 degrees
+    1.  Culinary Journeys
+    2.  Freedom Project
+    3.  Impact Your World
+    4.  Inside Africa
+    5.  Silk Road
+    6.  2 degrees
+    7.  All Features
 
 1.  Video
     1.  Video news
@@ -216,7 +220,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
     3.  CNN Profiles A-Z
     4.  CNN Leadership
     5.  CNN Pressroom
-    6.  CNN Partners
+    6.  CNN Partner sites
     7.  iReport
 
 International Edition
