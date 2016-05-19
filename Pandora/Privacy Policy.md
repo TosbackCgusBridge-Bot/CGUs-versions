@@ -110,7 +110,7 @@ If you are using an Android-based device and you do not wish to receive tailored
 
 If you would like to delete your Registration Data, or if you would like more information on cancelling or deactivating your account, see the section below on Cancellation or Deactivation of Accounts.
 
-**Your Email Preferences**: When you register for the Service, you may elect to receive promotional, marketing, or other similar emails tailored to your interests. You have the option to change this election in the Settings section of our Service. For information on how to opt in or out of receiving promotional, marketing, or other similar emails from us, visit http://help.pandora.com.
+**Your Email Preferences**: When you register for the Service, you may elect to receive promotional, marketing, or other similar emails tailored to your interests. You have the option to change this election in the Settings section of our Service. For information on how to opt in or out of receiving promotional, marketing, or other similar emails from us, visit https://help.pandora.com.
 
 Additionally, you may also follow the unsubscribe instructions contained in the promotional, marketing, or other similar emails you receive.
 
@@ -118,7 +118,7 @@ We will send you transaction confirmation emails and other Service-related annou
 
 **Cancellation or Deactivation of Accounts**: If you would like to request the cancellation or deactivation of your account, you should contact our Listener Support team for assistance. Cancellation or deactivation of your account does not ensure complete or comprehensive removal of the content or information you may have posted or otherwise made available publicly on the Service while you were a registered user. You should also contact our Listener Support team to request the deactivation of a profile you believe is fake or otherwise unauthorized.
 
-**Pandora Profile Visibility**: When you register for the Pandora Service, your profile and listening activity will be public. When the visibility of your Pandora profile is set to public, the Service automatically publishes your listening activity to your profile. For example, if you create a new station or thumb up a song, that activity will be posted in your Pandora profile for members of the public to view. We provide you with the ability to change the degree of visibility of your Pandora profile. For detailed instructions on how to adjust your Pandora profile visibility settings, visit http://help.pandora.com.
+**Pandora Profile Visibility**: When you register for the Pandora Service, your profile and listening activity will be public. When the visibility of your Pandora profile is set to public, the Service automatically publishes your listening activity to your profile. For example, if you create a new station or thumb up a song, that activity will be posted in your Pandora profile for members of the public to view. We provide you with the ability to change the degree of visibility of your Pandora profile. For detailed instructions on how to adjust your Pandora profile visibility settings, visit help.pandora.com.
 
 Please note that changes to the visibility of your Pandora profile do not have any impact on the advertising you may see if you use the ad-supported version of the Service.
 
@@ -140,7 +140,7 @@ Pandora prohibits registration by, and does not knowingly collect personal infor
 
 10\. Your California Privacy Rights and "Do Not Track" Pursuant to California Civil Code Section 1798.83, this policy sets forth that we only share personal information (as defined in California Civil Code Section 1798.83) with third parties for direct marketing purposes if you either specifically opt-in, or are offered the opportunity to opt-out and elect not to opt-out of such sharing at the time you provide personal information or when you choose to participate in a feature on the Service. If you do not opt-in or if you opt-out at that time, we will not share your personal information with that identified third party for direct marketing purposes.
 
-California Business &. Professions Code Section 22575(b) provides that California residents are entitled to know how we respond to "Do Not Track" browser settings. Like many other websites and online services, we do not currently alter our practices when we receive Do Not Track signals as there is no consensus among industry participants as to what "Do Not Track" means in this context. To find out more about "Do Not Track," you may wish to visit http://www.allaboutdnt.com/.
+California Business &. Professions Code Section 22575(b) provides that California residents are entitled to know how we respond to "Do Not Track" browser settings. Like many other websites and online services, we do not currently alter our practices when we receive Do Not Track signals as there is no consensus among industry participants as to what "Do Not Track" means in this context. To find out more about "Do Not Track," you may wish to visit www.allaboutdnt.com/.
 
 11\. European Union-Swiss Safe Harbor
 
