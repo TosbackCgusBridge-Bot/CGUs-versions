@@ -248,11 +248,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Swarm Intelligence Correctly Predicts Top Four Kentucky Derby Finishers**
+**Icy Comets Orbiting a Star Like Our Sun Spotted for the First Time**
 
-**The Man Who Lived Like a Goat for Six Days**
+**Disappearing Tattoos for the Commitment Phobes**
 
-**Divers Find Roman-era Sunken Treasure in Shipwreck Off Israel**
+**The First Successful Penis Transplant in the U.S. Just Happened**
 
 **See More Headlines »**
 
