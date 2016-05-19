@@ -33,7 +33,7 @@ Toyota Vehicles Cars & Minivan
 Trucks
 
 *   2016   Tacoma $23,660 starting 1 19 /24 est. mpg2 as shown 1 Build your own
-*   2016   Tundra $29,950 starting 1 15 /19 est. mpg2 as shown 1 Build your own
+*   2016   Tundra $29,140 starting 1 15 /19 est. mpg2 as shown 1 Build your own
 
 Crossovers & Suvs
 
@@ -1024,5 +1024,6 @@ Help
 \[#\] View All Disclosures
 
 *   Manufacturer's Suggested Retail Price, excludes the Delivery, Processing and Handling Fee of $835 for Cars, $900 for Small/Light Trucks (Sienna, RAV4, Highlander Gas, Highlander HV, 4Runner, Tacoma and Venza), $1195 for Large Trucks (Tundra), and $995 for Large SUVs (Sequoia and Land Cruiser). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. Actual dealer price will vary.
-*   2016 EPA-estimated city/highway mileage. Actual mileage will vary.
-*   2014 EPA-estimated combined miles per gasoline gallon equivalent. Estimate includes consumption of electricity and gasoline energy during EV Mode operation. Actual results will vary for many reasons including driving conditions and how you drive and maintain your vehicle.
+*   2016 EPA-estimated city/highway mileage. Actual mileage will vary.  
+    2017 EPA-estimated city/highway mileage. Actual mileage will vary.
+*   2016 EPA-estimated 67 city/67 highway/67 combined MPGe for Mirai and 312-mile driving range. Actual mileage will vary. Range measurement pursuant to SAE J2601 standards (ambient temperature: 20°C. hydrogen tank pressure when fueled: 70 MPa). Fueling time varies with hydrogen fueling pressure and ambient temperature.
