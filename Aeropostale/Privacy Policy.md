@@ -88,7 +88,6 @@ Aéropostale
     *   GUYS
     *   Clearance Tops
     *   Clearance Bottoms
-    *   Clearance Accessories
     
     *   ROOM
 *   P.S. KIDS
