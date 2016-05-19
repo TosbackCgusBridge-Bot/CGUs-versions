@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14909737741
+true true L14913796011
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Tue May 17 11:04:51 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p01.jcpenney.com SERVER NAME :->. dtcomexpr1l1j3 TIME :->. Wed May 18 11:15:28 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,23 +49,67 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-50% Off\* Select Orig and Reg-Priced Styles Online Only | Ends May 17 | Code: TOSHOP4 \*Get details:   Shop Window Shop Luggage Shop Bedding Shop Bath Shop Home Decor Shop Furniture Shop Mattresses 40 to 50% Off Swim For The Family
+Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100 Or, Extra 15% Off\* Select Watches, Salon Products, Furniture, Mattresses, Custom Blinds and Shades
 
-Select styles.
+Online Only | May 18 | Code: GOSHOP6
 
-Shop Women Shop Men Shop Girls Shop Boys       29.99 Women's Wedges
+Get details
 
-Select styles, reg. $50-$60
+\*some exclusions apply
 
-  Shop Women's Wedges Carter's Baby Sale | In Store and Online Through May 30 Baby Sale 35 to 50% Off
+30 to 50% Off Comforters and Bedding Sets
 
 Select styles
 
-Shop Apparel and Sleepwear Shop Furniture Shop Bedding   40 to 50% Off Men's St. John's Bay Polos, Tees and Shorts
+Shop Comforters and Bedding Sets 40% Off Swim for Her
 
-Select styles, reg. 12.99-19.99
+Select styles
 
-Shop St. John's Bay SportsFanShop
+Shop Swim for Her 19.99 Women's Sandals
+
+Select styles
+
+Shop Women's Sandals 40 to 50% Off Men's Polos, Tees and Shorts
+
+Select styles
+
+Shop Men's Polos, Tees and Shorts 29.99 Men's St. John's Bay Sandals and Shoes
+
+Select styles
+
+Shop Men's St. John's Bay Sandals and Shoes 15 to 50% Off Baby Apparel, Furniture and Bedding
+
+Select styles
+
+Shop Baby Apparel, Furniture and Bedding 30 to 60% Off Jewelry
+
+Select styles
+
+Shop Jewelry 40 to 50% Off Curtains and Drapes
+
+Select styles
+
+Shop Curtains and Drapes 50% Off Kids' Arizona Tops and Shorts
+
+Select styles, reg. $10-$46
+
+Shop Kids' Arizona 14.99 to 19.99 Ambrielle Bras
+
+Select styles, reg. $30-$40
+
+Shop Ambrielle Bras 5.99 Juniors' Arizona Solid V-Neck Tees or Camis
+
+Select styles, reg. $14
+
+Shop Juniors' Arizona 40 to 50% Off Guys' Arizona Apparel
+
+Select styles
+
+Shop Guys' Arizona Hurry In Store! Final Markdowns! 80% Off Clearance Featuring Thousands of Items From $3.99, $7.99 and $9.99
+
+Plus! New Markdowns 50 to 70% Off
+
+Find a Store Or, Shop 50 to 80% Off Online Clearance Shop Online Clearance SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
