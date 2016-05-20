@@ -203,18 +203,21 @@ Some EA sites or services may collect personal information that is not accessibl
 If you've granted EA access to your Facebook account information through an EA or Playfish application, you may request that EA delete your Facebook information by contacting the Privacy Policy Administrator listed at privacyadmin.ea.com and specifying the Facebook application used.  Note that as a result of deleting your data associated with an application on Facebook, you will no longer have access to that application.  
   
 X.    A Special Note About Children  
-  
-Many EA online or mobile products and services are intended for general audiences and do not knowingly collect any personal information from children. When an EA online or mobile product or service does request age information, and users identify themselves as under 13, the product or service will either block such users from providing personal information, or we will ensure consent is obtained from parents for the collection, use and sharing of their children's personal information. At that time, we will provide a description of the information that the child may make publically available, how we will use the information and other practices. We will not knowingly ask children under the age of 13 to provide more information than is reasonably necessary to provide our services.  
-  
-Please note that if you grant consent for your child to use EA's online or mobile products and services, this may include such general audience communication services as email, instant messaging, and online groups, and your child will be able to communicate with, and disclose personal information to, other users of all ages. Parents can review, edit, request the deletion, or prevent further collection or use of their children's personal information or make inquiries regarding this policy by sending an email to privacy\_policy@ea.com. writing to Privacy Policy Administrator, 209 Redwood Shores Parkway, Redwood City, CA 94065. or calling (650) 628-1393.  Alternatively, you may also contact the appropriate Privacy Policy Administrator for your country listed at privacyadmin.ea.com.  
-  
-If we change this privacy statement in a way that expands the collection, use or disclosure of children's personal information to which a parent has previously consented, the parent will be notified and we will be required to obtain the parent's additional consent.  
-  
-We encourage you to talk with your children about communicating with strangers and disclosing personal information online. You and your child should review our Online Safety web page for additional information about using the Internet safely.  
-  
-Information collected is secured in a manner consistent with this privacy policy (see Section VIII above). If we change how we handle your child's information, we will notify you in a manner consistent with this policy.  
-  
-Under no circumstances do we condition a child's participation in an activity—like contests—on the child's disclosure of more personal information than is reasonably necessary to participate in the activity. On certain sites, we may not permit children to participate at all regardless of consent.  
+
+Protecting children’s privacy online is extremely important to EA.  Many EA online or mobile products and services are intended for general audiences and do not knowingly collect any personal information from children. When users identify themselves as being children (i.e. under the age of 13 or under the minimum age in the relevant territory), consistent with applicable law we will: (1) not provide a path for them to input personal information, (2) collect certain information for limited purposes only (consistent with applicable law)), (3) block the child from accessing relevant services. and/or (4) obtain consent from parents for the collection, use, and sharing of their children’s personal information.
+
+Through our mobile applications your child will be able to receive local in app notifications, which do not collect any personal information. 
+
+Please note that if you grant consent for your child to use EA's online or mobile products and services, this may include such general audience communication services as email, instant messaging, and online groups, and your child will be able to communicate with, and disclose personal information to, other users of all ages.
+
+If you are a parent and wish to revoke your previously provided consent, review information collected from your child or have that information deleted, contact the appropriate Privacy Policy Administrator for your country listed at privacyadmin.ea.com, writing to Privacy Policy Administrator, 209 Redwood Shores Parkway, Redwood City, CA 94065 or by telephone at (650) 628-1393.
+
+Information collected is secured in a manner consistent with this privacy policy (see Section VIII above).  If we make material changes to how we use, collect, or share your child’s personal information, we will notify parents by email or by in-game notice in order to obtain verifiable parental consent for the new uses of your child’s personal information.
+
+We encourage you to talk with your children about communicating with strangers and disclosing personal information online.  You and your child should review our Online Safety web page for additional information about using the Internet safely.
+
+Under no circumstances do we condition a child’s participation in an activity—like contests—on the child’s disclosure of more personal information than is reasonably necessary to participate in the activity.  On certain sites, we may not permit children to participate at all regardless of consent.
+
   
 XI.    Public Information Including User Generated Content, Online Forums, Blogs And Profiles  
   
