@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14913796011
+true true L14916586084
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p01.jcpenney.com SERVER NAME :->. dtcomexpr1l1j3 TIME :->. Wed May 18 11:15:28 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p05.jcpenney.com SERVER NAME :->. dtcomexpr1l1j6 TIME :->. Thu May 19 11:12:33 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,67 +49,35 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100 Or, Extra 15% Off\* Select Watches, Salon Products, Furniture, Mattresses, Custom Blinds and Shades
+Super Saturday Sale In Store and Online | Ends May 22 Shop Super Saturday Sale View Store Ad Shop Women Shop Kids Shop Men Shop Curtains and Drapes Shop Bedding Shop Jewelry Shop Handbags Shop ShoesNight and Day Doorbusters
 
-Online Only | May 18 | Code: GOSHOP6
+Friday 3PM CDT through Saturday 1PM CDT
 
-Get details
+Shop Doorbusters New and Online Only! Major appliances from your favorite brands.
 
-\*some exclusions apply
+Up to 30% Off Major Appliances, select styles
 
-30 to 50% Off Comforters and Bedding Sets
+Shop Major Appliances
 
-Select styles
+\*GE, GE Profile and GE Cafe limited to 10% savings.
 
-Shop Comforters and Bedding Sets 40% Off Swim for Her
-
-Select styles
-
-Shop Swim for Her 19.99 Women's Sandals
+30 to 50% Off Home Sale
 
 Select styles
 
-Shop Women's Sandals 40 to 50% Off Men's Polos, Tees and Shorts
+Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   5.99 Arizona Tees
+
+Select styles, orig. $12-$14
+
+Shop Juniors Shop Guys Shop Girls Shop Boys19.99 Sandals for Her
+
+Select styles, reg. $40-$50
+
+Shop Sandals for Her 40 to 50% Off Swim For The Family
 
 Select styles
 
-Shop Men's Polos, Tees and Shorts 29.99 Men's St. John's Bay Sandals and Shoes
-
-Select styles
-
-Shop Men's St. John's Bay Sandals and Shoes 15 to 50% Off Baby Apparel, Furniture and Bedding
-
-Select styles
-
-Shop Baby Apparel, Furniture and Bedding 30 to 60% Off Jewelry
-
-Select styles
-
-Shop Jewelry 40 to 50% Off Curtains and Drapes
-
-Select styles
-
-Shop Curtains and Drapes 50% Off Kids' Arizona Tops and Shorts
-
-Select styles, reg. $10-$46
-
-Shop Kids' Arizona 14.99 to 19.99 Ambrielle Bras
-
-Select styles, reg. $30-$40
-
-Shop Ambrielle Bras 5.99 Juniors' Arizona Solid V-Neck Tees or Camis
-
-Select styles, reg. $14
-
-Shop Juniors' Arizona 40 to 50% Off Guys' Arizona Apparel
-
-Select styles
-
-Shop Guys' Arizona Hurry In Store! Final Markdowns! 80% Off Clearance Featuring Thousands of Items From $3.99, $7.99 and $9.99
-
-Plus! New Markdowns 50 to 70% Off
-
-Find a Store Or, Shop 50 to 80% Off Online Clearance Shop Online Clearance SportsFanShop
+Shop Swim For The Family   Shop Women Shop Men Shop Boys Shop Girls SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
@@ -117,12 +85,11 @@ Shop SportsFanShop: Don't Forget Dad!
 
 Father's Day is June 19.
 
-Shop Gifts JCPenney | portraits
+Shop Gifts 80% Off Final Markdowns
 
-ONE FREE 8x10 traditional sheet and  
-50% OFF your photo purchase
+Plus! New Markdowns 50 to 70% Off
 
-Get Coupon: Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop Clearance Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
