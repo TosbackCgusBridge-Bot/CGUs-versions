@@ -22,6 +22,7 @@ Navigation
     *   Spin It Rich
     *   What's The Phrase
     *   Willy Wonka Slots
+    *   Wizard of Oz Magic Match
     *   Wizard of Oz Slots
     *   Word Streak With Friends
     *   Words On Tour
