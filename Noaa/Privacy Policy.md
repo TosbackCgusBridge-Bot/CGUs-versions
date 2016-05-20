@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheri
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms National Hurricane Preparedness Week is May 15-21, 2016 AROUND NOAA // April marks 12th consecutive month of record warmth for globe Warming due to carbon dioxide jumped by half in 25 years Explorers welcome here: Discover the new NOAA.gov
+Enter Search Terms National Hurricane Preparedness Week is May 15-21, 2016 AROUND NOAA // Photo story: America’s deadliest year for tornadoes April marks 12th consecutive month of record warmth for globe Warming due to carbon dioxide jumped by half in 25 years
 
 *   About our agency
 *   News and features
