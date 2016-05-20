@@ -248,11 +248,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Icy Comets Orbiting a Star Like Our Sun Spotted for the First Time**
+**Swallowed a Battery? No Problem. Just Eat This Tiny Robot, Too.**
 
-**Disappearing Tattoos for the Commitment Phobes**
+**Fish and Final Exams Shut Down Internet Access**
 
-**The First Successful Penis Transplant in the U.S. Just Happened**
+**Counting Carbs? Pay Attention to the Glycemic Load**
 
 **See More Headlines »**
 
