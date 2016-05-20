@@ -58,7 +58,7 @@ Sections Scores News Video Stats Standings Schedule Players Vote Tickets Apps Sh
     *   Field Experts
     *   Outstandings
     *   Cut 4
-    *   MLB Awards
+    *   Game Changers
     *   AFL
 *   Stats Stats Stats
     *   Regular Season Sortable Stats
