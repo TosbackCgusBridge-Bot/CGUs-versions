@@ -220,7 +220,7 @@ featuring EyeSight®
 
 See what a Subaru can do to protect you.
 
-Awards &. Accolades  
+Reviews &. Awards  
 
 See how the experts rate Subaru and our models.
 
