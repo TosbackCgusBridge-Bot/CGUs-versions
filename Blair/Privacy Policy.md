@@ -9,12 +9,7 @@ A modern twist on women's classic fashion and accessories. Premium-quality cloth
 
 Shop Fashion Values for Women, Men and Home. Style, Comfort and Value! Timeless women's apparel and shoes in famous and exclusive brands. Quality women's apparel, shoes and accessories at unbeatable value. Stylish, affordable women's fashion, footwear and accessories serving sizes 14 to 28.
 
-Creative inspiration for the home. Products that make life easier: problem-solvers for in and around the home. Helpful products for a full, independent life at any age. 0 A modern twist on women's classic fashion and accessories. Beauty, wellness and beyond . . . helping women look and feel great at any age. Quality women's apparel, shoes and accessories at unbeatable value. Blair Online Catalog - Fashion Values for Women, Men &. Home Classic womens apparel in Misses, Petites and Women's sizes. Helpful products for a full, independent life at any age. Haband Clothing Catalog | Clothing Online for Men &. Women Creative inspiration for the home. Endless Options for Active Living - Women's &. Men's Clothing, Home, Health, Beauty &. More Women's &. men's fine clothing, brand-name shoes, scrumptious food &. savvy gifts. Timeless women's apparel and shoes in famous and exclusive brands. Save big with clearance prices on all of our brands. An energetic mix of clothing, shoes &. accessories for play, travel, work or just hanging out. Products that make life easier: problem-solvers for in and around the home Premium-quality clothing and accessories with a classic flair. Stylish, affordable women's fashion, footwear and accessories serving sizes 14 to 28. Original silk apparel for women's and men's year-round comfort.
-
-*   |
-*   My Account
-*   |
-*   Sign In
+Creative inspiration for the home. Products that make life easier: problem-solvers for in and around the home. Helpful products for a full, independent life at any age. Shopping Bag 0 A modern twist on women's classic fashion and accessories. Beauty, wellness and beyond . . . helping women look and feel great at any age. Quality women's apparel, shoes and accessories at unbeatable value. Blair Online Catalog - Fashion Values for Women, Men &. Home Classic womens apparel in Misses, Petites and Women's sizes. Helpful products for a full, independent life at any age. Haband Clothing Catalog | Clothing Online for Men &. Women Creative inspiration for the home. Endless Options for Active Living - Women's &. Men's Clothing, Home, Health, Beauty &. More Women's &. men's fine clothing, brand-name shoes, scrumptious food &. savvy gifts. Timeless women's apparel and shoes in famous and exclusive brands. Save big with clearance prices on all of our brands. An energetic mix of clothing, shoes &. accessories for play, travel, work or just hanging out. Products that make life easier: problem-solvers for in and around the home Premium-quality clothing and accessories with a classic flair. Stylish, affordable women's fashion, footwear and accessories serving sizes 14 to 28. Original silk apparel for women's and men's year-round comfort. Skip to sub-navigation
 
 *   Customer Service
 *   |
@@ -23,6 +18,13 @@ Creative inspiration for the home. Products that make life easier: problem-solve
 *   |
 *   Wish List
 
+*   |
+*   My Account
+*   |
+*   Sign In
+
+What are you looking for today?
+
 *   Womens
 *   Mens
 *   For Your Home
@@ -30,7 +32,7 @@ Creative inspiration for the home. Products that make life easier: problem-solve
 *   Best of Blair
 *   Clearance
 
-Font Size: A A A Customer Service>. Privacy and Security
+Customer Service>. Privacy and Security
 
 **Privacy Policy**
 
