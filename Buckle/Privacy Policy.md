@@ -1,6 +1,4 @@
-Buckle Cardholders, earn double rewards!
-
-See details.
+Military Guests, enjoy a 10% military discount.
 
 Guest Services 800-607-9788
 
