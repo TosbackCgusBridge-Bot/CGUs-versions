@@ -71,9 +71,9 @@ For Uncharted 4
 
 Sony on Twitter
 
-This is your chance to win a Limited Edition Uncharted 4 PS4 Bundle. Details: http://play.st/1YrL4Ht
+#Uncharted4 is @Naughty\_Dog's most accessible experience for disabled gamers yet. See how they did it.
 
-2016-05-14 12:00:01+00:00
+2016-05-19 15:22:01+00:00
 
 View Tweet
 
@@ -181,9 +181,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-YES! Congrats @jtimberlake! #CantStopTheFeeling debuts at NUMBER ONE on @billboard's #Hot100!
+Slingshot over to your nearest theater because the #AngryBirdsMovie is NOW PLAYING!
 
-2016-05-17 06:35:52+00:00
+2016-05-21 00:00:39+00:00
 
 View Tweet
 
@@ -233,9 +233,9 @@ Sony on YouTube
 
 Play Video
 
-Alicia Keys Is Back With a New Song
+Alicia Keys Releases a Dreamy Video for "In Common"
 
-Stream Now
+Watch Now
 
 Close
 
@@ -245,15 +245,15 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Stream Now
+Watch Now
 
 Sony on Instagram
 
 Sony on Twitter
 
-RT @Ghostbusters: .@Nas x @RonHermanDotCom unveiled the #Ghostbusters Fashion Collection in LA - with an appearance by #RayParkerJr!
+"There's plenty to love about the RX100 IV – and nothing to hate." - @trustedreviews
 
-2016-05-17 11:14:00+00:00
+2016-05-20 20:00:06+00:00
 
 View Tweet
 
