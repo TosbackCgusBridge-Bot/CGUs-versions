@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheries 6 reasons habitat matters to fish, and people too Weather Oceans &. Coasts Hurricane preparedness video: What is storm surge? National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Photo story: America’s deadliest year for tornadoes Fisheries 6 reasons habitat matters to fish, and people too National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheri
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms National Hurricane Preparedness Week is May 15-21, 2016 AROUND NOAA // Photo story: America’s deadliest year for tornadoes April marks 12th consecutive month of record warmth for globe Warming due to carbon dioxide jumped by half in 25 years
+Enter Search Terms National Hurricane Preparedness Week is May 15-21, 2016 AROUND NOAA // Arctic set for record-breaking melt this summer Photo story: America’s deadliest year for tornadoes April marks 12th consecutive month of record warmth for globe Warming due to carbon dioxide jumped by half in 25 years
 
 *   About our agency
 *   News and features
