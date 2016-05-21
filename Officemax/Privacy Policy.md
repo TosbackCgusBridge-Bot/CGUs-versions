@@ -1,7 +1,5 @@
 SEG1 hp
 
-*   ×
-
 *   Weekly Ad
 *   Office Depot Business Solution
 *   OfficeMax Workplace
@@ -17,7 +15,7 @@ SEG1 hp
 
 Office Depot Deals
 
-mU2Kn1AtuIp1MUYM4tHO46v
+yE8dp9Sf\_a36gf-OKERGBaE
 
 Search Suggestions
 
