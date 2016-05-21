@@ -3,6 +3,7 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
+    *   Red White &. Blue Crush
     *   Swim
     *   Bethany Mota
     *   Scene Stealers
@@ -46,6 +47,7 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
+    *   Red White &. Blue Crush
     *   Headlining Now
     *   Uniform
     *   Online Only
