@@ -248,11 +248,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Swallowed a Battery? No Problem. Just Eat This Tiny Robot, Too.**
+**Beetle That Gives Birth to Live Young Discovered in Borneo, Your Nightmares**
 
-**Fish and Final Exams Shut Down Internet Access**
+**Prof's Teaching Assistant Isn't Human**
 
-**Counting Carbs? Pay Attention to the Glycemic Load**
+**It's an Electrical Cheese Sandwich for Your Gut**
 
 **See More Headlines »**
 
