@@ -104,6 +104,7 @@
     *   Swim Shop 2016
     *   No Iron Shop
     *   Shirts of Summer
+    *   Father's Day Gifts
     *   Tailored Fit Shop
     *   Big &. Tall Shop
     *   Sale
@@ -394,6 +395,7 @@
     *   Swim Shop 2016
     *   No Iron Shop
     *   Shirts of Summer
+    *   Father's Day Gifts
     *   Tailored Fit Shop
     *   Big &. Tall Shop
     *   Sale
