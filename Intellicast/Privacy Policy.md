@@ -1,6 +1,6 @@
 Privacy Policy Home » About Us » Privacy Policy
 
-Thank you for using our services. This privacy policy will go into effect on May 20, 2016. The current privacy policy is located here.
+Thank you for using our services. This privacy policy went into effect on May 20, 2016.
 
 The WSI Corporation, an IBM business, (sometimes, "we" or "us") is committed to protecting your privacy. This Privacy Policy is important and we encourage you to carefully read it.
 
