@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14919315937
+true true C14843542242
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p13.jcpenney.com SERVER NAME :->. dtcomexpr1l1j5 TIME :->. Fri May 20 11:09:51 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p11.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Tue May 24 11:12:39 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,75 +49,7 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Super Saturday Sale In Store and Online | Ends May 22 Shop Super Saturday Sale View Store Ad Night and Day Doorbusters Friday 3PM CDT through Saturday 1PM CDT
-
-Use your coupon to save even more!
-
-Shop Doorbusters DOORBUSTER | 4.99 Juniors' Arizona Tees
-
-Select styles, reg. $14
-
-Shop Juniors' Arizona Tees DOORBUSTER | 14.99 Stylus, a.n.a or St. John's Bay Shorts
-
-Select styles, orig. $30
-
-Shop Shorts DOORBUSTER | Up to 60% Off Women's Swim
-
-Select styles, orig. $28-$96
-
-Shop Women's Swim DOORBUSTER | 50% Off Liz Claiborne Apparel
-
-Select styles, reg. $14-$70
-
-Shop Liz Claiborne Apparel DOORBUSTER | 4.99 Guy's Arizona Solid Tees
-
-Select styles, reg. $12
-
-Shop Guy's Arizona Solid Tees DOORBUSTER | 14.99 All Men's St. John's Bay Solid Flat-Front Shorts
-
-Select styles, reg. $40
-
-Shop Men's St. John's Bay Shorts DOORBUSTER | Up to 60% Off Men's Swim
-
-Select styles, orig. $30-$42
-
-Shop Men's Swim DOORBUSTER | 60% Off Men's Flip Flops, Hats and Sunglasses
-
-Select styles, reg. $20-$48
-
-Shop Men's Accessories DOORBUSTER | 4.99 Kids' Arizona Tees
-
-Select styles, reg. $12
-
-Shop Kids' Arizona Tees DOORBUSTER | 12.99 Boys' and Girls' Arizona Shorts
-
-Select styles, reg. $26-$30
-
-Shop Kids' Arizona Shorts DOORBUSTER | 60% Off Kids' Swim
-
-Select styles, reg. $24-$36
-
-Shop Kids' Swim DOORBUSTER | 15.99 Sandals for Her
-
-Select styles, reg. $30
-
-Shop Sandals for Her DOORBUSTER | 14.99 JCPenney Home 300 thread count Easy-Care Solid or Print Twin Sheet Set
-
-reg. $50
-
-Shop Sheets DOORBUSTER | 60% Off All 10-piece Comforter Sets
-
-reg. $280-$300
-
-Shop 10-piece Comforter Sets DOORBUSTER | 17.99 Cooks Power Blender or Programmable Coffee Maker
-
-reg. $40-$50, excluded from coupon
-
-Shop Cooks DOORBUSTER | 40 to 50% Off Fila Shoes
-
-Select styles, msrp. $60-$75, excluded from coupon
-
-Shop Fila New and Online Only! Major Appliances From Your Favorite Brands Up to 30% Off\* Major Appliances
+New and Online Only! Major Appliances From Your Favorite Brands Up to 30% Off\* Major Appliances
 
 Select styles
 
@@ -133,15 +65,27 @@ Get details: JCPenney Rewards | Shop and Get Rewards
 
 for points earned on major appliances+
 
-+Get details: SportsFanShop
++Get details: 30 to 50% Off Swim For The Family
+
+Select styles
+
+Shop Swim For The Family Shop Women Shop Men Shop Boys Shop Girls 40 to 50% Off Sandals For Her
+
+Select styles, reg. $40-$60
+
+Shop Sandals For Her 7.99 St. John's Bay V-Neck Tee
+
+Select styles, orig. $14
+
+Shop St. John's Bay V-Neck Tee SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop: Don't Forget Dad!
+Shop SportsFanShop: Carter's Baby Sale
 
-Father's Day is June 19.
+In Store and Online through May 30
 
-Shop Gifts 80% Off Final Markdowns
+Shop Carter's 80% Off Final Markdowns
 
 Plus! New Markdowns 50 to 70% Off
 
