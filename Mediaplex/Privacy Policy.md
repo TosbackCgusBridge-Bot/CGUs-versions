@@ -78,18 +78,17 @@ Loading... Login Let's Connect See What We Do
     
     How to match consumers with their data  
     
-*   In-App Viewability Verification
+*   The 99%+ Human Guarantee
     
-    New partnership with Integral Ad Science
+    Stop wasting money on bots
     
 *   Building Consumer Profiles
     
     6 things every marketer should know
     
-*   Ad Quality Guide
+*   Ads They'll Actually Like
     
-    Solve for viewability, fraud and brand  
-    safety
+    A marketer's ad-delivery checklist  
     
 *   Click Measurement
     
