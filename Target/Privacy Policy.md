@@ -38,7 +38,7 @@ If you choose not to provide information we may not be able to provide you with 
 
 **Automated Information Collection**
 
-We may connect information collected automatically with information we already have about you in order to identify you as a Target guest. If we are able to identify you as a Target guest we may, for example, link your activity on our website to your activity in a Target store or on one of our mobile applications. This allows us to provide you with a personalized experience regardless of how you interact with us – online, in store, mobile, etc.
+We may connect information collected automatically with information we already have about you in order to identify you as a Target guest. If we are able to identify you as a Target guest we may, for example, link your activity on our website to your activity in a Target store or on one of our mobile applications. This allows us to provide you with a personalized experience regardless of how you interact with us — online, in store, mobile, etc.
 
 In order to provide the best guest experience possible, we also use automated information collection technologies for reporting and analysis purposes. We examine metrics such as how you are shopping on our website, in our stores, and on our mobile applications, the performance of our marketing efforts, and your response to those marketing efforts.
 
@@ -52,7 +52,7 @@ Target participates in interest-based advertising (IBA), also known as Online Be
 
 We allow third-party companies to collect certain information when you visit our websites or use our mobile applications. This information is used to serve ads for Target products or services or for the products or services of other companies when you visit this website or other websites. These companies use non-personally-identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, hardware/software information, cookie and session ID) and personally identifiable information (e.g., static IP address) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These parties typically use a cookie, web beacon, or other similar tracking technologies to collect this information.
 
-**Our Do Not Track Policy:** Some browsers have a "do not track" feature that lets you tell websites that you do not want to have your online activities tracked. At this time, we do not respond to browser "do not track" signals, but we do provide you the option to opt out of interest based advertising. To learn more about IBA or to opt-out of this type of advertising, visit the Network Advertising Initiative website and the Digital Advertising Alliance website. Options you select are browser and device-specific.
+**Our Do Not Track Policy:** Some browsers have a “do not track” feature that lets you tell websites that you do not want to have your online activities tracked. At this time, we do not respond to browser “do not track” signals, but we do provide you the option to opt out of interest based advertising. To learn more about IBA or to opt-out of this type of advertising, visit the Network Advertising Initiative website and the Digital Advertising Alliance website. Options you select are browser and device-specific.
 
 **Mobile Location Information**
 
@@ -62,13 +62,21 @@ If you have downloaded one or more of our mobile applications, you can opt-in to
 
 In order to improve guest online and mobile shopping experiences, help with fraud identification, and assist our guest relations representatives in resolving issues guests may experience in completing online purchases, we use tools to monitor certain user experience information. including login information, IP address, data regarding pages visited and ads clicked, specific actions taken on pages visited (e.g. information entered during checkout process), and browser information.
 
+**Targeted TV Ads**
+
+We may display targeted ads to you through your cable or satellite TV provider. These ads are sent to groups of people who share traits such as likely commercial interests and demographics. We receive this information from third party sources. For example, we may target TV ads to guests who have expressed an interest in shopping for groceries, cosmetics, clothing, etc. The ads may also be based on personal information you have provided your cable or satellite TV provider. We do not share any of your personal information, including your shopping history, with your cable or satellite TV provider. See your cable or satellite TV provider’s privacy policy for additional information about targeted TV Ads, including how you can opt out of receiving such ads.
+
 **Social Media**
 
-Target engages with guests on multiple social media platforms (e.g., Facebook, Twitter, and Pinterest). If you contact us on one of our social media platforms, or request guest service via social media we may contact you via direct message. In these instances, your interactions with us are governed by this privacy policy as well as the privacy policy of the social media platform you use.
+Target engages with guests on multiple social media platforms (e.g., Facebook, Twitter, and Pinterest). If you contact us on one of our social media platforms, request guest service via social media, or otherwise direct us to communicate with you via social media, we may contact you via direct message or use other social media tools to interact with you. In these instances, your interactions with us are governed by this privacy policy as well as the privacy policy of the social media platform you use.
 
 _Social Media Widgets_
 
 Our sites and mobile applications include social media features, such as the Facebook Like button, Google Plus, Pinterest, and Twitter widgets. These features may collect information about your IP address and which page you’re visiting on our site, and they may set a cookie or employ other tracking technologies. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with those features are governed by the privacy policies of the companies that provide them.
+
+_Social Media Ads_
+
+We may display targeted ads to you through social media platforms. These ads are sent to groups of people who share traits such as likely commercial interests and demographics. For example, we may target guests who have expressed an interest in shopping for groceries, cosmetics, clothing, etc. We do not share any of your personal information, including your shopping history, with social media platforms. See the policies of each social media platform for additional information about these types of ads.
 
 **Information from Other Sources**
 
@@ -122,7 +130,7 @@ How Is Your Information Shared?
 
 We share the information we collect within Target Corporation, which includes all Target subsidiaries and affiliates. Target Corporation may use this information to offer you products and services that may be of interest to you.
 
-Target Corporation owns and operates Target Stores, websites, mobile applications, and issues the Target Debit Card. Target Corporation subsidiaries and affiliates include, but are not limited to: Retail Activation Services LLC (Consensus Corporation), TCC Cooking Co. (Cooking.com and CHEFS Catalog) and Dermstore LLC.
+Target Corporation owns and operates Target Stores, websites, mobile applications, and issues the Target Debit Card. Target Corporation subsidiaries and affiliates include, but are not limited to: Retail Activation Services LLC (Consensus Corporation) and Dermstore LLC.
 
 **Card Issuing Bank**
 
@@ -228,7 +236,7 @@ How Is Your Personal Information Protected?
 
 **Security Methods**
 
-We maintain administrative, technical, and physical safeguards to protect your personal information. When we collect or transmit sensitive information such as a credit or debit card number, we use industry standard methods to protect that information. However, no e-commerce solution, website, mobile application, database or system is completely secure or "hacker proof." You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
+We maintain administrative, technical, and physical safeguards to protect your personal information. When we collect or transmit sensitive information such as a credit or debit card number, we use industry standard methods to protect that information. However, no e-commerce solution, website, mobile application, database or system is completely secure or “hacker proof.” You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
 
 **E-mail Security**
 
@@ -263,6 +271,6 @@ This privacy policy applies to all current or former guest personal information,
 
 Our website may offer links to other sites. If you visit one of these sites, you may want to review the privacy policy on that site. In addition, you may have visited our website through a link or a banner advertisement on another site. In such cases, the site you linked from may collect information from people who click on the banner or link. You may want to refer to the privacy policies on those sites to see how they collect and use this information.
 
-Last update: 10/1/2015
+Last update: 5/22/2016
 
-*   **Oct 2015** Expanded scope to include Target mobile applications, Removed TCI, Target Bank, and Target Canada as Affiliates, removed Target Ticket information, added information for California Residents.
+*   **May 2016** • Added information on communication via Social Media. Added information on Targeted TV ads and Social Media Ads. Removed TCC Cooking Co. (Cooking.com and CHEFS Catalog) as an affiliate.
