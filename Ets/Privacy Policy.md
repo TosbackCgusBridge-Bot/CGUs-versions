@@ -1,41 +1,4 @@
-Skip to Contents Skip to Page Navigation Skip to Search Skip to Footer Search: ETS.orgGRE WebsitePRAXIS WebsiteTOEFL WebsiteTOEIC Website brand links
-
-*   Home
-*   About ETS
-*   Research
-*   Services
-    *   Overview
-    *   K-12 Education
-    *   Educator Licensure
-    *   Higher Education
-    *   English Language Learning &. Assessment
-    *   Global Programs &. Services
-    *   Research
-*   Tests &. Products
-    *   Overview
-    *   GRE
-    *   HiSET
-    *   PRAXIS
-    *   TOEFL
-    *   TOEIC
-    *   View all tests &. products >
-*   Store
-    *   GRE Test Preparation
-    *   ParaPro Assessment Test Preparation
-    *   PRAXIS Test Preparation
-    *   School Leadership Series Test Preparation
-    *   Texas Educator Certification Program
-    *   TOEFL Test Preparation
-    *   TOEFL ITP Test Preparation
-    *   View all Store products >
-*   Contact Us
-    *   GRE Contacts
-    *   PRAXIS Contacts
-    *   TOEFL Contacts
-    *   TOEIC Contacts
-    *   Other ETS Contacts >
-
-audience links Legal ETS Home >. Legal >. Privacy and Security Privacy and Security
+skip to contents skip to navigation skip to search skip to footer angle-upangle-rightangle-downangle-leftcloseusermenu openmenu closedsearchglobebarsphonestore Legal Store Contact Us Search Search: ETS Home >. Legal >. Privacy and Security Privacy and Security
 
 Educational Testing Service ("ETS") recognizes the importance of protecting your privacy. In addition to the commitments set out in this Privacy Policy, ETS has taken steps to meet legal obligations in various countries with the aim of compliance with worldwide data privacy requirements. ETS will strive to treat your "personal data" according to applicable local laws which regulate inter-country process, access and transfer of personal data. This Privacy Policy ("Policy") discloses our information-gathering and dissemination practices for this website at www.ets.org ("Website"). 
 
@@ -237,19 +200,18 @@ See also:
 *   Link to detailed information on online store security
 *   Privacy and Information Security Policy for Test Takers
 
-  Related Links
+Promotional Links Related Links
 
 *   General Licensing Permission Form
 *   Research Licensing Permission Form
 
-*   Legal Home
-*   Terms of Use
-*   Privacy and Security
-    *   Test Takers
-*   Permissions
-*   Trademark Use
+Navigation for Legal Home Navigation for Legal Home Terms of Use Privacy and Security▼
 
-footer
+*   Test Takers
+
+Permissions Trademark Use▼
+
+*   Trademarks Owned by ETS
 
 ETS
 
@@ -268,6 +230,7 @@ Who We Serve
 *   K–12 Community
 *   Educator Licensure Assessments
 *   Higher Education Community
+*   Global Programs and Services
 *   English Learners and Teachers
 *   Employers
 *   View All
@@ -292,5 +255,7 @@ Send Feedback
 *   ETS Trademarks
 *   Get Adobe Reader (for PDFs)
 
+ETS — Measuring the Power of Learning.™
+
 Copyright © 2016 by Educational Testing Service. All rights reserved.  
-All trademarks are the property of their respective owners.
+All trademarks are property of their respective owners.
