@@ -12,9 +12,11 @@
 
 *   Lands' End
 *   Canvas by Lands' End
+*   Lands' End School
 
 *   Lands' End
 *   Canvas by Lands' End
+*   Lands' End School
 
 *   My Account
     *   Sign In
@@ -99,12 +101,11 @@
     FEATURED SHOPS
     
     *   New Arrivals
-    *   Supima Shirts &. Sweaters
-    *   Essentials for Summer Events
-    *   Swim Shop 2016
-    *   No Iron Shop
-    *   Shirts of Summer
     *   Father's Day Gifts
+    *   No Iron Shop
+    *   Essentials for Summer Events
+    *   Shirts of Summer
+    *   Swim Shop 2016
     *   Tailored Fit Shop
     *   Big &. Tall Shop
     *   Sale
@@ -235,7 +236,7 @@
     *   No Iron Bedding
     *   Canvas Totes &. More
     *   Sale
-*   Uniforms
+*   School
     
     *   Lands' End
     *   Lands' End
@@ -310,6 +311,7 @@
 
 *   Lands' End
 *   Canvas by Lands' End
+*   Lands' End School
 
 *   My Account
 *   Help
@@ -324,6 +326,7 @@
     
     *   Lands' End
     *   Lands' End
+    *   Lands' End School
     
     Back | Women CATEGORIES Back | CATEGORIES
     
@@ -366,6 +369,7 @@
     
     *   Lands' End
     *   Lands' End
+    *   Lands' End School
     
     Back | Men CATEGORIES Back | CATEGORIES
     
@@ -390,12 +394,11 @@
     FEATURED SHOPS Back | Men
     
     *   New Arrivals
-    *   Supima Shirts &. Sweaters
-    *   Essentials for Summer Events
-    *   Swim Shop 2016
-    *   No Iron Shop
-    *   Shirts of Summer
     *   Father's Day Gifts
+    *   No Iron Shop
+    *   Essentials for Summer Events
+    *   Shirts of Summer
+    *   Swim Shop 2016
     *   Tailored Fit Shop
     *   Big &. Tall Shop
     *   Sale
@@ -409,6 +412,7 @@
     
     *   Lands' End
     *   Lands' End
+    *   Lands' End School
     
     Back | Kids Girls Back | Girls
     
@@ -467,6 +471,7 @@
     
     *   Lands' End
     *   Lands' End
+    *   Lands' End School
     
     Back | Swim SHOP SWIM Back | SHOP SWIM
     
@@ -485,6 +490,7 @@
     
     *   Lands' End
     *   Lands' End
+    *   Lands' End School
     
     Back | Shoes SHOP SHOES Back | SHOP SHOES
     
@@ -503,6 +509,7 @@
     
     *   Lands' End
     *   Lands' End
+    *   Lands' End School
     
     Back | Home BEDDING Back | BEDDING
     
@@ -526,12 +533,13 @@
     *   No Iron Bedding
     *   Canvas Totes &. More
     *   Sale
-*   Uniforms
+*   School
     
     *   Lands' End
     *   Lands' End
+    *   Lands' End School
     
-    Back | Uniforms Girls &. Women Back | Girls &. Women
+    Back | School Girls &. Women Back | Girls &. Women
     
     *   Tops
     *   Sweaters
@@ -559,7 +567,7 @@
     *   Accessories
     *   Backpacks &. Bags
     
-    FIND YOUR SCHOOL Back | FIND YOUR SCHOOL FEATURED SHOPS Back | Uniforms
+    FIND YOUR SCHOOL Back | FIND YOUR SCHOOL FEATURED SHOPS Back | School
     
     *   Best-in-Class Polos
     *   Iron Knee Pants
@@ -568,7 +576,7 @@
     *   After School
     *   Sale
     
-    SHOP BY AGE RANGE Back | Uniforms
+    SHOP BY AGE RANGE Back | School
     *   Toddler
     *   Little Kid
     *   Big Kid
@@ -579,6 +587,7 @@
     
     *   Lands' End
     *   Lands' End
+    *   Lands' End School
     
     Back | Sale SALE Back | SALE
     
