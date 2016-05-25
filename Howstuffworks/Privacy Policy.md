@@ -248,11 +248,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Beetle That Gives Birth to Live Young Discovered in Borneo, Your Nightmares**
+**When Skywriting Just Isn't Enough: Fake Meteor Showers and Space Ads!**
 
-**Prof's Teaching Assistant Isn't Human**
+**Homemade Flamethrowing Guitar Plays Seriously Hot Licks**
 
-**It's an Electrical Cheese Sandwich for Your Gut**
+**How Doctors Really Die — The Same As Everyone Else**
 
 **See More Headlines »**
 
