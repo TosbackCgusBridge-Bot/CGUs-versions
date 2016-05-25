@@ -80,7 +80,7 @@ By using our website, you signify your consent to the Privacy Policy of Replacem
 
 Last Updated: 10/12/2015
 
-About Replacements, Ltd. Knowledge Base Frequently Asked Questions News Releases Careers Customer Service Contact Us Returns/Exchange Policy Shipping &. Handling Policy Services Free Pattern Identification Find This For Me Sell To Us Restoration and Repair Connect with us
+About Replacements, Ltd. Knowledge Base Frequently Asked Questions News Releases Careers Customer Service Contact Us Returns/Exchange Policy Shipping &. Handling Policy Services Free Pattern Identification Find This For Me Restoration and Repair Connect with us
 
 1-800-REPLACE | Terms &. Conditions | Site Map | Privacy Policy
 
