@@ -41,6 +41,7 @@ Search × Site / Articles City / Country Social × Share this page / Follow us o
     *   Calendar Creator
     *   Advanced Calendar Creator
     *   Holidays Worldwide
+    *   On This Day in History
     *   Calendar Articles
 *   WeatherBack
     *   Worldwide
@@ -51,7 +52,7 @@ Search × Site / Articles City / Country Social × Share this page / Follow us o
 *   Sun &. MoonBack
     *   Sun Calculator
     *   Moon Calculator
-    *   Moonphases
+    *   Moon Phases
     *   Eclipses
     *   Seasons
     *   Day and Night Map
