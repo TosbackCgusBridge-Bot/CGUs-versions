@@ -122,7 +122,6 @@ Legal Notices &. Trademarks
 *   Autodesk Terms and Conditions Governing the Provision of Consulting Services
 *   Online Purchases and Auto-Renewal Terms and Conditions
 *   Legal Disclosures
-*   Maintenance Plan, Subscription and Enterprise support terms and conditions
 
   Privacy Statement - UPDATED APRIL 24, 2015
 
