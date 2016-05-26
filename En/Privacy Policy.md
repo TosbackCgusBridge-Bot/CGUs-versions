@@ -9,7 +9,7 @@
     *   User services
     *   Developer services
 *   Company news
-    *   Life at Softonic
+    *   Softonic Blog
     *   Press room
 *   Careers
     *   Softonic Culture
