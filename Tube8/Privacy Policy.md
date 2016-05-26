@@ -21,13 +21,13 @@ Sign up Login Upload
 You have Adblock enabled. Adblock has been known to cause issues with site functionality. If you experience any difficulties, please try disabling Adblock. Close Advertise On Tube8 Name: \*Email: Subject: Tube8 AdvertisingReport inappropriate contentFeedback Type: Type: VideoAdsProfileOther Spot/Placement: Screenshot: My site: I'm interested in: Global TrafficGeo-Targeted Traffic Link to content being reported: \*Comments:  
 Send Start advertising on Tube8 today: Create your advertiser account. TUBE8 - Terms of service
 
-Last Modified: January 14, 2016
+Last Modified: May 11, 2016
 
 Acceptance of the Terms of Service
 
-The following terms and conditions, together with any documents they expressly incorporate by reference (collectively, these "Terms of Service"), govern your access to and use of www.tube8.com ("Tube8" or the "Website"), including any content, functionality and services offered on or through the Website, whether as a guest or a registered user. These Terms of Service apply to the Website, web pages, interactive features, applications, widgets, blogs, social networks, social network "tabs", or other online or wireless offerings that post a link to these Terms of Service, whether accessed via computer, mobile device or other technology, manner or means.
+The following terms and conditions, together with any documents they expressly incorporate by reference (collectively, these "**Terms of Service**"), govern your access to and use of www.tube8.com ("Tube8" or the "**Website**"), including any content, functionality and services offered on or through the Website, whether as a guest or a registered user. These Terms of Service apply to the Website, web pages, interactive features, applications, widgets, blogs, social networks, social network "tabs", or other online or wireless offerings that post a link to these Terms of Service, whether accessed via computer, mobile device or other technology, manner or means.
 
-Please read the Terms of Service carefully before you start to use the Website. By using the Website or by clicking to accept or agree to the Terms of Service when this option is made available to you, you accept and agree to be bound and abide by these Terms of Service and our Privacy Policy, found at https://www.tube8.com/info.html#privacy, incorporated herein by reference. If you do not want to agree to these Terms of Service or the Privacy Policy, you must not access or use the Website.
+Please read the Terms of Service carefully before you start to use the Website. By using the Website or by clicking to accept or agree to the Terms of Service when this option is made available to you, you accept and agree to be bound and abide by these Terms of Service and our Privacy Policy, found at http://www.tube8.com/info.html#privacy, incorporated herein by reference. If you do not want to agree to these Terms of Service or the Privacy Policy, you must not access or use the Website.
 
 If you access or use the Website, whether you click to accept or not, you agree to all of the various terms in these Terms of Service. If you do not understand all of these Terms of Service, you should consult an attorney before agreeing to any of the Terms of Service.
 
@@ -41,7 +41,7 @@ You affirm that you are at least 18 years of age or the age of majority in the j
 
 Changes to the Terms of Service
 
-We may modify or revise these Terms of Service from time to time in our sole discretion and you agree to be bound by such modifications or revisions. Although we may attempt to notify you when major changes are made to these Terms of Service, you are expected to periodically review the most up-to-date version found at https://www.tube8.com/info.html#terms, so you are aware of any changes, as they are binding on you.
+We may modify or revise these Terms of Service from time to time in our sole discretion and you agree to be bound by such modifications or revisions. Although we may attempt to notify you when major changes are made to these Terms of Service, you are expected to periodically review the most up-to-date version found at http://www.tube8.com/info.html#terms, so you are aware of any changes, as they are binding on you.
 
 If we change anything in these Terms of Service, the change will be reflected in the "last modified date". You agree that you will periodically review these terms and refresh the page when doing so. You agree to note the date of the last revision of these terms. If the "last modified" date is unchanged from the last time you reviewed these terms, then they are unchanged. On the other hand, if the date has changed, then there have been changes, and you agree to re-review the terms, and you agree to the new ones.
 
@@ -51,7 +51,7 @@ About Our Website
 
 The Website allows for uploading, sharing and general viewing of various types of adult-oriented content by registered and unregistered users who desire to share and view visual depictions of adult-oriented content, including sexually explicit images. In addition, the Website contains texts, messages, files, data, information, images, photos, videos, recordings, materials, code or content of any kind and other materials posted/uploaded by users.
 
-The Website may contain links to third party websites that are not owned or controlled by the Website. The Website has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party websites. In addition, the Website will not and cannot censor or edit the content of any third-party site. By using the Website you expressly relieve it from any and all liability arising from your use of any third-party website. Accordingly, we encourage you to be aware when you leave the Website and to read the terms and conditions and privacy policy of each other website that you visit.
+The Website may contain links to third party websites that are not owned or controlled by the Website. The Website has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party websites. In addition, the Website will not and cannot censor or edit the content of any third-party site. By using the Website, you expressly relieve it from all liability arising from your use of any third-party website. Accordingly, we encourage you to be aware when you leave the Website and to read the terms, conditions, and privacy policy of each other website that you visit.
 
 The Website is for your personal use and shall not be used for any commercial endeavor except those specifically endorsed or approved by the Website.
 
@@ -68,7 +68,7 @@ You are responsible for:
 *   making all arrangements necessary for you to have access to the Website;
 *   ensuring that all persons who access the Website through your internet connection are aware of these Terms of Service and comply with them.
 
-To access the Website or some of the resources it offers, you may be asked to provide certain registration details or other information. It is a condition of your use of the Website that all the information you provide on the Website is correct, current and complete. You agree that all information you provide to register with this Website or otherwise, including but not limited to through the use of any interactive features on the Website, is governed by our Privacy Policy found at https://www.tube8.com/info.html#privacy , and you consent to all actions we take with respect to your information consistent with our Privacy Policy.
+To access the Website or some of the resources it offers, you may be asked to provide certain registration details or other information. It is a condition of your use of the Website that all the information you provide on the Website is correct, current and complete. You agree that all information you provide to register with this Website or otherwise, including but not limited to through the use of any interactive features on the Website, is governed by our Privacy Policy found at http://www.tube8.com/info.html#privacy, and you consent to all actions we take with respect to your information consistent with our Privacy Policy.
 
 If you choose, or are provided with, a user name, password or any other piece of information as part of our security procedures, you must treat such information as confidential and, you must not disclose it to any other person or entity and you are fully responsible for all activities that occur under your user name or password. You also acknowledge that your account is personal to you and agree not to provide any other person with access to this Website or portions of it using your user name, password or other security information. You agree to notify us immediately of any unauthorized access to or use of your user name or password or any other breach of security by contacting us at: support@tube8.com. You also agree to ensure that you exit from your account at the end of each session. You should use particular caution when accessing your account from a public or shared computer so that others are not able to view or record your password or other personal information. Although the Website will not be liable for your losses caused by any unauthorized use of your account, you may be liable for the losses of the Website or others due to such unauthorized use.
 
@@ -78,23 +78,27 @@ We have the right to disable any user name, password or other identifier, whethe
 
 You acknowledge that the Website reserves the right to charge fees for its services and website access and to change its fees in its complete and sole discretion.
 
-Our Intellectual Property
+Limited, Conditional License to Use Our Intellectual Property
 
 Tube8 and our associated logos and names are our trademarks and/or service marks. Other trademarks, service marks, names and logos used on or through the Website, such as trademarks, service marks, names or logos associated with third party Content providers, are the trademarks, service marks or logos of their respective owners. You are granted no right or license with respect to any of the aforesaid trademarks, service marks or logos.
 
 The inclusion of images or text containing the trademarks or service marks or the name or likeness of any person, including any celebrity, does not constitute an endorsement, express or implied, by any such person, of the Website or vice versa.
 
-Certain materials available on or through the Website are content we own, authored, created, purchased, or licensed (collectively, our "Works"). Our Works may be protected by copyright, trademark, patent, trade secret and/or other laws, and we reserve and retain all rights in our Works and the Website. We hereby grant you a royalty-free, limited, revocable, non-sublicensable, and non-exclusive license to access our Works solely for your personal use in connection with using the Website. You may not otherwise reproduce, distribute, communicate to the public, make available, adapt, publicly perform, link to, or publicly display the Works or any adaptations thereof unless expressly set forth herein. Such conduct would exceed the scope of your license and constitute copyright infringement.
+The Website and certain materials available on or through the Website are content we own, authored, created, purchased, or licensed (collectively, our "**Works**"). Our Works may be protected by copyright, trademark, patent, trade secret and/or other laws, and we reserve and retain all rights in our Works and the Website. We hereby grant you a conditional, royalty-free, limited, revocable, non-sublicensable, and non-exclusive license to access our Website and our Works solely for your personal use in connection with using the Website.
+
+We grant you a conditional and limited license to access, view and display Website and Works, and to create and display transient copies of the Website and Works as necessary to view them, conditioned upon your agreement to display the Website whole and intact as presented by the Website host, complete with any advertising, to not interfere with the display of any advertising, and to not use ad blocking software of any kind. This limited license is further conditioned upon your agreement not to use any information obtained from or through the Website to block or interfere with the display of any advertising on the Website, or for the purpose of implementing, modifying or updating any software or filter lists that block or interfere with the display of any advertising on the Website. Interference with the display of any advertising on the Website, use of ad blocking software to block or disable any advertising while viewing the Website, or use of information obtained from or through the Website to update any ad blocking software or filter lists, is prohibited, violates the conditions of your limited license to view the Website and Works and constitutes copyright infringement.
+
+You may not otherwise reproduce, distribute, communicate to the public, make available, adapt, publicly perform, link to, or publicly display the Website and Works or any adaptations thereof unless expressly set forth herein. Such conduct would exceed the scope of your license and constitute copyright infringement.
 
 The Website provides an "Embeddable Player" feature, which you may incorporate into your own websites for use in accessing the Content on the Website. You may not modify, build upon or block any portion or functionality of the Embeddable Player in any way, including but not limited to links back to the Website.
 
-The above described license is conditioned on your compliance with these Terms of Service, and shall terminate upon termination of these Terms of Service. If you breach any provision of these Terms of Service, any license you have obtained will be automatically rescinded and terminated. In order to protect our rights some Content made available on the Website may be controlled by digital rights management technologies, which will restrict how you may use the Content. You must not circumvent, remove, delete, disable, alter or otherwise interfere with any digital rights management technology. Such conduct is prohibited by law.
+The above described license is conditioned on your compliance with these Terms of Service, including, specifically, your agreement to view the Website whole and intact as presented by the website host, complete with any advertising, and shall terminate upon termination of these Terms of Service. If you breach any provision of these Terms of Service, any license you have obtained will be automatically rescinded and terminated. In order to protect our rights some Content made available on the Website may be controlled by digital rights management technologies, which will restrict how you may use the Content. You must not circumvent, remove, delete, disable, alter or otherwise interfere with any digital rights management technology. Such conduct is prohibited by law.
 
-If the Website allows you to download or otherwise copy our Works, you are not buying or being gifted copies thereof. Instead, you are licensing a limited, revocable, non-sublicensable, and non-exclusive right to possess and use the copies for personal, non-commercial use, subject to specific terms and conditions (the "Download License"). Under this Download License you may not thereafter reproduce, distribute, communicate to the public, make available, adapt, publicly perform, or publicly display the Website and Works or any adaptations thereof unless expressly set forth herein. Such conduct would exceed the scope of your Download License and constitute copyright infringement. At the expiration of your Download License or the termination of these Terms of Service, you will delete or otherwise dispose of all copies of Works in your possession.
+If the Website allows you to download or otherwise copy our Works, you are not buying or being gifted copies thereof. Instead, you are licensing a limited, revocable, non-sublicensable, and non-exclusive right to possess and use the copies for personal, non-commercial use, subject to specific terms and conditions (the "**Download License**"). Under this Download License you may not thereafter reproduce, distribute, communicate to the public, make available, adapt, publicly perform, or publicly display the Website and Works or any adaptations thereof unless expressly set forth herein. Such conduct would exceed the scope of your Download License and constitute copyright infringement. At the expiration of your Download License or the termination of these Terms of Service, you will delete or otherwise dispose of all copies of Works in your possession.
 
 Content Posted by Users
 
-The Website may contain message boards, chat rooms, personal web pages or profiles, playlists, forums, bulletin boards and other interactive features (collectively, "Interactive Services") that allow users to upload, post, create, submit, publish, make available, send, share, communicate, display or transmit to other users or other persons (collectively, "post") content, data, information, videos, images, recordings, materials, code or content of any kind (collectively, "Content") on or through the Website.
+The Website may contain message boards, chat rooms, personal web pages or profiles, playlists, forums, bulletin boards and other interactive features (collectively, "**Interactive Services**") that allow users to upload, post, create, submit, publish, make available, send, share, communicate, display or transmit to other users or other persons (collectively, "**post**") content, data, information, videos, images, recordings, materials, code or content of any kind (collectively, "**Content**") on or through the Website.
 
 As a Website account holder you may submit Content to the Website and other Websites linked to the Website including videos and user comments. You understand that the Website does not guarantee any confidentiality with respect to any Content you submit.
 
@@ -134,11 +138,11 @@ You agree that you will not use or attempt to use any method, device, software o
 *   post any Content containing unsolicited or unauthorized advertising, promotional materials, spam, junk mail, chain letters, pyramid schemes or any other form of unauthorized solicitation.
 *   post any Content containing sweepstakes, contests, or lotteries, or otherwise related to gambling.
 *   post any Content containing copyrighted materials, or materials protected by other intellectual property laws, that you do not own or for which you have not obtained all necessary written permissions and releases.
-*   post any Content which impersonates another person;
+*   post any Content which impersonates another person or falsely state or otherwise misrepresent your affiliation with a person;
 *   deploy programs, software or applications designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment, including by engaging in any denial of service attack or similar conduct.
 *   deploy or use programs, software or applications designed to harm, interfere with the operation of, or access in an unauthorized manner, services, networks, servers, or other infrastructure.
 *   exceed your authorized access to any portion of the Website;
-*   remove, delete, alter, circumvent, avoid or bypass any digital rights management technology.
+*   remove, delete, alter, circumvent, avoid or bypass any digital rights management technology, encryption or security tools used anywhere on the Website or in connection with our services.
 *   collect or store personal data about anyone;
 *   alter or modify without permission any part of the Website or its content, including ads;
 *   obtain or attempt to access or otherwise obtain any Content or information through any means not intentionally made available or provided for through the Website.
@@ -149,9 +153,11 @@ Additionally, you agree not to:
 *   use the Website in any manner that could disable, overburden, damage, or impair the site or interfere with any other party's use of the Website, including their ability to engage in real time activities through the Website.
 *   use any robot, spider or other automatic device, process or means to access the Website for any purpose, including monitoring or copying any of the material on the Website without our prior written consent.
 *   use any manual process to monitor or copy any of the material on the Website or for any other unauthorized purpose without our prior written consent.
+*   use any information obtained from or through the Website to block or interfere with the display of any advertising on the Website, or for the purpose of implementing, modifying or updating any software or filter lists that block or interfere with the display of any advertising on the Website.
 *   use any device, bots, scripts, software or routine that interferes with the proper working of the Website or that shortcut or alter Website functions to run or appear in ways that are not intended by Website design.
 *   introduce or upload any viruses, Trojan horses, worms, logic bombs, time bombs, cancelbots, corrupted files or any other similar software, program or material which is malicious or technologically harmful or that that may damage the operation of another's property or of the Website or our services.
 *   attempt to gain unauthorized access to, interfere with, damage or disrupt any parts of the Website, the server on which the Website is stored, or any server, computer or database connected to the Website.
+*   remove any copyright or other proprietary notices from our Website or any of the materials contained therein.
 *   attack the Website via a denial-of-service attack or a distributed denial-of-service attack;
 *   otherwise attempt to interfere with the proper working of the Website.
 
@@ -181,7 +187,7 @@ Copyrights and Other Intellectual Property
 
 The Website respects the intellectual property of others, and requires that you do the same. You may not upload, embed, post, email, transmit or otherwise make available any Content that infringes any copyright, patent, trademark, trade secret, privacy, publicity or other proprietary rights of any person or entity.
 
-The Website operates a clear Copyright Policy in relation to any Content alleged to infringe the copyright of a third party. Details of that policy can be found at https://www.tube8.com/info.html#dmca. If you believe that any Content violates your copyright, please see our Copyright Policy https://www.tube8.com/info.html#dmca for instructions on sending us a notice of copyright infringement.
+The Website operates a clear Copyright Policy in relation to any Content alleged to infringe the copyright of a third party. Details of that policy can be found at http://www.tube8.com/info.html#dmca. If you believe that any Content violates your copyright, please see our Copyright Policy http://www.tube8.com/info.html#dmca for instructions on sending us a notice of copyright infringement.
 
 As part of our Copyright Policy, the Website will terminate user access to the Website if, under appropriate circumstances, a user has been determined to be a repeat infringer.
 
@@ -199,7 +205,7 @@ We may update the content on this Website from time to time, but its content is 
 
 Information about You and Your Visits to the Website
 
-All information we collect on this Website is subject to our Privacy Policy https://www.tube8.com/info.html#privacy. By using the Website, you consent to all actions taken by us with respect to your information in compliance with the Privacy Policy.
+All information we collect on this Website is subject to our Privacy Policy http://www.tube8.com/info.html#privacy. By using the Website, you consent to all actions taken by us with respect to your information in compliance with the Privacy Policy.
 
 Collection and Use of Your Usage Information by Advertisers and Others
 
@@ -272,7 +278,7 @@ THE FOREGOING LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTE
 
 Governing Law
 
-These Terms and the relationship between you and us shall be governed by the laws of Cyprus, as an agreement wholly performed, negotiated and executed therein without regard to conflict of law rules. You agree that: (i) the Website shall be deemed solely based in Cyprus. and (ii) the Website shall be deemed a passive Website that does not give rise to personal jurisdiction over us, either specific or general, in jurisdictions other than Cyprus. The sole and exclusive jurisdiction and venue for any action or proceeding arising out of or related to this Agreement shall be in an appropriate court located in Limassol, Cyprus. You hereby submit to the jurisdiction and venue of said Courts. You consent to service of process in any legal proceeding.
+These Terms, your use of the Website, and the relationship between you and us shall be governed by the laws of Cyprus, without regard to conflict of law rules. You agree that: (i) the Website shall be deemed solely based in Cyprus. and (ii) the Website shall be deemed a passive Website that does not give rise to personal jurisdiction over us, either specific or general, in jurisdictions other than Cyprus. The sole and exclusive jurisdiction and venue for any action or proceeding arising out of or related to this Agreement shall be in an appropriate court located in Limassol, Cyprus. You hereby submit to the jurisdiction and venue of said Courts. You consent to service of process in any legal proceeding.
 
 Any claim by you that may arise in connection with these Terms will be compensable by monetary damages and you will in no event be entitled to injunctive or other equitable relief.
 
@@ -284,7 +290,7 @@ Your Comments and Concerns
 
 This website is operated by MG Freesites Ltd, Block 1, 195-197 Old Nicosia-Limassol Road, Dali Industrial zone, Cyprus 2540.
 
-All notices of copyright infringement claims should be sent to the copyright agent designated in our Copyright Policy https://www.tube8.com/info.html#dmca in the manner and by the means set forth therein.
+All notices of copyright infringement claims should be sent to the copyright agent designated in our Copyright Policy http://www.tube8.com/info.html#dmca in the manner and by the means set forth therein.
 
 All other feedback, comments, requests for technical support and other communications relating to the Website should be directed to: support@tube8.com.
 
