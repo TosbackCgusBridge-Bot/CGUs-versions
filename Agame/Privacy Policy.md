@@ -69,6 +69,28 @@ Explore Games
     Are you a existing user? Then log in to see you favorited games here! Don't have an account yet? Be sure to sign up to use this feature.
     
     Join for free
+*   Specials
+    
+    hot games
+    
+    *   Forge of Empires
+    *   WeSpin
+    *   Easy Joe World
+    *   Five Nights at Freddy's 2
+    *   Color Switch
+    *   Bridge Builder
+    
+    Mobile Apps More
+    
+    *   Cows vs Sheep: Mower Mayhem
+    *   Troll Face Quest Video Memes
+    *   My Dolphin Show
+    *   Troll Face Quest Unlucky
+    *   Crash Drive 2
+    *   Mad Truck Challenge
+    
+    Specials
+    
 *   Multiplayer
     
     Top Categories
