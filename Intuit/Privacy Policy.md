@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14843542242
+true true L14937632329
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p11.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Tue May 24 11:12:39 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p20.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Wed May 25 11:15:34 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,7 +49,15 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-New and Online Only! Major Appliances From Your Favorite Brands Up to 30% Off\* Major Appliances
+TODAY ONLINE ONLY | Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100 Or, Extra 15% Off\* Select Watches, Salon Products, Furniture, Mattresses, Custom Blinds and Shades
+
+Ends 5/25 | Code: BUYNOW77
+
+Get details:
+
+\*Some exclusions apply.
+
+Shop Women Shop Men Shop Kids Shop Shoes Shop Window Shop Bedding Shop Jewelry Shop Handbags New and Online Only! Major Appliances From Your Favorite Brands Up to 30% Off\* Major Appliances
 
 Select styles
 
@@ -65,31 +73,19 @@ Get details: JCPenney Rewards | Shop and Get Rewards
 
 for points earned on major appliances+
 
-+Get details: 30 to 50% Off Swim For The Family
-
-Select styles
-
-Shop Swim For The Family Shop Women Shop Men Shop Boys Shop Girls 40 to 50% Off Sandals For Her
-
-Select styles, reg. $40-$60
-
-Shop Sandals For Her 7.99 St. John's Bay V-Neck Tee
-
-Select styles, orig. $14
-
-Shop St. John's Bay V-Neck Tee SportsFanShop
++Get details: SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop: Carter's Baby Sale
-
-In Store and Online through May 30
-
-Shop Carter's 80% Off Final Markdowns
+Shop SportsFanShop: 80% Off Final Markdowns
 
 Plus! New Markdowns 50 to 70% Off
 
-Shop Clearance Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop Clearance Now Don't Forget Dad!
+
+Father's Day is June 19.
+
+Shop Gifts Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
