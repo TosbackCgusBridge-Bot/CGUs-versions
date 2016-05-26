@@ -367,6 +367,7 @@ For Members in the United States: LinkedIn Corporation Attn: Privacy Policy Issu
 *   Members
 *   Jobs
 *   Pulse
+*   Topics
 *   Companies
 *   Groups
 *   Universities
