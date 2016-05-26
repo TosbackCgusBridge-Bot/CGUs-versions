@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Taking out the trash — in the middle of the Pacific Weather Photo story: America’s deadliest year for tornadoes National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheries Photo story: Home sweet home, monk seals returned to the wild Oceans &. Coasts Taking out the trash — in the middle of the Pacific National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms April marks 12th consecutive month of record warmth for globe AROUND NOAA // Arctic set for record-breaking melt this summer Blog: Remembering the tornado outbreaks of 2011 Warming due to carbon dioxide jumped by half in 25 years
+Enter Search Terms April marks 12th consecutive month of record warmth for globe AROUND NOAA // Scientists discover largest sponge known during deep-sea exploration Arctic set for record-breaking melt this summer Blog: Remembering the tornado outbreaks of 2011
 
 *   About our agency
 *   News and features
