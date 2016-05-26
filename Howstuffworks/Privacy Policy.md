@@ -248,11 +248,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**When Skywriting Just Isn't Enough: Fake Meteor Showers and Space Ads!**
+**In Case You Need Another Reason to Buy a Beach House**
 
-**Homemade Flamethrowing Guitar Plays Seriously Hot Licks**
+**Lego Sets Have Become More Violent, New Study Finds**
 
-**How Doctors Really Die — The Same As Everyone Else**
+**Nile Crocodiles Retiring to South Florida?**
 
 **See More Headlines »**
 
