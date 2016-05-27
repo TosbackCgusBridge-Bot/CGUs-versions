@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14937632329
+true true C14849678593
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p20.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Wed May 25 11:15:34 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p15.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Thu May 26 11:15:29 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,19 +49,15 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-TODAY ONLINE ONLY | Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100 Or, Extra 15% Off\* Select Watches, Salon Products, Furniture, Mattresses, Custom Blinds and Shades
-
-Ends 5/25 | Code: BUYNOW77
-
-Get details:
-
-\*Some exclusions apply.
-
-Shop Women Shop Men Shop Kids Shop Shoes Shop Window Shop Bedding Shop Jewelry Shop Handbags New and Online Only! Major Appliances From Your Favorite Brands Up to 30% Off\* Major Appliances
+STARTS NOW! Memorial Day Sale and Clearance In Store and Online | Ends May 30 Shop Memorial Day Sale View Store Ad Shop Clearance New and Online Only! Major Appliances From Your Favorite Brands Up to 30% Off\* Major Appliances
 
 Select styles
 
-Shop Major Appliances 18 Months or 30 Months Special Financing\*\*
+Shop Major Appliances
+
+\*GE, GE Profile and GE Cafe limited to 10% off savings.
+
+18 Months or 30 Months Special Financing\*\*
 
 available on qualifying major appliance purchases made through 5/30/16 on a JCPenney Credit Card. Must request at time of purchase.
 
@@ -69,23 +65,35 @@ available on qualifying major appliance purchases made through 5/30/16 on a JCPe
 
 on all appliance purchases over $299
 
-Get details: JCPenney Rewards | Shop and Get Rewards
+Get details: JCPenney Rewards | Shop and Get A $10 Reward
 
-for points earned on major appliances+
+for every 200 points earned
 
-+Get details: SportsFanShop
+Get details: 30 to 50% Off Home Sale
+
+Select styles
+
+Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   BIG BUY! 4.99 Juniors' and Guys' Arizona Tees, Tanks &. Camis and Kids' Arizona Tees
+
+Select styles, reg. $12-$14
+
+Shop Arizona Shop Juniors Shop Guys Shop Boys Shop Girls 50 to 60% Off Swim For The Family
+
+Select styles
+
+Shop Swim For The Family   Shop Women Shop Men Shop Boys Shop Girls SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop: 80% Off Final Markdowns
-
-Plus! New Markdowns 50 to 70% Off
-
-Shop Clearance Now Don't Forget Dad!
+Shop SportsFanShop: Don't Forget Dad!
 
 Father's Day is June 19.
 
-Shop Gifts Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop Gifts Carter's Baby Sale
+
+In Store and Online Through May 30
+
+Shop Carter's Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
