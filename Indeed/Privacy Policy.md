@@ -33,7 +33,7 @@ Cookies, Privacy and Terms of Service
 *   Indeed Prime Terms
 *   Indeed Targeted Ads Terms
 *   Indeed MoBolt Terms
-*   EEA Data
+*   Indeed General EEA Safe Harbor Notice
 *   Indeed Vulnerability Reward Program
 
 **Cookie Policy**
@@ -813,7 +813,15 @@ These Terms and Conditions set forth the terms and conditions under which Indeed
 
 9.13. **Arbitration.** Any controversy or claim arising out of or relating to this Agreement or the breach thereof shall be determined by binding arbitration administered by the American Arbitration Association in accordance with its Commercial Rules, including the optional rules regarding emergency relief. The number of arbitrators shall be one (1), and the place of arbitration shall be Austin, Texas, U.S.A., and the language of the arbitration shall be English. The parties may apply to any court of competent jurisdiction for a temporary restraining order, preliminary injunction, or other interim or conservatory relief as necessary, without breach of this Section and without abridgment of the powers of the arbitrator.
 
-**EEA Data**
+**INDEED GENERAL EEA SAFE HARBOR NOTICE (recognized until October 6, 2015)**
+
+**Scope of Safe Harbor Certification**
+
+Indeed, Inc. (“Indeed” or “we”) recognize that the European Community has established a data protection regime pursuant to Directive 95/46/EC, which applies to the European Economic Area (“EEA”) and that Switzerland (“CH”) has also established a data protection regime which applies to CH that restricts companies in the EEA/CH in transferring personal data about individuals in the EEA/CH to the United States, unless there is “adequate protection” for such personal data when it is received in the United States. To create such “adequate protection” and allow our subsidiaries and business partners to overcome the restriction on international data transfers established by the Directive and Swiss legislation, we adhere to the Safe Harbor Privacy Principles published by US Department of Commerce (“Safe Harbor Principles”) with respect to personal data about individuals in the EEA/CH that we receive from our subsidiaries, customers and other business partners. Our Safe Harbor Certification does not extend to data that we receive directly through Indeed’s publicly accessible websites. More information on the Safe Harbor Principles and Indeed’s scope of participation is available at https://safeharbor.export.gov/companyinfo.aspx?id=27770.
+
+**Scope of this Notice**
+
+This Notice does not apply to employees of Indeed or our subsidiaries. this Notice addresses other data subjects residing in the EEA and CH (collectively, “EEA Persons”) whose data we may receive from one of our subsidiaries, customers, suppliers or other business partners in the EEA/CH e.g., referral partners, integration partners, etc.
 
 **Categories of EEA Data**
 
@@ -833,7 +841,11 @@ With respect to marketing emails, EEA Persons may opt-out of receiving further e
 
 **Access and Review**
 
-If you are an EEA Person about whom we hold EEA Data, you may request access to, and the opportunity to update, correct or delete, such EEA Data. Deletion is subject to Indeed’s rights and obligations under EU and national law to preserve data. To submit such requests or raise any other questions, please contact Indeed or the business that provided your EEA Data to us. We reserve the right to take appropriate steps to authenticate an applicant’s identity, to charge an adequate fee before providing access and to deny requests.
+If you are an EEA Person about whom we hold EEA Data, you may request access to, and the opportunity to update, correct or delete, such EEA Data. Deletion is subject to Indeed’s rights and obligations under EU and national law to preserve data. To submit such requests or raise any other questions, please contact Indeed or the business that provided your EEA Data to us. You can also contact our Safe Harbor Contact. We reserve the right to take appropriate steps to authenticate an applicant’s identity, to charge an adequate fee before providing access and to deny requests, except as required by the Safe Harbor Principles.
+
+**Safe Harbor Contact**
+
+If you have questions, please contact Indeed by sending a letter or email to Indeed Privacy Program, Indeed, Inc., c/o Legal Department, 6433 Champion Grandview Way, Building 1, Austin, TX, 78750, USA or privacy-office @ indeed.com (remove spaces when sending email).
 
 **Indeed Vulnerability Reward Program**
 
