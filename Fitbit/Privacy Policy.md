@@ -184,7 +184,7 @@ Get the skinny on all things Fitbit
 
 United States (change)
 
-*   ©2016 Fitbit Inc. All rights reserved.
+*   ©2016 Fitbit, Inc. All rights reserved.
 *   Legal Terms
 *   Privacy Policy
 *   Wear and Care
