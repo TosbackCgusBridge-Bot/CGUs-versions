@@ -187,7 +187,7 @@
     
     FEATURED SHOPS
     *   Swim Tees &. Rash Guards
-    *   Water Shoes &. Sandal
+    *   Water Shoes &. Sandals
     *   Totes &. Beach Bags
     *   Beach Towels
     *   Women's Swim Finder
@@ -290,7 +290,7 @@
     *   Lands' End
     *   Lands' End
     
-    SALE>.
+    SALE
     
     *   Women
     *   Men
@@ -299,7 +299,7 @@
     *   Home
     *   School Uniforms
     
-    CLEARANCE>.
+    CLEARANCE
     *   Women
     *   Men
     *   Girls
@@ -482,7 +482,7 @@
     
     FEATURED SHOPS Back | Swim
     *   Swim Tees &. Rash Guards
-    *   Water Shoes &. Sandal
+    *   Water Shoes &. Sandals
     *   Totes &. Beach Bags
     *   Beach Towels
     *   Women's Swim Finder
