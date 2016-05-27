@@ -254,4 +254,4 @@ Bundle for even more savings!
 *   Mechanical Repair
 *   ID Theft
 
-Auto + HomeAuto + RentersAuto + CondoAutoHomeRentersCondoMobile HomeClassic CarMotorcycle/ATVBoat/PWCRV/TrailerSnowmobileTerm LifeHealthCommercial AutoBusinessTravelPetMechanical RepairID Theft . 
+Auto + HomeAuto + RentersAuto + CondoAutoHomeRentersCondoMobile HomeClassic CarMotorcycle/ATVBoat/PWCRV/TrailerSnowmobileTerm LifeHealthCommercial AutoBusinessTravelPetMechanical RepairID Theft 
