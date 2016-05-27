@@ -76,7 +76,7 @@ H) Tagged Gold
 
 I) VIP Membership
 
-37 You may decide to upgrade your membership to VIP status for an additional monthly cost. If you choose to become a Tagged VIP, your membership will automatically renew on a monthly basis. If, at any point, you wish to discontinue your VIP membership, you may do so at your convenience. If your VIP membership account is billed through our website, you must visit http://www.tagged.com/account\_info.html and select 'CANCEL' at least 3 days prior to your next scheduled automatic payment so that we can process your cancellation properly. If your VIP membership account is billed through iTunes, you must cancel at least 24 hours prior to your next scheduled automatic payment, by following the process outlined here.
+37 You may decide to upgrade your membership to VIP status for an additional monthly cost. If you choose to become a Tagged VIP, your membership will automatically renew on a monthly basis. If, at any point, you wish to discontinue your VIP membership, you may do so at your convenience. If your VIP membership account is billed through our website, you must visit http://www.tagged.com/account\_info.html, click the Subscriptions and Payments tab, select 'cancel your subscription' and click 'Cancel VIP'' at least 3 days prior to your next scheduled automatic payment so that we can process your cancellation properly. If your VIP membership account is billed through iTunes, you must cancel at least 24 hours prior to your next scheduled automatic payment, by following the process outlined here. If your VIP membership account is billed through GooglePlay, you must cancel within 7 days from the start of your billing cycle, by following the process outlined here.
 
 J) Mobile
 
