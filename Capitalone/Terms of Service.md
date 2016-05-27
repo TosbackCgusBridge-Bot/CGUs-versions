@@ -24,6 +24,7 @@ Menu
         *   Learn About CreditWise®
     *   Bank Expand Bank Menu Personal Banking
         *   Bank Home
+        *   Money Market Account
         *   Checking Accounts
         *   Savings Accounts
         *   CD Accounts
