@@ -165,9 +165,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-#AngryBirdsMovie is the #1 Movie in America!
+Neo-Geo favorite The Last Blade 2 is now available on PS4 and PS Vita: http://playstation.com
 
-2016-05-24 02:58:51+00:00
+2016-05-27 06:45:14+00:00
 
 View Tweet
 
