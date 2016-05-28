@@ -15,7 +15,7 @@ SONY search Electronics
 *   Car &. Marine
 *   All Electronics
 
-All Electronics Reward yourself with Sony.Earn towards the electronics you crave with Sony Rewards. Learn More Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up
+All Electronics Transform your spaceOur Life Space UX range is designed to unlock the hidden potential of everyday space. Find out more Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up
 
 *   PlayStation
 
@@ -41,7 +41,7 @@ SONY
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! Kick Off the Holiday Weekend Right: See a Fun Movie
+Your browser does not support JavaScript! Celebrate the Holiday Weekend by Seeing a Fun Movie
 
 Find Tickets for "The Angry Birds Movie"
 
@@ -75,9 +75,9 @@ Play Overwatch on PS4™
 
 Sony on Twitter
 
-RT @Vevo: .@Adele just dropped a banger on the #BBMAs! Watch #SendMyLove (To Your New Lover) now.
+Where will you go with Xperia™ Ear?
 
-2016-05-23 12:25:50+00:00
+2016-05-27 22:07:02+00:00
 
 View Tweet
 
@@ -129,7 +129,7 @@ Sony on YouTube
 
 Play Video
 
-Watch Season 1 of "Bloodline" Before the New Episodes Premiere on Friday
+The New Season of "Bloodline" Is Now on Netflix
 
 Get Your Binge On
 
@@ -295,6 +295,7 @@ News &. Info
 *   Product Manuals
 *   Product Registration
 *   Newsletter sign up
+*   Accessibility and Usability
 
 Other Sites
 
