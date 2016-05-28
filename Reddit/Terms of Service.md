@@ -1,4 +1,4 @@
-**reddit user agreement** _Last Revised August 5, 2015. Effective August 5, 2015_
+**reddit user agreement** _Last Revised May 27, 2016. Effective May 27, 2016_
 
 > reddit powers thousands of distinct online communities.  
 > these terms and your conduct make that possible.
@@ -27,7 +27,7 @@ reddit is for fun
 
 reddit isn’t intended as a marketplace
 
-8 reddit is not intended to be a marketplace for any goods or services. For this reason, any transactions you undertake are your responsibility alone, so be careful.
+8 reddit is not intended to be a marketplace for any goods or services. However, you may find commercial links, coupons, deals, advertisements and other third-party offers on reddit. In addition, reddit may have affiliate relationships with certain of these third parties and may receive compensation for any purchase made from them. reddit is not a party to, nor in any way responsible for, any transactions you have with these third parties, even if reddit has an affiliate relationship with such parties. For this reason, any transactions you undertake are your responsibility alone, so be careful.
 
 9 You may not use reddit to conduct transactions for any illegal goods or services.
 
