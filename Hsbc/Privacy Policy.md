@@ -62,20 +62,20 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     
     *   Financial and regulatory reports
         *   Regulatory capital securities
+    *   Events and presentations
+        
     *   Share and dividend information
         *   Dividend calculators
         *   Dividend history
         *   Dividend timetable
-        *   Equity analyst coverage
         *   Scrip dividend
         *   Share analytics
         *   Treasury shares
-    *   Events and presentations
-        
     
     *   Investor resources
         *   Contact our registrar
         *   Investor contacts
+        *   Equity analyst coverage
         *   Frequently asked questions - investor relations
     *   Fixed income securities
         *   Covered bond reports
@@ -315,12 +315,12 @@ Our approach
 
 Investor relations
 
-*   Financial and regulatory reports
-*   Share and dividend information
-*   Events and presentations
 *   Investor resources
 *   Fixed income securities
+*   Financial and regulatory reports
+*   Events and presentations
 *   Stock exchange announcements
+*   Share and dividend information
 *   Risk and responsibility
 
 News and insight
