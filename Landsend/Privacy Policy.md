@@ -59,7 +59,7 @@
     FEATURED SHOPS
     
     *   New Arrivals
-    *   Our Favorite Summer Dresses
+    *   Best of Summer
     *   The Starfish Collection
     *   Wear to Work
     *   Tunic Shop
@@ -351,7 +351,7 @@
     FEATURED SHOPS Back | Women
     
     *   New Arrivals
-    *   Our Favorite Summer Dresses
+    *   Best of Summer
     *   The Starfish Collection
     *   Wear to Work
     *   Tunic Shop
