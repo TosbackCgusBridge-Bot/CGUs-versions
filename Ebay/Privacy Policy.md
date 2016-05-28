@@ -1,5 +1,7 @@
 Datenschutzerklärung
 
+Wenn Sie nicht gelöste Bedenken bezüglich des Datenschutzes oder der Datennutzung haben oder der Meinung sind, Ihre Anfrage wäre nicht zu Ihrer Zufriedenheit bearbeitet worden, wenden Sie sich hier an TRUSTe.
+
 Zusammenfassung und Inhalt
 
 **Geltungsbereich und Einwilligung**
