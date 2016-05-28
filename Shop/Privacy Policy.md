@@ -41,12 +41,16 @@ LENOVO Menu
 
 *   Sales1-855-253-6686
 
-*   Email Sign-Up
+*   Stay in Touch
+    *   Email
+    *   SMS
 
 *   Lenovo recommends Windows.
 
 *   Phone
-*   Email Sign-Up
+*   Stay in Touch
+    *   Email
+    *   SMS
 *   For Work
     *   Small Business
     *   Large Enterprise
