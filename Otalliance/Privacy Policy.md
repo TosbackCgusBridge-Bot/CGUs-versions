@@ -94,10 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, May 24, 2016 DigiCert and Leidos Webinar: Extending PKI to Support IoT Security
-
-By now, anyone investing in the Internet of Things (IoT) market has heard about the pending security threats. Solving the challenges of properly securing the IoT requires implementing PKI in a way that supports strong encryption, authentication, and signing. This webinar featuring DigiCert CSO Jason Sabin and Leidos Chief Engineer Brian Russell will highlight how industry is using PKI to address IoT authentication challenges.
-
 Tue, May 31, 2016 RSAC Webcast: Data Protection &. Breach Readiness - How to Stay Secure
 
 Join Craig Spiezle (Executive Director, OTA) and Neil Daswani (Chief Information Security Officer, LifeLock) as they discuss how data protection success is moving from a compliance perspective to one of stewardship. In this session you will hear highlights from OTA’s 2016 Data Protection and Breach Readiness Guide with specific advice on actions all organizations should take.
@@ -109,6 +105,10 @@ Internet Retailer Conference &. Exhibition (IRCE) provides you with a conference
 Wed, Jun 8, 2016 TRUSTe Privacy Risk Summit 2016
 
 The 2016 Privacy Risk Summit will bring together leading privacy practitioners, lawyers, regulators, and academics to address the top privacy risks and share proven strategies for success. The Summit builds on the success of the EU Data Protection Conference and IoT Privacy Summits to offer an expanded program with three parallel conference tracks focusing on the risks rising from technological and regulatory change and privacy risk management best practices.  OTA members may register for only $149, a savings of 50%. 
+
+Thu, Jun 9, 2016 Heavyweight Martech Debate
+
+Scott Brinker is the force behind the popular blog ChiefMartec.com, and has been chronicling the growth of marketing technology through his annual landscape super graphic. Mayur Gupta is widely recognized as one of the first-ever Chief Marketing Technologists. Together, they are two of the world’s most respected authorities on marketing technology and its impact on business. On June 9, they will join forces for the first time to debate a number of hot topics they consider crucial to the future of marketing.
 
 More >>.
 
