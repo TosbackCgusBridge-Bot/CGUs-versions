@@ -1,4 +1,6 @@
-Military Guests, enjoy a 10% military discount.
+We salute our troops every day with a 10% military discount.
+
+See details.
 
 Guest Services 800-607-9788
 
