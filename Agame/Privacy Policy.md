@@ -82,7 +82,7 @@ Explore Games
     
     Mobile Apps More
     
-    *   Cows vs Sheep: Mower Mayhem
+    *   Cloud Critters
     *   Troll Face Quest Video Memes
     *   My Dolphin Show
     *   Troll Face Quest Unlucky
