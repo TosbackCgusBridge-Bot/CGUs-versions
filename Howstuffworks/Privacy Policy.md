@@ -248,11 +248,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
+**Everest: Still Tough to Conquer Decades After First Summit**
+
 **And Now Some Sobering Thoughts About Fish Sticks**
 
 **How the Food Industry Made 'Artisan' Meaningless**
-
-**How Long Should You Really Go Without Washing Your Jeans?**
 
 **See More Headlines »**
 
