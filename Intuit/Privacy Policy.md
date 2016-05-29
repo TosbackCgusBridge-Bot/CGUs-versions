@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14945354067
+true true C14858159803
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p17.jcpenney.com SERVER NAME :->. dtcomexpr1l1j1 TIME :->. Fri May 27 11:15:32 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Sat May 28 11:09:01 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,7 +49,11 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-STARTS NOW! Memorial Day Sale and Clearance In Store and Online | Ends May 30 Shop Memorial Day Sale View Store Ad Shop Clearance New and Online Only! Major Appliances From Your Favorite Brands Up to 30% Off\* Major Appliances
+Memorial Day Sale and Clearance In Store and Online | Ends May 30 Shop Memorial Day Sale View Store Ad Shop Clearance Home Flash Sale Extra 30% Off\* $100 or More Or, Extra 25% Off\* Select Home Already 30-50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds &. Shades
+
+Today Online Only | Code: FORYOU98
+
+\*Exclusions and details: Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses Shop All Home   New and Online Only! Major Appliances From Your Favorite Brands Up to 30% Off\* Major Appliances
 
 Select styles
 
@@ -65,19 +69,19 @@ available on qualifying major appliance purchases made through 5/30/16 on a JCPe
 
 on all appliance purchases over $299
 
-Get details: JCPenney Rewards | Shop and Get A $10 Reward
+Get details: JCPenney Rewards | Shop and Get Rewards
 
-for every 200 points earned
+for points earned on major appliances.+
 
-Get details: 30 to 50% Off Home Sale
++Get details: Instantly Save
 
-Select styles
+when you buy a matching appliance package suite
 
-Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   BIG BUY! 4.99 Juniors' and Guys' Arizona Tees, Tanks &. Camis and Kids' Arizona Tees
+Shop now: BIG BUY! 4.99 Juniors' &. Guys' Arizona Tees, Tanks &. Camis and Kids' Arizona Tees
 
 Select styles, reg. $12-$14
 
-Shop Arizona Shop Juniors Shop Guys Shop Boys Shop Girls 50 to 60% Off Swim For The Family
+Shop Arizona Shop Juniors Shop Guys Shop Boys Shop Girls BIG BUY! 50 to 60% Off Swim For The Family
 
 Select styles
 
