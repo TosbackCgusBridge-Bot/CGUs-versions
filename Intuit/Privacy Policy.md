@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14858159803
+true true L14952111699
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Sat May 28 11:09:01 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Sun May 29 10:59:46 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,11 +49,7 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Memorial Day Sale and Clearance In Store and Online | Ends May 30 Shop Memorial Day Sale View Store Ad Shop Clearance Home Flash Sale Extra 30% Off\* $100 or More Or, Extra 25% Off\* Select Home Already 30-50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds &. Shades
-
-Today Online Only | Code: FORYOU98
-
-\*Exclusions and details: Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses Shop All Home   New and Online Only! Major Appliances From Your Favorite Brands Up to 30% Off\* Major Appliances
+Memorial Day Sale and Clearance In Store and Online | Ends May 30 Shop Memorial Day Sale View Store Ad Shop Clearance New and Online Only! Major Appliances From Your Favorite Brands Up to 30% Off\* Major Appliances
 
 Select styles
 
@@ -77,7 +73,11 @@ for points earned on major appliances.+
 
 when you buy a matching appliance package suite
 
-Shop now: BIG BUY! 4.99 Juniors' &. Guys' Arizona Tees, Tanks &. Camis and Kids' Arizona Tees
+Shop now: 30 to 50% Off Home Sale
+
+Select styles.
+
+Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   BIG BUY! 4.99 Juniors' &. Guys' Arizona Tees, Tanks &. Camis and Kids' Arizona Tees
 
 Select styles, reg. $12-$14
 
@@ -85,7 +85,7 @@ Shop Arizona Shop Juniors Shop Guys Shop Boys Shop Girls BIG BUY! 50 to 60% Off 
 
 Select styles
 
-Shop Swim For The Family   Shop Women Shop Men Shop Boys Shop Girls SportsFanShop
+Shop Swim For The Family Shop Men Shop Women Shop Boys Shop Girls SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
