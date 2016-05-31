@@ -248,11 +248,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
+**Think of Your First Memory — Why Can't You Remember Even Earlier?**
+
 **Everest: Still Tough to Conquer Decades After First Summit**
 
 **And Now Some Sobering Thoughts About Fish Sticks**
-
-**How the Food Industry Made 'Artisan' Meaningless**
 
 **See More Headlines »**
 
