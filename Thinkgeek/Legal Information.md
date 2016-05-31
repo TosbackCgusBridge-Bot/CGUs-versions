@@ -47,8 +47,6 @@ Communicate with Us the Old-Fashioned Ways
 9am to 6pm EST  
 Monday - Friday
 
-Our customer service will be **closed** for **Memorial Day** on **May 30**
-
 *   1-888-GEEKSTUFF
     
     (1-888-433-5788)
