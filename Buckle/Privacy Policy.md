@@ -1,6 +1,6 @@
-We salute our troops every day with a 10% military discount.
+BEST. DAD. EVER.
 
-See details.
+Find the perfect Father's Day gift.
 
 Guest Services 800-607-9788
 
