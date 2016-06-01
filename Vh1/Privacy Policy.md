@@ -9,7 +9,7 @@ VH1 Menu VH1
     *   Love &. Hip Hop Atlanta
     *   Black Ink Crew
     *   Family Therapy With Dr. Jenn
-    *   Dear Mama
+    *   Hip Hop Honors
     *   Love &. Hip Hop
     *   Stevie J &. Joseline Go Hollywood
     *   K.Michelle: My Life
@@ -30,7 +30,7 @@ VH1 Menu VH1
 
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Atlanta Black Ink Crew Family Therapy With Dr. Jenn Dear Mama Love &. Hip Hop Stevie J &. Joseline Go Hollywood K.Michelle: My Life Hit The Floor See all Shows
+*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Atlanta Black Ink Crew Family Therapy With Dr. Jenn Hip Hop Honors Love &. Hip Hop Stevie J &. Joseline Go Hollywood K.Michelle: My Life Hit The Floor See all Shows
 *   Pop Culture Music Celebrity Movies TV Around The Web Video See all Pop Culture
 *   Life Beauty &. Health Style Relationships Video See all Life
 *   facebook twitter tumblr
