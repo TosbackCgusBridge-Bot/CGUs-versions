@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14954772132
+true true L14956854015
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p08.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Mon May 30 11:15:35 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Tue May 31 11:15:32 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,7 +49,59 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Memorial Day Sale and Clearance In Store and Online | Ends May 30 Shop Memorial Day Sale View Store Ad Shop Clearance New and Online Only! Major Appliances From Your Favorite Brands Up to 30% Off\* Major Appliances
+Today Online Only Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100 Or, Extra 15% Off\* Select Watches, Salon Products, Furniture, Mattresses, Custom Blinds &. Shades
+
+Ends 6/1 | \*some exclusions apply | Code: BUYNOW4
+
+Get details: 30 to 50% Off Swim for Her
+
+Select styles.
+
+Shop Swim for Her 30 to 50% Off Comforters and Bedding Sets
+
+Select styles.
+
+Shop Comforters and Bedding Sets 19.99 Sandals For Her
+
+Select styles.
+
+Shop Sandals For Her 40 to 50% Off Men's Shorts
+
+Select styles.
+
+Shop Men's Shorts 40 to 50% Off Men's St. John's Bay Apparel
+
+Select styles.
+
+Shop Men's St. John's Bay Apparel 50% Off Men's Sandals
+
+Select styles.
+
+Shop Men's Sandals 40 to 50% Off Curtains and Drapes
+
+Select styles.
+
+Shop Curtains and Drapes 40 to 50% Off Kids' Arizona Apparel
+
+Select styles, reg. $10-$46
+
+Shop Kids' Arizona Apparel 19.99 All Warner's Bras
+
+reg. $38-$42
+
+Shop Warner's Bras 30 to 50% Off Women's Comfort Sandals
+
+Select styles.
+
+Shop Women's Comfort Sandals 6.99 Juniors' Arizona Racerback Tanks
+
+Select styles, reg. $14
+
+Shop Juniors' Arizona Racerback Tanks 40 to 60% Off Fine Jewelry
+
+Select styles.
+
+Shop Fine Jewelry New and Online Only! Major Appliances From Your Favorite Brands Up to 20% Off\* Major Appliances
 
 Select styles
 
@@ -57,9 +109,9 @@ Shop Major Appliances
 
 \*GE, GE Profile and GE Cafe limited to 10% off savings.
 
-18 Months or 30 Months Special Financing\*\*
+18 Months or 24 Months Special Financing\*\*
 
-available on qualifying major appliance purchases made through 5/30/16 on a JCPenney Credit Card. Must request at time of purchase.
+available on qualifying major appliance purchases made through 6/21/16 on a JCPenney Credit Card. Must request at time of purchase.
 
 \*\*Get details: Apply Now Free Delivery and Basic Installation
 
@@ -73,31 +125,19 @@ for points earned on major appliances.+
 
 when you buy a matching appliance package suite
 
-Shop now: 30 to 50% Off Home Sale
-
-Select styles.
-
-Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   BIG BUY! 4.99 Juniors' &. Guys' Arizona Tees, Tanks &. Camis and Kids' Arizona Tees
-
-Select styles, reg. $12-$14
-
-Shop Arizona Shop Juniors Shop Guys Shop Boys Shop Girls BIG BUY! 50 to 60% Off Swim For The Family
-
-Select styles
-
-Shop Swim For The Family Shop Men Shop Women Shop Boys Shop Girls SportsFanShop
+Shop now: SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop: Don't Forget Dad!
+Shop SportsFanShop: JCPenney | optical
 
-Father's Day is June 19.
+Free Shipping on Contacts
 
-Shop Gifts Carter's Baby Sale
+Order Now 80% Off Final Markdowns
 
-In Store and Online Through May 30
+Plus! New Markdowns 50 to 70% Off
 
-Shop Carter's Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop Clearance Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
