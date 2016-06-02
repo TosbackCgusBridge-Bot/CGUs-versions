@@ -15,7 +15,7 @@ SONY search Electronics
 *   Car &. Marine
 *   All Electronics
 
-All Electronics Reward yourself with Sony.Earn towards the electronics you crave with Sony Rewards. Learn More Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up
+All Electronics Transform your spaceOur Life Space UX range is designed to unlock the hidden potential of everyday space. Find out more Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up
 
 *   PlayStation
 
@@ -257,9 +257,9 @@ Meet the New Xperia
 
 Sony on Twitter
 
-RT @billboard: Cool down with @\_MAXWELL\_'s sensual "Lake By The Ocean" video
+Just in time for #GlobalRunningDay! Check out @stlucia's video for #HelpMeRunAway http://youtube.com
 
-2016-06-01 02:20:52+00:00
+2016-06-02 01:34:22+00:00
 
 View Tweet
 
@@ -313,6 +313,7 @@ News &. Info
 *   Product Manuals
 *   Product Registration
 *   Newsletter sign up
+*   Accessibility and Usability
 
 Other Sites
 
