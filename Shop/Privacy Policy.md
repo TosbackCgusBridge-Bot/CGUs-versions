@@ -19,9 +19,9 @@ LENOVO Menu
         6.  Desktop Coupons
         7.  Clearance PCs
         8.  Deals for Students and Educators
-    *   Memorial Day Sale Lenovo honors veterans, troops and their families
+    *   Memorial Day Sale Extended Lenovo honors veterans, troops and their families
         
-        Sale ends May 30.
+        Sale ends June 1.
         
     *   Clearance Sale Get these deals before they’re gone.
         
