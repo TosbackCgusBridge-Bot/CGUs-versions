@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Near-normal Atlantic hurricane season is most likely this year 70 percent likelihood of 10 to 16 named storms AROUND NOAA // America prepares for hurricane season Scientists discover largest sponge known during deep-sea exploration April marks 12th consecutive month of record warmth for globe
+Enter Search Terms Near-normal Atlantic hurricane season is most likely this year 70 percent likelihood of 10 to 16 named storms AROUND NOAA // Celebrate the ocean during National Ocean Month America prepares for hurricane season Scientists discover largest sponge known during deep-sea exploration
 
 *   About our agency
 *   News and features
