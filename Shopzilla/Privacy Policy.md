@@ -36,9 +36,6 @@ Connexity
 *   Resources
     *   Blog
     *   Case Studies
-        *   Display media
-        *   Insights &. ratings
-        *   Paid search
     *   Articles &. White Papers
 
 *   *   US
