@@ -6,7 +6,7 @@ All residential XFINITY Internet customers (the “customer,” “user,” “y
 
 Does this Policy apply to my use of XFINITY WiFi-identified services inside and outside of my premises and in public places?
 
-This Policy applies to your use of the Service if you are a residential XFINITY Internet customer who accesses Comcast-provided, XFINITY WiFi-identified services inside or outside of your premises or in public places using an XFINITY Internet login and password. You can learn more about Comcast-provided XFINITY WiFi services by going to the portal at //www.xfinity.com/wifi/default.htm. In the event certain provisions of this Policy may not apply to all uses of XFINITY WiFi-identified services, we explain those exceptions in the FAQs at //www.xfinity.com/wifi/faqs.htm.
+This Policy applies to your use of the Service if you are a residential XFINITY Internet customer who accesses Comcast-provided, XFINITY WiFi-identified services inside or outside of your premises or in public places using an XFINITY Internet login and password. You can learn more about Comcast-provided XFINITY WiFi services by going to the portal at www.comcast.com/wifi/default.htm. In the event certain provisions of this Policy may not apply to all uses of XFINITY WiFi-identified services, we explain those exceptions in the FAQs at www.comcast.com/wifi/faqs.htm.
 
 How will I know when Comcast changes this Policy and how do I report violations of it?
 
@@ -104,7 +104,7 @@ with one another, to:
 II. Customer Conduct and Features of the Service  
 What obligations do I have under this Policy?
 
-You are responsible for your own compliance with this Policy. You are also responsible for any use or misuse of the Service that violates this Policy by anyone else you permit to access the Service (such as a friend, family member, or guest) with one exception: In cases where you permit others to access your Comcast-provided, XFINITY WiFi-identified Internet Service with their own login information, those users are responsible for complying with all then-current terms and policies that apply to their access. You can learn more about Comcast-provided WiFi access at //www.xfinity.com/wifi/default.htm.
+You are responsible for your own compliance with this Policy. You are also responsible for any use or misuse of the Service that violates this Policy by anyone else you permit to access the Service (such as a friend, family member, or guest) with one exception: In cases where you permit others to access your Comcast-provided, XFINITY WiFi-identified Internet Service with their own login information, those users are responsible for complying with all then-current terms and policies that apply to their access. You can learn more about Comcast-provided WiFi access at www.comcast.com/wifi/default.htm.
 
 Comcast recommends against enabling file or printer sharing unless you do so in strict compliance with all security recommendations and features provided by Comcast and the manufacturer of the applicable file or printer sharing devices. Any files or devices you choose to make available for shared access on a home LAN, for example, should be protected with a strong password or as otherwise appropriate.
 
