@@ -73,12 +73,12 @@ Explore Games
     
     hot games
     
+    *   The Godfather: Five Families
     *   Forge of Empires
-    *   WeSpin
-    *   Easy Joe World
-    *   Five Nights at Freddy's 2
-    *   Color Switch
-    *   Bridge Builder
+    *   Cloud Critters App
+    *   SuperSnake.io
+    *   Five Nights at Freddy's 3
+    *   Kung Fu Panda: Pawsome Panda
     
     Mobile Apps More
     
