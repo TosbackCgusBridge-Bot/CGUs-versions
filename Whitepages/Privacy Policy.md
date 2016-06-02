@@ -1,11 +1,11 @@
-qqqqtrx
+eyvtaveuaddwbdetd
 
 Search
 
 *   People
 *   Phone
-*   Business
 *   Address
+*   Business
 
 People Where Search Cancel
 
@@ -16,14 +16,14 @@ Phone Search Cancel
 
 *   e.g. 206-867-5309
 
-Business Where Search Cancel
-
-*   e.g. TGI Fridays
-*   City, State or ZIP Where
-
 Address Where Search Cancel
 
 *   e.g. 1600 Pennsylvania Ave NW
+*   City, State or ZIP Where
+
+Business Where Search Cancel
+
+*   e.g. TGI Fridays
 *   City, State or ZIP Where
 
 Data Policy Give Feedback
@@ -110,8 +110,8 @@ If you have any questions about this policy, please write to Whitepages Privacy 
 
 *   People Search
 *   Phone Search
-*   Business Search
 *   Address Search
+*   Business Search
 
 **Your Whitepages**
 
