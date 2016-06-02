@@ -8,11 +8,11 @@ VH1 Menu VH1
     *   TV Schedule
     *   Love &. Hip Hop Atlanta
     *   Black Ink Crew
-    *   Family Therapy With Dr. Jenn
     *   Hip Hop Honors
+    *   Amber Rose Show
+    *   Dating Naked
+    *   Barely Famous
     *   Love &. Hip Hop
-    *   Stevie J &. Joseline Go Hollywood
-    *   K.Michelle: My Life
     *   Hit The FloorSee all Shows
 *   Pop Culture
     *   Music
@@ -30,7 +30,7 @@ VH1 Menu VH1
 
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Atlanta Black Ink Crew Family Therapy With Dr. Jenn Hip Hop Honors Love &. Hip Hop Stevie J &. Joseline Go Hollywood K.Michelle: My Life Hit The Floor See all Shows
+*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Atlanta Black Ink Crew Hip Hop Honors Amber Rose Show Dating Naked Barely Famous Love &. Hip Hop Hit The Floor See all Shows
 *   Pop Culture Music Celebrity Movies TV Around The Web Video See all Pop Culture
 *   Life Beauty &. Health Style Relationships Video See all Life
 *   facebook twitter tumblr
