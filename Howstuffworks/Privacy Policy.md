@@ -248,11 +248,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Enter Mr. Pig-Man? Chimera Embryos Should Not Be Feared, Scientist Says**
+**Our 10 Favorite Updates to the 2016 AP Style Book**
 
-**Explore Deep Ocean Thermal Vents With This 3-D Virtual Reality Video**
+**What Do Scientists Think of Science Coverage in the Media?**
 
-**In-ear Tech Aims to Translate Spoken Foreign Language in Real Time**
+**More Americans Have Had Same-sex Experiences, Accept Those of Others**
 
 **See More Headlines »**
 
