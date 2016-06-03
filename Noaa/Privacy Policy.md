@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Climate June 1: Reddit Science AMA with NOAA's Dr. Gerry Bell Oceans &. Coasts Scientists discover largest sponge known during deep-sea exploration National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Sanctuaries Oceans &. Coasts How does NOAA designate a national marine sanctuary? Research Study: Sea ice loss likely no factor in cold Northern Hemisphere winters National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
