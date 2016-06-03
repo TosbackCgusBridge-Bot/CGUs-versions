@@ -1,4 +1,11 @@
-Home >. Customer Data Privacy Policy Customer Data Privacy Policy Your privacy is important to us
+Current Location within United.com Skip Navigation Links
+
+*   Home
+*   Customer Data Privacy Policy You are here.
+
+Customer Data Privacy Policy
+
+Your privacy is important to us
 
 United Airlines respects your privacy. This Policy discloses United’s privacy practices for your information collected online or offline. We address the following topics:
 
