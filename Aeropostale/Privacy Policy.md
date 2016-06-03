@@ -3,6 +3,7 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
+    *   Meet Aly Raisman
     *   Red White &. Blue Crush
     *   Swim
     *   Bethany Mota
@@ -47,6 +48,7 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
+    *   Meet DeAndre Yedlin
     *   Red White &. Blue Crush
     *   Headlining Now
     *   Uniform
