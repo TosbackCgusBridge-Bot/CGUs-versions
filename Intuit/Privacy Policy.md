@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14958479708
+true true C14870808672
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Wed Jun 01 11:15:33 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Thu Jun 02 11:15:32 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,95 +49,55 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Today Online Only Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100 Or, Extra 15% Off\* Select Watches, Salon Products, Furniture, Mattresses, Custom Blinds &. Shades
+Under $10 Summer-Ready Styles For The Family In Store and Online View Store Ad Shop Men Under $10 Shop Women Under $10 Shop Accessories Under $10 Shop Kids Under $10 Shop Home Under $10
 
-Ends 6/1 | \*some exclusions apply | Code: BUYNOW4
+9.99 All Men's St. John's Bay Solid Polos, reg. $26
 
-Get details: 30 to 50% Off Swim for Her
+Shop Men's St. John's Bay Solid Polos  
 
-Select styles.
+9.99 Select Women's St. John's Bay Embellished Tees, reg. $20
 
-Shop Swim for Her 30 to 50% Off Comforters and Bedding Sets
-
-Select styles.
-
-Shop Comforters and Bedding Sets 19.99 Sandals For Her
+Shop Women's St. John's Bay Embellished Tees   St. John's Bay 40 to 60% Off Men's Shorts
 
 Select styles.
 
-Shop Sandals For Her 40 to 50% Off Men's Shorts
+Shop Men's Shorts 30 to 50% Off Sandals
 
 Select styles.
 
-Shop Men's Shorts 40 to 50% Off Men's St. John's Bay Apparel
+Shop Men   Shop Women   30 to 50% Off Swim For The Family
 
 Select styles.
 
-Shop Men's St. John's Bay Apparel 50% Off Men's Sandals
+Shop Swim For The Family Shop Men Shop Women Shop Boys Shop Girls 30 to 50% Off Home Sale
 
 Select styles.
 
-Shop Men's Sandals 40 to 50% Off Curtains and Drapes
+Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses  New! Major Appliances From Your Favorite Brands
 
-Select styles.
+Now available online.
 
-Shop Curtains and Drapes 40 to 50% Off Kids' Arizona Apparel
-
-Select styles, reg. $10-$46
-
-Shop Kids' Arizona Apparel 19.99 All Warner's Bras
-
-reg. $38-$42
-
-Shop Warner's Bras 30 to 50% Off Women's Comfort Sandals
-
-Select styles.
-
-Shop Women's Comfort Sandals 6.99 Juniors' Arizona Racerback Tanks
-
-Select styles, reg. $14
-
-Shop Juniors' Arizona Racerback Tanks 40 to 60% Off Fine Jewelry
-
-Select styles.
-
-Shop Fine Jewelry New and Online Only! Major Appliances From Your Favorite Brands Up to 20% Off\* Major Appliances
-
-Select styles
-
-Shop Major Appliances
-
-\*GE, GE Profile and GE Cafe limited to 10% off savings.
-
-18 Months or 24 Months Special Financing\*\*
+Shop Major Appliances18 or 24 Months Special Financing\*
 
 available on qualifying major appliance purchases made through 6/21/16 on a JCPenney Credit Card. Must request at time of purchase.
 
-\*\*Get details: Apply Now Free Delivery and Basic Installation
+\*Get details: Apply NowFree Delivery and Basic Installation
 
 on all appliance purchases over $299
 
-Get details: JCPenney Rewards | Shop and Get Rewards
-
-for points earned on major appliances.+
-
-+Get details: Instantly Save
-
-when you buy a matching appliance package suite
-
-Shop now: SportsFanShop
+Get details: SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop: JCPenney | optical
+Shop SportsFanShop: Don't Forget Dad!
+
+Father's Day is June 19.
+
+Shop Gifts JCPenney | optical
 
 Free Shipping on Contacts
 
-Order Now 80% Off Final Markdowns
-
-Plus! New Markdowns 50 to 70% Off
-
-Shop Clearance Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Order Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
