@@ -1,3 +1,10 @@
+Toggle navigation
+
+*   Residential
+*   Business
+*   Sign In
+*   Sign Out
+
 *   Residential
 *   Business
 
@@ -6,32 +13,9 @@
 *   Welcome, {{sessionState.frontierId.firstName | renderAmps}}   
 *   Sign Out
 
-Go to... My AccountPay Your BillCheck Your MailOrder StatusOrder StatusTrouble Ticket StatusTrouble Ticket Status Toggle navigation
+Go to... My AccountPay Your BillCheck Your MailOrder StatusOrder StatusTrouble Ticket StatusTrouble Ticket Status Skip to Content
 
-*   Bundle
-*   Internet
-*   Video/TV
-*   Phone
-    *   Frontier Texting
-*   Security
-    *   Connected Home
-    *   Content Anywhere
-    *   Multi-Device Security
-    *   Equipment Protection
-    *   Identity Protection
-    *   Premium Technical Support
-*   Help Center
-    *   Account &. Billing
-    *   Internet
-    *   Support Wizard
-    *   Trouble Ticket Status
-    *   Order Status
-    *   Contact Us
-    *   MyFrontier Mobile App
-*   Sign In
-*   Sign Out
-
-Skip to Content
+.
 
 *   Personal / Terms
 
