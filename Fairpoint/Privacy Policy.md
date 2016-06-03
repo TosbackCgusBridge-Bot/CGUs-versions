@@ -163,7 +163,8 @@ Attn: Privacy
     *   Terms &. Conditions of Service
     *   Regulatory Notices
     *   PO Terms &. Conditions
-    *   Tariffs, Catalogs &. Price Lists
+    *   Tariffs, RTCs, Price Lists and Catalogs
+    *   Service Agreements
     *   Consumer Disclosures – BIAS
 *   Connect With Us
     
