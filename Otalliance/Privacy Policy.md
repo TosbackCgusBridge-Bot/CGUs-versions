@@ -94,10 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, May 31, 2016 RSAC Webcast: Data Protection &. Breach Readiness - How to Stay Secure
-
-Join Craig Spiezle (Executive Director, OTA) and Neil Daswani (Chief Information Security Officer, LifeLock) as they discuss how data protection success is moving from a compliance perspective to one of stewardship. In this session you will hear highlights from OTA’s 2016 Data Protection and Breach Readiness Guide with specific advice on actions all organizations should take.
-
 Tue, Jun 7, 2016 IRCE 2016
 
 Internet Retailer Conference &. Exhibition (IRCE) provides you with a conference full of industry experts and unrivaled agenda content, an exhibit hall filled with the latest and greatest solution providers, and a community made for networking with thousands of like-minded industry peers. IRCE 2016 will take place in the world-class city of Chicago, June 7-10, at McCormick Place West.
@@ -109,6 +105,10 @@ The 2016 Privacy Risk Summit will bring together leading privacy practitioners, 
 Thu, Jun 9, 2016 Heavyweight Martech Debate
 
 Scott Brinker is the force behind the popular blog ChiefMartec.com, and has been chronicling the growth of marketing technology through his annual landscape super graphic. Mayur Gupta is widely recognized as one of the first-ever Chief Marketing Technologists. Together, they are two of the world’s most respected authorities on marketing technology and its impact on business. On June 9, they will join forces for the first time to debate a number of hot topics they consider crucial to the future of marketing.
+
+Tue, Jun 14, 2016 2016 Online Trust Audit &. Awards
+
+Join leaders in public policy, security and privacy as we review the results from the 2016 Honor Roll and recognize organizations who have demonstrated a commitment to security, responsibly privacy practices and a commitment to consumer safety.  Now in our 8th year the Online Trust Audit is a comprehensive audit of over 50 data points accessing a sites security, privacy and consumer protection practices.  Briefing will recognize leaders in each key sectors, comparing and contrasting trends between the public and private sectors.
 
 More >>.
 
