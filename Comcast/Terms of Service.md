@@ -26,14 +26,9 @@ with one another, to:
 *   undertake or accomplish any unlawful purpose. This includes, but is not limited to, posting,  
     storing, transmitting or disseminating information, data or material which is libelous, obscene,  
     unlawful, threatening or defamatory, or which infringes the intellectual property rights of any  
-    person or entity, or which in any way constitutes or encourages conduct that would constitute a  
-    criminal offense, or otherwise violate any local, state, federal, or non-U.S. law, order, or  
-    regulation.
-*   post, store, send, transmit, or disseminate any information or material which a reasonable person  
-    could deem to be unlawful.
-*   upload, post, publish, transmit, reproduce, create derivative works of, or distribute in any way  
-    information, software or other material obtained through the Service or otherwise that is protected  
-    by copyright or other proprietary right, without obtaining any required permission of the owner.
+    person or entity, or which in any way constitutes or encourages conduct that would constitute a criminal offense, or otherwise violate any local, state, federal, or non-U.S. law, order, or regulation.
+*   post, store, send, transmit, or disseminate any information or material which a reasonable person could deem to be unlawful.
+*   upload, post, publish, transmit, reproduce, create derivative works of, or distribute in any way information, software or other material obtained through the Service or otherwise that is protected by copyright or other proprietary right, without obtaining any required permission of the owner.
 *   transmit unsolicited bulk or commercial messages commonly known as “spam;”
 *   send very large numbers of copies of the same or substantially similar messages, empty  
     messages, or messages which contain no substantive content, or send very large messages or  
@@ -41,8 +36,7 @@ with one another, to:
 *   initiate, perpetuate, or in any way participate in any pyramid or other illegal scheme.
 *   participate in the collection of very large numbers of email addresses, screen names, or other  
     identifiers of others (without their prior consent), a practice sometimes known as spidering or  
-    harvesting, or participate in the use of software (including “spyware”) designed to facilitate this  
-    activity.
+    harvesting, or participate in the use of software (including “spyware”) designed to facilitate this activity.
 *   collect responses from unsolicited bulk messages.
 *   falsify, alter, or remove message headers.
 *   falsify references to Comcast or its network, by name or other identifier, in messages.
@@ -54,25 +48,11 @@ with one another, to:
 
 **Technical restrictions**
 
-*   access any other person's computer or computer system, network, software, or data without his  
-    or her knowledge and consent. breach the security of another user or system. or attempt to  
-    circumvent the user authentication or security of any host, network, or account. This includes, but  
-    is not limited to, accessing data not intended for you, logging into or making use of a server or  
-    account you are not expressly authorized to access, or probing the security of other hosts,  
-    networks, or accounts without express permission to do so.
-*   use or distribute tools or devices designed or used for compromising security or whose use is  
-    otherwise unauthorized, such as password guessing programs, decoders, password gatherers,  
-    keystroke loggers, analyzers, cracking tools, packet sniffers, encryption circumvention devices, or  
-    Trojan Horse programs. Unauthorized port scanning is strictly prohibited.
-*   copy, distribute, or sublicense any proprietary software provided in connection with the Service by  
-    Comcast or any third party, except that you may make one copy of each software program for  
-    back-up purposes only.
+*   access any other person's computer or computer system, network, software, or data without his or her knowledge and consent. breach the security of another user or system. or attempt to circumvent the user authentication or security of any host, network, or account. This includes, but is not limited to, accessing data not intended for you, logging into or making use of a server or account you are not expressly authorized to access, or probing the security of other hosts, networks, or accounts without express permission to do so.
+*   use or distribute tools or devices designed or used for compromising security or whose use is otherwise unauthorized, such as password guessing programs, decoders, password gatherers, keystroke loggers, analyzers, cracking tools, packet sniffers, encryption circumvention devices, or Trojan Horse programs. Unauthorized port scanning is strictly prohibited.
+*   copy, distribute, or sublicense any proprietary software provided in connection with the Service by Comcast or any third party, except that you may make one copy of each software program for back-up purposes only.
 *   distribute programs that make unauthorized changes to software (cracks).
-*   use or run dedicated, stand-alone equipment or servers from the Premises that provide network  
-    content or any other services to anyone outside of your Premises local area network (“Premises  
-    LAN”), also commonly referred to as public services or servers. Examples of prohibited  
-    equipment and servers include, but are not limited to, email, web hosting, file sharing, and proxy  
-    services and servers.
+*   use or run dedicated, stand-alone equipment or servers from the Premises that provide network content or any other services to anyone outside of your Premises local area network (“Premises LAN”), also commonly referred to as public services or servers. Examples of prohibited equipment and servers include, but are not limited to, email, web hosting, file sharing, and proxy services and servers.
 *   use or run programs from the Premises that provide network content or any other services to  
     anyone outside of your Premises LAN, except for personal and non-commercial residential use.
 *   service, alter, modify, or tamper with the Comcast Equipment or Service or permit any other  
@@ -85,21 +65,12 @@ with one another, to:
 *   restrict, inhibit, or otherwise interfere, regardless of intent, purpose or knowledge, with the ability of any other person to use or enjoy the Service (except for tools for safety and security functions such as parental controls, for example), including, without limitation, posting or transmitting any information or software which contains a worm, virus, or other harmful feature, or
 *   impede others' ability to use, send, or retrieve information.
 *   restrict, inhibit, interfere with, or otherwise disrupt or cause a performance degradation,  
-    regardless of intent, purpose or knowledge, to the Service or any Comcast (or Comcast supplier)  
-    host, server, backbone network, node or service, or otherwise cause a performance degradation  
-    to any Comcast (or Comcast supplier) facilities used to deliver the Service.
-*   resell the Service or otherwise make available to anyone outside the Premises the ability to use  
-    the Service (for example, through WiFi or other methods of networking), in whole or in part,  
-    directly or indirectly, with the sole exception of your use of Comcast-provided WiFi service in  
-    accordance with its then-current terms and policies.
+    regardless of intent, purpose or knowledge, to the Service or any Comcast (or Comcast supplier) host, server, backbone network, node or service, or otherwise cause a performance degradation to any Comcast (or Comcast supplier) facilities used to deliver the Service.
+*   resell the Service or otherwise make available to anyone outside the Premises the ability to use the Service (for example, through WiFi or other methods of networking), in whole or in part, directly or indirectly, with the sole exception of your use of Comcast-provided WiFi service in accordance with its then-current terms and policies.
 *   connect the Comcast Equipment to any computer outside of your Premises.
-*   interfere with computer networking or telecommunications service to any user, host or network,  
-    including, without limitation, denial of service attacks, flooding of a network, overloading a service,  
-    improper seizing and abusing operator privileges, and attempts to “crash” a host. or
+*   interfere with computer networking or telecommunications service to any user, host or network, including, without limitation, denial of service attacks, flooding of a network, overloading a service, improper seizing and abusing operator privileges, and attempts to “crash” a host. or
 *   access and use the Service with anything other than a dynamic Internet Protocol (“IP”)  
-    address that adheres to the dynamic host configuration protocol (“DHCP”). You may not configure  
-    the Service or any related equipment to access or use a static IP address or use any protocol  
-    other than DHCP unless you are subject to a Service plan that expressly permits you to do so.
+    address that adheres to the dynamic host configuration protocol (“DHCP”). You may not configure the Service or any related equipment to access or use a static IP address or use any protocol other than DHCP unless you are subject to a Service plan that expressly permits you to do so.
 
 II. Customer Conduct and Features of the Service  
 What obligations do I have under this Policy?
@@ -112,8 +83,7 @@ In all cases, you are solely responsible for the security of any device you conn
 
 How does Comcast address inappropriate content and transmissions?
 
-Comcast reserves the right to refuse to transmit or post, and to remove or block, any information or materials, in whole or in part, that it, in its sole discretion, deems to be in violation of Sections I or II of this Policy, or otherwise harmful to Comcast's network or customers using the Service, regardless of whether this material or its dissemination is unlawful so long as it violates this Policy. Neither Comcast nor any of its affiliates, suppliers, or agents have any obligation to monitor transmissions or postings (including, but not limited to, email, file transfer, blog, newsgroup, and instant message transmissions as well as materials available on the Personal Web Features as defined below) made on the Service. However, Comcast and its affiliates, suppliers, and agents have the right to monitor these transmissions and postings from  
-time to time for violations of this Policy and to disclose, block, or remove them in accordance with this Policy, the Subscriber Agreement, and applicable law.
+Comcast reserves the right to refuse to transmit or post, and to remove or block, any information or materials, in whole or in part, that it, in its sole discretion, deems to be in violation of Sections I or II of this Policy, or otherwise harmful to Comcast's network or customers using the Service, regardless of whether this material or its dissemination is unlawful so long as it violates this Policy. Neither Comcast nor any of its affiliates, suppliers, or agents have any obligation to monitor transmissions or postings (including, but not limited to, email, file transfer, blog, newsgroup, and instant message transmissions) made on the Service. However, Comcast and its affiliates, suppliers, and agents have the right to monitor these transmissions and postings from time to time for violations of this Policy and to disclose, block, or remove them in accordance with this Policy, the Subscriber Agreement, and applicable law.
 
 What requirements apply to electronic mail?
 
@@ -121,26 +91,18 @@ The Service may not be used to communicate or distribute email or other forms of
 
 Comcast is not responsible for deleting or forwarding any email sent to the wrong email address by you or by someone else trying to send email to you. Comcast is also not responsible for forwarding email sent to any account that has been suspended or terminated. This email will be returned to the sender, ignored, deleted, or stored temporarily at Comcast's sole discretion. If you cancel or terminate your Service account for any reason, all email associated with that account (and any secondary accounts) will be permanently deleted as well.
 
-If Comcast believes in its sole discretion that any subscriber name, account name, or email address (collectively, an “identifier”) on the Service may be used for, or is being used for, any misleading, fraudulent, or other improper or illegal purpose, Comcast (i) reserves the right to block access to and prevent the use of any of these identifiers  
-and (ii) may at any time require any customer to change his or her identifier. In addition, Comcast may at any time reserve any identifiers on the Service for its own purposes.
+If Comcast believes in its sole discretion that any subscriber name, account name, or email address (collectively, an “identifier”) on the Service may be used for, or is being used for, any misleading, fraudulent, or other improper or illegal purpose, Comcast (i) reserves the right to block access to and prevent the use of any of these identifiers and (ii) may at any time require any customer to change his or her identifier. In addition, Comcast may at any time reserve any identifiers on the Service for its own purposes.
 
 What requirements apply to instant, video, and audio messages?
 
 Each user is responsible for the contents of his or her instant, video, and audio messages and the consequences of any of these messages. Comcast assumes no responsibility for the timeliness, mis-delivery, deletion, or failure to store these messages. If you cancel or terminate your Service account for any reason, all instant, video, and audio messages associated with that account (and any secondary accounts) will be permanently deleted as well.
 
-What requirements apply to personal web pages and file storage?
-
-As part of the Service, Comcast may provide access to personal web pages and storage space through personal web pages and online storage features (collectively, the “Personal Web Features”). You are solely responsible for any information that you or others publish or store on the Personal Web Features. You are also responsible for ensuring that all content made available through the Personal Web Features is appropriate for those who may have access to it. For example, you must take appropriate precautions to prevent minors from receiving or accessing inappropriate content. Comcast reserves the right to remove, block, or refuse to post or store any information or materials, in whole or in part, that it, in its sole discretion, deems to be in violation of this Policy. For purposes of this Policy, “material” refers to all forms  
-of communications including text, graphics (including photographs, illustrations, images, drawings, logos), executable programs and scripts, video recordings, and audio recordings. Comcast may remove or block content contained on your Personal Web Features and terminate your Personal Web Features and/or your use of the Service if we determine that you have violated the terms of this Policy.
-
 III. Network Management  
 Why does Comcast manage its network?
 
-Comcast manages its network with one goal: to deliver the best possible broadband Internet experience to all of its customers. High-speed bandwidth and network resources are not unlimited. Managing the network is essential as Comcast works to promote the use and enjoyment of the Internet by all of its customers. The company uses reasonable network management practices that are consistent with industry standards. Comcast tries to use tools and technologies that are minimally intrusive and, in its independent judgment guided by industry experience, among the best in class. Of course, the company's network management  
-practices will change and evolve along with the uses of the Internet and the challenges and threats on the Internet.
+Comcast manages its network with one goal: to deliver the best possible broadband Internet experience to all of its customers. High-speed bandwidth and network resources are not unlimited. Managing the network is essential as Comcast works to promote the use and enjoyment of the Internet by all of its customers. The company uses reasonable network management practices that are consistent with industry standards. Comcast tries to use tools and technologies that are minimally intrusive and, in its independent judgment guided by industry experience, among the best in class. Of course, the company's network management practices will change and evolve along with the uses of the Internet and the challenges and threats on the Internet.
 
-The need to engage in network management is not limited to Comcast. In fact, all large Internet service providers manage their networks. Many of them use the same or similar tools that Comcast does. If the company didn't manage its network, its customers would be subject to the negative effects of spam, viruses, security attacks, network congestion, and other risks and degradations of service. By engaging in responsible network management including enforcement of this Policy, Comcast can deliver the best possible broadband Internet experience to all of its customers. Visit Comcast's Network Management page at  
-http://networkmanagement.comcast.net/ for more information.
+The need to engage in network management is not limited to Comcast. In fact, all large Internet service providers manage their networks. Many of them use the same or similar tools that Comcast does. If the company didn't manage its network, its customers would be subject to the negative effects of spam, viruses, security attacks, network congestion, and other risks and degradations of service. By engaging in responsible network management including enforcement of this Policy, Comcast can deliver the best possible broadband Internet experience to all of its customers. Visit Comcast's Network Management page at http://networkmanagement.comcast.net/ for more information.
 
 How does Comcast manage its network?
 
@@ -149,7 +111,7 @@ Comcast uses various tools and techniques to manage its network, deliver the Ser
 IV. Data Consumption  
 What data consumption requirements apply to the Service?
 
-Comcast is not currently applying a monthly data consumption threshold to XFINITY Internet accounts.  If the company changes that approach, it will post a new version of this Policy as described above and make other appropriate notifications to customers.  However, in certain locations Comcast is providing versions of the Service with different speed and data consumption thresholds, among other characteristics, subject to applicable Service plans.  You can learn about the Service plans that apply in your area by going to http://customer.xfinity.com/help-and-support/internet/data-usage-what-are-the-different-plans-launching. You can check your current data usage at any time by logging into your My Account page and viewing the data usage meter at https://customer.xfinity.com/Secure/UsageMeterDetail.aspx.
+Comcast does not generally apply a monthly data consumption threshold to XFINITY Internet accounts.  However, Comcast retains the right to trial or adopt a data consumption threshold or other usage plan for the Service at any time.  If the company implements a consumption threshold or other usage plan, it will appropriately notify customers and, if necessary, post an updated version of this Policy.  In certain locations Comcast is providing versions of the Service with different speed and data consumption thresholds.  You can learn about the plans that apply in your area by going to http://customer.xfinity.com/help-and-support/internet/data-usage-what-are-the-different-plans-launching.  You can check your current data usage at any time by logging into your My Account page and viewing the data usage meter at http://www.xfinity.com/usagemeter.
 
 V. Violation of this Acceptable Use Policy  
 What happens if you violate this Policy?
@@ -181,7 +143,7 @@ Owners of copyrighted works who believe that their rights under U.S. copyright l
 
 How do copyright owners report alleged infringements to Comcast under the DMCA?
 
-Copyright owners may report alleged infringements of their works that are stored on the Service or the Personal Web Features by sending Comcast's authorized agent a notification of claimed infringement that satisfies the requirements of the DMCA. Upon Comcast's receipt of a satisfactory notice of claimed infringement for these works, Comcast will respond expeditiously to either directly or indirectly (i) remove the allegedly infringing work(s) stored on the Service or the Personal Web Features or (ii) disable access to the work(s). Comcast will also notify the affected customer or user of the Service of the removal or disabling of access to the work(s).
+Copyright owners may report alleged infringements of their works by sending Comcast's authorized agent a notification of claimed infringement that satisfies the requirements of the DMCA. Upon Comcast's receipt of a satisfactory notice of claimed infringement for these works, Comcast will respond expeditiously to either directly or indirectly (i) remove the allegedly infringing work(s), if applicable or (ii) disable access to the work(s). Comcast will also notify the affected customer or user of the Service of the removal or disabling of access to the work(s).
 
 Copyright owners may send Comcast a notification of claimed infringement to report alleged infringements of their works under the DMCA (but not the Copyright Alerts System) to:
 
@@ -201,6 +163,6 @@ If you receive a DMCA notification of alleged infringement as described above, a
 
 If a notification of claimed infringement has been filed against you, you can file a counter notification with Comcast's designated agent using the contact information shown above. All counter notifications must satisfy the requirements of Section 512(g)(3) of the U.S. Copyright Act.
 
-Revised and effective: September 5, 2014
+Revised and effective: June 1, 2016
 
 <. Back
