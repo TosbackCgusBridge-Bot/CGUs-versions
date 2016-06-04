@@ -239,7 +239,7 @@ International Edition
 *   AdChoices
 *   Advertise with us
 *   About us
-*   Contact us
+*   Newsletters
 *   Work for us
 *   Help
 *   Transcripts
