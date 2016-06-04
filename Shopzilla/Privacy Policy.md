@@ -2,41 +2,33 @@ Connexity
 
 *   Solutions
     
-    *   CPC Listings
-    *   Retailer Listings
-    *   Retailer Site Monetization
-    *   Publisher Monetization
+    *   Overview
+    *   AudienceView
+    *   Online Intelligence
     
-    *   Bizrate Insights &. Ratings
-    *   Consumer Insights
-        *   Surveys
-        *   Reporting
-    *   Conversion Boosters
-        *   Seller ratings
-        *   Testimonials
-        *   Badges &. awards
-    *   Competitive Intelligence
-    *   Advisory Services
-    *   Subscriptions
-    
-    *   Programmatic
+    *   Overview
     *   Our Audiences
     *   Your Audiences
     *   Modeled Audiences
     
-    *   Hitwise
-    *   AudienceView
-    *   Online Intelligence
+    *   Retailer Listings
+    *   Retailer Site Monetization
+    *   Publisher Monetization
+    
+    *   Overview
+    *   Online Buyers
+    *   Online Visitors
+    *   Subscriptions
 *   About
     *   About Connexity
     *   Open Positions
     *   Benefits
     *   Team
-    *   Press
 *   Resources
     *   Blog
-    *   Case Studies
+    *   Press
     *   Articles &. White Papers
+*   Case Studies
 
 *   *   US
         *   FR
