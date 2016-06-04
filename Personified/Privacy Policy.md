@@ -1,4 +1,6 @@
-Post a Job Search Resumes
+Post a Job Search Resumes Hello. Sign in to find your next hire. Sign In or Sign Up
+
+*   Home
 
 *   Browse Products
     *   Broadbean Job Distribution  
@@ -27,7 +29,7 @@ Post a Job Search Resumes
     *   $0.00 Cart
     *   Contact Us
 
-*   Job Seeker Site
+*   For Job Seekers
 
 *   Overview
 *   Features
