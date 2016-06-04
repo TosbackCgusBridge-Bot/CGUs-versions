@@ -160,7 +160,7 @@ Attn: Privacy
     *   Privacy Policy
     *   CPNI
     *   Copyright Infringement
-    *   Terms &. Conditions of Service
+    *   Internet Terms &. Conditions of Service
     *   Regulatory Notices
     *   PO Terms &. Conditions
     *   Tariffs, RTCs, Price Lists and Catalogs
