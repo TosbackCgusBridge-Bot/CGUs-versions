@@ -67,11 +67,7 @@ LENOVO Menu
 *   Search
     
 
-Offers
-
-*   View cart
-
-Home Privacy Details Privacy Privacy details Cookies Social Sign On  
+Offers Home Privacy Details Privacy Privacy details Cookies Social Sign On  
   Privacy Policy    
 
 Your privacy is important to Lenovo. This privacy policy applies to Lenovo’s websites owned and operated by Lenovo. This statement discloses the information practices for Lenovo Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
