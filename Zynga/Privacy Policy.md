@@ -16,7 +16,6 @@ Navigation
     *   Looney Tunes Dash
     *   Mafia Wars
     *   Matching With Friends
-    *   NFL Showdown
     *   Princess Bride Slots
     *   Speed Guess Something
     *   Spin It Rich
