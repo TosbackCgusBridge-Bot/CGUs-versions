@@ -1,6 +1,6 @@
 **Privacy Notice**
 
-**Quick Links** Marketing E-mail Opt-Out Web Analytics Opt-Out Targeted Advertising Opt-Out Your California Privacy Rights Safe Harbor Privacy Policy  
+**Quick Links** Marketing E-mail Opt-Out Web Analytics Opt-Out Targeted Advertising Opt-Out Your California Privacy Rights  
   
 
 Smarter Travel Media LLC and its subsidiaries and affiliates, including JetSetter Inc., dba Jetsetter  (collectively, “Jetsetter”), respect your concerns about privacy.  This Privacy Notice describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of the information.  We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
