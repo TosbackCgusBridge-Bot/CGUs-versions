@@ -103,7 +103,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gifts Over $90
 *   Specials
 
-Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go _Free standard delivery on shipments $35+\*! Use code: **DADS2016**_
+Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go _Free standard delivery on shipments $50+\*! Use code: **FATHERS50**_
 
 1.  Home
 2.  Customer Service
