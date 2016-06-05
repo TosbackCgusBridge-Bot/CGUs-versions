@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14878060290
+true true C14881300095
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Fri Jun 03 11:13:47 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Sat Jun 04 11:15:36 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -57,7 +57,11 @@ Shop Men's St. John's Bay Solid Polos  
 
 9.99 Select Women's St. John's Bay Embellished Tees, reg. $20
 
-Shop Women's St. John's Bay Embellished Tees   St. John's Bay 40 to 60% Off Men's Shorts
+Shop Women's St. John's Bay Embellished Tees   Home Flash Sale Extra 30% Off\* $100 or More Or, Extra 25% Off\* Select Home Already 30 to 50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds &. Shades
+
+Today Online Only | Code: TOSAVE98
+
+\*Exclusions and details: Shop Home Flash Sale Now St. John's Bay 40 to 50% Off Men's Shorts
 
 Select styles.
 
@@ -69,11 +73,7 @@ Shop Men   Shop Women   30 to 50% Off Swim For The Family
 
 Select styles.
 
-Shop Swim For The Family Shop Men Shop Women Shop Boys Shop Girls 30 to 50% Off Home Sale
-
-Select styles.
-
-Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses  New! Major Appliances From Your Favorite Brands
+Shop Swim For The Family Shop Men Shop Women Shop Boys Shop Girls New! Major Appliances From Your Favorite Brands
 
 Now available online.
 
