@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14881300095
+true true L14971569631
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Sat Jun 04 11:15:36 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p19.jcpenney.com SERVER NAME :->. dtcomexpr1l1j1 TIME :->. Sun Jun 05 11:00:11 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,55 +49,57 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Under $10 Summer-Ready Styles For The Family In Store and Online View Store Ad Shop Men Under $10 Shop Women Under $10 Shop Accessories Under $10 Shop Kids Under $10 Shop Home Under $10
+Friends and Family Sale Extra 30% Off\* With Your JCPenney Credit Card Or, Extra 25% Off\* With Any Other Form of Payment Or, Extra 15% Off\* Select Watches, Optical, Portrait, Electrics/Electronics Or, Extra 10% Off\* Select Major Appliances Don't Forget Dad! Father's Day is June 19
 
-9.99 All Men's St. John's Bay Solid Polos, reg. $26
+In Store and Online | Ends June 7 | Code: FORYOU2
 
-Shop Men's St. John's Bay Solid Polos  
+\*Credit offers subject to credit approval.
 
-9.99 Select Women's St. John's Bay Embellished Tees, reg. $20
+Get Coupon View Store Ad \*Exclusions and details: Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Jewelry Shop Home Shop Handbags 19.99 Men's Nike Graphic Tees
 
-Shop Women's St. John's Bay Embellished Tees   Home Flash Sale Extra 30% Off\* $100 or More Or, Extra 25% Off\* Select Home Already 30 to 50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds &. Shades
+Select styles, reg. $25. Excluded from coupon.
 
-Today Online Only | Code: TOSAVE98
+Shop Men's Nike Graphic Tees44.99 Men's New Balance Shoes
 
-\*Exclusions and details: Shop Home Flash Sale Now St. John's Bay 40 to 50% Off Men's Shorts
+Select styles, available in wide width. MSRP $60-$70. Excluded from coupon.
 
-Select styles.
+Men's New Balance Shoes Gifts For Dad Don't forget Dad! Father's Day is June 19. Shop Top Gifts Shop Gifts Under $25Gift Cards - $10 Off $10 Coupon In Store Only! | Ends June 19
 
-Shop Men's Shorts 30 to 50% Off Sandals
+Spend $75 on Gift Cards and get a $10 off $10 Coupon. Redeemable 6/20/16-7/4/16 in store only. Some restrictions apply. See store for details.
 
-Select styles.
+Shop Gift CardsE-Gift Cards - $10 Off $10 Coupon Online Only! | Ends June 19
 
-Shop Men   Shop Women   30 to 50% Off Swim For The Family
+Spend $75 on E-Gift Cards and get a $10 off $10 Coupon. Redeemable 6/20/16-7/4/16 in store and online. Some restrictions apply.
 
-Select styles.
+Get Details 30 to 50% Off Home Sale Select styles Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and MattressesFriends and Family Sale Extra 10% Off\* With Your JCPenney Credit Card
 
-Shop Swim For The Family Shop Men Shop Women Shop Boys Shop Girls New! Major Appliances From Your Favorite Brands
+Code: FORYOU2
 
-Now available online.
+Shop Major Appliances
 
-Shop Major Appliances18 or 24 Months Special Financing\*
+Select styles
 
-available on qualifying major appliance purchases made through 6/21/16 on a JCPenney Credit Card. Must request at time of purchase.
+  7.99 A.N.A, Stylus and St. John's Bay Tees Select styles
 
-\*Get details: Apply NowFree Delivery and Basic Installation
+orig. $14-$16
 
-on all appliance purchases over $299
+Shop Women's Tees New Markdowns! Clearance 50 to 70% Off
 
-Get details: SportsFanShop
+In Store and Online
+
+Shop Clearance Now SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop: Don't Forget Dad!
+Shop SportsFanShop: Sign Up For Email Offers
 
-Father's Day is June 19.
+Get the styles, sizes and prices you love delivered right to your inbox. Plus be one of the first to know about sales and savings in store and online.
 
-Shop Gifts JCPenney | optical
+Sign Up Now: Dad's Day Giveaway Enter Dad's Name For A Chance To Win a $200 Shopping Certificate
 
-Free Shipping on Contacts
+In Store | June 5-17
 
-Order Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Get Details: Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
