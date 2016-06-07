@@ -2,19 +2,23 @@ Connexity
 
 *   Solutions
     
+    *   hitwise
     *   Overview
     *   AudienceView
     *   Online Intelligence
     
+    *   audience targeting
     *   Overview
     *   Our Audiences
     *   Your Audiences
     *   Modeled Audiences
     
+    *   cpc listings
     *   Retailer Listings
     *   Retailer Site Monetization
     *   Publisher Monetization
     
+    *   bizrate insights
     *   Overview
     *   Online Buyers
     *   Online Visitors
