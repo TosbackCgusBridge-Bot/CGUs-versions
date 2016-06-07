@@ -253,7 +253,6 @@ Official Info Skip to main content
     *   Resources
     *   Opportunities
     *   Diverse Business Summit
-*   MLB Tryout Camps
 *   _Television_
     *   National Broadcasts
 *   _Official Rules_
