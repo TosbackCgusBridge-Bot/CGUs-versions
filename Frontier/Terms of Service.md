@@ -51,10 +51,10 @@ Television
 
 High-Speed Internet
 
-*   Residential Internet Service Terms and Conditions (Leer en español)
+*   Residential Internet Service Terms and Conditions
 *   Former Residential Internet Service Terms and Conditions\*\*\*
 *   Former FiOS Internet\*\*\*
-*   Residential Internet Service with Embedded Line Terms and Conditions (Leer en español)
+*   Residential Internet Service with Embedded Line Terms and Conditions
 *   Residential Internet Service with Emergency Line Terms and Conditions
 
 Voice/VoIP/Telephone
