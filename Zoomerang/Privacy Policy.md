@@ -29,8 +29,8 @@ items. Super Search
     *   CUSTOMER VALUE
 *   DATA
 *   TECHNOLOGY
-*   NEWS CENTER
-*   COMPANY
+*   INSIGHTS &. NEWS
+*   CAREERS
 *   CONTACT
 *   CLIENT LOGIN
     *   METRIXLAB
@@ -70,7 +70,7 @@ We leverage data from any source, anywhere and at any time and apply our proprie
 
 OUR GLOBAL TEAM OF EXPERTS IS EXCITED TO HELP YOU
 
-MetrixLab, a Macromill Group company has conducted analytics and consumer insight projects in more than 90 countries worldwide.
+MetrixLab, a Macromill Group careers has conducted analytics and consumer insight projects in more than 90 countries worldwide.
 
 Let’s get in touch!
 
@@ -85,10 +85,8 @@ Let’s get in touch!
 *   Technology
 *   News Center
 
-*   Company
-    *   Vision
-    *   Clients
-    *   Careers
+*   Careers
+    *   About us
 
 *   Contact
 
