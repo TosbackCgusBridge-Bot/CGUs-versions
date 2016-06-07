@@ -305,6 +305,7 @@ Menu
         *   Our locations
         *   Meet our apprentices
         *   Application and assessment
+    *   Employment rights under federal law
     
     *   Search jobs and apply
         
