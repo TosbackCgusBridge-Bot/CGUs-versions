@@ -59,7 +59,7 @@ The following activity is not permitted:
 *   The creation, use, or promotion of:
     *   Bots or other automated means to perform social interactions;
     *   Services that claim to boost a profile’s popularity such as followers, plays, likes, or reposts;
-    *   Services that sell social interactions, or other forms of promotion on SoundCloud, such as charging users to repost or upload content onto another profile.
+    *   Services that sell social interactions or other forms of promotion on SoundCloud.
 
 Tell us about it
 
