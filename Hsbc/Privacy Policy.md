@@ -315,12 +315,12 @@ Our approach
 
 Investor relations
 
-*   Investor resources
-*   Fixed income securities
 *   Financial and regulatory reports
 *   Events and presentations
-*   Stock exchange announcements
 *   Share and dividend information
+*   Investor resources
+*   Fixed income securities
+*   Stock exchange announcements
 *   Risk and responsibility
 
 News and insight
