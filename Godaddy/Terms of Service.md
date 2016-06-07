@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: May 6, 2016**
+**Last Revised: June 6, 2016**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -157,7 +157,7 @@ We define spam as the sending of Unsolicited Commercial Email (UCE), Unsolicited
 
 We will not allow our servers and services to be used for the purposes described above. In order to use our products and services, you must not only abide by all applicable laws and regulations, which include the Can-Spam Act of 2003 and the Telephone Consumer Protection Act, but you must also abide by this no spam policy. Commercial advertising and/or bulk emails or faxes may only be sent to recipients who have "opted-in" to receive messages. They must include a legitimate return address and reply-to address, the sender's physical address, and an opt-out method in the footer of the email or fax. Upon request by us, conclusive proof of opt-in may be required for an email address or fax number.
 
-If we determine the services in question are being used in association with spam, we will re-direct, suspend, or cancel any web site hosting, domain registration, email boxes or other applicable services for a period of no less than two (2) days. The registrant or customer will be required to respond by email to us stating that they will cease to send spam and/or have spam sent on their behalf. We will require a non-refundable reactivation fee to be paid before the site, email boxes and/or services are reactivated. In the event we determine the abuse has not stopped after services have been restored the first time, we may terminate the hosting and email boxes associated with the domain name in question.
+If we determine the account, products, or services in question are being used in association with spam, we may re-direct, suspend, or cancel any account, web site hosting, domain registration, email boxes, or other applicable products or services. In such event, at our election, we may require you to respond by email to us stating that you will cease to send spam and/or have spam sent on your behalf and to require a non-refundable reactivation fee to be paid before the site, email boxes, and/or services are reactivated. 
 
 We encourage all customers and recipients of email generated from our products and services to report suspected spam. Suspected abuse can be reported by email or through our Spam Abuse Complaint Center on the Web.  Web: report abuse.   
 
@@ -786,5 +786,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 5/6/16  
+Revised: 6/6/16  
 Copyright © 2005-2016 GoDaddy.com, LLC All Rights Reserved.
