@@ -71,14 +71,14 @@ Explore Games
     Join for free
 *   Specials
     
-    hot games
+    Hot Games
     
-    *   The Godfather: Five Families
-    *   Forge of Empires
-    *   Cloud Critters App
+    *   Klondike - the lost expedition
+    *   Golden Frontier
+    *   Easy Joe World app
+    *   Five Night's at Golden Freddy's
+    *   Park My Car
     *   SuperSnake.io
-    *   Five Nights at Freddy's 3
-    *   Kung Fu Panda: Pawsome Panda
     
     Mobile Apps More
     
