@@ -248,11 +248,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Quit Smoking. Period.**
+**Orcas Altered Their Own Evolution**
 
-**Eerie Plane Ruins Across the Globe Draw Wreckage Hunters**
+**Mind-blowing Design Contest for Future National Memorials**
 
-**Terrorists Could Use Virtual Reality to Prepare for Attacks**
+**Comic Books Are Thriving — in Print and Digital Forms**
 
 **See More Headlines »**
 
