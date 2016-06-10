@@ -1,6 +1,6 @@
 Datenschutzhinweise GMX Datenschutzhinweise
 
-für 1&1 Mail &. Media GmbH, München, hat der Schutz Ihrer persönlichen Informationen oberste Priorität. Selbstverständlich halten wir die relevanten Datenschutzgesetze ein und möchten Sie mit den nachfolgenden Datenschutzhinweisen umfassend über den Umgang mit Ihren Daten aufklären.
+für 1&1 Mail &. Media GmbH, Montabaur, hat der Schutz Ihrer persönlichen Informationen oberste Priorität. Selbstverständlich halten wir die relevanten Datenschutzgesetze ein und möchten Sie mit den nachfolgenden Datenschutzhinweisen umfassend über den Umgang mit Ihren Daten aufklären.
 
 Erhebung, Verarbeitung und Nutzung personenbezogener Daten  
 Erhebung, Verarbeitung und Nutzung von Nutzungs- und Verkehrsdaten  
@@ -23,9 +23,9 @@ Im Übrigen sind wir ebenfalls berechtigt, Ihre im Zusammenhang mit der Vertrags
 *   Postalische Werbung oder postalische Markt- oder Meinungsforschung
 *   Spendenwerbung für gemeinnützige Organisationen
 
-Sie haben die Möglichkeit, der genannten weitergehenden Datenverwendung jederzeit durch schriftliche Mitteilung an die 1&1 Mail &. Media GmbH, Datenschutz, Zweigniederlassung München, Sapporobogen 6-8, 80637 München oder per E-Mail an datenschutz@gmxnet.de zu widersprechen. Im Falle des Widerspruchs kann es aus technischen Gründen kurzfristig noch zu weiteren Zusendungen kommen.
+Sie haben die Möglichkeit, der genannten weitergehenden Datenverwendung jederzeit durch schriftliche Mitteilung an die 1&1 Mail &. Media GmbH, Datenschutz, Elgendorfer Str. 57, 56410 Montabaur oder per E-Mail an datenschutz@gmxnet.de zu widersprechen. Im Falle des Widerspruchs kann es aus technischen Gründen kurzfristig noch zu weiteren Zusendungen kommen.
 
-Adress- und Negativdaten werden an andere Konzernunternehmen und eine zentrale Datei übermittelt, die von der United Internet AG, Montabaur, zum Zwecke des Schutzes aller Konzernunternehmen geführt wird. Anderen Konzernunternehmen werden diese Daten bei berechtigtem Interesse zweckgebunden zur Verfügung gestellt.
+**Adress- und Negativdaten werden an andere Konzernunternehmen und eine zentrale Datei übermittelt, die von der United Internet AG, Montabaur, zum Zwecke des Schutzes aller Konzernunternehmen geführt wird. Anderen Konzernunternehmen werden diese Daten bei berechtigtem Interesse zweckgebunden unter Berücksichtigung der schutzwürdigen Interessen des Kunden zur Verfügung gestellt.**
 
 Zur Begründung und Abwicklung eines Vertragsverhältnisses sind in der Regel Name, Anschrift, Geburtsdatum, E-Mail-Adresse, gegebenenfalls Telefonnummer und Bankverbindung sowie Passwort des Nutzers erforderlich (Bestandsdaten). Diese Daten werden in der Regel in elektronischen Bestellformularen erhoben.
 
@@ -73,13 +73,37 @@ Wenn Sie keine gesteuerten Werbeeinblendungen erhalten möchten, können Sie der
 
 Bitte beachten Sie, dass Sie für den Fall einer Cookie-Löschung auch den Opt Out Link erneut aktivieren müssen.
 
+Verwendung von Werbe- bzw. Advertising-ID innerhalb von Applikationen (Apps)
+
+Zur gezielten Aussteuerung von Werbeinhalten verwenden wir innerhalb unserer Android-Applikationen die sogenannte Werbe-ID bzw. innerhalb unserer Apple-Applikationen die Advertising-ID (IDFA), eine Gerätekennung ohne Personenbezug. Soweit Sie also Applikationen der 1&1 Mail &. Media GmbH downloaden und nutzen, übermitteln Sie damit eine eindeutig Ihrem Endgerät zuordenbare Kennnummer (Werbe-ID bzw. Advertising-ID) an uns. Eine persönliche Identifikation anhand der Werbe- bzw. Advertising-ID ist uns nicht möglich.
+
+Interessenbezogene Werbung deaktivieren und Zurücksetzen der Werbe-ID bei Android-Geräten
+
+Auf Android-Geräten ist standardmäßig die Option "Interessenbezogene Werbung deaktivieren" deaktiviert. Möchten Sie dies ändern, öffnen Sie die Google-Einstellungen, tippen Sie auf "Anzeigen" und aktivieren Sie "Interessenbezogene Werbung deaktivieren".\* Mittels dieser OPT-OUT-Option unterbinden Sie die Anzeige von interessenbezogener Werbung basierend auf Ihrer Werbe-ID auf ihrem Gerät.
+
+Zusätzlich haben Sie die Möglichkeit die Werbe-ID zurück zu setzen. Dies tun Sie ebenfalls in den Google-Einstellungen >. Anzeigen. Klicken Sie auf "Werbe-ID zurücksetzen" und es werden alle bis dato gesammelten Informationen zurückgesetzt und die Werbe-ID auf Ihrem Gerät wird durch eine zufällig ausgewählte Nummer ersetzt.\*
+
+Zielgerichtete Werbung deaktivieren und Zurücksetzen der Advertising-ID bei Apple Geräten
+
+Wenn Sie keine zielgerichtete Werbung auf Ihrem Apple-Gerät erhalten möchten, gehen Sie wie folgt vor: "Einstellungen" >. "Datenschutz" >. "Werbung", aktivieren Sie "Kein Ad-Tracking". Wenn Sie "Kein Ad-Tracking" aktivieren, wird Ihnen keine interessenbezogene Werbung basierend auf Ihrer Advertising-ID mehr angezeigt. Wenn Sie "Kein Ad-Tracking" aktivieren, wird zeitgleich auch Ihre Advertising-ID zurückgesetzt.
+
+Möchten Sie Ihre Advertising-ID zurücksetzen, klicken Sie auf "Ad-ID zurücksetzen". Die mit Ihrer Advertising-ID verknüpften Informationen werden damit gelöscht.
+
+  
+
+Bitte beachten Sie, dass durch diese Änderungen möglicherweise weiterhin Werbung angezeigt wird sowie dass diese Änderungen nicht nur Auswirkungen auf die Werbeinhalte der Applikationen der 1&1 Mail &. Media GmbH haben.
+
+  
+
+\* Menüführung kann je nach Gerät und Version variieren.
+
 Selbstregulierungskodex des DDOW
 
 Der 1&1 Mail &. Media GmbH ist ein praktikabler Datenschutz ihrer Nutzer in Bezug auf nutzungsbasierte Online-Werbung wichtig. Über die gesetzlichen Vorgaben und die strikte Pseudonymisierung der erhobenen Daten hinaus befolgen wir deshalb die selbstregulativen Vorgaben des IAB Europe Framework for Online Behavioral Advertising und des Deutschen Datenschutzrates Online-Werbung in Bezug auf nutzungsbasierte Online-Werbung. Den gültigen Selbstregulierungskodex können Sie unter folgendem Link einsehen: www.meine-cookies.org/ddow.html
 
 Datenschutzerklärung zur Nutzung des Messverfahrens der INFOnline GmbH
 
-Unsere Webseite nutzt das Messverfahren („SZMnG“) der INFOnline GmbH (https://www.infonline.de) zur Ermittlung statistischer Kennwerte über die Nutzung unserer Angebote. Ziel der Reichweitenmessung ist es, die Nutzungsintensität, die Anzahl der Nutzer einer Webseite und das Surfverhalten statistisch – auf Basis eines einheitlichen Standardverfahrens - zu bestimmen und somit marktweit vergleichbare Werte zu erhalten. Für Web-Angebote, die Mitglied der Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e.V. (IVW – http://www.ivw.eu) sind oder an den Studien der Arbeitsgemeinschaft Online-Forschung e.V. (AGOF - http://www.agof.de) teilnehmen, werden die Nutzungsstatistiken regelmäßig von der AGOF und der Arbeitsgemeinschaft Media-Analyse e.V. (agma - http://www.agma-mmc.de), sowie der IVW veröffentlicht und können auf den jeweiligen Webseiten eingesehen werden.
+Unsere Webseite nutzt das Messverfahren ("SZMnG") der INFOnline GmbH (https://www.infonline.de) zur Ermittlung statistischer Kennwerte über die Nutzung unserer Angebote. Ziel der Reichweitenmessung ist es, die Nutzungsintensität, die Anzahl der Nutzer einer Webseite und das Surfverhalten statistisch – auf Basis eines einheitlichen Standardverfahrens - zu bestimmen und somit marktweit vergleichbare Werte zu erhalten. Für Web-Angebote, die Mitglied der Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e.V. (IVW – http://www.ivw.eu) sind oder an den Studien der Arbeitsgemeinschaft Online-Forschung e.V. (AGOF - http://www.agof.de) teilnehmen, werden die Nutzungsstatistiken regelmäßig von der AGOF und der Arbeitsgemeinschaft Media-Analyse e.V. (agma - http://www.agma-mmc.de), sowie der IVW veröffentlicht und können auf den jeweiligen Webseiten eingesehen werden.
 
 1\. Datenverarbeitung
 
@@ -95,7 +119,7 @@ Eine sogenannte Geolokalisierung, also die Zuordnung eines Webseitenaufrufs zum 
 
 1.3 Identifikationsnummer des Gerätes
 
-Die Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen alternativ entweder ein Cookie mit der Kennung „ioam.de", ein „Local Storage Object“ oder eine anonyme Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Browsers erstellt wird. Die Gültigkeit des Cookies ist auf maximal 1 Jahr beschränkt.
+Die Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen alternativ entweder ein Cookie mit der Kennung "ioam.de", ein "Local Storage Object" oder eine anonyme Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Browsers erstellt wird. Die Gültigkeit des Cookies ist auf maximal 1 Jahr beschränkt.
 
 1.4 Anmeldekennung
 
