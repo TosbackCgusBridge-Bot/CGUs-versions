@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Sanctuaries Oceans &. Coasts How does NOAA designate a national marine sanctuary? Research Study: Sea ice loss likely no factor in cold Northern Hemisphere winters National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Sanctuaries Oceans &. Coasts How does NOAA designate a national marine sanctuary? Oceans &. Coasts Video: Exploring the oceans is our 'last grand challenge' National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Sanctua
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Near-normal Atlantic hurricane season is most likely this year 70 percent likelihood of 10 to 16 named storms AROUND NOAA // Celebrate the ocean during National Ocean Month America prepares for hurricane season Scientists discover largest sponge known during deep-sea exploration
+Enter Search Terms Celebrate the ocean during National Ocean Month AROUND NOAA // Near-average May closes out warm, wet spring for Lower 48 Just in time for hurricane season, NOAA gets a new global ocean satellite Video: Could you survive a rip current? See how
 
 *   About our agency
 *   News and features
@@ -124,5 +124,3 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Contact us
 *   Staff Directory
 *   Need help?
-
-NOAA
