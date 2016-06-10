@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14976037830
+true true L14986785732
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Mon Jun 06 11:15:32 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p17.jcpenney.com SERVER NAME :->. dtcomexpr1l1j6 TIME :->. Thu Jun 09 11:15:22 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,21 +49,23 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Friends and Family Sale Extra 30% Off\* With Your JCPenney Credit Card Or, Extra 25% Off\* With Any Other Form of Payment Or, Extra 15% Off\* Select Watches, Optical, Portrait, Electrics/Electronics Or, Extra 10% Off\* Select Major Appliances Don't Forget Dad! Father's Day is June 19
+Super Saturday Sale In Store and Online Shop Super Saturday Sale View Store AdSpend $25 and get $10 Off\*
 
-In Store and Online | Ends June 7 | Code: FORYOU2
+In Store and Online | Ends 6/19 | Code: BEST22
 
-\*Credit offers subject to credit approval.
+Get Coupon
 
-Get Coupon View Store Ad \*Exclusions and details: Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Jewelry Shop Home Shop Handbags 19.99 Men's Nike Graphic Tees
+\*Exclusions apply
 
-Select styles, reg. $25. Excluded from coupon.
+Shop Women Shop Kids Shop Men Shop Curtains and Drapes Shop Bedding Shop Jewelry Shop Handbags Shop Shoes Home Flash Sale Extra 30% Off\* $100 or More Or, Extra 25% Off\* Select Home Already 30 to 50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds and Shades
 
-Shop Men's Nike Graphic Tees44.99 Men's New Balance Shoes
+Today Online Only | Code: HURRY4
 
-Select styles, available in wide width. MSRP $60-$70. Excluded from coupon.
+Get details: Shop All Home Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Furniture and Mattresses 9.99 All Men's St. John's Bay Solid Polos
 
-Men's New Balance Shoes Gifts For Dad Don't forget Dad! Father's Day is June 19. Shop Top Gifts Shop Gifts Under $25Gift Cards - $10 Off $10 Coupon In Store Only! | Ends June 19
+reg. $26
+
+Shop St. John's Bay Solid Polos Gifts For Dad Don't forget Dad! Father's Day is June 19. Shop Top Gifts Shop Gifts Under $25Gift Cards - $10 Off $10 Coupon In Store Only! | Ends June 19
 
 Spend $75 on Gift Cards and get a $10 off $10 Coupon. Redeemable 6/20/16-7/4/16 in store only. Some restrictions apply. See store for details.
 
@@ -71,19 +73,15 @@ Shop Gift CardsE-Gift Cards - $10 Off $10 Coupon Online Only! | Ends June 19
 
 Spend $75 on E-Gift Cards and get a $10 off $10 Coupon. Redeemable 6/20/16-7/4/16 in store and online. Some restrictions apply.
 
-Get Details 30 to 50% Off Home Sale Select styles Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and MattressesFriends and Family Sale Extra 10% Off\* With Your JCPenney Credit Card
+Get Details 19.99 Men's Nike Graphic Tees
 
-Code: FORYOU2
+Select styles, reg. $25. Excluded from coupon.
 
-Shop Major Appliances
+Shop Men's Nike Graphic Tees44.99 Men's New Balance Shoes
 
-Select styles
+Select styles, available in wide width. MSRP $60-$70. Excluded from coupon.
 
-  7.99 A.N.A, Stylus and St. John's Bay Tees Select styles
-
-orig. $14-$16
-
-Shop Women's Tees New Markdowns! Clearance 50 to 70% Off
+Men's New Balance Shoes New Markdowns! Clearance 50 to 70% Off
 
 In Store and Online
 
@@ -91,11 +89,11 @@ Shop Clearance Now SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop: Sign Up For Email Offers
+Shop SportsFanShop: JCPenney | optical
 
-Get the styles, sizes and prices you love delivered right to your inbox. Plus be one of the first to know about sales and savings in store and online.
+15% Off\* Contact Lenses
 
-Sign Up Now: Dad's Day Giveaway Enter Dad's Name For A Chance To Win a $200 Shopping Certificate
+Order Now Dad's Day Giveaway Enter Dad's Name For A Chance To Win a $200 Shopping Certificate
 
 In Store | June 5-17
 
