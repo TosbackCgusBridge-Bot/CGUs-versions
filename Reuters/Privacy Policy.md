@@ -33,10 +33,10 @@ online legal research
 
 *   Why Westlaw?
 *   Plans
+    *   Small Firms
+    *   Large &. Midsize Firms
     *   Corporate Counsel
     *   Government
-    *   Large &. Midsize Firms
-    *   Small Firms
 *   Training &. Support
 *   Contact Sales
 
@@ -87,7 +87,7 @@ Click the orange buttons to explore the Practitioner Insights interface.
     Close
 *   More Browse
     
-    Market-leading content focused on your practice area, including the most comprehensive collection of primary law, exclusive analytics materials, and the largest collection of litigation materials and forms.
+    Market-leading content focused on your practice area, including the most comprehensive collection of primary law, exclusive analytical materials, and the largest collection of litigation materials and forms.
     
     Close
 *   More My Alerts
