@@ -1,134 +1,265 @@
-BEST. DAD. EVER.
-
-Find the perfect Father's Day gift.
-
-Guest Services 800-607-9788
-
-*   US Store Locator
-*   Buckle Card Bill Pay
-*   My Account
-*   Sign In
-*   Help
-
-My Bag (0) Wish List Search
+*   United States
+*   FIND A STORE
+*   800.607.9788
 
 *   Women
 *   Men
 *   Kids
-    *   Boys
-    *   Girls
-*   New Arrivals
-    *   Men
-    *   Women
 *   Jeans
-    *   Men
-    *   Women
-*   Brands
-    *   Men
-    *   Women
-*   BKE
-    *   Men
-    *   Women
-*   Shoes
-    *   Men
-    *   Women
+*   New
 *   Sale
-    *   Men
-    *   Women
-*   Style
-    *   Men
-    *   Women
 
-*   Shopping/Ordering
-    *   Finding Products
-    *   Ordering Methods
-    *   Payment Options
-    *   Order Inquiry
-    *   Primo Card
-*   Your Account
-    *   Forgot Password
-    *   Sign In/Create Account
-    *   Edit Your Profile
-    *   Your Address Book
-    *   Maintain Payment Options
-    *   View Order History
-    *   Email Updates
-    *   Maintain Your Wish List
-*   Shipping/Handling
-    *   Shipping Rates/Options
-    *   International Shipping
-*   Returns
-    *   Return Policy
-    *   How to Return
-    *   International Return Policy
+*   MY ACCOUNT
+*   MY FAVORITES FAVORITED! Login to save this item to your Buckle account.
+    *   Login
+    *   |
+    *   Register
+*   MY BAG
+
+*   MY FAVORITES
+*   MY BAG
+
+*   Women
+*   Men
+*   Kids
+*   Jeans
+*   New
+*   Sale
+
+A Global Message! ×
+
+*   Featured
+
+*   New Arrivals
+*   Shop By Brand
+*   Get Fitted
+*   Shop by Outfit
+*   Shop the Shoot
 *   Promotions
-    *   Buckle Card Double Points 2016
-    *   Buckle Card Free Waterbottle
-    *   Spring Break Away Official Rules 2016
-    *   Review Your Blues Sweepstakes Rules
-    *   Social Giveaway Official Rules
-    *   Store Events
-    *   Sweepstakes Winners
-*   Gift Cards/Services
-    *   Gift Services
-    *   Gift Card Donation Requests
-*   Our Merchandise
-    *   Availability
-    *   Pricing Policy
-    *   Size Help
-    *   Care Instructions
-    *   Factory Seconds
-    *   Alterations
-    *   Layaway
-*   Buckle Credit Card
-    *   Buckle Credit Card
-    *   Buckle Card Payment Options
-*   Buckle Guest Loyalty
-    *   Buckle Guest Loyalty Program
-    *   Terms and Conditions
-*   Privacy &. Security
-    *   Privacy Policy
-    *   Privacy Policy - Applicant
-    *   Terms &. Conditions
-    *   Safe Shopping
-    *   Image Use Agreement
-*   Technical Help
-    *   Technical Difficulties
-    *   Javascript
-    *   Cookies
-    *   Accessibility
-*   Buckle Information
-    *   Military Discounts
-    *   Team Highlights
-    *   Ratings &. Reviews
-    *   Personal Shopping
-    *   buckle SELECT
-    *   Store Locator
-    *   Investor Information
-    *   Vendor Compliance
-    *   Buckle Outlet Stores
-    *   Fraud Alert
-    *   Buckle Coupons
-    *   Glossary Term Index
-    *   Corporate Profile
-    *   Affiliate Program
-    *   Music/Celebrity Sponsorship Requests
-*   FAQs
+*   Shop Instagram
+*   Sale
 
-Privacy &. Security
+*   Tops
+
+*   Tees
+*   Tanks
+*   Shirts/Blouses
+*   Bandeaus/Bralettes
+*   Fashion
+*   Graphics
+*   Show All Tops
+
+*   Bottoms
+
+*   Jeans
+*   Shorts
+*   Crops/Capris
+*   Skirts
+*   Pants
+*   Show All Bottoms
+
+*   Shoes
+
+*   Sandals
+*   Flips
+*   Sneakers
+*   Wedges
+*   Boots
+*   Show All Shoes
+
+*   More
+
+*   Accessories
+*   Activewear
+*   Bags
+*   Dresses
+*   Fragrance
+*   Swimwear
+*   Show All
+
+  
+  
+Buy a Buckle Gift card
+
+*   Featured
+
+*   New Arrivals
+*   Shop By Brand
+*   Get Fitted
+*   Shop by Outfit
+*   Shop the Shoot
+*   Promotions
+*   Shop Instagram
+*   Sale
+
+*   Tops
+
+*   Tees
+*   Hoodies/Sweatshirts
+*   Tanks
+*   Shirts
+*   Polos
+*   Sweaters
+*   Show All Tops
+
+*   Bottoms
+
+*   Jeans
+*   Shorts
+*   Boardshorts
+*   Pants
+*   Show All Bottoms
+
+*   Shoes
+
+*   Flips
+*   Casuals
+*   Sneakers
+*   Boots
+*   Show All Shoes
+
+*   More
+
+*   Accessories
+*   Hats
+*   Watches
+*   Cologne
+*   Bags
+*   Show All
+
+  
+  
+Buy a Buckle Gift card
+
+*   Featured
+
+*   Boy's New Arrivals
+*   Girl's New Arrivals
+*   Boy's Sale
+*   Girl's Sale
+
+*   Girl's Clothing
+
+*   Tops
+*   Jeans
+*   Shorts
+*   Crops/Capris
+*   Swimwear
+*   Show All Girl's Clothes
+
+*   Boy's Clothing
+
+*   Shirts
+*   Jeans
+*   Boardshorts
+*   Shorts
+*   Shoes
+*   Show All Boy's Clothes
+
+Buy a Buckle Gift card
+
+*   Women's Jeans
+
+*   Jegging
+*   Skinny
+*   Bootcut
+*   Flare
+*   Blues Report
+*   Show All Women's Jeans
+
+*   Men's Jeans
+
+*   Slim
+*   Regular
+*   Relaxed
+*   Loose
+*   Blues Report
+*   Show All Men's Jeans
+
+*   Kid's Jeans
+
+*   Girl's Jeans
+*   Boy's Jeans
+
+  
+  
+Buy a Buckle Gift card
+
+*   Women's New
+
+*   Tees
+*   Jeans
+*   Shorts
+*   Crops/Capris
+*   Shirts/Blouses
+*   Shoes
+*   Show All Women's New
+
+*   Men's New
+
+*   Tees
+*   Jeans
+*   Shorts
+*   Tanks
+*   Shirts
+*   Shoes
+*   Show All Men's New
+
+*   Kid's New
+
+*   Girl's New Tops
+*   Girl's New Jeans
+*   Show All Girl's New
+*   Boy's New Tops
+*   Boy's New Jeans
+*   Show All Boy's New
+
+Buy a Buckle Gift card
+
+*   Women's Sale
+
+*   Tees
+*   Jeans
+*   Shorts
+*   Crops/Capris
+*   Shirts/Blouses
+*   Shoes
+*   Show All Women's Sale
+
+*   Men's Sale
+
+*   Tees
+*   Jeans
+*   Shorts
+*   Boardshorts
+*   Shirts
+*   Shoes
+*   Show All Men's Sale
+
+*   Kid's Sale
+
+*   Girl's Sale Tops
+*   Girl's Sale Jeans
+*   Show All Girl's Sale
+*   Boy's Sale Tops
+*   Boy's Sale Jeans
+*   Show All Boy's Sale
+
+Buy a Buckle Gift card Buckle.com just got a makeover. Tell us what you think. Send Feedback.  
+Need help? Contact Guest Services at 1.800.607.9788 or email guest.services@buckle.com. Privacy &. Security
 
 **Privacy &. Security Policy**  
 The Buckle, Inc. ("Buckle") cares about the privacy of our Guests. Our goal is to provide the best shopping experience possible for our Guests, and we strive to achieve that goal through our Internet shopping experience. Buckle.com collects client information to enhance your shopping experience.
 
 **General Browsing**  
-Buckle.com gathers navigational information about where our visitors go on our web site and information about the technical efficiencies of our web site and services (i.e. time to connect to our web site, time to download pages). This information allows us to see which areas of Buckle.com are most visited and helps us to better understand our Guests' experience at Buckle.com. This helps us to improve the quality of our visitors' online shopping experiences by recognizing and delivering more of the features, services and products our visitors prefer. In the process of gathering navigational information, non-personally identifiable information (i.e. domain type, browser version, service provider and IP address) may be collected which will provide information regarding a visitor's use of our web site (such as the time of a visitor's last visit to a page on our web site).
+Buckle.com gathers navigational information about where our visitors go on our web site and information about the technical efficiencies of our web site and services (i.e. time to connect to our web site, time to download pages). This information allows us to see which areas of Buckle.com are most visited and helps us to better understand our Guests' experience at Buckle.com. This helps us to improve the quality of our visitors' online shopping experiences by recognizing and delivering more of the features, services and products our visitors prefer. In the process of gathering navigational information, certain information (i.e. domain type, browser version, service provider and IP address) may be collected which will provide information regarding a visitor's use of our web site (such as the time of a visitor's last visit to a page on our web site).
 
 If you cancel an order or do not complete an order, we may collect and use any email address or other information that you have entered as we would collect and use it if you had completed an order. For example, if you shop Buckle.com and leave the site without completing your order, we may follow up through email with a reminder.
 
 **Collection, Use and Disclosure of Personal Information**  
-We collect information from you, which you provide to us at this web site, including but not limited to when you establish or update an account, enter a sweepstakes, participate in a survey, shop online or create or send a wish list. Categories of information collected include name, address, email address, recipient's email address, telephone number, credit card information and messages you create. This information is used to enable Buckle.com to deliver products that you have ordered, to fulfill requests that you have created, to contact you or the recipient(s) in the event of order or delivery difficulties, for verification, to respond to your inquiries and to deliver services and information about our products or web site to you. We use third parties to help us provide services related to payments, site activity, surveys, database maintenance, email administration, recruiting, and sweepstakes.
+We collect information from you, which you provide to us at this web site, including but not limited to when you establish or update an account, enter a sweepstakes, participate in a survey, shop online or create or send a wish list. Categories of information collected include name, address, email address, recipient's email address, telephone number, credit card information and messages you create. This information is used to enable Buckle.com to deliver products that you have ordered, to fulfill requests that you have created, to contact you or the recipient(s) in the event of order or delivery difficulties, for verification, to respond to your inquiries and to deliver services and information about our products or web site to you.
 
-If you opt into our email list the information you provide (for example, name, email address, country, gender, and age certification) will be added to a database. The Buckle, Inc. may use that information for our own internal marketing purposes. We may request information from you about your fashion tastes, your hobbies or your music interests. This information will be collected from you directly and openly. Using the information you give us, we may contact you with information or special offers. We will not require you to disclose more information than is reasonably necessary to participate in an activity as a condition of participation. **The Buckle, Inc. does not sell the personal information of any of our guests.**
+If you opt into our email list the information you provide (for example, name, email address, country, gender, and age certification) will be added to a database. Buckle, may use that information for our own internal marketing purposes. We may request information from you about your fashion tastes, your hobbies or your music interests. This information will be collected from you directly and openly. Using the information you give us, we may contact you with information or special offers. We will not require you to disclose more information than is reasonably necessary to participate in an activity as a condition of participation. Buckle, does not sell, rent or lease the personal information of any of our guests, but we do reserve the right to share your information withthird parties to perform services on our behalf. We use third parties to help provide services related to payments, site activity, surveys, database maintenance, email administration, recruiting, sweepstakes and marketing.
 
 Buckle.com continually strives to maintain compliance with legal regulations. If we become aware of or have a good faith belief that we must disclose information about you in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity, we will disclose specific information about you to the appropriate legal authorities in order to protect the users of our Web site, the site, and/or the public.
 
@@ -154,9 +285,7 @@ Buckle.com uses a browser feature known as a cookie, which is placed on your com
 
 We also use a technology known as clear gifs, which are typically stored in emails, to help us confirm your receipt of, and response to, our emails and to provide you with a more personalized experience. If you register or purchase product through Buckle.com, we may associate navigational information from your previous browsing visits with the personal information you provide.
 
-In addition, we carefully select third party advertising companies and allow them to collect non-personally identifiable information by placing cookies when you choose to visit Buckle.com. This information is used to report marketing program effectiveness directly back to Buckle. This information is used in aggregate form and is not in any way personally identifiable. We have carefully selected Coremetrics and Google Analytics, both of which assist us in better understanding your use of our site. These third party companies analyze the information they collect on our behalf and return it back to Buckle.com through a secure web connection. The information and analysis will be used to assist us in better understanding your interests in our web site and how to better serve those interests and provide you with more personalized product offerings. Each company is contractually prohibited from using our data for any other purposes or matching it against any other information in its possession.
-
-Coremetrics will place cookies on your computer to collect information on our behalf that will educate us on such things as search engine referral, how you navigate around our site, responses to email, unique visitor identification, and product browsing and purchasing information. Buckle.com does not allow Coremetrics to collect credit card, username or password information. Coremetrics is required to maintain all information collected and its analysis in confidence. For more information, including how to opt-out, consult Coremetrics' privacy policy by clicking the following link: Coremetrics - Privacy Policy.
+In addition, we carefully select third party advertising companies and allow them to collect certain information (i.e domain type, browser version, service provider and IP address)by placing cookies when you choose to visit Buckle.com. This information is used to report marketing program effectiveness directly back to Buckle. We have carefully selected Google Analytics, which assists us in better understanding your use of our site. This third party company analyzes the information it collects on our behalf and returns it back to Buckle.com through a secure web connection. The information and analysis will be used to assist us in better understanding your interests in our web site and how to better serve those interests and provide you with more personalized product offerings. Google Analytics is contractually prohibited from using our data for any other purposes.
 
 For more information about Google Analytics, the data it collects and how that service processes your information, please visit "How Google Uses Data When You Use Our Partners' Sites or Apps" at Google - Privacy Policy. For more information, including how to opt-out, consult Google's privacy policy by clicking the following link: Google Privacy.
 
@@ -172,7 +301,7 @@ Joining Buckle.com's email list allows you to receive exclusive information abou
 Buckle.com will never ask you through email to provide personal information including credit card numbers, passwords, mother's maiden name, bank account numbers, ATM pass codes or social security numbers. The best way to protect yourself from phishing scams is for you to avoid supplying personal information to any email request. If you believe the request might be legitimate, please call the company's customer service department to verify this before providing any information, but do not use phone numbers contained in the email (if any are included).
 
 **International Customer Privacy**  
-To fill international orders, Buckle.com partners with Borderfree, Inc. ("Borderfree"). Borderfree agrees not to sell, transfer or otherwise use your information other than for processing international shipments. Borderfree will collect your personal information during checkout and will provide this information to Buckle in connection with Borderfree performing its obligations under our partnership agreement. Borderfree may also provide your personal information to certain service providers, including but not limited to delivery agents, customs brokers and fraud management parties, but will always limit the information provided to be that which is reasonably sufficient for those service providers to carry out their responsibilities. As of the effective date of this policy, Borderfree complies with the U.S. - EU Safe Harbor Privacy Principles and the U.S. Swiss Safe Harbor Framework established by the U.S. Department of Commerce. For more information about Borderfree, the data it collects and how they process your information, please visit Borderfree's privacy policy by clicking the following link: Borderfree - Privacy Policy .
+To fill international orders, Buckle.com partners with Borderfree, Inc. ("Borderfree"). Borderfree agrees not to sell, transfer or otherwise use your information other than for processing international shipments. Borderfree will collect your personal information during checkout and will provide this information to Buckle in connection with Borderfree performing its obligations under our agreement. Borderfree may also provide your personal information to certain service providers, including but not limited to delivery agents, customs brokers and fraud management parties, but will always limit the information provided to be that which is reasonably sufficient for those service providers to carry out their responsibilities. As of the effective date of this policy, Borderfree complies with the U.S. - EU Safe Harbor Privacy Principles and the U.S. Swiss Safe Harbor Framework established by the U.S. Department of Commerce. For more information about Borderfree, the data it collects and how they process your information, please visit Borderfree's privacy policy by clicking the following link: Borderfree - Privacy Policy .
 
   
 Applicability of Privacy &. Security Policy  
@@ -183,7 +312,7 @@ If you have questions or concerns with respect to our Privacy &. Security Policy
 The Buckle, Inc.  
 Attention: Privacy Manager  
 P.O. Box 1480  
-Kearney, NE 68848-1480
+Kearney, NE 68848-1480  
 
 Should there be a material change in the categories of information collected at Buckle.com or a material change in how we use information collected at Buckle.com (whether a deletion or addition), for a thirty day period after the change we will note deletions with a strike-out and additions in italic type. Further, for this same period we will note \[Revised\] at the end of the revised sentence or sentences and update the effective date at the bottom of the Privacy &. Security Policy. If you are concerned about how your personal information is used, please visit our site often for this and other important announcements about Buckle.com.
 
@@ -192,78 +321,171 @@ We have made every effort to ensure that the information transmitted to us onlin
 
 While we implement the above security measures on this site, you should be aware that 100% security is not always possible.
 
-**This Privacy &. Security Policy supersedes all prior policies and is effective January 1, 2015.**
-
-Contact Us
-
-Corporate Guest Services:  
-Phone: 800-607-9788  
-Mon-Fri: 8 am - 9 pm CT  
-Sat: 9 am - 9 pm CT  
-Sun: 12 pm - 6 pm CT  
-  
-Email: guest.services@buckle.com  
-Fax: 308-236-4493
-
-Buckle Credit Card Questions?  
-Comenity Bank  
-Phone: 888-427-7786  
-TDD/TYY: 800-695-1788  
-
-Corporate Office:  
-The Buckle, Inc.  
-2407 W. 24th Street  
-Kearney, NE 68845  
-Phone: 800-626-1255
-
-The Buckle Inc.
-
-About Buckle
-
-Jobs &. Careers
-
-Investors
-
-Guest Services
+**This Privacy &. Security Policy supersedes all prior policies and is effective June 30, 2016.**
 
 FAQs
 
-Military Discount
+Your Account
 
-Contact Us
+*   Email Updates
+*   Maintain Your Wish List
 
-Share Store Comments
+Shipping/Handling
 
-Where to Find Us
+*   Shipping Rates/Options
+*   International Orders
 
-Store Locator
+Returns
 
-International Orders
+*   Return Policy
+*   Easy Returns
 
-Orders
+Promotions
 
-Track Your Order
+*   Spring Break Away Official Rules
+*   Social Giveaway Official Rules
+*   Store Events
+*   Sweepstakes Winners
+*   Military Discount
 
-Shipping Rates
+Our Merchandise
 
-Easy Returns
-
-Return Policy
+*   Availability
+*   Pricing Policy
+*   Alterations
+*   Layaway
 
 Buckle Credit Card
 
-Benefits
+*   Buckle Credit Card
+*   Buckle Card Payment Options
 
-Apply
+Buckle Guest Loyalty
 
-Online Bill Pay
+*   Buckle Guest Loyalty Program
+*   Buckle Guest Loyalty Terms &. Conditions
+*   Primo Card
 
-Gift Cards Always Fit
+Privacy &. Security
 
-Buy Now   |   Check Balance
+*   Privacy Policy
+*   Terms &. Conditions
+*   Fraud Alerts
+*   Privacy Policy - Applicants
+*   Safe Shopping
+*   Image Use Agreement
 
-Stay in Touch Exclusive Email Updates
+Buckle Information
 
-© 2016 The Buckle Inc.
+*   Team Highlights
+*   Ratings &. Reviews
+*   Personal Shopping
+*   buckle SELECT
+*   Store Locator
+*   Investor Information
+*   Buckle Outlet Stores
+*   Buckle Coupons
+*   Corporate Profile
+*   Buckle Affiliate Network
+*   Music/Celebrity Sponsorship Requests
 
-Privacy Policy | Transparency In Supply Chains | Site Index
+Gift Cards/Services
+
+*   Gift Services
+*   Gift Card Donation Requests
+
+Contact Us Guest Services:
+
+Phone: 800.607.9788  
+Mon-Fri 8am - 9pm CT  
+Sat 9am - 9pm CT  
+Sun 12pm - 6pm CT  
+Email: guest.services@buckle.com  
+Fax: 308.236.4493
+
+Buckle Credit Card Questions?
+
+Comenity Bank  
+Phone: 888.427.7786  
+TDD/TYY: 800.695.1788
+
+Corporate Office:
+
+The Buckle, Inc.  
+2407 W. 24th Street  
+Kearney, NE 68845  
+Phone: 800.626.1255
+
+Receive The Latest From Buckle GIFT CARD
+
+*   Buy Now
+*   Check Balance
+
+CREDIT CARD
+
+*   Online Bill Pay
+*   Apply
+*   Benefits
+
+COMPANY
+
+*   About Us
+*   Buckle Blog
+*   Store Locator
+*   Jobs &. Careers
+*   Investors
+
+ORDERS
+
+*   Track Your Order
+*   Shipping Rates
+*   Easy Returns
+*   Return Policy
+
+GUEST SERVICES
+
+*   FAQs
+*   Military Discount
+*   Contact Us
+*   Store Feedback
+
+GIFT CARD
+
+*   Buy Now
+*   Check Balance
+
+CREDIT CARD
+
+*   Online Bill Pay
+*   Apply
+*   Benefits
+
+COMPANY
+
+*   About Us
+*   Buckle Blog
+*   Store Locator
+*   Jobs &. Careers
+*   Investors
+
+ORDERS
+
+*   Track Your Order
+*   Shipping Rates
+*   Easy Returns
+*   Return Policy
+
+GUEST SERVICES
+
+*   FAQs
+*   Military Discount
+*   Contact Us
+*   Store Feedback
+
+STAY CONNECTED
+
+1.  © 2016 Buckle Inc.
+2.  Privacy Policy
+3.  Transparency In Supply Chains
+
+×
