@@ -82,6 +82,10 @@ Loading... Login Let's Connect See What We Do
     
     For the FIA Global Alert Hub
     
+*   Success You Can Measure
+    
+    The essential way to gauge campaigns
+    
 *   Building Consumer Profiles
     
     6 things every marketer should know
@@ -89,10 +93,6 @@ Loading... Login Let's Connect See What We Do
 *   Ads They'll Actually Like
     
     A marketer's ad-delivery checklist  
-    
-*   Click Measurement
-    
-    Why display clicks shouldn't matter
     
 
 NEW GUIDE
