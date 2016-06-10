@@ -14,7 +14,7 @@ The TRUSTe program covers information collected through these Web sites (www.adv
 
 The uses of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged Advanace Auto Parts. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal.
 
-If you have questions or concerns regarding this privacy policy or our practices, please contact us at 1-877-ADVANCE or webcare@advanceautoparts.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request. 
+If you have questions or concerns regarding this privacy policy or our practices, please contact us at 1-877-ADVANCE. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request. 
 
 **Personal Information We Collect**  
 As part of your interaction with Advance Auto Parts, we may collect personal information such as name, email address, billing address, mailing address, phone number, and credit card information.
@@ -77,10 +77,10 @@ If you choose to use our referral service to tell a friend about our Sites, we w
 **Opting out of Communication**  
 If you would like to opt-out of communication from Advance Auto Parts, we will ask you to select from several different options.  Please note: order confirmation communications, Speed Perks Reward and Reminder communications are considered transactional messages.  Further, you may choose to maintain promotional messages from different programs or channels. 
 
-If you prefer to opt out of any of the marketing messages above, you may email Customer Care at webcare@advanceautoparts.com, through www.speedperks.com communication preferences or by contacting us by telephone or postal mail by clicking the Contact Us link at the bottom of this page.
+If you prefer to opt out of any of the marketing messages above, you may contact Customer Care through www.speedperks.com communication preferences by telephone, or postal mail by clicking the Contact Us link at the bottom of this page.
 
 **Updating/Accessing/Amending/Correcting Personally Identifiable Information**  
-If your personally identifiable information changes, or if you no longer desire our service, you may update or delete it by making the change on our member information page, your Speed Perks profile page or by emailing Customer Care at webcare@advanceautoparts.com or by contacting us by telephone or postal mail by clicking the Contact Us link at the bottom of this page. We will respond to your request to access within a reasonable timeframe.
+If your personally identifiable information changes, or if you no longer desire our service, you may update or delete it by making the change on our member information page, your Speed Perks profile page, or by contacting us by telephone or postal mail by clicking the Contact Us link at the bottom of this page. We will respond to your request to access within a reasonable timeframe.
 
 **Customer Testimonials/Comments/Reviews**  
 We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information such as our customer’s name. We obtain our customer’s consent prior to posting. If you wish to update or delete your testimonial, you can contact us at support@advance-auto.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
@@ -117,7 +117,7 @@ We will respond to reasonable requests within 10 days, but please note that some
 **Your California Privacy Rights**  
 This Privacy Policy describes how we share information for marketing purposes. Pursuant to Section 1798.83 of the California Civil Code, Advance Auto Parts provides its California customers the ability to exercise “opt out” rights as follows:
 
-You may exercise your “opt out” rights, at no charge, by calling us at 1-877-ADVANCE (238-2623), or by sending us an email at webcare@advanceautoparts.com.
+You may exercise your “opt out” rights, at no charge, by calling us at 1-877-ADVANCE (238-2623).
 
 **Third Party Links**  
 Within our Site you may find links to websites of our partners, vendors, or advertisers. It is important to note that Advance Auto Parts does not endorse or make any statement to the security of the websites that we provide links to. These websites have independent security policies, privacy policies, technology and security practices that govern them. We do not have control over their content or their security and do not accept liability of any form for the manner in which they protect and/or handle your information. We recommend that all consumers comprehensively review the privacy policy of each website that they visit to help keep them informed on how their personal information is treated and used.
@@ -143,7 +143,7 @@ Third Parties, with whom we partner to provide certain features on our site or t
 Various browsers may offer their own management tools for removing HTML5 LSOs.
 
 **Product Reviews and Question &. Answer Areas**  
-If you use a Product Review or Question &. Answer area on this Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these areas, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these areas. To request removal of your personal information from this area, contact us at webcare@advanceautoparts.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+If you use a Product Review or Question &. Answer area on this Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these areas, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these areas. To request removal of your personal information from this area contact us. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 **Email Privacy**  
 Email is not a secure means of communication under most circumstances. Never provide sensitive personal information (i.e. Social Security number, driver's license number, or third party credit card information) to us via email. Use the appropriate secured websites to communicate this information or contact our Call Center.
@@ -157,7 +157,7 @@ We use an optional chat feature to assist you with using the website. We do not 
 In the event Advance Auto Parts goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our Site for 30 days of any such change in ownership or control of your personal information.
 
 **Data Retention**  
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at webcare@advanceautoparts.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **California Online Privacy Protection Act Compliance**  
 Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
@@ -194,5 +194,4 @@ Advance Auto Parts, Inc.
 5008 Airport Road  
 Roanoke, VA 24012
 
-1-877-ADVANCE (238-2623)  
-webcare@advanceautoparts.com
+1-877-ADVANCE (238-2623)
