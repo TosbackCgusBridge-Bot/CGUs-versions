@@ -147,7 +147,7 @@ Google Plus
 
 Flipboard
 
-Flickr
+Youtube
 
 GET TEXT UPDATES\* Spam Control Text:   Please leave this field empty GET UPDATES Please provide a valid phone number
 
