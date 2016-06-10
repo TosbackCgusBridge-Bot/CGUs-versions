@@ -1,6 +1,6 @@
 Terms of Use and Sale
 
-Updated January 2014
+Updated June 2016
 
   
 
@@ -26,7 +26,7 @@ Terms Relating to Your Use of the Microsoft Store
     
 2.  NOTICE SPECIFIC TO DOCUMENTS AVAILABLE ON THE WEBSITE OR SERVICES
     
-    Permission to use Documents (such as white papers, press releases, datasheets and FAQs) from the Microsoft Store and Services is granted, provided that (1) the following copyright notice: "© 2014 Microsoft Corporation. All rights reserved." appears in all copies and that both the copyright notice and this permission notice appear, (2) use of such Documents from the Microsoft Store or Services is for informational and non-commercial or personal use only and will not be copied or posted on any network computer or broadcast in any media, unless permitted by exemptions under applicable copyright laws, and (3) no modifications of any Documents are made. Accredited educational institutions, such as primary and secondary institutions, universities, private/public colleges, and community colleges, may download and reproduce the Documents for distribution in the classroom. Distribution outside the classroom requires Microsoft’s express written permission. Use for any other purpose is expressly prohibited by law, and may result in severe civil and criminal penalties. Violators will be prosecuted to the maximum extent possible.
+    Permission to use Documents (such as white papers, press releases, datasheets and FAQs) from the Microsoft Store and Services is granted, provided that (1) the following copyright notice: "© 2016 Microsoft Corporation. All rights reserved." appears in all copies and that both the copyright notice and this permission notice appear, (2) use of such Documents from the Microsoft Store or Services is for informational and non-commercial or personal use only and will not be copied or posted on any network computer or broadcast in any media, unless permitted by exemptions under applicable copyright laws, and (3) no modifications of any Documents are made. Accredited educational institutions, such as primary and secondary institutions, universities, private/public colleges, and community colleges, may download and reproduce the Documents for distribution in the classroom. Distribution outside the classroom requires Microsoft’s express written permission. Use for any other purpose is expressly prohibited by law, and may result in severe civil and criminal penalties. Violators will be prosecuted to the maximum extent possible.
     
     Documents specified above do not include the design or layout of the Microsoft.com website, the Website or any other Microsoft owned, operated, licensed or controlled website. Elements of Microsoft websites, including the Website, are protected by trade dress, trademark, unfair competition, and other laws and may not be copied or imitated in whole or in part. No logo, graphic, sound or image from any Microsoft website, including the Website, may be copied, retransmitted or made available unless expressly permitted by Microsoft or applicable law.
     
@@ -103,7 +103,7 @@ Terms Relating to the Sale of Products to You
     
     Electronic software download (“ESD”) products are delivered to you by making a download link available in your Microsoft account (formerly known as “Windows Live ID”) associated with your product purchase. Subject to the paragraph below, we usually store the download link and related digital key in your Microsoft account for 3 years following the purchase date, but do not promise to store them for any particular length of time. For ESD subscription products, different terms and storage rights may apply, which you will be able to review and agree to at the time of your subscription.
     
-    You agree that we may cancel or modify our digital key storage program at any time. You also agree that we may stop supporting the storage of keys for one or more products at any time and for any reasons, including, by way of example, at the end of the product support life cycle, after which you will no longer have access to the download link or digital key. If we cancel or modify our program such that you will no longer have access to the download link or digital key(s) in your account, we will provide at least 90 days advance notice to you using the contact information for the related Microsoft account.
+    You agree that we may cancel or modify our digital key storage program at any time. You also agree that we may stop supporting the storage of keys for one or more products at any time and for any reasons, including, by way of example, at the end of the product support life cycle, after which you will no longer have access to the download link or digital key. If we cancel or modify our program such that you will no longer have access to the download link or digital key(s) in your account, we will provide at least 90 days’ advance notice to you using the contact information for the related Microsoft account.
     
     OTHER TERMS AND CONDITIONS
     
@@ -117,7 +117,17 @@ Terms Relating to the Sale of Products to You
     
     The Microsoft Store does not have a price match guarantee. We will not match the advertised price other retailers offer for the same items.
     
-    We may offer you the opportunity to pre-order a product from our Website before it is available for purchase. If you do, we may place a hold on your credit or debit card at the time of pre-order but will not charge your card until the product is available for download or we ship it. If the advertised price of the product decreases between the date you pre-ordered and the date the product is available for download or shipping, we will charge you the lower price. You may cancel your pre-order before the product is shipped or available for download by calling our customer support number located on our Sales and Support page. Once your pre-order is shipped or available for download, our normal return policies apply. We will indicate on the Website if different pre-order terms apply to a specific product.
+    We may offer you the opportunity to pre-order a product from our Website before it is available for purchase.
+    
+      
+    
+    Terms Applicable to Pre-Orders of Non-Custom Products: We may place a hold on your credit or debit card at the time of pre-order but will not charge your card until the product is available for download or we ship it. If the advertised price of the product decreases between the date you pre-ordered and the date the product is available for download or shipping, we will charge you the lower price. You may cancel your pre-order before the product is shipped or available for download by calling our customer support number located on our Sales and Support page. Once your pre-order is shipped or available for download, our return policies apply. We will indicate on the Website if different pre-order terms apply to a specific product.
+    
+      
+    
+    Terms Applicable to Custom Products: Your payment method will be charged when your order is ready. Because we make custom products to your specifications, your order, once placed, cannot be cancelled or modified. Your products cannot be returned for a refund or credit unless they are defective, have a material or workmanship flaw, or as required under applicable law.
+    
+      
     
     Prices shown on the Website exclude all taxes or charges (“Taxes”) that may apply to your purchase. Prices shown on the Website also exclude delivery costs. Taxes and delivery costs will be added to the amount of your purchase and shown on the check-out page. You will have an opportunity to review the taxes and delivery costs before you confirm your purchase. Each item in your Shopping Cart is shown at the current price.
     
@@ -129,39 +139,34 @@ Terms Relating to the Sale of Products to You
     
 10.  RETURN POLICY
     
-    Microsoft Store’s return policy is in addition to any statutory return rights you may have under law. Microsoft Store will accept returns for items that meet the return criteria set forth below for 30 days from the date of purchase or download, as applicable. Exceptions are stated below. We may deny any return or exchange if it fails to meet our return criteria. Business customers may be subject to different return criteria. When you purchase a service or ESD product from us, you agree that we may begin to provide the service or ESD product immediately. For additional information on the return process and the status of a return please visit our Returns page.
+    Microsoft Store’s return policy is in addition to any statutory return rights you may have under law. Microsoft Store will accept returns for items that meet the return criteria set forth below for 30 days from the date of purchase or download, as applicable. THESE RETURN CRITERIA CONDITION ANY RIGHT OF RETURN DESCRIBED IN THIS POLICY OR ELSEWHERE WITHIN THE MICROSOFT STORE, OTHER THAN THOSE REQUIRED UNDER LAW. We may deny any return or exchange if it fails to meet our return criteria. Business customers may be subject to different return criteria. When you purchase a service or ESD product from us, you agree that we may begin to provide the service or ESD product immediately. For additional information on the return process and the status of a return please visit our Returns page.
     
-    RETURN CRITERIA:
+    RETURN CRITERIA AND EXCEPTIONS:
     
+    *   We will NOT accept the following items for return: (i) items that have been personalized or customized (unless it is defective or has a material or workmanship flaw): (ii) special order items, if not part of a Microsoft Store promotional retail sales offering (iii) items that have been used, altered or that show wear or damage. (iv) gift cards and Skype cards. (v) services. and (vi) random access memory (“RAM”) products, and (vii) clearance items or those marked with a designation such as “Final Sale” or “Non-Returnable”. Returnable items must be in a condition that permits us to resell them.
+        
     *   To qualify, all returns and exchanges must be accompanied by the original receipt or gift receipt, the original documentation, instruction manuals, registration, parts and components (including cables, controllers, and accessories) and the original manufacturer packaging. Failure to include such items may prevent or delay your refund or exchange. Refunds will be made in the same method as payment unless you select to exchange the item or get a Microsoft Store credit in the amount of the refund. When you make a qualifying return, we will credit the full amount, less the original shipping and handling charges, if any, and you will receive your refund in approximately 2-3 weeks.
         
     *   For ESD products, we may require you to sign an electronic letter of destruction.
-        
-    *   We may occasionally extend the 30-day return period during holiday or other periods. If a longer return period was advertised on the Website when you made your purchase, that longer period applies.
-        
-    
-    EXCEPTIONS:
-    
-    *   Microsoft Store will not accept the following items for return: (i) items that have been personalized or customized: (ii) special order items, if not part of a Microsoft Store promotional retail sales offering (iii) items that have been used, altered or that show wear or damage. (iv) gift cards and Skype cards. and (v) services. Items must be in a condition that permits us to resell them.
         
     *   For services, the service must not have been delivered or consumed by you.
         
     *   For software and games, you may only return opened items during the return period if: (i) you don’t agree with the license agreement, or (ii) the media does not work, and (iii) only if you do not make or retain any copies. Opened software and games may only be exchanged for the same product. If we no longer have the same product, we will issue you a Microsoft Store credit.
         
-    *   ALL SALES ARE FINAL for random access memory (“RAM”) products and clearance items or those marked with a designation such as “Final Sale” or “Non-Returnable.”
-        
     *   For product key cards ("PKC") purchased with computers, they can be returned within the return period as a standalone item provided it has not been opened, altered, or damaged. If you return the computer that you purchased together with the Product Key Card, the Product Key Card must also be returned.
         
     *   For phones sold by Microsoft Store, you can return them during our return period, but it is your responsibility to cancel your service within the time specified by your carrier or your carrier may charge you an early termination fee. This is a carrier policy and we have no influence over their cancellation policies.
+        
+    *   We may occasionally extend the 30-day return period during holiday or other periods. If a longer return period was advertised on the Website when you made your purchase, that longer period applies.
         
     
     ADDITIONAL CONDITIONS:
     
     *   **Online returns only.**
         
-        Items ordered from the Website can be returned to or exchanged at Microsoft Retail Stores, but items purchased at Microsoft Retail Stores cannot be returned or exchanged at the Website.
+        Returnable items ordered from the Website can be returned to or exchanged at Microsoft Retail Stores, but items purchased at Microsoft Retail Stores cannot be returned or exchanged at the Website.
         
-    *   **Pre-Orders.** For pre-order items, the 30-day return period begins:
+    *   **Pre-Orders.** For returnable pre-order items, the 30-day return period begins:
         
         *   For ESDs, when the downloadable product is delivered electronically to your account and made available for download.
         *   For other products, when the product is shipped.
@@ -279,7 +284,7 @@ Terms Relating to Both Your Use of the Microsoft Store and Sales to You
 
 Copyright and trademark notices
 
-All contents of the Website and Service are Copyright © 2014 Microsoft Corporation and/or its suppliers, One Microsoft Way, Redmond, WA 98052, USA. All rights reserved. We or our suppliers own the title, copyright, and other intellectual property rights in the Website, Service and content. Microsoft and the names, logos, and icons of all Microsoft products and services may be either trademarks or registered trademarks of Microsoft in the United States, Canada and/or other countries.
+All contents of the Website and Service are Copyright © 2016 Microsoft Corporation and/or its suppliers, One Microsoft Way, Redmond, WA 98052, USA. All rights reserved. We or our suppliers own the title, copyright, and other intellectual property rights in the Website, Service and content. Microsoft and the names, logos, and icons of all Microsoft products and services may be either trademarks or registered trademarks of Microsoft in the United States, Canada and/or other countries.
 
 A list of Microsoft trademarks can be found at:  
 https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/en-us.aspx. The names of actual companies and products may be the trademarks of their respective owners. Any rights not expressly granted in this Contract are reserved.
