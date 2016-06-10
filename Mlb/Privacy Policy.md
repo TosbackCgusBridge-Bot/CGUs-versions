@@ -1,4 +1,4 @@
-To learn about our efforts to improve the accessibility and usability of our website, please visit our Accessibility Information page. Skip to section navigation or Skip to main content Below is an advertisement. 日本語 Español
+To learn about our efforts to improve the accessibility and usability of our website, please visit our Accessibility Information page. Skip to section navigation or Skip to main content Below is an advertisement. 한국어 日本語 Español
 
 Sections Scores News Video Stats Standings Schedule Players Vote Tickets Apps Shop MLB.TV Fantasy Auction Teams
 
@@ -72,6 +72,7 @@ Sections Scores News Video Stats Standings Schedule Players Vote Tickets Apps Sh
     *   GlossaryQuicken Loans Sortable Stats
 *   Standings Standings Standings
     *   2016 Regular Season Standings
+    *   2016 Wild Card Standings
     *   Spring Training Standings
     *   2015 Regular Season Standings
 *   Schedule Schedule Schedule
