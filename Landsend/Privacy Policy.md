@@ -12,10 +12,12 @@
 
 *   Lands' End
 *   Canvas by Lands' End
+*   Lands' End Sport
 *   Lands' End School
 
 *   Lands' End
 *   Canvas by Lands' End
+*   Lands' End Sport
 *   Lands' End School
 
 *   My Account
@@ -33,6 +35,7 @@
 
 *   Women
     
+    *   Lands' End
     *   Lands' End
     *   Lands' End
     
@@ -77,6 +80,7 @@
     
     *   Lands' End
     *   Lands' End
+    *   Lands' End
     
     CATEGORIES
     
@@ -107,16 +111,15 @@
     *   Shirts of Summer
     *   Swim Shop 2016
     *   Tailored Fit Shop
-    *   Big &. Tall Shop
     *   Sale
     
     SHOP BY SIZE RANGE
     *   Regular
     *   Tall
-    *   Big
     *   Big &. Tall
 *   Kids
     
+    *   Lands' End
     *   Lands' End
     *   Lands' End
     
@@ -177,6 +180,7 @@
     
     *   Lands' End
     *   Lands' End
+    *   Lands' End
     
     SHOP SWIM
     
@@ -195,6 +199,7 @@
     
     *   Lands' End
     *   Lands' End
+    *   Lands' End
     
     SHOP SHOES
     
@@ -211,6 +216,7 @@
     *   Sale
 *   Home
     
+    *   Lands' End
     *   Lands' End
     *   Lands' End
     
@@ -238,6 +244,7 @@
     *   Sale
 *   School
     
+    *   Lands' End
     *   Lands' End
     *   Lands' End
     
@@ -289,6 +296,7 @@
     
     *   Lands' End
     *   Lands' End
+    *   Lands' End
     
     SALE
     
@@ -311,6 +319,7 @@
 
 *   Lands' End
 *   Canvas by Lands' End
+*   Lands' End Sport
 *   Lands' End School
 
 *   My Account
@@ -324,6 +333,7 @@
 
 *   Women
     
+    *   Lands' End
     *   Lands' End
     *   Lands' End
     *   Lands' End School
@@ -369,6 +379,7 @@
     
     *   Lands' End
     *   Lands' End
+    *   Lands' End
     *   Lands' End School
     
     Back | Men CATEGORIES Back | CATEGORIES
@@ -400,16 +411,15 @@
     *   Shirts of Summer
     *   Swim Shop 2016
     *   Tailored Fit Shop
-    *   Big &. Tall Shop
     *   Sale
     
     SHOP BY SIZE RANGE Back | Men
     *   Regular
     *   Tall
-    *   Big
     *   Big &. Tall
 *   Kids
     
+    *   Lands' End
     *   Lands' End
     *   Lands' End
     *   Lands' End School
@@ -471,6 +481,7 @@
     
     *   Lands' End
     *   Lands' End
+    *   Lands' End
     *   Lands' End School
     
     Back | Swim SHOP SWIM Back | SHOP SWIM
@@ -490,6 +501,7 @@
     
     *   Lands' End
     *   Lands' End
+    *   Lands' End
     *   Lands' End School
     
     Back | Shoes SHOP SHOES Back | SHOP SHOES
@@ -507,6 +519,7 @@
     *   Sale
 *   Home
     
+    *   Lands' End
     *   Lands' End
     *   Lands' End
     *   Lands' End School
@@ -535,6 +548,7 @@
     *   Sale
 *   School
     
+    *   Lands' End
     *   Lands' End
     *   Lands' End
     *   Lands' End School
@@ -585,6 +599,7 @@
     *   Adult
 *   Sale
     
+    *   Lands' End
     *   Lands' End
     *   Lands' End
     *   Lands' End School
@@ -801,6 +816,7 @@ Our Brands
 
 *   Lands' End
 *   Canvas by Lands' End
+*   Lands' End Sport
 *   Business Outfitters
 *   International Sites
 
