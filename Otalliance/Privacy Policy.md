@@ -94,10 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Jun 7, 2016 IRCE 2016
-
-Internet Retailer Conference &. Exhibition (IRCE) provides you with a conference full of industry experts and unrivaled agenda content, an exhibit hall filled with the latest and greatest solution providers, and a community made for networking with thousands of like-minded industry peers. IRCE 2016 will take place in the world-class city of Chicago, June 7-10, at McCormick Place West.
-
 Wed, Jun 8, 2016 TRUSTe Privacy Risk Summit 2016
 
 The 2016 Privacy Risk Summit will bring together leading privacy practitioners, lawyers, regulators, and academics to address the top privacy risks and share proven strategies for success. The Summit builds on the success of the EU Data Protection Conference and IoT Privacy Summits to offer an expanded program with three parallel conference tracks focusing on the risks rising from technological and regulatory change and privacy risk management best practices.  OTA members may register for only $149, a savings of 50%. 
@@ -109,6 +105,10 @@ Scott Brinker is the force behind the popular blog ChiefMartec.com, and has been
 Tue, Jun 14, 2016 2016 Online Trust Audit &. Awards
 
 Join leaders in public policy, security and privacy as we review the results from the 2016 Honor Roll and recognize organizations who have demonstrated a commitment to security, responsibly privacy practices and a commitment to consumer safety.  Now in our 8th year the Online Trust Audit is a comprehensive audit of over 50 data points accessing a sites security, privacy and consumer protection practices.  Briefing will recognize leaders in each key sectors, comparing and contrasting trends between the public and private sectors.
+
+Tue, Jun 14, 2016 OTA Member Only Meeting &. Briefing
+
+Join OTA members for a private off-the record executitive briefing with leaders in the public and private sector.  Briefing is under NDA and limted to paid member organizations.
 
 More >>.
 
