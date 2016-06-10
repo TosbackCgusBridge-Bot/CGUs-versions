@@ -102,7 +102,7 @@ Für Zwecke der Werbung, der Marktforschung oder zur bedarfsgerechten Gestaltung
 Sie können die Erfassung Ihrer Daten durch die Maxymiser Technologie sowie die Verarbeitung dieser Daten durch uns verhindern, indem Sie das entsprechende Cookie mit dem unter dem folgenden Link verfügbare Opt-Out deaktivieren: http://www.maxymiser.de/cookie\_optout.htm.  
   
 **Nutzungsbasierte Online-Werbung:**  
-Wir arbeiten mit Werbepartnern zusammen, die webseitenübergreifend Nutzungsprofile unter einem Pseudonym anlegen. Für die Datenerhebung zur Auslieferung von nutzungsbasierter Online-Werbung sind folgende Unternehmen im Auftrag der Telekom zuständig: Google, Yieldr (auch über BidSwitch, Improve Digital, Rubicon, Smart AdServer und AppNexus), Adform und Xplosion (auch über AppNexus und Adnologies) und emetriq. Nutzungsbasierte Online-Werbung wird von selbigen Auftragnehmern ausgeliefert.  
+Wir arbeiten mit Werbepartnern zusammen, die webseitenübergreifend Nutzungsprofile unter einem Pseudonym anlegen. Für die Datenerhebung zur Auslieferung von nutzungsbasierter Online-Werbung sind folgende Unternehmen im Auftrag der Telekom zuständig: Google, Yieldr (auch über BidSwitch, Improve Digital, Rubicon, Smart AdServer und AppNexus), Adform und Xplosion (auch über AppNexus und Adnologies) emetriq und Usemax/Emego. Nutzungsbasierte Online-Werbung wird von selbigen Auftragnehmern ausgeliefert.  
 Wenn Sie keine nutzungsbasierten Werbeeinblendungen mehr erhalten möchten, können Sie die Datenerhebung unter den folgenden Links deaktivieren:  
   
 Google: http://www.google.com/settings/ads/onweb/  
@@ -111,6 +111,7 @@ http://info.evidon.de/more\_info/12701?ecaid\[12701\]=camp\_id%3A1930
 Adform: http://site.adform.com/privacy-policy\_de/  
 Xplosion (sowie AppNexus und Adnologies): http://www.xplosion.de/so-funktionierts/opt-out.html  
 emetriq: http://www.emetriq.com/opt-out  
+Usemax/Emego: http://www.usemax.de/index.php?l=rm&kunde=Telekom&id=27553  
   
 Auf der Webseite www.meine-cookies.org oder www.youronlinechoices.com können Sie weitere Informationen zu Cookies und den einzelnen Anbietern nachlesen. Sie haben dort auch die Möglichkeit, der nutzungsbasierten Online-Werbung durch einzelne oder durch alle Unternehmen zu widersprechen (http://www.youronlinechoices.com/de/praferenzmanagement/).  
 Wir haben uns freiwillig der Selbstregulierung des Deutschen Datenschutzrat Online-Werbung (DDOW) unterworfen. Informationen zu diesem Thema finden Sie hier unter: http://www.t-online.de/nutzungsbasierte-online-werbung/id\_56770518/index  
