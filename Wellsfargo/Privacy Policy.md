@@ -113,7 +113,6 @@ Popular Links
 *   Get Insurance Quotes
 *   Small Business Insurance
 *   Commercial Insurance
-*   Health Savings Accounts (HSA)
 
   
 Investing and Retirement Ways to Invest
@@ -128,7 +127,6 @@ Investing Solutions
 *   IRAs
 *   Investment Services
 *   Rollovers (401k and IRA)
-*   Health Savings Accounts (HSA)
 *   Investing for Education
 
 Your Financial Goals
