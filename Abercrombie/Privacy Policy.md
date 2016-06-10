@@ -1,7 +1,7 @@
 ABERCROMBIE &. FITCH US  
 PRIVACY POLICY
 
-Updated: May 2016
+Updated: June 2016
 
 AD COOKIE POLICY How Third Parties Serve You Our Advertisements On Other Websites and Your Choices
 
@@ -191,7 +191,7 @@ To request to have your account cancelled send an email to Privacy\_Policy@Aberc
   
   Privacy of Children
 
-Our Websites are not directed toward children under the age of thirteen (13) years. Furthermore, we do not knowingly collect any personal data from children under the age of thirteen (13) years. The children's products that we offer for sale on our Websites are intended for purchase by adults only. No one under the age of thirteen (13) years should provide any personal data on our Websites and/or at our stores. In the past, our affiliated company, abercrombie kids, collected personal data from children under the age of thirteen (13) years with the consent of the children's parents or guardians. Any such personal data collected by abercrombie kids has been deleted, and abercrombie kids no longer possesses any personal data in regards to children.
+Our Websites are not directed toward children under the age of thirteen (13) years. Furthermore, we do not knowingly collect any personal data from children under the age of thirteen (13) years. The children's products that we offer for sale on our Websites are intended for purchase by adults only. No one under the age of thirteen (13) years should provide any personal data on our Websites and/or at our stores.
 
   
   Links
