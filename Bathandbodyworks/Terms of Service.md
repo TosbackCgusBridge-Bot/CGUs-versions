@@ -14,37 +14,28 @@ Terms &. Conditions
 4.  **Content**  
       
     BBWD does not endorse, support, sanction, encourage, verify, or agree with the comments, opinions, or statements posted on forums, blogs or through User Communications contained on this Site (collectively, "Content"). Any Content placed online, including advice, opinions and stories, are the views and responsibility of those who post the Content and do not necessarily represent the views of BBWD.
-5.  **Products and Specifications**  
-      
-    All features, content, specifications, products and prices of products and services described or depicted on this Site, are subject to change at any time without notice. Certain weights, measures and similar descriptions are approximate and are provided for convenience purposes only. BBWD makes all reasonable efforts to accurately display the attributes of its products, including the applicable colors. however, the actual color you see will depend on your computer system, and we cannot guarantee that your computer will accurately display such colors. The inclusion of any products or services on this Site at a particular time does not imply or warrant that these products or services will be available at any time. All DVDs, CDs and similar products sold are for private, home use (where no admission fee is charged), non-public performance and may not be duplicated.
-6.  **Shipping**  
-      
-    When an order is placed, it will be shipping to an address designated by the purchaser as long as that shipping address is compliant with the shipping restrictions contained on this Site. All purchases from this Site are made pursuant to a shipment contract. As a result, it may be necessary for you to file claims with carriers for damaged and/or lost shipments.
-7.  **Linking to this Site**  
+5.  **Linking to this Site**  
       
     Creating or maintaining any link from another web Site to any page on this Site without our prior written permission is prohibited. Running or displaying this Site or any information or material displayed on this Site in frames or through similar means on another web site without our prior written permission is prohibited. Any permitted links to this Site must comply with all applicable laws.
-8.  **Special Notice**  
+6.  **Special Notice**  
       
     BBWD and its affiliates have a no-tolerance policy regarding the use of our trademarks or names in metatags and/or hidden text. Specifically, the use of our trademarks or names in metatag keywords is trademark infringement, and the use of trademarks or names in page text, metatags, and/or hidden text for purposes of gaining higher rankings from search engines is unfair competition. Linking to any page on this Site is prohibited absent express written permission from BBWD. Framing, inline linking or other association of this Site or its or its suppliers software or HTML code, scripts, text, artwork, photographs, images, video, and audio with links, advertisements and/or other information not originating from the BathandBodyWorks.com Web site is expressly prohibited.
-9.  **Third Party Links**  
+7.  **Third Party Links**  
       
-    Periodically, links may be established from this Site to one or more external web sites or resources operated by third parties (the "Third Party Sites"). These links are provided for your convenience only. In addition, certain Third Party Sites also may, with our written permission, provide links to this Site. None of these links should be deemed to imply that BBWD endorses the Third Party Sites or any content therein. BBWD does not control and therefore would not be responsible for any Third Party Sites or any content, advertising, products, or other materials on or available from such Third Party Sites. Access to any Third Party Sites is at your own risk.
-10.  **Patents**  
+    Periodically, links may be established from this Site to one or more external web sites or resources operated by third parties (the "Third Party Sites"). These links are provided for your convenience only. In addition, certain Third Party Sites also may, with our written permission, provide links to this Site. None of these links should be deemed to imply that BBWD endorses the Third Party Sites or any content therein.
+8.  **Patents**  
       
     One or more patents may apply to this Website, including without limitation: U.S. Patent Nos. 5,528,490. 5,761,649. and 6,029,142.
-11.  **Your Account**  
+9.  **Your Account**  
       
     You may choose to create an Account at our Site. If you do, you will have an email address and password for your account. To protect your Account, you should choose a username and password different than names, birthdays, or street addresses associated with you. You are responsible for maintaining the confidentiality of your Account and password and for restricting access to your computer.
-12.  **DISCLAIMER**  
-      
-    ACCESS TO THE SITE IS PROVIDED TO OUR CUSTOMERS AND PROSPECTIVE CUSTOMERS "AS IS" AND "AS AVAILABLE" AND WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, THOSE OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NONINFRINGEMENT. SOME JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OF IMPLIED WARRANTIES. IN SUCH JURISDICTIONS, THE FOREGOING DISCLAIMER MAY NOT APPLY TO YOU. BBWD RESERVES THE RIGHT TO BLOCK OR DENY ACCESS TO THE SITE TO ANYONE AT ANY TIME FOR ANY REASON.
-13.  **Revisions to these Terms and Conditions**  
+10.  **Revisions to these Terms and Conditions**  
       
     These Terms and Conditions may be revised at any time and from time to time by updating this posting. You should visit this page from time to time to review the then current Terms and Conditions because they are binding on you. Certain provisions of these Terms and Conditions may be superseded by legal notices or terms located on particular pages of this Site. Your continued use of this Site after any changes to these terms and conditions are posted will be considered acceptance of those changes.
-14.  **Choice of Law. Jurisdiction**  
+11.  **Jurisdiction**  
       
-    These Terms and Conditions supersede any other agreement between you and BBWD to the extent necessary to resolve any inconsistency or ambiguity between them. Any action seeking legal or equitable relief arising out of or relating to this Site will be brought only in the courts of the State of Ohio or the United States District Court for the Southern District of Ohio. A printed version of these Terms and Conditions will be admissible in judicial and administrative proceedings based upon or relating to these Terms and Conditions to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
-15.  **Termination**  
+    These Terms and Conditions supersede any other agreement between you and BBWD to the extent necessary to resolve any inconsistency or ambiguity between them. ANY ACTION SEEKING LEGAL OR EQUITABLE RELIEF ARISING OUT OF OR RELATING TO THIS SITE WILL BE BROUGHT ONLY IN THE COURTS OF THE STATE OF OHIO OR THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF OHIO. A printed version of these Terms and Conditions will be admissible in judicial and administrative proceedings based upon or relating to these Terms and Conditions to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
+12.  **Termination**  
       
     You or we may suspend or terminate your account or your use of this Site at any time, for any reason or for no reason. We reserve the right to change, suspend, or discontinue all or any aspect of this Site at any time without notice.
 
