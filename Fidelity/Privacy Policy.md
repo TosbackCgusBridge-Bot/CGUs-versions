@@ -283,18 +283,19 @@ View the Fidelity Investments and the Fidelity Funds Privacy Notice (PDF).
 *   Bonds
 *   CDs
 *   Options
-
 *   Active Trader Pro
+
 *   Stocks
 *   Online Trading
 *   Annuities
 *   Life Insurance &. Long Term Care
+*   Small Business Retirement Plans
 
 *   IRAs
 *   Retirement Products
 *   Retirement Planning
-*   Small Business Retirement Plans
 *   529 Plans
+*   FINRA's BrokerCheck
 
 Stay Connected Locate an Investor Center by ZIP Code Please enter a valid ZIP code
 
