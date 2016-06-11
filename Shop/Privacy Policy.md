@@ -27,7 +27,7 @@ LENOVO Menu
         
         Hurry While supplies last!
         
-    *   Lenovo Preferred Card The Best Offers with Instant and Affordable Financing.
+    *   Gifts for Dads and Grads Celebrate them with the perfect PC and accessories.
         
 *   Support
     *   SALES Sales order help Let us help decide what system is right for you
