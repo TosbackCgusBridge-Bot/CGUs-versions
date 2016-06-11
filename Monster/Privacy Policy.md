@@ -55,6 +55,10 @@ We use cookies to help personalize and maximize your online experience on Monste
 
 For information on how to protect yourself online, visit the Security Center.
 
+Mobile Applications
+
+Monster offers several mobile applications, including the Monster app and the Jobr app. Monster collects and uses information about you as described in the full Monster privacy policy, including any sections specific to each app.
+
 Contact Information
 
 You may contact us online for questions or concerns about our privacy practices or the Safe Harbor program. You may also write to us at:
