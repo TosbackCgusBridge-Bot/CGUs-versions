@@ -87,7 +87,7 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   Iconic designer Jonathan Adler is joining our team!
     *   Learn more
     
-    *   Introducing Grow Parenting App  
+    *   Introducing Grow Childhood™ Development App  
         Learn more >.
     *   Learn more
     
