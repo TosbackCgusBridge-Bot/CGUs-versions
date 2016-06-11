@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Sanctua
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Celebrate the ocean during National Ocean Month AROUND NOAA // Near-average May closes out warm, wet spring for Lower 48 Just in time for hurricane season, NOAA gets a new global ocean satellite Video: Could you survive a rip current? See how
+Enter Search Terms Milky Way now hidden from a third of humanity The problem? Light pollution AROUND NOAA // Near-average May closes out warm, wet spring for Lower 48 Just in time for hurricane season, NOAA gets a new global ocean satellite Celebrate the ocean during National Ocean Month
 
 *   About our agency
 *   News and features
