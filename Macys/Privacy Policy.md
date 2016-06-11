@@ -1,4 +1,4 @@
-This Notice of Privacy Practices was updated on April 18, 2016.
+This Notice of Privacy Practices was updated on June 9, 2016.
 
 Hereâs a summary of what weâve updated:
 
@@ -136,7 +136,7 @@ Macyâs uses third-party advertising companies to serve interest-based adver
 For additional information on interest-based advertising and options for managing preferences, click here.
 
 Social Network &. New Tech Advertising Programs (ADV)  
-Macyâs has relationships with several social networks and new tech companies. These companies have specific Interest-Based Ads programs that match people that have shown interest in Macyâs through our website or other services with their profiles (such as on Facebook) and platforms (such as Google properties).  This matching allows us to deliver relevant, interest-based ads on those companiesâ networks.  
+Macyâs has relationships with several social networks and new tech companies. These companies have specific Interest-Based Ads programs that match people that have shown interest in Macyâs through our website or other services with their profiles (such as on Facebook) and platforms (such as Facebook and Google properties).  This matching allows us to deliver relevant, interest-based ads on those companiesâ networks.  
   
 For information about managing your preferences for these programs, click here.
 
@@ -257,9 +257,12 @@ Website &. Online Services Preferences
 
 Technology-Enabled Collection &. Use Preferences
 
-*   Mobile Marketing: To opt-out of mobile marketing for a specific mobile number, you may reply "STOP" to 62297 on your mobile phone/wireless device. You will receive a confirmation text that you have been opted out. For customers with a Macyâs online account, you may also opt-out via your profile.
+*   Mobile Marketing:
+*   *   To opt-out of Macyâs Marketing Messages (for example, âMacyâs Promo Alertsâ) mobile marketing for a specific mobile number, you may reply "STOP" to 62297 on your mobile phone/wireless device. You will receive a confirmation text that you have been opted out. For customers with a Macyâs online account, you may also opt-out via your profile.
+    *   To opt-out of Macyâs Backstage Marketing Messages (for example, âMacyâs Backstage Promo Alertsâ) for a specific mobile number, you may reply "STOP" to 66789 on your mobile phone/wireless device. You will receive a confirmation text that you have been opted out.  
+        .
 
-> Note on Opting-Out of Mobile Marketing: If you opt-out of mobile marketing using any means other than replying âSTOPâ to 62297, please allow 3-5 business days after contacting us to process your request. We do not share your mobile number with any third parties for marketing purposes.  
+> Note on Opting-Out of Mobile Marketing: If you opt-out of mobile marketing using any means other than replying âSTOPâ, please allow 3-5 business days after contacting us to process your request. We do not share your mobile number with any third parties for marketing purposes.  
 
 *   MyClient: Customers who have a one-to-one relationship with a Macyâs sales associate and no longer wish to receive SMS messages from that associate may contact the associate directly or text âSTOP,â âSTOPALL,â âUNSUBSCRIBE,â âCANCEL,â âEND,â or âQUITâ to that associate and opt-out of receiving those communications.
 
