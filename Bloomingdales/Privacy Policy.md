@@ -27,7 +27,7 @@
 
 CALL US ANY TIME:1.800.777.0000 We're available 24 hours, 7 days a week. What's New My bWallet In-Store Pickup Wish List Help Topics Credit Card Returns Order Status Loyallist   Shipping &. Delivery Stores My Account &. Profile Furniture &. Mattresses Products &. Pricing Wedding &. Gift Registry Gifts &. Gift Cards Customer Protection Center   International Contact Us Bloomingdale's and bloomingdales.com Notice of Privacy Practices
 
-This Notice of Privacy Practices was updated on April 26, 2016.
+This Notice of Privacy Practices was updated on June 9, 2016.
 
 Here’s a summary of what we’ve updated:
 
@@ -158,7 +158,7 @@ Bloomingdale’s uses third-party advertising companies to serve interest-based 
 For additional information on interest-based advertising and options for managing preferences, click here.    
   
 Social Network &. New Tech Advertising Programs (ADV)  
-Bloomingdale’s has relationships with several social networks and new tech companies. These companies have specific Interest-Based Ads programs that match people that have shown interest in Bloomingdale’s through our website or other services with their profiles (such as on Facebook) and platforms (such as Google properties). This matching allows us to deliver relevant, interest-based ads on those companies’ networks.  
+Bloomgindale’s has relationships with several social networks and new tech companies. These companies have specific Interest-Based Ads programs that match people that have shown interest in Macy’s through our website or other services with their profiles (such as on Facebook) and platforms (such as Facebook and Google properties).  This matching allows us to deliver relevant, interest-based ads on those companies’ networks.  
   
 To get information about managing your preferences for these programs, click here.    
   
@@ -237,9 +237,7 @@ Email Communications
 > Note: It may take up to 10 business days to process your request.
 
 *   Customer Survey Emails: We may separately send surveys, via e-mail, to our customers in order to collect opinions and feedback about their shopping experiences. To opt-out of receiving survey emails from Bloomingdale’s, you may use the unsubscribe link at the bottom of any survey email.
-    
 *   Specialized Email Programs: You may have signed up for one of our specialized email programs (e.g.  Registry Star Rewards). To opt-out of receiving emails from one of those specialized programs, you may use the unsubscribe link at the bottom of any of these emails.
-    
 *   b-connected: Customers who have a one-to-one relationship with a Bloomingdale’s sales associate and no longer wish to receive e-mails from that associate may contact the associate directly and opt-out of receiving those e-mails.  
       
     Note: Operational emails (e.g. shipping confirmation or product recall information) do not provide an opt-out option.
