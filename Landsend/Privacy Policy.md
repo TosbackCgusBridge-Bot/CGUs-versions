@@ -111,11 +111,13 @@
     *   Shirts of Summer
     *   Swim Shop 2016
     *   Tailored Fit Shop
+    *   Big &. Tall Shop
     *   Sale
     
     SHOP BY SIZE RANGE
     *   Regular
     *   Tall
+    *   Big
     *   Big &. Tall
 *   Kids
     
@@ -411,11 +413,13 @@
     *   Shirts of Summer
     *   Swim Shop 2016
     *   Tailored Fit Shop
+    *   Big &. Tall Shop
     *   Sale
     
     SHOP BY SIZE RANGE Back | Men
     *   Regular
     *   Tall
+    *   Big
     *   Big &. Tall
 *   Kids
     
