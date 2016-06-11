@@ -248,11 +248,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Orcas Altered Their Own Evolution**
+**Early Humans Mated With Inbred Neanderthals — at a Cost**
 
-**Mind-blowing Design Contest for Future National Memorials**
+**Jaw-dropping Moves From Rio-ready Trampoline Gymnasts**
 
-**Comic Books Are Thriving — in Print and Digital Forms**
+**As Light Pollution Grows, Much of Humanity Can't See the Milky Way**
 
 **See More Headlines »**
 
