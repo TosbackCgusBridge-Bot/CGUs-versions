@@ -10,11 +10,11 @@ Navigation
     *   FarmVille 2
     *   FarmVille 2 Country Escape
     *   FarmVille Harvest Swap
+    *   Free Slots
     *   Gems With Friends
     *   Hanging With Friends
     *   Hit It Rich!
     *   Looney Tunes Dash
-    *   Mafia Wars
     *   Matching With Friends
     *   Princess Bride Slots
     *   Speed Guess Something
