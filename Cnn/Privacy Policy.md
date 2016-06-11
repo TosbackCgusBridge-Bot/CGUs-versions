@@ -61,9 +61,9 @@ Travel
 *   Business Traveller
 *   Destinations
 *   Features
-*   Food and Drink
+*   Food/Drink
 *   Hotels
-*   CNN Partner Hotels
+*   Partner Hotels
 
 *   Fashion
 *   Design
@@ -187,9 +187,9 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
     2.  Business Traveller
     3.  Destinations
     4.  Features
-    5.  Food and Drink
+    5.  Food/Drink
     6.  Hotels
-    7.  CNN Partner Hotels
+    7.  Partner Hotels
 
 1.  1.  Fashion
     2.  Design
