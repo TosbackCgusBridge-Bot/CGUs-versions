@@ -111,13 +111,11 @@
     *   Shirts of Summer
     *   Swim Shop 2016
     *   Tailored Fit Shop
-    *   Big &. Tall Shop
     *   Sale
     
     SHOP BY SIZE RANGE
     *   Regular
     *   Tall
-    *   Big
     *   Big &. Tall
 *   Kids
     
@@ -164,6 +162,7 @@
     
     *   New Arrivals
     *   Swim Shop
+    *   Backpacks &. Lunch Boxes
     *   Red, White &. Blue
     *   School Uniforms
     *   Shoes &. Sandals
@@ -413,13 +412,11 @@
     *   Shirts of Summer
     *   Swim Shop 2016
     *   Tailored Fit Shop
-    *   Big &. Tall Shop
     *   Sale
     
     SHOP BY SIZE RANGE Back | Men
     *   Regular
     *   Tall
-    *   Big
     *   Big &. Tall
 *   Kids
     
@@ -467,6 +464,7 @@
     
     *   New Arrivals
     *   Swim Shop
+    *   Backpacks &. Lunch Boxes
     *   Red, White &. Blue
     *   School Uniforms
     *   Shoes &. Sandals
