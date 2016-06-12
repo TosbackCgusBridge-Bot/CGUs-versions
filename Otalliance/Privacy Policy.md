@@ -94,10 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Thu, Jun 9, 2016 Heavyweight Martech Debate
-
-Scott Brinker is the force behind the popular blog ChiefMartec.com, and has been chronicling the growth of marketing technology through his annual landscape super graphic. Mayur Gupta is widely recognized as one of the first-ever Chief Marketing Technologists. Together, they are two of the world’s most respected authorities on marketing technology and its impact on business. On June 9, they will join forces for the first time to debate a number of hot topics they consider crucial to the future of marketing.
-
 Tue, Jun 14, 2016 2016 Online Trust Audit &. Awards
 
 Join leaders in public policy, security and privacy as we review the results from the 2016 Honor Roll and recognize organizations who have demonstrated a commitment to security, responsibly privacy practices and a commitment to consumer safety.  Now in our 8th year the Online Trust Audit is a comprehensive audit of over 50 data points accessing a sites security, privacy and consumer protection practices.  Briefing will recognize leaders in each key sectors, comparing and contrasting trends between the public and private sectors.
@@ -109,6 +105,10 @@ Join OTA members for a private off-the record executitive briefing with leaders 
 Tue, Jun 28, 2016 Webinar: 2016 Audit and Honor Roll Highlights
 
 For the internet economy to continue to grow, users must trust that their personal information will be secure and their privacy protected. Join OTA for highlights from the 2016 Online Trust Audit to better understand top level trends in consumer protection, data security and privacy. Speakers will share key learnings and provide recommendations. Now in its 8th year, the Audit illustrates how best practices are good for your brand reputation and consumer trust, while better securing your data from abuse and your site from hacking.
+
+Mon, Jul 11, 2016 IoT Evolution Expo
+
+Through informative conference tracks, an IoT Exhibition floor, case studies, special events, networking and more, the IoT Evolution Expo is the ultimate venue for attendees to gain an understanding on how the Internet of Things (IoT) will be the driving force behind improving efficiencies, driving revenue opportunities and solving business problems across multiple industries and all business functional areas.Meet with the IoT ecosystem and worldwide business leaders and learn how to leverage the power of the IoT to transform and move your business forward.
 
 More >>.
 
