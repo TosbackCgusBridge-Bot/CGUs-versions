@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14902950630
+true true L14997102870
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Fri Jun 10 11:11:59 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Sat Jun 11 11:15:27 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,11 +49,7 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Super Saturday Sale In Store and Online Shop Super Saturday Sale View Store AdNight and Day Doorbusters
-
-Friday 3PM CDT through Saturday 1PM CDT
-
-Shop DoorbustersSpend $25 and get $10 Off\*
+Super Saturday Sale In Store and Online | Last Day! Shop Super Saturday Sale View Store AdSpend $25 and get $10 Off\*
 
 In Store and Online | Ends 6/19 | Code: BEST22
 
@@ -61,71 +57,27 @@ Get Coupon
 
 \*Exclusions apply
 
-DOORBUSTER 8.99 All Men's St. John's Bay and Arizona Polos
+Shop Women Shop Kids Shop Men Shop Curtains and Drapes Shop Bedding Shop Jewelry Shop Handbags Shop Shoes 9.99 All Men's St. John's Bay Solid Polos
 
-Select styles, reg. $26
+reg. $26
 
-Shop Men's Polos DOORBUSTER 4.99 Guys' Arizona Solid Tees
+Shop St. John's Bay Solid Polos Gifts For Dad Don't forget Dad! Father's Day is June 19. Shop Top Gifts Shop Gifts Under $25Gift Cards - $10 Off $10 Coupon In Store Only! | Ends June 19
 
-Select styles, reg. $12
+Spend $75 on Gift Cards and get a $10 off $10 Coupon. Redeemable 6/20/16-7/4/16 in store only. Some restrictions apply. See store for details.
 
-Shop Tees DOORBUSTER 60% Off Men's Suit Separates and Sport Coats
+Shop Gift CardsE-Gift Cards - $10 Off $10 Coupon Online Only! | Ends June 19
 
-Select styles, reg. $90-$275
+Spend $75 on E-Gift Cards and get a $10 off $10 Coupon. Redeemable 6/20/16-7/4/16 in store and online. Some restrictions apply.
 
-Shop Suit Separates and Sport Coats DOORBUSTER 50 to 55% Off Xersion Activewear
+Get Details 19.99 Men's Nike Graphic Tees
 
-Select styles, reg. $14-$30
+Select styles, reg. $25. Excluded from coupon.
 
-Shop Activewear DOORBUSTER 11.99 The Foundry Supply Co. Big and Tall Pique Polo
+Shop Men's Nike Graphic Tees44.99 Men's New Balance Shoes
 
-Select styles, orig. $30
+Select styles, available in wide width. MSRP $60-$70. Excluded from coupon.
 
-Shop Big and Tall Pique Polo DOORBUSTER 8.99 Guys' Arizona Polo
-
-Select styles, reg. $20
-
-Shop Guys' Polo DOORBUSTER 12.99 Men's St. John's Bay Flat-Front Shorts
-
-Select styles, orig. $40-$44
-
-Shop Shorts DOORBUSTER 19.99 St. John's Bay Sandals and Canvas Shoes
-
-Select styles, reg. $40-$50
-
-Shop Shoes DOORBUSTER 4.99 Juniors' Arizona Solid Tees or Camis
-
-Select styles, orig. $14
-
-Shop Juniors DOORBUSTER 50% Off Worthington, Liz Claiborne and Dresses
-
-Select styles including Plus, orig. $14-$86
-
-Shop Apparel DOORBUSTER 40 to 60% Off Swim For Her
-
-Select styles, orig. $28
-
-Shop Swim For Her DOORBUSTER 40 to 50% Off Adult Athletic Shoes
-
-Select styles, MSRP $60-$70, excluded from coupon
-
-Shop Athletic Shoes DOORBUSTER 14.99 Stylus, St. John's Bay and a.n.a Shorts
-
-Select styles, orig. $30
-
-Shop Shorts DOORBUSTER 14.99 JCPenney Home 300 Thread-Count Easy Care Solid or Print Twin Sheet Set
-
-Select styles, reg. $50
-
-Shop Sheet Sets DOORBUSTER 4.99 JCPenney Home Trellis or 30x54" Solid Bath Towel
-
-Select styles, reg. $12
-
-Shop Bath Towels DOORBUSTER 119.99 +Extra 10% Off\* Keurig K55 Brewer
-
-Select styles, reg. $175, \*See final price in cart
-
-Shop Keurig 30 to 50% Off Home Sale
+Men's New Balance Shoes 30 to 50% Off Home Sale
 
 Select styles
 
@@ -137,11 +89,11 @@ Shop Clearance Now SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop: Don't Forget Dad!
+Shop SportsFanShop: JCPenney | optical
 
-Father's Day is June 19.
+15% Off\* Contact Lenses
 
-Shop Gifts Dad's Day Giveaway Enter Dad's Name For A Chance To Win a $200 Shopping Certificate
+Order Now Dad's Day Giveaway Enter Dad's Name For A Chance To Win a $200 Shopping Certificate
 
 In Store | June 5-17
 
