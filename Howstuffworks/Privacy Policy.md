@@ -248,11 +248,11 @@ Print | Citation &. Date
 
 More to Explore NOW
 
-**Early Humans Mated With Inbred Neanderthals — at a Cost**
+**Watch the World's Highest Glass Bridge Get Sledgehammered**
 
-**Jaw-dropping Moves From Rio-ready Trampoline Gymnasts**
+**Hear and Now: A Cancer Vaccine, a Healthy Comic Book Industry and Less Light**
 
-**As Light Pollution Grows, Much of Humanity Can't See the Milky Way**
+**Diagnosing Chocolate's Quality with Ultrasound**
 
 **See More Headlines »**
 
