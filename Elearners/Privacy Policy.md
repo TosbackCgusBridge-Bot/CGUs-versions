@@ -16,7 +16,6 @@ Skip to main content
 *   Online Colleges
 *   Free Career Assessment
 *   Education Resources
-    *   online-education
 
 Help Section
 
