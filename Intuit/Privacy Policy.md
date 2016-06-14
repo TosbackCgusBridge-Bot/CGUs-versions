@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L14997102870
+true true C14912516182
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Sat Jun 11 11:15:27 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Mon Jun 13 11:15:38 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,55 +49,56 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Super Saturday Sale In Store and Online | Last Day! Shop Super Saturday Sale View Store AdSpend $25 and get $10 Off\*
+Father's Day Sale In Store and Online | Ends June 19 Shop Father's Day Sale View Store Ad Buy 1 Get 1 For .01
+
+Men's Dress Shirts or Ties\*
+
+Select styles, reg. $30-$60
+
+Shop Men's Dress Shirts and Ties   $5 Express Shipping
+
+Anywhere Over $99 | Order by 6/14 for Delivery by Father's Day.
+
+Get Details Spend $25 and get $10 Off\*
 
 In Store and Online | Ends 6/19 | Code: BEST22
 
-Get Coupon
+Get Coupon Nike Sale - Now through June 18 25% Off Nike For The Family Apparel and Shoes
 
-\*Exclusions apply
+Select styles, Nike excluded from coupon.
 
-Shop Women Shop Kids Shop Men Shop Curtains and Drapes Shop Bedding Shop Jewelry Shop Handbags Shop Shoes 9.99 All Men's St. John's Bay Solid Polos
+Shop Nike Apparel Shop Nike Shoes   9.99 All St. John's Bay Solid Polos
 
 reg. $26
 
-Shop St. John's Bay Solid Polos Gifts For Dad Don't forget Dad! Father's Day is June 19. Shop Top Gifts Shop Gifts Under $25Gift Cards - $10 Off $10 Coupon In Store Only! | Ends June 19
+Shop St. John's Bay Solid Polos Gifts For Dad Don't forget Dad! Father's Day is June 19. Shop Top Gifts Shop Gifts Under $25 Gift Cards - $10 Off $10 Coupon In Store Only! | Ends June 19
 
 Spend $75 on Gift Cards and get a $10 off $10 Coupon. Redeemable 6/20/16-7/4/16 in store only. Some restrictions apply. See store for details.
 
-Shop Gift CardsE-Gift Cards - $10 Off $10 Coupon Online Only! | Ends June 19
+Shop Gift Cards E-Gift Cards - $10 Off $10 Coupon Online Only! | Ends June 19
 
-Spend $75 on E-Gift Cards and get a $10 off $10 Coupon. Redeemable 6/20/16-7/4/16 in store and online. Some restrictions apply.
+Spend $75 on E-Gift Cards and get a $10 off $10 coupon. Redeemable 6/20/16-7/4/16 in store and online. Some restrictions apply.
 
-Get Details 19.99 Men's Nike Graphic Tees
-
-Select styles, reg. $25. Excluded from coupon.
-
-Shop Men's Nike Graphic Tees44.99 Men's New Balance Shoes
-
-Select styles, available in wide width. MSRP $60-$70. Excluded from coupon.
-
-Men's New Balance Shoes 30 to 50% Off Home Sale
+Get Details 30 to 50% Off Home Sale
 
 Select styles
 
-Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   New Markdowns! Clearance 50 to 70% Off
-
-In Store and Online
-
-Shop Clearance Now SportsFanShop
+Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop: JCPenney | optical
+Shop SportsFanShop: Dorm Life Shop All Dorm: JCPenney | portraits
 
-15% Off\* Contact Lenses
+ONE FREE 8x10 traditional sheet and  
+50% OFF your photo purchase
 
-Order Now Dad's Day Giveaway Enter Dad's Name For A Chance To Win a $200 Shopping Certificate
+Get Coupon: Dad's Day Giveaway Enter Dad's Name For A Chance To Win a $200 Shopping Certificate
 
-In Store | June 5-17
+In Store | Ends June 17
 
-Get Details: Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Get Details:
+
+\*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
