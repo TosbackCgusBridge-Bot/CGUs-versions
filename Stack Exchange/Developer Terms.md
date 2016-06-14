@@ -26,6 +26,6 @@ Stack Exchange may terminate or suspend any and all access to API Services immed
 
 about us work here blog legal privacy policy contact us feedback always welcome
 
-site design / logo © 2016 Stack Exchange, Inc. user contributions licensed under cc-wiki with attribution required
+site design / logo © 2016 Stack Exchange, Inc. user contributions licensed under cc by-sa 3.0 with attribution required
 
-2016.6.10.7565
+2016.6.13.7604
