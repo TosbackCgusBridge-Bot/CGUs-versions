@@ -3,7 +3,6 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
-    *   Factory Deals
     *   Meet Aly Raisman
     *   Red White &. Blue Crush
     *   Swim
@@ -49,7 +48,6 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
-    *   Factory Deals
     *   Meet DeAndre Yedlin
     *   Red White &. Blue Crush
     *   Headlining Now
