@@ -29,7 +29,7 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   Little People®
     *   Imaginext®
     *   Laugh &. Learn™
-    *   Power Wheels®
+    *   Think and Learn
     *   Thomas and Friends™
     *   See all >
     
