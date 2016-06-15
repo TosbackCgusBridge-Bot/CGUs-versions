@@ -41,7 +41,93 @@ SONY
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! It's Official: PlayStation VR Debuts on October 16
+Your browser does not support JavaScript! Best Perk Ever: Attending PlayStation's E3 Press Conference
+
+Check Out the E3 VIP Experience
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+A New God of War?!
+
+Only on PS4™
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Live Orchestra + New Games =
+
+An Epic Event
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+An Epic Event
+
+Have Your Own VIP Experience
+
+Join Sony Rewards
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Join Sony Rewards
+
+Sony on Twitter
+
+Best of E3 Sale is on &. you’ll earn 3X Sony Rewards points w/ a linked acct. Ends 6/21.
+
+2016-06-14 17:11:01+00:00
+
+View Tweet
+
+Everyone's Favorite Web Slinger Is Coming to PlayStation
+
+Learn About Spider-Man PS4™
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Learn About Spider-Man PS4™
+
+PlayStation VR's Debut Date, Exclusive Game Releases &. More
 
 See All of the E3 Announcements
 
@@ -54,6 +140,20 @@ Close
 *   Copy URL to share
 
 See All of the E3 Announcements
+
+A Smartphone Camera That's Faster and Smarter
+
+Switch to Xperia
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Switch to Xperia
 
 Sony on Instagram
 
