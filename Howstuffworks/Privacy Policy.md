@@ -24,6 +24,8 @@ Twitter
 
 Pinterest
 
+Like HowStuffWorks on Facebook!
+
 howstuffworks
 
 Toggle navigation
@@ -246,13 +248,13 @@ Last Updated On: 05/16/2016
 
 Print | Citation &. Date
 
-More to Explore NOW
+More to Explore Today's Headlines
 
-**Watch the World's Highest Glass Bridge Get Sledgehammered**
+**SYSK Investigates the Mystery of British Columbia's Disembodied Feet**
 
-**Hear and Now: A Cancer Vaccine, a Healthy Comic Book Industry and Less Light**
+**The Creator of the Beehive Hairdo Has Died**
 
-**Diagnosing Chocolate's Quality with Ultrasound**
+**I Used My Chronotype Info to Revamp My Life: Here's What Happened**
 
 **See More Headlines »**
 
@@ -272,13 +274,14 @@ More to Explore
 
 *   About
 *   Shows
-*   Store
 *   Privacy
+*   Ad Choices
 *   Terms
 
-*   Contact Us
-*   Jobs at HowStuffWorks
+*   Store
 *   Advertising
+*   Careers
+*   Contact Us
 *   Help
 
 HOWSTUFFWORKS  
@@ -297,5 +300,5 @@ Get the best of HowStuffWorks by email. Keep up to date on:
 
 Sign-up Now! Testing this long verbose error message to check the behaviour
 
-Copyright © 1998-2016 HowStuffWorks,  
+Copyright © 2016 HowStuffWorks,  
 a division of InfoSpace LLC
