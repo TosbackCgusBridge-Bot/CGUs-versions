@@ -1,4 +1,4 @@
-Last updated November 19, 2015 1. What This Privacy Notice Covers
+Last updated June 14, 2016 1. What This Privacy Notice Covers
 
 This notice covers how Weebly, Inc., a U.S. company ("Weebly," "we," "us," or "our") treats personal information that it collects and receives from its websites, website hosting services, communication tools, mobile applications, app marketplace, ecommerce tools, and other services (collectively, the “Service”).
 
@@ -65,7 +65,7 @@ IP addresses, browser and session information may be used to:
 *   Help determine which users have access privileges to certain content, services, or resources that we offer.
 *   Monitor and prevent fraud and abuse.
 
-Marketing Emails. When you sign-up for our Service, you may choose to agree to receive marketing communications from us. To the extent you have not already done so during sign-up, you may select not to receive from Weebly or any of our partners certain emails related to marketing, promotions, sweepstakes, contests, or newsletters by following the unsubscribe instructions included in these emails or by unsubscribing here.
+Marketing Emails / Weebly Phone Calls. When you sign-up for our Service, you may choose to agree to receive marketing communications from us. To the extent you have not already done so during sign-up, you may select not to receive from Weebly or any of our partners certain emails, or Weebly phone calls, related to marketing, promotions, sweepstakes, contests, or newsletters by following the unsubscribe instructions included in these emails or by unsubscribing here, or by requesting to be put on our do-not-call list when contacted by phone.
 
 User Site Membership/Registration. When you register, or are invited to register, as a member of a website operated by one of our Pro or Business account users, we store and use your information solely to provide administrative services in support of our member feature (such as account set-up and password reset). Please contact the site operator directly to have your registration information removed.
 
@@ -148,3 +148,5 @@ The TRUSTe program covers only information that is collected through this web si
 Change Log:
 
 **November 2015:** All Sections were updated to include section numbers. Introduced a defined term, “Service,” to cover all Weebly websites, services, applications, and tools and to make the notice easier to read. Global document changes to update disclosures on information collection, use, and sharing, the app marketplace, and Cookie-related information. Sections 2(d) and 3 were added to address analytics services and Do Not Track, respectively.
+
+**June 2016:** Updated marketing communication disclosures in Section 4.
