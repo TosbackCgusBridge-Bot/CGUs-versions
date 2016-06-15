@@ -62,7 +62,7 @@ Skip to main content
     *   Affiliate
     *   Join Us
 
-Loading... Login Let's Connect See What We Do
+Login Let's Connect See What We Do
 
 *   160+ MILLION Real People You Can  
     Message Right Now
@@ -103,12 +103,7 @@ Download Now INTELLIGENCE
 
 The 5 Keys to Connecting with Real People
 
-DOWNLOAD NOW View Case Study
-
-How we brought millions of personalized  
-messages to the right people.
-
-Read More Conversant Media
+DOWNLOAD NOW View Case Study View Case Study Conversant Media
 
 for marketing &. media professionals
 
