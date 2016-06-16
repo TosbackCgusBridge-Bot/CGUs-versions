@@ -144,21 +144,21 @@ webmaster@timeanddate.com timeanddate.com
 
 Index
 
-You might also like GMT or BST in the UK?
+You might also like UTC &. GMT â Same Difference?
 
-The UK is not on Greenwich Mean Time (GMT) all year. During Daylight Saving Time the correct time zone is British Summer Time (BST). more
+Greenwich Mean Time (GMT) is often interchanged or confused with Coordinated Universal Time (UTC). But GMT is a time zone and UTC is a time standard. more
 
-Standard Time is the Norm
+Add events and times to your own calendar with just 1 click
 
-Standard time is also known as winter time or normal time in some countries. more
+Add your results from some of timeanddate.com's services into your own calendar with just a click of one button. Services include the Time Zone Converter, Event Time Announcer, and Meeting Planner. more
 
 Time Zones and DST in Europe
 
 Europe is divided into 4 main time zones that span from UTC +0 hours in western European countries to UTC +3 hours in Belarus and parts of Russia. more
 
-How to Use the Business Date Calculator
+5 Fridays, Saturdays &. Sundays: Not 823 Years Apart
 
-The Business Date Calculator adds or subtracts any number of business days or non-working days from a date of your choice. Here's how to use it. more
+5 Fridays, 5 Saturdays, and 5 Sundays in the same month happens only every 823 years? This popular urban myth is precisely that: a myth. more
 
 Copyright © Time and Date AS 1995–2016. All rights reserved.
 
