@@ -1,4 +1,4 @@
-Explore Our Sites...      Family Education Network Home PARENTS      FamilyEducation TEACHERS      TeacherVision      Quiz Lab      MyGradeBook REFERENCE      Infoplease      Fact Monster KIDS      FEkids      FunBrain      Fact Monster  
+Fen.com - Privacy Statement Explore Our Sites...      Family Education Network Home PARENTS      FamilyEducation TEACHERS      TeacherVision      Quiz Lab      MyGradeBook REFERENCE      Infoplease      Fact Monster KIDS      FEkids      FunBrain      Fact Monster  
 Parents  
 Teachers  
 Kids  
