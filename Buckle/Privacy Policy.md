@@ -45,6 +45,7 @@ A Global Message! ×
 *   Tanks
 *   Shirts/Blouses
 *   Bandeaus/Bralettes
+*   Bodysuits
 *   Fashion
 *   Graphics
 *   Show All Tops
