@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L15006528497
+true true C14921136397
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p07.jcpenney.com SERVER NAME :->. dtcomexpr1l1j3 TIME :->. Tue Jun 14 11:07:18 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p19.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Wed Jun 15 11:15:34 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,17 +49,15 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Father's Day Sale In Store and Online | Ends June 19 Shop Father's Day Sale View Store Ad Buy 1 Get 1 For .01
+Father's Day Sale In Store and Online | Ends June 19 Shop Father's Day Sale View Store Ad$10 Bonus Reward
 
-Men's Dress Shirts or Ties\*
+When you spend $50 or more on men's apparel or accessories in store or online, June 15-19.
 
-Select styles, reg. $30-$60
+Get Details$10 Express Shipping
 
-Shop Men's Dress Shirts and Ties   $5 Express Shipping
+Anywhere Over $99 | Order by 12 Noon CDT on 6/16 for Delivery by Father's Day.
 
-Anywhere Over $99 | Order by 6/14 for Delivery by Father's Day.
-
-Get Details Spend $25 and get $10 Off\*
+Get DetailsSpend $25 and get $10 Off\*
 
 In Store and Online | Ends 6/19 | Code: BEST22
 
@@ -71,11 +69,11 @@ Shop Nike Apparel Shop Nike Shoes   9.99 All St. John's Bay Solid Polos
 
 reg. $26
 
-Shop St. John's Bay Solid Polos Gifts For Dad Don't forget Dad! Father's Day is June 19. Shop Top Gifts Shop Gifts Under $25 Gift Cards - $10 Off $10 Coupon In Store Only! | Ends June 19
+Shop St. John's Bay Solid Polos Gifts For Dad Don't forget Dad! Father's Day is June 19. Shop Top Gifts Shop Gifts Under $25Gift Cards - $10 Off $10 Coupon In Store Only! | Ends June 19
 
 Spend $75 on Gift Cards and get a $10 off $10 Coupon. Redeemable 6/20/16-7/4/16 in store only. Some restrictions apply. See store for details.
 
-Shop Gift Cards E-Gift Cards - $10 Off $10 Coupon Online Only! | Ends June 19
+Shop Gift CardsE-Gift Cards - $10 Off $10 Coupon Online Only! | Ends June 19
 
 Spend $75 on E-Gift Cards and get a $10 off $10 coupon. Redeemable 6/20/16-7/4/16 in store and online. Some restrictions apply.
 
@@ -83,22 +81,20 @@ Get Details 30 to 50% Off Home Sale
 
 Select styles
 
-Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   SportsFanShop
-
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
-
-Shop SportsFanShop: Dorm Life Shop All Dorm: JCPenney | portraits
+Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   Sephora Shop Men's Cologne JCPenney | portraits
 
 ONE FREE 8x10 traditional sheet and  
 50% OFF your photo purchase
 
-Get Coupon: Dad's Day Giveaway Enter Dad's Name For A Chance To Win a $200 Shopping Certificate
+Get Coupon: 50 to 70% Off Clearance
+
+In Store and Online
+
+Shop Clearance Now Dad's Day Giveaway Enter Dad's Name For A Chance To Win a $200 Shopping Certificate
 
 In Store | Ends June 17
 
 Get Details:
-
-\*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
