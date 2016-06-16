@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheries Sea Turtle Week 2016 - Reddit 'Ask Me Anything' with NOAA scientist Peter Dutton Oceans &. Coasts Video: Exploring the oceans is our 'last grand challenge' National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheries PODCAST: Putting the World in World Sea Turtle Day Fisheries Sea Turtle Week 2016 - Reddit 'Ask Me Anything' with NOAA scientist Peter Dutton National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheri
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Sea Turtle Week 2016: Uncover the secrets of these remarkable reptiles AROUND NOAA // Milky Way now hidden from a third of humanity Near-average May closes out warm, wet spring for Lower 48 Just in time for hurricane season, NOAA gets a new global ocean satellite
+Enter Search Terms Sea Turtle Week 2016: Uncover the secrets of these remarkable reptiles AROUND NOAA // South Pole is last place on Earth to pass global warming milestone Milky Way now hidden from a third of humanity Near-average May closes out warm, wet spring for Lower 48
 
 *   About our agency
 *   News and features
