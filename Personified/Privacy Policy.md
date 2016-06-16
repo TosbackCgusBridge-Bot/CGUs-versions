@@ -21,8 +21,6 @@ Post a Job Search Resumes Hello. Sign in to find your next hire. Sign In or Sign
     *   Sign in to Search Resumes
     *   About Resume Database
 *   Resources
-    *   Blog: The Hiring Site
-    *   Press Room
 
 *   More
     *   Sign In
@@ -88,7 +86,7 @@ Sorry, there was a problem with your email address. Please try again.
 
 Sign Up for the Latest Recruitment News, Tips and Advice Email Comments
 
-*   Help
+*   Contact Us
 *   About Us
 *   Terms &. Conditions
 *   Security &. Privacy
