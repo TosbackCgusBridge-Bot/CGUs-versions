@@ -73,12 +73,12 @@ Explore Games
     
     Hot Games
     
-    *   Klondike - the lost expedition
-    *   Golden Frontier
-    *   Easy Joe World app
-    *   Five Night's at Golden Freddy's
-    *   Park My Car
+    *   Let's Fish!
+    *   WeSpin
+    *   My Dolphin Show
     *   SuperSnake.io
+    *   Flick Color
+    *   Anime Legends 2
     
     Mobile Apps More
     
