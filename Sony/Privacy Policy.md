@@ -41,27 +41,9 @@ SONY
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! Best Perk Ever: Attending PlayStation's E3 Press Conference
+Your browser does not support JavaScript! Everyone's Favorite Web Slinger Is Coming to PlayStation
 
-Check Out the E3 VIP Experience
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-A New God of War?!
-
-Only on PS4™
+Learn About Spider-Man PS4™
 
 Close
 
@@ -71,11 +53,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Play Video
-
-Sony on YouTube
-
-Play Video
+Learn About Spider-Man PS4™
 
 Live Orchestra + New Games =
 
@@ -105,17 +83,9 @@ Close
 
 Join Sony Rewards
 
-Sony on Twitter
+Best Perk Ever: Attending PlayStation's E3 Press Conference
 
-Best of E3 Sale is on &. you’ll earn 3X Sony Rewards points w/ a linked acct. Ends 6/21.
-
-2016-06-14 17:11:01+00:00
-
-View Tweet
-
-Everyone's Favorite Web Slinger Is Coming to PlayStation
-
-Learn About Spider-Man PS4™
+Check Out the E3 VIP Experience
 
 Close
 
@@ -125,7 +95,37 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Learn About Spider-Man PS4™
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Sony on Twitter
+
+Best of E3 Sale is on &. you’ll earn 3X Sony Rewards points w/ a linked acct. Ends 6/21.
+
+2016-06-14 17:11:01+00:00
+
+View Tweet
+
+A New God of War?!
+
+Only on PS4™
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
 
 PlayStation VR's Debut Date, Exclusive Game Releases &. More
 
