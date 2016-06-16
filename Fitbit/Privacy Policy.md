@@ -6,10 +6,10 @@ Fitbit
         *   Fitbit One®
         *   Fitbit Flex®
         *   Fitbit Charge™
-        *   Fitbit Alta™ new
+        *   Fitbit Alta™ New
     *   **Active**
         *   Fitbit Charge HR™
-        *   Fitbit Blaze™ new
+        *   Fitbit Blaze™ New
     *   **Performance**
         *   Fitbit Surge™
     *   **Wi-Fi** Smart Scale
@@ -178,7 +178,7 @@ Get the skinny on all things Fitbit
 *   Careers
 *   Retailers
 *   Affiliates
-*   Corporate Wellness
+*   Fitbit Group Health
 *   API
 *   Help
 
