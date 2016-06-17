@@ -2,10 +2,6 @@
 
 Your location cannot be displayed.
 
-Please try your search again.
-
-Your location cannot be displayed.
-
 To connect with Subaru of Hawaii, please click here
 
 *   Your Location: Enter ZIP
@@ -88,15 +84,15 @@ Up to
 
 Legacy 3.6R Limited shown
 
-Forester $22,395 starting price 2016 Forester
+Forester $22,595 starting price 2017 Forester
 
 Starting at
 
-$22,395 MSRP
+$22,595 MSRP
 
 Up to
 
-32/24 MPG Hwy/City
+32/26 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
