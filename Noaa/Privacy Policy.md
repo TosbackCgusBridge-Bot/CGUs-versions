@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheri
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Sea Turtle Week 2016: Uncover the secrets of these remarkable reptiles AROUND NOAA // South Pole is last place on Earth to pass global warming milestone Milky Way now hidden from a third of humanity Near-average May closes out warm, wet spring for Lower 48
+Enter Search Terms Sea Turtle Week 2016: Uncover the secrets of these remarkable reptiles AROUND NOAA // Persistent heat across globe makes a baker’s dozen for the record books South Pole is last place on Earth to pass global warming milestone Milky Way now hidden from a third of humanity
 
 *   About our agency
 *   News and features
