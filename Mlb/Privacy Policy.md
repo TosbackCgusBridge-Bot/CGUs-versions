@@ -43,8 +43,9 @@ Sections Scores News Video Stats Standings Schedule Players Vote Tickets Apps Sh
     *   Podcasts
     *   Alternative Audio
     *   Most Popular
-    *   Baseball's Best Moments
+    *   No Man Left Behind
     *   FAQs
+    *   Baseball's Best Moments
     *   MLB Productions
     *   MLB.com Support Forum
     *   GetGreat.com
@@ -57,9 +58,9 @@ Sections Scores News Video Stats Standings Schedule Players Vote Tickets Apps Sh
     *   FastCast
     *   Field Experts
     *   Outstandings
-    *   Cut 4
+    *   Cut4
     *   Game Changers
-    *   AFL
+    *   Baseball's Best Moments
 *   Stats Stats Stats
     *   Regular Season Sortable Stats
     *   Regular Season League Leaders
