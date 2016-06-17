@@ -1,6 +1,8 @@
-Campaign ID: 277474 | Creative: bar1\_button\_inyt\_usd\_4L9UF -- 413757 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Bar1
+campaign: inyt2016\_Bar1\_digi\_Q2Blitz\_66XUL -- 283863, creative: inyt2016\_Bar1\_digi\_Q2Blitz\_66XUL -- 413925, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
 
-*   Subscribe Now
+*   1 of 10 articles read
+*   Subscribe Now Ready to dive in? Get 60% off for one year.  
+    SAVE NOW Limited time offer
 
 Subscribe*   Help
 
