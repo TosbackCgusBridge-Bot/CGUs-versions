@@ -6,6 +6,7 @@ Explore Games
     *   2 player
     *   Casino Games
     *   MMO &. Strategy
+    *   .io Games
 *   Action
     *   Arena Fighting
     *   Anime and Manga Games
@@ -99,6 +100,7 @@ Explore Games
     *   2 player
     *   Casino Games
     *   MMO &. Strategy
+    *   .io Games
     
     Browse By
     
