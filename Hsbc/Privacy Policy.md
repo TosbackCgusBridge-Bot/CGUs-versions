@@ -112,6 +112,8 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Making a difference HSBC’s USD150 million community fund is helping projects worldwide.
 *   Careers
     
+    *   Key hiring areas
+        
     *   Where we hire
         
     *   Why HSBC?
@@ -333,6 +335,7 @@ News and insight
 
 Careers
 
+*   Key hiring areas
 *   Where we hire
 *   Why HSBC?
 *   Explore our business
