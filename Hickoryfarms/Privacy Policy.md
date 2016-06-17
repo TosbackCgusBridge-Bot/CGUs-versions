@@ -6,8 +6,6 @@
 Your Cart (0) Search Catalog Search Catalog Navigation
 
 *   Gifts
-    *   Father's Day Gifts
-        *   Gifts for Dad
     *   Gift Boxes
     *   Gift Baskets and Towers
     *   Business Gifts
@@ -56,8 +54,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 Menu Search Stores Cart Gifts Sausage &. Cheese
 
 *   Gifts
-    *   Father's Day Gifts
-        *   Gifts for Dad
     *   Gift Boxes
     *   Gift Baskets and Towers
     *   Business Gifts
@@ -103,7 +99,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gifts Over $90
 *   Specials
 
-Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Order by 3PM EST Tomorrow with Overnight delivery for Father's Day.
+Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
 
 1.  Home
 2.  Customer Service
@@ -157,9 +153,9 @@ My Account
 
 Guarantees
 
-*   Security
-*   Substitution Policy
 *   100% Satisfaction
+*   Substitution Policy
+*   Security
 
 Privacy
 
