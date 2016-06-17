@@ -129,7 +129,6 @@ Products
 *   Farm Progress Library
 *   Farm Progress America, Broadcast
 *   Data Solutions
-*   Custom Publishing
 *   Digital Solutions
 *   Email Newsletter
 
