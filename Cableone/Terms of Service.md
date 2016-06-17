@@ -58,7 +58,7 @@ Cable ONE, Inc. may make changes to the information provided in this site, or to
 
 For immediate technical concerns or service issues **with Closed Captioning**, please call **(toll-free) 1-877-MY-CABLE (877-692-2253)**, fax 1-602-200-0516, or email us at: **NOC@cableone.biz**. Formal written complaints should be addressed to Emerson Yearwood, Assistant General Counsel -- Regulatory Affairs, Cable One, Inc. 210 East Earll Drive, Phoenix, AZ 85012. Telephone: 602.364.6000. Fax: 602.364.6013. emerson.yearwood@cableone.biz
 
-For Your Home For Your Business Customer Support Remote Connect Local Information All About Us  
+For Your Home For Your Business Customer Support Remote Connect Speed Test Local Information All About Us  
 Investor Relations Legal Notices Open Internet/Network Management Contact Us Great Careers Payment Center Site Map
 
 Copyright 2016, Cable ONE Inc., All Rights Reserved.
