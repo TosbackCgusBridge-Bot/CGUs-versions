@@ -19,8 +19,6 @@ Personal information collected by our site is used for transactional and/or prom
 
 We may share your name and address information with certain trusted resources unless you choose to be put on our do-not-share list. To be put on our do-not-share list, please contact our Customer Service department.
 
-We exchange our customer lists with other reputable companies whose products we think may be of interest to you. If you do not wish to receive mailings from other companies or if you currently receive unwanted or duplicated catalogs, please send your name and address as it appears on your mailing label to: The Vermont Country Store, P.O. Box 6998, Rutland, VT 05702-6998. email us at CustomerService@vermontcountrystore.com. or call us at 800-211-4741. We will never share your email address.
-
 Cookies and Tracking Pixels
 
 A Cookie is a small data file stored by your Web browser on your computer's hard drive. Cookies allow The Vermont Country Store website to keep track of your order information, such as items placed in your Shopping Bag. Cookies also allow us to provide customers with a more personalized experience.
@@ -37,7 +35,7 @@ Account Registration
 
 To make online shopping easier, you may register for an account on our website. Information provided by you, such as name and billing address, will be stored securely for future use. You may access and update this information at any time. By creating an account and sharing you billing or email address, you will be added to our customer mailing list, and may receive periodic mailings from us. You may opt out of these mailings at the time of account registration, or by contacting our Customer Service department.
 
-Children's Privacy
+Children’s Privacy
 
 Our Web site is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
 
