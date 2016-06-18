@@ -104,20 +104,19 @@ On occasion, we may use personal information for new, unanticipated uses not pre
 
 This policy became effective on 13 May 2013.
 
-Back to top
-
 *   Press
 *   Contact
 *   Careers
 *   The Globalist
 *   ASW Foundation
 
-*   Terms and Conditions
-*   Privacy Policy
-
 A Small World . Net
 
-Copyright © 2004 - 2016 Asmallworld AG × Login Login REMEMBER ME Forgot Login details? Login with Facebook × Forgot Username or Password?
+*   Copyright © 2004 - 2016 ASMALLWORLD AG
+*   Terms of Service
+*   Privacy
+
+× Login Login Remember me Forgot Login details? Login with **Facebook** × Forgot Username or Password?
 
 If you are registered with ASMALLWORLD, please enter your email address below and we will send you your login credentials.
 
