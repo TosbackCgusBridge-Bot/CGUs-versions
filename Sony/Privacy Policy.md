@@ -1,4 +1,4 @@
-Skip to Content CloseSony Sites About SONY SONY DESIGN Playstation® Sony Professional Sony Mobile
+Skip to Content CloseSony Sites Sony’s Stories SONY DESIGN Playstation® Sony Professional Sony Mobile
 
 *   Global HomePress releases and investor news at our global site.
 *   Sony and the EnvironmentHow we’re reducing our eco-footprint through energy efficiency and recycling initiatives.
@@ -41,7 +41,25 @@ SONY
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! We're All About That PlayStation Booth Life
+Your browser does not support JavaScript! See What It's Like to Skip the Line to Experience PlayStation VR
+
+Check Out the E3 VIP Experience
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+We're All About That PlayStation Booth Life
 
 Check Out the E3 VIP Experience
 
