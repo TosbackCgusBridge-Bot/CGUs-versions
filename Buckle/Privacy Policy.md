@@ -343,7 +343,6 @@ Returns
 
 Promotions
 
-*   Spring Break Away Official Rules
 *   Social Giveaway Official Rules
 *   Store Events
 *   Sweepstakes Winners
