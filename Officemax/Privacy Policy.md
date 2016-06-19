@@ -17,7 +17,7 @@ SEG1 hp
 
 Office Depot Deals
 
-Hg4mBIy3VRN9intqtBXalfH
+\_BbDGiI2NGzYS3b46vI8Nnx
 
 Search Suggestions
 
@@ -199,10 +199,8 @@ to your inbox
 *   Find a Store
 *   About Office Depot®
 *   Affiliate Program
-*   CA Supply Chain Disclosure
 *   Careers
 *   Compliance and Ethics
-*   Corporate Citizenship
 *   Diversity
 *   FAQs
 *   Government Programs
@@ -225,17 +223,17 @@ to your inbox
 *   Website Feedback
 
 *   SPECIAL PROGRAMS
-*   Give Back to Schools Program
+*   5% Back to Schools Program
 *   Environmental Programs
 *   Veterans Advantage
 
-MOBILE APPS         
+MOBILE APPS          
 
 *   Site Map
 *   Terms of Use
 *   Privacy Policy
-*   Office Depot Tracking Tools
 *   Office Depot Anywhere
+*   Office Depot Tracking Tools
 *   International
 *   Grand &. Toy Canada
 
