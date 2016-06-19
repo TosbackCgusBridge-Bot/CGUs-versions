@@ -115,6 +115,10 @@ More >>.
 *   OTA Blog
 *   Newsletters
 
+Mon, Jun 20, 2016 Driving Trust with the 2016 Online Trust Audit &. Honor Roll
+
+The 2016 Online Trust Audit and Honor Roll once again shines a light on trust in security, privacy and consumer protection practices. This year OTA documented a record level of achievement with 50% of audited companies clearing the Honor Roll hurdle – despite a higher bar of tougher and more comprehensive methodology.
+
 Wed, Mar 30, 2016 FCC Chairman Takes Position on Privacy &. Broadband Providers
 
 Earlier this month FCC Chairman Wheeler released a draft fact sheet and Notice of Proposed Rule Making (NPRM), identifying several key concerns regarding consumer privacy and the use of their data. In response, **OTA submitted written comments to the Commission**.  _Update on March 31 the FCC Commisioners voted 3 to 2 to move forward on the NPRM._
@@ -128,10 +132,6 @@ Recently Mozilla launched a call for volunteers to help lead a Take Back the Web
 Tue, Mar 15, 2016 IoT Trust Framework Released - Momentum Growing
 
 The Online Trust Alliance’s IoT Trust Framework is rapidly evolving to be the foundation of an international effort to integrate security, privacy and sustainability in IoT devices and services. Developed over the past twelve months, the Framework represents collective input from over 100 organizations who, through a multi-stakeholder process, established a baseline Framework of 30 essential criteria.
-
-Mon, Mar 7, 2016 RSA 2016 Recap
-
-2016 marked the second consecutive year where OTA was named as an industry sponsor for the RSA Conference.  OTA's participation included a range of member and press briefings and activities. Highlights included the RSA member meet-up and "**Blended Intelligence**" reception at the Contemporary Jewish Museum, organized by IID/Infoblox.  In partnership with OTA founding members IID, TRUSTe and ThreatWave, the reception was noted as one of the best RSA events to connect, network and collaborate. 
 
 More >>. Resources
 
