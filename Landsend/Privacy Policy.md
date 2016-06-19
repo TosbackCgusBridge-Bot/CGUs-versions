@@ -105,8 +105,8 @@
     FEATURED SHOPS
     
     *   New Arrivals
-    *   Father's Day Gifts
     *   No Iron Shop
+    *   Supima Shirts &. Sweaters
     *   Essentials for Summer Events
     *   Shirts of Summer
     *   Swim Shop 2016
@@ -163,7 +163,6 @@
     *   New Arrivals
     *   Swim Shop
     *   Backpacks &. Lunch Boxes
-    *   Red, White &. Blue
     *   School Uniforms
     *   Shoes &. Sandals
     *   Boys' Iron Knee
@@ -406,8 +405,8 @@
     FEATURED SHOPS Back | Men
     
     *   New Arrivals
-    *   Father's Day Gifts
     *   No Iron Shop
+    *   Supima Shirts &. Sweaters
     *   Essentials for Summer Events
     *   Shirts of Summer
     *   Swim Shop 2016
@@ -465,7 +464,6 @@
     *   New Arrivals
     *   Swim Shop
     *   Backpacks &. Lunch Boxes
-    *   Red, White &. Blue
     *   School Uniforms
     *   Shoes &. Sandals
     *   Boys' Iron Knee
