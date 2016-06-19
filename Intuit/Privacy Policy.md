@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14929752750
+true true L15022982397
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Fri Jun 17 11:15:06 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p08.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Sat Jun 18 11:15:31 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,91 +49,40 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Father's Day Sale In Store and Online | Ends June 19 Shop Father's Day Sale View Store AdNight and Day Doorbusters
+Father's Day Sale In Store and Online | Ends June 19 Shop Father's Day Sale View Store Ad$10 Bonus Reward
 
-All Day Friday through Saturday 1PM CDT
+When you spend $50 or more on men's apparel or accessories in store or online, June 15-19.
 
-Shop DoorbustersSpend $25 and get $10 Off\*
+Get DetailsSpend $25 and get $10 Off\*
 
 In Store and Online | Ends 6/19 | Code: BEST22
 
-Get Coupon
+Get Coupon Home Flash Sale Extra 30% Off\* $100 or More Or, Extra 25% Off\* Select Home Already 30 to 50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds and Shades
 
-\*Exclusions apply
+Today Online Only | Code: TOSAVE2
 
-DOORBUSTER 60 to 70% Off Men's St. John's Bay Polos and Shorts
+\*Exclusions and details Shop Now Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses Nike Sale - Now through June 18 25% Off Nike For The Family Apparel and Shoes
 
-Select styles, reg. $26-$44
+Select styles, Nike excluded from coupon.
 
-Shop Men's St. John's Bay DOORBUSTER 60% Off Men's Swim
+Shop Nike Apparel Shop Nike Shoes   9.99 All St. John's Bay Solid Polos
 
-Select styles, reg. $30-$40
+reg. $26
 
-Shop Men's Swim DOORBUSTER 60% Off Performance Golf Apparel
+Shop St. John's Bay Solid Polos Gifts For Dad Don't forget Dad! Father's Day is June 19. Shop Top Gifts Shop Gifts Under $25Gift Cards - $10 Off $10 Coupon In Store Only! | Ends June 19
 
-Select styles, reg. $45-$65
+Spend $75 on Gift Cards and get a $10 off $10 Coupon. Redeemable 6/20/16-7/4/16 in store only. Some restrictions apply. See store for details.
 
-Shop Golf Apparel DOORBUSTER 4.99 Guys' Arizona Solid Tee
+Shop Gift CardsE-Gift Cards - $10 Off $10 Coupon Online Only! | Ends June 19
 
-Select styles, reg. $12-$34
+Spend $75 on E-Gift Cards and get a $10 off $10 coupon. Redeemable 6/20/16-7/4/16 in store and online. Some restrictions apply.
 
-Shop Guys' Arizona DOORBUSTER 60% Off The Foundry Supply Co. Big and Tall Apparel
+Get Details Sephora Shop Men's Cologne JCPenney | portraits
 
-Select styles, reg. $30-$50
+ONE FREE 8x10 traditional sheet and  
+50% OFF your photo purchase
 
-Shop The Foundry Supply Co. DOORBUSTER 60% Off Suit Separates and Sport Coats
-
-Select styles, reg. $60-$275
-
-Shop Suit Separates and Sport Coats DOORBUSTER 5.99 St. John's Bay, Stylus and a.n.a Tanks for Her
-
-Select styles, orig. $12
-
-Shop Tanks for Her DOORBUSTER 15.99 Women's or Kids Sandals
-
-Select styles, reg. $35-$50
-
-Shop Women's Sandals Shop Kids Sandals DOORBUSTER 50 to 60% Off Juniors' Apparel
-
-Select styles, reg. $14-$60
-
-Shop Juniors' Apparel DOORBUSTER 50% Off Stylus, a.n.a and St. John's Bay for Her
-
-Select styles, orig. $12-$44
-
-Shop Apparel for Her DOORBUSTER 50% Off Worthington Apparel
-
-Select styles including plus, orig. $14-$72
-
-Shop Worthington Apparel DOORBUSTER 60% Off Sunglasses and Flip-Flops for Her
-
-Select styles, orig. $20-$36
-
-Shop Sunglasses and Flip-Flops DOORBUSTER 25 to 55% Off Fine and Fashion Watches
-
-Select styles, reg. $28-$899
-
-Shop Fine and Fashion Watches DOORBUSTER 60% Off Protocol Centennial and Jaguar Luggage
-
-Select styles, reg. $60-$340
-
-Shop Luggage DOORBUSTER 17.99 Cooks Nonstick Griddle or Power Blender
-
-Excluded from coupon, reg. $40
-
-Shop Cooks Small Appliances DOORBUSTER 50 to 60% Off Sheets
-
-Select styles, reg. $30-$220
-
-Shop Sheets 30 to 50% Off Home Sale
-
-Select styles
-
-Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   New and Online Only! Major Appliances From Your Favorite Brands Shop Appliances Now Sephora Shop Men's Cologne Don't Forget Dad!
-
-Father's Day is June 19.
-
-Shop Gifts 50 to 70% Off Clearance
+Get Coupon: 50 to 70% Off Clearance
 
 In Store and Online
 
