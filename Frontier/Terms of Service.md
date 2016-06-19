@@ -165,7 +165,6 @@ Frontier policies | Frontier tariff information
 *   Phone
 *   Video/TV
 *   Security
-*   Offers
 *   Discount Programs
 
 My Account
@@ -213,7 +212,8 @@ Regional Sites
 *   East
 *   Mid-Atlantic
 *   Midwest
-*   National
+*   National- IL, IA, MN, NE, UT
+*   National- ID, MT
 *   West
 
 *   Policies &. Notifications
