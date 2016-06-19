@@ -57,7 +57,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     
     *   Our values How we do business is as important as what we do.
     
-    *   Clean water, safer homes We are working with WaterAid to improve sanitation in India.
+    *   Cleaner water saves lives HSBC is helping people in need to access improved sanitation.
 *   Investor relations
     
     *   Financial and regulatory reports
@@ -109,7 +109,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Culture
         *   Other sponsorships
     
-    *   Making a difference HSBC’s USD150 million community fund is helping projects worldwide.
+    *   Age before wealth Some major emerging-world countries will grow old before they get rich.
 *   Careers
     
     *   Key hiring areas
