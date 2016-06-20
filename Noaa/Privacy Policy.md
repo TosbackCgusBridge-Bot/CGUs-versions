@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Sea Turtle Week 2016: Uncover the secrets of these remarkable reptiles AROUND NOAA // Persistent heat across globe makes a baker’s dozen for the record books South Pole is last place on Earth to pass global warming milestone Milky Way now hidden from a third of humanity
+Enter Search Terms Persistent heat across globe makes a baker’s dozen for record books AROUND NOAA // South Pole is last place on Earth to pass global warming milestone Historically speaking, where are the summer 'hot spots' for severe weather in the U.S.? Milky Way now hidden from a third of humanity
 
 *   About our agency
 *   News and features
