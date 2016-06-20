@@ -868,4 +868,4 @@ As part of Indeed's commitment to the security of our job seekers, advertisers, 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. - Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
    
-Jobs - Browse Companies - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - API - About - Help Center ©2016 Indeed - Cookies, Privacy and Terms
+Jobs - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - API - About - Help Center ©2016 Indeed - Cookies, Privacy and Terms
