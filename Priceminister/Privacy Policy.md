@@ -19,9 +19,9 @@ Les principes énumérés dans cette politique « Vie privée et cookies » ne f
 
 Données de compte et messages électroniques (newsletters)
 
-**1\. Données de compte  
+**1\. Données de compte**  
   
-**Les informations à caractère personnel recueillies auprès des membres, vendeurs et acheteurs, au moment de leur inscription sur la plateforme et postérieurement (civilité, nom, prénom, date de naissance, nom d’utilisateur, adresses postale et électronique, mot de passe, informations relatives au moyen de paiement, aux commandes ainsi qu’aux connexions et à la navigation sur la plateforme PriceMinister et communications avec les autres membres) sont nécessaires pour (I) créer et gérer votre compte, (II) assurer le bon déroulement des transactions, (III) améliorer les services qui vous sont offerts, (IV) se conformer aux dispositions législatives et règlementaires en vigueur et/ou à toute décision d’une autorité judiciaire compétente, (V) réaliser des statistiques et des analyses et (VI) lutter contre les fraudes.  
+Les informations à caractère personnel recueillies auprès des membres, vendeurs et acheteurs, au moment de leur inscription sur la plateforme et postérieurement (civilité, nom, prénom, date de naissance, nom d’utilisateur, adresses postale et électronique, mot de passe, informations relatives au moyen de paiement, aux commandes ainsi qu’aux connexions et à la navigation sur la plateforme PriceMinister et communications avec les autres membres) sont nécessaires pour (I) créer et gérer votre compte, (II) assurer le bon déroulement des transactions, (III) améliorer les services qui vous sont offerts, (IV) se conformer aux dispositions législatives et règlementaires en vigueur et/ou à toute décision d’une autorité judiciaire compétente, (V) réaliser des statistiques et des analyses et (VI) lutter contre les fraudes.  
    
 À titre d’exemple, ces informations nous permettrons dans l’hypothèse d’un achat, de transmettre vos coordonnées postales au vendeur pour assurer la bonne livraison du produit acheté. Un vendeur opérant sur PriceMinister n'a, à aucun moment, accès à votre adresse e-mail ou à votre numéro de téléphone, sauf engagement impératif du vendeur de respecter les dispositions de la loi Informatique et libertés auprès de PriceMinister, et pour la seule fin de la bonne exécution de votre commande et des obligations légales qui s'y rattachent.  
   
@@ -63,13 +63,15 @@ Nous sommes amenés à rendre un certain nombre de sous-traitants destinataires 
   
 Nous sommes également amenés à partager certaines informations relatives à votre navigation sur la plateforme avec Rakuten, Inc., notre société-mère située au Japon, à des fins marketing et de reporting interne. Ces transferts sont encadrés par des clauses contractuelles types de l’Union européenne et ont été autorisés par la CNIL (décision DF-2015-503).  
   
-Nous veillons à ce que ces destinataires traitent vos informations conformément à nos instructions, dans le respect de la loi «Informatique et Libertés » du 6 janvier 1978 et s'engagent à mettre en œuvre des mesures appropriées de sécurisation et de protection de la confidentialité de vos données.
+Nous veillons à ce que ces destinataires traitent vos informations conformément à nos instructions, dans le respect de la loi «Informatique et Libertés » du 6 janvier 1978 et s'engagent à mettre en œuvre des mesures appropriées de sécurisation et de protection de la confidentialité de vos données.  
+  
+  
 
 Données de navigation - Cookies
 
-**1\. Qu’est ce qu’un cookie ?  
+**1\. Qu’est ce qu’un cookie ?**  
   
-**Lors de votre navigation sur PriceMinister, nous collectons diverses données, relatives notamment aux caractéristiques du système d’exploitation, du navigateur ou du terminal (ordinateur, tablette ou téléphone mobile) que vous utilisez, des données relatives à votre localisation (notamment votre adresse IP) ou encore des données relatives à vos interactions avec le contenu de PriceMinister (nombres de visites sur la plateforme, pages visitées et produits achetés, publicités sur lesquelles vous cliquez…).  
+Lors de votre navigation sur PriceMinister, nous collectons diverses données, relatives notamment aux caractéristiques du système d’exploitation, du navigateur ou du terminal (ordinateur, tablette ou téléphone mobile) que vous utilisez, des données relatives à votre localisation (notamment votre adresse IP) ou encore des données relatives à vos interactions avec le contenu de PriceMinister (nombres de visites sur la plateforme, pages visitées et produits achetés, publicités sur lesquelles vous cliquez…).  
   
 Ces informations de navigation sont collectées via des cookies ou d’autres dispositifs similaires, tels que des « pixels tags » ou, lors de votre utilisation de notre application, des identifiants Android ou des « IDFA ». Pour les besoins de cette politique, l’ensemble de ces dispositifs seront appelés « cookies ».  
   
