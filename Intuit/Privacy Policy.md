@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L15022982397
+true true C14936661486
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p08.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Sat Jun 18 11:15:31 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p05.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Sun Jun 19 11:15:33 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,44 +49,15 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Father's Day Sale In Store and Online | Ends June 19 Shop Father's Day Sale View Store Ad$10 Bonus Reward
+Extra 25% Off\* 9 Hours Online Only!
 
-When you spend $50 or more on men's apparel or accessories in store or online, June 15-19.
+June 19 | 5PM CDT - 2AM CDT | Code: SAVING4
 
-Get DetailsSpend $25 and get $10 Off\*
+\*Exclusions and detailsHappy Father's Day Shop Now SportsFanShop
 
-In Store and Online | Ends 6/19 | Code: BEST22
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Get Coupon Home Flash Sale Extra 30% Off\* $100 or More Or, Extra 25% Off\* Select Home Already 30 to 50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds and Shades
-
-Today Online Only | Code: TOSAVE2
-
-\*Exclusions and details Shop Now Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses Nike Sale - Now through June 18 25% Off Nike For The Family Apparel and Shoes
-
-Select styles, Nike excluded from coupon.
-
-Shop Nike Apparel Shop Nike Shoes   9.99 All St. John's Bay Solid Polos
-
-reg. $26
-
-Shop St. John's Bay Solid Polos Gifts For Dad Don't forget Dad! Father's Day is June 19. Shop Top Gifts Shop Gifts Under $25Gift Cards - $10 Off $10 Coupon In Store Only! | Ends June 19
-
-Spend $75 on Gift Cards and get a $10 off $10 Coupon. Redeemable 6/20/16-7/4/16 in store only. Some restrictions apply. See store for details.
-
-Shop Gift CardsE-Gift Cards - $10 Off $10 Coupon Online Only! | Ends June 19
-
-Spend $75 on E-Gift Cards and get a $10 off $10 coupon. Redeemable 6/20/16-7/4/16 in store and online. Some restrictions apply.
-
-Get Details Sephora Shop Men's Cologne JCPenney | portraits
-
-ONE FREE 8x10 traditional sheet and  
-50% OFF your photo purchase
-
-Get Coupon: 50 to 70% Off Clearance
-
-In Store and Online
-
-Shop Clearance Now Download the JCPenney App and Get Shopping Check out the app: Download on the App Store Get it on Google Play
+Shop SportsFanShop: Dorm Life Shop All Dorm: Sephora Shop Men's Cologne: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
