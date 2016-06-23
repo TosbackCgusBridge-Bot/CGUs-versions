@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Research NOAA tornado scientists inspired ‘Twister’ creators 20 years ago Fisheries PODCAST: Putting the World in World Sea Turtle Day National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Research NOAA tornado scientists inspired ‘Twister’ creators 20 years ago Oceans &. Coasts Marine &. Aviation Charting Video: Life at sea for NOAA scientists and crew National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Persistent heat across globe makes a baker’s dozen for record books AROUND NOAA // South Pole is last place on Earth to pass global warming milestone Historically speaking, where are the summer 'hot spots' for severe weather in the U.S.? Milky Way now hidden from a third of humanity
+Enter Search Terms U.S. coral reefs facing warming waters, increased bleaching Hotter-than-normal ocean temperatures continue for 3rd consecutive year AROUND NOAA // Persistent heat across globe makes a baker’s dozen for record books Summer roars in with a vengeance over U.S. Southwest Historically speaking, where are the summer 'hot spots' for severe weather in the U.S.?
 
 *   About our agency
 *   News and features
