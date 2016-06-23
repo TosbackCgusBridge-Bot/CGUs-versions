@@ -8,6 +8,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 *   Gifts
     *   Gift Boxes
     *   Gift Baskets and Towers
+    *   Summer Gift Guide
     *   Business Gifts
         
     *   Hickory Farms Reserve
@@ -15,6 +16,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Shop By Occasion
         *   Birthday Gifts
     *   Gifts on the Healthier Side
+    *   Best Sellers
     *   New Product Showcase
 *   Sausage &. Cheese
     *   Sausage &. Cheese Gifts
@@ -56,6 +58,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
 *   Gifts
     *   Gift Boxes
     *   Gift Baskets and Towers
+    *   Summer Gift Guide
     *   Business Gifts
         
     *   Hickory Farms Reserve
@@ -63,6 +66,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Shop By Occasion
         *   Birthday Gifts
     *   Gifts on the Healthier Side
+    *   Best Sellers
     *   New Product Showcase
 *   Sausage &. Cheese
     *   Sausage &. Cheese Gifts
