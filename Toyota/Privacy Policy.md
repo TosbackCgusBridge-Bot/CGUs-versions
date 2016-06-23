@@ -263,8 +263,6 @@ Hybrids
     
 *   Prius _c_  
     
-*   Prius Plug-in Hybrid  
-    
 *   Prius _v_  
     
 *   RAV4 Hybrid  
