@@ -280,7 +280,7 @@
     
     *   Best-in-Class Polos
     *   Iron Knee Pants
-    *   Go To Camp
+    *   Backpacks &. Lunch Boxes
     *   Spiritwear
     *   After School
     *   Sale
@@ -585,7 +585,7 @@
     
     *   Best-in-Class Polos
     *   Iron Knee Pants
-    *   Go To Camp
+    *   Backpacks &. Lunch Boxes
     *   Spiritwear
     *   After School
     *   Sale
