@@ -35,12 +35,10 @@ Skip to main content Online Trust Alliance
 *   Committees
 *   News &. Events
     *   OTA In The News
-    *   Newsletters
-    *   Press Releases
-    *   DpD 2016
     *   Upcoming Events
         *   Recent Events
         *   Events Archive
+    *   Press Releases
 *   Membership
     *   History &. Overview
     *   Member Levels
@@ -98,26 +96,28 @@ Tue, Jun 28, 2016 Webinar: 2016 Audit and Honor Roll Highlights
 
 For the internet economy to continue to grow, users must trust that their personal information will be secure and their privacy protected. Join OTA for highlights from the 2016 Online Trust Audit to better understand top level trends in consumer protection, data security and privacy. Speakers will share key learnings and provide recommendations. Now in its 8th year, the Audit illustrates how best practices are good for your brand reputation and consumer trust, while better securing your data from abuse and your site from hacking.
 
-Thu, Jun 30, 2016 RSA Conference Webcast: OTA Online Trust Audit &. Honor Roll
-
-The Online Trust Alliance (OTA) Online Trust Audit evaluates nearly 1,000 websites against over 50 detailed metrics to analyze security, privacy and consumer protection practices.  Now in its 8th year, the 2016 Audit set an even higher bar and companies achieving prestigious Honor Roll status show exceptional commitment to best practices and trust leadership. Discover the top 10 achievers, hear results and understand trends in consumer trust.
-
 Mon, Jul 11, 2016 IoT Evolution Expo
 
-Through informative conference tracks, an IoT Exhibition floor, case studies, special events, networking and more, the IoT Evolution Expo is the ultimate venue for attendees to gain an understanding on how the Internet of Things (IoT) will be the driving force behind improving efficiencies, driving revenue opportunities and solving business problems across multiple industries and all business functional areas.Meet with the IoT ecosystem and worldwide business leaders and learn how to leverage the power of the IoT to transform and move your business forward.
+OTA Members - 30% off registration using the link here. Through informative conference tracks, an IoT Exhibition floor, case studies, special events, networking and more, the IoT Evolution Expo is the ultimate venue for attendees to gain an understanding on how the Internet of Things (IoT) will be the driving force behind improving efficiencies, driving revenue opportunities and solving business problems across multiple industries and all business functional areas.Meet with the IoT ecosystem and worldwide business leaders and learn how to leverage the power of the IoT to transform and
 
 Wed, Sep 7, 2016 FTC Fall Technology Series: Ransomware
 
 With alarming frequency, ransomware hackers are sneaking into consumer and business computers, encrypting files containing photos, documents and other important data, and then demanding a ransom in exchange for the key needed to decrypt the files. At times, these hackers pose as the FBI or other law enforcement officials and claim that the ransom is a “fine” for viewing illegal material and that failure to pay the “fine” will result in criminal prosecution.
 
-More >>.
+Wed, Dec 7, 2016 Fall Technology Series: Smart TV
+
+Consumers enjoy recommendations based on their television viewing habits (“viewers who watched Mr. Robot… may enjoy Fight Club”), but who else knows what you’re watching? The golden age of television has arrived with the golden age of television tracking. In 2016, virtually all television delivery systems – smart TVs, streaming devices, game consoles, apps, and even old-fashioned set top boxes – track consumers’ viewing habits, and sometimes in new and unexpected ways.
 
 *   OTA Blog
 *   Newsletters
 
-Mon, Jun 20, 2016 Driving Trust with the 2016 Online Trust Audit &. Honor Roll
+Tue, Jun 21, 2016 Drone - Privacy, Transparency, and Accountably Best Practices
 
-The 2016 Online Trust Audit and Honor Roll once again shines a light on trust in security, privacy and consumer protection practices. This year OTA documented a record level of achievement with 50% of audited companies clearing the Honor Roll hurdle – despite a higher bar of tougher and more comprehensive methodology.
+Today a multi-stakeholder group convened by the U.S.
+
+Mon, Jun 20, 2016 Driving Trust with the 2016 Online Trust Audit
+
+The 2016 Online Trust Audit and Honor Roll shines a light on trust in security, privacy and consumer protection practices, recognizing excellence and leadership while highlighting key areas for improvement.
 
 Wed, Mar 30, 2016 FCC Chairman Takes Position on Privacy &. Broadband Providers
 
@@ -128,10 +128,6 @@ Mon, Mar 28, 2016 Mobilizing for Privacy on Campus - Mozilla Seeking Volunteers 
 Do you have privacy knowledge and a passion to work with students?  Or are you a college student with a passion to spread the word about privacy to your fellow students and beyond?  Mozilla’s new Take Back the Web Campaign may be for you.
 
 Recently Mozilla launched a call for volunteers to help lead a Take Back the Web Campaign at universities around the world. The campaign is built on student leaders and mentors who will work together to raise awareness and empower other students to make choices about how their personal information is used online.
-
-Tue, Mar 15, 2016 IoT Trust Framework Released - Momentum Growing
-
-The Online Trust Alliance’s IoT Trust Framework is rapidly evolving to be the foundation of an international effort to integrate security, privacy and sustainability in IoT devices and services. Developed over the past twelve months, the Framework represents collective input from over 100 organizations who, through a multi-stakeholder process, established a baseline Framework of 30 essential criteria.
 
 More >>. Resources
 
@@ -157,12 +153,10 @@ Initiatives
 News &. Events
 
 *   OTA In The News
-*   Newsletters
-*   Press Releases
-*   DpD 2016
 *   Upcoming Events
     *   Recent Events
     *   Events Archive
+*   Press Releases
 
 Membership
 
