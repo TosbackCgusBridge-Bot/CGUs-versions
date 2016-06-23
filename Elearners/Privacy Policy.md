@@ -155,16 +155,16 @@ By entering my email address and clicking "Subscribe" I agree to be contacted by
 
 Popular Topics:
 
-*   Online Degrees
-*   Online Certificates
-*   Online Colleges
+*   Degrees
+*   Certificates
+*   Colleges
 
 Online Degrees By Level
 
-*   Associate Degrees
-*   Bachelor Degrees
-*   Masters Degrees
-*   Doctoral Degrees
+*   Associate
+*   Bachelor
+*   Masters
+*   Doctoral
 
 About eLearners:
 
