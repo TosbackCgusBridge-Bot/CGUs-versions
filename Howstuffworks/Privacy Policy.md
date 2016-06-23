@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Memory Hack: Do Some Aerobics Four Hours After Class**
+**Amazing Water Dogs to the Rescue!**
 
-**Can U.S. Doctors Legally Ask Patients About Gun Ownership?**
+**There's One Terrific Reason to Race Camels Using Robot Jockeys**
 
-**Russia Once Built a Doomsday Device Nicknamed 'Dead Hand'**
+**Breaking the Law to Enforce It: Cops and the Supreme Court**
 
 **See More Headlines »**
 
