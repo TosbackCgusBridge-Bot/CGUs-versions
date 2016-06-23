@@ -225,12 +225,14 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 
 International Edition
 
+*   Set edition preference:
+*   U.S.
+*   International
+*   Confirm
 *   U.S.
 *   International
 *   Arabic
 *   Español
-*   Set edition preference
-*   Confirm
 
 © 2016 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.
 
