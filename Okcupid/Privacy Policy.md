@@ -181,16 +181,18 @@ Okay Enter Authentication Code Submit Remember this computer for 30 days? Sign i
 
 You need to complete your basic info on the mobile app before you can use the desktop site.
 
-*   About
-*   Support
-*   Careers
+*   Mobile Apps
+*   Press
 *   Legal
-*   Tests
-*   OkTrends
+*   Ad Choices
+*   About
+*   Careers
+*   Support
 *   The Deep End
-*   Mobile
+*   OkTrends
+*   Tests
 
-OkCupid © 2016 Free online dating
+© OkCupid 2016 Free online dating
 
 *   Local dating
 *   Jewish dating
