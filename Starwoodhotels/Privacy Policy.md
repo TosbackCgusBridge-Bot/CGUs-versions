@@ -160,23 +160,7 @@ Back to Top
 
   
   
-ACCESSING, UPDATING AND REMOVING YOUR PERSONAL DATA:
-
-You may request to have access to your personal data we keep or to have your personal data updated, erased or blocked unless this proves impossible or involves a disproportionate effort. You have may request confirmation as to whether we process your personal data and what that data constitutes.
-
-Where allowed under local law, you may request us to erase your personal data, if one of the following circumstances exist:
-
-*   your personal data are no longer necessary for the purposes for which they were collected or otherwise processed.
-*   if the processing was based on your consent and if you have withdrawn your consent, your consent has expired, or where there is no longer a legal ground for the processing of your personal data;
-*   If the processing is for direct marketing purposes or if you make a justifiable objection ;
-*   a court or regulatory authority has ruled that your personal data concerned must be erased;
-*   your personal data was unlawfully processed.
-
-To ensure that your personal data is accurate and up to date, we encourage you to regularly review and update your information as appropriate (e.g., in the event your home or e-mail address changes, or you wish to add an additional method for us to communicate with you). If you are an SPG program member, you can review and update your individual membership profile on-line or with the assistance of a Starwood customer service representative. If you are not a SPG program member you can review and update your personal data by contacting our Consumer Affairs Team or Privacy Office and requesting an access form. Please note that in an effort to prevent the unauthorized disclosure of your personal data, you may be asked to provide proof of identity (or other authentication materials) together with the completed access request form. Access to personal data for non-SPG program members cannot be provided by telephone. If, upon review, you wish to deactivate your SPG program member profile, or update your personal data, we will endeavor to do so in a timely manner. Occasionally, information that you request to be removed will be retained as explained above. Therefore, for the above reasons you should not always expect that all of your personal data will be completely removed from our databases in response to your request, even though we are regularly reviewing our data retention practices to ensure that personal data, while residing on the systems of Starwood and/or Starwood’s strategic marketing partners and service providers, will not be actively processed and will be accessed only if required by law. Please refer to the appropriate contact information below to contact us about updating your communication preferences, removal from our marketing lists, or to submit a general question or request.
-
-Back to Top
-
-  
+ACCESSING, UPDATING AND REMOVING YOUR PERSONAL DATA:  
   
 ON-LINE TECHNOLOGIES:
 
@@ -242,9 +226,8 @@ by telephone:
 
 by writing to us at:  
 Starwood Preferred Guest Program  
-P.O. Box 6020  
-Lancaster, California 93539-6020  
-USA
+P.O. Box 20190  
+St. Thomas, ON Canada N5P 4H4
 
 **Customer Service**
 
