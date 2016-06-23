@@ -125,11 +125,11 @@ Réalisé sous la direction de Jean-François PILLOU, fondateur de CommentCaMarc
   
 A voir également
 
-*   Ccm samsung chat 222 gt e2220
-*   Conditions générales d'utilisation
-*   Whatsapp
-*   Modèle Condition Générale de Vente » Forum - Webmaster
+*   Conditions generales d'utilisation
+*   Conditions générale d'utilisation site web
+*   Tubidy
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
 *   Redaction conditions generales (Résolu) » Forum - Vos droits sur internet
 *   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
+*   Impossible d accepter les conditions générales de ventes (Résolu) » Forum - IPad / iPod Touch
