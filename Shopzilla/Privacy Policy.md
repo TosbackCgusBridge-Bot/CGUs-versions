@@ -47,28 +47,18 @@ Connexity
 Toggle navigation blog navsite nav
 
 *   Solutions
+    *   Hitwise
+        *   Audience Insights
+        *   Online Intelligence
+    *   Audience Targeting
+        *   Overview
+        *   Our Audiences
+        *   Your Audiences
+        *   Modeled Audiences
     *   CPC Listings
         *   Retailer Listings
         *   Retailer Site Monetization
         *   Publisher Monetization
-    *   Bizrate Insights &. Ratings
-        *   Consumer Insights
-            *   Surveys
-            *   Reporting
-        *   Conversion Boosters
-            *   Seller ratings
-            *   Testimonials
-            *   Badges &. awards
-        *   Competitive Intelligence
-        *   Advisory Services
-        *   Subscriptions
-    *   Programmatic
-        *   Our Audiences
-        *   Your Audiences
-        *   Modeled Audiences
-    *   Hitwise
-        *   Audience Insights
-        *   Online Intelligence
 *   About
     *   About Connexity
     *   Open Positions
