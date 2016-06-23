@@ -217,8 +217,9 @@ You ("You" or "Customer") understand and agree that Sections 1 through 26 of thi
 
 stream demo × Questions? Call 844.790.7475 My Suddenlink Chat Contact Us FAQ
 
-*   Our Company
-    *   Who We Are
+*   About Altice USA
+    *   Leadership
+    *   News
     *   Careers
     *   Investor Relations
     *   Network Information
