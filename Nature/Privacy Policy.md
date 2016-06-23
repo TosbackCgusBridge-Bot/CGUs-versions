@@ -70,52 +70,110 @@ The Nature Conservancy Website Privacy Policy
 
 Download printable version (.pdf)
 
-**La** **st updated**: December 16, 2013
+**La** **st updated**: June 20, 2016
 
-The Nature Conservancy (the “Conservancy”) takes your privacy very seriously. This Privacy Policy applies to the following sites: www.nature.org (and each sub-domain associated with this URL) and other websites owned and/or operated by or for the Conservancy, including mobile sites (collectively, the "Sites"). By visiting the Sites, you are accepting the policies described in this Privacy Policy.   If you do not agree with this Privacy Policy, you are not permitted to use the Sites. The Conservancy may revise this privacy policy from time to time. We will post any changes here, so be sure to check back periodically. Your continued use of the Sites after changes have been posted will constitute your acceptance of such changes.
+The Nature Conservancy and its subsidiaries, branches, vendors, service providers, or affiliates (the “Conservancy”) take your privacy very seriously and cares about how your information is collected, used, stored, and shared. To better protect your privacy, we are providing this Privacy Statement to explain our practices and the choices that you can make about the way your information is used by the Conservancy. The information below explains our policy regarding your privacy, both online and offline, in the United States.
 
-**What information we collect:** The Nature Conservancy may ask for and collect from you personally identifiable information at various points throughout the site.  Depending on the information and/or services you request, you may be asked to provide your name, email address, address, phone number, payment details, and similar information.  Once you provide your personal information, you are not anonymous to The Nature Conservancy.
+By accessing a Platform (defined below) owned and/or operated by the Conservancy and/or providing your Personal Information with the Conservancy, you are accepting the practices described in this Privacy Statement and the Conservancy may use the information provided in accordance with this Privacy Statement. If you reside outside the United States, you understand and agree that your Personal Information may be processed in the United States where laws regarding processing of Personal Information may differ from the laws in your country.
 
-**Credit Card Information:**  If you choose to provide your credit card information to the Nature Conservancy we will use that information for the purposes for which it was provided.
+**How We Collect Information:**
 
-**How The Nature Conservancy uses your information:** The Nature Conservancy may use your information:
+The Conservancy and its service providers may collect personal information such as your name, email address, postal address, phone number, and similar contact information and payment or credit card information (“Personal Information”). If you choose to provide your payment or credit card information to the Conservancy, we will use that information for the purposes for which it was provided. We may combine the Personal Information we collect with Other Information. “Other Information” is information that the Conservancy and its service providers may collect from or about you from other online and offline sources, your use of the Platforms, or regarding your communications with us.  If you submit any Personal Information relating to other people to us or to our service providers in connection with the Sites, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
 
-*   To process and respond to inquiries and for the purposes for which you provided the information, such as to process donations, register or renew you as a member, purchase merchandise, or receive information about a project.
-*   To personalize the content and improve the navigability of the Website.
-*   To alert you to new projects, site features, special events and services.
-*   To conduct surveys to measure your satisfaction with our service.
-*   To enforce our Terms of Use.
+The Conservancy and its service providers may collect Personal Information and Other Information in a variety of ways, including, but not limited to:
 
-The Nature Conservancy processes your information on servers located in the United States.
+*   We may collect information you provide to us over the phone, in email, through a face-to-face conversation, or through online and offline forms such as e-newsletters, surveys, donation forms, event registration/participation, and advocacy action alerts that you populate.
+*   We may collect IP address, social media ID, browser type, mobile device type, content visited while on the Conservancy owned or operated websites and/or Apps (collectively, the “Platforms”), Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version, the duration of the use of the Platforms, or public databases. Collecting browser activities or IP addresses, along with the time of the visit and the page(s) that were visited, are common practices, and are often performed automatically by many websites, applications and other services for such purposes as calculating usage levels, helping diagnose server problems, and administering the Platforms.
+*   We may collect information that can identify the physical location of your mobile device in accordance with applicable law.
+*   We may use “Cookies” and similar technology, where permitted by law, to obtain information about your visits to the Platforms or your responses to our e-mails or other electronic communications – both individually and in an aggregated form.  Cookies are pieces of data placed on your device when you visit our Platforms that help us recognize you when you come back to the Platform, allowing us, for example, to remember the email address and password you use when you log in on a specific computer.  To learn more about the use of cookies or other technologies to deliver more relevant advertising and to know your choices about not having this information used by certain service providers, please visit http://www.networkadvertising.org/choices/.
+*   We may use third-party web and mobile app analytics and optimization services to improve the Platforms and enhance the visitor experience by, for example, recording mouse clicks, mouse movements, scrolling activity as well as text you type in the Platforms.
+*   We may use third-party collection and tracking analytics services and data to provide certain services for operation of the Platforms and for us to conduct charitable solicitations and other mission-related activities.
+*   We may use third-party postal address, phone number, and email address products to provide accurate and updated contact information.
+*   We may use Google Analytics and Adobe Analytics which use Cookies and other similar technologies to collect information about use of Platforms anonymously and report website trends. You can learn about Google’s practices by visiting www.google.com/policies/privacy/partners/, and you may opt out by downloading the Google Analytics opt-out browser add-on, available at https://tools.google.com/dlpage/gaoptout. You can learn about Adobe’s practices by visiting http://www.adobe.com/privacy/analytics.html and you may opt out by visiting http://www.adobe.com/privacy/opt-out.html.
+*   We may use pixel tags and other similar technologies to, among other things, track the actions of users of the Platforms, measure the success of our marketing campaigns, and compile statistics about use of the Platforms and response rates.
+*   We may use third-party advertising companies to address advertisements that may be of interest to you when you access and use the Platforms and other websites, based on information relating to your access to and use of the Platforms and other websites. To do so, such companies may place or recognize a unique Cookie on your browser (including through use of pixel tags).
+*   We may collect information from social media platforms used by you or people with whom you are friends or otherwise connected on social media platforms.
+*   We may collect information from downloaded Conservancy mobile applications (“Apps”) that you use. We may track and collect Apps’ usage data such as the date and time the Apps accesses our servers, what information and files have been downloaded to the Apps based on your device number, or geographic location of your device by, for example, using satellite, cell phone tower or Wi-Fi signals to provide you with personalized location-based services and content.
+*   We may collect information about your interactions with email messages, such as the links clicked on and whether the messages were opened or forwarded.
 
-**Who The Nature Conservancy shares the information with:** Subject to your right to opt-out (discussed later in this policy), The Nature Conservancy may share your name and postal address (but not your email address) with organizations that offer products or services that we believe may interest you.  The Nature Conservancy may also share your information with third parties in the following situations (i) to complete your request, e.g. providing information about a project, product, or service. (ii) to outsource one or more of the functions described above. or (iii) to share your information with the authorities in response to a legal order or official request, or when we believe you have acted in violation of our Terms of Use.   
-    
-**Where and when The Nature Conservancy collects information on the Website:**  In addition to the information you knowingly provide, The Nature Conservancy also collects the domain names and IP addresses used by people that visit us, as well as site usage statistics such as web browser types and page requests. This data is not usually personally identifiable, and is used to more efficiently operate The Nature Conservancy’s business, prepare for network load demands, promote our organization and administer the Website. 
+**How the Conservancy Uses Collected Information**
 
-**How we collect information:**  In addition to the information gathered as described above, there is a technology called "cookies" that can be used to provide you with tailored information from a website.  A cookie is an element of data that a website can send to your browser, which may then – depending on your web browser’s settings – store it on your system.  For example, some pages on the Website use cookies so that The Nature Conservancy can better serve you when you return to the Website.  Depending on the type of browser you use, you can probably set it to notify you when you receive a cookie, giving you the chance to accept or reject it.  However, please note that disabling cookies may prevent you from taking advantage of certain features on the Website. Please note that our system may not respond to some or all Do Not Track requests.
+ The Conservancy may use collected information to:
 
-**How we protect information:**  The Nature Conservancy has taken certain physical, administrative and technical steps to safeguard customer information which may include but are not limited to password restricted access to personal information and encrypting data where applicable. We take efforts to help ensure the security, integrity and confidentiality of customer information. however, no transmission or electronic storage of information can be guaranteed to be 100% secure.
+*   Send you information regarding the Conservancy, our affiliates, and our partners.
+*   Process and respond to inquiries and for the purposes for which you provided the information, such as to process donations, register or renew you as a donor or supporter, purchase merchandise, or receive information about a project, special event, and service.
+*   Personalize the content, improve the navigability of the Platforms, and customize your experience on the Platforms, including targeted content, offers, and advertising on the Platforms, or via email or text message.
+*   Respond to your questions and comments.
+*   Notify you about special programs, offers, products and services that may be of interest to you, either from the Conservancy or on behalf of our affiliates or Other Organizations.
+*   Alert you to administrative information such as information regarding Platforms’ features, changes to our terms, conditions, and policies.
+*   Conduct surveys to measure your satisfaction with aspects of the Conservancy’s activities.
+*   Facilitate your participation in sweepstakes, contests, and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose information.
+*   Analyze aggregate data, usage trend identification, promotional campaign development, audit, fraud monitoring or prevention, new product or service development, Platforms’ enhancement, Interaction improvement, or operating and expansion purposes.
+*   Post information or materials on our message boards, chat, profile pages, blogs, and other services. Please note that any information you post or disclose through these services will become public and may be available to users of the Platforms and to the general public.
+*   Protect the security or integrity of the Platforms and the Conservancy, such as by protecting against fraud, unauthorized transactions, claims and other liabilities, and managing risk exposure, including by identifying potential hackers and other unauthorized users.
+*   Target advertising to you personally, through online and offline methods including email, display media and direct mail.  This advertising may be directed to you because you visited or logged in to our website.  When we generate this advertising, data we collect from you through online Cookies and other technologies may be combined with other de-identified data (such as a hashed, non-readable email or postal address) in order to tailor ads to you based on your preferences and other information about you. To learn more about targeted advertising, these providers, or how you may opt out, please visit the DAA’s consumer choice page at http://www.aboutads.info/choices.   
+*   To enforce our Terms of Use or other program terms.
+*   As otherwise described to you at the point of collection.
 
-**Children:** This Website is not directed toward children under 13 years of age nor does The Nature Conservancy knowingly collect information from children under 13.  If you are under 13, please do not submit any personally identifiable information to The Nature Conservancy.
+**How the Conservancy May Share Information**
 
-**Choice:**  The Nature Conservancy may share your name and postal address with organizations that offer products and services that we believe may interest you.  You have the right to opt-out of such information sharing.  The Nature Conservancy may also use your personal information to send you surveys or email messages about Nature Conservancy projects, events, and services.  You may also choose to **opt-out of receiving email** and information from The Nature Conservancy. Finally, you may choose to de-activate your Nature Conservancy membership.  To opt-out or change your preferences at any time, **Click here to send an email to request deactivation of your membership or to make any other change**. 
+Your information may be shared in the following ways and/or with the following parties:
 
-If you prefer, you may opt-out by calling our Member Care Team toll-free at (800) 628-6860 Monday through Friday between 9:00 am and 5:00 pm Eastern Time.
+*   Service Providers: We may disclose the information we collect from you to third party vendors, service providers, contractors, or agents who perform functions on our behalf such as solicitation or acknowledgment of charitable gifts, aggregate analysis and marketing activities.
+*   Advertising Networks: We may work with data providers, social media, and advertising networks to target advertising to you personally, through online and offline methods including display media and direct mail.
+*   Corporate Affiliates: For disclosure or agreement performance purposes to our Affiliates which include related entities, grantors, auditors, attorneys, grantees, other charities, collaborative partners, sponsors, approved vendors or service providers, or their subcontractors providers.
+*   Aggregate Data: We may share aggregate statistics and other non-personally identifiable information with third parties for marketing, advertising, research, or similar purposes. These aggregate statistics will not allow anyone to identify your Personal Information.
+*   Other Organizations: At times, we may rent or exchange names and postal addresses (but not your email address or telephone number) to other organizations that are not Affiliates of ours (“Other Organizations”).  If you do not want us to share your information with Other Organizations who may use such information for their own independent purposes, you may call us at (800) 628-6860 or email us at member@tnc.org.
 
-**Your California Privacy Rights:** If you are a California resident, you are entitled by law to request an Information Sharing Disclosure.  If you provide notice to the address below, we will provide you with a notice of your right to prevent sharing of your personal information as well as a cost-free means of doing so.  To receive such a notice, submit a written request to the address listed in the Access section below, specifying that you seek your "California Customer Choice Notice."  Please allow thirty days for a response.
+While you may opt out of sharing with Other Organizations as provided above, we retain the right to share your information with third parties in the following circumstances:
 
-**Access:**  If you would like us to update your contact information or any other part of your membership file, please call our Member Care Team toll-free at (800) 628-6860 Monday through Friday between 9:00 am and 5:00pm Eastern Time, **contact us online** or write us at:
+*   In Connection with Business Transfers: For disclosure purposes to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our operations, assets, or stock (including in connection with any bankruptcy or similar proceedings).
+*   Pursuant to Legal Requirements: For disclosure purposes as necessary or appropriate: (a) under applicable law, including laws outside your country of residence. (b) to comply with legal process. (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence.  
+*   To Protect Our Website and Users: We will disclose your information when we believe disclosure is necessary to investigate, prevent or take action regarding illegal activity, suspected fraud or other wrongdoing. to protect and defend the rights, property or safety of our organization, our employees, our Site users or others. or to enforce our website terms and conditions or other agreements or policies.
 
-Attn:  Member Care Team   
+**How You Can Control Collection and Use of Your Information**
+
+*   **Information Sharing with Other Organizations:** You may, at any time, choose to opt out of sharing your information for the purpose of renting or exchanging with Other Organizations by calling us at (800) 628-6860, or emailing us at member@tnc.org. Please allow 30-60 days for your information to be suppressed from sharing with Other Organizations.
+*   **Marketing Email Opt Out:** You may, at any time, choose to opt out of receiving marketing-related emails by following the opt-out procedures at the bottom of our emails. Please allow 10 business days for us to respond to your request.
+*   **Mailing List:** You may, at any time, choose to opt out of receiving mail from us by calling us at (800) 628-6860 or emailing us at member@tnc.org. Please allow 30-60 days for your address to be removed from any mailings that are currently underway.
+*   **Telemarketing:** You may, at any time, choose to opt out of the Conservancy's residential telemarketing list by calling us at (800) 628-6860 or emailing us at member@tnc.org. Please allow 30 days for your telephone number to be removed from any programs that are currently underway.
+*   **Accessing, Modifying, Updating, and Deleting Your Information:** We strive to keep our records as accurate as possible. You may, under applicable laws, have a right to access, correct, modify, or request the deletion of your Personal Information from our marketing list at any time. In certain circumstances, you may have the right to object to the processing of your Personal Information. If you have a right under law to access your information, or if you would like to update your information, please call us at (800) 628-6860 or contact us online.
+
+**Tracking Options (including California Do Not Track Disclosures)**
+
+Certain parts of our Platforms require Cookies. You are free to set your browser or operating system settings to limit certain tracking or to decline Cookies, but by doing so, you may not be able to access some of the features we offer. Please refer to your Web browser’s or operating system’s website or “Help” section for more information on how to delete and/or disable your browser or operating system from receiving Cookies or controlling your tracking preferences. On your mobile device, you may use your privacy settings to control the use of more relevant advertising.  Our system may not respond to Do Not Track requests or headers from some or all browsers.
+
+**Your California Privacy Rights**
+
+If you are a California resident, you are entitled by law to request an Information Sharing Disclosure. If you provide notice to the address below, we will provide you with a notice of your right to prevent sharing of your personal information as well as a cost-free means of doing so. To receive such a notice, submit a written request to the address listed in the “Questions/Contact Information” section below, specifying that you seek your "California Customer Choice Notice." Please allow 30 days for a response.
+
+**How We Protect Information**
+
+The Conservancy uses appropriate and reasonable organizational, electronic, physical, administrative, and technical measures to help safeguard Personal Information from unauthorized access or disclosure. We take these and other appropriate precautions to help ensure the security, integrity and confidentiality of customer information. however, no transmission or electronic storage of information can be guaranteed to be 100% secure. If you have reason to believe that your use of the Platforms or engagement with us is no longer secure, please immediately notify us as described in the **“Questions/Contact Information”** section below.
+
+**Children’s Privacy**
+
+This Website is not directed toward children under 13 years of age nor does The Nature Conservancy knowingly collect information from children under 13.  If you are under 13, please do not submit any personally identifiable information to The Nature Conservancy.
+
+**Third Party Content and Links**
+
+Our Platforms may contain links to third-party websites, applications, or similar technology that are not associated with or over which the Conservancy has no control. Any access to and use of such linked websites is not governed by this Statement, but instead is governed by the privacy statements of those third party websites. We are not responsible for the information practices or content of these other websites and/or applications.
+
+**Changes to this Privacy Statement**
+
+The Conservancy may, from time to time, amend this Privacy Statement. We will post any revisions to the Platforms, and we advise you to check back periodically. The “Effective Date” reference at the top of this page indicates when we last revised this Privacy Statement. Any changes to this Privacy Statement will become effective when we post the revised Privacy Statement on the Platforms. Your continued use of the Platforms or engagement in the Interactions after we implement such changes will also constitute your affirmative consent to the revised Privacy Statement.
+
+**Questions/Contact Information**
+
+If you have any questions, concerns, or suggestions regarding this Privacy Statement or our privacy practices, you may contact us online, send us an email at member@tnc.org, call our Member Care Team toll-free at 1 (800) 628-6860 Monday through Friday between 9:00 am and 5:00pm Eastern Time, or write us at:
+
+Attn: Member Care Team  
 The Nature Conservancy   
 4245 N. Fairfax Drive   
 Suite 100   
-Arlington, VA  22203 USA
+Arlington, VA  22203
 
-**Links:**  The Website contains links to third-party websites.  The Nature Conservancy is not responsible for the privacy practices or the content of such websites.   
- **Emails:**  This privacy policy applies to the Website and is inapplicable to information that you may send to The Nature Conservancy by email or other means of communication.  We may retain your emails or other communications in order to process your inquiries, respond to your requests and improve our services.
-
-**Contacts:**  If you have any questions, concerns, or suggestions regarding this privacy policy, please **contact us online** to send us an email or call our Member Care Team toll-free at 1 (800) 628-6860 Monday through Friday between 9:00 am and 5:00pm Eastern Time.
+Please note that you may be required to prove your identity before we can fulfill your request.
 
 Donate to The Nature Conservancy
 
