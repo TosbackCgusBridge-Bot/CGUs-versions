@@ -1,1 +1,3 @@
-Marqueemedia.com Privacy Policy
+Your browser does not support frames. We recommend upgrading your browser.  
+  
+Click here to enter the site.
