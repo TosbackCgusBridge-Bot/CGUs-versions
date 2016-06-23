@@ -14,13 +14,10 @@ This Privacy Policy describes:
 USER CONSENT AND INCORPORATION
 
   
-  
-  
 **PLEASE REVIEW THIS PRIVACY POLICY CAREFULLY**. By using the Site, you accept the terms of this Privacy Policy and our Terms of Use and consent to our collection, use, disclosure and retention of your information as described in this Privacy Policy. **IF YOU DO NOT AGREE WITH ANY PART OF THIS PRIVACY POLICY OR OUR TERMS OF USE, THEN PLEASE DO NOT USE THE SITE.**
 
 VEHICLE TECHNOLOGIES AND SERVICES. THIRD PARTY SITES
 
-  
   
 **Vehicle Technologies and Services**  
   
@@ -34,13 +31,11 @@ Hyundai may offer links to or from the Site to other websites within the Hyundai
 EFFECTIVE DATE AND CHANGES TO PRIVACY POLICY
 
   
-  
 The Effective Date of this Privacy Policy is set forth at the top of this webpage. Hyundai reserves the right to change this Privacy Policy at any time. Hyundai will use, share, and disclose all personal and other user information in accordance with the Privacy Policy in effect at the time the information is collected. We will post any changes to this Privacy Policy on this page so check back frequently so that you are always aware of what information we collect, how we use it and under what circumstances we may disclose it. Continued use of this Site following changes to these terms will mean that you accept the changes.  
   
 
 INFORMATION WE COLLECT
 
-  
   
 You can visit the Site to read about our vehicles or use our online tools without providing any Personally Identifiable Information (other than, in some cases, your zip code). You may also choose to participate in activities and obtain services on the Site for which we may collect Personally Identifiable Information. We also collect Non-Personally Identifiable Information automatically when you use the Site.  
   
@@ -52,7 +47,6 @@ You can visit the Site to read about our vehicles or use our online tools withou
 HOW INFORMATION IS COLLECTED
 
   
-  
 **Information You Provide To Us**  
   
 We collect information that you provide to us when you use the Site. The information that we collect and how we process it depends on how you use the Site. We may collect Personally Identifiable Information when you participate in certain activities on the Site or request certain services, including:
@@ -63,7 +57,6 @@ We collect information that you provide to us when you use the Site. The informa
 *   When you contact us
 *   When you otherwise voluntarily provide your Personally Identifiable Information
 
-  
   
 **Information We Collect Automatically**  
   
@@ -103,12 +96,10 @@ Hyundai may also obtain information about you and your vehicle in a number of ot
 *   Relationships you have with Hyundai affiliates and business partners such as XM Satellite Radio and roadside assistance programs
 
   
-  
 In addition, Hyundai dealers (which are all independently owned and operated) and other sources that provide lists of potential vehicle purchasers or current owners may provide to us the information they have regarding you or your vehicle. We use this information to serve your needs through better customer service and to advise you of our products and services.
 
 HOW WE USE INFORMATION
 
-  
   
 We may use your information individually or combine it with other information to generate aggregate statistical information. The primary uses of your information include:
 
@@ -125,7 +116,6 @@ We may use your information individually or combine it with other information to
 
 HOW WE MAY SHARE INFORMATION WITH THIRD PARTIES
 
-  
   
 **Third Party Service Providers, Affiliates and Marketing Partners.**  
   
@@ -167,12 +157,10 @@ Other than the cases above, we won’t disclose your Personally Identifiable Inf
 THE SECURITY OF YOUR INFORMATION
 
   
-  
 We use industry standard security policies, procedures and tools designed to safeguard data submitted through the Site against accidental or intentional loss, theft, unauthorized access, destruction, use, modification and disclosure. However, the security of information transmitted through the Internet can never be guaranteed. We are not responsible for any interception or interruption of any communications through the Internet or for changes to or losses of data. Users of the Site are responsible for maintaining the security of any password, user ID or other form of authentication involved in obtaining access to password protected or secure areas of any of the Site. In order to protect you and your data, we may suspend your use of any of the Site, without notice, pending an investigation, if any breach of security is suspected. Access to and use of password protected and/or secure areas of any of the Site are restricted to authorized users only. Unauthorized access to such areas is prohibited and may lead to criminal prosecution.
 
 YOUR INFORMATION CHOICES
 
-  
   
 You may choose to share your Personally Identifiable Information with us. However, your participation in using our websites and providing Personally Identifiable Information is completely voluntary. You can unsubscribe and opt-out to certain communications and access, or update and delete your contact information, by contacting us at the email address, number or address specified below.  
   
@@ -191,7 +179,6 @@ Hyundai offers you the opportunity to opt-out from receiving promotional email o
 *   You also may write to us directly if you wish to: (a) ask that we not share your Personally Identifiable Information with third parties for marketing purposes. or (b) opt out or request that we cease sending you promotional or other information via calls, mail or email. Such written requests should be sent to Hyundai Motor America/Phoenix, P.O. Box 83835, Phoenix, AZ 85071-3835.
 
   
-  
 At the time information is collected from you, other choices you have about how the information may be used may be explained.  
   
 If you have opted out of receiving future emails from us, we will implement your opt-out request within ten (10) business days of receiving the opt-out request. If you have opted out of receiving future promotional materials by regular mail, we will implement your opt-out request within a commercially reasonable time. In those instances, we will retain your information in a “do not promote” file in our database, and you will receive no further communications from us as required by law.  
@@ -200,35 +187,29 @@ If you have opted out of receiving future emails from us, we will implement your
 YOUR CALIFORNIA PRIVACY RIGHTS
 
   
-  
 Under California Civil Code Section 1798.83, also known as Senate Bill 27, or “Shine the Light” law California residents with whom we have an established business relationship are entitled to request and receive, free of charge, once per calendar year, a copy of Hyundai’s California Information Sharing Disclosure Notice about the customer information we shared, if any, with other businesses for their own direct marketing uses in the previous calendar year. You may call (800) 633-5151 or email us at consumeraffairs@hmausa.com to request a copy. We will provide the requested information to you at your email address in response. Please be aware that not all information sharing is covered by the “Shine the Light” law requirements and only information on covered sharing will be included in our response.
 
 CHILDREN’S PRIVACY
 
-  
   
 We do not knowingly collect or maintain Personally Identifiable Information from any person under the age of thirteen (13) as they are not of driving age. No parts of our Services are directed to or designed to attract anyone under the age of thirteen (13).
 
 DO NOT TRACK
 
   
-  
 The Site does not support Do Not Track at this time. Do Not Track (DNT) is a privacy preference that you can set in your web browser to indicate that you do not want certain information about your webpage visits collected across websites when you have not interacted with that service on the page. For all the details, including how to turn on Do Not Track, visit donottrack.us.
 
 CLASS ACTION WAIVER
 
-  
   
 You may only resolve disputes with us on an individual basis and may not bring and expressly waive bringing a claim as a plaintiff or a class member in a class, consolidated, or representative action. Class arbitrations, class actions, private attorney general actions, and consolidation with other arbitrations are not allowed.
 
 GENERAL PROVISIONS
 
   
-  
 All matters relating to the Site are governed by the laws of the State of California in the United States irrespective of its conflicts of laws provisions. In the event that Hyundai wishes to pursue legal action against you, it may bring such legal action in any federal or state court having jurisdiction. Lawsuits against Hyundai must be brought in federal or state court in Orange County, California.
 
 HOW TO CONTACT US WITH QUESTIONS
 
-  
   
 Please email us at consumeraffairs@hmausa.com, call us at (800) 633-5151, or write us at Hyundai Motor America/Phoenix, P.O. Box 83835, Phoenix, AZ 85071-3835 if you have any questions about this Privacy Policy.
