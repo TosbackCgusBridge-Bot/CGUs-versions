@@ -146,7 +146,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Beginning the journey Find out what it is like to work at HSBC.
     *   Why HSBC? We have a supportive, inclusive and diverse environment.
 
-Internet bankingInternet banking
+Online bankingOnline banking
 
 *   Home
 *   \>
