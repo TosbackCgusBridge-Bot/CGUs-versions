@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14936661486
+true true C14951948079
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p05.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Sun Jun 19 11:15:33 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1c1j4 TIME :->. Wed Jun 22 11:15:33 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,15 +49,67 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Extra 25% Off\* 9 Hours Online Only!
+Today Online Only! | Code: WESHOP3 Extra 25% Off\* Or, Extra 15% Off\* Select Watches, Salon Products, Furniture, Mattresses, Custom Blinds and Shades
 
-June 19 | 5PM CDT - 2AM CDT | Code: SAVING4
+\*Exclusions apply
 
-\*Exclusions and detailsHappy Father's Day Shop Now SportsFanShop
+Get details: 30 to 50% Off Swim for Her
+
+Select styles, orig. $28-$96
+
+Shop Swim for Her 6.99 A.N.A, Stylus and St. John's Bay Tees
+
+Select styles, reg. $14-$16
+
+Shop Tees 30 to 50% Off Bedding
+
+Select styles
+
+Shop Bedding 11.99 All St. John's Bay Solid Polos
+
+reg. $26
+
+Shop St. John's Bay Solid Polos 19.99 Bras
+
+Select styles, reg. $30-$40
+
+Shop Bras 60% Off Gold Jewelry
+
+Select styles
+
+Shop Gold Jewelry 14.99 Juniors' Arizona Shorts
+
+Select styles, reg. $26-$30
+
+Shop Juniors' Arizona Shorts 50% Off Kids' Arizona Apparel
+
+Select styles, reg. $10-$46
+
+Shop Kids' Arizona Apparel 7.99 Kids' Xersion Graphic Tees
+
+Select styles, reg. $16
+
+Shop Kids' Xersion Graphic Tees 34.99 Clarks Sandals
+
+Select styles, reg. $35, excluded from coupon
+
+Shop Clarks Sandals 40 to 50% Off Curtains and Drapes
+
+Select styles
+
+Shop Curtains and Drapes 16.99 Guys' Arizona Flat-Front Shorts
+
+Select styles, reg. $34
+
+Shop Guys' Arizona Flat-Front Shorts Home Sale 30 to 50% Off
+
+Select styles
+
+Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop: Dorm Life Shop All Dorm: Sephora Shop Men's Cologne: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play
+Shop SportsFanShop: Dorm Life Shop All Dorm: Write a Review For Your Chance to Win $1,000 Get Details: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
@@ -115,7 +167,23 @@ ABOUT US
 *   investors
 *   CA Transparency in Supply Chains Act
 
-JCPenney credit card pay bill check balance apply now
+JCPenney credit card pay bill check balance apply now JCPenney is Your One-Stop Shop for Clothing, Furniture, Appliances and More! At JCPenney, we're dedicated to bringing you the very best in stylish and affordable goods. From home furniture and decor to fashionable clothing for women, men and kids--we've got everything you're looking for. Outfit the kitchen with new and improved appliances at unbeatable prices, then shop for the kids from our official Disney store. Your journey towards better value starts now, online or in your closest JCPenney store! Popular Searches
+
+*   labor day sales
+*   homecoming dresses
+*   womens dresses
+*   mens suits
+*   spanx
+*   school uniforms
+*   racerback bra
+*   girls shoes
+*   boys shoes
+*   mens watches
+*   womens watches
+*   curtains &. drapes
+*   mattresses
+*   sports bras
+*   bedding sets
 
 *   copyright
 *   privacy policy
