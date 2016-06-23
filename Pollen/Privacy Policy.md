@@ -1,10 +1,9 @@
-*   Login
-
 *   Home
 *   Forecast
 *   Allergy
 *   Research
 *   Tools
+*   Login
 
 No locations found Advertisement Your trust and privacy is of the greatest importance to Pollen.com
 
@@ -91,4 +90,4 @@ Advertisement Advertisement
 
 Copyright © 2016 IMS Health Incorporated. All rights reserved.
 
-Pollen.com and Allergy Alert are registered trademarks of IMS Health Incorporated. Page last modified: 06/20/2016
+Pollen.com and Allergy Alert are registered trademarks of IMS Health Incorporated. Page last modified: 06/23/2016
