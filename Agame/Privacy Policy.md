@@ -76,10 +76,10 @@ Explore Games
     
     *   Let's Fish!
     *   WeSpin
-    *   My Dolphin Show
-    *   SuperSnake.io
-    *   Flick Color
-    *   Anime Legends 2
+    *   Diep.io
+    *   My Dolphin Show 8
+    *   Papa's Bakeria
+    *   Pixel Warfare 5
     
     Mobile Apps More
     
