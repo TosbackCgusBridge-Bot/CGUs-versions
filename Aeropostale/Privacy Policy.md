@@ -6,9 +6,7 @@ Aéropostale
     *   Meet Aly Raisman
     *   Red White &. Blue Crush
     *   Swim
-    *   Bethany Mota
     *   Scene Stealers
-    *   Borrowed from the Boys
     *   Uniform
     *   Online Only
     *   Plus Sizes
