@@ -87,6 +87,7 @@ Change country/language X
     *   Maintenance plan benefits
     *   Support offerings
     *   Educational institutions
+    *   Financing
 *   About Autodesk
     *   Careers
     *   Company
