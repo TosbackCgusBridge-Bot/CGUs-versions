@@ -192,58 +192,32 @@ Start Here
 *   Trade-In Appraisal
 *   View a Brochure
 
-Design
+What Makes a Subaru  
 
-featuring Symmetrical AWD
+Find out what sets Subaru apart from the competition.
 
- 
+Life with Subaru  
 
-Learn about everything that goes into designing a Subaru.
+There’s always an experience, story, or benefit to enjoy when you own a Subaru.
 
-Technology
+*   Engineering &. Technology
+*   SUBARU STARLINK™  
+    In-Vehicle Technology
+*   EyeSight® Driver Assist Technology
+*   Reviews &. Awards
 
-featuring STARLINK™
-
- 
-
-Explore intuitive options that can make your life easier.
-
-Safety
-
-featuring EyeSight®
-
- 
-
-See what a Subaru can do to protect you.
-
-Reviews &. Awards  
-
-See how the experts rate Subaru and our models.
-
-*   All Things Subaru
-    
-    See all the things that make Subaru vehicles so loved.
-    
-*   Environment
-    
-    See what we're doing to be a leader in green initiatives.
-    
-*   Events
-    
-    Search for things to do near you, with the help of Subaru.
-    
-*   Partnerships
-    
-    Learn more about the Subaru partners and charities.
-    
-
-*   Compare Vehicles
+*   Dear Subaru: Owner Stories
 *   Benefits of Ownership
-*   Love Promise
-*   Dear Subaru
-*   Live. Love.
-*   Social Responsibility
+*   Subaru News
+*   Event Calendar
+
+We’re committed to making the world a better place. About the Love Promise
+
 *   Subaru Loves Pets
+*   Subaru Loves the Earth
+*   Subaru Loves to Help
+*   Subaru Loves Learning
+*   Subaru Loves to Care
 
 Company
 
