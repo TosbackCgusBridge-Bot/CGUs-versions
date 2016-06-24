@@ -377,8 +377,8 @@ Press Inquiries
 
 Community Liaison
 
-*   Please contact Krystle
-    *   Email krystle@wikiHow.com
+*   Please contact Anna
+    *   Email anna@wikiHow.com
     *   Call 650-492-8008
 
 This Agreement was last modified on 4, December 2012.
