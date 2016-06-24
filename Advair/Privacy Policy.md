@@ -288,7 +288,6 @@ Menu
         *   Esprit finance program
         *   Esprit commercial program
         *   Esprit R&D and Physician Program
-        *   Quantitative sciences statistics program
         *   Residencies and Fellowships
         *   R&D postdoctoral global training program
     *   Physicians
@@ -385,7 +384,6 @@ Menu
         *   Eggs in manufacturing
         *   God of dreams - from poppy to patient
         *   Flonase: the journey from prescription to OTC
-        *   Ten cool things
     *   Our planet
         *   Our planet
         *   Heeding the warning: big/small changes to get to carbon neutral
