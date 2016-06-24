@@ -74,8 +74,8 @@ Explore Games
     
     Hot Games
     
-    *   Let's Fish!
-    *   WeSpin
+    *   Dreamfields
+    *   Slotomania
     *   Diep.io
     *   My Dolphin Show 8
     *   Papa's Bakeria
