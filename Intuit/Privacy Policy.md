@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14951948079
+true true C14956194579
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1c1j4 TIME :->. Wed Jun 22 11:15:33 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p07.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Thu Jun 23 11:15:32 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,67 +49,39 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Today Online Only! | Code: WESHOP3 Extra 25% Off\* Or, Extra 15% Off\* Select Watches, Salon Products, Furniture, Mattresses, Custom Blinds and Shades
+JCPenney Rewards Rewards Members Shop and Get a $10 Bonus Reward
 
-\*Exclusions apply
+When you spend $50 or more in store or online through June 26.
 
-Get details: 30 to 50% Off Swim for Her
+Get details: 4.99 Juniors' &. Guys' Arizona Tees, Tanks &. Camis and Kids' Arizona Tees
 
-Select styles, orig. $28-$96
+Select styles, reg. $12-$14
 
-Shop Swim for Her 6.99 A.N.A, Stylus and St. John's Bay Tees
+Shop Juniors   Shop Guys   Shop Boys Shop Girls   40 to 50% Off Sandals for the Family
 
-Select styles, reg. $14-$16
+Select styles.
 
-Shop Tees 30 to 50% Off Bedding
+Shop Sandals for the Family Buy 1 Get 1 For .01 Select JCPenney Home Bath Towels, Bath Rugs, Bed Pillows, Cooks Open-Stock Cookware, Small Appliances and All Ready-Made Curtains\*
 
-Select styles
+reg. $8-$175, small appliances excluded from coupon
 
-Shop Bedding 11.99 All St. John's Bay Solid Polos
+Shop Now Shop Bath Shop Pillows Shop Kitchen and Dining Shop Ready-Made Curtains
 
-reg. $26
+\*Buy one home item at regular price, get a second home item of equal or lesser value for 1 cent, while supplies last.
 
-Shop St. John's Bay Solid Polos 19.99 Bras
+40 to 50% Off Izod Uniforms
 
-Select styles, reg. $30-$40
+Select styles, sale 9.99-20.99, reg. $20-$36
 
-Shop Bras 60% Off Gold Jewelry
-
-Select styles
-
-Shop Gold Jewelry 14.99 Juniors' Arizona Shorts
-
-Select styles, reg. $26-$30
-
-Shop Juniors' Arizona Shorts 50% Off Kids' Arizona Apparel
-
-Select styles, reg. $10-$46
-
-Shop Kids' Arizona Apparel 7.99 Kids' Xersion Graphic Tees
-
-Select styles, reg. $16
-
-Shop Kids' Xersion Graphic Tees 34.99 Clarks Sandals
-
-Select styles, reg. $35, excluded from coupon
-
-Shop Clarks Sandals 40 to 50% Off Curtains and Drapes
-
-Select styles
-
-Shop Curtains and Drapes 16.99 Guys' Arizona Flat-Front Shorts
-
-Select styles, reg. $34
-
-Shop Guys' Arizona Flat-Front Shorts Home Sale 30 to 50% Off
-
-Select styles
-
-Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   SportsFanShop
+Shop Boys   Shop Girls   SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop: Dorm Life Shop All Dorm: Write a Review For Your Chance to Win $1,000 Get Details: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play
+Shop SportsFanShop: Dorm Life Shop All Dorm: 50 to 70% Off Clearance
+
+In Store and Online
+
+Shop Clearance Now Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
