@@ -10,23 +10,25 @@ Navigation
     *   FarmVille 2
     *   FarmVille 2 Country Escape
     *   FarmVille Harvest Swap
-    *   Free Slots
     *   Gems With Friends
     *   Hanging With Friends
-    *   Hit It Rich!
+    *   Ice Age: Arctic Blast
     *   Looney Tunes Dash
     *   Matching With Friends
-    *   Princess Bride Slots
     *   Speed Guess Something
-    *   Spin It Rich
     *   What's The Phrase
-    *   Willy Wonka Slots
     *   Wizard of Oz Magic Match
-    *   Wizard of Oz Slots
     *   Word Streak With Friends
     *   Words On Tour
     *   Words With Friends
     *   Yummy Gummy
+*   CASINO
+    *   Free Slots
+    *   Hit It Rich!
+    *   Princess Bride Slots
+    *   Spin It Rich
+    *   Willy Wonka Slots
+    *   Wizard of Oz Slots
     *   Zynga Poker
     *   Zynga Poker Classic
 *   COMPANY
