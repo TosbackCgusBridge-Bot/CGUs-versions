@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Amazing Water Dogs to the Rescue!**
+**Inside the Troll: The Science of Being an Awful Person**
 
-**There's One Terrific Reason to Race Camels Using Robot Jockeys**
+**Fingerprint ID System for Babies Being Developed**
 
-**Breaking the Law to Enforce It: Cops and the Supreme Court**
+**This Rare Giraffe Is Losing More of Its Color Every Year**
 
 **See More Headlines »**
 
