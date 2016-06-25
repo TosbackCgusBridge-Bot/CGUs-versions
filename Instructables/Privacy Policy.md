@@ -110,6 +110,7 @@ Legal Notices &. Trademarks
 
 *   Maintenance Plan, Subscription and Enterprise support terms and conditions
 *   Terms of Service: Autodesk Digital Distribution Web Services
+*   Terms of service: A360 and other web services
 *   Website Terms of Use
 *   Privacy Statement
 *   Copyright Information
@@ -123,6 +124,7 @@ Legal Notices &. Trademarks
 *   Autodesk Terms and Conditions Governing the Provision of Consulting Services
 *   Online Purchases and Auto-Renewal Terms and Conditions
 *   Legal Disclosures
+*   Terms of service: A360 and other web services
 
   Privacy Statement - UPDATED APRIL 24, 2015
 
