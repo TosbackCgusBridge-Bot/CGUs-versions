@@ -30,14 +30,14 @@ A Global Message! ×
 
 *   Featured
 
-*   New Arrivals
 *   Shop By Brand
-*   Get Fitted
-*   Shop by Outfit
-*   Shop the Shoot
 *   Promotions
+*   Buckle Exclusive
+*   Factory Seconds
+*   Shop by Outfit
 *   Shop Instagram
-*   Sale
+*   Buckle Select
+*   Plus Sizes
 
 *   Tops
 
@@ -84,14 +84,13 @@ Buy a Buckle Gift card
 
 *   Featured
 
-*   New Arrivals
-*   Shop By Brand
-*   Get Fitted
+*   Buckle Exclusive
 *   Shop by Outfit
-*   Shop the Shoot
-*   Promotions
 *   Shop Instagram
-*   Sale
+*   Shop by Brand
+*   Promotions
+*   Factory Seconds
+*   Buckle Select
 
 *   Tops
 
