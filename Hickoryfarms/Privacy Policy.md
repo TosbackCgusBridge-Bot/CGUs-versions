@@ -157,9 +157,9 @@ My Account
 
 Guarantees
 
-*   Security
-*   Substitution Policy
 *   100% Satisfaction
+*   Substitution Policy
+*   Security
 
 Privacy
 
