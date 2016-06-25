@@ -75,9 +75,9 @@ Discover the a6300 Camera
 
 Sony on Twitter
 
-RT @WatchDeadRising: Brace yourself for a non-stop thrill ride—#DeadRisingEndgame is NOW STREAMING #OnCrackle!
+What ya gonna bid on…#Ghostbusters movie premiere that’s what.
 
-2016-06-21 05:22:30+00:00
+2016-06-24 15:36:01+00:00
 
 View Tweet
 
@@ -145,9 +145,9 @@ Watch Pilot Episode Now
 
 Sony on Twitter
 
-Hear what real users had to say about their experiences w/ the #FS5 &. #FS7 4K camcorders.
+One week left! Enter the My Road to Greatness contest and bring some of the games we showed at E3 to your home town.
 
-2016-06-21 00:05:08+00:00
+2016-06-25 06:21:04+00:00
 
 View Tweet
 
@@ -265,9 +265,9 @@ See the LED Bulb Speaker
 
 Sony on Twitter
 
-Be smart this #festival season with a few of these essentials.
+Watch the new video for "Mayisha (So Long)" from @robertglasper @fatbellybella &. @milesdavis.
 
-2016-06-21 00:00:44+00:00
+2016-06-25 06:45:17+00:00
 
 View Tweet
 
