@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Inside the Troll: The Science of Being an Awful Person**
+**Thought Experiment: What's Our Transhuman Path Beyond Earth?**
 
-**Fingerprint ID System for Babies Being Developed**
+**How Video Games Can be Used in Political Persuasion**
 
-**This Rare Giraffe Is Losing More of Its Color Every Year**
+**Childhood Moves Linked With Negative Life Outcomes, Study Finds**
 
 **See More Headlines »**
 
