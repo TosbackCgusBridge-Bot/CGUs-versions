@@ -32,12 +32,12 @@ Menu
     *   Borrow Expand Borrow Menu Mortgages &. Home Equity
         
         *   Borrow Home
-        *   Home Loans Overview
+        *   Mortgages Overview
         *   Mortgage Rates
-        *   Mortgage Calculators
-        *   Learn More About Mortgages
+        *   Refinance Overview
+        *   Refinance Rates
         *   Home Equity Overview
-        *   Home Equity Rates &. Loans
+        *   Home Equity Rates
         
         Auto Financing
         *   Auto Finance Overview
