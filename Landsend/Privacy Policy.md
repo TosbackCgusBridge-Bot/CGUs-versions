@@ -164,7 +164,6 @@
     *   Swim Shop
     *   Backpacks &. Lunch Boxes
     *   School Uniforms
-    *   Shoes &. Sandals
     *   Boys' Iron Knee
     *   Girls' Knit Kit
     *   Sale
@@ -465,7 +464,6 @@
     *   Swim Shop
     *   Backpacks &. Lunch Boxes
     *   School Uniforms
-    *   Shoes &. Sandals
     *   Boys' Iron Knee
     *   Girls' Knit Kit
     *   Sale
