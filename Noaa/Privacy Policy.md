@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather 'See a Flash, Dash Inside!' New lightning safety slogan rolls out Oceans &. Coasts Infographic: How does climate change affect coral reefs? National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather 6 steps to summer safety Weather 'See a Flash, Dash Inside!' New lightning safety slogan rolls out National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms U.S. coral reefs facing warming waters, increased bleaching Hotter-than-normal ocean temperatures continue for 3rd consecutive year AROUND NOAA // It’s all systems go for NOAA’s first space weather satellite Summer roars in with a vengeance over U.S. Southwest Get Into Your Sanctuary days: June 25-26, 2016
+Enter Search Terms Celebrate Shark Week with NOAA Fisheries AROUND NOAA // Video: A symphony of sharks! Feast your eyes and ears on this June 30: Ask NOAA experts about coral bleaching on reddit U.S. coral reefs facing warming waters, increased bleaching
 
 *   About our agency
 *   News and features
