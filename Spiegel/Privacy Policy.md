@@ -7,7 +7,7 @@
 *   Forum
 *   English
 *   DER SPIEGEL
-*   SPIEGEL TV
+*   SPIEGEL Plus
 *   Abo
 *   Shop
 
