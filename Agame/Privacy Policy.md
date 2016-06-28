@@ -1,9 +1,12 @@
-Categories
+Explore Games
 
 *   Home
 *   Multiplayer
     *   Social Games
     *   2 player
+    *   Casino Games
+    *   MMO &. Strategy
+    *   .io Games
 *   Action
     *   Arena Fighting
     *   Anime and Manga Games
@@ -56,38 +59,9 @@ Categories
     *   Soccer
     *   Boxing
 
-Sign In Categories
-
-*   {text} ({games\_number})
-    
-
-Games
-
-*   {text}
-    
-
-View more results
-
 *   For you
     
-*   Specials
-    
-*   Multiplayer
-    
-*   Action
-    
-*   Adventure
-    
-*   Puzzle
-    
-*   Girls
-    
-*   Racing
-    
-*   Sports
-    
-
-*   For you
+    For you
     
     My last played games
     
@@ -96,7 +70,9 @@ View more results
     Are you a existing user? Then log in to see you favorited games here! Don't have an account yet? Be sure to sign up to use this feature.
     
     Join for free
-*   Hot Games
+*   Specials
+    
+    Hot Games
     
     *   Dreamfields
     *   Slotomania
@@ -116,7 +92,9 @@ View more results
     
     Specials
     
-*   Top Categories
+*   Multiplayer
+    
+    Top Categories
     
     *   Social Games
     *   2 player
@@ -131,13 +109,15 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Forge of Empires
-    *   WeSpin
-    *   Goodgame Empire
-    *   Goodgame Poker
-    *   Klondike
-    *   Family BarnSpotlight Slotomania
-*   Top Categories
+    *   Family Barn
+    *   Harvest Honors Classic
+    *   Pyramid Solitaire Duel
+    *   Crystical
+    *   Klondike - the lost expedition
+    *   Goodgame PokerSpotlight Forge of Empires
+*   Action
+    
+    Top Categories
     
     *   Arena Fighting
     *   Anime and Manga Games
@@ -160,7 +140,9 @@ View more results
     *   Super Mechs
     *   Sniper Team 2
     *   Mighty Knight 2Spotlight Hero Simulator: Idle Adventure
-*   Top Categories
+*   Adventure
+    
+    Top Categories
     
     *   Platform Games
     *   Physics
@@ -183,7 +165,9 @@ View more results
     *   Lego Star Wars Adventure
     *   Tomb Runner
     *   Stealth HunterSpotlight Easy Joe World
-*   Top Categories
+*   Puzzle
+    
+    Top Categories
     
     *   Casino Games
     *   Hidden Objects
@@ -206,7 +190,9 @@ View more results
     *   Spider Soli
     *   Jewel Academy
     *   3D MahjongSpotlight Mahjong Chain
-*   Top Categories
+*   Girls
+    
+    Top Categories
     
     *   Animal Games
     *   Beauty Games
@@ -230,7 +216,9 @@ View more results
     *   My New Room 2
     *   Disney Descendants: Smarte Couture
     *   Gingerbread House: Sara's Cooking ClassSpotlight My Dolphin Show 8
-*   Top Categories
+*   Racing
+    
+    Top Categories
     
     *   BMX Games
     *   Truck Games
@@ -254,7 +242,9 @@ View more results
     *   Bus Man Parking 3D
     *   ATV Destroyer
     *   FMX TeamSpotlight Car Eats Car 2: Mad Dreams
-*   Top Categories
+*   Sports
+    
+    Top Categories
     
     *   Athletics
     *   Basketball
@@ -279,7 +269,17 @@ View more results
     *   Baseball
     *   SnookerSpotlight England Soccer League
 
-privacy policy
+Sign In Categories
+
+*   {text} ({games\_number})
+    
+
+Games
+
+*   {text}
+    
+
+View more results privacy policy
 
 *   Home
 *   privacy policy
