@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Thought Experiment: What's Our Transhuman Path Beyond Earth?**
+**Hear and Now: More Shampoo for You!**
 
-**How Video Games Can be Used in Political Persuasion**
+**Before Brexit, Have Other Countries Left the EU?**
 
-**Childhood Moves Linked With Negative Life Outcomes, Study Finds**
+**Study: Eye Movements Reflect Numerical Values in Blackjack Hands**
 
 **See More Headlines »**
 
