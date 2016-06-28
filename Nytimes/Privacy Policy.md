@@ -1,8 +1,8 @@
-campaign: inyt2016\_Bar1\_digi\_Q2Blitz\_66XUL -- 283863, creative: inyt2016\_Bar1\_digi\_Q2Blitz\_66XUL\_LC -- 413927, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
+campaign: inyt2016\_Bar1\_digi\_Q2Blitz\_66XUL -- 283863, creative: inyt2016\_Bar1\_digi\_Q2Blitz\_66XUL\_ends -- 413926, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
 
 *   1 of 10 articles read
 *   Subscribe Now Ready to dive in? Get 60% off for one year.  
-    SAVE NOW Last chance
+    SAVE NOW Ends today
 
 Subscribe*   Help
 
