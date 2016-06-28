@@ -135,15 +135,15 @@ Up to
 
 Crosstrek Hybrid Touring Shown
 
-Outback $24,995 starting price 2016 Outback
+Outback $25,645 starting price 2017 Outback
 
 Starting at
 
-$24,995 MSRP
+$25,645 MSRP
 
 Up to
 
-33/25 MPG Hwy/City
+32/25 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
