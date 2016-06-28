@@ -100,13 +100,15 @@ Mon, Jul 11, 2016 IoT Evolution Expo
 
 OTA Members - 30% off registration using the link here. Through informative conference tracks, an IoT Exhibition floor, case studies, special events, networking and more, the IoT Evolution Expo is the ultimate venue for attendees to gain an understanding on how the Internet of Things (IoT) will be the driving force behind improving efficiencies, driving revenue opportunities and solving business problems across multiple industries and all business functional areas.Meet with the IoT ecosystem and worldwide business leaders and learn how to leverage the power of the IoT to transform and
 
-Wed, Sep 7, 2016 FTC Fall Technology Series: Ransomware
+Mon, Jul 11, 2016 RSA Conference Webcast: OTA Online Trust Audit &. Honor Roll
 
-With alarming frequency, ransomware hackers are sneaking into consumer and business computers, encrypting files containing photos, documents and other important data, and then demanding a ransom in exchange for the key needed to decrypt the files. At times, these hackers pose as the FBI or other law enforcement officials and claim that the ransom is a “fine” for viewing illegal material and that failure to pay the “fine” will result in criminal prosecution.
+OTA provides a look into the 2016 Audit &. Honor Roll results for RSA Conference webcast audiences. The Online Trust Audit evaluates nearly 1,000 websites against over 50 detailed metrics to analyze security, privacy and consumer protection practices.  Now in its 8th year, the 2016 Audit set an even higher bar and companies achieving prestigious Honor Roll status show exceptional commitment to best practices and trust leadership. Discover the top 10 achievers, hear results and understand trends in consumer trust.
 
-Wed, Dec 7, 2016 Fall Technology Series: Smart TV
+Wed, Jul 20, 2016 Email Deep Dive: 2016 Online Trust Audit
 
-Consumers enjoy recommendations based on their television viewing habits (“viewers who watched Mr. Robot… may enjoy Fight Club”), but who else knows what you’re watching? The golden age of television has arrived with the golden age of television tracking. In 2016, virtually all television delivery systems – smart TVs, streaming devices, game consoles, apps, and even old-fashioned set top boxes – track consumers’ viewing habits, and sometimes in new and unexpected ways.
+Join OTA's deep dive into top trends in email security and authentication best practices seen in the 2016 Online Trust Audit. This webinar will provide insights into the adoption and implementation of SPF, DKIM and DMARC as well as TLS and related technologies to help protect consumers and users from receiving malicious email. Speakers will share key learnings and provide recommendations. Learn why email best practices strengthen your brand reputation, consumer trust and marketing effectiveness.
+
+More >>.
 
 *   OTA Blog
 *   Newsletters
