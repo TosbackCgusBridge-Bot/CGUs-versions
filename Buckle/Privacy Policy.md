@@ -30,14 +30,14 @@ A Global Message! ×
 
 *   Featured
 
-*   Shop By Brand
-*   Promotions
-*   Buckle Exclusive
-*   Factory Seconds
 *   Shop by Outfit
+*   Shop By Brand
+*   Buckle Exclusive
 *   Shop Instagram
-*   Buckle Select
 *   Plus Sizes
+*   Buckle Select
+*   Factory Seconds
+*   Promotions
 
 *   Tops
 
