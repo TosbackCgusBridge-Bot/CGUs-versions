@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Hear and Now: More Shampoo for You!**
+**SpotMini: A Robot Dog Capable of Doing Dishes, Delivering Drinks**
 
-**Before Brexit, Have Other Countries Left the EU?**
+**This One's More Than Two Months' Salary: World's Largest Diamond Up for Auction**
 
-**Study: Eye Movements Reflect Numerical Values in Blackjack Hands**
+**Hackers Turn Computer Fans Into Snitches**
 
 **See More Headlines »**
 
