@@ -41,7 +41,89 @@ SONY
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! Get a 360-Degree View of Key West, Florida, in Jake Owen's New Video
+Your browser does not support JavaScript! Making Gamers' Dreams Come True, One ShowStopper at a Time
+
+See Other Sony Rewards VIP Experiences
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Have Your Own VIP ShowStopper Experience
+
+Join Sony Rewards
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Join Sony Rewards
+
+The Points Are Strong
+
+Start Earning
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Start Earning
+
+Sony on Twitter
+
+Time to Reward yourself with #SonyRewards points. Learn how.
+
+2016-06-23 14:54:01+00:00
+
+View Tweet
+
+Have a PSN Account?
+
+Link It for Rewards
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Link It for Rewards
+
+Snap, Click, Earn: Discover a New Way to Get Points
+
+Download the Sony Rewards App
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Download the Sony Rewards App
+
+Get a 360-Degree View of Key West, Florida, in Jake Owen's New Video
 
 Watch More Music Videos
 
