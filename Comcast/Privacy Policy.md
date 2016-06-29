@@ -1,4 +1,9 @@
-For Cable Video, High-Speed Internet, Phone, and Home Security Services  
+Comcast Customer Privacy Notice For Cable Video, High-Speed Internet, Phone, and Home Security Services  
+  
+
+Download privacy notice:  
+English (PDF) | Spanish (PDF)
+
   
 Summary of this privacy notice  
   
