@@ -99,7 +99,8 @@ Sections Scores News Video Stats Standings Schedule Players Vote Tickets Apps Sh
     *   General Ticket Information
     *   Postseason Ticket Refund Policies
     *   Autism Awareness
-    *   StubHub.comBank of America 2016 Schedule
+    *   StubHub.com
+    *   Fort Bragg Tickets Terms &. ConditionsBank of America 2016 Schedule
 *   Apps Apps Apps
     *   At Bat app
     *   At Bat on Tablets
