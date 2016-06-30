@@ -14,7 +14,7 @@ Search Term
 *   Online &. Mobile Security link and menu. Press enter to navigate to this link. Press control + space to open submenu. To move through submenu items press tab and then press up or down arrow. Online Banking Security Mobile Banking Security Email Fraud Trusteer Rapport®Free fraud protection while signed in to Online Banking SafePass®Authorize transactions using secure one-time Passcodes End of submenu
 *   Report a Problem link and menu. Press enter to navigate to this link. Press control + space to open submenu. To move through submenu items press tab and then press up or down arrow. Report a Suspicious Email Report a Lost or Stolen Card Resolve Identity Theft Understand Data Compromise Resources FAQs Glossary External Links End of submenu
 
-Bank of America Privacy and Security Get information about privacy and security at Bank of America. Learn how we can help you protect your accounts and what you can do to help stay secure. bank of america security, bank of america privacy notice, bank of america privacy and security Bank of America Privacy and Security Working together to keep your information protected
+Bank of America Privacy and Security Get information about privacy and security at Bank of America. Learn how we can help you protect your accounts and what you can do to help stay secure. bank of america security, bank of america privacy notice, bank of america privacy and security Bank of America Privacy and Security Constantly advancing our technology
 
 How we help keep your everyday banking secure:
 
@@ -24,7 +24,7 @@ Prevent card fraud
 
 Safeguard info across devices
 
-Report a lost or stolen card Report a suspicious email What you can do to stay secure: Visit your Security Center Learn how to set alerts, update Passcode and manage security—all in one place Set your privacy choices Manage marketing and information-sharing settings Help ensure you're on the real Bank of America site Know what to look for before you sign in Get a free online security tool Find out how to get Trusteer Rapport fraud protection
+Report a lost or stolen card Report a suspicious email What you can do to stay secure: Learn about your Security Center Learn how to set alerts, update Passcode and manage security—all in one place Set your privacy choices Manage marketing and information-sharing settings Help ensure you're on the real Bank of America site Know what to look for before you sign in Get a free online security tool Find out how to get Trusteer Rapport fraud protection
 
 *   U.S. Online Privacy Notice
 *   U.S. Consumer Privacy Notice
@@ -309,7 +309,7 @@ Review requirements
 
 Hide More Resources
 
-*   Stay protected with our Online Banking Security Guarantee
+*   Online and Mobile Banking Security Guarantee
 *   Watch our video "Keeping Your Financial Info Safe"
 
 Hide Protect your PC
