@@ -110,7 +110,6 @@ Legal Notices &. Trademarks
 
 *   Maintenance Plan, Subscription and Enterprise support terms and conditions
 *   Terms of Service: Autodesk Digital Distribution Web Services
-*   Terms of service: A360 and other web services
 *   Website Terms of Use
 *   Privacy Statement
 *   Copyright Information
