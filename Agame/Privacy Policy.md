@@ -98,12 +98,12 @@ View more results
     Join for free
 *   Hot Games
     
-    *   Dreamfields
-    *   Slotomania
-    *   Diep.io
-    *   My Dolphin Show 8
-    *   Papa's Bakeria
-    *   Pixel Warfare 5
+    *   Elvenar
+    *   Vegas World
+    *   SuperSnake.io
+    *   Happy Wheels
+    *   Minecraft HTML5
+    *   1941 Frozen Front
     
     Mobile Apps More
     
