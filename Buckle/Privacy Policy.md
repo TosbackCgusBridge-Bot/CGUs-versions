@@ -80,7 +80,7 @@ A Global Message! ×
 
   
   
-Buy a Buckle Gift card
+Give a Buckle Gift card
 
 *   Featured
 
@@ -129,7 +129,7 @@ Buy a Buckle Gift card
 
   
   
-Buy a Buckle Gift card
+Give a Buckle Gift card
 
 *   Featured
 
@@ -156,7 +156,7 @@ Buy a Buckle Gift card
 *   Shoes
 *   Show All Boy's Clothes
 
-Buy a Buckle Gift card
+Give a Buckle Gift card
 
 *   Women's Jeans
 
@@ -183,7 +183,7 @@ Buy a Buckle Gift card
 
   
   
-Buy a Buckle Gift card
+Give a Buckle Gift card
 
 *   Women's New
 
@@ -214,7 +214,7 @@ Buy a Buckle Gift card
 *   Boy's New Jeans
 *   Show All Boy's New
 
-Buy a Buckle Gift card
+Give a Buckle Gift card
 
 *   Women's Sale
 
@@ -245,7 +245,7 @@ Buy a Buckle Gift card
 *   Boy's Sale Jeans
 *   Show All Boy's Sale
 
-Buy a Buckle Gift card Buckle.com just got a makeover. Tell us what you think. Send Feedback.  
+Give a Buckle Gift card Buckle.com just got a makeover. Tell us what you think. Send Feedback.  
 Need help? Contact Guest Services at 1.800.607.9788 or email guest.services@buckle.com. Privacy &. Security
 
 **Privacy &. Security Policy**  
