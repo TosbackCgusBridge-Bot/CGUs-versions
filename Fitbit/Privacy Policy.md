@@ -1,16 +1,16 @@
 Fitbit
 
 *   Products
-    *   **Everyday**
+    *   **Everyday Fitness**
         *   Fitbit Zip®
         *   Fitbit One®
         *   Fitbit Flex®
         *   Fitbit Charge™
         *   Fitbit Alta™ New
-    *   **Active**
+    *   **Active Fitness**
         *   Fitbit Charge HR™
         *   Fitbit Blaze™ New
-    *   **Performance**
+    *   **Performance Fitness**
         *   Fitbit Surge™
     *   **Wi-Fi** Smart Scale
         *   Fitbit® Aria®
