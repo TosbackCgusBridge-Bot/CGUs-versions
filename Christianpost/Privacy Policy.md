@@ -38,7 +38,7 @@ Site Services
 
 Terms and Conditions of Use
 
-Last updated on April 15 2015
+Last updated on May 27 2016
 
 This page describes the terms and conditions that govern your use of The Christian Post digital properties, including www.ChristianPost.com, mobile sites and applications, offered by The Christian Post and certain of its subsidiaries (“CP”, “us” or “we”).
 
@@ -46,7 +46,7 @@ GENERAL RULES AND DEFINITIONS
 
 Welcome to The Christian Post! As used in these Terms and Conditions, the term "Website" refers to the Website located at www.ChristianPost.com as well as online services that include, but are not limited to, our E-mail newsletters, our archives, our premium online content, our mobile sites and applications, RSS, API, software, other downloads, and our online discussion forums. The Christian Post does not control, and is not responsible for, any third-party site to which the Website links.
 
-You agree that your use of the Website is subject to the following Terms and Conditions. These Terms and Conditions may be changed, added, removed or modified at any time and from time to time, which shall become effective immediately upon posting. the date of the most recent changes or revisions will appear on this page. Continued access to the Website by you will constitute your acceptance of any changes or revisions to the Terms and Conditions. If you do not agree with the Terms and Conditions, please do not use this Website.
+You agree that your use of the Website is subject to the following Terms and Conditions. These Terms and Conditions may be changed, added, removed or modified at any time and from time to time, which shall become effective immediately upon posting. the date of the most recent changes or revisions will appear on this page. Continued access to the Website by you will constitute your acceptance of any changes or revisions to the Terms and Conditions. If any of these rules or any future changes are unacceptable to you, please do not use this Website.
 
 We may also change, suspend or discontinue any aspect of the Services at any time, including the availability of any Services feature, database, or content. We may also impose limits on certain features and services or restrict your access to parts or all of the Services without notice or liability.
 
@@ -54,13 +54,13 @@ CONTENT OF THE SERVICES
 
 The materials contained on the Website are provided by The Christian Post as a service to you for your noncommercial, personal use on an "as is, as available" basis and may be used by you for information purposes only. The materials published on the Website (including, but not limited to news articles, photographs, images, illustrations, audio clips and video clips, also known as the “Content”) are protected by copyright, and owned or controlled by The Christian Post or the party credited as the provider of the Content. You shall abide by all additional copyright notices, information, or restrictions contained in any Content accessed through the Website.
 
+The content of Services is owned or licensed to The Christian Post. Certain Content is furnished by The Associated Press, Reuters, which will not be liable for any delays, inaccuracies, errors or omissions in any such Content, or in the transmission or delivery of all or any part thereof, or for any damages arising therefrom.
+
 COPYRIGHT
 
-All materials published on the Website are protected by U.S. and international copyright laws, and may not be reproduced, republished, distributed, transmitted, resold, displayed, broadcast, or otherwise exploited in any manner without the express written permission of either The Christian Post or, in the case of content licensed by The Christian Post from third parties, the entity that is credited as the copyright holder of such licensed content.
+All materials published on the Website are protected by U.S. and international copyright laws, and may not be reproduced, republished, distributed, transmitted, resold, displayed, broadcast, or otherwise exploited in any manner without the express written permission of either The Christian Post or, in the case of content licensed by The Christian Post from third parties, the entity that is credited as the copyright holder of such licensed content.You may download freely accessible material (one copy per page) from this Website for your personal and noncommercial use. or for ministerial or educational purposes only, without altering or removing any trademark, copyright, or other notice from such material. For commercial use, you must pay a fee to access articles from our archives and our premium online content.
 
-You may download freely accessible material (one copy per page) from this Website for your personal and noncommercial use. or for ministerial or educational purposes only, without altering or removing any trademark, copyright, or other notice from such material. For commercial use, you must pay a fee to access articles from our archives and our premium online content.
-
-Permission from The Christian Post for its articles to appear on a non-Christian Post online site is required. You may however use a two-paragraph summary that is no longer than 150 words with a direct link to the full article available on www.ChristianPost.com or the URL that is visible in the browser location/address bar.
+Permission from The Christian Post for its articles to appear on a non-Christian Post online site is required. You may however use a three-paragraph summary that is no longer than 150 words with a direct link to the full article available on www.ChristianPost.com or the URL that is visible in the browser location/address bar.
 
 For any other use, advance permission must be obtained from The Christian Post. Please contact the general administrator for copyright permission via our Contact Us page or by sending a letter and self-addressed envelope to the address below:
 
@@ -85,7 +85,7 @@ The Christian Post's designated Copyright Agent to receive notifications of clai
 Yen-Yi Anderson, Esq.  
 Address: 22 Cortlandt St., 21st Floor, New York NY 10007  
 Email: legal@cmcigroup.com  
-Fax: 202 280 1313.
+Fax: (202) 280-1313.
 
 For clarity, only DMCA notices should go to the Copyright Agent. any other feedback, comments, requests for technical support, and other communications should be directed to The Christian Post customer service through The Christian Post Contact Us page. You acknowledge that if you fail to comply with all of the requirements of this Section 5(D), your DMCA notice may not be valid.
 
@@ -104,7 +104,7 @@ Washington, DC 20005
 
 USER GENERATED CONTENT
 
-The Christian Post, through its blogs, discussion boards and forums, provides users an opportunity to post content to the Website. The Christian Post does not endorse, support, sanction, encourage, or agree with content posted by users. You shall not post or transmit any unlawful threatening, abusive, libelous, defamatory, obscene, vulgar, pornographic, profane, or indecent information of any kind, including without limitation any transmissions constituting or encouraging conduct that would constitute a criminal offense, give rise to civil liability, or otherwise violate and local, state, national, or international law, or infringe upon another's copyright or trademark. You understand that all information, data, text, software, music, sound, photographs, video, messages, or other materials posted or transmitted in a The Christian Post forum, whether publicly posted or privately transmitted, is the sole responsibility of the person from whom such content originated. This means that you, and not The Christian Post, are entirely and solely responsible for all content that you upload, post, or otherwise transmit via the Website. The Christian Post does not and cannot review the content posted by users and is not responsible for such content. However, The Christian Post shall have the right, but not the obligation, to delete, move, or edit any content that violates this agreement or is otherwise objectionable as determined by The Christian Post in its sole discretion and without notice.
+The Christian Post, through its blogs, discussion boards and forums, provides users an opportunity to post content to the Website. The Christian Post does not endorse, support, sanction, encourage, or agree with content posted by users. You shall not post or transmit any unlawful threatening, abusive, libelous, defamatory, obscene, vulgar, pornographic, profane, deliberately disrupt discussions with repetitive messages, meaningless messages or “spam”, or indecent information of any kind, including without limitation any transmissions constituting or encouraging conduct that would constitute a criminal offense, give rise to civil liability, or otherwise violate and local, state, national, or international law, or infringe upon another's copyright or trademark. You understand that all information, data, text, software, music, sound, photographs, video, messages, or other materials posted or transmitted in a The Christian Post forum, whether publicly posted or privately transmitted, is the sole responsibility of the person from whom such content originated. This means that you, and not The Christian Post, are entirely and solely responsible for all content that you upload, post, or otherwise transmit via the Website. The Christian Post does not and cannot review the content posted by all users and is not responsible for such content. However, The Christian Post shall have the right, but not the obligation, to delete, remove, or edit any content that violates this agreement or is otherwise objectionable as determined by The Christian Post in its sole discretion and without notice.
 
 Furthermore, The Christian Post reserves the right to terminate, without notice, subscriber's access for any activity related to threatening to injure, intimidate, interfere with, oppress or otherwise coerce any other person in connection with the free exercise or enjoyment of any right or privilege guaranteed to him or her under the United States or any national or state constitution on account of race, color, religion, ancestry, national origin, disability, gender or sexual orientation or because the subscriber perceives that another has one or more of these characteristics. This includes, but is not limited to, threats to inflict evil, injury or damage on another individual.
 
@@ -129,6 +129,8 @@ The Christian Post does not warrant or make any representations regarding the us
 The Christian Post periodically schedules system downtime for maintenance and other purposes. Unplanned outages also may occur. The Christian Post shall have no liability for the resulting unavailability of the Website or for any loss of data or transactions caused by planned or unplanned system outages, or any outages of webhost providers or the Internet infrastructure and network external to the Website.
 
 ACCESS AND AVAILABILITY OF SERVICES AND LINKS
+
+You may not access or use, or attempt to access or use, the Services to take any action that could harm us or a third party. You may not access parts of the Website to which you are not authorized. You may not attempt to circumvent any restriction or condition imposed on your use or access, or do anything that could disable or damage the functioning or appearance of the Website, including the presentation or display of advertising. Being exposed to advertising is a condition of accessing the Website.
 
 The Website contain links to other related internet sites, resources and advertisers. The Christian Post is not responsible for the availability of these third party resources or contents. If you have any concerns regarding any external links on The Christian Post, please direct them to the site administrator or webmaster of such site.
 
@@ -180,9 +182,17 @@ You may terminate your account at any time. Upon termination, you will receive a
 
 The Christian Post may, in its sole discretion, terminate or suspend your access to all or part of the Website for any reason, including but not limited to, breach or assignment of these Terms and Conditions.
 
-JURISDICTION
+MISCELLANEOUS
 
 You agree that any claim, action, or proceeding arising out of these Terms and Conditions, or your use of the Website, shall be governed by and construed in accordance with the laws of New York applicable to contracts to be wholly performed therein, and any action based on or alleging a breach of this Terms and Conditions must be brought in a state or federal court in New York. In addition, you agree to submit to the personal jurisdiction of such courts.
+
+Notwithstanding any of the foregoing, nothing in these Terms and Conditions of Use will serve to preempt the promises made in The Christian Post Privacy Policy.
+
+PRIVACY POLICY
+
+We use "cookies," Web beacons, HTML5 local storage and other similar technologies. These technologies allow us to manage access to and use of the Services, recognize you and provide personalization, and help us understand how people use the NYT Services. You will not be able to access certain areas of our websites, including NYTimes.com, if your computer does not accept cookies from us. We do not respond to browser-based "do not track" signals. For more detailed information about our use of cookies and local storage, and how to manage them, seeFrequently Asked Questions About Cookies and Similar Technologies in our Help section.
+
+We may transmit non-personally identifiable website usage information to third parties in order to show you advertising for The New York Times when you visit other sites. For more information about our third-party ad server, or to learn your choices about not having this non-personal information used to target ads to you, please click here.
 
 *   About Us
 *   Contact Us
