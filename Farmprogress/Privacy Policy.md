@@ -16,7 +16,7 @@
 *   Beef Producer
 *   Shows
     *   Farm Progress Show
-    *   Hay Expo
+    *   Hay &. Forage Expo
     *   Husker Harvest Days
     *   New York Farm Show
 *   Farm Progress America
