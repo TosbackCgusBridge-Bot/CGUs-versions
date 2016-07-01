@@ -25,7 +25,7 @@ Post a Job Search Resumes Hello. Sign in to find your next hire. Sign In or Sign
 *   More
     *   Sign In
     *   $0.00 Cart
-    *   Contact Us
+    *   Sales: 1.877.345.5256
 
 *   For Job Seekers
 
