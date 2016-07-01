@@ -193,7 +193,8 @@ Corporate
 *   News
 *   Careers
 *   Suppliers
-*   Media Contacts
+*   Pressroom
+*   Public Inspection Files
 
 Frontier Sites
 
