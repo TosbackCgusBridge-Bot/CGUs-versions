@@ -30,13 +30,13 @@ A Global Message! ×
 
 *   Featured
 
+*   New Arrivals
 *   Shop by Outfit
 *   Shop By Brand
 *   Buckle Exclusive
 *   Shop Instagram
 *   Plus Sizes
 *   Buckle Select
-*   Factory Seconds
 *   Promotions
 
 *   Tops
@@ -71,12 +71,14 @@ A Global Message! ×
 *   More
 
 *   Accessories
+*   Watches
 *   Activewear
 *   Bags
 *   Dresses
-*   Fragrance
 *   Swimwear
+*   Fragrance
 *   Show All
+*   Factory Seconds
 
   
   
@@ -84,12 +86,12 @@ Give a Buckle Gift card
 
 *   Featured
 
+*   New Arrivals
 *   Buckle Exclusive
 *   Shop by Outfit
 *   Shop Instagram
 *   Shop by Brand
 *   Promotions
-*   Factory Seconds
 *   Buckle Select
 
 *   Tops
@@ -124,6 +126,7 @@ Give a Buckle Gift card
 *   Hats
 *   Watches
 *   Cologne
+*   Factory Seconds
 *   Bags
 *   Show All
 
