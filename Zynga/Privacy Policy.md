@@ -4,6 +4,7 @@ Navigation
     *   Chess With Friends
     *   Crazy Cake Swap
     *   Crazy Kitchen
+    *   CSR Racing 2
     *   Draw Something
     *   Empires and Allies
     *   FarmVille
