@@ -1,6 +1,6 @@
 To learn about our efforts to improve the accessibility and usability of our website, please visit our Accessibility Information page. Skip to section navigation or Skip to main content Below is an advertisement. 한국어 日本語 Español
 
-Sections Scores News Video Stats Standings Schedule Players Vote Tickets Apps Shop MLB.TV Fantasy Teams
+Sections Scores News Video Stats Standings Schedule Players Vote Tickets Apps Shop MLB.TV Fantasy Auction Teams
 
 *   Scores
 *   News News News
@@ -141,6 +141,7 @@ Sections Scores News Video Stats Standings Schedule Players Vote Tickets Apps Sh
     *   Watch MLB.TV
     *   Buy MLB.TV
     *   View MLB.TV Demo
+    *   Buy Gameday Audio
     *   Alternative Audio
     *   MLB.TV Devices
     *   MLB.TV with Extra Innings
@@ -165,6 +166,7 @@ Sections Scores News Video Stats Standings Schedule Players Vote Tickets Apps Sh
     *   Prospect Watch
     *   Fantasy 411 Blog
     *   Follow @Fantasy411Beat the Streak R.B.I. Baseball 16 DraftKings MLB.com Line Drive MLB.com Home Run Derby Fantasy Player Preview 160x160
+*   Auction
 *   Teams Teams American League AL East
     
     *   Baltimore
