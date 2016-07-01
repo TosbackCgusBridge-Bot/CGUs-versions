@@ -92,10 +92,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Jun 28, 2016 Webinar: 2016 Audit and Honor Roll Highlights
-
-For the internet economy to continue to grow, users must trust that their personal information will be secure and their privacy protected. Join OTA for highlights from the 2016 Online Trust Audit to better understand top level trends in consumer protection, data security and privacy. Speakers will share key learnings and provide recommendations. Now in its 8th year, the Audit illustrates how best practices are good for your brand reputation and consumer trust, while better securing your data from abuse and your site from hacking.
-
 Mon, Jul 11, 2016 IoT Evolution Expo
 
 OTA Members - 30% off registration using the link here. Through informative conference tracks, an IoT Exhibition floor, case studies, special events, networking and more, the IoT Evolution Expo is the ultimate venue for attendees to gain an understanding on how the Internet of Things (IoT) will be the driving force behind improving efficiencies, driving revenue opportunities and solving business problems across multiple industries and all business functional areas.Meet with the IoT ecosystem and worldwide business leaders and learn how to leverage the power of the IoT to transform and
@@ -107,6 +103,10 @@ OTA provides a look into the 2016 Audit &. Honor Roll results for RSA Conferenc
 Wed, Jul 20, 2016 Email Deep Dive: 2016 Online Trust Audit
 
 Join OTA's deep dive into top trends in email security and authentication best practices seen in the 2016 Online Trust Audit. This webinar will provide insights into the adoption and implementation of SPF, DKIM and DMARC as well as TLS and related technologies to help protect consumers and users from receiving malicious email. Speakers will share key learnings and provide recommendations. Learn why email best practices strengthen your brand reputation, consumer trust and marketing effectiveness.
+
+Wed, Sep 7, 2016 FTC Fall Technology Series: Ransomware
+
+With alarming frequency, ransomware hackers are sneaking into consumer and business computers, encrypting files containing photos, documents and other important data, and then demanding a ransom in exchange for the key needed to decrypt the files. At times, these hackers pose as the FBI or other law enforcement officials and claim that the ransom is a “fine” for viewing illegal material and that failure to pay the “fine” will result in criminal prosecution.
 
 More >>.
 
