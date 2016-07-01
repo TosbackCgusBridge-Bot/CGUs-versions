@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Celebrate Shark Week with NOAA Fisheries AROUND NOAA // Video: A symphony of sharks! Feast your eyes and ears on this June 30: Ask NOAA experts about coral bleaching on reddit U.S. coral reefs facing warming waters, increased bleaching
+Enter Search Terms Celebrate Shark Week with NOAA Fisheries AROUND NOAA // Video: A symphony of sharks! Feast your eyes and ears on this U.S. coral reefs facing warming waters, increased bleaching
 
 *   About our agency
 *   News and features
