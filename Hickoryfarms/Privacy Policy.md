@@ -23,7 +23,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Cheese
         *   Cheese (Ball)
     *   Hickory Farms Reserve
-    *   Simply Hickory Farms
     *   Beef Summer Sausage
     *   Turkey Summer Sausage
     *   Dry Salami
@@ -73,7 +72,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Cheese
         *   Cheese (Ball)
     *   Hickory Farms Reserve
-    *   Simply Hickory Farms
     *   Beef Summer Sausage
     *   Turkey Summer Sausage
     *   Dry Salami
@@ -103,7 +101,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gifts Over $90
 *   Specials
 
-Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Order by 3PM EST tomorrow with Overnight delivery for 4th of July.
+Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
 
 1.  Home
 2.  Customer Service
