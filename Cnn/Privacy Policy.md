@@ -104,7 +104,13 @@ U.S. International Español Arabic
 
 Set edition preference:
 
-U.S.InternationalConfirm FacebookTwitterInstagram CNN Privacy Statement
+U.S.InternationalConfirm FacebookTwitterInstagram
+
+Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.
+
+CNN Privacy Statement
+
+Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.
 
 (CNN) **What's New in the Updated Privacy Policy? We have updated the privacy policy applicable to our online and mobile websites, applications, and digital services and clarified data collection, usage and sharing practices among Turner, its affiliates and unaffiliated third parties. Please take the time to read the full privacy statement. You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of our Services (as described below), including when you access any content or videos.**
 
