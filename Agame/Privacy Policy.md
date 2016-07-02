@@ -107,12 +107,12 @@ View more results
     
     Mobile Apps More
     
-    *   Cloud Critters
-    *   Troll Face Quest Video Memes
     *   My Dolphin Show
+    *   Hero Simulator
+    *   Easy Joe World
+    *   Soccer Simulator
+    *   Troll Face Quest Video Memes
     *   Troll Face Quest Unlucky
-    *   Crash Drive 2
-    *   Mad Truck Challenge
     
     Specials
     
@@ -126,8 +126,9 @@ View more results
     
     Browse By
     
-    *   Recently Added
     *   Most popular
+    *   Most played
+    *   Recently Added
     *   Alphabetical Order
     
     Best Games
@@ -149,8 +150,9 @@ View more results
     
     Browse By
     
-    *   Recently Added
     *   Most popular
+    *   Most played
+    *   Recently Added
     *   Alphabetical Order
     
     Best Games
@@ -172,8 +174,9 @@ View more results
     
     Browse By
     
-    *   Recently Added
     *   Most popular
+    *   Most played
+    *   Recently Added
     *   Alphabetical Order
     
     Best Games
@@ -195,8 +198,9 @@ View more results
     
     Browse By
     
-    *   Recently Added
     *   Most popular
+    *   Most played
+    *   Recently Added
     *   Alphabetical Order
     
     Best Games
@@ -219,8 +223,9 @@ View more results
     
     Browse By
     
-    *   Recently Added
     *   Most popular
+    *   Most played
+    *   Recently Added
     *   Alphabetical Order
     
     Best Games
@@ -243,8 +248,9 @@ View more results
     
     Browse By
     
-    *   Recently Added
     *   Most popular
+    *   Most played
+    *   Recently Added
     *   Alphabetical Order
     
     Best Games
@@ -267,8 +273,9 @@ View more results
     
     Browse By
     
-    *   Recently Added
     *   Most popular
+    *   Most played
+    *   Recently Added
     *   Alphabetical Order
     
     Best Games
