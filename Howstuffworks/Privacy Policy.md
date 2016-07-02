@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Dear Tony Robbins, THIS Is How You Walk on Hot Coals**
+**Could the Popularity of 'Finding Dory' Hurt the Blue Tang Fish?**
 
-**Hubble Captures New Images of Jupiter's Northern Lights**
+**NASA's Juno Spacecraft Arrives at Jupiter on Monday, July 4**
 
-**Could Your Smartphone Cause Temporary Blindness?**
+**If You Love Your Phone So Much, Why Don't You Marry It?**
 
 **See More Headlines »**
 
