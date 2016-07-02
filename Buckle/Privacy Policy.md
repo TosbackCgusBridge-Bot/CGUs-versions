@@ -76,9 +76,8 @@ A Global Message! ×
 *   Bags
 *   Dresses
 *   Swimwear
-*   Fragrance
-*   Show All
 *   Factory Seconds
+*   Show All
 
   
   
@@ -87,11 +86,11 @@ Give a Buckle Gift card
 *   Featured
 
 *   New Arrivals
+*   Promotions
 *   Buckle Exclusive
 *   Shop by Outfit
 *   Shop Instagram
 *   Shop by Brand
-*   Promotions
 *   Buckle Select
 
 *   Tops
@@ -126,8 +125,8 @@ Give a Buckle Gift card
 *   Hats
 *   Watches
 *   Cologne
-*   Factory Seconds
 *   Bags
+*   Factory Seconds
 *   Show All
 
   
@@ -227,6 +226,7 @@ Give a Buckle Gift card
 *   Crops/Capris
 *   Shirts/Blouses
 *   Shoes
+*   Factory Seconds
 *   Show All Women's Sale
 
 *   Men's Sale
@@ -237,6 +237,7 @@ Give a Buckle Gift card
 *   Boardshorts
 *   Shirts
 *   Shoes
+*   Factory Seconds
 *   Show All Men's Sale
 
 *   Kid's Sale
