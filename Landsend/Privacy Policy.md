@@ -164,7 +164,6 @@
     *   Swim Shop
     *   Backpacks &. Lunch Boxes
     *   School Uniforms
-    *   Shoes &. Sandals
     *   Boys' Iron Knee
     *   Girls' Knit Kit
     *   Sale
@@ -195,6 +194,7 @@
     *   Totes &. Beach Bags
     *   Beach Towels
     *   Women's Swim Finder
+    *   Sale
 *   Shoes
     
     *   Lands' End
@@ -299,23 +299,12 @@
     *   Lands' End
     
     SALE
-    
     *   Women
     *   Men
     *   Girls
     *   Boys
     *   Home
     *   School Uniforms
-    
-    CLEARANCE
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
-    *   Home
-    *   School Uniforms
-    *   In-Season Savings
-    *   Last Chance
 
 *   Lands' End
 *   Canvas by Lands' End
@@ -465,7 +454,6 @@
     *   Swim Shop
     *   Backpacks &. Lunch Boxes
     *   School Uniforms
-    *   Shoes &. Sandals
     *   Boys' Iron Knee
     *   Girls' Knit Kit
     *   Sale
@@ -497,6 +485,7 @@
     *   Totes &. Beach Bags
     *   Beach Towels
     *   Women's Swim Finder
+    *   Sale
 *   Shoes
     
     *   Lands' End
@@ -605,23 +594,12 @@
     *   Lands' End School
     
     Back | Sale SALE Back | SALE
-    
     *   Women
     *   Men
     *   Girls
     *   Boys
     *   Home
     *   School Uniforms
-    
-    CLEARANCE Back | CLEARANCE
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
-    *   Home
-    *   School Uniforms
-    *   In-Season Savings
-    *   Last Chance
 
 Customer Service Menu
 
