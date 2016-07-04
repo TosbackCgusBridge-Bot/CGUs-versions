@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L15073258506
+true true C14992404989
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Sat Jul 02 11:07:00 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p15.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Sun Jul 03 11:15:36 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -50,47 +50,103 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-4th of July Sale and Clearance In Store and Online | Ends July 4 Shop Sale View Store Ad Shop Clearance Spend $25 and Get $10 Off\*
+Happy Fouth of July Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100 Or, Extra 15% Off\* select watches, salon products, furniture, mattresses, custom blinds and shades
 
-Ends 7/5 | Code: BUYNOW46
+2 Days Online Only | Ends July 4 | Code: NEWLOOK2
 
-Get Coupon: New and Online Only! Major Appliances From your Favorite Brands
+\*exclusions and details 60% Off Men’s St. John’s Bay Solid and Striped Polos
 
-Need Help? Call 10844-JCP-APPL (1-844-527-2775)
+Select styles, reg. $26-$30
 
-Up to 40% Off\* Major Appliances Select styles Shop Appliances
+Shop Polos 30-50% Off Swim For Her
+
+Select styles, orig. $28-$104
+
+Shop Swim For Her 30-50% Off Bedding
+
+Select styles
+
+Shop Bedding 19.99 Bras From Hanes, Ambrielle, Warner’s and Vanity Fair
+
+Select styles, reg. $34-$40
+
+Shop Bras Buy 1 Get 1 For 1¢ Ready-Made Curtains and Drapes\*
+
+Select styles, reg. $17-$140
+
+Shop Ready-Made Curtains and Drapes
+
+\*Buy one set of ready-made curtains or drapes at regular price and get a second set of ready-made curtains or drapes of equal or lesser value for 1 cent, while supplies last.
+
+BIG BUY 4.49 Baby and Toddler Okie Dokie Match-Ups
+
+Select styles, reg. $12
+
+Shop Okie Dokie Match-Ups 39.99 Clarks Sandals
+
+Select styles, reg. $55, excluded from coupon
+
+Shop Clarks 30-60% Off Fashion Jewelry and Fashion Silver
+
+Select styles
+
+Shop Fashion Jewelry and Fashion Silver 40% Off Handbags and Wallets
+
+Select styles, reg. $35-$85
+
+Shop Handbags and Wallets 4.99 Guys’ Solid Arizona Tees
+
+Select styles, reg. $12
+
+Shop Guys’ Arizona Tees BIG BUY 6.99 Boys’ and Girls’ Xersion Graphic Tees
+
+Select styles, reg. $14-$26
+
+Shop Xersion Graphic Tees 4.99 Juniors’ Arizona Tees
+
+Select styles, reg. $14
+
+Shop Juniors’ Arizona Tees Home Sale 30 to 50% Off
+
+Select styles
+
+Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   Now Online and In Select Stores! Major Appliances From Your Favorite Brands
+
+Need help? Call 1-844-JCP-APPL (1-844-527-2775)
+
+Find A Store Up to 40% Off\* Major Appliances
+
+Select styles
+
+Shop Major Appliances
 
 \*GE, GE Profile and GE Cafe limited to 10% off savings.
 
 18 Months or 30 Months Special Financing\*\*
 
-available on qualifying major appliance purchases made through 7/13/16 on a JCPenney Credit Card. Must request at time of purchase.
+Available on qualifying major appliance purchases made through 7/13/16 on a JCPenney Credit Card. Must request at time of purchase.
 
-\*\*Get Details: Apply Now Free Delivery and Basic Installation
+\*\*Get Details: Apply Now Plus Free Delivery and Basic Installation On all appliance purchases over $299 Get Details: JCPenney Rewards Shop and Get Rewards
 
-on all appliance purchases over $299
+For points earned on major appliances+
 
-Get Details: Shop and Get Rewards
++Get Details: Going, Going, Gone! Red Zone Clearance Extra 25% Off\* For a Total Savings of 60 to 75% Off
 
-for points earned on major appliances+
+Hurry In Store! | 2 Days Only | Ends July 4
 
-+Get Details: Home Sale 30 to 50% Off
+Find a Store Extra 25% Off\* Online
 
-Select styles
+Code: NEWLOOK2
 
-Shop All Home Shop Bedding Shop Curtains and Drapes Shop Furniture and Mattresses Shop Kitchen and Dining   14.99 Juniors' Arizona Shorts
-
-Select styles, reg. $30
-
-Shop Juniors' Arizona Shorts 50% Off Sandals For Her
-
-Select styles
-
-Shop Sandals For Her 50 to 70% Off Clearance New Markdowns | In Store and Online Shop Now SportsFanShop
+Shop Clearance Online \*exclusions and details: SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop: Dorm Life Shop All Dorm: Write a Review For Your Chance to Win $1,000 Get details: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play
+Shop SportsFanShop: Dorm Life Shop All Dorm: Write a Review For Your Chance to Win $1,000 Get Details: Sign Up For Email Offers
+
+Get the styles, sizes and prices you love delivered right to your inbox. Plus be one of the first to know about sales and savings in store and online.
+
+Sign Up Now:
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
