@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
+**WiFi: Handy but Also Harmful?**
+
+**Watch: The Chemistry of Sparklers Explained in Slow-motion Video**
+
 **Could the Popularity of 'Finding Dory' Hurt the Blue Tang Fish?**
-
-**NASA's Juno Spacecraft Arrives at Jupiter on Monday, July 4**
-
-**If You Love Your Phone So Much, Why Don't You Marry It?**
 
 **See More Headlines »**
 
