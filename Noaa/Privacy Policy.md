@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Stormy weather ahead for parts of U.S. through July 4th weekend AROUND NOAA // Video: A symphony of sharks! Feast your eyes and ears on this Infographic: 10 ways to help our ocean U.S. coral reefs facing warming waters, increased bleaching
+Enter Search Terms 6 steps to summer safety AROUND NOAA // Video: A symphony of sharks! Feast your eyes and ears on this Infographic: 10 ways to help our ocean U.S. coral reefs facing warming waters, increased bleaching
 
 *   About our agency
 *   News and features
@@ -124,3 +124,5 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Contact us
 *   Staff Directory
 *   Need help?
+
+NOAA
