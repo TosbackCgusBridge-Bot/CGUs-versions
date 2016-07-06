@@ -42,7 +42,7 @@ A Global Message! ×
 *   Tops
 
 *   Tees
-*   Tanks
+*   Tank Tops
 *   Shirts/Blouses
 *   Bandeaus/Bralettes
 *   Bodysuits
