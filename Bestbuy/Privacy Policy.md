@@ -6,12 +6,14 @@ Privacy Policy Highlights
 
 We want you to read the whole policy. This highlights section provides a summary of Best Buy's privacy practices, and is not the whole policy. The highlights and full privacy policy apply to Best Buy retail stores, our Web site at www.bestbuy.com, our mobile app, and other locations where we may collect personal information.
 
-**What we collect**
+**What We Collect**
 
 *   We may collect personal information such as your contact, billing, and shipping information. We may also collect demographic information, such as your birthday.
 *   We collect information regarding your interactions with our Web sites and mobile apps.
 *   We may obtain additional personal and non-personal information from third party providers.
 
+Read more about the information we collect ›  
+  
 **Uses of Information**
 
 *   **Best Buy does not sell or rent your personal information to third parties**.
@@ -20,18 +22,23 @@ We want you to read the whole policy. This highlights section provides a summary
 *   We may also use the information you provide to send you marketing communications.
 *   In some circumstances, Best Buy may share your information with certain third parties to perform services on our behalf.
 
-**Your Choices**
+Read more about how we use the information we collect ›  
+Read more about how we share your information › **Your Choices**
 
 You may choose to:
 
 *   Stop receiving e-mail, direct mail and telephone marketing communications.
 *   Update and correct your personal information.
 
+Read more about your privacy choices ›  
+  
 **Important Information**
 
 *   Best Buy does not knowingly collect information online from children under 13.
 *   The Best Buy Companies value our relationship with our customers and we are committed to responsible information-handling practices. Please read our entire Privacy Policy.
 
+Read more about protecting children's privacy ›  
+  
 **How To Contact Us**
 
 **Phone:**  
@@ -93,7 +100,11 @@ We may receive information about you from other sources, including third parties
 
 We collect information about your interactions with us, including the type of device or browser you're using, your IP address, your browsing behavior while on our website, and the URLs of the websites you were at before you visited our site (these are called "referring URLs").
 
-Best Buy and our partners use technologies such as cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level.To manage Flash cookies, please click here. Learn more about managing cookies, Flash cookies, and other automated online information collection.
+Best Buy and our partners use technologies such as cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level.
+
+Manage Flash cookies ›  
+Learn more about managing cookies, Flash cookies, and more ›  
+  
 
 We may permit third party service providers to collect and process some information from our digital properties. We may share personal information with those providers and may have similar arrangements with interest-based advertisers. We provide more information about interest-based ads below.
 
@@ -129,8 +140,10 @@ We use the information we collect for things like:
 
 **Interest-Based Advertising**
 
-Learn more about interest-based advertising. You can opt out of interest-based advertising from third party providers who follow the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising at www.aboutads.info/choices.
+You can opt out of interest-based advertising from third party providers who follow the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising at www.aboutads.info/choices.
 
+Learn more about interest-based advertising ›  
+  
 **Information Retention**
 
 We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes, and enforce our agreements.
@@ -199,11 +212,11 @@ TRUSTe Privacy Seal
 
 Best Buy has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, www.BestBuy.com, and does not cover information that may be collected through our mobile applications or through downloadable software.
 
-If you have questions or concerns regarding our privacy policy or practices, please contact us at PrivacyManager@bestbuy.com. If you are not satisfied with our response, you can contact TRUSTe here .
+If you have questions or concerns regarding our privacy policy or practices, please contact us at PrivacyManager@bestbuy.com. If you are not satisfied with our response, you can file a report with TRUSTe.
 
-Contact TRUSTe for fax and postal mail information. \[TRUSTe's Dispute Resolution process is only available in English.\]
-
-Privacy Policy Updates
+Contact TRUSTe for fax and postal mail information ›  
+(TRUSTe's Dispute Resolution process is only available in English.)  
+Read the TRUSTe Enterprise Privacy Certification Standards › Privacy Policy Updates
 
 We may need to update our Privacy Policy as we and our customers grow and evolve. If we make material changes, we will notify you by e-mail (sent to the e-mail address specified in your account) or by means of posting a notice on this website prior to the change becoming effective, as well as inform you of any choices you may have with respect to these changes.
 
@@ -223,4 +236,4 @@ Attn: Customer Care/Privacy
 7601 Penn Avenue South  
 Richfield, MN 55423-3645
 
-Last Updated: February 19, 2016
+Last Updated: July 5, 2016
