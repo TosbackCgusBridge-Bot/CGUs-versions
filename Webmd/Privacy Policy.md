@@ -330,9 +330,9 @@ Our use of Cookies and Web Beacons on our mobile optimized sites are similar to 
 
 Non-Personal Information Collected by Third Parties Not Acting on WebMD’s Behalf
 
-Sponsors or advertisers on the WebMD Web Sites may use their own Cookies, Web Beacons or other online tracking technologies in the banner advertisements served on the WebMD Web Sites and in emails, special promotions or newsletters we send you. Their advertisements may be displayed on the WebMD Web Sites or on other sites that you visit after you visit the WebMD Web Sites. Some advertisers use companies other than WebMD to serve their ads and to monitor users' responses to ads, and these ad servers may also collect Non-Personal Information through the use of Cookies or Web Beacons on the WebMD Web Sites.
+Sponsors or advertisers on the WebMD Web Sites may use their own Cookies, Web Beacons or other online tracking technologies in the banner advertisements and sponsored links and on the pages ("Brand Pages") on the WebMD Web Sites that consist solely of advertisements or other content from our advertisers. This advertiser content may also be served in emails, special promotions or newsletters we send you. Their advertisements may be displayed on the WebMD Web Sites or on other sites that you visit after you visit the WebMD Web Sites. Some advertisers use companies other than WebMD to serve their ads and to monitor users' responses to ads, and these ad servers may also collect Non-Personal Information through the use of Cookies or Web Beacons on the WebMD Web Sites.
 
-We do not control how third parties use Cookies or Web Beacons or how they manage the Non-Personal Information they gather through the use of these technologies on the WebMD Web Sites. However, our Advertising Policy prohibits sponsors, advertisers and ad servers who collect Cookie or Web Beacon information through the WebMD Web Sites from collecting any Personal Information from the WebMD Web Sites without your consent. Our Advertising Policy also prohibits advertisers from linking any Non-Personal Information collected by them on the WebMD Web Sites to Personal Information they or others collect in other ways or from other sites except as may be described in connection with a particular program. To see how Google may use information collected through your use of Google's search services on the WebMD Web Sites visit http://www.google.com/policies/privacy/partners.
+While we generally permit the use of these third party cookies on the assumption that they comply with our Advertising Policy and we assist our advertisers with the placement of cookies or beacons on Brand Pages, we do not control how third parties use Cookies or Web Beacons or how they manage the Non-Personal Information they gather through the use of these technologies on the WebMD Web Sites and we may be unable to verify compliance with our Advertising Policy. Our Advertising Policy prohibits sponsors, advertisers and ad servers who collect Cookie or Web Beacon information through the WebMD Web Sites from collecting any Personal Information from the WebMD Web Sites without your consent. Our Advertising Policy also prohibits advertisers from linking any Non-Personal Information collected by them on the WebMD Web Sites to Personal Information they or others collect in other ways or from other sites except as may be described in connection with a particular program. To see how Google may use information collected through your use of Google's search services on the WebMD Web Sites visit http://www.google.com/policies/privacy/partners.
 
 What Choices Do I Have? Updating/Removing Your Personal Information
 
@@ -435,9 +435,9 @@ WebMD.com, MedicineNet.com, and eMedicineHealth.com comply with the HONcode stan
 
    
 
-Effective Date: September 1, 2015
+Effective Date: July 5, 2016
 
-©2015 WebMD, LLC. All rights reserved.
+©2016 WebMD, LLC. All rights reserved.
 
 About Us
 
