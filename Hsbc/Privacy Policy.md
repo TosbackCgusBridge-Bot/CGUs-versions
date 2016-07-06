@@ -48,14 +48,18 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Operations
         *   Communities
         *   Case studies
+    
     *   Frequently asked questions
         
     *   Reports and documentation
         
     *   Supplier code of conduct
         
-    
-    *   Our values How we do business is as important as what we do.
+    *   Risk and responsibility
+        *   Global Standards
+        *   Health and safety
+        *   Reputational and operational risks
+        *   USA Patriot Act certification
     
     *   Cleaner water saves lives HSBC is helping people in need to access improved sanitation.
 *   Investor relations
@@ -85,17 +89,14 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Stock exchange announcements
         
     
-    *   Risk and responsibility
-        *   Global Standards
-        *   Health and safety
-        *   Reputational and operational risks
-        *   USA Patriot Act certification
     *   Iain Mackay video Find out about the bank’s 1Q 2016 Earnings Release.
 *   News and insight
     
     *   Media resources
+        *   Media contacts
         *   Media releases
         *   Speeches
+        *   Image gallery
     *   Insight archive
         
     *   Awards
@@ -314,6 +315,7 @@ Our approach
 *   Frequently asked questions
 *   Reports and documentation
 *   Supplier code of conduct
+*   Risk and responsibility
 
 Investor relations
 
@@ -323,7 +325,6 @@ Investor relations
 *   Investor resources
 *   Fixed income securities
 *   Stock exchange announcements
-*   Risk and responsibility
 
 News and insight
 
