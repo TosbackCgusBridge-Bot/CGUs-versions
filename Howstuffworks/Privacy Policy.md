@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**We'll Need Sideways Elevators to Build Cities of the Future**
+**New Study Reveals the Speedy Swordfish's Secret Weapon**
 
-**Mysterious First Settlers of Madagascar Identified by Ancient Seeds**
+**One Man, 10 Minutes, 70 Hot Dogs — One New World Record**
 
-**The Positives of Princess Culture**
+**Your Dog or Cat Can Have Depression, Too**
 
 **See More Headlines »**
 
