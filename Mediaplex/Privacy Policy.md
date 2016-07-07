@@ -176,8 +176,6 @@ Send me emails containing marketing messages from Conversant and our affiliates.
 
 Let's Connect!
 
-877 361 3316
-
 *   Privacy Policy
 *   Terms of Use
 *   About our Ads
