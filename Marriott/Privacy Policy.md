@@ -37,6 +37,7 @@ EUROPE
 *   Ireland (English)
 *   Poland (Polski)
 *   Portugal (Português)
+*   Georgia (ქართული)
 *   Customer and Guest Safe Harbor Privacy Statement (English)
 
 LATIN AMERICA
@@ -253,7 +254,6 @@ Where allowed by law, you may also use the above email or postal addresses to re
 
 Related Links
 
-*   Terms of Use for  
-    United States and Canada
+*   Terms of Use for United States and Canada
 *   SMS Messaging Terms of Use
 *   Digital Entry Terms of Use
