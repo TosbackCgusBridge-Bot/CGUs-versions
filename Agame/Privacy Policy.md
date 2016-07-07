@@ -98,12 +98,12 @@ View more results
     Join for free
 *   Hot Games
     
+    *   Swords &. Potions 2
     *   Elvenar
-    *   Vegas World
-    *   SuperSnake.io
-    *   Happy Wheels
-    *   Minecraft HTML5
-    *   1941 Frozen Front
+    *   Bomb It Mission
+    *   Slither.io
+    *   Bubble Shooter
+    *   Riddle School 4
     
     Mobile Apps More
     
