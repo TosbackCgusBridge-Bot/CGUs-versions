@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C14999167037
+true true L15088598471
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p15.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Tue Jul 05 11:15:32 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p07.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Wed Jul 06 11:15:33 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -50,31 +50,35 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Home Sale 30 to 50% Off
-
-Select styles
-
-Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Furniture and Mattresses Shop Kitchen and Dining   5.99 Guys' Arizona Solid Tees
-
-Select styles, reg. $12
-
-Shop Guys' Arizona Solid Tees Spend $25 and Get $10 Off\*
-
-In Store and Online | Ends 7/5 | Code: BUYNOW46
-
-Get Coupon:
+Super Weekend Sale and Clearance Starts Now! In Store and Online | Ends July 10 Shop Super Weekend Sale and Clearance View Store AdSpend $25 and Get $10 Off\* In Store and Online | Ends 7/10 | Code: SHOP32
 
 \*exclusions apply
 
-39.99 Women's Clarks Sandals
+Get Coupon: Shop Women Shop Kids Shop Men Shop Curtains and Drapes Shop Bedding Shop Jewelry Shop Handbags Shop Shoes 40 to 50% Off St. John's Bay Sportswear for Him and Her
 
-Select styles, reg. $55, excluded from coupon
+Select styles including petite sizes, orig. $26-$44
 
-Shop Women's Clarks Sandals 30 to 50% Off Men's and Women's Swim
+Shop Men Shop Women     30 to 50% Off Men's and Women's Swim
 
 Select styles, reg. $28-$104
 
-Shop Men Shop Women     Dorm Life Stock Up on Dorm Essentials Shop All Dorm Dorm Checklist Sephora Shop Lips: JCP Salon 24.99 Liter Duos from Matrix, Total Results and Sexy Hair Shop Now: 60 to 75% Off Final Markdowns Shop Clearance Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play
+Shop Men Shop Women     30 to 50% Off Home Sale
+
+Select styles
+
+Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses  Major Appliances From Your Favorite Brands Now Online and In Select Stores
+
+Need Help? Call 1-844-JCP-APPL (1-844-527-2775)
+
+Shop Now Find a Store18 or 30 Months Special Financing\*
+
+Available on qualifying major appliance purchases made through 7/13/16 on a JCPenney Credit Card. Must request at time of purchase.
+
+Apply Now \*Get DetailsPlus Free Delivery and Basic Installation
+
+On all appliance purchases over $299
+
+Get Details Dorm Life Stock Up on Dorm Essentials Shop All Dorm Dorm Checklist Sephora Shop Lips: JCP Salon 24.99 Liter Duos from Matrix, Total Results and Sexy Hair Shop Now: 50 to 70% Off Final Markdowns Shop Clearance Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
