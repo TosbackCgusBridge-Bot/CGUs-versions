@@ -576,7 +576,7 @@ Indeed is not a third party to or liable for any agreements between an Employer 
 
 Candidates:
 
-Indeed Prime is free for Candidates. As a Candidate, you must promptly notify Indeed if you accept an offer of employment through Prime. If you accept an offer of employment through Prime, you are eligible to receive a reward of $5,000 (USD) (the “Candidate Reward”). To be eligible for the Candidate Reward, you must apply through Indeed Prime, be hired by an Employer participating in the Indeed Prime program and remain with the company for at least 90 days.
+Indeed Prime is free for Candidates. As a Candidate, you must promptly notify Indeed if you accept an offer of employment through Prime. If you accept an offer of employment through Prime, you are eligible to receive a reward of $2,000 (USD) (the “Candidate Reward”). To be eligible for the Candidate Reward, you must apply through Indeed Prime, be hired by an Employer participating in the Indeed Prime program and remain with the company for at least 90 days.
 
 In order to receive the Candidate Reward, you must provide Indeed with a valid and completed W-9 document and ACH form. If you have not provided Indeed with a valid and completed W-9 and ACH form, you will receive no Candidate Reward. In addition, you must be a U.S. resident (for tax purposes) in order to receive the Candidate Reward. All payments are gross amounts and you will be responsible for paying all taxes on the award.
 
