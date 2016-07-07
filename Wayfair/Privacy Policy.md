@@ -273,9 +273,9 @@ Legal Disputes
 
 YOU AND Wayfair AGREE TO GIVE UP ANY RIGHTS TO LITIGATE CLAIMS IN A COURT OR BEFORE A JURY OR TO PARTICIPATE IN A CLASS ACTION OR REPRESENTATIVE ACTION WITH RESPECT TO A CLAIM. OTHER RIGHTS THAT YOU WOULD HAVE IF YOU WENT TO COURT, SUCH AS ACCESS TO DISCOVERY, ALSO MAY BE UNAVAILABLE OR LIMITED IN ARBITRATION.
 
-Any dispute between you and Wayfair, its agents, employees, officers, directors, principals, successors, assigns, subsidiaries or affiliates (collectively for purposes of this section, '**Wayfair**') arising from or relating to these Terms of Use and their interpretation or the breach, termination or validity thereof, the relationships which result from these Terms of Use, including disputes about the validity, scope or enforceability of this arbitration provision (collectively, "**Covered Disputes**") will be settled by binding arbitration in Suffolk County, Commonwealth of Massachusetts administered by the American Arbitration Association (AAA) under its Commercial Arbitration Rules, in effect on the date thereof. Prior to initiating any arbitration, the initiating party will give the other party at least 60-days' advanced written notice of its intent to file for arbitration. Wayfair will provide such notice by e-mail to your e-mail address on file with Wayfair and you must provide such notice by e-mail to \[legal@wayfair.com\].
+Any dispute between you and Wayfair, its agents, employees, officers, directors, principals, successors, assigns, subsidiaries or affiliates (collectively for purposes of this section, '**Wayfair**') arising from or relating to these Terms of Use and their interpretation or the breach, termination or validity thereof, the relationships which result from these Terms of Use, including disputes about the validity, scope or enforceability of this arbitration provision (collectively, "**Covered Disputes**") will be settled by binding arbitration administered by the American Arbitration Association (AAA). Prior to initiating any arbitration, the initiating party will give the other party at least 60-days' advanced written notice of its intent to file for arbitration. Wayfair will provide such notice by e-mail to your e-mail address on file with Wayfair and you must provide such notice by e-mail to legal@wayfair.com.
 
-During such 60-day notice period, the parties will endeavor to settle amicably by mutual discussions any Covered Disputes. Failing such amicable settlement and expiration of the notice period, either party may initiate arbitration. The arbitrator will have the power to grant whatever relief would be available in court under law or in equity and any award of the arbitrator(s) will be final and binding on each of the parties and may be entered as a judgment in any court of competent jurisdiction. The arbitrator will not, however, have the power to award punitive or exemplary damages, the right to which each party hereby waives, and the arbitrator will apply applicable law and the provisions of these Terms of Use and the failure to do so will be deemed an excess of arbitral authority and grounds for judicial review. Wayfair and you agree that any Covered Dispute hereunder will be submitted to arbitration on an individual basis only. Neither Wayfair nor you are entitled to arbitrate any Covered Dispute as a class, representative or private attorney action and the arbitrator(s) will have no authority to proceed on a class, representative or private attorney general basis. If any provision of the agreement to arbitrate in this section is found unenforceable, the unenforceable provision will be severed and the remaining arbitration terms will be enforced (but in no case will there be a class, representative or private attorney general arbitration). Regardless of any statute or law to the contrary, notice on any claim arising from or related to these Terms of Use must be made within one (1) year after such claim arose or be forever barred. For purposes of this section, these Terms of Use and related transactions will be subject to and governed by the Federal Arbitration Act, 9 U.S.C. sec. 1-16 (FAA).
+During such 60-day notice period, the parties will endeavor to settle amicably by mutual discussions any Covered Disputes. Failing such amicable settlement and expiration of the notice period, either party may initiate arbitration. The arbitrator will have the power to grant whatever relief would be available in court under law or in equity and any award of the arbitrator(s) will be final and binding on each of the parties and may be entered as a judgment in any court of competent jurisdiction. Arbitrator will apply applicable law and the provisions of these Terms of Use and the failure to do so will be deemed an excess of arbitral authority and grounds for judicial review. Wayfair and you agree that any Covered Dispute hereunder will be submitted to arbitration on an individual basis only. Neither Wayfair nor you are entitled to arbitrate any Covered Dispute as a class, representative or private attorney action and the arbitrator(s) will have no authority to proceed on a class, representative or private attorney general basis. If any provision of the agreement to arbitrate in this section is found unenforceable, the unenforceable provision will be severed and the remaining arbitration terms will be enforced (but in no case will there be a class, representative or private attorney general arbitration). Regardless of any statute or law to the contrary, notice on any claim arising from or related to these Terms of Use must be made within one (1) year after such claim arose or be forever barred. For purposes of this section, these Terms of Use and related transactions will be subject to and governed by the Federal Arbitration Act, 9 U.S.C. sec. 1-16 (FAA).
 
 Termination
 
@@ -555,31 +555,49 @@ Shipping Information
 
 How Will My Order Ship?
 
-We've carefully selected the shipping options for each product on our site to ensure you receive the fastest, safest, and most reliable delivery service possible. Each item's delivery options will be noted on its product page, as well as in the shopping cart. Please note we cannot ship to P.O. Boxes or Military APOs.
+We've carefully selected the shipping options for each product on our site to ensure you receive the fastest, safest, and most reliable delivery service possible. Each item's delivery options will be noted on its product page, as well as in the shopping cart.
+
+Any Exceptions I Should Be Aware Of?
+
+*   Deliveries are not typically made on Saturdays or Sundays
+*   We cannot ship to P.O. Boxes or Military APOs
+*   If you live in a non-contiguous U.S. state or territory—in Alaska, Hawaii, American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, or the U.S. Virgin Islands—additional fees or shipping restrictions may apply
 
 Small Parcel
 
-Signatures are not required for Small Parcel deliveries, but the decision to leave your package will ultimately be at the discretion of the delivering carrier. If you have any special delivery instructions for the carrier, we recommend placing a note on your door on the day of delivery referencing your tracking number and request.
+Signatures are not required for Small Parcel deliveries, but the decision to leave your package will ultimately be at the discretion of the delivery carrier. If you have any special delivery instructions, we recommend placing a note on your door on the delivery date with your name, request, and tracking number.
 
-Deliveries will be completed by UPS or FedEx. Available shipping services will be noted in your shopping cart, but generally include:
+Deliveries will be completed by UPS or FedEx. Available shipping options will be noted in your Shopping Cart, but generally include:
 
-Economy
+1-Day Shipping
 
-Please allow the full processing time required to ship from the warehouse (specified on each product page), plus 3-8 business days in transit for delivery.
+Your order will be promptly fulfilled and delivered within 1 business day.
 
-Ground
+2-Day Shipping
 
-Please allow the full processing time required to ship from the warehouse (specified on each product page), plus 1-6 business days in transit for delivery.
+Your order will be promptly fulfilled and delivered within 2 business days.
 
-Next Day Delivery
+**Please note:** Orders placed outside the time frame listed beside your shipping option will be shipped the next day. Also, deliveries are not typically made on Saturdays or Sundays. Economy Shipping
 
-Please allow the full processing time required to ship from the warehouse (specified on each product page), plus 1 business day in transit for delivery.
+Please allow the full processing time required to ship from the supplier’s warehouse, plus 3-8 business days in transit for delivery.
 
-2 Day Delivery
+Ground Shipping
 
-Please allow the full processing time required to ship from the warehouse (specified on each product page), plus 2 business days in transit for delivery.
+Please allow the full processing time required to ship from the supplier’s warehouse, plus 1-7 business days in transit for delivery.
 
-\*Shipping to Alaska, Hawaii, or Puerto Rico? Enter your shipping zip code in the Shopping Cart to calculate additional fees/shipping restrictions.
+Expedited Shipping
+
+Please allow the full processing time required to ship from the supplier’s warehouse, plus 2 business days in transit for delivery.
+
+Express Shipping
+
+Please allow the full processing time required to ship from the supplier’s warehouse, plus 1 business day in transit for delivery.
+
+Shipping to Alaska, Hawaii, or Puerto Rico?
+
+Enter your shipping zip code in your Shopping Cart to calculate additional fees/shipping restrictions.
+
+**Please note:** Deliveries are not typically made on Saturdays or Sundays.
 
 Large Parcel
 
@@ -612,8 +630,6 @@ Large Parcel Delivery Methods:
 Curbside (You Unload)
 
 This delivery method covers the essentials. A delivery truck will pull up to the curb outside of your home within your 4-hour appointment window. From there, you will be responsible for unloading the item(s) from the truck and any further transport beyond that point. We recommend asking a family member or friend for an extra hand.
-
-\*To have the items taken off the truck and placed on the curb, you can add the Lift Gate service upon checkout for $50.00
 
 *   Appointment Scheduling: The delivery partner will call you to arrange a date and 4-hour appointment window once your item(s) arrives at the local terminal.
 *   Signature Required: Yes
@@ -703,7 +719,7 @@ Go there now »
 
 Free Shipping?
 
-Items marked **FREE SHIPPING!** on the product page will ship for free! In order to keep your costs down and our pricing simple, we either provide free shipping or, in certain cases, charge shipping per item. This charge, if any, is indicated in your shopping cart and covers ground shipping within the contiguous United States (click here for information on international shipping costs). We won't surprise you with any hidden charges or handling fees. The price you see in the shopping cart is the price you pay, with one exception: if you are shipping an order to California, Illinois, Kentucky, Massachusetts, New Jersey, New York, Texas, Utah, or any Canadian province, we are required to charge sales tax.
+Items marked **FREE SHIPPING!** on the product page will ship for free! In order to keep your costs down and our pricing simple, we either provide free shipping or, in certain cases, charge shipping per item. This charge, if any, is indicated in your shopping cart and covers ground shipping within the contiguous United States (click here for information on international shipping costs). We won't surprise you with any hidden charges or handling fees. The price you see in the shopping cart is the price you pay, with one exception: if you are shipping an order to California, Illinois, Kentucky, Massachusetts, New Jersey, New York, North Carolina, Texas, Utah, or any Canadian province, we are required to charge sales tax.
 
 Beware of companies who mask their shipping charges and surprise you with prohibitive shipping and handling fees or oversize charges at the end of the checkout process. Make sure you know the total cost of your purchase when shopping around.
 
