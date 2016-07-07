@@ -110,7 +110,6 @@ Your Financial Goals
 
 Popular Links
 
-*   Get Insurance Quotes
 *   Small Business Insurance
 *   Commercial Insurance
 
