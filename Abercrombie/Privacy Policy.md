@@ -148,7 +148,7 @@ If you have provided consent and no longer wish to receive Notifications, or no 
 
 Emails
 
-You can choose the frequency at which you receive marketing emails or unsubscribe if you no longer want to receive marketing emails from Abercrombie &. Fitch, or our affiliated companies (like Hollister Co.).  To unsubscribe from Abercrombie &. Fitch go to the unsubscribe page, or to unsubscribe from our affiliated companies if you have created an account or are a member of The A&F Club program, go to the email and phone page within the "My Info" section of the Websites, click on "manage your marketing preferences", and select the option to no longer receive emails in the dropdown menus for each brand, and press 'SUBMIT.'  Please be aware, however, even if you request to limit the frequency you can receive marketing emails or to be removed from our email marketing list, you may still receive email confirmations for any orders placed on our Websites.
+To unsubscribe from receiving marketing emails from Abercrombie &. Fitch go to the unsubscribe page, or if you have created an account or are a member of The A&F Club program, go to the Marketing Preferences section of the Profile page. If you signed up to receive marketing emails from one of our affiliates follow the-opt out instructions on any marketing email you receive from that affiliate. Please be aware, however, even if you request be removed from our email marketing list, you may still receive non-marketing emails, such as confirmations for any orders placed on our Websites.
 
 Text Messages
 
