@@ -316,6 +316,8 @@ To read more about contact information
 click here Important Info Important Info Leasing &. Finance
 
 *   Payment Estimator
+*   Payment Estimator
+*   Financing Options
 *   Financing Options
 *   End of Lease Options
 *   Financial Services Website
@@ -350,6 +352,7 @@ Help &. Support
 
 Brand &. Lifestyle
 
+*   Lexus Plus
 *   L Studio Films
 *   F/F SPORT Performance
 *   LFA Supercar
@@ -373,6 +376,8 @@ Brand &. Lifestyle
 
 *   Leasing &. Finance
     *   Payment Estimator
+    *   Payment Estimator
+    *   Financing Options
     *   Financing Options
     *   End of Lease Options
     *   Financial Services Website
@@ -399,6 +404,7 @@ Brand &. Lifestyle
     *   Warranty
     *   More Topics
 *   Brand &. Lifestyle
+    *   Lexus Plus
     *   L Studio Films
     *   F/F SPORT Performance
     *   LFA Supercar
