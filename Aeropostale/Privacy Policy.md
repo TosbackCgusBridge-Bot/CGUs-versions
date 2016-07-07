@@ -19,6 +19,7 @@ Aéropostale
     *   Polos
     *   Shirts
     *   Hoodies + Sweatshirts
+    *   Sweaters
     *   Active Tops
     
     *   BOTTOMS
