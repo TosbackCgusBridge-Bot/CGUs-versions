@@ -199,7 +199,7 @@ If you no longer want to receive promotional materials from us based upon your P
 
 **Indeed Terms of Service Introduction**
 
-Last Updated: June 1, 2016
+Last Updated: July 7, 2016
 
 When you access or use Indeed’s online and/or mobile services and websites, and any software provided by or on behalf of Indeed on or in connection with such services or websites (collectively, the “Site”), including, but not limited to, the Indeed Ads Program, Indeed Resume Program (otherwise referred to as the Indeed CV Program in certain countries), Indeed MoBolt, Indeed Prime, Indeed Targeted Ads, Indeed Publisher Program, Indeed Apply, or any other service, (a) you represent that you have read and understand the Cookies Policy and Privacy Policy. and (b) you are agreeing to the terms and conditions of these Terms of Service (the “Agreement”) with the following entity or entities:
 
@@ -611,17 +611,13 @@ e. Under the pay-per-hire model, payment is due upon receipt of an invoice, unle
 
 7.  Subscription Model:
 
-a. First time Employers to Indeed Prime may be offered an initial 90-day subscription fee, to be paid upfront.
+a. Under the Subscription Model, Employers agree to pay upfront an initial subscription fee for a period of time specified in any Indeed insertion order or online pricing page (each subscription period to be referred to as a “Term”).
 
-b. Any hires made during the initial 90-day period are included in the fee indicated on the Indeed insertion order.
+b. Unlimited hires may be made during any Term for the fee indicated on the Indeed insertion order or the price indicated on the Indeed Prime online pricing page.
 
-c. If no hires are made during the initial 90-day period, an automatic extension of 90 days will be offered.
+c. All plans under the Subscription Model shall automatically renew for additional Terms. If you wish to cancel your Subscription, you must do so no later than 15 days prior to the end of any Term. No refunds will be given for payment made during any Term.
 
-d. The Subscription Model is only offered to first time Employers, and may only be used once.
-
-e. In the event an Employer wishes to extend the time period of a Subscription Model contract, they should consult their Prime Client Executive or Consultant.
-
-f. Under the Subscription Model, payment is due upon receipt of an Insertion Order or confirmation email, confirming your purchase, unless agreed upon otherwise with your Prime Client Executive or Consultant.
+d. Under the Subscription Model, payment is due upon receipt of an insertion order or confirmation email, confirming your purchase, unless agreed upon otherwise with your Prime Client Executive or Consultant.
 
 If you wish to use the Indeed Prime tool, you must have an agreement with Indeed to do so under one of the pricing models listed above, and have accepted Indeed’s online terms of service. Sales taxes will be charged as appropriate. The Obligation to pay Fees shall survive termination or expiration of this Agreement.
 
@@ -641,7 +637,7 @@ EXCEPT FOR INDEMNIFICATION AMOUNTS PAYABLE TO THIRD PARTIES HEREUNDER, TO THE FU
 
 **7\. Indemnification**
 
-You agree to defend, indemnify and hold harmless Indeed from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees) arising from: (a) your violation of any term of this Agreement. (b) your use of and access to Indeed Prime. (c) your loss or disclosure of information gained from using Indeed Prime. (d) your violation of any state or federal laws during the hiring process, including but not limited to the Fair Credit Reporting Act. (e) your violation of any third party right, including without limitation any copyright, property, or privacy right. or (f) any claim that any User Content caused damage to a third party. This defense and indemnification obligation will survive this Agreement and your use of Indeed Prime. You also agree that you have a duty to defend us against such claims. You agree that this indemnity extends to requiring you to pay for our reasonable attorneys’ fees, court costs, settlements and disbursements.
+You agree to defend, indemnify and hold harmless Indeed from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees) arising from: (a) your violation of any term of this Agreement. (b) your use of, and access to, Indeed Prime. (c) your loss of, or disclosure of, information gained from using Indeed Prime. (d) your violation of any state or federal laws during the hiring process, including but not limited to the Fair Credit Reporting Act. (e) your violation of any third party right, including without limitation any copyright, property, or privacy right. or (f) any claim that your content caused damage to a third party. This defense and indemnification obligation will survive this Agreement and your use of Indeed Prime. You also agree that you have a duty to defend us against such claims. You agree that this indemnity extends to requiring you to pay for our reasonable attorneys’ fees, court costs, settlements and disbursements.
 
 **8\. Termination**
 
