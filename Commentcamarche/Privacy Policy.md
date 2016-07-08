@@ -1,4 +1,4 @@
-USESDEFRITBR Juin 2016
+USESDEFRITBR Juillet 2016
 
 *   Objet
 *   Mentions légales
@@ -118,11 +118,7 @@ Conditions-generales-d-utilisation.pdf Précédent
 *   15
 *   16
 
-Suivant
-
-Réalisé sous la direction de Jean-François PILLOU, fondateur de CommentCaMarche.net.
-
-  
+Suivant  
 A voir également
 
 *   Conditions generales d'utilisation
