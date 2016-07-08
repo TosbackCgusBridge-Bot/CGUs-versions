@@ -1,19 +1,10 @@
-    Support Desk
+English (US) Español Français Português do Brasil Submit a request Sign in
 
-*   Home
-*   Submit a request
-*   Check your existing requests
-*   English
-    *   español
-    *   français
-    *   português do Brasil
+1.  Scribd Help Center
+2.  General Info
+3.  Terms and Policies
 
-Search Our Help/General Info/Terms and Policies Privacy policy
-
-Jason  
-posted this on March 2, 2009, 12:05 AM
-
-*   Tweet
+Privacy policy **Jason** July 05, 2016 18:17
 
 April 18, 2013
 
@@ -115,6 +106,11 @@ FOR REVISIONS TO THIS PRIVACY NOTICE THAT MAY BE MATERIALLY LESS RESTRICTIVE ON 
 
 PLEASE CONTACT SCRIBD WITH ANY QUESTIONS OR COMMENTS ABOUT THIS PRIVACY NOTICE, YOUR PERSONAL INFORMATION, AND OUR THIRD-PARTY DISCLOSURE PRACTICES OR YOUR CONSENT CHOICES AT: SCRIBD.COM, 333 BUSH STREET, SUITE 2400, SAN FRANCISCO, CA 94104, OR BY EMAIL: PRIVACY@SCRIBD.COM. WE WILL RESPOND TO YOUR INQUIRY WITHIN 30 DAYS OF ITS RECEIPT.
 
-  **Topic is closed for comments**  
+Was this article helpful? 1181 out of 1181 found this helpful
 
-Support Software by Zendesk
+*   Facebook
+*   Twitter
+*   LinkedIn
+*   Google+
+
+Have more questions? Submit a request 0 Comments Article is closed for comments. Powered by Zendesk
