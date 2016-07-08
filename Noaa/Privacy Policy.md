@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather 6 steps to summer safety Oceans &. Coasts What is a harmful algal bloom? National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Practice heat safety: Stay safe this summer Oceans &. Coasts What is a harmful algal bloom? National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms 6 steps to summer safety AROUND NOAA // Video: A symphony of sharks! Feast your eyes and ears on this Infographic: 10 ways to help our ocean U.S. coral reefs facing warming waters, increased bleaching
+Enter Search Terms June was record warm for contiguous U.S. Year-to-date period was also 3rd warmest AROUND NOAA // U.S. experienced at least 8 billion-dollar disasters so far this year 6 steps to summer safety Infographic: 10 ways to help our ocean
 
 *   About our agency
 *   News and features
