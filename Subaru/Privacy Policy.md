@@ -67,15 +67,15 @@ Up to
 
 WRX with accessory fog lights shown
 
-Legacy $21,745 starting price 2016 Legacy
+Legacy $21,995 starting price 2017 Legacy
 
 Starting at
 
-$21,745 MSRP
+$21,995 MSRP
 
 Up to
 
-36/26 MPG Hwy/City
+34/25 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
