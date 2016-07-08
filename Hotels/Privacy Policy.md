@@ -1,3 +1,24 @@
+English (United States)
+
+Book online or call 800-246-8357This call is free. 24 hours a day. 7 days a week.
+
+*   Hotels
+*   Hotel Deals
+*   Packages &. Flights
+*   Groups
+*   Hotels.com® Rewards
+*   Gift Cards
+
+*   Customer Service
+    *   Your bookings
+    *   Help
+    *   Website feedback
+    *   Review a hotel
+*   Sign in &. Account
+    *   Sign in
+    *   Create an account
+    *   Your bookings
+
 Privacy Policy Print all sections
 
 AGREEMENT BETWEEN CUSTOMER AND HOTELS.COM, l p  
@@ -452,4 +473,77 @@ Attn: Customer Service Hotels.com, L.P.  5400 LBJ Freeway, Suite 500, Dallas, T
    
 Revised and Effective as of 6 June 2016  
    
+© 2016 Hotels.com, L.P. All rights reserved.  
+  
+
+Choose one of the following to unlock Secret Prices and pay less on select hotels. Email
+
+Sign up for our latest offers
+
+Hotels.com app
+
+Download the app and book on the go
+
+Hotels.com® Rewards
+
+Join now to collect 10 nights, get 1 free\*
+
+*   Top Destinations
+    *   Hotels in New York
+    *   Hotels in Las Vegas
+    *   Hotels in Chicago
+    *   Hotels in San Francisco
+    *   Hotels in Washington
+    *   Hotels in Boston
+    *   Hotels in San Diego
+    *   Hotels in Orlando
+    *   Hotels in London
+    *   Hotels in New Orleans
+    *   Hotels in Los Angeles
+    *   Hotels in San Antonio
+    *   Hotels in Paris
+    *   Hotels in Seattle
+    *   Hotels in Atlanta
+    *   Hotels in Philadelphia
+    *   Hotels in Austin
+    *   Hotels in Atlantic City
+    *   Hotels in Rome
+    *   Hotels in Myrtle Beach
+    *   Hotels in Dallas
+    *   Hotels in Houston
+    *   Hotels in Denver
+    *   Hotels in Miami
+*   Customer Service
+    *   Your bookings
+    *   FAQs
+    *   Contact us
+    *   Website feedback
+    *   Review a hotel
+*   For Suppliers, Affiliates and the Media
+    *   Add Hotel
+    *   Affiliate with us
+    *   Private Label
+    *   Promote with Us
+    *   Travel Agents
+    *   Press Office
+*   User Terms and Privacy Policy
+    *   Terms &. Conditions
+    *   Privacy Policy
+    *   Cookie Policy
+    *   About our ads
+*   About Us
+*   Jobs
+
+*   Travel Guides
+*   Top 50 Cities
+*   All countries
+*   All hotels
+*   Site index
+
 © 2016 Hotels.com, L.P. All rights reserved.
+
+Hotels.com and the Hotels.com logo are trademarks or registered trademarks of Hotels.com, LP in the U.S. and/or other countries. All other trademarks are property of their respective owners.
+
+\* Learn more about Hotels.com® Rewards
+
+*   ABOUT SSL CERTIFICATES
