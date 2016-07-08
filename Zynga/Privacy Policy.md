@@ -1,5 +1,6 @@
 Navigation
 
+*   HOME
 *   GAMES
     *   Chess With Friends
     *   Crazy Cake Swap
@@ -24,6 +25,7 @@ Navigation
     *   Words With Friends
     *   Yummy Gummy
 *   CASINO
+    *   Black Diamond Casino
     *   Free Slots
     *   Hit It Rich!
     *   Princess Bride Slots
