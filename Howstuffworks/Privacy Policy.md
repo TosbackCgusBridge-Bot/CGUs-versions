@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**New Study Reveals the Speedy Swordfish's Secret Weapon**
+**Robotic Rectums Give Docs a Feel for Prostates**
 
-**One Man, 10 Minutes, 70 Hot Dogs — One New World Record**
+**Watch: Amazing Video of This Year's Top Three Optical Illusions**
 
-**Your Dog or Cat Can Have Depression, Too**
+**Cities Built of Bone and Sewage Could Be Our Future Homes**
 
 **See More Headlines »**
 
