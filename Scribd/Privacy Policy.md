@@ -113,4 +113,11 @@ Was this article helpful? 1181 out of 1181 found this helpful
 *   LinkedIn
 *   Google+
 
-Have more questions? Submit a request 0 Comments Article is closed for comments. Powered by Zendesk
+Have more questions? Submit a request 0 Comments Article is closed for comments. Related articles
+
+*   General Terms of Use
+*   Scribd Paid Access End User License Agreement
+*   What if Scribd can't automatically renew my premium membership?
+*   Scribd Accessibility Policy
+
+Powered by Zendesk
