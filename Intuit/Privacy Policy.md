@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C15004279685
+true true L15096507143
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p01.jcpenney.com SERVER NAME :->. dtcomexpr1c1j4 TIME :->. Thu Jul 07 11:15:35 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Fri Jul 08 11:15:31 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -50,7 +50,7 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Super Weekend Sale and Clearance Starts Now! In Store and Online | Ends July 10 Shop Super Weekend Sale and Clearance View Store AdSpend $25 and Get $10 Off\* In Store and Online | Ends 7/10 | Code: SHOP32
+Super Weekend Sale and Clearance Starts Now! In Store and Online | Ends July 10 Shop Super Weekend Sale and Clearance View Store Ad Spend $25 and Get $10 Off\* In Store and Online | Ends 7/10 | Code: SHOP32
 
 \*exclusions apply
 
@@ -66,15 +66,15 @@ Shop Men Shop Women     30 to 50% Off Home Sale
 
 Select styles
 
-Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses  Major Appliances From Your Favorite Brands Now Online and In Select Stores
+Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   Major Appliances From Your Favorite Brands Now Online and In Select Stores
 
 Need Help? Call 1-844-JCP-APPL (1-844-527-2775)
 
-Shop Now Find a Store18 or 30 Months Special Financing\*
+Shop Now Find a Store 18 or 30 Months Special Financing\*
 
 Available on qualifying major appliance purchases made through 7/13/16 on a JCPenney Credit Card. Must request at time of purchase.
 
-Apply Now \*Get DetailsPlus Free Delivery and Basic Installation
+Apply Now \*Get Details Plus Free Delivery and Basic Installation
 
 On all appliance purchases over $299
 
