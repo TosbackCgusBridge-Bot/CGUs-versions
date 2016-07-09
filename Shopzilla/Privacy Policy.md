@@ -49,8 +49,10 @@ Toggle navigation blog navsite nav
 
 *   Solutions
     *   Hitwise
-        *   Audience Insights
+        *   Overview
+        *   AudienceView
         *   Online Intelligence
+        *   Custom Research
     *   Audience Targeting
         *   Overview
         *   Our Audiences
@@ -60,19 +62,21 @@ Toggle navigation blog navsite nav
         *   Retailer Listings
         *   Retailer Site Monetization
         *   Publisher Monetization
+    *   Bizrate Insights
+        *   Overview
+        *   Online Buyers
+        *   Online Visitors
+        *   Subscriptions
 *   About
     *   About Connexity
     *   Open Positions
     *   Benefits
     *   Team
-    *   Press
 *   Resources
     *   Blog
-    *   Case Studies
-        *   Display media
-        *   Insights &. ratings
-        *   Paid search
+    *   Press
     *   Articles &. White Papers
+*   Case Studies
 
 CONTACT Privacy Policy
 
