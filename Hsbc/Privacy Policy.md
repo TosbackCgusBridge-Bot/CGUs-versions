@@ -305,9 +305,8 @@ Site navigation About HSBC
 *   Company history
 *   Structure and network
 *   Corporate governance
-*   Contact us
 
-Our approach
+Contact Us Our approach
 
 *   Our values
 *   Diversity and inclusion
