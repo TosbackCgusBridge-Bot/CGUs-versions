@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L15096507143
+true true L15098667594
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Fri Jul 08 11:15:31 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Sat Jul 09 11:15:30 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -50,11 +50,11 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Super Weekend Sale and Clearance Starts Now! In Store and Online | Ends July 10 Shop Super Weekend Sale and Clearance View Store Ad Spend $25 and Get $10 Off\* In Store and Online | Ends 7/10 | Code: SHOP32
+Super Weekend Sale and Clearance In Store and Online | Ends July 10 Shop Super Weekend Sale and Clearance View Store Ad Spend $25 and Get $10 Off\* In Store and Online | Ends 7/10 | Code: SHOP32
 
 \*exclusions apply
 
-Get Coupon: Shop Women Shop Kids Shop Men Shop Curtains and Drapes Shop Bedding Shop Jewelry Shop Handbags Shop Shoes 40 to 50% Off St. John's Bay Sportswear for Him and Her
+Get Coupon: All Day Doorbusters. All Day Saturday. Shop Now: Shop Women Shop Kids Shop Men Shop Curtains and Drapes Shop Bedding Shop Jewelry Shop Handbags Shop Shoes 40 to 50% Off St. John's Bay Sportswear for Him and Her
 
 Select styles including petite sizes, orig. $26-$44
 
@@ -62,23 +62,15 @@ Shop Men Shop Women     30 to 50% Off Men's and Women's Swim
 
 Select styles, reg. $28-$104
 
-Shop Men Shop Women     30 to 50% Off Home Sale
+Shop Men Shop Women     Home Flash Sale Extra 30% Off\* $100 or More Or, Extra 25% Off\* Select Home Already 30 to 50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds and Shades
 
-Select styles
+Today Online Only | Code: HURRY6
 
-Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   Major Appliances From Your Favorite Brands Now Online and In Select Stores
+Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Furniture and Mattresses Get Details:
 
-Need Help? Call 1-844-JCP-APPL (1-844-527-2775)
+\*exclusions apply
 
-Shop Now Find a Store 18 or 30 Months Special Financing\*
-
-Available on qualifying major appliance purchases made through 7/13/16 on a JCPenney Credit Card. Must request at time of purchase.
-
-Apply Now \*Get Details Plus Free Delivery and Basic Installation
-
-On all appliance purchases over $299
-
-Get Details Dorm Life Stock Up on Dorm Essentials Shop All Dorm Dorm Checklist Sephora Shop Lips: JCP Salon 24.99 Liter Duos from Matrix, Total Results and Sexy Hair Shop Now: 50 to 70% Off Final Markdowns Shop Clearance Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play
+Dorm Life Stock Up on Dorm Essentials Shop All Dorm Dorm Checklist Sephora Shop Lips: JCP Salon 24.99 Liter Duos from Matrix, Total Results and Sexy Hair Shop Now: 50 to 70% Off Final Markdowns Shop Clearance Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
