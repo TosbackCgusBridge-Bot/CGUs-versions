@@ -1,4 +1,4 @@
-Close Window  
+Skip to Content Close Window  
   
   Privacy Notice **Effective Date: March 4, 2016**  
   
