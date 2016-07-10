@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
+**The Power of Police, Protesters and Cell Phone Video**
+
 **Pasta's Not Fattening — Really**
 
 **No Wisdom in Crowds? One Head May Be Better Than Two or 22**
-
-**How Can You Avoid That Trip to the Dentist? Regrow Your Teeth**
 
 **See More Headlines »**
 
