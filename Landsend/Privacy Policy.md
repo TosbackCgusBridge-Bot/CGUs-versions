@@ -108,8 +108,6 @@
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
     *   Essentials for Summer Events
-    *   Shirts of Summer
-    *   Swim Shop 2016
     *   Tailored Fit Shop
     *   Sale
     
@@ -125,6 +123,7 @@
     
     Girls>.
     
+    *   Backpacks &. Lunch Boxes
     *   Swimsuits
     *   Tops
     *   Sweaters
@@ -139,10 +138,10 @@
     *   Shoes
     *   Accessories
     *   Long Underwear
-    *   Backpacks &. Lunch Boxes
     
     Boys>.
     
+    *   Backpacks &. Lunch Boxes
     *   Swimwear
     *   Tops
     *   Sweaters
@@ -156,13 +155,12 @@
     *   Shoes
     *   Accessories
     *   Long Underwear
-    *   Backpacks &. Lunch Boxes
     
     FEATURED SHOPS
     
     *   New Arrivals
-    *   Swim Shop
     *   Backpacks &. Lunch Boxes
+    *   Swim Shop
     *   School Uniforms
     *   Boys' Iron Knee
     *   Girls' Knit Kit
@@ -397,8 +395,6 @@
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
     *   Essentials for Summer Events
-    *   Shirts of Summer
-    *   Swim Shop 2016
     *   Tailored Fit Shop
     *   Sale
     
@@ -415,6 +411,7 @@
     
     Back | Kids Girls Back | Girls
     
+    *   Backpacks &. Lunch Boxes
     *   Swimsuits
     *   Tops
     *   Sweaters
@@ -429,10 +426,10 @@
     *   Shoes
     *   Accessories
     *   Long Underwear
-    *   Backpacks &. Lunch Boxes
     
     Boys Back | Boys
     
+    *   Backpacks &. Lunch Boxes
     *   Swimwear
     *   Tops
     *   Sweaters
@@ -446,13 +443,12 @@
     *   Shoes
     *   Accessories
     *   Long Underwear
-    *   Backpacks &. Lunch Boxes
     
     FEATURED SHOPS Back | Kids
     
     *   New Arrivals
-    *   Swim Shop
     *   Backpacks &. Lunch Boxes
+    *   Swim Shop
     *   School Uniforms
     *   Boys' Iron Knee
     *   Girls' Knit Kit
