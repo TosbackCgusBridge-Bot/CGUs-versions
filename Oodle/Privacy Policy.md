@@ -155,17 +155,12 @@ Last update August 15, 2015
 *   » Content Policies
 *   » Copyright Infringement
 
+Oodle is now owned and operated by Oodle Holdings. You can review our new terms of use here.
+
 *   About Us
 *   Help
 *   Safety Center
 *   Privacy Policy
 *   Terms of Use
-
-*   United States
-*   Canada
-*   United Kingdom
-*   India
-*   Ireland
-*   Australia
 
 © Copyright 2016 Oodle Holdings, LLC. All rights reserved.
