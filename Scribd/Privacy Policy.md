@@ -118,7 +118,7 @@ Have more questions? Submit a request 0 Comments Article is closed for comments.
 *   General Terms of Use
 *   Scribd Paid Access End User License Agreement
 *   How many books can I read each month?
+*   Uploading documents
 *   The iOS Beta Program
-*   What do I do if I've lost or forgotten my password?
 
 Powered by Zendesk
