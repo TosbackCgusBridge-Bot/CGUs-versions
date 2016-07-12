@@ -1,13 +1,12 @@
 *   Who we are
     *   Our story
-    *   Where we are
-    *   Leadership team
     *   Our people
-    *   Softonic Clean &. Safe
-    *   Softonic &. Our Environment
+    *   Leadership team
+    *   Where we are
 *   What we do
-    *   User services
-    *   Developer services
+    *   For Users
+    *   For Developers
+    *   Softonic Clean &. Safe
 *   Company news
     *   Softonic Blog
     *   Press room
