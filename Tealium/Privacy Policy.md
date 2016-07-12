@@ -1,5 +1,5 @@
 *   Products
-    *   Tealium iQ
+    *   Tealium iQ Tag Management
     *   Tealium AudienceStream
     *   Tealium DataAccess
 *   Solutions
