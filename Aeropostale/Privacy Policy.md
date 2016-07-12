@@ -69,7 +69,6 @@ Aéropostale
     *   Joggers + Sweats
     *   Pants
     *   Shorts
-    *   Swim + Sport Shorts
     
     *   UNDERWEAR + SOCKS
     *   Flip Flops
