@@ -4,7 +4,7 @@ English (US) Español Français Português do Brasil Submit a request Sign in
 2.  General Info
 3.  Terms and Policies
 
-Privacy policy **Jason** July 09, 2016 21:19
+Privacy policy **Jason** July 11, 2016 18:06
 
 April 18, 2013
 
@@ -12,7 +12,7 @@ Scribd values the privacy of the users, subscribers, publishers, members, and ot
 
 By using the Scribd Platform, you expressly consent to the information handling practices described in this notice.
 
-This Privacy Notice is incorporated into and is subject to the Scribd Platform Terms of Use. Your use of the Scribd Platform and any personal information you provide through the Scribd Platform are subject at all time to this Privacy Notice and the Terms of Use. Terms for “Scribd” and the “Scribd Platform” apply to any site or mobile application owned and operated by Scribd, Inc, including Scribd.com, Float.com, and the Float mobile application.
+This Privacy Notice is incorporated into and is subject to the Scribd Platform Terms of Use. Your use of the Scribd Platform and any personal information you provide through the Scribd Platform are subject at all time to this Privacy Notice and the Terms of Use. Terms for “Scribd” and the “Scribd Platform” apply to any site or mobile application owned and operated by Scribd, Inc, including Scribd.com and the Scribd mobile application.
 
 1.  The Information Scribd Collects
 2.  The Way Scribd Uses Information
@@ -117,8 +117,8 @@ Have more questions? Submit a request 0 Comments Article is closed for comments.
 
 *   General Terms of Use
 *   Scribd Paid Access End User License Agreement
+*   Scribd Accessibility Policy
+*   How do I get help?
 *   How many books can I read each month?
-*   Uploading documents
-*   The iOS Beta Program
 
 Powered by Zendesk
