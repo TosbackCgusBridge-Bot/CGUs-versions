@@ -202,9 +202,9 @@ Give a Buckle Gift card
 *   Tees
 *   Jeans
 *   Shorts
-*   Tanks
 *   Shirts
 *   Shoes
+*   Raglans
 *   Show All Men's New
 
 *   Kid's New
