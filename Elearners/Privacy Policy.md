@@ -26,6 +26,7 @@ Help Section
 *   CA Privacy Policy
 *   Terms of Use
 *   Site Map
+*   FAQs about eLearners.com
 
 Privacy Policy
 
