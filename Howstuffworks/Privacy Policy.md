@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**New Device Turns Grape Juice to Wine in Just an Hour. Where Do We Sign Up?**
+**The 5 Animals Most Suitable to Replace Your Family Pet**
 
-**Hear and Now: Tesla, Transhumanism and Your Emotions on Marijuana**
+**Science Determines How Long Until Eye Contact Turns Awkward**
 
-**Do Female Paparazzi Exist?**
+**Pokemon Go Where Ingress Went**
 
 **See More Headlines »**
 
