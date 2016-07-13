@@ -352,13 +352,13 @@ Banking services
 *   Global Private Banking
 *   Retail Banking and Wealth Management
 
-Follow us on
+Follow us
 
 *   Twitter
 *   LinkedIn
 *   YouTube
 
-Follow us on
+Follow us
 
 *   Twitter
 *   LinkedIn
