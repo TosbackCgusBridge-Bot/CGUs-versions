@@ -119,6 +119,6 @@ Have more questions? Submit a request 0 Comments Article is closed for comments.
 *   Scribd Paid Access End User License Agreement
 *   Scribd Accessibility Policy
 *   How do I get help?
-*   How many books can I read each month?
+*   What do I do if I've lost or forgotten my password?
 
 Powered by Zendesk
