@@ -185,7 +185,7 @@ From time to time, we may change this Privacy Statement to accommodate new techn
 
 If you have questions regarding this Privacy Statement or the information practices of the Tealium Website please contact the Tealium’s privacy team at privacy@tealium.com or by mailing Tealium’s Privacy Office, 11085 Torreyana Road, San Diego, CA 92121.
 
-11085 Torreyana Road  
+11095 Torreyana Road  
 San Diego, CA 92121  
 Main: +1 (858) 779-1344  
 
