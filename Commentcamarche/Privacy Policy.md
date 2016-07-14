@@ -123,8 +123,8 @@ A voir également
 *   Conditions generales d'utilisation
 *   Conditions générale d'utilisation site web
 *   Tubidy
-*   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
-*   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
-*   Redaction conditions generales (Résolu) » Forum - Vos droits sur internet
-*   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
-*   Impossible d accepter les conditions générales de ventes (Résolu) » Forum - IPad / iPod Touch
+*   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente
+*   Les conditions générales de vente pour un site d'e-commerce
+*   Redaction conditions generales (Résolu)
+*   Sos conditions génerales de ventes (Résolu)
+*   Impossible d accepter les conditions générales de ventes (Résolu)
