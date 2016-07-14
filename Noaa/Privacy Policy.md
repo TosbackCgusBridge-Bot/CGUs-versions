@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms June was record warm for contiguous U.S. Year-to-date period was also 3rd warmest AROUND NOAA // U.S. experienced at least 8 billion-dollar disasters so far this year 6 steps to summer safety Infographic: 10 ways to help our ocean
+Enter Search Terms June was record warm for contiguous U.S. Year-to-date period was also 3rd warmest AROUND NOAA // Blog: Tackling America's water challenges with science U.S. experienced at least 8 billion-dollar disasters so far this year The top 10 dangers at the beach and how you can stay safe
 
 *   About our agency
 *   News and features
