@@ -32,7 +32,6 @@ Aéropostale
     *   Active Bottoms
     
     *   DRESSES + ROMPERS
-    *   JACKETS + VESTS
     *   SHOES
     *   ACCESSORIES
     
@@ -69,10 +68,8 @@ Aéropostale
     *   Joggers + Sweats
     *   Pants
     *   Shorts
-    *   Swim + Sport Shorts
     
     *   UNDERWEAR + SOCKS
-    *   Flip Flops
     *   ACCESSORIES
 *   Active
     *   Live Love Dream
