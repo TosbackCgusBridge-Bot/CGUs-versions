@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: June 6, 2016**
+**Last Revised: July 13, 2016**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -29,7 +29,7 @@ GoDaddy may, in its sole and absolute discretion, change or modify this Agreemen
 
 ****2**. ELIGIBILITY. AUTHORITY**
 
-This Site and the Services are available only to Users who can form legally binding contracts under applicable law.  By using this Site or the Services, you represent and warrant that you are (i) at least eighteen (18) years of age, (ii) otherwise recognized as being able to form legally binding contracts under applicable law, and (iii) are not a person barred from purchasing or receiving the Services found under the laws of the United States or other applicable jurisdiction.
+This Site and the Services are available only to Users who can form legally binding contracts under applicable law.  By using this Site or the Services, you represent and warrant that you are (i) at least eighteen (18) years of age, (ii) otherwise recognized as being able to form legally binding contracts under applicable law, or (iii) are not a person barred from purchasing or receiving the Services found under the laws of the United States or other applicable jurisdiction.
 
 If you are entering into this Agreement on behalf of a corporate entity, you represent and warrant that you have the legal authority to bind such corporate entity to the terms and conditions contained in this Agreement, in which case the terms "you", "your", "User" or "customer" shall refer to such corporate entity.  If, after your electronic acceptance of this Agreement, GoDaddy finds that you do not have the legal authority to bind such corporate entity, you will be personally responsible for the obligations contained in this Agreement, including, but not limited to, the payment obligations. GoDaddy shall not be liable for any loss or damage resulting from GoDaddy’s reliance on any instruction, notice, document or communication reasonably believed by GoDaddy to be genuine and originating from an authorized representative of your corporate entity. If there is reasonable doubt about the authenticity of any such instruction, notice, document or communication, GoDaddy reserves the right (but undertakes no duty) to require additional authentication from you.  You further agree to be bound by the terms of this Agreement for transactions entered into by you, anyone acting as your agent and anyone who uses your account or the Services, whether or not authorized by you.
 
@@ -786,5 +786,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 6/6/16  
+Revised: 7/13/16  
 Copyright © 2005-2016 GoDaddy.com, LLC All Rights Reserved.
