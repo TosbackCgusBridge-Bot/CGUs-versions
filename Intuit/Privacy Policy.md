@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C15027806268
+true true C15032349314
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p13.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Tue Jul 12 11:15:30 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Wed Jul 13 11:15:34 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -50,143 +50,23 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Penney Palooza -- 48 Hours Of Nonstop Savings Extra 30% Off\* With Your Jcpenney Credit Card Or, Extra 25% Off\* With Any Other Method Of Payment Or, Extra 15% Off\* Select Watches, Salon Products, Furniture, Mattresses, Custom Blinds and Shades Plus Free Shipping Over $49
+50% Off\*
 
-2 Days Online Only | Ends July 12 | Code: NEWLOOK6
+Select Orig. and Reg-Priced Styles
 
-Shop Now
+Today Online Only | Ends 7/13 | Code: YOUSHOP6 Shop All Home   Shop Bedding and Bath Shop Window Shop Home Decor Shop Furniture and Mattresses \*Exclusions and details   40 to 50% Off St. John's Bay Sportswear
 
-\*30% Off subject to credit approval.
+Select styles, orig. $26-$44
 
-Exclusions and details: 16.99 Sundresses
-
-Select styles, orig. $44
-
-Shop Sundresses 11.99 St. John’s Bay Solid Cargo or Flat-Front Shorts for Him
-
-Select styles, reg. $40-$44
-
-Shop St. John’s Bay 8.99 Royal Velvet Signature Soft Damask or 30x54” Solid Bath Towels
-
-Select styles, reg. $16
-
-Shop Bath Towels 40-50% OFF Diamond Stud Earrings
-
-Select styles, reg. 624.98 pr.
-
-Shop Diamond Stud Earrings 14.99 Bras
-
-Select styles, reg. $30-$38
-
-Shop Bras 19.99 Wedges for Her
-
-Select styles, reg. $45-$60
-
-Shop Wedges for Her 11.99 All Men’s St. John’s Bay Solid Polos
-
-reg. $26
-
-Shop St. John’s Bay 3.99 Boys’ &. Girls’ Arizona Solid &. Favorite Tees
-
-Select styles, reg. $10-$12
-
-Shop Arizona 31.99 Clarks Mila or Olina Park Sandals
-
-Select styles, reg. $55, Clarks excluded from coupon
-
-Shop Sandals 9.99 AFTER $10 MAIL-IN REBATE Cooks Nonstick Griddle or Blender
-
-Select styles, sale 19.99, reg. $40-$60, Small appliances excluded from coupon
-
-Shop Cooks Small Appliances 5.99 St. John’s Bay, a.n.a &. Stylus Tees for Her
-
-Select styles, including petite, orig. $14-$16
-
-Shop Tees for Her 60% OFF All Haggar Work-To-Weekend Pants
-
-reg. $60
-
-Shop Haggar 8.99 Boys’ &. Girls’ Arizona Shorts
-
-Select styles, reg. $26-$30
-
-Shop Arizona Shorts 9.99 St. John’s Bay, a.n.a &. Stylus Shorts for Her
-
-Select styles, also in petite, orig. $30-$44
-
-Shop Shorts for Her 119.99+ EXTRA 10% OFF INSTANT REBATE Keurig K250 Brewer
-
-Select styles, reg. $175, See final price in cart, Small appliances excluded from coupon
-
-Shop Keurig 39.99 Men’s and Women’s New Balance &. Asics
-
-Select styles, msrp $65-$68, Athletic shoes excluded from coupon
-
-Shop Athletic Shoes 15.99 Juniors’ Arizona Poplin Crop Pants
-
-Select styles, reg. $40
-
-Shop Juniors’ Arizona 9.99 Liz Claiborne Tank
-
-Select styles, orig. $26
-
-Shop Liz Claiborne 9.99 Royal Velvet Crushed Voile 50x84” Rod-Pocket Sheer Panel
-
-Select styles, reg. $20
-
-Shop Window Panels 6.99 St. John’s Bay, &. Stylus Plus Tees
-
-reg. $16-$20
-
-Shop Plus Tees 29.99 Men’s Dress Shoes
-
-Select styles, reg. $60
-
-Shop Dress Shoes $99 ea. Seiko &. Citizen Watches
-
-Select styles, reg. 199.99-$260 ea.
-
-Shop Watches 12.99 St. John’s Bay Plus Bermuda Shorts
-
-Select styles, orig. $36
-
-Shop Plus Bermuda Shorts 17.99 Stafford Travel Wrinkle-Free Oxford Dress Shirt
-
-Select styles, reg. $40
-
-Shop Dress Shirts 4.99 Boys’ &. Girls’ Arizona &. Total Girl Graphic Tees
-
-Select styles, reg. $16
-
-Shop Graphic Tees 17.99 Stafford Classic Dress Pants
-
-Select styles, reg. $70
-
-Shop Stafford Pants 50% OFF Royal Velvet 400TC Wrinkleguard Full Sheet Set
-
-64.99, reg. $130
-
-Shop Sheets 70% OFF Men’s Hats, Sunglasses &. Flip Flops
-
-Select styles, reg. $22-$34
-
-Shop Hats, Sunglasses &. Flip Flops 50% OFF Baby Furniture
+Shop St. John's Bay Men Shop St. John's Bay Women     Izod 40 to 50% Off Kids' Uniforms
 
 Select styles
 
-Shop Baby Furniture 60% OFF Madison Park Bedding
+Shop Boys' Uniforms Shop Girls' Uniforms     Converse Sav on Converse for the Family
 
-Select styles, reg. $110-$550
+Select styles, Excluded from coupon.
 
-Shop Bedding 12.99 Earth Angels Pajama Shorts Set for Her
-
-orig. $44
-
-Shop Pajama Shorts Sets for Her $7 ea. Juniors’ Jewelry
-
-Select styles, reg. $10-$38 ea.
-
-Shop Juniors’ Jewelry Dorm Life Stock Up On Dorm Essentials
+Shop Converse Dorm Life Stock Up On Dorm Essentials
 
 Select styles
 
@@ -256,7 +136,7 @@ ABOUT US
 *   investors
 *   CA Transparency in Supply Chains Act
 
-JCPenney credit card pay bill check balance apply now JCPenney is Your One-Stop Shop for Clothing, Furniture, Appliances and More! At JCPenney, we're dedicated to bringing you the very best in stylish and affordable goods. From home furniture and decor to fashionable clothing for women, men and kids--we've got everything you're looking for. Outfit the kitchen with new and improved appliances at unbeatable prices, then shop for the kids from our official Disney store. Your journey towards better value starts now, online or in your closest JCPenney store! Popular Searches
+JCPenney credit card pay bill check balance apply now JCPenney is Your One-Stop Shop for Back to School &. College Dorm Essentials! At JCPenney, we're dedicated to bringing you the very best in stylish and affordable goods. With the upcoming school year, you've got to be well prepared, and we're here to help out with that! From school supplies and backpacks to dorm bedding and decor, you can find everything you need to go back to school in style. Headed off to college? Take a look at our handy dorm room checklist to make sure you're not forgetting anything. Your journey towards better value starts and ends with us, online or in your closest JCPenney store! Popular Searches
 
 *   labor day sales
 *   homecoming dresses
