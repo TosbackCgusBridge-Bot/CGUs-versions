@@ -10,7 +10,8 @@ Fitbit
     *   **Active Fitness**
         *   Fitbit Charge HR™
         *   Fitbit Blaze™ New
-    *   **Performance Fitness**
+    *   **Performance  
+        Fitness**
         *   Fitbit Surge™
     *   **Wi-Fi** Smart Scale
         *   Fitbit® Aria®
