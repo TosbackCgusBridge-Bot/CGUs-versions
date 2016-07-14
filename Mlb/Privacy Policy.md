@@ -164,7 +164,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   WGT Baseball: MLB
     *   Prospect Watch
     *   Fantasy 411 Blog
-    *   Follow @Fantasy411Home Run Derby Bracket Challenge Beat the Streak DraftKings R.B.I. Baseball 16 MLB.com Line Drive MLB.com Home Run Derby Fantasy Player Preview 160x160
+    *   Follow @Fantasy411Beat the Streak DraftKings R.B.I. Baseball 16 MLB.com Line Drive MLB.com Home Run Derby Fantasy Player Preview 160x160
 *   Auction
 *   Teams Teams American League AL East
     
