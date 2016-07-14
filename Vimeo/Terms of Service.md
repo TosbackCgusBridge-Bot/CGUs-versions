@@ -1,6 +1,6 @@
 Terms of Service
 
-Last Updated: June 27, 2016
+Last Updated: July 13, 2016
 
 \*\*PLEASE READ THIS DOCUMENT CAREFULLY. Vimeo, Inc. ("Vimeo," "we," or "us") offers an online video sharing platform and community through its website located at Vimeo.com and other Vimeo-operated sites (collectively, the "Vimeo Site"), mobile applications, connected TV applications, and other online services (collectively and including the Vimeo Site, the "Vimeo Service"). By registering as a member or by using the Vimeo Service in any way, you accept these Terms of Service ("Agreement"), which forms a binding agreement between you and Vimeo. If you do not wish to be bound by this Agreement, do not use the Vimeo Service. \*\*
 
@@ -60,7 +60,9 @@ Your privacy rights are set forth in our Privacy Policy, which forms a part of t
 
 **USER NAME:** We encourage you to use your real name. If you are a business, government, or non-profit entity, you must use the actual name of your organization. You may not use someone else's name, a name that violates any third party right, or a name that is obscene or otherwise objectionable.
 
-**ACCOUNT SECURITY:** You are responsible for all activity that occurs under your account, including any activity by unauthorized users. You must not allow others to use your account. You must safeguard the confidentiality of your password. If you are using a computer that others have access to, you must log out of your account after using the Vimeo Service. If you become aware of an unauthorized access to your account, you must change your password and notify us immediately.
+**ACCOUNT SECURITY:** You are responsible for all activity that occurs under your account, including any activity by authorized or unauthorized users. You must not allow others to use your account credentials and you must safeguard the confidentiality of those credentials. If you are using a computer that others have access to, you must log out of your account after using the Vimeo Service. If you become aware of an unauthorized access to your account, you must change your password and notify us immediately.
+
+**SEAT ACCESS:** If you are a PRO or Business subscriber, you may grant access to your account to other Vimeo members subject to a seat limit. You are responsible for the actions of those persons insofar as your account is concerned. If you are a Vimeo member who has been granted access to a PRO or Business account, you must comply with the terms of this Agreement in accessing that account.
 
 5\. Subscriptions and Purchases
 
