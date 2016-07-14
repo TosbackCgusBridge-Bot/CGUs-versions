@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**The 5 Animals Most Suitable to Replace Your Family Pet**
+**Does bubblegum flavor represent something from the natural world?**
 
-**Science Determines How Long Until Eye Contact Turns Awkward**
+**Unintended Consequences of Pokemon Go**
 
-**Pokemon Go Where Ingress Went**
+**What Happens to the Billions of Cigarette Butts on the Beach?**
 
 **See More Headlines »**
 
