@@ -59,13 +59,13 @@ Skip to main content Online Trust Alliance
 
 Home › Privacy Policy Privacy Policy Privacy Policy Highlights
 
-**Updated March 1, 2016** (See archived privacy policy)                                  
+**Updated July 13, 2016** (See archived privacy policy)                                  
 
 Complete Privacy Policy                                   
 
 Politica De Privacida
 
-Online Trust Alliance, (OTA) is committed to protecting your privacy.  By accessing the Site www.otalliance.org, you are consenting to the information collection and use practices described in this privacy policy.
+Online Trust Alliance, (OTA) is committed to protecting your privacy.  By accessing the Site www.otalliance.org, you are consenting to the information collection and use practices described in this privacy policy. 
 
 Online Trust Alliance has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Site www.otalliance.org.
 
@@ -78,7 +78,7 @@ We need to collect certain information that personally identifies you in order t
 OTA does not share or sell any data to third parties with the exception of third parties who provide services on our behalf.  OTA occasionally hires other companies, consultants and contractors to provide limited services. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose.  \[Learn More\] 
 
 **Cookies and Other Tracking Technologies**  
-We and our service providers may use tracking technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the Site, track users’ movements around the Site, and gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies from these companies on an individual or aggregated basis. \[Learn More\]
+We and our service providers may use tracking technologies such as cookies, beacons, tags, scripts or similar technologies, to analyze trends, administer the Site, track users’ movements around the Site, and gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies from these companies on an individual or aggregated basis. \[Learn More\]
 
 **User Options**  
 OTA honors a user's Do Not Track Setting, directing a site to not share tracking information with any third party with the exception of providing services on OTA's behalf as outlined above. Receiving email messages from OTA is optional and we provide choice options. Users can also access the personal information they have provided to OTA for the purposes of reviewing, updating, and deleting such information.  \[Learn More\]
@@ -92,14 +92,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Mon, Jul 11, 2016 IoT Evolution Expo
-
-OTA Members - 30% off registration using the link here. Through informative conference tracks, an IoT Exhibition floor, case studies, special events, networking and more, the IoT Evolution Expo is the ultimate venue for attendees to gain an understanding on how the Internet of Things (IoT) will be the driving force behind improving efficiencies, driving revenue opportunities and solving business problems across multiple industries and all business functional areas.Meet with the IoT ecosystem and worldwide business leaders and learn how to leverage the power of the IoT to transform and
-
-Mon, Jul 11, 2016 RSA Conference Webcast: OTA Online Trust Audit &. Honor Roll
-
-OTA provides a look into the 2016 Audit &. Honor Roll results for RSA Conference webcast audiences. The Online Trust Audit evaluates nearly 1,000 websites against over 50 detailed metrics to analyze security, privacy and consumer protection practices.  Now in its 8th year, the 2016 Audit set an even higher bar and companies achieving prestigious Honor Roll status show exceptional commitment to best practices and trust leadership. Discover the top 10 achievers, hear results and understand trends in consumer trust.
-
 Wed, Jul 20, 2016 Email Deep Dive: 2016 Online Trust Audit
 
 Join OTA's deep dive into top trends in email security and authentication best practices seen in the 2016 Online Trust Audit. This webinar will provide insights into the adoption and implementation of SPF, DKIM and DMARC as well as TLS and related technologies to help protect consumers and users from receiving malicious email. Speakers will share key learnings and provide recommendations. Learn why email best practices strengthen your brand reputation, consumer trust and marketing effectiveness.
@@ -107,6 +99,14 @@ Join OTA's deep dive into top trends in email security and authentication best p
 Wed, Sep 7, 2016 FTC Fall Technology Series: Ransomware
 
 With alarming frequency, ransomware hackers are sneaking into consumer and business computers, encrypting files containing photos, documents and other important data, and then demanding a ransom in exchange for the key needed to decrypt the files. At times, these hackers pose as the FBI or other law enforcement officials and claim that the ransom is a “fine” for viewing illegal material and that failure to pay the “fine” will result in criminal prosecution.
+
+Tue, Sep 13, 2016 Privacy. Security. Risk. 2016
+
+Innovative since Day 1, P.S.R. brings together two related fields—privacy and security—helping you see beyond your role in order to excel in your role. Because perspective is everything. Delivering the most thought-provoking speakers, sessions led by foremost experts and invaluable opportunities to connect and share ideas, P.S.R. gives you a world of new perspective. Don’t miss it. Training and Workshops September 13-14. Conference September 15-16.
+
+Thu, Sep 22, 2016 Security of Things Forum
+
+The market research firm IDC predicts that the number of Internet-connected endpoints will almost triple: surging from 10.3 billion in 2014 to 29.5 billion by the end of this decade. The changes wrought by this fast-emerging new computing environment are profound. But recent events prove that, in the rush to develop new Internet of Things products and services, security is falling by the wayside. SECoT Forum presents leaders in the areas of information security and privacy, developers of IoT devices and platforms, as well as investors, entrepreneurs and policy makers.
 
 More >>.
 
