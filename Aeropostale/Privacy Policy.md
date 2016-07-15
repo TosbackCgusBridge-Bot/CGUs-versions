@@ -32,6 +32,7 @@ Aéropostale
     *   Active Bottoms
     
     *   DRESSES + ROMPERS
+    *   JACKETS + VESTS
     *   SHOES
     *   ACCESSORIES
     
@@ -69,6 +70,7 @@ Aéropostale
     *   Pants
     *   Shorts
     
+    *   JACKETS
     *   UNDERWEAR + SOCKS
     *   ACCESSORIES
 *   Active
