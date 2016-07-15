@@ -104,7 +104,18 @@ Evolution du présent contrat Quidéa se réserve le droit de modifier les terme
   
 Il est ainsi conseillé à l'Utilisateur de consulter régulièrement la dernière version des Conditions d'Utilisation disponible sur le site www.commentcamarche.net.  
 Durée et résiliation Le présent contrat est conclu pour une durée indéterminée à compter de l'Utilisation du Service par l'Utilisateur.  
-Droit applicable et juridiction compétente Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents.  
+Droit applicable et juridiction compétente Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents. **A voir également :**
+
+*   Conditions generales d'utilisation
+*   Conditions générale d'utilisation site web
+*   Tubidy
+*   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente
+*   Les conditions générales de vente pour un site d'e-commerce
+*   Redaction conditions generales (Résolu)
+*   Sos conditions génerales de ventes (Résolu)
+*   Impossible d accepter les conditions générales de ventes (Résolu)
+
+  
 Télécharger cet article (PDF) Précédent
 
 *   8
@@ -117,14 +128,4 @@ Télécharger cet article (PDF) Précédent
 *   15
 *   16
 
-Suivant  
-A voir également
-
-*   Conditions generales d'utilisation
-*   Conditions générale d'utilisation site web
-*   Tubidy
-*   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente
-*   Les conditions générales de vente pour un site d'e-commerce
-*   Redaction conditions generales (Résolu)
-*   Sos conditions génerales de ventes (Résolu)
-*   Impossible d accepter les conditions générales de ventes (Résolu)
+Suivant
