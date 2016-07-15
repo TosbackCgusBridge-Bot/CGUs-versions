@@ -1,6 +1,6 @@
 SEG1 hp
 
-*   ×
+×
 
 *   Weekly Ad
 *   Office Depot Business Solution
@@ -17,7 +17,7 @@ SEG1 hp
 
 Office Depot Deals
 
-zYQ3cOrl6qvWiu8IqvrYBsv
+cOA6NBL8loiu29\_yL\_xClQI
 
 Search Suggestions
 
