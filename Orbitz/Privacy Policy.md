@@ -1,5 +1,7 @@
 Join Rewards
 
+*   Español
+
 Show menu
 
 *   Shop Travel
@@ -27,6 +29,7 @@ Show menu
 *   Support
     *   Customer Support
     *   Feedback
+*   Español
 
 *   Home
 *   Hotels
