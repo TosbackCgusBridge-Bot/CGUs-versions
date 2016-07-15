@@ -146,7 +146,6 @@ Give a Buckle Gift card
 *   Jeans
 *   Shorts
 *   Crops/Capris
-*   Swimwear
 *   Show All Girl's Clothes
 
 *   Boy's Clothing
