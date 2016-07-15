@@ -7,13 +7,13 @@ VH1 Menu VH1
     *   Show News
     *   TV Schedule
     *   Love &. Hip Hop Atlanta
-    *   Black Ink Crew
-    *   Hip Hop Honors
+    *   Basketball Wives LA
+    *   Shaunie's Home Court
+    *   VH1 Live!
     *   Amber Rose Show
+    *   T.I &. Tiny: The Family Hustle
     *   Dating Naked
-    *   Barely Famous
-    *   Love &. Hip Hop
-    *   Hit The FloorSee all Shows
+    *   Barely FamousSee all Shows
 *   Pop Culture
     *   Music
     *   Celebrity
@@ -30,7 +30,7 @@ VH1 Menu VH1
 
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Atlanta Black Ink Crew Hip Hop Honors Amber Rose Show Dating Naked Barely Famous Love &. Hip Hop Hit The Floor See all Shows
+*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Atlanta Basketball Wives LA Shaunie's Home Court VH1 Live! Amber Rose Show T.I &. Tiny: The Family Hustle Dating Naked Barely Famous Hip Hop Honors Black Ink Crew Hit The Floor Love &. Hip Hop See all Shows
 *   Pop Culture Music Celebrity Movies TV Around The Web Video See all Pop Culture
 *   Life Beauty &. Health Style Relationships Video See all Life
 *   facebook twitter tumblr
