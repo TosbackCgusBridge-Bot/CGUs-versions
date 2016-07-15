@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Does bubblegum flavor represent something from the natural world?**
+**Carbon Foam From Burnt Bread Could Save Lots of Dough**
 
-**Unintended Consequences of Pokemon Go**
+**Troubled Hedgehogs Fare Better in Urban Environments**
 
-**What Happens to the Billions of Cigarette Butts on the Beach?**
+**Watch: The Secret Life of Luggage — And the New Tech That Tracks It**
 
 **See More Headlines »**
 
