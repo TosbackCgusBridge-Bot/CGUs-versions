@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C15032349314
+true true C15037681410
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Wed Jul 13 11:15:34 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Thu Jul 14 11:08:15 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -50,23 +50,23 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-50% Off\*
+40 to 50% Off Arizona and St. John's Bay Shorts for the Family
 
-Select Orig. and Reg-Priced Styles
+Select styles, reg. $26-$44
 
-Today Online Only | Ends 7/13 | Code: YOUSHOP6 Shop All Home   Shop Bedding and Bath Shop Window Shop Home Decor Shop Furniture and Mattresses \*Exclusions and details   40 to 50% Off St. John's Bay Sportswear
+Shop Men   Shop Women Shop Juniors   Shop Boys   Shop Girls 30 to 50% Off Home Sale
 
-Select styles, orig. $26-$44
+Select home items
 
-Shop St. John's Bay Men Shop St. John's Bay Women     Izod 40 to 50% Off Kids' Uniforms
+Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   Izod 40 to 50% Off Kids' Izod Uniforms
 
-Select styles
+Select styles, reg. $20-$36
 
-Shop Boys' Uniforms Shop Girls' Uniforms     Converse Sav on Converse for the Family
+Shop Boys' Uniforms Shop Girls' Uniforms     25 to 40% Off Athletic Shoes
 
-Select styles, Excluded from coupon.
+Select styles, msrp $60-$75, excluded from coupon.
 
-Shop Converse Dorm Life Stock Up On Dorm Essentials
+Shop Men's Athletic Shoes   Shop Women's Athletic Shoes   Dorm Life Stock Up On Dorm Essentials
 
 Select styles
 
