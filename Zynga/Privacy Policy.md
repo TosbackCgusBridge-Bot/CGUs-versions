@@ -25,8 +25,8 @@ Navigation
     *   Words With Friends
     *   Yummy Gummy
 *   CASINO
-    *   Black Diamond Casino
     *   Free Slots
+    *   Black Diamond Casino
     *   Hit It Rich!
     *   Princess Bride Slots
     *   Spin It Rich
