@@ -117,8 +117,8 @@ Have more questions? Submit a request 0 Comments Article is closed for comments.
 
 *   General Terms of Use
 *   Scribd Paid Access End User License Agreement
-*   How do I get help?
 *   Scribd Accessibility Policy
+*   How do I get help?
 *   How do I remove recently read items from my history?
 
 Powered by Zendesk
