@@ -210,7 +210,7 @@ skip to content skip to navigation skip to search
     
     FEATURED SHOPS
     *   Water Shoes &. Sandals
-    *   Trekkers, Mocs &. More
+    *   Back To School Shoes
     *   Espadrilles
     *   Accessories Shop
     *   Sale
@@ -500,7 +500,7 @@ skip to content skip to navigation skip to search
     
     FEATURED SHOPS Back | Shoes
     *   Water Shoes &. Sandals
-    *   Trekkers, Mocs &. More
+    *   Back To School Shoes
     *   Espadrilles
     *   Accessories Shop
     *   Sale
