@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Carbon Foam From Burnt Bread Could Save Lots of Dough**
+**The Hitomi Satellite Briefly Glimpsed the Universe, Then Died — What Happened?**
 
-**Troubled Hedgehogs Fare Better in Urban Environments**
+**Twinkies' Maker Hostess Going Public. Snack Cakes for Everyone!**
 
-**Watch: The Secret Life of Luggage — And the New Tech That Tracks It**
+**7 Things We Learned About 'Rogue One' at Star Wars Celebration Europe**
 
 **See More Headlines »**
 
