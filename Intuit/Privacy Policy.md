@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C15041241701
+true true C15044981916
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Fri Jul 15 11:13:11 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Sat Jul 16 11:09:15 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -50,27 +50,31 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-40 to 50% Off Arizona and St. John's Bay Shorts for the Family
+60% Off Arizona and St. John's Bay Shorts for the Family
 
 Select styles, reg. $26-$44
 
-Shop Men   Shop Women Shop Juniors   Shop Boys   Shop Girls 30 to 50% Off Home Sale
+Shop Men   Shop Women Shop Juniors   Shop Boys   Shop GirlsAll Day Doorbusters | Saturday July 16
 
-Select home items
+Use your coupon and save even more!
 
-Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   Izod 40 to 50% Off Kids' Izod Uniforms
+Shop Doorbusters Home Flash Sale Extra 30% Off\* $100 or More Or, Extra 25% Off\* Select Home Already 30-50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds and Shades
+
+Today Online Only | Code: WESHOP4
+
+Get details: Shop Bedding and Bath Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses Izod 40 to 50% Off Kids' Izod Uniforms
 
 Select styles, reg. $20-$36
 
-Shop Boys' Uniforms Shop Girls' Uniforms     25 to 40% Off Athletic Shoes
+Shop Boys' Uniforms Shop Girls' Uniforms     40 to 60% Off Athletic Shoes
 
 Select styles, msrp $60-$75, excluded from coupon.
 
-Shop Men's Athletic Shoes   Shop Women's Athletic Shoes   Dorm Life Stock Up On Dorm Essentials
+Shop Men's Athletic Shoes   Shop Women's Athletic Shoes   Dorm Life Back To School
 
-Select styles
+So you. So worth it.
 
-Shop All Dorm Dorm Checklist Sephora Shop Brow: JCPenney | optical
+Shop Back To School Shop All Dorm     Sephora Shop Brow: JCPenney | optical
 
 39.99 Complete Pair of Kids' Eyeglasses
 
