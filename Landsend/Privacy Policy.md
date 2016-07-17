@@ -164,7 +164,7 @@ skip to content skip to navigation skip to search
     *   Backpacks &. Lunch Boxes
     *   Swim Shop
     *   School Uniforms
-    *   Boys' Iron Knee
+    *   Iron Knee Pants
     *   Girls' Knit Kit
     *   Sale
     
@@ -452,7 +452,7 @@ skip to content skip to navigation skip to search
     *   Backpacks &. Lunch Boxes
     *   Swim Shop
     *   School Uniforms
-    *   Boys' Iron Knee
+    *   Iron Knee Pants
     *   Girls' Knit Kit
     *   Sale
     
