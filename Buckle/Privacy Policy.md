@@ -248,8 +248,7 @@ Give a Buckle Gift card
 *   Boy's Sale Jeans
 *   Show All Boy's Sale
 
-Give a Buckle Gift card Buckle.com just got a makeover. Tell us what you think. Send Feedback.  
-Need help? Contact Guest Services at 1.800.607.9788 or email guest.services@buckle.com. Privacy &. Security
+Give a Buckle Gift card Need help? Contact Guest Services at 1.800.607.9788 or email guest.services@buckle.com. Privacy &. Security
 
 **Privacy &. Security Policy**  
 The Buckle, Inc. ("Buckle") cares about the privacy of our Guests. Our goal is to provide the best shopping experience possible for our Guests, and we strive to achieve that goal through our Internet shopping experience. Buckle.com collects client information to enhance your shopping experience.
