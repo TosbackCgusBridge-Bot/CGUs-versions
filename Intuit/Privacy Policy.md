@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C15044981916
+true true L15134507405
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Sat Jul 16 11:09:15 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1l1j5 TIME :->. Sun Jul 17 11:15:31 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -50,27 +50,43 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-60% Off Arizona and St. John's Bay Shorts for the Family
+40 to 50% Off Arizona
 
-Select styles, reg. $26-$44
+Select styles, reg. $10-$70
 
-Shop Men   Shop Women Shop Juniors   Shop Boys   Shop GirlsAll Day Doorbusters | Saturday July 16
+Shop Arizona Girls   Shop Arizona Boys Shop Arizona Guys   Shop Arizona Juniors   Izod $5 Kids' Izod Uniform Polos
 
-Use your coupon and save even more!
+Select styles, reg. $20
 
-Shop Doorbusters Home Flash Sale Extra 30% Off\* $100 or More Or, Extra 25% Off\* Select Home Already 30-50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds and Shades
+Shop Girls Izod   Shop Boys Izod   10 to 20% Off Nike Shoes For The Family 47.99-67.99, MSRP $60-$85
 
-Today Online Only | Code: WESHOP4
+Select styles, available in wide widths. Nike excluded from coupon.
 
-Get details: Shop Bedding and Bath Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses Izod 40 to 50% Off Kids' Izod Uniforms
+Shop Nike Shoes For The Family 30 to 50% Off Home Sale
 
-Select styles, reg. $20-$36
+Select styles
 
-Shop Boys' Uniforms Shop Girls' Uniforms     40 to 60% Off Athletic Shoes
+Shop All Home Shop Bedding Shop Curtains and Drapes   Shop Kitchen and Dining Shop Furniture and Mattresses Now Online and In Select Stores! Major Appliances from Your Favorite Brands.
 
-Select styles, msrp $60-$75, excluded from coupon.
+Need help? Call 1-844-JCP-APPL (1-844-527-2775)
 
-Shop Men's Athletic Shoes   Shop Women's Athletic Shoes   Dorm Life Back To School
+Find a Store: LG - Life's Good Samsung GEUp to 20% Off\* Major Appliances
+
+Select styles
+
+Major Appliances24 Months Special Financing\*\* Or, 18 Months Special Financing\*\*
+
+Available on qualifying major appliance purchases made through 8/23/16 on a JCPenney Credit Card. Must request at time of purchase.
+
+\*\*Get Details: Apply Now
+
+\*GE, GE Profile and GE Cafe limited to 10% off savings.
+
+Plus Free Delivery and Basic Installation On all appliance purchases over $299 Get Details:JCPenney Rewards Shop and Get Rewards
+
+For points earned on major appliances
+
+Get Details: Dorm Life Back To School
 
 So you. So worth it.
 
@@ -78,7 +94,7 @@ Shop Back To School Shop All Dorm     Sephora Shop Brow: JCPenney | optical
 
 39.99 Complete Pair of Kids' Eyeglasses
 
-Get Details: 50 to 70% Off Clearance
+Get Details: 80% Off Red Zone Clearance Final Markdowns Plus New Markdowns 50 to 70% Off.
 
 In Store and Online
 
