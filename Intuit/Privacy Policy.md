@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L15134507405
+true true C15054190161
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1l1j5 TIME :->. Sun Jul 17 11:15:31 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p11.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Mon Jul 18 11:15:30 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -50,23 +50,27 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-40 to 50% Off Arizona
+40 to 50% Off Izod Uniforms
 
-Select styles, reg. $10-$70
+Select styles, 9.99-23.99, reg. $20-$40
 
-Shop Arizona Girls   Shop Arizona Boys Shop Arizona Guys   Shop Arizona Juniors   Izod $5 Kids' Izod Uniform Polos
+Shop Girls Izod Uniforms   Shop Boys Izod Uniforms  Save On Arizona Uniforms
 
-Select styles, reg. $20
+Select styles, reg. $20-$40
 
-Shop Girls Izod   Shop Boys Izod   10 to 20% Off Nike Shoes For The Family 47.99-67.99, MSRP $60-$85
+Shop Guys Arizona Uniforms Shop Juniors Arizona Uniforms Back To School
 
-Select styles, available in wide widths. Nike excluded from coupon.
+So you. So worth it.
 
-Shop Nike Shoes For The Family 30 to 50% Off Home Sale
+Shop Back To School Dorm Life Stock Up On Dorm Essentials
 
 Select styles
 
-Shop All Home Shop Bedding Shop Curtains and Drapes   Shop Kitchen and Dining Shop Furniture and Mattresses Now Online and In Select Stores! Major Appliances from Your Favorite Brands.
+Shop All Dorm 30 to 50% Off Home Sale
+
+Select styles
+
+Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses Now Online and In Select Stores! Major Appliances from Your Favorite Brands.
 
 Need help? Call 1-844-JCP-APPL (1-844-527-2775)
 
@@ -86,15 +90,20 @@ Plus Free Delivery and Basic Installation On all appliance purchases over $299 G
 
 For points earned on major appliances
 
-Get Details: Dorm Life Back To School
+Get Details: Sephora Multitaskers
 
-So you. So worth it.
+Discover do-it-all products.
 
-Shop Back To School Shop All Dorm     Sephora Shop Brow: JCPenney | optical
+Shop Sephora Multitaskers Products JCPenney | portraits
 
-39.99 Complete Pair of Kids' Eyeglasses
+TWO FREE 5x7 traditional sheet and  
+40% OFF your photo purchase
 
-Get Details: 80% Off Red Zone Clearance Final Markdowns Plus New Markdowns 50 to 70% Off.
+Get Coupon: JCP Salon 33% Off Haircare Products
+
+Select styles
+
+Shop Now: 80% Off Red Zone Clearance Final Markdowns Plus New Markdowns 50 to 70% Off.
 
 In Store and Online
 
