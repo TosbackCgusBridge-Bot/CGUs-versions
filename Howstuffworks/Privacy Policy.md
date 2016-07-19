@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**The Hitomi Satellite Briefly Glimpsed the Universe, Then Died — What Happened?**
+**Mariana Trench Exploration Finds More Weird New Underwater Species**
 
-**Twinkies' Maker Hostess Going Public. Snack Cakes for Everyone!**
+**Hear and Now: Toast in Space**
 
-**7 Things We Learned About 'Rogue One' at Star Wars Celebration Europe**
+**5 Things We Learned About the Future of 'Star Wars' at Star Wars Celebration**
 
 **See More Headlines »**
 
