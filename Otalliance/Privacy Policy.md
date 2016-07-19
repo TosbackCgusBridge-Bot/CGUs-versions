@@ -104,9 +104,9 @@ Wed, Sep 7, 2016 FTC Fall Technology Series: Ransomware
 
 With alarming frequency, ransomware hackers are sneaking into consumer and business computers, encrypting files containing photos, documents and other important data, and then demanding a ransom in exchange for the key needed to decrypt the files. At times, these hackers pose as the FBI or other law enforcement officials and claim that the ransom is a “fine” for viewing illegal material and that failure to pay the “fine” will result in criminal prosecution.
 
-Tue, Sep 13, 2016 Privacy. Security. Risk. 2016
+Thu, Sep 8, 2016 2016 Business Law Section Annual Meeting
 
-Innovative since Day 1, P.S.R. brings together two related fields—privacy and security—helping you see beyond your role in order to excel in your role. Because perspective is everything. Delivering the most thought-provoking speakers, sessions led by foremost experts and invaluable opportunities to connect and share ideas, P.S.R. gives you a world of new perspective. Don’t miss it. Training and Workshops September 13-14. Conference September 15-16.
+Join over 1,600 business law professionals and grow your international network of business law thought leaders and colleagues. OTA Executive Director Craig Spiezle will be reviewing cyber issues and considerations as it applies to IoT, breach response and vulnerability disclosures. redefining responsible and defendable security and privacy practices.
 
 More >>.
 
