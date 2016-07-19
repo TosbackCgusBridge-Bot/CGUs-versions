@@ -74,6 +74,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
 *   Standings Standings Standings
     *   2016 Regular Season Standings
     *   2016 Wild Card Standings
+    *   Postseason Probabilities
     *   Spring Training Standings
     *   2015 Regular Season Standings
 *   Schedule Schedule Schedule
