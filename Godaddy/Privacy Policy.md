@@ -1,12 +1,14 @@
-**Last Revised: May 14, 2016**
+**Last Revised: July 18, 2016**
 
 GoDaddy Respects your privacy
 
-This Privacy Policy describes how we collect and use the personally identifiable information you provide on our Site and in our mobile applications.  It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update that information.
+This Privacy Policy describes how we collect and use the personally identifiable information you provide on our Sites that link to this Privacy Policy and in our mobile applications.  It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update that information.
 
-The TRUSTe program covers only information that is collected through this Site and in our mobile applications, and does not cover information that may be collected through downloadable software.  If you have questions or complaints regarding our Privacy Policy or practices, please contact us at privacy@godaddy.com or call (480) 505-8877.  If you are not satisfied with our response, please contact TRUSTe.
+The TRUSTe program covers only information that is collected through our Sites and in our mobile applications, and does not cover information that may be collected through downloadable software.  If you have questions or complaints regarding our Privacy Policy or practices, please contact us at privacy@godaddy.com or call (480) 505-8877.  If you are not satisfied with our response, please contact TRUSTe.
 
 GoDaddy complies with the U.S-EU Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from  European Union member countries.  We adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement.  To learn more about the Safe Harbor program, please visit http://www.export.gov/safeharbor/.  You can find our certification listed under our parent company, Go Daddy Operating Company, LLC.
+
+In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.  Please visit https://www.truste.com/about-truste/contact-us/ for fax and postal mail information.  TRUSTe's Dispute Resolution process is only available in English.    
 
 **Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
@@ -20,6 +22,8 @@ We use your information to contact you regarding functionality changes to our pr
 
 We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
+Certain services offered may allow you to import contacts by uploading a file or copying and pasting from a spreadsheet to add to your account (e.g., using Madmimi to send emails your behalf).  We will only use this information for your legitimate business purpose of importing the contacts as directed by you.  
+
 Our Site and mobile applications use cookies to identify you so you don't need to log in each time you visit our Site or mobile applications. The cookies are linked to your customer number, which is associated with the information in your account.  If you reject cookies, you may still use our Site and mobile applications, but your ability to use some features or areas may be limited.
 
 Within our Site and mobile applications we and our partners, affiliates, and/or analytics or service providers use techologies such as cookies, beacons, tags and scripts to analyze trends, administer the Site and mobile applications, track users' movements around the Site and mobile applications, and to gather demographic information about our user base as a whole.  We may receive reports based on the use of these technologies by these companies on an individual or aggregated basis. 
@@ -29,6 +33,8 @@ As is true of most websites, we gather certain information automatically and sto
 We also use tracking technologies such as:  CI codes (click tracking), ISC (source tracking), and ITC (item tracking codes, attached to purchases at an item level, used to determine where within the application a product was added).  Our mobile applications automatically collect the device's operating system, phone model, app version, and device ID, and customer number.  We report this data back to our GoDaddy web services.  These results are not shared with any third parties and are used solely for deciding when to retire SDKs/OS versions and to identify characteristics of major users so that we may optimize our applications and services for those user types. 
 
 With your express consent, we may access and track location data from your mobile device in order to personalize results such as user favorite domain name selections.  We do not tie any personally identifiable information about you to any of the location tracking technologies that we use, and we do not track location data when our mobile applications are not in use.  You may withdraw your consent for us to use location data at any time by turning off the location services setting on your device.
+
+We use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone.  This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from.  We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile applications. 
 
 This Site and our mobile applications contain links to other websites. Unfortunately, GoDaddy is not responsible for the privacy practices or the content of such sites.  We encourage you to carefully read the privacy statement of any website you visit.
 
@@ -80,7 +86,7 @@ GoDaddy may display targeted, or interest-based, offers to our customers based
 
 We also partner with third parties to manage our advertising on other websites.  Our third party partners may use technologies such as cookies to gather information about your activities on this Site and other websites in order to provide you with advertising based upon your browsing activities and interests, and to measure advertising effectiveness.  If you wish to not have this information used for the purpose of serving you with targeted ads, you may opt out by clicking here.  
 
-We also use a tool called TruEffect to place a cookie on our behalf.  This cookie collects anonymous data that helps us conduct targeted advertising and improve the performance of our advertising on other websites.  To opt-out of our use of TruEffect, click here.
+We also use a tool called TruEffect to place a cookie on our behalf.  This cookie collects anonymous data that helps us conduct targeted advertising and improve the performance of our advertising on other websites.  To opt-out of our use of TruEffect, click here (or if located in the European Union, click here).
 
 Please note that opting out of targeted advertisements does not completely opt you out of being served with ads.  You will continue to receive generic ads. 
 
@@ -130,3 +136,5 @@ ATTN: Web Team
 14455 North Hayden Rd.  
 Suite 219  
 Scottsdale, AZ, 85260, U.S.A.
+
+analytics software to allow us to better understand the functionality of our mobile software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile applications.
