@@ -172,4 +172,4 @@ Attn: Privacy
 
 Terms, conditions, charges and restrictions apply. Speed and uninterrupted service not guaranteed. Not all services available in all areas. Services subject to change.
 
-© 2014 FairPoint Communications, Inc. All rights reserved.
+© 2016 FairPoint Communications, Inc. All rights reserved.
