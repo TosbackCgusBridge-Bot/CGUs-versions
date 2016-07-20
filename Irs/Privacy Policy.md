@@ -23,9 +23,16 @@ Your Privacy Rights
 
 The IRS is committed to protecting the privacy rights of America's taxpayers. These rights are protected by the Internal Revenue Code, the Privacy Act of 1974, the Freedom of Information Act, and IRS policies and practices. For more information about these laws, visit the IRS Electronic Freedom of Information Act Reading Room.
 
-IRS Office of Privacy
+Privacy Complaints
 
-The Internal Revenue Service's Privacy Office ensures that your personal information is protected whenever you visit the IRS website. If you have any questions or comments regarding the IRS's website privacy policy, please contact us at the address below.
+A privacy complaint is a written allegation filed with the Service regarding a potential problem or violation of privacy protections in the administration of IRS programs and operations that may cause harm or violation of your personal or information privacy. This complaint or inquiry may concern:
+
+*   Issues regarding consent, collection, and appropriate notice;
+*   Disclosure and Freedom of Information Act issues;
+*   Privacy Act procedures, such as record access and amendment. or
+*   General IRS privacy policy and procedures.
+
+Contact the IRS at the address below if you have any questions or comments regarding the IRS's website privacy policy or would like to submit a privacy complaint.
 
 Director, Office of Privacy, Governmental Liaison and Disclosure  
 Internal Revenue Service  
@@ -33,10 +40,12 @@ Room 7050 OS:P
 1111 Constitution Ave. NW  
 Washington, DC 20224
 
-BEFORE YOU WRITE, note that we cannot assist you with any type of tax matter. Our office may only address questions about IRS privacy policies or concerns you may have regarding how IRS uses and collects personal information.
+BEFORE YOU WRITE, note that we cannot assist you with any type of tax matter. Our office may only address questions about IRS privacy policies or complaints you may have regarding how IRS uses and collects personal information. Do not send in any sensitive information through this correspondence.
 
-_**PLEASE NOTE:**_ Do not respond to unsolicited e-mails that claim to come from the IRS, or any e-mail from an unknown party asking you to submit personal, tax, or financial data. The IRS does not use email to request this type of information. Forward suspicious e-mails to: phishing@irs.gov .
+However, do include as much information as possible to help with our research and response to your query, as appropriate and known. Include the date of the incident, the date of discovery, and what personal information was affected. IRS takes your privacy concerns very seriously, and will respond fully and timely.
+
+_**PLEASE NOTE:**_ Do not respond to unsolicited e-mails that claim to come from the IRS, or any e-mail from an unknown party asking you to submit personal, tax, or financial data. The IRS does not use email to request this type of information. Forward suspicious emails to: phishing@irs.gov .
 
 For more information contact the Treasury Inspector General for Tax Administration (TIGTA) at 800-366-4484 or visit the TIGTA website.
 
-Page Last Reviewed or Updated: 10-Dec-2015
+Page Last Reviewed or Updated: 19-Jul-2016
