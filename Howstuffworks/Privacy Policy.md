@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Mariana Trench Exploration Finds More Weird New Underwater Species**
+**Newly Discovered Orchid Sports Freaky Little Demon Face**
 
-**Hear and Now: Toast in Space**
+**Sometimes Spiders Go Vegetarian, Scientists Find**
 
-**5 Things We Learned About the Future of 'Star Wars' at Star Wars Celebration**
+**Now We're Stressed Out? History Shows It's the Oldest Emotion**
 
 **See More Headlines »**
 
