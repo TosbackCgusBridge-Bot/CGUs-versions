@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms June was record warm for contiguous U.S. Year-to-date period was also 3rd warmest AROUND NOAA // How NOAA is transforming science with unmanned systems Blog: Tackling America's water challenges with science U.S. experienced at least 8 billion-dollar disasters so far this year
+Enter Search Terms June marks 14 consecutive months of record heat for the globe Average sea surface temperature was also record high AROUND NOAA // How NOAA is transforming science with unmanned systems Blog: Tackling America's water challenges with science
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-NOAA
+Greg McFall/NOAA
