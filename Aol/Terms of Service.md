@@ -122,6 +122,40 @@ You may not modify, adapt or create derivative works from the software or remove
   
 Our software is a "commercial item," as that term is defined in 48 C.F.R. 2.101, consisting of "commercial computer software" and "commercial computer software documentation," as such terms are used in 48 C.F.R. 12.212. Consistent with 48 C.F.R. 12.212 and 48 C.F.R. 227.7202-1 through 227.7202-4, all U.S. Government end users acquire the software with only those rights set forth herein.  
   
+**If you view 360° video virtual reality content on our Services using the player powered by envrmnt, the terms, licenses, and restrictions in the following section apply:**  
+  
+To watch 360° videos on your device, you will need a device that meets the minimum requirements below. 360° video virtual reality may not work on all devices, operating systems or web browsers. Viewing 360° video and using virtual reality may result in motion sickness.  
+You have a limited, nonexclusive, nontransferable license to use the envrmnt 360° video virtual reality player and the object code version of its software solely for the purposes for which it is provided and only in accordance with all documentation provided. Source code for parts of the envrmnt 360° video virtual reality player software may be available for use, modification and distribution under certain open source licenses, which can be found at www.envrmnt.com/opensource. Certain envrmnt 360° video virtual reality player software or technical information may be licensed from third parties and may be covered by one or more U.S. Patents, pending U.S. patent applications, and pending counterpart European and international patents. You may not, or allow others to, adapt, alter, modify, de-compile, reverse engineer, translate, or create derivative works of the envrmnt 360° video virtual reality playeror any included software. envrmnt may terminate or discontinue the envrmnt 360° video virtual reality player at any time without notice. the envrmnt 360° video virtual reality player AND ANY INCLUDED SOFTWARE IS PROVIDED ‘AS IS’, WITHOUT WARRANTIES, EXPRESS OR IMPLIED, OF ANY KIND BY EITHER ENVRMNT OR ITS LICENSORS.  
+  
+MINIMUM REQUIREMENTS  
+  
+_Web Player_  
+  
+Desktop Browser  
+Latest version of Chrome, Edge, Firefox, Opera or Safari  
+Mobile Browser  
+Latest version of Chrome or Safari  
+Mobile Device  
+System chip: Qualcomm Snapdragon 801  
+Processor: Quad-core, 2300 MHz, Krait 400  
+Graphics processor: Adreno 330  
+System memory: 2048 MB RAM  
+   
+_Android Player_  
+  
+Mobile Device  
+System chip: Qualcomm Snapdragon 801  
+Processor: Quad-core, 2300 MHz, Krait 400  
+Graphics processor: Adreno 330  
+System memory: 2048 MB RAM  
+Operating System  
+Android 4.4 and higher  
+   
+_iOS and tvOS Player_  
+  
+iPhone 6 and higher with iOS 9.0 and higher (9.2 preferred)  
+Apple TV Gen 4 with iOS 9.2 and higher  
+  
 **Exporting of Content or Software**  
 Your use of the Services must comply with all applicable import and export control laws and regulations of the United States and other countries and you must not transfer, by electronic transmission or otherwise, any content, data, or software subject to restrictions under such laws to a national destination, person, or entity or for an end-use prohibited under those laws without first obtaining and complying with government authorization. You must not upload any data or software to our Services that cannot be exported without prior written government authorization and notification, including, but not limited to, certain types of encryption software. The assurances and commitments contained in this section shall survive termination of this TOS.  
   
@@ -210,4 +244,4 @@ The delivery of any communication from us is effective when sent by us, regardle
 We may be required by law to release information to a third party about your account, including the content of e-mail. Except as prohibited by law, we will send you notice if we plan to comply with a civil subpoena related to your account. You agree to hold us harmless for the release of any information related to your account in connection with a civil subpoena including, but not limited to, any claims that you did not receive notice of the civil subpoena from us.  
   
 _Last Updated_  
-10-27-2015
+07-19-2016
