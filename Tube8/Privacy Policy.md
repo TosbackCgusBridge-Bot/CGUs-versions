@@ -492,12 +492,15 @@ Users of Tube8.com who come across such content it urged to flag it as inappropr
 *   Fetish
 *   Hardcore
 *   HD
+*   Hentai
 *   Indian
 *   Latina
 *   Lesbian
 *   Mature
+*   Milf
 *   Strip
 *   Teen
+*   Threesome
 
 Legal
 
