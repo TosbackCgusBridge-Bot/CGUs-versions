@@ -489,30 +489,30 @@ Hotels.com® Rewards
 Join now to collect 10 nights, get 1 free\*
 
 *   Top Destinations
-    *   Hotels in New York
-    *   Hotels in Las Vegas
-    *   Hotels in Chicago
-    *   Hotels in San Francisco
-    *   Hotels in Washington
-    *   Hotels in Boston
-    *   Hotels in San Diego
-    *   Hotels in Orlando
-    *   Hotels in London
-    *   Hotels in New Orleans
-    *   Hotels in Los Angeles
-    *   Hotels in San Antonio
-    *   Hotels in Paris
-    *   Hotels in Seattle
-    *   Hotels in Atlanta
-    *   Hotels in Philadelphia
-    *   Hotels in Austin
-    *   Hotels in Atlantic City
-    *   Hotels in Rome
-    *   Hotels in Myrtle Beach
-    *   Hotels in Dallas
-    *   Hotels in Houston
-    *   Hotels in Denver
-    *   Hotels in Miami
+    *   Hotels in New York, New York
+    *   Hotels in Las Vegas, Nevada
+    *   Hotels in Chicago, Illinois
+    *   Hotels in San Francisco, California
+    *   Hotels in Washington, District of Columbia
+    *   Hotels in Boston, Massachusetts
+    *   Hotels in San Diego, California
+    *   Hotels in Orlando, Florida
+    *   Hotels in London, United Kingdom
+    *   Hotels in New Orleans, Louisiana
+    *   Hotels in Los Angeles, California
+    *   Hotels in San Antonio, Texas
+    *   Hotels in Paris, France
+    *   Hotels in Seattle, Washington
+    *   Hotels in Atlanta, Georgia
+    *   Hotels in Philadelphia, Pennsylvania
+    *   Hotels in Austin, Texas
+    *   Hotels in Atlantic City, New Jersey
+    *   Hotels in Rome, Italy
+    *   Hotels in Myrtle Beach, South Carolina
+    *   Hotels in Dallas, Texas
+    *   Hotels in Houston, Texas
+    *   Hotels in Denver, Colorado
+    *   Hotels in Miami, Florida
 *   Customer Service
     *   Your bookings
     *   FAQs
