@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Practice heat safety: Stay safe this summer Oceans &. Coasts What is a harmful algal bloom? National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Lightning victims all have this in common Weather Practice heat safety: Stay safe this summer National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms June marks 14 consecutive months of record heat for the globe Average sea surface temperature was also record high AROUND NOAA // How NOAA is transforming science with unmanned systems Blog: Tackling America's water challenges with science
+Enter Search Terms June marks 14 consecutive months of record heat for the globe Average sea surface temperature was also record high AROUND NOAA // On reddit: Chat live with NOAA scientists about GOES-R and the future of hurricane forecasting GOES-3: One of the oldest operating satellites takes its curtain call How NOAA is transforming science with unmanned systems
 
 *   About our agency
 *   News and features
