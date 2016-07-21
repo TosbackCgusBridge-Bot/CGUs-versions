@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Newly Discovered Orchid Sports Freaky Little Demon Face**
+**Reading 'Harry Potter' Influences How Americans View Donald Trump**
 
-**Sometimes Spiders Go Vegetarian, Scientists Find**
+**Voxels, Acoustics and Hippopotamus Bugles**
 
-**Now We're Stressed Out? History Shows It's the Oldest Emotion**
+**Why Don't We Notice We're Blinking?**
 
 **See More Headlines »**
 
