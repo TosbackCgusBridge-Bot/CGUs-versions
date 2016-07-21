@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C15057821906
+true true C15060107602
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Tue Jul 19 11:13:23 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Wed Jul 20 11:15:30 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -50,15 +50,13 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-40 to 50% Off Izod Uniforms
+Extra 25% Off Uniform Flash Sale\* Today Online Only | July 20
 
-Select styles, 9.99-23.99, reg. $20-$40
+Code: UNIFORM2
 
-Shop Girls Izod Uniforms   Shop Boys Izod Uniforms   Save On Arizona Uniforms
+\*Some exclusions apply
 
-Select styles, reg. $20-$40
-
-Shop Guys Arizona Uniforms Shop Juniors Arizona Uniforms Back To School
+Get Details: Shop Girls Uniforms Shop Boys Uniforms Shop Juniors Uniforms Shop Guys Uniforms Back To School
 
 So you. So worth it.
 
@@ -74,11 +72,11 @@ Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop
 
 Need help? Call 1-844-JCP-APPL (1-844-527-2775)
 
-Find a Store: LG - Life's Good Samsung GE Up to 20% Off\* Major Appliances
+Find a Store: LG - Life's Good Samsung GEUp to 20% Off\* Major Appliances
 
 Select styles
 
-Major Appliances 24 Months Special Financing\*\* Or, 18 Months Special Financing\*\*
+Major Appliances24 Months Special Financing\*\* Or, 18 Months Special Financing\*\*
 
 Available on qualifying major appliance purchases made through 8/23/16 on a JCPenney Credit Card. Must request at time of purchase.
 
@@ -86,7 +84,7 @@ Available on qualifying major appliance purchases made through 8/23/16 on a JCPe
 
 \*GE, GE Profile and GE Cafe limited to 10% off savings.
 
-Plus Free Delivery and Basic Installation On all appliance purchases over $299 Get Details: JCPenney Rewards Shop and Get Rewards
+Plus Free Delivery and Basic Installation On all appliance purchases over $299 Get Details:JCPenney Rewards Shop and Get Rewards
 
 For points earned on major appliances
 
