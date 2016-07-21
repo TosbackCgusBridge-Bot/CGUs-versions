@@ -157,6 +157,7 @@ Give a Buckle Gift card
 *   Shoes
 *   Show All Boy's Clothes
 
+  
 Give a Buckle Gift card
 
 *   Women's Jeans
@@ -248,7 +249,7 @@ Give a Buckle Gift card
 *   Boy's Sale Jeans
 *   Show All Boy's Sale
 
-Give a Buckle Gift card Enjoy special pricing during our first-ever LOYALTY EVENT . Privacy &. Security
+Give a Buckle Gift card Enjoy special pricing during our first-ever LOYALTY EVENT. Privacy &. Security
 
 **Privacy &. Security Policy**  
 The Buckle, Inc. ("Buckle") cares about the privacy of our Guests. Our goal is to provide the best shopping experience possible for our Guests, and we strive to achieve that goal through our Internet shopping experience. Buckle.com collects client information to enhance your shopping experience.
@@ -406,7 +407,7 @@ Sun 12pm - 6pm CT
 Email: guest.services@buckle.com  
 Fax: 308.236.4493
 
-Buckle Credit Card Questions?
+Buckle Credit Card Questions:
 
 Comenity Bank  
 Phone: 888.427.7786  
