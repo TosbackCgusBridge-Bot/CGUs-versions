@@ -100,13 +100,13 @@ Fri, Aug 5, 2016 RSA 2017 Call for Speakers - Deadline 8/5
 
 The call is open now for 2017 RSA sessions! OTA has been selected as an Association Sponsor again and will be presenting, as well as hosting a member meeting/meet-up. Download the Submission Guide template here and join us. This year's theme is The Power of Opportunity.
 
+Wed, Aug 10, 2016 Native Advertising Assessment - Trust vs Failure
+
+Native advertising - produced outside the publisher's editorial review, but presented as similar to editorial - is increasing. Done well, native can provide compelling experiences for users while driving publisher revenues in light of current marketplace pressures. It can also bring confusion and user frustration from widly differing practices and lack of standards. Join us for OTA's assessment of the native landscape with recommendations for disclosure terminology, visibility and delineation to improve the consumer experience and increase trust.
+
 Wed, Sep 7, 2016 FTC Fall Technology Series: Ransomware
 
 With alarming frequency, ransomware hackers are sneaking into consumer and business computers, encrypting files containing photos, documents and other important data, and then demanding a ransom in exchange for the key needed to decrypt the files. At times, these hackers pose as the FBI or other law enforcement officials and claim that the ransom is a “fine” for viewing illegal material and that failure to pay the “fine” will result in criminal prosecution.
-
-Thu, Sep 8, 2016 2016 Business Law Section Annual Meeting
-
-Join over 1,600 business law professionals and grow your international network of business law thought leaders and colleagues. OTA Executive Director Craig Spiezle will be reviewing cyber issues and considerations as it applies to IoT, breach response and vulnerability disclosures. redefining responsible and defendable security and privacy practices.
 
 More >>.
 
