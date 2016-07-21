@@ -125,6 +125,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Collectibles &. Memorabilia
     *   Home &. Office
     *   Clearance
+    *   Photo Store
     
     Auctions
     *   Authentication
