@@ -255,7 +255,7 @@ Send Feedback
 *   ETS Trademarks
 *   Get Adobe Reader (for PDFs)
 
-ETS — Measuring the Power of Learning.™
+ETS — Measuring the Power of Learning.®
 
 Copyright © 2016 by Educational Testing Service. All rights reserved.  
 All trademarks are property of their respective owners.
