@@ -3,7 +3,14 @@ ft.com/help FT HelpQuotesAll contentSearch Sign in Site tour Register Subscribe 
 Remember me on this computer Sign in
 
 *   Help 
-    
+    *   Markets Data
+        *   Markets Data
+        *   Markets Data overview
+        *   Portfolio
+        *   Equity screener
+        *   Economic calendar
+        *   Interactive charting
+        *   Funds &. ETFs
 *   Account Queries 
     *   Signing in
     *   Changing your details
@@ -34,13 +41,6 @@ Remember me on this computer Sign in
 *   Newspaper 
     *   About the newspaper
     *   Subscription queries
-*   Markets Data 
-    *   Markets Data overview
-    *   Portfolio
-    *   Equity screener
-    *   Economic calendar
-    *   Interactive charting
-    *   Funds &. ETFs
 *   Product Blog 
     
 
