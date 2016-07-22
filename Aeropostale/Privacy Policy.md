@@ -4,9 +4,11 @@ Aéropostale
     
     *   NEW ARRIVALS
     *   Meet Aly Raisman
-    *   Red White &. Blue Crush
-    *   Swim
-    *   Scene Stealers
+    *   Aly's Picks
+    *   Prince + Fox
+    *   Stripes
+    *   Festival
+    *   Americana
     *   Uniform
     *   Online Only
     *   Plus Sizes
@@ -42,14 +44,17 @@ Aéropostale
     *   Lounge
     *   Bras
     *   Panties
-    *   Swim
+    *   Sleep
     *   Accessories
 *   Guys
     
     *   NEW ARRIVALS
     *   Meet DeAndre Yedlin
-    *   Red White &. Blue Crush
-    *   Headlining Now
+    *   DeAndre's Pick
+    *   Prince &. Fox
+    *   Stripes
+    *   Game Day
+    *   Americana
     *   Uniform
     *   Online Only
     *   Extended Sizes
@@ -79,7 +84,7 @@ Aéropostale
     *   Bottoms
     *   Intimates
     *   Accessories
-    *   Swim
+    *   Sleep
 *   Trending
 *   Clearance
     
