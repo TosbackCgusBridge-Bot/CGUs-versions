@@ -28,7 +28,7 @@ MENU **IS**
 **ES HYBRID**
 
 *   Starting at $41,020\*
-*   40-MPG combined rating2016 ES 300h EPA 40/39/40 city/hwy/combined mpg estimates. Actual mileage will vary.
+*   40-MPG combined rating\*
 
 *   Build
 *   Current Offers
@@ -44,7 +44,7 @@ MENU **IS**
 **GS HYBRID**
 
 *   Starting at $63,080\*
-*   338 TOTAL SYSTEM HPRatings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
+*   338 TOTAL SYSTEM HP\*
 
 *   Build
 *   Current Offers
@@ -52,7 +52,7 @@ MENU **IS**
 **GS F**
 
 *   Starting at $84,440\*
-*   467-HPRatings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease. 5.0L V8
+*   467-HP\* 5.0L V8
 
 *   Build
 *   Current Offers
@@ -60,7 +60,7 @@ MENU **IS**
 **LS**
 
 *   Starting at $72,520\*
-*   386-HPRatings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease. 4.6L V8 (RWD)
+*   386-HP\* 4.6L V8 (RWD)
 
 *   Build
 *   Current Offers
@@ -68,7 +68,7 @@ MENU **IS**
 **LS HYBRID**
 
 *   Starting at $120,440\*
-*   438 TOTAL SYSTEM HPRatings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
+*   438 TOTAL SYSTEM HP\*
 
 *   Build
 *   Current Offers
@@ -78,7 +78,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 COMPARE **NX**
 
 *   Starting at $34,965\*
-*   235-hpRatings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease. 2.0L turbo
+*   235-hp\* 2.0L turbo
 
 *   Build
 *   Current Offers
@@ -86,7 +86,7 @@ COMPARE **NX**
 **NX HYBRID**
 
 *   Starting at $39,720\*
-*   33-MPG combined rating2016 NX 300h (FWD) EPA 35/31/33 city/hwy/combined mpg estimates. Actual mileage will vary. (FWD)
+*   33-MPG combined rating\* (FWD)
 
 *   Build
 *   Current Offers
@@ -102,7 +102,7 @@ COMPARE **NX**
 **RX HYBRID**
 
 *   Starting at $52,235\*
-*   30-MPG COMBINED RATING2016 RX 450h (AWD) EPA 30/28/30 city/hwy/combined mpg estimates. Actual mileage will vary.
+*   30-MPG COMBINED RATING\*
 
 *   Build
 *   Current Offers
@@ -110,7 +110,7 @@ COMPARE **NX**
 **GX**
 
 *   Starting at $50,780\*
-*   301-HPRatings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease. V8, FULL-TIME 4WD
+*   301-HP\* V8, FULL-TIME 4WD
 
 *   Build
 *   Current Offers
@@ -118,7 +118,7 @@ COMPARE **NX**
 **LX**
 
 *   Starting at $88,880\*
-*   383-HPRatings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease. V8, FULL-TIME 4WD
+*   383-HP\* V8, FULL-TIME 4WD
 
 *   Build
 *   Current Offers
@@ -136,7 +136,7 @@ COMPARE **RC**
 **RC F**
 
 *   Starting at $62,805\*
-*   467-hpRatings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease. 5.0L V8
+*   467-hp\* 5.0L V8
 
 *   Build
 *   Current Offers
@@ -146,7 +146,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 COMPARE **CT HYBRID**
 
 *   Starting at $31,250\*
-*   42-MPG combined rating2017 EPA 43/40/42 city/hwy/combined mpg estimates. Actual mileage will vary.
+*   42-MPG combined rating\*
 
 *   Build
 *   Current Offers
@@ -154,7 +154,7 @@ COMPARE **CT HYBRID**
 **NX HYBRID**
 
 *   Starting at $39,720\*
-*   33-MPG combined rating2016 NX 300h (FWD) EPA 35/31/33 city/hwy/combined mpg estimates. Actual mileage will vary. (FWD)
+*   33-MPG combined rating\* (FWD)
 
 *   Build
 *   Current Offers
@@ -162,7 +162,7 @@ COMPARE **CT HYBRID**
 **RX HYBRID**
 
 *   Starting at $52,235\*
-*   30-MPG COMBINED RATING2016 RX 450h (AWD) EPA 30/28/30 city/hwy/combined mpg estimates. Actual mileage will vary.
+*   30-MPG COMBINED RATING\*
 
 *   Build
 *   Current Offers
@@ -170,7 +170,7 @@ COMPARE **CT HYBRID**
 **ES HYBRID**
 
 *   Starting at $41,020\*
-*   40-MPG COMBINED RATING2016 ES 300h EPA 40/39/40 city/hwy/combined mpg estimates. Actual mileage will vary.
+*   40-MPG COMBINED RATING\*
 
 *   Build
 *   Current Offers
@@ -178,7 +178,7 @@ COMPARE **CT HYBRID**
 **GS HYBRID**
 
 *   Starting at $63,080\*
-*   338 TOTAL SYSTEM HPRatings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
+*   338 TOTAL SYSTEM HP\*
 
 *   Build
 *   Current Offers
@@ -186,7 +186,7 @@ COMPARE **CT HYBRID**
 **LS HYBRID**
 
 *   Starting at $120,440\*
-*   438 TOTAL SYSTEM HPRatings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
+*   438 TOTAL SYSTEM HP\*
 
 *   Build
 *   Current Offers
@@ -196,7 +196,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 COMPARE **RC F**
 
 *   Starting at $62,805\*
-*   467-HPRatings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease. 5.0L V8
+*   467-HP\* 5.0L V8
 
 *   Build
 *   Current Offers
@@ -204,7 +204,7 @@ COMPARE **RC F**
 **GS F**
 
 *   Starting at $84,440\*
-*   467-HPRatings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease. 5.0L V8
+*   467-HP\* 5.0L V8
 
 *   Build
 *   Current Offers
@@ -212,7 +212,7 @@ COMPARE **RC F**
 **LFA**
 
 *   ALL 500 UNITS SOLD
-*   552 HPRatings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
+*   552 HP\*
 
 **F / F SPORT**
 
