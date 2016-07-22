@@ -5,7 +5,6 @@ Support page you can access MyFairPoint.com, your FairPoint email account, Premi
 *   Business
 *   Small Business
 *   Enterprise
-*   Gov. &. Education
 *   Wholesale
 *   About Us
 
