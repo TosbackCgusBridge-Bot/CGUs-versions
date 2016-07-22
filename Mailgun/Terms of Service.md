@@ -24,7 +24,7 @@ You agree that if your Mailgun Services are reinstated after a suspension for no
 
 **4.3 Message Size Limitations.** An individual email message may not exceed the per-message size limit (including attachments) of 25MB or it may be permanently lost.
 
-**4.4 Content Privacy.** You acknowledge and understand that the Mailgun Services include the transmission of unencrypted email in plain text over the public internet. We do not encrypt Customer Data which you upload to the Mailgun Services, and it is stored (and transmitted) in similar fashion as you provide it. You are responsible for encrypting any sensitive data you use in conjunction with the Mailgun Services. Email sent using the Mailgun Services may be unsecured, may be intercepted by other users of the public internet, and may be stored and disclosed by third parties (such as a recipient’s email service provider). Although Mailgun Services include support for TLS, content will be transmitted even if the recipient does not also support TLS, resulting in an unencrypted transmission.
+**4.4 Content Privacy.** You acknowledge and understand that the Mailgun Services include the transmission of unencrypted email in plain text over the public internet. We do not encrypt Customer Data which you upload to the Mailgun Services, and it is stored (and transmitted) in similar fashion as you provide it. You are responsible for encrypting any sensitive data you use in conjunction with the Mailgun Services. Email sent using the Mailgun Services may be unsecured, may be intercepted by other users of the public internet, and may be stored and disclosed by third parties (such as a recipient’s email service provider). Although Mailgun Services include support for TLS, content may be transmitted even if the recipient does not also support TLS, resulting in an unencrypted transmission.
 
 **4.5 Routing Data.** Your email messages and other items sent or received via the mail service will include information that is created by the systems and networks that are used to create and transmit the message including information such as server hostnames, IP addresses, timestamps, mail queue file identifiers, and spam filtering information (“message routing data”). You agree that we may view and use the message routing data for our general business purposes, including maintaining and improving security, improving our services, and developing products. In addition, you agree that we may disclose message routing data to third parties in aggregate statistical form, provided that we do not include any information that could be used to identify you.
 
@@ -34,6 +34,6 @@ You agree that if your Mailgun Services are reinstated after a suspension for no
 
 **5\. HIPAA.** If Rackspace is your “Business Associate” as defined in the Health Insurance Portability and Accountability Act of 1996, as amended, then the HIPAA Business Associate Addendum published at http://www.rackspace.com/information/legal/Mailgun-BAA as of the date that Rackspace becomes your Business Associate is part of the Agreement.
 
-© 2015 Rackspace US, Inc.
+© 2016 Rackspace US, Inc.
 
-November 4, 2015 revision
+July 21, 2016 revision
