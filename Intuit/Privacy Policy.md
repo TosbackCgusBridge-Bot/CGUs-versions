@@ -1,3 +1,5 @@
+15 3
+
 *   Find a store
 *   store ads
 *   gift cards
@@ -25,9 +27,9 @@
 *   customer service
     
 
-true true C15060107602
+true true L15154184270
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Wed Jul 20 11:15:30 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Thu Jul 21 11:15:33 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -50,13 +52,19 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Extra 25% Off Uniform Flash Sale\* Today Online Only | July 20
-
-Code: UNIFORM2
+A Pop Of Savings Extra 30% Off $100 or More\* Or Extra 25% Off Under $100\* Or Extra 15% Off Select Watches, Salon Products, Furniture, Mattresses, Custom Blinds and Shades Today Online Only! July 21 | Code: GOSAVE22
 
 \*Some exclusions apply
 
-Get Details: Shop Girls Uniforms Shop Boys Uniforms Shop Juniors Uniforms Shop Guys Uniforms Back To School
+Get Details 40 to 50% Off Izod Uniforms
+
+Select styles, 9.99-23.99, reg. $20-$40
+
+Shop Girls Izod Uniforms   Shop Boys Izod Uniforms  Save On Arizona Uniforms
+
+Select styles, reg. $20-$40
+
+Shop Guys Arizona Uniforms Shop Juniors Arizona Uniforms Back To School
 
 So you. So worth it.
 
@@ -68,31 +76,7 @@ Shop All Dorm 30 to 50% Off Home Sale
 
 Select styles
 
-Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses Now Online and In Select Stores! Major Appliances from Your Favorite Brands.
-
-Need help? Call 1-844-JCP-APPL (1-844-527-2775)
-
-Find a Store: LG - Life's Good Samsung GEUp to 20% Off\* Major Appliances
-
-Select styles
-
-Major Appliances24 Months Special Financing\*\* Or, 18 Months Special Financing\*\*
-
-Available on qualifying major appliance purchases made through 8/23/16 on a JCPenney Credit Card. Must request at time of purchase.
-
-\*\*Get Details: Apply Now
-
-\*GE, GE Profile and GE Cafe limited to 10% off savings.
-
-Plus Free Delivery and Basic Installation On all appliance purchases over $299 Get Details:JCPenney Rewards Shop and Get Rewards
-
-For points earned on major appliances
-
-Get Details: Sephora Multitaskers
-
-Discover do-it-all products.
-
-Shop Sephora Multitaskers Products JCPenney | portraits
+Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses JCPenney | portraits
 
 TWO FREE 5x7 traditional sheet and  
 40% OFF your photo purchase
@@ -132,7 +116,7 @@ Sign up for email alerts, offers promotions Mobile offers and promotions Message
 *   CA transparency in supply chain
 
 *   servicio al cliente
-*   view all
+*   help
 
 STORE SERVICES
 
@@ -142,7 +126,7 @@ STORE SERVICES
 *   jcp optical
 *   gift registry
 *   jcp custom window
-*   view all
+*   view all store services
 
 MORE WAYS TO SHOP
 
