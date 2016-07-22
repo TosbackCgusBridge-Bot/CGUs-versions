@@ -21,11 +21,9 @@ LENOVO Menu
         8.  Deals for Students and Educators
     *   SALE Great deals on select PCs and Tablets.
         
-        Sale ends July 20.
+        Sale ends July 27.
         
-    *   Clearance Sale Get these deals before they’re gone.
-        
-        Hurry While supplies last!
+    *   Back to School Guide Your guide to daily deals, accessories, or finding the perfect PC for you.
         
     *   Lenovo Preferred Card The Best Offers with Instant and Affordable Financing.
         
@@ -346,4 +344,4 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Order Status
     *   Support
 
-trusteValidation 2016 Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission Policy
+trusteValidation 2016 Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions
