@@ -338,7 +338,9 @@ Filing a DMCA Notice of Copyright Infringement
 
 If you choose to request removal of content by submitting an infringement notification, please remember that you are initiating a legal process. **Do not make false claims. Misuse of this process may result in the suspension of your account or other legal consequences.**
 
-In accordance with the DMCA, the written notice (the "**DMCA Notice**") must include substantially the following:
+You may notify Tube8 of alleged copyright infringement via our form found at http://www.tube8.com/info.html#dmca-form . This form is designed to help you identify your content accurately and help speed up the process of content take-down.
+
+We also accept free-form copyright infringement notifications. In that case, in accordance with the DMCA, the written notice (the "**DMCA Notice**") must include substantially the following:
 
 *   Identification of the copyrighted work you believe to have been infringed or, if the claim involves multiple works, a representative list of such works.
 *   Identification of the material you believe to be infringing in a sufficiently precise manner to allow us to locate that material. If your complaint does not contain the specific URL of the video you believe infringes your rights, we may be unable to locate and remove it. General information about the video, such as a channel URL or username, is typically not adequate. Please include the URL(s) of the exact video(s).
@@ -393,6 +395,12 @@ Please be aware that if you knowingly materially misrepresent that material or a
 Repeat Infringers
 
 In accordance with the DMCA and other applicable law, we have adopted a policy of terminating or disabling, in appropriate circumstances and at our sole discretion, the accounts of users who are deemed to be repeat infringers. We may also at our sole discretion limit access to Tube8, terminate or disable the accounts of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
+
+Video Fingerprinting
+
+We use MediaWise®, an automated audiovisual identification system, to assist us in identifying and blocking potentially infringing content from being uploaded by users. Videos uploaded to Tube8 are compared against a database of digital fingerprints. When a video is matched to a digital fingerprint, access to it is disabled.
+
+If you are interested in having your content digitally fingerprinted by the provider of the automated audiovisual identification system we use, please contact Vobile in one of the manners described at http://www.vobileinc.com/contact/.
 
 TUBE8 - PRIVACY POLICY
 
@@ -483,6 +491,38 @@ Tube8.com allows content to be flagged as inappropriate. Should any content be f
 
 Users of Tube8.com who come across such content it urged to flag it as inappropriate by clicking "flag as inappropriate" link found below each video.
 
+DMCA Takedown Form Location (URL) of the allegedly infringing work or material \* : Description of the work claimed to be infringed  
+Select work My or my company's, organization's or client's video My or my company's, organization's or client's photo My or my company's, organization's or client's original music or song My or my company's, organization's or client's software My or my company’s, organization’s or client’s artwork Other Title of original video: Title of original photo: Title of original music or song: Title of software: Title of artwork: Type of copyrighted work: Title of copyrighted work: Location (URL) of the allegedly infringing work or material \* : Description of the work claimed to be infringed  
+Select work My or my company's, organization's or client's video My or my company's, organization's or client's photo My or my company's, organization's or client's original music or song My or my company's, organization's or client's software My or my company’s, organization’s or client’s artwork Other Title of original video: Title of original photo: Title of original music or song: Title of software: Title of artwork: Type of copyrighted work: Title of copyrighted work: Location (URL) of the allegedly infringing work or material \* : Description of the work claimed to be infringed  
+Select work My or my company's, organization's or client's video My or my company's, organization's or client's photo My or my company's, organization's or client's original music or song My or my company's, organization's or client's software My or my company’s, organization’s or client’s artwork Other Title of original video: Title of original photo: Title of original music or song: Title of software: Title of artwork: Type of copyrighted work: Title of copyrighted work: Location (URL) of the allegedly infringing work or material \* : Description of the work claimed to be infringed  
+Select work My or my company's, organization's or client's video My or my company's, organization's or client's photo My or my company's, organization's or client's original music or song My or my company's, organization's or client's software My or my company’s, organization’s or client’s artwork Other Title of original video: Title of original photo: Title of original music or song: Title of software: Title of artwork: Type of copyrighted work: Title of copyrighted work: Location (URL) of the allegedly infringing work or material \* : Description of the work claimed to be infringed  
+Select work My or my company's, organization's or client's video My or my company's, organization's or client's photo My or my company's, organization's or client's original music or song My or my company's, organization's or client's software My or my company’s, organization’s or client’s artwork Other Title of original video: Title of original photo: Title of original music or song: Title of software: Title of artwork: Type of copyrighted work: Title of copyrighted work: Location (URL) of the allegedly infringing work or material \* : Description of the work claimed to be infringed  
+Select work My or my company's, organization's or client's video My or my company's, organization's or client's photo My or my company's, organization's or client's original music or song My or my company's, organization's or client's software My or my company’s, organization’s or client’s artwork Other Title of original video: Title of original photo: Title of original music or song: Title of software: Title of artwork: Type of copyrighted work: Title of copyrighted work: Location (URL) of the allegedly infringing work or material \* : Description of the work claimed to be infringed  
+Select work My or my company's, organization's or client's video My or my company's, organization's or client's photo My or my company's, organization's or client's original music or song My or my company's, organization's or client's software My or my company’s, organization’s or client’s artwork Other Title of original video: Title of original photo: Title of original music or song: Title of software: Title of artwork: Type of copyrighted work: Title of copyrighted work: Location (URL) of the allegedly infringing work or material \* : Description of the work claimed to be infringed  
+Select work My or my company's, organization's or client's video My or my company's, organization's or client's photo My or my company's, organization's or client's original music or song My or my company's, organization's or client's software My or my company’s, organization’s or client’s artwork Other Title of original video: Title of original photo: Title of original music or song: Title of software: Title of artwork: Type of copyrighted work: Title of copyrighted work: Location (URL) of the allegedly infringing work or material \* : Description of the work claimed to be infringed  
+Select work My or my company's, organization's or client's video My or my company's, organization's or client's photo My or my company's, organization's or client's original music or song My or my company's, organization's or client's software My or my company’s, organization’s or client’s artwork Other Title of original video: Title of original photo: Title of original music or song: Title of software: Title of artwork: Type of copyrighted work: Title of copyrighted work: Location (URL) of the allegedly infringing work or material \* : Description of the work claimed to be infringed  
+Select work My or my company's, organization's or client's video My or my company's, organization's or client's photo My or my company's, organization's or client's original music or song My or my company's, organization's or client's software My or my company’s, organization’s or client’s artwork Other Title of original video: Title of original photo: Title of original music or song: Title of software: Title of artwork: Type of copyrighted work: Title of copyrighted work: + Add another video  
+  
+Please provide the following contact information: First Name \* : Last Name \* : Address \*: Company (optional): City \*: State/Region/Province \*: Country: Select countryAfghanistanÅland IslandsAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBolivia, Plurinational State ofBonaire, Sint Eustatius and SabaBosnia and HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBrunei DarussalamBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongoCongo, the Democratic Republic of theCook IslandsCosta RicaCôte d'IvoireCroatiaCubaCuraçaoCyprusCzech RepublicDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland Islands (Malvinas)Faroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-BissauGuyanaHaitiHeard Island and McDonald IslandsHoly See (Vatican City State)HondurasHong KongHungaryIcelandIndiaIndonesiaIran, Islamic Republic ofIraqIrelandIsle of ManIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKorea, Democratic People's Republic ofKorea, Republic ofKuwaitKyrgyzstanLao People's Democratic RepublicLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacaoMacedonia, the former Yugoslav Republic ofMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesia, Federated States ofMoldova, Republic ofMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorwayOmanPakistanPalauPalestinian Territory, OccupiedPanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalPuerto RicoQatarRéunionRomaniaRussian FederationRwandaSaint BarthélemySaint Helena, Ascension and Tristan da CunhaSaint Kitts and NevisSaint LuciaSaint Martin (French part)Saint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSint Maarten (Dutch part)SlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia and the South Sandwich IslandsSouth SudanSpainSri LankaSudanSurinameSvalbard and Jan MayenSwazilandSwedenSwitzerlandSyrian Arab RepublicTaiwan, Province of ChinaTajikistanTanzania, United Republic ofThailandTimor-LesteTogoTokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTurks and Caicos IslandsTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUnited States Minor Outlying IslandsUruguayUzbekistanVanuatuVenezuela, Bolivarian Republic ofViet NamVirgin Islands, BritishVirgin Islands, U.S.Wallis and FutunaWestern SaharaYemenZambiaZimbabwe Zip / Postal code \*: Phone number \*: Email Address \*:  
+  
+  
+  
+Check the following boxes to state that: **UNDER PENALTY OF PERJURY**, you are the owner or an agent authorized to act on behalf of the owner of an exclusive right that is allegedly infringed. You have a good faith belief that the use of the content in the manner complained of, is not authorized by the copyright owner, its agent, or the law. The information in this notification is accurate. You acknowledge that you may be subject to liability if you knowingly make a material misrepresentation that activity is infringing. Fair use should also be taken into consideration. You acknowledge that abuse of this tool may result in termination of your account.  
+  
+  
+  
+Please note:
+
+The copyright owner’s name will be published on Tube8 in place of the disabled content. This will become part of the public record of your request, along with your description of the work(s) allegedly infringed. All the information provided in this DMCA Takedown Form (including your personal information) are part of the full takedown notice and may be forwarded to the uploader of the allegedly infringing content. By submitting this form you consent to having your information revealed in this way.
+
+We reserve the right to challenge abuses of the DMCA process, and your use of this form does not waive that right.
+
+Type your full name here to provide your electronic signature:  
+  
+  
+  
+Send
+
 *   Amateur
 *   Anal
 *   Asian
@@ -508,6 +548,7 @@ Legal
 *   Privacy Policy
 *   2257 Statement
 *   DMCA
+*   DMCA Form
 
 Support
 
