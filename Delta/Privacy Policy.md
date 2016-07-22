@@ -8,7 +8,7 @@ Our Mobile Application **PRIVACY POLICY FOR DELTA AIR LINES MOBILE APPLICATIONS*
 
 This Privacy Policy describes our practices related to the use, storage and disclosure of information we collect from or about you in the course of providing commercial air travel services through our Fly Delta App.  For policies related to your use of our Website, visit delta.com.   Delta reserves the right to modify this Privacy Policy at any time and without prior notice. The privacy policy link within the App will point your device to our most current policy, so please check regularly for the most recent version of our Privacy Policy. This Privacy Policy is not a contract and does not create any legal rights or obligations.
 
-Privacy and Security Expand AllSkyMiles News And Updates
+Privacy and Security Expand All
 
 *   Information About You (information you type in) **Information About You (information you type in)**
     
@@ -74,7 +74,7 @@ Privacy and Security Expand AllSkyMiles News And Updates
     If you have any questions regarding privacy while using the App, or have questions about our practices, please contact us via our Customer Care page here.
     
 
-Our Web Site Expand AllSkyMiles News And Updates
+Our Web Site Expand All
 
 *   What information does Delta gather and how is it used? **What information does Delta gather and how is it used?**
     
@@ -114,7 +114,7 @@ Our Web Site Expand AllSkyMiles News And Updates
     For more information on how we secure your transactions, read our Security statement below.
     
 
-How Delta uses cookies, tags, and similar technologies Expand AllSkyMiles News And Updates
+How Delta uses cookies, tags, and similar technologies Expand All
 
 *   Cookies **Cookies**
     
