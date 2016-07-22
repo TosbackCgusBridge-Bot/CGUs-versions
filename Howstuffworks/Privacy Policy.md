@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Reading 'Harry Potter' Influences How Americans View Donald Trump**
+**How Do Political Convention Speakers Get Chosen, and Who Decides What They Say?**
 
-**Voxels, Acoustics and Hippopotamus Bugles**
+**Benevolent Drones: Is a Future Without Land Mines Just a Decade Away?**
 
-**Why Don't We Notice We're Blinking?**
+**Aquafaba, the Surprise Solution to All Your Vegan Baking Problems**
 
 **See More Headlines »**
 
