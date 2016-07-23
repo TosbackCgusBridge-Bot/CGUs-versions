@@ -383,7 +383,7 @@ Buckle Information
 
 *   Team Highlights
 *   Ratings &. Reviews
-*   Personal Shopping
+*   Get Fitted / Personal Shopping
 *   buckle SELECT
 *   Store Locator
 *   Investor Information
@@ -391,7 +391,7 @@ Buckle Information
 *   Buckle Coupons
 *   Corporate Profile
 *   Buckle Affiliate Network
-*   Music/Celebrity Sponsorship Requests
+*   Music / Celebrity Sponsorship Requests
 
 Gift Cards/Services
 
