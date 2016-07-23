@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15154184270
+true true C15072902629
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Thu Jul 21 11:15:33 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Fri Jul 22 11:15:14 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,42 +52,143 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-A Pop Of Savings Extra 30% Off $100 or More\* Or Extra 25% Off Under $100\* Or Extra 15% Off Select Watches, Salon Products, Furniture, Mattresses, Custom Blinds and Shades Today Online Only! July 21 | Code: GOSAVE22
+Rewards Members Shop and Get a $10 Bonus Reward\*
 
-\*Some exclusions apply
+\*Earn a $10 reward for $50 spent in store or online July 22-24, 2016, limit 1. Reedeemable 7/23/16-9/24/16.
 
-Get Details 40 to 50% Off Izod Uniforms
+Get Bonus RewardsPower Penney Days Sale
 
-Select styles, 9.99-23.99, reg. $20-$40
+In Store and Online | Ends July 24
 
-Shop Girls Izod Uniforms   Shop Boys Izod Uniforms  Save On Arizona Uniforms
+Shop Now View Store AdGet In Store Early Friday or Saturday for a Coupon Giveaway
 
-Select styles, reg. $20-$40
+While supplies last
 
-Shop Guys Arizona Uniforms Shop Juniors Arizona Uniforms Back To School
+$10 off\* $10 or more Or, $20 off\* $20 or more Or, $100 Off\* $100 or more \*Get Details:$3 Mixit Flip Flops
 
-So you. So worth it.
+Select styles, reg. $8-$10
 
-Shop Back To School Dorm Life Stock Up On Dorm Essentials
+Shop Flip Flops$5 Arizona Tees
+
+Select styles, reg. $10-$16
+
+Shop Juniors Shop Guys Shop Kids$7 All Men's St. John's Bay Solid Polos
+
+reg. $26
+
+Shop Polos$9 Shorts for Her
+
+Select styles, reg. $26-$44
+
+Shop Juniors Shop Women $3 Home Expressions Bath Towel
+
+Select styles, reg. $10
+
+Shop Bath Towels $5 A.N.A, Stylus &. St. John's Bay Tanks &. Tees
+
+Select styles, orig. $12-$16
+
+Shop Tanks and Tees $5 Girls' Arizona and Total Girl Leggings
+
+Select styles, reg. $16
+
+Shop Girls' Leggings $5 Boys' &. Girls' Xersion, Arizona &. Total Girl Graphic Tees
+
+Select styles, reg. $16
+
+Shop Boys' Graphic Tees Shop Girls' Graphic Tees $5 Boys' and Girls' Izod Uniform Polos
+
+Select styles, reg. $20
+
+Shop Izod Uniform Polos $7 All Men's St. John's Bay Solid Polos
+
+Select styles, reg. $26
+
+Shop St. John's Bay Solid Polos $7 Worthington Tee
+
+Select styles including petite sizes, orig. $22
+
+Shop Worthington Tee $7 Juniors' Graphic Tees
+
+Select styles, reg. $18-$20
+
+Shop Graphic Tees $7 Home Expressions Microfiber Solid or Print Twin Sheet
+
+Select styles, reg. $30
+
+Shop Twin Sheets $7 Liz Claiborne Lisette 84" Sheer Panels
+
+Select styles, reg. $20
+
+Shop Liz Claiborne Lisette Sheer Panels $9 All Men's Xersion Xtreme Shorts
+
+Select styles, reg. $30
+
+Shop Xersion Xtreme Shorts $9 St. John's Bay Secretly Slender Capris
+
+Select styles including petite sizes, reg. $36
+
+Shop St. John's Bay Capris $9 Men's Stafford Travel Easy-Care Broadcloth Dress Shirt
+
+Select styles, reg. $36
+
+Shop Dress Shirts $9, after $11 mail-in-rebate, Cooks 6-qt. Slow Cooker
+
+reg. $50, excluded from coupon
+
+Shop Cooks $9 All Men's St. John Bay Solid Flat-Front Shorts
+
+reg. $30
+
+Shop Men's Shorts Buy 1 Get 1 For 1 Cent\* All Ambrielle Bras
+
+reg. $30-$40
+
+\*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
+
+Shop Ambrielle Bras Buy 1 Get 1 For 1 Cent\* Men's Hanes and Levi's Underwear
+
+Select styles, reg. $10-$36, offers and coupons do not apply on Levi's
+
+\*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
+
+Shop Men's Underwear Buy 1 Get 1 For 1 Cent\* Fashion Jewelry
 
 Select styles
 
-Shop All Dorm 30 to 50% Off Home Sale
+\*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
+
+Shop Fashion Jewelry 5.99 JCPenney Home Trellis or 30 x 54" Solid Bath Towel
+
+Select styles, reg. $12
+
+Shop Bath Towels 39.99 Any Size All Complete Bedding Sets with Sheets
+
+reg. $100-$170
+
+Shop Complete Bedding Sets with Sheets 50% Off Clarks for Her
+
+Select styles, reg. $80-$100, excluded from coupon
+
+Shop Clarks 19.99 Sun Zero Emory 2-pk 108x84" Room-Darkening Panels
+
+Select styles, reg. $40
+
+Shop Sun Zero Room-Darkening Panels 19.99 Kids' Fila Shoes
+
+Select styles, msrp $50-$60, excluded from coupon
+
+Shop Kids' Fila Shoes 39.99 Any Size Liz Caliborne 800tc. 6-piece Sheet Set
+
+Select styles, reg. $180-$200
+
+Shop Liz Caliborne Sheet Sets JCPenney | portraits Two Free 5x7 Traditional Sheets And 40% Off Your Photo Purchase Get Coupon: JCP Salon 33% Off Haircare Products
 
 Select styles
 
-Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses JCPenney | portraits
+Shop Now: 80% Off Final Markdowns
 
-TWO FREE 5x7 traditional sheet and  
-40% OFF your photo purchase
-
-Get Coupon: JCP Salon 33% Off Haircare Products
-
-Select styles
-
-Shop Now: 80% Off Red Zone Clearance Final Markdowns Plus New Markdowns 50 to 70% Off.
-
-In Store and Online
+Plus! New Markdowns 50-70% Off
 
 Shop Clearance Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play
 
