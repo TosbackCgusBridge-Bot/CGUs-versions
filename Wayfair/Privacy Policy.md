@@ -561,7 +561,7 @@ Any Exceptions I Should Be Aware Of?
 
 *   Deliveries are not typically made on Saturdays or Sundays
 *   We cannot ship to P.O. Boxes or Military APOs
-*   If you live in a non-contiguous U.S. state or territory—in Alaska, Hawaii, American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, or the U.S. Virgin Islands—additional fees or shipping restrictions may apply
+*   If you live in a non-contiguous U.S. state or territory—in Alaska, Hawaii, Puerto Rico, or the U.S. Virgin Islands—additional fees or shipping restrictions may apply
 
 Small Parcel
 
