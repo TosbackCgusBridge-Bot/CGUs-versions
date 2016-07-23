@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms June marks 14 consecutive months of record heat for the globe Average sea surface temperature was also record high AROUND NOAA // On reddit: Chat live with NOAA scientists about GOES-R and the future of hurricane forecasting GOES-3: One of the oldest operating satellites takes its curtain call How NOAA is transforming science with unmanned systems
+Enter Search Terms Oppressive summer heat grips large portions of U.S. High temperatures and extreme humidity will extend into week of July 25 AROUND NOAA // June marks 14 consecutive months of record heat for the globe GOES-3: One of the oldest operating satellites takes its curtain call How NOAA is transforming science with unmanned systems
 
 *   About our agency
 *   News and features
@@ -124,5 +124,3 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Contact us
 *   Staff Directory
 *   Need help?
-
-Greg McFall/NOAA
