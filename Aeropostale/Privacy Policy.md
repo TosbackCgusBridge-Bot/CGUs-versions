@@ -50,7 +50,7 @@ Aéropostale
     
     *   NEW ARRIVALS
     *   Meet DeAndre Yedlin
-    *   DeAndre's Pick
+    *   DeAndre's Picks
     *   Prince &. Fox
     *   Stripes
     *   Game Day
