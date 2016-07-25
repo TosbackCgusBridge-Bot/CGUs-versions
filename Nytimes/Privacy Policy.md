@@ -1,12 +1,11 @@
-campaign: inyt2016\_bar1\_digi\_election\_67XXR -- 284120, creative: 1\_inyt2016\_bar1\_digi\_election\_67XXR\_launch -- 414360, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
+campaign: inyt2016\_bar1\_digi\_election\_67XXR -- 284120, creative: 2\_inyt2016\_bar1\_digi\_election\_67XXR\_lc -- 414363, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
 
 *   1 of 10 articles read
 *   SUBSCRIBE NOW How will this  
     election impact  
-    the world? The U.S.  
-    Election Sale  
-    Save 60%  
-    for one year. SUBSCRIBE NOW
+    the world? Save 60%  
+    for one year.  
+    Last Chance SUBSCRIBE NOW
 
 Subscribe*   Help
 
