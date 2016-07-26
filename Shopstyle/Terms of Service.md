@@ -1,5 +1,7 @@
 Terms of Service
 
+Effective: July 25, 2016
+
 POPSUGAR Inc., its subsidiaries and affiliates (“POPSUGAR,” “we,” “us,” “our”) owns and operates the POPSUGAR and ShopStyle shopping networks, its network of websites including http://www.popsugar.com and http://www.shopstyle.com , mobile applications, and any other linked and related pages, content, features, products, software, video player and tools offered by POPSUGAR (the “Services”).
 
 *   YOUR ACCEPTANCE OF TERMS
@@ -134,7 +136,7 @@ POPSUGAR Inc., its subsidiaries and affiliates (“POPSUGAR,” “we,” “us,
     
     The Services may contain links to third party websites that are not owned or controlled by POPSUGAR, or that may be accessible by logging in through a third party website, as described more fully in our Privacy Policy. You hereby represent and warrant that you have read and agree to be bound by all applicable policies of any third party website relating to your use of the Services and that you will act in accordance with those policies, in addition to your obligations under this Agreement. POPSUGAR has no control over, and assumes no responsibility for, the content, accuracy, privacy policies, or practices of, or opinions expressed in any third party websites. In addition, POPSUGAR will not and cannot monitor, verify, censor or edit the content of any third party site By using the Services, you expressly relieve and hold harmless POPSUGAR from any and all liability arising from your use of any third party website.
     
-    Your interactions with organizations and/or individuals found on or through the Service (including without limitation Merchants (as that term is defined in the Must Have Terms)), including payment and delivery of goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such organizations and/or individuals. You should make whatever investigation you feel necessary or appropriate before proceeding with any online or offline transaction with any of these third parties. You agree that POPSUGAR shall not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings. If there is a dispute between participants on this site, or between users and any third party, you understand and agree that POPSUGAR is under no obligation to become involved.
+    Your interactions with organizations and/or individuals found on or through the Service (including without limitation Checkout Retailers), including payment and delivery of goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such organizations and/or individuals. You should make whatever investigation you feel necessary or appropriate before proceeding with any online or offline transaction with any of these third parties. You agree that POPSUGAR shall not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings. If there is a dispute between participants on this site, or between users and any third party, you understand and agree that POPSUGAR is under no obligation to become involved.
     
 *   RELEASE OF CLAIMS
     
