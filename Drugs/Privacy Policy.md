@@ -1,4 +1,4 @@
-Changes were made to this privacy policy on November 9th, 2015. Added clarity on third party service providers and what information we share with these entities. Added link to specific Mobile Application Privacy Policy. Historical changes can be viewed here.
+Changes were made to this privacy policy on July 25th, 2016. Additional clarity on third party service providers, specifically that we do NOT share personal information with these entities. Removed reference to Flash LSOs, which are no longer utilized. Historical changes can be viewed here.
 
 Privacy Policy
 
@@ -51,7 +51,7 @@ These technologies are used in analyzing trends, administering the site, trackin
 
 We use cookies to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If You reject cookies, You may still use our site, but Your ability to use some features or areas of Our site may be limited.
 
-We use Local Shared Objects, such as Local Storage, such as HTML5, to store content information and preferences. Third parties with whom We partner to provide certain features on Our site or to display advertising based upon Your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here.
+We use Local Shared Objects, such as Local Storage, such as HTML5, to store content information and preferences. Third parties with whom We partner to provide certain features on Our site or to display advertising based upon Your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
 
 We partner with third parties to either display advertising on Our Web site or to manage Our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about Your activities on this site and other sites in order to provide You advertising based upon Your browsing activities and interests. If You wish to not have this information used for the purpose of serving You interest-based ads, You may opt-out by clicking here. Please note this does not opt You out of being served ads. You will continue to receive generic ads.
 
@@ -68,10 +68,9 @@ Drugs.com does not create individual profiles with the information You provide. 
 
 Drugs.com will not share any personally identifiable information unless specifically agreed to by You, or;
 
-*   when required by law enforcement investigation (such as to comply with a judicial proceeding, court order or subpoena).
+*   when required by law enforcement investigation (such as to comply with a judicial proceeding, court order, subpoena or bankruptcy proceedings).
 *   when We believe in good faith that disclosure is necessary to protect Our rights, protect Your safety or the safety of others, investigate fraud, or respond to a government request.
 *   in exceptional cases such as in response to threats of physical harm to You or others.
-*   to Our third party vendors when required for the provisioning of products and services on behalf of Drugs.com.
 *   to conduct research where personally identifiable information will be de-identified, analyzed and compared at an aggregate level for statistical purposes.
 *   • if Drugs.com is involved in a merger, acquisition, or sale of all or a portion of its assets, You will be notified via email and/or a prominent notice on Our Web site of any change in ownership or uses of Your personally identifiable information, as well as any choices You may have regarding Your personally identifiable information.
 
@@ -85,7 +84,7 @@ To store any medication list, You will need to create a Drugs.com account. You c
 
 Community Interaction
 
-If You choose to participate in any community oriented parts of the Drugs.com web site, such as a forum, bulletin board, blog, chatroom, Q&A, reviews or comments section, You should be aware that any personally identifiable information You choose to submit can be read, collected, used by others and may appear in search engines. Such information may also be shared with Our third party service providers. We are not responsible for the personally identifiable information You choose to submit. Drugs.com also reserves the right to terminate the accounts of visitors who use these services in a manner inconsistent with Our Terms of Use.
+If You choose to participate in any community oriented parts of the Drugs.com web site, such as a forum, bulletin board, blog, chatroom, Q&A, reviews or comments section, You should be aware that any personally identifiable information You choose to submit can be read, collected, used by others and may appear in search engines. We are not responsible for the personally identifiable information You choose to submit. Drugs.com also reserves the right to terminate the accounts of visitors who use these services in a manner inconsistent with Our Terms of Use.
 
 Public Profile
 
@@ -107,7 +106,7 @@ To request the removal of publicly displayed personally identifiable information
 
 Updating and Closing Your Account
 
-If Your personally identifiable information changes, or if You no longer desire Our service, You may update, delete, or deactivate Your information by signing into Your account or by emailing Our Customer Support or by contacting Us by telephone or via courier at the contact information listed above. We will respond to Your request within a reasonable timeframe.
+If Your personally identifiable information changes, or if You no longer desire Our service, You may update, delete, or deactivate Your information by signing into Your account. We will respond to Your request within a reasonable timeframe.
 
 You may update or close/delete Your account at any time. When a member is signed in, a prominent link is provided to comprehensive account settings including options to permanently delete their account and to opt in or out of email newsletters. Deleting Your account will also remove any personally identifiable information connected with this account.
 
@@ -147,4 +146,4 @@ Changes to the Privacy Policy
 
 If We decide to change our privacy policy, we will post those changes to this privacy policy and provide notifications on the homepage, and other places we deem appropriate so that You are aware of what information We collect, how We use it, and under what circumstances, if any, We disclose it. We reserve the right to modify this privacy policy at any time, so please review it frequently. If We make material changes to this policy, We will notify You here, or by email, or by means of a notice on Our homepage prior to the change becoming effective.
 
-Updated: November 9th, 2015
+Updated: July 25th, 2016
