@@ -159,7 +159,7 @@ Fidelity does not share personal information about our customers with unaffiliat
 
 *   Unaffiliated service providers (for example, printing and mailing companies, securities clearinghouses, marketing service providers, and other entities who may provide services at Fidelity's direction)
 *   Government agencies, other regulatory bodies and law enforcement officials (for example, for tax purposes or for reporting suspicious transactions)
-*   Other organizations, with your consent or as directed by your representative (for example, if you use Fidelity as a financial reference in applying for credit with another institution), or as permitted or required by law (for example, for fraud prevention)
+*   Other organizations, with your consent or as directed by your representative (for example, if you use Fidelity as a financial reference in applying for credit with another institution), or as permitted or required by law (for example, for fraud prevention or to respond to a subpoena)
 
 Our service providers are obligated to keep the personal information we share with them confidential and use it only to provide services specified by Fidelity. 
 
@@ -240,9 +240,9 @@ The Fidelity Investments Privacy Policy is provided on behalf of:
 *   Fidelity Investments Life Insurance Company
 *   Empire Fidelity Investments Life Insurance Company
 *   Fidelity Insurance Agency, Inc.
+*   FIAM, LLC
 *   National Financial Services LLC
 *   Strategic Advisers, Inc.
-*   Pyramis Global Advisors, LLC
 *   Other companies owned by Fidelity Investments using the Fidelity name to provide financial or payroll services to customers
 
   Fidelity Funds Privacy Policy
@@ -264,7 +264,7 @@ Please read the Fidelity Funds Privacy Policy in conjunction with the Privacy Po
 The Fidelity Funds Privacy Policy is provided on behalf of the Fidelity Investments family of mutual funds.
 
   
-Effective June 2015    
+Effective June 2016    
 ©1998-2016 FMR LLC. All Rights Reserved.  
   
 Questions?
@@ -272,11 +272,11 @@ Questions?
 *   800-343-3548 800-343-3548
 *   Find an Investor Center
 
-2015 Privacy Notice
+2016 Privacy Notice
 
-View the Fidelity Investments and the Fidelity Funds Privacy Notice (PDF).
+View the Fidelity Investments and the Fidelity Funds Privacy Notice (PDF)
 
-627309.8.0
+524812.31.0
 
 *   Mutual Funds
 *   ETFs
