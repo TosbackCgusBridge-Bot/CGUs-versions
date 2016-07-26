@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15081637197
+true true L15169522311
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Sun Jul 24 11:15:30 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Mon Jul 25 11:15:43 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,137 +52,71 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Power Penney Days Sale Last Day! | In Store and Online | Ends July 24 Shop Now View Store AdRewards Members Shop and Get a $10 Bonus Reward\*
+All Day Dip Extra 30% Off\* $100 or More select styles Or, Extra 25% Off\* select styles Or, EXTRA 15% OFF\* select watches, salon products, furniture, mattresses, custom blinds &. shades
 
-\*Earn a $10 reward for $50 spent in store or online July 22-24, 2016, limit 1. Reedeemable July 23-September 24, 2016.
+Online Exclusive Preview | July 25-26 | Code: GOSAVE97
 
-Get Bonus Rewards$3 Mixit Flip Flops
+Plus Free Shipping Anywhere over $75\* \*exclusions &. details:Hundreds of Deals! Shop Now: 40-50% Off Juniors’ Activewear &. Graphic Tees
 
-Select styles, reg. $8-$10
+9.99-19.99, reg. $18-$34
 
-Shop Flip Flops$5 Arizona Tees
+Shop Juniors’ Activewear Shop Juniors’ Graphic Tees Buy 1 Get 1 For 1Â¢\* Guys’ Arizona Apparel
 
-Select styles, reg. $10-$16
-
-Shop Juniors Shop Guys Shop Kids$7 All Men's St. John's Bay Polos
-
-reg. $26
-
-Shop Polos$9 Shorts for Her
-
-Select styles, reg. $26-$44
-
-Shop Juniors Shop Women $3 Home Expressions Bath Towel
-
-Select styles, reg. $10
-
-Shop Bath Towels $5 A.N.A, Stylus &. St. John's Bay Tanks &. Tees
-
-Select styles, orig. $12-$16
-
-Shop Tanks and Tees $5 Girls' Arizona &. Total Girl Leggings
-
-Select styles, reg. $16
-
-Shop Girls' Leggings $5 Boys' &. Girls' Xersion, Arizona &. Total Girl Graphic Tees
-
-Select styles, reg. $16
-
-Shop Boys' Graphic Tees Shop Girls' Graphic Tees $5 Boys' &. Girls' Izod Uniform Polos
-
-Select styles, reg. $20
-
-Shop Izod Uniform Polos $7 All Men's St. John's Bay Solid Polos
-
-reg. $26
-
-Shop St. John's Bay Solid Polos $7 Worthington Tee
-
-Select styles including petite sizes, orig. $22
-
-Shop Worthington Tee $7 Juniors' Graphic Tees
-
-Select styles, reg. $18-$20
-
-Shop Juniors' Graphic Tees $7 Home Expressions Microfiber Solid or Print Twin Sheet
-
-Select styles, reg. $30
-
-Shop Twin Sheets $7 Liz Claiborne Lisette 84" Sheer Panels
-
-Select styles, reg. $20
-
-Shop Liz Claiborne Panels $9 All Men's Xersion Xtreme Shorts
-
-Select styles, reg. $30
-
-Shop Xersion Xtreme Shorts $9 St. John's Bay Secretly Slender Capris
-
-Select styles including petite sizes, reg. $36
-
-Shop St. John's Bay Capris $9 Men's Stafford Travel Easy-Care Broadcloth Dress Shirt
-
-Select styles, reg. $36
-
-Shop Dress Shirts $9, after $11 mail-in-rebate, Cooks 6-qt. Slow Cooker
-
-reg. $50, excluded from coupon
-
-Shop Small Appliances $9 All Men's St. John's Bay Solid Flat-Front Shorts
-
-reg. $30
-
-Shop Men's Shorts Buy 1 Get 1 For 1 Cent\* All Ambrielle Bras
-
-reg. $30-$40
+reg. $12-$44
 
 \*Buy one item at regular price, get a second item of equal or lesser value for one cent while supplies last.
 
-Shop Ambrielle Bras Buy 1 Get 1 For 1 Cent\* Men's Hanes &. Levi's Underwear
+Shop Guys’ Arizona Apparel 49.99-54.99 Converse for Him &. Her
 
-Select styles, reg. $10-$36. Offers and coupons do not apply on Levi's
+Select styles, MSRP $55-$60, excluded from coupon
 
-\*Buy one item at regular price, get a second item of equal or lesser value for one cent while supplies last.
-
-Shop Men's Underwear Buy 1 Get 1 For 1 Cent\* Fashion Jewelry
+Shop Men's Converse Shop Women's Converse 30-50% Off Bedding
 
 Select styles
 
-\*Buy one item at regular price, get a second item of equal or lesser value for one cent while supplies last.
-
-Shop Fashion Jewelry 5.99 JCPenney Home Trellis or 30 x 54" Solid Bath Towel
-
-Select styles, reg. $12
-
-Shop Bath Towels 39.99 Any Size All Complete Bedding Sets with Sheets
-
-reg. $100-$170
-
-Shop Complete Bedding Sets 50% Off Clarks for Her
-
-Select styles, reg. $80-$100, excluded from coupon
-
-Shop Clarks 19.99 Sun Zero Emory 2-pack 108x84" Room-Darkening Panels
-
-Select styles, reg. $40
-
-Shop Sun Zero Room-Darkening Panels 19.99 Kids' Fila Shoes
-
-Select styles, MSRP $50-$60, excluded from coupon
-
-Shop Kids' Fila Shoes 39.99 Any Size Liz Caliborne 800-tc. 6-piece Sheet Set
-
-Select styles, reg. $180-$200
-
-Shop Liz Caliborne Sheet Sets JCPenney | portraits Two Free 5x7 Traditional Sheets And 40% Off Your Photo Purchase Get Coupon: JCP Salon 33% Off Haircare Products
+Shop Bedding 60% Off Gold Jewelry
 
 Select styles
 
-Shop Now: Red Zone Clearance 80% Off Final Markdowns
+Shop Gold Jewelry 19.99 Bras
+
+Select styles, reg. $36-$40
+
+Shop Bras Buy 1 Get 1 For 1Â¢\* Girls’ &. Boys’ Arizona Apparel
+
+Select styles, reg. $12-$46
+
+\*Buy one item at regular price, get a second item of equal or lesser value for one cent while supplies last.
+
+Shop Girls Arizona Shop Boys Arizona 40-50% Off Curtains &. Drapes
+
+Select styles
+
+Shop Curtains &. Drapes 14.99 Stylus, A.N.A &. St. John’s Bay Shorts for Her
+
+Select styles including petite sizes, orig. $30
+
+Shop Shorts for Her 2 for $20 or 11.99 ea. Guys’ Graphic Tees
+
+reg. $20
+
+Shop Guys’ Graphic Tees 10-20% Off Men’s &. Women’s Nike Shoes
+
+MSRP $60-$85, Nike excluded from coupon.
+
+Shop Men's Nike Shop Women's Nike 40-50% Off Boys’ &. Girls’ Xersion Activewear
+
+Select styles, reg. $14-$20
+
+Shop Boys Xersion Shop Girls Xersion Back to School so you. so worth it. Shop Now:  Dorm Life Shop All:   Sephora Shop Sunscreen: JCP Salon 33% Off Haircare Products
+
+Select styles
+
+Shop Now: JCPenney | optical 39.99 Complete Pair of Kids' Eyeglasses Order Now: Red Zone Clearance 80% Off Final Markdowns
 
 Plus! New Markdowns 50-70% Off
 
-Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play
+Shop Now:
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
