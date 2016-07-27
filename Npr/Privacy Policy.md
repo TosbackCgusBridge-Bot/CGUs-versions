@@ -1,7 +1,6 @@
 View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Directory Search Toggle search
 
 *   NPR Home
-*   Find Stations
 
 *   News
 *   Arts &. Life
@@ -32,9 +31,8 @@ View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Dir
 *   Categories
 
 *   Shop
-*   My Account
 
-Back ****Loading**** Back News
+Back News
 
 *   U.S.
 *   World
@@ -274,15 +272,7 @@ Back
 *   Technology
 *   TV &. Film
 
-Back
-
-*   Sign In/Register
-
-*   Logout
-
-*   Find Stations
-
-****Loading**** **Privacy Policy** Privacy Policy
+**Privacy Policy** Privacy Policy
 
 *   **Facebook**
 *   **Twitter**
