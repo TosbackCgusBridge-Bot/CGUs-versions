@@ -30,9 +30,9 @@ View All Audio ›Audio
 View All Cameras ›Cameras
 
 *   All Camera products ›
-*   α Interchangeable-Lens Cameras
-*   α Lenses
-*   Cyber-shot™ Compact Cameras
+*   α Interchangeable-lens Digital Cameras
+*   α Interchangeable Lenses
+*   Cyber-shot™ Digital Still Cameras
 *   Lens-Style Camera
 
 View All Mobile, Tablets &. Smart Devices  ›Mobile, Tablets &. Smart Devices 
@@ -46,7 +46,7 @@ View All Mobile, Tablets &. Smart Devices  ›Mobile, Tablets &. Smart Devices
 View All Video Cameras ›Video Cameras
 
 *   All Video Cameras products ›
-*   Handycam
+*   Handycam® Camcorders
 *   Action Cam
 *   Music Video Recorders
 *   Recording Binoculars
@@ -124,9 +124,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-Understanding High-Speed Sync
+Get to know Sony's camera lineup from the α7s to the F65 in this presentation from Alister Chapman #teamsony
 
-2016-07-18 20:00:01+00:00
+2016-07-27 03:15:43+00:00
 
 View Tweet
 
@@ -172,6 +172,90 @@ Close
 
 Expand Your Horizons
 
+Lose Yourself in the Picture Thanks to 4K HDR Clarity
+
+Upgrade Your Television
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Upgrade Your Television
+
+Defend Planet Earth in the New Call of Duty: Infinite Warfare
+
+Play It Day One on PS4™
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Ready to Kick It Old School?
+
+Stream This Playlist
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Stream This Playlist
+
+Sony on Twitter
+
+Don't miss out on Don Cheadle's #MilesAhead! Own it on Blu-ray and Digital now.
+
+2016-07-27 02:37:39+00:00
+
+View Tweet
+
+Sony on Instagram
+
+Hip-Hop's Hottest Producer
+
+Has a New Album
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Has a New Album
+
+The Season Finale for "Preacher" Is Almost Here
+
+Don't Miss Out
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Don't Miss Out
+
 The Race for the Checkered Flag Begins This Fall on PS4™
 
 Pre-Order Gran Turismo Sport
@@ -190,9 +274,61 @@ Sony on YouTube
 
 Play Video
 
-These Women Ain't Afraid of No Ghosts
+Feel the Music With Extra Bass
 
-Watch Them in Action This Week
+Learn More
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Learn More
+
+Sound and Color
+
+In One Bulb
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+In One Bulb
+
+Sony on Instagram
+
+Sony on Twitter
+
+A HUGE congrats to our #VMAs2016 nominees!
+
+2016-07-27 04:35:55+00:00
+
+View Tweet
+
+Ignite Your Creativity and Curiosity
+
+Visit Sony Square NYC
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Visit Sony Square NYC
+
+Who Says the Wolves of Wall Street Have to Be Men?
+
+"Equity" Premieres Friday in NYC and LA
 
 Close
 
@@ -207,150 +343,10 @@ Play Video
 Sony on YouTube
 
 Play Video
-
-Lights, Music, Dancing
-
-Bring the Party
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Bring the Party
-
-Sony on Instagram
-
-Sony on Twitter
-
-Smarter charging means a longer lifespan for your #XperiaX. Discover more about it.
-
-2016-07-19 00:16:04+00:00
-
-View Tweet
-
-Capture Beauty Everywhere
-
-With Xperia XA
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-With Xperia XA
-
-John Oliver Is on "Comedians in Cars Getting Coffee" This Week
-
-Watch a Preview
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Watch a Preview
 
 Catch Some Waves in 4K With Pro Surfer Tia Blanco
 
 Captured With the Action Cam and a6300
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-You've Built Your Vinyl Collection, Now Listen to It Anywhere
-
-Get a Turntable With Hi-Res Audio Recording
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Get a Turntable With Hi-Res Audio Recording
-
-Sony on Instagram
-
-Summer Gaming Season
-
-Is Upon Us
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Is Upon Us
-
-Sony on Twitter
-
-RT @RollingStone: Jeff Buckley's family has made his personal record collection available to view online.
-
-2016-07-19 00:27:54+00:00
-
-View Tweet
-
-Flip Through Jeff Buckley's Record Collection (Virtually)
-
-To Find New Music
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-To Find New Music
-
-Discover How Nathan Drake Does the Robot, the Dab and Other Dance Taunts
-
-See More Uncharted 4 Tips and Tricks
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-Upscale Your Favorites Songs, Movies and TV Shows for a Better Experience
-
-Learn More About the New All-in-One Media Player
 
 Close
 
