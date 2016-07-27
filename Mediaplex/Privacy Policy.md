@@ -62,7 +62,7 @@ Skip to main content
     *   Affiliate
     *   Join Us
 
-Login Let's Connect See What We Do Watch Video
+Login Let's Connect What We Do Watch Video
 
 *   160+ MILLION Real People You Can  
     Message Right Now
