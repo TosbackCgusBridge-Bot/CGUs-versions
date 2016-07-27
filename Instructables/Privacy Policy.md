@@ -101,7 +101,7 @@ Change country/language X
 *    Students and educators
 *    Worldwide sites
 
-*   Home
+*   404
 *   Company
 *   Legal notices &. trademarks
 *   Privacy Statement
