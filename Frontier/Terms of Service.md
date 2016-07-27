@@ -165,7 +165,8 @@ Frontier policies | Frontier tariff information
 *   Internet
 *   Phone
 *   Video/TV
-*   Security
+*   Digital Essentials
+*   Moving
 *   Discount Programs
 
 My Account
