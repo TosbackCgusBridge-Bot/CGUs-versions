@@ -158,6 +158,15 @@ If you have any questions regarding this Privacy Policy, or the privacy practice
 
 Last updated: September 2012.
 
+*   Follow Us
+
+*   Facebook
+*   Twitter
+*   Untangled
+*   Instagram
+*   YouTube
+*   Mi Cultura
+
 Product
 
 *   Packages
@@ -208,15 +217,6 @@ Other Sites
 *   TWC Sportsnet
 *   TWC Exclusives
 *   Español
-
-Follow Us
-
-*   Facebook
-*   Twitter
-*   Instagram
-*   YouTube
-*   Untangled Blog
-*   Mi Cultura
 
 *   Privacy Policy
 *   Terms, Conditions &. Policies
