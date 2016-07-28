@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15091883072
+true true C15097630975
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Tue Jul 26 11:15:35 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Wed Jul 27 10:55:33 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,71 +52,35 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-All Day Dip
+Our Biggest Sale of The Season\* The Entire Store Is On Sale!
 
-Last Day! | Tuesday, July 26 | Code: GOSAVE97
+Starts Now! | In Store and Online | Ends July 30
 
-Get couponOnline Only: Extra 30% Off\* $100 or More select styles Or In Store &. Online: Extra 25% Off\* select styles Or In Store &. Online: Extra 15% OFF\* watches, salon products, furniture &. mattresses, custom blinds &. shades Plus Free Shipping Anywhere over $75\* \*exclusions &. details:Hundreds of Deals! Shop Now: 40% off juniors’ dresses
+Shop Now View Store Ad
 
-select styles, 26.99-29.99, reg. $46-$52
+Excludes Nike, Sephora and Converse. "Our biggest sale of the season" refers to the most items on sale for the longest duration (7/25/16-7/30/16) during the period from 6/8/16 through 7/30/16. a future sale of a shorter duration may have more items on sale.
 
-Shop juniors' dresses 2 for $20 or 11.99 ea. guys’ graphic tees
+Spend $25 and Get $10 Off\* In Store and Online | Ends 7/30 | Code: 2BIGSALE
 
-reg. $20
+\*exclusions apply
 
-Shop graphic tees 10-20% off men’s &. women‘s nike shoes
+Get Coupon: Shop Women Shop Men Shop Boys Shop Girls Shop Juniors Shop Guys Shop Shoes Shop Jewelry Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Appliances Red Zone Clearance Extra 25% Off\* For a Total Savings of 60 to 75% Off
 
-msrp $60-$85, nike excluded from coupon offer
+4 Days Online Only | Code: TOSAVE9 | Ends July 30
 
-Shop men's nike Shop women's nike 30-50% off bedding
+Shop Clearance Now Shop $7 and Under Shop $10 and Under Shop $20 and Under \*exclusions and details Back-To-School 8 Pieces. Endless Looks.
 
-select styles
+All you. (So you.)
 
-Shop bedding 40% off juniors’ jewelry
-
-select styles
-
-Shop jewelry 19.99 bras
-
-select styles, reg. $36-$40
-
-Shop bras Buy 1 Get 1 For 1Â¢\* girls’ &. boys‘ arizona apparel
-
-select styles, reg. $12-$46
-
-\*Buy one item at regular price, get a second item of equal or lesser value for one cent while supplies last.
-
-Shop girls arizona Shop boys arizona 40-50% off curtains &. drapes
-
-select styles
-
-Shop curtains and drapes 6.99 stylus, st. john’s bay or a.n.a tees for her
-
-select styles including petite sizes, orig. $14-$16
-
-Shop tees Buy 1 Get 1 For 1Â¢\* guys’ arizona apparel
-
-reg. $12-$44
-
-\*Buy one item at regular price, get a second item of equal or lesser value for one cent while supplies last.
-
-Shop guys' arizona 35.99 booties for her
-
-select styles, reg. $60
-
-Shop booties 40-50% off boys’ &. girls’ xersion activewear
-
-select styles, reg. $14-$20
-
-Shop girls xersion Shop boys xersion Back to School so you. so worth it. Shop Now:  Dorm Life Shop All:   Sephora Shop Sunscreen: JCP Salon 33% Off Haircare Products
+Shop Juniors Shop Guys Shop Girls Shop Boys Shop Gift Cards Dorm Life Stock Up on Dorm Essentials
 
 Select styles
 
-Shop Now: JCPenney | optical 39.99 Complete Pair of Kids' Eyeglasses Order Now: Red Zone Clearance 80% Off Final Markdowns
+Shop All Dorm Sephora Shop Sunscreen: JCP Salon 33% Off Haircare Products
 
-Plus! New Markdowns 50-70% Off
+Select styles
 
-Shop Now:
+Shop Now: JCPenney | optical 39.99 Complete Pair of Kids' Eyeglasses Order Now Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
