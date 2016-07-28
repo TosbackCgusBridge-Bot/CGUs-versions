@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Saguaro Cacti Thrive When the World's Massive Volcanoes Erupt, Study Finds**
+**Can Marijuana Enhance Athletic Performance?**
 
-**Lucky Tetrachromats See World With Up to 100 Million Colors**
+**Daily TV Binge Watching Could Dramatically Shorten Your Life**
 
-**It's the End of Moore's Law as We Know It (But Not Really)**
+**One Time This Pony Drank a Lot of Diet Coke. Here's Why**
 
 **See More Headlines »**
 
