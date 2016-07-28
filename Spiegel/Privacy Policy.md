@@ -180,6 +180,57 @@ In Zusammenarbeit mit der **Meetrics GmbH** erfassen wir die **Sichtbarkeit von 
 
 Sie können der Datenverarbeitung durch die Meetrics GmbH hier widersprechen.
 
+(15)  
+**Nutzerbasierte Online-Werbung**
+
+SPIEGEL ONLINE hält sich an die europaweite Initiative zur freiwilligen Selbstkontrolle der digitalen Werbewirtschaft für nutzungsbasierte Online-Werbung. Weitere Informationen zum sogenannten Online Behavioral Advertising (OBA) Framework der European Interactive Digital Advertising Alliance (EDAA) finden Sie hier: http://www.edaa.eu.
+
+An dieser Stelle möchten wir Sie umfassend zum Thema nutzungsbasierte Online-Werbung informieren. Das Internet-Angebot bzw die Website, von der aus Sie gerade verlinkt worden sind, wird vom digitalen Werbevermarkter SPIEGEL QC vermarktet.
+
+Die Werbung auf den von SPIEGEL QC vermarkteten Websites wird durch die anonyme Erhebung und Verarbeitung Ihres Nutzungsverhaltens für Sie optimiert und auf prognostizierte Interessen ausgerichtet. Dadurch profitieren Sie als Nutzer, indem Sie Werbung erhalten, die eher zu Ihren Interessensgebieten passt und dadurch, dass insgesamt weniger zufällig gestreute Werbung ausgeliefert wird.
+
+Zur Erfassung Ihres Nutzungsverhaltens wird ein Cookie auf Ihrem Rechner gespeichert. Cookies sind kleine Textdateien, die auf der Festplatte Ihres Computers abgelegt werden und die Wiedererkennung ermöglichen, aber keine persönliche Identifikation Ihrer Person zulassen.
+
+Für die Datenerhebung zur Auslieferung von nutzungsbasierter Online-Werbung zuständig sind folgende Unternehmen im Auftrag von SPIEGEL QC:
+
+Yieldlab GmbH  
+ADITiON technologies AG  
+emetriq GmbH
+
+**Welche Daten werden erfasst?**
+
+Erfasst werden Informationen über Ihre Aktivitäten auf den von SPIEGEL QC vermarkteten Websites (z.B. Surfverhalten, besuchte Unterseiten der Internet-Angebote, geklickte Werbebanner, etc.). Da nach geltender Rechtslage nicht völlig ausgeschlossen werden kann, dass die erhobenen Daten einen mittelbaren Personenbezug zulassen, werden sämtliche Nutzungsdaten unter Verwendung eines Pseudonyms gespeichert, so dass eine persönliche Identifikation nahezu ausgeschlossen ist. Gegebenenfalls werden diese Daten in Zusammenhang mit anonymen Daten aus Online-Fragebögen, verwendet. Die aus technischen Gründen übermittelte IP Adresse Ihres Rechners wird dabei von einem unabhängigen Dritten vollständig anonymisiert und nicht für die gesteuerte Einblendung von Werbung verwendet.
+
+Wenn Sie keine nutzungsbasierten Werbeeinblendungen mehr erhalten möchten, können Sie auf folgenden Links widersprechen und die Datenerhebung deaktivieren:
+
+http://www.yieldlab.de/kontakt/privacy/  
+http://www.adition.com/kontakt/datenschutz/  
+http://www.emetriq.com/opt-out/
+
+Generell können Sie das Speichern von Cookies auf Ihrer Festplatte verhindern, indem Sie in Ihren Browser-Einstellungen "keine Cookies akzeptieren" wählen. Sie können Ihren Browser auch so einstellen, dass dieser Sie dem Setzen von Cookies fragt, ob Sie einverstanden sind. Schließlich können Sie auch einmal gesetzte Cookies jederzeit wieder löschen. Wie all das im Einzelnen funktioniert, entnehmen Sie bitte der Anleitung Ihres Browser-Herstellers. Wenn Sie keine Cookies akzeptieren, kann dies im Einzelfall zu Funktionseinschränkungen der Webseite führen.
+
+Bitte beachten Sie, dass Sie für den Fall einer Cookie-Löschung auch den Opt Out Link erneut aktivieren müssen.
+
+Als Unternehmen haben wir uns zudem freiwillig der Selbstregulierung des Deutschen Datenschutzrats Online-Werbung (DDOW) unterworfen. Den für uns gültigen Selbstregulierungskodex können Sie unter folgendem Link einsehen:
+
+http://www.meine-cookies.org/ddow.html
+
+**Datenerhebung anderer Dienstleister im Bereich nutzungsbasierter Online-Werbung**
+
+Um Werbung für Sie anhand Ihrer Nutzungsinteressen zu optimieren, haben wir es folgenden weiteren Dienstleistern gestattet, Nutzungsdaten zu erheben. Auf den angegebenen Webseiten der genannten Unternehmen finden Sie weitere Informationen zum Datenschutz sowie zu dem Angebot dieser Anbieter und ihrer Technologie.
+
+Partner Datenschutzinfos Criteo GmbH www.criteo.com/de/datenschutzrichtlinien Google www.google.de/intl/de/policies/technologies/ads/ groupm www.groupm.com/privacy-policy adyard GmbH www.adyard.de/datenschutz/ Ligatus GmbH www.ligatus.de/datenschutz Pilot 1/0 GmbH www.pilot.de/datenschutz plista GmbH www.plista.com/privacy travelaudience GmbH www.travelaudience.com/taresources/privacy.html xplosion interactive GmbH www.xplosion.de/so-funktionierts/datenschutz.html mediascale GmbH &. Co. KG www.mediascale.de/datenschutz/ Performance Media Deutschland GmbH www.performance-media.de/datenschutz uniquedigital GmbH www.uniquedigital.de/datenschutz Xaxis http://www.targad.info AdAudience GmbH www.adaudience.de/datenschutz/
+
+Aufgrund des pseudonymen bzw. anonymen Charakters der erhobenen Daten benötigen wir und die genannten Drittunternehmen keine gesonderte Einwilligung zum Behavioural Targeting (§ 15 Abs. 3 Telemediengesetz). Sie können aber dem Einsatz des Behavioural Targeting gegenüber den genannten Unternehmen widersprechen.
+
+Hier eine Auflistung der Seiten zum Opt Out:
+
+Partner Opt Out Links Criteo GmbH www.criteo.com/de/datenschutzrichtlinien/opt-out Google www.google.de/intl/de/policies/technologies/ads/ groupm www.groupm.com/privacy-policy adyard GmbH www.adyard.de/datenschutz/ Ligatus GmbH www.ligatus.de/datenschutz Pilot 1/0 GmbH www.pilot.de/datenschutz plista GmbH www.plista.com/opt-out travelaudience GmbH www.travelaudience.com/taresources/privacy.html xplosion interactive GmbH www.xplosion.de/so-funktionierts/opt-out.html mediascale GmbH &. Co. KG www.mediascale.de/datenschutz/ Performance Media Deutschland GmbH www.performance-media.de/opt-out uniquedigital GmbH www.uniquedigital.de/datenschutz Xaxis www.targad.info AdAudience GmbH www.adaudience.de/datenschutz/
+
+Eine weitere komfortable Möglichkeit zur Deaktivierung von Cookies bietet der Präferenzmanager des BVDW.
+
+http://www.meine-cookies.org/cookies\_verwalten/praeferenzmanager-beta.html
+
 TOP 7. Gewährleistung und Haftung
 
 Auf den Transport der Daten über das Internet hat der Anbieter keinen Einfluss. Der Anbieter übernimmt daher auch keine Gewähr dafür, dass interaktive Vorgänge den Nutzer richtig erreichen und dass der Zugang zum Internet zu jeder Zeit gewährleistet ist. Darüber hinaus wird nicht gewährleistet, dass der Datenaustausch mit einer bestimmten Übertragungsgeschwindigkeit erfolgt.
