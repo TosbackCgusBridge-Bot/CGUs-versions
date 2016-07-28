@@ -43,6 +43,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Our Charter
     *   Diversity and inclusion
         *   Employee networks
+        *   Valuing diversity
     *   Sustainability
         *   Finance
         *   Operations
