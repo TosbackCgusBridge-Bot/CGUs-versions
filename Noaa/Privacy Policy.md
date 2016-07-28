@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheri
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Oppressive summer heat grips large portions of U.S. High temperatures and extreme humidity will extend into week of July 25 AROUND NOAA // June marks 14 consecutive months of record heat for the globe GOES-3: One of the oldest operating satellites takes its curtain call How NOAA is transforming science with unmanned systems
+Enter Search Terms 3 things to like about DSCOVR, your new space weather satellite Now in operation from deep space AROUND NOAA // Climate change in your county: Plan with this new tool Oppressive summer heat grips large portions of U.S. June marks 14 consecutive months of record heat for the globe
 
 *   About our agency
 *   News and features
@@ -124,3 +124,5 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Contact us
 *   Staff Directory
 *   Need help?
+
+iStock
