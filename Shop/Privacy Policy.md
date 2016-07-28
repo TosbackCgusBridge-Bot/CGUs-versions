@@ -19,11 +19,11 @@ LENOVO Menu
         6.  Desktop Coupons
         7.  Clearance PCs
         8.  Deals for Students and Educators
-    *   SALE Great deals on select PCs and Tablets.
+    *   Back to School Sale Great deals on select PCs and Tablets.
         
         Sale ends July 27.
         
-    *   Back to School Guide Your guide to daily deals, accessories, or finding the perfect PC for you.
+    *   Clearance Sale Get these deals before they’re gone. Hurry While supplies last!
         
     *   Lenovo Preferred Card The Best Offers with Instant and Affordable Financing.
         
