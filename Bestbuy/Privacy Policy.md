@@ -236,4 +236,4 @@ Attn: Customer Care/Privacy
 7601 Penn Avenue South  
 Richfield, MN 55423-3645
 
-Last Updated: July 5, 2016
+Last Updated: February 19, 2016
