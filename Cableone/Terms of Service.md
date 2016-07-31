@@ -34,7 +34,7 @@ New Location Set Your Location It looks like your browser does not have JavaScri
 Internet Acceptable Use Policy CableOne.Net High Speed Internet Access Service  
 Acceptable Use Policy
 
-Effective February 2016
+Effective July 2016
 
 Important Note: Cable One, Inc., may revise this Acceptable Use Policy from time to time without notice by editing the information on this page. Accordingly, users of the Cable One residential services should consult this page regularly to ensure that their activities conform to the most recent version. In the event of a conflict between any subscriber agreement and this policy, the terms of this policy will govern. Questions regarding this policy can be directed to legal@cableone.net. Complaints of violations of this policy by Cable One users can be directed to abuse@cableone.net. Visit http://www.cableone.net/Pages/networkmanagementdisclosure.aspx to review Cable One’s Network Management Disclosure Statement.
 
@@ -116,7 +116,7 @@ Users may also monitor their bandwidth usage in the MyBandwidth section of http:
 Excessive use means bandwidth or data usage that is significantly higher than typical usage for which our network is designed. Excessive Users consume so much data that their usage could negatively impact the Service provided to other customers. In order to ensure an optimized Internet experience for all customers, data plans have been assigned to all Internet services.
 
   
-Surfing 15Mbps Internet 50GB Data Plan 1.5,Mbps, 5Mbps, 8Mbps, 10Mbps,12Mbps 300GB Data Plan Streaming 50 &. Streaming 100 Internet 300GB Data Plan Premier 60, Premier 75, &. Premier 150 Internet 400GB Data Plan Ultra 70, Ultra 100, &. Ultra 200 Internet 500GB Data Plan Ultra 60 Plus, 100 Plus, &. 200 Plus 750GB Data Plan Ultra 70 Max, Ultra 100 Max, &. Ultra 200 Max\* 1000GB Data Plan\* GigaONE ™ 500GB Data Plan\*  
+Lite Plan 50GB Data Plan 1.5,Mbps, 5Mbps, 8Mbps, 10Mbps,12Mbps 300GB Data Plan Starter Plan 300GB Data Plan Family Plan 400GB Data Plan Streamer &. Gamer Plan 500GB Data Plan Roomate Plan 750GB Data Plan Power Home Plan 1000GB Data Plan\* GigaONE ™ 500GB Data Plan\*  
 
 \*Larger data plans up to 2 terabytes are available.
 
