@@ -45,8 +45,8 @@ skip to content skip to navigation skip to search
     
     *   Swimsuits
     *   Knit Tops &. Tees
-    *   Shirts &. Blouses
     *   Sweaters
+    *   Shirts &. Blouses
     *   Pants
     *   Jeans
     *   Shorts
@@ -64,11 +64,11 @@ skip to content skip to navigation skip to search
     FEATURED SHOPS
     
     *   New Arrivals
-    *   Best of Summer
-    *   The Starfish Collection
+    *   Jeans Guide
     *   Wear to Work
+    *   The Starfish Collection
+    *   The Cardigan Shop
     *   Tunic Shop
-    *   Swim Finder
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -109,7 +109,7 @@ skip to content skip to navigation skip to search
     *   New Arrivals
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
-    *   Essentials for Summer Events
+    *   Jeans Guide
     *   Tailored Fit Shop
     *   Sale
     
@@ -162,7 +162,6 @@ skip to content skip to navigation skip to search
     
     *   New Arrivals
     *   Backpacks &. Lunch Boxes
-    *   Swim Shop
     *   School Uniforms
     *   Iron Knee Pants
     *   Girls' Knit Kit
@@ -209,10 +208,10 @@ skip to content skip to navigation skip to search
     *   Boys
     
     FEATURED SHOPS
-    *   Water Shoes &. Sandals
+    *   Boots &. Booties
+    *   Fall Flats
+    *   Accessories &. Bags
     *   Back To School Shoes
-    *   Espadrilles
-    *   Accessories Shop
     *   Sale
 *   Home
     
@@ -331,8 +330,8 @@ skip to content skip to navigation skip to search
     
     *   Swimsuits
     *   Knit Tops &. Tees
-    *   Shirts &. Blouses
     *   Sweaters
+    *   Shirts &. Blouses
     *   Pants
     *   Jeans
     *   Shorts
@@ -350,11 +349,11 @@ skip to content skip to navigation skip to search
     FEATURED SHOPS Back | Women
     
     *   New Arrivals
-    *   Best of Summer
-    *   The Starfish Collection
+    *   Jeans Guide
     *   Wear to Work
+    *   The Starfish Collection
+    *   The Cardigan Shop
     *   Tunic Shop
-    *   Swim Finder
     *   Sale
     
     SHOP BY SIZE RANGE Back | Women
@@ -396,7 +395,7 @@ skip to content skip to navigation skip to search
     *   New Arrivals
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
-    *   Essentials for Summer Events
+    *   Jeans Guide
     *   Tailored Fit Shop
     *   Sale
     
@@ -450,7 +449,6 @@ skip to content skip to navigation skip to search
     
     *   New Arrivals
     *   Backpacks &. Lunch Boxes
-    *   Swim Shop
     *   School Uniforms
     *   Iron Knee Pants
     *   Girls' Knit Kit
@@ -499,10 +497,10 @@ skip to content skip to navigation skip to search
     *   Boys
     
     FEATURED SHOPS Back | Shoes
-    *   Water Shoes &. Sandals
+    *   Boots &. Booties
+    *   Fall Flats
+    *   Accessories &. Bags
     *   Back To School Shoes
-    *   Espadrilles
-    *   Accessories Shop
     *   Sale
 *   Home
     
