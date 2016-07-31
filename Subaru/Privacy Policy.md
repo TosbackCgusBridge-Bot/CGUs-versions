@@ -278,6 +278,8 @@ Online Behavioral Advertising.
 
 Subaru may use the non-personal information collected on its Website for online behavioral advertising purposes, that is, to customize ads to you when you visit other (non-Subaru) sites. If you wish to opt-out of this process, click the OBA logo on our banner advertisements.  You'll be directed to an opt-out page where you'll be able to select your data preferences.  The page will also contain further instruction if additional questions remain.
 
+Notwithstanding any other provision in this Privacy Policy, we may also engage a third party partner for the purpose of recognizing users and delivering to them interest-based content and advertisements. We may share information about you with our partners such as your name, postal address, email, device ID, or other identifier in encrypted, hashed or de-identified form. Our partners also may collect information from you, such as your IP address and information about your browser or operating system. may combine our personal and non-personal offline information about you with information from other partners in data sharing cooperatives in which we participate. and may place or recognize a unique cookie on your browser. These cookies contain no personally identifiable information. they may contain demographic or other data in de-identified form. To opt-out of third party cookies, please go to http://www.aboutads.info/choices.
+
 WHEN SUBARU MAY SHARE INFORMATION
 
 Subaru may share aggregated non-personal information about the users of its Websites and Applications (in a form that does not personally identify such users) with service providers, vendors, suppliers and other third parties.
@@ -341,6 +343,10 @@ All information posted on this site is intended for the US market only and will 
 CALIFORNIA PRIVACY RIGHTS
 
 Under California Civil Code Section 1798.83, also known as California's "Shine the Light Law," residents of California may request and receive, free of charge, a copy of Subaru's California Information Disclosure Notice for the previous calendar year. This Notice lists the third party entities with which Subaru shared Personal Information for the third parties' direct marketing purposes. To request this Notice, please go to the Contact Us page on this site.
+
+**DO NOT TRACK**
+
+Some web browsers have settings that include “do not track signals.”  There are no agreed upon industry standards for sending and responding to those signals.  As a result, our sites and services do not respond to those signals from browsers.
 
 QUESTIONS?
 
