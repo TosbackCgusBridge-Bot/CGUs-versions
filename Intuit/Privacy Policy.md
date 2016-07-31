@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15097630975
+true true C15112335200
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Wed Jul 27 10:55:33 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p15.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Sat Jul 30 11:15:43 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,31 +52,23 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Our Biggest Sale of The Season\* The Entire Store Is On Sale!
+Our Biggest Sale of the Season\* The Entire Store Is On Sale!
 
-Starts Now! | In Store and Online | Ends July 30
+Last Day! | In Store and Online
 
 Shop Now View Store Ad
 
 Excludes Nike, Sephora and Converse. "Our biggest sale of the season" refers to the most items on sale for the longest duration (7/25/16-7/30/16) during the period from 6/8/16 through 7/30/16. a future sale of a shorter duration may have more items on sale.
 
-Spend $25 and Get $10 Off\* In Store and Online | Ends 7/30 | Code: 2BIGSALE
+$5 Saturday Only Deals! Solid and Graphic Tees
 
-\*exclusions apply
+Select styles, reg. $12-$20
 
-Get Coupon: Shop Women Shop Men Shop Boys Shop Girls Shop Juniors Shop Guys Shop Shoes Shop Jewelry Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Appliances Red Zone Clearance Extra 25% Off\* For a Total Savings of 60 to 75% Off
+Shop Juniors Shop Guys Shop Girls Shop Boys    Night and Day Doorbusters Ends Saturday 1PM CDT Shop Doorbusters: Going, Going, Gone! Red Zone Clearance Extra 25% Off\* For a Total Savings of 60 to 75% Off
 
-4 Days Online Only | Code: TOSAVE9 | Ends July 30
+Last Day! | Online Only | Code: TOSAVE9
 
-Shop Clearance Now Shop $7 and Under Shop $10 and Under Shop $20 and Under \*exclusions and details Back-To-School 8 Pieces. Endless Looks.
-
-All you. (So you.)
-
-Shop Juniors Shop Guys Shop Girls Shop Boys Shop Gift Cards Dorm Life Stock Up on Dorm Essentials
-
-Select styles
-
-Shop All Dorm Sephora Shop Sunscreen: JCP Salon 33% Off Haircare Products
+Shop Clearance Now Shop $7 and Under Shop $10 and Under Shop $20 and Under \*exclusions and details Back To School so you. so worth it. Shop Back To School  Dorm Life Shop All Dorm   Sephora Shop Sunscreen: JCP Salon 33% Off Haircare Products
 
 Select styles
 
