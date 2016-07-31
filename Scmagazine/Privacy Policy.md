@@ -1,6 +1,6 @@
 Privacy Policy
 
-**Last updated: May 05, 2014**
+**Last updated: July 28, 2016**
 
 US Privacy Policy
 
@@ -135,4 +135,7 @@ By using our Digital Offering, products or services, you signify your acceptance
 
 If you have any questions on our Privacy Policy, or questions about our handling of your Personal and/or Financial Information, you can contact us at web@haymarketmedia.com or write to us:
 
-**Haymarket Media, Inc 114 W 26th Street 4th Floor New York, NY 10001.**
+**Haymarket Media, Inc  
+275 7th Avenue  
+10th Floor  
+New York, NY 10001.**
