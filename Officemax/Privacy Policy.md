@@ -17,7 +17,7 @@ SEG1 hp
 
 Office Depot Deals
 
-o9awgamgbMG4oUAJuxJXzIO
+LwXA6QN07U2RSZGZzvtITBt
 
 Search Suggestions
 
@@ -199,6 +199,7 @@ to your inbox
 *   Find a Store
 *   About Office Depot®
 *   Affiliate Program
+*   CA Supply Chain Disclosure
 *   Careers
 *   Compliance and Ethics
 *   Diversity
