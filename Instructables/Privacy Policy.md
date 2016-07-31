@@ -125,7 +125,7 @@ Legal Notices &. Trademarks
 *   Legal Disclosures
 *   Terms of service: A360 and other web services
 
-  Privacy Statement - UPDATED APRIL 24, 2015
+  Privacy Statement - UPDATED JUNE 20, 2016
 
 *   Privacy Statement  
     o Cookie Policy  
