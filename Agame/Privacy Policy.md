@@ -233,7 +233,7 @@ View more results
     *   Shopaholic: Hollywood
     *   My Puppy Play Day
     *   My New Room 2
-    *   Disney Descendants: Smarte Couture
+    *   Hair Do Design
     *   Gingerbread House: Sara's Cooking ClassSpotlight My Dolphin Show 8
 *   Top Categories
     
