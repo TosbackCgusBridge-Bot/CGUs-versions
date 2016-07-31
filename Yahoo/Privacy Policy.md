@@ -122,7 +122,7 @@ Yahoo! EMEA Limited
 North Wall Quay, Dublin 1  
 Irlande
 
-Dernière mise à jour : 29 janvier 2016
+_Dernière mise à jour : 29 janvier 2016_
 
 A la une
 
