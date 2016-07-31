@@ -37,19 +37,19 @@ Sign In or Sign Up
 
 *   Overview
 *   Features
-*   Customers
 *   Resources
+*   Customers
 
-Get Pricing Source &. Screen  
+Request Pricing Source &. Screen  
 
 A powerhouse team of project managers dedicated to growing your candidate pool at record speed.  
 
 *   Overview
 *   Features
-*   Customers
 *   Resources
+*   Customers
 
-Get Pricing Overview
+Request Pricing Overview
 
 When it comes to recruiting, time is a luxury and sometimes you just don’t have the time or resources to keep up with the hiring demands of your organization.
 
@@ -74,9 +74,6 @@ Pay One Flat Rate
 
 Make as many hires as you can from your exclusive pool of screened candidates - at no extra cost.  
 
-Customers  
-
-  
 Resources  
 
 *   *   \>. Data Sheet: Source &. Screen
@@ -84,6 +81,9 @@ Resources
     *     
         
 
+Customers  
+
+  
 Get Pricing ​
 
 Thank you! More great content headed your way!
