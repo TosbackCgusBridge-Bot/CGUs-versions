@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Can Marijuana Enhance Athletic Performance?**
+**How Applause Starts and Spreads Is Oddly Scientific**
 
-**Daily TV Binge Watching Could Dramatically Shorten Your Life**
+**Big Bucks for CEOs Doesn't Mean Better Company Performance**
 
-**One Time This Pony Drank a Lot of Diet Coke. Here's Why**
+**Here's How Many Rio Olympics Visitors Will Contract Zika Virus**
 
 **See More Headlines »**
 
