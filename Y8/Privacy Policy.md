@@ -12,7 +12,7 @@ Play any type of Game at Y8.com. The biggest Game Collection to play free online
 *   Log in / Register
 *   powered
 
-Parental control
+Parental Control
 
 *   games
 *   videos
@@ -90,7 +90,7 @@ We may change from time to time the terms of Our Privacy Policy. The mention of 
 If you have any questions, you can contact us through our contact form.
 
 *   Advertise
-*   contact form
+*   Contact Form
 *   Submit a game or animation
 *   Games for your website
 *   Terms of Use
