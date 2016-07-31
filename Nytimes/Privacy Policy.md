@@ -1,11 +1,6 @@
-campaign: inyt2016\_bar1\_digi\_election\_67XXR -- 284120, creative: 3\_inyt2016\_bar1\_digi\_election\_67XXR\_ends -- 414361, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
+Campaign ID: 277474 | Creative: bar1\_button\_inyt\_usd\_4L9UF -- 413757 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Bar1
 
-*   1 of 10 articles read
-*   SUBSCRIBE NOW How will this  
-    election impact  
-    the world? Save 60%  
-    for one year.  
-    Ends Today SUBSCRIBE NOW
+*   Subscribe Now
 
 Subscribe*   Help
 
