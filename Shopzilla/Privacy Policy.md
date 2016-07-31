@@ -6,7 +6,7 @@ Connexity
     *   Overview
     *   AudienceView
     *   Online Intelligence
-    *   Custom Research
+    *   Research &. Data Solutions
     
     *   audience targeting
     *   Overview
