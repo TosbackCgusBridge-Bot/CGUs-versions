@@ -21,7 +21,7 @@ LENOVO Menu
         8.  Deals for Students and Educators
     *   Back to School Sale Great deals on select PCs and Tablets.
         
-        Sale ends July 27.
+        Sale ends August 3.
         
     *   Clearance Sale Get these deals before they’re gone. Hurry While supplies last!
         
