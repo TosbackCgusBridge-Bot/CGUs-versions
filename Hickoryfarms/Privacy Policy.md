@@ -38,7 +38,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Mustards &. Spreads
         
     *   Crackers
-    *   Simply Hickory Farms New!
     *   Hickory Farms Reserve
     *   Pfaelzer Brothers Steak &. Seafood
     *   Gluten Free
@@ -86,7 +85,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Mustards &. Spreads
         
     *   Crackers
-    *   Simply Hickory Farms New!
     *   Hickory Farms Reserve
     *   Pfaelzer Brothers Steak &. Seafood
     *   Gluten Free
@@ -153,9 +151,9 @@ My Account
 
 Guarantees
 
-*   Security
-*   Substitution Policy
 *   100% Satisfaction
+*   Substitution Policy
+*   Security
 
 Privacy
 
