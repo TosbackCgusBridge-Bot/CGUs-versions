@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15112335200
+true true C15118720546
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p15.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Sat Jul 30 11:15:43 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Sun Jul 31 11:15:32 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,27 +52,39 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Our Biggest Sale of the Season\* The Entire Store Is On Sale!
+9.99 Kids' Izod Uniform Polos
 
-Last Day! | In Store and Online
+Select styles, reg. $20
 
-Shop Now View Store Ad
+Shop Girls Izod Uniform Polos Shop Boys Izod Uniform Polos    Save On Arizona Uniforms
 
-Excludes Nike, Sephora and Converse. "Our biggest sale of the season" refers to the most items on sale for the longest duration (7/25/16-7/30/16) during the period from 6/8/16 through 7/30/16. a future sale of a shorter duration may have more items on sale.
+Select styles, reg. $18-$50
 
-$5 Saturday Only Deals! Solid and Graphic Tees
+Shop Guys Arizona Uniforms Shop Juniors Arizona Uniforms Back to School so you. so worth it. Shop Back to School Flirtitude $15 ea. Flirtitude Bras
 
-Select styles, reg. $12-$20
+Select styles when you buy 2 or more, reg. $20-$22
 
-Shop Juniors Shop Guys Shop Girls Shop Boys    Night and Day Doorbusters Ends Saturday 1PM CDT Shop Doorbusters: Going, Going, Gone! Red Zone Clearance Extra 25% Off\* For a Total Savings of 60 to 75% Off
-
-Last Day! | Online Only | Code: TOSAVE9
-
-Shop Clearance Now Shop $7 and Under Shop $10 and Under Shop $20 and Under \*exclusions and details Back To School so you. so worth it. Shop Back To School  Dorm Life Shop All Dorm   Sephora Shop Sunscreen: JCP Salon 33% Off Haircare Products
+Shop Flirtitude Dorm Life Stock Up On Dorm Essentials
 
 Select styles
 
-Shop Now: JCPenney | optical 39.99 Complete Pair of Kids' Eyeglasses Order Now Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play
+Shop All Dorm Home Sale 30 to 50% Off
+
+Select styles
+
+Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   Sephora Shop Sunscreen: JCPenney | optical Kids' Glasses $39.99, one pair Kids' Glasses $69.99, two pairs
+
+Ends September 30
+
+Get Details: Red Zone Clearance 80% Off Final Markdowns
+
+Plus! New Markdowns 50 to 70% Off
+
+Shop Clearance Now: JCP Salon Stock Up On Your Favorite Liter Duos
+
+from Matrix, Big Sexy Hair and Paul Mitchell
+
+Shop Now:
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
