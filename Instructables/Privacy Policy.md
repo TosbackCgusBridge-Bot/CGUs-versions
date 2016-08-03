@@ -26,15 +26,17 @@ Change country/language X
         *   All AutoCAD
     *   3ds Max
     *   A360
-    *   Building Design Suite
     *   Civil 3D
     *   Fusion 360
     *   Inventor
     *   Maya
     *   Navisworks
-    *   Product Design Suite
     *   Revit
     *   SketchBook Pro
+    *   Collections
+    *   Architecture, Engineering, &. Construction
+    *   Product Design
+    *   Media &. Entertainment
     *   File viewers
     *   All viewers
     *   DWG
@@ -102,7 +104,7 @@ Change country/language X
 *    Worldwide sites
 
 *   Home
-*   Company
+*   About Autodesk
 *   Legal notices &. trademarks
 *   Privacy Statement
 
@@ -125,7 +127,7 @@ Legal Notices &. Trademarks
 *   Legal Disclosures
 *   Terms of service: A360 and other web services
 
-  Privacy Statement - UPDATED JUNE 20, 2016
+  Privacy Statement - UPDATED JULY 29, 2016
 
 *   Privacy Statement  
     o Cookie Policy  
