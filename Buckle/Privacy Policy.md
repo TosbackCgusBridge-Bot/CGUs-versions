@@ -383,7 +383,7 @@ Buckle Information
 
 *   Team Highlights
 *   Ratings &. Reviews
-*   Get Fitted / Personal Shopping
+*   Personal Shopping
 *   buckle SELECT
 *   Store Locator
 *   Investor Information
