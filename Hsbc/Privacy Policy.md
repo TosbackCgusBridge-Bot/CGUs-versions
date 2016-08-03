@@ -90,7 +90,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Stock exchange announcements
         
     
-    *   Iain Mackay video Find out about the bank’s 1Q 2016 Earnings Release.
+    *   Interim Results 2016 quick read Read the main highlights from our Interim Results 2016.
 *   News and insight
     
     *   Media resources
