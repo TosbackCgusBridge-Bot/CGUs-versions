@@ -52,8 +52,6 @@ Important Information
 
 *   P&G is committed to working with consumers and data protection authorities to resolve any privacy concern.
 *   P&G complies with country data protection laws.
-*   P&G self-certifies compliance with the U.S.-EU Safe Harbor Program.
-*   P&G participates in the US Council of Better Business Bureau's (BBB) Accredited Business Program and BBB EU Safe Harbor Dispute Resolution.
 
   
 Links to Third-Party Sites and Social Media
