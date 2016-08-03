@@ -6,6 +6,7 @@ Skip to main content
     *   Overview
     *   Direct to Brands
     *   For Agencies
+    *   The Power of Conversant
 *   How We Do It
     *   Overview
     *   CRM
@@ -37,6 +38,7 @@ Skip to main content
     *   Overview
     *   Direct to Brands
     *   For Agencies
+    *   The Power of Conversant
 *   How We Do It
     *   Overview
     *   CRM
@@ -149,6 +151,7 @@ Send me emails containing marketing messages from Conversant and our affiliates.
     *   Overview
     *   Direct to Brands
     *   For Agencies
+    *   The Power of Conversant
 *   How We Do It
     *   Overview
     *   CRM
