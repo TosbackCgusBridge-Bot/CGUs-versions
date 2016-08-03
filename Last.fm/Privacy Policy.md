@@ -159,14 +159,34 @@ If you decide that you do not want your personal information to be used in the w
 
 This Privacy Policy is effective as of Tuesday 15 January 2013.
 
+Company
+
 *   About
 *   Contact
-*   Subscribe
-*   Developer API
+
+Help
+
 *   Community Support
-*   Help
 *   Community Guidelines
+*   Help
+
+Goodies
+
+*   Developer API
 *   Free Music Downloads
+
+Account
+
+*   Join
+*   Login
+*   Subscribe
+
+Follow Us
+
+*   Facebook
+*   Twitter
+*   Instagram
+*   YouTube
 
 *   **English**current language
 *   Deutsch
