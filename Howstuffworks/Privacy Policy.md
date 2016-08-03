@@ -250,11 +250,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Welcome to the Mosquito Factory**
+**Historical Analysis Shows #FoodPorn Predates the Instagram Era**
 
-**How Applause Starts and Spreads Is Oddly Scientific**
+**Diving for Golf Balls Is a Real Job**
 
-**Big Bucks for CEOs Doesn't Mean Better Company Performance**
+**The Real Reason Turtles Have Shells (Hint, It's Not for Protection)**
 
 **See More Headlines »**
 
