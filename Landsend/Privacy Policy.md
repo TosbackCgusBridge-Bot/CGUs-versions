@@ -1,26 +1,16 @@
 skip to content skip to navigation skip to search
 
-*   Stores
-*   Gift Cards
+*   Lands' End
+*   Canvas by Lands' End
+*   Lands' End Sport
+*   Lighthouse by Lands' End
 *   Business Outfitters
 
-*   Help
-    *   Contact Us
-    *   Track My Order
-    *   Make a Return
-    *   FAQ
-    *   Live Chat
-*   Ship To
-
 *   Lands' End
 *   Canvas by Lands' End
 *   Lands' End Sport
-*   Lands' End School
-
-*   Lands' End
-*   Canvas by Lands' End
-*   Lands' End Sport
-*   Lands' End School
+*   Lighthouse by Lands' End
+*   Business Outfitters
 
 *   My Account
     *   Sign In
@@ -30,16 +20,30 @@ skip to content skip to navigation skip to search
     *   Edit Order
     *   Order History
     *   Refer a Friend
+    *   Email Sign Up
     *   Sign Out
 *   Bag 0
 
-1.800.963.4816 menu 0
+1.800.963.4816
+
+*   Stores
+*   Gift Cards
+*   Help
+    *   Contact Us
+    *   Track My Order
+    *   Make a Return
+    *   FAQ
+    *   Live Chat
+*   Ship To
+
+menu 0
 
 *   Women
     
     *   Lands' End
     *   Lands' End
     *   Lands' End
+    *   Business Outfitters
     
     CATEGORIES
     
@@ -83,6 +87,7 @@ skip to content skip to navigation skip to search
     *   Lands' End
     *   Lands' End
     *   Lands' End
+    *   Business Outfitters
     
     CATEGORIES
     
@@ -122,6 +127,7 @@ skip to content skip to navigation skip to search
     *   Lands' End
     *   Lands' End
     *   Lands' End
+    *   Business Outfitters
     
     Girls>.
     
@@ -179,6 +185,7 @@ skip to content skip to navigation skip to search
     *   Lands' End
     *   Lands' End
     *   Lands' End
+    *   Business Outfitters
     
     SHOP SWIM
     
@@ -199,6 +206,7 @@ skip to content skip to navigation skip to search
     *   Lands' End
     *   Lands' End
     *   Lands' End
+    *   Business Outfitters
     
     SHOP SHOES
     
@@ -218,6 +226,7 @@ skip to content skip to navigation skip to search
     *   Lands' End
     *   Lands' End
     *   Lands' End
+    *   Business Outfitters
     
     BEDDING >.
     
@@ -246,6 +255,7 @@ skip to content skip to navigation skip to search
     *   Lands' End
     *   Lands' End
     *   Lands' End
+    *   Business Outfitters
     
     Girls &. Women>.
     
@@ -296,6 +306,7 @@ skip to content skip to navigation skip to search
     *   Lands' End
     *   Lands' End
     *   Lands' End
+    *   Business Outfitters
     
     SALE
     *   Women
@@ -308,14 +319,13 @@ skip to content skip to navigation skip to search
 *   Lands' End
 *   Canvas by Lands' End
 *   Lands' End Sport
-*   Lands' End School
+*   Lighthouse by Lands' End
+*   Business Outfitters
 
 *   My Account
 *   Help
 *   Stores
 *   Gift Cards
-*   Business  
-    Outfitters
 *   Ship To 
 *   1.800.963.4816
 
@@ -324,7 +334,7 @@ skip to content skip to navigation skip to search
     *   Lands' End
     *   Lands' End
     *   Lands' End
-    *   Lands' End School
+    *   Business Outfitters
     
     Back | Women CATEGORIES Back | CATEGORIES
     
@@ -368,7 +378,7 @@ skip to content skip to navigation skip to search
     *   Lands' End
     *   Lands' End
     *   Lands' End
-    *   Lands' End School
+    *   Business Outfitters
     
     Back | Men CATEGORIES Back | CATEGORIES
     
@@ -408,7 +418,7 @@ skip to content skip to navigation skip to search
     *   Lands' End
     *   Lands' End
     *   Lands' End
-    *   Lands' End School
+    *   Business Outfitters
     
     Back | Kids Girls Back | Girls
     
@@ -466,7 +476,7 @@ skip to content skip to navigation skip to search
     *   Lands' End
     *   Lands' End
     *   Lands' End
-    *   Lands' End School
+    *   Business Outfitters
     
     Back | Swim SHOP SWIM Back | SHOP SWIM
     
@@ -487,7 +497,7 @@ skip to content skip to navigation skip to search
     *   Lands' End
     *   Lands' End
     *   Lands' End
-    *   Lands' End School
+    *   Business Outfitters
     
     Back | Shoes SHOP SHOES Back | SHOP SHOES
     
@@ -507,7 +517,7 @@ skip to content skip to navigation skip to search
     *   Lands' End
     *   Lands' End
     *   Lands' End
-    *   Lands' End School
+    *   Business Outfitters
     
     Back | Home BEDDING Back | BEDDING
     
@@ -536,7 +546,7 @@ skip to content skip to navigation skip to search
     *   Lands' End
     *   Lands' End
     *   Lands' End
-    *   Lands' End School
+    *   Business Outfitters
     
     Back | School Girls &. Women Back | Girls &. Women
     
@@ -587,7 +597,7 @@ skip to content skip to navigation skip to search
     *   Lands' End
     *   Lands' End
     *   Lands' End
-    *   Lands' End School
+    *   Business Outfitters
     
     Back | Sale SALE Back | SALE
     *   Women
@@ -791,6 +801,7 @@ Our Brands
 *   Lands' End
 *   Canvas by Lands' End
 *   Lands' End Sport
+*   Lighthouse by Lands' End
 *   Business Outfitters
 *   International Sites
 
