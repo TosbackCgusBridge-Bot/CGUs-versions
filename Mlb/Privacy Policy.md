@@ -43,7 +43,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Podcasts
     *   Alternative Audio
     *   Most Popular
-    *   No Man Left Behind
+    *   Morning Roundup
     *   FAQs
     *   Baseball's Best Moments
     *   MLB Productions
@@ -51,7 +51,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   GetGreat.com
     
     Featured
-    *   #ASGWorthy
+    *   Double Plays
     *   MLB Moments
     *   Must C
     *   Chatting Cage
