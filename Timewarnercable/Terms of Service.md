@@ -167,57 +167,6 @@ Last updated: September 2012.
 *   YouTube
 *   Mi Cultura
 
-Product
-
-*   Packages
-*   TV
-*   Internet
-*   Phone
-*   IntelligentHome
-
-Services
-
-*   Pay Your Bill Online
-*   Ways to Pay Your Bill
-*   Moving?
-*   My Account Login
-*   TWC Apps
-*   Check Email
-*   On Demand
-
-Support
-
-*   Browse Support
-*   Program Your Remote
-*   Channel Lineup
-*   Closed Captioning
-*   Welcome to TWC
-*   TV Parental Control
-*   Internet Safety
-*   FCC Public Inspection File
-*   Accessibility
-
-Contact Us
-
-*   TWC Forums
-*   Contact Us
-*   TWC Stores
-*   Channel Feedback
-*   Investor Relations
-*   Careers
-*   Email Preferences
-
-Other Sites
-
-*   TWC Central
-*   TWC News
-*   TWC Media
-*   Community Solutions
-*   Connect a Million Minds
-*   TWC Sportsnet
-*   TWC Exclusives
-*   Español
-
 *   Privacy Policy
 *   Terms, Conditions &. Policies
 *   Regulatory
