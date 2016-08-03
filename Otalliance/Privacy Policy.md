@@ -59,7 +59,7 @@ Skip to main content Online Trust Alliance
 
 Home › Privacy Policy Privacy Policy Privacy Policy Highlights
 
-**Updated July 13, 2016** (See archived privacy policy)                                  
+**Updated August 1, 2016** (See archived privacy policy)                                  
 
 Complete Privacy Policy                                   
 
