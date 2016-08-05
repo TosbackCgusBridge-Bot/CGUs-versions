@@ -1,4 +1,4 @@
-USESDEFRITBR Juillet 2016
+USESDEFRITBR Août 2016
 
 *   Objet
 *   Mentions légales
