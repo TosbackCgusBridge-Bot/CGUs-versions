@@ -42,9 +42,9 @@ PROVIDE AND CONDUCT MARKETING AND PROMOTIONS
 *   Administer contests, promotions, events, surveys or other features
 *   Display relevant marketing to you
 
-SHARING INFORMATION
+SHARING INFORMATION NIKE FAMILY
 
-NIKE FamilyWe may provide your information to NIKE, Inc. companies and affiliates, including Converse and Hurley ("NIKE Family"), some of which may be outside the U.S.
+We may provide your information to NIKE, Inc. companies and affiliates, including Converse and Hurley ("NIKE Family"), some of which may be outside the U.S.
 
 SERVICE PROVIDERS
 
