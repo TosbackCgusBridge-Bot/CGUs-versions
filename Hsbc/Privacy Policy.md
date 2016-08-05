@@ -88,7 +88,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Credit ratings
         *   Issuance programmes
     *   Stock exchange announcements
-        
+        *   Inside information
     
     *   Interim Results 2016 quick read Read the main highlights from our Interim Results 2016.
 *   News and insight
