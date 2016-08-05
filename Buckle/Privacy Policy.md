@@ -20,236 +20,226 @@
 *   MY BAG
 
 *   Women
+    *   *   Featured
+        
+        *   New Arrivals
+        *   Shop by Outfit
+        *   Shop By Brand
+        *   Buckle Exclusive
+        *   Shop Instagram
+        *   Plus Sizes
+        *   Buckle Select
+        *   Promotions
+        
+        *   Tops
+        
+        *   Tees
+        *   Tank Tops
+        *   Shirts/Blouses
+        *   Bandeaus/Bralettes
+        *   Bodysuits
+        *   Fashion
+        *   Graphics
+        *   Show All Tops
+        
+        *   Bottoms
+        
+        *   Jeans
+        *   Shorts
+        *   Crops/Capris
+        *   Skirts
+        *   Pants
+        *   Show All Bottoms
+        
+        *   Shoes
+        
+        *   Sandals
+        *   Flips
+        *   Sneakers
+        *   Wedges
+        *   Boots
+        *   Show All Shoes
+        
+        *   More
+        
+        *   Accessories
+        *   Watches
+        *   Activewear
+        *   Bags
+        *   Dresses
+        *   Swimwear
+        *   Factory Seconds
+        *   Show All
+        
+          
+          
+        Give a Buckle Gift card It's all about the blues. Shop jeans now.
 *   Men
+    *   *   Featured
+        
+        *   New Arrivals
+        *   Promotions
+        *   Buckle Exclusive
+        *   Shop by Outfit
+        *   Shop Instagram
+        *   Shop by Brand
+        *   Buckle Select
+        
+        *   Tops
+        
+        *   Tees
+        *   Hoodies/Sweatshirts
+        *   Tanks
+        *   Shirts
+        *   Polos
+        *   Sweaters
+        *   Show All Tops
+        
+        *   Bottoms
+        
+        *   Jeans
+        *   Shorts
+        *   Boardshorts
+        *   Pants
+        *   Show All Bottoms
+        
+        *   Shoes
+        
+        *   Flips
+        *   Casuals
+        *   Sneakers
+        *   Boots
+        *   Show All Shoes
+        
+        *   More
+        
+        *   Accessories
+        *   Hats
+        *   Watches
+        *   Cologne
+        *   Bags
+        *   Factory Seconds
+        *   Show All
+        
+          
+          
+        Give a Buckle Gift card It's all about the blues. Shop jeans now.
 *   Kids
+    *   *   Featured
+        
+        *   Boy's New Arrivals
+        *   Girl's New Arrivals
+        *   Boy's Sale
+        *   Girl's Sale
+        
+        *   Girl's Clothing
+        
+        *   Tops
+        *   Jeans
+        *   Shorts
+        *   Crops/Capris
+        *   Show All Girl's Clothes
+        
+        *   Boy's Clothing
+        
+        *   Shirts
+        *   Jeans
+        *   Boardshorts
+        *   Shorts
+        *   Shoes
+        *   Show All Boy's Clothes
+        
+          
+        Give a Buckle Gift card It's all about the blues. Shop jeans now.
 *   Jeans
+    *   *   Women's Jeans
+        
+        *   Jegging
+        *   Skinny
+        *   Bootcut
+        *   Flare
+        *   Blues Report
+        *   Show All Women's Jeans
+        
+        *   Men's Jeans
+        
+        *   Slim
+        *   Regular
+        *   Relaxed
+        *   Loose
+        *   Blues Report
+        *   Show All Men's Jeans
+        
+        *   Kid's Jeans
+        
+        *   Girl's Jeans
+        *   Boy's Jeans
+        
+          
+          
+        Give a Buckle Gift card It's all about the blues. Shop jeans now.
 *   New
+    *   *   Women's New
+        
+        *   Tees
+        *   Jeans
+        *   Shorts
+        *   Crops/Capris
+        *   Shirts/Blouses
+        *   Shoes
+        *   Show All Women's New
+        
+        *   Men's New
+        
+        *   Tees
+        *   Jeans
+        *   Shorts
+        *   Shirts
+        *   Shoes
+        *   Raglans
+        *   Show All Men's New
+        
+        *   Kid's New
+        
+        *   Girl's New Tops
+        *   Girl's New Jeans
+        *   Show All Girl's New
+        *   Boy's New Tops
+        *   Boy's New Jeans
+        *   Show All Boy's NewGive a Buckle Gift card It's all about the blues. Shop jeans now.
 *   Sale
+    *   *   Women's Sale
+        
+        *   Tees
+        *   Jeans
+        *   Shorts
+        *   Crops/Capris
+        *   Shirts/Blouses
+        *   Shoes
+        *   Factory Seconds
+        *   Show All Women's Sale
+        
+        *   Men's Sale
+        
+        *   Tees
+        *   Jeans
+        *   Shorts
+        *   Boardshorts
+        *   Shirts
+        *   Shoes
+        *   Factory Seconds
+        *   Show All Men's Sale
+        
+        *   Kid's Sale
+        
+        *   Girl's Sale Tops
+        *   Girl's Sale Jeans
+        *   Show All Girl's Sale
+        *   Boy's Sale Tops
+        *   Boy's Sale Jeans
+        *   Show All Boy's SaleGive a Buckle Gift card It's all about the blues. Shop jeans now.
 
-A Global Message! ×
-
-*   Featured
-
-*   New Arrivals
-*   Shop by Outfit
-*   Shop By Brand
-*   Buckle Exclusive
-*   Shop Instagram
-*   Plus Sizes
-*   Buckle Select
-*   Promotions
-
-*   Tops
-
-*   Tees
-*   Tank Tops
-*   Shirts/Blouses
-*   Bandeaus/Bralettes
-*   Bodysuits
-*   Fashion
-*   Graphics
-*   Show All Tops
-
-*   Bottoms
-
-*   Jeans
-*   Shorts
-*   Crops/Capris
-*   Skirts
-*   Pants
-*   Show All Bottoms
-
-*   Shoes
-
-*   Sandals
-*   Flips
-*   Sneakers
-*   Wedges
-*   Boots
-*   Show All Shoes
-
-*   More
-
-*   Accessories
-*   Watches
-*   Activewear
-*   Bags
-*   Dresses
-*   Swimwear
-*   Factory Seconds
-*   Show All
-
-  
-  
-Give a Buckle Gift card
-
-*   Featured
-
-*   New Arrivals
-*   Promotions
-*   Buckle Exclusive
-*   Shop by Outfit
-*   Shop Instagram
-*   Shop by Brand
-*   Buckle Select
-
-*   Tops
-
-*   Tees
-*   Hoodies/Sweatshirts
-*   Tanks
-*   Shirts
-*   Polos
-*   Sweaters
-*   Show All Tops
-
-*   Bottoms
-
-*   Jeans
-*   Shorts
-*   Boardshorts
-*   Pants
-*   Show All Bottoms
-
-*   Shoes
-
-*   Flips
-*   Casuals
-*   Sneakers
-*   Boots
-*   Show All Shoes
-
-*   More
-
-*   Accessories
-*   Hats
-*   Watches
-*   Cologne
-*   Bags
-*   Factory Seconds
-*   Show All
-
-  
-  
-Give a Buckle Gift card
-
-*   Featured
-
-*   Boy's New Arrivals
-*   Girl's New Arrivals
-*   Boy's Sale
-*   Girl's Sale
-
-*   Girl's Clothing
-
-*   Tops
-*   Jeans
-*   Shorts
-*   Crops/Capris
-*   Show All Girl's Clothes
-
-*   Boy's Clothing
-
-*   Shirts
-*   Jeans
-*   Boardshorts
-*   Shorts
-*   Shoes
-*   Show All Boy's Clothes
-
-  
-Give a Buckle Gift card
-
-*   Women's Jeans
-
-*   Jegging
-*   Skinny
-*   Bootcut
-*   Flare
-*   Blues Report
-*   Show All Women's Jeans
-
-*   Men's Jeans
-
-*   Slim
-*   Regular
-*   Relaxed
-*   Loose
-*   Blues Report
-*   Show All Men's Jeans
-
-*   Kid's Jeans
-
-*   Girl's Jeans
-*   Boy's Jeans
-
-  
-  
-Give a Buckle Gift card
-
-*   Women's New
-
-*   Tees
-*   Jeans
-*   Shorts
-*   Crops/Capris
-*   Shirts/Blouses
-*   Shoes
-*   Show All Women's New
-
-*   Men's New
-
-*   Tees
-*   Jeans
-*   Shorts
-*   Shirts
-*   Shoes
-*   Raglans
-*   Show All Men's New
-
-*   Kid's New
-
-*   Girl's New Tops
-*   Girl's New Jeans
-*   Show All Girl's New
-*   Boy's New Tops
-*   Boy's New Jeans
-*   Show All Boy's New
-
-Give a Buckle Gift card
-
-*   Women's Sale
-
-*   Tees
-*   Jeans
-*   Shorts
-*   Crops/Capris
-*   Shirts/Blouses
-*   Shoes
-*   Factory Seconds
-*   Show All Women's Sale
-
-*   Men's Sale
-
-*   Tees
-*   Jeans
-*   Shorts
-*   Boardshorts
-*   Shirts
-*   Shoes
-*   Factory Seconds
-*   Show All Men's Sale
-
-*   Kid's Sale
-
-*   Girl's Sale Tops
-*   Girl's Sale Jeans
-*   Show All Girl's Sale
-*   Boy's Sale Tops
-*   Boy's Sale Jeans
-*   Show All Boy's Sale
-
-Give a Buckle Gift card Enjoy special pricing during our first-ever LOYALTY EVENT. Privacy &. Security
+A Global Message! × Privacy &. Security
 
 **Privacy &. Security Policy**  
 The Buckle, Inc. ("Buckle") cares about the privacy of our Guests. Our goal is to provide the best shopping experience possible for our Guests, and we strive to achieve that goal through our Internet shopping experience. Buckle.com collects client information to enhance your shopping experience.
