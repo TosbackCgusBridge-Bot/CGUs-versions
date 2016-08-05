@@ -135,7 +135,7 @@ Resources
 
 *   Blog
 *   Case Studies
-*   Insights Research
+*   Consumer Insights
 *   Bizrate Insights FAQ
 *   Publisher Program FAQs
 
