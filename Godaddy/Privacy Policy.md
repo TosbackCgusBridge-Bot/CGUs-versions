@@ -1,4 +1,4 @@
-**Last Revised: July 18, 2016**
+**Last Revised: August 3, 2016**
 
 GoDaddy Respects your privacy
 
@@ -136,5 +136,3 @@ ATTN: Web Team
 14455 North Hayden Rd.  
 Suite 219  
 Scottsdale, AZ, 85260, U.S.A.
-
-analytics software to allow us to better understand the functionality of our mobile software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile applications.
