@@ -1,6 +1,6 @@
-**Reddit, Inc. Privacy Policy** _Effective Jan 1, 2016._
+**Reddit, Inc. Privacy Policy** _Effective Sep 2, 2016._
 
-1 We want you to understand how and why Reddit, Inc. (“Reddit,” “we” or “us”) collects, uses, and shares information about you when you access and use Reddit’s websites, mobile apps, widgets, and other online products and services (collectively, the "Services") or when you otherwise interact with us. This Privacy Policy applies to all of our Services, unless we provide different notices about our privacy practices (e.g., this Privacy Policy does not apply to redditgifts, which has its own privacy policy).
+1 We want you to understand how and why Reddit, Inc. (“Reddit,” “we” or “us”) collects, uses, and shares information about you when you access and use Reddit’s websites, mobile apps, widgets, and other online products and services (collectively, the "Services") or when you otherwise interact with us. This Privacy Policy applies to all of our Services, including those that maintain a separate Privacy Notice that incorporates this Privacy Policy by reference.
 
 Information You Provide to Us
 
