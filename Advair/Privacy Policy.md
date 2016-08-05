@@ -171,7 +171,7 @@ GSK Global Website www.gsk.com
     *   Employees/retirees
     *   Business partners/vendors
     *   Healthcare providers
-    *   Integrity and compliance
+    *   GSK integrity and compliance
 
 Menu
 
