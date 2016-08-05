@@ -14,7 +14,7 @@
 *   customer service
     
 
-*   Hello  Marilyn
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15128194757
+true true C15141591292
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Tue Aug 02 11:09:27 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p15.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Thu Aug 04 11:14:32 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,33 +52,51 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-9.99 Kids' Izod Uniform Polos
+Back to School Sale Starts Now! | In Store and Online | Ends August 6 Shop Back to School Sale View Store Ad Spend $50 and Get $20 Off\* Spend $25 and Get $10 Off\*
 
-Select styles, reg. $20
+In Store and Online | Ends 8/6 | Code: GOSHOP12
 
-Shop Girls Izod Uniform Polos Shop Boys Izod Uniform Polos     Save On Arizona Uniforms
+\*exclusions and details
 
-Select styles, reg. $18-$50
+Get Coupon Night and Day Doorbusters
 
-Shop Guys Arizona Uniforms Shop Juniors Arizona Uniforms Back to School so you. so worth it. Shop Back to School Flirtitude $15 ea. Flirtitude Bras
+Friday 3PM CDT through Saturday 1PM CDT
 
-Select styles when you buy 2 or more, reg. $20-$22
+Shop Doorbusters Shop Women Shop Men Shop Juniors Shop Guys Shop Kids Shop Shoes Shop Jewelry Shop Handbags Shop Bedding Shop Curtains and Drapes Arizona Jean Co. 40 to 50% Off Arizona Denim
 
-Shop Flirtitude Dorm Life Stock Up On Dorm Essentials
+Select styles, reg. $24-$50
+
+Shop Juniors Shop Guys Shop Girls Shop Boys       50% Off Xersion Activewear
+
+Select styles, 6.99-20.99, reg. $14-$35
+
+Shop Girls Shop Boys Shop Women     Buy 1 Get 1 For .01\* Men's Xersion Activewear
+
+Select styles, reg. $14-$50
+
+Shop Men
+
+\*Buy one item at regular price, get a second item of equal or lesser value for one cent while supplies last.
+
+10 to 20% Off Nike Shoes for the Family Select styles, msrp $44-$85
+
+Nike excluded from coupon
+
+Shop Men Shop Women Shop Kids   Home Sale 30 to 50% Off
 
 Select styles
 
-Shop All Dorm Home Sale 30 to 50% Off
+Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   Heading off to college?
 
-Select styles
+Here's a printable checklist for all you need.
 
-Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   Sephora Shop Sunscreen: JCPenney | optical Kids' Glasses $39.99, one pair Kids' Glasses $69.99, two pairs
+Print Checklist Sephora Shop Sunscreen: JCPenney | optical Kids' Glasses $39.99, one pair Kids' Glasses $69.99, two pairs
 
 Ends September 30
 
-Get Details: Red Zone Clearance 80% Off Final Markdowns
+Get Details: Red Zone Clearance 50 to 70% Off Clearance
 
-Plus! New Markdowns 50 to 70% Off
+In Store and Online
 
 Shop Clearance Now: JCP Salon Stock Up On Your Favorite Liter Duos
 
