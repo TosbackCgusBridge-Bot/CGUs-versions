@@ -315,8 +315,6 @@ To read more about contact information
 
 click here Important Info Important Info Leasing &. Finance
 
-*   Payment Estimator
-*   Payment Estimator
 *   Financing Options
 *   Financing Options
 *   End of Lease Options
@@ -375,8 +373,6 @@ Brand &. Lifestyle
 *   Legal
 
 *   Leasing &. Finance
-    *   Payment Estimator
-    *   Payment Estimator
     *   Financing Options
     *   Financing Options
     *   End of Lease Options
