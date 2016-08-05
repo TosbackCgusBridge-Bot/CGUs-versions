@@ -244,7 +244,7 @@ The Fidelity Investments Privacy Policy is provided on behalf of:
 *   Fidelity Investments Life Insurance Company
 *   Empire Fidelity Investments Life Insurance Company
 *   Fidelity Insurance Agency, Inc.
-*   FIAM, LLC
+*   FIAM LLC
 *   National Financial Services LLC
 *   Strategic Advisers, Inc.
 *   Other companies owned by Fidelity Investments using the Fidelity name to provide financial or payroll services to customers
