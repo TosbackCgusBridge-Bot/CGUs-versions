@@ -4,6 +4,9 @@ Categories
 *   Multiplayer
     *   Social Games
     *   2 player
+    *   Casino Games
+    *   MMO &. Strategy
+    *   .io Games
 *   Action
     *   Arena Fighting
     *   Anime and Manga Games
@@ -99,20 +102,20 @@ View more results
 *   Hot Games
     
     *   Klondike - the lost expedition
-    *   Cloud Kingdom
-    *   Hair Do Design
-    *   Summer Sports: Water Polo
-    *   Slither.io
-    *   Bubble Shooter Endless
+    *   Farm Days
+    *   Color Switch
+    *   Summer Sports: Diving
+    *   My Dolphin Show World
+    *   Little Alchemy
     
     Mobile Apps More
     
     *   Summer Sports
-    *   Hero Simulator
-    *   My Dolphin Show
-    *   Supersnake.io
-    *   Soccer Simulator
-    *   Easy Joe World
+    *   Hero Simulator: Idle Adventure
+    *   Mad Truck Challenge: The Beginning
+    *   My Dolphin Show 8
+    *   Soccer Simulator: Idle Tournament
+    *   Trollface Quest TrollTube
     
     Specials
     
@@ -124,7 +127,7 @@ View more results
     *   MMO &. Strategy
     *   .io Games
     
-    Browse By
+    All Multiplayer Browse By
     
     *   Most popular
     *   Most played
@@ -148,7 +151,7 @@ View more results
     *   War Games
     *   Zombie Games
     
-    Browse By
+    All Action Browse By
     
     *   Most popular
     *   Most played
@@ -172,7 +175,7 @@ View more results
     *   Scary Games
     *   Ninja Games
     
-    Browse By
+    All Adventure Browse By
     
     *   Most popular
     *   Most played
@@ -196,7 +199,7 @@ View more results
     *   Card Solitaire
     *   Bubble Shooter
     
-    Browse By
+    All Puzzle Browse By
     
     *   Most popular
     *   Most played
@@ -221,7 +224,7 @@ View more results
     *   Love Games
     *   Princess Games
     
-    Browse By
+    All Girls Browse By
     
     *   Most popular
     *   Most played
@@ -246,7 +249,7 @@ View more results
     *   Boat Racing
     *   Stunt Driving
     
-    Browse By
+    All Racing Browse By
     
     *   Most popular
     *   Most played
@@ -271,7 +274,7 @@ View more results
     *   Soccer
     *   Boxing
     
-    Browse By
+    All Sports Browse By
     
     *   Most popular
     *   Most played
