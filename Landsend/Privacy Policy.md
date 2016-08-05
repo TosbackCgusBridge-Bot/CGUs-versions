@@ -43,6 +43,7 @@ menu 0
     *   Lands' End
     *   Lands' End
     *   Lands' End
+    *   Lands' End
     *   Business Outfitters
     
     CATEGORIES
@@ -87,6 +88,7 @@ menu 0
     *   Lands' End
     *   Lands' End
     *   Lands' End
+    *   Lands' End
     *   Business Outfitters
     
     CATEGORIES
@@ -124,6 +126,7 @@ menu 0
     *   Big &. Tall
 *   Kids
     
+    *   Lands' End
     *   Lands' End
     *   Lands' End
     *   Lands' End
@@ -185,6 +188,7 @@ menu 0
     *   Lands' End
     *   Lands' End
     *   Lands' End
+    *   Lands' End
     *   Business Outfitters
     
     SHOP SWIM
@@ -206,6 +210,7 @@ menu 0
     *   Lands' End
     *   Lands' End
     *   Lands' End
+    *   Lands' End
     *   Business Outfitters
     
     SHOP SHOES
@@ -216,42 +221,31 @@ menu 0
     *   Boys
     
     FEATURED SHOPS
+    *   New Arrivals
     *   Boots &. Booties
     *   Fall Flats
     *   Accessories &. Bags
     *   Back To School Shoes
     *   Sale
-*   Home
+*   Sale
     
+    *   Lands' End
     *   Lands' End
     *   Lands' End
     *   Lands' End
     *   Business Outfitters
     
-    BEDDING >.
-    
-    *   Sheets &. Pillowcases
-    *   Duvet Covers &. Comforters
-    *   Blankets &. Throws
-    *   Mattress Pads
-    *   Pillows
-    
-    BATH >.
-    
-    *   Towels
-    *   Rugs &. Mats
-    *   Beach Towels
-    *   Shower Curtains
-    
-    DECOR >. KIDS ROOM >. DOG SHOP >. FEATURED SHOPS
-    *   New Arrivals
-    *   Supima Bedding &. Bath
-    *   Oxford Bedding
-    *   No Iron Bedding
-    *   Canvas Totes &. More
-    *   Sale
+    SALE
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    *   Home
+    *   School Uniforms
+
 *   School
     
+    *   Lands' End
     *   Lands' End
     *   Lands' End
     *   Lands' End
@@ -301,20 +295,36 @@ menu 0
     *   Junior
     *   Young Men
     *   Adult
-*   Sale
+*   Home
     
+    *   Lands' End
     *   Lands' End
     *   Lands' End
     *   Lands' End
     *   Business Outfitters
     
-    SALE
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
-    *   Home
-    *   School Uniforms
+    BEDDING >.
+    
+    *   Sheets &. Pillowcases
+    *   Duvet Covers &. Comforters
+    *   Blankets &. Throws
+    *   Mattress Pads
+    *   Pillows
+    
+    BATH >.
+    
+    *   Towels
+    *   Rugs &. Mats
+    *   Beach Towels
+    *   Shower Curtains
+    
+    DECOR >. KIDS ROOM >. DOG SHOP >. FEATURED SHOPS
+    *   New Arrivals
+    *   Supima Bedding &. Bath
+    *   Oxford Bedding
+    *   No Iron Bedding
+    *   Canvas Totes &. More
+    *   Sale
 
 *   Lands' End
 *   Canvas by Lands' End
@@ -331,6 +341,7 @@ menu 0
 
 *   Women
     
+    *   Lands' End
     *   Lands' End
     *   Lands' End
     *   Lands' End
@@ -378,6 +389,7 @@ menu 0
     *   Lands' End
     *   Lands' End
     *   Lands' End
+    *   Lands' End
     *   Business Outfitters
     
     Back | Men CATEGORIES Back | CATEGORIES
@@ -415,6 +427,7 @@ menu 0
     *   Big &. Tall
 *   Kids
     
+    *   Lands' End
     *   Lands' End
     *   Lands' End
     *   Lands' End
@@ -476,6 +489,7 @@ menu 0
     *   Lands' End
     *   Lands' End
     *   Lands' End
+    *   Lands' End
     *   Business Outfitters
     
     Back | Swim SHOP SWIM Back | SHOP SWIM
@@ -497,6 +511,7 @@ menu 0
     *   Lands' End
     *   Lands' End
     *   Lands' End
+    *   Lands' End
     *   Business Outfitters
     
     Back | Shoes SHOP SHOES Back | SHOP SHOES
@@ -507,42 +522,30 @@ menu 0
     *   Boys
     
     FEATURED SHOPS Back | Shoes
+    *   New Arrivals
     *   Boots &. Booties
     *   Fall Flats
     *   Accessories &. Bags
     *   Back To School Shoes
     *   Sale
-*   Home
+*   Sale
     
+    *   Lands' End
     *   Lands' End
     *   Lands' End
     *   Lands' End
     *   Business Outfitters
     
-    Back | Home BEDDING Back | BEDDING
-    
-    *   Sheets &. Pillowcases
-    *   Duvet Covers &. Comforters
-    *   Blankets &. Throws
-    *   Mattress Pads
-    *   Pillows
-    
-    BATH Back | BATH
-    
-    *   Towels
-    *   Rugs &. Mats
-    *   Beach Towels
-    *   Shower Curtains
-    
-    DECOR Back | DECOR KIDS ROOM Back | KIDS ROOM DOG SHOP Back | DOG SHOP FEATURED SHOPS Back | Home
-    *   New Arrivals
-    *   Supima Bedding &. Bath
-    *   Oxford Bedding
-    *   No Iron Bedding
-    *   Canvas Totes &. More
-    *   Sale
+    Back | Sale SALE Back | SALE
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    *   Home
+    *   School Uniforms
 *   School
     
+    *   Lands' End
     *   Lands' End
     *   Lands' End
     *   Lands' End
@@ -592,20 +595,36 @@ menu 0
     *   Junior
     *   Young Men
     *   Adult
-*   Sale
+*   Home
     
+    *   Lands' End
     *   Lands' End
     *   Lands' End
     *   Lands' End
     *   Business Outfitters
     
-    Back | Sale SALE Back | SALE
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
-    *   Home
-    *   School Uniforms
+    Back | Home BEDDING Back | BEDDING
+    
+    *   Sheets &. Pillowcases
+    *   Duvet Covers &. Comforters
+    *   Blankets &. Throws
+    *   Mattress Pads
+    *   Pillows
+    
+    BATH Back | BATH
+    
+    *   Towels
+    *   Rugs &. Mats
+    *   Beach Towels
+    *   Shower Curtains
+    
+    DECOR Back | DECOR KIDS ROOM Back | KIDS ROOM DOG SHOP Back | DOG SHOP FEATURED SHOPS Back | Home
+    *   New Arrivals
+    *   Supima Bedding &. Bath
+    *   Oxford Bedding
+    *   No Iron Bedding
+    *   Canvas Totes &. More
+    *   Sale
 
 Customer Service Menu
 
