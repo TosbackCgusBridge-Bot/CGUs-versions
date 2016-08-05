@@ -11,7 +11,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Summer Gift Guide
     *   Business Gifts
         
-    *   Hickory Farms Reserve
     *   Personalized Gifts
     *   Shop By Occasion
         *   Birthday Gifts
@@ -38,7 +37,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Mustards &. Spreads
         
     *   Crackers
-    *   Hickory Farms Reserve
     *   Pfaelzer Brothers Steak &. Seafood
     *   Gluten Free
 *   Shop By Price
@@ -58,7 +56,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Summer Gift Guide
     *   Business Gifts
         
-    *   Hickory Farms Reserve
     *   Personalized Gifts
     *   Shop By Occasion
         *   Birthday Gifts
@@ -85,7 +82,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Mustards &. Spreads
         
     *   Crackers
-    *   Hickory Farms Reserve
     *   Pfaelzer Brothers Steak &. Seafood
     *   Gluten Free
 *   Shop By Price
