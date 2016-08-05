@@ -1,4 +1,4 @@
-Privacy Statement
+Privacy Policy
 
 Last Updated April, 2016
 
