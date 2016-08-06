@@ -1,4 +1,4 @@
-Skip to main content LinkedIn Home
+LinkedIn Home
 
 *   What is LinkedIn?
 *   Join Today
@@ -339,7 +339,7 @@ For Members in the United States: LinkedIn Corporation Attn: Privacy Policy Issu
     *   Deutsch
     *   **English**
     *   Español
-    *   正體中文
+    *   繁體中文
     *   Français
     *   한국어
     *   Italiano
@@ -361,7 +361,7 @@ For Members in the United States: LinkedIn Corporation Attn: Privacy Policy Issu
 
 *   LinkedIn Updates
 *   LinkedIn Influencers
-*   LinkedIn Jobs
+*   Search Jobs
 
 *   Directories
 *   Members
@@ -372,6 +372,7 @@ For Members in the United States: LinkedIn Corporation Attn: Privacy Policy Issu
 *   Groups
 *   Universities
 *   Titles
+*   ProFinder
 
 LinkedIn Corporation _© 2016_
 
@@ -380,4 +381,4 @@ LinkedIn Corporation _© 2016_
 *   Community Guidelines
 *   Cookie Policy
 *   Copyright Policy
-*   Guest Controls
+*   Unsubscribe
