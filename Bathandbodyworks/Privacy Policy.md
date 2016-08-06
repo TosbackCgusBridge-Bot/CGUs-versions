@@ -55,7 +55,7 @@ To better understand what you do while on our site, we use a browser feature kno
 
 We also use clear-gifs (also known as a Web beacon, pixel tags or Web bug) on our Web site, mobile site, microsites, and BBW social media pages and in our emails. A clear gif is a nearly invisible pixel-sized graphic image on a Web page, Web-based document or email message. It helps us do things like view the URL of the page on which the clear gif appears and the time our Web site or email in question is viewed. Clear gifs in emails help us confirm the receipt of, and response to, our emails, including those that you forward to friends and family. and they help deliver a more personalized online experience.
 
-Overall, these technologies may be used to help us see which of our interactive experiences online users like most: for example, by keeping track of the number of times a video, widget or other media is accessed or embedded on social networking sites. and on which social networking sites it is embedded, based on inquiries that are sent to our Web site.
+Overall, these technologies may be used to help us see which of our interactive experiences online users like most: for example, by keeping track of the number of times a video, widget or other media is accessed or embedded on social networking sites. and on which social networking sites it is embedded, based on inquiries that are sent to our Web site. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, click here.
 
 Cookies and clear gifs also allow us to associate your online navigational or transactional information with any personal information you provide or we otherwise collect (such as name, address, phone number, email address, and IP address). We'll associate this information to deliver products and services to you. to improve our business. to transact business. and to market our products and services to you on this and other Web sites and through a variety of media like email, mobile advertising, and direct mail. As an example, we may use cookies to keep track of what you put into your shopping bag. That can help us contact you if your online session is disrupted in mid-purchase, resulting in an abandoned cart. We can also use this technology to determine whether you'd be interested in participating in special events, given your preferences. The end-result is a more personalized experience that's tailored to your needs and tastes.
 
@@ -221,4 +221,4 @@ Please click here to view any material and substantive changes made since the la
 
 BACK TO TOP
 
-This privacy policy is effective June 14, 2014.
+This privacy policy is effective August 5, 2016.
