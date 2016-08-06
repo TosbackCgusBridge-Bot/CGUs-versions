@@ -46,8 +46,26 @@ menu 0
     *   Lands' End
     *   Business Outfitters
     
-    CATEGORIES
+    FEATURED SHOPS
     
+    *   New Arrivals
+    *   Jeans Guide
+    *   Wear to Work
+    *   The Starfish Collection
+    *   The Cardigan Shop
+    *   Tunic Shop
+    *   Sale
+    
+    SHOP BY SIZE RANGE
+    
+    *   Regular
+    *   Petite
+    *   Tall
+    *   Plus
+    *   Petite Plus
+    *   Tall Plus
+    
+    CATEGORIES
     *   Swimsuits
     *   Knit Tops &. Tees
     *   Sweaters
@@ -65,24 +83,6 @@ menu 0
     *   Accessories
     *   Bags
     *   Long Underwear
-    
-    FEATURED SHOPS
-    
-    *   New Arrivals
-    *   Jeans Guide
-    *   Wear to Work
-    *   The Starfish Collection
-    *   The Cardigan Shop
-    *   Tunic Shop
-    *   Sale
-    
-    SHOP BY SIZE RANGE
-    *   Regular
-    *   Petite
-    *   Tall
-    *   Plus
-    *   Petite Plus
-    *   Tall Plus
 *   Men
     
     *   Lands' End
@@ -91,8 +91,22 @@ menu 0
     *   Lands' End
     *   Business Outfitters
     
-    CATEGORIES
+    FEATURED SHOPS
     
+    *   New Arrivals
+    *   No Iron Shop
+    *   Supima Shirts &. Sweaters
+    *   Jeans Guide
+    *   Tailored Fit Shop
+    *   Sale
+    
+    SHOP BY SIZE RANGE
+    
+    *   Regular
+    *   Tall
+    *   Big &. Tall
+    
+    CATEGORIES
     *   Dress Shirts
     *   Casual Shirts
     *   Polo Shirts
@@ -110,20 +124,6 @@ menu 0
     *   Underwear &. Long Underwear
     *   Shoes
     *   Bags
-    
-    FEATURED SHOPS
-    
-    *   New Arrivals
-    *   No Iron Shop
-    *   Supima Shirts &. Sweaters
-    *   Jeans Guide
-    *   Tailored Fit Shop
-    *   Sale
-    
-    SHOP BY SIZE RANGE
-    *   Regular
-    *   Tall
-    *   Big &. Tall
 *   Kids
     
     *   Lands' End
@@ -131,6 +131,24 @@ menu 0
     *   Lands' End
     *   Lands' End
     *   Business Outfitters
+    
+    FEATURED SHOPS
+    
+    *   New Arrivals
+    *   Backpacks &. Lunch Boxes
+    *   School Uniforms
+    *   Iron Knee Pants
+    *   Girls' Knit Kit
+    *   Sale
+    
+    SHOP BY AGE RANGE
+    
+    *   Toddler Girl (2T-4T)
+    *   Little Girl (size 4-7)
+    *   Big Girl (size 7-20)
+    *   Toddler Boy (2T-4T)
+    *   Little Boy (size 4-7)
+    *   Big Boy (size 7-20)
     
     Girls>.
     
@@ -151,7 +169,6 @@ menu 0
     *   Long Underwear
     
     Boys>.
-    
     *   Backpacks &. Lunch Boxes
     *   Swimwear
     *   Tops
@@ -166,23 +183,6 @@ menu 0
     *   Shoes
     *   Accessories
     *   Long Underwear
-    
-    FEATURED SHOPS
-    
-    *   New Arrivals
-    *   Backpacks &. Lunch Boxes
-    *   School Uniforms
-    *   Iron Knee Pants
-    *   Girls' Knit Kit
-    *   Sale
-    
-    SHOP BY AGE RANGE
-    *   Toddler Girl (2T-4T)
-    *   Little Girl (size 4-7)
-    *   Big Girl (size 7-20)
-    *   Toddler Boy (2T-4T)
-    *   Little Boy (size 4-7)
-    *   Big Boy (size 7-20)
 *   Swim
     
     *   Lands' End
@@ -251,6 +251,24 @@ menu 0
     *   Lands' End
     *   Business Outfitters
     
+    FIND YOUR SCHOOL>. FEATURED SHOPS
+    
+    *   Best-in-Class Polos
+    *   Iron Knee Pants
+    *   Backpacks &. Lunch Boxes
+    *   Spiritwear
+    *   After School
+    *   Sale
+    
+    SHOP BY AGE RANGE
+    
+    *   Toddler
+    *   Little Kid
+    *   Big Kid
+    *   Junior
+    *   Young Men
+    *   Adult
+    
     Girls &. Women>.
     
     *   Tops
@@ -267,7 +285,6 @@ menu 0
     *   Backpacks &. Bags
     
     Boys &. Men>.
-    
     *   Tops
     *   Sweaters
     *   Pants
@@ -278,23 +295,6 @@ menu 0
     *   Shoes
     *   Accessories
     *   Backpacks &. Bags
-    
-    FIND YOUR SCHOOL>. FEATURED SHOPS
-    
-    *   Best-in-Class Polos
-    *   Iron Knee Pants
-    *   Backpacks &. Lunch Boxes
-    *   Spiritwear
-    *   After School
-    *   Sale
-    
-    SHOP BY AGE RANGE
-    *   Toddler
-    *   Little Kid
-    *   Big Kid
-    *   Junior
-    *   Young Men
-    *   Adult
 *   Home
     
     *   Lands' End
@@ -302,6 +302,15 @@ menu 0
     *   Lands' End
     *   Lands' End
     *   Business Outfitters
+    
+    FEATURED SHOPS
+    
+    *   New Arrivals
+    *   Supima Bedding &. Bath
+    *   Flannel Bedding
+    *   No Iron Bedding
+    *   Dorm
+    *   Sale
     
     BEDDING >.
     
@@ -318,13 +327,18 @@ menu 0
     *   Beach Towels
     *   Shower Curtains
     
-    DECOR >. KIDS ROOM >. DOG SHOP >. FEATURED SHOPS
-    *   New Arrivals
-    *   Supima Bedding &. Bath
-    *   Oxford Bedding
-    *   No Iron Bedding
-    *   Canvas Totes &. More
-    *   Sale
+    Decor >.
+    
+    *   Storage &. Organization
+    *   Doormats
+    *   Tabletop
+    *   Seasonal
+    
+    More for the Home >.
+    *   Kids Room
+    *   Dog Shop
+    *   Luggage &. Bags
+    *   Canvas Totes
 
 *   Lands' End
 *   Canvas by Lands' End
@@ -347,8 +361,26 @@ menu 0
     *   Lands' End
     *   Business Outfitters
     
-    Back | Women CATEGORIES Back | CATEGORIES
+    Back | Women FEATURED SHOPS Back | Women
     
+    *   New Arrivals
+    *   Jeans Guide
+    *   Wear to Work
+    *   The Starfish Collection
+    *   The Cardigan Shop
+    *   Tunic Shop
+    *   Sale
+    
+    SHOP BY SIZE RANGE Back | Women
+    
+    *   Regular
+    *   Petite
+    *   Tall
+    *   Plus
+    *   Petite Plus
+    *   Tall Plus
+    
+    CATEGORIES Back | CATEGORIES
     *   Swimsuits
     *   Knit Tops &. Tees
     *   Sweaters
@@ -366,24 +398,6 @@ menu 0
     *   Accessories
     *   Bags
     *   Long Underwear
-    
-    FEATURED SHOPS Back | Women
-    
-    *   New Arrivals
-    *   Jeans Guide
-    *   Wear to Work
-    *   The Starfish Collection
-    *   The Cardigan Shop
-    *   Tunic Shop
-    *   Sale
-    
-    SHOP BY SIZE RANGE Back | Women
-    *   Regular
-    *   Petite
-    *   Tall
-    *   Plus
-    *   Petite Plus
-    *   Tall Plus
 *   Men
     
     *   Lands' End
@@ -392,8 +406,22 @@ menu 0
     *   Lands' End
     *   Business Outfitters
     
-    Back | Men CATEGORIES Back | CATEGORIES
+    Back | Men FEATURED SHOPS Back | Men
     
+    *   New Arrivals
+    *   No Iron Shop
+    *   Supima Shirts &. Sweaters
+    *   Jeans Guide
+    *   Tailored Fit Shop
+    *   Sale
+    
+    SHOP BY SIZE RANGE Back | Men
+    
+    *   Regular
+    *   Tall
+    *   Big &. Tall
+    
+    CATEGORIES Back | CATEGORIES
     *   Dress Shirts
     *   Casual Shirts
     *   Polo Shirts
@@ -411,20 +439,6 @@ menu 0
     *   Underwear &. Long Underwear
     *   Shoes
     *   Bags
-    
-    FEATURED SHOPS Back | Men
-    
-    *   New Arrivals
-    *   No Iron Shop
-    *   Supima Shirts &. Sweaters
-    *   Jeans Guide
-    *   Tailored Fit Shop
-    *   Sale
-    
-    SHOP BY SIZE RANGE Back | Men
-    *   Regular
-    *   Tall
-    *   Big &. Tall
 *   Kids
     
     *   Lands' End
@@ -433,7 +447,25 @@ menu 0
     *   Lands' End
     *   Business Outfitters
     
-    Back | Kids Girls Back | Girls
+    Back | Kids FEATURED SHOPS Back | Kids
+    
+    *   New Arrivals
+    *   Backpacks &. Lunch Boxes
+    *   School Uniforms
+    *   Iron Knee Pants
+    *   Girls' Knit Kit
+    *   Sale
+    
+    SHOP BY AGE RANGE Back | Kids
+    
+    *   Toddler Girl (2T-4T)
+    *   Little Girl (size 4-7)
+    *   Big Girl (size 7-20)
+    *   Toddler Boy (2T-4T)
+    *   Little Boy (size 4-7)
+    *   Big Boy (size 7-20)
+    
+    Girls Back | Girls
     
     *   Backpacks &. Lunch Boxes
     *   Swimsuits
@@ -452,7 +484,6 @@ menu 0
     *   Long Underwear
     
     Boys Back | Boys
-    
     *   Backpacks &. Lunch Boxes
     *   Swimwear
     *   Tops
@@ -467,23 +498,6 @@ menu 0
     *   Shoes
     *   Accessories
     *   Long Underwear
-    
-    FEATURED SHOPS Back | Kids
-    
-    *   New Arrivals
-    *   Backpacks &. Lunch Boxes
-    *   School Uniforms
-    *   Iron Knee Pants
-    *   Girls' Knit Kit
-    *   Sale
-    
-    SHOP BY AGE RANGE Back | Kids
-    *   Toddler Girl (2T-4T)
-    *   Little Girl (size 4-7)
-    *   Big Girl (size 7-20)
-    *   Toddler Boy (2T-4T)
-    *   Little Boy (size 4-7)
-    *   Big Boy (size 7-20)
 *   Swim
     
     *   Lands' End
@@ -551,7 +565,25 @@ menu 0
     *   Lands' End
     *   Business Outfitters
     
-    Back | School Girls &. Women Back | Girls &. Women
+    Back | School FIND YOUR SCHOOL Back | FIND YOUR SCHOOL FEATURED SHOPS Back | School
+    
+    *   Best-in-Class Polos
+    *   Iron Knee Pants
+    *   Backpacks &. Lunch Boxes
+    *   Spiritwear
+    *   After School
+    *   Sale
+    
+    SHOP BY AGE RANGE Back | School
+    
+    *   Toddler
+    *   Little Kid
+    *   Big Kid
+    *   Junior
+    *   Young Men
+    *   Adult
+    
+    Girls &. Women Back | Girls &. Women
     
     *   Tops
     *   Sweaters
@@ -567,7 +599,6 @@ menu 0
     *   Backpacks &. Bags
     
     Boys &. Men Back | Boys &. Men
-    
     *   Tops
     *   Sweaters
     *   Pants
@@ -578,23 +609,6 @@ menu 0
     *   Shoes
     *   Accessories
     *   Backpacks &. Bags
-    
-    FIND YOUR SCHOOL Back | FIND YOUR SCHOOL FEATURED SHOPS Back | School
-    
-    *   Best-in-Class Polos
-    *   Iron Knee Pants
-    *   Backpacks &. Lunch Boxes
-    *   Spiritwear
-    *   After School
-    *   Sale
-    
-    SHOP BY AGE RANGE Back | School
-    *   Toddler
-    *   Little Kid
-    *   Big Kid
-    *   Junior
-    *   Young Men
-    *   Adult
 *   Home
     
     *   Lands' End
@@ -603,7 +617,16 @@ menu 0
     *   Lands' End
     *   Business Outfitters
     
-    Back | Home BEDDING Back | BEDDING
+    Back | Home FEATURED SHOPS Back | Home
+    
+    *   New Arrivals
+    *   Supima Bedding &. Bath
+    *   Flannel Bedding
+    *   No Iron Bedding
+    *   Dorm
+    *   Sale
+    
+    BEDDING Back | BEDDING
     
     *   Sheets &. Pillowcases
     *   Duvet Covers &. Comforters
@@ -618,13 +641,18 @@ menu 0
     *   Beach Towels
     *   Shower Curtains
     
-    DECOR Back | DECOR KIDS ROOM Back | KIDS ROOM DOG SHOP Back | DOG SHOP FEATURED SHOPS Back | Home
-    *   New Arrivals
-    *   Supima Bedding &. Bath
-    *   Oxford Bedding
-    *   No Iron Bedding
-    *   Canvas Totes &. More
-    *   Sale
+    Decor Back | Decor
+    
+    *   Storage &. Organization
+    *   Doormats
+    *   Tabletop
+    *   Seasonal
+    
+    More for the Home Back | More for the Home
+    *   Kids Room
+    *   Dog Shop
+    *   Luggage &. Bags
+    *   Canvas Totes
 
 Customer Service Menu
 
