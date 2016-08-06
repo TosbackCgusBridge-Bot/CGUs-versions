@@ -26,7 +26,7 @@ Sign In or Sign Up
     *   Buy Resume Database Access
     *   Sign in to Search Resumes
     *   About Resume Database
-*   Resources
+*   Resource Center
 
 *   More
     *   Sign In
