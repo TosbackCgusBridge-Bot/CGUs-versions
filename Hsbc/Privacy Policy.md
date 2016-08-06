@@ -173,15 +173,24 @@ Terms and conditions Share
 
 HSBC Holdings plc is a public limited company registered in England and Wales under Company Register Number 617987 and with its registered office at 8, Canada Square, London, England E14 5HQ.
 
+Skip to main content Privacy policy
+
+Our privacy statement sets out our current policies and demonstrates our commitment to your privacy.
+
 Before using this Site, you should read these Terms carefully, as well as our Privacy Policy and Cookie Policy.
 
 The information contained on the Site is for information purposes only. HSBC Holdings plc does not hold itself out as providing legal, financial or other advice via the Site.
 
 *   References to 'Site' are references to the Site at www.hsbc.com
+    
 *   References to 'Local Sites' are references to other HSBC pages and web sites or pages and web sites issued by other entities within the HSBC Group.
+    
 *   References to 'you', 'your' and 'yours' are references to the person(s) accessing the Site or any Local Site.
+    
 *   References to 'we', 'us' and 'our' are references to HSBC Holdings plc
+    
 *   References to the 'HSBC Group' are references to HSBC Holdings plc, its subsidiaries and affiliated companies.
+    
 
 About hsbc.com
 
@@ -284,19 +293,21 @@ Social media
 HSBC Holdings plc and other members of the HSBC Group may from time to time operate channels, pages and accounts on some social media Sites to inform, assist and engage with customers and other users. Each operator of such a channel, page or account (be that HSBC Holdings plc or a HSBC Group Member, as indicated ) is responsible for such channel, page or account in accordance with the terms of use displayed on or linked from that channel, page or account. To see the full terms of use relating to our social media channels, pages and accounts please visit the relevant channel, page or account. In addition, please note the following general terms which relate to our social media channels, pages and accounts:
 
 *   We may monitor and record comments and posts made on these channels about the HSBC Group so that we can improve our services.
+    
 *   We are not responsible for any information posted on those Sites other than information we, HSBC Holdings plc, have posted ourselves. We do not endorse the social media Sites themselves, or any information posted on them by third parties or other users.
-*   HSBC Holdings plc does not offer financial services or products and our operation of such social media channels, pages and accounts does not constitute an offer of any products or services provided by any of the HSBC Group members.  We don't give investment, tax or other professional advice via social media Sites. You should always seek independent advice before making such decisions.
+    
+*   HSBC Holdings plc does not offer financial services or products and our operation of such social media channels, pages and accounts does not constitute an offer of any products or services provided by any of the HSBC Group members. We don't give investment, tax or other professional advice via social media Sites. You should always seek independent advice before making such decisions.
+    
 *   When you engage with us via social media your personal data may be stored on that social media Site's servers, which are outside our control and may be in the US or elsewhere inside or outside the EU. Any information posted to such Sites may be accessed and read by the general public. It is not an appropriate forum to discuss customers' products or financial arrangements. We will not ask you to share personal, account or security information via social media Sites, and you should not post such information on those channels.
+    
 *   We regularly update and monitor our social media accounts and welcome feedback and ideas submitted via these channels. We may from time to time join the conversation on our social media channels, pages and accounts, however cannot guarantee to read or reply to all messages sent to official HSBC Holdings plc social media accounts.
+    
 *   Emerging themes and helpful suggestions are passed to the relevant people within the HSBC Group for consideration, but no guarantee is made that any proposals will be acted upon.
+    
 
 Data Treasury Corporation (DTC) Licence
 
 HSBC is licensed by DTC under U.S. Patent Nos. 5,910,988. 6,032,137. 6,594,647. 6,341,272. 5,974,146.
-
-Privacy policy
-
-Our privacy statement sets out our current policies and demonstrates our commitment to your privacy.
 
 Site navigation About HSBC
 
