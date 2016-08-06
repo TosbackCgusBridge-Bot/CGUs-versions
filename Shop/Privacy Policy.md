@@ -10,28 +10,31 @@ LENOVO Menu
     *   Accessories &. Software
     *   Services &. Warranty
 *   Deals
-    *   Explore All  
-        Deals
-    *   Home Laptop Deals
-    *   Professional Laptop Deals
-    *   Desktop Deals
-    *   Tablet Deals
-    *   Clearance Sale
-    *   Deals for Students &. Educators
-*   Solutions
-    *   Small Business
-    *   Large Enterprise
-    *   Health
-    *   Government
-    *   K-12 Education
-    *   Higher Education
-    *   Business Partners
-    *   Resource Center
-    *   See All Solutions for Work
+    *   Current Offers
+        1.  Home Laptop Deals
+        2.  Professional Laptop Deals
+        3.  Desktop Deals
+        4.  Tablet Deals
+        5.  Laptop Coupons
+        6.  Desktop Coupons
+        7.  Clearance PCs
+        8.  Deals for Students and Educators
+    *   Back to School Sale Great deals on select PCs and Tablets.
+        
+        Sale ends August 3.
+        
+    *   Clearance Sale Get these deals before they’re gone. Hurry While supplies last!
+        
+    *   Lenovo Preferred Card The Best Offers with Instant and Affordable Financing.
+        
 *   Support
-    *   Technical support
-    *   Sales order help
-    *   Existing order help
+    *   SALES Sales order help Let us help decide what system is right for you
+    *   ORDER SUPPORT Existing order help Check order status online or talk with an agent
+    *   TECHNICAL SUPPORT Update drivers Stay up to date with the latest drivers and software
+    *   TECHNICAL SUPPORT Search solutions Look up how-to guides and step-by-step instructions
+    *   TECHNICAL SUPPORT Download manuals Read and download information for your Lenovo product
+    *   TECHNICAL SUPPORT Support resources Tools and support for warranty, repair and diagnostics
+    *   TECHNICAL SUPPORT Get technical help Contact a technical support agent for help with your Lenovo device
 
 *   Sales1-855-253-6686
 
@@ -41,13 +44,23 @@ LENOVO Menu
 
 *   Lenovo recommends Windows.
 
-*   My Lenovo
-    *   Community
-    *   Account
-*   Contact Sales
+*   Phone
 *   Stay in Touch
     *   Email
     *   SMS
+*   For Work
+    *   Small Business
+    *   Large Enterprise
+    *   Health
+    *   Government
+    *   K-12 Education
+    *   Higher Education
+    *   Students
+    *   Business Partners
+    *   Resource Center
+    *   See all solutions for work
+*   Community
+*   Account
 
 *   Search
     
@@ -238,29 +251,25 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
             1.  View all laptops
             2.  Lenovo B Series
             3.  Lenovo Flex Series
-            4.  Lenovo G Series
-            5.  Lenovo LaVie
-            6.  Lenovo N Series
-            7.  Lenovo S Series
-            8.  Lenovo U Series
-            9.  Lenovo Y Series
-            10.  Lenovo Yoga Series
-            11.  Lenovo Z Series
-            12.  ThinkPad 11e
-            13.  ThinkPad E
-            14.  ThinkPad Helix
-            15.  ThinkPad L
-            16.  ThinkPad T
-            17.  ThinkPad W
-            18.  ThinkPad X
-            19.  ThinkPad Yoga
-            20.  ThinkPad P
-            21.  Ideapad Y700
-            22.  Ideapad 100
-            23.  Ideapad 300
-            24.  Ideapad 500
-            25.  Ideapad 700
-            26.  Chromebook
+            4.  Lenovo S Series
+            5.  Lenovo U Series
+            6.  Lenovo Y Series
+            7.  Lenovo Yoga Series
+            8.  Lenovo Z Series
+            9.  ThinkPad 11e
+            10.  ThinkPad E
+            11.  ThinkPad Helix
+            12.  ThinkPad L
+            13.  ThinkPad T
+            14.  ThinkPad X
+            15.  ThinkPad Yoga
+            16.  ThinkPad P
+            17.  Ideapad Y700
+            18.  Ideapad 100
+            19.  Ideapad 300
+            20.  Ideapad 500
+            21.  Ideapad 700
+            22.  Chromebook
     *   1.  Tablets
             1.  View all tablets
             2.  Lenovo A Series
@@ -272,28 +281,25 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
             8.  ThinkPad Yoga
     *   1.  Desktops
             1.  View all desktops
-            2.  A Series All-in-Ones
-            3.  B Series All-in-Ones
-            4.  C Series All-in-Ones
-            5.  H Series Towers
-            6.  Horizon Table PCs
-            7.  K Series Towers
-            8.  M Series All-in-Ones
-            9.  M Series SFF
-            10.  M Series Thin Clients
-            11.  M Series Tiny
-            12.  M Series Towers
-            13.  Q Series Minis
-            14.  Erazer X Series
-            15.  Yoga Home 900
-            16.  Ideacentre 700
-            17.  Ideacentre AIO 700
-            18.  Ideacentre 300
-            19.  Ideacentre AIO 300
-            20.  Ideacentre 200
-            21.  Stick 300
-            22.  Y700
-            23.  Y900
+            2.  C Series All-in-Ones
+            3.  H Series Towers
+            4.  Horizon Table PCs
+            5.  K Series Towers
+            6.  M Series All-in-Ones
+            7.  M Series SFF
+            8.  M Series Tiny
+            9.  M Series Towers
+            10.  Q Series Minis
+            11.  Erazer X Series
+            12.  Yoga Home 900
+            13.  Ideacentre 700
+            14.  Ideacentre AIO 700
+            15.  Ideacentre 300
+            16.  Ideacentre AIO 300
+            17.  Ideacentre 200
+            18.  Stick 300
+            19.  Y700
+            20.  Y900
     *   Workstations
     *   Servers, Storage, &. Networking
     *   Accessories &. Software
@@ -302,11 +308,9 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Lenovo Holiday Deals
     *   Lenovo Preferred Card
     *   Trade-In Program
-    *   Lenovo Gift Cards
     *   Lenovo Photo Service
     *   Gaming Computers
     *   Yoga Computers
-    *   Discover Lenovo
     *   New Product Showcase
     *   New Product Announcements
     *   Outlet
@@ -330,18 +334,14 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Affiliate Program
     *   Product Compliance
     *   Training
-    *   Blogs
     *   Affinity Discount Program
     *   Customer Feedback
-    *   Forums
-    *   Help Me Find a PC
     *   Reset my Homepage
     *   Community
 *   Customer Support
-    *   Contact Us
     *   Shopping Help
     *   FAQs
     *   Order Status
     *   Support
 
-trusteValidation 2016 Lenovo. All rights reserved. Email this pagePrint this pagePrivacySite MapTerms of UseExternal Submission Policy
+trusteValidation 2016 Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions
