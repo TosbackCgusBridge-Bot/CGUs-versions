@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15142518195
+true true L15221959931
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Fri Aug 05 11:15:47 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Sat Aug 06 11:21:49 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,25 +52,33 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Back to School Sale Starts Now! | In Store and Online | Ends August 6 Shop Back to School Sale View Store Ad Spend $50 and Get $20 Off\* Spend $25 and Get $10 Off\*
+Back to School Sale Last Day! | In Store and Online | Ends August 6 Shop Back to School Sale View Store AdSpend $25 and Get $10 Off\*
 
 In Store and Online | Ends 8/6 | Code: GOSHOP12
 
 \*exclusions and details
 
-Get Coupon Night and Day Doorbusters
+Get CouponDoorbusters
 
-Friday 3PM CDT through Saturday 1PM CDT
+Ends Saturday 1PM CDT
 
-Shop Doorbusters Shop Women Shop Men Shop Juniors Shop Guys Shop Kids Shop Shoes Shop Jewelry Shop Handbags Shop Bedding Shop Curtains and Drapes Arizona Jean Co. 40 to 50% Off Arizona Denim
+Shop Doorbusters Penney Saturday Arizona Jean Co.
 
-Select styles, reg. $24-$50
+In Store and Online Today Only
 
-Shop Juniors Shop Guys Shop Girls Shop Boys       50% Off Xersion Activewear
+Shop Girls Shop Boys Shop Juniors Shop GuysSaturday Only Deal! $13 Boys' and Girls' Arizona Denim
+
+Select styles, reg. $24-$30
+
+Saturday Only Deal! $17 Juniors' and Guys' Arizona Denim
+
+Select styles, reg. $36-$50
+
+50% Off Xersion Activewear
 
 Select styles, 6.99-20.99, reg. $14-$35
 
-Shop Girls Shop Boys Shop Women     Buy 1 Get 1 For .01\* Men's Xersion Activewear
+Shop Girls Shop Boys Shop Women    Buy 1 Get 1 For .01\* Men's Xersion Activewear
 
 Select styles, reg. $14-$50
 
@@ -82,11 +90,11 @@ Shop Men
 
 Nike excluded from coupon
 
-Shop Men Shop Women Shop Kids   Home Sale 30 to 50% Off
+Shop Men Shop Women Shop Kids   Home Flash Sale Extra 30% Off\* $100 or More Or, Extra 25% Off\* Select Home Already 30-50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds &. Shades
 
-Select styles
+Today Online Only | Code: TOSAVE27
 
-Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   Heading off to college?
+Get Details Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses Heading off to college?
 
 Here's a printable checklist for all you need.
 
