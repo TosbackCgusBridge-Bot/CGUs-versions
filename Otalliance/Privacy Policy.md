@@ -92,10 +92,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Fri, Aug 5, 2016 RSA 2017 Call for Speakers - Deadline 8/5
-
-The call is open now for 2017 RSA sessions! OTA has been selected as an Association Sponsor again and will be presenting, as well as hosting a member meeting/meet-up. Download the Submission Guide template here and join us. This year's theme is The Power of Opportunity.
-
 Wed, Aug 10, 2016 Native Advertising Assessment - Trust vs Failure
 
 Native advertising - produced outside the publisher's editorial review, but presented as similar to editorial - is increasing. Done well, native can provide compelling experiences for users while driving publisher revenues in light of current marketplace pressures. It can also bring confusion and user frustration from widly differing practices and lack of standards. Join us for OTA's assessment of the native landscape with recommendations for disclosure terminology, visibility and delineation to improve the consumer experience and increase trust.
@@ -107,6 +103,10 @@ With alarming frequency, ransomware hackers are sneaking into consumer and busin
 Thu, Sep 8, 2016 2016 Business Law Section Annual Meeting
 
 Join over 1,600 business law professionals and grow your international network of business law thought leaders and colleagues. OTA Executive Director Craig Spiezle will be reviewing cyber issues and considerations as it applies to IoT, breach response and vulnerability disclosures. redefining responsible and defendable security and privacy practices.
+
+Tue, Sep 13, 2016 Privacy. Security. Risk. 2016
+
+Innovative since Day 1, P.S.R. brings together two related fields—privacy and security—helping you see beyond your role in order to excel in your role. Because perspective is everything. Delivering the most thought-provoking speakers, sessions led by foremost experts and invaluable opportunities to connect and share ideas, P.S.R. gives you a world of new perspective. Don’t miss it. Training and Workshops September 13-14. Conference September 15-16.
 
 More >>.
 
