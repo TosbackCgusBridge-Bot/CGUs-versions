@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15221959931
+true true C15156540210
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Sat Aug 06 11:21:49 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Sun Aug 07 11:15:32 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,53 +52,69 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Back to School Sale Last Day! | In Store and Online | Ends August 6 Shop Back to School Sale View Store AdSpend $25 and Get $10 Off\*
+Customer Appreciation Sale
 
-In Store and Online | Ends 8/6 | Code: GOSHOP12
+In Store and Online | August 7-9 | Code: FRIENDS4
 
-\*exclusions and details
+Extra 30% Off\* With Your JCPenney Credit Card Or, Extra 25% Off\* With Any Other Method of Payment Or, Extra 15% Off\* Select Watches, Optical, Portrait &. Electrics/Electronics Or, Extra 10% Off\* Select Major Appliances
 
-Get CouponDoorbusters
+\*Credit offer subject to credit approval. Some exclusions apply.
 
-Ends Saturday 1PM CDT
+Get Details: Get Coupon: Shop Sale: 6 Days Of Summer Deals Online Only -- Ends at Midnight!
 
-Shop Doorbusters Penney Saturday Arizona Jean Co.
+10 New Deals Every Day | They Won't Last Long!
 
-In Store and Online Today Only
+1 Day Only! 3.99 Juniors' Solid Tees or Camis
 
-Shop Girls Shop Boys Shop Juniors Shop GuysSaturday Only Deal! $13 Boys' and Girls' Arizona Denim
+Select styles, reg. $14
 
-Select styles, reg. $24-$30
+Shop Juniors' Solid Tees or Camis 1 Day Only! 4.99 Guys' Graphic Tees
 
-Saturday Only Deal! $17 Juniors' and Guys' Arizona Denim
+Select styles, reg. $12
 
-Select styles, reg. $36-$50
+Shop Guys' Graphic Tees 1 Day Only! $6 Boys' Xersion Shorts
 
-50% Off Xersion Activewear
+Select styles, reg. $16
 
-Select styles, 6.99-20.99, reg. $14-$35
+Shop Boys' Xersion Shorts 1 Day Only! 39.99 Plus-Size Dresses
 
-Shop Girls Shop Boys Shop Women    Buy 1 Get 1 For .01\* Men's Xersion Activewear
+Select styles, reg. $72
 
-Select styles, reg. $14-$50
+Shop Plus-Size Dresses 1 Day Only! 11.99 The Foundry Supply Co. Big &. Tall Polos
 
-Shop Men
+Select styles, reg. $30
 
-\*Buy one item at regular price, get a second item of equal or lesser value for one cent while supplies last.
+Shop Big &. Tall Polos 1 Day Only! $9 Girls' Xersion Long-Sleeve Top or Skinny Yoga Pants
 
-10 to 20% Off Nike Shoes for the Family Select styles, msrp $44-$85
+Select styles, orig. $20
 
-Nike excluded from coupon
+Shop Girls' Xersion 1 Day Only! 19.99 Juniors' Arizona Destructed Denim
 
-Shop Men Shop Women Shop Kids   Home Flash Sale Extra 30% Off\* $100 or More Or, Extra 25% Off\* Select Home Already 30-50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds &. Shades
+Select styles, reg. $56
 
-Today Online Only | Code: TOSAVE27
+Shop Juniors' Arizona Denim 1 Day Only! $12 ea. Arizona Long Pendants
 
-Get Details Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses Heading off to college?
+Select styles, reg. $20 ea.
 
-Here's a printable checklist for all you need.
+Shop Arizona Pendants 1 Day Only! 60% Off Cotton Classics Bedding
 
-Print Checklist Sephora Shop Sunscreen: JCPenney | optical Kids' Glasses $39.99, one pair Kids' Glasses $69.99, two pairs
+Select styles, reg. $30-$180
+
+Shop Cotton Classics Bedding Now Through August 13! 39.99 Nike Downshifter Running Shoes for Him &. Her
+
+Select styles, Nike excluded from coupon offer, MSRP $60
+
+Shop Men's Nike Shop Women's Nike Nike Sale 25% Off Nike for the Family
+
+Select styles, Nike excluded from coupon
+
+10.50-63.75, MSRP $14-$85
+
+Shop Nike Back to School so you. so worth it. Shop Back to School  Dorm Life Shop All Dorm   Home Sale 30 to 50% Off
+
+Select styles
+
+Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   Sephora Shop Travel Fragrances: JCPenney | optical Kids' Glasses $39.99, one pair Kids' Glasses $69.99, two pairs
 
 Ends September 30
 
@@ -106,9 +122,9 @@ Get Details: Red Zone Clearance 50 to 70% Off Clearance
 
 In Store and Online
 
-Shop Clearance Now: JCP Salon Stock Up On Your Favorite Liter Duos
+Shop Clearance Now: JCP Salon Save on Chi Flat Irons
 
-from Matrix, Big Sexy Hair and Paul Mitchell
+Select styles
 
 Shop Now:
 
