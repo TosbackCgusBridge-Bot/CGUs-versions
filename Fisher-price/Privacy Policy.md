@@ -104,7 +104,7 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
 *   OUR STORY Safety Earning your trust Research Learning from the experts Heritage How we’ve grown Loved &. Trusted Thanks, Mom! See all >.
 *   STORE
 
-Subscribe to our newsletter! >. SIGN UP STAY IN TOUCH WITH US HERE: PRODUCTS
+STAY IN TOUCH WITH US HERE: PRODUCTS
 
 *   Baby Gear
 *   Baby Toys
