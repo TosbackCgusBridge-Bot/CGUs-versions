@@ -70,8 +70,6 @@ For Members
 *   About Us
 *   News &amp Analysis
 
-*   Feedback
-
 Employers &. Organizations Support &. Resources
 
 *   Working with Aetna
@@ -114,8 +112,6 @@ Helpful Links
 *   For Producers
 *   About Us
 *   News &amp Analysis
-
-*   Feedback
 
 Health Care Professionals Working with Us  
  
@@ -166,8 +162,6 @@ Helpful Links
 *   About Us
 *   News &amp Analysis
 
-*   Feedback
-
 Producers Working with Us
 
 *   Become Appointed with Aetna
@@ -208,8 +202,6 @@ Helpful Links
 *   For Health Care Professionals
 *   About Us
 *   News &. Analysis
-
-*   Feedback
 
 About Us Who We Are
 
@@ -254,8 +246,6 @@ Investors
 *   For Producers
 *   News &amp Analysis
 
-*   Feedback
-
 *   For Individuals &. Families
 *   For Employers &. Organizations
 *   For Health Care Professionals
@@ -272,7 +262,7 @@ Web &. Mobile Privacy Statement
 
 *   Aetna
 *   Legal Notices
-*   Privacy
+*   Privacy Center
 *   Web &. Mobile Privacy Statement
 
 *   Print
@@ -361,7 +351,7 @@ Back to top
 
 **Behavioral Advertising**
 
-Aetna does not serve third-party advertising on its Applications. However, we do engage online advertising service providers to serve ads on other sites, based on web pages you may have visited or your search engine activity. Currently, our Applications do not respond to “Do Not Track” signals from browsers.
+Aetna does not serve third-party advertising on its Applications. However, we do engage online advertising service providers to serve ads on other sites, based on web pages you may have visited or your search engine activity.  See our Interest-Based Ads Policy for more information and to opt out of interest-based advertisements.  Currently, our Applications do not respond to “Do Not Track” signals from browsers.
 
 Back to top
 
@@ -389,26 +379,26 @@ Aetna may change this Privacy Statement from time to time. when updates are made
 
 Back to top
 
-Privacy statement update: 11/6/15
+Privacy statement update: 7/28/16
 
 *   español
 
 *   Glossary
-*   Privacy Statement
 *   Health Care Reform
+*   Careers
 
 *   Site Map
 *   Terms of Use
-*   Careers
+*   Investor Info
 
 *   FAQs
 *   Program Provisions
-*   Investor Info
+*   Interest-Based Ads Policy
 
 *   Legal Notices
 *   Plan Disclosures
 
-*   Privacy Information
+*   Privacy Center
 *   State Directory
 
 Copyright © 2001-\[current-year\] Aetna Inc. JavaScript is required
@@ -420,7 +410,7 @@ You are now leaving the Aetna website
 
 Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy, or privacy practices of linked sites, or for products or services described on these sites.
 
-Continue >. Member Log In
+Continue >. Member Log In Help This question helps us get you to the correct log-in screen. Answer YES if you get Aetna coverage through your job or your spouse’s job, or if you have an Aetna Medicare plan.
 
 Do you have Aetna insurance through an employer or are you a Medicare member? Yes No
 
