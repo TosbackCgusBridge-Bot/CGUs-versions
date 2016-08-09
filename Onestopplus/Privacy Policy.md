@@ -50,7 +50,7 @@ The Safe Harbor program is an international data privacy program co-sponsored by
 
   Who is FULLBEAUTY Brands?
 
-FULLBEAUTY Brands is a dynamic, web-driven home-shopping leader with numerous successful brands and specialized e-commerce sites in its portfolio: fullbeauty®, Woman Within® (womanwithin.com), Jessica London® (jessicalondon.com), Roaman's® (roamans.com), KingSize® (kingsizedirect.com), BrylaneHome® (brylanehome.com) and Bargain Catalog Outlet - BCO® (bcoutlet.com). FULLBEAUTY Brands offers a wide range of value and quality driven merchandise categories, including men's and women's plus-size apparel, and home and lifestyle products.
+FULLBEAUTY Brands is a dynamic, web-driven home-shopping leader with numerous successful brands and specialized e-commerce sites in its portfolio: fullbeauty®, Woman Within® (womanwithin.com), Jessica London® (jessicalondon.com), Roaman's® (roamans.com), KingSize® (kingsizedirect.com), BrylaneHome® (brylanehome.com), Ellos® (ellos.us), and Bargain Catalog Outlet - BCO® (bcoutlet.com). FULLBEAUTY Brands offers a wide range of value and quality driven merchandise categories, including men's and women's plus-size apparel, and home and lifestyle products.
 
   What Information Do We Collect?
 
@@ -174,7 +174,15 @@ N/A Woman Within Please visit the My Account section on www.womanwithin.com Woma
 El Paso, TX 79912 (800) 677-0216  
   
 TDD Hearing Impaired:  
-(800) 456-7161 (800) 456-9838   How Can I Opt Out of Receiving Further Communications?  
+(800) 456-7161 (800) 456-9838 Ellos Please visit  
+My Account on  
+www.ellos.us Ellos®  
+c/o FULLBEAUTY Brands  
+500 S Mesa Hills Dr  
+El Paso, TX 79912 (800) 405-3650  
+  
+TDD Hearing Impaired:  
+(800) 456-0337 N/A   How Can I Opt Out of Receiving Further Communications?  
   
   
 
@@ -489,6 +497,12 @@ Customer Service Email Link Jessica London - Click here 915-225-4973 Jessica Lon
   
   
 Customer Service Email Link KingSize - Click here 915-225-4974 KingSize - Local Toll 888-579-6634 KingSize - Canada 00-800-3388-1212 KingSize - UK 0011-800-3399-1010 KingSize - Australia
+
+**Ellos**
+
+  
+  
+Customer Service Email Link Ellos - Click here 915-225-4975 Ellos - Local Toll 915-225-4975 Ellos - Canada 0808-234-2981 Ellos - UK 0011-800-892-449 Ellos - Australia
 
 **Sizes**  
   
