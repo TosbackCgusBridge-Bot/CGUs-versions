@@ -243,6 +243,18 @@ If you use a mobile device to access pages of the Sites optimized for viewing vi
 
 You agree that you are solely responsible for all message and data charges that apply to use of your mobile device to access the Sites or use of a mobile application. All such charges are billed by and payable to your mobile service provider. Please contact your participating mobile service provider for pricing plans, participation status and details. You understand that wireless through Wi-Fi or a participating mobile service provider may not be available in all areas at all times and may be affected by product, software, coverage or other service changes made by your mobile service provider or otherwise. Additional terms and conditions may apply to your use of a mobile application, based on the type of mobile device on which you install and use the mobile application.
 
+Wayfair Text Notifications: Terms &. Conditions
+
+By subscribing to Wayfair Text Notifications, you will receive notifications for shipment and delivery status for your packages and assistance such as re-setting passwords and mobile application download via text message. SMS frequency is based on your shipping and order activity on Wayfair LLC affiliated brands: Wayfair.com, Joss &. Main, DwellStudio, AllModern, Birch Lane and Wayfair Supply. Text messages will be sent between 7 AM to 11 PM based off the billing ZIP code time-zone after you complete the sign up process.
+
+*   After submitting your phone number, a confirmation message will be sent to your mobile device from 65399. You must reply YES to complete subscription.
+*   You may opt out of Wayfair Text Notifications at any time by texting STOP to 65399. If you cancel your subscription, a final text message will be sent confirming that you have unsubscribed. No additional text messages will be sent unless you re-activate your subscription. You may contact service@wayfair.com for additional assistance.
+*   • For assistance, text HELP to 65399. We will respond with instructions as well as how to unsubscribe.
+
+Standard message and data rates may apply, including additional charges when roaming. Please contact your wireless carrier with any questions regarding SMS pricing details.
+
+Supported carriers: AT&T, Boost Mobile, T-Mobile, Metro PCS, Verizon Wireless, Sprint, U.S. Cellular, NTelos, Cricket &. Virgin Mobile. T-Mobile is not liable for delayed or undelivered messages. View Privacy Policy.
+
 Notice to California Residents
 
 California Proposition 65 requires that special warnings be provided when products contain chemicals known by the State of California to cause cancer, birth defects, or other reproductive harm if the use of those products may cause exposure to those chemicals above specific limits. These warnings relate to some but not all tools, lead crystal glassware, ceramic tableware, tiffany style lamps, and electrical cords. Please call us prior to ordering if you have any questions regarding the safety of these products.
