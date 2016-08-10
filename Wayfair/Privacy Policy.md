@@ -249,7 +249,7 @@ By subscribing to Wayfair Text Notifications, you will receive notifications for
 
 *   After submitting your phone number, a confirmation message will be sent to your mobile device from 65399. You must reply YES to complete subscription.
 *   You may opt out of Wayfair Text Notifications at any time by texting STOP to 65399. If you cancel your subscription, a final text message will be sent confirming that you have unsubscribed. No additional text messages will be sent unless you re-activate your subscription. You may contact service@wayfair.com for additional assistance.
-*   • For assistance, text HELP to 65399. We will respond with instructions as well as how to unsubscribe.
+*   For assistance, text HELP to 65399. We will respond with instructions as well as how to unsubscribe.
 
 Standard message and data rates may apply, including additional charges when roaming. Please contact your wireless carrier with any questions regarding SMS pricing details.
 
