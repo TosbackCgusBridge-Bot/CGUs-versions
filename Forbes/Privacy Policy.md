@@ -1,6 +1,6 @@
 Log in with your social account: Or, you can log in or sign up using Forbes.
 
-*   New Posts +2 posts this hour
+*   New Posts +1 posts this hour
 *   Most Popular Facebook And Guns
 *   Lists Highest-Paid Country Acts
 *   Video Inside Tesla
