@@ -62,7 +62,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Reputational and operational risks
         *   USA Patriot Act certification
     
-    *   Cleaner water saves lives HSBC is helping people in need to access improved sanitation.
+    *   Valuing diversity Birgit Neu on the importance of diversity and inclusion at HSBC.
 *   Investor relations
     
     *   Financial and regulatory reports
@@ -111,7 +111,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Culture
         *   Other sponsorships
     
-    *   Age before wealth Some major emerging-world countries will grow old before they get rich.
+    *   No quick fix HSBC's Janet Henry examines the global economic outlook.
 *   Careers
     
     *   Key hiring areas
