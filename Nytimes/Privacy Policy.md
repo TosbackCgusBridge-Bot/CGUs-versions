@@ -248,4 +248,4 @@ Search Help
 *   Contact Us
 *   Site Feedback
 
-campaign: nyt2014\_edu\_propensity\_cookie\_dropper -- 256873, creative: nyt2015\_edu\_personalized\_isEDU\_cookie\_dropper -- 401071, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Inv1
+Campaign ID: 283468 | Creative: nyt2016\_personalization\_B2B\_cookieset\_v2 -- 414665 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Inv1
