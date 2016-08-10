@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15231259582
+true true L15236757832
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Mon Aug 08 10:55:45 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Tue Aug 09 11:12:01 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -60,47 +60,47 @@ Extra 30% Off\* With Your JCPenney Credit Card Or, Extra 25% Off\* With Any Othe
 
 \*Credit offer subject to credit approval. Some exclusions apply.
 
-Get Details: Get Coupon: Shop Sale: 5 Days Of Summer Deals Today Online Only -- Ends at Midnight!
+Get Details: Get Coupon: Shop Sale: 4 Days Of Summer Deals Today Online Only -- Ends at Midnight!
 
 10 New Deals Every Day | They Won't Last Long!
 
-1 Day Only! 5.99 Juniors' Leggings
+1 Day Only! 5.99 Juniors' Graphic Tees
 
 Select styles, reg. $20
 
-Shop Juniors' Leggings 1 Day Only! 19.99 Guys' Arizona Denim
+Shop Juniors' Graphic Tees 1 Day Only! 17.99 Guys' Arizona Hoodie
 
-Select styles, reg. $42
+Select styles, reg. $44
 
-Shop Guys' Arizona Denim 1 Day Only! $5 Girls' Total Girl &. Arizona Leggings
-
-Select styles, reg. $16
-
-Shop Girls' Leggings 1 Day Only! 34.99 Dresses
-
-Select styles, reg. $72
-
-Shop Dresses 1 Day Only! 5.99 All Men's St. John's Bay Solid Tees
+Shop Guys' Arizona Hoodie 1 Day Only! $7 Total Girl Tunics
 
 Select styles, reg. $20
 
-Shop Men's St. John's Bay 1 Day Only! $12 Kids' Izod Uniform Shorts
+Shop Total Girl Tunics 1 Day Only! 9.99 St. John's Bay Bootcut or Straight-Leg Jeans for Her
 
-Select styles, orig. $26-$30
+Select styles, reg. $44
 
-Shop Kids' Izod Uniform Shorts Shop Boys' Izod Uniform Shorts Shop Girls' Izod Uniform Shorts   1 Day Only! 9.99 A.N.A Ombre Maxi Skirt
+Shop St. John's Bay Jeans for Her 1 Day Only! 5.99 Men's Xersion xtreme Cotton Tees
 
-Select styles, orig. $36
+Select styles, reg. $14
 
-Shop A.N.A Skirts 1 Day Only! 14.99 Ambrielle Cotton Bras
+Shop Men's Xersion 1 Day Only! $9 Girls' Preschool Arizona Bermuda Shorts
 
-Select styles, reg. $30
+Select styles, reg. $24
 
-Shop Ambrielle 1 Day Only! 17.99 Xersion Shoes for Kids
+Shop Girls' Preschool Arizona 1 Day Only! $12 ea. Arizona Long Pendants
+
+Select styles, reg. $20
+
+Shop Arizona Pendants 1 Day Only! 39.99 New Balance or Asics
+
+Select styles, excluded from coupon
+
+Shop New Balance or Asics 1 Day Only! 16.99 Fuel Backpacks
 
 Select styles
 
-Shop Xersion Shoes for Kids Now Through August 13! 39.99 Nike Downshifter Running Shoes for Him &. Her
+Shop Backpacks Now Through August 13! 39.99 Nike Downshifter Running Shoes for Him &. Her
 
 Select styles, Nike excluded from coupon offer, MSRP $60
 
