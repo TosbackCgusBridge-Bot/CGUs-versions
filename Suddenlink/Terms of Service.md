@@ -215,7 +215,7 @@ You ("You" or "Customer") understand and agree that Sections 1 through 26 of thi
     3.  Reserved Telephone Numbers. If Customer is receiving a new telephone number from Suddenlink, Suddenlink will reserve telephone numbers for Customer's new telephone service. Reserved telephone numbers may change prior to the time of installation of service. Customers shall not use, publish or advertise reserved numbers until Phone Service has been activated. The Customer has no property right in the telephone number associated with the Phone Service and Customer is solely responsible for any expense or loss resulting from Customer's use, publication or dissemination of reserved numbers.
     4.  Directory and Non-Published Listings. Suddenlink will make reasonable efforts to accurately publish telephone customer list information, and prevent disclosure and publication of requested non-published listing information. IN NO EVENT SHALL THE SUDDENLINK PARTIES’ LIABILITY FOR DAMAGES ARISING FROM ERRORS OR OMISSIONS IN THE MAKING UP OR PRINTING OF DIRECTORIES, FOR ERROR OR OMISSION ON INTERCEPT SERVICE, OR FOR ACCEPTING OR PUBLISHING LISTINGS AS PRESENTED BY CUSTOMER, EXCEED THE AMOUNT THAT ACTUALLY PAID TO SUDDENLINK TO LIST, PUBLISH, NOT LIST, OR NOT PUBLISH THE INFORMATION FOR THE AFFECTED PERIOD.
 
-stream demo × Questions? Call 844.790.7475 My Suddenlink Chat Contact Us FAQ
+stream demo × Questions? Call 844.790.7475 My Suddenlink Contact Us FAQ
 
 *   About Altice USA
     *   Leadership
