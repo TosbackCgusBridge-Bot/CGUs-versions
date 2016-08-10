@@ -127,9 +127,9 @@ What is Saks Text Alerts?
 
 We’ll text you when something special is happening at Saks Fifth Avenue. Now sales, events &. insider access are closer—and more immediate—than ever. And don’t worry...you can always opt out (no hard feelings).
 
-By opting in to Saks Text Alerts via online Web Form or Keyword, you agree to receive up to 3 auto-dialed marketing text messages per week delivered to the phone number provided at opt-in. Consent not required to purchase goods or services. Message and data rates may apply.
+By opting in to Saks Text Alerts via online Web Form or Keyword, you agree to receive up to 5 auto-dialed marketing text messages per week delivered to the phone number provided at opt-in. Consent not required to purchase goods or services. Message and data rates may apply.
 
-**Shortcode:** 75283 (S5AVE) **Frequency:** Up to 3 messages per week. Msg &. Data rates may apply **Basic Commands:**  
+**Shortcode:** 75283 (S5AVE) **Frequency:** Up to 5 messages per week. Msg &. Data rates may apply **Basic Commands:**  
 Text HELP to 75283 for Info  
 Text STOP to 75283 to opt-out
 
@@ -307,9 +307,9 @@ What is Saks Text Alerts?
 
 We’ll text you when something special is happening at Saks Fifth Avenue. Now sales, events &. insider access are closer—and more immediate—than ever. And don’t worry...you can always opt out (no hard feelings).
 
-By opting in to Saks Text Alerts via online Web Form or Keyword, you agree to receive up to 3 auto-dialed marketing text messages per week delivered to the phone number provided at opt-in. Consent not required to purchase goods or services. Message and data rates may apply.
+By opting in to Saks Text Alerts via online Web Form or Keyword, you agree to receive up to 5 auto-dialed marketing text messages per week delivered to the phone number provided at opt-in. Consent not required to purchase goods or services. Message and data rates may apply.
 
-**Shortcode:** 75283 (S5AVE) **Frequency:** Up to 3 messages per week. Msg &. Data rates may apply **Basic Commands:**  
+**Shortcode:** 75283 (S5AVE) **Frequency:** Up to 5 messages per week. Msg &. Data rates may apply **Basic Commands:**  
 Text HELP to 75283 for Info  
 Text STOP to 75283 to opt-out
 
