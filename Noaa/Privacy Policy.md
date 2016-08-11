@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheries International team of scientists make a whale of a discovery Weather Practice heat safety: Stay safe this summer National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Podcast: Bringing wetlands to market Weather Practice heat safety: Stay safe this summer National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheri
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms July warmer than average, year to date 3rd warmest for Lower 48 Record heat hits parts of U.S. South, East and Alaska AROUND NOAA // International report confirms Earth is hot and getting hotter Mass die-off of corals and other invertebrates underway in Gulf of Mexico sanctuary 3 things to like about DSCOVR, your new space weather satellite
+Enter Search Terms July warmer than average, year to date 3rd warmest for Lower 48 Record heat hits parts of South, East and Alaska AROUND NOAA // International report confirms Earth is hot and getting hotter Mass die-off of corals and other invertebrates underway in Gulf of Mexico sanctuary 3 things to like about DSCOVR, your new space weather satellite
 
 *   About our agency
 *   News and features
