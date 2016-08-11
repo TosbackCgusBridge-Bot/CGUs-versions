@@ -34,8 +34,9 @@ Gartner does not market to children and does not knowingly collect personal info
 **Information Sharing and Disclosure**  
 Gartner does not sell, share or rent personal information about you collected on Company Web sites outside the Gartner family of companies.
 
-**How to Unsubscribe**  
-If you no longer want to receive e-mail communications from Gartner, you may unsubscribe by clicking the "Unsubscribe" button at the top or bottom of each e-mail Gartner sends, or by otherwise following the instructions to "opt out" appearing on that e-mail.
+**How to Unsubscribe**
+
+If you no longer want to receive marketing communications from Gartner, you may unsubscribe by clicking the “Manage My Preferences” or "Unsubscribe" link within the Gartner electronic communications, or by otherwise following the instructions to "opt out" appearing on that communication.
 
 **Registration**  
 In order to use many features of Gartner Web sites, you may be asked to complete a registration form. During registration, you are required to provide contact information which is used to determine whether you are a subscriber or the authorized employee of a subscriber.
@@ -90,7 +91,7 @@ We will notify you about significant changes to our Privacy Policy by placing a 
 **Contact Gartner**  
 If you would like to be taken off our marketing lists, please send an e-mail to privacy@gartner.com. For additional questions, please contact the Gartner Privacy Officer nearest you.
 
-Last Updated: March, 2016
+Last Updated: August, 2016
 
 *   About
 *   |
