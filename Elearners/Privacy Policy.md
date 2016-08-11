@@ -11,7 +11,6 @@ Skip to main content
     *   Public Affairs &. Social Sciences
     *   Religious Studies
     *   Technology
-    *   Vocational Training
 *   Online Certificates
 *   Online Colleges
 *   Free Career Assessment
