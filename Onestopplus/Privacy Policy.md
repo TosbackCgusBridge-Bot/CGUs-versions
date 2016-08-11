@@ -122,67 +122,70 @@ How to Access and Correct Information Collected?
 
 You can update or correct your name, address, telephone number or email address anytime by visiting our websites and clicking on the My Account or Login link at the top of our websites and registering/logging in with your username/email address and password. You can also call, write, fax or email us to access or correct any of this information. See the table below to update your information with any or all of our brands.
 
-Brand Edit Information Online Postal Address Customer Service Number Fax Number Bargain Catalog Outlet Please visit  
+How to access and correct your information Brand Edit Information Online Postal Address Customer Service Number Fax Number Bargain Catalog Outlet Please visit  
 My Account on  
-www.bcoutlet.com BCO  
-500 S Mesa Hills Dr  
-El Paso, TX 79912 (888) 289-2815  
+bcoutlet.com BCO  
+PO Box 12901  
+El Paso, TX 79913 (888) 289-2815  
   
 TDD Hearing Impaired:  
-(888) 355-3096 (888) 355-3098 BrylaneHome Please visit  
+(888) 355-3096 (888) 355-3098 BrylaneHome Please visit  
 My Account on  
-www.brylanehome.com BrylaneHome  
-500 S Mesa Hills Dr  
-El Paso, TX 79912 (800) 677-0339  
+brylanehome.com BrylaneHome  
+PO Box 12901  
+El Paso, TX 79913 (800) 677-0339  
   
 TDD Hearing Impaired:  
-(800) 528-5149 (800) 528-5152 Jessica London Please visit  
+(800) 528-5149 (800) 528-5152 Jessica London Please visit  
 My Account on  
-www.jessicalondon.com Jessica London  
-500 S Mesa Hills Dr  
-El Paso, TX 79912 (800) 441-1362  
+jessicalondon.com Jessica London  
+PO Box 12901  
+El Paso, TX 79913 (800) 441-1362  
   
 TDD Hearing Impaired:  
-(800) 978-8798 (800) 448-5767 KingSize Please visit  
+(800) 978-8798 (800) 448-5767 KingSize Please visit  
 My Account on  
-www.kingsizedirect.com KingSize  
-500 S Mesa Hills Dr  
-El Paso, TX 79912 (800) 677-0249  
+kingsizedirect.com KingSize  
+PO Box 12901  
+El Paso, TX 79913 (800) 677-0249  
   
 TDD Hearing Impaired:  
-(800) 682-8095 (800) 682-8109 fullbeauty Please visit  
+(800) 682-8095 (800) 682-8109 fullbeauty Please visit  
 My Account on  
-www.fullbeauty.com fullbeauty  
-500 S Mesa Hills Dr  
-El Paso, TX 79912 (800) 400-5527  
+fullbeauty.com fullbeauty  
+PO Box 12901  
+El Paso, TX 79913 (800) 400-5527  
+  
 TDD Hearing Impaired:  
 (800) 456-7161  
-(800) 456-9838 Roaman’s Please visit  
+(800) 456-9838 Roaman's Please visit  
 My Account on  
-www.roamans.com Roaman’s  
-500 S Mesa Hills Dr  
-El Paso, TX 79912 (800) 677-0229  
+roamans.com Roaman's  
+PO Box 12901  
+El Paso, TX 79913 (800) 677-0229  
   
 TDD Hearing Impaired:  
-(800) 274-0260 (800) 274-3102 Swimsuitsforall Please visit  
+(800) 274-0260 (800) 274-3102 Woman Within Please visit  
 My Account on  
-www.swimsuitsforall.com Swimsuitsforall  
+womanwithin.com Woman Within,  
+PO Box 12901  
+El Paso, TX 79913 (800) 677-0216  
+  
+TDD Hearing Impaired:  
+(800) 456-7161 (800) 456-9838 swimsuitsforall Please visit  
+My Account on  
+swimsuitsforall.com swimsuitsforall  
 10300 Sanden Drive  
-Suite 100 Dallas, TX 75238 (888) 241-SWIM  
-N/A Woman Within Please visit the My Account section on www.womanwithin.com Woman Within,  
-500 S Mesa Hills Dr  
-El Paso, TX 79912 (800) 677-0216  
-  
-TDD Hearing Impaired:  
-(800) 456-7161 (800) 456-9838 Ellos Please visit  
+Suite 100  
+Dallas, TX 75238 (888) 241-SWIM NA Ellos Please visit  
 My Account on  
-www.ellos.us Ellos®  
+ellos.us Ellos  
 c/o FULLBEAUTY Brands  
 500 S Mesa Hills Dr  
 El Paso, TX 79912 (800) 405-3650  
   
 TDD Hearing Impaired:  
-(800) 456-0337 N/A   How Can I Opt Out of Receiving Further Communications?  
+(800) 456-0337 NA   How Can I Opt Out of Receiving Further Communications?  
   
   
 
