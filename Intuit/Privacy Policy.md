@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15236757832
+true true L15242590378
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Tue Aug 09 11:12:01 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Wed Aug 10 11:15:30 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,51 +52,43 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Customer Appreciation Sale
-
-In Store and Online | August 7-9 | Code: FRIENDS4
-
-Extra 30% Off\* With Your JCPenney Credit Card Or, Extra 25% Off\* With Any Other Method of Payment Or, Extra 15% Off\* Select Watches, Optical, Portrait &. Electrics/Electronics Or, Extra 10% Off\* Select Major Appliances
-
-\*Credit offer subject to credit approval. Some exclusions apply.
-
-Get Details: Get Coupon: Shop Sale: 4 Days Of Summer Deals Today Online Only -- Ends at Midnight!
+3 Days Of Summer Deals Today Online Only -- Ends at Midnight!
 
 10 New Deals Every Day | They Won't Last Long!
 
-1 Day Only! 5.99 Juniors' Graphic Tees
+1 Day Only! 14.99 Juniors' Arizona Plaid Shirts
 
-Select styles, reg. $20
+Select styles, reg. $40
 
-Shop Juniors' Graphic Tees 1 Day Only! 17.99 Guys' Arizona Hoodie
+Shop Juniors' Arizona 1 Day Only! 12.99 Men's St. John's Bay Shorts
+
+Select styles, reg. $40
+
+Shop Men's St. John's Bay Shorts 1 Day Only! $5 Girls' Arizona and Total Girl Graphic Tees
+
+Select styles, reg. $16
+
+Shop Girls' Graphic Tees 1 Day Only! 9.99 Stylus and A.N.A Shorts
+
+Select styles, orig. $30
+
+Shop Shorts 1 Day Only! 17.99 Men's U.S. Polo Assn. Polos
+
+Select styles, reg. $42
+
+Shop U.S. Polo Assn. 1 Day Only! 50% Off OshKosh B'gosh Apparel
+
+Select styles
+
+Shop OshKosh B'gosh 1 Day Only! 19.99 Nioxin System Kits
 
 Select styles, reg. $44
 
-Shop Guys' Arizona Hoodie 1 Day Only! $7 Total Girl Tunics
+Shop Nioxin System Kits 1 Day Only! 5.99 Guys' Arizona Solid Tees
 
-Select styles, reg. $20
+Select styles, reg. $12
 
-Shop Total Girl Tunics 1 Day Only! 9.99 St. John's Bay Bootcut or Straight-Leg Jeans for Her
-
-Select styles, reg. $44
-
-Shop St. John's Bay Jeans for Her 1 Day Only! 5.99 Men's Xersion xtreme Cotton Tees
-
-Select styles, reg. $14
-
-Shop Men's Xersion 1 Day Only! $9 Girls' Preschool Arizona Bermuda Shorts
-
-Select styles, reg. $24
-
-Shop Girls' Preschool Arizona 1 Day Only! $12 ea. Arizona Long Pendants
-
-Select styles, reg. $20
-
-Shop Arizona Pendants 1 Day Only! 39.99 New Balance or Asics
-
-Select styles, excluded from coupon
-
-Shop New Balance or Asics 1 Day Only! 16.99 Fuel Backpacks
+Shop Guys' Arizona 1 Day Only! 16.99 Backpacks
 
 Select styles
 
@@ -110,7 +102,13 @@ Select styles, Nike excluded from coupon
 
 10.50-63.75, MSRP $14-$85
 
-Shop Nike Back to School so you. so worth it. Shop Back to School  Dorm Life Shop All Dorm   Home Sale 30 to 50% Off
+Shop Nike Super Saturday Sale Starts Now! | In Store and Online | Ends August 13 Shop Super Saturday Sale View Store Ad Spend $25 and Get $10 Off\*
+
+In Store and Online | Ends 8/13 | Code: BUYMORE7
+
+\*exclusions apply
+
+Get Coupon Shop Women Shop Kids Shop Men Shop Curtains and Drapes Shop Bedding Shop Jewelry Shop Handbags Shop Shoes Back to School so you. so worth it. Shop Back to School   Dorm Life Shop All Dorm   Home Sale 30 to 50% Off
 
 Select styles
 
