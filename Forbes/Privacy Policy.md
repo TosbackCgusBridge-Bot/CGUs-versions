@@ -1,8 +1,8 @@
 Log in with your social account: Or, you can log in or sign up using Forbes.
 
-*   New Posts +1 posts this hour
+*   New Posts
 *   Most Popular Facebook And Guns
-*   Lists Highest-Paid Country Acts
+*   Lists Tech Billionaires
 *   Video Inside Tesla
 
 Connect | Sign up | Log in The Little Black Book of Billionaire Secrets Forbes.com Privacy Statement
