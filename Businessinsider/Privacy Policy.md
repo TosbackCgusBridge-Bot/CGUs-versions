@@ -1,4 +1,4 @@
-Effective Date: June 26, 2014.
+Effective Date: August 10, 2016.
 
 **1\. Overview**
 
@@ -99,11 +99,11 @@ Business Insider uses commercially reasonable controls to safeguard data against
 
 **10\. Third-Party Privacy and Opt-Out Information**
 
-Business Insider supports Do Not Track (“DNT”). If you enable DNT in your web browser, we stop collecting information about you consistent with the DNT setting. Below are links to the privacy policies of some of our partners and links to advertising opt outs to help you to further manage your online privacy. Google's Doubleclick technology powers the adserving on Business Insider. For more information about Google and DoubleClick’s privacy policy, go to http://www.google.com/policies/technologies/ads. To opt-out from our DMP, please visit this link, http://www.krux.com/krux\_privacy/consumer\_choice/.
+Below are links to the privacy policies of some of our partners and links to advertising opt outs to help you to further manage your online privacy. Google's Doubleclick technology powers the adserving on Business Insider. For more information about Google and DoubleClick’s privacy policy, go to http://www.google.com/policies/technologies/ads. To opt-out from our DMP, please visit this link, http://www.krux.com/krux\_privacy/consumer\_choice/.
 
 Google's Ad Exchange and The Rubicon Project help deliver ads on Business Insider and its mobile apps. If you want to opt-out of receiving targeted ads from Rubicon, visit this link. Opting out does not mean you will not get ads from Rubicon. it means they will not collect non-personal information about you, nor will they serve ads targeted to your interests. For more information about Rubicon's privacy policy, go to http://www.rubiconproject.com/privacy.
 
-Network Advertising Initiative (NAI) is part of the industry’s self-regulatory initiative. If you would like to opt out of third-party partners' non-personal information tracking, visit the NAI opt-out section. Opting out does not mean you will not receive advertising on Business Insider. It ensures that your non-personal information will not be automatically tracked by the sites you have opted out of.
+Network Advertising Initiative (NAI) is part of the industry’s self-regulatory initiative. If you would like to opt out of third-party partners' cookie enabled interest based advertising, visit the NAI opt-out section. Opting out does not mean you will not receive advertising on Business Insider. It ensures that you will not recieve customized ads based on cookie based technology from participating providers.
 
 **11\. Contact Us**
 
