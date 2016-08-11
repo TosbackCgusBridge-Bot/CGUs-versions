@@ -101,12 +101,12 @@ View more results
     Join for free
 *   Hot Games
     
-    *   Klondike - the lost expedition
-    *   Farm Days
-    *   Color Switch
-    *   Summer Sports: Diving
-    *   My Dolphin Show World
-    *   Little Alchemy
+    *   Warbanner
+    *   Slotomania
+    *   Hair Do Design
+    *   Summer Sports
+    *   Sly Hikers
+    *   Car Eats Car
     
     Mobile Apps More
     
