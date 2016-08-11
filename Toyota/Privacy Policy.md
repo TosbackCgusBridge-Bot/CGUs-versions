@@ -60,7 +60,6 @@ Upcoming Vehicles
 
 *   2017 Prius Prime View More Info
 *   2017 Toyota 86 View More Info
-*   2017 Tacoma TRD Pro View More Info
 *   2017 Corolla View More Info
 *   2017 Highlander View More Info
 *   Concept Vehicles View More Info
@@ -1022,7 +1021,7 @@ Help
 
 \[#\] View All Disclosures
 
-*   Manufacturer's Suggested Retail Price, excludes the Delivery, Processing and Handling Fee of $835 for Cars, $900 for Small/Light Trucks (Sienna, RAV4, Highlander Gas, Highlander HV, 4Runner, Tacoma and Venza), $1195 for Large Trucks (Tundra), and $995 for Large SUVs (Sequoia and Land Cruiser). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. Actual dealer price will vary.
+*   MSRP excludes the Delivery, Processing and Handling Fee of $865 for Cars, $940 for Small/Medium Trucks (Sienna, RAV4 Gas, RAV4 Hybrid, Highlander Gas, Highlander Hybrid, 4Runner and Tacoma), $1,095 for Large SUVs (Sequoia, Land Cruiser), and $1,195 for Large Truck (Tundra). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. Actual dealer price will vary.
 *   2016 EPA-estimated city/highway mileage. Actual mileage will vary.  
     2017 EPA-estimated city/highway mileage. Actual mileage will vary.
 *   2016 EPA-estimated 67 city/67 highway/67 combined MPGe for Mirai and 312-mile driving range. Actual mileage will vary. Range measurement pursuant to SAE J2601 standards (ambient temperature: 20°C. hydrogen tank pressure when fueled: 70 MPa). Fueling time varies with hydrogen fueling pressure and ambient temperature.
