@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**If You Think Jupiter Orbits the Sun, You're Mistaken**
+**Sauron's Spies Are Everywhere — Even on Computers**
 
-**Could Humans Force a Volcanic Eruption?**
+**Research Confirms Wheat Sensitivity That's Neither Celiac nor Allergic**
 
-**Honey Helps Gymnasts Get a Grip**
+**Yes, We Live in a World Where 'Poop Cafes' Are a Thing**
 
 **See More Headlines »**
 
@@ -297,4 +297,4 @@ Get the best of HowStuffWorks by email. Keep up to date on:
 Sign-up Now! Testing this long verbose error message to check the behaviour
 
 Copyright © 2016 HowStuffWorks,  
-a division of InfoSpace LLC
+a division of InfoSpace Holdings LLC
