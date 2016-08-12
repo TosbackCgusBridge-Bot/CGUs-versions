@@ -158,6 +158,7 @@
         *   Skinny
         *   Bootcut
         *   Flare
+        *   Ankle Skinny
         *   Blues Report
         *   Show All Women's Jeans
         
