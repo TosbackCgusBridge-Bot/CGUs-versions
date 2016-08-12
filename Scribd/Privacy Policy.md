@@ -116,8 +116,9 @@ Was this article helpful? 1186 out of 1186 found this helpful
 Have more questions? Submit a request 0 Comments Article is closed for comments. Related articles
 
 *   General Terms of Use
+*   Scribd Paid Access End User License Agreement
 *   How do I cancel my premium membership?
-*   What activities are not allowed on Scribd?
 *   DMCA copyright infringement takedown notification policy
+*   What is a private document?
 
 Powered by Zendesk
