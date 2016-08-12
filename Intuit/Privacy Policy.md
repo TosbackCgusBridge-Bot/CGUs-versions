@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15242590378
+true true L15245663092
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Wed Aug 10 11:15:30 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Thu Aug 11 11:13:26 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,47 +52,47 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-3 Days Of Summer Deals Today Online Only -- Ends at Midnight!
+2 Days Of Summer Deals Today Online Only -- Ends at Midnight!
 
 10 New Deals Every Day | They Won't Last Long!
 
-1 Day Only! 14.99 Juniors' Arizona Plaid Shirts
+1 Day Only! 19.99 Juniors' Dresses
 
-Select styles, reg. $40
+Select styles, reg. $46-$52
 
-Shop Juniors' Arizona 1 Day Only! 12.99 Men's St. John's Bay Shorts
+Shop Juniors' Dresses 1 Day Only! 8.99 Guys' Arizona Polos
 
-Select styles, reg. $40
+Select styles, reg. $20
 
-Shop Men's St. John's Bay Shorts 1 Day Only! $5 Girls' Arizona and Total Girl Graphic Tees
+Shop Guys' Arizona Polos 1 Day Only! $12 Girls' &. Boys' Arizona Denim and Total Girl Denim
 
-Select styles, reg. $16
+Select styles, reg. $30
 
-Shop Girls' Graphic Tees 1 Day Only! 9.99 Stylus and A.N.A Shorts
+Shop Denim 1 Day Only! 9.99 Liz Claiborne &. Worthington Tops
 
-Select styles, orig. $30
+Select styles, reg. $22-$30
 
-Shop Shorts 1 Day Only! 17.99 Men's U.S. Polo Assn. Polos
+Shop Tops 1 Day Only! 24.99 Guys' Arizona Fashion Denim
 
-Select styles, reg. $42
+Select styles, reg. $50
 
-Shop U.S. Polo Assn. 1 Day Only! 50% Off OshKosh B'gosh Apparel
+Shop Guys' Arizona Fashion Denim 1 Day Only! $12 Kids' Izod Uniform Shorts
+
+Select styles, reg. $26-$30
+
+Shop Kids' Izod Uniform Shorts Shop Boys' Izod Uniform Shorts Shop Girls' Izod Uniform Shorts   1 Day Only! $10 Off Skechers for the Family
+
+MSRP 59.99-$75, excluded from coupon
+
+Shop Skechers for the Family 1 Day Only! 11.99 Guys' Arizona Solid Thermal
+
+Select styles, reg. $24
+
+Shop Guys' Arizona Solid Thermal 1 Day Only! 50% Off Royal Velvet 400 Thread Count Wrinkleguard Sheet Sets
 
 Select styles
 
-Shop OshKosh B'gosh 1 Day Only! 19.99 Nioxin System Kits
-
-Select styles, reg. $44
-
-Shop Nioxin System Kits 1 Day Only! 5.99 Guys' Arizona Solid Tees
-
-Select styles, reg. $12
-
-Shop Guys' Arizona 1 Day Only! 16.99 Backpacks
-
-Select styles
-
-Shop Backpacks Now Through August 13! 39.99 Nike Downshifter Running Shoes for Him &. Her
+Shop Royal Velvet Now Through August 13! 39.99 Nike Downshifter Running Shoes for Him &. Her
 
 Select styles, Nike excluded from coupon offer, MSRP $60
 
@@ -102,7 +102,7 @@ Select styles, Nike excluded from coupon
 
 10.50-63.75, MSRP $14-$85
 
-Shop Nike Super Saturday Sale Starts Now! | In Store and Online | Ends August 13 Shop Super Saturday Sale View Store Ad Spend $25 and Get $10 Off\*
+Shop Nike Super Saturday Sale Going On Now! | In Store and Online | Ends August 13 Shop Super Saturday Sale View Store Ad Spend $25 and Get $10 Off\*
 
 In Store and Online | Ends 8/13 | Code: BUYMORE7
 
