@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms July warmer than average, year to date 3rd warmest for Lower 48 Record heat hits parts of South, East and Alaska AROUND NOAA // International report confirms Earth is hot and getting hotter Mass die-off of corals and other invertebrates underway in Gulf of Mexico sanctuary 3 things to like about DSCOVR, your new space weather satellite
+Enter Search Terms Atlantic hurricane season still expected to be strongest since 2012 Forecasters now expect 70-percent chance of 12–17 named storms AROUND NOAA // July warmer than average, year to date 3rd warmest for Lower 48 International report confirms Earth is hot and getting hotter Mass die-off of corals and other invertebrates underway in Gulf of Mexico sanctuary
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock image
+NOAA
