@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Sauron's Spies Are Everywhere — Even on Computers**
+**The Olympic Decathlon Winner: The Best Athlete in the World?**
 
-**Research Confirms Wheat Sensitivity That's Neither Celiac nor Allergic**
+**Revolutionary Camera Captures NASA's Most Powerful Rocket in Amazing Detail**
 
-**Yes, We Live in a World Where 'Poop Cafes' Are a Thing**
+**Sorry Haters, You Do Have to Floss**
 
 **See More Headlines »**
 
