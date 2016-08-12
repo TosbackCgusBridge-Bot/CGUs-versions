@@ -1,9 +1,10 @@
 Log in with your social account: Or, you can log in or sign up using Forbes.
 
-*   New Posts
+*   Editors' Pick
+*   New Posts +1 posts this hour
 *   Most Popular Facebook And Guns
 *   Lists Tech Billionaires
-*   Video Inside Tesla
+*   Video Inside The Issue
 
 Connect | Sign up | Log in The Little Black Book of Billionaire Secrets Forbes.com Privacy Statement
 
