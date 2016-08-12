@@ -10,7 +10,7 @@ The Information We Collect
 *   Information We Obtain From You
 *   Information About Your Transactions
 *   Information From Third Parties
-*   Location Services for Mobile Apps
+*   Location Services
 *   Access and Correction of Personal Information
 
 The Information We Disclose  
@@ -61,9 +61,9 @@ We may receive Information about you from consumer reporting agencies, which pro
 
 Our sales and service representatives do not have access to the details of your credit information. Other companies who view your credit report will not see the GEICO inquiry. It will be visible only to you. Our inquiry will not affect your credit score or credit rating. If you commit to purchase a policy with GEICO, we will also confirm your motor vehicle record and claims history. As permitted by law, we may also review your motor vehicle record, claims history, and/or credit information in connection with any renewal.
 
-LOCATION SERVICES FOR MOBILE APPS
+LOCATION SERVICES
 
-Your current location is only determined if you choose to use a function on our apps to determine your current location. If you allow your location to be obtained using a GEICO app, we will use this information to return your estimated location. We use this information solely to distinguish your current location and not to identify you. GEICO does not automatically track your location when you use our apps.
+Your current location is only determined if you permit our services to do so. If you allow your location to be obtained using a GEICO app, or with a browser, we will use this information to return your estimated location. We use this information solely to distinguish your current location and not to identify you. GEICO does not automatically track your location.
 
 ACCESS AND CORRECTION OF PERSONAL INFORMATION
 
