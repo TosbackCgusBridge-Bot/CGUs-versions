@@ -20,7 +20,7 @@ Show menu
         *   *   All caught up!  
                 No new notifications right now.
 *   Account
-    *   Sign In
+    *   Sign in to access Sneaky Saver Deals.
     *   Create an Account
 *   My Scratchpad   Things you view while shopping are saved here. Things you view while shopping are saved here. Save Scratchpad Send updates Send updates Send updates
     
