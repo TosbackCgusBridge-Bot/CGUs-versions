@@ -167,6 +167,16 @@ GSK Global Website www.gsk.com
     *   Social media
     *   Image and video library
 *   Blog
+*   Business to business
+    *   Business to business
+    *   US Supplier Diversity
+        *   US Supplier Diversity
+        *   Corporate commitment
+        *   Doing business with GSK
+        *   What we buy
+        *   Outreach
+        *   Helpful links
+        *   Questions and feedback
 *   Contact us
     *   Contact us
     *   Our US Locations
