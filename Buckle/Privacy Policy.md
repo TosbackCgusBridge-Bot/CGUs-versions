@@ -336,6 +336,7 @@ Returns
 
 Promotions
 
+*   Bluetooth® Speaker
 *   Loyalty Event 2016
 *   Tax Free Weekends 2016
 *   Social Giveaway Official Rules
