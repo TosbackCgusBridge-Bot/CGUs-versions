@@ -16,7 +16,7 @@ Fitbit
     *   **Wi-Fi** Smart Scale
         *   Fitbit® Aria®
     *   *   **FITBIT ACCESSORIES**
-        *   **TORY BURCH FOR FITBIT**
+        *   Designer Collections
     Not sure which product is right for you? FIND YOUR FIT
 *   Experiences
     *   Mobile App + Dashboard
