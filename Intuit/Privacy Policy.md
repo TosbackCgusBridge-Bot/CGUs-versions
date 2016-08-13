@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15245663092
+true true C15189031751
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Thu Aug 11 11:13:26 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p11.jcpenney.com SERVER NAME :->. dtcomexpr1c1j4 TIME :->. Fri Aug 12 11:09:18 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,47 +52,63 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-2 Days Of Summer Deals Today Online Only -- Ends at Midnight!
+Super Saturday Sale Going On Now! | In Store and Online | Ends August 13 Shop Super Saturday Sale View Store Ad Spend $25 and Get $10 Off\* In Store and Online | Ends 8/13 | Code: BUYMORE7
 
-10 New Deals Every Day | They Won't Last Long!
+\*exclusions apply
 
-1 Day Only! 19.99 Juniors' Dresses
+Get Coupon Doorbusters Friday 3PM CDT through Saturday 1PM CDT
 
-Select styles, reg. $46-$52
+Use your coupon and save even more!
 
-Shop Juniors' Dresses 1 Day Only! 8.99 Guys' Arizona Polos
+Shop Doorbusters Shop Women Shop Kids Shop Men Shop Curtains and Drapes Shop Bedding Shop Jewelry Shop Handbags Shop Shoes Friday and Saturday Only Deals! Starts Today! | In Store and Online | August 12-13 Shop Girls Shop Boys Shop Women Shop Men     $6 Kids' Xersion Graphic Tees, Shorts or Capris
+
+Select styles, reg. $16-$18
+
+$10 Xersion Graphic Tees or Xtreme Shorts for Him &. Performance Tees or Capris for Her
+
+Select styles, reg. $14-$50
+
+Last Day! Summer Deals Today Online Only -- Ends at Midnight!
+
+These Deals Won't Last Long
+
+1 Day Only! 16.99 Juniors' Arizona Denim
+
+Select styles, reg. $34
+
+Shop Juniors' Arizona Denim 1 Day Only! 16.99 Guys' Arizona Flannel Shirts
+
+Select styles, reg. $36
+
+Shop Guys' Arizona Flannel Shirts 1 Day Only! $7 Girls' Xersion Yoga Pants
 
 Select styles, reg. $20
 
-Shop Guys' Arizona Polos 1 Day Only! $12 Girls' &. Boys' Arizona Denim and Total Girl Denim
+Shop Girls' Xersion Yoga Pants 1 Day Only! 4.99 St. John's Bay Tees for Her
 
-Select styles, reg. $30
+Select styles, reg. $14
 
-Shop Denim 1 Day Only! 9.99 Liz Claiborne &. Worthington Tops
+Shop St. John's Bay Tees for Her 1 Day Only! 17.99 Stafford Travel Wrinkle-Free Oxford Dress Shirt
 
-Select styles, reg. $22-$30
+Select styles, reg. $40
 
-Shop Tops 1 Day Only! 24.99 Guys' Arizona Fashion Denim
+Shop Dress Shirt 1 Day Only! $4 Boys' &. Girls' Arizona Tees
 
-Select styles, reg. $50
+Select styles, reg. $12
 
-Shop Guys' Arizona Fashion Denim 1 Day Only! $12 Kids' Izod Uniform Shorts
+Shop Arizona Tees 1 Day Only! 19.99 ea. Stainless Steel Bracelet
 
-Select styles, reg. $26-$30
+Select styles, reg. $60 ea.
 
-Shop Kids' Izod Uniform Shorts Shop Boys' Izod Uniform Shorts Shop Girls' Izod Uniform Shorts   1 Day Only! $10 Off Skechers for the Family
+Shop Stainless Steel Bracelets 1 Day Only! 19.99 Biosilk Silk Therapy
 
-MSRP 59.99-$75, excluded from coupon
+Select styles, reg. $43
 
-Shop Skechers for the Family 1 Day Only! 11.99 Guys' Arizona Solid Thermal
+Shop Biosilk Silk Therapy 1 Day Only! 39.99 Any Size, All Complete Bedding Sets with Sheets
 
-Select styles, reg. $24
+Select styles, reg. $100-$170
 
-Shop Guys' Arizona Solid Thermal 1 Day Only! 50% Off Royal Velvet 400 Thread Count Wrinkleguard Sheet Sets
-
-Select styles
-
-Shop Royal Velvet Now Through August 13! 39.99 Nike Downshifter Running Shoes for Him &. Her
+Shop Bedding Sets with Sheets Now Through August 13! 39.99 Nike Downshifter Running Shoes for Him &. Her
 
 Select styles, Nike excluded from coupon offer, MSRP $60
 
@@ -102,17 +118,11 @@ Select styles, Nike excluded from coupon
 
 10.50-63.75, MSRP $14-$85
 
-Shop Nike Super Saturday Sale Going On Now! | In Store and Online | Ends August 13 Shop Super Saturday Sale View Store Ad Spend $25 and Get $10 Off\*
-
-In Store and Online | Ends 8/13 | Code: BUYMORE7
-
-\*exclusions apply
-
-Get Coupon Shop Women Shop Kids Shop Men Shop Curtains and Drapes Shop Bedding Shop Jewelry Shop Handbags Shop Shoes Back to School so you. so worth it. Shop Back to School   Dorm Life Shop All Dorm   Home Sale 30 to 50% Off
+Shop Nike Home Sale 30 to 50% Off
 
 Select styles
 
-Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   Sephora Shop Travel Fragrances: JCPenney | optical Kids' Glasses $39.99, one pair Kids' Glasses $69.99, two pairs
+Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   Heading Off To College? Here's a printable checklist for all you need. Print Checklist Sephora Shop Travel Fragrances: JCPenney | optical Kids' Glasses $39.99, one pair Kids' Glasses $69.99, two pairs
 
 Ends September 30
 
