@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**The Olympic Decathlon Winner: The Best Athlete in the World?**
+**For the Guinea Worm, Man's Best Friend Is the Warmest Hiding Place**
 
-**Revolutionary Camera Captures NASA's Most Powerful Rocket in Amazing Detail**
+**Should 40-somethings Only Work 20-something Hours?**
 
-**Sorry Haters, You Do Have to Floss**
+**More Signs Point to Venus as Habitable in its Distant Past**
 
 **See More Headlines »**
 
