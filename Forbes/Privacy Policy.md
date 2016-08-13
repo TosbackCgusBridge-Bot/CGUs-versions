@@ -1,7 +1,7 @@
 Log in with your social account: Or, you can log in or sign up using Forbes.
 
 *   Editors' Pick
-*   New Posts +1 posts this hour
+*   New Posts
 *   Most Popular Facebook And Guns
 *   Lists Tech Billionaires
 *   Video Inside The Issue
