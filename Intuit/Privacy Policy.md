@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15189031751
+true true C15192102979
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p11.jcpenney.com SERVER NAME :->. dtcomexpr1c1j4 TIME :->. Fri Aug 12 11:09:18 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Sat Aug 13 11:15:29 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,15 +52,23 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Super Saturday Sale Going On Now! | In Store and Online | Ends August 13 Shop Super Saturday Sale View Store Ad Spend $25 and Get $10 Off\* In Store and Online | Ends 8/13 | Code: BUYMORE7
+A Pop of Savings
+
+Today Online Only! | 8/13 | Code: NOWBUY27
+
+Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100 Or, Extra 15% Off Select Watches, Salon Products, Furniture, Mattresses, Custom Blinds &. Shades
+
+Some exclusions apply.
+
+Plus Free Shipping Over $49\* | Code: NOWBUY27 \*Get Details Super Saturday Sale Last Day! | In Store and Online | Ends August 13 Shop Super Saturday Sale View Store Ad Spend $25 and Get $10 Off\* In Store and Online | Ends 8/13 | Code: BUYMORE7
 
 \*exclusions apply
 
-Get Coupon Doorbusters Friday 3PM CDT through Saturday 1PM CDT
+Get Coupon Doorbusters Ends Saturday 1PM CDT
 
 Use your coupon and save even more!
 
-Shop Doorbusters Shop Women Shop Kids Shop Men Shop Curtains and Drapes Shop Bedding Shop Jewelry Shop Handbags Shop Shoes Friday and Saturday Only Deals! Starts Today! | In Store and Online | August 12-13 Shop Girls Shop Boys Shop Women Shop Men     $6 Kids' Xersion Graphic Tees, Shorts or Capris
+Shop Doorbusters Shop Women Shop Kids Shop Men Shop Curtains and Drapes Shop Bedding Shop Jewelry Shop Handbags Shop Shoes Friday and Saturday Only Deals! Last Day! | In Store and Online | August 12-13 Shop Girls Shop Boys Shop Women Shop Men     $6 Kids' Xersion Graphic Tees, Shorts or Capris
 
 Select styles, reg. $16-$18
 
@@ -68,61 +76,13 @@ $10 Xersion Graphic Tees or Xtreme Shorts for Him &. Performance Tees or Capris 
 
 Select styles, reg. $14-$50
 
-Last Day! Summer Deals Today Online Only -- Ends at Midnight!
-
-These Deals Won't Last Long
-
-1 Day Only! 16.99 Juniors' Arizona Denim
-
-Select styles, reg. $34
-
-Shop Juniors' Arizona Denim 1 Day Only! 16.99 Guys' Arizona Flannel Shirts
-
-Select styles, reg. $36
-
-Shop Guys' Arizona Flannel Shirts 1 Day Only! $7 Girls' Xersion Yoga Pants
-
-Select styles, reg. $20
-
-Shop Girls' Xersion Yoga Pants 1 Day Only! 4.99 St. John's Bay Tees for Her
-
-Select styles, reg. $14
-
-Shop St. John's Bay Tees for Her 1 Day Only! 17.99 Stafford Travel Wrinkle-Free Oxford Dress Shirt
-
-Select styles, reg. $40
-
-Shop Dress Shirt 1 Day Only! $4 Boys' &. Girls' Arizona Tees
-
-Select styles, reg. $12
-
-Shop Arizona Tees 1 Day Only! 19.99 ea. Stainless Steel Bracelet
-
-Select styles, reg. $60 ea.
-
-Shop Stainless Steel Bracelets 1 Day Only! 19.99 Biosilk Silk Therapy
-
-Select styles, reg. $43
-
-Shop Biosilk Silk Therapy 1 Day Only! 39.99 Any Size, All Complete Bedding Sets with Sheets
-
-Select styles, reg. $100-$170
-
-Shop Bedding Sets with Sheets Now Through August 13! 39.99 Nike Downshifter Running Shoes for Him &. Her
-
-Select styles, Nike excluded from coupon offer, MSRP $60
-
-Shop Men's Nike Shop Women's Nike Nike Sale 25% Off Nike for the Family
+Last Day! Nike Sale 25% Off Nike for the Family
 
 Select styles, Nike excluded from coupon
 
 10.50-63.75, MSRP $14-$85
 
-Shop Nike Home Sale 30 to 50% Off
-
-Select styles
-
-Shop All Home Shop Comforters and Bedding Sets Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   Heading Off To College? Here's a printable checklist for all you need. Print Checklist Sephora Shop Travel Fragrances: JCPenney | optical Kids' Glasses $39.99, one pair Kids' Glasses $69.99, two pairs
+Shop Nike Back to School so you. so worth it. Shop Back to School   Dorm Life Shop All Dorm   Sephora Shop Travel Fragrances: JCPenney | optical Kids' Glasses $39.99, one pair Kids' Glasses $69.99, two pairs
 
 Ends September 30
 
