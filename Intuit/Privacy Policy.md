@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15192102979
+true true L15257740938
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Sat Aug 13 11:15:29 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Sun Aug 14 11:15:35 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,39 +52,49 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-A Pop of Savings
+Levi's® Save on Levi's
 
-Today Online Only! | 8/13 | Code: NOWBUY27
+Select styles
 
-Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100 Or, Extra 15% Off Select Watches, Salon Products, Furniture, Mattresses, Custom Blinds &. Shades
+Shop Women Shop Men Shop Boys       36.99 Levi's 535™ Super Skinny Jeans for Her
 
-Some exclusions apply.
+Select styles, reg. 49.50
 
-Plus Free Shipping Over $49\* | Code: NOWBUY27 \*Get Details Super Saturday Sale Last Day! | In Store and Online | Ends August 13 Shop Super Saturday Sale View Store Ad Spend $25 and Get $10 Off\* In Store and Online | Ends 8/13 | Code: BUYMORE7
+Shop Super Skinny Jeans for Her 39.99 Guys' Levi's 511™ Slim Jeans
 
-\*exclusions apply
+Select styles, reg. 69.50
 
-Get Coupon Doorbusters Ends Saturday 1PM CDT
+Shop Guys' Slim Jeans 19.99 Boys' Levi's 505™ Regular, 550™ Relaxed &. 514™ Straight Fit Jeans
 
-Use your coupon and save even more!
+Select styles, MSRP $40
 
-Shop Doorbusters Shop Women Shop Kids Shop Men Shop Curtains and Drapes Shop Bedding Shop Jewelry Shop Handbags Shop Shoes Friday and Saturday Only Deals! Last Day! | In Store and Online | August 12-13 Shop Girls Shop Boys Shop Women Shop Men     $6 Kids' Xersion Graphic Tees, Shorts or Capris
+Shop Boys' Jeans
 
-Select styles, reg. $16-$18
+Offers &. coupons do not apply.
 
-$10 Xersion Graphic Tees or Xtreme Shorts for Him &. Performance Tees or Capris for Her
+Buy 1 Get 1 for .01\* Arizona Apparel
 
-Select styles, reg. $14-$50
+Select styles, reg. $10-$50
 
-Last Day! Nike Sale 25% Off Nike for the Family
+Shop Guys Shop Boys Shop Girls Junors' Arizona Jeans
 
-Select styles, Nike excluded from coupon
+Select styles, reg. $42-$56
 
-10.50-63.75, MSRP $14-$85
+Shop Juniors' Arizona Jeans
 
-Shop Nike Back to School so you. so worth it. Shop Back to School   Dorm Life Shop All Dorm   Sephora Shop Travel Fragrances: JCPenney | optical Kids' Glasses $39.99, one pair Kids' Glasses $69.99, two pairs
+\*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
 
-Ends September 30
+      Nike Sale Up to 25% Off Nike for the Family
+
+Select styles, Nike excluded from coupon. MSRP $44-$90
+
+Shop All Nike Shop Men Shop Women Shop Kids Back-To-School Outfits you'll love for every day of the week. Shop Juniors Shop Guys Shop Boys Shop Girls Shop Gift Cards Home Sale 30 to 50% Off
+
+Select styles
+
+Shop All Home Shop Comforters &. Bedding Sets Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses   Scouted by Sephora Meet some of our coolest brands. Explore the Brands: JCPenney | portraits
+
+40% Off Portraits
 
 Get Details: Red Zone Clearance 50 to 70% Off Clearance
 
