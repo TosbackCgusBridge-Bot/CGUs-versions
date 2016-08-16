@@ -82,25 +82,23 @@ Arrest Records &. Driving Infractions
 
 Phonebook
 
-*   Privacy Policy - Get Contact Information Phone Number
-    
-*   Privacy Policy - Reverse Phone Search - Get Photos &. Online Profiles Instantly! Phone Number
-    
-
-*   1) Enter Privacy Policy's Phone Number. 2) View Their Current Address.
-    
-*   1) Enter Privacy Policy's Phone Number. 2) View Their Email Addresses.
-    
-*   1) Enter Privacy Policy's Phone Number. 2) View Their Social Profiles.
-    
-*   1) Enter Privacy Policy's Phone Number. 2) View Their Photos and Videos.
-    
-
 *   We Found Privacy Policy
     
 *   1) Privacy Policy's Phone &. Current Address View All Details
     
 *   2) Social Media Profiles &. More - Search Free! View All Details
+    
+
+*   1) Enter Privacy Policy's Phone Number. 2) Get Their Current Address.
+    
+*   1) Enter Privacy Policy's Phone Number. 2) Get Their Social Profiles.
+    
+*   1) Enter Privacy Policy's Phone Number. 2) Get Their Email Address.
+    
+
+*   Privacy Policy - Get Contact Information Phone Number
+    
+*   Privacy Policy - Reverse Phone Search - Get Photos &. Online Profiles Instantly! Phone Number
     
 
 Email Addresses
