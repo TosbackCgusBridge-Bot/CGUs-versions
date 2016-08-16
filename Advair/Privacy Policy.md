@@ -146,13 +146,13 @@ GSK Global Website www.gsk.com
         *   Our settlement with the US Government
         *   Partnership to Help Communities Protect and Care for Children Impacted by Disasters
         *   PROMACTA (eltrombopag)
-        *   Tanzeum™ (albiglutide)
         *   Take 5 for Meningitis
             *   Take 5 for Meningitis
             *   Jamie Schanbaum, U.S. Paralympian and meningitis survivor
             *   Anne Geddes, world-renowned photographer
             *   Nick Springer, U.S. Paralympian and meningitis survivor
             *   Dr. Leonard Friedland, VP, director of Scientific Affairs and Public Health, Vaccines, North America at GSK
+        *   Tanzeum™ (albiglutide)
         *   US IMPACT Awards
         *   The State of Uncontrolled Asthma in America
         *   World Meningitis Day
