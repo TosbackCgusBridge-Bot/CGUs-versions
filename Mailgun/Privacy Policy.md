@@ -1,6 +1,14 @@
 Privacy Policy
 
-Effective 3/31/2014. Last reviewed and updated 2/1/2016.
+Effective 3/31/2014. Last reviewed and updated 8/12/2016.
+
+Updates
+
+We updated our Privacy Policy on August 12, 2016 in the following ways:
+
+*   We included AWS as a third party hosting provider.
+
+The previous version of our privacy policy is available for review here.
 
 We self-certify compliance with  
 
@@ -48,7 +56,7 @@ We may also use your information in the ways described above through a third-par
 
 Except for the limited circumstances described in this Policy or your applicable agreement / terms of service, we do not provide your information to third parties. When we need to provide your Personally Identifiable Information to third parties, we will only share it to the extent reasonably necessary. We may also share your Personally Identifiable Information as required or permitted by law and as described below.
 
-We host the Site and operate the Platform using third parties, including SoftLayer® and Rackspace® (the “Hosting Providers”). The Hosting Providers will host your Platform from its data centers throughout the United States.
+We host the Site and operate the Platform using third parties, including AWS®, SoftLayer® and Rackspace® (the “Hosting Providers”). The Hosting Providers will host your Platform from its data centers throughout the United States.
 
 We use a third party, Stripe®, to process subscription payments, and therefore provide them with the Personally Identifiable Information required to charge your credit card.
 
@@ -112,4 +120,16 @@ If you have questions about this Policy, or if you’re concerned that we are us
 Attn: General Counsel,  
 1 Fanatical Place, City of Windcrest,  
 San Antonio, Texas 78218  
-by email: privacy@mailgun.com
+by email: privacy@mailgun.com Your app with email in minutes
+
+Our API makes integrating real email quick &. easy.
+
+Try Mailgun now
+
+Want better deliverability? Learn more about our managed email service.
+
+Jobs Help Team Terms of service Privacy policy Report Spam Contact Blog
+
+Made in San Francisco. Powered by
+
+©2016 Rackspace, US Inc.
