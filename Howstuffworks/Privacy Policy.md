@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**For the Guinea Worm, Man's Best Friend Is the Warmest Hiding Place**
+**Women More OK With Their Bodies Than They Used to Be**
 
-**Should 40-somethings Only Work 20-something Hours?**
+**Hear and Now: Dogs Are Guinea Worm's Best Friend?**
 
-**More Signs Point to Venus as Habitable in its Distant Past**
+**Are Blue Lobsters As Rare As Blue Moons?**
 
 **See More Headlines »**
 
