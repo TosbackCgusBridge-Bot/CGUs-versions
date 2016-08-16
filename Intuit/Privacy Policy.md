@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15257740938
+true true C15200252188
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Sun Aug 14 11:15:35 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p11.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Mon Aug 15 11:15:30 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,31 +52,11 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Levi's® Save on Levi's
-
-Select styles
-
-Shop Women Shop Men Shop Boys       36.99 Levi's 535™ Super Skinny Jeans for Her
-
-Select styles, reg. 49.50
-
-Shop Super Skinny Jeans for Her 39.99 Guys' Levi's 511™ Slim Jeans
-
-Select styles, reg. 69.50
-
-Shop Guys' Slim Jeans 19.99 Boys' Levi's 505™ Regular, 550™ Relaxed &. 514™ Straight Fit Jeans
-
-Select styles, MSRP $40
-
-Shop Boys' Jeans
-
-Offers &. coupons do not apply.
-
 Buy 1 Get 1 for .01\* Arizona Apparel
 
 Select styles, reg. $10-$50
 
-Shop Guys Shop Boys Shop Girls Junors' Arizona Jeans
+Shop Guys Shop Boys Shop GirlsJunors' Arizona Jeans
 
 Select styles, reg. $42-$56
 
@@ -92,7 +72,11 @@ Shop All Nike Shop Men Shop Women Shop Kids Back-To-School Outfits you'll love f
 
 Select styles
 
-Shop All Home Shop Comforters &. Bedding Sets Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses   Scouted by Sephora Meet some of our coolest brands. Explore the Brands: JCPenney | portraits
+Shop All Home Shop Comforters &. Bedding Sets Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses   Xersion 40 to 50% Off Xersion Activewear For The Family
+
+Select styles
+
+Shop Boys Shop Girls Shop Women Shop Men     Scouted by Sephora Meet some of our coolest brands. Explore the Brands: JCPenney | portraits
 
 40% Off Portraits
 
