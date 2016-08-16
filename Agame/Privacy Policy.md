@@ -160,11 +160,11 @@ View more results
     
     Best Games
     *   Swords &. Souls: A Soul Adventure
-    *   Xibalba
+    *   Hero Simulator: Idle Adventure
     *   Takeover
     *   Super Mechs
     *   Sniper Team 2
-    *   Mighty Knight 2Spotlight Hero Simulator: Idle Adventure
+    *   Mighty Knight 2Spotlight SuperSnake.io
 *   Top Categories
     
     *   Platform Games
