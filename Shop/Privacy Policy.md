@@ -32,6 +32,8 @@ LENOVO Menu
     *   Technical support
     *   Sales order help
     *   Existing order help
+    *   Download  
+        Lenovo Companion Support App
 
 *   Sales1-855-253-6686
 
