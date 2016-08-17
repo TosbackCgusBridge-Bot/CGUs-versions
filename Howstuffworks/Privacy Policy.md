@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Women More OK With Their Bodies Than They Used to Be**
+**Running While Female: Safety Apps and Tech**
 
-**Hear and Now: Dogs Are Guinea Worm's Best Friend?**
+**Taste Tomorrow Today: The World's First 3-D Printing Restaurant Pops Up**
 
-**Are Blue Lobsters As Rare As Blue Moons?**
+**Bronze Age Wonders Emerge After 3,000 Years Beneath a British Bog**
 
 **See More Headlines »**
 
