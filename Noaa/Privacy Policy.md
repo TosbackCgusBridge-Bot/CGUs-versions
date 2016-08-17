@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheri
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Atlantic hurricane season still expected to be strongest since 2012 Forecasters now expect 70-percent chance of 12–17 named storms AROUND NOAA // July warmer than average, year to date 3rd warmest for Lower 48 International report confirms Earth is hot and getting hotter
+Enter Search Terms Atlantic hurricane season still expected to be strongest since 2012 Forecasters now expect 70-percent chance of 12–17 named storms AROUND NOAA // NOAA launches America’s first national water forecast model July warmer than average, year to date 3rd warmest for Lower 48 International report confirms Earth is hot and getting hotter
 
 *   About our agency
 *   News and features
