@@ -191,6 +191,69 @@ GSK Global Website www.gsk.com
 
 Menu
 
+*   Behind the science
+    *   Behind the science
+    *   Tags A-Z
+    *   Innovation
+        *   Innovation
+        *   Turning the tide on antibiotic resistance
+        *   GSK’s Chief Immunology Officer discusses unlocking the secrets of the immune system to tackle disease
+        *   Rare diseases: Q&A with Martin Andrews
+        *   Neuroscience: on the brain
+        *   Can mosquitoes prevent malaria?
+        *   Bacteria: friends or foes?
+        *   Data transparency
+        *   Can an iPhone transform the way we monitor and improve patient health?
+        *   Harnessing the electrical language of the body to treat disease
+        *   Epigenetics: turn-ons and turn-offs
+        *   Inside the open lab
+        *   The race to richer data in clinical trials
+        *   Cell and gene therapy: a new era of medicine
+        *   Take a deep breath - your lung microbiome will appreciate it
+    *   Access to healthcare
+        *   Access to healthcare
+        *   Our humanitarian response to the Ebola outbreak
+        *   Malaria: life cycle of a parasite
+        *   Giving mothers and babies a healthier start
+        *   TEDMED 2015: Art, inspired by vaccination
+        *   TEDMED 2015: An interview with curator, Christine McNab
+        *   The fight against malaria
+        *   Collaborating to improve patient care
+    *   Patients &. consumers
+        *   Patients &. consumers
+        *   Science of a different stripe
+        *   Every breath you take: Alison’s story
+        *   Whooping cough: confronting the hidden risk to infants
+        *   GSK Uncovers The State of Uncontrolled Asthma in America
+        *   Eggs in manufacturing
+        *   Struggling for breath
+        *   Clinical trials: a patient's view
+    *   Our people
+        *   Our people
+        *   Changing gears in a scientific career
+        *   From academia to industry: a new challenge
+        *   Andy Dundon: the design behind the device
+        *   Clinical Trials: Q&A with Murray Stewart
+        *   Respiratory disease: why we want to make a difference
+        *   Safety first: Employee wellbeing rides on it
+        *   Beyond manufacturing in Chile and Madagascar
+        *   Why I #fightmalaria: Laura's story
+        *   Rare Disease Day 2016: What it means to us
+        *   Volunteering in Kenya: a once in a lifetime experience
+        *   On the job with GSK's medical device research team
+        *   Treating malaria: Making a change from the inside
+        *   Simon Wright, Head of Child Survival at Save the Children gives a partnership perspective
+        *   War and peace: Ivo, Nobel prize winner
+        *   Changing Lives
+        *   The global as personal: GSK and The National Museum of African American History and Culture
+    *   How we do business
+        *   How we do business
+        *   Changing the way we work with healthcare professionals
+        *   Switching on to consumer choice: medicines for everyday health
+        *   Green chemistry
+        *   Flonase: the journey from prescription to OTC
+        *   Biosecurity and pandemic preparedness
+        *   The hope for a cure for HIV/AIDS in our lifetime
 *   About us
     
     *   About us
@@ -331,109 +394,6 @@ Menu
     *   Working at GSK
         
         We offer many opportunities for people at various stages of their careers.
-        
-*   Our stories
-    
-    *   Our stories
-    *   Health for all
-        *   Health for all
-        *   Biosecurity and pandemic preparedness
-        *   Collaborating to improve patient care
-        *   Struggling for breath
-        *   Putting patients first
-        *   Building healthy communities for a healthy America
-        *   The fight against malaria
-        *   Malaria: life cycle of a parasite
-        *   Our contribution to the fight against Ebola
-            *   Our contribution to the fight against Ebola
-            *   Ebola vaccine R&D
-            *   Forming public partnerships
-            *   Our humanitarian response
-            *   Fighting disease in the developing world
-        *   Giving mothers and babies a healthier start
-        *   Every breath you take: Alison’s story
-        *   Whooping cough: confronting the hidden risk to infants
-        *   TEDMED 2015: Art, inspired by vaccination
-        *   TEDMED 2015: An interview with curator, Christine McNab
-        *   GSK uncovers the state of uncontrolled asthma in America
-    *   How we do R&D
-        *   How we do R&D
-        *   Can an iPhone transform the way we monitor and improve patient health?
-        *   Tackling the threat of antibiotic resistance
-        *   Bioelectronics: skip the fiction, this is science
-        *   Can mosquitoes prevent malaria?
-        *   Clinical trials: a patient's view
-        *   Bacteria: friends or foes?
-        *   Epigenetics: turn-ons and turn-offs
-        *   Data transparency
-        *   Inside the Open Lab
-        *   The race to richer data in clinical trials
-        *   Cell and gene therapy: a new era of medicine
-        *   The hope for a cure for HIV/AIDS in our lifetime
-            *   The hope for a cure for HIV/AIDS in our lifetime
-            *   Read our Storify of the announcement!
-        *   Take a deep breath – your lung microbiome will appreciate it
-    *   Business strategy
-        *   Business strategy
-        *   R&D productivity
-        *   Rare diseases: Q&A with Martin Andrews
-        *   Neuroscience: on the brain
-        *   Value is in the eye of the beholder
-        *   Changing the way we work with healthcare professionals
-        *   Switching on to consumer choice: medicines for everyday health
-        *   Why our recent transaction with Novartis is different
-    *   Our communities
-        *   Our communities
-        *   Investing in public education
-        *   Making an impact in the community
-        *   Making the most of every opportunity
-        *   GSK IMPACT Grants: Our kids leading the way to a healthier community
-            *   GSK IMPACT Grants: Our kids leading the way to a healthier community
-            *   Denver, CO: How do you help make a healthy community even healthier?
-            *   Philadelphia, PA: How can we make the biggest impact on young people’s health?
-            *   East St. Louis, IL: Can we work together to improve the health of a community?
-            *   Triangle Region, NC: How can we support young people aging out of the foster care system to become healthy adults?
-    *   Everyday health
-        *   Everyday health
-        *   Science of a different stripe
-        *   Eggs in manufacturing
-        *   God of dreams - from poppy to patient
-        *   Flonase: the journey from prescription to OTC
-    *   Our planet
-        *   Our planet
-        *   Heeding the warning: big/small changes to get to carbon neutral
-        *   Green chemistry
-        *   World Water Week: Facts to make you think
-    *   Our people
-        *   Our people
-        *   The power of 1 (x100,000)
-        *   International Women's Day - Emma Walmsley
-        *   Bee-ting a path to better diagnosis
-        *   Employee volunteering gets personal
-    
-    *   Health for all
-        
-        Find out how we are tackling barriers to better health around the world.
-        
-    *   How we do R&D
-        
-        Go behind the scenes of our R&D operation and read about the work of our scientists.
-        
-    *   Our communities
-        
-        Learn more about some of the many community projects we are involved in around the world.
-        
-    *   Everyday health
-        
-        Discover more about the products and medicines many use every day.
-        
-    *   Our planet
-        
-        Find out how we plan to meet ambitious reductions in CO2, water use, and landfill waste.
-        
-    *   Our people
-        
-        Investing in our people and communities underpins our long-term sustainability.
         
 *   Research
     
