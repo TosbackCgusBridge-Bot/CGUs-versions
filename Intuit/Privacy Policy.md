@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15200252188
+true true L15263562105
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p11.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Mon Aug 15 11:15:30 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Tue Aug 16 11:10:07 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,11 +52,19 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Buy 1 Get 1 for .01\* Arizona Apparel
+Uniform Flash Sale
+
+Today Online Only | 8/16 | Code: SAVING8
+
+Extra 25% Off\*
+
+\*some exclusions apply
+
+Get Details Shop Girls Shop Boys Shop Juniors Shop Guys Buy 1 Get 1 for .01\* Arizona Apparel
 
 Select styles, reg. $10-$50
 
-Shop Guys Shop Boys Shop GirlsJunors' Arizona Jeans
+Shop Guys Shop Boys Shop Girls Junors' Arizona Jeans
 
 Select styles, reg. $42-$56
 
@@ -68,7 +76,7 @@ Shop Juniors' Arizona Jeans
 
 Select styles, Nike excluded from coupon. MSRP $44-$90
 
-Shop All Nike Shop Men Shop Women Shop Kids Back-To-School Outfits you'll love for every day of the week. Shop Juniors Shop Guys Shop Boys Shop Girls Shop Gift Cards Home Sale 30 to 50% Off
+Shop All Nike Shop Men Shop Women Shop Kids Home Sale 30 to 50% Off
 
 Select styles
 
