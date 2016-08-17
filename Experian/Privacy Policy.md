@@ -141,6 +141,7 @@ Please keep in mind that this Privacy Notice only applies to your use of your pr
     *   Direct Mail
     *   Email
     *   Online Targeted Advertising
+    *   Partner Opt Out
     *   Preapproved Offers
     *   Telemarketing
 *   Request Experian Marketing Data Report
