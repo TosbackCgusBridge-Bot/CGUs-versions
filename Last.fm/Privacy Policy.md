@@ -1,19 +1,24 @@
-Last.fm
-
-*   Join
-*   Login
-
-Toggle navigation
+Last.fm Search SearchSearch Toggle navigation
 
 *   Live
 *   Music
 *   Events
 *   Features
 *   Subscribe
-*   Login
 *   Join
+*   Login
 
-Search Search Search Privacy Policy
+*   Live
+*   Music
+*   Events
+*   Features
+
+*   Join
+*   Login
+
+A new version of Last.fm is available, to keep everything running smoothly, please reload the site.
+
+Privacy Policy
 
 **Updated on:** Tuesday 15 January 2013
 
