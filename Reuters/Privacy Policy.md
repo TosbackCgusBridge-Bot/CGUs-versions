@@ -151,7 +151,7 @@ Contact sales to start your free trial › pip
 
 *   Product Support
 *   Support By Product
-*   24/7 Reference Attorneys
+*   Reference Attorneys
 *   Product Downloads
 *   Law Librarian Resources
 *   Small Firm Resources
