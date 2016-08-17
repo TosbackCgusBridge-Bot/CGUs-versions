@@ -1,12 +1,12 @@
 Log in with your social account: Or, you can log in or sign up using Forbes.
 
 *   Editors' Pick
-*   New Posts +1 posts this hour
+*   New Posts +2 posts this hour
 *   Most Popular Facebook And Guns
-*   Lists Tech Billionaires
-*   Video Inside The Issue
+*   Lists Top-Paid DJs
+*   Video Rio 2016
 
-Connect | Sign up | Log in The Little Black Book of Billionaire Secrets Forbes.com Privacy Statement
+Connect | Sign up | Log in 2 FREE Issues Of Forbes Forbes.com Privacy Statement
 
 _Revised and posted as of: April 15, 2016_  
   
