@@ -121,9 +121,9 @@ Salesforce uses Web beacons alone or in conjunction with cookies to compile info
 **IP Addresses**  
 When you visit Salesforce’s Web sites, the Company collects your Internet Protocol (“IP”) addresses to track and aggregate non-personal information. For example, Salesforce uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company’s Web sites.
 
-Salesforce also collects IP addresses from Customers whey they log into the Services as part of the Company’s “Identity Confirmation” and “IP Range Restrictions” security features.
+Salesforce also collects IP addresses from Customers when they log into the Services as part of the Company’s “Identity Confirmation” and “IP Range Restrictions” security features.
 
-Salesforce.com also collects IP addresses from Customers whey they log into the Services as part of the Company’s “Identity Confirmation” and “IP Range Restrictions” security features.
+Salesforce.com also collects IP addresses from Customers when they log into the Services as part of the Company’s “Identity Confirmation” and “IP Range Restrictions” security features.
 
 **Social Media Features**  
 The Company’s Web sites may use social media features, such as the Facebook ‘like’ button (“Social Media Features”). These features may collect your IP address and which page you are visiting on the Company’s Web site, and may set a cookie to enable the feature to function properly. You may be given the option by such Social Media Features to post information about your activities on the Company’s Web site to a profile page of yours that is provided by a third party Social Media network in order to share with others within your network. Social Media Features are either hosted by a third party or hosted directly on the Company’s Web site. Your interactions with these features are governed by the privacy policy of the company providing the relevant Social Media Features.
