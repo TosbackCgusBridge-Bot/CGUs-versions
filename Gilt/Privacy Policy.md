@@ -99,7 +99,7 @@ Here are the choices we offer:
 
 Sharing Information with Business Partners
 
-You may direct us not to share the personal information we maintain about you with our business partners for those partners’ own purposes. To do so, please email us at \[email protected\]. If you opt out, we will continue sharing your information as otherwise described in the “Information We Share” section of this Privacy Notice, including with our service providers, to fulfill your requests and to comply with legal requirements.
+You may direct us not to share the personal information we maintain about you with our business partners for those partners’ own purposes. To do so, please email us at privacy@gilt.com. If you opt out, we will continue sharing your information as otherwise described in the “Information We Share” section of this Privacy Notice, including with our service providers, to fulfill your requests and to comply with legal requirements.
 
 Marketing Emails
 
@@ -123,7 +123,7 @@ Most browsers will tell you how to stop accepting new cookies, how to be notifie
 
 Your California Privacy Rights
 
-California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. Under the law, a business must either provide this information or permit California residents to opt in to, or opt out of, this type of sharing. GILT permits California residents to opt out of having their information shared with third parties for direct marketing purposes. To opt out, please us at \[email protected\]. 
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. Under the law, a business must either provide this information or permit California residents to opt in to, or opt out of, this type of sharing. GILT permits California residents to opt out of having their information shared with third parties for direct marketing purposes. To opt out, please us at privacy@gilt.com. 
 
 Access and Correction
 
@@ -159,7 +159,7 @@ This Privacy Notice may be updated periodically and without prior notice to you 
 
 How to Contact Us
 
-If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at \[email protected\]. You also may write to us at:
+If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at privacy@gilt.com. You also may write to us at:
 
 GILT Groupe Holdings, Inc.  
 Attn: Legal Department  
