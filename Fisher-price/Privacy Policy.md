@@ -168,7 +168,7 @@ COUNTRY AustraliaBelgium (België)Brazil (Brasil)Bulgaria (България)Cana
 *   Careers
 
 *   Terms &. Conditions
-*   Privacy Statement
+*   Updated Privacy Statement
 
 ©2016 Mattel All Rights Reserved
 
