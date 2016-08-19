@@ -373,6 +373,7 @@ Privacy &. Security
 
 Buckle Information
 
+*   Snapchat
 *   Team Highlights
 *   Ratings &. Reviews
 *   Personal Shopping
