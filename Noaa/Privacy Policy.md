@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheries How to map Caribbean coral reefs in 21st-century style Weather Practice heat safety: Stay safe this summer National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Practice heat safety: Stay safe this summer National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheri
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Atlantic hurricane season still expected to be strongest since 2012 Forecasters now expect 70-percent chance of 12–17 named storms AROUND NOAA // NOAA launches America’s first national water forecast model July warmer than average, year to date 3rd warmest for Lower 48 International report confirms Earth is hot and getting hotter
+Enter Search Terms July was hottest month on record for the globe Analysis confirms 15 consecutive months of record-breaking heat AROUND NOAA // Louisiana flooding: NOAA collecting aerial images for damage assessment NOAA launches America’s first national water forecast model Atlantic hurricane season still expected to be strongest since 2012
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-NOAA
+iStock image
