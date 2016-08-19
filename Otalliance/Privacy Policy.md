@@ -92,6 +92,10 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
+Thu, Sep 1, 2016 Fostering the Advancement of the Internet of Things
+
+The National Telecommunications and Information Administration (NTIA) will convene a workshop on behalf of the U.S. Department of Commerce’s Internet Policy Task Force and the Digital Economy Leadership Team on Fostering the Advancement of the Internet of Things.  Join OTA at this key event with the goal of advancing best practices and promoting innovation.  See OTA's IoT Trust Framework for additional information. (https://otalliance.org/IoT)
+
 Wed, Sep 7, 2016 FTC Fall Technology Series: Ransomware
 
 With alarming frequency, ransomware hackers are sneaking into consumer and business computers, encrypting files containing photos, documents and other important data, and then demanding a ransom in exchange for the key needed to decrypt the files. At times, these hackers pose as the FBI or other law enforcement officials and claim that the ransom is a “fine” for viewing illegal material and that failure to pay the “fine” will result in criminal prosecution.
@@ -103,10 +107,6 @@ Join over 1,600 business law professionals and grow your international network o
 Tue, Sep 13, 2016 Privacy. Security. Risk. 2016
 
 Innovative since Day 1, P.S.R. brings together two related fields—privacy and security—helping you see beyond your role in order to excel in your role. Because perspective is everything. Delivering the most thought-provoking speakers, sessions led by foremost experts and invaluable opportunities to connect and share ideas, P.S.R. gives you a world of new perspective. Don’t miss it. Training and Workshops September 13-14. Conference September 15-16.
-
-Thu, Sep 22, 2016 Security of Things Forum
-
-The market research firm IDC predicts that the number of Internet-connected endpoints will almost triple: surging from 10.3 billion in 2014 to 29.5 billion by the end of this decade. The changes wrought by this fast-emerging new computing environment are profound. But recent events prove that, in the rush to develop new Internet of Things products and services, security is falling by the wayside. SECoT Forum presents leaders in the areas of information security and privacy, developers of IoT devices and platforms, as well as investors, entrepreneurs and policy makers.
 
 More >>.
 
