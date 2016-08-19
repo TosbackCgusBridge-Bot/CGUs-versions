@@ -103,10 +103,10 @@ View more results
     
     *   Warbanner
     *   Slotomania
-    *   Car Eats Car
-    *   Hair Do Design
+    *   My Dolphin Show 4
     *   Summer Sports
-    *   King of Thieves
+    *   Asterix: The Mansions of the Gods
+    *   Cartoon Strike
     
     Mobile Apps More
     
@@ -259,7 +259,7 @@ View more results
     Best Games
     *   Valvoline Race of the Decades
     *   4x4 Soccer
-    *   Renegade Racing
+    *   Mad Day 2
     *   Bus Man Parking 3D
     *   ATV Destroyer
     *   FMX TeamSpotlight Car Eats Car 2: Mad Dreams
