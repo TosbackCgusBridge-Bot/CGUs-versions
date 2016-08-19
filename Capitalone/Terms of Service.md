@@ -22,6 +22,7 @@ Menu
         *   Redeem and Learn About Rewards
         *   Pay Your Bill
         *   Learn About CreditWise®
+        *   Explore Card Topics
     *   Bank Expand Bank Menu Personal Banking
         *   Bank Home
         *   Money Market Account
