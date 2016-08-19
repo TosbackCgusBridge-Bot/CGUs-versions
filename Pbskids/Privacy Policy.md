@@ -1,4 +1,4 @@
-Visit Your Profile logout _Sign In_ To PBS KIDS
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS Toggle message bar
 
 *   Apps
 *   Shop
