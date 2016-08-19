@@ -152,7 +152,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.TV Download Center
     *   Contact UsMLB.TV Student MLB.TV ST
 *   Fantasy Fantasy Fantasy
-    *   Fantasy Player Preview
     *   Fantasy Baseball 2016
     *   R.B.I. Baseball 16
     *   MLB.com Home Run Derby
