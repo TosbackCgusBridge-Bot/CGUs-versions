@@ -126,6 +126,7 @@ Legal Notices &. Trademarks
 *   Online Purchases and Auto-Renewal Terms and Conditions
 *   Legal Disclosures
 *   Terms of service: A360 and other web services
+*   Maintenance Plan, Subscription and Enterprise support terms and conditions
 
   Privacy Statement - UPDATED JULY 29, 2016
 
