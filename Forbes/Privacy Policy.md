@@ -1,7 +1,7 @@
 Log in with your social account: Or, you can log in or sign up using Forbes.
 
 *   Editors' Pick
-*   New Posts +1 posts this hour
+*   New Posts +2 posts this hour
 *   Most Popular Thiel Vs. Gawker
 *   Lists Top-Paid DJs
 *   Video Rio 2016
