@@ -207,7 +207,7 @@ Flipboard
 
 Youtube
 
-GET TEXT UPDATES\* Spam Control Text:   Please leave this field empty GET UPDATES Please provide a valid phone number
+GET TEXT UPDATES\* Please provide a valid phone number
 
 *   Our Work
     *   Where We Work
