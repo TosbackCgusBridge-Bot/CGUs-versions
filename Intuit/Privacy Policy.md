@@ -1,4 +1,4 @@
-15 3
+JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.8.0.0.130.0 162.211.64.106 15 3
 
 *   Find a store
 *   store ads
@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15263562105
+true true L15276733632
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Tue Aug 16 11:10:07 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Fri Aug 19 11:15:33 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,39 +52,47 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Uniform Flash Sale
+Rewards Members Shop &. Get a $10 Bonus Reward\*
 
-Today Online Only | 8/16 | Code: SAVING8
+\*Earn a $10 reward for $50 spent in store or online through 8/23/16. Limit 1. Redeemable through 10/16/16.
 
-Extra 25% Off\*
+Get Details Friday and Saturday Only Deals Starts Today!
 
-\*some exclusions apply
+In Store and Online | August 19-20
 
-Get Details Shop Girls Shop Boys Shop Juniors Shop Guys Buy 1 Get 1 for .01\* Arizona Apparel
+Shop Girls Shop Boys Shop Juniors Shop Guys $13 Boys' &. Girls' Arizona Denim
 
-Select styles, reg. $10-$50
+Select styles, reg. $24-$30
 
-Shop Guys Shop Boys Shop Girls Junors' Arizona Jeans
+$17 Juniors' &. Guys' Arizona Denim
 
-Select styles, reg. $42-$56
+Select styles, reg. $36-$50
 
-Shop Juniors' Arizona Jeans
-
-\*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
-
-      Nike Sale Up to 25% Off Nike for the Family
+Nike Sale Up to 25% Off Nike for the Family
 
 Select styles, Nike excluded from coupon. MSRP $44-$90
 
-Shop All Nike Shop Men Shop Women Shop Kids Home Sale 30 to 50% Off
+Shop All Nike Shop Men Shop Women Shop Kids Buy 1 Get 1 for .01\* Home Sale
 
-Select styles
+\*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
 
-Shop All Home Shop Comforters &. Bedding Sets Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses   Xersion 40 to 50% Off Xersion Activewear For The Family
+T-Fal®, Farberware®, Philippe Richard® or Cooks Open Stock Cookware
 
-Select styles
+Select styles, reg. $15-$100
 
-Shop Boys Shop Girls Shop Women Shop Men     Scouted by Sephora Meet some of our coolest brands. Explore the Brands: JCPenney | portraits
+Shop Cookware JCPenney Home Bath Towels or Bath Rugs
+
+Select styles, reg. $8-$70
+
+Shop Bath Towels and Rugs Bed Pillows
+
+Select styles, reg. $12-$170, excludes memory foam pillows
+
+Shop Bed Pillows Cooks Kitchen Electrics
+
+Select styles, reg. $20-$175, small appliances excluded from coupon
+
+Shop Cooks Kitchen Electrics Back-To-School Outfits you'll love for every day of the week. Shop Juniors Shop Guys Shop Boys Shop Girls Shop Gift Cards Scouted by Sephora Meet some of our coolest brands. Explore the Brands: JCPenney | portraits
 
 40% Off Portraits
 
@@ -96,9 +104,7 @@ Shop Clearance Now: JCP Salon Save on Chi Flat Irons
 
 Select styles
 
-Shop Now:
-
-Recommendations Discover handpicked items we think you'll love. sign in
+Shop Now: true
 
 get connected
 
