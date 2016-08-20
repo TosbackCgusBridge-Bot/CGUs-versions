@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Children Can Regrow Their Fingertips. How Cool Is That?**
+**Stephen Hawking Right Again?**
 
-**'Don't Ask': Can One Question Close the Wage Gap?**
+**Should the U.S. Let People Younger Than 35 Run for President?**
 
-**Contrails, Not Chemtrails, Say Scientists in New Study**
+**What Do Dogs Prefer: Food or Praise?**
 
 **See More Headlines »**
 
