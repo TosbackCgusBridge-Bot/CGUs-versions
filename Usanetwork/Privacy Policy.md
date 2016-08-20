@@ -55,7 +55,8 @@ Skip to main content
             3.  Universal Television Universal Television One of the largest and most successful television production companies in the U.S. Produces primetime series, late night and reality programs for a variety of platforms. Universal Television
         8.  International
             1.  CNBC International CNBC International The leading global broadcaster of live business and financial news and information, reporting directly from the major financial markets around the globe. CNBC International
-            2.  NBCUniversal International Television NBCUniversal International Television Brings together NBCUniversal International’s channels, distribution and production businesses people across the globe. The division includes Universal Networks International, International Television Distribution and International Television Production. NBCUniversal International Television
+            2.  hayu hayu hayu is the first all-reality subscription video-on-demand service of its kind – curated and fully integrated with social media – and available in the UK, Ireland &. Australia hayu
+            3.  NBCUniversal International Television NBCUniversal International Television Brings together NBCUniversal International’s channels, distribution and production businesses people across the globe. The division includes Universal Networks International, International Television Distribution and International Television Production. NBCUniversal International Television
 *   Search
 *   Twitter
 *   Facebook
@@ -119,6 +120,7 @@ Skip to main content
             
             *   INTERNATIONAL
                 *   CNBC International
+                *   hayu
                 *   NBCUniversal International Television
     *   Stay Up-To-Date
         *   Twitter
