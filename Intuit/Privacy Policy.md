@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.8
 *   customer service
     
 
-true true L15276733632
+true true C15221708199
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Fri Aug 19 11:15:33 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p01.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Sat Aug 20 11:15:30 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -56,7 +56,15 @@ Rewards Members Shop &. Get a $10 Bonus Reward\*
 
 \*Earn a $10 reward for $50 spent in store or online through 8/23/16. Limit 1. Redeemable through 10/16/16.
 
-Get Details Friday and Saturday Only Deals Starts Today!
+Get Details A Pop of Savings
+
+Today Online Only | August 20 | Code: SAVING23
+
+Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100 Or, Extra 15% Off Select Watches, Salon Products, Furniture, Mattresses, Custom Blinds &. Shades Plus Free Shipping Over $49\*
+
+Some exclusions apply
+
+Get Details\* Friday and Saturday Only Deals Last Day!
 
 In Store and Online | August 19-20
 
