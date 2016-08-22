@@ -1,4 +1,4 @@
-JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.8.0.0.130.0 162.211.64.106 15 3
+JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.8.0.0.130.0 66.77.4.228 15 3
 
 *   Find a store
 *   store ads
@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.8
 *   customer service
     
 
-true true C15221708199
+true true C15226132123
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p01.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Sat Aug 20 11:15:30 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Sun Aug 21 11:14:34 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,35 +52,41 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Rewards Members Shop &. Get a $10 Bonus Reward\*
+Here's The Deal! See Our Weekly Store Ad.
+
+Everything you need at great prices each week.
+
+View Store Ad Rewards Members Shop &. Get a $10 Bonus Reward\*
 
 \*Earn a $10 reward for $50 spent in store or online through 8/23/16. Limit 1. Redeemable through 10/16/16.
 
-Get Details A Pop of Savings
+Get Details Buy 1 Get 1 for .01\* Junors' Arizona Jeans
 
-Today Online Only | August 20 | Code: SAVING23
+Select styles, reg. $42-$56
 
-Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100 Or, Extra 15% Off Select Watches, Salon Products, Furniture, Mattresses, Custom Blinds &. Shades Plus Free Shipping Over $49\*
+Shop Juniors' Arizona Jeans
 
-Some exclusions apply
+\*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
 
-Get Details\* Friday and Saturday Only Deals Last Day!
+50-60% Off Arizona Apparel
 
-In Store and Online | August 19-20
+Select styles
 
-Shop Girls Shop Boys Shop Juniors Shop Guys $13 Boys' &. Girls' Arizona Denim
+Shop Guys Shop Boys Shop Girls       Levi's® Lowest Price of the Season 39.99 Guys' Levi's 511™ Slim Fit Jeans\*
 
-Select styles, reg. $24-$30
+Select styles, reg. 69.50
 
-$17 Juniors' &. Guys' Arizona Denim
+Shop Guys' Levi's 36.99 Levi's 524™ Skinny Jeans For Her
 
-Select styles, reg. $36-$50
+reg. 49.50
 
-Nike Sale Up to 25% Off Nike for the Family
+Shop Levi's For Her
 
-Select styles, Nike excluded from coupon. MSRP $44-$90
+Offers and coupons do not apply.
 
-Shop All Nike Shop Men Shop Women Shop Kids Buy 1 Get 1 for .01\* Home Sale
+\*Levi's® "Lowest Prices of the Season" refers to the time period through 9/5. Prices may be further reduced on items as a part of clearance in the future.
+
+    Back-To-School Outfits you'll love for every day of the week. Shop Back-To-School Shop Gift Cards Buy 1 Get 1 for .01\* Home Sale
 
 \*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
 
@@ -98,21 +104,27 @@ Select styles, reg. $12-$170, excludes memory foam pillows
 
 Shop Bed Pillows Cooks Kitchen Electrics
 
-Select styles, reg. $20-$175, small appliances excluded from coupon
+Select styles, reg. $20-$175. Electrics excluded from coupon offer.
 
-Shop Cooks Kitchen Electrics Back-To-School Outfits you'll love for every day of the week. Shop Juniors Shop Guys Shop Boys Shop Girls Shop Gift Cards Scouted by Sephora Meet some of our coolest brands. Explore the Brands: JCPenney | portraits
+Shop Cooks Kitchen Electrics Sephora Scouted by Sephora
 
-40% Off Portraits
+Meet some of our coolest brands.
 
-Get Details: Red Zone Clearance 50 to 70% Off Clearance
+Explore the Brands: JCPenney | portraits
 
-In Store and Online
+40% Off JCPenney Portraits
 
-Shop Clearance Now: JCP Salon Save on Chi Flat Irons
+3.99 Portrait Sheets
+
+Get Coupon: JCP Salon 30% Off Haircare Products
 
 Select styles
 
-Shop Now: true
+Shop Now: Red Zone Clearance 50 to 70% Off Clearance
+
+In Store and Online
+
+Shop Clearance Now: true
 
 get connected
 
