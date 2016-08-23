@@ -110,11 +110,11 @@ View more results
     
     Mobile Apps More
     
+    *   Mad Day 2
     *   Summer Sports
-    *   Hero Simulator: Idle Adventure
     *   Mad Truck Challenge: The Beginning
+    *   Hero Simulator: Idle Adventure
     *   My Dolphin Show 8
-    *   Soccer Simulator: Idle Tournament
     *   Trollface Quest TrollTube
     
     Specials
