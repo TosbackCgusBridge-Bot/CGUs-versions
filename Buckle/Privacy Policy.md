@@ -374,10 +374,10 @@ Privacy &. Security
 Buckle Information
 
 *   Team Highlights
-*   Snapchat
 *   Ratings &. Reviews
 *   Personal Shopping
 *   buckle SELECT
+*   Snapchat
 *   Store Locator
 *   Investor Information
 *   Buckle Outlet Stores
