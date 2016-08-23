@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Stephen Hawking Right Again?**
+**Hear and Now: Chemtrails, Canines and, Well, Venus**
 
-**Should the U.S. Let People Younger Than 35 Run for President?**
+**'An Emerging Public Health Concern': Your Local Trampoline Park**
 
-**What Do Dogs Prefer: Food or Praise?**
+**Plasma Rain, Plasma Rain: Fascinating New Footage from the Sun's Surface**
 
 **See More Headlines »**
 
