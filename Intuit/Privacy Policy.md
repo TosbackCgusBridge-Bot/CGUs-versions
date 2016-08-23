@@ -1,4 +1,4 @@
-JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.8.0.0.130.0 66.77.4.228 15 3
+JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.8.0.0.130.0 162.211.64.106 15 3
 
 *   Find a store
 *   store ads
@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.8
 *   customer service
     
 
-true true C15226132123
+true true C15229545015
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Sun Aug 21 11:14:34 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Mon Aug 22 11:15:34 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -60,19 +60,17 @@ View Store Ad Rewards Members Shop &. Get a $10 Bonus Reward\*
 
 \*Earn a $10 reward for $50 spent in store or online through 8/23/16. Limit 1. Redeemable through 10/16/16.
 
-Get Details Buy 1 Get 1 for .01\* Junors' Arizona Jeans
+Get Details 40 to 50% Off Shop Kids' Arizona Apparel Shop Total Girl Apparel
 
-Select styles, reg. $42-$56
+Select styles, reg. $10-$52
 
-Shop Juniors' Arizona Jeans
+Buy 1 Get 1 for .01\* Shop Juniors' Arizona Denim Shop Guys' Arizona Apparel
+
+Select styles, reg. $12-$50
 
 \*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
 
-50-60% Off Arizona Apparel
-
-Select styles
-
-Shop Guys Shop Boys Shop Girls       Levi's® Lowest Price of the Season 39.99 Guys' Levi's 511™ Slim Fit Jeans\*
+      Levi's® Lowest Price of the Season 39.99 Guys' Levi's 511™ Slim Fit Jeans\*
 
 Select styles, reg. 69.50
 
@@ -86,45 +84,19 @@ Offers and coupons do not apply.
 
 \*Levi's® "Lowest Prices of the Season" refers to the time period through 9/5. Prices may be further reduced on items as a part of clearance in the future.
 
-    Back-To-School Outfits you'll love for every day of the week. Shop Back-To-School Shop Gift Cards Buy 1 Get 1 for .01\* Home Sale
+    Back-To-School Outfits you'll love for every day of the week. Shop Back-To-School Shop Gift Cards Sephora Shop New Arrivals: JCPenney | optical Kids' Glasses $39.99, one pair Kids' Glasses $69.99, two pairs
 
-\*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
+Ends September 30
 
-T-Fal®, Farberware®, Philippe Richard® or Cooks Open Stock Cookware
-
-Select styles, reg. $15-$100
-
-Shop Cookware JCPenney Home Bath Towels or Bath Rugs
-
-Select styles, reg. $8-$70
-
-Shop Bath Towels and Rugs Bed Pillows
-
-Select styles, reg. $12-$170, excludes memory foam pillows
-
-Shop Bed Pillows Cooks Kitchen Electrics
-
-Select styles, reg. $20-$175. Electrics excluded from coupon offer.
-
-Shop Cooks Kitchen Electrics Sephora Scouted by Sephora
-
-Meet some of our coolest brands.
-
-Explore the Brands: JCPenney | portraits
-
-40% Off JCPenney Portraits
-
-3.99 Portrait Sheets
-
-Get Coupon: JCP Salon 30% Off Haircare Products
-
-Select styles
-
-Shop Now: Red Zone Clearance 50 to 70% Off Clearance
+Get Details: Red Zone Clearance 50 to 70% Off Clearance
 
 In Store and Online
 
-Shop Clearance Now: true
+Shop Clearance Now: JCP Salon 30% Off Haircare Products
+
+Select styles
+
+Shop Now: true
 
 get connected
 
