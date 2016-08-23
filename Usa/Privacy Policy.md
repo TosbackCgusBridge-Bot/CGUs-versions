@@ -125,8 +125,6 @@ Legal Notices &. Trademarks
 *   Autodesk Terms and Conditions Governing the Provision of Consulting Services
 *   Online Purchases and Auto-Renewal Terms and Conditions
 *   Legal Disclosures
-*   Terms of service: A360 and other web services
-*   Maintenance Plan, Subscription and Enterprise support terms and conditions
 
   Autodesk Privacy Statement
 
