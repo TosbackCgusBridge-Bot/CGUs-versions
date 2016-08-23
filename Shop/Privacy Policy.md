@@ -234,7 +234,6 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Legal Information
     *   Privacy
     *   Jobs at Lenovo
-    *   Articles
 *   Products &. Services
     *   1.  Laptops &. Ultrabooks
             1.  View all laptops
