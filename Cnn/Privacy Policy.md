@@ -73,11 +73,9 @@ Travel
 
 Features
 
-*   Culinary Journeys
 *   Freedom Project
 *   Impact Your World
 *   Inside Africa
-*   Silk Road
 *   2 degrees
 *   All Features
 
@@ -93,10 +91,10 @@ More…
 
 *   Weather
 *   CNN Heroes
-*   CNN Profiles A-Z
-*   CNN Leadership
-*   CNN Pressroom
-*   CNN Partner sites
+*   CNN Profiles
+*   Leadership
+*   Pressroom
+*   Partner sites
 *   iReport
 
 U.S. International Español Arabic
@@ -203,13 +201,11 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
     6.  Luxury
 
 1.  Features
-    1.  Culinary Journeys
-    2.  Freedom Project
-    3.  Impact Your World
-    4.  Inside Africa
-    5.  Silk Road
-    6.  2 degrees
-    7.  All Features
+    1.  Freedom Project
+    2.  Impact Your World
+    3.  Inside Africa
+    4.  2 degrees
+    5.  All Features
 
 1.  Video
     1.  Video news
@@ -221,10 +217,10 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 1.  More…
     1.  Weather
     2.  CNN Heroes
-    3.  CNN Profiles A-Z
-    4.  CNN Leadership
-    5.  CNN Pressroom
-    6.  CNN Partner sites
+    3.  CNN Profiles
+    4.  Leadership
+    5.  Pressroom
+    6.  Partner sites
     7.  iReport
 
 International Edition
