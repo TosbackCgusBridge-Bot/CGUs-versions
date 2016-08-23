@@ -86,13 +86,11 @@ Customers
   
 Get Pricing ​
 
-Thank you! More great content headed your way!
+Thank you for subscribing to our newsletter. More great content headed your way!
 
 Sorry, there was a problem with your email address. Please try again.
 
-Sign Up for the Latest Recruitment News, Tips and Advice
-
-Email Comments
+Sign Up for the Latest Recruitment News, Tips and Advice Email Comments Subscribe
 
 *   Contact Us
 *   About Us
