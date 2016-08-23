@@ -13,7 +13,7 @@ VH1 Menu VH1
     *   Amber Rose Show
     *   Dating Naked
     *   Hit The Floor
-    *   Love &. Hip Hop AtlantaSee all Shows
+    *   RuPaul's All Stars Drag RaceSee all Shows
 *   Pop Culture
     *   Music
     *   Celebrity
@@ -27,10 +27,9 @@ VH1 Menu VH1
     *   Relationships
     *   VideoSee all Life
 *   TV Provider Sign Out
-
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Hollywood Basketball Wives LA T.I &. Tiny: The Family Hustle VH1 Live! Amber Rose Show Dating Naked Hit The Floor Love &. Hip Hop Atlanta Shaunie's Home Court Hip Hop Honors Black Ink Crew Love &. Hip Hop See all Shows
+*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Hollywood Basketball Wives LA T.I &. Tiny: The Family Hustle VH1 Live! Amber Rose Show Dating Naked Hit The Floor RuPaul's All Stars Drag Race Love &. Hip Hop Atlanta Shaunie's Home Court Black Ink Crew Hip Hop Honors See all Shows
 *   Pop Culture Music Celebrity Movies TV Around The Web Video See all Pop Culture
 *   Life Beauty &. Health Style Relationships Video See all Life
 *   facebook twitter tumblr
