@@ -12,7 +12,6 @@ For the purposes of this Privacy Statement, "Business partner" means any subcont
 *   Information We Collect
 *   How We Use Personal Information
 *   Disclosing Personal Information
-*   E.U. and Swiss Safe Harbor
 *   How You Can Access Your Information
 *   Selecting Your Communication Preferences and Opting Out of Marketing
 *   How We Secure Your Personal Information
@@ -62,9 +61,7 @@ In addition, Dell may share your Personal Information with participants in our s
 We may also disclose your Personal Information in connection with law enforcement, fraud prevention or other legal action. as required by law or regulation. if Dell (or a part of Dell) is sold or merges with another company. or if Dell reasonably believes it is necessary to protect Dell, its customers or the public.  
   
 Except as described above, we will not disclose your Personal Information to third parties for their own marketing purposes without your consent.  
-E.U. and Swiss Safe HarborIn addition to Dell’s other data protection measures, Dell Cloud Clinical Archive (DCCA) services comply with the U.S. – E.U. Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries. For provision of DCCA services to its clients, Dell has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the Dell Cloud Clinical Archive Services certification, please visit http://www.export.gov/safeharbor.  
-  
-TRUSTe serves as an independent third-party recourse to provide localized dispute resolution of consumer complaints about DCCA online data collection, as required for Safe Harbor compliance. Should you have any questions about DCCA’s Safe Harbor status, please contact us at privacy@Dell.com. If you are not satisfied with our response, you can contact TRUSTe here. To learn more about the Safe Harbor program, and to view the Dell Cloud Clinical Archive Services certification, please visit www.export.gov/safeharbor. How You Can Access Your InformationDell wants to help you keep your Personal Information accurate. To view or edit your Personal Information that has been stored online in your Dell account, please visit the My Account or Premier Account sections of the Dell.com website. For the security of your account, you will be required to sign in with your login ID and password. If you have any questions about the type of personal data we hold about you or if you wish to request deletion of personal data we hold about you, please send a written request to privacy@dell.com or the postal address provided at the bottom of this Privacy Statement. Selecting Your Communication Preferences and Opting Out of MarketingYou may choose to receive or not receive marketing communications from Dell by indicating your preferences. Opportunities to select your preferences include the following:
+How You Can Access Your InformationDell wants to help you keep your Personal Information accurate. To view or edit your Personal Information that has been stored online in your Dell account, please visit the My Account or Premier Account sections of the Dell.com website. For the security of your account, you will be required to sign in with your login ID and password. If you have any questions about the type of personal data we hold about you or if you wish to request deletion of personal data we hold about you, please send a written request to privacy@dell.com or the postal address provided at the bottom of this Privacy Statement. Selecting Your Communication Preferences and Opting Out of MarketingYou may choose to receive or not receive marketing communications from Dell by indicating your preferences. Opportunities to select your preferences include the following:
 
 *   The My Account and Premier Account sections on Dell.com allow you to choose whether you wish to receive marketing communications from Dell, and to subscribe or unsubscribe to newsletters about our products and services. and
 *   At any point you can also visit our List Removal Page and submit a request to be removed from our advertising and marketing lists (catalogs, telephone, faxes and email).
@@ -132,4 +129,4 @@ USA
 
 You may also email us at privacy@dell.com.
 
-**Effective Date: July 17, 2015.**
+**Effective Date: August 22, 2016.**
