@@ -1,10 +1,10 @@
 Log in with your social account: Or, you can log in or sign up using Forbes.
 
-*   Editors' Pick
-*   New Posts +3 posts this hour
+*   Editors' Picks
+*   New Posts +1 posts this hour
 *   Most Popular Thiel Vs. Gawker
-*   Lists Top-Paid DJs
-*   Video Rio 2016
+*   Lists Top-Paid Actresses
+*   Video Dangerous Jobs
 
 Connect | Sign up | Log in 2 FREE Issues Of Forbes Forbes.com Privacy Statement
 
