@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Sanctua
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms July was hottest month on record for the globe Analysis confirms 15 consecutive months of record-breaking heat AROUND NOAA // Louisiana flooding: NOAA collecting aerial images for damage assessment NOAA launches America’s first national water forecast model Atlantic hurricane season still expected to be strongest since 2012
+Enter Search Terms July was hottest month on record for the globe Analysis confirms 15 consecutive months of record-breaking heat AROUND NOAA // The peak of the hurricane season – why now? A first look at two WWII Battle of the Atlantic shipwrecks NOAA launches America’s first national water forecast model
 
 *   About our agency
 *   News and features
