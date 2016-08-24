@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Hear and Now: Chemtrails, Canines and, Well, Venus**
+**Got a Backup Plan? Think About Ditching It**
 
-**'An Emerging Public Health Concern': Your Local Trampoline Park**
+**How Much Pee Is in Your Pool?**
 
-**Plasma Rain, Plasma Rain: Fascinating New Footage from the Sun's Surface**
+**Today Is Equal Pay Day for Black Women in the U.S.**
 
 **See More Headlines »**
 
