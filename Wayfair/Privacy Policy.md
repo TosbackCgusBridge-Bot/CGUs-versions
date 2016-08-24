@@ -20,18 +20,20 @@ Contents
 
 Privacy Policy
 
+Last Updated: August 18, 2016
+
 This Privacy Policy ("Privacy Policy") is designed to help you understand how Wayfair LLC and its affiliated brands, including Wayfair.com, Joss &. Main, DwellStudio, AllModern, Birch Lane and Wayfair Supply ( "Wayfair", "we" or "us" ) collects and processes the information that you share when you use this and any of our websites (together, the "Site") and our mobile application (the "App," and together with the Site, the "Service").
 
 Before submitting information to the Service, please review this Privacy Policy carefully. By using or accessing the Service, you accept the practices described in this Privacy Policy. If you prefer that we not collect and process information about you, please do not provide it to us and do not access the Service.
 
-We do not knowingly collect any Personal Information from children under 13. Where any such information is inadvertently collected, we will delete the information as soon as possible. If you believe a child under 13 has provided us with Personal Information, please contact us here.
+We do not knowingly collect any Personal Information from children under 13 without prior verifiable parental consent. If Wayfair learns that a child under the age of 13 has submitted Personal Information (defined below) online without parental consent, we will take all reasonable measures to delete the information as soon as possible and to not use such information for any purpose, except where necessary to protect the safety of the child or others as required or allowed by law. If you believe a child under 13 has provided us with Personal Information, please contact us here.
 
 Information We Collect
 
-We collect the information that you share with us, including:
+We collect the following information, including:
 
-*   **Personal Information:** "Personal Information" is information that can personally identify you, such as your name, email address and telephone number. We maintain one or more databases to store your Personal Information and may retain it as reasonably required to serve you and operate the Service. Personal Information that we collect depends on how you use the Service. Providing your Personal Information to us is your choice. If you choose not to provide us with certain Personal Information, you may not be able to take advantage of certain features of the Service. and
-*   **General Information:** When you visit the Service, we may collect various categories of general non-personal information ("General Information"). General Information includes browser information, operating system information, device information, TCP-IP address and the date, time, length of stay and specific pages accessed during your visits to the Service.
+*   **Personal Information You Share With Us:** "Personal Information" is information that can personally identify you, such as your name, email address and telephone number. We maintain one or more databases to store your Personal Information and may retain it as reasonably required to serve you and operate the Service. Personal Information that we collect depends on how you use the Service. Providing your Personal Information to us is your choice. If you choose not to provide us with certain Personal Information, you may not be able to take advantage of certain features of the Service. and
+*   **Information We Collect Automatically:** When you visit the Service, we may automatically collect identifier and other technical information, such as your browser information, operating system information, device information, TCP-IP address and the date, time, length of stay and specific pages accessed during your visits to the Service (“Online Information”).
 
 Registering for the Service
 
@@ -43,13 +45,13 @@ You may review, update, or modify your account information, including profile an
 
 Online Identification Tools
 
-Like many website providers, we use your IP address to help diagnose problems with our server and provide a better web experience. Your IP address is used to help identify you and your shopping cart and gather General Information.
+Like many website providers, we use your IP address to help diagnose problems with our server and provide a better web experience. Your IP address is used to help identify you and your shopping cart and gather Online Information.
 
-We use web beacons (a.k.a. clear GIFs, web bugs or pixel tags) to personalize your experience of the Service and to generate information about Service traffic and trends. Web beacons collect General Information, such as the type of browser that you use and your IP address. Web beacons may be used alone or in conjunction with cookies. when web beacons are used with cookies, they may link General Information to Personal Information. Web beacons usually are not visible to you.
+We use web beacons (a.k.a. clear GIFs, web bugs or pixel tags) to personalize your experience of the Service and to generate information about Service traffic and trends. Web beacons collect Online Information, such as the type of browser that you use and your IP address. Web beacons may be used alone or in conjunction with cookies. when web beacons are used with cookies, they may link Online Information to other Personal Information that you have provided to us. Web beacons usually are not visible to you.
 
 We also use cookies to keep track of your shopping cart and for other purposes like personalizing the Service. A cookie is a small file stored by your internet browser on your computer. A "session cookie" stores temporary information that is erased when you close your web browser or turn off your computer. A "persistent cookie" enables the Service to recognize you when you return to it and remains stored on your computer until you delete it. Your web browser is usually set up to initially accept cookies. If you set your browser to reject cookies, the Service will not be able to recognize your account or to personalize the content that you see. A "flash cookie," also known as a "local storage object," is not stored in your browser, unlike other cookies, and instead placed on your computer by websites that use Adobe Flash. You may disable flash cookies via your Flash Player preferences or by using third-party software. We do not and cannot use cookies to gather other information that may be stored on your hard drive.
 
-Third-party advertising management partners may help us display tailored content to our customers’ interests and serve interest-based advertising on our behalf. Wayfair and our advertising management partners may use cookies, web beacons and other tools to collect General Information about your activities on the Service, to deliver advertising on the Service or elsewhere on the Internet based upon your interests that may be more relevant to you and to measure effectiveness of our marketing efforts and the Service.
+Third-party advertising management partners may help us display tailored content to our customers’ interests and serve interest-based advertising on our behalf. Wayfair and our advertising management partners may use cookies, web beacons and other tools to collect Online Information about your activities on the Service, to deliver advertising on the Service or elsewhere on the Internet based upon your interests that may be more relevant to you and to measure effectiveness of our marketing efforts and the Service. In particular, Wayfair may use Google Analytics to monitor activity on the Site and assist with advertising. To learn how Google Analytics collects and processes data, please visit: “How Google uses data when you use our partners’ sites or apps” located at  www.google.com/policies/privacy/partners.
 
 You may "opt out" of receiving some interest-based advertisements by following the instructions at www.aboutads.info/choices or www.networkadvertising.org/choices/. (An "opt-out cookie" will be placed on your computer indicating that you do not want to receive interest-based advertisements. If you delete cookies on your computer, you will need to opt-out again.) You may opt out of certain interest-based advertisements that use Wayfair.com's cookie by clicking here. You may opt out of certain interest-based advertisements that use AllModern.com's cookie by clicking here. You may opt out of certain interest-based advertisements that use JossandMain.com's cookie by clicking here. You may opt out of certain interest-based advertisements that use BirchLane.com's cookie by clicking here. To learn more about cookies in general, including how to manage and delete cookies, visit www.allaboutcookies.org.
 
@@ -77,22 +79,22 @@ How Your Personal Information is Used, Processed and Disclosed
 
 Except as specified in this Privacy Policy, Wayfair does not rent, sell, trade or disclose your Personal Information to third parties without your prior consent. Wayfair may, however, use, process and disclose Personal Information to:
 
-1.  send information to customers about orders;
-2.  fulfill your orders;
-3.  process and collect your payments;
-4.  administer "Wayfair Rewards" and other customer loyalty programs;
-5.  send you promotional marketing material about Wayfair’s company and partners;
-6.  produce content for our activity feed feature;
-7.  customize, analyze, adjust and improve the Service to better meet your needs;
-8.  execute a sweepstakes, contest or other promotion;
-9.  enforce Wayfair’s agreements with you;
-10.  provide you with important administrative information regarding the Service, such as changes to this Privacy Policy and our Terms of Use, rewards and loyalty programs and other policies;
-11.  prevent fraud and other prohibited or illegal activities. and
-12.  comply with potential requests of law enforcement or data protection agencies.
+*   send information to customers about orders;
+*   fulfill your orders;
+*   process and collect your payments;
+*   administer "Wayfair Rewards" and other customer loyalty programs;
+*   send you promotional marketing material about Wayfair’s company and partners;
+*   produce content for our activity feed feature;
+*   customize, analyze, adjust and improve the Service to better meet your needs;
+*   execute a sweepstakes, contest or other promotion;
+*   enforce Wayfair’s agreements with you;
+*   provide you with important administrative information regarding the Service, such as changes to this Privacy Policy and our Terms of Use, rewards and loyalty programs and other policies;
+*   prevent fraud and other prohibited or illegal activities. and
+*   comply with potential requests of law enforcement or data protection agencies.
 
-When possible, General Information may be combined and/or linked to Personal Information, in accordance with the purposes specified above.
+When possible, Online Information may be combined and/or linked to other Personal Information that you provided to us, in accordance with the purposes specified above.
 
-We may use your General Information and deidentified Personal Information to prepare anonymized, aggregated data about our users ("Anonymized Data"). We may provide third parties with Anonymized Data in describing the Service to prospective partners, advertisers and other third parties, and for all other lawful purposes. As communicated to third parties, the Anonymized Data does not include any information permitting the recipient to identify, locate or contact you.
+We may use your deidentified Personal Information and Online Information to prepare anonymized, aggregated data about our users ("Anonymized Data"). We may provide third parties with Anonymized Data in describing the Service to prospective partners, advertisers and other third parties, and for all other lawful purposes. As communicated to third parties, the Anonymized Data does not include any information permitting the recipient to identify, locate or contact you.
 
 Third Party Service Providers
 
@@ -100,7 +102,7 @@ Wayfair employs other companies and individuals to perform functions on our beha
 
 Acquisition of Wayfair
 
-Information about customers is considered an asset of Wayfair and, as such, may be transferred to another company as part of a merger or acquisition.
+In the event that a store, division or part or all of Wayfair (or the assets of a Wayfair entity) is bought, sold or otherwise transferred, or is in the process of a potential transaction, customer information will likely be shared for evaluation purposes and included among the transferred business assets.
 
 Information Sharing for Marketing Purposes
 
@@ -134,9 +136,13 @@ You may also instruct Wayfair to stop sending you emails, newsletters or other i
 
 Information for Visitors From California and Outside of the United States
 
-California Residents
+Your California Privacy Rights
 
-California law permits individuals who provide Wayfair with Personal Information and who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To request this information, please contact us here.
+This privacy policy describes how we may share your information, including for marketing purposes. California residents are entitled to request and obtain from Wayfair once per calendar year information about any of your personal information shared with third parties for their own direct marketing purposes, including the categories of information and the names and addresses of those businesses with which we have shared such information. To request this information and for any other questions about our privacy practices and compliance with California law, please contact us here.
+
+Right to Removal of Posted Information--California Minors
+
+If you are under 18 years of age, reside in California, and have a registered account with Wayfair, you have the right to request removal of unwanted information that you publicly post on the Service. To request removal of such information, you can contact Wayfair as provided below. Upon receiving such a request, Wayfair will make sure that the information is not publicly available on the Service, but the information may not be completely or comprehensively removed from our systems and databases.
 
 Visitors from Outside of the United States
 
@@ -167,7 +173,7 @@ Boston, MA 02116
 
 Terms of Use
 
-Last Updated: July 20, 2015
+Last Updated: August 18, 2016
 
 Welcome to Wayfair!
 
@@ -177,7 +183,7 @@ PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THE SITES. These Terms of 
 
 By using the Sites, you affirm that you are able and legally competent to agree to and comply with these Terms of Use. If you do not agree to these Terms of Use or if you are not legally competent to agree to them, then you may not use the Sites.
 
-Please note that these Terms of Use contain provisions that govern the resolution of claims between Wayfair and you. Please see the Indemnity, Disclaimer of Warranties, Limitation of Liability and Legal Disputes sections for complete details.
+Please note that these Terms of Use contain provisions that govern the resolution of claims between Wayfair and you. Please see the Legal Disputes section for complete details.
 
 Privacy &. Security
 
@@ -211,9 +217,9 @@ You are solely responsible for your own User Content and the consequences of pos
 
 By submitting User Content, you represent and warrant to Wayfair that: (i) your User Content does not violate any copyright, trademark, trade secret, patent or other intellectual property right, any right of privacy or publicity of any third party or any applicable law, rule or regulation, (ii) you own or have the legal right to use and authorize Wayfair to use your User Content, including written consent to use of any product or the name, voice, likeness or any other applicable personal rights of each identifiable person featured or referenced in your User Content and (iii) your User Content does not violate Wayfair's _Acceptable Use Policy_ set forth below.
 
-As between you and Wayfair, you will retain all of your ownership rights in and to your User Content. By submitting User Content to Wayfair, you hereby grant to Wayfair a perpetual, worldwide, non-exclusive, irrevocable, royalty-free, sublicensable (through multiple tiers) and transferable right and license to use, reproduce, distribute, edit, modify, translate, reformat, prepare derivative works based upon, display publicly, perform publicly and otherwise exploit (including but not limited to over the Internet, broadcast television or any other uses or media) your User Content, in whole or in part, including future rights that Wayfair (or its successor) may otherwise become entitled to that do not yet exist, as well as new uses, media, means and forms of exploitation throughout the universe exploiting current or future technology yet to be developed to the maximum extent permitted by applicable law. You also hereby grant each user of the Sites a non-exclusive license to access your User Content through the Sites and to use, access, watch, reproduce, distribute, transmit, forward, display and perform such User Content in whole or in part, to the extent permitted by the Sites under these Terms of Use.
+As between you and Wayfair, you will retain all of your ownership rights in and to your User Content. By submitting User Content to Wayfair, you hereby grant to Wayfair a perpetual, worldwide, non-exclusive, irrevocable, royalty-free, sublicensable (through multiple tiers) and transferable right and license to use, reproduce, distribute, edit, modify, translate, reformat, prepare derivative works based upon, display publicly, perform publicly and otherwise exploit (including but not limited to over the Internet, broadcast television or any other uses or media) your User Content, in whole or in part, including future rights that Wayfair (or its successor) may otherwise become entitled to that do not yet exist, as well as new uses, media, means and forms of exploitation throughout the universe exploiting current or future technology yet to be developed. You also hereby grant each user of the Sites a non-exclusive license to access your User Content through the Sites and to use, access, watch, reproduce, distribute, transmit, forward, display and perform such User Content in whole or in part, to the extent permitted by the Sites under these Terms of Use.
 
-Wayfair does not endorse any User Content or any opinion, recommendation, or advice expressed therein. Wayfair reserves the right but is not obligated to monitor User Content or other content sent to or through the Sites. **Wayfair has the right to refuse, remove or delete any User Content and/or to terminate any user's access to the Sites if Wayfair determines, in its sole and absolute discretion, that such User Content or user violates or has violated these Terms of Use.** Wayfair takes no responsibility for and expressly disclaims any and all liability in connection with User Content.
+Wayfair does not endorse any User Content or any opinion, recommendation, or advice expressed therein. Wayfair reserves the right but is not obligated to monitor User Content or other content sent to or through the Sites. **Wayfair has the right to refuse, remove or delete any User Content and/or to terminate any user's access to the Sites if Wayfair determines, in its sole and absolute discretion, that such User Content or user violates or has violated these Terms of Use.** Wayfair takes no responsibility for User Content.
 
 Acceptable Use Policy
 
@@ -239,21 +245,9 @@ The Sites may contain links to third-party websites ("**Other Sites**") that are
 
 Mobile Devices and Mobile Applications
 
-If you use a mobile device to access pages of the Sites optimized for viewing via a mobile device, opt in to receive SMS (text messages) from Wayfair (as/when available) or using a mobile application the following additional terms and conditions ("**Mobile Terms**") also apply to you. Your access to the Sites via your mobile device or use of a mobile application confirms your agreement to these Mobile Terms, as well as the rest of the Terms of Use.
+If you use a mobile device to access pages of the Sites optimized for mobile-viewing, opt in to receive SMS (text messages) from Wayfair (as/when available), or use a mobile application, the following additional terms and conditions ("**Mobile Terms**") also apply to you. Your access to the Sites via your mobile device or use of a mobile application confirms your agreement to these Mobile Terms, as well as the rest of the Terms of Use.
 
-You agree that you are solely responsible for all message and data charges that apply to use of your mobile device to access the Sites or use of a mobile application. All such charges are billed by and payable to your mobile service provider. Please contact your participating mobile service provider for pricing plans, participation status and details. You understand that wireless through Wi-Fi or a participating mobile service provider may not be available in all areas at all times and may be affected by product, software, coverage or other service changes made by your mobile service provider or otherwise. Additional terms and conditions may apply to your use of a mobile application, based on the type of mobile device on which you install and use the mobile application.
-
-Wayfair Text Notifications: Terms &. Conditions
-
-By subscribing to Wayfair Text Notifications, you will receive notifications for shipment and delivery status for your packages and assistance such as re-setting passwords and mobile application download via text message. SMS frequency is based on your shipping and order activity on Wayfair LLC affiliated brands: Wayfair.com, Joss &. Main, DwellStudio, AllModern, Birch Lane and Wayfair Supply. Text messages will be sent between 7 AM to 11 PM based off the billing ZIP code time-zone after you complete the sign up process.
-
-*   After submitting your phone number, a confirmation message will be sent to your mobile device from 65399. You must reply YES to complete subscription.
-*   You may opt out of Wayfair Text Notifications at any time by texting STOP to 65399. If you cancel your subscription, a final text message will be sent confirming that you have unsubscribed. No additional text messages will be sent unless you re-activate your subscription. You may contact service@wayfair.com for additional assistance.
-*   For assistance, text HELP to 65399. We will respond with instructions as well as how to unsubscribe.
-
-Standard message and data rates may apply, including additional charges when roaming. Please contact your wireless carrier with any questions regarding SMS pricing details.
-
-Supported carriers: AT&T, Boost Mobile, T-Mobile, Metro PCS, Verizon Wireless, Sprint, U.S. Cellular, NTelos, Cricket &. Virgin Mobile. T-Mobile is not liable for delayed or undelivered messages. View Privacy Policy.
+By opting in, you agree to receive promotional SMS text messages on your mobile device. Your consent is not required as a condition of purchasing any goods or services from Wayfair. By agreeing to receive SMS messages from Wayfair, you certify that you are over 18 years of age and (a) you are the mobile account holder or (b) you have the account holder’s permission to enroll the designated mobile phone number and can incur any mobile message or data charges. You agree that you are solely responsible for all message and data charges that apply to use of your mobile device to access the Sites or use of a mobile application. All such charges are billed by and payable to your mobile service provider. Please contact your participating mobile service provider for pricing plans, participation status and details. You understand that wireless through Wi-Fi or a participating mobile service provider may not be available in all areas at all times and may be affected by product, software, coverage or other service changes made by your mobile service provider or otherwise. Additional terms and conditions may apply to your use of a mobile application, based on the type of mobile device on which you install and use the mobile application.
 
 Notice to California Residents
 
@@ -265,29 +259,13 @@ Communications with Wayfair
 
 For all communications made to or with Wayfair, including but not limited to feedback, questions, comments, suggestions and the like: (i) you will have no right to confidentiality in your communications and Wayfair will have no obligation to protect your communications from disclosure. (ii) Wayfair will be free to reproduce, use, disclose and distribute your communications to others without limitation. and (iii) Wayfair will be free to use any ideas, concepts, know-how, content or techniques contained in your communications for any purpose whatsoever, including, but not limited to, the development, production and marketing of products and services that incorporate such information.
 
-Indemnity
-
-You agree to indemnify and hold Wayfair and its agents and licensors harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of (i) your use of the Sites, including any User Content you submit, post to or transmit through the Sites, (ii) your violation of these Terms of Use or (iii) your violation of any rights of another user.
-
-Disclaimer of Warranties
-
-Wayfair intends for the information and data contained in the Sites to be accurate and reliable but since the information and data have been compiled from a variety of sources, they are provided 'AS IS' and "AS AVAILABLE". You expressly agree that your use of the Sites and any information contained therein is at your sole risk. Accordingly, to the extent permitted by applicable law, Wayfair EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, ACCURACY, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES THAT MAY ARISE FROM COURSE OF DEALING, COURSE OF PERFORMANCE OR USAGE OF TRADE. Some jurisdictions do not allow the disclaimer of warranties so such disclaimers may not apply to you.
-
-Limitation of Liability
-
-IN NO EVENT WILL Wayfair OR ITS OFFICERS, MANAGERS, MEMBERS, EMPLOYEES, AGENTS, SUCCESSORS, SUBSIDIARIES, DISTRIBUTORS, AFFILIATES OR THIRD PARTIES PROVIDING INFORMATION ON THIS SITE OR VIA OTHER CHANNELS, INCLUDING BUT NOT LIMITED TO PHONE AND EMAIL, BE LIABLE TO ANY USER OF THE SITES OR ANY OTHER PERSON OR ENTITY FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, CONSEQUENTIAL OR EXEMPLARY DAMAGES (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA OR LOSS OF USE) ARISING OUT OF THE USE OR INABILITY TO USE THE SITES OR ANY INFORMATION CONTAINED THEREIN, INCLUDING USER CONTENT, WHETHER BASED UPON WARRANTY, CONTRACT, TORT, OR OTHERWISE, EVEN IF Wayfair HAS BEEN ADVISED OF OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH DAMAGES OR LOSSES.
-
-You hereby acknowledge that the preceding limitation on liability will apply to all content, merchandise and services available through the Sites or other channels. Because some jurisdictions do not allow the exclusion or limitation of liability for consequential or incidental damages, in such jurisdictions liability is limited to the fullest extent permitted by law.
-
-Regardless of the previous paragraphs, if Wayfair is found to be liable, our liability to you or to any third party is limited to the greater of (a) the amount in dispute not to exceed the total amount which you paid to us in the twelve (12) months prior to the action giving rise to the liability or (b) $100.
-
 Legal Disputes
 
 YOU AND Wayfair AGREE TO GIVE UP ANY RIGHTS TO LITIGATE CLAIMS IN A COURT OR BEFORE A JURY OR TO PARTICIPATE IN A CLASS ACTION OR REPRESENTATIVE ACTION WITH RESPECT TO A CLAIM. OTHER RIGHTS THAT YOU WOULD HAVE IF YOU WENT TO COURT, SUCH AS ACCESS TO DISCOVERY, ALSO MAY BE UNAVAILABLE OR LIMITED IN ARBITRATION.
 
 Any dispute between you and Wayfair, its agents, employees, officers, directors, principals, successors, assigns, subsidiaries or affiliates (collectively for purposes of this section, '**Wayfair**') arising from or relating to these Terms of Use and their interpretation or the breach, termination or validity thereof, the relationships which result from these Terms of Use, including disputes about the validity, scope or enforceability of this arbitration provision (collectively, "**Covered Disputes**") will be settled by binding arbitration administered by the American Arbitration Association (AAA). Prior to initiating any arbitration, the initiating party will give the other party at least 60-days' advanced written notice of its intent to file for arbitration. Wayfair will provide such notice by e-mail to your e-mail address on file with Wayfair and you must provide such notice by e-mail to legal@wayfair.com.
 
-During such 60-day notice period, the parties will endeavor to settle amicably by mutual discussions any Covered Disputes. Failing such amicable settlement and expiration of the notice period, either party may initiate arbitration. The arbitrator will have the power to grant whatever relief would be available in court under law or in equity and any award of the arbitrator(s) will be final and binding on each of the parties and may be entered as a judgment in any court of competent jurisdiction. Arbitrator will apply applicable law and the provisions of these Terms of Use and the failure to do so will be deemed an excess of arbitral authority and grounds for judicial review. Wayfair and you agree that any Covered Dispute hereunder will be submitted to arbitration on an individual basis only. Neither Wayfair nor you are entitled to arbitrate any Covered Dispute as a class, representative or private attorney action and the arbitrator(s) will have no authority to proceed on a class, representative or private attorney general basis. If any provision of the agreement to arbitrate in this section is found unenforceable, the unenforceable provision will be severed and the remaining arbitration terms will be enforced (but in no case will there be a class, representative or private attorney general arbitration). Regardless of any statute or law to the contrary, notice on any claim arising from or related to these Terms of Use must be made within one (1) year after such claim arose or be forever barred. For purposes of this section, these Terms of Use and related transactions will be subject to and governed by the Federal Arbitration Act, 9 U.S.C. sec. 1-16 (FAA).
+During such 60-day notice period, the parties will endeavor to settle amicably by mutual discussions any Covered Disputes. Failing such amicable settlement and expiration of the notice period, either party may initiate arbitration. The arbitrator will have the power to grant whatever relief would be available in court under law or in equity and any award of the arbitrator(s) will be final and binding on each of the parties and may be entered as a judgment in any court of competent jurisdiction. Arbitrator will apply applicable law and the provisions of these Terms of Use and the failure to do so will be deemed an excess of arbitral authority and grounds for judicial review. Wayfair and you agree that any Covered Dispute hereunder will be submitted to arbitration on an individual basis only. Neither Wayfair nor you are entitled to arbitrate any Covered Dispute as a class, representative or private attorney action and the arbitrator(s) will have no authority to proceed on a class, representative or private attorney general basis. If any provision of the agreement to arbitrate in this section is found illegal or unenforceable, the remaining arbitration terms shall continue to be fully valid, binding, and enforceable (but in no case will there be a class, representative or private attorney general arbitration). For purposes of this section, these Terms of Use and related transactions will be subject to and governed by the Federal Arbitration Act, 9 U.S.C. sec. 1-16 (FAA).
 
 Termination
 
@@ -313,7 +291,7 @@ The Sites are operated by Wayfair from its offices in Boston, Massachusetts, USA
 
 General Information
 
-No waiver of any provision or any breach of this Agreement will constitute a waiver of any other provisions or any other or further breach. In the event that any provision of this Agreement will be illegal or otherwise unenforceable, such provision will be severed, and the balance of the Agreement will continue in full force and effect. These Terms of Use set forth the entire Agreement between you and Wayfair with respect to use of the Sites and supersede any prior agreements between you and Wayfair relating to such subject matter. The Terms are not assignable, transferable or sublicensable by you except with Wayfair's prior written consent. No waiver by either party of any breach or default hereunder will be deemed to be a waiver of any preceding or subsequent breach or default. No agency, partnership, joint venture, employee-employer or franchiser-franchisee relationship is intended or created by these Terms of Use. Any heading, caption or section title contained herein is inserted only as a matter of convenience and in no way defines or explains any section or provision hereof. Wayfair's performance of these Terms of Use is subject to existing laws and legal process, and nothing contained in these Terms of Use is in derogation of Wayfair's right to comply with governmental, court and law enforcement requests or requirements relating to your use of the Sites or information provided to or gathered by Wayfair with respect to such use. A printed version of these Terms of Use and of any notices given in electronic form will be admissible in judicial or administrative proceedings based upon or relating to these Terms of Use to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form. The parties agree that all correspondence relating to these Terms of Use must be written in the English language.
+No waiver of any provision or any breach of this Agreement will constitute a waiver of any other provisions or any other or further breach. In the event that any provision of this Agreement is determined to be illegal or unenforceable, the balance of the Agreement shall continue to be fully valid, binding, and enforceable. These Terms of Use set forth the entire Agreement between you and Wayfair with respect to use of the Sites and supersede any prior agreements between you and Wayfair relating to such subject matter. The Terms are not assignable, transferable or sublicensable by you except with Wayfair's prior written consent. No waiver by either party of any breach or default hereunder will be deemed to be a waiver of any preceding or subsequent breach or default. No agency, partnership, joint venture, employee-employer or franchiser-franchisee relationship is intended or created by these Terms of Use. Any heading, caption or section title contained herein is inserted only as a matter of convenience and in no way defines or explains any section or provision hereof. Wayfair's performance of these Terms of Use is subject to existing laws and legal process, and nothing contained in these Terms of Use is in derogation of Wayfair's right to comply with governmental, court and law enforcement requests or requirements relating to your use of the Sites or information provided to or gathered by Wayfair with respect to such use. A printed version of these Terms of Use and of any notices given in electronic form will be admissible in judicial or administrative proceedings based upon or relating to these Terms of Use to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form. The parties agree that all correspondence relating to these Terms of Use must be written in the English language.
 
 Violations
 
