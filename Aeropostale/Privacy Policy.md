@@ -6,9 +6,9 @@ Aéropostale
     *   Meet Aly Raisman
     *   Aly's Picks
     *   Prince + Fox
-    *   Stripes
-    *   Festival
-    *   Americana
+    *   Cape Juby
+    *   T-Neck On Deck
+    *   We Salute You
     *   Uniform
     *   Online Only
     *   Plus Sizes
@@ -52,9 +52,9 @@ Aéropostale
     *   Meet DeAndre Yedlin
     *   DeAndre's Picks
     *   Prince &. Fox
-    *   Stripes
-    *   Game Day
-    *   Americana
+    *   Cape Juby
+    *   The Great Outdoors
+    *   We Salute You
     *   Uniform
     *   Online Only
     *   Extended Sizes
