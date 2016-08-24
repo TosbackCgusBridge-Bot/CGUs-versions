@@ -118,9 +118,9 @@ With the Sound Bar
 
 Sony on Twitter
 
-The a6300 takes autofocus, imaging speed and performance to astonishing new heights
+Batter Up! Bid for 4 #Yankees Field tickets against the Tampa Bay Rays
 
-2016-08-23 03:00:07+00:00
+2016-08-22 05:00:00+00:00
 
 View Tweet
 
