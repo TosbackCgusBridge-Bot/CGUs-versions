@@ -66,7 +66,7 @@ menu 0
     *   Tall Plus
     
     CATEGORIES
-    *   Coats
+    *   Swimsuits
     *   Knit Tops &. Tees
     *   Sweaters
     *   Shirts &. Blouses
@@ -77,7 +77,7 @@ menu 0
     *   Skirts
     *   Blazers &. Jackets
     *   Activewear
-    *   Swimsuits
+    *   Coats
     *   Sleepwear
     *   Shoes
     *   Accessories
@@ -152,34 +152,34 @@ menu 0
     
     Girls>.
     
+    *   Backpacks &. Lunch Boxes
+    *   Swimsuits
     *   Tops
     *   Sweaters
     *   Dresses
     *   Pants &. Leggings
     *   Jeans
     *   Skirts &. Skorts
-    *   Outerwear
     *   Shorts
     *   Blazers &. Jackets
     *   Sleepwear
-    *   Backpacks &. Lunch Boxes
-    *   Swimsuits
+    *   Outerwear
     *   Shoes
     *   Accessories
     *   Long Underwear
     
     Boys>.
+    *   Backpacks &. Lunch Boxes
+    *   Swimwear
     *   Tops
     *   Sweaters
     *   Pants
     *   Jeans
-    *   Outerwear
     *   Shorts
     *   Blazers &. Jackets
-    *   Backpacks &. Lunch Boxes
-    *   Activewear
     *   Sleepwear
-    *   Swimwear
+    *   Outerwear
+    *   Activewear
     *   Shoes
     *   Accessories
     *   Long Underwear
@@ -381,7 +381,7 @@ menu 0
     *   Tall Plus
     
     CATEGORIES Back | CATEGORIES
-    *   Coats
+    *   Swimsuits
     *   Knit Tops &. Tees
     *   Sweaters
     *   Shirts &. Blouses
@@ -392,7 +392,7 @@ menu 0
     *   Skirts
     *   Blazers &. Jackets
     *   Activewear
-    *   Swimsuits
+    *   Coats
     *   Sleepwear
     *   Shoes
     *   Accessories
@@ -467,34 +467,34 @@ menu 0
     
     Girls Back | Girls
     
+    *   Backpacks &. Lunch Boxes
+    *   Swimsuits
     *   Tops
     *   Sweaters
     *   Dresses
     *   Pants &. Leggings
     *   Jeans
     *   Skirts &. Skorts
-    *   Outerwear
     *   Shorts
     *   Blazers &. Jackets
     *   Sleepwear
-    *   Backpacks &. Lunch Boxes
-    *   Swimsuits
+    *   Outerwear
     *   Shoes
     *   Accessories
     *   Long Underwear
     
     Boys Back | Boys
+    *   Backpacks &. Lunch Boxes
+    *   Swimwear
     *   Tops
     *   Sweaters
     *   Pants
     *   Jeans
-    *   Outerwear
     *   Shorts
     *   Blazers &. Jackets
-    *   Backpacks &. Lunch Boxes
-    *   Activewear
     *   Sleepwear
-    *   Swimwear
+    *   Outerwear
+    *   Activewear
     *   Shoes
     *   Accessories
     *   Long Underwear
