@@ -294,9 +294,9 @@ Link It for Rewards
 
 Sony on Twitter
 
-Flash Sale Alert: Up to 80% off on sci-fi and fantasy-inspired games at PlayStation Store
+Stream more than 400 PlayStation games to your PC with PlayStation Now
 
-2016-08-22 11:42:03+00:00
+2016-08-24 14:00:09+00:00
 
 View Tweet
 
