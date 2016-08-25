@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Got a Backup Plan? Think About Ditching It**
+**Seattle Considers Creating Heroin Safe Zones**
 
-**How Much Pee Is in Your Pool?**
+**Postage Stamp-sized Device Traps More Solar Energy to Purify Water Faster**
 
-**Today Is Equal Pay Day for Black Women in the U.S.**
+**We Know Far Less About Sharks Than You Might Think**
 
 **See More Headlines »**
 
