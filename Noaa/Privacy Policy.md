@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Sanctuaries Oceans &. Coasts Watch 'Adventures of a Maritime Archaeologist,' new 7-part video series Weather Practice heat safety: Stay safe this summer National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather The peak of the hurricane season – why now? Sanctuaries Oceans &. Coasts Watch 'Adventures of a Maritime Archaeologist,' new 7-part video series National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Sanctua
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms July was hottest month on record for the globe Analysis confirms 15 consecutive months of record-breaking heat AROUND NOAA // The peak of the hurricane season – why now? A first look at two WWII Battle of the Atlantic shipwrecks NOAA launches America’s first national water forecast model
+Enter Search Terms July was hottest month on record for the globe Analysis confirms 15 consecutive months of record-breaking heat AROUND NOAA // The peak of the hurricane season – why now? Photo story: NOAA's GOES-R satellite arrives in Florida A first look at two WWII Battle of the Atlantic shipwrecks
 
 *   About our agency
 *   News and features
