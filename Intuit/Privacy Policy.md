@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.8
 *   customer service
     
 
-true true L15291077129
+true true C15237565154
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Tue Aug 23 11:15:32 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p08.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Wed Aug 24 11:15:31 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,29 +52,19 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Here's The Deal! See Our Weekly Store Ad.
+Uniform Flash Sale Extra 25% Off\*
 
-Everything you need at great prices each week.
+Today Online Only | 8/24 | Code: ALL4YOU3
 
-View Store Ad Rewards Members Shop &. Get a $10 Bonus Reward\*
+Get Details
 
-\*Earn a $10 reward for $50 spent in store or online through 8/23/16. Limit 1. Redeemable through 10/16/16.
+\*some exclusions apply
 
-Get Details 40 to 50% Off Shop Kids' Arizona Apparel Shop Total Girl Apparel
-
-Select styles, reg. $10-$52
-
-Buy 1 Get 1 for .01\* Shop Juniors' Arizona Denim Shop Guys' Arizona Apparel
-
-Select styles, reg. $12-$50
-
-\*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
-
-      Levi's® Lowest Price of the Season 39.99 Guys' Levi's 511™ Slim Fit Jeans\*
+Shop Girls Shop Boys Shop Juniors Shop Guys Levi's® Lowest Price of the Season 39.99 Guys' Levi's 511™ Slim Fit Jeans\*
 
 Select styles, reg. 69.50
 
-Shop Guys' Levi's 36.99 Levi's 524™ Skinny Jeans For Her
+Shop Guys' Levi's36.99 Levi's 524™ Skinny Jeans For Her
 
 reg. 49.50
 
@@ -84,15 +74,15 @@ Offers and coupons do not apply.
 
 \*Levi's® "Lowest Prices of the Season" refers to the time period through 9/5. Prices may be further reduced on items as a part of clearance in the future.
 
-    Back-To-School Outfits you'll love for every day of the week. Shop Back-To-School Shop Gift Cards Sephora Shop New Arrivals: JCPenney | optical Kids' Glasses $39.99, one pair Kids' Glasses $69.99, two pairs
+    Back-To-School Outfits you'll love for every day of the week. Shop Back-To-School Shop Gift Cards Home Sale 30 to 50% Off
+
+Select styles
+
+Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses   Sephora Shop New Arrivals: JCPenney | optical Kids' Glasses $39.99, one pair Kids' Glasses $69.99, two pairs
 
 Ends September 30
 
-Get Details: Red Zone Clearance 50 to 70% Off Clearance
-
-In Store and Online
-
-Shop Clearance Now: JCP Salon 30% Off Haircare Products
+Get Details: Red Zone Clearance 80% Off Final Markdowns Plus! New Markdowns 50 to 70% Off Shop Clearance Now: JCP Salon 30% Off Haircare Products
 
 Select styles
 
