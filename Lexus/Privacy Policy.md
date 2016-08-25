@@ -19,7 +19,7 @@ MENU **IS**
 
 **ES**
 
-*   Starting at $38,100\*
+*   Starting at $38,900\*
 *   268-hp 3.5L V6
 
 *   Build
@@ -27,7 +27,7 @@ MENU **IS**
 
 **ES HYBRID**
 
-*   Starting at $41,020\*
+*   Starting at $41,820\*
 *   40-MPG combined rating\*
 
 *   Build
@@ -93,7 +93,7 @@ COMPARE **NX**
 
 **RX**
 
-*   Starting at $41,900\*
+*   Starting at $43,020\*
 *   295-hp 3.5L V6
 
 *   Build
@@ -101,7 +101,7 @@ COMPARE **NX**
 
 **RX HYBRID**
 
-*   Starting at $52,235\*
+*   Starting at $53,035\*
 *   30-MPG COMBINED RATING\*
 
 *   Build
@@ -161,7 +161,7 @@ COMPARE **CT HYBRID**
 
 **RX HYBRID**
 
-*   Starting at $52,235\*
+*   Starting at $53,035\*
 *   30-MPG COMBINED RATING\*
 
 *   Build
@@ -169,7 +169,7 @@ COMPARE **CT HYBRID**
 
 **ES HYBRID**
 
-*   Starting at $41,020\*
+*   Starting at $41,820\*
 *   40-MPG COMBINED RATING\*
 
 *   Build
