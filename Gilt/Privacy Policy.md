@@ -163,7 +163,7 @@ If you have any questions or comments about this Privacy Notice, or if you would
 
 GILT Groupe Holdings, Inc.  
 Attn: Legal Department  
-2 Park Avenue, 4th Floor  
-New York, New York 10016
+225 Liberty Street, 31st Floor  
+New York, New York 10281
 
-**Last Updated: January 5, 2016**
+Last Updated: August 26, 2016
