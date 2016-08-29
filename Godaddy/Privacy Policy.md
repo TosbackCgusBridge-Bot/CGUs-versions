@@ -1,4 +1,4 @@
-**Last Revised: August 10, 2016**
+**Last Revised: August 26, 2016**
 
 GoDaddy Respects your privacy
 
@@ -92,7 +92,7 @@ Please note that opting out of targeted advertisements does not completely opt 
 
 **Tell-A-Friend**
 
-If a user elects to use our referral service to inform a friend about our Site or mobile application, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at mailto:hq@godaddy.com to request the removal of this information from our database.
+If a user elects to use our referral service to inform a friend about our Site or mobile application, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at hq@godaddy.com to request the removal of this information from our database.
 
 **What Happens to my Personally Identifiable Information if I Terminate my GoDaddy Account?**
 
@@ -100,14 +100,15 @@ When your GoDaddy account is cancelled (either voluntarily or involuntarily) all
 
 **Updating Your Information** 
 
-You may alter, update or deactivate your account information or opt out of receiving communications from us and our partners at any time. However, where your personal information is reasonably necessary for the provisioning of the services you have requested or the operation of our network, the collection, use and disclosure of personal information is a condition of service and you cannot opt-out without terminating your services.  If your personal information is not reasonably necessary for the provisioning of the services you have requested or the operation of our network, you will have the choice to withdraw your consent by opting out.  For example, where you have provided express consent for the use of specific product or services for marketing purposes, you can opt-out later on as you like.  Similarly, you can opt-out of your personal information being used for a variety of marketing communications by us, including telemarketing or addressed marketing mail, or commercial electronic messages like emails and SMS messages, at any time by revisiting Contact Preferences in your Account Settings.  We have the following options for changing and modifying your account information or contact preferences.
+You may alter, update or deactivate your account information or opt out of receiving communications from us and our partners at any time. However, where your personal information is reasonably necessary for the provisioning of the services you have requested or the operation of our network, the collection, use and disclosure of personal information is a condition of service and you cannot opt-out without terminating your services.  If your personal information is not reasonably necessary for the provisioning of the services you have requested or the operation of our network, you will have the choice to withdraw your consent by opting out.  For example, where you have provided express consent for the use of specific product or services for marketing purposes, you can opt-out later on as you like.  Similarly, you can opt-out of your personal information being used for a variety of marketing communications by us, including telemarketing or addressed marketing mail, or commercial electronic messages like emails and SMS messages, at any time by revisiting Contact Preferences in your Account Settings.  
 
-1.  Access your Account online (Accounts Settings >. Contact Preferences) 
-2.  You may send an email to mailto:hq@godaddy.com
-3.  You may send mail to GoDaddy at the following postal address:  
-    14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-4.  You may call us at: (480) 505-8800
-5.  You may fax us at: (480) 505-8844
+To deactivate your account, please contact our Support team for the fastest service at (480) 505-8877. If you are an international customer, you may find a list of our support phone numbers listed here. We have the following options for changing, terminating, and modifying your account information or contact preferences.
+
+1.  Access your Account online (Accounts Settings >. Contact Preferences) \[\*Note that this is not an option for deactivation\]
+2.  You may send mail to GoDaddy at the following postal address:  
+    14455 North Hayden Road, Suite 219, Scottsdale, AZ 85260 USA
+3.  You may call us at: (480) 505-8877
+4.  You may send an email to hq@godaddy.com
 
 We will respond to your request for access or to modify or deactivate your information within thirty (30) days. 
 
