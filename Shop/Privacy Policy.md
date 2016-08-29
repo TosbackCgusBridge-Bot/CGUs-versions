@@ -303,7 +303,6 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Lenovo Holiday Deals
     *   Lenovo Preferred Card
     *   Trade-In Program
-    *   Lenovo Gift Cards
     *   Lenovo Photo Service
     *   Gaming Computers
     *   Yoga Computers
@@ -330,7 +329,6 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Product Accessibility
     *   Affiliate Program
     *   Product Compliance
-    *   Training
     *   Blogs
     *   Affinity Discount Program
     *   Customer Feedback
