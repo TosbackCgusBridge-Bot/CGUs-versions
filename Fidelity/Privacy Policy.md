@@ -69,7 +69,7 @@ Search Fidelity.com
     *   ETFs
     *   Options
     *   Sector Investing
-    *   Cash Management
+    *   Cash Management &. Credit Cards
     *   Managed Accounts
     *   529 College Savings
     *   Annuities
