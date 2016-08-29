@@ -1,4 +1,4 @@
-World of Warcraft Terms of Use  
+World of Warcraft Terms of Use World of Warcraft Terms of Use  
 Last Updated: August 22, 2012
 
 YOU SHOULD CAREFULLY READ THE FOLLOWING WORLD OF WARCRAFT TERMS OF USE AGREEMENT (THE “TERMS OF USE” OR “AGREEMENT”).
