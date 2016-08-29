@@ -64,7 +64,7 @@ Pinterest
 *   Shows
 *   Quizzes
 
-Privacy Policy | HSW Privacy Policy    
+Privacy Policy         | HSW    
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace Holdings LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Seattle Considers Creating Heroin Safe Zones**
+**Gay Termites Plot the Death of Kings**
 
-**Postage Stamp-sized Device Traps More Solar Energy to Purify Water Faster**
+**The Two Months That See the Most Divorce Filings**
 
-**We Know Far Less About Sharks Than You Might Think**
+**Not a Coffee Fan? That Could Be Genetic**
 
 **See More Headlines »**
 
@@ -294,7 +294,7 @@ Get the best of HowStuffWorks by email. Keep up to date on:
 *   Tours
 *   Weird &. Wacky
 
-Sign-up Now! Testing this long verbose error message to check the behaviour
+Sign-up Now! Testing this long verbose error message to check the behaviour More From The Stuff Network Brain Stuff Car Stuff Stuff Mom Never Told You Stuff of Genius Stuff They Don't Want You to Know FW:Thinking Stuff to Blow Your Mind Stuff You Should Know Stuff You Missed in History Class
 
 Copyright © 2016 HowStuffWorks,  
 a division of InfoSpace Holdings LLC
