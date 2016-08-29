@@ -6,10 +6,10 @@ Fitbit
         *   Fitbit One®
         *   Fitbit Flex®
         *   Fitbit Charge™
-        *   Fitbit Alta™ New
+        *   Fitbit Alta™
     *   **Active Fitness**
         *   Fitbit Charge HR™
-        *   Fitbit Blaze™ New
+        *   Fitbit Blaze™
     *   **Performance  
         Fitness**
         *   Fitbit Surge™
