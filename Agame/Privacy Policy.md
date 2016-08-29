@@ -101,12 +101,12 @@ View more results
     Join for free
 *   Hot Games
     
+    *   Fragoria
     *   Warbanner
-    *   Slotomania
-    *   My Dolphin Show 4
-    *   Summer Sports
-    *   Asterix: The Mansions of the Gods
-    *   Cartoon Strike
+    *   Summer Sports: Volleyball
+    *   Mad Day 2
+    *   My Dolphin Show 7
+    *   SuperSnake.io
     
     Mobile Apps More
     
