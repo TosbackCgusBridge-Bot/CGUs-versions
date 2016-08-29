@@ -5,7 +5,7 @@ Privacy
 *   Mobile Apps
 *   Cookies / Tracking
 
-Home &. Summary Español (Americas)FrançaisEnglishPortuguês (Portugal)Português(Brasil)RomânItalianoNederlandsCeštinaDeutschPусскийPolskiCрпскиHrvatskiSlovenščinaMagyarEspañol Last Updated: 23 August 2016 In this privacy policy:
+Home &. Summary Español (Americas)FrançaisEnglishPortuguês (Portugal)Português(Brasil)RomânItalianoNederlandsCeštinaDeutschPусскийPolskiCрпскиHrvatskiSlovenščinaMagyarEspañol Last Updated: 6 June 2016 In this privacy policy:
 
 *   We’ve summarized our privacy policy terms so you can find what you need quickly;
 *   We’ve designed one privacy policy to apply across many NBCUniversal online services;
