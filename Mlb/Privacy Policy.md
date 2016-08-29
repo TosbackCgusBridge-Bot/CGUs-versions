@@ -98,10 +98,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Franchise Four
 *   Tickets Tickets Tickets
     *   General Ticket Information
-    *   Postseason Ticket Refund Policies
-    *   Autism Awareness
-    *   StubHub.com
-    *   Fort Bragg Tickets Terms &. ConditionsBig League Tours Bank of America 2016 Schedule
+    *   StubHub.comBig League Tours Bank of America
 *   Apps Apps Apps
     *   At Bat app
     *   At Bat on Tablets
