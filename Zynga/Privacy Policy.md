@@ -12,6 +12,7 @@ Navigation
     *   FarmVille 2
     *   FarmVille 2 Country Escape
     *   FarmVille Harvest Swap
+    *   FarmVille Tropic Escape
     *   Gems With Friends
     *   Hanging With Friends
     *   Ice Age: Arctic Blast
