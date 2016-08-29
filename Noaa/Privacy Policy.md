@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms July was hottest month on record for the globe Analysis confirms 15 consecutive months of record-breaking heat AROUND NOAA // The peak of the hurricane season – why now? Photo story: NOAA's GOES-R satellite arrives in Florida A first look at two WWII Battle of the Atlantic shipwrecks
+Enter Search Terms National monument in Hawaii becomes world's largest marine protected area AROUND NOAA // The peak of the hurricane season – why now? Photo story: NOAA's GOES-R satellite arrives in Florida July was hottest month on record for the globe
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock image
+NOAA
