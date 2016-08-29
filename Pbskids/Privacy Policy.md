@@ -107,7 +107,6 @@ kids@pbs.org
 
 Please read the Terms of Use for Terms and Conditions for using this site.
 
-TV Times | Help  
-PBS KIDS | PBS KIDS GO!  
+PBS KIDS | TV Times | Help  
   
 Copyright © 1995-2016 Public Broadcasting Service (PBS). All rights reserved.
