@@ -126,9 +126,9 @@ View Tweet
 
 Sony on Instagram
 
-Football Season Is Almost Here
+Watch Live Football With PlayStation™Vue
 
-Time to Upgrade Your TV
+Learn More
 
 Close
 
@@ -138,7 +138,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Time to Upgrade Your TV
+Learn More
 
 Victory Awaits Your Team in the New Madden NFL 17
 
@@ -232,9 +232,9 @@ Is Almost Here
 
 Sony on Instagram
 
-The Time to Innovate Is Now
+Get Ready to Be Inspired at IFA 2016
 
-Apply for Research Award
+See More
 
 Close
 
@@ -244,7 +244,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Apply for Research Award
+See More
 
 Want a Good Scare? Check Out the 360-Degree Trailer for "Don't Breathe"
 
