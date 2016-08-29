@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: July 13, 2016**
+**Last Revised: August 25, 2016**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -737,7 +737,7 @@ Go Daddy reserves the right, in its sole discretion, to deem any value on a Card
 
 _**(I) Expired Domain Name Purchases**_
 
-For expired domains names purchased through Your account, You acknowledge and agree that You are responsible for payment within forty-eight (48) hours of auction close for the successful bid amount plus the one (1) year renewal fee (from the end of the domain name’s previous registration period), plus ICANN fee, if applicable, or any valid payment method associated with the account, will be charged on the third day following the auction close.
+For expired domains names purchased through Your account, You acknowledge and agree that You are responsible for payment within forty-eight (48) hours of auction close for the successful bid amount plus the one (1) year renewal or transfer fee (from the end of the domain name’s previous registration period), plus ICANN fee, if applicable, or any valid payment method associated with the account, will be charged on the third day following the auction close.
 
 ****19**. UNCLAIMED PROPERTY. DORMANCY CHARGES**
 
@@ -786,5 +786,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 7/13/16  
+Revised: 8/25/16  
 Copyright © 2005-2016 GoDaddy.com, LLC All Rights Reserved.
