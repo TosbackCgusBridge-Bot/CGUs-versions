@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms National monument in Hawaii becomes world's largest marine protected area AROUND NOAA // The peak of the hurricane season – why now? Photo story: NOAA's GOES-R satellite arrives in Florida July was hottest month on record for the globe
+Enter Search Terms National monument in Hawaii becomes world's largest marine protected area AROUND NOAA // The peak of the hurricane season – why now? Photo story: NOAA's GOES-R satellite arrives in Florida Get the latest information from NOAA's National Hurricane Center
 
 *   About our agency
 *   News and features
