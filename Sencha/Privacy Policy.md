@@ -42,6 +42,7 @@ Sencha
     *   Architect
     *   Licensing
     *   Ordering Information
+    *   Web Purchase Policy
     *   Authorized Resellers
 
 *   SenchaCon 2016
@@ -213,6 +214,7 @@ Get Sencha NewsBuy Online
     *   Architect
     *   Licensing
     *   Ordering Information
+    *   Web Purchase Policy
     *   Authorized Resellers
 
 © 2016 Sencha Inc. All rights reserved.  
