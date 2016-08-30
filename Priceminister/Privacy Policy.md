@@ -23,7 +23,9 @@ Données de compte et messages électroniques (newsletters)
   
 Les informations à caractère personnel recueillies auprès des membres, vendeurs et acheteurs, au moment de leur inscription sur la plateforme et postérieurement (civilité, nom, prénom, date de naissance, nom d’utilisateur, adresses postale et électronique, mot de passe, informations relatives au moyen de paiement, aux commandes ainsi qu’aux connexions et à la navigation sur la plateforme PriceMinister et communications avec les autres membres) sont nécessaires pour (I) créer et gérer votre compte, (II) assurer le bon déroulement des transactions, (III) améliorer les services qui vous sont offerts, (IV) se conformer aux dispositions législatives et règlementaires en vigueur et/ou à toute décision d’une autorité judiciaire compétente, (V) réaliser des statistiques et des analyses et (VI) lutter contre les fraudes.  
    
-À titre d’exemple, ces informations nous permettrons dans l’hypothèse d’un achat, de transmettre vos coordonnées postales au vendeur pour assurer la bonne livraison du produit acheté. Un vendeur opérant sur PriceMinister n'a, à aucun moment, accès à votre adresse e-mail ou à votre numéro de téléphone, sauf engagement impératif du vendeur de respecter les dispositions de la loi Informatique et libertés auprès de PriceMinister, et pour la seule fin de la bonne exécution de votre commande et des obligations légales qui s'y rattachent.  
+À titre d’exemple, ces informations nous permettrons dans l’hypothèse d’un achat, de transmettre vos coordonnées postales au vendeur pour assurer la bonne livraison du produit acheté. Un vendeur opérant sur PriceMinister n'a, à aucun moment, accès à votre adresse e-mail ou à votre numéro de téléphone, sauf dans l’hypothèse où vous avez choisi l’option « Retrait chez le vendeur » ou engagement impératif du Vendeur de respecter les dispositions de la loi Informatique et libertés auprès de PriceMinister, et pour la seule fin de la bonne exécution de votre commande et des obligations légales qui s'y rattachent.  
+  
+De même, nous pouvons être amenés à transmettre des informations à caractère personnel vous concernant à vos acheteurs à des fins de bonne exécution de leur commande et de mise en œuvre de leurs garanties, le cas échéant.  
   
 A défaut de nous communiquer certaines de ces informations, nous ne serons pas en mesure de vous fournir l’intégralité de nos services.  
    
@@ -58,7 +60,7 @@ Nous sommes amenés à rendre un certain nombre de sous-traitants destinataires 
   
 \- la sécurisation des paiements;  
 \- la gestion des assurances souscrites;  
-\- l'optimisation de notre plateforme et de l'envoi de nos newsletters. L'un de nos prestataires étant situé aux Etats-Unis, les transferts de données vers celui-ci sont encadrés par des clauses contractuelles types de l'Union européenne;  
+\- l'optimisation de notre plateforme et de l'envoi de nos newsletters. L'un de nos prestataires étant situé aux Etats-Unis, les transferts de données vers celui-ci sont encadrés par des clauses contractuelles types de l'Union européenne et ont été autorisés par la CNIL (décision DF-2015-965);  
 \- le traitement des appels téléphoniques dans le cadre de notre service clients. Notre prestataire étant situé au Maroc, les transferts de données vers celui-ci sont encadrés par des clauses contractuelles types de l’Union européenne  et ont été autorisés par la CNIL (décision DF-2015-864).  
   
 Nous sommes également amenés à partager certaines informations relatives à votre navigation sur la plateforme avec Rakuten, Inc., notre société-mère située au Japon, à des fins marketing et de reporting interne. Ces transferts sont encadrés par des clauses contractuelles types de l’Union européenne et ont été autorisés par la CNIL (décision DF-2015-503).  
@@ -66,6 +68,18 @@ Nous sommes également amenés à partager certaines informations relatives à v
 Nous veillons à ce que ces destinataires traitent vos informations conformément à nos instructions, dans le respect de la loi «Informatique et Libertés » du 6 janvier 1978 et s'engagent à mettre en œuvre des mesures appropriées de sécurisation et de protection de la confidentialité de vos données.  
   
   
+
+Obligation de vigilance
+
+**1\. De quoi s'agit-il ?**  
+  
+PriceMinister est un agent mandaté par la société Rakuten Europe Bank, société anonyme de droit luxembourgeois dont le siège est sis 2 rue du Fossé, 1536 Luxembourg, Luxembourg, immatriculée au Registre de commerce et des sociétés du Luxembourg sous le numéro B181868, à la Commission de Surveillance du Secteur Financier sous le numéro  B00000394 et ayant pour numéro d’institution financière monétaire LUB00394, pour vous fournir des services de paiement.  
+En sa qualité d’agent prestataire de paiement, PriceMinister est soumise à des obligations légales de vigilance en matière de lutte contre la criminalité, le terrorisme et le blanchiment d’argent qui peuvent l’amener à procéder ou à faire procéder par son représentant désigné à une vérification de votre identité. Cette vérification interviendra lorsque les sommes créditées sur votre Porte-Monnaie dépasseront le montant fixé par la réglementation. Pour les Vendeurs professionnels, la vérification sera effectuée dès leur inscription sur la Plateforme PriceMinister.  
+  
+**2\. Documents à fournir**
+
+Si vous êtes amené(e) à faire l’objet des mesures de vérification, il vous incombera de communiquer dans les plus brefs délais une copie de vos justificatifs d’identité en cours de validité, ainsi qu’un justificatif de domicile. Si vous agissez en tant que Vendeur professionnel, vous devrez fournir les informations relatives à votre entreprise et, le cas échéant, à votre société (notamment statuts, structure du capital, identité des principaux associés et des dirigeants, etc.).  
+L’accès au Porte-Monnaie et l’activation du compte du Vendeur Professionnel pourront être suspendus tant que la vérification d’identité n’aura pas pleinement abouti.
 
 Données de navigation - Cookies
 
@@ -155,4 +169,48 @@ Notez que cette procédure n'empêchera pas l'affichage de publicités sur les s
   
 **5.3 Via les liens proposés par nos partenaires**  
   
-En cliquant  sur les noms de nos partenaires indiqués dans les tableaux figurant aux paragraphes 4.1 et 4.2 de la présente page « Vie privée et cookies », vous pourrez vous opposer à l’enregistrement des cookies de ces prestataires.
+En cliquant  sur les noms de nos partenaires indiqués dans les tableaux figurant aux paragraphes 4.1 et 4.2 de la présente page « Vie privée et cookies », vous pourrez vous opposer à l’enregistrement des cookies de ces prestataires.  
+  
+Mesures d'audience
+
+Afin de mieux vous servir, nous mesurons également le nombre de pages vues, le nombre de visites, ainsi que l’activité des visiteurs sur le site et leur fréquence de retour grâce aux solutions d’AT Internet.  
+   
+Ces mesures d’audience nous permettent ainsi d'établir des statistiques et comptages de fréquentation et d'utilisation des diverses rubriques et contenus du site nous permettant de réaliser des études pour améliorer le contenu, les services que nous vous offrons.  
+   
+Si vous ne souhaitez pas être audité, vous pouvez vous reporter à la page Internet d’AT Internet portant sur le respect de la vie privée et y suivre les indications fournies :  
+  
+\> Comment ne plus être audité
+
+Messages électroniques
+
+Afin de vous proposer davantage de contenu personnalisé et/ou d’offres privilégiées relatives à des produits similaires à ceux déjà consultés, achetés et disponibles sur PriceMinister, vous pourrez recevoir de la part de PriceMinister les types de messages suivants :  
+   
+\- les lettres d'information ("PriceLetters"),  
+\- des conseils et astuces,  
+\- des sondages,  
+\- des informations générales sur le Groupe Rakuten et de ses filiales, etc.  
+   
+Compte tenu des liens entre PriceMinister et ses sites partenaires, vous pouvez être amené à recevoir de ceux-ci, sous réserve de votre accord exprès préalable, des offres ou des informations. Ces messages pourront vous être transmis, selon votre choix, par voie de courrier électronique, SMS ou courrier postal.  
+   
+Vous pouvez également choisir de recevoir les newsletters éditées par les autres sites du Groupe PriceMinister (notamment "VoyagerMoinsCher").  
+   
+Après avoir finalisé votre commande auprès d'un vendeur professionnel (identifié par ), vous pourrez également recevoir de sa part, par e-mail, des offres personnalisées, sélectionnées pour vous et correspondant à des produits ou services analogues à ceux que vous avez déjà commandés (ventes flash, nouveautés, etc.) via PriceMinister dans la boutique du vendeur professionnel, sans communication de votre adresse e-mail au vendeur.  
+   
+A noter : le contenu de chaque newsletter est rédigé par le marchand en question, qui en est le seul responsable.  
+   
+\>. Comment se désabonner des e-mails automatiques  
+   
+Vous gardez la possibilité de vous désabonner de toutes les newsletters à tout moment, depuis la rubrique "Mes abonnements" de votre compte PriceMinister. Vous pourrez également vous désabonner d'une newsletter précise, grâce à un lien présent au bas de celle-ci. Conformément aux articles 38 et 39 de la Loi Informatique et Libertés du 6 janvier 1978, modifiée en août 2004, vous bénéficiez également d'un droit d'accès et de rectification que vous pourrez exercer en vous rendant sur cette page.  
+   
+Les traitements mis en œuvre par PriceMinister ont fait l’objet soit d’une déclaration auprès de la Commission nationale à l’informatique et aux libertés (CNIL), soit d’une dispense de déclaration en raison de la présence au sein du Groupe PriceMinister d’un Correspondant Informatique et Libertés.  
+  
+
+Sécurité de vos données personnelles
+
+En tant que tiers de confiance, PriceMinister vous garantit la totale sécurité de vos informations personnelles : sauf autorisation exprès de PriceMinister et suite à l'engagement impératif du vendeur de respecter les dispositions de la loi du 6 janvier 1978 relative à l'informatique et aux libertés, un vendeur opérant sur PriceMinister n'a, à aucun moment, accès à votre adresse e-mail et ne pourra en aucun cas vous contacter autrement que via PriceMinister.  
+  
+Les principes ci-dessus ne font pas obstacle à la cession ou au transfert de tout ou partie des activités de PriceMinister à un ou plusieurs tiers.  
+   
+Si votre terminal est utilisé par plusieurs personnes et lorsqu’un même terminal dispose de plusieurs logiciels de navigation, nous ne pouvons pas nous assurer avec certitude que les services et publicités destinés à votre terminal correspondent bien à votre propre utilisation de ce terminal et non à celle d'un autre utilisateur de ce terminal.  
+   
+Le cas échéant, le partage avec d’autres personnes de l’utilisation de votre terminal et la configuration des paramètres de votre navigateur à l'égard des cookies, relèvent de votre libre choix et de votre responsabilité.
