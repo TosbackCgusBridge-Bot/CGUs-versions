@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.8
 *   customer service
     
 
-true true C15253179646
+true true L15315840405
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p15.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Sun Aug 28 11:15:28 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Mon Aug 29 11:15:29 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,11 +52,15 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Back to School Sale LAST DAY! | In Store &. Online | Ends 8/28 Shop Back to School Sale View Store Ad Buy 1 Get 1 For .01\* Guys' Arizona Apparel
+Home Flash Sale Extra 30% Off\* $100 or More Or, Extra 25% Off Select Home Already 30-50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds &. Shades
+
+Today Online Only | Code: HURRY98
+
+\*exclusions and details: Shop Home Flash Sale Shop Comforters &. Bedding Shop Kitchen &. Dining Shop Bath Shop Dinnerware Shop Curtains &. Drapes Shop Furniture &. Mattresses Shop Home Decor Shop Luggage Buy 1 Get 1 For .01\* Guys' Arizona Apparel
 
 Select styles, reg. $12-$80
 
-Shop Guys' Arizona Juniors' Arizona Denim
+Shop Guys' ArizonaJuniors' Arizona Denim
 
 Select styles, reg. $42-$56
 
@@ -64,63 +68,57 @@ Shop Juniors' Arizona
 
 \*Buy one item at regular price, get a second item of equal or lesser value for one cent while supplies last.
 
-50% Off Kids' Arizona Apparel
+40 to 50% Off Arizona Jeans
 
-Select styles, reg. $10-$52
+Select styles, reg. $30
 
-Shop Kids' Arizona       Levi's® Lowest Price of the Season 39.99 Guys' Levi's 511™ Slim Fit Jeans\*
+Shop Boys Arizona Shop Girls Arizona       Levi's® Lowest Price of the Season 39.99 Guys' Levi's 511™ Slim Fit Jeans\*
 
 reg. 69.50, select styles, Offers and coupons do not apply
 
-Shop Guys' Levi's 36.99 Levi's 524™ Skinny Jeans for Her
+Shop Guys' Levi's36.99 Levi's 524™ Skinny Jeans for Her
 
-reg. 49.50
+reg. 49.50, Offers and coupons do not apply
 
 Shop Levi's for Her
 
 \*Levi's lowest prices of the season is valid through 9/5. prices may be further reduced on items as a part of clearance in the future.
 
-    Now Online &. In Select Stores! Major Appliances From Your Favorite Brands.
+    Back To School
+
+so you. so worth it.
+
+Shop Back to School Now Now Online &. In Select Stores! Major Appliances From Your Favorite Brands.
 
 Need help? Call 1-844-JCP-APPL (1-844-527-2775)
 
-Find a Store: Up to 30% Off\* Major Appliances
+Find a Store:Up to 30% Off\* Major Appliances
 
 Select styles
 
-Shop Major Appliances: 18 Months or 30 Months Special Financing\*\*
+Shop Major Appliances:18 Months or 30 Months Special Financing\*\*
 
 Available on qualifying major appliance purchases made through 914/16 on a JCPenney Credit Card. Must request at time of purchase
 
 \*GE, GE Profile &. GE Cafe limited to 10% off savings.
 
-\*\*Get Details: Apply Now: Free Delivery &. Basic Installation
+\*\*Get Details: Apply Now:Free Delivery &. Basic Installation
 
 On all appliance purchases over $299
 
-Get Details: JCPenney Rewards Shop &. Get Rewards
+Get Details:JCPenney Rewards Shop &. Get Rewards
 
 For points earned on major appliances+
 
-+Get Details: Labor Day Home Sale 30 to 50% Off
++Get Details: Sephora Shop Top-Rated Beauty: JCPenney | optical Kids' Glasses $39.99, one pair Kids' Glasses $69.99, two pairs
+
+Ends September 30
+
+Get Details: Red Zone END OF SEASON Clearance 80% Off Final Markdowns Plus! New Markdowns 50 to 70% Off Shop Clearance Now: JCP Salon 30% Off Haircare Products
 
 Select styles
 
-Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining 40 to 60% Off Furnture and Mattresses
-
-Select styles
-
-Shop Furniture &. Mattresses   Sephora Shop Top-Rated Beauty: JCPenney | portraits
-
-40% Off JCPenney Portraits
-
-3.99 Portrait Sheets
-
-Get Coupon: Back To School
-
-so you. so worth it.
-
-Shop Back To School Now: Red Zone END OF SEASON Clearance 80% Off Final Markdowns Plus! New Markdowns 50 to 70% Off Shop Clearance Now: true
+Shop Now: true
 
 get connected
 
