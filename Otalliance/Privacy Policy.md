@@ -31,6 +31,7 @@ Skip to main content Online Trust Alliance
     *   IoT Resources
     *   Malicious Threats
     *   Web and Mobile Security
+    *   OTA Members (Restricted)
 *   Best Practices
 *   Committees
 *   News &. Events
@@ -40,6 +41,7 @@ Skip to main content Online Trust Alliance
         *   Events Archive
     *   Press Releases
 *   Membership
+    *   OTA Members (Restricted)
     *   History &. Overview
     *   Member Levels
     *   Donate
@@ -113,7 +115,7 @@ More >>.
 *   OTA Blog
 *   Newsletters
 
-Tue, Jun 21, 2016 Drone - Privacy, Transparency, and Accountably Best Practices
+Tue, Jun 21, 2016 Drones - Privacy, Transparency and Accountably
 
 Today a multi-stakeholder group convened by the U.S.
 
@@ -139,6 +141,7 @@ More >>. Resources
 *   IoT Resources
 *   Malicious Threats
 *   Web and Mobile Security
+*   OTA Members (Restricted)
 
 Initiatives
 
@@ -162,6 +165,7 @@ News &. Events
 
 Membership
 
+*   OTA Members (Restricted)
 *   History &. Overview
 *   Member Levels
 *   Donate
