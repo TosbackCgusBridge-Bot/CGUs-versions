@@ -212,7 +212,7 @@ View more results
     *   Fitz!
     *   Spider Soli
     *   Jewel Academy
-    *   3D MahjongSpotlight Mahjong Chain
+    *   Bubble ShooterSpotlight Mahjong Chain
 *   Top Categories
     
     *   Animal Games
