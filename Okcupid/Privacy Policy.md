@@ -1,11 +1,4 @@
-OkCupid Join the best free dating site on Earth. Sign in Sign up Legal Information
-
-*   Terms &. Conditions (0)
-*   Arbitration (0)
-*   Privacy Policy (0)
-*   Safety Tips (0)
-
-Privacy policy
+OkCupid Join the best free dating site on Earth. Sign in Sign up Privacy Policy
 
 Last revised July 1, 2016.
 
@@ -181,9 +174,8 @@ Okay Enter Authentication Code Submit Remember this computer for 30 days? Sign i
 
 You need to complete your basic info on the mobile app before you can use the desktop site.
 
-*   Mobile Apps
+*   Apps
 *   Press
-*   Legal
 *   Ad Choices
 *   About
 *   Careers
@@ -191,6 +183,8 @@ You need to complete your basic info on the mobile app before you can use the de
 *   The Deep End
 *   OkTrends
 *   Tests
+*   Privacy Policy
+*   Terms and Conditions
 
 © OkCupid 2016 Free online dating
 
