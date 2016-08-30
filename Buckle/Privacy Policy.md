@@ -137,7 +137,6 @@
         *   Tops
         *   Jeans
         *   Shorts
-        *   Crops/Capris
         *   Show All Girl's Clothes
         
         *   Boy's Clothing
