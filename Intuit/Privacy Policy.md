@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.8
 *   customer service
     
 
-true true L15315840405
+true true L15320153975
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Mon Aug 29 11:15:29 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Tue Aug 30 11:15:30 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,43 +52,67 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Home Flash Sale Extra 30% Off\* $100 or More Or, Extra 25% Off Select Home Already 30-50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds &. Shades
+All Day Dip
 
-Today Online Only | Code: HURRY98
+Today Online Only | Code: TOSHOP99
 
-\*exclusions and details: Shop Home Flash Sale Shop Comforters &. Bedding Shop Kitchen &. Dining Shop Bath Shop Dinnerware Shop Curtains &. Drapes Shop Furniture &. Mattresses Shop Home Decor Shop Luggage Buy 1 Get 1 For .01\* Guys' Arizona Apparel
+Extra 30% Off\* $100 or More, select styles Or, Extra 25% Off Under $100, select styles Or, Extra 15% Off\* Select Watches, Salon Products, Furniture, Mattresses, Custom Blinds &. Shades Plus Free Shipping Anywhere Over $49\* \*Exclusions and Details:Hundreds of Deals! Shop Now: 40% Off Worthington
 
-Select styles, reg. $12-$80
+Select styles
 
-Shop Guys' ArizonaJuniors' Arizona Denim
+Shop Worthington 40-50% Off St. John’s Bay For Her
 
-Select styles, reg. $42-$56
+Select styles, reg. $12-$44
 
-Shop Juniors' Arizona
+Shop St. John’s Bay For Her 11.99 Men’s St. John’s Bay Solid Polos
 
-\*Buy one item at regular price, get a second item of equal or lesser value for one cent while supplies last.
+Select styles, reg. $26
 
-40 to 50% Off Arizona Jeans
+Shop Men’s St. John’s Bay Solid Polos 17.99 Stafford Travel Long-Sleeve Easy Care Broadcloth Dress Shirt
+
+Select styles, reg. $36
+
+Shop Stafford Dress Shirts 17.99 Kids’ Arizona Jeans
 
 Select styles, reg. $30
 
-Shop Boys Arizona Shop Girls Arizona       Levi's® Lowest Price of the Season 39.99 Guys' Levi's 511™ Slim Fit Jeans\*
+Shop Kids’ Arizona 7.99 Kids’ Xersion Graphic Tees
 
-reg. 69.50, select styles, Offers and coupons do not apply
+Select styles, reg. $16
 
-Shop Guys' Levi's36.99 Levi's 524™ Skinny Jeans for Her
+Shop Kids’ Xersion 49.99 Studio 550TC Ultra Fit Performance Full Sheet Set
 
-reg. 49.50, Offers and coupons do not apply
+Select styles, reg. $110
 
-Shop Levi's for Her
+Shop Sheets 30-50% Off Kitchen &. Dining
 
-\*Levi's lowest prices of the season is valid through 9/5. prices may be further reduced on items as a part of clearance in the future.
+Select styles
 
-    Back To School
+Shop Kitchen &. Dining 14.99-19.99 All Ambrielle Bras
 
-so you. so worth it.
+reg. $30-$40
 
-Shop Back to School Now Now Online &. In Select Stores! Major Appliances From Your Favorite Brands.
+Shop Ambrielle 60% Off Gold Jewelry
+
+Select styles
+
+Shop Gold Jewelry 24.99 Juniors’ Flats
+
+Select styles, reg. $40
+
+Shop Juniors’ Flats 40% Off Handbags &. Wallets
+
+Select styles
+
+Shop Handbags &. Wallets Labor Day Home Sale 30 to 50% Off
+
+Select styles
+
+Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining40 to 60% Off Furnture and Mattresses
+
+Select styles
+
+Shop Furniture &. Mattresses   Now Online &. In Select Stores! Major Appliances From Your Favorite Brands.
 
 Need help? Call 1-844-JCP-APPL (1-844-527-2775)
 
@@ -110,15 +134,15 @@ Get Details:JCPenney Rewards Shop &. Get Rewards
 
 For points earned on major appliances+
 
-+Get Details: Sephora Shop Top-Rated Beauty: JCPenney | optical Kids' Glasses $39.99, one pair Kids' Glasses $69.99, two pairs
++Get Details: Sephora Shop Top-Rated Beauty: Back To School
+
+so you. so worth it.
+
+Shop Back To School Now: JCPenney | optical Kids' Glasses $39.99, one pair Kids' Glasses $69.99, two pairs
 
 Ends September 30
 
-Get Details: Red Zone END OF SEASON Clearance 80% Off Final Markdowns Plus! New Markdowns 50 to 70% Off Shop Clearance Now: JCP Salon 30% Off Haircare Products
-
-Select styles
-
-Shop Now: true
+Get Details: Red Zone END OF SEASON Clearance 80% Off Final Markdowns Plus! New Markdowns 50 to 70% Off Shop Clearance Now: true
 
 get connected
 
