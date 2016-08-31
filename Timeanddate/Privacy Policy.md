@@ -89,7 +89,7 @@ Menutimeanddate.com Search × Site / Articles City / Country Social × Share thi
     *   Date Pattern Calculator
     *   Fun Fact Articles
 
-Newsletter About Us Site Map Account/Settings Article Topics Home >. Site information >. Privacy Statement for timeanddate.com Privacy Statement for timeanddate.com
+Newsletter About Us Site Map Account/Settings Article Topics Home   Site information   Privacy Statement for timeanddate.com Privacy Statement for timeanddate.com
 
 We have a firm commitment to privacy at timeanddate.com.
 
@@ -144,7 +144,7 @@ webmaster@timeanddate.com timeanddate.com
 
 Index
 
-You might also like UTC &. GMT â Same Difference?
+You might also like UTC &. GMT – Same Difference?
 
 Greenwich Mean Time (GMT) is often interchanged or confused with Coordinated Universal Time (UTC). But GMT is a time zone and UTC is a time standard. more
 
