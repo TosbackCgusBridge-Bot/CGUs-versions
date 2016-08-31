@@ -67,8 +67,8 @@ menu 0
     
     CATEGORIES
     *   Coats
-    *   Knit Tops &. Tees
     *   Sweaters
+    *   Knit Tops &. Tees
     *   Shirts &. Blouses
     *   Pants
     *   Jeans
@@ -402,8 +402,8 @@ menu 0
     
     CATEGORIES Back | CATEGORIES
     *   Coats
-    *   Knit Tops &. Tees
     *   Sweaters
+    *   Knit Tops &. Tees
     *   Shirts &. Blouses
     *   Pants
     *   Jeans
@@ -877,7 +877,11 @@ Addendum to Privacy Policy Page Text Message Terms of Use
 9.  If you have any questions, email us at talkback@landsend.com. You can also text the word HELP to 77344 to get additional information about the service. We do not charge for help or info messages. however, your normal carrier rates apply.
 10.  Terms are subject to change.
 
-sign up **Get exclusive Offers and News** Privacy Policy &. Contact Info Customer Service
+sign up **Get exclusive Offers and News** Privacy Policy &. Contact Info sign up
+
+No purchase necessary. Automated marketing messages will be sent to the phone number provided. Msg &. data rates may apply. Up to 8 messages per month. Privacy Policy
+
+Customer Service
 
 *   **800-963-4816**
 *   **Live Chat**
