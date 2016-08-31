@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Hear and Now: Robots Are Getting Soft**
+**This 'Smart Jacket' Knows What Temperature Will Keep You Warm This Winter**
 
-**This Tree Is Europe's Oldest Living Organism — Sort of, Kind of, Maybe**
+**Ultrasound Helped a Patient Recover Remarkably From a Coma**
 
-**Airports That Float**
+**Ridiculous History: LBJ Talked on the Phone More Than a Teenager**
 
 **See More Headlines »**
 
