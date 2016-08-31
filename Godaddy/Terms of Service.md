@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: August 29, 2016**
+**Last Revised: August 30, 2016**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -786,5 +786,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 8/29/16  
+Revised: 8/30/16  
 Copyright © 2005-2016 GoDaddy.com, LLC All Rights Reserved.
