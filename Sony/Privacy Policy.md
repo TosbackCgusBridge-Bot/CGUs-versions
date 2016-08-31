@@ -122,9 +122,9 @@ Visit Sony Square NYC
 
 Sony on Twitter
 
-For those heart-skipped-a-beat moments… Track it all with SmartBand 2.
+Introducing the new Sony Full-Frame FE 50mm F2.8 Macro Lens #SonyAlpha
 
-2016-08-29 19:46:04+00:00
+2016-08-30 23:06:18+00:00
 
 View Tweet
 
