@@ -13,6 +13,7 @@
 *   Resources
     *   Case Studies
     *   Whitepapers
+    *   Videos
     *   Webinars
     *   Solution Briefs
     *   Datasheets
