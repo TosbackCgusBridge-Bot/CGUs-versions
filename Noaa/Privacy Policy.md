@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather The peak of the hurricane season – why now? Sanctuaries Oceans &. Coasts Watch 'Adventures of a Maritime Archaeologist,' new 7-part video series National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather It's the peak of the hurricane season: Learn how to prepare! Oceans &. Coasts Video: Could you survive a rip current? See how National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
