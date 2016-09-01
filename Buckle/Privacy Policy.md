@@ -39,7 +39,6 @@
         *   Bandeaus/Bralettes
         *   Bodysuits
         *   Fashion
-        *   Graphics
         *   Show All Tops
         
         *   Bottoms
@@ -105,10 +104,12 @@
         
         *   Shoes
         
-        *   Flips
-        *   Casuals
-        *   Sneakers
         *   Boots
+        *   Sneakers
+        *   Dress Shoes
+        *   Casuals
+        *   Slides
+        *   Flips
         *   Show All Shoes
         
         *   More
@@ -135,6 +136,7 @@
         *   Girl's Clothing
         
         *   Tops
+        *   Coats/Jackets
         *   Jeans
         *   Shorts
         *   Show All Girl's Clothes
@@ -335,6 +337,7 @@ Returns
 
 Promotions
 
+*   Double B-Rewards
 *   Bluetooth® Speaker
 *   Loyalty Event 2016
 *   Tax Free Weekends 2016
