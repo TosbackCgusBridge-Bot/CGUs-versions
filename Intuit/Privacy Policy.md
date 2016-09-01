@@ -1,4 +1,4 @@
-JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.8.0.0.130.0 162.211.64.106 15 3
+JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.9.0.0.132.1 15 3
 
 *   Find a store
 *   store ads
@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.8
 *   customer service
     
 
-true true L15320153975
+true true C15271381101
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Tue Aug 30 11:15:30 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p17.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Wed Aug 31 11:15:34 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -44,7 +44,6 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 *   shoes
 *   handbags
 *   jewelry
-*   gifts
 *   sephora
 *   clearance
 
@@ -52,97 +51,61 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-All Day Dip
-
-Today Online Only | Code: TOSHOP99
-
-Extra 30% Off\* $100 or More, select styles Or, Extra 25% Off Under $100, select styles Or, Extra 15% Off\* Select Watches, Salon Products, Furniture, Mattresses, Custom Blinds &. Shades Plus Free Shipping Anywhere Over $49\* \*Exclusions and Details:Hundreds of Deals! Shop Now: 40% Off Worthington
-
-Select styles
-
-Shop Worthington 40-50% Off St. John’s Bay For Her
-
-Select styles, reg. $12-$44
-
-Shop St. John’s Bay For Her 11.99 Men’s St. John’s Bay Solid Polos
-
-Select styles, reg. $26
-
-Shop Men’s St. John’s Bay Solid Polos 17.99 Stafford Travel Long-Sleeve Easy Care Broadcloth Dress Shirt
-
-Select styles, reg. $36
-
-Shop Stafford Dress Shirts 17.99 Kids’ Arizona Jeans
-
-Select styles, reg. $30
-
-Shop Kids’ Arizona 7.99 Kids’ Xersion Graphic Tees
-
-Select styles, reg. $16
-
-Shop Kids’ Xersion 49.99 Studio 550TC Ultra Fit Performance Full Sheet Set
-
-Select styles, reg. $110
-
-Shop Sheets 30-50% Off Kitchen &. Dining
-
-Select styles
-
-Shop Kitchen &. Dining 14.99-19.99 All Ambrielle Bras
-
-reg. $30-$40
-
-Shop Ambrielle 60% Off Gold Jewelry
-
-Select styles
-
-Shop Gold Jewelry 24.99 Juniors’ Flats
-
-Select styles, reg. $40
-
-Shop Juniors’ Flats 40% Off Handbags &. Wallets
-
-Select styles
-
-Shop Handbags &. Wallets Labor Day Home Sale 30 to 50% Off
-
-Select styles
-
-Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining40 to 60% Off Furnture and Mattresses
-
-Select styles
-
-Shop Furniture &. Mattresses   Now Online &. In Select Stores! Major Appliances From Your Favorite Brands.
+Labor Day Sale &. Clearance In Store &. Online | Ends September 5 Shop Sale: View Store Ad: Shop Clearance: Now Online &. In Select Stores! Major Appliances From Your Favorite Brands.
 
 Need help? Call 1-844-JCP-APPL (1-844-527-2775)
 
-Find a Store:Up to 30% Off\* Major Appliances
+Find a Store: Up to 30% Off\* Major Appliances
 
 Select styles
 
-Shop Major Appliances:18 Months or 30 Months Special Financing\*\*
+Shop Major Appliances: 18 Months or 30 Months Special Financing\*\*
 
 Available on qualifying major appliance purchases made through 914/16 on a JCPenney Credit Card. Must request at time of purchase
 
 \*GE, GE Profile &. GE Cafe limited to 10% off savings.
 
-\*\*Get Details: Apply Now:Free Delivery &. Basic Installation
+\*\*Get Details: Apply Now: Free Delivery &. Basic Installation
 
 On all appliance purchases over $299
 
-Get Details:JCPenney Rewards Shop &. Get Rewards
+Get Details: JCPenney Rewards Shop &. Get Rewards
 
 For points earned on major appliances+
 
-+Get Details: Sephora Shop Top-Rated Beauty: Back To School
++Get Details: Labor Day Home Sale 30 to 50% Off
+
+Select styles
+
+Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining 40 to 60% Off Furnture and Mattresses
+
+Select styles
+
+Shop Furniture &. Mattresses   Levi's® Lowest Price of the Season 39.99 Guys' Levi's 511™ Slim Fit Jeans\*
+
+reg. 69.50, select styles, Offers and coupons do not apply
+
+Shop Guys' Levi's 36.99 Levi's 524™ Skinny Jeans for Her
+
+reg. 49.50, Offers and coupons do not apply
+
+Shop Levi's for Her
+
+\*Levi's lowest prices of the season is valid through 9/5. prices may be further reduced on items as a part of clearance in the future.
+
+    Back To School
 
 so you. so worth it.
 
-Shop Back To School Now: JCPenney | optical Kids' Glasses $39.99, one pair Kids' Glasses $69.99, two pairs
+Shop Back to School Now Sephora Shop Top-Rated Beauty: JCPenney | optical Kids' Glasses $39.99, one pair Kids' Glasses $69.99, two pairs
 
 Ends September 30
 
-Get Details: Red Zone END OF SEASON Clearance 80% Off Final Markdowns Plus! New Markdowns 50 to 70% Off Shop Clearance Now: true
+Get Details: Red Zone END OF SEASON Clearance 80% Off Final Markdowns Plus! New Markdowns 50 to 70% Off Shop Clearance Now: JCP Salon Save on Chi Flat Irons
+
+Select styles
+
+Shop Now: true
 
 get connected
 
