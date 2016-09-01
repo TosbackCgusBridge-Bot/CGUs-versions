@@ -1,10 +1,11 @@
 Privacy Notice
 
-**Effective Date:** April 25, 2016
+**Effective Date:** August 31, 2016
 
 American Greetings Corporation, and its subsidiaries and affiliates, which include but are not limited to, AG Interactive, Inc., Cardstore.com, Inc., and AGC, LLC (collectively, "AG," "AG Companies," "we," "us," and "our") value our users and their privacy. This Privacy Notice applies to all websites (any, a "Site"), mobile applications (any, an "App"), social features, online services, widgets, downloads, or other outlets, that are owned or controlled by AG and that post or include a link to this Privacy Notice (individually, a "Platform," and collectively, the "Platforms"), regardless of whether accessed by computer, mobile device, or otherwise. By using our services, you accept the practices described in this Privacy Notice. The Platforms include, but are not limited to:
 
 *   American Greetings Website &. Apps, www.americangreetings.com, owned or operated by AG Interactive, Inc.
+*   Blue Mountain Website &. Apps, www.bluemountain.com, owned or operated by AG Interactive, Inc. and BMA Holdings, LLC
 *   Cardstore Website &. Apps, www.cardstore.com, owned or operated by Cardstore, Inc.
 *   justWink Website &. Apps, www.justwink.com, owned or operated by AG Interactive, Inc. and AGC, LLC.
 *   LiveGreetings Website &. Apps, www.livegreetings.com, owned or operated by AGC, LLC
@@ -33,8 +34,9 @@ TABLE OF CONTENTS
         2.  Web Beacons and Pixels
         3.  Location-identifying Technologies
         4.  Embedded Scripts
-    3.  Information You Provide About Third Parties
-    4.  Information Third Parties Provide About You
+    3.  Do Not Track
+    4.  Information You Provide About Third Parties
+    5.  Information Third Parties Provide About You
 2.  HOW WE USE THE INFORMATION WE COLLECT
 3.  HOW AND WHEN WE DISCLOSE INFORMATION TO THIRD PARTIES
     1.  General Statement Regarding Information Sharing
@@ -104,12 +106,17 @@ TABLE OF CONTENTS
             An embedded script is programming code that is designed to collect information about your interactions with the Platforms, such as the links you click on. The code is temporarily downloaded onto your Device from our web server or a third party service provider, is active only while you are connected to the Platforms, and is deactivated or deleted thereafter.
             
             Back to top
-    3.  Information You Provide About Third Parties
+    3.  Do Not Track
+        
+        The platform does not currently support recognition of Do Not Track signals sent by a browser.
+        
+        Back to top
+    4.  Information You Provide About Third Parties
         
         The Platforms may permit you to provide Personal Information about third parties, such as mailing address, email addresses, or significant dates (such as birthdays or anniversaries), and may permit you to do so through the use of Social Features or a Contact Importer. If you use the Platforms to send an ecard, paper card, gift card, or any other content, we collect certain Personal Information about the recipient (such as name, mailing address, and email address, as applicable). We may share the information regarding your transaction with third parties as necessary to process your transaction (i.e., to create, send or deliver the card). If you choose to provide Personal Information about third parties, we will store that information only in connection with your relationship with us (e.g., to send greeting cards).
         
         Back to top
-    4.  Information Third Parties Provide About You
+    5.  Information Third Parties Provide About You
         
         We may receive information about you from third parties. For example, if you are on another website and you opt-in to receive information from AG, the other website will forward your contact and other information to us so that we may contact you as requested. Further, we may receive certain information about you from third parties if you engage the third parties in connection with our Platforms – for example, if you download one of our Apps from an app store, make an in-app purchase, connect via Social Features, or make a payment using a third-party payment provider like PayPal, consistent with the privacy policies of the applicable third parties.
         
@@ -254,7 +261,7 @@ TABLE OF CONTENTS
         
         California Civil Code section 1798.83 permits California residents to request from AG certain information regarding the disclosure of certain categories of Personal Information to third parties for their direct marketing purposes within the immediately preceding calendar year. A company may also comply with the law by disclosing in its privacy notice that it provides consumers choice (opt-out or opt-in) regarding sharing Personal Information with third parties for those third parties' direct marketing purposes (as AG does), and information on how to exercise that choice.
         
-        If you are a California resident and you have questions about our practices with respect to sharing information with third parties for their direct marketing purposes and your ability to exercise choice, please send your request to the following email address: help@americangreetings.com or write to us at the following mailing address: AmericanGreetings.com, One American Road, Cleveland, OH 44144. You must put the statement "Your California Privacy Rights" in the subject field of your e-mail or include it in your writing if you choose to write to us at the designated mailing address. You must include your name, street address, city, state, and zip code. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
+        If you are a California resident and you have questions about our practices with respect to sharing information with third parties for their direct marketing purposes and your ability to exercise choice, please send your request to the following email address: help@americangreetings.com or write to us at the following mailing address: AmericanGreetings.com, One American Boulevard, Cleveland, OH 44145. You must put the statement "Your California Privacy Rights" in the subject field of your e-mail or include it in your writing if you choose to write to us at the designated mailing address. You must include your name, street address, city, state, and zip code. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
         
         If you are a California resident under the age of 18, and a registered user of any Platform, California Business and Professions Code Section 22581 permits you to request and obtain removal of content that you have publicly posted. To make such a request, please send an e-mail with a detailed description of the specific content to help@americangreetings.com. Please be aware that such a request does not ensure complete or comprehensive removal of the content or information that you have posted and there may be circumstances in which the law does not require or allow removal even if requested.
         
