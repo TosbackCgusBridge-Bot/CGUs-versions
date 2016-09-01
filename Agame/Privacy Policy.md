@@ -102,11 +102,11 @@ View more results
 *   Hot Games
     
     *   Fragoria
-    *   Warbanner
-    *   Summer Sports: Volleyball
-    *   Mad Day 2
-    *   My Dolphin Show 7
+    *   Tanki Online
+    *   Summer Sports: Water Polo
     *   SuperSnake.io
+    *   Hero Simulator: Idle Adventure
+    *   The Cursed Woods
     
     Mobile Apps More
     
