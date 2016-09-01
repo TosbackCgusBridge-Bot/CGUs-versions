@@ -124,4 +124,4 @@ This Statement went into effect on the date noted at the top of this webpage. We
 
 Contact Us
 
-We welcome your questions, comments and concerns about privacy. You can contact Starbucks Customer Service online at http://customerservice.starbucks.com, by phone at 800-Starbuc (782-7282), or by postal mail at: Starbucks Customer Service, PO Box 6363 Dover, DE 19905-6363.
+We welcome your questions, comments and concerns about privacy. You may use this form to ask Starbucks a privacy question or correct personal information found in your Starbucks.com profile, mobile application, or another Starbucks owned digital property. You can contact Starbucks Customer Service online at http://customerservice.starbucks.com, by phone at 800-Starbuc (782-7282), or by postal mail at: Starbucks Customer Service, PO Box 6363 Dover, DE 19905-6363.
