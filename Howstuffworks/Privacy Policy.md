@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**This 'Smart Jacket' Knows What Temperature Will Keep You Warm This Winter**
+**How Generic EpiPen is Still Going to Make Money for Mylan**
 
-**Ultrasound Helped a Patient Recover Remarkably From a Coma**
+**Women With Autism Aren't Getting Diagnosed**
 
-**Ridiculous History: LBJ Talked on the Phone More Than a Teenager**
+**Weird Physics: The Closer You Get to the Sun, the Cooler It Gets**
 
 **See More Headlines »**
 
