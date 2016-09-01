@@ -47,6 +47,9 @@ Communicate with Us the Old-Fashioned Ways
 9am to 6pm EST  
 Monday - Friday
 
+Our customer service will be **closed** for  
+**Labor Day** on **September 5**
+
 *   1-888-GEEKSTUFF
     
     (1-888-433-5788)
