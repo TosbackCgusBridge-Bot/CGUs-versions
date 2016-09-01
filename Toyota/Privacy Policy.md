@@ -59,7 +59,6 @@ Hybrids & Fcv
 Upcoming Vehicles
 
 *   2017 Prius Prime View More Info
-*   2017 Toyota 86 View More Info
 *   2017 Corolla View More Info
 *   2017 Highlander View More Info
 *   Concept Vehicles View More Info
