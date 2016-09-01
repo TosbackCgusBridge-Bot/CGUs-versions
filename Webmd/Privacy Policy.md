@@ -158,7 +158,7 @@ Skip to content Check Your Symptoms Find A Doctor Sign In Sign UpSubscribe
         
         Read expert perspectives on popular health topics.
         
-    *   Community
+    *   Message Boards
         
         Connect with people like you, and get expert guidance on living a healthy life.
         
