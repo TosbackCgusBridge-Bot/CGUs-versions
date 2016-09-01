@@ -8,6 +8,11 @@ Sign In or Sign Up
 
 *   Home
 
+*   Products
+    *   Browse Products
+    *   Post a Job
+    *   Search Resumes
+    *   Resource Center
 *   Browse Products
     *   Broadbean Job Distribution  
         Multi-job posting across networks
