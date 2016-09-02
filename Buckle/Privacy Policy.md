@@ -34,41 +34,44 @@
         *   Tops
         
         *   Tees
-        *   Tank Tops
         *   Shirts/Blouses
         *   Bandeaus/Bralettes
-        *   Bodysuits
         *   Fashion
+        *   Sweatshirts
+        *   Sweaters
+        *   Coats/Jackets
         *   Show All Tops
         
         *   Bottoms
         
         *   Jeans
-        *   Shorts
-        *   Crops/Capris
-        *   Skirts
+        *   Ankle Skinnys
         *   Pants
+        *   Leggings
+        *   Skirts
+        *   Shorts
         *   Show All Bottoms
         
         *   Shoes
         
-        *   Sandals
-        *   Flips
-        *   Sneakers
-        *   Wedges
         *   Boots
+        *   Sneakers
+        *   Trend Heels
+        *   Sandals
+        *   Flats
+        *   Flips
+        *   Wedges
         *   Show All Shoes
         
         *   More
         
         *   Accessories
-        *   Watches
-        *   Activewear
+        *   Hats
         *   Bags
         *   Dresses
-        *   Swimwear
-        *   Factory Seconds
-        *   Show All
+        *   Belts
+        *   Scarves
+        *   Socks
         
           
           
