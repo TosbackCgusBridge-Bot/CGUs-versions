@@ -1,4 +1,4 @@
-Données personnelles et Cookies
+Retour Données personnelles et Cookies
 
 **Bienvenue sur le site Redoute.fr.**  
 **Cette rubrique est consacrée à notre Politique de Protection de la Vie Privée.**
