@@ -358,7 +358,6 @@ Menu
     *   Internships and co-ops
         *   Internships and co-ops
         *   About the intern/co-op program
-        *   View all open job postings
         *   Our internship/co-op work locations
     *   Undergraduates
     *   MBA and Graduate Students
@@ -382,6 +381,7 @@ Menu
         *   Our locations
         *   Meet our apprentices
         *   Application and assessment
+        *   High school students
     *   Employee rights under federal law
     
     *   Search jobs and apply
