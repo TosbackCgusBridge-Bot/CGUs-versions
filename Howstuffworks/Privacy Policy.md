@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**How Generic EpiPen is Still Going to Make Money for Mylan**
+**If We Could Bioenhance People to Be Nicer, Should We?**
 
-**Women With Autism Aren't Getting Diagnosed**
+**You're Fired! AAP Backs Docs Who Refuse to Treat Kids of Anti-Vaxxers**
 
-**Weird Physics: The Closer You Get to the Sun, the Cooler It Gets**
+**Earth Is in a New Epoch Because of Humans, Scientists Say**
 
 **See More Headlines »**
 
