@@ -125,6 +125,7 @@ Legal Notices &. Trademarks
 *   Autodesk Terms and Conditions Governing the Provision of Consulting Services
 *   Online Purchases and Auto-Renewal Terms and Conditions
 *   Legal Disclosures
+*   Autodesk Quote and Order Direct Order Terms and Conditions
 
   Privacy Statement - UPDATED JULY 29, 2016
 
