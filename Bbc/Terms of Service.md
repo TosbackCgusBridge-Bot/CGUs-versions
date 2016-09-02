@@ -1,6 +1,6 @@
 Terms of Use of BBC Online Services - Personal Use
 
-These terms were last updated on 15 October 2012
+These terms were last updated on 1 September 2016
 
 *   1\. What are these Terms of Use about?
 *   2\. What are BBC Online Services?
@@ -75,8 +75,11 @@ Skip to top
 *   **3.2.1** _If you are outside the UK_
 *   You may not access, view and/or listen to certain parts of BBC Content (such as video or live television services) using BBC Online Services if you are outside the UK, although you may, in accordance with the Terms, access and view bbc.co.uk or other websites and listen to some (but not all) BBC radio content. The types of BBC Content that may be available outside the UK will usually depend on the BBC's agreements with the persons who own rights in such content.
 *   **3.2.2** _If you do not have a valid television licence_
-*   You may not watch television programmes using BBC Online Services on any device (including mobile phones, "smart" phones or devices, laptops, tablets and personal computers) at the same time (or virtually the same time) as the programmes are being broadcast, simulcast or otherwise made available by the BBC on television, unless you have a valid television licence. For more information on this requirement please see the Frequently Asked Questions or you can contact TV Licensing by calling 0870 241 5590 or by visiting www.tvlicensing.co.uk.  
-    
+*   When you need a TV licence:
+    *   To watch or record live TV programmes on any channel, or to watch or download BBC programmes on iPlayer when you're in the UK, the Channel Islands or the Isle of Man.
+    *   This could be on any device, including a TV, desktop computer, laptop, mobile phone, tablet, games console, digital box or DVD/VHS recorder.
+    *   If you're outside these areas you need to check if your country has its own TV licensing scheme.
+*   To find out more, visit tvlicensing.co.uk. Or call them on 0300 790 6071.
 *   **3.2.3** _General restrictions on how you may use BBC Online Services to access, view_ _and/or listen to BBC Content_
     *   (a) You may not infringe or try to infringe the privacy or other rights of other BBC Online Services users. This includes you storing or trying to store personal data or usage details of other BBC Online Services users.
     *   (b) You may not infringe any applicable law (for instance copyright law) when using BBC Online Services to access, view or listen to BBC Content.
