@@ -66,12 +66,13 @@
         *   More
         
         *   Accessories
-        *   Hats
         *   Bags
+        *   Hats
         *   Dresses
         *   Belts
         *   Scarves
         *   Socks
+        *   Show All
         
           
           
