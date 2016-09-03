@@ -1,7 +1,7 @@
 Log in with your social account: Or, you can log in or sign up using Forbes.
 
 *   Editors' Picks
-*   New Posts +1 posts this hour
+*   New Posts
 *   Most Popular Thiel Vs. Gawker
 *   Lists Best Cities For Kids
 *   Video Hybrid Cars
