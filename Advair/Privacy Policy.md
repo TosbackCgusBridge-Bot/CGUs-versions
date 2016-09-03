@@ -275,6 +275,12 @@ Menu
         *   GSK IMPACT Grants
         *   GSK Opportunity Scholarships
         *   Science in the Summer™
+        *   GSK IMPACT Grants: Our kids leading the way to a healthier community
+            *   GSK IMPACT Grants: Our kids leading the way to a healthier community
+            *   Denver, CO: How do you help make a healthy community even healthier?
+            *   Philadelphia, PA: How can we make the biggest impact on young people’s health?
+            *   East St. Louis, IL: Can we work together to improve the health of a community?
+            *   Triangle Region, NC: How can we support young people aging out of the foster care system to become healthy adults?
     *   Disaster preparedness and resilience
         *   Disaster preparedness and resilience
         *   The Resilient Children/Resilient Communities Initiative
@@ -359,6 +365,7 @@ Menu
         *   Internships and co-ops
         *   About the intern/co-op program
         *   Our internship/co-op work locations
+    *   Internships and co-ops (1)
     *   Undergraduates
     *   MBA and Graduate Students
         *   MBA and Graduate Students
@@ -381,7 +388,7 @@ Menu
         *   Our locations
         *   Meet our apprentices
         *   Application and assessment
-        *   High school students
+    *   High school students
     *   Employee rights under federal law
     
     *   Search jobs and apply
