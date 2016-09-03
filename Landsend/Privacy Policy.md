@@ -136,7 +136,7 @@ menu 0
     FEATURED SHOPS
     
     *   New Arrivals
-    *   Backpacks &. Lunch Boxes
+    *   Outerwear Shop
     *   School Uniforms
     *   Iron Knee Pants
     *   Girls' Knit Kit
@@ -276,7 +276,7 @@ menu 0
     
     *   Best-in-Class Polos
     *   Iron Knee Pants
-    *   Backpacks &. Lunch Boxes
+    *   Kids' Outerwear Shop
     *   Spiritwear
     *   After School
     *   Sale
@@ -471,7 +471,7 @@ menu 0
     Back | Kids FEATURED SHOPS Back | Kids
     
     *   New Arrivals
-    *   Backpacks &. Lunch Boxes
+    *   Outerwear Shop
     *   School Uniforms
     *   Iron Knee Pants
     *   Girls' Knit Kit
@@ -610,7 +610,7 @@ menu 0
     
     *   Best-in-Class Polos
     *   Iron Knee Pants
-    *   Backpacks &. Lunch Boxes
+    *   Kids' Outerwear Shop
     *   Spiritwear
     *   After School
     *   Sale
