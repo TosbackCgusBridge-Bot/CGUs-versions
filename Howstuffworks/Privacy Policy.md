@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**If We Could Bioenhance People to Be Nicer, Should We?**
+**One in Six Say They'd Rather Die 'Young.' What Age Is That?**
 
-**You're Fired! AAP Backs Docs Who Refuse to Treat Kids of Anti-Vaxxers**
+**A Year in Isolation: What We Learned From the Latest Mars Simulation**
 
-**Earth Is in a New Epoch Because of Humans, Scientists Say**
+**Superlong-Lasting Smartphone Battery to Hit Market Next Year**
 
 **See More Headlines »**
 
