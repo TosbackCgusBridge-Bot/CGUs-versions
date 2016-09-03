@@ -82,7 +82,6 @@ Make as many hires as you can from your exclusive pool of screened candidates - 
 Resources  
 
 *   *   \>. Data Sheet: Source &. Screen
-    *   \>. **Coming Soon:** Buyer's Checklist
     *     
         
 
