@@ -112,9 +112,9 @@ View more results
     
     *   Mad Day 2
     *   Summer Sports
-    *   Mad Truck Challenge: The Beginning
     *   Hero Simulator: Idle Adventure
     *   My Dolphin Show 8
+    *   Mad Truck Challenge: The Beginning
     *   Trollface Quest TrollTube
     
     Specials
