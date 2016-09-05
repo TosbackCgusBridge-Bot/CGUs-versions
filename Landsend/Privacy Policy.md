@@ -98,7 +98,6 @@ menu 0
     *   Supima Shirts &. Sweaters
     *   Legends Of Fall
     *   Tailored Fit Shop
-    *   Suit Separates
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -115,6 +114,7 @@ menu 0
     *   Activewear
     *   Sweaters
     *   Sportcoats &. Blazers
+    *   Suiting
     *   Pants
     *   Jeans
     *   Shorts
@@ -433,7 +433,6 @@ menu 0
     *   Supima Shirts &. Sweaters
     *   Legends Of Fall
     *   Tailored Fit Shop
-    *   Suit Separates
     *   Sale
     
     SHOP BY SIZE RANGE Back | Men
@@ -450,6 +449,7 @@ menu 0
     *   Activewear
     *   Sweaters
     *   Sportcoats &. Blazers
+    *   Suiting
     *   Pants
     *   Jeans
     *   Shorts
