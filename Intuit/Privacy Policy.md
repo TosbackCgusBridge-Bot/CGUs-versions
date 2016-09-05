@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.9
 *   customer service
     
 
-true true C15282465056
+true true L15343743041
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Fri Sep 02 11:15:35 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Sun Sep 04 11:15:28 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -56,21 +56,25 @@ Labor Day Sale &. Clearance In Store &. Online | Ends September 5 Shop Sale: Vie
 
 Need help? Call 1-844-JCP-APPL (1-844-527-2775)
 
-Find a Store: Up to 30% Off\* Major Appliances
+Delivery not available in all markets.
+
+Get Details:Up to 30% Off\* Major Appliances
 
 Select styles
 
-Shop Major Appliances: 18 Months or 30 Months Special Financing\*\*
+Shop Major Appliances:18 Months or 30 Months Special Financing\*\*
 
-Available on qualifying major appliance purchases made through 914/16 on a JCPenney Credit Card. Must request at time of purchase
+Available on qualifying major appliance purchases made through 9/14/16 on a JCPenney Credit Card. Must request at time of purchase.
 
 \*GE, GE Profile &. GE Cafe limited to 10% off savings.
 
-\*\*Get Details: Apply Now: Free Delivery &. Basic Installation
+Don't have a JCPenney Credit Card?
+
+\*\*Get Details: Apply Now:Free Delivery &. Basic Installation
 
 On all appliance purchases over $299
 
-Get Details: JCPenney Rewards Shop &. Get Rewards
+Get Details:JCPenney Rewards Shop &. Get Rewards
 
 For points earned on major appliances+
 
@@ -78,35 +82,41 @@ For points earned on major appliances+
 
 Select styles
 
-Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining 40 to 60% Off Furnture and Mattresses
+Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining40 to 60% Off Furnture and Mattresses
 
 Select styles
 
 Shop Furniture &. Mattresses   Levi's® Lowest Price of the Season 39.99 Guys' Levi's 511™ Slim Fit Jeans\*
 
-reg. 69.50, select styles, Offers and coupons do not apply
+Select styles, reg. 69.50, Offers and coupons do not apply
 
-Shop Guys' Levi's 36.99 Levi's 524™ Skinny Jeans for Her
+Shop Guys' Levi's36.99 Levi's 524™ Skinny Jeans for Her
 
-reg. 49.50, Offers and coupons do not apply
+Select styles, reg. 54.50, Offers and coupons do not apply
 
 Shop Levi's for Her
 
 \*Levi's lowest prices of the season is valid through 9/5. prices may be further reduced on items as a part of clearance in the future.
 
-    Back To School
+    Carter's Baby Sale In Store &. Online | Through September 25 Shop Carter'sBig Buy -- $15 Off
 
-so you. so worth it.
+Carter's 3-Piece Cardigan &. Vest Sets
 
-Shop Back to School Now Sephora Shop Top-Rated Beauty: JCPenney | optical Kids' Glasses $39.99, one pair Kids' Glasses $69.99, two pairs
+reg. $30-$32
 
-Ends September 30
-
-Get Details: Red Zone END OF SEASON Clearance 80% Off Final Markdowns Plus! New Markdowns 50 to 70% Off Shop Clearance Now: JCP Salon Save on Chi Flat Irons
+Shop Cardigan &. Vest Sets Sephora Shop Sephora Collection: JCP Salon 33% Off Haircare Products
 
 Select styles
 
-Shop Now: true
+Shop Now: JCPenney | portraits
+
+Free 8x10
+
+3.99 Portrait Sheets
+
+40% Off Your Photo Purchase
+
+Get Details: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play true
 
 get connected
 
