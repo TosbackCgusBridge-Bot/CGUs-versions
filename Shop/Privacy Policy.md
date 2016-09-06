@@ -331,7 +331,6 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Product Compliance
     *   Blogs
     *   Affinity Discount Program
-    *   Customer Feedback
     *   Forums
     *   Help Me Find a PC
     *   Reset my Homepage
