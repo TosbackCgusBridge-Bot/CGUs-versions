@@ -1,36 +1,222 @@
   
   
-
-*   Home
-*   Video
-*   Themen
-*   Forum
-*   English
-*   DER SPIEGEL
-*   SPIEGEL Plus
-*   Abo
-*   Shop
-
-*   Schlagzeilen
-*   Wetter
-*   TV-Programm
-*   mehr ▼
-    *   Hilfe
-    *   RSS
-    *   Newsletter
-    *   Mobil
+Mein SPIEGEL
 
 Mein SPIEGEL
 
-*   Mein SPIEGEL
+*   Schlagzeilen ǀ
+*   Wetterǀ
+*   DAX 10.672,22ǀ
+*   TV-Programmǀ
+*   Abo
+
+Mein SPIEGEL
+
+*   Nachrichten
+*   Schlagzeilen
+
+*   Nachrichtenarchiv
+*   Newsletter
+*   RSS
+*   Mobil
+*   mehr
+    
+    *   Story
+    *   Fotostrecken
+    *   Infografiken
+    *   Hilfe
+    *   Impressum
+
+*   Politik
+    *   *   Übersicht
+        *   Deutschland
+        *   Ausland
+        *   Europa
+        *   Meinung
+    
+*   Meinung
+*   Wirtschaft
+    *   *   Übersicht
+        *   Börse
+        *   Verbraucher &. Service
+        *   Versicherungen
+        *   Unternehmen &. Märkte
+        *   Staat &. Soziales
+        *   Innovationen
+    *   *   Brutto-Netto-Rechner
+        *   Jobsuche
+        *   Immowelt
+        *   Tarifvergleiche
+        *   Kreditvergleich
+*   Panorama
+    *   *   Übersicht
+        *   Justiz
+        *   Leute
+        *   Gesellschaft
+        *   Multimedia-Reportagen
+        *   Elterncouch
+    *   *   LOTTO 6aus49
+        *   Eurojackpot
+*   Sport
+    *   *   Übersicht
+        *   Olympia 2016
+        *   Fußball-Liveticker
+        *   Fußball-News
+        *   Champions League
+        *   Fußball-Tippspiel
+        *   Formel 1
+        *   Formel-1-Liveticker
+        *   Ergebnisse
+        *   Live-Kalender
+        *   Wimbledon
+    *   *   Bundesliga präsentiert von  
+            Continental
+*   Kultur
+    *   *   Übersicht
+        *   Kino
+        *   Musik
+        *   TV
+        *   Literatur
+        *   Gutenberg
+        *   Bestseller
+    
+*   Video
+*   Netzwelt
+    *   *   Übersicht
+        *   Netzpolitik
+        *   Web
+        *   Gadgets
+        *   Games
+        *   Apps
+    
+*   Wissenschaft
+    *   *   Übersicht
+        *   Mensch
+        *   Natur
+        *   Technik
+        *   Weltall
+        *   Medizin
+        *   Datenlese
+        *   ÜberMorgen
+    *   *   Sudoku
+        *   Kenken
+        *   Street
+
+*   Gesundheit
+    *   *   Übersicht
+        *   Diagnose &. Therapie
+        *   Ernährung &. Fitness
+        *   Psychologie
+        *   Sex &. Partnerschaft
+        *   Schwangerschaft &. Kind
+    *   *   BMI-Rechner
+        *   Kalorienrechner
+        *   Arztsuche
+*   einestages
+    *   *   Übersicht
+        *   Zeitzeugen
+        *   Erster Weltkrieg
+        *   Zweiter Weltkrieg
+        *   DDR
+        *   Fotografie
+        *   Film
+        *   Musik
+        *   Archiv
+*   KarriereSPIEGEL
+*   Leben und Lernen
+    *   *   Übersicht
+        *   Schule
+        *   Uni
+        *   Job
+*   bento
+*   Reise
+    *   *   Übersicht
+        *   Weltkarte
+        *   Städtereisen
+        *   Deutschland
+        *   Europa
+        *   Fernweh
+        *   Skiatlas
+    *   *   Secret Escapes
+*   Auto
+    *   *   Übersicht
+        *   Tests
+        *   Fahrkultur
+    *   *   Neu-/Gebraucht-Fahrzeuge
+        *   Kfz-Versicherung
+*   Stil
+    *   *   Übersicht
+        *   Design
+        *   Mode
+        *   Kochen
+        *   Reisen
+        *   Hotels
+    
+*   English
+    *   *   Front Page
+        *   World
+        *   Europe
+        *   Germany
+        *   Business
+        *   Zeitgeist
+        *   BeyondTomorrow
+        *   Newsletter
+
+*   SPIEGEL Plus
+*   DER SPIEGEL
+    
+    *   **DER SPIEGEL  
+        (digitales Magazin)**
+    *   Titelbilder &. Heftarchive
+    *   Abo-Angebote
+    *   Shop
+    *   SPIEGELblog
+*   SPIEGEL TV Magazin
+    *   *   Übersicht
+        *   TV-Programm
+        *   SPIEGEL.TV
+*   Forum
+    *   *   Übersicht
+        *   Votes
+        *   Netiquette
+*   Themen
+*   Service
+    
+    *   Wetter
+    *   Börse
+    *   TV-Programm
+    *   Benzinpreis
+    *   Bußgeldrechner
+    *   Werkstattvergleich
+    *   Bücher bestellen
+    *   DSL-Vergleich
+    *   Ferientermine
+    *   Gasanbietervergleich
+    *   Stromanbietervergleich
+    *   Energiesparratgeber
+    *   Energievergleiche
+    *   Gehaltscheck
+    *   Uni-Tools
+    *   Währungsrechner
+    *   Versicherungen
+
+Abbrechen Zeitraumallesletzte Wocheletzter Monatletztes Jahrseit 2005vor 2005vor 2000vor 1995vor 1990vor 1980vor 1970vor 1960 Überschrift und VorspannVolltextAutor
 
 *   Nachrichten
 *   \>Mein SPIEGEL
 *   \>Allgemeine Nutzungsbedingungen
 
   
-Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen.  
+  
 Allgemeine Nutzungsbedingungen
+
+Donnerstag, **12.08.2010**   11:29 Uhr
+
+*   Drucken
+*   Nutzungsrechte
+*   Feedback
+
+  
 
 **Liebe Leserin, lieber Leser,**
 
@@ -406,156 +592,78 @@ Zur Startseite Diesen Artikel...
 *   Feedback
 *   Nutzungsrechte
 
+  
+  
+
 **© SPIEGEL ONLINE 2010**  
 Alle Rechte vorbehalten  
 Vervielfältigung nur mit Genehmigung der SPIEGELnet GmbH
 
   
-  
-
-*   Donnerstag, 12.08.2010 – 11:29 Uhr
-*   Drucken
-*   Nutzungsrechte Feedback
-
-Gliederung
-
-**A) Allgemeine Nutzungsbedingungen**
-
-*   1\. Geltungsbereich
-*   2\. Verfügbarkeit
-*   3\. Eröffnung eines Benutzerkontos
-*   4\. Pflichten des Nutzers
-*   5\. Nutzungsumfang
-*   6\. Datenschutz
-*   7\. Gewährleistung und Haftung
-*   8\. Leistungsänderung
-*   9\. Kündigung
-*   10\. Schlussbestimmungen
-
-**B) Besondere Nutzungsbedingungen**
-
-*   1\. Forum
-*   2\. Reise
-*   3\. einestages.de
-
-  
-  
-  
-  
-  
-  
-TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
+Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen. Serviceangebote von SPIEGEL-ONLINE-Partnern
 
 *   AUTO
 *   Benzinpreis
-*   Bußgeld-  
-    rechner
-*   Neu-/Gebraucht-  
-    Fahrzeuge
-*   Werkstatt-  
-    vergleich
-*   Kfz-  
-    Versicherung
-
-*   FREIZEIT
-*   Eurojackpot
-*   Lottozahlen
-*   Bücher  
-    bestellen
-*   Sudoku
-*   Kenken
-
-*   AUTO UND FREIZEIT
-*   Arztsuche
-*   DSL-Vergleich
-*   Ferientermine
-*   Traumreise
+*   Bußgeldrechner
+*   Neu-/Gebraucht-Fahrzeuge
+*   Werkstattvergleich
+*   Kfz-Versicherung
 
 *   ENERGIE
-*   Gasanbieter-  
-    vergleich
-*   Stromanbieter-  
-    vergleich
-*   Energiespar-  
-    ratgeber
-*   Energie-  
-    vergleiche
+*   Gasanbietervergleich
+*   Stromanbietervergleich
+*   Energievergleiche
 
 *   JOB
 *   Gehaltscheck
-*   Brutto-Netto-  
-    Rechner
+*   Brutto-Netto-Rechner
 *   Uni-Tools
 *   Jobsuche
 
 *   FINANZEN
-*   Währungs-  
-    rechner
-*   Immobilien-  
-    Börse
-*   Kredit-  
-    vergleich
+*   Währungsrechner
+*   Immobilien-Börse
+*   Kreditvergleich
 *   Versicherungen
 
-*   Home
-*   Politik
-*   Wirtschaft
-*   Panorama
-*   Sport
-*   Kultur
-*   Netzwelt
-*   Wissenschaft
-*   Gesundheit
-*   einestages
-*   Uni
-*   Reise
-*   Auto
-*   Stil
-*   Wetter
+*   FREIZEIT
+*   *   Eurojackpot
+    *   Lottozahlen
+    *   Bücher bestellen
+    *   Sudoku
+    *   Kenken
+*   *   Arztsuche
+    *   DSL-Vergleich
+    *   Ferientermine
+    *   Traumreise
 
-*   **DIENSTE**
-*   Schlagzeilen
-*   Nachrichtenarchiv
-*   RSS
-*   Newsletter
-*   Mobil
+SPIEGEL GRUPPE
 
-*   **VIDEO**
-*   Nachrichten Videos
-*   SPIEGEL TV Magazin
-*   SPIEGEL TV Programm
-*   SPIEGEL Geschichte
-*   SPIEGEL TV Wissen
+*   Abo
+*   \-Shop
+*   \-manager magazin
+*   \-Harvard Business Manager
+*   \-buchreport
+*   \-buch aktuell
+*   \-Der Audio Verlag
 
-*   **MEDIA**
-*   SPIEGEL QC
-*   Mediadaten
-*   Selbstbuchungstool
-*   weitere Zeitschriften
-
-*   **MAGAZINE**
 *   DER SPIEGEL
 *   Dein SPIEGEL
 *   SPIEGEL GESCHICHTE
 *   SPIEGEL WISSEN
+*   SPIEGEL BIOGRAFIE
+*   Edition Geschichte
+*   SPIEGEL JOB
+*   CHRONIK 2015
 *   UNI SPIEGEL
+*   LITERATUR SPIEGEL
 
-*   **SPIEGEL GRUPPE**
-*   Abo
-*   Shop
-*   SPIEGEL TV
-*   manager magazin
-*   Harvard Business Man.
-*   buchreport
-*   buch aktuell
-*   Der Audio Verlag
-*   SPIEGEL-Gruppe
+*   Twitter
+*   Facebook
+*   Google+
 
-*   **WEITERE**
-*   Hilfe
-*   Kontakt
-*   Nutzungsrechte
-*   Datenschutz
 *   Impressum
-
-TOP
+*   \-Datenschutz
+*   \-Nutzungsrechte
+*   \-Kontakt
+*   \-Hilfe
