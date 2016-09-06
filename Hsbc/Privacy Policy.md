@@ -62,7 +62,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Reputational and operational risks
         *   USA Patriot Act certification
     
-    *   Valuing diversity Birgit Neu on the importance of diversity and inclusion at HSBC.
+    *   Sustainability quick read Read an overview of sustainability at HSBC.
 *   Investor relations
     
     *   Financial and regulatory reports
