@@ -1,7 +1,7 @@
-campaign: inyt2016\_bar1\_digi\_fall\_68LKW -- 284226, creative: 1\_CRS-11587\_bar1\_inyt\_fall\_launch\_68LKW -- 414562, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
+campaign: inyt2016\_bar1\_digi\_fall\_68LKW -- 284226, creative: 2\_CRS-11587\_bar1\_inyt\_fall\_endstoday\_68LKW -- 414564, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
 
 *   1 of 10 articles read
-*   SUBSCRIBE NOW The Digital Sale For a Limited Time  
+*   SUBSCRIBE NOW The Digital Sale Ends today  
     60% Off.  
     Unlimited Access. SAVE NOW
 
@@ -251,4 +251,4 @@ Search Help
 *   Contact Us
 *   Site Feedback
 
-Campaign ID: 283468 | Creative: nyt2016\_personalization\_B2B\_cookiesetter\_v4 -- 414693 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Inv2
+Campaign ID: 283468 | Creative: nyt2016\_personalization\_B2B\_cookiesetter\_v4 -- 414693 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Inv3
