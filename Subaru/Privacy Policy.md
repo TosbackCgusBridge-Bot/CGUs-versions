@@ -16,15 +16,15 @@ To connect with Subaru of Hawaii, please click here
 *   Build Your Own
 *   Find a Retailer
 
-BRZ $25,395 starting price 2016 BRZ
+BRZ $25,495 starting price 2017 BRZ
 
 Starting at
 
-$25,395 MSRP
+$25,495 MSRP
 
 Up to
 
-30/22 MPG Hwy/City
+29/22 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
