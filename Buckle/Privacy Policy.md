@@ -82,11 +82,11 @@
         
         *   New Arrivals
         *   Promotions
-        *   Buckle Exclusive
         *   Shop by Outfit
         *   Shop Instagram
         *   Shop by Brand
         *   Buckle Select
+        *   Buckle Exclusive
         
         *   Tops
         
@@ -366,7 +366,6 @@ Buckle Guest Loyalty
 
 *   Buckle Guest Loyalty Program
 *   Buckle Guest Loyalty Terms &. Conditions
-*   Primo Card
 
 Privacy &. Security
 
