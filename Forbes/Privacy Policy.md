@@ -1,7 +1,7 @@
 Log in with your social account: Or, you can log in or sign up using Forbes.
 
 *   Editors' Picks
-*   New Posts +1 posts this hour
+*   New Posts +2 posts this hour
 *   Most Popular Thiel Vs. Gawker
 *   Lists Best Cities For Kids
 *   Video Hybrid Cars
@@ -65,7 +65,7 @@ We partner with a third party ad network to either display advertising on our We
 Inside Forbes Model Ashley Graham Wants To Be The Next Kathy Ireland The success Ashley Graham has found in business is something that’s inherent in being a successful model.
 
 *   Inside America's Best Cities For Raising A Family
-*   The Value Of An EpiPen
+*   6 Things Working Parents Look For In A New Job
 
 *   Inside James Dyson's Reinvention Factory
 *   Real-Time Billionaires
