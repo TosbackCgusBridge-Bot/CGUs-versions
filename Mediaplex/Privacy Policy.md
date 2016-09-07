@@ -76,9 +76,13 @@ Login Let's Connect What We Do Watch Video
     Return On Ad Spend
 
 *   The Latest News
+*   A Clearer Path to Ad Quality
+    
+    Our industry-leading partnership with TAG  
+    
 *   The 99%+ Human Guarantee
     
-    Stop wasting money on bots  
+    Stop wasting money on bots
     
 *   Conversant Wins 2016 Webby Award
     
@@ -87,10 +91,6 @@ Login Let's Connect What We Do Watch Video
 *   Success You Can Measure
     
     The essential way to gauge campaigns
-    
-*   Building Consumer Profiles
-    
-    6 things every marketer should know
     
 *   Ads They'll Actually Like
     
