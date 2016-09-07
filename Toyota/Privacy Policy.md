@@ -59,7 +59,6 @@ Hybrids & Fcv
 Upcoming Vehicles
 
 *   2017 Prius Prime View More Info
-*   2017 Corolla View More Info
 *   2017 Highlander View More Info
 *   Concept Vehicles View More Info
 
@@ -110,17 +109,16 @@ Frequently Asked Questions Phone/Fax
 Phone: 800-331-4331  
 Fax: 310-468-7814
 
-M-F 5:00 am - 6:00 pm PT  
-Sat 7:00 am - 4:00 pm PT
+M-F 7:00 a.m. - 7:00 p.m. CT  
+Sat. 7:00 a.m. - 4:30 p.m. CT
 
 Email
 
 Before you email us, please check out our FAQ section. Many of our visitors have found quick answers to their questions by searching our FAQs.
 
 Email Us Postal Mail **Toyota Motor Sales, U.S.A., Inc.**  
-19001 South Western Ave.  
-Dept. WC11  
-Torrance, CA 90501  
+P.O. Box 259001  
+Plano, TX 75025-9001  
 Toyota Owners
 
 A website just for you. Keep track of service history, watch how-to videos, chat with other Toyota owners, and more.
@@ -462,9 +460,8 @@ Learn more
 **How to Contact Us**  
 To contact us with a question call us at 800-331-4331 or mail your inquiry to:  
 Toyota Motor Sales, U.S.A., Inc.  
-19001 South Western Ave.  
-Dept. WC11  
-Torrance, CA 90501  
+P.O. Box 259001  
+Plano, TX 75025-9001  
 To read our full Privacy Policy click here.
 
   
@@ -612,15 +609,14 @@ We may update this Privacy Notice to reflect changes to our information practice
 To contact us with a question call us at 800-331-4331 or mail your inquiry to:
 
 Toyota Motor Sales, U.S.A., Inc.  
-19001 South Western Ave.  
-Dept. WC11  
-Torrance, CA 90501  
+P.O. Box 259001  
+Plano, TX 75025-9001  
 
 You may also obtain an update on our information practices by sending a request to:
 
-Toyota Customer Relations – Mailstop WC 11  
-19001 S. Western Ave.  
-Torrance, CA 90501
+Toyota Motor Sales, U.S.A., Inc.  
+P.O. Box 259001  
+Plano, TX 75025-9001
 
   
 
@@ -642,8 +638,8 @@ New York, NY 10020
 
 Toyota Financial Services is located at:  
 Toyota Financial Services - Mailstop EF10  
-19001 S. Western Ave.  
-Torrance, CA 90501
+P.O. Box 259001  
+Plano, TX 75025-9001
 
 Please click on the link below to view a list of authorized Toyota dealers.  
 Toyota dealers
@@ -651,9 +647,9 @@ Toyota dealers
 You may also obtain this information by sending a request to:  
   
 
-Toyota Customer Relations - Mailstop WC 11  
-19001 S. Western Ave.  
-Torrance, CA 90501
+Toyota Motor Sales, U.S.A., Inc.  
+P.O. Box 259001  
+Plano, TX 75025-9001
 
 Legal Terms _Last Updated Date: January 1, 2016_  
   
@@ -849,10 +845,9 @@ Our agent for notice of claims of copyright or other intellectual property infri
   
 By mail:  
 Copyright Agent  
-c/o Toyota Customer Experience, WC11  
 Toyota Motor Sales, U.S.A., Inc.  
-19001 South Western Avenue  
-Torrance, California 90501  
+P.O. Box 259001  
+Plano, TX 75025-9001  
   
 By phone: 1-800-331-4331  
 By facsimile: 310-468-7814  
@@ -916,9 +911,9 @@ All of the information contained in the Sites is for informational purposes only
 
 (a) Notices And Announcements: Except as expressly provided otherwise herein, all notices to Toyota shall be in writing and delivered via overnight courier or certified mail, return receipt requested to:
 
-Toyota Customer Relations - Mailstop WC11  
-19001 S. Western Ave.  
-Torrance, CA 90501  
+Toyota Motor Sales, U.S.A., Inc.  
+P.O. Box 259001  
+Plano, TX 75025-9001  
   
 
 (b) Severability: If any provision of these Terms are unlawful, void or unenforceable, that provision is deemed severable from these Terms and does not affect the validity and enforceability of any remaining provisions.
