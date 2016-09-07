@@ -204,28 +204,6 @@ menu 0
     *   Snow Boots
     *   Long Underwear
     *   Sale
-*   Swim
-    
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    SHOP SWIM
-    
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
-    
-    FEATURED SHOPS
-    *   Swim Tees &. Rash Guards
-    *   Water Shoes &. Sandals
-    *   Totes &. Beach Bags
-    *   Beach Towels
-    *   Women's Swim Finder
-    *   Sale
 *   Shoes
     
     *   Lands' End
@@ -538,28 +516,6 @@ menu 0
     *   Hats, Gloves &. Scarves
     *   Snow Boots
     *   Long Underwear
-    *   Sale
-*   Swim
-    
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    Back | Swim SHOP SWIM Back | SHOP SWIM
-    
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
-    
-    FEATURED SHOPS Back | Swim
-    *   Swim Tees &. Rash Guards
-    *   Water Shoes &. Sandals
-    *   Totes &. Beach Bags
-    *   Beach Towels
-    *   Women's Swim Finder
     *   Sale
 *   Shoes
     
