@@ -88,23 +88,9 @@ SONY
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! Bringing Innovation to Your Everyday Life
+Your browser does not support JavaScript! Don't Miss This Thriller Starring Morris Chestnut and Regina Hall
 
-See All of the IFA 2016 Announcements
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-See All of the IFA 2016 Announcements
-
-Turn Anything In Your Home Into a Smart Device with MESH
-
-Discover Why MESH Was Developed
+Get Tickets for "When the Bough Breaks"
 
 Close
 
@@ -120,9 +106,15 @@ Sony on YouTube
 
 Play Video
 
-Experience the Future Now
+What If You Could Project a Touchable Screen On Any Surface?
 
-Visit Sony Square NYC
+Introducing the Xperia Projector
+
+Sony on Vine
+
+Meet the Xperia XZ
+
+See Details
 
 Close
 
@@ -132,35 +124,19 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Visit Sony Square NYC
+See Details
 
 Sony on Twitter
 
-Introducing the new Sony Full-Frame FE 50mm F2.8 Macro Lens #SonyAlpha
+Join us September 11 for a seminar &. shoot-along with “The Photo Mom” @merakoh
 
-2016-08-30 23:06:18+00:00
+2016-09-07 08:01:08+00:00
 
 View Tweet
 
-How the Future Lab Program
+Coding Made Easy
 
-Tests New Products
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Tests New Products
-
-Sony on Instagram
-
-What If a Watch Could Change Colors and Styles?
-
-Discover the FES Watch
+With KOOV
 
 Close
 
@@ -170,11 +146,25 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Discover the FES Watch
+With KOOV
 
-See What the Future of Gaming Looks Like
+The Ultimate Music Listening Experience Is Here
 
-Learn About PlayStation®VR
+Discover the Signature Series
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Discover the Signature Series
+
+Hear What You Want to Hear—Without Removing Your Headphones
+
+Redefine "Noise Cancelling"
 
 Close
 
@@ -189,44 +179,6 @@ Play Video
 Sony on YouTube
 
 Play Video
-
-Pre-Season Training Captured With the a6300
-
-See More Images
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-See More Images
-
-Don't Miss a Single Sound
-
-With the Sound Bar
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-With the Sound Bar
-
-Sony on Twitter
-
-Play Overwatch free on PS4 from Sept. 9-12. All characters &. maps open, no PS Plus required.
-
-2016-09-02 03:37:33+00:00
-
-View Tweet
-
-Sony on Instagram
 
 NFL Network Is Now on PS Vue
 
@@ -242,27 +194,9 @@ Close
 
 Learn More
 
-Victory Awaits Your Team in the New Madden NFL 17
+Hear Acoustic Recordings of Jack White's Hit Songs
 
-Start the Season This Week
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-Want a Good Scare? Check Out the 360-Degree Trailer for "Don't Breathe"
-
-Find Tickets for the Movie
+Pre-Order Album
 
 Close
 
@@ -278,9 +212,9 @@ Sony on YouTube
 
 Play Video
 
-The Chainsmokers &. Halsey Top the Charts With "Closer"
+Make Your Own Smart Device
 
-Watch More Music Videos
+Learn About MESH
 
 Close
 
@@ -295,48 +229,20 @@ Play Video
 Sony on YouTube
 
 Play Video
-
-Fun in the Sun Can Be Celebrated All Year
-
-Find Your Action Cam
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Find Your Action Cam
-
-Have a PSN Account?
-
-Link It for Rewards
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Link It for Rewards
-
-Sony on Twitter
-
-Never-before-heard #Raconteurs Carolina Drama acoustic mix available with pre-orders of new #JackWhite compilation.
-
-2016-09-02 02:48:16+00:00
-
-View Tweet
 
 Sony on Instagram
 
-PlayStation Meet Windows PC
+Sony on Twitter
 
-Get the Details
+Before you see the seven take on the impossible September 23rd, go on set with 'The Magnificent Seven'
+
+2016-09-07 02:46:11+00:00
+
+View Tweet
+
+Download a Fun Game
+
+For Your Phone
 
 Close
 
@@ -346,11 +252,25 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Get the Details
+For Your Phone
 
-Watch Seth Rogen Prank Grocery Store Shoppers With Food That Talks
+Launching a Cyber Currency Can Be a Dirty Business
 
-For More Laughs, Find Tickets to "Sausage Party"
+Stream "StartUp" on Crackle Today
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Stream "StartUp" on Crackle Today
+
+Rocksteady Gives Us a Behind-the-Scenes Look at Batman: Arkham VR
+
+Discover PlayStation®VR
 
 Close
 
