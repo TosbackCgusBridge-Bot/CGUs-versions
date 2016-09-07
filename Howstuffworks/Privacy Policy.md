@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
+**Bragging Could Be Dragging Down Your Online Dating Profile**
+
+**Ridiculous History: A Wild West Governor Wore Shoes of Human Skin**
+
 **One in Six Say They'd Rather Die 'Young.' What Age Is That?**
-
-**A Year in Isolation: What We Learned From the Latest Mars Simulation**
-
-**Superlong-Lasting Smartphone Battery to Hit Market Next Year**
 
 **See More Headlines »**
 
