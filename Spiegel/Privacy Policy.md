@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 10.672,22ǀ
+*   DAX 10.687,14ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -59,7 +59,6 @@ Mein SPIEGEL
         *   Eurojackpot
 *   Sport
     *   *   Übersicht
-        *   Olympia 2016
         *   Fußball-Liveticker
         *   Fußball-News
         *   Champions League
@@ -68,7 +67,6 @@ Mein SPIEGEL
         *   Formel-1-Liveticker
         *   Ergebnisse
         *   Live-Kalender
-        *   Wimbledon
     *   *   Bundesliga präsentiert von  
             Continental
 *   Kultur
