@@ -26,14 +26,64 @@ Please be advised that our site uses services and products protected by one or m
 
 **6\. You Will Be Responsible for Any Harm We Suffer as a Result of Your Violation of These Terms and Conditions or Any Breach by You of Your Representations and Warranties:** You agree to indemnify and hold harmless The Huffington Post and its affiliates, and their respective members, directors, officers, managers, employees, shareholders, agents, and licensors, from and against all losses, expenses, damages and costs, including reasonable attorneys’ fees, resulting from any violation by you of these Terms and Conditions or any breach by you of your representations and warranties hereunder. We reserve the right to take over the exclusive defense of any claim for which we are entitled to indemnification under this Section 6. In such event, you shall provide us with such cooperation as is reasonably requested by us.
 
-**7\. Your Use of Our Site is Subject to Certain Disclaimers:** OUR SITE IS AVAILABLE “AS IS.” WE DO NOT WARRANT THAT OUR SITE WILL BE UNINTERRUPTED OR ERROR-FREE. THERE MAY BE DELAYS, OMISSIONS, INTERRUPTIONS AND INACCURACIES IN THE NEWS, INFORMATION OR OTHER MATERIALS AVAILABLE THROUGH OUR SITE. WE DO NOT MAKE ANY WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THOSE OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, WITH RESPECT TO OUR SITE OR ANY INFORMATION OR GOODS THAT ARE AVAILABLE OR ADVERTISED OR SOLD THROUGH OUR SITE. WE DO NOT MAKE ANY REPRESENTATIONS, NOR DO WE ENDORSE THE ACCURACY, COMPLETENESS, TIMELINESS OR RELIABILITY OF ANY ADVICE, OPINION, STATEMENT OR OTHER MATERIAL OR DATABASE DISPLAYED, UPLOADED OR DISTRIBUTED ON THIS SITE OR AVAILABLE THROUGH LINKS ON OUR SITE. WE RESERVE THE RIGHT TO CORRECT ANY ERRORS OR OMISSIONS ON OUR SITE. ALTHOUGH WE INTEND TO TAKE REASONABLE STEPS TO PREVENT THE INTRODUCTION OF VIRUSES, WORMS, “TROJAN HORSES” OR OTHER DESTRUCTIVE MATERIALS TO OUR SITE, WE DO NOT GUARANTEE OR WARRANT THAT OUR SITE OR MATERIALS THAT MAY BE DOWNLOADED FROM OUR SITE DO NOT CONTAIN SUCH DESTRUCTIVE FEATURES. WE ARE NOT LIABLE FOR ANY DAMAGES OR HARM ATTRIBUTABLE TO SUCH FEATURES. IF YOU RELY ON OUR SITE AND ANY MATERIALS AVAILABLE THROUGH OUR SITE, YOU DO SO SOLELY AT YOUR OWN RISK.
+**7.If You View 360° video + virtual reality Content on Our Site or Mobile Applications Using the Player Powered by envrmnt, the Terms, Licenses, and Restrictions in the Following Section Apply:**
+
+To watch 360° videos on your device, you will need a device that meets the minimum requirements below. 360° video + virtual reality may not work on all devices, operating systems or web browsers. Viewing 360° video and using virtual reality may result in motion sickness.
+
+You have a limited, nonexclusive, nontransferable license to use the envrmnt 360° video + virtual reality player and the object code version of its software solely for the purposes for which it is provided and only in accordance with all documentation provided. Source code for parts of the envrmnt 360° video + virtual reality player software may be available for use, modification and distribution under certain open source licenses, which can be found at www.envrmnt.com/opensource. Certain envrmnt 360° video + virtual reality player software or technical information may be licensed from third parties and may be covered by one or more U.S. Patents, pending U.S. patent applications, and pending counterpart European and international patents. You may not, or allow others to, adapt, alter, modify, de-compile, reverse engineer, translate, or create derivative works of the envrmnt 360° video + virtual reality playeror any included software. envrmnt may terminate or discontinue the envrmnt 360° video + virtual reality player at any time without notice. the envrmnt 360° video + virtual reality player AND ANY INCLUDED SOFTWARE IS PROVIDED ‘AS IS’, WITHOUT WARRANTIES, EXPRESS OR IMPLIED, OF ANY KIND BY EITHER ENVRMNT OR ITS LICENSORS.
+
+MINIMUM REQUIREMENTS
+
+_Web Player_
+
+Desktop Browser
+
+Latest version of Chrome, Edge, Firefox, Opera or Safari
+
+Mobile Browser
+
+Latest version of Chrome or Safari
+
+Mobile Device
+
+System chip: Qualcomm Snapdragon 801
+
+Processor: Quad-core, 2300 MHz, Krait 400
+
+Graphics processor: Adreno 330
+
+System memory: 2048 MB RAM
+
+_Android Player_
+
+Mobile Device
+
+System chip: Qualcomm Snapdragon 801
+
+Processor: Quad-core, 2300 MHz, Krait 400
+
+Graphics processor: Adreno 330
+
+System memory: 2048 MB RAM
+
+Operating System
+
+Android 4.4 and higher
+
+_iOS and tvOS Player_
+
+iPhone 6 and higher with iOS 9.0 and higher (9.2 preferred)
+
+Apple TV Gen 4 with iOS 9.2 and higher
+
+**8\. Your Use of Our Site is Subject to Certain Disclaimers:** OUR SITE IS AVAILABLE “AS IS.” WE DO NOT WARRANT THAT OUR SITE WILL BE UNINTERRUPTED OR ERROR-FREE. THERE MAY BE DELAYS, OMISSIONS, INTERRUPTIONS AND INACCURACIES IN THE NEWS, INFORMATION OR OTHER MATERIALS AVAILABLE THROUGH OUR SITE. WE DO NOT MAKE ANY WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THOSE OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, WITH RESPECT TO OUR SITE OR ANY INFORMATION OR GOODS THAT ARE AVAILABLE OR ADVERTISED OR SOLD THROUGH OUR SITE. WE DO NOT MAKE ANY REPRESENTATIONS, NOR DO WE ENDORSE THE ACCURACY, COMPLETENESS, TIMELINESS OR RELIABILITY OF ANY ADVICE, OPINION, STATEMENT OR OTHER MATERIAL OR DATABASE DISPLAYED, UPLOADED OR DISTRIBUTED ON THIS SITE OR AVAILABLE THROUGH LINKS ON OUR SITE. WE RESERVE THE RIGHT TO CORRECT ANY ERRORS OR OMISSIONS ON OUR SITE. ALTHOUGH WE INTEND TO TAKE REASONABLE STEPS TO PREVENT THE INTRODUCTION OF VIRUSES, WORMS, “TROJAN HORSES” OR OTHER DESTRUCTIVE MATERIALS TO OUR SITE, WE DO NOT GUARANTEE OR WARRANT THAT OUR SITE OR MATERIALS THAT MAY BE DOWNLOADED FROM OUR SITE DO NOT CONTAIN SUCH DESTRUCTIVE FEATURES. WE ARE NOT LIABLE FOR ANY DAMAGES OR HARM ATTRIBUTABLE TO SUCH FEATURES. IF YOU RELY ON OUR SITE AND ANY MATERIALS AVAILABLE THROUGH OUR SITE, YOU DO SO SOLELY AT YOUR OWN RISK.
 
 OUR SITE MAY CONTAIN VARIOUS COMBINATIONS OF TEXT, IMAGES, AUDIOVISUAL PRODUCTIONS, OPINIONS, STATEMENTS, FACTS, ARTICLES, MARKET DATA, STOCK QUOTES OR OTHER INFORMATION CREATED BY US OR BY THIRD-PARTIES. DUE TO THE NUMBER OF SOURCES FROM WHICH CONTENT ON OUR SITE IS OBTAINED, AND THE INHERENT HAZARDS OF ELECTRONIC DISTRIBUTION, THERE MAY BE DELAYS, OMISSIONS OR INACCURACIES IN SUCH CONTENT. ACCORDINGLY, SUCH CONTENT, INCLUDING MARKET DATA, IS FOR YOUR REFERENCE ONLY AND SHOULD NOT BE RELIED UPON BY YOU FOR ANY PURPOSE. SUCH CONTENT IS NOT INTENDED FOR THE PURPOSE OF TAX OR INVESTMENT ADVICE AND IT DOES NOT ADVOCATE THE PURCHASE OR SALE OF ANY SECURITY OR INVESTMENT. INFORMATION CREATED BY THIRD PARTIES THAT YOU MAY ACCESS ON OUR SITE OR THROUGH LINKS IS NOT ADOPTED OR ENDORSED BY US AND REMAINS THE RESPONSIBILITY OF SUCH THIRD PARTIES
 
-**8\. We are Not Responsible for Linked Sites:** We are not responsible for the availability or content of other services that may be linked to our site. Because we have no control over such services, you acknowledge and agree that we are not responsible for the availability of such external services, and that we do not endorse and are not responsible or liable for any content, accuracy, quality, advertising, products or other materials on or available from such services. You further acknowledge and agree that we shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services available on or through such services.
+**9\. We are Not Responsible for Linked Sites:** We are not responsible for the availability or content of other services that may be linked to our site. Because we have no control over such services, you acknowledge and agree that we are not responsible for the availability of such external services, and that we do not endorse and are not responsible or liable for any content, accuracy, quality, advertising, products or other materials on or available from such services. You further acknowledge and agree that we shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services available on or through such services.
 
-**9\. We May be Legally Compelled to Disclose Certain Information:** You agree that in the event we receive a subpoena issued by a court or from a law enforcement or government agency, we shall comply with such subpoenas without your consent or prior notice to you and may disclose your IP address, username, name, IP location or other information in response thereto.
+**10\. We May be Legally Compelled to Disclose Certain Information:** You agree that in the event we receive a subpoena issued by a court or from a law enforcement or government agency, we shall comply with such subpoenas without your consent or prior notice to you and may disclose your IP address, username, name, IP location or other information in response thereto.
 
-**10\. Our Liability to You is Limited:** The Huffington Post and its affiliates, and their respective members, directors, officers, managers, employees, shareholders, agents and licensors are not liable for incidental, indirect, consequential, special, punitive, or exemplary damages of any kind, including, without limitation, lost revenues or profits, loss of business or loss of data, in any way related to this site or for any claim, loss or injury based on errors, omissions, interruptions or other inaccuracies in our site (including, without limitation, as a result of breach of any warranty or other term of these Terms and Conditions). Any claim against us shall be limited to the amount you paid, if any, for use of our site.
+**11\. Our Liability to You is Limited:** The Huffington Post and its affiliates, and their respective members, directors, officers, managers, employees, shareholders, agents and licensors are not liable for incidental, indirect, consequential, special, punitive, or exemplary damages of any kind, including, without limitation, lost revenues or profits, loss of business or loss of data, in any way related to this site or for any claim, loss or injury based on errors, omissions, interruptions or other inaccuracies in our site (including, without limitation, as a result of breach of any warranty or other term of these Terms and Conditions). Any claim against us shall be limited to the amount you paid, if any, for use of our site.
 
-**11\. Any Dispute Between Us Will be Governed by New York Law:** These Terms and Conditions shall be governed by the laws of the United States and the State of New York, applicable to agreements made and to be performed therein without regard to conflict of laws principles. BY CONTINUING TO USE OUR SITE, YOU AGREE TO ABIDE BY THESE TERMS AND CONDITIONS. The caption to each Section of these Terms and Conditions are for convenience of reference only and shall be ignored in the construction or interpretation hereof.
+**12\. Any Dispute Between Us Will be Governed by New York Law:** These Terms and Conditions shall be governed by the laws of the United States and the State of New York, applicable to agreements made and to be performed therein without regard to conflict of laws principles. BY CONTINUING TO USE OUR SITE, YOU AGREE TO ABIDE BY THESE TERMS AND CONDITIONS. The caption to each Section of these Terms and Conditions are for convenience of reference only and shall be ignored in the construction or interpretation hereof.
