@@ -80,7 +80,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
 *   Schedule Schedule Schedule
     *   2016 Regular Season
     *   2016 Postseason
-    *   2016 Spring Training
+    *   Tiebreaker scenarios
     *   Important Dates
     *   Team-by-Team Schedule
     *   National Broadcasts
