@@ -589,7 +589,7 @@ Indeed’s Role:
 
 Indeed does not act as an employment agent by providing the Indeed Prime product. Indeed merely provides a tool enabling Candidates and Employers to connect with each other. Candidates and Employers are solely responsible for the information provided in any resume or profile, any requests for interviews or offers made, any issues arising from an acceptance or denial of employment, and any other issues arising from the use of Indeed Prime.
 
-You understand that Indeed Prime does not inquire into the backgrounds of its Candidates or Employers or attempt to verify the statements of its Candidates or Employers, and that you are responsible for (1) conducting any background checks, reference checks, or other due diligence that you may require before making an offer of employment to a Candidate or accepting an offer of employment from an Employer, and (2) complying with all laws and regulations relating to the intended employment of any Candidate. If you are a Candidate, you agree that any rights you have under the Fair Credit Reporting Act or any corresponding state laws may only be asserted against the Employer.
+You understand that Indeed Prime does not inquire into the backgrounds of its Candidates or Employers or attempt to verify the statements of its Candidates or Employers, and that you are responsible for (1) conducting any background checks, reference checks, or other due diligence that you may require before making an offer of employment to a Candidate or accepting an offer of employment from an Employer, and (2) complying with all laws and regulations relating to the intended employment of any Candidate. If you are a Candidate, you agree that any rights you have under the Fair Credit Reporting Act, any corresponding state laws, or any similar laws regulating consumer or credit reporting agencies in other countries may only be asserted against the Employer.
 
 Indeed is not a third party to or liable for any agreements between an Employer and Candidate, regardless of whether or not Indeed receives a fee from the Employer in connection with the transaction. Indeed will not be liable for any costs or damages arising out of or related to such transaction.
 
@@ -597,41 +597,41 @@ Indeed is not a third party to or liable for any agreements between an Employer 
 
 Candidates:
 
-Indeed Prime is free for Candidates. As a Candidate, you must promptly notify Indeed if you accept an offer of employment through Prime. If you accept an offer of employment through Prime, you are eligible to receive a reward of $2,000 (USD) (the “Candidate Reward”). To be eligible for the Candidate Reward, you must apply through Indeed Prime, be hired by an Employer participating in the Indeed Prime program and remain with the company for at least 90 days.
+Indeed Prime is free for Candidates. As a Candidate, you must promptly notify Indeed if you accept an offer of employment through Prime. If you accept an offer of employment through Prime, you are eligible to receive a reward of $2,000 (USD) if in the U.S. or a reward of £1,500 (GBP) if in the U.K. (the “Candidate Reward”). To be eligible for the Candidate Reward, you must apply through Indeed Prime, be hired by an Employer participating in the Indeed Prime program and remain with the company for at least 90 days.
 
-In order to receive the Candidate Reward, you must provide Indeed with a valid and completed W-9 document and ACH form. If you have not provided Indeed with a valid and completed W-9 and ACH form, you will receive no Candidate Reward. In addition, you must be a U.S. resident (for tax purposes) in order to receive the Candidate Reward. All payments are gross amounts and you will be responsible for paying all taxes on the award.
+If you are a U.S. resident, in order to receive the Candidate Reward, you must provide Indeed with a valid and completed W-9 document and ACH form. If you have not provided Indeed with a valid and completed W-9 and ACH form, you will receive no Candidate Reward. If you are a U.K. resident, in order to receive the Referral Reward, you must provide Indeed with your valid banking details upon request. In addition, you must be a U.S. resident (for tax purposes) for jobs located in the U.S., or a U.K. resident for jobs located in the U.K., in order to receive the Candidate Reward. All payments are gross amounts and you will be responsible for paying all taxes on the award.
 
 Referrals:
 
-Indeed will offer “Referral Rewards” in the amount of $2,000 (USD) to individuals who refer a Candidate that has been selected by Indeed Prime and has been hired through Indeed Prime, and has worked at their new company for at least ninety days (the “Referrer”). In addition, the following limitations apply:
+Indeed will offer “Referral Rewards” in the amount of $2,000 (USD) if in the U.S. or in the amount of £1500 (GBP) if in the U.K. to individuals who refer a Candidate that has been selected by Indeed Prime and has been hired through Indeed Prime, and has worked at their new company for at least ninety days (the “Referrer”). In addition, the following limitations apply:
 
-1.  To qualify, the referred party must have graduated from their last school at least one year prior to the referral.
-2.  Limit 5 awards per year to any one Referrer.
-3.  You must be a US resident (for tax purposes).
-4.  In order to receive the Referral Reward, you must provide Indeed with a valid and completed W-9 document and ACH form. If you have not provided Indeed with a valid and completed W-9 and ACH form, you will receive no Referral Reward.
-5.  All payments are gross amounts and you will be responsible for paying all taxes on the award.
+1.  To qualify, the referred party must have graduated from their last school or university at least one year prior to the referral.
+2.  Limit 5 awards per calendar year to any one Referrer.
+3.  You must be a US resident (for tax purposes) for jobs located in the U.S., or a U.K. resident for jobs located in the U.K.
+4.  If you are a U.S. resident, in order to receive the Referral Reward, you must provide Indeed with a valid and completed W-9 document and ACH form. If you have not provided Indeed with a valid and completed W-9 and ACH form, you will receive no Referral Reward. If you are a U.K. resident, in order to receive the Referral Reward, you must provide Indeed with you valid banking details upon request.
+5.  All payments to any Referrer are gross amounts and the Referrer will be responsible for paying all taxes on the award.
 6.  This program may be cancelled at any time without notice. all referrals made prior to program cancellation will be paid in the event the above conditions are satisfied.
 7.  Indeed has the right to refuse any referred candidate participation in the Indeed Prime program for any reason.
 8.  No award will be paid for any referred candidate who is already a member of Indeed Prime when the referral was received.
 
 Fees and Refunds:
 
-As of April 4, 2016, Indeed Prime may offer two payment models: Pay-Per-Hire, and Subscription. Any individual terms will be agreed upon in writing. please consult your Prime Client Executive or Client Consultant for pricing details. The below pricing plans apply to any Candidate contacted starting on April 4, 2016 at 12am Central time.
+As of April 4, 2016, Indeed Prime may offer two payment models: Pay-Per-Hire, and Subscription. Any individual terms will be agreed upon in writing. in the U.S., please consult your Prime Client Executive or Client Consultant for pricing details, in the U.K., please consult your Prime Client Consultant for pricing details. The below pricing plans apply to any Candidate contacted starting on April 4, 2016 at 12am Central time.
 
 1.  Pay-Per-Hire Model:
     1.  Under the pay-per-hire model, Employers agree to pay a fixed percentage of annual base salary or other salary periods agreed upon, for any hire made through Indeed Prime.
-    2.  Refunds will be made to an Employer, if they have chosen to pay a percentage of the annual salary and a hire made through Indeed Prime leaves their job within the first 90 days of employment and does not become an independent contractor of the Employer. In order to be eligible to receive a refund, an Employer must inform Indeed within 5 business days of the hire leaving the employ of the Company and shall provide sufficient evidence of such employee exit.
+    2.  Refunds will be made to an Employer, if they have chosen to pay a percentage of the annual salary and a hire made through Indeed Prime leaves their job within the first 90 days of employment and does not become an independent contractor of the Employer. In order to be eligible to receive a refund, an Employer must inform Indeed within 5 business days of the hire leaving the Company and shall provide sufficient evidence of such employee exit.
     3.  Indeed may request a non-refundable deposit, which will be applied towards the cost of first hire if made. If no hires are made, the deposit is not returned.
     4.  Indeed may consider pre-paid volume discounts.
-    5.  Under the pay-per-hire model, payment is due upon receipt of an invoice, unless agreed upon otherwise with your Prime Client Executive or Consultant.
+    5.  Under the pay-per-hire model, payment is due upon receipt of an invoice from Indeed, Inc. or Indeed Ireland Operations Ltd., unless agreed upon otherwise with your Prime Client Executive or Client Consultant.
     6.  The pay-per-hire model can be canceled at any time. Hires initiated before cancellation are subject to the invoicing and payment stated above.
 2.  Subscription Model:
     1.  Under the Subscription Model, Employers agree to pay upfront an initial subscription fee for a period of time specified in any Indeed insertion order or online pricing page (each subscription period to be referred to as a “Term”).
     2.  Unlimited hires may be made during any Term for the fee indicated on the Indeed insertion order or the price indicated on the Indeed Prime online pricing page.
     3.  All plans under the Subscription Model shall automatically renew for additional Terms. If you wish to cancel your Subscription, you must do so no later than 15 days prior to the end of any Term. No refunds will be given for payment made during any Term.
-    4.  Under the Subscription Model, payment is due upon receipt of an insertion order or confirmation email, confirming your purchase, unless agreed upon otherwise with your Prime Client Executive or Consultant.
+    4.  Under the Subscription Model, payment is due upon receipt of an insertion order or confirmation email, confirming your purchase, unless agreed upon otherwise with your Prime Client Executive or Client Consultant.
 
-If you wish to use the Indeed Prime tool, you must have an agreement with Indeed to do so under one of the pricing models listed above, and have accepted Indeed’s online terms of service. Sales taxes will be charged as appropriate. The Obligation to pay Fees shall survive termination or expiration of this Agreement.
+If you wish to use the Indeed Prime tool, you must have an agreement with Indeed, Inc. or Indeed Ireland Operations Ltd. to do so under one of the pricing models listed above, and have accepted Indeed’s online terms of service. Sales taxes will be charged as appropriate. The Obligation to pay Fees shall survive termination or expiration of this Agreement.
 
 **5\. Confidentiality**
 
