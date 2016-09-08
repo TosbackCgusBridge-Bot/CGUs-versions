@@ -635,7 +635,7 @@ A skilled delivery team will unload the item(s) from the delivery truck and lowe
 *   Packaging Removal Included: No
 *   Assembly Service Included: No
 
-Front Door Drop Off (No Signature Required)
+Outside Front Door Drop-Off
 
 Our Front Door Drop-Off service offers an extra set of hands. A skilled delivery team will unload the item(s) from the truck and take it to the first available dry area outside your home (front door, porch, or garage). You will then be responsible for further transport beyond that point.
 
@@ -644,18 +644,18 @@ Our Front Door Drop-Off service offers an extra set of hands. A skilled delivery
 *   Packaging Removal Included: No
 *   Assembly Service Included: No
 
-Inside Entryway
+Inside Home Entrance Drop-Off
 
-Inside Entryway service takes your items even further. A skilled delivery team will bring the item(s) inside your home and place it in the immediate entryway.
+Inside Home Entrance Drop-Off service takes your items even further. A skilled delivery team will bring the item(s) inside your home and place it in the immediate entryway.
 
 *   Appointment Scheduling: The delivery partner will call you to arrange a date and 4-hour appointment window once your item(s) arrives at the local terminal.
 *   Signature Required: Yes
 *   Packaging Removal Included: No
 *   Assembly Service Included: No
 
-Room of Choice
+Room of Choice Delivery
 
-Our less-sweat method, the Room of Choice option features a skilled delivery team that will bring your item(s) inside, and place it in the room of your choosing.\*
+Our less-sweat method, the Room of Choice Delivery option features a skilled delivery team that will bring your item(s) inside, and place it in the room of your choosing.\*
 
 \*Upstairs carrying limit of two flights of stairs (up to 15 steps each)
 
@@ -664,9 +664,9 @@ Our less-sweat method, the Room of Choice option features a skilled delivery tea
 *   Packaging Removal Included: No
 *   Assembly Service Included: No
 
-Room of Choice &. Packaging Removal
+Room of Choice Delivery &. Packaging Removal
 
-Our Room of Choice &. Packaging Removal option features a skilled delivery team that will bring your item(s) inside, place it in the room of your choosing\*, then remove and dispose of all packaging for your convenience.
+Our Room of Choice Delivery &. Packaging Removal option features a skilled delivery team that will bring your item(s) inside, place it in the room of your choosing\*, then remove and dispose of all packaging for your convenience.
 
 \*Upstairs carrying limit of two flights of stairs (up to 15 steps each)
 
@@ -675,9 +675,9 @@ Our Room of Choice &. Packaging Removal option features a skilled delivery team 
 *   Packaging Removal Included: Yes
 *   Assembly Service Included: No
 
-Full Service Delivery &. Assembly
+All-Inclusive Delivery &. Assembly
 
-Our easiest, no-sweat method, Full Service Delivery takes your item from delivery to assembly. A delivery team will bring your item(s) inside and place it in the room of your choice.\* Packaging will be removed and disposed of, followed by basic assembly for your convenience.\*\*
+Our easiest, no-sweat method, All-Inclusive Delivery takes your item from delivery to assembly. A delivery team will bring your item(s) inside and place it in the room of your choice.\* Packaging will be removed and disposed of, followed by basic assembly for your convenience.\*\*
 
 \*Upstairs carrying limit of two flights of stairs (up to 15 steps each)
 
