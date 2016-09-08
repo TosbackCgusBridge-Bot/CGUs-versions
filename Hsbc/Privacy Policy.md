@@ -111,7 +111,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Culture
         *   Other sponsorships
     
-    *   No quick fix HSBC's Janet Henry examines the global economic outlook.
+    *   UK needs to up trade game Stuart Gulliver on how Britain can succeed in a post-Brexit world.
 *   Careers
     
     *   Key hiring areas
