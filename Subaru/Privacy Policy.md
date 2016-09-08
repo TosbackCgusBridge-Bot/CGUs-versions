@@ -129,7 +129,6 @@ Up to
 34/30 MPG Hwy/City
 
 *   Overview
-*   Photos &. Videos
 *   Compare
 *   Build Your Own
 
