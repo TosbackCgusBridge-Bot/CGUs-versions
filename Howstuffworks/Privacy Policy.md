@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Bragging Could Be Dragging Down Your Online Dating Profile**
+**Scholars Could Crack the Code of the Etruscan Language With Big, New Find**
 
-**Ridiculous History: A Wild West Governor Wore Shoes of Human Skin**
+**Catfish Are Chowing Down on Mice and Pigeons**
 
-**One in Six Say They'd Rather Die 'Young.' What Age Is That?**
+**Monopoly the Board Game Is Headed for Broadway**
 
 **See More Headlines »**
 
