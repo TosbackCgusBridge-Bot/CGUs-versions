@@ -190,7 +190,7 @@ Each of the following is impermissible under Sonic’s residential unlimited voi
 
 Pages in category "Policies"
 
-The following 6 pages are in this category, out of 6 total.
+The following 7 pages are in this category, out of 7 total.
 
 B
 
@@ -215,5 +215,9 @@ Q
 S
 
 *   Software Disclaimer
+
+S cont.
+
+*   Sonic Wire Plan
 
 Retrieved from "https://wiki.sonic.net/index.php?title=Category:Policies&oldid=5661"
