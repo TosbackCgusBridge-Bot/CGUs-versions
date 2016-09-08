@@ -88,7 +88,21 @@ SONY
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! Don't Miss This Thriller Starring Morris Chestnut and Regina Hall
+Your browser does not support JavaScript! Introducing a New Member of the PlayStation Family
+
+Meet the PS4 Pro
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Meet the PS4 Pro
+
+Don't Miss This Thriller Starring Morris Chestnut and Regina Hall
 
 Get Tickets for "When the Bough Breaks"
 
