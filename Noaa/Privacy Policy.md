@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms National monument in Hawaii becomes world's largest marine protected area AROUND NOAA // Teachers: 5 programs that bring Earth science #BacktoSchool Blog: Our ocean, our life support system Get the latest information from NOAA's National Hurricane Center
+Enter Search Terms National monument in Hawaii becomes world's largest marine protected area AROUND NOAA // Climate change increased chances of record rains in Louisiana by at least 40 percent Teachers: 5 programs that bring Earth science #BacktoSchool Blog: Our ocean, our life support system
 
 *   About our agency
 *   News and features
