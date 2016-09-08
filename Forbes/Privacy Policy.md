@@ -1,10 +1,10 @@
 Log in with your social account: Or, you can log in or sign up using Forbes.
 
 *   Editors' Picks
-*   New Posts +2 posts this hour
+*   New Posts +3 posts this hour
 *   Most Popular Thiel Vs. Gawker
-*   Lists Best Cities For Kids
-*   Video Hybrid Cars
+*   Lists Hip-Hop Cash Kings
+*   Video Models 2016
 
 Connect | Sign up | Log in The Little Black Book of Billionaire Secrets Forbes.com Privacy Statement
 
