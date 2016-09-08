@@ -14,10 +14,11 @@ Sencha
     *   Test
         *   Sencha Test
     *   Tools
-        *   IDE Plugins
-        *   Cmd
-        *   Inspector
+        *   Themer
         *   Architect
+        *   Cmd
+        *   IDE Plugins
+        *   Inspector
     *   Sencha Market
 *   Services
     *   Professional Services
@@ -39,7 +40,6 @@ Sencha
     *   Ext JS
     *   Sencha Test
     *   GXT
-    *   Architect
     *   Licensing
     *   Ordering Information
     *   Web Purchase Policy
@@ -172,10 +172,11 @@ Get Sencha NewsBuy Online
     *   Sencha Test
     *   GXT
     *   Sencha Touch
-    *   IDE Plugins
-    *   Cmd
-    *   Inspector
+    *   Themer
     *   Architect
+    *   Cmd
+    *   IDE Plugins
+    *   Inspector
     *   Sencha Market
 
 *   Services
@@ -211,7 +212,6 @@ Get Sencha NewsBuy Online
     *   Ext JS
     *   Sencha Test
     *   GXT
-    *   Architect
     *   Licensing
     *   Ordering Information
     *   Web Purchase Policy
