@@ -115,6 +115,10 @@ More >>.
 *   OTA Blog
 *   Newsletters
 
+Wed, Sep 7, 2016 So you’ve had a data breach, now what?
+
+Companies, organizations and agencies that hold and transmit people’s personal information should keep it reasonably secure from unauthorized access and use. But what if there is a data breach that exposes the information? How should the breached entity help those affected? Should it offer them identity theft services?
+
 Tue, Jun 21, 2016 Drones - Privacy, Transparency and Accountably
 
 Today a multi-stakeholder group convened by the U.S.
@@ -126,12 +130,6 @@ The 2016 Online Trust Audit and Honor Roll shines a light on trust in security,
 Wed, Mar 30, 2016 FCC Chairman Takes Position on Privacy &. Broadband Providers
 
 Earlier this month FCC Chairman Wheeler released a draft fact sheet and Notice of Proposed Rule Making (NPRM), identifying several key concerns regarding consumer privacy and the use of their data. In response, **OTA submitted written comments to the Commission**.  _Update on March 31 the FCC Commisioners voted 3 to 2 to move forward on the NPRM._
-
-Mon, Mar 28, 2016 Mobilizing for Privacy on Campus - Mozilla Seeking Volunteers &. Mentors!
-
-Do you have privacy knowledge and a passion to work with students?  Or are you a college student with a passion to spread the word about privacy to your fellow students and beyond?  Mozilla’s new Take Back the Web Campaign may be for you.
-
-Recently Mozilla launched a call for volunteers to help lead a Take Back the Web Campaign at universities around the world. The campaign is built on student leaders and mentors who will work together to raise awareness and empower other students to make choices about how their personal information is used online.
 
 More >>. Resources
 
