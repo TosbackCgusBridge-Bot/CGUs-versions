@@ -1,4 +1,4 @@
-Customer Service Call Us Available 24 hours a day, 7 days a week Domestic Customers: 1.800.826.2205 International Customers: 1.715.261.9588 Live Chat Hours: 8 AM - 11 PM CT Email Us Available 24 hours a day, 7 days a week Privacy Policy
+Customer Service Call Us Available 24 hours a day, 7 days a week Domestic Customers: 1.800.826.2205 International Customers: 1.715.261.9588 Live Chat Hours: 8 AM - 11 PM CT Email Us Available 24 hours a day, 7 days a week Privacy Statement
 
 Last Updated April, 2016
 
