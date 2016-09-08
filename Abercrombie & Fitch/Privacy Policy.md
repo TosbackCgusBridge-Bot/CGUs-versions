@@ -3,6 +3,8 @@ PRIVACY POLICY
 
 Updated: September 2016
 
+If you viewed our kids’ site prior to September 07, 2016 please go to www.abercrombiekids.com to view the Privacy Policy. Please view the Privacy Policy below for all interactions on www.Abercrombie.com.
+
 AD COOKIE POLICY How Third Parties Serve You Our Advertisements On Other Websites and Your Choices
 
 Abercrombie &. Fitch (also referred to in this policy and the privacy policy below as "we," "us," "our," or "A&F") contracts with third party advertising companies to serve you online display and banner advertisements on other websites.  To serve this advertising, these third parties may place, use or rely on technology, such as cookies and/or Pixel Tags (which are described below in the privacy policy), to collect information about your interactions with our Websites and Apps (both defined below in the privacy policy) and interactions with other websites. These advertising companies may use and share the information gathered to deliver our ads more tailored to your interests on other websites that are a part of their online advertising networks and/or search engines.  We receive aggregate information from these third parties to gauge our advertising effectiveness.
@@ -193,7 +195,7 @@ To request to have your account cancelled send an email to Privacy\_Policy@Aberc
   
   Privacy of Children
 
-Our Websites are not directed toward children under the age of thirteen (13) years. Furthermore, we do not knowingly collect any personal data from children under the age of thirteen (13) years. The children's products that we offer for sale on our Websites are intended for purchase by adults only. No one under the age of thirteen (13) years should provide any personal data on our Websites and/or at our stores.
+Our Websites are not directed toward children under the age of thirteen (13) years. Furthermore, we do not knowingly collect any personal data from children under the age of thirteen (13) years. The children's products that we offer for sale on our Websites are intended for purchase by adults only. No one under the age of thirteen (13) years should provide any personal data on our Websites and/or at our stores. In the past, our affiliated company, abercrombie kids, collected personal data from children under the age of thirteen (13) years with the consent of the children's parents or guardians. Any such personal data collected by abercrombie kids has been deleted, and abercrombie kids no longer possesses any personal data in regards to children.
 
   
   Links
