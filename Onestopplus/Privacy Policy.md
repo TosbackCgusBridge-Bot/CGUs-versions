@@ -5,7 +5,7 @@ you are looking for, please
 
 Privacy Policy
 
-Privacy Policy Last updated on: January 1, 2016
+Privacy Policy Last updated on: September 7, 2016
 
   
   
@@ -76,7 +76,7 @@ FULLBEAUTY Brands is a dynamic, web-driven home-shopping leader with numerous su
   What Information is Shared And With Whom is it Shared?  
   
 
-*   **FULLBEAUTY Brands**: Individual Brands share collected information (for example, postal addresses and telephone numbers) within our family of Brands. Your email address is not shared with other Brands.
+*   **FULLBEAUTY Brands**: Individual Brands share collected information (including, for example, names, postal addresses, email addresses and telephone numbers) within our family of Brands.
   
   
 
