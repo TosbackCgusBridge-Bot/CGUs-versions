@@ -8,7 +8,6 @@ Aéropostale
     *   Prince + Fox
     *   Cape Juby
     *   T-Neck On Deck
-    *   American Proud
     *   Uniform
     *   Online Only
     *   Plus Sizes
@@ -54,7 +53,6 @@ Aéropostale
     *   Prince &. Fox
     *   Cape Juby
     *   The Great Outdoors
-    *   American Proud
     *   Uniform
     *   Online Only
     *   Extended Sizes
