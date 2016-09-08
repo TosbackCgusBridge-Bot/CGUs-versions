@@ -148,6 +148,12 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 **Last Updated on November 11, 2015.** This Privacy Policy is effective immediately for new users after that date and will become effective on November 11, 2015 for pre-existing users. To review the previous policy, please click here.
 
+Vital Tax Credits for Students Save with Transferable Courses &. College Credits Saving and Paying for College How Today's Students Are Paying For College Earn College Credits for Life and Work Experiences Financial Aid by State Understanding Private Student Loans
+
+Applying for Student loans can be daunting, but it doesn't have to be. The following guidelines may help you better understand your borrowing options, specifically when it comes to private loans. 
+
+3 Financial Aid Tips for Online Students Reserve Officers Training Corps (ROTC) Scholarships Federal Loan Forgiveness Programs Federal Tax Credits &. Tax Deductions Federal Work-Study (FWS) Federal Loans Federal Grants Regaining Eligibility for Federal Aid How to Use Net Price Calculators How to Appeal Your Financial Aid Award Letter How to Find &. Apply for Private Scholarships You Could Potentially Win Common Questions about the FAFSA Creative Ways to Earn Some Extra Cash Financial Aid Funding Sources for Women Financial Assistance for Single-Parent/Low-Income Families How to Cut Your Online College Costs Budgeting for the Cost of Online Education Earning Credit by Examination FAFSA &. Federal Aid Student Loans &. Financial Aid Earning College Credit with Excelsior College Exams Saving Money with CLEP Quickest Ways to Graduate College Early and Save Cash Employer Tuition Reimbursement 6 Tips for Talking to Your Boss About Tuition Assistance What Is CLEP All About?
+
 Newsletter Signup
 
 Your Name \* Your Email Address \* Submit
