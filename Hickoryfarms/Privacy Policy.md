@@ -8,7 +8,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 *   Gifts
     *   Gift Boxes
     *   Gift Baskets and Towers
-    *   Summer Gift Guide
     *   Business Gifts
         
     *   Personalized Gifts
@@ -53,7 +52,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
 *   Gifts
     *   Gift Boxes
     *   Gift Baskets and Towers
-    *   Summer Gift Guide
     *   Business Gifts
         
     *   Personalized Gifts
@@ -147,9 +145,9 @@ My Account
 
 Guarantees
 
-*   Security
-*   Substitution Policy
 *   100% Satisfaction
+*   Substitution Policy
+*   Security
 
 Privacy
 
