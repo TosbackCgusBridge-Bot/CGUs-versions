@@ -1,4 +1,4 @@
-JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.9.0.0.132.1 15 3
+JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.9.5.0.34.0 15 3
 
 *   Find a store
 *   store ads
@@ -14,7 +14,7 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.9
 *   customer service
     
 
-*   Hello  antonio
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.9
 *   customer service
     
 
-true true C15303678291
+true true L15359078018
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Wed Sep 07 11:16:28 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p08.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Thu Sep 08 11:05:13 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -44,6 +44,7 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 *   shoes
 *   handbags
 *   jewelry
+*   gifts
 *   sephora
 *   clearance
 
@@ -51,31 +52,49 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-40 to 50% Off Men's &. Women's Xersion Activewear Select styles 6.99-29.99
+Here's the Deal! See our Weekly Store Ad
+
+Everything you need at great prices each week.
+
+View Store Ad Rewards Members Shop &. Get A $10 Bonus Reward\*
+
+\*Earn a $10 reward for $50 spent in store or online on purchases through 9/11/16. Limit 1. Redeemable 9/9/16-11/9/16.
+
+Get Details 40 to 50% Off Men's &. Women's Xersion Activewear Select styles 6.99-29.99
 
 orig. $14-$50
 
-Shop Men Shop Women     40% Off Liz Claiborne Shoes &. Handbags Select styles Shop Shoes Shop Handbags       Carter's Baby Sale In Store &. Online | Through September 25
-
-New Extended Assortment
-
-Shop Baby Sale40 to 50% Off Carter's Apparel
+Shop Men Shop Women     Home Sale 30 to 50% Off
 
 Select styles
 
-Shop Carter's Apparel Introducing the New Sephora Collection Get What You Want
+Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses 40% Off Liz Claiborne Shoes &. Handbags Select styles Shop Shoes Shop Handbags       Billion Dollar Jewelry Sale
 
-Coming in hot with lots of options. Same name, different game.
+Extra Savings 4 Days Only!
 
-Shop Now SportsFanShop Get Details: JCP Salon 33% Off Haircare Products
+45 to 65% Off Fine Jewelry
+
+Select styles
+
+Shop Fine Jewelry 25 to 55% Off Watches
+
+Select styles
+
+Shop Watches     Carter's Baby Sale In Store &. Online | Through September 25
+
+New Extended Assortment
+
+Shop Baby Sale 40 to 50% Off Carter's Apparel
+
+Select styles
+
+Shop Carter's Apparel Sephora Shop Sephora Collection: JCP Salon 33% Off Haircare Products
 
 Select styles
 
 Shop Now: JCPenney | portraits
 
-Free 8x10
-
-3.99 Portrait Sheets
+Free 8x10, 3.99 Portrait Sheets
 
 40% Off Your Photo Purchase
 
@@ -160,4 +179,4 @@ JCPenney credit card pay bill check balance apply now JCPenney is Your One-Stop 
 *   site map
 *   AdChoices
 
-©jcp Media Inc., 2016. All Rights Reserved
+©jcp Media Inc.,  2016. All Rights Reserved.
