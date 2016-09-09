@@ -5,7 +5,7 @@ you are looking for, please
 
 Privacy Policy
 
-Privacy Policy Last updated on: September 7, 2016
+Privacy Policy Last updated on: September 8, 2016
 
   
   
