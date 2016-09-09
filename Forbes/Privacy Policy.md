@@ -1,12 +1,12 @@
 Log in with your social account: Or, you can log in or sign up using Forbes.
 
 *   Editors' Picks
-*   New Posts +3 posts this hour
+*   New Posts +1 posts this hour
 *   Most Popular Thiel Vs. Gawker
 *   Lists Hip-Hop Cash Kings
 *   Video Models 2016
 
-Connect | Sign up | Log in The Little Black Book of Billionaire Secrets Forbes.com Privacy Statement
+Connect | Sign up | Log in 2 FREE Issues Of Forbes Forbes.com Privacy Statement
 
 _Revised and posted as of: April 15, 2016_  
   
@@ -114,6 +114,7 @@ Products
 *   Forbesfone Travel SIM
 *   Forbes Custom
 *   Forbes Custom Covers
+*   The Intelligent REIT Investor
 
 Company Info
 
