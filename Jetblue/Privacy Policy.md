@@ -16,7 +16,7 @@ At JetBlue Airways ("JetBlue" or "we" or "us"), we respect your privacy. That is
 *   What if I have questions or concerns?
 *   Note to users in European Union and other countries with Data Protection Laws
 
-**What information do we collect?**  
+What information do we collect?  
 
 When you use the JetBlue Online Services, your information and activity data is collected in several ways.
 
