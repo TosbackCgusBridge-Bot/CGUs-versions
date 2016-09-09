@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather It's the peak of the hurricane season: Learn how to prepare! Oceans &. Coasts Video: Could you survive a rip current? See how National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites Get a front row seat to a satellite launch: Apply for our #GOESR Social Weather It's the peak of the hurricane season: Learn how to prepare! National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms National monument in Hawaii becomes world's largest marine protected area AROUND NOAA // Climate change increased chances of record rains in Louisiana by at least 40 percent Teachers: 5 programs that bring Earth science #BacktoSchool Blog: Our ocean, our life support system
+Enter Search Terms U.S. experiences 5th warmest summer on record Lower 48 also had 3rd warmest year to date and second wettest August AROUND NOAA // Climate change increased chances of record rains in Louisiana by at least 40 percent Teachers: 5 programs that bring Earth science #BacktoSchool National monument in Hawaii becomes world's largest marine protected area
 
 *   About our agency
 *   News and features
