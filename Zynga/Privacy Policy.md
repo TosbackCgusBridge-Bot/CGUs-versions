@@ -41,7 +41,7 @@ Navigation
     *   Investors
     *   Advertisers
     *   Engineering Blog
-    *   Our Games
+    *   Games for Good
 *   JOBS
 *   SUPPORT
 
