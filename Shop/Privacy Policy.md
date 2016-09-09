@@ -19,7 +19,7 @@ LENOVO Menu
     *   Clearance Sale
     *   Deals for Students &. Educators
 *   Solutions
-    *   Small Business
+    *   Small &. Medium Business
     *   Large Enterprise
     *   Health
     *   Government
@@ -27,7 +27,6 @@ LENOVO Menu
     *   Higher Education
     *   Business Partners
     *   Resource Center
-    *   See All Solutions for Work
 *   Support
     *   Technical support
     *   Sales order help
