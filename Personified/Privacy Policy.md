@@ -8,7 +8,7 @@ Sign In or Sign Up
 
 *   Home
 
-*   Products
+*   Products and Resources
     *   Browse Products
     *   Post a Job
     *   Search Resumes
@@ -33,10 +33,11 @@ Sign In or Sign Up
     *   About Resume Database
 *   Resource Center
 
-*   More
-    *   Sign In
-    *   $0.00 Cart
-    *   Sales: 1.877.345.5256
+Request Demo
+
+*   Sign In
+*   $0.00 Cart
+*   Sales: 1.877.345.5256
 
 *   For Job Seekers
 
