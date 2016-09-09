@@ -365,7 +365,6 @@ Menu
         *   Internships and co-ops
         *   About the intern/co-op program
         *   Our internship/co-op work locations
-    *   Internships and co-ops (1)
     *   Undergraduates
     *   MBA and Graduate Students
         *   MBA and Graduate Students
