@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Sex May Be Good for Older Women, Bad for Older Men**
+**Cuttlefish Can Count to Five, New Study Shows**
 
-**50 Years and Counting: 'Star Trek' Writers Explain Its Serious Staying Power**
+**President Who? Meet the 'Designated Survivor'**
 
-**China’s Planning to Build a Lab Under the Sea**
+**Ditching: How Pilots Like 'Sully' Sullenberger Land Planes on Water**
 
 **See More Headlines »**
 
