@@ -199,11 +199,12 @@ Life with Subaru  
 
 There’s always an experience, story, or benefit to enjoy when you own a Subaru.
 
+*   Reviews &. Awards
+*   Commitment to Safety
 *   Engineering &. Technology
 *   SUBARU STARLINK™  
     In-Vehicle Technology
 *   EyeSight® Driver Assist Technology
-*   Reviews &. Awards
 
 *   Dear Subaru: Owner Stories
 *   Benefits of Ownership
