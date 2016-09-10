@@ -208,9 +208,9 @@ See Details
 
 Sony on Twitter
 
-Join us September 11 for a seminar &. shoot-along with “The Photo Mom” @merakoh
+Our #WhenTheBoughBreaks ticket upload window for #SonyRewards points is open.
 
-2016-09-07 08:01:08+00:00
+2016-09-08 05:00:00+00:00
 
 View Tweet
 
@@ -276,7 +276,7 @@ Learn More
 
 Hear Acoustic Recordings of Jack White's Hit Songs
 
-Pre-Order Album
+Order Album
 
 Close
 
