@@ -311,7 +311,7 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Outlet
 *   Shop by Industry
     *   Home &. Home Office
-    *   Small Business Store
+    *   Small and Medium Business
     *   Large Enterprise
     *   Government
     *   Health
