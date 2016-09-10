@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.9
 *   customer service
     
 
-true true L15359078018
+true true C15316884345
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p08.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Thu Sep 08 11:05:13 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p19.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Fri Sep 09 11:15:30 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -56,21 +56,57 @@ Here's the Deal! See our Weekly Store Ad
 
 Everything you need at great prices each week.
 
-View Store Ad Rewards Members Shop &. Get A $10 Bonus Reward\*
+View Store Ad Shop Now Rewards Members Shop &. Get A $10 Bonus Reward\*
 
 \*Earn a $10 reward for $50 spent in store or online on purchases through 9/11/16. Limit 1. Redeemable 9/9/16-11/9/16.
 
-Get Details 40 to 50% Off Men's &. Women's Xersion Activewear Select styles 6.99-29.99
+Get Details Friday &. Saturday Only Deal
 
-orig. $14-$50
+In Store &. Online | September 9 &. 10
 
-Shop Men Shop Women     Home Sale 30 to 50% Off
+$9 St. John's Bay Solid Polo for Him
+
+Select styles, reg. $26-$36
+
+Shop Men's St. John's Bay $9 St. John's Bay Peasant Top for Her
+
+Select styles, reg. $26-$36
+
+Shop Women's St. John's Bay     Friday &. Saturday Only Deal
+
+In Store &. Online | September 9 &. 10
+
+$9 Men's Xersion Power Tees
+
+Select styles, reg. $20
+
+Shop Men's Xersion $9 Performance Tees for Her
+
+Select styles, reg. $20
+
+Shop Women's Xersion     Friday &. Saturday Only Deal
+
+In Store &. Online | September 9 &. 10
+
+$7 Carter's Sleep &. Play Set
+
+Select styles, reg. $16
+
+Shop Carter's Friday &. Saturday Only Deal
+
+In Store &. Online | September 9 &. 10
+
+$7 JCPenney Home Farmhouse Stripe Towel or Quick-Dri 30x56" Solid Bath Towel
+
+Select styles, reg. $16
+
+Shop Bath Towels Home Sale 30 to 50% Off
 
 Select styles
 
-Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses 40% Off Liz Claiborne Shoes &. Handbags Select styles Shop Shoes Shop Handbags       Billion Dollar Jewelry Sale
+Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses Billion Dollar Jewelry Sale
 
-Extra Savings 4 Days Only!
+Extra Savings Through 9/11
 
 45 to 65% Off Fine Jewelry
 
@@ -80,15 +116,7 @@ Shop Fine Jewelry 25 to 55% Off Watches
 
 Select styles
 
-Shop Watches     Carter's Baby Sale In Store &. Online | Through September 25
-
-New Extended Assortment
-
-Shop Baby Sale 40 to 50% Off Carter's Apparel
-
-Select styles
-
-Shop Carter's Apparel Sephora Shop Sephora Collection: JCP Salon 33% Off Haircare Products
+Shop Watches     Sephora Shop Sephora Collection: JCP Salon 33% Off Haircare Products
 
 Select styles
 
