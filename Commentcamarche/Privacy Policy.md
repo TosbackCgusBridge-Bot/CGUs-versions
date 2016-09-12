@@ -108,8 +108,8 @@ Droit applicable et juridiction compétente Les règles en matière de droit, ap
 A voir également :
 
 *   Tubidy
-*   D’utilisation
-*   Tubidy telechargement de video
+*   Gmail.com
+*   Clause d'utilisation de connexion internet
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente
 *   Les conditions générales de vente pour un site d'e-commerce
 *   Redaction conditions generales (Résolu)
