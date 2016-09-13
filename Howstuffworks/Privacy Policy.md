@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Cuttlefish Can Count to Five, New Study Shows**
+**Could Your Tattoos Camouflage Skin Cancer?**
 
-**President Who? Meet the 'Designated Survivor'**
+**Psychologists Prove a 'Superman' Disguise Could Actually Fool People**
 
-**Ditching: How Pilots Like 'Sully' Sullenberger Land Planes on Water**
+**Ridiculous History: Beloved Author Roald Dahl Was Also a Suave British Spy**
 
 **See More Headlines »**
 
