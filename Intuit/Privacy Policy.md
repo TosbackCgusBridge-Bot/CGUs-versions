@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.9
 *   customer service
     
 
-true true C15328585606
+true true C15333454226
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Sun Sep 11 11:15:36 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p17.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Mon Sep 12 11:15:28 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,53 +52,43 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Here's the Deal! See our Weekly Store Ad
+Worthington 40% Off Worthington Apparel
 
-Everything you need at great prices each week.
+Select styles, reg. $18-$86
 
-View Store Ad Rewards Members Shop &. Get A $10 Bonus Reward\*
+Shop Worthington Apparel19.99 Worthington Ruffle Blouse
 
-\*Earn a $10 reward for $50 spent in store or online on purchases through 9/11/16. Limit 1. Redeemable 9/9/16-11/9/16.
+Select styles, orig. $36
 
-Get Details 40 to 50% Off Men's &. Women's Xersion Activewear Select styles 6.99-29.99
+Shop Blouses24.99 Worthington Pencil Skirt
 
-orig. $14-$50
+Select styles, orig. $44
 
-Shop Men Shop Women     Home Sale 30 to 50% Off
+Shop Skirts     Billion Dollar Jewelry Sale
 
-Select styles
+Now Through September 20
 
-Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses 40% Off Liz Claiborne Shoes &. Handbags Select styles Shop Shoes Shop Handbags       Billion Dollar Jewelry Sale
-
-Extra Savings 4 Days Only!
-
-45 to 65% Off Fine Jewelry
+Up to 60% Off Fine &. Fashion Jewelry
 
 Select styles
 
-Shop Fine Jewelry 25 to 55% Off Watches
+Shop Fine JewelryUp to 50% Off Watches
 
 Select styles
 
-Shop Watches     Carter's Baby Sale In Store &. Online | Through September 25
+Shop Watches     Carter's Baby Sale In Store &. Online | Now Through 9/25 Shop Baby Sale$10 Carter's Bodysuit Pants Set
 
-New Extended Assortment
+Select styles, reg. $20
 
-Shop Baby Sale 40 to 50% Off Carter's Apparel
+Shop Carter's Introducing The New Sephora Collection Get What You Want
 
-Select styles
+Coming in hot with lots of options. Same name, different game.
 
-Shop Carter's Apparel Sephora Shop Sephora Collection: JCP Salon 33% Off Haircare Products
+Shop Now SportsFanShop Shop Now: JCPenney | optical 60% Off
 
-Select styles
+Complete pair of kids' eyeglasses or RX sunglasses
 
-Shop Now: JCPenney | portraits
-
-Free 8x10, 3.99 Portrait Sheets
-
-40% Off Your Photo Purchase
-
-Get Details: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play true
+Order Now: Going, Going, Gone! Clearance -- 80% Off Final Markdowns Plus! New Markdowns 50 to 70% Off Shop Clearance Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play true
 
 get connected
 
