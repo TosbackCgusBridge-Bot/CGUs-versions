@@ -1,4 +1,4 @@
-Changes were made to this privacy policy on July 25th, 2016. Additional clarity on third party service providers, specifically that we do NOT share personal information with these entities. Removed reference to Flash LSOs, which are no longer utilized. Historical changes can be viewed here.
+Changes were made to this privacy policy on September 12th, 2016. Additional clarity on third party service providers, specifically that we do NOT share personal information with these entities. Removed reference to Flash LSOs, which are no longer utilized. Historical changes can be viewed here.
 
 Privacy Policy
 
@@ -72,7 +72,7 @@ Drugs.com will not share any personally identifiable information unless specific
 *   when We believe in good faith that disclosure is necessary to protect Our rights, protect Your safety or the safety of others, investigate fraud, or respond to a government request.
 *   in exceptional cases such as in response to threats of physical harm to You or others.
 *   to conduct research where personally identifiable information will be de-identified, analyzed and compared at an aggregate level for statistical purposes.
-*   • if Drugs.com is involved in a merger, acquisition, or sale of all or a portion of its assets, You will be notified via email and/or a prominent notice on Our Web site of any change in ownership or uses of Your personally identifiable information, as well as any choices You may have regarding Your personally identifiable information.
+*   if Drugs.com is involved in a merger, acquisition, or sale of all or a portion of its assets, You will be notified via email and/or a prominent notice on Our Web site of any change in ownership or uses of Your personally identifiable information, as well as any choices You may have regarding Your personally identifiable information.
 
 However, email and online forms are not secure against interception and senders cannot expect guaranteed privacy.
 
@@ -88,7 +88,7 @@ If You choose to participate in any community oriented parts of the Drugs.com we
 
 Public Profile
 
-The profile You create on Our site will be publically accessible unless otherwise indicated. You may change the privacy settings of Your profile through Your account portal.
+Any profile You create will be publicly accessible unless otherwise indicated. If you choose to add personal details about yourself or any other person, this information will be publicly accessible. You may change the privacy settings of Your profile(s) through Your account portal or within a Drugs.com app.
 
 Social Media
 
@@ -146,4 +146,4 @@ Changes to the Privacy Policy
 
 If We decide to change our privacy policy, we will post those changes to this privacy policy and provide notifications on the homepage, and other places we deem appropriate so that You are aware of what information We collect, how We use it, and under what circumstances, if any, We disclose it. We reserve the right to modify this privacy policy at any time, so please review it frequently. If We make material changes to this policy, We will notify You here, or by email, or by means of a notice on Our homepage prior to the change becoming effective.
 
-Updated: July 25th, 2016
+Updated: September 12th, 2016
