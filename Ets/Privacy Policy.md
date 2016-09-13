@@ -227,7 +227,7 @@ ETS
 
 Who We Serve
 
-*   K–12 Community
+*   K–12 Student Assessment Programs
 *   Educator Licensure Assessments
 *   Higher Education Community
 *   Global Programs and Services
