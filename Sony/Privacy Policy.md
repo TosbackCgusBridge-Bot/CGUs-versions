@@ -88,21 +88,7 @@ SONY
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! Introducing a New Member of the PlayStation Family
-
-Meet the PS4 Pro
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Meet the PS4 Pro
-
-Dive Into the World of Virtual Reality at Our New PlayStation®VR Installation
+Your browser does not support JavaScript! Dive Into the World of Virtual Reality at Our New PlayStation®VR Installation
 
 Try It at Sony Square NYC
 
@@ -132,9 +118,9 @@ Now on View
 
 Sony on Twitter
 
-#PlayStationVR demos starting tomorrow at #SonySquareNYC. Reserve your spot now.
+You’ve crashed on an alien world. Now what? Play #Farpoint for yourself at #SonySquareNYC.
 
-2016-09-08 12:47:46+00:00
+2016-09-08 10:00:00+00:00
 
 View Tweet
 
@@ -154,9 +140,9 @@ Close
 
 Learn How
 
-Get Tips From Photographer Me Ra Koh
+Traverse a Hostile Alien Planet in Farpoint
 
-Attend Her Seminar
+Only Available at Sony Square NYC
 
 Close
 
@@ -166,11 +152,11 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Attend Her Seminar
+Only Available at Sony Square NYC
 
-Don't Miss This Thriller Starring Morris Chestnut and Regina Hall
+Introducing a New Member of the PlayStation Family
 
-Get Tickets for "When the Bough Breaks"
+Meet the PS4 Pro
 
 Close
 
@@ -188,7 +174,7 @@ Play Video
 
 What If You Could Project a Touchable Screen On Any Surface?
 
-Introducing the Xperia Projector
+You Can With the Xperia Projector
 
 Sony on Vine
 
@@ -208,9 +194,9 @@ See Details
 
 Sony on Twitter
 
-Our #WhenTheBoughBreaks ticket upload window for #SonyRewards points is open.
+Bringing Battlezone to life on PlayStation VR. Going inside 36 years of inspiration.
 
-2016-09-08 05:00:00+00:00
+2016-09-13 01:00:57+00:00
 
 View Tweet
 
@@ -260,23 +246,9 @@ Sony on YouTube
 
 Play Video
 
-NFL Network Is Now on PS Vue
+Don't Miss This Thriller Starring Morris Chestnut and Regina Hall
 
-Learn More
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Learn More
-
-Hear Acoustic Recordings of Jack White's Hit Songs
-
-Order Album
+Get Tickets for "When the Bough Breaks"
 
 Close
 
@@ -292,9 +264,23 @@ Sony on YouTube
 
 Play Video
 
-Make Your Own Smart Device
+Be One of the First People to Have the Xperia X Compact
 
-Learn About MESH
+Start Bidding on the Phone Now
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Start Bidding on the Phone Now
+
+Acoustic Songs by Jack White
+
+Order Album
 
 Close
 
@@ -314,9 +300,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-Before you see the seven take on the impossible September 23rd, go on set with 'The Magnificent Seven'
+Bruce Springsteen will be making several special appearances this fall to celebrate the release of #BornToRun!
 
-2016-09-07 02:46:11+00:00
+2016-09-12 23:20:17+00:00
 
 View Tweet
 
@@ -334,9 +320,9 @@ Close
 
 For Your Phone
 
-Launching a Cyber Currency Can Be a Dirty Business
+Immerse Yourself in the Sounds of Gaming
 
-Stream "StartUp" on Crackle Today
+See the New PlayStation Headset
 
 Close
 
@@ -346,11 +332,11 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Stream "StartUp" on Crackle Today
+See the New PlayStation Headset
 
-Rocksteady Gives Us a Behind-the-Scenes Look at Batman: Arkham VR
+Denzel Washington, Chris Pratt and More Join Forces to Get Justice in the Wild West
 
-Discover PlayStation®VR
+Find Out About "The Magnificent Seven"
 
 Close
 
