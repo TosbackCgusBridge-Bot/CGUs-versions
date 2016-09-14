@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms U.S. experiences 5th warmest summer on record Lower 48 also had 3rd warmest year to date and second wettest August AROUND NOAA // Climate change increased chances of record rains in Louisiana by at least 40 percent Teachers: 5 programs that bring Earth science #BacktoSchool National monument in Hawaii becomes world's largest marine protected area
+Enter Search Terms U.S. experiences 5th warmest summer on record Lower 48 also had 3rd warmest year to date and second wettest August AROUND NOAA // Whales might be hidden, but these new buoys can help find them Climate change increased chances of record rains in Louisiana by at least 40 percent Teachers: 5 programs that bring Earth science #BacktoSchool
 
 *   About our agency
 *   News and features
