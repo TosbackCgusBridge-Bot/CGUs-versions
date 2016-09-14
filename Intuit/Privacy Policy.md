@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.9
 *   customer service
     
 
-true true C15333454226
+true true C15339423396
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p17.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Mon Sep 12 11:15:28 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Tue Sep 13 11:12:45 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -144,23 +144,13 @@ ABOUT US
 *   investors
 *   CA Transparency in Supply Chains Act
 
-JCPenney credit card pay bill check balance apply now JCPenney is Your One-Stop Shop for Back to School &. College Dorm Essentials! At JCPenney, we're dedicated to bringing you the very best in stylish and affordable goods. With the upcoming school year, you've got to be well prepared, and we're here to help out with that! From school supplies and backpacks to dorm bedding and decor, you can find everything you need to go back to school in style. Headed off to college? Take a look at our handy dorm room checklist to make sure you're not forgetting anything. Your journey towards better value starts and ends with us, online or in your closest JCPenney store! Popular Searches
+JCPenney credit card pay bill check balance apply now JCPenney is Your One-Stop Shop for Winter Coats, Clothes &. Accessories!
 
-*   labor day sales
-*   homecoming dresses
-*   womens dresses
-*   mens suits
-*   spanx
-*   school uniforms
-*   racerback bra
-*   girls shoes
-*   boys shoes
-*   mens watches
-*   womens watches
-*   curtains &. drapes
-*   mattresses
-*   sports bras
-*   bedding sets
+At JCPenney, we're dedicated to bringing you the very best in stylish and affordable goods. With cold weather around the corner, you've got to be well prepared, and we're here to help out with that! Keep Jack Frost at bay with an array of winter coats and boots for the entire family. From pea coats to ski coats and riding boots to booties, youâre sure to find exactly what you need for yourself and your family to stay warm and stylish. Donât forget to accessorize your new clothing with essential cold weather accessories such as hats, gloves, and scarves. Shop for the perfect pajamas, bathrobe, and slippers to snuggle up in at night.
+
+Our bed and bath department has a beautiful selection of cold weather bedding and electric blankets. Browse a variety of colors and designs to mix and match with your current dÃ©cor. Speaking of dÃ©cor, pick up fun, cute and classic holiday decorations to really bring your favorite holidays to life this fall and winter. Setup the ultimate haunted house or a dazzling winter wonderland. We have an amazing selection of holiday dÃ©cor to help you realize your vision.
+
+At JCPenney, youâll find everything you need to stay warm inside and outside of the house. Your journey towards better value starts and ends with us, online or in your closest JCPenney store!
 
 *   copyright
 *   privacy policy
