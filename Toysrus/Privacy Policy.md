@@ -103,7 +103,7 @@ _In Connection with Business Transfers_: In the event that a store, division or 
 
 _To Comply with Laws_: Toys"R"Us may also disclose specific information when such disclosure appears necessary to comply with the law, a subpoena or other litigation process or to protect the interests or safety of its visitors and customers, Toys"R"Us employees or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-_On Registries and Wish Lists_: Registries and Wish Lists are made available for viewing by others. If you create your Registry or Wish List and elect to make it available online, your information will be accessible at Toysrus.com and Babiesrus.com and may be available at other sites as well. If you create your Registry or Wish List at Toysrus.com or Babiesrus.com, your Registry information may also be accessible at the Retail Stores.
+_On Registries and Wish Lists_: Registries and Wish Lists are made available for viewing by others. If you create your Registry or Wish List and elect to make it available online, your information will be accessible at Toysrus.com and Babiesrus.com and may be available at other sites as well. If you purchase an item off a Registry online, your billing name and address will be made available to the Registrant in their online Gift Manager. If you create your Registry or Wish List at Toysrus.com or Babiesrus.com, your Registry information may also be accessible at the Retail Stores.
 
  BACK TO TOP
 
