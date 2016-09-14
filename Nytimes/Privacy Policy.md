@@ -248,4 +248,4 @@ Search Help
 *   Contact Us
 *   Site Feedback
 
-Campaign ID: 283468 | Creative: nyt2016\_personalization\_B2B\_cookiesetter\_v4 -- 414693 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Inv2
+Campaign ID: 283468 | Creative: nyt2016\_personalization\_B2B\_cookiesetter\_v4 -- 414693 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Inv1
