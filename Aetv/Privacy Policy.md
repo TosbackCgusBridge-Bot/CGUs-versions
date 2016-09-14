@@ -1,5 +1,5 @@
 A+E Networks Privacy Policy  
-Effective Date: 7/22/15
+Effective Date: 09/09/16
 
 *   This policy covers information generated when you engage with A+E Networks.
 *   All of A+E Networks’ content is produced with strong privacy controls.
