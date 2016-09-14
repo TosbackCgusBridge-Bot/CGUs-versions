@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Could Your Tattoos Camouflage Skin Cancer?**
+**Letting Your Cat Work for Food Makes Her Happier, Healthier**
 
-**Psychologists Prove a 'Superman' Disguise Could Actually Fool People**
+**This Camera Can Read a Book Without Opening It**
 
-**Ridiculous History: Beloved Author Roald Dahl Was Also a Suave British Spy**
+**Hear and Now: It's Underwater Week!**
 
 **See More Headlines »**
 
