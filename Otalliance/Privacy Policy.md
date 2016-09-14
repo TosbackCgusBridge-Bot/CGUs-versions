@@ -104,7 +104,7 @@ The event will feature speeches from FTC officials and academics, focusing on th
 
 Thu, Sep 22, 2016 Security of Things Forum
 
-The market research firm IDC predicts that the number of Internet-connected endpoints will almost triple: surging from 10.3 billion in 2014 to 29.5 billion by the end of this decade. The changes wrought by this fast-emerging new computing environment are profound. But recent events prove that, in the rush to develop new Internet of Things products and services, security is falling by the wayside. SECoT Forum presents leaders in the areas of information security and privacy, developers of IoT devices and platforms, as well as investors, entrepreneurs and policy makers.
+**OTA Members receive 25% off! Use discount code: OTA-GUEST in registration.** The market research firm IDC predicts that the number of Internet-connected endpoints will almost triple: surging from 10.3 billion in 2014 to 29.5 billion by the end of this decade. The changes wrought by this fast-emerging new computing environment are profound.
 
 Tue, Oct 18, 2016 Technology &. Standards Forum
 
