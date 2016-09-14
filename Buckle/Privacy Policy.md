@@ -110,8 +110,8 @@
         
         *   Boots
         *   Sneakers
-        *   Dress Shoes
         *   Casuals
+        *   Dress Shoes
         *   Slides
         *   Flips
         *   Show All Shoes
@@ -120,9 +120,9 @@
         
         *   Accessories
         *   Hats
+        *   Sunglasses
         *   Watches
         *   Cologne
-        *   Bags
         *   Factory Seconds
         *   Show All
         
