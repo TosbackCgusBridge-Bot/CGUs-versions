@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Letting Your Cat Work for Food Makes Her Happier, Healthier**
+**Watch Bacteria Mutate Into Drug-resistant Superbugs**
 
-**This Camera Can Read a Book Without Opening It**
+**Four Wrong Ways to Treat Your Child's Concussion**
 
-**Hear and Now: It's Underwater Week!**
+**Why You Hate the Weird Sound of Your Own Voice**
 
 **See More Headlines »**
 
