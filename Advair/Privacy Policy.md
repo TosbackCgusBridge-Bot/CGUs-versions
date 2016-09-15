@@ -237,7 +237,7 @@ Menu
         *   Respiratory disease: why we want to make a difference
         *   Safety first: Employee wellbeing rides on it
         *   Beyond manufacturing in Chile and Madagascar
-        *   Why I #fightmalaria: Laura's story
+        *   Why I fight malaria: Laura's story
         *   Rare Disease Day 2016: What it means to us
         *   Volunteering in Kenya: a once in a lifetime experience
         *   On the job with GSK's medical device research team
