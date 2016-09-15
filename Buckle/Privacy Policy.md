@@ -81,29 +81,29 @@
     *   *   Featured
         
         *   New Arrivals
+        *   Shop by Brand
         *   Promotions
         *   Shop by Outfit
         *   Shop Instagram
-        *   Shop by Brand
         *   Buckle Select
         *   Buckle Exclusive
         
         *   Tops
         
         *   Tees
-        *   Hoodies/Sweatshirts
-        *   Tanks
         *   Shirts
         *   Polos
+        *   Hoodies/Sweatshirts
         *   Sweaters
+        *   Outerwear
         *   Show All Tops
         
         *   Bottoms
         
         *   Jeans
-        *   Shorts
-        *   Boardshorts
         *   Pants
+        *   Joggers
+        *   Shorts
         *   Show All Bottoms
         
         *   Shoes
@@ -342,6 +342,7 @@ Returns
 Promotions
 
 *   Double B-Rewards
+*   Free Tote Bag!
 *   Bluetooth® Speaker
 *   Loyalty Event 2016
 *   Tax Free Weekends 2016
