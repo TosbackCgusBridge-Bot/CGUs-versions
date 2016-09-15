@@ -29,10 +29,12 @@ Connexity
     *   Open Positions
     *   Benefits
     *   Team
-*   Resources
-    *   Blog
     *   Press
-    *   Articles &. White Papers
+*   Resources
+    *   White Papers
+    *   Blog
+    *   Articles
+    *   Webinars
 *   Case Studies
 
 *   *   US
