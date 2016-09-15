@@ -101,12 +101,12 @@ View more results
     Join for free
 *   Hot Games
     
-    *   Family Barn
-    *   Warbanner
-    *   Summer Sports
-    *   My Dolphin Show 8
+    *   Fiesta Online
+    *   Fragoria
+    *   Summer Sports: Diving
     *   Hero Simulator: Idle Adventure
-    *   Silly Ways to Die 3
+    *   Mad Day 2
+    *   Picnic Connect
     
     Mobile Apps More
     
@@ -136,7 +136,7 @@ View more results
     
     Best Games
     *   Forge of Empires
-    *   WeSpin
+    *   Jackpot
     *   Goodgame Empire
     *   Goodgame Poker
     *   Klondike
