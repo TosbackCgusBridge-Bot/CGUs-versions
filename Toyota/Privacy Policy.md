@@ -219,7 +219,11 @@ Cars
     
 *   Corolla  
     
+*   Corolla iM  
+    
 *   Yaris  
+    
+*   Yaris iA  
     
 
 Minivan
@@ -254,6 +258,8 @@ Hybrids
 *   Camry Hybrid  
     
 *   Highlander Hybrid  
+    
+*   Mirai  
     
 *   Prius  
     
@@ -918,7 +924,7 @@ Plano, TX 75025-9001
 
 (b) Severability: If any provision of these Terms are unlawful, void or unenforceable, that provision is deemed severable from these Terms and does not affect the validity and enforceability of any remaining provisions.
 
-(c) Applicable Law: These Terms and any disputes arising under or related to these Terms will be governed by the laws of the State of California, without reference to its conflict of law principles.
+(c) Applicable Law: These Terms and any disputes arising under or related to these Terms will be governed by the laws of the State of Texas, without reference to its conflict of law principles.
 
 (d) Entire Agreement: These Terms constitute the entire, complete and exclusive agreement between you and us regarding the Sites and supersedes all prior agreements and understandings with respect to the subject matter of these Terms.
 
@@ -986,7 +992,6 @@ Helpful Links
 *   Dealers
 *   Safety Recalls &  
     Service Campaigns
-*   Site Feedback
 
 About Toyota
 
