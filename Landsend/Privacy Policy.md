@@ -308,12 +308,13 @@ menu 0
     *   Supima Bedding &. Bath
     *   Flannel Bedding
     *   No Iron Bedding
+    *   Bedding Collections
     *   Sale
     
     BEDDING >.
     
     *   Sheets &. Pillowcases
-    *   Duvet Covers &. Comforters
+    *   Duvet Covers &. Coverlets
     *   Blankets &. Throws
     *   Mattress Pads
     *   Pillows
@@ -620,12 +621,13 @@ menu 0
     *   Supima Bedding &. Bath
     *   Flannel Bedding
     *   No Iron Bedding
+    *   Bedding Collections
     *   Sale
     
     BEDDING Back | BEDDING
     
     *   Sheets &. Pillowcases
-    *   Duvet Covers &. Comforters
+    *   Duvet Covers &. Coverlets
     *   Blankets &. Throws
     *   Mattress Pads
     *   Pillows
