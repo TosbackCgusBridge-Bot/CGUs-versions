@@ -66,10 +66,10 @@
         *   More
         
         *   Accessories
+        *   Activewear
         *   Bags
         *   Hats
         *   Dresses
-        *   Belts
         *   Scarves
         *   Socks
         *   Show All
