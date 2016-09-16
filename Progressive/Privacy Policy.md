@@ -227,12 +227,6 @@ Quote &. save today!
 
 Zip Code 
 
-Bundle for even more savings!
-
-*   Auto + Home
-*   Auto + Renters
-*   Auto + Condo
-
 *   Auto
 *   Home
 *   Renters
@@ -244,7 +238,7 @@ Bundle for even more savings!
 *   Boat/PWC
 *   RV/Trailer
 *   Snowmobile
-*   Term Life
+*   Life - Term
 *   Health
 
 *   Commercial Auto
@@ -254,4 +248,4 @@ Bundle for even more savings!
 *   Mechanical Repair
 *   ID Theft
 
-Auto + HomeAuto + RentersAuto + CondoAutoHomeRentersCondoMobile HomeClassic CarMotorcycle/ATVBoat/PWCRV/TrailerSnowmobileTerm LifeHealthCommercial AutoBusinessTravelPetMechanical RepairID Theft 
+AutoHomeRentersCondoMobile HomeClassic CarMotorcycle/ATVBoat/PWCRV/TrailerSnowmobileLife - TermHealthCommercial AutoBusinessTravelPetMechanical RepairID Theft 
