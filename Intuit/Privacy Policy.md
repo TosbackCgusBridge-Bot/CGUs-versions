@@ -1,4 +1,4 @@
-JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.9.5.0.34.0 15 3
+JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.9.6.0.14.0 15 3
 
 *   Find a store
 *   store ads
@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.9
 *   customer service
     
 
-true true C15343954908
+true true C15350634976
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Wed Sep 14 11:15:30 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Thu Sep 15 11:15:31 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,43 +52,57 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Worthington 40% Off Worthington Apparel
+Fall Apparel &. Shoes Flash Sale Extra 25% Off\*
+
+Today Online Only | September 15 | Code: 8INSTYLE
+
+\*Some exclusions apply
+
+Get Details Shop Men Shop Women Shop Shoes Shop Handbags &. Accessories Shop Fashion Jewelry Worthington 40% Off Worthington Apparel
 
 Select styles, reg. $18-$86
 
-Shop Worthington Apparel19.99 Worthington Ruffle Blouse
+Shop Worthington Apparel 19.99 Worthington Ruffle Blouse
 
 Select styles, orig. $36
 
-Shop Blouses24.99 Worthington Pencil Skirt
+Shop Blouses 24.99 Worthington Pencil Skirt
 
 Select styles, orig. $44
 
-Shop Skirts     Billion Dollar Jewelry Sale
+Shop Skirts     50% Off Men's Suit Separates, Sport Coats &. Dress Pants
 
-Now Through September 20
+reg. $60-$275
 
-Up to 60% Off Fine &. Fashion Jewelry
+Shop Men's Suit Separates, Sport Coats &. Dress Pants Buy 1 Get 1 For .01 Dress Shirts\*
+
+Select styles, reg. $36-$60
+
+Shop Dress Shirts
+
+\*Buy one item at regular price, get a second item of equal or lesser value for one cent while supplies last.
+
+Shoes, Handbag &. Accessories Event
+
+Now Through 9/25
+
+30 to 50% Off Shoes, Handbags &. Accessories
 
 Select styles
 
-Shop Fine JewelryUp to 50% Off Watches
+Shop Shoe, Handbag &. Accessories Event Shop Shoes Shop Handbags Home Sale 30 to 50% Off
 
-Select styles
+Select styles.
 
-Shop Watches     Carter's Baby Sale In Store &. Online | Now Through 9/25 Shop Baby Sale$10 Carter's Bodysuit Pants Set
-
-Select styles, reg. $20
-
-Shop Carter's Introducing The New Sephora Collection Get What You Want
-
-Coming in hot with lots of options. Same name, different game.
-
-Shop Now SportsFanShop Shop Now: JCPenney | optical 60% Off
+Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses Shop The Home Catalog   Sephora Shop Top-Rated Beauty: JCPenney | optical 60% Off
 
 Complete pair of kids' eyeglasses or RX sunglasses
 
-Order Now: Going, Going, Gone! Clearance -- 80% Off Final Markdowns Plus! New Markdowns 50 to 70% Off Shop Clearance Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play true
+Order Now: Carter's Baby Sale
+
+35 to 50% Off Select Styles
+
+Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play true
 
 get connected
 
