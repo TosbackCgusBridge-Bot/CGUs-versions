@@ -126,7 +126,7 @@ View Tweet
 
 Sony on Instagram
 
-Test Out an Alpha Camera
+Test Out a Digital Camera
 
 Learn How
 
