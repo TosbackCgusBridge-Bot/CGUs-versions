@@ -101,21 +101,21 @@ View more results
     Join for free
 *   Hot Games
     
+    *   Troll Face Quest Video Games
     *   Fiesta Online
     *   Fragoria
     *   Summer Sports: Diving
     *   Hero Simulator: Idle Adventure
     *   Mad Day 2
-    *   Picnic Connect
     
     Mobile Apps More
     
+    *   Troll Face Quest Video Games
     *   Mad Day 2
-    *   Summer Sports
     *   Hero Simulator: Idle Adventure
+    *   Summer Sports
     *   My Dolphin Show 8
-    *   Mad Truck Challenge: The Beginning
-    *   Trollface Quest TrollTube
+    *   Crash Drive 2
     
     Specials
     
