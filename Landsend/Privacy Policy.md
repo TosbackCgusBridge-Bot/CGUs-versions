@@ -315,9 +315,11 @@ menu 0
     
     *   Sheets &. Pillowcases
     *   Duvet Covers &. Coverlets
+    *   Comforters
     *   Blankets &. Throws
     *   Mattress Pads
     *   Pillows
+    *   Decorative Pillows
     
     BATH >.
     
@@ -628,9 +630,11 @@ menu 0
     
     *   Sheets &. Pillowcases
     *   Duvet Covers &. Coverlets
+    *   Comforters
     *   Blankets &. Throws
     *   Mattress Pads
     *   Pillows
+    *   Decorative Pillows
     
     BATH Back | BATH
     
