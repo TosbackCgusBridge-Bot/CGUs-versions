@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites Get a front row seat to a satellite launch: Apply for our #GOESR Social Weather It's the peak of the hurricane season: Learn how to prepare! National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Fall 2016 high tide bulletin now available for U.S. coasts Weather It's the peak of the hurricane season: Learn how to prepare! National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms U.S. experiences 5th warmest summer on record Lower 48 also had 3rd warmest year to date and second wettest August AROUND NOAA // Whales might be hidden, but these new buoys can help find them Climate change increased chances of record rains in Louisiana by at least 40 percent Teachers: 5 programs that bring Earth science #BacktoSchool
+Enter Search Terms U.S. experiences 5th warmest summer on record Lower 48 also had 3rd warmest year to date and second wettest August AROUND NOAA // First marine national monument created in Atlantic Sept. 22 Reddit AMA: The Science of Hurricane Hunting to Improve Forecasts Whales might be hidden, but these new buoys can help find them
 
 *   About our agency
 *   News and features
