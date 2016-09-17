@@ -9,9 +9,9 @@ SONY search Electronics Televisions &. Home Theater ›Televisions &. Home Thea
 
 *   All Television &. Home cinema products ›
 *   Televisions
-*   Home Theater
+*   Home Theater &. Sound Bars
 *   Projectors
-*   Blu-ray Disc &. DVD Players
+*   Blu-ray &. DVD Players
 *   4K Ultra Short Throw Projector
 *   Portable Projectors
 
@@ -19,8 +19,8 @@ View All Audio ›Audio
 
 *   All Audio products ›
 *   Headphones
-*   Walkman Digital Music Players
-*   Wireless Speakers &. Speaker Docks
+*   MP3 Players
+*   Wireless Speakers
 *   High-Resolution Audio
 *   Audio Systems
 *   Digital Voice Recorders
@@ -30,24 +30,24 @@ View All Audio ›Audio
 View All Cameras ›Cameras
 
 *   All Camera products ›
-*   α Interchangeable-lens Digital Cameras
-*   α Interchangeable Lenses
-*   Cyber-shot™ Digital Still Cameras
-*   Lens-Style Camera
+*   Interchangeable-lens Cameras
+*   Lenses
+*   Compact Cameras
+*   Lens-Style Cameras
 
 View All Mobile, Tablets &. Smart Devices  ›Mobile, Tablets &. Smart Devices 
 
 *   All Mobile, Tablets &. Smart Devices products ›
-*   Xperia Smartphones
-*   Xperia Tablets
-*   Smart Devices
+*   Cell Phones
+*   Tablets
+*   Wearable Technology
 *   Digital Paper
 
 View All Video Cameras ›Video Cameras
 
 *   All Video Cameras products ›
-*   Handycam® Camcorders
-*   Action Cam
+*   Camcorders
+*   Action Cameras
 *   Music Video Recorders
 *   Recording Binoculars
 *   Professional Camcorders
@@ -56,7 +56,7 @@ View All Car &. Marine ›Car &. Marine
 
 *   All Car &. Marine products ›
 *   In-Car Receivers &. Players
-*   Speakers &. Amplifiers
+*   In-Car Speakers &. Amplifiers
 *   Marine Audio
 
 View All Energy, Storage &. Cables ›Energy, Storage &. Cables
