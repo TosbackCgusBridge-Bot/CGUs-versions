@@ -148,7 +148,7 @@ You might also like September 16/17: Penumbral Lunar Eclipse
 
 This penumbral lunar eclipse can make the Harvest Moon appear a little darker as it moves through the faint, outer part of Earth's shadow. more
 
-UTC &. GMT â Same Difference?
+UTC &. GMT – Same Difference?
 
 Greenwich Mean Time (GMT) is often interchanged or confused with Coordinated Universal Time (UTC). But GMT is a time zone and UTC is a time standard. more
 
