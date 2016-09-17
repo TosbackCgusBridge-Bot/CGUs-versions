@@ -107,6 +107,7 @@ menu 0
     *   Big &. Tall
     
     CATEGORIES
+    *   Coats
     *   Dress Shirts
     *   Casual Shirts
     *   Polo Shirts
@@ -119,7 +120,6 @@ menu 0
     *   Jeans
     *   Shorts
     *   Swimwear
-    *   Coats
     *   Accessories
     *   Sleepwear
     *   Underwear &. Long Underwear
@@ -423,6 +423,7 @@ menu 0
     *   Big &. Tall
     
     CATEGORIES Back | CATEGORIES
+    *   Coats
     *   Dress Shirts
     *   Casual Shirts
     *   Polo Shirts
@@ -435,7 +436,6 @@ menu 0
     *   Jeans
     *   Shorts
     *   Swimwear
-    *   Coats
     *   Accessories
     *   Sleepwear
     *   Underwear &. Long Underwear
