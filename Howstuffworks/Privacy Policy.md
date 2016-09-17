@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Robots May Take Millions of US Jobs by 2021**
+**Cool Off and Save Energy by Wearing This New Plastic Fabric**
 
-**Your Thoughts Could Activate a Tiny Robot Inside Your Own Brain**
+**Experts Find There Are Four — Not One — Species of Giraffe. What Took So Long?**
 
-**Should Restaurants Charge a Penalty Fee for Uneaten Food?**
+**Is a Canvas Tote Really Greener than a Cheap Plastic Bag?**
 
 **See More Headlines »**
 
