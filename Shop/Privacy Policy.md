@@ -26,7 +26,6 @@ LENOVO Menu
     *   K-12 Education
     *   Higher Education
     *   Business Partners
-    *   Resource Center
 *   Support
     *   Technical support
     *   Sales order help
@@ -299,13 +298,10 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Accessories &. Software
     *   Services &. Warranty
     *   Smartphones
-    *   Lenovo Holiday Deals
     *   Lenovo Preferred Card
     *   Trade-In Program
-    *   Lenovo Photo Service
     *   Gaming Computers
     *   Yoga Computers
-    *   Discover Lenovo
     *   New Product Showcase
     *   New Product Announcements
     *   Outlet
