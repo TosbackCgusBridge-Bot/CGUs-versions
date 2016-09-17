@@ -95,5 +95,3 @@ If you have any questions, you can contact us through our contact form.
 *   Games for your website
 *   Terms of Use
 *   Privacy Policy
-
-​
