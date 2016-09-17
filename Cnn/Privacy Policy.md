@@ -101,11 +101,7 @@ U.S. International Español Arabic
 
 Set edition preference:
 
-U.S.InternationalConfirm FacebookTwitterInstagram
-
-Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.
-
-CNN Privacy Policy
+U.S.InternationalConfirm FacebookTwitterInstagram CNN Privacy Policy
 
 Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.
 
