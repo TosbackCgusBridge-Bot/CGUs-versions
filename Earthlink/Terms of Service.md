@@ -4,13 +4,13 @@ THIS AGREEMENT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE
 
 **1\. AGREEMENT**
 
-This EarthLink Cable Internet Service Agreement ("Agreement") governs your use of the EarthLink Cable Internet services and its features (“Cable Internet Service”). This Agreement is between EarthLink, LLC and its related entities ("EarthLink") and you as a subscriber. This Agreement consists of the terms and conditions below, the terms of your billing plan, the EarthLink Privacy Policy and the EarthLink Acceptable Use Policy, all of which are incorporated herein. By establishing an account with EarthLink, or using the Cable Internet Service, you agree to be bound by this Agreement and to use the Cable Internet Service in compliance with the terms of this Agreement and all applicable federal, state and local laws, rules and regulations.
+This EarthLink Cable Internet Service Agreement ("Agreement") governs your use of the EarthLink Cable Internet services and its features ("Cable Internet Service"). This Agreement is between EarthLink, LLC and its related entities ("EarthLink") and you as a subscriber. This Agreement consists of the terms and conditions below, the terms of your billing plan, the EarthLink Privacy Policy and the EarthLink Acceptable Use Policy, all of which are incorporated herein. By establishing an account with EarthLink, or using the Cable Internet Service, you agree to be bound by this Agreement and to use the Cable Internet Service in compliance with the terms of this Agreement and all applicable federal, state and local laws, rules and regulations.
 
 **2\. TERM OF THIS AGREEMENT**
 
 The effective date of this Agreement is the date on which you subscribe to the Cable Internet Service. This Agreement terminates upon the termination of your Cable Internet Service account. Sections 7, 8, 9, 11, 12, 15, 16 and 18 of this Agreement will survive the termination of this Agreement.
 
-**3\.** **SUBSCRIPTION INFORMATION**
+**3\. SUBSCRIPTION INFORMATION**
 
 To order and subscribe to the Cable Internet Service, acknowledge that you are 18 years of age or older and you have legal authority to enter into this Agreement. You must provide (i) a valid credit or debit card or other EarthLink approved payment methods for the Cable Internet Service. (ii) your billing address. (iii) your shipping address if different from your billing address. and (iv) your telephone number. You represent that all information you provided during the subscription process is accurate and complete and that you will update such information with EarthLink should any of it change.
 
@@ -28,7 +28,7 @@ You are solely responsible for maintaining the security of (i) the device (such 
 
 The Cable Internet Service speed may vary depending on location, line quality, inside wiring, Internet traffic, the cable provider in your area ("Cable Provider") and other factors beyond the control of EarthLink.
 
-The Cable Provider may limit the amount of data that you can upload and/or download each month through the Cable Internet Service. If Comcast is your Cable Provider for your Cable Internet Service, then your monthly data usage cannot exceed 250 gigabytes. Data usage, also known as bandwidth usage, is the total amount of data, including photos, videos and other files that you send, receive, download and upload over a specific period of time. Comcast will call those subscribers who exceed the 250 gigabyte monthly consumption limit to inform them of how much data per month the account has used, help them identify the source of such excessive data usage, suggest ways to reduce data usage and explain the consequences of continuing to exceed the 250 gigabyte monthly usage cap, including termination of the Cable Internet Service. If within six (6) months of the first call from Comcast about such excessive use you continue to exceed the 250 gigabyte monthly consumption limit, then your Cable Internet Service may be terminated. Subscribers whose Cable Internet Service is terminated as a result of exceeding the 250 gigabyte monthly usage cap will be prohibited from subscribing to the Cable Internet Service for a year following the applicable termination date. For more information on this 250 gigabytes monthly data usage cap, go to http://support.earthlink.net/articles/cable/earthlink-powered-by-comcast-usage-cap.php .
+The Cable Provider may limit the amount of data that you can upload and/or download each month through the Cable Internet Service.
 
 You represent that when you transmit, upload, post or submit any content, images or data using the Cable Internet Service you have the legal right to do so and that your use of such content, images or data does not violate the intellectual property rights (including copyright or trademark) or any other rights of third parties. You agree that EarthLink has no responsibility for the accuracy, completeness, value or usefulness of any content, advice or opinions contained in any emails, message boards, chat rooms, social networks or online services. The Internet may contain material that is unsuitable for minors, and you agree to supervise and to accept sole responsibility and liability for any use of the Service by minors through your account. Your use of the Service is also governed by the EarthLink Acceptable Use Policy and the EarthLink Privacy Policy.
 
@@ -74,7 +74,7 @@ EarthLink will charge a fee for returned checks or returned bank drafts from you
 
 EarthLink will email an e-invoice to your primary EarthLink email address selected by or assigned to you during the subscription process ("Contact Email Address") each month or if you designated a different billing email address, EarthLink will email the e-invoice to such billing email address each month. You may request through https://myaccount.earthlink.net/cam/billing\_info.jsp or by calling EarthLink Customer Service that EarthLink mail a paper invoice to your billing mailing address each month. EarthLink will charge your account a fee for each paper invoice. If you elect to have EarthLink mail you your monthly invoice, you may request that EarthLink also email your monthly invoice your Contact Email Address or if you designated a different billing email address , to such billing email address. There is no charge for e-invoices.
 
-Your account for your Value Added Services will be automatically inactivated if you put a stop payment on your account with your financial institution in connection with the payment of your monthly bill.
+Your account for your EarthLink Value Added Services will be automatically inactivated if you put a stop payment on your account with your financial institution in connection with the payment of your monthly bill.
 
 All charges for the EarthLink Value Added Services are considered valid unless disputed in writing within thirty (30) days of the billing date and mailed to:
 
@@ -83,11 +83,11 @@ All charges for the EarthLink Value Added Services are considered valid unless d
 > 1170 Peachtree Street, Suite 900  
 > Atlanta, Georgia 30309
 
-Adjustments will not be made for charges for your Value Added Service that are disputed more than thirty (30) days after the billing date.
+Adjustments will not be made for charges for your EarthLink Value Added Service that are disputed more than thirty (30) days after the billing date.
 
 EarthLink reserves the right to change (i) fees and institute new fees associated with your EarthLink Value Added Services upon email notice at least 30 days prior to the effective date of such new fee to your Contact Email Address or your billing email address if different from your Contact Email Address and (ii) fees associated with your account upon email notice at least 30 days prior to the effective date of such new fee to your Contact Email Address or your billing email address if different from your Contact Email Address.
 
-EarthLink may use various means to recover monies due in connection with your Value Added Services. If EarthLink retains a collection agency or takes legal action to collect monies due on your account, you agree to pay all costs and expenses of collection incurred by EarthLink, which may include reasonable attorney's fees and collection agency fees which may be based on a percentage of the amount owed, up to a maximum of 25%, where permitted by applicable law.1
+EarthLink may use various means to recover monies due in connection with your Value Added Services. If EarthLink retains a collection agency or takes legal action to collect monies due on your account, you agree to pay all costs and expenses of collection incurred by EarthLink, which may include reasonable attorney's fees and collection agency fees which may be based on a percentage of the amount owed, up to a maximum of 25%, where permitted by applicable law.
 
 **9\. CANCELLATION AND TERMINATION**
 
@@ -116,11 +116,11 @@ EarthLink Value Added Services' accounts are set to close at the end of the curr
 
 EarthLink may terminate your account at any time for any reason, including, without limitation, if (i) your account is delinquent because charges on your method of payment were refused for any reason. (ii) you failed to make payment when due or you did not provide EarthLink with your credit or debit card's expiration date or expiration date of any other method of payment before the existing expiration date. (iii) EarthLink, in its sole discretion, believes you have breached this Agreement or any other EarthLink agreements or policies. or (iv) your use of the Cable Internet Service or any of the EarthLink Value Added Services is prohibited by law. A termination notice will be sent to you via (i) your Contact Email Address or (ii) U.S. Mail to the billing address for your EarthLink account. If your account is terminated due to non-payment and then is reactivated at a later date, EarthLink may bill you a reactivation fee.
 
-**10\. MONITORING THE VALUE ADDED SERVICES**
+**10\. MONITORING THE EARTHLINK VALUE ADDED SERVICES**
 
-EarthLink may take any legal and technical remedies to prevent the violation of this Agreement or any other EarthLink agreement or policy including agreements and policies and to enforce the EarthLink Acceptable Use Policy .
+EarthLink may take any legal and technical remedies to prevent the violation of this Agreement or any other EarthLink agreement or policy including agreements and policies and to enforce the EarthLink Acceptable Use Policy.
 
-EarthLink has no obligation to monitor your use of your Value Added Services but may do so to (i) comply with laws, regulations, or governmental or legal requests. (ii) protect the overall integrity of the Value Added Services (including the EarthLink network). (iii) operate the technical aspects of the Value Added Service in a proper, effective, and reasonable manner. (iv) protect itself, its employees, or others as described in the EarthLink Privacy Policy . and (v) to enforce or prevent breaches of this Agreement or other EarthLink agreements or policies, including the EarthLink Acceptable Use Policy .
+EarthLink has no obligation to monitor your use of your EarthLink Value Added Services but may do so to (i) comply with laws, regulations, or governmental or legal requests. (ii) protect the overall integrity of the EarthLink Value Added Services (including the EarthLink network). (iii) operate the technical aspects of the EarthLink Value Added Services in a proper, effective, and reasonable manner. (iv) protect itself, its employees, or others as described in the EarthLink Privacy Policy. and (v) to enforce or prevent breaches of this Agreement or other EarthLink agreements or policies, including the EarthLink Acceptable Use Policy.
 
 EarthLink may provide assistance to the Cable Partners in response to requests from governmental authorities or other legal requests.
 
@@ -142,13 +142,19 @@ You agree to defend, indemnify and hold the EarthLink Parties harmless from and 
 
 In addition, if you are not the owner of the premises where you are going to install the Equipment you warrant that you have obtained the consent of the owner for your Cable Provider or its agents to enter the premises for installation. You will indemnify, defend and hold the EarthLink Parties harmless from and against any claims of the owner of the premises in connection with the installation of the Equipment.
 
-**13\. ELECTRONIC COMMUNICATIONS AND CELL PHONE CALLING**
+**13\. ELECTRONIC COMMUNICATIONS AND PHONE COMMUNICATIONS**
 
-You consent to receive notices, documents, disclosures and other communications from EarthLink ("Communications") in an electronic format to your Contact Email Address and agree that the Communications provided to you by EarthLink electronically will be deemed a writing. If you do not want to consent to receive Communications from EarthLink electronically or if you withdraw such consent, then you must stop using the Cable Internet Service and EarthLink Value Added Services. The withdrawal of your consent will not affect the legal validity and enforceability of any electronic Communications provided or business transacted between EarthLink and you prior to the time you withdraw your consent.
+13.1 Electronic Communications
 
-In addition, you hereby agree that your acceptance of this Agreement constitutes your written consent: (i) to EarthLink calling you at the phone number(s) that you provided EarthLink in connection with your subscription to or use of the Cable Internet Service or the EarthLink Value Added Services, and (ii) if you provided EarthLink with a mobile or cellular phone number(s), to EarthLink also texting you at such mobile or cellular phone number(s) in connection with your subscription to or use of the Cable Internet Service or EarthLink Value Added Services. Consent to receiving autodialed marketing telephone calls and/or marketing texts from EarthLink is not required to purchase products or services from EarthLink.
+You consent to receive notices, documents, disclosures and other communications from EarthLink about your account, the Cable Internet Service and the EarthLink Value Added Services ("Communications") in an electronic format to your Contact Email Address and agree that the Communications provided to you by EarthLink electronically will be deemed a writing. If you do not want to receive Communications from EarthLink electronically or if you withdraw your consent to receive such Communications electronically, then you must stop using the Cable Internet Service and the EarthLink Value Added Services. The withdrawal of your consent will not affect the legal validity and enforceability of any electronic Communications provided or business transacted between EarthLink and you prior to the time you withdraw your consent.
 
-You may exercise your option not to receive any marketing communications from EarthLink by going directly to https://myaccount.earthlink.net/cam/contactinfo.jsp or calling EarthLink customer service.
+13.2 Phone Calling and Texting
+
+In addition, you hereby agree that your use of the Cable Internet Service and the EarthLink Value Added Services constitutes your express written consent to receive automated and manually dialed calls, text messages and pre-recorded messages at the phone number(s) that you provide EarthLink in connection with your subscription to or use of the Cable Internet Service and the EarthLink Value Added Services. Consent to receiving autodialed calls, text messages, and/or pre-recorded messages from EarthLink is not required to purchase products or services from EarthLink.
+
+13.3 Changing Your Contact Preferences
+
+You may exercise your option not to receive any marketing communications from and/or automated or manually dialed calls, text messages and pre-recorded messages from EarthLink by going directly to https://myaccount.earthlink.net/cam/contactinfo.jsp or calling EarthLink customer service. You also may text STOP in response to any text message from EarthLink to stop receiving text messages from EarthLink.1
 
 **14\. CUSTOMER SERVICE AND TECHNICAL SUPPORT**
 
@@ -160,7 +166,7 @@ Contact your Cable Provider customer service for questions about (i) billing for
 
 This Agreement is governed by Georgia law without regard to conflict of law provisions.
 
-**16\.** **DISPUTE RESOLUTION BY BINDING ARBITRATION (INCLUDING IMPORTANT INFORMATION FOR CALIFORNIA RESIDENTS)**
+**16\. DISPUTE RESOLUTION BY BINDING ARBITRATION (INCLUDING IMPORTANT INFORMATION FOR CALIFORNIA RESIDENTS)**
 
 16.1 Summary
 
@@ -225,17 +231,17 @@ The arbitrator may award declaratory or injunctive relief only in favor of the i
 
 16.10 Changes to Agreement to Arbitrate
 
-Notwithstanding any provision in this Agreement to the contrary, if EarthLink makes any future change to this arbitration provision (other than a change to the Notice Address) during the term of your subscription with EarthLink, you may reject any such change by sending us written notice to the Notice Address postmarked within 30 days of the date of the change. By rejecting any future change, you are agreeing that you will arbitrate any dispute between us in accordance with the language in this Section 16 of this Version dated October 16, 2014.
+Notwithstanding any provision in this Agreement to the contrary, if EarthLink makes any future change to this arbitration provision (other than a change to the Notice Address) during the term of your subscription with EarthLink, you may reject any such change by sending us written notice to the Notice Address postmarked within 30 days of the date of the change. By rejecting any future change, you are agreeing that you will arbitrate any dispute between us in accordance with the language in this Section 16 of this Version dated September 15, 2016.
 
 16.11 Notice to California Residents
 
 California residents are entitled to the following information:
 
-> The Cable Internet Service and EarthLink Value Added Services are provided by EarthLink, LLC, 1170 Peachtree Street, Suite 900, Atlanta, Georgia 30309.
-> 
-> Charges may vary depending on the type of Cable Internet Service plan and type of EarthLink Value Added Service.
-> 
-> The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 N. Market Blvd., Suite S-202, Sacramento, California 95834 or by telephone at 1-800-952-5210.
+The Cable Internet Service and EarthLink Value Added Services are provided by EarthLink, LLC, 1170 Peachtree Street, Suite 900, Atlanta, Georgia 30309.
+
+Charges may vary depending on the type of Cable Internet Service plan and type of EarthLink Value Added Service.
+
+The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 N. Market Blvd., Suite S-202, Sacramento, California 95834 or by telephone at 1-800-952-5210.
 
 16.12 Survival
 
@@ -249,8 +255,8 @@ EarthLink may revise, amend, or modify this Agreement at any time by posting the
 
 You may not assign your rights or delegate any of your duties under this Agreement without the prior written consent of EarthLink, and any attempted assignment or delegation without such consent will be void. If one or more provisions of this Agreement are held to be invalid, illegal, or unenforceable, the validity, legality and enforceability of the remaining provisions will not be affected or impaired thereby. The foregoing does not apply to the prohibition against class or representative actions that is part of the arbitration provision in Section 16. if that prohibition is found to be unenforceable, the entire "DISPUTE RESOLUTION BY BINDING ARBITRATION" provision (but only the "DISPUTE RESOLUTION BY BINDING ARBITRATION" provision) will be null and void and the dispute will be heard by a court. EarthLink may amend or replace such unenforceable provision with one that is valid and enforceable and which achieves, to the extent possible, the original objectives and intent of EarthLink as reflected in the original provision. Nothing in this Agreement or in the understanding of the parties confers upon the parties the status of agency, partnership, or other form of joint enterprise between the parties. EarthLink may subcontract any work, obligations or other performance required of EarthLink under this Agreement without your consent. EarthLink will not be liable for delays, damages or failures in performance because of causes beyond its reasonable control, including, but not limited to, acts of a government in its sovereign capacity, acts of war, terrorism, acts of a public enemy, fires, earthquakes, acts of God, labor disputes, strikes, work slow-downs or other labor-related activity.
 
-Effective Date: October 28, 2015
+Effective Date: September 15, 2016
 
-The following endnote summarize the material revision made in this October 28, 2015 version of this Agreement compared to the October 16, 2014 version of this Agreement.
+The following endnote summarize the material revision made in this September 15, 2016 version of this Agreement compared to the October 28, 2015 version of this Agreement.
 
-1 The last paragraph in Section 8 was revised to clarify that your agreement to pay all costs of collection may include the payment of collection agency fees which may be based on a percentage of the amount owed, up to a maximum of 25%, where permitted by applicable law.
+1Section 13 was updated.
