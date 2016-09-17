@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.9
 *   customer service
     
 
-true true C15350634976
+true true L15389622162
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Thu Sep 15 11:15:31 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Fri Sep 16 11:15:27 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,21 +52,23 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Fall Apparel &. Shoes Flash Sale Extra 25% Off\*
+Fall Fashion Sale 30 to 50% Off Select Styles
 
-Today Online Only | September 15 | Code: 8INSTYLE
+In Store &. Online | Ends September 25
 
-\*Some exclusions apply
+Shop Fall Fashion Sale View Store Ad Shop Women Shop Men Shop Kids Shop Curtains &. Drapes Shop Shoes Shop Handbags Shop Jewelry Shop BeddingNight &. Day Doorbusters
 
-Get Details Shop Men Shop Women Shop Shoes Shop Handbags &. Accessories Shop Fashion Jewelry Worthington 40% Off Worthington Apparel
+Friday 3PM CDT through Saturday 1PM CDT
+
+Shop Doorbusters Worthington 40% Off Worthington Apparel
 
 Select styles, reg. $18-$86
 
-Shop Worthington Apparel 19.99 Worthington Ruffle Blouse
+Shop Worthington Apparel19.99 Worthington Ruffle Blouse
 
 Select styles, orig. $36
 
-Shop Blouses 24.99 Worthington Pencil Skirt
+Shop Blouses24.99 Worthington Pencil Skirt
 
 Select styles, orig. $44
 
@@ -74,7 +76,7 @@ Shop Skirts     50% Off Men's Suit Separates, Sport Coats &. Dress Pants
 
 reg. $60-$275
 
-Shop Men's Suit Separates, Sport Coats &. Dress Pants Buy 1 Get 1 For .01 Dress Shirts\*
+Shop Men's Suit Separates, Sport Coats &. Dress PantsBuy 1 Get 1 For .01 Dress Shirts\*
 
 Select styles, reg. $36-$60
 
@@ -82,7 +84,7 @@ Shop Dress Shirts
 
 \*Buy one item at regular price, get a second item of equal or lesser value for one cent while supplies last.
 
-Shoes, Handbag &. Accessories Event
+Shoe, Handbag &. Accessories Event
 
 Now Through 9/25
 
