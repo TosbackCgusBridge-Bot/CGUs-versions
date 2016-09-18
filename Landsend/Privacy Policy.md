@@ -98,6 +98,7 @@ menu 0
     *   Supima Shirts &. Sweaters
     *   Legends Of Fall
     *   Tailored Fit Shop
+    *   Blue Thread
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -414,6 +415,7 @@ menu 0
     *   Supima Shirts &. Sweaters
     *   Legends Of Fall
     *   Tailored Fit Shop
+    *   Blue Thread
     *   Sale
     
     SHOP BY SIZE RANGE Back | Men
