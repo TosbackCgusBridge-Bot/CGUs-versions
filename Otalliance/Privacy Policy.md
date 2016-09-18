@@ -94,10 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Thu, Sep 15, 2016 Putting Disclosures To the Test
-
-The event will feature speeches from FTC officials and academics, focusing on the challenges of consumer disclosures “in the privacy arena,” writing, “Privacy policies are often long and difficult to comprehend and privacy-related icons may fail to communicate information meaningfully to consumers.
-
 Thu, Sep 22, 2016 Security of Things Forum
 
 **OTA Members receive 25% off! Use discount code: OTA-GUEST in registration.** The market research firm IDC predicts that the number of Internet-connected endpoints will almost triple: surging from 10.3 billion in 2014 to 29.5 billion by the end of this decade. The changes wrought by this fast-emerging new computing environment are profound.
@@ -109,6 +105,10 @@ Join OTA and CTA in Austin, Texas, to learn, network and collaborate with indust
 Tue, Oct 18, 2016 SecureWorld St. Louis
 
 Join OTA at SecureWorld Expo. Program includes over 60 sessions, keynotes, panel discussions &. breakouts.  Earn 12-16 CPE credits and network with industry peers.  OTA Members save $150 with code SEA1P for the full SecureWorld Plus pass and $100 off of the Conference pass using code SEA1.
+
+Tue, Oct 18, 2016 Security of Things - Smart Card Alliance
+
+Security and privacy are top priorities as the Internet of Things (IoT) creates an increasingly connected world—connected devices are expected to reach 21 billion by the year 2020.
 
 More >>.
 
