@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.9
 *   customer service
     
 
-true true L15391523738
+true true C15364700191
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Sat Sep 17 11:15:32 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Sun Sep 18 11:15:31 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,59 +52,77 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Fall Fashion Sale 30 to 50% Off Select Styles
+VIP Event
 
-In Store &. Online | Ends September 25
+Starts Now! Ends September 20 | In Store &. Online | Code: FORYOU34
 
-Shop Fall Fashion Sale View Store Ad Shop Women Shop Men Shop Kids Shop Curtains &. Drapes Shop Shoes Shop Handbags Shop Jewelry Shop BeddingNight &. Day Doorbusters
+Extra 25% Off\* With Your JCPenney Credit Card Or, Extra 20% Off\* With Any Other Method of Payment Or, Extra 10% Off\* Select Major Appliances Or, Extra 15% Off\* Select Watches, Salon Products, Portrait, Optical, Furniture, Mattresses, Custom Blinds &. Shades
 
-Friday 3PM CDT through Saturday 1PM CDT
+\*Credit offer subject to credit approval.
 
-Shop Doorbusters Worthington 40% Off Worthington Apparel
+Exclusions &. Details: View Store Ad Get Coupon 3 Days of Fall Deals 6 Deals. 3 Days. Hurry, They Won't Last Long!
 
-Select styles, reg. $18-$86
+In Store &. Online | Ends September 20
 
-Shop Worthington Apparel19.99 Worthington Ruffle Blouse
-
-Select styles, orig. $36
-
-Shop Blouses24.99 Worthington Pencil Skirt
-
-Select styles, orig. $44
-
-Shop Skirts     50% Off Men's Suit Separates, Sport Coats &. Dress Pants
-
-reg. $60-$275
-
-Shop Men's Suit Separates, Sport Coats &. Dress PantsBuy 1 Get 1 For .01 Dress Shirts\*
-
-Select styles, reg. $36-$60
-
-Shop Dress Shirts
-
-\*Buy one item at regular price, get a second item of equal or lesser value for one cent while supplies last.
-
-Shoe, Handbag &. Accessories Event
-
-Now Through 9/25
-
-30 to 50% Off Shoes, Handbags &. Accessories
+39.99 Dresses
 
 Select styles
 
-Shop Shoe, Handbag &. Accessories Event Shop Shoes Shop Handbags Home Sale 30 to 50% Off
+Shop Dresses 19.99 Men's St. John's Bay Worry-Free Pants
+
+Select styles, reg. $40
+
+Shop St. John's Bay Worry-Free Pants 17.99 Boys' &. Girls' Arizona Denim
+
+Select styles
+
+Shop Arizona Denim 12.99 A.N.A &. Stylus Long-Sleeve Tees
+
+Select styles
+
+Shop Long-Sleeve Tees 39.99 Dress Shoes for Her
+
+Select styles
+
+Shop Dress Shoes 34.99 Cooks Ceramic Waffle Maker, Skillet or Griddle
+
+Select styles, excluded from coupon
+
+Shop Cooks Small Appliances Liz Claiborne Sale
+
+Now Through September 25
+
+40% Off Liz Claiborne
 
 Select styles.
 
-Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses Shop The Home Catalog   Sephora Shop Top-Rated Beauty: JCPenney | optical 60% Off
+Shop Liz Claiborne Liz Claiborne 40th Anniversary
 
-Complete pair of kids' eyeglasses or RX sunglasses
+40 Iconic Looks For You
 
-Order Now: Carter's Baby Sale
+Shop All The Looks Men's Wardrobe Sale 50% Off Men's Suit Separates, Sport Coats, Top Coats &. Dress Pants
+
+Select styles, reg. $60-$300
+
+In Store &. Online | Now Through September 25
+
+Shop Now Home Sale 30 to 50% Off
+
+Select styles.
+
+  Shop All Home Shop Home Catalog Shop Comforters &. Bedding Sets Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses   Sephora Shop New Fragrances: JCPenney | portraits
+
+Free 8x10, 3.99 Sheets
+
+50% Off Your Photo Purchase
+
+Get Details: Carter's Baby Sale
 
 35 to 50% Off Select Styles
 
-Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play true
+Now through September 25
+
+Shop Now: Going, Going, Gone! Clearance - 80% Off Final Markdowns Plus! New Markdowns 50 to 70% Off Shop Clearance Now: true
 
 get connected
 
