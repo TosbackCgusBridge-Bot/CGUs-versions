@@ -7,6 +7,8 @@ By registering for an EA Account (formerly known as an Origin Account) ( **_"Acc
   
 IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE ANY EA SITE, ONLINE OR MOBILE PRODUCT OR SERVICE. If we change our privacy policy, we will post those changes to this privacy statement, the home page or other places so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material or significant changes to this policy or the way we use your child's information, we will notify you or the parent/guardian here, by email, or by means of a notice on our home page prior to the changes taking effect. Your continued use of our online and mobile products and services will signify your acceptance of the changes to our online Privacy Policy.  
   
+EA participates in the EU-U.S. Privacy Shield framework. To learn more visit http://tos.ea.com/legalapp/WEBPRIVACYSHIELD/US/en/PC/.  
+  
 **TABLE OF CONTENTS  
   
 I. EA Online And Mobile Privacy Policy: Introduction  
