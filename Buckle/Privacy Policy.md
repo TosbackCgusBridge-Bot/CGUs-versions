@@ -341,7 +341,6 @@ Returns
 
 Promotions
 
-*   Double B-Rewards
 *   Free Tote Bag!
 *   Bluetooth® Speaker
 *   Loyalty Event 2016
