@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Cool Off and Save Energy by Wearing This New Plastic Fabric**
+**Hear and Now: Cats Dig Food Puzzles**
 
-**Experts Find There Are Four — Not One — Species of Giraffe. What Took So Long?**
+**So This Might Be Why You Ditched Your Fitbit**
 
-**Is a Canvas Tote Really Greener than a Cheap Plastic Bag?**
+**Ridiculous History: Toxic German Sausages Are Responsible for Botox**
 
 **See More Headlines »**
 
