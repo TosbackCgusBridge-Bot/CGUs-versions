@@ -20,7 +20,6 @@ Categories
     *   Physics
     *   Funny Games
     *   Simulation
-    *   Minecraft Games
     *   Scary Games
     *   Ninja Games
 *   Puzzle
@@ -171,7 +170,6 @@ View more results
     *   Physics
     *   Funny Games
     *   Simulation
-    *   Minecraft Games
     *   Scary Games
     *   Ninja Games
     
