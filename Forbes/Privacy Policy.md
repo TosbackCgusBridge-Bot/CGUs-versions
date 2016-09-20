@@ -1,7 +1,7 @@
 Log in with your social account: Or, you can log in or sign up using Forbes.
 
 *   Editors' Picks
-*   New Posts +1 posts this hour
+*   New Posts +4 posts this hour
 *   Most Popular Wizard Of Apps
 *   Lists NFL Valuations
 *   Video iPhone 7
@@ -62,7 +62,7 @@ We partner with a third party ad network to either display advertising on our We
 
 **How Will I Know if the Privacy Policy Is Changed?** If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-Inside Forbes States Gaining And Losing The Most Migrants A critical indicator of the health of state economics is where Americans choose to move, and the places they are leaving.
+Inside Forbes The Best And Worst Cities For Jobs This Fall Those looking to snag a job this fall will want to set their sights on the West and South.
 
 *   How Some Millennials Pay Parents' Student Loan Debt
 *   Top-Earning Hip-Hop Cash Kings Of The Last 10 Years
