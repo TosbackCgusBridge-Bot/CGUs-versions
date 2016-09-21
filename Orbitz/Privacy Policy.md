@@ -22,7 +22,11 @@ Show menu
 *   Account
     *   Sign In
     *   Create an Account
-*   My Scratchpad   Things you view while shopping are saved here. Things you view while shopping are saved here. Save Scratchpad Send updates Send updates Send updates
+*   My Scratchpad  
+    
+    Things you view while shopping are saved here.
+    
+    loading your Scratchpad...
     
     View Scratchpad
 *   My Trips
