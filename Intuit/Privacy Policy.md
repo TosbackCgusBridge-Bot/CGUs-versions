@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.9
 *   customer service
     
 
-true true C15368012143
+true true L15398507262
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Mon Sep 19 11:15:36 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1l1j2 TIME :->. Tue Sep 20 11:15:31 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -181,8 +181,6 @@ ABOUT US
 JCPenney credit card pay bill check balance apply now JCPenney is Your One-Stop Shop for Winter Coats, Clothes &. Accessories!
 
 At JCPenney, we're dedicated to bringing you the very best in stylish and affordable goods. With cold weather around the corner, you've got to be well prepared, and we're here to help out with that! Keep Jack Frost at bay with an array of winter coats and boots for the entire family. From pea coats to ski coats and riding boots to booties, youâre sure to find exactly what you need for yourself and your family to stay warm and stylish. Donât forget to accessorize your new clothing with essential cold weather accessories such as hats, gloves, and scarves. Shop for the perfect pajamas, bathrobe, and slippers to snuggle up in at night.
-
-Our bed and bath department has a beautiful selection of cold weather bedding and electric blankets. Browse a variety of colors and designs to mix and match with your current dÃ©cor. Speaking of dÃ©cor, pick up fun, cute and classic holiday decorations to really bring your favorite holidays to life this fall and winter. Setup the ultimate haunted house or a dazzling winter wonderland. We have an amazing selection of holiday dÃ©cor to help you realize your vision.
 
 At JCPenney, youâll find everything you need to stay warm inside and outside of the house. Your journey towards better value starts and ends with us, online or in your closest JCPenney store!
 
