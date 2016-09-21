@@ -83,6 +83,8 @@ Third parties with whom we partner to provide certain features on our website or
   
 We encourage you to view the privacy policy of advertisers and ad services to learn more about their cookies and other technologies. If you do not want to receive those kinds of advertisements, look for the "Ad Choices" icon in the advertisements, which will contain a link to the privacy policy of the ad network that will provide you with information on how to opt-out of receiving such targeted advertising. **You can also visit the website website http://www.networkadvertising.org/choices or http://www.aboutads.info/choices/ to learn more about interest-based advertising and third party ad networks and to opt-out of receiving ads from ad networks. Please remember that changing your settings with certain browsers and ad networks will not carry your privacy choices across browsers and other ad networks.**  
   
+To opt out of these ads, please click here.  
+  
 SOCIAL MEDIA  
 Our Tech Resources may allow you to connect and share information with various social media platforms, such as Facebook, Instagram, Twitter and Pinterest. These features may require us to implement cookies, plug-ins and/or APIs provided by such social media platforms to facilitate the communications and features. We may share information that you provide us or that we may collect about your use of the Tech Resources with these platforms, which information becomes subject to their privacy and data policies. We encourage you to visit the privacy policies of these platforms for further information:  
   
