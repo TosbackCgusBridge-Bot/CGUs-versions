@@ -1,6 +1,6 @@
-Ask Jeeves Privacy Policy Back to About Home
+Ask Privacy Policy Back to About Home
 
-_Last updated: 1 June, 2015_
+_Last updated: 20 September, 2016_
 
   
 
@@ -135,4 +135,4 @@ Attn: Privacy Officer
 Unit 1, College Business &. Technology Park, Blanchardstown North Road,  
 Dublin 15, Ireland  
 
-About - Privacy - Popular Questions - About P.G Wodehouse ©2016 IAC Search &. Media
+About - Privacy ©2016 IAC Search &. Media
