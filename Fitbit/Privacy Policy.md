@@ -187,5 +187,6 @@ United States (change)
 *   ©2016 Fitbit, Inc. All rights reserved.
 *   Legal Terms
 *   Privacy Policy
+*   Returns &. Warranty
 *   Wear and Care
 *   Recall &. Safety Info
