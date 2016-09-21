@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 10.373,87ǀ
+*   DAX 10.393,86ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -129,7 +129,6 @@ Mein SPIEGEL
 *   bento
 *   Reise
     *   *   Übersicht
-        *   Weltkarte
         *   Städtereisen
         *   Deutschland
         *   Europa
