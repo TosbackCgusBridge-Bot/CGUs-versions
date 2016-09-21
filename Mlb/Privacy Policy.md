@@ -1,6 +1,6 @@
 To learn about our efforts to improve the accessibility and usability of our website, please visit our Accessibility Information page. Skip to section navigation or Skip to main content Below is an advertisement. 한국어 日本語 Español
 
-Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Fantasy Auction Teams
+Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Auction Fantasy Teams
 
 *   Scores
 *   News News News
@@ -100,7 +100,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
 *   Tickets Tickets Tickets
     *   General Ticket Information
     *   2016 Postseason Ticket Terms &. Polices
-    *   StubHub.comBig League Tours Bank of America
+    *   StubHub.com2017 Schedule 2017 Season Tickets Bank of America Big League Tours
 *   Apps Apps Apps
     *   At Bat app
     *   At Bat on Tablets
@@ -151,6 +151,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.TV Blackouts
     *   MLB.TV Download Center
     *   Contact UsMLB.TV Student MLB.TV ST
+*   Auction
 *   Fantasy Fantasy Fantasy
     *   Fantasy Baseball 2016
     *   R.B.I. Baseball 16
@@ -166,7 +167,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Prospect Watch
     *   Fantasy 411 Blog
     *   Follow @Fantasy411Beat the Streak DraftKings R.B.I. Baseball 16 MLB.com Line Drive MLB.com Home Run Derby Fantasy Player Preview 160x160
-*   Auction
 *   Teams Teams American League AL East
     
     *   Baltimore
