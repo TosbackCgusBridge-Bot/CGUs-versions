@@ -104,8 +104,8 @@ View more results
     *   Warbanner
     *   Fragoria
     *   Summer Sports: Diving
-    *   Hero Simulator: Idle Adventure
     *   Tanki Online
+    *   Picnic Connect
     
     Mobile Apps More
     
