@@ -372,6 +372,24 @@ Sony on YouTube
 
 Play Video
 
+This December, Two Space Travelers Fight for Their Lives and Find Love Along the Way
+
+Learn More About "Passengers"
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
 Load More
 
 Where To Buy See Authorized Retailers Sony Rewards
