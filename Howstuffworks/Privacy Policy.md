@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Hear and Now: Cats Dig Food Puzzles**
+**New, Free Tool Gives Everyone a Satellite View of Illegal Fishing**
 
-**So This Might Be Why You Ditched Your Fitbit**
+**Pee-resistant Paint: Coming to a Train Station Near You**
 
-**Ridiculous History: Toxic German Sausages Are Responsible for Botox**
+**Weather Bombs Are Spectacularly Destructive**
 
 **See More Headlines »**
 
