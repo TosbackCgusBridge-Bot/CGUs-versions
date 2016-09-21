@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms U.S. experiences 5th warmest summer on record Lower 48 also had 3rd warmest year to date and second wettest August AROUND NOAA // First marine national monument created in Atlantic Sept. 22 Reddit AMA: The Science of Hurricane Hunting to Improve Forecasts Whales might be hidden, but these new buoys can help find them
+Enter Search Terms August marks ongoing trend of record-breaking heat for the globe AROUND NOAA // Sept. 22 Reddit AMA: The Science of Hurricane Hunting to Improve Forecasts First marine national monument created in Atlantic Whales might be hidden, but these new buoys can help find them
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-Greg McFall, NOAA
+iStock image
