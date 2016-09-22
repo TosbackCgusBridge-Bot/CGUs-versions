@@ -54,7 +54,7 @@ Hybrids & Fcv
 *   2016   $36,650 starting 1 40 /39 est. mpg2 as shown 1 Build your own
 *   2016   $47,870 starting 1 27 /28 est. mpg2 as shown 1 Build your own
 *   2016   $28,370 starting 1 34 /31 est. mpg2 as shown 1 Build your own
-*   2016   Mirai $57,500 starting 1 67 /67 est. mpg2 as shown 1 Build your own
+*   2016   $28,370 starting 1 34 /31 est. mpg2 as shown 1 Build your own
 
 Upcoming Vehicles
 
