@@ -100,12 +100,12 @@ View more results
     Join for free
 *   Hot Games
     
-    *   Troll Face Quest Video Games
-    *   Warbanner
-    *   Fragoria
-    *   Summer Sports: Diving
+    *   Age of Cavemen
     *   Tanki Online
-    *   Picnic Connect
+    *   Summer Sports: Diving
+    *   Hero Simulator: Idle Adventure
+    *   FC Barcelona: Ultimate Rush
+    *   Slither.io
     
     Mobile Apps More
     
