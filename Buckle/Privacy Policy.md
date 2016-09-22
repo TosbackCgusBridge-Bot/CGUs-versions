@@ -40,7 +40,7 @@
         *   Sweatshirts
         *   Sweaters
         *   Coats/Jackets
-        *   Show All Tops
+        *   Shop All
         
         *   Bottoms
         
@@ -50,7 +50,7 @@
         *   Leggings
         *   Skirts
         *   Shorts
-        *   Show All Bottoms
+        *   Shop All
         
         *   Shoes
         
@@ -61,7 +61,7 @@
         *   Flats
         *   Flips
         *   Wedges
-        *   Show All Shoes
+        *   Shop All
         
         *   More
         
@@ -72,7 +72,7 @@
         *   Dresses
         *   Scarves
         *   Socks
-        *   Show All
+        *   Shop All
         
           
           
@@ -96,7 +96,7 @@
         *   Hoodies/Sweatshirts
         *   Sweaters
         *   Outerwear
-        *   Show All Tops
+        *   Shop All
         
         *   Bottoms
         
@@ -104,7 +104,7 @@
         *   Pants
         *   Joggers
         *   Shorts
-        *   Show All Bottoms
+        *   Shop All
         
         *   Shoes
         
@@ -114,7 +114,7 @@
         *   Dress Shoes
         *   Slides
         *   Flips
-        *   Show All Shoes
+        *   Shop All
         
         *   More
         
@@ -124,7 +124,7 @@
         *   Watches
         *   Cologne
         *   Factory Seconds
-        *   Show All
+        *   Shop All
         
           
           
@@ -143,7 +143,7 @@
         *   Coats/Jackets
         *   Jeans
         *   Shorts
-        *   Show All Girl's Clothes
+        *   Shop All
         
         *   Boy's Clothing
         
@@ -152,7 +152,7 @@
         *   Boardshorts
         *   Shorts
         *   Shoes
-        *   Show All Boy's Clothes
+        *   Shop All
         
           
         Give a Buckle Gift card It's all about the blues. Shop jeans now.
@@ -165,7 +165,7 @@
         *   Flare
         *   Ankle Skinny
         *   Blues Report
-        *   Show All Women's Jeans
+        *   Shop All
         
         *   Men's Jeans
         
@@ -174,7 +174,7 @@
         *   Relaxed
         *   Loose
         *   Blues Report
-        *   Show All Men's Jeans
+        *   Shop All
         
         *   Kid's Jeans
         
@@ -193,7 +193,7 @@
         *   Crops/Capris
         *   Shirts/Blouses
         *   Shoes
-        *   Show All Women's New
+        *   Shop All
         
         *   Men's New
         
@@ -203,16 +203,16 @@
         *   Shirts
         *   Shoes
         *   Raglans
-        *   Show All Men's New
+        *   Shop All
         
         *   Kid's New
         
         *   Girl's New Tops
         *   Girl's New Jeans
-        *   Show All Girl's New
+        *   Shop All
         *   Boy's New Tops
         *   Boy's New Jeans
-        *   Show All Boy's NewGive a Buckle Gift card It's all about the blues. Shop jeans now.
+        *   Shop AllGive a Buckle Gift card It's all about the blues. Shop jeans now.
 *   Sale
     *   *   Women's Sale
         
@@ -223,7 +223,7 @@
         *   Shirts/Blouses
         *   Shoes
         *   Factory Seconds
-        *   Show All Women's Sale
+        *   Shop All
         
         *   Men's Sale
         
@@ -234,16 +234,16 @@
         *   Shirts
         *   Shoes
         *   Factory Seconds
-        *   Show All Men's Sale
+        *   Shop All
         
         *   Kid's Sale
         
         *   Girl's Sale Tops
         *   Girl's Sale Jeans
-        *   Show All Girl's Sale
+        *   Shop All
         *   Boy's Sale Tops
         *   Boy's Sale Jeans
-        *   Show All Boy's SaleGive a Buckle Gift card It's all about the blues. Shop jeans now.
+        *   Shop AllGive a Buckle Gift card It's all about the blues. Shop jeans now.
 
 A Global Message! × Privacy &. Security
 
