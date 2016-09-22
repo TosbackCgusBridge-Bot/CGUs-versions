@@ -15,7 +15,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
         *   Birthday Gifts
     *   Gifts on the Healthier Side
     *   Best Sellers
-    *   New Product Showcase
 *   Sausage &. Cheese
     *   Sausage &. Cheese Gifts
     *   Cheese
@@ -59,7 +58,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
         *   Birthday Gifts
     *   Gifts on the Healthier Side
     *   Best Sellers
-    *   New Product Showcase
 *   Sausage &. Cheese
     *   Sausage &. Cheese Gifts
     *   Cheese
