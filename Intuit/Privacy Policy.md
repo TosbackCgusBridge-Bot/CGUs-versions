@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.9
 *   customer service
     
 
-true true L15398507262
+true true C15377370027
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1l1j2 TIME :->. Tue Sep 20 11:15:31 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Wed Sep 21 11:09:05 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,43 +52,7 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-VIP Event
-
-Starts Now! Ends September 20 | In Store &. Online | Code: FORYOU34
-
-Extra 25% Off\* With Your JCPenney Credit Card Or, Extra 20% Off\* With Any Other Method of Payment Or, Extra 10% Off\* Select Major Appliances Or, Extra 15% Off\* Select Watches, Salon Products, Portrait, Optical, Furniture, Mattresses, Custom Blinds &. Shades
-
-\*Credit offer subject to credit approval.
-
-Exclusions &. Details: View Store Ad Get Coupon 3 Days of Fall Deals 6 Deals. 3 Days. Hurry, They Won't Last Long!
-
-In Store &. Online | Ends September 20
-
-39.99 Dresses
-
-Select styles
-
-Shop Dresses 19.99 Men's St. John's Bay Worry-Free Pants
-
-Select styles, reg. $40
-
-Shop St. John's Bay Worry-Free Pants 17.99 Boys' &. Girls' Arizona Denim
-
-Select styles
-
-Shop Arizona Denim 12.99 A.N.A &. Stylus Long-Sleeve Tees
-
-Select styles
-
-Shop Long-Sleeve Tees 39.99 Dress Shoes for Her
-
-Select styles
-
-Shop Dress Shoes 34.99 Cooks Ceramic Waffle Maker, Skillet or Griddle
-
-Select styles, excluded from coupon
-
-Shop Cooks Small Appliances Liz Claiborne Sale
+Liz Claiborne Sale
 
 Now Through September 25
 
@@ -106,13 +70,21 @@ Select styles, reg. $60-$300
 
 In Store &. Online | Now Through September 25
 
-Shop Now Home Sale 30 to 50% Off
+Shop Now Shoe, Handbag &. Accessories Event
+
+Now Through 9/25
+
+30 to 50% Off Shoes, Handbags &. Accessories
+
+Select styles, $21-69.99, reg. $35-$120
+
+Shop Shoe, Handbag &. Accessories Event Shop Shoes Shop Handbags Home Sale 30 to 50% Off
 
 Select styles.
 
-  Shop All Home Shop Home Catalog Shop Comforters &. Bedding Sets Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses   Sephora Shop New Fragrances: JCPenney | portraits
+  Shop All Home Shop Home Catalog Shop Comforters &. Bedding Sets Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses   Red Zone Clearance Going, Going, Gone! 80% Off Final Markdowns Plus New Markdowns 50 to 70% Off Shop Clearance Now Sephora Shop New Fragrances: JCPenney | portraits
 
-Free 8x10, 3.99 Sheets
+Free 8x10, $3.99 Sheets
 
 50% Off Your Photo Purchase
 
@@ -122,7 +94,7 @@ Get Details: Carter's Baby Sale
 
 Now through September 25
 
-Shop Now: Going, Going, Gone! Clearance - 80% Off Final Markdowns Plus! New Markdowns 50 to 70% Off Shop Clearance Now: true
+Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play true
 
 get connected
 
