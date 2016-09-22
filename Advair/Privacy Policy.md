@@ -246,6 +246,7 @@ Menu
         *   War and peace: Ivo, Nobel prize winner
         *   Changing Lives
         *   The global as personal: GSK and The National Museum of African American History and Culture
+        *   From the GSK archives: William Allen, scientist, businessman, abolitionist
     *   How we do business
         *   How we do business
         *   Changing the way we work with healthcare professionals
