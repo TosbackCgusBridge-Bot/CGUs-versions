@@ -35,7 +35,7 @@ MENU **IS**
 
 **GS**
 
-*   Starting at $45,615\*
+*   Starting at $46,310\*
 *   2.0L I-4 or 3.5L V6
 
 *   Build
@@ -43,7 +43,7 @@ MENU **IS**
 
 **GS HYBRID**
 
-*   Starting at $63,080\*
+*   Starting at $63,635\*
 *   338 TOTAL SYSTEM HP\*
 
 *   Build
@@ -51,7 +51,7 @@ MENU **IS**
 
 **GS F**
 
-*   Starting at $84,440\*
+*   Starting at $83,940\*
 *   467-HP\* 5.0L V8
 
 *   Build
@@ -65,19 +65,11 @@ MENU **IS**
 *   Build
 *   Current Offers
 
-**LS HYBRID**
-
-*   Starting at $120,440\*
-*   438 TOTAL SYSTEM HP\*
-
-*   Build
-*   Current Offers
-
 SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **NX**
 
-*   Starting at $34,965\*
+*   Starting at $35,085\*
 *   235-hp\* 2.0L turbo
 
 *   Build
@@ -86,7 +78,7 @@ COMPARE **NX**
 **NX HYBRID**
 
 *   Starting at $39,720\*
-*   33-MPG combined rating\* (FWD)
+*   31-MPG combined rating\*
 
 *   Build
 *   Current Offers
@@ -127,7 +119,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **RC**
 
-*   Starting at $39,995\*
+*   Starting at $40,155\*
 *   2.0L I-4 OR 3.5L V6
 
 *   Build
@@ -135,7 +127,7 @@ COMPARE **RC**
 
 **RC F**
 
-*   Starting at $62,805\*
+*   Starting at $64,165\*
 *   467-hp\* 5.0L V8
 
 *   Build
@@ -154,7 +146,7 @@ COMPARE **CT HYBRID**
 **NX HYBRID**
 
 *   Starting at $39,720\*
-*   33-MPG combined rating\* (FWD)
+*   31-MPG combined rating\*
 
 *   Build
 *   Current Offers
@@ -177,16 +169,8 @@ COMPARE **CT HYBRID**
 
 **GS HYBRID**
 
-*   Starting at $63,080\*
+*   Starting at $63,635\*
 *   338 TOTAL SYSTEM HP\*
-
-*   Build
-*   Current Offers
-
-**LS HYBRID**
-
-*   Starting at $120,440\*
-*   438 TOTAL SYSTEM HP\*
 
 *   Build
 *   Current Offers
@@ -195,7 +179,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **RC F**
 
-*   Starting at $62,805\*
+*   Starting at $64,165\*
 *   467-HP\* 5.0L V8
 
 *   Build
@@ -203,7 +187,7 @@ COMPARE **RC F**
 
 **GS F**
 
-*   Starting at $84,440\*
+*   Starting at $83,940\*
 *   467-HP\* 5.0L V8
 
 *   Build
