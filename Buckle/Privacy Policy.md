@@ -33,7 +33,7 @@
         
         *   Tops
         
-        *   Tees
+        *   T-Shirts
         *   Shirts/Blouses
         *   Bandeaus/Bralettes
         *   Fashion
@@ -90,10 +90,10 @@
         
         *   Tops
         
-        *   Tees
+        *   T-Shirts
         *   Shirts
         *   Polos
-        *   Hoodies/Sweatshirts
+        *   Sweatshirts
         *   Sweaters
         *   Outerwear
         *   Shop All
@@ -187,7 +187,7 @@
 *   New
     *   *   Women's New
         
-        *   Tees
+        *   T-Shirts
         *   Jeans
         *   Shorts
         *   Crops/Capris
@@ -197,7 +197,7 @@
         
         *   Men's New
         
-        *   Tees
+        *   T-Shirts
         *   Jeans
         *   Shorts
         *   Shirts
@@ -216,7 +216,7 @@
 *   Sale
     *   *   Women's Sale
         
-        *   Tees
+        *   T-Shirts
         *   Jeans
         *   Shorts
         *   Crops/Capris
@@ -227,7 +227,7 @@
         
         *   Men's Sale
         
-        *   Tees
+        *   T-Shirts
         *   Jeans
         *   Shorts
         *   Boardshorts
@@ -332,6 +332,7 @@ Your Account
 Shipping/Handling
 
 *   Shipping Rates/Options
+*   2016 Holiday Shipping Deadlines
 *   International Orders
 
 Returns
