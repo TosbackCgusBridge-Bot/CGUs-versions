@@ -8,12 +8,12 @@ VH1 Menu VH1
     *   TV Schedule
     *   Love &. Hip Hop Hollywood
     *   Basketball Wives LA
-    *   T.I &. Tiny: The Family Hustle
     *   VH1 Live!
     *   RuPaul's All Stars Drag Race
+    *   Black Ink Crew Chicago
+    *   T.I &. Tiny: The Family Hustle
     *   Dating Naked
-    *   Hit The Floor
-    *   Amber Rose ShowSee all Shows
+    *   Hit The FloorSee all Shows
 *   Pop Culture
     *   Music
     *   Celebrity
@@ -29,7 +29,7 @@ VH1 Menu VH1
 *   TV Provider Sign Out
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Hollywood Basketball Wives LA T.I &. Tiny: The Family Hustle VH1 Live! RuPaul's All Stars Drag Race Dating Naked Hit The Floor Amber Rose Show Love &. Hip Hop Atlanta Shaunie's Home Court Black Ink Crew See all Shows
+*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Hollywood Basketball Wives LA VH1 Live! RuPaul's All Stars Drag Race Black Ink Crew Chicago T.I &. Tiny: The Family Hustle Dating Naked Hit The Floor Amber Rose Show Love &. Hip Hop Atlanta Shaunie's Home Court See all Shows
 *   Pop Culture Music Celebrity Movies TV Around The Web Video See all Pop Culture
 *   Life Beauty &. Health Style Relationships Video See all Life
 *   facebook twitter tumblr
