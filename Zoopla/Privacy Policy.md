@@ -1,12 +1,12 @@
 Zoopla Privacy Policy
 
-Zoopla Property Group Plc (“**Zoopla**”, **we** or **us**) are committed to protecting and respecting your privacy.
+Zoopla Property Group Plc ("**Zoopla**", **we** or **us**) are committed to protecting and respecting your privacy.
 
 This policy (together with our terms of use and any other documents referred to in it) sets out the basis on which any personal information we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it. By visiting this website you are accepting and consenting to the practices described in this policy.
 
 We may amend this privacy policy at any time. Any changes we may make will be posted on this page, so please check back frequently. Your continued use of our website(s) will constitute your acceptance of, and agreement to, any changes to the privacy policy.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controllers are Zoopla Property Group Plc of 65 Southwark Street, London, SE1 0HR and Archant Ltd of Prospect House, Rouen Road, Norwich, NR1 1RE. Zoopla Property Group Plc, the subsidiaries it controls and Archant Ltd and the subsidiaries it controls, are referred to in this privacy policy, collectively, as the Zoopla Group of Companies and the Archant Group of Companies and, individually, as a Zoopla Group Company and Archant.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Zoopla Property Group Plc of The Cooperage, 5 Copper Row, London. SE1 2LH. Zoopla Property Group Plc and the subsidiaries it controls are referred to in this privacy policy, collectively, as the Zoopla Group of Companies and, individually, as a Zoopla Group Company.
 
 Information we may collect from you
 
@@ -23,9 +23,9 @@ We use personal information about you in connection with the following purposes:
 *   Fulfilling your requests:
     *   to provide you with the information, products and services that you request from us or another Zoopla Group Company.
     *   to administer any promotion or competition that you enter via our website(s). and
-    *   to allow you to participate in interactive features of our service, when you choose to do so. 
+    *   to allow you to participate in interactive features of our service, when you choose to do so.
 *   Marketing:
-    *   to provide you, or permit other Zoopla Group Companies, or selected third parties to provide you, with information about goods or services that may interest you .  
+    *   to provide you, or permit other Zoopla Group Companies, or selected third parties to provide you, with information about goods or services that may interest you.
     *   to customise or enhance your experience on our website(s) and services, including via the display of adverts and direct communications you receive from us which may be based on your activity on our website(s) or the website of another Zoopla Group Company.
     *   to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you, which may be based on your activity on our website(s) or the website of another Zoopla Group Company. and
     *   to make suggestions and recommendations to you and other users of our website about goods or services that may interest you or them, which may be based on your activity on our website(s) or the website of another Zoopla Group Company.
@@ -37,7 +37,7 @@ We use personal information about you in connection with the following purposes:
 
 Sharing your personal information
 
-We may share your personal information in connection with the purposes above with any other Zoopla Group Company .
+We may share your personal information in connection with the purposes above with any other Zoopla Group Company.
 
 We may also share your personal information with third parties in the following circumstances:
 
@@ -78,4 +78,4 @@ Access to information
 
 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-Updated: August 2016
+Updated: September 2016
