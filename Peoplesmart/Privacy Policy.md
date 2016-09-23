@@ -5,7 +5,7 @@ Sign In Join Search Search Search Search Choose
 *   Email
 *   Address
 
-Find Location \*a-z dash, period, spaces only Birth MonthJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember Day12345678910111213141516171819202122232425262728293031 Birth Year19981997199619951994199319921991199019891988198719861985198419831982198119801979197819771976197519741973197219711970196919681967196619651964196319621961196019591958195719561955195419531952195119501949194819471946194519441943194219411940193919381937193619351934193319321931193019291928192719261925192419231922192119201919 +/- --012510 Minimize Phone: Email: \*enter valid email address Street: City: Search
+Find Location Birth MonthJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember Day12345678910111213141516171819202122232425262728293031 Birth Year19981997199619951994199319921991199019891988198719861985198419831982198119801979197819771976197519741973197219711970196919681967196619651964196319621961196019591958195719561955195419531952195119501949194819471946194519441943194219411940193919381937193619351934193319321931193019291928192719261925192419231922192119201919 +/- --012510 Minimize Phone: Email: \*enter valid email address Street: City: Search
 
 *   Sign In
 *   Join
@@ -117,7 +117,7 @@ Your information is stored on secure servers in Northern California. While we us
 
 Choices And Other Privacy Information Access and corrections
 
-You may use your account to access, correct, or change any personal information you have provided to us or associated with your account. You may also email our Privacy Team at privacy@peoplesmart.com. We will do our best to promptly respond to your request within a reasonable timeframe.
+You may use your account to access, correct, or change any personal information you have provided to us or associated with your account. You may also email our Privacy Team at privacy@peoplesmart.com. We will do our best to promptly respond to your request within a reasonable time frame.
 
 Deleting Your Account
 
