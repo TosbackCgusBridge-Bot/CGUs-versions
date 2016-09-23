@@ -10,23 +10,23 @@ This Privacy Policy describes our practices related to the use, storage and disc
 
 Privacy and Security Expand All
 
-*   Information About You (information you type in) **Information About You (information you type in)**
+*   Information About You (information you type in) Information About You (information you type in) **Information About You (information you type in)**
     
     After download, the App solicits information from you.  You may access most tools and features either as a guest, or logged in with your SkyMiles credentials, including SkyMiles number, last name and SkyMiles account password.  Logging in allows the added convenience of access to SkyMiles account information if needed while traveling.  However, if you do not log in and use the application as a guest, you still have access to most features. 
     
     You are given the option to enter travel-related and personal information while using certain features of the App. The App allows you to enter and store personal information for use in travel clearance functions. The information you enter may include first and last name, passport or government ID (number, country of issue, expiration date), passenger redress number, gender, date of birth, and country of residence.  To use the feature allowing direct payment of baggage and travel-related fees through the App, you will need to provide your payment information, including payment card number, expiration date and billing address.  You may also choose to store photos and text notes for parking and travel reminders, along with company travel information, travel preferences and phone or e-mail contact information needed to communicate with others in transit.
     
-*   Automatic Access and Data Collection from Your Device **Automatic Access and Data Collection from Your Device**
+*   Automatic Access and Data Collection from Your Device Automatic Access and Data Collection from Your Device **Automatic Access and Data Collection from Your Device**
     
     The App may access certain device information and/or components automatically.  This access is only for the purpose of providing the services within the App you choose to use.
     
     A push notification token (not your native manufacturer device ID) will be used to send push notifications to your mobile device with updates for flight times, gate changes and flight cancellations.  The App will activate your camera if you choose to take a picture for a parking reminder, and store the photo.  If you choose, the App can access your device calendar to save itinerary information in your personal schedule.  It can also bring up your default e-mail program to enable you to send notes and reminders while traveling.  The calendar and photo functions are user-initiated.
     
-*   Location Information **Location Information**
+*   Location Information Location Information **Location Information**
     
     If you have first provided permission through your device, Delta may obtain pinpointed physical location information from technologies like GPS, Wi-Fi, or cell tower proximity. You are able to withdraw your permission for Delta to acquire pinpointed location information from your device through your device settings, although Delta does not control this process.  The App can use the geo-location features (GPS or network-based) to support your use of location-based tools such as airport/map views, city code search, displaying local Delta Sky Clubs, and locating parking spaces.
     
-*   How We Use Information About You and Your Device **How We Use Information About You and Your Device**
+*   How We Use Information About You and Your Device How We Use Information About You and Your Device **How We Use Information About You and Your Device**
     
     We collect and use the information about you and your device collected through this App, as well as other information obtained from our website or network and your device, your account, to maintain and provide you with the Services, to respond to your questions and instructions, to maintain the integrity of our network and address security issues, to investigate or take action regarding violations or suspected violations of law or our terms, and to improve such Services.
     
@@ -34,7 +34,7 @@ Privacy and Security Expand All
     
     In addition to conversion events, it might also be used for frequency capping, estimating the number of unique users, debugging, or security and fraud detection.
     
-*   Tracking Preferences and Opt-Out  
+*   Tracking Preferences and Opt-Out Tracking Preferences and Opt-Out  
     **Tracking Preferences and Opt-Out**
     
     You may at any time opt-out from further allowing the App’s access to your location data by disabling location tracking features as provided in your native device settings features.
@@ -47,42 +47,42 @@ Privacy and Security Expand All
     
     When you use Fly Delta, a unique ID (which varies by device manufacturer and operating system) is read from or associated with your device to be used as an anonymous identifier for analytics and performance purposes.  We don’t store the ID, or share the ID or other unique information collected or used by the app with third parties, except for service providers such as Adobe, whose analytics product generates this ID to track and analyze the performance of our app.  We do not use information gathered within the app to serve you targeted advertisements. The “limit ad tracking” or similar advertising-related privacy settings offered by device manufacturers do not change how your device is tracked by Delta.
     
-*   Sharing With Social Media **Sharing With Social Media**
+*   Sharing With Social Media Sharing With Social Media **Sharing With Social Media**
     
     You may wish to share information and activities from this app with social media platforms. To utilize social media sharing features, you will be prompted to grant permissions within those platforms, as you choose.   For Facebook updates, you will need to allow account login and publishing permissions.  This enables you to: post questions and content to a feed, upload photos/videos, add likes and comments, create notes and post to events and groups.  To facilitate login, the app will store your account credentials for the appropriate social media platform.
     
     Activity and data shared from the app to these platforms is covered by the internal privacy policy of each platform.
     
-*   Data Retention **Data Retention**
+*   Data Retention Data Retention **Data Retention**
     
     The App will store user- provided data for as long as you use the related feature of the App, unless you choose to delete it.  Only information provided for travel clearance, purchases and related activities will be stored in our operational systems as needed to provide your requested services.  As with the website, if you delete your Delta Sky Miles Account, we will delete the data stored in that account.
     
-*   Security **Security**
+*   Security Security **Security**
     
     Information Security is important to Delta. We have established appropriate physical, electronic and managerial safeguards to protect the information we collect from or about our users. These safeguards are regularly reviewed to protect against unauthorized access, disclosure and improper use of your information, and to maintain the accuracy and integrity of that data.
     
-*   Website Policy, Not This Policy, Applies to delta.com Interactions **Website Policy, Not This Policy, Applies to delta.com Interactions**
+*   Website Policy, Not This Policy, Applies to delta.com Interactions Website Policy, Not This Policy, Applies to delta.com Interactions **Website Policy, Not This Policy, Applies to delta.com Interactions**
     
     When you access our website, at www.Delta.com or m.delta.com, including from your mobile device, your activities are subject to our terms of use and privacy policy, as stated there.  This policy applies to your device-based interactions with the Fly Delta app only.
     
-*   Changes **Changes**
+*   Changes Changes **Changes**
     
     This Privacy Policy may be updated from time to time, as new versions of the App and service offerings are modified or expanded   You may visit Delta’s Privacy and Security page to view a current copy of our Mobile Privacy Policy.
     
-*   Contact Us **Contact Us**
+*   Contact Us Contact Us **Contact Us**
     
     If you have any questions regarding privacy while using the App, or have questions about our practices, please contact us via our Customer Care page here.
     
 
 Our Web Site Expand All
 
-*   What information does Delta gather and how is it used? **What information does Delta gather and how is it used?**
+*   What information does Delta gather and how is it used? What information does Delta gather and how is it used? **What information does Delta gather and how is it used?**
     
     We collect information about your visits to our sites, such as your Internet service provider, browser type, operating system, pages accessed on our sites and the date and time of access to optimize your user experience and enhance your time spent with us online. We also receive information telling us what site you came to our site from.
     
     When you send us an email using the Email Usopens in a new window page, we will retain the content of the email, your email address, and our response in order to handle any follow-up questions you may have. We also use this information to measure how effectively we address your concerns.
     
-*   What types of personally identifiable information are collected? **What types of personally identifiable information are collected?**
+*   What types of personally identifiable information are collected? What types of personally identifiable information are collected? **What types of personally identifiable information are collected?**
     
     The types of information you provide to us voluntarily, both from your browser and from transactions with Delta and our SkyMiles Partners and Promotional Partners. Types include, but are not limited to:
     
@@ -105,18 +105,18 @@ Our Web Site Expand All
     
     If you have provided us with an email address, we may send you email messages related to your transactions with us. We and our SkyMiles Partners  and Promotional Partners may also send informational or promotional email messages to you, which you may opt out of receiving as described below.
     
-*   How do I update personal information such as my address? **How do I update personal information such as my address?**
+*   How do I update personal information such as my address? How do I update personal information such as my address? **How do I update personal information such as my address?**
     
     We ask that you keep your information as up-to-date as possible so you may get the maximum benefit from delta.com. Go to your Manage Your Account to make your changes.
     
-*   How is my personally identifiable information protected? **How is my personally identifiable information protected?**
+*   How is my personally identifiable information protected? How is my personally identifiable information protected? **How is my personally identifiable information protected?**
     
     For more information on how we secure your transactions, read our Security statement below.
     
 
 How Delta uses cookies, tags, and similar technologies Expand All
 
-*   Cookies **Cookies**
+*   Cookies Cookies **Cookies**
     
     Delta uses cookies, tags, and other similar technologies. These technologies allow us to recognize your preference information, keep track of your purchases, remember your SkyMiles number and facilitate effective site administration. We use the information we collect to enhance your visit to delta.com and to provide you with information tailored to your needs.
     
@@ -128,11 +128,11 @@ How Delta uses cookies, tags, and similar technologies Expand All
     
     When you use the Fly Delta, mobile app, a unique ID (which varies by device manufacturer and operating system) is read from or associated with your device to be used as an anonymous identifier for analytics and performance purposes.  We don’t store the ID, or share the ID or other unique information collected or used by the app with third parties, except for service providers such as Adobe, whose analytics product generates this ID to track and analyze the performance of our app.  We do not use information gathered within the app to serve you targeted advertisements. The “limit ad tracking” or similar advertising-related privacy settings offered by device manufacturers do not change how your device is tracked by Delta. 
     
-*   Types of cookies and tags on our site **Types of cookies and tags on our site**
+*   Types of cookies and tags on our site Types of cookies and tags on our site **Types of cookies and tags on our site**
     *   Functionality: Used to remember your preferences for using the site and for facilitating transactions such as flight searches and purchases.
     *   Performance or Analytics: Used to anonymously measure site activity to improve visitor experience.
     *   Targeting: Used to display information and offers that specifically interest you.
-*   Tracking Preferences and Opt Out **Tracking Preferences and Opt Out**
+*   Tracking Preferences and Opt Out Tracking Preferences and Opt Out **Tracking Preferences and Opt Out**
     
     In the first section below, we provide links to resources for opting out of different types of online tracking and interest-based targeting.
     
