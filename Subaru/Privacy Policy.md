@@ -24,7 +24,7 @@ $25,495 MSRP
 
 Up to
 
-29/22 MPG Hwy/City
+29/21 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
