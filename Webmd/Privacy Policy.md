@@ -456,7 +456,7 @@ Policies
 
 Important Information &. FAQs
 
-*   Community Overview
+*   Message Board Overview
 *   Site Security
 *   Spam FAQs
 *   How to Change Your Profile Settings
