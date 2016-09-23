@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Sistine Chapel Art Hides Secret Female Anatomy Symbols, Claims New Analysis**
+**Trouble Remembering? Tell Your Friends to Take a Hike**
 
-**France Becomes the First Country to Ban Disposable Plastic Cups, Plates**
+**Would Psychic Powers Really Cause a Nosebleed?**
 
-**5 Don’t-Miss Items in the New Smithsonian African American History Museum**
+**The Uber-popular Aeron Chair Was First Made for Grandma**
 
 **See More Headlines »**
 
