@@ -1,4 +1,4 @@
-JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.9.6.0.14.0 15 3
+JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.10.0.0.112.0 15 3
 
 *   Find a store
 *   store ads
@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.9
 *   customer service
     
 
-true true C15377370027
+true true L15404640817
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Wed Sep 21 11:09:05 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Thu Sep 22 10:56:34 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,7 +52,39 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Liz Claiborne Sale
+Super Weekend Sale Going On Now!
+
+In Store &. Online | Ends September 25
+
+Shop Sale: View Store Ad: Fall Deals Under $10 Use Your Coupon &. Save Even More!
+
+In Store &. Online | Ends September 25
+
+7.99 Women's St. John's Bay Long-Sleeve Tee
+
+Select styles
+
+Shop St. John's Bay Long-Sleeve Tee 7.99 Royal Velvet Signature Soft Towel Damask or Solid
+
+Select styles
+
+Shop Royal Velvet Signature Soft Towel 5.99 Okie Dokie Match-Ups
+
+Select styles
+
+Shop Okie Dokie Match-Ups 7.99 Home Expression Microfiber Solid or Print Twin Sheet Set
+
+Select styles
+
+Shop Twin Sheet Set 9.99 Total Girl Long-Sleeve Graphic Tee
+
+Select styles
+
+Shop Total Girl Long-Sleeve Graphic Tee 9.99 Guys' Arizona Solid Thermal Shirt
+
+Select styles
+
+Shop Guys' Arizona Solid Thermal Shirt Liz Claiborne Sale
 
 Now Through September 25
 
@@ -70,19 +102,11 @@ Select styles, reg. $60-$300
 
 In Store &. Online | Now Through September 25
 
-Shop Now Shoe, Handbag &. Accessories Event
-
-Now Through 9/25
-
-30 to 50% Off Shoes, Handbags &. Accessories
-
-Select styles, $21-69.99, reg. $35-$120
-
-Shop Shoe, Handbag &. Accessories Event Shop Shoes Shop Handbags Home Sale 30 to 50% Off
+Shop Now Home Sale 30 to 50% Off
 
 Select styles.
 
-  Shop All Home Shop Home Catalog Shop Comforters &. Bedding Sets Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses   Red Zone Clearance Going, Going, Gone! 80% Off Final Markdowns Plus New Markdowns 50 to 70% Off Shop Clearance Now Sephora Shop New Fragrances: JCPenney | portraits
+  Shop All Home Shop Home Catalog Shop Comforters &. Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses Red Zone Clearance Going, Going, Gone! 80% Off Final Markdowns Plus New Markdowns 50 to 70% Off Shop Clearance Now Sephora Shop New Fragrances: JCPenney | portraits
 
 Free 8x10, $3.99 Sheets
 
