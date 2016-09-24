@@ -50,7 +50,7 @@ menu 0
     
     *   New Arrivals
     *   Best of Fall
-    *   Wear to Work
+    *   Ultimate Coat Finder
     *   The Starfish Collection
     *   Cardigan Shop
     *   Tunic Shop
@@ -97,7 +97,7 @@ menu 0
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
     *   Legends Of Fall
-    *   Tailored Fit Shop
+    *   Ultimate Coat Finder
     *   Blue Thread
     *   Sale
     
@@ -137,7 +137,7 @@ menu 0
     FEATURED SHOPS
     
     *   New Arrivals
-    *   Outerwear Shop
+    *   Ultimate Coat Finder
     *   School Uniforms
     *   Iron Knee Pants
     *   Girls' Knit Kit
@@ -204,6 +204,7 @@ menu 0
     *   Hats, Gloves &. Scarves
     *   Snow Boots
     *   Long Underwear
+    *   Ultimate Coat Finder
     *   Sale
 *   Shoes
     
@@ -367,7 +368,7 @@ menu 0
     
     *   New Arrivals
     *   Best of Fall
-    *   Wear to Work
+    *   Ultimate Coat Finder
     *   The Starfish Collection
     *   Cardigan Shop
     *   Tunic Shop
@@ -414,7 +415,7 @@ menu 0
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
     *   Legends Of Fall
-    *   Tailored Fit Shop
+    *   Ultimate Coat Finder
     *   Blue Thread
     *   Sale
     
@@ -454,7 +455,7 @@ menu 0
     Back | Kids FEATURED SHOPS Back | Kids
     
     *   New Arrivals
-    *   Outerwear Shop
+    *   Ultimate Coat Finder
     *   School Uniforms
     *   Iron Knee Pants
     *   Girls' Knit Kit
@@ -521,6 +522,7 @@ menu 0
     *   Hats, Gloves &. Scarves
     *   Snow Boots
     *   Long Underwear
+    *   Ultimate Coat Finder
     *   Sale
 *   Shoes
     
