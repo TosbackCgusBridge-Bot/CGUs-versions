@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.1
 *   customer service
     
 
-true true L15404640817
+true true C15383818630
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Thu Sep 22 10:56:34 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p20.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Fri Sep 23 11:15:39 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -174,11 +174,7 @@ ABOUT US
 *   investors
 *   CA Transparency in Supply Chains Act
 
-JCPenney credit card pay bill check balance apply now JCPenney is Your One-Stop Shop for Winter Coats, Clothes &. Accessories!
-
-At JCPenney, we're dedicated to bringing you the very best in stylish and affordable goods. With cold weather around the corner, you've got to be well prepared, and we're here to help out with that! Keep Jack Frost at bay with an array of winter coats and boots for the entire family. From pea coats to ski coats and riding boots to booties, youâre sure to find exactly what you need for yourself and your family to stay warm and stylish. Donât forget to accessorize your new clothing with essential cold weather accessories such as hats, gloves, and scarves. Shop for the perfect pajamas, bathrobe, and slippers to snuggle up in at night.
-
-At JCPenney, youâll find everything you need to stay warm inside and outside of the house. Your journey towards better value starts and ends with us, online or in your closest JCPenney store!
+JCPenney credit card pay bill check balance apply now JCPenney is Your One-Stop Shop for Winter Coats, Clothes &. Accessories! At JCPenney, we're dedicated to bringing you the very best in stylish and affordable goods. With cold weather around the corner, you've got to be well prepared, and we're here to help out with that! Shop an array of winter coats and boots for the entire family. From pea coats to ski coats and riding boots to booties, youâre sure to find exactly what you need for yourself and your family to stay warm and stylish. Donât forget to accessorize your new clothing with essential cold weather accessories. At JCPenney, youâll find everything you need to stay warm inside and outside of the house. Your journey towards better value starts and ends with us, online or in your closest JCPenney store!
 
 *   copyright
 *   privacy policy
