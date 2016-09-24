@@ -190,7 +190,7 @@
         *   T-Shirts
         *   Jeans
         *   Shorts
-        *   Crops/Capris
+        *   Coats/Jackets
         *   Shirts/Blouses
         *   Shoes
         *   Shop All
