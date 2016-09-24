@@ -101,20 +101,20 @@ View more results
 *   Hot Games
     
     *   Age of Cavemen
-    *   Tanki Online
+    *   Slotomania
     *   Summer Sports: Diving
-    *   Hero Simulator: Idle Adventure
+    *   Dark Lands
     *   FC Barcelona: Ultimate Rush
     *   Slither.io
     
     Mobile Apps More
     
     *   Troll Face Quest Video Games
-    *   Mad Day 2
     *   Hero Simulator: Idle Adventure
     *   Summer Sports
     *   My Dolphin Show 8
     *   Crash Drive 2
+    *   Car Eats Car
     
     Specials
     
