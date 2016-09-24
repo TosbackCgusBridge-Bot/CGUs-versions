@@ -16,9 +16,8 @@ Remember me on this computer Sign in
     *   Changing your details
     *   Changing a subscription
     *   Payment queries
-*   Registering &. Subscribing 
+*   Subscribing 
     *   Personal subscriptions
-    *   Registering for free
 *   Mobile 
     *   Android app
     *   Web app
