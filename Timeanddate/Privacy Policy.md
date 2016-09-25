@@ -144,21 +144,21 @@ webmaster@timeanddate.com timeanddate.com
 
 Index
 
-You might also like Equinox September 22/23
-
-On the equinox, night and day are nearly the same, 12 hours each. more
-
-UTC &. GMT â Same Difference?
+You might also like UTC &. GMT â Same Difference?
 
 Greenwich Mean Time (GMT) is often interchanged or confused with Coordinated Universal Time (UTC). But GMT is a time zone and UTC is a time standard. more
 
-Time Zones and DST in Europe
+Add events and times to your own calendar with just 1 click
 
-Europe is divided into 4 main time zones that span from UTC +0 hours in western European countries to UTC +3 hours in Belarus and parts of Russia. more
+Add your results from some of timeanddate.com's services into your own calendar with just a click of one button. Services include the Time Zone Converter, Event Time Announcer, and Meeting Planner. more
 
 Magnetic Declination
 
 A compass needle doesn't point to the geographical North Pole but to magnetic north. Did you know that it usually doesn't point to the magnetic North Pole either? more
+
+Time Zones and DST in Europe
+
+Europe is divided into 4 main time zones that span from UTC +0 hours in western European countries to UTC +3 hours in Belarus and parts of Russia. more
 
 Copyright © Time and Date AS 1995–2016. All rights reserved.
 
