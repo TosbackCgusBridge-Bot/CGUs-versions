@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
+**13 Not 12 Constellations in the Zodiac, NASA Points Out**
+
 **Do We Really Stop Caring About Music As We Get Older?**
 
 **There's a Name for When Your Dog Zooms Around Like a Joy-crazed Maniac**
-
-**You're Only Ever as Drunk as You Think Your Friends Aren't**
 
 **See More Headlines »**
 
