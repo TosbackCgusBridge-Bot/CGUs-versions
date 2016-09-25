@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.1
 *   customer service
     
 
-true true C15383818630
+true true C15389254161
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p20.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Fri Sep 23 11:15:39 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Sat Sep 24 11:07:21 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,7 +52,7 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Super Weekend Sale Going On Now!
+Super Weekend Sale Final Days!
 
 In Store &. Online | Ends September 25
 
@@ -84,7 +84,11 @@ Shop Total Girl Long-Sleeve Graphic Tee 9.99 Guys' Arizona Solid Thermal Shirt
 
 Select styles
 
-Shop Guys' Arizona Solid Thermal Shirt Liz Claiborne Sale
+Shop Guys' Arizona Solid Thermal Shirt Home Flash Sale
+
+Today Online Only | Ends September 24 | Code: 2BUYNOW
+
+Extra 30% Off\* $100 or More Or, Extra 25% Off Select Home Already 30-50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds &. Shades Shop Home Flash Sale \*exclusions and details: Shop Comforters &. Bedding Shop Kitchen &. Dining Shop Bath Shop Dinnerware Shop Curtains &. Drapes Shop Furniture &. Mattresses Shop Home Decor Shop Luggage Liz Claiborne Sale
 
 Now Through September 25
 
@@ -92,7 +96,7 @@ Now Through September 25
 
 Select styles.
 
-Shop Liz Claiborne Liz Claiborne 40th Anniversary
+Shop Liz ClaiborneLiz Claiborne 40th Anniversary
 
 40 Iconic Looks For You
 
@@ -102,11 +106,7 @@ Select styles, reg. $60-$300
 
 In Store &. Online | Now Through September 25
 
-Shop Now Home Sale 30 to 50% Off
-
-Select styles.
-
-  Shop All Home Shop Home Catalog Shop Comforters &. Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses Red Zone Clearance Going, Going, Gone! 80% Off Final Markdowns Plus New Markdowns 50 to 70% Off Shop Clearance Now Sephora Shop New Fragrances: JCPenney | portraits
+Shop Now Red Zone Clearance Going, Going, Gone! 80% Off Final Markdowns Plus New Markdowns 50 to 70% Off Shop Clearance Now Sephora Shop New Fragrances: JCPenney | portraits
 
 Free 8x10, $3.99 Sheets
 
