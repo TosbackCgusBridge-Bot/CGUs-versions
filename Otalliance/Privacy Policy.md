@@ -94,10 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Thu, Sep 22, 2016 Security of Things Forum
-
-**OTA Members receive 25% off! Use discount code: OTA-GUEST in registration.** The market research firm IDC predicts that the number of Internet-connected endpoints will almost triple: surging from 10.3 billion in 2014 to 29.5 billion by the end of this decade. The changes wrought by this fast-emerging new computing environment are profound.
-
 Tue, Oct 18, 2016 Technology &. Standards Forum
 
 Join OTA and CTA in Austin, Texas, to learn, network and collaborate with industry experts as we discuss the latest consumer technologies and develop strategies for the future. There will be informative sessions, industry meetings and plenty of networking events. OTA Executive Director Craig Spiezle will be participating on several panels and plenary sessions addressing the IoT Trust Framework and Smart Home initiatives.  More Information
@@ -109,6 +105,10 @@ Join OTA at SecureWorld Expo. Program includes over 60 sessions, keynotes, panel
 Tue, Oct 18, 2016 Security of Things - Smart Card Alliance
 
 Security and privacy are top priorities as the Internet of Things (IoT) creates an increasingly connected world—connected devices are expected to reach 21 billion by the year 2020.
+
+Thu, Oct 27, 2016 SecureWorld - San Jose
+
+Join OTA at SecureWorld Expo. Program includes over 60 sessions, keynotes, panel discussions &. breakouts.  Earn 12-16 CPE credits and network with industry peers.  OTA Members save $150 with code SEA1P for the full SecureWorld Plus pass and $100 off of the Conference pass using code SEA1.
 
 More >>.
 
