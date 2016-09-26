@@ -1,18 +1,8 @@
-  
-  
-  
-**We're upgrading Avis.com.**  
-  
-Our apologies for the inconvenience.  
-  
-Please check back soon to make your reservation.  
-**Estamos actualizando Avis.com.**  
-  
-Le pedimos disculpas por la inconveniencia.  
-  
-Por favor, regrese pronto para hacer su reservación.  
-**Nous Avis.com une mise à jour.**  
-  
-Nous nous excusons de tout inconvénient que cette situation peut vous occasionner.  
-  
-Ressayez plus tard pour faire votre réservation.
+Privacy Notice
+
+**Avis Rent a Car System, LLC.**
+
+**Privacy Notice**  
+Notice Last Updated: June 30, 2016
+
+**United States / Canada**
