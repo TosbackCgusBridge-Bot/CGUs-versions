@@ -1,12 +1,12 @@
 Log in with your social account: Or, you can log in or sign up using Forbes.
 
 *   Editors' Picks
-*   New Posts +2 posts this hour
+*   New Posts +5 posts this hour
 *   Most Popular Wizard Of Apps
-*   Lists NFL Valuations
-*   Video iPhone 7
+*   Lists Top Universities
+*   Video The Issue
 
-Connect | Sign up | Log in 2 FREE Issues Of Forbes Forbes.com Privacy Statement
+Connect | Sign up | Log in The Little Black Book of Billionaire Secrets Forbes.com Privacy Statement
 
 _Revised and posted as of: April 15, 2016_  
   
