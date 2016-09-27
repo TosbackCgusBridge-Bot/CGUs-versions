@@ -70,7 +70,7 @@
         *   Bags
         *   Hats
         *   Dresses
-        *   Scarves
+        *   Fragrance
         *   Socks
         *   Shop All
         
