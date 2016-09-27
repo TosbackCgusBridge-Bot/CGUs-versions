@@ -1,4 +1,4 @@
-HomeFAQLettersSite MapCart Privacy Policy
+HomeFAQLettersMy AccountCart Privacy Policy
 
 At Replacements, Ltd., we recognize that privacy is very important to our customers. Since we would like every customer to thoroughly enjoy their experience with us, we are dedicated to ensuring that your privacy is protected. The information below explains Replacements, Ltd.’s Privacy Policy.
 
