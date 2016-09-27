@@ -115,7 +115,7 @@ About
 **Serving:** Faith-based, professional services and nonprofits  
 **Clients:** 30,000+  
 **Processing:** $13.1+ billion in transactions annually  
-**Providing:** Secure, seamless, simple payment solutions
+**Providing:** Secure, seamless, simple payment solutions  
 
 Quick links
 
