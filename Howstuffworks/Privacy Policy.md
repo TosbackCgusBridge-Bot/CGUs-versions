@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**13 Not 12 Constellations in the Zodiac, NASA Points Out**
+**New Aerosol Tea = #TeaHeresy**
 
-**Do We Really Stop Caring About Music As We Get Older?**
+**Jupiter's Moon Europa Erupts Water Vapor (Maybe)**
 
-**There's a Name for When Your Dog Zooms Around Like a Joy-crazed Maniac**
+**Ridiculous History: 3 Times Society Refused to Accept Books on New Science**
 
 **See More Headlines »**
 
