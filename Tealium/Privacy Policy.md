@@ -2,13 +2,6 @@
     *   Tealium iQ Tag Management
     *   Tealium AudienceStream
     *   Tealium DataAccess
-*   Solutions
-    *   Retail
-    *   Omnichannel Marketing
-    *   Mobile &. IOT
-    *   Cybersecurity
-    *   Privacy &. Data Protection
-    *   Healthcare
 *   Integrations
 *   Resources
     *   Case Studies
