@@ -1,4 +1,4 @@
-Wikia Policies
+Fandom Policies
 
 *   Terms of Use
 *   Privacy Policy
@@ -7,9 +7,9 @@ Wikia Policies
 
 Get Involved Today!
 
-Create your own wikia and find a community of people who all love what you love.
+Create your own wiki and find a community of people who all love what you love.
 
-Create a wikia
+Create a wiki
 
 Date of Last Revision: June, 2016
 
