@@ -1,4 +1,4 @@
-JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.10.0.0.112.0 15 3
+JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.10.0.0.113.0 15 3
 
 *   Find a store
 *   store ads
@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.1
 *   customer service
     
 
-true true L15404368458
+true true L15418241951
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Sun Sep 25 11:15:31 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p07.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Mon Sep 26 11:15:40 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,67 +52,49 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Super Weekend Sale Last Day!
+40% Off Worthington Apparel
 
-In Store &. Online | Ends September 25
+Select styles, reg. $16-$80
 
-Shop Sale: View Store Ad: Last Day! Fall Deals Under $10 Use Your Coupon &. Save Even More!
+Shop NowThe Perfect 10
 
-In Store &. Online | Ends September 25
+10 Key Pieces For All Your 9-To-5 Looks
 
-7.99 Women's St. John's Bay Long-Sleeve Tee
-
-Select styles
-
-Shop St. John's Bay Long-Sleeve Tee 7.99 Royal Velvet Signature Soft Towel Damask or Solid
-
-Select styles
-
-Shop Royal Velvet Signature Soft Towel 5.99 Okie Dokie Match-Ups
-
-Select styles
-
-Shop Okie Dokie Match-Ups 7.99 Home Expression Microfiber Solid or Print Twin Sheet Set
-
-Select styles
-
-Shop Twin Sheet Set 9.99 Total Girl Long-Sleeve Graphic Tee
-
-Select styles
-
-Shop Total Girl Long-Sleeve Graphic Tee 9.99 Guys' Arizona Solid Thermal Shirt
-
-Select styles
-
-Shop Guys' Arizona Solid Thermal Shirt Last Day! Liz Claiborne Sale 40% Off Liz Claiborne
+Shop All The Looks 40 to 50% Off St. John's Bay
 
 Select styles.
 
-Shop Liz ClaiborneLiz Claiborne 40th Anniversary
+Shop Men Now Online &. In Select Stores! Major Appliances From Your Favorite Brands.
 
-40 Iconic Looks For You
+Need help? Call 1-844-JCP-APPL (1-844-527-2775)
 
-Shop All The Looks Last Day! Men's Wardrobe Sale 50% Off Men's Suit Separates, Sport Coats, Top Coats &. Dress Pants
+Delivery not available in all markets.
 
-Select styles, reg. $60-$300
+Get Details:Up to 30% Off\* Major Appliances
 
-Shop Now Home Sale 30 to 50% Off
+Select styles
 
-Select styles.
+Shop Major Appliances:
 
-  Shop All Home Shop Comforters &. Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses Red Zone Clearance Going, Going, Gone! 80% Off Final Markdowns Plus New Markdowns 50 to 70% Off Shop Clearance Now Sephora Shop New Fragrances: JCPenney | portraits
+\*GE, GE Profile &. GE Cafe limited to 10% off savings.
 
-Free 8x10, $3.99 Sheets
+18 Months or 30 Months Special Financing\*\*
 
-50% Off Your Photo Purchase
+Available on qualifying major appliance purchases made through 10/23/16 on a JCPenney Credit Card. Must request at time of purchase.
 
-Get Details: Carter's Baby Sale
+\*\*Get Details:
 
-35 to 50% Off Select Styles
+Don't have a JCPenney Credit Card?
 
-Now through September 25
+Apply Now:Free Delivery &. Basic Installation
 
-Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play true
+On all appliance purchases over $299
+
+Get Details:JCPenney Rewards Shop &. Get Rewards
+
+For points earned on major appliances+
+
++Get Details: Sephora Shop New Fragrances: JCPenney | optical 60% Off Complete Pair of Eyeglasses Get Details: Going, Going, Gone! Clearance - 80% Off Final Markdowns Plus! New Markdowns 50 to 70% Off Shop Clearance Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play true
 
 get connected
 
