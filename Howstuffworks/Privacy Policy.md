@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**New Aerosol Tea = #TeaHeresy**
+**Elon Musk Wants You to Go to Mars for Just $200,000**
 
-**Jupiter's Moon Europa Erupts Water Vapor (Maybe)**
+**Kidney Stone Rx: Hop on a Thrill Ride**
 
-**Ridiculous History: 3 Times Society Refused to Accept Books on New Science**
+**Why You Should Totally Talk Politics Over Family Dinner**
 
 **See More Headlines »**
 
