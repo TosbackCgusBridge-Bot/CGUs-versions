@@ -225,6 +225,14 @@ Explore More Orbitz
 *   Terms of Use
 *   Privacy Policy
 
+Orbitz Rewards
+
+*   Orbitz Rewards
+*   VIP Hotels
+*   Orbitz Rewards Visa
+*   Orbitz Rewards Benefits
+*   Orbitz Rewards Promotions
+
 Other Links
 
 *   Vacation Packages
@@ -232,8 +240,6 @@ Other Links
 *   Cruises
 *   Travel Blog
 *   Customer Support
-*   Orbitz Rewards
-*   Orbitz Rewards Visa Card
 *   Best Price Guarantee
 *   Travel Deals
 *   Mobile
