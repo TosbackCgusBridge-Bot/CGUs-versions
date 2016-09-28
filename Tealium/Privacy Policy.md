@@ -183,7 +183,7 @@ If you have questions regarding this Privacy Statement or the information practi
 San Diego, CA 92121  
 Main: +1 (858) 779-1344  
 
-*   Tealium Customer Data Platform
+*   Tealium Universal Data Hub
 *   Tealium iQ
 *   Tealium AudienceStream
 *   Tealium DataAccess
