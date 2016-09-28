@@ -7,7 +7,7 @@ The LivingSocial privacy policy (the “Privacy Policy”) is intended to inform
 *   Security
 *   Children’s Personal Information
 *   Access
-*   Safe Harbor Dispute Resolution
+*   EU-US Privacy Shield
 *   Changes to this Privacy Policy
 *   California Residents
 *   How to Contact Us
@@ -78,7 +78,7 @@ We may also develop non-personal information concerning LivingSocial users, usin
 
 In the event we go through a business transition such as a merger, acquisition by another company or sale of all or a portion of our assets, your Personal Information may be among the assets transferred. You acknowledge that such transfers may occur and are permitted by this Privacy Policy, and that any acquirer of ours or that acquirer’s assets may continue to process your Personal Information as set forth in this Privacy Policy.
 
-We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us. or (b) to protect and defend our rights or property, you, or third parties. You hereby consent to us sharing your Personal Information under the circumstances described herein.
+We may disclose your Personal Information if we believe in good faith that such disclosure may be required: (a) to comply with relevant laws or to respond to subpoenas or warrants served on us. (b) to protect and defend our rights or property, you, or third parties. or (c) in response to lawful request by public authorities, including to meet national security or law enforcement requirements.
 
 Your Choices Regarding Your Personal Information
 
@@ -110,9 +110,13 @@ Access to Personal Information
 
 You have the right to request a copy of the Personal Information that we hold about you. If you would like a copy of some or all of your Personal Information, please contact us at privacy@livingsocial.com. We may charge a reasonable fee for this service. We want to make sure that your information is accurate and up-to-date. You may ask us to correct or remove information that you think is inaccurate. You may change any of your profile information by editing it in the profile settings page.
 
-Safe Harbor Dispute Resolution
+EU-US Privacy Shield
 
-Personal or other information about you collected on LivingSocial sites and services may be stored and processed in the United States or any other country in which LivingSocial or its affiliates, subsidiaries and services providers maintain facilities. LivingSocial, Inc. participates in the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided below). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet here. Please click here for fax and postal mail information.
+Personal data collected on LivingSocial sites and services may be stored and processed in the United States or any other country in which LivingSocial or its affiliates, subsidiaries and services providers. LivingSocial is taking the necessary steps to certify under the EU-US Privacy Shield, which aims to enable the compliant transfer of personal data from the European Union to the United States. LivingSocial complies with the EU-US Privacy Shield Framework as set forth by the United States Department of Commerce regarding all collection, use, and retention of personal data transferred from the European Union to the United States. As part of our participation in Privacy Shield, LivingSocial will adhere to the Privacy Shield Principles with respect to personal data. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. LivingSocial is responsible for personal data that it receives under the Privacy Shield and subsequently transfers to a third party as described in the Privacy Shield Principles. LivingSocial may be potentially liable if its third party agents fail to meet obligations set forth in the Principles.
+
+If you have any complaints regarding our compliance with the Privacy Shield Framework you should first contact us (as provided below). If you have an unresolved privacy or data usage concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) here. As further explained in the Privacy Shield Principles, if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. LivingSocial’s commitments under the Privacy Shield are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+
+To learn more about the EU-US Privacy Shield please visit the US Department of Commerce Website.
 
 Changes To This Privacy Policy
 
@@ -126,6 +130,6 @@ How to Contact Us
 
 If you have questions or concerns about our Privacy Policy, please contact us at: privacy@livingsocial.com.
 
-Last updated: June 1, 2016
+Last updated: September 27, 2016
 
-The Privacy Policy in effect prior to June 1, 2016 can be found here.
+The Privacy Policy in effect prior to September 27, 2016 can be found here.
