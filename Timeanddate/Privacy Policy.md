@@ -85,6 +85,7 @@ Menutimeanddate.com Search × Site / Articles City / Country Social × Share thi
     *   Free Clock for Your Site
     *   Free Countdown for Your Site
     *   Word Clock
+    *   Fun Holidays
     *   Alternative Age Calculator
     *   Date Pattern Calculator
     *   Fun Fact Articles
@@ -144,21 +145,21 @@ webmaster@timeanddate.com timeanddate.com
 
 Index
 
-You might also like UTC &. GMT – Same Difference?
+You might also like 5 Fridays, Saturdays &. Sundays: Not 823 Years Apart
 
-Greenwich Mean Time (GMT) is often interchanged or confused with Coordinated Universal Time (UTC). But GMT is a time zone and UTC is a time standard. more
+5 Fridays, 5 Saturdays, and 5 Sundays in the same month happens only every 823 years? This popular urban myth is precisely that: a myth. more
 
-Add events and times to your own calendar with just 1 click
+12 Months of the Year
 
-Add your results from some of timeanddate.com's services into your own calendar with just a click of one button. Services include the Time Zone Converter, Event Time Announcer, and Meeting Planner. more
+Find out what months have to do with the Moon, why there are 12 months, and what the month names mean. more
 
-Magnetic Declination
+What is a Common Year?
 
-A compass needle doesn't point to the geographical North Pole but to magnetic north. Did you know that it usually doesn't point to the magnetic North Pole either? more
+A common year is a calendar year with 365 days and only 28 days in February. more
 
-Time Zones and DST in Europe
+Australia’s Time Zones
 
-Europe is divided into 4 main time zones that span from UTC +0 hours in western European countries to UTC +3 hours in Belarus and parts of Russia. more
+Australia has multiple time zones. Some of them are half-hour and quarter-hour time zones. Not all states and territories use Daylight Saving Time (DST). more
 
 Copyright © Time and Date AS 1995–2016. All rights reserved.
 
