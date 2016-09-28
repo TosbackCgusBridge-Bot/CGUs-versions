@@ -107,10 +107,10 @@ Occasionally we provide links on our website to other sites we think you will en
 To update your customer information (name, address, telephone number and email address), please contact us at:  
   
 Home Decorators Collection  
-8920 Pershall Road  
-Hazelwood, MO 63042  
-Phone: 1-877-537-8539 (toll-free)  
-Fax: 1-314-521-5780  
+3074 Chastain Meadows Parkway  
+Marietta, GA 30066  
+Phone: 1-800-245-2217 (toll-free)  
+Fax: 1-800-537-1467  
 Email us  
   
 A limited amount of purchase information also may be available to you. To protect your privacy, we will need to validate your identity before you update or review your information.  
@@ -130,10 +130,12 @@ From time to time, we may use customer information for unanticipated uses not pr
 For questions, comments or assistance, we invite you to contact us at:  
   
 Home Decorators Collection  
-8920 Pershall Road  
-Hazelwood, MO 63042  
-Phone: 1-877-537-8539 (toll-free)  
-Fax: 1-314-521-5780  
+3074 Chastain Meadows Parkway  
+Marietta, GA 30066  
+Phone: 1-800-245-2217 (toll-free)  
+Fax: 1-800-537-1467  
 Email us  
+  
+  
 
 Script section containing code for Liveperson Chat Solution
