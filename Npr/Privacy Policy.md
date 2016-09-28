@@ -115,7 +115,6 @@ Music
 *   From The Top
 *   Jazz Night In America
 *   Metropolis
-*   Microphone Check
 *   Mountain Stage
 *   Piano Jazz
 *   The Thistle &. Shamrock
@@ -456,8 +455,6 @@ If you have any questions or comments concerning our Privacy Policy, please Cont
 *   **Twitter**
 *   **Google+**
 *   **Email**
-
-We no longer support commenting on NPR.org stories, but you can find us every day on Facebook, Twitter, email, and many other platforms. Learn more or contact us.
 
 NPR thanks our sponsors
 
