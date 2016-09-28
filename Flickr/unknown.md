@@ -7,7 +7,6 @@ flickr-free-ic3d pan white
     *   The Commons
     *   Galleries
     *   World Map
-    *   App Garden
     *   Camera Finder
     *   The Weekly Flickr
     *   Flickr Blog
