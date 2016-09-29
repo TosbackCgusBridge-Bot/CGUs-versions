@@ -342,6 +342,7 @@ Returns
 
 Promotions
 
+*   #InTheseBlues Official Rules
 *   Free Tote Bag!
 *   Bluetooth® Speaker
 *   Loyalty Event 2016
