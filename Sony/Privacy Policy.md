@@ -88,7 +88,25 @@ SONY
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! Dive Into the World of Virtual Reality at Our New PlayStation®VR Installation
+Your browser does not support JavaScript! Add Some Drama to Thursday Night With Our New TV Show "Notorious"
+
+Watch This Week at 9PM EST on ABC
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Dive Into the World of Virtual Reality at Our New PlayStation®VR Installation
 
 Try It at Sony Square NYC
 
