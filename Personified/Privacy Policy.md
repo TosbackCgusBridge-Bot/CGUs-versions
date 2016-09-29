@@ -46,7 +46,7 @@ Request Demo
 *   Resources
 *   Customers
 
-Request Pricing Source &. Screen  
+Get Pricing Source &. Screen  
 
 A powerhouse team of project managers dedicated to growing your candidate pool at record speed.  
 
@@ -55,7 +55,7 @@ A powerhouse team of project managers dedicated to growing your candidate pool a
 *   Resources
 *   Customers
 
-Request Pricing Overview
+Get Pricing Overview
 
 When it comes to recruiting, time is a luxury and sometimes you just don’t have the time or resources to keep up with the hiring demands of your organization.
 
