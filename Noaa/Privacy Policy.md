@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms August marks ongoing trend of record-breaking heat for the globe AROUND NOAA // Fall 2016 high tide bulletin now available for U.S. coasts Photo: Collecting data on Utah’s winter ozone problem, 'MacGyver'-style What's the difference between meteorological and astronomical seasons?
+Enter Search Terms August marks ongoing trend of record-breaking heat for the globe AROUND NOAA // 3 ways the ocean and Great Lakes help keep the U.S. economy afloat Photo: Time-lapse image of NOAA weather balloon over the South Pole What's the difference between meteorological and astronomical seasons?
 
 *   About our agency
 *   News and features
