@@ -106,9 +106,9 @@ Tue, Oct 18, 2016 Security of Things - Smart Card Alliance
 
 Security and privacy are top priorities as the Internet of Things (IoT) creates an increasingly connected world—connected devices are expected to reach 21 billion by the year 2020.
 
-Thu, Oct 27, 2016 SecureWorld - San Jose
+Wed, Oct 19, 2016 NTIA IoT Working Group - Austin TX
 
-Join OTA at SecureWorld Expo. Program includes over 60 sessions, keynotes, panel discussions &. breakouts.  Earn 12-16 CPE credits and network with industry peers.  OTA Members save $150 with code SEA1P for the full SecureWorld Plus pass and $100 off of the Conference pass using code SEA1.
+NTIA will convene the first meeting of a multistakeholder process concerning patching and upgradability of the Internet of Things (IoT)  in Austin, Texas.  IoT patching and upgradability was identified as an issue that required attention by commenters to NTIA's requests for comment related to IoT and cybersecurity. The goal of this process will be to develop a broad, shared definition or set of definitions around security upgradability for consumer IoT, as well as strategies for communicating the security features of IoT devices to consumers.
 
 More >>.
 
