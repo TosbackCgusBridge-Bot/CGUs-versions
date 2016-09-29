@@ -22,6 +22,14 @@
     
     GO
     
+    Your current location is ${twcprofile/zipcode}. If this is incorrect, please update your ZIP Code. If it is correct, your services may be provided by Spectrum. Visit spectrum.com for information on available products, services and support.
+    
+    GO
+    
+    Your current location is ${twcprofile/zipcode}. If this is incorrect, please update your ZIP Code. If it is correct, your services may be provided by Bright House Networks. Visit brighthouse.com for information on available products, services and support.  
+    
+    GO
+    
     You do not have cookies enabled. In order for us to serve you better, please enable cookies. Learn How
     
       
