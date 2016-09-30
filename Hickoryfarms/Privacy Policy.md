@@ -11,10 +11,12 @@
     *   Gluten Free
     
     Holidays &. Occasions*   Tailgating
+    *   Thanksgiving
     *   Gifts for Her
     *   Gifts for Him
     *   Birthday Gifts
     *   Weddings &. Showers
+    *   Christmas Preview
     
     By Price*   $30 &. Under
     *   $40 &. Under
@@ -48,6 +50,7 @@
     *   Dinner for Two
 *   Sweets
     View All Categories Shop by Category*   Chocolates
+    *   Desserts
 *   Shop By Price
     View All Categories Shop by Category*   Gifts $20 &. Under
     *   Gifts $30 &. Under
@@ -79,10 +82,12 @@
     *   Gluten Free
     
     Holidays &. Occasions*   Tailgating
+    *   Thanksgiving
     *   Gifts for Her
     *   Gifts for Him
     *   Birthday Gifts
     *   Weddings &. Showers
+    *   Christmas Preview
     
     By Price*   $30 &. Under
     *   $40 &. Under
@@ -116,6 +121,7 @@
     *   Dinner for Two
 *   Sweets
     View All Categories Shop by Category*   Chocolates
+    *   Desserts
 *   Shop By Price
     View All Categories Shop by Category*   Gifts $20 &. Under
     *   Gifts $30 &. Under
@@ -126,7 +132,7 @@
 *   Specials
     View All Categories Shop by Category*   Flash Sale!
 
-1.800.753.8558 Menu Search Stores Cart Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go FLASH SALE! 30% Off selection of premium steaks. Limited time only!\*
+1.800.753.8558 Menu Search Stores Cart Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go FLASH SALE! 30% Off selection of premium steaks. Ends tonight 11:59PM EST!\*
 
 1.  Home
 2.  Customer Service
