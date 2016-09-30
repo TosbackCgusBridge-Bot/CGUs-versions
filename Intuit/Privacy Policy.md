@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.1
 *   customer service
     
 
-true true L15430543996
+true true L15433385986
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p07.jcpenney.com SERVER NAME :->. dtcomexpr1l1j1 TIME :->. Wed Sep 28 11:15:37 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1l1j5 TIME :->. Thu Sep 29 11:15:31 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,7 +52,73 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-40% Off Worthington Apparel
+Levi's® Lowest Price of the Season 34.99 Guys' Levi's 514™ Straight-Fit Jeans\*
+
+Select styles, reg. 59.50
+
+Shop Guys'24.99 Boys' Levi's 510™ Skinny or 511™ Slim-Fit Jeans
+
+reg. $48
+
+Shop Boys32.99 Levi's 535™ Super-Skinny Jeans for Her
+
+reg. 49.50
+
+Shop Women's
+
+Offers and coupons do not apply.
+
+\*Pricing also applies to 505™, 415™, and 550™. Levi's "Lowest Prices of the Season" refers to the time period through 10/24. Prices may be further reduced on items as a part of clearance in the future.
+
+      4 Days of Fall Deals Use Your Coupon &. Save Even More!
+
+In Store &. Online | Ends October 2
+
+Buy 1 Get For .01 Men’s Dress Shirts\*
+
+Select styles
+
+Shop Men’s Dress Shirts
+
+Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
+
+29.99 Arizona Booties For Her
+
+Select styles, reg. $60
+
+Shop Arizona Booties For Her 6.99 JCPenney Home Trellis Or 30X54” Solid Bath Towel
+
+Select styles, reg. $12
+
+Shop Bath Towel 19.99 Juniors’ Arizona Denim
+
+Select styles, reg. $42
+
+Shop Juniors’ Arizona Denim 14.99 Kids’ Arizona Denim
+
+Select styles, reg. $30
+
+Shop Kids’ Arizona Denim 19.99 Guys’ Arizona Denim
+
+Select styles, reg. $42
+
+Shop Guys’ Arizona Denim 7.99 Home Expressions Microfiber Solid Or Print Twin Sheet Sets
+
+Select styles, reg. $30
+
+Shop Twin Sheet Sets 9.99 Juniors’ Graphic Tees
+
+Select styles, reg. $18-$26
+
+Shop Juniors’ Graphic Tees 8.99 Boys’ Arizona Long-Sleeve Graphic Tees
+
+Select styles, reg. $18
+
+Shop Boys' Graphic Tees 40 to 50% Off Boots &. Booties For Her
+
+Select styles, reg. $60-$120
+
+Shop Boots 40% Off Worthington Apparel
 
 Select styles, reg. $16-$80
 
@@ -60,41 +126,15 @@ Shop NowThe Perfect 10
 
 10 Key Pieces For All Your 9-To-5 Looks
 
-Shop All The Looks 40 to 50% Off St. John's Bay
+Shop All The Looks Our Biggest Window Sale of the Season 30 to 50% Off Home Sale
 
 Select styles.
 
-Shop Men Now Online &. In Select Stores! Major Appliances From Your Favorite Brands.
+  Shop All Home Shop Comforters &. Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses SportsFanShop
 
-Need help? Call 1-844-JCP-APPL (1-844-527-2775)
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Delivery not available in all markets.
-
-Get Details:Up to 30% Off\* Major Appliances
-
-Select styles
-
-Shop Major Appliances:
-
-\*GE, GE Profile &. GE Cafe limited to 10% off savings.
-
-18 Months or 30 Months Special Financing\*\*
-
-Available on qualifying major appliance purchases made through 10/23/16 on a JCPenney Credit Card. Must request at time of purchase.
-
-\*\*Get Details:
-
-Don't have a JCPenney Credit Card?
-
-Apply Now:Free Delivery &. Basic Installation
-
-On all appliance purchases over $299
-
-Get Details:JCPenney Rewards Shop &. Get Rewards
-
-For points earned on major appliances+
-
-+Get Details: Sephora Shop New Fragrances: JCPenney | optical 60% Off Complete Pair of Eyeglasses Get Details: Going, Going, Gone! Clearance - 80% Off Final Markdowns Plus! New Markdowns 50 to 70% Off Shop Clearance Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play true
+Shop Now: JCPenney | optical 60% Off Complete Pair of Eyeglasses Get Details: Going, Going, Gone! Clearance - 80% Off Final Markdowns Plus! New Markdowns 50 to 70% Off Shop Clearance Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play true
 
 get connected
 
