@@ -1,6 +1,6 @@
 Big Fish Games, Inc. Privacy Policy
 
-Last modified: February 10th, 2016
+Last modified: September 29, 2016
 
 We at Big Fish have created this Privacy Policy to describe how information is collected, used, and disclosed when you visit or use a Big Fish Offering. **By accessing and/or using this Big Fish website or any Big Fish Offering, you are accepting the practices described in this Privacy Policy.**
 
@@ -62,7 +62,7 @@ We may share customer information with Big Fish Affiliates, and as described bel
 
 Third Party Marketplaces and Service Providers:
 
-We may disclose your personal information as well as aggregate, anonymous information to third party business partners, marketplaces, and third parties who perform services for us, such as credit card processing, prize fulfillment, delivering packages, sending postal mail, collecting and analyzing data, providing search results and links (including paid listings and links), and providing advertising and marketing assistance, including serving ads on our behalf on third party websites and mobile applications and serving ads on behalf of third parties within certain Big Fish Offerings. Those third parties have access to your information only as necessary to perform their functions, and for no other purposes.
+We may disclose your personal information as well as aggregate, anonymous information to third party business partners, marketplaces, and third parties who perform services for us, such as credit card processing, prize fulfillment, delivering packages, sending postal mail, collecting and analyzing data, providing search results and links (including paid listings and links), and providing advertising and marketing assistance, including serving ads on our behalf on third party websites and mobile applications and serving ads on behalf of third parties within certain Big Fish Offerings. Those third parties have access to your personal information only as necessary to perform their functions, and for no other purposes.
 
 Business Transfers:
 
@@ -104,9 +104,9 @@ Big Fish Offerings are designed to avoid the collection and use of "personal inf
 
 Big Fish respects the privacy of parents and children and is committed to complying with COPPA . If a parent believes that his or her child has submitted personal information to Big Fish, he or she can contact us via email at privacy@bigfishgames.com or postal mail at: Big Fish Privacy Policy Department, 333 Elliott Avenue West, Suite 200, Seattle, WA 98119 USA. We will take steps to promptly delete the information upon learning that it relates to a child under the age of 13. We recognize the importance of safeguarding the privacy of children and encourage parents to check and monitor their children's use of online activities regularly.
 
-SAFE HARBOR PROGRAM
+EU-US PRIVACY SHIELD PROGRAM
 
-We may transfer, store and/or process personal information in the U.S. or in other countries. Big Fish complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. For more information about the Safe Harbor program and to view our certification, please visit the U.S. Department of Commerce's Safe Harbor Website. To contact Big Fish directly about the Safe Harbor program, please email us at safeharbor@bigfishgames.com. Please note that if you are located in the E.U., Switzerland or other region with laws governing data collection and use that may differ from U.S. law, you are transferring information to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
+We may transfer, store and/or process personal information in the U.S. or in other countries. Big Fish complies with the EU-US Privacy Shield Framework Principles (the "Framework") and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the processing of personal information from the European Union (EU) member countries and Switzerland. For more information about the Framework, please visit the Department of Commerce's Privacy Shield website. To contact Big Fish directly about the Framework, please email us at privacyshield@bigfishgames.com. If we do not resolve your concern, you may contact JAMS, Big Fish’s designated Privacy Shield dispute resolution provider. Under certain conditions specified by the Framework, you may also be able to invoke binding arbitration to resolve your complaint. Big Fish is subject to the investigatory and enforcement powers of the FTC. If we share personal information of EU customers with a third party service provider that processes the data solely on our behalf, then Big Fish will be liable for that third party's processing of the information in violation of the Framework, unless Big Fish can prove that it is not responsible for the event giving rise to the damage. Please note that if you are located in the E.U., Switzerland or other region with laws governing data collection and use that may differ from U.S. law, you are transferring information to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
 
 AGREEMENT WITH BIG FISH POLICIES
 
