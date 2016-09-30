@@ -313,6 +313,13 @@ menu 0
     *   Bedding Collections
     *   Sale
     
+    More for the Home >.
+    
+    *   Storage &. Organization
+    *   Door Mats
+    *   Luggage &. Bags
+    *   Canvas Totes
+    
     BEDDING >.
     
     *   Sheets &. Pillowcases
@@ -330,18 +337,33 @@ menu 0
     *   Beach Towels
     *   Shower Curtains
     
-    Decor >.
+    SEASONAL DECOR >.
     
-    *   Storage &. Organization
-    *   Doormats
-    *   Tabletop
-    *   Seasonal
+    *   Stockings &. Holders
+    *   Holiday Decor
+    *   Ornaments &. Tree Skirts
+    *   Greenery
     
-    More for the Home >.
-    *   Kids Room
-    *   Dog Shop
-    *   Luggage &. Bags
-    *   Canvas Totes
+    ENTERTAINING >.
+    
+    *   Table Linens
+    *   Glassware
+    *   Serveware
+    *   Food &. Candy
+    
+    KIDS ROOM >.
+    
+    *   Seasonal Totes
+    *   Sleeping Bags
+    *   Kids Bedding
+    *   Bean Bag Chairs
+    *   Baby Blankets
+    *   Toys &. Gifts
+    
+    DOG SHOP >.
+    *   Dog Jackets
+    *   Dog Beds
+    *   Dog Toys &. Treats
 
 *   Lands' End
 *   Canvas by Lands' End
@@ -630,6 +652,13 @@ menu 0
     *   Bedding Collections
     *   Sale
     
+    More for the Home Back | More for the Home
+    
+    *   Storage &. Organization
+    *   Door Mats
+    *   Luggage &. Bags
+    *   Canvas Totes
+    
     BEDDING Back | BEDDING
     
     *   Sheets &. Pillowcases
@@ -647,18 +676,33 @@ menu 0
     *   Beach Towels
     *   Shower Curtains
     
-    Decor Back | Decor
+    SEASONAL DECOR Back | SEASONAL DECOR
     
-    *   Storage &. Organization
-    *   Doormats
-    *   Tabletop
-    *   Seasonal
+    *   Stockings &. Holders
+    *   Holiday Decor
+    *   Ornaments &. Tree Skirts
+    *   Greenery
     
-    More for the Home Back | More for the Home
-    *   Kids Room
-    *   Dog Shop
-    *   Luggage &. Bags
-    *   Canvas Totes
+    ENTERTAINING Back | ENTERTAINING
+    
+    *   Table Linens
+    *   Glassware
+    *   Serveware
+    *   Food &. Candy
+    
+    KIDS ROOM Back | KIDS ROOM
+    
+    *   Seasonal Totes
+    *   Sleeping Bags
+    *   Kids Bedding
+    *   Bean Bag Chairs
+    *   Baby Blankets
+    *   Toys &. Gifts
+    
+    DOG SHOP Back | DOG SHOP
+    *   Dog Jackets
+    *   Dog Beds
+    *   Dog Toys &. Treats
 
 Customer Service Menu
 
