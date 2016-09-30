@@ -1,8 +1,8 @@
 Log in with your social account: Or, you can log in or sign up using Forbes.
 
 *   Editors' Picks
-*   New Posts +6 posts this hour
-*   Most Popular Wizard Of Apps
+*   New Posts +3 posts this hour
+*   Most Popular Trump's Wealth
 *   Lists Top Universities
 *   Video The Issue
 
