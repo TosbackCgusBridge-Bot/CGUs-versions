@@ -4,7 +4,7 @@ What Information Does Healthline Collect, and How Is It Used?
 
 Information gathered online can generally be categorized as either anonymous or personally identifiable. Anonymous information is information that can’t be traced back to a specific individual. For example, Healthline knows what searches are made every day at each of its websites, but does not know the names, email addresses, or phone numbers of the people searching.
 
-Personally identifiable information is information that allows us to identify you. This information can include your name, address, phone number, email address, etc. It’s our belief that you’ll find it beneficial at times to provide us with certain personal information so that your experience with Healthline is more personally relevant to you and/or delivered directly to you (e.g., a newsletter). Healthline Media does not sell user data.
+Personally identifiable information is information that allows us to identify you. This information can include your name, address, phone number, email address, etc. It’s our belief that you’ll find it beneficial at times to provide us with certain personal information so that your experience with Healthline is more personally relevant to you and/or delivered directly to you (e.g., a newsletter).
 
 Who Collects Anonymous Information on Healthline.com?
 
