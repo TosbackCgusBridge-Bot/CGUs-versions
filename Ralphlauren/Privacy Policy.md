@@ -1,8 +1,8 @@
   >> Privacy &. Security    Choose a link to select a section.  
-Website, Store and Restaurant Privacy Notice EU-U.S. Privacy Shield  
+Website, Store and Restaurant Privacy Notice EU-U.S. Privacy Shield Policy  
 Swiss Safe Harbor Privacy Policy  
 Mobile Application Privacy Notice  
-**Ralph Lauren Corporation**    WEBSITE, STORE AND RESTAURANT PRIVACY NOTICE    Last modified: November 16, 2015
+**Ralph Lauren Corporation**    WEBSITE, STORE AND RESTAURANT PRIVACY NOTICE    Last modified: September 20, 2016
 
 Ralph Lauren Corporation and its affiliates (collectively, " Ralph Lauren") respect your concerns about privacy.This Privacy Notice applies to personal information we collect (i) on this website, (ii) at Ralph Lauren stores, Ralph Lauren Factory Outlet Stores (collectively, the "Stores"), and (iii) through the other channels described below. Ralph Lauren is responsible for this website.
 
@@ -302,7 +302,7 @@ Attention: General Counsel EMEA
 Switzerland  
   
 Email: eu.privacy@ralphlauren.com  
-Back to Top     EU-U.S. Privacy Shield    Last modified: September 20, 2016 Ralph Lauren Corporation, along with its affiliate Club Monaco US, LLC (collectively, “Ralph Lauren”), respect your concerns about privacy. Ralph Lauren participates in the EU-U.S. Privacy Shield framework (“Privacy Shield”) issued by the U.S. Department of Commerce. Ralph Lauren commits to comply with the Privacy Shield Principles with respect to Consumer Personal Data the company receives from the EU in reliance on the Privacy Shield. This Policy describes how Ralph Lauren implements the Privacy Shield Principles for Consumer Personal Data.  
+Back to Top     EU-U.S. Privacy Shield    Effective date: September 20, 2016 Ralph Lauren Corporation, along with its affiliate Club Monaco US, LLC (collectively, “Ralph Lauren”), respect your concerns about privacy. Ralph Lauren participates in the EU-U.S. Privacy Shield framework (“Privacy Shield”) issued by the U.S. Department of Commerce. Ralph Lauren commits to comply with the Privacy Shield Principles with respect to Consumer Personal Data the company receives from the EU in reliance on the Privacy Shield. This Policy describes how Ralph Lauren implements the Privacy Shield Principles for Consumer Personal Data.  
   
 For purposes of this Policy:  
   
