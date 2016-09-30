@@ -1,6 +1,8 @@
+Untitled Document
+
 **Mashable Privacy Policy**
 
-This Privacy Policy was last updated on June 21, 2016.
+This Privacy Policy was last updated on September 28, 2016.
 
 We take your privacy very seriously and are committed to being transparent with how we use your information. This website (www.mashable.com), mobile application and any of our services and sites directing you to this Privacy Policy are controlled by Mashable, Inc (collectively "we" or "us"). This Privacy Policy also incorporates the terms contained in the Terms of Use (http://mashable.com/terms/) and Cookies Policy (http://mashable.com/cookie-policy).
 
@@ -15,13 +17,19 @@ We take your privacy very seriously and are committed to being transparent with 
 
 By using our website, mobile application and services, you consent to our collection and use of your personal data described in this Privacy Policy. If you have any questions about this Privacy Policy or would like to know more about what information we collect and store, please contact us at: privacy@mashable.com.
 
-Mashable has received TRUSTe's Privacy Seal signifying signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
+_For users located in the EU and the US:_ Mashable complies with the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. Mashable has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Mashable's certification, please visit http://www.export.gov/safeharbor/
 
-The TRUSTe program covers only information that is collected through this website, www.mashable.com, behind the log in on our website and the Mashable mobile application. It does not cover information that may be collected through software downloaded from the website.
+Mashable participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Mashable is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request. Please click here for fax and postal mail information. TRUSTe's Dispute Resolution process is only available in English.
+Mashable is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Mashable complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
-_For users located in the EU and the US:_ Mashable complies with the U.S. &. E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Mashable has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Mashable's certification, please visit http://www.export.gov/safeharbor/
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Mashable is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Mashable may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+
+Under certain conditions, more fully described on the Privacy Shield website , you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+_For users located in APEC participating economies:_
 
 Company’s privacy practices described in this Statement comply with the APEC Cross Border Privacy Rules System.
 
@@ -46,7 +54,7 @@ When you contact us, we may keep a record of your communication as well as the o
 
 Please keep in mind that comments sections, forums, and other similar areas of our services are public. Any information posted in those areas is viewable and usable by anyone that has access.
 
-We will contact you to ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy.
+We will contact you to ask for your consent before using information for any other purpose other than those that are set out in this Privacy Policy.
 
   
 
@@ -55,7 +63,7 @@ We will contact you to ask for your consent before using information for a purpo
 **Cookies**  
 Technologies such as: cookies, beacons, tags and scripts are used by Mashable and our advertising / marketing partners, affiliates, or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use cookies to remember users' settings (e.g. geographic location) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+We use cookies to remember users' settings (e.g. geographic location) and for authentication. Users can control the use of cookies at the individual browser level. To manage Flash cookies, please click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager07.html If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 The use of cookies on our website is governed by our Cookie Policy.
 
@@ -114,6 +122,8 @@ You have the right to remove your personal information from our databases. To do
 Where you have provided us with the appropriate permissions, or where we are legally entitled to do so, we will provide you with marketing materials by email.  
 You can opt out of receiving these emails at any time by clicking the unsubscribe link in the marketing email, accessing the email preferences in your account settings page or by contacting us at support@mashable.com.
 
+Upon request we will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at support@mashable.com. We will respond to your request within a reasonable timeframe.
+
 We will retain your information for as long as your account is active or as needed to provide you services.  
 We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -125,7 +135,7 @@ We do not share personal information with companies, outside organizations and i
 *   **For external processing.** We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.  
     These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
     
-*   **For legal reasons.** We will share personal information with companies, outside organizations or individuals if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to meet any applicable law, regulation, legal process or enforceable governmental request, detect, prevent, or otherwise address fraud, security or technical issues or protect against harm to the rights, property or safety of our users or the public as required or permitted by law.
+*   **For legal reasons.** In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We will share personal information with companies, outside organizations or individuals if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to meet any applicable law, regulation, legal process or enforceable governmental request, detect, prevent, or otherwise address fraud, security or technical issues or protect against harm to the rights, property or safety of our users or the public as required or permitted by law.
     
 *   **In case of a sale or asset transfer.** If we become involved in a merger, acquisition or other transaction involving the sale of some or all of our assets, user information, including personal information collected from you through your use of our services, could be included in the transferred assets. Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on our website.
     
