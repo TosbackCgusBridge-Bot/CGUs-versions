@@ -225,6 +225,10 @@ COMPARE **LC**
 
 *   Concept Vehicle
 
+**UX**
+
+*   Concept Vehicle
+
 *   sedans
     
 *   suvs
