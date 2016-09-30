@@ -90,7 +90,7 @@ SONY
 
 Your browser does not support JavaScript! Add Some Drama to Thursday Night With Our New TV Show "Notorious"
 
-Watch This Week at 9PM EST on ABC
+Watch This Week at 9/8c on ABC
 
 Close
 
@@ -258,9 +258,9 @@ Close
 
 Watch "Dr. Ken"
 
-What If a Lawyer and a News Producer Worked Together?
+Watch Your Favorite HBO Shows on PlayStation™Vue
 
-Check Out the Trailer for "Notorious"
+Learn More
 
 Close
 
@@ -270,7 +270,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Check Out the Trailer for "Notorious"
+Learn More
 
 Photographer Gabe Rogel Takes Us Behind the Scenes of His Family Camping Video
 
