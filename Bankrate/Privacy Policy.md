@@ -3,7 +3,7 @@
 Company Information
 
 *   About Bankrate.com
-*   Bankrate, Inc. management
+*   Bankrate, LLC management
 *   Bankrate.com management
 *   Advertise with Bankrate
 *   Press releases
@@ -18,9 +18,9 @@ Company Information
 
 Privacy Policy
 
-Last updated: August 16, 2016
+Last updated: September 28, 2016
 
-This Privacy Policy applies to this website, www.bankrate.com, owned and operated by Bankrate, Inc. This Privacy Policy describes how we collect, use and share information when you use our Services. The terms "we," "us," or "our" mean Bankrate, Inc., a Delaware corporation, and its legal subsidiaries and affiliates. The term "Services," means, collectively, various websites, applications, widgets, email notifications and other mediums, or portions of such mediums, through which you have accessed this Privacy Policy. By accessing or using our Services, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of Your Information (collectively, "Use of Your Information") as described in this Privacy Policy.
+This Privacy Policy applies to this website, www.bankrate.com, owned and operated by Bankrate, LLC This Privacy Policy describes how we collect, use and share information when you use our Services. The terms "we," "us," or "our" mean Bankrate, LLC, a Delaware corporation, and its legal subsidiaries and affiliates. The term "Services," means, collectively, various websites, applications, widgets, email notifications and other mediums, or portions of such mediums, through which you have accessed this Privacy Policy. By accessing or using our Services, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of Your Information (collectively, "Use of Your Information") as described in this Privacy Policy.
 
 For purposes of this Privacy Policy, "Your Information" means information about you, which may be of a confidential nature and may include personally identifying information, medical and health history information, and/or financial information.
 
@@ -184,7 +184,7 @@ If you have questions or concerns about our privacy practices or wish to make a 
 
 **Special Notification for California Residents -- Your California Privacy Rights** Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes. Such requests must be submitted to us at webmaster@bankrate.com or in writing at:
 
-Bankrate, Inc.  
+Bankrate, LLC  
 3801 PGA Blvd. Suite 555  
 Palm Beach Gardens, FL 33410  
 Attention: Sr. Director, Client Services
@@ -193,4 +193,4 @@ California privacy rights requests must include the reference "Request for Calif
 
 About us Advertise with Bankrate Partners Press Room Investor Relations Free Content Center Contact Us Sitemap Topics Newsletters Mobile Apps Careers  
 Understanding Bankrate's rate averages  
-_© 2016 Bankrate, Inc. All Rights Reserved._ Privacy Policy/Your California Privacy Rights Terms of Use Bankrate.com is an independent, advertising-supported publisher and comparison service. Bankrate may be compensated in exchange for featured placement of certain sponsored products and services, or your clicking on certain links posted on this website.
+_© 2016 Bankrate, LLC All Rights Reserved._ Privacy Policy/Your California Privacy Rights Terms of Use Bankrate.com is an independent, advertising-supported publisher and comparison service. Bankrate may be compensated in exchange for featured placement of certain sponsored products and services, or your clicking on certain links posted on this website.
