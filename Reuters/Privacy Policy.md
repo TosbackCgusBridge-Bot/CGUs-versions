@@ -17,8 +17,8 @@ This JavaScript enables OnlineOpinion, a method for collecting secure feedback d
 *   Financial &. Risk
 *   Intellectual Property
 *   Legal
-*   Reuters New Agency
 *   Life Science
+*   Reuters New Agency
 *   Scholarly &. Scientific Research
 *   Tax &. Accounting
 
