@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms August marks ongoing trend of record-breaking heat for the globe AROUND NOAA // 3 ways the ocean and Great Lakes help keep the U.S. economy afloat Photo: Time-lapse image of NOAA weather balloon over the South Pole What's the difference between meteorological and astronomical seasons?
+Enter Search Terms August marks ongoing trend of record-breaking heat for the globe AROUND NOAA // When does the climate record say you can expect the season's first snow? 3 ways the ocean and Great Lakes help keep the U.S. economy afloat Photo: Time-lapse image of NOAA weather balloon over the South Pole
 
 *   About our agency
 *   News and features
