@@ -6,7 +6,7 @@ Search the web
 *   Terms of Service
 *   Help
 
-Print AOL Privacy Policy **Last updated:** June 23, 2015  
+Print AOL Privacy Policy **Last updated:** September 29, 2016  
   
 AOL is now part of the Verizon family of companies. Additional privacy practices are described in the Verizon Privacy Policy.  In the event of a conflict between this Privacy Policy and the Verizon Privacy Policy, the AOL Privacy Policy will control when you are on an AOL site or using and AOL product or service.  
   
@@ -18,7 +18,7 @@ This Privacy Policy describes how we handle the information we collect and recei
 
 *   First, the Privacy Policy applies to AOL services that link to or refer to this Privacy Policy. These services include websites, mobile apps, other online services and anything else that links to or refers to this policy. To keep things simple, we refer to all these services as our "Services."
 *   Second, the Privacy Policy applies no matter what computer or device you use to access our Services.
-*   Third, we may provide additional information about the privacy practices of some of our Services. Although this Privacy Policy applies to all AOL services that refer or link to it, you should read the additional information, too. Some of this information is linked from various places in the Privacy Policy, and some is available through the individual Services that you use.
+*   Third, we may provide additional information about the privacy practices of some of our Services. Although this Privacy Policy applies to all AOL services that refer or link to it, you should read the additional information, too. Some of this information is linked from various places in the Privacy Policy, and some is available through the individual Services that you use. Products and services that do not link to this Privacy Policy, such as those offered outside of the United States, may have different privacy policies and practices that are not subject to this Privacy Policy.
 
 We've done our best to keep this Privacy Policy short and simple, but if you have any questions about it, we hope you'll let us know.  
   
@@ -141,9 +141,9 @@ By email
   
 **International users**  
   
-AOL is based in the United States, and, regardless of where you use our Services or otherwise provide information to us, the information may be transferred to and maintained on servers located in the U.S. Please note that any information we obtain about you will be stored in accordance with U.S. privacy laws, regulations, and standards, which may not be equivalent to the laws in your country of residence. By using our Services or by providing us with your information, you consent to this collection, transfer, storage, and processing of information to and in the U.S.  
+AOL is based in the United States, and, regardless of where you use our Services or otherwise provide information to us, the information may be transferred to and maintained on servers located in the U.S. Please note that any information we obtain about you will be stored in accordance with U.S. privacy laws, regulations, and standards, which may not be equivalent to the laws in your country of residence. By using our Services or by providing us with your information, you consent to this collection, transfer, storage, and processing of information to and in the United States. Learn more.  
   
-AOL Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  AOL has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view AOL’s certification, please visit http://www.export.gov/safeharbor/.  
+For users of AOL Services provided in Switzerland, AOL Inc. complies with the  U.S.-Swiss Safe Harbor Framework and has certified that it adheres to its Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To  view AOL’s certification, please visit http://2016.export.gov/safeharbor/swiss.  AOL Inc. is also a participant in the ICDR/AAA U.S.- Swiss Safe Harbor Program.  If you believe AOL has not satisfactorily addressed your privacy concerns, you may contact the ICDR/AAA at:  http://info.adr.org/safeharbor/.  
   
   
 **How to Contact Us**  
