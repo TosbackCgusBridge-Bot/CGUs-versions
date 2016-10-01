@@ -9,7 +9,7 @@ Scope of this Privacy Policy
 
 This privacy policy applies to information we collect or use on sites and applications owned or controlled by Monster Worldwide, Inc. or its affiliated companies ("Monster").
 
-Monster is not responsible for the privacy policies or practices of ad networks and other websites, third parties with whom we work to provide you personalized services, or those who access your information on our sites or applications. We encourage you to carefully read the privacy policies of other such companies
+Monster is not responsible for the privacy policies or practices of ad networks and other websites, third parties with whom we work to provide you personalized services, or those who access your information on our sites or applications. We encourage you to carefully read the privacy policies of other such companies.
 
 Information We Collect
 
