@@ -127,7 +127,7 @@ Legal Notices &. Trademarks
 *   Legal Disclosures
 *   Autodesk Quote and Order Direct Order Terms and Conditions
 
-  Privacy Statement - UPDATED JULY 29, 2016
+  Privacy Statement - UPDATED September 30, 2016
 
 *   Privacy Statement  
     o Cookie Policy  
