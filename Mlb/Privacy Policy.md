@@ -140,9 +140,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   PhotosCustom Shop MLB Auctions
 *   MLB.TV MLB.TV MLB.TV
     *   Watch MLB.TV
-    *   Buy MLB.TV
-    *   View MLB.TV Demo
-    *   Buy Gameday Audio
+    *   Get MLB.TV
     *   Alternative Audio
     *   MLB.TV Devices
     *   MLB.TV with Extra Innings
@@ -150,7 +148,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.com Support Forum
     *   MLB.TV Blackouts
     *   MLB.TV Download Center
-    *   Contact UsMLB.TV Student MLB.TV ST
+    *   Contact UsMLB.TV Student
 *   Auction
 *   Fantasy Fantasy Fantasy
     *   Fantasy Baseball 2016
