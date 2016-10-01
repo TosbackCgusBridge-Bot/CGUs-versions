@@ -7,7 +7,6 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.1
 
 *   my account
 *   no saved items
-*   recommendations
 *   track order
 *   ship to
 
@@ -20,16 +19,15 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.1
 *   my account
 
 *   no saved items
-*   recommendations
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true L15433385986
+true true L15437751084
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1l1j5 TIME :->. Thu Sep 29 11:15:31 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1l1j1 TIME :->. Fri Sep 30 11:15:48 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,25 +50,15 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Levi's® Lowest Price of the Season 34.99 Guys' Levi's 514™ Straight-Fit Jeans\*
+Doorbusters Friday 3PM CDT through Saturday 1PM CDT
 
-Select styles, reg. 59.50
+Use your coupon and save even more!
 
-Shop Guys'24.99 Boys' Levi's 510™ Skinny or 511™ Slim-Fit Jeans
+Shop Doorbusters Now Activewear Flash Sale Extra 25% Off
 
-reg. $48
+Today Online Only | Ends September 30 | Code: SAVE97
 
-Shop Boys32.99 Levi's 535™ Super-Skinny Jeans for Her
-
-reg. 49.50
-
-Shop Women's
-
-Offers and coupons do not apply.
-
-\*Pricing also applies to 505™, 415™, and 550™. Levi's "Lowest Prices of the Season" refers to the time period through 10/24. Prices may be further reduced on items as a part of clearance in the future.
-
-      4 Days of Fall Deals Use Your Coupon &. Save Even More!
+\*Exclusions and details Shop Men Shop Women Shop Girls Shop Boys 4 Days of Fall Deals Use Your Coupon &. Save Even More!
 
 In Store &. Online | Ends October 2
 
@@ -106,7 +94,7 @@ Shop Guys’ Arizona Denim 7.99 Home Expressions Microfiber Solid Or Print Twin 
 
 Select styles, reg. $30
 
-Shop Twin Sheet Sets 9.99 Juniors’ Graphic Tees
+Shop Home Expressions Sheet Sets 9.99 Juniors’ Graphic Tees
 
 Select styles, reg. $18-$26
 
@@ -114,19 +102,59 @@ Shop Juniors’ Graphic Tees 8.99 Boys’ Arizona Long-Sleeve Graphic Tees
 
 Select styles, reg. $18
 
-Shop Boys' Graphic Tees 40 to 50% Off Boots &. Booties For Her
+Shop Boys' Graphic Tees Levi's® Lowest Price of the Season 34.99 Guys' Levi's 514™ Straight-Fit Jeans\*
+
+Select styles, reg. 59.50
+
+Shop Guys'24.99 Boys' Levi's 510™ Skinny or 511™ Slim-Fit Jeans
+
+reg. $48
+
+Shop Boys32.99 Levi's 535™ Super-Skinny Jeans for Her
+
+reg. 49.50
+
+Shop Women's
+
+Offers and coupons do not apply.
+
+\*Pricing also applies to 505™, 415™, and 550™. Levi's "Lowest Prices of the Season" refers to the time period through 10/24. Prices may be further reduced on items as a part of clearance in the future.
+
+      40 to 50% Off Boots &. Booties For Her
 
 Select styles, reg. $60-$120
 
-Shop Boots 40% Off Worthington Apparel
+Shop Boots Now Online &. In Select Stores! Major Appliances From Your Favorite Brands.
 
-Select styles, reg. $16-$80
+Need help? Call 1-844-JCP-APPL (1-844-527-2775)
 
-Shop NowThe Perfect 10
+Delivery not available in all markets.
 
-10 Key Pieces For All Your 9-To-5 Looks
+Get Details:Up to 30% Off\* Major Appliances
 
-Shop All The Looks Our Biggest Window Sale of the Season 30 to 50% Off Home Sale
+Select styles
+
+Shop Major Appliances:
+
+\*GE, GE Profile &. GE Cafe limited to 10% off savings.
+
+18 Months or 30 Months Special Financing\*\*
+
+Available on qualifying major appliance purchases made through 10/23/16 on a JCPenney Credit Card. Must request at time of purchase.
+
+\*\*Get Details:
+
+Don't have a JCPenney Credit Card?
+
+Apply Now:Free Delivery &. Basic Installation
+
+On all appliance purchases over $299
+
+Get Details:JCPenney Rewards Shop &. Get Rewards
+
+For points earned on major appliances+
+
++Get Details: Our Biggest Window Sale of the Season 30 to 50% Off Home Sale
 
 Select styles.
 
@@ -134,7 +162,7 @@ Select styles.
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop Now: JCPenney | optical 60% Off Complete Pair of Eyeglasses Get Details: Going, Going, Gone! Clearance - 80% Off Final Markdowns Plus! New Markdowns 50 to 70% Off Shop Clearance Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play true
+Shop Now: JCPenney | optical 60% Off Complete Pair of Eyeglasses Get Details: Going, Going, Gone! Clearance - 80% Off Final Markdowns Plus! New Markdowns 50 to 70% Off Shop Clearance Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play
 
 get connected
 
