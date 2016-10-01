@@ -1,4 +1,4 @@
-Financial Times Help Centre Help Legal &. Privacy Privacy Privacy Welcome to Live FT Chat Start Chat Welcome to Live FT Chat Currently Offline Privacy Financial Times privacy policy
+Financial Times Help Centre Help Legal &. Privacy Privacy Policy Privacy Policy Welcome to Live FT Chat Start Chat Welcome to Live FT Chat Currently Offline Privacy Policy Financial Times privacy policy
 
 Financial Times group takes the privacy of its users seriously. We are committed to safeguarding the privacy of our users while providing a personalised and valuable service. This Privacy Policy statement explains the data processing practices of Financial Times businesses. If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail at privacy.officer@ft.com.
 
@@ -103,7 +103,7 @@ If you wish to amend any of the Data which we hold about you, or update your mar
 
 Investors Chronicle
 
-If you are a user of www.InvestorsChronicle.co.uk and you wish to amend any of the Data which we hold about you, or update your marketing preferences, please contact ic.cs@ft.com, visit manage account or phone +44(0)844 848 0106. Calls made to these numbers may be recorded for training and quality control purposes.
+If you are a user of www.InvestorsChronicle.co.uk and you wish to amend any of the Data which we hold about you, or update your marketing preferences, please contact help.ic@ft.com, visit manage account or phone +44 (0)0207 873 3202. Calls made to these numbers may be recorded for training and quality control purposes.
 
 FDI Intelligence
 
