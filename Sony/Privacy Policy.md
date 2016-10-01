@@ -66,7 +66,11 @@ View All Energy, Storage &. Cables ›Energy, Storage &. Cables
 *   Memory Cards &. Flash Drives
 *   Cables
 
-View All All Electronics See Professional Products Get involved with Future Lab Program NWe invite you to be one of the first to experience the future with Future Lab Program N. Learn MoreDon’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up Entertainment
+View All All Electronics See Professional Products Get involved with Future Lab Program NWe invite you to be one of the first to experience the future with Future Lab Program N. Learn MoreDon’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up
+
+*   PlayStation
+
+Entertainment
 
 *   Video Games
 *   Movies &. TV Shows
@@ -90,7 +94,7 @@ SONY
 
 Your browser does not support JavaScript! Add Some Drama to Thursday Night With Our New TV Show "Notorious"
 
-Watch This Week at 9/8c on ABC
+Watch at 9/8c on ABC
 
 Close
 
