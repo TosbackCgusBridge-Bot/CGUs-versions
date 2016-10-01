@@ -1,5 +1,5 @@
   >> Privacy &. Security    Choose a link to select a section.  
-Website, Store and Restaurant Privacy Notice EU-U.S. Privacy Shield Policy  
+Website, Store and Restaurant Privacy Notice EU-U.S. Privacy Shield Privacy Policy  
 Swiss Safe Harbor Privacy Policy  
 Mobile Application Privacy Notice  
 **Ralph Lauren Corporation**    WEBSITE, STORE AND RESTAURANT PRIVACY NOTICE    Last modified: September 20, 2016
@@ -302,7 +302,7 @@ Attention: General Counsel EMEA
 Switzerland  
   
 Email: eu.privacy@ralphlauren.com  
-Back to Top     EU-U.S. Privacy Shield    Effective date: September 20, 2016 Ralph Lauren Corporation, along with its affiliate Club Monaco US, LLC (collectively, “Ralph Lauren”), respect your concerns about privacy. Ralph Lauren participates in the EU-U.S. Privacy Shield framework (“Privacy Shield”) issued by the U.S. Department of Commerce. Ralph Lauren commits to comply with the Privacy Shield Principles with respect to Consumer Personal Data the company receives from the EU in reliance on the Privacy Shield. This Policy describes how Ralph Lauren implements the Privacy Shield Principles for Consumer Personal Data.  
+Back to Top     EU-U.S. Privacy Shield Privacy Policy    Effective date: September 20, 2016 Ralph Lauren Corporation, along with its affiliate Club Monaco US, LLC (collectively, “Ralph Lauren”), respect your concerns about privacy. Ralph Lauren participates in the EU-U.S. Privacy Shield framework (“Privacy Shield”) issued by the U.S. Department of Commerce. Ralph Lauren commits to comply with the Privacy Shield Principles with respect to Consumer Personal Data the company receives from the EU in reliance on the Privacy Shield. This Policy describes how Ralph Lauren implements the Privacy Shield Principles for Consumer Personal Data.  
   
 For purposes of this Policy:  
   
