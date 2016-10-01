@@ -13,22 +13,6 @@ about\_us\_false\_nav
 *   About Us
 *   Go
 
-2506 AT&T Privacy Policy Our privacy commitments
-
-Our privacy commitments are fundamental to the way we do business every day. These apply to everyone who has a relationship with us - including customers (wireless, Internet, digital TV, and telephone) and Web site visitors.
-
-*   We will protect your privacy and keep your personal information safe. We use encryption and other security safeguards to protect customer data.
-*   We will not sell your personal information to anyone, for any purpose. Period.
-*   We will fully disclose our privacy policy in plain language, and make our policy easily accessible to you.
-*   We will notify you of revisions to our privacy policy, in advance. No surprises.
-*   You have choices about how AT&T uses your information for marketing purposes. Customers are in control.
-*   We want to hear from you. You can send us questions or feedback on our privacy policy.
-
-Print our full policy En Español En Français
-
-Welcome DIRECTV Customers  
-DIRECTV is now part of the AT&T family. For convenience, all AT&T products and services are covered under a single, easy-to-read Privacy Policy. The policy lays out our commitments to privacy and describes our policies for helping to protect personal information. We invite you to learn more about our commitments, safeguards and customer choices by reviewing our AT&T Policy, and we welcome your feedback.
-
 Legal Policy Center Privacy Policy Careers Contact Us Terms of Use Site Map Accessibility Advertising Choices Broadband Information
 
 ©  AT&T Intellectual Property. All rights reserved. AT&T, the AT&T logo and all other AT&T marks contained herein are trademarks of AT&T Intellectual Property and/or AT&T affiliated companies. AT&T36USC220506
