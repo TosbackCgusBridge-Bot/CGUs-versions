@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**The Kids Are All High**
+**There's a Big Battle Going on in the Grand Canyon**
 
-**Horses Can Be Taught to Communicate With Us Using Symbols**
+**Your Walk Is So Distinct It Can Reveal Deep Personality Traits**
 
-**How Climate Change is Monkeying Around with Your Favorite Foods**
+**Giving Babies Eggs and Peanuts Can Lessen Allergy Risk, Study Finds**
 
 **See More Headlines »**
 
