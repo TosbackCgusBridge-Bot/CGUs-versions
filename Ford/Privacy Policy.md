@@ -155,7 +155,7 @@ This site will disclose your personally identifiable information, without notice
 
 Contest or sweepstakes entrants only: If you are providing personally identifiable information in connection with a contest or sweepstakes through this website, and if you are selected as a winner, we may include your personally identifiable information in a publicly available winner's list. See the applicable contest or sweepstakes rules.
 
-9\. Access To and Control Over the Use of Your Personally Identifiable Information
+9\. Access To and Control Over the Use of Your Information
 
 To correct or update your personally identifiable information you may contact us at:
 
@@ -391,7 +391,7 @@ We will disclose your personally identifiable information, without notice, if (1
 
 Contest or sweepstakes entrants only: If you are providing personally identifiable information in connection with a contest or sweepstakes through this website, and if you are selected as a winner, we may include your personally identifiable information in a publicly available winner's list. See the applicable contest or sweepstakes rules.
 
-9\. Access To and Control Over the Use of Your Personally Identifiable Information
+9\. Access To and Control Over the Use of Your Information:
 
 To correct or update your personally identifiable information contact us at:
 
