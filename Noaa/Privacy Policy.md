@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms August marks ongoing trend of record-breaking heat for the globe AROUND NOAA // When does the climate record say you can expect the season's first snow? 3 ways the ocean and Great Lakes help keep the U.S. economy afloat Photo: Time-lapse image of NOAA weather balloon over the South Pole
+Enter Search Terms Carbon dioxide levels race past troubling milestone Relentless rise of this greenhouse gas locks in a warmer future, scientists say AROUND NOAA // New tool helps urban communities build resilience to climate change When does the climate record say you can expect the season's first snow? 3 ways the ocean and Great Lakes help keep the U.S. economy afloat Get the latest information from NOAA's National Hurricane Center
 
 *   About our agency
 *   News and features
