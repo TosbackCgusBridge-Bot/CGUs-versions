@@ -1,4 +1,4 @@
-JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.10.0.0.113.0 15 3
+JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.10.0.0.112.0 15 3
 
 *   Find a store
 *   store ads
@@ -25,9 +25,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.1
 *   customer service
     
 
-true true L15437751084
+true true C15414653693
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1l1j1 TIME :->. Fri Sep 30 11:15:48 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Sat Oct 01 11:15:58 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -50,15 +50,29 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Doorbusters Friday 3PM CDT through Saturday 1PM CDT
+Doorbusters Ends Saturday 1PM CDT
 
 Use your coupon and save even more!
 
-Shop Doorbusters Now Activewear Flash Sale Extra 25% Off
+Shop Doorbusters Now Levi's® Lowest Price of the Season 34.99 Guys' Levi's 514™ Straight-Fit Jeans\*
 
-Today Online Only | Ends September 30 | Code: SAVE97
+Select styles, reg. 59.50
 
-\*Exclusions and details Shop Men Shop Women Shop Girls Shop Boys 4 Days of Fall Deals Use Your Coupon &. Save Even More!
+Shop Guys'24.99 Boys' Levi's 510™ Skinny or 511™ Slim-Fit Jeans
+
+reg. $48
+
+Shop Boys32.99 Levi's 535™ Super-Skinny Jeans for Her
+
+reg. 49.50
+
+Shop Women's
+
+Offers and coupons do not apply.
+
+\*Pricing also applies to 505™, 559™, 527™, 517™, 569™, 550™, and chino. Levi's "Lowest Prices of the Season" refers to the time period through 10/24. Prices may be further reduced on items as a part of clearance in the future.
+
+      4 Days of Fall Deals Use Your Coupon &. Save Even More!
 
 In Store &. Online | Ends October 2
 
@@ -102,29 +116,15 @@ Shop Juniors’ Graphic Tees 8.99 Boys’ Arizona Long-Sleeve Graphic Tees
 
 Select styles, reg. $18
 
-Shop Boys' Graphic Tees Levi's® Lowest Price of the Season 34.99 Guys' Levi's 514™ Straight-Fit Jeans\*
-
-Select styles, reg. 59.50
-
-Shop Guys'24.99 Boys' Levi's 510™ Skinny or 511™ Slim-Fit Jeans
-
-reg. $48
-
-Shop Boys32.99 Levi's 535™ Super-Skinny Jeans for Her
-
-reg. 49.50
-
-Shop Women's
-
-Offers and coupons do not apply.
-
-\*Pricing also applies to 505™, 415™, and 550™. Levi's "Lowest Prices of the Season" refers to the time period through 10/24. Prices may be further reduced on items as a part of clearance in the future.
-
-      40 to 50% Off Boots &. Booties For Her
+Shop Boys' Graphic Tees 40 to 50% Off Boots &. Booties For Her
 
 Select styles, reg. $60-$120
 
-Shop Boots Now Online &. In Select Stores! Major Appliances From Your Favorite Brands.
+Shop Boots Our Biggest Window Sale of the Season 30 to 50% Off Home Sale
+
+Select styles.
+
+  Shop All Home Shop Comforters &. Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses Now Online &. In Select Stores! Major Appliances From Your Favorite Brands.
 
 Need help? Call 1-844-JCP-APPL (1-844-527-2775)
 
@@ -154,11 +154,7 @@ Get Details:JCPenney Rewards Shop &. Get Rewards
 
 For points earned on major appliances+
 
-+Get Details: Our Biggest Window Sale of the Season 30 to 50% Off Home Sale
-
-Select styles.
-
-  Shop All Home Shop Comforters &. Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses SportsFanShop
++Get Details: SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
@@ -203,7 +199,6 @@ MORE WAYS TO SHOP
 
 *   see our ads
 *   coupons
-*   recommendations
 *   jcpenney rewards
 *   jcpenney credit card
 *   gift cards
