@@ -139,8 +139,10 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Jerseys
     *   PhotosCustom Shop MLB Auctions
 *   MLB.TV MLB.TV MLB.TV
+    *   MLB.TV Postseason (US)
+    *   MLB.TV Postseason (INTL)
+    *   Get Postseason.TV
     *   Watch MLB.TV
-    *   Get MLB.TV
     *   Alternative Audio
     *   MLB.TV Devices
     *   MLB.TV with Extra Innings
@@ -148,7 +150,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.com Support Forum
     *   MLB.TV Blackouts
     *   MLB.TV Download Center
-    *   Contact UsMLB.TV Student
+    *   Contact Us
 *   Auction
 *   Fantasy Fantasy Fantasy
     *   Fantasy Baseball 2016
@@ -164,7 +166,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   WGT Baseball: MLB
     *   Prospect Watch
     *   Fantasy 411 Blog
-    *   Follow @Fantasy411Beat the Streak DraftKings R.B.I. Baseball 16 MLB.com Line Drive MLB.com Home Run Derby Fantasy Player Preview 160x160
+    *   Follow @Fantasy411Beat the Streak R.B.I. Baseball 16 MLB.com Line Drive MLB.com Home Run Derby Fantasy Player Preview 160x160
 *   Teams Teams American League AL East
     
     *   Baltimore
