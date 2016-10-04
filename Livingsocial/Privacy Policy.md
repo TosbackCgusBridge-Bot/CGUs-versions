@@ -10,6 +10,7 @@ The LivingSocial privacy policy (the “Privacy Policy”) is intended to inform
 *   EU-US Privacy Shield
 *   Changes to this Privacy Policy
 *   California Residents
+*   Responsible Disclosure Policy
 *   How to Contact Us
 
 Collection of Information
@@ -125,6 +126,10 @@ This Privacy Policy is subject to occasional revision at our discretion, and if 
 California Residents
 
 If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that LivingSocial has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to LivingSocial, sufficient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please e-mail privacy@livingsocial.com.
+
+Responsible Disclosure Policy
+
+If you are a security researcher and you have a security bug to report, please review our responsible disclosure policy.
 
 How to Contact Us
 
