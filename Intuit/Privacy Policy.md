@@ -1,4 +1,4 @@
-JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.10.0.0.112.0 15 3
+JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.10.4.0.3.0 15 3
 
 *   Find a store
 *   store ads
@@ -25,9 +25,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.1
 *   customer service
     
 
-true true L15444370545
+true true C15421681360
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Sun Oct 02 11:06:27 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p05.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Mon Oct 03 11:13:43 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -80,51 +80,7 @@ Get Details:JCPenney Rewards Shop &. Get Rewards
 
 For points earned on major appliances+
 
-+Get Details: LAST DAY! 4 Days of Fall Deals Use Your Coupon &. Save Even More!
-
-In Store &. Online | Ends October 2
-
-Buy 1 Get For .01 Men’s Dress Shirts\*
-
-Select styles
-
-Shop Men’s Dress Shirts
-
-Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
-
-29.99 Arizona Booties For Her
-
-Select styles, reg. $60
-
-Shop Arizona Booties For Her 6.99 JCPenney Home Trellis Or 30X54” Solid Bath Towel
-
-Select styles, reg. $12
-
-Shop Bath Towel 19.99 Juniors’ Arizona Denim
-
-Select styles, reg. $42
-
-Shop Juniors’ Arizona Denim 14.99 Kids’ Arizona Denim
-
-Select styles, reg. $30
-
-Shop Kids’ Arizona Denim 19.99 Guys’ Arizona Denim
-
-Select styles, reg. $42
-
-Shop Guys’ Arizona Denim 7.99 Home Expressions Microfiber Solid Or Print Twin Sheet Sets
-
-Select styles, reg. $30
-
-Shop Home Expressions Sheet Sets 9.99 Juniors’ Graphic Tees
-
-Select styles, reg. $18-$26
-
-Shop Juniors’ Graphic Tees 8.99 Boys’ Arizona Long-Sleeve Graphic Tees
-
-Select styles, reg. $18
-
-Shop Boys' Graphic Tees Our Biggest Window Sale of the Season 30 to 50% Off Home Sale
++Get Details: Our Biggest Window Sale of the Season 30 to 50% Off Home Sale
 
 Select styles.
 
