@@ -153,7 +153,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Contact Us
 *   Auction
 *   Fantasy Fantasy Fantasy
-    *   Fantasy Baseball 2016
+    *   Postseason Bracket Challenge
     *   R.B.I. Baseball 16
     *   MLB.com Home Run Derby
     *   MLB.com Line Drive
@@ -166,7 +166,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   WGT Baseball: MLB
     *   Prospect Watch
     *   Fantasy 411 Blog
-    *   Follow @Fantasy411Beat the Streak R.B.I. Baseball 16 MLB.com Line Drive MLB.com Home Run Derby Fantasy Player Preview 160x160
+    *   Follow @Fantasy411MLB.com Postseason Bracket Challenge Beat the Streak R.B.I. Baseball 16 MLB.com Line Drive MLB.com Home Run Derby Fantasy Player Preview 160x160
 *   Teams Teams American League AL East
     
     *   Baltimore
