@@ -1,4 +1,4 @@
-Skip to content Check Your Symptoms Find A Doctor Sign In Sign UpSubscribe
+Skip to content Check Your Symptoms Find A Doctor Find Lowest Drug Prices Sign In Sign UpSubscribe
 
 *   My ProfileWelcome
 *   *   My Tools
@@ -39,7 +39,7 @@ Skip to content Check Your Symptoms Find A Doctor Sign In Sign UpSubscribe
     
     Get Started Resources
     *   Second Opinion Read expert perspectives on popular health topics
-    *   Communities Connect with people like you, and get expert guidance on living a healthy life
+    *   Message Boards Connect with people like you, and get expert guidance on living a healthy life
     *   Insurance Guide Get ready for changes to your health care coverage
     *   Physician Directory Find a doctor in your areaPain Coach Track your pain levels, triggers, and treatments. Set goals and get tips with our app. Download
 *   Drugs &  
