@@ -76,17 +76,17 @@ Login Let's Connect What We Do Watch Video
     Return On Ad Spend
 
 *   The Latest News
+*   Marketing Is Failing At Its Top Priority
+    
+    New Report With Econsultancy  
+    
 *   A Clearer Path to Ad Quality
     
-    Our industry-leading partnership with TAG  
+    Our industry-leading partnership with TAG
     
 *   The 99%+ Human Guarantee
     
     Stop wasting money on bots
-    
-*   Conversant Wins 2016 Webby Award
-    
-    For the FIA Global Alert Hub
     
 *   Success You Can Measure
     
