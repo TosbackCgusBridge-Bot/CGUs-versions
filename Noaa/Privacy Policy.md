@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Fall 2016 high tide bulletin now available for U.S. coasts Weather It's the peak of the hurricane season: Learn how to prepare! National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites Live chat: Oct. 6 reddit science AUA, 'Launching NOAA’s Revolutionary GOES-R Satellite' Weather It's the peak of the hurricane season: Learn how to prepare! National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Carbon dioxide levels race past troubling milestone Relentless rise of this greenhouse gas locks in a warmer future, scientists say AROUND NOAA // New tool helps urban communities build resilience to climate change When does the climate record say you can expect the season's first snow? 3 ways the ocean and Great Lakes help keep the U.S. economy afloat Get the latest information from NOAA's National Hurricane Center
+Enter Search Terms Celebrate National Seafood Month Learn how to choose sustainable seafood, get recipes, and more AROUND NOAA // Get the latest on Hurricane Matthew from NOAA's National Hurricane Center Carbon dioxide levels race past troubling milestone Live chat: Oct. 6 reddit science AUA, 'Launching NOAA’s Revolutionary GOES-R Satellite' New tool helps urban communities build resilience to climate change
 
 *   About our agency
 *   News and features
@@ -124,3 +124,5 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Contact us
 *   Staff Directory
 *   Need help?
+
+iStock
