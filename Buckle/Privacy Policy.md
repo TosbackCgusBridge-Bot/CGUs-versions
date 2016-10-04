@@ -76,7 +76,9 @@
         
           
           
-        Give a Buckle Gift card It's all about the blues. Shop jeans now.
+        Give a Buckle Gift card #InTheseBlues Sweepstakes  
+          
+        ENTER NOW!
 *   Men
     *   *   Featured
         
@@ -128,7 +130,9 @@
         
           
           
-        Give a Buckle Gift card It's all about the blues. Shop jeans now.
+        Give a Buckle Gift card #InTheseBlues Sweepstakes  
+          
+        ENTER NOW!
 *   Kids
     *   *   Featured
         
@@ -155,7 +159,9 @@
         *   Shop All
         
           
-        Give a Buckle Gift card It's all about the blues. Shop jeans now.
+        Give a Buckle Gift card #InTheseBlues Sweepstakes  
+          
+        ENTER NOW!
 *   Jeans
     *   *   Women's Jeans
         
@@ -183,7 +189,9 @@
         
           
           
-        Give a Buckle Gift card It's all about the blues. Shop jeans now.
+        Give a Buckle Gift card #InTheseBlues Sweepstakes  
+          
+        ENTER NOW!
 *   New
     *   *   Women's New
         
@@ -212,7 +220,11 @@
         *   Shop All
         *   Boy's New Tops
         *   Boy's New Jeans
-        *   Shop AllGive a Buckle Gift card It's all about the blues. Shop jeans now.
+        *   Shop All
+        
+        Give a Buckle Gift card #InTheseBlues Sweepstakes  
+          
+        ENTER NOW!
 *   Sale
     *   *   Women's Sale
         
@@ -243,7 +255,11 @@
         *   Shop All
         *   Boy's Sale Tops
         *   Boy's Sale Jeans
-        *   Shop AllGive a Buckle Gift card It's all about the blues. Shop jeans now.
+        *   Shop All
+        
+        Give a Buckle Gift card #InTheseBlues Sweepstakes  
+          
+        ENTER NOW!
 
 A Global Message! × Privacy &. Security
 
@@ -343,6 +359,7 @@ Returns
 Promotions
 
 *   #InTheseBlues Official Rules
+*   Play For A Chance to Win
 *   Free Tote Bag!
 *   Bluetooth® Speaker
 *   Loyalty Event 2016
