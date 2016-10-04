@@ -9,7 +9,6 @@
 Privacy Policy Effective March 7, 2016
 
 *   Cookie Policy
-*   Safe Harbor Policy
 *   International User
 *   California Do Not Track – CalOPPA
 *   Email Overview
