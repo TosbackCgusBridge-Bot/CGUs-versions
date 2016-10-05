@@ -1,9 +1,9 @@
 Log in with your social account: Or, you can log in or sign up using Forbes.
 
 *   Editors' Picks
-*   New Posts +3 posts this hour
+*   Podcasts
 *   Most Popular Trump's Wealth
-*   Lists Top Universities
+*   Lists FORBES 400
 *   Video The Issue
 
 Connect | Sign up | Log in The Little Black Book of Billionaire Secrets Forbes.com Privacy Statement
@@ -70,12 +70,12 @@ We partner with a third party ad network to either display advertising on our We
 
 **How Will I Know if the Privacy Policy Is Changed?** If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-Inside Forbes Great Cities For Millennials And Generation Z In 2016 Certain metropolitan regions offer Gen Y workers more reasons to be happy than others.
+Inside Forbes Meet The 22 Newcomers To The FORBES 400 More than two-thirds of the newcomers to The FORBES 400 in 2016 inherited at least some of their wealth.
 
-*   The World's Top Universities In 2016
-*   How 'Lights Out' Sparked A $145 Million Box Office Hit
+*   How This Billionaires Built Huge Fortunes
+*   America's Richest Hedge Fund Managers In 2016
 
-*   Master's Degrees With The Highest Salary Potential
+*   America's Richest Sports Team Owners 2016
 *   Real-Time Billionaires
 
 *   Forbes
