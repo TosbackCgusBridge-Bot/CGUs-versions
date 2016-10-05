@@ -1,4 +1,4 @@
-JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.10.4.0.3.0 15 3
+JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.11.0.0.79.0 15 3
 
 *   Find a store
 *   store ads
@@ -7,6 +7,7 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.1
 
 *   my account
 *   no saved items
+*   recommendations
 *   track order
 *   ship to
 
@@ -19,15 +20,16 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.1
 *   my account
 
 *   no saved items
+*   recommendations
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true C15421681360
+true true L15450320225
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p05.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Mon Oct 03 11:13:43 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Tue Oct 04 11:15:44 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -50,69 +52,7 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Now Online &. In Select Stores! Major Appliances From Your Favorite Brands.
-
-Need help? Call 1-844-JCP-APPL (1-844-527-2775)
-
-Delivery not available in all markets.
-
-Get Details: Shop The Ad:Up to 30% Off\* Major Appliances
-
-Select styles
-
-Shop Major Appliances:
-
-\*GE, GE Profile &. GE Cafe limited to 10% off savings.
-
-18 Months or 30 Months Special Financing\*\*
-
-Available on qualifying major appliance purchases made through 10/23/16 on a JCPenney Credit Card. Must request at time of purchase.
-
-\*\*Get Details:
-
-Don't have a JCPenney Credit Card?
-
-Apply Now:Free Delivery &. Basic Installation
-
-On all appliance purchases over $299
-
-Get Details:JCPenney Rewards Shop &. Get Rewards
-
-For points earned on major appliances+
-
-+Get Details: Our Biggest Window Sale of the Season 30 to 50% Off Home Sale
-
-Select styles.
-
-  Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses Levi's® Lowest Price of the Season 34.99 Guys' Levi's 514™ Straight-Fit Jeans\*
-
-Select styles, reg. 59.50
-
-Shop Guys'24.99 Boys' Levi's 510™ Skinny or 511™ Slim-Fit Jeans
-
-Select styles, MSRP $48
-
-Shop Boys36.99 Levi's Mid-Rise Skinny Jeans for Her
-
-Select styles, reg. 54.50
-
-Shop Women's
-
-Offers and coupons do not apply.
-
-\*Pricing also applies to 505™, 559™, 527™, 517™, 569™, 550™, and chino. Levi's "Lowest Prices of the Season" refers to the time period through 10/24. Prices may be further reduced on items as a part of clearance in the future.
-
-      40% Off Dress Sale Now through October 10
-
-Select styles, reg. $40-$86
-
-Shop Now Sephora New Beauty Arrivals: JCP Salon Save On Haircare Products Shop Now: JCPenney | portraits
-
-.49 and .59 Photo Greeting Cards
-
-Free 8x10
-
-Get Coupon: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play
+true
 
 get connected
 
@@ -153,6 +93,7 @@ MORE WAYS TO SHOP
 
 *   see our ads
 *   coupons
+*   recommendations
 *   jcpenney rewards
 *   jcpenney credit card
 *   gift cards
