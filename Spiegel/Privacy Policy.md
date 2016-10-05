@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 10.511,02ǀ
+*   DAX 10.619,61ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -134,7 +134,7 @@ Mein SPIEGEL
         *   Europa
         *   Fernweh
         *   Skiatlas
-    *   *   Secret Escapes
+    
 *   Auto
     *   *   Übersicht
         *   Tests
@@ -632,7 +632,6 @@ Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen. Se
 *   *   Arztsuche
     *   DSL-Vergleich
     *   Ferientermine
-    *   Traumreise
 
 SPIEGEL GRUPPE
 
