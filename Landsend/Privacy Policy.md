@@ -137,6 +137,7 @@ menu 0
     
     *   New Arrivals
     *   Ultimate Coat Finder
+    *   Hats, Gloves &. Scarves
     *   School Uniforms
     *   Iron Knee Pants
     *   Girls' Knit Kit
@@ -153,13 +154,13 @@ menu 0
     
     Girls>.
     
+    *   Outerwear
     *   Tops
     *   Sweaters
     *   Dresses
     *   Pants &. Leggings
     *   Jeans
     *   Skirts &. Skorts
-    *   Outerwear
     *   Shorts
     *   Blazers &. Jackets
     *   Sleepwear
@@ -170,11 +171,11 @@ menu 0
     *   Long Underwear
     
     Boys>.
+    *   Outerwear
     *   Tops
     *   Sweaters
     *   Pants
     *   Jeans
-    *   Outerwear
     *   Shorts
     *   Blazers &. Jackets
     *   Backpacks &. Lunch Boxes
@@ -476,6 +477,7 @@ menu 0
     
     *   New Arrivals
     *   Ultimate Coat Finder
+    *   Hats, Gloves &. Scarves
     *   School Uniforms
     *   Iron Knee Pants
     *   Girls' Knit Kit
@@ -492,13 +494,13 @@ menu 0
     
     Girls Back | Girls
     
+    *   Outerwear
     *   Tops
     *   Sweaters
     *   Dresses
     *   Pants &. Leggings
     *   Jeans
     *   Skirts &. Skorts
-    *   Outerwear
     *   Shorts
     *   Blazers &. Jackets
     *   Sleepwear
@@ -509,11 +511,11 @@ menu 0
     *   Long Underwear
     
     Boys Back | Boys
+    *   Outerwear
     *   Tops
     *   Sweaters
     *   Pants
     *   Jeans
-    *   Outerwear
     *   Shorts
     *   Blazers &. Jackets
     *   Backpacks &. Lunch Boxes
