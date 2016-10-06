@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Celebrate National Seafood Month Learn how to choose sustainable seafood, get recipes, and more AROUND NOAA // Get the latest on Hurricane Matthew from NOAA's National Hurricane Center Carbon dioxide levels race past troubling milestone Live chat: Oct. 6 reddit science AUA, 'Launching NOAA’s Revolutionary GOES-R Satellite' New tool helps urban communities build resilience to climate change
+Enter Search Terms Hurricane Matthew threatens U.S. East Coast Get the latest forecast from NOAA's National Hurricane Center AROUND NOAA // Celebrate National Seafood Month Live chat: Oct. 6 reddit science AUA, 'Launching NOAA’s Revolutionary GOES-R Satellite' Carbon dioxide levels race past troubling milestone New tool helps urban communities build resilience to climate change
 
 *   About our agency
 *   News and features
