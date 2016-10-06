@@ -5,13 +5,14 @@
     
     DEALERS
     
+    locate
 *   Certified Used Vehicles
 *   Owners
 *   Español
 *   Search
 
-*   Select Vehicle
-*   Shopping Tools
+*   Select Vehicle menu-arrow
+*   Shopping Toolsmenu-arrow
 *   Find a Dealer
 *   Build &. Price
 *   Local Specials
@@ -24,37 +25,38 @@
 
 Toyota Vehicles Cars & Minivan
 
-*   2016   Avalon $32,650 starting 1 21 /31 est. mpg2 as shown 1 Build your own
-*   2016   Camry $23,070 starting 1 25 /35 est. mpg2 as shown 1 Build your own
-*   2016   Corolla $17,300 starting 1 28 /37 est. mpg2 as shown 1 Build your own
-*   2015   Sienna $28,700 starting 1 18 /25 est. mpg2 as shown 1 Build your own
-*   2015   Yaris $14,845 starting 1 30 /37 est. mpg2 as shown 1 Build your own
+*   $18,000 as shown1 2017 Yaris $15,250 starting1 30/36 est. mpg2 build Specials
+*   $15,950 as shown1 2017 Yaris iA $15,950 starting1 32/40 est. mpg2 build Specials
+*   $21,980 as shown1 2017 Corolla $18,500 starting1 28/36 est. mpg2 build Specials
+*   $18,750 as shown1 2017 Corolla iM $18,750 starting1 28/36 est. mpg2 build Specials
+*   $33,820 as shown1 2017 Camry $23,070 starting1 24/33 est. mpg2 build Specials
+*   $37,050 as shown1 2016 Avalon $32,650 starting1 21/31 est. mpg2 build Specials
+*   $26,255 as shown1 2017 86 $26,255 starting1 24/32 est. mpg2 build Specials
+*   $40,830 as shown1 2017 Sienna $29,750 starting1 19/27 est. mpg2 build Specials
 
 Trucks
 
-*   2016   Tacoma $23,660 starting 1 19 /24 est. mpg2 as shown 1 Build your own
-*   2016   Tundra $29,140 starting 1 15 /19 est. mpg2 as shown 1 Build your own
+*   $34,705 as shown1 2017 Tacoma $24,120 starting1 19/24 est. mpg2 build Specials
+*   $41,280 as shown1 2017 Tundra $30,020 starting1 15/19 est. mpg2 build Specials
 
 Crossovers & Suvs
 
-*   2015   RAV4 $23,680 starting 1 24 /31 est. mpg2 as shown 1 Build your own
-*   2015   Venza $29,065 starting 1 20 /26 est. mpg2 as shown 1 Build your own
-*   2016   Highlander $30,490 starting 1 20 /25 est. mpg2 as shown 1 Build your own
-*   2016   4Runner $34,010 starting 1 17 /22 est. mpg2 as shown 1 Build your own
-*   2016   Sequoia $44,965 starting 1 13 /17 est. mpg2 as shown 1 Build your own
-*   2016   Land Cruiser $83,825 starting 1 13 /18 est. mpg2 as shown 1 Build your own
+*   $36,150 as shown1 2017 RAV4 $24,910 starting1 23/30 est. mpg2 build Specials
+*   $40,915 as shown1 2016 Highlander $30,490 starting1 20/25 est. mpg2 build Specials
+*   $39,595 as shown1 2016 4Runner $34,010 starting1 17/22 est. mpg2 build Specials
+*   $61,990 as shown1 2017 Sequoia $45,460 starting1 13/17 est. mpg2 build Specials
+*   $84,325 as shown1 2017 Land Cruiser $84,325 starting1 13/18 est. mpg2 build Specials
 
 Hybrids & Fcv
 
-*   2016   prius c $19,560 starting 1 53 /46 est. mpg2 as shown 1 Build your own
-*   2015   Prius $24,200 starting 1 51 /48 est. mpg2 as shown 1 Build your own
-*   2016   $26,790 starting 1 43 /39 est. mpg2 as shown 1 Build your own
-*   2016   Prius v $26,675 starting 1 44 /40 est. mpg2 as shown 1 Build your own
-*   2015   Prius Plug-in Hybrid $29,990 starting 1 95 /50 est. mpg2 as shown 1 Build your own
-*   2016   $36,650 starting 1 40 /39 est. mpg2 as shown 1 Build your own
-*   2016   $47,870 starting 1 27 /28 est. mpg2 as shown 1 Build your own
-*   2016   $28,370 starting 1 34 /31 est. mpg2 as shown 1 Build your own
-*   2016   $28,370 starting 1 34 /31 est. mpg2 as shown 1 Build your own
+*   $27,995 as shown1 2017 Camry Hybrid $26,790 starting1 42/38 est. mpg2 build Specials
+*   $41,950 as shown1 2016 Avalon Hybrid $36,650 starting1 40/39 est. mpg2 build Specials
+*   $34,030 as shown1 2017 RAV4 Hybrid $29,030 starting1 34/30 est. mpg2 build Specials
+*   $47,870 as shown1 2016 Highlander Hybrid $47,870 starting1 27/28 est. mpg2 build Specials
+*   $32,115 as shown1 2017 Prius $24,685 starting1 54/50 est. mpg2 build Specials
+*   $24,495 as shown1 2016 Prius c $19,560 starting1 53/46 est. mpg2 build Specials
+*   $34,270 as shown1 2017 Prius v $26,675 starting1 43/39 est. mpg2 build Specials
+*   $57,500 as shown1 2017 Mirai $57,500 starting1 67/67 est. mpg2 build Specials
 
 Upcoming Vehicles
 
