@@ -50,6 +50,7 @@
     *   Dinner for Two
 *   Sweets
     View All Categories Shop by Category*   Chocolates
+    *   Confections
     *   Desserts
 *   Shop By Price
     View All Categories Shop by Category*   Gifts $20 &. Under
@@ -120,6 +121,7 @@
     *   Dinner for Two
 *   Sweets
     View All Categories Shop by Category*   Chocolates
+    *   Confections
     *   Desserts
 *   Shop By Price
     View All Categories Shop by Category*   Gifts $20 &. Under
