@@ -62,6 +62,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Game Changers
     *   Baseball's Best Moments
 *   Stats Stats Stats
+    *   Postseason Sortable Stats
     *   Regular Season Sortable Stats
     *   Regular Season League Leaders
     *   Spring Training Sortable Stats
@@ -144,6 +145,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Get Postseason.TV
     *   Watch MLB.TV
     *   Alternative Audio
+    *   MLB.TV Postseason FAQ
     *   MLB.TV Devices
     *   MLB.TV with Extra Innings
     *   FAQs
