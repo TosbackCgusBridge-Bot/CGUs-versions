@@ -101,11 +101,11 @@ View more results
 *   Hot Games
     
     *   Slotomania
-    *   Tanki Online
+    *   Age of Cavemen
     *   Summer Sports: Diving
-    *   Hero Simulator: Idle Adventure
-    *   SuperSnake.io
-    *   One More Pass
+    *   Trollface Quest TrollTube
+    *   Toss A Paper MP
+    *   Wheely 8: Aliens
     
     Mobile Apps More
     
