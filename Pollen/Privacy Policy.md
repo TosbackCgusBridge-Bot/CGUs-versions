@@ -70,7 +70,7 @@ Questions
 Questions regarding our privacy practices or this statement should be directed to:
 
 Pollen.com  
-c/o IMS Health Incorporated  
+c/o QuintilesIMS  
 1 IMS Drive  
 Plymouth Meeting, PA 19462  
   
@@ -88,6 +88,6 @@ Advertisement Advertisement
 *   Advertising
 *   Site Map
 
-Copyright © 2016 IMS Health Incorporated. All rights reserved.
+Copyright © 2016 QuintilesIMS. All rights reserved.
 
-Pollen.com and Allergy Alert are registered trademarks of IMS Health Incorporated. Page last modified: 10/06/2016
+Pollen.com and Allergy Alert are registered trademarks of QuintilesIMS. Page last modified: 10/07/2016
