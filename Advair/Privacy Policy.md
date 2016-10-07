@@ -208,6 +208,7 @@ Menu
         *   Epigenetics: turn-ons and turn-offs
         *   Inside the open lab
         *   The race to richer data in clinical trials
+        *   Scientists or detectives? Seeking new clues in COPD
         *   Cell and gene therapy: a new era of medicine
         *   Take a deep breath - your lung microbiome will appreciate it
     *   Access to healthcare
