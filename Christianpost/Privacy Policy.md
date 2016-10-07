@@ -218,4 +218,4 @@ We may transmit non-personally identifiable website usage information to third p
 *   Audio Bible
 *   iPost
 
-Copyright © 2016 The Christian Post , INC. All Rights Reserved. Terms under which this service is provided to you. Privacy Policy. Ad choices. lead generation
+Copyright © 2016 The Christian Post , INC. All Rights Reserved. Terms under which this service is provided to you. Privacy Policy. Ad choices.
