@@ -3,6 +3,7 @@ LENOVO Menu
 *   Products
     *   Laptops
     *   Tablets
+    *   Smartphones
     *   Desktops &  
         All-in-Ones
     *   Workstations
