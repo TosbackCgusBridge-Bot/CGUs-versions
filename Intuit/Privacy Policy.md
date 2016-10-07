@@ -1,4 +1,4 @@
-JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.11.0.0.79.0 15 3
+JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.11.1.0.3.0 15 3
 
 *   Find a store
 *   store ads
@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.1
 *   customer service
     
 
-true true L15450258526
+true true C15436510367
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Wed Oct 05 11:15:37 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Thu Oct 06 11:15:41 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,7 +52,101 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Oct 05 14:38:08 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* almost gone! \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Oct 05 14:38:08 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Our Biggest Columbus Day Sale &. Clearance
+
+In Store and Online | Ends October 10
+
+Shop Sale View Store Ad Shop ClearanceIn Store Only Savings Like Never Before Extra 20% Off With Your JCPenney Card Plus, Extra 10% Off Select Items Including Electrics &. Electronics
+
+\*Credit offers subject to credit approval.
+
+Get Coupon Exclusions &. Details 30 to 50% Off\* Home Sale
+
+Select styles
+
+Shop All Home Shop Curtains &. Drapes Shop Furniture &. Mattresses Shop Kitchen &. Dining Shop BeddingUp to 30% Off\* Major Appliances
+
+Select styles
+
+Shop Major Appliances:
+
+\*GE, GE Profile &. GE Cafe limited to 10% off savings.
+
+Major Appliances Now Online &. In Select Stores! 18 Months or 30 Months Special Financing\*\*
+
+Available on qualifying major appliance purchases made through 10/23/16 on a JCPenney Credit Card. Must request at time of purchase.
+
+\*\*Get Details:
+
+Don't have a JCPenney Credit Card?
+
+Apply Now:Free Delivery &. Basic Installation
+
+On all appliance purchases over $299
+
+Get Details:JCPenney Rewards Shop &. Get Rewards
+
+For points earned on major appliances+
+
++Get Details:
+
+Need help? Call 1-844-JCP-APPL (1-844-527-2775)
+
+Delivery not available in all markets.
+
+Get Details: 5 Days of Fall Deals In Store &. Online | Ends October 10
+
+Use your coupon and save even more!
+
+9.99 Boys’ Arizona Graphic Tee Or Girls’ Total Girl Tops
+
+Select styles
+
+Shop Boys' Arizona Graphic Tees Shop Total Girl Tops     LOWEST PRICE OF THE SEASON 34.99 Guys’ Levi’s® 514™ Straight Fit Jeans\*
+
+Select styles, reg. 59.50
+
+Shop Guys' Levi's
+
+\*Levi’s® “Lowest Prices of the Season” refers to the time period through 10/24. Prices may be further reduced on items as a part of clearance in the future. Offers and coupons do not apply.
+
+14.99 AFTER $10 MAIL-IN REBATE Cooks Power Blender, Nonstick Griddle Or 6-Qt. Slow Cooker
+
+Select styles, sale 24.99, reg. $40-$50
+
+Shop Cooks Small Appliances 4.99 Baby Or Toddler Okie Dokie Matchups
+
+Select styles, reg. $12
+
+Shop Okie Dokie 17.99 St. John’s Bay Sweater For Him
+
+Select styles, reg. $42
+
+Shop St. John’s Bay 17.99 Stylus Sweater For Her
+
+Select styles, reg. $36
+
+Shop Stylus 29.99 Arizona Booties For Her
+
+Select styles, reg. $60
+
+Shop Booties 14.99 Girls’ Xersion Fleece
+
+Select styles, reg. $30
+
+Shop Girls' Xersion 14.99 Boys’ Xersion Fleece
+
+Select styles, reg. $30
+
+Shop Boys' Xersion SportsFanShop
+
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
+
+Shop Now: Sephora New Beauty Arrivals: Homecoming 2016
+
+Everything you need for the big dance.
+
+Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Oct 06 23:15:42 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Oct 06 23:15:42 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
