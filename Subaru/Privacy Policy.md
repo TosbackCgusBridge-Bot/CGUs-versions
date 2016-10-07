@@ -101,15 +101,15 @@ Up to
 
 Forester 2.5i Touring shown
 
-Crosstrek $21,595 starting price 2016 Crosstrek
+Crosstrek $21,695 starting price 2017 Crosstrek
 
 Starting at
 
-$21,595 MSRP
+$21,695 MSRP
 
 Up to
 
-34/30 MPG Hwy/City
+33/26 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
@@ -117,22 +117,6 @@ Up to
 *   Build Your Own
 
 Crosstrek 2.0i Limited shown
-
-Crosstrek Hybrid $26,395 starting price 2016 Crosstrek Hybrid
-
-Starting at
-
-$26,395 MSRP
-
-Up to
-
-34/30 MPG Hwy/City
-
-*   Overview
-*   Compare
-*   Build Your Own
-
-Crosstrek Hybrid Touring Shown
 
 Outback $25,645 starting price 2017 Outback
 
