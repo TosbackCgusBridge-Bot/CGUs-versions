@@ -22,7 +22,6 @@ Navigation
     *   What's The Phrase
     *   Wizard of Oz Magic Match
     *   Word Streak With Friends
-    *   Words On Tour
     *   Words With Friends
     *   Yummy Gummy
 *   CASINO
