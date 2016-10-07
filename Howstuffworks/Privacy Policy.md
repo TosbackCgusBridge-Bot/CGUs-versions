@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**4 Reasons Why Menstrual Cups Aren't More Popular**
+**Is a Double Hurricane Something You Should Freak Out About?**
 
-**Will Nissan's New Self-Driving Chair Usher in a Golden Age of Sloth?**
+**Bike Helmet Airbags Could Keep Your Head Safe**
 
-**Your Jeans Could Someday Power Your Phone**
+**Quadriplegic Man Gets Nation's First Autonomous Car Driver's License**
 
 **See More Headlines »**
 
