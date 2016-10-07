@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites Live chat: Oct. 6 reddit science AUA, 'Launching NOAA’s Revolutionary GOES-R Satellite' Weather It's the peak of the hurricane season: Learn how to prepare! National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Hurricane Matthew is threatening the East Coast — Make sure you know what to do before, during and after the storm Weather Oceans &. Coasts Hurricane preparedness video: What is storm surge? National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Hurricane Matthew threatens U.S. East Coast Get the latest forecast from NOAA's National Hurricane Center AROUND NOAA // Celebrate National Seafood Month Live chat: Oct. 6 reddit science AUA, 'Launching NOAA’s Revolutionary GOES-R Satellite' Carbon dioxide levels race past troubling milestone New tool helps urban communities build resilience to climate change
+Enter Search Terms Hurricane Matthew threatens U.S. East Coast Get the latest forecast from NOAA's National Hurricane Center AROUND NOAA // Celebrate National Seafood Month Hurricane preparedness video: What is storm surge? 4 new billion-dollar disasters bump year-to-date total to 12
 
 *   About our agency
 *   News and features
