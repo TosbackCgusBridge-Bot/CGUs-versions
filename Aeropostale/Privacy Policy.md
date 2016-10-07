@@ -4,10 +4,8 @@ Aéropostale
     
     *   NEW ARRIVALS
     *   Meet Aly Raisman
-    *   Aly's Picks
     *   Prince + Fox
     *   Cape Juby
-    *   T-Neck On Deck
     *   Uniform
     *   Online Only
     *   Plus Sizes
@@ -49,10 +47,8 @@ Aéropostale
     
     *   NEW ARRIVALS
     *   Meet DeAndre Yedlin
-    *   DeAndre's Picks
     *   Prince &. Fox
     *   Cape Juby
-    *   The Great Outdoors
     *   Uniform
     *   Online Only
     *   Extended Sizes
