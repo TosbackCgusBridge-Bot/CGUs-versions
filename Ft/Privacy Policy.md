@@ -1,6 +1,51 @@
-Financial Times Help Centre Legal &. Privacy Privacy Policy Privacy Policy Chat with FT Customer Service Start Chat Chat with FT Customer Service Currently Offline Privacy Policy Financial Times privacy policy
+ft.com/help FT HelpQuotesAll contentSearch Sign in Site tour Register Subscribe Welcome Your account Site tour Sign out Email address Password Forgot password?
 
-Financial Times group takes the privacy of its users seriously. We are committed to safeguarding the privacy of our users while providing a personalised and valuable service. This Privacy Policy statement explains the data processing practices of Financial Times businesses. If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail at privacy.officer@ft.com.
+Remember me on this computer Sign in
+
+*   Help 
+    *   Markets Data
+        *   Markets Data
+        *   Markets Data overview
+        *   Portfolio
+        *   Equity screener
+        *   Economic calendar
+        *   Interactive charting
+        *   Funds &. ETFs
+*   Account Queries 
+    *   Signing in
+    *   Changing your details
+    *   Changing a subscription
+    *   Payment queries
+*   Subscribing 
+    *   Personal subscriptions
+*   Mobile 
+    *   Android app
+    *   Web app
+    *   How to Spend It app
+    *   Mobile website
+*   Tools &. Services 
+    *   Your cancellation rights
+    *   Markit
+    *   Lexicon
+    *   ePaper
+    *   Search
+    *   Clippings
+    *   Alerts hub
+    *   Information for contributors
+    *   Commenting
+    *   Gift Article
+    *   RSS
+    *   Press Cuttings
+    *   Social media Q&A
+*   Newspaper 
+    *   About the newspaper
+    *   Subscription queries
+*   Product Blog 
+    
+
+Print Email Share Financial Times privacy policy
+
+Financial Times group takes the privacy of its users seriously. We are committed to safeguarding the privacy of our users while providing a personalised and valuable service. This Privacy Policy statement explains the data processing practices of Financial Times businesses. If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail at privacy.officer@ft.com.
 
 Our sites contain links to third party sites which are not subject to this privacy policy. We recommend that you read the privacy policy of any such sites that you visit.
 
@@ -8,29 +53,29 @@ Our sites contain links to third party sites which are not subject to this priva
 
 Personal information is collected by the FT companies listed below on behalf of the Financial Times group of companies and its trading entities (including FDI Intelligence and Exec-Appointments). Each of these FT companies are registered with the UK’s Information Commission as Data Controllers in accordance with the Data Protection Act 1998. References in this privacy policy to “FT”, “we”, “us”, “our” or similar refer to the FT group company operating the relevant website and references to “FT sites” refer to any of our websites from which you have accessed this privacy policy.
 
-Company:The Financial Times Ltd
-
-Registered Office:Number One Southwark Bridge, London SE1 9HL
-
-Registered Number: 879531
-
-Data Protection Registration Number:Z7087146
-
-Company:FT Personal Finance Ltd
-
-Registered Office:Number One Southwark Bridge, London SE1 9HL
-
-Registered Number:3855520
-
-Data Protection Registration Number:Z7670392
-
-Company:The Financial Times (M-M UK) Limited, trading as Money-Media or Ignites Europe
-
-Registered Office:Number One Southwark Bridge, London SE1 9HL
-
-Registered Number:139844
-
-Data Protection Registration Number:ZVK463
+> Company:The Financial Times Ltd
+> 
+> Registered Office:Number One Southwark Bridge, London SE1 9HL
+> 
+> Registered Number: 879531
+> 
+> Data Protection Registration Number:Z7087146
+> 
+> Company:FT Personal Finance Ltd
+> 
+> Registered Office:Number One Southwark Bridge, London SE1 9HL
+> 
+> Registered Number:3855520
+> 
+> Data Protection Registration Number:Z7670392
+> 
+> Company:The Financial Times (M-M UK) Limited, trading as Money-Media or Ignites Europe
+> 
+> Registered Office:Number One Southwark Bridge, London SE1 9HL
+> 
+> Registered Number:139844
+> 
+> Data Protection Registration Number:ZVK463
 
 We collect personally identifiable information about you (your “Data”) through:
 
@@ -55,8 +100,7 @@ The elements of your Data that we collect may include:
 
 We may also collect information that we request from you regarding your use of our service or that we collect automatically about your visit to our sites. Please see our Cookie Policy for more details.
 
-**Use and Disclosure of Personal Information**
-
+**Use and Disclosure of Personal Information**  
 We use your Data for purposes which may include:
 
 *   providing our users with a personalised service
@@ -103,7 +147,7 @@ If you wish to amend any of the Data which we hold about you, or update your mar
 
 Investors Chronicle
 
-If you are a user of www.InvestorsChronicle.co.uk and you wish to amend any of the Data which we hold about you, or update your marketing preferences, please contact help.ic@ft.com, visit manage account or phone +44 (0)0207 873 3202. Calls made to these numbers may be recorded for training and quality control purposes.
+If you are a user of www.InvestorsChronicle.co.uk and you wish to amend any of the Data which we hold about you, or update your marketing preferences, please contact ic.cs@ft.com, visit manage account or phone +44(0)844 848 0106. Calls made to these numbers may be recorded for training and quality control purposes.
 
 FDI Intelligence
 
@@ -149,5 +193,70 @@ We do not intentionally collect any information on children under 14 years of ag
 
 This policy is effective from 22nd May 2012. From time to time we may make changes to this privacy policy statement to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements.enhancements.
 
-Back to the Top Support Help About Us Legal &. Privacy Terms &. Conditions Privacy Cookies Copyright Services Individual Subscriptions Group Subscriptions Republishing Contracts &. Tenders Analysts Research Executive Job Search Advertise with the FT Follow the FT on Twitter Tools Portfolio Today's Paper Alerts Hub Lexicon MBA Rankings Economic Calendar Newsletters Currency Converter Ebooks More from FT Group Agenda Analyse Africa Board IQ Corporate Learning Alliance DPN: Deutsche Pensions &. Investment Nachrichten ExecSense FDI Intelligence Financial Advisor IQ FT Chinese FT Live FT Property Listings FT Advisor Fund Fire Global Risk Regulator How to Spend It Ignites Ignites Asia Ignites Europe Investors Chronicle Mandate Wire New York Insitute of Finance Non Executive Directors Club Pensions Expert Professional Wealth Management 125 Club The Banker The Banker Database This is Africa Markets data delayed by at least 15 minutes. © THE FINANCIAL TIMES LTD 2016. FT and ‘Financial Times’ are trademarks of The Financial Times Ltd.  
-The Financial Times and its journalism are subject to a self-regulation regime under the FT Editorial Code of Practice.
+Our Customer Service Centres
+
+UK &. Europe Email: help@ft.com  
+Call: +44 (0)207 775 6248 US &. Canada Email: help@ft.com  
+Call: +1 917 551 5005 Asia Email: subseasia@ft.com  
+Call: +632 982 5780 Middle-East &. Africa Email: help@ft.com  
+Call: +44 (0)207 775 6248
+
+For our general list of all our contact information click here.
+
+Interactive
+
+*   Video
+*   Blogs
+*   Podcasts
+*   Interactive graphics
+*   Audio slideshows
+
+Tools
+
+*   Portfolio
+*   FT Lexicon
+*   FT clippings
+*   Currency converter
+*   MBA rankings
+*   Today's newspaper
+*   FT press cuttings
+*   FT ePaper
+
+Updates
+
+*   Alerts Hub
+*   Daily briefings
+*   FT on your mobile
+*   Share prices on your phone
+*   RSS feeds
+
+Quick links
+
+*   Special reports
+*   Mergermarket
+*   How to spend it
+
+Services
+
+*   Subscriptions
+*   Corporate subscriptions
+*   Syndication
+*   Conferences
+*   Annual reports
+*   Jobs
+*   Non-Executive Directors' Club
+*   Businesses for sale
+*   Contracts &. tenders
+*   Analyst research
+*   Company announcements
+
+*   Help
+*   •Contact us
+*   •About us
+*   •Advertise with the FT
+*   •Terms &. Conditions
+*   •Privacy Policy
+*   •Copyright
+*   •Cookie policy
+
+**© The Financial Times Ltd 2016** FT and 'Financial Times' are trademarks of The Financial Times Ltd.
