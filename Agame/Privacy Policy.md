@@ -111,10 +111,10 @@ View more results
     
     *   Troll Face Quest Video Games
     *   Hero Simulator: Idle Adventure
-    *   Summer Sports
+    *   Troll Face Quest Video Memes
     *   My Dolphin Show
     *   Crash Drive 2
-    *   Car Eats Car
+    *   Mad Truck Challenge: The Beginning
     
     Specials
     
