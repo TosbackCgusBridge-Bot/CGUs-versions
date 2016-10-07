@@ -145,6 +145,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Get Postseason.TV
     *   Watch MLB.TV
     *   Alternative Audio
+    *   MLB.TV Postseason Schedule
     *   MLB.TV Postseason FAQ
     *   MLB.TV Devices
     *   MLB.TV with Extra Innings
