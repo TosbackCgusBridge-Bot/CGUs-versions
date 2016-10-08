@@ -2,7 +2,7 @@ Go to: Navigation Content Footer
 
 Alt+0 to show this section, Tab to navigate forward, Shift+Tab key to navigate backward, Enter to access link, and Esc to reset
 
-We use cookies to give you the best experience on our website. By continuing to browse the site, you are agreeing to our use of cookies. You can change your cookie settings at any time but if you do, you may lose some functionality. More information can be found in our Privacy policy and Cookie policy.
+We use cookies to give you the best experience on our website. By continuing to browse the site, you are agreeing to our use of cookies. You can change your cookie settings at any time but if you do, you may lose some functionality. More information can be found in our Terms and Conditions and Cookie policy.
 
 Close Press tab key to access skip links section. Press Alt+0 to access it anytime. Search Menu
 
@@ -177,7 +177,7 @@ Skip to main content Privacy policy
 
 Our privacy statement sets out our current policies and demonstrates our commitment to your privacy.
 
-Before using this Site, you should read these Terms carefully, as well as our Privacy Policy and Cookie Policy.
+Before using this Site, you should read these Terms carefully, as well as our Cookie Policy.
 
 The information contained on the Site is for information purposes only. HSBC Holdings plc does not hold itself out as providing legal, financial or other advice via the Site.
 
@@ -211,6 +211,24 @@ Local Sites
 All products and services provided by members of the HSBC Group are subject to the terms and conditions and disclaimers of the applicable agreement governing their supply and use (‘Product terms and conditions’). Where Product terms and conditions conflict with these Terms and Conditions or any Local Site's terms and conditions the Product terms and conditions shall prevail.
 
 Your use of any Local Site shall be governed by both these Terms and Conditions and the terms and conditions of the Local Site. However, where these Terms and Conditions conflict with those of the Local Site, the terms and conditions of the Local Site shall prevail. Please read carefully any Local Site and/or Product terms and conditions before using the Local Site or product.
+
+Privacy
+
+We know that you are concerned with how your personal information is dealt with. This privacy statement sets out our current policies and demonstrates our commitment to your privacy. We may change the content or services found on this Site at any time without notice, and consequently our privacy policy may change at any time in the future. You agree to revisit this page regularly and your continued access to or use of the Site will mean that you agree to the changes.
+
+Please also note that the HSBC Group provides financial products and services through its affiliated companies and branches located across the world. Privacy and personal data protection principles vary from one country to another. When you access or link to a Local Site, please read the privacy statement issued by the Local Site to determine the policies that apply to information or data maintained by the Local Site.
+
+Personal information
+
+If you register your personal details for the email alerts service, we will ask you to provide us with certain up to date data about yourself, which we will handle in accordance with the United Kingdom's Data Protection legislation but please note that it may be hosted or transferred outside of this jurisdiction. We will not share your personal information with entities outside of the HSBC Group. We maintain strict security standards and procedures with a view to preventing unauthorised access to your data by anyone, including our staff. We use leading technologies such as (but not limited to) data encryption, firewalls and server authentication to protect the security of your data. All Group companies, all our staff and whenever we hire third parties to provide support services, we will require them to observe our privacy standards and to allow us to audit them for compliance.
+
+Cookies
+
+You should read our Cookie Policy to find out more about how HSBC and our trusted partners use cookies, which is relevant to your experience on this website.
+
+Web beacons and spotlight tags
+
+This website may contain electronic images, known as web beacons or spotlight tags. These enable us to count users who have visited certain pages on the website. Web beacons and spotlight tags are simply tools used to obtain generic information about the web pages visited. They are not used to obtain information about specific users.
 
 Changes
 
@@ -260,7 +278,7 @@ E-mail alert service
 
 We may, at our discretion, provide an e-mail alert service (the "**Service**") allowing you to receive alerts relating to HSBC Holdings plc and/or such other parties or matters as we may include from time to time. 
 
-Your use of the Service will result in us holding the data you submit for use of the Service. The data will be held in the USA and will only be used to provide you with the information you have requested receiving via the Service or for statistical analysis. By using the Service, you agree to us holding and using your data as indicated above.
+Your use of the Service will result in us holding the data you submit for use of the Service. The data will be held in the UK and will only be used to provide you with the information you have requested receiving via the Service or for statistical analysis. By using the Service, you agree to us holding and using your data as indicated above.
 
 We may at any time at our discretion withdraw the Service and/or your use of it.
 
@@ -268,13 +286,13 @@ The provisions under "No warranties" in these Terms and Conditions shall apply a
 
 Trademarks and copyright
 
-Copyright in the pages, screens, information, and all material in their arrangement, included in the Site or any Local site is owned by or licensed to us or the HSBC Group unless otherwise noted. You may imprint, copy download or temporarily store extracts from the Site or any Local site for your personal information or when you use any products and services of any Local Site. You may not alter or otherwise make any changes to any material that you print or download from the Site or any Local Site, including, without limitation, removing any identifying marks or legends from such material. You may not distribute these materials to others. Any other use is prohibited unless you first request and obtain our written permission. In particular no one may use a part of the Site or any Local site on any other website, or link any other website to the Site or any Local Site, without our prior written permission or the consent of the relevant HSBC Group member.
+Copyright in the pages, screens, information, and all material in their arrangement, included in the Site or any Local site is owned by or licensed to us or the HSBC Group unless otherwise noted. You may imprint, copy, download or temporarily store extracts from the Site or any Local site for your personal information or when you use any products and services of any Local Site. You may not alter or otherwise make any changes to any material that you print or download from the Site or any Local Site, including, without limitation, removing any identifying marks or legends from such material. You may not distribute these materials to others. Any other use is prohibited unless you first request and obtain our written permission. In particular, no one may use a part of the Site or any Local site on any other website, or link any other website to the Site or any Local Site, without our prior written permission or the consent of the relevant HSBC Group member.
 
 Content from a third party provider available on or through the Site or any Local Site may not be duplicated, distributed, published, transferred, transmitted, copied, altered, sold, used to create derivative works or otherwise misused. You must comply with all terms disclosed to you as required from time to time by any third party supplier of data or services to the Site or any Local Site, including but not limited to, where necessary, entering into a direct agreement with such third party in respect of your use of their data.
 
 You may not use the Site or any Local site for any purpose which is unlawful, abusive, libelous, obscene or threatening.
 
-**HSBC** is a trademark of the **HSBC Holdings plc** and all rights in and to **HSBC** vest in **HSBC Holdings plc**. Other than as provided above you may not use or reproduce the **HSBC** trademark, logo or brand name.
+**HSBC** is a trademark of **HSBC Group Management Services plc** and all rights in and to **HSBC** vest in **HSBC Group Management Services plc**. Other than as provided above you may not use or reproduce the **HSBC** trademark, logo or brand name.
 
 Not intended for children
 
@@ -377,7 +395,6 @@ Follow us
 *   YouTube
 
 *   Terms and conditions
-*   Privacy policy
 *   Cookie policy
 *   Accessibility policy
 *   © Copyright HSBC Group 2016
