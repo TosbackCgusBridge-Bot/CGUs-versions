@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Hurricane Matthew threatens U.S. East Coast Get the latest forecast from NOAA's National Hurricane Center AROUND NOAA // Celebrate National Seafood Month Hurricane preparedness video: What is storm surge? 4 new billion-dollar disasters bump year-to-date total to 12
+Enter Search Terms Hurricane Matthew threatens U.S. East Coast Get the latest forecast from NOAA's National Hurricane Center AROUND NOAA // Celebrate National Seafood Month Hurricane prep, response, recovery resources from the National Ocean Service Hurricane preparedness video: What is storm surge? 4 new billion-dollar disasters bump year-to-date total to 12
 
 *   About our agency
 *   News and features
