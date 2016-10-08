@@ -307,6 +307,7 @@ menu 0
     FEATURED SHOPS
     
     *   New Arrivals
+    *   Holiday Shop
     *   Supima Bedding &. Bath
     *   Flannel Bedding
     *   No Iron Bedding
@@ -345,25 +346,37 @@ menu 0
     *   Greenery
     
     ENTERTAINING >.
-    
     *   Table Linens
     *   Glassware
     *   Serveware
-    *   Food &. Candy
+    *   Food &. CandyKids Room >. Dog Shop >.
+*   Gifts
     
-    KIDS ROOM >.
+    *   Lands' End
+    *   Lands' End
+    *   Lands' End
+    *   Lands' End
+    *   Business Outfitters
     
-    *   Seasonal Totes
-    *   Sleeping Bags
-    *   Kids Bedding
-    *   Bean Bag Chairs
-    *   Baby Blankets
-    *   Toys &. Gifts
+    FEATURED SHOPS
     
-    DOG SHOP >.
-    *   Dog Jackets
-    *   Dog Beds
-    *   Dog Toys &. Treats
+    *   Holiday Shop
+    *   Stockings &. Stuffers
+    *   Host &. Hostess Gifts
+    *   Personalized Gifts
+    *   Sleep Shop
+    *   Favorite Gifts
+    *   Mad for Plaid
+    *   Soft &. Cozy
+    *   Splurges-Luxury
+    
+    GREAT GIFTS
+    *   For Her
+    *   For Him
+    *   For Girls
+    *   For Boys
+    *   For Home
+    *   For Dog
 
 *   Lands' End
 *   Canvas by Lands' End
@@ -646,6 +659,7 @@ menu 0
     Back | Home FEATURED SHOPS Back | Home
     
     *   New Arrivals
+    *   Holiday Shop
     *   Supima Bedding &. Bath
     *   Flannel Bedding
     *   No Iron Bedding
@@ -684,25 +698,37 @@ menu 0
     *   Greenery
     
     ENTERTAINING Back | ENTERTAINING
-    
     *   Table Linens
     *   Glassware
     *   Serveware
-    *   Food &. Candy
+    *   Food &. CandyKids Room Back | Kids Room Dog Shop Back | Dog Shop
+*   Gifts
     
-    KIDS ROOM Back | KIDS ROOM
+    *   Lands' End
+    *   Lands' End
+    *   Lands' End
+    *   Lands' End
+    *   Business Outfitters
     
-    *   Seasonal Totes
-    *   Sleeping Bags
-    *   Kids Bedding
-    *   Bean Bag Chairs
-    *   Baby Blankets
-    *   Toys &. Gifts
+    Back | Gifts FEATURED SHOPS Back | Gifts
     
-    DOG SHOP Back | DOG SHOP
-    *   Dog Jackets
-    *   Dog Beds
-    *   Dog Toys &. Treats
+    *   Holiday Shop
+    *   Stockings &. Stuffers
+    *   Host &. Hostess Gifts
+    *   Personalized Gifts
+    *   Sleep Shop
+    *   Favorite Gifts
+    *   Mad for Plaid
+    *   Soft &. Cozy
+    *   Splurges-Luxury
+    
+    GREAT GIFTS Back | GREAT GIFTS
+    *   For Her
+    *   For Him
+    *   For Girls
+    *   For Boys
+    *   For Home
+    *   For Dog
 
 Customer Service Menu
 
