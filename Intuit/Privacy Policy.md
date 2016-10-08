@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.1
 *   customer service
     
 
-true true C15436510367
+true true C15436988537
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Thu Oct 06 11:15:41 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p15.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Fri Oct 07 11:14:36 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -56,7 +56,7 @@ Our Biggest Columbus Day Sale &. Clearance
 
 In Store and Online | Ends October 10
 
-Shop Sale View Store Ad Shop ClearanceIn Store Only Savings Like Never Before Extra 20% Off With Your JCPenney Card Plus, Extra 10% Off Select Items Including Electrics &. Electronics
+Shop Sale View Store Ad Shop Clearance In Store Only Savings Like Never Before Extra 20% Off With Your JCPenney Card Plus, Extra 10% Off Select Items Including Electrics &. Electronics
 
 \*Credit offers subject to credit approval.
 
@@ -64,7 +64,7 @@ Get Coupon Exclusions &. Details 30 to 50% Off\* Home Sale
 
 Select styles
 
-Shop All Home Shop Curtains &. Drapes Shop Furniture &. Mattresses Shop Kitchen &. Dining Shop BeddingUp to 30% Off\* Major Appliances
+Shop All Home Shop Curtains &. Drapes Shop Furniture &. Mattresses Shop Kitchen &. Dining Shop Bedding Up to 30% Off\* Major Appliances
 
 Select styles
 
@@ -80,11 +80,11 @@ Available on qualifying major appliance purchases made through 10/23/16 on a JCP
 
 Don't have a JCPenney Credit Card?
 
-Apply Now:Free Delivery &. Basic Installation
+Apply Now: Free Delivery &. Basic Installation
 
 On all appliance purchases over $299
 
-Get Details:JCPenney Rewards Shop &. Get Rewards
+Get Details: JCPenney Rewards Shop &. Get Rewards
 
 For points earned on major appliances+
 
@@ -146,7 +146,7 @@ Shop Now: Sephora New Beauty Arrivals: Homecoming 2016
 
 Everything you need for the big dance.
 
-Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Oct 06 23:15:42 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Oct 06 23:15:42 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Oct 07 23:15:44 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Oct 07 23:15:44 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
