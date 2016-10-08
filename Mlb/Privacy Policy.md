@@ -51,7 +51,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   GetGreat.com
     
     Featured
-    *   Double Plays
+    *   MLB Tonight
     *   MLB Moments
     *   Must C
     *   Chatting Cage
@@ -61,6 +61,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Cut4
     *   Game Changers
     *   Baseball's Best Moments
+    *   Double Plays
 *   Stats Stats Stats
     *   Postseason Sortable Stats
     *   Regular Season Sortable Stats
@@ -71,7 +72,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Milestone Tracker
     *   Offseason Leagues
     *   Scoring Changes
-    *   GlossaryQuicken Loans Sortable Stats
+    *   GlossarySortable Stats
 *   Standings Standings Standings
     *   2016 Regular Season Standings
     *   2016 Wild Card Standings
