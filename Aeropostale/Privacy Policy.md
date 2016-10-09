@@ -3,7 +3,6 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
-    *   Meet Aly Raisman
     *   Prince + Fox
     *   Cape Juby
     *   Uniform
@@ -46,7 +45,6 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
-    *   Meet DeAndre Yedlin
     *   Prince &. Fox
     *   Cape Juby
     *   Uniform
