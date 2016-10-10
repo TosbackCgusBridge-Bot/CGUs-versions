@@ -142,6 +142,33 @@ Attn: Privacy
 
   
 
+*   About
+    *   Corporate Profile
+    *   Leadership
+    *   Investor Relations
+    *   Newsroom
+    *   Community Involvement
+    *   Careers
+    *   Environmental Sustainability
+*   Support
+    *   Pay Your Bill &. Manage Your Account
+    *   Contact Us
+    *   General FAQs
+    *   Service Coverage Map
+    *   Site Map
+*   Legal &. Regulatory
+    *   Privacy Policy
+    *   CPNI
+    *   Copyright Infringement
+    *   Internet Terms &. Conditions of Service
+    *   Regulatory Notices
+    *   PO Terms &. Conditions
+    *   Tariffs, RTCs, Price Lists and Catalogs
+    *   Service Agreements
+    *   Consumer Disclosures – BIAS
+*   Connect With Us
+    
+
 Terms, conditions, charges and restrictions apply. Speed and uninterrupted service not guaranteed. Not all services available in all areas. Services subject to change.
 
 © 2016 FairPoint Communications, Inc. All rights reserved.
