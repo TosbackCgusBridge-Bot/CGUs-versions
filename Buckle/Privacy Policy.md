@@ -226,7 +226,7 @@
           
         ENTER NOW!
 *   Sale
-    *   *   Women's Sale
+    *   *   Women's Sale/Factory Seconds
         
         *   T-Shirts
         *   Jeans
@@ -237,7 +237,7 @@
         *   Factory Seconds
         *   Shop All
         
-        *   Men's Sale
+        *   Men's Sale/Factory Seconds
         
         *   T-Shirts
         *   Jeans
