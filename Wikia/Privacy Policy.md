@@ -11,7 +11,7 @@ Create your own wiki and find a community of people who all love what you love.
 
 Create a wiki
 
-Date of Last Revision: June, 2016
+Date of Last Revision: October, 2016
 
 This policy outlines the information Wikia collects, how we use that information, and how you can control how your information is shared. This policy applies only to Wikia and Fandom, powered by Wikia (collectively, the “Service” or “Site”), operated by Wikia, Inc. (the "Company"). Please be aware that when you follow a link to another site, this privacy policy does not apply, and Wikia has no control over what information they collect from you. Please further note that in the event that this policy conflicts with our terms of use, the terms of use controls.
 
