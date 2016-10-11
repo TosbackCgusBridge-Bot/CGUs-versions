@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 10.490,86ǀ
+*   DAX 10.624,08ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -582,6 +582,27 @@ Sie können Ihre Mitgliedschaft bei einestages durch schriftliche Mitteilung an 
 
 (7)  
 Gerichtsstand ist Hamburg. Es gilt deutsches Recht.
+
+Gliederung
+
+**A) Allgemeine Nutzungsbedingungen**
+
+*   1\. Geltungsbereich
+*   2\. Verfügbarkeit
+*   3\. Eröffnung eines Benutzerkontos
+*   4\. Pflichten des Nutzers
+*   5\. Nutzungsumfang
+*   6\. Datenschutz
+*   7\. Gewährleistung und Haftung
+*   8\. Leistungsänderung
+*   9\. Kündigung
+*   10\. Schlussbestimmungen
+
+**B) Besondere Nutzungsbedingungen**
+
+*   1\. Forum
+*   2\. Reise
+*   3\. einestages.de
 
 Zur Startseite Diesen Artikel...
 
