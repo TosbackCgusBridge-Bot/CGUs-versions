@@ -17,7 +17,7 @@ SEG1 hp
 
 Office Depot Deals
 
-h1XfpBc-iJimD0\_sqVtfHB1
+g1IkTheAXKgIhPIom2TPcA0
 
 Search Suggestions
 
@@ -141,11 +141,11 @@ Investor Relations Media Relations Corporate Citizenship Need Help?
 *   Customer Service
 
 Chat not available Talk with a Representative  
-Chat Now Formed by the merger of Office Depot and OfficeMax, Office Depot, Inc. is a leading global provider of products, services, and solutions for every workplace  whether your workplace is an office, home, school, or car.  
+Chat Now Office Depot, Inc. is a leading global provider of products, services, and solutions for every workplace  whether your workplace is an office, home, school or car.  
   
-Office Depot, Inc. is a resource and a catalyst to help customers work better. We are a single source for everything customers need to be more productive, including the latest technology, core office supplies, facilities products, furniture, and school essentials. The company also provides a variety of services including copy and print, technical services, mailing and shipping.  
+Office Depot, Inc. is a resource and a catalyst to help customers work better. We are a single source for everything customers need to be more productive, including the latest technology, core office supplies, print and document services, business services, facilities products, furniture, and school essentials.  
   
-The company serves consumers and businesses in 57 countries with more than 2,000 retail stores, award-winning e-commerce sites and a dedicated business-to-business sales organization  all delivered through a global network of wholly owned operations, joint ventures, franchisees, licensees and alliance partners. The company operates under several banner brands including Office Depot, OfficeMax, OfficeMax Grand &. Toy, Reliable and Viking. Office Depot and OfficeMax features products from brands consumers trust such as HP, Samsung, Xerox, Hammermill, Post-It, Keurig, Bic, Brother, HON, Scotch and Dell. The companys portfolio of exclusive product brands include TUL, Foray, DiVOGA, Ativa, WorkPRO, Realspace and HighMark.  
+The Company has annual sales of approximately $14 billion, employs approximately 49,000 associates, and serves consumers and businesses in 59 countries with approximately 1,800 retail stores, award-winning e-commerce sites and a dedicated business-to-business sales organization  all delivered through a global network of wholly owned operations, franchisees, licensees and alliance partners. The Company operates under several banner brands including Office Depot, OfficeMax, Grand &. Toy, and Viking. The companys portfolio of exclusive product brands include TUL, Foray, Brenton Studio, Ativa, WorkPro, Realspace and HighMark.  
   
 Office Depot, Inc.s charitable arm, The Office Depot Foundation, supports programs that enhance quality of life for children, strengthen communities, encourage local and international economic growth, and empower schools and non-profit organizations. Office Depot and OfficeMax also provides resources and support to small businesses through its Business Solutions Center. The center provides informative tips, advice, articles, videos and more designed to help businesses achieve their goals. validation failed, try again after sometime.
 
