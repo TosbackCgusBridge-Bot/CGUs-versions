@@ -15,11 +15,9 @@ This JavaScript enables OnlineOpinion, a method for collecting secure feedback d
 *   **Cart 0**
 
 *   Financial &. Risk
-*   Intellectual Property
+*   Innovation
 *   Legal
-*   Life Science
 *   Reuters New Agency
-*   Scholarly &. Scientific Research
 *   Tax &. Accounting
 
 Skip to content Skip to navigation menu **Your browser is not supported by this site.** Please update to the latest version, or use a different browser for the best experience. Learn more
