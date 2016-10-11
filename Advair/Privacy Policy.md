@@ -364,9 +364,6 @@ Menu
     *   Meet our people
     *   Experienced professionals
     *   Internships and co-ops
-        *   Internships and co-ops
-        *   About the intern/co-op program
-        *   Our internship/co-op work locations
     *   Undergraduates
     *   MBA and Graduate Students
         *   MBA and Graduate Students
