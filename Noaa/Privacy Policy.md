@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Hurricane Matthew is threatening the East Coast — Make sure you know what to do before, during and after the storm Weather Oceans &. Coasts Hurricane preparedness video: What is storm surge? National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheries Fresh tips for savoring sustainable seafood Weather Oceans &. Coasts Hurricane preparedness video: What is storm surge? National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Get hurricane prep, response, recovery resources from the National Ocean Service AROUND NOAA // Celebrate National Seafood Month 4 new billion-dollar disasters bump year-to-date total to 12 Hurricane preparedness video: What is storm surge?
+Enter Search Terms Aerial photos of Matthew damage now available online High-resolution images taken by NOAA's National Geodetic Survey AROUND NOAA // Get hurricane recovery resources from NOAA's National Ocean Service Celebrate National Seafood Month White House honors innovators in sustainable seafood
 
 *   About our agency
 *   News and features
