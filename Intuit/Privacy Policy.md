@@ -6,7 +6,7 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.1
 *   registry
 
 *   my account
-*   saved items: (3)
+*   no saved items
 *   recommendations
 *   track order
 *   ship to
@@ -14,12 +14,12 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.1
 *   customer service
     
 
-*   Hello  PHYLLIS
+*   Hello  
 *   (sign out)
     
 *   my account
 
-*   saved items: (3)
+*   no saved items
 *   recommendations
 *   track order
 *   ship to
@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.1
 *   customer service
     
 
-true true C15444009700
+true true C15449674859
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Mon Oct 10 11:08:43 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Tue Oct 11 11:07:06 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -52,101 +52,27 @@ Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Our Biggest Columbus Day Sale &. Clearance
+Levi's Lowest Prices of the Season\*
 
-In Store and Online | Ends October 10
+\*Pricing also applies to 505, 517, 527, 550, 559 and chino. Levi's "Lowest Prices of the Season" refers to the time period through 10/24. Prices may be further reduced on items as a part of clearance in the future. offers and coupons do not apply.
 
-Shop Sale View Store Ad Shop Clearance In Store Only Savings Like Never Before Extra 20% Off With Your JCPenney Card Plus, Extra 10% Off Select Items Including Electrics &. Electronics
+34.99 Guys' Levi's 514 Straight-fit Jeans, reg. $59.50 Shop Guys' Levi's  19.99 Boys' Levi's 505 Regular 550 Relaxed or 514 Straight-fit Jeans, select styles, msrp $40 Shop Boys' Levi's  29.99 Levi's 505 Straight-leg Jeans for her, select styles, msrp $48 Shop Levi's for Her   40 to 50% Off Xersion Activewear for the Family
 
-\*Credit offers subject to credit approval.
+Select styles, reg. $14-$60
 
-Get Coupon Exclusions &. Details 30 to 50% Off\* Home Sale
+Shop Men Xersion Activewear   Shop Women Xersion Activewear   Shop Boys Xersion Activewear   Shop Girls Xersion Activewear   29.99 Stylus Flare Jeans
 
-Select styles
+Select styles, reg. $50
 
-Shop All Home Shop Curtains &. Drapes Shop Furniture &. Mattresses Shop Kitchen &. Dining Shop Bedding Up to 30% Off\* Major Appliances
-
-Select styles
-
-Shop Major Appliances:
-
-\*GE, GE Profile &. GE Cafe limited to 10% off savings.
-
-Major Appliances Now Online &. In Select Stores! 18 Months or 30 Months Special Financing\*\*
-
-Available on qualifying major appliance purchases made through 10/23/16 on a JCPenney Credit Card. Must request at time of purchase.
-
-\*\*Get Details:
-
-Don't have a JCPenney Credit Card?
-
-Apply Now: Free Delivery &. Basic Installation
-
-On all appliance purchases over $299
-
-Get Details: JCPenney Rewards Shop &. Get Rewards
-
-For points earned on major appliances+
-
-+Get Details:
-
-Need help? Call 1-844-JCP-APPL (1-844-527-2775)
-
-Delivery not available in all markets.
-
-Get Details: 5 Days of Fall Deals In Store &. Online | Ends October 10
-
-Use your coupon and save even more!
-
-9.99 Boys’ Arizona Graphic Tee Or Girls’ Total Girl Tops
-
-Select styles
-
-Shop Boys' Arizona Graphic Tees Shop Total Girl Tops     LOWEST PRICE OF THE SEASON 34.99 Guys’ Levi’s® 514™ Straight Fit Jeans\*
-
-Select styles, reg. 59.50
-
-Shop Guys' Levi's
-
-\*Levi’s® “Lowest Prices of the Season” refers to the time period through 10/24. Prices may be further reduced on items as a part of clearance in the future. Offers and coupons do not apply.
-
-14.99 AFTER $10 MAIL-IN REBATE Cooks Power Blender, Nonstick Griddle Or 6-Qt. Slow Cooker
-
-Select styles, sale 24.99, reg. $40-$50
-
-Shop Cooks Small Appliances 4.99 Baby Or Toddler Okie Dokie Matchups
-
-Select styles, reg. $12
-
-Shop Okie Dokie 17.99 St. John’s Bay Sweater For Him
-
-Select styles, reg. $42
-
-Shop St. John’s Bay 17.99 Stylus Sweater For Her
-
-Select styles, reg. $36
-
-Shop Stylus 29.99 Arizona Booties For Her
-
-Select styles, reg. $60
-
-Shop Booties 14.99 Girls’ Xersion Fleece
+Shop Stylus Flare Jeans Bra Sale | Just Your Style. Just Your Size. Sizes 32A-54I Now Through October 16 Shop Bra Sale19.99 Ambrielle Cotton Bras
 
 Select styles, reg. $30
 
-Shop Girls' Xersion 14.99 Boys’ Xersion Fleece
-
-Select styles, reg. $30
-
-Shop Boys' Xersion Diamond Sale Up To 60% Off Fine Jewelry | End October 23
-
-Select styles
-
-Shop Fine Jewelry Sephora Hot Now Explore Now: SportsFanShop
+Shop Ambrielle Cotton Bras Sephora Hot Now Explore Now: SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop Now: JCPenney | optical 60% Off Complete Pair of Eyeglasses Plus $50 Off HD Lenses Get Details: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Oct 10 23:15:37 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Oct 10 23:15:37 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now: JCPenney | optical 60% Off Complete Pair of Eyeglasses Plus $50 Off HD Lenses Get Details: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Oct 11 23:15:41 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Oct 11 23:15:41 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
