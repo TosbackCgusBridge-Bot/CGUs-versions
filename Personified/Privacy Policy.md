@@ -25,11 +25,9 @@ Sign In or Sign Up
     *   View All Products
 *   Post a Job
     *   Buy Job Postings
-    *   Edit My Jobs
     *   About Job Postings
 *   Search Resumes
     *   Buy Resume Database Access
-    *   Sign in to Search Resumes
     *   About Resume Database
 *   Resource Center
 
@@ -38,6 +36,9 @@ Request Demo
 *   Sign In
 *   $0.00 Cart
 *   Sales: 1.877.345.5256
+
+Already Purchased?  
+Sign In to Your Account!
 
 *   For Job Seekers
 
