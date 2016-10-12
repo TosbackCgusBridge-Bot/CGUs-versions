@@ -154,7 +154,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.com Support Forum
     *   MLB.TV Blackouts
     *   MLB.TV Download Center
-    *   Contact UsMLB.TV US
+    *   Contact Us
 *   Auction
 *   Fantasy Fantasy Fantasy
     *   Postseason Bracket Challenge
