@@ -152,9 +152,7 @@ _Behavioral Targeting/Re-Targeting_.  We partner with third party ad networks t
 
 **How You Can Change or Control what is Collected:**
 
-_Cookies_. Most web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. You may stop or restrict cookies on your computer or purge them from your browser by adjusting your web browser preferences. If you would prefer that we not collect anonymous data that may be used to help determine which advertisements to serve you, opt out by clicking this icon
-
-,which can be found on most of our webpages. However, if you “turn off,” purge, or disable cookies, although you may still use our websites, you may not be able to use all of the features, functions, or services available on our websites.
+_Cookies_. Most web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. You may stop or restrict cookies on your computer or purge them from your browser by adjusting your web browser preferences. If you would prefer that we not collect anonymous data that may be used to help determine which advertisements to serve you, opt out by clicking this icon ,which can be found on most of our webpages. However, if you “turn off,” purge, or disable cookies, although you may still use our websites, you may not be able to use all of the features, functions, or services available on our websites.
 
 _Digital Advertising Alliances_. The Digital Advertising Alliance (DAA) is an independent non-profit organization that collaborates with businesses, public policy groups, and public officials to ensure that the high standards for consumer privacy, transparency and control are addressed and enforced.
 
