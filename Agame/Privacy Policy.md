@@ -100,12 +100,12 @@ View more results
     Join for free
 *   Hot Games
     
-    *   Slotomania
-    *   Age of Cavemen
-    *   Summer Sports: Diving
-    *   Trollface Quest TrollTube
-    *   Toss A Paper MP
-    *   Wheely 8: Aliens
+    *   Tap Adventure: Time Travel
+    *   Klondike - the lost expedition
+    *   Troll Face Quest Video Games
+    *   My Dolphin Show 8
+    *   Jewel Academy
+    *   SuperOrbit.io
     
     Mobile Apps More
     
