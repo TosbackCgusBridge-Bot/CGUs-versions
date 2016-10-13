@@ -11,7 +11,7 @@
 
 MENU **IS**
 
-*   Starting at $37,325\*
+*   Starting at $37,825\*
 *   2.0L I-4 or 3.5L V6
 
 *   Build
