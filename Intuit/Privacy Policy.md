@@ -27,9 +27,9 @@ JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing - JCPenney2016.1
 *   customer service
     
 
-true true C15449674859
+true true C15453422140
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Tue Oct 11 11:07:06 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Wed Oct 12 11:14:58 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -72,7 +72,7 @@ Shop Ambrielle Cotton Bras Sephora Hot Now Explore Now: SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop Now: JCPenney | optical 60% Off Complete Pair of Eyeglasses Plus $50 Off HD Lenses Get Details: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Oct 11 23:15:41 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Oct 11 23:15:41 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now: JCPenney | optical 60% Off Complete Pair of Eyeglasses Plus $50 Off HD Lenses Get Details: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Oct 12 04:23:06 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Oct 12 23:15:37 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
