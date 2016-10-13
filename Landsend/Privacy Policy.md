@@ -24,7 +24,7 @@ skip to content skip to navigation skip to search
     *   Sign Out
 *   Bag 0
 
-1.800.963.4816
+Call or text us 1-800-963-4816
 
 *   Stores
 *   Gift Cards
@@ -389,7 +389,7 @@ menu 0
 *   Stores
 *   Gift Cards
 *   Ship To 
-*   1.800.963.4816
+*   Call or text us 1-800-963-4816
 
 *   Women
     
@@ -919,7 +919,7 @@ No purchase necessary. Automated marketing messages will be sent to the phone nu
 
 Customer Service
 
-*   **800-963-4816**
+*   **Call or text us 1-800-963-4816**
 *   **Live Chat**
 *   Help Center
 *   Guaranteed. Period.®
@@ -927,6 +927,7 @@ Customer Service
 *   Contact Us
 *   Shipping
 *   Returns
+*   Site Map
 
 Company
 
