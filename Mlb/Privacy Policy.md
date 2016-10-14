@@ -102,7 +102,8 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
 *   Tickets Tickets Tickets
     *   General Ticket Information
     *   2016 Postseason Ticket Terms &. Polices
-    *   StubHub.com2017 Schedule 2017 Season Tickets Bank of America Big League Tours
+    *   StubHub.com
+    *   Big League Tours2017 Season Tickets Big League Tours Bank of America 2017 Schedule
 *   Apps Apps Apps
     *   At Bat app
     *   At Bat on Tablets
