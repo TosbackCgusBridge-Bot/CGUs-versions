@@ -146,15 +146,15 @@
         *   Tops
         *   Coats/Jackets
         *   Jeans
-        *   Shorts
+        *   Sweatshirts
         *   Shop All
         
         *   Boy's Clothing
         
         *   Shirts
         *   Jeans
-        *   Boardshorts
-        *   Shorts
+        *   Outerwear
+        *   Socks
         *   Shoes
         *   Shop All
         
@@ -197,7 +197,7 @@
         
         *   T-Shirts
         *   Jeans
-        *   Shorts
+        *   Sweatshirts
         *   Coats/Jackets
         *   Shirts/Blouses
         *   Shoes
@@ -207,7 +207,7 @@
         
         *   T-Shirts
         *   Jeans
-        *   Shorts
+        *   Sweatshirts
         *   Shirts
         *   Shoes
         *   Raglans
