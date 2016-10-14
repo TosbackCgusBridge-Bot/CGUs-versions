@@ -80,6 +80,10 @@ Login Let's Connect What We Do Watch Video
     
     New Report With Econsultancy  
     
+*   Don’t Talk to Digital Strangers
+    
+    How to have true 1:1 conversations  
+    
 *   A Clearer Path to Ad Quality
     
     Our industry-leading partnership with TAG
@@ -91,10 +95,6 @@ Login Let's Connect What We Do Watch Video
 *   Success You Can Measure
     
     The essential way to gauge campaigns
-    
-*   Ads They'll Actually Like
-    
-    A marketer's ad-delivery checklist  
     
 
 NEW GUIDE
