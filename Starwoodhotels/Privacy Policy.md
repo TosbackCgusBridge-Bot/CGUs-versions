@@ -35,7 +35,7 @@ Starwood Hotels &. Resorts Worldwide, LLC Online Privacy Statement
 
 **Our Mission**
 
-We at Starwood Hotels &. Resorts Worldwide, LLC (a subsidiary of Marriot International, Inc.) (“Starwood”) are dedicated to protecting your privacy and safeguarding your personal data. Our mission is to consistently exceed our guests' expectations in terms of the products and services we provide to our business and leisure travelers. We strive to create an experience that is responsive to our guests' needs by using the information you entrust us with responsibly. We are committed to respecting your privacy and adhering to the principles of applicable data protection and privacy laws throughout the world.
+We at Starwood Hotels &. Resorts Worldwide, LLC (a subsidiary of Marriott International, Inc.) (“Starwood”) are dedicated to protecting your privacy and safeguarding your personal data. Our mission is to consistently exceed our guests' expectations in terms of the products and services we provide to our business and leisure travelers. We strive to create an experience that is responsive to our guests' needs by using the information you entrust us with responsibly. We are committed to respecting your privacy and adhering to the principles of applicable data protection and privacy laws throughout the world.
 
 We have provided this Privacy Statement as an explanation of how we collect, how the use of this information can benefit your experience on our web sites and during your relationship with us, with whom and for what purposes we may share the information, and the choices you can make about our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
 
