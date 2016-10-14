@@ -1,4 +1,4 @@
-Toggle navigation  
+Toggle navigationSuperpages Online Yellow Pages, Local Business Directory
 
 *   Find
     *   People
@@ -14,18 +14,23 @@ Toggle navigation  
     *   Popular Categories
     
     *   State Directory
+*   Advertise With Us
 
 *   Join
 *   •
 *   Sign In
 
-X Change City
+*   *   Welcome {{user.username | limitTo:15}}{{user.username.length >. 15 ? "..." : ""}}
+    *   My Superpages
+    *   Sign out
 
-*   Home
-*   About Us &. Help
-*   Privacy Policy
+ 
 
-Privacy Policy - Straight talk about Internet privacy
+1.  Home
+2.  About Us &. Help
+3.  Privacy Policy
+
+, Privacy Policy - Straight talk about Internet privacy
 
 Dex One Service, Inc. ("Dex One") and SuperMedia Inc. ("SuperMedia") and any company that is directly or indirectly controlled by, or under common control with Dex One or SuperMedia (collectively, "Dex Media") respects your right to privacy, and we want you to be aware of how we collect and handle information on each website and mobile application covered by this policy.
 
@@ -67,7 +72,7 @@ Protect Dex Media’s Property or Other Rights.In addition, Dex Media may use, s
 
 Improve Website and Targeted Advertising. We use, store and/or share information Dex Media automatically collects through This Website to improve This Website, to monitor its performance, to make This Website easier for you and other users to use, to manage features and programs made available through This Website and to provide behavioral tracking data to non-“Dex Media Family” companies, with which we have agreements, for the purpose of presenting you with, among other things, targeted advertising on third party websites. For example, Dex Media may use information Dex Media automatically collects in the ways described in the section entitled "What is a cookie and why does Dex Media use them?", below.
 
-Mobile Advertising. We use information Dex Media automatically collects through the Mobile Products to improve our mobile products, to monitor its performance, to make Mobile Products easier for you and other users to use, to manage features and programs made available through Mobile Products. Click here to view the Mobile Privacy Policy.
+Mobile Advertising.We use information Dex Media automatically collects through the Mobile Products to improve our mobile products, to monitor its performance, to make Mobile Products easier for you and other users to use, to manage features and programs made available through Mobile Products.Click here to view the Mobile Privacy Policy.
 
 Can I review and request changes to personally identifiable information that I provide through registration forms on This Website?
 
@@ -89,7 +94,7 @@ When we use third party tracking services to help us analyze automatically colle
 
 Finally, we may also disclose information Dex Media automatically collects to non-"Dex Media Family" companies or entities if (a) it is required by law or we believe that such action is necessary in order to conform to the edicts of the law, (b) we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served, (c) we believe that disclosure is necessary to protect the safety of customers, employees or property, or (d) Dex Media transfers all or substantially all of its assets to another entity (in which case Dex Media may disclose, sell and/or otherwise provide information Dex Media automatically collects to such entity).
 
-Please note that Dex Media may support features and content appearing on other companies' sites that you may visit. These companies may collect information about you, but Dex Media does not have control over the privacy practices of these companies. If you are visiting a site that indicates that it is "powered by superpages.com", or if you link to another site from This Website, you are advised to read the privacy policy of that site for its policies regarding information collection and usage.
+Please note that Dex Media may support features and content appearing on other companies' sites that you may visit. These companies may collect information about you, but Dex Media does not have control over the privacy practices of these companies. If you are visiting a site that indicates that it is "powered by superpages.com", or if youlink to another site from This Website, you are advised to read the privacy policy of that site for its policies regarding information collection and usage.
 
 Do you sell my information collected through Mobile Products to companies outside of the "Dex Media Family?"
 
@@ -116,7 +121,7 @@ Non "Dex Media Family" companies with which Dex Media has an agreement may imple
 Google Analytics: Google Analytics may be enabled to collect data about your traffic via the DoubleClick cookie in addition to data collected through the standard Google Analytics implementation. Dex Media will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie unless it has robust notice of, and your prior affirmative (i.e., opt-in) consent to that merger.
 
 *   The Google Analytics features will be implemented based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting).
-*   Using the Ads Settings, you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. Please visit Google Analytics' currently available opt-outs for the web
+*   Using the Ads Settings, you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. Please visit Google Analytics'currently available opt-outs for the web
 *   Dex Media may use Remarketing with Google Analytics to advertise online.
 *   Google may show Dex Media ads on sites across the Internet.
 *   Dex Media and Google also uses first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to This Website.
@@ -129,7 +134,7 @@ Dex Media may send you commercial e-mail messages (unless you have chosen to opt
 
 You may request not to receive (i.e., "opt-out" of receiving) commercial e-mail messages (the primary purpose of which is the commercial advertisement or promotion of a commercial product or service) from us (on a category-by-category basis), by clicking on Update Your Email Preferences (or otherwise visiting the e-mail campaign opt-out page), and following the directions provided on the e-mail campaign opt-out page. If you have previously opted out of receiving commercial e-mail messages related to one or more categories, you may cancel your request to opt-out of (i.e., consent to receive commercial e-mail messages from us related to) such categories (on a category-by-category basis) by clicking on Update Your Email Preferences (or otherwise visiting the e-mail campaign opt-out page), and following the directions provided on the e-mail campaign opt-out page. Please note that we reserve the right to send e-mails to online users, including those who have opted out of receiving commercial e-mail messages, to (a) facilitate, complete or confirm a commercial transaction the user has agreed to enter into with Dex Media or participation in a program the user has selected. (b) provide warranty information, product recall information, or safety or security information with respect to a commercial product or service used or purchased by the user. (c) provide notification concerning a change in the terms or features of, notification of a change in the user's standing or status with respect to, or at regular periodic intervals, account balance information or other type of account statement with respect to, a subscription, membership, account or comparable ongoing commercial relationship involving the ongoing purchase or use by the user of products or services offered by Dex Media. (d) provide information directly related to an employment relationship or related benefit plan in which the user is currently involved, participating or enrolled, (e) deliver goods or services that the user is entitled to receive under the terms of a transaction that the user has previously agreed to enter into with Dex Media, (f) communicate other non-commercial e-mail messages, and (g) communicate commercial e-mail messages that the user consents to receiving.
 
-If you are visiting a site via a link on This Website, you are advised to read the privacy policy of that other site for its policies regarding e-mail. (See section entitled "Do you accommodate links to other sites?", above)
+If you are visiting a site via a link on This Website, you are advised to read the privacy policy of that other site for its policies regarding e-mail. (See section entitled "Do you accommodate links to other sites?",above)
 
 Online Advertising What is Dex Media's position regarding online advertising and third party ad servers?
 
@@ -185,7 +190,7 @@ Here is How to Set Your Cookie Preferences:
 How to Opt-out of Behavioral Tracking Cookies:
 
 We contract with non-“Dex Media Family” companies, with which we have agreements, which use cookies to collect information when you visit This Website. This personally and non-personally identifiable information, collected through cookies, is typically used by third party advertising networks to serve you with advertisements while on third party sites and other forms of media, and those advertisements are tailored to meet your preferences and likely interests.  
-If you do not wish to participate in this activity, please click here and follow the simple opt-out process.
+If you do not wish to participate in this activity, please click hereand follow the simple opt-out process.
 
 Children's Privacy Does Dex Media knowingly collect personal information from children through This Website?
 
@@ -220,12 +225,8 @@ Contact Information Who do I contact if I am concerned, or have questions, about
 *   Patents
 *   Site Map
 
-Claim your Free Listing
+Claim Your Free Listing
 
 Claim your free business listing on Superpages. The more information you provide about your business, the easier it will be for your customers to find you online.
 
-Get your Free Listing Copyright © 2016 Dex Media, Inc. All rights reserved. | Terms &. Conditions | Privacy Policy
-
-Connect with us on
-
-*   Facebook
+Get Your Free Listing Copyright © {{date | date:'yyyy'}} Dex Media, Inc. All rights reserved. | Terms &. Conditions | Privacy Policy Connect with us on
