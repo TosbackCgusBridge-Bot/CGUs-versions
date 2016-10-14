@@ -42,4 +42,9 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 Download Ubuntu
 
-Further reading Find out more at insights.ubuntu.com
+Further reading
+
+*   Unity 8 preview session in Ubuntu 16.10 Yakkety Yak ›
+*   Canonical releases Ubuntu 16.10 ›
+*   Carleton University creates Research Cloud with Ubuntu OpenStack, IBM ›
+*   The new Ubuntu Core 16 beta image is out! ›
