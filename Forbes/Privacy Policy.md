@@ -2,9 +2,9 @@ Log in with your social account: Or, you can log in or sign up using Forbes.
 
 *   Editors' Picks
 *   Podcasts
-*   Most Popular Trump's Wealth
-*   Lists FORBES 400
-*   Video The Issue
+*   Most Popular
+*   Lists
+*   Video
 
 Connect | Sign up | Log in 2 FREE Issues Of Forbes Forbes.com Privacy Statement
 
