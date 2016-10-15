@@ -1,6 +1,6 @@
 Privacy Notice
 
-**Effective Date:** August 31, 2016
+**Effective Date:** October 14, 2016
 
 American Greetings Corporation, and its subsidiaries and affiliates, which include but are not limited to, AG Interactive, Inc., Cardstore.com, Inc., and AGC, LLC (collectively, "AG," "AG Companies," "we," "us," and "our") value our users and their privacy. This Privacy Notice applies to all websites (any, a "Site"), mobile applications (any, an "App"), social features, online services, widgets, downloads, or other outlets, that are owned or controlled by AG and that post or include a link to this Privacy Notice (individually, a "Platform," and collectively, the "Platforms"), regardless of whether accessed by computer, mobile device, or otherwise. By using our services, you accept the practices described in this Privacy Notice. The Platforms include, but are not limited to:
 
@@ -54,12 +54,13 @@ TABLE OF CONTENTS
     4.  Testimonials
 7.  YOUR CONTROL OVER YOUR INFORMATION
 8.  OTHER MATTERS
-    1.  Safe Harbor Compliance
-    2.  Children's Privacy
-    3.  Data Security
-    4.  Changes to the Privacy Notice
-    5.  Consent to Transfer
-    6.  California Residents – Your California Privacy Rights
+    1.  Privacy Shield Compliance
+    2.  Swiss Safe Harbor Compliance
+    3.  Children's Privacy
+    4.  Data Security
+    5.  Changes to the Privacy Notice
+    6.  Consent to Transfer
+    7.  California Residents – Your California Privacy Rights
 9.  CONTACTING US (THE AG COMPANIES)
 
 1.  INFORMATION COLLECTION
@@ -226,38 +227,82 @@ TABLE OF CONTENTS
     
     Back to top
 8.  OTHER MATTERS
-    1.  Safe Harbor Compliance
+    1.  Privacy Shield Compliance
         
-        AG has certified that it adheres to the US-EU and the US-Swiss Safe Harbor Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement for the Platforms. To learn more about the Safe Harbor program, and to view AG's certification, please visit http://www.export.gov/safeharbor/.
+        AG complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the receipt, collection, use, and retention of Personal Information from European Union member countries in reliance on the Privacy Shield. AG has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Principles, and to view AG’s certification, please visit www.privacyshield.gov.
         
-        Subject to certain exceptions, upon request and provided you provide us sufficient information to confirm your identity, we will provide you the Personal Information that we have collected about you for the purpose of enabling you to correct, amend, or delete any inaccuracies. You may make this request by contacting us. If we are not able to provide the information that you are requesting within 30 days of receipt of your request, we will provide you a timeline for providing the requested information. If we deny access to your personal information, we will explain why access was denied and give you contact information for further inquiries regarding the denial of access.
+        In this section regarding Privacy Shield compliance, AG only refers to those AG entities listed on AG’s Privacy Shield certification.
         
-        If you have a complaint regarding our privacy practices that is not resolved after contacting us, AG has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe harbor Principles to an independent dispute resolution mechanism the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if AG does not satisfactorily address your complaint, please visit the BBB EU Safe Harbor Website at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+        AG receives Personal Information collected by certain AG affiliates and transferred pursuant to the EU-US Privacy Shield Framework for the purposes described in this privacy policy. If any such affiliate collects Personal Information under a different Privacy Policy than this one, AG will comply with the stricter policy.
         
-        Back to top
-    2.  Children's Privacy
+        1.  complaints and inquiries
+            
+            In compliance with the EU-US Privacy Shield Principles, AG commits to resolve complaints about its compliance about your privacy and our collection or use of Personal Information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact AG. AG will respond to all such inquiries and complaints within 45 days of receiving them.
+            
+            AG receives access to and processes Personal Information collected by certain affiliates and transferred pursuant to the EU-US Privacy Shield Framework for the purposes described in this privacy policy.
+            
+            Back to top
+        2.  independent recourse
+            
+            AG has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit http://bbb.org/EU-privacy-shield/for-eu-consumers for more information and to file a complaint. If neither AG nor the Council of Better Business Bureaus resolves your complaint, you may have the possibility to engage in binding arbitration before a Privacy Shield Panel.
+            
+            Back to top
+        3.  onward transfer
+            
+            AG maintains contracts with third parties that process Personal Information within the scope of the Privacy Shield. The contracts restrict their access, use, and disclosure of Personal Information in compliance with AG’s Privacy Shield obligations. AG may be liable for damages if such third parties fail to comply with their contractual obligations.
+            
+            Back to top
+        4.  federal trade commission authority
+            
+            AG is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
+            
+            Back to top
+        5.  required disclosures
+            
+            AG may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+            
+            Back to top
+        6.  access
+            
+            AG acknowledges that EU individuals have the right to access the personal information/data that we maintain about them. Subject to certain exceptions, upon request and provided you provide us sufficient information to confirm your identity, AG will provide you with the Personal Information that AG has collected about you for the purpose of enabling you to correct, amend, or delete any inaccuracies. You may make this request by contracting us. If AG is not able to provide the information that you are requesting within 30 days of receipt of your request, AG will provide you a timeline for providing the requested information. If AG denies access to your Personal Information, AG will explain why access was denied and give you contact information for further inquiries regarding the denial of access.
+            
+            Back to top
+        7.  use and choice
+            
+            AG will not process Personal Information about EU individuals maintained in reliance on the Privacy Shield for purposes other than those for which the information was originally obtained or subsequently authorized by the EU individual, unless the individual affirmatively and explicitly consents to the processing, or unless an exception applies. Those EU individuals may contact AG at any time to withdraw consent, in which case the person’s Personal Information will not be further processed. EU individuals may also contact AG to opt out of AG sharing Personal Information with most third parties, excluding those necessary for AG processing, as required by law, or as necessary to protect the AG Companies and its users.
+            
+            Back to top
+    2.  Swiss Safe Harbor Compliance
+        
+        AG complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. AG has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit http://www.export.gov/safeharbor/
+        
+        Subject to certain exceptions, upon request and provided you provide us sufficient information to confirm your identity, AG will provide you the Personal Information that AG has collected about you for the purpose of enabling you to correct, amend, or delete any inaccuracies. You may make this request by contacting us. If AG is not able to provide the information that you are requesting within 30 days of receipt of your request, AG will provide you a timeline for providing the requested information. If AG denies access to your Personal Information, AG will explain why access was denied and give you contact information for further inquiries regarding the denial of access.
+        
+        If you have a complaint regarding our privacy practices that is not resolved after contacting us, AG has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+        
+    3.  Children's Privacy
         
         The Platforms are not intended for children, and AG does not knowingly collect information from persons younger than the age of thirteen (13). If we learn that we have inadvertently collected information from a person younger than the age of 13, we will take commercially reasonable efforts to delete that information from our databases.
         
         Back to top
-    3.  Data Security
+    4.  Data Security
         
         We take commercially reasonable steps to help protect and secure the Personal Information submitted to us against unauthorized or illegal access, modification, or destruction. For example, if you enter sensitive information such as a credit card number and CVC2 number on our checkout forms, we or our service partners use transport layer security (TSL) technology to help protect the sensitive information during transmission. However, please note that transmission over the Internet or wireless networks and the electronic storage of information cannot be guaranteed to be 100% secure. Therefore, we cannot ensure or warrant the security of any information we collect. You use our Platforms and provide us with your information at your own risk.
         
         Back to top
-    4.  Changes to the Privacy Notice
+    5.  Changes to the Privacy Notice
         
         We may change this Privacy Notice at any time without notice to you. We may also provide notice to you in other ways in our discretion, such as through contact information you have provided. Any changes will be effective immediately upon the posting of the revised Privacy Notice. However, unless you consent, we will not use your Personal Information in a manner materially different than what was stated in our posted Privacy Notice at the time your Personal Information was collected.
         
         As always, if you have any questions, please feel free to contact us through our Customer Support Department or via our Legal Department at legal@americangreetings.com.
         
         Back to top
-    5.  Consent to Transfer
+    6.  Consent to Transfer
         
         Please be aware that information we collect through the Platforms may be transferred to and processed in the United States, where the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen. By using the Platforms or providing us with any information, you acknowledge and consent to the transfer, processing and storage of your information in the United States, or such other countries as AG may choose in its sole discretion.
         
         Back to top
-    6.  California Residents – Your California Privacy Rights
+    7.  California Residents – Your California Privacy Rights
         
         California Civil Code section 1798.83 permits California residents to request from AG certain information regarding the disclosure of certain categories of Personal Information to third parties for their direct marketing purposes within the immediately preceding calendar year. A company may also comply with the law by disclosing in its privacy notice that it provides consumers choice (opt-out or opt-in) regarding sharing Personal Information with third parties for those third parties' direct marketing purposes (as AG does), and information on how to exercise that choice.
         
