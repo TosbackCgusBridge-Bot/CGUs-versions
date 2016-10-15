@@ -16,10 +16,9 @@ This notice provides highlights of the full privacy policy which currently appli
 
 What's New
 
-*   The AOL Privacy Policy was updated effective 6/23/2015.
-*   More information about our use of Cookies, Web Beacons, and Other Technologies.
+*   The AOL Privacy Policy was updated effective 9/29/2016.
+*   Updated information related to International Users.
 *   Updated information related to your Mobile Choices.
-*   More information about Advertising, Analytics, and Privacy.
 
 How to Opt-Out
 
