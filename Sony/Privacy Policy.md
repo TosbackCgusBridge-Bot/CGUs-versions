@@ -92,9 +92,9 @@ SONY
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! PlayStation VR Is Like Nothing Else You've Ever Experienced
+Your browser does not support JavaScript! The Moment When You Lose Yourself in a New World
 
-Test It Out Today
+Experience PlayStation®VR Today
 
 Sony on Vine
 
@@ -102,9 +102,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-Watch Sony's PSVR Get Broken Down to Its Very Last Compound.
+Welcome to the next chapter of gaming history.
 
-2016-10-11 22:51:40+00:00
+2016-10-14 10:05:03+00:00
 
 View Tweet
 
@@ -208,9 +208,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-The legends of @depechemode will be embarking on a WORLD TOUR in support of their album #Spirit, coming soon.
+BREAKING 2016 #NobelPrize in Literature to Bob Dylan “for having created new poetic expressions within the great American song tradition”
 
-2016-10-12 01:55:01+00:00
+2016-10-13 05:00:00+00:00
 
 View Tweet
 
