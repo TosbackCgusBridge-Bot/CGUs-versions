@@ -139,7 +139,7 @@ By phone: (888) 206-6088
   
 By email  
   
-**International users**  
+**International Users**  
   
 AOL is based in the United States, and, regardless of where you use our Services or otherwise provide information to us, the information may be transferred to and maintained on servers located in the U.S. Please note that any information we obtain about you will be stored in accordance with U.S. privacy laws, regulations, and standards, which may not be equivalent to the laws in your country of residence. By using our Services or by providing us with your information, you consent to this collection, transfer, storage, and processing of information to and in the United States. Learn more.  
   
