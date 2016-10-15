@@ -103,7 +103,7 @@ View more results
     *   Tap Adventure: Time Travel
     *   Klondike - the lost expedition
     *   Troll Face Quest Video Games
-    *   My Dolphin Show 8
+    *   Doodle Creatures
     *   Jewel Academy
     *   SuperOrbit.io
     
