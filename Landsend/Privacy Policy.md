@@ -138,6 +138,7 @@ menu 0
     *   New Arrivals
     *   Ultimate Coat Finder
     *   Hats, Gloves &. Scarves
+    *   Holiday Looks
     *   School Uniforms
     *   Iron Knee Pants
     *   Girls' Knit Kit
@@ -491,6 +492,7 @@ menu 0
     *   New Arrivals
     *   Ultimate Coat Finder
     *   Hats, Gloves &. Scarves
+    *   Holiday Looks
     *   School Uniforms
     *   Iron Knee Pants
     *   Girls' Knit Kit
