@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Selling Diamonds to People Who Aren’t Getting Married**
+**A Teen-designed App Could End Lonely School Lunches**
 
-**Forget the Invisible TV: We Want the Invisible Cooktop!**
+**Will This Election Season Become Known as 'The Great Unfriending'?**
 
-**Comet Strike Could Explain PETM, Earth's Apocalyptic Ancient Climate Spike**
+**The Curious Ability to Detect Disease by Smell**
 
 **See More Headlines »**
 
