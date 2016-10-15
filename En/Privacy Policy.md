@@ -5,11 +5,9 @@
     *   Where we are
 *   What we do
     *   For Users
-    *   For Developers
     *   Softonic Clean &. Safe
 *   Company news
     *   Softonic Blog
-    *   Press room
 *   Careers
     *   Softonic Culture
     *   Office Tour
