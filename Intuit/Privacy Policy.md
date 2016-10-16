@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15483647480
+true true L15484348598
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1l1j1 TIME :->. Fri Oct 14 11:15:40 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1l1j1 TIME :->. Sat Oct 15 11:15:38 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -58,7 +58,7 @@ Here's The Deal! See Our Weekly Store Ad
 
 Everything you need at great prices each week.
 
-View Store AdDoorbusters Friday 3PM through Saturday 1PM CDT
+View Store AdDoorbusters Ends Saturday 1PM CDT
 
 Use your coupon &. save even more!
 
@@ -114,15 +114,15 @@ Shop Gold Earrings 29.99 Biddeford Heated Microplush Throw
 
 Select styles, reg. $80
 
-Shop Biddeford Microplush Throw 40 to 50% Off Men's &. Women's Outerwear
+Shop Biddeford Microplush Throw Home Flash Sale
+
+Today Online Only | Ends October 15 | Code: HOME37
+
+Extra 30% Off\* $100 or More Or, Extra 25% Off Select Home Already 30-50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds &. Shades \*Exclusions and details: Shop Home Flash Sale Shop Comforters &. Bedding Shop Kitchen &. Dining Shop Bath Shop Dinnerware Shop Curtains &. Drapes Shop Furniture &. Mattresses Shop Home Decor Shop Luggage 40 to 50% Off Men's &. Women's Outerwear
 
 Select styles
 
-Shop Men's Outerwear Shop Women's Outerwear     30 to 50% Off Home Sale
-
-Select styles
-
-Shop All Home Shop Bedding Shop Curtains and Drapes Shop Kitchen and Dining Shop Furniture and Mattresses   Diamond Sale Up To 60% Off Fine Jewelry | End October 23
+Shop Men's Outerwear Shop Women's Outerwear     Diamond Sale Up To 60% Off Fine Jewelry | End October 23
 
 Select styles
 
@@ -134,7 +134,7 @@ Shop Ambrielle Cotton Bras Sephora Hot Now Explore Now: SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop Now: JCPenney | optical 60% Off Complete Pair of Eyeglasses Plus $50 Off HD Lenses Get Details: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Oct 14 22:56:01 CDT 2016 JVM :->. dtexppr1l1j1\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sold out almost gone! \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Oct 14 16:08:02 CDT 2016 JVM :->. dtexppr1l1j6\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now: JCPenney | optical 60% Off Complete Pair of Eyeglasses Plus $50 HD Lenses Get Details: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Oct 15 22:52:24 CDT 2016 JVM :->. dtexppr1l1j1\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Oct 15 22:54:04 CDT 2016 JVM :->. dtexppr1l1j3\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
