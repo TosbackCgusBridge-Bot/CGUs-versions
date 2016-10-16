@@ -18,6 +18,7 @@ Aéropostale
     *   Shirts
     *   Hoodies + Sweatshirts
     *   Sweaters
+    *   Bodysuits
     *   Active Tops
     
     *   BOTTOMS
