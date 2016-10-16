@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
+**Ridiculous History: The Civil War's Worst Cup of Coffee**
+
 **A Teen-designed App Could End Lonely School Lunches**
 
 **Will This Election Season Become Known as 'The Great Unfriending'?**
-
-**The Curious Ability to Detect Disease by Smell**
 
 **See More Headlines »**
 
