@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15484348598
+true true L15489493089
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1l1j1 TIME :->. Sat Oct 15 11:15:38 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1l1j3 TIME :->. Sun Oct 16 11:15:36 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -54,87 +54,47 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Here's The Deal! See Our Weekly Store Ad
+Levi's® Lowest Prices Of The Season\*
 
-Everything you need at great prices each week.
+Offers and coupons do not apply. \*Pricing also applies to 505™, 517™, 527™, 550™, 559™ and chino. Levi's® "Lowest Prices of the Season" refers to the time period through 10/24. Prices may be further reduced on items as a part of clearance in the future.
 
-View Store AdDoorbusters Ends Saturday 1PM CDT
+34.99 Guys' Levi's® 514™ Straight-Fit Jeans
 
-Use your coupon &. save even more!
+Reg. 59.50
 
-Shop Doorbusters 2 Days of Fall Deals In Store &. Online | Ends October 15
+Shop Guys' Levi's19.99 Boys' Levi's® 505™ Regular, 550™ Relaxed Or 514™ Straight-Fit Jeans
 
-12 deals. 2 days. Hurry, they won't last long!
+Select styles, MSRP $40
 
-6.99 Juniors' Graphic Tees
+Shop Boys' Levi's29.99 Levi's® 505™ Straight-Leg Jeans For Her
 
-Select styles, reg. $18-$26
+Select styles, MSRP 44.50
 
-Shop Juniors' Graphic Tees 4.99 Guys' Graphic Tees
+Shop Levi's For Her       40 to 50% Off Men's &. Women's Outerwear
 
-Select styles, reg. $12
+Select styles.
 
-Shop Guys' Graphic Tees 29.99 Boots for Her
+Shop Men Shop Women     40 to 50% Off Boots for Her
 
-Select styles, reg. $100-$120
+Select styles, reg. $60-$120
 
-Shop Boots for Her 7.99 Women's Xersion Performance Tee
+Shop Boots for Her Shop Tall Boots
 
-Select styles, reg. $20
+Select styles also in wide calf
 
-Shop Women's Xersion 14.99 Guys' Arizona Flannel
-
-Select styles, reg. $36
-
-Shop Guys' Arizona Flannel 14.99 Cooks Contact Grill
-
-Select styles, reg. $40
-
-Shop Cooks Contact Grill 17.99 Worthington Essential Pants
-
-Select styles, reg. $44
-
-Shop Worthington Essential Pants 27.99 AFTER $20 MAIL-IN REBATE Cooks 12-pc. Stainless Steel Cookware Set
-
-Select styles, reg. $100
-
-Shop Cooks Stainless Steel Cookware Set 21.99 Guys' Arizona Cargo Pants
-
-Select styles, reg. $50
-
-Shop Guys' Arizona Cargo Pants 13.99 Boys' &. Girls' Arizona Jeans
-
-Select styles, reg. $26-$30
-
-Shop Boys' &. Girls' Arizona Jeans 75% Off Gold Earrings
+Shop Wide Calf 30 to 50% Off Home Sale
 
 Select styles
 
-Shop Gold Earrings 29.99 Biddeford Heated Microplush Throw
+  Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses Disney Collection Fairest Event of Them All 30% Off Disney Collection Costumes \*amp. Accessories
 
-Select styles, reg. $80
+Select styles| 8.99-27.99 | reg. $13-$40 | Excluded from coupon.
 
-Shop Biddeford Microplush Throw Home Flash Sale
-
-Today Online Only | Ends October 15 | Code: HOME37
-
-Extra 30% Off\* $100 or More Or, Extra 25% Off Select Home Already 30-50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds &. Shades \*Exclusions and details: Shop Home Flash Sale Shop Comforters &. Bedding Shop Kitchen &. Dining Shop Bath Shop Dinnerware Shop Curtains &. Drapes Shop Furniture &. Mattresses Shop Home Decor Shop Luggage 40 to 50% Off Men's &. Women's Outerwear
-
-Select styles
-
-Shop Men's Outerwear Shop Women's Outerwear     Diamond Sale Up To 60% Off Fine Jewelry | End October 23
-
-Select styles
-
-Shop Fine Jewelry Bra Sale | Just Your Style. Just Your Size. Sizes 32A-54I Now Through October 16 Shop Bra Sale19.99 Ambrielle Cotton Bras
-
-Select styles, reg. $30
-
-Shop Ambrielle Cotton Bras Sephora Hot Now Explore Now: SportsFanShop
+Shop Disney Collection Shop Boys Shop the Ad Shop Girls     Sephora Shop Value-Size Beauty: SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop Now: JCPenney | optical 60% Off Complete Pair of Eyeglasses Plus $50 HD Lenses Get Details: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Oct 15 22:52:24 CDT 2016 JVM :->. dtexppr1l1j1\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Oct 15 22:54:04 CDT 2016 JVM :->. dtexppr1l1j3\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now: JCPenney | optical 2 For 99.99 - Includes no-line bifocals. Limited time only, take an extra 15% off! Get Details: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Oct 16 22:03:06 CDT 2016 JVM :->. dtexppr1l1j6\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Oct 16 21:54:06 CDT 2016 JVM :->. dtexppr1l1j6\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
