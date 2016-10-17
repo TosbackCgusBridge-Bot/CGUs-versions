@@ -16,7 +16,7 @@ Skip to main content Online Trust Alliance
 
 *   Initiatives
     *   Brand Protection
-    *   Data Privacy &. Protection Day
+    *   Data Breach Readiness
     *   Identity Theft
     *   Internet of Things
     *   Online Trust Audit &. Honor Roll
@@ -35,15 +35,15 @@ Skip to main content Online Trust Alliance
 *   Best Practices
 *   Committees
 *   News &. Events
+    *   Press Releases
     *   OTA In The News
     *   Upcoming Events
         *   Recent Events
         *   Events Archive
-    *   Press Releases
 *   Membership
-    *   OTA Members (Restricted)
     *   History &. Overview
     *   Member Levels
+    *   OTA Members (Restricted)
     *   Donate
 *   About Us
     *   Members
@@ -144,7 +144,7 @@ More >>. Resources
 Initiatives
 
 *   Brand Protection
-*   Data Privacy &. Protection Day
+*   Data Breach Readiness
 *   Identity Theft
 *   Internet of Things
 *   Online Trust Audit &. Honor Roll
@@ -155,17 +155,17 @@ Initiatives
 
 News &. Events
 
+*   Press Releases
 *   OTA In The News
 *   Upcoming Events
     *   Recent Events
     *   Events Archive
-*   Press Releases
 
 Membership
 
-*   OTA Members (Restricted)
 *   History &. Overview
 *   Member Levels
+*   OTA Members (Restricted)
 *   Donate
 
 About Us
