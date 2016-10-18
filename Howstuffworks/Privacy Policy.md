@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Ridiculous History: The Civil War's Worst Cup of Coffee**
+**Paternity Tests and Other Businesses You Don't Expect to See on a Truck**
 
-**A Teen-designed App Could End Lonely School Lunches**
+**Jia Jia, the World's Oldest Giant Panda, Has Died**
 
-**Will This Election Season Become Known as 'The Great Unfriending'?**
+**Can You Have a Baby on Mars?**
 
 **See More Headlines »**
 
