@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15489493089
+true true L15493920007
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1l1j3 TIME :->. Sun Oct 16 11:15:36 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1l1j1 TIME :->. Mon Oct 17 11:12:42 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -62,39 +62,49 @@ Offers and coupons do not apply. \*Pricing also applies to 505™, 517™, 527�
 
 Reg. 59.50
 
-Shop Guys' Levi's19.99 Boys' Levi's® 505™ Regular, 550™ Relaxed Or 514™ Straight-Fit Jeans
+Shop Guys' Levi's 19.99 Boys' Levi's® 505™ Regular, 550™ Relaxed Or 514™ Straight-Fit Jeans
 
 Select styles, MSRP $40
 
-Shop Boys' Levi's29.99 Levi's® 505™ Straight-Leg Jeans For Her
+Shop Boys' Levi's 29.99 Levi's® 505™ Straight-Leg Jeans For Her
 
 Select styles, MSRP 44.50
 
-Shop Levi's For Her       40 to 50% Off Men's &. Women's Outerwear
-
-Select styles.
-
-Shop Men Shop Women     40 to 50% Off Boots for Her
-
-Select styles, reg. $60-$120
-
-Shop Boots for Her Shop Tall Boots
-
-Select styles also in wide calf
-
-Shop Wide Calf 30 to 50% Off Home Sale
+Shop Levi's For Her       Buy 1 Get 1 For .01 Men's Xersion Activewear\*
 
 Select styles
 
-  Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses Disney Collection Fairest Event of Them All 30% Off Disney Collection Costumes \*amp. Accessories
+Shop Men's Xersion 40 to 50% Off Kids' &. Women's Xersion Activewear\*
 
-Select styles| 8.99-27.99 | reg. $13-$40 | Excluded from coupon.
+Select styles, $6.99-$23.99, reg. $14-$40
 
-Shop Disney Collection Shop Boys Shop the Ad Shop Girls     Sephora Shop Value-Size Beauty: SportsFanShop
+Shop Kids' Xersion Shop Women's Xersion       Diamond Sale - Ends October 23 Up to 60% Off Fine &. Fashion Jewelry
+
+Select styles
+
+Shop Now Disney Collection Fairest Event of Them All 30% Off Disney Collection Costumes \*amp. Accessories
+
+Select styles | 8.99-27.99 | reg. $13-$40 | Excluded from coupon.
+
+Shop Disney Collection Shop Boys Shop the Ad Shop Girls     Black Friday Sneak Peek Download the JCPenney App &. be the first to see the black friday ad on November 4
+
+Preview the deals and make your list!
+
+Check Out The App: Download on the App Store Get It On Google Play
+
+Sign up now &. get early access to Black Friday deals, plus enjoy a 25% Off coupon!
+
+Sign Up For Texts &. Emails: Sephora Shop Value-Size Beauty: SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop Now: JCPenney | optical 2 For 99.99 - Includes no-line bifocals. Limited time only, take an extra 15% off! Get Details: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Oct 16 22:03:06 CDT 2016 JVM :->. dtexppr1l1j6\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Oct 16 21:54:06 CDT 2016 JVM :->. dtexppr1l1j6\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now: JCPenney | optical 2 For 99.99 - Includes no-line bifocals. Limited time only, take an extra 15% off! Get Details: JCPenney | portraits
+
+.49 and .59 Photo Greeting Cards
+
+&. free 8x10
+
+Get Coupon: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Oct 17 02:32:04 CDT 2016 JVM :->. dtexppr1l1j3\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Oct 17 02:32:04 CDT 2016 JVM :->. dtexppr1l1j2\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
