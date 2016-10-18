@@ -3,8 +3,8 @@
 Company Information
 
 *   About Bankrate.com
+*   Bankrate, Inc. management
 *   Bankrate, LLC management
-*   Bankrate.com management
 *   Advertise with Bankrate
 *   Press releases
 *   Partnership opportunities
