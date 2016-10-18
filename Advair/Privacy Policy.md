@@ -248,6 +248,7 @@ Menu
         *   Changing Lives
         *   The global as personal: GSK and The National Museum of African American History and Culture
         *   From the GSK archives: William Allen, scientist, businessman, abolitionist
+        *   Making healthy cool in school through Get HYPE Philly!
     *   How we do business
         *   How we do business
         *   Changing the way we work with healthcare professionals
