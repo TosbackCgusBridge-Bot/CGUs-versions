@@ -1,5 +1,5 @@
 A+E Networks Privacy Policy  
-Effective Date: 09/09/16
+Effective Date: 10/18/16
 
 *   This policy covers information generated when you engage with A+E Networks.
 *   All of A+E Networks’ content is produced with strong privacy controls.
@@ -12,6 +12,7 @@ Please read carefully and contact us with any questions. Click on the sections b
 *   HOW WE SHARE YOUR INFORMATION
 *   VIDEO AND CONTENT VIEW INFORMATION
 *   YOUR CHOICES
+*   DO NOT TRACK SIGNALS
 *   STORAGE AND SECURITY OF YOUR INFORMATION
 *   COOKIES AND OTHER TRACKING TECHNOLOGIES
 *   CHILDREN
@@ -102,6 +103,10 @@ By associating your social media or other third party website account with your 
 You may choose to opt-out of certain communications or uses of information collected by A+E Networks or third parties on our Sites. To opt-out of email communications from us, log into your account and manage your email preferences or click on the "unsubscribe" link at the bottom of any of our marketing emails or contact us at feedback@aenetworks.com with the subject line: "Opt-Out Marketing Communications". If you believe that any of your information is incorrect or needs updating, please let us know at feedback@aenetworks.com (Attn: Information Access). A+E will use reasonable efforts to correct your information and our records upon verification of the requested change.  
   
 For more information or to opt-out of certain online behavioral advertising, please visit http://www.aenetworks.com/adchoices.  
+  
+**DO NOT TRACK SIGNALS**  
+  
+At this time, A+E does not respond to browser ‘Do Not Track’ signals, which is a standard still under development. To learn more please go to www.allaboutdnt.com  
   
 **STORAGE AND SECURITY OF YOUR INFORMATION**  
   
