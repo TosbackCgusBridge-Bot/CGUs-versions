@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Strong wind and rain in the Pacific Northwest — Stay safe! Fisheries Fresh tips for savoring sustainable seafood National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Aerial photos of North Carolina flooding now available online Fisheries Blog: Single millennial or family of four, fish is what’s for dinner National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Powerful storms bring high wind, heavy rain to Pacific NW through Oct. 18 Get the latest from NOAA's National Weather Service AROUND NOAA // ‘Every Full Moon’ video series debuts with sea creatures that light up the night 40 marine fish stocks rebuilt in U.S. fisheries Aerial photos of Matthew damage now available online Celebrate National Seafood Month
+Enter Search Terms Monthly record-warm streak ends, September 2nd warmest on record for globe The year to date continues to be record warm AROUND NOAA // Aerial photos of North Carolina flooding now available online ‘Every Full Moon’ video series debuts with sea creatures that light up the night 40 marine fish stocks rebuilt in U.S. fisheries Celebrate National Seafood Month
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock
+iStock image
