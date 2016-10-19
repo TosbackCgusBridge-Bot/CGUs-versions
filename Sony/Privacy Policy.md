@@ -92,7 +92,7 @@ SONY
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! The Moment When You Lose Yourself in a New World
+Your browser does not support JavaScript! When You Look Up and See More Than Just the Ceiling
 
 Experience PlayStation®VR Today
 
