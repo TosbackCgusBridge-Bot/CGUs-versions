@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Paternity Tests and Other Businesses You Don't Expect to See on a Truck**
+**Flesh-eating Screwworm Maggots Are Devouring Rare Tiny Florida Deer Alive**
 
-**Jia Jia, the World's Oldest Giant Panda, Has Died**
+**Austria Will Demolish Adolf Hitler's Birthplace**
 
-**Can You Have a Baby on Mars?**
+**War Reporting Meets Comic Books in Marvel's 'Madaya Mom'**
 
 **See More Headlines »**
 
