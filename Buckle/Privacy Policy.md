@@ -228,22 +228,22 @@
 *   Sale
     *   *   Women's Sale/Factory Seconds
         
-        *   T-Shirts
-        *   Jeans
-        *   Shorts
-        *   Crops/Capris
+        *   All Tops
         *   Shirts/Blouses
+        *   Sweaters
+        *   Sweatshirts
+        *   Jeans
         *   Shoes
         *   Factory Seconds
         *   Shop All
         
         *   Men's Sale/Factory Seconds
         
-        *   T-Shirts
-        *   Jeans
-        *   Shorts
-        *   Boardshorts
+        *   All Tops
         *   Shirts
+        *   Sweatshirts
+        *   Sweaters
+        *   Jeans
         *   Shoes
         *   Factory Seconds
         *   Shop All
