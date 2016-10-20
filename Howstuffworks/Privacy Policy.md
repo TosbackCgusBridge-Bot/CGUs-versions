@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Flesh-eating Screwworm Maggots Are Devouring Rare Tiny Florida Deer Alive**
+**Got a Bad Case of FOMO? Get Off Social Media**
 
-**Austria Will Demolish Adolf Hitler's Birthplace**
+**Monster Science Digs Up Some Vampire Vixens From Nature**
 
-**War Reporting Meets Comic Books in Marvel's 'Madaya Mom'**
+**Newly Discovered Crane Fly Species: Tiny Wings, Double-barreled Penis**
 
 **See More Headlines »**
 
