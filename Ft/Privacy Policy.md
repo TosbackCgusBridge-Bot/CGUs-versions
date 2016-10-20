@@ -149,5 +149,93 @@ We do not intentionally collect any information on children under 14 years of ag
 
 This policy is effective from 22nd May 2012. From time to time we may make changes to this privacy policy statement to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements.enhancements.
 
-Back to the Top Support Help About Us Legal &. Privacy Terms &. Conditions Privacy Cookies Copyright Services Individual Subscriptions Group Subscriptions Republishing Contracts &. Tenders Analysts Research Executive Job Search Advertise with the FT Follow the FT on Twitter Tools Portfolio Today's Paper Alerts Hub Lexicon MBA Rankings Economic Calendar Newsletters Currency Converter Ebooks More from FT Group Agenda Analyse Africa Board IQ Corporate Learning Alliance DPN: Deutsche Pensions &. Investment Nachrichten ExecSense FDI Intelligence Financial Advisor IQ FT Chinese FT Live FT Property Listings FT Advisor Fund Fire Global Risk Regulator How to Spend It Ignites Ignites Asia Ignites Europe Investors Chronicle Mandate Wire New York Insitute of Finance Non Executive Directors Club Pensions Expert Professional Wealth Management 125 Club The Banker The Banker Database This is Africa Markets data delayed by at least 15 minutes. © THE FINANCIAL TIMES LTD 2016. FT and ‘Financial Times’ are trademarks of The Financial Times Ltd.  
-The Financial Times and its journalism are subject to a self-regulation regime under the FT Editorial Code of Practice.
+Back to the Top Support Return to the old FT.com Open in app Open in app Help Centre About Us Legal &. Privacy Terms &. Conditions Privacy Cookies Copyright Services Conferences &. Events Individual Subscriptions Group Subscriptions Republishing Contracts &. Tenders Analysts Research Executive Job Search Advertise with the FT Follow the FT on Twitter Ebooks Tools Portfolio ePaper Alerts Hub Lexicon MBA Rankings Economic Calendar News feed Newsletters Currency Converter Press Cuttings More from the FT Group Markets data delayed by at least 15 minutes. © THE FINANCIAL TIMES LTD . FT and ‘Financial Times’ are trademarks of The Financial Times Ltd.  
+The Financial Times and its journalism are subject to a self-regulation regime under the FT Editorial Code of Practice. Financial Times Close UK Edition International Edition Search the FT Search
+
+*   Top sections
+*   Home
+*   Show more World links World
+    *   World Economy
+    *   UK
+    *   US
+    *   China
+    *   Africa
+    *   Asia Pacific
+    *   Emerging Markets
+    *   Europe
+    *   Latin America
+    *   Middle East and North Africa
+*   Show more UK links UK
+    *   UK Economy
+    *   UK Politics &. Policy
+    *   UK Companies
+*   Show more Companies links Companies
+    *   Energy
+    *   Financials
+    *   Health
+    *   Industrials
+    *   Media
+    *   Retail &. Consumer
+    *   Technology
+    *   Telecoms
+    *   Transport
+*   Show more Markets links Markets
+    *   fastFT
+    *   Alphaville
+    *   Markets Data
+    *   Capital Markets
+    *   Commodities
+    *   Currencies
+    *   Equities
+    *   Fund Management
+    *   Trading
+*   Show more Opinion links Opinion
+    *   Columnists
+    *   FT View
+    *   The Big Read
+    *   Instant Insight
+    *   Lex
+    *   Alphaville
+    *   Blogs
+    *   Obituaries
+    *   Letters
+*   Show more Work &. Careers links Work &. Careers
+    *   Business School Rankings
+    *   Business Education
+    *   Entrepreneurship
+    *   Recruitment
+    *   Business Books
+*   Show more Life &. Arts links Life &. Arts
+    *   House &. Home
+    *   Books
+    *   Food &. Drink
+    *   Travel
+    *   Style
+    *   Arts
+    *   FT Magazine
+*   Show more Personal Finance links Personal Finance
+    *   Property &. Mortgages
+    *   Investments
+    *   Pensions
+    *   Tax
+    *   Banking &. Savings
+*   Special Reports
+*   Science &. Environment
+*   FT recommends
+*   Lex
+*   Alphaville
+*   Lunch with the FT
+*   Video
+*   Podcasts
+*   Blogs
+*   News feed
+*   Newsletters
+*   myFT
+*   Portfolio
+*   ePaper
+*   Crossword
+
+*   Help Centre
+*   Subscribe
+*   Sign In
+*   Return to the old FT.com Open in app Open in app
