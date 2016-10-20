@@ -17,50 +17,50 @@
 *   Build &. Price
 *   Local Specials
 
-*   Cars & Minivan
+*   Cars &. Minivan
 *   Trucks
-*   Crossovers & SUVs
-*   Hybrids & FCV
+*   Crossovers &. SUVs
+*   Hybrids &. FCV
 *   Upcoming Vehicles
 
-Toyota Vehicles Cars & Minivan
+Toyota Vehicles Cars &. Minivan
 
-*   $18,000 as shown1 2017 Yaris $15,250 starting1 30/36 est. mpg2 build Specials
-*   $15,950 as shown1 2017 Yaris iA $15,950 starting1 32/40 est. mpg2 build Specials
-*   $21,980 as shown1 2017 Corolla $18,500 starting1 28/36 est. mpg2 build Specials
-*   $18,750 as shown1 2017 Corolla iM $18,750 starting1 28/36 est. mpg2 build Specials
-*   $33,820 as shown1 2017 Camry $23,070 starting1 24/33 est. mpg2 build Specials
-*   $38,045 as shown1 2017 Avalon $33,250 starting1 21/30 est. mpg2 build Specials
-*   $26,255 as shown1 2017 86 $26,255 starting1 24/32 est. mpg2 build Specials
-*   $40,830 as shown1 2017 Sienna $29,750 starting1 19/27 est. mpg2 build Specials
+*   $18,000 as shown 2017 Yaris $15,250 starting 30/36 est. mpg build Specials
+*   $15,950 as shown 2017 Yaris iA $15,950 starting 32/40 est. mpg build Specials
+*   $21,980 as shown 2017 Corolla $18,500 starting 28/36 est. mpg build Specials
+*   $18,750 as shown 2017 Corolla iM $18,750 starting 28/36 est. mpg build Specials
+*   $33,820 as shown 2017 Camry $23,070 starting 24/33 est. mpg build Specials
+*   $38,045 as shown 2017 Avalon $33,250 starting 21/30 est. mpg build Specials
+*   $26,255 as shown 2017 86 $26,255 starting 24/32 est. mpg build Specials
+*   $40,830 as shown 2017 Sienna $29,750 starting 19/27 est. mpg build Specials
 
 Trucks
 
-*   $34,706 as shown1 2017 Tacoma $24,120 starting1 19/24 est. mpg2 build Specials
-*   $41,280 as shown1 2017 Tundra $30,020 starting1 15/19 est. mpg2 build Specials
+*   $34,706 as shown 2017 Tacoma $24,120 starting 19/24 est. mpg build Specials
+*   $41,280 as shown 2017 Tundra $30,020 starting 15/19 est. mpg build Specials
 
-Crossovers & Suvs
+Crossovers &. SUVs
 
-*   $36,150 as shown1 2017 RAV4 $24,910 starting1 23/30 est. mpg2 build Specials
-*   $40,915 as shown1 2016 Highlander $30,490 starting1 20/25 est. mpg2 build Specials
-*   $39,595 as shown1 2016 4Runner $34,010 starting1 17/22 est. mpg2 build Specials
-*   $61,990 as shown1 2017 Sequoia $45,460 starting1 13/17 est. mpg2 build Specials
-*   $84,325 as shown1 2017 Land Cruiser $84,325 starting1 13/18 est. mpg2 build Specials
+*   $36,150 as shown 2017 RAV4 $24,910 starting 23/30 est. mpg build Specials
+*   $40,915 as shown 2016 Highlander $30,490 starting 20/25 est. mpg build Specials
+*   $39,595 as shown 2016 4Runner $34,010 starting 17/22 est. mpg build Specials
+*   $61,990 as shown 2017 Sequoia $45,460 starting 13/17 est. mpg build Specials
+*   $84,325 as shown 2017 Land Cruiser $84,325 starting 13/18 est. mpg build Specials
 
-Hybrids & Fcv
+Hybrids &. FCV
 
-*   $27,995 as shown1 2017 Camry Hybrid $26,790 starting1 42/38 est. mpg2 build Specials
-*   $42,550 as shown1 2017 Avalon Hybrid $37,250 starting1 40/39 est. mpg2 build Specials
-*   $34,030 as shown1 2017 RAV4 Hybrid $29,030 starting1 34/30 est. mpg2 build Specials
-*   $47,870 as shown1 2016 Highlander Hybrid $47,870 starting1 27/28 est. mpg2 build Specials
-*   $32,115 as shown1 2017 Prius $24,685 starting1 54/50 est. mpg2 build Specials
-*   $24,495 as shown1 2016 Prius c $19,560 starting1 53/46 est. mpg2 build Specials
-*   $34,270 as shown1 2017 Prius v $26,675 starting1 43/39 est. mpg2 build Specials
-*   $57,500 as shown1 2017 Mirai $57,500 starting1 67/67 est. mpg2 build Specials
+*   $27,995 as shown 2017 Camry Hybrid $26,790 starting 42/38 est. mpg build Specials
+*   $42,550 as shown 2017 Avalon Hybrid $37,250 starting 40/39 est. mpg build Specials
+*   $34,030 as shown 2017 RAV4 Hybrid $29,030 starting 34/30 est. mpg build Specials
+*   $47,870 as shown 2016 Highlander Hybrid $47,870 starting 27/28 est. mpg build Specials
+*   $28,800 as shown 2017 Prius Prime $27,100 starting 54/133 est. mpg /MPGe build
+*   $32,115 as shown 2017 Prius $24,685 starting 54/50 est. mpg build Specials
+*   $24,495 as shown 2016 Prius c $19,560 starting 53/46 est. mpg build Specials
+*   $34,270 as shown 2017 Prius v $26,675 starting 43/39 est. mpg build Specials
+*   $57,500 as shown 2017 Mirai $57,500 starting 67/67 est. mpg Specials
 
 Upcoming Vehicles
 
-*   2017 Prius Prime View More Info
 *   2017 Highlander View More Info
 *   Concept Vehicles View More Info
 
@@ -963,7 +963,7 @@ If you have any questions, complaints or claims about any of the Sites, or if yo
 
 Go
 
-Sign up for toyota updates Request a Quote Trade-In Value Shopping Tools
+Sign up for toyota updates Request A Quote Trade-In Value Request A Quote Kelley Blue Book Trade-In Value Request A Quote Trade-In Value Shopping Tools
 
 *   Trade-In Value
 *   Trade-In Value
@@ -1033,4 +1033,6 @@ Help
 *   MSRP excludes the Delivery, Processing and Handling Fee of $865 for Cars, $940 for Small/Medium Trucks (Sienna, RAV4 Gas, RAV4 Hybrid, Highlander Gas, Highlander Hybrid, 4Runner and Tacoma), $1,095 for Large SUVs (Sequoia, Land Cruiser), and $1,195 for Large Truck (Tundra). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. Actual dealer price will vary.
 *   2016 EPA-estimated city/highway mileage. Actual mileage will vary.  
     2017 EPA-estimated city/highway mileage. Actual mileage will vary.
+*   2017 Prius Prime EPA-estimated combined mpg. Actual mpg will vary based on driving habits, weather, temperature and road/traffic conditions. For more information on mpg, please see www.fueleconomy.gov.
+*   2017 Prius Prime EPA-estimated MPGe. Actual MPGe will vary and is dependent upon many factors, including charging practice, driving style, road/traffic conditions, outside temperature, air conditioning control levels, payload/cargo weight, proper tire pressure, vehicle maintenance, battery age and changes in energy costs. Battery capacity will decrease with time and use. For more information on MPGe and range, please see fueleconomy.gov
 *   2016 EPA-estimated 67 city/67 highway/67 combined MPGe for Mirai and 312-mile driving range. Actual mileage will vary. Range measurement pursuant to SAE J2601 standards (ambient temperature: 20°C. hydrogen tank pressure when fueled: 70 MPa). Fueling time varies with hydrogen fueling pressure and ambient temperature.
