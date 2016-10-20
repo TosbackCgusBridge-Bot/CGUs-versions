@@ -1,4 +1,4 @@
-Explore Games
+Categories
 
 *   Home
 *   Multiplayer
@@ -6,6 +6,7 @@ Explore Games
     *   2 player
     *   Casino Games
     *   MMO &. Strategy
+    *   .io Games
 *   Action
     *   Arena Fighting
     *   Anime and Manga Games
@@ -19,7 +20,6 @@ Explore Games
     *   Physics
     *   Funny Games
     *   Simulation
-    *   Minecraft Games
     *   Scary Games
     *   Ninja Games
 *   Puzzle
@@ -57,215 +57,6 @@ Explore Games
     *   Golf
     *   Soccer
     *   Boxing
-
-*   For you
-    
-    For you
-    
-    My last played games
-    
-    FAVE GAMES
-    
-    Are you a existing user? Then log in to see you favorited games here! Don't have an account yet? Be sure to sign up to use this feature.
-    
-    Join for free
-*   Specials
-    
-    Hot Games
-    
-    *   Klondike - the lost expedition
-    *   Golden Frontier
-    *   Easy Joe World app
-    *   Five Night's at Golden Freddy's
-    *   Park My Car
-    *   SuperSnake.io
-    
-    Mobile Apps More
-    
-    *   Cloud Critters
-    *   Troll Face Quest Video Memes
-    *   My Dolphin Show
-    *   Troll Face Quest Unlucky
-    *   Crash Drive 2
-    *   Mad Truck Challenge
-    
-    Specials
-    
-*   Multiplayer
-    
-    Top Categories
-    
-    *   Social Games
-    *   2 player
-    *   Casino Games
-    *   MMO &. Strategy
-    
-    Browse By
-    
-    *   Recently Added
-    *   Most popular
-    *   Alphabetical Order
-    
-    Best Games
-    *   Family Barn
-    *   Harvest Honors Classic
-    *   Pyramid Solitaire Duel
-    *   Crystical
-    *   Klondike - the lost expedition
-    *   Goodgame PokerSpotlight Forge of Empires
-*   Action
-    
-    Top Categories
-    
-    *   Arena Fighting
-    *   Anime and Manga Games
-    *   Shooting Games
-    *   Strategy
-    *   Tower Defence
-    *   War Games
-    *   Zombie Games
-    
-    Browse By
-    
-    *   Recently Added
-    *   Most popular
-    *   Alphabetical Order
-    
-    Best Games
-    *   Swords &. Souls: A Soul Adventure
-    *   Xibalba
-    *   Takeover
-    *   Super Mechs
-    *   Sniper Team 2
-    *   Mighty Knight 2Spotlight Hero Simulator: Idle Adventure
-*   Adventure
-    
-    Top Categories
-    
-    *   Platform Games
-    *   Physics
-    *   Funny Games
-    *   Simulation
-    *   Minecraft Games
-    *   Scary Games
-    *   Ninja Games
-    
-    Browse By
-    
-    *   Recently Added
-    *   Most popular
-    *   Alphabetical Order
-    
-    Best Games
-    *   Papa Louie 3: When Sundaes Attack
-    *   Cactus McCoy 2
-    *   Paladog
-    *   Lego Star Wars Adventure
-    *   Tomb Runner
-    *   Stealth HunterSpotlight Easy Joe World
-*   Puzzle
-    
-    Top Categories
-    
-    *   Casino Games
-    *   Hidden Objects
-    *   Colored Blocks
-    *   Mahjong
-    *   Match 3
-    *   Card Solitaire
-    *   Bubble Shooter
-    
-    Browse By
-    
-    *   Recently Added
-    *   Most popular
-    *   Alphabetical Order
-    
-    Best Games
-    *   Mahjong Link
-    *   Smarty Bubbles
-    *   Fitz!
-    *   Spider Soli
-    *   Jewel Academy
-    *   3D MahjongSpotlight Mahjong Chain
-*   Girls
-    
-    Top Categories
-    
-    *   Animal Games
-    *   Beauty Games
-    *   Caring
-    *   Cooking
-    *   Room Decoration
-    *   Dress Up
-    *   Love Games
-    *   Princess Games
-    
-    Browse By
-    
-    *   Recently Added
-    *   Most popular
-    *   Alphabetical Order
-    
-    Best Games
-    *   Papa’s Cheeseria
-    *   Shopaholic: Hollywood
-    *   My Puppy Play Day
-    *   My New Room 2
-    *   Disney Descendants: Smarte Couture
-    *   Gingerbread House: Sara's Cooking ClassSpotlight My Dolphin Show 8
-*   Racing
-    
-    Top Categories
-    
-    *   BMX Games
-    *   Truck Games
-    *   Flight Games
-    *   Car Games
-    *   Motor Racing
-    *   Parking
-    *   Boat Racing
-    *   Stunt Driving
-    
-    Browse By
-    
-    *   Recently Added
-    *   Most popular
-    *   Alphabetical Order
-    
-    Best Games
-    *   Valvoline Race of the Decades
-    *   4x4 Soccer
-    *   Renegade Racing
-    *   Bus Man Parking 3D
-    *   ATV Destroyer
-    *   FMX TeamSpotlight Car Eats Car 2: Mad Dreams
-*   Sports
-    
-    Top Categories
-    
-    *   Athletics
-    *   Basketball
-    *   Billiards
-    *   Skateboarding
-    *   Winter Sports
-    *   Golf
-    *   Soccer
-    *   Boxing
-    
-    Browse By
-    
-    *   Recently Added
-    *   Most popular
-    *   Alphabetical Order
-    
-    Best Games
-    *   Billiards Master Pro
-    *   Football Headz Cup
-    *   The Champions 4: World Domination
-    *   Sports Heads Basketball
-    *   Baseball
-    *   SnookerSpotlight England Soccer League
 
 Sign In Categories
 
@@ -277,7 +68,226 @@ Games
 *   {text}
     
 
-View more results privacy policy
+View more results
+
+*   For you
+    
+*   Specials
+    
+*   Multiplayer
+    
+*   Action
+    
+*   Adventure
+    
+*   Puzzle
+    
+*   Girls
+    
+*   Racing
+    
+*   Sports
+    
+
+*   For you
+    
+    My last played games
+    
+    FAVE GAMES
+    
+    Are you a existing user? Then log in to see you favorited games here! Don't have an account yet? Be sure to sign up to use this feature.
+    
+    Join for free
+*   Hot Games
+    
+    *   Slotomania
+    *   Klondike - the lost expedition
+    *   Hero Simulator: Idle Adventure
+    *   SuperOrbit.io
+    *   Jewel Burst
+    *   Slither.io
+    
+    Mobile Apps More
+    
+    *   Troll Face Quest Video Games
+    *   Hero Simulator: Idle Adventure
+    *   Troll Face Quest Video Memes
+    *   My Dolphin Show
+    *   Crash Drive 2
+    *   Mad Truck Challenge: The Beginning
+    
+    Specials
+    
+*   Top Categories
+    
+    *   Social Games
+    *   2 player
+    *   Casino Games
+    *   MMO &. Strategy
+    *   .io Games
+    
+    All Multiplayer Browse By
+    
+    *   Most popular
+    *   Most played
+    *   Recently Added
+    *   Alphabetical Order
+    
+    Best Games
+    *   Forge of Empires
+    *   Jackpot
+    *   Goodgame Empire
+    *   Goodgame Poker
+    *   Klondike
+    *   Family BarnSpotlight Slotomania
+*   Top Categories
+    
+    *   Arena Fighting
+    *   Anime and Manga Games
+    *   Shooting Games
+    *   Strategy
+    *   Tower Defence
+    *   War Games
+    *   Zombie Games
+    
+    All Action Browse By
+    
+    *   Most popular
+    *   Most played
+    *   Recently Added
+    *   Alphabetical Order
+    
+    Best Games
+    *   Swords &. Souls: A Soul Adventure
+    *   Hero Simulator: Idle Adventure
+    *   Takeover
+    *   Super Mechs
+    *   Sniper Team 2
+    *   Mighty Knight 2Spotlight SuperSnake.io
+*   Top Categories
+    
+    *   Platform Games
+    *   Physics
+    *   Funny Games
+    *   Simulation
+    *   Scary Games
+    *   Ninja Games
+    
+    All Adventure Browse By
+    
+    *   Most popular
+    *   Most played
+    *   Recently Added
+    *   Alphabetical Order
+    
+    Best Games
+    *   Papa Louie 3: When Sundaes Attack
+    *   Cactus McCoy 2
+    *   Paladog
+    *   Lego Star Wars Adventure
+    *   Tomb Runner
+    *   Stealth HunterSpotlight Easy Joe World
+*   Top Categories
+    
+    *   Casino Games
+    *   Hidden Objects
+    *   Colored Blocks
+    *   Mahjong
+    *   Match 3
+    *   Card Solitaire
+    *   Bubble Shooter
+    
+    All Puzzle Browse By
+    
+    *   Most popular
+    *   Most played
+    *   Recently Added
+    *   Alphabetical Order
+    
+    Best Games
+    *   Mahjong Link
+    *   Smarty Bubbles
+    *   Fitz!
+    *   Spider Soli
+    *   Jewel Academy
+    *   Bubble ShooterSpotlight Mahjong Chain
+*   Top Categories
+    
+    *   Animal Games
+    *   Beauty Games
+    *   Caring
+    *   Cooking
+    *   Room Decoration
+    *   Dress Up
+    *   Love Games
+    *   Princess Games
+    
+    All Girls Browse By
+    
+    *   Most popular
+    *   Most played
+    *   Recently Added
+    *   Alphabetical Order
+    
+    Best Games
+    *   Papa’s Cheeseria
+    *   Shopaholic: Hollywood
+    *   My Puppy Play Day
+    *   My New Room 2
+    *   Hair Do Design
+    *   Gingerbread House: Sara's Cooking ClassSpotlight My Dolphin Show World
+*   Top Categories
+    
+    *   BMX Games
+    *   Truck Games
+    *   Flight Games
+    *   Car Games
+    *   Motor Racing
+    *   Parking
+    *   Boat Racing
+    *   Stunt Driving
+    
+    All Racing Browse By
+    
+    *   Most popular
+    *   Most played
+    *   Recently Added
+    *   Alphabetical Order
+    
+    Best Games
+    *   Valvoline Race of the Decades
+    *   4x4 Soccer
+    *   Mad Day 2
+    *   Bus Man Parking 3D
+    *   ATV Destroyer
+    *   FMX TeamSpotlight Car Eats Car 2: Mad Dreams
+*   Top Categories
+    
+    *   Athletics
+    *   Basketball
+    *   Billiards
+    *   Skateboarding
+    *   Winter Sports
+    *   Golf
+    *   Soccer
+    *   Boxing
+    
+    All Sports Browse By
+    
+    *   Most popular
+    *   Most played
+    *   Recently Added
+    *   Alphabetical Order
+    
+    Best Games
+    *   Billiards Master Pro
+    *   Football Headz Cup
+    *   The Champions 4: World Domination
+    *   Sports Heads Basketball
+    *   Baseball
+    *   SnookerSpotlight England Soccer League
+
+privacy policy
 
 *   Home
 *   privacy policy
