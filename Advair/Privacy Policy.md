@@ -154,13 +154,13 @@ GSK Global Website www.gsk.com
             *   Dr. Leonard Friedland, VP, director of Scientific Affairs and Public Health, Vaccines, North America at GSK
         *   Tanzeum™ (albiglutide)
         *   US IMPACT Awards
+        *   The State of Uncontrolled Asthma in America
         *   World Meningitis Day
             *   World Meningitis Day
             *   Jamie Schanbaum
             *   Meningococcal disease fact sheet
             *   Hour of Power Rowing &. Cycling Challenge
             *   Knowledge gaps in vaccination against meningococcal disease
-        *   The State of Uncontrolled Asthma in America
     *   Infographics
     *   Media contacts
     *   Corporate reporting
@@ -207,8 +207,8 @@ Menu
         *   Harnessing the electrical language of the body to treat disease
         *   Epigenetics: turn-ons and turn-offs
         *   Inside the open lab
-        *   Scientists or detectives? Seeking new clues in COPD
         *   The race to richer data in clinical trials
+        *   Scientists or detectives? Seeking new clues in COPD
         *   Cell and gene therapy: a new era of medicine
         *   Take a deep breath - your lung microbiome will appreciate it
     *   Access to healthcare
