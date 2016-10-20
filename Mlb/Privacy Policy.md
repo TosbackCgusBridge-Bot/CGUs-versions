@@ -144,7 +144,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
 *   MLB.TV MLB.TV MLB.TV
     *   MLB.TV Postseason (US)
     *   MLB.TV Postseason (INTL)
-    *   Get Postseason.TV
     *   Watch MLB.TV
     *   Alternative Audio
     *   MLB.TV Postseason Schedule
@@ -155,7 +154,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.com Support Forum
     *   MLB.TV Blackouts
     *   MLB.TV Download Center
-    *   Contact UsMLB.TV US Get Postseason.TV
+    *   Contact UsMLB.TV US
 *   Auction
 *   Fantasy Fantasy Fantasy
     *   Postseason Bracket Challenge
