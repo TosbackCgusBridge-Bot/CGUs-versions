@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Live kernel patching from Canonical now available for Ubuntu 16.04 LTS ›
 *   DataArt to deploy Juju for “Big Software” collaboration ›
 *   Canonical and ARM collaborate on OpenStack ›
 *   Unity 8 preview session in Ubuntu 16.10 Yakkety Yak ›
-*   Canonical releases Ubuntu 16.10 ›
