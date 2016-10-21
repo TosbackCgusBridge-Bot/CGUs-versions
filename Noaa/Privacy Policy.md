@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Monthly record-warm streak ends, September 2nd warmest on record for globe The year to date continues to be record warm AROUND NOAA // Aerial photos of North Carolina flooding now available online ‘Every Full Moon’ video series debuts with sea creatures that light up the night 40 marine fish stocks rebuilt in U.S. fisheries Celebrate National Seafood Month
+Enter Search Terms U.S. Winter Outlook predicts warmer, drier South and cooler, wetter North Drought expected to persist in California and expand in the Southeast AROUND NOAA // Monthly record-warm streak ends, September 2nd warmest on record for globe Aerial photos of North Carolina flooding now available online ‘Every Full Moon’ video series debuts with sea creatures that light up the night 40 marine fish stocks rebuilt in U.S. fisheries
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock image
+Courtesy of Eric Druxman
