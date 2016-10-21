@@ -94,21 +94,21 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Oct 18, 2016 Technology &. Standards Forum
-
-Join OTA and CTA in Austin, Texas, to learn, network and collaborate with industry experts as we discuss the latest consumer technologies and develop strategies for the future. There will be informative sessions, industry meetings and plenty of networking events. OTA Executive Director Craig Spiezle will be participating on several panels and plenary sessions addressing the IoT Trust Framework and Smart Home initiatives.  More Information
-
-Tue, Oct 18, 2016 SecureWorld St. Louis
-
-Join OTA at SecureWorld Expo. Program includes over 60 sessions, keynotes, panel discussions &. breakouts.  Earn 12-16 CPE credits and network with industry peers.  OTA Members save $150 with code SEA1P for the full SecureWorld Plus pass and $100 off of the Conference pass using code SEA1.
-
-Tue, Oct 18, 2016 Security of Things - Smart Card Alliance
-
-Security and privacy are top priorities as the Internet of Things (IoT) creates an increasingly connected world—connected devices are expected to reach 21 billion by the year 2020.
-
 Wed, Oct 19, 2016 NTIA IoT Working Group - Austin TX
 
 NTIA will convene the first meeting of a multistakeholder process concerning patching and upgradability of the Internet of Things (IoT)  in Austin, Texas.  IoT patching and upgradability was identified as an issue that required attention by commenters to NTIA's requests for comment related to IoT and cybersecurity. The goal of this process will be to develop a broad, shared definition or set of definitions around security upgradability for consumer IoT, as well as strategies for communicating the security features of IoT devices to consumers.
+
+Thu, Oct 27, 2016 Security of Things Forum - Wash DC
+
+Register using the 50% off code, **"IOT-DC"** Join OTA at the Forum (SECoT 2016) is a high-impact day focused on the pre- eminent challenge of our time: securing the Internet of Things. The event brings together players from across industries with a stake in the future of the Internet of Things. More than 160 people attended our 2015 Security of Things Forum, 40 percent of them senior information technology professionals and 40 percent CxOs or other executives.
+
+Thu, Oct 27, 2016 SecureWorld - San Jose
+
+Join OTA at SecureWorld Expo. Program includes over 60 sessions, keynotes, panel discussions &. breakouts.  Earn 12-16 CPE credits and network with industry peers.  OTA Members save $150 with code SEA1P for the full SecureWorld Plus pass and $100 off of the Conference pass using code SEA1.
+
+Wed, Nov 9, 2016 SecureWorld Expo - Seattle
+
+Join OTA at SecureWorld Expo Seattle.  OTA will be leading a session on vulnerability reporting and hosting member briefings.  Program includes over 60 sessions, keynotes, panel discussions &. breakouts.  Earn 12-16 CPE credits and network with industry peers. OTA Members discount codes! OTAP - $150 off SecureWorld Plus pass. OTA - $100 off Conference pass; OTAE - $30 off Open Session pass.
 
 More >>.
 
