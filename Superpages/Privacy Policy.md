@@ -30,7 +30,7 @@ Toggle navigationSuperpages Online Yellow Pages, Local Business Directory
 2.  About Us &. Help
 3.  Privacy Policy
 
-Privacy Policy - Straight talk about Internet privacy
+, Privacy Policy - Straight talk about Internet privacy
 
 Dex One Service, Inc. ("Dex One") and SuperMedia Inc. ("SuperMedia") and any company that is directly or indirectly controlled by, or under common control with Dex One or SuperMedia (collectively, "Dex Media") respects your right to privacy, and we want you to be aware of how we collect and handle information on each website and mobile application covered by this policy.
 
