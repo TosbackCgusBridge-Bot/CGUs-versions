@@ -523,25 +523,6 @@ Type your full name here to provide your electronic signature:
   
 Send
 
-*   Amateur
-*   Anal
-*   Asian
-*   Blowjob
-*   Ebony
-*   Erotic
-*   Fetish
-*   Hardcore
-*   HD
-*   Hentai
-*   Indian
-*   Latina
-*   Lesbian
-*   Mature
-*   Milf
-*   Strip
-*   Teen
-*   Threesome
-
 Legal
 
 *   Terms &. Conditions
@@ -570,9 +551,4 @@ Discover
 *   Tablet Version
 *   Hall of Fap
 
-Copyright © 2007-2016 Tube8.com, All Rights Reserved. en
-
-*   DE Deutsch
-*   ES Español
-*   FR Français
-*   JP 日本の
+Copyright © 2007-2016 Tube8.com, All Rights Reserved.
