@@ -92,9 +92,9 @@ SONY
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! When You Look Up and See More Than Just the Ceiling
+Your browser does not support JavaScript! The Thrill of the Unexpected
 
-Experience PlayStation®VR Today
+Experience PS VR Today
 
 Sony on Vine
 
