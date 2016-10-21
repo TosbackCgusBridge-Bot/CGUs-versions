@@ -43,7 +43,7 @@ Tel: +34 – 936 012 700
 Fax: +34 – 933 969 292  
 Email: legal@softonic.com
 
-Softonic International S.A.: Tax Identification Number: A-62134341. Filed with the Commercial Registry of Barcelona, Book 3251743674, Page 37213, Sheet B 210880, Entry 25.
+Softonic International S.A.: Tax Identification Number: A-62134341. Filed with the Commercial Registry of Barcelona, Book 44171, Page 136, Sheet B-210880.
 
 *   *   LEGAL INFORMATION
     *   CONTACT US
