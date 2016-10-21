@@ -1,4 +1,4 @@
-**Last Revised: September 26, 2016**
+**Last Revised: October 20, 2016**
 
 GoDaddy Respects your privacy
 
@@ -52,11 +52,12 @@ We use security measures to protect against the loss, misuse or alteration of th
 
 We follow generally accepted standards to protect the personal information transferred to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about the security of your personal information, you can contact us at privacy@godaddy.com.   We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements.  
 
-**Sending Emails**
+**Contacting You  
+**
 
-We use emails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+From time to time, GoDaddy or someone acting on behalf of GoDaddy may contact you, to confirm your orders, to send information to you, and to provide you with offers for services.  The contacts may occur by e-mail, telephone, or text message.  By providing your telephone or mobile number, you consent to receive marketing telephone calls from or on behalf of GoDaddy that may be initiated by an automatic telephone dialing system and/or use an artificial or prerecorded voice. You understand that providing consent is not a condition of purchasing any good or service from GoDaddy.  By providing your mobile number, you consent to receive marketing text messages from or on behalf of GoDaddy that may be sent by an automatic telephone dialing system. You understand that providing consent is not a condition of purchasing any good or service from GoDaddy. Message and data rates may apply. 
 
-The information you send to us may be stored and used to improve this Site, our mobile application, and our products, or it may be reviewed and discarded.
+Any information you send to us may be stored and used to improve this Site, our mobile application, and our products, or it may be reviewed and discarded.
 
 **Third Party Service Providers**
 
