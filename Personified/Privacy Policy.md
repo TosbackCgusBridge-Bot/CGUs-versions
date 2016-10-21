@@ -8,10 +8,16 @@ Sign In or Sign Up
 
 *   Home
 
+*   Post a Job
+    *   Buy Job Postings
+    *   About Job Postings
+*   Search Resumes
+    *   Buy Resume Database Access
+    *   About Resume Database
 *   Products and Resources
-    *   Browse Products
     *   Post a Job
     *   Search Resumes
+    *   Browse Products
     *   Resource Center
 *   Browse Products
     *   Broadbean Job Distribution  
@@ -23,12 +29,6 @@ Sign In or Sign Up
     *   Talentstream Recruit  
         Pre-hire platform
     *   View All Products
-*   Post a Job
-    *   Buy Job Postings
-    *   About Job Postings
-*   Search Resumes
-    *   Buy Resume Database Access
-    *   About Resume Database
 *   Resource Center
 
 Request Demo
@@ -42,12 +42,7 @@ Sign In to Your Account!
 
 *   For Job Seekers
 
-*   Overview
-*   Features
-*   Resources
-*   Customers
-
-Get Pricing Source &. Screen  
+Source &. Screen  
 
 A powerhouse team of project managers dedicated to growing your candidate pool at record speed.  
 
