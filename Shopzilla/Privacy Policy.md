@@ -18,12 +18,6 @@ Connexity
     *   Retailer Listings
     *   Retailer Site Monetization
     *   Publisher Monetization
-    
-    *   bizrate insights
-    *   Overview
-    *   Online Buyers
-    *   Online Visitors
-    *   Subscriptions
 *   About
     *   About Connexity
     *   Open Positions
@@ -64,11 +58,6 @@ Toggle navigation blog navsite nav
         *   Retailer Listings
         *   Retailer Site Monetization
         *   Publisher Monetization
-    *   Bizrate Insights
-        *   Overview
-        *   Online Buyers
-        *   Online Visitors
-        *   Subscriptions
 *   About
     *   About Connexity
     *   Open Positions
@@ -129,7 +118,6 @@ Connexity believes that relevant advertising is a good thing for consumers, and 
 Home  /  Privacy Policy Overview
 
 *   CPC Listings
-*   Bizrate Insights
 *   Programmatic
 *   Hitwise
 
@@ -138,7 +126,6 @@ Resources
 *   Blog
 *   Case Studies
 *   Consumer Insights
-*   Bizrate Insights FAQ
 *   Publisher Program FAQs
 
 Connexity
