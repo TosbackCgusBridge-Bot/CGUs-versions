@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**No Internet for WikiLeaks Founder Julian Assange**
+**Wonder Woman Named Honorary U.N. Ambassador**
 
-**Placebos Reduce Pain Even When Patients Know They're Taking Them**
+**The Link Between Birth Control and Depression: Should Women Be Worried?**
 
-**Nope, Boomers and Xers Don’t Work Harder Than Millennials**
+**Conspiracy Theories About, Around and From Donald Trump**
 
 **See More Headlines »**
 
