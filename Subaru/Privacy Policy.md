@@ -33,15 +33,15 @@ Up to
 
 BRZ Limited shown
 
-Impreza $18,295 starting price 2016 Impreza
+Impreza $18,395 starting price 2017 Impreza
 
 Starting at
 
-$18,295 MSRP
+$18,395 MSRP
 
 Up to
 
-37/28 MPG Hwy/City
+38/28 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
