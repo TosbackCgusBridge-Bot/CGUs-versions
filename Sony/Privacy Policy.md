@@ -102,9 +102,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-Do you still have questions about PlayStation VR? Read our newly updated Ultimate FAQ.
+We're aware that users are experiencing issues logging into PSN. Thanks for your patience as we investigate.
 
-2016-10-17 05:00:00+00:00
+2016-10-22 03:12:04+00:00
 
 View Tweet
 
@@ -212,9 +212,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-We’ve seen some insane Synaptic plays so far! Reply with your best Synaptic Rig gameplay and show off your skills.
+Do you turn your back on those closest to you? Join the betrayal for a chance to win a trip to Italy. #InfernoMovie
 
-2016-10-17 18:27:13+00:00
+2016-10-22 04:39:07+00:00
 
 View Tweet
 
@@ -282,9 +282,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-Leave your mark on the future — Apply now for Future Lab Program.
+.@Sia’s DELUXE version of #ThisIsActing, with 7 additional tracks, is now available everywhere!
 
-2016-10-17 23:00:04+00:00
+2016-10-22 04:44:16+00:00
 
 View Tweet
 
@@ -320,9 +320,9 @@ Sony on YouTube
 
 Play Video
 
-Make Your Own Smart Device
+Ray Romano Guest Stars On the Next Episode of "Kevin Can Wait"
 
-Learn About MESH
+Find Out About the Show
 
 Close
 
