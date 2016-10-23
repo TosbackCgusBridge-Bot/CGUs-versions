@@ -130,7 +130,7 @@ Google will be excused from performance in this Agreement to the extent that per
 
 Last Updated 5/24/2016
 
-Share this: Was this article helpful? YesNo Submit Google Analytics training and support resources
+Share this: Was this article helpful? How can we improve it? YesNo Submit Google Analytics training and support resources
 
 Check out our comprehensive list to learn more about Analytics solutions.
 
