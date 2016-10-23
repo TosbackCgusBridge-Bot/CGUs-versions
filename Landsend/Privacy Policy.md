@@ -136,8 +136,7 @@ menu 0
     FEATURED SHOPS
     
     *   New Arrivals
-    *   Ultimate Coat Finder
-    *   Hats, Gloves &. Scarves
+    *   Outerwear Shop
     *   Holiday Looks
     *   School Uniforms
     *   Iron Knee Pants
@@ -490,8 +489,7 @@ menu 0
     Back | Kids FEATURED SHOPS Back | Kids
     
     *   New Arrivals
-    *   Ultimate Coat Finder
-    *   Hats, Gloves &. Scarves
+    *   Outerwear Shop
     *   Holiday Looks
     *   School Uniforms
     *   Iron Knee Pants
