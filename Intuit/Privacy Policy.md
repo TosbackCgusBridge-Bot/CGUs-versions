@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15509175048
+true true L15512513439
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p13.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Sat Oct 22 11:15:37 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.2.0.4.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Sun Oct 23 11:11:19 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.2.0.4.0
 
 *   for the home
 *   bed &. bath
@@ -54,15 +54,11 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Rewards Members Shop &. Get A $10 Bonus Reward\*
+Power Penney Days Sale Last Day! | In Store &. Online | Ends October 23 Shop Power Penney Days Sale View Store AdRewards Members Shop &. Get A $10 Bonus Reward\*
 
-\*Earn a $10 reward for $50 spent in store or online 10/21/16-10/23/16, limit 1. Redeemable 10/22/16-12/19/16.
+\*Earn a $10 reward for $50 spent in store or online thru 10/23/16, limit 1. Redeemable thru 12/19/16.
 
-Get details: Power Penney Days Sale In Store &. Online | Ends October 23 Shop Power Penney Days Sale View Store AdGet In Store Early Friday or Saturday for a Coupon Giveaway
-
-While Supplies Last
-
-$10 Off\* $10 Or More Or, $20 Off\* $20 Or More Or, $100 Off\* $100 Or More \*Get Details:$5 JCPenney Home Solid Bath Towel
+Get details:$5 JCPenney Home Solid Bath Towel
 
 Select styles, reg. $12
 
@@ -78,7 +74,7 @@ Shop Thermal Shirts$11 Women's Made For Life Fleece Pullover
 
 Select styles, reg. $22
 
-Shop Fleece Pullovers \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Oct 22 07:49:39 CDT 2016 JVM :->. dtexppr1l1j4\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Oct 22 07:49:39 CDT 2016 JVM :->. dtexppr1l1j3\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Fleece Pullovers \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Oct 23 22:01:40 CDT 2016 JVM :->. dtexppr1l2j3\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Oct 23 22:01:55 CDT 2016 JVM :->. dtexppr1l2j2\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
