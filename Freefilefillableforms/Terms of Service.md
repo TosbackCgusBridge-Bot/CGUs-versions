@@ -33,26 +33,30 @@ Text Search Advanced
 *   Help &. Resources
 *   for Tax Pros
 
-Like - Click this link to Add this page to your bookmarks Share - Click this link to Share this page through email or social media Print - Click this link to Print this page Free File Fillable Forms is Now Closed Check back on January 19, 2016 at 1pm EST to use Free File Fillable Forms.
+Like - Click this link to Add this page to your bookmarks Share - Click this link to Share this page through email or social media Print - Click this link to Print this page Free File Fillable Forms is Now Closed The program operates every year, from January through Mid-October.    
 
-**Things you can do to get ready:**
+From October 17 through October 22, taxpayers were allowed to access their account, resubmit rejected returns and print returns.
 
-1.  Upgrade your Internet Browser to optimize your performance. Internet Explorer **8.0** will no longer be supported.
-2.  Review our Free File Fillable Forms User Guide.
-3.  Gather all your tax documents.
+**After October 22:**
+
+1.  Every account is erased from the server
+2.  It is not possible to access your return or return information
+3.  It is not possible to print your return
 
 Information and links that may assist you:
 
 *   If you weren't able to e-file your return but printed a copy, mail it in  
+*   Get a copy of your _**accepted**_ federal return with Get Transcript
 *   If you do not have a copy to mail, prepare another return
-*   For filing options, view the Online Individuals page
+*   For other filing options, view the Online Individuals page
 *   Get up-to-date refund information with Where's My Refund
-*   Get a copy of your _**accepted**_ federal return with Get a Transcript 
 *   Pay your balance or make estimated tax payments with Direct Pay
 
 The Free File Fillable Forms program welcomes your comments.
 
-Page Last Reviewed or Updated: 07-Jan-2016
+Go to the IRS Free File Page
+
+Page Last Reviewed or Updated: 13-Oct-2016
 
 *   Our Agency
     
