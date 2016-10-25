@@ -1,4 +1,4 @@
-Home Omniscope Download Forums Support Company   Knowledge Base
+Home Download Forums Support   Knowledge Base
 
 *   Features by Edition
 *   Latest Features
@@ -12,6 +12,11 @@ Home Omniscope Download Forums Support Company   Knowledge Base
 *   Scaling/Performance
 *   Reference
 *   Specifications
+*   Video Tutorials and Reference
+*   Featured Videos
+*   Demos and screenshots
+*   Online Error Report
+*   Support
 *   Legal-Small Print
     *   EULA
     *   Support Agreement
@@ -39,6 +44,4 @@ Home Knowledge Base Legal-Small Print Privacy Policy
 
 *   Print
 
-**Home**   **Omniscope** Download   **Support**   About Visokio Partners What's new? Editions Forums Video tutorials &. reference Careers Contact us Demos &. screenshots Clients Knowledge Base Featured videos
-
-© Visokio 2015 | Privacy Policy | Terms of Use | Contact Us
+© Visokio | Privacy Policy | Terms of Use | Contact Us
