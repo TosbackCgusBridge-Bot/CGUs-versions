@@ -71,6 +71,7 @@ Search Fidelity.com
     *   Sector Investing
     *   Cash Management &. Credit Cards
     *   Managed Accounts
+    *   Fidelity Go
     *   529 College Savings
     *   Annuities
     *   Life Insurance &. Long Term Care
