@@ -338,4 +338,4 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Order Status
     *   Support
 
-trusteValidation 2016 Lenovo. All rights reserved. Email this pagePrint this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms &. Conditions
+trusteValidation 2016 Lenovo. All rights reserved. Email this pagePrint this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions
