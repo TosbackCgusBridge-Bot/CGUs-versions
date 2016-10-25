@@ -187,9 +187,9 @@ Adopt an Acre
 
 One acre at a time can make a big difference for our landscapes! Adopt
 
-Help Conserve Water
+Climate Change Threats
 
-Everyday tips for how you can save water, our most precious resource. Read Our Tips
+What are the impacts of climate change? What are the solutions? Find Out
 
 SIGN UP FOR e-NEWS SUBSCRIBE STAY CONNECTED
 
