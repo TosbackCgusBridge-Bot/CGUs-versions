@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Aerial photos of North Carolina flooding now available online Fisheries Blog: Single millennial or family of four, fish is what’s for dinner National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Climate 4 ways the ozone hole is related to global warming, and 1 way it isn’t Fisheries Blog: Single millennial or family of four, fish is what’s for dinner National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms U.S. Winter Outlook predicts warmer, drier South and cooler, wetter North Drought expected to persist in California and expand in the Southeast AROUND NOAA // Monthly record-warm streak ends, September 2nd warmest on record for globe Aerial photos of North Carolina flooding now available online ‘Every Full Moon’ video series debuts with sea creatures that light up the night 40 marine fish stocks rebuilt in U.S. fisheries
+Enter Search Terms U.S. Winter Outlook predicts warmer, drier South and cooler, wetter North Drought expected to persist in California and expand in the Southeast AROUND NOAA // Monthly record-warm streak ends, September 2nd warmest on record for globe ‘Every Full Moon’ video series debuts with sea creatures that light up the night Aerial photos of North Carolina flooding now available online
 
 *   About our agency
 *   News and features
