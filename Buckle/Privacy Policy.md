@@ -76,7 +76,7 @@
         
           
           
-        Give a Buckle Gift card #InTheseBlues Sweepstakes  
+        Give a Buckle Gift card Play with 2K Sweepstakes  
           
         ENTER NOW!
 *   Men
@@ -130,7 +130,7 @@
         
           
           
-        Give a Buckle Gift card #InTheseBlues Sweepstakes  
+        Give a Buckle Gift card Play with 2K Sweepstakes  
           
         ENTER NOW!
 *   Kids
@@ -159,7 +159,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card #InTheseBlues Sweepstakes  
+        Give a Buckle Gift card Play with 2K Sweepstakes  
           
         ENTER NOW!
 *   Jeans
@@ -189,7 +189,7 @@
         
           
           
-        Give a Buckle Gift card #InTheseBlues Sweepstakes  
+        Give a Buckle Gift card Play with 2K Sweepstakes  
           
         ENTER NOW!
 *   New
@@ -222,7 +222,7 @@
         *   Boy's New Jeans
         *   Shop All
         
-        Give a Buckle Gift card #InTheseBlues Sweepstakes  
+        Give a Buckle Gift card Play with 2K Sweepstakes  
           
         ENTER NOW!
 *   Sale
@@ -259,7 +259,7 @@
         
           
           
-        Give a Buckle Gift card #InTheseBlues Sweepstakes  
+        Give a Buckle Gift card Play with 2K Sweepstakes  
           
         ENTER NOW!
 
