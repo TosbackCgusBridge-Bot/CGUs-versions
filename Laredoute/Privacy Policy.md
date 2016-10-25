@@ -3,7 +3,7 @@ Retour Données personnelles et Cookies
 **Bienvenue sur le site Redoute.fr.**  
 **Cette rubrique est consacrée à notre Politique de Protection de la Vie Privée.**
 
-Elle a pour objet de vous donner les informations quand à l’utilité et à l’usage des données personnelles que nous recueillons lors de vos visites sur notre site, lors de la création de votre compte client, lors de vos commandes, lors de vos contact avec la relation client.
+Elle a pour objet de vous donner les informations quant à l’utilité et à l’usage des données personnelles que nous recueillons lors de vos visites sur notre site, lors de la création de votre compte client, lors de vos commandes, lors de vos contacts avec la relation client.
 
 *   **Données personnelles**
 
