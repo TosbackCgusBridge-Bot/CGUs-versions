@@ -76,17 +76,17 @@ Login Let's Connect What We Do Watch Video
     Return On Ad Spend
 
 *   The Latest News
-*   Marketing Is Failing At Its Top Priority
+*   Winner: DMA Innovation Award
     
-    New Report With Econsultancy  
+    Our video personalization platform, Kepler  
     
 *   Don’t Talk to Digital Strangers
     
     How to have true 1:1 conversations  
     
-*   A Clearer Path to Ad Quality
+*   Marketing Is Failing At Its Top Priority
     
-    Our industry-leading partnership with TAG
+    New report with Econsultancy  
     
 *   The 99%+ Human Guarantee
     
