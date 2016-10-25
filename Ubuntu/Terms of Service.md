@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Learn about Open Source technologies on Microsoft Azure ›
 *   Managing your physical infrastructure from the top of rack switch ›
 *   Live kernel patching from Canonical now available for Ubuntu 16.04 LTS ›
 *   DataArt to deploy Juju for “Big Software” collaboration ›
-*   Canonical and ARM collaborate on OpenStack ›
