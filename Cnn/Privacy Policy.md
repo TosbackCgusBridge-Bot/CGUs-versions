@@ -53,6 +53,7 @@ Sport
 *   Horseracing
 *   Equestrian
 *   Sailing
+*   Skiing
 
 Travel
 
@@ -179,6 +180,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
     5.  Horseracing
     6.  Equestrian
     7.  Sailing
+    8.  Skiing
 
 1.  Travel
     1.  Aviation
