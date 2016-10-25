@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Wonder Woman Named Honorary U.N. Ambassador**
+**Is Anyone Safe From Another Massive Internet Outage?**
 
-**The Link Between Birth Control and Depression: Should Women Be Worried?**
+**Ridiculous History: How an Irish Beer Became the Authority on World Records**
 
-**Conspiracy Theories About, Around and From Donald Trump**
+**Which Country Is the Most Empathetic? (Hint: It's Not the U.S.)**
 
 **See More Headlines »**
 
