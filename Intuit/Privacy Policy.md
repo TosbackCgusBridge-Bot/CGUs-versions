@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15512513439
+true true L15515770209
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Sun Oct 23 11:11:19 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.2.0.4.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Mon Oct 24 11:00:31 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.2.0.4.0
 
 *   for the home
 *   bed &. bath
@@ -54,27 +54,23 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Power Penney Days Sale Last Day! | In Store &. Online | Ends October 23 Shop Power Penney Days Sale View Store AdRewards Members Shop &. Get A $10 Bonus Reward\*
+Our Biggest Sale\* of Them All The Entire Store Is On Sale! Starts Now! | In Store &. Online | Ends October 29
 
-\*Earn a $10 reward for $50 spent in store or online thru 10/23/16, limit 1. Redeemable thru 12/19/16.
+\*Excludes Nike, Converse, Sephora and new arrivals
 
-Get details:$5 JCPenney Home Solid Bath Towel
+Shop Now Shop the Ad$9 Fleece For The Family
 
-Select styles, reg. $12
+Select styles, reg. $18-$26
 
-Shop Bath Towels$7 Total Girl Leggings
+Shop Men Shop Women Shop Boys Shop Girls $25 Puffer Jacket
 
-Select styles, reg. $16
+Select styles, reg. $60-$100
 
-Shop Leggings$9 Guys' Arizona Solid Thermal Shirts
+Shop Men Shop Women Shop Boys Shop Girls         Arizona Jean Co. $25 Booties for Her
 
-Select styles, reg. $24
+Select styles, reg. $60
 
-Shop Thermal Shirts$11 Women's Made For Life Fleece Pullover
-
-Select styles, reg. $22
-
-Shop Fleece Pullovers \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Oct 23 22:01:40 CDT 2016 JVM :->. dtexppr1l2j3\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Oct 23 22:01:55 CDT 2016 JVM :->. dtexppr1l2j2\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Booties for Her Shop Women Shop Men Shop Kids Shop Home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Oct 24 02:42:17 CDT 2016 JVM :->. dtexppr1c1j1\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Oct 24 02:42:17 CDT 2016 JVM :->. dtexppr1c2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
