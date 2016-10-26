@@ -1,7 +1,7 @@
 Abercrombie &. Fitch US  
 Privacy Policy
 
-Updated: September 2016
+Updated: October 2016
 
 Ad Cookie Policy How Third Parties Serve You Our Advertisements On Other Websites and Your Choices
 
@@ -215,7 +215,7 @@ We designed our online store to accept orders only from Web browsers that permit
   
   Supported Web Browsers
 
-Abercrombie.com supports Microsoft Internet Explorer 10.0+ and Apple Safari 7.0+.  We recommend if you are viewing our websites on Google Chrome or Mozilla Firefox to download the latest version in order to maximize your experience, otherwise you may not be able to access or utilize all pages on our websites as intended.  
+Abercrombie.com supports Microsoft Internet Explorer 11.0+, Android 4.4+, Apple OS X 10.9+, and Apple iOS 8+.  We recommend if you are viewing our websites on Google Chrome or Mozilla Firefox to download the latest version in order to maximize your experience, otherwise you may not be able to access or utilize all pages on our websites as intended.  
 
   
   Questions/Contact Us
