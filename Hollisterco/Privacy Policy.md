@@ -1,7 +1,7 @@
 Hollister Co. US  
 Privacy Policy
 
-Updated: June 2016
+Updated: October 2016
 
 Ad Cookie Policy How Third Parties Serve You Our Advertisements On Other Websites and Your Choices
 
@@ -199,7 +199,7 @@ In addition, we designed our online store to accept orders only from Web browser
 
 Supported Web Browsers
 
-HollisterCo.com supports Microsoft Internet Explorer 10.0+ and Apple Safari 7.0+.  We recommend if you are viewing our websites on Google Chrome or Mozilla Firefox to download the latest version in order to maximize your experience, otherwise you may not be able to access or utilize all pages on our websites as intended.  
+HollisterCo.com supports Microsoft Internet Explorer 11.0+, Android 4.4+, Apple OS X 10.9+, and Apple iOS 8+.  We recommend if you are viewing our websites on Google Chrome or Mozilla Firefox to download the latest version in order to maximize your experience, otherwise you may not be able to access or utilize all pages on our websites as intended.  
 
 Questions/Contact Us
 
