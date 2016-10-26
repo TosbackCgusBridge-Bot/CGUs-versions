@@ -58,7 +58,15 @@ Categories
     *   Soccer
     *   Boxing
 
-Sign In Categories
+Sign In
+
+Pick a theme
+
+*   Red
+*   Blue
+*   Pink
+
+Categories
 
 *   {text} ({games\_number})
     
