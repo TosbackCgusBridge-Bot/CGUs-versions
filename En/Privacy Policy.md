@@ -27,7 +27,7 @@ LEGAL INFORMATION COMPANY INFORMATION
 *   Privacy Policy
 *   Cookies policy
 *   Multi-Campaign Advertising
-*   Software Policy
+*   Ads and Software Policies
 
 Contact us
 
