@@ -142,8 +142,8 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Jerseys
     *   PhotosCustom Shop MLB Auctions
 *   MLB.TV MLB.TV MLB.TV
-    *   MLB.TV Postseason (US)
-    *   MLB.TV Postseason (INTL)
+    *   Buy MLB.TV (US)
+    *   Buy MLB.TV (INT'L)
     *   Watch MLB.TV
     *   Alternative Audio
     *   MLB.TV Postseason Schedule
