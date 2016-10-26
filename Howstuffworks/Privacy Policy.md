@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Is Anyone Safe From Another Massive Internet Outage?**
+**Hear and Now: Echidnas Are the Coolest Monotremes Ever**
 
-**Ridiculous History: How an Irish Beer Became the Authority on World Records**
+**Monster Science Figures Out What That Creepy 'Alien' Facehugger Is**
 
-**Which Country Is the Most Empathetic? (Hint: It's Not the U.S.)**
+**Should You Know if Your Doctor Is a Democrat or a Republican?**
 
 **See More Headlines »**
 
