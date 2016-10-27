@@ -89,11 +89,9 @@ Phonebook
 *   2) Social Media Profiles &. More - Search Free! View All Details
     
 
-*   1) Enter Privacy Policy's Phone Number. 2) Get Their Current Address.
+*   Privacy Policy's Phone #, Address &. More View All Details
     
-*   1) Enter Privacy Policy's Phone Number. 2) Get Their Social Profiles.
-    
-*   1) Enter Privacy Policy's Phone Number. 2) Get Their Email Address.
+*   Privacy Policy's Contact Info, Social Profiles &. More View All Details
     
 
 *   Privacy Policy - Get Contact Information Phone Number
