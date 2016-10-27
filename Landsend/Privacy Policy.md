@@ -222,7 +222,6 @@ menu 0
     *   Boys
     
     FEATURED SHOPS
-    *   New Arrivals
     *   Boots &. Booties
     *   Fall Flats
     *   Accessories &. Bags
@@ -575,7 +574,6 @@ menu 0
     *   Boys
     
     FEATURED SHOPS Back | Shoes
-    *   New Arrivals
     *   Boots &. Booties
     *   Fall Flats
     *   Accessories &. Bags
