@@ -1,40 +1,77 @@
 icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev iconicon-tag-close icon Toggle navigation Menu Go
 
-*   PRODUCTS BROWSE BY AGE
+*   SHOP
     
-    *   Baby on the way
-    *   Birth - 5 months
-    *   6 - 11 months
-    *   1 year
-    *   2 years
-    *   3 years
-    *   4 years
-    *   5+ years
-    *   See all >.
+    *   FEATURED
+    *   SHOP BY CATEGORY
+    *   SHOP BY BRAND
+    *   SHOP BY AGE
     
-    BROWSE BY CATEGORY
+    *   What’s New
+    *   Holiday Gift Guide
+    *   As Seen On TV
+    *   Fan Faves
+    *   Exclusives
+    
+    *   Award Winners
+    *   Clearance
+    
+    See all
     
     *   Baby Gear
     *   Baby Toys
+    *   Playsets &. Action Figures
+    *   Toy Cars, Trains &. Train Sets
+    *   Ride-On Toys
+    
     *   Dolls, Dollhouses &. Accessories
     *   Learning &. Educational Toys
-    *   Playsets &. Action Figures
-    *   Ride-on Toys
-    *   Toy Train Sets
-    *   See all >
+    *   Building Toys
+    *   Musical Toys
+    *   Role Play Toys
     
-    BY BRAND/CHARACTER
+    *   Sports &. Outdoor Toys
+    *   Wooden Toys
+    *   Apparel &. Bedroom
+    *   Books, Puzzles &. Games
     
-    *   Everything Baby Everything Baby
+    See all
+    
+    *   Everything Baby
     *   Little People®
+    *   Thomas &. Friends™
     *   Imaginext®
     *   Laugh &. Learn™
-    *   Think and Learn
-    *   Thomas and Friends™
-    *   See all >
     
-    Award Winners
-    *   Award Winners
+    *   Think &. Learn
+    *   Loving Family™
+    *   Power Wheels®
+    *   Bright Beats™
+    *   Shimmer and Shine™
+    
+    *   Disney
+    *   Mega Bloks® Preschool
+    *   Grow-With-Me
+    *   Blaze and the Monster Machines™
+    *   Bob the Builder™
+    
+    *   Dora &. Friends™
+    *   The Octonauts
+    *   Smart Toy®
+    *   Spinnyos™
+    *   Doodle Pro
+    
+    See all
+    
+    *   Baby on the Way
+    *   Birth to 6 months
+    *   6-12 Months
+    *   12-24 Months
+    *   2-3 Years
+    
+    *   3-4 Years
+    *   4-5 Years
+    *   5+ YearsSee all
 *   AGE-BY-AGE PLAYTIME GUIDE
     
     *   1 Month
@@ -62,6 +99,31 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   3 Years
     *   4 Years
     *   5+ Years
+*   BRANDS Fisher-Price Brands
+    
+    *   Everything Baby
+    *   Little People®
+    *   Imaginext®
+    *   Laugh &. Learn®
+    *   Think &. Learn
+    
+    *   Thomas &. Friends™
+    *   Power Wheels®
+    *   Smart Toy®
+    *   Dora and Friends™
+    *   Bob the Builder™
+    
+    *   Spinnyos™
+    *   Mickey Mouse Clubhouse
+    *   Minnie
+    *   Captain Jake and the Never Land Pirates
+    *   Blaze and the Monster Machines™
+    
+    *   MEGA BLOKS®
+    *   Loving Family™
+    *   Octonauts™
+    *   Shimmer and Shine™
+    *   Bright Beats™
 *   PARENTING CATEGORIES
     
     *   All About Pregnancy
@@ -84,13 +146,6 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   Sleeping &. Soothing
     *   Traveling
     
-    *   Iconic designer Jonathan Adler is joining our team!
-    *   Learn more
-    
-    *   Introducing Grow Childhood™ Development App  
-        Learn more >.
-    *   Learn more
-    
     MORE TO EXPLORE
     
     *   Email Sign Up
@@ -101,66 +156,72 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     
     *   International Parenting Study
 *   GAMES &. ACTIVITIES Online Games Apps for Kids Online Videos Coloring Pages Crafts for Kids Play &. Learn Activities
-*   OUR STORY Safety Earning your trust Research Learning from the experts Heritage How we’ve grown Loved &. Trusted Thanks, Mom! See all >.
-*   STORE
+*   Sign In / Register
 
 STAY IN TOUCH WITH US HERE: PRODUCTS
 
 *   Baby Gear
 *   Baby Toys
-*   Building Toys
-*   Dolls, Dollhouses &. Accessories
-*   Learning &. Educational Toys
-*   Outdoor Toys &. Sports
-
 *   Playsets &. Action Figures
-*   Puzzles, Books &. Games
-*   Ride-on Toys
-*   Stuffed Animals &. Characters
-*   Toy Cars, Trucks &. Vehicles
-*   Toy Trains &. Train Sets
+*   Toy Cars, Trains &. Train Sets
+*   Ride-On Toys
+*   Dolls, Dollhouses &. Accessories
+
+*   Learning &. Educational Toys
+*   Building Toys
+*   Musical Toys
+*   Role Play Toys
+*   Sports &. Outdoor Toys
+*   Wooden Toys
+*   Apparel &. Bedroom
+*   Books, Puzzles &. Games
 
 BRANDS
 
-*   Everything Baby
-*   Laugh &. Learn
 *   Little People
 *   Imaginext
 *   Power Wheels
 *   Thomas &. Friends
+*   Laugh &. Learn
+*   Everything Baby
+*   Think &. Learn
+*   Loving Family
+*   Bright Beats
+*   Shimmer and Shine
+*   Mega Bloks Preschool
+*   Smart Toy
+*   Bob the Builder
+*   Disney
+
+MORE TO EXPLORE
+
+*   Our Story
+*   Parenting Articles
+*   Age-by-Age Playtime Guide
 
 GAMES &. ACTIVITIES
 
-*   Apps for Kids
 *   Coloring Pages
 *   Crafts for Kids
 *   Online Games
 *   Online Videos
-
-MORE TO EXPLORE
-
-*   Age-by-Age Playtime Guide
-*   Birthday Party Tips
-*   Our Story
-*   Parenting Articles
-
-SHOPPING
-
-*   Our Online Store
-*   Replacement parts
-*   Request a Catalog
+*   Apps for Kids
 
 CUSTOMER SERVICE
 
 *   Contact Us
+*   Order Status
 *   Product Registration
-*   Recalls
 *   Instructions
-
-OTHER F-P SITES
-
-*   En Español
+*   Terms &. Conditions
+*   Terms of Sale
+*   Recalls
+*   Privacy Statement
+*   AdChoices
+*   Replacement parts
 *   Submit Product Ideas
+
+Home for Fisher-Price Toys &. More | Use of this site signifies your acceptance of the terms and conditions of use. ©2016 Mattel All Rights Reserved.
 
 COUNTRY AustraliaBelgium (België)Brazil (Brasil)Bulgaria (България)CanadaCanada (Francais)China (中国)Croatia (Hrvatska)Czech Republic (Cheskà Republika)Denmark (Danmark)Estonia(Eesti)Finland (Suomi)FranceGermany (Deutschland)Greece (Ελλάδα)Hong Kong (English)Hong Kong (香港)Hungary (Magyarorszàg)IndiaIndonesia (bəˈhɑːsə)Israel (ישראל)Italy (Italia)Japan (日本)Korea (한국)Latvia(Latvija)Lithuania(Lietuva)MexicoNetherlands (Nederland)Norway (Norge)Poland (Polska)PortugalRomania (România)Russia (Россия)Slovakia (Slovensko)Slovenia (Slovenija)South AfricaSoutheast AsiaSpain (España)Sweden (Sverige)SwitzerlandTaiwan (臺灣)The Kingdom of Saudi Arabia (المملكة العربية السعودية)Turkey (Türkiye)Ukraine (Україна)United KingdomUnited StatesUnited States (Español)
 
@@ -169,10 +230,6 @@ COUNTRY AustraliaBelgium (België)Brazil (Brasil)Bulgaria (България)Cana
 
 *   Terms &. Conditions
 *   Privacy Statement
-
-©2016 Mattel All Rights Reserved
-
-Home for Fisher-Price Toys &. More | Use of this site signifies your acceptance of the terms and conditions of use.
 
 AdChoices
 
