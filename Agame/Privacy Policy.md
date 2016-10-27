@@ -62,6 +62,7 @@ Sign In
 
 Pick a theme
 
+*   Halloween
 *   Red
 *   Blue
 *   Pink
@@ -108,12 +109,12 @@ View more results
     Join for free
 *   Hot Games
     
-    *   Slotomania
-    *   Klondike - the lost expedition
     *   Hero Simulator: Idle Adventure
+    *   Family Barn
+    *   Lady Popular
+    *   Wormax io
+    *   Doodle Creatures
     *   SuperOrbit.io
-    *   Jewel Burst
-    *   Slither.io
     
     Mobile Apps More
     
