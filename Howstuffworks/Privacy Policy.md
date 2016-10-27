@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Hear and Now: Echidnas Are the Coolest Monotremes Ever**
+**Junko Tabei, the First Woman to Conquer Everest, Has Died**
 
-**Monster Science Figures Out What That Creepy 'Alien' Facehugger Is**
+**Cartoonist Jack Chick Dies, Having Offended Pretty Much Everyone**
 
-**Should You Know if Your Doctor Is a Democrat or a Republican?**
+**Teaching Typing May Be a Waste of Time**
 
 **See More Headlines »**
 
