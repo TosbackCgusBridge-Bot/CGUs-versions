@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Climate 4 ways the ozone hole is related to global warming, and 1 way it isn’t Fisheries Blog: Single millennial or family of four, fish is what’s for dinner National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Climate 4 ways the ozone hole is related to global warming, and 1 way it isn’t Sanctuaries Oceans &. Coasts ‘Every Full Moon’ video series debuts with sea creatures that light up the night National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Climate
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms U.S. Winter Outlook predicts warmer, drier South and cooler, wetter North Drought expected to persist in California and expand in the Southeast AROUND NOAA // Monthly record-warm streak ends, September 2nd warmest on record for globe ‘Every Full Moon’ video series debuts with sea creatures that light up the night Aerial photos of North Carolina flooding now available online
+Enter Search Terms Americans added nearly 1 pound of seafood to their diet in 2015 Report shows continued stability, sustainability in U.S. fisheries. some declines in West Coast stocks AROUND NOAA // Size of 2016 Antarctic ozone hole is nearly average, as expected U.S. Winter Outlook predicts warmer, drier South and cooler, wetter North Monthly record-warm streak ends, September 2nd warmest on record for globe
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-Courtesy of Eric Druxman
+iStock
