@@ -144,7 +144,7 @@ Close
 
 Learn How
 
-Working Our Way Through the Week Like ...
+When You're Totally in the Zone
 
 Experience PS VR Today
 
