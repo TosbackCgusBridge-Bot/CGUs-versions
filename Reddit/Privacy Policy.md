@@ -1,4 +1,4 @@
-**Reddit, Inc. Privacy Policy** _Effective Sep 30, 2016._
+**Reddit, Inc. Privacy Policy** _Effective October 26, 2016._
 
 1 We want you to understand how and why Reddit, Inc. (“Reddit,” “we” or “us”) collects, uses, and shares information about you when you access and use Reddit’s websites, mobile apps, widgets, and other online products and services (collectively, the "Services") or when you otherwise interact with us. This Privacy Policy applies to all of our Services, including those that maintain a separate Privacy Notice that incorporates this Privacy Policy by reference.
 
@@ -28,7 +28,7 @@ Log and Usage Data
 
 Information Collected from Cookies
 
-8 We may receive information from cookies, which are pieces of data your browser stores and sends back to us when making requests. We use this information to improve your experience, understand user activity, and improve the quality of our Services. For example, we store and retrieve information about your preferred language and other settings. For more information on how you can disable cookies, please see “Your Choices” below.
+8 We may receive information from cookies, which are pieces of data your browser stores and sends back to us when making requests. We use this information to improve your experience, understand user activity, personalize content and advertisements, and improve the quality of our Services. For example, we store and retrieve information about your preferred language and other settings. For more information on how you can disable cookies, please see “Your Choices” below.
 
 Location Information
 
@@ -48,7 +48,7 @@ How We Use Information About You
 *   Provide customer service;
 *   Communicate with you about products, services, offers, promotions, and events, and provide other news and information we think will be of interest to you (for information about how to opt out of these communications, see “Your Choices” below);
 *   Monitor and analyze trends, usage, and activities in connection with our Services. and
-*   Personalize the Services and provide advertisements, content and features that match user profiles or interests.
+*   Personalize the Services and provide advertisements, content and features that match user profiles or interests. (for information about how to manage the types of advertisements you experience on our Services, see “Your Choices” below).
 
 How We Share Information
 
@@ -110,34 +110,36 @@ Cookies
 
 25 Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject first- and third-party cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
 
-Third-Party Advertising and Analytics
+Advertising and Analytics
 
-26 Some analytics providers may provide specific opt-out mechanisms (e.g. Google Analytics Opt-out), and we will provide, as needed, additional tools and third-party services that allow you to better understand cookies and how you can opt-out. You have the ability to opt out of having your web browsing information used for behavioral advertising purposes. For more information about behavioral advertising, or to opt out, please visit www.aboutads.info/choices.
+26 Some analytics providers we partner with may provide specific opt-out mechanisms (e.g.Google Analytics Opt-out), and we may provide, as needed and as available, additional tools and third-party services that allow you to better understand cookies and how you can opt-out.
+
+27 We offer you choices about receiving personalized advertisements. You can adjust how we personalize advertisements for you by visiting your ads preferences here. You may also generally opt out of receiving personalized advertisements from certain third-party advertisers and ad networks. To learn more about these advertisements or to opt out, please visit the websites of the Digital Advertising Alliance and the Network Advertising Initiative.
 
 Do Not Track
 
-27 Do Not Track (“DNT”) is a privacy preference that you can set in most web browsers. We support DNT in our Services. There is no accepted standard on how to respond to web browsers’ DNT signals. When you have DNT enabled, we may still use information collected for analytics and measurement purposes or to otherwise provide our Services (e.g., reddit.com buttons), but we will not load any third-party trackers. You may, however, opt out of having information about you collected and used for behavioral advertising purposes, as described above.
+28 Do Not Track (“DNT”) is a privacy preference that you can set in most web browsers. While there is no accepted standard on how to respond to web browsers’ DNT signals, we support DNT as follows: When you have the DNT preference enabled in your web browser, we may still use information collected for analytics and measurement purposes or to otherwise provide our Services (e.g., reddit.com buttons), but we will not load any third-party trackers.
 
 Promotional Communications
 
-28 You may opt out of receiving promotional communications from us by following the instructions in those communications. If you opt out, we may still send you non-promotional communications, such as information about your account or your use of our Services.
+29 You may opt out of receiving promotional communications from us by following the instructions in those communications. If you opt out, we may still send you non-promotional communications, such as information about your account or your use of our Services.
 
 Mobile Notifications
 
-29 With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
+30 With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
 
 International Data Transfers
 
-30 We are based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing, transfer and storage of information in and to the U.S. and other countries, where you may not have the same rights as you do under local law.
+31 We are based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing, transfer and storage of information in and to the U.S. and other countries, where you may not have the same rights as you do under local law.
 
-31 When transferring data from the European Union, the European Economic Area, and Switzerland, Reddit complies with the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement (“Safe Harbor”). We have also submitted an application to participate in the E.U-U.S. Privacy Shield Program (“Privacy Shield”) and to comply with its framework and principles. To learn more about the Safe Harbor program, and to view our certification, please visit the U.S. Department of Commerce’s Safe Harbor website. For more information about the Privacy Shield principles and to view our certification, please visit the U.S. Department of Commerce’s Privacy Shield website.
+32 When transferring data from the European Union, the European Economic Area, and Switzerland, Reddit complies with the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement (“Safe Harbor”). We have also submitted an application to participate in the E.U-U.S. Privacy Shield Program (“Privacy Shield”) and to comply with its framework and principles. To learn more about the Safe Harbor program, and to view our certification, please visit the U.S. Department of Commerce’s Safe Harbor website. For more information about the Privacy Shield principles and to view our certification, please visit the U.S. Department of Commerce’s Privacy Shield website.
 
-32 Please direct any inquiries or complaints regarding our compliance with the Safe Harbor program and Privacy Shield principles to the point of contact listed in the “Contact Us” section below. If we do not resolve your complaint, you may submit your complaint free of charge to JAMS. Under certain conditions specified by the Privacy Shield principles, you may also be able to invoke binding arbitration to resolve your complaint. We are subject to the investigatory and enforcement powers of the FTC. If we share E.U. Data with a third-party service provider that processes the data solely on our behalf, then we will be liable for that third party’s processing of E.U. Data in violation of the Privacy Shield principles, unless we can prove that we are not responsible for the event giving rise to the damage.
+33 Please direct any inquiries or complaints regarding our compliance with the Safe Harbor program and Privacy Shield principles to the point of contact listed in the “Contact Us” section below. If we do not resolve your complaint, you may submit your complaint free of charge to JAMS. Under certain conditions specified by the Privacy Shield principles, you may also be able to invoke binding arbitration to resolve your complaint. We are subject to the investigatory and enforcement powers of the FTC. If we share E.U. Data with a third-party service provider that processes the data solely on our behalf, then we will be liable for that third party’s processing of E.U. Data in violation of the Privacy Shield principles, unless we can prove that we are not responsible for the event giving rise to the damage.
 
 Changes
 
-33 We may change this Privacy Policy from time to time. If we do, we will let you know by revising the date at the top of the policy. If we make a change to this policy that, in our sole discretion, is material, we will provide you with additional notice (such as adding a statement to r/announcements, the front page of the Services or sending you a notification). We encourage you to review the Privacy Policy whenever you access or use our Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy. If you continue to use our Services after Privacy Policy changes go into effect, you consent to the revised policy.
+34 We may change this Privacy Policy from time to time. If we do, we will let you know by revising the date at the top of the policy. If we make a change to this policy that, in our sole discretion, is material, we will provide you with additional notice (such as adding a statement to r/announcements, the front page of the Services or sending you a notification). We encourage you to review the Privacy Policy whenever you access or use our Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy. If you continue to use our Services after Privacy Policy changes go into effect, you consent to the revised policy.
 
 Contact Us
 
-34 If you have any questions about this Privacy Policy, please email legal@reddit.com.
+35 If you have any questions about this Privacy Policy, please email legal@reddit.com.
