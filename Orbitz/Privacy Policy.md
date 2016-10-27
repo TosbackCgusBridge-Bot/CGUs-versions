@@ -229,9 +229,9 @@ Orbitz Rewards
 
 *   Orbitz Rewards
 *   VIP Hotels
-*   Orbitz Rewards Visa Card
-*   Orbitz Rewards Benefits
-*   Orbitz Rewards Promotions
+*   Visa Card
+*   Benefits
+*   Promotions
 
 Other Links
 
