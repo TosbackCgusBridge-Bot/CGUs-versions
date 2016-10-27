@@ -33,6 +33,7 @@ Get Inspired
 *   Inspiring Tables
 *   What's Trending Now
 *   The Dish - Our Newsletter
+*   Events &. Features
 *   Everything for a Wedding
 
 Specials
@@ -134,6 +135,7 @@ Contact Us FAQ Shopping Cart Cart
     *   Inspiring Tables
     *   What's Trending Now
     *   The Dish - Our Newsletter
+    *   Events &. Features
     
     *   Baby Items
     *   Everything for a Wedding
@@ -242,4 +244,4 @@ Help &. Info Contact Us Return Policy Shipping &. Handling Gift Cards Our Compan
 
 1-800-REPLACE | My Account Terms &. Conditions | Site Map | Privacy Policy
 
-© 2016 Replacements, Ltd. All rights reserved.
+© 2016 Replacements, Ltd. All rights reserved. 1089 Knox Road McLeansville, NC 27301
