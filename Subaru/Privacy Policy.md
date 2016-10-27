@@ -48,7 +48,7 @@ Up to
 *   Compare
 *   Build Your Own
 
-Impreza 2.0i Limited shown
+2.0i Sport shown
 
 WRX $26,695 starting price 2017 WRX
 
