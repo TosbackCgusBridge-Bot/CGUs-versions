@@ -39,12 +39,19 @@
     *   Fruit &. Wine Combo
     *   Fruit &. Cheese Combo
 *   Gourmet Food &. Wine
+    
     View All Categories Shop by Category*   Wine
     *   Mustards &. Spreads
     *   Crackers
     *   HoneyGold® Ham
     *   Hickory Farms Simply™
     *   Pfaelzer Brothers Steak &. Seafood
+    *   Stock Your Pantry
+    *   Desserts
+    *   Gluten Free
+    *   Dinner for Two
+    
+    *   Pfaelzer Brothers© Steak &. Seafood
     *   Stock Your Pantry
     *   Desserts
     *   Gluten Free
@@ -60,7 +67,7 @@
     *   Gifts Under $50
     *   Gifts Over $50
     *   Gifts Over $90
-*   Specials
+*   Sale
 
 1.800.753.8558 Search Catalog Search Skip to content 1.800.753.8558 Stores Account
 
@@ -111,12 +118,19 @@
     *   Fruit &. Wine Combo
     *   Fruit &. Cheese Combo
 *   Gourmet Food &. Wine
+    
     View All Categories Shop by Category*   Wine
     *   Mustards &. Spreads
     *   Crackers
     *   HoneyGold® Ham
     *   Hickory Farms Simply™
     *   Pfaelzer Brothers Steak &. Seafood
+    *   Stock Your Pantry
+    *   Desserts
+    *   Gluten Free
+    *   Dinner for Two
+    
+    *   Pfaelzer Brothers© Steak &. Seafood
     *   Stock Your Pantry
     *   Desserts
     *   Gluten Free
@@ -132,7 +146,7 @@
     *   Gifts Under $50
     *   Gifts Over $50
     *   Gifts Over $90
-*   Specials
+*   Sale
 
 1.800.753.8558 Menu Search Stores Cart Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
 
@@ -233,7 +247,7 @@ Customer Service
 
 *   Business Gifts
 *   Gift Cards
-*   Find Stores
+*   Where to Buy
 *   Order Tracking
 *   Request a Catalog
 *   My Account
