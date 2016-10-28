@@ -93,6 +93,7 @@ Select countryAnguillaAntigua &. BarbudaArgentinaArmeniaAustraliaBahrainBarbados
 
 *   Careers
     *   About us
+    *   Mission, Vision, Values
 
 *   Contact
 
