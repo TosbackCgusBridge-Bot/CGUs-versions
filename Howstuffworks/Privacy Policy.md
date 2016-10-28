@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Junko Tabei, the First Woman to Conquer Everest, Has Died**
+**Why Didn't Evolution Give Us the Ability to Smell Fresh Water?**
 
-**Cartoonist Jack Chick Dies, Having Offended Pretty Much Everyone**
+**There Are 5 Types of Haunted House Visitors. Which One Are You?**
 
-**Teaching Typing May Be a Waste of Time**
+**Earthlings Crowdsource the Search for Martian 'Spiders'**
 
 **See More Headlines »**
 
