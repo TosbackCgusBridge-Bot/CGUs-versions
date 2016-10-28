@@ -106,9 +106,9 @@ Wed, Nov 9, 2016 SecureWorld Expo - Seattle
 
 Join OTA at SecureWorld Expo Seattle.  OTA will be leading a session on vulnerability reporting and hosting member briefings.  Program includes over 60 sessions, keynotes, panel discussions &. breakouts.  Earn 12-16 CPE credits and network with industry peers. OTA Members discount codes! OTAP - $150 off SecureWorld Plus pass. OTA - $100 off Conference pass; OTAE - $30 off Open Session pass.
 
-Tue, Dec 6, 2016 IoT Security Foundation Conference 2016 - London
+Wed, Nov 16, 2016 From Sign-up to Opt-out: Results &. Best Practices from Email Audit
 
-Building an Internet of Trust. The conference will look at what it takes to build an Internet of Trusted Things, what is currently underway, what we can learn from the past to predict the future and the necessary duties of care providers and adopters need to ensure.
+With Yes Lifecycle Marketing’s patronage, The Online Trust Alliance (OTA) conducted a comprehensive, independent audit of the top 200 online retailers to examine the entire email engagement process, from signing up for a brand’s emails to opting out of its email program. Register to learn best practices for every step of the email mailing process – from effective signup pages, through email validation, and efficient opt-out tactics.
 
 More >>.
 
