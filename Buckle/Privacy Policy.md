@@ -187,8 +187,6 @@
         *   Girl's Jeans
         *   Boy's Jeans
         
-          
-          
         Give a Buckle Gift card Play with 2K Sweepstakes  
           
         ENTER NOW!
