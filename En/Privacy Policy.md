@@ -54,4 +54,4 @@ Softonic International S.A.: Tax Identification Number: A-62134341. Filed with t
 *   Madrid
 *   San Francisco
 
-The name and logo of Softonic are registered trademarks of Softonic International, S.A. Copyright Softonic International, S.A. © 1997-2014 – All rights reserved.
+The name and logo of Softonic are registered trademarks of Softonic International, S.A. Copyright Softonic International, S.A. © 1997-2016 – All rights reserved.
