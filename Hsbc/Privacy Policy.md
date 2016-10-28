@@ -111,7 +111,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Culture
         *   Other sponsorships
     
-    *   UK needs to up trade game Stuart Gulliver on how Britain can succeed in a post-Brexit world.
+    *   Green finance in action HSBC’s first green bond is helping to support projects in 10 countries.
 *   Careers
     
     *   Key hiring areas
@@ -145,7 +145,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Frequently asked questions
         
     
-    *   Beginning the journey Find out what it is like to work at HSBC.
+    *   Students and graduates Discover our graduate programmes, internships and entry-level positions.
     *   Why HSBC? We have a supportive, inclusive and diverse environment.
 
 Online bankingOnline banking
