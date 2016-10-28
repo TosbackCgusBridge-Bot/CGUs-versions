@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Travel-friendly Lemur Ubuntu Laptop Updated to Kaby Lake ›
+*   Snapping Cuberite ›
 *   Infographic: Ubuntu Advantage explained ›
 *   Learn about Open Source technologies on Microsoft Azure ›
-*   Managing your physical infrastructure from the top of rack switch ›
-*   Live kernel patching from Canonical now available for Ubuntu 16.04 LTS ›
