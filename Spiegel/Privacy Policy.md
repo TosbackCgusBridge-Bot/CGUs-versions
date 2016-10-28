@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 10.709,68ǀ
+*   DAX 10.717,08ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -619,7 +619,7 @@ Alle Rechte vorbehalten
 Vervielfältigung nur mit Genehmigung der SPIEGELnet GmbH
 
   
-Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen. Serviceangebote von SPIEGEL-ONLINE-Partnern
+TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen. Serviceangebote von SPIEGEL-ONLINE-Partnern
 
 *   AUTO
 *   Benzinpreis
