@@ -210,6 +210,7 @@ GAMES &. ACTIVITIES
 CUSTOMER SERVICE
 
 *   Contact Us
+*   Returns
 *   Order Status
 *   Product Registration
 *   Instructions
