@@ -144,11 +144,19 @@ Close
 
 Learn How
 
-When You're Totally in the Zone
+Sharpen Your Photography Skills With the Help of a Pro
 
-Experience PS VR Today
+Participate in a Photo Walk
 
-Sony on Vine
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Participate in a Photo Walk
 
 Tom Hanks Returns to Face Robert Langdon's Greatest Challenge in "Inferno"
 
