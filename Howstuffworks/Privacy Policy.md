@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Why Didn't Evolution Give Us the Ability to Smell Fresh Water?**
+**Delving Into the Conspiracy Theories About and Around Hillary Clinton**
 
-**There Are 5 Types of Haunted House Visitors. Which One Are You?**
+**5 Things You Didn’t Know About Bob Ross**
 
-**Earthlings Crowdsource the Search for Martian 'Spiders'**
+**Christian-themed 'Hell Houses' Still Going Strong**
 
 **See More Headlines »**
 
