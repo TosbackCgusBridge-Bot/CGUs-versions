@@ -49,7 +49,7 @@ menu 0
     FEATURED SHOPS
     
     *   New Arrivals
-    *   Best of Fall
+    *   Holiday Dressing
     *   Ultimate Coat Finder
     *   The Starfish Collection
     *   Cardigan Shop
@@ -401,7 +401,7 @@ menu 0
     Back | Women FEATURED SHOPS Back | Women
     
     *   New Arrivals
-    *   Best of Fall
+    *   Holiday Dressing
     *   Ultimate Coat Finder
     *   The Starfish Collection
     *   Cardigan Shop
