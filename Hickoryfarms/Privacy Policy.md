@@ -45,11 +45,6 @@
     *   Crackers
     *   HoneyGold® Ham
     *   Hickory Farms Simply™
-    *   Pfaelzer Brothers Steak &. Seafood
-    *   Stock Your Pantry
-    *   Desserts
-    *   Gluten Free
-    *   Dinner for Two
     
     *   Pfaelzer Brothers© Steak &. Seafood
     *   Stock Your Pantry
@@ -124,11 +119,6 @@
     *   Crackers
     *   HoneyGold® Ham
     *   Hickory Farms Simply™
-    *   Pfaelzer Brothers Steak &. Seafood
-    *   Stock Your Pantry
-    *   Desserts
-    *   Gluten Free
-    *   Dinner for Two
     
     *   Pfaelzer Brothers© Steak &. Seafood
     *   Stock Your Pantry
@@ -202,9 +192,9 @@ My Account
 
 Guarantees
 
-*   Security
-*   Substitution Policy
 *   100% Satisfaction
+*   Substitution Policy
+*   Security
 
 Privacy
 
