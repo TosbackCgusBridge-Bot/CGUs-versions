@@ -17,17 +17,16 @@ Skip to main content Online Trust Alliance
 *   Initiatives
     *   Brand Protection
     *   Data Breach Readiness
-    *   Identity Theft
     *   Internet of Things
     *   Online Trust Audit &. Honor Roll
-    *   Email Integrity Audit
+    *   Email Security &. Integrity
     *   Privacy
     *   Public Policy
     *   Security
 *   Resources
     *   Advertising Integrity &. Fraud
     *   Data Breach &. Protection
-    *   Email Security &. Integrity
+    *   Email Marketing &. Security
     *   IoT Resources
     *   Malicious Threats
     *   Web and Mobile Security
@@ -115,6 +114,10 @@ More >>.
 *   OTA Blog
 *   Newsletters
 
+Fri, Oct 28, 2016 FCC Rule Making - Not Perfect But a MAJOR step forward
+
+Yesterday the FCC voted to approve privacy and security rules for broadband internet service providers.
+
 Wed, Sep 7, 2016 So you’ve had a data breach, now what?
 
 Companies, organizations and agencies that hold and transmit people’s personal information should keep it reasonably secure from unauthorized access and use. But what if there is a data breach that exposes the information? How should the breached entity help those affected? Should it offer them identity theft services?
@@ -127,15 +130,11 @@ Mon, Jun 20, 2016 Driving Trust with the 2016 Online Trust Audit
 
 The 2016 Online Trust Audit and Honor Roll shines a light on trust in security, privacy and consumer protection practices, recognizing excellence and leadership while highlighting key areas for improvement.
 
-Wed, Mar 30, 2016 FCC Chairman Takes Position on Privacy &. Broadband Providers
-
-Earlier this month FCC Chairman Wheeler released a draft fact sheet and Notice of Proposed Rule Making (NPRM), identifying several key concerns regarding consumer privacy and the use of their data. In response, **OTA submitted written comments to the Commission**.  _Update on March 31 the FCC Commisioners voted 3 to 2 to move forward on the NPRM._
-
 More >>. Resources
 
 *   Advertising Integrity &. Fraud
 *   Data Breach &. Protection
-*   Email Security &. Integrity
+*   Email Marketing &. Security
 *   IoT Resources
 *   Malicious Threats
 *   Web and Mobile Security
@@ -145,10 +144,9 @@ Initiatives
 
 *   Brand Protection
 *   Data Breach Readiness
-*   Identity Theft
 *   Internet of Things
 *   Online Trust Audit &. Honor Roll
-*   Email Integrity Audit
+*   Email Security &. Integrity
 *   Privacy
 *   Public Policy
 *   Security
