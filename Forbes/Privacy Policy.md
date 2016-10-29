@@ -6,7 +6,7 @@ Log in with your social account: Or, you can log in or sign up using Forbes.
 *   Lists
 *   Video
 
-Connect | Sign up | Log in 2 FREE Issues Of Forbes Forbes.com Privacy Statement
+Connect | Sign up | Log in The Little Black Book of Billionaire Secrets Forbes.com Privacy Statement
 
 _Revised and posted as of: October 11, 2016_  
   
