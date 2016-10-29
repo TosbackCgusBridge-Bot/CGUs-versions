@@ -92,7 +92,21 @@ SONY
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! Test Your Wits at Sony Square NYC's New Escape Games Installation
+Your browser does not support JavaScript! PlayStation™Vue Is Now Available on Our Android™ TVs
+
+Watch Live TV From your Favorite Networks
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Watch Live TV From your Favorite Networks
+
+Test Your Wits at Sony Square NYC's New Escape Games Installation
 
 RSVP Today
 
