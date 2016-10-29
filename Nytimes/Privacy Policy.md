@@ -1,11 +1,9 @@
-campaign: inyt2016\_bar1\_digi\_oct\_6F8YR -- 284627, creative: 2\_inyt2016\_bar1\_digi\_oct\_6F8YR\_endstoday -- 415062, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
+campaign: nyt2016\_bar1\_digi\_cpb\_67LXL -- 283987, creative: nyt2016\_bar1\_digi\_cpb\_67LXL -- 414213, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
 
 *   1 of 10 articles read
-*   SUBSCRIBE NOW How will this  
-    election impact  
-    the world? **Save 60%  
-    for one year.**  
-    Ends Today SUBSCRIBE NOW
+*   SUBSCRIBE NOW Real news deserves  
+    real journalism. Get The Times.  
+    As low as 99¢ for 4 weeks. SEE MY OPTIONS
 
 Subscribe*   Help
 
