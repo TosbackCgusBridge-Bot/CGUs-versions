@@ -93,14 +93,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Thu, Oct 27, 2016 Security of Things Forum - Wash DC
-
-Register using the 50% off code, **"IOT-DC"** Join OTA at the Forum (SECoT 2016) is a high-impact day focused on the pre- eminent challenge of our time: securing the Internet of Things. The event brings together players from across industries with a stake in the future of the Internet of Things. More than 160 people attended our 2015 Security of Things Forum, 40 percent of them senior information technology professionals and 40 percent CxOs or other executives.
-
-Thu, Oct 27, 2016 SecureWorld - San Jose
-
-Join OTA at SecureWorld Expo. Program includes over 60 sessions, keynotes, panel discussions &. breakouts.  Earn 12-16 CPE credits and network with industry peers.  OTA Members save $150 with code SEA1P for the full SecureWorld Plus pass and $100 off of the Conference pass using code SEA1.
-
 Wed, Nov 9, 2016 SecureWorld Expo - Seattle
 
 Join OTA at SecureWorld Expo Seattle.  OTA will be leading a session on vulnerability reporting and hosting member briefings.  Program includes over 60 sessions, keynotes, panel discussions &. breakouts.  Earn 12-16 CPE credits and network with industry peers. OTA Members discount codes! OTAP - $150 off SecureWorld Plus pass. OTA - $100 off Conference pass; OTAE - $30 off Open Session pass.
@@ -108,6 +100,14 @@ Join OTA at SecureWorld Expo Seattle.  OTA will be leading a session on vulnera
 Wed, Nov 16, 2016 From Sign-up to Opt-out: Results &. Best Practices from Email Audit
 
 With Yes Lifecycle Marketing’s patronage, The Online Trust Alliance (OTA) conducted a comprehensive, independent audit of the top 200 online retailers to examine the entire email engagement process, from signing up for a brand’s emails to opting out of its email program. Register to learn best practices for every step of the email mailing process – from effective signup pages, through email validation, and efficient opt-out tactics.
+
+Tue, Dec 6, 2016 IoT Security Foundation Conference 2016 - London
+
+Building an Internet of Trust. The conference will look at what it takes to build an Internet of Trusted Things, what is currently underway, what we can learn from the past to predict the future and the necessary duties of care providers and adopters need to ensure.
+
+Wed, Dec 7, 2016 Fall Technology Series: Smart TV
+
+Consumers enjoy recommendations based on their television viewing habits (“viewers who watched Mr. Robot… may enjoy Fight Club”), but who else knows what you’re watching? The golden age of television has arrived with the golden age of television tracking. In 2016, virtually all television delivery systems – smart TVs, streaming devices, game consoles, apps, and even old-fashioned set top boxes – track consumers’ viewing habits, and sometimes in new and unexpected ways.
 
 More >>.
 
