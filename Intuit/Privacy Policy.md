@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15525727036
+true true C15507584401
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p07.jcpenney.com SERVER NAME :->. dtcomexpr1l1j3 TIME :->. Sat Oct 29 11:15:29 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.2.0.4.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Sun Oct 30 11:15:29 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.2.0.4.0
 
 *   for the home
 *   bed &. bath
@@ -54,27 +54,15 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Our Biggest Sale\* of Them All The Entire Store Is On Sale! Last Day! | In Store &. Online | Ends October 29
+Our Biggest Sale\* of Them All The Entire Store Is On Sale! Held Over! | In Store &. Online | Ends October 30
 
 \*Excludes Nike, Converse, Sephora and new arrivals
 
-Shop Now Shop the Ad $9 Fleece For The Family
+Shop Now Shop the Ad$9 Fleece For The Family
 
 Select styles, reg. $18-$26
 
-Shop Men Shop Women Shop Boys Shop Girls $10 Off $10 or More
-
-Get in store early Saturday for a coupon giveaway
-
-While supplies last coupon valid in store Oct 29.
-
-Coupon required. Some restrictions &. exclusions apply. See coupon for details.
-
-Get details Doorbusters | Ends Saturday 1PM CDT
-
-Use your coupon and save even more!
-
-Shop Doorbusters $25 Puffer Jacket
+Shop Men Shop Women Shop Boys Shop Girls $25 Puffer Jacket
 
 Select styles, reg. $60-$100
 
@@ -82,7 +70,7 @@ Shop Men Shop Women Shop Boys Shop Girls         Arizona Jean Co. $25 Bootie
 
 Select styles, reg. $60
 
-Shop Booties for Her Shop Women Shop Men Shop Kids Shop Home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Oct 29 11:38:52 CDT 2016 JVM :->. dtexppr1l1j2\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Oct 29 11:39:01 CDT 2016 JVM :->. dtexppr1l1j4\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Booties for Her Shop Women Shop Men Shop Kids Shop Home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Oct 30 07:04:49 CDT 2016 JVM :->. dtexppr1c2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Oct 30 22:11:35 CDT 2016 JVM :->. dtexppr1c2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
