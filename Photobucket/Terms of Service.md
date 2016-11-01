@@ -1,16 +1,20 @@
-Photobucket.com Terms of Use Last revised August 20, 2013
+Photobucket.com Terms of Use
+
+**Photobucket.com Terms of Use**
+
+**Last revised October 25, 2016**
 
 Thank you for visiting Photobucket.com (the "**Site**"), operated by Photobucket.com, Inc. ("**Photobucket**" or "**we**" or "**us**"). Please carefully read these Terms of Use ("**Terms**") so you understand how we operate this Site, what we can offer and how we can work together. Please also read our Privacy Policy and Copyright and IP Policy. By using the Site and the Photobucket Services (even if you're just visiting), you are agreeing to the Terms and Privacy Policy posted at the time of your visit.
 
-About Us
+**About Us**
 
-Photobucket offers photo and video storage, story creation products and sharing services (collectively referred to as "**Photobucket Services**") that are offered via the Site, other social media, mobile services and mobile applications.
+Photobucket offers photo and video storage, story creation products and sharing and printing services (collectively referred to as "**Photobucket Services**") that are offered via the Site, other social media, mobile services and mobile applications.
 
-Our Customers
+**Our Customers**
 
 **The Site is open to anyone 13 years of age or older**, but some of the Photobucket Services are only available to registered members ("**Members**"). You can visit the Site without registering and we will consider you a "**User**."
 
-Membership Responsibilities
+**Membership Responsibilities**
 
 When you become a Member, you agree to the following:
 
@@ -25,56 +29,56 @@ If you become a Member, you are responsible for the Content and activities in yo
 
 Photobucket reserves the right to terminate your Membership at any time (even if you've paid), without warning for any or no reason, with or without prior notice or explanation and **without liability**, and can even take legal action if needed.
 
-For example, please note that it is our policy to terminate the accounts of Members who repeatedly infringe the intellectual property rights of others. We have a similar policy for Members who violate these Terms or commit illegal acts using the Site or Photobucket Services—although we may, in our discretion, instead deny, restrict or suspend access to all or any part of the Site or Photobucket Services or terminate a Member's account when something similar occurs.
+For example, please note that it is our policy to terminate the accounts of Members who infringe the intellectual property rights of others. We have a similar policy for Members who violate these Terms or commit illegal acts using the Site or Photobucket Services—although we may, in our discretion, instead deny, restrict or suspend access to all or any part of the Site, or Photobucket Services or suspend or terminate a Member's account when something similar occurs.
 
 You may cease use of the Photobucket Services at any time. Even after you are no longer a Member, you will still be responsible for the promises you have made to us about your Content (defined below). You'll be responsible for any damages that result from your breaking those promises as further outlined below.
 
-Cost and Pricing
+**Cost and Pricing**
 
 *   **Visiting**: There is no cost to visit the Site or to register as a Member.
-*   **Free account**: Each individual Member gets one free account.
-*   **Plus and Pro accounts**: These are paid accounts that may include more storage or bandwidth as outlined on the Site at the point of purchase. If you are a user of one of these services, we consider you a "Paying Member." All Terms apply unless explicitly stated.
+*   **Free account**: Each individual Member gets one free account that provides an amount of photo and video storage as set forth in “Content Limits”, below.
+    *   If an individual Member exceeds their Content Limit, their account will be immediately suspended and they will need to become a “Paying Member” (defined below) in order to continue accessing their account.
+*   **Plus account**: The Plus Account offers several paid options that may give the Paying Member more storage, bandwidth and/or other services as outlined under Content Limits, below, as well on the Site at the point of purchase. Once and during such period of time in which you subscribe to and pay for a Plus Account, we will consider you a "Paying Member." All Terms apply unless explicitly stated.
+    *   **Payments, Expirations, Refunds and Cancelations**: When you subscribe to the Plus service, you authorize Photobucket to charge you using your selected payment method for all applicable fees. If the auto-renewal option is selected, Photobucket will automatically charge your credit card annually, unless you notify us that you want to cancel or disable auto-renewal prior to the next renewal.
+    *   Paying Members are responsible for providing (and updating when necessary) complete and accurate billing and contact information to Photobucket.
+    *   Paying Members can cancel at any time by following the instructions here. If you cancel, you will not be charged for any future term of service, and you will continue to receive the service you purchased through the end of the paid term. Fees are non-refundable except as may be required by applicable law.
+    *   If any fee is not paid in a timely manner, or Photobucket is unable to process your transaction using the credit card information provided, Photobucket may suspend or terminate your account until such time as the applicable payment is made. At our discretion, Photobucket may also delete some or all of Your Files so as to reduce your storage space below the applicable Content Limit, which would result in the conversion of your Plus account to a free account (which is subject to the restrictions described in these Terms).
+    *   Paying Members are responsible for all taxes. Photobucket will charge taxes when required to do so.
 
-*   **Payments, Expirations, Refunds and Cancelations**: When you subscribe to the Plus or Pro service, Photobucket will automatically charge your credit card monthly or annually depending on your selection.
-*   Paying Members can cancel at any time by following the instructions here. If you cancel, you will not be charged for any future term of service, and you will continue to receive the service you purchased through the end of the paid term. No refund will be provided.
-*   If any fee is not paid in a timely manner, or Photobucket is unable to process your transaction using the credit card information provided, we will make an attempt to contact you via the email address you provided and will provide a grace period of 7 days. If your account is still not current after 7 days, Photobucket reserves the right, at **our discretion, to delete some or all of Your Files so as to reduce your storage space below 2 GB**. As a result, we will convert your Pro or Plus Account to a free account (which is subject to the restrictions described in these Terms).
-
-Content Limits
+**Content Limits**
 
 Photobucket continues to grow and get better because of users like you (Thank you!). If you are a Member, you can upload files containing text, images, sound and video ("**Content**"). However, here are some limitations:
 
 *   **File Size and Bandwidth Limits**: The file size, bandwidth and amount of storage you have are based on your account level.
     *   If you have a "free" account, please find details here.
-    *   If you have a "Pro" or "Plus" account, please find details here.
-        *   Photobucket has the right to change the limits at any time. If you are a Paying Member, you will have the opportunity to change your service at the beginning of the next payment term following any such modifications.
+    *   If you have a Plus account, please find details here.
+        *   Photobucket has the right to change the limits at any time. If you have a “free account” you can upgrade to a Plus account at any time. If you are a Paying Member, you will have the opportunity to change your service at the beginning of the next payment term following any such modifications.
 *   **Types of Content Limits**: At Photobucket, we strive to create a place where everyone feels welcome, so please be mindful of others. Broadly speaking, please do not upload Content you didn't create, that violates somebody else's rights, demeans another person, is offensive or harassing, seeks personal information or passwords, is a form of spam or that is illegal. We reserve the right to terminate your use for violation of these prohibitions or similar activities.
 
-Content &. Privacy
+**Content &. Privacy**
 
 You retain all your rights to any Content you submit, upload or display on or while using Photobucket. This means that **you own all the Content you post** and are responsible for its settings:
 
 *   You can mark any Content you upload as "private." Content marked "private" will not show up in public search results on the Site and only Users you have given access will be able view the Content either in your album or in search results.
-
-*   Although we have created measures to protect your privacy, please be aware that just because something is marked "private," does not mean that only the people you invite will see it. Users may still be able to find the direct URL for a photo or video through other search mechanisms, and then share or link to it outside the Site.
-*   **Please remember, if you share Content from the Site or provide someone with a direct link to Content, others may be able to see it, even if you marked it "private" on the Site.**
-
+    *   Although we have created measures to protect your privacy, please be aware that just because something is marked "private," does not mean that only the people you invite will see it. Users may still be able to find the direct URL for a photo or video through other search mechanisms, and then share or link to it outside the Site.
+    *   **Please remember, if you share Content from the Site or provide someone with a direct link to Content, others may be able to see it, even if you marked it "private" on the Site.**
 *   If you remove your Content from the Site or mark Content as "private" that was previously public, Photobucket will promptly hide it from search results on the Site. however, we might still have it stored in backup files or on servers, and we may retain it as needed. We are not responsible for sites that it was shared to before it was marked "private."
-*   When you make your Content public, you grant us a worldwide, non-exclusive, royalty-free, non-recovable, right and license to copy, sell, convey, distribute, stream, post publicly display (e.g. post it elsewhere), reproduce and create derivative works from it (meaning things based on it), whether in print or any kind of electronic version that exists now or is later developed, for any purpose, including a commercial purpose with the right to sublicense such rights to others.
+*   When you make your Content public, you grant us a worldwide, non-exclusive, royalty-free, non-revocable, right and license to copy, sell, convey, distribute, stream, post, publicly display (e.g. post it elsewhere), reproduce and create derivative works from it (meaning things based on it), whether in print or any kind of electronic version that exists now or is later developed, for any purpose, including a commercial purpose with the right to sublicense such rights to others.
 *   By making your content public, you are also giving other Members on Photobucket the right to copy, distribute, publicly perform, publicly display, reproduce and create derivative works from it via the Site, third party websites or applications (for example, via services allowing Members to order prints of Content or t-shirts and similar items containing Content, and via social media websites), **provided such use is not for a commercial purpose**.
 *   By uploading, you are confirming that the Content is yours—no one else's—and that the uploading and use of your Content does not violate the privacy rights, publicity rights, copyrights, contract rights, intellectual property rights or human rights of somebody else. If we learn that you are infringing others' rights or are using Content that is not yours, Photobucket has the right to remove this Content and you agree that you are responsible for any costs associated with the infringement.
 *   Photobucket may manipulate your Content to offer the Photobucket Services (including transcoding and/or reformatting Content) to allow its use throughout the Photobucket Services.
-*   Photobucket has the right to place advertising, promotions, notifications or identifiers and watermarks on or near your Content, and how and what are up to us.
+*   Photobucket has the right to place advertising, promotions, notifications or identifiers, banners and watermarks on or near your Content, and how and what are up to us.
 *   Photobucket may moderate Content. However, we are not responsible for what you have uploaded and we are under no obligation to modify or remove any inappropriate Content. We have provided some tools on the Site, such as links to "flag as inappropriate," so you can let us know if you find Content offensive.
 *   If you stop using the Photobucket Services, your Content may remain on the Site unless you actively remove your Content, and the rights you granted to us and other Users remain.
 *   In order to continue to improve the Site and Photobucket Services, we may use software and other things on the Site that we own or that have been licensed to us ("Photobucket Software"). Photobucket has also created the look, feel and architecture of the Site and has posted certain images and videos ("Photobucket Content"). Together the Photobucket Content and Photobucket Software are the "Photobucket Materials." Photobucket Materials are ours and remain ours. Except in viewing the Site, you agree that you will not copy, distribute, publicly perform, publicly display, reproduce or create derivative works from the Photobucket Software. If you follow these Terms, you are entitled to use and display the Photobucket Content the same way you would use other Public Content on the Site.
 
-Limits on Use
+**Limits on Use**
 
 *   It is a violation of these Terms to disrupt the Site or the way it functions, interfere with other Users' enjoyment of the Site or Photobucket Services or use the Site to deceive, harass or solicit people.
 *   It is also a violation to scrape the Site, fusker files or otherwise make any use of data mining, robots or similar data gathering and extraction tools.
 *   It is up to Photobucket whether to terminate your use for violation of these prohibitions or similar activities.
 
-Other Important Guidelines
+**Other Important Guidelines**
 
 *   You are solely responsible for your interactions with other Members. Nonetheless, we reserve the right, but are not obligated, to intervene for the benefit of the Site and Photobucket Services.
 *   These Terms and the Privacy Policy can change. Again, please carefully read this document and our other policies. We may announce if any "big" changes are made, but so long as you've used the Site after the change, regardless of any separate notice, you agree to the current posted version of the Terms.
@@ -89,7 +93,7 @@ Other Important Guidelines
 *   We are not responsible for advertisements or applications or services that are posted on or through the Site, nor do we have any responsibility for the goods or services provided by our advertisers or via other websites or applications, including our print vendor.
 *   The Site may contain links to other websites, wholly unrelated to Photobucket. For example, when you seek to print an image, you will be redirected to Photobucket's print vendor. If you enter the print site, or otherwise click on links to third party sites, you will be leaving the Site. When you do, you will be governed by the terms of use and privacy policy of that other site. You should review that site's terms and policies.
 
-Things to Keep in Mind
+**Things to Keep in Mind**
 
 Though everything in these Terms and in our Privacy Policy is a binding contract, we need to let you know the following:
 
@@ -97,7 +101,8 @@ Though everything in these Terms and in our Privacy Policy is a binding contract
 *   **Your Indemnity to Us**. If you breach any of the representations made herein regarding your rights in the Content, or your uploading of Content violates any of the promises you have made, you agree to indemnify, defend and hold Photobucket, its subsidiaries, and affiliates, and their respective officers, agents, partners and employees, harmless from any loss, liability, claim, or demand, including reasonable attorneys' fees, made by any third party due to or arising out of your use of the Site and Photobucket Services in violation of that and/or arising from any Content that you post on or through the Site and Photobucket Services.
 *   **Some Obligations Continue Even After You've Gone**. Even if you close your account or we terminate your Membership, you will still be responsible for indemnifying us for breaches that took place while you used the Site and Photobucket Services. Obligations you owed to us and Users of the Site, which by their nature are intended to survive closing or termination, will survive.
 
-Contact Us
+**Contact Us**
 
 *   **Get Copies**: You may request a copy of these Terms by emailing us at tou@Photobucket.com, Subject: Terms of Use Agreement.
-*   **Questions?** Please contact us at support@photobucket.com.
+
+**Questions?** Please contact us at support@photobucket.com
