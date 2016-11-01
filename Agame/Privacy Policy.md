@@ -62,7 +62,6 @@ Sign In
 
 Pick a theme
 
-*   Halloween
 *   Red
 *   Blue
 *   Pink
