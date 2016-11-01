@@ -92,7 +92,77 @@ SONY
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! PlayStation™Vue Is Now Available on Our Android™ TVs
+Your browser does not support JavaScript! Get Ready for a New Alicia Keys' Album
+
+Pre-Order Now
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+A Turntable Worthy of Your Vinyl Collection
+
+Learn More
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Learn More
+
+Sony on Instagram
+
+Sony on Twitter
+
+News! We’ve got a new ShowStopper celebrating Elvis’ The Wonder of You. Bid now.
+
+2016-11-01 07:56:40+00:00
+
+View Tweet
+
+Hear the Latest Chart Toppers
+
+Start Streaming
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Start Streaming
+
+Small Speaker, Big Sound
+
+Try Hi-Res Audio
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Try Hi-Res Audio
+
+PlayStation™Vue Is Now Available on Our Android™ TVs
 
 Watch Live TV From your Favorite Networks
 
@@ -138,13 +208,13 @@ Sony on Instagram
 
 Sony on Twitter
 
-Dive into an immersive experience into the worlds of @nbcblacklist &. @nbctimeless. RSVP now. #escapesonysquare
+Test your wits and #EscapeSonySquare with our @nbctimeless and @nbcblacklist challenges. Now through December 2
 
-2016-10-25 08:10:06+00:00
+2016-11-01 08:05:07+00:00
 
 View Tweet
 
-Test Out a Digital Camera
+Try Out a Digital Camera
 
 Learn How
 
@@ -172,9 +242,9 @@ Close
 
 Participate in a Photo Walk
 
-Tom Hanks Returns to Face Robert Langdon's Greatest Challenge in "Inferno"
+Call of Duty Goes to Space In the Newest Installment
 
-See It In Theaters This Week
+Play It Day One on PS4™
 
 Close
 
@@ -190,23 +260,9 @@ Sony on YouTube
 
 Play Video
 
-No Wires + Extra Bass + Splash Proof =
+Kings of Leon Return With "WALLS"
 
-Best Workout Ever
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Best Workout Ever
-
-Need a New Exercise Playlist?
-
-Stream Epic's Pop Hits
+Listen to Album
 
 Close
 
@@ -216,109 +272,21 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Stream Epic's Pop Hits
-
-Sony on Twitter
-
-Our dual SIM Xperia devices mean you only need one smartphone when you need to switch from work to pleasure.
-
-2016-10-25 03:33:04+00:00
-
-View Tweet
+Listen to Album
 
 Sony on Instagram
 
-Start the Baskeball Season Off Right
-
-Upgrade Your Television
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Upgrade Your Television
-
-It's Time to Assemble Your NBA 2K17 Team
-
-Download for PS3® or PS4™ Today
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-Use Any Surface as a Touchscreen
-
-Learn About the Xperia Projector
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-5 Tips for Photographing Fall Colors
-
-Take Better Pictures
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Take Better Pictures
-
-Become the Batman
-
-With PS VR
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-With PS VR
-
 Sony on Twitter
 
-At midnight, half the people on Earth will die. Watch Langdon as he races against time to save humanity in #InfernoMovie this Friday.
+.@Adele graces the cover of @VanityFair's December issue. Read the cover story.
 
-2016-10-25 03:32:51+00:00
+2016-11-01 07:51:37+00:00
 
 View Tweet
 
-Sony on Instagram
+Immerse Yourself in Video
 
-In 1969, Women Fought for Equality in the Newsroom
-
-See the Show Inspired by Real Events
+With the Xperia XZ
 
 Close
 
@@ -328,11 +296,39 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-See the Show Inspired by Real Events
+With the Xperia XZ
 
-Check Out the Exclusive Gaming Night for Sony Rewards Members
+The World Is a Big Place, Make Sure to Capture It
 
-Learn More About the Program
+Start Exploring With Action Cam
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Start Exploring With Action Cam
+
+A Murderer Will Be Revealed On Thursday's Episode of "Notorious"
+
+Get Caught Up Before Then
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Get Caught Up Before Then
+
+Academy Award-Winning Director Ang Lee Revolutionizes Filmmaking In "Billy Lynn's Long Halftime Walk"
+
+Learn More About the Film
 
 Close
 
