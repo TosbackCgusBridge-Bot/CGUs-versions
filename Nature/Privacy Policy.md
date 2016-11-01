@@ -191,7 +191,7 @@ Climate Change Threats
 
 What are the impacts of climate change? What are the solutions? Find Out
 
-SIGN UP FOR e-NEWS SUBSCRIBE STAY CONNECTED
+SIGN UP FOR e-NEWS SUBSCRIBE Please provide a valid email address STAY CONNECTED
 
 Facebook
 
@@ -247,7 +247,7 @@ The Nature Conservancy is a nonprofit, tax-exempt charitable organization (tax i
 
 \*By providing my mobile phone number, I agree that The Nature Conservancy may contact me by mobile phone call and text message regarding the Conservancy's programs, events and membership. Terms of Use | Privacy Policy
 
-x **Sign up** for Nature eNews! Sign Up for Nature e-News
+SUBSCRIBE Please provide a valid email address x **Sign up** for Nature eNews! Sign Up for Nature e-News
 
 Learn about the places you love. Find out  
 how you can help.
