@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Webinar: Managing diverse workloads with Juju ›
+*   Dirty COW was Livepatched in Ubuntu within Hours of Publication ›
 *   Travel-friendly Lemur Ubuntu Laptop Updated to Kaby Lake ›
 *   Snapping Cuberite ›
-*   Infographic: Ubuntu Advantage explained ›
-*   Learn about Open Source technologies on Microsoft Azure ›
