@@ -1,4 +1,4 @@
-15 3 2016.12.2.0.4.0
+15 3 2016.12.3.0.1.0
 
 *   Find a store
 *   store ads
@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15507584401
+true true C15510372359
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Sun Oct 30 11:15:29 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.2.0.4.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p19.jcpenney.com SERVER NAME :->. dtcomexpr1c1j4 TIME :->. Mon Oct 31 11:09:10 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.3.0.1.0
 
 *   for the home
 *   bed &. bath
@@ -54,23 +54,67 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Our Biggest Sale\* of Them All The Entire Store Is On Sale! Held Over! | In Store &. Online | Ends October 30
+Happy Halloween Take Your Pick
 
-\*Excludes Nike, Converse, Sephora and new arrivals
+Ends November 1 | In Store &. Online | Code: NOWBUY7
 
-Shop Now Shop the Ad$9 Fleece For The Family
+Extra 31% Off\* $100 or More, select styles Or, Extra 25% Off\* Under $100, select styles
 
-Select styles, reg. $18-$26
+\*Some exclusions apply
 
-Shop Men Shop Women Shop Boys Shop Girls $25 Puffer Jacket
+Get Coupon Get Details 50% Off\* Select Orig &. Reg-Priced Window, Luggage, Bedding &. Bath Or, 40% Off\* Select Orig &. Reg-Priced Home Decor, Furniture, Mattresses, Patio &. Outdoor Living Or, 30% Off\* Select Orig &. Reg-Priced Kitchen, Dining, Electrics and Electronics, Custom Blinds &. Shades
 
-Select styles, reg. $60-$100
+Online Only | Ends November 1 | Code: NOWBUY7
 
-Shop Men Shop Women Shop Boys Shop Girls         Arizona Jean Co. $25 Booties for Her
+\*Get Details: $20 Sweaters
+
+Select styles, reg. $36-$42
+
+Shop Men's St. John's Bay Sweaters Shop Women's A.N.A Sweaters     35.99 Booties for Her
 
 Select styles, reg. $60
 
-Shop Booties for Her Shop Women Shop Men Shop Kids Shop Home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Oct 30 07:04:49 CDT 2016 JVM :->. dtexppr1c2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Oct 30 22:11:35 CDT 2016 JVM :->. dtexppr1c2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Booties for Her Now Online &. In Select Stores! Major Appliances From Your Favorite Brands.
+
+Need help? Call 1-844-JCP-APPL (1-844-527-2775)
+
+Delivery not available in all markets.
+
+Get Details: Up to 20% Off\* Major Appliances
+
+Select styles
+
+Shop Major Appliances:
+
+\*GE, GE Profile &. GE Cafe limited to 10% off savings.
+
+18 Months or 36 Months Special Financing\*\*
+
+Available on qualifying major appliance purchases made through 11/30/16 on a JCPenney Credit Card. Must request at time of purchase.
+
+\*\*Get Details:
+
+Don't have a JCPenney Credit Card?
+
+Apply Now: Free Delivery &. Basic Installation
+
+On all appliance purchases over $299
+
+Get Details: JCPenney Rewards Shop &. Get Rewards
+
+For points earned on major appliances+
+
++Get Details: Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys Sephora New Beauty Arrivals: JCPenney | portraits
+
+.49 and .59 Photo Greeting Cards
+
+&. a free 8x10
+
+Get Details: SportsFanShop
+
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
+
+Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Oct 31 21:57:42 CDT 2016 JVM :->. dtexppr1l2j4\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Oct 31 21:59:19 CDT 2016 JVM :->. dtexppr1c1j3\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
