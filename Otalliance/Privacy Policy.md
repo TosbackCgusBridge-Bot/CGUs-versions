@@ -19,14 +19,14 @@ Skip to main content Online Trust Alliance
     *   Data Breach Readiness
     *   Internet of Things
     *   Online Trust Audit &. Honor Roll
-    *   Email Security &. Integrity
+    *   Email Marketing &. Security
     *   Privacy
     *   Public Policy
     *   Security
 *   Resources
     *   Advertising Integrity &. Fraud
     *   Data Breach &. Protection
-    *   Email Marketing &. Security
+    *   Email Practices &. Reports
     *   IoT Resources
     *   Malicious Threats
     *   Web and Mobile Security
@@ -134,7 +134,7 @@ More >>. Resources
 
 *   Advertising Integrity &. Fraud
 *   Data Breach &. Protection
-*   Email Marketing &. Security
+*   Email Practices &. Reports
 *   IoT Resources
 *   Malicious Threats
 *   Web and Mobile Security
@@ -146,7 +146,7 @@ Initiatives
 *   Data Breach Readiness
 *   Internet of Things
 *   Online Trust Audit &. Honor Roll
-*   Email Security &. Integrity
+*   Email Marketing &. Security
 *   Privacy
 *   Public Policy
 *   Security
