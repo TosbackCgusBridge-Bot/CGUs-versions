@@ -54,6 +54,7 @@
 *   Sweets
     View All Categories Shop by Category*   Chocolates
     *   Confections
+    *   Cookies
     *   Desserts
 *   Shop By Price
     View All Categories Shop by Category*   Gifts $20 &. Under
@@ -128,6 +129,7 @@
 *   Sweets
     View All Categories Shop by Category*   Chocolates
     *   Confections
+    *   Cookies
     *   Desserts
 *   Shop By Price
     View All Categories Shop by Category*   Gifts $20 &. Under
@@ -192,9 +194,9 @@ My Account
 
 Guarantees
 
-*   100% Satisfaction
-*   Substitution Policy
 *   Security
+*   Substitution Policy
+*   100% Satisfaction
 
 Privacy
 
