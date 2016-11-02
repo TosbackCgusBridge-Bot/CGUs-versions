@@ -1,7 +1,7 @@
 Mozilla Menu
 
 *   About
-*   Participate
+*   Web Innovations
 *   Firefox
 *   Donate
 
