@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**The Many Haunted Mansions of Disney Theme Parks**
+**Working Out Mad Can Cause Some Serious Heart Problems**
 
-**Happy Hour Alert: Cheese Really Improves the Taste of Wine**
+**Google Glass Can Teach You Morse Code in Four Hours**
 
-**Ridiculous History: London Had a Train for the Dead**
+**What's Up With Facebook's Secret Conversations Mode?**
 
 **See More Headlines »**
 
