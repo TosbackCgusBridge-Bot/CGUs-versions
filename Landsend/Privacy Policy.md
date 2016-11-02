@@ -112,7 +112,6 @@ menu 0
     *   Casual Shirts
     *   Polo Shirts
     *   Knit Tops &. Tees
-    *   Activewear
     *   Sweaters
     *   Sportcoats &. Blazers
     *   Suiting
@@ -120,6 +119,7 @@ menu 0
     *   Jeans
     *   Shorts
     *   Swimwear
+    *   Activewear
     *   Accessories
     *   Sleepwear
     *   Underwear &. Long Underwear
@@ -363,11 +363,11 @@ menu 0
     *   Stockings &. Stuffers
     *   Host &. Hostess Gifts
     *   Personalized Gifts
-    *   Sleep Shop
     *   Favorite Gifts
     *   Mad for Plaid
     *   Soft &. Cozy
     *   Splurges-Luxury
+    *   Sleep Shop
     
     GREAT GIFTS
     *   For Her
@@ -464,7 +464,6 @@ menu 0
     *   Casual Shirts
     *   Polo Shirts
     *   Knit Tops &. Tees
-    *   Activewear
     *   Sweaters
     *   Sportcoats &. Blazers
     *   Suiting
@@ -472,6 +471,7 @@ menu 0
     *   Jeans
     *   Shorts
     *   Swimwear
+    *   Activewear
     *   Accessories
     *   Sleepwear
     *   Underwear &. Long Underwear
@@ -714,11 +714,11 @@ menu 0
     *   Stockings &. Stuffers
     *   Host &. Hostess Gifts
     *   Personalized Gifts
-    *   Sleep Shop
     *   Favorite Gifts
     *   Mad for Plaid
     *   Soft &. Cozy
     *   Splurges-Luxury
+    *   Sleep Shop
     
     GREAT GIFTS Back | GREAT GIFTS
     *   For Her
