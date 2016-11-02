@@ -170,7 +170,6 @@
         *   Bootcut
         *   Flare
         *   Ankle Skinny
-        *   Blues Report
         *   Shop All
         
         *   Men's Jeans
@@ -179,7 +178,6 @@
         *   Regular
         *   Relaxed
         *   Loose
-        *   Blues Report
         *   Shop All
         
         *   Kid's Jeans
