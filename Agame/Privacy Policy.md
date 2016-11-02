@@ -5,10 +5,10 @@ Categories
     *   Social Games
     *   2 player
     *   Casino Games
-    *   MMO &. Strategy
+    *   MMO
     *   .io Games
 *   Action
-    *   Arena Fighting
+    *   Fighting
     *   Anime and Manga Games
     *   Shooting Games
     *   Strategy
@@ -28,10 +28,10 @@ Categories
     *   Colored Blocks
     *   Mahjong
     *   Match 3
-    *   Card Solitaire
+    *   Solitaire
     *   Bubble Shooter
 *   Girls
-    *   Animal Games
+    *   Animal
     *   Beauty Games
     *   Caring
     *   Cooking
@@ -122,7 +122,7 @@ View more results
     *   Troll Face Quest Video Memes
     *   My Dolphin Show
     *   Crash Drive 2
-    *   Mad Truck Challenge: The Beginning
+    *   Guess the Pixel: Comics!
     
     Specials
     
@@ -131,7 +131,7 @@ View more results
     *   Social Games
     *   2 player
     *   Casino Games
-    *   MMO &. Strategy
+    *   MMO
     *   .io Games
     
     All Multiplayer Browse By
@@ -146,11 +146,11 @@ View more results
     *   Jackpot
     *   Goodgame Empire
     *   Goodgame Poker
-    *   Klondike
+    *   Klondike - the lost expedition
     *   Family BarnSpotlight Slotomania
 *   Top Categories
     
-    *   Arena Fighting
+    *   Fighting
     *   Anime and Manga Games
     *   Shooting Games
     *   Strategy
@@ -202,7 +202,7 @@ View more results
     *   Colored Blocks
     *   Mahjong
     *   Match 3
-    *   Card Solitaire
+    *   Solitaire
     *   Bubble Shooter
     
     All Puzzle Browse By
@@ -221,7 +221,7 @@ View more results
     *   Bubble ShooterSpotlight Mahjong Chain
 *   Top Categories
     
-    *   Animal Games
+    *   Animal
     *   Beauty Games
     *   Caring
     *   Cooking
