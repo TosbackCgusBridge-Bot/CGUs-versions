@@ -1,4 +1,45 @@
-Privacy Policy
+menu
+
+*   SC US
+*   SC UK
+
+Show Search Bar
+
+*   News
+    *   Opinions
+    *   Blogs
+*   Cybercrime
+    *   Ransomware
+    *   Data breaches
+    *   APTs/Cyberespionage
+    *   Malware
+    *   Phishing
+    *   Insider Threats
+*   Network Security
+    *   Mobile Security
+    *   Cloud Security
+    *   Privacy &. compliance
+    *   Vulnerabilities
+    *   IoT
+    *   Email Security
+*   Product Reviews
+    *   Group Tests
+    *   First Looks
+    *   About product reviews
+*   In Depth
+    *   Features
+*   Events
+    *   Virtual Conferences
+    *   Webcasts
+    *   SC Congress
+    *   SC Awards 2017
+*   Whitepapers
+
+*   Log in
+
+*   Register
+
+The Cybersecurity source Privacy Policy
 
 **Last updated: July 28, 2016**
 
@@ -139,3 +180,38 @@ If you have any questions on our Privacy Policy, or questions about our handling
 275 7th Avenue  
 10th Floor  
 New York, NY 10001.**
+
+SC Media arms cybersecurity professionals with the in-depth, unbiased business and technical information they need to tackle the countless security challenges they face and establish risk management and compliance postures that underpin overall business strategies.
+
+**User Center**
+
+*   About
+*   Contact
+*   Advisory Board
+*   Meet the team
+*   Subscribe
+*   Advertise
+
+**Product Reviews**
+
+*   About/Contact
+*   FAQ
+*   Reprints
+
+**Other**
+
+*   Privacy Policy
+*   Terms &. Conditions
+
+**More SC Sites**
+
+*   SC UK
+*   SC Congress
+*   SC Awards
+*   SC Online Events
+
+Follow SC Magazine
+
+Copyright © 2016 Haymarket Media, Inc. All Rights Reserved  
+This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
+Your use of this website constitutes acceptance of Haymarket Media's Privacy Policy and Terms &. Conditions.
