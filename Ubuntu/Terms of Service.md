@@ -45,6 +45,6 @@ Download Ubuntu
 Further reading
 
 *   Webinar: Managing diverse workloads with Juju ›
-*   Dirty COW was Livepatched in Ubuntu within Hours of Publication ›
-*   Travel-friendly Lemur Ubuntu Laptop Updated to Kaby Lake ›
+*   Dirty COW was livepatched in Ubuntu within hours of publication ›
+*   Travel-friendly Lemur Ubuntu laptop updated to Kaby Lake ›
 *   Snapping Cuberite ›
