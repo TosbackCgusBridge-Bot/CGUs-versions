@@ -91,8 +91,8 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   12 Months
     
     *   12 - 18 Months
-    *   18 - 24 Months
     
+    *   18 - 24 Months
     *   2 - 2½ Years
     *   2½ - 3 Years
     
