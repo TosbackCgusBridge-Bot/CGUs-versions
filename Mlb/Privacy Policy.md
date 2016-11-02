@@ -81,9 +81,9 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Spring Training Standings
     *   2015 Regular Season Standings
 *   Schedule Schedule Schedule
-    *   2016 Regular Season
     *   2016 Postseason
-    *   Tiebreaker scenarios
+    *   2017 Regular Season
+    *   2016 Regular Season
     *   Important Dates
     *   Team-by-Team Schedule
     *   National Broadcasts
