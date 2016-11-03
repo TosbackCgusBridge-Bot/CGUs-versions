@@ -114,6 +114,10 @@ More >>.
 *   OTA Blog
 *   Newsletters
 
+Thu, Nov 3, 2016 Don’t Be a Tool – Verifying Subscriptions and Honoring Unsubscribes
+
+This summer the email marketing industry suffered a setback due to “list bomb” attacks in which thousands of targeted users were unknowingly subscribed to tens of thousands of mailings. In these attacks, ESP infrastructure and highly-reputed brands were used as a means to effectively create a “denial of service” against user inboxes, and email originating from many ESPs and brands was blocked by Spamhaus until the situation was better understood. Could this have been prevented?
+
 Fri, Oct 28, 2016 FCC Rule Making - Not Perfect But a MAJOR step forward
 
 Yesterday the FCC voted to approve privacy and security rules for broadband internet service providers.
@@ -125,10 +129,6 @@ Companies, organizations and agencies that hold and transmit people’s personal
 Tue, Jun 21, 2016 Drones - Privacy, Transparency and Accountably
 
 Today a multi-stakeholder group convened by the U.S.
-
-Mon, Jun 20, 2016 Driving Trust with the 2016 Online Trust Audit
-
-The 2016 Online Trust Audit and Honor Roll shines a light on trust in security, privacy and consumer protection practices, recognizing excellence and leadership while highlighting key areas for improvement.
 
 More >>. Resources
 
