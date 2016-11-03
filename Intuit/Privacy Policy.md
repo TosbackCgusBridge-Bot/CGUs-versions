@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15534613941
+true true C15517733352
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Tue Nov 01 11:15:26 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.3.0.1.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Wed Nov 02 11:15:56 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.3.0.1.0
 
 *   for the home
 *   bed &. bath
@@ -54,41 +54,43 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Last Day! Take Your Pick
+It's Your Lucky Day Sale Starts Now! | In Store &. Online | Ends November 6 Shop Now: View Store Ad: Home Expressions microfiber solid or print twin sheet set
 
-Ends November 1 | In Store &. Online | Code: NOWBUY7
+select styles reg. $12-$30
 
-Extra 31% Off\* $100 or More Or, Extra 25% Off\* Under $100
+Shop Sheets JCPenney Home trellis or 30x54" solid bath towel
 
-\*Some exclusions apply
+select styles reg. $12-$30
 
-Get Coupon Get Details 50% Off\* Select Orig &. Reg-Priced Window, Luggage, Bedding &. Bath Or, 40% Off\* Select Orig &. Reg-Priced Home Decor, Furniture, Mattresses, Patio &. Outdoor Living Or, 30% Off\* Select Orig &. Reg-Priced Kitchen, Dining, Electrics and Electronics, Custom Blinds &. Shades
+Shop Towels Arizona boys' essential or graphic long-sleeve tee
 
-Online Only | Ends November 1 | Code: NOWBUY7
+select styles reg. $14-$18
 
-\*Get Details: $20 Sweaters
+Shop Boys   Arizona girls' favorite long-sleeve tee
 
-Select styles, reg. $36-$42
+select styles reg. $14-$18
 
-Shop Men's St. John's Bay Sweaters Shop Women's A.N.A Sweaters     35.99 Booties for Her
+Shop Girls men's St. John’s Bay solid sueded henley
 
-Select styles, reg. $60
+select styles orig. $30
 
-Shop Booties for Her Now Online &. In Select Stores! Major Appliances From Your Favorite Brands.
+Shop Men a.n.a, Stylus or St. John's Bay long-sleeve tee for her
 
-Need help? Call 1-844-JCP-APPL (1-844-527-2775)
+including petite sizes select styles orig. $16-$22
 
-Delivery not available in all markets.
+Shop Women Black Friday Deals Now! Up to 40% Off\* Major Appliances
 
-Get Details: Up to 20% Off\* Major Appliances
-
-Select styles
+Online &. In Select Stores. Select styles.
 
 Shop Major Appliances:
 
 \*GE, GE Profile &. GE Cafe limited to 10% off savings.
 
-18 Months or 36 Months Special Financing\*\*
+Need help? Call 1-844-JCP-APPL (1-844-527-2775)
+
+Delivery not available in all markets.
+
+Get Details: 18 Months or 36 Months Special Financing\*\*
 
 Available on qualifying major appliance purchases made through 11/30/16 on a JCPenney Credit Card. Must request at time of purchase.
 
@@ -104,17 +106,23 @@ Get Details: JCPenney Rewards Shop &. Get Rewards
 
 For points earned on major appliances+
 
-+Get Details: Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys Sephora New Beauty Arrivals: JCPenney | portraits
++Get Details: Final Markdowns! 80% Off Clearance
+
+Going, Going, Gone! Hurry In Store!
+
+Featuring thousands of items as low as 4.97, 7.97 and 9.97
+
+Find a Store: Or Shop 50 to 70% Off Online Clearance Shop Now: Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys Sephora New Beauty Arrivals: JCPenney | portraits
 
 .49 and .59 Photo Greeting Cards
 
 &. a free 8x10
 
-Get Details: SportsFanShop
+Get Details: Introducing iMemories
 
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
+brought to your by JCPenney | portraits
 
-Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Nov 01 22:44:23 CDT 2016 JVM :->. dtexppr1l2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Nov 01 22:43:22 CDT 2016 JVM :->. dtexppr1l2j3\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Digitize your home movies &. photos Get Details: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Nov 02 22:52:21 CDT 2016 JVM :->. dtexppr1c2j1\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Nov 02 22:52:18 CDT 2016 JVM :->. dtexppr1c2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
