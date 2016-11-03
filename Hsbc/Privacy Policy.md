@@ -90,7 +90,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Stock exchange announcements
         *   Inside information
     
-    *   3Q 2016 Earnings Release HSBC will announce its results for the third quarter on 7 November 2016.
+    *   3Q 2016 update HSBC will announce its 3Q 2016 Earnings Release on 7 November.
 *   News and insight
     
     *   Media resources
