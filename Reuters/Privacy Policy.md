@@ -27,16 +27,16 @@ Legal Solutions | USA
 Free Standard Shipping!
 
 Advanced Search Law Books Solutions Support News &. Views Home >. westlaw legal research >. practitioner insights Log in to Westlaw Thomson Reuters Westlaw  
-online legal research
+The world's most preferred online legal research service Start your free trial today
 
-*   Why Westlaw?
+*   About Westlaw
 *   Plans
     *   Small Firms
     *   Large &. Midsize Firms
     *   Corporate Counsel
     *   Government
 *   Training &. Support
-*   Contact Sales
+*   Free Trial
 
 Practitioner Insights
 
