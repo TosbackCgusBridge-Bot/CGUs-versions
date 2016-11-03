@@ -111,7 +111,7 @@ Comcast uses various tools and techniques to manage its network, deliver the Ser
 IV. Data Consumption  
 What data consumption requirements apply to the Service?
 
-Comcast does not generally apply a monthly data consumption threshold to XFINITY Internet accounts.  However, Comcast retains the right to trial or adopt a data consumption threshold or other usage plan for the Service at any time.  If the company implements a consumption threshold or other usage plan, it will appropriately notify customers and, if necessary, post an updated version of this Policy.  In certain locations Comcast is providing versions of the Service with different speed and data consumption thresholds.  You can learn about the plans that apply in your area by going to http://customer.xfinity.com/help-and-support/internet/data-usage-what-are-the-different-plans-launching.  You can check your current data usage at any time by logging into your My Account page and viewing the data usage meter at http://www.xfinity.com/usagemeter.
+Comcast applies a monthly data consumption threshold to XFINITY Internet accounts in most of our service areas. The company retains the right to trial or adopt a different data consumption threshold or other usage plan for the Service at any time. If we do this we will notify customers and, if necessary, post an updated version of this Policy. You can learn about the data plan that applies in your area by going to https://dataplan.xfinity.com/. You can view your current data usage at any time by logging into your My Account page and viewing the data usage meter at https://customer.xfinity.com/MyServices/Internet/UsageMeter/. You can also use the XFINITY My Account mobile app to view your data usage.
 
 V. Violation of this Acceptable Use Policy  
 What happens if you violate this Policy?
@@ -163,6 +163,6 @@ If you receive a DMCA notification of alleged infringement as described above, a
 
 If a notification of claimed infringement has been filed against you, you can file a counter notification with Comcast's designated agent using the contact information shown above. All counter notifications must satisfy the requirements of Section 512(g)(3) of the U.S. Copyright Act.
 
-Revised and effective: June 1, 2016
+Revised and effective: November 1, 2016
 
 <. Back
