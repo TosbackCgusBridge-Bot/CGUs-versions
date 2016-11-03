@@ -1,19 +1,3 @@
-
-
-Market Research Data &. Customer Insight Company UK &. Global | MetrixLab I'm looking for product
-
-*   Any
-
-in a size size
-
-*   Any
-
-. Show me the colour
-
-*   Any
-
-items. Super Search
-
 *   SOLUTIONS
     *   PRODUCT INNOVATION
     *   BRAND ENGAGEMENT
