@@ -76,6 +76,10 @@ Login Let's Connect What We Do Watch Video
     Return On Ad Spend
 
 *   The Latest News
+*   The "50 First Dates" Problem
+    
+    A recipe for bad digital marketing  
+    
 *   Winner: DMA Innovation Award
     
     Our video personalization platform, Kepler  
@@ -91,10 +95,6 @@ Login Let's Connect What We Do Watch Video
 *   The 99%+ Human Guarantee
     
     Stop wasting money on bots
-    
-*   Success You Can Measure
-    
-    The essential way to gauge campaigns
     
 
 NEW GUIDE
