@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Static code analyzer for Ubuntu ›
 *   Webinar: Managing diverse workloads with Juju ›
 *   Dirty COW was livepatched in Ubuntu within hours of publication ›
 *   Travel-friendly Lemur Ubuntu laptop updated to Kaby Lake ›
-*   Snapping Cuberite ›
