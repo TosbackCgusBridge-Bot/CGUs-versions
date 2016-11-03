@@ -26,12 +26,12 @@
 Toyota Vehicles Cars &. Minivan
 
 *   $18,000 as shown 2017 Yaris $15,250 starting 30/36 est. mpg build Specials
-*   $15,950 as shown 2017 Yaris iA $15,950 starting 32/40 est. mpg build Specials
+*   $15,950 as shown 2017 Yaris iA $15,950 starting 30/39 est. mpg build Specials
 *   $21,980 as shown 2017 Corolla $18,500 starting 28/36 est. mpg build Specials
-*   $18,750 as shown 2017 Corolla iM $18,750 starting 28/36 est. mpg build Specials
+*   $18,750 as shown 2017 Corolla iM $18,750 starting 27/35 est. mpg build Specials
 *   $33,820 as shown 2017 Camry $23,070 starting 24/33 est. mpg build Specials
 *   $38,045 as shown 2017 Avalon $33,250 starting 21/30 est. mpg build Specials
-*   $26,255 as shown 2017 86 $26,255 starting 24/32 est. mpg build Specials
+*   $26,255 as shown 2017 86 $26,255 starting 21/28 est. mpg build Specials
 *   $40,830 as shown 2017 Sienna $29,750 starting 19/27 est. mpg build Specials
 
 Trucks
