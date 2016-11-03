@@ -108,12 +108,12 @@ View more results
     Join for free
 *   Hot Games
     
-    *   Hero Simulator: Idle Adventure
-    *   Family Barn
-    *   Lady Popular
-    *   Wormax io
-    *   SuperOrbit.io
-    *   Kogama: War 4
+    *   Troll Face Quest Video Games
+    *   Pokerist
+    *   Cloud Kingdom
+    *   Candy Bubble
+    *   8 Ball Pool
+    *   Smarty Bubbles
     
     Mobile Apps More
     
