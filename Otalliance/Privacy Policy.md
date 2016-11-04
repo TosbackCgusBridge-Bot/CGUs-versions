@@ -114,7 +114,7 @@ More >>.
 *   OTA Blog
 *   Newsletters
 
-Thu, Nov 3, 2016 Don’t Be a Tool – Verifying Subscriptions and Honoring Unsubscribes
+Mon, Nov 7, 2016 Don’t Be a Tool – Verifying Subscriptions and Honoring Unsubscribes
 
 This summer the email marketing industry suffered a setback due to “list bomb” attacks in which thousands of targeted users were unknowingly subscribed to tens of thousands of mailings. In these attacks, ESP infrastructure and highly-reputed brands were used as a means to effectively create a “denial of service” against user inboxes, and email originating from many ESPs and brands was blocked by Spamhaus until the situation was better understood. Could this have been prevented?
 
