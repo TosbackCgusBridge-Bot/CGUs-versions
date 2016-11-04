@@ -1,30 +1,9 @@
-Sign in Search Clear search Close search
+Analytics Analytics
 
-*   My Account
-*   Search
-*   Maps
-*   YouTube
-*   Play
-*   News
-*   Gmail
-*   Drive
-*   Calendar
-*   Google+
-*   Translate
-*   Photos
+*   Analytics
+*   Tag Manager
 
-More
-
-*   Shopping
-*   Wallet
-*   Finance
-*   Docs
-*   Books
-*   Blogger
-*   Contacts
-*   Hangouts
-
-Even more from Google Google apps Main menu Analytics Help Analytics Help AnalyticsHelp forumForum Google Analytics Terms of Service
+Google Analytics Terms of Service
 
 These Google Analytics Terms of Service (this _"Agreement"_) are entered into by Google Inc. ("Google") and the entity executing this Agreement (_"You"_). This Agreement governs Your use of the standard Google Analytics (the _"Service"_). BY CLICKING THE "I ACCEPT" BUTTON, COMPLETING THE REGISTRATION PROCESS, OR USING THE SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE REVIEWED AND ACCEPT THIS AGREEMENT AND ARE AUTHORIZED TO ACT ON BEHALF OF, AND BIND TO THIS AGREEMENT, THE OWNER OF THIS ACCOUNT. In consideration of the foregoing, the parties agree as follows:
 
@@ -130,12 +109,48 @@ Google will be excused from performance in this Agreement to the extent that per
 
 Last Updated 5/24/2016
 
-Share this: Was this article helpful? How can we improve it? YesNo Submit Google Analytics training and support resources
+Follow us on:
 
-Check out our comprehensive list to learn more about Analytics solutions.
-
-*   ©2016 Google
-*   Privacy Policy
+*   Apps Status Dashboard
 *   Terms of Service
 
-català‎dansk‎Deutsch‎español‎Filipino‎français‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎עברית‏العربية‏हिन्दी‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎English‎
+Learning &. Support
+
+Help Center
+
+User Forum
+
+Solutions Gallery
+
+Analytics Academy
+
+Partner Gallery
+
+Developers
+
+Analytics Developer Site
+
+Demos &. Tools
+
+Help &. Communities
+
+Technology Partner Program
+
+Related Products
+
+AdWords
+
+DoubleClick
+
+AdSense
+
+More Solutions from Google
+
+Business Solutions
+
+Google Apps for Work
+
+*   Help
+*   Google
+*   Privacy
+*   Terms
