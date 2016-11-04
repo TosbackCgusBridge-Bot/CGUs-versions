@@ -114,6 +114,7 @@ Products
 *   Forbes Newsfeeds
 *   Reprints &. Permissions
 *   Forbes Magazine
+*   Forbes Insights
 *   The Smarter College Guide
 *   Forbes Book Of Quotations
 *   Forbes Thought Of The Day
