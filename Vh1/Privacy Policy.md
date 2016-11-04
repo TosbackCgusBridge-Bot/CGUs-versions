@@ -8,12 +8,12 @@ VH1 Menu VH1
     *   TV Schedule
     *   Love &. Hip Hop Hollywood
     *   Black Ink Crew Chicago
-    *   Grown &. Sexy
+    *   Divas Holiday: Unsilent Night
     *   Martha &. Snoop's Potluck Dinner Party
-    *   RuPaul's All Stars Drag Race
+    *   Love &. Hip Hop
+    *   Grown &. Sexy
     *   Basketball Wives LA
-    *   Amber Rose Show
-    *   T.I &. Tiny: The Family HustleSee all Shows
+    *   Amber Rose ShowSee all Shows
 *   Pop Culture
     *   Music
     *   Celebrity
@@ -29,7 +29,7 @@ VH1 Menu VH1
 *   TV Provider Sign Out
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Hollywood Black Ink Crew Chicago Grown &. Sexy Martha &. Snoop's Potluck Dinner Party RuPaul's All Stars Drag Race Basketball Wives LA Amber Rose Show T.I &. Tiny: The Family Hustle Dating Naked Love &. Hip Hop Atlanta Shaunie's Home Court See all Shows
+*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Hollywood Black Ink Crew Chicago Divas Holiday: Unsilent Night Martha &. Snoop's Potluck Dinner Party Love &. Hip Hop Grown &. Sexy Basketball Wives LA Amber Rose Show T.I &. Tiny: The Family Hustle Dating Naked Love &. Hip Hop Atlanta See all Shows
 *   Pop Culture Music Celebrity Movies TV Around The Web Video See all Pop Culture
 *   Life Beauty &. Health Style Relationships Video See all Life
 *   facebook twitter tumblr
