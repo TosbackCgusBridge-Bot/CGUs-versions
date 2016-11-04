@@ -28,6 +28,7 @@ Show Search Bar
     *   About product reviews
 *   In Depth
     *   Features
+    *   Video
 *   Events
     *   Virtual Conferences
     *   Webcasts
@@ -210,7 +211,7 @@ SC Media arms cybersecurity professionals with the in-depth, unbiased business a
 *   SC Awards
 *   SC Online Events
 
-Follow SC Magazine
+Follow SC Media
 
 Copyright © 2016 Haymarket Media, Inc. All Rights Reserved  
 This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
