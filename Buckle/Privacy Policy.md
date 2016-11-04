@@ -222,7 +222,7 @@
           
         ENTER NOW!
 *   Sale
-    *   *   Women's Sale/Factory Seconds
+    *   *   Women's Sale
         
         *   All Tops
         *   Shirts/Blouses
@@ -230,10 +230,9 @@
         *   Sweatshirts
         *   Jeans
         *   Shoes
-        *   Factory Seconds
         *   Shop All
         
-        *   Men's Sale/Factory Seconds
+        *   Men's Sale
         
         *   All Tops
         *   Shirts
@@ -241,7 +240,6 @@
         *   Sweaters
         *   Jeans
         *   Shoes
-        *   Factory Seconds
         *   Shop All
         
         *   Kid's Sale
@@ -252,6 +250,13 @@
         *   Boy's Sale Tops
         *   Boy's Sale Jeans
         *   Shop All
+        
+        *   Outlet - **NEW!**
+        
+        *   All Women’s Outlet
+        *   All Men’s Outlet
+        *   Women’s Factory Seconds
+        *   Men’s Factory Seconds
         
           
           
