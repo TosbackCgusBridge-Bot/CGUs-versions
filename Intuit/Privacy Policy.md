@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15517733352
+true true L15539775449
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Wed Nov 02 11:15:56 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.3.0.1.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Thu Nov 03 11:16:21 CDT 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.3.0.1.0
 
 *   for the home
 *   bed &. bath
@@ -54,27 +54,31 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-It's Your Lucky Day Sale Starts Now! | In Store &. Online | Ends November 6 Shop Now: View Store Ad: Home Expressions microfiber solid or print twin sheet set
+Cold-Weather Gear Flash Sale Extra 25% Off\*
+
+Today Online Only | Ends November 3 | Code: FORYOU88
+
+\*exclusions &. details: men women girls boys It's Your Lucky Day Sale In Store &. Online | Ends November 6 Shop Now: View Store Ad: $7 Home Expressions microfiber solid or print twin sheet set
 
 select styles reg. $12-$30
 
-Shop Sheets JCPenney Home trellis or 30x54" solid bath towel
+Shop Sheets $7 JCPenney Home trellis or 30x54" solid bath towel
 
 select styles reg. $12-$30
 
-Shop Towels Arizona boys' essential or graphic long-sleeve tee
+Shop Towels $7 Arizona boys' essential or graphic long-sleeve tee
 
 select styles reg. $14-$18
 
-Shop Boys   Arizona girls' favorite long-sleeve tee
+Shop Boys   $7 Arizona girls' favorite long-sleeve tee
 
 select styles reg. $14-$18
 
-Shop Girls men's St. John’s Bay solid sueded henley
+Shop Girls $7 men's St. John’s Bay solid sueded henley
 
 select styles orig. $30
 
-Shop Men a.n.a, Stylus or St. John's Bay long-sleeve tee for her
+Shop Men $7 a.n.a, Stylus or St. John's Bay long-sleeve tee for her
 
 including petite sizes select styles orig. $16-$22
 
@@ -122,7 +126,7 @@ Get Details: Introducing iMemories
 
 brought to your by JCPenney | portraits
 
-Digitize your home movies &. photos Get Details: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Nov 02 22:52:21 CDT 2016 JVM :->. dtexppr1c2j1\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Nov 02 22:52:18 CDT 2016 JVM :->. dtexppr1c2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Digitize your home movies &. photos Get Details: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Nov 03 23:02:23 CDT 2016 JVM :->. dtexppr1l1j5\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Nov 03 23:01:46 CDT 2016 JVM :->. dtexppr1c2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
