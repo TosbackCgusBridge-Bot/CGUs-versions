@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**A Storm Is Brewing: The Trouble of Malware in the Cloud**
+**Discovered? New But Extinct Human Relative From Melanesia**
 
-**San Francisco Has Its Very Own Sinking, Leaning Tower**
+**Why We Vote on a Tuesday, and Why Weekend Elections Might Make More Sense**
 
-**5 Things You Didn't Know About Marie Antoinette**
+**Ph.D. Students Hold Interpretive Dance-off — and It's Great**
 
 **See More Headlines »**
 
