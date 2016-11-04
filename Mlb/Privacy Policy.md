@@ -95,10 +95,11 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Depth Charts
     *   Transactions
     *   Top Prospects
+    *   Hot Stove Tracker
     *   Mobile Player Alerts
     *   MLB Players Association
     *   Probable Pitchers
-    *   Franchise Four
+    *   Franchise FourHot Stove Tracker
 *   Tickets Tickets Tickets
     *   General Ticket Information
     *   2016 Postseason Ticket Terms &. Polices
@@ -140,21 +141,17 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Experiences
     *   Game-Used
     *   Jerseys
-    *   PhotosCustom Shop MLB Auctions
+    *   PhotosWorld Series Champs MLB Auctions
 *   MLB.TV MLB.TV MLB.TV
-    *   Buy MLB.TV (US)
-    *   Buy MLB.TV (INT'L)
     *   Watch MLB.TV
     *   Alternative Audio
-    *   MLB.TV Postseason Schedule
-    *   MLB.TV Postseason FAQ
     *   MLB.TV Devices
     *   MLB.TV with Extra Innings
     *   FAQs
     *   MLB.com Support Forum
     *   MLB.TV Blackouts
     *   MLB.TV Download Center
-    *   Contact UsMLB.TV US
+    *   Contact Us
 *   Auction
 *   Fantasy Fantasy Fantasy
     *   Postseason Bracket Challenge
