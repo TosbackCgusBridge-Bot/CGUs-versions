@@ -111,7 +111,7 @@ If you are a user of FDI products and you wish to amend any of the Data that we 
 
 FT Adviser
 
-If you are an FT Adviser user and you wish to amend any of the Data that we hold about you, or update your marketing preferences, please contact ftadviser.enquiries@ft.com, phone 0845 456 1516 or visit manage my account
+If you are an FT Adviser user and you wish to amend any of the Data that we hold about you, or update your marketing preferences, please contact ft@subscription.co.uk, phone 0845 456 1516 or visit manage my account
 
 Exec-Appointments, MBA-Direct.com and Non-execs.com
 
