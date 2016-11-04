@@ -31,7 +31,7 @@ Up to
 *   Compare
 *   Build Your Own
 
-BRZ Limited shown
+BRZ Premium shown
 
 Impreza $18,395 starting price 2017 Impreza
 
