@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
-*   Static code analyzer for Ubuntu ›
-*   Webinar: Managing diverse workloads with Juju ›
-*   Dirty COW was livepatched in Ubuntu within hours of publication ›
-*   Travel-friendly Lemur Ubuntu laptop updated to Kaby Lake ›
+*   10 IoT-focused desktop snaps written in October ›
+*   16.10 brings Unity 8 to desktop and more Snap installations ›
+*   Ubuntu IoT vertical pages ›
+*   Ubuntu Core 16 delivers foundation for secure IoT ›
