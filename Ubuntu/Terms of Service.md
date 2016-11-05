@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Cloud Chatter: October 2016 ›
 *   10 IoT-focused desktop snaps written in October ›
 *   16.10 brings Unity 8 to desktop and more Snap installations ›
 *   Ubuntu IoT vertical pages ›
-*   Ubuntu Core 16 delivers foundation for secure IoT ›
