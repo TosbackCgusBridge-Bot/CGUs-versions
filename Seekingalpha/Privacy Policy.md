@@ -1,11 +1,5 @@
-*   Insight Centers
-*   Dividend Investing
-*   ETF Hub
-*   Portfolio Strategy
+Sign in / Join Now GO»
 
-GO»
-
-*   My Portfolio
 *   Market News
 *   Stock Ideas
 *   Dividends
