@@ -362,11 +362,11 @@ menu 0
     *   Holiday Shop
     *   Stockings &. Stuffers
     *   Host &. Hostess Gifts
-    *   Personalized Gifts
     *   Favorite Gifts
     *   Mad for Plaid
     *   Soft &. Cozy
     *   Splurges-Luxury
+    *   Personalized Gifts
     *   Sleep Shop
     
     GREAT GIFTS
@@ -713,11 +713,11 @@ menu 0
     *   Holiday Shop
     *   Stockings &. Stuffers
     *   Host &. Hostess Gifts
-    *   Personalized Gifts
     *   Favorite Gifts
     *   Mad for Plaid
     *   Soft &. Cozy
     *   Splurges-Luxury
+    *   Personalized Gifts
     *   Sleep Shop
     
     GREAT GIFTS Back | GREAT GIFTS
