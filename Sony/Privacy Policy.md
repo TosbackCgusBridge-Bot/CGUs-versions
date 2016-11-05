@@ -312,9 +312,9 @@ Close
 
 Start Exploring With Action Cam
 
-A Murderer Will Be Revealed On Thursday's Episode of "Notorious"
+A Murderer Was Revealed on the Latest “Notorious"
 
-Don't Miss It
+Read How It Came Together
 
 Close
 
@@ -324,11 +324,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Play Video
-
-Sony on YouTube
-
-Play Video
+Read How It Came Together
 
 Academy Award-Winning Director Ang Lee Revolutionizes Filmmaking In "Billy Lynn's Long Halftime Walk"
 
