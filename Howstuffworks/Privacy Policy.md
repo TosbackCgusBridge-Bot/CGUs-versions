@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Discovered? New But Extinct Human Relative From Melanesia**
+**Who Rides Passenger Trains in the U.S. These Days?**
 
-**Why We Vote on a Tuesday, and Why Weekend Elections Might Make More Sense**
+**3 Myths About Smartphone Batteries That Need to Die**
 
-**Ph.D. Students Hold Interpretive Dance-off — and It's Great**
+**This Is Who Still Uses Pagers Today**
 
 **See More Headlines »**
 
