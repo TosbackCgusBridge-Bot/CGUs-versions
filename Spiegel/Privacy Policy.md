@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 10.325,88ǀ
+*   DAX 10.259,13ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -648,10 +648,11 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
 *   FREIZEIT
 *   *   Eurojackpot
     *   Lottozahlen
-    *   Bücher bestellen
     *   Sudoku
     *   Kenken
-*   *   Arztsuche
+    *   Streets
+*   *   Bücher bestellen
+    *   Arztsuche
     *   DSL-Vergleich
     *   Ferientermine
 
