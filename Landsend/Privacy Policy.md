@@ -161,9 +161,9 @@ menu 0
     *   Pants &. Leggings
     *   Jeans
     *   Skirts &. Skorts
+    *   Sleepwear
     *   Shorts
     *   Blazers &. Jackets
-    *   Sleepwear
     *   Backpacks &. Lunch Boxes
     *   Swimsuits
     *   Shoes
@@ -176,11 +176,11 @@ menu 0
     *   Sweaters
     *   Pants
     *   Jeans
+    *   Sleepwear
     *   Shorts
     *   Blazers &. Jackets
     *   Backpacks &. Lunch Boxes
     *   Activewear
-    *   Sleepwear
     *   Swimwear
     *   Shoes
     *   Accessories
@@ -513,9 +513,9 @@ menu 0
     *   Pants &. Leggings
     *   Jeans
     *   Skirts &. Skorts
+    *   Sleepwear
     *   Shorts
     *   Blazers &. Jackets
-    *   Sleepwear
     *   Backpacks &. Lunch Boxes
     *   Swimsuits
     *   Shoes
@@ -528,11 +528,11 @@ menu 0
     *   Sweaters
     *   Pants
     *   Jeans
+    *   Sleepwear
     *   Shorts
     *   Blazers &. Jackets
     *   Backpacks &. Lunch Boxes
     *   Activewear
-    *   Sleepwear
     *   Swimwear
     *   Shoes
     *   Accessories
