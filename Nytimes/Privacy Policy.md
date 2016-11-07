@@ -1,9 +1,13 @@
-campaign: nyt2016\_bar1\_digi\_cpb\_67LXL -- 283987, creative: nyt2016\_bar1\_digi\_cpb\_67LXL -- 414213, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
+campaign: nyt2016\_bar1\_digi\_election\_open\_access\_acq\_6HJUY -- 284864, creative: bar1\_digi\_election\_open\_access\_acq\_6HJUY -- 415282, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
 
 *   1 of 10 articles read
-*   SUBSCRIBE NOW Real news deserves  
-    real journalism. Get The Times.  
-    As low as 99¢ for 4 weeks. SEE MY OPTIONS
+*   SUBSCRIBE NOW November 7-9  
+    
+    Our election coverage is  
+    just the beginning.
+    
+    Enjoying Unlimited access?  
+    Extend it now. Free. UNLOCK ACCESS NOW
 
 Subscribe*   Help
 
