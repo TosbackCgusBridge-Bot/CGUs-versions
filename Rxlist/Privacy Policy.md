@@ -254,10 +254,6 @@ We reserve the right to change or modify this Privacy Policy or any of our tools
 
 Accreditations and Privacy Seals
 
-WebMD has been awarded e-Health accreditation from URAC, formerly the American HealthCare Accreditation Association. URAC is an independent accrediting body that has reviewed and approved WebMD's WebMD.com Web sites for compliance with its more than 45 quality and ethics standards. To verify our compliance click the URAC logo. To read more, visit the URAC Center on WebMD.
-
-  
-
 WebMD has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please email us by using the Contact Us link at the bottom of each page of our site. If you are not satisfied with our response you can contact TRUSTe here. Please bear in mind that TRUSTe's Watchdog service and certification is for the WebMD.com, MedicineNet.com, and the WebMD Health Manager sites and does not cover information that may be collected through other WebMD websites, mobile applications or mobile websites. Only information collected by WebMD.com, MedicineNet.com, or WebMD Health Manager should be reported in a TRUSTe Watchdog complaint.
 
 WebMD.com, MedicineNet.com, and eMedicineHealth.com comply with the HONcode standard for trustworthy health information, which can be verified here.
