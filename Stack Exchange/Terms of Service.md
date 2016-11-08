@@ -105,7 +105,7 @@ In no event shall Stack Exchange, its directors, officers, shareholders, employe
 
 10\. Fees and payment
 
-Some of the Services require payment of fees. All fees are stated in U.S. dollars. Subscriber shall pay all applicable fees, as described on the Network in connection with such Services selected by Subscriber, and any related taxes or additional charges. All fees are non-refundable unless expressly stated otherwise on the Network. Subscriber represents to Stack Exchange that Subscriber is the authorized account holder or an authorized user of the chosen method of payment used to pay for the paid aspects of the Services. All fee-based Services and virtual goods are provided “AS IS” with no warranties of any kind. Stack Exchange may modify and/or eliminate such fee-based Services at its discretion. Subscriber understands and agrees that the payment for virtual goods grants Subscriber a limited license to use the virtual goods as specified on the Network.
+Some of the Services require payment of fees. All fees are stated in U.S. dollars. Subscriber shall pay all applicable fees, as described on the Network in connection with such Services selected by Subscriber, and any related taxes or additional charges. All fees are non-refundable unless expressly stated otherwise on the Network. Subscriber represents to Stack Exchange that Subscriber is the authorized account holder or an authorized user of the chosen method of payment used to pay for the paid aspects of the Services. All fee-based Services and virtual goods are provided “AS IS” with no warranties of any kind. Stack Exchange may modify and/or eliminate such fee-based Services at its discretion. Stack Exchange may share your personal information, including credit card information for certain transactions in accordance with our Privacy Policy. Subscriber understands and agrees that the payment for virtual goods grants Subscriber a limited license to use the virtual goods as specified on the Network.
 
 Stack Exchange may change its prices at any time but will provide you reasonable notice of any such changes by posting the new prices on the Network and by sending you email notification. If you do not wish to pay the new prices, you may cancel the services prior to the change going into effect.
 
@@ -181,4 +181,4 @@ about us work here blog legal privacy policy contact us feedback always welcome
 
 site design / logo © 2016 Stack Exchange, Inc. user contributions licensed under cc by-sa 3.0 with attribution required
 
-2016.10.24.9392
+2016.11.7.9499
