@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Who Rides Passenger Trains in the U.S. These Days?**
+**Who Does a Mom Love More: Her Kid or Her Dog?**
 
-**3 Myths About Smartphone Batteries That Need to Die**
+**Do Uber Drivers Discriminate Racially? A Study Says Yes**
 
-**This Is Who Still Uses Pagers Today**
+**Businesses Offering Voting Discounts Are Technically Breaking Federal Law**
 
 **See More Headlines »**
 
