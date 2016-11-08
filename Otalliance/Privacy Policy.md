@@ -114,6 +114,10 @@ More >>.
 *   OTA Blog
 *   Newsletters
 
+Mon, Nov 7, 2016 Responsible, Coordinated &. Ethical Vulnerability Disclosures
+
+As a participant of NTIA’s multi-stakeholder vulnerability working group and an attendee to this week’s meeting in DC, I was impressed by the level of collaboration and sharing of best practices.  Progress is encouraging.
+
 Mon, Nov 7, 2016 Don’t Be a Tool – Verifying Subscriptions and Honoring Unsubscribes
 
 This summer the email marketing industry suffered a setback due to “list bomb” attacks in which thousands of targeted users were unknowingly subscribed to tens of thousands of mailings. In these attacks, ESP infrastructure and highly-reputed brands were used as a means to effectively create a “denial of service” against user inboxes, and email originating from many ESPs and brands was blocked by Spamhaus until the situation was better understood. Could this have been prevented?
@@ -125,10 +129,6 @@ Yesterday the FCC voted to approve privacy and security rules for broadband inte
 Wed, Sep 7, 2016 So you’ve had a data breach, now what?
 
 Companies, organizations and agencies that hold and transmit people’s personal information should keep it reasonably secure from unauthorized access and use. But what if there is a data breach that exposes the information? How should the breached entity help those affected? Should it offer them identity theft services?
-
-Tue, Jun 21, 2016 Drones - Privacy, Transparency and Accountably
-
-Today a multi-stakeholder group convened by the U.S.
 
 More >>. Resources
 
