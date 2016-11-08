@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 10.259,13ǀ
+*   DAX 10.456,95ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -208,8 +208,6 @@ Abbrechen Zeitraumallesletzte Wocheletzter Monatletztes Jahrseit 2005vor 2005vor
   
 Allgemeine Nutzungsbedingungen
 
-Donnerstag, **12.08.2010**   11:29 Uhr
-
 *   Drucken
 *   Nutzungsrechte
 *   Feedback
@@ -365,6 +363,13 @@ In Zusammenarbeit mit der **Meetrics GmbH** erfassen wir die **Sichtbarkeit von 
 Sie können der Datenverarbeitung durch die Meetrics GmbH hier widersprechen.
 
 (15)  
+**Informationen zur Einbindung von Outbrain**
+
+Auf einigen Seiten von SPIEGEL ONLINE und manager magazin online ist ein sogenanntes Widget der Outbrain UK Limited mit Sitz in London eingebunden. Der Dienst Outbrain dient dazu, unsere Nutzer auf weiterführende Inhalte hinzuweisen, die in einem thematischen Zusammenhang mit dem vom jeweiligen Nutzer gelesenen Inhalt stehen. Wenn der Nutzer kein Opt-out erklärt hat (siehe unten), erfolgt die Auswahl der im Widget angezeigten Inhalte auch anhand der Inhalte, die der Nutzer aktuell und in der jüngeren Vergangenheit auf der betreffenden Website betrachtet hat. Hierfür verwendet Outbrain unter anderem Cookies.
+
+Die im Widget angezeigten Inhalte werden inhaltlich und technisch von Outbrain gesteuert und ausgeliefert. Die SPIEGEL-Gruppe erhebt und verwendet im Zusammenhang mit dem Outbrain-Widget keine personenbezogenen Daten. Über die Erhebung und Verwendung von Nutzungs- und anderen Daten informiert Outbrain als verantwortliche Stelle in den Datenschutzregelungen von Outbrain. Dort haben Sie überdies die Möglichkeit, der Verwendung von Nutzungs- und anderen Daten für bestimmte Zwecke zu widersprechen Opt-out). Die Empfehlungen von Inhalten im Widget werden nach Opt-out nicht mehr auf der Grundlage der von Outbrain erfassten Nutzungsdaten gesteuert.
+
+(16)  
 **Nutzerbasierte Online-Werbung**
 
 SPIEGEL ONLINE hält sich an die europaweite Initiative zur freiwilligen Selbstkontrolle der digitalen Werbewirtschaft für nutzungsbasierte Online-Werbung. Weitere Informationen zum sogenannten Online Behavioral Advertising (OBA) Framework der European Interactive Digital Advertising Alliance (EDAA) finden Sie hier: http://www.edaa.eu.
@@ -614,7 +619,7 @@ Zur Startseite Diesen Artikel...
   
   
 
-**© SPIEGEL ONLINE 2010**  
+**© SPIEGEL ONLINE**  
 Alle Rechte vorbehalten  
 Vervielfältigung nur mit Genehmigung der SPIEGELnet GmbH
 
