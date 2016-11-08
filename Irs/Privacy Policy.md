@@ -33,7 +33,7 @@ Your Privacy Rights
 
 The IRS is committed to protecting the privacy rights of America's taxpayers. These rights are protected by the Internal Revenue Code, the Privacy Act of 1974, the Freedom of Information Act, and IRS policies and practices. Visit the IRS Electronic Freedom of Information Act Reading Room for more information about these laws.
 
-The Senior Agency Official for Privacy (SAOP), as mandated by OMB M05-08, has overall responsibility and accountability for ensuring the agency’s implementation of information privacy protections, including the agency’s full compliance with federal laws, regulations, and policies relating to information privacy.  The SAOP for the IRS is positioned at the Department of Treasury. 
+The Senior Agency Official for Privacy (SAOP), as mandated by OMB M-16-24, has overall responsibility and accountability for ensuring the agency’s implementation of information privacy protections, including the agency’s full compliance with federal laws, regulations, and policies relating to information privacy.  The SAOP for the IRS is positioned at the Department of Treasury. 
 
 **Privacy Complaints**
 
@@ -59,4 +59,4 @@ Washington, DC 20224**
 
 **Contact the Treasury Inspector General for Tax Administration (TIGTA) at 800-366-4484 or visit the TIGTA website for more information.**
 
-Page Last Reviewed or Updated: 26-Oct-2016
+Page Last Reviewed or Updated: 07-Nov-2016
