@@ -1,4 +1,4 @@
-15 3 2016.12.3.0.1.0
+15 3 2016.12.5.0.5.0
 
 *   Find a store
 *   store ads
@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15529472288
+true true L15551882380
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p20.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Sun Nov 06 11:15:27 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.3.0.1.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Mon Nov 07 11:16:31 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -54,31 +54,7 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-It's Your Lucky Day Sale Last Day! | In Store &. Online | Ends November 6 Shop Sale: View Store Ad: $7 Home Expressions microfiber solid or print twin sheet set
-
-select styles reg. $12-$30
-
-Shop Sheets $7 JCPenney Home trellis or 30x54" solid bath towel
-
-select styles reg. $12-$30
-
-Shop Towels $7 Arizona boys' essential or graphic long-sleeve tee
-
-select styles reg. $14-$18
-
-Shop Boys   $7 Arizona girls' favorite long-sleeve tee
-
-select styles reg. $14-$18
-
-Shop Girls $7 men's St. John’s Bay solid sueded henley
-
-select styles orig. $30
-
-Shop Men $7 a.n.a, Stylus or St. John's Bay long-sleeve tee for her
-
-including petite sizes select styles orig. $16-$22
-
-Shop Women Black Friday Deals Now! Up to 40% Off\* Major Appliances
+Black Friday Deals Now! Up to 40% Off\* Major Appliances
 
 Online &. In Select Stores. Select styles.
 
@@ -106,23 +82,37 @@ Get Details: JCPenney Rewards Shop &. Get Rewards
 
 For points earned on major appliances+
 
-+Get Details: Final Markdowns! 80% Off Clearance
++Get Details: Veteran's Day Home Sale 30 to 50% Off
 
-Going, Going, Gone! Hurry In Store!
+Select styles
 
-Featuring thousands of items as low as 4.97, 7.97 and 9.97
+Shop all Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining 40 to 60% Off Furniture &. Mattresses
 
-Find a Store: Or Shop 50 to 70% Off Online Clearance Shop Now: Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys Sephora New Beauty Arrivals: JCPenney | portraits
+Select styles
+
+Shop Furniture &. Mattresses   Layer Up! 40 to 50% Off Outerwear for the Family
+
+Select styles
+
+Shop Men Shop Boys Shop Girls Buy 1 Get 1 50% Off Women's Outerwear
+
+Select styles. \*Buy one item at regular price, get a second item of equal or lesser value for 50% off, while supplies last.
+
+Shop Women's Outerwear         Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys Black Friday Deals Sneak Peek Preview the deals &. make your list!
+
+Starts Online Wednesday, November 23
+
+View Store Ad Sephora New Beauty Arrivals: JCPenney | portraits
 
 .49 and .59 Photo Greeting Cards
 
-&. a free 8x10
+Free 8x10
 
-Get Details: Introducing iMemories
+Get Coupon: SportsFanShop
 
-brought to your by JCPenney | portraits
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Digitize your home movies &. photos Get Details: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Nov 06 23:02:18 CST 2016 JVM :->. dtexppr1c2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Nov 06 23:00:13 CST 2016 JVM :->. dtexppr1c2j1\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Nov 07 23:01:36 CST 2016 JVM :->. dtexppr1c2j1\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Nov 07 23:01:26 CST 2016 JVM :->. dtexppr1l1j6\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
