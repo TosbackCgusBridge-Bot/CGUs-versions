@@ -90,7 +90,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Stock exchange announcements
         *   Inside information
     
-    *   3Q 2016 update Read the main highlights in our quick read summary.
+    *   3Q 2016 quick read Read the main highlights from our latest Earnings Release.
 *   News and insight
     
     *   Media resources
