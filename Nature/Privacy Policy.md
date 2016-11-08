@@ -29,7 +29,7 @@
     *   Give Monthly
     *   Gift MembershipGift Catalog Gift &. Estate Planning Honor &. Tribute Giving Other Ways to Give
 
-Donate Now Press enter to search. About Us
+Donate Now DonateRenew Press enter to search. About Us
 
 *   Vision and Mission
 *   Our Governance
