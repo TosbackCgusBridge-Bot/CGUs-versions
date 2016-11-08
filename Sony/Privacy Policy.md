@@ -92,9 +92,75 @@ SONY
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! Get Ready for a New Alicia Keys' Album
+Your browser does not support JavaScript! Enrich Your Gaming Experience With the New PS4™Pro
 
-Pre-Order Now
+Get the Console This Week
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Get the Console This Week
+
+Sony on Instagram
+
+Sony on Twitter
+
+How Rez shines brighter than ever on PS4 Pro. @Mizuguchitter details Rez Infinite's improvements on TV and in VR.
+
+2016-11-08 07:14:13+00:00
+
+View Tweet
+
+Stream Our Movies in 4K
+
+With ULTRA
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+With ULTRA
+
+The World Is a Big Place, Capture It in 4K
+
+Start Exploring With Action Cam
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Start Exploring With Action Cam
+
+Still Not Sure What 4K Means?
+
+Learn More
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Learn More
+
+Director Ang Lee Brings a Modern-Day War Story to the Screen
+
+Find Tickets for "Billy Lynn's Long Halftime Walk"
 
 Close
 
@@ -110,7 +176,63 @@ Sony on YouTube
 
 Play Video
 
-A Turntable Worthy of Your Vinyl Collection
+Don’t Miss Your Chance to Attend PlayStation®Experience 2016
+
+Start Bidding on Passes Now
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Start Bidding on Passes Now
+
+How One Girl Changed Tradition
+
+See "The Eagle Huntress"
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Sony on Instagram
+
+Sony on Twitter
+
+Capture the city by night, courtesy of the Xperia XZ with Laser Autofocus.
+
+2016-11-07 15:00:00+00:00
+
+View Tweet
+
+Get the Shot You Want
+
+Every Time
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Every Time
+
+The Shocking Fall Finale of "The Blacklist" Is Thursday
 
 Learn More
 
@@ -124,19 +246,9 @@ Close
 
 Learn More
 
-Sony on Instagram
+Do You Have What It Takes to Solve the Puzzle and Catch the Bad Guy?
 
-Sony on Twitter
-
-News! We’ve got a new ShowStopper celebrating Elvis’ The Wonder of You. Bid now.
-
-2016-11-01 07:56:40+00:00
-
-View Tweet
-
-Hear the Latest Chart Toppers
-
-Start Streaming
+Find Out at Sony Square NYC
 
 Close
 
@@ -146,25 +258,15 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Start Streaming
+Play Video
 
-Small Speaker, Big Sound
+Sony on YouTube
 
-Try Hi-Res Audio
+Play Video
 
-Close
+Solange Shares the Songwriting Process for Her New Album
 
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Try Hi-Res Audio
-
-PlayStation™Vue Is Now Available on Our Android™ TVs
-
-Watch Live TV From your Favorite Networks
+Watch the Mini-Documentary
 
 Close
 
@@ -174,25 +276,11 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Watch Live TV From your Favorite Networks
+Watch the Mini-Documentary
 
-Test Your Wits at Sony Square NYC's New Escape Games Installation
+A Tribe Called Quest's Hits
 
-RSVP Today
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-RSVP Today
-
-A Photo Exhibit That Shows the Beauty of Bordeaux
-
-Now on Display
+Stream Now
 
 Close
 
@@ -202,35 +290,21 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Now on Display
+Stream Now
 
 Sony on Instagram
 
 Sony on Twitter
 
-Test your wits and #EscapeSonySquare with our @nbctimeless and @nbcblacklist challenges. Now through December 2
+Calling all #Elvis fans: This incredible experience includes a stay at The Guest House at #Graceland &. more.
 
-2016-11-01 08:05:07+00:00
+2016-11-08 06:33:36+00:00
 
 View Tweet
 
-Try Out a Digital Camera
+A Smartphone That Adapts to You
 
-Learn How
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Learn How
-
-Sharpen Your Photography Skills With the Help of a Pro
-
-Participate in a Photo Walk
+Check Out the Xperia X Compact
 
 Close
 
@@ -240,95 +314,29 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Participate in a Photo Walk
+Check Out the Xperia X Compact
+
+Have Some Fun: Watch "Sausage Party"
+
+Learn More
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
 
 Call of Duty Goes to Space In the Newest Installment
 
-Play It Day One on PS4™
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-Kings of Leon Return With "WALLS"
-
-Listen to Album
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Listen to Album
-
-Sony on Instagram
-
-Sony on Twitter
-
-.@Adele graces the cover of @VanityFair's December issue. Read the cover story.
-
-2016-11-01 07:51:37+00:00
-
-View Tweet
-
-Immerse Yourself in Video
-
-With the Xperia XZ
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-With the Xperia XZ
-
-The World Is a Big Place, Make Sure to Capture It
-
-Start Exploring With Action Cam
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Start Exploring With Action Cam
-
-A Murderer Was Revealed on the Latest “Notorious"
-
-Read How It Came Together
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Read How It Came Together
-
-Academy Award-Winning Director Ang Lee Revolutionizes Filmmaking In "Billy Lynn's Long Halftime Walk"
-
-Learn More About the Film
+Play It on PS4™
 
 Close
 
