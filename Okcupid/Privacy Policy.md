@@ -180,8 +180,7 @@ You need to complete your basic info on the mobile app before you can use the de
 *   About
 *   Careers
 *   Support
-*   The Deep End
-*   OkTrends
+*   Blog
 *   Tests
 *   Privacy Policy
 *   Terms and Conditions
