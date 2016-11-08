@@ -14,10 +14,10 @@ Sencha
     *   Test
         *   Sencha Test
     *   Tools
-        *   Themer
-        *   Architect
         *   Cmd
         *   IDE Plugins
+        *   Architect
+        *   Themer
         *   Inspector
     *   Sencha Market
 *   Services
@@ -169,13 +169,13 @@ Get Sencha NewsBuy Online
     *   Why Sencha
     *   Sencha Platform
     *   Ext JS
-    *   Sencha Test
     *   GXT
+    *   Sencha Test
     *   Sencha Touch
-    *   Themer
-    *   Architect
     *   Cmd
     *   IDE Plugins
+    *   Architect
+    *   Themer
     *   Inspector
     *   Sencha Market
 
