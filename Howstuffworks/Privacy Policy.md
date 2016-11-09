@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Who Does a Mom Love More: Her Kid or Her Dog?**
+**No, Really — Who Gets Control of the Armrest?**
 
-**Do Uber Drivers Discriminate Racially? A Study Says Yes**
+**Thousands Line Up to Place Voting Stickers on Susan B. Anthony's Grave**
 
-**Businesses Offering Voting Discounts Are Technically Breaking Federal Law**
+**All Hyped Up? Weirdly, the Best Thing for You Might Be a Stimulant**
 
 **See More Headlines »**
 
