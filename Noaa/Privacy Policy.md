@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Climate
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Americans added nearly 1 pound of seafood to their diet in 2015 Report shows continued stability, sustainability in U.S. fisheries. some declines in West Coast stocks AROUND NOAA // Size of 2016 Antarctic ozone hole is nearly average, as expected U.S. Winter Outlook predicts warmer, drier South and cooler, wetter North
+Enter Search Terms U.S. experienced 3rd warmest October and 2nd warmest year to date Ongoing drought also intensified in the South and Southeast last month AROUND NOAA // Americans added nearly 1 pound of seafood to their diet in 2015 Size of 2016 Antarctic ozone hole is nearly average, as expected U.S. Winter Outlook predicts warmer, drier South and cooler, wetter North
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock
+Nicolas Raymond, freestock.ca
