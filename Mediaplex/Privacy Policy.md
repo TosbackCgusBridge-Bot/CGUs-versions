@@ -76,9 +76,13 @@ Login Let's Connect What We Do Watch Video
     Return On Ad Spend
 
 *   The Latest News
+*   We Know Millions of Movie &. TV Fans
+    
+    Entertainment campaigns at Conversant  
+    
 *   The "50 First Dates" Problem
     
-    A recipe for bad digital marketing  
+    A recipe for bad digital marketing
     
 *   Winner: DMA Innovation Award
     
@@ -91,10 +95,6 @@ Login Let's Connect What We Do Watch Video
 *   Marketing Is Failing At Its Top Priority
     
     New report with Econsultancy  
-    
-*   The 99%+ Human Guarantee
-    
-    Stop wasting money on bots
     
 
 NEW GUIDE
