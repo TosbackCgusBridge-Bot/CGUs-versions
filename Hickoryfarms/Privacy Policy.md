@@ -11,13 +11,13 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Tailgating
-    *   Thanksgiving
+    Holidays &. Occasions*   Thanksgiving
+    *   Christmas Gifts
     *   Gifts for Her
     *   Gifts for Him
     *   Birthday Gifts
+    *   Tailgating
     *   Weddings &. Showers
-    *   Christmas Preview
     
     By Price*   $30 &. Under
     *   $40 &. Under
@@ -86,13 +86,13 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Tailgating
-    *   Thanksgiving
+    Holidays &. Occasions*   Thanksgiving
+    *   Christmas Gifts
     *   Gifts for Her
     *   Gifts for Him
     *   Birthday Gifts
+    *   Tailgating
     *   Weddings &. Showers
-    *   Christmas Preview
     
     By Price*   $30 &. Under
     *   $40 &. Under
@@ -194,9 +194,9 @@ My Account
 
 Guarantees
 
-*   Security
-*   Substitution Policy
 *   100% Satisfaction
+*   Substitution Policy
+*   Security
 
 Privacy
 
