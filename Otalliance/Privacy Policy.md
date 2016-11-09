@@ -101,18 +101,24 @@ Wed, Nov 16, 2016 From Sign-up to Opt-out: Results &. Best Practices from Email 
 
 With Yes Lifecycle Marketing’s patronage, The Online Trust Alliance (OTA) conducted a comprehensive, independent audit of the top 200 online retailers to examine the entire email engagement process, from signing up for a brand’s emails to opting out of its email program. Register to learn best practices for every step of the email mailing process – from effective signup pages, through email validation, and efficient opt-out tactics.
 
+Wed, Nov 30, 2016 2016 Breaches: Lessons Learned
+
+It seems that every week we hear that another company has just made the news and joined the club known as BREACHED! In this webcast we will discuss the most notable security incidences that happened in 2016. Our presenters will share real world examples of current breaches that show how vulnerable networks can be without the correct user and data security controls. In this webcast moderated by Craig Spiezle, Executive Director of OTA you’ll learn:
+
 Tue, Dec 6, 2016 IoT Security Foundation Conference 2016 - London
 
 Building an Internet of Trust. The conference will look at what it takes to build an Internet of Trusted Things, what is currently underway, what we can learn from the past to predict the future and the necessary duties of care providers and adopters need to ensure.
-
-Wed, Dec 7, 2016 Fall Technology Series: Smart TV
-
-Consumers enjoy recommendations based on their television viewing habits (“viewers who watched Mr. Robot… may enjoy Fight Club”), but who else knows what you’re watching? The golden age of television has arrived with the golden age of television tracking. In 2016, virtually all television delivery systems – smart TVs, streaming devices, game consoles, apps, and even old-fashioned set top boxes – track consumers’ viewing habits, and sometimes in new and unexpected ways.
 
 More >>.
 
 *   OTA Blog
 *   Newsletters
+
+Wed, Nov 9, 2016 Why the Insurance Industry Will Never Be the Same After the Mirai DDoS Attack
+
+**Guest Blog from Pascal Millaire, Symantec**
+
+ We are entering a new era for global insurers, where business interruption claims are no longer confined to a limited geography, but can simultaneously impact seemingly disconnected insureds globally. This creates new forms of systemic risks that could threaten the solvency of major insurers if they do not understand the silent and affirmative cyber risks inherent in their portfolios.  
 
 Mon, Nov 7, 2016 Responsible, Coordinated &. Ethical Vulnerability Disclosures
 
@@ -125,10 +131,6 @@ This summer the email marketing industry suffered a setback due to “list bomb�
 Fri, Oct 28, 2016 FCC Rule Making - Not Perfect But a MAJOR step forward
 
 Yesterday the FCC voted to approve privacy and security rules for broadband internet service providers.
-
-Wed, Sep 7, 2016 So you’ve had a data breach, now what?
-
-Companies, organizations and agencies that hold and transmit people’s personal information should keep it reasonably secure from unauthorized access and use. But what if there is a data breach that exposes the information? How should the breached entity help those affected? Should it offer them identity theft services?
 
 More >>. Resources
 
