@@ -1,10 +1,10 @@
-Local Corporation Privacy Policy  
+Local.com Ltd Privacy Policy  
 
 Effective Date: December 20, 2013
 
   
 
-At Local Corporation (“Local, “we,” “us,” or “our”), we understand the importance of maintaining your privacy, and we therefore strive to provide our service with your protection in mind. This Privacy Policy applies to your use of our service whether accessed via computer or mobile device (the “Service”) on our owned and operated websites, mobile applications, and other properties on which a link to this Privacy Policy is provided (collectively, “Local Web Pages”). This Policy does not apply to third-party properties, or Local properties that contain other privacy policies, such as our web page at http://uk.local.com.
+At Local.com Ltd (“Local, “we,” “us,” or “our”), we understand the importance of maintaining your privacy, and we therefore strive to provide our service with your protection in mind. This Privacy Policy applies to your use of our service whether accessed via computer or mobile device (the “Service”) on our owned and operated websites, mobile applications, and other properties on which a link to this Privacy Policy is provided (collectively, “Local Web Pages”). This Policy does not apply to third-party properties, or Local properties that contain other privacy policies, such as our web page at http://uk.local.com.
 
 This Privacy Policy contains the following sections:  
   
@@ -99,7 +99,7 @@ Some of this information that you provide to us or our Partners may include your
 *   Partners: We provide your Personal Information to Partners who work with us to provide our Service, or provide services outside of and/or unrelated to the Local Web Pages or Service. Our Services with which our Partners may assist us include among other things, communicating with you about new or existing Local or third-party services, creating or maintaining our databases, researching or analyzing our users, or processing payment card information.  
       
     
-*   Affiliates: We may share your Personal Information with any and all of our Affiliates. “Affiliates” means any entity controlled by, controlling, or under common control with Local Corporation. Our Affiliates will use and distribute your information in accordance with the terms of this Privacy Policy.  
+*   Affiliates: We may share your Personal Information with any and all of our Affiliates. “Affiliates” means any entity controlled by, controlling, or under common control with Local.com Ltd. Our Affiliates will use and distribute your information in accordance with the terms of this Privacy Policy.  
       
     
 *   Legal Issues: Local will use your Personal Information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We will also use or share your Personal Information in order to prevent, or take action regarding any illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law even without a subpoena, warrant, or court order.  
@@ -171,8 +171,8 @@ We may revise this Privacy Policy from time to time. We will post any Privacy Po
 
 **_California Privacy Rights Under California Civil Code Section 1798.83_**
 
-California Civil Code Section 1798.83 permits end users who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send us an e-mail at clientservices@local.com or write us at: Local Corporation, 7555 Irvine Center Drive, Irvine, CA 92618, Attn: Legal Department.
+California Civil Code Section 1798.83 permits end users who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send us an e-mail at clientservices@local.com or write us at: Local.com Ltd, 46 Discovery Suite 200, Irvine, CA 92618, Attn: Legal Department.
 
 **_Contact Us_**
 
-If you have any questions about this Privacy Policy, please feel free to contact us by e-mail at privacy@local.com or by U.S. mail at: Local Corporation, 7555 Irvine Center Drive, Irvine, CA 92618, Attn: Legal Department.
+If you have any questions about this Privacy Policy, please feel free to contact us by e-mail at privacy@local.com or by U.S. mail at: Local.com Ltd, 46 Discovery Suite 200, Irvine, CA 92618, Attn: Legal Department.
