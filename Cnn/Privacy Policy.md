@@ -21,7 +21,7 @@ Regions
 
 U.S. Politics
 
-*   Election 2016
+*   Election Results
 *   Nation
 *   World
 *   Our Team
@@ -151,7 +151,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
     8.  Opinion
 
 1.  U.S. Politics
-    1.  Election 2016
+    1.  Election Results
     2.  Nation
     3.  World
     4.  Our Team
