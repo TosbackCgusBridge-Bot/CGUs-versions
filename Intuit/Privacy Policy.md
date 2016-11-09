@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15551882380
+true true C15535279716
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Mon Nov 07 11:16:31 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Tue Nov 08 11:15:32 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -54,7 +54,61 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Black Friday Deals Now! Up to 40% Off\* Major Appliances
+Extra 25% Off\* or EXTRA 15% OFF\* select watches, salon products, furniture, mattresses, custom blinds &. shades
+
+in store &. online | TODAY ONLY! ENDS NOV 8 | CODE: FORYOU27
+
+\*exclusions apply
+
+Get Details: 9.99 juniors' leggings
+
+select styles, reg. $20
+
+shop juniors' leggings 19.99 men's st. john's bay sweaters
+
+select styles, reg. $42
+
+shop st. john's bay sweaters 9.99 boys' &. girls' xersion, x-tech &. polar fleece
+
+select styles, reg. $20
+
+shop boys xersion, x-tech &. polar fleece shop girls xersion, x-tech &. polar fleece 7.99 JCPenney home farmhouse stripe or 30x56" solid bath towel
+
+reg. $16
+
+shop bath towels 17.99 worthington sweaters for her
+
+select styles, reg. $30
+
+shop worthington sweaters for her 50% off men's outerwear and cold-weather accessories
+
+select styles, 8.99-99.99 reg. $18-$200
+
+shop men's outerwear shop men's cold-weather accessories 9.99 boys' &. girls' arizona graphic tees
+
+select styles, reg. $16-$18
+
+shop boys arizona graphic tees shop girls arizona graphic tees 9.99 after $10 mail-in rebate crock-pot 4-qt. smart-pot slow cooker
+
+19.99, reg. $50, small appliances excluded from coupon
+
+shop slow cookers 40% off cold-weather accessories for her
+
+select styles, reg. $10-$54
+
+shop cold-weather accessories for her 40 to 60% off boots for the family
+
+select styles, reg. $40-$120
+
+shop men boots shop women boots shop kids boots 40 to 60% off fine jewelry
+
+select styles
+
+shop fine jewelry 30 to 60% off fashion jewelry &. fashion silver
+
+select styles
+
+shop fashion jewelry &. fashion silver Black Friday Deals Now! Up to 40% Off\* Major Appliances
 
 Online &. In Select Stores. Select styles.
 
@@ -82,23 +136,7 @@ Get Details: JCPenney Rewards Shop &. Get Rewards
 
 For points earned on major appliances+
 
-+Get Details: Veteran's Day Home Sale 30 to 50% Off
-
-Select styles
-
-Shop all Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining 40 to 60% Off Furniture &. Mattresses
-
-Select styles
-
-Shop Furniture &. Mattresses   Layer Up! 40 to 50% Off Outerwear for the Family
-
-Select styles
-
-Shop Men Shop Boys Shop Girls Buy 1 Get 1 50% Off Women's Outerwear
-
-Select styles. \*Buy one item at regular price, get a second item of equal or lesser value for 50% off, while supplies last.
-
-Shop Women's Outerwear         Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys Black Friday Deals Sneak Peek Preview the deals &. make your list!
++Get Details: Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys Black Friday Deals Sneak Peek Preview the deals &. make your list!
 
 Starts Online Wednesday, November 23
 
@@ -112,7 +150,7 @@ Get Coupon: SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Nov 07 23:01:36 CST 2016 JVM :->. dtexppr1c2j1\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Nov 07 23:01:26 CST 2016 JVM :->. dtexppr1l1j6\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Nov 08 07:38:37 CST 2016 JVM :->. dtexppr1c2j1\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Nov 08 21:28:47 CST 2016 JVM :->. dtexppr1c2j3\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
