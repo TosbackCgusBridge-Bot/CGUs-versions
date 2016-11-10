@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
-*   How to manage IoT security and software management ›
+*   Canonical launches fully managed Kubernetes and joins the CNCF ›
+*   How to Use Snaps when Collecting IoT Data with Predix Time Series ›
 *   Cloud Chatter: October 2016 ›
 *   10 IoT-focused desktop snaps written in October ›
-*   16.10 brings Unity 8 to desktop and more Snap installations ›
