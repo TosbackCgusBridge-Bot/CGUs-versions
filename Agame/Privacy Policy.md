@@ -108,12 +108,12 @@ View more results
     Join for free
 *   Hot Games
     
+    *   Slotomania
+    *   Farmerama
+    *   World of Tanks
+    *   Hero Simulator: Idle Adventure
     *   Troll Face Quest Video Games
-    *   Pokerist
-    *   Cloud Kingdom
-    *   Candy Bubble
-    *   8 Ball Pool
-    *   Smarty Bubbles
+    *   SuperSnake.io
     
     Mobile Apps More
     
