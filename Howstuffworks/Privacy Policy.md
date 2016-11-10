@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**No, Really — Who Gets Control of the Armrest?**
+**What Happens to the Polarized U.S. Political System Now?**
 
-**Thousands Line Up to Place Voting Stickers on Susan B. Anthony's Grave**
+**Does a New Two-headed Shark Discovery Mean It's Time to Seriously Freak Out?**
 
-**All Hyped Up? Weirdly, the Best Thing for You Might Be a Stimulant**
+**There's a Stinky Reason Seabirds Eat Plastic**
 
 **See More Headlines »**
 
