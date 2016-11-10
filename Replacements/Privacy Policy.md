@@ -34,6 +34,7 @@ Get Inspired
 *   What's Trending Now
 *   The Dish - Our Newsletter
 *   Events &. Features
+*   Designers &. Influencers
 *   Everything for a Wedding
 
 Specials
@@ -43,7 +44,7 @@ Specials
 *   Dinnerware Sets &. More
 *   Cleaning Out the Warehouse
 
-Contact Us FAQ Shopping Cart Cart
+Contact Us FAQ Shopping Cart Cart ChinaDinnerware CrystalGlassware SilverFlatware Specials
 
 *   Cart
 *   My Account
@@ -136,6 +137,7 @@ Contact Us FAQ Shopping Cart Cart
     *   What's Trending Now
     *   The Dish - Our Newsletter
     *   Events &. Features
+    *   Designers &. Influencers
     
     *   Baby Items
     *   Everything for a Wedding
