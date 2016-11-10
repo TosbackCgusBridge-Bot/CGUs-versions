@@ -139,6 +139,8 @@ Call Us Mobile Site Español Contact Us Sign In
 
 *   About Us
 
+Attention! Your browser settings show that JavaScript is disabled.
+
 *   Company Information
 *   Investor Relations
 *   Community
@@ -147,7 +149,7 @@ Call Us Mobile Site Español Contact Us Sign In
 *   Governance
 *   Legal
 
-Qwest's Acceptable Use Policy
+Attention! Your browser settings show that JavaScript is disabled. Qwest's Acceptable Use Policy
 
 Qwest has formulated this Acceptable Use Policy ("AUP") in order to encourage the responsible use of Qwest's networks, systems, services, web sites and products (collectively, the "Qwest Network and Services") by our customers and other users of the Qwest Network and Services (collectively, "Users"), and to enable us to provide Users with secure, reliable and productive services. By using the Qwest Network and Services, Users consent to be bound by the terms of this AUP. Qwest reserves the right to modify this AUP in its discretion at any time. Such modifications will be effective when posted. Any use of the Qwest Network and Services after such modification shall constitute acceptance of such modification.
 
@@ -190,4 +192,4 @@ Store Locator | White/Yellow Pages White/Yellow Pages | Email Offers | Referral 
   
 For Home | Small Business | Medium Business | Enterprise | Wholesale  
   
-© 2016, CenturyLink. All Rights Reserved. Feedback   Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings shows that JavaScript is disabled,please enable for better view
+© 2016, CenturyLink. All Rights Reserved. Feedback   Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings shows that JavaScript is disabled,please enable for better view Attention! Your browser settings show that JavaScript is disabled.
