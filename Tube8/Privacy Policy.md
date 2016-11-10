@@ -1,22 +1,50 @@
+*   en
+    *   DE Deutsch
+    *   ES Español
+    *   FR Français
+    *   JP 日本の
+*   Straight
+    
+    *   Straight
+    *   Gay
+    *   Shemale
+*   Upload
+*   Login
+*   Sign up
+
 *   Videos
+    *   Featured
+    *   Longest
+    *   Magic
+    *   Comments
+    *   Favorites
+    *   Views
+    *   Votes
+    *   Newest
+    *   Rating
 *   Categories
+    *   Amateur
+    *   Anal
+    *   Asian
+    *   Blowjob
+    *   Ebony
+    *   Erotic
+    *   Fetish
+    *   Hardcore
+    *   HD
+    *   Hentai
+    *   Indian
+    *   Latina
+    *   Lesbian
+    *   Mature
+    *   Milf
+    *   Strip
+    *   Teen
+    *   Threesome
 *   Tags
 *   Premium HD
 *   Live Girls
 *   SnapSex
-
-en
-
-*   DE Deutsch
-*   ES Español
-*   FR Français
-*   JP 日本の
-
-Sign up Login Upload
-
-*   Straight
-*   Gay
-*   Shemale
 
 You have Adblock enabled. Adblock has been known to cause issues with site functionality. If you experience any difficulties, please try disabling Adblock. Close Advertise On Tube8 Name: \*Email: Subject: Tube8 AdvertisingReport inappropriate contentFeedback Type: Type: VideoAdsProfileOther Spot/Placement: Screenshot: My site: I'm interested in: Global TrafficGeo-Targeted Traffic Link to content being reported: \*Comments:  
 Send Start advertising on Tube8 today: Create your advertiser account. TUBE8 - Terms of service
