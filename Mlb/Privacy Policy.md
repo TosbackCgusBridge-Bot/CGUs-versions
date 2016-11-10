@@ -95,7 +95,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Depth Charts
     *   Transactions
     *   Top Prospects
-    *   Hot Stove Tracker
     *   Mobile Player Alerts
     *   MLB Players Association
     *   Probable Pitchers
