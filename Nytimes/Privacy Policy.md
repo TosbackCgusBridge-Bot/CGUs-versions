@@ -1,13 +1,10 @@
-campaign: nyt2016\_bar1\_digi\_election\_open\_access\_acq\_6HJUY -- 284864, creative: bar1\_digi\_election\_open\_access\_acq\_6HJUY -- 415282, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
+campaign: nyt2016\_bar1\_digi\_november10\_6HFKY -- 284755, creative: bar1\_digi\_november10\_election\_6HFKY -- 415194, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
 
 *   1 of 10 articles read
-*   EXTEND ACCESS November 7-9  
-    
-    Our election coverage is  
-    just the beginning.
-    
-    Enjoying unlimited access?  
-    Extend it now. Free. UNLOCK ACCESS NOW
+*   SUBSCRIBE NOW One important day  
+    inspires another. The Times Sale  
+    **Get 50% off.  
+    Today only.** SUBSCRIBE NOW
 
 Subscribe*   Help
 
