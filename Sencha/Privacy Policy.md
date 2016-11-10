@@ -45,7 +45,7 @@ Sencha
     *   Web Purchase Policy
     *   Authorized Resellers
 
-*   SenchaCon 2016
+*   SenchaDevs
 *   Support
 *   Forum
 *   Docs
@@ -203,6 +203,7 @@ Get Sencha NewsBuy Online
     *   Overview
     *   Team
     *   Events
+    *   SenchaCon
     *   In the News
     *   Press Releases
     *   Careers
