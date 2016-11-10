@@ -181,4 +181,4 @@ Last updated: September 2012.
 *   Website Terms of Use
 *   Site Map
 
-© 2016 Charter Communications, Inc. CHARTER and CHARTER SPECTRUM are registered service marks of Charter Communications Holding Company LLC. Time Warner Cable and the eye/ear logo are trademarks of Time Warner Inc. Used under license. All rights reserved. To order any services not available online, contact us.
+© 2016 Charter Communications. CHARTER and CHARTER SPECTRUM are registered service marks of Charter Communications Holding Company LLC. Time Warner Cable and the eye/ear logo are trademarks of Time Warner Inc. Used under license. All rights reserved. To order any services not available online, contact us.
