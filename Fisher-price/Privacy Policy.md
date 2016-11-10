@@ -72,7 +72,7 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   3-4 Years
     *   4-5 Years
     *   5+ YearsSee all
-*   AGE-BY-AGE PLAYTIME GUIDE
+*   AGE-BY-AGE PLAYTIME GUIDE AGE-BY-AGE PLAYTIME GUIDE
     
     *   1 Month
     *   2 Months
@@ -124,7 +124,7 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   Octonauts™
     *   Shimmer and Shine™
     *   Bright Beats™
-*   PARENTING CATEGORIES
+*   PARENTING PARENTING CATEGORIES
     
     *   All About Pregnancy
     *   Baby's Senses
@@ -155,7 +155,7 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   A Film by You
     
     *   International Parenting Study
-*   GAMES &. ACTIVITIES Online Games Apps for Kids Online Videos Coloring Pages Crafts for Kids Play &. Learn Activities
+*   GAMES &. ACTIVITIES GAMES &. ACTIVITIES Online Games Apps for Kids Online Videos Coloring Pages Crafts for Kids Play &. Learn Activities
 *   Sign In / Register
 
 STAY IN TOUCH WITH US HERE: PRODUCTS
