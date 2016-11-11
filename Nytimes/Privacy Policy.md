@@ -1,10 +1,9 @@
-campaign: nyt2016\_bar1\_digi\_november10\_6HFKY -- 284755, creative: bar1\_digi\_november10\_election\_6HFKY -- 415194, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
+campaign: nyt2016\_bar1\_digi\_cpb\_67LXL -- 283987, creative: nyt2016\_bar1\_digi\_cpb\_67LXL -- 414213, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
 
 *   1 of 10 articles read
-*   SUBSCRIBE NOW One important day  
-    inspires another. The Times Sale  
-    **Get 50% off.  
-    Today only.** SUBSCRIBE NOW
+*   SUBSCRIBE NOW Real news deserves  
+    real journalism. Get The Times.  
+    As low as 99¢ for 4 weeks. SEE MY OPTIONS
 
 Subscribe*   Help
 
