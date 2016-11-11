@@ -3,7 +3,7 @@ Your Account
 Shopping Cart
 
 *   Home
-*   Shop Books &. Videos
+*   Shop Video Training &. Books
 *   Radar
 *   Safari Books Online
 *   Conferences
@@ -21,15 +21,11 @@ Shopping Cart
 
 O'Reilly Media Privacy Policy
 
-This version (Version 2.0) of O'Reilly Media, Inc.'s Privacy Policy is effective as of December 2, 2014.
+This version (Version 2.1) of O'Reilly Media, Inc.'s Privacy Policy is effective as of November 9, 2016.
 
-This Policy ("Policy") describes the privacy practices of O'Reilly Media, Inc. ("O'Reilly," "we," "us," "our") and governs how we collect, store, process, transfer, use, and protect personal information collected from and about you. This Policy applies to the websites that we own and that display or link to this Policy, including the websites located at oreilly.com, but does not apply to oreillyschool.com. Specific information relating to the O'Reilly School of Technology's privacy practices may be found here. This Policy also applies to your access to these websites via mobile devices. This Policy does not apply to any O'Reilly websites, products or services that display or link to their own privacy policies, or that do not link to or display this Policy.
+This Policy ("Policy") describes the privacy practices of O'Reilly Media, Inc. ("O'Reilly," "we," "us," "our") and governs how we collect, store, process, transfer, use, and protect personal information collected from and about you. This Policy applies to the websites that we own and that display or link to this Policy, including the websites located at oreilly.com. This Policy also applies to your access to these websites via mobile devices. This Policy does not apply to any O'Reilly websites, products or services that display or link to their own privacy policies, or that do not link to or display this Policy.
 
-O'Reilly Media, Inc. has received TRUSTe's Privacy Seal certifying that this Policy and our practices comply with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification only covers information collected on the O'Reilly websites listed on the validation page, and to our conference specific mobile applications that link to this Policy.
-
-Please contact us at if you have questions or concerns about this Policy. If we do not resolve your question or concern satisfactorily, then please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
-
-O'Reilly Media, Inc. complies with the U.S. — EU Safe Harbor Framework and the U.S. — Swiss Safe Harbor Framework set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Economic Area and from Switzerland. You can learn more about the Safe Harbor program, and view our Safe Harbor certification at http://www.export.gov/safeharbor.
+Please contact us at if you have questions or concerns about this Policy. If we do not resolve your question or concern satisfactorily, then please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
 *   Information We Collect
 *   How We Use Information We Collect
@@ -61,7 +57,7 @@ When you register for an online account, make a purchase, subscribe to a newslet
 
 Our website offers publicly accessible areas where users may contribute content and other information. Any PI that you provide in these areas may be read, collected and used by others.
 
-We may provide you the opportunity to participate surveys on our website. If you participate, we will request certain personally identifiable information from you. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). As participation in these surveys is voluntary, you need not provide this information if you do not participate.
+We may provide you the opportunity to participate in surveys on our website. If you participate, we will request certain personally identifiable information from you. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). As participation in these surveys is voluntary, you need not provide this information if you do not participate.
 
 You can log in to our website using third party sign-in services such as Facebook, LinkedIn, Twitter or an Open ID provider. These services will authenticate your identity and provide you with the option to share certain personal information with us such as your name and email address to pre-populate our sign up form(s). Third party services like Facebook Connect give you the option to post information about your activities on our website to your profile page on third party services to share with others within your network on those services.
 
@@ -228,13 +224,13 @@ If you no longer wish your information to be shared, or if you have questions re
 
 13\. Previous Versions
 
-For the previous version please click here.
+This is version 2.1.
 
-This is version 2.0.
+For version 2.0 please click here.
 
-  Sign up today to receive special discounts,  
-product alerts, and news from O'Reilly. Privacy Policy >  
-View Sample Newsletter >.
+For version 1.1 please click here.
+
+ 
 
 *   Twitter
 *   YouTube
@@ -243,7 +239,7 @@ View Sample Newsletter >.
 *   RSS
 *   View All RSS Feeds >
 
-© 2014, O’Reilly Media, Inc.
+© 2016, O’Reilly Media, Inc.
 
 (707) 827-7019 (800) 889-8969
 
@@ -279,8 +275,7 @@ Partner Sites
 *   makezine.com
 *   makerfaire.com
 *   craftzine.com
-*   igniteshow.com
-*   PayPal Developer Zone
+*   Ignite Talks
 *   O'Reilly Insights on Forbes.com
 
 Shop O'Reilly
