@@ -49,7 +49,6 @@ View All Video Cameras ›Video Cameras
 *   Camcorders
 *   Action Cameras
 *   Music Video Recorders
-*   Recording Binoculars
 *   Professional Camcorders
 
 View All Car &. Marine ›Car &. Marine
@@ -264,9 +263,9 @@ Sony on YouTube
 
 Play Video
 
-Solange Shares the Songwriting Process for Her New Album
+Worth the 18 Years Wait for New Music From A Tribe Called Quest
 
-Watch the Mini-Documentary
+Get Album
 
 Close
 
@@ -276,7 +275,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Watch the Mini-Documentary
+Get Album
 
 A Tribe Called Quest's Hits
 
