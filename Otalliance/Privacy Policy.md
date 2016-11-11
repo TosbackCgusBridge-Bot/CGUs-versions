@@ -45,6 +45,7 @@ Skip to main content Online Trust Alliance
     *   OTA Members (Restricted)
     *   Donate
 *   About Us
+    *   Vision for Trust
     *   Members
     *   Board of Directors
     *   Non-Governmental Organizations
@@ -170,6 +171,7 @@ Membership
 
 About Us
 
+*   Vision for Trust
 *   Members
     *   Members
 *   Board of Directors
