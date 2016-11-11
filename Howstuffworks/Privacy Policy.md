@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**What Happens to the Polarized U.S. Political System Now?**
+**Artificial Intelligence Is Getting So Smart, We Need It to Show Its Work**
 
-**Does a New Two-headed Shark Discovery Mean It's Time to Seriously Freak Out?**
+**Students Are Inspired by Science, Thanks to Class Zebra Fish**
 
-**There's a Stinky Reason Seabirds Eat Plastic**
+**Ancient Obliteration of Dwarf Planets May Have Created Saturn's Rings**
 
 **See More Headlines »**
 
