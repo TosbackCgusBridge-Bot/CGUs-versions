@@ -45,6 +45,6 @@ Download Ubuntu
 Further reading
 
 *   Canonical launches fully managed Kubernetes and joins the CNCF ›
-*   How to Use Snaps when Collecting IoT Data with Predix Time Series ›
+*   How to use snaps when collecting IoT data with Predix Time Series ›
 *   Cloud Chatter: October 2016 ›
 *   10 IoT-focused desktop snaps written in October ›
