@@ -76,9 +76,7 @@
         
           
           
-        Give a Buckle Gift card Play with 2K Sweepstakes  
-          
-        ENTER NOW!
+        Give a Buckle Gift card MILITARY GUESTS, GET FREE STANDARD SHIPPING ON ORDERS OVER $150. SEE DETAILS
 *   Men
     *   *   Featured
         
@@ -130,9 +128,7 @@
         
           
           
-        Give a Buckle Gift card Play with 2K Sweepstakes  
-          
-        ENTER NOW!
+        Give a Buckle Gift card MILITARY GUESTS, GET FREE STANDARD SHIPPING ON ORDERS OVER $150. SEE DETAILS
 *   Kids
     *   *   Featured
         
@@ -159,9 +155,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Play with 2K Sweepstakes  
-          
-        ENTER NOW!
+        Give a Buckle Gift card MILITARY GUESTS, GET FREE STANDARD SHIPPING ON ORDERS OVER $150. SEE DETAILS
 *   Jeans
     *   *   Women's Jeans
         
@@ -183,11 +177,7 @@
         *   Kid's Jeans
         
         *   Girl's Jeans
-        *   Boy's Jeans
-        
-        Give a Buckle Gift card Play with 2K Sweepstakes  
-          
-        ENTER NOW!
+        *   Boy's JeansGive a Buckle Gift card MILITARY GUESTS, GET FREE STANDARD SHIPPING ON ORDERS OVER $150. SEE DETAILS
 *   New
     *   *   Women's New
         
@@ -216,11 +206,7 @@
         *   Shop All
         *   Boy's New Tops
         *   Boy's New Jeans
-        *   Shop All
-        
-        Give a Buckle Gift card Play with 2K Sweepstakes  
-          
-        ENTER NOW!
+        *   Shop AllGive a Buckle Gift card MILITARY GUESTS, GET FREE STANDARD SHIPPING ON ORDERS OVER $150. SEE DETAILS
 *   Sale
     *   *   Women's Sale
         
@@ -251,7 +237,7 @@
         *   Boy's Sale Jeans
         *   Shop All
         
-        *   Outlet - **NEW!**
+        *   Outlet
         
         *   All Women’s Outlet
         *   All Men’s Outlet
@@ -261,9 +247,7 @@
         
           
           
-        Give a Buckle Gift card Play with 2K Sweepstakes  
-          
-        ENTER NOW!
+        Give a Buckle Gift card MILITARY GUESTS, GET FREE STANDARD SHIPPING ON ORDERS OVER $150. SEE DETAILS
 
 A Global Message! × Privacy &. Security
 
