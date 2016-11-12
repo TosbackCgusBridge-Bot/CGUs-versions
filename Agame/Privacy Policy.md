@@ -112,8 +112,8 @@ View more results
     *   Slotomania
     *   Farmerama
     *   World of Tanks
-    *   Hero Simulator: Idle Adventure
     *   Troll Face Quest Video Games
+    *   SuperSnake.io
     
     Mobile Apps More
     
