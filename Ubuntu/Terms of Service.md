@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Webinar: Secure, scale and simplify your OpenStack deployments ›
 *   Canonical launches fully managed Kubernetes and joins the CNCF ›
 *   How to use snaps when collecting IoT data with Predix Time Series ›
 *   Cloud Chatter: October 2016 ›
-*   10 IoT-focused desktop snaps written in October ›
