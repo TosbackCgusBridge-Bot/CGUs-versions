@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15542284556
+true true L15563844819
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Thu Nov 10 11:16:16 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Fri Nov 11 11:15:31 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -54,69 +54,15 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Black Friday Deals Now! Up to 40% Off\* Major Appliances
+It's Veterans Day!
 
-Online &. In Select Stores. Select styles.
+Online Only! | Ends November 11 | Code: HURRY9
 
-Shop Major Appliances:
+Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100 Plus Free Shipping Over $49
 
-\*GE, GE Profile &. GE Cafe limited to 10% off savings.
+\*exclusions apply
 
-Need help? Call 1-844-JCP-APPL (1-844-527-2775)
-
-Delivery not available in all markets.
-
-Get Details: 18 Months or 36 Months Special Financing\*\*
-
-Available on qualifying major appliance purchases made through 11/30/16 on a JCPenney Credit Card. Must request at time of purchase.
-
-\*\*Get Details:
-
-Don't have a JCPenney Credit Card?
-
-Apply Now: Free Delivery &. Basic Installation
-
-On all appliance purchases over $299
-
-Get Details: JCPenney Rewards Shop &. Get Rewards
-
-For points earned on major appliances+
-
-+Get Details: Veteran's Day Home Sale 30 to 50% Off
-
-Select styles
-
-Shop all Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining 40 to 60% Off Furniture &. Mattresses
-
-Select styles
-
-Shop Furniture &. Mattresses   Layer Up! 40 to 50% Off Outerwear for the Family
-
-Select styles
-
-Shop Men Shop Boys Shop Girls Buy 1 Get 1 50% Off Women's Outerwear
-
-Select styles. \*Buy one item at regular price, get a second item of equal or lesser value for 50% off, while supplies last.
-
-Shop Women's Outerwear         40 to 60% Off Boots For The Family
-
-Select styles, reg. $40-$120
-
-Shop Men Shop Women Shop Kids       Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys Black Friday Deals Sneak Peek Preview the deals &. make your list!
-
-Starts Online Wednesday, November 23
-
-View Store Ad Sephora New Beauty Arrivals: JCPenney | portraits
-
-.49 and .59 Photo Greeting Cards
-
-Free 8x10
-
-Get Coupon: SportsFanShop
-
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
-
-Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Nov 10 22:06:25 CST 2016 JVM :->. dtexppr1c2j4\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Nov 10 22:13:19 CST 2016 JVM :->. dtexppr1c2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Get Details: 23 Black Friday Deals Now! 2 Days Only | In Store &. Online Shop the Ad: Shop the Deals: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Nov 11 22:10:31 CST 2016 JVM :->. dtexppr1c1j5\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Nov 11 22:10:31 CST 2016 JVM :->. dtexppr1c1j6\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
