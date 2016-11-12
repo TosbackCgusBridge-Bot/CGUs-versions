@@ -289,7 +289,6 @@ Menu
         *   The Resilient Children/Resilient Communities Initiative
         *   Why community resilience?
         *   Cross-sector partnership
-    *   Healthy communities
     *   Policies, codes and standards
         *   Policies, codes and standards
         *   US policies
@@ -310,10 +309,6 @@ Menu
     *   US community partnerships
         
         Where we live matters to our health. That's why we want to build healthy communities.
-        
-    *   Healthy communities
-        
-        We support innovative programs that bring sustainable change in communities in the US.
         
     *   Policies, codes and standards
         
