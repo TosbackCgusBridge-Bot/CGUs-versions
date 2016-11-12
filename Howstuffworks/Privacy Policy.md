@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Artificial Intelligence Is Getting So Smart, We Need It to Show Its Work**
+**NASA Captures Mesmerizing Footage of Clouds Drifting Above a Distant World**
 
-**Students Are Inspired by Science, Thanks to Class Zebra Fish**
+**Brazilian Free-tailed Bats Are Way Faster Than We Thought**
 
-**Ancient Obliteration of Dwarf Planets May Have Created Saturn's Rings**
+**What the Heck Happened to Rollerblading?**
 
 **See More Headlines »**
 
