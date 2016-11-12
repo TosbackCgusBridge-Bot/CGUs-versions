@@ -27,6 +27,7 @@ LENOVO Menu
     *   K-12 Education
     *   Higher Education
     *   Business Partners
+    *   OEM Solutions
 *   Support
     *   Technical support
     *   Sales order help
@@ -328,7 +329,6 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Blogs
     *   Affinity Discount Program
     *   Forums
-    *   Help Me Find a PC
     *   Reset my Homepage
     *   Community
 *   Customer Support
