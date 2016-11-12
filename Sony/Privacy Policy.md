@@ -91,9 +91,9 @@ SONY
 *   Search
 *   Sony Sites
 
-Your browser does not support JavaScript! Enrich Your Gaming Experience With the New PS4™Pro
+Your browser does not support JavaScript! In Memory of Singer/Songwriter Leonard Cohen
 
-Get the Console This Week
+Stream Playlist
 
 Close
 
@@ -103,7 +103,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Get the Console This Week
+Stream Playlist
 
 Sony on Instagram
 
@@ -129,9 +129,9 @@ Close
 
 With ULTRA
 
-The World Is a Big Place, Capture It in 4K
+Enrich Your Gaming Experience With the New PS4™Pro
 
-Start Exploring With Action Cam
+Get the Console This Week
 
 Close
 
@@ -141,7 +141,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Start Exploring With Action Cam
+Get the Console This Week
 
 Still Not Sure What 4K Means?
 
