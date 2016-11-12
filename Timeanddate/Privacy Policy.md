@@ -145,7 +145,11 @@ webmaster@timeanddate.com timeanddate.com
 
 Index
 
-You might also like 5 Fridays, Saturdays &. Sundays: Not 823 Years Apart
+You might also like Supermoon November 14, 2016
+
+On November 14, 2016, the Full Moon is at its closest to Earth since 1948, making it a record Supermoon. more
+
+5 Fridays, Saturdays &. Sundays: Not 823 Years Apart
 
 5 Fridays, 5 Saturdays, and 5 Sundays in the same month happens only every 823 years? This popular urban myth is precisely that: a myth. more
 
@@ -156,10 +160,6 @@ List of cosmic events in 2016 and 2017 including supermoons, solar and lunar ecl
 12 Months of the Year
 
 Find out what months have to do with the Moon, why there are 12 months, and what the month names mean. more
-
-Magnetic Declination
-
-A compass needle doesn't point to the geographical North Pole but to magnetic north. Did you know that it usually doesn't point to the magnetic North Pole either? more
 
 Copyright © Time and Date AS 1995–2016. All rights reserved.
 
