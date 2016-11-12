@@ -222,10 +222,10 @@ menu 0
     *   Boys
     
     FEATURED SHOPS
-    *   Boots &. Booties
-    *   Fall Flats
-    *   Accessories &. Bags
     *   Snow Boots
+    *   Boots &. Booties
+    *   Sock Shop
+    *   Accessories &. Bags
     *   Sale
 *   Sale
     
@@ -574,10 +574,10 @@ menu 0
     *   Boys
     
     FEATURED SHOPS Back | Shoes
-    *   Boots &. Booties
-    *   Fall Flats
-    *   Accessories &. Bags
     *   Snow Boots
+    *   Boots &. Booties
+    *   Sock Shop
+    *   Accessories &. Bags
     *   Sale
 *   Sale
     
