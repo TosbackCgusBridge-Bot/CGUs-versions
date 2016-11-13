@@ -130,6 +130,7 @@ Investing Solutions
 
 Your Financial Goals
 
+*   Strategy and Research
 *   Planning for Retirement
 *   Income in Retirement
 *   Investing Basics
@@ -160,6 +161,7 @@ Wealth Solutions
 
 Wealth Advice &. Guidance
 
+*   Strategy and Research
 *   Wealth Management Insights
 *   _Conversations_ Magazine
 
@@ -269,7 +271,6 @@ If we make updates to this Policy, we will update the Policy with the changes an
 *   Sitemap
 *   Home
 *   Diversity &. Accessibility
-*   Blogs &. Social Media
 *   Ad Choices
 
 © 1999 - 2016 Wells Fargo. All rights reserved. NMLSR ID 399801
