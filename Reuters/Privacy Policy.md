@@ -10,7 +10,7 @@ This JavaScript enables OnlineOpinion, a method for collecting secure feedback d
     *   UK &. Ireland    English
     *   thomsonreuters.com
     *   View all sites
-*   Login
+*   site login
 *   Contact Us
 *   **Cart 0**
 
