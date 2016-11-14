@@ -4,7 +4,7 @@ English (US) Español Français Português do Brasil Submit a request Sign in
 2.  General Info
 3.  Terms and Policies
 
-Privacy policy **Jason** November 10, 2016 23:22 Follow
+Privacy policy **Jason** November 14, 2016 04:22 Follow
 
 April 18, 2013
 
@@ -36,7 +36,7 @@ This Privacy Notice is incorporated into and is subject to the Scribd Platform T
 
 *   Scribd uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Scribd Platform as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act.
 *   Scribd may also use the information that you provide or that we collect to serve you with advertisements.
-*   We will use your email address, without further consent, for administrative communications such as notifying you of major Scribd Platform updates, for customer service purposes, to address copyright infringement or defamation issues, or to contact you regarding any content that you have posted to or downloaded from the Scribd Platform.
+*   We will use your email address, without further consent, for administrative communications such as notifying you of major updates, for customer service purposes, to address copyright infringement or policy issues, or to contact you regarding any content that you have posted to, read on, or downloaded from Scribd. You also consent to receive other communications from Scribd, such as newsletters about new releases, special offers, promotional announcements, and customer surveys via email or other methods. If you no longer wish to receive certain non-transactional communications, you may opt-out via the “Account Settings >. Preferences” panel after you have logged into the Scribd website.
 *   Scribd uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way the Scribd Platform works and looks, and to create new features and functionality.
 *   Scribd may use “Automatically Collected” information and “Cookies” information to: (a) automatically update the Scribd application on your system. (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the Scribd Platform. (c) monitor aggregate site usage metrics such as total number of visitors and pages accessed. (d) provide such metrics to Users as they pertain to such User’s uploaded content. and (e) track your entries, submissions, and status in any promotions or other activities.
 
@@ -106,7 +106,7 @@ FOR REVISIONS TO THIS PRIVACY NOTICE THAT MAY BE MATERIALLY LESS RESTRICTIVE ON 
 
 PLEASE CONTACT SCRIBD WITH ANY QUESTIONS OR COMMENTS ABOUT THIS PRIVACY NOTICE, YOUR PERSONAL INFORMATION, AND OUR THIRD-PARTY DISCLOSURE PRACTICES OR YOUR CONSENT CHOICES AT: SCRIBD.COM, 333 BUSH STREET, SUITE 2400, SAN FRANCISCO, CA 94104, OR BY EMAIL: PRIVACY@SCRIBD.COM. WE WILL RESPOND TO YOUR INQUIRY WITHIN 30 DAYS OF ITS RECEIPT.
 
-Was this article helpful? 1217 out of 1220 found this helpful
+Was this article helpful? 1218 out of 1221 found this helpful
 
 *   Facebook
 *   Twitter
