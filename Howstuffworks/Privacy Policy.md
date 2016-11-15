@@ -244,13 +244,13 @@ Last Updated On: 08/10/2016
 
 Print | Citation &. Date
 
-Today's Headlines
+More to Explore Today's Headlines
 
-**NASA Captures Mesmerizing Footage of Clouds Drifting Above a Distant World**
+**Why Your Dog's Paws Smell Gloriously Like Corn Chips**
 
-**Brazilian Free-tailed Bats Are Way Faster Than We Thought**
+**Calexit? After the Election, Some Californians Dream of Secession**
 
-**What the Heck Happened to Rollerblading?**
+**Ridiculous History: Ancient India Beat Machiavelli to the Punch by 1,800 Years**
 
 **See More Headlines »**
 
@@ -294,25 +294,7 @@ Get the best of HowStuffWorks by email. Keep up to date on:
 *   Tours
 *   Weird &. Wacky
 
-Sign-up Now! Testing this long verbose error message to check the behaviour More From The Stuff Network
-
-BrainStuff
-
-CarStuff
-
-Stuff Mom Never Told You
-
-Stuff of Genius
-
-Stuff They Don't Want You to Know
-
-FW:Thinking
-
-Stuff to Blow Your Mind
-
-Stuff You Should Know
-
-Stuff You Missed in History Class
+Sign-up Now! Testing this long verbose error message to check the behaviour More From The Stuff Network BrainStuff CarStuff Stuff Mom Never Told You Stuff of Genius Stuff They Don't Want You to Know FW:Thinking Stuff to Blow Your Mind Stuff You Should Know Stuff You Missed in History Class
 
 Copyright © 2016 HowStuffWorks,  
 a division of InfoSpace Holdings LLC
