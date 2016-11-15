@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15570870894
+true true L15572343286
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Sun Nov 13 10:54:10 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Mon Nov 14 11:15:30 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -58,51 +58,23 @@ Lowest Price. Guaranteed! Find a lower price at our competitor? Tell us and we�
 
 \*Some restrictions apply. Excludes major appliances.
 
-Get Details: Black Friday Deals Now! Up to 40% Off\* Major Appliances
+Get Details: 9.99-23.99 Pajamas For the Family
 
-Online &. In Select Stores. Select styles.
+Select styles, reg. $20-$54
 
-Shop Major Appliances:
+Shop Men Shop Women Shop Boys Shop Girls         40 to 50% Off Xersion For the Family
 
-\*GE, GE Profile &. GE Cafe limited to 10% off savings.
+Select styles, reg. $26-$40
 
-Need help? Call 1-844-JCP-APPL (1-844-527-2775)
-
-Delivery not available in all markets.
-
-Get Details:18 Months or 36 Months Special Financing\*\*
-
-Available on qualifying major appliance purchases made through 11/30/16 on a JCPenney Credit Card. Must request at time of purchase.
-
-\*\*Get Details:
-
-Don't have a JCPenney Credit Card?
-
-Apply Now:Free Delivery &. Basic Installation
-
-On all appliance purchases over $299
-
-Get Details:JCPenney Rewards Shop &. Get Rewards
-
-For points earned on major appliances+
-
-+Get Details: Home Sale 30 to 50% Off
-
-Select styles, small appliances excluded from coupon.
-
-Shop all Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses &. Layer Up! 40 to 50% Off Outerwear for the Family
-
-Select styles
-
-Shop Men Shop Women Shop Boys Shop Girls         40 to 50% Off Boots For The Family
-
-Select styles, reg. $55-$120
-
-Shop Men Shop Women Shop Kids       Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys Black Friday Deals Sneak Peek Preview the deals &. make your list!
+Shop Men Shop Women Shop Boys Shop Girls         Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys Sephora Gifts for one. Gifts for all. Shop Palettes and Value Sets: Black Friday Deals Sneak Peek Preview the deals &. make your list!
 
 Starts Online Wednesday, November 23
 
-View Store Ad Sephora Shop Value Sets: JCPenney | portraits
+View Store Ad Introducing iMemories
+
+brought to your by JCPenney | portraits
+
+Digitize your home movies &. photos Get Details: JCPenney | portraits
 
 .49 and .59 Photo Greeting Cards
 
@@ -112,7 +84,7 @@ Get Coupon: SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p05.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Nov 13 22:51:36 CST 2016 JVM :->. dtexppr1l3j4\_05 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Nov 13 12:22:29 CST 2016 JVM :->. dtexppr1l1j3\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Nov 14 22:09:33 CST 2016 JVM :->. dtexppr1l2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Nov 14 22:09:29 CST 2016 JVM :->. dtexppr1l2j4\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
