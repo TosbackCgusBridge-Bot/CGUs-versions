@@ -247,7 +247,9 @@ The Nature Conservancy is a nonprofit, tax-exempt charitable organization (tax i
 
 \*By providing my mobile phone number, I agree that The Nature Conservancy may contact me by mobile phone call and text message regarding the Conservancy's programs, events and membership. Terms of Use | Privacy Policy
 
-SUBSCRIBE Please provide a valid email address x **Sign up** for Nature eNews! Sign Up for Nature e-News
+Help Us Protect Nature Today
+
+x **Sign up** for Nature eNews! Sign Up for Nature e-News
 
 Learn about the places you love. Find out  
 how you can help.
