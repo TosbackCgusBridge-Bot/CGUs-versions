@@ -99,9 +99,11 @@ Login Let's Connect What We Do Watch Video
 
 NEW GUIDE
 
-Making True 1:1 Marketing Happen, at Scale
+Don't Stalk. Just Sell.
 
-Download Now INTELLIGENCE
+A story about how to get digital marketing right.
+
+DOWNLOAD NOW INTELLIGENCE
 
 The 5 Keys to Connecting with Real People
 
