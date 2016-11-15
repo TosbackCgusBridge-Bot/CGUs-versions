@@ -34,9 +34,9 @@ Contact us
 Softonic International S.A. owns, amongst others, the corresponding country domains of numerous countries across Europe, Asia and other parts of the world.
 
 Softonic International, S.A.  
-Edificio Meridian  
-Carrer Rosselló i Porcel, 21, 12th floor.  
-08016 Barcelona,  
+Edificio MediaTIC  
+Calle Roc Boronat, 117, 6th floor.  
+08018 Barcelona,  
 Spain
 
 Tel: +34 – 936 012 700  
