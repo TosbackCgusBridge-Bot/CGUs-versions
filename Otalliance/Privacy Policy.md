@@ -115,6 +115,10 @@ More >>.
 *   OTA Blog
 *   Newsletters
 
+Tue, Nov 15, 2016 IoT Threats - What we can do today and tomorrow
+
+Statement for the record for the US House of Representatives - " Understanding the Role of Connected Devices in Recent Cyber Attacks"
+
 Wed, Nov 9, 2016 Why the Insurance Industry Will Never Be the Same After the Mirai DDoS Attack
 
 **Guest Blog from Pascal Millaire, Symantec**
@@ -128,10 +132,6 @@ As a participant of NTIA’s multi-stakeholder vulnerability working group and a
 Mon, Nov 7, 2016 Don’t Be a Tool – Verifying Subscriptions and Honoring Unsubscribes
 
 This summer the email marketing industry suffered a setback due to “list bomb” attacks in which thousands of targeted users were unknowingly subscribed to tens of thousands of mailings. In these attacks, ESP infrastructure and highly-reputed brands were used as a means to effectively create a “denial of service” against user inboxes, and email originating from many ESPs and brands was blocked by Spamhaus until the situation was better understood. Could this have been prevented?
-
-Fri, Oct 28, 2016 FCC Rule Making - Not Perfect But a MAJOR step forward
-
-Yesterday the FCC voted to approve privacy and security rules for broadband internet service providers.
 
 More >>. Resources
 
