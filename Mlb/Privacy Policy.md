@@ -142,6 +142,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Jerseys
     *   PhotosWorld Series Champs MLB Auctions
 *   MLB.TV MLB.TV MLB.TV
+    *   Get MLB.TV
     *   Watch MLB.TV
     *   Alternative Audio
     *   MLB.TV Devices
