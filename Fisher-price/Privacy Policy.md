@@ -8,12 +8,11 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   SHOP BY AGE
     
     *   What’s New
-    *   Holiday Gift Guide
     *   As Seen On TV
     *   Fan Faves
     *   Exclusives
-    
     *   Award Winners
+    
     *   Clearance
     
     See all
