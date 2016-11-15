@@ -9,7 +9,7 @@ move move
 
 Privacy Policy
 
-This Privacy Policy was last updated March 9, 2015.  
+This Privacy Policy was last updated November 10, 2016.  
 
 Introduction
 
