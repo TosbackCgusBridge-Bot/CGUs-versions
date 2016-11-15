@@ -19,6 +19,7 @@ LENOVO Menu
     *   Tablet Deals
     *   Clearance Sale
     *   Deals for Students &. Educators
+    *   Outlet
 *   Solutions
     *   Small &. Medium Business
     *   Large Enterprise
