@@ -10,6 +10,7 @@
     *   New!
     *   Best Sellers
     *   Gluten Free
+    *   Holiday Gift Guide
     
     Holidays &. Occasions*   Thanksgiving
     *   Christmas Gifts
@@ -85,6 +86,7 @@
     *   New!
     *   Best Sellers
     *   Gluten Free
+    *   Holiday Gift Guide
     
     Holidays &. Occasions*   Thanksgiving
     *   Christmas Gifts
