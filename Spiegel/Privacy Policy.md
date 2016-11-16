@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 10.693,69ǀ
+*   DAX 10.735,14ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -672,7 +672,7 @@ SPIEGEL GRUPPE
 *   \-Der Audio Verlag
 
 *   DER SPIEGEL
-*   Dein SPIEGEL Extra
+*   Dein SPIEGEL
 *   SPIEGEL GESCHICHTE
 *   SPIEGEL WISSEN
 *   SPIEGEL BIOGRAFIE
