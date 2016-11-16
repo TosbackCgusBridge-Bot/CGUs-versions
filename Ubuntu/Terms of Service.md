@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Charm Partner Newsletter: November 2016 ›
+*   Making your snaps available to the store using snapcraft ›
 *   Webinar: Secure, scale and simplify your OpenStack deployments ›
 *   Canonical launches fully managed Kubernetes and joins the CNCF ›
-*   How to use snaps when collecting IoT data with Predix Time Series ›
-*   Cloud Chatter: October 2016 ›
