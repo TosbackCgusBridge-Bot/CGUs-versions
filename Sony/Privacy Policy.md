@@ -5,7 +5,19 @@ Skip to Content CloseSony Sites Sony’s Stories SONY DESIGN Playstation® Sony 
 *   Sony PicturesThe hub for your favourite movies and TV shows.
 *   Sony MusicClassic artists to today’s stars, local and global.
 
-SONY search Electronics Televisions &. Home Theater ›Televisions &. Home Theater
+SONY SONY
+
+*   Sony Sites
+*   Electronics
+*   PlayStation
+*   Entertainment
+*   Support
+
+*   Favorites
+*   Search
+*   Sony Sites
+
+search Electronics Televisions &. Home Theater ›Televisions &. Home Theater
 
 *   All Television &. Home cinema products ›
 *   Televisions
@@ -79,85 +91,7 @@ Phone and Tablet AppsThe best of what Sony has to offer on iOS or Android. Downl
 
 *   Support
 
-SONY
-
-*   Sony Sites
-*   Electronics
-*   PlayStation
-*   Entertainment
-*   Support
-
-*   Favorites
-*   Search
-*   Sony Sites
-
-Your browser does not support JavaScript! In Memory of Singer/Songwriter Leonard Cohen
-
-Stream Playlist
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Stream Playlist
-
-Sony on Instagram
-
-Sony on Twitter
-
-How Rez shines brighter than ever on PS4 Pro. @Mizuguchitter details Rez Infinite's improvements on TV and in VR.
-
-2016-11-08 07:14:13+00:00
-
-View Tweet
-
-Stream Our Movies in 4K
-
-With ULTRA
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-With ULTRA
-
-Enrich Your Gaming Experience With the New PS4™Pro
-
-Get the Console This Week
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Get the Console This Week
-
-Still Not Sure What 4K Means?
-
-Learn More
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Learn More
-
-Director Ang Lee Brings a Modern-Day War Story to the Screen
+Your browser does not support JavaScript! Director Ang Lee Brings a Modern-Day War Story to the Screen
 
 Find Tickets for "Billy Lynn's Long Halftime Walk"
 
@@ -175,23 +109,9 @@ Sony on YouTube
 
 Play Video
 
-Don’t Miss Your Chance to Attend PlayStation®Experience 2016
+Hi-Res Audio, Anywhere and Everywhere
 
-Start Bidding on Passes Now
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Start Bidding on Passes Now
-
-How One Girl Changed Tradition
-
-See "The Eagle Huntress"
+See the H.ear Go Wireless Speaker
 
 Close
 
@@ -201,21 +121,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-Sony on Instagram
-
-Sony on Twitter
-
-Capture the city by night, courtesy of the Xperia XZ with Laser Autofocus.
-
-2016-11-07 15:00:00+00:00
-
-View Tweet
+See the H.ear Go Wireless Speaker
 
 Get the Shot You Want
 
@@ -231,9 +137,19 @@ Close
 
 Every Time
 
-The Shocking Fall Finale of "The Blacklist" Is Thursday
+Sony on Twitter
 
-Learn More
+The α6500 puts the power to shoot professional looking stills and movies solidly in your hands.
+
+2016-11-15 01:00:02+00:00
+
+View Tweet
+
+Sony on Instagram
+
+A Smartphone That Adapts to You
+
+Check Out the Xperia X Compact
 
 Close
 
@@ -243,7 +159,25 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Learn More
+Check Out the Xperia X Compact
+
+The Exciting World of Art Auction Houses Returns to Crackle
+
+Learn More About the Show
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
 
 Do You Have What It Takes to Solve the Puzzle and Catch the Bad Guy?
 
@@ -263,23 +197,9 @@ Sony on YouTube
 
 Play Video
 
-Worth the 18 Years Wait for New Music From A Tribe Called Quest
+Watch\_Dogs 2 Is on the Latest Episode of PlayStation Underground
 
-Get Album
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Get Album
-
-A Tribe Called Quest's Hits
-
-Stream Now
+Play Game on PS4™
 
 Close
 
@@ -289,33 +209,13 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Stream Now
+Play Video
 
-Sony on Instagram
+Sony on YouTube
 
-Sony on Twitter
+Play Video
 
-Calling all #Elvis fans: This incredible experience includes a stay at The Guest House at #Graceland &. more.
-
-2016-11-08 06:33:36+00:00
-
-View Tweet
-
-A Smartphone That Adapts to You
-
-Check Out the Xperia X Compact
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Check Out the Xperia X Compact
-
-Have Some Fun: Watch "Sausage Party"
+Still Not Sure What 4K Means?
 
 Learn More
 
@@ -327,15 +227,49 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Play Video
+Learn More
 
-Sony on YouTube
+Stream Our Movies in 4K
 
-Play Video
+With ULTRA
 
-Call of Duty Goes to Space In the Newest Installment
+Close
 
-Play It on PS4™
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+With ULTRA
+
+Sony on Instagram
+
+Sony on Twitter
+
+Introducing Fantasy Strike, a fighting game for everyone. Approachable controls for tournament-grade competition.
+
+2016-11-15 05:04:05+00:00
+
+View Tweet
+
+Enrich Your Gaming Experience With the New PS4™Pro
+
+Get the Console This Week
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Get the Console This Week
+
+Be Inspired by a Girl's Journey to Change Tradition
+
+See "The Eagle Huntress"
 
 Close
 
@@ -350,6 +284,74 @@ Play Video
 Sony on YouTube
 
 Play Video
+
+Get Ready for New Music From Miranda Lambert
+
+Stream Songs Now
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Stream Songs Now
+
+Sony on Instagram
+
+The Future of Communication
+
+Discover Xperia Ear
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Discover Xperia Ear
+
+Sony on Twitter
+
+.@errollgarner's 'Ready Take One' will be released on vinyl on 11/25. Add it to your collection.
+
+2016-11-14 12:10:12+00:00
+
+View Tweet
+
+Wheel of Fortune Fun on Facebook
+
+Play Game
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Sony on Facebook
+
+Play Game
+
+Don’t Miss Your Chance to Attend PlayStation®Experience 2016
+
+Start Bidding on Passes Now
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Start Bidding on Passes Now
 
 Load More
 
