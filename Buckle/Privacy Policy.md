@@ -140,7 +140,7 @@
         *   Girl's Clothing
         
         *   Tops
-        *   Coats/Jackets
+        *   Vests
         *   Jeans
         *   Sweatshirts
         *   Shop All
@@ -150,7 +150,7 @@
         *   Shirts
         *   Jeans
         *   Outerwear
-        *   Socks
+        *   Accessories
         *   Shoes
         *   Shop All
         
