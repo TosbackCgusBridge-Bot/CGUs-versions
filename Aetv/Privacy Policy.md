@@ -1,5 +1,5 @@
 A+E Networks Privacy Policy  
-Effective Date: 10/18/16
+Effective Date: 11/15/16
 
 *   This policy covers information generated when you engage with A+E Networks.
 *   All of A+E Networks’ content is produced with strong privacy controls.
@@ -104,6 +104,8 @@ You may choose to opt-out of certain communications or uses of information colle
   
 For more information or to opt-out of certain online behavioral advertising, please visit http://www.aenetworks.com/adchoices.  
   
+Facebook is an advertising partner and may collect and use data to display advertisements on all A+E Networks' digital websites and apps. For more information and to control the ads you see, visit https://m.facebook.com/ads/audience\_network.  
+  
 **DO NOT TRACK SIGNALS**  
   
 At this time, A+E does not respond to browser ‘Do Not Track’ signals, which is a standard still under development. To learn more please go to www.allaboutdnt.com  
@@ -169,4 +171,4 @@ Email: DMC@aenetworks.com  (subject line: "Privacy Policy Contact") U.S. Postal
 Contact: \[Site Name\]  
 235 E. 45th Street  
 New York, NY 10017  
-Attention: Digital Media Counsel, Legal &. Business Affairs Telephone: 212-210-1400 Facsimile: 212-210-1308, Attention: Digital Media Counsel, Legal &. Business Affairs ©2015 A&E Televisions Networks, LLC. All Rights Reserved.
+Attention: Digital Media Counsel, Legal &. Business Affairs Telephone: 212-210-1400 Facsimile: 212-210-1308, Attention: Digital Media Counsel, Legal &. Business Affairs ©2016 A&E Televisions Networks, LLC. All Rights Reserved.
