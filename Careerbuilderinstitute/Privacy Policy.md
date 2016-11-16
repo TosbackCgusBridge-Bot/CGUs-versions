@@ -56,6 +56,7 @@ Job Seekers
 *   International Jobs
 *   Blog
 *   Career Insights
+*   Talent Networks
 *   Sitemap
 *   Accessibility
 
@@ -67,10 +68,11 @@ Help Center
 
 Employers
 
-*   Search Resumes
+*   Browse Products
 *   Post Jobs
-*   Talent Networks
-*   Advertising
+*   HR Software
+*   Source Candidates
+*   Advertise with Us
 
 CareerBuilder
 
@@ -102,4 +104,4 @@ Legal
 
 Search on the Go
 
-© 2016 Careerbuilder, LLC. All rights reserved.
+© 2016 CareerBuilder, LLC. All rights reserved.
