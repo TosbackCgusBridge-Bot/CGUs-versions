@@ -14,6 +14,7 @@
     
     Holidays &. Occasions*   Thanksgiving
     *   Christmas Gifts
+    *   Holiday Gift Guide
     *   Gifts for Her
     *   Gifts for Him
     *   Birthday Gifts
@@ -90,6 +91,7 @@
     
     Holidays &. Occasions*   Thanksgiving
     *   Christmas Gifts
+    *   Holiday Gift Guide
     *   Gifts for Her
     *   Gifts for Him
     *   Birthday Gifts
@@ -196,9 +198,9 @@ My Account
 
 Guarantees
 
-*   100% Satisfaction
-*   Substitution Policy
 *   Security
+*   Substitution Policy
+*   100% Satisfaction
 
 Privacy
 
