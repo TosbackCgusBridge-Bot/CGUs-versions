@@ -347,127 +347,145 @@ Users with questions about this Terms of Service and any of the above statements
 
 PRIVACY POLICY
 
-Updated as of June 10, 2016
+Updated as of November 16, 2016
 
-How Our Site Works
+How Our Service Works
 
-1 This Site is a social discovery website that lets you (the “Member”) meet and interact with new people and stay in touch with friends. When you visit and interact with the Site you may provide information about yourself or your opinions, and it is wise to be aware of the personal information that you are sharing. 2 We understand this and we have established this Privacy Policy to explain how we collect information from you and how this information is used. We have created side summaries to help you easily locate specific terms within this policy. 3 These summaries are for reference only and in the event that there is a discrepancy between this Privacy Policy and the language of the side summaries, the Privacy Policy will prevail.
+1 Ifwe, Inc. (“we” “us” “our” or “Company”) is dedicated to respecting the privacy of its visitors, customers, and users (“Users”) of Fandom, as well as other Ifwe brands, products and services (the “Ifwe Services” or “Services”). When you visit and interact with the Services you may provide information about yourself or your opinions, and it is wise and prudent to be aware of the personal information that you are sharing. 2 We understand this and we have established this Privacy Policy (“Policy) to explain how we collect information from you and how this information is used. We have created side summaries to help you easily locate specific terms within this policy. 3 These summaries are for reference only and in the event that there is a discrepancy between this Privacy Policy and the language of the side summaries, the Privacy Policy will prevail.
 
-Who is Eligible to Use the Site
+Who is Eligible to Use the Services
 
-To use the Site, you must be 18 years of age or older. Anyone under age 18 is prohibited from registering for and using the Site. 4 By registering on the Site, you represent and warrant that you are not required to register as a sex offender with any government entity. No Member may participate where doing so would be prohibited by any applicable law or regulation.
+To use the Services, you must be 18 years of age or older. If you are under age 18, you may only use the Services with the involvement of a parent or legal guardian. By registering on the Services, you represent and warrant that you are not required to register as a sex offender with any local, state or federal government entity. No User may participate where doing so would be prohibited by any applicable law or regulation.
 
 Children and Safety
 
-5 The Site is a general audience web site for Members who are 18 years of age or older. The safety and privacy of children is extremely important to the Company and we use the safeguards described below to protect children.
+4 The Services are a general audience website for Users who are 18 years of age or older. The safety and privacy of children is extremely important to the Company and we use the safeguards described below to protect children.
 
-Our registration process is designed to restrict children under age 18 from becoming Members of the Site, through use of an age gate mechanism on the registration page. 6 If we receive information suggesting that a Member of one of our Sites is under age 18, we require the Member to provide evidence, the nature of which to be determined by the Company, confirming that the Member is at least 18 years old, and we reserve the right to suspend the Member’s account while we review the evidence and verify the Member’s age. If the Member fails to provide such evidence within 48 hours, we may terminate the Member's account and delete all personal information displaying on the site.
+5 Our registration process is designed to restrict children under age 18 from becoming Users of the Services without the involvement of a parent or legal guardian, through use of an age gate mechanism on the registration page.  If we receive information suggesting that a User of one of our Sites is under age 18, we require the User to provide evidence, the nature of which to be determined by the Company, confirming that the User is at least 18 years old, and we reserve the right to suspend the User’s account while we review the evidence and verify the User’s age. If the User fails to provide such evidence within 48 hours, we may terminate the User's account and delete all personal information displaying on the Services.
 
-7 We prohibit Members who are under 18 years of age. For more information about protecting your privacy, please visit the Federal Trade Commission’s web site. In addition to the previously mentioned safeguards for the detection and removal of Members under the age of 18, 8 we have a process for parents to contact the Company directly so that we can take the proper steps required to be in compliance with the Children’s Online Privacy Protection Act (COPPA).
+For more information about protecting your privacy, please visit the Federal Trade Commission’s web site. In addition to the previously mentioned safeguards for the detection and removal of Members under the age of 18, we have a process for parents to contact the Company directly so that we can take the proper steps required to be in compliance with the Children’s Online Privacy Protection Act (COPPA). 6
 
-Parents: If your child is under the age of 13 and has joined the Site using a false age, please notify us at parentcare@tagged.com, and we will terminate your child's account and delete all personal information displaying on the site. If you would like to know more about our site, stored information about your child, or how to terminate your child's account, please send your request by mail to Customer Experience Ifwe Inc., 101A Clay St, Box #117, San Francisco, CA 94111 or submit your request online at https://support.tagged.com/hc/en-us/requests/new. We will happily respond to all communications from parents with privacy questions or concerns.
+We do not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register for the Service. 7 The Services and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us Customer Experience Ifwe Inc., 101A Clay St, Box #117, San Francisco, CA 94111 or submit your request online at https://support.tagged.com/hc/en-us/requests/new.
+
+Parents: If your child is under the age of 13 and has joined the Services using a false age, please notify us at parentcare@tagged.com, and we will terminate your child's account and delete all personal information displaying on the Services. If you would like to know more about our site, stored information about your child, or how to terminate your child's account, please send your request by mail to Customer Experience Ifwe Inc., 101A Clay St, Box #117, San Francisco, CA 94111 or submit your request online at https://support.tagged.com/hc/en-us/requests/new. We will happily respond to all communications from parents with privacy questions or concerns.
 
 Information We Collects and How We Use That Information Registration Information
 
-9 When you register to become a Member, you are required to provide us with certain personal information, including your first and last name, gender, email address, zip code (or country and city) and date of birth. You also will be required to select a password for accessing your account. To complete the registration process, we send you a validation email message with a URL link back to the Site. The URL link contains a unique user ID that our computer system will use to identify you whenever you log on to the Site. 10 Once you receive the validation email, you must click on the URL link and follow the instructions so that we can authenticate your identity, Member ID and registration. If you register using our mobile application you will have the option to use our “nearby” feature, which will allow you to search for your GPS location and will fill in your country and city on the registration form.
+8 When you register to become a User, you will be asked to provide us with some personal information, which may include, without limitation, your first and last name, gender, email address, a home or other physical address, (or country and city), profile picture, date of birth and other contact information (“Personal Information”). You may also be required to select a password for accessing your account. To complete the registration process, we send you a validation message. 9 Once you receive the validation message, you must follow the instructions so that we can authenticate your identity and registration. If you register using our mobile application you will have the option to use our “nearby” feature, which will allow you to search for your GPS location and will fill in your country and city on the registration form.
 
 The Company’s Use of Your Information
 
-11 The Company uses certain of your personal information to enable you to interact, or to enhance your experience, with the Site and its features. The Company allows Members to provide information to a personal profile that is accessible to other Members. 12 We publicly display some of your personal information, such as your picture and name, in your Member profile. To make searching and finding friends and acquaintances on the Site easier we allow Members to search for other Members using a first and last name, an email address, a location or schools that the Member may have attended. Members may choose to arrange their settings so that their profiles, photos, contact information and ability to be located in searches cannot be seen by anyone other than accepted friends. 13 Members also can pre-approve comments before they appear on their profiles and block other Members from accessing profile information. These privacy procedures enable individual Members to determine how much information to share with potential friends and unknown users and Members.
+10 The Company uses certain of your personal information to enable you to interact, or to enhance your experience, with the Services and their features. The Company allows Users to provide information to a personal profile that is accessible to other Users. 11 We publicly display some of your personal information, such as your picture and name, in your User profile. To make searching and finding other users on the Services easier we may allow Users to search for other Users using a first and last name or an email address. 12
 
-14 Unless you configure your account settings to remain private, all registered Members will be able to view any personal information that you disclose in your public profile, including without limitation your photos, videos, and friend list pages, which may include personal information (including responses to survey questions). For your privacy and safety, please do not post direct contact information in your profile, such as your email addresses, URLs, instant messenger IDs, phone numbers, full names, or mailing addresses. 15 Posting of such information to Profile pages, Groups or Newsfeed shall be considered a violation of our Terms of Service. We also caution you not to share sensitive information (such as full names, social security numbers, credit card numbers, and driver's license numbers) with other Members whom you do not know well, or place such information in your profile. Be aware that when you publish content or information on the Site using the "everyone" setting, you are allowing everyone, including non-Members and people off the Site, to access that information and to associate it with you.
+13 All registered Users will be able to view any personal information that you disclose in your public profile, including, without limitation, your photos and videos, which may include personal information (including responses to survey questions). For your privacy and safety, please do not post direct contact information in your profile, such as your email addresses, URLs, instant messenger IDs, phone numbers, full names, or mailing addresses. 14 Posting of such information to Profile pages shall be considered a violation of our Terms of Service. We also caution you not to share sensitive information (such as full names, social security numbers, credit card numbers, and driver's license numbers) with other Users whom you do not know well, or place such information in your profile. Be aware that when you publish content or information on the Services you are allowing everyone, including non-Users and people off the Services, to access that information and to associate it with you.
 
-Our Browse feature allows you to search for members based on the criteria that you select. When you search for members using our Browse feature, members may be able to see that you are using the Browse feature or searching for people like them and may receive notifications of your search.
-
-16 We use your profile information for the purposes of providing our services to you, such as to analyze demographics, to better personalize our various offerings for you and other Members, and to enable other Members to find your profile. 17 We also use your email address to communicate with you about the Site and its features. From time to time, we may share your email address \[and/or other personal information\] with third parties for marketing purposes. 18 You can opt out of having your email address shared with third parties for marketing purposes by sending your request by mail to Customer Experience, Ifwe Inc., 101A Clay St, Box #117, San Francisco, CA 94111 or by submitting your request online at https://support.tagged.com. In addition, we may share your email address with third parties to target advertising and to improve your user experience on the Site. We also may use the email addresses that are in your address books, or that you otherwise provide, to invite your friends to join the Site, as detailed in the Invitations section below.
+15 We use your profile information for the purposes of providing our services to you, such as to analyze demographics, to better personalize our various offerings for you and other Users, and to enable other Users to find your profile. 16 We also use your email address to communicate with you about the Services and its features. From time to time, we may share your email address and/or other personal information with third parties for marketing purposes. 17 You can opt out of having your email address shared with third parties for marketing purposes by sending your request by mail to Customer Experience, Ifwe Inc., 101A Clay St, Box #117, San Francisco, CA 94111 or by submitting your request online at https://support.tagged.com. In addition, we may share your email address with third parties to target advertising and to improve your user experience on the Services. We also may use the email addresses that are in your address books, or that you otherwise provide, to invite your friends to join the Services, as detailed in the Invitations section below.
 
 Information That You Share When You Use Our Sites
 
-19 When you use our Site, we store certain information that you may actively or passively share or disclose, including your Member ID, name, location, email address, photos, videos, friend connections, incoming and outgoing messages, incoming and outgoing comments and login information. 20 When you visit particular pages within a Site, you may be allowed to customize features on those pages and we may keep track of your customized preferences. We also use various technologies to remember you and create a more personalized experience for you on the Site, as detailed in the Clickstream Data, Cookies and Other Technology section below. 21 We also track your use of the Site, including the pages that you visit once you sign in, how much time is spent on each page, features that you click on and other behavior. We use this information to improve our site and may also share this information with third parties for the purposes of enhancing your user experience.
+18 When you use our Services, we store certain information that you may actively or passively share or disclose, including your User ID, name, location, email address, photos, videos, friend connections, incoming and outgoing messages, incoming and outgoing comments and login information. 19 When you visit particular pages within a Site, you may be allowed to customize features on those pages and we may keep track of your customized preferences. We also use various technologies to remember you and create a more personalized experience for you on the Services, as detailed in the Clickstream Data, Cookies and Other Technology section below. 20 We also track your use of the Services, including the pages that you visit once you sign in, how much time is spent on each page, features that you click on and other behavior. We use this information to improve our Services and may also share this information with third parties for the purposes of enhancing your user experience.
 
-Clickstream Data, Cookies and Other Technology
+Device Information, Cookies and Other Technology
 
-We receive different types of data from the computers and/or servers that you use when you access the Site: A cookie is a small piece of data that is sent by our Site or its advertisers to your Internet browser and stored on your computer’s hard drive, and that delivers information about you and your activity on the Site. Pixel tags are tiny graphic files that can function in various ways (such as allowing us to track how you view an email that we send you) and are commonly used in conjunction with cookies. Local storage is similar to a cookie but is instead located on your browser and can store more information. 22 Other data that we receive when you use our Sites includes “clickstream information” such as your IP address, the type of operating system and/or browser that you use, your location, and the pages that you visit.
+We receive different types of data from or about the computers, phones or other devices where you install or access our Services. We may associate the information we collect from your different devices, which helps us provide consistent Services across your devices. Here are some examples of the device information we may collect:
 
-23 Like many other websites, we use clickstream information and technologies such as cookies, pixel tags and local storage to allow enhanced features, enable customizable content, and provide you with the best possible user experience. 24 We may also share your clickstream information and information collected from cookies, pixel tags and local storage with our vendors and partners for the purposes of enhancing your user experience.
+• Attributes such as the operating system, hardware version, device settings, file and software names and types, battery and signal strength, and device identifiers. • Device locations, including specific geographic locations, such as through GPS, Bluetooth, or WiFi signals. • Connection information such as the name of your mobile operator or ISP, browser type, language and time zone, mobile phone number and IP address.
 
-You can configure your Internet browser, to accept all cookies, reject all cookies or notify you before accepting a cookie. Many Internet browsers also allow you to disable local storage or delete information contained in local storage. Each Internet browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. For information on disabling or deleting information contained in local storage, please click here.
+21 A cookie is a small piece of data that is sent by our Services or its advertisers to your Internet browser and stored on your computer’s hard drive, and that delivers information about you and your activity on the Services. Pixel tags are tiny graphic files that can function in various ways (such as allowing us to track how you view an email that we send you) and are commonly used in conjunction with cookies. Local storage is similar to a cookie but is instead located on your browser and can store more information.
 
-If you choose not to accept cookies and/or to disable or delete local storage, be aware that you may not be able to access and enjoy all the features of the Site.
+22 Like many other services, we use the information we receive and technologies such as cookies, pixel tags and local storage to allow enhanced features, enable customizable content, and provide you with the best possible user experience. We may also share your information and information collected from cookies, pixel tags and local storage with our vendors and partners for the purposes of enhancing your user experience.
 
-25 Some of the Company’s advertisers may also use cookies for various reasons, including to monitor the effectiveness of their advertising. We do not have access to or control over how our advertisers use cookies . 26 If you would like more information about advertisers' use of cookies, and about your option to limit such use, please click here.
+23 You can configure your Internet browser, to accept all cookies, reject all cookies or notify you before accepting a cookie. Many Internet browsers also allow you to disable local storage or delete information contained in local storage. Each Internet browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. For information on disabling or deleting information contained in local storage, please click here. If you choose not to accept cookies and/or to disable or delete local storage, be aware that you may not be able to access and enjoy all the features of the Services. 24 Some of the Company’s advertisers may also use cookies for various reasons, including to monitor the effectiveness of their advertising. We do not have access to or control over how our advertisers use cookies. 25 If you would like more information about advertisers' use of cookies, and about your option to limit such use, please click here.
 
-27 From time to time we may extend to you information and offers from our partner companies, including news and additional details on products and services. Your usage history may result in offer screens or products specifically tailored to you. We may also produce reports for advertisers that aggregate, in an anonymous manner, information about your and other Site users’ activity on the Site. 28 For example, we may report to advertisers the number of Members who clicked on an ad, or the number of Members that visited different portions of the Site. This information will not include your personal information, or specify your individual online usage patterns.
+26 From time to time we may extend to you information and offers from our partner companies, including news and additional details on products and services. Your usage history may result in offer screens or products specifically tailored to you. We may also produce reports for advertisers that aggregate, in an anonymous manner, information about your and other Site users’ activity on the Services. 27 For example, we may report to advertisers the number of Users who clicked on an ad, or the number of Users that visited different portions of the Services. This information will not include your personal information, or specify your individual online usage patterns.
 
-Information That We Receives From Others
+Information That We Receive From Others
 
-29 Certain websites that are not affiliated with the Company might place a code or other identifying user information in your browser address when you visit their websites. If you visit the Site after you have visited one of those websites we may store this identifying information from your browser address.
+28 Certain websites that are not affiliated with the Company might place a code or other identifying user information in your browser address when you visit their websites. If you visit the Services after you have visited one of those websites we may store this identifying information from your browser address.
 
-How We Responds to Do Not Track Signals
+How We Respond to Do Not Track Signals
 
-30 At this time we does not respond to Do Not Track Signals and similar mechanisms. Any such signal sent to our site automatically by a web browser will not be recognized and no action will be taken. You may exercise certain choices regarding online tracking by following the instructions in this privacy policy. You can also read more about online advertising here.
-
-31 Third party advertisers may be collecting information about Member behavior across different websites. The Company has no control over third parties and their collection or use of such information. You may be able to opt out of certain collection of information across browsers and by advertisers by going to the links provided in the “Clickstream Data, Cookies and Other Technology” section.
+29 At this time, we do not respond to Do Not Track Signals and similar mechanisms. Any such signal sent to our Services automatically by a web browser will not be recognized and no action will be taken. You may exercise certain choices regarding online tracking by following the instructions in this privacy policy. You can also read more about online advertising here. 30 Third party advertisers may be collecting information about User behavior across different websites. The Company has no control over third parties and their collection or use of such information. You may be able to opt out of certain collection of information across browsers and by advertisers by going to the links provided in the “Clickstream Data, Cookies and Other Technology” section.
 
 Third Party Websites and Ad Servers
 
-32 When using the Site, you may encounter links to websites that are not owned, controlled or affiliated with the Company and/or ads delivered by third party ad servers. Please be aware that any third party websites and ad server ads that are found on the Site may use cookies, pixel tags, local storage and similar technologies. We are not responsible for, or have any control over, the privacy policies of those third party websites and ad servers, and we encourage you to read the privacy policies of each and every website visited when linking directly from the Site.
+31 When using the Site, you may encounter links to websites that are not owned, controlled or affiliated with the Company and/or ads delivered by third party ad servers. Please be aware that any third party websites and ad server ads that are found on the Site may use cookies, pixel tags, local storage and similar technologies. We are not responsible for, or have any control over, the privacy policies of those third party websites and ad servers, and we encourage you to read the privacy policies of each and every website visited when linking directly from the Site.
+
+Sharing With Third Party Partners and Customers
+
+We work with third party companies who help us provide and improve our Services or who use advertising or related products, which makes it possible to operate our companies and provide free services to people around the world. 
+
+32 Here are the types of third parties we can share information with about you: Advertising, Measurement and Analytics Services (Non-Personally Identifiable Information Only).
+
+We want our advertising to be as relevant and interesting as the other information you find on our Services. With this in mind, we use all of the information we have about you to show you relevant ads. 33 We do not share information that personally identifies you (personally identifiable information is information like name or email address that can by itself be used to contact you or identifies who you are) with advertising, measurement or analytics partners unless you give us permission.
+
+Vendors, service providers and other partners.
+
+We transfer information to vendors, service providers, and other partners who globally support our business, such as providing technical infrastructure services, analyzing how our Services are used, measuring the effectiveness of ads and services, providing customer service, facilitating payments, or conducting academic research and surveys. 34 These partners must adhere to strict confidentiality obligations in a way that is consistent with this Privacy Policy and the agreements we enter into with them.
+
+When using the Services, you may encounter links to websites that are not owned, controlled or affiliated with the Company and/or ads delivered by third party ad servers. Please be aware that any third party websites and ad server ads that are found on the Services may use cookies, pixel tags, local storage and similar technologies. 35 We are not responsible for, or have any control over, the privacy policies of those third party websites and ad servers, and we encourage you to read the privacy policies of each and every website visited when linking directly from the Services. We will not share your Personal Information with any third parties without your consent, except as we disclose to you under this Privacy Policy or as necessary to provide you with the products and services offered by us.
 
 Sharing Your Content
 
-33 We allow Members to upload and share content. You own the content that you post on the Site and, through your privacy settings, have the ability to control how it is shared. 34 For content that is covered by intellectual property rights, including but not limited to photos, videos and written compositions (“IP Content”), you specifically give us the following permission: You grant us an unconditional, non-exclusive, transferable, sublicensable, royalty-free, worldwide and perpetual license to use any IP Content that you post on or in connection with the Site ("IP License"). 35 For example, we may make commercial use of and/or otherwise display your name and/or IP Content in or in connection with endorsements of and/or advertisements promoting the Site and its services. This IP License ends when you delete your IP Content or terminate your account, unless your IP Content has been shared with others, and they have not deleted the content if your IP Content was incorporated into an endorsement or advertisement prior to your deletion of the IP Content. When you delete your IP Content or terminate your account, your IP Content is removed from the Site., you understand that we may maintain backup copies of the IP Content.
+36 We allow Users to upload and share content. You own the content that you post on the Services. For content that is covered by intellectual property rights, including but not limited to photos, videos and written compositions (“IP Content”), 37 you specifically give us the following permission: You grant us an unconditional, non-exclusive, transferable, sublicensable, royalty-free, worldwide and perpetual license to use any IP Content that you post on or in connection with the Services ("IP License"). 38 For example, we may make commercial use of and/or otherwise display your name and/or IP Content in or in connection with endorsements of and/or advertisements promoting the Services and its services. This IP License ends when you delete your IP Content or terminate your account, unless your IP Content has been shared with others, and they have not deleted the content if your IP Content was incorporated into an endorsement or advertisement prior to your deletion of the IP Content. When you delete your IP Content or terminate your account, your IP Content is removed from the Services., you understand that we may maintain backup copies of the IP Content.
 
-Invitations to Join the Site
+Invitations to Join the Services
 
-36 The Invite Friends feature is an easy way for you to invite friends through email to use and become Members of the Site. The email addresses that you supply to the Company through this feature will be used only to send invitations, and in some cases invitation reminders, to the addressees, asking them to connect with you on the Site. When you invite a friend to use the Site through email, your name will appear as the sender of the email from a Site email address.
+39 The Invite Friends feature is an easy way for you to invite friends through email to use and become Users of the Services. The email addresses that you supply to the Company through this feature will be used only to send invitations, and in some cases invitation reminders, to the addressees, asking them to connect with you on the Services. When you invite a friend to use the Services through email, your name will appear as the sender of the email from a Site email address.
 
 Surveys and Contests
 
-37 At various times we may offer you the opportunity to participate in surveys and contests. Surveys may ask for your contact, demographic or unique identifying information to increase the value of the results. Contests may require your contact information or other demographic or personal information to determine eligibility. The Company may use information collected from surveys and contests for the entertainment of Members, and to determine, identify and contact winners of various contests. In addition, your demographic and/or personal information and responses to survey and contest questions may be used by the Company and/or shared with third parties in relation to the survey and contest to provide offers or advertisements specifically tailored to you. The Company will not share your email address with a third party unless you specifically opt in to permit such sharing during the completion of or registration for a survey or contest.
+40 At various times we may offer you the opportunity to participate in surveys and contests. Surveys may ask for your contact, demographic or unique identifying information to increase the value of the results. Contests may require your contact information or other demographic or personal information to determine eligibility. The Company may use information collected from surveys and contests for the entertainment of Users, and to determine, identify and contact winners of various contests. In addition, your demographic and/or personal information and responses to survey and contest questions may be used by the Company and/or shared with third parties in relation to the survey and contest to provide offers or advertisements specifically tailored to you. The Company will not share your email address with a third party unless you specifically opt in to permit such sharing during the completion of or registration for a survey or contest.
 
 Protection of the Company and Others
 
-38 The Company may disclose your personal information, clickstream data, cookies and information from other technologies if the Company is required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. The Company may also disclose information about you to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: (i) enforce our Terms of Service. (ii) respond to claims that any posting or other content violates the rights of third-parties. (iii) respond to your requests for customer service. or (iv) protect the rights, property, or personal safety of the Company, its Members or the general public.
+41 The Company may disclose your personal information, clickstream data, cookies and information from other technologies if the Company is required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. The Company may also disclose information about you to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: (i) enforce our Terms of Service. (ii) respond to claims that any posting or other content violates the rights of third-parties. (iii) respond to your requests for customer service. or (iv) protect and defend the rights, property, or personal safety of the Company, its Users or the general public. (vi) to comply with legal process served on Company pursuant to a statutory demand, subpoena, warrant or court order (vii) to protect against fraudulent, abusive or unlawful use of the Services, (viii) to enforce any contractual agreement between you and Company.
 
 Security and Data Retention
 
-39 All personal information collected by the Compay in connection with your use of the Site and described in this Privacy Policy, including without limitation your name, location, email address, photos and videos, friend connections, messages, comments, login information, IP address and other data, will be stored by the Company indefinitely.
-
-40 The Company uses industry standard security measures to prevent the loss, misuse and alteration of the information under our control. Although we make good faith efforts to store the information collected by the Company in a secure operating environment that is not available to the public, we cannot guarantee complete security. 41 Also, while we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. Lastly, we cannot and do not ensure the adequacy or performance of any security measures that may be undertaken by Site advertisers or other third parties that may have access to your personal information on or through the Site.
+42 All personal information collected by the Company in connection with your use of the Services and described in this Privacy Policy, including without limitation your name, location, email address, photos and videos, friend connections, messages, comments, login information, IP address and other data, will be stored by the Company indefinitely. 43 The Company uses industry standard security measures to prevent the loss, misuse and alteration of the information under our control. Although we make good faith efforts to store the information collected by the Company in a secure operating environment that is not available to the public, we cannot guarantee complete security. 44 Due to the open nature of the Internet, we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration. Also, while we make every reasonably acceptable effort to ensure the integrity and security of our network and systems, we cannot guarantee its absolute security or confidentiality or that our security measures will prevent third-party "hackers" from illegally obtaining this information. Lastly, we cannot and do not ensure the adequacy or performance of any security measures that may be undertaken by Site advertisers or other third parties that may have access to your personal information on or through the Services.
 
 Updating or Removing Your Member Information or Opting Out
 
-42 As a Member, you may at any time choose to correct or update the information you have submitted to us. To change or update your information:
+45 As a User, you may at any time choose to correct or update the information you have submitted to us. To change or update your information:
 
-1.  43 Log in to your account on the Site.
-2.  Click the "Account" link on the top right hand corner.
-3.  Follow the instructions to change or edit any of the information there.
+1.   Log in to your account on the Services. 46
+2.  Click the "Account" or “Profile” link.
+3.  Follow the instructions to change or edit any of the information there. As a User, you also may at any time cancel your account by following the instructions set forth here: https://support.tagged.com/hc/en-us/sections/200549364-Account-Information Upon cancellation of your account, your profile will no longer display on the Services. You will receive no further communication directly from us and we will not share your personal information with third parties for marketing purposes. However, any content that you may have posted on other public pages and the profile pages of other Users will remain unless deleted by you prior to cancellation. You may still receive user generated email messages from your friends inviting you to join the Services or information from third parties with whom your information was shared prior to such a cancellation in compliance with this privacy policy. We may maintain backup copies of your information and content indefinitely.
 
-As a Member, you also may at any time cancel your account by following the instructions set forth here: https://support.tagged.com/hc/en-us/sections/200549364-Account-Information Upon cancellation of your account, your profile will no longer display on the Site. You will receive no further communication directly from us and we will not share your personal information with third parties for marketing purposes. However, any content that you may have posted on other public pages and the profile pages of other Members will remain unless deleted by you prior to cancellation. You may still receive user generated email messages from your friends inviting you to join the Sites or information from third parties with whom your information was shared prior to such a cancellation in compliance with this privacy policy. We may maintain backup copies of your information and content indefinitely.
+You can select any User ID you wish, except that your User ID cannot be an impersonation, the same or confusingly similar to a famous trademark, or be a term that is offensive in any way. We reserve the right to reject or remove any username that does not meet applicable standards.
 
-How We Communicates With You
+You are responsible for all activities or actions on the Services that occur under your User ID and password. We urge you to keep your User ID and password in a safe place.
 
-44 If you want to hear from us more, or hear from us less, you can manage your communications preferences by logging in to the Site, going to your Account Settings page, and under the Email Preferences section checking or un-checking the applicable boxes. If you cancel your account, thereafter you will receive no further communications directly from us and we will not share your personal information with third parties for marketing purposes. 45 However, you may still receive user generated email messages from your friends inviting you to join the Site or information from third parties with whom your information was shared prior to such cancellation in compliance with this privacy policy.
+How We Communicate With You
+
+47 If you want to hear from us more, or hear from us less, you can manage your communications preferences by logging in to the Services, going to your Account Settings page, and under the Email Preferences section checking or un-checking the applicable boxes. If you cancel your account, thereafter you will receive no further communications directly from us and we will not share your personal information with third parties for marketing purposes. 48 However, you may still receive user generated email messages from your friends inviting you to join the Services or information from third parties with whom your information was shared prior to such cancellation in compliance with this privacy policy.
 
 No Spam Policy
 
-46 The Company is opposed to spam. Our No Spam Policy and Terms of Service prohibit all Members from engaging in any activity on our Site involving spam. 47 Violations of these prohibitions may result in immediate termination of service and legal action against the Member. The Company’s Terms of Service expressly prohibit Members from uploading, posting, emailing, transmitting or otherwise making available junk mail, commercial ads, or other form of commercial solicitation on the Site or through the Company’s services. 48 A violation of our spam policies and/or any unauthorized use of the Company’s computer systems could result in the violation of certain federal and state laws.
+49 The Company is opposed to spam. Our No Spam Policy and Terms of Service prohibit all Users from engaging in any activity on our Services involving spam. 50 Violations of these prohibitions may result in immediate termination of service and legal action against the User. The Company’s Terms of Service expressly prohibit Users from uploading, posting, emailing, transmitting or otherwise making available junk mail, commercial ads, or other form of commercial solicitation on the Services or through the Company’s services. 51 A violation of our spam policies and/or any unauthorized use of the Company’s computer systems could result in the violation of certain federal and state laws.
 
 Change of Ownership
 
-49 In the event of a change in ownership at the Company, we reserve the right to transfer your information to the new owner or a related company. If that ever happens, we will notify you and you may choose to modify any of your registration information at that time.50
+52 If the Company is restructured, merged, consolidated with or acquired by a third party entity, we reserve the right to transfer your information to the new owner or a related company. If that ever happens, we will notify you and you may choose to modify any of your registration information at that time. However, we may not be able to control how your Personal Information is treated, transferred, or used in the event of the Company’s bankruptcy, insolvency, receivership, or comparable event. 53
 
 Changes to This Privacy Policy
 
-51 The Company reserves the right to amend or modify this Privacy Policy and our other policies and agreements at any time and in any manner. If we make any changes to this Privacy Policy or our other policies and agreements, we will post a notice about these changes on the Site, and your continued use of the Site thereafter will signify your agreement to such changes. If we materially change how we use your personal information, we will let you know before we do so and you may choose how you want to proceed at that time.
+54 The Company reserves the right to update, add to, change, amend or modify this Privacy Policy and our other policies and agreements at any time and in any manner. If we make any changes to this Privacy Policy or our other policies and agreements, we will post a notice about these changes on the Services, and your continued use of the Services thereafter will signify your agreement to such changes. If we materially change how we use your personal information, we will let you know before we do so and you may choose how you want to proceed at that time.
+
+California Rights {#california\_rights} 55
+
+1.  California Privacy Rights. California Civil Code Section 1798.83 permits our Users who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please contact us Customer Experience Ifwe Inc., 101A Clay St, Box #117, San Francisco, CA 94111 or submit your request online at https://support.tagged.com/hc/en-us/requests/new. Please be advised that we are only required to respond to one request per User each year.
+2.  Our California Do Not Track Notice. We do not currently respond or take any action with respect to web browser “do not track” signals or other mechanisms that provide Users the ability to exercise choice regarding the collection of Personal Information about that individual consumer’s online activities over time and across third-party web sites or online services. We may allow third parties, such as companies that provide us with analytics tools, to collect Personal Information about an individual consumer’s online activities over time and across different web sites when a consumer uses the App.
+3.  Deletion of Content from California Residents. If you are a California resident under the age of 18 and a registered user of the Services, California Business and Professions Code Section 22581 permits you to remove content or information you have publicly posted. If you wish to remove such content or information and you specify which content or information you wish to be removed, we will do so in accordance with applicable law. Please be aware that after removal you will not be able to restore removed content or information. In addition, such removal does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require us to enable removal of the content or information.
 
 Contacting Us
 
-52 If you have any questions about our Privacy Policy or how to access your personal information, you can contact us by sending your request by mail to Customer Experience, Ifwe Inc., 101A Clay St, Box #117, San Francisco, CA 94111 or by submitting your request online at https://support.tagged.com.
+56 If you have any questions about our Privacy Policy or how to access your personal information, you can contact us by sending your request by mail to Customer Experience, Ifwe Inc., 101A Clay St, Box #117, San Francisco, CA 94111 or by submitting your request online at https://support.tagged.com.
 
-**YOUR USE OF THE SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY.**
+**YOUR USE OF THE SERVICES SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY.**
 
-Effective Date June 10, 2016
+Effective Date November 16, 2016
 
 1.  Our Privacy Policy describes what information we collect and how we use it. ↩
     
@@ -475,103 +493,111 @@ Effective Date June 10, 2016
     
 3.  Please read the entire Privacy Policy to your left for all details governing the collection and use of your information. ↩
     
-4.  You have to be at least 18 years to register for our Sites or access the Sites. ↩
+4.  Our Sites are general audience websites for Members who are 18 years of age or older. ↩
     
-5.  Our Sites are general audience websites for Members who are 18 years of age or older. ↩
+5.  If we discover that your age has been falsified and that your age is under 18, we can terminate your account and delete your personal information from the Site. ↩
     
-6.  If we discover that your age has been falsified and that your age is under 18, we can terminate your account and delete your personal information from the Site. ↩
+6.  COPPA is a law intended to protect children who are under 13 years of age. ↩
     
-7.  COPPA is a law intended to protect children who are under 13 years of age. ↩
+7.  Even though we are a general audience website for Members who are 18 years of age or older, we have a process in place designed to remove any Members found to be under 13 years of age and provide parents with a direct contact if they discover that their child has signed up for our Site by using a false age. ↩
     
-8.  Even though we are a general audience website for Members who are 18 years of age or older, we have a process in place designed to remove any Members found to be under 13 years of age and provide parents with a direct contact if they discover that their child has signed up for our Site by using a false age. ↩
+8.  You are required to provide certain information if you want to register as a Member of a Site. ↩
     
-9.  You are required to provide certain information if you want to register as a Member of a Site. ↩
+9.  You are also required to verify your account through email. ↩
     
-10.  You are also required to verify your account through email. ↩
+10.  We use some of your information to allow you to interact with other Members and to enhance your experience on the Site. ↩
     
-11.  We use some of your information to allow you to interact with other Members and to enhance your experience on the Site. ↩
+11.  Some of your information can be used to allow Members to search for you. ↩
     
-12.  Some of your information can be used to allow Members to search for you. ↩
+12.  We publicly display some of your personal information, such as your picture and name, in your User profile. ↩
     
-13.  You can change your settings to limit the visibility of your account and certain content. ↩
+13.  Your account will be visible to everyone. ↩
     
-14.  Your account will be visible to everyone, unless you set it to private. ↩
+14.  When you post content using the “everyone” setting, you are allowing anyone to view the post, including people who are not Site Members. ↩
     
-15.  When you post content using the “everyone” setting, you are allowing anyone to view the post, including people who are not Site Members. ↩
+15.  We use your profile information to improve our services. ↩
     
-16.  We use your profile information to improve our services. ↩
+16.  We use your email address to communicate with you. ↩
     
-17.  We use your email address to communicate with you. ↩
+17.  If you import your email address book, we may use the email addresses that are uploaded to invite your friends to a Site. ↩
     
-18.  If you import your email address book, we may use the email addresses that are uploaded to invite your friends to a Site. ↩
+18.  We store the information that you post or share on the Site. ↩
     
-19.  We store the information that you post or share on the Site. ↩
+19.  We track your behavior on the Site so that we can use the information to improve our Site. We may also share aggregated versions of this information with advertisers. ↩
     
-20.  We track your behavior on the Site so that we can use the information to improve our Site. We may also share aggregated versions of this information with advertisers. ↩
+20.  We receive information from the computers and servers that you may use when accessing our Site. ↩
     
-21.  We receive information from the computers and servers that you may use when accessing our Site. ↩
+21.  We use cookies, pixel tags, clickstream data, local storage and other tracking devices. ↩
     
-22.  We use cookies, pixel tags, clickstream data, local storage and other tracking devices. ↩
+22.  We may share this information with our partners. ↩
     
-23.  We may share this information with our partners. ↩
+23.  You can change your browser settings to prohibit tracking devices but this may limit your use of our Site. ↩
     
-24.  You can change your browser settings to prohibit tracking devices but this may limit your use of our Site. ↩
+24.  Our advertisers may also use various cookies and tracking devices. ↩
     
-25.  Our advertisers may also use various cookies and tracking devices. ↩
+25.  We have no control over how our advertisers use these cookies and tracking devices but you can limit their use. ↩
     
-26.  We have no control over how our advertisers use these cookies and tracking devices but you can limit their use. ↩
+26.  Sometimes we share information with advertisers. They may use such information to show you specially tailored ads and products. ↩
     
-27.  Sometimes we share information with advertisers. They may use such information to show you specially tailored ads and products. ↩
+27.  We may also share aggregated information about our Members. ↩
     
-28.  We may also share aggregated information about our Members. ↩
+28.  Other websites may place identifying user information in your browser address. When you visit one of our Sites, we may store such information from your browser address. ↩
     
-29.  Other websites may place identifying user information in your browser address. When you visit one of our Sites, we may store such information from your browser address. ↩
+29.  Any Do Not Track Signals submitted to us will be ignored. ↩
     
-30.  Any Do Not Track Signals submitted to us will be ignored. ↩
+30.  We have no control over third party advertisers who may be collecting information about your behavior across different websites. ↩
     
-31.  We have no control over third party advertisers who may be collecting information about your behavior across different websites. ↩
+31.  We are not responsible for any links on our Site that direct you to a website not owned by us. ↩
     
-32.  We are not responsible for any links on our Site that direct you to a website not owned by us. ↩
+32.  We work with third party companies who help us provide and improve our Services or who use advertising or related products. ↩
     
-33.  You grant us rights to use any content that you upload or share on our Site. ↩
+33.  We use all of the information we have about you to show you relevant ads. ↩
     
-34.  We may use your content and name in connection with endorsements or advertisements promoting our Sites and Services. ↩
+34.  We transfer information to vendors, service providers, and other partners who globally support our business. ↩
     
-35.  Once you remove content from our Site we no longer have the right to use your content. However, if your content has already been placed into an endorsement or advertisement we will keep the right to use it. We also have the right to keep such content in backup records. ↩
+35.  Please be aware that any third party websites and ad server ads that are found on the Services may use cookies, pixel tags, local storage and similar technologies. ↩
     
-36.  You can use the Invite Friends feature to send email invites to your friends, asking them to join our Sites. ↩
+36.  You grant us rights to use any content that you upload or share on our Site. ↩
     
-37.  We may offer surveys and contests. If you choose to participate you may need to provide additional information that might be shared with third parties. ↩
+37.  We may use your content and name in connection with endorsements or advertisements promoting our Sites and Services. ↩
     
-38.  We may share your information with others if required by law or if we think it is necessary to protect the rights, property or safety of its Members or the general public. ↩
+38.  Once you remove content from our Site we no longer have the right to use your content. However, if your content has already been placed into an endorsement or advertisement we will keep the right to use it. We also have the right to keep such content in backup records. ↩
     
-39.  We may store all of your information indefinitely. Depending on business need we may decide to delete certain information and have no obligation to store the information for any specified period of time. ↩
+39.  You can use the Invite Friends feature to send email invites to your friends, asking them to join our Sites. ↩
     
-40.  We use industry standards to prevent misuse and improper access of your data. ↩
+40.  We may offer surveys and contests. If you choose to participate you may need to provide additional information that might be shared with third parties. ↩
     
-41.  Although we try our best, we cannot guarantee that the measures we take will be sufficient to protect your information from third party access. ↩
+41.  We may share your information with others if required by law or if we think it is necessary to protect the rights, property or safety of its Members or the general public. ↩
     
-42.  You can update or correct your information at any time. ↩
+42.  We may store all of your information indefinitely. Depending on business need we may decide to delete certain information and have no obligation to store the information for any specified period of time. ↩
     
-43.  You may cancel your account at any time. ↩
+43.  We use industry standards to prevent misuse and improper access of your data. ↩
     
-44.  We will contact you through email. You can manage the types of emails that you receive within your account settings. ↩
+44.  Although we try our best, we cannot guarantee that the measures we take will be sufficient to protect your information from third party access. ↩
     
-45.  If you cancel your account we will stop sending you communication. However, you may still receive emails from us if your friend sends you a message to join or from third parties if we shared your information before you cancelled. ↩
+45.  You can update or correct your information at any time. ↩
     
-46.  We prohibit Members from sending any form of commercial solicitation. ↩
+46.  You may cancel your account at any time. ↩
     
-47.  This includes any unsolicited messages or postings attempting to advertise or sell goods or services and any other spam or junk messages. ↩
+47.  We will contact you through email. You can manage the types of emails that you receive within your account settings. ↩
     
-48.  We may take legal action against anyone who breaks these rules and may report your actions to the authorities, which could result in civil and criminal penalties. ↩
+48.  If you cancel your account we will stop sending you communication. However, you may still receive emails from us if your friend sends you a message to join or from third parties if we shared your information before you cancelled. ↩
     
-49.  If our Company is sold, or otherwise changes ownership, We may transfer all of your information to the new owner. ↩
+49.  We prohibit Members from sending any form of commercial solicitation. ↩
     
-50.  You will get a notification if such a change of ownership occurs and will have the chance to change your registration information. ↩
+50.  This includes any unsolicited messages or postings attempting to advertise or sell goods or services and any other spam or junk messages. ↩
     
-51.  We can revise this Privacy Policy at any time. If we make major changes to how we use your information we will provide you with notice. ↩
+51.  We may take legal action against anyone who breaks these rules and may report your actions to the authorities, which could result in civil and criminal penalties. ↩
     
-52.  You can contact us directly with any questions about our Privacy Policy. ↩
+52.  If our Company is sold, or otherwise changes ownership, We may transfer all of your information to the new owner. ↩
+    
+53.  You will get a notification if such a change of ownership occurs and will have the chance to change your registration information. ↩
+    
+54.  We can revise this Privacy Policy at any time. If we make major changes to how we use your information we will provide you with notice. ↩
+    
+55.  California residents have special rights under California law. ↩
+    
+56.  You can contact us directly with any questions about our Privacy Policy. ↩
     
 
 © 2016 Ifwe Inc. Mobile Company Jobs Advertise Privacy Terms Report Abuse Support English English Bahasa Melayu Basa Jawa Español - América Latina Español - España Español - México Deutsch Français Italiano Magyar Nederlands Português - Brasil Português Русский Română Türkçe বাংলা 中文 (简体) 中文 (繁軆) हिन्दी 日本語 मराठी ਪੰਜਾਬੀ ไทย
