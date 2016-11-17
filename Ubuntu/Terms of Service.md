@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Microsoft loves Linux. SQL Server Public Preview available on Ubuntu ›
 *   Charm Partner Newsletter: November 2016 ›
 *   Making your snaps available to the store using snapcraft ›
 *   Webinar: Secure, scale and simplify your OpenStack deployments ›
-*   Canonical launches fully managed Kubernetes and joins the CNCF ›
