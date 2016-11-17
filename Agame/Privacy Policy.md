@@ -109,11 +109,11 @@ View more results
 *   Hot Games
     
     *   Valerian Teaser Trailer
-    *   Slotomania
-    *   Farmerama
+    *   Sparta: War Of Empires
+    *   Klondike - the lost expedition
     *   World of Tanks
-    *   Troll Face Quest Video Games
     *   SuperSnake.io
+    *   Wormate io
     
     Mobile Apps More
     
