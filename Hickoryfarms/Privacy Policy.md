@@ -10,7 +10,6 @@
     *   New!
     *   Best Sellers
     *   Gluten Free
-    *   Holiday Gift Guide
     
     Holidays &. Occasions*   Thanksgiving
     *   Christmas Gifts
@@ -87,7 +86,6 @@
     *   New!
     *   Best Sellers
     *   Gluten Free
-    *   Holiday Gift Guide
     
     Holidays &. Occasions*   Thanksgiving
     *   Christmas Gifts
@@ -144,7 +142,7 @@
     *   Gifts Over $90
 *   Sale
 
-1.800.753.8558 Menu Search Stores Cart Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
+1.800.753.8558 Menu Search Stores Cart Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Free Standard Delivery on shipments $35 or more!\*
 
 1.  Home
 2.  Customer Service
@@ -254,6 +252,7 @@ About Us
 *   Our Blog
 *   Traditions Matter
 *   No Kid Hungry®
+*   E-Catalog
 
 Contact Us
 
