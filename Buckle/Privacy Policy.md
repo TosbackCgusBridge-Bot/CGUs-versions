@@ -346,13 +346,11 @@ Returns
 
 Promotions
 
+*   Free Stainless Steel Mug
 *   Play With 2K Sweepstakes Official Rules
 *   #InTheseBlues Official Rules
 *   Play For A Chance to Win
-*   Free Tote Bag!
-*   Bluetooth® Speaker
 *   Loyalty Event 2016
-*   Tax Free Weekends 2016
 *   Social Giveaway Official Rules
 *   Store Events
 *   Sweepstakes Winners
