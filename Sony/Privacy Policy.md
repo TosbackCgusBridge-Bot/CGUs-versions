@@ -403,4 +403,4 @@ For ProfessionalsCareersContact UsCompany InfoVoluntary Recall
 
 Facebook Twitter Instagram Vine Tumblr © 2016 SONY CORPORATION OF AMERICA
 
-Terms and ConditionsPrivacy Policy/Your California Privacy RightsEU/Swiss Employee SCA Safe Harbor Statement
+Terms and ConditionsPrivacy Policy/Your California Privacy Rights
