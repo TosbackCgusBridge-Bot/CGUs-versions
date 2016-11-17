@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**View the Incredible Winners of the Slow Motion Video Awards**
+**Could Humans Break the Two-hour Marathon Barrier?**
 
-**New Study: Zika Can Survive for 8 Hours Outside a Host Body**
+**When's the Best Time of Day to Make a Decision?**
 
-**A Spotify Bug Could Be Killing Your Hard Drive**
+**Could Our Spacecraft Accidentally Ignite an Alien World's Entire Atmosphere?**
 
 **See More Headlines »**
 
