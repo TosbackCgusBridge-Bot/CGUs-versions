@@ -42,17 +42,17 @@ Trucks
 Crossovers &. SUVs
 
 *   $36,150 as shown 2017 RAV4 $24,910 starting 23/30 est. mpg build Specials
-*   $40,915 as shown 2016 Highlander $30,490 starting 20/25 est. mpg build Specials
+*   $41,150 as shown 2017 Highlander $30,630 starting 21/27 est. mpg build Specials
 *   $39,595 as shown 2016 4Runner $34,010 starting 17/22 est. mpg build Specials
 *   $61,990 as shown 2017 Sequoia $45,460 starting 13/17 est. mpg build Specials
 *   $84,325 as shown 2017 Land Cruiser $84,325 starting 13/18 est. mpg build Specials
 
 Hybrids &. FCV
 
-*   $27,995 as shown 2017 Camry Hybrid $26,790 starting 42/38 est. mpg build Specials
-*   $42,550 as shown 2017 Avalon Hybrid $37,250 starting 40/39 est. mpg build Specials
-*   $34,030 as shown 2017 RAV4 Hybrid $29,030 starting 34/30 est. mpg build Specials
-*   $47,870 as shown 2016 Highlander Hybrid $47,870 starting 27/28 est. mpg build Specials
+*   $27,995 as shown 2017 Camry Hybrid $26,790 starting 42/38 est. mpg build
+*   $42,550 as shown 2017 Avalon Hybrid $37,250 starting 40/39 est. mpg build
+*   $34,030 as shown 2017 RAV4 Hybrid $29,030 starting 34/30 est. mpg build
+*   $50,085 as shown 2017 Highlander Hybrid $36,270 starting 30/28 est. mpg build
 *   $28,800 as shown 2017 Prius Prime $27,100 starting 54/133 est. mpg /MPGe build
 *   $32,115 as shown 2017 Prius $24,685 starting 54/50 est. mpg build Specials
 *   $24,495 as shown 2016 Prius c $19,560 starting 53/46 est. mpg build Specials
@@ -61,7 +61,6 @@ Hybrids &. FCV
 
 Upcoming Vehicles
 
-*   2017 Highlander View More Info
 *   Concept Vehicles View More Info
 
 Shopping Tools
