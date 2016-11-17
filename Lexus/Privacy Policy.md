@@ -330,7 +330,7 @@ Help &. Support
 *   Maintenance
 *   Safety
 *   Warranty
-*   More Topics
+*   FAQs
 
 Brand &. Lifestyle
 
@@ -382,7 +382,7 @@ Brand &. Lifestyle
     *   Maintenance
     *   Safety
     *   Warranty
-    *   More Topics
+    *   FAQs
 *   Brand &. Lifestyle
     *   Lexus Plus
     *   L Studio Films
