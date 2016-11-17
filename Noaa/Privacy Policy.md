@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Climate The Climate Prediction Center’s Mike Halpert talks about NOAA’s Winter Outlook Climate 4 ways the ozone hole is related to global warming, and 1 way it isn’t National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites 6 reasons why GOES-R matters Climate The Climate Prediction Center’s Mike Halpert talks about NOAA’s Winter Outlook National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Climate
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms GOES-R countdown - 4 days to launch! AROUND NOAA // U.S. experienced 3rd warmest October and 2nd warmest year to date Size of 2016 Antarctic ozone hole is nearly average, as expected U.S. Winter Outlook predicts warmer, drier South and cooler, wetter North
+Enter Search Terms GOES-R countdown - 3 days to launch! AROUND NOAA // U.S. experienced 3rd warmest October and 2nd warmest year to date Size of 2016 Antarctic ozone hole is nearly average, as expected U.S. Winter Outlook predicts warmer, drier South and cooler, wetter North
 
 *   About our agency
 *   News and features
