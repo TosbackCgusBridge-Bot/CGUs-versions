@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 10.735,14ǀ
+*   DAX 10.663,87ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -169,9 +169,11 @@ Mein SPIEGEL
     *   Abo-Angebote
     *   Shop
     *   SPIEGELblog
-*   SPIEGEL TV Magazin
+*   SPIEGEL TV
     *   *   Übersicht
-        *   TV-Programm
+        *   SPIEGEL TV Magazin
+        *   SPIEGEL TV Reportage
+        *   SPIEGEL TV Programm
         *   SPIEGEL.TV
 *   Forum
     *   *   Übersicht
