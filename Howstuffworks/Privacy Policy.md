@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Could Humans Break the Two-hour Marathon Barrier?**
+**Fantastic Beasts and Where to Find Them: Right Here**
 
-**When's the Best Time of Day to Make a Decision?**
+**What's the Deal With the New Statin Recommendations?**
 
-**Could Our Spacecraft Accidentally Ignite an Alien World's Entire Atmosphere?**
+**Flickr, Tumblr, Scribd: Why Dropping Vowels From Brand Names Is So Popular**
 
 **See More Headlines »**
 
