@@ -37,8 +37,6 @@ Entertainment
 *   TV + Web
 *   Movies + Music
 
-Tech
-
 *   Gadgets
 *   Cyber Security
 *   Innovation Nation
@@ -166,8 +164,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
     2.  TV + Web
     3.  Movies + Music
 
-1.  Tech
-    1.  Gadgets
+1.  1.  Gadgets
     2.  Cyber Security
     3.  Innovation Nation
     4.  Vital Signs
