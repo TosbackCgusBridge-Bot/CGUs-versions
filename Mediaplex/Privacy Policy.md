@@ -68,8 +68,8 @@ Login Let's Connect What We Do Watch Video
 
 *   160+ MILLION Real People You Can  
     Message Right Now
-*   96% Verified Cross-Device  
-    Matching Precision
+*   96% Cross-Device  
+    Matching Accuracy
 *   1+ Trillion Daily Real-Time  
     Decisions
 *   10X Average Incremental  
