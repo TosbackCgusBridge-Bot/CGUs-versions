@@ -229,6 +229,7 @@ Menu
         *   Eggs in manufacturing
         *   Struggling for breath
         *   Clinical trials: a patient's view
+        *   Living with COPD Every Day: Sean’s Story
     *   Our people
         *   Our people
         *   Changing gears in a scientific career
