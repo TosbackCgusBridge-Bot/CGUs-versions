@@ -78,7 +78,19 @@ Aéropostale
     *   Intimates
     *   Accessories
     *   Sleep
-*   Trending
+*   GIFT GUIDE
+    
+    *   GIRLS
+    *   Best Deals
+    *   Stocking Stuffers
+    *   Bundle Up
+    *   Holiday Party
+    
+    *   GUYS
+    *   Best Deals
+    *   Stocking Stuffers
+    *   Bundle Up
+    *   Holiday Party
 *   Clearance
     
     *   GIRLS
