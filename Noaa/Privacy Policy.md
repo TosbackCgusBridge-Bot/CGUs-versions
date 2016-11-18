@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms GOES-R countdown - 3 days to launch! AROUND NOAA // U.S. experienced 3rd warmest October and 2nd warmest year to date Size of 2016 Antarctic ozone hole is nearly average, as expected U.S. Winter Outlook predicts warmer, drier South and cooler, wetter North
+Enter Search Terms GOES-R countdown - 2 days to launch! AROUND NOAA // Last month tied as 3rd warmest October on record for the globe U.S. Winter Outlook predicts warmer, drier South and cooler, wetter North
 
 *   About our agency
 *   News and features
