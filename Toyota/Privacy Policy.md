@@ -61,6 +61,7 @@ Hybrids &. FCV
 
 Upcoming Vehicles
 
+*   2018 C-HR View More Info
 *   Concept Vehicles View More Info
 
 Shopping Tools
@@ -1033,5 +1034,5 @@ Help
 *   2016 EPA-estimated city/highway mileage. Actual mileage will vary.  
     2017 EPA-estimated city/highway mileage. Actual mileage will vary.
 *   2017 Prius Prime EPA-estimated combined mpg. Actual mpg will vary based on driving habits, weather, temperature and road/traffic conditions. For more information on mpg, please see www.fueleconomy.gov.
-*   2017 Prius Prime EPA-estimated MPGe. Actual MPGe will vary and is dependent upon many factors, including charging practice, driving style, road/traffic conditions, outside temperature, air conditioning control levels, payload/cargo weight, proper tire pressure, vehicle maintenance, battery age and changes in energy costs. Battery capacity will decrease with time and use. For more information on MPGe and range, please see fueleconomy.gov
+*   2017 Prius Prime EPA-estimated combined MPGe. Actual MPGe will vary and is dependent upon many factors, including charging practice, driving style, road/traffic conditions, outside temperature, air conditioning control levels, payload/cargo weight, proper tire pressure, vehicle maintenance, battery age and changes in energy costs. Battery capacity will decrease with time and use. For more information on MPGe and range, please see fueleconomy.gov
 *   2016 EPA-estimated 67 city/67 highway/67 combined MPGe for Mirai and 312-mile driving range. Actual mileage will vary. Range measurement pursuant to SAE J2601 standards (ambient temperature: 20°C. hydrogen tank pressure when fueled: 70 MPa). Fueling time varies with hydrogen fueling pressure and ambient temperature.
