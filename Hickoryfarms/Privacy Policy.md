@@ -41,7 +41,8 @@
     *   Fruit &. Cheese Combo
 *   Gourmet Food &. Wine
     
-    View All Categories Shop by Category*   Wine
+    View All Categories Shop by Category*   Hickory Farms Reserve
+    *   Wine
     *   Mustards &. Spreads
     *   Crackers
     *   HoneyGold® Ham
@@ -117,7 +118,8 @@
     *   Fruit &. Cheese Combo
 *   Gourmet Food &. Wine
     
-    View All Categories Shop by Category*   Wine
+    View All Categories Shop by Category*   Hickory Farms Reserve
+    *   Wine
     *   Mustards &. Spreads
     *   Crackers
     *   HoneyGold® Ham
