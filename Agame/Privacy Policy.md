@@ -112,8 +112,8 @@ View more results
     *   Sparta: War Of Empires
     *   Klondike - the lost expedition
     *   World of Tanks
+    *   Bubble Shooter
     *   SuperSnake.io
-    *   Wormate io
     
     Mobile Apps More
     
