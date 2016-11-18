@@ -90,7 +90,6 @@ Stay Connected
 *   Instagram
 *   Youtube
 *   Facebook
-*   Tumblr
 *   Google Plus
 *   Pinterest
 *   LinkedIn
