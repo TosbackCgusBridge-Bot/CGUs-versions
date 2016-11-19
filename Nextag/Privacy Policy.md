@@ -1,14 +1,15 @@
-  Search for:
+*   Shop
+*   Deals
 
 *   Log In
 *   Sign Up
 *   Help
 
-**NexTag, Inc. - Website Privacy Statement/Your California Privacy Rights** Effective January 18, 2016  
+**NexTag, Inc. - Website Privacy Statement/Your California Privacy Rights** Effective January 18, 2016
 
 1.  SCOPE AND CHANGES
 
-Nextag, Inc. and/or our subsidiaries ("Nextag, " "us" or "we") operate the websites www.nextag.com, www.calibex.com and www.pricemachine.com (we refer to these websites as the "Websites"). This Website Privacy Statement is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties. This Website Privacy Statement applies only to the Websites. It does not apply to your use of any other websites (whether or not operated by us), including any websites to which we provide links or websites of our partners or advertisers, or to any activities which are not online. Some services referenced in this Privacy Statement are not available on some Websites. Portions of this Website Privacy Statement that pertain to such features or services may not be applicable on each of the Websites.
+Nextag, Inc. and/or our subsidiaries ("Nextag, " "us" or "we") operate the websites  www.nextag.com,  www.calibex.com and  www.pricemachine.com (we refer to these websites as the "Websites"). This Website Privacy Statement is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties. This Website Privacy Statement applies only to the Websites. It does not apply to your use of any other websites (whether or not operated by us), including any websites to which we provide links or websites of our partners or advertisers, or to any activities which are not online. Some services referenced in this Privacy Statement are not available on some Websites. Portions of this Website Privacy Statement that pertain to such features or services may not be applicable on each of the Websites.
 
 This Privacy Statement applies to all "users", including those who visit the Websites without being registered. This Website Privacy Statement is effective as of the date listed above. Even if you read and/or agreed to a prior privacy statement, you need to review this updated version. We reserve the right to revise this Website Privacy Statement at any time and at our discretion, as described in this paragraph. If we decide to change our Website Privacy Statement, we will post those changes to this Website Privacy Statement accessible on the homepages of the Websites, and other places we deem appropriate. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users via either email or by posting a notice on the Websites within a reasonable timeframe prior to such use taking effect.
 
@@ -35,7 +36,7 @@ You are not required to provide information about yourself when you visit our We
     
 *   Social Media Widgets: Our Website includes Social Media Features, such as the Facebook and Twitter buttons and Widgets. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
     
-*   Blog: Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at legalnotices@nextag.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+*   Blog: Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at  legalnotices@nextag.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
     
 *   Survey / Contest: We may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and email address). We use this information to improve our site, notify you if you won a contest or to send you an email newsletter or other marketing materials. We use SurveyMonkey a third party service provider to conduct these surveys. that company is prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a survey with other third parties unless we give you prior notice and choice.
     
@@ -50,15 +51,13 @@ You are not required to provide information about yourself when you visit our We
     
 *   Log Files: Log files store information including internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks, and are used to analyze trends, administer the Websites, track users' movement in the aggregate, and gather broad demographic information for aggregate use. We do not tie log files to personally identifiable information.
     
-*   Local Shared Objects: We use Local Shared Objects, such as Flash cookies and HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies and HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here:
+*   Local Shared Objects: We use Local Shared Objects, such as Flash cookies and HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies and HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click  here:
     
-    We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+    We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking  here. Please note this does not opt you out of being served ads. You will continue to receive generic ads.
     
 
 *   2.3 Information Supplied by Third Parties: We may receive information about you or your use of our or others' websites from other sources, including through the placement of our cookie or similar technology on third party merchant, partner and advertising sites. For example, we may receive product search or purchase information from merchants whose sites you visit after clicking on a product listing on our Website, updated or corrected contact information from third party vendors, credit or related information as part of vendors' fraud detection services (but only with users or merchant's permission to do so), or contact, demographic and other profile information through your interaction with us through social networking accounts, such as Facebook and Twitter (for example, by adding us as a friend on Facebook, following our Twitter account, or engaging in Facebook's "Like" feature). We also may receive or collect similar information from co-branded partners' sites that you visit.
-
 *   2.4 Combining Information: We may combine the information that we receive about you from different sources. For example, information about your use of one of our Websites may be combined with information about your use of a different Website or a co-branded partners' site.
-
 *   USES OF YOUR INFORMATION  
     
 
@@ -75,8 +74,6 @@ We may use the information that we collect or receive to create a user profile i
 *   Information about your use of our Websites and our partners' sites, such as your searches or browsing history, recently viewed items and the products you have purchased, to personalize your experience on the Websites and the search results that we provide you based on your interests, or make recommendations or suggestions to you and to provide you with content and advertising that is more relevant and interesting for you both on our Websites and on third party sites.
     
 *   Anonymous use and browsing information to improve the Websites and our services or third party services such as by analyzing what content or services are helpful or interesting to users, provide better recommendations, perform site optimization, managing content on our Websites by informing us what content and which campaigns are effective, and evaluating the effectiveness of our communications and our marketing campaigns.
-    
-    Anonymous use and browsing information to improve the Websites and our services or third party services such as by analyzing what content or services are helpful or interesting to users, provide better recommendations, perform site optimization, managing content on our Websites by informing us what content and which campaigns are effective, and evaluating the effectiveness of our communications and our marketing campaigns.
     
 *   To contact you regarding the status of your inquiries relating to services or products listed on our Websites or confirm, complete or update your registration or for any other business reason related to your use of our Websites.
     
@@ -115,7 +112,7 @@ Advertisers: We may share information with advertisers as described in the Inter
 
 *   ACCESSING, DELETING AND CHANGING YOUR PERSONALLY IDENTIFIABLE INFORMATION
 
-Registered users can review, update, amend, delete/remove personally identifiable information by signing in using your member name or email address and password, and in some cases, logging in through your social networking account, and then clicking on your "Account" or "Profile" link. Notwithstanding any request from you, we may retain a record of your information that is necessary to comply with applicable law or as necessary to manage your account. To view or change your preferences regarding your use of the Websites and our use of that information, including for the purpose of providing you with advertisements that may be of interest to you, please click here. For access and changes of any other data, please contact us at legalnotices@nextag.com or the address listed in Section 11 "Contact Us". Upon receipt of your request, which may be subject to identification verification, we will comply with appropriate data correction requests in accordance with applicable law. For access requests, we will respond within a reasonable timeframe upon receiving your request.
+Registered users can review, update, amend, delete/remove personally identifiable information by signing in using your member name or email address and password, and in some cases, logging in through your social networking account, and then clicking on your "Account" or "Profile" link. Notwithstanding any request from you, we may retain a record of your information that is necessary to comply with applicable law or as necessary to manage your account. To view or change your preferences regarding your use of the Websites and our use of that information, including for the purpose of providing you with advertisements that may be of interest to you, please click  here. For access and changes of any other data, please contact us at  legalnotices@nextag.com or the address listed in Section 11 "Contact Us". Upon receipt of your request, which may be subject to identification verification, we will comply with appropriate data correction requests in accordance with applicable law. For access requests, we will respond within a reasonable timeframe upon receiving your request.
 
 You should also note that if we have provided your information to third parties or if you have allowed third parties to access information through our Websites (such as by publishing your activity and interaction with our Websites to your social networking account, such as Facebook), you will have to make a separate request to them directly if you want to have your information removed from, or corrected in, their databases.
 
@@ -127,15 +124,15 @@ Nextag may display interest-based advertising, also known as personalized or tar
 
 Some of the advertisements that appear on the Websites are delivered or served to you by third-party Internet advertising companies (also called "ad networks" or "network advertisers"). These companies use certain technologies to deliver advertisements and marketing messages and also use cookies, clear gifs or similar methods to collect information, such as anonymous data about your visit to and use of the Websites and your interactions with their advertisements. These companies may use this information and information that they have collected from other websites to provide you with advertisements that are tailored to your interests. We do not have access to or control over cookies or other features that these companies may use, and the information practices of these advertisers and third-party Websites are not covered by this Website Privacy Statement. Please contact them directly for more information about their privacy practices.
 
-The Network Advertising Initiative and the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising offers useful information about Internet advertising companies including information about how to opt-out of their information collection practices. To receive further information or to opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, visit http://www.networkadvertising.org/index.asp and http://www.aboutads.info/choices/
+The  Network Advertising Initiative and the  Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising offers useful information about Internet advertising companies including information about how to opt-out of their information collection practices. To receive further information or to opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, visit  http://www.networkadvertising.org/index.asp and  http://www.aboutads.info/choices/
 
 *   CHOICE / OPT OUT POLICY
 
 Email: We understand you may not want to receive promotional email from us. You can choose to opt out of receiving promotional email communications by:
 
-Clicking here if you are a registered user.
+Clicking  here if you are a registered user.
 
-Email us at optout@nextag.com.
+Email us at  optout@nextag.com.
 
 Click the appropriate unsubscribe link contained within the email that you receive.
 
@@ -143,9 +140,9 @@ Please note that opting out may prevent you from receiving email regarding updat
 
 In some cases you have the option to submit personal information in order to forward this information to our partners that have products or services in which you may be interested. In the event we share this information with our partners (e.g., service providers), we no longer have control over the use of such information and your rights regarding such use will be governed by the policies of our partners. You will then have to contact them directly with any opt-out request.
 
-Advertising Preferences: We may collect information about your interaction with our advertisements by using advertising cookies. We may also allow advertising partners to record that you have visited the Websites to allow us to provide you with relevant advertising on the partners' sites. To opt-out of our advertising cookies or partner advertising cookies, please click here.
+Advertising Preferences: We may collect information about your interaction with our advertisements by using advertising cookies. We may also allow advertising partners to record that you have visited the Websites to allow us to provide you with relevant advertising on the partners' sites. To opt-out of our advertising cookies or partner advertising cookies, please click  here.
 
-Personalization Preferences: To change your preferences regarding your search and browsing history and our use of that information, including providing you with advertisements that may be of interest to you, please click here.
+Personalization Preferences: To change your preferences regarding your search and browsing history and our use of that information, including providing you with advertisements that may be of interest to you, please click  here.
 
 *   SECURITY MEASURES TO PROTECT YOUR PERSONAL INFORMATION
 
@@ -159,7 +156,7 @@ California Civil Code Section 1798.83 permits residents of California who use ou
 
 *   INTERNET CRIME COMPLAINT CENTER
 
-Nextag wants your Internet surfing experience to be safe. Help protect yourself. If you believe you have been a victim of Internet crime you can file a complaint with the Internet Crime Complaint Center (IC3), a partnership between the Federal Bureau of Investigation (FBI) and the National White Collar Crime Center. Their website is http://www.ic3.gov/.
+Nextag wants your Internet surfing experience to be safe. Help protect yourself. If you believe you have been a victim of Internet crime you can file a complaint with the Internet Crime Complaint Center (IC3), a partnership between the Federal Bureau of Investigation (FBI) and the National White Collar Crime Center. Their website is  http://www.ic3.gov/.
 
 *   CHOICE / OPT OUT POLICY
 
@@ -171,38 +168,55 @@ If you have any questions about this Website Privacy Statement, the practices of
 
 Privacy Officer  
 Nextag Inc.  
-555 Twin Dolphin Drive\\\\  
-Suite 370  
+800 Bridge Parkway  
+Suite 200  
 Redwood City, CA 94065  
-legalnotices@nextag.com
+ legalnotices@nextag.com
 
-Return to Top  
-Shopping About US
+Return to Top
 
-*   About Nextag
-*   Careers
+Shopping*   Baby
+*   Books, 
+*   CDs, 
+*   &. DVDs
+*   Clothing &. Accessories
+*   Collectibles &. Art
+*   Computers 
+*   &. Software
+*   Electronics
+*   Flowers &. Plants
+*   Food &. Wine 
+*   &. Baskets
+*   Health &. Beauty
+*   Home &. Garden
+*   Jewelry &. Watches
+*   Office Products
+*   Sports &. Outdoors
+*   Video Games 
+*   &. Toys
 
-International
-
-*   Australia
+About US*   About Nextag
+International*   Australia
 *   France
 *   Germany
 *   Japan
 *   United Kingdom
 
-Merchant Customer Service My Account
+Merchant*   Merchant Login
+*   Advertising Programs
+*   Sell at Nextag
+Customer Service*   Sign In
+*   Terms of Use
+*   Privacy Policy
+*   Contact Us
 
-*   Sign In
-*   My Lists
+My Account*   Sign In
 *   Register
 *   Manage Radar
 *   Preferences
-
-How Are We Doing?
-
-*   Tell Us What You Think
+How Are We Doing*   Tell Us What You Think
 
 *   Find us on Facebook
 *   Follow us on Twitter
 
-© 1999-2016, Nextag, Inc. View Recent: Products (0) | Searches (0) | Sellers (0) My Favorites: Products (0) | Searches (0) | Brands (0) | Sellers (0) | My Lists (0)
+Get deals, exclusive offers and more! Learn More Nextag is committed to protecting your privacy. Read our privacy policy. NexTag. Scroll To Top|About us|Terms of Use|Privacy Policy (New)| © 1999-2016, Nextag, Inc.
