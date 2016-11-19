@@ -80,13 +80,13 @@ Aéropostale
     *   Sleep
 *   GIFT GUIDE
     
-    *   GIRLS
+    *   View All
     *   Best Deals
     *   Stocking Stuffers
     *   Bundle Up
     *   Holiday Party
     
-    *   GUYS
+    *   View All
     *   Best Deals
     *   Stocking Stuffers
     *   Bundle Up
