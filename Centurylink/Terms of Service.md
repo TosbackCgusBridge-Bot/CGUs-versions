@@ -126,7 +126,7 @@ A telephone or account number is required. You must enter a valid telephone or a
 Go  
 How can I find my Account Number?  
   
-Why is this needed? As CenturyLink and Qwest merge companies, we are working hard to combine our systems. By supplying your home telephone or account number we will be able to get you to the right location. Thank you for your patience during the merger process.   OK Customer Info Close Window For Home For Business
+Why is this needed? As CenturyLink and Qwest merge companies, we are working hard to combine our systems. By supplying your home telephone or account number we will be able to get you to the right location. Thank you for your patience during the merger process.   OK Attention! Your browser settings show that JavaScript is disabled. Customer Info Close Window For Home For Business
 
 *   Small Business - Up to 10 Employees
 *   Medium Business - More than 10 Employees
@@ -184,7 +184,7 @@ back to top
 *   Tariff Library
 *   Internet Service Management
 
-  
+Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings show that JavaScript is disabled.  
 
 About Us | Careers | Investor Relations | Legal | Legal Notices | Privacy Policy | Site Map | Tariffs | Customers with Disabilities | Contact Us  
   
@@ -192,4 +192,4 @@ Store Locator | White/Yellow Pages White/Yellow Pages | Email Offers | Referral 
   
 For Home | Small Business | Medium Business | Enterprise | Wholesale  
   
-© 2016, CenturyLink. All Rights Reserved. Feedback   Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings shows that JavaScript is disabled,please enable for better view Attention! Your browser settings show that JavaScript is disabled.
+© 2016, CenturyLink. All Rights Reserved. Feedback   Search Text Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings shows that JavaScript is disabled,please enable for better view Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings show that JavaScript is disabled.
