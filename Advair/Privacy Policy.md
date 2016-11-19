@@ -161,6 +161,7 @@ GSK Global Website www.gsk.com
             *   Meningococcal disease fact sheet
             *   Hour of Power Rowing &. Cycling Challenge
             *   Knowledge gaps in vaccination against meningococcal disease
+        *   Flulaval Quadrivalent for infants 6 months and older
     *   Infographics
     *   Media contacts
     *   Corporate reporting
