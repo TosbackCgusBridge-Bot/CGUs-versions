@@ -49,11 +49,12 @@ menu 0
     FEATURED SHOPS
     
     *   New Arrivals
-    *   Holiday Dressing
+    *   Best of Holiday
     *   Ultimate Coat Finder
     *   The Starfish Collection
     *   Cardigan Shop
     *   Tunic Shop
+    *   Gifts for Her
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -98,6 +99,7 @@ menu 0
     *   Supima Shirts &. Sweaters
     *   Legends Of Fall
     *   Ultimate Coat Finder
+    *   Gifts for Him
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -138,6 +140,8 @@ menu 0
     *   New Arrivals
     *   Outerwear Shop
     *   Holiday Looks
+    *   Gifts for Girls
+    *   Gifts for Boys
     *   School Uniforms
     *   Iron Knee Pants
     *   Girls' Knit Kit
@@ -401,11 +405,12 @@ menu 0
     Back | Women FEATURED SHOPS Back | Women
     
     *   New Arrivals
-    *   Holiday Dressing
+    *   Best of Holiday
     *   Ultimate Coat Finder
     *   The Starfish Collection
     *   Cardigan Shop
     *   Tunic Shop
+    *   Gifts for Her
     *   Sale
     
     SHOP BY SIZE RANGE Back | Women
@@ -450,6 +455,7 @@ menu 0
     *   Supima Shirts &. Sweaters
     *   Legends Of Fall
     *   Ultimate Coat Finder
+    *   Gifts for Him
     *   Sale
     
     SHOP BY SIZE RANGE Back | Men
@@ -490,6 +496,8 @@ menu 0
     *   New Arrivals
     *   Outerwear Shop
     *   Holiday Looks
+    *   Gifts for Girls
+    *   Gifts for Boys
     *   School Uniforms
     *   Iron Knee Pants
     *   Girls' Knit Kit
