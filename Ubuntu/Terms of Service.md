@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
-*   How to create Snap packages on Qt applications ›
-*   Kubernetes the Easy Way ›
+*   How to create snap packages on Qt applications ›
+*   Kubernetes the easy way ›
 *   Microsoft loves Linux. SQL Server Public Preview available on Ubuntu ›
 *   Charm Partner Newsletter: November 2016 ›
