@@ -94,10 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Wed, Nov 16, 2016 From Sign-up to Opt-out: Results &. Best Practices from Email Audit
-
-With Yes Lifecycle Marketing’s patronage, The Online Trust Alliance (OTA) conducted a comprehensive, independent audit of the top 200 online retailers to examine the entire email engagement process, from signing up for a brand’s emails to opting out of its email program. Register to learn best practices for every step of the email mailing process – from effective signup pages, through email validation, and efficient opt-out tactics.
-
 Tue, Nov 29, 2016 Google Security Alert: Why You Need to be Trusted in 2017
 
 With an upcoming release of the Chrome browser, Google has provided you with an important reason to secure your entire website and online applications. In January 2017, Google and other browsers will begin flagging non-secure sites that accept passwords or payments with a security alert, letting users know their data is not protected. Ultimately, all non-secure sites will have a security warning. During this live event, we will take you through the upcoming browser changes, what to expect and how you can prepare for new requirements. 
@@ -109,6 +105,10 @@ It seems that every week we hear that another company has just made the news and
 Tue, Dec 6, 2016 IoT Security Foundation Conference 2016 - London
 
 Building an Internet of Trust. The conference will look at what it takes to build an Internet of Trusted Things, what is currently underway, what we can learn from the past to predict the future and the necessary duties of care providers and adopters need to ensure.
+
+Wed, Dec 7, 2016 Fall Technology Series: Smart TV
+
+Consumers enjoy recommendations based on their television viewing habits (“viewers who watched Mr. Robot… may enjoy Fight Club”), but who else knows what you’re watching? The golden age of television has arrived with the golden age of television tracking. In 2016, virtually all television delivery systems – smart TVs, streaming devices, game consoles, apps, and even old-fashioned set top boxes – track consumers’ viewing habits, and sometimes in new and unexpected ways.
 
 More >>.
 
