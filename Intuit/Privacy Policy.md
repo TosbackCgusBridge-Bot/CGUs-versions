@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15566976664
+true true C15569007848
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Fri Nov 18 11:04:31 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Sat Nov 19 11:15:28 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -54,35 +54,33 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Lowest Price. Guaranteed! Find a lower price at our competitor? Tell us and we’ll beat it by 5%\*
-
-\*Some restrictions apply.
-
-Get Details: Ready. Set. Celebrate! In Store &. Online | Ends November 19 Shop Now View Store AdDoorbusters | Friday 3PM CST through Saturday 1PM CST
-
-Use your coupon and save even more!
-
-DOORBUSTER 19.99 Worthington Tops
-
-Select styles, orig. $42
-
-Shop Worthington TopsDOORBUSTER 14.99 Stafford Travel Easy-Care Broadcloth Dress Shirt
-
-Select styles, reg. $36
-
-Shop Dress ShirtsDOORBUSTER 15.99 Total Girl Dresses
-
-Select styles, reg. $42
-
-Shop Total Girl DressesDOORBUSTER 29.99 Liz Claiborne Dress Shoes
-
-Select styles, reg. $60
-
-Shop Liz Claiborne Dress Shoes Home Sale 30 to 50% Off
+Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys Home Sale 30 to 50% Off
 
 Select styles.
 
-Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses   Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys Black Friday Deals Sneak Peek Preview the deals &. make your list!
+Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses   Ready. Set. Celebrate! In Store &. Online | Ends November 19 Shop Now View Store Ad 24.99 Worthington Tops
+
+Select styles, orig. $42
+
+Shop Worthington TopsBuy 1 Get 1 For .01 Men's Dress Shirts &. Neckwear\*
+
+Select styles, reg. $18-$60
+
+\*Buy one item at regular price, get a second item of equal or lesser value for one cent while supplies last.
+
+Shop Men's Dress Shirts &. Neckwear19.99 Total Girl Dresses
+
+Select styles, reg. $42
+
+Shop Total Girl Dresses39.99 Liz Claiborne Dress Shoes
+
+Select styles, reg. $60
+
+Shop Liz Claiborne Dress Shoes Lowest Price. Guaranteed! Find a lower price at our competitor? Tell us and we’ll beat it by 5%\*
+
+\*Some restrictions apply.
+
+Get Details: Black Friday Deals Sneak Peek Preview the deals &. make your list!
 
 Starts Online Wednesday, November 23
 
@@ -94,7 +92,7 @@ Get Coupon: SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Nov 18 23:01:00 CST 2016 JVM :->. dtexppr1l2j1\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p06.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Nov 19 00:01:04 EST 2016 JVM :->. dtexppr1c3j5\_06 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p05.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Nov 19 23:01:24 CST 2016 JVM :->. dtexppr1l3j4\_05 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Nov 19 22:56:53 CST 2016 JVM :->. dtexppr1l2j3\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
