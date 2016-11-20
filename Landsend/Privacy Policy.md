@@ -97,7 +97,7 @@ menu 0
     *   New Arrivals
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
-    *   Legends Of Fall
+    *   Holiday Style Guide
     *   Ultimate Coat Finder
     *   Gifts for Him
     *   Sale
@@ -453,7 +453,7 @@ menu 0
     *   New Arrivals
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
-    *   Legends Of Fall
+    *   Holiday Style Guide
     *   Ultimate Coat Finder
     *   Gifts for Him
     *   Sale
