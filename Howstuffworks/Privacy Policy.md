@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
+**Can Spicy Food Really Burn Out Taste Buds?**
+
 **The Chinese Are a Magnet Superpower**
 
 **5 Things You Didn't Know About Alan Shepard**
-
-**Aging Bonobos Experience Vision Deterioration Just Like Humans Do**
 
 **See More Headlines »**
 
