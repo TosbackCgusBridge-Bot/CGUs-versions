@@ -108,7 +108,7 @@ View more results
     Join for free
 *   Hot Games
     
-    *   Sparta: War Of Empires
+    *   Imperia Online
     *   Klondike - the lost expedition
     *   World of Tanks
     *   Bubble Shooter
