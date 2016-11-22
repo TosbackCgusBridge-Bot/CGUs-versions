@@ -15,6 +15,7 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     
     *   Award Winners
     *   Clearance
+    *   Holiday Savings
     
     See all
     
@@ -37,29 +38,29 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     
     See all
     
-    *   Alvin and the Chipmunks
     *   Everything Baby
     *   Little People®
     *   Thomas &. Friends™
     *   Imaginext®
-    
     *   Laugh &. Learn™
+    
     *   Think &. Learn
     *   Loving Family™
     *   Power Wheels®
     *   Bright Beats™
-    
     *   Shimmer and Shine™
+    
     *   Disney
     *   Mega Bloks® Preschool
     *   Grow-With-Me
     *   Blaze and the Monster Machines™
-    
     *   Bob the Builder™
+    
     *   Dora &. Friends™
     *   The Octonauts
     *   Smart Toy®
     *   Spinnyos™
+    *   Doodle Pro
     
     See all
     
