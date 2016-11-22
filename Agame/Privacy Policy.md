@@ -108,10 +108,10 @@ View more results
     Join for free
 *   Hot Games
     
-    *   Imperia Online
+    *   League of Angels II
+    *   Sparta: War Of Empires
     *   Klondike - the lost expedition
     *   World of Tanks
-    *   Bubble Shooter
     *   SuperSnake.io
     *   Wormate io
     
