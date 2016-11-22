@@ -44,7 +44,7 @@ Sign In to Your Account!
 
 Source &. Screen  
 
-A powerhouse team of project managers dedicated to growing your candidate pool at record speed.  
+A powerhouse team dedicated to sourcing candidates to grow your talent pool at record speed.
 
 *   Overview
 *   Features
