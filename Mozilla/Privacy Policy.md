@@ -1,8 +1,7 @@
 Mozilla Menu
 
-*   About
+*   Internet Health
 *   Web Innovations
-*   Firefox
 *   Donate
 
 Home >. Mozilla Privacy >. Websites, Communications &. Cookies Privacy Notice
@@ -64,6 +63,7 @@ Back to Mozilla Privacy Policy Mozilla
 
 Portions of this content are ©1998–2016 by individual mozilla.org contributors. Content available under a Creative Commons license.
 
+*   About
 *   Contact Us
 *   Donate
 *   Contribute to this site
