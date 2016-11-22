@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Can Spicy Food Really Burn Out Taste Buds?**
+**Rats Are Ticklish Just Like Humans, New Study Shows**
 
-**The Chinese Are a Magnet Superpower**
+**Want to Get Students Psyched About STEM? Ask Them to Launch a Satellite**
 
-**5 Things You Didn't Know About Alan Shepard**
+**Probing the Undersea Dead Zone Known as the Hot Tub of Despair**
 
 **See More Headlines »**
 
