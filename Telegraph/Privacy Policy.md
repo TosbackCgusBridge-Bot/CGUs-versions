@@ -32,7 +32,7 @@ We might also collect your IP address through the placement of cookies (see sect
 
 (1) remember you when you visit our website and track your browsing patterns by using cookies. You can prevent this. section 5 deals with this in more detail.
 
-(2) place your anonymised information into audience segments to identify your interests so that we might serve you with advertisements and offers that will interest you
+(2) Use your anonymised information to identify your interests. We might then put your anonymised information into audience segments, which means we can serve you advertisements and offers that will interest you. See Section 7.
 
 (3) ensure any products or services you receive are correctly administered (including subscriptions).
 
@@ -50,7 +50,9 @@ We might also collect your IP address through the placement of cookies (see sect
 
 5.1 You can update your details and marketing preferences by accessing your account pages on the website, by emailing data.protection@telegraph.co.uk or by writing to us at Data Department, Victory House, Meeting House Lane, Chatham, Kent, ME4 4TT.
 
-5.2 You have the right to access the personal information held about you. To obtain a copy of the personal information we hold about you, please send an email to data.protection@telegraph.co.uk. There will be an administrative charge of £10 for providing a copy of this information.
+5.2 You can de-link your social media account from your Telegraph account by emailing data.protection@telegraph.co.uk or by calling 0800 55 20 20. When your social media account is de-linked, this may result in your data being deleted from your Telegraph account. The implications will be explained to you at the point of your request to de-link.
+
+5.3 You have the right to access the personal information held about you. To obtain a copy of the personal information we hold about you, please send an email to data.protection@telegraph.co.uk. There will be an administrative charge of £10 for providing a copy of this information.
 
 **6\. Cookies**
 
