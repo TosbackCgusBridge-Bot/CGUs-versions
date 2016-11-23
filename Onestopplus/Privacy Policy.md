@@ -5,7 +5,7 @@ you are looking for, please
 
 Privacy Policy
 
-Privacy Policy Last updated on: September 8, 2016
+Privacy Policy Last updated on: November 22, 2016
 
   
   
@@ -24,6 +24,7 @@ Our Privacy Policy addresses the following:
 *   How Do We Use the Information Collected?
 *   What Information Is Shared And With Whom Is It Shared?
 *   Do We Use Third-Party Advertising?
+*   California Privacy Rights
 *   How Can I Access and Correct Information Collected?
 *   How Can I Opt Out of Receiving Further Communications  
          How to be Removed from a Paper Catalog Mailing List  
@@ -46,7 +47,7 @@ Our Privacy Policy addresses the following:
 
   Safe Harbor Certification
 
-The Safe Harbor program is an international data privacy program co-sponsored by the U.S. Department of Commerce and the European Commission. We voluntarily certified adherence to the U.S.-E.U. and the U.S.-Swiss Safe Harbor frameworks for the customer data that we collect. Through these certifications, we commit to uphold the Safe Harbor principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement. You can learn more about those principles and our obligations under the Safe Harbor Certification Program by going to the U.S. Department of Commerce's Safe Harbor website at: www.export.gov/safeharbor/. You can also view FULLBEAUTY Brands' Safe Harbor certification information through that site. If you have questions about FULLBEAUTY Brands' Safe Harbor privacy practices or You can also view our Safe Harbor certification information through that site. If you have questions about our Safe Harbor privacy practices or believe that your information has been mismanaged, you can contact us by sending an e-mail to PrivacyOfficer@FBBrands.com.
+The Safe Harbor program is an international data privacy program co-sponsored by the U.S. Department of Commerce and the Swiss Government. We voluntarily certified adherence to the U.S.-Swiss Safe Harbor framework for the customer data that we collect. Through this certification, we commit to uphold the Safe Harbor principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement. You can learn more about those principles and our obligations under the Safe Harbor Certification Program by going to the U.S. Department of Commerce's Safe Harbor website at: http://2016.export.gov/safeharbor/swiss/ You can also view FULLBEAUTY Brands' Safe Harbor certification information through that site. If you have questions about FULLBEAUTY Brands' Safe Harbor privacy practices or You can also view our Safe Harbor certification information through that site. If you have questions about our Safe Harbor privacy practices or believe that your information has been mismanaged, you can contact us by sending an e-mail to PrivacyOfficer@FBBrands.com.
 
   Who is FULLBEAUTY Brands?
 
@@ -118,6 +119,10 @@ As an additional step, if you would prefer not to participate in the services of
 
 *   Consumer opt-out: All Network Advertising Initiative Participating Networks
 
+California Privacy Rights
+
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us, one time per year, for a notice describing what categories of personal information we share with third parties or corporate affiliates (including other brands within the FULLBEAUTY family of brands) for those third partiesâ or corporate affiliates' direct marketing purposes. That notice will identify the categories of personal information shared with third parties and used for direct marketing purposes and the name and address of the third parties that received such personal information. If you are a California resident and want a copy of this notice, please submit a written request to the following address: FullBeauty Brands Customer Service, P.O. Box 12901, El Paso, TX 79913. In your request, please specify that you want "Your FullBeauty Brands California Privacy Rights Notice." Please allow 30 days for a response.
+
 How to Access and Correct Information Collected?
 
 You can update or correct your name, address, telephone number or email address anytime by visiting our websites and clicking on the My Account or Login link at the top of our websites and registering/logging in with your username/email address and password. You can also call, write, fax or email us to access or correct any of this information. See the table below to update your information with any or all of our brands.
@@ -125,15 +130,15 @@ You can update or correct your name, address, telephone number or email address 
 How to access and correct your information Brand Edit Information Online Postal Address Customer Service Number Fax Number Bargain Catalog Outlet Please visit  
 My Account on  
 bcoutlet.com BCO  
-PO Box 12901  
-El Paso, TX 79913 (888) 289-2815  
+500 S Mesa Hills Dr.,  
+El Paso, TX 79912 (888) 289-2815  
   
 TDD Hearing Impaired:  
 (888) 355-3096 (888) 355-3098 BrylaneHome Please visit  
 My Account on  
 brylanehome.com BrylaneHome  
-PO Box 12901  
-El Paso, TX 79913 (800) 677-0339  
+500 S Mesa Hills Dr.  
+El Paso, TX 79912 (800) 677-0339  
   
 TDD Hearing Impaired:  
 (800) 528-5149 (800) 528-5152 Jessica London Please visit  
@@ -146,23 +151,23 @@ TDD Hearing Impaired:
 (800) 978-8798 (800) 448-5767 KingSize Please visit  
 My Account on  
 kingsizedirect.com KingSize  
-PO Box 12901  
-El Paso, TX 79913 (800) 677-0249  
+500 S Mesa Hills Dr.  
+El Paso, TX 79912 (800) 677-0249  
   
 TDD Hearing Impaired:  
 (800) 682-8095 (800) 682-8109 fullbeauty Please visit  
 My Account on  
 fullbeauty.com fullbeauty  
-PO Box 12901  
-El Paso, TX 79913 (800) 400-5527  
+500 S Mesa Hills Dr.  
+El Paso, TX 79912 (800) 400-5527  
   
 TDD Hearing Impaired:  
 (800) 456-7161  
 (800) 456-9838 Roaman's Please visit  
 My Account on  
 roamans.com Roaman's  
-PO Box 12901  
-El Paso, TX 79913 (800) 677-0229  
+500 S Mesa Hills Dr.  
+El Paso, TX 79912 (800) 677-0229  
   
 TDD Hearing Impaired:  
 (800) 274-0260 (800) 274-3102 Woman Within Please visit  
@@ -181,7 +186,7 @@ Dallas, TX 75238 (888) 241-SWIM NA Ellos Please visit
 My Account on  
 ellos.us Ellos  
 c/o FULLBEAUTY Brands  
-500 S Mesa Hills Dr  
+500 S Mesa Hills Dr.  
 El Paso, TX 79912 (800) 405-3650  
   
 TDD Hearing Impaired:  
