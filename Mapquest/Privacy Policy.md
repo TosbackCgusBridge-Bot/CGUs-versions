@@ -60,8 +60,6 @@ privacyquestions@aol.com
 
 AOL is a member of the Network Advertising Initiative and is committed to complying with the Digital Advertising Alliance (DAA) Self-Regulatory Principles for Online Behavioral Advertising.
 
-Print
-
 AOL Inc. | Privacy | Terms of Service | About Our Ads
 
 © 2016, AOL Inc. All rights reserved.
