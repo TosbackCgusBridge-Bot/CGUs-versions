@@ -76,7 +76,7 @@
         
           
           
-        Give a Buckle Gift card MILITARY GUESTS, GET FREE STANDARD SHIPPING ON ORDERS OVER $150. SEE DETAILS
+        Give a Buckle Gift card TREAT YOURSELF! ENJOY A GIFT WITH PURCHASE. SEE DETAILS.
 *   Men
     *   *   Featured
         
@@ -128,7 +128,7 @@
         
           
           
-        Give a Buckle Gift card MILITARY GUESTS, GET FREE STANDARD SHIPPING ON ORDERS OVER $150. SEE DETAILS
+        Give a Buckle Gift card TREAT YOURSELF! ENJOY A GIFT WITH PURCHASE. SEE DETAILS.
 *   Kids
     *   *   Featured
         
@@ -155,7 +155,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card MILITARY GUESTS, GET FREE STANDARD SHIPPING ON ORDERS OVER $150. SEE DETAILS
+        Give a Buckle Gift card TREAT YOURSELF! ENJOY A GIFT WITH PURCHASE. SEE DETAILS.
 *   Jeans
     *   *   Women's Jeans
         
@@ -177,7 +177,7 @@
         *   Kid's Jeans
         
         *   Girl's Jeans
-        *   Boy's JeansGive a Buckle Gift card MILITARY GUESTS, GET FREE STANDARD SHIPPING ON ORDERS OVER $150. SEE DETAILS
+        *   Boy's JeansGive a Buckle Gift card TREAT YOURSELF! ENJOY A GIFT WITH PURCHASE. SEE DETAILS.
 *   New
     *   *   Women's New
         
@@ -206,7 +206,7 @@
         *   Shop All
         *   Boy's New Tops
         *   Boy's New Jeans
-        *   Shop AllGive a Buckle Gift card MILITARY GUESTS, GET FREE STANDARD SHIPPING ON ORDERS OVER $150. SEE DETAILS
+        *   Shop AllGive a Buckle Gift card TREAT YOURSELF! ENJOY A GIFT WITH PURCHASE. SEE DETAILS.
 *   Sale
     *   *   Women's Sale
         
@@ -247,7 +247,7 @@
         
           
           
-        Give a Buckle Gift card MILITARY GUESTS, GET FREE STANDARD SHIPPING ON ORDERS OVER $150. SEE DETAILS
+        Give a Buckle Gift card TREAT YOURSELF! ENJOY A GIFT WITH PURCHASE. SEE DETAILS.
 
 A Global Message! × Privacy &. Security
 
