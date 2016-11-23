@@ -68,12 +68,12 @@ We partner with a third party ad network to either display advertising on our We
 
 **How Will I Know if the Privacy Policy Is Changed?** If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-Inside Forbes ShotSpotter Alerts Police To Gunfire, Makes Few Results What happens once police respond to the reports?
+Inside Forbes Inside Magic Leap, The $4.5B Startup Changing Computing Top-secret startup Magic Leap has raised a record-breaking amount of money in pursuit of a radical concept.
 
-*   Apple Keeps Constant Log Of iPhone Calls In iCloud
-*   Witherspoon Launches New Multimedia Venture
+*   Cities Where Your Salary Will Stretch The Furthest
+*   Little Passports' Founders Survived Without VC Cash
 
-*   How Much Do You Need To Retire These Days?
+*   Alaska And Oil: A Lesson In Biting The Hand That Feeds
 *   Real-Time Billionaires
 
 *   Forbes
