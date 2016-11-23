@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms GOES-R: We have liftoff! AROUND NOAA // GOES-R heads to orbit, will improve weather forecasting Last month tied as 3rd warmest October on record for the globe U.S. Winter Outlook predicts warmer, drier South and cooler, wetter North
+Enter Search Terms Thanksgiving holiday weekend forecast Rain, winter weather in Pacific Northwest could impact travel AROUND NOAA // GOES-R heads to orbit, will improve weather forecasting Photo story: California sea lion pups stage healthy comeback Last month tied as 3rd warmest October on record for the globe
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-NOAA
+iStock
