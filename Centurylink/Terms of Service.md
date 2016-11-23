@@ -1,5 +1,8 @@
-Customer Info Close Window You must enter a zip code. A zipcode must contain five digits. Please enter a valid zip code. We had an unexpected error, please try again. Zip code at service address: (required)  
-Service address zip: change  
+Customer Info Close
+
+We need your zip code to check for service in your area.
+
+You must enter a zip code. A zipcode must contain five digits. Please enter a valid zip code. We had an unexpected error, please try again. Zip code (required) Service address zip: change  
 Attention: We cannot match your zip code properly. Please indicate below which company used to provide service to your area in the past.  
   
 A company selection is required.  
@@ -13,7 +16,13 @@ CenturyLink\*
 \*CenturyLink includes former ElPasoTel customers
 
   
-Help Why is this needed? As CenturyLink and Qwest merge companies, we are working hard to combine our systems. By supplying your service address zip code we will be able to get you to the right location. Thank you for your patience during the merger process. Sorry, we don't recognize the information you provided.  
+Continue Help
+
+*   Why is this needed?
+
+As CenturyLink and Qwest merge companies, we are working hard to combine our systems. By supplying your service address zip code we will be able to get you to the right location. Thank you for your patience during the merger process.
+
+Sorry, we don't recognize the information you provided.  
   
 
 What would you like to do?
@@ -25,15 +34,13 @@ I'd like to try to enter my information again.
   
   
   
-Not sure what to do? Try Customer Service Customer Info Close Window
+Not sure what to do? Try Customer Service Check Availability Already a customer? Sign in Customer Account Info New customer?
 
-To customize your pricing and feature options we need a little more information.
+Please enter your service address so we can show you accurate pricing and product availability in your area.
 
-A valid service address is required A street address is required A city is required A state is required Please enter a valid zip code Please enter a valid zip code Your zip code is unrecognized. Please try again. We had an unexpected error, please try again. New Customers
+Sign in with your account user name and password so that we can show you the pricing options available to you. Don't have an account yet? Enroll Now
 
-Please enter your service address so we can show you accurate pricing product availability in your area.
-
-Address (required) (Example: 123 Main Street, Denver, CO 80123) Unit Number (If applicable: apartment, unit, lot, suite number)  
+A valid service address is required A street address is required A city is required A state is required Please enter a valid zip code Please enter a valid zip code Your zip code is unrecognized. Please try again. We had an unexpected error, please try again. Address (required) Unit Number  
 Attention: We cannot match your zip code properly. Please indicate below which company used to provide service to your area in the past.  
   
 A company selection is required.  
@@ -45,12 +52,7 @@ CenturyLink\*
 
 \*CenturyLink includes former ElPasoTel customers
 
-Current Customers
-
-Log in with your account username and password so that we can show you the pricing options available to you. Don't have an account yet? Select "Enroll Now" on the My Account Login page to create one now.
-
   
-**My Account**  
 A username is required. A password is required. We had an unexpected error, please try again.  
 Select the company you set up your account with, and enter your user name and password.  
   
@@ -68,7 +70,12 @@ example: 333-222-2222
   
   
 
-By inputting your account information and clicking the "Show My Options" button, you provide consent to CenturyLink to access your account information, including the services you subscribe to, to respond to your inquiry and inform you of CenturyLink's products and services. You may deny us permission by proceeding no further and your denial will have no affect on your current services. Under federal law, it is your right and our duty to protect your account information.
+*   How does CenturyLink protect my information?
+*   How do we protect your account information?
+
+Like most companies, we have certain information about our customers and use it to provide our services. We also share it as needed to meet our business goals or fulfill our legal obligations. We protect the information we have about our customers, and we require those we share it with to protect it too.
+
+By inputting your account information and clicking the "Show My Options" button, you provide consent to CenturyLink to access your account information, including the services you subscribe to, to respond to your inquiry and inform you of CenturyLink's products and services. You may deny us permission by proceeding no further and your denial will have no affect on your current services. Under federal law, it is your right and our duty to protect your account information. Learn more or Close This Window
 
 Sorry, we don't recognize the information you provided.  
   
@@ -126,7 +133,8 @@ A telephone or account number is required. You must enter a valid telephone or a
 Go  
 How can I find my Account Number?  
   
-Why is this needed? As CenturyLink and Qwest merge companies, we are working hard to combine our systems. By supplying your home telephone or account number we will be able to get you to the right location. Thank you for your patience during the merger process.   OK Attention! Your browser settings show that JavaScript is disabled. Customer Info Close Window For Home For Business
+Why is this needed? As CenturyLink and Qwest merge companies, we are working hard to combine our systems. By supplying your home telephone or account number we will be able to get you to the right location. Thank you for your patience during the merger process.   OK OK OK  
+Attention! Your browser settings show that JavaScript is disabled. Customer Info Close Window For Home For Business
 
 *   Small Business - Up to 10 Employees
 *   Medium Business - More than 10 Employees
@@ -149,7 +157,7 @@ Attention! Your browser settings show that JavaScript is disabled.
 *   Governance
 *   Legal
 
-Attention! Your browser settings show that JavaScript is disabled. Qwest's Acceptable Use Policy
+Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings show that JavaScript is disabled. Qwest's Acceptable Use Policy
 
 Qwest has formulated this Acceptable Use Policy ("AUP") in order to encourage the responsible use of Qwest's networks, systems, services, web sites and products (collectively, the "Qwest Network and Services") by our customers and other users of the Qwest Network and Services (collectively, "Users"), and to enable us to provide Users with secure, reliable and productive services. By using the Qwest Network and Services, Users consent to be bound by the terms of this AUP. Qwest reserves the right to modify this AUP in its discretion at any time. Such modifications will be effective when posted. Any use of the Qwest Network and Services after such modification shall constitute acceptance of such modification.
 
