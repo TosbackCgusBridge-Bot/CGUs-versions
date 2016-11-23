@@ -8,6 +8,7 @@ Toggle navigation
 *   Newsroom|
 *   Support|
 *   Contact|
+*   Sign-Up|
 
 Toggle navigation
 
@@ -124,6 +125,7 @@ Quick links
 *   Careers
 *   Leadership
 *   Developers
+*   Sign-Up
 
 Email Us
 
