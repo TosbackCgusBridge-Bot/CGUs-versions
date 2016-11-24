@@ -1,4 +1,4 @@
-**Last Revised: October 25, 2016**
+**Last Revised: November 23, 2016**
 
 Please read this Domain Name Proxy Agreement ("Agreement") carefully. By using the Services and/or website of Domains By Proxy, LLC, a Delaware limited liability company ("DBP"), You (as defined below) agree to all the terms and conditions set forth both herein and in the DBP privacy policy, which is incorporated by reference and can be found by clicking here.  You acknowledge that DBP may amend this Agreement at any time upon posting the amended terms on its website, and that any new, different or additional features changing the services provided by DBP will automatically be subject to this Agreement. If You do not agree to be bound by, or if You object to, the terms and conditions of this Agreement and any amendments hereto, do not use or access DBP's services. Continued use of DBP's services and its website after any such changes to this Agreement have been posted, constitutes Your acceptance of those changes.
 
@@ -49,6 +49,7 @@ You agree to:
 1.  Notify DBP within three (3) calendar days when any of the personal information You provided upon subscribing to DBP's services, changes;
 2.  Respond within three (3) calendar days to any inquiries made by DBP to determine the validity of personal information provided by You. and
 3.  Timely respond to email messages DBP sends to You regarding correspondence DBP has received that is either addressed to or involves You and/or Your domain name registration, as more fully set forth in Section 5(c) below.
+4.  To allow DBP to act as your Designated Agent (as that term is defined below) in instances when DBP services are added to or cancelled from your domain name and for the purpose of facilitating a change of registrant request (as further described below). 
 
 It is Your responsibility to keep Your personal information current and accurate at all times.
 
@@ -66,6 +67,10 @@ Account Security
 
 You agree You are entirely responsible for maintaining the confidentiality of Your customer number/login ID and password ("Account Access Information").  You agree to notify DBP immediately of any unauthorized use of Your account or any other breach of security.  You agree DBP will not be liable for any loss that You may incur as a result of someone else using Your Account Access Information, either with or without Your knowledge.  You further agree You could be held liable for losses incurred by DBP or another party due to someone else using Your Account Access Information.  For security purposes, You should keep Account Access Information in a secure location and take precautions to prevent others from gaining access to Your Account Access Information.  You agree that You are entirely responsible for all activity in Your account, whether initiated by You, or by others.  DBP specifically disclaims liability for any activity in Your account, regardless of whether You authorized the activity.
 
+**Designated Agency and Change of Registrant Information**
+
+“DESIGNATED AGENT” MEANS AN INDIVIDUAL OR ENTITY THAT THE PRIOR REGISTRANT OR NEW REGISTRANT EXPLICITLY AUTHORIZES TO APPROVE A CHANGE OF REGISTRANT REQUEST ON ITS BEHALF.  IN THE CASE OF DBP SERVICES, A CHANGE OF REGISTRANT REQUEST MAY ALSO ARISE DUE TO INSTANCES WHERE DBP SERVICES ARE ADDED, OR REMOVED, FROM A DOMAIN NAME.  FOR THE PURPOSE OF FACILITATING ANY SUCH CHANGE REQUEST, AND IN ACCORDANCE WITH ICANN'S CHANGE OF REGISTRANT POLICY, YOU AGREE TO APPOINT DBP AS YOUR DESIGNATED AGENT FOR THE SOLE PURPOSE OF EXPLICITLY CONSENTING TO MATERIAL CHANGES OF REGISTRATION CONTACT INFORMATION ON YOUR BEHALF.
+
 4\. DBP's rights to deny, suspend, terminate service and to disclose your personal information
 
 You understand and agree that DBP has the absolute right and power, in its sole discretion and without any liability to You whatsoever, to:
@@ -81,20 +86,19 @@ You understand and agree that DBP has the absolute right and power, in its sole 
     
     C. To comply with any applicable laws, government rules or requirements, subpoenas, court orders or requests of law enforcement; 
     
-    D. To comply with ICANN's Dispute Resolution Policy.  
+    D. To comply with ICANN's Dispute Resolution Policy or ICANN's Change of Registrant Policy.  
     E. To avoid any financial loss or legal liability (civil or criminal) on the part of DBP, its parent companies, subsidiaries, affiliates, shareholders, agents, officers, directors and employees.  
     F. If the domain name for which DBP is the registrant on Your behalf violates or infringes a third party's trademark, trade name or other legal rights. and  
     G. If it comes to DBP's attention that You are using DBP's services for purposes of engaging in, participating in, sponsoring or hiding Your involvement in, illegal or morally objectionable activities, including but not limited to, activities which are designed, intended to or otherwise:
-    
-    > 1\. Appeal purely to the prurient interests of third parties;  
-    > 2\. Defame, embarrass, harm, abuse, threaten, or harass third parties;  
-    > 3\. Violate state, federal or international law;  
-    > 4\. Involve hate crimes, terrorism and child pornography;  
-    > 5\. Are tortious, vulgar, obscene, invasive of a third party's privacy, racially, ethnically, or otherwise objectionable;  
-    > 6\. Impersonate the identity of a third party;  
-    > 7\. Harm minors in any way. or  
-    > 8\. Relate to or transmit viruses, Trojan Horses, access codes, backdoors, worms, timebombs or any other code, routine, mechanism, device or item that corrupts, damages, impairs, interferes with, intercepts or misappropriates any software, hardware, firmware, network, system, data or personally identifiable information.
-    
+
+> 1\. Appeal purely to the prurient interests of third parties;  
+> 2\. Defame, embarrass, harm, abuse, threaten, or harass third parties;  
+> 3\. Violate state, federal or international law;  
+> 4\. Involve hate crimes, terrorism and child pornography;  
+> 5\. Are tortious, vulgar, obscene, invasive of a third party's privacy, racially, ethnically, or otherwise objectionable;  
+> 6\. Impersonate the identity of a third party;  
+> 7\. Harm minors in any way. or  
+> 8\. Relate to or transmit viruses, Trojan Horses, access codes, backdoors, worms, timebombs or any other code, routine, mechanism, device or item that corrupts, damages, impairs, interferes with, intercepts or misappropriates any software, hardware, firmware, network, system, data or personally identifiable information.
 
 You further understand and agree that if DBP is named as a defendant in, or investigated in anticipation of, any legal or administrative proceeding arising out of Your domain name registration or Your use of DBP's services, Your private registration service may be canceled, which means the domain name registration will revert back to You and Your identity will therefore be revealed in the Whois directory as Registrant.
 
