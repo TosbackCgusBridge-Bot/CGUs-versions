@@ -167,7 +167,7 @@ Take a Guided Tour
 
 Get up close and personal with model specific interactive content, videos, and so much more
 
-Start Here
+Learn More
 
 *   Free Equifax Credit Score
 *   Apply for Financing
