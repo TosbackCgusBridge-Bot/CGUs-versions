@@ -24,7 +24,7 @@ Skip to content Skip to navigation menu **Your browser is not supported by this 
 
 Legal Solutions | USA
 
-Free Standard Shipping!
+Free Standard Shipping on books!
 
 Advanced Search Law Books Solutions Support News &. Views Home >. westlaw legal research >. practitioner insights Log in to Westlaw Thomson Reuters Westlaw  
 The world's most preferred online legal research service Start your free trial today
