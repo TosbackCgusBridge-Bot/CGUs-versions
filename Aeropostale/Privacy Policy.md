@@ -1,8 +1,9 @@
-Aéropostale
+\-->. Aéropostale
 
 *   Girls
     
     *   NEW ARRIVALS
+    *   Girls Gifts Guide
     *   Prince + Fox
     *   Cape Juby
     *   Uniform
@@ -46,6 +47,7 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
+    *   Guys Gift Guide
     *   Prince &. Fox
     *   Cape Juby
     *   Uniform
@@ -81,13 +83,13 @@ Aéropostale
 *   GIFT GUIDE
     
     *   View All
-    *   Best Deals
+    *   Web Busters
     *   Stocking Stuffers
     *   Bundle Up
     *   Holiday Party
     
     *   View All
-    *   Best Deals
+    *   Web Busters
     *   Stocking Stuffers
     *   Bundle Up
     *   Holiday Party
