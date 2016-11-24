@@ -292,7 +292,7 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Accessories &. Software
     *   Services &. Warranty
     *   Smartphones
-    *   Lenovo Preferred Card
+    *   Credit Financing
     *   Trade-In Program
     *   Gaming Computers
     *   Yoga Computers
