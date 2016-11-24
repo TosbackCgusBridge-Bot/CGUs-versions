@@ -302,6 +302,7 @@ View the Fidelity Investments and the Fidelity Funds Privacy Notice (PDF)
 *   Retirement Planning
 *   529 Plans
 *   FINRA's BrokerCheck
+*   Guest Access
 
 Stay Connected Locate an Investor Center by ZIP Code Please enter a valid ZIP code
 
