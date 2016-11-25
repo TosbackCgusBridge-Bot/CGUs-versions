@@ -126,7 +126,6 @@ Legal Notices &. Trademarks
 *   Online Purchases and Auto-Renewal Terms and Conditions
 *   Legal Disclosures
 *   Autodesk Quote and Order Direct Order Terms and Conditions
-*   Maintenance Plan, Subscription and Enterprise support terms and conditions
 
   Privacy Statement - UPDATED September 30, 2016
 
