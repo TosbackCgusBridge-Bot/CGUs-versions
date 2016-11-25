@@ -146,7 +146,7 @@
 *   Sale
     View All Categories Shop by Category*   Black Friday Deals
 
-1.800.753.8558 Menu Search Stores Cart Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Free Standard Delivery on shipments $35 or more!\*
+1.800.753.8558 Menu Search Stores Cart Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Up to 30% Off select gifts + Free Shipping $35+\*
 
 1.  Home
 2.  Customer Service
@@ -200,9 +200,9 @@ My Account
 
 Guarantees
 
-*   Security
-*   Substitution Policy
 *   100% Satisfaction
+*   Substitution Policy
+*   Security
 
 Privacy
 
