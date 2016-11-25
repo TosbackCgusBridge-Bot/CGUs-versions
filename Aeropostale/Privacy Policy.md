@@ -1,9 +1,9 @@
-\-->. Aéropostale
+Aéropostale
 
 *   Girls
     
     *   NEW ARRIVALS
-    *   Girls Gifts Guide
+    *   Girls Gift Guide
     *   Prince + Fox
     *   Cape Juby
     *   Uniform
