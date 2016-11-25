@@ -91,9 +91,9 @@ Phone and Tablet AppsThe best of what Sony has to offer on iOS or Android. Downl
 
 *   Support
 
-Your browser does not support JavaScript! Give a Gift That Sparks Creativity All Year Long
+Your browser does not support JavaScript! The Holiday Season Has Officially Begun
 
-Find the Perfect Camera
+Start It Off Right
 
 Close
 
@@ -103,7 +103,7 @@ Close
 *   Share on Tumblr
 *   Copy URL to share
 
-Find the Perfect Camera
+Start It Off Right
 
 The New, Slimmer PS4™ + Uncharted 4: A Thief's End =
 
