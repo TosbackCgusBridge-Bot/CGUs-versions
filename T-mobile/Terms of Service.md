@@ -1,10 +1,10 @@
   
 
-Did you activate (or renew) service prior to October 28, 2016? If yes, please click the date for the applicable version of the Terms and Conditions: September 1, 2016 | March 17, 2016 | February 17, 2016 | January 25, 2016 | November 14, 2015 | June12, 2015 | March 18, 2015 |November 10, 2014 |March 27, 2014 |October 20, 2013 |December 30, 2011 |July 24, 2011 |July 18, 2010 |June 28, 2008 | December 2004
+Did you activate (or renew) service prior to September 1, 2016? If yes, please click the date for the applicable version of the Terms and Conditions: March 17, 2016 | February 17, 2016 | January 25, 2016 | November 14, 2015 | June12, 2015 | March 18, 2015 |November 10, 2014 |March 27, 2014 |October 20, 2013 |December 30, 2011 |July 24, 2011 |July 18, 2010 |June 28, 2008 | December 2004
 
 **T-Mobile Terms &. Conditions**
 
-Effective as of October 28, 2016
+Effective as of September 1, 2016
 
 Thanks for choosing T-Mobile. Please read these Terms &. Conditions (T&Cs), which contain important information about your relationship with T-Mobile, including mandatory arbitration of disputes between us, instead of class actions or jury trials. You will become bound by these provisions once you accept these T&Cs.
 
