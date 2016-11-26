@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Pycom and Canonical to enable LPWAN communications via snaps ›
 *   How to build your own Ubuntu Core image and other documentation add-on ›
 *   VisionMobile: State of the Developer Nation Survey ›
 *   conjure-up Canonical Kubernetes under LXD today! ›
-*   How to create snap packages on Qt applications ›
