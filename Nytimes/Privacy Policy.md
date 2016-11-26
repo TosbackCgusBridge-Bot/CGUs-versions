@@ -1,14 +1,12 @@
-campaign: nyt2016\_bar1\_digi\_bfcm\_6H97R -- 284925, creative: 1\_nyt2016\_bar1\_digi\_bfcm\_6H97R\_launch -- 415342, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
+campaign: nyt2016\_bar1\_digi\_bfcm\_6H97R -- 284925, creative: 2\_nyt2016\_bar1\_digi\_bfcm\_6H97R\_lastchance -- 415349, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
 
 *   1 of 10 articles read
 *   SUBSCRIBE NOW The Times Holiday Sale  
-    50% off for one year Holiday Suggestion No. 31:
+    50% off for one year Holiday Suggestion No. 114:
     
-    Cook a duck.
+    Get something for yourself.
     
-    (Or go birding. Or ponder  
-    animal rights. A New York Times  
-    subscription covers it all.) SAVE NOW
+    (But hurry. Our sale ends soon.) SAVE NOW
 
 Subscribe*   Help
 
