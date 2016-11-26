@@ -1,7 +1,5 @@
 *   CRM
 *   COMPANY
-    *   About
-    *   Contact
 *   SUPPORT
 
 *   No menu assigned!
@@ -56,7 +54,6 @@ Do you like Phonedeck? Try it right now for free! Get 30 days trial! Menu
 
 *   Products
 *   Support
-*   Contact
 *   Terms of Service
 *   Privacy Policy
 *   Imprint
@@ -83,6 +80,4 @@ Supported by the EU
 
 *   CRM
 *   COMPANY
-    *   About
-    *   Contact
 *   SUPPORT
