@@ -66,7 +66,7 @@
     *   Gifts Over $50
     *   Gifts Over $90
 *   Sale
-    View All Categories Shop by Category*   Black Friday Deals
+    View All Categories Shop by Category*   Cyber Monday Deals
 
 1.800.753.8558 Search Catalog Search Skip to content 1.800.753.8558 Stores Account
 
@@ -144,9 +144,9 @@
     *   Gifts Over $50
     *   Gifts Over $90
 *   Sale
-    View All Categories Shop by Category*   Black Friday Deals
+    View All Categories Shop by Category*   Cyber Monday Deals
 
-1.800.753.8558 Menu Search Stores Cart Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Up to 30% Off select gifts + Free Shipping $35+\*
+1.800.753.8558 Menu Search Stores Cart Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go TODAY ONLY! - Up to 50% Off select gifts + Free Shipping $35+\*
 
 1.  Home
 2.  Customer Service
@@ -200,9 +200,9 @@ My Account
 
 Guarantees
 
-*   100% Satisfaction
-*   Substitution Policy
 *   Security
+*   Substitution Policy
+*   100% Satisfaction
 
 Privacy
 
