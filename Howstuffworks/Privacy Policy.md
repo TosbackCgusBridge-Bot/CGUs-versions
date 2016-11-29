@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**7 Weird Instances of Food That Looks Like Something Else**
+**What It's Like to Stay Silent for 10 Days**
 
-**Spending Money on Experiences, Not Things, Increases Gratitude and Altruism**
+**After Cyber Monday, Will People Open Their Wallets for Giving Tuesday?**
 
-**Why Locking Eyes During a Conversation Is So Difficult**
+**Watch Cockatoos Make Tiny Tools to Get Food**
 
 **See More Headlines »**
 
