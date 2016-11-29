@@ -1,57 +1,26 @@
-*   Who we are
-    *   Our story
-    *   Our people
-    *   Leadership team
-    *   Where we are
-*   What we do
-    *   For Users
-    *   Softonic Clean &. Safe
-*   Company news
-    *   Softonic Blog
-*   Careers
-    *   Softonic Culture
-    *   Office Tour
-    *   Jobs
-    *   Send us your CV
-*   Advertising solutions
-    *   Display Advertising
-    *   Mobile Advertising
-    *   Software Distribution
-    *   Ad Specs &. Policies
+*   _Facebook_
+*   _twitter_
+*   _Google +_
+*   _Linkedin_
 
-LEGAL INFORMATION COMPANY INFORMATION
+We are creating new possibilities Discover very soon how Softonic can take you further. Stay tuned!
 
-*   Legal information
-*   Shareholders' meeting
-*   Terms of use
-*   Privacy Policy
-*   Cookies policy
-*   Multi-Campaign Advertising
-*   Ads and Software Policies
+In the meantime
 
-Contact us
+continue to the old site
 
-Softonic International S.A. owns, amongst others, the corresponding country domains of numerous countries across Europe, Asia and other parts of the world.
+Edf Media TIC  
+C/ Roc Boronat, 117, Planta 6  
+08018, Barcelona, Spain
 
-Softonic International, S.A.  
-Edificio MediaTIC  
-Calle Roc Boronat, 117, 6th floor.  
-08018 Barcelona,  
-Spain
++34 936 012 700
 
-Tel: +34 – 936 012 700  
-Fax: +34 – 933 969 292  
-Email: legal@softonic.com
+press@softonic.com
 
-Softonic International S.A.: Tax Identification Number: A-62134341. Filed with the Commercial Registry of Barcelona, Book 44171, Page 136, Sheet B-210880.
+*   _Facebook_
+*   _twitter_
+*   _Google +_
+*   _Linkedin_
 
-*   *   LEGAL INFORMATION
-    *   CONTACT US
-    *   GO TO SOFTONIC.COM
-
-*   OFFICES:
-*   Barcelona
-*   Madrid
-*   San Francisco
-
-The name and logo of Softonic are registered trademarks of Softonic International, S.A. Copyright Softonic International, S.A. © 1997-2016 – All rights reserved.
+*   1997-2016 All Right Reserved
+*   · Legal information
