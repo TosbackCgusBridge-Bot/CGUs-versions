@@ -240,7 +240,7 @@ Other Links
 *   Cruises
 *   Travel Blog
 *   Customer Support
-*   Price Pledge
+*   Best Price Guarantee
 *   Travel Deals
 *   Mobile
 
