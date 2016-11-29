@@ -32,7 +32,8 @@ Show Search Bar
 *   Events
     *   Virtual Conferences
     *   Webcasts
-    *   SC Congress
+    *   SC Congress NY
+    *   SC Congress Toronto
     *   SC Awards 2017
 *   Whitepapers
 
