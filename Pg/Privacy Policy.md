@@ -82,6 +82,6 @@ How to Contact Us
 *   Product Coupons and Promotions
 *   Terms and Conditions
 *   Privacy
-*   Ad Choices
+*   AdChoices
 
 © 2016 Procter &. Gamble. All claims valid only in the U.S.
