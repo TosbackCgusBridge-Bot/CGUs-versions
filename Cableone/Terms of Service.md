@@ -30,6 +30,7 @@ New Location Set Your Location It looks like your browser does not have JavaScri
 *   Network Management
     *   Annual Notice (PDF)
 *   Cable Service Guard
+*   Recent
 
 Internet Acceptable Use Policy CableOne.Net High Speed Internet Access Service  
 Acceptable Use Policy
