@@ -229,6 +229,7 @@ Menu
         *   GSK Uncovers The State of Uncontrolled Asthma in America
         *   Eggs in manufacturing
         *   Struggling for breath
+        *   The power of advocacy: coming together for the patient
         *   Clinical trials: a patient's view
         *   Living with COPD Every Day: Sean’s Story
     *   Our people
@@ -250,8 +251,10 @@ Menu
         *   Changing Lives
         *   The global as personal: GSK and The National Museum of African American History and Culture
         *   From the GSK archives: William Allen, scientist, businessman, abolitionist
+        *   Persevering to accelerate your career success: lessons from an engineer
         *   Making healthy cool in school through Get HYPE Philly!
         *   Engineers as leaders: The art of the possible over the probable
+        *   Work Together, Give Together
     *   How we do business
         *   How we do business
         *   Changing the way we work with healthcare professionals
@@ -261,6 +264,7 @@ Menu
         *   Biosecurity and pandemic preparedness
         *   The hope for a cure for HIV/AIDS in our lifetime
         *   Helping to Change the World
+        *   Letting the sunshine in – transparency that’ll grow trust
 *   About us
     
     *   About us
