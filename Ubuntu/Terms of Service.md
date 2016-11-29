@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Canonical and AWS partner to deliver world-class support in the cloud ›
+*   Mir is not only about Unity8 ›
+*   Ubuntu SDK meets snapcraft ›
 *   Pycom and Canonical to enable LPWAN communications via snaps ›
-*   How to build your own Ubuntu Core image and other documentation add-on ›
-*   VisionMobile: State of the Developer Nation Survey ›
-*   conjure-up Canonical Kubernetes under LXD today! ›
