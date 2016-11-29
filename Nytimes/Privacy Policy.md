@@ -1,12 +1,12 @@
-campaign: nyt2016\_bar1\_digi\_bfcm\_6H97R -- 284925, creative: 2\_nyt2016\_bar1\_digi\_bfcm\_6H97R\_lastchance -- 415349, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
+campaign: nyt2016\_bar1\_digi\_bfcm\_6H97R -- 284925, creative: 3\_nyt2016\_bar1\_digi\_bfcm\_6H97R\_endstoday -- 415350, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
 
 *   1 of 10 articles read
 *   SUBSCRIBE NOW The Times Holiday Sale  
-    50% off for one year Holiday Suggestion No. 114:
+    50% off for one year Holiday Suggestion No. 127:
     
-    Get something for yourself.
+    Seize today.
     
-    (But hurry. Our sale ends soon.) SAVE NOW
+    (For tomorrow is too late.) SAVE NOW
 
 Subscribe*   Help
 
