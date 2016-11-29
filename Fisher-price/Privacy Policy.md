@@ -13,7 +13,9 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   Fan Faves
     *   Exclusives
     
+    *   Award Winners
     *   Clearance
+    *   Holiday Savings
     
     See all
     
@@ -32,29 +34,33 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   Sports &. Outdoor Toys
     *   Wooden Toys
     *   Apparel &. Bedroom
+    *   Books, Puzzles &. Games
     
     See all
     
-    *   Alvin and the Chipmunks
     *   Everything Baby
     *   Little People®
     *   Thomas &. Friends™
     *   Imaginext®
-    
     *   Laugh &. Learn™
+    
+    *   Think &. Learn
     *   Loving Family™
     *   Power Wheels®
+    *   Bright Beats™
     *   Shimmer and Shine™
-    *   Disney
     
+    *   Disney
     *   Mega Bloks® Preschool
     *   Grow-With-Me
+    *   Blaze and the Monster Machines™
     *   Bob the Builder™
+    
     *   Dora &. Friends™
     *   The Octonauts
-    
     *   Smart Toy®
-    *   Shakira First Steps
+    *   Spinnyos™
+    *   Doodle Pro
     
     See all
     
@@ -65,6 +71,7 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   2-3 Years
     
     *   3-4 Years
+    *   4-5 Years
     *   5+ YearsSee all
 *   AGE-BY-AGE PLAYTIME GUIDE AGE-BY-AGE PLAYTIME GUIDE
     
