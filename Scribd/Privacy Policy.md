@@ -4,7 +4,7 @@ English (US) Español Français Português do Brasil Submit a request Sign in
 2.  General Info
 3.  Terms and Policies
 
-Privacy policy **Jason** November 29, 2016 00:07 Follow
+Privacy policy **Jason** November 30, 2016 02:27 Follow
 
 April 18, 2013
 
@@ -106,11 +106,19 @@ FOR REVISIONS TO THIS PRIVACY NOTICE THAT MAY BE MATERIALLY LESS RESTRICTIVE ON 
 
 PLEASE CONTACT SCRIBD WITH ANY QUESTIONS OR COMMENTS ABOUT THIS PRIVACY NOTICE, YOUR PERSONAL INFORMATION, AND OUR THIRD-PARTY DISCLOSURE PRACTICES OR YOUR CONSENT CHOICES AT: SCRIBD.COM, 333 BUSH STREET, SUITE 2400, SAN FRANCISCO, CA 94104, OR BY EMAIL: PRIVACY@SCRIBD.COM. WE WILL RESPOND TO YOUR INQUIRY WITHIN 30 DAYS OF ITS RECEIPT.
 
-Was this article helpful? 1224 out of 1227 found this helpful
+Was this article helpful? 1226 out of 1229 found this helpful
 
 *   Facebook
 *   Twitter
 *   LinkedIn
 *   Google+
 
-Have more questions? Submit a request 0 Comments Article is closed for comments. Powered by Zendesk
+Have more questions? Submit a request 0 Comments Article is closed for comments. Related articles
+
+*   General Terms of Use
+*   Scribd Paid Access End User License Agreement
+*   Scribd Accessibility Policy
+*   Scribd Uploader Agreement
+*   How do I cancel my premium membership?
+
+Powered by Zendesk
