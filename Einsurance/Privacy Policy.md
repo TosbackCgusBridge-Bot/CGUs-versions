@@ -6,11 +6,8 @@ customers &. websites on
 Trustworthiness?**  |  
   **REPUTATION**  
 
-E-Insure Services, Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, EINSURANCE.COM.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe here.
-
-  
 Introduction
 
 This privacy policy applies to http://www.einsurance.com owned and operated by E-Insure Services, Inc.. E-Insure Services, Inc. ("E-Insure"), recognizes the importance of protecting the privacy of personal information about our clients and others who visit our Web site. Within this context, the term "personal information" includes any personally identifying information you provide, whether online or by any other means. You may give E-Insure personal information when you register for an account or service, or when you communicate with us via telephone, fax, or e-mail. E-Insure's policy is never to share your personal information with any third party except as you specifically permit or as required by law and only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.  
