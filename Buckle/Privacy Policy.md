@@ -76,7 +76,7 @@
         
           
           
-        Give a Buckle Gift card ENJOY A GIFT WITH PURCHASE! SEE DETAILS.
+        Give a Buckle Gift card NEED GIFT IDEAS? Give them...
 *   Men
     *   *   Featured
         
@@ -128,7 +128,7 @@
         
           
           
-        Give a Buckle Gift card ENJOY A GIFT WITH PURCHASE! SEE DETAILS.
+        Give a Buckle Gift card NEED GIFT IDEAS? Give them...
 *   Kids
     *   *   Featured
         
@@ -155,7 +155,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card ENJOY A GIFT WITH PURCHASE! SEE DETAILS.
+        Give a Buckle Gift card NEED GIFT IDEAS? Give them...
 *   Jeans
     *   *   Women's Jeans
         
@@ -177,7 +177,7 @@
         *   Kid's Jeans
         
         *   Girl's Jeans
-        *   Boy's JeansGive a Buckle Gift card ENJOY A GIFT WITH PURCHASE! SEE DETAILS.
+        *   Boy's JeansGive a Buckle Gift card NEED GIFT IDEAS? Give them...
 *   New
     *   *   Women's New
         
@@ -206,7 +206,7 @@
         *   Shop All
         *   Boy's New Tops
         *   Boy's New Jeans
-        *   Shop AllGive a Buckle Gift card ENJOY A GIFT WITH PURCHASE! SEE DETAILS.
+        *   Shop AllGive a Buckle Gift card NEED GIFT IDEAS? Give them...
 *   Sale
     *   *   Women's Sale
         
@@ -247,7 +247,7 @@
         
           
           
-        Give a Buckle Gift card ENJOY A GIFT WITH PURCHASE! SEE DETAILS.
+        Give a Buckle Gift card NEED GIFT IDEAS? Give them...
 
 A Global Message! × Privacy &. Security
 
