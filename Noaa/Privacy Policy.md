@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Celebrate the beauty and importance of corals during Corals Week AROUND NOAA // GOES-R heads to orbit, will improve weather forecasting Photo story: California sea lion pups stage healthy comeback Last month tied as 3rd warmest October on record for the globe
+Enter Search Terms Celebrate the beauty and importance of corals during Corals Week AROUND NOAA // Blog: Promoting resilient coral reefs in a changing climate GOES-R heads to orbit, will improve weather forecasting Photo story: California sea lion pups stage healthy comeback
 
 *   About our agency
 *   News and features
