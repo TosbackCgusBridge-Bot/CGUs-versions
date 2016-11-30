@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15619476407
+true true L15622123855
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p20.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Mon Nov 28 11:15:30 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Tue Nov 29 11:15:12 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -54,7 +54,47 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Nov 28 18:15:35 CST 2016 JVM :->. dtexppr1c1j2\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* almost gone! almost gone! almost gone! almost gone! almost gone! \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p05.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Nov 28 18:15:35 CST 2016 JVM :->. dtexppr1l3j4\_05 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Lowest Price. Guaranteed! Find a lower price at our competitor? Tell us and we’ll beat it by 5%\*
+
+\*Some restrictions apply.
+
+Get Details: 25% Off Nike Apparel For The Family Select styles, $15-$52.50, reg. $25-$70
+
+Nike excluded from coupon
+
+Shop Women Shop Men Shop Kids       25% Off Nike Shoes For the Family Select styles, 32.99-67.50, msrp $44-$90
+
+Nike excluded from coupon
+
+Shop Nike Shoes Levi's® 39.99 Men's Levi's® 505™ Regular Fit Jeans
+
+Select styles, reg. $59.50
+
+Shop Men's Levi's22.99 Boys' Levi's® 505™ Regular, 550™ Relaxed &. 514™ Straight Fit Jeans
+
+Select styles, msrp $40
+
+Shop Boys' Levi's32.99 Levi's® 505™ Straight Leg Jeans for Her
+
+Select styles, msrp 44.50
+
+Shop Levi's for Her Shop Levi's for Her
+
+Offers &. coupons do not apply to Levi's®
+
+Home Sale 30 to 50% Off
+
+Select styles.
+
+Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses   Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys Sephora Shop Gifts: JCPenney | portraits
+
+As low as .59 holiday photo greeting cards through 12/30/16.
+
+Get Coupon: SportsFanShop
+
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
+
+Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Nov 29 21:59:02 CST 2016 JVM :->. dtexppr1c1j6\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Nov 29 21:05:13 CST 2016 JVM :->. dtexppr1l2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
