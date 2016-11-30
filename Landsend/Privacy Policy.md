@@ -310,6 +310,7 @@ menu 0
     FEATURED SHOPS
     
     *   New Arrivals
+    *   Gifts for Home
     *   Holiday Shop
     *   Supima Bedding &. Bath
     *   Flannel Bedding
@@ -665,6 +666,7 @@ menu 0
     Back | Home FEATURED SHOPS Back | Home
     
     *   New Arrivals
+    *   Gifts for Home
     *   Holiday Shop
     *   Supima Bedding &. Bath
     *   Flannel Bedding
