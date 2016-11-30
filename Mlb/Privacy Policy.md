@@ -44,10 +44,10 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Alternative Audio
     *   Most Popular
     *   Morning Roundup
-    *   FAQs
+    *   MLB.TV Help Center/FAQs
     *   Baseball's Best Moments
     *   MLB Productions
-    *   MLB.com Support Forum
+    *   MLB.TV Support Forum
     *   GetGreat.com
     
     Featured
@@ -142,16 +142,17 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Jerseys
     *   PhotosWorld Series Champs MLB Auctions
 *   MLB.TV MLB.TV MLB.TV
-    *   Get MLB.TV
+    *   MLB.TV Holiday Gift Giving
+    *   Buy MLB.TV
     *   Watch MLB.TV
     *   Alternative Audio
     *   MLB.TV Devices
     *   MLB.TV with Extra Innings
-    *   FAQs
-    *   MLB.com Support Forum
+    *   MLB.TV Help Center/FAQs
+    *   MLB.TV Support Forum
     *   MLB.TV Blackouts
     *   MLB.TV Download Center
-    *   Contact Us
+    *   Contact UsMLB.TV Holiday Gift Giving
 *   Auction
 *   Fantasy Fantasy Fantasy
     *   Postseason Bracket Challenge
