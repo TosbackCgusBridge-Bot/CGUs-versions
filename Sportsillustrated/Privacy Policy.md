@@ -1,6 +1,6 @@
 Sports Illustrated PRIVACY POLICY Table of Contents
 
-*   The Information We Collect
+*   Information We Collect
 *   How We Use the Information
 *   Privacy Options
 *   Your California Privacy Rights: Notice to California Customers
