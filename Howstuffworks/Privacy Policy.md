@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**What It's Like to Stay Silent for 10 Days**
+**Thanks, Elon! Tiny Samoan Island Is Going Totally Solar**
 
-**After Cyber Monday, Will People Open Their Wallets for Giving Tuesday?**
+**Can a U.S. President Remain in Business Once in Office?**
 
-**Watch Cockatoos Make Tiny Tools to Get Food**
+**Hypnotic, Interactive Map Predicts Migration as Animals Become Climate Refugees**
 
 **See More Headlines »**
 
