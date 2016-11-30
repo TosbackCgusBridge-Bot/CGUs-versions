@@ -29,7 +29,6 @@ Fitbit
     *   Fit Science
     *   Blog
     *   Buzz
-    *   Fitness Quiz
     *   FitForGood
     *   Fitbit Local
 *   Help
