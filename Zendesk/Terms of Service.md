@@ -199,7 +199,13 @@ We do not knowingly collect any personal information from children under the age
 We may assign or transfer this Policy, as well as your account and related information and data, including any personal information, to any person or entity that acquires all or substantially all of our business, stock or assets, or with whom we merge.
 
 **13\. Safe Harbor and Privacy Shield Frameworks:**  
-Zendesk abides by and has certified adherence to the principles of the EU-U.S. Privacy Shield and the U.S.-Swiss Safe Harbor as set forth by the U.S. Department of Commerce. For more information on the EU-U.S. Privacy Shield, and to view the scope of Zendesk’s certification, please visit https://www.privacyshield.gov/. For more information on the U.S.-Swiss Safe Harbor, including the Safe Harbor Principles, and to view the scope of Zendesk’s certification, please visit http://2016.export.gov/safeharbor/swiss/. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+Zendesk abides by and has certified adherence to the principles of the EU-U.S. Privacy Shield and the U.S.-Swiss Safe Harbor as set forth by the U.S. Department of Commerce. For more information on the EU-U.S. Privacy Shield, and to view the scope of Zendesk’s certification, please visit https://www.privacyshield.gov/. For more information on the U.S.-Swiss Safe Harbor, including the Safe Harbor Principles, and to view the scope of Zendesk’s certification, please visit http://2016.export.gov/safeharbor/swiss/. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.  
+  
+For residual Privacy Shield disputes that cannot be resolved by the methods above, you may be able to invoke a binding arbitration process under certain conditions. To find out more about the Privacy Shield’s binding arbitration scheme, please see: https://www.privacyshield.gov/article?id=ANNEX-I-introduction  
+  
+The Federal Trade Commission has investigation and enforcement authority over our compliance with the Privacy Shield.  
+  
+If we have received your personal information under the Privacy Shield and subsequently transfer it to a third party service provider for processing, we will remain responsible if they process your personal information in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage.
 
 **14\. Supplemental Terms and Conditions for Certain Regions**
 
