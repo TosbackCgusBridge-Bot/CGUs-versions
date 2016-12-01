@@ -76,9 +76,9 @@ Login Let's Connect What We Do Watch Video
     Return On Ad Spend
 
 *   The Latest News
-*   We Know Millions of Movie &. TV Fans
+*   Conversant Header Bidding is Here
     
-    Entertainment campaigns at Conversant  
+    The solution is now open to all publishers  
     
 *   The "50 First Dates" Problem
     
