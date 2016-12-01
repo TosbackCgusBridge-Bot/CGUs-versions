@@ -144,8 +144,8 @@ TDD Hearing Impaired:
 (800) 528-5149 (800) 528-5152 Jessica London Please visit  
 My Account on  
 jessicalondon.com Jessica London  
-PO Box 12901  
-El Paso, TX 79913 (800) 441-1362  
+500 S Mesa Hills Dr.,  
+El Paso, TX 79912 (800) 441-1362  
   
 TDD Hearing Impaired:  
 (800) 978-8798 (800) 448-5767 KingSize Please visit  
@@ -173,16 +173,15 @@ TDD Hearing Impaired:
 (800) 274-0260 (800) 274-3102 Woman Within Please visit  
 My Account on  
 womanwithin.com Woman Within,  
-PO Box 12901  
-El Paso, TX 79913 (800) 677-0216  
+500 S Mesa Hills Dr.,  
+El Paso, TX 79912 (800) 677-0216  
   
 TDD Hearing Impaired:  
 (800) 456-7161 (800) 456-9838 swimsuitsforall Please visit  
 My Account on  
 swimsuitsforall.com swimsuitsforall  
-10300 Sanden Drive  
-Suite 100  
-Dallas, TX 75238 (888) 241-SWIM NA Ellos Please visit  
+500 S Mesa Hills Dr.,  
+El Paso, TX 79912 (888) 241-SWIM NA Ellos Please visit  
 My Account on  
 ellos.us Ellos  
 c/o FULLBEAUTY Brands  
