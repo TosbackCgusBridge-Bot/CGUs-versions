@@ -90,4 +90,4 @@ Advertisement Advertisement
 
 Copyright © 2016 QuintilesIMS. All rights reserved.
 
-Pollen.com and Allergy Alert are registered trademarks of QuintilesIMS. Page last modified: 11/30/2016
+Pollen.com and Allergy Alert are registered trademarks of QuintilesIMS. Page last modified: 12/01/2016
