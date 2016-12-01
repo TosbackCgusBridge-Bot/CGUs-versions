@@ -1,14 +1,4 @@
-campaign: nyt2016\_bar1\_digi\_bfcm\_6H97R -- 284925, creative: 3\_nyt2016\_bar1\_digi\_bfcm\_6H97R\_endstoday -- 415350, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
-
-*   1 of 10 articles read
-*   SUBSCRIBE NOW The Times Holiday Sale  
-    50% off for one year Holiday Suggestion No. 127:
-    
-    Seize today.
-    
-    (For tomorrow is too late.) SAVE NOW
-
-Subscribe*   Help
+campaign: abTest\_bar1\_ft\_offer\_test\_1016\_outOfTrial -- 284802, creative: abTest\_bar1\_ft\_offer\_test\_1016\_out\_Of\_Trial -- 415222, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1*   Help
 
 *   Home Page
 *   Today's Paper
