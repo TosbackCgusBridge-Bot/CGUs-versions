@@ -10,10 +10,10 @@ VH1 Menu VH1
     *   Black Ink Crew Chicago
     *   Martha &. Snoop's Potluck Dinner Party
     *   Divas Holiday: Unsilent Night
-    *   Love &. Hip Hop Hollywood
     *   America's Next Top Model
-    *   Basketball Wives LA
-    *   T.I &. Tiny: The Family HustleSee all Shows
+    *   Leave It To Stevie
+    *   K.Michelle: My Life
+    *   Love &. Hip Hop HollywoodSee all Shows
 *   Pop Culture
     *   Music
     *   Celebrity
@@ -29,7 +29,7 @@ VH1 Menu VH1
 *   TV Provider Sign Out
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Black Ink Crew Chicago Martha &. Snoop's Potluck Dinner Party Divas Holiday: Unsilent Night Love &. Hip Hop Hollywood America's Next Top Model Basketball Wives LA T.I &. Tiny: The Family Hustle Dating Naked Love &. Hip Hop Atlanta See all Shows
+*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Black Ink Crew Chicago Martha &. Snoop's Potluck Dinner Party Divas Holiday: Unsilent Night America's Next Top Model Leave It To Stevie K.Michelle: My Life Love &. Hip Hop Hollywood Basketball Wives LA Love &. Hip Hop Atlanta See all Shows
 *   Pop Culture Music Celebrity Movies TV Around The Web Video See all Pop Culture
 *   Life Beauty &. Health Style Relationships Video See all Life
 *   facebook twitter tumblr
