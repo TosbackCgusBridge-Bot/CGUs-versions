@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites 6 reasons why GOES-R matters Climate The Climate Prediction Center’s Mike Halpert talks about NOAA’s Winter Outlook National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts December 8: Ask NOAA experts about ocean noise on Reddit Climate The Climate Prediction Center’s Mike Halpert talks about NOAA’s Winter Outlook National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Celebrate the beauty and importance of corals during Corals Week AROUND NOAA // Blog: Promoting resilient coral reefs in a changing climate GOES-R heads to orbit, will improve weather forecasting Photo story: California sea lion pups stage healthy comeback
+Enter Search Terms First above-normal Atlantic hurricane season since 2012 produced five landfalling U.S. storms AROUND NOAA // Celebrate the beauty and importance of corals during Corals Week GOES-R heads to orbit, will improve weather forecasting Blog: Promoting resilient coral reefs in a changing climate
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-Wendy Cover/NOAA
+NOAA
