@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Thanks, Elon! Tiny Samoan Island Is Going Totally Solar**
+**Cuneiform Cookies Just in Time for the Holidays!**
 
-**Can a U.S. President Remain in Business Once in Office?**
+**Scientists Discovered Which Genes Cause Uncombable Hair Syndrome**
 
-**Hypnotic, Interactive Map Predicts Migration as Animals Become Climate Refugees**
+**How People in China Get Around Internet Censorship**
 
 **See More Headlines »**
 
