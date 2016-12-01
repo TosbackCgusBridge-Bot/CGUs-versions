@@ -6,8 +6,10 @@ menu
 Show Search Bar
 
 *   News
+    
     *   Opinions
     *   Blogs
+    *   SC Fast Facts
 *   Cybercrime
     *   Ransomware
     *   Data breaches
