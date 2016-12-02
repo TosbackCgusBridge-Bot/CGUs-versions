@@ -107,7 +107,7 @@ DOWNLOAD NOW INTELLIGENCE
 
 The 5 Keys to Connecting with Real People
 
-DOWNLOAD NOW View Case Study View Case Study Conversant Media
+DOWNLOAD NOW View Case Study View Case Study View Case Study Conversant Media
 
 for marketing &. media professionals
 
