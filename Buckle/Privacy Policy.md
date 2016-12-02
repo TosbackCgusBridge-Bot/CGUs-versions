@@ -496,4 +496,10 @@ STAY CONNECTED
 2.  Privacy Policy
 3.  Transparency In Supply Chains
 
-×
+× ×
+
+Did you mean to add items to your wish list?
+
+Your cart is full!
+
+The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
