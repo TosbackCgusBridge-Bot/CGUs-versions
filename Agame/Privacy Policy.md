@@ -119,9 +119,9 @@ View more results
     
     *   Cats Empire
     *   Troll Face Quest Video Games
-    *   Hero Simulator: Idle Adventure
-    *   Troll Face Quest Video Memes
     *   My Dolphin Show
+    *   Troll Face Quest Video Memes
+    *   Hero Simulator: Idle Adventure
     *   Crash Drive 2
     
     Specials
