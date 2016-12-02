@@ -68,11 +68,10 @@ Aéropostale
     
     *   BOTTOMS
     *   Jeans
-    *   Joggers + Sweats
     *   Pants
+    *   Joggers + Sweats
     *   Shorts
     
-    *   JACKETS
     *   UNDERWEAR + SOCKS
     *   ACCESSORIES
 *   Active
