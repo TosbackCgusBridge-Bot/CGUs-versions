@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
-*   Docker and Canonical Partner on CS Docker Engine for Ubuntu users ›
-*   Canonical and AWS partner to deliver world-class support in the cloud ›
-*   Mir is not only about Unity8 ›
-*   Ubuntu SDK meets snapcraft ›
+*   Canonical’s Distribution of Kubernetes Reduces Operational Friction ›
+*   UbuCon Europe – a sure sign of community strength ›
+*   Competition: Build a seasonal snap on your Raspberry Pi! ›
+*   10 Desktop snaps written in November ›
