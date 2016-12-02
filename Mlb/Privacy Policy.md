@@ -101,7 +101,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Franchise FourHot Stove Tracker
 *   Tickets Tickets Tickets
     *   General Ticket Information
-    *   2016 Postseason Ticket Terms &. Polices
     *   StubHub.com
     *   Big League Tours2017 Season Tickets Big League Tours Bank of America 2017 Schedule
 *   Apps Apps Apps
@@ -155,7 +154,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Contact UsMLB.TV Holiday Gift Giving
 *   Auction
 *   Fantasy Fantasy Fantasy
-    *   Postseason Bracket Challenge
     *   R.B.I. Baseball 16
     *   MLB.com Home Run Derby
     *   MLB.com Line Drive
@@ -168,7 +166,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   WGT Baseball: MLB
     *   Prospect Watch
     *   Fantasy 411 Blog
-    *   Follow @Fantasy411MLB.com Postseason Bracket Challenge Beat the Streak R.B.I. Baseball 16 MLB.com Line Drive MLB.com Home Run Derby Fantasy Player Preview 160x160
+    *   Follow @Fantasy411Beat the Streak R.B.I. Baseball 16 MLB.com Line Drive MLB.com Home Run Derby Fantasy Player Preview 160x160 MLB.com Postseason Bracket Challenge
 *   Teams Teams American League AL East
     
     *   Baltimore
