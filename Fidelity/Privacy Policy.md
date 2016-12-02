@@ -27,7 +27,7 @@ Search Fidelity.com
     *   ProfileLog In Required
     *   Account FeaturesLog In Required
     *   StatementsLog In Required
-    *   Tax InformationLog In Required
+    *   Tax Information
     *   Retirement DistributionsLog In Required
     
     *   OFFER See our featured trading offer. Learn more.
@@ -55,7 +55,6 @@ Search Fidelity.com
     *   Retirement Planning
     *   Wealth Management
     *   Estate Planning &. Inheritance
-    *   Taxes
     *   Saving For College
     *   Charitable Giving
     *   Life Insurance &. Long Term Care
