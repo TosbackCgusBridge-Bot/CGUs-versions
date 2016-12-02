@@ -284,7 +284,6 @@ menu 0
     *   Blazers
     *   Activewear
     *   Outerwear
-    *   Shoes
     *   Accessories
     *   Backpacks &. Bags
     
@@ -296,7 +295,6 @@ menu 0
     *   Blazers
     *   Activewear
     *   Outerwear
-    *   Shoes
     *   Accessories
     *   Backpacks &. Bags
 *   Home
@@ -373,6 +371,7 @@ menu 0
     *   Splurges-Luxury
     *   Personalized Gifts
     *   Sleep Shop
+    *   Gifts-In-A-Tote
     
     GREAT GIFTS
     *   For Her
@@ -640,7 +639,6 @@ menu 0
     *   Blazers
     *   Activewear
     *   Outerwear
-    *   Shoes
     *   Accessories
     *   Backpacks &. Bags
     
@@ -652,7 +650,6 @@ menu 0
     *   Blazers
     *   Activewear
     *   Outerwear
-    *   Shoes
     *   Accessories
     *   Backpacks &. Bags
 *   Home
@@ -729,6 +726,7 @@ menu 0
     *   Splurges-Luxury
     *   Personalized Gifts
     *   Sleep Shop
+    *   Gifts-In-A-Tote
     
     GREAT GIFTS Back | GREAT GIFTS
     *   For Her
