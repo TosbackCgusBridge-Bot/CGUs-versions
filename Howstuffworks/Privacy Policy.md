@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Cuneiform Cookies Just in Time for the Holidays!**
+**This Is How You Recount 3 Million Votes**
 
-**Scientists Discovered Which Genes Cause Uncombable Hair Syndrome**
+**Do People Still Die in Quicksand?**
 
-**How People in China Get Around Internet Censorship**
+**Bandicoots Survived Eons of Changing Climates, But This Time It's Different**
 
 **See More Headlines »**
 
