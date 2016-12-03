@@ -333,24 +333,6 @@ Close
 
 See TVs
 
-Do You Have What It Takes to Solve the Puzzle and Catch the Bad Guy?
-
-Find Out at Sony Square NYC
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
 Load More
 
 Where To Buy See Authorized Retailers Sony Rewards
