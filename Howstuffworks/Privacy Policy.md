@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**This Is How You Recount 3 Million Votes**
+**Many Stories Have One of Six 'Beautiful Shapes'**
 
-**Do People Still Die in Quicksand?**
+**Clever App Uses Smartphone Camera to Identify Plant Species**
 
-**Bandicoots Survived Eons of Changing Climates, But This Time It's Different**
+**We Bet We Know What Your Favorite Number Is**
 
 **See More Headlines »**
 
