@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15609632074
+true true L15627458435
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Thu Dec 01 11:14:17 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p15.jcpenney.com SERVER NAME :->. dtcomexpr1l1j6 TIME :->. Fri Dec 02 11:13:46 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -58,7 +58,7 @@ Gifts Worth Giving Shop Now: 5.99 guys' graphic tees, reg. $12 6.99 Mixit cozy s
 
 In Store &. Online
 
-Shop Clearance Now: Customer Appreciation Sale In Store &. Online | Ends December 6 Shop Now View Store Ad40 to 50% Off Pajamas for the Family
+Shop Clearance Now: Customer Appreciation Sale In Store &. Online | Ends December 6 Shop Now View Store Ad 40 to 50% Off Pajamas for the Family
 
 Select styles, reg. $20-$30
 
@@ -86,11 +86,11 @@ Available on qualifying major appliance purchases made through 12/17/16 on a JCP
 
 Don't have a JCPenney Credit Card?
 
-Apply Now:Free Delivery &. Basic Installation
+Apply Now: Free Delivery &. Basic Installation
 
 On all appliance purchases over $299
 
-Get Details:JCPenney Rewards Shop &. Get Rewards
+Get Details: JCPenney Rewards Shop &. Get Rewards
 
 For points earned on major appliances+
 
@@ -102,7 +102,7 @@ Get Coupon: SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Dec 01 21:57:28 CST 2016 JVM :->. dtexppr1c2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p06.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Dec 01 21:56:16 CST 2016 JVM :->. dtexppr1l3j6\_06 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Dec 02 22:12:47 CST 2016 JVM :->. dtexppr1c2j3\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Dec 02 22:11:39 CST 2016 JVM :->. dtexppr1c1j1\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
