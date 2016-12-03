@@ -100,6 +100,7 @@ menu 0
     *   Holiday Style Guide
     *   Ultimate Coat Finder
     *   Gifts for Him
+    *   Flannel Favorites
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -456,6 +457,7 @@ menu 0
     *   Holiday Style Guide
     *   Ultimate Coat Finder
     *   Gifts for Him
+    *   Flannel Favorites
     *   Sale
     
     SHOP BY SIZE RANGE Back | Men
