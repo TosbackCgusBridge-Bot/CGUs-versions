@@ -94,10 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Wed, Nov 30, 2016 2016 Breaches: Lessons Learned
-
-It seems that every week we hear that another company has just made the news and joined the club known as BREACHED! In this webcast we will discuss the most notable security incidences that happened in 2016. Our presenters will share real world examples of current breaches that show how vulnerable networks can be without the correct user and data security controls. In this webcast moderated by Craig Spiezle, Executive Director of OTA you’ll learn:
-
 Tue, Dec 6, 2016 IoT Security Foundation Conference 2016 - London
 
 Building an Internet of Trust. The conference will look at what it takes to build an Internet of Trusted Things, what is currently underway, what we can learn from the past to predict the future and the necessary duties of care providers and adopters need to ensure.
@@ -110,7 +106,9 @@ Mon, Feb 13, 2017 RSA Conference 2017
 
 RSA Conference 2017 provides the opportunity for all attendees at all levels to grow their knowledge, exchange ideas with peers and further their careers. With opportunity comes great responsibility for the future. Our actions today will have a lasting impact on the strength of the industry—and the safety of the world—tomorrow. Don’t miss out on this amazing opportunity from February 13 to 17 in San Francisco! OTA members get additional $100 off:  **1U7OTAFD** 
 
-More >>.
+Wed, May 24, 2017 Planning for the Future: A Conference About Identity Theft
+
+Ten years ago, President Bush launched a new era in the fight against identity theft by issuing an executive order establishing the Identity Theft Task Force, which the Commission co-chaired. In the ensuing ten years, great strides have been made to combat identity theft but it remains a significant problem for American consumers. The Federal Trade Commission will host an all-day conference to take a comprehensive look at how identity theft has evolved over the last decade and what we can do to address this challenge in the future.
 
 *   OTA Blog
 *   Newsletters
