@@ -57,14 +57,9 @@ User Profile
 
 As described above, a user's User Profile serves as a central repository of all contact and insurance-related data entered by the user. The user has the ability to add, edit, or delete information from his User Profile at any time. In addition to user-entered data, the User Profile also contains administrative information such as a running record of E-Insure employee interactions with the user. This information enables E-Insure's support staff to provide a consistently high-quality customer service experience across its client base, and is not accessible to the user.
 
-Cookies
+Tracking Technologies
 
-Technologies such as cookies, beacons, tags and scripts are used by E-Insure and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.  
-We use cookies to remember users’ settings (e.g. language preference), and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
-
-LSOs
-
-We use LWe use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To learn how to manage privacy and storage settings for Flash cookies click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager.html#117118
+E-Insure and its partners use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager07.html
 
 Log Files
 
@@ -109,7 +104,7 @@ This site uses the “Share This” widget where personal information is collect
 
 Sharing
 
-Though we at E-Insure Services make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or legal process served on our Web site and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. We occasionally share aggregated demographic information with current and prospective partners and advertisers.  Such information is in aggregate form _only_, and is not linked to any personal information about our users.  E-Insure users can opt to have their personal information shared with reputable third parties deemed by E-Insure to have products or services of specific interest to them. Although E-Insure exerts no control over what such third parties do with this information once it is shared, users may at any time opt out of _future_ sharing.  E-Insure Services will personally notify users at any time we share their personal information with a third party. **E-Insure currently has no third-party information sharing arrangements.**
+Though we at E-Insure Services make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or legal process served on our Web site and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. In certain situations, E-Insure may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We occasionally share aggregated demographic information with current and prospective partners and advertisers.  Such information is in aggregate form _only_, and is not linked to any personal information about our users.  E-Insure users can opt to have their personal information shared with reputable third parties deemed by E-Insure to have products or services of specific interest to them. Although E-Insure exerts no control over what such third parties do with this information once it is shared, users may at any time opt out of _future_ sharing.  E-Insure Services will personally notify users at any time we share their personal information with a third party. **E-Insure currently has no third-party information sharing arrangements.**
 
 We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
@@ -149,7 +144,7 @@ E-Insure Services may update this privacy policy to reflect changes to our infor
 
 Questions &. Feedback
 
-Please direct any questions or feedback regarding this Privacy Policy to E-Insure's Customer Service department. Privacy concerns, questions, and requests to inspect/change/delete/modify data collected covered by this policy are normally responded to within 15-30 business days depending on the nature of the request.
+Please direct any questions or feedback regarding this Privacy Policy to E-Insure's Customer Service department. Upon request E-Insure will provide you with information about whether we hold any of your personal information. Privacy concerns, questions, and requests to inspect/change/delete/modify data collected covered by this policy are normally responded to within 15-30 business days depending on the nature of the request.
 
 E-Insure Services, Inc.  
 105 W. Adams St., Suite 1325  
@@ -157,6 +152,6 @@ Chicago, IL 60603
 (855) 372-7400  
 privacy@einsure.com  
   
-EFFECTIVEFFECTIVE DATE 02.23.2016 (Applies Only to the Policy Statements Above)
+EFFECTIVEFFECTIVE DATE 12.02.2016 (Applies Only to the Policy Statements Above)
 
 EINSURANCE refers to one web service and privacy policy operating on the following website domain names: einsurance.com, e-insurance.com
