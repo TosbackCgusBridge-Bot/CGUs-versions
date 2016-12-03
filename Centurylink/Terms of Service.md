@@ -36,7 +36,7 @@ I'd like to try to enter my information again.
   
 Not sure what to do? Try Customer Service Check Availability Already a customer? Sign in Customer Account Info New customer?
 
-Please enter your service address so we can show you accurate pricing and product availability in your area.
+Please enter your service address, so we can show you accurate pricing and product availability in your area.
 
 Sign in with your account user name and password so that we can show you the pricing options available to you. Don't have an account yet? Enroll Now
 
@@ -75,7 +75,7 @@ example: 333-222-2222
 
 Like most companies, we have certain information about our customers and use it to provide our services. We also share it as needed to meet our business goals or fulfill our legal obligations. We protect the information we have about our customers, and we require those we share it with to protect it too.
 
-By inputting your account information and clicking the "Show My Options" button, you provide consent to CenturyLink to access your account information, including the services you subscribe to, to respond to your inquiry and inform you of CenturyLink's products and services. You may deny us permission by proceeding no further and your denial will have no affect on your current services. Under federal law, it is your right and our duty to protect your account information. Learn more or Close This Window
+By inputting your account information and clicking the "Continue" button, you provide consent to CenturyLink to access your account information, including the services you subscribe to, to respond to your inquiry and inform you of CenturyLink's products and services. You may deny us permission by proceeding no further and your denial will have no affect on your current services. Under federal law, it is your right and our duty to protect your account information. Learn more or Close This Window
 
 Sorry, we don't recognize the information you provided.  
   
