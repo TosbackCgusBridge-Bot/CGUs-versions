@@ -1,4 +1,11 @@
-campaign: abTest\_bar1\_ft\_offer\_test\_1016\_outOfTrial -- 284802, creative: abTest\_bar1\_ft\_offer\_test\_1016\_out\_Of\_Trial -- 415222, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1*   Help
+campaign: nyt2016\_bar1\_digi\_cpb\_67LXL -- 283987, creative: nyt2016\_bar1\_digi\_cpb\_67LXL -- 414213, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
+
+*   1 of 10 articles read
+*   SUBSCRIBE NOW Real news deserves  
+    real journalism. Get The Times.  
+    As low as 99¢ for 4 weeks. SEE MY OPTIONS
+
+Subscribe*   Help
 
 *   Home Page
 *   Today's Paper
