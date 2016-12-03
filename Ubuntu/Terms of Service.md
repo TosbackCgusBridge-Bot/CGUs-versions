@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Cloud Chatter: November 2016 ›
 *   Canonical’s Distribution of Kubernetes Reduces Operational Friction ›
 *   UbuCon Europe – a sure sign of community strength ›
 *   Competition: Build a seasonal snap on your Raspberry Pi! ›
-*   10 Desktop snaps written in November ›
