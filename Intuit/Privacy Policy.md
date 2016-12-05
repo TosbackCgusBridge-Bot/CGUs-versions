@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15612787235
+true true L15632893306
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Sat Dec 03 11:15:29 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1l1j1 TIME :->. Sun Dec 04 11:15:21 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -54,55 +54,23 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Gifts Worth Giving Shop Now: 5.99 guys' graphic tees, reg. $12 6.99 Mixit cozy slippers or 2pk. cozy socks, reg. $12-$14 14.99 guys' Arizona flannel shirts, reg. $36 11.99 Little Tikes truck, reg. 14.99 9.99 boys' &. girls' Xersion x-tech &. polar fleece, reg. $20 10.99 Mixit booties, reg. $20 14.99 Tzumi dream vision virtual reality headset, reg. $30 17.99 men's St. John's Bay sweaters, reg. $42 12.99 fashion jewelry boxed sets, reg. $20-$26 9.99 select Disney Collection sleepwear &. slippers, reg. $18. Excluded from coupon 19.99 select a.n.a Stylus or St. John's Bay sweaters, reg. $36 17.63 Cooks power blender or nonstick griddle, reg. $40 Red Zone Clearance 50 to 70% Off End of Season Markdowns!
+Customer Appreciation Sale
 
-In Store &. Online
+Ends December 6
 
-Shop Clearance Now: Customer Appreciation Sale In Store &. Online | Ends December 6 Shop Now View Store Ad 40 to 50% Off Pajamas for the Family
+Shop Customer Appreciation Sale View Store Ad 6.99 select St. John's Bay long-sleeve, 3/4-sleeve mockneck or turtleneck tees for her, orig. $16 14.99 select men's St. John's Bay flannel shirts, reg. $34 49.99 select boots for her, reg. $90 79.99+ EXTRA 15% OFF WITH COUPON\* iLIVE bluetooth dancing water karaoke machine, reg. $120 40% OFF select Made for Life apparel, orig. $18-$42 19.99 select guys' Arizona denim, reg. $42 40-50% OFF select men's boots 34.99-59.99, reg. $70-$120 99.99+ EXTRA 15% OFF WITH COUPON\* Nutri Ninja with auto IQ, reg. $225 14.99 select plus-size St. John's Bay sweater, orig. $36-$40 25% OFF select men's Nike fleece, Nike excluded from coupon 14.99 select slippers for her, reg. $26-$28 7.99 JCPenney Home farmhouse stripe or 30x54" quick-dri solid bath towel, reg. $16 7.99 select boys' Xersion Xtech fleece, reg. $20 $9 select Disney Collection medium plush, reg. $18, excluded from coupon, only at JCPenney, ©Disney 19.99 ea. select fashion silver bracelets, reg. $60 ea. 12.99 set select fashion jewelry sets, reg. $20-$26 Holiday Jewelry Sale Up To 70% Off Fine &. Fashion Jewelry
 
-Select styles, reg. $20-$30
+Select styles. Ends December 24.
 
-Shop Pajamas for the Family 40 to 60% Off Coats &. Jackets For The Family
-
-Select styles
-
-Shop Men Shop Women Shop Boys Shop Girls         Home Sale 30 to 50% Off
+Shop Holiday Jewelry Sale Shop Bracelets Holiday Home Sale 30 to 50% Off
 
 Select styles.
 
-Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses   Up to 20% Off\* Major Appliances
+Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses   Lowest Price. Guaranteed! Find a lower price at our competitor? Tell us and we’ll beat it by 5%\*
 
-Select styles
+\*Some restrictions apply.
 
-Plus Extra 10% Off\* with code 44BUYNOW Shop Major Appliances:
-
-\*GE, GE Profile &. GE Cafe limited to 10% off savings.
-
-HELD OVER! 18 Months or 36 Months Special Financing\*\*
-
-Available on qualifying major appliance purchases made through 12/17/16 on a JCPenney Credit Card. Must request at time of purchase.
-
-\*\*Get Details:
-
-Don't have a JCPenney Credit Card?
-
-Apply Now: Free Delivery &. Basic Installation
-
-On all appliance purchases over $299
-
-Get Details: JCPenney Rewards Shop &. Get Rewards
-
-For points earned on major appliances+
-
-+Get Details: Sephora Shop Gifts: JCPenney | portraits
-
-As low as .59 holiday photo greeting cards through 12/30/16.
-
-Get Coupon: SportsFanShop
-
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
-
-Shop Now: Download the JCPenney App and Get Shopping Check Out The App: Download on the App Store Get it on Google Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Dec 03 22:00:59 CST 2016 JVM :->. dtexppr1l2j3\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Dec 03 21:04:37 CST 2016 JVM :->. dtexppr1l2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Get Details: Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Dec 04 21:54:55 CST 2016 JVM :->. dtexppr1l2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Dec 04 03:09:57 CST 2016 JVM :->. dtexppr1l1j2\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
