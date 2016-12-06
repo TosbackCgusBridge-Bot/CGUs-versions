@@ -254,7 +254,7 @@ E-mail: privacy@defymedia.com
 
 Free Online Games and More
 
-This site is part of the Defy Media Gaming network.
+Part of the Addicting Games network.
 
 *   CONTACT US
 *   About Us
