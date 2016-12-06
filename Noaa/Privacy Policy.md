@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms First above-normal Atlantic hurricane season since 2012 produced five landfalling U.S. storms AROUND NOAA // Celebrate the beauty and importance of corals during Corals Week GOES-R heads to orbit, will improve weather forecasting Blog: Promoting resilient coral reefs in a changing climate
+Enter Search Terms First above-normal Atlantic hurricane season since 2012 produced five landfalling U.S. storms AROUND NOAA // Watch live: NOAA to dive on Japanese mini submarines near Pearl Harbor Dec. 7 December 8: Ask NOAA experts about ocean noise on Reddit GOES-R heads to orbit, will improve weather forecasting
 
 *   About our agency
 *   News and features
