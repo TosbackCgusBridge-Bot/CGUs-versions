@@ -12,13 +12,11 @@ LENOVO Menu
     *   Services &. Warranty
 *   Deals
     *   Explore All  
-        Doorbusters
-    *   Daily Deals
-    *   Home Laptop Doorbusters
-    *   Professional Laptop Doorbusters
-    *   Desktop Doorbusters
-    *   Tablet Doorbusters
-    *   Stocking Stuffers
+        Deals
+    *   Home Laptop Deals
+    *   Professional Laptop Deals
+    *   Desktop Deals
+    *   Tablet Deals
     *   Clearance Sale
     *   Deals for Students &. Educators
     *   Outlet
