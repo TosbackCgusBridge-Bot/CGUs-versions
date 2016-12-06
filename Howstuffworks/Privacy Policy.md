@@ -244,13 +244,13 @@ Last Updated On: 08/10/2016
 
 Print | Citation &. Date
 
-Today's Headlines
+More to Explore Today's Headlines
 
-**Many Stories Have One of Six 'Beautiful Shapes'**
+**Toddlers May Be Able to Determine Whether Adults Are Lying**
 
-**Clever App Uses Smartphone Camera to Identify Plant Species**
+**'The Santa Myth': Childhood Fun or Dangerous Lie?**
 
-**We Bet We Know What Your Favorite Number Is**
+**Futuristic EM Drive Could Work — If It Can Defy the Laws of Physics**
 
 **See More Headlines »**
 
@@ -294,25 +294,7 @@ Get the best of HowStuffWorks by email. Keep up to date on:
 *   Tours
 *   Weird &. Wacky
 
-Sign-up Now! Testing this long verbose error message to check the behaviour More From The Stuff Network
-
-BrainStuff
-
-CarStuff
-
-Stuff Mom Never Told You
-
-Stuff of Genius
-
-Stuff They Don't Want You to Know
-
-FW:Thinking
-
-Stuff to Blow Your Mind
-
-Stuff You Should Know
-
-Stuff You Missed in History Class
+Sign-up Now! Testing this long verbose error message to check the behaviour More From The Stuff Network BrainStuff CarStuff Stuff Mom Never Told You Stuff of Genius Stuff They Don't Want You to Know FW:Thinking Stuff to Blow Your Mind Stuff You Should Know Stuff You Missed in History Class
 
 Copyright © 2016 HowStuffWorks,  
 a division of InfoSpace Holdings LLC
