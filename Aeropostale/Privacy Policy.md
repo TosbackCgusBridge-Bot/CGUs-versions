@@ -64,7 +64,6 @@ Aéropostale
     *   Tanks
     *   Shirts
     *   Hoodies
-    *   Sweaters
     
     *   BOTTOMS
     *   Jeans
