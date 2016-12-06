@@ -1,4 +1,4 @@
-**Last Revised: December 2, 2016**
+**Last Revised: December 5, 2016**
 
 GoDaddy Respects your privacy
 
@@ -45,6 +45,8 @@ We use mobile analytics software to allow us to better understand the functional
 This Site and our mobile applications contain links to third party websites. Unfortunately, GoDaddy is not responsible for the privacy practices or the content of such sites.  We encourage you to carefully read the privacy statement of any website you visit.
 
 For domain name registrations, please review the privacy portion (where available) of the Registry Policies for the top-level domain in which you wish to or have registered a domain name to better understand how your WHOIS data is utilized by the individual registry.
+
+**_For additional information, and to manage how we use cookies, web beacons and similar technologies on your devices, please click here._** 
 
 **Security**
 
