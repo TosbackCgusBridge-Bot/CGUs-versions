@@ -35,7 +35,7 @@ Show menu
     *   Feedback
 *   Español
 
-*   Home
+*   Home currently selected
 *   Hotels
 *   Flights
 *   Packages
