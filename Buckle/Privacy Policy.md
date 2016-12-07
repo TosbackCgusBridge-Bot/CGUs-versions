@@ -95,7 +95,7 @@
         *   Polos
         *   Sweatshirts
         *   Sweaters
-        *   Outerwear
+        *   Coats/Jackets
         *   Shop All
         
         *   Bottoms
@@ -149,7 +149,7 @@
         
         *   Shirts
         *   Jeans
-        *   Outerwear
+        *   Coats/Jackets
         *   Accessories
         *   Shoes
         *   Shop All
