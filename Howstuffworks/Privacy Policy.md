@@ -244,13 +244,13 @@ Last Updated On: 08/10/2016
 
 Print | Citation &. Date
 
-More to Explore Today's Headlines
+Today's Headlines
 
-**Toddlers May Be Able to Determine Whether Adults Are Lying**
+**Hear and Now: Ditching the White House**
 
-**'The Santa Myth': Childhood Fun or Dangerous Lie?**
+**Want to Define Poverty? Consider More Than Just Income, Study Says**
 
-**Futuristic EM Drive Could Work — If It Can Defy the Laws of Physics**
+**9 Hideous Holiday Sweaters**
 
 **See More Headlines »**
 
@@ -294,7 +294,25 @@ Get the best of HowStuffWorks by email. Keep up to date on:
 *   Tours
 *   Weird &. Wacky
 
-Sign-up Now! Testing this long verbose error message to check the behaviour More From The Stuff Network BrainStuff CarStuff Stuff Mom Never Told You Stuff of Genius Stuff They Don't Want You to Know FW:Thinking Stuff to Blow Your Mind Stuff You Should Know Stuff You Missed in History Class
+Sign-up Now! Testing this long verbose error message to check the behaviour More From The Stuff Network
+
+BrainStuff
+
+CarStuff
+
+Stuff Mom Never Told You
+
+Stuff of Genius
+
+Stuff They Don't Want You to Know
+
+FW:Thinking
+
+Stuff to Blow Your Mind
+
+Stuff You Should Know
+
+Stuff You Missed in History Class
 
 Copyright © 2016 HowStuffWorks,  
 a division of InfoSpace Holdings LLC
