@@ -100,6 +100,7 @@ menu 0
     *   Holiday Style Guide
     *   Ultimate Coat Finder
     *   Gifts for Him
+    *   Flannel Favorites
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -284,6 +285,7 @@ menu 0
     *   Blazers
     *   Activewear
     *   Outerwear
+    *   Shoes
     *   Accessories
     *   Backpacks &. Bags
     
@@ -295,6 +297,7 @@ menu 0
     *   Blazers
     *   Activewear
     *   Outerwear
+    *   Shoes
     *   Accessories
     *   Backpacks &. Bags
 *   Home
@@ -313,7 +316,6 @@ menu 0
     *   Supima Bedding &. Bath
     *   Flannel Bedding
     *   No Iron Bedding
-    *   Bedding Collections
     *   Sale
     
     More for the Home >.
@@ -348,10 +350,10 @@ menu 0
     *   Greenery
     
     ENTERTAINING >.
+    *   Food &. Candy
     *   Table Linens
     *   Glassware
-    *   Serveware
-    *   Food &. CandyKids Room >. Dog Shop >.
+    *   ServewareKIDS ROOM >. DOG SHOP >.
 *   Gifts
     
     *   Lands' End
@@ -456,6 +458,7 @@ menu 0
     *   Holiday Style Guide
     *   Ultimate Coat Finder
     *   Gifts for Him
+    *   Flannel Favorites
     *   Sale
     
     SHOP BY SIZE RANGE Back | Men
@@ -639,6 +642,7 @@ menu 0
     *   Blazers
     *   Activewear
     *   Outerwear
+    *   Shoes
     *   Accessories
     *   Backpacks &. Bags
     
@@ -650,6 +654,7 @@ menu 0
     *   Blazers
     *   Activewear
     *   Outerwear
+    *   Shoes
     *   Accessories
     *   Backpacks &. Bags
 *   Home
@@ -668,7 +673,6 @@ menu 0
     *   Supima Bedding &. Bath
     *   Flannel Bedding
     *   No Iron Bedding
-    *   Bedding Collections
     *   Sale
     
     More for the Home Back | More for the Home
@@ -703,10 +707,10 @@ menu 0
     *   Greenery
     
     ENTERTAINING Back | ENTERTAINING
+    *   Food &. Candy
     *   Table Linens
     *   Glassware
-    *   Serveware
-    *   Food &. CandyKids Room Back | Kids Room Dog Shop Back | Dog Shop
+    *   ServewareKIDS ROOM Back | KIDS ROOM DOG SHOP Back | DOG SHOP
 *   Gifts
     
     *   Lands' End
