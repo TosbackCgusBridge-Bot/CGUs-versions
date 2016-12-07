@@ -52,7 +52,7 @@ We leverage data from any source, anywhere and at any time and apply our proprie
 
 1 Data We source market research data from surveys, social media, enterprise systems, mobile, public sources, GPS/geo location and other applicable repositories.
 
-2 Technology  Self -developed technologies for data collection and integration include our global audience platform, passive metering, dashboarding and/or our big data ecosystem.
+2 Technology  Self-developed technologies for data collection and integration include our global audience platform, passive metering, dashboarding and/or our big data ecosystem.
 
 3 Solutions We combine data and technology to generate marketing analytics and consumer insight through best-in-class solutions in Innovation, Brand Engagement and Customer Value.
 
