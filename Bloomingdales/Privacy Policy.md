@@ -352,11 +352,11 @@ Back to top
 
 Does this answer your question? Tells us how you think we can make this answer more helpful to you. We do not respond to comments sent through this form. \*Email:Required \*Your Feedback:Required \* required fields  
 
+*   Highlights of Bloomingdale’s Notice of Privacy Practices
 *   What is the return and exchange policy?
-*   What is the shipping policy?
 *   Terms of Use
 *   How do I return an item purchased at a Bloomingdale's store?
-*   Highlights of Bloomingdale’s Notice of Privacy Practices
+*   What is the shipping policy?
 
 *   CUSTOMER SERVICE
     *   Shipping Policy
