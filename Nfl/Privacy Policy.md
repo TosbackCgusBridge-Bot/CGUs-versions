@@ -124,7 +124,7 @@ We are committed to maintaining your trust, and we want you to understand when a
     
 *   Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Services, but your ability to use certain features may be limited.
     
-*   The Services may use Local Storage Objects (LSOs) to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager07.html
+*   The Services may use Local Storage Objects (LSOs) to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html
     
 *   We may use mobile analytics software to allow us to better understand the functionality of our Services. This software may record information such as how often you use an application, the events that occur within the application, aggregated usage, performance data, and where an application was downloaded from.
     
