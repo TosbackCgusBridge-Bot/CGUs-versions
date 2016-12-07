@@ -1,4 +1,4 @@
-Healthline Media, Inc. ("Healthline") respects the privacy rights of our users and is committed to protecting the information collected through its suite of mobile applications, including without limitation, MS Buddy, (collectively, the “App”) and on our websites at www.healthline.com, www.medicalnewstoday.com, and www.medilexicon.com (the “Website”) (collectively with the App, the “Services”). This privacy policy ("Privacy Policy") explains how Healthline collects, stores, and uses the information collected in connection with Healthline's Services. Your access to and use of the Services is subject to Healthline’s Terms of Service (the “Terms”). Any capitalized terms used but not defined in this Privacy Policy have the meanings provided in the Terms.
+Healthline Media, Inc., owner of Medilexicon International Limited, ("Healthline") respects the privacy rights of our users and is committed to protecting the information collected through its suite of mobile applications, including without limitation, MS Buddy, Medical News Today for iPhone, (collectively, the “App”) and on our websites at www.healthline.com, www.medilexicon.com and www.medicalnewstoday.com, (the “Website”) (collectively with the App, the “Services”). This privacy policy ("Privacy Policy") explains how Healthline collects, stores, and uses the information collected in connection with Healthline's Services. Your access to and use of the Services is subject to Healthline’s Terms of Service (the “Terms”). Any capitalized terms used but not defined in this Privacy Policy have the meanings provided in the Terms.
 
 BY INSTALLING, USING, REGISTERING TO OR OTHERWISE ACCESSING ANY SERVICES, YOU AGREE TO THIS PRIVACY POLICY AND GIVE AN EXPLICIT AND INFORMED CONSENT TO THE COLLECTION, USE AND PROCESSING OF YOUR PERSONAL DATA IN ACCORDANCE WITH THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT VISIT, INSTALL, USE, REGISTER TO OR OTHERWISE ACCESS ANY SERVICES.
 
@@ -6,7 +6,8 @@ Healthline reserves the right to modify this Privacy Policy at any time, so plea
 
 This Privacy Policy applies only to the Services and electronic communications sent through the Services. It does not apply to information collected offline or by third parties.
 
-What information do we collect and how is it used? Non-personal data
+What information do we collect and how is it used?  
+Non-personal data
 
 For purposes of this Privacy Policy, "non-personal data" means information that does not directly identify you, is not specific to you, and cannot to linked specifically to you, or information that is publicly available. Additionally, non-personal data means "aggregate" and "de-personalized" information, which is data Healthline collects about the use of Services, from which any personally identifiable data has been removed.
 
@@ -90,8 +91,7 @@ Healthline retains the data collected pursuant to this Privacy Policy for the pe
 
 Healthline may still retain some of the data to the extent such retention is necessary to resolve disputes, enforce Healthline user agreements, and comply with technical and legal requirements and constraints related to the security, integrity and operation of Services.
 
-If you delete your User Contributions from the Services, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Services users. Proper access and use of information provided on the Services, including User Contributions, is governed by our terms of use.
-
+If you delete your User Contributions from the Services, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Services users. Proper access and use of information provided on the Services, including User Contributions, is governed by our terms of use.  
 Cookies, beacons and tracking
 
 The Apps may use "cookies" and other technologies such as pixel tags, clear GIFs and web beacons. Healthline treats information collected by cookies and similar technologies as non-personal data. Cookies are a standard Internet technology that allows a web server to both store and retrieve information on a user's system. Healthline and its partners use browser cookies to anonymously associate collected information with a specific computer browser.
@@ -111,9 +111,7 @@ We use session cookies that expire at the end of a browser session (from when a 
 We use Cookies for different purposes, which can be categorized as follows:
 
 *   Functional Cookies: These cookies are required for the website to function and for you to use our services. They include, for example, cookies that enable you to log in, use a wish list or store products in a shopping cart. They may also enable us to recognize you when you return to our site and store information about your preferences, so they allow us to customize our site according to your individual preferences (such as the language chosen by you).
-  
 *   Analytical Cookies: These cookies analyze how users navigate around the website (pages visited, links used etc.) or how they use e-mails we’ve sent to them. They enable us to better understand interests of users and to improve our website and services.
-  
 *   Google Analytics: The Website uses Google Analytics, a web analysis service provided by Google Inc. ("Google"). The information generated by the cookie is usually sent to a Google server in the USA. On our behalf, Google will use this information to evaluate your use of the website and to compile reports on website activities. The IP address transmitted by your browser is not collated with other data by Google.
     *   You can learn more about Google Analytics here: www.google.com/policies/privacy/partners/. You can prevent transmission of data relating to your use of the Website (including your IP address) to Google by downloading and installing the browser plug-in available at the following link: http://tools.google.com/dlpage/gaoptout?hl=en.
 *   Third party advertising: We use third-party service providers to display advertisements (banners or links) on our behalf across the internet. These advertising service providers may collect information about your visits to our website and your interactions with our products and services, as well as your visits to other websites. Such information does not include your name, address, e-mail address but may contain browser-related information.
@@ -190,16 +188,15 @@ The file containing your Personal Information will be held at our offices or on 
 
 Please address any questions or concerns, inquiries, complaints, requests to access or correct your personal information, or requests to limit the processing of your personal information regarding our Privacy Policy or our practices concerning personal information, including with respect to the use of foreign service providers, to Healthline at:
 
-Telephone Number: 415-281-3100
+**Telephone Number:** 415-281-3100
 
-E-mail address: privacypractices@healthline.com
+**E-mail address:** privacypractices@healthline.com
 
 Alternatively please feel free to directly contact our compliance department:
 
-Healthline
-
+Healthline  
 Chief Compliance Officer
 
-E-mail: privacypractices@healthline.com
+**E-mail:** privacypractices@healthline.com
 
-LAST MODIFIED: November 22, 2016
+**LAST MODIFIED: December 1st, 2016**
