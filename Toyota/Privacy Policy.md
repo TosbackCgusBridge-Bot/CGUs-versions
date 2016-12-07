@@ -51,7 +51,7 @@ Hybrids &. FCV
 
 *   $27,995 as shown 2017 Camry Hybrid $26,790 starting 42/38 est. mpg build Specials
 *   $42,550 as shown 2017 Avalon Hybrid $37,250 starting 40/39 est. mpg build Specials
-*   $34,030 as shown 2017 RAV4 Hybrid $29,030 starting 34/30 est. mpg build Specials
+*   $34,645 as shown 2017 RAV4 Hybrid $29,030 starting 34/30 est. mpg build Specials
 *   $50,085 as shown 2017 Highlander Hybrid $36,270 starting 30/28 est. mpg build Specials
 *   $28,800 as shown 2017 Prius Prime $27,100 starting 54/133 est. mpg /MPGe build
 *   $32,115 as shown 2017 Prius $24,685 starting 54/50 est. mpg build Specials
@@ -223,6 +223,8 @@ Toyota Vehicles
 
 Cars
 
+*   86  
+    
 *   Avalon  
     
 *   Camry  
@@ -274,6 +276,8 @@ Hybrids
 *   Prius  
     
 *   Prius _c_  
+    
+*   Prius Prime  
     
 *   Prius _v_  
     
