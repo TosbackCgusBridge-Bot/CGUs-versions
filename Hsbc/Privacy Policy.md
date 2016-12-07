@@ -54,13 +54,11 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         
     *   Reports and documentation
         
-    *   Supplier code of conduct
-        
     *   Risk and responsibility
-        *   Global Standards
+        *   Financial crime risk
         *   Health and safety
         *   Reputational and operational risks
-        *   USA Patriot Act certification
+        *   Supplier code of conduct
     
     *   Sustainability quick read Read an overview of sustainability at HSBC.
 *   Investor relations
@@ -343,7 +341,6 @@ Contact Us Our approach
 *   Sustainability
 *   Frequently asked questions
 *   Reports and documentation
-*   Supplier code of conduct
 *   Risk and responsibility
 
 Investor relations
