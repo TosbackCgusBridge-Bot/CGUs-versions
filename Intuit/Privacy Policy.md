@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15638060803
+true true L15640282523
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1l1j5 TIME :->. Tue Dec 06 11:15:31 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Wed Dec 07 11:15:36 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -54,11 +54,19 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Customer Appreciation Sale
+ONE DAY ONLINE ONLY!
 
-Ends December 6
+Ends December 7 | Code: 6BIGSALE
 
-Shop Customer Appreciation Sale View Store Ad 6.99 select St. John's Bay long-sleeve, 3/4-sleeve mockneck or turtleneck tees for her, orig. $16 14.99 select men's St. John's Bay flannel shirts, reg. $34 49.99 select boots for her, reg. $90 79.99+ EXTRA 15% OFF WITH COUPON\* iLIVE bluetooth dancing water karaoke machine, reg. $120 40% OFF select Made for Life apparel, orig. $18-$42 19.99 select guys' Arizona denim, reg. $42 40-50% OFF select men's boots 34.99-59.99, reg. $70-$120 99.99+ EXTRA 15% OFF WITH COUPON\* Nutri Ninja with auto IQ, reg. $225 14.99 select plus-size St. John's Bay sweater, orig. $36-$40 25% OFF select men's Nike. Nike excluded from coupon 14.99 select slippers for her, reg. $26-$28 7.99 JCPenney Home farmhouse stripe or 30x54" quick-dri solid bath towel, reg. $16 7.99 select boys' Xersion Xtech fleece, reg. $20 $9 select Disney Collection medium plush, reg. $18, excluded from coupon, only at JCPenney, ©Disney 19.99 ea. select fashion silver bracelets, reg. $60 ea. 12.99 set select fashion jewelry sets, reg. $20-$26 Holiday Jewelry Sale Up To 70% Off Fine &. Fashion Jewelry
+Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100
+
+\*exclusions apply
+
+Get Details: 40-50% off xersion activewear for her, select styles, 11.99-34.99, orig. $20-$60 $12 Men's St. John's Bay flannel or heavyweight knits, select styles, reg. $34 $14 Boys' &. Girls' Arizona Flannels, select styles, reg. $30 Boys Arizona FlannelsGirls Arizona Flannels 39.99 after $10 mail-in rebate Cooks 13-pc. aluminum nonstick cookware set, 49.99, reg. $100 14.99 sweaters for her, select styles 14.99 sweaters for him, select styles 9.99 juniors' sweaters, select styles Extra 20% off sports fan shop, select styles, with code: SPORT45 60% off coats for the family, select styles 60% off cold-weather bedding, select styles 60% off cold-weather accessories for her, select styles 60% off cold-weather accessories for him, select styles buy 1 get 1 for 1 Â¢ juniors' denim\*\*, select styles, reg. $40-$60
+
+\*\*Buy one item at regular price, get a second item of equal or lesser value, for one cent, while supplies last.
+
+$12 mens' st. john's bay long-sleeve knit shirts, select styles, reg. $30-$36 $8-$10 Carter's holiday sleepwear, select styles, reg. $20-$26 60% off all home expressions 10-pc. comforter sets, 111.99-119.99, reg. $280-$300 $6 Mixit 2-pk. cozy socks, select styles, reg. $12-$14 19.99 ea. fashion silver bracelets, select styles, reg. $60 ea. 34.99 set cultured freshwater 2-pc. pearl set, select styles, 34.99 set, reg. 99.99 set 19.99 boots for her, select styles, reg. $60-$120 60% off studio curtains &. drapes, select styles 40-50% off mattresses, select styles 40-50% off lighting, select styles up to 20% off major appliances, select styles Holiday Jewelry Sale Up To 70% Off Fine &. Fashion Jewelry
 
 Select styles. Ends December 24.
 
@@ -66,11 +74,15 @@ Shop Holiday Jewelry Sale Shop Bracelets Holiday Home Sale 30 to 50% Off
 
 Select styles.
 
-Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses   Lowest Price. Guaranteed! Find a lower price at our competitor? Tell us and we’ll beat it by 5%\*
+Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses279.99 - After $50 Mail-In Rebate - KitchenAid Artisan 5-Qt. Stand Mixer
+
+KSM1550PS, select styles, $329.99, reg. $500
+
+Shop KitchenAid Artisan 5-Qt. Stand Mixer Lowest Price. Guaranteed! Find a lower price at our competitor? Tell us and we’ll beat it by 5%\*
 
 \*Some restrictions apply.
 
-Get Details: Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p06.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Dec 06 21:58:53 CST 2016 JVM :->. dtexppr1l3j1\_06 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p05.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Dec 06 03:43:58 CST 2016 JVM :->. dtexppr1l3j2\_05 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Get Details: Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p06.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Dec 07 21:05:47 CST 2016 JVM :->. dtexppr1l3j5\_06 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Dec 07 03:52:24 CST 2016 JVM :->. dtexppr1l2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
