@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 10.775,32ǀ
+*   DAX 10.986,69ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -680,7 +680,7 @@ SPIEGEL GRUPPE
 *   SPIEGEL BIOGRAFIE
 *   Edition Geschichte
 *   SPIEGEL SPEZIAL
-*   Dein SPIEGEL Extra
+*   CHRONIK 2016
 *   UNI SPIEGEL
 *   LITERATUR SPIEGEL
 
