@@ -112,14 +112,14 @@ View more results
     *   My Dolphin Show 7
     *   Secret Garden
     *   Call Of War
-    *   Slither.io
-    *   Bubble Shooter
+    *   Pixel Gun Apocalypse 3
+    *   Fly with Rope 2
     
     Mobile Apps More
     
     *   Cats Empire
-    *   Troll Face Quest Video Games
     *   My Dolphin Show
+    *   Troll Face Quest Video Games
     *   Troll Face Quest Video Memes
     *   Hero Simulator: Idle Adventure
     *   Crash Drive 2
