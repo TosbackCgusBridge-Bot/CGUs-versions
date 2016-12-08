@@ -1,6 +1,33 @@
-Toggle navigationSuperpages Online Yellow Pages, Local Business Directory
+Toggle navigationSuperpages Online Yellow Pages, Local Business Directory  
 
-*   Find
+*   Join
+*   •
+*   Sign In
+*   •
+
+*   *   Welcome {{user.username | limitTo:15}}{{user.username.length >. 15 ? "..." : ""}}
+    *   My Superpages
+    *   Sign out
+
+*   *   Welcome {{user.username | limitTo:15}}{{user.username.length >. 15 ? "..." : ""}}!
+    *   Sign Out
+    *   My Superpages
+        *   Favorites
+        *   Reviews
+        *   Coupons
+    
+    *   Sign In
+    *   Join
+    
+    *   People Search
+    *   Lottery Results
+    *   Weather
+    *   Maps
+    *   Cars
+    *   Popular Categories
+    *   State Directory
+
+*   Browse
     *   People
     
     *   Lottery Results
@@ -15,16 +42,6 @@ Toggle navigationSuperpages Online Yellow Pages, Local Business Directory
     
     *   State Directory
 *   Advertise With Us
-
-*   Join
-*   •
-*   Sign In
-
-*   *   Welcome {{user.username | limitTo:15}}{{user.username.length >. 15 ? "..." : ""}}
-    *   My Superpages
-    *   Sign out
-
- 
 
 1.  Home
 2.  About Us &. Help
@@ -225,8 +242,10 @@ Contact Information Who do I contact if I am concerned, or have questions, about
 *   Patents
 *   Site Map
 
-Claim Your Free Listing
+Free Listing
 
-Claim your free business listing on Superpages. The more information you provide about your business, the easier it will be for your customers to find you online.
+Claim your free business listing
 
-Get Your Free Listing Copyright © {{date | date:'yyyy'}} Dex Media, Inc. All rights reserved. | Terms &. Conditions | Privacy Policy Connect with us on
+on Superpages. The more information you provide about your business, the easier it will be for customers to find you online.
+
+Claim This Business Copyright © {{date | date:'yyyy'}} Dex Media, Inc. All rights reserved. Terms of Use. Privacy Policy. Connect with us on
