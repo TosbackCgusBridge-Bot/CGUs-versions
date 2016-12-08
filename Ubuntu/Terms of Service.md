@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Webinar: Running an enterprise-grade OpenStack without the headaches ›
+*   Jamming with Ubuntu Core ›
+*   LXD 2.0: LXD and OpenStack \[11/12\] ›
 *   Cloud Chatter: November 2016 ›
-*   Canonical’s Distribution of Kubernetes reduces operational friction ›
-*   UbuCon Europe – a sure sign of community strength ›
-*   Competition: Build a seasonal snap on your Raspberry Pi ›
