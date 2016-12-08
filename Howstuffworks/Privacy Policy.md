@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Hear and Now: Ditching the White House**
+**Human Technology on Earth Weighs a Massive 30 Trillion Tons**
 
-**Want to Define Poverty? Consider More Than Just Income, Study Says**
+**World War II Relics Still Haunt Pacific Waters**
 
-**9 Hideous Holiday Sweaters**
+**Why It's Important That NASA Studies Both Earth and Outer Space**
 
 **See More Headlines »**
 
