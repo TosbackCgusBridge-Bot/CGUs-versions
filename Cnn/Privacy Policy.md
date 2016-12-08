@@ -82,6 +82,7 @@ Video
 
 *   Video news
 *   Feature shows
+*   HLN
 *   TV shows
 *   TV schedule
 *   Faces of CNN Worldwide
@@ -205,9 +206,10 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 1.  Video
     1.  Video news
     2.  Feature shows
-    3.  TV shows
-    4.  TV schedule
-    5.  Faces of CNN Worldwide
+    3.  HLN
+    4.  TV shows
+    5.  TV schedule
+    6.  Faces of CNN Worldwide
 
 1.  More…
     1.  Weather
