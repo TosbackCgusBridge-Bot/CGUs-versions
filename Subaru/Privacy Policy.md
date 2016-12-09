@@ -139,7 +139,7 @@ All Vehicles Find Your Subaru All Vehicles Certified Pre-Owned Certified Pre-Own
 
 Fully checked, factory-covered and ready for more adventures.
 
-Search Inventory   Future Vehicles Compare
+Search Inventory   Future Vehicles and Concepts Compare
 
 Compare Subaru models and other car manufacturers.
 
