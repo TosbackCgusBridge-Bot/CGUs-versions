@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
-*   Webinar: Running an enterprise-grade OpenStack without the headaches ›
-*   Jamming with Ubuntu Core ›
-*   LXD 2.0: LXD and OpenStack \[11/12\] ›
-*   Cloud Chatter: November 2016 ›
+*   Christmas-music-carousel-snap! ›
+*   System76 working with Canonical on improving HiDPI support in Ubuntu ›
+*   Using the ubuntu-app-platform content interface in app snaps ›
+*   Mounting your home directory in LXD ›
