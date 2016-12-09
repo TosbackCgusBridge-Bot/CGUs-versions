@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Human Technology on Earth Weighs a Massive 30 Trillion Tons**
+**Goodbye to a Beloved Astronaut**
 
-**World War II Relics Still Haunt Pacific Waters**
+**Should We Rise Up Against the Elf on the Shelf?**
 
-**Why It's Important That NASA Studies Both Earth and Outer Space**
+**Celebrity Copycats: What It Takes to Be a Star Impersonator**
 
 **See More Headlines »**
 
