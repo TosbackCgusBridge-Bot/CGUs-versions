@@ -6,6 +6,7 @@ Navigation
     *   Crazy Cake Swap
     *   Crazy Kitchen
     *   CSR Racing 2
+    *   Dawn of Titans
     *   Draw Something
     *   Empires and Allies
     *   FarmVille
