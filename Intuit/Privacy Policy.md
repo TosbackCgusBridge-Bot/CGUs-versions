@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15640282523
+true true C15624677373
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Wed Dec 07 11:15:36 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Thu Dec 08 11:15:30 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -54,19 +54,11 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-ONE DAY ONLINE ONLY!
+It's Your Lucky Holiday Sale
 
-Ends December 7 | Code: 6BIGSALE
+Ends December 10
 
-Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100
-
-\*exclusions apply
-
-Get Details: 40-50% off xersion activewear for her, select styles, 11.99-34.99, orig. $20-$60 $12 Men's St. John's Bay flannel or heavyweight knits, select styles, reg. $34 $14 Boys' &. Girls' Arizona Flannels, select styles, reg. $30 Boys Arizona FlannelsGirls Arizona Flannels 39.99 after $10 mail-in rebate Cooks 13-pc. aluminum nonstick cookware set, 49.99, reg. $100 14.99 sweaters for her, select styles 14.99 sweaters for him, select styles 9.99 juniors' sweaters, select styles Extra 20% off sports fan shop, select styles, with code: SPORT45 60% off coats for the family, select styles 60% off cold-weather bedding, select styles 60% off cold-weather accessories for her, select styles 60% off cold-weather accessories for him, select styles buy 1 get 1 for 1 Â¢ juniors' denim\*\*, select styles, reg. $40-$60
-
-\*\*Buy one item at regular price, get a second item of equal or lesser value, for one cent, while supplies last.
-
-$12 mens' st. john's bay long-sleeve knit shirts, select styles, reg. $30-$36 $8-$10 Carter's holiday sleepwear, select styles, reg. $20-$26 60% off all home expressions 10-pc. comforter sets, 111.99-119.99, reg. $280-$300 $6 Mixit 2-pk. cozy socks, select styles, reg. $12-$14 19.99 ea. fashion silver bracelets, select styles, reg. $60 ea. 34.99 set cultured freshwater 2-pc. pearl set, select styles, 34.99 set, reg. 99.99 set 19.99 boots for her, select styles, reg. $60-$120 60% off studio curtains &. drapes, select styles 40-50% off mattresses, select styles 40-50% off lighting, select styles up to 20% off major appliances, select styles Holiday Jewelry Sale Up To 70% Off Fine &. Fashion Jewelry
+Shop Sale Now View Store Ad Shop Women Shop Men Shop Kids Shop Bedding Shop Home Shop Jewelry Shop Shoes Shop Handbags 60% off coats for the family, select styles 60% off cold-weather bedding, select styles 60% off cold-weather accessories for her, select styles 60% off cold-weather accessories for him, select styles 14.99 sweaters for her, select styles 14.99 sweaters for him, select styles 9.99 juniors' sweaters, select styles EXTRA 20% off Sports Fan Shop, select styles, WITH CODE: SPORT45 60% off Studio curtains &. drapes, select styles 40-50% off mattresses , select styles 40-50% off lighting, select styles 50-70% off sleepwear for the family, select styles Holiday Jewelry Sale Up To 70% Off Fine &. Fashion Jewelry
 
 Select styles. Ends December 24.
 
@@ -82,7 +74,7 @@ Shop KitchenAid Artisan 5-Qt. Stand Mixer Lowest Price. Guaranteed! Find a lower
 
 \*Some restrictions apply.
 
-Get Details: Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p06.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Dec 07 21:05:47 CST 2016 JVM :->. dtexppr1l3j5\_06 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Dec 07 03:52:24 CST 2016 JVM :->. dtexppr1l2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Get Details: Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Dec 08 21:09:30 CST 2016 JVM :->. dtexppr1c2j3\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Dec 08 03:33:10 CST 2016 JVM :->. dtexppr1c1j1\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
