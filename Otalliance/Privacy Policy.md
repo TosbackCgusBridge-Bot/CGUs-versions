@@ -94,10 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Dec 6, 2016 IoT Security Foundation Conference 2016 - London
-
-Building an Internet of Trust. The conference will look at what it takes to build an Internet of Trusted Things, what is currently underway, what we can learn from the past to predict the future and the necessary duties of care providers and adopters need to ensure.
-
 Wed, Dec 7, 2016 Fall Technology Series: Smart TV
 
 Consumers enjoy recommendations based on their television viewing habits (“viewers who watched Mr. Robot… may enjoy Fight Club”), but who else knows what you’re watching? The golden age of television has arrived with the golden age of television tracking. In 2016, virtually all television delivery systems – smart TVs, streaming devices, game consoles, apps, and even old-fashioned set top boxes – track consumers’ viewing habits, and sometimes in new and unexpected ways.
