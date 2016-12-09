@@ -64,7 +64,6 @@ Aéropostale
     *   Tanks
     *   Shirts
     *   Hoodies
-    *   Sweaters
     
     *   BOTTOMS
     *   Jeans
@@ -72,7 +71,7 @@ Aéropostale
     *   Joggers + Sweats
     *   Shorts
     
-    *   UNDERWEAR + SOCKS
+    *   Underwear
     *   ACCESSORIES
 *   Active
     *   Live Love Dream
