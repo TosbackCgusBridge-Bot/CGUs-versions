@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15624677373
+true true L15643894928
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Thu Dec 08 11:15:30 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Fri Dec 09 11:15:31 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -58,7 +58,17 @@ It's Your Lucky Holiday Sale
 
 Ends December 10
 
-Shop Sale Now View Store Ad Shop Women Shop Men Shop Kids Shop Bedding Shop Home Shop Jewelry Shop Shoes Shop Handbags 60% off coats for the family, select styles 60% off cold-weather bedding, select styles 60% off cold-weather accessories for her, select styles 60% off cold-weather accessories for him, select styles 14.99 sweaters for her, select styles 14.99 sweaters for him, select styles 9.99 juniors' sweaters, select styles EXTRA 20% off Sports Fan Shop, select styles, WITH CODE: SPORT45 60% off Studio curtains &. drapes, select styles 40-50% off mattresses , select styles 40-50% off lighting, select styles 50-70% off sleepwear for the family, select styles Holiday Jewelry Sale Up To 70% Off Fine &. Fashion Jewelry
+Shop Sale Now View Store Ad Shop Women Shop Men Shop Kids Shop Bedding Shop Home Shop Jewelry Shop Shoes Shop HandbagsRewards Members Shop &. Get A $10 Bonus Reward\*
+
+When You Spend $50 Or More
+
+In Store Or Online | 12/10/16 | Limit 1
+
+\*Get Details:Doorbusters | Friday 3PM CST - Saturday 1PM CST
+
+Use your coupon &. save even more!
+
+Shop Doorbusters Now: 60% off coats for the family, select styles 60% off cold-weather bedding, select styles 60% off cold-weather accessories for her, select styles 60% off cold-weather accessories for him, select styles 14.99 sweaters for her, select styles 14.99 sweaters for him, select styles 9.99 juniors' sweaters, select styles EXTRA 20% off Sports Fan Shop, select styles, WITH CODE: SPORT45 60% off Studio curtains &. drapes, select styles 40-50% off mattresses, select styles 40-50% off lighting, select styles 50-70% off sleepwear for the family, select styles 19.99 6-pc. Home Expressions towel set, select styles 60% off Royal Velvet WrinkleGuard sheets, select styles 99.99 Skyway seville 5-pc. luggage set, select styles $20 off single-serve coffeemakers, select styles, Small appliances excluded from coupon Holiday Jewelry Sale Up To 70% Off Fine &. Fashion Jewelry
 
 Select styles. Ends December 24.
 
@@ -74,7 +84,7 @@ Shop KitchenAid Artisan 5-Qt. Stand Mixer Lowest Price. Guaranteed! Find a lower
 
 \*Some restrictions apply.
 
-Get Details: Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Dec 08 21:09:30 CST 2016 JVM :->. dtexppr1c2j3\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Dec 08 03:33:10 CST 2016 JVM :->. dtexppr1c1j1\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Get Details: Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Dec 09 23:00:33 CST 2016 JVM :->. dtexppr1c1j4\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p05.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Dec 09 04:59:14 EST 2016 JVM :->. dtexppr1c3j3\_05 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
