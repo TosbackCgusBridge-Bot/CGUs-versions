@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   IoT Builders webinar series – 2016 recap! ›
 *   Christmas-music-carousel-snap! ›
-*   System76 working with Canonical on improving HiDPI support in Ubuntu ›
 *   Using the ubuntu-app-platform content interface in app snaps ›
-*   Mounting your home directory in LXD ›
+*   Ubuntu 16.04 LTS Security: A Comprehensive Overview ›
