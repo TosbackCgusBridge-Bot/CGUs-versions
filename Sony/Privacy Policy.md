@@ -157,6 +157,90 @@ Close
 
 Check Out The LED Bulb Speaker
 
+It’s Time To Suit Up. Spider-Man: Homecoming Will Be in Theaters July 7
+
+Watch The Trailer
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Watch The Trailer
+
+Get a Glimpse of Ellie &. Joel in This Teaser for The Last of Us Part II
+
+Learn More About the Upcoming Game
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Capture All of Life's Moments
+
+With the Xperia XZ
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+With the Xperia XZ
+
+Bass Makes the Difference
+
+Start Listening
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Start Listening
+
+Sony on Twitter
+
+Hungry for food photography tips? Join us on Thursday for a Facebook LIVE tutorial with @DavidGriffen.
+
+2016-12-06 13:02:04+00:00
+
+View Tweet
+
+Sony on Instagram
+
+When You’re Traveling Off the Beaten Path
+
+You Need a Camera That Can Keep Up
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+You Need a Camera That Can Keep Up
+
 Embark On a New Journey With an Unlikely Pair in the Year's Most Anticipated Game
 
 Get The Last Guardian on PS4™
@@ -266,76 +350,6 @@ Play Video
 Sony on YouTube
 
 Play Video
-
-Get a Glimpse of Ellie &. Joel in This Teaser for The Last of Us Part II
-
-Learn More About the Upcoming Game
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-Capture All of Life's Moments
-
-With the Xperia XZ
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-With the Xperia XZ
-
-Bass Makes the Difference
-
-Start Listening
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Start Listening
-
-Sony on Twitter
-
-Hungry for food photography tips? Join us on Thursday for a Facebook LIVE tutorial with @DavidGriffen.
-
-2016-12-06 13:02:04+00:00
-
-View Tweet
-
-Sony on Instagram
-
-When You’re Traveling Off the Beaten Path
-
-You Need a Camera That Can Keep Up
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-You Need a Camera That Can Keep Up
 
 Load More
 
