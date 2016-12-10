@@ -1,32 +1,11 @@
-Home Download Forums Support   Knowledge Base
+Toggle navigation Omniscope _from Visokio_
 
-*   Features by Edition
-*   Latest Features
-*   Licensing/Activation
-*   Installation
-*   Getting Started
-*   Data Sources
-*   Deployment/Publishing
-*   Server Topics
-*   Integration Topics
-*   Scaling/Performance
-*   Reference
-*   Specifications
-*   Video Tutorials and Reference
-*   Featured Videos
-*   Demos and screenshots
-*   Online Error Report
-*   Support
-*   Legal-Small Print
-    *   EULA
-    *   Support Agreement
-    *   3rd Party Licenses
-    *   Privacy Policy
-    *   Site attributions
-    *   Terms of Use
-*   Why Omniscope?
+*   Home
+*   Download
+*   Tutorials
+*   Contact
 
-Privacy Policy Visokio Privacy Policy Statement What we do with data about you, and data you may send to us
+Visokio Privacy Policy Statement What we do with data about you, and data you may send to us
 
 Protecting the privacy and data belonging to our clients and users of our site(s) is important to Visokio. This Privacy Policy describes how we use and protect any information or data files you provide to us.
 
@@ -40,8 +19,4 @@ We collect only the domain names of visitors, the email addresses of those who c
 
 If you do not want to receive email from us in the future, click on the unsubscribe link to the bottom of the email.
 
-Home Knowledge Base Legal-Small Print Privacy Policy
-
-*   Print
-
-© Visokio | Privacy Policy | Terms of Use | Contact Us
+© Visokio    |   Terms of use   |   Privacy Policy
