@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15644476884
+true true C15632016931
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Sat Dec 10 11:15:32 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Sun Dec 11 11:10:22 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -54,37 +54,15 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-It's Your Lucky Holiday Sale
+Green Monday!
 
-Ends December 10
+2 Days Online Only | Ends December 12 | Code: GOGREEN
 
-Shop Sale Now View Store Ad Shop Women Shop Men Shop Kids Shop Bedding Shop Home Shop Jewelry Shop Shoes Shop HandbagsRewards Members Shop &. Get A $10 Bonus Reward\*
+Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100
 
-When You Spend $50 Or More
+\*exclusions apply
 
-In Store Or Online | 12/10/16 | Limit 1
-
-\*Get Details:Doorbusters | Friday 3PM CST - Saturday 1PM CST
-
-Use your coupon &. save even more!
-
-Shop Doorbusters Now: 60% off coats for the family, select styles 60% off cold-weather bedding, select styles 60% off cold-weather accessories for her, select styles 60% off cold-weather accessories for him, select styles 14.99 sweaters for her, select styles 14.99 sweaters for him, select styles 9.99 juniors' sweaters, select styles EXTRA 20% off Sports Fan Shop, select styles, WITH CODE: SPORT45 60% off Studio curtains &. drapes, select styles 40-50% off mattresses, select styles 40-50% off lighting, select styles 50-70% off sleepwear for the family, select styles 19.99 6-pc. Home Expressions towel set, select styles 60% off Royal Velvet WrinkleGuard sheets, select styles 99.99 Skyway seville 5-pc. luggage set, select styles $20 off single-serve coffeemakers, select styles, Small appliances excluded from coupon Holiday Jewelry Sale Up To 70% Off Fine &. Fashion Jewelry
-
-Select styles. Ends December 24.
-
-Shop Holiday Jewelry Sale Shop Bracelets Holiday Home Sale 30 to 50% Off
-
-Select styles.
-
-Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses279.99 - After $50 Mail-In Rebate - KitchenAid Artisan 5-Qt. Stand Mixer
-
-KSM1550PS, select styles, $329.99, reg. $500
-
-Shop KitchenAid Artisan 5-Qt. Stand Mixer Lowest Price. Guaranteed! Find a lower price at our competitor? Tell us and we’ll beat it by 5%\*
-
-\*Some restrictions apply.
-
-Get Details: Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Dec 10 23:10:53 CST 2016 JVM :->. dtexppr1c2j2\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Dec 10 22:06:30 CST 2016 JVM :->. dtexppr1c2j1\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Sale Now: Get Details: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p06.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Dec 11 04:31:01 EST 2016 JVM :->. dtexppr1c3j5\_06 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*Buy one item at regular price, get the second item of equal or lesser value for one cent while supplies last. \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Dec 11 03:31:01 CST 2016 JVM :->. dtexppr1c1j4\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
