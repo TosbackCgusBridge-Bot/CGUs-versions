@@ -8,29 +8,29 @@ Our sites contain links to third party sites which are not subject to this priva
 
 Personal information is collected by the FT companies listed below on behalf of the Financial Times group of companies and its trading entities (including FDI Intelligence and Exec-Appointments). Each of these FT companies are registered with the UK’s Information Commission as Data Controllers in accordance with the Data Protection Act 1998. References in this privacy policy to “FT”, “we”, “us”, “our” or similar refer to the FT group company operating the relevant website and references to “FT sites” refer to any of our websites from which you have accessed this privacy policy.
 
-Company:The Financial Times Ltd
+**Company:** The Financial Times Ltd
 
 Registered Office:Number One Southwark Bridge, London SE1 9HL
 
-Registered Number: 879531
+Registered Number: 227590
 
-Data Protection Registration Number:Z7087146
+Data Protection Registration Number: Z7087146
 
-Company:FT Personal Finance Ltd
+**Company:** FT Personal Finance Ltd
 
 Registered Office:Number One Southwark Bridge, London SE1 9HL
 
-Registered Number:3855520
+Registered Number: 3855520
 
-Data Protection Registration Number:Z7670392
+Data Protection Registration Number: Z7670392
 
-Company:The Financial Times (M-M UK) Limited, trading as Money-Media or Ignites Europe
+**Company:** The Financial Times (M-M UK) Limited, trading as Money-Media or Ignites Europe
 
 Registered Office:Number One Southwark Bridge, London SE1 9HL
 
 Registered Number:139844
 
-Data Protection Registration Number:ZVK463
+Data Protection Registration Number: ZVK463
 
 We collect personally identifiable information about you (your “Data”) through:
 
