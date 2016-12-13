@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Oceans &. Coasts This holiday season, give the gift of peace of mind Oceans &. Coasts On reddit: NOAA scientists answer your questions about ocean noise and marine life National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Fisheries Coral: The gift you don't want to give, or get Oceans &. Coasts On reddit: NOAA scientists answer your questions about ocean noise and marine life National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms U.S. had its warmest autumn and 2nd warmest November on record Drought-fueled wildfires had significant impacts in the Southeast AROUND NOAA // On reddit: NOAA scientists answer your questions about ocean noise and marine life Coral: The gift you don't want to give, or get Getting traction: Tips for traveling in winter weather
+Enter Search Terms What are your chances for a white Christmas? Check our historical probability map AROUND NOAA // U.S. had its warmest autumn and 2nd warmest November on record This holiday season, give the gift of peace of mind Getting traction: Tips for traveling in winter weather
 
 *   About our agency
 *   News and features
