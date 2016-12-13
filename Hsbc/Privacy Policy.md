@@ -20,6 +20,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Global Banking and Markets
         *   Global Private Banking
         *   Retail Banking and Wealth Management
+        *   HSBC on social media
         *   Country contacts
     *   Contact us
         
