@@ -7,12 +7,12 @@ VH1 Menu VH1
     *   Show News
     *   TV Schedule
     *   Love &. Hip Hop
-    *   Black Ink Crew Chicago
-    *   Martha &. Snoop's Potluck Dinner Party
-    *   Divas Holiday: Unsilent Night
     *   America's Next Top Model
+    *   Divas Holiday: Unsilent Night
     *   Leave It To Stevie
     *   K.Michelle: My Life
+    *   Martha &. Snoop's Potluck Dinner Party
+    *   Black Ink Crew Chicago
     *   Love &. Hip Hop HollywoodSee all Shows
 *   Pop Culture
     *   Music
@@ -29,7 +29,7 @@ VH1 Menu VH1
 *   TV Provider Sign Out
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Black Ink Crew Chicago Martha &. Snoop's Potluck Dinner Party Divas Holiday: Unsilent Night America's Next Top Model Leave It To Stevie K.Michelle: My Life Love &. Hip Hop Hollywood Basketball Wives LA Love &. Hip Hop Atlanta See all Shows
+*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop America's Next Top Model Divas Holiday: Unsilent Night Leave It To Stevie K.Michelle: My Life Martha &. Snoop's Potluck Dinner Party Black Ink Crew Chicago Love &. Hip Hop Hollywood Basketball Wives LA Love &. Hip Hop Atlanta See all Shows
 *   Pop Culture Music Celebrity Movies TV Around The Web Video See all Pop Culture
 *   Life Beauty &. Health Style Relationships Video See all Life
 *   facebook twitter tumblr
