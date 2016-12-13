@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   2017 – what’s in store for IoT? ›
+*   snapd 2.18: the snap command strikes back ›
 *   IoT Builders webinar series – 2016 recap! ›
 *   Christmas-music-carousel-snap! ›
-*   Using the ubuntu-app-platform content interface in app snaps ›
-*   Ubuntu 16.04 LTS Security: A Comprehensive Overview ›
