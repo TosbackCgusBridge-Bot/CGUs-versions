@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**The IRS Wealth Squad: The Super-rich's Worst Nightmare**
+**World's First AI-generated Christmas Song Is the Stuff of Nightmares**
 
-**5 Movies and Stories to Get You Even More Psyched to See 'Rogue One'**
+**What's the Best Way to Figure Out if Employees Are Happy?**
 
-**Advantage, Tennis: Study Shows Racket Games Are Best Sport for Heart Health**
+**Bodybuilders Injecting Themselves With Cooking Oils Now Apparently a Thing**
 
 **See More Headlines »**
 
