@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**World's First AI-generated Christmas Song Is the Stuff of Nightmares**
+**Stephen Hawking Plans to Send Tiny Nanocraft to Alpha Centauri**
 
-**What's the Best Way to Figure Out if Employees Are Happy?**
+**Why Are Cats So Obsessed With Laser Pointers?**
 
-**Bodybuilders Injecting Themselves With Cooking Oils Now Apparently a Thing**
+**Is It Time for Our Understanding of Evolution to Evolve?**
 
 **See More Headlines »**
 
