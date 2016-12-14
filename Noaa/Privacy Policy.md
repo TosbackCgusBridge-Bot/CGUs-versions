@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Fisheries Coral: The gift you don't want to give, or get Oceans &. Coasts On reddit: NOAA scientists answer your questions about ocean noise and marine life National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Fisheries Coral: The gift you don't want to give, or get Weather Winter safety: How to prepare for winter weather National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms What are your chances for a white Christmas? Check our historical probability map AROUND NOAA // U.S. had its warmest autumn and 2nd warmest November on record This holiday season, give the gift of peace of mind Getting traction: Tips for traveling in winter weather
+Enter Search Terms Unprecedented Arctic warmth in 2016 triggers massive decline in sea ice, snow Warmer temperatures also bring record-breaking delay to fall sea-ice freeze AROUND NOAA // What are your chances for a white Christmas? 'Untamed' shrews herald a warming Arctic This holiday season, give the gift of peace of mind Getting traction: Tips for traveling in winter weather
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock
+Gates of the Arctic National Park and Preserve
