@@ -167,5 +167,6 @@ Last update August 15, 2015
 *   India
 *   Ireland
 *   Australia
+*   New Zealand
 
 © Copyright 2016 Oodle Holdings, LLC. All rights reserved.
