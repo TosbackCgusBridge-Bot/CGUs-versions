@@ -11,7 +11,12 @@ Turn on more accessible mode Turn off more accessible mode Skip Ribbon Commands 
 *   SNICurrently selected
     *   Our Company
     *   Careers
-    *   Outreach
+    *   Investors
+    *   Newsroom
+
+*   SNI
+    *   Our Company
+    *   Careers
     *   Investors
     *   Newsroom
 
