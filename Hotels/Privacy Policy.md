@@ -511,7 +511,7 @@ Join now to collect 10 nights, get 1 free\*
     *   Hotels in Houston, Texas
     *   Hotels in Denver, Colorado
     *   Hotels in Miami, Florida
-*   Customer Service
+*   Support &. FAQs
     *   Your bookings
     *   FAQs
     *   Contact us
