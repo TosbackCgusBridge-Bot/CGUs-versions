@@ -8,17 +8,17 @@ Text Only
 *   Our Brand Sites 
 *   Language 
     
+    *   Deutsch
     *   English
-    *   Français
     *   Español
     
-    *   Deutsch
+    *   Français
     *   Italiano
     *   Português
     
-    *   Русский
-    *   日本語
     *   中文(简体)
+    *   日本語
+    *   Русский
 
 *   Book &. Stay
 *   Our Company
