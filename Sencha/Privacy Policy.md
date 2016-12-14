@@ -15,7 +15,7 @@ Sencha
         *   Sencha Test
     *   Tools
         *   Cmd
-        *   IDE Plugins
+        *   Plugins
         *   Architect
         *   Themer
         *   Inspector
@@ -173,7 +173,7 @@ Get Sencha NewsBuy Online
     *   Sencha Test
     *   Sencha Touch
     *   Cmd
-    *   IDE Plugins
+    *   Plugins
     *   Architect
     *   Themer
     *   Inspector
