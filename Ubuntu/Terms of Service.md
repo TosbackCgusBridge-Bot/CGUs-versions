@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
-*   2017 – what’s in store for IoT? ›
+*   Webinar: 2017 – what’s in store for IoT? ›
 *   snapd 2.18: the snap command strikes back ›
 *   IoT Builders webinar series – 2016 recap! ›
 *   Christmas-music-carousel-snap! ›
