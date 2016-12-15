@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Unprecedented Arctic warmth in 2016 triggers massive decline in sea ice, snow Warmer temperatures also bring record-breaking delay to fall sea-ice freeze AROUND NOAA // What are your chances for a white Christmas? 'Untamed' shrews herald a warming Arctic This holiday season, give the gift of peace of mind Getting traction: Tips for traveling in winter weather
+Enter Search Terms Unprecedented Arctic warmth in 2016 triggers massive decline in sea ice, snow Warmer temperatures also bring record-breaking delay to fall sea-ice freeze AROUND NOAA // Besides it being really cold outside, what is the polar vortex exactly? What are your chances for a white Christmas? 'Untamed' shrews herald a warming Arctic This holiday season, give the gift of peace of mind
 
 *   About our agency
 *   News and features
