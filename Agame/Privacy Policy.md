@@ -110,10 +110,10 @@ View more results
     
     *   Cats Empire
     *   My Dolphin Show 7
-    *   Secret Garden
-    *   Call Of War
-    *   Pixel Gun Apocalypse 3
-    *   Fly with Rope 2
+    *   Klondike - the lost expedition
+    *   Magoia
+    *   Elite Squad 2
+    *   Wormax io
     
     Mobile Apps More
     
