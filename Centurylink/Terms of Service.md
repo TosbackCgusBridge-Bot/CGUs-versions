@@ -110,7 +110,8 @@ I'd like to try to enter my information again.
   
 Not sure what to do? Try Customer Service Please wait for a few moments. We are  
 making sure you reach your intended destination.  
-**Thank you for your patience.** Wait for it Wait for it...... Customer Service &. Support Close Window We apologize for the inconvenience. This product is currently not available in your area.  
+**Thank you for your patience.** Wait for it Wait for it...... Finding the Fastest Speed  
+Available at Your Home... Please wait while we verify your Internet speed. Customer Service &. Support Close Window We apologize for the inconvenience. This product is currently not available in your area.  
 
 Continue to view these CenturyLink products:
 
