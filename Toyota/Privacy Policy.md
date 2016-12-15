@@ -53,7 +53,7 @@ Hybrids &. FCV
 *   $42,550 as shown 2017 Avalon Hybrid $37,250 starting 40/39 est. mpg build Specials
 *   $34,645 as shown 2017 RAV4 Hybrid $29,030 starting 34/30 est. mpg build Specials
 *   $50,085 as shown 2017 Highlander Hybrid $36,270 starting 30/28 est. mpg build Specials
-*   $28,800 as shown 2017 Prius Prime $27,100 starting 54/133 est. mpg /MPGe build
+*   $28,800 as shown 2017 Prius Prime $27,100 starting 54/133 est. mpg /MPGe build Specials
 *   $32,115 as shown 2017 Prius $24,685 starting 54/50 est. mpg build Specials
 *   $24,495 as shown 2016 Prius c $19,560 starting 53/46 est. mpg build Specials
 *   $34,270 as shown 2017 Prius v $26,675 starting 43/39 est. mpg build Specials
@@ -972,12 +972,14 @@ Sign up for toyota updates Request A Quote Trade-In Value Request A Quote Kelley
 
 *   Trade-In Value
 *   Trade-In Value
-*   Customize Your Own Toyota
+*   Build Your Toyota
 *   Search Inventory
 *   Find a Dealer
 *   Local Specials
 *   Request a Quote
 *   Accessories
+*   Accessories
+*   Find Your Match
 *   Find Your Match
 *   Toyota Certified Used Vehicles
 
@@ -998,11 +1000,14 @@ Helpful Links
 
 *   Toyota Financial Services
 *   Toyota Rent A Car
+*   Toyota Rent A Car
 *   Mobile Phone Compatibility
 *   Toyota Mobility Feature
 *   Entune™
 *   Toyota Safety Sense
 *   Car Tips &. Advice
+*   Car Tips &. Advice
+*   Dealers
 *   Dealers
 *   Safety Recalls &  
     Service Campaigns
@@ -1031,7 +1036,7 @@ Help
 *   AdChoices
 *   AdChoices
 
-©2016 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.
+©2017 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.
 
 \[#\] View All Disclosures
 
