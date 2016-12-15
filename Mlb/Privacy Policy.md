@@ -27,7 +27,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Awards
     *   Sports on Earth
     *   Entertainment
-    *   Will Ferrell
+    *   World Baseball Classic
     *   #AwardWorthy
     *   Espanol
 *   Video Video Video
