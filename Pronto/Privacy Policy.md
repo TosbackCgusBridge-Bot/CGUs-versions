@@ -6,4 +6,4 @@ When you shop here, you shop everywhere.
 *   Terms of Service
 *   Contact Us
 
-© 2016 Shopping.net An IAC Publishing Labs Company
+© 2016 IAC Publishing, LLC
