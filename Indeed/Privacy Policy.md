@@ -110,7 +110,7 @@ From time to time, it may be necessary for us to change this cookie policy. We s
 
 Privacy Policy
 
-Last Updated: December 12, 2016
+Last Updated: December 14, 2016
 
 **1\. Introduction**
 
@@ -712,7 +712,7 @@ These Terms and Conditions set forth the terms and conditions under which Indeed
 
 **1\. SERVICES RENDERED AND CONTENT**
 
-1.1. **The Services.** Subject to all limitations and restrictions contained herein, Indeed shall provide Customer with the Services and Customer shall have a nonexclusive and nontransferable right to use the Services as provided by Indeed as described herein (“Services Rendered”). The Services will be performed in accordance with this Agreement and the additional terms in an applicable Insertion Order (“IO”).
+1.1. **The Services.** Subject to all limitations and restrictions contained herein, Indeed shall provide Customer with the Services and Customer shall have a nonexclusive and nontransferable right to use the Services as provided by Indeed as described herein (“Services Rendered”). The Services will be performed in accordance with this Agreement and the additional terms in an applicable Insertion Order (“IO”), including the term of the agreement.
 
 1.2. **Services Rendered.** The purpose of the Services, subject to the terms herein, is: (i) to allow Indeed to create and host a mobile-optimized version of Customer’s existing job application website (hereinafter referred to as the “Customer Indeed MoBolt Website”). (ii) to allow Customer’s job applicants to apply to Customer’s jobs via the Customer Indeed MoBolt Website, and (iii) to allow Indeed to provide the Customer with job applicants’ information entered through the Customer Indeed MoBolt Website in any form agreed to by the parties. The Customer Indeed MoBolt Website will look like Customer’s branded desktop website. Only Indeed has the ability to directly edit or alter the Customer Indeed MoBolt Website. Customer shall not allow any website, that is not fully owned by Customer, to frame, syndicate, distribute, replicate, or copy any portion of Customer’s website that has been directly or indirectly provided the Services. Customer acknowledges that Indeed monitors, reviews and analyzes the content (including your applications and responses) sent through MoBolt to provide you and users with personally relevant product features, such as improved search results and to prevent fraud, reduce unwanted mail, and provide quality control of the information sent through the MoBolt system. Indeed will treat all private information received via the Services in accordance with the Indeed Cookie Policy, Privacy Policy and General Terms, as amended from time to time.
 
@@ -814,13 +814,15 @@ These Terms and Conditions set forth the terms and conditions under which Indeed
 
 **8\. TERM AND TERMINATION**
 
-8.1. **Termination by Indeed.** This Agreement and any IO provided hereunder may be terminated by Indeed (i) on five (5) days written notice to Customer if Customer fails to perform any material obligation required of it hereunder. or (ii) Customer files a petition for bankruptcy or insolvency, has an involuntary petition filed against it, commences an action providing for relief under bankruptcy laws, files for the appointment of a receiver, or is adjudicated a bankrupt concern.
+8.1. **Term**. The term of this Agreement shall be as stated in any IO.
 
-8.2. **Termination by Customer.** This Agreement may be terminated by Customer on five (5) days written notice for any or no reason.
+8.2. **Termination by Indeed.** This Agreement and any IO provided hereunder may be terminated by Indeed: (i) on five (5) days written notice to Customer if Customer fails to perform any material obligation required of it hereunder. (ii) if Customer files a petition for bankruptcy or insolvency, has an involuntary petition filed against it, commences an action providing for relief under bankruptcy laws, files for the appointment of a receiver, or is adjudicated a bankrupt concern.
 
-8.3. **Termination.** Upon termination of this Agreement, Customer shall no longer be provided the Services and shall no longer have any access to or any right in use of the Services or the Customer Indeed MoBolt Website.
+8.3. **Termination by Customer.** This Agreement may be terminated by Customer on five (5) days written notice for any or no reason.
 
-8.4. **Other Remedies.** Termination of this Agreement shall not limit either party from pursuing other remedies available to it, including injunctive relief, nor shall such termination relieve Customer’s obligation to pay all fees that have accrued or are otherwise owed by Customer under this Agreement.
+8.4. **Termination.** Upon termination of this Agreement, Customer shall no longer be provided the Services and shall no longer have any access to or any right in use of the Services or the Customer Indeed MoBolt Website.
+
+8.5. **Other Remedies.** Termination of this Agreement shall not limit either party from pursuing other remedies available to it, including injunctive relief, nor shall such termination relieve Customer’s obligation to pay all fees that have accrued or are otherwise owed by Customer under this Agreement.
 
 **9\. MISCELLANEOUS**
 
