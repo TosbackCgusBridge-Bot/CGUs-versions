@@ -71,7 +71,6 @@ Aéropostale
     *   Joggers + Sweats
     *   Shorts
     
-    *   Underwear
     *   ACCESSORIES
 *   Active
     *   Live Love Dream
