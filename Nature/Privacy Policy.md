@@ -249,22 +249,10 @@ The Nature Conservancy is a nonprofit, tax-exempt charitable organization (tax i
 
 Help Us Protect Nature Today
 
-x **Sign up** for Nature eNews! Sign Up for Nature e-News
+Stay Updated
 
-Learn about the places you love. Find out  
-how you can help.
+Learn about the places you love and find out how you can help by signing up for Nature eNews.
 
-Thank you for joining our online community!
+First Last Email StateAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYASFMGUMHMPPRPWVIAAAEAPABBCMBNBNLNSNTNUONPEQCSKYTNone Sign Up I'm already on the list Read our **privacy policy** Thank you for joining our online community!
 
-We’ll be in touch soon with more Nature Conservancy news, updates and exciting stories.
-
-*   First
-*   Last
-*   Email
-*   State AKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYASFMGUMHMPPRPWVIAAAEAPABBCMBNBNLNSNTNUONPEQCSKYTNone
-
-Spam Control Text: Please leave this field empty GO! Sign Up
-
-I'm already on the list!
-
-Read our privacy policy.
+We'll be in touch soon with more Nature Conservancy news, updates, and exciting stories.
