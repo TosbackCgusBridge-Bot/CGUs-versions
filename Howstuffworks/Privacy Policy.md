@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Stephen Hawking Plans to Send Tiny Nanocraft to Alpha Centauri**
+**5 Things You Didn't Know About 'London Calling'**
 
-**Why Are Cats So Obsessed With Laser Pointers?**
+**Here's What Happens in the U.S. President's Daily Brief**
 
-**Is It Time for Our Understanding of Evolution to Evolve?**
+**If You Can Smell Asparagus in Urine, Thank Your Genetics**
 
 **See More Headlines »**
 
