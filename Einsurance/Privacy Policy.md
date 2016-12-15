@@ -41,7 +41,6 @@ E-Insure makes use of information collected from our users in a number of ways. 
 *   User Profile
 *   Cookies
 *   Log Files
-*   Communications
 *   Sharing
 *   Links
 *   Feedback
@@ -83,18 +82,9 @@ We partner with a third party to either display advertising on our Web site or t
 
 Communications
 
-**E-Insure Services** restricts its communications to those users who have established accounts on the **EINSURANCE.com** website. These communications fall into two general categories:
+**E-Insure Services** restricts its communications to those users who have established accounts on the **EINSURANCE.com** website.
 
-*   Administrative communications
-*   Targeted announcements
-
-Administrative communications are generally one-of-a-kind in nature, and involve specific issues regarding the user's account. Examples of such communication are registration confirmations and confirmations of e-mail address change. Users may opt to receive e-mailed communications of new content or products of interest to the user. Such targeted announcements are strictly limited to users who have opted to receive them. For example, such communications might announce the publication of a new _E-Insure Journal_ article or the release of a new insurance product in the user's geographical region. Users who have received such announcements and wish to opt out of them in the future may do so by completing one of the following tasks:
-
-*   Use the Instant Unsubscribe tool or change e-mail settings on your User Profile and Account Registration page
-*   Reply to such e-mail with the word "unsubscribe" in the subject line
-*   Send Customer Service request with the word "unsubscribe" in the subject line
-
-Unsubscribing from communications with E-Insure does not guarantee that you will no longer receive email from our affiliates or 3rd party partners. We cannot control the policies of our affiliates or 3rd party partners, nor can we guarantee or represent their compliance with the CAN-SPAM Act or any other state or Federal law.
+Administrative communications are generally one-of-a-kind in nature, and involve specific issues regarding the user's account. Examples of such communication are registration confirmations and confirmations of e-mail address change.
 
 **Social Media Features and Widgets**
 
