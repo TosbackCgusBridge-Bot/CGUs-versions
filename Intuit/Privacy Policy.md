@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15638477198
+true true C15641342794
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Wed Dec 14 11:07:08 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Thu Dec 15 11:08:44 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -54,27 +54,17 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Gifts Worth Giving 2 Days Only! | Ends December 14 Shop Now: View Store Ad: 70 Gifts 70% Off With Code: TOSAVE46\* Shop Men Shop Women Shop Juniors Shop Kids Shop Home Shop Jewelry Shop Shoes Shop Handbags 29.99 Men's St. John's Bay Puffer Jacket
+Power Penney Days Sale
 
-reg. $120
+In Store &. Online | Ends December 17
 
-Shop Men's St. John's Bay Puffer Jacket 29.99 Women's Free Country Jacket
+Shop Now: View Store Ad:Get In Store Early Friday or Saturday For a Coupon Giveaway
 
-reg. $72
+$10 Off\* $10 or More  
+Or, $20 Off\* $20 or More  
+Or, $100 Off\* $100 or More
 
-Shop Women's Free Country Jacket 24.99 Boys' &. Girls' Puffer Jackets
-
-Select styles, reg. $60-$72
-
-Shop Kids' Puffer Jackets Shop Boys Shop Girls       29.99 Boots for Her
-
-Select styles, reg. $60-$90
-
-Shop Boots for Her Holiday Home Sale 30 to 50% Off
-
-Select styles.
-
-Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses   Gifts Worth Giving Shop All Gifts View Store Hours Mail a Gift Card Shop Stocking Stuffers Under $15 Shop Gifts Under $25 Shop Gifts Under $50 Print or Email an E-Gift Card Shop Women Shop Men Shop Kids Shop Jewelry Shop Sephora Shop Home Shop Toys \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Dec 14 21:57:50 CST 2016 JVM :->. dtexppr1c1j6\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Dec 14 03:20:55 CST 2016 JVM :->. dtexppr1l2j2\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+\*Get Details: $7 boys’ or girls’ sleep separates, select styles, reg. $20 $9 AFTER $11 MAIL-IN-REBATE Cooks power blender, griddle or programmable coffee maker, select styles, $20, reg. $40 excluded from coupon $11 Xersion fleece pullover or sweatshirt for her, select styles, reg. $30 $15 guys’ City Streets, select styles $15 juniors’ Arizona denim, select styles, juniors’ reg. $42 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p05.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Dec 15 12:55:16 CST 2016 JVM :->. dtexppr1l3j6\_05 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Dec 15 12:55:17 CST 2016 JVM :->. dtexppr1l1j3\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
