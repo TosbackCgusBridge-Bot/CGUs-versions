@@ -145,7 +145,7 @@ Forbes Councils
 
 Education
 
-*   Forbes School of Business at Ashford University
+*   Forbes School of Business &. Technology at Ashford University
 
 *   2 Free Issues
 *   Subscriber Services
