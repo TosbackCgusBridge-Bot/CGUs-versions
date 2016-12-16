@@ -16,10 +16,10 @@ Skip to main content Online Trust Alliance
 
 *   Initiatives
     *   Brand Protection
-    *   Data Breach Readiness
+    *   Cyber Incident &. Breach Readiness
+    *   Email Marketing &. Security
     *   Internet of Things
     *   Online Trust Audit &. Honor Roll
-    *   Email Marketing &. Security
     *   Privacy
     *   Public Policy
     *   Security
@@ -136,10 +136,10 @@ More >>. Resources
 Initiatives
 
 *   Brand Protection
-*   Data Breach Readiness
+*   Cyber Incident &. Breach Readiness
+*   Email Marketing &. Security
 *   Internet of Things
 *   Online Trust Audit &. Honor Roll
-*   Email Marketing &. Security
 *   Privacy
 *   Public Policy
 *   Security
