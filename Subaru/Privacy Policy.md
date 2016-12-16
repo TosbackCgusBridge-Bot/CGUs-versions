@@ -1,4 +1,4 @@
-  GO
+    GO
 
 Your location cannot be displayed.
 
@@ -9,12 +9,14 @@ To connect with Subaru of Hawaii, please click here
 *   Customer Support
 *   Search
 
-*   Subaru Confidence In Motion
+Subaru Confidence In Motion
+
 *   Vehicles
 *   Shopping Tools
 *   Why Subaru
-*   Build Your Own
-*   Find a Retailer
+
+*   Build &. Price
+*   Find Retailer
 
 BRZ $25,495 starting price 2017 BRZ
 
@@ -162,10 +164,6 @@ Get the most precise number on the Subaru you want.
 Financing
 
 Find information on financing or leasing your new Subaru.
-
-Take a Guided Tour
-
-Get up close and personal with model specific interactive content, videos, and so much more
 
 Learn More
 
