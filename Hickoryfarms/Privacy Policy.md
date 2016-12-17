@@ -11,8 +11,7 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Thanksgiving
-    *   Christmas Gifts
+    Holidays &. Occasions*   Christmas Gifts
     *   Holiday Gift Guide
     *   Gifts for Her
     *   Gifts for Him
@@ -66,6 +65,7 @@
     *   Gifts Over $50
     *   Gifts Over $90
 *   Sale
+    View All Categories Shop by Category*   Pfaelzer Brothers Sale
 
 1.800.753.8558 Search Catalog Search Skip to content 1.800.753.8558 Stores Account
 
@@ -88,8 +88,7 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Thanksgiving
-    *   Christmas Gifts
+    Holidays &. Occasions*   Christmas Gifts
     *   Holiday Gift Guide
     *   Gifts for Her
     *   Gifts for Him
@@ -143,6 +142,7 @@
     *   Gifts Over $50
     *   Gifts Over $90
 *   Sale
+    View All Categories Shop by Category*   Pfaelzer Brothers Sale
 
 1.800.753.8558 Menu Search Stores Cart Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Free Standard Delivery on shipments $35+.\*
 
