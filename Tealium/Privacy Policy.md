@@ -4,6 +4,7 @@
     *   Tealium DataAccess
 *   Integrations
 *   Resources
+    *   MarTech Challenge
     *   Case Studies
     *   Whitepapers
     *   Videos
