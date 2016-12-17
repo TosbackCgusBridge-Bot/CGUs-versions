@@ -32,6 +32,7 @@ Show Search Bar
 *   In Depth
     *   Features
     *   Video
+    *   In Depth
 *   Events
     *   Virtual Conferences
     *   Webcasts
