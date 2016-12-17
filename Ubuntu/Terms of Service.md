@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
-*   Get 50% Off Linux Foundation Training And Certification ›
+*   Announcing The Canonical Distribution of Kubernetes 1.5.1 ›
+*   Get 50% off Linux Foundation training and certification ›
 *   Research: Consumers are terrible at updating their connected devices ›
 *   Webinar: 2017 – what’s in store for IoT? ›
-*   snapd 2.18: the snap command strikes back ›
