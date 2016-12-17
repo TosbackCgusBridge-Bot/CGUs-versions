@@ -59,7 +59,6 @@ Skip to Content Skip to Search United States Select a region
     *   Germany
     *   Greece
     *   Hungary
-    *   Iceland
     *   Ireland
     *   Italy
     
