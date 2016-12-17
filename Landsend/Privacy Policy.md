@@ -140,7 +140,6 @@ menu 0
     
     *   New Arrivals
     *   Outerwear Shop
-    *   Holiday Looks
     *   Gifts for Girls
     *   Gifts for Boys
     *   School Uniforms
@@ -374,6 +373,7 @@ menu 0
     *   Personalized Gifts
     *   Sleep Shop
     *   Gifts-In-A-Tote
+    *   Last Minute Gifts
     
     GREAT GIFTS
     *   For Her
@@ -498,7 +498,6 @@ menu 0
     
     *   New Arrivals
     *   Outerwear Shop
-    *   Holiday Looks
     *   Gifts for Girls
     *   Gifts for Boys
     *   School Uniforms
@@ -731,6 +730,7 @@ menu 0
     *   Personalized Gifts
     *   Sleep Shop
     *   Gifts-In-A-Tote
+    *   Last Minute Gifts
     
     GREAT GIFTS Back | GREAT GIFTS
     *   For Her
