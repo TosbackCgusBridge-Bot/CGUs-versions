@@ -49,7 +49,7 @@ Every Day
 
 Our customer service will be open  
 from **9am-6pm Monday - Friday**  
-starting **12/19/17**
+starting **12/19/16**
 
 *   1-888-GEEKSTUFF
     
