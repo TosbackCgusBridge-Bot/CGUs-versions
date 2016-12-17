@@ -1,11 +1,10 @@
-campaign: nyt2016\_bar1\_digi\_cpb\_67LXL -- 283987, creative: nyt2016\_bar1\_digi\_cpb\_67LXL -- 414213, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
+campaign: nyt2016\_bar1\_digi\_q4blitz\_6JHQJ -- 285075, creative: 1\_nyt2016\_bar1\_digi\_q4blitz\_6JHQJ -- 415532, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
 
 *   1 of 10 articles read
-*   SUBSCRIBE NOW Real news deserves  
-    real journalism. Get The Times.  
-    As low as 99¢ for 4 weeks. SEE MY OPTIONS
+*   SUBSCRIBE NOW Your road map for  
+    a changing world. 50% off for one year. SUBSCRIBE
 
-Subscribe*   Help
+SUBSCRIBE*   Help
 
 *   Home Page
 *   Today's Paper
