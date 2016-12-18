@@ -239,13 +239,17 @@ menu 0
     *   Lands' End
     *   Business Outfitters
     
-    SALE
+    SHOP SALE
+    
     *   Women
     *   Men
     *   Girls
     *   Boys
     *   Home
     *   School Uniforms
+    
+    FEATURED SHOPS
+    *   On The Counter
 
 *   School
     
@@ -597,13 +601,17 @@ menu 0
     *   Lands' End
     *   Business Outfitters
     
-    Back | Sale SALE Back | SALE
+    Back | Sale SHOP SALE Back | SHOP SALE
+    
     *   Women
     *   Men
     *   Girls
     *   Boys
     *   Home
     *   School Uniforms
+    
+    FEATURED SHOPS Back | Sale
+    *   On The Counter
 *   School
     
     *   Lands' End
