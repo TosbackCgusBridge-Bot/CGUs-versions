@@ -128,7 +128,7 @@ Skip to main content
 *   NBCUniversal
 *   Search
 
-NBCUniversal
+NBCUniversal Error message _Notice_: Undefined offset: 1 in _drupal\_settings\_initialize()_ (line _774_ of _/var/www/nbcuni/includes/bootstrap.inc_).
 
 Search form Search
 
