@@ -44,12 +44,8 @@ Chat With Someone Now Live Chat Unavailable
 
 Communicate with Us the Old-Fashioned Ways
 
-9am to 9pm EST  
-Every Day
-
-Our customer service will be open  
-from **9am-6pm Monday - Friday**  
-starting **12/19/16**
+9am to 6pm EST  
+Monday - Friday
 
 *   1-888-GEEKSTUFF
     
