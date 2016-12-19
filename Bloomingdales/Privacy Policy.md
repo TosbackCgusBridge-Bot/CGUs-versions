@@ -355,8 +355,8 @@ Does this answer your question? Tells us how you think we can make this answer m
 *   What is the return and exchange policy?
 *   What is the shipping policy?
 *   Terms of Use
-*   Highlights of Bloomingdale’s Notice of Privacy Practices
 *   How do I return an item purchased at a Bloomingdale's store?
+*   Highlights of Bloomingdale’s Notice of Privacy Practices
 
 *   CUSTOMER SERVICE
     *   Shipping Policy
