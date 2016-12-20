@@ -141,7 +141,6 @@ More Questions? If you have any questions about this Privacy Policy or want to r
 Last update August 15, 2015
 
 *   About Oodle
-*   Marketplace for Mobile
 *   Press
 *   Partner with Oodle
 *   Developer Center
