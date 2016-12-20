@@ -1,14 +1,17 @@
 Skip to main content
 
-*   Popular Degrees
-    *   Accounting Degrees
-    *   Business Administration
-    *   Early Childhood Education Degrees
-    *   Criminal Justice Degrees
-    *   Nursing Degrees
-    *   Psychology Degrees
-    *   Video Game Design Degrees
+*   Online Degrees
     *   All Subjects
+    *   Business
+    *   Criminal Justice &. Legal
+    *   Education
+    *   Fine Arts &. Design
+    *   Health &. Nursing
+    *   Liberal Arts &. Humanities
+    *   Math, Science &. Engineering
+    *   Public Affairs &. Social Sciences
+    *   Religious Studies
+    *   Technology
 *   Online Certificates
 *   Online Colleges
 *   Free Career Assessment
