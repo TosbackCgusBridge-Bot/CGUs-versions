@@ -233,7 +233,6 @@ Contact Information Who do I contact if I am concerned, or have questions, about
 *   Enlighten Me
 *   Lottery Results
 *   Weather Forecasts
-*   Superpages Mobile
 
 *   ABOUT
 *   About Superpages
