@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Supersonic Travel Could Be Coming Back**
+**Human Penis Bone Disappeared With Rise of Monogamy, Succinct Sex**
 
-**Who Are the Real Caesar, Melba and General Tso?**
+**Other Pieces of Pop Culture That Will Expand How You See 'Rogue One'**
 
-**Monkeys Have the Anatomy for 'Human' Speech, But Not the Brains**
+**U.S. Gets a C- on Ocean Health**
 
 **See More Headlines »**
 
