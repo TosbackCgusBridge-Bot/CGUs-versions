@@ -144,7 +144,7 @@
 *   Sale
     View All Categories Shop by Category*   Pfaelzer Brothers Sale
 
-1.800.753.8558 Menu Search Stores Cart Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go LAST CHANCE SALE! + Free Standard Delivery on shipments $35+.\*
+1.800.753.8558 Menu Search Stores Cart Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go EXTENDED! - FREE CHRISTMAS DELIVERY ON SHIPMENTS $35+ &. $5 SHIPMENTS UNDER $35!\*
 
 1.  Home
 2.  Customer Service
