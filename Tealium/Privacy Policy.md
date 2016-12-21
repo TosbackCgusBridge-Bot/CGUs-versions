@@ -4,7 +4,6 @@
     *   Tealium DataAccess
 *   Integrations
 *   Resources
-    *   MarTech Challenge
     *   Case Studies
     *   Whitepapers
     *   Videos
@@ -12,6 +11,7 @@
     *   Solution Briefs
     *   Datasheets
     *   ROI Calculator
+    *   MarTech Challenge
     *   Tealium Learning Community
     *   Education
     *   Support
