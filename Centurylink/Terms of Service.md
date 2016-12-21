@@ -134,7 +134,7 @@ A telephone or account number is required. You must enter a valid telephone or a
 Go  
 How can I find my Account Number?  
   
-Why is this needed? As CenturyLink and Qwest merge companies, we are working hard to combine our systems. By supplying your home telephone or account number we will be able to get you to the right location. Thank you for your patience during the merger process.   OK OK OK  
+Why is this needed? As CenturyLink and Qwest merge companies, we are working hard to combine our systems. By supplying your home telephone or account number we will be able to get you to the right location. Thank you for your patience during the merger process. OK OK OK  
 Attention! Your browser settings show that JavaScript is disabled. Customer Info Close Window Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings show that JavaScript is disabled. For Home For Business
 
 *   Small Business - Up to 10 Employees
