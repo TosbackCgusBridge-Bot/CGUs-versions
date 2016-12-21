@@ -62,6 +62,7 @@ Sign In
 
 Pick a theme
 
+*   Christmas
 *   Red
 *   Blue
 *   Pink
