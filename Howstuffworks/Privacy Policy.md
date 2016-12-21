@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Human Penis Bone Disappeared With Rise of Monogamy, Succinct Sex**
+**AfterShock: Year One in the Life of a Comic Book Startup**
 
-**Other Pieces of Pop Culture That Will Expand How You See 'Rogue One'**
+**Yes, Airlines Are Shrinking Space Between Your Face and the Next Seat Up**
 
-**U.S. Gets a C- on Ocean Health**
+**Scientists Discover First Dinosaur Tail Preserved in Amber**
 
 **See More Headlines »**
 
