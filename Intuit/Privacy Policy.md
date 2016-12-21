@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15651400150
+true true L15668900694
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Mon Dec 19 11:15:34 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p08.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Tue Dec 20 11:17:39 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -54,11 +54,47 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Gifts Worth Giving
+Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100
 
-In Store &. Online | Ends December 19
+Online Only! | Ends December 21 | Code: TOSAVE97
 
-Shop All Gifts: View Store Ad: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p06.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Dec 19 21:54:46 CST 2016 JVM :->. dtexppr1l3j6\_06 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Dec 19 02:59:45 CST 2016 JVM :->. dtexppr1l2j3\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+\*exclusions &. details Shop Now: Women Men Kids Juniors Home Shoes Jewelry Handbags 25% Off Nike for the Family
+
+Select styles, Nike excluded from coupon.
+
+      Women Men Boys Girls Shoes for the Family Lowest price. Guaranteed! Find a lower price at our competitor?
+
+Tell us and we'll beat it by 5%\*
+
+Get details:
+
+\*Some restrictions apply.
+
+40 to 70% Off Holiday Dress Up
+
+Select styles, reg. $60-$140
+
+Women Men Kids Women's Shoes Men's Shoes Kids' Shoes       Gift Cards: The Perfect Gift For Everyone On Your List Redeem In Store &. Online. No Added Fees. Never Expire.
+
+Gift Cards Available in Stores Through December 24
+
+Shop Gift Cards
+
+E-Gift Cards: Personalize with message, photo or video and deliver within minutes
+
+Email an E-Gift Card
+
+Link to site operated by Cash Star.
+
+Spend $100 on Gift Cards and Get a $25 Off $25 Coupon
+
+Ends December 25
+
+Get Details
+
+Redeemable 12/26/16-1/31/17 in store &. online. Some restrictions apply.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Dec 20 22:54:25 CST 2016 JVM :->. dtexppr1l1j6\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Dec 20 03:04:44 CST 2016 JVM :->. dtexppr1l1j2\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
