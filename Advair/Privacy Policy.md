@@ -265,6 +265,7 @@ Menu
         *   The hope for a cure for HIV/AIDS in our lifetime
         *   Helping to Change the World
         *   Letting the sunshine in – transparency that’ll grow trust
+        *   How doctors and insurers get information about medicines for patients
 *   About us
     
     *   About us
