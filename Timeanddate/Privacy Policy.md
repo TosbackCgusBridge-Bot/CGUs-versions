@@ -139,27 +139,28 @@ webmaster@timeanddate.com timeanddate.com
 5.  Copyright
 6.  Logo Use
 7.  Support Us
-8.  Work Here
-9.  Advertise
-10.  Disclaimer
+8.  Ad Blockers
+9.  Work Here
+10.  Advertise
+11.  Disclaimer
 
 Index
 
-You might also like 5 Fridays, Saturdays &. Sundays: Not 823 Years Apart
+You might also like 12 Months of the Year
 
-5 Fridays, 5 Saturdays, and 5 Sundays in the same month happens only every 823 years? This popular urban myth is precisely that: a myth. more
+Find out what months have to do with the Moon, why there are 12 months, and what the month names mean. more
 
 2016-2017 Cosmic Calendar
 
 List of cosmic events in 2016 and 2017 including supermoons, solar and lunar eclipses, meteor showers, solstices, and equinoxes. more
 
-12 Months of the Year
+What is a Common Year?
 
-Find out what months have to do with the Moon, why there are 12 months, and what the month names mean. more
+A common year is a calendar year with 365 days and only 28 days in February. more
 
-Magnetic Declination
+Australiaâs Time Zones
 
-A compass needle doesn't point to the geographical North Pole but to magnetic north. Did you know that it usually doesn't point to the magnetic North Pole either? more
+Australia has multiple time zones. Some of them are half-hour and quarter-hour time zones. Not all states and territories use Daylight Saving Time (DST). more
 
 Copyright © Time and Date AS 1995–2016. All rights reserved.
 
