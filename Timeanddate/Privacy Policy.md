@@ -146,7 +146,11 @@ webmaster@timeanddate.com timeanddate.com
 
 Index
 
-You might also like 12 Months of the Year
+You might also like December Solstice Facts
+
+10 things you may not know about the December Solstice, the shortest day of the year in the Northern Hemisphere. more
+
+12 Months of the Year
 
 Find out what months have to do with the Moon, why there are 12 months, and what the month names mean. more
 
@@ -154,13 +158,9 @@ Find out what months have to do with the Moon, why there are 12 months, and what
 
 List of cosmic events in 2016 and 2017 including supermoons, solar and lunar eclipses, meteor showers, solstices, and equinoxes. more
 
-What is a Common Year?
+Magnetic Declination
 
-A common year is a calendar year with 365 days and only 28 days in February. more
-
-Australiaâs Time Zones
-
-Australia has multiple time zones. Some of them are half-hour and quarter-hour time zones. Not all states and territories use Daylight Saving Time (DST). more
+A compass needle doesn't point to the geographical North Pole but to magnetic north. Did you know that it usually doesn't point to the magnetic North Pole either? more
 
 Copyright © Time and Date AS 1995–2016. All rights reserved.
 
