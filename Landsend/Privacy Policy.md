@@ -346,17 +346,10 @@ menu 0
     *   Shower Curtains
     
     SEASONAL DECOR >.
-    
     *   Stockings &. Holders
     *   Holiday Decor
     *   Ornaments &. Tree Skirts
-    *   Greenery
-    
-    ENTERTAINING >.
-    *   Food &. Candy
-    *   Table Linens
-    *   Glassware
-    *   ServewareKIDS ROOM >. DOG SHOP >.
+    *   GreeneryENTERTAINING >. KIDS ROOM >. DOG SHOP >.
 *   Gifts
     
     *   Lands' End
@@ -707,17 +700,10 @@ menu 0
     *   Shower Curtains
     
     SEASONAL DECOR Back | SEASONAL DECOR
-    
     *   Stockings &. Holders
     *   Holiday Decor
     *   Ornaments &. Tree Skirts
-    *   Greenery
-    
-    ENTERTAINING Back | ENTERTAINING
-    *   Food &. Candy
-    *   Table Linens
-    *   Glassware
-    *   ServewareKIDS ROOM Back | KIDS ROOM DOG SHOP Back | DOG SHOP
+    *   GreeneryENTERTAINING Back | ENTERTAINING KIDS ROOM Back | KIDS ROOM DOG SHOP Back | DOG SHOP
 *   Gifts
     
     *   Lands' End
