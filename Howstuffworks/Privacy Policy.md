@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**AfterShock: Year One in the Life of a Comic Book Startup**
+**Irritable Bowel Syndrome Could Be Linked to Defective Gene**
 
-**Yes, Airlines Are Shrinking Space Between Your Face and the Next Seat Up**
+**Eerie, Deep-ocean Ghost Shark Footage Surfaces for First Time**
 
-**Scientists Discover First Dinosaur Tail Preserved in Amber**
+**Marmosets Have Excellent Hearing, and That Might Help Improve Tech for the Deaf**
 
 **See More Headlines »**
 
