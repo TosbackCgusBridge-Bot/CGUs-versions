@@ -16,7 +16,15 @@ Show menu
     *   Mobile
     *   Rewards
 
-*   *   Your notifications1
+To required
+
+Please enter an email address
+
+Please enter a valid email address
+
+Use commas to separate multiple email addresses (Maximum 8)
+
+Subject Message Send ItineraryCancel*   *   Your notifications1
         *   *   All caught up!  
                 No new notifications right now.
 *   Account
@@ -24,9 +32,9 @@ Show menu
     *   Create an Account
 *   My Scratchpad  
     
-    Things you view while shopping are saved here.
-    
     loading your Scratchpad...
+    
+    Things you view while shopping are saved here.
     
     View Scratchpad
 *   My Trips
