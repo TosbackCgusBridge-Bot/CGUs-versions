@@ -111,10 +111,10 @@ View more results
     
     *   Cats Empire
     *   My Dolphin Show 7
-    *   Klondike - the lost expedition
     *   Magoia
-    *   Elite Squad 2
-    *   Wormax io
+    *   Wizard 101
+    *   Doodle Jump
+    *   Frozen Elsa: Jewels
     
     Mobile Apps More
     
