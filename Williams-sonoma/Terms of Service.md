@@ -253,6 +253,6 @@ Legal Statement
 
 Copyright 2016 Williams-Sonoma, Inc. All Rights Reserved.
 
-Williams-Sonoma© is a registered trademark of Williams-Sonoma, Inc.
+Williams Sonoma© is a registered trademark of Williams-Sonoma, Inc.
 
 All of the Content on this website is subject to copyright, trademark, service mark, trade dress and other intellectual property rights or licenses held by Williams-Sonoma, Inc. Your use of the trademarks, service marks, trade dress and copyrighted material displayed on this website is strictly prohibited. You may download, print and store selected portions of the Content, provided you (1) only use these copies of the Content for your own personal, non-commercial use, (2) do not copy or post the Content on any network computer or broadcast the Content in any media, and (3) do not modify or alter the Content in any way, or delete or change any copyright or trademark notice. No right, title or interest in any downloaded materials is transferred to you as a result of any such downloading. Williams-Sonoma, Inc. reserves complete title and full intellectual property rights in any Content you download from this Web site. Except as noted above, you may not copy, download, reproduce, modify, publish, distribute, transmit, transfer or create derivative works from the Content. One or more patents may apply to this Web site, including without limitation, U.S. Patent Nos. 5,528,490. 5,761,649. and 6,029,142.
