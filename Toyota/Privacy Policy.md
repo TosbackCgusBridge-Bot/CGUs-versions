@@ -43,7 +43,7 @@ Crossovers &. SUVs
 
 *   $36,150 as shown 2017 RAV4 $24,910 starting 23/30 est. mpg build Specials
 *   $41,150 as shown 2017 Highlander $30,630 starting 21/27 est. mpg build Specials
-*   $39,595 as shown 2016 4Runner $34,010 starting 17/22 est. mpg build Specials
+*   $40,675 as shown 2017 4Runner $34,210 starting 17/21 est. mpg build Specials
 *   $61,990 as shown 2017 Sequoia $45,460 starting 13/17 est. mpg build Specials
 *   $84,325 as shown 2017 Land Cruiser $84,325 starting 13/18 est. mpg build Specials
 
