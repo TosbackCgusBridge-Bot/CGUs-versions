@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Cloud Chatter- December 2016 ›
+*   Canonical Livepatch Service update – December 2016 ›
 *   Announcing The Canonical Distribution of Kubernetes 1.5.1 ›
 *   Get 50% off Linux Foundation training and certification ›
-*   Research: Consumers are terrible at updating their connected devices ›
-*   Webinar: 2017 – what’s in store for IoT? ›
