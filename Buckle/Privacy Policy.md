@@ -76,7 +76,7 @@
         
           
           
-        Give a Buckle Gift card Order by 12/20 for standard shipping and 12/23 delivery. Details
+        Give a Buckle Gift card Buckle eGift Card – the perfect last-minute gift. Send one now!
 *   Men
     *   *   Featured
         
@@ -128,7 +128,7 @@
         
           
           
-        Give a Buckle Gift card Order by 12/20 for standard shipping and 12/23 delivery. Details
+        Give a Buckle Gift card Buckle eGift Card – the perfect last-minute gift. Send one now!
 *   Kids
     *   *   Featured
         
@@ -155,7 +155,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Order by 12/20 for standard shipping and 12/23 delivery. Details
+        Give a Buckle Gift card Buckle eGift Card – the perfect last-minute gift. Send one now!
 *   Jeans
     *   *   Women's Jeans
         
@@ -177,7 +177,7 @@
         *   Kid's Jeans
         
         *   Girl's Jeans
-        *   Boy's JeansGive a Buckle Gift card Order by 12/20 for standard shipping and 12/23 delivery. Details
+        *   Boy's JeansGive a Buckle Gift card Buckle eGift Card – the perfect last-minute gift. Send one now!
 *   New
     *   *   Women's New
         
@@ -206,7 +206,7 @@
         *   Shop All
         *   Boy's New Tops
         *   Boy's New Jeans
-        *   Shop AllGive a Buckle Gift card Order by 12/20 for standard shipping and 12/23 delivery. Details
+        *   Shop AllGive a Buckle Gift card Buckle eGift Card – the perfect last-minute gift. Send one now!
 *   Sale
     *   *   Women's Sale
         
@@ -247,7 +247,7 @@
         
           
           
-        Give a Buckle Gift card Order by 12/20 for standard shipping and 12/23 delivery. Details
+        Give a Buckle Gift card Buckle eGift Card – the perfect last-minute gift. Send one now!
 
 A Global Message! × Privacy &. Security
 
