@@ -34,6 +34,7 @@ EUROPE
 *   Poland (Polski)
 *   Portugal (Português)
 *   Georgia (ქართული)
+*   Turkey (Türk)
 
 LATIN AMERICA
 
