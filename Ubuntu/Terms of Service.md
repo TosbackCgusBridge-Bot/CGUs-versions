@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   The 4th China Mobile Global Partner Conference Forum ›
 *   Cloud Chatter- December 2016 ›
 *   Canonical Livepatch Service update – December 2016 ›
 *   Announcing The Canonical Distribution of Kubernetes 1.5.1 ›
-*   Get 50% off Linux Foundation training and certification ›
