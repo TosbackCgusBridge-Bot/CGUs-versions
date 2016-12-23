@@ -295,7 +295,7 @@ If you have any questions or concerns about our Privacy Policy, please contact P
 
 We may from time to time make changes to our Privacy Policy to reflect changes in our practices. We reserve the right to revise or modify this Privacy Policy in whole or in part at any time. We will inform you of any update to our Privacy Policy by posting the updated Privacy Policy with its effective date on our websites. The effective date is posted at the beginning of the notice. We may email periodic reminders of our Privacy Policy, but you should check our website frequently to see any recent changes.
 
-  Terms of Use
+Terms of Use
 
 **PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING OUR SERVICES**
 
