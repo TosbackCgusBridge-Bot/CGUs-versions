@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Irritable Bowel Syndrome Could Be Linked to Defective Gene**
+**What's With the Odd European Replica Towns All Across the United States?**
 
-**Eerie, Deep-ocean Ghost Shark Footage Surfaces for First Time**
+**10 Surprising 'Rogue One' Connections to the 'Star Wars' Universe**
 
-**Marmosets Have Excellent Hearing, and That Might Help Improve Tech for the Deaf**
+**World's Oldest Veggie Casserole Found in the Sahara Desert**
 
 **See More Headlines »**
 
