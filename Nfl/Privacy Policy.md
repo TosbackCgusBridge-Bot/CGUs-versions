@@ -21,7 +21,7 @@ Search
 NFL.com - Privacy Policy English Deutsch Francais
 
 **Effective Date: August 16, 2001  
-Updated: July 18, 2016**  
+Updated: December 19, 2016**  
 
   
 
@@ -57,7 +57,7 @@ You generally are not required to provide information about yourself when you vi
 *   Unique identifiers, such as a user name or password;
 *   Demographic information, such as gender;
 *   Financial information, such as credit card or other payment information;
-*   Geolocation information;
+*   Real-time Geolocation information;
 *   Communications preferences;
 *   Search queries;
 *   Comments and other information posted in our interactive online forums;
@@ -115,7 +115,7 @@ We are committed to maintaining your trust, and we want you to understand when a
     
 *   **Aggregate Information**: We may share aggregate information, such as demographics and usage statistics, with advertisers, sponsors or other organizations.
     
-*   **Geolocation Information**: We may share your geolocation information with service providers that perform certain functions or services on our behalf. These companies are authorized to use precise geolocation information only as necessary to provide these services to us. We also may share your geolocation information with third parties so that they may provide you with geographically relevant advertising. If you wish to stop the further collection of your geolocation information, please opt-out using your device settings.
+*   **Geolocation Information**: We may share your geolocation information with service providers that perform certain functions or services on our behalf. These companies are authorized to use precise geolocation information only as necessary to provide these services to us. We also may share your geolocation information with third parties so that they may provide you with geographically relevant advertising. If you wish to stop the further collection of your geolocation information, whether collected through location services, Bluetooth, or microphone access technology, please opt-out using your device settings.
     
 
 **4\. Cookies and Similar Technologies**
@@ -133,7 +133,7 @@ We are committed to maintaining your trust, and we want you to understand when a
 
 **5\. Advertising**
 
-We partner with third party advertisers to serve and display advertising on the Services. These partners may use cookies and Web beacons to collect information about your activities across different websites and services to provide you with relevant advertising. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here.
+We partner with third party advertisers to serve and display advertising on the Services. These partners may use cookies and Web beacons to collect information about your activities across different websites and services to provide you with relevant advertising. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. To serve and display advertising relevant to your location, the Services may also track your device's precise geolocation by responding to beacons or inaudible signals sent to your device's microphone. If you do not want the location of your device to be tracked by the Services, please opt-out using your device settings.
 
 **6\. Social Networking**
 
