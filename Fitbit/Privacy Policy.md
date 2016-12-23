@@ -20,6 +20,7 @@ Fitbit
 *   Why Fitbit
     *   Why Fitbit
     *   What's New
+    *   Our Technology
     *   FitScience
     *   About Us
 *   Get Motivated
