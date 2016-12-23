@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms November 2016 ranks as 5th warmest on record for the globe AROUND NOAA // Get your snowstorm smarts on: 6 forecast tools to use this winter Unprecedented Arctic warmth in 2016 triggers massive decline in sea ice, snow Scientists: Strong evidence that human-caused climate change intensified 2015 heat waves This holiday season, give the gift of peace of mind
+Enter Search Terms Get your snowstorm smarts on: 6 forecast tools to use this winter AROUND NOAA // November 2016 ranks as 5th warmest on record for the globe Unprecedented Arctic warmth in 2016 triggers massive decline in sea ice, snow This holiday season, give the gift of peace of mind
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock image
+Courtesy of Eric Druxman
