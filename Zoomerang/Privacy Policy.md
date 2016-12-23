@@ -1,6 +1,6 @@
 *   SOLUTIONS
     *   PRODUCT INNOVATION
-    *   BRAND ENGAGEMENT
+    *   ADVERTISING &. BRAND
     *   CUSTOMER VALUE
 *   DATA
 *   TECHNOLOGY
@@ -13,7 +13,7 @@
 
 *   SOLUTIONS
     *   PRODUCT INNOVATION
-    *   BRAND ENGAGEMENT
+    *   ADVERTISING &. BRAND
     *   CUSTOMER VALUE
 *   DATA
 *   TECHNOLOGY
@@ -68,7 +68,7 @@ Select CountryAnguillaAntigua &. BarbudaArgentinaArmeniaAustraliaBahrainBarbados
 
 *   Solutions
     *   Product Innovation
-    *   Brand Engagement
+    *   Advertising and Brand
     *   Customer Value
 
 *   Data
