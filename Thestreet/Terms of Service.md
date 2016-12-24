@@ -70,36 +70,19 @@ As a member, You also have certain other obligations relating to Your account:
 
 5\. Subscription Cancellation for Premium Service
 
-YOU SHOULD READ THESE TERMS CLOSELY BEFORE YOU SUBSCRIBE FOR A PREMIUM SERVICE.
+YOU SHOULD READ THESE TERMS CLOSELY BEFORE YOU SUBSCRIBE FOR A PREMIUM SERVICE.  This Section does not apply to one-time purchases of TheStreet reports.  During the free-trial portion of Your subscription, if any, You may cancel Your subscription to the Premium Service at any time and not be billed by notifying our Customer Service Department by telephone at 1-866-321-8726 Monday through Friday between the hours of 8:00 a.m. and 9:00 p.m. ET.  You must cancel **one (1) day before the free trial period expires** in order to avoid being converted to a paid subscription.  Please note:
 
-This Section does not apply to one-time purchases of TheStreet reports.
-
-During the free-trial portion of Your subscription, if any, You may cancel Your subscription to the Premium Service at any time and not be billed by notifying our Customer Service Department by telephone at 1-866-321-8726 Monday through Friday between the hours of 8:00 a.m. and 9:00 p.m. ET.
-
-Please note:
-
-*   Upon the commencement of Your initial subscription (which occurs at the expiration of Your free trial, or if You are not receiving a free trial, upon Your registration for a subscription) Your credit card will be billed the applicable subscription fee and Your paid subscription will commence.
-*   Monthly Subscribers - If You are a monthly subscriber and you cancel Your monthly subscription, You will NOT receive a refund or reimbursement of Your monthly subscription fee. however, You will not be charged any future monthly subscription fees.
-*   Other Subscribers - If You are a subscriber for a term longer than a month (including annual subscriptions) and you cancel within the first thirty (30) days of Your initial subscription, You may receive a refund of Your subscription fee minus the equivalent of one month charge. Please note that if You cancel Your subscription at any time after the first thirty (30) day period of Your initial subscription, You will not be entitled to any refund, reimbursement, or other credit on account of the cancellation of Your subscription. 
-*   If Your subscription term is longer than a month and You wish to cancel Your initial subscription within thirty (30) days of the commencement of Your initial subscription, You must notify our Customer Service Department by telephone at 1-866-321-8726 Monday through Friday between the hours of 8:00 a.m. and 9:00 p.m. ET. You may not cancel a subscription by any other means (such as by sending a request via email, postal mail or by calling any other phone number). If Your subscription term is longer than a month and You cancel Your initial subscription in accordance with the foregoing procedure, Your account will be credited within 7-14 business days following Your call. 
-
-Please also read the Subscription Renewal provisions, below.
+*   Upon the commencement of Your initial subscription (which occurs at the expiration of Your free trial, or if You are not receiving a free trial, upon Your registration for a subscription) Your credit card will be billed the applicable subscription fee and Your paid subscription will commence. 
+    
+*   Monthly Subscribers - If You are a monthly subscriber and you cancel Your monthly subscription, You will NOT receive a refund or reimbursement of Your monthly subscription fee. however, You will not be charged any future monthly subscription fees. 
+    
+*   Other Subscribers - If You are a subscriber for a term longer than a month (including annual subscriptions) and you cancel within the first thirty (30) days of Your initial subscription, You may receive a refund of Your subscription fee minus the equivalent of one month pro-rated charge.  Please note that if You cancel Your subscription at any time after the first thirty (30) day period of Your initial subscription, You will not be entitled to any refund, reimbursement, or other credit on account of the cancellation of Your subscription, regardless of whether you have used your Subscription.  
+    
+*   You can cancel Your subscription by calling our Customer Service Department at 1-866-321-8726 Monday through Friday**(excluding Federal Reserve Holidays)** between the hours of 8:00 a.m. and 9:00 p.m. ET. You may not cancel a subscription by any other means (such as by sending a request via email, postal mail or by calling any other phone number).  If you are entitled to a refund we will seek to credit Your account within 7-14 business days following Your call.  
 
 6\. Subscription Renewal for Premium Service
 
-YOU SHOULD READ THESE TERMS CLOSELY BEFORE YOU SUBSCRIBE FOR A PREMIUM SERVICE.
-
-This Section does not apply to one-time purchases of TheStreet reports.
-
-**Your subscription will continue for the period referenced during registration (the "Term"), and renew automatically at the end of the Term, unless You notify us of Your decision not to renew Your subscription by calling our Customer Service Department by telephone at 1-866-321-8726 Monday through Friday between the hours of 8:00 a.m. and 9:00 p.m. ET. You may not notify us of a decision not to renew Your subscription by any other means (such as by sending a request via email, postal mail or by calling any other phone number).**
-
-If You do not notify us as described above, the then-applicable monthly, periodic or annual fee for Your subscription will be billed automatically to the credit card account You designated during the registration process (or subsequently changed).
-
-Please note,
-
-*   After Your initial subscription, You will not receive a refund, reimbursement or other credit of Your subscription fee after Your subscription has renewed.
-
-In connection with recurring billing for subscription renewals, You authorize TheStreet to bill Your credit card account number, regardless of whether the other information associated with Your subscription has changed, including but not limited to the expiration date of the physical card with which You subscribed. We may receive updated information about Your account from the financial institution issuing Your credit or charge card. You agree to pay all fees and charges incurred in connection with Your user name, member name and password (including any applicable taxes) at the rates in effect when the charges were incurred. You agree to pay all amounts due upon our demand. In the event we have to collect unpaid amounts You owe us, You will be liable for all of our attorneys' and collection agency fees.
+YOU SHOULD READ THESE TERMS CLOSELY BEFORE YOU SUBSCRIBE FOR A PREMIUM SERVICE.  This Section does not apply to one-time purchases of TheStreet reports. **Your subscription will continue for the period referenced during registration (the "Term"), and renew automatically at the end of the Term, unless You notify us of Your decision not to renew Your subscription by calling our Customer Service Department by telephone at 1-866-321-8726 Monday through Friday (excluding Federal Reserve Holidays) between the hours of 8:00 a.m. and 9:00 p.m. ET. You must notify us at least one day before the renewal date** **in order to avoid being charged for the renewal of your subscription. You may not notify us of a decision not to renew Your subscription by any other means (such as by sending a request via email, postal mail or by calling any other phone number).**   If You do not notify us as described above, the then-applicable monthly, periodic or annual fee for Your subscription will be billed automatically to the credit card account You designated during the registration process (or subsequently changed).  Please note,in connection with recurring billing for subscription renewals, You authorize TheStreet to bill Your credit card account number, regardless of whether the other information associated with Your subscription has changed, including but not limited to the expiration date of the physical card with which You subscribed. We may receive updated information about Your account from the financial institution issuing Your credit or charge card. You agree to pay all fees and charges incurred in connection with Your user name, member name and password (including any applicable taxes) at the rates in effect when the charges were incurred. You agree to pay all amounts due upon our demand. In the event we have to collect unpaid amounts You owe us, You will be liable for all of our attorneys' and collection agency fees.
 
 7\. TheStreet's Proprietary Rights
 
@@ -231,6 +214,8 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 18\. Legal Notices
+
+We reserve the right to send electroniccommunications to You for purposes of legal notices and informing you of changes or additions to the Services.
 
 California residents may contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 400 R Street, Suite 1080, Sacramento, CA 95814, or by telephone at (916) 445-1254 or (800) 952-5210.
 
