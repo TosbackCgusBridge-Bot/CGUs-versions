@@ -56,6 +56,7 @@ Search Google Appliance Enter the terms you wish to search for. Search
     *   TiVo
     *   Video On Demand
     *   Pay-Per-View
+    *   Accessibility
     *   Apps
 *   Internet
 *   Phone
