@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**What's With the Odd European Replica Towns All Across the United States?**
+**75 Years After Her Debut, Wonder Woman Remains Iconic**
 
-**10 Surprising 'Rogue One' Connections to the 'Star Wars' Universe**
+**How Wind Tunnel Testing Shaped Vintage Dream Cars**
 
-**World's Oldest Veggie Casserole Found in the Sahara Desert**
+**5 Cool Things the Women Who Inspired 'Hidden Figures' Accomplished**
 
 **See More Headlines »**
 
