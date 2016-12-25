@@ -158,7 +158,7 @@ What is a Common Year?
 
 A common year is a calendar year with 365 days and only 28 days in February. more
 
-Australiaâs Time Zones
+Australia’s Time Zones
 
 Australia has multiple time zones. Some of them are half-hour and quarter-hour time zones. Not all states and territories use Daylight Saving Time (DST). more
 
