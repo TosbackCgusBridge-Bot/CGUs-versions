@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15673754496
+true true C15660741152
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1l1j2 TIME :->. Fri Dec 23 11:15:06 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p17.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Sat Dec 24 11:15:16 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -62,7 +62,7 @@ Shop All Gifts: View Store Ad: Find a Store:Doorbusters | Friday 3PM CST - Satur
 
 Use your coupon and save even more!
 
-Shop Doorbusters: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p06.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Dec 23 04:19:06 EST 2016 JVM :->. dtexppr1c3j2\_06 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Dec 23 03:19:06 CST 2016 JVM :->. dtexppr1c1j5\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Doorbusters: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Dec 24 21:55:34 CST 2016 JVM :->. dtexppr1l2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p05.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Dec 24 21:55:53 CST 2016 JVM :->. dtexppr1l3j2\_05 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
