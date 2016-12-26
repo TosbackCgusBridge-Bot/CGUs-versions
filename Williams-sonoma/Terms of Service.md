@@ -4,7 +4,7 @@
 
 Terms and Conditions
 
-Welcome to williams-sonoma.com/ ("Web Site")! We are part of "Williams-Sonoma, Inc." which includes Williams-Sonoma®, Pottery Barn®, pottery barn kids®, PBteen®, west elm®, Rejuvenation® and Mark and Graham®.
+Welcome to williams-sonoma.com/ ("Web Site")! We are part of "Williams-Sonoma, Inc." which includes Williams Sonoma®, Pottery Barn®, pottery barn kids®, PBteen®, west elm®, Rejuvenation® and Mark and Graham®.
 
 Please take a few minutes to review these Terms and Conditions. These Terms and Conditions apply to your access and use of the Web Site and our mobile applications. Your use of our Web Site or our mobile application constitutes your agreement to follow these Terms and Conditions and to be bound by them.
 
@@ -152,7 +152,7 @@ Last Updated: March 2016
 
 Privacy Policy
 
-We are part of the Williams-Sonoma, Inc. Brands which includes Williams-Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, Rejuvenation and Mark and Graham. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase "contact information" means any information by which you can be contacted or personally identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. This Privacy Policy applies to information we collect about you in our stores and through our websites and mobile applications. By using any of our web sites, mobile applications, or sharing your contact information with us, you are accepting and consenting to the practices described in this Privacy Policy.
+We are part of the Williams-Sonoma, Inc. Brands which includes Williams Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, Rejuvenation and Mark and Graham. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase "contact information" means any information by which you can be contacted or personally identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. This Privacy Policy applies to information we collect about you in our stores and through our websites and mobile applications. By using any of our web sites, mobile applications, or sharing your contact information with us, you are accepting and consenting to the practices described in this Privacy Policy.
 
 As a part of our commitment to your privacy, Williams-Sonoma, Inc. Brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association's Privacy Promise to American Consumers. We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale, or exchange with other marketers. (2) honor customers' requests not to share their contact information with other marketers. and (3) honor customers' requests not to receive mail, telephone, or other solicitations from Williams-Sonoma, Inc. Brands.
 
