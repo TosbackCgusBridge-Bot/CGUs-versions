@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15660741152
+true true C15660487388
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p17.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Sat Dec 24 11:15:16 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Sun Dec 25 11:15:07 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -54,15 +54,31 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Last-Minute Gifts Worth Giving
+MERRY CHRISTMAS!
 
-In Store &. Online | Ends December 24
+Today Online Only! | December 25 | Code: FESTIVE
 
-Shop All Gifts: View Store Ad: Find a Store:Doorbusters | Friday 3PM CST - Saturday 1PM CST
+Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100 Plus Free Shipping Over $49
 
-Use your coupon and save even more!
+Some exclusions apply.
 
-Shop Doorbusters: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Dec 24 21:55:34 CST 2016 JVM :->. dtexppr1l2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p05.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Dec 24 21:55:53 CST 2016 JVM :->. dtexppr1l3j2\_05 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+\*Get Details: E-Gift Cards: It's Not Too Late To Find The Perfect Gift! Email an E-Gift Card:
+
+Link to site operated by Cash Star.
+
+Receive a Gift Card?
+
+Redeem In Store &. Online
+
+Check Your Balance: After Christmas Sale &. Clearance Shop Sale: View Store Ad:Stores Open at 6AM December 26
+
+Except where prohibited by law.
+
+End of Season Clearance 50-70% Off Shop Clearance:Get In Store 6AM Monday, December 26, For a Coupon Giveaway $10 Off $10 Or More Or $20 Off $20 Or More Or $100 Off $100 Or More
+
+While Supplies Last, Coupon Valid In Store Only December 26
+
+Get Details: Women Men Kids Home Jewelry Shoes Handbags Seasonal Trim &. Decor \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Dec 25 22:51:05 CST 2016 JVM :->. dtexppr1c1j6\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Dec 25 21:56:30 CST 2016 JVM :->. dtexppr1c2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
