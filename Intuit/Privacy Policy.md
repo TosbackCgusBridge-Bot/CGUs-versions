@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15660487388
+true true C15661937653
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Sun Dec 25 11:15:07 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Mon Dec 26 11:15:35 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -54,23 +54,11 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-MERRY CHRISTMAS!
+JCPenney Rewards $10 Bonus Reward
 
-Today Online Only! | December 25 | Code: FESTIVE
+When you spend $50 or more on men's &. women's activewear in store &. online, 12/25/16-12/31/16\*
 
-Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100 Plus Free Shipping Over $49
-
-Some exclusions apply.
-
-\*Get Details: E-Gift Cards: It's Not Too Late To Find The Perfect Gift! Email an E-Gift Card:
-
-Link to site operated by Cash Star.
-
-Receive a Gift Card?
-
-Redeem In Store &. Online
-
-Check Your Balance: After Christmas Sale &. Clearance Shop Sale: View Store Ad:Stores Open at 6AM December 26
+Get Details: After Christmas Sale &. Clearance Shop Sale: View Store Ad:Stores Open at 6AM December 26
 
 Except where prohibited by law.
 
@@ -78,7 +66,43 @@ End of Season Clearance 50-70% Off Shop Clearance:Get In Store 6AM Monday, Decem
 
 While Supplies Last, Coupon Valid In Store Only December 26
 
-Get Details: Women Men Kids Home Jewelry Shoes Handbags Seasonal Trim &. Decor \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Dec 25 22:51:05 CST 2016 JVM :->. dtexppr1c1j6\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Dec 25 21:56:30 CST 2016 JVM :->. dtexppr1c2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Get Details: Women Men Kids Home Jewelry Shoes Handbags Seasonal Trim &. Decor Home White Sale | December 25-January 1 Stock Up! 30 to 50% Off
+
+Select styles.
+
+  Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. MattressesINTRODUCING 12.99 Royal Velvet Verona sculpted or 30x58" Egyptian cotton loops solid bath towel
+
+Select styles, reg. $26
+
+Shop Royal Velvet Bath Towels 25% Off Nike for the Famiy
+
+Select styles, Nike excluded from coupon.
+
+Shop Women Shop Men Shop Boys Shop Girls Shop Shoes for the Family       Lowest Price. Guaranteed! Find a lower price at our competitor? Tell us and we'll beat it by 5%\*
+
+\*Some restrictions apply. Excludes major appliances.
+
+Get Details: 14.99 - 19.99 Arizona Denim
+
+Select styles, reg. $42
+
+Shop Juniors Shop Guys Shop Boys Shop Girls         Up to 20% Off\* Major Appliances
+
+Select styles. \*GE, GE Profile &. GE Cafe limited to 10% off savings.
+
+Plus Extra 10% Off\* With Code: STOVE48 Shop Major Appliances18 Months or 30 Months Special Financing\*\* available on qualifying major appliance purchases made through 1/16/17 on a JCPenney Credit Card. Must request at time of purchase. \*\*Get Details:
+
+Don't have a JCPenney Credit Card?
+
+Apply Now:Free Delivery and Basic Installation
+
+on all appliance purchases over $299
+
+Get Details:JCPenney Rewards Shop &. Get Rewards
+
+for points earned on major appliances+
+
++Get Details: Receive a Gift Card? Redeem In Store &. Online Check Your Balance: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p05.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Dec 26 22:56:12 CST 2016 JVM :->. dtexppr1l3j5\_05 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p06.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Dec 26 06:22:50 CST 2016 JVM :->. dtexppr1l3j2\_06 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
