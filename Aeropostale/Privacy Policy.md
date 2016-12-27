@@ -62,13 +62,11 @@ Aéropostale
     *   Polos
     *   Tees
     *   Tanks
-    *   Shirts
     *   Hoodies
     
     *   BOTTOMS
     *   Jeans
     *   Pants
-    *   Joggers + Sweats
     *   Shorts
     
     *   ACCESSORIES
