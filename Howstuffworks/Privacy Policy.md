@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**75 Years After Her Debut, Wonder Woman Remains Iconic**
+**NASA Tattooed Me With a Protostar … For Science!**
 
-**How Wind Tunnel Testing Shaped Vintage Dream Cars**
+**Let Kids Lose! Scientists Say It Helps Children Learn Better Judgment**
 
-**5 Cool Things the Women Who Inspired 'Hidden Figures' Accomplished**
+**Finally, a Shock to the System That’s Good For You**
 
 **See More Headlines »**
 
