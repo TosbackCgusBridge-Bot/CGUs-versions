@@ -33,13 +33,13 @@ Menutimeanddate.com Search × Site / Articles City / Country Social × Share thi
 *   CalendarBack
     *   Calendar Info
     *   Calendar 2016
-    *   Leap Year
     *   Calendar 2017
     *   Monthly Calendar
     *   Printable PDF Calendar
     *   Add Your Own Calendar Events
     *   Calendar Creator
     *   Advanced Calendar Creator
+    *   Leap Year
     *   Holidays Worldwide
     *   On This Day in History
     *   Calendar Articles
@@ -59,10 +59,12 @@ Menutimeanddate.com Search × Site / Articles City / Country Social × Share thi
     *   Moon Light World Map
     *   Astronomy Articles
 *   TimersBack
+    *   Stopwatch
+    *   Timer
     *   Countdown to Any Date
     *   New Year Countdown
-    *   Timer
-    *   Stopwatch
+    *   New Year Countdown World Map
+    *   New Year Trivia
 *   CalculatorsBack
     *   Date to Date Calculator (duration)
     *   Business Date to Date (exclude holidays)
