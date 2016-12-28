@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Fisheries Coral: The gift you don't want to give, or get Weather Winter safety: How to prepare for winter weather National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Science is kid's play: Online games for school breaks or anytime at all Weather Winter safety: How to prepare for winter weather National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Get your snowstorm smarts on: 6 forecast tools to use this winter AROUND NOAA // November 2016 ranks as 5th warmest on record for the globe Unprecedented Arctic warmth in 2016 triggers massive decline in sea ice, snow This holiday season, give the gift of peace of mind
+Enter Search Terms Get your snowstorm smarts on: 6 forecast tools to use this winter AROUND NOAA // Postscript: Lost WWII weatherman’s family found Science is kid's play: Online games for school breaks or anytime at all November 2016 ranks as 5th warmest on record for the globe Unprecedented Arctic warmth in 2016 triggers massive decline in sea ice, snow
 
 *   About our agency
 *   News and features
