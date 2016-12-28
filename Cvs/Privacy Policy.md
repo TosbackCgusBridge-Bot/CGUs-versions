@@ -203,7 +203,7 @@ Please note that we may need to retain certain information for recordkeeping pur
   
 Your California Privacy Rights
 
-If you are our customer and a California resident, you may request that we provide you with certain information about the entities with which we have shared our customers' personal information for direct marketing purposes during the preceding calendar year. To do so, please write to us at privacyofficer@cvshealth.com.
+If you are our customer and a California resident, you may request that we provide you with certain information about the entities with which we have shared our customers' personal information for direct marketing purposes during the preceding calendar year. To do so, please write to us at privacy.officer@cvshealth.com.
 
   
 Your Responsibility
@@ -435,7 +435,7 @@ Please note that we may need to retain certain information for recordkeeping pur
   
 Your California Privacy Rights
 
-If you are our customer and a California resident, you may request that we provide you with certain information about the entities with which we have shared our customers' personal information for direct marketing purposes during the preceding calendar year. To do so, please write to us at privacyofficer@cvshealth.com.
+If you are our customer and a California resident, you may request that we provide you with certain information about the entities with which we have shared our customers' personal information for direct marketing purposes during the preceding calendar year. To do so, please write to us at privacy.officer@cvshealth.com.
 
   
 Your Responsibility
