@@ -76,7 +76,9 @@
         
           
           
-        Give a Buckle Gift card Buckle eGift Card – the perfect last-minute gift. Send one now!
+        Give a Buckle Gift card Goodbye, 2016. It's time for a New Year. 2017 is the year to look good and feel good.  
+        Shop Women's NYE Outfits  
+        Shop Men's NYE Outfits
 *   Men
     *   *   Featured
         
@@ -128,7 +130,9 @@
         
           
           
-        Give a Buckle Gift card Buckle eGift Card – the perfect last-minute gift. Send one now!
+        Give a Buckle Gift card Goodbye, 2016. It's time for a New Year. 2017 is the year to look good and feel good.  
+        Shop Women's NYE Outfits  
+        Shop Men's NYE Outfits
 *   Kids
     *   *   Featured
         
@@ -155,7 +159,9 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Buckle eGift Card – the perfect last-minute gift. Send one now!
+        Give a Buckle Gift card Goodbye, 2016. It's time for a New Year. 2017 is the year to look good and feel good.  
+        Shop Women's NYE Outfits  
+        Shop Men's NYE Outfits
 *   Jeans
     *   *   Women's Jeans
         
@@ -177,7 +183,11 @@
         *   Kid's Jeans
         
         *   Girl's Jeans
-        *   Boy's JeansGive a Buckle Gift card Buckle eGift Card – the perfect last-minute gift. Send one now!
+        *   Boy's Jeans
+        
+        Give a Buckle Gift card Goodbye, 2016. It's time for a New Year. 2017 is the year to look good and feel good.  
+        Shop Women's NYE Outfits  
+        Shop Men's NYE Outfits
 *   New
     *   *   Women's New
         
@@ -206,7 +216,11 @@
         *   Shop All
         *   Boy's New Tops
         *   Boy's New Jeans
-        *   Shop AllGive a Buckle Gift card Buckle eGift Card – the perfect last-minute gift. Send one now!
+        *   Shop All
+        
+        Give a Buckle Gift card Goodbye, 2016. It's time for a New Year. 2017 is the year to look good and feel good.  
+        Shop Women's NYE Outfits  
+        Shop Men's NYE Outfits
 *   Sale
     *   *   Women's Sale
         
@@ -247,7 +261,9 @@
         
           
           
-        Give a Buckle Gift card Buckle eGift Card – the perfect last-minute gift. Send one now!
+        Give a Buckle Gift card Goodbye, 2016. It's time for a New Year. 2017 is the year to look good and feel good.  
+        Shop Women's NYE Outfits  
+        Shop Men's NYE Outfits
 
 A Global Message! × Privacy &. Security
 
