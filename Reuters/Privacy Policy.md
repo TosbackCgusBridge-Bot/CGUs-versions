@@ -26,7 +26,8 @@ Legal Solutions | USA
 
 Free Standard Shipping on books!
 
-Advanced Search Law Books Solutions Support News &. Views Home >. westlaw legal research >. practitioner insights Log in to Westlaw Thomson Reuters Westlaw  
+Advanced Search Law Books Solutions Support Insights &. Trends  
+Home >. westlaw legal research >. practitioner insights Log in to Westlaw Thomson Reuters Westlaw  
 The world's most preferred online legal research service Start your free trial today
 
 *   About Westlaw
