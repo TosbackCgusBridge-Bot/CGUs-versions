@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
+**Massive Lunar Lava Tubes Could Become Home for Moon Colonists**
+
+**Quodpot or Quidditch? Wizarding Worlds Aren't All the Same**
+
 **NASA Tattooed Me With a Protostar … For Science!**
-
-**Let Kids Lose! Scientists Say It Helps Children Learn Better Judgment**
-
-**Finally, a Shock to the System That’s Good For You**
 
 **See More Headlines »**
 
