@@ -8,7 +8,7 @@ Show menu
     *   Home
     *   Hotels
     *   Flights
-    *   Packages
+    *   Bundle Deals
     *   Cars
     *   Cruises
     *   Deals
@@ -46,7 +46,7 @@ Subject Message Send ItineraryCancel*   *   Your notifications1
 *   Home currently selected
 *   Hotels
 *   Flights
-*   Packages
+*   Bundle Deals
 *   Cars
 *   Cruises
 *   Deals
