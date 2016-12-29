@@ -111,10 +111,10 @@ View more results
     
     *   Cats Empire
     *   My Dolphin Show 7
-    *   Magoia
+    *   Warbanner
+    *   Klondike - the lost expedition
     *   Wizard 101
-    *   Doodle Jump
-    *   Frozen Elsa: Jewels
+    *   Cut the Rope &. Friends
     
     Mobile Apps More
     
