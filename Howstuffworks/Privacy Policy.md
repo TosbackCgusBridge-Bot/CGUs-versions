@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
+**What's Happening When People Suddenly Gain Superstrength?**
+
 **Massive Lunar Lava Tubes Could Become Home for Moon Colonists**
 
 **Quodpot or Quidditch? Wizarding Worlds Aren't All the Same**
-
-**NASA Tattooed Me With a Protostar … For Science!**
 
 **See More Headlines »**
 
