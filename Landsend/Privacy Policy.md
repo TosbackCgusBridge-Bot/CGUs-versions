@@ -49,12 +49,10 @@ menu 0
     FEATURED SHOPS
     
     *   New Arrivals
-    *   Best of Holiday
     *   Ultimate Coat Finder
     *   The Starfish Collection
     *   Cardigan Shop
     *   Tunic Shop
-    *   Gifts for Her
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -97,9 +95,7 @@ menu 0
     *   New Arrivals
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
-    *   Holiday Style Guide
     *   Ultimate Coat Finder
-    *   Gifts for Him
     *   Flannel Favorites
     *   Sale
     
@@ -140,8 +136,6 @@ menu 0
     
     *   New Arrivals
     *   Outerwear Shop
-    *   Gifts for Girls
-    *   Gifts for Boys
     *   School Uniforms
     *   Iron Knee Pants
     *   Girls' Knit Kit
@@ -189,6 +183,27 @@ menu 0
     *   Shoes
     *   Accessories
     *   Long Underwear
+*   Swim
+    
+    *   Lands' End
+    *   Lands' End
+    *   Lands' End
+    *   Lands' End
+    *   Business Outfitters
+    
+    SHOP SWIM
+    
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    
+    FEATURED SHOPS
+    *   Swim Tees &. Rash Guards
+    *   Water Shoes &. Sandals
+    *   Totes &. Beach Bags
+    *   Beach Towels
+    *   Sale
 *   Outerwear
     
     *   Lands' End
@@ -314,8 +329,6 @@ menu 0
     FEATURED SHOPS
     
     *   New Arrivals
-    *   Gifts for Home
-    *   Holiday Shop
     *   Supima Bedding &. Bath
     *   Flannel Bedding
     *   No Iron Bedding
@@ -345,40 +358,12 @@ menu 0
     *   Beach Towels
     *   Shower Curtains
     
-    SEASONAL DECOR >.
-    *   Stockings &. Holders
-    *   Holiday Decor
-    *   Ornaments &. Tree Skirts
-    *   GreeneryENTERTAINING >. KIDS ROOM >. DOG SHOP >.
-*   Gifts
-    
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    FEATURED SHOPS
-    
-    *   Holiday Shop
-    *   Stockings &. Stuffers
-    *   Host &. Hostess Gifts
-    *   Favorite Gifts
-    *   Mad for Plaid
-    *   Soft &. Cozy
-    *   Splurges-Luxury
-    *   Personalized Gifts
-    *   Sleep Shop
-    *   Gifts-In-A-Tote
-    *   Last Minute Gifts
-    
-    GREAT GIFTS
-    *   For Her
-    *   For Him
-    *   For Girls
-    *   For Boys
-    *   For Home
-    *   For Dog
+    KIDS ROOM >.
+    *   Sleeping Bags
+    *   Kids Bedding
+    *   Toys &. Gifts
+    *   Bean Bag Chairs
+    *   Baby BlanketsDOG SHOP >. SEASONAL DECOR >. ENTERTAINING >.
 
 *   Lands' End
 *   Canvas by Lands' End
@@ -404,12 +389,10 @@ menu 0
     Back | Women FEATURED SHOPS Back | Women
     
     *   New Arrivals
-    *   Best of Holiday
     *   Ultimate Coat Finder
     *   The Starfish Collection
     *   Cardigan Shop
     *   Tunic Shop
-    *   Gifts for Her
     *   Sale
     
     SHOP BY SIZE RANGE Back | Women
@@ -452,9 +435,7 @@ menu 0
     *   New Arrivals
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
-    *   Holiday Style Guide
     *   Ultimate Coat Finder
-    *   Gifts for Him
     *   Flannel Favorites
     *   Sale
     
@@ -495,8 +476,6 @@ menu 0
     
     *   New Arrivals
     *   Outerwear Shop
-    *   Gifts for Girls
-    *   Gifts for Boys
     *   School Uniforms
     *   Iron Knee Pants
     *   Girls' Knit Kit
@@ -544,6 +523,27 @@ menu 0
     *   Shoes
     *   Accessories
     *   Long Underwear
+*   Swim
+    
+    *   Lands' End
+    *   Lands' End
+    *   Lands' End
+    *   Lands' End
+    *   Business Outfitters
+    
+    Back | Swim SHOP SWIM Back | SHOP SWIM
+    
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    
+    FEATURED SHOPS Back | Swim
+    *   Swim Tees &. Rash Guards
+    *   Water Shoes &. Sandals
+    *   Totes &. Beach Bags
+    *   Beach Towels
+    *   Sale
 *   Outerwear
     
     *   Lands' End
@@ -668,8 +668,6 @@ menu 0
     Back | Home FEATURED SHOPS Back | Home
     
     *   New Arrivals
-    *   Gifts for Home
-    *   Holiday Shop
     *   Supima Bedding &. Bath
     *   Flannel Bedding
     *   No Iron Bedding
@@ -699,40 +697,12 @@ menu 0
     *   Beach Towels
     *   Shower Curtains
     
-    SEASONAL DECOR Back | SEASONAL DECOR
-    *   Stockings &. Holders
-    *   Holiday Decor
-    *   Ornaments &. Tree Skirts
-    *   GreeneryENTERTAINING Back | ENTERTAINING KIDS ROOM Back | KIDS ROOM DOG SHOP Back | DOG SHOP
-*   Gifts
-    
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    Back | Gifts FEATURED SHOPS Back | Gifts
-    
-    *   Holiday Shop
-    *   Stockings &. Stuffers
-    *   Host &. Hostess Gifts
-    *   Favorite Gifts
-    *   Mad for Plaid
-    *   Soft &. Cozy
-    *   Splurges-Luxury
-    *   Personalized Gifts
-    *   Sleep Shop
-    *   Gifts-In-A-Tote
-    *   Last Minute Gifts
-    
-    GREAT GIFTS Back | GREAT GIFTS
-    *   For Her
-    *   For Him
-    *   For Girls
-    *   For Boys
-    *   For Home
-    *   For Dog
+    KIDS ROOM Back | KIDS ROOM
+    *   Sleeping Bags
+    *   Kids Bedding
+    *   Toys &. Gifts
+    *   Bean Bag Chairs
+    *   Baby BlanketsDOG SHOP Back | DOG SHOP SEASONAL DECOR Back | SEASONAL DECOR ENTERTAINING Back | ENTERTAINING
 
 Customer Service Menu
 
