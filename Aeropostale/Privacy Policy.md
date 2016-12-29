@@ -3,8 +3,6 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
-    *   Girls Gift Guide
-    *   Web Busters
     *   Prince + Fox
     *   Cape Juby
     *   Uniform
@@ -48,8 +46,6 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
-    *   Guys Gift Guide
-    *   Web Busters
     *   Prince &. Fox
     *   Cape Juby
     *   Uniform
@@ -79,19 +75,6 @@ Aéropostale
     *   Intimates
     *   Accessories
     *   Sleep
-*   GIFT GUIDE
-    
-    *   View All
-    *   Web Busters
-    *   Stocking Stuffers
-    *   Bundle Up
-    *   Holiday Party
-    
-    *   View All
-    *   Web Busters
-    *   Stocking Stuffers
-    *   Bundle Up
-    *   Holiday Party
 *   Clearance
     
     *   GIRLS
