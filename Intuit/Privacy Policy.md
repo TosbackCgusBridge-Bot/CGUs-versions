@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15680729373
+true true C15667636020
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p15.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Wed Dec 28 11:15:18 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Thu Dec 29 11:15:32 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -58,7 +58,15 @@ JCPenney Rewards $10 Bonus Reward
 
 When you spend $50 or more on men's &. women's activewear in store &. online, 12/25/16-12/31/16\*
 
-Get Details: After Christmas Sale &. Clearance Shop Sale: View Store Ad:End of Season Clearance 50-70% Off Shop Clearance: Women Men Kids Home Jewelry Shoes Handbags Seasonal Trim &. Decor Home White Sale | December 25-January 1 Stock Up! 30 to 50% Off
+Get Details: Ready. Set. Go. Sale Live Your Workout. Love The Savings.
+
+In Store &. Online | Ends January 1
+
+Under $15 Xersion for the Family
+
+Select styles.
+
+Up to 60% Off All Xersion for the Family Shop Women Shop Men Shop Kids       View Store Ad Home White Sale | December 25-January 1 Stock Up! 30 to 50% Off
 
 Select styles.
 
@@ -74,11 +82,15 @@ Shop Women Shop Men Shop Boys Shop Girls Shop Shoes for the Family       Lowe
 
 \*Some restrictions apply. Excludes major appliances.
 
-Get Details: 14.99 - 19.99 Arizona Denim
+Get Details: Arizona Jean Co. Buy 1 Get 1 For .01 Arizona Denim\*
 
-Select styles, reg. $42
+\*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
 
-Shop Juniors Shop Guys Shop Boys Shop Girls         Up to 20% Off\* Major Appliances
+Shop Juniors Shop Guys14.99 Boys' &. Girls' Jeans &. Jeggings
+
+Select styles.
+
+Shop Boys Shop Girls         Up to 20% Off\* Major Appliances
 
 Select styles. \*GE, GE Profile &. GE Cafe limited to 10% off savings.
 
@@ -94,7 +106,7 @@ Get Details:JCPenney Rewards Shop &. Get Rewards
 
 for points earned on major appliances+
 
-+Get Details: Receive a Gift Card? Redeem In Store &. Online Check Your Balance: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p05.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Dec 28 21:56:25 CST 2016 JVM :->. dtexppr1l3j1\_05 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p06.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Dec 28 04:08:18 EST 2016 JVM :->. dtexppr1c3j2\_06 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
++Get Details: Receive a Gift Card? Redeem In Store &. Online Check Your Balance: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p06.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Dec 29 22:55:37 CST 2016 JVM :->. dtexppr1l3j5\_06 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Dec 29 03:32:03 CST 2016 JVM :->. dtexppr1l2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
