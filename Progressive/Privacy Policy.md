@@ -173,7 +173,7 @@ We offer insurance by phone, online and through independent agents. Prices vary 
         *   Life
         *   Mechanical Breakdown
         *   Umbrella
-        *   ID Theft
+        *   Auto Financing
         *   Travel
         *   Mexico Auto
         *   View All Insurance Products
@@ -254,6 +254,6 @@ Zip Code 
 *   Travel
 *   Pet
 *   Mechanical Repair
-*   ID Theft
+*   Auto Financing
 
-AutoHomeRentersCondoMobile HomeClassic CarMotorcycle/ATVBoat/PWCRV/TrailerSnowmobileLifeHealthCommercial AutoBusinessTravelPetMechanical RepairID Theft 
+AutoHomeRentersCondoMobile HomeClassic CarMotorcycle/ATVBoat/PWCRV/TrailerSnowmobileLifeHealthCommercial AutoBusinessTravelPetMechanical RepairAuto Financing 
