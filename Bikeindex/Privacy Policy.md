@@ -20,13 +20,13 @@ Cookies
 
 A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
 
-Cookies are required to use the Bike Index service.
+Cookies are required to use Bike Index service.
 
 We use cookies to record current session information, but do not use permanent cookies. You are required to re-login to your Bike Index account after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
 
 Data Storage
 
-Bike Index uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Bike Index. Although Bike Index owns the code, databases, and all rights to the Bike Index application, you retain all rights to your data.
+Bike Index uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Bike Index. Although Bike Index owns the code, databases, and all rights to Bike Index application, you retain all rights to your data.
 
 Disclosure
 
