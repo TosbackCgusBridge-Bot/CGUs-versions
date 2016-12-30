@@ -4,9 +4,9 @@ Last updated June 9th, 2014. Previous versions and the change history is availab
 
 About our Terms of Service
 
-**Welcome to the Bike Index**, an Illinois Benefit corporation. We developed a publicly-accessible bike registration service (the "Service") that gives you the ability to save and share your bikes on the internet.
+**Welcome to Bike Index**, an Illinois Benefit corporation. We developed a publicly-accessible bike registration service (the "Service") that gives you the ability to save and share your bikes on the internet.
 
-By giving bike shops the ability to register bikes directly from their shops we aim to incentivize bike registration, support bike shops, and ensure accurate registrations. We have tried to draft this Terms of Service to be as simple and comprehensible as possible. Unfortunately, the realities of the legal world make it a very difficult task. So, should you have any questions or concerns, or simply want to better understand how we do things at the Bike Index, please do not hesitate to contact us.
+By giving bike shops the ability to register bikes directly from their shops we aim to incentivize bike registration, support bike shops, and ensure accurate registrations. We have tried to draft this Terms of Service to be as simple and comprehensible as possible. Unfortunately, the realities of the legal world make it a very difficult task. So, should you have any questions or concerns, or simply want to better understand how we do things at Bike Index, please do not hesitate to contact us.
 
 Section A: User's Acknowledgment and Acceptance of Terms
 
