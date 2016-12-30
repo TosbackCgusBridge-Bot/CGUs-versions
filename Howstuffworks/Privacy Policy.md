@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
+**What Are the Odds You've Met a Psychopath?**
+
 **What's Happening When People Suddenly Gain Superstrength?**
 
 **Massive Lunar Lava Tubes Could Become Home for Moon Colonists**
-
-**Quodpot or Quidditch? Wizarding Worlds Aren't All the Same**
 
 **See More Headlines »**
 
