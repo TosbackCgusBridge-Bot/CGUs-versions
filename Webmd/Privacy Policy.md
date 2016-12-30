@@ -495,8 +495,8 @@ Find out how WebMD ensures the quality, accuracy and security of our information
 
 Go Find us on:
 
-URAC: Accredited Health Web SiteAdChoices About WebMD Advertise With Us Terms of Use Privacy Policy Advertising Policy Accessibility Sponsor Policy Site Map Careers Contact Us Medscape Reference eMedicineHealth RxList OnHealth Medscape MedicineNet BootsWebMD WebMD Corporate WebMD Health Services First Aid WebMD Magazine WebMD Health Record WebMD Mobile Newsletters Dictionary Physician Directory
+URAC: Accredited Health Web Site AdChoices About WebMD Advertise With Us Terms of Use Privacy Policy Advertising Policy Accessibility Sponsor Policy Site Map Careers Contact Us Medscape Reference eMedicineHealth RxList OnHealth Medscape MedicineNet BootsWebMD WebMD Corporate WebMD Health Services First Aid WebMD Magazine WebMD Health Record WebMD Mobile Newsletters Dictionary Physician Directory
 
-©2005-2016 WebMD, LLC. All rights reserved.
+©2005-2017 WebMD, LLC. All rights reserved.
 
 WebMD does not provide medical advice, diagnosis or treatment. See additional information.
