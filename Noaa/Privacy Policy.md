@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-Courtesy of Eric Druxman
+iStock
