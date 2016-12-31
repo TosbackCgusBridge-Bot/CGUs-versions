@@ -49,10 +49,11 @@ menu 0
     FEATURED SHOPS
     
     *   New Arrivals
-    *   Ultimate Coat Finder
+    *   Best of Spring
     *   The Starfish Collection
-    *   Cardigan Shop
+    *   Supima Shirts &. Sweaters
     *   Tunic Shop
+    *   Cardigan Shop
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -241,9 +242,10 @@ menu 0
     *   Boys
     
     FEATURED SHOPS
+    *   New Arrivals
     *   Snow Boots
-    *   Boots &. Booties
     *   Sock Shop
+    *   Water Shoes
     *   Accessories &. Bags
     *   Sale
 *   Sale
@@ -389,10 +391,11 @@ menu 0
     Back | Women FEATURED SHOPS Back | Women
     
     *   New Arrivals
-    *   Ultimate Coat Finder
+    *   Best of Spring
     *   The Starfish Collection
-    *   Cardigan Shop
+    *   Supima Shirts &. Sweaters
     *   Tunic Shop
+    *   Cardigan Shop
     *   Sale
     
     SHOP BY SIZE RANGE Back | Women
@@ -581,9 +584,10 @@ menu 0
     *   Boys
     
     FEATURED SHOPS Back | Shoes
+    *   New Arrivals
     *   Snow Boots
-    *   Boots &. Booties
     *   Sock Shop
+    *   Water Shoes
     *   Accessories &. Bags
     *   Sale
 *   Sale
