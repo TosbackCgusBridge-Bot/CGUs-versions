@@ -433,7 +433,7 @@ WebMD has been awarded e-Health accreditation from URAC, formerly the American H
 
  
 
-WebMD's privacy practices have been certified against the requirements of the above third party assessment vendor.
+WebMD's privacy practices have been certified in accordance with the requirements of the above third party assessment vendor.
 
  
 
@@ -441,7 +441,7 @@ WebMD.com, MedicineNet.com, eMedicineHealth.com, and RxList.com comply with the 
 
    
 
-Effective Date: December 23, 2016
+Effective Date: December 30, 2016
 
 ©2016 WebMD, LLC. All rights reserved.
 
