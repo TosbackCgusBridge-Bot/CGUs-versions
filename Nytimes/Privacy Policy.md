@@ -1,9 +1,9 @@
-campaign: nyt2016\_bar1\_digi\_q4blitz\_6JHQJ -- 285075, creative: 2\_nyt2016\_bar1\_digi\_q4blitz\_6JHQJ\_lastchance -- 415534, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
+campaign: nyt2016\_bar1\_digi\_cpb\_67LXL -- 283987, creative: nyt2016\_bar1\_digi\_cpb\_67LXL -- 414213, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
 
 *   1 of 10 articles read
-*   SUBSCRIBE NOW More essential  
-    than ever. 50% off for one year.  
-    Offer ends soon. SUBSCRIBE
+*   SUBSCRIBE NOW Real news deserves  
+    real journalism. Get The Times.  
+    As low as 99¢ for 4 weeks. SEE MY OPTIONS
 
 SUBSCRIBE*   Help
 
@@ -251,4 +251,4 @@ Search Help
 *   Contact Us
 *   Site Feedback
 
-Campaign ID: 283468 | Creative: nyt2016\_personalization\_B2B\_cookiesetter\_v4 -- 414693 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Inv3
+Campaign ID: 283468 | Creative: nyt2016\_personalization\_B2B\_cookiesetter\_v4 -- 414693 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Inv2
