@@ -136,6 +136,6 @@ Connexity
 *   Open Positions
 *   Press
 
-&copy 2016 Connexity, Inc. / Privacy Policy / Opt Out / Site Map
+&copy 2017 Connexity, Inc. / Privacy Policy / Opt Out / Site Map
 
 Connexity®, Audience Discovery® and Hitwise® are registered trademarks of Connexity, Inc.
