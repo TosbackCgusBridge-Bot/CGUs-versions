@@ -88,6 +88,6 @@ Advertisement Advertisement
 *   Advertising
 *   Site Map
 
-Copyright © 2016 QuintilesIMS. All rights reserved.
+Copyright © 2017 QuintilesIMS. All rights reserved.
 
-Pollen.com and Allergy Alert are registered trademarks of QuintilesIMS. Page last modified: 12/31/2016
+Pollen.com and Allergy Alert are registered trademarks of QuintilesIMS. Page last modified: 01/01/2017
