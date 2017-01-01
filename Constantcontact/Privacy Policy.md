@@ -227,4 +227,4 @@ Back to Top
 *   California Privacy Rights
 *   Security
 *   Anti-Spam
-*   © Constant Contact, Inc. 1996-2016
+*   © Constant Contact, Inc. 1996-2017
