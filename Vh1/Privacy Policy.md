@@ -51,4 +51,4 @@ VH1 Menu VH1
 *   Vine
 *   Newsletter
 
-© 2016 Viacom International Inc. All Rights Reserved. VH1 and all related titles and logos are trademarks of Viacom International Inc.
+© 2017 Viacom International Inc. All Rights Reserved. VH1 and all related titles and logos are trademarks of Viacom International Inc.
