@@ -314,5 +314,5 @@ Stuff You Should Know
 
 Stuff You Missed in History Class
 
-Copyright © 2016 HowStuffWorks,  
+Copyright © 2017 HowStuffWorks,  
 a division of InfoSpace Holdings LLC
