@@ -62,4 +62,4 @@ AOL is a member of the Network Advertising Initiative and is committed to comply
 
 AOL Inc. | Privacy | Terms of Service | About Our Ads
 
-© 2016, AOL Inc. All rights reserved.
+© 2017, AOL Inc. All rights reserved.
