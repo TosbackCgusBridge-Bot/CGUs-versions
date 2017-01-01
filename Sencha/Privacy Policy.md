@@ -218,7 +218,7 @@ Get Sencha NewsBuy Online
     *   Web Purchase Policy
     *   Authorized Resellers
 
-© 2016 Sencha Inc. All rights reserved.  
+© 2017 Sencha Inc. All rights reserved.  
 Privacy Policy | Terms of Use
 
 ⊖ Sign up for Sencha News
