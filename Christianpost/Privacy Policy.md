@@ -68,4 +68,4 @@ For more information, please visit contact us.
 *   Terms
 *   Privacy policy
 
-© 2016 The Christian Post , INC. All Rights Reserved. The Christian Post is part of CMC
+© 2017 The Christian Post , INC. All Rights Reserved. The Christian Post is part of CMC
