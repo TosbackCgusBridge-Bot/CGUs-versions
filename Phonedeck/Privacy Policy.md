@@ -76,7 +76,7 @@ Phonedeck is the productivity boost for mobile calls – on the road and in the 
 
 Supported by the EU
 
-© 2016 Phonedeck. Phonedeck GmbH, Berlin. All rights reserved.
+© 2017 Phonedeck. Phonedeck GmbH, Berlin. All rights reserved.
 
 *   CRM
 *   COMPANY
