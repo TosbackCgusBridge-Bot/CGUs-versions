@@ -203,7 +203,7 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Terms and Conditions
 *   Dating Safety Tips
 
-© OkCupid 2016 Free online dating
+© OkCupid 2017 Free online dating
 
 *   Local dating
 *   Jewish dating
