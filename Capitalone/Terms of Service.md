@@ -126,7 +126,7 @@ User access to and use of the Site is subject to all applicable federal, state a
 
 Copyright and Trademark Information
 
-The information contained at the Site, including but not limited to text and images herein (other than certain images licensed from third parties) and their arrangement, are copyright ©2016 by Capital One Financial Corporation. All rights reserved.
+The information contained at the Site, including but not limited to text and images herein (other than certain images licensed from third parties) and their arrangement, are copyright ©2017 by Capital One Financial Corporation. All rights reserved.
 
 Capital One and its logo are trademarks of Capital One. All other trademarks are property of Capital One unless otherwise designated or clearly implied herein as belonging to third parties. Nothing contained at the Site shall be construed as granting by implication, estoppel, or otherwise any license or right under any patent, trademark, copyright (except as expressly stated above) or proprietary rights of Capital One or of any third party.
 
