@@ -179,6 +179,6 @@ Thank you!
 
 about us work here blog legal privacy policy contact us feedback always welcome
 
-site design / logo © 2016 Stack Exchange, Inc. user contributions licensed under cc by-sa 3.0 with attribution required
+site design / logo © 2017 Stack Exchange, Inc. user contributions licensed under cc by-sa 3.0 with attribution required
 
 2016.12.22.10186
