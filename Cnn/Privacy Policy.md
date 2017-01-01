@@ -231,7 +231,7 @@ International Edition
 *   Arabic
 *   Español
 
-© 2016 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.  
+© 2017 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.  
 CNN Sans ™ & © 2016 Cable News Network.
 
 *   Terms of Use
