@@ -45,4 +45,4 @@ Copyright © 2014 JobGo International. All rights reserved. 
 
  **Last revision: 19.01.2014**
 
-JOBSEEKERS Sign up RECRUITERS Sign up Blog Recruitment Platform Platform Pricing Headhunting Service Headhunting Pricing QUESTIONS Contact us Privacy policy Terms of use JOBGO About us Select languageEnglishSuomi Copyright © 2016 JobGo International Oy. All rights reserved.
+JOBSEEKERS Sign up RECRUITERS Sign up Blog Recruitment Platform Platform Pricing Headhunting Service Headhunting Pricing QUESTIONS Contact us Privacy policy Terms of use JOBGO About us Select languageEnglishSuomi Copyright © 2017 JobGo International Oy. All rights reserved.
