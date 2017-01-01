@@ -112,7 +112,7 @@ This policy became effective on 13 May 2013.
 
 A Small World . Net
 
-*   Copyright © 2004 - 2016 ASMALLWORLD AG
+*   Copyright © 2004 - 2017 ASMALLWORLD AG
 *   Terms of Service
 *   Privacy
 
