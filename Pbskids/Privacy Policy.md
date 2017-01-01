@@ -109,4 +109,4 @@ Please read the Terms of Use for Terms and Conditions for using this site.
 
 PBS KIDS | TV Times | Help  
   
-Copyright © 1995-2016 Public Broadcasting Service (PBS). All rights reserved.
+Copyright © 1995-2017 Public Broadcasting Service (PBS). All rights reserved.
