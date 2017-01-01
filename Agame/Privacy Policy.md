@@ -62,7 +62,6 @@ Sign In
 
 Pick a theme
 
-*   Christmas
 *   Red
 *   Blue
 *   Pink
@@ -427,4 +426,4 @@ Did you know that: you can rate every game you play, you can share your favorite
 *   Help &. Contact
 *   Cookies
 
-Copyright © 2016 SPIL GAMES All rights reserved.
+Copyright © 2017 SPIL GAMES All rights reserved.
