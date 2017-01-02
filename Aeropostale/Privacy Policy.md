@@ -24,15 +24,11 @@ Aéropostale
     *   BOTTOMS
     *   Jeans
     *   Leggings + Yoga
-    *   Joggers + Lounge
     *   Pants
     *   Shorts
     *   Skirts
     *   Active Bottoms
     
-    *   DRESSES + ROMPERS
-    *   JACKETS + VESTS
-    *   SHOES
     *   ACCESSORIES
     
     *   Live Love Dream
@@ -47,7 +43,6 @@ Aéropostale
     
     *   NEW ARRIVALS
     *   Prince &. Fox
-    *   Cape Juby
     *   Uniform
     *   Online Only
     *   Extended Sizes
@@ -57,8 +52,6 @@ Aéropostale
     *   Graphic Tees
     *   Polos
     *   Tees
-    *   Tanks
-    *   Shirts
     *   Hoodies
     
     *   BOTTOMS
