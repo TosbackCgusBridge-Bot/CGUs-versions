@@ -193,7 +193,7 @@ PriceGrabber, PriceGrabber.com and The Smart Place to Start Your Shopping are re
 
 This website is free to operate with respect to U.S. Patent No. 6,529,908
 
-Copyright © 2016 PriceGrabber.com Inc. All rights reserved.
+Copyright © 2017 PriceGrabber.com Inc. All rights reserved.
 
   
 ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... ....... .......
