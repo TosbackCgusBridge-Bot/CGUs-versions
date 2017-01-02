@@ -110,7 +110,7 @@ Sign Up for the Latest Recruitment News, Tips and Advice Email Comments Subscrib
 *   Research Collaboration
 *   RightSkill
 
-©2016 CareerBuilder, LLC. All rights reserved.  
+©2017 CareerBuilder, LLC. All rights reserved.  
 200 N. LaSalle Street, Chicago, IL
 
 Clicky!
