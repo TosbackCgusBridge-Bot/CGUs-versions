@@ -32,14 +32,13 @@ Menutimeanddate.com Search × Site / Articles City / Country Social × Share thi
     *   Time Zone Articles
 *   CalendarBack
     *   Calendar Info
-    *   Calendar 2016
     *   Calendar 2017
+    *   Calendar 2018
     *   Monthly Calendar
     *   Printable PDF Calendar
     *   Add Your Own Calendar Events
     *   Calendar Creator
     *   Advanced Calendar Creator
-    *   Leap Year
     *   Holidays Worldwide
     *   On This Day in History
     *   Calendar Articles
@@ -63,8 +62,6 @@ Menutimeanddate.com Search × Site / Articles City / Country Social × Share thi
     *   Timer
     *   Countdown to Any Date
     *   New Year Countdown
-    *   New Year Countdown World Map
-    *   New Year Trivia
 *   CalculatorsBack
     *   Date to Date Calculator (duration)
     *   Business Date to Date (exclude holidays)
@@ -148,9 +145,9 @@ webmaster@timeanddate.com timeanddate.com
 
 Index
 
-You might also like 39 New Years in 2017!
+You might also like Leap Second on New Year's
 
-Toast the New Year 39 times with our new year countdown. 26 hours after the first bottle pops on Kiritimati in the Pacific, Baker Island greets the New Year. more
+A leap second will be added to Coordinated Universal Time (UTC) on December 31, 2016. This will help synchronize our watches with the Earth's slowing rotation. more
 
 12 Months of the Year
 
