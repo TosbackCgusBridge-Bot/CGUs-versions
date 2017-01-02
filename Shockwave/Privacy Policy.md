@@ -266,5 +266,5 @@ Part of the Addicting Games network.
 *   Privacy Policy
 *   Copyright Compliance Policy
 
-Copyright © 2016 Defy Media, LLC. all rights reserved.  
+Copyright © 2017 Defy Media, LLC. all rights reserved.  
 Third-party trademarks are used solely for distributing the games indexed herein and no license or other affiliation is implied.
