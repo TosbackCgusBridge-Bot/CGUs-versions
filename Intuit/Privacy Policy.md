@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15670848665
+true true C15673574795
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Sat Dec 31 11:15:02 CST 2016 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Sun Jan 01 11:15:31 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -54,15 +54,19 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Ready. Set. Go. Sale Live Your Workout. Love The Savings.
+Happy New Year!
 
-In Store &. Online | Ends January 1
+Today Online Only! | January 1 | Code: NEWYEAR
 
-Under $15 Xersion for the Family
+Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100
 
-Select styles.
+\*some exclusions apply
 
-Up to 60% Off All Xersion for the Family Shop Women Shop Men Shop Kids       View Store Ad Home White Sale | December 25-January 1 Stock Up! 30 to 50% Off
+Get Details 40 to 50% Off Xersion Activewear
+
+Select styles, reg. $14-$50
+
+Men Women Boys Girls           Home White Sale | December 25-January 1 Stock Up! 30 to 50% Off
 
 Select styles.
 
@@ -70,23 +74,7 @@ Select styles.
 
 Select styles, reg. $26
 
-Shop Royal Velvet Bath Towels 25% Off Nike for the Famiy
-
-Select styles, Nike excluded from coupon.
-
-Shop Women Shop Men Shop Boys Shop Girls Shop Shoes for the Family       Lowest Price. Guaranteed! Find a lower price at our competitor? Tell us and we'll beat it by 5%\*
-
-\*Some restrictions apply. Excludes major appliances.
-
-Get Details: Arizona Jean Co. Buy 1 Get 1 For .01 Arizona Denim\*
-
-\*Buy one item at regular price, get a second item of equal or lesser value for one cent, while supplies last.
-
-Shop Juniors Shop Guys14.99 Boys' &. Girls' Jeans &. Jeggings
-
-Select styles.
-
-Shop Boys Shop Girls         Up to 20% Off\* Major Appliances
+Shop Royal Velvet Bath Towels Up to 20% Off\* Major Appliances
 
 Select styles. \*GE, GE Profile &. GE Cafe limited to 10% off savings.
 
@@ -102,7 +90,15 @@ Get Details:JCPenney Rewards Shop &. Get Rewards
 
 for points earned on major appliances+
 
-+Get Details: Receive a Gift Card? Redeem In Store &. Online Check Your Balance: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Dec 31 21:56:01 CST 2016 JVM :->. dtexppr1c1j5\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Dec 31 21:57:08 CST 2016 JVM :->. dtexppr1c1j6\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
++Get Details: Red Zone End of Season Clearance 80% Off Final Markdowns
+
+In Store Only
+
+Find A StorePlus! New Markdowns 50-70% Off
+
+In Store &. Online
+
+Shop Now Receive a Gift Card? Redeem In Store &. Online Check Your Balance: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Jan 01 21:57:37 CST 2017 JVM :->. dtexppr1c1j6\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Jan 01 03:21:45 CST 2017 JVM :->. dtexppr1c1j1\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
@@ -168,4 +164,4 @@ JCPenney credit card pay bill check balance apply now JCPenney is Your One-Stop 
 *   site map
 *   AdChoices
 
-©jcp Media Inc.,  2016. All Rights Reserved.
+©jcp Media Inc.,  2017. All Rights Reserved.
