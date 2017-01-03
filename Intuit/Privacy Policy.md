@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15673574795
+true true C15676181894
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Sun Jan 01 11:15:31 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Mon Jan 02 11:14:33 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -54,27 +54,23 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Happy New Year!
-
-Today Online Only! | January 1 | Code: NEWYEAR
-
-Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100
-
-\*some exclusions apply
-
-Get Details 40 to 50% Off Xersion Activewear
+40 to 50% Off Xersion Activewear
 
 Select styles, reg. $14-$50
 
-Men Women Boys Girls           Home White Sale | December 25-January 1 Stock Up! 30 to 50% Off
+Men Women Boys Girls           $30 Outerwear For Him &. Her
 
-Select styles.
+Select styles
 
-  Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. MattressesINTRODUCING 12.99 Royal Velvet Verona sculpted or 30x58" Egyptian cotton loops solid bath towel
+Men Women$2 Boys' &. Girls' Outerwear
 
-Select styles, reg. $26
+Select styles
 
-Shop Royal Velvet Bath Towels Up to 20% Off\* Major Appliances
+Boys Girls         11.99 Fleece For The Family
+
+Select styles, reg. $18-$26
+
+Men Women Kids Up to 20% Off\* Major Appliances
 
 Select styles. \*GE, GE Profile &. GE Cafe limited to 10% off savings.
 
@@ -98,7 +94,7 @@ Find A StorePlus! New Markdowns 50-70% Off
 
 In Store &. Online
 
-Shop Now Receive a Gift Card? Redeem In Store &. Online Check Your Balance: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Jan 01 21:57:37 CST 2017 JVM :->. dtexppr1c1j6\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Jan 01 03:21:45 CST 2017 JVM :->. dtexppr1c1j1\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Jan 02 21:55:39 CST 2017 JVM :->. dtexppr1c2j3\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p06.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Jan 02 04:00:06 EST 2017 JVM :->. dtexppr1c3j1\_06 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
