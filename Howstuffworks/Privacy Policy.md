@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
+**Ridiculous History: When Artists Fooled the Nazis With a Ghost Army**
+
 **What Are the Odds You've Met a Psychopath?**
 
 **What's Happening When People Suddenly Gain Superstrength?**
-
-**Massive Lunar Lava Tubes Could Become Home for Moon Colonists**
 
 **See More Headlines »**
 
