@@ -76,9 +76,7 @@
         
           
           
-        Give a Buckle Gift card Goodbye, 2016. It's time for a New Year. 2017 is the year to look good and feel good.  
-        Shop Women's NYE Outfits  
-        Shop Men's NYE Outfits
+        Give a Buckle Gift card It's the little things that make a difference. Shop our latest accessories.
 *   Men
     *   *   Featured
         
@@ -130,9 +128,7 @@
         
           
           
-        Give a Buckle Gift card Goodbye, 2016. It's time for a New Year. 2017 is the year to look good and feel good.  
-        Shop Women's NYE Outfits  
-        Shop Men's NYE Outfits
+        Give a Buckle Gift card It's the little things that make a difference. Shop our latest accessories.
 *   Kids
     *   *   Featured
         
@@ -159,9 +155,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Goodbye, 2016. It's time for a New Year. 2017 is the year to look good and feel good.  
-        Shop Women's NYE Outfits  
-        Shop Men's NYE Outfits
+        Give a Buckle Gift card It's the little things that make a difference. Shop our latest accessories.
 *   Jeans
     *   *   Women's Jeans
         
@@ -183,11 +177,7 @@
         *   Kid's Jeans
         
         *   Girl's Jeans
-        *   Boy's Jeans
-        
-        Give a Buckle Gift card Goodbye, 2016. It's time for a New Year. 2017 is the year to look good and feel good.  
-        Shop Women's NYE Outfits  
-        Shop Men's NYE Outfits
+        *   Boy's JeansGive a Buckle Gift card It's the little things that make a difference. Shop our latest accessories.
 *   New
     *   *   Women's New
         
@@ -216,11 +206,7 @@
         *   Shop All
         *   Boy's New Tops
         *   Boy's New Jeans
-        *   Shop All
-        
-        Give a Buckle Gift card Goodbye, 2016. It's time for a New Year. 2017 is the year to look good and feel good.  
-        Shop Women's NYE Outfits  
-        Shop Men's NYE Outfits
+        *   Shop AllGive a Buckle Gift card It's the little things that make a difference. Shop our latest accessories.
 *   Sale
     *   *   Women's Sale
         
@@ -261,9 +247,7 @@
         
           
           
-        Give a Buckle Gift card Goodbye, 2016. It's time for a New Year. 2017 is the year to look good and feel good.  
-        Shop Women's NYE Outfits  
-        Shop Men's NYE Outfits
+        Give a Buckle Gift card It's the little things that make a difference. Shop our latest accessories.
 
 A Global Message! × Privacy &. Security
 
