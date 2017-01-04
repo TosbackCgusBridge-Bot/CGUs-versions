@@ -165,7 +165,11 @@ Financing
 
 Find information on financing or leasing your new Subaru.
 
-Learn More
+Take a Guided Tour
+
+Get up close and personal with model specific interactive content, videos, and so much more
+
+Start Here
 
 *   Free Equifax Credit Score
 *   Apply for Financing
