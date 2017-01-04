@@ -141,7 +141,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Jerseys
     *   PhotosWorld Series Champs MLB Auctions
 *   MLB.TV MLB.TV MLB.TV
-    *   MLB.TV Holiday Gift Giving
     *   Buy MLB.TV
     *   Watch MLB.TV
     *   Alternative Audio
@@ -151,7 +150,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.TV Support Forum
     *   MLB.TV Blackouts
     *   MLB.TV Download Center
-    *   Contact UsMLB.TV Holiday Gift Giving
+    *   Contact Us
 *   Auction
 *   Fantasy Fantasy Fantasy
     *   R.B.I. Baseball 16
