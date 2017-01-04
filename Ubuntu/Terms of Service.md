@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   What IT directors should know about the economics of OpenStack ›
 *   The 4th China Mobile Global Partner Conference Forum ›
 *   Cloud Chatter- December 2016 ›
 *   Canonical Livepatch Service update – December 2016 ›
-*   Announcing The Canonical Distribution of Kubernetes 1.5.1 ›
