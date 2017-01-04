@@ -10,6 +10,7 @@ This JavaScript enables OnlineOpinion, a method for collecting secure feedback d
     *   UK &. Ireland    English
     *   thomsonreuters.com
     *   View all sites
+*   Product Logins
 *   site login
 *   Contact Us
 *   **Cart 0**
@@ -172,4 +173,4 @@ Contact sales to start your free trial › pip
 *   West Key Authors
 *   Legal Notices
 
-Careers | Site Map | Terms of Use | Privacy Statement | © 2016 Thomson Reuters Feedback
+Careers | Site Map | Terms of Use | Privacy Statement | © 2017 Thomson Reuters Feedback
