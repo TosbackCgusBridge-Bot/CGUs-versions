@@ -91,9 +91,9 @@ Phone and Tablet AppsThe best of what Sony has to offer on iOS or Android. Downl
 
 *   Support
 
-Your browser does not support JavaScript! The Best Parties Always Have a Little Surprise at the End
+Your browser does not support JavaScript! “Underworld" Fans Get Ready: Selene Battles Lycans and Vampires in the Latest Installment
 
-Reimagine the Holidays
+Learn More About “Underworld: Blood Wars"
 
 Close
 
@@ -141,9 +141,9 @@ With Hi-Res Audio
 
 Sony on Twitter
 
-Sony ZR1 - combining cutting-edge technology with the finest craftsmanship for the ultimate listening experience.
+@DigitalVideoMag named Sony's Z450/X400 camera a Production Innovation Award winner!
 
-2016-12-27 01:00:06+00:00
+2017-01-04 02:23:25+00:00
 
 View Tweet
 
@@ -211,9 +211,9 @@ Sony on Instagram
 
 Sony on Twitter
 
-Sony Rewards points count too. Just upload your #PassengersMovie ticket here.
+Start off your year off with a #PassengersMovie experience. Open today at #SonySquareNYC.
 
-2016-12-23 06:00:00+00:00
+2017-01-03 09:05:06+00:00
 
 View Tweet
 
@@ -301,9 +301,9 @@ With the SmartWatch 3
 
 Sony on Twitter
 
-Our EXTRA BASS technology focuses on combining deep, punchy beats with wireless freedom.
+Listen now to David Bowie's 'Bowie - Legacy' on @Spotify.
 
-2016-12-24 06:00:00+00:00
+2017-01-03 11:05:17+00:00
 
 View Tweet
 
