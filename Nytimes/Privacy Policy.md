@@ -1,11 +1,4 @@
-campaign: nyt2016\_bar1\_digi\_cpb\_67LXL -- 283987, creative: nyt2016\_bar1\_digi\_cpb\_67LXL -- 414213, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
-
-*   1 of 10 articles read
-*   SUBSCRIBE NOW Real news deserves  
-    real journalism. Get The Times.  
-    As low as 99¢ for 4 weeks. SEE MY OPTIONS
-
-SUBSCRIBE*   Help
+campaign: abTest\_bar1\_lp\_gbb\_offers\_crossword\_1216 -- 285067, creative: abtest\_lp\_gbb\_offers\_crossword\_1216\_bar -- 415522, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1*   Help
 
 *   Home Page
 *   Today's Paper
@@ -251,4 +244,4 @@ Search Help
 *   Contact Us
 *   Site Feedback
 
-Campaign ID: 283468 | Creative: nyt2016\_personalization\_B2B\_cookiesetter\_v4 -- 414693 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Inv1
+Campaign ID: 283468 | Creative: nyt2016\_personalization\_B2B\_cookiesetter\_v4 -- 414693 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Inv3
