@@ -17,13 +17,13 @@
     *   Support
 *   Company
     *   People
-    *   Blog
     *   Careers
     *   Events
     *   News
     *   Partners
     *   Brand Assets
     *   Contact
+*   Blog
 *   Login
 
 Privacy Policy **Tealium Inc. Website Privacy Statement**
