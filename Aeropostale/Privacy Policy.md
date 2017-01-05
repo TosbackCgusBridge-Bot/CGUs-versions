@@ -24,6 +24,7 @@ Aéropostale
     *   BOTTOMS
     *   Jeans
     *   Leggings + Yoga
+    *   Lounge
     *   Pants
     *   Shorts
     *   Skirts
