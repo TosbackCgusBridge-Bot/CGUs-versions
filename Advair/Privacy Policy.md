@@ -163,7 +163,7 @@ GSK Global Website www.gsk.com
         *   Flulaval Quadrivalent for infants 6 months and older
     *   Infographics
     *   Media contacts
-    *   Corporate reporting
+    *   Corporate Reporting
     *   Social media
     *   Image and video library
 *   Blog
