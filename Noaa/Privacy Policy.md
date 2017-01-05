@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Get your snowstorm smarts on: 6 forecast tools to use this winter AROUND NOAA // Postscript: Lost WWII weatherman’s family found Science is kid's play: Online games for school breaks or anytime at all November 2016 ranks as 5th warmest on record for the globe Unprecedented Arctic warmth in 2016 triggers massive decline in sea ice, snow
+Enter Search Terms Get your snowstorm smarts on: 6 forecast tools to use this winter AROUND NOAA // Periods of greater Atlantic hurricane activity linked to weaker U.S. landfalls What are atmospheric rivers? Postscript: Lost WWII weatherman’s family found Science is kid's play: Online games for school breaks or anytime at all
 
 *   About our agency
 *   News and features
