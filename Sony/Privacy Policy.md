@@ -91,7 +91,21 @@ Phone and Tablet AppsThe best of what Sony has to offer on iOS or Android. Downl
 
 *   Support
 
-Your browser does not support JavaScript! “Underworld" Fans Get Ready: Selene Battles Lycans and Vampires in the Latest Installment
+Your browser does not support JavaScript! Bringing Innovation to Your Everyday Life
+
+Check Out Our CES Announcements
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Check Out Our CES Announcements
+
+“Underworld" Fans Get Ready: Selene Battles Lycans and Vampires in the Latest Installment
 
 Learn More About “Underworld: Blood Wars"
 
