@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Join our OpenStack and Containers Office Hours ›
 *   What IT directors should know about the economics of OpenStack ›
 *   The 4th China Mobile Global Partner Conference Forum ›
 *   Cloud Chatter- December 2016 ›
-*   Canonical Livepatch Service update – December 2016 ›
