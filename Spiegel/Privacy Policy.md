@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 11.584,24ǀ
+*   DAX 11.584,31ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -139,8 +139,7 @@ Mein SPIEGEL
     *   *   Übersicht
         *   Tests
         *   Fahrkultur
-    *   *   Neu-/Gebraucht-Fahrzeuge
-        *   Kfz-Versicherung
+    *   *   Kfz-Versicherung
 *   Stil
     *   *   Übersicht
         *   Design
@@ -631,7 +630,6 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
 *   AUTO
 *   Benzinpreis
 *   Bußgeldrechner
-*   Neu-/Gebraucht-Fahrzeuge
 *   Werkstattvergleich
 *   Kfz-Versicherung
 
@@ -672,17 +670,6 @@ SPIEGEL GRUPPE
 *   \-buchreport
 *   \-buch aktuell
 *   \-Der Audio Verlag
-
-*   DER SPIEGEL
-*   Dein SPIEGEL
-*   SPIEGEL GESCHICHTE
-*   SPIEGEL WISSEN
-*   SPIEGEL BIOGRAFIE
-*   Edition Geschichte
-*   SPIEGEL SPEZIAL
-*   CHRONIK 2016
-*   UNI SPIEGEL
-*   LITERATUR SPIEGEL
 
 *   Twitter
 *   Facebook
