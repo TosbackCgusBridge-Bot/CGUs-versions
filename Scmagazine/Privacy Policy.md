@@ -211,8 +211,8 @@ SC Media arms cybersecurity professionals with the in-depth, unbiased business a
 
 **More SC Sites**
 
-*   SC UK
 *   SC Congress
+*   SC Whitepaper &. Resource Library
 *   SC Awards
 *   SC Online Events
 
