@@ -1,4 +1,4 @@
-Effective Date: October 14, 2016
+Effective Date: January 05, 2017
 
 We gather certain types of information about the visitors to the Edmunds Automotive Network, and we believe our visitors should fully understand what information we gather from our visitors, and how we obtain, use, share and manage that information. The Edmunds Automotive Network consists of Edmunds.com and any other Web site that we identify as a part of the Edmunds Automotive Network. the mobile versions of our Web Sites. any apps that we offer. widgets, tools and content from our Web site that we offer for display on third-party web sites or apps. and Edmunds Live Advice.
 
@@ -63,9 +63,9 @@ Occasionally we or another company on our behalf may conduct visitor surveys to 
 **Our Community Services**  
 The Edmunds Automotive Network provides a number of means by which you may communicate with other visitors and with us.
 
-You must first become a member of the Edmunds Automotive Network and agree to our Membership Agreement in order to add content to the Edmunds Automotive Network through certain services, such as our Forums (the Web's most established automotive message boards), our Dealer Ratings &. Reviews and Consumer Reviews (and Ratings) of Vehicles. The Membership Agreement sets forth a number of information-sharing and disclosure practices for such services, and accordingly supplements this Privacy Statement.
+In certain instances you must first become a member of the Edmunds Automotive Network and/or agree to our Membership Agreement in order to add content to the Edmunds Automotive Network through certain services, such as our Forums (the Web's most established automotive message boards) and our Dealer Ratings &. Reviews. The Membership Agreement sets forth a number of information-sharing and disclosure practices for such services, and accordingly supplements this Privacy Statement.
 
-You are not required to become a member of the Edmunds Automotive Network in order to add content to the Edmunds Automotive Network through certain other services, such as our Letters to the Editors, Help and the submittal directly to our staff of feedback, errors, questions or comments.
+You are not required to become a member of the Edmunds Automotive Network in order to add content to the Edmunds Automotive Network through certain other services, such as our Consumer Reviews (and Ratings) of Vehicles, Letters to the Editors, Help and the submittal directly to our staff of feedback, errors, questions or comments.
 
 All of your communications made to or through the services described in this section are referred to as your "Visitor-Submitted Content." For information concerning our use of your Visitor-Submitted Content, please see our Visitor Agreement.
 
