@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**These Awesome Animals Got Celebrity Names in 2016**
+**Car Sensors Are Getting Pretty Darned Advanced**
 
-**Is It Legal to Give Your Pet Medical Marijuana?**
+**Have Star-studded U.S. Presidential Inaugurations Typically Been the Norm?**
 
-**Elephants Eat Leftover Christmas Trees**
+**China Bans Elephant Ivory Trade**
 
 **See More Headlines »**
 
