@@ -56,7 +56,7 @@ Main content starts below.
 *   Title Directory
 *   ProFinder
 
-LinkedIn Corporation _© 2016_
+LinkedIn Corporation _© 2017_
 
 *   User Agreement
 *   Privacy Policy
