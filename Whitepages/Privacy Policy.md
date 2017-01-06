@@ -1,4 +1,4 @@
-rzzstxqbyzuesus
+vwseuzeuvuza
 
 *   Person
 *   Reverse Phone Phone
@@ -146,7 +146,7 @@ If you have any questions about this policy, please write to Whitepages Privacy 
 
 **More**
 
-*   Whitepages Pro for Business
+*   Whitepages Pro for Businesses
 *   Whitepages Apps
 *   Phone Scams
 *   Developers
