@@ -76,6 +76,7 @@ Portions of this content are ©1998–2017 by individual mozilla.org contributor
 *   Mozilla:
     *   Twitter (@mozilla)
     *   Facebook (Mozilla)
+    *   Instagram (@mozillagram)
 *   Firefox:
     *   Twitter (@firefox)
     *   Facebook (Firefox)
