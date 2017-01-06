@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15695211353
+true true L15697240560
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p14.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Wed Jan 04 11:15:12 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Thu Jan 05 11:15:34 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.5.0.5.0
 
 *   for the home
 *   bed &. bath
@@ -54,35 +54,43 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-40 to 50% Off Xersion Activewear
+TODAY ONLINE ONLY!
 
-Select styles, reg. $14-$50
+Ends January 5 | Code: HURRY49
 
-Men Women Boys Girls           $30 Outerwear For Him &. Her
+Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100
+
+\*exclusions apply
+
+Get Details Live Your Workout. Love The Savings. Under $10 Xersion
 
 Select styles
 
-Men Women $2 Boys' &. Girls' Outerwear
+Men Women Kids     $30 Outerwear For Him &. Her
 
 Select styles
 
-Boys Girls         11.99 Fleece For The Family
+Men Women$2 Boys' &. Girls' Outerwear
 
-Select styles, reg. $18-$26
+Select styles
 
-Men Women Kids Up to 20% Off\* Major Appliances
+Boys Girls         Home Sale 30 to 50% Off
+
+Select styles
+
+Shop All Home Bedding Curtains &. Drapes Kitchen &. Dining Furniture &. Mattresses   Up to 20% Off\* Major Appliances
 
 Select styles. \*GE, GE Profile &. GE Cafe limited to 10% off savings.
 
-Plus Extra 10% Off\* With Code: STOVE48 Shop Major Appliances 18 Months or 30 Months Special Financing\*\* available on qualifying major appliance purchases made through 1/16/17 on a JCPenney Credit Card. Must request at time of purchase. \*\*Get Details:
+Plus Extra 10% Off\* With Code: STOVE48 Shop Major Appliances18 Months or 30 Months Special Financing\*\* available on qualifying major appliance purchases made through 1/16/17 on a JCPenney Credit Card. Must request at time of purchase. \*\*Get Details:
 
 Don't have a JCPenney Credit Card?
 
-Apply Now: Free Delivery and Basic Installation
+Apply Now:Free Delivery and Basic Installation
 
 on all appliance purchases over $299
 
-Get Details: JCPenney Rewards Shop &. Get Rewards
+Get Details:JCPenney Rewards Shop &. Get Rewards
 
 for points earned on major appliances+
 
@@ -90,11 +98,11 @@ for points earned on major appliances+
 
 In Store Only
 
-Find A Store Plus! New Markdowns 50-70% Off
+Find A StorePlus! New Markdowns 50-70% Off
 
 In Store &. Online
 
-Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Jan 04 21:03:15 CST 2017 JVM :->. dtexppr1c2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Jan 04 03:17:43 CST 2017 JVM :->. dtexppr1l2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Jan 05 22:01:25 CST 2017 JVM :->. dtexppr1l2j1\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p05.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Jan 05 04:03:17 CST 2017 JVM :->. dtexppr1l3j3\_05 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
