@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Interested in joining us at MWC? ›
+*   IoT predictions for 2017 ›
+*   10 desktop snaps written in December ›
 *   Join our OpenStack and Containers Office Hours ›
-*   What IT directors should know about the economics of OpenStack ›
-*   The 4th China Mobile Global Partner Conference Forum ›
-*   Cloud Chatter- December 2016 ›
