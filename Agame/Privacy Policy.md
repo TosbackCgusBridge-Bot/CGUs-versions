@@ -117,13 +117,6 @@ View more results
     
     Mobile Apps More
     
-    *   Cats Empire
-    *   My Dolphin Show
-    *   Nitro Heads
-    *   Troll Face Quest Video Games
-    *   Troll Face Quest Video Memes
-    *   Hero Simulator: Idle Adventure
-    
     Specials
     
 *   Top Categories
