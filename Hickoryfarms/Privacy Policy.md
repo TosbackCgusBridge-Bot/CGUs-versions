@@ -30,6 +30,7 @@
     *   Beef Summer Sausage
     *   Turkey Summer Sausage
     *   Dry Salami
+    *   Sausage &. Cheese Combo
     
     Specialty Food*   Hickory Farms Simply™
     *   Hickory Farms Reserve
@@ -106,6 +107,7 @@
     *   Beef Summer Sausage
     *   Turkey Summer Sausage
     *   Dry Salami
+    *   Sausage &. Cheese Combo
     
     Specialty Food*   Hickory Farms Simply™
     *   Hickory Farms Reserve
