@@ -89,6 +89,8 @@ Help &. Support
 
 Brand &. Lifestyle
 
+*   SEE LEXUS
+*   TUNED CARS
 *   Lexus Plus
 *   L Studio Films
 *   F/F SPORT Performance
@@ -139,6 +141,8 @@ Brand &. Lifestyle
     *   Warranty
     *   FAQs
 *   Brand &. Lifestyle
+    *   SEE LEXUS
+    *   TUNED CARS
     *   Lexus Plus
     *   L Studio Films
     *   F/F SPORT Performance
@@ -153,7 +157,7 @@ Brand &. Lifestyle
 
 Safety Recalls &. Service Campaigns  
 
-©2006-2016 Lexus, a Division of Toyota Motor Sales, U.S.A., Inc. All information contained herein applies to U.S. vehicles only.
+©2006-2017 Lexus, a Division of Toyota Motor Sales, U.S.A., Inc. All information contained herein applies to U.S. vehicles only.
 
 Notice for Internet Explorer® Users
 
