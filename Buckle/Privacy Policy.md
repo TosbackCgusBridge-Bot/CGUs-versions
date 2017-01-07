@@ -336,7 +336,6 @@ Your Account
 Shipping/Handling
 
 *   Shipping Rates/Options
-*   2016 Holiday Shipping Deadlines
 *   International Orders
 
 Returns
@@ -348,9 +347,6 @@ Promotions
 
 *   Free Stainless Steel Mug
 *   Play With 2K Sweepstakes Official Rules
-*   #InTheseBlues Official Rules
-*   Play For A Chance to Win
-*   Loyalty Event 2016
 *   Social Giveaway Official Rules
 *   Store Events
 *   Sweepstakes Winners
