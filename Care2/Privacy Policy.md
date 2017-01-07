@@ -1,5 +1,5 @@
 Privacy Policy  
-Last Updated: 01/03/2017
+Last Updated: 2017-01-06
 
 Care2.com ("Care2") takes seriously the issue of safeguarding your privacy online. This privacy policy applies to the two websites owned and operated by Care2: Care2.com and ThePetitionSite.com. This privacy policy describes how Care2 collects and uses the personal information you provide on both websites.
 
@@ -134,15 +134,6 @@ Yes, cookies and other tracking technologies are used on Care2 in several ways.
 
 1.  As is true of most web sites, Care2.com gathers certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do link this automatically collected data to other information collected about site visitors.
 2.  Care2 and its partners use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please click here.
-    
-    We use cookies to be reminded of whom you are and to access your account information (stored on our computers) to deliver a better and more personalized service to you. Users can control the use of cookies at the individual browser level. If you elect to disable cookies on web browser, you may be unable to use certain Care2 site features that require membership, such as changing your subscriptions, notifications, and other preferences.
-    
-3.  Technologies such as cookies, beacons, tags and scripts are used by Care2 and our advertising partners, affiliates, and analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-4.  We use "local storage" in users' web browsers to store user preferences and to personalize the user's site visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use local storage and/or LSO (Local Shared Objects) and/or "Flash cookies" to store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here.
-
-Various browsers may offer their own management tools for removing HTML5 "local storage" data. For more information on this topic, you could do a web search for "remove local storage data."
-
-We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to here or here.
 
 Does Care2 sell e-mail addresses to advertisers?
 
