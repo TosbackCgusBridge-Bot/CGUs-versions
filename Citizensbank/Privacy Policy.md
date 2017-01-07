@@ -1,4 +1,4 @@
-Online Privacy Policy (Revised 12/2015)
+Online Privacy Policy (Revised 12/2016)
 
 We respect and value your privacy. Our Online Privacy Policy (“Privacy Policy”) describes and applies to the information we collect from you when you visit our online interfaces (e.g. website or mobile application) owned or controlled by us (“the Site”). The terms “we,” “our,” and “us” in this Privacy Policy refer to Citizens Financial Group, Inc. and/or its affiliates, divisions, or subsidiaries. Our Privacy Policy generally describes how we collect, share, use, and protect your information. If you are a customer who has opened an account or obtained a financial product or service from us for personal, family, or household purposes, our Privacy Notice may apply to you as well and further explains how we may use your information.
 
@@ -12,7 +12,7 @@ Some of the information you may submit is personally identifiable information, b
 We may use this information for a number of purposes, for example, to better service your requests and/or inquiries, monitor Site usage and/or performance, improve the customer experience of our Site, ensure technological compatibility with your computer or other electronic or mobile device (collectively “Computer”), protect against fraud or identity theft, protect against or investigate suspected online criminal activity, or conduct aggregate analyses on usage patterns.
 
 **Automatically Collected Information**  
-Every time you visit a Site, some information is automatically collected from you. This information may include, but is not limited to, some or all of the following items: your Internet Protocol (IP) address and/or domain. geo-location of your computer. type and version of Internet browser software and operating system you use. date, time, and duration of your Site access. specific pages, buttons, images, videos, links, or forms that you access while visiting the Site. type of device (e.g. iPad®, iPhone®, Android™). mobile carrier and/or Internet Service Provider. and demographic information concerning the country of origin of your Computer and the language(s) used by it.
+Every time you visit a Site, some information is automatically collected from you. This information may include, but is not limited to, some or all of the following items: your Internet Protocol (IP) address and/or domain. geo-location of your computer. type and version of Internet browser software and operating system you use. date, time, and duration of your Site access. specific pages, buttons, images, videos, links, or forms that you access while visiting the Site. type of device (e.g. iPad, BlackBerry, iPhone, Android). mobile carrier and/or Internet Service Provider. and demographic information concerning the country of origin of your Computer and the language(s) used by it.
 
 We currently do not process or comply with any web browser's "do not track" signal or other similar mechanism that indicates a request to disable online tracking of individual users who visit our websites or use our services.
 
@@ -36,12 +36,15 @@ We may use these technologies on our Site to verify your identity, remember pers
 For most of the browsing on our Site, we neither require nor collect personally identifiable information. You can browse our Site and take as much time as you want to review our services without having to submit such information.
 
 3\. E-Mail and Electronic Communications  
-Forms of communication such as, e-mail, text messaging, submission via social media (e.g. Facebook, Twitter, LinkedIn, Pinterest or YouTube), online chat, Channel feedback, app stores, (Google Play™, App Store℠) or other forms of electronic communication are inherently insecure. Please refrain from submitting sensitive personal information (such as account number or social security number) via e-mail or similar method of communication.
+Forms of communication such as, e-mail, text messaging, submission via social media (e.g. Facebook, Twitter, LinkedIn, Instagram, Pinterest, or YouTube), online chat, Channel feedback, App Stores, (Google Play, App Store) or other forms of electronic communication are inherently insecure. Please refrain from submitting sensitive personal information (such as account number or social security number) via e-mail or similar method of communication.
 
 When you send an e-mail or other electronic communication to us, you are communicating with us electronically and consent to receive reply communications from us or our providers electronically. We may retain the content of the e-mail, electronic communication, your e-mail address, unique identifier (such as Facebook or Twitter user name), and our response in order to better service your needs or for audit, legal, regulatory or other business-related reasons.
 
 4\. Social Media  
-You may also find additional information on our products and services through our social media sites such as Facebook, Twitter, LinkedIn, Pinterest or YouTube and App Stores. Please keep in mind that any information you share is visible to all participants on these social media sites and you should never post any sensitive personal information (such as account number or social security number). Please carefully review the Terms of Use and Privacy Policy on these social media sites as they may be different than our own policies.
+You may also find additional information on our products and services through our social media sites such as Facebook, Twitter, LinkedIn, Pinterest, Instagram, or YouTube and App Stores. Please keep in mind that any information you share is visible to all participants on these social media sites and you should never post any sensitive personal information (such as account number or social security number). Please carefully review the Terms of Use and Privacy Policy on these social media sites as they may be different than our own policies.
+
+Third party widgets  
+We may allow certain widgets (e.g., social share buttons) on our Sites that enable users to easily share information on another platform, such as a social media platform. The third parties that own these widgets may have access to information about your browsing on pages of our Sites where these widgets are placed. You may wish to review information at the third party site, such as social media platforms where you have an account, to determine how these third parties collect and treat such information.
 
 5\. Personal Information on Children  
 We respect the privacy of your children and encourage all parents to supervise their children’s Computer usage. We do not knowingly collect or retain personal information from children under the age of thirteen. We advise all visitors to our Site under the age of 13 not to disclose or provide any personally identifiable information on our Site. To learn more about the Children’s Online Privacy Protect Act (COPPA) please visit the Federal Trade Commission's website.
@@ -50,7 +53,7 @@ We respect the privacy of your children and encourage all parents to supervise t
 Our Site may contain links to third party websites or applications. These links and pointers to third party websites or applications are not part of our Site. Neither Citizens Financial Group, Inc. nor its affiliates, divisions, subsidiaries or parent company make any representations or warranties regarding these third party websites. We are not responsible for any losses or damages in connection with the information, security, privacy practices, availability, content or accuracy of materials of such third party websites or applications. These third party websites or applications might have Terms of Use or Privacy Policies different from us and third party websites may provide less privacy and/or security than our Site. We encourage you to review the Terms of Use and Privacy Policy of all third party websites before you share any personally identifiable information with them.
 
 7\. Additional Uses or Sharing of Your Information  
-Unless you are a customer and have opted-out of receiving marketing offers based on your eligibility information, see our Customer Privacy Notice, we may use information about your relationship with us, such as what types of accounts you have, transaction and experience information, and the state/region in which you bank to tailor advertisements to you, offer you additional products and services, or enhance your online experience.
+Unless you are a customer and have opted-out of receiving marketing offers based on your eligibility information (see our Customer Privacy Notice), we may use information about your relationship with us, such as what types of accounts you have, transaction and experience information, and the state/region in which you bank to tailor advertisements to you, offer you additional products and services, or enhance your online experience.
 
 In addition to those methods discussed in this Privacy Policy, we may use and share your information, including personally identifiable information, without limitation, in the following manner:
 
@@ -63,7 +66,7 @@ In addition to those methods discussed in this Privacy Policy, we may use and sh
 *   As permitted or required by law or as authorized by you.
 
 8\. Online Security  
-We maintain security standards that are designed to protect your information as it is transmitted from your Computer to our network. This technology is called Secure Socket Layer (SSL). SSL is the leading security protocol for data transfer on the Internet and helps to protect the safety and confidentiality of your online banking information. You play a critical role in protecting your information by maintaining up to date Computer security protections and by reviewing your statements promptly. For more information on protecting your electronic information, please visit www.staysafeonline.org
+We maintain security standards that are designed to protect your information as it is transmitted from your Computer to our network. We use technology called Secure Socket Layer (SSL) and Extended ValidationSocket Layer (EV-SSL). SSL and EV-SSL are security protocols for data transfer on the Internet and help to protect the safety and confidentiality of your online banking information. You play a critical role in protecting your information by maintaining up to date Computer security protections and by reviewing your statements promptly. For more information on protecting your electronic information, please visit http://www.citizensbank.com/security/EV-SSL-certificates.aspx and www.staysafeonline.org
 
 9\. How to Protect Your Personally Identifiable Information  
 You have a role in helping us by safeguarding your information from others. You have several options when deciding how you can best protect your personally identifiable information. One option is simply not to volunteer it. The Federal Trade Commission’s websites (www.ftc.gov, www.ftc.gov/idtheft, http://www.business.ftc.gov/, and www.onguardonline.gov) offer useful information about how to protect your personally identifiable information.
@@ -72,7 +75,7 @@ You have a role in helping us by safeguarding your information from others. You 
 We will never e-mail you or send you electronic communications to request sensitive personal information or account information over the Internet or by any other means. Help protect yourself against online fraud – if you suspect that an unsolicited e-mail or other electronic communication is fraudulent, please contact us toll-free at 1-877-229-6430 or by e-mail at fraudprevention@citizensbank.com.
 
 11\. Mobile Applications  
-Citizens Bank/Charter One Mobile Banking Applications (“Applications”) allow you to access your account balances, make deposits, make transfers and pay bills on your mobile device in accordance with our Online Banking Service Agreement. This Notice applies to any personally identifiable information or other information that we may collect through our Applications.
+Citizens Bank Mobile Banking Applications (“Applications”) allow you to access your account balances, make deposits, make transfers and pay bills on your mobile device in accordance with our Online Banking Terms &. Conditions and any other Application specific agreements. This Notice applies to any personally identifiable information or other information that we may collect through our Applications. When you interact with us through these Applications, we may collect information, such as unique device identifiers, your screen resolution, other device settings, information about your location, contacts, camera (including camera roll), and storage, and analytical information about how to use your mobile device. We may ask your permission before collecting certain information through the Applications.
 
 12\. Notice to Persons Accessing this Site Outside the United States  
 If you reside outside the U.S., any information you provide to us on our Site will be transferred out of your country and into the U.S. If you do not want your personally identifiable information to leave your country, do not provide the information to us. By providing personally identifiable information to us, you explicitly consent to the transfer of your information to the U.S.
@@ -85,8 +88,8 @@ If you have any questions or comments concerning our Privacy Policy please let u
 
 PRINTING INSTRUCTIONS
 
-For a copy of this document, use the print command on your web browser.  
+For a copy of this policy, use the print command on your web browser.  
 
-**_This Privacy Policy was last updated on: December 2015_**
+**_This Privacy Policy was last updated on: December 2016_**
 
 View our Customer Privacy Notice
