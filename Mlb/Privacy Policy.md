@@ -43,12 +43,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Podcasts
     *   Alternative Audio
     *   Most Popular
-    *   Morning Roundup
-    *   MLB.TV Help Center/FAQs
-    *   Baseball's Best Moments
-    *   MLB Productions
-    *   MLB.TV Support Forum
-    *   GetGreat.com
     
     Featured
     *   MLB Tonight
@@ -59,9 +53,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Field Experts
     *   Outstandings
     *   Cut4
-    *   Game Changers
     *   Baseball's Best Moments
-    *   Double Plays
 *   Stats Stats Stats
     *   Postseason Sortable Stats
     *   Regular Season Sortable Stats
