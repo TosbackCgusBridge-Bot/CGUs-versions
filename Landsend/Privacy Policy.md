@@ -96,6 +96,7 @@ menu 0
     *   New Arrivals
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
+    *   Spring Style Guide
     *   Ultimate Coat Finder
     *   Flannel Favorites
     *   Sale
@@ -438,6 +439,7 @@ menu 0
     *   New Arrivals
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
+    *   Spring Style Guide
     *   Ultimate Coat Finder
     *   Flannel Favorites
     *   Sale
