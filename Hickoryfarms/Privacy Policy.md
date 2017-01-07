@@ -1,7 +1,6 @@
 *   Gifts
     
-    View All Categories Shop by Category*   65th Anniversary Collection
-    *   Gift Boxes
+    View All Categories Shop by Category*   Gift Boxes
     *   Gift Baskets and Towers
     *   Personalized Gifts
     *   Gifts with Wine
@@ -77,8 +76,7 @@
 
 *   Gifts
     
-    View All Categories Shop by Category*   65th Anniversary Collection
-    *   Gift Boxes
+    View All Categories Shop by Category*   Gift Boxes
     *   Gift Baskets and Towers
     *   Personalized Gifts
     *   Gifts with Wine
