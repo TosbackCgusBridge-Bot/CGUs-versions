@@ -91,7 +91,77 @@ Phone and Tablet AppsThe best of what Sony has to offer on iOS or Android. Downl
 
 *   Support
 
-Your browser does not support JavaScript! Bringing Innovation to Your Everyday Life
+Your browser does not support JavaScript! Introducing Our First OLED 4K HDR Television
+
+Learn More
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Learn More
+
+Small Camera, Big Performance
+
+See the RX100 V
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+See the RX100 V
+
+Sony on Twitter
+
+Missed the latest news from #SonyCES? Watch the press conference here to get caught up!
+
+2016-01-05 06:00:00+00:00
+
+View Tweet
+
+Sony on Instagram
+
+Got 4K Ultra HD Discs?
+
+Try Our New Player
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Try Our New Player
+
+Our New Soundbar Is Designed to Be Seen and Heard
+
+Check Out All of the Details
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Bringing Innovation to Your Everyday Life
 
 Check Out Our CES Announcements
 
@@ -263,9 +333,9 @@ Sony on YouTube
 
 Play Video
 
-Winter Break Is the Best Time to Catch Up on Movies You Missed
+Meet Aloy, a Young Hunter of Machines in the Post-Apocalyptic World of Horizon Zero Dawn
 
-Watch “The Magnificent Seven” Today
+Only Available On PS4™
 
 Close
 
@@ -351,24 +421,6 @@ Close
 
 Check Out The α5000
 
-Meet Aloy, a Young Hunter of Machines in the Post-Apocalyptic World of Horizon Zero Dawn
-
-Only Available On PS4™
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
 Load More
 
 Where To Buy See Authorized Retailers Sony Rewards
@@ -417,6 +469,6 @@ For ProfessionalsCareersContact UsCompany InfoVoluntary Recall
 *   Follow us on Tumblr
 *   Visit us on Tumblr
 
-Facebook Twitter Instagram Vine Tumblr © 2016 SONY CORPORATION OF AMERICA
+Facebook Twitter Instagram Vine Tumblr © 2017 SONY CORPORATION OF AMERICA
 
 Terms and ConditionsPrivacy Policy/Your California Privacy Rights
