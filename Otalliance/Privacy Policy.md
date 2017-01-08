@@ -94,12 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Thu, Jan 5, 2017 CES Cybersecurity Forum - Evolving Threats in a Connected World
-
-Join OTA Executive Director Craig Spiezle,  Gary Davis, VP Intel, Suzanne Spaulding, Under Secretary Dept of Homeland Security and others at this session focused on consumer IoT devices and solutions.  The latest threats are coming from many places, including IoT, more sophisticated ransomware, and exploits from insecure web applications. In these sessions, we will explore how everything from cars to light bulbs to industrial systems have been compromised.
-
-Location: Venetian, Level 4, Lando 4301
-
 Fri, Jan 6, 2017 CES - Alliance Community Reception
 
 If you are attending CES 2017 in Vegas next month, please save the date to join OTA at the Consumer Technology Alliance (CTA ) Community Reception.  This networking event is an opportunity to connect with other standard professionals and technology alliances including the FIDO Alliance, Trusted Computing Group and others.  
@@ -112,7 +106,9 @@ Tue, Feb 14, 2017 RSA - Non-Profits On the Loose. Heartbreaker’s Bash  
 
 Meet and mingle with industry and government leaders while enjoying food and drink at the American Bookbinders Museum. The APWG, the FIDO Alliance, the National Cyber Security Alliance and the Online Trust Alliance (OTA) invite you to join us on Valentine's Day, February 14 for Non-Profits on the Loose – A Heartbreaker’s Bash  – at 5 p.m. for great food, fun and networking.
 
-More >>.
+Wed, May 24, 2017 Planning for the Future: A Conference About Identity Theft
+
+Ten years ago, President Bush launched a new era in the fight against identity theft by issuing an executive order establishing the Identity Theft Task Force, which the Commission co-chaired. In the ensuing ten years, great strides have been made to combat identity theft but it remains a significant problem for American consumers. The Federal Trade Commission will host an all-day conference to take a comprehensive look at how identity theft has evolved over the last decade and what we can do to address this challenge in the future.
 
 *   OTA Blog
 *   Newsletters
