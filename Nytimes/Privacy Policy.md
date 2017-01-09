@@ -231,7 +231,7 @@ This Privacy Policy may be amended from time to time. Any such changes will be p
 
 Search Help
 
-*   © 2016 The New York Times Company
+*   © 2017 The New York Times Company
 *   Site Map
 *   Privacy
 *   Your Ad Choices
@@ -244,4 +244,4 @@ Search Help
 *   Contact Us
 *   Site Feedback
 
-Campaign ID: 283468 | Creative: nyt2016\_personalization\_B2B\_cookiesetter\_v4 -- 414693 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Inv3
+Campaign ID: 283468 | Creative: nyt2016\_personalization\_B2B\_cookiesetter\_v4 -- 414693 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Inv1
