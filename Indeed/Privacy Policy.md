@@ -110,7 +110,7 @@ From time to time, it may be necessary for us to change this cookie policy. We s
 
 Privacy Policy
 
-Last Updated: December 21, 2016
+Last Updated: December 21, 2016
 
 **1\. Introduction**
 
@@ -224,7 +224,7 @@ You may contact Indeed, Inc. at 6433 Champion Grandview Way, Building 1, Austin,
 
 Indeed Terms of Service Introduction
 
-Last Updated: December 21, 2016
+Last Updated: January 8, 2017
 
 When you access or use Indeed’s online and/or mobile services and websites, including any Indeed mobile application (collectively the “Indeed Apps”) regardless of where it is downloaded from, and any software provided by or on behalf of Indeed on or in connection with such services or websites (collectively, the “Site”), including, but not limited to, the Indeed Ads Program, Indeed Resume Program (otherwise referred to as the Indeed CV Program in certain countries), Indeed MoBolt, Indeed Prime, Indeed Targeted Ads, Indeed Publisher Program, Indeed Apply, or any other service, (a) you represent that you have read and understand the Cookies Policy and Privacy Policy. and (b) you are agreeing to the terms and conditions of these Terms of Service (the “Agreement”) with the following entity or entities:
 
@@ -334,7 +334,7 @@ You agree that you shall not transmit to Indeed or upload to or through the Site
 *   Conduct or forward pyramid schemes or similar programs.
 *   Transmit content that may be harmful to minors.
 *   Impersonate another person (via the use of an email address or otherwise) or otherwise misrepresent yourself or the source of any email.
-*   Transmit another’s intellectual property or other proprietary or confidential information without such owner’s or licensor’s permission.
+*   Transmit another’s intellectual property or other proprietary or confidential information without such owner’s or licensor’s permission. Users who repeatedly post intellectual property owned by others will be banned from Indeed.
 *   Violate the legal rights (such as rights of privacy and publicity) of others.
 *   Promote or encourage illegal activity.
 *   Interfere with other Indeed users’ enjoyment of the Site.
