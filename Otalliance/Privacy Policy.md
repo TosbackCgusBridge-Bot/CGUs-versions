@@ -94,10 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Fri, Jan 6, 2017 CES - Alliance Community Reception
-
-If you are attending CES 2017 in Vegas next month, please save the date to join OTA at the Consumer Technology Alliance (CTA ) Community Reception.  This networking event is an opportunity to connect with other standard professionals and technology alliances including the FIDO Alliance, Trusted Computing Group and others.  
-
 Mon, Feb 13, 2017 RSA Conference 2017
 
 RSA Conference 2017 provides the opportunity for all attendees at all levels to grow their knowledge, exchange ideas with peers and further their careers. With opportunity comes great responsibility for the future. Our actions today will have a lasting impact on the strength of the industry—and the safety of the world—tomorrow. Don’t miss out on this amazing opportunity from February 13 to 17 in San Francisco! OTA members get additional $100 off:  **1U7OTAFD** 
