@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Get your snowstorm smarts on: 6 forecast tools to use this winter AROUND NOAA // Periods of greater Atlantic hurricane activity linked to weaker U.S. landfalls What are atmospheric rivers? Postscript: Lost WWII weatherman’s family found
+Enter Search Terms 2016 was 2nd warmest year on record for U.S. 15 weather and climate disasters caused 138 deaths, $46B in damages AROUND NOAA // What are atmospheric rivers? Periods of greater Atlantic hurricane activity linked to weaker U.S. landfalls Postscript: Lost WWII weatherman’s family found
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock
+NOAA
