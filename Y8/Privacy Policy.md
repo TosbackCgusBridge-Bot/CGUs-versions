@@ -91,7 +91,7 @@ If you have any questions, you can contact us through our contact form.
 
 *   Advertise
 *   Contact Form
-*   Submit a game or animation
-*   Games for your website
+*   Submit a Game or Animation
+*   Games for Your Website
 *   Terms of Use
 *   Privacy Policy
