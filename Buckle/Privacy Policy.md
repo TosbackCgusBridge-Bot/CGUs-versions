@@ -76,7 +76,7 @@
         
           
           
-        Give a Buckle Gift card Receive Buckle gift cards for the holidays? Shop now!
+        Give a Buckle Gift card New Year's Resolution? Jeans that fit - Shop Now.
 *   Men
     *   *   Featured
         
@@ -128,7 +128,7 @@
         
           
           
-        Give a Buckle Gift card Receive Buckle gift cards for the holidays? Shop now!
+        Give a Buckle Gift card New Year's Resolution? Jeans that fit - Shop Now.
 *   Kids
     *   *   Featured
         
@@ -155,7 +155,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Receive Buckle gift cards for the holidays? Shop now!
+        Give a Buckle Gift card New Year's Resolution? Jeans that fit - Shop Now.
 *   Jeans
     *   *   Women's Jeans
         
@@ -177,7 +177,7 @@
         *   Kid's Jeans
         
         *   Girl's Jeans
-        *   Boy's JeansGive a Buckle Gift card Receive Buckle gift cards for the holidays? Shop now!
+        *   Boy's JeansGive a Buckle Gift card New Year's Resolution? Jeans that fit - Shop Now.
 *   New
     *   *   Women's New
         
@@ -206,7 +206,7 @@
         *   Shop All
         *   Boy's New Tops
         *   Boy's New Jeans
-        *   Shop AllGive a Buckle Gift card Receive Buckle gift cards for the holidays? Shop now!
+        *   Shop AllGive a Buckle Gift card New Year's Resolution? Jeans that fit - Shop Now.
 *   Sale
     *   *   Women's Sale
         
@@ -247,7 +247,7 @@
         
           
           
-        Give a Buckle Gift card Receive Buckle gift cards for the holidays? Shop now!
+        Give a Buckle Gift card New Year's Resolution? Jeans that fit - Shop Now.
 
 A Global Message! × Privacy &. Security
 
