@@ -1,8 +1,8 @@
 Terms of Service
 
-_Last Updated: October 28, 2015_
+_Last Updated: January 2, 2017_
 
-Ning, Inc. (“**Ning**“, “**we**” or “**us**“) is an online service provider that provides a set of services and technology applications that enable users to create their own Networks utilizing our technology platform (the “**Ning Platform**“). Ning is not involved in the management of Networks on the Ning Platform and is not involved in the decisions relating to the focus of Networks or the Content uploaded or published to Networks using the Ning Platform. These are your Networks and, as a Network Creator, you are responsible for managing them in all respects (including the actions, conduct, and Content of Your Members) in compliance with these Terms of Service.
+Ning, Interactive Inc. (“**Ning**“, “we” or “**us**“) is ana online service provider that provides a set of services and technology applications that enable users to create their own Networks utilizing our technology platform (the “**Ning Platform**“). Ning is not involved in the management of Networks on the Ning Platform and is not involved in the decisions relating to the focus of Networks or the Content uploaded or published to Networks using the Ning Platform. These are your Networks and, as a Network Creator, you are responsible for managing them in all respects (including the actions, conduct, and Content of Your Members) in compliance with these Terms of Service.
 
 These Terms of Service contain general terms that apply to all users of the Ning Platform whether they create, join or browse Networks. When using the Ning Platform, you will also be subject to the Ning Privacy Policy and additional posted guidelines, policies or rules applicable to specific services and features on the Ning Platform, which may be posted by us from time to time (collectively, the “**Guidelines**“). All of these Guidelines are part of this Agreement and are hereby incorporated by reference.
 
@@ -40,7 +40,7 @@ Quick Reference:
 20.  Your Account
 21.  Network Design
 22.  Domain Name Services
-23.  Mode Content Creators
+23.  Licence to Use Content
 24.  Disclaimer of Warranties
 25.  Indemnity
 26.  Your Interactions with Other Users
@@ -423,8 +423,8 @@ termsofservice \[at\] ning \[dot\] com or by contacting our Help Center.
 
 **Postal:**
 
-Ning  
-2000 Sierra Point Parkway  
-Suite 1000  
-Brisbane, CA 94005  
+Ning Interactive, Inc.  
+2850 Horizon Ridge Parkway  
+Suite 200  
+Henderson, NV 89052  
 Attn: Privacy Matters
