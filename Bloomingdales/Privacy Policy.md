@@ -47,6 +47,7 @@ This Notice of Privacy Practices explains:
 *   What We Collect &. Share 
 *   Our Use of Information Technologies
 *   Managing Your Preferences
+*   Website &. Online Services Preferences
 *   Ownership of Customer Data
 *   Additional Disclosures (including COPPA, California Privacy Rights, International)
 *   Safeguarding Information
