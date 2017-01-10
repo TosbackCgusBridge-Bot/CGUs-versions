@@ -111,21 +111,20 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     
     *   Thomas &. Friends™
     *   Power Wheels®
-    *   Smart Toy®
     *   Dora and Friends™
     *   Bob the Builder™
+    *   Alvin and the Chipmunks
     
-    *   Spinnyos™
     *   Mickey Mouse Clubhouse
     *   Minnie
-    *   Captain Jake and the Never Land Pirates
+    *   Bright Beats™
     *   Blaze and the Monster Machines™
-    
     *   MEGA BLOKS®
+    
     *   Loving Family™
     *   Octonauts™
     *   Shimmer and Shine™
-    *   Bright Beats™
+    *   Captain Jake and the Never Land Pirates
 *   PARENTING PARENTING CATEGORIES
     
     *   All About Pregnancy
