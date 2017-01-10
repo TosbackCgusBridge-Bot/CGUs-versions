@@ -98,9 +98,7 @@ Mon, Feb 13, 2017 RSA Conference 2017
 
 RSA Conference 2017 provides the opportunity for all attendees at all levels to grow their knowledge, exchange ideas with peers and further their careers. With opportunity comes great responsibility for the future. Our actions today will have a lasting impact on the strength of the industry—and the safety of the world—tomorrow. Don’t miss out on this amazing opportunity from February 13 to 17 in San Francisco! OTA members get additional $100 off:  **1U7OTAFD** 
 
-Tue, Feb 14, 2017 RSA - Non-Profits On the Loose. Heartbreaker’s Bash  
-
-Meet and mingle with industry and government leaders while enjoying food and drink at the American Bookbinders Museum. The APWG, the FIDO Alliance, the National Cyber Security Alliance and the Online Trust Alliance (OTA) invite you to join us on Valentine's Day, February 14 for Non-Profits on the Loose – A Heartbreaker’s Bash  – at 5 p.m. for great food, fun and networking.
+Tue, Feb 14, 2017 RSA Conference - Non-Profits On the Loose. Heartbreaker’s Bash  
 
 Wed, May 24, 2017 Planning for the Future: A Conference About Identity Theft
 
