@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   How to snap: introducing classic confinement ›
 *   Interested in joining us at MWC? ›
 *   IoT predictions for 2017 ›
 *   10 desktop snaps written in December ›
-*   Join our OpenStack and Containers Office Hours ›
