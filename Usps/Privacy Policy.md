@@ -34,9 +34,6 @@ End of sub links*   Careers go to Doing Business with Us header
     *   Working at USPS
     *   Search &. Apply
     *   Application Process
-    *   Workplace Culture
-    *   Sales &. Marketing Jobs
-    *   USPS Employees
 End of sub links*   Doing Business with Us
     *   Suppliers
     *   Licensing
