@@ -123,7 +123,7 @@ Sony on Twitter
 
 Missed the latest news from #SonyCES? Watch the press conference here to get caught up!
 
-2016-01-05 06:00:00+00:00
+2017-01-05 18:00:00+00:00
 
 View Tweet
 
@@ -175,6 +175,154 @@ Close
 
 Check Out Our CES Announcements
 
+The 1975 Sitcom Gets Rebooted and Reimagined
+
+Watch “One Day at a Time” on Netflix
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Grab Coffee with Kristen Wiig
+
+Stream The New Season
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Sony on Twitter
+
+Window to the future. (Ultra-Short Throw 4K HDR Projector)
+
+2017-01-09 06:00:00+00:00
+
+View Tweet
+
+State-of-the-Art Sound
+
+With Hi-Res Audio
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+With Hi-Res Audio
+
+Sony on Instagram
+
+Here’s Your Chance to See Miranda Lambert Live in Charleston
+
+Start Bidding
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Start Bidding
+
+The Unmissable Games Coming Exclusively to PS4™ in 2017
+
+Check Them Out
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+PS4™ Games Come Alive With Immersive Audio
+
+Get the New Platinum Wireless Headset
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Get the New Platinum Wireless Headset
+
+Capture Your Best Adventures
+
+With Action Cam
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+With Action Cam
+
+Sony on Twitter
+
+"The vampire and lycan war" starts today. So, upload your #UnderworldMovie tickets here.
+
+2017-01-06 18:00:00+00:00
+
+View Tweet
+
+Sony on Instagram
+
+Looking for a New Binge-Worthy Show?
+
+Try “Sneaky Pete”
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
 “Underworld" Fans Get Ready: Selene Battles Lycans and Vampires in the Latest Installment
 
 Learn More About “Underworld: Blood Wars"
@@ -193,58 +341,6 @@ Sony on YouTube
 
 Play Video
 
-For the Groundbreaking Gamer
-
-Try PlayStation®VR
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Try PlayStation®VR
-
-Sony on Instagram
-
-State-of-the-Art Sound
-
-With Hi-Res Audio
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-With Hi-Res Audio
-
-Sony on Twitter
-
-@DigitalVideoMag named Sony's Z450/X400 camera a Production Innovation Award winner!
-
-2017-01-04 02:23:25+00:00
-
-View Tweet
-
-A New Year Means New Innovations to Discover
-
-Check Out The Glass Sound Speaker
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Check Out The Glass Sound Speaker
-
 Learn How Our Creative Center Designed Futuristic Props for “Passengers”
 
 See the Props at Sony Square NYC
@@ -262,164 +358,6 @@ Play Video
 Sony on YouTube
 
 Play Video
-
-Board the Starship Avalon with Jennifer Lawrence and Chris Pratt
-
-Find Tickets for “Passengers”
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Find Tickets for “Passengers”
-
-Test Out A Digital Camera
-
-Get More Info
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Get More Info
-
-Sony on Instagram
-
-Sony on Twitter
-
-Start off your year off with a #PassengersMovie experience. Open today at #SonySquareNYC.
-
-2017-01-03 09:05:06+00:00
-
-View Tweet
-
-Could You Sleep in a Hibernation Pod for 90 Years?
-
-Visit The Passengers Experience to Find Out
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Visit The Passengers Experience to Find Out
-
-Film School Students Visit Sony Square NYC to See Props From "Passengers" and Meet the Movie's Stars
-
-Learn More About The Passengers Experience
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-Meet Aloy, a Young Hunter of Machines in the Post-Apocalyptic World of Horizon Zero Dawn
-
-Only Available On PS4™
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-Run Faster, Better, Stronger and Smarter This Year
-
-Get the Smart B-Trainer
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Play Video
-
-Sony on YouTube
-
-Play Video
-
-Leave Your Phone Behind When You Work Out
-
-With the SmartWatch 3
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-With the SmartWatch 3
-
-Sony on Twitter
-
-Listen now to David Bowie's 'Bowie - Legacy' on @Spotify.
-
-2017-01-03 11:05:17+00:00
-
-View Tweet
-
-An Epic Exercise Playlist
-
-To Keep You Going
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-To Keep You Going
-
-Sony on Instagram
-
-The Perfect Camera for Taking Your Photos to the Next Level
-
-Check Out The α5000
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share
-
-Check Out The α5000
 
 Load More
 
