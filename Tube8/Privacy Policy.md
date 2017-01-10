@@ -2,7 +2,7 @@
     *   DE Deutsch
     *   ES Español
     *   FR Français
-    *   JP 日本の
+    *   JP 日本語
 *   Straight
     
     *   Straight
