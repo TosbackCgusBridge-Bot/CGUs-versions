@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Why Ransomware Is the Perfect Hack**
+**5 Tips to Finally Achieve Your Fitness Goals**
 
-**Gun Violence Spreads Through Social Networks Like an Epidemic, Study Shows**
+**Google Home Speakers Argue, Talk About Their Feelings on Twitch**
 
-**What's the Protocol of Inviting a Recovering Alcoholic to an Event With Drinks?**
+**How Long Should You Use Your Bath Towel Without Washing It?**
 
 **See More Headlines »**
 
