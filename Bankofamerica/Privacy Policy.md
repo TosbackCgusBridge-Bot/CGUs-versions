@@ -206,20 +206,18 @@ All financial companies need to share customers’ personal information to run t
 
 Reasons we can share your personal information Does Bank of America share? Can you limit this sharing? **For our everyday business purposes** — such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus Yes No **For our marketing purposes** — with service providers we use to offer our products and services to you (please see below to limit the ways we contact you) Yes No **For joint marketing with other financial companies** Yes No **For our affiliates’ everyday business purposes** — Information about your transactions and experiences Yes No **For our affiliates’ everyday business purposes** — Information about your creditworthiness Yes Yes **For nonaffiliates to market to you** — for all credit card accounts Yes Yes **For nonaffiliates to market to you** — for accounts and services endorsed by another organization (e.g., debit card co-branded with a baseball team) “Sponsored Accounts” Yes Yes **For nonaffiliates to market to you** — for accounts other than credit card accounts and Sponsored Accounts, such as insurance, investments, deposit and lending No We don't share To limit our sharing
 
-*   Call 888.341.5000 - our menu will prompt you through your choices
 *   Visit us online: bankofamerica.com/privacy
-*   Talk to a financial center associate
-*   Talk to your assigned account representative (e.g., financial advisor, mortgage loan officer)
+*   Call 888.341.5000 — our menu will prompt you through your choices
+*   Talk to your assigned financial advisor
 
 **Please note:**  
 If you are a **_new_** customer, we can begin sharing your information 45 days from the date we sent this notice. When you are **_no longer_** our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.
 
 To limit direct marketing contact
 
-*   Call 888.341.5000 - our menu will prompt you through your choices
 *   Visit us online: bankofamerica.com/privacy
-*   Talk to a financial center associate
-*   Talk to your assigned account representative (e.g., financial advisor, mortgage loan officer)
+*   Call 888.341.5000 — our menu will prompt you through your choices
+*   Talk to your assigned financial advisor
 
 **Please note:**  
 Direct marketing is email, postal mail and telephone marketing. Your telephone and postal mail opt-out choices will last for five years, subject to applicable law. Even if you limit direct marketing, we may still contact you to service your account or as otherwise allowed by law.
@@ -230,11 +228,11 @@ Call 888.341.5000 or go to bankofamerica.com/privacy
 
 Who we are Who is providing this notice?
 
-Bank of America U.S. legal entities that utilize the names: Bank of America, Banc of America, U.S. Trust, LandSafe or Merrill Lynch, as well as the entities listed in the _Bank of America U.S. legal entities_ section.
+Bank of America U.S. legal entities that utilize the names: Bank of America, Banc of America, U.S. Trust or Merrill Lynch, as well as the entities listed in the _Bank of America U.S. legal entities_ section.
 
 What we do How does Bank of America protect my personal information?
 
-To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. For more information visit bankofamerica.com/security or ml.com/privacy.
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. For more information visit bankofamerica.com/security or ml.com/security.
 
 How does Bank of America collect my personal information?
 
@@ -264,7 +262,7 @@ Definitions Affiliates
 
 Companies related by common ownership or control. They can be Financial and nonfinancial companies.
 
-*   Our affiliates include companies that utilize the names Bank of America, Banc of America, U.S. Trust, LandSafe or Merrill Lynch, as well as financial companies such as General Fidelity Life Insurance Company.
+*   Our affiliates include companies that utilize the names Bank of America, Banc of America, U.S. Trust or Merrill Lynch, as well as financial companies such as General Fidelity Life Insurance Company.
 
 Nonaffiliates
 
@@ -280,23 +278,24 @@ A formal agreement between nonaffiliated financial companies that together marke
 
 Other important information
 
-**Do Not Call Policy.** This notice is the Bank of America Do Not Call Policy under the Telephone Consumer Protection Act. We do not solicit via telephone numbers listed on the state or federal Do Not Call lists, unless the law allows. Bank of America employees receive training on how to document and process telephone marketing choices. Consumers who ask not to receive telephone solicitations from Bank of America will be placed on the Bank of America Do Not Call list and will not be called in any future campaigns, including those of Bank of America affiliates. If you communicate with us by telephone, we may monitor or record the call.
+**Do Not Call Policy.** This notice is the Bank of America Do Not Call Policy under the Telephone Consumer Protection Act. We do not solicit via telephone numbers listed on the state or federal Do Not Call lists, unless the law allows. Bank of America employees receive training on how to document and process telephone marketing choices. Consumers who ask not to receive telephone solicitations from Bank of America will be placed on the Bank of America Do Not Call list and will not be called in any future campaigns, including those of Bank of America affiliates.  
+**Call Monitoring and Recording.** If you communicate with us by telephone, we may monitor or record the call.
 
-**For Nevada residents only.** We are providing you this notice under state law. You may be placed on our internal Do Not Call List by following the directions in the _To limit direct marketing contact_ section. Nevada law requires we provide the following contact information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101. Phone number: 702.486.3132. email: BCPINFO@ag.state.nv.us. Bank of America, P.O. Box 25118, FL1-300-01-29, Tampa, FL 33633-5118. Phone number: 888.341.5000. email: Click on “Contact Us” at bankofamerica.com/privacy.
+**For Nevada residents only.** We are providing you this notice under state law. You may be placed on our internal Do Not Call List by following the directions in the _To limit direct marketing contact_ section. Nevada law requires we provide the following contact information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101. Phone number: 702.486.3132. email: BCPINFO@ag.state.nv.us. Bank of America, P.O. Box 25118 Tampa, FL 33622-5118. Phone number: 888.341.5000. Click on “Contact Us” at bankofamerica.com/privacy.
 
 **Vermont:** Under Vermont law, we will not share information we collect about Vermont residents with companies outside of our corporate family, unless the law allows. For example, we may share information with your consent, to service your accounts or under joint marketing agreements with other financial institutions with which we have joint marketing agreements. We will not share information about your creditworthiness within our corporate family except with your consent, but we may share information about our transactions or experiences with you within our corporate family without your consent.
 
 **California:** Under California law, we will not share information we collect about you with companies outside of Bank of America, unless the law allows. For example, we may share information with your consent, to service your accounts, or to provide rewards or benefits you are entitled to. We will limit sharing among our companies to the extent required by California law.
 
-**For Insurance Customers in AZ, CA, CT, GA, IL, ME, MA, MN, MT, NV, NJ, NC, OH, OR and VA only.** The term “Information” in this part means customer information obtained in an insurance transaction. We may give your Information to state insurance officials, law enforcement, group policy holders about claims experience or auditors as the law allows or requires. We may give your Information to insurance support companies that may keep it or give it to others. We may share medical Information so we can learn if you qualify for coverage, process claims or prevent fraud or if you say we can. To see your Information, write Insurance Services, TX2-977-01-39, 5401 North Beach Street, Fort Worth, TX 76137, Attn: Data Request. You must state your full name, address, the insurance company, policy number (if relevant) and the Information you want. We will tell you what Information we have. You may see and copy the Information (unless privileged) at our office or ask that we mail you a copy for a fee. If you think any Information is wrong, you must write us. We will let you know what actions we take. If you do not agree with our actions, you may send us a statement.
+**For Insurance Customers in AZ, CA, CT, GA, IL, ME, MA, MN, MT, NV, NJ, NC, OH, OR and VA only.** The term “Information” in this part means customer information obtained in an insurance transaction. We may give your Information to state insurance officials, law enforcement, group policy holders about claims experience or auditors as the law allows or requires. We may give your Information to insurance support companies that may keep it or give it to others. We may share medical Information so we can learn if you qualify for coverage, process claims or prevent fraud or if you say we can. To see your Information, write Insurance Services, TX2-980-01-43, 4200 Amon Carter Blvd., Fort Worth, TX 76155, Attn: Data Request. You must state your full name, address, the insurance company, policy number (if relevant) and the Information you want. We will tell you what Information we have. You may see and copy the Information (unless privileged) at our office or ask that we mail you a copy for a fee. If you think any Information is wrong, you must write us. We will let you know what actions we take. If you do not agree with our actions, you may send us a statement.
 
 **For MA Insurance Customers only.** You may ask in writing, for the specific reasons for an adverse underwriting decision. An adverse underwriting decision is where we decline your application for insurance, offer to insure you at a higher than standard rate or terminate your coverage.
 
 Bank of America U.S. legal entities
 
-Bank of America U.S. legal entities that utilize the names: Bank of America, Banc of America, U.S. Trust, LandSafe or Merrill Lynch, as well as the following entities: BACAP Alternative Advisors, Inc., BofA Advisors, LLC, BofA Distributors, Inc., General Fidelity Life Insurance Company, Managed Account Advisors LLC, NationsCredit Financial Services Corporation.
+Bank of America U.S. legal entities that utilize the names: Bank of America, Banc of America, U.S. Trust or Merrill Lynch, as well as the following entities: BACAP Alternative Advisors, Inc., General Fidelity Life Insurance Company, Managed Account Advisors LLC, NationsCredit Financial Services Corporation.
 
-Rev. 01/2016
+Rev. 01/2017
 
 Are you cyber aware?
 
