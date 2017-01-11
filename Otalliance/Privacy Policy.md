@@ -94,15 +94,21 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
+Tue, Jan 31, 2017 Data Privacy &. Protection Day – Congressional Staff Lunch Briefing
+
+Co-hosted by the US House Congressional Cyber Caucus and OTA, please join OTA and leaders from Identity Guard, LifeLock, Symantec &. Verisign for a briefing on the emerging threat landscape, including breaches, ransomware and business email compromise exploits.  Panel will discuss best practices to help prevent these from occurring and how best to respond to an incident.
+
+Tue, Feb 7, 2017 2017 Cyber Incident &. Breach Readiness Webinar
+
+Webinar to review highlights of the 2017 Cyber Incident and Breach Readiness Plan. Attend to learn best practices to help protect your data, complete risk assessments and develop an adequate response plan. Download the guide in advance of the webinar at https://otalliance.org/Incident.  Speakers to include representatives from Identity Guard, LifeLock, Symantec &. Verisign.
+
 Mon, Feb 13, 2017 RSA Conference 2017
 
 RSA Conference 2017 provides the opportunity for all attendees at all levels to grow their knowledge, exchange ideas with peers and further their careers. With opportunity comes great responsibility for the future. Our actions today will have a lasting impact on the strength of the industry—and the safety of the world—tomorrow. Don’t miss out on this amazing opportunity from February 13 to 17 in San Francisco! OTA members get additional $100 off:  **1U7OTAFD** 
 
 Tue, Feb 14, 2017 RSA Conference - Non-Profits On the Loose. Heartbreaker’s Bash  
 
-Wed, May 24, 2017 Planning for the Future: A Conference About Identity Theft
-
-Ten years ago, President Bush launched a new era in the fight against identity theft by issuing an executive order establishing the Identity Theft Task Force, which the Commission co-chaired. In the ensuing ten years, great strides have been made to combat identity theft but it remains a significant problem for American consumers. The Federal Trade Commission will host an all-day conference to take a comprehensive look at how identity theft has evolved over the last decade and what we can do to address this challenge in the future.
+More >>.
 
 *   OTA Blog
 *   Newsletters
