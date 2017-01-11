@@ -90,6 +90,7 @@ Help &. Support
 Brand &. Lifestyle
 
 *   SEE LEXUS
+*   MOTORSPORTS
 *   TUNED CARS
 *   Lexus Plus
 *   L Studio Films
@@ -142,6 +143,7 @@ Brand &. Lifestyle
     *   FAQs
 *   Brand &. Lifestyle
     *   SEE LEXUS
+    *   MOTORSPORTS
     *   TUNED CARS
     *   Lexus Plus
     *   L Studio Films
