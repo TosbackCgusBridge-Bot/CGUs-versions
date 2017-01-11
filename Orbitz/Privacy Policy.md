@@ -30,13 +30,13 @@ Subject Message Send ItineraryCancel*   *   Your notifications1
 *   Account
     *   Sign In
     *   Create an Account
-*   My Notes  
+*   My Places  
     
-    loading your Notes...
+    loading your Places...
     
     Things you view while shopping are saved here.
     
-    View Notes
+    View Places
 *   My Trips
 *   Support
     *   Customer Support
