@@ -10,13 +10,11 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Christmas Gifts
-    *   Holiday Gift Guide
+    Holidays &. Occasions*   Tailgating
+    *   Weddings &. Showers
     *   Gifts for Her
     *   Gifts for Him
     *   Birthday Gifts
-    *   Tailgating
-    *   Weddings &. Showers
     
     By Price*   $30 &. Under
     *   $40 &. Under
@@ -86,13 +84,11 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Christmas Gifts
-    *   Holiday Gift Guide
+    Holidays &. Occasions*   Tailgating
+    *   Weddings &. Showers
     *   Gifts for Her
     *   Gifts for Him
     *   Birthday Gifts
-    *   Tailgating
-    *   Weddings &. Showers
     
     By Price*   $30 &. Under
     *   $40 &. Under
