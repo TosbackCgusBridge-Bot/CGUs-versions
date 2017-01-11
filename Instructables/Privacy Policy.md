@@ -127,7 +127,9 @@ Legal Notices &. Trademarks
 *   Legal Disclosures
 *   Autodesk Quote and Order Direct Order Terms and Conditions
 
-  Privacy Statement - UPDATED September 30, 2016
+  Privacy Statement
+
+Updated: September 30, 2016
 
 *   Privacy Statement  
     o Cookie Policy  
@@ -288,4 +290,4 @@ About Autodesk
 *   Autodesk Research
 *   Autodesk University
 
-*   Privacy/Cookies (Updated)  | About our Ads | Legal Notices &. Trademarks | Report Noncompliance | Site map | © 2017 Autodesk Inc. All rights reserved
+*   Privacy/Cookies  | About our Ads | Legal Notices &. Trademarks | Report Noncompliance | Site map | © 2017 Autodesk Inc. All rights reserved
