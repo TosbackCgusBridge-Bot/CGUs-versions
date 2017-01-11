@@ -33,6 +33,7 @@ Show Search Bar
     *   Features
     *   Video
     *   In Depth
+    *   SC Magazine Archive
 *   Events
     *   Virtual Conferences
     *   Webcasts
