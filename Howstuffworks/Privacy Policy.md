@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**5 Tips to Finally Achieve Your Fitness Goals**
+**'Comfort Women': The Past and Present of Japan's Forced WWII Prostitutes**
 
-**Google Home Speakers Argue, Talk About Their Feelings on Twitch**
+**The Human Body Has Just Upped Its Official Organ Count**
 
-**How Long Should You Use Your Bath Towel Without Washing It?**
+**Baby Elephant Learns to Walk Again With Hydrotherapy**
 
 **See More Headlines »**
 
