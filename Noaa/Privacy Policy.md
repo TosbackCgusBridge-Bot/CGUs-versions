@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms 2016 was 2nd warmest year on record for U.S. 15 weather and climate disasters caused 138 deaths, $46B in damages AROUND NOAA // What are atmospheric rivers? Periods of greater Atlantic hurricane activity linked to weaker U.S. landfalls Postscript: Lost WWII weatherman’s family found
+Enter Search Terms 2016 was 2nd warmest year on record for U.S. 15 weather and climate disasters caused 138 deaths, $46B in damages AROUND NOAA // January 12 on reddit: Chat with NOAA experts about microplastics in our ocean What are atmospheric rivers? Periods of greater Atlantic hurricane activity linked to weaker U.S. landfalls
 
 *   About our agency
 *   News and features
