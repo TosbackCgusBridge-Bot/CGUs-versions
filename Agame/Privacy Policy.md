@@ -108,12 +108,12 @@ View more results
     Join for free
 *   Hot Games
     
-    *   My Dolphin Show 7
     *   Cats Empire
-    *   Farmerama
-    *   Klondike - the lost expedition
+    *   Hero Simulator: Idle Adventure
+    *   World of Tanks
+    *   Call Of War
     *   Wizard 101
-    *   Jelly Madness 2
+    *   Papa's Sushiria
     
     Mobile Apps More
     
