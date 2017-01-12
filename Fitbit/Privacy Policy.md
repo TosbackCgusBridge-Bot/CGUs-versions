@@ -24,7 +24,7 @@ Fitbit
     *   FitScience
     *   About Us
 *   Get Motivated
-    *   FitStar
+    *   Fitstar
     *   Events
     *   Blog
     *   FitForGood
