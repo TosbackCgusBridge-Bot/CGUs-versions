@@ -55,7 +55,7 @@ Hybrids &. FCV
 *   $50,085 as shown 2017 Highlander Hybrid $36,270 starting 30/28 est. mpg build Specials
 *   $28,800 as shown 2017 Prius Prime $27,100 starting 54/133 est. mpg /MPGe build Specials
 *   $32,115 as shown 2017 Prius $24,685 starting 54/50 est. mpg build Specials
-*   $24,495 as shown 2016 Prius c $19,560 starting 53/46 est. mpg build Specials
+*   $25,265 as shown 2017 Prius c $20,150 starting 48/43 est. mpg build Specials
 *   $34,270 as shown 2017 Prius v $26,675 starting 43/39 est. mpg build Specials
 *   $57,500 as shown 2017 Mirai $57,500 starting 67/67 est. mpg Specials
 
@@ -1071,5 +1071,5 @@ Help
 *   2016 EPA-estimated city/highway mileage. Actual mileage will vary.  
     2017 EPA-estimated city/highway mileage. Actual mileage will vary.
 *   2017 Prius Prime EPA-estimated combined mpg. Actual mpg will vary based on driving habits, weather, temperature and road/traffic conditions. For more information on mpg, please see www.fueleconomy.gov.
-*   2017 Prius Prime EPA-estimated combined MPGe. Actual MPGe will vary and is dependent upon many factors, including charging practice, driving style, road/traffic conditions, outside temperature, air conditioning control levels, payload/cargo weight, proper tire pressure, vehicle maintenance, battery age and changes in energy costs. Battery capacity will decrease with time and use. For more information on MPGe and range, please see fueleconomy.gov
+*   2017 Prius Prime EPA-estimated combined MPGe. Actual MPGe will vary depending upon driving conditions, how you drive and maintain your vehicle, and other factors. Battery capacity will decrease with time and use. For more information, see fueleconomy.gov.
 *   2016 EPA-estimated 67 city/67 highway/67 combined MPGe for Mirai and 312-mile driving range. Actual mileage will vary. Range measurement pursuant to SAE J2601 standards (ambient temperature: 20°C. hydrogen tank pressure when fueled: 70 MPa). Fueling time varies with hydrogen fueling pressure and ambient temperature.
