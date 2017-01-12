@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**'Comfort Women': The Past and Present of Japan's Forced WWII Prostitutes**
+**Say It. Don't Spray It. Speaking Spreads the Flu, Too.**
 
-**The Human Body Has Just Upped Its Official Organ Count**
+**Humanity's Smartphone Cravings Could Doom Mysterious 'Casper' Octopod**
 
-**Baby Elephant Learns to Walk Again With Hydrotherapy**
+**How Long Could Humanity Survive a Zombie Apocalypse?**
 
 **See More Headlines »**
 
