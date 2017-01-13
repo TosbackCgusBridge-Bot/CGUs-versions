@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 11.646,17ǀ
+*   DAX 11.521,04ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -42,7 +42,7 @@ Mein SPIEGEL
         *   Versicherungen
         *   Unternehmen &. Märkte
         *   Staat &. Soziales
-        *   Mobilität von morgen
+        *   Mittelstand
     *   *   Brutto-Netto-Rechner
         *   Jobsuche
         *   Immowelt
