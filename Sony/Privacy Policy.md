@@ -101,7 +101,7 @@ Close
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share
+*   Copy URL to share Introducing Our First OLED 4K HDR Television
 
 Learn More
 
@@ -115,11 +115,9 @@ Close
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share
+*   Copy URL to share Small Camera, Big Performance
 
 See the RX100 V
-
-Sony on Twitter
 
 Missed the latest news from #SonyCES? Watch the press conference here to get caught up!
 
@@ -139,7 +137,7 @@ Close
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share
+*   Copy URL to share Got 4K Ultra HD Discs?
 
 Try Our New Player
 
@@ -153,7 +151,7 @@ Close
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share
+*   Copy URL to share Our New Soundbar Is Designed to Be Seen and Heard
 
 Play Video
 
@@ -161,19 +159,15 @@ Sony on YouTube
 
 Play Video
 
-Bringing Innovation to Your Everyday Life
-
-Check Out Our CES Announcements
-
 Close
 
 *   Share
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share
+*   Copy URL to share Rethink Your Reality with The Chainsmokers and PlayStation VR®
 
-Check Out Our CES Announcements
+Get Lost in Music
 
 The 1975 Sitcom Gets Rebooted and Reimagined
 
@@ -185,7 +179,7 @@ Close
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share
+*   Copy URL to share The 1975 Sitcom Gets Rebooted and Reimagined
 
 Play Video
 
@@ -203,15 +197,13 @@ Close
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share
+*   Copy URL to share Grab Coffee with Kristen Wiig
 
 Play Video
 
 Sony on YouTube
 
 Play Video
-
-Sony on Twitter
 
 Window to the future. (Ultra-Short Throw 4K HDR Projector)
 
@@ -229,7 +221,7 @@ Close
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share
+*   Copy URL to share State-of-the-Art Sound
 
 With Hi-Res Audio
 
@@ -245,7 +237,7 @@ Close
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share
+*   Copy URL to share Here’s Your Chance to See Miranda Lambert Live in Charleston
 
 Start Bidding
 
@@ -259,7 +251,7 @@ Close
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share
+*   Copy URL to share The Unmissable Games Coming Exclusively to PS4™ in 2017
 
 Play Video
 
@@ -277,7 +269,7 @@ Close
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share
+*   Copy URL to share PS4™ Games Come Alive With Immersive Audio
 
 Get the New Platinum Wireless Headset
 
@@ -291,11 +283,9 @@ Close
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share
+*   Copy URL to share Capture Your Best Adventures
 
 With Action Cam
-
-Sony on Twitter
 
 "The vampire and lycan war" starts today. So, upload your #UnderworldMovie tickets here.
 
@@ -315,7 +305,7 @@ Close
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share
+*   Copy URL to share Looking for a New Binge-Worthy Show?
 
 Play Video
 
@@ -333,7 +323,7 @@ Close
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share
+*   Copy URL to share “Underworld" Fans Get Ready: Selene Battles Lycans and Vampires in the Latest Installment
 
 Play Video
 
@@ -351,7 +341,7 @@ Close
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share
+*   Copy URL to share Learn How Our Creative Center Designed Futuristic Props for “Passengers”
 
 Play Video
 
