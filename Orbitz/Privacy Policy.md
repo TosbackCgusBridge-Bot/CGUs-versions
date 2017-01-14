@@ -8,7 +8,7 @@ Show menu
     *   Home
     *   Hotels
     *   Flights
-    *   Packages
+    *   Bundle Deals
     *   Cars
     *   Cruises
     *   Deals
@@ -30,13 +30,13 @@ Subject Message Send ItineraryCancel*   *   Your notifications1
 *   Account
     *   Sign In
     *   Create an Account
-*   My Notes  
+*   My Lists  
     
-    loading your Notes...
+    loading your Lists...
     
     Things you view while shopping are saved here.
     
-    View Notes
+    View Lists
 *   My Trips
 *   Support
     *   Customer Support
@@ -46,7 +46,7 @@ Subject Message Send ItineraryCancel*   *   Your notifications1
 *   Home currently selected
 *   Hotels
 *   Flights
-*   Packages
+*   Bundle Deals
 *   Cars
 *   Cruises
 *   Deals
