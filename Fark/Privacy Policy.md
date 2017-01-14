@@ -1,5 +1,3 @@
-Fark is undergoing some file server maintenance tonight at midnight ET, for about 30 minutes. More details here. It's possible that the site will stay up but that images in forums &. user profiles will just disappear during the outage (and posting new images will fail).
-
 > *   1 Legal Stuff
 >     *   1.1 Fark's Legal and Privacy Statement
 >         *   1.1.1 Terms Of Service
