@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Welcome the new Ubuntu-based Precision line-up ›
 *   How to snap: introducing classic confinement ›
 *   Interested in joining us at MWC? ›
 *   IoT predictions for 2017 ›
-*   10 desktop snaps written in December ›
