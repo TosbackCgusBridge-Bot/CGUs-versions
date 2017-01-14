@@ -2,7 +2,7 @@ Last updated: January 3, 2017
 
 Sprint Corporation Privacy Policy
 
-This Privacy Policy ("Policy") describes how Sprint Corporation ("Sprint") will collect, access, use or disclose your personal information. It applies to all of our products, services, and websites ("Services"). A few of our Services are covered by different privacy policies and, in the event of a conflict between the two, the product, brand or service-specific policy governs.
+This Privacy Policy ("Policy") describes how Sprint Corporation ("Sprint") will collect, access, use or disclose your personal information. It applies to all of our products, services, and websites ("Services"). A few of our Services are covered by different privacy policies and, in the event of a conflict between the two, the product, brand or service-specific policy governs. (En Español)
 
 Personal information does not include information that is not used to identify you, including aggregate or anonymous information. Our collection, access, use, disclosure and safeguarding of your personal information is subject to U.S. law.
 
