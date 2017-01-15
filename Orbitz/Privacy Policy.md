@@ -8,7 +8,7 @@ Show menu
     *   Home
     *   Hotels
     *   Flights
-    *   Bundle Deals
+    *   Packages
     *   Cars
     *   Cruises
     *   Deals
@@ -30,13 +30,13 @@ Subject Message Send ItineraryCancel*   *   Your notifications1
 *   Account
     *   Sign In
     *   Create an Account
-*   My Lists  
+*   My Scratchpad  
     
-    loading your Lists...
+    loading your Scratchpad...
     
     Things you view while shopping are saved here.
     
-    View Lists
+    View Scratchpad
 *   My Trips
 *   Support
     *   Customer Support
@@ -46,7 +46,7 @@ Subject Message Send ItineraryCancel*   *   Your notifications1
 *   Home currently selected
 *   Hotels
 *   Flights
-*   Bundle Deals
+*   Packages
 *   Cars
 *   Cruises
 *   Deals
