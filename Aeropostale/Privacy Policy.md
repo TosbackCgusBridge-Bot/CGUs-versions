@@ -73,12 +73,12 @@ Aéropostale
     *   Sleep
 *   Clearance
     
-    *   GIRLS
+    *   VIEW ALL
     *   Clearance Tops
     *   Clearance Bottoms
     *   Clearance Accessories
     
-    *   GUYS
+    *   VIEW ALL
     *   Clearance Tops
     *   Clearance Bottoms
     *   Clearance Accessories
