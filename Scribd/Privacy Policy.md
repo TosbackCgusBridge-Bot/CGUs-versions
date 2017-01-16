@@ -118,7 +118,7 @@ Have more questions? Submit a request 0 Comments Article is closed for comments.
 *   General Terms of Use
 *   Scribd Accessibility Policy
 *   Scribd Paid Access End User License Agreement
-*   How do I cancel my premium membership?
 *   Scribd Uploader Agreement
+*   How do I cancel my premium membership?
 
 Powered by Zendesk
