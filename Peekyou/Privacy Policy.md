@@ -26,12 +26,15 @@ Search Tools Jump To:
 *   Phnom Penh, Cambodia
 *   Cambodia
 
-Recently Added Prıvacy Polıcy
+Recently Added Remang Cinta
 
-Indonesia
+Daerah Khusus Ibukota Jakarta
 
 *   Hong Kong University of Science and Technology (HKUST)
 *   Jakarta, Indonesia
+
+Remang currently lives in Daerah Khusus Ibukota Jakarta, .  
+and studied at Hong Kong University Of Science And Technology (HKUST).  
 
 Recently Added Ree , Reyan.Ardan
 
