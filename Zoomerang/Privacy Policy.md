@@ -2,7 +2,6 @@
     *   PRODUCT INNOVATION
     *   ADVERTISING &. BRAND
     *   CUSTOMER VALUE
-*   DATA
 *   TECHNOLOGY
 *   INSIGHTS &. NEWS
 *   CAREERS
@@ -15,7 +14,6 @@
     *   PRODUCT INNOVATION
     *   ADVERTISING &. BRAND
     *   CUSTOMER VALUE
-*   DATA
 *   TECHNOLOGY
 *   INSIGHTS &. NEWS
 *   CAREERS
@@ -71,7 +69,6 @@ Select CountryAnguillaAntigua &. BarbudaArgentinaArmeniaAustraliaBahrainBarbados
     *   Advertising and Brand
     *   Customer Value
 
-*   Data
 *   Technology
 *   News Center
 
