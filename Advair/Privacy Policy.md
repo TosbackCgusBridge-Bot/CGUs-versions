@@ -220,6 +220,8 @@ Menu
         *   TEDMED 2015: An interview with curator, Christine McNab
         *   The fight against malaria
         *   Collaborating to improve patient care
+        *   Global mission, local impact
+        *   In Africa, markets matter for a healthy society
     *   Patients &. consumers
         *   Patients &. consumers
         *   Science of a different stripe
@@ -229,6 +231,7 @@ Menu
         *   Eggs in manufacturing
         *   Struggling for breath
         *   The power of advocacy: coming together for the patient
+        *   Beyond Breathing: When Is Asthma Really Under Control?
         *   Clinical trials: a patient's view
         *   Living with COPD Every Day: Sean’s Story
     *   Our people
@@ -251,6 +254,7 @@ Menu
         *   The global as personal: GSK and The National Museum of African American History and Culture
         *   From the GSK archives: William Allen, scientist, businessman, abolitionist
         *   Persevering to accelerate your career success: lessons from an engineer
+        *   Making the global goals our business
         *   Making healthy cool in school through Get HYPE Philly!
         *   Engineers as leaders: The art of the possible over the probable
         *   Work Together, Give Together
