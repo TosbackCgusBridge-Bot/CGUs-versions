@@ -33,7 +33,7 @@ Enter Search Term(s): Advanced
 *   Help &. Resources
 *   for Tax Pros
 
-Like - Click this link to Add this page to your bookmarks Share - Click this link to Share this page through email or social media Print - Click this link to Print this page Free File Fillable Forms is Now Closed The program operates every year, from January through Mid-October.    
+Like - Click this link to Add this page to your bookmarks Share - Click this link to Share this page through email or social media Print - Click this link to Print this page Free File Fillable Forms is Now Closed The program opens January 23, 2017 at 11:00 a.m. ET The program operates every year, from January through Mid-October. 
 
 From October 17 through October 22, taxpayers were allowed to access their account, resubmit rejected returns and print returns.
 
@@ -56,7 +56,7 @@ The Free File Fillable Forms program welcomes your comments.
 
 Go to the IRS Free File Page
 
-Page Last Reviewed or Updated: 13-Oct-2016
+Page Last Reviewed or Updated: 16-Jan-2017
 
 *   Our Agency
     
