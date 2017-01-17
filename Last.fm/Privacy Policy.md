@@ -171,12 +171,14 @@ Company
 
 Help
 
+*   Track My Music
 *   Community Support
 *   Community Guidelines
 *   Help
 
 Goodies
 
+*   Download Scrobbler
 *   Developer API
 *   Free Music Downloads
 
