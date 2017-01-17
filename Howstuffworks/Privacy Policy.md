@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
+**Ridiculous History: How MLK Influenced the Direction of 'Star Trek'**
+
+**What's Going on With the Apple Car?**
+
 **Breast Is Best When It's Wireless**
-
-**5 Things You Didn’t Know About Wikipedia**
-
-**Do Smartphones Really Charge Faster in Airplane Mode?**
 
 **See More Headlines »**
 
