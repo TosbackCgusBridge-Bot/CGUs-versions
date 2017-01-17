@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15697668550
+true true L15719155407
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p21.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Sun Jan 15 11:15:40 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.8.0.17.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Mon Jan 16 11:15:26 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.8.0.17.0
 
 *   for the home
 *   bed &. bath
@@ -54,7 +54,7 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Power Penney Days Sale Final Days | Ends January 16 Shop Now: View Store Ad: $5 men's Xersion cotton tees, select styles, reg. $14 $7 boys' Xersion graphic tees &. dazzle shorts, select styles, reg. $16 $9 Xersion tank for her, select styles, reg. $20 $11 girls' Xersion performance capris, select styles, reg. $26 $15 Xersion mesh capris for her, select styles, reg. $36 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Jan 15 07:13:53 CST 2017 JVM :->. dtexppr1c1j3\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Jan 15 07:13:50 CST 2017 JVM :->. dtexppr1c1j4\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Power Penney Days Sale Last Day! Shop Now: View Store Ad: $5 men's Xersion cotton tees, select styles, reg. $14 $7 boys' Xersion graphic tees &. dazzle shorts, select styles, reg. $16 $9 Xersion tank for her, select styles, reg. $20 $11 girls' Xersion performance capris, select styles, reg. $26 $15 Xersion mesh capris for her, select styles, reg. $36 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Jan 16 21:57:33 CST 2017 JVM :->. dtexppr1l2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Jan 16 21:57:33 CST 2017 JVM :->. dtexppr1c1j6\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
