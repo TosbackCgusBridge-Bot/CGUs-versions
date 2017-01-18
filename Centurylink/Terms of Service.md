@@ -191,7 +191,7 @@ back to top
 *   Online Security
 *   Terms &. Conditions
 *   Tariff Library
-*   Internet Service Management
+*   Internet Service Disclosure
 
 Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings show that JavaScript is disabled.  
 
