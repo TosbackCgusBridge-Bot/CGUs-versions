@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Ridiculous History: How MLK Influenced the Direction of 'Star Trek'**
+**Hear and Now: Pregnancy Brain Is Real**
 
-**What's Going on With the Apple Car?**
+**If Hens Lay Eggs Anyway, Why Wouldn't Vegans Eat Them?**
 
-**Breast Is Best When It's Wireless**
+**The Real Reason Website and App Terms of Service Are So Confusing**
 
 **See More Headlines »**
 
