@@ -31,6 +31,7 @@ Aéropostale
     *   Active Bottoms
     
     *   JACKETS
+    *   FOOTWEAR
     *   ACCESSORIES
     
     *   Live Love Dream
@@ -54,7 +55,8 @@ Aéropostale
     *   Graphic Tees
     *   Polos
     *   Tees
-    *   Hoodies
+    *   Shirts
+    *   Hoodies + Sweatshirts
     
     *   BOTTOMS
     *   Jeans
@@ -64,6 +66,7 @@ Aéropostale
     
     *   JACKETS + COATS
     *   ACCESSORIES
+    *   SHOES
 *   Active
     *   Live Love Dream
     *   Tops
@@ -73,12 +76,12 @@ Aéropostale
     *   Sleep
 *   Clearance
     
-    *   VIEW ALL
+    *   Girls View All
     *   Clearance Tops
     *   Clearance Bottoms
     *   Clearance Accessories
     
-    *   VIEW ALL
+    *   Guys View All
     *   Clearance Tops
     *   Clearance Bottoms
     *   Clearance Accessories
