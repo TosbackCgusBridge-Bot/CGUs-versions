@@ -98,7 +98,7 @@ menu 0
     *   Supima Shirts &. Sweaters
     *   Spring Style Guide
     *   Ultimate Coat Finder
-    *   Flannel Favorites
+    *   Wear To Work
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -441,7 +441,7 @@ menu 0
     *   Supima Shirts &. Sweaters
     *   Spring Style Guide
     *   Ultimate Coat Finder
-    *   Flannel Favorites
+    *   Wear To Work
     *   Sale
     
     SHOP BY SIZE RANGE Back | Men
