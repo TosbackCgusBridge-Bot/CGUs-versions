@@ -30,13 +30,13 @@ Subject Message Send ItineraryCancel*   *   Your notifications1
 *   Account
     *   Sign In
     *   Create an Account
-*   My Scratchpad  
+*   My Notes  
     
-    loading your Scratchpad...
+    loading your Notes...
     
     Things you view while shopping are saved here.
     
-    View Scratchpad
+    View Notes
 *   My Trips
 *   Support
     *   Customer Support
