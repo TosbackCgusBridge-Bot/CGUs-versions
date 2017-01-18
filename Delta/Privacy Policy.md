@@ -103,7 +103,9 @@ Our Web Site Collapsed All Accordions Expanded All Accordions Expand All
     
     We retain your name, and may retain other personal information such as mailing address, email address or credit card number when appropriate. We may ask you to voluntarily provide us with information regarding your personal or professional interests, demographics, experience with our products, and contact preferences. We may combine this information with information about you which we gather from other sources. We may use the information to design offers customized to your interests.
     
-    If you have provided us with an email address, we may send you email messages related to your transactions with us. We and our SkyMiles Partners  and Promotional Partners may also send informational or promotional email messages to you, which you may opt out of receiving as described below.
+    If you have provided us with an email address, we may send you email messages related to your transactions with us. We and our SkyMiles Partners  and Promotional Partners may also send informational or promotional email messages to you, which you may opt out of receiving as described below.   
+      
+    When you provide information to us about your travel companions and other third parties, you acknowledge that you have obtained their consent for us to use and store that information as described in this Policy.
     
 *   How do I update personal information such as my address? **How do I update personal information such as my address?**
     
