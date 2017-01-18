@@ -1,4 +1,11 @@
-campaign: abTest\_bar1\_lp\_gbb\_offers\_crossword\_1216 -- 285067, creative: abtest\_lp\_gbb\_offers\_crossword\_1216\_bar -- 415522, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1*   Help
+campaign: nyt2017\_bar1\_digi\_Inauguration\_6JX4J -- 285182, creative: 1\_nyt2016\_bar1\_digi\_inauguration\_6JX4J -- 415646, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
+
+*   1 of 10 articles read
+*   SUBSCRIBE NOW Truth.  
+    It comes at a cost. Get up to 40% off the Times  
+    subscription of your choice. SEE MY OPTIONS
+
+SUBSCRIBE*   Help
 
 *   Home Page
 *   Today's Paper
