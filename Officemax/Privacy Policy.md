@@ -17,7 +17,7 @@ SEG1 hp
 
 Office Depot Deals
 
-NdtemmzN72d5Kl5Wox67WQs
+qBF9CoRbmHi\_5ZX-LRjU5eI
 
 Search Suggestions
 
@@ -155,8 +155,8 @@ Never expires, ships for free
 Sign up for a credit card  
 and get special financing options
 
-10% back in reward points on ink, toner,  
-paper and copy/print/ship purchases
+2% back in rewards on everything  
+&. exclusive member deals
 
  **1-800-GO-DEPOT**  
 (1-800-463-3768)  Live Chat Available 24/7  **FREE** store pickup.  
@@ -164,9 +164,9 @@ order online
 ready in 1 hour!  **Tap our app**  
 get offers,  
 manage rewards,  
-compare prices  Signup to receive  
-exclusive offers  
-to your inbox
+compare prices  Signup today  
+and get 20% off  
+one qualifying item
 
 *   PRODUCTS
 *   Ativa®
