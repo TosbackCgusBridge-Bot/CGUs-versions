@@ -112,7 +112,7 @@ View more results
     *   Hero Simulator: Idle Adventure
     *   World of Tanks
     *   Call Of War
-    *   Wizard 101
+    *   Animal Jam
     *   Papa's Sushiria
     
     Mobile Apps More
