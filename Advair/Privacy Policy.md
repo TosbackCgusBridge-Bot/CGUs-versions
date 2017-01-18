@@ -233,7 +233,11 @@ Menu
         *   The power of advocacy: coming together for the patient
         *   Beyond Breathing: When Is Asthma Really Under Control?
         *   Clinical trials: a patient's view
+        *   Launching the Fostering Wellness initiative – young people, lead the way!
+        *   The Power of 24hrs
         *   Living with COPD Every Day: Sean’s Story
+        *   Take a Breather: 8 Fast Facts on Severe Asthma
+        *   8 simple activities that may not be so simple when you have severe asthma
     *   Our people
         *   Our people
         *   Changing gears in a scientific career
