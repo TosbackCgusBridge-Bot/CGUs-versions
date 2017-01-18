@@ -31,11 +31,11 @@ U.S. Politics
 *   Tech
 *   Luxury
 
-Entertainment
-
-*   Celebrity Watch
-*   TV + Web
-*   Movies + Music
+*   Stars
+*   Screen
+*   Binge
+*   Culture
+*   Media
 
 *   Gadgets
 *   Cyber Security
@@ -160,10 +160,11 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
     3.  Tech
     4.  Luxury
 
-1.  Entertainment
-    1.  Celebrity Watch
-    2.  TV + Web
-    3.  Movies + Music
+1.  1.  Stars
+    2.  Screen
+    3.  Binge
+    4.  Culture
+    5.  Media
 
 1.  1.  Gadgets
     2.  Cyber Security
