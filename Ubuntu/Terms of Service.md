@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Mir: 2016 end of year review ›
 *   Welcome the new Ubuntu-based Precision line-up ›
 *   How to snap: introducing classic confinement ›
 *   Interested in joining us at MWC? ›
-*   IoT predictions for 2017 ›
