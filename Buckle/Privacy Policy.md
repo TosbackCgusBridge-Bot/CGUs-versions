@@ -76,7 +76,7 @@
         
           
           
-        Give a Buckle Gift card New Year's Resolution? Jeans that fit - Shop Now.
+        Give a Buckle Gift card Winter’s not over yet. . . STAY WARM NOW!
 *   Men
     *   *   Featured
         
@@ -128,7 +128,7 @@
         
           
           
-        Give a Buckle Gift card New Year's Resolution? Jeans that fit - Shop Now.
+        Give a Buckle Gift card Winter’s not over yet. . . STAY WARM NOW!
 *   Kids
     *   *   Featured
         
@@ -155,7 +155,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card New Year's Resolution? Jeans that fit - Shop Now.
+        Give a Buckle Gift card Winter’s not over yet. . . STAY WARM NOW!
 *   Jeans
     *   *   Women's Jeans
         
@@ -177,7 +177,7 @@
         *   Kid's Jeans
         
         *   Girl's Jeans
-        *   Boy's JeansGive a Buckle Gift card New Year's Resolution? Jeans that fit - Shop Now.
+        *   Boy's JeansGive a Buckle Gift card Winter’s not over yet. . . STAY WARM NOW!
 *   New
     *   *   Women's New
         
@@ -206,7 +206,7 @@
         *   Shop All
         *   Boy's New Tops
         *   Boy's New Jeans
-        *   Shop AllGive a Buckle Gift card New Year's Resolution? Jeans that fit - Shop Now.
+        *   Shop AllGive a Buckle Gift card Winter’s not over yet. . . STAY WARM NOW!
 *   Sale
     *   *   Women's Sale
         
@@ -247,7 +247,7 @@
         
           
           
-        Give a Buckle Gift card New Year's Resolution? Jeans that fit - Shop Now.
+        Give a Buckle Gift card Winter’s not over yet. . . STAY WARM NOW!
 
 A Global Message! × Privacy &. Security
 
