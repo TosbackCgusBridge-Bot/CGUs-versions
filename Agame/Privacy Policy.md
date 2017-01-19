@@ -109,11 +109,11 @@ View more results
 *   Hot Games
     
     *   Cats Empire
-    *   Hero Simulator: Idle Adventure
-    *   World of Tanks
-    *   Call Of War
-    *   Animal Jam
-    *   Papa's Sushiria
+    *   My Dolphin Show 7
+    *   Nitro Heads
+    *   Vegas World
+    *   Imperia Online
+    *   Dynamons World
     
     Mobile Apps More
     
