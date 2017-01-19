@@ -56,9 +56,12 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Reports and documentation
         
     *   Risk and responsibility
+        *   Our conduct
+        *   Tax transparency
         *   Financial crime risk
+        *   Operational risk
+        *   Reputational risk
         *   Health and safety
-        *   Reputational and operational risks
         *   Supplier code of conduct
     
     *   Sustainability quick read Read an overview of sustainability at HSBC.
