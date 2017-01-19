@@ -1,16 +1,16 @@
-**Effective Date:  July 24, 2015**  
+**Effective Date:  January 18, 2017**  
   
 Please note that the Consumer Reports Privacy Policy has been updated. Please review the revised Privacy Policy carefully before using any of our products and services that link to this Privacy Policy. By using our products and services, you consent to the terms of our updated Privacy Policy.  
   
 Please click here if you would like more information about the updates to our Privacy Policy.  
   
-Consumers Union of United States, Inc., doing business as Consumer Reports (“Consumer Reports”), is an independent, nonprofit testing and research organization serving consumers. Since 1936, our mission has been to test products, inform the public, protect consumers and advocate on their behalf.  
+Consumer Reports, Inc. (formerly Consumers Union of United States, Inc.) is an independent, nonprofit testing and research organization serving consumers. Since 1936, our mission has been to test products, inform the public, protect consumers and advocate on their behalf.  
   
 We are committed to protecting your privacy. This Privacy Policy describes the types of information we collect about you, how your information may be used and when it may be disclosed, how your information is protected, and how you can control the use and disclosure of your information.
 
 **1. Scope**
 
-This Privacy Policy covers the Consumer Reports family of print publications as well as online and mobile websites and applications that provide an authorized link to this Privacy Policy (collectively "CR Products"). It does not cover our consumer advocacy programs, campaigns and websites which are governed by a separate Privacy Policy found here.  
+This Privacy Policy covers the Consumer Reports family of print publications as well as online and mobile websites and applications that provide an authorized link to this Privacy Policy (collectively "CR Products"). It does not cover our consumer advocacy programs, campaigns and websites run by Consumers Union, the policy and action division of Consumer Reports which are governed by our separate Consumers Union Advocacy Privacy Policy found here.  
   
 This Privacy Policy applies to personally identifying information (“PII”) and other information collected about you and your devices. PII may include, for example, your name, mailing address, email address, telephone number, credit/debit card information, user name and password, and demographic information.  
   
