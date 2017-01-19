@@ -259,6 +259,7 @@ Menu
         *   From the GSK archives: William Allen, scientist, businessman, abolitionist
         *   Persevering to accelerate your career success: lessons from an engineer
         *   Making the global goals our business
+        *   Charting a path to success: my International Women's Day advice is for everyone
         *   Making healthy cool in school through Get HYPE Philly!
         *   Engineers as leaders: The art of the possible over the probable
         *   Work Together, Give Together
