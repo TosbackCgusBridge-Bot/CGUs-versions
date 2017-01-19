@@ -7,7 +7,7 @@ Firefox de Mozilla
 Vous pouvez également télécharger la dernière version des navigateurs suivants :
 
 *   Internet Explorer de Microsoft
-*   Safari de Apple
 *   Chrome de Google
+*   Safari d'Apple
 
 En poursuivant votre navigation sur ce site, vous acceptez l’utilisation de cookies pour mesurer notre audience et vous proposer des contenus et publicités personnalisés. En savoir plus et gérer les cookies. OK
