@@ -30,6 +30,7 @@ Aéropostale
     *   Skirts
     *   Active Bottoms
     
+    *   DRESSES
     *   JACKETS
     *   FOOTWEAR
     *   ACCESSORIES
