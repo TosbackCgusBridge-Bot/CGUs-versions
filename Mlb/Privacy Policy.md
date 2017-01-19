@@ -105,7 +105,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.com Home Run Derby 16
     *   MLB.com Line Drive
     *   R.B.I. Baseball 16
-    *   MLB Ballpark Empire
     *   MLB.com Franchise MVP
     *   FAQMLB.com Line Drive
 *   Shop Shop Shop
@@ -148,7 +147,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   R.B.I. Baseball 16
     *   MLB.com Home Run Derby
     *   MLB.com Line Drive
-    *   MLB Ballpark Empire
     *   MLB.com Franchise MVP
     *   MLB Connect
     *   Player News &. Updates
