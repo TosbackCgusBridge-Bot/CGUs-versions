@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms 2016 was 2nd warmest year on record for U.S. 15 weather and climate disasters caused 138 deaths, $46B in damages AROUND NOAA // Every Full Moon video: Watch 'Animals of the Ice' What are atmospheric rivers? Periods of greater Atlantic hurricane activity linked to weaker U.S. landfalls
+Enter Search Terms 2016 marks three consecutive years of record warmth for the globe AROUND NOAA // 2016 was 2nd warmest year on record for U.S. Climate change to shift global pattern of mild weather Every Full Moon video: Watch 'Animals of the Ice'
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-NOAA
+iStock image
