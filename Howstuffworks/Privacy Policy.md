@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Hear and Now: Pregnancy Brain Is Real**
+**Corporal Punishment Continues in U.S. Schools, Despite Its Ineffectiveness**
 
-**If Hens Lay Eggs Anyway, Why Wouldn't Vegans Eat Them?**
+**Your Body Aches Have Nothing to Do With the Weather**
 
-**The Real Reason Website and App Terms of Service Are So Confusing**
+**Free Knitted Knockers Are a Boon for Breast Cancer Survivors**
 
 **See More Headlines »**
 
