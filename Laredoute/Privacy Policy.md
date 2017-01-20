@@ -78,7 +78,7 @@ Cette rubrique « COOKIES » vous permet d’en savoir plus sur l’origine et l
 Ainsi, lors de la consultation de notre site, des informations relatives à votre navigation sont susceptibles d'être enregistrées dans des fichiers "Cookies" installés sur votre terminal (ordinateur, tablette, smartphone, etc.).  
 Ces cookies sont émis par nous même dans le but de faciliter votre navigation sur notre site. Ils peuvent être émis par nos partenaires afin de personnaliser l’offre publicitaire qui vous est adressée en dehors du site Redoute.fr.
 
-Par ailleurs des cookies sont susceptibles d'être inclus dans les espaces publicitaires de notre site. Ces espaces publicitaires affichent sur votre terminal des contenus publicitaires émanant d'annonceurs.
+Par ailleurs des cookies sont susceptibles d'être inclus dans les espaces publicitaires de notre site. Ces espaces publicitaires affichent sur votre terminal des contenus publicitaires émanant d'annonceurs, certains cookies peuvent être partagés avec des partenaires pour alimenter le ciblage des campagnes publicitaires .
 
 Sachez que seul l’émetteur d'un cookie est susceptible de lire ou de modifier des informations qui y sont contenues.
 
