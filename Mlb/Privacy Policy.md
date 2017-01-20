@@ -94,6 +94,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
 *   Tickets Tickets Tickets
     *   General Ticket Information
     *   StubHub.com
+    *   Spring Training Travel Packages
     *   Big League Tours2017 Season Tickets Big League Tours Bank of America 2017 Schedule
 *   Apps Apps Apps
     *   At Bat app
@@ -140,7 +141,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.TV Help Center/FAQs
     *   MLB.TV Support Forum
     *   MLB.TV Blackouts
-    *   MLB.TV Download Center
     *   Contact Us
 *   Auction
 *   Fantasy Fantasy Fantasy
