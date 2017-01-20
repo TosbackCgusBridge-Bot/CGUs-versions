@@ -124,6 +124,8 @@ If any provision of this Agreement is found to be unenforceable or invalid, that
 Passion Match  
 Success Stories  
 
+  
+
 **Help**  
 Help Center  
 Forums  
@@ -143,6 +145,11 @@ Get the POF Mobile app
 POF Brasil  
 POF France  
 POF Spain  
-POF Germany
+POF Germany  
+POF Italy  
+POF Denmark  
+POF Netherlands  
+POF Sweden  
+POF Mexico
 
 Copyright 2001-2017 Plentyoffish Media ULC POF, PLENTYOFFISH, PLENTY OF FISH and PLENTY OF are registered trademarks of Plentyoffish Media ULC
