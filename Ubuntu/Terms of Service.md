@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Winners of #UbuntuAtMWC ›
 *   5 Cool things Canonical does with Go ›
 *   Mir: 2016 end of year review ›
 *   Welcome the new Ubuntu-based Precision line-up ›
-*   How to snap: introducing classic confinement ›
