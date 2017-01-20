@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true C15702829140
+true true L15723303617
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Wed Jan 18 11:15:32 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.8.0.17.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p15.jcpenney.com SERVER NAME :->. dtcomexpr1l1j1 TIME :->. Thu Jan 19 11:15:36 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.8.0.17.0
 
 *   for the home
 *   bed &. bath
@@ -54,21 +54,65 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Love Worth Giving Valentine's Day is February 14th   39.99 V-Neck Textured Sheath Dress
+One Sweet Day
+
+Today Online Only | With Code: 8BUYNOW
+
+55% Off Diamond, Gemstone &. Modern Bride Jewelry
+
+Select styles
+
+Shop Diamond, Gemstone &. Modern Bride Jewelry 70% Off Gold &. Silver Jewelry
+
+Select styles
+
+Shop Gold Jewelry Shop Silver Jewelry Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100
+
+on select Apparel &. Home
+
+\*Exclusions &. Details: 30% Off Watches
+
+Select styles
+
+Shop Watches Love Worth Giving Valentine's Day is February 14th 39.99 V-Neck Textured Sheath Dress
 
 Select styles, reg. $60
 
-Shop Women   40% Off Men's Suit Separates, Sport Coats &. Dress Pants
-
-When You Spend $40 or More With Code: SHOP44
+Shop Women   50% Off Men's Suit Separates, Sport Coats &. Dress Pants
 
 Select styles, reg. $60-$275
 
-Shop Men   2017 Prom 40% Off When You Spend $40 or More With Code: SHOP44
+Shop Men   Now Online &. In Select Stores! Major Appliances From Your Favorite Brands.
 
-Select styles, reg. $60-$275
+Need help? Call 1-844-JCP-APPL (1-844-527-2775)
 
-Shop Prom Dresses Shop Plus Prom Dresses Shop Guys     50-70% Off Men's Outerwear, select styles 50-70% Off Hats, Gloves Or Scarves, select styles 50% Off Women's Coats, select styles 50% Off Cold-Weather Accessories For Her, select styles     Red Zone End Of Season Clearance! 80% Off Final Markdowns
+Delivery not available in all markets.
+
+Get Details: Up to 30% Off\* Major Appliances
+
+Select styles
+
+Shop Major Appliances:
+
+\*GE, GE Profile &. GE Cafe limited to 10% off savings.
+
+18 Months or 24 Months Special Financing\*\*
+
+Available on qualifying major appliance purchases made through 1/28/17 on a JCPenney Credit Card. Must request at time of purchase.
+
+\*\*Get Details:
+
+Don't have a JCPenney Credit Card?
+
+Apply Now: Free Delivery &. Basic Installation
+
+On all appliance purchases over $299
+
+Get Details: JCPenney Rewards Shop &. Get Rewards
+
+For points earned on major appliances+
+
++Get Details: Red Zone End Of Season Clearance! 80% Off Final Markdowns
 
 In Store Only
 
@@ -76,7 +120,11 @@ Find a Store Plus! New Markdowns 50-70% Off
 
 In Store &. Online
 
-Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Jan 18 21:58:42 CST 2017 JVM :->. dtexppr1c1j4\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Jan 18 03:35:04 CST 2017 JVM :->. dtexppr1c1j6\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now 50-70% Off Fine &. Fashion Jewelry Clearance
+
+Select styles
+
+Fine &. Fashion Jewelry Clearance \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Jan 19 22:02:29 CST 2017 JVM :->. dtexppr1c2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Jan 19 04:16:44 CST 2017 JVM :->. dtexppr1c1j1\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
