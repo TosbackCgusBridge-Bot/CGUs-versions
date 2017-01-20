@@ -2,13 +2,13 @@ Privacy Policy Date effective: January 7, 2013
 
 This Privacy Policy describes our practices related to the use, storage and disclosure of information we collect from or about you in the course of providing commercial air travel services at Delta.com and through our Fly Delta App.   Delta reserves the right to modify this Privacy Policy at any time and without prior notice. We will post any changes on delta.com so please check regularly for the most recent version of our Privacy Policy. This Privacy Policy is not a contract and does not create any legal rights or obligations.
 
-If you have any further questions or comments, contact us using the Email UsOpens External Site in new window page.
+If you have any further questions or comments, contact us using the Email Us page.
 
 Our Mobile Application **PRIVACY POLICY FOR DELTA AIR LINES MOBILE APPLICATIONS**
 
 This Privacy Policy describes our practices related to the use, storage and disclosure of information we collect from or about you in the course of providing commercial air travel services through our Fly Delta App.  For policies related to your use of our Website, visit delta.com.   Delta reserves the right to modify this Privacy Policy at any time and without prior notice. The privacy policy link within the App will point your device to our most current policy, so please check regularly for the most recent version of our Privacy Policy. This Privacy Policy is not a contract and does not create any legal rights or obligations.
 
-Privacy and Security Collapsed All Accordions Expanded All Accordions Expand All
+Privacy and Security Expand All
 
 *   Information About You (information you type in) **Information About You (information you type in)**
     
@@ -74,13 +74,13 @@ Privacy and Security Collapsed All Accordions Expanded All Accordions Expand All
     If you have any questions regarding privacy while using the App, or have questions about our practices, please contact us via our Customer Care page here.
     
 
-Our Web Site Collapsed All Accordions Expanded All Accordions Expand All
+Our Web Site Expand All
 
 *   What information does Delta gather and how is it used? **What information does Delta gather and how is it used?**
     
     We collect information about your visits to our sites, such as your Internet service provider, browser type, operating system, pages accessed on our sites and the date and time of access to optimize your user experience and enhance your time spent with us online. We also receive information telling us what site you came to our site from.
     
-    When you send us an email using the Email UsOpens External Site in new window page, we will retain the content of the email, your email address, and our response in order to handle any follow-up questions you may have. We also use this information to measure how effectively we address your concerns.
+    When you send us an email using the Email Us page, we will retain the content of the email, your email address, and our response in order to handle any follow-up questions you may have. We also use this information to measure how effectively we address your concerns.
     
 *   What types of personally identifiable information are collected? **What types of personally identifiable information are collected?**
     
@@ -116,7 +116,7 @@ Our Web Site Collapsed All Accordions Expanded All Accordions Expand All
     For more information on how we secure your transactions, read our Security statement below.
     
 
-How Delta uses cookies, tags, and similar technologies Collapsed All Accordions Expanded All Accordions Expand All
+How Delta uses cookies, tags, and similar technologies Expand All
 
 *   Cookies **Cookies**
     
@@ -142,21 +142,21 @@ How Delta uses cookies, tags, and similar technologies Collapsed All Accordions 
     
     Click hereopens in a new window to opt out of analytics and usage tracking on delta.com
     
-    Click hereOpens External Site in new window to opt out of content targeting on delta.com
+    Click here to opt out of content targeting on delta.com
     
     \*Note: A preference cookie is required to maintain a record of your Do Not Track preference for future visits.
     
     This section provides tools for opting out of tracking on 3rd party networks:
     
-    Click hereOpens External Site in new window to visit the Network Advertising Initiative site to set preferences and opt out of third party targeting programs
+    Click here to visit the Network Advertising Initiative site to set preferences and opt out of third party targeting programs
     
-    Click hereOpens External Site in new window to opt out of the Google Ad Network (Doubleclick, AdSense)
+    Click here to opt out of the Google Ad Network (Doubleclick, AdSense)
     
-    Click hereOpens External Site in new window to opt out of Google Analytics
+    Click here to opt out of Google Analytics
     
-    Click hereOpens External Site in new window to opt out of Adobe Site Services
+    Click here to opt out of Adobe Site Services
     
-    EU visitors can find general information and opt-out resources at youronlinechoices.euOpens External Site in new window and US visitors can see aboutads.infoOpens External Site in new window.
+    EU visitors can find general information and opt-out resources at youronlinechoices.eu and US visitors can see aboutads.info.
     
 
 With Whom Does Delta Share My Personally Identifiable Information?
