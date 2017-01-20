@@ -134,7 +134,6 @@ About*   Corporate Profile
 Support*   Pay Your Bill &. Manage Your Account
 *   Contact Us
 *   General FAQs
-*   Service Coverage Map
 *   Site Map
 
 Legal &. Regulatory*   Privacy Policy
