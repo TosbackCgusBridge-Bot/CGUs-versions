@@ -153,14 +153,14 @@ A leap second will be added to Coordinated Universal Time (UTC) on December 31, 
 
 Find out what months have to do with the Moon, why there are 12 months, and what the month names mean. more
 
-2016-2017 Cosmic Calendar
+2017 Cosmic Calendar
 
-List of cosmic events in 2016 and 2017 including supermoons, solar and lunar eclipses, meteor showers, solstices, and equinoxes. more
+List of cosmic events in 2017 including supermoons, solar and lunar eclipses, meteor showers, solstices, and equinoxes. more
 
 Magnetic Declination
 
 A compass needle doesn't point to the geographical North Pole but to magnetic north. Did you know that it usually doesn't point to the magnetic North Pole either? more
 
-Copyright © Time and Date AS 1995–2016. All rights reserved.
+Copyright © Time and Date AS 1995–2017. All rights reserved.
 
 Feedback | About Us | Advertising | Disclaimer | Privacy | Sitemap
