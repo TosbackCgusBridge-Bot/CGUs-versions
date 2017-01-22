@@ -387,12 +387,9 @@ For ProfessionalsCareersContact UsCompany InfoVoluntary Recall
 *   Follow us on Instagram
 *   View on Instagram
 
-*   Follow us on Vine
-*   View posts
-
 *   Follow us on Tumblr
 *   Visit us on Tumblr
 
-Facebook Twitter Instagram Vine Tumblr © 2017 SONY CORPORATION OF AMERICA
+Facebook Twitter Instagram Tumblr © 2017 SONY CORPORATION OF AMERICA
 
 Terms and ConditionsPrivacy Policy/Your California Privacy Rights
