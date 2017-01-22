@@ -47,6 +47,7 @@ Aéropostale
     
     *   NEW ARRIVALS
     *   Prince &. Fox
+    *   Cape Juby
     *   Uniform
     *   Online Only
     *   Extended Sizes
