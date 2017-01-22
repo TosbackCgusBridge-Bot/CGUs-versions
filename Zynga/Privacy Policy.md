@@ -20,7 +20,6 @@ Navigation
     *   Looney Tunes Dash
     *   Matching With Friends
     *   Speed Guess Something
-    *   What's The Phrase
     *   Wizard of Oz Magic Match
     *   Word Streak With Friends
     *   Words With Friends
