@@ -193,8 +193,8 @@ My Account
 Guarantees
 
 *   Security
-*   Substitution Policy
 *   100% Satisfaction
+*   Substitution Policy
 
 Privacy
 
@@ -214,8 +214,8 @@ Security
 About Us
 
 *   The Hickory Farms Story
-*   Employment Opportunities
 *   Store Locator
+*   Employment Opportunities
 
 Need Help?
 
