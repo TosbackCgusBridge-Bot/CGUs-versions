@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15724506978
+true true L15726339381
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Sat Jan 21 11:15:46 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.8.0.17.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p05.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Sun Jan 22 11:15:32 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.8.0.17.0
 
 *   for the home
 *   bed &. bath
@@ -54,11 +54,23 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-JCPenney Rewards Rewards Members Shop &. Get a $10 Bonus Reward\*
+Love Worth Giving Valentine's Day is February 14th Shop Valentine's Day Gifts39.99 V-Neck Textured Sheath Dress
 
-When you spend $50 or more in store &. at jcp.com through Jan 21, 2017.
+Select styles, reg. $60
 
-\*Get Details: Stretch Your Penney Sale
+Shop Women  50% Off Men's Suit Separates, Sport Coats &. Dress Pants
+
+Select styles, reg. $60-$275
+
+Shop Men   Home Sale Up To 50% Off
+
+Select styles.
+
+Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses Shop Home Decor
+
+19.99 Decorative Pillows, select styles, reg. $40
+
+Shop Pillows Stretch Your Penney Sale
 
 In Store &. Online | Ends January 22
 
@@ -70,19 +82,7 @@ For Kids For Her
 
 \*Buy one item at regular price, get the second item of equal or lesser value for one cent, while supplies last.
 
-40% Off Modern Bride when you spend $100 or more with code 9BUYNOW
-
-Select styles
-
-Shop Now Love Worth Giving Valentine's Day is February 14th 39.99 V-Neck Textured Sheath Dress
-
-Select styles, reg. $60
-
-Shop Women  50% Off Men's Suit Separates, Sport Coats &. Dress Pants
-
-Select styles, reg. $60-$275
-
-Shop Men   2017 Prom 25% Off Prom Dresses
+2017 Prom 25% Off Prom Dresses
 
 Select styles, reg. $100-$250
 
@@ -90,45 +90,7 @@ Shop Prom Dresses Shop Plus Prom Dresses50% Off Guys' Suit Separates, Sport Coat
 
 Select styles, reg. $60-$275
 
-Shop Guys Now Online &. In Select Stores! Major Appliances From Your Favorite Brands.
-
-Need help? Call 1-844-JCP-APPL (1-844-527-2775)
-
-Delivery not available in all markets.
-
-Get Details:Up to 30% Off\* Major Appliances
-
-Select styles
-
-Shop Major Appliances:
-
-\*GE, GE Profile &. GE Cafe limited to 10% off savings.
-
-18 Months or 24 Months Special Financing\*\*
-
-Available on qualifying major appliance purchases made through 1/28/17 on a JCPenney Credit Card. Must request at time of purchase.
-
-\*\*Get Details:
-
-Don't have a JCPenney Credit Card?
-
-Apply Now:Free Delivery &. Basic Installation
-
-On all appliance purchases over $299
-
-Get Details:JCPenney Rewards Shop &. Get Rewards
-
-For points earned on major appliances+
-
-+Get Details: Red Zone End Of Season Clearance! 80% Off Final Markdowns
-
-In Store Only
-
-Find a StorePlus! New Markdowns 50-70% Off
-
-In Store &. Online
-
-Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Jan 21 22:15:55 CST 2017 JVM :->. dtexppr1l2j2\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Jan 21 22:14:36 CST 2017 JVM :->. dtexppr1l2j2\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Guys \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Jan 22 22:02:05 CST 2017 JVM :->. dtexppr1l1j1\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Jan 22 04:10:31 CST 2017 JVM :->. dtexppr1l1j6\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
