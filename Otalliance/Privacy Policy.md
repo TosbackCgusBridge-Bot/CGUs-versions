@@ -106,9 +106,11 @@ Tue, Feb 7, 2017 2017 Cyber Incident &. Breach Readiness Webinar
 
 Webinar to review highlights of the 2017 Cyber Incident and Breach Readiness Plan. Attend to learn best practices to help protect your data, complete risk assessments and develop an adequate response plan. Download the guide in advance of the webinar at https://otalliance.org/Incident.  Speakers to include representatives from Identity Guard, LifeLock, Symantec &. Verisign.
 
-Mon, Feb 13, 2017 RSA Conference 2017
+Mon, Feb 13, 2017 OTA Industry Leaders at RSA Conference 2017
 
-RSA Conference 2017 provides the opportunity for all attendees at all levels to grow their knowledge, exchange ideas with peers and further their careers. With opportunity comes great responsibility for the future. Our actions today will have a lasting impact on the strength of the industry—and the safety of the world—tomorrow. Don’t miss out on this amazing opportunity from February 13 to 17 in San Francisco! OTA members get additional $100 off:  **1U7OTAFD** 
+**Join OTA at the Non-Profits On the Loose Reception on Feb 14th**
+
+**Featured Sessions - Reserve Your Seat Today!**
 
 More >>.
 
