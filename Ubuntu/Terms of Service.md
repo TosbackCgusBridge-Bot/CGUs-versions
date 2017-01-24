@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   What IT Pros Need to Know about Server Provisioning ›
 *   tutorials.ubuntu.com goes live! ›
 *   Winners of #UbuntuAtMWC ›
 *   5 Cool things Canonical does with Go ›
-*   Mir: 2016 end of year review ›
