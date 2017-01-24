@@ -1,13 +1,11 @@
-LinkedIn
+Skip to main content LinkedIn Home
 
 *   What is LinkedIn?
-*   Sign in
-*   Join now
+*   Join Today
+*   Sign In
 
 Main content starts below.
 
-*   Sign up
-*   Help Center
 *   About
     *   Press
     *   Blog
@@ -26,7 +24,7 @@ Main content starts below.
     *   Deutsch
     *   **English**
     *   Español
-    *   繁體中文
+    *   正體中文
     *   Français
     *   한국어
     *   Italiano
@@ -49,16 +47,13 @@ Main content starts below.
 *   LinkedIn Updates
 *   LinkedIn Influencers
 *   Search Jobs
-
-*   Directories
-*   Members
-*   Jobs
-*   Pulse
-*   Topics
-*   Companies
-*   Groups
-*   Universities
-*   Titles
+*   Jobs Directory
+*   Pulse Directory
+*   Topics Directory
+*   Company Directory
+*   Groups Directory
+*   Universities Directory
+*   Title Directory
 *   ProFinder
 
 LinkedIn Corporation _© 2017_
@@ -68,4 +63,3 @@ LinkedIn Corporation _© 2017_
 *   Community Guidelines
 *   Cookie Policy
 *   Copyright Policy
-*   Unsubscribe
