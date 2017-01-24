@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms 2016 marks three consecutive years of record warmth for the globe AROUND NOAA // NOAA satellites helped save 307 lives in 2016 Climate change to shift global pattern of mild weather 2016 was 2nd warmest year on record for U.S.
+Enter Search Terms NOAA’s GOES-16 satellite sends first images of Earth Higher-resolution details will lead to more accurate forecasts AROUND NOAA // 2016 marks three consecutive years of record warmth for the globe NOAA satellites helped save 307 lives in 2016 Climate change to shift global pattern of mild weather
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock image
+NOAA/NASA
