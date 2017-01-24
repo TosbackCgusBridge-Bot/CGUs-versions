@@ -152,7 +152,6 @@ GSK Global Website www.gsk.com
             *   Nick Springer, U.S. Paralympian and meningitis survivor
             *   Dr. Leonard Friedland, VP, director of Scientific Affairs and Public Health, Vaccines, North America at GSK
         *   Tanzeum™ (albiglutide)
-        *   US IMPACT Awards
         *   The State of Uncontrolled Asthma in America
         *   World Meningitis Day
             *   World Meningitis Day
@@ -160,6 +159,7 @@ GSK Global Website www.gsk.com
             *   Meningococcal disease fact sheet
             *   Hour of Power Rowing &. Cycling Challenge
             *   Knowledge gaps in vaccination against meningococcal disease
+        *   US IMPACT Awards
         *   Flulaval Quadrivalent for infants 6 months and older
     *   Infographics
     *   Media contacts
@@ -662,4 +662,4 @@ Contact information for other GSK locations can be found here.
 *   Legal notices
 *   GSK employees
 
-© 2001-2016 GSK group of companies. All rights reserved.
+© 2001-2017 GSK group of companies. All rights reserved.
