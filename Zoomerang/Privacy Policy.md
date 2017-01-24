@@ -26,17 +26,17 @@ MetrixLab MetrixLab
 
 OUR MISSION IS TO CHANGE THE WAY MARKETING RESEARCH IS USED TO GENERATE INSIGHTS THAT IMPACT BUSINESS DECISIONS
 
+Advertising &. Brand
+
+Insights for Brand Performance, Creative Development, Media Effectiveness
+
+Brand Engagement
+
 Product Innovation
 
 Insights for Market Exploration, Product Development and Sales Activation
 
 Product Innovation
-
-Brand Engagement
-
-Insights for Brand Performance, Creative Development, Media Effectiveness
-
-Brand Engagement
 
 Customer Value
 
