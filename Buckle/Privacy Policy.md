@@ -76,7 +76,7 @@
         
           
           
-        Give a Buckle Gift card Winter’s not over yet. . . STAY WARM NOW!
+        Give a Buckle Gift card Happy National Pie Day! Treat yourself and SHOP!
 *   Men
     *   *   Featured
         
@@ -128,7 +128,7 @@
         
           
           
-        Give a Buckle Gift card Winter’s not over yet. . . STAY WARM NOW!
+        Give a Buckle Gift card Happy National Pie Day! Treat yourself and SHOP!
 *   Kids
     *   *   Featured
         
@@ -155,7 +155,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Winter’s not over yet. . . STAY WARM NOW!
+        Give a Buckle Gift card Happy National Pie Day! Treat yourself and SHOP!
 *   Jeans
     *   *   Women's Jeans
         
@@ -177,7 +177,9 @@
         *   Kid's Jeans
         
         *   Girl's Jeans
-        *   Boy's JeansGive a Buckle Gift card Winter’s not over yet. . . STAY WARM NOW!
+        *   Boy's Jeans
+        
+        Give a Buckle Gift card Happy National Pie Day! Treat yourself and SHOP!
 *   New
     *   *   Women's New
         
@@ -206,7 +208,9 @@
         *   Shop All
         *   Boy's New Tops
         *   Boy's New Jeans
-        *   Shop AllGive a Buckle Gift card Winter’s not over yet. . . STAY WARM NOW!
+        *   Shop All
+        
+        Give a Buckle Gift card Happy National Pie Day! Treat yourself and SHOP!
 *   Sale
     *   *   Women's Sale
         
@@ -247,7 +251,7 @@
         
           
           
-        Give a Buckle Gift card Winter’s not over yet. . . STAY WARM NOW!
+        Give a Buckle Gift card Happy National Pie Day! Treat yourself and SHOP!
 
 A Global Message! × Privacy &. Security
 
