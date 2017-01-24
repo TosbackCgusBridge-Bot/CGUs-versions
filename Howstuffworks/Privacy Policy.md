@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Are There Really Kids' Authors Who Hate Kids?**
+**Baby Names Are Getting More Unique in the U.S., Even When Times Are Tough**
 
-**5 Things You Didn't Know About Squirrels**
+**Why Do We Care About the First 100 Days?**
 
-**A Look at First Lady Melania Trump's Childhood Hometown in Slovenia**
+**Transcendental Meditation Shown to Reduce Trauma in Female Inmates**
 
 **See More Headlines »**
 
