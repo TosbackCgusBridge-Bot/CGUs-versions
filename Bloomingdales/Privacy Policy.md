@@ -52,6 +52,8 @@ This Notice of Privacy Practices explains:
 *   Additional Disclosures (including COPPA, California Privacy Rights, International)
 *   Safeguarding Information
 
+Interest-Based Advertising
+
 Your access to and use of our Services means you agree to the terms in this Notice and our Terms of Use.  We encourage you to refer to this Notice periodically so that you understand our current privacy practices.  
   
 If you have any questions about this Notice, please contact our Customer Service department:
