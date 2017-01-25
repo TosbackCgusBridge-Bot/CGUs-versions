@@ -76,7 +76,7 @@
         
           
           
-        Give a Buckle Gift card Happy National Pie Day! Treat yourself and SHOP!
+        Give a Buckle Gift card Celebrate the Lunar New Year. Shop New Arrivals!
 *   Men
     *   *   Featured
         
@@ -128,7 +128,7 @@
         
           
           
-        Give a Buckle Gift card Happy National Pie Day! Treat yourself and SHOP!
+        Give a Buckle Gift card Celebrate the Lunar New Year. Shop New Arrivals!
 *   Kids
     *   *   Featured
         
@@ -155,7 +155,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Happy National Pie Day! Treat yourself and SHOP!
+        Give a Buckle Gift card Celebrate the Lunar New Year. Shop New Arrivals!
 *   Jeans
     *   *   Women's Jeans
         
@@ -179,7 +179,7 @@
         *   Girl's Jeans
         *   Boy's Jeans
         
-        Give a Buckle Gift card Happy National Pie Day! Treat yourself and SHOP!
+        Give a Buckle Gift card Celebrate the Lunar New Year. Shop New Arrivals!
 *   New
     *   *   Women's New
         
@@ -210,7 +210,7 @@
         *   Boy's New Jeans
         *   Shop All
         
-        Give a Buckle Gift card Happy National Pie Day! Treat yourself and SHOP!
+        Give a Buckle Gift card Celebrate the Lunar New Year. Shop New Arrivals!
 *   Sale
     *   *   Women's Sale
         
@@ -251,7 +251,7 @@
         
           
           
-        Give a Buckle Gift card Happy National Pie Day! Treat yourself and SHOP!
+        Give a Buckle Gift card Celebrate the Lunar New Year. Shop New Arrivals!
 
 A Global Message! × Privacy &. Security
 
