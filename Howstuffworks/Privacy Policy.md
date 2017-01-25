@@ -244,15 +244,13 @@ Last Updated On: 08/10/2016
 
 Print | Citation &. Date
 
-Today's Headlines
+Now
 
-**Baby Names Are Getting More Unique in the U.S., Even When Times Are Tough**
+**9 Ways the iPhone Frustrated, Delighted Users in Its First Decade**
 
-**Why Do We Care About the First 100 Days?**
+**4 Ways Apostrophes Are Mangled Every Day**
 
-**Transcendental Meditation Shown to Reduce Trauma in Female Inmates**
-
-**See More Headlines »**
+**Why the Inside of a Tornado Gets Super Cold, Leaves You Gasping for Air**
 
 About Us
 
