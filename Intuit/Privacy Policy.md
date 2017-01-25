@@ -27,9 +27,9 @@
 *   customer service
     
 
-true true L15728264575
+true true L15732092485
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Mon Jan 23 11:15:37 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.8.0.17.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Tue Jan 24 11:11:00 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.8.0.17.0
 
 *   for the home
 *   bed &. bath
@@ -54,7 +54,7 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Jan 23 04:54:18 CST 2017 JVM :->. dtexppr1l2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Jan 23 04:54:18 CST 2017 JVM :->. dtexppr1l2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Jan 24 04:14:19 CST 2017 JVM :->. dtexppr1c1j4\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Jan 24 04:14:19 CST 2017 JVM :->. dtexppr1c2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
@@ -111,7 +111,7 @@ ABOUT US
 *   investors
 *   CA Transparency in Supply Chains Act
 
-JCPenney credit card pay bill check balance apply now JCPenney is Your One-Stop Shop for Winter Coats, Clothes &. Accessories! At JCPenney, we're dedicated to bringing you the very best in stylish and affordable goods. With cold weather around the corner, you've got to be well prepared, and we're here to help out with that! Shop an array of winter coats and boots for the entire family. From pea coats to ski coats and riding boots to booties, youâre sure to find exactly what you need for yourself and your family to stay warm and stylish. Donât forget to accessorize your new clothing with essential cold weather accessories. At JCPenney, youâll find everything you need to stay warm inside and outside of the house. Your journey towards better value starts and ends with us, online or in your closest JCPenney store!
+JCPenney credit card pay bill check balance apply now JCPenney is Your One-Stop Shop for Valentine's Day Love is in the air at JCPenney! Shop for the perfect Valentineâs Day gifts for the ones you love. We have amazing Valentineâs gifts for her and him. Jewelry is the one of the best Valentineâs Day gifts. Her eyes will light up with a new ring or jewelry set from our jewelry store. For him, get a gorgeous new watch he can wear to any outfit, or cool new gadgets. Tasty treats are also wonderful gift ideas. Shop for yummy food gift baskets that your loved ones will adore! Your journey towards better value starts and ends with us, online or in your closest JCPenney store!
 
 *   legal
 *   privacy policy
