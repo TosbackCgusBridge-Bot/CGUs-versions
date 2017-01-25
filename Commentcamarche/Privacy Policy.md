@@ -107,8 +107,8 @@ Durée et résiliation Le présent contrat est conclu pour une durée indétermi
 Droit applicable et juridiction compétente Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents. A voir également
 
 *   Conditions générales
-*   Code samsung farensia
-*   Moov.ci
+*   Jai perdu mon mot depasse de samsung
+*   Comment Creer un compte facebook
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente
 *   Les conditions générales de vente pour un site d'e-commerce
 *   Redaction conditions generales (Résolu)
