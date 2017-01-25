@@ -1,8 +1,8 @@
-campaign: nyt2017\_bar1\_digi\_Inauguration\_6JX4J -- 285182, creative: 1\_nyt2016\_bar1\_digi\_inauguration\_6JX4J -- 415646, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
+campaign: nyt2017\_bar1\_digi\_Inauguration\_6JX4J -- 285182, creative: 2\_nyt2016\_bar1\_digi\_inauguration\_6JX4J\_1-24 -- 415708, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
 
 *   1 of 10 articles read
 *   SUBSCRIBE NOW Truth.  
-    It comes at a cost. Get up to 40% off the Times  
+    It’s vital to democracy. Get up to 40% off the Times  
     subscription of your choice. SEE MY OPTIONS
 
 SUBSCRIBE*   Help
@@ -251,4 +251,4 @@ Search Help
 *   Contact Us
 *   Site Feedback
 
-Campaign ID: 285217 | Creative: nyt2017\_pers\_B2B\_cookieset\_v5\_HTTPS -- 415673 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Inv2
+Campaign ID: 285217 | Creative: nyt2017\_pers\_B2B\_cookieset\_v5\_HTTPS -- 415673 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Inv3
