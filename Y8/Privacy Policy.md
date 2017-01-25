@@ -1,76 +1,96 @@
-GAMES AT Y8.COM. PLAY OVER 50.000+ FREE ONLINE GAMES ON Y8.COM
-
-Play any type of Game at Y8.com. The biggest Game Collection to play free online. Flash, Unity 3D, Html5, Android, Java and Shockwave.
-
-*   Your Score:
-*   My games () / My Profile
-*   Log out
-*   powered
-
-*   Your Score:
-*   Not logged in.
-*   Log in / Register
-*   powered
-
-Parental Control
-
 *   games
 *   videos
+
+points
+
+Register Log in
+
+My Profile points
+
+*   My Profile
+*   Edit Profile
+*   My games
+*   Log out
+
+Powered by
+
 *   New Games
 *   Best of new games
 *   Most Popular Games
 
-PRIVACY POLICY
+Parental Control
 
-_Last modified: January 15, 2013_
+*     English
+
+*     English
+*     Руcский
+*     Français
+*     Deutsch
+*     Italiano
+*     Ελληνικά
+*     עברית
+*     हिंदी
+*     Română
+*     Español
+*     Tagalog
+*     ไทย
+*     中文
+*     Nederlands
+*     Việt
+*     Türkçe
+*     Português
+*     Polski
+*     한국어
+*     日本語
+*     Indonesia
+*     العربية
+
+PRIVACY POLICY Last modified: January 15, 2013
 
 This privacy policy (hereafter referred to as the "Privacy Policy") is applicable to Our websites and to all games and other activities that are offered by Us on or through Our websites. (Our websites, all the web pages that are part of the websites, and such games and activities are hereafter collectively referred to as the "Websites.") Web Entertainment Limited (hereafter referred to as "WEL" or any second-person pronoun), is the responsible party as referred to in the Hong Kong Personal Data Protection Act. WEL may use affiliates' or reputable third parties' services for the processing of personal data collected on or through the Websites. By using or accessing Our Websites, You are accepting the practices described in this Privacy Policy.
 
 Y8 is committed to providing an entertaining, fun and educational service. Y8.com is a property of WEL. WEL respects the privacy concerns of visitors to Y8 network websites. It does not target its Website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13. We take measures to help children protect their privacy while being online. For example, We do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.
 
-1.  INFORMATION YOU PROVIDE TO US
+1\. INFORMATION YOU PROVIDE TO US
 
 We may log IP addresses and/or drop cookies and/or flash cookies to prevent abuse of Our website and or to provide and or to enhance services. Email addresses of persons under 13 years of age are not stored. They are encrypted into an unrecoverable format using a one way hash. Of those users who choose to register, You provide Us with Your date of birth, username, password and email address.
 
 Y8 Network website does not require persons under 13 years of age to disclose any more information than is reasonably necessary to participate in the activity as a condition of participation.
 
-1.  INFORMATION WE RECEIVE ABOUT YOU
+2\. INFORMATION WE RECEIVE ABOUT YOU
 
 The information that We receive about You concerns
 
 *   Non-personal information
-
-1.  Data in relation to the use of the Website and Our services, such as high scores, game rankings game challenges, avatars, etc..
-2.  Keyword popularity reports regionally Website migration patterns.
-
+    1.  Data in relation to the use of the Website and Our services, such as high scores, game rankings game challenges, avatars, etc.;
+    2.  Keyword popularity reports regionally Website migration patterns;
 *   Technical information, including:
+    1.  Your IP address;
+    2.  Your browser;
+    3.  the Operating system You use;
+    4.  if You are logged in to id.net, Your User ID.
 
-1.  Your IP address.
-2.  Your browser.
-3.  the Operating system You use.
-4.  if You are logged in to id.net, Your User ID.
-
-1.  HOW WE USE THE INFORMATION
+3\. HOW WE USE THE INFORMATION
 
 We do not retain any information You provide to Us beyond the time it is needed. We may use information to ensure that users are in compliance with Our terms. Persons over 13 years of age authorize Us to send them email notifications related to Y8.com products and services including the Y8 Newsletter. Y8 Network may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Y8 network’s property, visitors, or anyone else that could be harmed by such activities.
 
 We may sometimes use non-personal information that We receive about You to improve the design and content of Our website, to personalize Our visitors' experience or to offer products, programs and services. We may also use this information in the aggregate to analyze website usage, as well as to offer products, programs, or services.
 
-1.  INFORMATION WE SHARE, THIRD PARTY AND SPONSORS
+4\. INFORMATION WE SHARE, THIRD PARTY AND SPONSORS
 
 We do not disclose personally identifiable information of users under 13 years of age to third parties.
 
-We use Google AdSense to serve ads when You visit Our website. WEL may use  share information (not including your name, address, email address or telephone number) about Your visits to this and other websites in order to provide advertisements on this website and other websites about goods and services that may be of interest to You. Third parties and/or WEL may be placing and reading standard and or flash cookies on Your browser and machine, or using web beacons to collect  receive information about Your use of on  the website, and in the course of ads being served.
+We use Google AdSense to serve ads when You visit Our website. WEL may use share information (not including your name, address, email address or telephone number) about Your visits to this and other websites in order to provide advertisements on this website and other websites about goods and services that may be of interest to You. Third parties and/or WEL may be placing and reading standard and or flash cookies on Your browser and machine, or using web beacons to collect receive information about Your use of on the website, and in the course of ads being served.
 
 We will share Your information with Our business partners or clients, with Your consent, so that they may improve their services. Third parties such as advertisers, games companies and or developers may ask for information from You which would be governed by the privacy policy of those other companies in which case they should provide adequate disclosure of their privacy policies to You. We may use Your information to improve Our services and or to help serve advertising to You.
 
 You may manage or opt out of your flash cookies here You may manage or opt out of Your standard cookies via Your web browser and if You would like more information about this practice and to know Your options in order to prevent these companies from using this information, please click here.
 
-1.  SECURITY
+5\. SECURITY
 
 We have implemented appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information We receive from You.
 
-1.  THIRD PARTY LOGIN SYSTEM ID.NET
+6\. THIRD PARTY LOGIN SYSTEM ID.NET
 
 We offer You the opportunity to login to Our Website through the use of Your id.net identity linked to Our Website.
 
@@ -80,13 +100,14 @@ Only Your information about Your id.net identity linked to Our Website, such as 
 
 For Members who are already registered and have an Account on Our Website, You agree and consent to the migration of Your account to an id.net account and id.net identity linked to Our Website.
 
-1.  PARENTAL REVIEW
+7\. PARENTAL REVIEW
 
 Parents, if you would like to review your child's personal information, ask to have it deleted, and refuse to allow any further collection or use of the child's information then please send a letter to Our Privacy Manager at Web Entertainment Limited, Room 409 Yu To Sang Building, 37 Queen's Road Central Hong Kong SAR. Please be sure to include your email address and a telephone number where We can reach you. To protect your child's privacy and security, We will take reasonable steps to help verify your identity before granting you access to the personal information that We collect and maintain about your child.
 
-1.  Changes to the privacy policy
+8\. CHANGES TO THE PRIVACY POLICY
 
-We may change from time to time the terms of Our Privacy Policy. The mention of the terms "Last modified" followed by a date shall indicate You of this occurrence.  
+We may change from time to time the terms of Our Privacy Policy. The mention of the terms "Last modified" followed by a date shall indicate You of this occurrence.
+
 If you have any questions, you can contact us through our contact form.
 
 *   Advertise
