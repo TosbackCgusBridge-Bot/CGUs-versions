@@ -1,4 +1,4 @@
-15 3 2016.12.8.0.17.0
+15 3 2016.13.0.0.239.0
 
 *   Find a store
 *   store ads
@@ -12,6 +12,7 @@
 *   ship to
 
 *   customer service
+*   accessible view
     
 
 *   Hello  
@@ -25,11 +26,12 @@
 *   ship to
 
 *   customer service
+*   accessible view
     
 
-true true L15732092485
+true true L15732941088
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Tue Jan 24 11:11:00 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.12.8.0.17.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1l1j5 TIME :->. Wed Jan 25 11:15:40 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.13.0.0.239.0
 
 *   for the home
 *   bed &. bath
@@ -54,7 +56,7 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Jan 24 04:14:19 CST 2017 JVM :->. dtexppr1c1j4\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Jan 24 04:14:19 CST 2017 JVM :->. dtexppr1c2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Jan 25 14:29:27 CST 2017 JVM :->. dtexppr1l1j3\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Jan 25 14:29:27 CST 2017 JVM :->. dtexppr1l1j1\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
