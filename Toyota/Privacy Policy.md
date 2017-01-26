@@ -30,27 +30,27 @@ Toyota Vehicles Cars &. Minivan
 *   $21,980 as shown 2017 Corolla $18,500 starting 28/36 est. mpg build Specials
 *   $18,750 as shown 2017 Corolla iM $18,750 starting 27/35 est. mpg build Specials
 *   $33,820 as shown 2017 Camry $23,070 starting 24/33 est. mpg build Specials
-*   $38,045 as shown 2017 Avalon $33,250 starting 21/30 est. mpg build Specials
+*   $37,700 as shown 2017 Avalon $33,300 starting 21/30 est. mpg build Specials
 *   $26,255 as shown 2017 86 $26,255 starting 21/28 est. mpg build Specials
 *   $40,830 as shown 2017 Sienna $29,750 starting 19/27 est. mpg build Specials
 
 Trucks
 
-*   $34,706 as shown 2017 Tacoma $24,120 starting 19/24 est. mpg build Specials
-*   $41,280 as shown 2017 Tundra $30,020 starting 15/19 est. mpg build Specials
+*   $34,905 as shown 2017 Tacoma $24,320 starting 19/24 est. mpg build Specials
+*   $41,380 as shown 2017 Tundra $30,120 starting 15/19 est. mpg build Specials
 
 Crossovers &. SUVs
 
 *   $36,150 as shown 2017 RAV4 $24,910 starting 23/30 est. mpg build Specials
 *   $41,150 as shown 2017 Highlander $30,630 starting 21/27 est. mpg build Specials
 *   $40,675 as shown 2017 4Runner $34,210 starting 17/21 est. mpg build Specials
-*   $61,990 as shown 2017 Sequoia $45,460 starting 13/17 est. mpg build Specials
+*   $62,090 as shown 2017 Sequoia $45,560 starting 13/17 est. mpg build Specials
 *   $84,775 as shown 2017 Land Cruiser $84,775 starting 13/18 est. mpg build Specials
 
 Hybrids &. FCV
 
 *   $27,995 as shown 2017 Camry Hybrid $26,790 starting 42/38 est. mpg build Specials
-*   $42,550 as shown 2017 Avalon Hybrid $37,250 starting 40/39 est. mpg build Specials
+*   $42,600 as shown 2017 Avalon Hybrid $37,300 starting 40/39 est. mpg build Specials
 *   $34,645 as shown 2017 RAV4 Hybrid $29,030 starting 34/30 est. mpg build Specials
 *   $50,085 as shown 2017 Highlander Hybrid $36,270 starting 30/28 est. mpg build Specials
 *   $28,800 as shown 2017 Prius Prime $27,100 starting 54/133 est. mpg /MPGe build Specials
