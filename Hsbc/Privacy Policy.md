@@ -68,7 +68,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
 *   Investor relations
     
     *   Financial and regulatory reports
-        *   Regulatory capital securities
+        
     *   Events and presentations
         
     *   Share and dividend information
@@ -89,6 +89,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Green bond reports
         *   Credit ratings
         *   Issuance programmes
+        *   Regulatory capital securities
     *   Stock exchange announcements
         *   Inside information
     
