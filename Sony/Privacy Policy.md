@@ -24,8 +24,6 @@ search Electronics Televisions &. Home Theater ›Televisions &. Home Theater
 *   Home Theater &. Sound Bars
 *   Projectors
 *   Blu-ray &. DVD Players
-*   4K Ultra Short Throw Projector
-*   Portable Projectors
 
 View All Audio ›Audio
 
@@ -344,6 +342,20 @@ Play Video
 Sony on YouTube
 
 Play Video
+
+Become Your Own DJ and Feel The Extra Bass
+
+Visit The Sound Lab at Sony Square NYC
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share Become Your Own DJ and Feel The Extra Bass
+
+Visit The Sound Lab at Sony Square NYC
 
 Load More
 
