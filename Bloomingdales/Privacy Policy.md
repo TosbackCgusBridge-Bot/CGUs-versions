@@ -23,7 +23,6 @@
 *   GIFTS
 *   THE REGISTRY
 *   SALE
-*   OUTLET
 
 CALL US ANY TIME:1.800.777.0000 We're available 24 hours, 7 days a week. What's New My bWallet In-Store Pickup Wish List Help Topics Credit Card Returns Order Status Loyallist   Shipping &. Delivery Stores My Account &. Profile Furniture &. Mattresses Products &. Pricing Wedding &. Gift Registry Gifts &. Gift Cards Customer Protection Center   International Contact Us Bloomingdale's and bloomingdales.com Notice of Privacy Practices
 
