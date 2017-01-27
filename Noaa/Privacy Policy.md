@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Science is kid's play: Online games for school breaks or anytime at all Weather Winter safety: How to prepare for winter weather National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Podcast: How a new national network aims to take the pulse of the ocean Weather Winter safety: How to prepare for winter weather National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms 2016 marks three consecutive years of record warmth for the globe AROUND NOAA // NOAA satellites helped save 307 lives in 2016 Climate change to shift global pattern of mild weather 2016 was 2nd warmest year on record for U.S.
+Enter Search Terms NOAA’s GOES-16 satellite sends first images of Earth Higher-resolution details will lead to more accurate forecasts AROUND NOAA // 2016 marks three consecutive years of record warmth for the globe NOAA satellites helped save 307 lives in 2016 Climate change to shift global pattern of mild weather
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock image
+NOAA/NASA
