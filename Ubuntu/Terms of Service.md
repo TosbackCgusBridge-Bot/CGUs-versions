@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Using the ubuntu-app-platform content interface in app snaps ›
 *   Canonical Distribution of Kubernetes – Release 1.5.2 ›
 *   What IT Pros Need to Know about Server Provisioning ›
 *   tutorials.ubuntu.com goes live! ›
-*   Winners of #UbuntuAtMWC ›
