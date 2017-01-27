@@ -117,6 +117,7 @@ View more results
     
     Mobile Apps More
     
+    *   Uphill Rush
     *   My Dolphin Show
     *   Nitro Heads
     *   Cats Empire
