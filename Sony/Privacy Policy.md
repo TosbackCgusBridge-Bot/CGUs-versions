@@ -129,9 +129,9 @@ View Tweet
 
 Sony on Instagram
 
-Revisit All of the Movies
+Know Resident Evil?
 
-Get the Collection
+Take The Quiz
 
 Close
 
@@ -139,9 +139,9 @@ Close
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share Revisit All of the Movies
+*   Copy URL to share Know Resident Evil?
 
-Get the Collection
+Take The Quiz
 
 For the Ultimate Resident Evil Fan: A PS4™ Home Screen
 
