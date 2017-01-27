@@ -76,7 +76,9 @@
         
           
           
-        Give a Buckle Gift card Celebrate the Lunar New Year. Shop New Arrivals!
+        Give a Buckle Gift card Last Chance to get up to 65% off select sale.  
+        Shop Now!  
+        Extra percent off select sale ends Saturday, January 28, 2017 at midnight.
 *   Men
     *   *   Featured
         
@@ -128,7 +130,9 @@
         
           
           
-        Give a Buckle Gift card Celebrate the Lunar New Year. Shop New Arrivals!
+        Give a Buckle Gift card Last Chance to get up to 65% off select sale.  
+        Shop Now!  
+        Extra percent off select sale ends Saturday, January 28, 2017 at midnight.
 *   Kids
     *   *   Featured
         
@@ -155,7 +159,9 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Celebrate the Lunar New Year. Shop New Arrivals!
+        Give a Buckle Gift card Last Chance to get up to 65% off select sale.  
+        Shop Now!  
+        Extra percent off select sale ends Saturday, January 28, 2017 at midnight.
 *   Jeans
     *   *   Women's Jeans
         
@@ -179,7 +185,9 @@
         *   Girl's Jeans
         *   Boy's Jeans
         
-        Give a Buckle Gift card Celebrate the Lunar New Year. Shop New Arrivals!
+        Give a Buckle Gift card Last Chance to get up to 65% off select sale.  
+        Shop Now!  
+        Extra percent off select sale ends Saturday, January 28, 2017 at midnight.
 *   New
     *   *   Women's New
         
@@ -210,7 +218,9 @@
         *   Boy's New Jeans
         *   Shop All
         
-        Give a Buckle Gift card Celebrate the Lunar New Year. Shop New Arrivals!
+        Give a Buckle Gift card Last Chance to get up to 65% off select sale.  
+        Shop Now!  
+        Extra percent off select sale ends Saturday, January 28, 2017 at midnight.
 *   Sale
     *   *   Women's Sale
         
@@ -251,7 +261,9 @@
         
           
           
-        Give a Buckle Gift card Celebrate the Lunar New Year. Shop New Arrivals!
+        Give a Buckle Gift card Last Chance to get up to 65% off select sale.  
+        Shop Now!  
+        Extra percent off select sale ends Saturday, January 28, 2017 at midnight.
 
 A Global Message! × Privacy &. Security
 
