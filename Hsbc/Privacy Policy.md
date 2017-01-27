@@ -51,9 +51,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Communities
         *   Case studies
     
-    *   Frequently asked questions
-        
-    *   Reports and documentation
+    *   Measuring our impact
         
     *   Risk and responsibility
         *   Our conduct
@@ -376,8 +374,7 @@ Contact Us Our approach
 *   Our values
 *   Diversity and inclusion
 *   Sustainability
-*   Frequently asked questions
-*   Reports and documentation
+*   Measuring our impact
 *   Risk and responsibility
 
 Investor relations
