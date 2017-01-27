@@ -1,17 +1,5 @@
 Electronic Arts Inc. Privacy and Cookie Policy Last Updated: October 28, 2016  
 Effective Date: November 28, 2016  
-
-EA has revised its Privacy and Cookie Policy to make it easier for you to read and understand. We are not changing how we collect, use, store, transfer, and otherwise treat your data. only how we present that information to you.
-
-Here are some of the changes we've made:
-
-*   We've reorganized and renamed the provisions to make it easier to navigate
-*   We've set out our commitment to the new EU-U.S. Privacy Shield framework
-*   We've highlighted our use of your data with examples from our different services
-*   We've removed language that is already addressed in our User Agreement
-
-If you have any questions, please contact the Privacy Policy Administrator in your country as listed at privacyadmin.ea.com.
-
   
   
 
