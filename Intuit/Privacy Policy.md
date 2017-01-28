@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true L15733327714
+true true L15738963486
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1l1j5 TIME :->. Thu Jan 26 11:15:45 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.13.0.0.239.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Fri Jan 27 11:15:36 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.13.0.0.239.0
 
 *   for the home
 *   bed &. bath
@@ -56,15 +56,33 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Today Online Only!
+Active Under $15 11.99 Men's Xersion Power Tee
 
-January 26 | Code: HURRY22
+Select styles, reg. $20
 
-Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100
+Shop Men's Xersion Power Tee  7.99 Boys' &. Girls' Xersion Graphic Tees
 
-\*Some exclusions apply.
+Select styles, reg. $16
 
-Get Details: Love Worth Giving Valentine's Day is February 14th Shop Valentine's Day Gifts39.99 V-Neck Textured Sheath Dress
+Shop Boys' &. Girls' Xersion Graphic Tees  14.99 Women's Xersion Tees
+
+Select styles, orig. $26
+
+Shop Women's Xersion Tees   54.99 Men's &. Women's Nike Shoes
+
+Select styles, msrp $60
+
+Nike excluded from coupon
+
+Shop Men   Shop Women   Home Sale Up To 50% Off
+
+Select styles.
+
+Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses Shop Home Decor
+
+19.99 Decorative Pillows, select styles, reg. $40
+
+Shop Decorative Pillows Love Worth Giving Valentine's Day is February 14th Shop Valentine's Day Gifts39.99 V-Neck Textured Sheath Dress
 
 Select styles, reg. $60
 
@@ -80,7 +98,7 @@ Find a StorePlus! New Markdowns 50-70% Off
 
 In Store &. Online
 
-Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Jan 26 08:07:31 CST 2017 JVM :->. dtexppr1l1j5\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Jan 26 08:07:33 CST 2017 JVM :->. dtexppr1l1j5\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Jan 27 14:16:35 CST 2017 JVM :->. dtexppr1l2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Jan 27 03:43:54 CST 2017 JVM :->. dtexppr1l2j1\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
