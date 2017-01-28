@@ -96,8 +96,7 @@ menu 0
     *   New Arrivals
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
-    *   Spring Style Guide
-    *   Ultimate Coat Finder
+    *   How to Dress this Spring
     *   Wear To Work
     *   Sale
     
@@ -205,6 +204,7 @@ menu 0
     *   Water Shoes &. Sandals
     *   Totes &. Beach Bags
     *   Beach Towels
+    *   Women's Swim Finder
     *   Sale
 *   Outerwear
     
@@ -439,8 +439,7 @@ menu 0
     *   New Arrivals
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
-    *   Spring Style Guide
-    *   Ultimate Coat Finder
+    *   How to Dress this Spring
     *   Wear To Work
     *   Sale
     
@@ -548,6 +547,7 @@ menu 0
     *   Water Shoes &. Sandals
     *   Totes &. Beach Bags
     *   Beach Towels
+    *   Women's Swim Finder
     *   Sale
 *   Outerwear
     
