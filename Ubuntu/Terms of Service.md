@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Award-winning drone technology with Ubuntu ›
+*   ROS on arm64 with Ubuntu Core ›
+*   Deploying The Canonical Distribution of Kubernetes onto AWS ›
 *   Using the ubuntu-app-platform content interface in app snaps ›
-*   Canonical Distribution of Kubernetes – Release 1.5.2 ›
-*   What IT Pros Need to Know about Server Provisioning ›
-*   tutorials.ubuntu.com goes live! ›
