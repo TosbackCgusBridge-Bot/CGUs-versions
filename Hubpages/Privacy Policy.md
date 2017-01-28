@@ -1,6 +1,6 @@
 HubPages Privacy Policy
 
-This Privacy Policy was last updated on February 2, 2016, and is effective February 9, 2016. See the bottom of this page for recent changes to this Privacy Policy.
+This Privacy Policy was last updated on January 27, 2017, and is effective February 5, 2017. See the bottom of this page for recent changes to this Privacy Policy.
 
 The following information is to help users and visitors (collectively “Users” or “You”) understand how we collect, use, disseminate and safeguard the information You provide to us while accessing and using our HubPages software, services, the website at HubPages.com, Tatring.com, Bellatory.com, Delishably.com, AxleAddict.com, CalorieBee.com, DenGarden.com, FeltMagnet.com, Exemplore.com, ReelRunDown.com, LevelSkip.com, ToughNickel.com, KindredBond.com, TurboFuture.com, WanderWisdom.com, LetterPile.com, Holidappy.com, Soapboxie.com, SkyAboveUs.com, HowTheyPlay.com, HobbyLark.com, Owlcation.com, PairedLife.com, HealDove.com, WeHaveKids.com and PetHelpful.com (the “Website”), and any other websites and services as may be added from time to time (collectively, the “Service”). We will not use or share Your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use. By using the HubPages Service, you expressly consent to the practices and activities described in this document.
 
@@ -23,6 +23,10 @@ Information collected through clear gifs and cookies, and log file information i
 e. Third-party service-based information. This includes linked services (such as Facebook Connect) that You authorize to share information about You with HubPages. If You elect to use Facebook Connect with HubPages, You agree that HubPages may use (as described in Section 2) information about You provided by Facebook, including (but is not limited to) Your: name, email, gender, birthday, current city, profile picture URL, as well as any additional information (such as “Like” information) that You specifically consent for HubPages to access and use.
 
 Other third-party supported services, such as Google Analytics, that You might use on the Service may collect information through similar methods. Such information is not shared with us and is subject to the privacy policy of each such third-party service.
+
+Integrated services that require Google Analytics to collect data for advertising purposes (such as Remarketing with Google Analytics, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting), including the collection of data via advertising cookies and identifiers. For information about opting out of Google Analytics see the currently available Google Analytics opt-out tool.
+
+You may also opt-out of receiving targeted ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) with the NAI tool available here.
 
 2\. Use of Information
 
@@ -77,6 +81,8 @@ We reserve the right, at our sole discretion, to change, add or remove portions 
 Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to 2120 University Ave, Berkeley, CA 94704, USA.
 
 RECENT CHANGES TO THIS PRIVACY POLICY
+
+January 27, 2016. We revised the policy on Google Analytics by adding in their advertising services and how to opt-out via their tool.
 
 February 2, 2016: We added websites to the service for where Hubs may appear when published. Websites include tatring.com, pethelpful.com and additional websites in the future. These additional websites share registration information so that users can login to any website that is part of the HubPages service.
 
