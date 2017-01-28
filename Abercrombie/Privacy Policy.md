@@ -1,7 +1,7 @@
 Abercrombie &. Fitch US  
 Privacy Policy
 
-Updated: October 2016
+Updated: February 2017
 
 Ad Cookie Policy How Third Parties Serve You Our Advertisements On Other Websites and Your Choices
 
@@ -57,7 +57,7 @@ Categories of personally identifiable information collected online include name,
 
 4\. Personal Information You Allow Us to Collect from Your Social Media Accounts
 
-To create an account on our Websites or to participate in certain features, our Websites may allow you to chose to let us access information from accounts you have created on social media sites such as Facebook, Twitter, Pinterest, Instagram, and other similar sites (“Personal Social Media Accounts”). If you chose to allow us access to your Personal Social Media Accounts, Abercrombie &. Fitch could collect some, and possible all, of the data in the Personal Social Media Account to which you grant access.  Depending on the terms of the social media site, this information could include: your name, email address, profile picture, gender, networks, user ID, list of friends, birthday, likes, education history, work history, current city, hometown, interests, relationship status, and location.  Once you grant this permission, Abercrombie &. Fitch will be able to continue to be linked to the permitted Personal Social Media Account and collect information without a further request for permission, which could include later revisions to existing information or new types of information that you add.  If you no longer want your Personal Social Media Account(s) linked to our Websites, click on the ‘disconnect’ link located on our Websites near the corresponding social media button and we will stop collecting this information.  You may also be able to stop our ability to link to information in your Personal Social Media Account by following instructions provided on the applicable social media sites.
+To create an account on our Websites or to participate in certain features, our Websites may allow you to chose to let us access information from accounts you have created on social media sites such as Facebook, Twitter, Pinterest, Instagram, and other similar sites (“Personal Social Media Accounts”). If you chose to allow us access to your Personal Social Media Accounts, Abercrombie &. Fitch could collect some, and possible all, of the data in the Personal Social Media Account to which you grant access.  Depending on the terms of the social media site, this information could include: your name, email address, profile picture, gender, networks, user ID, list of friends, birthday, likes, education history, work history, current city, hometown, interests, relationship status, and location.  Once you grant this permission, Abercrombie &. Fitch will be able to continue to be linked to the permitted Personal Social Media Account and collect information without a further request for permission, which could include later revisions to existing information or new types of information that you add.  If you no longer want your Personal Social Media Account(s) linked to our Websites, click on the ‘disconnect’ link located on your account profile page, and we will stop collecting this information.  You may also be able to stop our ability to link to information in your Personal Social Media Account by following instructions provided on the applicable social media sites.
 
 This privacy policy does not cover the privacy and security practices of social media sites where you have Personal Social Media Accounts. Please review privacy policies and terms of service on the social media sites if you have any questions about their privacy or security practices.
 
@@ -165,7 +165,7 @@ If you would like to make sure that we do not disclose your name and postal mail
 
 Facebook Messenger Communication
 
-You may opt in to receive communication and updates from us about your order via Facebook Messenger. Once you provide this consent during checkout on our site, it will be maintained for all future orders. To opt out, go to the overview page in the account section on our site or open the conversation on Facebook Messenger and click on the “Turn Off” link (located next to the Facebook Messenger updates language). If you elect to delete your A&F account, then you will no longer receive updates via Facebook Messenger.
+You may opt in to receive communication and updates from us about your order via Facebook Messenger. Once consent is provided during checkout on our site, it will be maintained for all future orders. To opt out, open the conversation on Facebook Messenger and click on the “Turn Off” link (located next to the Facebook Messenger updates language). If you elect to delete your A&F account, then you will no longer receive updates via Facebook Messenger.
 
   
   If you Apply for a Job or Attend Casting Calls
