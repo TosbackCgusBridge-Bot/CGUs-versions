@@ -1,5 +1,3 @@
-1 2 3 4 5 6 7 8 9 10
-
 Sencha
 
 *   Buy Now
@@ -54,7 +52,7 @@ Sencha
 *   Contact Us
 *   Sencha ▾
 
-Sencha Home / Sencha Licensing / Privacy PolicyPrivacy Policy Sencha Inc., and its affiliates and subsidiaries (collectively “Sencha”) recognize the importance of keeping the personal information you provide to us private and secure. Sencha has developed a comprehensive privacy policy and we use the latest technology to ensure that your personal information is secure. Information Collection &. Use General
+Sencha Privacy Policy Sencha Inc., and its affiliates and subsidiaries (collectively “Sencha”) recognize the importance of keeping the personal information you provide to us private and secure. Sencha has developed a comprehensive privacy policy and we use the latest technology to ensure that your personal information is secure. Information Collection &. Use General
 
 We collect personally identifiable information from our users at several different points on our website. Any personal, private information you provide to us will be used in connection to contact you about the products or services in which you have expressed an interest or which may be related. We do not share any information about you or your company to unaffiliated third parties, except as necessary to administer the communications we offer and as permitted by law. We may use a third party service provider to for communications. that company is prohibited from using our users’ personally identifiable information for any other purpose. If you follow us on Twitter, Facebook or on other social media services, we may use information provided by these services to customize our communications to you. We will not share the personally identifiable information you provide with other third parties unless we give you prior notice and choice.
 
