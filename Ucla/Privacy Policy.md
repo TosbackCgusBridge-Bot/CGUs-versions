@@ -23,7 +23,7 @@ Other trademarks, service marks, and trade names used in the ucla.edu web space 
 
 Site History
 
-The first UCLA home page in September 1993 was a simple welcome. In May 1995 came the full-featured "InfoUCLA." In February 1997, "Planet UCLA" was launched (with a spinning globe). The "Great Futures" design was adopted in June 2000. The "Here. Now. UCLA" design was launched in late October 2004 and updated in November 2008. The current design dates to 2012. The updated version of "Here. Now. UCLA" dates to November 2008. The site is managed by UCLA Communications &. Public Outreach.
+The first UCLA home page in September 1993 was a simple welcome. In May 1995 came the full-featured "InfoUCLA." In February 1997, "Planet UCLA" was launched (with a spinning globe). The "Great Futures" design was adopted in June 2000. The "Here. Now. UCLA" design was launched in late October 2004 and updated in November 2008. The current design dates to 2012. The site is managed by UCLA Communications &. Public Outreach.
 
 Digital Millenium Copyright Act
 
