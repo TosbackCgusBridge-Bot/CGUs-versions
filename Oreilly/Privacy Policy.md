@@ -1,25 +1,54 @@
-Your Account
+*   Ideas
+*   Learning
+*   Events
+*   Shop
 
-Shopping Cart
+Search search Your Account Open menuClose menu
 
-*   Home
-*   Shop Video Training &. Books
-*   Radar
-*   Safari Books Online
-*   Conferences
-*   IT Courses &. Certificates
+*   Ideas
+*   Learning
+*   Events
+*   Shop
+
+Search search On Our Radar
+
+*   AI
+*   Business
+*   Data
+*   Design
+*   Economy
+*   Operations
+*   Security
+*   Software Architecture
+*   Software Engineering
+*   Web Programming
+
+See all On Our Radar
+
+*   AI
+*   Business
+*   Data
+*   Design
+*   Economy
+*   Operations
+*   Security
+*   Software Architecture
+*   Software Engineering
+*   Web Programming
+
+See all About O’Reilly
 
 *   Contacts
-*   Tim O'Reilly
 *   Press Room
-*   Jobs
-*   Academic Solutions
-*   Work with Us
+*   Tim O'Reilly
 *   Editorial Independence
-*   RSS Feeds
+*   Jobs
 *   Terms of Service
+*   Privacy Policy
+*   Academic
+*   RSS
 
-O'Reilly Media Privacy Policy
+Privacy Policy
 
 This version (Version 2.1) of O'Reilly Media, Inc.'s Privacy Policy is effective as of November 9, 2016.
 
@@ -230,59 +259,21 @@ For version 2.0 please click here.
 
 For version 1.1 please click here.
 
- 
+About Us
 
-*   Twitter
-*   YouTube
-*   Slideshare
-*   Facebook
-*   RSS
-*   View All RSS Feeds >
-
-© 2016, O’Reilly Media, Inc.
-
-(707) 827-7019 (800) 889-8969
-
-All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
-
-About O'Reilly
-
-*   Academic Solutions
-*   Jobs
-*   Contacts
-*   Corporate Information
-*   Press Room
-*   Privacy Policy
-*   Terms of Service
+*   Our Company
 *   Work with Us
-*   Editorial Independence
-
-Community
-
-*   Animals
-*   Authors
-*   Webcasts
-*   Community &. Featured Users
-*   Forums
-*   Newsletters
-*   O'Reilly Answers
-*   RSS Feeds
-*   Meetups &. User Groups
-*   O'Reilly Atlas (beta)
-
-Partner Sites
-
-*   makezine.com
-*   makerfaire.com
-*   craftzine.com
-*   Ignite Talks
-*   O'Reilly Insights on Forbes.com
-
-Shop O'Reilly
-
 *   Customer Service
 *   Contact Us
-*   Shipping Information
-*   Ordering &. Payment
-*   Affiliate Program
-*   The O'Reilly Guarantee
+
+*   twitter
+*   facebook
+*   linkedin
+*   youtube
+*   newsletter
+
+© 2017 O’Reilly Media, Inc. All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
+
+  
+
+Terms of Service • Privacy Policy • Editorial Independence
