@@ -10,12 +10,13 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Tailgating
+    Holidays &. Occasions*   Valentine's Day
+    *   Valentine's Day Gift Ideas For Him
+    *   Tailgating
     *   Weddings &. Showers
     *   Gifts for Her
     *   Gifts for Him
     *   Birthday Gifts
-    *   Valentine's Day Gift Ideas For Him
     
     By Price*   $30 &. Under
     *   $40 &. Under
@@ -85,12 +86,13 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Tailgating
+    Holidays &. Occasions*   Valentine's Day
+    *   Valentine's Day Gift Ideas For Him
+    *   Tailgating
     *   Weddings &. Showers
     *   Gifts for Her
     *   Gifts for Him
     *   Birthday Gifts
-    *   Valentine's Day Gift Ideas For Him
     
     By Price*   $30 &. Under
     *   $40 &. Under
