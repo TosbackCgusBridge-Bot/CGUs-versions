@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Ubuntu Core – how to enable aliases for your snaps commands ›
 *   Award-winning drone technology with Ubuntu ›
 *   ROS on arm64 with Ubuntu Core ›
 *   Deploying The Canonical Distribution of Kubernetes onto AWS ›
-*   Using the ubuntu-app-platform content interface in app snaps ›
