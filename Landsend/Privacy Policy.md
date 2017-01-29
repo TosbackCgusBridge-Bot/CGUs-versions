@@ -136,7 +136,7 @@ menu 0
     FEATURED SHOPS
     
     *   New Arrivals
-    *   Outerwear Shop
+    *   Outerwear Sale
     *   School Uniforms
     *   Iron Knee Pants
     *   Girls' Knit Kit
@@ -281,7 +281,7 @@ menu 0
     
     *   Best-in-Class Polos
     *   Iron Knee Pants
-    *   Kids' Outerwear Shop
+    *   Kids' Outerwear Sale
     *   Spiritwear
     *   After School
     *   Sale
@@ -479,7 +479,7 @@ menu 0
     Back | Kids FEATURED SHOPS Back | Kids
     
     *   New Arrivals
-    *   Outerwear Shop
+    *   Outerwear Sale
     *   School Uniforms
     *   Iron Knee Pants
     *   Girls' Knit Kit
@@ -623,7 +623,7 @@ menu 0
     
     *   Best-in-Class Polos
     *   Iron Knee Pants
-    *   Kids' Outerwear Shop
+    *   Kids' Outerwear Sale
     *   Spiritwear
     *   After School
     *   Sale
