@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true L15739398943
+true true C15725874201
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Sat Jan 28 11:15:33 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.13.0.0.239.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Sun Jan 29 11:15:28 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.13.0.0.239.0
 
 *   for the home
 *   bed &. bath
@@ -56,49 +56,43 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Active Under $15 11.99 Men's Xersion Power Tee
+Valentine's Jewelry Sale
 
-Select styles, reg. $20
+Through February 14
 
-Shop Men's Xersion Power Tee  7.99 Boys' &. Girls' Xersion Graphic Tees
+40 to 60% Off Fine and Fashion Jewelry
 
-Select styles, reg. $16
+Select styles
 
-Shop Boys' &. Girls' Xersion Graphic Tees  14.99 Women's Xersion Tees
-
-Select styles, orig. $26
-
-Shop Women's Xersion Tees   54.99 Men's &. Women's Nike Shoes
-
-Select styles, msrp $60
-
-Nike excluded from coupon
-
-Shop Men   Shop Women   Home Sale Up To 50% Off
-
-Select styles.
-
-Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses Shop Home Decor
-
-19.99 Decorative Pillows, select styles, reg. $40
-
-Shop Decorative Pillows Love Worth Giving Valentine's Day is February 14th Shop Valentine's Day Gifts39.99 V-Neck Textured Sheath Dress
+Shop Jewelry Sale Looks You'll Love 39.99 V-Neck Textured Sheath Dress
 
 Select styles, reg. $60
 
-Shop Women  50% Off Men's Suit Separates, Sport Coats &. Dress Pants
+Shop Women   Shop Women's Dress Shoes50% Off Men's Suit Separates, Sport Coats &. Dress Pants
 
 With Code: SUIT34, select styles, reg. $60-$275
 
-Shop Men   Red Zone End Of Season Clearance! 80% Off Final Markdowns
+Shop Men   Love Worth Giving Valentine's Day is February 14th Shop Gifts Under $10 Shop Gifts Under $25 Shop Women Shop Men Shop Anyone Shop All Gifts Shop Gift Cards $10 Off $10 Coupon Ends February 14 | Spend $75 on Gift Cards and get a $10 off $10 coupon
 
-In Store Only
+Redeemable 2/15/17-2/28/17 in store and online. Some restrictions apply. Applies to E-Gift Cards and Gift Cards purchased in store.
 
-Find a StorePlus! New Markdowns 50-70% Off
+Get Details: 2017 Prom 40% Off Prom Dresses
+
+Select styles, reg. $100-$250
+
+Shop Prom Dresses Shop Plus-Size Prom Dresses Shop Handbags50% Off Guys' Suit Separates, Sport Coats &. Dress Pants
+
+Code: SUIT34 | Select styles, reg. $60-$275
+
+Shop Guys Home Sale Up To 60% Off
+
+Select styles.
+
+Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses Shop Home Decor   Red Zone End Of Season Clearance! New Markdowns 50 to 70% Off
 
 In Store &. Online
 
-Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Jan 28 22:16:23 CST 2017 JVM :->. dtexppr1l2j1\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Jan 28 22:16:19 CST 2017 JVM :->. dtexppr1l2j4\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Jan 29 22:04:30 CST 2017 JVM :->. dtexppr1c2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Jan 29 04:01:41 CST 2017 JVM :->. dtexppr1c2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
