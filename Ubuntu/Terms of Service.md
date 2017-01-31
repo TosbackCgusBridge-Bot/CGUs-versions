@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   48% of people unaware their IoT devices pose a security threat ›
+*   Installing a DIY Bare Metal GPU cluster for Kubernetes ›
 *   Ubuntu Core – how to enable aliases for your snaps commands ›
 *   Award-winning drone technology with Ubuntu ›
-*   ROS on arm64 with Ubuntu Core ›
-*   Deploying The Canonical Distribution of Kubernetes onto AWS ›
