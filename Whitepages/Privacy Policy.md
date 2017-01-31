@@ -1,25 +1,25 @@
-xytfqxsvxbdyf
+qqqqwrc
 
 *   Person
 *   Reverse Phone Phone
 *   Reverse Address Address
 *   Business
 
-First and Last Name City, State or ZIP Search Cancel
+Name Location Search Cancel
 
 *   e.g. Jon Snow
 *   City, State or ZIP
 
-Phone Search Cancel
+Number Search Cancel
 
 *   e.g. 206-867-5309
 
-Address Where Search Cancel
+Street Address Location Search Cancel
 
 *   e.g. 1600 Pennsylvania Ave NW
 *   City, State or ZIP
 
-Business Where Search Cancel
+Business Name Location Search Cancel
 
 *   e.g. TGI Fridays
 *   City, State or ZIP
