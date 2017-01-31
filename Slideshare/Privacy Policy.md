@@ -1,6 +1,5 @@
 Skip to main content LinkedIn Home
 
-*   What is LinkedIn?
 *   Join Today
 *   Sign In
 
