@@ -91,7 +91,7 @@ Our customers receive standard order status communications, such as order confir
 
 If you would like to be removed from our Saks Fifth Avenue catalog mailing list, please contact a Customer Service representative by mail, phone or email to stop receiving paper catalogs.
 
-Saks also communicates via mobile text alerts to customers who opt-in to the SAKS Alerts program. Users can opt-in here. You will receive up to 3 messages per week. No purchase necessary. Automated messages will be delivered to the phone number you provide at opt-in. For help, text HELP to short code 75283. To stop receiving alerts, text STOP to 75283. Message and data rates may apply.
+Saks also communicates via mobile text alerts to customers who opt-in to the SAKS Alerts program. Users can opt-in here. You will receive up to 5 messages per week. No purchase necessary. Automated messages will be delivered to the phone number you provide at opt-in. For help, text HELP to short code 75283. To stop receiving alerts, text STOP to 75283. Message and data rates may apply.
 
 Supported carriers: AT&T, Verizon Wireless, Sprint PCS, T-Mobile, Virgin Mobile, US Cellular
 
@@ -164,7 +164,7 @@ Text ATL to 75283 to get Atlanta, GA Saks Fifth Avenue store events delivered to
 
 Store Name Store Keyword Atlanta, GA ATL Bal Harbour, FL BAL Bala Cynwyd, PA BALA Beachwood CLE Bergen County BERGEN Beverly Hills LA Birmingham, AL AL Boca Raton, FL BOCA Boston, MA BOS Chevy Chase CHEVY Chicago, IL CHI Cincinnati, OH CINCI Store Name Store Keyword Columbus COL Dadeland DADE Fort Myers FTM Greenwich CT Houston HOU Indianapolis INDY Las Vegas LV Naples NAPLES New Orleans, LA NOLA New York City, NY NY Palm Beach PB Palm Beach Gardens PBG Store Name Store Keyword Palm Desert PALM Phoenix PX Raleigh, NC NC Richmond, VA VA San Antonio, TX SA San Francisco, CA SF Santa Barbara, CA SB Sarasota, FL SRQ Short Hills, NJ NJ South Coast Plaza SCP St. Louis STL Troy TROY Store Name Store Keyword Tulsa TULSA Tyson’s TYSONS Walt Whitman WW  
 
-By texting a Store Keyword you will also be enrolled into Saks Text Alerts. You will receive no more than 3/msgs per week in total.
+By texting a Store Keyword you will also be enrolled into Saks Text Alerts. You will receive no more than 5/msgs per week in total.
 
 Are there any charges/user fees for receiving or sending Saks Text Alerts?
 
@@ -271,7 +271,7 @@ Our customers receive standard order status communications, such as order confir
 
 If you would like to be removed from our Saks Fifth Avenue catalog mailing list, please contact a Customer Service representative by mail, phone or email to stop receiving paper catalogs.
 
-Saks also communicates via mobile text alerts to customers who opt-in to the SAKS Alerts program. Users can opt-in here. You will receive up to 3 messages per week. No purchase necessary. Automated messages will be delivered to the phone number you provide at opt-in. For help, text HELP to short code 75283. To stop receiving alerts, text STOP to 75283. Message and data rates may apply.
+Saks also communicates via mobile text alerts to customers who opt-in to the SAKS Alerts program. Users can opt-in here. You will receive up to 5 messages per week. No purchase necessary. Automated messages will be delivered to the phone number you provide at opt-in. For help, text HELP to short code 75283. To stop receiving alerts, text STOP to 75283. Message and data rates may apply.
 
 Supported carriers: AT&T, Verizon Wireless, Sprint PCS, T-Mobile, Virgin Mobile, US Cellular
 
@@ -344,7 +344,7 @@ Text ATL to 75283 to get Atlanta, GA Saks Fifth Avenue store events delivered to
 
 Store Name Store Keyword Atlanta, GA ATL Bal Harbour, FL BAL Bala Cynwyd, PA BALA Beachwood CLE Bergen County BERGEN Beverly Hills LA Birmingham, AL AL Boca Raton, FL BOCA Boston, MA BOS Chevy Chase CHEVY Chicago, IL CHI Cincinnati, OH CINCI Store Name Store Keyword Columbus COL Dadeland DADE Fort Myers FTM Greenwich CT Houston HOU Indianapolis INDY Las Vegas LV Naples NAPLES New Orleans, LA NOLA New York City, NY NY Palm Beach PB Palm Beach Gardens PBG Store Name Store Keyword Palm Desert PALM Phoenix PX Raleigh, NC NC Richmond, VA VA San Antonio, TX SA San Francisco, CA SF Santa Barbara, CA SB Sarasota, FL SRQ Short Hills, NJ NJ South Coast Plaza SCP St. Louis STL Troy TROY Store Name Store Keyword Tulsa TULSA Tyson’s TYSONS Walt Whitman WW  
 
-By texting a Store Keyword you will also be enrolled into Saks Text Alerts. You will receive no more than 3/msgs per week in total.
+By texting a Store Keyword you will also be enrolled into Saks Text Alerts. You will receive no more than 5/msgs per week in total.
 
 Are there any charges/user fees for receiving or sending Saks Text Alerts?
 
