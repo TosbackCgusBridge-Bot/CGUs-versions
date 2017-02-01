@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 11.681,89ǀ
+*   DAX 11.535,31ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -77,7 +77,7 @@ Mein SPIEGEL
         *   Literatur
         *   Gutenberg
         *   Bestseller
-    
+    *   *   Hörbücher
 *   Video
 *   Netzwelt
     *   *   Übersicht
@@ -657,6 +657,7 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
     *   Kenken
     *   Streets
 *   *   Bücher bestellen
+    *   Hörbücher
     *   Arztsuche
     *   DSL-Vergleich
     *   Ferientermine
