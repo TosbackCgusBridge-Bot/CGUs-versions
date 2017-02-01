@@ -37,7 +37,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Obligations of senior financial officers
         *   Employee share plans
     
-    *   Contact us You can find the best way to get in touch with us here.
+    *   Structure and network Read more about HSBC's network and four global businesses.
 *   Our approach
     
     *   Our values
@@ -62,7 +62,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Health and safety
         *   Supplier code of conduct
     
-    *   Sustainability quick read Read an overview of sustainability at HSBC.
+    *   Diversity and inclusion Diversity benefits our customers, our business and our people.
 *   Investor relations
     
     *   Financial and regulatory reports
@@ -112,7 +112,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Culture
         *   Other sponsorships
     
-    *   Green finance in action HSBC’s first green bond is helping to support projects in 10 countries.
+    *   China steps up China is set to play a greater role on the global stage, says Stuart Gulliver.
 *   Careers
     
     *   Key hiring areas
@@ -146,8 +146,8 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Frequently asked questions
         
     
-    *   Students and graduates Discover our graduate programmes, internships and entry-level positions.
     *   Why HSBC? We have a supportive, inclusive and diverse environment.
+    *   Application hints and tips What to expect and how you can prepare for the process.
 
 Online bankingOnline banking
 
