@@ -65,6 +65,7 @@ Pick a theme
 *   Red
 *   Blue
 *   Pink
+*   Yellow
 
 Categories
 
