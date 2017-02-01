@@ -42,6 +42,6 @@ By using the Site, you indicate your agreement with the terms and conditions of 
 
 Back to top Contact Us
 
-Please contact us with any questions or comments regarding our privacy policy. You can call us at **1-888-4-DRJAYS** or email us at \[email protected\].
+Please contact us with any questions or comments regarding our privacy policy. You can call us at **1-888-4-DRJAYS** or email us at Service@DrJays.com.
 
 Back to top
