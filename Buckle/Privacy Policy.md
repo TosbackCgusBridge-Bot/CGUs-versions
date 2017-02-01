@@ -349,8 +349,6 @@ Returns
 
 Promotions
 
-*   Free Stainless Steel Mug
-*   Play With 2K Sweepstakes Official Rules
 *   Social Giveaway Official Rules
 *   Store Events
 *   Sweepstakes Winners
