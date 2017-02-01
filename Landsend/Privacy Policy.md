@@ -362,10 +362,11 @@ menu 0
     *   Shower Curtains
     
     KIDS ROOM >.
-    *   Sleeping Bags
     *   Kids Bedding
+    *   Seasonal Totes
     *   Toys &. Gifts
     *   Bean Bag Chairs
+    *   Sleeping Bags
     *   Baby BlanketsDOG SHOP >. SEASONAL DECOR >. ENTERTAINING >.
 
 *   Lands' End
@@ -704,10 +705,11 @@ menu 0
     *   Shower Curtains
     
     KIDS ROOM Back | KIDS ROOM
-    *   Sleeping Bags
     *   Kids Bedding
+    *   Seasonal Totes
     *   Toys &. Gifts
     *   Bean Bag Chairs
+    *   Sleeping Bags
     *   Baby BlanketsDOG SHOP Back | DOG SHOP SEASONAL DECOR Back | SEASONAL DECOR ENTERTAINING Back | ENTERTAINING
 
 Customer Service Menu
@@ -735,11 +737,9 @@ Privacy Last Updated: August 9‚ 2016
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
-Your use of this Site‚ and any disputes arising from it‚ are subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions‚ including arbitration‚ class action waiver‚ limitation on damages‚ and choice of law.
+Your use of this Site‚ and any disputes arising from it‚ are subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions‚ including arbitration‚ class action waiver‚ limitation on damages‚ and choice of law.
 
-Collection of Your Information
-
-Information You Provide to Us
+Collection of Your Information Information You Provide to Us
 
 We collect personal information from you when you interact with us via this Site‚ our retail locations‚ and/or our catalog business. Personal information is information that identifies you or is reasonably linked to you. The personal information we may collect includes your name‚ email address‚ mailing address‚ shipping address‚ phone number‚ and payment card information. When you ask us to ship an order‚ we collect the information you provide to us‚ such as the name‚ billing address‚ shipping address‚ and phone number of recipients. Here are some examples of ways in which you may choose to interact with us:
 
@@ -823,7 +823,7 @@ Interest-Based Advertisements/Online Advertisements
 
 Lands’ End works with third party service providers who help serve ads on our behalf on various online advertising networks. The online ad networks may use your browsing history across participating websites to show you interest-based advertisements on those websites. You may see ads for Lands’ End on participating websites based on how you browse our Site as well as how you browse those websites.
 
-To learn more about interest-based advertising‚ including how to opt out‚ click here. Please note that the opt-out mechanism relies on cookies to remember your choices with respect to ad-serving on websites. We may also use technologies‚ such as our own cookies‚ to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising‚ click here. If you delete your cookies‚ use another computer or device‚ or change browsers‚ you will need to repeat the opt-out process. Other websites you visit may offer their own opt-outs. If you do opt-out of interest-based advertisements‚ you may still see advertisements on websites you visit‚ but those ads will not be based on your browsing behavior.
+To learn more about interest-based advertising‚ including how to opt out‚ please visit http://www.networkadvertising.org/choices. Please note that the opt-out mechanism relies on cookies to remember your choices with respect to ad-serving on websites. We may also use technologies‚ such as our own cookies‚ to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising‚ please visit http://dtmc.landsend.com/adinfo/choice/prod/. If you delete your cookies‚ use another computer or device‚ or change browsers‚ you will need to repeat the opt-out process. Other websites you visit may offer their own opt-outs. If you do opt-out of interest-based advertisements‚ you may still see advertisements on websites you visit‚ but those ads will not be based on your browsing behavior.
 
 Disabling Cookies
 
@@ -870,15 +870,21 @@ If you are a California resident and Lands’ End customer you have the right to
 
 You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Lands’ End’s designated email address for such requests is websiteinquiry@landsend.com.
 
-Contact Us
+Contact Us Request to Receive Catalogs
 
-Request to Receive Catalogs: If you would like to receive our catalogs‚ please call **1-800-963-4816** websiteinquiry@landsend.com. We will need your name‚ address‚ and telephone number to mail catalogs to you.
+If you would like to receive our catalogs‚ please call **1-800-963-4816** or e-mail websiteinquiry@landsend.com. We will need your name‚ address‚ and telephone number to mail catalogs to you.
 
-Request to Stop Catalogs: If you would like to stop receiving our catalogs‚ please call **1-800-963-4816** or email websiteinquiry@landsend.com. It may take 2-4 weeks to process your request.
+Request to Stop Catalogs
 
-Request to Opt Out of Third Party Marketing: We may make portions of our catalog and e-mail lists available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld from these lists‚ please call us toll-free at**1-800-963-4816** or send an email to websiteinquiry@landsend.com.
+If you would like to stop receiving our catalogs‚ please call **1-800-963-4816** or e-mail websiteinquiry@landsend.com. It may take 2-4 weeks to process your request.
 
-General Privacy Questions: If you have questions about this Privacy Policy‚ please use our Contact Us Form‚ call **1-800-963-4816** or send an email‚ including your name and mailing address‚ to websiteinquiry@landsend.com.
+Request to Opt Out of Third Party Marketing
+
+We may make portions of our catalog and e-mail lists available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld from these lists‚ please call us toll-free at**1-800-963-4816** or send an email to websiteinquiry@landsend.com.
+
+General Privacy Questions
+
+If you have questions about this Privacy Policy‚ please use our Contact Us Form‚ call **1-800-963-4816** or send an email‚ including your name and mailing address‚ to websiteinquiry@landsend.com.
 
 Addendum to Privacy Policy Page Text Message Terms of Use
 
