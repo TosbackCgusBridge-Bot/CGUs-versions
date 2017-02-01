@@ -1,4 +1,4 @@
-qqqqwrc
+tatzebwwzterbqbddufqu
 
 *   Person
 *   Reverse Phone Phone
@@ -36,7 +36,7 @@ A. INFORMATION WE COLLECT 1. Why do we collect data?
 
 We collect data in order to effectively provide useful products and services to you and others. We also use this data to improve the quality of those products and services.
 
-2\. What kind of data to you collect?
+2\. What kind of data do you collect?
 
 We collect information such as:
 
