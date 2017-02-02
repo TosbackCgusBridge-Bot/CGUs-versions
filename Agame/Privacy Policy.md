@@ -111,10 +111,10 @@ View more results
     
     *   Nitro Heads
     *   Cats Empire
-    *   Pocket Starships
-    *   Truck Trials
-    *   Jewel Academy
-    *   8-Ball
+    *   Forge of Empires
+    *   Klondike - the lost expedition
+    *   Crazy Hill Driver
+    *   FGP Bubble Shooter
     
     Mobile Apps More
     
