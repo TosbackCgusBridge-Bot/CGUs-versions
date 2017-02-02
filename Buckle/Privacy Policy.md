@@ -76,7 +76,7 @@
         
           
           
-        Give a Buckle Gift card Celebrate the Lunar New Year! Shop New Arrivals
+        Give a Buckle Gift card Gifts better than chocolate! Shop Valentine’s Day
 *   Men
     *   *   Featured
         
@@ -128,7 +128,7 @@
         
           
           
-        Give a Buckle Gift card Celebrate the Lunar New Year! Shop New Arrivals
+        Give a Buckle Gift card Gifts better than chocolate! Shop Valentine’s Day
 *   Kids
     *   *   Featured
         
@@ -155,7 +155,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Celebrate the Lunar New Year! Shop New Arrivals
+        Give a Buckle Gift card Gifts better than chocolate! Shop Valentine’s Day
 *   Jeans
     *   *   Women's Jeans
         
@@ -179,7 +179,7 @@
         *   Girl's Jeans
         *   Boy's Jeans
         
-        Give a Buckle Gift card Celebrate the Lunar New Year! Shop New Arrivals
+        Give a Buckle Gift card Gifts better than chocolate! Shop Valentine’s Day
 *   New
     *   *   Women's New
         
@@ -210,7 +210,7 @@
         *   Boy's New Jeans
         *   Shop All
         
-        Give a Buckle Gift card Celebrate the Lunar New Year! Shop New Arrivals
+        Give a Buckle Gift card Gifts better than chocolate! Shop Valentine’s Day
 *   Sale
     *   *   Women's Sale
         
@@ -251,7 +251,7 @@
         
           
           
-        Give a Buckle Gift card Celebrate the Lunar New Year! Shop New Arrivals
+        Give a Buckle Gift card Gifts better than chocolate! Shop Valentine’s Day
 
 A Global Message! × Privacy &. Security
 
