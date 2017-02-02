@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 Today's Headlines
 
-**Boxer Crabs Clone Their Anemone Bioweapons**
+**Is That a Cricket in Your Cocktail?**
 
-**Why Do Ads Say 'the Big Game' Instead of 'the Super Bowl'?**
+**'E.T.' For Real? Newly Discovered 100 Million-year-old Insect Looks Like Alien**
 
-**All Mouth, No Anus: Microscopic Organism Could Be Oldest Human Ancestor**
+**Supermarkets of the Future Are Going to Be Weird in So Many Ways**
 
 **See More Headlines »**
 
