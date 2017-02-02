@@ -20,19 +20,18 @@ Skip to main content
         3.  Cable
             1.  Bravo Media Bravo Media Original pop culture programming including the best in food, fashion, beauty and reality. Bravo Media
             2.  Chiller Chiller The brand dedicated to round-the-clock scares with an entertaining lineup of high-quality horror. Chiller
-            3.  Cloo Cloo The new destination for original crime and mystery series, contemporary scripted dramas and the genre's best movies. Cloo
-            4.  CNBC CNBC The world leader in business news featuring real-time financial market and business coverage to approximately 371 million homes worldwide. CNBC
-            5.  E! Entertainment E! Entertainment The only global, multiplatform brand for all things pop culture. News, reality and original scripted content. E! Entertainment
-            6.  Golf Channel Golf Channel A multimedia golf entertainment &. service company featuring exclusive partnerships with the world’s top tours and more live golf coverage than all other networks combined. Golf Channel
-            7.  MSNBC MSNBC The premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. MSNBC
-            8.  NBC Sports Network (NBCSN) NBC Sports Network (NBCSN) Serves today's passionate sports fans with coverage of the Summer and Winter Olympics, NHL, Premier League, Formula One, MLS, Tour de France and more. NBC Sports Network (NBCSN)
-            9.  NBC UNIVERSO NBC UNIVERSO Modern general entertainment for Latinos, bringing the world's top sports franchises and edgy, emotional programming to more than 40 million households. NBC UNIVERSO
-            10.  Oxygen Media Oxygen Media Multiplatform brand targeting young multicultural women. Features unscripted original programming that reflects how very real women see the world. Oxygen Media
-            11.  Sprout Sprout Sprout is the 24-hour preschool TV network that reflects real kids and the real worlds they are growing up in. Sprout
-            12.  Syfy Syfy A leader in imagination-based entertainment, including year round original series, events, blockbuster movies, classic science fiction &. fantasy. Syfy
-            13.  The Weather Channel Company The Weather Channel Company Provides millions of people every day with the world's best weather forecasts, content and data. The Weather Channel Company
-            14.  Universal HD Universal HD The best Universal movies and sports programming in high-definition. Universal HD
-            15.  USA Network USA Network A powerful portfolio of scripted and unscripted drama and comedy originals seen in more than 102 million U.S. homes. USA Network
+            3.  CNBC CNBC The world leader in business news featuring real-time financial market and business coverage to approximately 371 million homes worldwide. CNBC
+            4.  E! Entertainment E! Entertainment The only global, multiplatform brand for all things pop culture. News, reality and original scripted content. E! Entertainment
+            5.  Golf Channel Golf Channel A multimedia golf entertainment &. service company featuring exclusive partnerships with the world’s top tours and more live golf coverage than all other networks combined. Golf Channel
+            6.  MSNBC MSNBC The premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. MSNBC
+            7.  NBC Sports Network (NBCSN) NBC Sports Network (NBCSN) Serves today's passionate sports fans with coverage of the Summer and Winter Olympics, NHL, Premier League, Formula One, MLS, Tour de France and more. NBC Sports Network (NBCSN)
+            8.  NBC UNIVERSO NBC UNIVERSO Modern general entertainment for Latinos, bringing the world's top sports franchises and edgy, emotional programming to more than 40 million households. NBC UNIVERSO
+            9.  Oxygen Media Oxygen Media Multiplatform brand targeting young multicultural women. Features unscripted original programming that reflects how very real women see the world. Oxygen Media
+            10.  Sprout Sprout Sprout is the 24-hour preschool TV network that reflects real kids and the real worlds they are growing up in. Sprout
+            11.  Syfy Syfy A leader in imagination-based entertainment, including year round original series, events, blockbuster movies, classic science fiction &. fantasy. Syfy
+            12.  The Weather Channel Company The Weather Channel Company Provides millions of people every day with the world's best weather forecasts, content and data. The Weather Channel Company
+            13.  Universal HD Universal HD The best Universal movies and sports programming in high-definition. Universal HD
+            14.  USA Network USA Network A powerful portfolio of scripted and unscripted drama and comedy originals seen in more than 102 million U.S. homes. USA Network
         4.  Digital Businesses
             1.  Fandango Fandango The nation's leading moviegoer destination. Sells tickets to more than 24,000 screens nationwide. Fandango
             2.  GolfNow GolfNow Uses leading-edge technology to offers nearly 2 million registered golfers more ways to stay connected to their favorite courses and tee times. GolfNow
@@ -83,7 +82,6 @@ Skip to main content
             *   CABLE
                 *   Bravo Media
                 *   Chiller
-                *   Cloo
                 *   CNBC
                 *   E! Entertainment
                 *   Golf Channel
