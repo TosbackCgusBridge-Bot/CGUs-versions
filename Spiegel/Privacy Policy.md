@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 11.535,31ǀ
+*   DAX 11.659,50ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -77,6 +77,7 @@ Mein SPIEGEL
         *   Literatur
         *   Gutenberg
         *   Bestseller
+        *   Buchrezensionen
     *   *   Hörbücher
 *   Video
 *   Netzwelt
