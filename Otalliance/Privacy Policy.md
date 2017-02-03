@@ -94,10 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Jan 31, 2017 Data Privacy &. Protection Day – Congressional Staff Lunch Briefing
-
-Co-hosted by the Congressional Cybersecurity Caucus and OTA, please join OTA and industry leaders from Identity Guard, LifeLock, Symantec &. Verisign for a briefing on the emerging threat landscape, including breaches, ransomware and business email compromise exploits.  Panel will discuss best practices to help prevent these from occurring and how best to respond to an incident.
-
 Fri, Feb 3, 2017 START with Privacy
 
 START With Privacy: will bring together thought leaders in academia, business, government and technology.  We will explore in-depth the relationship between privacy and security threats in the digital environment, led by experts in both fields.  UW’s Tech Policy Lab is hosting this first-of-its-kind gathering.  The conference will also mark the debut of a new tool developed by Washington state:  a “Privacy Modeling” application created
@@ -111,6 +107,10 @@ Mon, Feb 13, 2017 OTA Industry Leaders at RSA Conference 2017
 **Join OTA at the Non-Profits On the Loose Reception on Feb 14th**
 
 **Featured Sessions - Reserve Your Seat Today!**
+
+Mon, Feb 13, 2017 RSA Conference 2017
+
+RSA Conference 2017 provides the opportunity for all attendees at all levels to grow their knowledge, exchange ideas with peers and further their careers. With opportunity comes great responsibility for the future. Our actions today will have a lasting impact on the strength of the industry—and the safety of the world—tomorrow. Don’t miss out on this amazing opportunity from February 13 to 17 in San Francisco! OTA members get additional $100 off:  **1U7OTAFD** 
 
 More >>.
 
