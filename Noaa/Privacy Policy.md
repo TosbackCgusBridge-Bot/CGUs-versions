@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms NOAA’s GOES-16 satellite sends first images of Earth Higher-resolution details will lead to more accurate forecasts AROUND NOAA // New tool helps oyster growers prepare for changing ocean chemistry 2016 marks three consecutive years of record warmth for the globe NOAA satellites helped save 307 lives in 2016
+Enter Search Terms Seeing shadows: How the groundhog stacks up against the climate record Groundhogs are cute, but are they accurate forecasters? AROUND NOAA // New tool helps oyster growers prepare for changing ocean chemistry NOAA’s GOES-16 satellite sends first images of Earth 2016 marks three consecutive years of record warmth for the globe
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-NOAA/NASA
+iStock
