@@ -3,6 +3,7 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
+    *   Stock Up Event
     *   Prince + Fox
     *   Cape Juby
     *   Uniform
@@ -17,6 +18,7 @@ Aéropostale
     *   Polos
     *   Shirts
     *   Hoodies + Sweatshirts
+    *   Long Sleeve
     *   Sweaters
     *   Bodysuits
     *   Active Tops
@@ -46,6 +48,7 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
+    *   Stock Up Event
     *   Prince &. Fox
     *   Cape Juby
     *   Uniform
