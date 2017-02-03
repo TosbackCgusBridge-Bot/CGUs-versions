@@ -85,7 +85,7 @@ privacy.officer@hsn.net
 
 Your California Privacy Rights
 
-California Residents :
+**California Residents** :
 
 *   If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties and the HSNi companies for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information:
 
