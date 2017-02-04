@@ -217,4 +217,4 @@ S
 *   Software Disclaimer
 *   Sonic Wire Plan
 
-Retrieved from "https://wiki.sonic.net/index.php?title=Category:Policies&oldid=5661"
+Retrieved from "https://wiki.sonic.net/index.php?title=Category:Policies&oldid=5902"
