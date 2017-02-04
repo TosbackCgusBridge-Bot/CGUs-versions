@@ -150,7 +150,7 @@ Connect With Us
 
 Terms, conditions, charges and restrictions apply. Speed and uninterrupted service not guaranteed. Not all services available in all areas. Services and pricing subject to change.
 
-© 2016 FairPoint Communications, Inc. All rights reserved.
+© 2017 FairPoint Communications, Inc. All rights reserved.
 
 x Where Do You Live?
 
