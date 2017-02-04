@@ -5,11 +5,11 @@ Fitbit
         Fitness**
         *   Fitbit Zip®
         *   Fitbit One®
-        *   Fitbit Flex 2™ New
+        *   Fitbit Flex 2™
         *   Fitbit Alta™
     *   **Active  
         Fitness**
-        *   Fitbit Charge 2™ New
+        *   Fitbit Charge 2™
         *   Fitbit Blaze™
     *   **Performance  
         Fitness**
