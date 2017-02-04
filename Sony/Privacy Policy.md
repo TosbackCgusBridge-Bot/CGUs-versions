@@ -123,9 +123,9 @@ Play Video
 
 Sony on Instagram
 
-Discover expert tips for shooting action at our Photography Hub.
+A @mirandalambert #HighwayVagabondTour concert in Charleston. Pretty cool, right? Get your bids in.
 
-2017-01-31 00:01:42+00:00
+2017-02-01 14:17:01+00:00
 
 View Tweet
 
@@ -185,9 +185,9 @@ Close
 
 Check Out the a6500
 
-With a 42.4-megapixel full-frame sensor, the RX1R II is the compact camera for the professionals.
+On questing, story, and a new hero in Horizon Zero Dawn. Watch our video profile of the team at Guerrilla Games.
 
-2017-01-31 01:00:09+00:00
+2017-02-03 12:02:01+00:00
 
 View Tweet
 
@@ -313,9 +313,9 @@ Close
 
 Take The Quiz
 
-What are your 2017 gaming resolutions?
+We are taking over The Sound Lab at @SonySquareNYC! Drop by for a Sony x RCA experience!
 
-2017-01-23 06:00:00+00:00
+2017-02-02 21:48:01+00:00
 
 View Tweet
 
