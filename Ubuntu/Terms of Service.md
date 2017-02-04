@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Cloud Chatter: January 2017 ›
+*   Snapcraft 2.26 has been released ›
+*   The first consumer device to run snaps: Nextcloud box ›
 *   Run scripts during snapcraft builds with “scriptlets” ›
-*   Industrial IoT Revolution with Raspberry Pi Compute Module 3 ›
-*   48% of people unaware their IoT devices pose a security threat ›
-*   Installing a DIY Bare Metal GPU cluster for Kubernetes ›
