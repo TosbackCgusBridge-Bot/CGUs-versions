@@ -51,9 +51,10 @@ menu 0
     *   New Arrivals
     *   Best of Spring
     *   The Starfish Collection
-    *   Supima Shirts &. Sweaters
+    *   Supima® Cotton Collection
     *   Tunic Shop
     *   Cardigan Shop
+    *   The Edit
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -66,7 +67,7 @@ menu 0
     *   Tall Plus
     
     CATEGORIES
-    *   Coats
+    *   Swimsuits
     *   Sweaters
     *   Knit Tops &. Tees
     *   Shirts &. Blouses
@@ -77,7 +78,7 @@ menu 0
     *   Skirts
     *   Blazers &. Jackets
     *   Activewear
-    *   Swimsuits
+    *   Coats
     *   Sleepwear
     *   Shoes
     *   Accessories
@@ -137,6 +138,7 @@ menu 0
     
     *   New Arrivals
     *   Outerwear Sale
+    *   Swim Shop
     *   School Uniforms
     *   Iron Knee Pants
     *   Girls' Knit Kit
@@ -154,6 +156,7 @@ menu 0
     Girls>.
     
     *   Outerwear
+    *   Swimsuits
     *   Tops
     *   Sweaters
     *   Dresses
@@ -164,13 +167,13 @@ menu 0
     *   Shorts
     *   Blazers &. Jackets
     *   Backpacks &. Lunch Boxes
-    *   Swimsuits
     *   Shoes
     *   Accessories
     *   Long Underwear
     
     Boys>.
     *   Outerwear
+    *   Swimwear
     *   Tops
     *   Sweaters
     *   Pants
@@ -180,7 +183,6 @@ menu 0
     *   Blazers &. Jackets
     *   Backpacks &. Lunch Boxes
     *   Activewear
-    *   Swimwear
     *   Shoes
     *   Accessories
     *   Long Underwear
@@ -395,9 +397,10 @@ menu 0
     *   New Arrivals
     *   Best of Spring
     *   The Starfish Collection
-    *   Supima Shirts &. Sweaters
+    *   Supima® Cotton Collection
     *   Tunic Shop
     *   Cardigan Shop
+    *   The Edit
     *   Sale
     
     SHOP BY SIZE RANGE Back | Women
@@ -410,7 +413,7 @@ menu 0
     *   Tall Plus
     
     CATEGORIES Back | CATEGORIES
-    *   Coats
+    *   Swimsuits
     *   Sweaters
     *   Knit Tops &. Tees
     *   Shirts &. Blouses
@@ -421,7 +424,7 @@ menu 0
     *   Skirts
     *   Blazers &. Jackets
     *   Activewear
-    *   Swimsuits
+    *   Coats
     *   Sleepwear
     *   Shoes
     *   Accessories
@@ -481,6 +484,7 @@ menu 0
     
     *   New Arrivals
     *   Outerwear Sale
+    *   Swim Shop
     *   School Uniforms
     *   Iron Knee Pants
     *   Girls' Knit Kit
@@ -498,6 +502,7 @@ menu 0
     Girls Back | Girls
     
     *   Outerwear
+    *   Swimsuits
     *   Tops
     *   Sweaters
     *   Dresses
@@ -508,13 +513,13 @@ menu 0
     *   Shorts
     *   Blazers &. Jackets
     *   Backpacks &. Lunch Boxes
-    *   Swimsuits
     *   Shoes
     *   Accessories
     *   Long Underwear
     
     Boys Back | Boys
     *   Outerwear
+    *   Swimwear
     *   Tops
     *   Sweaters
     *   Pants
@@ -524,7 +529,6 @@ menu 0
     *   Blazers &. Jackets
     *   Backpacks &. Lunch Boxes
     *   Activewear
-    *   Swimwear
     *   Shoes
     *   Accessories
     *   Long Underwear
