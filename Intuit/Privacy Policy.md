@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true C15734036418
+true true L15748187475
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p07.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Thu Feb 02 11:15:30 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.13.0.0.239.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Fri Feb 03 11:15:21 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.13.0.0.239.0
 
 *   for the home
 *   bed &. bath
@@ -56,7 +56,47 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Feb 02 22:35:05 CST 2017 JVM :->. dtexppr1c1j2\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Feb 02 22:36:12 CST 2017 JVM :->. dtexppr1c1j1\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Stretch Your Penney Sale
+
+In Store &. Online | Ends February 8
+
+Shop Now View Store Ad 9.99 Xersion Tank for Her, select styles, reg. $18 14.99 Men's Xersion Shorts, select styles, reg. $30 25% Off Men's &. Women's Nike Apparel &. Shoes, select styles, Nike excluded from coupon Women Women's Shoes Men Men's Shoes Valentine's Jewelry Sale
+
+Through February 14
+
+40 to 60% Off Fine and Fashion Jewelry
+
+Select styles
+
+Shop Jewelry Sale Looks You'll Love 39.99 V-Neck Textured Sheath Dress
+
+Select styles, reg. $60
+
+Shop Women   Shop Women's Dress Shoes50% Off Men's Suit Separates, Sport Coats &. Dress Pants
+
+Select styles, reg. $60-$275
+
+Shop Men   Love Worth Giving Valentine's Day is February 14th Shop Gifts Under $10 Shop Gifts Under $25 Shop Women Shop Men Shop Anyone Shop All Gifts Shop Gift Cards$10 Off $10 Coupon Ends February 14 | Spend $75 on Gift Cards and get a $10 off $10 coupon
+
+Redeemable 2/15/17-2/28/17 in store and online. Some restrictions apply. Applies to E-Gift Cards and Gift Cards purchased in store.
+
+Get Details: Home Sale Up To 60% Off
+
+Select styles.
+
+Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses Shop Home Decor   Red Zone End Of Season Clearance! New Markdowns 50 to 70% Off
+
+In Store &. Online
+
+Shop Now JCP Salon
+
+Join us as we become The Salon by InStyle
+
+Want To Have a Great Hair Day?
+
+Check out the jcp salon.
+
+Book Your Appointment Sephora Shop Men's Fragrance 2017 Prom Shop Now Baby Sale Up To 50% Off Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Feb 03 22:14:28 CST 2017 JVM :->. dtexppr1c1j1\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Feb 03 22:14:28 CST 2017 JVM :->. dtexppr1l1j5\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
