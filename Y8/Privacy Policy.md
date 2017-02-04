@@ -9,7 +9,7 @@ My Profile points
 
 *   My Profile
 *   Edit Profile
-*   My games
+*   My games ()
 *   Log out
 
 Powered by
