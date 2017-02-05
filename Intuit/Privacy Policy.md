@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true L15748187475
+true true C15735289031
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Fri Feb 03 11:15:21 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.13.0.0.239.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Sat Feb 04 11:15:31 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.13.0.0.239.0
 
 *   for the home
 *   bed &. bath
@@ -60,7 +60,15 @@ Stretch Your Penney Sale
 
 In Store &. Online | Ends February 8
 
-Shop Now View Store Ad 9.99 Xersion Tank for Her, select styles, reg. $18 14.99 Men's Xersion Shorts, select styles, reg. $30 25% Off Men's &. Women's Nike Apparel &. Shoes, select styles, Nike excluded from coupon Women Women's Shoes Men Men's Shoes Valentine's Jewelry Sale
+Shop Now View Store Ad 9.99 Xersion Tank for Her, select styles, reg. $18 14.99 Men's Xersion Shorts, select styles, reg. $30 25% Off Men's &. Women's Nike Apparel &. Shoes, select styles, Nike excluded from coupon Women Women's Shoes Men Men's Shoes Home Flash Sale
+
+Today Online Only! | Ends February 4 | Code: 2HOME
+
+Extra 30% Off\* $100 or More Or, Extra 25% Off Select Home Already 30 to 50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds &. Shades
+
+\*exclusions and details
+
+Get Details Bedding Kitchen &. Dining Bath Dinnerware Curtains &. Drapes Home Decor Luggage Furniture &. Mattresses Valentine's Jewelry Sale
 
 Through February 14
 
@@ -80,11 +88,7 @@ Shop Men   Love Worth Giving Valentine's Day is February 14th Shop Gifts Under 
 
 Redeemable 2/15/17-2/28/17 in store and online. Some restrictions apply. Applies to E-Gift Cards and Gift Cards purchased in store.
 
-Get Details: Home Sale Up To 60% Off
-
-Select styles.
-
-Shop All Home Shop Bedding Shop Curtains &. Drapes Shop Kitchen &. Dining Shop Furniture &. Mattresses Shop Home Decor   Red Zone End Of Season Clearance! New Markdowns 50 to 70% Off
+Get Details: Red Zone End Of Season Clearance! New Markdowns 50 to 70% Off
 
 In Store &. Online
 
@@ -96,7 +100,7 @@ Want To Have a Great Hair Day?
 
 Check out the jcp salon.
 
-Book Your Appointment Sephora Shop Men's Fragrance 2017 Prom Shop Now Baby Sale Up To 50% Off Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Feb 03 22:14:28 CST 2017 JVM :->. dtexppr1c1j1\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Feb 03 22:14:28 CST 2017 JVM :->. dtexppr1l1j5\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Book Your Appointment Sephora Shop Men's Fragrance 2017 Prom Shop Now Baby Sale Up To 50% Off Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Feb 04 22:28:24 CST 2017 JVM :->. dtexppr1c1j5\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Feb 04 22:27:27 CST 2017 JVM :->. dtexppr1c1j1\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
