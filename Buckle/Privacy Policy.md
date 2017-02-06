@@ -140,18 +140,13 @@
         *   Girl's Clothing
         
         *   Tops
-        *   Vests
-        *   Jeans
-        *   Sweatshirts
+        *   Bottoms
         *   Shop All
         
         *   Boy's Clothing
         
-        *   Shirts
-        *   Jeans
-        *   Coats/Jackets
-        *   Accessories
-        *   Shoes
+        *   Tops
+        *   Bottoms
         *   Shop All
         
           
