@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true C15735289031
+true true L15751368825
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p09.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Sat Feb 04 11:15:31 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.13.0.0.239.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1l1j5 TIME :->. Sun Feb 05 11:15:34 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.13.0.0.239.0
 
 *   for the home
 *   bed &. bath
@@ -60,15 +60,11 @@ Stretch Your Penney Sale
 
 In Store &. Online | Ends February 8
 
-Shop Now View Store Ad 9.99 Xersion Tank for Her, select styles, reg. $18 14.99 Men's Xersion Shorts, select styles, reg. $30 25% Off Men's &. Women's Nike Apparel &. Shoes, select styles, Nike excluded from coupon Women Women's Shoes Men Men's Shoes Home Flash Sale
+Shop Now View Store Ad 9.99 Xersion Tank for Her, select styles, reg. $18 14.99 Men's Xersion Shorts, select styles, reg. $3054.99 to 59.99 Men's &. Women's Adidas Shoes
 
-Today Online Only! | Ends February 4 | Code: 2HOME
+Select styles. Adidas excluded from coupon
 
-Extra 30% Off\* $100 or More Or, Extra 25% Off Select Home Already 30 to 50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds &. Shades
-
-\*exclusions and details
-
-Get Details Bedding Kitchen &. Dining Bath Dinnerware Curtains &. Drapes Home Decor Luggage Furniture &. Mattresses Valentine's Jewelry Sale
+Women's Shoes Men's Shoes Valentine's Jewelry Sale
 
 Through February 14
 
@@ -88,11 +84,37 @@ Shop Men   Love Worth Giving Valentine's Day is February 14th Shop Gifts Under 
 
 Redeemable 2/15/17-2/28/17 in store and online. Some restrictions apply. Applies to E-Gift Cards and Gift Cards purchased in store.
 
-Get Details: Red Zone End Of Season Clearance! New Markdowns 50 to 70% Off
+Get Details: Home Sale Up to 60% Off
 
-In Store &. Online
+Select styles.
 
-Shop Now JCP Salon
+All Home Bedding Curtains &. Drapes Kitchen &. Dining Furniture &. Mattresses Home Decor   Now Online &. In Select Stores! Major Appliances From Your Favorite Brands.
+
+Need help? Call 1-844-JCP-APPL (1-844-527-2775)
+
+Delivery not available in all markets.
+
+Get Details:Up to 20% Off\* Major Appliances, select styles
+
+\+ Extra 10% Off with code: stove7
+
+Shop Major Appliances:
+
+\*GE, GE Profile &. GE Cafe limited to 10% off savings.
+
+18 Months or 30 Months Special Financing\*\*
+
+Available on qualifying major appliance purchases made through 2/20/17 on a JCPenney Credit Card. Must request at time of purchase.
+
+\*\*Get Details:
+
+Don't have a JCPenney Credit Card?
+
+Apply Now:Free Delivery &. Basic Installation
+
+On all appliance purchases over $299
+
+Get Details: JCP Salon
 
 Join us as we become The Salon by InStyle
 
@@ -100,7 +122,11 @@ Want To Have a Great Hair Day?
 
 Check out the jcp salon.
 
-Book Your Appointment Sephora Shop Men's Fragrance 2017 Prom Shop Now Baby Sale Up To 50% Off Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Feb 04 22:28:24 CST 2017 JVM :->. dtexppr1c1j5\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Feb 04 22:27:27 CST 2017 JVM :->. dtexppr1c1j1\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Book Your Appointment Sephora Hot Now Shop New Beauty SportsFanShop Thousands of football, baseball, basketball and soccer products available!
+
+Excluded from coupon.
+
+Shop Now 50 to 70% Off Clearance In Store &. Online Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Feb 05 18:08:16 CST 2017 JVM :->. dtexppr1l1j4\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Feb 05 18:08:15 CST 2017 JVM :->. dtexppr1l1j4\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
