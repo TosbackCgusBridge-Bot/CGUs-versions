@@ -94,10 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Fri, Feb 3, 2017 START with Privacy
-
-START With Privacy: will bring together thought leaders in academia, business, government and technology.  We will explore in-depth the relationship between privacy and security threats in the digital environment, led by experts in both fields.  UW’s Tech Policy Lab is hosting this first-of-its-kind gathering.  The conference will also mark the debut of a new tool developed by Washington state:  a “Privacy Modeling” application created
-
 Tue, Feb 7, 2017 2017 Cyber Incident &. Breach Readiness Webinar
 
 Webinar to review highlights of the 2017 Cyber Incident and Breach Readiness Plan. Attend to learn best practices to help protect your data, complete risk assessments and develop an adequate response plan. Download the guide in advance of the webinar at https://otalliance.org/Incident.  Speakers to include representatives from Identity Guard, LifeLock, Symantec &. Verisign.
@@ -111,6 +107,8 @@ Mon, Feb 13, 2017 OTA Industry Leaders at RSA Conference 2017
 Mon, Feb 13, 2017 RSA Conference 2017
 
 RSA Conference 2017 provides the opportunity for all attendees at all levels to grow their knowledge, exchange ideas with peers and further their careers. With opportunity comes great responsibility for the future. Our actions today will have a lasting impact on the strength of the industry—and the safety of the world—tomorrow. Don’t miss out on this amazing opportunity from February 13 to 17 in San Francisco! OTA members get additional $100 off:  **1U7OTAFD** 
+
+Tue, Feb 14, 2017 RSA Conference - Non-Profits On the Loose. Heartbreaker’s Bash  
 
 More >>.
 
