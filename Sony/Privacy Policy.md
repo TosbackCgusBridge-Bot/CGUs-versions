@@ -89,7 +89,25 @@ Phone and Tablet AppsThe best of what Sony has to offer on iOS or Android. Downl
 
 *   Support
 
-Your browser does not support JavaScript! Picture Quality So Great, You’ll Feel Like You’re in the Stadium
+Your browser does not support JavaScript! What Happens When a Space Crew Finds the First Evidence of Extraterrestrial Life?
+
+Learn More About “LIFE”
+
+Close
+
+*   Share
+*   Share on Facebook
+*   Share on Twitter
+*   Share on Tumblr
+*   Copy URL to share What Happens When a Space Crew Finds the First Evidence of Extraterrestrial Life?
+
+Play Video
+
+Sony on YouTube
+
+Play Video
+
+Picture Quality So Great, You’ll Feel Like You’re in the Stadium
 
 Make Game Day Better with 4K
 
