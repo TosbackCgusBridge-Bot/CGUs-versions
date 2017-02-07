@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   10 crazy IoT ideas that can be real shortly ›
 *   Cloud Chatter: January 2017 ›
 *   Snapcraft 2.26 has been released ›
 *   The first consumer device to run snaps: Nextcloud box ›
-*   Run scripts during snapcraft builds with “scriptlets” ›
