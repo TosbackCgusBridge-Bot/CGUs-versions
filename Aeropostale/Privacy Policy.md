@@ -3,6 +3,7 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
+    *   Stock Up Event
     *   Prince + Fox
     *   Cape Juby
     *   Uniform
@@ -47,6 +48,7 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
+    *   Stock Up Event
     *   Prince &. Fox
     *   Cape Juby
     *   Uniform
