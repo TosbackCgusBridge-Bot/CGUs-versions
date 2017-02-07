@@ -51,9 +51,8 @@ The Christian Post is a member of the Evangelical Press Association, a member of
 Contact Information
 
 The Christian Post  
-1400 Eye St NW  
-Suite 375  
-Washington, DC 20005  
+6200 Second Street, NW  
+Washington, DC 20011  
 
 For more information, please visit contact us.
 
