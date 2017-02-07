@@ -4,6 +4,7 @@
     *   Tealium DataAccess
 *   Integrations
 *   Resources
+    *   Preparing for GDPR
     *   Case Studies
     *   Whitepapers
     *   Videos
