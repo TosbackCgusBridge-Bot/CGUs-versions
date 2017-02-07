@@ -76,7 +76,7 @@
         
           
           
-        Give a Buckle Gift card Gifts better than chocolate! Shop Valentine’s Day
+        Give a Buckle Gift card Enter the F8 Red Carpet Sweepstakes! Act NOW.
 *   Men
     *   *   Featured
         
@@ -128,7 +128,7 @@
         
           
           
-        Give a Buckle Gift card Gifts better than chocolate! Shop Valentine’s Day
+        Give a Buckle Gift card Enter the F8 Red Carpet Sweepstakes! Act NOW.
 *   Kids
     *   *   Featured
         
@@ -150,7 +150,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Gifts better than chocolate! Shop Valentine’s Day
+        Give a Buckle Gift card Enter the F8 Red Carpet Sweepstakes! Act NOW.
 *   Jeans
     *   *   Women's Jeans
         
@@ -174,7 +174,7 @@
         *   Girl's Jeans
         *   Boy's Jeans
         
-        Give a Buckle Gift card Gifts better than chocolate! Shop Valentine’s Day
+        Give a Buckle Gift card Enter the F8 Red Carpet Sweepstakes! Act NOW.
 *   New
     *   *   Women's New
         
@@ -205,7 +205,7 @@
         *   Boy's New Jeans
         *   Shop All
         
-        Give a Buckle Gift card Gifts better than chocolate! Shop Valentine’s Day
+        Give a Buckle Gift card Enter the F8 Red Carpet Sweepstakes! Act NOW.
 *   Sale
     *   *   Women's Sale
         
@@ -246,7 +246,7 @@
         
           
           
-        Give a Buckle Gift card Gifts better than chocolate! Shop Valentine’s Day
+        Give a Buckle Gift card Enter the F8 Red Carpet Sweepstakes! Act NOW.
 
 A Global Message! × Privacy &. Security
 
