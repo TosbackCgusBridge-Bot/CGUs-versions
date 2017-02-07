@@ -142,7 +142,7 @@
     *   Gifts Over $90
 *   Sale
 
-1.800.753.8558 Menu Search Stores Cart Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go $5 Standard Delivery\* - No Minimum Purchase!
+1.800.753.8558 Menu Search Stores Cart Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go $5 Standard Delivery\* - No Minimum Purchase. Hurry! This offer ends at 3PM on 2/7/17.
 
 1.  Home
 2.  Customer Service
@@ -196,8 +196,8 @@ My Account
 
 Guarantees
 
-*   100% Satisfaction
 *   Security
+*   100% Satisfaction
 *   Substitution Policy
 
 Privacy
@@ -217,8 +217,8 @@ Security
 
 About Us
 
-*   Store Locator
 *   The Hickory Farms Story
+*   Store Locator
 *   Employment Opportunities
 
 Need Help?
