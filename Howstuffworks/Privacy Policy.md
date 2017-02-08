@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Green Fireball Lights Up Midwestern Night Skies**
+**This U.S. Power Plant Shows Why Coal Is Dying, Won't Make a Comeback**
 
-**NASA Investigates Cosmic Ray Impact on High-altitude Travelers**
+**Science Is Pretty Bad at Predicting Suicide Risk**
 
-**Ridiculous History: Surgeon Robert Liston Was 'Fastest Knife in the West End'**
+**Baby Body Monitors Have Little Benefit for Healthy Infants, Say Experts**
 
 **See More Headlines »**
 
