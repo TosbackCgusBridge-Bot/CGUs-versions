@@ -44,7 +44,7 @@ Download Ubuntu
 
 Further reading
 
+*   Who should bear the cost of IoT security: consumers or vendors? ›
 *   10 crazy IoT ideas that can be real shortly ›
+*   Join our OpenStack and Containers Office Hours ›
 *   Cloud Chatter: January 2017 ›
-*   Snapcraft 2.26 has been released ›
-*   The first consumer device to run snaps: Nextcloud box ›
