@@ -198,12 +198,8 @@
         
         *   Kid's New
         
-        *   Girl's New Tops
-        *   Girl's New Jeans
-        *   Shop All
-        *   Boy's New Tops
-        *   Boy's New Jeans
-        *   Shop All
+        *   Shop All Girl's New
+        *   Shop All Boy's New
         
         Give a Buckle Gift card Enter the F8 Red Carpet Sweepstakes! Act NOW.
 *   Sale
