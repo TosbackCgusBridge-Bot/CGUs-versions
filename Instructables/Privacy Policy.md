@@ -19,24 +19,25 @@ Change country/language X
 
 *   Products
     *   All products
+    *   Collections
+        *   Architecture, Engineering, &. Construction
+        *   Product Design
+        *   Media &. Entertainment
     *   AutoCAD
-        *   AutoCAD
-        *   AutoCAD LT
-        *   AutoCAD 360
-        *   All AutoCAD
+    *   AutoCAD LT
+    *   AutoCAD Mobile
     *   3ds Max
-    *   A360
+    *   BIM 360
     *   Civil 3D
+    *   Flame
     *   Fusion 360
+    *   Fusion Lifecycle
+    *   InfraWorks
     *   Inventor
     *   Maya
-    *   Navisworks
+    *   Powermill
     *   Revit
-    *   SketchBook Pro
-    *   Collections
-    *   Architecture, Engineering, &. Construction
-    *   Product Design
-    *   Media &. Entertainment
+    *   Shotgun
     *   File viewers
     *   All viewers
     *   DWG
