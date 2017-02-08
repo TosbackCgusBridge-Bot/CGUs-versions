@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true C15743433268
+true true C15746450210
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Mon Feb 06 11:14:18 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.13.0.0.239.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Tue Feb 07 11:15:31 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.13.0.0.239.0
 
 *   for the home
 *   bed &. bath
@@ -56,23 +56,31 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Today Online Only!
+Stretch Your Penney Sale
 
-Ends February 6 | Code: 29FORYOU
+In Store &. Online | Ends February 8
 
-Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100
+Shop Now View Store Ad 9.99 Xersion Tank for Her, select styles, reg. $18 14.99 Men's Xersion Shorts, select styles, reg. $30 54.99 to 59.99 Men's &. Women's Adidas Shoes
 
-\*exclusions apply.
+Select styles. Adidas excluded from coupon
 
-Get Details: 19.99 Worthington Tops, select styles, orig. $36
+Women's Shoes Men's Shoes Valentine's Jewelry Sale
 
-$5 Kids' City Streets Valentine's Tees, select styles
+Through February 14
 
-Shop Boys Shop Girls 40-50% Men's Activewear, select styles, orig. $14-$40 Up to 50% Off Kitchen &. Dining, select styles 19.99 Juniors' Arizona Denim &. Pants, select styles, reg. $40-42 $9 Limited Edition Mickey or Minnie Exclusive Valentine's Plush\* select styles when you spend $25 on Disney Collection merchandise, reg. $18
+40 to 60% Off Fine and Fashion Jewelry
 
-\*Disney excluded from coupon
+Select styles
 
-Shop Mickey or Minnie Exclusive Valentine's Plush 29.99 Collection By Michael Strahan Dress Shirts, select styles, reg. $60 30-50% Off Window, select styles 14.99 Ambrielle Bralettes, select styles, reg. $30 39.99 Women's Dress Shoes, select styles, orig. $60 40% Off Handbags &. Wallets, select styles, $21-$51, reg. $35-$85 60% Off Gold Jewelry, select styles Love Worth Giving Valentine's Day is February 14th Shop Gifts Under $10 Shop Gifts Under $25 Shop Women Shop Men Shop Anyone Shop All Gifts Shop Gift Cards$10 Off $10 Coupon Ends February 14 | Spend $75 on Gift Cards and get a $10 off $10 coupon
+Shop Jewelry Sale Looks You'll Love 39.99 V-Neck Textured Sheath Dress
+
+Select styles, reg. $60
+
+Shop Women   Shop Women's Dress Shoes 50% Off Men's Suit Separates, Sport Coats &. Dress Pants
+
+Select styles, reg. $60-$275
+
+Shop Men   Love Worth Giving Valentine's Day is February 14th Shop Gifts Under $10 Shop Gifts Under $25 Shop Women Shop Men Shop Anyone Shop All Gifts Shop Gift Cards $10 Off $10 Coupon Ends February 14 | Spend $75 on Gift Cards and get a $10 off $10 coupon
 
 Redeemable 2/15/17-2/28/17 in store and online. Some restrictions apply. Applies to E-Gift Cards and Gift Cards purchased in store.
 
@@ -80,45 +88,11 @@ Get Details: Home Sale Up to 60% Off
 
 Select styles.
 
-All Home Bedding Curtains &. Drapes Kitchen &. Dining Furniture &. Mattresses Home Decor   Now Online &. In Select Stores! Major Appliances From Your Favorite Brands.
+All Home Bedding Curtains &. Drapes Kitchen &. Dining Furniture &. Mattresses Home Decor Baby Sale | Up to 50% Off Over 18 New Brands &. 500 New Items For Your Baby
 
-Need help? Call 1-844-JCP-APPL (1-844-527-2775)
+Ends February 26
 
-Delivery not available in all markets.
-
-Get Details:Up to 20% Off\* Major Appliances, select styles
-
-\+ Extra 10% Off with code: stove7
-
-Shop Major Appliances:
-
-\*GE, GE Profile &. GE Cafe limited to 10% off savings.
-
-18 Months or 30 Months Special Financing\*\*
-
-Available on qualifying major appliance purchases made through 2/20/17 on a JCPenney Credit Card. Must request at time of purchase.
-
-\*\*Get Details:
-
-Don't have a JCPenney Credit Card?
-
-Apply Now:Free Delivery &. Basic Installation
-
-On all appliance purchases over $299
-
-Get Details: JCP Salon
-
-Join us as we become The Salon by InStyle
-
-Want To Have a Great Hair Day?
-
-Check out the jcp salon.
-
-Book Your Appointment Sephora Hot Now Shop New Beauty Lowest Price. Guaranteed! Find a lower price at our competitor? Tell us and we'll beat it by 5%\*.
-
-\*Some exclusions apply. Excludes major appliances.
-
-Get Details: 50 to 70% Off Clearance In Store &. Online Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Feb 06 22:05:21 CST 2017 JVM :->. dtexppr1c1j2\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Feb 06 22:04:56 CST 2017 JVM :->. dtexppr1c1j3\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Feb 07 22:54:36 CST 2017 JVM :->. dtexppr1c2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Feb 07 07:36:04 CST 2017 JVM :->. dtexppr1c2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
