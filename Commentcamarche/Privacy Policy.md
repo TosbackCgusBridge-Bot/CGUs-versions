@@ -1,4 +1,4 @@
-Janvier 2017
+Février 2017
 
 *   Objet
 *   Mentions légales
