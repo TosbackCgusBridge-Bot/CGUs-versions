@@ -1,109 +1,169 @@
-PrivacyChoice
+Log in to AVG MyAccount MENU Skip to content Close
 
-Our Privacy Commitment
+*   PC
+    *   The Best
+    *   AVG Ultimate
+    *   Protection
+    *   AVG AntiVirus FREE
+    *   AVG Internet Security
+    *   Performance
+    *   AVG TuneUp
+    *   AVG Driver Updater
+    *   AVG Web TuneUp
+    *   Privacy
+    *   HMA! Pro VPN NEW
+    *   All Products
+*   Mac
+    *   AVG Cleaner for Mac®
+    *   AVG AntiVirus for Mac®
+    *   HMA! Pro VPN NEW
+    *   All Products
+*   Android
+    *   **Android Apps for Mobile and Tablet**
+    *   AVG AntiVirus for Android™
+    *   AVG Cleaner™ for Android™
+    *   HMA! Pro VPN NEW
+    *   All Products
+*   Partners
+    *   Products
+    *   AVG Managed Workplace®
+    *   AVG CloudCare™
+    *   AVG Secure Sign On
+    *   AVG Business Security Products
+    *   Why Partner With AVG Business
+    *   Find a Partner
+    *   Become a Partner
+    *   Partner Portal
+    *   Reseller Center
+    *   Programs
+    *   Partner Certification Program
+    *   Webinars &. Events
+    *   Mobile Global Alliances
+*   Business
+    *   AVG Internet Security Business Edition
+    *   AVG AntiVirus Business Edition
+    *   AVG File Server Business Edition
+    *   AVG PC TuneUp Business Edition
+    *   AVG AntiVirus for Android™ - Business
+    *   AVG Business AntiVirus for Mac®
+    *   Compare products
+*   Services
+    *   Premium Tech Support
+    *   Remote Virus Removal
+    *   Express Install
+*   Support
+    *   Home product support
+    *   Product downloads &. updates
+    *   FREE support for AVG home products
+    *   Premium Tech Support
+    *   Support for partner products
+    *   Contact us for partner support
+    *   Support for business products
+    *   Contact us for business support
 
-Last revised February 12, 2013
+Log in to AVG MyAccount English This domain is registered and owned by AVG Technologies
 
-**Summary of Key Policies (click for details)**
+Maybe we can help you find what you are looking for. The links below should be a good place to start.
 
-We collect limited information.
+Homepage
 
-We collect and use additional data through MobileScan.
+Visit the AVG homepage for links to all our products and services.  
+ 
 
-We only use your information to provide the services that you request.
+Go to Homepage
 
-We don't share information with other parties for their own purposes.
+Downloads
 
-You are in control of your information.
+Get AVG products for your PC, Mac®, or mobile. Or download the latest updates and user guides.
 
-We take steps to keep your information secure.
+Go to Download Center
 
-We only keep information for a limited time.
+Support
 
-You have additional privacy rights under California law.
+Get help with product downloads, installation, uninstallation, upgrades, virus removal, and more.
 
-We will let you know if this policy changes in a substantive way.
+Go to Support Center
 
-Please stay in touch!
+Whatever your device, we’ve got you covered About AVG
 
-  
-**We collect limited information.**
+*   Profile
+*   Media Center
+*   Policies
+*   Reseller Locator
+*   Contact Us
 
-_Standard Log Files._ When you visit privacychoice.org, privacyscore.com or use our services through other sites, our servers log typical technical information, such as the numerical Internet protocol (IP) address of the computer you are using. the browser software you use and your operating system. and the Internet address of the website from which you followed a link to our site. This information is kept by our hosting provider, and we only access it in aggregate form via an analytics application. We do not retain any of this information collected on privacyfix.com.
+Home Products
 
-_Cookies._ We don't use beacons or set tracking cookies to associate your activities across different websites. We only retain your email address if you provide it with your permission, and we do not use it to send unsolicited email. When you opt-out of any tracking through privacychoice, we set a cookie that remembers your opt-out preferences for when you return to our site or see PrivacyChoice services on another website, and our browser add-on uses this cookie to preserve the appropriate opt-out cookies. You can set your browser to refuse cookies, and use a number of free tools and browser add-ons if you wish to keep your IP number and other technical information anonymous.
+*   Downloads
+*   Antivirus Software
+*   Mobile Security
+*   Free Mac Antivirus
+*   PC Performance
+*   Virus Scanning &. Malware Removal
+*   Free Antivirus Download
 
-_Analytics._ On privacychoice.org and privacyscore.com, we use Google Analytics, which Google provides as a free service. Although Google processes and stores usage information about the use of this site (all the same information described above), it does so strictly as our agent. Based on options we have selected, Google's policy is to refrain from any other use or sharing of this information. Read Google's policy. Visit this page to opt out of data collection by Google Analytics. We do not use Google Analytics on privacyfix.com.
+Customer Area
 
-_Registration Information._ If you sign up for site scanning, policy generation or other services, we may ask for your name, title, email address, city, state, postal code, country of residence, and phone number, and we may invite you to select a password. We never associate any of your personally identifiable information with information about your activities through our services.
+*   Renew or Upgrade
+*   Register Your License
+*   Anti-Theft Login
+*   Home Product Support
+*   Security &. Performance Tips
 
-_Information Collected Through Privacyscore and Privacyfix Healthbar._ When you opt in to see ratings in your browser as you surf the Web, your browser submits to us data about tracking attempts on the page that you are viewing in order to provide the rating you have requested. We also use this information (only in aggregate) to maintain our database as to which tracking companies are generally present on individual websites. However, individual pages you may view are never collected across websites, nor are they associated with any anonymous or personally identifiable information you may otherwise provide to us.
+Partners &. Business
 
-_Third-Party Data Collection._ We do not allow any other company to collect information on this site for their own use. We provide a link to the Facebook "Like" button, but Facebook cannot collect information unless and until the user clicks on the Facebook image.
+*   Business Antivirus Software
+*   Partners &. Resellers
+*   Reseller Center
+*   AVG CloudCare™
+*   AVG Managed Workplace
+*   AVG Secure Sign On
+*   Partner Support
+*   Business Support
+*   Affiliates
 
-**We collect and use additional data through MobileScan.**
+Connect with AVG
 
-When you use MobileScan to scan apps, we need to collect and retain additional information, including your email address (to identify your scans and provide reports to you) and network activity of your device during each test (in order to create your scan report). Network activity includes all data sent or received by your device while connected to the proxy. For each individual app, we may aggregate and publish data from one or more scans, but we will not publish your email address. We will delete all scan data associated with your email address promptly upon your request. Otherwise, our systems are designed to delete the network activity information or remove its association with your email address within 90 days after the test.
+*   Facebook
+*   Twitter
+*   RSS
+*   Google+
+*   LinkedIn
+*   YouTube
 
-**We only use your information to provide the services that you request.**
+English Log in to AVG MyAccount
 
-If you use a PrivacyChoice service that requires registration, we use the information you provide solely to process and fulfill the services we provide. If you have provided your email address, we will use your email address to send you updates and alerts about our services.
+Privacy  |  Cookies  |  All third party trademarks are the property of their respective owners.  |  © 2017 AVG Technologies. All rights reserved.
 
-**We don't share information with other parties for their own purposes.**
+Skip to content Skip to menu Change language
 
-We do not convey any information about your use of this service to any other party for their use, other than for their use solely in providing services to us.
+*   Global Website: English / Español
+*   Australia: English
+*   Brasil: Português do Brasil
+*   Canada: English
+*   Česká republika: Čeština
+*   Deutschland: Deutsch
+*   España: Español
+*   France: Français
+*   India: English
 
-We may publish reports with aggregate information, such as trends in the interests of PrivacyChoice users. This never includes information about any individual user.
+*   Indonesia: Bahasa Indonesia
+*   Italia: Italiano
+*   Malaysia: Bahasa Melayu
+*   Nederland: Nederlands
+*   Norge: Norsk
+*   Polska: Polski
+*   Portugal: Português
+*   Россия: Русский
 
-To operate the service, we also need to make your information available to third parties in these limited circumstances: (1) with your express consent, (2) when we have a good faith belief it is required by law, (3) when we have a good faith belief it is necessary to protect our rights or property, or (4) to any successor in a merger or acquisition. We will attempt to notify you in any such case, to the extent permitted by law to do so. From time to time, we may work with consultants or other third parties who may have access to information about our users, including contact information. We restrict their use of any information in accordance with their assigned tasks and subject to all of the limitations of this policy.
+*   Slovensko: Slovenčina
+*   Türkiye: Türkçe
+*   United Kingdom: English
+*   United States: English
+*   臺灣: 繁體中文
+*   日本: 日本語
+*   대한민국: 한국어
 
-**You are in control of your information.**
+Global Website: English / Español
 
-You may choose to correct, update, or delete the membership information you have submitted to us by sending an email requesting changes to privacy@privacychoice.org. You may unsubscribe from email communications by clicking on a link in the bottom of each email you may receive from us.
-
-**We take steps to keep your information secure.**
-
-We and our data hosts employ security measures to protect the loss, misuse, and alteration of the information under our control. Although we make good faith efforts to store information in a secure operating environment, we cannot guarantee complete security.
-
-**We only keep information for a limited time.**
-
-We maintain information collected for no more than one year after your last interaction with our service or the termination of your membership.
-
-**You have additional privacy rights under California law.**
-
-Residents of California have the right to request in writing from businesses with whom they have an established business relationship the following: (i) a list of the categories of personal information (e.g., name, address, e-mail address, and the type of services provided to the customer) that a business has disclosed to third parties, during the immediately preceding calendar year, for the third parties' direct marketing purposes, and (ii) the names and addresses of all such third parties. To request the above information, please e-mail us at: privacy@privacychoice.org, or write to us at PrivacyChoice, 101 Cooper Street, Santa Cruz, CA 95060, with a reference to California Disclosure Information. We will respond to such written requests promptly.
-
-**We will let you know if this policy changes in a substantive way.**
-
-Our privacy policy may change from time to time. If we make any substantive changes to our policies, we will place a notice on our sites and send an email to registered users.
-
-**Please stay in touch!**
-
-We encourage questions and comments on our privacy policy, and anything else that can help improve our service. Please contact us at privacy@privacychoice.org or use our contact form.
-
-*   Tracker List
-*   Blog
-*   FAQ
-*   Mobile Policymaker
-*   Privacy
-*   Contact
-*   © 2009-13 AVG Netherlands BV
-
-Privacy
-
-*   We collect but do not link personal and activity data. If you sign up for Policymaker, site scanning, or email removal services, we may ask for your name, title, email address, city, state, postal code, country of residence, and phone number, and we may invite you to select a password. We never associate any of your personally identifiable information with information about your activities through our services.
-*   We do not store or share your precise location.We do not access your precise location. Our analytics system may log the approximate location of anonymous users.
-*   You can request to see or delete your personal data.You may choose to correct, update, or delete the membership information you have submitted to us by sending an email requesting changes to privacy@privacychoice.org. You may unsubscribe from email communications by clicking on a link in the bottom of each email you may receive from us.
-*   We keep data for a limited time period.We maintain information collected for no more than one year after your last interaction with our service or the termination of your subscription.
-*   We don't share your personal data.We do not convey any information about your use of this service to any other party for their use, other than for their use solely in providing services to us. We may publish reports with aggregate information, such as trends in the interests of PrivacyChoice users. This never includes information about any individual user.
-*   No ad companies collect data through our service.We do not allow any other company to collect information on this site for their own use.
-*   You can ask privacy questions.We encourage questions and comments on our privacy policy, and anything else that can help improve our service. Please contact us at privacy@privacychoice.org or use our contact form.
-*   Analytics companies access anonymous data on our behalf."Google Analytics is a web analytics tool that helps website owners understand how visitors engage with their website. Google Analytics customers can view a variety of reports about how visitors interact with their website so they can improve it. Google Analytics collects information anonymously. It reports website trends without identifying individual visitors." (Google)  
-      
-    Google Analytics Privacy Policy
-*   Service providers may access data on our behalf.We may use agents and contractors in order to help operate our site. Their use of information is limited to these purposes and is subject to confidentiality agreements.
-*   Special situations may require disclosure of your data.To operate the service, we also need to make your information available to third parties in these limited circumstances: (1) with your express consent, (2) when we have a good faith belief it is required by law, (3) when we have a good faith belief it is necessary to protect our rights or property, or (4) to any successor in a merger or acquisition. We will attempt to notify you in any such case, to the extent permitted by law to do so.
-*   Our full privacy policy includes more information.Our full privacy policy includes other important terms. Click to read it:  
-      
-    Full Privacy Policy
-*   Feedback
+×
