@@ -17,6 +17,7 @@ LENOVO Menu
     *   Professional Laptop Deals
     *   Desktop Deals
     *   Tablet Deals
+    *   Accessories Deals
     *   Clearance Sale
     *   Deals for Students &. Educators
     *   Outlet
