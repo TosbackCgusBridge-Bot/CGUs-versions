@@ -44,7 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Automate the deployment of Kubernetes in existing AWS infrastructure ›
+*   Community Initiative UBports launches Ubuntu Fairphone 2 ›
 *   Who should bear the cost of IoT security: consumers or vendors? ›
 *   10 crazy IoT ideas that can be real shortly ›
 *   Join our OpenStack and Containers Office Hours ›
-*   Cloud Chatter: January 2017 ›
