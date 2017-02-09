@@ -110,11 +110,11 @@ View more results
 *   Hot Games
     
     *   Nitro Heads
-    *   Cats Empire
-    *   Forge of Empires
-    *   Klondike - the lost expedition
-    *   Crazy Hill Driver
-    *   FGP Bubble Shooter
+    *   Farming Simulator
+    *   Slither.io
+    *   Elvenar
+    *   BadLand
+    *   Bartender Make Right Mix
     
     Mobile Apps More
     
@@ -122,8 +122,8 @@ View more results
     *   My Dolphin Show
     *   Nitro Heads
     *   Cats Empire
-    *   Hero Simulator: Idle Adventure
     *   Troll Face Quest Video Games
+    *   Hero Simulator: Idle Adventure
     *   Troll Face Quest Video Memes
     
     Specials
