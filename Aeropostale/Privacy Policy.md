@@ -60,6 +60,7 @@ Aéropostale
     *   Graphic Tees
     *   Polos
     *   Tees
+    *   Tanks
     *   Shirts
     *   Hoodies + Sweatshirts
     
