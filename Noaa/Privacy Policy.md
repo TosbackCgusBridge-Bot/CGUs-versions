@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Across 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Seeing shadows: How the groundhog stacks up against the climate record AROUND NOAA // New tool helps oyster growers prepare for changing ocean chemistry NOAA’s GOES-16 satellite sends first images of Earth 2016 marks three consecutive years of record warmth for the globe
+Enter Search Terms January was wetter and warmer than average for the U.S. Heavy rain and snow helped ease drought across the West and Southeast AROUND NOAA // Seeing shadows: How the groundhog stacks up against the climate record New tool helps oyster growers prepare for changing ocean chemistry NOAA’s GOES-16 satellite sends first images of Earth
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock
+NOAA
