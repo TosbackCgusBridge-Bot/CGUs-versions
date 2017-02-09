@@ -1,6 +1,7 @@
 *   games
 *   videos
 
+Your score  
 points
 
 Register Log in
@@ -44,6 +45,8 @@ Parental Control
 *     日本語
 *     Indonesia
 *     العربية
+
+× ×
 
 PRIVACY POLICY Last modified: January 15, 2013
 
