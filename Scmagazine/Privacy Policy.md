@@ -48,7 +48,7 @@ Show Search Bar
 
 The Cybersecurity source Privacy Policy
 
-**Last updated: July 28, 2016**
+**Last updated: February 08, 2017**
 
 US Privacy Policy
 
@@ -97,7 +97,7 @@ We will share your Personal Information with our third party suppliers who need 
 
 Haymarket will share user data with the accredited provider(s) of CME/CE activities in which users participate, and/or medical education and communications companies who assisted in the development of CME/CE activities in which users participate.
 
-In order to comply with the Federal CAN-SPAM Act of 2003, we also may provide lists of customers who have opted-out of email promotion for Haymarket products to other companies, so they can be suppressed from mailings those companies send on Haymarket's behalf. In addition, if you unsubscribe from a mailing we send to our own list on behalf of a third party, your removal instruction may also be supplied to the third party and added to their own suppression file. If you continue receiving email after opting out, please contact us at custserve@haymarketmedia.com
+In order to comply with the Federal CAN-SPAM Act of 2003, we also may provide lists of customers who have opted-out of email promotion for Haymarket products to other companies, so they can be suppressed from mailings those companies send on Haymarket's behalf. In addition, if you unsubscribe from a mailing we send to our own list on behalf of a third party, your removal instruction may also be supplied to the third party and added to their own suppression file. If you continue receiving email after opting out, please contact us at custserve@haymarketmedia.com
 
 **Aggregated information**
 
@@ -109,15 +109,15 @@ As a business-to-business company, we do not knowingly collect information from 
 
 **Updating Visitor Information:**
 
-You have the option of accessing, correcting, updating and modifying your Personal and/or Financial Information, or visitor profile, at any time and as often as desired. If you desire to delete your Personal and/or Financial Information please contact us at custserve@haymarketmedia.com
+You have the option of accessing, correcting, updating and modifying your Personal and/or Financial Information, or visitor profile, at any time and as often as desired. If you desire to delete your Personal and/or Financial Information please contact us at custserve@haymarketmedia.com
 
 **Update Your Newsletter Subscriptions**
 
-You can opt-in to newsletter mailing lists, or remove yourself (opt-out) at any time through the subscription management page (this page will display all of your newsletter subscriptions) or by following the instructions at the end of the newsletters you receive. Please allow 3-5 business days for changes to take effect. You can locate the subscription management page through the "Log In" link at the top right hand corner of the Digital Offering. For Haymarket Digital Offerings not offering the subscription management page, please send your email preferences to custserv@haymarketmedia.com
+You can opt-in to newsletter mailing lists, or remove yourself (opt-out) at any time through the subscription management page (this page will display all of your newsletter subscriptions) or by following the instructions at the end of the newsletters you receive. Please allow 3-5 business days for changes to take effect. You can locate the subscription management page through the "Log In" link at the top right hand corner of the Digital Offering. For Haymarket Digital Offerings not offering the subscription management page, please send your email preferences to custserv@haymarketmedia.com
 
 **Update Your Print Subscription Information**
 
-You can correct or change your print subscription information by sending an email to custserve@haymarketmedia.com After processing your change will take effect with the next available issue.
+You can correct or change your print subscription information by sending an email to custserve@haymarketmedia.com After processing your change will take effect with the next available issue.
 
 **Third Party and Affiliated Links:**
 
@@ -125,15 +125,15 @@ Our Digital Offerings contain external links to other Digital Offerings includin
 
 **Google:**
 
-Haymarket uses all features of Google Analytics for Display Advertisers. Google Analytics does not store any visitor specific data and we will not use visitor specific data in any way related to Google Analytics, Google Adwords, and Remarketing. Haymarket uses remarketing with Google Adwords and analytics to display content specific advertisements to visitors that have previously visited our site when those visitors go to other websites that have the Google Display Network implemented. Haymarket and other third-party vendors, including Google, use cookies together to inform, optimize, and serve ads based on visitors past visits to our website. Visitors can opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting the Ads Preferences Manager at www.google.com/ads/preferences/.
+Haymarket uses all features of Google Analytics for Display Advertisers. Google Analytics does not store any visitor specific data and we will not use visitor specific data in any way related to Google Analytics, Google Adwords, and Remarketing. Haymarket uses remarketing with Google Adwords and analytics to display content specific advertisements to visitors that have previously visited our site when those visitors go to other websites that have the Google Display Network implemented. Haymarket and other third-party vendors, including Google, use cookies together to inform, optimize, and serve ads based on visitors past visits to our website. Visitors can opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting the Ads Preferences Manager at www.google.com/ads/preferences/.
 
 **Haymarket Magazines, Seminars, Events, Sites and Other Publications and Services**
 
-Unless you have opted out, as a Haymarket customer you can also expect to receive relevant offers, including offers via email, telephone and/or other channels, for Haymarket publications, seminars, events, Digital Offerings and other services. From time to time we are also able to secure and offer to our customers specially-negotiated discounts and new products from other leading companies. If you would prefer not to receive such offers in the future, you can change your preference via the subscription management page which can be located by using the "Log In" link at the top right hand corner of the Digital Offering. For Haymarket Digital Offerings not offering the subscription management page, please send your email preferences to custserv@haymarketmedia.com
+Unless you have opted out, as a Haymarket customer you can also expect to receive relevant offers, including offers via email, telephone and/or other channels, for Haymarket publications, seminars, events, Digital Offerings and other services. From time to time we are also able to secure and offer to our customers specially-negotiated discounts and new products from other leading companies. If you would prefer not to receive such offers in the future, you can change your preference via the subscription management page which can be located by using the "Log In" link at the top right hand corner of the Digital Offering. For Haymarket Digital Offerings not offering the subscription management page, please send your email preferences to custserv@haymarketmedia.com
 
 **Haymarket Live and Online Events**
 
-Haymarket events are produced for a variety of companies (Sponsors). All data collected during the registration of such events may be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please visit the Sponsor's website to review its privacy policy. Similarly, Haymarket events will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Haymarket uses the data. For details on how event Sponsors use the information you provide, please contact the Sponsor directly. If you have any questions, please contact custserv@haymarketmedia.com
+Haymarket events are produced for a variety of companies (Sponsors). All data collected during the registration of such events may be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please visit the Sponsor's website to review its privacy policy. Similarly, Haymarket events will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Haymarket uses the data. For details on how event Sponsors use the information you provide, please contact the Sponsor directly. If you have any questions, please contact custserv@haymarketmedia.com
 
 **Social Rewards Program**
 
@@ -141,7 +141,7 @@ A number of Haymarket's sites have online social rewards programs. Registering t
 
 **Online Ad Serving**
 
-We use third-party advertising companies to serve ads when you visit our Digital Offering. These companies may use information (not including your name, address email address or telephone number) about your visits to this Digital Offering and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: http://www.networkadvertising.org/consumer/opt\_out.asp
+We use third-party advertising companies to serve ads when you visit our Digital Offering. These companies may use information (not including your name, address email address or telephone number) about your visits to this Digital Offering and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: http://www.networkadvertising.org/consumer/opt\_out.asp
 
 **Cookies**
 
@@ -151,7 +151,7 @@ If you do not want your browser to accept cookies, you can turn off the cookie a
 
 We use advertising companies to develop banner ads for our Digital Offering. These ads may contain cookies. These companies collect cookies sent to your browser through the banner ads and we do not have control or access to this data. Information may be collected from a third party through the use of cookies and web beacons to measure website traffic.
 
-Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to http://www.aboutads.info/choices
+Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to http://www.aboutads.info/choices
 
 **Pixel Tags**
 
@@ -163,13 +163,23 @@ We may buy or sell assets. If we are selling an asset or assets, including websi
 
 **Opt-out Option**
 
-Visitors to this Digital Offering can decide if they want to receive promotional information from Haymarket. On the visitor registration pages, prospective visitors can choose to request Haymarket not to e-mail them advertising and promotional information. Should visitors accept promotional e-mail from Haymarket, any e-mail they receive will include instructions on how to be removed from Haymarket's promotional e-mail list. If you continue receiving email after opting out, please contact us at custserv@haymarketmedia.com
+Visitors to this Digital Offering can decide if they want to receive promotional information from Haymarket. On the visitor registration pages, prospective visitors can choose to request Haymarket not to e-mail them advertising and promotional information. Should visitors accept promotional e-mail from Haymarket, any e-mail they receive will include instructions on how to be removed from Haymarket's promotional e-mail list. If you continue receiving email after opting out, please contact us at custserv@haymarketmedia.com
 
 **Security and Encryption**
 
 This Digital Offering takes commercially reasonable precautions to protect your information. When appropriate, we use SSL encryption technology on our Digital Offering and a secure server to encrypt information transmitted between your browsers and our server. As a result, data you submit to our Digital Offering such as credit card and payment information is transmitted using commercially reasonable security over the Internet.
 
 This Digital Offering also uses password encryption to keep ensure your privacy when registering for newsletters, events, and other Haymarket related media.
+
+**Responsible Disclosure - Our Philosophy on Security &. Reporting a Vulnerability**  
+  
+We believe our products should be safe &. secure for all our users. In order to fulfill this, we treat security as our top priority and guide our decisions based on this principle. If you have found a security vulnerability in our products or services, we appreciate your help in responsibly disclosing the details to our team.  
+If you believe you've discovered a security vulnerability in one of our applications or services, please e-mail us immediately at web@haymarketmedia.com. We will respond as quickly as possible, usually within 24 hours. To help us research and resolve the issue faster and in the most secure way, please use these guidelines when sending your report:
+
+*   Provide full details of any discovered issue.
+*   In the best interest of our users and their data, please do not publicly disclose the issue until it has been addressed and resolution confirmed by us. Publicly disclosing a potential vulnerability could put the wider community at risk.
+*   In order to keep everyone safe, please act in good faith towards our users' privacy and data during your disclosure.
+*   Of course, never purposely disrupt services for others or attempt to gain access to others’ data.
 
 **Notification of Changes**
 
@@ -181,7 +191,7 @@ By using our Digital Offering, products or services, you signify your acceptance
 
 **Questions?**
 
-If you have any questions on our Privacy Policy, or questions about our handling of your Personal and/or Financial Information, you can contact us at web@haymarketmedia.com or write to us:
+If you have any questions on our Privacy Policy, or questions about our handling of your Personal and/or Financial Information, you can contact us at web@haymarketmedia.com or write to us:
 
 **Haymarket Media, Inc  
 275 7th Avenue  
