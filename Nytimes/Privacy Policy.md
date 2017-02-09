@@ -1,9 +1,9 @@
-campaign: nyt2017\_bar1\_digi\_Inauguration\_6JX4J -- 285182, creative: 2\_nyt2016\_bar1\_digi\_inauguration\_6JX4J\_1-24 -- 415708, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
+campaign: nyt2017\_bar1\_spotify\_6KHXY -- 285233, creative: nyt2016\_bar1\_spotify\_6KHXY -- 415689, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
 
-*   1 of 10 articles read
-*   SUBSCRIBE NOW Truth.  
-    It’s vital to democracy. Get up to 40% off the Times  
-    subscription of your choice. SEE MY OPTIONS
+*   SUBSCRIBE NOW News. Culture. Lifestyle.  
+    Get The Times for as little  
+    as $3.75 a week. Offers include a one-year All Access subscription  
+    for $5 a week with Spotify Premium free. SUBSCRIBE NOW
 
 SUBSCRIBE*   Help
 
