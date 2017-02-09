@@ -101,7 +101,7 @@ Close
 
 Close Set your locationSubmit
 
-Go Contact Us Site Map Your Privacy Rights Legal Terms Contact Us Site Map Your Privacy Rights Legal Terms Need help? Have a question? Get instant answers 24/7.
+Go Contact Us Site Map Your Privacy Rights Legal Terms Accessibility Contact Us Site Map Your Privacy Rights Legal Terms Accessibility Need help? Have a question? Get instant answers 24/7.
 
 Whether you’re a Toyota owner or just have a question about our products, Toyota is committed to providing a rewarding customer experience. Select the most convenient way to reach us, and we look forward to assisting you.
 
@@ -353,6 +353,8 @@ Support
 *   Your Privacy Rights  
     
 *   Legal Terms  
+    
+*   Accessibility  
     
 *   Toyota Speak Up Line  
     
@@ -993,7 +995,8 @@ WE BOTH AGREE THAT, WHETHER ANY CLAIM IS IN ARBITRATION OR IN COURT, YOU AND TOY
 
 If you have any questions, complaints or claims about any of the Sites, or if you are having any technical difficulties with any of the Sites, please email through http://www.toyota.com/support/#!/app/ask or call us at 800-331-4331.
 
-Go
+Check out our ADA Compliance Statement **Accessinility**  
+Toyota is committed to accessibility, diversity and inclusion for all of its guests. We believe everyone should be able to visit Toyota.com, use our mobile apps, and access our services easily. We welcome feedback. If you notice any content, feature or functionality of the Site that you believe is not fully accessible to people with disabilities, please contact us at accessibility@toyota.com and provide a description of the specific feature you feel is not fully accessible or a suggestion for improvement. We take your input seriously and will consider all feedback received as we evaluate ways to accommodate our customers and continuously improve our overall accessibility policies. Go
 
 Sign up for toyota updates Request A Quote Trade-In Value Request A Quote Kelley Blue Book Trade-In Value Request A Quote Trade-In Value Shopping Tools
 
