@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true L15758475398
+true true C15750582706
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Wed Feb 08 11:15:32 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.13.0.0.239.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p11.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Thu Feb 09 11:15:31 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2016.13.0.0.239.0
 
 *   for the home
 *   bed &. bath
@@ -56,31 +56,27 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Stretch Your Penney Sale
+Valentine's Day Sale
 
-In Store &. Online | Ends February 8
+In Store &. Online Through February 14
 
-Shop Now View Store Ad 9.99 Xersion Tank for Her, select styles, reg. $18 14.99 Men's Xersion Shorts, select styles, reg. $30 54.99 to 59.99 Men's &. Women's Adidas Shoes
-
-Select styles. Adidas excluded from coupon
-
-Women's Shoes Men's Shoes Valentine's Jewelry Sale
-
-Through February 14
-
-40 to 60% Off Fine and Fashion Jewelry
+Shop Heart Shaped JewelryUp to 60% Off Fine &. Fashion Jewelry
 
 Select styles
 
-Shop Jewelry Sale Looks You'll Love 39.99 V-Neck Textured Sheath Dress
+Shop Jewelry JCPenney Rewards Extra 15% Off All Heart Fine Jewelry
 
-Select styles, reg. $60
+price reflected at checkout
 
-Shop Women   Shop Women's Dress Shoes 50% Off Men's Suit Separates, Sport Coats &. Dress Pants
+Shop Heart Shaped JewelryExtra 20% Off With Your JCPenney Credit Card
 
-Select styles, reg. $60-$275
+and code: 8SAVE
 
-Shop Men   Love Worth Giving Valentine's Day is February 14th Shop Gifts Under $10 Shop Gifts Under $25 Shop Women Shop Men Shop Anyone Shop All Gifts Shop Gift Cards $10 Off $10 Coupon Ends February 14 | Spend $75 on Gift Cards and get a $10 off $10 coupon
+Get Details:Double Reward Points
+
+on all heart fine jewelry
+
+Get Details: 9.99 Junior's Graphic Tees, select styles, reg. $20 14.99 Ambrielle Bralettes, select styles, reg. $30   Shop Gifts Under $15 14.99 Valentine's Day Decorative Pillows, select styles, reg. $40 14.99 Ambrille Chemise, select styles, orig. $44, available in plus sizes Love Worth Giving Valentine's Day is February 14th Shop Gifts Under $10 Shop Gifts Under $25 Shop Women Shop Men Shop Anyone Shop All Gifts Shop Gift Cards$10 Off $10 Coupon Ends February 14 | Spend $75 on Gift Cards and get a $10 off $10 coupon
 
 Redeemable 2/15/17-2/28/17 in store and online. Some restrictions apply. Applies to E-Gift Cards and Gift Cards purchased in store.
 
@@ -88,11 +84,35 @@ Get Details: Home Sale Up to 60% Off
 
 Select styles.
 
-All Home Bedding Curtains &. Drapes Kitchen &. Dining Furniture &. Mattresses Home Decor Baby Sale | Up to 50% Off Over 18 New Brands &. 500 New Items For Your Baby
+All Home Bedding Curtains &. Drapes Kitchen &. Dining Furniture &. Mattresses Home Decor   Up to 30% Off\* Major Appliances
+
+Select styles
+
+Shop Major Appliances:
+
+\*GE, GE Profile &. GE Cafe limited to 10% off savings.
+
+18 Months or 30 Months Special Financing\*\*
+
+Available on qualifying major appliance purchases made through 2/20/17 on a JCPenney Credit Card. Must request at time of purchase.
+
+\*\*Get Details:
+
+Don't have a JCPenney Credit Card?
+
+Apply Now:Free Delivery &. Basic Installation
+
+On all appliance purchases over $299
+
+Get Details:JCPenney Rewards Shop &. Get Rewards
+
+For points earned on major appliances+
+
++Get Details: Baby Sale | Up to 50% Off Over 18 New Brands &. 500 New Items For Your Baby
 
 Ends February 26
 
-Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Feb 08 22:31:04 CST 2017 JVM :->. dtexppr1l2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Feb 08 22:14:54 CST 2017 JVM :->. dtexppr1l2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Feb 09 22:13:23 CST 2017 JVM :->. dtexppr1c1j6\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Feb 09 03:18:18 CST 2017 JVM :->. dtexppr1c1j4\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
