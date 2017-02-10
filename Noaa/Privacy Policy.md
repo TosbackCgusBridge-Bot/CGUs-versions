@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Across 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms January was wetter and warmer than average for the U.S. Heavy rain and snow helped ease drought across the West and Southeast AROUND NOAA // Seeing shadows: How the groundhog stacks up against the climate record New tool helps oyster growers prepare for changing ocean chemistry NOAA’s GOES-16 satellite sends first images of Earth
+Enter Search Terms January was wetter and warmer than average for the U.S. Heavy rain and snow helped ease drought across the West and Southeast AROUND NOAA // Seeing shadows: How the groundhog stacks up against the climate record Every Full Moon video: Watch 'Shipwrecked!' Explore your world at the NOAA Open House
 
 *   About our agency
 *   News and features
