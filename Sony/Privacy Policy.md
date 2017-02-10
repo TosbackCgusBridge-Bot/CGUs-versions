@@ -257,9 +257,9 @@ Sony on YouTube
 
 Play Video
 
-Photo Power in the Palm of Your Hand
+Introducing Our Newest Camera Lenses
 
-Check Out the a6500
+Get Focused on Photography
 
 Close
 
@@ -267,9 +267,9 @@ Close
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share Photo Power in the Palm of Your Hand
+*   Copy URL to share Introducing Our Newest Camera Lenses
 
-Check Out the a6500
+Get Focused on Photography
 
 Your New Personal Assistant
 
@@ -285,9 +285,9 @@ Close
 
 Discover Xperia Ear
 
-True or False? Aloy was planned to be a part of #HorizonZeroDawn since the game's original pitch.
+NEW #SonyAlpha 100mm F2.8 STF G Master with Highest Ever Quality Bokeh for an α Lens.
 
-2017-02-07 02:37:21+00:00
+2017-02-07 18:00:00+00:00
 
 View Tweet
 
