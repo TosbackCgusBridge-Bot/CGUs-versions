@@ -1,4 +1,4 @@
-**Last Revised: January 25, 2017**
+**Last Revised: February 9, 2017**
 
 GoDaddy Respects your privacy
 
@@ -28,7 +28,7 @@ We use your information to contact you regarding functionality changes to our pr
 
 We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies. In addition, it will also describe any choice options the individual has in regards to the use and/or sharing of PII by the participant and its co-branded partner, as well as how to exercise those options.
 
-Certain services offered may allow you to import contacts by uploading a file or copying and pasting from a spreadsheet to add to your account (e.g., using Madmimi to send emails your behalf).  We will only use this information for your legitimate business purpose of importing the contacts as directed by you.  When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at privacy@godaddy.com.
+Certain services offered may allow you to import contacts by uploading a file or copying and pasting from a spreadsheet to add to your account (e.g., using Mad Mimi to send emails on your behalf).  We will only use this information for your legitimate business purpose of importing the contacts as directed by you.  When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at privacy@godaddy.com.
 
 Our Site and mobile applications use cookies and/or other tracking technologies to identify you so you don't need to log in each time you visit our Site or mobile applications. The cookies are linked to your customer number, which is associated with the information in your account.  You can control the use of cookies, at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
