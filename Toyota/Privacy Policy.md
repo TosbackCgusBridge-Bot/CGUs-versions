@@ -63,6 +63,9 @@ Upcoming Vehicles
 
 *   2018 Camry View More Info
 *   2018 C-HR View More Info
+*   2018 Sequoia View More Info
+*   2018 Tundra View More Info
+*   2018 RAV4 View More Info
 *   Concept Vehicles View More Info
 
 Shopping Tools
