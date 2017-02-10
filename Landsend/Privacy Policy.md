@@ -1,13 +1,13 @@
 skip to content skip to navigation skip to search
 
 *   Lands' End
-*   Canvas by Lands' End
+*   Lands' End Canvas
 *   Lands' End Sport
 *   Lighthouse by Lands' End
 *   Business Outfitters
 
 *   Lands' End
-*   Canvas by Lands' End
+*   Lands' End Canvas
 *   Lands' End Sport
 *   Lighthouse by Lands' End
 *   Business Outfitters
@@ -242,7 +242,7 @@ menu 0
     *   Water Shoes &. Sandals
     *   Totes &. Beach Bags
     *   Beach Towels
-    *   Women's Swim Finder
+    *   Swim Finder
     *   Sale
 *   Outerwear
     
@@ -284,7 +284,7 @@ menu 0
     *   New Arrivals
     *   Snow Boots
     *   Sock Shop
-    *   Water Shoes
+    *   Water Shoes &. Sandals
     *   Accessories &. Bags
     *   Sale
 *   Sale
@@ -408,7 +408,7 @@ menu 0
     *   Baby BlanketsDOG SHOP >. SEASONAL DECOR >. ENTERTAINING >.
 
 *   Lands' End
-*   Canvas by Lands' End
+*   Lands' End Canvas
 *   Lands' End Sport
 *   Lighthouse by Lands' End
 *   Business Outfitters
@@ -624,7 +624,7 @@ menu 0
     *   Water Shoes &. Sandals
     *   Totes &. Beach Bags
     *   Beach Towels
-    *   Women's Swim Finder
+    *   Swim Finder
     *   Sale
 *   Outerwear
     
@@ -666,7 +666,7 @@ menu 0
     *   New Arrivals
     *   Snow Boots
     *   Sock Shop
-    *   Water Shoes
+    *   Water Shoes &. Sandals
     *   Accessories &. Bags
     *   Sale
 *   Sale
@@ -981,6 +981,7 @@ No purchase necessary. Automated marketing messages will be sent to the phone nu
 
 Customer Service
 
+*   Call Text Chat Email
 *   **Call or text us 1-800-963-4816**
 *   **Live Chat**
 *   Help Center
@@ -1002,7 +1003,7 @@ Company
 Our Brands
 
 *   Lands' End
-*   Canvas by Lands' End
+*   Lands' End Canvas
 *   Lands' End Sport
 *   Lighthouse by Lands' End
 *   Business Outfitters
