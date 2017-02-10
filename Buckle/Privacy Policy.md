@@ -76,7 +76,7 @@
         
           
           
-        Give a Buckle Gift card Enter the F8 Red Carpet Sweepstakes! Act NOW.
+        Give a Buckle Gift card Wear the love. Share the love. Shop V-Day
 *   Men
     *   *   Featured
         
@@ -128,7 +128,7 @@
         
           
           
-        Give a Buckle Gift card Enter the F8 Red Carpet Sweepstakes! Act NOW.
+        Give a Buckle Gift card Wear the love. Share the love. Shop V-Day
 *   Kids
     *   *   Featured
         
@@ -150,7 +150,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Enter the F8 Red Carpet Sweepstakes! Act NOW.
+        Give a Buckle Gift card Wear the love. Share the love. Shop V-Day
 *   Jeans
     *   *   Women's Jeans
         
@@ -174,7 +174,7 @@
         *   Girl's Jeans
         *   Boy's Jeans
         
-        Give a Buckle Gift card Enter the F8 Red Carpet Sweepstakes! Act NOW.
+        Give a Buckle Gift card Wear the love. Share the love. Shop V-Day
 *   New
     *   *   Women's New
         
@@ -201,7 +201,7 @@
         *   Shop All Girl's New
         *   Shop All Boy's New
         
-        Give a Buckle Gift card Enter the F8 Red Carpet Sweepstakes! Act NOW.
+        Give a Buckle Gift card Wear the love. Share the love. Shop V-Day
 *   Sale
     *   *   Women's Sale
         
@@ -242,7 +242,7 @@
         
           
           
-        Give a Buckle Gift card Enter the F8 Red Carpet Sweepstakes! Act NOW.
+        Give a Buckle Gift card Wear the love. Share the love. Shop V-Day
 
 A Global Message! × Privacy &. Security
 
