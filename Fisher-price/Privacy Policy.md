@@ -7,17 +7,17 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   SHOP BY BRAND
     *   SHOP BY AGE
     
-    *   Baby's First Birthday
     *   What’s New
     *   Gift Sets
     *   Tech Toys
     *   Gifts for New Baby
-    
     *   As Seen On TV
+    
     *   Fan Faves
     *   Exclusives
     *   Award Winners
     *   Clearance
+    *   Baby's First Birthday
     
     See all
     
@@ -40,29 +40,29 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     
     See all
     
-    *   Alvin and the Chipmunks
-    *   Bing
     *   Everything Baby
     *   Little People®
     *   Thomas &. Friends™
-    
     *   Imaginext®
     *   Laugh &. Learn®
+    
     *   Think &. Learn
     *   Loving Family™
     *   Power Wheels®
-    
     *   Bright Beats™
     *   Shimmer and Shine™
+    
     *   Disney
     *   MEGA BLOKS®
     *   Grow-With-Me
-    
     *   Blaze and the Monster Machines™
     *   Bob the Builder™
+    
     *   Dora &. Friends™
     *   Octonauts™
     *   Smart Toy®
+    *   Spinnyos™
+    *   Doodle Pro
     
     See all
     
