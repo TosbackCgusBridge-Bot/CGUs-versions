@@ -174,12 +174,6 @@ Terms and conditions Share
 
 HSBC Holdings plc is a public limited company registered in England and Wales under Company Register Number 617987 and with its registered office at 8, Canada Square, London, England E14 5HQ.
 
-Skip to main content  
-
-**DataSource is incorrect or empty. Please check the DataSource settings of this sub-layout.**
-
-  
-
 Before using this Site, you should read these Terms carefully, as well as our Cookie Policy.
 
 The information contained on the Site is for information purposes only. HSBC Holdings plc does not hold itself out as providing legal, financial or other advice via the Site.
