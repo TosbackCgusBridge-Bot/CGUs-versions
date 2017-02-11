@@ -35,7 +35,6 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Corporate governance codes
         *   Internal control
         *   Obligations of senior financial officers
-        *   Employee share plans
     
     *   Structure and network Read more about HSBC's network and four global businesses.
 *   Our approach
@@ -50,6 +49,8 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Operations
         *   Communities
         *   Case studies
+    *   Remuneration
+        *   Employee share plans
     
     *   Measuring our impact
         
@@ -65,7 +66,10 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Diversity and inclusion Diversity benefits our customers, our business and our people.
 *   Investor relations
     
-    *   Financial and regulatory reports
+    *   Group results and reporting
+        *   Annual Report
+        *   Group reporting archive
+    *   Subsidiary company reporting
         
     *   Events and presentations
         
@@ -372,10 +376,12 @@ Contact Us Our approach
 *   Sustainability
 *   Measuring our impact
 *   Risk and responsibility
+*   Remuneration
 
 Investor relations
 
-*   Financial and regulatory reports
+*   Group results and reporting
+*   Subsidiary company reporting
 *   Events and presentations
 *   Share and dividend information
 *   Investor resources
