@@ -145,9 +145,9 @@ webmaster@timeanddate.com timeanddate.com
 
 Index
 
-You might also like Leap Second on New Year's
+You might also like Penumbral Lunar Eclipse Feb 10/11
 
-A leap second will be added to Coordinated Universal Time (UTC) on December 31, 2016. This will help synchronize our watches with the Earth's slowing rotation. more
+During the night between Friday and Saturday, most of the populated world will be able to witness a penumbral lunar eclipse. more
 
 12 Months of the Year
 
