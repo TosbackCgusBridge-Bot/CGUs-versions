@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**New CDC Quarantine Rules Raise Civil Liberty Concerns**
+**A Newly Surfaced Photo of Harriet Tubman Is Going to Auction**
 
-**Spend a Weekend Camping to Sleep Better, Study Says**
+**Fascinating, Fun and Freaky: Our Best Stories You Might Have Missed This Week**
 
-**Here's Some New Teen Lingo for You: Dripping**
+**Decoding Your Desk: What Does It Say About You?**
 
 **See More Headlines »**
 
