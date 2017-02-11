@@ -520,6 +520,16 @@ Advertising
 
 Essential
 
+www.zendesk.com
+
+Clearbit
+
+Stores information on user in order to not display so many forms
+
+Session
+
+Functionality/ Preference
+
 www.zendesk.com and www.bimeanalytics.com
 
 Google Tag Manager
@@ -717,6 +727,16 @@ Website Language
 Language settings
 
 30 min
+
+Functionality/ Preference
+
+www.bimeanalytics.com
+
+popupHide
+
+Determines if a user has accepted or rejected the demo request popup that appears after a certain time on the website
+
+Session
 
 Functionality/ Preference
 
