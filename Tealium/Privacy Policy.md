@@ -4,7 +4,6 @@
     *   Tealium DataAccess
 *   Integrations
 *   Resources
-    *   Preparing for GDPR
     *   Case Studies
     *   Whitepapers
     *   Videos
@@ -12,6 +11,7 @@
     *   Solution Briefs
     *   Datasheets
     *   ROI Calculator
+    *   Preparing for GDPR
     *   MarTech Challenge
     *   Tealium Learning Community
     *   Education
