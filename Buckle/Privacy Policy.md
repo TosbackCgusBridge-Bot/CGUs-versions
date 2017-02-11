@@ -76,7 +76,7 @@
         
           
           
-        Give a Buckle Gift card Wear the love. Share the love. Shop V-Day
+        Give a Buckle Gift card Don't forget, Valentine! Shop Digital Gift Cards.
 *   Men
     *   *   Featured
         
@@ -128,7 +128,7 @@
         
           
           
-        Give a Buckle Gift card Wear the love. Share the love. Shop V-Day
+        Give a Buckle Gift card Don't forget, Valentine! Shop Digital Gift Cards.
 *   Kids
     *   *   Featured
         
@@ -150,7 +150,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Wear the love. Share the love. Shop V-Day
+        Give a Buckle Gift card Don't forget, Valentine! Shop Digital Gift Cards.
 *   Jeans
     *   *   Women's Jeans
         
@@ -174,7 +174,7 @@
         *   Girl's Jeans
         *   Boy's Jeans
         
-        Give a Buckle Gift card Wear the love. Share the love. Shop V-Day
+        Give a Buckle Gift card Don't forget, Valentine! Shop Digital Gift Cards.
 *   New
     *   *   Women's New
         
@@ -201,7 +201,7 @@
         *   Shop All Girl's New
         *   Shop All Boy's New
         
-        Give a Buckle Gift card Wear the love. Share the love. Shop V-Day
+        Give a Buckle Gift card Don't forget, Valentine! Shop Digital Gift Cards.
 *   Sale
     *   *   Women's Sale
         
@@ -242,7 +242,7 @@
         
           
           
-        Give a Buckle Gift card Wear the love. Share the love. Shop V-Day
+        Give a Buckle Gift card Don't forget, Valentine! Shop Digital Gift Cards.
 
 A Global Message! × Privacy &. Security
 
