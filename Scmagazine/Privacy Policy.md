@@ -38,7 +38,7 @@ Show Search Bar
     *   Virtual Conferences
     *   Webcasts
     *   RiskSec NY 2017
-    *   SC Congress Toronto
+    *   RiskSec Toronto 2017
     *   SC Awards 2017
 *   Whitepapers
 
