@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 11.642,86ǀ
+*   DAX 11.666,97ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -360,18 +360,21 @@ Basierend auf den Auswertungen von Google Analytics verwendet Google DoubleClick
 Sollten Sie die Verwendung von DoubleClick DART-Cookies nicht wünschen, können Sie diese über den Anzeigenvorgaben-Manager unter http://www.google.com/settings/ads/onweb/?hl=de deaktivieren.
 
 (14)  
+SPIEGEL ONLINE verwendet auf www.spiegel.de zur Anzeige von Werbung AdDefend, einen Dienst der AdDefend GmbH, Borselstrasse 3, 22765 Hamburg. Dieser Dienst nutzt Cookies, um festzustellen, ob Sie eine Webseite schon einmal besucht haben. Sie können der Verwendung dieser Cookies durch AdDefend jederzeit widersprechen, indem Sie eine E-Mail an privacy@addefend.com senden.
+
+(15)  
 In Zusammenarbeit mit der **Meetrics GmbH** erfassen wir die **Sichtbarkeit von Online-Inhalten** und errechnen mit Erhebungsverfahren in Echtzeit den Aufmerksamkeits- und Lesefokus. Dies dient der optimalen Anordnung und Platzierung unserer redaktionellen Inhalte gemäß des aktuellen Leseverhaltens der Leserinnen und Leser von SPIEGEL ONLINE.
 
 Sie können der Datenverarbeitung durch die Meetrics GmbH hier widersprechen.
 
-(15)  
+(16)  
 **Informationen zur Einbindung von Outbrain**
 
 Auf einigen Seiten von SPIEGEL ONLINE und manager magazin online ist ein sogenanntes Widget der Outbrain UK Limited mit Sitz in London eingebunden. Der Dienst Outbrain dient dazu, unsere Nutzer auf weiterführende Inhalte hinzuweisen, die in einem thematischen Zusammenhang mit dem vom jeweiligen Nutzer gelesenen Inhalt stehen. Wenn der Nutzer kein Opt-out erklärt hat (siehe unten), erfolgt die Auswahl der im Widget angezeigten Inhalte auch anhand der Inhalte, die der Nutzer aktuell und in der jüngeren Vergangenheit auf der betreffenden Website betrachtet hat. Hierfür verwendet Outbrain unter anderem Cookies.
 
 Die im Widget angezeigten Inhalte werden inhaltlich und technisch von Outbrain gesteuert und ausgeliefert. Die SPIEGEL-Gruppe erhebt und verwendet im Zusammenhang mit dem Outbrain-Widget keine personenbezogenen Daten. Über die Erhebung und Verwendung von Nutzungs- und anderen Daten informiert Outbrain als verantwortliche Stelle in den Datenschutzregelungen von Outbrain. Dort haben Sie überdies die Möglichkeit, der Verwendung von Nutzungs- und anderen Daten für bestimmte Zwecke zu widersprechen Opt-out). Die Empfehlungen von Inhalten im Widget werden nach Opt-out nicht mehr auf der Grundlage der von Outbrain erfassten Nutzungsdaten gesteuert.
 
-(16)  
+(17)  
 **Nutzerbasierte Online-Werbung**
 
 SPIEGEL ONLINE hält sich an die europaweite Initiative zur freiwilligen Selbstkontrolle der digitalen Werbewirtschaft für nutzungsbasierte Online-Werbung. Weitere Informationen zum sogenannten Online Behavioral Advertising (OBA) Framework der European Interactive Digital Advertising Alliance (EDAA) finden Sie hier: http://www.edaa.eu.
