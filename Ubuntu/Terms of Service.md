@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Vision Mobile: State of the developer nation infographic ›
+*   Webinar: Getting started with the Canonical Distribution of Kubernetes ›
 *   openHAB arrives as a snap! ›
 *   8 KDE snaps written in January ›
 *   Automate the deployment of Kubernetes in existing AWS infrastructure ›
-*   Community Initiative UBports launches Ubuntu Fairphone 2 ›
-*   Who should bear the cost of IoT security: consumers or vendors? ›
