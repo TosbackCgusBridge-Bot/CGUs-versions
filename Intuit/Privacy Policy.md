@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true C15753335502
+true true L15766653830
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Fri Feb 10 11:15:07 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.1.0.0.51.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p17.jcpenney.com SERVER NAME :->. dtcomexpr1l1j3 TIME :->. Sat Feb 11 11:15:17 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.1.0.0.51.0
 
 *   for the home
 *   bed &. bath
@@ -80,11 +80,11 @@ Get Details: 9.99 Junior's Graphic Tees, select styles, reg. $20 14.99 Ambrielle
 
 Redeemable 2/15/17-2/28/17 in store and online. Some restrictions apply. Applies to E-Gift Cards and Gift Cards purchased in store.
 
-Get Details: Home Sale Up to 60% Off
+Get Details: Home Flash Sale
 
-Select styles.
+Today Online Only | Ends February 11 | Code: 3HOME
 
-All Home Bedding Curtains &. Drapes Kitchen &. Dining Furniture &. Mattresses Home Decor   Up to 30% Off\* Major Appliances
+Shop Now  Extra 30% Off\* $100 or More Or, Extra 25% Off Select Home Already 30-50% Off Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds &. Shades \*Exclusions &. details: Bedding Kitchen &. Dining Bath Dinnerware Curtains &. Drapes Home Decor Luggage Furniture &. Mattresses Up to 30% Off\* Major Appliances
 
 Select styles
 
@@ -112,7 +112,7 @@ For points earned on major appliances+
 
 Ends February 26
 
-Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Feb 10 21:58:30 CST 2017 JVM :->. dtexppr1c2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Feb 10 03:25:39 CST 2017 JVM :->. dtexppr1l2j4\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Feb 11 22:14:08 CST 2017 JVM :->. dtexppr1l1j1\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Feb 11 22:00:23 CST 2017 JVM :->. dtexppr1l1j4\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
