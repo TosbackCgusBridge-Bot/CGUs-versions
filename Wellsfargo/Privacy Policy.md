@@ -178,9 +178,9 @@ Rewards and Benefits Go Far™ Rewards
 *   Use Rewards
 *   Share Rewards
 
-Relationship Benefits
+Relationship Program
 
-*   Relationship Benefits Overview
+*   Customer Relationship Overview
 
 Your Financial Goals
 
