@@ -175,7 +175,6 @@ menu 0
     *   New Arrivals
     *   Outerwear Sale
     *   Swim Shop
-    *   Favorite Looks
     *   School Uniforms
     *   Iron Knee Pants
     *   Girls' Knit Kit
@@ -558,7 +557,6 @@ menu 0
     *   New Arrivals
     *   Outerwear Sale
     *   Swim Shop
-    *   Favorite Looks
     *   School Uniforms
     *   Iron Knee Pants
     *   Girls' Knit Kit
