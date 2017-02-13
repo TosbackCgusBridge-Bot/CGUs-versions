@@ -94,7 +94,7 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Mon, Feb 13, 2017 OTA Industry Leaders at RSA Conference 2017
+Mon, Feb 13, 2017 OTA Members @ RSA Conference 2017
 
 **Join OTA at the Non-Profits On the Loose Reception on Feb 14th**
 
