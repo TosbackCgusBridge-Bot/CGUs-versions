@@ -5,65 +5,25 @@ Menu
 *   Commercial - Selected
 
 *   Personal
-    *   Personal Home
-    *   Credit Cards Expand Credit Cards Menu Find a Card
-        
-        *   Credit Cards Home
-        *   View Top Rewards Cards
-        *   Compare Credit Cards
-        *   See if You're Pre-qualified
-        *   Small Business Credit Cards
-        *   Find the Right Card
-        *   Respond to a Mail Offer
-        
-        Benefits And Services
-        *   View Cardholder Benefits
-        *   See Credit Card FAQ
-        *   Redeem and Learn About Rewards
-        *   Pay Your Bill
-        *   Learn About CreditWise
-        *   Explore Card Topics
-    *   Bank Expand Bank Menu Personal Banking
-        *   Bank Home
-        *   Money Market Account
+    *   Bank Expand Bank Menu
+        *   Credit Cards
         *   Checking Accounts
         *   Savings Accounts
-        *   CD Accounts
-        *   Online and Mobile Banking Tools
-    *   Borrow Expand Borrow Menu Mortgages &. Home Equity
-        
-        *   Borrow Home
-        *   Mortgages Overview
-        *   Mortgage Rates
-        *   Refinance Overview
-        *   Refinance Rates
-        *   Home Equity Overview
-        *   Home Equity Rates
-        
-        Auto Financing
-        *   Auto Finance Overview
-        *   New &. Used Auto Financing
-        *   Auto Loan Refinancing
-        *   Auto Rates
-        *   Auto Loan Calculators
-        *   Auto Learning Center
-    *   Invest Expand Invest Menu Team with an Advisor
-        
-        *   Invest Home
-        *   Why Choose Our Advisors
-        *   Wealth and Asset Management
-        
-        Do It Yourself Online
-        *   Why Invest with Us
-        *   Compare Trade Prices
-        *   Plan Your Retirement
-        *   Open an Account
-        *   Sign In to Your Account
-        *   Investing Learning Center
+        *   Certificates of Deposit
+        *   Online &. Mobile
+    *   Borrow Expand Borrow Menu
+        *   Auto Loans
+        *   Home Loans
+        *   Home Equity Loans
+        *   Credit Cards
+    *   Invest Expand Invest Menu
+        *   Online Investing
+        *   Invest with a Financial Advisor
+        *   Wealth &. Asset Management
+        *   Certificates of Deposit
     *   Learn
     *   Contact
 *   Business
-    *   Business Home
     *   Credit Cards Expand Credit Cards Menu Small Business
         
         *   Spark Cash Back Rewards
@@ -71,27 +31,20 @@ Menu
         
         Corporate
         *   Corporate Card Program
-    *   Bank Expand Bank Menu Banking Accounts
-        
-        *   Bank Home
+    *   Bank Expand Bank Menu
         *   Business Checking
         *   Business Savings
-        
-        Financing &. Credit
         *   Small Business Credit Cards
-        *   Corporate Card Program
-    *   Borrow Expand Borrow Menu Financing &. Credit
-        *   Borrow
+    *   Borrow Expand Borrow Menu
         *   Small Business Credit Cards
-        *   Corporate Card Program
-    *   Invest Expand Invest Menu Investing Accounts
-        
+        *   Business Loans
+    *   Invest Expand Invest Menu
         *   401(k) Plans
-        
-        Banking Accounts
+        *   Invest with a Financial Advisor
         *   Business Savings
-    *   Manage Expand Manage Menu Business Services
+    *   Manage Expand Manage Menu
         *   Merchant Services
+        *   Cash Management
     *   Learn
     *   Contact
 *   Commercial
@@ -118,8 +71,6 @@ Menu
         *   Corporate Cards
     *   Insights
     *   Contact
-*   Locations
-*   Search
 
 Terms and Conditions
 
