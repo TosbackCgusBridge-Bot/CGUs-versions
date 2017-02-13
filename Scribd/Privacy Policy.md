@@ -4,7 +4,7 @@ English (US) Español Français Português do Brasil Submit a request Sign in
 2.  General Info
 3.  Terms and Policies
 
-Privacy policy **Jason** February 07, 2017 17:29 Follow
+Privacy policy **Jason** February 12, 2017 06:46 Follow
 
 April 18, 2013
 
@@ -106,7 +106,7 @@ FOR REVISIONS TO THIS PRIVACY NOTICE THAT MAY BE MATERIALLY LESS RESTRICTIVE ON 
 
 PLEASE CONTACT SCRIBD WITH ANY QUESTIONS OR COMMENTS ABOUT THIS PRIVACY NOTICE, YOUR PERSONAL INFORMATION, AND OUR THIRD-PARTY DISCLOSURE PRACTICES OR YOUR CONSENT CHOICES AT: SCRIBD.COM, 333 BUSH STREET, SUITE 2400, SAN FRANCISCO, CA 94104, OR BY EMAIL: PRIVACY@SCRIBD.COM. WE WILL RESPOND TO YOUR INQUIRY WITHIN 30 DAYS OF ITS RECEIPT.
 
-Was this article helpful? 1243 out of 1248 found this helpful
+Was this article helpful? 1244 out of 1249 found this helpful
 
 *   Facebook
 *   Twitter
