@@ -145,11 +145,7 @@ webmaster@timeanddate.com timeanddate.com
 
 Index
 
-You might also like Penumbral Lunar Eclipse Feb 10/11
-
-During the night between Friday and Saturday, most of the populated world will be able to witness a penumbral lunar eclipse. more
-
-12 Months of the Year
+You might also like 12 Months of the Year
 
 Find out what months have to do with the Moon, why there are 12 months, and what the month names mean. more
 
@@ -160,6 +156,10 @@ List of cosmic events in 2017 including supermoons, solar and lunar eclipses, me
 Magnetic Declination
 
 A compass needle doesn't point to the geographical North Pole but to magnetic north. Did you know that it usually doesn't point to the magnetic North Pole either? more
+
+Time Zones and DST in Europe
+
+Europe is divided into 4 main time zones that span from UTC +0 hours in western European countries to UTC +3 hours in Belarus and parts of Russia. more
 
 Copyright © Time and Date AS 1995–2017. All rights reserved.
 
