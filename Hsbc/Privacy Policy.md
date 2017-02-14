@@ -95,7 +95,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Stock exchange announcements
         *   Inside information
     
-    *   3Q 2016 quick read Read the main highlights from our latest Earnings Release.
+    *   Annual Results 2016 HSBC Holdings plc will announce its Annual Results on 21 February 2017.
 *   News and insight
     
     *   Media resources
