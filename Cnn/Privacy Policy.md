@@ -37,10 +37,11 @@ U.S. Politics
 *   Culture
 *   Media
 
+*   Business
+*   Culture
 *   Gadgets
-*   Cyber Security
-*   Innovation Nation
-*   Vital Signs
+*   Future
+*   Startups
 
 Sport
 
@@ -69,6 +70,13 @@ Travel
 *   Arts
 *   Autos
 *   Luxury
+
+Health
+
+*   Diet + Fitness
+*   Living Well
+*   Parenting + Family
+*   Vital Signs
 
 Features
 
@@ -166,10 +174,11 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
     4.  Culture
     5.  Media
 
-1.  1.  Gadgets
-    2.  Cyber Security
-    3.  Innovation Nation
-    4.  Vital Signs
+1.  1.  Business
+    2.  Culture
+    3.  Gadgets
+    4.  Future
+    5.  Startups
 
 1.  Sport
     1.  Football
@@ -196,6 +205,12 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
     4.  Arts
     5.  Autos
     6.  Luxury
+
+1.  Health
+    1.  Diet + Fitness
+    2.  Living Well
+    3.  Parenting + Family
+    4.  Vital Signs
 
 1.  Features
     1.  Freedom Project
