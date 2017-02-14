@@ -78,7 +78,7 @@ a.     No posting or sending people PMs ("Private" Messages) telling them to
 
 17.  You will not promote by repeated statements, by provision of URLs to other websites, by recommendation to engage in non-community activities such as watching programs, reading books, or attending events, or by any other means, beliefs or teachings contrary to those of Christianity as articulated by the historic creeds, as understood by Evangelicalism, and as interpreted by Salem Web Network in its sole discretion. 
 
-a.     If you are unsure about a site or content please direct your question to communitycare@godtube.com. This rule also applies to any material whether it be on the web, in print, on video, or on audio.
+a.     If you are unsure about a site or content please direct your question to \[email protected\] This rule also applies to any material whether it be on the web, in print, on video, or on audio.
 
 18.  Harvesting or collecting email addresses or other contact information of other users from the Service or the Site by electronic or other means for the purposes of sending unsolicited emails or other unsolicited communications is not permitted.
 
@@ -98,7 +98,7 @@ b.     Salem Web Network prohibits the exercise of prophecy, dream interpret
 
 a.     We want this community to be a fun place to learn and interact with others from a Christian world view.
 
-24.  Salem Web Network has designated certain members in the community areas, commonly called moderators (“Moderators”), to moderate the discussions. All members are required to immediately comply with any moderator directive. Failure to do so may result in loss of access to the Site. If you believe a moderator directive is incorrect you should not discuss it in the community. Instead send an email to the Community Manager \[communitycare@godtube.com\] who will review the problem and make final judgment. 
+24.  Salem Web Network has designated certain members in the community areas, commonly called moderators (“Moderators”), to moderate the discussions. All members are required to immediately comply with any moderator directive. Failure to do so may result in loss of access to the Site. If you believe a moderator directive is incorrect you should not discuss it in the community. Instead send an email to the Community Manager \[\[email protected\]\] who will review the problem and make final judgment. 
 
 25.  Salem Web Network reserves the right to: 
 
@@ -112,7 +112,7 @@ d.     To report any violations of the Terms of Service to law enforcement a
 
 e.     **To bar, restrict, block any user including Internet Community Alliance offenders for any reason as well as remove any content at our sole discretion.**
 
-26.  Please email communitycare@godtube.com with any questions, comments, or concerns regarding our Terms of Service. 
+26.  Please email \[email protected\] with any questions, comments, or concerns regarding our Terms of Service. 
 
 a.     To report a possible violation of the Community Guidelines in forums please use the report link located at the bottom of every post.
 
@@ -120,7 +120,7 @@ b.     Salem Web Network reserves the right to revise the Community Guidelin
 
 27.  **Claims of Copyright Infringement/DMCA Notices/Counternotices**.  If you believe that material available on the Site infringes a copyright of yours (or a person on whose behalf you are authorized to act), please notify our Designated Agent by using the Notice Procedures for Making Copyright Infringement Claims described in this paragraph.  We may remove or disable access to any infringing material identified in your notice.
 
-**a.** **You must address notices of infringement to our Designated Agent: Stacie Marshall.  Address:  111 Virginia St., Suite 500, Richmond, VA 23219; Phone:  804.205.9684** **; Fax:  804.205.9648** **; Email:  removals@godtube.com**
+**a.** **You must address notices of infringement to our Designated Agent: Stacie Marshall.  Address:  111 Virginia St., Suite 500, Richmond, VA 23219; Phone:  804.205.9684** **; Fax:  804.205.9648** **; Email:  \[email protected\]**
 
                                                i.     Please note that there are substantial penalties for sending false notices.
 
@@ -233,7 +233,7 @@ a.     No posting or sending people PMs ("Private" Messages) telling them to
 
 17.  You will not promote by repeated statements, by provision of URLs to other websites, by recommendation to engage in non-community activities such as watching programs, reading books, or attending events, or by any other means, beliefs or teachings contrary to those of Christianity as articulated by the historic creeds, as understood by Evangelicalism, and as interpreted by Salem Web Network in its sole discretion. 
 
-a.     If you are unsure about a site or content please direct your question to communitycare@godtube.com. This rule also applies to any material whether it be on the web, in print, on video, or on audio.
+a.     If you are unsure about a site or content please direct your question to \[email protected\] This rule also applies to any material whether it be on the web, in print, on video, or on audio.
 
 18.  Harvesting or collecting email addresses or other contact information of other users from the Service or the Site by electronic or other means for the purposes of sending unsolicited emails or other unsolicited communications is not permitted.
 
@@ -253,7 +253,7 @@ b.     Salem Web Network prohibits the exercise of prophecy, dream interpret
 
 a.     We want this community to be a fun place to learn and interact with others from a Christian world view.
 
-24.  Salem Web Network has designated certain members in the community areas, commonly called moderators (“Moderators”), to moderate the discussions. All members are required to immediately comply with any moderator directive. Failure to do so may result in loss of access to the Site. If you believe a moderator directive is incorrect you should not discuss it in the community. Instead send an email to the Community Manager \[communitycare@godtube.com\] who will review the problem and make final judgment. 
+24.  Salem Web Network has designated certain members in the community areas, commonly called moderators (“Moderators”), to moderate the discussions. All members are required to immediately comply with any moderator directive. Failure to do so may result in loss of access to the Site. If you believe a moderator directive is incorrect you should not discuss it in the community. Instead send an email to the Community Manager \[\[email protected\]\] who will review the problem and make final judgment. 
 
 25.  Salem Web Network reserves the right to: 
 
@@ -267,7 +267,7 @@ d.     To report any violations of the Terms of Service to law enforcement a
 
 e.     **To bar, restrict, block any user including Internet Community Alliance offenders for any reason as well as remove any content at our sole discretion.**
 
-26.  Please email communitycare@godtube.com with any questions, comments, or concerns regarding our Terms of Service. 
+26.  Please email \[email protected\] with any questions, comments, or concerns regarding our Terms of Service. 
 
 a.     To report a possible violation of the Community Guidelines in forums please use the report link located at the bottom of every post.
 
@@ -275,7 +275,7 @@ b.     Salem Web Network reserves the right to revise the Community Guidelin
 
 27.  **Claims of Copyright Infringement/DMCA Notices/Counternotices**.  If you believe that material available on the Site infringes a copyright of yours (or a person on whose behalf you are authorized to act), please notify our Designated Agent by using the Notice Procedures for Making Copyright Infringement Claims described in this paragraph.  We may remove or disable access to any infringing material identified in your notice.
 
-**a.** **You must address notices of infringement to our Designated Agent: Stacie Marshall.  Address:  111 Virginia St., Suite 500, Richmond, VA 23219; Phone:  804.205.9684** **; Fax:  804.205.9648** **; Email:  removals@godtube.com**
+**a.** **You must address notices of infringement to our Designated Agent: Stacie Marshall.  Address:  111 Virginia St., Suite 500, Richmond, VA 23219; Phone:  804.205.9684** **; Fax:  804.205.9648** **; Email:  \[email protected\]**
 
                                                i.     Please note that there are substantial penalties for sending false notices.
 
