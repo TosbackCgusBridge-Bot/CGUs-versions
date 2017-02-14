@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Across NOAA Explore your world at the NOAA Open House Oceans &. Coasts Podcast: How a new national network aims to take the pulse of the ocean National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Sanctuaries Fisheries #WhaleWeek reddit AUA: The Rising Risk of Whale Entanglement Oceans &. Coasts Podcast: How a new national network aims to take the pulse of the ocean National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Across 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms January was wetter and warmer than average for the U.S. Heavy rain and snow helped ease drought across the West and Southeast AROUND NOAA // Seeing shadows: How the groundhog stacks up against the climate record Every Full Moon video: Watch 'Shipwrecked!' Explore your world at the NOAA Open House
+Enter Search Terms Join us for Whale Week 2017 Learn more about these majestic creatures and what's being done to save them AROUND NOAA // #WhaleWeek reddit AUA: The Rising Risk of Whale Entanglement January was wetter and warmer than average for the U.S. Every Full Moon video: Watch 'Shipwrecked!'
 
 *   About our agency
 *   News and features
