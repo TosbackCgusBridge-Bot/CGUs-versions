@@ -340,6 +340,7 @@ Returns
 
 Promotions
 
+*   Get Rewarded
 *   F8 Red Carpet Sweepstakes Official Rules
 *   Social Giveaway Official Rules
 *   Store Events
