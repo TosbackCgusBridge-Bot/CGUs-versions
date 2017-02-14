@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Eclipse foundation: IoT developer survey ›
 *   Vision Mobile: State of the developer nation infographic ›
 *   Webinar: Getting started with the Canonical Distribution of Kubernetes ›
 *   openHAB arrives as a snap! ›
 *   8 KDE snaps written in January ›
-*   Automate the deployment of Kubernetes in existing AWS infrastructure ›
