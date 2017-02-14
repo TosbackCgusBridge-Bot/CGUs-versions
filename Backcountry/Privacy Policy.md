@@ -153,7 +153,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 There is an unsubscribe link in every email that we send. You can be removed instantly from our list by clicking it.
 
 **OPTING OUT OF HAVING OUR MARKETING PARTNER DELIVER ADS TAILORED TO YOUR WEB PREFERENCES AND USAGE PATTERNS**  
-If you choose NOT to have our marketing partners deliver ads tailored to their Web preferences and usage patterns, you can opt out of this usage of their Personal Information by visiting the Network Advertising Initiative Opt-out Tool located at: http://www.networkadvertising.org/managing/opt\_out.asp and opting out from targeted ads delivered by various marketers.
+If you choose NOT to have our marketing partners deliver ads tailored to their Web preferences and usage patterns, you can opt out of this usage of their Personal Information by visiting the Network Advertising Initiative Opt-out Tool located at: //www.networkadvertising.org/managing/opt\_out.asp and opting out from targeted ads delivered by various marketers.
 
 **OPTING OUT OF SHARING INFORMATION WITH THIRD PARTY PARTNERS FOR MARKETING PURPOSES**  
 If you prefer that we do not share your Personal Information with other marketers, send us an email containing the subject line “opt out” to info@backcountry.com.
