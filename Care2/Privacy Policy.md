@@ -16,6 +16,8 @@ When visiting a website displaying the TRUSTe Trustmark, you will be notified of
 
 Questions regarding this privacy statement should be submitted to Care2 Customer Support using the Help Form.
 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+
 Privacy Questions Does Care2 ask for personal information?  
 How does Care2 use my personal information?  
 Should I post personal information in group forums?  
