@@ -11,7 +11,6 @@ Privacy Policy Effective October 18, 2016
 *   Cookie Policy
 *   International User
 *   California Do Not Track – CalOPPA
-*   Email Overview
 *   Interest Based Ads
 
 Version Française
