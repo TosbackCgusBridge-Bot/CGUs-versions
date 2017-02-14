@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**A Newly Surfaced Photo of Harriet Tubman Is Going to Auction**
+**The U.S. Wild Pig Population Is Exploding**
 
-**Fascinating, Fun and Freaky: Our Best Stories You Might Have Missed This Week**
+**Solar Flares Could Scramble Signals, Cause Mysterious Whale Beachings**
 
-**Decoding Your Desk: What Does It Say About You?**
+**NASA Study Discovers 'Space Gene' and More**
 
 **See More Headlines »**
 
