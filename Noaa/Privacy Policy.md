@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Sanctua
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Join us for Whale Week 2017 Learn more about these majestic creatures and what's being done to save them AROUND NOAA // #WhaleWeek reddit AUA: The Rising Risk of Whale Entanglement January was wetter and warmer than average for the U.S. Every Full Moon video: Watch 'Shipwrecked!'
+Enter Search Terms Join us for Whale Week 2017 Learn more about these majestic creatures and what's being done to save them AROUND NOAA // NOAA ship journeys into remote, deep Pacific ocean #WhaleWeek reddit AUA: The Rising Risk of Whale Entanglement January was wetter and warmer than average for the U.S.
 
 *   About our agency
 *   News and features
