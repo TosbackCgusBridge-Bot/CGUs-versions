@@ -112,7 +112,7 @@ Facebook Twitter Pinterest Wikipedia Instagram Google+ Linkedin Foursquare Music
 *   About PeekYou
 *   Privacy Policy
 *   Terms of Service
-*   Sitemap
+*   Directory
 *   Blog
 *   Daily Searches
 
