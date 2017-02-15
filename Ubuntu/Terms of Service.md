@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   The Nextcloud Box at MWC ›
+*   Network management with LXD (2.3+) ›
 *   Eclipse foundation: IoT developer survey ›
 *   Vision Mobile: State of the developer nation infographic ›
 *   Webinar: Getting started with the Canonical Distribution of Kubernetes ›
-*   openHAB arrives as a snap! ›
-*   8 KDE snaps written in January ›
