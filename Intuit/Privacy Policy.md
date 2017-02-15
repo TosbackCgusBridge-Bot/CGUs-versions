@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true C15758678105
+true true C15762161165
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Mon Feb 13 11:15:33 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.1.0.0.51.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Tue Feb 14 11:15:32 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.1.0.0.51.0
 
 *   for the home
 *   bed &. bath
@@ -56,9 +56,21 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Valentine's Day Sale
+It's Not Too Late To Find The Perfect Gift!
 
-In Store &. Online Through February 14
+Order an e-gift card or shop in stores.
+
+Send E-Gift Card View Store Ad Happy Valentine's Day!
+
+Today Online Only | February 14 | Code: 4GIFTS
+
+Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100
+
+\*exclusions apply
+
+Get Details: Valentine's Jewelry Sale
+
+Final Days! Ends February 14
 
 40 to 70% Off Fine &. Fashion Jewelry
 
@@ -76,7 +88,7 @@ Get Details: 2X Reward Points
 
 on all heart fine jewelry
 
-Get Details: 9.99 Junior's Graphic Tees, select styles, reg. $20 14.99 Ambrielle Bralettes, select styles, reg. $30   Shop Gifts Under $15 14.99 Valentine's Day Decorative Pillows, select styles, reg. $40 14.99 Ambrille Chemise, select styles, orig. $44, available in plus sizes Presidents' Day Sale Up to 60% Off
+Get Details: Presidents' Day Sale Up to 60% Off
 
 select styles
 
@@ -108,7 +120,15 @@ Get Details: JCPenney Rewards Shop &. Get Rewards
 
 For points earned on major appliances+
 
-+Get Details: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Feb 13 22:21:53 CST 2017 JVM :->. dtexppr1c1j3\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Feb 13 03:16:44 CST 2017 JVM :->. dtexppr1c1j5\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
++Get Details: 2017 Prom 40% Off Prom Dresses
+
+Select styles, 59.99-149.99, reg. $100-$250
+
+Shop Prom Dresses Shop Plus-Size Prom Dresses 50% Off Guys' Suit Separates, Sport Coats &. Dress Pants
+
+Select styles, reg. $70-$190
+
+Shop Guys' Prom Shop Guys' Dress Shirts, reg. $36-$60 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Feb 14 22:22:15 CST 2017 JVM :->. dtexppr1c1j6\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Feb 14 22:01:00 CST 2017 JVM :->. dtexppr1c1j4\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
