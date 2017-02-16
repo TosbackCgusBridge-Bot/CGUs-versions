@@ -1,6 +1,6 @@
 CBC/Radio-Canada Content Submission Guidelines for CBC/Radio-Canada Owned or Controlled Platforms (Content Submission Guidelines)
 
-Everyone, every way. All CBC/Radio-Canada platforms are open to people of every age, race, religion, sex, ethnic origin and sexual orientation.
+A space for us all. All CBC/Radio-Canada platforms are open to people of every age, race, religion, sex, ethnic origin and sexual orientation.
 
 We want your perspective. Probe, analyze, inform. Challenge, advocate, debate. Inspire, entertain, enjoy. Your contributions make our programming richer, the conversations more lively and diverse.
 
@@ -38,4 +38,4 @@ By submitting Your Content, you grant us the non-exclusive right to use your con
 
 **If you violate any of these guidelines, Your Content will not be accepted and your account may be suspended or blocked. CBC/Radio-Canada reserves the right to not open a forum on any given story or to close a forum at any time without notice and to reject the publication of any of Your Content. CBC/Radio-Canada reserves the right to change these Content Submission Guidelines at any time without notice.**
 
-Lasted Updated: June 2016
+Lasted Updated: February 2017
