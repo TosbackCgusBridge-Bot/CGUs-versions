@@ -76,7 +76,7 @@
         
           
           
-        Give a Buckle Gift card Don't forget, Valentine! Shop Digital Gift Cards.
+        Give a Buckle Gift card Ladies, pre-shop spring with SPECIAL PRICING! Shop Now.
 *   Men
     *   *   Featured
         
@@ -128,7 +128,7 @@
         
           
           
-        Give a Buckle Gift card Don't forget, Valentine! Shop Digital Gift Cards.
+        Give a Buckle Gift card Ladies, pre-shop spring with SPECIAL PRICING! Shop Now.
 *   Kids
     *   *   Featured
         
@@ -150,7 +150,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Don't forget, Valentine! Shop Digital Gift Cards.
+        Give a Buckle Gift card Ladies, pre-shop spring with SPECIAL PRICING! Shop Now.
 *   Jeans
     *   *   Women's Jeans
         
@@ -174,7 +174,13 @@
         *   Girl's Jeans
         *   Boy's Jeans
         
-        Give a Buckle Gift card Don't forget, Valentine! Shop Digital Gift Cards.
+        *   Factory Seconds
+        
+        *   Women’s Factory Seconds
+        *   Men’s Factory Seconds
+        *   Shop All Factory Seconds
+        
+        Give a Buckle Gift card Ladies, pre-shop spring with SPECIAL PRICING! Shop Now.
 *   New
     *   *   Women's New
         
@@ -201,7 +207,7 @@
         *   Shop All Girl's New
         *   Shop All Boy's New
         
-        Give a Buckle Gift card Don't forget, Valentine! Shop Digital Gift Cards.
+        Give a Buckle Gift card Ladies, pre-shop spring with SPECIAL PRICING! Shop Now.
 *   Sale
     *   *   Women's Sale
         
@@ -242,7 +248,7 @@
         
           
           
-        Give a Buckle Gift card Don't forget, Valentine! Shop Digital Gift Cards.
+        Give a Buckle Gift card Ladies, pre-shop spring with SPECIAL PRICING! Shop Now.
 
 A Global Message! × Privacy &. Security
 
