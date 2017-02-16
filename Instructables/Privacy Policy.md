@@ -130,7 +130,7 @@ Legal Notices &. Trademarks
 
   Privacy Statement
 
-Updated: September 30, 2016
+Updated: February 15, 2017
 
 *   Privacy Statement  
     o Cookie Policy  
