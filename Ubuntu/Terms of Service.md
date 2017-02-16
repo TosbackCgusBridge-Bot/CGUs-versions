@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Deploying Kubernetes on Bare Metal ›
+*   GPUs &. Kubernetes for Deep Learning — Part 1/3 ›
 *   The Nextcloud Box at MWC ›
 *   Network management with LXD (2.3+) ›
 *   Eclipse foundation: IoT developer survey ›
-*   Vision Mobile: State of the developer nation infographic ›
-*   Webinar: Getting started with the Canonical Distribution of Kubernetes ›
