@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true C15762161165
+true true C15763172967
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Tue Feb 14 11:15:32 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.1.0.0.51.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p13.jcpenney.com SERVER NAME :->. dtcomexpr1c1j4 TIME :->. Wed Feb 15 11:15:30 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.1.0.0.51.0
 
 *   for the home
 *   bed &. bath
@@ -56,39 +56,15 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-It's Not Too Late To Find The Perfect Gift!
+Clearaway Up To 80% Off Plus, shop 60-70% off online clearance Shop Now Women Men Kids Shoes Handbags Jewelry Window Home Hurry In Store For The Best Selection! Find a Store Stretch Your Penney Xersion Under $15
 
-Order an e-gift card or shop in stores.
+$10 Women's Xersion Tank, select styles, reg. $20
 
-Send E-Gift Card View Store Ad Happy Valentine's Day!
+Shop Women
 
-Today Online Only | February 14 | Code: 4GIFTS
+14.99 Men's Xersion Shorts, select styles, reg. $30
 
-Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100
-
-\*exclusions apply
-
-Get Details: Valentine's Jewelry Sale
-
-Final Days! Ends February 14
-
-40 to 70% Off Fine &. Fashion Jewelry
-
-Select styles
-
-Shop Jewelry Shop Heart Shaped Jewelry   JCPenney Rewards Extra 15% Off All Heart Fine Jewelry
-
-price reflected at checkout
-
-Shop Heart Shaped Jewelry Extra 20% Off With Your JCPenney Credit Card
-
-and code: 8SAVE
-
-Get Details: 2X Reward Points
-
-on all heart fine jewelry
-
-Get Details: Presidents' Day Sale Up to 60% Off
+Shop Men Presidents' Day Sale Up to 60% Off
 
 select styles
 
@@ -128,7 +104,7 @@ Shop Prom Dresses Shop Plus-Size Prom Dresses 50% Off Guys' Suit Separates, Spor
 
 Select styles, reg. $70-$190
 
-Shop Guys' Prom Shop Guys' Dress Shirts, reg. $36-$60 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Feb 14 22:22:15 CST 2017 JVM :->. dtexppr1c1j6\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Feb 14 22:01:00 CST 2017 JVM :->. dtexppr1c1j4\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Guys' Prom Shop Guys' Dress Shirts, reg. $36-$60 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Feb 15 22:14:56 CST 2017 JVM :->. dtexppr1c1j1\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Feb 15 22:16:22 CST 2017 JVM :->. dtexppr1c1j1\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
