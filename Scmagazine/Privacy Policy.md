@@ -198,37 +198,6 @@ If you have any questions on our Privacy Policy, or questions about our handling
 10th Floor  
 New York, NY 10001.**
 
-SC Media arms cybersecurity professionals with the in-depth, unbiased business and technical information they need to tackle the countless security challenges they face and establish risk management and compliance postures that underpin overall business strategies.
-
-**User Center**
-
-*   About
-*   Contact
-*   Advisory Board
-*   Meet the team
-*   Subscribe
-*   Advertise
-
-**Product Reviews**
-
-*   About/Contact
-*   FAQ
-*   Reprints
-
-**Other**
-
-*   Privacy Policy
-*   Terms &. Conditions
-
-**More SC Sites**
-
-*   RiskSec
-*   SC Whitepaper &. Resource Library
-*   SC Awards
-*   SC Online Events
-
-Follow SC Media
-
-Copyright © 2016 Haymarket Media, Inc. All Rights Reserved  
+Copyright © 2016 Haymarket Media, Inc. All Rights Reserved.  
 This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
 Your use of this website constitutes acceptance of Haymarket Media's Privacy Policy and Terms &. Conditions.
