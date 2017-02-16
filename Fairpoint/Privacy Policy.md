@@ -1,7 +1,4 @@
-Looking for MyFairPoint.net? All of the FairPoint associated links present on MyFairPoint.net have moved to the Residential Support page. From the right side column of the  
-Support page you can access MyFairPoint.com, your FairPoint email account, Premium Internet Support, Online Backup &. Sharing, Security Suite and Games on Demand.
-
-X Toggle navigation
+Toggle navigation
 
 *   Residential
 *   Business
