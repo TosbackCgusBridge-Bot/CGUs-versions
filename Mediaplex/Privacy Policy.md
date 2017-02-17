@@ -76,6 +76,10 @@ Login Let's Connect What We Do Watch Video
     Return On Ad Spend
 
 *   The Latest News
+*   How To Do Video Smartly
+    
+    7 questions your technology needs to consider  
+    
 *   Conversant Header Bidding is Here
     
     The solution is now open to all publishers  
@@ -87,10 +91,6 @@ Login Let's Connect What We Do Watch Video
 *   Winner: DMA Innovation Award
     
     Our video personalization platform, Kepler  
-    
-*   Don’t Talk to Digital Strangers
-    
-    How to have true 1:1 conversations  
     
 *   Marketing Is Failing At Its Top Priority
     
