@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Survival Rate Improving for Extremely Preterm Babies**
+**Why Do Some People Hate the Sound of Chewing? Scientists Might Have the Answer**
 
-**Futuristic Survival Capsule Aims to Provide Shelter During Tsunamis**
+**What the Use of Emojis and Emoticons Says About Our Personalities**
 
-**The Simple Difference Between Ballistic Missiles and Cruise Missiles**
+**Drones May One Day Help Honeybees Pollinate**
 
 **See More Headlines »**
 
