@@ -72,12 +72,14 @@ Aéropostale
     *   ACCESSORIES
     *   SHOES
 *   Active
+    
     *   Live Love Dream
     *   Tops
     *   Bottoms
     *   Intimates
     *   Accessories
     *   Sleep
+    
 *   Clearance
     
     *   Girls View All
@@ -91,7 +93,9 @@ Aéropostale
     *   Clearance Accessories
     
     *   ROOM
-*   P.S. KIDS
+    
+*   P.S. Kids
+    
     *   GIRLS
     *   BOYS
     *   UNIFORM
