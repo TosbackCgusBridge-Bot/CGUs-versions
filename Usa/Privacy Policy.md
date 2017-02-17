@@ -45,8 +45,12 @@ Change country/language X
     *   Online viewer
     *   Solutions
     *   Industry solutions
-        *   Simulation
         *   Building Information Modeling (BIM)
+        *   Film &. TV
+        *   Game design
+        *   Manufacturing
+        *   Product design
+        *   Simulation
         *   All solutions
     *   Cloud &. collaboration
     *   Makers &. indie designers
@@ -96,7 +100,6 @@ Change country/language X
     *   Company
         *   About us
         *   Newsroom
-        *   Autodesk Labs
     *   Investor relations
     *   Trust center
 
