@@ -109,12 +109,12 @@ View more results
     Join for free
 *   Hot Games
     
-    *   Nitro Heads
-    *   Farming Simulator
-    *   Slither.io
-    *   Elvenar
-    *   BadLand
-    *   Bartender Make Right Mix
+    *   Sao Legend
+    *   Klondike - the lost expedition
+    *   Madalin Stunt Cars 2
+    *   Bartender: Mix It Up
+    *   CoolGames
+    *   Riddle School 5
     
     Mobile Apps More
     
