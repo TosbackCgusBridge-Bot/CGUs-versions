@@ -137,6 +137,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Buy MLB.TV
     *   Watch MLB.TV
     *   Buy Gameday Audio
+    *   MLB.TV Spring Training
     *   Alternative Audio
     *   MLB.TV Devices
     *   MLB.TV with Extra Innings
