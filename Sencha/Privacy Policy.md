@@ -1,28 +1,29 @@
 Sencha
 
-*   Buy Now
-*   Try For Free
+*   Buy
+*   Try
 *   Products
     *   Sencha Platform
     *   Why Sencha
-    *   Frameworks
-        *   Ext JS
-        *   GXT
-        *   Sencha Touch
-    *   Test
-        *   Sencha Test
-    *   Tools
+    *   Ext JS
         *   Cmd
-        *   Plugins
+        *   IDE &. Editor Plugins
         *   Architect
         *   Themer
         *   Inspector
-    *   Sencha Market
+        *   Data Query Acceleration
+    *   Sencha Test
+    *   GXT
+    *   Sencha Touch
+    *   App Modernization
+        *   IBM i
+        *   Oracle Forms
+        *   Cobol Mainframe Apps
 *   Services
     *   Professional Services
     *   Partners
-    *   Developers
-*   Training
+    *   Training
+*   Pricing
 *   Resources
     *   Webinars
     *   Videos
@@ -164,18 +165,17 @@ If you have any questions or suggestions regarding our privacy policy, please co
 Get Sencha NewsBuy Online
 
 *   Products
-    *   Why Sencha
     *   Sencha Platform
+    *   Why Sencha
     *   Ext JS
-    *   GXT
     *   Sencha Test
+    *   GXT
     *   Sencha Touch
     *   Cmd
     *   Plugins
     *   Architect
     *   Themer
     *   Inspector
-    *   Sencha Market
 
 *   Services
     *   Professional Services
