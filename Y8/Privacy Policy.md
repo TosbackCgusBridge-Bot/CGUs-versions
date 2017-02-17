@@ -113,7 +113,6 @@ We may change from time to time the terms of Our Privacy Policy. The mention of 
 
 If you have any questions, you can contact us through our contact form.
 
-*   Advertise
 *   Contact Form
 *   Submit a Game or Animation
 *   Games for Your Website
