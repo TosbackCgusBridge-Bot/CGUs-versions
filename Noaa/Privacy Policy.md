@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Sanctua
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Join us for Whale Week 2017 Learn more about these majestic creatures and what's being done to save them AROUND NOAA // NOAA ship journeys into remote, deep Pacific ocean #WhaleWeek reddit AUA: The Rising Risk of Whale Entanglement January was wetter and warmer than average for the U.S.
+Enter Search Terms January was 3rd warmest on record for the globe Sea ice extents in Arctic, Antarctic hit record lows AROUND NOAA // NOAA ship journeys into remote, deep Pacific ocean #WhaleWeek reddit AUA: The Rising Risk of Whale Entanglement Join us for Whale Week 2017
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-NOAA
+iStock image
