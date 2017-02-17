@@ -94,8 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Feb 14, 2017 RSA Conference - Non-Profits On the Loose. Heartbreaker’s Bash  
-
 Wed, Feb 15, 2017 Internet of Insecurity - Featured RSA Session!
 
 **Reserve Your Seat for the key session** \- The rise of IoT has brought forth a new generation of devices and services representing significant innovation, yet all  too many ship insecure and are not supported over their life.
@@ -108,7 +106,9 @@ Wed, Apr 19, 2017 IAPP Global Summit
 
 The Global Privacy Summit returns to DC this April, bringing together myriad perspectives from around the globe for keen discussion and gold-standard education, big-picture inspiration and valuable connections. In an age when the future in privacy is a blur, find clarity at the Summit.
 
-More >>.
+Wed, May 24, 2017 Planning for the Future: A Conference About Identity Theft
+
+Ten years ago, President Bush launched a new era in the fight against identity theft by issuing an executive order establishing the Identity Theft Task Force, which the Commission co-chaired. In the ensuing ten years, great strides have been made to combat identity theft but it remains a significant problem for American consumers. The Federal Trade Commission will host an all-day conference to take a comprehensive look at how identity theft has evolved over the last decade and what we can do to address this challenge in the future.
 
 *   OTA Blog
 *   Newsletters
