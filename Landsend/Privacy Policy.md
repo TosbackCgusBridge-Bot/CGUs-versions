@@ -173,11 +173,12 @@ menu 0
     FEATURED SHOPS
     
     *   New Arrivals
-    *   Outerwear Sale
     *   Swim Shop
+    *   Toddler Shop
+    *   Spring Break Must Haves
     *   School Uniforms
-    *   Iron Knee Pants
     *   Girls' Knit Kit
+    *   Iron Knee Pants
     *   Sale
     
     SHOP BY AGE RANGE
@@ -191,8 +192,8 @@ menu 0
     
     Girls>.
     
-    *   Outerwear
     *   Swimsuits
+    *   Outerwear
     *   Tops
     *   Sweaters
     *   Dresses
@@ -208,8 +209,8 @@ menu 0
     *   Long Underwear
     
     Boys>.
-    *   Outerwear
     *   Swimwear
+    *   Outerwear
     *   Tops
     *   Sweaters
     *   Pants
@@ -242,7 +243,8 @@ menu 0
     *   Water Shoes &. Sandals
     *   Totes &. Beach Bags
     *   Beach Towels
-    *   Swim Finder
+    *   Women's Swim Finder
+    *   Mix &. Match Tool
     *   Sale
 *   Outerwear
     
@@ -319,7 +321,6 @@ menu 0
     
     *   Best-in-Class Polos
     *   Iron Knee Pants
-    *   Kids' Outerwear Sale
     *   Spiritwear
     *   After School
     *   Sale
@@ -555,11 +556,12 @@ menu 0
     Back | Kids FEATURED SHOPS Back | Kids
     
     *   New Arrivals
-    *   Outerwear Sale
     *   Swim Shop
+    *   Toddler Shop
+    *   Spring Break Must Haves
     *   School Uniforms
-    *   Iron Knee Pants
     *   Girls' Knit Kit
+    *   Iron Knee Pants
     *   Sale
     
     SHOP BY AGE RANGE Back | Kids
@@ -573,8 +575,8 @@ menu 0
     
     Girls Back | Girls
     
-    *   Outerwear
     *   Swimsuits
+    *   Outerwear
     *   Tops
     *   Sweaters
     *   Dresses
@@ -590,8 +592,8 @@ menu 0
     *   Long Underwear
     
     Boys Back | Boys
-    *   Outerwear
     *   Swimwear
+    *   Outerwear
     *   Tops
     *   Sweaters
     *   Pants
@@ -624,7 +626,8 @@ menu 0
     *   Water Shoes &. Sandals
     *   Totes &. Beach Bags
     *   Beach Towels
-    *   Swim Finder
+    *   Women's Swim Finder
+    *   Mix &. Match Tool
     *   Sale
 *   Outerwear
     
@@ -700,7 +703,6 @@ menu 0
     
     *   Best-in-Class Polos
     *   Iron Knee Pants
-    *   Kids' Outerwear Sale
     *   Spiritwear
     *   After School
     *   Sale
