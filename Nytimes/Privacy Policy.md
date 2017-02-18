@@ -1,9 +1,8 @@
-campaign: nyt2017\_bar1\_spotify\_6KHXY -- 285233, creative: nyt2016\_bar1\_spotify\_6KHXY -- 415689, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
+campaign: nyt2017\_bar1\_digi\_february\_sale\_6KR4R -- 285344, creative: nyt2016\_bar1\_digi\_february\_sale -- 415780, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
 
-*   SUBSCRIBE NOW News. Culture. Lifestyle.  
-    Get The Times for as little  
-    as $3.75 a week. Offers include a one-year All Access subscription  
-    for $5 a week with Spotify Premium free. SUBSCRIBE NOW
+*   SUBSCRIBE NOW Truth.  
+    It has no alternative. Discover it with us.  
+    Get 50% off for one year. SEE MY OPTIONS
 
 SUBSCRIBE*   Help
 
@@ -251,4 +250,4 @@ Search Help
 *   Contact Us
 *   Site Feedback
 
-Campaign ID: 285217 | Creative: nyt2017\_pers\_B2B\_cookieset\_v5\_HTTPS -- 415673 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Inv1
+Campaign ID: 285217 | Creative: nyt2017\_pers\_B2B\_cookieset\_v5\_HTTPS -- 415673 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Inv3
