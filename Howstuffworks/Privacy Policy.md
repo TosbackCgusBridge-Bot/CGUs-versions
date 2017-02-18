@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Why Do Some People Hate the Sound of Chewing? Scientists Might Have the Answer**
+**No Link Between Immigrants and Crime**
 
-**What the Use of Emojis and Emoticons Says About Our Personalities**
+**Super, Surprising and Strange: Our Best Stories You Might Have Missed This Week**
 
-**Drones May One Day Help Honeybees Pollinate**
+**Is it Ever Legal to Punch Someone in the Face? Oh Yeah**
 
 **See More Headlines »**
 
