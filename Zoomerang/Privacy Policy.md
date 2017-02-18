@@ -7,8 +7,8 @@
 *   CAREERS
 *   CONTACT
 *   CLIENT LOGIN
-    *   METRIXLAB
-    *   MARKETTOOLS
+    *   INSIGHTS
+    *   SURVEY MANAGER
 
 *   SOLUTIONS
     *   PRODUCT INNOVATION
@@ -19,8 +19,8 @@
 *   CAREERS
 *   CONTACT
 *   CLIENT LOGIN
-    *   METRIXLAB
-    *   MARKETTOOLS
+    *   INSIGHTS
+    *   SURVEY MANAGER
 
 MetrixLab MetrixLab
 
