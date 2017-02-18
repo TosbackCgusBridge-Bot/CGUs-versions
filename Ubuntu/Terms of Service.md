@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Snapcraft 2.27 has been released ›
+*   MWC17: The Future of Wireless Networks ›
 *   Lime Microsystems and Canonical announce LimeNET crowdfunding ›
 *   Deploying Kubernetes on Bare Metal ›
 *   GPUs &. Kubernetes for Deep Learning — Part 1/3 ›
-*   The Nextcloud Box at MWC ›
-*   Network management with LXD (2.3+) ›
