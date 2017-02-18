@@ -94,10 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Wed, Feb 15, 2017 Internet of Insecurity - Featured RSA Session!
-
-**Reserve Your Seat for the key session** \- The rise of IoT has brought forth a new generation of devices and services representing significant innovation, yet all  too many ship insecure and are not supported over their life.
-
 Wed, Feb 22, 2017 2017 Online Trust Audit &. Honor Roll - Maximizing Your Score
 
 Get your website ready for this year's Online Trust Audit by hearing the latest on methodology updates for the 2017. Understand how to maximize your results  on brand protection, site security and privacy.  Testing to start in mid-April with result published in mid-June.  Learn why these measures are good for your business maximizing consumer trust, brand reputation and crucial data protection. More Information>
