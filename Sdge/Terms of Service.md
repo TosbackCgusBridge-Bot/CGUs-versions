@@ -15,7 +15,7 @@ The Company reserves the right to revise, supplement or discontinue all or porti
 
 Claims of Infringement on Web site
 
-In the event that any visitor believes that its copyrights or trademarks are infringed by materials posted or stored on this Web site, they should complete the linked “Notice of Infringement” and email it to our Webmaster: \[email protected\] with a confirming copy mailed to:
+In the event that any visitor believes that its copyrights or trademarks are infringed by materials posted or stored on this Web site, they should complete the linked “Notice of Infringement” and email it to our Webmaster: webmaster@sdge.com with a confirming copy mailed to:
 
 > San Diego Gas &. Electric Company  
 > Office of the General Counsel  
@@ -105,7 +105,7 @@ Questions and Feedback
 
 Users having any questions or issues on the Terms and Conditions for this Web site, please contact the Webmaster for this Web site at the following e-mail:
 
-*   \[email protected\]
+*   webmaster@sdge.com
 
 Users may also write the Webmaster:
 
