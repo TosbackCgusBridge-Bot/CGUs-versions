@@ -1,8 +1,8 @@
-Print AOL Privacy Policy **Last updated:** September 29, 2016  
+Print AOL Privacy Policy **Last updated:** February 17, 2017  
   
-AOL is now part of the Verizon family of companies. Additional privacy practices are described in the Verizon Privacy Policy.  In the event of a conflict between this Privacy Policy and the Verizon Privacy Policy, the AOL Privacy Policy will control when you are on an AOL site or using and AOL product or service.  
+AOL is now part of the Verizon family of companies. Additional privacy practices are described in the Verizon Privacy Policy.  In the event of a conflict between this Privacy Policy and the Verizon Privacy Policy, the AOL Privacy Policy will control when you are on an AOL site or using an AOL product or service.  
   
-At AOL, it's our mission to provide users with rich, interactive online experiences. From Pulitzer-Prize winning journalism on the Huffington Post, to the latest technology news on TechCrunch, to up-to-the-minute traffic information on MapQuest, our websites, apps, and other services and software are designed to keep you informed, entertained and delighted. We also operate some of the industry's best-known advertising services, including Adap.tv and Advertising.com.  
+At AOL, it's our mission to provide users with rich, interactive online experiences. From Pulitzer-Prize winning journalism on the Huffington Post, to the latest technology news on TechCrunch, our websites, apps, and other services and software are designed to keep you informed, entertained and delighted. We also operate some of the industry's best-known advertising services, including Adap.tv and Advertising.com.  
   
 We're always working to make our services even better. One of the ways we do that is by analyzing information we collect and receive about users in order to figure out what they might be interested in. This helps us develop more engaging content and provide more effective advertising, which enables us to keep most of our services free.  
   
@@ -33,7 +33,7 @@ We collect and receive information about users in a few different ways:
         *   The type of device you're using (e.g., an iPhone);
         *   Certain device identifiers which may be unique to your device. and
         *   Your Internet service provider.
-    *   _Location information_. This information can include, for example, your device's GPS signal and information about nearby WiFi networks and cell towers. We get this information when you use location-enabled services like MapQuest, which can give you driving directions based on your current location.
+    *   _Location information_. This information can include, for example, your device's GPS signal and information about nearby WiFi networks and cell towers. We get this information when you use location-enabled services, which can give you driving directions based on your current location.
     *   _Other information_. Please note that AOL may use information about your use of certain AOL communication tools (for example, AOL Mail and AOL Instant Messenger). however, when you use AOL communication tools, AOL does not read your private online communications without your consent.
 *   **Information from third-party sources** . We may receive additional information about you that is publicly or commercially available and combine that with the information we have collected or received about you in other ways. Also, we receive information about you when you choose to connect with social networking services while using our Services. Learn more about how that works here.
 
@@ -134,9 +134,6 @@ By email
 **International Users**  
   
 AOL is based in the United States, and, regardless of where you use our Services or otherwise provide information to us, the information may be transferred to and maintained on servers located in the U.S. Please note that any information we obtain about you will be stored in accordance with U.S. privacy laws, regulations, and standards, which may not be equivalent to the laws in your country of residence. By using our Services or by providing us with your information, you consent to this collection, transfer, storage, and processing of information to and in the United States. Learn more.  
-  
-For users of AOL Services provided in Switzerland, AOL Inc. complies with the  U.S.-Swiss Safe Harbor Framework and has certified that it adheres to its Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To  view AOL’s certification, please visit http://2016.export.gov/safeharbor/swiss.  AOL Inc. is also a participant in the ICDR/AAA U.S.- Swiss Safe Harbor Program.  If you believe AOL has not satisfactorily addressed your privacy concerns, you may contact the ICDR/AAA at:  http://info.adr.org/safeharbor/.  
-  
   
 **How to Contact Us**  
   
