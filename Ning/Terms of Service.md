@@ -425,4 +425,4 @@ termsofservice \[at\] ning \[dot\] com or by contacting our Help Center.
 
 Ning Interactive, Inc.
 
-2850 Horizon Ridge Parkway
+1906 El Camino Real, Menlo Park, CA 94027
