@@ -171,11 +171,8 @@ We may occasionally update this Privacy Policy. If we do, we will update the “
 
 If you have questions about this Privacy Policy, you may contact us at privacyinfo \[at\] ning \[dot\] com. You may also write to us at:
 
-Ning Interactive, Inc.
+Ning Interactive, Inc.  
+1906 El Camino Real  
+Menlo Park, CA 94027
 
-2850 Horizon Ridge Parkway
-
-Suite 200
-
-Henderson, NV 89052  
 Attn: Privacy Matters
