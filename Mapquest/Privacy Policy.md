@@ -8,7 +8,7 @@ Search the web
 
 AOL Privacy Policy Highlights
 
-We are committed to building, improving, and expanding some of the best brands online – or anywhere, for that matter. You can find out about our brands such as The Huffington Post, MapQuest, Engadget, AOL Advertising and more.
+We are committed to building, improving, and expanding some of the best brands online – or anywhere, for that matter. You can find out about our brands such as The Huffington Post, Engadget, AOL Advertising and more.
 
 AOL is now part of the Verizon family of companies. Additional privacy practices are described in the Verizon Privacy Policy. In the event of a conflict between this Privacy Policy and the Verizon Privacy Policy, the AOL Privacy Policy will control when you are on an AOL site or using an AOL product or service.
 
