@@ -3,6 +3,7 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
+    *   #FREETOBE
     *   Prince + Fox
     *   Cape Juby
     *   Uniform
@@ -47,6 +48,7 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
+    *   #FREETOBE
     *   Prince &. Fox
     *   Cape Juby
     *   Uniform
@@ -94,12 +96,15 @@ Aéropostale
     
     *   ROOM
     
-*   P.S. Kids
+*   #FREETOBE
     
-    *   GIRLS
-    *   BOYS
-    *   UNIFORM
-    *   CLEARANCE
+    *   Meet the Girls
+    *   @ASHLEY\_MOORE\_
+    *   @ITSMELEAF
+    
+    *   Meet the Guys
+    *   @LOUISMAYHEW
+    *   @X.VALENTINE
 
 *   Go
 
