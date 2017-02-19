@@ -4,6 +4,7 @@ Aéropostale
     
     *   NEW ARRIVALS
     *   #FREETOBE
+    *   TRENDING
     *   Prince + Fox
     *   Cape Juby
     *   Uniform
@@ -49,6 +50,7 @@ Aéropostale
     
     *   NEW ARRIVALS
     *   #FREETOBE
+    *   TRENDING
     *   Prince &. Fox
     *   Cape Juby
     *   Uniform
@@ -82,6 +84,7 @@ Aéropostale
     *   Accessories
     *   Sleep
     
+*   TRENDING
 *   Clearance
     
     *   Girls View All
