@@ -17,7 +17,7 @@ SEG1 hp
 
 Office Depot Deals
 
-RQVTotw5Ab\_DFZGAtdn1J9f
+lpUU8BsFfAw8hFQPlbbyya0
 
 Search Suggestions
 
@@ -38,7 +38,7 @@ Your recent searches
 *   Technology
 *   Furniture
 *   School Supplies
-*   Copy &. Print
+*   Print &. Copy
 *   $ Deals
 
 MY OFFICE DEPOT  
