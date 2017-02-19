@@ -10,9 +10,7 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Valentine's Day
-    *   Valentine's Day Gift Ideas For Him
-    *   Tailgating
+    Holidays &. Occasions*   Tailgating
     *   Weddings &. Showers
     *   Gifts for Her
     *   Gifts for Him
@@ -86,9 +84,7 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Valentine's Day
-    *   Valentine's Day Gift Ideas For Him
-    *   Tailgating
+    Holidays &. Occasions*   Tailgating
     *   Weddings &. Showers
     *   Gifts for Her
     *   Gifts for Him
