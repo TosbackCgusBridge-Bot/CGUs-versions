@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   IOTA: IoT revolutionized with a Ledger ›
+*   Running Kubernetes inside LXD ›
 *   Snapcraft 2.27 has been released ›
 *   MWC17: The Future of Wireless Networks ›
 *   Lime Microsystems and Canonical announce LimeNET crowdfunding ›
-*   Deploying Kubernetes on Bare Metal ›
-*   GPUs &. Kubernetes for Deep Learning — Part 1/3 ›
