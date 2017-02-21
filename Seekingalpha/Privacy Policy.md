@@ -1,5 +1,6 @@
-Sign in / Join Now GO»
+GO»
 
+*   My Portfolio
 *   Market News
 *   Stock Ideas
 *   Dividends
@@ -93,4 +94,4 @@ Seeking Alpha's Privacy Policy is to share personal information only with the ow
 
 _Updated: May 26, 2015_
 
-Top Authors| RSS Feeds| Sitemap| About Us| Contact Us Terms of Use| Privacy| Xignite quote data| © 2017 Seeking Alpha
+Top Authors| RSS Feeds| Sitemap| About Us| Feedback| Contact Us Terms of Use| Privacy| Xignite quote data| © 2017 Seeking Alpha
