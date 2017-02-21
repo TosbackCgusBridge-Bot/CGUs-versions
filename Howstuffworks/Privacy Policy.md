@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
+**Here's What Happens When You Swallow a Leech**
+
+**Why Don't More Babies Get Mom's Last Name?**
+
 **No Link Between Immigrants and Crime**
-
-**Super, Surprising and Strange: Our Best Stories You Might Have Missed This Week**
-
-**Is it Ever Legal to Punch Someone in the Face? Oh Yeah**
 
 **See More Headlines »**
 
