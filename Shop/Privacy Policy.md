@@ -291,7 +291,8 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Accessories &. Software
     *   Services &. Warranty
     *   Smartphones
-    *   Credit Financing
+    *   Business Leasing
+    *   Consumer Financing
     *   Trade-In Program
     *   Gaming Computers
     *   Think Brand Computers
