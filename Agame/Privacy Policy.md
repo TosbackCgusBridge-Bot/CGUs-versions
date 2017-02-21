@@ -1,65 +1,3 @@
-Categories
-
-*   Home
-*   Multiplayer
-    *   Social Games
-    *   2 player
-    *   Casino Games
-    *   MMO
-    *   .io Games
-*   Action
-    *   Fighting
-    *   Anime and Manga Games
-    *   Shooting Games
-    *   Strategy
-    *   Tower Defence
-    *   War Games
-    *   Zombie Games
-*   Adventure
-    *   Platform Games
-    *   Physics
-    *   Funny Games
-    *   Simulation
-    *   Scary Games
-    *   Ninja Games
-*   Puzzle
-    *   Casino Games
-    *   Hidden Objects
-    *   Colored Blocks
-    *   Mahjong
-    *   Match 3
-    *   Solitaire
-    *   Bubble Shooter
-*   Girls
-    *   Animal
-    *   Beauty Games
-    *   Caring
-    *   Cooking
-    *   Room Decoration
-    *   Dress Up
-    *   Love Games
-    *   Princess Games
-*   Racing
-    *   BMX Games
-    *   Truck Games
-    *   Flight Games
-    *   Car Games
-    *   Motor Racing
-    *   Parking
-    *   Boat Racing
-    *   Stunt Driving
-*   Sports
-    *   Athletics
-    *   Basketball
-    *   Billiards
-    *   Skateboarding
-    *   Winter Sports
-    *   Golf
-    *   Soccer
-    *   Boxing
-
-Sign In
-
 Pick a theme
 
 *   Red
@@ -79,10 +17,6 @@ Games
 
 View more results
 
-*   For you
-    
-*   Specials
-    
 *   Multiplayer
     
 *   Action
@@ -97,37 +31,13 @@ View more results
     
 *   Sports
     
-
+*   More
+    
+*   Specials
+    
 *   For you
     
-    My last played games
-    
-    FAVE GAMES
-    
-    Are you a existing user? Then log in to see you favorited games here! Don't have an account yet? Be sure to sign up to use this feature.
-    
-    Join for free
-*   Hot Games
-    
-    *   Sao Legend
-    *   Klondike - the lost expedition
-    *   Madalin Stunt Cars 2
-    *   Bartender: Mix It Up
-    *   CoolGames
-    *   Riddle School 5
-    
-    Mobile Apps More
-    
-    *   Uphill Rush
-    *   My Dolphin Show
-    *   Nitro Heads
-    *   Cats Empire
-    *   Troll Face Quest Video Games
-    *   Hero Simulator: Idle Adventure
-    *   Troll Face Quest Video Memes
-    
-    Specials
-    
+
 *   Top Categories
     
     *   Social Games
@@ -296,6 +206,43 @@ View more results
     *   Sports Heads Basketball
     *   Baseball
     *   SnookerSpotlight England Soccer League
+*   *   Multiplayer
+    *   Action
+    *   Adventure
+    *   Puzzle
+    *   Girls
+    *   Racing
+    *   Sports
+*   For you
+    
+    My last played games
+    
+    FAVE GAMES
+    
+    Are you a existing user? Then log in to see you favorited games here! Don't have an account yet? Be sure to sign up to use this feature.
+    
+    Join for free
+*   Hot Games
+    
+    *   Sao Legend
+    *   Klondike - the lost expedition
+    *   Madalin Stunt Cars 2
+    *   Bartender: Mix It Up
+    *   CoolGames
+    *   Riddle School 5
+    
+    Mobile Apps More
+    
+    *   Uphill Rush
+    *   My Dolphin Show
+    *   Nitro Heads
+    *   Cats Empire
+    *   Troll Face Quest Video Games
+    *   Hero Simulator: Idle Adventure
+    *   Troll Face Quest Video Memes
+    
+    Specials
+    
 
 privacy policy
 
