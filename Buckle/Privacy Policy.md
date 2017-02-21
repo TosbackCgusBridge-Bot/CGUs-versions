@@ -24,11 +24,11 @@
         
         *   New Arrivals
         *   Shop by Outfit
-        *   Shop By Brand
+        *   Shop by Brand
         *   Buckle Exclusive
         *   Shop Instagram
         *   Plus Sizes
-        *   Buckle Select
+        *   buckle SELECT
         *   Promotions
         
         *   Tops
@@ -36,20 +36,21 @@
         *   T-Shirts
         *   Shirts/Blouses
         *   Bandeaus/Bralettes
-        *   Fashion
-        *   Sweatshirts
-        *   Sweaters
+        *   Fashion Tops
+        *   Tank Tops
+        *   Kimonos
         *   Coats/Jackets
         *   Shop All
         
         *   Bottoms
         
         *   Jeans
-        *   Ankle Skinnys
+        *   Ankle Jeans
+        *   Leggings &. Loungewear
         *   Pants
-        *   Leggings
-        *   Skirts
         *   Shorts
+        *   Crops
+        *   Skirts
         *   Shop All
         
         *   Shoes
@@ -85,7 +86,7 @@
         *   Promotions
         *   Shop by Outfit
         *   Shop Instagram
-        *   Buckle Select
+        *   buckle SELECT
         *   Buckle Exclusive
         
         *   Tops
