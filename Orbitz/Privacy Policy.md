@@ -1,6 +1,9 @@
-Skip to main content Cobranded header here Welcome to Orbitz.com **Continue to the U.S. site at Orbitz.com** close Booking travel on behalf of Done Join Rewards //a.travel-assets.com/globalcontrols-service/content/416e9fb207151c5af47426156826a452009a7c69/ Search anything Search
+Skip to main content Cobranded header here Welcome to Orbitz.com **Continue to the U.S. site at Orbitz.com** close Booking travel on behalf of Done Join Rewards //a.travel-assets.com/globalcontrols-service/content/151f6c721a1f25e4d9437cf29a775ee55ed0b452/ Search anything Search
 
 Show Menu
+
+*   *   or create a Travelocity Account
+    
 
 *   Shop Travel
     *   Home
@@ -35,7 +38,7 @@ Show Menu
     *   Customer Support
     *   Feedback
 
-//a.travel-assets.com/globalcontrols-service/content/416e9fb207151c5af47426156826a452009a7c69/ Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/151f6c721a1f25e4d9437cf29a775ee55ed0b452/ Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Hotels
@@ -247,4 +250,4 @@ Other Links
 *   Mobile
 *   Vacations by Interest
 
-©2016 Orbitz, LLC. All rights reserved. Orbitz, Orbitz.com, and the Orbitz logo are either registered trademarks or trademarks of Orbitz, LLC in the U.S. and/or other countries. Other logos or product and company names mentioned herein may be the property of their respective owners.
+© 2017 Orbitz, LLC. All rights reserved. Orbitz, Orbitz.com, and the Orbitz logo are either registered trademarks or trademarks of Orbitz, LLC in the U.S. and/or other countries. Other logos or product and company names mentioned herein may be the property of their respective owners.
