@@ -21,10 +21,11 @@ Regions
 
 U.S. Politics
 
-*   Election Results
-*   Nation
-*   World
-*   Our Team
+*   45
+*   Congress
+*   Security
+*   The Nine
+*   Trumpmerica
 
 *   Business
 *   Markets
@@ -158,10 +159,11 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
     8.  Opinion
 
 1.  U.S. Politics
-    1.  Election Results
-    2.  Nation
-    3.  World
-    4.  Our Team
+    1.  45
+    2.  Congress
+    3.  Security
+    4.  The Nine
+    5.  Trumpmerica
 
 1.  1.  Business
     2.  Markets
