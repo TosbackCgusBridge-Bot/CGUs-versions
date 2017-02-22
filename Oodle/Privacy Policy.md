@@ -134,9 +134,9 @@ The Sites are hosted in the United States. If you use the Sites from outside of 
 
 Oodle complies with the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Oodle has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor/  
 
-Privacy Complaints from European Union Citizens. in compliance with the Safe Harbor Principles, Oodle commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Oodle at abuse@oodle.com.  
+Privacy Complaints from European Union Citizens. in compliance with the Safe Harbor Principles, Oodle commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Oodle at \[email protected\].  
 
-More Questions? If you have any questions about this Privacy Policy or want to report abuse, please contact us at abuse@oodle.com.
+More Questions? If you have any questions about this Privacy Policy or want to report abuse, please contact us at \[email protected\].
 
 Last update August 15, 2015
 
