@@ -145,7 +145,11 @@ webmaster@timeanddate.com timeanddate.com
 
 Index
 
-You might also like 12 Months of the Year
+You might also like LIVE Stream: Annular Solar Eclipse
+
+On Sunday, February 26, 2017 from 12:05 UTC you can watch our LIVE webcast as the Moon gradually covers the Sun's disk until it forms a ring of fire in the sky. more
+
+12 Months of the Year
 
 Find out what months have to do with the Moon, why there are 12 months, and what the month names mean. more
 
@@ -153,13 +157,9 @@ Find out what months have to do with the Moon, why there are 12 months, and what
 
 List of cosmic events in 2017 including supermoons, solar and lunar eclipses, meteor showers, solstices, and equinoxes. more
 
-Magnetic Declination
+Australia’s Time Zones
 
-A compass needle doesn't point to the geographical North Pole but to magnetic north. Did you know that it usually doesn't point to the magnetic North Pole either? more
-
-Time Zones and DST in Europe
-
-Europe is divided into 4 main time zones that span from UTC +0 hours in western European countries to UTC +3 hours in Belarus and parts of Russia. more
+Australia has multiple time zones. Some of them are half-hour and quarter-hour time zones. Not all states and territories use Daylight Saving Time (DST). more
 
 Copyright © Time and Date AS 1995–2017. All rights reserved.
 
