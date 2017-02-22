@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true L15785248813
+true true L15787218124
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Mon Feb 20 11:15:34 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.1.0.0.51.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p20.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Tue Feb 21 11:12:30 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.1.0.0.51.0
 
 *   for the home
 *   bed &. bath
@@ -56,51 +56,27 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-19.99 Gloria Vanderbilt, Stylus or A.N.A Denim, select styles, orig. $40-$50 30-50% Off Window, select styles 40-50% Off Men's Activewear, select styles 30-50% Off Bedding, select styles Buy 1 Get 1 For 1¢ St. John's Bay Apparel For Her\*, select styles, reg. $12-$60
+Ambrielle Anniversary Sale Only Once a Year! Ends February 26 Shop AmbrielleFREE! New Ambrielle Microfiber Panty
 
-\*Buy one item at regular price, get the second item of equal or lesser value for one cent, while supplies last.
+with purchase of any Ambrielle bra
 
-Shop St. John's Bay 5.99 Baby &. Toddler Okie Dokie Match-ups, reg. $12 Buy 1 Get 1 For 1¢ Guys' Arizona Denim\*, select styles, reg. $42
+19.99 Ambrielle Bras
 
-\*Buy one item at regular price, get the second item of equal or lesser value for one cent, while supplies last.
+Select styles, reg. $30-$44
 
-Shop Guys' Arizona Denim Buy 1 Get 1 For 1¢ Boys' &. Girls' Arizona Apparel\*, reg. $12-$46
+Shop Bras Baby Sale Up to 50% Off Over 18 New Brands &. 500 New Items For Your Baby
 
-\*Buy one item at regular price, get the second item of equal or lesser value for one cent, while supplies last.
+Ends February 26
 
-Shop Boys Shop Girls 19.99 Ambrielle Bras, select styles, reg. $30-$44 40% Off Liz Claiborne Handbags, select styles, $21-$51 reg. $35-$85 29.99 Women's Casual Shoes, select styles, reg. $55 up to 50% Off Kitchen &. Dining, select styles Presidents' Day Sale Up to 60% Off
+Shop Now Shop the Ad 2017 Prom 40% Off Prom Dresses Shop Prom Dresses Shop Plus-Size Prom Dresses  50% Off\* Guys' Suit Separates &. Tuxedos
 
-select styles
+Online only, select styles, CODE: GETNOW6, reg. $70-$200
 
-Shop All Home Bedding Curtains &. Drapes Kitchen &. Dining Furniture Mattresses 55 to 60% Off Mattress Closeout Event
+Shop Guys Prom Get Details   Red Zone Clearance New Markdowns! 60 to 70% Off
 
-select styles while supplies last
+In Store &. Online
 
-Shop Mattress Closeout Event Up to 30% Off\* Major Appliances
-
-Select styles
-
-Shop Major Appliances:
-
-\*GE, GE Profile &. GE Cafe limited to 10% off savings.
-
-18 Months or 30 Months Special Financing\*\*
-
-Available on qualifying major appliance purchases made through 2/20/17 on a JCPenney Credit Card. Must request at time of purchase.
-
-\*\*Get Details:
-
-Don't have a JCPenney Credit Card?
-
-Apply Now: Free Delivery &. Basic Installation
-
-On all appliance purchases over $299
-
-Get Details: JCPenney Rewards Shop &. Get Rewards
-
-For points earned on major appliances+
-
-+Get Details: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Feb 20 22:16:26 CST 2017 JVM :->. dtexppr1l2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Feb 20 22:00:28 CST 2017 JVM :->. dtexppr1l2j1\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Clearance \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Feb 21 22:18:29 CST 2017 JVM :->. dtexppr1l2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Feb 21 04:24:32 CST 2017 JVM :->. dtexppr1l2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
