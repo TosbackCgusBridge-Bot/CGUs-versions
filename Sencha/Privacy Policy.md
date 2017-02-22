@@ -184,6 +184,8 @@ Get Sencha NewsBuy Online
 
 *   Training
 
+*   Pricing
+
 *   Customers
 
 *   Support
