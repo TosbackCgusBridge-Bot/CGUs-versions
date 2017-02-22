@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Here's What Happens When You Swallow a Leech**
+**FDA Will Soon Help You Calculate How Much Added Sugar You're Eating**
 
-**Why Don't More Babies Get Mom's Last Name?**
+**Starfish Use Intricate Water Whorls as a Survival Mechanism**
 
-**No Link Between Immigrants and Crime**
+**Barbers Across the Globe Are Using Fire to Style Hair**
 
 **See More Headlines »**
 
