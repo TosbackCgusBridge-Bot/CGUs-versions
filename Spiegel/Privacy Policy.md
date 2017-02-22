@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 11.827,62ǀ
+*   DAX 11.967,49ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -160,6 +160,14 @@ Mein SPIEGEL
         *   Newsletter
 
 *   SPIEGEL Plus
+    *   *   Übersicht
+        *   SPIEGEL Plus Deutschland
+        *   SPIEGEL Plus Wirtschaft
+        *   SPIEGEL Plus Gesellschaft
+        *   SPIEGEL Plus Ausland
+        *   SPIEGEL Plus Sport
+        *   SPIEGEL Plus Wissenschaft
+        *   SPIEGEL Plus Kultur
 *   DER SPIEGEL live
 *   DER SPIEGEL
     
