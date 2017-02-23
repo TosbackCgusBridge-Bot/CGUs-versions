@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
-*   Webinar: Qt on Ubuntu Core ›
-*   DAQRI showcases Ubuntu powered Augmented Reality helmet at MWC ›
-*   IOTA: IoT revolutionized with a Ledger ›
-*   Running Kubernetes inside LXD ›
-*   Snapcraft 2.27 has been released ›
+*   Why does software-defined everything matter? ›
+*   An Ubuntu snap-based solution for enterprises to control their data ›
+*   Screenly announces a follow-up to its popular digital signage solution ›
+*   Webinar: Get Cloud-ready Servers in Minutes with MAAS ›
+*   LXD on Debian (using snapd) ›
