@@ -224,12 +224,12 @@ View more results
     Join for free
 *   Hot Games
     
-    *   Sao Legend
-    *   Klondike - the lost expedition
-    *   Madalin Stunt Cars 2
-    *   Bartender: Mix It Up
-    *   CoolGames
-    *   Riddle School 5
+    *   Nitro Heads
+    *   Agar.io
+    *   Treasure Master
+    *   Jackpot
+    *   Thrill Rush 5
+    *   Basketball FRVR
     
     Mobile Apps More
     
