@@ -8,6 +8,7 @@ Aéropostale
     *   Prince + Fox
     *   Cape Juby
     *   Uniform
+    *   Swim
     *   Online Only
     *   Plus Sizes
     *   Clearance
@@ -35,6 +36,7 @@ Aéropostale
     
     *   DRESSES + ROMPERS
     *   JACKETS
+    *   SWIM
     *   FOOTWEAR
     *   ACCESSORIES
     
