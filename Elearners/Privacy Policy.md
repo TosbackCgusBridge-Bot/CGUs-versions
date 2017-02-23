@@ -17,16 +17,8 @@ Skip to main content
 *   Free Career Assessment
 *   Education Resources
 
-Help Section
-
-*   About Us
-*   Learn more about the eLearners affiliate program
-*   Legal Notices
-*   Privacy Policy
-*   CA Privacy Policy
-*   Terms of Use
-*   Site Map
-*   FAQs about eLearners.com
+1.  Home
+2.  Privacy Policy
 
 Privacy Policy
 
@@ -147,6 +139,17 @@ The TRUSTe program covers only information that is collected through this Web Si
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
 
 **Last Updated on September 19, 2016.** This Privacy Policy is effective immediately for new users after that date and will become effective on September 19, 2016 for pre-existing users. To review the previous policy, please click here.
+
+Help Section
+
+*   About Us
+*   Learn more about the eLearners affiliate program
+*   Legal Notices
+*   Privacy Policy
+*   CA Privacy Policy
+*   Terms of Use
+*   Site Map
+*   FAQs about eLearners.com
 
 Newsletter Signup
 
