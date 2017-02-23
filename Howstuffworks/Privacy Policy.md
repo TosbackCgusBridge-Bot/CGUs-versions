@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**FDA Will Soon Help You Calculate How Much Added Sugar You're Eating**
+**High Schools Are Allowing Sleep-deprived Students to Take Midday Naps**
 
-**Starfish Use Intricate Water Whorls as a Survival Mechanism**
+**The 'Ugliness Premium': Being Unattractive Can Mean Higher Wages**
 
-**Barbers Across the Globe Are Using Fire to Style Hair**
+**NASA Announces New Solar System Packed With Seven Planets**
 
 **See More Headlines »**
 
