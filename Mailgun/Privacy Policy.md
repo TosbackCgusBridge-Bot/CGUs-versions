@@ -1,22 +1,18 @@
 Privacy Policy
 
-Effective 3/31/2014. Last reviewed and updated 9/26/2016.
+Effective 3/31/2014. Last reviewed and updated 2/22/2017.
 
 Updates
 
-We updated our Privacy Policy on August 12, 2016 in the following ways:
+We updated our Privacy Policy on February 22, 2017 in the following way:
 
-*   We included AWS as a third party hosting provider.
-
-We updated our Privacy Policy on September 26, 2016 in the following ways:
-
-*   We included Privacy Shield notice.
+*   We made changes to reflect Mailgun is a standalone company.
 
 The previous version of our privacy policy is available for review here.
 
   
 
-This Privacy Policy (the “Policy”) applies to your use of the Mailgun services (the “Services”), including the Mailgun platform (the “Platform”) and the website at mailgun.com (the “Site”), made available by Rackspace US, Inc., a parent company of Mailgun, LLC. It applies to information we collect about you. In this document, “we” refers to Mailgun, LLC and Rackspace US, Inc., and “you” refers to you, the user or customer to whom this Policy applies. This Policy should be read in conjunction with our Terms of Service. The use of information processed through our service shall be limited to the purpose of providing the service for which the Client has engaged Mailgun.
+This Privacy Policy (the “Policy”) applies to your use of the Mailgun services (the “Services”), including the Mailgun platform (the “Platform”) and the website at mailgun.com (the “Site”), made available by Mailgun Technologies, Inc. It applies to information we collect about you. In this document, “we” refers to Mailgun Technologies Inc., and “you” refers to you, the user or customer to whom this Policy applies. This Policy should be read in conjunction with our Terms of Service. The use of information processed through our service shall be limited to the purpose of providing the service for which the Client has engaged Mailgun.
 
 In order to offer our Services to you, we must collect certain information about you. Because we respect your privacy, we have documented our policies regarding this information here, and we will not collect or use information about you except in the ways we describe.
 
@@ -66,7 +62,7 @@ We host the Site and operate the Platform using third parties, including AWS®, 
 
 We use a third party, Stripe®, to process subscription payments, and therefore provide them with the Personally Identifiable Information required to charge your credit card.
 
-We may use third-party services either embedded into our Site (such as Tumblr®, Disqus®, Mixpanel™, VWO®, Intercom®, KISSMetrics™, Moz™, Segment™ and Google® Analytics) or outside of it (such as GitHub® and Twitter®) to communicate with you or to enhance the function of the Site and the Services.
+We may use third-party services either embedded into our Site (such as Disqus®, Mixpanel™, VWO®, Intercom®, KISSMetrics™, Moz™, Segment™ and Google® Analytics) or outside of it (such as GitHub® and Twitter®) to communicate with you or to enhance the function of the Site and the Services.
 
 We use third-party service providers and platforms for customer engagement, customer chat, product feedback and customer support ticketing.
 
@@ -74,7 +70,7 @@ We may share your contact information with ARIN (American Registry for Internet 
 
 While we provide these third parties with no more information than is necessary to enable these third-parties to provide the services to us, any information that you provide these services independently is subject to their respective privacy policies and practices.
 
-In certain situations, Rackspace may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+In certain situations, Mailgun may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 We may be required by law or court order to provide Personally Identifiable Information or Non-personally Identifiable Information to government authorities or private parties. We fully cooperate with law enforcement agencies in identifying those who use the Services for illegal activities, and we may report to law enforcement any activities that we believe in good faith are unlawful. We may need to release the information we collect to third parties when we believe it is appropriate to comply with the law, to enforce our legal rights, to protect the rights, safety or property of our business and others, or to assist with industry efforts to control fraud, spam or other undesirable conduct and as needed to support auditing, compliance, and corporate governance functions.
 
@@ -100,7 +96,7 @@ Remember, though, that some parts of the Services are public and that email, by 
 
 7\. EU-U.S. Privacy Shield and Swiss Safe Harbor
 
-Mailgun (and its parent company, Rackspace US, Inc.) participates and has certified its compliance with the EU-U.S. Privacy Shield Framework. Mailgun is committed to subjecting all personal data received from the European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List https://www.privacyshield.gov/list/.
+Mailgun participates and has certified its compliance with the EU-U.S. Privacy Shield Framework. Mailgun is committed to subjecting all personal data received from the European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List https://www.privacyshield.gov/list/.
 
 Mailgun is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Mailgun complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
@@ -114,10 +110,10 @@ Mailgun complies with the U.S. – Swiss Safe Harbor Framework as set forth by t
 
 European Union or Swiss citizens with inquiries or complaints regarding this Policy should first contact Mailgun at:
 
-**Mailgun, LLC**  
-Attn: General Counsel,  
-1 Fanatical Place, City of Windcrest,  
-San Antonio, Texas 78218  
+**Mailgun Technologies, Inc.**  
+c/o Turn River Capital  
+535 Mission St.  
+San Francisco, CA 94105  
 by email: privacy@mailgun.com
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
@@ -132,8 +128,6 @@ The Services are only intended for adults, and use by children under thirteen ye
 
 If we elect to transfer ownership or control of the Services, whether in whole or in part, to a third party (for instance through a merger or sale), that third party will take over this Policy and abide by its terms. We may notify you of any such transfer, but we won’t require your consent to transfer this Policy or your information to such a third party.
 
-Global Rackspace Privacy Statement is available on the Rackspace Privacy Center at http://www.rackspace.com/information/legal/privacystatement.
-
 Mailgun provides its Services under the direction of its customers, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our customers and would no longer like to be contacted by one of our customer that use our service, please contact the customer that you interact with directly. Transfers to subsequent third parties are covered by the service agreements with our customers.
 
 We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Mailgun will retain the personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
@@ -142,10 +136,10 @@ We will retain personal data we process on behalf of our Clients for as long as 
 
 If you have questions about this Policy, or if you’re concerned that we are using your information improperly, please contact us by mail:
 
-**Mailgun, LLC**  
-Attn: General Counsel,  
-1 Fanatical Place, City of Windcrest,  
-San Antonio, Texas 78218  
+**Mailgun Technologies, Inc.**  
+c/o Turn River Capital  
+535 Mission St.  
+San Francisco, CA 94105  
 by email: privacy@mailgun.com Your app with email in minutes
 
 Our API makes integrating real email quick &. easy.
@@ -156,6 +150,4 @@ Want better deliverability? Learn more about our managed email service.
 
 Jobs Help Team Terms of service Privacy policy Report Spam Contact Blog
 
-Made in San Francisco. Powered by
-
-©2017 Rackspace, US Inc.
+©2017 Mailgun Technologies, Inc.
