@@ -8,7 +8,7 @@ Sign In or Sign Up
 
 *   Home
 
-*   Post a Job
+*   Post Jobs
     *   Buy Job Postings
     *   About Job Postings
 *   Search Resumes
@@ -40,7 +40,7 @@ Request Demo
 Already Purchased?  
 Sign In to Your Account!
 
-*   For Job Seekers
+*   Looking for Jobs? Find the Right Job. Right Now.
 
 Source &. Screen  
 
