@@ -8,6 +8,7 @@
 *   CONTACT
 *   CLIENT LOGIN
     *   INSIGHTS
+    *   PORTAL
     *   SURVEY MANAGER
 
 *   SOLUTIONS
@@ -20,6 +21,7 @@
 *   CONTACT
 *   CLIENT LOGIN
     *   INSIGHTS
+    *   PORTAL
     *   SURVEY MANAGER
 
 MetrixLab MetrixLab
