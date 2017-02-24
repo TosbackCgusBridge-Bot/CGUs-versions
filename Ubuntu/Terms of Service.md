@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Technologic Systems Inc. brings Ubuntu Core to the i.MX6 based TS-4900 ›
+*   MWC17: The future of industrial IoT ›
 *   Why does software-defined everything matter? ›
 *   An Ubuntu snap-based solution for enterprises to control their data ›
 *   Screenly announces a follow-up to its popular digital signage solution ›
-*   Webinar: Get Cloud-ready Servers in Minutes with MAAS ›
-*   LXD on Debian (using snapd) ›
