@@ -46,7 +46,7 @@
 *   Live Girls
 *   Meet&Fuck
 
-You have Adblock enabled. Adblock has been known to cause issues with site functionality. If you experience any difficulties, please try disabling Adblock. Close Advertise On Tube8 Name: \*Email: Subject: Tube8 AdvertisingReport inappropriate contentFeedback Type: Type: VideoAdsProfileOther Spot/Placement: Screenshot: My site: I'm interested in: Global TrafficGeo-Targeted Traffic Link to content being reported: \*Comments:  
+Recent Searches Clear all Suggested Keywords You have Adblock enabled. Adblock has been known to cause issues with site functionality. If you experience any difficulties, please try disabling Adblock. Close Advertise On Tube8 Name: \*Email: Subject: Tube8 AdvertisingReport inappropriate contentFeedback Type: Type: VideoAdsProfileOther Spot/Placement: Screenshot: My site: I'm interested in: Global TrafficGeo-Targeted Traffic Link to content being reported: \*Comments:  
 Send Start advertising on Tube8 today: Create your advertiser account. TUBE8 - Terms of service
 
 Last Modified: May 11, 2016
