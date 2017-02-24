@@ -106,10 +106,14 @@ Aéropostale
     *   Meet the Girls
     *   @ASHLEY\_MOORE\_
     *   @ITSMELEAF
+    *   @DAISYCLEMENTINE
+    *   @MIMIELASHIRY
     
     *   Meet the Guys
     *   @LOUISMAYHEW
     *   @X.VALENTINE
+    *   @JAYSTEEVIE
+    *   @BRYCEALAKAI
 
 *   Go
 
