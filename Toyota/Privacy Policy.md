@@ -1,110 +1,72 @@
-*   menu
-    
-
 *   Set Location
-    
-    DEALERS
-    
-    locate
 *   Certified Used Vehicles
 *   Owners
 *   Español
 *   Search
 
-*   Select Vehicle menu-arrow
-*   Shopping Toolsmenu-arrow
+*   Select Vehicle
+*   Shopping Tools
 *   Find a Dealer
 *   Build &. Price
 *   Local Specials
 
-*   Cars &. Minivan
-*   Trucks
-*   Crossovers &. SUVs
-*   Hybrids &. FCV
-*   Upcoming Vehicles
+*   2017 Yaris $15,250 starting 30/36 est. mpg build Specials
+*   2017 Yaris iA $15,950 starting 30/39 est. mpg build Specials
+*   2017 Corolla $18,500 starting 28/36 est. mpg build Specials
+*   2017 Corolla iM $18,750 starting 27/35 est. mpg build Specials
+*   2017 Camry $23,070 starting 24/33 est. mpg build Specials
+*   2017 Avalon $33,300 starting 21/30 est. mpg build Specials
+*   2017 86 $26,255 starting 21/28 est. mpg build Specials
+*   2017 Sienna $29,750 starting 19/27 est. mpg build Specials
 
-Toyota Vehicles Cars &. Minivan
+*   2017 Tacoma $24,320 starting 19/24 est. mpg build Specials
+*   2017 Tundra $30,120 starting 15/19 est. mpg build Specials
 
-*   $18,395 as shown 2017 Yaris $15,250 starting 30/36 est. mpg build Specials
-*   $15,950 as shown 2017 Yaris iA $15,950 starting 30/39 est. mpg build Specials
-*   $21,980 as shown 2017 Corolla $18,500 starting 28/36 est. mpg build Specials
-*   $18,750 as shown 2017 Corolla iM $18,750 starting 27/35 est. mpg build Specials
-*   $33,820 as shown 2017 Camry $23,070 starting 24/33 est. mpg build Specials
-*   $37,700 as shown 2017 Avalon $33,300 starting 21/30 est. mpg build Specials
-*   $26,255 as shown 2017 86 $26,255 starting 21/28 est. mpg build Specials
-*   $40,830 as shown 2017 Sienna $29,750 starting 19/27 est. mpg build Specials
+*   2017 RAV4 $24,910 starting 23/30 est. mpg build Specials
+*   2017 Highlander $30,630 starting 21/27 est. mpg build Specials
+*   2017 4Runner $34,210 starting 17/21 est. mpg build Specials
+*   2017 Sequoia $45,560 starting 13/17 est. mpg build Specials
+*   2017 Land Cruiser $84,775 starting 13/18 est. mpg build Specials
 
-Trucks
+*   2017 Camry Hybrid $26,790 starting 42/38 est. mpg build Specials
+*   2017 Avalon Hybrid $37,300 starting 40/39 est. mpg build Specials
+*   2017 RAV4 Hybrid $29,030 starting 34/30 est. mpg build Specials
+*   2017 Highlander Hybrid $36,270 starting 30/28 est. mpg build Specials
+*   2017 Prius Prime $27,100 starting 54/133 est. mpg /MPGe build Specials
+*   2017 Prius $24,685 starting 54/50 est. mpg build Specials
+*   2017 Prius c $20,150 starting 48/43 est. mpg build Specials
+*   2017 Prius v $26,675 starting 43/39 est. mpg build Specials
+*   2017 Mirai $57,500 starting 67/67 est. mpg Specials
 
-*   $34,905 as shown 2017 Tacoma $24,320 starting 19/24 est. mpg build Specials
-*   $41,380 as shown 2017 Tundra $30,120 starting 15/19 est. mpg build Specials
+*   2018 Camry  
+    View More Info
+*   2018 C-HR  
+    View More Info
+*   2018 Sequoia  
+    View More Info
+*   2018 Tundra  
+    View More Info
+*   2018 RAV4  
+    View More Info
+*   Concept Vehicles  
+    View More Info
 
-Crossovers &. SUVs
+View All Vehicles
 
-*   $36,150 as shown 2017 RAV4 $24,910 starting 23/30 est. mpg build Specials
-*   $41,150 as shown 2017 Highlander $30,630 starting 21/27 est. mpg build Specials
-*   $40,675 as shown 2017 4Runner $34,210 starting 17/21 est. mpg build Specials
-*   $62,090 as shown 2017 Sequoia $45,560 starting 13/17 est. mpg build Specials
-*   $84,775 as shown 2017 Land Cruiser $84,775 starting 13/18 est. mpg build Specials
-
-Hybrids &. FCV
-
-*   $27,995 as shown 2017 Camry Hybrid $26,790 starting 42/38 est. mpg build Specials
-*   $42,600 as shown 2017 Avalon Hybrid $37,300 starting 40/39 est. mpg build Specials
-*   $34,645 as shown 2017 RAV4 Hybrid $29,030 starting 34/30 est. mpg build Specials
-*   $50,085 as shown 2017 Highlander Hybrid $36,270 starting 30/28 est. mpg build Specials
-*   $28,800 as shown 2017 Prius Prime $27,100 starting 54/133 est. mpg /MPGe build Specials
-*   $32,115 as shown 2017 Prius $24,685 starting 54/50 est. mpg build Specials
-*   $25,265 as shown 2017 Prius c $20,150 starting 48/43 est. mpg build Specials
-*   $34,270 as shown 2017 Prius v $26,675 starting 43/39 est. mpg build Specials
-*   $57,500 as shown 2017 Mirai $57,500 starting 67/67 est. mpg Specials
-
-Upcoming Vehicles
-
-*   2018 Camry View More Info
-*   2018 C-HR View More Info
-*   2018 Sequoia View More Info
-*   2018 Tundra View More Info
-*   2018 RAV4 View More Info
-*   Concept Vehicles View More Info
-
-Shopping Tools
-
-*   Local Specials
 *   Build &. Price
-*   Request a Quote
-*   Find a Dealer
-*   Search Inventory
-*   Toyota Certified Used Vehicles
-
-About Toyota
-
-*   Careers
-
-Español | Owners View All Vehicles
-
-Close
-
-*   Explore
-*   Build and Price
-*   Compare Vehicles
-*   Find Your Match
-*   View Brochures
-
-*   Shop
 *   Local Specials
 *   Search Inventory
-*   Request a Quote
-*   Accessories
-
-*   Buy
 *   Get Trade-In Value
+
+*   Request A Quote
+*   View Brochures
+*   Accessories
 *   Toyota Certified Used Vehicles
-*   Contact a Dealer
+*   Compare Vehicles
+*   Contact A Dealer
+*   Find Your Match
 
-Close Set your locationSubmit
-
-Go Contact Us Site Map Your Privacy Rights Legal Terms Contact Us Site Map Your Privacy Rights Legal Terms Need help? Have a question? Get instant answers 24/7.
+Contact Us Site Map Your Privacy Rights Legal Terms Contact Us Site Map Your Privacy Rights Legal Terms Need help? Have a question? Get instant answers 24/7.
 
 Whether you’re a Toyota owner or just have a question about our products, Toyota is committed to providing a rewarding customer experience. Select the most convenient way to reach us, and we look forward to assisting you.
 
@@ -998,7 +960,7 @@ If you have any questions, complaints or claims about any of the Sites, or if yo
 
 Go
 
-Sign up for toyota updates Request A Quote Trade-In Value Request A Quote Kelley Blue Book Trade-In Value Request A Quote Trade-In Value Shopping Tools
+Sign up for toyota updates Request A Quote Trade-In Value Shopping Tools
 
 *   Trade-In Value
 *   Trade-In Value
