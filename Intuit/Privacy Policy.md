@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true L15790357082
+true true L15793155514
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Wed Feb 22 11:15:30 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.1.0.0.51.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Thu Feb 23 11:13:51 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.1.0.0.51.0
 
 *   for the home
 *   bed &. bath
@@ -56,7 +56,7 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Ambrielle Anniversary Sale Only Once a Year! Ends February 26 Shop AmbrielleFREE! New Ambrielle Microfiber Panty
+Stretch Your Penney Sale In Store &. Online | Ends February 26 Shop Now Shop The Ad TOP RATED Customer Favorite 8.99 A.N.A Tees, select styles, orig. $16 TOP RATED 17.99 Men's St. John's Bay Flat-Front Shorts, select styles, reg. $36 TOP RATED 17.99 St. John's Bay Slender Capris, select styles, orig. $36, including petite sizes TOP RATED 8.99 Boys' or Girls' Xersion Graphic Tee, select styles, reg. $16 TOP RATED 19.99 JCPenney Home 300tc Easy-Care Solid or Print Twin Sheet Set, select styles, reg. $50 Ambrielle Anniversary Sale Only Once a Year! Ends February 26 Shop AmbrielleFREE! New Ambrielle Microfiber Panty
 
 with purchase of any Ambrielle bra
 
@@ -64,19 +64,19 @@ with purchase of any Ambrielle bra
 
 Select styles, reg. $30-$44
 
-Shop Bras Baby Sale Up to 50% Off Over 18 New Brands &. 500 New Items For Your Baby
+Shop Bras Home Sale Up to 50% Off
+
+Select styles
+
+Shop All Home Bedding Window Kitchen &. Dining Furniture &. Mattresses Baby Sale Up to 50% Off Over 18 New Brands &. 500 New Items For Your Baby
 
 Ends February 26
 
-Shop Now Shop the Ad 2017 Prom 40% Off Prom Dresses Shop Prom Dresses Shop Plus-Size Prom Dresses  50% Off\* Guys' Suit Separates &. Tuxedos
-
-Online only, select styles, CODE: GETNOW6, reg. $70-$200
-
-Shop Guys Prom Get Details   Red Zone Clearance New Markdowns! 60 to 70% Off
+Shop Now Shop the Ad Red Zone Clearance New Markdowns! 60 to 70% Off
 
 In Store &. Online
 
-Shop Clearance \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Feb 22 22:27:31 CST 2017 JVM :->. dtexppr1l2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Feb 22 06:10:01 CST 2017 JVM :->. dtexppr1l2j2\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Clearance \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Feb 23 22:15:36 CST 2017 JVM :->. dtexppr1c1j1\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Feb 23 04:36:55 CST 2017 JVM :->. dtexppr1c1j1\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
