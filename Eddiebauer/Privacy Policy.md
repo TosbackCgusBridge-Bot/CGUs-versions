@@ -31,15 +31,15 @@ We use mobile location analytics technology at our U.S. retail spaces to gain ag
 
 The information we receive allows us to tailor our product offer and improve your shopping experience, making shopping easier and more enjoyable. It also enables us to process your purchases, confirm your orders, customize the content and layout of our pages, notify you about updates to our websites and products, and provide you with marketing information.
 
-The information you supply to us is added to our customer database. You may receive periodic mailings or telephone calls from us about new products and services, discounts, special promotions or upcoming events. If you do not want to receive such mailings or telephone calls from us, please click here for contact information.
+The information you supply to us is added to our customer database. You may receive periodic mailings or telephone calls from us about new products and services, discounts, special promotions or upcoming events. If you do not want to receive such mailings or telephone calls from us, pleaseclick here for contact information.
 
-We use mobile location analytics technology to develop anonymous and aggregated reporting and gain a better understanding of our customers' preferences. This information might be used, for example, to improve our store layouts or the timing of promotions and sales. If you wish to opt out of participation and delete existing mobile location data, please click here.
+We use mobile location analytics technology to develop anonymous and aggregated reporting and gain a better understanding of our customers' preferences. This information might be used, for example, to improve our store layouts or the timing of promotions and sales. If you wish to opt out of participation and delete existing mobile location data, pleaseclick here
 
-We occasionally provide your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you are online. Our advertising partners will make the data we provide it anonymous before using it to deliver ads online. We may partner with other service providers that collect non-identifiable information about your visits to our website, your interaction with our products and services, and your visits to other websites to serve ads targeted to your interests on other websites. The information is collected through the use of cookies, web beacons, and similar technologies, and does not include your name, address, e-mail address or other personal information. To learn more about these practices or to opt out of having this information used by our third-party advertising partners to serve ads targeted to your interests, please visit the Digital Advertising Alliance by clicking here. To opt out of the online advertisements provided directly by Eddie Bauer, click here. If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice.
+We occasionally provide your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you are online. Our advertising partners will make the data we provide it anonymous before using it to deliver ads online. We may partner with other service providers that collect non-identifiable information about your visits to our website, your interaction with our products and services, and your visits to other websites to serve ads targeted to your interests on other websites. The information is collected through the use of cookies, web beacons, and similar technologies, and does not include your name, address, e-mail address or other personal information. To learn more about these practices or to opt out of having this information used by our third-party advertising partners to serve ads targeted to your interests, please visit the Digital Advertising Alliance byclicking here. To opt out of the online advertisements provided directly by Eddie Bauer,click here. If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice.
 
-In some cases we may provide your name and address to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can add your name to our "do-not-share" list. Please click here for contact information.
+In some cases we may provide your name and address to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can add your name to our "do-not-share" list. Pleaseclick here for contact information.
 
-We periodically send you email about new products and services, discounts, special promotions or upcoming events. If you do not wish to receive such emails in the future, please click here for contact information, or click the "unsubscribe" link on any promotional email you receive from us. Please note: In order to process your purchases we may send you a confirmation email or we may contact you by mail or telephone if we have questions about your order.
+We periodically send you email about new products and services, discounts, special promotions or upcoming events. If you do not wish to receive such emails in the future, pleaseclick here for contact information, or click the "unsubscribe" link on any promotional email you receive from us. Please note: In order to process your purchases we may send you a confirmation email or we may contact you by mail or telephone if we have questions about your order.
 
 In some instances, we use third party companies to help us provide our products and services to you, to assist us in managing customer information, to fulfill promotions and to communicate with you. Some of these companies are given access to some or all of the information you provide to us, and some may use cookies on our behalf. These companies are contractually-restricted from using your information in any manner other than in helping us to provide you with the products and services available from Eddie Bauer.
 
@@ -59,7 +59,7 @@ We do not use cookies to store any of your personal or financial information on 
 
 We recognize that you have a choice to refuse cookies. However, by choosing to accept an Eddie Bauer cookie you allow us to maintain the preferences stored in your Eddie Bauer "My Account" and process your order. If you choose not to accept the cookie, purchasing is not possible on the Eddie Bauer site.
 
-If you are shopping Eddie Bauer and are having difficulty adding product to your shopping bag or completing your order, please check your privacy settings in your browser. If you do not wish to change your privacy settings to "Medium" and you are currently using the "Medium High" or "High" settings, you may choose to override your current cookie handling practices for individual sites that you specify, including eddiebauer.com and eddiebaueroutlet.com. Please click here for instructions on how to override your normal cookie handling practices. If you prefer not to change your privacy settings or override your cookie handling practices, you can, as always, place your order by phone at 1-800-426-8020.
+If you are shopping Eddie Bauer and are having difficulty adding product to your shopping bag or completing your order, please check your privacy settings in your browser. If you do not wish to change your privacy settings to "Medium" and you are currently using the "Medium High" or "High" settings, you may choose to override your current cookie handling practices for individual sites that you specify, including eddiebauer.com and eddiebaueroutlet.com. Pleaseclick here for instructions on how to override your normal cookie handling practices. If you prefer not to change your privacy settings or override your cookie handling practices, you can, as always, place your order by phone at 1-800-426-8020.
 
 ^Return to top How can I update my information?
 
@@ -67,16 +67,16 @@ We provide you access to the following information if you send us an email, call
 
 *   Financial information (such as credit card account information)
 *   Eddie Bauer customer identifier information (customer number or password)
-*   Transaction information (dates on which you made purchases, amounts and types of purchases)
+*   Transaction information (dates on which you made purchases, amounts and types of Purchases)
 *   Contact information (name, address, phone number)
 
 We provide you with the ability to delete personally identifiable information if you send us an email, call us or write to us
 
-We evaluate each request and will reply in an appropriate manner and in a form of communication that ensures the security of the information you have requested. Any questions, please contact us.
+We evaluate each request and will reply in an appropriate manner and in a form of communication that ensures the security of the information you have requested. Any questions, pleasecontact us.
 
 ^Return to top How do I know my information is secure?
 
-We have appropriate security measures in place to protect against the loss, misuse or alteration of information that we have collected from you so you can feel comfortable and secure when shopping. We use industry-standard encryption technologies when transferring and receiving your personal information. On the Internet, when you see either a solid key icon or a locked padlock icon at the lower portion of your browser window, this indicates that the site is secured through Secure Sockets Layer (SSL). Pages requesting personal information should always have one of these icons. If you do not see one of these icons, please contact us to complete your transaction over the phone by calling 1-800-426-8020. When you apply on-line for an Eddie Bauer Charge Card, we will direct you to the Comenity Bank website. See the Comenity.net website for information on its privacy statement.
+We have appropriate security measures in place to protect against the loss, misuse or alteration of information that we have collected from you so you can feel comfortable and secure when shopping. We use industry-standard encryption technologies when transferring and receiving your personal information. On the Internet, when you see either a solid key icon or a locked padlock icon at the lower portion of your browser window, this indicates that the site is secured through Secure Sockets Layer (SSL). Pages requesting personal information should always have one of these icons. If you do not see one of these icons, please contact us to complete your transaction over the phone by calling 1-800-426-8020. When you apply on-line for an Eddie Bauer Charge Card, we will direct you to the Comenity Bank website. See theComenity.net website for information on its privacy statement.
 
 ^Return to top How to Report Fraud
 
@@ -84,7 +84,7 @@ You can help us identify attempts at fraud.
 
 Eddie Bauer will never ask you for sensitive personal information in an email.
 
-If you receive a suspicious email appearing to come from Eddie Bauer, such as one requesting that you confirm personal information like your credit card number, or if you have received an email implying that it has been sent by Eddie Bauer after you have Opted Out of receipt of Eddie Bauer emails, you may forward the suspicious email to abuse@eddiebauer.com.
+If you receive a suspicious email appearing to come from Eddie Bauer, such as one requesting that you confirm personal information like your credit card number, or if you have received an email implying that it has been sent by Eddie Bauer after you have Opted Out of receipt of Eddie Bauer emails, you may forward the suspicious email toabuse@eddiebauer.com.
 
 You should not respond directly to suspicious email. And do not click on or open any hyperlink embedded in the suspicious email.
 
@@ -96,9 +96,9 @@ We encourage all of our customers to protect themselves and their information:
 a) do not share your credentials or account information with any third party, and  
 b) make sure that your system is properly patched, running anti-virus and a personal firewall.  
 
-If you have already provided information in response to a suspicious email that appeared to have been sent by Eddie Bauer, you may report the suspicious email by forwarding it to abuse@eddiebauer.com.  
+If you have already provided information in response to a suspicious email that appeared to have been sent by Eddie Bauer, you may report the suspicious email by forwarding it toabuse@eddiebauer.com..  
 
-For more information on how to protect yourself and your personal information, you can visit the antiphishing Working Group's website at http://www.antiphishing.org/consumer\_recs.html.  
+For more information on how to protect yourself and your personal information, you can visit the antiphishing Working Group's website athttp://www.antiphishing.org/consumer\_recs.html.  
 
 Thank you for helping us monitor and prevent fraud.
 
@@ -132,18 +132,18 @@ Eddie Bauer Email
 
 1.  Simply click the Unsubscribe link provided at the bottom of  
     every email you receive.
-2.  Send us an email via our Contact Us form.
+2.  Send us an email via ourContact Us form.
 
 Eddie Bauer Friends Email
 
 1.  Simply click the Unsubscribe link provided at the bottom of  
     every Friends email you receive.
-2.  Send us an email via our Contact Us form.
+2.  Send us an email via ourContact Us form.
 
 EDDIE BAUER MAIL AND TELEMARKETING PREFERENCES
 
-If you prefer not to receive Eddie Bauer catalogs from us, please contact us or call 1-800-426-8020. Please include your full name and mailing address as it appears on your catalog. We will remove your name from our mailing list as soon as possible. Please recognize that you may receive another catalog before we are able to remove you. If you wish to be placed on our "Do Not Call" list, please let us know during the call, contact us or call 1-800-426-8020.
+If you prefer not to receive Eddie Bauer catalogs from us, pleasecontact us or call 1-800-426-8020. Please include your full name and mailing address as it appears on your catalog. We will remove your name from our mailing list as soon as possible. Please recognize that you may receive another catalog before we are able to remove you. If you wish to be placed on our "Do Not Call" list, please let us know during the call, contact us or call 1-800-426-8020.
 
-We also, on occasion, share a portion of our catalog mailing list with other reputable organizations. If you wish to have your name and address not shared with other organizations, please contact us or call 1-800-426-8020.
+We also, on occasion, share a portion of our catalog mailing list with other reputable organizations. If you wish to have your name and address not shared with other organizations, pleasecontact us or call 1-800-426-8020.
 
 ^Return to top
