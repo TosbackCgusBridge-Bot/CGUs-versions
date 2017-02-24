@@ -145,9 +145,9 @@ Close
 
 Discover 4K HDR
 
-Looking for a New Binge-Worthy Show?
+Bryan Cranston Shares the Inspiration Behind “Sneaky Pete”
 
-Try “Sneaky Pete”
+Read our Q&A With the Executive Producer
 
 Close
 
@@ -155,9 +155,9 @@ Close
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share Looking for a New Binge-Worthy Show?
+*   Copy URL to share Bryan Cranston Shares the Inspiration Behind “Sneaky Pete”
 
-Try “Sneaky Pete”
+Read our Q&A With the Executive Producer
 
 The Chainsmokers’ Super-Fan Gets a VR Surprise at a Recent Concert
 
