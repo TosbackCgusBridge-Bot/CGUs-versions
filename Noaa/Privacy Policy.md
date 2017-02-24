@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms January was 3rd warmest on record for the globe Sea ice extents in Arctic, Antarctic hit record lows AROUND NOAA // Unprecedented Arctic weather has scientists on edge NOAA ship journeys into remote, deep Pacific ocean #WhaleWeek reddit AUA: The Rising Risk of Whale Entanglement
+Enter Search Terms January was 3rd warmest on record for the globe Sea ice extents in Arctic, Antarctic hit record lows AROUND NOAA // Snowpack + snowmelt = water Unprecedented Arctic weather has scientists on edge NOAA ship journeys into remote, deep Pacific ocean
 
 *   About our agency
 *   News and features
