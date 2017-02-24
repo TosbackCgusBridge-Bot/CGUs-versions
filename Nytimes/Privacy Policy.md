@@ -1,7 +1,7 @@
-campaign: nyt2017\_bar1\_digi\_february\_sale\_6KR4R -- 285344, creative: nyt2016\_bar1\_digi\_february\_sale -- 415780, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
+campaign: nyt2017\_bar1\_digi\_february\_sale\_6KR4R -- 285344, creative: nyt2016\_bar1\_digi\_february\_sale\_lc -- 415864, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
 
 *   SUBSCRIBE NOW Truth.  
-    It has no alternative. Discover it with us.  
+    It has no alternative. Now is the time.  
     Get 50% off for one year. SEE MY OPTIONS
 
 SUBSCRIBE*   Help
