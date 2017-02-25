@@ -137,12 +137,13 @@ menu 0
     FEATURED SHOPS
     
     *   New Arrivals
-    *   Swim Shop
     *   Toddler Shop
+    *   Favorite Looks
     *   Spring Break Must Haves
+    *   Swim Shop
     *   School Uniforms
-    *   Girls' Knit Kit
     *   Iron Knee Pants
+    *   Girls' Knit Kit
     *   Sale
     
     SHOP BY AGE RANGE
@@ -338,6 +339,7 @@ menu 0
     *   Supima Bedding &. Bath
     *   Flannel Bedding
     *   No Iron Bedding
+    *   Bedding Basics
     *   Sale
     
     More for the Home >.
@@ -484,12 +486,13 @@ menu 0
     Back | Kids FEATURED SHOPS Back | Kids
     
     *   New Arrivals
-    *   Swim Shop
     *   Toddler Shop
+    *   Favorite Looks
     *   Spring Break Must Haves
+    *   Swim Shop
     *   School Uniforms
-    *   Girls' Knit Kit
     *   Iron Knee Pants
+    *   Girls' Knit Kit
     *   Sale
     
     SHOP BY AGE RANGE Back | Kids
@@ -684,6 +687,7 @@ menu 0
     *   Supima Bedding &. Bath
     *   Flannel Bedding
     *   No Iron Bedding
+    *   Bedding Basics
     *   Sale
     
     More for the Home Back | More for the Home
