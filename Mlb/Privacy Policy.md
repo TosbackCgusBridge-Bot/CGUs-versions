@@ -55,10 +55,10 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Cut4
     *   Baseball's Best Moments
 *   Stats Stats Stats
+    *   Spring Training Sortable Stats
     *   Postseason Sortable Stats
     *   Regular Season Sortable Stats
     *   Regular Season League Leaders
-    *   Spring Training Sortable Stats
     *   Statcast Leaders
     *   Sortable Team Stats
     *   Milestone Tracker
@@ -66,12 +66,9 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Scoring Changes
     *   GlossarySortable Stats
 *   Standings Standings Standings
+    *   Spring Training Standings
     *   2016 Regular Season Standings
     *   2016 Wild Card Standings
-    *   Postseason Projections
-    *   Postseason Picture
-    *   Spring Training Standings
-    *   2015 Regular Season Standings
 *   Schedule Schedule Schedule
     *   2017 Regular Season
     *   2017 Spring Training
