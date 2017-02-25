@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Dustin Kirkland: The Questions that You’re Afraid to Ask about Containers ›
 *   Technologic Systems Inc. brings Ubuntu Core to the i.MX6 based TS-4900 ›
 *   MWC17: The future of industrial IoT ›
 *   Why does software-defined everything matter? ›
 *   An Ubuntu snap-based solution for enterprises to control their data ›
-*   Screenly announces a follow-up to its popular digital signage solution ›
