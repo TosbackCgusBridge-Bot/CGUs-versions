@@ -192,8 +192,8 @@ My Account
 
 Guarantees
 
-*   Security
 *   100% Satisfaction
+*   Security
 *   Substitution Policy
 
 Privacy
