@@ -141,7 +141,8 @@ webmaster@timeanddate.com timeanddate.com
 8.  Ad Blockers
 9.  Work Here
 10.  Advertise
-11.  Disclaimer
+11.  Credits
+12.  Disclaimer
 
 Index
 
@@ -157,7 +158,7 @@ Find out what months have to do with the Moon, why there are 12 months, and what
 
 List of cosmic events in 2017 including supermoons, solar and lunar eclipses, meteor showers, solstices, and equinoxes. more
 
-Australia’s Time Zones
+Australiaâs Time Zones
 
 Australia has multiple time zones. Some of them are half-hour and quarter-hour time zones. Not all states and territories use Daylight Saving Time (DST). more
 
