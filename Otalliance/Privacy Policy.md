@@ -94,10 +94,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Wed, Feb 22, 2017 2017 Online Trust Audit &. Honor Roll - Maximizing Your Score
-
-Get your website ready for this year's Online Trust Audit by hearing the latest on methodology updates for the 2017. Understand how to maximize your results  on brand protection, site security and privacy.  Testing to start in mid-April with result published in mid-June.  Learn why these measures are good for your business maximizing consumer trust, brand reputation and crucial data protection. More Information>
-
 Fri, Mar 17, 2017 Privacy Risk Security - Speaker submission Deadline
 
 Privacy. Security. Risk. (P.S.R.) is coming to San Diego October 17/18, bringing you the best of security and privacy in one brilliant conference.  Over three years, IAPP has developed PSR into the premiere venue for exploring the connection between information security and data privacy.  **Deadline for submissions is March 17th.**   Join OTA at this premier event!
@@ -110,7 +106,9 @@ Wed, May 24, 2017 Planning for the Future: A Conference About Identity Theft
 
 Ten years ago, President Bush launched a new era in the fight against identity theft by issuing an executive order establishing the Identity Theft Task Force, which the Commission co-chaired. In the ensuing ten years, great strides have been made to combat identity theft but it remains a significant problem for American consumers. The Federal Trade Commission will host an all-day conference to take a comprehensive look at how identity theft has evolved over the last decade and what we can do to address this challenge in the future.
 
-More >>.
+Tue, Oct 17, 2017 Privacy, Risk, Security 2017
+
+Privacy. Security. Risk.
 
 *   OTA Blog
 *   Newsletters
