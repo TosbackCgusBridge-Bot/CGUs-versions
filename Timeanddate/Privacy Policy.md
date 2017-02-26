@@ -158,7 +158,7 @@ Find out what months have to do with the Moon, why there are 12 months, and what
 
 List of cosmic events in 2017 including supermoons, solar and lunar eclipses, meteor showers, solstices, and equinoxes. more
 
-Australiaâs Time Zones
+Australia’s Time Zones
 
 Australia has multiple time zones. Some of them are half-hour and quarter-hour time zones. Not all states and territories use Daylight Saving Time (DST). more
 
