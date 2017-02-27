@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true C15783249605
+true true L15796356168
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p01.jcpenney.com SERVER NAME :->. dtcomexpr1c1j3 TIME :->. Sat Feb 25 11:07:35 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.1.0.0.51.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p20.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Sun Feb 26 11:02:11 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.1.0.0.51.0
 
 *   for the home
 *   bed &. bath
@@ -56,13 +56,9 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Stretch Your Penney Sale In Store &. Online | Ends February 26 Shop Now Shop The Ad SPOTLIGHT DEAL Customer Favorite, Top Rated 7.99 A.N.A or St. John's Bay Tees, select styles, orig. $14-$16
+Stretch Your Penney Sale In Store &. Online | Last Day! Shop Now Shop The Ad Customer Favorite, Top Rated 8.99 A.N.A Tees, select styles, orig. $16 TOP RATED 17.99 Men's St. John's Bay Flat-Front Shorts, select styles, reg. $36 TOP RATED 17.99 St. John's Bay Slender Capris, select styles, orig. $36, including petite sizes TOP RATED 8.99 Boys' or Girls' Xersion Graphic Tee, select styles, reg. $16 TOP RATED 5.99 JCPenney Home Trellis or 30x54" Solid Bath Towels, select styles, reg. $12 Ambrielle Anniversary Sale Only Once a Year! Last Day! Shop Ambrielle FREE! New Ambrielle Microfiber Panty
 
-2 Days! Friday and Saturday: SPOTLIGHT DEALS
-
-SPOTLIGHT DEAL 14.99 Men's St. John's Bay Flat-Front Shorts, select styles, reg. $36 SPOTLIGHT DEAL 14.99 St. John's Bay Slender Capris, select styles, orig. $36, including petite sizes SPOTLIGHT DEAL 7.99 Boys' or Girls' Xersion Graphic Tee, select styles, reg. $16 SPOTLIGHT DEAL 14.99 JCPenney Home 300tc Easy-Care Solid or Print Twin Sheet Set, select styles, reg. $50 Ambrielle Anniversary Sale Only Once a Year! Ends February 26 Shop AmbrielleFREE! New Ambrielle Microfiber Panty
-
-with purchase of any Ambrielle bra
+with purchase of any Ambrielle bra, select styles
 
 19.99 Ambrielle Bras
 
@@ -72,15 +68,11 @@ Shop Bras Home Sale Up to 50% Off
 
 Select styles
 
-Shop All Home Bedding Window Kitchen &. Dining Furniture &. Mattresses Baby Sale Up to 50% Off Over 18 New Brands &. 500 New Items For Your Baby
+Bedding   Window Kitchen &. Dining Furniture &. Mattresses Shop All Home Baby Sale Up to 50% Off Over 18 New Brands &. 500 New Items For Your Baby
 
-Ends February 26
+Last Day!
 
-Shop Now Shop the Ad Red Zone Clearance New Markdowns! 60 to 70% Off
-
-In Store &. Online
-
-Shop Clearance \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Feb 25 22:26:18 CST 2017 JVM :->. dtexppr1l2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Feb 25 22:00:12 CST 2017 JVM :->. dtexppr1l1j6\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now Shop the Ad \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Feb 26 22:09:00 CST 2017 JVM :->. dtexppr1l1j2\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Feb 26 22:33:04 CST 2017 JVM :->. dtexppr1c2j2\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
