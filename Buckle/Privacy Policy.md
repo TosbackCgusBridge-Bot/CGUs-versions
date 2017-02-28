@@ -77,7 +77,7 @@
         
           
           
-        Give a Buckle Gift card Ladies, pre-shop spring with SPECIAL PRICING! Shop Now.
+        Give a Buckle Gift card $5 Standard Shipping within the Continental U.S. See Details.
 *   Men
     *   *   Featured
         
@@ -129,7 +129,7 @@
         
           
           
-        Give a Buckle Gift card Ladies, pre-shop spring with SPECIAL PRICING! Shop Now.
+        Give a Buckle Gift card $5 Standard Shipping within the Continental U.S. See Details.
 *   Kids
     *   *   Featured
         
@@ -151,7 +151,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Ladies, pre-shop spring with SPECIAL PRICING! Shop Now.
+        Give a Buckle Gift card $5 Standard Shipping within the Continental U.S. See Details.
 *   Jeans
     *   *   Women's Jeans
         
@@ -181,7 +181,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Ladies, pre-shop spring with SPECIAL PRICING! Shop Now.
+        Give a Buckle Gift card $5 Standard Shipping within the Continental U.S. See Details.
 *   New
     *   *   Women's New
         
@@ -209,7 +209,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Ladies, pre-shop spring with SPECIAL PRICING! Shop Now.
+        Give a Buckle Gift card $5 Standard Shipping within the Continental U.S. See Details.
 *   Sale
     *   *   Women's Sale
         
@@ -250,7 +250,7 @@
         
           
           
-        Give a Buckle Gift card Ladies, pre-shop spring with SPECIAL PRICING! Shop Now.
+        Give a Buckle Gift card $5 Standard Shipping within the Continental U.S. See Details.
 
 A Global Message! × Privacy &. Security
 
