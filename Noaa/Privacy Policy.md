@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms January was 3rd warmest on record for the globe Sea ice extents in Arctic, Antarctic hit record lows AROUND NOAA // Snowpack + snowmelt = water Unprecedented Arctic weather has scientists on edge NOAA ship journeys into remote, deep Pacific ocean
+Enter Search Terms January was 3rd warmest on record for the globe Sea ice extents in Arctic, Antarctic hit record lows AROUND NOAA // Invasive Species Week: Chat live on reddit with scientists about the lionfish invasion Snowpack + snowmelt = water Unprecedented Arctic weather has scientists on edge
 
 *   About our agency
 *   News and features
