@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Mobile World Congress 2017, Day One Recap ›
+*   The no-nonsense way to accelerate your business with containers ›
+*   LXD client on Windows and MacOS ›
+*   The Dell Edge Gateway 3000 launches with Ubuntu Core 16 ›
 *   HOWTO: Automatically import your public SSH keys into LXD Instances ›
-*   Dustin Kirkland: The Questions that You’re Afraid to Ask about Containers ›
-*   Technologic Systems Inc. brings Ubuntu Core to the i.MX6 based TS-4900 ›
-*   MWC17: The future of industrial IoT ›
-*   Why does software-defined everything matter? ›
