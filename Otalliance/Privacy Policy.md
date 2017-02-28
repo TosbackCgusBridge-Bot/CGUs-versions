@@ -31,6 +31,7 @@ Skip to main content Online Trust Alliance
     *   Malicious Threats
     *   Web and Mobile Security
     *   OTA Members (Restricted)
+    *   Report a Vulnerability
 *   Best Practices
 *   Committees
 *   News &. Events
@@ -140,6 +141,7 @@ More >>. Resources
 *   Malicious Threats
 *   Web and Mobile Security
 *   OTA Members (Restricted)
+*   Report a Vulnerability
 
 Initiatives
 
