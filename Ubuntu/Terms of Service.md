@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Mobile World Congress 2017, Day Two Recap ›
+*   Canonical wins Orange Award for Converged Computing at MWC 17 ›
 *   Mobile World Congress 2017, Day One Recap ›
 *   The no-nonsense way to accelerate your business with containers ›
 *   LXD client on Windows and MacOS ›
-*   The Dell Edge Gateway 3000 launches with Ubuntu Core 16 ›
-*   HOWTO: Automatically import your public SSH keys into LXD Instances ›
