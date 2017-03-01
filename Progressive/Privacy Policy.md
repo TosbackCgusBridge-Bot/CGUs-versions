@@ -105,7 +105,6 @@ Insurance Offerings
 *   Life Insurance
 *   See All Insurance Choices
 *   Commercial Insurance
-*   Local Car Insurance
 *   Australia Car Insurance
 
 Our Company
