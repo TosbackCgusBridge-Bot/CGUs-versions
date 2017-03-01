@@ -35,7 +35,7 @@ Change country/language X
     *   InfraWorks
     *   Inventor
     *   Maya
-    *   Powermill
+    *   PowerMill
     *   Revit
     *   Shotgun
     *   File viewers
