@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
+**Secret Alphabet of Squid Skin Due to Brains Totally Unlike Our Own**
+
+**If It Ain't Broke: Nokia Brings Back Its 17-year-old Icon**
+
 **Study Finds No Link Between Inactivity and Weight Gain**
-
-**450 Huge Geometrical Earthworks in the Amazon Hint at Past Civilizations**
-
-**Ridiculous History: Ancient Armies Waged War With Hallucinogenic Honey**
 
 **See More Headlines »**
 
