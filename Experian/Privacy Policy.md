@@ -32,7 +32,7 @@ More Pages Privacy
     *   AutoCheck®
     *   AutoCount®
     *   Business Verification By Phone
-    *   CheetahMail®
+    *   Cross-Channel Marketing
     *   Client Registration
     *   Data SelectSM
     *   EU Safe Harbor Privacy Policy
