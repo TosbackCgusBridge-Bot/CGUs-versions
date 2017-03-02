@@ -1,8 +1,9 @@
-campaign: nyt2017\_bar1\_digi\_february\_sale\_6KR4R -- 285344, creative: nyt2016\_bar1\_digi\_february\_sale\_lc -- 415864, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
+campaign: abTest\_bar1\_lp\_gbb\_loyalty\_0217 -- 285421, creative: abTest\_bar1\_lp\_gbb\_loyalty\_0217\_ad -- 415857, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
 
+*   1 of 10 articles read
 *   SUBSCRIBE NOW Truth.  
-    It has no alternative. Now is the time.  
-    Get 50% off for one year. SEE MY OPTIONS
+    Discover it with us. Get up to 40% off the Times  
+    subscription of your choice. SEE MY OPTIONS
 
 SUBSCRIBE*   Help
 
@@ -250,4 +251,4 @@ Search Help
 *   Contact Us
 *   Site Feedback
 
-Campaign ID: 285217 | Creative: nyt2017\_pers\_B2B\_cookieset\_v5\_HTTPS -- 415673 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Inv1
+Campaign ID: 285217 | Creative: nyt2017\_pers\_B2B\_cookieset\_v5\_HTTPS -- 415673 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Inv3
