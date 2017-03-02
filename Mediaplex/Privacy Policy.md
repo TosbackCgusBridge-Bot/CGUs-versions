@@ -76,6 +76,10 @@ Login Let's Connect What We Do Watch Video
     Return On Ad Spend
 
 *   The Latest News
+*   Get Video Ads on the Right Screens
+    
+    Extend TV ads to digital with scale &. accuracy  
+    
 *   How To Do Video Smartly
     
     7 questions your technology needs to consider  
@@ -87,10 +91,6 @@ Login Let's Connect What We Do Watch Video
 *   The "50 First Dates" Problem
     
     A recipe for bad digital marketing
-    
-*   Winner: DMA Innovation Award
-    
-    Our video personalization platform, Kepler  
     
 *   Marketing Is Failing At Its Top Priority
     
