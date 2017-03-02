@@ -3,7 +3,6 @@ Pick a theme
 *   Red
 *   Blue
 *   Pink
-*   Yellow
 
 Categories
 
@@ -224,12 +223,12 @@ View more results
     Join for free
 *   Hot Games
     
-    *   Nitro Heads
-    *   Agar.io
-    *   Treasure Master
-    *   Jackpot
     *   Thrill Rush 5
-    *   Basketball FRVR
+    *   Papa's Freezeria
+    *   Alliance Warfare
+    *   Sao Legend
+    *   Dogar.io
+    *   Trollface Quest TrollTube
     
     Mobile Apps More
     
