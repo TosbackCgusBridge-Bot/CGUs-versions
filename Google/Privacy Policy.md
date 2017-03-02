@@ -4,7 +4,7 @@ Quando o usuário usa nossos serviços, confia a nós informações dele. Esta P
 
 Política de Privacidade Ocultar exemplos Mostrar exemplos Ocultar exemplos
 
-Última modificação: 29 de agosto de 2016 (visualizar versões arquivadas) Os exemplos com hiperlinks estão disponíveis no final deste documento.
+Última modificação: 1 de março de 2017 (visualizar versões arquivadas) Os exemplos com hiperlinks estão disponíveis no final deste documento.
 
 Fazer o download da versão em PDF
 
@@ -116,7 +116,7 @@ Não compartilhamos informações pessoais com empresas, organizações e indiv�
     
 *   **Com administradores de domínios**
     
-    Se sua Conta do Google for administrada por um administrador de domínio (por exemplo, para usuários do Google Apps), então seu administrador de domínio e revendedores que fornecem suporte de usuário a sua organização terão acesso às informações de sua Conta do Google (inclusive dados de e-mail e outros dados). Seu administrador de domínio pode ser capaz de:
+    Se sua Conta do Google for administrada por um administrador de domínio (por exemplo, para usuários do G Suite), então seu administrador de domínio e revendedores que fornecem suporte de usuário a sua organização terão acesso às informações de sua Conta do Google (inclusive dados de e-mail e outros dados). Seu administrador de domínio pode ser capaz de:
     
     *   visualizar estatísticas de sua conta, como estatísticas relacionadas a aplicativos que o usuário instala.
     *   alterar a senha de sua conta.
@@ -176,7 +176,7 @@ Os seguintes avisos explicam as práticas de privacidade específicas em relaç�
 *   Payments
 *   Fiber
 *   Project Fi
-*   Google Apps para Educação
+*   G Suite for Education
 
 Para mais informações sobre alguns dos nossos serviços mais populares, visite o Guia de Privacidade do Produto Google.
 
