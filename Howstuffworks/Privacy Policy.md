@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Secret Alphabet of Squid Skin Due to Brains Totally Unlike Our Own**
+**Removing Brands From Cigarette Packs Encourages Smokers to Quit**
 
-**If It Ain't Broke: Nokia Brings Back Its 17-year-old Icon**
+**Gamers Can Help Scientists Hunt for Real Exoplanets in 'EVE Online'**
 
-**Study Finds No Link Between Inactivity and Weight Gain**
+**Teaching Bees to Play Ball Reveals Complex Learning Abilities**
 
 **See More Headlines »**
 
