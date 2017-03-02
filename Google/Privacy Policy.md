@@ -4,7 +4,7 @@ Wenn Sie Google-Dienste verwenden, vertrauen Sie uns Ihre Daten an. In dieser Da
 
 Datenschutzerklärung Beispiele ausblenden Beispiele anzeigen Beispiele ausblenden
 
-Zuletzt geändert am: 29. August 2016 (archivierte Versionen anzeigen) Die verlinkten Beispiele sind unten auf dieser Seite zu finden.
+Zuletzt geändert am: 1. März 2017 (archivierte Versionen anzeigen) Die verlinkten Beispiele sind unten auf dieser Seite zu finden.
 
 PDF-Version herunterladen
 
@@ -116,7 +116,7 @@ Wir geben keine personenbezogenen Daten an Unternehmen, Organisationen oder Pers
     
 *   **Im Falle von Domain-Administratoren**
     
-    Wird Ihr Google-Konto für Sie von einem Domain-Administrator·verwaltet (beispielsweise im Falle von Nutzern von Google-Apps), so haben der Domain-Administrator und die Vertriebspartner, die die Kundenbetreuung für Ihre Organisation erbringen, Zugriff auf die Informationen Ihres Google-Kontos (einschließlich Ihrer E-Mails und anderer Daten). Ihr Domain-Administrator verfügt gegebenenfalls über die Möglichkeit:
+    Wird Ihr Google-Konto für Sie von einem Domain-Administrator·verwaltet (beispielsweise im Falle von Nutzern von G Suite), so haben der Domain-Administrator und die Vertriebspartner, die die Kundenbetreuung für Ihre Organisation erbringen, Zugriff auf die Informationen Ihres Google-Kontos (einschließlich Ihrer E-Mails und anderer Daten). Ihr Domain-Administrator verfügt gegebenenfalls über die Möglichkeit:
     
     *   Statistiken betreffend Ihr Konto, wie zum Beispiel Statistiken über die von Ihnen installierten Applikationen, einzusehen.
     *   das Passwort für Ihr Konto zu ändern.
@@ -176,7 +176,7 @@ Die folgenden Hinweise erläutern gesonderte Datenschutzpraktiken im Zusammenhan
 *   Payments
 *   Fiber
 *   Projekt Fi
-*   Google Apps for Education
+*   G Suite for Education
 
 Weitere Informationen zu einigen der am häufigsten genutzten Google-Dienste erhalten Sie im Leitfaden zum Datenschutz in Google-Produkten.
 
