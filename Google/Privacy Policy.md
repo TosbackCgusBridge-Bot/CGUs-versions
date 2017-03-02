@@ -4,7 +4,7 @@ Lorsque vous utilisez nos services, vous nous faites confiance pour le traitemen
 
 Règles de confidentialité Masquer les exemples Afficher les exemples Masquer les exemples
 
-Date de la dernière modification : 29 août 2016 (voir les versions archivées) (Les exemples en liens hypertexte sont disponibles au bas de ce document.)
+Date de la dernière modification : 1 mars 2017 (voir les versions archivées) (Les exemples en liens hypertexte sont disponibles au bas de ce document.)
 
 Télécharger la version PDF
 
@@ -176,7 +176,7 @@ Les documents suivants exposent des pratiques spécifiques en matière de confid
 *   Payments
 *   Fiber
 *   Project Fi
-*   Google Apps for Education
+*   G Suite for Education
 
 Pour obtenir plus d'informations sur certains de nos services les plus populaires, vous pouvez consulter le guide de confidentialité des produits Google.
 
