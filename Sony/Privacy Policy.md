@@ -129,11 +129,15 @@ Play Video
 
 Sony on Instagram
 
-Now playable at #SonySquareNYC: Horizon Zero Dawn + we've got some HZD DualShock 4 skins.
+New video: How @Guerrilla designed the open world of #HorizonZeroDawn.
 
-2017-03-01 05:40:06+00:00
+2017-02-26 06:00:00+00:00
 
 View Tweet
+
+Play Horizon Zero Dawn
+
+At Sony Square NYC
 
 Close
 
@@ -141,9 +145,9 @@ Close
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share HZD Deluxe Edition
+*   Copy URL to share Play Horizon Zero Dawn
 
-HZD Deluxe Edition
+At Sony Square NYC
 
 The Ultimate 4K Gaming Bundle Is Here
 
