@@ -348,6 +348,7 @@ Returns
 
 Promotions
 
+*   Brand Madness Official Rules
 *   Get Rewarded
 *   F8 Red Carpet Sweepstakes Official Rules
 *   Social Giveaway Official Rules
