@@ -1,8 +1,13 @@
 To learn about our efforts to improve the accessibility and usability of our website, please visit our Accessibility Information page. Skip to section navigation or Skip to main content Below is an advertisement. 한국어 日本語 Español
 
-Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Fantasy Auction Teams
+Sections Scores WBC 2017 News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Auction Fantasy Teams
 
 *   Scores
+*   WBC 2017 WBC 2017 World Baseball Classic
+    *   Schedule &. Tickets
+    *   News
+    *   Video
+    *   Shop
 *   News News News
     
     In This Section
@@ -129,7 +134,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Experiences
     *   Game-Used
     *   Jerseys
-    *   PhotosWorld Series Champs MLB Auctions
+    *   PhotosT-Shirt Club MLB Auctions
 *   MLB.TV MLB.TV MLB.TV
     *   Buy MLB.TV
     *   Watch MLB.TV
@@ -142,6 +147,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.TV Support Forum
     *   MLB.TV Blackouts
     *   Contact Uswbc Spring Training
+*   Auction
 *   Fantasy Fantasy Fantasy
     *   2017 Fantasy Player Preview
     *   R.B.I. Baseball 17
@@ -155,7 +161,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Prospect Watch
     *   Fantasy 411 Blog
     *   Follow @Fantasy411Beat the Streak R.B.I. Baseball 17 Fantasy Player Preview 160x160 MLB.com Line Drive MLB.com Home Run Derby MLB.com Postseason Bracket Challenge
-*   Auction
 *   Teams Teams American League AL East
     
     *   Baltimore
