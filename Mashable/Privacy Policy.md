@@ -2,9 +2,11 @@ Untitled Document
 
 **Mashable Privacy Policy**
 
-This Privacy Policy was last updated on September 28, 2016.
+This Privacy Policy was last updated on March 2, 2017.
 
-We take your privacy very seriously and are committed to being transparent with how we use your information. This website (www.mashable.com), mobile application and any of our services and sites directing you to this Privacy Policy are controlled by Mashable, Inc (collectively "we" or "us"). This Privacy Policy also incorporates the terms contained in the Terms of Use (http://mashable.com/terms/) and Cookies Policy (http://mashable.com/cookie-policy).
+We take your privacy very seriously and are committed to being transparent with how we use your information. This website (www.mashable.com), mobile application and any of our services and sites directing you to this Privacy Policy are controlled by Mashable, Inc (collectively "we" or "us"). This Privacy Policy also incorporates the terms contained in the Terms of Use (http://mashable.com/terms/), Cookies Policy (http://mashable.com/cookie-policy) and the Copyright Policy (http://mashable.com/copyright-policy).
+
+  
 
 **Our Privacy Policy explains:**
 
@@ -68,7 +70,7 @@ We use cookies to remember users' settings (e.g. geographic location) and for au
 The use of cookies on our website is governed by our Cookie Policy.
 
 **Behavioral Targeting/Re-Targeting**  
-We and our service providers may use advertising cookies to deliver ads that we believe are more relevant to you and your interests. For example, we may use targeting or advertising cookies to customize the advertising and content you receive on our site, to limit the number of times you see the same ad on our site and to help measure the effectiveness of our advertising campaigns. These cookies remember what you have looked at on the site and other sites, and may be combined with other information acquired from third parties, and we may share this information with other organizations, such as advertisers.
+We and our service providers, marketing partners, and affiliates may use advertising cookies to deliver ads that we believe are more relevant to you and your interests. For example, we may use targeting or advertising cookies to customize the advertising and content you receive on our site, to limit the number of times you see the same ad on our site and to help measure the effectiveness of our advertising campaigns. These cookies remember what you have looked at on the site and other sites, and may be combined with other information acquired from third parties, and we may share this information with other organizations, such as advertisers.
 
 Please visit the links below to opt-out of cookies from over 50+ major third party behavioral advertising providers:
 
@@ -145,7 +147,7 @@ We do not share personal information with companies, outside organizations and i
 Please note that third party recipients of your personal information may be located in United States, United Kingdom and Australia.
 
 **Frames**  
-Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our site. Please be aware that you may be providing your personal information to these third parties and not to www.mashable.com
+Some of our pages utilize framing techniques to serve content from our partners while preserving the look and feel of our site. Please be aware that you may be providing your personal information to these third parties and not to www.mashable.com
 
 **Comments Section / Forum**  
 Our website offers publicly accessible comments section or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our comments section or community forum, contact us at_ privacy@mashable.com.  
