@@ -2,30 +2,32 @@ Skip to Content Skip to Search United States Select a region
 
 *   Africa
     *   Algeria
-    *   Cameroon
-    *   Cote D’Ivoire
-    *   Ghana
     *   Kenya
     *   Morocco
     *   Nigeria
     *   South Africa
+    *   Tunisia
 *   Asia &. the Middle East
     
+    *   Armenia
+    *   Azerbaijan
     *   Bangladesh
     *   Cambodia
     *   China
     *   Egypt
+    *   Georgia
     *   Hong Kong
     *   India
     *   Indonesia
     *   Israel
     *   Japan
+    *   Kazakhstan
+    *   Korea
+    
     *   Malaysia
     *   Myanmar
     *   Pakistan
-    
     *   Philippines
-    *   Korea
     *   Saudi Arabia
     *   Singapore
     *   Sri Lanka
@@ -41,9 +43,7 @@ Skip to Content Skip to Search United States Select a region
 *   Europe
     
     *   Albania
-    *   Armenia
     *   Austria
-    *   Azerbaijan
     *   Belarus
     *   Belgium
     *   Bosnia and Herzegovina
@@ -55,15 +55,13 @@ Skip to Content Skip to Search United States Select a region
     *   Estonia
     *   Finland
     *   France
-    *   Georgia
     *   Germany
     *   Greece
     *   Hungary
     *   Ireland
     *   Italy
-    
-    *   Kazakhstan
     *   Latvia
+    
     *   Lithuania
     *   Luxembourg
     *   Macedonia
