@@ -78,7 +78,6 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Dividend history
         *   Dividend timetable
         *   Scrip dividend
-        *   Share analytics
         *   Treasury shares
     
     *   Investor resources
