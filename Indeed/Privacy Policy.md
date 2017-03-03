@@ -231,7 +231,7 @@ When you access or use Indeed’s online and/or mobile services and websites, in
 *   Indeed Brasil Pesquisa de Empregos ltda., Av. Chedid Jafet, 222 – bloco D, 5o andar, Vila Olimpia – São Paulo /SP CEP 04551-065, Brasil, solely with respect Employer (as defined below)’s use of the Indeed Ads Program, and Indeed Resume Program, if any, if and when you are in Brazil (“Indeed Brazil”), and/or
 *   Indeed, Inc., 6433 Champion Grandview Way, Building 1, Austin, TX, 78750, USA, if and when you are in the United States (“Indeed, Inc.”), and/or
 *   Indeed India Operations (Pte.) Ltd., 308 3rd Floor, Ashoka Capitol, Road No. 2, Banjara Hills, Hyderabad – 500034, Telangana, India, solely with respect to Employer’s use of the Indeed Ads Program and Indeed Resume Program, if any, if and when you are in India (“Indeed India”), and/or
-*   Indeed Singapore Operations (Pte.) Ltd., Level 20, 16 Collyer Quay, Singapore 049318, solely with respect to Employer’s use of the Indeed Ads Program and Indeed Resume Program, if any, if and when you are in the Asia-Pacific Region\* (unless you have an insertion order issued by another Indeed entity, in which case you will contract with Indeed Ireland) (“Indeed Singapore”), and/or
+*   Indeed Singapore Operations (Pte.) Ltd., 50 Collyer Quay #05-05, OUE Bayfront, Singapore 049321, solely with respect to Employer’s use of the Indeed Ads Program and Indeed Resume Program, if any, if and when you are in the Asia-Pacific Region\* (unless you have an insertion order issued by another Indeed entity, in which case you will contract with Indeed Ireland) (“Indeed Singapore”), and/or
 *   Indeed Ireland Operations Limited, 124 St. Stephen’s Green, Dublin 2, Ireland, in all other respects (“Indeed Ireland”).
 
 Any references to “Indeed” or “we” in this Agreement shall mean the applicable entity as set forth above.
@@ -252,7 +252,7 @@ This Agreement hereby incorporates by this reference any additional terms and co
 
 Indeed General Terms of Service
 
-Last Updated: February 27, 2017
+Last Updated: March 2, 2017
 
 **A.** The following terms and conditions apply to all Job Seekers, Employers, Publishers and other users who access or use the Site, or otherwise indicate their acceptance to this Agreement.
 
@@ -416,7 +416,7 @@ Change of Address: If you have provided a billing address to us, and you change 
 
 Any notices to Indeed must be sent to the applicable Indeed entity identified in the first paragraph of this Agreement via certified first class or air mail or overnight courier, are deemed given upon receipt, and must reference the Program that is the subject of the notice (i.e., Indeed Ads Program, Indeed Resume Program, Indeed MoBolt or Indeed Publisher Program). Notice to you may be effected by sending email to the email address specified in your account, or by posting a message to your account interface, and is deemed received when sent (for email) or no more than fifteen (15) days after having been posted (for messages in your Indeed Ads interface).
 
-You may not assign or delegate any of your rights or obligations hereunder without Indeed’s prior written consent and any such attempt is void. Indeed may freely assign or delegate its rights and obligations hereunder without notice to you. Indeed and you are not legal partners or agents, but are independent contractors.
+You may not assign or delegate any of your rights or obligations hereunder without Indeed’s prior written consent and any such attempt is void. Indeed may freely assign or delegate its rights and obligations hereunder without notice to you. Additionally, Indeed may assign any agreement between you and Indeed to any related Indeed entity by informing you of such assignment. Indeed and you are not legal partners or agents, but are independent contractors.
 
 **16\. Apple-Specific Terms**
 
@@ -500,7 +500,7 @@ D. Indeed Publisher Program Terms
 
 These Indeed Publisher Program Terms (“IPP Terms”) apply to any Publisher that accesses or uses the Indeed Publisher Program, or that otherwise indicates its acceptance of these IPP Terms.
 
-These IPP Terms are between You and Indeed, Inc., 6433 Champion Grandview Way, Building 1, Austin, TX, 78750, USA, and set out the terms and conditions applicable to your participation in the Indeed Publisher Program (the “Program”) and, along with Indeed Terms of Service, use of or access to Indeed’s online and/or mobile services and websites, and software provided by or on behalf of Indeed on or in connection with such services or websites (collectively, the “Site”). Any references to “Indeed” shall mean Indeed, Inc. The Program, as generally offered by Indeed, is described on https://ads.indeed.com/jobroll or such other URL as Indeed may provide from time to time. “You” or “Publisher” means any entity identified in an enrollment form submitted by the same or affiliated persons, and/or any agency or network acting on its (or their) behalf, which shall also be bound by these IPP Terms.
+These IPP Terms are between You and Indeed, Inc., 6433 Champion Grandview Way, Building 1, Austin, TX, 78750, USA, and set out the terms and conditions applicable to your participation in the Indeed Publisher Program (the “Program”) and, along with Indeed Terms of Service, use of or access to Indeed’s online and/or mobile services and websites, and software provided by or on behalf of Indeed on or in connection with such services or websites (collectively, the “Site”). Any references to “Indeed” shall mean Indeed, Inc. The Program, as generally offered by Indeed, is described on https://www.indeed.com/publisher or such other URL as Indeed may provide from time to time. “You” or “Publisher” means any entity identified in an enrollment form submitted by the same or affiliated persons, and/or any agency or network acting on its (or their) behalf, which shall also be bound by these IPP Terms.
 
 These IPP Terms hereby incorporate by this reference any additional terms and conditions posted by Indeed through the Site, or otherwise made available to you by Indeed, including the Indeed Terms of Service.
 
@@ -508,7 +508,7 @@ Indeed shall have absolute discretion as to whether or not it accepts a particul
 
 **1\. Publisher Obligations**
 
-Any job search results, JobrollTM, Job Search Box, pay-per-click advertisements, links, insertion code, and any Indeed logos or other elements supplied by Indeed for use on Affiliates’ websites or websites co-branded by Indeed and Affiliate (collectively, “Program Elements”) may only appear on URLs that Indeed has reviewed and accepted for participation (“Accepted URLs”). Publisher shall advise Indeed of any changes in the type of content accessible at any such accepted URL. Publisher agrees to comply with the specifications provided by Indeed from time to time to enable proper delivery, display, tracking and reporting of Program Elements.
+Any job search results, JobrollTM, Job Search Box, pay-per-click advertisements, links, insertion code, and any Indeed logos or other elements supplied by Indeed for use on Affiliates’ websites or websites co-branded by Indeed and Affiliate (collectively, “Program Elements”) may only appear on URLs that Indeed has reviewed and accepted for participation (“Accepted URLs”). However, please note that as of March 3, 2017, Job Search Box, links and insertion code will only be available to Publishers already a part of the IPP, and as of March 31, 2017, Job Search Box, links and insertion code will no longer be available through IPP. Publisher shall advise Indeed of any changes in the type of content accessible at any such accepted URL. Publisher agrees to comply with the specifications provided by Indeed from time to time to enable proper delivery, display, tracking and reporting of Program Elements.
 
 Publisher shall label each displayed Program Element with the phrase “Jobs by Indeed” at least 116 X 23 pixels in size, wherein the word “Jobs” shall be hyperlinked to http://www.indeed.com or other Indeed website as agreed with Indeed and the word “Indeed” shall be the Indeed Logo Image and shall also be hyperlinked to http://www.indeed.com or other Indeed website as agreed by Indeed. The Indeed Logo Image can be found at: http://www.indeed.com/p/jobsearch.gif.
 
@@ -522,15 +522,19 @@ Publisher shall receive a commission payment with respect to valid clicks receiv
 
 **3\. Qualifying Links**
 
-Publisher may earn a commission, as determined by Indeed in its sole discretion, if Publisher refers a Qualified User (as defined below) to the Indeed Website via a Qualifying Link (as defined below) and if such Qualified User has accessed the Indeed Website and purchased a qualifying product or service (“Qualifying Purchase”) during a Session (as defined below). Not all services or products will be eligible as a Qualifying Purchase under the Program, and Qualifying Purchases are determined in Indeed’s sole discretion. Indeed is under no obligation to pay any particular amount for any referral and it is in Indeed’s absolute discretion to determine for how long a period of time it shall pay this commission after the date the Qualified User initially arrives at Indeed via a Qualifying Link from the Publisher’s Publisher Property (“Initial Contact’). No payments under this program shall be any indication of future payments under this program.
+As of March 3, 2017, the below portion of the IPP will no longer be available to any new Publisher. As of March 31, 2017, the below portion of the IPP will no longer be available to any Publisher, including existing Publishers who are part of the IPP.
+
+\[Publisher may earn a commission, as determined by Indeed in its sole discretion, if Publisher refers a Qualified User (as defined below) to the Indeed Website via a Qualifying Link (as defined below) and if such Qualified User has accessed the Indeed Website and purchased a qualifying product or service (“Qualifying Purchase”) during a Session (as defined below). Not all services or products will be eligible as a Qualifying Purchase under the Program, and Qualifying Purchases are determined in Indeed’s sole discretion. Indeed is under no obligation to pay any particular amount for any referral and it is in Indeed’s absolute discretion to determine for how long a period of time it shall pay this commission after the date the Qualified User initially arrives at Indeed via a Qualifying Link from the Publisher’s Publisher Property (“Initial Contact’). No payments under this program shall be any indication of future payments under this program.
 
 A “Qualifying Link” is a link directing a Qualified User from Publisher’s website or online property (“Publisher Property”) to Indeed using a Program Element provided by Indeed for use with the Program. A “Session” is the period of time beginning when a Qualified User initially arrives at Indeed via a Qualifying Link from the Publisher’s Publisher Property (“Initial Contact”), and ending at Indeed’s absolute discretion. For avoidance of doubt, Publisher acknowledges that a Session will not commence unless cookies are enabled on the Customer’s device or computer in a manner that enables Indeed to fully attribute actions of Qualified User to Publisher’s Qualifying Link. A “Qualified User” is a user who has not previously registered with Indeed, has not been previously “cookied” by Indeed and has not previously visited the Indeed Site, all as determined by Indeed in its sole and absolute discretion.
 
-The parties acknowledge and agree that Indeed shall have the sole right and responsibility for processing all orders made by Qualified Users. Publisher acknowledges that all agreements relating to sales to Qualified Users shall be between Indeed and the Qualified User.
+The parties acknowledge and agree that Indeed shall have the sole right and responsibility for processing all orders made by Qualified Users. Publisher acknowledges that all agreements relating to sales to Qualified Users shall be between Indeed and the Qualified User.\]
 
-The determination as to whether a sale is made via a Qualifying Link, and whether a commission is payable, will be made by Indeed in its sole and absolute discretion and is final and binding on Publisher. Prices for the Qualifying Purchases will be set solely by Indeed in its sole and absolute discretion.
+As of March 31, 2017, the following will be the only available method for participation in the IPP:
 
-Publisher shall not be entitled to commissions and shall reverse any commissions already paid if Publisher is in breach of these IPP Terms or has engaged in any fraudulent activity, including, but not limited to, cookie stuffing, cloaking, or forcing pop-ups.
+\[Publisher may earn a commission, as determined by Indeed in its sole discretion, if a user clicks on a Qualifying Link. A “Qualifying Link” is a link directing a user from the Publisher’s website or online property (“Publisher Property”) to a job using a Program Element provided by Indeed for use with the Program, such as pay-per-click advertising, Jobroll™, or job search results.\]
+
+Publisher shall not be entitled to commissions and shall reverse any commissions already paid if Publisher is in breach of these IPP Terms or has engaged in any fraudulent activity, including, but not limited to, cookie stuffing, cloaking, or forcing pop-ups.The determination as to whether a sale is made via a Qualifying Link, and whether a commission is payable, will be made by Indeed in its sole and absolute discretion and is final and binding on Publisher. Prices for the Qualifying Purchases will be set solely by Indeed in its sole and absolute discretion.
 
 **4\. Terms of Payment**
 
