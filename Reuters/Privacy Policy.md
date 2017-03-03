@@ -146,7 +146,7 @@ Contact sales to start your free trial › pip
 *   Contact Us
 *   My Account
 *   OnePass
-*   Payment, Shipping &. Returns
+*   Billing, Returns &. Refunds
 *   Book Pricing Options
 
 *   Product Support
