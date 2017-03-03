@@ -118,6 +118,8 @@ Tue, Nov 15, 2016 IoT Threats - What we can do today and tomorrow
 
 Statement for the record for the US House of Representatives - " Understanding the Role of Connected Devices in Recent Cyber Attacks"
 
+See Related Readings - Vision for Trust
+
 Wed, Nov 9, 2016 Why the Insurance Industry Will Never Be the Same After the Mirai DDoS Attack
 
 **Guest Blog from Pascal Millaire, Symantec**
