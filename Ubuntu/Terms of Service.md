@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Mobile World Congress 2017, Day Four Recap ›
+*   A couple of new snap tutorials are now available ›
+*   Bare Metal Server Provisioning Series: the Economics of Automation ›
 *   Mobile World Congress 2017, Day 3 Recap ›
 *   DevOps for NetOps ›
-*   Mobile World Congress 2017, Day Two Recap ›
-*   Canonical wins Orange Award for Converged Computing at MWC 17 ›
-*   Mobile World Congress 2017, Day One Recap ›
