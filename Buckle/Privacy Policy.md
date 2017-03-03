@@ -91,12 +91,12 @@
         
         *   Tops
         
-        *   T-Shirts
+        *   Graphic T-Shirts
+        *   Solid T-Shirts
         *   Shirts
+        *   Tanks
         *   Polos
         *   Sweatshirts
-        *   Sweaters
-        *   Coats/Jackets
         *   Shop All
         
         *   Bottoms
@@ -105,16 +105,18 @@
         *   Pants
         *   Joggers
         *   Shorts
+        *   Boardshorts
+        *   Hybrid Shorts
         *   Shop All
         
         *   Shoes
         
-        *   Boots
+        *   Flips
         *   Sneakers
         *   Casuals
         *   Dress Shoes
         *   Slides
-        *   Flips
+        *   Boots
         *   Shop All
         
         *   More
@@ -183,12 +185,18 @@
         
         Give a Buckle Gift card $5 Standard Shipping within the Continental U.S. See Details.
 *   New
-    *   *   Women's New
+    *   *   Featured New
+        
+        *   Men's Easy Care Shirts
+        *   Latest Gimmicks Collection!
+        *   New buckle SELECT Stylists
+        
+        *   Women's New
         
         *   T-Shirts
         *   Jeans
-        *   Sweatshirts
-        *   Coats/Jackets
+        *   Shorts
+        *   Tanks
         *   Shirts/Blouses
         *   Shoes
         *   Shop All
@@ -197,10 +205,10 @@
         
         *   T-Shirts
         *   Jeans
-        *   Sweatshirts
+        *   Shorts
         *   Shirts
         *   Shoes
-        *   Raglans
+        *   Boardshorts
         *   Shop All
         
         *   Kid's New
