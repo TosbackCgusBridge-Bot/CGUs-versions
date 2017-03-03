@@ -223,7 +223,7 @@ View more results
     Join for free
 *   Hot Games
     
-    *   Thrill Rush 5
+    *   Uphill Rush 7: Waterpark
     *   Papa's Freezeria
     *   Alliance Warfare
     *   Sao Legend
@@ -233,12 +233,11 @@ View more results
     Mobile Apps More
     
     *   Uphill Rush
+    *   Troll Face Quest TV Shows
     *   My Dolphin Show
     *   Nitro Heads
     *   Cats Empire
     *   Troll Face Quest Video Games
-    *   Hero Simulator: Idle Adventure
-    *   Troll Face Quest Video Memes
     
     Specials
     
