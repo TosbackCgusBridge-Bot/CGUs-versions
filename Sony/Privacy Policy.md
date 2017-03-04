@@ -327,20 +327,6 @@ Close
 
 Check It Out
 
-Become Your Own DJ and Feel The Extra Bass
-
-Visit The Sound Lab at Sony Square NYC
-
-Close
-
-*   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
-*   Copy URL to share Become Your Own DJ and Feel The Extra Bass
-
-Visit The Sound Lab at Sony Square NYC
-
 Load More
 
 Where To Buy See Authorized Retailers Sony Rewards
