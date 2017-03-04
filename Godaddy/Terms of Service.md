@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: January 25, 2017**
+**Last Revised: March 3, 2017**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -203,13 +203,17 @@ _No Liability._ GoDaddy will not be liable to you or any third party for any mod
 
 ****18**. FEES AND PAYMENTS**
 
-You acknowledge and agree that your Payment Method may be charged by one of our affiliated entities, Go Daddy Domains Canada, Inc., Go Daddy India Domains and Hosting Services Pvt Ltd, or Go Daddy Europe, Ltd. If, during your purchase, your payment was identified as being processed in the United States, your transaction will be processed by GoDaddy.com, LLC, 14455 N. Hayden Rd., Scottsdale, AZ 85260. if your payment was identified as being processed in Canada, your transaction will be processed by Go Daddy Domains Canada, Inc., 2900-550 Burrard Street, Vancouver, BC V6C 043. if your payment was identified as being processed in the United Kingdom, your transaction will be processed by Go Daddy Europe, Ltd., 5 New Street Square, London EC4A3TW. if your payment was identified as being processed in India, your transaction will be processed by Go Daddy India Domains and Hosting Services India Pvt Ltd, Flat 101, Sai Krishna Enclave, 6-1-132/99, Plot No. 99, Skanagiri, Padmaraonagar 50061. 
+You acknowledge and agree that your Payment Method may be charged by one of our affiliated entities, Go Daddy Domains Canada, Inc., Go Daddy India Domains and Hosting Services Pvt Ltd, or Go Daddy Europe, Ltd. If, during your purchase, your payment was identified as being processed in the United States, your transaction will be processed by GoDaddy.com, LLC, 14455 N. Hayden Rd., Scottsdale, AZ 85260. if your payment was identified as being processed in Canada, your transaction will be processed by Go Daddy Domains Canada, Inc., 2900-550 Burrard Street, Vancouver, BC V6C 043. if your payment was identified as being processed in the United Kingdom, your transaction will be processed by Go Daddy Europe, Ltd., 5 New Street Square, London EC4A3TW. if your payment was identified as being processed in India, your transaction will be processed by Go Daddy India Domains and Hosting Services India Pvt Ltd, Flat 101, Sai Krishna Enclave, 6-1-132/99, Plot No. 99, Skanagiri, Padmaraonagar 50061. If, during your purchase, your payment was identified as being processed in a country that is not listed above, your transaction may be processed by an entity within the disclosed country that is affiliated with our local payment service provider, and subject to the provisions of our Privacy Policy.
 
 **_(A) GENERAL TERMS, INCLUDING AUTOMATIC RENEWAL TERMS_**
 
 You agree to pay any and all prices and fees due for Services purchased or obtained at this Site at the time you order the Services.  All prices and fees are non-refundable unless otherwise expressly noted in the Refund Policy section below, even if your Services are suspended, terminated, or transferred prior to the end of the Services term.  GoDaddy expressly reserves the right to change or modify its prices and fees at any time, and such changes or modifications shall be posted online at this Site and effective immediately without need for further notice to you.  If you have purchased or obtained Services for a period of months or years, changes or modifications in prices and fees shall be effective when the Services in question come up for renewal as further described below. 
 
 Except as prohibited in any product-specific agreement, you may pay for Services by utilizing any of the following “Payment Methods”: (i) by providing a valid credit card, (ii) by using GoDaddy’s “Good As Gold Prepaid Services” (defined below). (iii) via an electronic check from your personal or business checking account, as appropriate (and as defined below). (iv) by using PayPal (as defined below), (v) by using an International Payment Option (as defined below) or (vi) via in-store credit balances, if applicable (and as defined below), each a “Payment Method”.  For Services that offer “Express Checkout”, clicking the Express Checkout button will automatically place an order for that Service and charge the primary Payment Method on file for your Account.  Confirmation of that order will be sent to the email address on file for your Account.  Your Payment Method on file must be kept valid if you have any active Services in your Account.
+
+In addition, you acknowledge and agree that the location for the processing of your payments may change based on the type of Payment Method chosen, any changes or updates made to your Payment Method, or based on the currency selected for the Payment Method.
+
+Other than as required by applicable law, GoDaddy does not retain hard copy or electronic versions of mandate, standing order or standing instruction forms and/or any signed consents relating to your usage of our automatic renewal services, and we are therefore unable to provide any such document upon request.  You may view or change your automatic renewal settings at any time by logging into your GoDaddy account.
 
 You acknowledge and agree that where refunds are issued to your Payment Method, GoDaddy's issuance of a refund receipt is only confirmation that GoDaddy has submitted your refund to the Payment Method charged at the time of the original sale, and that GoDaddy has absolutely no control over when the refund will be applied towards your Payment Method’s available balance.  You further acknowledge and agree that the payment provider and/or individual issuing bank associated with your Payment Method establish and regulate the time frames for posting your refund, and that such refund posting time frames may range from five (5) business days to a full billing cycle, or longer. 
 
@@ -827,5 +831,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 1/25/17  
+Revised: 3/3/17  
 Copyright © 2005-2017 GoDaddy.com, LLC All Rights Reserved.
