@@ -67,14 +67,15 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     See all
     
     *   Baby on the Way
-    *   Birth to 6 months
-    *   6-12 Months
-    *   12-24 Months
-    *   2-3 Years
+    *   Age Birth to 6 months
+    *   Age 6-12 Months
+    *   Age 12-24 Months
+    *   Age 2-3 Years
     
-    *   3-4 Years
-    *   4-5 Years
-    *   5+ YearsSee all
+    *   Age 3-4 Years
+    *   Age 4-5 Years
+    *   Age 5+ Years
+    *   Age 12-18 MonthsSee all
 *   AGE-BY-AGE PLAYTIME GUIDE AGE-BY-AGE PLAYTIME GUIDE
     
     *   1 Month
