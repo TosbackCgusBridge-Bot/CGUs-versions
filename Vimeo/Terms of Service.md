@@ -1,6 +1,6 @@
 Terms of Service
 
-Last Updated: July 13, 2016
+Last Updated: March 3, 2017
 
 \*\*PLEASE READ THIS DOCUMENT CAREFULLY. Vimeo, Inc. ("Vimeo," "we," or "us") offers an online video sharing platform and community through its website located at Vimeo.com and other Vimeo-operated sites (collectively, the "Vimeo Site"), mobile applications, connected TV applications, and other online services (collectively and including the Vimeo Site, the "Vimeo Service"). By registering as a member or by using the Vimeo Service in any way, you accept these Terms of Service ("Agreement"), which forms a binding agreement between you and Vimeo. If you do not wish to be bound by this Agreement, do not use the Vimeo Service. \*\*
 
@@ -37,7 +37,7 @@ Content
 
 **COMMERCIAL USE:** You may not use the Vimeo Service for commercial purposes unless:
 
-*   You are a Vimeo PRO user, in which case you may use and access the Vimeo Service for commercial and non-commercial purposes, subject to compliance with the Vimeo Guidelines. or
+*   You are a Vimeo PRO or Vimeo Business user, in which case you may use and access the Vimeo Service for commercial and non-commercial purposes, subject to compliance with the Vimeo Guidelines. or
 *   You are a small-scale independent production company, non-profit, or artist, in which case you may use the Vimeo Service to showcase or promote your own creative works.
 
 If you sell Vimeo-hosted videos directly to users other than through Vimeo On Demand, such usage will be deemed an "Application" under our API Terms (whether you use our API or not) and will be subject to our API Terms.
@@ -66,13 +66,13 @@ Your privacy rights are set forth in our Privacy Policy, which forms a part of t
 
 5\. Subscriptions and Purchases
 
-**VIMEO PLUS AND PRO:** In addition to offering Basic (free) Vimeo memberships, we offer Vimeo Plus and Vimeo PRO subscriptions. Please see our subscription pages for current Plus and PRO features and pricing. Features and prices are subject to change. Storage limits are calculated based upon source files. We reserve the right to charge for excessive use of bandwidth where plays occur on third-party sites and applications outside the native Vimeo player or apps. Vimeo PRO users who wish to obtain additional storage capacity, or additional bandwidth for applications not using the Vimeo player may request a custom account by contacting us here: vimeo.com/help/contact. Additional terms and conditions (to be shown prior to purchase) apply to custom accounts. All fees may be subject to taxes.
+**VIMEO PLUS, PRO AND BUSINESS:** In addition to offering Basic (free) Vimeo memberships, we offer Vimeo Plus, PRO, and Vimeo Business subscriptions. Please see our subscription pages for current Plus, PRO, and Business features and pricing. Features and prices are subject to change. Storage limits are calculated based upon source files. We reserve the right to charge for excessive use of bandwidth where plays occur on third-party sites and applications outside the native Vimeo player or apps. Anyone who wishes to obtain storage capacity beyond what is offered with the Vimeo Business subscription, or additional bandwidth for applications not using the Vimeo player may request a custom account by contacting us here: vimeo.com/help/contact. Additional terms and conditions (to be shown prior to purchase) apply to custom accounts. All fees may be subject to taxes.
 
 **CANCELATION AND REFUNDS:** Users who purchase annual subscriptions have thirty (30) days after their purchase to cancel and receive a full refund. Users who purchase monthly subscriptions have five (5) days after purchase to cancel and receive a full refund. After the cancelation period ends, all purchases are final and all fees paid are non-refundable, even if your account is later terminated by Vimeo. If your account is terminated due to your breach of this Agreement during the relevant cancelation period, you will not be refunded. If you have questions, please contact us.
 
-**RENEWALS:** Subject to the terms hereof, you may choose to renew your subscription at the end of the subscription period. By default, all subscriptions are set to automatically renew for the same period of time as the original subscription. You may decline to renew at any time prior to the commencement of a renewal subscription. Vimeo reserves the right to deny subscriptions, renewals, and other purchases for any reason. PRO subscriptions offered beginning on October 15, 2013 may not be available to existing users whose storage as of that date exceeds the yearly maximum for a PRO account. Unused storage, plays, and other limits do not roll over to subsequent subscription periods.
+**RENEWALS:** Subject to the terms hereof, you may choose to renew your subscription at the end of the subscription period. By default, all subscriptions are set to automatically renew for the same period of time as the original subscription. You may decline to renew at any time prior to the commencement of a renewal subscription. Vimeo reserves the right to deny subscriptions, renewals, and other purchases for any reason. Unused storage, plays, and other limits do not roll over to subsequent subscription periods.
 
-**END OF SUBSCRIPTION:** When a Vimeo Plus or PRO subscription ends, the account automatically becomes a Basic (free) account and Vimeo may disable access to or delete any content to comply with Basic account limits. When a custom or PRO Unlimited subscription ends, the account and its content may be deleted if the subscription is not renewed.
+**END OF SUBSCRIPTION:** When a Vimeo Plus, PRO, or Business subscription ends, the account automatically becomes a Basic (free) account and Vimeo may disable access to or delete any content to comply with Basic account limits. If you're using Vimeo for commercial purposes, you will need to maintain a Vimeo PRO, Business, or custom plan to continue hosting your videos. Your account and its content may be deleted if your subscription is not renewed.
 
 **OTHER PURCHASES:** Purchases of other products and services through the Vimeo Service are subject to our **Payment Addendum** and to other terms and conditions that are presented to you at the time of purchase.
 
