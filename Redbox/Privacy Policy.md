@@ -28,7 +28,7 @@ Please review this Privacy Policy carefully. In addition, please review the **T
 *   HOW WE RESPOND TO “DO NOT TRACK” SIGNALS
 *   CHANGING YOUR INFORMATION
 *   YOUR CHOICES
-*   Marketing Emails and Mobile Messages
+*   MARKETING EMAILS AND MOBILE MESSAGES
 *   YOUR CALIFORNIA PRIVACY RIGHTS
 *   THIRD PARTY CONTENT, SITES &. DEVICES
 *   SECURITY
