@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Cloud Chatter: February 2017 ›
 *   Mobile World Congress 2017, Day Four Recap ›
 *   A couple of new snap tutorials are now available ›
 *   Bare Metal Server Provisioning Series: the Economics of Automation ›
 *   Mobile World Congress 2017, Day 3 Recap ›
-*   DevOps for NetOps ›
