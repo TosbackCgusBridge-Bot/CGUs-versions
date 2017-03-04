@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true C15798121319
+true true L15807870416
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Thu Mar 02 11:15:29 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.2.0.0.52.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1l2j2 TIME :->. Fri Mar 03 11:15:31 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.2.0.0.52.0
 
 *   for the home
 *   bed &. bath
@@ -56,23 +56,23 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Disney Beauty and the Beast In Theaters March 17 Shop Beauty and the Beast Watch The Trailer Red Zone Clearance! Up to 80% Off Final Markdowns
+Power Penney Days Sale
 
-In Store Only
+In Store &. Online | Through March 15
 
-Find a StorePlus! New Markdowns 60-70% Off
+Shop Now: View Store Ad:JCPenney Rewards Rewards Members, Get 2X the Points\*
 
-Online Only
+Some exclusions and restrictions apply.
 
-Shop Now Shop Women Shop Men Shop Kids Shop Shoes Shop Handbags Shop Jewelry Shop Window Shop Home 2017 Prom 40% Off Prom Dresses
+\*Get Details: Home Expressions 100% Cotton OmbrÃ© Stripe or Solid Bath Towel, select styles, reg. $10
 
-Select styles, reg. $60-$275
+Boys' and Girls' City Streets Shirts, select styles
 
-Shop Prom Dresses Shop Plus-Size Prom Dresses  40 to 50% Off\* Guys' Suit Separates &. Tuxedos
+Shop Girls Tees   Shop Boys Shirts   Mixit Flip Flops, select styles, reg. $10
 
-Select styles, reg. $70-$200
+Guys' and Juniors' Graphic Tees, select styles, orig. $20
 
-Shop Guys Prom   New! Online Exclusives Great Values On More Of Your Favorites Shop Sporting Goods Shop Camping &. Outdoor Shop Bikes &. Skates Shop Home Improvement Shop Toys &. Games Shop Backyard Play \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Mar 02 11:46:46 CST 2017 JVM :->. dtexppr1c2j1\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Mar 02 22:48:08 CST 2017 JVM :->. dtexppr1c2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Guys Graphic Tees   Shop Juniors Graphic Tees   Arizona Swim Separates, select styles, reg. $32 ea. \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Mar 03 04:48:17 CST 2017 JVM :->. dtexppr1l2j3\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Mar 03 04:48:36 CST 2017 JVM :->. dtexppr1l2j4\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
