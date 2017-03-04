@@ -98,7 +98,7 @@ menu 0
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
     *   How to Dress this Spring
-    *   Wear To Work
+    *   Swim Shop
     *   Occasion Dressing
     *   Sale
     
@@ -109,7 +109,7 @@ menu 0
     *   Big &. Tall
     
     CATEGORIES
-    *   Coats
+    *   Swimwear
     *   Dress Shirts
     *   Casual Shirts
     *   Polo Shirts
@@ -120,7 +120,7 @@ menu 0
     *   Pants
     *   Jeans
     *   Shorts
-    *   Swimwear
+    *   Coats
     *   Activewear
     *   Accessories
     *   Sleepwear
@@ -205,6 +205,7 @@ menu 0
     *   Boys
     
     FEATURED SHOPS
+    *   Sea &. Sky Collection
     *   Swim Tees &. Rash Guards
     *   Water Shoes &. Sandals
     *   Totes &. Beach Bags
@@ -250,7 +251,7 @@ menu 0
     
     FEATURED SHOPS
     *   New Arrivals
-    *   Snow Boots
+    *   Sandals For The Family
     *   Sock Shop
     *   Water Shoes &. Sandals
     *   Accessories &. Bags
@@ -287,6 +288,7 @@ menu 0
     
     *   Best-in-Class Polos
     *   Iron Knee Pants
+    *   Best Dressed
     *   Spiritwear
     *   After School
     *   Sale
@@ -448,7 +450,7 @@ menu 0
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
     *   How to Dress this Spring
-    *   Wear To Work
+    *   Swim Shop
     *   Occasion Dressing
     *   Sale
     
@@ -459,7 +461,7 @@ menu 0
     *   Big &. Tall
     
     CATEGORIES Back | CATEGORIES
-    *   Coats
+    *   Swimwear
     *   Dress Shirts
     *   Casual Shirts
     *   Polo Shirts
@@ -470,7 +472,7 @@ menu 0
     *   Pants
     *   Jeans
     *   Shorts
-    *   Swimwear
+    *   Coats
     *   Activewear
     *   Accessories
     *   Sleepwear
@@ -555,6 +557,7 @@ menu 0
     *   Boys
     
     FEATURED SHOPS Back | Swim
+    *   Sea &. Sky Collection
     *   Swim Tees &. Rash Guards
     *   Water Shoes &. Sandals
     *   Totes &. Beach Bags
@@ -600,7 +603,7 @@ menu 0
     
     FEATURED SHOPS Back | Shoes
     *   New Arrivals
-    *   Snow Boots
+    *   Sandals For The Family
     *   Sock Shop
     *   Water Shoes &. Sandals
     *   Accessories &. Bags
@@ -636,6 +639,7 @@ menu 0
     
     *   Best-in-Class Polos
     *   Iron Knee Pants
+    *   Best Dressed
     *   Spiritwear
     *   After School
     *   Sale
