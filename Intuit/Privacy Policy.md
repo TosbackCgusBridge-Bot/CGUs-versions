@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true C15798868559
+true true L15809439916
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p10.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Sat Mar 04 11:15:33 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.2.0.0.52.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p13.jcpenney.com SERVER NAME :->. dtcomexpr1l1j3 TIME :->. Sun Mar 05 11:15:29 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.2.0.0.52.0
 
 *   for the home
 *   bed &. bath
@@ -58,21 +58,17 @@ false
 
 Power Penney Days Sale
 
-In Store &. Online | Through March 15
+Last Day! | Ends March 5
 
-Shop Now: View Store Ad:JCPenney Rewards Rewards Members, Get 2X the Points\*
+Shop Now: View Store Ad: $3 Home Expressions 100% Cotton Solid or OmbrÃ© Stripe Bath Towel, select styles, reg. $10
 
-Some exclusions and restrictions apply.
+$5 Boys' and Girls' City Streets Shirts, select styles
 
-\*Get Details: Home Expressions 100% Cotton OmbrÃ© Stripe or Solid Bath Towel, select styles, reg. $10
+Shop Girls Tops   Shop Boys Shirts   $7 Mixit Flip Flops, select styles, reg. $10
 
-Boys' and Girls' City Streets Shirts, select styles
+$9 Guys' and Juniors' Graphic Tees, select styles, orig. $20
 
-Shop Girls Tees   Shop Boys Shirts   Mixit Flip Flops, select styles, reg. $10
-
-Guys' and Juniors' Graphic Tees, select styles, orig. $20
-
-Shop Guys Graphic Tees   Shop Juniors Graphic Tees   Arizona Swim Separates, select styles, reg. $32 ea. \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Mar 04 11:23:04 CST 2017 JVM :->. dtexppr1c2j3\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Mar 04 11:23:04 CST 2017 JVM :->. dtexppr1c2j1\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Guys Graphic Tees   Shop Juniors Graphic Tees   $15 Arizona Swim Separates, select styles, reg. $32 ea. \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Mar 05 22:01:04 CST 2017 JVM :->. dtexppr1l1j4\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Mar 05 22:00:16 CST 2017 JVM :->. dtexppr1l1j6\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
