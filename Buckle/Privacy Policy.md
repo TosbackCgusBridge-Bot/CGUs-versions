@@ -72,7 +72,7 @@
         *   Hats
         *   Dresses
         *   Fragrance
-        *   Socks
+        *   Swimwear
         *   Shop All
         
           
@@ -188,8 +188,10 @@
     *   *   Featured New
         
         *   Men's Easy Care Shirts
-        *   Latest Gimmicks Collection!
+        *   Check Out Gimmicks
         *   New buckle SELECT Stylists
+        *   Levi's are Here!
+        *   It's in the Hem Details
         
         *   Women's New
         
