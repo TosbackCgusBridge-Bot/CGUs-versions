@@ -41,6 +41,7 @@ Show Search Bar
     *   RiskSec NY 2017
     *   RiskSec Toronto 2017
     *   SC Awards 2017
+    *   RiskSec Press Release
 *   Whitepapers
 
 *   Log in
