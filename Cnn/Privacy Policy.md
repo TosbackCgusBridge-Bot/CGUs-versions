@@ -1,4 +1,4 @@
-Breaking News Home+ RegionsU.S. PoliticsMoneyEntertainmentTechSportTravelStyleHealthVideo Live TV Search » International Edition+ U.S. International Arabic Español
+Breaking News Home+ RegionsU.S. PoliticsMoneyEntertainmentTechSportTravelStyleHealthVideoVR Live TV Search » International Edition+ U.S. International Arabic Español
 
 Set edition preference:
 
@@ -95,6 +95,9 @@ Video
 *   TV shows
 *   TV schedule
 *   Faces of CNN Worldwide
+
+*   How To Watch VR
+*   Archives
 
 More…
 
@@ -228,6 +231,9 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
     4.  TV shows
     5.  TV schedule
     6.  Faces of CNN Worldwide
+
+1.  1.  How To Watch VR
+    2.  Archives
 
 1.  More…
     1.  Weather
