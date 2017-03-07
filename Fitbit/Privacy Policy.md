@@ -1,45 +1,42 @@
 Fitbit
 
 *   Products
-    *   **Everyday  
-        Fitness**
+    *   Fitness Wristbands  
+        and Clips
         *   Fitbit Zip®
         *   Fitbit One®
         *   Fitbit Flex 2™
         *   Fitbit Alta™
-    *   **Active  
-        Fitness**
+    *   Heart Rate +  
+        Fitness Wristbands
+        *   Fitbit Alta HR™ New
         *   Fitbit Charge 2™
+    *   Smart Fitness  
+        Watches
         *   Fitbit Blaze™
-    *   **Performance  
-        Fitness**
         *   Fitbit Surge™
-    *   **Wi-Fi  
-        Smart Scale**
+    *   Smart Scale
         *   Fitbit® Aria®
     *   *   **FITBIT ACCESSORIES**
         *   Designer Collections
     Not sure which product is right for you? FIND YOUR FIT
-*   Why Fitbit
-    *   Why Fitbit
-    *   What's New
-    *   Our Technology
-    *   FitScience
-    *   About Us
-*   Get Motivated
+*   Experiences
+    *   Mobile App + Dashboard
+    *   Premium Membership
     *   Fitstar
-    *   Events
-    *   Blog
-    *   FitForGood
-    *   Fitbit Premium
-*   App &. Dashboard
-    *   App Tour
-    *   Fitbit Challenges
     *   Compatible Apps
+    *   PurePulse
+    *   Why Fitbit
+*   Fun
+    *   Celebrity Challenges
+    *   Fit Science
+    *   Blog
+    *   Buzz
+    *   FitForGood
+    *   Fitbit Local
 *   Help
     *   Product Help
-    *   Forums
-    *   Wear &. Care
+    *   Wear and Care
     *   How-To Videos
 
 *   *   Your cart is currently empty. Let's shop
