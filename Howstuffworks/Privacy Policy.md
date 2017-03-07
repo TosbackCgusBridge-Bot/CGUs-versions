@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**White Rhinos Communicate via Massive Communal Poop Piles**
+**Matrilineal Dynasty Unearthed in Ancient Pueblo Community**
 
-**Why Many Clinical Trials Attract So Few Participants and How That Hurts Us All**
+**A Dose of Nature Could Improve Mental Health for City Dwellers**
 
-**Odd, Outstanding &. Outrageous: Our Best Stories You Might Have Missed This Week**
+**Robot Pingpong Coach Helps Players Up Their Table Tennis Game**
 
 **See More Headlines »**
 
