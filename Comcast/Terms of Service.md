@@ -6,7 +6,7 @@ All residential XFINITY Internet customers (the “customer,” “user,” “y
 
 Does this Policy apply to my use of XFINITY WiFi-identified services inside and outside of my premises and in public places?
 
-This Policy applies to your use of the Service if you are a residential XFINITY Internet customer who accesses Comcast-provided, XFINITY WiFi-identified services inside or outside of your premises or in public places using an XFINITY Internet login and password. You can learn more about Comcast-provided XFINITY WiFi services by going to the portal at www.comcast.com/wifi/default.htm. In the event certain provisions of this Policy may not apply to all uses of XFINITY WiFi-identified services, we explain those exceptions in the FAQs at www.comcast.com/wifi/faqs.htm.
+This Policy applies to your use of the Service if you are a residential XFINITY Internet customer who accesses Comcast-provided, XFINITY WiFi-identified services inside or outside of your premises or in public places using an XFINITY Internet login and password. You can learn more about Comcast-provided XFINITY WiFi services by going to the portal at wifi.xfinity.com.com/wifi/default.htm. In the event certain provisions of this Policy may not apply to all uses of XFINITY WiFi-identified services, we explain those exceptions in the FAQs at http://wifi.xfinity.com/faq.php.
 
 How will I know when Comcast changes this Policy and how do I report violations of it?
 
@@ -75,7 +75,7 @@ with one another, to:
 II. Customer Conduct and Features of the Service  
 What obligations do I have under this Policy?
 
-You are responsible for your own compliance with this Policy. You are also responsible for any use or misuse of the Service that violates this Policy by anyone else you permit to access the Service (such as a friend, family member, or guest) with one exception: In cases where you permit others to access your Comcast-provided, XFINITY WiFi-identified Internet Service with their own login information, those users are responsible for complying with all then-current terms and policies that apply to their access. You can learn more about Comcast-provided WiFi access at www.comcast.com/wifi/default.htm.
+You are responsible for your own compliance with this Policy. You are also responsible for any use or misuse of the Service that violates this Policy by anyone else you permit to access the Service (such as a friend, family member, or guest) with one exception: In cases where you permit others to access your Comcast-provided, XFINITY WiFi-identified Internet Service with their own login information, those users are responsible for complying with all then-current terms and policies that apply to their access. You can learn more about Comcast-provided WiFi access at wifi.xfinity.com/wifi/default.htm.
 
 Comcast recommends against enabling file or printer sharing unless you do so in strict compliance with all security recommendations and features provided by Comcast and the manufacturer of the applicable file or printer sharing devices. Any files or devices you choose to make available for shared access on a home LAN, for example, should be protected with a strong password or as otherwise appropriate.
 
@@ -129,13 +129,7 @@ Comcast reserves the right to investigate suspected violations of this Policy, i
 VI. Copyright  
 How does Comcast communicate with customers about copyright?
 
-Comcast is committed to complying with U.S. copyright and related laws, and requires all customers and users of the Service to comply with these laws. Accordingly, you may not store any material or content on, or access, share or disseminate any material or content over, the Service (or any part of the Service) in any manner that constitutes an infringement of third party intellectual property rights, including rights granted by U.S. copyright law. Comcast provides two independent methods for copyright owners to communicate information about alleged infringements to us, and for us to inform our customers about them: as described below, Comcast participates in the Copyright Alerts System, and also complies with the Digital Millennium Copyright Act. You may receive alerts under either or both of these methods if your Service account is identified by a copyright owner as having been used in connection with acts of alleged copyright infringement.
-
-What is the Copyright Alerts System?
-
-The Copyright Alerts System is part of an Internet service provider and content industry initiative to help make people aware of appropriate ways to access and share content online, in particular over peer-to-peer file sharing programs. Copyright owners routinely participate in online peer-to-peer file sharing programs to see if their content is being improperly used or shared. If the copyright owner believes its content was uploaded or downloaded improperly, it can record the Internet Protocol or IP address that was used to access the content over these services. The IP address identifies the Internet service provider who uses the address for its customers. it does not identify an individual person. The copyright owner will then send a notice to the Internet service provider that contains the IP address along with other information such as the date and time of the event, the name of the file sharing program, and an identification of the content. The Internet service provider will then identify the account holder using that IP address in conjunction with the other information and send an alert to that customer. In Comcast’s case, we send the alert in two forms: an in-browser notice and an email to the primary account holder of the Service.
-
-Comcast prefers to inform customers of inappropriate activities involving their Service and give them a reasonable period of time in which to take corrective action. Regardless of how many notices Comcast receives from copyright owners under the Copyright Alerts System, Service customers should not receive more than one alert in any seven day period. To learn more about how Comcast supports the Copyright Alerts System, including your options as a Service account owner and user, go to http://www.xfinity.com/copyrightalerts.
+Comcast is committed to complying with U.S. copyright and related laws, and requires all customers and users of the Service to comply with these laws. Accordingly, you may not store any material or content on, or access, share or disseminate any material or content over, the Service (or any part of the Service) in any manner that constitutes an infringement of third party intellectual property rights, including rights granted by U.S. copyright law. Comcast complies with the Digital Millennium Copyright Act and provides a method for copyright owners to communicate information about alleged infringements to us, and for us to inform our customers about them. You may receive notices or alerts if your Service account is identified by a copyright owner as having been used in connection with acts of alleged copyright infringement.
 
 What is Comcast's DMCA policy?
 
@@ -145,7 +139,7 @@ How do copyright owners report alleged infringements to Comcast under the DMCA?
 
 Copyright owners may report alleged infringements of their works by sending Comcast's authorized agent a notification of claimed infringement that satisfies the requirements of the DMCA. Upon Comcast's receipt of a satisfactory notice of claimed infringement for these works, Comcast will respond expeditiously to either directly or indirectly (i) remove the allegedly infringing work(s), if applicable or (ii) disable access to the work(s). Comcast will also notify the affected customer or user of the Service of the removal or disabling of access to the work(s).
 
-Copyright owners may send Comcast a notification of claimed infringement to report alleged infringements of their works under the DMCA (but not the Copyright Alerts System) to:
+Copyright owners may send Comcast a notification of claimed infringement to report alleged infringements of their works under the DMCA to:
 
 M. Moleski/DMCA Notifications  
 Comcast Cable Communications, LLC  
@@ -163,6 +157,6 @@ If you receive a DMCA notification of alleged infringement as described above, a
 
 If a notification of claimed infringement has been filed against you, you can file a counter notification with Comcast's designated agent using the contact information shown above. All counter notifications must satisfy the requirements of Section 512(g)(3) of the U.S. Copyright Act.
 
-Revised and effective: November 1, 2016
+Revised and effective: March 1, 2017
 
 <. Back
