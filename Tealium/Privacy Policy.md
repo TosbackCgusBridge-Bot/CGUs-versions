@@ -7,7 +7,6 @@
     *   Case Studies
     *   Whitepapers
     *   Videos
-    *   Webinars
     *   Solution Briefs
     *   Datasheets
     *   ROI Calculator
