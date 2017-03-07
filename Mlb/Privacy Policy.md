@@ -4,6 +4,7 @@ Sections Scores WBC 2017 News Video Stats Standings Schedule Players Tickets App
 
 *   Scores
 *   WBC 2017 WBC 2017 World Baseball Classic
+    *   Scores
     *   Schedule &. Tickets
     *   News
     *   Video
