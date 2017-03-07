@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Sanctuaries Oceans &. Coasts Invasive Species Week: Chat live on reddit with scientists about the lionfish invasion Research Oceans &. Coasts NOAA ship journeys into remote, deep Pacific ocean National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Satellites Flashy first images arrive from NOAA’s GOES-16 lightning mapper Research Oceans &. Coasts NOAA ship journeys into remote, deep Pacific ocean National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Sanctua
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms January was 3rd warmest on record for the globe Sea ice extents in Arctic, Antarctic hit record lows AROUND NOAA // Invasive Species Week: Chat live on reddit with scientists about the lionfish invasion Snowpack + snowmelt = water Unprecedented Arctic weather has scientists on edge
+Enter Search Terms Flashy first images arrive from NOAA’s GOES-16 lightning mapper Satellite instrument will help forecasters pinpoint severe storms sooner AROUND NOAA // Rural West sees more smog. now scientists may know why January was 3rd warmest on record for the globe Snowpack + snowmelt = water
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock image
+NOAA
