@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true L15809439916
+true true L15812800224
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p13.jcpenney.com SERVER NAME :->. dtcomexpr1l1j3 TIME :->. Sun Mar 05 11:15:29 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.2.0.0.52.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Mon Mar 06 11:15:31 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.2.0.0.52.0
 
 *   for the home
 *   bed &. bath
@@ -56,19 +56,41 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 false
 
-Power Penney Days Sale
+Now Trending: Blush Shop The Trend24.99 Worthington Flounce Skirt
 
-Last Day! | Ends March 5
+Select styles, orig. $44
 
-Shop Now: View Store Ad: $3 Home Expressions 100% Cotton Solid or OmbrÃ© Stripe Bath Towel, select styles, reg. $10
+Shop Worthington Flounce Skirt  24.99 Plus-Size Worthington Lace Top
 
-$5 Boys' and Girls' City Streets Shirts, select styles
+Select styles, orig. $44
 
-Shop Girls Tops   Shop Boys Shirts   $7 Mixit Flip Flops, select styles, reg. $10
+Shop Plus-Size Worthington Lace Top  34.99 Women's Dress Shoes
 
-$9 Guys' and Juniors' Graphic Tees, select styles, orig. $20
+Select styles, reg. $55
 
-Shop Guys Graphic Tees   Shop Juniors Graphic Tees   $15 Arizona Swim Separates, select styles, reg. $32 ea. \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Mar 05 22:01:04 CST 2017 JVM :->. dtexppr1l1j4\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Mar 05 22:00:16 CST 2017 JVM :->. dtexppr1l1j6\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Women's Dress Shoes Xersion Men's Xersion Apparel - Buy 1 Get 1 50% Off\*
+
+Select styles, reg. $14-$40
+
+\*Buy one item at regular price, get the second item of equal or lesser value for 50% off, while supplies last. Athletic shoes excluded from coupon.
+
+Shop Men's Xersion Apparel40% Off Women's Xersion Apparel
+
+Select styles, reg. $18-$50
+
+Shop Women's Xersion Apparel Shop Kids' Xersion Apparel 2017 Prom 40% Off Prom Dresses
+
+Select styles, reg. $60-$275
+
+Shop Prom Dresses Shop Plus-Size Prom Dresses40-50% Off Guys' Suit Separates &. Tuxedos
+
+Select styles, reg. $70-$200
+
+Shop Guys' Suit Separates &. Tuxedos   Disney Beauty and the Beast In Theatres March 17
+
+©Disney. Disney excluded from coupon.
+
+Shop Beauty &. The Beast Watch the Trailer \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Mar 06 16:13:41 CST 2017 JVM :->. dtexppr1l2j3\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Mar 06 03:28:35 CST 2017 JVM :->. dtexppr1l2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
