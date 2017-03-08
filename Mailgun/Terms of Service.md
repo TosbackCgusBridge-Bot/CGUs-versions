@@ -131,8 +131,7 @@ The following additional terms and conditions ("Terms of Service") apply to the 
 **12 NOTICES.** Your routine communications to Mailgun regarding the Services should be sent to your account team using the customer portal. To give a notice regarding termination of the Agreement for breach, indemnification, or other legal matter, you must send it by electronic mail and first-class post to:
 
 Mailgun Technologies, Inc.  
-c/o Turn/River Capital  
-535 Mission Street, 14th Floor  
+535 Mission Street  
 San Francisco, CA 94105  
 
 Mailgun's routine communications regarding the Services and legal notices will be posted on the customer portal or sent by email or post to the individual(s) you designate as your contact(s) on your account. Notices are deemed received as of the time posted or delivered, or if that time does not fall within a Business Day, as of the beginning of the first Business Day following the time posted or delivered. For purposes of counting days for notice periods, the Business Day on which the notice is deemed received counts as the first day. Notices must be given in the English language.
