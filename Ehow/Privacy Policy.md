@@ -5,16 +5,16 @@ Leaf Group Privacy Policy
 
 Last Updated: November 9, 2016
 
-By using this online website, mobile website, application, digital service, or any products, services, sites, features or functionality associated with Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Online, Inc. (each a "Service:, collectively the "Services"), you consent to the collection, use, processing, and sharing of your information as described in this Leaf Group Privacy Policy ("Privacy Policy"). This Privacy Policy describes how information is collected from you when you use any of the Services and how Leaf Group Ltd. ("Leaf Group," "we," "us," or "our") uses, shares and manages this information.
+By using this online website, mobile website, application, digital service, or any products, services, sites, features or functionality associated with Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Online, Inc. (each a "Service", collectively the "Services"), you consent to the collection, use, processing, and sharing of your information as described in this Leaf Group Privacy Policy ("Privacy Policy"). This Privacy Policy describes how information is collected from you when you use any of the Services and how Leaf Group Ltd. ("Leaf Group," "we," "us," or "our") uses, shares and manages this information.
 
-Leaf Group Ltd. is subject to the investigative and enforcement authority of the US Federal Trade Commission ("FTC").
+Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Online, Inc. are subject to the investigative and enforcement authority of the US Federal Trade Commission ("FTC").
 
 I. Data Collection and Use.
 
 A. Information You Directly and Voluntarily Provide to Us. We may collect and store some or all of the following information you make available to us:
 
 *   If you download, register for or use the Service, we may ask you to provide your name, mailing address, email address, telephone number, image, interests, demographic profile, credit card information, user name, password and other registration information. You may be required to register with us and provide us with the information we request from you in order to use the Service or to use some or all of the features offered by the Service. We may also offer you the option to complete a user profile that may be visible to other users of the Service. If a user profile feature is offered through the Service, you may be able to adjust the settings in your user account to specify the information in your user profile that will be shared publicly, that will only be shared with your friends, or that will remain private. If you are a registered user you may also be able to adjust your account settings through your user account. We note that, even if you adjust your settings so that your user profile is only shared with your friends or remains private, we will still be able to access and view the information you provide as part of your user profile.
-*   Information you provide when you contact us for technical or customer support or with questions about your use of the Service
+*   Information you provide when you contact us for technical or customer support or with questions about your use of the Service.
 
 B. Information Automatically Collected from You. In addition to the information you provide to us, the Service may collect and store additional information automatically, this information may include:
 
