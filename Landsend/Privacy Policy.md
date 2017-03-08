@@ -53,7 +53,7 @@ menu 0
     *   The Starfish Collection
     *   Supima® Cotton Collection
     *   Tunic Shop
-    *   Cardigan Shop
+    *   5 Must Have Dresses
     *   The Edit
     *   Sale
     
@@ -405,7 +405,7 @@ menu 0
     *   The Starfish Collection
     *   Supima® Cotton Collection
     *   Tunic Shop
-    *   Cardigan Shop
+    *   5 Must Have Dresses
     *   The Edit
     *   Sale
     
