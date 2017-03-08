@@ -111,7 +111,6 @@ Mailgun complies with the U.S. – Swiss Safe Harbor Framework as set forth by t
 European Union or Swiss citizens with inquiries or complaints regarding this Policy should first contact Mailgun at:
 
 **Mailgun Technologies, Inc.**  
-c/o Turn River Capital  
 535 Mission St.  
 San Francisco, CA 94105  
 by email: privacy@mailgun.com
@@ -137,7 +136,6 @@ We will retain personal data we process on behalf of our Clients for as long as 
 If you have questions about this Policy, or if you’re concerned that we are using your information improperly, please contact us by mail:
 
 **Mailgun Technologies, Inc.**  
-c/o Turn River Capital  
 535 Mission St.  
 San Francisco, CA 94105  
 by email: privacy@mailgun.com Your app with email in minutes
