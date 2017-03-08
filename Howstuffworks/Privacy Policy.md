@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Matrilineal Dynasty Unearthed in Ancient Pueblo Community**
+**You Really Can Look Like Your Name, Research Says**
 
-**A Dose of Nature Could Improve Mental Health for City Dwellers**
+**Ancient Kite Fishing Technique Makes Its Way Into Modern Waters**
 
-**Robot Pingpong Coach Helps Players Up Their Table Tennis Game**
+**Far More Plants Get Consumed Thanks to Meat Eaters, Not Vegetarians**
 
 **See More Headlines »**
 
