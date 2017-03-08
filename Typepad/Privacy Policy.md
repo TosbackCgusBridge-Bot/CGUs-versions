@@ -160,9 +160,9 @@
 
 10.2 If Typepad learns of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using Typepad's Sites, Services and Software or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy and administrative issues relating to your use of those Sites, Services and Software. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at:
 
-Typepad, Inc.  
-180 Townsend Street  
-San Francisco, CA 94107  
+Typepad  
+10 Corporate Dr  
+Burlington, MA 01803  
 Attention: Legal Department
 
 11\. Changing your Account Information and Personal Information
