@@ -69,7 +69,7 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   Baby on the Way
     *   Age Birth to 6 months
     *   Age 6-12 Months
-    *   Age 12-24 Months
+    *   Age 18-24 Months
     *   Age 2-3 Years
     
     *   Age 3-4 Years
