@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Satellites Flashy first images arrive from NOAA’s GOES-16 lightning mapper Research Oceans &. Coasts NOAA ship journeys into remote, deep Pacific ocean National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Research Watch live: NOAA's Okeanos Explorer expedition to remote Pacific marine protected areas Weather Satellites Flashy first images arrive from NOAA’s GOES-16 lightning mapper National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Flashy first images arrive from NOAA’s GOES-16 lightning mapper Satellite instrument will help forecasters pinpoint severe storms sooner AROUND NOAA // Rural West sees more smog. now scientists may know why January was 3rd warmest on record for the globe Snowpack + snowmelt = water
+Enter Search Terms Flashy first images arrive from NOAA’s GOES-16 lightning mapper Satellite instrument will help forecasters pinpoint severe storms sooner AROUND NOAA // Watch live: NOAA's Okeanos Explorer expedition to remote Pacific marine protected areas Rural West sees more smog. now scientists may know why January was 3rd warmest on record for the globe
 
 *   About our agency
 *   News and features
