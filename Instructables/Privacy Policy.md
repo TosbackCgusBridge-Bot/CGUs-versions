@@ -235,63 +235,51 @@ Follow Autodesk
 
 *   Facebook
 *   Twitter
-*   YouTube
 *   LinkedIn
 
-*   All social
+*   All social media
 
 Products
 
 *   Free product trials
 *   3D CAD software
 *   3D printing
-*   Construction software
-*   Drafting software
-*   Painting software
-*   Student downloads
-
-*   Design engineering
 *   Civil engineering
-*   PLM
-
-*   Character animation
-*   Movie editing
-*   Visual effects
+*   Construction
+*   Drafting
+*   Manufacturing
+*   Sketching &. painting
+*   Student downloads
+*   Find by industry
 
 Support &. Learning
 
 *   Product support
-*   Learning &. productivity
-*   Installation, registration &. activation
+*   Installation, registration &. licensing
+*   Classes on demand
+*   Events
+*   Updates &. service packs
 *   System requirements
-*   Downloads
-*   Account Management
-
-*   Community resources
-*   Consulting
+*   Help forums
 *   Training &. certification
 
 Buy
 
-*   Online store
+*   Autodesk store
 *   Find a reseller
-*   Subscription
+*   Subscriber benefits
 *   Support offerings
-*   Education licensing
-*   Promotions &. special offers
 
 About Autodesk
 
+_Autodesk is a leader in 3D design, engineering and entertainment software._
+
+*   About us
 *   Careers
 *   Contact us
-*   Gallery
 *   Investor relations
+*   Trust center
 *   Newsroom
-*   Trust Center
-
-*   Autodesk Foundation
-*   Autodesk Labs
-*   Autodesk Research
-*   Autodesk University
+*   Suppliers
 
 *   Privacy/Cookies  | About our Ads | Legal Notices &. Trademarks | Report Noncompliance | Site map | © 2017 Autodesk Inc. All rights reserved
