@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**You Really Can Look Like Your Name, Research Says**
+**Why We Use the Suffix '-Gate' for Scandals (And Can We Please Stop?)**
 
-**Ancient Kite Fishing Technique Makes Its Way Into Modern Waters**
+**Mars Has a Magnetosphere Problem. Inflatables Could Help**
 
-**Far More Plants Get Consumed Thanks to Meat Eaters, Not Vegetarians**
+**Who's in Charge of Investigating Deaths in Antarctica?**
 
 **See More Headlines »**
 
