@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true C15806257212
+true true C15810470203
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Tue Mar 07 11:14:58 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.2.0.0.52.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p05.jcpenney.com SERVER NAME :->. dtcomexpr1c1j4 TIME :->. Wed Mar 08 11:14:33 CST 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.2.0.0.52.0
 
 *   for the home
 *   bed &. bath
@@ -90,7 +90,7 @@ Shop Guys' Suit Separates &. Tuxedos   Disney Beauty and the Beast In Theatres 
 
 ©Disney. Disney excluded from coupon.
 
-Shop Beauty &. The Beast Watch the Trailer \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Mar 07 22:22:11 CST 2017 JVM :->. dtexppr1l2j1\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Mar 07 04:13:31 CST 2017 JVM :->. dtexppr1c1j6\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Beauty &. The Beast Watch the Trailer \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Mar 08 22:16:17 CST 2017 JVM :->. dtexppr1c2j4\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Mar 08 04:30:15 CST 2017 JVM :->. dtexppr1c2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
