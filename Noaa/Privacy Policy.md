@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Flashy first images arrive from NOAA’s GOES-16 lightning mapper Satellite instrument will help forecasters pinpoint severe storms sooner AROUND NOAA // Watch live: NOAA's Okeanos Explorer expedition to remote Pacific marine protected areas Rural West sees more smog. now scientists may know why January was 3rd warmest on record for the globe
+Enter Search Terms U.S. had 2nd warmest February and 6th warmest winter on record Unseasonable warmth spanned 39 states. Western drought improved AROUND NOAA // Flashy first images arrive from NOAA’s GOES-16 lightning mapper Watch live: NOAA's Okeanos Explorer expedition to remote Pacific marine protected areas Rural West sees more smog. now scientists may know why
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-NOAA
+iStock
