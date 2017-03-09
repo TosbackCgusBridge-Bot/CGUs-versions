@@ -106,6 +106,7 @@ Brand &. Lifestyle
 
 *   About
 *   Contact Us
+*   Accessibility
 *   Careers
 *   Request Brochure
 *   Newsletter Signup
