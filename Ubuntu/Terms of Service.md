@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   How to become a LimeSDR innovator? ›
 *   GPUs &. Kubernetes for Deep Learning — Part 2/3: Adding Storage ›
 *   Canonical at Google Next 2017 ›
 *   Run your own LXD demo server ›
 *   Cloud Chatter: February 2017 ›
-*   Mobile World Congress 2017, Day Four Recap ›
