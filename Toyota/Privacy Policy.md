@@ -66,7 +66,7 @@ View All Vehicles
 *   Contact A Dealer
 *   Find Your Match
 
-Contact Us Site Map Your Privacy Rights Legal Terms Contact Us Site Map Your Privacy Rights Legal Terms Need help? Have a question? Get instant answers 24/7.
+Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Need help? Have a question? Get instant answers 24/7.
 
 Whether you’re a Toyota owner or just have a question about our products, Toyota is committed to providing a rewarding customer experience. Select the most convenient way to reach us, and we look forward to assisting you.
 
@@ -321,6 +321,8 @@ Support
     
 *   Toyota Speak Up Line  
     
+*   Accessibility  
+    
 
 About Toyota
 
@@ -400,6 +402,10 @@ Buy Toyota
     
 *   **Local Specials**  
     
+
+Check out our ADA Compliance Statement
+
+Toyota is committed to accessibility, diversity, and inclusion for all of its guests. We believe everyone should be able to visit Toyota.com, use our mobile apps, and access our service easily. We welcome feedback. If you notice any content, feature or functionality of the Site that you believe is not fully accessible to people with disabilities, please contact us and provide a description of the specific feature you feel is not fully accessible or a suggestion for improvement. We take your input seriously and will consider all feedback received as we evaluate ways to accommodate our customers and continuously improve our overall accessibility polices.
 
 Your Privacy Rights **Personal Information Sharing Practices for 2016**  
 During 2016, Toyota shared personal information about our customers with specific third parties where the information was used for the recipient's own marketing.  
@@ -663,7 +669,7 @@ Toyota Motor Sales, U.S.A., Inc.
 P.O. Box 259001  
 Plano, TX 75025-9001
 
-Legal Terms _Last Updated Date: February 1, 2017_  
+Legal Terms _Last Updated Date: March 1, 2017_  
   
 
 These Terms of Use (the "Terms") set forth the legally binding terms governing your access to and use of the Toyota family of Web sites, Web pages, interactive features, applications, widgets, blogs and their respective contents and unless otherwise indicated, any other interactive content that links to the Toyota family of Web sites owned and/or operated by Toyota (as defined herein) (collectively, the "Sites"). The Sites are operated by Toyota Motor Sales, U.S.A., Inc. (hereinafter referred to as "Toyota"), and any materials on the Sites are owned by Toyota or its affiliated companies, or licensed by Toyota from third parties and posted on the Sites.
@@ -697,7 +703,7 @@ These Sites are for your personal, non-commercial use. Any other use of the Site
 12\. PRIVACY  
 13\. INDEMNITY AND HOLD HARMLESS  
 14\. DISCLAIMER OF WARRANTIES  
-15\. LIMITATION OF LIABILITIES AND RELEASE OF LIABILITY  
+15\. LIMITATION OF LIABILITIES  
 16\. NO OFFER TO SELL OR LEASE  
 17\. MISCELLANEOUS  
 18\. DISPUTES/ARBITRATION  
@@ -746,7 +752,7 @@ As a condition to accessing and using the Sites in accordance with the license g
 1.  You may not copy, download, distribute (including without limitation, forwarding to others), modify, publish, transmit, display, sell, license, use, reuse or create derivative works of any of the Content or other material displayed on the Sites, including without limitation, any trademark of Toyota or its affiliated companies, for any purpose whatsoever without our written consent and/or the consent of any third party we deem necessary;
 2.  You may not access or use any of the Sites in any way that could or is intended to damage or impair the operation of the Sites, or any Content of or material displayed on any of the Sites, or any server or network underlying the Sites, or in any way that interferes with anyone else's use and enjoyment of any of the Sites;
 3.  You may not frame or use framing techniques to enclose any part of the Sites without Toyota's prior written consent;
-4.  You may not access or use any of the Sites in any way that could or is intend to threaten, defame, abuse, assault, stalk, harass or otherwise violate the rights of any other person or entity, including without limitation, their rights of privacy or publicity;
+4.  You may not access or use any of the Sites in any way that could or is intended to threaten, defame, abuse, assault, stalk, harass or otherwise violate the rights of any other person or entity, including without limitation, their rights of privacy or publicity;
 5.  You may not "spam" others or "phish" for, collect or store personal information about others;
 6.  You may not access or attempt to access any data, information, system or servers on which the Sites are hosted or modify or alter the Sites in any way;
 7.  You may not transmit or broadcast any commercial messages, text, photographs, video or audio content to or through any of the Sites. and/or
@@ -808,7 +814,7 @@ Any Third-Party Site and Third-Party Applications, Software or Content using Con
 
 **8\. USER CONTENT AND CONDUCT**
 
-Where applicable on the Sites, you may be invited to post your own content ("User Content") understand that all User Content is your sole responsibility. Though the Sites are designed to be a safe place to share such User Content, we cannot guaranty that other users and Visitors will not misuse the User Content that you share. If you have any User Content that you would like to keep confidential and/or do not want others to use (including but not limited to, photos, images, videos, personal information, name, home address, telephone number, etc.), do not post it to the Sites. Under no circumstances will Toyota be liable in any way for any User Content, including, but not limited to, any errors or omissions in any User Content, or for any loss or damage of any kind incurred as a result of the use of any User Content posted, emailed or otherwise transmitted via the Sites. TOYOTA IS NOT RESPONSIBLE FOR A USER’S OR VISITOR’S MISUSE OR MISAPPROPRIATION OF ANY USER CONTENT YOU POST TO THE SITES.
+Where applicable on the Sites, you may be invited to post your own content ("User Content") understand that all User Content is your sole responsibility. Though the Sites are designed to be a safe place to share such User Content, we cannot guarantee that other users and Visitors will not misuse the User Content that you share. If you have any User Content that you would like to keep confidential and/or do not want others to use (including but not limited to, photos, images, videos, personal information, name, home address, telephone number, etc.), do not post it to the Sites. Under no circumstances will Toyota be liable in any way for any User Content, including, but not limited to, any errors or omissions in any User Content, or for any loss or damage of any kind incurred as a result of the use of any User Content posted, emailed or otherwise transmitted via the Sites. TOYOTA IS NOT RESPONSIBLE FOR A USER’S OR VISITOR’S MISUSE OR MISAPPROPRIATION OF ANY USER CONTENT YOU POST TO THE SITES.
 
 By posting any User Content at the Sites, you hereby grant Toyota a royalty-free, fully paid up, perpetual, irrevocable, non-exclusive and fully sublicensable right and license to use, reproduce, modify, adapt, publish, translate, combine with other works, create derivative works from, distribute, perform, edit and display such User Content (in whole or part) worldwide and/or to incorporate it in other works in any form, media, or technology now known or later developed. You specifically waive any "moral rights" in and to the User Content. The foregoing grant includes, without limitation, any copyrights and other intellectual property rights in and to your User Content. You represent and warrant that: you own the User Content posted by you on or through the Sites or otherwise have the right to grant the license set forth in this Section. and the posting of your User Content on or through the Sites does not violate the privacy rights, publicity rights, copyrights, contract rights or any other rights of any person. You agree to pay for all royalties, fees and any other monies owing any person by reason of any User Content you posted to or through the Sites.
 
@@ -905,13 +911,13 @@ Any decision or action taken by you on the basis of information or content provi
 
 **15\. LIMITATION OF LIABILITIES.**
 
-EXCEPT IN JURISDICTIONS WHERE SUCH PROVISIONS ARE RESTRICTED, YOU AGREE THAT THE ENTIRE LIABILITY OF ANY TOYOTA ENTITY TO YOU OR ANY THIRD PERSON, AND THAT YOUR OR ANY THIRD PERSON'S EXCLUSIVE REMEDY, IN LAW, IN EQUITY, OR OTHERWISE, WITH RESPECT TO THE SERVICE PROVIDED UNDER THESE TERMS OF USE AND/OR FOR ANY BREACH OF THESE TERMS IS SOLELY LIMITED TO THE AMOUNT OF FIFTY CENTS ($0.50). THE FOREGOING LIMITATIONS OF LIABILITY ARE NOT APPLICABLE TO RESIDENTS OF NEW JERSEY. WITH RESPECT TO RESIDENTS OF NEW JERSEY, YOU AGREE THAT THE LIABILITY OF ANY LEXUS ENTITY OR ANY THIRD PERSON SHALL BE LIMITED TO FIFTY CENTS ($0.50) UNLESS SUCH LIABILITY IS THE RESULT OF OUR NEGLIGENT OR RECKLESS ACTS OR OMISSIONS. EXCEPT IN JURISDICTIONS WHERE SUCH PROVISIONS ARE RESTRICTED, NO TOYOTA ENTITY SHALL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES EVEN IF THE RELEASED PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. TO THE EXTENT THAT A STATE DOES NOT PERMIT THE EXCLUSION OR LIMITATION OF LIABILITY AS SET FORTH HEREIN OUR LIABILITY IS LIMITED TO THE MAXIMUM EXTENT PERMITTED BY LAW IN SUCH STATES.
+EXCEPT IN JURISDICTIONS WHERE SUCH PROVISIONS ARE RESTRICTED, YOU AGREE THAT THE ENTIRE LIABILITY OF ANY TOYOTA ENTITY TO YOU OR ANY THIRD PERSON, AND THAT YOUR OR ANY THIRD PERSON'S EXCLUSIVE REMEDY, IN LAW, IN EQUITY, OR OTHERWISE, WITH RESPECT TO THE SERVICE PROVIDED UNDER THESE TERMS OF USE AND/OR FOR ANY BREACH OF THESE TERMS IS SOLELY LIMITED TO THE AMOUNT OF FIFTY CENTS ($0.50). THE FOREGOING LIMITATIONS OF LIABILITY ARE NOT APPLICABLE TO RESIDENTS OF NEW JERSEY. WITH RESPECT TO RESIDENTS OF NEW JERSEY, YOU AGREE THAT THE LIABILITY OF ANY TOYOTA ENTITY OR ANY THIRD PERSON SHALL BE LIMITED TO FIFTY CENTS ($0.50) UNLESS SUCH LIABILITY IS THE RESULT OF OUR NEGLIGENT OR RECKLESS ACTS OR OMISSIONS. EXCEPT IN JURISDICTIONS WHERE SUCH PROVISIONS ARE RESTRICTED, NO TOYOTA ENTITY SHALL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES EVEN IF THE RELEASED PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. TO THE EXTENT THAT A STATE DOES NOT PERMIT THE EXCLUSION OR LIMITATION OF LIABILITY AS SET FORTH HEREIN OUR LIABILITY IS LIMITED TO THE MAXIMUM EXTENT PERMITTED BY LAW IN SUCH STATES.
 
   
 
 **16\. NO OFFER TO SELL OR LEASE.**
 
-All of the information contained in the Sites is for informational purposes only, and in no way constitutes an offer to enter into any transaction for a Toyota vehicle, or other Toyota product or service. The purchase of any Toyota vehicle shall be subject to the terms and conditions of the applicable sale, lease or retail installment contract. Any MSRP (Manufacturers Suggested Retail Price) listed on any of the Sites are in U.S. dollars only and exclude tax, title, license and registration. Actual dealer price may vary. The Sites shall not be used or relied upon by you as a substitute for information that is available to you from an authorized Toyota automobile or parts dealer.
+All of the information contained in the Sites is for informational purposes only, and in no way constitutes an offer to enter into any transaction for a Toyota vehicle, or other Toyota product or service. The purchase of any Toyota vehicle shall be subject to the terms and conditions of the applicable sale, lease or retail installment contract. Any MSRP (Manufacturer's Suggested Retail Price) listed on any of the Sites are in U.S. dollars only and exclude tax, title, license and registration. Actual dealer price may vary. The Sites shall not be used or relied upon by you as a substitute for information that is available to you from an authorized Toyota automobile or parts dealer.
 
   
 
