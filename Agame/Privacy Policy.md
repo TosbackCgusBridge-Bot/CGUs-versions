@@ -223,12 +223,12 @@ View more results
     Join for free
 *   Hot Games
     
-    *   Uphill Rush 7: Waterpark
-    *   Papa's Freezeria
-    *   Alliance Warfare
-    *   Sao Legend
-    *   Dogar.io
-    *   Trollface Quest TrollTube
+    *   Uphill Rush Games
+    *   Truck Driver Crazy Road
+    *   Roblox
+    *   Pocket Starships
+    *   Happy Wheels
+    *   Youtuber's Saw Game
     
     Mobile Apps More
     
