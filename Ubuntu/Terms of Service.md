@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Mobile World Congress 2017. One for the records – bigger and better! ›
+*   10 desktop snaps written in February ›
+*   GPUs &. Kubernetes for Deep Learning — Part 3/3: Automating Tensorflow ›
+*   The $1M/month revenue generating fountain each smart city should have. ›
 *   How to become a LimeSDR innovator? ›
-*   GPUs &. Kubernetes for Deep Learning — Part 2/3: Adding Storage ›
-*   Canonical at Google Next 2017 ›
-*   Run your own LXD demo server ›
-*   Cloud Chatter: February 2017 ›
