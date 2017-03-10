@@ -190,7 +190,7 @@ Each of the following is impermissible under Sonic’s residential unlimited voi
 
 Pages in category "Policies"
 
-The following 7 pages are in this category, out of 7 total.
+The following 8 pages are in this category, out of 8 total.
 
 B
 
@@ -199,6 +199,10 @@ B
 D
 
 *   Dmca
+
+E
+
+*   Equipment Policy
 
 L
 
