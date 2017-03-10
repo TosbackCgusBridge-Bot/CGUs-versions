@@ -1,6 +1,6 @@
 Privacy &. Security
 
-Effective Date: February 24, 2017
+Effective Date: March 9, 2017
 
 This privacy policy explains what personal information is collected through our websites and online services, how that information is used, to whom it's disclosed, and how it's safeguarded. Unless indicated otherwise, this policy applies only to personal information collected through the websites, microsites, mobile applications, and other online services of our brands and lines of business that expressly adopt, and display or link to, this policy (collectively, the “Services”). These brands and lines of business include Victoria's Secret, Victoria's Secret Pink, and Pink Nation. By "personal information" we mean information that can be used directly to identify you (including name, home address, and email address), as well as other information (like tastes and preferences) when coupled with your identifying information. We may refer to Victoria's Secret, Victoria's Secret Pink (or "Pink"), and Pink Nation (by Pink) as "we," "us," or "our" throughout this privacy policy.
 
@@ -47,7 +47,7 @@ What information is collected and how is it used?
         
     2.  b.  Navigational Information
         
-        When you access our Services, we collect navigational information, such as browser type and version, service-provider identification, IP address, the site or online service from which you came, and the site or online service to which you navigate.
+        When you access our Services, we may collect navigational information, such as browser type and version, service-provider identification, IP address, the site or online service from which you came, and the site or online service to which you navigate.
         
     3.  c.  Device Information
         
@@ -55,9 +55,9 @@ What information is collected and how is it used?
         
     4.  d.  Cookies, Clear Gifs and Similar Technologies
         
-        To better understand how you interact with our Services, we may collect information using cookies, clear-gifs (alsoknown as web beacons or web bugs) and similar technologies.
+        To better understand how you interact with our Services, we may collect information using cookies, clear-gifs (also known as web beacons or web bugs) and similar technologies.
         
-        A cookie is a small amount of data that's stored by your Web browser on your device. It's used to do things like see how you navigate our Services, what you click on, and remember you and your online purchases when you return. This helps us improve our Services, provide better customer service, tailor your online experience, and tailor offers to you based on your unique tastes and both your online and offline (e.g., in-store) interactions and purchase history.
+        A cookie is a small amount of data that's stored by your browser on your device. It's used to do things like see how you navigate our Services, what you click on, and remember you and your online purchases when you return. This helps us improve our Services, provide better customer service, tailor your online experience, and tailor offers to you based on your unique tastes and both your online and offline (e.g., in-store) interactions and purchase history.
         
         A clear gif is a nearly invisible pixel-sized graphic image on a web page, web-based document or e-mail message. It helps us do things like view the URL of the page on which the clear gif appears and the time the site, document or email in question is viewed. Clear gifs in e-mails help us confirm the receipt of, and response to, our emails, including those that you forward to friends and family. and they help deliver a more personalized online experience.
         
@@ -69,7 +69,7 @@ What information is collected and how is it used?
         
 3.  3\.  Information Others Observe or Collect through Technology
     
-    We evaluate and select third-party partners to help us provide certain features on our Service and analyze our visitors' preferences, such as google Analytics. These partners may use some or all the technologies described above.
+    We evaluate and select third-party partners to help us provide certain features on our Service and analyze our visitors' preferences, such as Google Analytics. These partners may use some or all the technologies described above.
     
 
 Back To Top
@@ -141,7 +141,7 @@ We may share information about you with third parties, as described below, and a
     
 5.  5\.  Sale or Merger
     
-    In the event we sell or transfer all or a portion of our business assets (including in the event of a reorganization, dissolution or liquidation), including a brand or line of business, information may be one of the business assets that is transferred in connection with the transaction.
+    In the event we sell or transfer all or a portion of our business assets (including in the event of a reorganization, dissolution or liquidation), including a brand or line of business, information about you may be one of the business assets that is transferred in connection with the transaction.
     
 
 Nothing in this policy restricts our ability to share aggregated or anonymized information that does not directly identify you.
