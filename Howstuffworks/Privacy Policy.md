@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Why We Use the Suffix '-Gate' for Scandals (And Can We Please Stop?)**
+**Picky Eating in Adults Is a Diagnosable Disorder — Really**
 
-**Mars Has a Magnetosphere Problem. Inflatables Could Help**
+**College Student Turns His Honda Civic into a Self-Driving Car for $700**
 
-**Who's in Charge of Investigating Deaths in Antarctica?**
+**Here's What 'New Car Smell' Actually Is**
 
 **See More Headlines »**
 
