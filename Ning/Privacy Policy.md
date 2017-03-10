@@ -111,16 +111,16 @@ We will retain your Personal Information and the personal information we process
 
 As a Network Creator, you control certain privacy settings on your Network (known as “Network Privacy Settings”). Network Creators can edit these settings at any time by signing in to your Network and clicking on “Privacy” from the “My Network” page. Network Creators can choose from the following Network Privacy Settings:
 
-*   **Public**\- Your Network is visible to everyone (Members and non-Members). Anyone can sign up to be a Member. As for which parts of your Network are visible to non-Members, there are two further options:
+*   **Public**– Your Network is visible to everyone (Members and non-Members). Anyone can sign up to be a Member. As for which parts of your Network are visible to non-Members, there are two further options:
     *   **Everything** – Non-Members can see all pages of your Network.
     *   **Just the Main Page** – Non-Members will be prompted to sign up to your Network before they can see any page other than the Network’s main landing page.
-*   **Private**\- Your Network is only visible to Members. Anyone who visits your Network will first be directed to a Member sign in page. As to which non-Members will be able to sign up, there are two further options:
+*   **Private**– Your Network is only visible to Members. Anyone who visits your Network will first be directed to a Member sign in page. As to which non-Members will be able to sign up, there are two further options:
     *   **Anyone** – Anyone can sign up to be a Member.
     *   **Only Invited People** – The only people who can sign up to your Network are those who have received an invitation from a current Member or an invitation link from the Network Creator or an administrator of your Network.
 
 To further enhance Network privacy, Network Creators can set “Private – Only Invited People” (as explained above), and then also check the “Approve new members before they can join” box on the “Controls” page. The “Controls” page is located under “Members” on the “My Network” page. Additionally, Members or Network Creators have their own individual privacy settings on each Network for certain categories of information, such as profile information, list of friends and content that you post. To adjust individual settings, sign in and click on “Settings” in the right hand column. This will take you to a “My Settings” page, where you’ll find a “Privacy” link on the left hand side. You may choose from the following individual privacy options for your profile page and friends. your blog, photos and videos. and your events:
 
-*   **Anyone**\- Anyone who is able to access the Network can view your profile and/or content.
+*   **Anyone**– Anyone who is able to access the Network can view your profile and/or content.
 *   **Members** – Only Members of the Network can view your profile and/or content.
 *   **Just My Friends** – Only Members of the Network that you have added or accepted as a “Friend” can view your profile and/or content.
 *   **Just Me** – Only you can view your content.
@@ -133,19 +133,19 @@ With Ning 3.0 Networks, there is no single privacy setting on your Network to ma
 
 Network Creators can choose from the following Page Privacy Settings:
 
-*   **Everyone (Public)**\- This means that everyone (members and non-members alike) can view this page.
-*   **Members**\- Only Members of the Network can view this page. visitors will be prompted to sign in.
-*   **Featured Members**\- Only featured Members and Administrators of the Network can view this view page.
-*   **Administrators**\- Only Administrators of the Network can view this page.
-*   **Member Category**\- Only Members of a specific member category can view this page.
+*   **Everyone (Public)**– This means that everyone (members and non-members alike) can view this page.
+*   **Members**– Only Members of the Network can view this page. visitors will be prompted to sign in.
+*   **Featured Members**– Only featured Members and Administrators of the Network can view this view page.
+*   **Administrators**– Only Administrators of the Network can view this page.
+*   **Member Category**– Only Members of a specific member category can view this page.
 
 In addition, Network Creators can change the default privacy setting for all member profile pages on the Network. For example, if you want to prevent member profile pages from showing up in search results, you may wish to change the default privacy setting from “Everyone (Public)” to “Members.” You can edit the default Privacy Page Settings for member profiles by signing in to your Network, clicking on “Site &. Pages” in the Social Site Manager and going to the General section of the Members page.
 
 Network Creators can choose from the following Privacy Page Settings for member profile pages:
 
-*   **Everyone (Public)**\- This means that everyone (members and non-members alike) can view member.
-*   **Members**\- Only Members of the Network can view member profile pages. visitors will be prompted to sign in.
-*   **Friends**\- Only friends can view member profile pages.
+*   **Everyone (Public)**– This means that everyone (members and non-members alike) can view member.
+*   **Members**– Only Members of the Network can view member profile pages. visitors will be prompted to sign in.
+*   **Friends**– Only friends can view member profile pages.
 
 Members and Network Creators can edit the personal privacy settings on their profile page to hide their age, gender or birthdate. You can also set your profile page to be visible to everyone (default), only members of the Ning Network or just to your friends on the Ning Network. To change the privacy of your profile page, click on the edit icon that looks like a pencil on the top right of your profile page. You should land on the “Profile” tab in your personal settings area. Choose the level of privacy you’d like from the “Profile Page Privacy” drop down and then update the page. Please see here for more information on how to control the privacy settings of your profile page.
 
