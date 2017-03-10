@@ -10,7 +10,7 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Tailgating
+    Holidays &. Occasions*   Spring Favorites
     *   Weddings &. Showers
     *   Gifts for Her
     *   Gifts for Him
@@ -84,7 +84,7 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Tailgating
+    Holidays &. Occasions*   Spring Favorites
     *   Weddings &. Showers
     *   Gifts for Her
     *   Gifts for Him
