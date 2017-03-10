@@ -77,7 +77,7 @@
         
           
           
-        Give a Buckle Gift card $5 Standard Shipping within the Continental U.S. See Details.
+        Give a Buckle Gift card Free Lunch or Soda Cooler with purchase. SHOP participating brands.
 *   Men
     *   *   Featured
         
@@ -131,7 +131,7 @@
         
           
           
-        Give a Buckle Gift card $5 Standard Shipping within the Continental U.S. See Details.
+        Give a Buckle Gift card Free Lunch or Soda Cooler with purchase. SHOP participating brands.
 *   Kids
     *   *   Featured
         
@@ -153,7 +153,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card $5 Standard Shipping within the Continental U.S. See Details.
+        Give a Buckle Gift card Free Lunch or Soda Cooler with purchase. SHOP participating brands.
 *   Jeans
     *   *   Women's Jeans
         
@@ -183,7 +183,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card $5 Standard Shipping within the Continental U.S. See Details.
+        Give a Buckle Gift card Free Lunch or Soda Cooler with purchase. SHOP participating brands.
 *   New
     *   *   Featured New
         
@@ -192,6 +192,7 @@
         *   New buckle SELECT Stylists
         *   Levi's are Here!
         *   It's in the Hem Details
+        *   Get Your Green On...
         
         *   Women's New
         
@@ -219,7 +220,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card $5 Standard Shipping within the Continental U.S. See Details.
+        Give a Buckle Gift card Free Lunch or Soda Cooler with purchase. SHOP participating brands.
 *   Sale
     *   *   Women's Sale
         
@@ -260,7 +261,7 @@
         
           
           
-        Give a Buckle Gift card $5 Standard Shipping within the Continental U.S. See Details.
+        Give a Buckle Gift card Free Lunch or Soda Cooler with purchase. SHOP participating brands.
 
 A Global Message! × Privacy &. Security
 
