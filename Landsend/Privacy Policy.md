@@ -213,27 +213,6 @@ menu 0
     *   Women's Swim Finder
     *   Mix &. Match Tool
     *   Sale
-*   Outerwear
-    
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    SHOP OUTERWEAR
-    
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
-    
-    FEATURED SHOPS
-    *   Hats, Gloves &. Scarves
-    *   Snow Boots
-    *   Long Underwear
-    *   Ultimate Coat Finder
-    *   Sale
 *   Shoes
     
     *   Lands' End
@@ -564,27 +543,6 @@ menu 0
     *   Beach Towels
     *   Women's Swim Finder
     *   Mix &. Match Tool
-    *   Sale
-*   Outerwear
-    
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    Back | Outerwear SHOP OUTERWEAR Back | SHOP OUTERWEAR
-    
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
-    
-    FEATURED SHOPS Back | Outerwear
-    *   Hats, Gloves &. Scarves
-    *   Snow Boots
-    *   Long Underwear
-    *   Ultimate Coat Finder
     *   Sale
 *   Shoes
     
