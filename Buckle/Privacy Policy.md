@@ -30,6 +30,7 @@
         *   Plus Sizes
         *   buckle SELECT
         *   Promotions
+        *   SHOP ALL WOMEN'S
         
         *   Tops
         
@@ -88,6 +89,7 @@
         *   Shop Instagram
         *   buckle SELECT
         *   Buckle Exclusive
+        *   SHOP ALL MEN'S
         
         *   Tops
         
