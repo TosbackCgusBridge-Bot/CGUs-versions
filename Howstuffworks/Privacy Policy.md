@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Picky Eating in Adults Is a Diagnosable Disorder — Really**
+**5 Quirky (and Super Specific) Dating Apps**
 
-**College Student Turns His Honda Civic into a Self-Driving Car for $700**
+**How Will Panhandlers Fare as Our Economy Goes Cashless?**
 
-**Here's What 'New Car Smell' Actually Is**
+**Amazing, Absurd and Abnormal: Our Best Stories You Might Have Missed This Week**
 
 **See More Headlines »**
 
