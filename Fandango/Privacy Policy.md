@@ -5,40 +5,50 @@ Gift Cards | Offers | Sign In Sign Out
 
 *   Movies Now Playing
     
-    *   Fantastic Beasts and Where to Find Them
-    *   Doctor Strange
-    *   Trolls
-    *   Arrival
-    *   Almost Christmas
-    *   Hacksaw Ridge
-    *   The Edge of Seventeen
-    *   Bleed for This
-    *   The Accountant
-    *   Shut In
-    *   Moonlight (2016)
+    *   Get Out
+    *   The Lego Batman Movie
+    *   John Wick: Chapter 2
+    *   The Great Wall (2017)
+    *   Fifty Shades Darker
+    *   Fist Fight
+    *   Hidden Figures
+    *   La La Land
+    *   Lion
+    *   Split (2017)
+    *   Rock Dog
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Allied
-    *   Bad Santa 2
-    *   Moana
-    *   Rules Don't Apply
-    *   Dear Zindagi
+    *   Before I Fall
+    *   Logan (2017)
+    *   The Shack
+    *   Contemporary Color
+    *   Donald Cried
+    *   The Freedom to Marry
+    *   Headshot
+    *   The Last Word (2017)
+    *   My Scientology Movie
+    *   Table 19
+    *   Wolves (2017)
     *   See All Opening This Week
+    
+    Pre Sales Tickets
+    
+    *   Beauty and the Beast (2017)
+    *   Kong: Skull Island
     
     Coming Soon
     
-    *   Office Christmas Party
-    *   Collateral Beauty
-    *   Rogue One: A Star Wars Story
-    *   The Space Between Us
-    *   Assassin's Creed
-    *   Passengers
-    *   Sing
-    *   Why Him?
-    *   Fences
-    *   Underworld: Blood Wars
+    *   Kong: Skull Island
+    *   The Belko Experiment
+    *   CHIPS
+    *   Life (2017)
+    *   Power Rangers
+    *   The Boss Baby
+    *   Ghost in the Shell (2017)
+    *   The Zookeeper's Wife
+    *   Going in Style (2017)
     *   See All Coming Soon
     
     Explore More
@@ -66,18 +76,18 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Casey Affleck and Rooney Mara Made a Secret Movie Together Read More
-    *   'Star Wars' and Marvel Buzz: Han Solo Movie Is Like a Western. X-Men Won't Join the MCU Read More
-    *   News Briefs: 'Big Short' Director to Helm Dick Cheney Movie Read More
+    *   'Aliens,' 'Twister' and 'Titanic' Actor Bill Paxton Dies at 61 Read More
+    *   News Briefs: 'Stranger Things' Star Eyed for Cable in 'Deadpool 2' Read More
+    *   Superhero Buzz: 'Logan,' 'Justice League,' 'Marvel's Inhumans' Read More
     
     Explore Content
     *   Movie Reviews
     *   Family
-    *   Holiday Movie Guide
     *   Indie Movie Guide
+    *   Awards Watch
     *   Mom's Movie Minute
     *   Weekend Ticket
-*   My VIP Account Join FandangoVIP Worry-Free Tickets
+*   My VIP Account Join FandangoVIP Refunds + Exchanges
     
     Bypass the box office line at many theaters with guaranteed tickets. If something comes up, you can return or exchange up to two hours before showtime through Fandango.
     
@@ -99,35 +109,40 @@ Gift Cards | Offers | Sign In Sign Out
     
     Already a Fandango VIP? Sign In
 
-Site Maintenance Argh! Try Again soon. Offers
+Error 500: Technical Difficulties Oh Dear! Please be patient while we put ourselves back together.  
+Check back soon!
 
+Thanks for using Fandango.
+
+Offers
+
+*   'Fifty Shades Darker' Gift With Purchase
+    
+    Buy tickets to 'Fifty Shades Darker' and get 50% off a digital copy of 'Fifty Shades of Grey' on FandangoNOW. BUY TICKETS
+    
+*   'Logan' Free Gift With Purchase
+    
+    Buy tickets to 'Logan' and get a FREE digital comics bundle on ComiXology. BUY TICKETS
+    
+*   'The LEGO Batman Movie' Gift With Purchase
+    
+    Buy tickets to ‘The LEGO Batman Movie’ and get 50% off a digital copy of ‘The LEGO Movie’ on FandangoNOW. BUY TICKETS
+    
 *   Fandango Movie Gift Cards
     
     Give the gift of movies. Get your Fandango Movie Gift Card now. BUY GIFT CARDS
     
-*   'Sing' Free Gift With Purchase
-    
-    FREE song download from the 'Sing' Original Motion Picture Soundtrack with ticket purchase. BUY TICKETS
-    
-*   'The Edge of Seventeen' Sweepstakes
-    
-    Fandango VIPs, you could win a VIP meet &. greet concert experience. BUY TICKETS
-    
-*   NEW! 2 Cards: 1 Fun Night Out
-    
-    Pasta plus movies equals endless fun! Treat friends, family or yourself with this gift which includes one $25 Fandango gift card and one $25 Olive Garden® gift card, sent in one email. BUY NOW
-    
 
 New + Coming soon
 
-*   Doctor Strange
-*   Fantastic Beasts and Where to Find Them
-*   Moana
-*   Rogue One: A Star Wars Story
-*   Sing
-*   Fifty Shades Darker
-*   The Lego Batman Movie
+*   Logan (2017)
+*   Kong: Skull Island
 *   Beauty and the Beast (2017)
+*   The Fate of the Furious
+*   Guardians of the Galaxy Vol. 2
+*   Pirates of the Caribbean: Dead Men Tell No Tales
+*   Wonder Woman
+*   The Mummy (2017)
 
 Experience + Explore
 
@@ -141,9 +156,9 @@ Experience + Explore
 Editorial Features
 
 *   Family
-*   Holiday Movie Guide
 *   Indie Movie Guide
 *   Movie News
+*   Awards Watch
 
 Videos
 
@@ -156,7 +171,7 @@ Videos
 Photos
 
 *   Red Carpet
-*   November Celebrity Birthdays
+*   March Celebrity Birthdays
 
 Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App Fandango Windows Phone App
 
