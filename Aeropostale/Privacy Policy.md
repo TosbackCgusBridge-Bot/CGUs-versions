@@ -45,7 +45,7 @@ Aéropostale
     *   Yoga
     *   Lounge
     *   Bras
-    *   Panties
+    *   Undies
     *   Sleep
     *   Accessories
 *   Guys
