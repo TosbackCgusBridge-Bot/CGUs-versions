@@ -192,8 +192,8 @@ My Account
 
 Guarantees
 
-*   100% Satisfaction
 *   Security
+*   100% Satisfaction
 *   Substitution Policy
 
 Privacy
@@ -213,8 +213,8 @@ Security
 
 About Us
 
-*   Store Locator
 *   The Hickory Farms Story
+*   Store Locator
 *   Employment Opportunities
 
 Need Help?
@@ -231,7 +231,7 @@ Orders
 
 1.800.621-0226
 
-Sign up for seasonal gift ideas &. delicious deals Sign Up
+Sign up for gift ideas &. delicious deals Sign Up
 
 Customer Service
 
