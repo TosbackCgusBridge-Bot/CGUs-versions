@@ -32,7 +32,7 @@ Toggle navigationSuperpages Online Yellow Pages, Local Business Directory  
     *   Lottery Results
     *   Weather
     *   Maps
-    *   Cars
+    *   City Guides
     *   Popular Categories
     *   State Directory
 *   Advertise With Us
