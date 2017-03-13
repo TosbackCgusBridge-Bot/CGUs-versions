@@ -205,8 +205,8 @@ Menu
         *   Harnessing the electrical language of the body to treat disease
         *   Epigenetics: turn-ons and turn-offs
         *   Inside the open lab
-        *   The race to richer data in clinical trials
         *   Scientists or detectives? Seeking new clues in COPD
+        *   The race to richer data in clinical trials
         *   Cell and gene therapy: a new era of medicine
         *   Take a deep breath - your lung microbiome will appreciate it
     *   Access to healthcare
@@ -237,6 +237,7 @@ Menu
         *   Take a Breather: 8 Fast Facts on Severe Asthma
         *   8 simple activities that may not be so simple when you have severe asthma
         *   Inspiring Students through STEM Education Programs
+        *   GSK IMPACT Awards: 20 years of healthy communities
     *   Our people
         *   Our people
         *   Changing gears in a scientific career
