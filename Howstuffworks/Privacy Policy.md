@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**5 Quirky (and Super Specific) Dating Apps**
+**How Did the U.S. Look Before the EPA?**
 
-**How Will Panhandlers Fare as Our Economy Goes Cashless?**
+**Ridiculous History: When U.S. Farmers Went Mad for Bird Poop**
 
-**Amazing, Absurd and Abnormal: Our Best Stories You Might Have Missed This Week**
+**Why Does the Secret Service Protect a President's Adult Children?**
 
 **See More Headlines »**
 
