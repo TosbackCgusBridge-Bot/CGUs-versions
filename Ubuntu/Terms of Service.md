@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   The Smart Schizophrenic Vending Machine ›
+*   This elevator catches intruders, saves lives, generates money, … ›
 *   The Cheapest and Smartest Mobile and IoT Base Station of MWC17 ›
 *   Mobile World Congress 2017. One for the records – bigger and better! ›
-*   10 desktop snaps written in February ›
-*   GPUs &. Kubernetes for Deep Learning — Part 3/3: Automating Tensorflow ›
-*   The $1M/month revenue generating fountain each smart city should have. ›
+*   10 snaps written in February ›
