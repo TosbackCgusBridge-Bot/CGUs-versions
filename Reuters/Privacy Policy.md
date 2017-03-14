@@ -56,7 +56,7 @@ Try out Practitioner Insights free
 
 Start your day in the know with up-to-the-minute legal developments in your practice area.
 
-Contact sales to start your free trial See how Practitioner Insights works
+Start your free trial See how Practitioner Insights works
 
 Click the orange buttons to explore the Practitioner Insights interface.
 
@@ -140,7 +140,7 @@ Use your alerts on Westlaw to inform you promptly of new legal developments in y
 
 If you like, set up daily email summaries as well. You can add colleagues to the email list.
 
-Contact sales to start your free trial › pip
+pip
 
 *   Customer Service
 *   Contact Us
