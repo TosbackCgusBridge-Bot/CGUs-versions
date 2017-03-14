@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true C15818746056
+true true C15821058161
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p15.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Sun Mar 12 11:15:28 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.3.0.0.45.1
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Mon Mar 13 11:15:43 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.3.0.0.45.1
 
 *   for the home
 *   bed &. bath
@@ -60,31 +60,39 @@ Spring Sale
 
 In Store &. Online | Ends March 15
 
-Shop Now View Store Ad24.99 Stafford Comfort Stretch Broadcloth Dress Shirt
+Shop Now View Store Ad24.99 Plus-Size Worthington Lace Top
 
-Select styles, reg. $50
+Select styles, reg. $44
 
-Shop Stafford Dress Shirts  24.99 Worthington Flounce Skirt
+Shop Plus-Size Worthington Tops  24.99 Worthington Flounce Skirt
 
 Select styles, orig. $44
 
-Shop Worthington Skirts  29.99 Liz Claiborne Sneakers
+Shop Women's Worthington Skirts  34.99 Women's Dress Shoes
 
 Select styles, reg. $55
 
-Shop Liz Claiborne Sneakers Now Trending: Blush Speing's new neutral is a mix-and-match natural. Shop the Trend 24.99 Worthington Lace Blouse, select styles, reg. $44 25% Off Nike Apparel &. Shoes For The Family
+Shop Women's Dress Shoes 25% Off Nike Apparel &. Shoes For The Family
 
-Select styles. Apparel MSRP $20-$70, Shoes MSRP $44-$65. Nike excluded from coupon.
+Select styles. Apparel MSRP $20-$70, Shoes MSRP $44-$65.
 
 Shop Men   Shop Women   Shop Kids Shop Boys Shop Girls Shop Shoes   Home Sale Up to 60% Off
 
 Select styles
 
-Shop All Home Shop Bedding Shop Window Shop Kitchen &. Dining Shop Furniture &. Mattresses Shop Home Decor Disney Beauty and the Beast In Theatres March 17
+Shop All Home Shop Bedding Shop Window Shop Kitchen &. Dining Shop Furniture &. Mattresses Shop Home Decor 2017 Prom 40% Off Prom Dresses
+
+Select styles, reg. $100-$250
+
+Shop Prom Dresses Shop Plus-Size Prom Dresses50% Off Guys' Suit Separates &. Tuxedos
+
+Select styles, reg. $60-$275
+
+Shop Guys' Suit Separates &. Tuxedos Disney Beauty and the Beast In Theatres March 17
 
 ©Disney. Disney excluded from coupon.
 
-Shop Beauty &. The Beast Watch the Trailer \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Mar 12 08:09:56 CDT 2017 JVM :->. dtexppr1c1j5\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Mar 12 22:25:51 CDT 2017 JVM :->. dtexppr1c1j1\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Beauty &. The Beast Watch the Trailer \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Mar 13 23:05:06 CDT 2017 JVM :->. dtexppr1c1j3\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Mar 13 04:42:23 CDT 2017 JVM :->. dtexppr1c1j2\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
