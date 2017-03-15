@@ -114,6 +114,8 @@ Privacy. Security. Risk.
 *   OTA Blog
 *   Newsletters
 
+Mon, Mar 13, 2017 OTA Response to NTIA IoT Green Paper
+
 Tue, Nov 15, 2016 IoT Threats - What we can do today and tomorrow
 
 Statement for the record for the US House of Representatives - " Understanding the Role of Connected Devices in Recent Cyber Attacks"
@@ -129,10 +131,6 @@ Wed, Nov 9, 2016 Why the Insurance Industry Will Never Be the Same After the Mir
 Mon, Nov 7, 2016 Responsible, Coordinated &. Ethical Vulnerability Disclosures
 
 As a participant of NTIA’s multi-stakeholder vulnerability working group and an attendee to this week’s meeting in DC, I was impressed by the level of collaboration and sharing of best practices.  Progress is encouraging.
-
-Mon, Nov 7, 2016 Don’t Be a Tool – Verifying Subscriptions and Honoring Unsubscribes
-
-This summer the email marketing industry suffered a setback due to “list bomb” attacks in which thousands of targeted users were unknowingly subscribed to tens of thousands of mailings. In these attacks, ESP infrastructure and highly-reputed brands were used as a means to effectively create a “denial of service” against user inboxes, and email originating from many ESPs and brands was blocked by Spamhaus until the situation was better understood. Could this have been prevented?
 
 More >>. Resources
 
