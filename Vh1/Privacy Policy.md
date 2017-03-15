@@ -38,8 +38,8 @@ VH1 Menu VH1
 
 *   FAQ/Help
 *   Jobs
-*   Terms of Use \[Updated 9/30/2016\]
-*   Privacy Policy/Privacy Rights \[Updated 9/30/2016\]
+*   Terms of Use \[Updated 3/14/2017\]
+*   Privacy Policy/Privacy Rights \[Updated 3/14/2017\]
 *   Copyright
 *   Closed Captioning
 *   Eventful
