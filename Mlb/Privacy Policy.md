@@ -82,6 +82,7 @@ Sections Scores WBC 2017 News Video Stats Standings Schedule Players Tickets App
     *   Important Dates
     *   Team-by-Team Schedule
     *   National Broadcasts
+    *   Sunday Night Broadcasts
     *   Probable Pitchers
     *   MLB Singles
 *   Players Players Players
