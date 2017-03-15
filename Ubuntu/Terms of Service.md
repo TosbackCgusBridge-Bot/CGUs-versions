@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
-*   The Smart Schizophrenic Vending Machine ›
+*   NXP and Canonical to demo Ubuntu Core on the LS1043A at Embedded World ›
+*   Introducing Ubuntu 12.04 ESM (Extended Security Maintenance) ›
+*   The Smart Multi-Personality Vending Machine ›
 *   This elevator catches intruders, saves lives, generates money, … ›
 *   The Cheapest and Smartest Mobile and IoT Base Station of MWC17 ›
-*   Mobile World Congress 2017. One for the records – bigger and better! ›
-*   10 snaps written in February ›
