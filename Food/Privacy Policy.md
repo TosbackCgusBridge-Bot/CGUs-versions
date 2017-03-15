@@ -6,7 +6,7 @@ Turn on more accessible mode Turn off more accessible mode Skip Ribbon Commands 
 *   Rss Feed
 *   Instagram
 
-      Search
+    Search
 
 *   SNICurrently selected
     *   Our Company
