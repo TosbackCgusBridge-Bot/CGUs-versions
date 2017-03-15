@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**How Did the U.S. Look Before the EPA?**
+**Kids Getting Sick From Hand Sanitizers**
 
-**Ridiculous History: When U.S. Farmers Went Mad for Bird Poop**
+**A Simple Equation Calculates the Likelihood of Alien Intelligence, But...**
 
-**Why Does the Secret Service Protect a President's Adult Children?**
+**You Can Get Pregnant When You're Already Pregnant**
 
 **See More Headlines »**
 
