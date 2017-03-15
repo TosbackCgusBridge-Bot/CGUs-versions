@@ -248,7 +248,6 @@ About Us
 *   Our Blog
 *   Traditions Matter
 *   No Kid Hungry®
-*   E-Catalog
 
 Contact Us
 
