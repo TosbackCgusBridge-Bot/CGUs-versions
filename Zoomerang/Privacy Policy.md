@@ -72,7 +72,7 @@ Select CountryAnguillaAntigua &. BarbudaArgentinaArmeniaAustraliaBahrainBarbados
     *   Customer Value
 
 *   Technology
-*   News Center
+*   Insights and news
 
 *   Careers
     *   About us
