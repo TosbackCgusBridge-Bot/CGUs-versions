@@ -139,7 +139,6 @@ menu 0
     
     *   New Arrivals
     *   Toddler Shop
-    *   Favorite Looks
     *   Spring Break Must Haves
     *   Swim Shop
     *   School Uniforms
@@ -470,7 +469,6 @@ menu 0
     
     *   New Arrivals
     *   Toddler Shop
-    *   Favorite Looks
     *   Spring Break Must Haves
     *   Swim Shop
     *   School Uniforms
