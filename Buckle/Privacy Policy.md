@@ -78,7 +78,7 @@
         
           
           
-        Give a Buckle Gift card Free Lunch or Soda Cooler with purchase. SHOP participating brands.
+        Give a Buckle Gift card Don’t get pinched on St. Patty's Day. SHOP GREEN STYLES.
 *   Men
     *   *   Featured
         
@@ -133,7 +133,7 @@
         
           
           
-        Give a Buckle Gift card Free Lunch or Soda Cooler with purchase. SHOP participating brands.
+        Give a Buckle Gift card Don’t get pinched on St. Patty's Day. SHOP GREEN STYLES.
 *   Kids
     *   *   Featured
         
@@ -155,7 +155,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Free Lunch or Soda Cooler with purchase. SHOP participating brands.
+        Give a Buckle Gift card Don’t get pinched on St. Patty's Day. SHOP GREEN STYLES.
 *   Jeans
     *   *   Women's Jeans
         
@@ -185,7 +185,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Free Lunch or Soda Cooler with purchase. SHOP participating brands.
+        Give a Buckle Gift card Don’t get pinched on St. Patty's Day. SHOP GREEN STYLES.
 *   New
     *   *   Featured New
         
@@ -222,7 +222,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Free Lunch or Soda Cooler with purchase. SHOP participating brands.
+        Give a Buckle Gift card Don’t get pinched on St. Patty's Day. SHOP GREEN STYLES.
 *   Sale
     *   *   Women's Sale
         
@@ -263,7 +263,7 @@
         
           
           
-        Give a Buckle Gift card Free Lunch or Soda Cooler with purchase. SHOP participating brands.
+        Give a Buckle Gift card Don’t get pinched on St. Patty's Day. SHOP GREEN STYLES.
 
 A Global Message! × Privacy &. Security
 
