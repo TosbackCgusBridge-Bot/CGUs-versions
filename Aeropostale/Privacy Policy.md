@@ -75,6 +75,7 @@ Aéropostale
     *   Shorts
     
     *   JACKETS + COATS
+    *   Swim
     *   ACCESSORIES
     *   SHOES
 *   Active
