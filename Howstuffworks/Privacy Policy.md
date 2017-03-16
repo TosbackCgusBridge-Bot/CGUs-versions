@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Kids Getting Sick From Hand Sanitizers**
+**See the Wildest Winners of Competition to Invent New Musical Instruments**
 
-**A Simple Equation Calculates the Likelihood of Alien Intelligence, But...**
+**If Elon Musk Loses This Bet, Tesla Could Be Out Serious Cash**
 
-**You Can Get Pregnant When You're Already Pregnant**
+**Southern California Desert Showered With Best Super Bloom in 20 Years**
 
 **See More Headlines »**
 
@@ -294,25 +294,7 @@ Get the best of HowStuffWorks by email. Keep up to date on:
 *   Tours
 *   Weird &. Wacky
 
-Sign-up Now! Testing this long verbose error message to check the behaviour More From The Stuff Network
-
-BrainStuff
-
-CarStuff
-
-Stuff Mom Never Told You
-
-Stuff of Genius
-
-Stuff They Don't Want You to Know
-
-FW:Thinking
-
-Stuff to Blow Your Mind
-
-Stuff You Should Know
-
-Stuff You Missed in History Class
+Sign-up Now! Testing this long verbose error message to check the behaviour
 
 Copyright © 2017 HowStuffWorks,  
 a division of InfoSpace Holdings LLC
