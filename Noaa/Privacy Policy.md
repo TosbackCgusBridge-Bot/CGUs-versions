@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms U.S. had 2nd warmest February and 6th warmest winter on record Unseasonable warmth spanned 39 states. Western drought improved AROUND NOAA // Carbon dioxide levels rose at record pace for 2nd straight year Watch live: NOAA's Okeanos Explorer expedition to remote Pacific marine protected areas New research shows ocean acidification is spreading rapidly in the Arctic Flashy first images arrive from NOAA’s GOES-16 lightning mapper
+Enter Search Terms U.S. had 2nd warmest February and 6th warmest winter on record Unseasonable warmth spanned 39 states. Western drought improved AROUND NOAA // Carbon dioxide levels rose at record pace for 2nd straight year Watch live: NOAA's Okeanos Explorer expedition to remote Pacific marine protected areas New research shows ocean acidification is spreading rapidly in the Arctic
 
 *   About our agency
 *   News and features
