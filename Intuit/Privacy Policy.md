@@ -1,4 +1,4 @@
-15 3 2017.3.0.0.45.1
+15 3 2017.3.1.0.6.0
 
 *   Find a store
 *   store ads
@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true C15822168549
+true true C15825385426
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p01.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Tue Mar 14 11:15:39 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.3.0.0.45.1
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Wed Mar 15 11:14:42 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.3.1.0.6.0
 
 *   for the home
 *   bed &. bath
@@ -56,9 +56,13 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 true
 
-Spring Sale
+Up To 80% Off Clearaway Final Markdowns
 
-In Store &. Online | Ends March 15
+In Store &. Online
+
+Shop Now Find A Store Shop Women Shop Men Shop Kids Shop Shoes Shop Handbags Shop Jewelry Shop Window Shop Home Spring Sale
+
+In Store &. Online | Last Day!
 
 Shop Now View Store Ad24.99 Plus-Size Worthington Lace Top
 
@@ -72,7 +76,7 @@ Shop Women's Worthington Skirts  34.99 Women's Dress Shoes
 
 Select styles, reg. $55
 
-Shop Women's Dress Shoes 25% Off Nike Apparel &. Shoes For The Family
+Shop Women's Dress Shoes Last Day! 25% Off Nike Apparel &. Shoes For The Family
 
 Select styles. Apparel MSRP $20-$70, Shoes MSRP $44-$65.
 
@@ -92,7 +96,7 @@ Shop Guys' Suit Separates &. Tuxedos Disney Beauty and the Beast In Theatres Mar
 
 ©Disney. Disney excluded from coupon.
 
-Shop Beauty &. The Beast Watch the Trailer \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Mar 14 22:11:30 CDT 2017 JVM :->. dtexppr1l1j1\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Mar 14 03:29:52 CDT 2017 JVM :->. dtexppr1l1j2\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Beauty &. The Beast Watch the Trailer \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Mar 15 22:12:51 CDT 2017 JVM :->. dtexppr1l1j5\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Mar 15 22:05:09 CDT 2017 JVM :->. dtexppr1l1j6\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
