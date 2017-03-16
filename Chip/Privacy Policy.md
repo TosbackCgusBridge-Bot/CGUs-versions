@@ -192,6 +192,9 @@ plista GmbH
 Datenschutz-Infos  
 Zum Opt-out Link  
   
+Sparwelt GmbH  
+Datenschutz-Infos  
+  
 uniquedigital GmbH  
 Datenschutz-Infos  
 Zum Opt-out Link  
