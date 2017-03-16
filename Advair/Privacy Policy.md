@@ -469,7 +469,6 @@ Menu
 *   Responsibility
     
     *   Responsibility
-    *   Our approach
     *   Health for all
         *   Health for all
         *   Access to healthcare
@@ -491,10 +490,6 @@ Menu
         *   Employee volunteering
     *   Our planet
     
-    *   Our approach
-        
-        GSK’s mission is to improve the quality of human life by enabling people to do more, feel better, live longer.
-        
     *   Health for all
         
         We have the opportunity to improve the health and well-being of people around the world.
