@@ -109,9 +109,9 @@ Sony on YouTube
 
 Play Video
 
-Experience New Excitements and Emotions
+On the Set of The Chainsmokers’ “Paris” Video
 
-At The WOW Factory At SXSW
+Learn About the “Paris” VR Experience
 
 Close
 
@@ -119,7 +119,7 @@ Close
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share Experience New Excitements and Emotions
+*   Copy URL to share On the Set of The Chainsmokers’ “Paris” Video
 
 Play Video
 
