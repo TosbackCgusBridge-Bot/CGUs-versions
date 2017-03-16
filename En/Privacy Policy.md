@@ -1,57 +1,37 @@
-*   Who we are
-    *   Our story
-    *   Our people
-    *   Leadership team
-    *   Where we are
-*   What we do
-    *   For Users
-    *   Softonic Clean &. Safe
-*   Company news
-    *   Softonic Blog
-*   Careers
-    *   Softonic Culture
-    *   Office Tour
-    *   Jobs
-    *   Send us your CV
-*   Advertising solutions
-    *   Display Advertising
-    *   Mobile Advertising
-    *   Software Distribution
-    *   Ad Specs &. Policies
+Toggle navigation
 
-LEGAL INFORMATION COMPANY INFORMATION
+*   For Users
+    *   softonic.com
+    *   Turbo Booster
+    *   appcrawlr
+*   For Advertisers
+    *   Our Reach
+    *   Advertising solutions
+*   About Us
+    *   Our Vision
+    *   Team
+*   Work
+    *   Our Culture
+    *   Join us!
+*   Blog
+*   Press Room
+    *   Exec Bios
+    *   News
+    *   Assets
+*   Contact
 
-*   Legal information
-*   Shareholders' meeting
-*   Terms of use
-*   Privacy Policy
-*   Cookies policy
-*   Multi-Campaign Advertising
-*   Ads and Software Policies
+The world's largest software and app discovery destination Every month, over 100 million people trust us to help them find solutions Connecting people with technology to enhance their lives
 
-Contact us
+**Headquarters**
 
-Softonic International S.A. owns, amongst others, the corresponding country domains of numerous countries across Europe, Asia and other parts of the world.
+Softonic International
 
-Softonic International, S.A.  
-Edificio MediaTIC  
-Calle Roc Boronat, 117, 6th floor.  
-08018 Barcelona,  
-Spain
+Ed. Media TIC
 
-Tel: +34 – 936 012 700  
-Fax: +34 – 933 969 292  
-Email: legal@softonic.com
+Roc Boronat 117, Planta 6
 
-Softonic International S.A.: Tax Identification Number: A-62134341. Filed with the Commercial Registry of Barcelona, Book 44171, Page 136, Sheet B-210880.
+08018 Barcelona, Spain
 
-*   *   LEGAL INFORMATION
-    *   CONTACT US
-    *   GO TO SOFTONIC.COM
+93 123 45 67 press@softonic.com Work with us!
 
-*   OFFICES:
-*   Barcelona
-*   Madrid
-*   San Francisco
-
-The name and logo of Softonic are registered trademarks of Softonic International, S.A. Copyright Softonic International, S.A. © 1997-2016 – All rights reserved.
+2017 © All Rights Reserved  •  Legal Information •  Cookie Policy • Terms of Use  •  Privacy Policy
