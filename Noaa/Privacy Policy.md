@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms U.S. had 2nd warmest February and 6th warmest winter on record Unseasonable warmth spanned 39 states. Western drought improved AROUND NOAA // Carbon dioxide levels rose at record pace for 2nd straight year Watch live: NOAA's Okeanos Explorer expedition to remote Pacific marine protected areas New research shows ocean acidification is spreading rapidly in the Arctic
+Enter Search Terms Spring Outlook: Risk of major flooding in North Dakota, moderate flooding in Idaho Warmer-than-average temperatures favored in much of U.S. this spring AROUND NOAA // U.S. had 2nd warmest February and 6th warmest winter on record Carbon dioxide levels rose at record pace for 2nd straight year Watch live: NOAA's Okeanos Explorer expedition to remote Pacific marine protected areas
 
 *   About our agency
 *   News and features
