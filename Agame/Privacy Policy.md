@@ -232,8 +232,8 @@ View more results
     
     Mobile Apps More
     
-    *   Uphill Rush
     *   Troll Face Quest TV Shows
+    *   Uphill Rush
     *   My Dolphin Show
     *   Nitro Heads
     *   Cats Empire
