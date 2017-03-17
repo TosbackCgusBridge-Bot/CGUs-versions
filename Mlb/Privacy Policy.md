@@ -248,10 +248,7 @@ Official Info Skip to main content
     *   Home
     *   About
     *   Supplier Info
-    *   Vendor Info
-    *   Calendar
-    *   Resources
-    *   Opportunities
+    *   Supplier Spotlights
     *   Diverse Business Summit
 *   _Television_
     *   National Broadcasts
