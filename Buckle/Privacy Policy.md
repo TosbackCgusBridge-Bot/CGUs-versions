@@ -190,11 +190,11 @@
     *   *   Featured New
         
         *   Men's Easy Care Shirts
-        *   Check Out Gimmicks
+        *   Iconic Calvin Klein
         *   New buckle SELECT Stylists
         *   Levi's are Here!
         *   It's in the Hem Details
-        *   Get Your Green On...
+        *   Show 'em Your Cold Shoulders
         
         *   Women's New
         
