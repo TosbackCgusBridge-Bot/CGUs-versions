@@ -2,6 +2,7 @@ Navigation
 
 *   HOME
 *   GAMES
+    *   Boggle With Friends
     *   Chess With Friends
     *   Crazy Cake Swap
     *   Crazy Kitchen
@@ -21,7 +22,6 @@ Navigation
     *   Matching With Friends
     *   Speed Guess Something
     *   Wizard of Oz Magic Match
-    *   Word Streak With Friends
     *   Words With Friends
     *   Yummy Gummy
 *   CASINO
