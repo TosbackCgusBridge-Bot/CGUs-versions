@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true C15825385426
+true true L15835343281
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Wed Mar 15 11:14:42 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.3.1.0.6.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1l1j2 TIME :->. Thu Mar 16 11:15:14 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.3.1.0.6.0
 
 *   for the home
 *   bed &. bath
@@ -56,31 +56,27 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 true
 
-Up To 80% Off Clearaway Final Markdowns
+Stretch Your Penney Sale Shop Now View Store Ad7.99 Juniors' Graphic Tanks
 
-In Store &. Online
+Select styles, orig. $14
 
-Shop Now Find A Store Shop Women Shop Men Shop Kids Shop Shoes Shop Handbags Shop Jewelry Shop Window Shop Home Spring Sale
+Shop Juniors' Graphic Tanks  7.99 Kids' Xersion Graphic Tees
 
-In Store &. Online | Last Day!
+Select styles, reg. $16
 
-Shop Now View Store Ad24.99 Plus-Size Worthington Lace Top
+Shop Kids' Xersion Graphic Tees19.99 Women's Sandals
 
-Select styles, reg. $44
+Select styles, reg. $40
 
-Shop Plus-Size Worthington Tops  24.99 Worthington Flounce Skirt
+Shop Women's Sandals17.99 Guys' Arizona Flat-Front Shorts
 
-Select styles, orig. $44
+Select styles, reg. $34
 
-Shop Women's Worthington Skirts  34.99 Women's Dress Shoes
+Shop Guys' Arizona Flat-Front Shorts Levi's® 49.99 Guys' Levi's 541™ Athletic-Fit Jeans
 
-Select styles, reg. $55
+reg. 69.50, offers and coupons do not apply.
 
-Shop Women's Dress Shoes Last Day! 25% Off Nike Apparel &. Shoes For The Family
-
-Select styles. Apparel MSRP $20-$70, Shoes MSRP $44-$65.
-
-Shop Men   Shop Women   Shop Kids Shop Boys Shop Girls Shop Shoes   Home Sale Up to 60% Off
+Shop Guys' Levi's Home Sale Up to 60% Off
 
 Select styles
 
@@ -96,7 +92,7 @@ Shop Guys' Suit Separates &. Tuxedos Disney Beauty and the Beast In Theatres Mar
 
 ©Disney. Disney excluded from coupon.
 
-Shop Beauty &. The Beast Watch the Trailer \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Mar 15 22:12:51 CDT 2017 JVM :->. dtexppr1l1j5\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Mar 15 22:05:09 CDT 2017 JVM :->. dtexppr1l1j6\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Beauty &. The Beast Watch the Trailer \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Mar 16 19:12:43 CDT 2017 JVM :->. dtexppr1l2j2\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Mar 16 04:06:52 CDT 2017 JVM :->. dtexppr1l2j2\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
