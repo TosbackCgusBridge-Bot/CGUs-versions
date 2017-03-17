@@ -236,3 +236,9 @@ If you have any questions about this policy, please write to Whitepages Privacy 
 
 *   © 2017 Whitepages Inc.
 *   Sitemap
+
+Outdated Browser
+
+Update your browser for the best Whitepages experience. View Browser Options
+
+×
