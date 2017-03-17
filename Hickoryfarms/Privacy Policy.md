@@ -19,7 +19,7 @@
     By Price*   $30 &. Under
     *   $40 &. Under
     *   $50 &. Under
-    *   Over $90Most Popular Dry Salami Cheddar
+    *   Over $90Most Popular Spring Favorites HoneyGold® Ham
 *   Sausage &. Cheese
     
     View All Categories Shop by Category*   Gifts
@@ -93,7 +93,7 @@
     By Price*   $30 &. Under
     *   $40 &. Under
     *   $50 &. Under
-    *   Over $90Most Popular Dry Salami Cheddar
+    *   Over $90Most Popular Spring Favorites HoneyGold® Ham
 *   Sausage &. Cheese
     
     View All Categories Shop by Category*   Gifts
