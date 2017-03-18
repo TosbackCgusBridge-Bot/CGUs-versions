@@ -138,6 +138,7 @@ menu 0
     FEATURED SHOPS
     
     *   New Arrivals
+    *   Backpacks &. Lunch Boxes
     *   Toddler Shop
     *   Spring Break Must Haves
     *   Swim Shop
@@ -204,13 +205,14 @@ menu 0
     *   Boys
     
     FEATURED SHOPS
+    *   Women's Swim Finder
+    *   Mix &. Match Tool
     *   Sea &. Sky Collection
+    *   Little Black Suit
     *   Swim Tees &. Rash Guards
     *   Water Shoes &. Sandals
     *   Totes &. Beach Bags
     *   Beach Towels
-    *   Women's Swim Finder
-    *   Mix &. Match Tool
     *   Sale
 *   Shoes
     
@@ -267,6 +269,7 @@ menu 0
     *   Best-in-Class Polos
     *   Iron Knee Pants
     *   Best Dressed
+    *   Backpacks &. Lunch Boxes
     *   Spiritwear
     *   After School
     *   Sale
@@ -468,6 +471,7 @@ menu 0
     Back | Kids FEATURED SHOPS Back | Kids
     
     *   New Arrivals
+    *   Backpacks &. Lunch Boxes
     *   Toddler Shop
     *   Spring Break Must Haves
     *   Swim Shop
@@ -534,13 +538,14 @@ menu 0
     *   Boys
     
     FEATURED SHOPS Back | Swim
+    *   Women's Swim Finder
+    *   Mix &. Match Tool
     *   Sea &. Sky Collection
+    *   Little Black Suit
     *   Swim Tees &. Rash Guards
     *   Water Shoes &. Sandals
     *   Totes &. Beach Bags
     *   Beach Towels
-    *   Women's Swim Finder
-    *   Mix &. Match Tool
     *   Sale
 *   Shoes
     
@@ -596,6 +601,7 @@ menu 0
     *   Best-in-Class Polos
     *   Iron Knee Pants
     *   Best Dressed
+    *   Backpacks &. Lunch Boxes
     *   Spiritwear
     *   After School
     *   Sale
