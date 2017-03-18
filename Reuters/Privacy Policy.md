@@ -110,8 +110,9 @@ Legal Practice areas
 *   Capital markets
 *   Corporate counsel
 *   Corporate governance
-*   Energy &. environment
+*   Data privacy
 *   Employment
+*   Energy &. environment
 *   Finance &. banking
 *   Health law
 *   Immigration
@@ -121,11 +122,11 @@ Legal Practice areas
 *   Products liability
 *   Securities enforcement  
     &. litigation
+*   Tax
 
 Jurisdictions
 
 *   National
-*   New York
 
 Practitioner Insights and analysis from top legal news sources
 
@@ -138,7 +139,7 @@ Practitioner Insights and analysis from top legal news sources
 
 Use your alerts on Westlaw to inform you promptly of new legal developments in your practice area or from your customized search.
 
-If you like, set up daily email summaries as well. You can add colleagues to the email list.
+If you like alerts on Westlaw, you can also set up daily email summaries. You’re also able to add colleagues to the email list to receive alert summaries.
 
 pip
 
