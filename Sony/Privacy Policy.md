@@ -149,9 +149,9 @@ Close
 
 With the Future Lab Program
 
-Follow Us on Snapchat @sonyofficial
+Get Your Jig On This St. Patrick's Day
 
-For SXSW Updates
+With Extra Bass
 
 Close
 
@@ -159,9 +159,9 @@ Close
 *   Share on Facebook
 *   Share on Twitter
 *   Share on Tumblr
-*   Copy URL to share Follow Us on Snapchat @sonyofficial
+*   Copy URL to share Get Your Jig On This St. Patrick's Day
 
-For SXSW Updates
+With Extra Bass
 
 The Chainsmokers’ “Paris” VR Experience Premieres at SXSW This Week
 
