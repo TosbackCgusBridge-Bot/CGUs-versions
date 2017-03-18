@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Research Watch live: NOAA's Okeanos Explorer expedition to remote Pacific marine protected areas Weather Satellites Flashy first images arrive from NOAA’s GOES-16 lightning mapper National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheries Tangled whale swimming free after successful rescue Research Watch live: NOAA's Okeanos Explorer expedition to remote Pacific marine protected areas National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Spring Outlook: Risk of major flooding in North Dakota, moderate flooding in Idaho Warmer-than-average temperatures favored in much of U.S. this spring AROUND NOAA // U.S. had 2nd warmest February and 6th warmest winter on record Carbon dioxide levels rose at record pace for 2nd straight year Watch live: NOAA's Okeanos Explorer expedition to remote Pacific marine protected areas
+Enter Search Terms Earth had 2nd warmest February, season and year to date on record Arctic and Antarctic sea ice extents were also record-low AROUND NOAA // Spring Outlook: Risk of major flooding in North Dakota, moderate flooding in Idaho U.S. had 2nd warmest February and 6th warmest winter on record Carbon dioxide levels rose at record pace for 2nd straight year Watch live: NOAA's Okeanos Explorer expedition to remote Pacific marine protected areas
 
 *   About our agency
 *   News and features
