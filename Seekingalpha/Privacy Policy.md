@@ -1,4 +1,7 @@
-Sign in / Join Now GO»
+BEFORE IT'S TOO LATE dhms The window is closing  
+Enjoy FREE access to Seeking Alpha PRO nowSeeking Alpha PRO: exclusive access to  
+Seeking Alpha's top stock ideasTake Me to Seeking Alpha PRO  
+No thanks Sign in / Join Now GO»
 
 *   Market News
 *   Stock Ideas
