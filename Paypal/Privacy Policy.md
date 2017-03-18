@@ -27,7 +27,7 @@ Explore Business Solutions
 From everyday purchases to running a business,  
 people around the world rely on us to pay and get paid. How PayPal Works
 
-Join 188+ million people who use PayPal to
+Join 200+ million people who use PayPal to
 
 Learn How to Use PayPal
 
