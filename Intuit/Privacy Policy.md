@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true L15835343281
+true true C15830023243
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1l1j2 TIME :->. Thu Mar 16 11:15:14 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.3.1.0.6.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p11.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Fri Mar 17 11:09:52 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.3.1.0.6.0
 
 *   for the home
 *   bed &. bath
@@ -56,31 +56,11 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 true
 
-Stretch Your Penney Sale Shop Now View Store Ad7.99 Juniors' Graphic Tanks
+Stretch Your Penney Sale Plus Friday &. Saturday Spotlight Deals
 
-Select styles, orig. $14
+In Store &. Online | Ends March 19
 
-Shop Juniors' Graphic Tanks  7.99 Kids' Xersion Graphic Tees
-
-Select styles, reg. $16
-
-Shop Kids' Xersion Graphic Tees19.99 Women's Sandals
-
-Select styles, reg. $40
-
-Shop Women's Sandals17.99 Guys' Arizona Flat-Front Shorts
-
-Select styles, reg. $34
-
-Shop Guys' Arizona Flat-Front Shorts Levi's® 49.99 Guys' Levi's 541™ Athletic-Fit Jeans
-
-reg. 69.50, offers and coupons do not apply.
-
-Shop Guys' Levi's Home Sale Up to 60% Off
-
-Select styles
-
-Shop All Home Shop Bedding Shop Window Shop Kitchen &. Dining Shop Furniture &. Mattresses Shop Home Decor 2017 Prom 40% Off Prom Dresses
+Shop Now View Store Ad Spotlight Deal $7 Juniors' Graphic Tanks or Tees, reg. $14-$20 select styles Spotlight Deal 14.99 Guys' Arizona Flat-Front Shorts, reg. $34 select styles Spotlight Deal 5.99 Kids' Arizona Essential &. Favorite Tees, orig. $12-$14 select styles Spotlight Deal 5.99 JCPenney Home Trellis or 30x54" Solid Bath Towel, reg. $12 Spotlight Deal $10 Juniors' City Streets Shorts, select styles Spotlight Deal 4.79 Mixit Flip Flops, reg. $8-$10 select styles Spotlight Deal 12.99 Girls' Arizona Bermuda Shorts, reg. $26 select styles 49.99 Ninja Fit Blender, reg. $75 excluded from coupon 2017 Prom 40% Off Prom Dresses
 
 Select styles, reg. $100-$250
 
@@ -92,7 +72,7 @@ Shop Guys' Suit Separates &. Tuxedos Disney Beauty and the Beast In Theatres Mar
 
 ©Disney. Disney excluded from coupon.
 
-Shop Beauty &. The Beast Watch the Trailer \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Mar 16 19:12:43 CDT 2017 JVM :->. dtexppr1l2j2\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Mar 16 04:06:52 CDT 2017 JVM :->. dtexppr1l2j2\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Beauty &. The Beast Watch the Trailer \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Mar 17 22:19:05 CDT 2017 JVM :->. dtexppr1c1j3\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Mar 17 05:52:45 CDT 2017 JVM :->. dtexppr1l1j2\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
