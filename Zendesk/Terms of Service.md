@@ -1051,6 +1051,14 @@ Use of Zendesk Talk and the related functionality is subject to the obligation t
 
 Some jurisdictions may require that Your business have an address within the jurisdiction to purchase a phone number through Zendesk Talk. If You are in such a jurisdiction, You agree to provide a business address within the jurisdiction. You further authorize Zendesk to disclose the given address to our third party voice service provider, Twilio, Inc. (“Twilio”), and any necessary governmental agency. Twilio’s and the necessary governmental agency’s terms and policies will govern their use of the address and the Agreement and Privacy Policy do not govern their use of the address. You further understand that Your phone number in the jurisdiction may be taken out of service if You are unable to provide a local address in any such jurisdiction.
 
+Supplemental Terms for Zendesk’s Guide Service (“Zendesk Guide”):
+
+If Your Service Plan for Zendesk Support allows You to use Zendesk Guide or You otherwise subscribe to or utilize Zendesk Guide as a Service, the following Supplemental Terms apply:
+
+Use of Zendesk Guide is subject to the obligation to pay applicable Subscription Charges as stated on the pricing pages of the Site. Some features of Zendesk Guide may be subject to additional Subscription Charges and Consumption Capacity limits as explained on the Zendesk Guide pricing page on the Site. By enabling or otherwise using Zendesk Guide, You are agreeing to pay these charges and agreeing to the applicable feature terms. “Consumption Capacity” means the maximum number of Ticket deflections available to You using the Answer Bot feature of Zendesk Guide for the Service Plan to which You subscribe.
+
+Subscription Charges for certain Zendesk Guide features may be charged in arrears or require You to prepay for expected consumption. Unless an earlier expiration date is communicated to You at time of purchase, Consumption Capacity will expire and no longer be redeemable at the end of the time period to which the Consumption Capacity is allocated. If Your Account reaches a Consumption Capacity limit during the applicable time period, the functionality of the relevant feature will not be available in Your Account until the beginning of the next time period unless You purchase additional Consumption Capacity by upgrading to a higher Service Plan.
+
 Supplemental Terms for Zendesk’s Explore Service (“Zendesk Explore”):
 
 If Your Service Plan for Zendesk Support allows You to use Zendesk Explore or You otherwise subscribe to or utilize Zendesk Explore as a Service, the following Supplemental Terms apply:
