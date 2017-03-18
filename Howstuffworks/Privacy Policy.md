@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Kintsugi: What a Broken Bowl Can Teach Us**
+**Beyond the Leprechaun: Weird Monsters Who Haunt Irish Mythology**
 
-**Yes, Wind Can Blow You Away If It's the Right Speed**
+**Adults Who Choose Not to Have Kids Inspire Moral Outrage, Study Finds**
 
-**MIT Rewards Responsible Civil Disobedience With New $250,000 Prize**
+**How Cognitive Dissonance Affects Us in Crazy Political Times**
 
 **See More Headlines »**
 
