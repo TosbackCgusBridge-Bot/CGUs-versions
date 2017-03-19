@@ -15,7 +15,7 @@ SEG1 hp
 
 Office Depot Deals
 
-iDTYPSNjbd5ca2ZHSh6PxGV
+qhuPL\_XxqzATfDyrVmMfCci
 
 Search Suggestions
 
@@ -145,7 +145,7 @@ Office Depot, Inc. is a resource and a catalyst to help customers work better. W
   
 The Company has annual sales of approximately $11 billion, employs approximately 38,000 associates, and serves consumers and businesses in North America and abroad with approximately 1,400 retail stores, award-winning e-commerce sites and a dedicated business-to-business sales organization  all delivered through a global network of wholly owned operations, franchisees, licensees and alliance partners. The Company operates under several banner brands including Office Depot, OfficeMax, Grand &. Toy, and Viking. The companys portfolio of exclusive product brands include TUL, Foray, Brenton Studio, Ativa, WorkPro, Realspace and HighMark.  
   
-Office Depot, Inc.s charitable arm, The Office Depot Foundation, supports programs that enhance quality of life for children, strengthen communities, encourage local and international economic growth, and empower schools and non-profit organizations. Office Depot and OfficeMax also provides resources and support to small businesses through its Business Solutions Center. The center provides informative tips, advice, articles, videos and more designed to help businesses achieve their goals. validation failed, try again after sometime.
+Office Depot, Inc.s charitable arm, The Office Depot Foundation, supports programs that enhance quality of life for children, strengthen communities, encourage local and international economic growth, and empower schools and non-profit organizations. Office Depot and OfficeMax also provides resources and support to small businesses through its Business Solutions Center. The center provides informative tips, advice, articles, videos and more designed to help businesses achieve their goals.
 
 Give them a gift card.  
 Never expires, ships for free
