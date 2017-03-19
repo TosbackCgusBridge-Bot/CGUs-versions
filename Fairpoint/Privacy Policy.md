@@ -151,14 +151,38 @@ Terms, conditions, charges and restrictions apply. Speed and uninterrupted servi
 
 x Where Do You Live?
 
-Enter your zip code or phone number now to discover high technology FairPoint solutions and rates available in your location. Don't know your zip code?
+Please enter your ZIP Code so that we can show you product, offer and customer support information that is relevant to your service location. Don't know your zip code?
 
-or Submit x FairPoint Coverage Map
+Service and offer eligibility, as well as customer support resources, may differ based on street address in your area. Information shown to you on our site may not apply depending on your exact service location. Please contact us at 1.866.984.2001 so we can provide the most accurate information.
+
+or Submit Continue to Site x FairPoint Coverage Map
 
 FairPoint coverage is available in the areas highlighted below. Visit our product pages to check availability and get  
 connected to solutions for your home or business.
 
-Close
+× Please upgrade your browser
+
+Some functionality on our website may not work properly in outdated versions of certain browsers. Download one of these browsers, or update your current browser to the latest version, to ensure the best experience on our website.
+
+Google Chrome
+
+version 41.0+
+
+Mozilla Firefox
+
+version 38.0+
+
+Apple Safari
+
+version 7.0+
+
+Internet Explorer
+
+version 9.0+
+
+Microsoft Edge
+
+version 13.0+ Close
 
 Looking for MyFairPoint.net? All of the FairPoint associated links present on MyFairPoint.net have moved to the Residential Support page. From the right side column of the Support page you can access MyFairPoint.com, your FairPoint email account, Premium Internet Support, Online Backup &. Sharing, Security Suite and Games on Demand.
 
