@@ -174,4 +174,4 @@ pip
 *   West Key Authors
 *   Legal Notices
 
-Careers | Site Map | Terms of Use | Privacy Statement | © 2017 Thomson Reuters Feedback
+Careers | Site Map | Terms of Use | Privacy Statement © 2017 Thomson Reuters
