@@ -95,10 +95,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Fri, Mar 17, 2017 Privacy Risk Security - Speaker submission Deadline
-
-Privacy. Security. Risk. (P.S.R.) is coming to San Diego October 17/18, bringing you the best of security and privacy in one brilliant conference.  Over three years, IAPP has developed PSR into the premiere venue for exploring the connection between information security and data privacy.  **Deadline for submissions is March 17th.**   Join OTA at this premier event!
-
 Wed, Apr 19, 2017 IAPP Global Summit
 
 The Global Privacy Summit returns to DC this April, bringing together myriad perspectives from around the globe for keen discussion and gold-standard education, big-picture inspiration and valuable connections. In an age when the future in privacy is a blur, find clarity at the Summit.
