@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true C15835075577
+true true C15837185258
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1c2j6 TIME :->. Sun Mar 19 11:15:15 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.3.1.0.6.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1c2j5 TIME :->. Mon Mar 20 11:15:40 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.3.1.0.6.0
 
 *   for the home
 *   bed &. bath
@@ -56,31 +56,19 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 true
 
-Stretch Your Penney Sale Shop Now View Store Ad7.99 Juniors' Graphic Tanks
+40-50% Off Xersion For The Family
 
-Select styles, orig. $14
+Select styles, reg. $14-$18
 
-Shop Juniors' Graphic Tanks  7.99 Kids' Xersion Graphic Tees
+Men   Women   Boys Girls 19.99 Nike Sandals For The Family
 
-Select styles, reg. $16
+Select styles, msrp $22-$26, Nike excluded from coupon.
 
-Shop Kids' Xersion Graphic Tees19.99 Women's Sandals
+Shop Nike Sandals For The Family Home Sale Up to 60% Off
 
-Select styles, reg. $40
+Select styles.
 
-Shop Women's Sandals17.99 Guys' Arizona Flat-Front Shorts
-
-Select styles, reg. $34
-
-Shop Guys' Arizona Flat-Front Shorts Levi's® 49.99 Guys' Levi's 541™ Athletic-Fit Jeans
-
-reg. 69.50, offers and coupons do not apply.
-
-Shop Guys' Levi's Home Sale Up to 60% Off
-
-Select styles
-
-Shop All Home Shop Bedding Shop Window Shop Kitchen &. Dining Shop Furniture &. Mattresses Shop Home Decor 2017 Prom 40% Off Prom Dresses
+Shop All Home Bedding Window Kitchen &. Dining Furniture &. Mattresses Home Decor 2017 Prom 40% Off Prom Dresses
 
 Select styles, reg. $100-$250
 
@@ -88,11 +76,13 @@ Shop Prom Dresses Shop Plus-Size Prom Dresses50% Off Guys' Suit Separates &. Tux
 
 Select styles, reg. $60-$275
 
-Shop Guys' Suit Separates &. Tuxedos Disney Beauty and the Beast In Theatres March 17
+Shop Guys' Suit Separates &. Tuxedos   30% Off Women's Swim
 
-©Disney. Disney excluded from coupon.
+Select styles, reg. $32-$104
 
-Shop Beauty &. The Beast Watch the Trailer \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Mar 19 17:52:06 CDT 2017 JVM :->. dtexppr1l1j3\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Mar 19 17:52:19 CDT 2017 JVM :->. dtexppr1l2j4\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Women's Swim40% Off Men's &. Kids' Swim
+
+Shop Girls Swim   Shop Boys Swim   Shop Men's Swim   \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Mar 20 22:14:36 CDT 2017 JVM :->. dtexppr1c2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Mar 20 22:14:29 CDT 2017 JVM :->. dtexppr1c2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
