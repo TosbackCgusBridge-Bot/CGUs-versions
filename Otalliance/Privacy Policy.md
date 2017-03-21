@@ -1,20 +1,15 @@
 Skip to main content Online Trust Alliance
 
 *   Home
-*   Newsletter Signup
 *   Member Login
     *   Request New Login
 *   Privacy Policy
 *   Contact Us
 
-   
-
-*   Join OTA
-*   Donate OTA
-
- 
+     
 
 *   Initiatives
+    *   Advertising Security &. Privacy
     *   Brand Protection
     *   Cyber Incident &. Breach Readiness
     *   Email Marketing &. Security
@@ -22,19 +17,17 @@ Skip to main content Online Trust Alliance
     *   Online Trust Audit &. Honor Roll
     *   Privacy
     *   Public Policy
-    *   Security
 *   Resources
     *   Advertising Integrity &. Fraud
     *   Data Breach &. Protection
     *   Email Practices &. Reports
     *   IoT Resources
-    *   Malicious Threats
-    *   Web and Mobile Security
     *   OTA Members (Restricted)
     *   Report a Site Vulnerability
 *   Best Practices
+    *   Industry Best Practices
 *   Committees
-*   News &. Events
+*   Newsroom
     *   Press Releases
     *   OTA In The News
     *   Upcoming Events
@@ -43,14 +36,12 @@ Skip to main content Online Trust Alliance
 *   Membership
     *   Membership &. Member Levels
     *   OTA Members (Restricted)
-    *   Donate
 *   About Us
     *   History &. Overview
     *   Vision for Trust
     *   Members
     *   Board of Directors
     *   Non-Governmental Organizations
-    *   Strategic Advisors
     *   Staff
 *   Blog
 
@@ -134,13 +125,12 @@ More >>. Resources
 *   Data Breach &. Protection
 *   Email Practices &. Reports
 *   IoT Resources
-*   Malicious Threats
-*   Web and Mobile Security
 *   OTA Members (Restricted)
 *   Report a Site Vulnerability
 
 Initiatives
 
+*   Advertising Security &. Privacy
 *   Brand Protection
 *   Cyber Incident &. Breach Readiness
 *   Email Marketing &. Security
@@ -148,9 +138,12 @@ Initiatives
 *   Online Trust Audit &. Honor Roll
 *   Privacy
 *   Public Policy
-*   Security
 
-News &. Events
+Best Practices
+
+*   Industry Best Practices
+
+Newsroom
 
 *   Press Releases
 *   OTA In The News
@@ -162,7 +155,6 @@ Membership
 
 *   Membership &. Member Levels
 *   OTA Members (Restricted)
-*   Donate
 
 About Us
 
@@ -172,7 +164,6 @@ About Us
     *   Members
 *   Board of Directors
 *   Non-Governmental Organizations
-*   Strategic Advisors
 *   Staff
 
  
@@ -180,7 +171,6 @@ About Us
 © 2015   Online Trust Alliance
 
 *   Home
-*   Newsletter Signup
 *   Member Login
 *   Privacy Policy
 *   Contact Us
