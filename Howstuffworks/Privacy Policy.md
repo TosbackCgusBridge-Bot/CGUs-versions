@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Beyond the Leprechaun: Weird Monsters Who Haunt Irish Mythology**
+**Female Soccer Players Suffer Most Concussions Among High School Athletes**
 
-**Adults Who Choose Not to Have Kids Inspire Moral Outrage, Study Finds**
+**Stephen Hawking Says 'Ultimate Ambition' Is to Journey Into Space**
 
-**How Cognitive Dissonance Affects Us in Crazy Political Times**
+**Watch This Robot Correct Its Mistakes Through Brain Waves**
 
 **See More Headlines »**
 
