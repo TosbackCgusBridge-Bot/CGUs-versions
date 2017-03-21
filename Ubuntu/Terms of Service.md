@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Three flaws at the heart of IoT security ›
 *   The Orange Pi community gets a snap store ›
 *   Webinar: Learn the secrets to innovative and scalable VNF deployment ›
 *   NXP and Canonical to demo Ubuntu Core on the LS1043A at Embedded World ›
 *   Introducing Ubuntu 12.04 ESM (Extended Security Maintenance) ›
-*   The Smart Multi-Personality Vending Machine ›
