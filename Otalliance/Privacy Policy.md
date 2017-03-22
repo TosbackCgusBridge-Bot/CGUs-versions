@@ -41,7 +41,6 @@ Skip to main content Online Trust Alliance
     *   Vision for Trust
     *   Members
     *   Board of Directors
-    *   Non-Governmental Organizations
     *   Staff
 *   Blog
 
@@ -163,7 +162,6 @@ About Us
 *   Members
     *   Members
 *   Board of Directors
-*   Non-Governmental Organizations
 *   Staff
 
  
