@@ -65,30 +65,36 @@ Some Mozilla websites allow you to make purchases (such as apps or gear) or make
 
 *   **Payment Processing**: Mozilla does not receive any financial information, which is transmitted from you to our third party vendors for processing. The name of the third party will be displayed at the time of the transaction. For more information on our data practices with third party vendors, see our Mozilla Privacy Policy.
 
-Back to Mozilla Privacy Policy Mozilla
-
-Portions of this content are ©1998–2017 by individual mozilla.org contributors. Content available under a Creative Commons license.
+Back to Mozilla Privacy Policy Mozilla Mozilla
 
 *   About
 *   Contact Us
 *   Donate
 *   Contribute to this site
-
-*   Privacy
-*   Cookies
-*   Legal
-*   Report Trademark Abuse
-
-*   Mozilla:
+*   Social:
     *   Twitter (@mozilla)
     *   Facebook (Mozilla)
     *   Instagram (@mozillagram)
-*   Firefox:
+
+Firefox
+
+*   Download Firefox Web browser
+*   Desktop Browser for Mac, Windows, Linux
+*   Mobile Browser for Android
+*   Mobile Browser for iOS
+*   Social:
     *   Twitter (@firefox)
     *   Facebook (Firefox)
     *   YouTube (firefoxchannel)
 
 Page language: عربيবাংলা (বাংলাদেশ)বাংলা (ভারত)ČeštinaDeutschΕλληνικάEnglishEspañol (de España)Françaisहिन्दीHrvatskimagyarBahasa IndonesiaItaliano日本語МакедонскиPolskiPortuguês (do Brasil)RomânăРусскийСрпскиKiswahiliதமிழ் Go
+
+Portions of this content are ©1998–2017 by individual mozilla.org contributors. Content available under a Creative Commons license.
+
+*   Privacy
+*   Cookies
+*   Legal
+*   Report Trademark Abuse
 
 Hello! Would you be willing to take a minute to answer a few questions? Sure. I’ll help.
 
