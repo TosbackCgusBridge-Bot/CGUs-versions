@@ -22,15 +22,15 @@
 *   Women
     *   *   Featured
         
+        *   SHOP ALL WOMEN'S
         *   New Arrivals
         *   Shop by Outfit
         *   Shop by Brand
-        *   Buckle Exclusive
+        *   Shop Buckle Exclusive
         *   Shop Instagram
         *   Plus Sizes
         *   buckle SELECT
         *   Promotions
-        *   SHOP ALL WOMEN'S
         
         *   Tops
         
@@ -84,14 +84,14 @@
 *   Men
     *   *   Featured
         
+        *   SHOP ALL MEN'S
         *   New Arrivals
         *   Shop by Brand
         *   Promotions
         *   Shop by Outfit
         *   Shop Instagram
-        *   buckle SELECT
         *   Buckle Exclusive
-        *   SHOP ALL MEN'S
+        *   buckle SELECT
         
         *   Tops
         
