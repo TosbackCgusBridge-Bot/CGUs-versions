@@ -42,6 +42,7 @@ Show Search Bar
     *   RiskSec Toronto 2017
     *   SC Awards 2017
     *   RiskSec Press Release
+    *   SC Reboot Leadership Awards 2017
 *   Whitepapers
 
 *   Log in
