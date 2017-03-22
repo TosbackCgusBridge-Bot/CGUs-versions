@@ -87,7 +87,8 @@ If You subscribed using Your Apple ID, refunds are handled by Apple, not Plentyo
 
 If You used PayPal to pay for Your Paid Membership and/or Paid Features, You must contact or login to PayPal to request a refund.
 
-For all other users, You may request a refund by going to your POF Membership Page and following instructions to submit a refund request.  
+For all other users, You may request a refund by going to your POF Membership Page and following instructions to submit a refund request, or by mailing or delivering a signed and dated notice which states that you, the buyer, are canceling this agreement, or words of similar effect. This notice shall be sent to: Plenty of Fish, Attn: Cancellations, P.O. Box 25472, Dallas, Texas 75225, USA (in addition, Ohio users may send a facsimile to 214-853-4309).
+
 **MAKING CLAIMS OF COPYRIGHT INFRINGEMENT**  
 If You believe that any material or content distributed by Plentyoffish constitutes copyright infringement, please provide us with the following information: an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest. a description of the copyrighted work that You claim has been infringed. a description of where the material that You claim is infringing is located on our Website. Your address, telephone number and email address. a written statement by You that You have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law. a statement by You, made under penalty of perjury, that the above information in Your notice is accurate and that You are the copyright owner or authorized to act on the copyright owner's behalf.  
 The above information must be submitted to the following DMCA Agent:  
