@@ -5,6 +5,7 @@ Aéropostale
     *   NEW ARRIVALS
     *   #FREETOBE
     *   TRENDING
+    *   Buy 1 Get 2 FREE
     *   Prince + Fox
     *   Cape Juby
     *   Uniform
