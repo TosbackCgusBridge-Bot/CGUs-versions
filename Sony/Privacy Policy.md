@@ -105,9 +105,9 @@ See Our Full Line of 4K Ultra HD TVs
 Close
 
 *   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
+*   Share Picture Quality As Good as the Game-Winning Shot on Facebook
+*   Share Picture Quality As Good as the Game-Winning Shot on Twitter
+*   Share Picture Quality As Good as the Game-Winning Shot on Tumblr
 *   Copy URL to share Picture Quality As Good as the Game-Winning Shot
 
 See Our Full Line of 4K Ultra HD TVs
@@ -119,18 +119,18 @@ To Play on PS4™
 Close
 
 *   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
+*   Share Assemble Your NBA 2K17 Team on Facebook
+*   Share Assemble Your NBA 2K17 Team on Twitter
+*   Share Assemble Your NBA 2K17 Team on Tumblr
 *   Copy URL to share Assemble Your NBA 2K17 Team
 
-Play Video
+Play Assemble Your NBA 2K17 Team Video
 
-Sony on YouTube
+Sony on YouTube - Assemble Your NBA 2K17 Team
 
-Play Video
+Play Assemble Your NBA 2K17 Team Video hotspot
 
-Sony on Instagram
+View Sound for any space on Instagram
 
 2017 NCAA #MarchMadness is here! Watch live with PS Vue,
 
@@ -145,9 +145,9 @@ With Action Cam
 Close
 
 *   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
+*   Share Ready For Any Adventure on Facebook
+*   Share Ready For Any Adventure on Twitter
+*   Share Ready For Any Adventure on Tumblr
 *   Copy URL to share Ready For Any Adventure
 
 With Action Cam
@@ -159,9 +159,9 @@ This Spring
 Close
 
 *   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
+*   Share Extra Bass Is In Bloom on Facebook
+*   Share Extra Bass Is In Bloom on Twitter
+*   Share Extra Bass Is In Bloom on Tumblr
 *   Copy URL to share Extra Bass Is In Bloom
 
 This Spring
@@ -173,16 +173,16 @@ Learn More About "LIFE"
 Close
 
 *   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
+*   Share What Happens When a Space Crew Finds the First Evidence of Extraterrestrial Life? on Facebook
+*   Share What Happens When a Space Crew Finds the First Evidence of Extraterrestrial Life? on Twitter
+*   Share What Happens When a Space Crew Finds the First Evidence of Extraterrestrial Life? on Tumblr
 *   Copy URL to share What Happens When a Space Crew Finds the First Evidence of Extraterrestrial Life?
 
-Play Video
+Play What Happens When a Space Crew Finds the First Evidence of Extraterrestrial Life? Video
 
-Sony on YouTube
+Sony on YouTube - What Happens When a Space Crew Finds the First Evidence of Extraterrestrial Life?
 
-Play Video
+Play What Happens When a Space Crew Finds the First Evidence of Extraterrestrial Life? Video hotspot
 
 Want to Experience Virtual Reality at Home?
 
@@ -191,9 +191,9 @@ Bid on Our Essential PS VR Bundle Now
 Close
 
 *   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
+*   Share Want to Experience Virtual Reality at Home? on Facebook
+*   Share Want to Experience Virtual Reality at Home? on Twitter
+*   Share Want to Experience Virtual Reality at Home? on Tumblr
 *   Copy URL to share Want to Experience Virtual Reality at Home?
 
 Bid on Our Essential PS VR Bundle Now
@@ -205,9 +205,9 @@ Do What You Love, Earn Points
 Close
 
 *   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
+*   Share Do What You Love, Earn Points on Facebook
+*   Share Do What You Love, Earn Points on Twitter
+*   Share Do What You Love, Earn Points on Tumblr
 *   Copy URL to share Do What You Love, Earn Points
 
 &. Get Rewarded
@@ -225,9 +225,9 @@ Join Now To Enter
 Close
 
 *   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
+*   Share Become A Sony Rewards Points Millionaire and Open a World of Experiences on Facebook
+*   Share Become A Sony Rewards Points Millionaire and Open a World of Experiences on Twitter
+*   Share Become A Sony Rewards Points Millionaire and Open a World of Experiences on Tumblr
 *   Copy URL to share Become A Sony Rewards Points Millionaire and Open a World of Experiences
 
 Join Now To Enter
@@ -239,9 +239,9 @@ Download the App
 Close
 
 *   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
+*   Share Are You a Sony Rewards Member? on Facebook
+*   Share Are You a Sony Rewards Member? on Twitter
+*   Share Are You a Sony Rewards Member? on Tumblr
 *   Copy URL to share Are You a Sony Rewards Member?
 
 Download the App
@@ -249,9 +249,9 @@ Download the App
 Close
 
 *   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
+*   Share SR Enrollment Sweeps on Facebook
+*   Share SR Enrollment Sweeps on Twitter
+*   Share SR Enrollment Sweeps on Tumblr
 *   Copy URL to share SR Enrollment Sweeps
 
 SR Enrollment Sweeps
@@ -263,9 +263,9 @@ Visit Sony Square NYC
 Close
 
 *   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
+*   Share From PlayStation to the PS4 Pro: See the Evolution of Our Innovation &. Design Through the Years on Facebook
+*   Share From PlayStation to the PS4 Pro: See the Evolution of Our Innovation &. Design Through the Years on Twitter
+*   Share From PlayStation to the PS4 Pro: See the Evolution of Our Innovation &. Design Through the Years on Tumblr
 *   Copy URL to share From PlayStation to the PS4 Pro: See the Evolution of Our Innovation &. Design Through the Years
 
 Visit Sony Square NYC
@@ -277,9 +277,9 @@ Get Out of the Comfort Zone
 Close
 
 *   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
+*   Share Watch Tall Heights Recreate Their Song "Cross My Mind" Using Only Glassware on Facebook
+*   Share Watch Tall Heights Recreate Their Song "Cross My Mind" Using Only Glassware on Twitter
+*   Share Watch Tall Heights Recreate Their Song "Cross My Mind" Using Only Glassware on Tumblr
 *   Copy URL to share Watch Tall Heights Recreate Their Song "Cross My Mind" Using Only Glassware
 
 Get Out of the Comfort Zone
@@ -291,18 +291,18 @@ Learn About the “Paris” VR Experience
 Close
 
 *   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
+*   Share On the Set of The Chainsmokers’ “Paris” Video on Facebook
+*   Share On the Set of The Chainsmokers’ “Paris” Video on Twitter
+*   Share On the Set of The Chainsmokers’ “Paris” Video on Tumblr
 *   Copy URL to share On the Set of The Chainsmokers’ “Paris” Video
 
-Play Video
+Play On the Set of The Chainsmokers’ “Paris” Video Video
 
-Sony on YouTube
+Sony on YouTube - On the Set of The Chainsmokers’ “Paris” Video
 
-Play Video
+Play On the Set of The Chainsmokers’ “Paris” Video Video hotspot
 
-Sony on Instagram
+View A perfect match. on Instagram
 
 More clarity, more detail, more amazing — the Sony WE66.
 
@@ -317,9 +317,9 @@ Are You?
 Close
 
 *   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
+*   Share Which Smurf on Facebook
+*   Share Which Smurf on Twitter
+*   Share Which Smurf on Tumblr
 *   Copy URL to share Which Smurf
 
 Are You?
@@ -331,9 +331,9 @@ Check Out The RX 100 V
 Close
 
 *   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
+*   Share World’s Fastest Autofocus in the Palm of Your Hand on Facebook
+*   Share World’s Fastest Autofocus in the Palm of Your Hand on Twitter
+*   Share World’s Fastest Autofocus in the Palm of Your Hand on Tumblr
 *   Copy URL to share World’s Fastest Autofocus in the Palm of Your Hand
 
 Check Out The RX 100 V
@@ -345,16 +345,16 @@ Play Mass Effect Andromeda on PS4™ This Week
 Close
 
 *   Share
-*   Share on Facebook
-*   Share on Twitter
-*   Share on Tumblr
+*   Share Fight with Your Pathfinder Team in the Andromeda Galaxy on Facebook
+*   Share Fight with Your Pathfinder Team in the Andromeda Galaxy on Twitter
+*   Share Fight with Your Pathfinder Team in the Andromeda Galaxy on Tumblr
 *   Copy URL to share Fight with Your Pathfinder Team in the Andromeda Galaxy
 
-Play Video
+Play Fight with Your Pathfinder Team in the Andromeda Galaxy Video
 
-Sony on YouTube
+Sony on YouTube - Fight with Your Pathfinder Team in the Andromeda Galaxy
 
-Play Video
+Play Fight with Your Pathfinder Team in the Andromeda Galaxy Video hotspot
 
 Load More
 
