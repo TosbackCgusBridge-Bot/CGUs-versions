@@ -42,6 +42,8 @@
     View More Info
 *   2018 C-HR  
     View More Info
+*   2018 Yaris  
+    View More Info
 *   2018 Sequoia  
     View More Info
 *   2018 Tundra  
@@ -155,7 +157,6 @@ Toyota Vehicles
     
 *   Crossovers  
     
-
 *   Hybrid Vehicles  
     
 *   Hybrid Cars  
@@ -168,9 +169,44 @@ Toyota Vehicles
     
 *   Fuel-Efficient SUVs  
     
-*   Search Inventory  
+
+*   Cars Under $20,000  
+    
+*   Cars Under $25,000  
+    
+*   Cars Under $30,000  
+    
+*   Cars Under $40,000  
+    
+*   Full-Size SUVs  
+    
+*   Mid-Size SUVs  
+    
+*   Full-Size Cars  
+    
+*   Mid-Size Cars  
+    
+*   SUVs With Third-Row Seating  
+    
+*   7-Passenger Vehicles  
+    
+*   4-Door Sedans  
+    
+*   2-Door Cars  
+    
+*   All-Wheel-Drive Vehicles  
     
 
+*   Cars for Teenagers  
+    
+*   Off-Road Vehicles  
+    
+*   Luxury Cars  
+    
+*   Family SUVs  
+    
+*   Search Inventory  
+    
 *   Prius Family  
     
 *   Customize Your Own Toyota  
@@ -403,7 +439,7 @@ Buy Toyota
 *   **Local Specials**  
     
 
-Check out our ADA Compliance Statement
+Accessibility
 
 Toyota is committed to accessibility, diversity, and inclusion for all of its guests. We believe everyone should be able to visit Toyota.com, use our mobile apps, and access our service easily. We welcome feedback. If you notice any content, feature or functionality of the Site that you believe is not fully accessible to people with disabilities, please contact us and provide a description of the specific feature you feel is not fully accessible or a suggestion for improvement. We take your input seriously and will consider all feedback received as we evaluate ways to accommodate our customers and continuously improve our overall accessibility polices.
 
@@ -1022,6 +1058,7 @@ Language
 Help
 
 *   Contact Us
+*   Accessibility
 *   FAQ
 
 *   Privacy Policy
@@ -1037,6 +1074,10 @@ Help
 *   MSRP excludes the Delivery, Processing and Handling Fee of $885 for Cars, $960 for Small/Medium Trucks (Sienna, RAV4 Gas, RAV4 Hybrid, Highlander Gas, Highlander Hybrid, 4Runner and Tacoma), $1,195 for Large SUVs (Sequoia, Land Cruiser), and $1,195 for Large Truck (Tundra). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. Actual dealer price will vary.
 *   2016 EPA-estimated city/highway mileage. Actual mileage will vary.  
     2017 EPA-estimated city/highway mileage. Actual mileage will vary.
+*   2017 EPA-estimated mileage. Actual mileage will vary.
+*   2017 EPA-estimated 19 city/27 highway/22 combined mpg for Sienna FWD. Actual mileage will vary.
+*   2017 EPA-estimated 54 city/50 highway/52 combined mpg for Prius. Actual mileage will vary.
+*   2017 EPA-estimated 43 city/39 highway/41 combined mpg for Prius _v_. Actual mileage will vary.
 *   2017 Prius Prime EPA-estimated combined mpg. Actual mpg will vary based on driving habits, weather, temperature and road/traffic conditions. For more information on mpg, please see www.fueleconomy.gov.
 *   2017 Prius Prime EPA-estimated combined MPGe. Actual MPGe will vary depending upon driving conditions, how you drive and maintain your vehicle, and other factors. Battery capacity will decrease with time and use. For more information, see www.fueleconomy.gov.
 *   2016 EPA-estimated 67 city/67 highway/67 combined MPGe for Mirai and 312-mile driving range. Actual mileage will vary. Range measurement pursuant to SAE J2601 standards (ambient temperature: 20°C. hydrogen tank pressure when fueled: 70 MPa). Fueling time varies with hydrogen fueling pressure and ambient temperature.
