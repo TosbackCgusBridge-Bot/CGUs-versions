@@ -22,7 +22,6 @@ Aéropostale
     *   Shirts
     *   Hoodies + Sweatshirts
     *   Long Sleeve
-    *   Sweaters
     *   Bodysuits
     *   Active Tops
     
@@ -47,6 +46,7 @@ Aéropostale
     *   Lounge
     *   Bras
     *   Undies
+    *   Swim
     *   Sleep
     *   Accessories
 *   Guys
@@ -81,12 +81,46 @@ Aéropostale
     *   SHOES
 *   Active
     
-    *   Live Love Dream
-    *   Tops
-    *   Bottoms
-    *   Intimates
-    *   Accessories
+    *   FEATURED
+    *   Black White &. Mesh Allover
+    *   Sundazed
+    *   Seamless
+    *   Active
+    *   Yoga
+    *   Lounge
+    *   Swim
     *   Sleep
+    *   Intimates
+    *   Clearance
+    
+    *   TOPS
+    *   Tanks
+    *   Bodysuits
+    *   Short Sleeve Tees
+    *   Hoodies &. Sweatshirts
+    *   Jackets &. Vests
+    *   Sleep Tops
+    
+    *   BOTTOMS
+    *   #BestBootyEver
+    *   Shorts
+    *   Leggings
+    *   Joggers &. Sweats
+    *   Bootcut
+    *   Sleep Bottoms
+    
+    *   UNDIES
+    *   Hipster
+    *   Boy Short
+    *   Brief
+    *   Bikini
+    *   Thong
+    *   Seamless
+    
+    *   BRAS
+    *   SWIM
+    *   ACCESSORIES
+    *   CLEARANCE
     
 *   TRENDING
 *   Clearance
