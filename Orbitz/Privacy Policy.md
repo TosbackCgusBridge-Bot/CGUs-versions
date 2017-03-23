@@ -1,8 +1,10 @@
-Skip to main content Cobranded header here Welcome to Orbitz.com **Continue to the U.S. site at Orbitz.com** close Booking travel on behalf of Done Join Rewards //a.travel-assets.com/globalcontrols-service/content/50fae4ba33b5a54335449a9efbee25cd17e27d34/ Search anything Search
+Skip to main content Cobranded header here Welcome to Orbitz.com **Continue to the U.S. site at Orbitz.com** close Booking travel on behalf of Done Join Rewards //a.travel-assets.com/globalcontrols-service/content/eb4efa5d24e878e25c07cb84e0f24f3c970b7056/ Search anything Search
 
 Show Menu
 
-*   *   or create a Travelocity Account
+*   *   Join Rewards
+    
+    *   or
     
 
 *   Shop Travel
@@ -22,7 +24,7 @@ Show Menu
         *   *   All caught up!  
                 No new notifications right now.
 *   Account
-    *   Sign In
+    *   Sign in to see exclusive Member Pricing.
     *   Create an Account
 *   Hello, 's Account
     *   My Account
@@ -39,7 +41,7 @@ Show Menu
     *   Feedback
 *   Español
 
-//a.travel-assets.com/globalcontrols-service/content/50fae4ba33b5a54335449a9efbee25cd17e27d34/ Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/eb4efa5d24e878e25c07cb84e0f24f3c970b7056/ Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Hotels
