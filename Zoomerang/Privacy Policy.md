@@ -26,7 +26,12 @@
 
 MetrixLab MetrixLab
 
-OUR MISSION IS TO CHANGE THE WAY MARKETING RESEARCH IS USED TO GENERATE INSIGHTS THAT IMPACT BUSINESS DECISIONS
+NEXT GENERATION DATA AND INSIGHTS THAT EMPOWER AND INSPIRE
+
+We are experts in digital, social, mobile and big data. And we pioneer new technologies and techniques to disrupt traditional research thinking. This enables us to provide high-quality insights at scale, at speed and for an unparalleled value.
+
+TRUSTED GLOBALLY IN OVER 90 COUNTRIES,  
+WE HELP WORLD-LEADING BRANDS TO WIN AT:
 
 Advertising &. Brand
 
@@ -46,25 +51,11 @@ Insights for Customer Acquisition, Experience, Value Management and Retention
 
 Customer Value
 
-POWERED BY UNIQUE ANALYTICS AND CONSUMER INSIGHTS
+We are changing research. Join the MetrixLab revolution.
 
-We leverage data from any source, anywhere and at any time and apply our proprietary technologies to deliver solutions that extend market research into new areas of marketing insight.
+_“What really struck us about MetrixLab was their hunger and passion for what they do and how they can make a difference to our business…Critically, because they are so digitally literate, we’re getting high quality research in extra-quick time.”_
 
-1 Data We source market research data from surveys, social media, enterprise systems, mobile, public sources, GPS/geo location and other applicable repositories.
-
-2 Technology  Self-developed technologies for data collection and integration include our global audience platform, passive metering, dashboarding and/or our big data ecosystem.
-
-3 Solutions We combine data and technology to generate marketing analytics and consumer insight through best-in-class solutions in Innovation, Brand Engagement and Customer Value.
-
-OUR GLOBAL TEAM OF EXPERTS IS EXCITED TO HELP YOU
-
-MetrixLab, a Macromill Group company has conducted analytics and consumer insight projects in more than 90 countries worldwide.
-
-Get in touch!
-
-Select CountryAnguillaAntigua &. BarbudaArgentinaArmeniaAustraliaBahrainBarbadosBelgiumBelizeBermudaBoliviaBotswanaBrasilBritish Virgin IslandsBulgariaCamerounCanadaCayman IslandsČeská republikaChileChinaColombiaCosta RicaCôte d'IvoireDanmarkDeutschlandDominicaEcuadorEestiEgyptEl SalvadorEspañaFranceGreeceGrenadaGuatemalaGuinea-BissauGuinéeGuinée EquatorialeGuyanaHondurasHong KongHrvatskaIndiaIndonesiaIrelandIsraelItaliaJamaicaJapanJordanKenyaKoreaKuwaitLatvijaLiechtensteinLietuvaLuxembourgMacedoniaMadagascarMagyarországMalaysiaMaliMaltaMarocMauriceMéxicoMoldovaMontenegroMontserratMozambiqueNederlandNew ZealandNicaraguaNigerNigeriaNorgeOmanÖsterreichPanamáParaguayPerúPhilippinesPolskaPortugalPuerto RicoQatarRepública DominicanaRépublique CentrafricaineRomâniaRussiaSaudi ArabiaSchweizSénégalSingaporeSloveniaSlovenskoSouth AfricaSt. Kitts &. NevisSt. LuciaSt. Vincent &. The GrenadinesSuisseSuomiSurinameSverigeTaiwainThailandThe BahamasTrinidad &. TobagoTunisieTürkiyeTurks &. CaicosUgandaUnited KingdomUnited Arab EmiratesUnited StatesUruguayVenezuelaVietnam
-
-  
+MetrixLab is part of the Macromill Group.
 
 *   Solutions
     *   Product Innovation
@@ -78,6 +69,7 @@ Select CountryAnguillaAntigua &. BarbudaArgentinaArmeniaAustraliaBahrainBarbados
     *   About us
     *   Mission, Vision, Values
 
+*   Macromill Group
 *   Contact
 
 Follow us on:
