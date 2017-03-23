@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Do People Really Lose Body Parts by Sticking Them Out of a Car Window?**
+**What's a Tall Fashionista to Do?**
 
-**Why Americans Are Having Less Sex Than Ever**
+**Extra 3-D Printed Cheese, Please**
 
-**Seeing Food May Have Lured Fish Onto Land**
+**The Singularity by 2045, Plus 6 Other Ray Kurzweil Predictions**
 
 **See More Headlines »**
 
