@@ -1,18 +1,22 @@
-skip to content skip to navigation skip to search
+skip to content skip to navigation skip to search Lands' End SIGN IN MY ACCOUNT
 
-*   Lands' End
-*   Lands' End Canvas
-*   Lands' End Sport
-*   Lighthouse by Lands' End
+*   Stores
+*   Gift Cards
 *   Business Outfitters
 
-*   Lands' End
-*   Lands' End Canvas
-*   Lands' End Sport
-*   Lighthouse by Lands' End
-*   Business Outfitters
+*   Free Shipping on $50+ Orders
 
-*   My Account
+*   Call or Text 1-800-963-4816
+*   Ship To
+*   Help
+    *   Contact Us
+    *   Track My Order
+    *   Make a Return
+    *   FAQ
+    *   Chat
+
+*   Hi, Sign in  
+    **My Account**
     *   Sign In
     *   Create an Account
     
@@ -24,29 +28,9 @@ skip to content skip to navigation skip to search
     *   Sign Out
 *   Bag 0
 
-Call or text us 1-800-963-4816
+menu 0 FREE SHIPPING ON $50+
 
-*   Stores
-*   Gift Cards
-*   Help
-    *   Contact Us
-    *   Track My Order
-    *   Make a Return
-    *   FAQ
-    *   Live Chat
-*   Ship To
-
-menu 0
-
-*   Women
-    
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    FEATURED SHOPS
+*   Women FEATURED SHOPS
     
     *   New Arrivals
     *   Best of Spring
@@ -67,6 +51,7 @@ menu 0
     *   Tall Plus
     
     CATEGORIES
+    
     *   Swimsuits
     *   Sweaters
     *   Knit Tops &. Tees
@@ -84,15 +69,12 @@ menu 0
     *   Accessories
     *   Bags
     *   Long Underwear
-*   Men
     
+    BRANDS
     *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    FEATURED SHOPS
+    *   Lands' End Canvas
+    *   Lands' End Sport
+*   Men FEATURED SHOPS
     
     *   New Arrivals
     *   No Iron Shop
@@ -109,6 +91,7 @@ menu 0
     *   Big &. Tall
     
     CATEGORIES
+    
     *   Swimwear
     *   Dress Shirts
     *   Casual Shirts
@@ -127,15 +110,12 @@ menu 0
     *   Underwear &. Long Underwear
     *   Shoes
     *   Bags
-*   Kids
     
+    BRANDS
     *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    FEATURED SHOPS
+    *   Lands' End Canvas
+    *   Lands' End Sport
+*   Kids FEATURED SHOPS
     
     *   New Arrivals
     *   Backpacks &. Lunch Boxes
@@ -172,7 +152,6 @@ menu 0
     *   Backpacks &. Lunch Boxes
     *   Shoes
     *   Accessories
-    *   Long Underwear
     
     Boys>.
     *   Swimwear
@@ -188,16 +167,7 @@ menu 0
     *   Activewear
     *   Shoes
     *   Accessories
-    *   Long Underwear
-*   Swim
-    
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    SHOP SWIM
+*   Swim SHOP SWIM
     
     *   Women
     *   Men
@@ -214,15 +184,7 @@ menu 0
     *   Totes &. Beach Bags
     *   Beach Towels
     *   Sale
-*   Shoes
-    
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    SHOP SHOES
+*   Shoes SHOP SHOES
     
     *   Women
     *   Men
@@ -236,15 +198,7 @@ menu 0
     *   Water Shoes &. Sandals
     *   Accessories &. Bags
     *   Sale
-*   Sale
-    
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    SHOP SALE
+*   Sale SHOP SALE
     
     *   Women
     *   Men
@@ -255,16 +209,7 @@ menu 0
     
     FEATURED SHOPS
     *   On The Counter
-
-*   School
-    
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    FIND YOUR SCHOOL>. FEATURED SHOPS
+*   School FIND YOUR SCHOOL>. FEATURED SHOPS
     
     *   Best-in-Class Polos
     *   Iron Knee Pants
@@ -309,15 +254,7 @@ menu 0
     *   Shoes
     *   Accessories
     *   Backpacks &. Bags
-*   Home
-    
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    FEATURED SHOPS
+*   Home FEATURED SHOPS
     
     *   New Arrivals
     *   Supima Bedding &. Bath
@@ -358,48 +295,32 @@ menu 0
     *   Sleeping Bags
     *   Baby BlanketsDOG SHOP >. SEASONAL DECOR >. ENTERTAINING >.
 
-*   Lands' End
-*   Lands' End Canvas
-*   Lands' End Sport
-*   Lighthouse by Lands' End
-*   Business Outfitters
-
-*   My Account
-*   Help
-*   Stores
-*   Gift Cards
-*   Ship To 
-*   Call or text us 1-800-963-4816
-
 *   Women
-    
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    Back | Women FEATURED SHOPS Back | Women
-    
-    *   New Arrivals
-    *   Best of Spring
-    *   The Starfish Collection
-    *   Supima® Cotton Collection
-    *   Tunic Shop
-    *   5 Must Have Dresses
-    *   Looks We ♥
-    *   Sale
-    
-    SHOP BY SIZE RANGE Back | Women
-    
-    *   Regular
-    *   Petite
-    *   Tall
-    *   Plus
-    *   Petite Plus
-    *   Tall Plus
-    
-    CATEGORIES Back | CATEGORIES
+    *   Back
+    *   Shop all Women
+    *   FEATURED SHOPS
+        *   Back
+        *   New Arrivals
+        *   Best of Spring
+        *   The Starfish Collection
+        *   Supima® Cotton Collection
+        *   Tunic Shop
+        *   5 Must Have Dresses
+        *   Looks We ♥
+        *   Sale
+    *   SHOP BY SIZE RANGE
+        *   Back
+        *   Regular
+        *   Petite
+        *   Tall
+        *   Plus
+        *   Petite Plus
+        *   Tall Plus
+    *   BRANDS
+        *   Back
+        *   Lands' End
+        *   Lands' End Canvas
+        *   Lands' End Sport
     *   Swimsuits
     *   Sweaters
     *   Knit Tops &. Tees
@@ -418,30 +339,27 @@ menu 0
     *   Bags
     *   Long Underwear
 *   Men
-    
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    Back | Men FEATURED SHOPS Back | Men
-    
-    *   New Arrivals
-    *   No Iron Shop
-    *   Supima Shirts &. Sweaters
-    *   How to Dress this Spring
-    *   Swim Shop
-    *   Occasion Dressing
-    *   Sale
-    
-    SHOP BY SIZE RANGE Back | Men
-    
-    *   Regular
-    *   Tall
-    *   Big &. Tall
-    
-    CATEGORIES Back | CATEGORIES
+    *   Back
+    *   Shop all Men
+    *   FEATURED SHOPS
+        *   Back
+        *   New Arrivals
+        *   No Iron Shop
+        *   Supima Shirts &. Sweaters
+        *   How to Dress this Spring
+        *   Swim Shop
+        *   Occasion Dressing
+        *   Sale
+    *   SHOP BY SIZE RANGE
+        *   Back
+        *   Regular
+        *   Tall
+        *   Big &. Tall
+    *   BRANDS
+        *   Back
+        *   Lands' End
+        *   Lands' End Canvas
+        *   Lands' End Sport
     *   Swimwear
     *   Dress Shirts
     *   Casual Shirts
@@ -461,234 +379,215 @@ menu 0
     *   Shoes
     *   Bags
 *   Kids
-    
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    Back | Kids FEATURED SHOPS Back | Kids
-    
-    *   New Arrivals
-    *   Backpacks &. Lunch Boxes
-    *   Toddler Shop
-    *   Spring Break Must Haves
-    *   Swim Shop
-    *   School Uniforms
-    *   Iron Knee Pants
-    *   Girls' Knit Kit
-    *   Sale
-    
-    SHOP BY AGE RANGE Back | Kids
-    
-    *   Toddler Girl (2T-4T)
-    *   Little Girl (size 4-7)
-    *   Big Girl (size 7-20)
-    *   Toddler Boy (2T-4T)
-    *   Little Boy (size 4-7)
-    *   Big Boy (size 7-20)
-    
-    Girls Back | Girls
-    
-    *   Swimsuits
-    *   Outerwear
-    *   Tops
-    *   Sweaters
-    *   Dresses
-    *   Pants &. Leggings
-    *   Jeans
-    *   Skirts &. Skorts
-    *   Sleepwear
-    *   Shorts
-    *   Blazers &. Jackets
-    *   Backpacks &. Lunch Boxes
-    *   Shoes
-    *   Accessories
-    *   Long Underwear
-    
-    Boys Back | Boys
-    *   Swimwear
-    *   Outerwear
-    *   Tops
-    *   Sweaters
-    *   Pants
-    *   Jeans
-    *   Sleepwear
-    *   Shorts
-    *   Blazers &. Jackets
-    *   Backpacks &. Lunch Boxes
-    *   Activewear
-    *   Shoes
-    *   Accessories
-    *   Long Underwear
+    *   Back
+    *   Shop all Kids
+    *   FEATURED SHOPS
+        *   Back
+        *   New Arrivals
+        *   Backpacks &. Lunch Boxes
+        *   Toddler Shop
+        *   Spring Break Must Haves
+        *   Swim Shop
+        *   School Uniforms
+        *   Iron Knee Pants
+        *   Girls' Knit Kit
+        *   Sale
+    *   SHOP BY AGE RANGE
+        *   Back
+        *   Toddler Girl (2T-4T)
+        *   Little Girl (size 4-7)
+        *   Big Girl (size 7-20)
+        *   Toddler Boy (2T-4T)
+        *   Little Boy (size 4-7)
+        *   Big Boy (size 7-20)
+    *   Girls
+        *   Back
+        *   Swimsuits
+        *   Outerwear
+        *   Tops
+        *   Sweaters
+        *   Dresses
+        *   Pants &. Leggings
+        *   Jeans
+        *   Skirts &. Skorts
+        *   Sleepwear
+        *   Shorts
+        *   Blazers &. Jackets
+        *   Backpacks &. Lunch Boxes
+        *   Shoes
+        *   Accessories
+    *   Boys
+        *   Back
+        *   Swimwear
+        *   Outerwear
+        *   Tops
+        *   Sweaters
+        *   Pants
+        *   Jeans
+        *   Sleepwear
+        *   Shorts
+        *   Blazers &. Jackets
+        *   Backpacks &. Lunch Boxes
+        *   Activewear
+        *   Shoes
+        *   Accessories
 *   Swim
-    
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    Back | Swim SHOP SWIM Back | SHOP SWIM
-    
+    *   Back
+    *   Shop all Swim
+    *   FEATURED SHOPS
+        *   Back
+        *   Women's Swim Finder
+        *   Mix &. Match Tool
+        *   Sea &. Sky Collection
+        *   Little Black Suit
+        *   Swim Tees &. Rash Guards
+        *   Water Shoes &. Sandals
+        *   Totes &. Beach Bags
+        *   Beach Towels
+        *   Sale
     *   Women
     *   Men
     *   Girls
     *   Boys
-    
-    FEATURED SHOPS Back | Swim
-    *   Women's Swim Finder
-    *   Mix &. Match Tool
-    *   Sea &. Sky Collection
-    *   Little Black Suit
-    *   Swim Tees &. Rash Guards
-    *   Water Shoes &. Sandals
-    *   Totes &. Beach Bags
-    *   Beach Towels
-    *   Sale
 *   Shoes
-    
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    Back | Shoes SHOP SHOES Back | SHOP SHOES
-    
+    *   Back
+    *   Shop all Shoes
+    *   FEATURED SHOPS
+        *   Back
+        *   New Arrivals
+        *   Sandals For The Family
+        *   Sock Shop
+        *   Water Shoes &. Sandals
+        *   Accessories &. Bags
+        *   Sale
     *   Women
     *   Men
     *   Girls
     *   Boys
-    
-    FEATURED SHOPS Back | Shoes
-    *   New Arrivals
-    *   Sandals For The Family
-    *   Sock Shop
-    *   Water Shoes &. Sandals
-    *   Accessories &. Bags
-    *   Sale
 *   Sale
-    
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    Back | Sale SHOP SALE Back | SHOP SALE
-    
+    *   Back
+    *   Shop all Sale
+    *   FEATURED SHOPS
+        *   Back
+        *   On The Counter
     *   Women
     *   Men
     *   Girls
     *   Boys
     *   Home
     *   School Uniforms
-    
-    FEATURED SHOPS Back | Sale
-    *   On The Counter
 *   School
-    
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    Back | School FIND YOUR SCHOOL Back | FIND YOUR SCHOOL FEATURED SHOPS Back | School
-    
-    *   Best-in-Class Polos
-    *   Iron Knee Pants
-    *   Best Dressed
-    *   Backpacks &. Lunch Boxes
-    *   Spiritwear
-    *   After School
-    *   Sale
-    
-    SHOP BY AGE RANGE Back | School
-    
-    *   Toddler
-    *   Little Kid
-    *   Big Kid
-    *   Junior
-    *   Young Men
-    *   Adult
-    
-    Girls &. Women Back | Girls &. Women
-    
-    *   Tops
-    *   Sweaters
-    *   Pants
-    *   Shorts
-    *   Dresses &. Jumpers
-    *   Skirts &. Skorts
-    *   Blazers
-    *   Activewear
-    *   Outerwear
-    *   Shoes
-    *   Accessories
-    *   Backpacks &. Bags
-    
-    Boys &. Men Back | Boys &. Men
-    *   Tops
-    *   Sweaters
-    *   Pants
-    *   Shorts
-    *   Blazers
-    *   Activewear
-    *   Outerwear
-    *   Shoes
-    *   Accessories
-    *   Backpacks &. Bags
+    *   Back
+    *   Shop all School
+    *   FIND YOUR SCHOOL
+    *   FEATURED SHOPS
+        *   Back
+        *   Best-in-Class Polos
+        *   Iron Knee Pants
+        *   Best Dressed
+        *   Backpacks &. Lunch Boxes
+        *   Spiritwear
+        *   After School
+        *   Sale
+    *   SHOP BY AGE RANGE
+        *   Back
+        *   Toddler
+        *   Little Kid
+        *   Big Kid
+        *   Junior
+        *   Young Men
+        *   Adult
+    *   Girls &. Women
+        *   Back
+        *   Tops
+        *   Sweaters
+        *   Pants
+        *   Shorts
+        *   Dresses &. Jumpers
+        *   Skirts &. Skorts
+        *   Blazers
+        *   Activewear
+        *   Outerwear
+        *   Shoes
+        *   Accessories
+        *   Backpacks &. Bags
+    *   Boys &. Men
+        *   Back
+        *   Tops
+        *   Sweaters
+        *   Pants
+        *   Shorts
+        *   Blazers
+        *   Activewear
+        *   Outerwear
+        *   Shoes
+        *   Accessories
+        *   Backpacks &. Bags
 *   Home
-    
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Lands' End
-    *   Business Outfitters
-    
-    Back | Home FEATURED SHOPS Back | Home
-    
-    *   New Arrivals
-    *   Supima Bedding &. Bath
-    *   Flannel Bedding
-    *   No Iron Bedding
-    *   Bedding Basics
-    *   Sale
-    
-    More for the Home Back | More for the Home
-    
-    *   Storage &. Organization
-    *   Door Mats
-    *   Luggage &. Bags
-    *   Canvas Totes
-    
-    BEDDING Back | BEDDING
-    
-    *   Sheets &. Pillowcases
-    *   Duvet Covers &. Coverlets
-    *   Comforters
-    *   Blankets &. Throws
-    *   Mattress Pads
-    *   Pillows
-    *   Decorative Pillows
-    
-    BATH Back | BATH
-    
-    *   Towels
-    *   Rugs &. Mats
-    *   Beach Towels
-    *   Shower Curtains
-    
-    KIDS ROOM Back | KIDS ROOM
-    *   Kids Bedding
-    *   Seasonal Totes
-    *   Toys &. Gifts
-    *   Bean Bag Chairs
-    *   Sleeping Bags
-    *   Baby BlanketsDOG SHOP Back | DOG SHOP SEASONAL DECOR Back | SEASONAL DECOR ENTERTAINING Back | ENTERTAINING
+    *   Back
+    *   Shop all Home
+    *   FEATURED SHOPS
+        *   Back
+        *   New Arrivals
+        *   Supima Bedding &. Bath
+        *   Flannel Bedding
+        *   No Iron Bedding
+        *   Bedding Basics
+        *   Sale
+    *   More for the Home
+        *   Back
+        *   Storage &. Organization
+        *   Door Mats
+        *   Luggage &. Bags
+        *   Canvas Totes
+    *   BEDDING
+        *   Back
+        *   Sheets &. Pillowcases
+        *   Duvet Covers &. Coverlets
+        *   Comforters
+        *   Blankets &. Throws
+        *   Mattress Pads
+        *   Pillows
+        *   Decorative Pillows
+    *   BATH
+        *   Back
+        *   Towels
+        *   Rugs &. Mats
+        *   Beach Towels
+        *   Shower Curtains
+    *   KIDS ROOM
+        *   Back
+        *   Kids Bedding
+        *   Seasonal Totes
+        *   Toys &. Gifts
+        *   Bean Bag Chairs
+        *   Sleeping Bags
+        *   Baby Blankets
+    *   DOG SHOP
+    *   SEASONAL DECOR
+    *   ENTERTAINING
+*   Hi, Sign in My Account
+    *   Back
+    *   Sign In
+    *   Create an Account
+    *   Manage Account
+    *   Edit Order
+    *   Order History
+    *   Refer a Friend
+    *   Email Sign Up
+    *   Sign Out
+*   Contact us Call Text Chat Email
+*   Track My Order
+*   Stores
+*   Gift Cards
+*   Ship To 
+*   Help
+    *   Back
+    *   Contact Us
+    *   Track My Order
+    *   Make a Return
+    *   FAQ
+    *   Chat
 
 Customer Service Menu
 
@@ -879,7 +778,7 @@ Addendum to Privacy Policy Page Text Message Terms of Use
 
 sign up **Get exclusive Offers and News** Privacy Policy &. Contact Info sign up
 
-No purchase necessary. Automated marketing messages will be sent to the phone number provided. Msg &. data rates may apply. Up to 8 messages per month. Privacy Policy
+U.S. Customers only. No purchase necessary. Automated marketing messages will be sent to the phone number provided. Msg &. data rates may apply. Up to 8 messages per month. Privacy Policy
 
 Customer Service
 
@@ -901,14 +800,7 @@ Company
 *   Sustainability
 *   Investor Relations
 *   Newsroom
-
-Our Brands
-
-*   Lands' End
-*   Lands' End Canvas
-*   Lands' End Sport
-*   Lighthouse by Lands' End
-*   Business Outfitters
+*   Lands' End Business
 *   International Sites
 
 Services
@@ -916,6 +808,7 @@ Services
 *   Gift Cards
 *   Monogramming &. Embroidery
 *   Shop Your Way Rewards
+*   Circle Membership Terms
 *   Shop Catalogs
 *   Catalog Requests
 *   Refer a Friend
