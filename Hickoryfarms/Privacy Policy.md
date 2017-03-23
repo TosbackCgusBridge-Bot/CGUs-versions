@@ -10,11 +10,12 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Spring Favorites
+    Holidays &. Occasions*   Easter
+    *   Spring Favorites
+    *   Birthday Gifts
     *   Weddings &. Showers
     *   Gifts for Her
     *   Gifts for Him
-    *   Birthday Gifts
     
     By Price*   $30 &. Under
     *   $40 &. Under
@@ -84,11 +85,12 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Spring Favorites
+    Holidays &. Occasions*   Easter
+    *   Spring Favorites
+    *   Birthday Gifts
     *   Weddings &. Showers
     *   Gifts for Her
     *   Gifts for Him
-    *   Birthday Gifts
     
     By Price*   $30 &. Under
     *   $40 &. Under
