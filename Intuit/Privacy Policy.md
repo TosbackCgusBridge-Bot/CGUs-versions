@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true C15839316928
+true true C15842175830
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p11.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Tue Mar 21 11:15:39 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.3.1.0.6.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p17.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Wed Mar 22 11:15:31 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.3.1.0.6.0
 
 *   for the home
 *   bed &. bath
@@ -56,19 +56,15 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 true
 
-40-50% Off Xersion For The Family
+30-50% Off Dress Up For The Family
 
-Select styles, reg. $14-$18
+Select styles, reg. $30-$275
 
-Men   Women   Boys Girls 19.99 Nike Sandals For The Family
+Women's Dresses   Men's Suits &. Sport Coats   Girls' Dresses Boys' Dress Clothes Shoes Billion Dollar Jewelry Sale 40-60% Off Fine and Fashion Jewelry
 
-Select styles, msrp $22-$26, Nike excluded from coupon.
+Final Days! Ends March 26 | Select Styles
 
-Shop Nike Sandals For The Family Home Sale Up to 60% Off
-
-Select styles.
-
-Shop All Home Bedding Window Kitchen &. Dining Furniture &. Mattresses Home Decor 2017 Prom 40% Off Prom Dresses
+Shop Fine and Fashion Jewelry Shop Modern Bride 2017 Prom 60% Off Prom Dresses
 
 Select styles, reg. $100-$250
 
@@ -82,7 +78,7 @@ Select styles, reg. $32-$104
 
 Shop Women's Swim40% Off Men's &. Kids' Swim
 
-Shop Girls Swim   Shop Boys Swim   Shop Men's Swim   \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Mar 21 11:59:10 CDT 2017 JVM :->. dtexppr1c1j1\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Mar 21 22:57:29 CDT 2017 JVM :->. dtexppr1c1j1\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Girls Swim   Shop Boys Swim   Shop Men's Swim   \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Mar 22 22:24:32 CDT 2017 JVM :->. dtexppr1c1j3\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Mar 22 07:00:15 CDT 2017 JVM :->. dtexppr1c1j4\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
