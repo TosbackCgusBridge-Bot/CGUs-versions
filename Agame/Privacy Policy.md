@@ -224,11 +224,11 @@ View more results
 *   Hot Games
     
     *   Troll Face Quest TV Shows
-    *   Runes of the Ancient Forest
-    *   Roblox
-    *   Magoia
-    *   Bullet Force Multiplayer
-    *   Princesses Fashion Brands Favorite
+    *   Bubble Shooter
+    *   Treasure Master
+    *   Candy Mahjong
+    *   Goldie Princess: Skin Doctor
+    *   Dogar.io
     
     Mobile Apps More
     
