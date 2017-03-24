@@ -10,6 +10,7 @@ La société REDOUTE, en tant que Responsable de traitement,  s’engage à res
 
 Dans les formulaires de collecte de données à caractère personnel sur le site, l’Utilisateur est notamment informé : de l’identité du responsable de traitement, de ses droits sur les données à caractère personnel, des destinataires, de la finalité du traitement et du caractère obligatoire ou facultatif de ses réponses.
 
+  
 SOMMAIRE
 
 _1._       QUI COLLECTE LES DONNEES A CARACTERE PERSONNEL ?  
@@ -43,19 +44,19 @@ _13._        QU’EST-CE QUE LE DÉLÉGUÉ A LA PROTECTION DES DONNEES DE
 _13.1._        QUELLES SONT SES MISSIONS ?  
 _13.2._        COMMENT CONTACTER LE CORRESPONDANT INFORMATIQUE ET LIBERTES ?
 
-  QUI COLLECTE LES DONNEES A CARACTERE PERSONNEL ?
+QUI COLLECTE LES DONNEES A CARACTERE PERSONNEL ?
 
 Le responsable du traitement mis en œuvre sur le site redoute.fr et les applications mobiles est :
 
 La Redoute, Société par Actions Simplifié au capital de 353 490 250 Euros, immatriculée au Registre du Commerce et des Sociétés de Lille-Métropole sous le numéro 477 180 186 dont le siège social est situé au 110 rue de Blanchemaille à Roubaix (59100).
 
+  
 QUELLES SONT LES FINALITES DE LA COLLECTE DE VOS DONNEES PERSONNELLES ?
 
 La société Redoute est amenée à collecter et à enregistrer des données à caractère personnel de ses Utilisateurs pour effectuer les traitements suivants :
 
 *   Gestion du compte client, du panier d’achat et des commandes
 *   Gestion des livraisons, du suivi de commande et du service après-vente
-
 *   Mise à disposition d’un service client accessible par téléphone ou par messagerie instantanée de type tchat. Les échanges entre le service client et le client peuvent être enregistrés à des fins d’amélioration du service.. …).
 *   Mise à disposition d’outils de partage sur les réseaux sociaux
 *   Envoi d’offres commerciales ciblées par email, par notifications mobiles, sur les réseaux sociaux ou tout autre support.
@@ -65,12 +66,13 @@ La société Redoute est amenée à collecter et à enregistrer des données à 
 *   Lutte contre la fraude lors du paiement de la commande
 *   Mesure de fréquentation des sites (mobile et desktop) et applications mobiles
 *   Mise en place de jeux concours et publicitaires
-*   Partage d’informations avec des partenaires commerciaux
+*   Partage d’informations avec des partenaires commerciaux  
 
 A l’exception des opérations de prospection commericale, la Redoute considère que l’ensemble des traitements ci-dessus sont nécessaire à l’exécution du contrat passé entre un Client et la Redoute.
 
 Les opérations de prospection commerciale reposent sur le consentement de la personne concernée au traitement de ses données. La personne concernée à la faculté de retirer son consentement en effectuant une demande en cliquant ici.
 
+  
 A QUI VOS DONNEES SONT ELLES TRANSMISES ?
 
 Vos données sont transmises à des partenaires de La Redoute qui peuvent traiter les données pour leur compte (ce sont des destinataires) ou uniquement pour le compte et selon les instructions de La Redoute (ce sont des sous-traitants).
@@ -93,6 +95,7 @@ La Redoute fait également appel à des sous-traitants pour les opérations suiv
 *   La réalisation d’opérations de maintenance et de développement techniques du site internet
 *   Le recueil des avis clients
 
+  
 QUELS SONT MES DROITS ET COMMENT LES EXERCER AUPRES DE LA REDOUTE ?
 
 Toute personne physique utilisant le service a la faculté d’exercer ses droits d’accès, de rectification, d’opposition et d’effacement  au traitement de ses données conformément aux articles 38 à 40 de la loi du 6 janvier 1978.
@@ -111,17 +114,19 @@ La société Redoute adresse une réponse dans un délai de 2 mois après l’ex
 
 En cas de réponse non satisfaisante, la personne concernée à la faculté de saisir la CNIL.
 
-QUEL EST LE SORT DE MES DONNEES APRES MON DECES ?
+  
+QUEL EST LE SORT DE MES DONNEES APRES MON DECES ? 
 
 L’Utilisateur peut formuler des directives relatives à la conservation, à l'effacement et à la communication de ses données à caractère personnel après son décès conformément à l’article 40-1 de la loi 78-17 du 6 janvier 1978. Ces directives peuvent être générales ou particulières.
 
 L’Utilisateur peut formuler ses directives anticipées   en cliquant ici.
 
-MES DONNEES SONT ELLE ENVOYEES HORS DE L’UE ?
+  
+MES DONNEES SONT ELLE ENVOYEES HORS DE L’UE ? 
 
 Vous êtes informé que des données à caractère personnel vous concernant peuvent être transmises pour les besoins des finalités définies ci-dessus à des sociétés situées dans des pays hors de l’Union Européenne et ne présentant pas un niveau de protection adéquat en ce qui concerne la protection des données personnelles.
 
-Préalablement au transfert hors Union Européenne, et conformément à la règlementation en vigueur,La Redoute mets en œuvre toutes les procédures requises pour obtenir les garanties nécessaires à la sécurisation de tels transferts.
+Préalablement au transfert hors Union Européenne, et conformément à la règlementation en vigueur,La Redoute met en œuvre toutes les procédures requises pour obtenir les garanties nécessaires à la sécurisation de tels transferts.
 
 Des transferts hors Union Européenne peuvent être réalisés notamment dans le cadre des activités suivantes :
 
@@ -131,7 +136,8 @@ Des transferts hors Union Européenne peuvent être réalisés notamment dans le
 
 Afin de satisfaire aux exigences de l’article 91 du décret 2005-1309, et dans un souci d’exhaustivité, l’Utilisateur a la possibilité de contacter La Redoute pour avoir les informations les plus à jour sur les transferts de données  en cliquant ici..
 
-COMBIEN DE TEMPS MES DONNEES SONT-ELLES CONSERVEES ?
+  
+COMBIEN DE TEMPS MES DONNEES SONT-ELLES CONSERVEES ? 
 
 La Redoute a déterminé des règles précises concernant la durée de conservation des données à caractère personnel des Utilisateurs.
 
@@ -144,9 +150,8 @@ Concernant les prospects, le point de départ de la durée de conservation const
 Concernant les clients, le point de départ de la durée de conservation constitue le dernier achat de celui-ci chez la Redoute. La durée de conservation des données d’un client sera différente selon que ce dernier adhère ou non à un programme de fidélité.  
 Pour plus d’informations sur les durées de conservation appliquées par la Redoute, en cliquant ici.
 
-QUELLES MESURES DE SECURITE SONT PRISES POUR PROTEGER MES DONNEES ?
-
-Règles générales
+  
+QUELLES MESURES DE SECURITE SONT PRISES POUR PROTEGER MES DONNEES ?  Règles générales
 
 En tant que responsable de traitement, la société Redoute, prend toutes les précautions utiles pour préserver la sécurité et la confidentialité des données et notamment, empêcher qu’elles soient déformées, endommagées, ou que des tiers non autorisés y aient accès.
 
@@ -164,6 +169,7 @@ Lutte contre la fraude sur internet
 
  Afin de sécuriser les paiements et les livraisons et vous assurer une qualité de service optimale, les données personnelles collectées sur le site sont également traitées par La Redoute pour déterminer le niveau de risque de fraude associé à chaque commande et, le cas échéant, aider à moduler les conditions d’exécution de celle-ci. La Redoute a obtenu une autorisation n°1754559 de la CNIL pour mettre en œuvre ce traitement.
 
+  
 QUE FAUT-IL SAVOIR DES DONNEES COLLECTEES PAR LES RÉSEAUX SOCIAUX ?
 
 La Redoute vous propose de recourir aux réseaux sociaux pour améliorer la relation commerciale et vous proposer des offres publicitaires ciblées sur ces réseaux.
@@ -176,9 +182,8 @@ La Redoute vous invite à consulter les politiques de gestion des données perso
 
 Si vous ne souhaitez pas que les réseaux sociaux collectent des informations vous concernant lors de la navigation sur le site de La Redoute, nous vous conseillons de vous déconnecter de ceux-ci avant de consulter le site ou l’application La Redoute
 
-VAIS-JE RECEVOIR DES SOLLICITATIONS COMMERCIALES ?
-
-Principes applicables à La Redoute
+  
+VAIS-JE RECEVOIR DES SOLLICITATIONS COMMERCIALES ?  Principes applicables à La Redoute
 
 La Redoute utilise vos coordonnées pour vous adresser des publicités ciblées notamment par email, courrier postal, sms ou notification mobile.
 
@@ -225,17 +230,20 @@ Prospection commerciale par téléphone
 
 La Redoute a la possibilité de vous contacter par téléphone pour vous proposer des offres sur des produits ou services. Si vous ne souhaitez pas être sollicité, vous avez la possibilité de vous inscrire sur la liste d’opposition au démarchage téléphonique accessible sur le site www.bloctel.gouv.fr
 
-EST-CE QUE REDOUTE UTILISE DES COOKIES, TAGS ET TRACEURS
+  
+EST-CE QUE REDOUTE UTILISE DES COOKIES, TAGS ET TRACEURS 
 
 Lors de l’utilisation de notre Service, des informations relatives à la navigation de votre terminal (ordinateur, tablette, smartphone, etc.), sont susceptibles d'être enregistrées dans des fichiers "Cookies" déposés sur votre terminal, sous réserve des choix que vous auriez exprimés concernant les Cookies et que vous pouvez modifier à tout moment.
 
-QU’EST-CE QU’UN COOKIE ?
+  
+QU’EST-CE QU’UN COOKIE ? 
 
 Le terme cookie englobe plusieurs technologies permettant d’opérer un suivi de navigation ou une analyse comportementale de l’internaute. Ces technologies sont multiples et en constante évolution. Il existe notamment, les cookies, tag, pixel, code Javascript.
 
 Le cookie http qui est actuellement la technologie la plus utilisée, est un petit fichier texte enregistré par le navigateur de votre ordinateur, tablette ou smartphone et qui permet de conserver des données utilisateur afin de faciliter la navigation et de permettre certaines fonctionnalités.
 
-POUR QUELLES RAISONS DES COOKIES, TAGS ET TRACEURS SONT UTILISES ?
+  
+POUR QUELLES RAISONS DES COOKIES, TAGS ET TRACEURS SONT UTILISES ? 
 
 Les Cookies que la Redoute émet sur le site et l’application mobile nous permettent :  
 \- d'établir des statistiques et volumes de fréquentation et d'utilisation des diverses éléments composant nos services. A ce titre, nous avons recours à des cookies de mesure d’audience.  
@@ -247,6 +255,7 @@ Les Cookies que la Redoute émet sur le site et l’application mobile nous perm
 \- partager des informations avec des annonceurs sur d’autres sites internet pour vos proposer des annonces publicitaires pertinentes et en adéquation avec vos centres d’intérêts. A ce titre, nous avons recours à des cookies publicitaires.  
 \- partager des informations sur les réseaux sociaux. A ce titre, nous avons recours à des cookies permettant de partager sur ces réseaux.
 
+  
 COMMENT PARAMETRER LE DEPOT DES COOKIES, TAGS ET TRACEURS ?
 
 Conformément à l’article 32II de la loi 78-17, la société Redoute recueille votre consentement préalable au dépôt des cookies publicitaires, de mesure d’audience et de partage vers les réseaux sociaux.
@@ -277,7 +286,7 @@ Afin de se conformer à la règlementation, la Redoute utilise un outil permetta
 
 Pour configurer le dépôt des cookies,
 
-Refus des cookies directement sur le site de l’éditeur
+Refus des cookies directement sur le site de l’éditeur 
 
 Certains éditeurs de cookie déposés sur le site www.laredoute.fr propose aux Utilisateurs de paramètrer le dépôt du cookie qu’ils proposent.
 
@@ -292,8 +301,7 @@ Seules deux types de données secondaires (c’est-à-dire des données dont on 
 
 Pour paramètrer le cookie, rendez-vous sur la page suivante : https://support.abtasty.com/hc/fr/articles/200238607-Comment-faire-pour-ne-pas-%C3%AAtre-soumis-aux-tests-optout-
 
-**ACXIOM** :
-
+**ACXIOM** :  
 Les cookies permettent aux annonceurs d’afficher des publicités pertinentes lorsque vous vous rendez  sur des sites web qui proposent aux internautes des bannières dont le contenu est adapté à votre profil consommateur. Pour fonctionner ce service se fonde sur le dépôt automatique d’un cookie sur votre navigateur dès l’ouverture d’un email ou lorsque vous visitez un site partenaire d’Acxiom.  
 http://www.acxiom.fr/a-propos-d-acxiom/information-sur-le-depot-de-cookie/
 
@@ -304,9 +312,8 @@ Liste d’opposition permettant de gérer le dépôt des cookies
 
 Vous avez également la possibilité de vous opposer au dépôt des cookies en accédant au site internet http://www.youronlinechoices.com/fr/controler-ses-cookies/.
 
-QU’EST-CE QUE LE DÉLÉGUÉ A LA PROTECTION DES DONNEES DE LA REDOUTE
-
-QUELLES SONT SES MISSIONS ?
+  
+QU’EST-CE QUE LE DÉLÉGUÉ A LA PROTECTION DES DONNEES DE LA REDOUTE  QUELLES SONT SES MISSIONS ?
 
 Le délégué à la protection des données nommé au sein de la Redoute a pour mission de veiller au respect de la réglementation et des règles décrites dans le présent document.
 
@@ -314,7 +321,7 @@ Il veille notamment à établir un registre des traitements de données à carac
 
 Il assure une sensibilisation des équipes et répond aux utilisateurs souhaitant exercer leurs droits concernant les données personnelles collectées par la Redoute.
 
-COMMENT CONTACTER LE CORRESPONDANT INFORMATIQUE ET LIBERTES ?
+COMMENT CONTACTER LE CORRESPONDANT INFORMATIQUE ET LIBERTES ? 
 
 Vous avez la possibilité de contacter le délégué à la protection des données cil@redoute.fr
 
