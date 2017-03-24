@@ -1,6 +1,6 @@
 To learn about our efforts to improve the accessibility and usability of our website, please visit our Accessibility Information page. Skip to section navigation or Skip to main content Below is an advertisement. 한국어 日本語 Español
 
-Sections Scores WBC 2017 News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Fantasy Auction Teams
+Sections Scores WBC 2017 News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Auction Fantasy Teams
 
 *   Scores
 *   WBC 2017 WBC 2017 World Baseball Classic
@@ -100,7 +100,7 @@ Sections Scores WBC 2017 News Video Stats Standings Schedule Players Tickets App
     *   Spring Training Tickets
     *   Spring Training Travel Packages
     *   StubHub.com
-    *   Big League ToursWBC Spring Training Tickets 2017 Season Tickets Big League Tours Bank of America 2017 Schedule
+    *   Big League ToursSpring Training Tickets 2017 Season Tickets Big League Tours Bank of America 2017 Schedule
 *   Apps Apps Apps
     *   At Bat app
     *   At Bat on Tablets
@@ -149,6 +149,7 @@ Sections Scores WBC 2017 News Video Stats Standings Schedule Players Tickets App
     *   MLB.TV Support Forum
     *   MLB.TV Blackouts
     *   Contact Uswbc Spring Training
+*   Auction
 *   Fantasy Fantasy Fantasy
     *   2017 Fantasy Player Preview
     *   R.B.I. Baseball 17
@@ -162,7 +163,6 @@ Sections Scores WBC 2017 News Video Stats Standings Schedule Players Tickets App
     *   Prospect Watch
     *   Fantasy 411 Blog
     *   Follow @Fantasy411Beat the Streak Fantasy Player Preview 160x160 R.B.I. Baseball 17 MLB.com Line Drive MLB.com Home Run Derby MLB.com Postseason Bracket Challenge
-*   Auction
 *   Teams Teams American League AL East
     
     *   Baltimore
