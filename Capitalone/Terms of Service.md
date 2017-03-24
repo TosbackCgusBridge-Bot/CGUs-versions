@@ -23,13 +23,20 @@ Menu
         *   Pay Your Bill
         *   Learn About CreditWise
         *   Explore Card Topics
-    *   Bank Expand Bank Menu Personal Banking
+    *   Bank Expand Bank Menu PERSONAL BANKING
+        
         *   Bank Home
         *   Money Market Account
         *   Checking Accounts
         *   Savings Accounts
         *   CD Accounts
+        
+        RESOURCES TO EXPLORE
+        *   Choosing the Right Account
+        *   View Current Interest Rates
+        *   Explore the Capital One Cafes
         *   Online and Mobile Banking Tools
+        *   Bank Help Center
     *   Borrow Expand Borrow Menu Mortgages &. Home Equity
         
         *   Borrow Home
