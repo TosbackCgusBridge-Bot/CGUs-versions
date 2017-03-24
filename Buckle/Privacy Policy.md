@@ -78,9 +78,7 @@
         
           
           
-        Give a Buckle Gift card Spring Breakers - Headed to the beach?  
-        Shop Men's Boardshorts.  
-        Shop Women's Swimwear.
+        Give a Buckle Gift card Suns out, guns out. Shop TANKS.
 *   Men
     *   *   Featured
         
@@ -135,9 +133,7 @@
         
           
           
-        Give a Buckle Gift card Spring Breakers - Headed to the beach?  
-        Shop Men's Boardshorts.  
-        Shop Women's Swimwear.
+        Give a Buckle Gift card Suns out, guns out. Shop TANKS.
 *   Kids
     *   *   Featured
         
@@ -159,9 +155,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Spring Breakers - Headed to the beach?  
-        Shop Men's Boardshorts.  
-        Shop Women's Swimwear.
+        Give a Buckle Gift card Suns out, guns out. Shop TANKS.
 *   Jeans
     *   *   Women's Jeans
         
@@ -191,9 +185,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Spring Breakers - Headed to the beach?  
-        Shop Men's Boardshorts.  
-        Shop Women's Swimwear.
+        Give a Buckle Gift card Suns out, guns out. Shop TANKS.
 *   New
     *   *   Featured New
         
@@ -230,9 +222,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Spring Breakers - Headed to the beach?  
-        Shop Men's Boardshorts.  
-        Shop Women's Swimwear.
+        Give a Buckle Gift card Suns out, guns out. Shop TANKS.
 *   Sale
     *   *   Women's Sale
         
@@ -273,9 +263,7 @@
         
           
           
-        Give a Buckle Gift card Spring Breakers - Headed to the beach?  
-        Shop Men's Boardshorts.  
-        Shop Women's Swimwear.
+        Give a Buckle Gift card Suns out, guns out. Shop TANKS.
 
 A Global Message! × Privacy &. Security
 
