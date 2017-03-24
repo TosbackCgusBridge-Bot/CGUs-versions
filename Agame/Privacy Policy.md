@@ -218,7 +218,7 @@ View more results
     
     FAVE GAMES
     
-    Are you a existing user? Then log in to see you favorited games here! Don't have an account yet? Be sure to sign up to use this feature.
+    Are you an existing user? Then log in to see your favorited games here! Don't have an account yet? Be sure to sign up to use this feature.
     
     Join for free
 *   Hot Games
