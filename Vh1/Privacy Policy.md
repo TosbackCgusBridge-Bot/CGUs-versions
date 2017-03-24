@@ -10,8 +10,8 @@ VH1 Menu VH1
     *   Hip Hop Squares
     *   The Breaks
     *   Black Ink Crew
+    *   RuPaul's Drag Race
     *   America's Next Top Model
-    *   Martha &. Snoop's Potluck Dinner Party
     *   Love &. Hip Hop
     *   Brunch With TiffanySee all Shows
 *   Pop Culture
@@ -30,7 +30,7 @@ VH1 Menu VH1
 *   TV Provider Sign Out
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Atlanta Hip Hop Squares The Breaks Black Ink Crew America's Next Top Model Martha &. Snoop's Potluck Dinner Party Love &. Hip Hop Brunch With Tiffany See all Shows
+*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Atlanta Hip Hop Squares The Breaks Black Ink Crew RuPaul's Drag Race America's Next Top Model Love &. Hip Hop Brunch With Tiffany See all Shows
 *   Pop Culture Music Celebrity Movies TV Around The Web Video See all Pop Culture
 *   Life Beauty &. Health Style Relationships Video See all Life
 *   Watch Live TV
