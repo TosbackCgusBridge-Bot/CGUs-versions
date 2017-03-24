@@ -198,17 +198,6 @@ menu 0 FREE SHIPPING ON $50+
     *   Water Shoes &. Sandals
     *   Accessories &. Bags
     *   Sale
-*   Sale SHOP SALE
-    
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
-    *   Home
-    *   School Uniforms
-    
-    FEATURED SHOPS
-    *   On The Counter
 *   School FIND YOUR SCHOOL>. FEATURED SHOPS
     
     *   Best-in-Class Polos
@@ -294,6 +283,17 @@ menu 0 FREE SHIPPING ON $50+
     *   Bean Bag Chairs
     *   Sleeping Bags
     *   Baby BlanketsDOG SHOP >. SEASONAL DECOR >. ENTERTAINING >.
+*   Sale SHOP SALE
+    
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    *   Home
+    *   School Uniforms
+    
+    FEATURED SHOPS
+    *   On The Counter
 
 *   Women
     *   Back
@@ -464,18 +464,6 @@ menu 0 FREE SHIPPING ON $50+
     *   Men
     *   Girls
     *   Boys
-*   Sale
-    *   Back
-    *   Shop all Sale
-    *   FEATURED SHOPS
-        *   Back
-        *   On The Counter
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
-    *   Home
-    *   School Uniforms
 *   School
     *   Back
     *   Shop all School
@@ -566,6 +554,18 @@ menu 0 FREE SHIPPING ON $50+
     *   DOG SHOP
     *   SEASONAL DECOR
     *   ENTERTAINING
+*   Sale
+    *   Back
+    *   Shop all Sale
+    *   FEATURED SHOPS
+        *   Back
+        *   On The Counter
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    *   Home
+    *   School Uniforms
 *   Hi, Sign in My Account
     *   Back
     *   Sign In
