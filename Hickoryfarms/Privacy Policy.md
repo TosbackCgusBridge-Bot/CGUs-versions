@@ -20,7 +20,7 @@
     By Price*   $30 &. Under
     *   $40 &. Under
     *   $50 &. Under
-    *   Over $90Most Popular Spring Favorites HoneyGold® Ham
+    *   Over $90Most Popular Easter Favorites HoneyGold® Ham
 *   Sausage &. Cheese
     
     View All Categories Shop by Category*   Gifts
@@ -95,7 +95,7 @@
     By Price*   $30 &. Under
     *   $40 &. Under
     *   $50 &. Under
-    *   Over $90Most Popular Spring Favorites HoneyGold® Ham
+    *   Over $90Most Popular Easter Favorites HoneyGold® Ham
 *   Sausage &. Cheese
     
     View All Categories Shop by Category*   Gifts
@@ -194,8 +194,8 @@ My Account
 
 Guarantees
 
-*   100% Satisfaction
 *   Security
+*   100% Satisfaction
 *   Substitution Policy
 
 Privacy
@@ -215,8 +215,8 @@ Security
 
 About Us
 
-*   Store Locator
 *   The Hickory Farms Story
+*   Store Locator
 *   Employment Opportunities
 
 Need Help?
