@@ -1,4 +1,4 @@
-PRO Flash Sale•50% Off•Ends indhmsSubscribe Now Sign in / Join Now GO»
+Sign in / Join Now GO»
 
 *   Market News
 *   Stock Ideas
