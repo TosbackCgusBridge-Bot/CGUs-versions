@@ -20,6 +20,7 @@ Navigation
     *   Ice Age: Arctic Blast
     *   Looney Tunes Dash
     *   Matching With Friends
+    *   Solitaire
     *   Speed Guess Something
     *   Wizard of Oz Magic Match
     *   Words With Friends
