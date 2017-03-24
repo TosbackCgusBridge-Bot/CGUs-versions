@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Huawei and Canonical Integrate OpenStack and CloudFabric ›
+*   Out of date software leaves you vulnerable ›
 *   Webinar: How to ensure the ongoing security compliance of Ubuntu 12.04 ›
 *   Distributing a ROS system among multiple snaps ›
 *   When Products and Digital Signage speak the same language ›
-*   Three flaws at the heart of IoT security ›
-*   The Orange Pi community gets a snap store ›
