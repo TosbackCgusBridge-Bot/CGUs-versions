@@ -1,4 +1,4 @@
-15 3 2017.3.1.0.6.0
+15 3 2017.4.0.0.39.0
 
 *   Find a store
 *   store ads
@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true C15842175830
+true true C15846491473
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p17.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Wed Mar 22 11:15:31 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.3.1.0.6.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Thu Mar 23 11:15:55 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.4.0.0.39.0
 
 *   for the home
 *   bed &. bath
@@ -56,29 +56,39 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 true
 
-30-50% Off Dress Up For The Family
+Now Trending: The Shirt It's the classic shirt, redefined. Shop The Trend 24.99 A.N.A Top, select styles, orig. $40 Spring In Your Step 29.99 Women's Dress Shoes
 
-Select styles, reg. $30-$275
+Select styles, reg. $55-$60
 
-Women's Dresses   Men's Suits &. Sport Coats   Girls' Dresses Boys' Dress Clothes Shoes Billion Dollar Jewelry Sale 40-60% Off Fine and Fashion Jewelry
+Shop Women's Dress Shoes Billion Dollar Jewelry Sale 40-60% Off Fine and Fashion Jewelry
 
 Final Days! Ends March 26 | Select Styles
 
-Shop Fine and Fashion Jewelry Shop Modern Bride 2017 Prom 60% Off Prom Dresses
+Shop Fine and Fashion Jewelry Shop Modern Bride Up to 20% Off\* Major Appliances + Extra 10% Off with Code: 8FORYOU
 
-Select styles, reg. $100-$250
+Select styles
 
-Shop Prom Dresses Shop Plus-Size Prom Dresses50% Off Guys' Suit Separates &. Tuxedos
+Shop Major Appliances:
 
-Select styles, reg. $60-$275
+\*GE, GE Profile, GE Cafe &. Haier limited to 10% off savings.
 
-Shop Guys' Suit Separates &. Tuxedos   30% Off Women's Swim
+Get Details: 18 Months Special Financing\*\*
 
-Select styles, reg. $32-$104
+Available on qualifying major appliance purchases of $499 or more (after discounts) made through 5/16/17 on a JCPenney Credit Card. Must request at time of purchase.
 
-Shop Women's Swim40% Off Men's &. Kids' Swim
+\*\*Get Details:
 
-Shop Girls Swim   Shop Boys Swim   Shop Men's Swim   \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Mar 22 22:24:32 CDT 2017 JVM :->. dtexppr1c1j3\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Mar 22 07:00:15 CDT 2017 JVM :->. dtexppr1c1j4\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Don't have a JCPenney Credit Card?
+
+Apply Now: Free Delivery &. Basic Installation
+
+On all appliance purchases over $299
+
+Get Details: JCPenney Rewards Shop &. Get Rewards
+
+For points earned on major appliances+
+
++Get Details: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Mar 23 22:33:49 CDT 2017 JVM :->. dtexppr1c2j1\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Mar 23 04:49:45 CDT 2017 JVM :->. dtexppr1c2j1\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
@@ -129,7 +139,7 @@ MORE WAYS TO SHOP
 ABOUT US
 
 *   careers
-*   about us
+*   company info
 *   jcp cares
 *   media
 *   investors
