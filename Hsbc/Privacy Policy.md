@@ -69,9 +69,9 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Group results and reporting
         *   Annual Report
         *   Group reporting archive
-    *   Subsidiary company reporting
-        
     *   Events and presentations
+        
+    *   Subsidiary company reporting
         
     *   Share and dividend information
         *   Dividend calculators
@@ -80,17 +80,17 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Scrip dividend
         *   Treasury shares
     
-    *   Investor resources
-        *   Contact our registrar
-        *   Investor contacts
-        *   Equity analyst coverage
-        *   Frequently asked questions - investor relations
     *   Fixed income securities
         *   Covered bond reports
         *   Green bond reports
         *   Credit ratings
         *   Issuance programmes
         *   Regulatory capital securities
+    *   Investor resources
+        *   Contact our registrar
+        *   Investor contacts
+        *   Equity analyst coverage
+        *   Frequently asked questions - investor relations
     *   Stock exchange announcements
         *   Inside information
     
@@ -115,7 +115,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Culture
         *   Other sponsorships
     
-    *   China steps up China is set to play a greater role on the global stage, says Stuart Gulliver.
+    *   Sustainable cities, smart cities Cities have a vital part to play in fighting climate change and building a low-carbon future.
 *   Careers
     
     *   Key hiring areas
@@ -380,11 +380,11 @@ Contact Us Our approach
 Investor relations
 
 *   Group results and reporting
-*   Subsidiary company reporting
 *   Events and presentations
+*   Subsidiary company reporting
+*   Fixed income securities
 *   Share and dividend information
 *   Investor resources
-*   Fixed income securities
 *   Stock exchange announcements
 
 News and insight
