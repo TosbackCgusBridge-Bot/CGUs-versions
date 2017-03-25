@@ -236,7 +236,7 @@ View more results
     *   Uphill Rush
     *   My Dolphin Show
     *   Nitro Heads
-    *   Cats Empire
+    *   Mad Truck Challenge
     *   Troll Face Quest Video Games
     
     Specials
@@ -355,9 +355,7 @@ If you have any additional questions or requests, you may send an email to info@
 
 100209
 
-Welcome to Agame.com, your zone to play free online games. Stocked each day with new free games, including action games, adventure games, board &. card games, multiplayer games, puzzle games, racing games, skill games, sports games, and more addicting games.  
-  
-Did you know that: you can rate every game you play, you can share your favorite game with your friends on Facebook,Myspace,Twitter and more, you can embed a game in your own website or blog, and lots of our games are homemade in our own gamestudio? Eager to play yet?
+Welcome to Agame.com, your zone to play free online games. Stocked each day with new free games, including action games, adventure games, board &. card games, multiplayer games, puzzle games, racing games, skill games, sports games, and more addicting games.
 
 *   Facebook
 *   Google+
