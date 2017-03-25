@@ -93,13 +93,15 @@ Wed, Apr 26, 2017 CABA Intelligent Buildings &. Digital Home Forum
 
 Join OTA at the upcoming Intelligent Buildings &. Digital Home Forum in Santa Clara California. 
 
+Mon, May 22, 2017 LiveWorx 17
+
+Join OTA in Boston at this premiere event focused on IoT security.  Take advantage of over 230 breakouts offered in a variety of learning styles, including cutting-edge use cases, interactive Q&A’s, small working groups, tech-powered panels, product updates and more! Sessions range from introductory to advanced skill levels and provide the knowledge you need to advance your career, lower costs and risk, and out-innovate your competition.
+
 Wed, May 24, 2017 Planning for the Future: A Conference About Identity Theft
 
 Ten years ago, President Bush launched a new era in the fight against identity theft by issuing an executive order establishing the Identity Theft Task Force, which the Commission co-chaired. In the ensuing ten years, great strides have been made to combat identity theft but it remains a significant problem for American consumers. The Federal Trade Commission will host an all-day conference to take a comprehensive look at how identity theft has evolved over the last decade and what we can do to address this challenge in the future.
 
-Tue, Oct 17, 2017 Privacy, Risk, Security 2017
-
-Privacy. Security. Risk.
+More >>.
 
 *   OTA Blog
 *   Newsletters
