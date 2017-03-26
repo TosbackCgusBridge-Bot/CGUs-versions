@@ -278,6 +278,7 @@ menu 0 FREE SHIPPING ON $50+
     
     KIDS ROOM >.
     *   Kids Bedding
+    *   Kids Beach Towels
     *   Seasonal Totes
     *   Toys &. Gifts
     *   Bean Bag Chairs
@@ -546,6 +547,7 @@ menu 0 FREE SHIPPING ON $50+
     *   KIDS ROOM
         *   Back
         *   Kids Bedding
+        *   Kids Beach Towels
         *   Seasonal Totes
         *   Toys &. Gifts
         *   Bean Bag Chairs
