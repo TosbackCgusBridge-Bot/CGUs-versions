@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true C15849539248
+true true L15857252738
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p12.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Sat Mar 25 11:15:31 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.4.0.0.39.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Sun Mar 26 11:15:41 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.4.0.0.39.0
 
 *   for the home
 *   bed &. bath
@@ -56,15 +56,7 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 true
 
-Now Trending: The Shirt It's the classic shirt, redefined. Shop The Trend 24.99 A.N.A Top, select styles, orig. $40 Spring In Your Step 29.99 Women's Dress Shoes
-
-Select styles, reg. $55-$60
-
-Shop Women's Dress Shoes Billion Dollar Jewelry Sale 40-60% Off Fine and Fashion Jewelry
-
-Final Days! Ends March 26 | Select Styles
-
-Shop Fine and Fashion Jewelry Shop Modern Bride Up to 20% Off\* Major Appliances + Extra 10% Off with Code: 8FORYOU
+Now Trending: Blush Shop The Trend 24.99 Worthington Flounce Skirt, orig. $44 Up to 20% Off\* Major Appliances + Extra 10% Off with Code: 8FORYOU
 
 Select styles
 
@@ -74,7 +66,7 @@ Shop Major Appliances:
 
 Get Details: 18 Months Special Financing\*\*
 
-Available on qualifying major appliance purchases of $499 or more (after discounts) made through 5/16/17 on a JCPenney Credit Card. Must request at time of purchase.
+Available on qualifying major appliance purchases made through 5/16/17 on a JCPenney Credit Card. Must request at time of purchase.
 
 \*\*Get Details:
 
@@ -88,7 +80,19 @@ Get Details: JCPenney Rewards Shop &. Get Rewards
 
 For points earned on major appliances+
 
-+Get Details: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Mar 25 13:07:50 CDT 2017 JVM :->. dtexppr1c2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Mar 25 13:07:45 CDT 2017 JVM :->. dtexppr1c2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
++Get Details: Billion Dollar Jewelry Sale 40-60% Off Fine and Fashion Jewelry
+
+Last Day! | Select Styles
+
+Shop Fine and Fashion Jewelry Shop Modern Bride 2017 Prom 60% Off Prom Dresses
+
+Select styles, reg. $100-$250
+
+Shop Prom Dresses Shop Plus-Size Prom Dresses   40 to 50% Off\* Suit Separates &. Tuxedos
+
+Select styles, reg. $60-$275
+
+Shop Guys Prom   \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Mar 26 22:14:17 CDT 2017 JVM :->. dtexppr1l2j2\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Mar 26 04:27:17 CDT 2017 JVM :->. dtexppr1l2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
