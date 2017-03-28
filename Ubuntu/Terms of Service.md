@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Job Concurrency in Kubernetes: LXD &. CPU pinning to the rescue ›
+*   Bare Metal Server Provisioning is Evolving the HPC Market ›
+*   Putting Ubuntu in embedded ›
+*   Video tutorial: learn how to install MAAS ›
 *   Huawei and Canonical Integrate OpenStack and CloudFabric ›
-*   Out of date software leaves you vulnerable ›
-*   Webinar: How to ensure the ongoing security compliance of Ubuntu 12.04 ›
-*   Distributing a ROS system among multiple snaps ›
-*   When Products and Digital Signage speak the same language ›
