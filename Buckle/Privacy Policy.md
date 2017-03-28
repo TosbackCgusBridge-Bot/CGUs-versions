@@ -78,7 +78,7 @@
         
           
           
-        Give a Buckle Gift card Suns out, guns out. Shop TANKS.
+        Give a Buckle Gift card Spring into a new look. Shop ROCK REVIVAL.
 *   Men
     *   *   Featured
         
@@ -133,7 +133,7 @@
         
           
           
-        Give a Buckle Gift card Suns out, guns out. Shop TANKS.
+        Give a Buckle Gift card Spring into a new look. Shop ROCK REVIVAL.
 *   Kids
     *   *   Featured
         
@@ -155,7 +155,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Suns out, guns out. Shop TANKS.
+        Give a Buckle Gift card Spring into a new look. Shop ROCK REVIVAL.
 *   Jeans
     *   *   Women's Jeans
         
@@ -185,7 +185,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Suns out, guns out. Shop TANKS.
+        Give a Buckle Gift card Spring into a new look. Shop ROCK REVIVAL.
 *   New
     *   *   Featured New
         
@@ -222,26 +222,28 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Suns out, guns out. Shop TANKS.
+        Give a Buckle Gift card Spring into a new look. Shop ROCK REVIVAL.
 *   Sale
     *   *   Women's Sale
         
         *   All Tops
-        *   Shirts/Blouses
-        *   Sweaters
-        *   Sweatshirts
-        *   Jeans
-        *   Shoes
+        *   Tank Tops
+        *   Bandeaus/Bralettes
+        *   T-Shirts
+        *   Crops/Capris
+        *   Shorts
+        *   Flips and Sandals
         *   Shop All
         
         *   Men's Sale
         
         *   All Tops
-        *   Shirts
-        *   Sweatshirts
-        *   Sweaters
-        *   Jeans
-        *   Shoes
+        *   Tanks
+        *   T-Shirts
+        *   Polos
+        *   Shorts
+        *   Boardshorts
+        *   Flips
         *   Shop All
         
         *   Kid's Sale
@@ -263,7 +265,7 @@
         
           
           
-        Give a Buckle Gift card Suns out, guns out. Shop TANKS.
+        Give a Buckle Gift card Spring into a new look. Shop ROCK REVIVAL.
 
 A Global Message! × Privacy &. Security
 
