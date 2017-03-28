@@ -1,14 +1,8 @@
 To learn about our efforts to improve the accessibility and usability of our website, please visit our Accessibility Information page. Skip to section navigation or Skip to main content Below is an advertisement. 한국어 日本語 Español
 
-Sections Scores WBC 2017 News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Auction Fantasy Teams
+Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Auction Fantasy Play Ball Teams
 
 *   Scores
-*   WBC 2017 WBC 2017 World Baseball Classic
-    *   Scores
-    *   Schedule &. Tickets
-    *   News
-    *   Video
-    *   Shop
 *   News News News
     
     In This Section
@@ -163,6 +157,7 @@ Sections Scores WBC 2017 News Video Stats Standings Schedule Players Tickets App
     *   Prospect Watch
     *   Fantasy 411 Blog
     *   Follow @Fantasy411Beat the Streak Fantasy Player Preview 160x160 R.B.I. Baseball 17 MLB.com Line Drive MLB.com Home Run Derby MLB.com Postseason Bracket Challenge
+*   Play Ball
 *   Teams Teams American League AL East
     
     *   Baltimore
