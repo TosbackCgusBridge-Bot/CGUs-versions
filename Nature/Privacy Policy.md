@@ -183,9 +183,9 @@ Donate Now Featured Articles Give a Gift Membership
 
 With this gift of nature, _Nature Conservancy_ magazine arrives all year long. Join
 
-Adopt an Acre
+Gift Catalog
 
-One acre at a time can make a big difference for our landscapes! Adopt
+Find a unique gift that helps save nature Give
 
 Climate Change Threats
 
