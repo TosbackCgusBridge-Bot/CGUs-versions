@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true L15857252738
+true true C15853958663
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1l2j4 TIME :->. Sun Mar 26 11:15:41 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.4.0.0.39.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p15.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Mon Mar 27 11:15:39 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.4.0.0.39.0
 
 *   for the home
 *   bed &. bath
@@ -56,43 +56,35 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 true
 
-Now Trending: Blush Shop The Trend 24.99 Worthington Flounce Skirt, orig. $44 Up to 20% Off\* Major Appliances + Extra 10% Off with Code: 8FORYOU
+Your Spring Wardrobe Refresh 30 to 40% Off Women's Dresses
 
-Select styles
+Select styles, reg. $50-$86
 
-Shop Major Appliances:
+Shop Women's Dresses50% Off Men's Stafford Sport Coats
 
-\*GE, GE Profile, GE Cafe &. Haier limited to 10% off savings.
+Select styles, reg. $125-$200
 
-Get Details: 18 Months Special Financing\*\*
+Shop Men's Stafford Sport Coats40 to 50% Off Kids' Dress Up
 
-Available on qualifying major appliance purchases made through 5/16/17 on a JCPenney Credit Card. Must request at time of purchase.
+Select styles, reg. $30-$100
 
-\*\*Get Details:
-
-Don't have a JCPenney Credit Card?
-
-Apply Now: Free Delivery &. Basic Installation
-
-On all appliance purchases over $299
-
-Get Details: JCPenney Rewards Shop &. Get Rewards
-
-For points earned on major appliances+
-
-+Get Details: Billion Dollar Jewelry Sale 40-60% Off Fine and Fashion Jewelry
-
-Last Day! | Select Styles
-
-Shop Fine and Fashion Jewelry Shop Modern Bride 2017 Prom 60% Off Prom Dresses
+Shop Girls' Dress Up Shop Boys' Dress Up     Now Trending: Blush Shop The Trend 24.99 Worthington Flounce Skirt, orig. $44 2017 Prom 60% Off Prom Dresses
 
 Select styles, reg. $100-$250
 
-Shop Prom Dresses Shop Plus-Size Prom Dresses   40 to 50% Off\* Suit Separates &. Tuxedos
+Shop Prom Dresses Shop Plus-Size Prom Dresses  40 to 50% Off\* Suit Separates &. Tuxedos
 
 Select styles, reg. $60-$275
 
-Shop Guys Prom   \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Mar 26 22:14:17 CDT 2017 JVM :->. dtexppr1l2j2\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Mar 26 04:27:17 CDT 2017 JVM :->. dtexppr1l2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Guys Prom   LG Do Gameday Right | Team Up and Save Big LG Black Stainless Steel Series
+
+Offical Corporate Partner of NCAA© March Madness©
+
+Shop Black Stainless Steel Series Shop LG NCAA March Madness
+
+Valid 12/21/16 - 5/3/17. Offers available on specific models and subject to change. See store for details.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Mar 27 22:21:14 CDT 2017 JVM :->. dtexppr1c1j6\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Mar 27 03:34:22 CDT 2017 JVM :->. dtexppr1c1j1\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
