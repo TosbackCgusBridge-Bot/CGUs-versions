@@ -2,7 +2,7 @@ Privacy Policy
 
 Last updated: August 26, 2015
 
-GameStop knows that you care about your privacy and the use of your personal information. This notice describes our Privacy Policy. This Privacy Policy applies to information we collect about you from any source and in any way – through our Websites, applications or other Internet based interactions, in our retail stores, and through our Power-Up Rewards™ Program.
+GameStop knows that you care about your privacy and the use of your personal information. This notice describes our Privacy Policy. This Privacy Policy applies to information we collect about you from any source and in any way – through our Websites, applications or other Internet based interactions, in our retail stores, and through our PowerUp Rewards™ Program.
 
 By visiting a GameStop Website or retail store, using a GameStop app or other Internet based interaction, participating in our PowerUp Rewards™ Program, or otherwise providing information to GameStop you are accepting the practices described in this Privacy Policy.
 
