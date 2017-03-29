@@ -91,10 +91,8 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Franchise Four
 *   Tickets Tickets Tickets
     *   General Ticket Information
-    *   Spring Training Tickets
-    *   Spring Training Travel Packages
     *   StubHub.com
-    *   Big League ToursSpring Training Tickets 2017 Season Tickets Big League Tours Bank of America 2017 Schedule
+    *   Big League Tours2017 Season Tickets Big League Tours Bank of America 2017 Schedule
 *   Apps Apps Apps
     *   At Bat app
     *   At Bat on Tablets
