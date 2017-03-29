@@ -191,10 +191,11 @@
         
         *   Men's Easy Care Shirts
         *   Iconic Calvin Klein
-        *   New buckle SELECT Stylists
+        *   Women's Florals
         *   Levi's are Here!
         *   It's in the Hem Details
         *   Show 'em Your Cold Shoulders
+        *   Surf and Turf - Hybrid Shorts
         
         *   Women's New
         
