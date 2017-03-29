@@ -98,7 +98,25 @@ Phone and Tablet AppsThe best of what Sony has to offer on iOS or Android. Downl
 *   Register a Product
 *   Community
 
-Your browser does not support JavaScript! Become a Sony Rewards Millionaire &. Open a World of Extraordinary Experiences
+Your browser does not support JavaScript! Get a Glimpse of Vulture, the New Villian Threatening Everything Spider-Man Cares About
+
+Learn More About "Spider-Man: Homecoming"
+
+Close
+
+*   Share
+*   Share Get a Glimpse of Vulture, the New Villian Threatening Everything Spider-Man Cares About on Facebook
+*   Share Get a Glimpse of Vulture, the New Villian Threatening Everything Spider-Man Cares About on Twitter
+*   Share Get a Glimpse of Vulture, the New Villian Threatening Everything Spider-Man Cares About on Tumblr
+*   Copy URL to share Get a Glimpse of Vulture, the New Villian Threatening Everything Spider-Man Cares About
+
+Play Get a Glimpse of Vulture, the New Villian Threatening Everything Spider-Man Cares About Video
+
+Sony on YouTube - Get a Glimpse of Vulture, the New Villian Threatening Everything Spider-Man Cares About
+
+Play Get a Glimpse of Vulture, the New Villian Threatening Everything Spider-Man Cares About Video hotspot
+
+Become a Sony Rewards Millionaire &. Open a World of Extraordinary Experiences
 
 Join Now To Enter
 
