@@ -13,7 +13,7 @@ new icn messageflickr-free-ic3d pan white
 *   Create
 
 *   _Upload_
-*   Sign In
+*   Log In
 *   Sign Up
 
 Explore Recent Photos Trending The Commons Galleries The Weekly Flickr Flickr Blog Grass could be greener on this side
