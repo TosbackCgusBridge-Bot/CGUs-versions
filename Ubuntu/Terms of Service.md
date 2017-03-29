@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Battlestar Solution ›
+*   Machine Learning with Snaps ›
 *   Job Concurrency in Kubernetes: LXD &. CPU pinning to the rescue ›
 *   Bare Metal Server Provisioning is Evolving the HPC Market ›
 *   Putting Ubuntu in embedded ›
-*   Video tutorial: learn how to install MAAS ›
-*   Huawei and Canonical Integrate OpenStack and CloudFabric ›
