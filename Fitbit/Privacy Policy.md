@@ -20,23 +20,25 @@ Fitbit
     *   *   **FITBIT ACCESSORIES**
         *   Designer Collections
     Not sure which product is right for you? FIND YOUR FIT
-*   Experiences
-    *   Mobile App + Dashboard
-    *   Premium Membership
-    *   Fitstar
-    *   Compatible Apps
-    *   PurePulse
+*   Why Fitbit
     *   Why Fitbit
-*   Fun
-    *   Celebrity Challenges
-    *   Fit Science
-    *   Blog
-    *   Buzz
+    *   What's New
+    *   Our Technology
+    *   FitScience
+    *   About Us
+*   Get Motivated
+    *   Fitstar
+    *   Events
     *   FitForGood
-    *   Fitbit Local
+    *   Fitbit Premium
+*   App &. Dashboard
+    *   App Tour
+    *   Fitbit Challenges
+    *   Compatible Apps
 *   Help
     *   Product Help
-    *   Wear and Care
+    *   Forums
+    *   Wear &. Care
     *   How-To Videos
 
 *   *   Your cart is currently empty. Let's shop
