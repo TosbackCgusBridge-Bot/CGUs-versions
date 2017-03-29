@@ -28,6 +28,8 @@ Sign In or Sign Up
         Career site and talent network
     *   Talentstream Recruit  
         Applicant Tracking System
+    *   Workterra  
+        Human Capital Management
     *   View All Products
 *   Resource Center
 
@@ -85,7 +87,7 @@ Resources
 Customers  
 
   
-Get Pricing ​
+​
 
 Thank you for subscribing to our newsletter. More great content headed your way!
 
