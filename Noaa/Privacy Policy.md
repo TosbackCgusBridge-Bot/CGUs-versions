@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheries Tangled whale swimming free after successful rescue Weather Spring Outlook: Risk of major flooding in North Dakota, moderate flooding in Idaho National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Education Connect with NOAA at the National Science Teachers Association conference Weather Spring Outlook: Risk of major flooding in North Dakota, moderate flooding in Idaho National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheri
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Earth had 2nd warmest February, season and year to date on record Arctic and Antarctic sea ice extents were also record-low AROUND NOAA // Map: The historical warmest and coldest 1st day of spring for thousands of U.S. locations Research on killer tornadoes in U.S. Southeast enters 2nd year Spring Outlook: Risk of major flooding in North Dakota, moderate flooding in Idaho
+Enter Search Terms Earth had 2nd warmest February, season and year to date on record Arctic and Antarctic sea ice extents were also record-low AROUND NOAA // Connect with NOAA at the National Science Teachers Association conference Map: The historical warmest and coldest 1st day of spring for thousands of U.S. locations Research on killer tornadoes in U.S. Southeast enters 2nd year
 
 *   About our agency
 *   News and features
