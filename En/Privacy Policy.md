@@ -34,4 +34,4 @@ Roc Boronat 117, Planta 6
 
 93 123 45 67 press@softonic.com Work with us!
 
-2017 © All Rights Reserved  •  Legal Information •  Cookie Policy • Terms of Use  •  Privacy Policy
+2017 © All Rights Reserved  •  Legal Information • Terms of Use  •  Privacy Policy
