@@ -234,6 +234,7 @@ Updated: February 15, 2017
 Follow Autodesk
 
 *   Facebook
+*   Instagram
 *   Twitter
 *   LinkedIn
 
