@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 12.149,42ǀ
+*   DAX 12.203,00ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -57,6 +57,7 @@ Mein SPIEGEL
         *   Elterncouch
     *   *   LOTTO 6aus49
         *   Eurojackpot
+        *   Aktion Mensch
 *   Sport
     *   *   Übersicht
         *   Fußball-Liveticker
@@ -668,7 +669,8 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
     *   Sudoku
     *   Kenken
     *   Streets
-*   *   Bücher bestellen
+*   *   Aktion Mensch
+    *   Bücher bestellen
     *   Hörbücher
     *   Arztsuche
     *   DSL-Vergleich
