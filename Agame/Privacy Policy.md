@@ -223,12 +223,12 @@ View more results
     Join for free
 *   Hot Games
     
-    *   Troll Face Quest TV Shows
-    *   Bubble Shooter
-    *   Treasure Master
-    *   Candy Mahjong
-    *   Goldie Princess: Skin Doctor
-    *   Dogar.io
+    *   Mystic Sea Treasures
+    *   Superfighters
+    *   Magoia
+    *   Alliance Warfare
+    *   Trollface Quest TrollTube
+    *   Happy Room
     
     Mobile Apps More
     
