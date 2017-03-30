@@ -55,7 +55,7 @@ Acceptance of the Terms of Service
 
 The following terms and conditions, together with any documents they expressly incorporate by reference (collectively, these "**Terms of Service**"), govern your access to and use of www.tube8.com ("Tube8" or the "**Website**"), including any content, functionality and services offered on or through the Website, whether as a guest or a registered user. These Terms of Service apply to the Website, web pages, interactive features, applications, widgets, blogs, social networks, social network "tabs", or other online or wireless offerings that post a link to these Terms of Service, whether accessed via computer, mobile device or other technology, manner or means.
 
-Please read the Terms of Service carefully before you start to use the Website. By using the Website or by clicking to accept or agree to the Terms of Service when this option is made available to you, you accept and agree to be bound and abide by these Terms of Service and our Privacy Policy, found at http://www.tube8.com/info.html#privacy, incorporated herein by reference. If you do not want to agree to these Terms of Service or the Privacy Policy, you must not access or use the Website.
+Please read the Terms of Service carefully before you start to use the Website. By using the Website or by clicking to accept or agree to the Terms of Service when this option is made available to you, you accept and agree to be bound and abide by these Terms of Service and our Privacy Policy, found at https://www.tube8.com/info.html#privacy, incorporated herein by reference. If you do not want to agree to these Terms of Service or the Privacy Policy, you must not access or use the Website.
 
 If you access or use the Website, whether you click to accept or not, you agree to all of the various terms in these Terms of Service. If you do not understand all of these Terms of Service, you should consult an attorney before agreeing to any of the Terms of Service.
 
@@ -69,7 +69,7 @@ You affirm that you are at least 18 years of age or the age of majority in the j
 
 Changes to the Terms of Service
 
-We may modify or revise these Terms of Service from time to time in our sole discretion and you agree to be bound by such modifications or revisions. Although we may attempt to notify you when major changes are made to these Terms of Service, you are expected to periodically review the most up-to-date version found at http://www.tube8.com/info.html#terms, so you are aware of any changes, as they are binding on you.
+We may modify or revise these Terms of Service from time to time in our sole discretion and you agree to be bound by such modifications or revisions. Although we may attempt to notify you when major changes are made to these Terms of Service, you are expected to periodically review the most up-to-date version found at https://www.tube8.com/info.html#terms, so you are aware of any changes, as they are binding on you.
 
 If we change anything in these Terms of Service, the change will be reflected in the "last modified date". You agree that you will periodically review these terms and refresh the page when doing so. You agree to note the date of the last revision of these terms. If the "last modified" date is unchanged from the last time you reviewed these terms, then they are unchanged. On the other hand, if the date has changed, then there have been changes, and you agree to re-review the terms, and you agree to the new ones.
 
@@ -96,7 +96,7 @@ You are responsible for:
 *   making all arrangements necessary for you to have access to the Website;
 *   ensuring that all persons who access the Website through your internet connection are aware of these Terms of Service and comply with them.
 
-To access the Website or some of the resources it offers, you may be asked to provide certain registration details or other information. It is a condition of your use of the Website that all the information you provide on the Website is correct, current and complete. You agree that all information you provide to register with this Website or otherwise, including but not limited to through the use of any interactive features on the Website, is governed by our Privacy Policy found at http://www.tube8.com/info.html#privacy, and you consent to all actions we take with respect to your information consistent with our Privacy Policy.
+To access the Website or some of the resources it offers, you may be asked to provide certain registration details or other information. It is a condition of your use of the Website that all the information you provide on the Website is correct, current and complete. You agree that all information you provide to register with this Website or otherwise, including but not limited to through the use of any interactive features on the Website, is governed by our Privacy Policy found at https://www.tube8.com/info.html#privacy, and you consent to all actions we take with respect to your information consistent with our Privacy Policy.
 
 If you choose, or are provided with, a user name, password or any other piece of information as part of our security procedures, you must treat such information as confidential and, you must not disclose it to any other person or entity and you are fully responsible for all activities that occur under your user name or password. You also acknowledge that your account is personal to you and agree not to provide any other person with access to this Website or portions of it using your user name, password or other security information. You agree to notify us immediately of any unauthorized access to or use of your user name or password or any other breach of security by contacting us at: support@tube8.com. You also agree to ensure that you exit from your account at the end of each session. You should use particular caution when accessing your account from a public or shared computer so that others are not able to view or record your password or other personal information. Although the Website will not be liable for your losses caused by any unauthorized use of your account, you may be liable for the losses of the Website or others due to such unauthorized use.
 
@@ -215,7 +215,7 @@ Copyrights and Other Intellectual Property
 
 The Website respects the intellectual property of others, and requires that you do the same. You may not upload, embed, post, email, transmit or otherwise make available any Content that infringes any copyright, patent, trademark, trade secret, privacy, publicity or other proprietary rights of any person or entity.
 
-The Website operates a clear Copyright Policy in relation to any Content alleged to infringe the copyright of a third party. Details of that policy can be found at http://www.tube8.com/info.html#dmca. If you believe that any Content violates your copyright, please see our Copyright Policy http://www.tube8.com/info.html#dmca for instructions on sending us a notice of copyright infringement.
+The Website operates a clear Copyright Policy in relation to any Content alleged to infringe the copyright of a third party. Details of that policy can be found at https://www.tube8.com/info.html#dmca. If you believe that any Content violates your copyright, please see our Copyright Policy https://www.tube8.com/info.html#dmca for instructions on sending us a notice of copyright infringement.
 
 As part of our Copyright Policy, the Website will terminate user access to the Website if, under appropriate circumstances, a user has been determined to be a repeat infringer.
 
@@ -233,7 +233,7 @@ We may update the content on this Website from time to time, but its content is 
 
 Information about You and Your Visits to the Website
 
-All information we collect on this Website is subject to our Privacy Policy http://www.tube8.com/info.html#privacy. By using the Website, you consent to all actions taken by us with respect to your information in compliance with the Privacy Policy.
+All information we collect on this Website is subject to our Privacy Policy https://www.tube8.com/info.html#privacy. By using the Website, you consent to all actions taken by us with respect to your information in compliance with the Privacy Policy.
 
 Collection and Use of Your Usage Information by Advertisers and Others
 
@@ -318,7 +318,7 @@ Your Comments and Concerns
 
 This website is operated by MG Freesites Ltd, Block 1, 195-197 Old Nicosia-Limassol Road, Dali Industrial zone, Cyprus 2540.
 
-All notices of copyright infringement claims should be sent to the copyright agent designated in our Copyright Policy http://www.tube8.com/info.html#dmca in the manner and by the means set forth therein.
+All notices of copyright infringement claims should be sent to the copyright agent designated in our Copyright Policy https://www.tube8.com/info.html#dmca in the manner and by the means set forth therein.
 
 All other feedback, comments, requests for technical support and other communications relating to the Website should be directed to: support@tube8.com.
 
