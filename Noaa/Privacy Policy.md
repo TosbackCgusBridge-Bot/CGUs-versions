@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Educati
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Earth had 2nd warmest February, season and year to date on record Arctic and Antarctic sea ice extents were also record-low AROUND NOAA // Connect with NOAA at the National Science Teachers Association conference Map: The historical warmest and coldest 1st day of spring for thousands of U.S. locations Research on killer tornadoes in U.S. Southeast enters 2nd year
+Enter Search Terms A superbloom of wildflowers overtakes California's southeastern deserts AROUND NOAA // Connect with NOAA at the National Science Teachers Association conference Earth had 2nd warmest February, season and year to date on record Research on killer tornadoes in U.S. Southeast enters 2nd year
 
 *   About our agency
 *   News and features
