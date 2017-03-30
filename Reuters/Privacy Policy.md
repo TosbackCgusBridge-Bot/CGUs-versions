@@ -37,6 +37,7 @@ The world's most preferred online legal research service Start your free trial t
     *   Large &. Midsize Firms
     *   Corporate Counsel
     *   Government
+*   Content
 *   Training &. Support
 *   Free Trial
 
