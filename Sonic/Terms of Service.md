@@ -22,13 +22,14 @@ From SonicWiki Jump to: navigation, search Contents
     *   1.11 Bandwidth and Disk use quotas
     *   1.12 Digital Millennium Copyright Act
     *   1.13 Billing Policy
-    *   1.14 Equipment Policy
-    *   1.15 Sonic Wire Plan
-    *   1.16 Legal Process Policy
-    *   1.17 Regulatory
-    *   1.18 Terms and Conditions of Global Calling
-        *   1.18.1 Normal, Reasonable Residential Use:
-        *   1.18.2 Impermissible Use:
+    *   1.14 Promotion Policy
+    *   1.15 Equipment Policy
+    *   1.16 Sonic Wire Plan
+    *   1.17 Legal Process Policy
+    *   1.18 Regulatory
+    *   1.19 Terms and Conditions of Global Calling
+        *   1.19.1 Normal, Reasonable Residential Use:
+        *   1.19.2 Impermissible Use:
 
 Sonic.net Policies Sonic.net, Inc. General Policy
 
@@ -146,6 +147,10 @@ Billing Policy
 
 Billing Policy
 
+Promotion Policy
+
+Promotion Policy
+
 Equipment Policy
 
 Equipment Policy
@@ -190,7 +195,7 @@ Each of the following is impermissible under Sonic’s residential unlimited voi
 
 Pages in category "Policies"
 
-The following 8 pages are in this category, out of 8 total.
+The following 10 pages are in this category, out of 10 total.
 
 B
 
@@ -204,6 +209,10 @@ E
 
 *   Equipment Policy
 
+J
+
+*   Jobs FAQ
+
 L
 
 *   Legal Process Policy
@@ -211,6 +220,10 @@ L
 O
 
 *   Open Internet Principals
+
+P
+
+*   Promotion Policy
 
 Q
 
@@ -221,4 +234,4 @@ S
 *   Software Disclaimer
 *   Sonic Wire Plan
 
-Retrieved from "https://wiki.sonic.net/index.php?title=Category:Policies&oldid=5902"
+Retrieved from "https://wiki.sonic.net/index.php?title=Category:Policies&oldid=6224"
