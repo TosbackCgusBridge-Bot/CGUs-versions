@@ -23,6 +23,7 @@ Aéropostale
     *   Hoodies + Sweatshirts
     *   Long Sleeve
     *   Bodysuits
+    *   Cardigans
     *   Active Tops
     
     *   BOTTOMS
@@ -83,7 +84,6 @@ Aéropostale
     
     *   FEATURED
     *   Black White &. Mesh Allover
-    *   Sundazed
     *   Seamless
     *   Active
     *   Yoga
