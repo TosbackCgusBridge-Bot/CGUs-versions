@@ -15,6 +15,7 @@ Company Information
 *   Rate Data in print
 *   Press Room
 *   Investor Relations
+*   What's New
 
 Privacy Policy
 
