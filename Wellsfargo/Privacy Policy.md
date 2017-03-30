@@ -93,12 +93,10 @@ Insurance Products and Services
 *   Insurance Overview
 *   Auto Insurance
 *   Specialty Vehicle Insurance
-*   Life Insurance
 
  
 
 *   Homeowners Insurance
-*   Renters Insurance
 *   Umbrella Liability Insurance
 
 Your Financial Goals
