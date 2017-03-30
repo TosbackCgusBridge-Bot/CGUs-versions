@@ -120,7 +120,7 @@ menu 0 FREE SHIPPING ON $50+
     *   New Arrivals
     *   Backpacks &. Lunch Boxes
     *   Toddler Shop
-    *   Spring Break Must Haves
+    *   Kids' Room
     *   Swim Shop
     *   School Uniforms
     *   Iron Knee Pants
@@ -139,15 +139,15 @@ menu 0 FREE SHIPPING ON $50+
     Girls>.
     
     *   Swimsuits
-    *   Outerwear
     *   Tops
+    *   Shorts
     *   Sweaters
     *   Dresses
     *   Pants &. Leggings
     *   Jeans
+    *   Outerwear
     *   Skirts &. Skorts
     *   Sleepwear
-    *   Shorts
     *   Blazers &. Jackets
     *   Backpacks &. Lunch Boxes
     *   Shoes
@@ -155,13 +155,13 @@ menu 0 FREE SHIPPING ON $50+
     
     Boys>.
     *   Swimwear
-    *   Outerwear
     *   Tops
+    *   Shorts
     *   Sweaters
     *   Pants
     *   Jeans
+    *   Outerwear
     *   Sleepwear
-    *   Shorts
     *   Blazers &. Jackets
     *   Backpacks &. Lunch Boxes
     *   Activewear
@@ -387,7 +387,7 @@ menu 0 FREE SHIPPING ON $50+
         *   New Arrivals
         *   Backpacks &. Lunch Boxes
         *   Toddler Shop
-        *   Spring Break Must Haves
+        *   Kids' Room
         *   Swim Shop
         *   School Uniforms
         *   Iron Knee Pants
@@ -404,15 +404,15 @@ menu 0 FREE SHIPPING ON $50+
     *   Girls
         *   Back
         *   Swimsuits
-        *   Outerwear
         *   Tops
+        *   Shorts
         *   Sweaters
         *   Dresses
         *   Pants &. Leggings
         *   Jeans
+        *   Outerwear
         *   Skirts &. Skorts
         *   Sleepwear
-        *   Shorts
         *   Blazers &. Jackets
         *   Backpacks &. Lunch Boxes
         *   Shoes
@@ -420,13 +420,13 @@ menu 0 FREE SHIPPING ON $50+
     *   Boys
         *   Back
         *   Swimwear
-        *   Outerwear
         *   Tops
+        *   Shorts
         *   Sweaters
         *   Pants
         *   Jeans
+        *   Outerwear
         *   Sleepwear
-        *   Shorts
         *   Blazers &. Jackets
         *   Backpacks &. Lunch Boxes
         *   Activewear
