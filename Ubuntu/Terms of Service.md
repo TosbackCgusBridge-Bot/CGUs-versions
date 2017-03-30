@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   USB hotplug with LXD containers ›
+*   Making snap packages of photogrammetry software ›
+*   Carrier Cloudification: What every telecom executive needs to know ›
+*   NVidia CUDA inside a LXD container ›
 *   Battlestar Solution ›
-*   Machine Learning with Snaps ›
-*   Job Concurrency in Kubernetes: LXD &. CPU pinning to the rescue ›
-*   Bare Metal Server Provisioning is Evolving the HPC Market ›
-*   Putting Ubuntu in embedded ›
