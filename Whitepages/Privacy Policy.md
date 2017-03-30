@@ -96,9 +96,9 @@ Third parties may collect information in order to (i) deliver relevant online an
 
 4\. How will they use the information they collect? Will they share it?
 
-Collection and use of data is subject to the privacy policies of the third party companies with whom we work, such as the privacy policy of AdMarvel
+Collection and use of data is subject to the privacy policies of the third party companies with whom we work, such as the privacy policy of AdMarvel or Google. Accordingly, please review those policies for specific information. If you prefer not to have your data collected and analyzed by Google, you may install the Google Analytics Opt-out Browser Add-on.
 
-cyzqrtcz or Google. Accordingly, please review those policies for specific information. If you prefer not to have your data collected and analyzed by Google, you may install the Google Analytics Opt-out Browser Add-on. 5. How do I stop the collection and use of my information by third parties?
+5\. How do I stop the collection and use of my information by third parties?
 
 To stop collection of information in connection with the use of our products and services, you will need to stop using them. To opt-out of Whitepages mobile app marketing program tracking, click here. To stop collection of browsing information via supporting web browsers, click here. To stop information collection for purposes of relevant online advertising, click here. At this time, there is no industry solution to opt-out of receiving relevant mobile advertising, but to opt-out of tracking from Whitepages’s own mobile app marketing programs, go to our third party provider’s Web site by clicking here.
 
