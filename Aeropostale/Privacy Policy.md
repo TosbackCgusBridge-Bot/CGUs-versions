@@ -6,8 +6,7 @@ Aéropostale
     *   #FREETOBE
     *   TRENDING
     *   Buy 1 Get 2 FREE
-    *   Prince + Fox
-    *   Cape Juby
+    *   Limited Edition
     *   Uniform
     *   Swim
     *   Online Only
@@ -55,8 +54,9 @@ Aéropostale
     *   NEW ARRIVALS
     *   #FREETOBE
     *   TRENDING
-    *   Prince &. Fox
-    *   Cape Juby
+    *   Life is a Beach
+    *   Stretch Shop
+    *   Limited Edition
     *   Uniform
     *   Online Only
     *   Extended Sizes
