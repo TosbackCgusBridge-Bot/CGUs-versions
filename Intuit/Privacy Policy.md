@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true L15862237034
+true true L15863858083
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p05.jcpenney.com SERVER NAME :->. dtcomexpr1l1j6 TIME :->. Wed Mar 29 11:16:42 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.4.0.0.39.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Thu Mar 30 11:15:44 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.4.0.0.39.0
 
 *   for the home
 *   bed &. bath
@@ -56,39 +56,19 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 true
 
-Up To 80% Off Clearaway Final Markdowns
+9.99 Women's St. John's Bay Graphic Tees
 
-In Store &. Online
+Select styles, including petite
 
-Find A Store Shop Now Shop Women Shop Men Shop Kids Shop Shoes Shop Handbags Shop Jewelry Shop Window Shop Home Your Spring Wardrobe Refresh 30 to 40% Off Women's Dresses
+Shop Women's St. John's Bay12.99 Men's St. John's Bay Performance Polo
 
-Select styles, reg. $50-$86
+Select styles
 
-Shop Women's Dresses50% Off Men's Stafford Sport Coats
+Shop Men's St. John's Bay 24.99 Women's Sandals, select styles Your Spring Home Refresh
 
-Select styles, reg. $125-$200
+99.99 All 7-Piece Jacquard Queen Comforter Set
 
-Shop Men's Stafford Sport Coats40 to 50% Off Kids' Dress Up
-
-Select styles, reg. $30-$100
-
-Shop Girls' Dress Up Shop Boys' Dress Up     Now Trending: Blush Shop The Trend 24.99 Worthington Flounce Skirt, orig. $44 2017 Prom 60% Off Prom Dresses
-
-Select styles, reg. $100-$250
-
-Shop Prom Dresses Shop Plus-Size Prom Dresses  40 to 50% Off\* Suit Separates &. Tuxedos
-
-Select styles, reg. $60-$275
-
-Shop Guys Prom   LG Do Gameday Right | Team Up and Save Big LG Black Stainless Steel Series
-
-Offical Corporate Partner of NCAA© March Madness©
-
-Shop Black Stainless Steel Series Shop LG NCAA March Madness
-
-Valid 12/21/16 - 5/3/17. Offers available on specific models and subject to change. See store for details.
-
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Mar 29 22:06:50 CDT 2017 JVM :->. dtexppr1l1j6\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Mar 29 03:57:53 CDT 2017 JVM :->. dtexppr1l1j5\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Comforter Sets Bedding Window Kitchen &. Dining Furniture &. Mattresses Shop All Home 2017 Prom Everything you need to dance the night away. Prom Dresses Plus-Size Prom Dresses Suit Separates &. Tuxedos Dress Shirts     Clearaway! Final Markdowns Up To 80% Off In Store &. Online Shop Now Find a Store Women Men Kids Home Jewelry Handbags Shoes \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Mar 30 22:09:30 CDT 2017 JVM :->. dtexppr1l2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Mar 30 04:14:45 CDT 2017 JVM :->. dtexppr1l2j4\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
