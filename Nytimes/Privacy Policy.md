@@ -1,8 +1,8 @@
-campaign: nyt2017\_bar1\_digi\_Q1\_69F7Y -- 285506, creative: 2\_bar1\_digi\_Q1\_69F7Y\_lastchance -- 415945, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
+campaign: nyt2017\_bar1\_digi\_Q1\_69F7Y -- 285506, creative: 3\_bar1\_digi\_Q1\_69F7Y\_endstoday -- 415946, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
 
 *   SUBSCRIBE NOW Opinions. Provoked.  
     The New York Times  
-    sale ends soon. 50% off for one year. SAVE NOW
+    sale ends today. 50% off for one year. SAVE NOW
 
 Subscribe*   Help
 
