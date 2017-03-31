@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Becoming Better Solar Meteorologists, With Help From Some Monster Waves**
+**This Is How We'll Detect Life on Distant Exoplanets**
 
-**Researchers 'Teleport' Virtual Lemonade Using Sensors and Bluetooth**
+**Whole-body Vibration Is As Effective As Exercise in Mice, Study Shows**
 
-**Climate Helped Shape the Human Nose, Study Says**
+**Exploring the Therapeutic Possibilities of Future Sexbots**
 
 **See More Headlines »**
 
