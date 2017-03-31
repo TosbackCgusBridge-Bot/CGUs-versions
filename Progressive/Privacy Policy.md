@@ -193,7 +193,7 @@ We offer insurance by phone, online and through independent agents. Prices vary 
         *   How to Jump a Battery
     *   Report or Track a Claim Log In to Policy
         
-        Or, call 1-800-274-4499
+        Or, call 1-800-776-4737
         
         Not a Customer? Track claim here
         
@@ -234,12 +234,6 @@ Quote &. save today!
 
 Zip Code 
 
-Bundle for even more savings!
-
-*   Auto + Home
-*   Auto + Renters
-*   Auto + Condo
-
 *   Auto
 *   Home
 *   Renters
@@ -261,4 +255,4 @@ Bundle for even more savings!
 *   Mechanical Repair
 *   Auto Financing
 
-Auto + HomeAuto + RentersAuto + CondoAutoHomeRentersCondoMobile HomeClassic CarMotorcycle/ATVBoat/PWCRV/TrailerSnowmobileLifeHealthCommercial AutoBusinessTravelPetMechanical RepairAuto Financing 
+AutoHomeRentersCondoMobile HomeClassic CarMotorcycle/ATVBoat/PWCRV/TrailerSnowmobileLifeHealthCommercial AutoBusinessTravelPetMechanical RepairAuto Financing 
