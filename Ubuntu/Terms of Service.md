@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Snaps are now available for Ubuntu 14.04 LTS desktop and server ›
 *   USB hotplug with LXD containers ›
 *   Making snap packages of photogrammetry software ›
 *   Carrier Cloudification: What every telecom executive needs to know ›
 *   NVidia CUDA inside a LXD container ›
-*   Battlestar Solution ›
