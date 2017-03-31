@@ -2,6 +2,7 @@ English (United States)
 
 Book online or call 800-246-8357This call is free. 24 hours a day. 7 days a week.
 
+*   Hotels
 *   Hotel Deals
 *   Packages &. Flights
 *   Groups
@@ -13,6 +14,7 @@ Book online or call 800-246-8357This call is free. 24 hours a day. 7 days a week
     *   Sign in
     *   Create an account
     *   Your bookings
+    *   Trip Planner
     *   Review a hotel
 *   Hotels.com® Rewards
 *   Your bookings
