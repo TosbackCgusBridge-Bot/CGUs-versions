@@ -119,12 +119,13 @@ menu 0 FREE SHIPPING ON $50+
     
     *   New Arrivals
     *   Backpacks &. Lunch Boxes
-    *   Toddler Shop
-    *   Kids' Room
     *   Swim Shop
-    *   School Uniforms
+    *   Toddler Shop
     *   Iron Knee Pants
     *   Girls' Knit Kit
+    *   School Uniforms
+    *   Kids' Room
+    *   Summer Collections
     *   Sale
     
     SHOP BY AGE RANGE
@@ -254,10 +255,13 @@ menu 0 FREE SHIPPING ON $50+
     
     More for the Home >.
     
+    *   Outdoor Living
     *   Storage &. Organization
     *   Door Mats
     *   Luggage &. Bags
     *   Canvas Totes
+    *   Entertaining
+    *   Decor
     
     BEDDING >.
     
@@ -283,7 +287,7 @@ menu 0 FREE SHIPPING ON $50+
     *   Toys &. Gifts
     *   Bean Bag Chairs
     *   Sleeping Bags
-    *   Baby BlanketsDOG SHOP >. SEASONAL DECOR >. ENTERTAINING >.
+    *   Baby BlanketsDOG SHOP >.
 *   Sale SHOP SALE
     
     *   Women
@@ -386,12 +390,13 @@ menu 0 FREE SHIPPING ON $50+
         *   Back
         *   New Arrivals
         *   Backpacks &. Lunch Boxes
-        *   Toddler Shop
-        *   Kids' Room
         *   Swim Shop
-        *   School Uniforms
+        *   Toddler Shop
         *   Iron Knee Pants
         *   Girls' Knit Kit
+        *   School Uniforms
+        *   Kids' Room
+        *   Summer Collections
         *   Sale
     *   SHOP BY AGE RANGE
         *   Back
@@ -525,10 +530,13 @@ menu 0 FREE SHIPPING ON $50+
         *   Sale
     *   More for the Home
         *   Back
+        *   Outdoor Living
         *   Storage &. Organization
         *   Door Mats
         *   Luggage &. Bags
         *   Canvas Totes
+        *   Entertaining
+        *   Decor
     *   BEDDING
         *   Back
         *   Sheets &. Pillowcases
@@ -554,8 +562,6 @@ menu 0 FREE SHIPPING ON $50+
         *   Sleeping Bags
         *   Baby Blankets
     *   DOG SHOP
-    *   SEASONAL DECOR
-    *   ENTERTAINING
 *   Sale
     *   Back
     *   Shop all Sale
