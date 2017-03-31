@@ -12,6 +12,10 @@ For your protection, we are registered under the Data Protection Act 1998 and ha
 
 By visiting www.haven.com you are accepting and consenting to the practices described in this Privacy Notice.
 
+**Who we are**
+
+Haven Holidays, Bourne Leisure Ltd, 1 Park Lane, Hemel Hempstead, Herts, HP2 4YL. We are the data controller as defined in the Data Protection Act 1998.
+
 **Collection and Use of Personal Information**
 
 We use the information submitted on this site to handle booking requests, deliver products and services (i.e. brochures, booking confirmations), communicate with you about bookings, services and promotional offers, update our records and generally maintain your details.
@@ -62,17 +66,21 @@ On behalf of the operator of this website Google will use this information for t
 
 When you visit our website, we store web server logs which show your IP address, this gives us information such as which pages you looked at, whether the page request was successful or not and which browser you use to view the page. The use of this data is purely for statistical purposes.
 
-**Brochure Requests, Enquiry Forms, Contact Us and Online Booking**
+**Data disclosed to third parties**
 
-The information you supply on the Brochure Request, Enquiry Forms, Contact Us and Online Booking pages on this website is primarily used to enable us to send you a copy of the requested brochure, answer your query or to process your booking.
+In order to process your Brochure Request, enquiry, query or online booking, or log in using My Haven Holiday on the What's On App we will need to record your personal details such as your email address in the App. This information may be shared with external companies who carry out work on our behalf.
 
-In order to process your Brochure Request, enquiry, query or online booking we will need to record your personal details. This information may be shared with external companies who carry out work on our behalf.
+We only send data to partners processing data for communications on our behalf (i.e. acting as an extension to our team, such as printers, media partners etc) or for analysis purposes as outlined below.
 
-Your phone number is requested and collected to enable us to contact you to answer your query, or in the future for research or marketing purposes. This is not a compulsory field.
+We do sometimes run a few analysis exercises with third parties but the data provided for these purposes is basic and anonymized (e.g. town, postcode), which means that people wouldn’t be able to be identified or contacted by using this information in any way.
 
-Your email address may be used by Haven for marketing purposes if you have checked the box stating that you wish to receive news and information via email from Haven.
+From the App, information is shared with third party analytic tools for internal reporting and diagnosing of issues. Only anonmyised data is used in this process.
 
 You can unsubscribe from our email database by clicking on the remove link at the base of each email or by sending an email to data.protection@haven.com.
+
+**Why data processing is necessary**
+
+To ensure your experience of the Haven What's On App, we need to check your booking location and dates of your break to populate the app with the correct activities for your break. This is why we ask for certain details when you login such as you’re my Haven Holiday account email and password.
 
 **What if you think we have incorrect information or you would like a copy of the information we hold about you?**
 
@@ -94,6 +102,14 @@ If you believe that any information we are holding on you is incorrect or incomp
 **Security**
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+**What rights consumers have to consent and delete data**
+
+If you log in to the What's On App, using your email address you have registered on My Haven Holiday or under your My Account, you can unsubscribe from our email database by clicking on the remove link at the base of each email we send to you or by sending an email to data.protection@haven.com
+
+As we do not retain data in the app itself, any requests for deletion of your data would only relate to the website log-in that you use to request brochures, send us queries and book online. You can request deletion of this data by sending a request to the email address above. This means that you will no longer be able to use our online services to request brochures, send enquiries and make bookings.
+
+Data is not shared with third parties and is most definitely not sold on.
 
 **Other Websites**
 
