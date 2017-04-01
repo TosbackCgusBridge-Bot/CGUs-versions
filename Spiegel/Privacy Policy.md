@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 12.256,43ǀ
+*   DAX 12.312,87ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -136,7 +136,7 @@ Mein SPIEGEL
         *   Europa
         *   Fernweh
         *   Skiatlas
-    
+    *   *   Deals der Woche
 *   Auto
     *   *   Übersicht
         *   Tests
@@ -669,6 +669,7 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
     *   Sudoku
     *   Kenken
     *   Streets
+    *   Reise-Deals
 *   *   Aktion Mensch
     *   Bücher bestellen
     *   Hörbücher
