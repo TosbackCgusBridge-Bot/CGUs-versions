@@ -1,5 +1,3 @@
-Post a Job Search Resumes
-
 Hello.
 
 Sign in to find your next hire.
@@ -9,13 +7,9 @@ Sign In or Sign Up
 *   Home
 
 *   Post Jobs
-    *   Buy Job Postings
-    *   About Job Postings
 *   Search Resumes
-    *   Buy Resume Database Access
-    *   About Resume Database
 *   Products and Resources
-    *   Post a Job
+    *   Post Jobs
     *   Search Resumes
     *   Browse Products
     *   Resource Center
