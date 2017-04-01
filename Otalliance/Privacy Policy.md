@@ -106,6 +106,10 @@ More >>.
 *   OTA Blog
 *   Newsletters
 
+Thu, Mar 30, 2017 Repeal of FCC Privacy Rules. A Sad Day for Consumers
+
+The vote to repeal FCC broadband privacy controls is a sad day for consumers, businesses and the United States.  While the rest of the world is increasingly recognizing privacy as a basic human right, Congress has failed the U.S.
+
 Mon, Mar 13, 2017 OTA Response to NTIA IoT Green Paper
 
 Tue, Nov 15, 2016 IoT Threats - What we can do today and tomorrow
@@ -119,10 +123,6 @@ Wed, Nov 9, 2016 Why the Insurance Industry Will Never Be the Same After the Mir
 **Guest Blog from Pascal Millaire, Symantec**
 
  We are entering a new era for global insurers, where business interruption claims are no longer confined to a limited geography, but can simultaneously impact seemingly disconnected insureds globally. This creates new forms of systemic risks that could threaten the solvency of major insurers if they do not understand the silent and affirmative cyber risks inherent in their portfolios.  
-
-Mon, Nov 7, 2016 Responsible, Coordinated &. Ethical Vulnerability Disclosures
-
-As a participant of NTIA’s multi-stakeholder vulnerability working group and an attendee to this week’s meeting in DC, I was impressed by the level of collaboration and sharing of best practices.  Progress is encouraging.
 
 More >>. Resources
 
