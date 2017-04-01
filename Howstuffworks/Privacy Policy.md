@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**This Is How We'll Detect Life on Distant Exoplanets**
+**Why We Shouldn't Forget Ellen Richards, Founder of the Home Ec Movement**
 
-**Whole-body Vibration Is As Effective As Exercise in Mice, Study Shows**
+**Mario Batali, American Chemical Society Weigh in on the Science of Pasta**
 
-**Exploring the Therapeutic Possibilities of Future Sexbots**
+**Weather Patterns Are Getting Stuck as Climate Changes Affect the Jet Stream**
 
 **See More Headlines »**
 
