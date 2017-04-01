@@ -248,9 +248,10 @@ menu 0 FREE SHIPPING ON $50+
     
     *   New Arrivals
     *   Supima Bedding &. Bath
-    *   Flannel Bedding
     *   No Iron Bedding
     *   Bedding Basics
+    *   Bedding Collections
+    *   Backyard
     *   Sale
     
     More for the Home >.
@@ -524,9 +525,10 @@ menu 0 FREE SHIPPING ON $50+
         *   Back
         *   New Arrivals
         *   Supima Bedding &. Bath
-        *   Flannel Bedding
         *   No Iron Bedding
         *   Bedding Basics
+        *   Bedding Collections
+        *   Backyard
         *   Sale
     *   More for the Home
         *   Back
