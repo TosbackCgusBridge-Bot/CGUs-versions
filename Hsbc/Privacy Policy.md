@@ -158,20 +158,14 @@ Online bankingOnline banking
 *   \>
 *   Terms and conditions
 
-Terms and conditions Share
-
-*   Print this page
-*   E-mail this link
-
-*   Subscribe to RSS
-
-*   Share on Facebook
-
-*   Share on LinkedIn
-
-*   Tweet this
+Terms and conditions Share Print this page
 
 *   Share
+*   Tweet this
+*   Share on LinkedIn
+*   Share on Facebook
+*   Subscribe to RSS
+*   E-mail this link
 
 **hsbc.com** provides a portal, or gateway, to the financial services offered by members of the **HSBC Group**. The Site is owned by **HSBC Holdings plc**.
 
