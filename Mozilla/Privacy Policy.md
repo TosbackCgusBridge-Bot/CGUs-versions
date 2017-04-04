@@ -1,10 +1,96 @@
-Mozilla Menu
+Menu Mozilla
 
+*   Firefox
 *   Internet Health
-*   Web Innovations
-*   Donate
+*   Technology
+*   About Us
+*   Get Involved
 
-Home >. Mozilla Privacy >. Websites, Communications &. Cookies Privacy Notice
+Download Firefox — English (US)
+
+*   Windows (XP/Vista)
+*   Windows
+*   Windows 64-bit
+*   macOS
+*   Linux
+*   Linux 64-bit
+*   Android
+*   iOS
+
+Your system may not meet the requirements for Firefox, but you can try one of these versions:
+
+Download Firefox — English (US)
+
+*   Windows (XP/Vista)
+*   Windows
+*   Windows 64-bit
+*   macOS
+*   Linux
+*   Linux 64-bit
+*   Android
+*   iOS
+
+Your system doesn't meet the requirements to run Firefox.
+
+Your system doesn't meet the requirements to run Firefox.
+
+Please follow these instructions to install Firefox.
+
+*   **Download Firefox**
+*   **Download Firefox**
+*   **Download Firefox**
+*   **Download Firefox**
+*   **Download Firefox**
+*   **Download Firefox**
+*   **Download Firefox**
+*   **Download Firefox**
+
+Firefox Privacy Close
+
+*   Firefox
+    
+    Get the only browser built for people, not profit.
+    
+    *   About Firefox
+    *   Desktop Browser
+    *   iOS Browser
+    *   Android Browser
+    *   Support
+    *   Add-onsFaster Browser Fast, Responsive, Reliable: A Browser for the Multi-Tab Age Better Browsing Smooth Scrolling: How a Web Browser Removes Jank
+*   Internet Health
+    
+    Internet Health is crucial for the world to thrive. A healthy Internet is one that is private, inclusive, and collaborative.
+    
+    *   What is Internet Health?
+    *   Privacy &. Security
+    *   Digital Inclusion
+    *   Open InnovationPrivacy Facebook privacy tips: How to share without oversharing Security Don’t Get Pwned: A Guide to Safer Logins
+*   Technology
+    
+    Participate and explore our latest innovations — technology built in the open and designed to help keep the Internet healthy.
+    
+    *   Web Innovations
+    *   MDNOptimized for Design A new CSS Grid demo Game-changing Browser Lots new in Firefox, including support for WebAssembly
+*   About Us
+    
+    We’re Mozilla, the proudly non-profit champions of a healthy Internet – keeping it open and accessible to all.
+    
+    *   Our Mission
+    *   Our History
+    *   Leadership
+    *   Foundation
+    *   Blogs
+    *   Careers
+    *   Contact Us
+*   Get Involved
+    
+    You can help Mozilla keep the Internet healthy – attend an event, volunteer, or make a donation.
+    
+    *   Give
+    *   Volunteer
+    *   Events
+
+Websites, Communications &. Cookies Privacy Notice
 
 February 27, 2017
 
