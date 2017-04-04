@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true L15870721986
+true true C15869359138
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p13.jcpenney.com SERVER NAME :->. dtcomexpr1l1j1 TIME :->. Sun Apr 02 11:15:33 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.4.0.0.39.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p15.jcpenney.com SERVER NAME :->. dtcomexpr1c1j6 TIME :->. Mon Apr 03 11:07:57 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.4.0.0.39.0
 
 *   for the home
 *   bed &. bath
@@ -56,7 +56,23 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 true
 
-9.99 Women's St. John's Bay Graphic Tees
+Celebrate Easter Priced to Buy. Guaranteed to Love.
+
+In Store &. Online | Ends April 11
+
+Shop Now View Store Ad Women Men Kids Shoes Jewelry Handbags Bedding Home 59.99 &. Up Men's Suit Separates, Sport Coats &. Dress Pants
+
+Select styles
+
+Shop Men's Dress Clothes39.99 Dresses
+
+select styles
+
+Shop Dresses14.99-42.99 Kids' Dress Up
+
+Select styles
+
+Shop Girls   Shop Boys   9.99 Women's St. John's Bay Graphic Tees
 
 Select styles
 
@@ -64,11 +80,11 @@ Shop Women's St. John's Bay12.99 Men's St. John's Bay Performance Polo
 
 Select styles
 
-Shop Men's St. John's Bay 24.99 Women's Sandals, select styles Your Spring Home Refresh
+Shop Men's St. John's Bay Your Spring Home Refresh
 
 149.99 All 10-Piece Queen Comforter Sets
 
-Shop Comforter Sets Shop All Home Bedding Window Kitchen &. Dining Furniture &. Mattresses 2017 Prom Everything you need to dance the night away. Prom Dresses Plus-Size Prom Dresses Suit Separates &. Tuxedos Dress Shirts     Clearaway! Final Markdowns Up To 80% Off In Store &. Online Shop Now Find a Store \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Apr 02 22:04:40 CDT 2017 JVM :->. dtexppr1l1j5\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Apr 02 22:01:22 CDT 2017 JVM :->. dtexppr1l1j5\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Comforter Sets Shop All Home Bedding Window Kitchen &. Dining Furniture &. Mattresses 2017 Prom Everything you need to dance the night away. Prom Dresses Plus-Size Prom Dresses Suit Separates &. Tuxedos Dress Shirts     Clearaway! Final Markdowns Up To 80% Off In Store &. Online Shop Now Find a Store \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Apr 03 22:19:53 CDT 2017 JVM :->. dtexppr1c1j6\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon Apr 03 21:59:36 CDT 2017 JVM :->. dtexppr1l2j1\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
