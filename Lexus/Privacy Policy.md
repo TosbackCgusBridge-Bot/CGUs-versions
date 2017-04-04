@@ -90,11 +90,11 @@ Help &. Support
 Brand &. Lifestyle
 
 *   SEE LEXUS
+*   LEXUS PERFORMANCE
 *   MOTORSPORTS
 *   TUNED CARS
 *   Lexus Plus
 *   L Studio Films
-*   F/F SPORT Performance
 *   LFA Supercar
 *   Lexus Hybrids
 *   Lexus Merchandise
@@ -144,11 +144,11 @@ Brand &. Lifestyle
     *   FAQs
 *   Brand &. Lifestyle
     *   SEE LEXUS
+    *   LEXUS PERFORMANCE
     *   MOTORSPORTS
     *   TUNED CARS
     *   Lexus Plus
     *   L Studio Films
-    *   F/F SPORT Performance
     *   LFA Supercar
     *   Lexus Hybrids
     *   Lexus Merchandise
