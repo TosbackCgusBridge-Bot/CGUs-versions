@@ -20,7 +20,7 @@ Menu PayPal
 
 *   Sign Up for Free
 
-Log In Sign Up Shop millions of sites with PayPal. Sign Up for Free
+Log In Sign Up Join the millions of people using PayPal. Sign Up for Free
 
 Explore Business Solutions
 
