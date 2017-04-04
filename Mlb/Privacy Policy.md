@@ -50,17 +50,18 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Must C
     *   Chatting Cage
     *   FastCast
-    *   Field Experts
+    *   Sharable Video/GIFs
     *   Outstandings
     *   Cut4
-    *   Baseball's Best Moments
+    *   Baseball's Best
 *   Stats Stats Stats
+    *   2017 Regular Season Stats
+    *   2017 Regular Season League Leaders
+    *   2017 Sortable Team Stats
     *   Spring Training Sortable Stats
     *   Postseason Sortable Stats
-    *   Regular Season Sortable Stats
-    *   Regular Season League Leaders
+    *   2016 Regular Season Sortable Stats
     *   Statcast Leaders
-    *   Sortable Team Stats
     *   Milestone Tracker
     *   Offseason Leagues
     *   Scoring Changes
@@ -131,6 +132,8 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
 *   MLB.TV MLB.TV MLB.TV
     *   Buy MLB.TV
     *   Watch MLB.TV
+    *   Buy Follow Your Team
+    *   View MLB.TV Demo
     *   Buy Gameday Audio
     *   Alternative Audio
     *   MLB.TV Devices
@@ -141,7 +144,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Contact Uswbc Spring Training
 *   Auction
 *   Fantasy Fantasy Fantasy
-    *   2017 Fantasy Player Preview
+    *   Beat the Streak
     *   R.B.I. Baseball 17
     *   MLB.com Home Run Derby
     *   MLB.com Line Drive
@@ -168,6 +171,8 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Youth Academies
     *   Breakthrough Series
     *   Elite Development Invitational
+    *   USA Baseball
+    *   USA Softball
 *   Teams Teams American League AL East
     
     *   Baltimore
