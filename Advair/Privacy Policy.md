@@ -208,6 +208,7 @@ Menu
         *   The race to richer data in clinical trials
         *   Scientists or detectives? Seeking new clues in COPD
         *   Cell and gene therapy: a new era of medicine
+        *   On target for a new era of drug discovery?
         *   Take a deep breath - your lung microbiome will appreciate it
     *   Access to healthcare
         *   Access to healthcare
