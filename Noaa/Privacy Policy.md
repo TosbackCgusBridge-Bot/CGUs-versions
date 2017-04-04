@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Education Connect with NOAA at the National Science Teachers Association conference Weather Spring Outlook: Risk of major flooding in North Dakota, moderate flooding in Idaho National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Marine &. Aviation NOAA research ship returns to Charleston home port after worldwide deployment Weather Spring Outlook: Risk of major flooding in North Dakota, moderate flooding in Idaho National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Educati
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms A superbloom of wildflowers overtakes California's southeastern deserts AROUND NOAA // Connect with NOAA at the National Science Teachers Association conference Earth had 2nd warmest February, season and year to date on record Research on killer tornadoes in U.S. Southeast enters 2nd year
+Enter Search Terms A superbloom of wildflowers overtakes California's southeastern deserts AROUND NOAA // Earth had 2nd warmest February, season and year to date on record Research on killer tornadoes in U.S. Southeast enters 2nd year
 
 *   About our agency
 *   News and features
