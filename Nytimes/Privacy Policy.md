@@ -1,10 +1,4 @@
-campaign: nyt2017\_bar1\_digi\_Q1\_69F7Y -- 285506, creative: 3\_bar1\_digi\_Q1\_69F7Y\_endstoday -- 415946, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1
-
-*   SUBSCRIBE NOW Opinions. Provoked.  
-    The New York Times  
-    sale ends today. 50% off for one year. SAVE NOW
-
-Subscribe*   Help
+*   Help
 
 *   Home Page
 *   Today's Paper
@@ -249,5 +243,3 @@ Search Help
 *   Help
 *   Contact Us
 *   Site Feedback
-
-Campaign ID: 285217 | Creative: nyt2017\_pers\_B2B\_cookieset\_v5\_HTTPS -- 415673 | Page: www.nytimes.com/content/help/front.html / Targeted Page: www.nytimes.com/content/help/front.html | Position: Inv3
