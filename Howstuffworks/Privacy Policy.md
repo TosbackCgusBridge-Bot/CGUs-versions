@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Why We Shouldn't Forget Ellen Richards, Founder of the Home Ec Movement**
+**Give Me Some Antibiotics and a Side of Maple Syrup**
 
-**Mario Batali, American Chemical Society Weigh in on the Science of Pasta**
+**What's the Best Age to Do Anything?**
 
-**Weather Patterns Are Getting Stuck as Climate Changes Affect the Jet Stream**
+**Chemists Are on the Hunt for a Long-lasting Sunscreen**
 
 **See More Headlines »**
 
