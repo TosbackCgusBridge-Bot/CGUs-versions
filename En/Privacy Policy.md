@@ -20,7 +20,33 @@ Toggle navigation
     *   Assets
 *   Contact
 
-The world's largest software and app discovery destination Every month, over 100 million people trust us to help them find solutions Connecting people with technology to enhance their lives
+**LEGAL INFORMATION** 
+
+Softonic International S.A. owns, amongst others, the corresponding country domains of numerous countries across Europe, Asia and other parts of the world.
+
+Softonic International, S.A.  
+Edificio MediaTIC  
+Calle Roc Boronat, 117, 6th floor.  
+08018 Barcelona,  
+Spain
+
+Tel: +34 – 936 012 700  
+Fax: +34 – 933 969 292  
+Email: legal@softonic.com
+
+Softonic International S.A.: Tax Identification Number: A-62134341. Filed with the Commercial Registry of Barcelona, Book 44171, Page 136, Sheet B 210880.
+
+SHAREHOLDERS’ MEETING
+
+TERMS OF USE
+
+PRIVACY POLICY
+
+COOKIES POLICY
+
+MULTI-CAMPAIGN ADVERTISING
+
+ADS &. SOFTWARE POLICY
 
 **Headquarters**
 
@@ -32,6 +58,16 @@ Roc Boronat 117, Planta 6
 
 08018 Barcelona, Spain
 
-93 123 45 67 press@softonic.com Work with us!
+93 123 45 67 press@softonic.com
+
+*   For Users
+*   For Advertisers
+*   About Us
+*   Work
+*   Blog
+*   News
+*   Contact
+
+Work with us!
 
 2017 © All Rights Reserved  •  Legal Information • Terms of Use  •  Privacy Policy
