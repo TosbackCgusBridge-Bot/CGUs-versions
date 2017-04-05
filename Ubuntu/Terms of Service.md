@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
-*   The MirAL Story ›
+*   Nexiona collaborates with Canonical and Dell to create MIIMETIQ Edge ›
+*   The MirAL story ›
 *   Cloud Chatter: March 2017 ›
-*   OVH Joins Ubuntu Certified Public Cloud Programme ›
+*   OVH joins Ubuntu Certified Public Cloud Programme ›
 *   Snaps are now available for Ubuntu 14.04 LTS desktop and server ›
-*   USB hotplug with LXD containers ›
