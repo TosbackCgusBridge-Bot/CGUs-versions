@@ -28,7 +28,7 @@ Log in to AVG MyAccount MENU Skip to content Close
     *   Products
     *   AVG Managed Workplace®
     *   AVG CloudCare™
-    *   AVG Secure Sign On
+    *   Centrify Identity Service
     *   AVG Business Security Products
     *   Why Partner With AVG Business
     *   Find a Partner
