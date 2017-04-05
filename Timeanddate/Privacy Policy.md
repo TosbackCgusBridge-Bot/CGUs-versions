@@ -113,6 +113,8 @@ This site contains links to other sites. timeanddate.com is not responsible for 
 
 Our online surveys may ask visitors for contact information (such as their email address). The customer's contact information is used to contact the visitor when necessary.
 
+Advertising
+
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. For more information about this practice and your possibility to opt out, click here.
 
 Third-party Privacy Policies
@@ -137,12 +139,13 @@ webmaster@timeanddate.com timeanddate.com
 4.  Privacy Statement
 5.  Copyright
 6.  Logo Use
-7.  Support Us
-8.  Ad Blockers
-9.  Work Here
-10.  Advertise
-11.  Credits
-12.  Disclaimer
+7.  GeoNames
+8.  Support Us
+9.  Ad Blockers
+10.  Work Here
+11.  Advertise
+12.  Credits
+13.  Disclaimer
 
 Index
 
@@ -150,9 +153,9 @@ You might also like 12 Months of the Year
 
 Find out what months have to do with the Moon, why there are 12 months, and what the month names mean. more
 
-2017 Cosmic Calendar
+2017 / 2018 Cosmic Calendar
 
-List of cosmic events in 2017 including supermoons, solar and lunar eclipses, meteor showers, solstices, and equinoxes. more
+List of cosmic events in 2017 an 2018 including supermoons, solar and lunar eclipses, meteor showers, solstices, and equinoxes. more
 
 Magnetic Declination
 
