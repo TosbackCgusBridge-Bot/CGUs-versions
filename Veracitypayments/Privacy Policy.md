@@ -16,13 +16,13 @@ Toggle navigation
     *   Capabilities
     *   Hardware
     *   Service
-    Contact me 1-800-675-7430
+    Contact me1-800-675-7430
 
 *   Organizations We Serve
     *   Faith-Based Organizations
     *   Nonprofit Organizations
     *   Professional Services
-    Contact me 1-800-675-7430
+    Contact me1-800-675-7430
 *   Integrated Partners
 *   Affiliated Partners
 *   Developers
@@ -148,5 +148,3 @@ Vanco Payment Solutions is a registered ISO of Wells Fargo Bank, N.A., Walnut Cr
 
 *   Privacy Policy|
 *   Terms Of Service|
-
-GO
