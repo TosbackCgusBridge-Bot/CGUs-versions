@@ -4,7 +4,6 @@ Aéropostale
     
     *   NEW ARRIVALS
     *   #FREETOBE
-    *   TRENDING
     *   Buy 1 Get 2 FREE
     *   Limited Edition
     *   Uniform
@@ -53,7 +52,6 @@ Aéropostale
     
     *   NEW ARRIVALS
     *   #FREETOBE
-    *   TRENDING
     *   Life is a Beach
     *   Stretch Shop
     *   Limited Edition
@@ -122,8 +120,10 @@ Aéropostale
     *   ACCESSORIES
     *   CLEARANCE
     
-*   TRENDING
 *   Clearance
+    
+    *   LIVE LOVE DREAM
+    *   Black White &. Mesh Allover
     
     *   Girls View All
     *   Clearance Tops
@@ -137,19 +137,18 @@ Aéropostale
     
     *   ROOM
     
-*   #FREETOBE
+*   Trending
     
-    *   Meet the Girls
-    *   @ASHLEY\_MOORE\_
-    *   @ITSMELEAF
-    *   @DAISYCLEMENTINE
-    *   @MIMIELASHIRY
+    *   GIRLS
+    *   Off the Shoulder
+    *   Peasant Tops
     
-    *   Meet the Guys
-    *   @LOUISMAYHEW
-    *   @X.VALENTINE
-    *   @JAYSTEEVIE
-    *   @BRYCEALAKAI
+    *   GUYS
+    *   Surf Wash Tees
+    *   Jackets + Coats
+    
+    *   LIVE LOVE DREAM
+    *   Black White &. Mesh Allover
 
 *   Go
 
