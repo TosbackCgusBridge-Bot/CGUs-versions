@@ -34,7 +34,7 @@ Skip to main content Online Trust Alliance
         *   Recent Events
         *   Events Archive
 *   Membership
-    *   Membership &. Member Levels
+    *   Membership
     *   OTA Members (Restricted)
 *   About Us
     *   History &. Overview
@@ -158,7 +158,7 @@ Newsroom
 
 Membership
 
-*   Membership &. Member Levels
+*   Membership
 *   OTA Members (Restricted)
 
 About Us
