@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**What Does It Take for a Product to Be Labeled 'Made in the USA'?**
+**Polycystic Ovary Syndrome on the Brain**
 
-**6 Things You Didn't Know About Maya Angelou**
+**40 Years Later, Slim Goodbody Is Still Encouraging Kids to Make Healthy Choices**
 
-**Arctic World Archive Puts Data on Ice for 1,000 Years**
+**Why the U.S. Senate Might Choose the Rule-changing 'Nuclear Option'**
 
 **See More Headlines »**
 
