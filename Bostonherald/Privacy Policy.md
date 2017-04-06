@@ -1,29 +1,27 @@
-Advertise With Us
+Advertise With Us To Place An Advertisement
 
-*   News 24/7
-    
-    Our editors and reporters meet the challenge of pushing news forward all day long by converging our newsgathering operation from print to digital.
-    
-    More
-    
-*   Our Audience
-    
-    By providing platforms that allow instant access to our newsgathering, the Herald has shown nice growth in our audience.
-    
-    More
-    
-*   Opportunities
-    
-    We provide cost-effective marketing mediums and targeting capabilities to an impressive audience that is showing strong and consistent growth across all platforms.
-    
-    More
-    
+advertising@ bostonherald.com
 
-In an exceptionally competitive media landscape, the Boston Herald stands out for its influential political, business, sports and entertainment coverage. Our appeal is strong among readers of all stripes who appreciate the conviction of our editorial voice and the tenacity of our newsgathering operation. Giving our readers a range of options for consuming news is a priority and every unique platform we produce – print, online, mobile, tablets – fosters engagement and community. We aim to meet the needs of our advertising clients not only by providing cost-effective marketing mediums, but also by providing targeting capabilities to an impressive audience that is showing strong and consistent growth across all platforms.
+_617-619-6185_
 
-Always Relevant
+For Print/ ROP Advertising, please contact: Kathleen Rush
 
-Powered by a multi-media newsroom and with a variety of platforms that provide folks with up-to-the-minute news and commentary, consumers trust the Boston Herald brand to give them smart, straightforward content, when and however they want it.
+VP of Display Advertising
 
-The recent addition of Boston Herald Radio rounds out nicely our media group -- print, web, mobile, tablets and now live streamed, completely interactive internet talk radio.  
-Cost–effective marketing programs, creative targeting capabilities and an engaged, compelling and responsive audience all further enhance our advertising partners’ investment with the Boston Herald.
+kathleen.rush@bostonherald.com
+
+_617-619-6183_
+
+For Digital Advertising, please contact: Walter Coffey
+
+Senior Director, Digital and Display Advertising
+
+walter.coffey@bostonherald.com
+
+_617-619-6184_
+
+For Classified Advertising:
+
+Classifiedads@bostonherald.com
+
+_617-423-4545_
