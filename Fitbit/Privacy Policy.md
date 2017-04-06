@@ -29,6 +29,7 @@ Fitbit
 *   Get Motivated
     *   Fitstar
     *   Events
+    *   Blog
     *   FitForGood
     *   Fitbit Premium
 *   App &. Dashboard
