@@ -223,12 +223,12 @@ View more results
     Join for free
 *   Hot Games
     
-    *   Mystic Sea Treasures
-    *   Superfighters
-    *   Magoia
-    *   Alliance Warfare
-    *   Trollface Quest TrollTube
-    *   Happy Room
+    *   Cooking Mama: Mama Kills Animals!
+    *   Bottle Flip
+    *   Fiesta Online
+    *   World of Tanks
+    *   Combat Guns 3D
+    *   Slither.io
     
     Mobile Apps More
     
