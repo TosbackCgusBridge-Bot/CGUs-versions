@@ -4,6 +4,7 @@ Aéropostale
     
     *   NEW ARRIVALS
     *   #FREETOBE
+    *   TRENDING
     *   Buy 1 Get 2 FREE
     *   Limited Edition
     *   Uniform
@@ -52,6 +53,7 @@ Aéropostale
     
     *   NEW ARRIVALS
     *   #FREETOBE
+    *   TRENDING
     *   Life is a Beach
     *   Stretch Shop
     *   Limited Edition
@@ -121,9 +123,6 @@ Aéropostale
     *   CLEARANCE
     
 *   Clearance
-    
-    *   LIVE LOVE DREAM
-    *   Black White &. Mesh Allover
     
     *   Girls View All
     *   Clearance Tops
