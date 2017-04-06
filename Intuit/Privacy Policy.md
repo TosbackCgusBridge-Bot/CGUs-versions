@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true C15870188539
+true true C15872737450
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p02.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Tue Apr 04 11:15:36 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.4.0.0.39.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p13.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Wed Apr 05 11:15:48 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.4.0.0.39.0
 
 *   for the home
 *   bed &. bath
@@ -56,35 +56,7 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 true
 
-Celebrate Easter Priced to Buy. Guaranteed to Love.
-
-In Store &. Online | Ends April 11
-
-Shop Now View Store Ad Women Men Kids Shoes Jewelry Handbags Bedding Home 59.99 &. Up Men's Suit Separates, Sport Coats &. Dress Pants
-
-Select styles
-
-Shop Men's Dress Clothes39.99 Dresses
-
-select styles
-
-Shop Dresses14.99-42.99 Kids' Dress Up
-
-Select styles
-
-Shop Girls   Shop Boys   9.99 Women's St. John's Bay Graphic Tees
-
-Select styles
-
-Shop Women's St. John's Bay12.99 Men's St. John's Bay Performance Polo
-
-Select styles
-
-Shop Men's St. John's Bay Your Spring Home Refresh
-
-149.99 All 10-Piece Queen Comforter Sets
-
-Shop Comforter Sets Shop All Home Bedding Window Kitchen &. Dining Furniture &. Mattresses 2017 Prom Everything you need to dance the night away. Prom Dresses Plus-Size Prom Dresses Suit Separates &. Tuxedos Dress Shirts     Clearaway! Final Markdowns Up To 80% Off In Store &. Online Shop Now Find a Store \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Apr 04 22:15:37 CDT 2017 JVM :->. dtexppr1c2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Apr 04 22:03:33 CDT 2017 JVM :->. dtexppr1c2j3\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Apr 05 22:15:14 CDT 2017 JVM :->. dtexppr1c1j3\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Apr 05 03:53:50 CDT 2017 JVM :->. dtexppr1c1j2\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
