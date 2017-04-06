@@ -354,7 +354,7 @@ We may terminate these Terms of Service for any or no reason at any time by noti
 
 TUBE8 - DMCA Reporting Claims of Copyright Infringement
 
-We take claims of copyright infringement seriously. We will respond to notices of alleged copyright infringement that comply with the Digital Millennium Copyright Act (the "DMCA") or any other applicable intellectual property legislation or laws. Responses may include removing, blocking or disabling access to material claimed to be the subject of infringing activity, terminating the user’s access to http://www.tube8.com/ ("**Tube8**"), or all of the foregoing.
+We take claims of copyright infringement seriously. We will respond to notices of alleged copyright infringement that comply with the Digital Millennium Copyright Act (the "DMCA") or any other applicable intellectual property legislation or laws. Responses may include removing, blocking or disabling access to material claimed to be the subject of infringing activity, terminating the user’s access to https://www.tube8.com/ ("**Tube8**"), or all of the foregoing.
 
 If you believe any material accessible on Tube8 infringes your copyright, you may submit a copyright infringement notification (see below, "Filing a DMCA Notice of Copyright Infringement" for instructions on filing such a notice). These requests should only be submitted by the copyright owner or an agent authorized to act on the owner’s behalf.
 
@@ -366,7 +366,7 @@ Filing a DMCA Notice of Copyright Infringement
 
 If you choose to request removal of content by submitting an infringement notification, please remember that you are initiating a legal process. **Do not make false claims. Misuse of this process may result in the suspension of your account or other legal consequences.**
 
-You may notify Tube8 of alleged copyright infringement via our form found at http://www.tube8.com/info.html#dmca-form . This form is designed to help you identify your content accurately and help speed up the process of content take-down.
+You may notify Tube8 of alleged copyright infringement via our form found at https://www.tube8.com/info.html#dmca-form . This form is designed to help you identify your content accurately and help speed up the process of content take-down.
 
 We also accept free-form copyright infringement notifications. In that case, in accordance with the DMCA, the written notice (the "**DMCA Notice**") must include substantially the following:
 
