@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 12.282,34ǀ
+*   DAX 12.217,54ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -684,8 +684,8 @@ SPIEGEL GRUPPE
 *   \-manager magazin
 *   \-Harvard Business Manager
 *   \-buchreport
-*   \-buch aktuell
-*   \-Der Audio Verlag
+*   \-Werbung
+*   \-Jobs
 
 *   Twitter
 *   Facebook
