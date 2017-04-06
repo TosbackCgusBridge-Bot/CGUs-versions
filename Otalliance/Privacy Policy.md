@@ -106,6 +106,10 @@ More >>.
 *   OTA Blog
 *   Newsletters
 
+Wed, Apr 5, 2017 A New Chapter for OTA
+
+I would like to share exciting news.  Today OTA has announced it has joined forces with the Internet Society (ISOC) and will operate as a key ISOC initiative effective May 1, 2017.  ISOC is a global non-profit with the mission to promote the open development, evolution, and use of the Internet for the benefit of all people throughout the world
+
 Thu, Mar 30, 2017 Repeal of FCC Privacy Rules. A Sad Day for Consumers
 
 The vote to repeal FCC broadband privacy controls is a sad day for consumers, businesses and the United States.  While the rest of the world is increasingly recognizing privacy as a basic human right, Congress has failed the U.S.
@@ -117,12 +121,6 @@ Tue, Nov 15, 2016 IoT Threats - What we can do today and tomorrow
 Statement for the record for the US House of Representatives - " Understanding the Role of Connected Devices in Recent Cyber Attacks"
 
 See Related Readings - Vision for Trust
-
-Wed, Nov 9, 2016 Why the Insurance Industry Will Never Be the Same After the Mirai DDoS Attack
-
-**Guest Blog from Pascal Millaire, Symantec**
-
- We are entering a new era for global insurers, where business interruption claims are no longer confined to a limited geography, but can simultaneously impact seemingly disconnected insureds globally. This creates new forms of systemic risks that could threaten the solvency of major insurers if they do not understand the silent and affirmative cyber risks inherent in their portfolios.  
 
 More >>. Resources
 
