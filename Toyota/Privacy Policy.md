@@ -22,6 +22,7 @@
 *   2017 Tacoma $24,320 starting 19/24 est. mpg build Specials
 *   2017 Tundra $30,120 starting 15/19 est. mpg build Specials
 
+*   2018 C-HR $22,500 starting 27/31 est. mpg build Specials
 *   2017 RAV4 $24,910 starting 23/30 est. mpg build Specials
 *   2017 Highlander $30,630 starting 21/27 est. mpg build Specials
 *   2017 4Runner $34,210 starting 17/21 est. mpg build Specials
@@ -39,8 +40,6 @@
 *   2017 Mirai $57,500 starting 67/67 est. mpg Specials
 
 *   2018 Camry  
-    View More Info
-*   2018 C-HR  
     View More Info
 *   2018 Yaris  
     View More Info
@@ -304,11 +303,7 @@ Compare Toyota vs. the Competition
     
 *   Toyota Camry vs Honda Accord  
     
-*   Toyota Tacoma vs Chevrolet Colorado  
-    
-*   Toyota Prius vs Chevrolet Volt  
-    
-*   Toyota RAV4 Hybrid vs Honda CR-V  
+*   Toyota Sienna vs Honda Odyssey  
     
 
 Features
@@ -1071,7 +1066,7 @@ Help
 
 \[#\] View All Disclosures
 
-*   MSRP excludes the Delivery, Processing and Handling Fee of $885 for Cars, $960 for Small/Medium Trucks (Sienna, RAV4 Gas, RAV4 Hybrid, Highlander Gas, Highlander Hybrid, 4Runner and Tacoma), $1,195 for Large SUVs (Sequoia, Land Cruiser), and $1,195 for Large Truck (Tundra). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. Actual dealer price will vary.
+*   MSRP excludes the Delivery, Processing, and Handling Fee of $885 for Cars, $960 for Small/Medium Trucks, SUVs and Van (Sienna, C-HR, RAV4 Gas, RAV4 Hybrid, Highlander Gas, Highlander Hybrid, 4Runner and Tacoma), $1,195 for Large SUVs (Sequoia, Land Cruiser), and $1,195 for Large Truck (Tundra). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. Actual dealer price will vary.
 *   2016 EPA-estimated city/highway mileage. Actual mileage will vary.  
     2017 EPA-estimated city/highway mileage. Actual mileage will vary.
 *   2017 EPA-estimated mileage. Actual mileage will vary.
@@ -1081,3 +1076,4 @@ Help
 *   2017 Prius Prime EPA-estimated combined mpg. Actual mpg will vary based on driving habits, weather, temperature and road/traffic conditions. For more information on mpg, please see www.fueleconomy.gov.
 *   2017 Prius Prime EPA-estimated combined MPGe. Actual MPGe will vary depending upon driving conditions, how you drive and maintain your vehicle, and other factors. Battery capacity will decrease with time and use. For more information, see www.fueleconomy.gov.
 *   2016 EPA-estimated 67 city/67 highway/67 combined MPGe for Mirai and 312-mile driving range. Actual mileage will vary. Range measurement pursuant to SAE J2601 standards (ambient temperature: 20°C. hydrogen tank pressure when fueled: 70 MPa). Fueling time varies with hydrogen fueling pressure and ambient temperature.
+*   2018 C-HR preliminary 27 city/31 highway/29 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
