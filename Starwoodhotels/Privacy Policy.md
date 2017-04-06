@@ -332,7 +332,7 @@ WHY BOOK HERE
 *   **Marriott Executive Apartments**
 *   **Marriott Vacation Club**
 
-*   **null**
+*   **Marriott Rewards**
 *   **Gaylord**
 *   **AC Hotels**
 *   **Courtyard**
