@@ -69,8 +69,6 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Group results and reporting
         *   Annual Report
         *   Group reporting archive
-    *   Events and presentations
-        
     *   Subsidiary company reporting
         
     *   Share and dividend information
@@ -79,6 +77,8 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Dividend timetable
         *   Scrip dividend
         *   Treasury shares
+    *   Events and presentations
+        
     
     *   Fixed income securities
         *   Covered bond reports
@@ -374,10 +374,10 @@ Contact Us Our approach
 Investor relations
 
 *   Group results and reporting
-*   Events and presentations
 *   Subsidiary company reporting
 *   Fixed income securities
 *   Share and dividend information
+*   Events and presentations
 *   Investor resources
 *   Stock exchange announcements
 
