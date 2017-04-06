@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Growing Ubuntu for Cloud and IoT, rather than Phone and convergence ›
+*   How Bosch Rexroth is innovating the PLC market ›
+*   Ubuntu on AWS gets serious performance boost with AWS-tuned kernel ›
+*   Scalable, Secure Access to Data with DBaaS on IBM LinuxONE ›
 *   Nexiona collaborates with Canonical and Dell to create MIIMETIQ Edge ›
-*   The MirAL story ›
-*   Cloud Chatter: March 2017 ›
-*   OVH joins Ubuntu Certified Public Cloud Programme ›
-*   Snaps are now available for Ubuntu 14.04 LTS desktop and server ›
