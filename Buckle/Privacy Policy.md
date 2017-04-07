@@ -78,7 +78,7 @@
         
           
           
-        Give a Buckle Gift card The latest trends for sand, sun, and water. SHOP WOMEN'S SWIM. | SHOP MEN'S BOARDSHORTS.
+        Give a Buckle Gift card Need it now? Use the Buckle Mobile App and pick up in-store today! Learn More.
 *   Men
     *   *   Featured
         
@@ -133,7 +133,7 @@
         
           
           
-        Give a Buckle Gift card The latest trends for sand, sun, and water. SHOP WOMEN'S SWIM. | SHOP MEN'S BOARDSHORTS.
+        Give a Buckle Gift card Need it now? Use the Buckle Mobile App and pick up in-store today! Learn More.
 *   Kids
     *   *   Featured
         
@@ -155,7 +155,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card The latest trends for sand, sun, and water. SHOP WOMEN'S SWIM. | SHOP MEN'S BOARDSHORTS.
+        Give a Buckle Gift card Need it now? Use the Buckle Mobile App and pick up in-store today! Learn More.
 *   Jeans
     *   *   Women's Jeans
         
@@ -185,7 +185,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card The latest trends for sand, sun, and water. SHOP WOMEN'S SWIM. | SHOP MEN'S BOARDSHORTS.
+        Give a Buckle Gift card Need it now? Use the Buckle Mobile App and pick up in-store today! Learn More.
 *   New
     *   *   Featured New
         
@@ -223,7 +223,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card The latest trends for sand, sun, and water. SHOP WOMEN'S SWIM. | SHOP MEN'S BOARDSHORTS.
+        Give a Buckle Gift card Need it now? Use the Buckle Mobile App and pick up in-store today! Learn More.
 *   Sale
     *   *   Women's Sale
         
@@ -266,7 +266,7 @@
         
           
           
-        Give a Buckle Gift card The latest trends for sand, sun, and water. SHOP WOMEN'S SWIM. | SHOP MEN'S BOARDSHORTS.
+        Give a Buckle Gift card Need it now? Use the Buckle Mobile App and pick up in-store today! Learn More.
 
 A Global Message! × Privacy &. Security
 
