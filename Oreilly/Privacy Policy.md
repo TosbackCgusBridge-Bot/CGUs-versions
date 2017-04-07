@@ -5,14 +5,14 @@ skip to main content
 *   Events
 *   Shop
 
-Search search Your Account Open menuClose menu
+Search terms Search Your Account Open menuClose menu
 
 *   Ideas
 *   Learning
 *   Events
 *   Shop
 
-Search search On Our Radar
+Search terms Search On Our Radar
 
 *   AI
 *   Business
