@@ -18,13 +18,35 @@ Menu PayPal
     
 *   Request
 
-*   Sign Up for Free
+Log In Sign Up Personal
 
-Log In Sign Up Join the millions of people using PayPal. Sign Up for Free
+Learn how PayPal makes it easy to shop and send money to family and friends.
 
-Explore Business Solutions
+\+ Personal + Personal
 
-From everyday purchases to running a business,  
+Shop, send money, and pay bills without entering your payment info again and again
+
+With 24/7 fraud detection, we work around the clock to keep your account secure
+
+Pay your way, whether it’s credit, debit, or your bank account
+
+Speed through checkout at millions of brands that accept PayPal
+
+Sign Up for Free Business
+
+Start accepting all kinds of payments with one PayPal business account.
+
+\+ Business + Business
+
+Get paid on your website or app, in your store or on-the-go, and by email or phone
+
+Accept cards, PayPal, Apple Pay, PayPal Credit and much more
+
+Borrow for your business with affordable business loans. Learn more
+
+Get live support and seller protection
+
+Get Started From everyday purchases to running a business,  
 people around the world rely on us to pay and get paid. How PayPal Works
 
 Join 200+ million people who use PayPal to
