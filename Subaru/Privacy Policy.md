@@ -18,7 +18,7 @@ Subaru Confidence In Motion
 *   Build &. Price
 *   Find Retailer
 
-BRZ $25,495 starting price 2017 BRZ
+BRZ $25,495\* starting price 2017 BRZ
 
 Starting at
 
@@ -35,7 +35,7 @@ Up to
 
 BRZ Premium shown
 
-Impreza $18,395 starting price 2017 Impreza
+Impreza $18,395\* starting price 2017 Impreza
 
 Starting at
 
@@ -52,7 +52,7 @@ Up to
 
 2.0i Sport shown
 
-WRX $26,695 starting price 2017 WRX
+WRX $26,695\* starting price 2017 WRX
 
 Starting at
 
@@ -69,7 +69,7 @@ Up to
 
 WRX with accessory fog lights shown
 
-Legacy $21,995 starting price 2017 Legacy
+Legacy $21,995\* starting price 2017 Legacy
 
 Starting at
 
@@ -86,7 +86,7 @@ Up to
 
 Legacy 3.6R Limited shown
 
-Forester $22,595 starting price 2017 Forester
+Forester $22,595\* starting price 2017 Forester
 
 Starting at
 
@@ -103,7 +103,7 @@ Up to
 
 Forester 2.5i Touring shown
 
-Crosstrek $21,695 starting price 2017 Crosstrek
+Crosstrek $21,695\* starting price 2017 Crosstrek
 
 Starting at
 
@@ -120,7 +120,7 @@ Up to
 
 Crosstrek 2.0i Limited shown
 
-Outback $25,645 starting price 2017 Outback
+Outback $25,645\* starting price 2017 Outback
 
 Starting at
 
