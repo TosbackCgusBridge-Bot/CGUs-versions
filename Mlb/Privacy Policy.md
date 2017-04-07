@@ -27,7 +27,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Awards
     *   Sports on Earth
     *   Entertainment
-    *   World Baseball Classic
+    *   Reporter's Inbox
     *   #AwardWorthy
     *   Espanol
 *   Video Video Video
