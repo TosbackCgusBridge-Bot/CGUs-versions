@@ -2,13 +2,11 @@ Skip to Main Content. Site navigation Fidelity.com Home
 
 *   Customer Service
 *   Open An Account
-*   Why Fidelity
 *   Refer A Friend
 *   Log In
 
 *   Customer Service
 *   Open An Account
-*   Why Fidelity
 *   Refer A Friend
 *   Log Out
 
@@ -31,11 +29,8 @@ Search Fidelity.com
     *   Retirement DistributionsLog In Required
     
     *   OFFER See our featured trading offer. Learn more.
-*   News &. Insights
+*   News &. Research
     *   News
-    *   Insights
-    *   Viewpoints
-*   Research
     *   Watch ListLog In Required
     *   Quotes
     *   AlertsLog In Required
@@ -55,9 +50,10 @@ Search Fidelity.com
     *   Retirement Planning
     *   Wealth Management
     *   Estate Planning &. Inheritance
-    *   Saving For College
+    *   Saving for College
     *   Charitable Giving
     *   Life Insurance &. Long Term Care
+    *   Fidelity Viewpoints
     *   Calculators &. Tools
 *   Investment Products
     *   Mutual Funds
@@ -74,16 +70,20 @@ Search Fidelity.com
     *   529 College Savings
     *   Annuities
     *   Life Insurance &. Long Term Care
+*   Why Fidelity
+    *   The Fidelity Advantage
+    *   Planning &. Advice
+    *   Straightforward Pricing
+    *   Insights &. Tools
+    *   Security &. Protection
 
 *   Customer Service
 *   Open An Account
-*   Why Fidelity
 *   Refer A Friend
 *   Log In
 
 *   Customer Service
 *   Open An Account
-*   Why Fidelity
 *   Refer A Friend
 *   Log Out
 
