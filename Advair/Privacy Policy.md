@@ -160,8 +160,8 @@ GSK Global Website www.gsk.com
         *   US IMPACT Awards
         *   Flulaval Quadrivalent for infants 6 months and older
     *   Infographics
-    *   Corporate Reporting
     *   Media contacts
+    *   Corporate Reporting
     *   Social media
     *   Image and video library
 *   Blog
@@ -170,11 +170,12 @@ GSK Global Website www.gsk.com
     *   US Supplier Diversity
         *   US Supplier Diversity
         *   Corporate commitment
-        *   Doing business with GSK
+        *   Becoming a GSK supplier
         *   What we buy
-        *   Outreach
+        *   Supplier development
+        *   Affiliations
         *   Helpful links
-        *   Questions and feedback
+        *   Contact us
 *   Contact us
     *   Contact us
     *   Our US Locations
