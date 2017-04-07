@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
-*   Growing Ubuntu for Cloud and IoT, rather than Phone and convergence ›
+*   10 snaps written in March ›
+*   From ROS prototype to production on Ubuntu Core ›
+*   Growing Ubuntu for cloud and IoT, rather than phone and convergence ›
 *   How Bosch Rexroth is innovating the PLC market ›
 *   Ubuntu on AWS gets serious performance boost with AWS-tuned kernel ›
-*   Scalable, Secure Access to Data with DBaaS on IBM LinuxONE ›
-*   Nexiona collaborates with Canonical and Dell to create MIIMETIQ Edge ›
