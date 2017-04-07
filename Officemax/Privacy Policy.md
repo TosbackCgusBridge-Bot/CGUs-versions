@@ -17,7 +17,7 @@ SEG1 hp
 
 Office Depot Deals
 
-hW9pcsIW4XFIosYHg6BK8CD
+Y40LmtbZNcUZQqVR6DXhhjo
 
 Search Suggestions
 
@@ -257,3 +257,5 @@ http://officedepot.ugc.bazaarvoice.com 2563 http://static.www.odcdn.com/images/u
 This promotion is for Rewards members only. To take advantage of exclusive offers like these, join Office Depot® OfficeMax® Rewards now!
 
 Join Sign In
+
+/account/v2/editBillingDisplay,/orderhistory/subsManager,/orderhistory/submitReturn,/account/accountSummaryDisplay,/account/loginAccountDisplay,/account/myfiles,/csl/listAll
