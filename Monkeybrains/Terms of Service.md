@@ -25,6 +25,20 @@ Monkeybrains San Francisco-based ISP since 1998
 
 NOTABLE PRESS MENTIONS &. REVIEWS
 
+_March 31, 2017_  
+**After Internet Privacy Vote, Some ISPs Pledge Not To Sell Browsing Histories**  
+By Hamza Shaban  
+The Republican-controlled Congress just voted to repeal landmark privacy rules passed under Obama, but some ISPs see a strong commitment to privacy as their selling point.  
+Read more >>.
+
+_March 31, 2017_  
+**Local Internet providers look to stand out as privacy rules wither**  
+By Dominic Fracassa  
+Dane Jasper doesn’t want to know what you do on the Internet.  
+Like many digital privacy proponents, Jasper, the CEO of Sonic, a high-speed Internet service provider based in Santa Rosa, was disheartened by moves in Congress this week to undo a nascent set of regulations that affect companies like his.  
+On Tuesday, the House narrowly voted to scrap rules intended to force Internet providers to get permission from customers before collecting and selling customers’ data.  
+Read more >>.
+
 _March 14, 2016_  
 **Can an Indie ISP Beat Comcast**  
 By Rick Paulas  
