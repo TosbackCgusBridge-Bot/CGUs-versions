@@ -5,6 +5,9 @@ skip to content skip to navigation skip to search Lands' End SIGN IN MY ACCOUNT
 *   Business Outfitters
 
 *   Free Shipping on $50+ Orders
+*   |
+*   Offers
+    
 
 *   Call or Text 1-800-963-4816
 *   Ship To
@@ -28,7 +31,7 @@ skip to content skip to navigation skip to search Lands' End SIGN IN MY ACCOUNT
     *   Sign Out
 *   Bag 0
 
-menu 0 FREE SHIPPING ON $50+
+menu 0 Free Shipping on $50+  |  Offers
 
 *   Women FEATURED SHOPS
     
@@ -790,7 +793,7 @@ sign up **Get exclusive Offers and News** Privacy Policy &. Contact Info sign up
 
 U.S. Customers only. No purchase necessary. Automated marketing messages will be sent to the phone number provided. Msg &. data rates may apply. Up to 8 messages per month. Privacy Policy
 
-Customer Service
+Customer Service Chat
 
 *   Call Text Chat Email
 *   **Call or text us 1-800-963-4816**
