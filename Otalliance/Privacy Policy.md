@@ -85,6 +85,14 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
+Wed, Apr 19, 2017 Scamming the Scammers: Turning the Tables on Business Email Compromise
+
+Attend this webinar hosted by OTA member Agari.  Learn what can we learn by interacting with the scammers behind Business Email Compromise (BEC) attacks.  Attend this webinar and you will also learn -
+
+*   Why BEC attacks bypass existing email security layers
+*   Top 3 ways to spot identity deception (not as easy as you think)
+*   How to prevent your business from being a victim to a targeted email attack
+
 Wed, Apr 19, 2017 IAPP Global Summit
 
 The Global Privacy Summit returns to DC this April, bringing together myriad perspectives from around the globe for keen discussion and gold-standard education, big-picture inspiration and valuable connections. In an age when the future in privacy is a blur, find clarity at the Summit.
@@ -96,10 +104,6 @@ Join OTA at the upcoming Intelligent Buildings &. Digital Home Forum in Santa Cl
 Mon, May 22, 2017 LiveWorx 17
 
 Join OTA in Boston at this premiere event focused on IoT security.  Take advantage of over 230 breakouts offered in a variety of learning styles, including cutting-edge use cases, interactive Q&A’s, small working groups, tech-powered panels, product updates and more! Sessions range from introductory to advanced skill levels and provide the knowledge you need to advance your career, lower costs and risk, and out-innovate your competition.
-
-Wed, May 24, 2017 Planning for the Future: A Conference About Identity Theft
-
-Ten years ago, President Bush launched a new era in the fight against identity theft by issuing an executive order establishing the Identity Theft Task Force, which the Commission co-chaired. In the ensuing ten years, great strides have been made to combat identity theft but it remains a significant problem for American consumers. The Federal Trade Commission will host an all-day conference to take a comprehensive look at how identity theft has evolved over the last decade and what we can do to address this challenge in the future.
 
 More >>.
 
