@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: March 3, 2017**
+**Last Revised: April 7, 2017**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -17,7 +17,7 @@ Auctions Membership Agreement CashParking® Service Agreement Change of Registra
 
 Online Bookkeeping Service Agreement
 
-Email Marketing Service Agreement Pro Service Agreement Online Store/Quick Shopping Cart Reseller Agreement Professional Web Services Agreement Website Builder Service Agreement Website Protection Agreement Workspace Service Agreement Get Found Service Agreement Microsoft Office Terms of Use Email Encryption Service Agreement Email Archiving Agreement GoCentral Service Agreement    
+Email Marketing Service Agreement Pro Service Agreement Online Store/Quick Shopping Cart Reseller Agreement Professional Web Services Agreement Website Builder Service Agreement Email Archiving Agreement Workspace Service Agreement Get Found Service Agreement Microsoft Office Terms of Use Email Encryption Service Agreement GoCentral Service Agreement SmartLine Agreement    
 
 Policies
 
@@ -831,5 +831,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 3/3/17  
+Revised: 4/7/17  
 Copyright © 2005-2017 GoDaddy.com, LLC All Rights Reserved.
