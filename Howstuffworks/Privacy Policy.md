@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Surprising Number of Marathoners Had Kidney Damage in Small, New Study**
+**Event Horizon Telescope Getting Historic Look at Milky Way's Black Hole**
 
-**Is It Possible to Share Your Psychosis?**
+**Cool, Creepy and Quirky: Our Best Stories You Might Have Missed This Week**
 
-**These Countries Have the Most Crybabies — Literally**
+**Your Favorite Clothing Brand Is Dying Much Faster These Days**
 
 **See More Headlines »**
 
