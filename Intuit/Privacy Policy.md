@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true L15876978953
+true true C15877219543
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1l1j3 TIME :->. Thu Apr 06 11:15:41 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.5.0.0.68.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p01.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Fri Apr 07 11:15:39 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.5.0.0.68.0
 
 *   for the home
 *   bed &. bath
@@ -56,7 +56,47 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 true
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Apr 06 22:18:07 CDT 2017 JVM :->. dtexppr1l1j6\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Apr 06 04:57:35 CDT 2017 JVM :->. dtexppr1l1j6\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Celebrate Easter Priced to Buy. Guaranteed to Love.
+
+In Store &. Online | Ends April 11
+
+Shop Now View Store Ad Women Men Kids Shoes Jewelry Handbags Bedding Home 24.99 Women's Dresses
+
+select styles
+
+Shop Women's Dresses  19.99 JF J. Ferrar Slim-Fit Dress Shirt
+
+Select styles
+
+Shop Men's Dress Shirts Shop Men's Suits and Sport Coats19.99 Girls' Dresses
+
+Select styles
+
+Shop Girls' Dresses  24.99 Boys' Trio Dress-Up Sets
+
+Select styles
+
+Shop Boys' Dress Up   Put Some Spring In Your Step 39.99 Men's JF J. Ferrar Dress Shoes
+
+select styles
+
+Shop Men's Shoes29.99 Women's Dress Shoes
+
+select styles
+
+Shop Women's Shoes19.99 Girls' Dress Shoes
+
+select styles
+
+Shop Girls' Shoes Sweet Prices On Everything For Home
+
+349.99 Kitchenaid 5-qt. Stand Mixer, select styles
+
+Shop Kitchenaid Shop All Home Bedding Window Kitchen &. Dining Furniture &. Mattresses Ready, Set, Shop Nike For The Family
+
+Nike excluded from coupon.
+
+Men Women Kids Shoes         Clearaway! Final Markdowns Up To 80% Off In Store &. Online Shop Now Find a Store \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Apr 07 22:19:22 CDT 2017 JVM :->. dtexppr1c1j4\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Apr 07 04:07:47 CDT 2017 JVM :->. dtexppr1c1j3\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
