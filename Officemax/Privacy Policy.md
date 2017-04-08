@@ -17,7 +17,7 @@ SEG1 hp
 
 Office Depot Deals
 
-Y40LmtbZNcUZQqVR6DXhhjo
+iubwNVroWX94\_3K1PS-Cwve
 
 Search Suggestions
 
@@ -35,7 +35,7 @@ Your recent searches
 *   Ink &. Toner
 *   Breakroom
 *   Cleaning
-*   Technology
+*   Technology &. Services
 *   Furniture
 *   School Supplies
 *   Print &. Copy
@@ -155,8 +155,8 @@ Never expires, ships for free
 Sign up for a credit card  
 and get special financing options
 
-2% back in rewards on everything  
-&. exclusive member deals
+10% back in reward points on ink, toner,  
+paper and copy/print/ship purchases
 
  **1-800-GO-DEPOT**  
 (1-800-463-3768)  Live Chat Available 24/7  **FREE** store pickup.  
