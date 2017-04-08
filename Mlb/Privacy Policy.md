@@ -173,6 +173,8 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Elite Development Invitational
     *   USA Baseball
     *   USA Softball
+    *   Dream Series
+    *   Trailblazer Series
 *   Teams Teams American League AL East
     
     *   Baltimore
