@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true L15881965955
+true true L15884192737
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p18.jcpenney.com SERVER NAME :->. dtcomexpr1l2j6 TIME :->. Sat Apr 08 11:15:41 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.5.0.0.68.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1l1j2 TIME :->. Sun Apr 09 11:15:29 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.5.0.0.68.0
 
 *   for the home
 *   bed &. bath
@@ -60,11 +60,7 @@ Celebrate Easter Priced to Buy. Guaranteed to Love.
 
 In Store &. Online | Ends April 11
 
-Shop Now View Store AdAll-Day Doorbusters | Saturday, April 8
-
-Use your coupon and save even more!
-
-Shop Now Women Men Kids Shoes Jewelry Handbags 24.99 Women's Dresses
+Shop Now View Store Ad Women Men Kids Shoes Jewelry Handbags Bedding Home 24.99 Women's Dresses
 
 select styles
 
@@ -92,15 +88,15 @@ Shop Women's Shoes19.99 Girls' Dress Shoes
 
 select styles
 
-Shop Girls' Shoes Home Flash Sale
+Shop Girls' Shoes Sweet Prices On Everything For Home
 
-Today Online Only! | Ends 4/8 | Code: 22HURRY
+349.99 Kitchenaid 5-qt. Stand Mixer, select styles
 
-Extra 30% Off\* $100 or More Or, Extra 25% Off\* Under $100 Or, Extra 20% Off\* Select Furniture, Mattresses, Custom Blinds &. Shades \*Exclusions and details: Shop Now Bedding Kitchen &. Dining Bath Sheets Window Home Decor Luggage Furniture &. Mattresses Ready, Set, Shop Nike For The Family
+Shop Kitchenaid Shop All Home Bedding Window Kitchen &. Dining Furniture &. Mattresses Ready, Set, Shop Nike For The Family
 
 Nike excluded from coupon.
 
-Men Women Kids Shoes         Clearaway! Final Markdowns Up To 80% Off In Store &. Online Shop Now Find a Store \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Apr 08 22:21:27 CDT 2017 JVM :->. dtexppr1l2j2\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Apr 08 22:06:19 CDT 2017 JVM :->. dtexppr1l2j1\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Men Women Kids Shoes         \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Apr 09 22:13:18 CDT 2017 JVM :->. dtexppr1l1j4\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Apr 09 22:13:18 CDT 2017 JVM :->. dtexppr1l1j3\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
