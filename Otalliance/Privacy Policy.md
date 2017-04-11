@@ -110,6 +110,12 @@ More >>.
 *   OTA Blog
 *   Newsletters
 
+Mon, Apr 10, 2017 Responsible, Coordinated &. Ethical Vulnerability Disclosures
+
+Updated April 10, 2017
+
+OTA Joins coalition submitting comments to the National Institute of Standards and Technology's (NIST) to Improving Critical Infrastructure Cybersecurity highlighting the need for vulnerability reporting mechanisms.  Read more>
+
 Wed, Apr 5, 2017 A New Chapter for OTA
 
 I would like to share exciting news.  Today OTA has announced it has joined forces with the Internet Society (ISOC) and will operate as a key ISOC initiative effective May 1, 2017.  ISOC is a global non-profit with the mission to promote the open development, evolution, and use of the Internet for the benefit of all people throughout the world
@@ -119,12 +125,6 @@ Thu, Mar 30, 2017 Repeal of FCC Privacy Rules. A Sad Day for Consumers
 The vote to repeal FCC broadband privacy controls is a sad day for consumers, businesses and the United States.  While the rest of the world is increasingly recognizing privacy as a basic human right, Congress has failed the U.S.
 
 Mon, Mar 13, 2017 OTA Response to NTIA IoT Green Paper
-
-Tue, Nov 15, 2016 IoT Threats - What we can do today and tomorrow
-
-Statement for the record for the US House of Representatives - " Understanding the Role of Connected Devices in Recent Cyber Attacks"
-
-See Related Readings - Vision for Trust
 
 More >>. Resources
 
