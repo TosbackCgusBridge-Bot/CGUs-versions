@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   The Smartest Industry 4.0 Crane ›
 *   10 snaps written in March ›
 *   From ROS prototype to production on Ubuntu Core ›
 *   Growing Ubuntu for cloud and IoT, rather than phone and convergence ›
 *   How Bosch Rexroth is innovating the PLC market ›
-*   Ubuntu on AWS gets serious performance boost with AWS-tuned kernel ›
