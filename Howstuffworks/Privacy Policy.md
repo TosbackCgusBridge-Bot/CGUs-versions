@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Event Horizon Telescope Getting Historic Look at Milky Way's Black Hole**
+**Will There Ever Be a More Comfortable Way to Get a Mammogram?**
 
-**Cool, Creepy and Quirky: Our Best Stories You Might Have Missed This Week**
+**The Human Brain Is Hardwired for Poetry**
 
-**Your Favorite Clothing Brand Is Dying Much Faster These Days**
+**Medieval Villagers Mutilated Corpses to Prevent the Dead From Rising**
 
 **See More Headlines »**
 
