@@ -1,4 +1,4 @@
-Toggle navigation Find Your Patch Patch Monday, April 10th, 2017 Find Your Community   See All Patches Regional Patches
+Toggle navigation Find Your Patch Patch Tuesday, April 11th, 2017 Find Your Community   See All Patches Regional Patches
 
 *   Arizona
 *   California
@@ -44,7 +44,7 @@ Toggle navigation Find Your Patch Patch Monday, April 10th, 2017 Find Your Commu
 *   |
 *   Post on Patch
 
-Monday, April 10th, 2017 TAP HERE TO FIND YOUR PATCH!   Patch Facebook Link Twitter Link Advertise on Patch Post on Patch Patch Privacy Policy
+Tuesday, April 11th, 2017 TAP HERE TO FIND YOUR PATCH!   Patch Facebook Link Twitter Link Advertise on Patch Post on Patch Patch Privacy Policy
 
 Planck, LLC, d/b/a Patch Media ("Patch", "we" or "us") is committed to protecting your privacy. This Privacy Policy discloses our practices regarding information we collect and receive from users of the Patch.com desktop and mobile websites (the “Sites”), the Patch mobile applications (the “Apps”) and other services, such as emails, provided by Patch (collectively, the “Service”). Unless we state otherwise, any new features or functionality provided by Patch on the Sites and/or Apps are also part of the Service. By accessing or using the Service, whether through a personal computer, mobile device or any other means, or submitting any content or information for publication or distribution, you agree to be bound by this Privacy Policy. Please read this Privacy Policy carefully before registering or using the Service or submitting any content. If you do not accept this Privacy Policy, you may not use the Service or submit any content.
 
