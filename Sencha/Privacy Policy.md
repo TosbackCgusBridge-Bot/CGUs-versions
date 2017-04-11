@@ -172,17 +172,18 @@ Get Sencha NewsBuy Online
     *   GXT
     *   Sencha Touch
     *   Cmd
-    *   Plugins
+    *   IDE &. Editor Plugins
     *   Architect
     *   Themer
     *   Inspector
+    *   App Modernization
 
 *   Services
     *   Professional Services
     *   Partners
-    *   Developer
+    *   Training
 
-*   Training
+*   SenchaDevs
 
 *   Pricing
 
@@ -203,7 +204,6 @@ Get Sencha NewsBuy Online
     *   Overview
     *   Team
     *   Events
-    *   SenchaCon
     *   In the News
     *   Press Releases
     *   Careers
