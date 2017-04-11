@@ -78,7 +78,8 @@
         
           
           
-        Give a Buckle Gift card Need it now? Use the Buckle Mobile App and pick up in-store today! Learn More.
+        Give a Buckle Gift card Live Fast. Live Furious. SHOP our exclusive Fast &. Furious Collection by Affliction.  
+        The Fate of the Furious is in theaters April 14.
 *   Men
     *   *   Featured
         
@@ -133,7 +134,8 @@
         
           
           
-        Give a Buckle Gift card Need it now? Use the Buckle Mobile App and pick up in-store today! Learn More.
+        Give a Buckle Gift card Live Fast. Live Furious. SHOP our exclusive Fast &. Furious Collection by Affliction.  
+        The Fate of the Furious is in theaters April 14.
 *   Kids
     *   *   Featured
         
@@ -155,7 +157,8 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Need it now? Use the Buckle Mobile App and pick up in-store today! Learn More.
+        Give a Buckle Gift card Live Fast. Live Furious. SHOP our exclusive Fast &. Furious Collection by Affliction.  
+        The Fate of the Furious is in theaters April 14.
 *   Jeans
     *   *   Women's Jeans
         
@@ -185,7 +188,8 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Need it now? Use the Buckle Mobile App and pick up in-store today! Learn More.
+        Give a Buckle Gift card Live Fast. Live Furious. SHOP our exclusive Fast &. Furious Collection by Affliction.  
+        The Fate of the Furious is in theaters April 14.
 *   New
     *   *   Featured New
         
@@ -223,17 +227,18 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Need it now? Use the Buckle Mobile App and pick up in-store today! Learn More.
+        Give a Buckle Gift card Live Fast. Live Furious. SHOP our exclusive Fast &. Furious Collection by Affliction.  
+        The Fate of the Furious is in theaters April 14.
 *   Sale
     *   *   Women's Sale
         
         *   All Tops
         *   Tank Tops
-        *   Bandeaus/Bralettes
+        *   Jeans
         *   T-Shirts
         *   Crops/Capris
         *   Shorts
-        *   Flips and Sandals
+        *   Shoes
         *   Shop All
         
         *   Men's Sale
@@ -244,7 +249,7 @@
         *   Polos
         *   Shorts
         *   Boardshorts
-        *   Flips
+        *   Jeans
         *   Shop All
         
         *   Kid's Sale
@@ -266,7 +271,8 @@
         
           
           
-        Give a Buckle Gift card Need it now? Use the Buckle Mobile App and pick up in-store today! Learn More.
+        Give a Buckle Gift card Live Fast. Live Furious. SHOP our exclusive Fast &. Furious Collection by Affliction.  
+        The Fate of the Furious is in theaters April 14.
 
 A Global Message! × Privacy &. Security
 
