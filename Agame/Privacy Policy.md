@@ -1,5 +1,12 @@
+Help Drago collect as many dino eggs as possible!
+
+*   Play Now
+
+Attempt Play again Close X
+
 Pick a theme
 
+*   Easter
 *   Red
 *   Blue
 *   Pink
