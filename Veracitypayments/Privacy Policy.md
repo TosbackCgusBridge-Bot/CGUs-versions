@@ -18,17 +18,17 @@ Toggle navigation
     *   Online Giving
     *   Hardware
     *   Service
-    Contact me1-800-675-7430
+    Contact me 1-800-675-7430
 
 *   Organizations We Serve
     *   Faith-Based Organizations
     *   Nonprofit Organizations
     *   Professional Services
-    Contact me1-800-675-7430
+    Contact me 1-800-675-7430
 *   Partners
     *   Integrated Partners
     *   Affiliated Partners
-    Contact me1-800-675-7430
+    Contact me 1-800-675-7430
 *   Resources
 *   Pricing
 Home >. Privacy Policy Vanco Payment Solutions Privacy Policy
