@@ -95,6 +95,7 @@ Video
 *   TV shows
 *   TV schedule
 *   Faces of CNN Worldwide
+*   CNNVR
 
 *   How To Watch VR
 *   Archives
@@ -231,6 +232,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
     4.  TV shows
     5.  TV schedule
     6.  Faces of CNN Worldwide
+    7.  CNNVR
 
 1.  1.  How To Watch VR
     2.  Archives
