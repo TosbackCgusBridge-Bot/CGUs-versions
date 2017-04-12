@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Will There Ever Be a More Comfortable Way to Get a Mammogram?**
+**Can Animals Experience Culture Shock, Too?**
 
-**The Human Brain Is Hardwired for Poetry**
+**'Pilot's Glory': Why a Rainbow Encircles an Airplane Shadow on Clouds**
 
-**Medieval Villagers Mutilated Corpses to Prevent the Dead From Rising**
+**The Plan to Dig Up President James K. Polk — For a Third Time**
 
 **See More Headlines »**
 
