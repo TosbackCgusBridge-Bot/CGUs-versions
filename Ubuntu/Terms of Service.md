@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Snap support lands in Fedora 24, 25 &. 26 ›
+*   FAQs: Ensuring the ongoing security compliance of Ubuntu ›
+*   RobotCheers uses Ubuntu to create hospitality robots ›
 *   The Smartest Industry 4.0 Crane ›
 *   10 snaps written in March ›
-*   From ROS prototype to production on Ubuntu Core ›
-*   Growing Ubuntu for cloud and IoT, rather than phone and convergence ›
-*   How Bosch Rexroth is innovating the PLC market ›
