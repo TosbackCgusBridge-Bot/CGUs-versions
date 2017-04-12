@@ -195,3 +195,4 @@ United States (change)
 *   Returns &. Warranty
 *   Wear and Care
 *   Recall &. Safety Info
+*   AdChoices
