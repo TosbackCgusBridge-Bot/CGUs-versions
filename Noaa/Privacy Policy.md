@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Marine &. Aviation NOAA research ship returns to Charleston home port after worldwide deployment Weather Spring Outlook: Risk of major flooding in North Dakota, moderate flooding in Idaho National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Across NOAA Ever dream of becoming a scientist? Dream no more. Marine &. Aviation NOAA research ship returns to Charleston home port after worldwide deployment National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Marine 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms U.S. had 2nd warmest year to date and 9th warmest March on record 5 billion-dollar disasters in first 3 months of 2017 set new record AROUND NOAA // Study: Parts of central and Southern California had worst 4-year dry spell in 450 years Every Full Moon video: Watch the 5-part series 'Coral Comeback' The Tropical Cyclone Report: A report card for every storm
+Enter Search Terms U.S. had 2nd warmest year to date and 9th warmest March on record 5 billion-dollar disasters in first 3 months of 2017 set new record AROUND NOAA // Study: Parts of central and Southern California had worst 4-year dry spell in 450 years Ever dream of becoming a scientist? Dream no more. Every Full Moon video: Watch the 5-part series 'Coral Comeback' The Tropical Cyclone Report: A report card for every storm
 
 *   About our agency
 *   News and features
