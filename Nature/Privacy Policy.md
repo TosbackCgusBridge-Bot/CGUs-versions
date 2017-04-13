@@ -68,7 +68,9 @@ About Us Privacy Statement Field being planted with native seeds in an effort to
 
 The Nature Conservancy Website Privacy Policy
 
-**La** **st updated**: April 6, 2017  
+**Last updated**: April 6, 2017
+
+_Printable PDF version available here._
 
 The Nature Conservancy (the “Conservancy”) takes your privacy very seriously and cares about how your information is collected, used, stored, and shared. We are providing this Privacy Statement to explain our practices and the choices that you can make about the way your information is used by the Conservancy. The Privacy Statement describes our practices in connection with the information we collect through websites operated by us from which you are accessing this Privacy Statement (the “**Websites**”), through the software applications made available by us for use on or through computers and mobile devices (the “**Apps**”), through our social media pages that we control through which you are accessing this Privacy Statement (collectively, our “**Social Media Pages**”), as well as through HTML-formatted email messages that we send to you that link to this Privacy Statement and through offline interactions that we may have with you (collectively, including the Websites, the Apps and our Social Media Pages, the “**Services**”). 
 
