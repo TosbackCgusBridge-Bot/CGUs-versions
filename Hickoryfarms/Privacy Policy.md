@@ -140,7 +140,7 @@
     *   Gifts Over $90
 *   Sale
 
-1.800.753.8558 Menu Search Stores Cart Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Get it there in time for Easter by selecting 2-Day delivery at checkout.\*
+1.800.753.8558 Menu Search Stores Cart Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Get it there in time for Easter by selecting Overnight delivery at checkout.\*
 
 1.  Home
 2.  Customer Service
