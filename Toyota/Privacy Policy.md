@@ -49,7 +49,7 @@
     View More Info
 *   2018 RAV4  
     View More Info
-*   Concept Vehicles  
+*   2017 Concept Vehicle  
     View More Info
 
 View All Vehicles
