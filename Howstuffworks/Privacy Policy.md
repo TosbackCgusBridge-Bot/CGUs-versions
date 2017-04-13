@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Can Animals Experience Culture Shock, Too?**
+**Trendy Broth Driving Up Prices of Bones**
 
-**'Pilot's Glory': Why a Rainbow Encircles an Airplane Shadow on Clouds**
+**4 Reasons Why 'Earth-like' Gliese 1132b Isn't All That 'Earth-like'**
 
-**The Plan to Dig Up President James K. Polk — For a Third Time**
+**Science Takes Another Step Toward Erasing Painful Memories**
 
 **See More Headlines »**
 
