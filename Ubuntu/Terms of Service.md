@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   General availability of Kubernetes 1.6 on Ubuntu ›
+*   A new vantage point ›
 *   Snap support lands in Fedora 24, 25 &. 26 ›
 *   FAQs: Ensuring the ongoing security compliance of Ubuntu ›
 *   RobotCheers uses Ubuntu to create hospitality robots ›
-*   The Smartest Industry 4.0 Crane ›
-*   10 snaps written in March ›
