@@ -244,7 +244,7 @@
         *   Men's Sale
         
         *   All Tops
-        *   Tanks
+        *   Shoes
         *   T-Shirts
         *   Polos
         *   Shorts
@@ -373,7 +373,6 @@ Promotions
 *   Brand Madness Official Rules
 *   OakleyXBuckle Supercross Sweepstakes St. Louis Official Rules
 *   OakleyXBuckle Supercross Sweepstakes Seattle Official Rules
-*   Get Rewarded
 *   F8 Red Carpet Sweepstakes Official Rules
 *   Social Giveaway Official Rules
 *   Store Events
