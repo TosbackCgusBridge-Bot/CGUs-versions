@@ -83,9 +83,9 @@ Help &. Support
 *   Bluetooth
 *   Navigation
 *   Maintenance
-*   Safety
+*   Safety FAQ
 *   Warranty
-*   FAQs
+*   FAQ
 
 Brand &. Lifestyle
 
@@ -93,6 +93,7 @@ Brand &. Lifestyle
 *   LEXUS PERFORMANCE
 *   MOTORSPORTS
 *   TUNED CARS
+*   Safety Technology
 *   Lexus Plus
 *   L Studio Films
 *   LFA Supercar
@@ -139,14 +140,15 @@ Brand &. Lifestyle
     *   Bluetooth
     *   Navigation
     *   Maintenance
-    *   Safety
+    *   Safety FAQ
     *   Warranty
-    *   FAQs
+    *   FAQ
 *   Brand &. Lifestyle
     *   SEE LEXUS
     *   LEXUS PERFORMANCE
     *   MOTORSPORTS
     *   TUNED CARS
+    *   Safety Technology
     *   Lexus Plus
     *   L Studio Films
     *   LFA Supercar
