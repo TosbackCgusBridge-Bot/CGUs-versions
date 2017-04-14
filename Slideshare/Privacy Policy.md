@@ -45,7 +45,6 @@ Main content starts below.
 *   SlideShare
 *   Online Learning
 
-*   LinkedIn Updates
 *   LinkedIn Influencers
 *   Search Jobs
 
