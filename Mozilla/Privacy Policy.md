@@ -92,7 +92,7 @@ Firefox Privacy Close
 
 Websites, Communications &. Cookies Privacy Notice
 
-February 27, 2017
+April 11, 2017
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our Mozilla Privacy Policy describes how we handle that information.
 
@@ -129,6 +129,7 @@ We may use cookies, clear GIFs, third party web analytics, device information, a
     *   DoubleClick and Flashtalking, each of which uses a clear GIF on our download Firefox page. This helps us measure the effectiveness of our advertising campaigns.
     *   Yahoo Dot Pixel, which uses JavaScript on our download Firefox page. This helps us measure the effectiveness of our advertising campaigns.
     *   HTTP Referral Data, which may be included with Firefox’s installer, to understand the website domain or advertising campaign that referred you to our download page. This information helps us understand the effectiveness of our advertising campaigns and improve them.
+    *   Other metrics tools from time to time, on an experimental basis. For example, we may do this to help evaluate a new metrics tool, or test existing metrics collection.
 
 You can control individual cookie preferences, indicate your cookie preferences to others, select text only emails, and opt-out of web analytics and optimization tools.
 
@@ -149,7 +150,7 @@ You can control individual cookie preferences, indicate your cookie preferences 
 
 Some Mozilla websites allow you to make purchases (such as apps or gear) or make a donation. These transactions are processed by third parties, and not Mozilla.
 
-*   **Payment Processing**: Mozilla does not receive any financial information, which is transmitted from you to our third party vendors for processing. The name of the third party will be displayed at the time of the transaction. For more information on our data practices with third party vendors, see our Mozilla Privacy Policy.
+*   **Payment Processing**: Mozilla does not receive any financial information, which is transmitted from you to our third party vendors for processing. The name of the third party will be displayed at the time of the transaction.
 
 Back to Mozilla Privacy Policy Mozilla Mozilla
 
