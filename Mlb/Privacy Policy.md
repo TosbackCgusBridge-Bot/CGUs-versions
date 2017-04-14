@@ -91,6 +91,8 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Franchise Four
 *   Tickets Tickets Tickets
     *   General Ticket Information
+    *   Fan Values
+    *   Celebrate Sunday
     *   StubHub.com
     *   Big League Tours2017 Season Tickets Big League Tours Bank of America 2017 Schedule
 *   Apps Apps Apps
