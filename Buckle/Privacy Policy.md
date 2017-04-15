@@ -80,7 +80,7 @@
           
           
         Give a Buckle Gift card Live Fast. Live Furious. SHOP our exclusive Fast &. Furious Collection by Affliction.  
-        The Fate of the Furious is in theaters April 14.
+        The Fate of the Furious is in theaters now!
 *   Men
     *   *   Featured
         
@@ -136,7 +136,7 @@
           
           
         Give a Buckle Gift card Live Fast. Live Furious. SHOP our exclusive Fast &. Furious Collection by Affliction.  
-        The Fate of the Furious is in theaters April 14.
+        The Fate of the Furious is in theaters now!
 *   Kids
     *   *   Featured
         
@@ -159,7 +159,7 @@
         
           
         Give a Buckle Gift card Live Fast. Live Furious. SHOP our exclusive Fast &. Furious Collection by Affliction.  
-        The Fate of the Furious is in theaters April 14.
+        The Fate of the Furious is in theaters now!
 *   Jeans
     *   *   Women's Jeans
         
@@ -190,7 +190,7 @@
         *   Shop All Factory Seconds
         
         Give a Buckle Gift card Live Fast. Live Furious. SHOP our exclusive Fast &. Furious Collection by Affliction.  
-        The Fate of the Furious is in theaters April 14.
+        The Fate of the Furious is in theaters now!
 *   New
     *   *   Featured New
         
@@ -229,7 +229,7 @@
         
           
         Give a Buckle Gift card Live Fast. Live Furious. SHOP our exclusive Fast &. Furious Collection by Affliction.  
-        The Fate of the Furious is in theaters April 14.
+        The Fate of the Furious is in theaters now!
 *   Sale
     *   *   Women's Sale
         
@@ -273,7 +273,7 @@
           
           
         Give a Buckle Gift card Live Fast. Live Furious. SHOP our exclusive Fast &. Furious Collection by Affliction.  
-        The Fate of the Furious is in theaters April 14.
+        The Fate of the Furious is in theaters now!
 *   Brands
     *   *   WOMEN
         
@@ -355,7 +355,7 @@
         *   Shop All
         
         Give a Buckle Gift card Live Fast. Live Furious. SHOP our exclusive Fast &. Furious Collection by Affliction.  
-        The Fate of the Furious is in theaters April 14.
+        The Fate of the Furious is in theaters now!
 
 A Global Message! × Privacy &. Security
 
