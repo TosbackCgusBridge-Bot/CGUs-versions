@@ -273,6 +273,6 @@ Comments are closed.
 
 Facebook Linkedin Twitter
 
-Use of the site is governed by our Terms of Use and Privacy Policy. Copyright 1996-2016 Ziff Davis. All Rights Reserved. Reproduction in whole or in part in any form or medium without express written permission of Ziff Davis, LLC. is prohibited.
+Use of the site is governed by our Terms of Use and Privacy Policy. Copyright 1996-2017 Ziff Davis. All Rights Reserved. Reproduction in whole or in part in any form or medium without express written permission of Ziff Davis, LLC. is prohibited.
 
 Back to Top
