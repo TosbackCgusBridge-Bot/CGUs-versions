@@ -86,7 +86,7 @@ _Email
   
 _If we send you an email advertisement, it will include instructions on how to opt out of receiving such emails in the future.  If you are a customer and you elect to opt out of receiving email advertisements, we may still send you emails about your account relationships with us. To opt out of receiving email advertisements, you may submit your request at https://preferences.capitalone.com. If your name was previously selected for any of our upcoming email offers, it is possible for you to receive information from Capital One up to 10 business days after your request has been submitted.  
   
-If you receive an email that claims to be from us but you are not sure, or if you think it is suspicious, do not click on any of the links in the e-mail. Instead forward it to us at abuse@capitalone.com then delete it.  For more email security tips, see the Capital One Fraud and Identity Theft page www.capitalone.com/identity-protection/ 
+If you receive an email that claims to be from us but you are not sure, or if you think it is suspicious, do not click on any of the links in the e-mail. Instead forward it to us at abuse@capitalone.com then delete it.  For more email security tips, see the Capital One Fraud and Identity Theft page www.capitalone.com/identity-protection/commitment 
 
 Updating Your Information
 
@@ -106,7 +106,7 @@ At Capital One, we make your safety and security a top priority and are committe
   
 Capital One maintains customer authentication procedures to protect your personal information and account from identity theft.  These procedures are for your protection.  If you suspect a website is pretending to be a Capital One website (also known as “spoofing”)  do not enter personal information but instead contact us in a branch or through a phone number you know is associated with your account at Capital One, or by emailing abuse@capitalone.com.  
   
-For more information about our commitment to security and for tips about what you can do to help guard against fraud and identity theft, visit our Fraud and Identity Theft Prevention page at www.capitalone.com/identity-protection/security/.
+For more information about our commitment to security and for tips about what you can do to help guard against fraud and identity theft, visit our Fraud and Identity Theft Prevention page at www.capitalone.com/identity-protection/commitment.
 
 Changes to this Statement  
 
