@@ -1,7 +1,7 @@
 Sencha
 
-*   Buy
 *   Try
+*   Buy
 *   Products
     *   Sencha Platform
     *   Why Sencha
@@ -24,27 +24,11 @@ Sencha
     *   Partners
     *   Training
 *   Pricing
-*   Resources
-    *   Webinars
-    *   Videos
-*   Customers
-*   Company
-    *   Overview
-    *   Team
-    *   Events
-    *   In the News
-    *   Press Releases
-    *   Careers
-*   Store
-    *   Ext JS
-    *   Sencha Test
-    *   GXT
-    *   Licensing
-    *   Ordering Information
-    *   Web Purchase Policy
-    *   Authorized Resellers
+*   Developers
+    *   SenchaDevs
+*   Try
+*   Buy
 
-*   SenchaDevs
 *   Support
 *   Forum
 *   Docs
@@ -155,14 +139,17 @@ Contact Us
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at privacy@sencha.com.  
 
-*   Facebook
-*   Twitter
-*   LinkedIn
-*   YouTube
-*   Google+
-*   Vimeo
+Sencha
 
-Get Sencha NewsBuy Online
+US: 1 (800) 212-2802
+
+info@sencha.com
+
+Stay Connected
+
+Join our mailing list
+
+Subscribe
 
 *   Products
     *   Sencha Platform
@@ -218,8 +205,17 @@ Get Sencha NewsBuy Online
     *   Web Purchase Policy
     *   Authorized Resellers
 
-© 2017 Sencha Inc. All rights reserved.  
-Privacy Policy | Terms of Use
+Stay Connected
+
+Join our mailing list
+
+Subscribe
+
+© 2017 Sencha Inc. All rights reserved.
+
+*   Privacy Policy
+*   Terms of Use
+*   Contact Us
 
 ⊖ Sign up for Sencha News
 
