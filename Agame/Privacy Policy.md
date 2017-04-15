@@ -239,11 +239,11 @@ View more results
     
     Mobile Apps More
     
-    *   Troll Face Quest TV Shows
     *   Uphill Rush
+    *   Troll Face Quest TV Shows
     *   My Dolphin Show
+    *   Car Eats Car
     *   Nitro Heads
-    *   Mad Truck Challenge
     *   Troll Face Quest Video Games
     
     Specials
