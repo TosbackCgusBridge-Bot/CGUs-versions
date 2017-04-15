@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Rockabye Baby in a Smart Crib From Ford**
+**Can Science Explain Why Microwaved Coffee Tastes So Terrible?**
 
-**Ketchup: How to Keep the Non-Newtonian Fluid From Messing Up Your Next BBQ**
+**Awesome, Abnormal &. Astounding: Our Best Stories You Might Have Missed This Week**
 
-**Study Suggests Early Antibiotics Could Affect Adult Health and Behavior**
+**How Parking Garages Track Open Spaces, and Why They Often Get It Wrong**
 
 **See More Headlines »**
 
