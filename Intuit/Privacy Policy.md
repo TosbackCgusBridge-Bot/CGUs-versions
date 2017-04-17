@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true L15895330734
+true true L15895468234
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Sat Apr 15 11:15:38 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.5.1.0.7.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p05.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Sun Apr 16 11:15:35 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.5.1.0.7.0
 
 *   for the home
 *   bed &. bath
@@ -56,17 +56,11 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 true
 
-Our Biggest Sale of the Season Entire Store on Sale | Up to 50% Off
+40-50% Off Dresses, select styles, 24.99-49.99, orig. $50-$86 25% Off Men's Nike Apparel, select styles, 18.75-52.50, reg. $25-$70, Nike excluded from coupon 4.99 Okie Dokie Match-Ups, select styles, reg. $12 Up To 50% Off Bedding, select styles 9.99 Juniors' Graphic Tee, select styles, reg. $20 24.99 Men's Stafford Comfort Stretch Dress Shirt, select styles, reg. $50 25% Off Boys' Or Girls' Nike Activewear, select styles, reg. $20-$30 Up To 50% Off Window, select styles 19.99 Bras, select styles, reg. $30-$44 27.99 Women's Sandals, select styles, reg. $55 25% Off Nike Shoes For The Family, select styles, 16.50-56.25, msrp $22-$75, Nike excluded from coupon 40-50% Off Fine Jewelry, select styles Clearance 60 to 80% Off Going, Going, Gone! New Markdowns!
 
-In Store and Online | Ends April 15
+In Store &. Online
 
-Excludes Low Price Everyday, Best Value, Sephora. Select styles.
-
-Shop Now Find a Store View Store AdJCPenney Rewards Rewards Members Shop &. Get a $10 Bonus Reward
-
-When you spend $50 or more in store or at jcp.com through April 15.
-
-Get Details \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Apr 15 21:57:56 CDT 2017 JVM :->. dtexppr1l1j3\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Apr 15 22:09:19 CDT 2017 JVM :->. dtexppr1l1j6\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now Find a Store Women Men Kids Shoes Handbags Jewelry Window Home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Apr 16 22:49:11 CDT 2017 JVM :->. dtexppr1l1j4\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Apr 16 22:48:36 CDT 2017 JVM :->. dtexppr1l1j6\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
