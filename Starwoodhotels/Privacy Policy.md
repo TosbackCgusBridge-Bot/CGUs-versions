@@ -325,23 +325,23 @@ WHY BOOK HERE
 *   **The Ritz-Carlton**
 *   **EDITION**
 *   **JW Marriott**
-*   **Autograph Collection**
+*   **Autograph Collection Hotels**
 *   **Renaissance Hotels**
 *   **Marriott Hotels and Resorts**
-*   **Delta Hotels**
+*   **Delta Hotels Marriott**
 *   **Marriott Executive Apartments**
 *   **Marriott Vacation Club**
 
 *   **Marriott Rewards**
-*   **Gaylord**
-*   **AC Hotels**
-*   **Courtyard**
-*   **Residence Inn**
-*   **SpringHill Suites**
-*   **Fairfield Inn**
-*   **TownePlace Suites by Marriott**
-*   **Protea**
-*   **Moxy**
+*   **Gaylord Hotels**
+*   **AC Hotels Marriott**
+*   **Courtyard Marriott**
+*   **Residence Inn Marriott**
+*   **SpringHill Suites Marriott**
+*   **Fairfield Inn and Suites Marriott**
+*   **TownePlace Suites Marriott**
+*   **Protea Hotels Marriott**
+*   **Moxy Hotels**
 
 *   **Starwood Preferred Guest**
 *   **ST REGIS**
