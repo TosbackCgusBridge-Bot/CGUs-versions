@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Can Science Explain Why Microwaved Coffee Tastes So Terrible?**
+**Why Do British Lawyers Still Wear Wigs?**
+
+**Teachers' Resignation Letters Going Viral. Maybe That's Not All Bad**
 
 **Awesome, Abnormal &. Astounding: Our Best Stories You Might Have Missed This Week**
-
-**How Parking Garages Track Open Spaces, and Why They Often Get It Wrong**
 
 **See More Headlines »**
 
