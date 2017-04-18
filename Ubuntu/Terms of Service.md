@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Industrial IoT – Manage and Control Remote Assets ›
 *   Ubuntu 17.04 supports widest range of container capabilities ›
 *   ROS production: our prototype ›
 *   General availability of Kubernetes 1.6 on Ubuntu ›
 *   A new vantage point ›
-*   Snap support lands in Fedora 24, 25 &. 26 ›
