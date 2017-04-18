@@ -79,8 +79,7 @@
         
           
           
-        Give a Buckle Gift card Live Fast. Live Furious. SHOP our exclusive Fast &. Furious Collection by Affliction.  
-        The Fate of the Furious is in theaters now!
+        Give a Buckle Gift card Standard shipping is now only $5! SHOP NOW
 *   Men
     *   *   Featured
         
@@ -135,8 +134,7 @@
         
           
           
-        Give a Buckle Gift card Live Fast. Live Furious. SHOP our exclusive Fast &. Furious Collection by Affliction.  
-        The Fate of the Furious is in theaters now!
+        Give a Buckle Gift card Standard shipping is now only $5! SHOP NOW
 *   Kids
     *   *   Featured
         
@@ -158,8 +156,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Live Fast. Live Furious. SHOP our exclusive Fast &. Furious Collection by Affliction.  
-        The Fate of the Furious is in theaters now!
+        Give a Buckle Gift card Standard shipping is now only $5! SHOP NOW
 *   Jeans
     *   *   Women's Jeans
         
@@ -189,8 +186,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Live Fast. Live Furious. SHOP our exclusive Fast &. Furious Collection by Affliction.  
-        The Fate of the Furious is in theaters now!
+        Give a Buckle Gift card Standard shipping is now only $5! SHOP NOW
 *   New
     *   *   Featured New
         
@@ -228,8 +224,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Live Fast. Live Furious. SHOP our exclusive Fast &. Furious Collection by Affliction.  
-        The Fate of the Furious is in theaters now!
+        Give a Buckle Gift card Standard shipping is now only $5! SHOP NOW
 *   Sale
     *   *   Women's Sale
         
@@ -272,8 +267,7 @@
         
           
           
-        Give a Buckle Gift card Live Fast. Live Furious. SHOP our exclusive Fast &. Furious Collection by Affliction.  
-        The Fate of the Furious is in theaters now!
+        Give a Buckle Gift card Standard shipping is now only $5! SHOP NOW
 *   Brands
     *   *   WOMEN
         
@@ -354,8 +348,7 @@
         *   Society
         *   Shop All
         
-        Give a Buckle Gift card Live Fast. Live Furious. SHOP our exclusive Fast &. Furious Collection by Affliction.  
-        The Fate of the Furious is in theaters now!
+        Give a Buckle Gift card Standard shipping is now only $5! SHOP NOW
 
 A Global Message! × Privacy &. Security
 
