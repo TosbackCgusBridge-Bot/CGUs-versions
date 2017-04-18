@@ -4,7 +4,7 @@ Wenn Sie Google-Dienste verwenden, vertrauen Sie uns Ihre Daten an. In dieser Da
 
 Datenschutzerklärung Beispiele ausblenden Beispiele anzeigen Beispiele ausblenden
 
-Zuletzt geändert am: 1. März 2017 (archivierte Versionen anzeigen) Die verlinkten Beispiele sind unten auf dieser Seite zu finden.
+Zuletzt geändert am: 17. April 2017 (archivierte Versionen anzeigen) Die verlinkten Beispiele sind unten auf dieser Seite zu finden.
 
 PDF-Version herunterladen
 
@@ -161,7 +161,7 @@ Unsere Datenschutzerklärung gilt nicht für Dienste, die von anderen Unternehme
 
 Zurück nach oben Einhaltung von Vorschriften und Zusammenarbeit mit Regulierungsbehörden
 
-Wir überprüfen die Einhaltung unserer Datenschutzerklärung regelmäßig. Wir halten darüber hinaus mehrere Selbstregulierungsverpflichtungen ein, einschließlich des EU-US Privacy Shield Abkommens. Sobald wir formale schriftliche Beschwerden erhalten, nehmen wir mit der Person, die die Beschwerde eingereicht hat, zum Zwecke der Nachverfolgung der Beschwerde Kontakt auf. Wir arbeiten mit den jeweils zuständigen Regulierungsbehörden zusammen, einschließlich der lokalen Datenschutzbehörden, um alle Beschwerden bezüglich der Übermittlung von personenbezogenen Daten zu bearbeiten, die wir nicht mit unseren Nutzern klären können.
+Wir überprüfen die Einhaltung unserer Datenschutzerklärung regelmäßig. Wir erfüllen darüber hinaus mehrere Rahmenbedingungen zur Selbstregulierung, darunter auch das EU-US Privacy Shield Framework und das Swiss-US Privacy Shield Framework. Sobald wir formale schriftliche Beschwerden erhalten, nehmen wir mit der Person, die die Beschwerde eingereicht hat, zum Zwecke der Bearbeitung der Beschwerde Kontakt auf. Wir arbeiten mit den jeweils zuständigen Regulierungsbehörden einschließlich der lokalen Datenschutzbehörden zusammen, um alle Beschwerden bezüglich der Übermittlung von personenbezogenen Daten zu bearbeiten, die wir nicht mit unseren Nutzern klären können.
 
 Zurück nach oben Änderungen
 
