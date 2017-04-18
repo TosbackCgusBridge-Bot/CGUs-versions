@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Across 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Two NOAA websites nominated for 2017 Webby Awards: Vote your support today AROUND NOAA // Cracking the code of a long-distance swimmer Ever dream of becoming a scientist? Dream no more. Study: Parts of central and Southern California had worst 4-year dry spell in 450 years U.S. had 2nd warmest year to date and 9th warmest March on record
+Enter Search Terms Two NOAA websites nominated for 2017 Webby Awards: Vote your support today AROUND NOAA // Every action counts: Join a cleanup this #EarthDay Cracking the code of a long-distance swimmer Ever dream of becoming a scientist? Dream no more. Study: Parts of central and Southern California had worst 4-year dry spell in 450 years
 
 *   About our agency
 *   News and features
