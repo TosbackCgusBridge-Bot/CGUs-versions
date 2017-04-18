@@ -4,7 +4,7 @@ Lorsque vous utilisez nos services, vous nous faites confiance pour le traitemen
 
 Règles de confidentialité Masquer les exemples Afficher les exemples Masquer les exemples
 
-Date de la dernière modification : 1 mars 2017 (voir les versions archivées) (Les exemples en liens hypertexte sont disponibles au bas de ce document.)
+Date de la dernière modification : 17 avril 2017 (voir les versions archivées) (Les exemples en liens hypertexte sont disponibles au bas de ce document.)
 
 Télécharger la version PDF
 
@@ -161,7 +161,7 @@ Les présentes Règles de confidentialité ne s’appliquent pas aux services pr
 
 Haut de la page Respect et coopération avec des organismes de régulation
 
-Nous vérifions régulièrement que nous respectons les présentes Règles de confidentialité. Nous nous conformons par ailleurs à plusieurs chartes d'autorégulation, notamment le bouclier de protection des données UE-États-Unis. Lorsque nous recevons une réclamation écrite, nous prenons contact avec l'utilisateur pour donner suite à sa démarche. Nous coopérons avec les autorités compétentes, y compris les autorités locales chargées de la protection des données, pour résoudre tout litige concernant le transfert d'informations personnelles que nous ne pouvons pas régler directement avec l'utilisateur.
+Nous vérifions régulièrement que nous respectons les présentes Règles de confidentialité. Nous nous conformons par ailleurs à plusieurs chartes d'autorégulation, notamment dans le cadre du bouclier de protection des données EU-US Privacy Shield Framework et Swiss-US Privacy Shield Framework. Lorsque nous recevons une réclamation écrite officielle, nous prenons contact avec l'utilisateur pour donner suite à sa démarche. Nous coopérons avec les autorités compétentes, y compris les autorités locales chargées de la protection des données, pour résoudre tout litige concernant le transfert d'informations personnelles que nous ne pouvons pas régler directement avec l'utilisateur.
 
 Haut de la page Modifications
 
