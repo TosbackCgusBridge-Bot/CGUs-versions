@@ -4,7 +4,7 @@ Wanneer u Google-services gebruikt, vertrouwt u ons met uw gegevens. Dit Privacy
 
 Privacybeleid Voorbeelden verbergen Voorbeelden weergeven Voorbeelden verbergen
 
-Laatst aangepast: 1 maart 2017 (gearchiveerde versies weergeven) (De voorbeelden met hyperlinks zijn beschikbaar aan het einde van dit document.)
+Laatst aangepast: 17 april 2017 (gearchiveerde versies weergeven) (De voorbeelden met hyperlinks zijn beschikbaar aan het einde van dit document.)
 
 Pdf-versie downloaden
 
@@ -161,7 +161,7 @@ Ons Privacybeleid is niet van toepassing op services die worden geleverd door an
 
 Bovenkant pagina Naleving en samenwerking met toezichthoudende authoriteiten
 
-We controleren regelmatig of we voldoen aan ons Privacybeleid. We houden ons ook aan meerdere raamwerken van zelfregulering, waaronder het EU-US Privacy Shield Framework. Wanneer we formele schriftelijke klachten ontvangen, zullen we contact opnemen met de persoon die de klacht heeft ingediend om vervolgacties te bespreken. We werken samen met de betreffende regelgevende instanties, waaronder lokale autoriteiten voor gegevensbescherming, om klachten met betrekking tot de overdracht van persoonlijke gegevens te verhelpen die we niet rechtstreeks met onze gebruikers kunnen oplossen.
+We controleren regelmatig of we voldoen aan ons eigen Privacybeleid. We houden ons ook aan meerdere zelfregulerende frameworks, waaronder het EU-US Privacy Shield-principe en het Swiss-US Privacy Shield-principe. Wanneer we formele schriftelijke klachten ontvangen, nemen we contact op met de persoon die de klacht heeft ingediend om vervolgacties te bespreken. We werken samen met de betreffende regelgevende instanties, waaronder lokale autoriteiten voor gegevensbescherming, om klachten met betrekking tot de overdracht van persoonlijke gegevens te verhelpen die we niet rechtstreeks met onze gebruikers kunnen oplossen.
 
 Bovenkant pagina Wijzigingen
 
