@@ -4,7 +4,7 @@ Quando o usuário usa nossos serviços, confia a nós informações dele. Esta P
 
 Política de Privacidade Ocultar exemplos Mostrar exemplos Ocultar exemplos
 
-Última modificação: 1 de março de 2017 (visualizar versões arquivadas) Os exemplos com hiperlinks estão disponíveis no final deste documento.
+Última modificação: 17 de abril de 2017 (visualizar versões arquivadas) Os exemplos com hiperlinks estão disponíveis no final deste documento.
 
 Fazer o download da versão em PDF
 
@@ -161,7 +161,7 @@ Nossa Política de Privacidade não se aplica a serviços oferecidos por outras 
 
 Voltar ao início Compliance e cooperação com as autoridades reguladoras
 
-Analisamos regularmente se mantemos a conformidade com a Política de Privacidade. Nós também aderimos a várias normas de autorregulação, incluindo a Estrutura Privacy Shield para os Estados Unidos e a União Europeia. Quando recebemos reclamações formais por escrito, entramos em contato com o autor da reclamação para acompanhamento. Trabalhamos com autoridades reguladoras apropriadas, inclusive autoridades locais de proteção de dados para resolver quaisquer reclamações referentes à transferência de dados pessoais que não podemos resolver diretamente com nossos usuários.
+Analisamos regularmente nossa conformidade com a Política de Privacidade. Nós também aderimos a várias estruturas autorregulatórias, incluindo as EU-US e Swiss-US Privacy Shield Frameworks. Quando recebemos reclamações formais por escrito, entramos em contato com o autor da reclamação para acompanhamento. Trabalhamos com autoridades reguladoras apropriadas, inclusive autoridades locais de proteção de dados para resolver quaisquer reclamações referentes à transferência de dados pessoais que não podemos resolver diretamente com nossos usuários.
 
 Voltar ao início Alterações
 
