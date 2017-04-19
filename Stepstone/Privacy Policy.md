@@ -1,28 +1,27 @@
-We use cookies! By using this website you consent to the use of cookies, according to the current browser settings. Dismiss
+We use cookies! By using this website you consent to the use of cookies, according to the current browser settings. Dismiss <a href="http://www.omniture.com" title="Web Analytics"><img src="https://102.112.2O7.net/b/ss/stepstone-com/1/H.9--NS/0?\[AQB\]&server=WWW&CE=UTF%2D8&cc=EUR&\[AQE\]" height="1" width="1" border="0" alt="" /></a>.
 
 *   Home
 *   About StepStone
     *   About StepStone
-    *   Mission &. Vision
+    *   Mission and Vision
     *   Management
     *   Values
     *   Timeline
     *   Press
     *   Brand Assets
-    *   Contact
 *   For recruiters
     *   For recruiters
-    *   Job advertising
-    *   CV database
-    *   Recruitment campaigns
+    *   Job Advertising
+    *   CV Database
+    *   Recruitment Campaigns
 *   Join us
 
 *   Select your country
     *   Europe
     *   Americas
     *   Africa
-    *   Asia &. Pacific
-    *   Middle east
+    *   Asia and Pacific
+    *   Middle East
 
 *   Contact
 *   Terms of use
@@ -49,7 +48,7 @@ Illegal Content
 
 Please note that you are solely responsible for all texts entered into our system or sent to us. Please ensure that you do not send us any attachments that contain viruses or worms.
 
-The information you send us must be accurate and must not breach copyrights, trademarks or other intellectual property rights, contravene law, competition law or other applicable provisions, official regulations, the rights of third parties in general or public policy ("Illegal Content"). Please note that you undertake to indemnify us against all claims made against us as a consequence of your failure to prevent Illegal Content appearing in any information you provide.
+The information you send us must be accurate and must not breach copyrights, trademarks or other intellectual property rights, contravene law, competition law or other applicable provisions, official regulations, the rights of third parties in general or public policy (“Illegal Content”). Please note that you undertake to indemnify us against all claims made against us as a consequence of your failure to prevent Illegal Content appearing in any information you provide.
 
 Data Security
 
@@ -61,7 +60,7 @@ Please note that JavaScript technology is used on our web sites.
 
 Interruption of services, withdrawal or changes of services, deletion of data
 
-StepStone GmbH does not guarantee or warrant that the services are available at specific times. Disturbances, interruptions or a possible breakdown of the online service cannot be excluded by StepStone GmbH. Systematic backups of the servers are carried out regularly. In so far as data have been transferred to StepStone GmbH - regardless their form - we recommend that you create your own backup copies. StepStone GmbH reserves the right to delete a publication, without reason at any time without notice. The user has no right to claim publication. StepStone GmbH reserves the right to change, extend, limit or withdraw its services at any time. Therefore, StepStone GmbH shall not be liable for any deleted data or loss of data.
+StepStone GmbH does not guarantee or warrant that the services are available at specific times. Disturbances, interruptions or a possible breakdown of the online service cannot be excluded by StepStone GmbH. Systematic backups of the servers are carried out regularly. In so far as data have been transferred to StepStone GmbH – regardless their form – we recommend that you create your own backup copies. StepStone GmbH reserves the right to delete a publication, without reason at any time without notice. The user has no right to claim publication. StepStone GmbH reserves the right to change, extend, limit or withdraw its services at any time. Therefore, StepStone GmbH shall not be liable for any deleted data or loss of data.
 
 Links
 
@@ -92,9 +91,9 @@ E-mail : info@stepstone.com
 
 This Privacy Statement replaces all other privacy statements previously applicable to the use of our web site.
 
-Copyright 1996-2015 StepStone GmbH All rights reserved
+Copyright 1996-2017 StepStone GmbH All rights reserved
 
-*   Contact
+*   Contact us
 *   Terms of use
 *   Privacy statement
 *   Sitemap
