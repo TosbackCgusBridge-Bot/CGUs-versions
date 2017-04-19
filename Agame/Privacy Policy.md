@@ -230,12 +230,12 @@ View more results
     Join for free
 *   Hot Games
     
-    *   Slither.io
-    *   Bubble Shooter
-    *   Slotomania
-    *   Ogame
-    *   SuperSnake.io
-    *   Happy Room
+    *   Five Nights at Freddy's
+    *   Bottle Flip
+    *   Roblox
+    *   Magoia
+    *   Cut The Rope 2
+    *   Truck Driver Crazy Road
     
     Mobile Apps More
     
