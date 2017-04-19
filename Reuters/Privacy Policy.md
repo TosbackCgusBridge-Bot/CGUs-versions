@@ -140,7 +140,7 @@ Practitioner Insights and analysis from top legal news sources
 
 Use your alerts on Westlaw to inform you promptly of new legal developments in your practice area or from your customized search.
 
-If you like alerts on Westlaw, you can also set up daily email summaries. You’re also able to add colleagues to the email list to receive alert summaries.
+If you like alerts on Westlaw, you can even set up daily email summaries. You’re also able to add colleagues to the email list to receive alert summaries.
 
 pip
 
