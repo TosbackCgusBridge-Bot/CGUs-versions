@@ -41,12 +41,16 @@ Recently Added Ree , Reyan.Ardan
 *   Obey the Brave
 *   Malang, Indonesia
 
-Recently Added Prıvacy Polıcy, zfsgvggg
+Recently Added ซุ้ม เพรชบ้านฉาง ไก่ชนลำพูน, zfsgvggg
 
-วิทยาลัยเทคนิคลำพูน
+Pa Sang, Lamphun, Thailand
 
 *   ธุระกิจส่วนตัว
 *   บริษัท พ่อกับแม่ จำกัดมหาชน
+
+ซุ้ม currently lives in Pa Sang, .  
+ซุ้ม works at ธุระกิจส่วนตัว.  
+and studied at วิทยาลัยเทคนิคลำพูน.  
 
 Recently Added Public Records &. Background Checks
 
