@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Across NOAA Two NOAA websites nominated for 2017 Webby Awards: Vote your support today Marine &. Aviation NOAA research ship returns to Charleston home port after worldwide deployment National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts 8 ways to keep the Earth cleanoffsite link Across NOAA Two NOAA websites nominated for 2017 Webby Awards: Vote your support today National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Across 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Two NOAA websites nominated for 2017 Webby Awards: Vote your support today AROUND NOAA // Every action counts: Join a cleanup this #EarthDay Cracking the code of a long-distance swimmer Ever dream of becoming a scientist? Dream no more. Study: Parts of central and Southern California had worst 4-year dry spell in 450 years
+Enter Search Terms March and year to date were 2nd warmest on record for world AROUND NOAA // Two NOAA websites nominated for 2017 Webby Awards: Vote your support today Every action counts: Join a cleanup this #EarthDay 10 simple choices you can make for a healthier planet
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-Greg McFall, NOAA
+iStock
