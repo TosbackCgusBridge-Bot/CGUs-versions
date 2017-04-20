@@ -1,9 +1,3 @@
-Help Drago collect as many dino eggs as possible!
-
-*   Play Now
-
-Attempt Play again Close X
-
 Pick a theme
 
 *   Easter
@@ -23,6 +17,8 @@ Games
 
 View more results
 
+*   Apps
+    
 *   Multiplayer
     
 *   Action
@@ -38,8 +34,6 @@ View more results
 *   Sports
     
 *   More
-    
-*   Specials
     
 *   For you
     
@@ -228,26 +222,6 @@ View more results
     Are you an existing user? Then log in to see your favorited games here! Don't have an account yet? Be sure to sign up to use this feature.
     
     Join for free
-*   Hot Games
-    
-    *   Five Nights at Freddy's
-    *   Bottle Flip
-    *   Roblox
-    *   Magoia
-    *   Cut The Rope 2
-    *   Truck Driver Crazy Road
-    
-    Mobile Apps More
-    
-    *   Uphill Rush
-    *   Troll Face Quest TV Shows
-    *   My Dolphin Show
-    *   Car Eats Car
-    *   Nitro Heads
-    *   Troll Face Quest Video Games
-    
-    Specials
-    
 
 privacy policy
 
