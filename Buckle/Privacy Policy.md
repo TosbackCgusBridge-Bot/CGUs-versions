@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card Standard shipping is now only $5! SHOP NOW
+        Give a Buckle Gift card Celebrate Earth Day on April 22nd! SHOP BRANDS that give to Mother Nature.
 *   Men
     *   *   Featured
         
@@ -134,7 +134,7 @@
         
           
           
-        Give a Buckle Gift card Standard shipping is now only $5! SHOP NOW
+        Give a Buckle Gift card Celebrate Earth Day on April 22nd! SHOP BRANDS that give to Mother Nature.
 *   Kids
     *   *   Featured
         
@@ -156,7 +156,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Standard shipping is now only $5! SHOP NOW
+        Give a Buckle Gift card Celebrate Earth Day on April 22nd! SHOP BRANDS that give to Mother Nature.
 *   Jeans
     *   *   Women's Jeans
         
@@ -186,7 +186,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Standard shipping is now only $5! SHOP NOW
+        Give a Buckle Gift card Celebrate Earth Day on April 22nd! SHOP BRANDS that give to Mother Nature.
 *   New
     *   *   Featured New
         
@@ -224,7 +224,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Standard shipping is now only $5! SHOP NOW
+        Give a Buckle Gift card Celebrate Earth Day on April 22nd! SHOP BRANDS that give to Mother Nature.
 *   Sale
     *   *   Women's Sale
         
@@ -267,7 +267,7 @@
         
           
           
-        Give a Buckle Gift card Standard shipping is now only $5! SHOP NOW
+        Give a Buckle Gift card Celebrate Earth Day on April 22nd! SHOP BRANDS that give to Mother Nature.
 *   Brands
     *   *   WOMEN
         
@@ -348,9 +348,9 @@
         *   Society
         *   Shop All
         
-        Give a Buckle Gift card Standard shipping is now only $5! SHOP NOW
+        Give a Buckle Gift card Celebrate Earth Day on April 22nd! SHOP BRANDS that give to Mother Nature.
 
-A Global Message! × Privacy &. Security
+× Privacy &. Security
 
 **Privacy &. Security Policy**  
 The Buckle, Inc. ("Buckle") cares about the privacy of our Guests. Our goal is to provide the best shopping experience possible for our Guests, and we strive to achieve that goal through our Internet shopping experience. Buckle.com collects client information to enhance your shopping experience.
