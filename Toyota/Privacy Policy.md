@@ -39,19 +39,6 @@
 *   2017 Prius v $26,675 starting 43/39 est. mpg build Specials
 *   2017 Mirai $57,500 starting 67/67 est. mpg Specials
 
-*   2018 Camry  
-    View More Info
-*   2018 Yaris  
-    View More Info
-*   2018 Sequoia  
-    View More Info
-*   2018 Tundra  
-    View More Info
-*   2018 RAV4  
-    View More Info
-*   2017 Concept Vehicle  
-    View More Info
-
 View All Vehicles
 
 *   Build &. Price
@@ -304,6 +291,10 @@ Compare Toyota vs. the Competition
 *   Toyota Camry vs Honda Accord  
     
 *   Toyota Sienna vs Honda Odyssey  
+    
+*   Toyota Tacoma vs Chevrolet Colorado  
+    
+*   Toyota RAV4 vs Honda C-RV  
     
 
 Features
