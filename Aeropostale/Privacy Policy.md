@@ -76,7 +76,6 @@ Aéropostale
     *   Joggers + Sweats
     *   Shorts
     
-    *   JACKETS + COATS
     *   Swim
     *   ACCESSORIES
     *   SHOES
@@ -95,7 +94,6 @@ Aéropostale
     
     *   TOPS
     *   Tanks
-    *   Bodysuits
     *   Short Sleeve Tees
     *   Hoodies &. Sweatshirts
     *   Jackets &. Vests
@@ -144,7 +142,6 @@ Aéropostale
     
     *   GUYS
     *   Surf Wash Tees
-    *   Jackets + Coats
     
     *   LIVE LOVE DREAM
     *   Black White &. Mesh Allover
