@@ -389,13 +389,6 @@ Menu
         *   Esprit R&D and Physician Program
         *   Residencies and Fellowships
         *   R&D postdoctoral global training program
-    *   Physicians
-        *   Physicians
-        *   Paul-Peter Tak
-        *   Monica Shaw
-        *   Thomas Breuer
-        *   Kumaran Vadivelu
-        *   Neil Barnes
     *   Apprenticeships
         *   Apprenticeships
         *   Our programs
@@ -403,6 +396,13 @@ Menu
         *   Development and benefits
         *   Application and assessment
         *   Parents and teachers
+    *   Physicians
+        *   Physicians
+        *   Paul-Peter Tak
+        *   Monica Shaw
+        *   Thomas Breuer
+        *   Kumaran Vadivelu
+        *   Neil Barnes
     *   High school students
     *   Employee rights under federal law
     
