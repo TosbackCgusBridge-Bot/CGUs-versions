@@ -24,6 +24,8 @@ AutoZone is not in the business of selling its customers' personal information t
 
 AutoZone also collects, stores, and uses aggregate data that do not contain personally identifiable information, such as demographics or statistical information. This aggregate data may be shared with and used by third parties to help AutoZone and its suppliers better understand and serve our customers.
 
+AutoZone participates in the Adobe Marketing Cloud Device Co-op to better understand how you use our website and apps across the various devices you use, and to deliver tailored promotions. Learn more at https://cross-device-privacy.adobe.com about how Adobe does this and how you may opt out of this program.
+
 Your Choices
 
 While AutoZone encourages you to take advantage of the personalized services on the Web Sites, you can use most of AutoZone's online services without registering your information with AutoZone. You can change your information at any time by editing your profile. If you are registered on AutoZone.com, you can remove your information by deleting your profile in the Customer Service area. If you are an AutoZone Rewards member, you may opt out of receiving promotional member marketing communications from AutoZone at AutoZoneRewards.com, by calling 1-800-741-9179, or by mailing a letter to the address shown below:
