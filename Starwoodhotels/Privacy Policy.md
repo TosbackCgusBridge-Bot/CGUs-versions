@@ -27,7 +27,7 @@ Text Only
 *   Meeting Planners _spg.com/meetingplanner_
 *   Developers _development.starwoodhotels.com_
 
-Hotel Directory New Hotels Resorts Customer Service Reservations Vacation Ownership Best Rate Guarantee Advanced Search Offers Residences Sign In to SPG.com  Go to SPG.com  Join now 
+Hotel Directory New Hotels null Customer Service Reservations Vacation Ownership Best Rate Guarantee Advanced Search Offers Residences Sign In to SPG.com  Go to SPG.com  Join now 
 
 Starwood Hotels &. Resorts Worldwide, LLC Online Privacy Statement
 
@@ -360,7 +360,13 @@ You are on StarwoodHotels.com Starwood Hotels &. Resorts Other Starwood Brands >
 
 © 2017 Marriott International, Inc., All rights reserved. |
 
-AdChoices Close X Get a Better View
+AdChoices
+
+*   Website Terms of Use |
+*   Updated Privacy Statement
+*   | Text Only
+
+Close X Get a Better View
 
 Upgrade your browser from Internet Explorer 6 or Firefox 3.0, 3.5 or 4.0 to the latest version for the best possible StarwoodHotels.com experience.
 
