@@ -72,7 +72,8 @@ Search Fidelity.com
     *   Life Insurance &. Long Term Care
 *   Why Fidelity
     *   The Fidelity Advantage
-    *   Planning &. Advice
+    *   Financial Planning
+    *   Trading
     *   Straightforward Pricing
     *   Insights &. Tools
     *   Security &. Protection
