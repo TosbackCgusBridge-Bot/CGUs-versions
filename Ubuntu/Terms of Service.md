@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Certified Ubuntu Images available on Oracle Bare Metal Cloud Service ›
 *   How we commoditized GPUs for Kubernetes ›
 *   FTC &. D-Link ›
 *   Unitas Global and Canonical provide Fully-Managed Enterprise OpenStack ›
 *   Industrial IoT – Manage and Control Remote Assets ›
-*   Ubuntu 17.04 supports widest range of container capabilities ›
