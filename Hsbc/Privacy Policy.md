@@ -71,6 +71,8 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Group reporting archive
     *   Subsidiary company reporting
         
+    *   Stock exchange announcements
+        *   Inside information
     *   Share and dividend information
         *   Dividend calculators
         *   Dividend history
@@ -80,19 +82,19 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Events and presentations
         
     
-    *   Fixed income securities
-        *   Covered bond reports
-        *   Green bond reports
-        *   Credit ratings
-        *   Issuance programmes
-        *   Regulatory capital securities
     *   Investor resources
         *   Contact our registrar
         *   Investor contacts
         *   Equity analyst coverage
         *   Frequently asked questions - investor relations
-    *   Stock exchange announcements
-        *   Inside information
+    *   Fixed income investors
+        *   Group securities
+        *   Subsidiary company securities
+        *   Covered bonds
+        *   Green bonds
+        *   Issuance programmes
+        *   Regulatory capital securities
+        *   Credit ratings
     
     *   Annual Results 2016 HSBC Holdings plc announced its Annual Results on 21 February 2017.
 *   News and insight
@@ -375,11 +377,11 @@ Investor relations
 
 *   Group results and reporting
 *   Subsidiary company reporting
-*   Fixed income securities
+*   Stock exchange announcements
 *   Share and dividend information
 *   Events and presentations
 *   Investor resources
-*   Stock exchange announcements
+*   Fixed income investors
 
 News and insight
 
