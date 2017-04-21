@@ -170,37 +170,33 @@ Sony on YouTube - Improve Your Photography Skills
 
 Play Improve Your Photography Skills Video hotspot
 
-The New a99 Camera Has a Smaller Body, But Bigger Features
+Introducing the Latest Alpha Camera
 
-Learn More About the a99 II
-
-Close
-
-*   Share
-*   Share The New a99 Camera Has a Smaller Body, But Bigger Features on Facebook
-*   Share The New a99 Camera Has a Smaller Body, But Bigger Features on Twitter
-*   Share The New a99 Camera Has a Smaller Body, But Bigger Features on Tumblr
-*   Copy URL to share The New a99 Camera Has a Smaller Body, But Bigger Features
-
-Learn More About the a99 II
-
-Join the Fight to Take Back Our Home. New Legends Will Rise.
-
-Learn More About “Destiny 2” Coming to PS4™ in September
+Learn More About the a9
 
 Close
 
 *   Share
-*   Share Join the Fight to Take Back Our Home. New Legends Will Rise. on Facebook
-*   Share Join the Fight to Take Back Our Home. New Legends Will Rise. on Twitter
-*   Share Join the Fight to Take Back Our Home. New Legends Will Rise. on Tumblr
-*   Copy URL to share Join the Fight to Take Back Our Home. New Legends Will Rise.
+*   Share Introducing the Latest Alpha Camera on Facebook
+*   Share Introducing the Latest Alpha Camera on Twitter
+*   Share Introducing the Latest Alpha Camera on Tumblr
+*   Copy URL to share Introducing the Latest Alpha Camera
 
-Play Join the Fight to Take Back Our Home. New Legends Will Rise. Video
+Learn More About the a9
 
-Sony on YouTube - Join the Fight to Take Back Our Home. New Legends Will Rise.
+Announcing the 2017 Sony World Photography Awards Winners
 
-Play Join the Fight to Take Back Our Home. New Legends Will Rise. Video hotspot
+Check Out All of the Photos
+
+Close
+
+*   Share
+*   Share Announcing the 2017 Sony World Photography Awards Winners on Facebook
+*   Share Announcing the 2017 Sony World Photography Awards Winners on Twitter
+*   Share Announcing the 2017 Sony World Photography Awards Winners on Tumblr
+*   Copy URL to share Announcing the 2017 Sony World Photography Awards Winners
+
+Check Out All of the Photos
 
 Easily Convert Your Vinyl Into Hi-Res Audio
 
