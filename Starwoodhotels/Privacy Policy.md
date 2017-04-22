@@ -27,7 +27,7 @@ Text Only
 *   Meeting Planners _spg.com/meetingplanner_
 *   Developers _development.starwoodhotels.com_
 
-Hotel Directory New Hotels null Customer Service Reservations Vacation Ownership Best Rate Guarantee Advanced Search Offers Residences Sign In to SPG.com  Go to SPG.com  Join now 
+Hotel Directory New Hotels Resorts Customer Service Reservations Vacation Ownership Best Rate Guarantee Advanced Search Offers Residences Sign In to SPG.com  Go to SPG.com  Join now 
 
 Starwood Hotels &. Resorts Worldwide, LLC Online Privacy Statement
 
