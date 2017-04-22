@@ -205,7 +205,6 @@ Join now! Collect 10 nights, get 1 free\*
     *   Website feedback
     *   Review a hotel
 *   For Suppliers, Affiliates and the Media
-    *   Add Hotel
     *   Affiliate with us
     *   Private Label
     *   Promote with Us
@@ -217,6 +216,7 @@ Join now! Collect 10 nights, get 1 free\*
     *   Cookie Policy
     *   About our ads
 *   About Us
+*   Add your hotel
 *   Jobs
 
 *   Travel Guides
