@@ -1,6 +1,5 @@
 Pick a theme
 
-*   Easter
 *   Red
 *   Blue
 *   Pink
