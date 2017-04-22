@@ -222,6 +222,8 @@ Menu
         *   Collaborating to improve patient care
         *   Global mission, local impact
         *   In Africa, markets matter for a healthy society
+        *   Pricing our medicines to help ensure patient access
+        *   Helping patients in need
     *   Patients &. consumers
         *   Patients &. consumers
         *   Science of a different stripe
@@ -266,7 +268,9 @@ Menu
         *   Engineers as leaders: The art of the possible over the probable
         *   Work Together, Give Together
         *   Putting responsible business principles into practice: spotlight on four GSK US "intrapreneurs"
+        *   Building future leaders
         *   The gift of time: increased parental leave
+        *   Designing inspiring and healthy workplaces
     *   How we do business
         *   How we do business
         *   Changing the way we work with healthcare professionals
@@ -279,6 +283,12 @@ Menu
         *   Letting the sunshine in – transparency that’ll grow trust
         *   How doctors and insurers get information about medicines for patients
         *   Buyer beware: importing drugs comes with big risks
+        *   Changing the way we do business
+        *   Fast-tracking our response to pandemics
+        *   Putting it plainly
+        *   Hunting for energy savings
+        *   Creating bricks and benches out of medical waste
+        *   Evolving our graduated approach to intellectual property
 *   About us
     
     *   About us
@@ -470,45 +480,11 @@ Menu
         We are committed to reporting the results of clinical research that evaluates our medicines and vaccines.
         
 *   Responsibility
-    
     *   Responsibility
     *   Health for all
-        *   Health for all
-        *   Access to healthcare
-        *   Health and well-being in our communities
     *   Our behavior
-        *   Our behavior
-        *   Sales and Marketing
-        *   Ethical conduct and supply chain
-        *   Research practices
-        *   Transparency reporting
     *   Our people
-        *   Our people
-        *   Working at GSK
-            *   Working at GSK
-            *   Engaging and developing our employees
-            *   Inclusion and diversity
-            *   Improving health, safety, and resilience
-            *   Employee Resource Groups
-        *   Employee volunteering
     *   Our planet
-    
-    *   Health for all
-        
-        We have the opportunity to improve the health and well-being of people around the world.
-        
-    *   Our behavior
-        
-        We are committed to addressing the needs of our customers in a way that aligns with our values.
-        
-    *   Our people
-        
-        Investing in our people and communities helps us to ensure the long-term sustainability of our business.
-        
-    *   Our planet
-        
-        We are committed to managing and reducing the environmental impact of our operations and our products across their lifecycle.
-        
 
 *   Privacy Statement
 
