@@ -5,6 +5,7 @@ Aéropostale
     *   NEW ARRIVALS
     *   #FREETOBE
     *   TRENDING
+    *   Festival Vibes
     *   Buy 1 Get 2 FREE
     *   Limited Edition
     *   Uniform
@@ -20,7 +21,6 @@ Aéropostale
     *   Polos
     *   Shirts
     *   Hoodies + Sweatshirts
-    *   Long Sleeve
     *   Sweaters
     *   Bodysuits
     *   Active Tops
@@ -54,7 +54,7 @@ Aéropostale
     *   NEW ARRIVALS
     *   #FREETOBE
     *   TRENDING
-    *   Life is a Beach
+    *   Summer Retreat
     *   Stretch Shop
     *   Limited Edition
     *   Uniform
@@ -240,11 +240,6 @@ Last updated May 8, 2012.
 Back to Top Mobile Signup
 
 *   Follow Us On:
-*   Facebook
-*   Twitter
-*   Pinterest
-*   Google Plus
-*   YouTube
 
 *   CUSTOMER SERVICE
 *   1-877-289-2376
