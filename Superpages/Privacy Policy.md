@@ -241,4 +241,4 @@ Claim your free business listing
 
 on Superpages. The more information you provide about your business, the easier it will be for customers to find you online.
 
-Claim This Business Copyright © {{date | date:'yyyy'}} Dex Media, Inc. All rights reserved. Terms of Use. Privacy Policy. Connect with us on
+Claim This Business © {{date | date:'yyyy'}} Dex Media. All rights reserved. Terms of Use. Privacy Policy. Connect with us on
