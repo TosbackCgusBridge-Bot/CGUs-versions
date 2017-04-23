@@ -17,7 +17,7 @@ SEG1 hp
 
 Office Depot Deals
 
-xwLhCqQ3tc-cI7Ze6zMK5nG
+mjWbUpfJvbRHuKLwZE6w9fF
 
 Search Suggestions
 
@@ -155,8 +155,8 @@ Never expires, ships for free
 Sign up for a credit card  
 and get special financing options
 
-10% back in reward points on ink, toner,  
-paper and copy/print/ship purchases
+2% back in rewards on everything  
+&. exclusive member deals
 
  **1-800-GO-DEPOT**  
 (1-800-463-3768)  Live Chat Available 24/7  **FREE** store pickup.  
@@ -175,7 +175,6 @@ one qualifying item
 *   Greener Office
 *   Ideas Center
 *   Products A-Z
-*   Top Categories
 *   Write a Product Review
 
 *   BUSINESS SERVICES
@@ -258,4 +257,4 @@ This promotion is for Rewards members only. To take advantage of exclusive offer
 
 Join Sign In
 
-/account/v2/editBillingDisplay,/orderhistory/subsManager,/orderhistory/submitReturn,/account/accountSummaryDisplay,/account/loginAccountDisplay,/account/myfiles,/csl/listAll
+/account/v2/editBillingDisplay,/orderhistory/subsManager,/orderhistory/submitReturn,/account/accountSummaryDisplay,/account/loginAccountDisplay,/account/myfiles
