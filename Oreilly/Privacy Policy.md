@@ -44,7 +44,7 @@ See all About O’Reilly
 *   Press Room
 *   Tim O'Reilly
 *   Editorial Independence
-*   Jobs
+*   Careers
 *   Terms of Service
 *   Privacy Policy
 *   Academic
@@ -264,7 +264,8 @@ For version 1.1 please click here.
 About Us
 
 *   Our Company
-*   Work with Us
+*   Teach/Speak/Write
+*   Careers
 *   Customer Service
 *   Contact Us
 
