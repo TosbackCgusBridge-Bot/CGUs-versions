@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
+**March for Science: Thousands Worldwide Rally on Earth Day**
+
 **Fleshy, Huggable Robots Could Soon Roam Disney Theme Parks**
 
 **The Mother of All Bombs is Big But It's No Nuke**
-
-**5 Things You Didn't Know About Charlotte Brontë**
 
 **See More Headlines »**
 
