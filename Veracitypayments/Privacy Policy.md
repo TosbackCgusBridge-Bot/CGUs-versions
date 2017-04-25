@@ -31,6 +31,7 @@ Toggle navigation
     Contact me 1-800-675-7430
 *   Resources
 *   Pricing
+*   Sign Up
 Home >. Privacy Policy Vanco Payment Solutions Privacy Policy
 
 Vanco Payment Solutions, Inc. and Vanco Payment Solutions, LLC (collectively “Vanco”) value your privacy. The Privacy Policy (the “Policy”) applies to any Vanco-owned websites (the “Sites”) that displays this Policy. In this Policy, we describe how we collect, use, and disclose information that we obtain about visitors to our Sites and users of our mobile applications (each an “App”), as well as users of the services available through the Sites and Apps. In this Policy, the “Services” means, collectively, the Sites, App and the services available through them.
@@ -131,7 +132,8 @@ Quick links
 *   Careers
 *   Leadership
 *   Developers
-*   Sign-Up
+*   Sign Up
+*   MyVanco Login
 
 Email Us
 
