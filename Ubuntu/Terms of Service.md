@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Canonical joins EdgeX Foundry to help unify IoT edge computing ›
+*   OpenStack public cloud, from Stockholm to Dubai and everywhere between ›
 *   ROS production: our prototype as a snap \[3/5\] ›
 *   Certified Ubuntu Images available on Oracle Bare Metal Cloud Service ›
 *   How we commoditized GPUs for Kubernetes ›
-*   FTC &. D-Link ›
-*   Unitas Global and Canonical provide Fully-Managed Enterprise OpenStack ›
