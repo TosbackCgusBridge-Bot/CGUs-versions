@@ -20,7 +20,7 @@
     By Price*   $30 &. Under
     *   $40 &. Under
     *   $50 &. Under
-    *   Over $90Most Popular Mother's Day Gifts HoneyGold® Ham
+    *   Over $90Most Popular Mother's Day Gifts Sausage &. Cheese
 *   Sausage &. Cheese
     
     View All Categories Shop by Category*   Gifts
@@ -96,7 +96,7 @@
     By Price*   $30 &. Under
     *   $40 &. Under
     *   $50 &. Under
-    *   Over $90Most Popular Mother's Day Gifts HoneyGold® Ham
+    *   Over $90Most Popular Mother's Day Gifts Sausage &. Cheese
 *   Sausage &. Cheese
     
     View All Categories Shop by Category*   Gifts
