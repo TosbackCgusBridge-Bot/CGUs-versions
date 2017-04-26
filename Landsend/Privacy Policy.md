@@ -34,11 +34,14 @@ skip to content skip to navigation skip to search Lands' End SIGN IN MY ACCOUNT
 menu 0 Free Shipping on $50+  |  Offers
 
 *   New SHOP NEW ARRIVALS
+    
     *   Women
     *   Men
     *   Girls
     *   Boys
     *   Home
+    
+    *   The Journal
 *   Women FEATURED SHOPS
     
     *   New Arrivals
@@ -320,6 +323,7 @@ menu 0 Free Shipping on $50+  |  Offers
         *   Girls
         *   Boys
         *   Home
+    *   The Journal
 *   Women
     *   Back
     *   Shop all Women
