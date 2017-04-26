@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Research Oceans &. Coasts #EarthDay DIY: Create your own rain garden with this mobile app Across NOAA Ever dream of becoming a scientist? Dream no more. National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Research April 27 Reddit Science AUA: 'Tornado! Talk Severe Weather Research &. Prediction With NOAA' Across NOAA Ever dream of becoming a scientist? Dream no more. National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms March and year to date were 2nd warmest on record for world AROUND NOAA // Study: Global plant growth surging alongside carbon dioxide Please, no selfies with the seals: 5 ways to view wildlife responsibly Protecting our planet starts with you: 10 simple choices for a healthier Earth 8 ways to keep the Earth cleanoffsite link
+Enter Search Terms March and year to date were 2nd warmest on record for world AROUND NOAA // April 27 Reddit Science AUA: 'Tornado! Talk Severe Weather Research &. Prediction With NOAA' Study: Global plant growth surging alongside carbon dioxide Please, no selfies with the seals: 5 ways to view wildlife responsibly Protecting our planet starts with you: 10 simple choices for a healthier Earth
 
 *   About our agency
 *   News and features
