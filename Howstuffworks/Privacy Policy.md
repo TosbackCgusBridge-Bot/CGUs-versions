@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**When Removing Confederate Statues Requires a Military Defense**
+**5 Things to Expect if the Government Shuts Down**
 
-**Female Supreme Court Justices Interrupted Three Times More Frequently Than Men**
+**What's the Deal With Smashing the Wedding Cake?**
 
-**Ridiculous History: Want to Be a Manlier Man? Use These Tips From Walt Whitman**
+**Climate Change Reverses a River's Flow in Canadian Glacier**
 
 **See More Headlines »**
 
