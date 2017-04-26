@@ -52,7 +52,7 @@ Show Search Bar
 
 The Cybersecurity source Privacy Policy
 
-**Last updated: February 08, 2017**
+**Last updated: April 25, 2017**
 
 US Privacy Policy
 
