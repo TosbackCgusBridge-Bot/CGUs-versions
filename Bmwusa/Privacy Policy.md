@@ -121,8 +121,5 @@ Cookies and similar technologies save you the trouble of reentering certain info
 11\. Do Not Track  
 Do Not Track (DNT) is a privacy preference that users can set in some web browsers, allowing users to opt out of tracking by websites and online services. At the present time, the World Wide Web Consortium (W3C) has not yet established universal standards for recognizable DNT signals and therefore, BMW NA and the Sites do not recognize DNT.  
   
-12\. Your California Privacy Rights  
-This privacy policy describes how we may share you information, including for their own marketing purposes. California residents are entitled to request and obtain from BMW NA once per calendar year information about any of your personal information shared with third parties for their own direct marketing purposes, including the categories of information and the names and addresses of those businesses with which we have shared such information. To request this information and for any other questions about our privacy practices and compliance with California law, please contact us at the address and phone number listed below.  
-  
-13\. Questions and Comments  
+12\. Questions and Comments  
 Please feel free to send your privacy-related comments or questions to privacy@bmwusa.com or write: BMW of North America, Privacy Office, PO Box 1227, Westwood NJ 07675-1227. You may also call BMW Customer Relations at 800-831-1117. Prompt 'Customer Relations.' Customer telephone calls may be recorded to protect you and our staff. In all written communications, please indicate that you are writing concerning BMWUSA.com or My BMW. We will do our best to respond to all reasonable inquiries in a timely manner.
