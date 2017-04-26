@@ -1,7 +1,5 @@
 Sencha
 
-*   Try
-*   Buy
 *   Products
     *   Sencha Platform
     *   Why Sencha
