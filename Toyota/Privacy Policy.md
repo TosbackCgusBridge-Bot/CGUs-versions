@@ -241,6 +241,8 @@ Crossovers &. SUVs
 
 *   4Runner  
     
+*   C-HR  
+    
 *   Highlander  
     
 *   Land Cruiser  
