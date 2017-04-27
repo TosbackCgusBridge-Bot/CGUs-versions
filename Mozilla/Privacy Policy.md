@@ -182,7 +182,3 @@ Portions of this content are ©1998–2017 by individual mozilla.org contributor
 *   Cookies
 *   Legal
 *   Report Trademark Abuse
-
-Hello! Would you be willing to take a minute to answer a few questions? Sure. I’ll help.
-
-Close
