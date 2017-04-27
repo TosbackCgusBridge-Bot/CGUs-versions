@@ -138,7 +138,7 @@ Privacy  |  Cookies  |  All third party trademarks are the property of their
 
 Skip to content Skip to menu Change language
 
-*   Global Website: Español / English
+*   Global Website: English / Español
 *   Australia: English
 *   Brasil: Português do Brasil
 *   Canada: English
@@ -165,6 +165,6 @@ Skip to content Skip to menu Change language
 *   日本: 日本語
 *   대한민국: 한국어
 
-Global Website: Español / English
+Global Website: English / Español
 
 ×
