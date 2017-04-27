@@ -41,6 +41,7 @@ menu 0 Free Shipping on $50+  |  Offers
     *   Boys
     *   Home
     
+    BLOG
     *   The Journal
 *   Women FEATURED SHOPS
     
@@ -323,7 +324,9 @@ menu 0 Free Shipping on $50+  |  Offers
         *   Girls
         *   Boys
         *   Home
-    *   The Journal
+    *   BLOG
+        *   Back
+        *   The Journal
 *   Women
     *   Back
     *   Shop all Women
