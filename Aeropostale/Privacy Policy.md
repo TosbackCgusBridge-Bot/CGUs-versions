@@ -126,6 +126,7 @@ Aéropostale
     *   Clearance Tops
     *   Clearance Bottoms
     *   Clearance Accessories
+    *   Clearance Intimates
     
     *   Guys View All
     *   Clearance Tops
