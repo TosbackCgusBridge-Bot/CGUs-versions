@@ -97,9 +97,11 @@ Wed, May 24, 2017 Planning for the Future: A Conference About Identity Theft
 
 Ten years ago, President Bush launched a new era in the fight against identity theft by issuing an executive order establishing the Identity Theft Task Force, which the Commission co-chaired. In the ensuing ten years, great strides have been made to combat identity theft but it remains a significant problem for American consumers. The Federal Trade Commission will host an all-day conference to take a comprehensive look at how identity theft has evolved over the last decade and what we can do to address this challenge in the future.
 
-Tue, Oct 17, 2017 Privacy, Risk, Security 2017
+Wed, Jun 28, 2017 FTC Connected Car Workshop
 
-Privacy. Security. Risk.
+The Federal Trade Commission and the National Highway Traffic Safety Administration (NHTSA) will hold a workshop on June 28, 2017 in Washington, D.C., to examine the consumer privacy and security issues posed by automated and connected motor vehicles.  The workshop will feature opening remarks by Acting FTC Chairman Maureen K. Ohlhausen and will bring together a variety of stakeholders, including industry representatives, consumer advocates, academics, and government regulators, to discuss various issues related to connected and automated vehicles that collect data.
+
+More >>.
 
 *   OTA Blog
 *   Newsletters
