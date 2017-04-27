@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**5 Things to Expect if the Government Shuts Down**
+**'Steve' Lights Up Night Sky and Puzzles Astronomers**
 
-**What's the Deal With Smashing the Wedding Cake?**
+**Death of Famously Big Rabbit Is Latest United Airlines PR Nightmare**
 
-**Climate Change Reverses a River's Flow in Canadian Glacier**
+**Ancient Skeleton DNA Suggests Genetic Link to First Humans in North America**
 
 **See More Headlines »**
 
