@@ -196,6 +196,6 @@
 
 24.6 The section titles in this TOS are for convenience only and have no legal or contractual effect.
 
-Last updated March 4, 2011
+Last updated April 20, 2017.
 
-Copyright © 2016 Typepad, Inc. All rights reserved.
+Copyright © 2017 Typepad, Inc. All rights reserved.
