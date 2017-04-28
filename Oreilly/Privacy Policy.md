@@ -269,11 +269,11 @@ About Us
 *   Customer Service
 *   Contact Us
 
-*   twitter
-*   facebook
-*   linkedin
-*   youtube
-*   newsletter
+*   Twitter
+*   Facebook
+*   LinkedIn
+*   YouTube
+*   Newsletters
 
 © 2017 O’Reilly Media, Inc. All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
 
