@@ -1,6 +1,6 @@
 Terms of Service
 
-Effective: April 3, 2017
+Effective: April 27, 2017
 
 POPSUGAR Inc., its subsidiaries and affiliates (“POPSUGAR,” “we,” “us,” “our”) owns and operates POPSUGAR and its network of websites including https://www.popsugar.com, mobile applications, and any other linked and related pages, content, features, products, software, video player and tools offered by POPSUGAR (the “Services”).
 
@@ -68,9 +68,21 @@ POPSUGAR Inc., its subsidiaries and affiliates (“POPSUGAR,” “we,” “us,
     
     You must reside in the United States and register to join POPSUGAR’s Sample Squad to receive samples from third party companies. You may only receive one sample per household. and samples are provided while supplies last. Samples are provided by the third party company stated on the sample, and not POPSUGAR. POPSUGAR makes no representations or warranties whatsoever with regard to any sample provided or offered, and you acknowledge and agree that any reliance on representations and warranties provided by the third party company brand shall be at your own risk. POPSUGAR disclaims, and you agree to assume, all responsibility and liability, whether to you or third parties, resulting from your use of the samples.
     
-*   POPSUGAR “MUST HAVE” PROGRAM
+*   POPSUGAR “MUST HAVE” BOX SERVICE
     
-    You may be able to purchase a subscription or an on-demand premium edition offering through the POPSUGAR “Must Have” program. Such purchases are governed by the Terms of Sale located here (the “Must Have Terms”), which is hereby incorporated into this Agreement by reference. your acceptance of this Agreement constitutes your acceptance and agreement to be bound by the Must Have Terms.
+    You may be able to purchase a subscription or an on-demand premium edition offering through the POPSUGAR “Must Have” service. Such purchases are governed by the Terms of Service and Terms of Sale located here (the “Must Have Terms”), which is hereby incorporated into this Agreement by reference. your acceptance of this Agreement constitutes your acceptance and agreement to be bound by the Must Have Terms.
+    
+*   POPSUGAR “MUST HAVE IT” SERVICE
+    
+    You may be able to purchase products from our third-party partners on-demand via mobile phone text through the POPSUGAR “Must Have It” service. By subscribing to our Must Have It service and providing your mobile phone number, you agree to receive ongoing promotional text messages from POPSUGAR using automated technology. Your consent is not a condition of purchase and no purchase is necessary.
+    
+    You may opt-out of receiving text messages through the Must Have It service at any time by replying ‘STOP’ to any text message sent by us through the Must Have It service, texting STOP to (415) 692-1313, or by visiting the “Account Settings” page in your Must Have account and changing the Must Have It Phone Number settings from ‘on’ to ‘off’. You may reply ‘HELP’ to any text message sent by us through the Must Have It service to receive a link to our program FAQs and our customer service contact information.
+    
+    By subscribing to the Must Have It service, you agree to receive up to twenty (20) texts per month, although you may receive more than twenty (20) texts per month if you initiate additional interactions with the Must Have It service. Standard messaging and data rates may apply.
+    
+    You must notify us in advance if you cancel or change your mobile phone number attached to your Must Have account. To do so, please visit the “Account Settings” page in your Must Have account, or email musthave@popsugar.com.
+    
+    All purchases made through our Must Have It service are governed by the Must Have Terms.
     
 *   POPSUGAR’S INTELLECTUAL PROPERTY AND LIMITED LICENSES
     
