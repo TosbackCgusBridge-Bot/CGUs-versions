@@ -15,6 +15,13 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Actions to capture value
     *   Leadership
         
+    *   Corporate governance
+        *   Board committees
+        *   Board responsibilities
+        *   Corporate governance codes
+    *   Contact us
+        
+    
     *   Structure and network
         *   Commercial Banking
         *   Global Banking and Markets
@@ -22,19 +29,11 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Retail Banking and Wealth Management
         *   HSBC on social media
         *   Country contacts
-    *   Contact us
-        
-    
     *   Company history
         *   HSBC's history
         *   HSBC’s archives
         *   Online gallery
         *   Frequently asked questions
-    *   Corporate governance
-        *   Board committees
-        *   Corporate governance codes
-        *   Internal control
-        *   Obligations of senior financial officers
     
     *   Structure and network Read more about HSBC's network and four global businesses.
 *   Our approach
@@ -96,7 +95,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Regulatory capital securities
         *   Credit ratings
     
-    *   Annual Results 2016 HSBC Holdings plc announced its Annual Results on 21 February 2017.
+    *   1Q 2017 Earnings Release HSBC Holdings plc will announce its 1Q 2017 update on 4 May.
 *   News and insight
     
     *   Media resources
@@ -360,9 +359,9 @@ Site navigation About HSBC
 *   Our purpose
 *   Our strategy
 *   Leadership
-*   Company history
-*   Structure and network
 *   Corporate governance
+*   Structure and network
+*   Company history
 
 Contact Us Our approach
 
