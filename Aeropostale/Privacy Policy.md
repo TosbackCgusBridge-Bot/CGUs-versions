@@ -96,7 +96,6 @@ Aéropostale
     *   Tanks
     *   Short Sleeve Tees
     *   Hoodies &. Sweatshirts
-    *   Jackets &. Vests
     *   Sleep Tops
     
     *   BOTTOMS
@@ -138,6 +137,7 @@ Aéropostale
 *   Trending
     
     *   GIRLS
+    *   Festival Vibes
     *   Off the Shoulder
     *   Peasant Tops
     
