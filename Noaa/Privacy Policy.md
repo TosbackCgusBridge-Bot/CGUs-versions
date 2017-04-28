@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms March and year to date were 2nd warmest on record for world AROUND NOAA // April 27 Reddit Science AUA: 'Tornado! Talk Severe Weather Research &. Prediction With NOAA' Study: Global plant growth surging alongside carbon dioxide Please, no selfies with the seals: 5 ways to view wildlife responsibly Protecting our planet starts with you: 10 simple choices for a healthier Earth
+Enter Search Terms March and year to date were 2nd warmest on record for world AROUND NOAA // Watch live: NOAA Ship Okeanos Explorer probes seamounts, deep-water areas of central Pacific April 27 Reddit Science AUA: 'Tornado! Talk Severe Weather Research &. Prediction With NOAA' Study: Global plant growth surging alongside carbon dioxide Please, no selfies with the seals: 5 ways to view wildlife responsibly
 
 *   About our agency
 *   News and features
