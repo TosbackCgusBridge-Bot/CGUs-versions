@@ -13,7 +13,7 @@ Computer Matching Programs
 System of Records Notices  
 Using Links to other sites**
 
-IRS Privacy Policy  
+IRS Privacy Policy
 
 Thank you for visiting the Internal Revenue Service's website, an official United States Government System, and reviewing our privacy policy. Our privacy policy explains how we handle the personally identifiable information (PII) that you provide to us when you visit us online to browse, obtain information, or conduct a transaction. PII includes information that is personal in nature and which might be used to identify you. The IRS uses this website to provide information about IRS services and programs. This website includes specific applications which provide more services or enable us to respond to specific questions from website visitors.
 
@@ -55,12 +55,74 @@ A SORN is required when a government agency has a system of records as defined a
 
 All SORNs are approved by the agency’s Chief Privacy Officer prior to publication and are sent to OMB and Congress for comment.  After, they are published in the Federal Register for thirty days to give the public notice and time to comment. A program or system may not become operational until the SORN has been published for thirty days.
 
-All IRS SORNs published in the Federal Register can be found on the U.S. Department of the Treasury System of Records Notices Webpage.
+All IRS SORNs published in the Federal Register can be found on the U.S. Department of the Treasury System of Records Notices webpage. There is a section labeled “Exemptions claimed for the system” that lists any exemptions to the Privacy Act at the end of each SORN.
 
 Computer Matching Agreements  
 A computer matching program is required by the Privacy Act for any computerized comparison of two or more automated systems of records, or a system of records with non-federal records, for the purpose of establishing or verifying eligibility or compliance as it relates to cash or in-kind assistance or payments under federal benefit programs.
 
 Notices for approved computer matching programs are published in the Federal Register and can be found on the U.S. Department of the Treasury Computer Matching Programs Webpage.
+
+Publicly Available Privacy Reports  
+In accordance with Section 522 of the Consolidated Appropriations Act of 2005, the Department of the Treasury prepares a report to Congress on an annual basis covering the Department’s activities which affect privacy.  These activities include complaints of privacy violations, implementation of section 552a of title 5, 11 United States Code, internal controls, as well as other relevant matters.  A listing of all publically available privacy reports can be found at the U.S. Department of the Treasury Privacy Act Annual Reports webpage.
+
+Privacy Act Implementation Rules and Exemptions  
+Information on IRS Privacy Act Implementation Rules can be found at the Federal Register Privacy Act Implementation for the U.S. Department of the Treasury.
+
+Exemptions to the Privacy Act can be found near the end of each individual SORN, in the “Exemptions claimed for the system”, as well as in Treasury regulation 31 CFR 1.36.
+
+**Privacy Act Requests**
+
+The Privacy Act of 1974, as amended, provides safeguards against unwarranted invasions of privacy by establishing a code of "fair information practices."  The principles, commonly referenced as the fair information practice principles (FIPPs), require agencies to comply with statutory norms for collection, maintenance, access, use, and dissemination of records.  
+  
+To increase transparency and assure notice to individuals, the Privacy Act requires agencies to publish in the Federal Register notice of modifications to or the creation of systems of records. The term "system of records" means a group of any records under the control of any agency from which information is retrieved by the name of the individual or by some identifying number, symbol, or other identifying particular assigned to the individual.  
+  
+A current listing of the Department's System of Records, along with updated routine uses and claimed exemptions, can be found the on the Treasury Department's System of Records Notices page.  
+  
+To further protect the individual, the Privacy Act requires all records which are used by the agency in making any determination about any individual to be maintained with such accuracy, relevance, timeliness, and completeness as is reasonably necessary to assure fairness to the individual in the determination.  
+  
+The Privacy Act grants individuals increased rights of access to records maintained about them, as well as the right to seek amendment of records maintained about them.   
+  
+**NOTE:** Federal tax records are exempt from amendment. To amend a Federal Tax record, taxpayers must file Form 1040X or follow IRS procedures for other changes, such as change of address.
+
+**How to Write a Privacy Act Request**
+
+NOTE: IRS offers routine access to other records through procedures designed to make access quick and easy. For more information, use the Routine Access link below.  If you are working directly with an IRS employee on an open tax case, you can request information from the file directly from them.  
+  
+**Routine Access to IRS Records**When you make a request for notification of or access to records, it should:
+
+1.  Be made in writing and signed by the person making the request, who must be the individual about whom the record is maintained.
+2.  State that it is made pursuant to the Privacy Act, 5 U.S.C. 552a, or be marked "Privacy Act Request" on the request.
+3.  Give the name of the system of records to which access is sought, if known. A listing of the more recent Privacy Act documents appearing in the Federal Register can be found under IRS Systems of Records at Treasury Department System of Records Notices.
+4.  Provide enough information (i.e., information sufficient to establish your identity such as name, address, Social Security Number or other personal identifier. the nature of the record sought, the date of the record or the period in which the record was compiled) to enable us to locate the record with a reasonable amount of effort.
+5.  State that you are a citizen of the United States or an alien lawfully admitted for permanent residence in the United States.
+6.  Provide verification of your identity (see below). 
+7.  IRS generally provides records in response to Privacy Act requests in electronic format, which reduces or eliminates fees. Requests to inspect records may cause delays. Note: Records may not be available for inspection in all IRS locations.
+8.  State your agreement to pay the fees for duplication that might be incurred.
+9.  If necessary, provide written consent for release of the information to your authorized representative (see below).
+
+**Verification of Identity  
+**You must verify your identity before action will be taken on any request. This can be done by providing a copy of a driver's license bearing your signature. or by providing a signed and dated statement that you understand the penalties provided in 5 U.S.C. 552a(i)(3) for requesting access to records under false pretenses, and the statement is subscribed by you as true and correct under penalty of perjury pursuant to 28 U.S.C. 1746.
+
+**Authorization**  
+Individuals may not get information about someone else under the Privacy Act. If you want the IRS to release information about you to someone else, such as your attorney or other authorized representative, you will need to provide written consent for the release of the information. The written authorization must contain:
+
+1.  A description of the record which may be disclosed.
+2.  The name of the person, firm, or agency to which the record will be disclosed.
+3.  A statement that Internal Revenue Service is authorized to disclose the record.
+4.  Your signature and the date.
+5.  Verification of your identity as noted above.
+
+**Where to Send Your Privacy Act Request**   
+Access and amendment requests for records maintained in IRS systems should be marked ‘‘Privacy Act Request’’ on the outside and mailed to the following address:
+
+1.  Internal Revenue Service  
+    Disclosure Scanning Operation—Stop 93A  
+    Post Office Box 621506  
+    Atlanta, GA 30362–3006
+    
+
+**Fees  
+**Fees may be charged only for the cost of duplication, without regard to whether the request was processed under the Privacy Act, the Freedom of Information Act, or both. The first l00 pages will be provided without charge. No fees will be charged if total charges are $25 or less.
 
 **Privacy Complaints**
 
@@ -80,8 +142,6 @@ Washington, DC 20224
 
 **BEFORE YOU WRITE**, note that this office cannot assist you with any type of tax matter. We may only address questions about IRS privacy policies or complaints you may have regarding how IRS uses and collects personal information. Do not send in any sensitive information through this correspondence.
 
-Please include as much information as possible to help with our research and response to your query, as appropriate and known. Include the date of the incident, the date of discovery, and what personal information was affected. IRS takes your privacy concerns very seriously, and will respond fully and timely.  Please allow up to four weeks for a written response to your complaint or inquiry, so that we have time to research and resolve.  
+Please include as much information as possible to help with our research and response to your query, as appropriate and known. Include the date of the incident, the date of discovery, and what personal information was affected. IRS takes your privacy concerns very seriously, and will respond fully and timely.  Please allow up to four weeks for a written response to your complaint or inquiry, so that we have time to research and resolve.
 
-****PLEASE NOTE:**** Do not respond to unsolicited e-mails that claim to come from the IRS, or any e-mail from an unknown party asking you to submit personal, tax, or financial data. The IRS does not use email to request this type of information. Forward suspicious emails to: phishing@irs.gov.
-
-Page Last Reviewed or Updated: 03-Mar-2017
+Page Last Reviewed or Updated: 27-Apr-2017
