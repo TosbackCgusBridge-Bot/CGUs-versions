@@ -141,49 +141,30 @@ All Vehicles Find Your Subaru All Vehicles Certified Pre-Owned Certified Pre-Own
 
 Fully checked, factory-covered and ready for more adventures.
 
-Search Inventory   Future Vehicles and Concepts Compare
+Search Inventory   Future Vehicles and Concepts RESEARCH
 
-Compare Subaru models and other car manufacturers.
+*   Build &. Price
+*   Compare Vehicles
+*   Local Inventory
+*   Special Offers
+*   View a Brochure
 
-Local Inventory
+BUY
+
+*   Payment Calculator
+*   Trade-In Appraisal
+*   Financing / Leasing
+*   Free Equifax Credit Score
+*   Extended Service Plans
+*   Parts &. Service
 
 See what your local Subaru retailer has available today.
 
-Calculator
+YOUR RETAILER
 
-Estimate your monthly cost based on finance rate and trade-in.
+CHANGE
 
-Special Offers
-
-See all the national deals for every Subaru model.
-
-Request a Quote
-
-Get the most precise number on the Subaru you want.
-
-Financing
-
-Find information on financing or leasing your new Subaru.
-
-Take a Guided Tour
-
-Get up close and personal with model specific interactive content, videos, and so much more
-
-Start Here
-
-*   Free Equifax Credit Score
-*   Apply for Financing
-*   Extended Service Plans
-*   Trade-In Appraisal
-*   View a Brochure
-
-What Makes a Subaru  
-
-Find out what sets Subaru apart from the competition.
-
-Life with Subaru  
-
-There’s always an experience, story, or benefit to enjoy when you own a Subaru.
+FIND A RETAILER What Makes a Subaru
 
 *   Reviews &. Awards
 *   Commitment to Safety
@@ -191,6 +172,8 @@ There’s always an experience, story, or benefit to enjoy when you own a Subaru
 *   SUBARU STARLINK™  
     In-Vehicle Technology
 *   EyeSight® Driver Assist Technology
+
+Life with Subaru
 
 *   Dear Subaru: Owner Stories
 *   Benefits of Ownership
@@ -427,3 +410,47 @@ iPod and iPad are registered trademarks of Apple Inc.. Brembo is a registered tr
 
 PLEASE REVIEW THESE IMPORTANT DISCLOSURES.  
 Subaru of America, Inc. reserves the right to make changes at any time without notice or obligation to the information contained on this Internet site, prices, incentive programs, specifications, equipment, colors, materials, product illustrations and to change or discontinue models. All prices are based upon Manufacturer's Suggested Retail Prices (""MSRP"") in U.S. dollars (unless otherwise indicated) and exclude taxes, title fees, licensing, options and destination charges unless specifically included. Retailers are independent businesses and are free to set their own retail prices. All information contained at this Internet site is intended for the USA market only.
+
+Please Enter Zip
+
+Knowing your location allows us to display the proper information for your area.
+
+GO
+
+Your location cannot be displayed.
+
+To connect with Subaru of Hawaii, please click here
+
+Find a Retailer Zip / City Retailer Go
+
+Retailer not found.
+
+Your location cannot be displayed.
+
+To connect with Subaru of Hawaii, please click here
+
+*   Filter By Services
+
+Retailers found
+
+Sorry, we found 0 retailers. Please enter a new location or Retailer name.
+
+Please Enter Zip
+
+Knowing your location allows us to display the proper information for your area.
+
+GO
+
+Your location cannot be displayed.
+
+To connect with Subaru of Hawaii, please click here
+
+Please Enter Zip
+
+Knowing your location allows us to display the proper information for your area.
+
+GO
+
+Your location cannot be displayed.
+
+To connect with Subaru of Hawaii, please click here
