@@ -173,7 +173,7 @@ We offer insurance by phone, online and through independent agents. Prices vary 
         *   Mechanical Breakdown
         *   Umbrella
         *   Auto Financing
-        *   Travel
+        *   Electronic Device
         *   Mexico Auto
         *   View All Insurance Products
 
@@ -234,12 +234,6 @@ Quote &. save today!
 
 Zip Code 
 
-Bundle for even more savings!
-
-*   Auto + Home
-*   Auto + Renters
-*   Auto + Condo
-
 *   Auto
 *   Home
 *   Renters
@@ -261,4 +255,4 @@ Bundle for even more savings!
 *   Mechanical Repair
 *   Auto Financing
 
-Auto + HomeAuto + RentersAuto + CondoAutoHomeRentersCondoMobile HomeClassic CarMotorcycle/ATVBoat/PWCRV/TrailerSnowmobileLifeHealthCommercial AutoBusinessTravelPetMechanical RepairAuto Financing 
+AutoHomeRentersCondoMobile HomeClassic CarMotorcycle/ATVBoat/PWCRV/TrailerSnowmobileLifeHealthCommercial AutoBusinessTravelPetMechanical RepairAuto Financing 
