@@ -302,6 +302,37 @@ menu 0 Free Shipping on $50+  |  Offers
     *   Bean Bag Chairs
     *   Sleeping Bags
     *   Baby BlanketsDOG SHOP >.
+*   Gifts FEATURED SHOPS
+    
+    *   Wedding Gifts
+    *   Housewarming Gifts
+    *   Favorite Gifts
+    *   Outdoor Gifts
+    *   Canvas Totes
+    *   Dog Shop
+    *   Personalized Gifts
+    *   Mother's Day Gifts
+    
+    GREAT GIFTS
+    *   For Her
+    *   For Him
+    *   For Girls
+    *   For Boys
+    *   For Home
+*   Personalization FEATURED SHOPS
+    
+    *   Canvas Totes
+    *   Backpacks
+    *   Beach Towels
+    *   Bath Towels
+    *   Dog Shop
+    
+    Categories
+    *   Women's
+    *   Men's
+    *   Girls
+    *   Boys
+    *   Home
 *   Sale SHOP SALE
     
     *   Women
@@ -590,6 +621,41 @@ menu 0 Free Shipping on $50+  |  Offers
         *   Sleeping Bags
         *   Baby Blankets
     *   DOG SHOP
+*   Gifts
+    *   Back
+    *   Shop all Gifts
+    *   FEATURED SHOPS
+        *   Back
+        *   Wedding Gifts
+        *   Housewarming Gifts
+        *   Favorite Gifts
+        *   Outdoor Gifts
+        *   Canvas Totes
+        *   Dog Shop
+        *   Personalized Gifts
+        *   Mother's Day Gifts
+    *   GREAT GIFTS
+        *   Back
+        *   For Her
+        *   For Him
+        *   For Girls
+        *   For Boys
+        *   For Home
+*   Personalization
+    *   Back
+    *   Shop all Personalization
+    *   FEATURED SHOPS
+        *   Back
+        *   Canvas Totes
+        *   Backpacks
+        *   Beach Towels
+        *   Bath Towels
+        *   Dog Shop
+    *   Women's
+    *   Men's
+    *   Girls
+    *   Boys
+    *   Home
 *   Sale
     *   Back
     *   Shop all Sale
