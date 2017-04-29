@@ -154,9 +154,11 @@ You acknowledge that any text messages you receive from Office Depot are distrib
 
 DISPUTE RESOLUTION
 
-1\. **Mandatory Arbitration.** These Mobile Terms of Use and your participation in the Program are governed by the laws of the State of Florida, U.S.A. In the event of any controversy or dispute arising out of or relating to the Mobile Terms of Use, the parties to such controversy or dispute shall meet and seek resolution in good faith. Any controversy or claim arising out of or relating to the Mobile Terms of Use or the breach thereof, which is not resolved within thirty (30) days or such longer period as may be mutually agreed upon between the parties, will be submitted to binding arbitration in accordance with the procedures set forth below.
+1\. **Mandatory Arbitration.** These Mobile Terms of Use and your participation in the Program are governed by the laws of the State of Florida, U.S.A. In the event of any controversy or dispute arising out of or relating to the Mobile Terms of Use, the parties to such controversy or dispute shall meet and seek resolution in good faith. Any controversy or claim arising out of or relating to the Mobile Terms of Use or the breach thereof, which is not resolved within thirty (30) days or such longer period as may be mutually agreed upon between the parties, will be submitted to binding arbitration in accordance with the procedures set forth under Office Depot’s general Terms of Use.
 
-2\. **Severability.** If any provision of these Mobile Terms of Use is found to be unlawful, void or for any reason unenforceable, that provision will be deemed severable from these Mobile Terms of Use and will not affect the validity and enforceability of any remaining provision.
+SERVERABILITY
+
+If any provision of these Mobile Terms of Use is found to be unlawful, void or for any reason unenforceable, that provision will be deemed severable from these Mobile Terms of Use and will not affect the validity and enforceability of any remaining provision.
 
 CHANGES TO TERMS OF USE
 
