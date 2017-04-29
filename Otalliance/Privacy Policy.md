@@ -85,10 +85,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Wed, Apr 26, 2017 CABA Intelligent Buildings &. Digital Home Forum
-
-Join OTA at the upcoming Intelligent Buildings &. Digital Home Forum in Santa Clara California. 
-
 Tue, May 16, 2017 2017 Symantec Internet Threat Intelligence Report
 
 Join Kevin Haley, Director of Product Management for Symantec Security Technology and Response who will share insights and trends into the threat landscape including common vulnerabilities, ransomware trends and others including:
@@ -106,6 +102,10 @@ Join OTA in Boston at this premiere event focused on IoT security.  Take advant
 Wed, May 24, 2017 Planning for the Future: A Conference About Identity Theft
 
 Ten years ago, President Bush launched a new era in the fight against identity theft by issuing an executive order establishing the Identity Theft Task Force, which the Commission co-chaired. In the ensuing ten years, great strides have been made to combat identity theft but it remains a significant problem for American consumers. The Federal Trade Commission will host an all-day conference to take a comprehensive look at how identity theft has evolved over the last decade and what we can do to address this challenge in the future.
+
+Wed, Jun 28, 2017 FTC Connected Car Workshop
+
+The Federal Trade Commission and the National Highway Traffic Safety Administration (NHTSA) will hold a workshop on June 28, 2017 in Washington, D.C., to examine the consumer privacy and security issues posed by automated and connected motor vehicles.  The workshop will feature opening remarks by Acting FTC Chairman Maureen K. Ohlhausen and will bring together a variety of stakeholders, including industry representatives, consumer advocates, academics, and government regulators, to discuss various issues related to connected and automated vehicles that collect data.
 
 More >>.
 
