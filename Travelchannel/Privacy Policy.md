@@ -6,21 +6,7 @@ Turn on more accessible mode Turn off more accessible mode Skip Ribbon Commands 
 *   Rss Feed
 *   Instagram
 
-    Search
-
-*   SNICurrently selected
-    *   Our Company
-    *   Careers
-    *   Investors
-    *   Newsroom
-
-*   SNI
-    *   Our Company
-    *   Careers
-    *   Investors
-    *   Newsroom
-
- Privacy Policy Page Content
+    Search SNI Our Company Careers Investors Newsroom SNI Our Company Careers Investors Newsroom  Privacy Policy Page Content
 
 PLEASE NOTE THAT OUR PRIVACY POLICY HAS CHANGED EFFECTIVE JULY 13, 2016.  
 
