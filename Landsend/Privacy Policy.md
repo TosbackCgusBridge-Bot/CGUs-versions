@@ -304,14 +304,16 @@ menu 0 Free Shipping on $50+  |  Offers
     *   Baby BlanketsDOG SHOP >.
 *   Gifts FEATURED SHOPS
     
+    *   Mother's Day Gifts
+    *   Favorite Gifts
+    *   Gift Cards
+    *   Personalized Gifts
     *   Wedding Gifts
     *   Housewarming Gifts
-    *   Favorite Gifts
     *   Outdoor Gifts
-    *   Canvas Totes
     *   Dog Shop
-    *   Personalized Gifts
-    *   Mother's Day Gifts
+    *   Canvas Totes
+    *   All Gifts
     
     GREAT GIFTS
     *   For Her
@@ -626,14 +628,16 @@ menu 0 Free Shipping on $50+  |  Offers
     *   Shop all Gifts
     *   FEATURED SHOPS
         *   Back
+        *   Mother's Day Gifts
+        *   Favorite Gifts
+        *   Gift Cards
+        *   Personalized Gifts
         *   Wedding Gifts
         *   Housewarming Gifts
-        *   Favorite Gifts
         *   Outdoor Gifts
-        *   Canvas Totes
         *   Dog Shop
-        *   Personalized Gifts
-        *   Mother's Day Gifts
+        *   Canvas Totes
+        *   All Gifts
     *   GREAT GIFTS
         *   Back
         *   For Her
