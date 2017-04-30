@@ -87,13 +87,7 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 
 Tue, May 16, 2017 2017 Symantec Internet Threat Intelligence Report
 
-Join Kevin Haley, Director of Product Management for Symantec Security Technology and Response who will share insights and trends into the threat landscape including common vulnerabilities, ransomware trends and others including:
-
-*   Subversion and Sabotage Attacks Emerge at the Forefront
-*   Nation States Chase the Big Scores
-*   Attackers Weaponize Commonly Used Software. Email Becomes the Weapon of Choice
-*   Caving in to Digital Extortion: Americans Most Likely to Pay Ransom Demands
-*   Cracks in the Cloud: The Next Frontier for Cyber Crime is Upon Us
+Join Kevin Haley, Director of Product Management for Symantec Security Technology and Response who will share insights and trends into the threat landscape including common vulnerabilities, ransomware trends and others including. 1) Subversion and Sabotage Attacks Emerge at the Forefront, 2) Nation States Chase the Big Scores, 3) Attackers Weaponize Commonly Used Software. Email Becomes the Weapon of Choice, 4) Caving in to Digital Extortion: Americans Most Likely to Pay Ransom Demands and 5) Cracks in the Cloud: The Next Frontier for Cyber Crime is Upon Us
 
 Mon, May 22, 2017 LiveWorx 17
 
@@ -103,9 +97,9 @@ Wed, May 24, 2017 Planning for the Future: A Conference About Identity Theft
 
 Ten years ago, President Bush launched a new era in the fight against identity theft by issuing an executive order establishing the Identity Theft Task Force, which the Commission co-chaired. In the ensuing ten years, great strides have been made to combat identity theft but it remains a significant problem for American consumers. The Federal Trade Commission will host an all-day conference to take a comprehensive look at how identity theft has evolved over the last decade and what we can do to address this challenge in the future.
 
-Wed, Jun 28, 2017 FTC Connected Car Workshop
+Tue, Jun 27, 2017 2017 Online Trust Audit – Congressional Staff Lunch Briefing
 
-The Federal Trade Commission and the National Highway Traffic Safety Administration (NHTSA) will hold a workshop on June 28, 2017 in Washington, D.C., to examine the consumer privacy and security issues posed by automated and connected motor vehicles.  The workshop will feature opening remarks by Acting FTC Chairman Maureen K. Ohlhausen and will bring together a variety of stakeholders, including industry representatives, consumer advocates, academics, and government regulators, to discuss various issues related to connected and automated vehicles that collect data.
+Save the date for the 2017 briefing of the audit results of the annual trust audit of the top 1,000 consumer facing sites.  Incorporating over 100 criteria into a weighted analysis, key sites are evaluated for their data security, consumer protection and responsible privacy practices.  Those sites who have demonstrated excellence will be recognized as qualifying for the 2017 Online Trust Honor Roll.  Briefing wil
 
 More >>.
 
