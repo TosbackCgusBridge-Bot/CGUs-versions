@@ -1,4 +1,4 @@
-15 3 2017.5.1.0.7.0
+15 3 2017.5.3.0.3.0
 
 *   Find a store
 *   store ads
@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true C15924848330
+true true C15927814954
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p17.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Sun Apr 30 11:17:47 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.5.1.0.7.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p15.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Mon May 01 11:14:24 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.5.3.0.3.0
 
 *   for the home
 *   bed &. bath
@@ -72,73 +72,8 @@ Now Trending: Color Up Spring Up to 55% Off Home Sale
 
 Select styles
 
-Shop All Home Bedding Window Kitchen &. Dining Furniture &. Mattresses Home Decor Red Zone Clearance Going, Going, Gone! 60 to 80% Off
+Shop All Home Bedding Window Kitchen &. Dining Furniture &. Mattresses Home DecorPlus Extra 20% Off\* $100 or More Online Only with Code: GIFTMOM2 \*Exclusions and details: Red Zone Clearance Going, Going, Gone! 60 to 80% Off
 
 In Store &. Online
 
-Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Apr 30 22:16:26 CDT 2017 JVM :->. dtexppr1c1j3\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Apr 30 03:36:11 CDT 2017 JVM :->. dtexppr1c1j3\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
-
-get connected
-
-*   1.800.322.1189
-
-attention
-
-*   Enter a valid email address
-*   Enter a valid email address
-
-attention
-
-*   Enter a valid mobile number.
-
-Sign up for email alerts, offers promotions Mobile offers and promotions Message and data rates may apply. By providing my mobile number, I agree to receive autodialed promotional text alerts from JCPenney to that number. I understand that consent is not required to purchase goods or services. Up to 8 msgs/month from 527365 (JCPenney). Text **HELP** to 527365 for help and **STOP** to 527365 to cancel.Terms and conditions    privacy policy CUSTOMER SERVICE
-
-*   returns
-*   shipping information
-*   rebates
-*   same day pickup
-*   my jcp.com account
-*   track my order
-
-*   servicio al cliente
-*   help
-
-STORE SERVICES
-
-*   jcp custom window
-*   jcp salon
-*   Sephora
-*   jcp portraits
-*   jcp optical
-*   gift registry
-*   view all store services
-
-MORE WAYS TO SHOP
-
-*   see our ads
-*   coupons
-*   recommendations
-*   jcpenney rewards
-*   jcpenney credit card
-*   gift cards
-*   international shopping
-
-ABOUT US
-
-*   careers
-*   company info
-*   community
-*   media
-*   investors
-*   CA Transparency in Supply Chains Act
-
-JCPenney credit card pay bill check balance apply now Shop Mother's Day Gifts at JCPenney At JCPenney, we're dedicated to bringing you the very best in stylish and affordable goods. Find the perfect Mother's Day gifts for mom with our wonder full selection of jewelry, clothing, shoes and more! Shop beautiful dresses for women in stunning colors, beautiful designs, and flattering silhouettes. We have gorgeous jewelry your mom will love. Buy gold necklaces, diamond earrings, and more at great prices. How about giving mom a day of beauty and relaxation at the JCPenney Salon! At JCPenney, youâll find the perfect Mother's Day gifts! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
-
-*   legal
-*   privacy policy
-*   your California privacy rights
-*   product recalls
-*   site map
-*   AdChoices
-
-©jcp Media Inc.,  2017. All Rights Reserved.
+Shop Now \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon May 01 22:07:24 CDT 2017 JVM :->. dtexppr1c2j3\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon May 01 03:13:08 CDT 2017 JVM :->. dtexppr1c2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
