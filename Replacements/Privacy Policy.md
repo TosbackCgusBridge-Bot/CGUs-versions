@@ -29,22 +29,25 @@ Collectibles
 
 Get Inspired
 
-*   Vintage Finds for You
-*   Inspiring Tables
-*   What's Trending Now
-*   The Dish - Our Newsletter
-*   Events &. Features
 *   Designers &. Influencers
-*   Everything for a Wedding
+*   Get This Look
+*   Our Blog
+*   Top Styles
+*   Seasonal Selections
+*   Rare, Unique &. Really Cool
 
 Specials
 
-*   What's New this Week
-*   Great Ways to Save
+*   Weekly Features
 *   Dinnerware Sets &. More
-*   Cleaning Out the Warehouse
+*   Save Up to 50%
+*   Yard Sale
+*   Warehouse Sale
 
-Contact Us FAQ Shopping Cart Cart ChinaDinnerware CrystalGlassware SilverFlatware Specials
+Contact Us FAQ Shopping Cart Cart China  
+Dinnerware Crystal  
+Glassware Silver  
+Flatware Specials
 
 *   Cart
 *   My Account
@@ -132,30 +135,27 @@ Contact Us FAQ Shopping Cart Cart ChinaDinnerware CrystalGlassware SilverFlatwar
     *   Display Your Treasures
 *   Get Inspired
     
-    *   Vintage Finds for You
-    *   Inspiring Tables
-    *   What's Trending Now
-    *   The Dish - Our Newsletter
-    *   Events &. Features
     *   Designers &. Influencers
+    *   Get This Look
+    *   Our Blog
     
-    *   Baby Items
-    *   Everything for a Wedding
-    *   Great Giftware
-    *   Rare, Unique &. Really Cool
+    *   Top Styles
     *   Seasonal Selections
+    *   Rare, Unique &. Really Cool
 *   Specials
     
-    *   What's New this Week
-    *   Great Ways to Save
+    *   Weekly Features
+    *   Save Up to 50%
+    *   Yard Sale
     
     *   Dinnerware Sets &. More
-    *   Cleaning Out the Warehouse
+    *   Warehouse Sale
 
 *   Our Story
 *   Services
-*   Top Styles
+*   Specialty Shops
 *   Register Patterns
+*   Store
 *   Contact Us
 
 Privacy Policy
@@ -174,7 +174,7 @@ When you order, we request the following information: name, address, daytime pho
 *   Reply to any e-mail that you receive from Replacements, Ltd.
 *   Call 1-800-737-5223 ext:2600
 
-The information used to process your order is transferred to Replacements, Ltd. utilizing Secure Socket Layer (SSL) technology. Click here to confirm via VeriSign, Inc. that Replacements, Ltd. uses secure technologies to protect the transfer of your personal information. A “lock” icon in your web browser display is a typical indicator that the information you provided is being processed in a secure environment.
+The information used to process your order is transferred to Replacements, Ltd. utilizing Secure Socket Layer (SSL) technology. Click here to confirm via VeriSign, Inc. that Replacements, Ltd. uses secure technologies to protect the transfer of your personal information. A “lock&rdquor. icon in your web browser display is a typical indicator that the information you provided is being processed in a secure environment.
 
 Registering for product information with Replacements, Ltd.
 
@@ -186,7 +186,7 @@ When you register for product information with us, we request the following info
 
 Newsletter and Communications With You
 
-We may e-mail you for marketing purposes, and you agree to receive e-mail from us. For example, when you register for product information or order online from us, and provide your e-mail address, in addition to periodic updates related to your pattern(s), you will receive our e-mail newsletter. This e-mail includes fun information related to tableware and collectibles, including featured china, crystal, silver, and collectible patterns, interesting histories, specials, even a “Featured Replacements Pet and Owner” series! If you decide that you do not wish to receive this newsletter, there are clearly marked opt out instructions at the bottom of each correspondence.
+We may e-mail you for marketing purposes, and you agree to receive e-mail from us. For example, when you register for product information or order online from us, and provide your e-mail address, in addition to periodic updates related to your pattern(s), you will receive our e-mail newsletter. This e-mail includes fun information related to tableware and collectibles, including featured china, crystal, silver, and collectible patterns, interesting histories, specials, even a “Featured Replacements Pet and Owner&rdquor. series! If you decide that you do not wish to receive this newsletter, there are clearly marked opt out instructions at the bottom of each correspondence.
 
 We may also e-mail you or otherwise use your information to share information with you or respond to your requests or questions. For example, we may e-mail you information about your pattern, items you requested, or special sales or promotions.
 
@@ -200,7 +200,7 @@ If you purchase a gift card online, you are asked to provide information for the
 
 Gift Registries
 
-We currently do not take gift registry signups online, but if you set up a gift registry with us via telephone, the following information is requested: name, address, phone number, e-mail address (optional), any wedding date, “ship to” address, and requested item(s) for selected pattern(s). The only information released is the “ship to” address when those purchasing for the recipient request this information. All other information remains confidential.
+We currently do not take gift registry signups online, but if you set up a gift registry with us via telephone, the following information is requested: name, address, phone number, e-mail address (optional), any wedding date, “ship to&rdquor. address, and requested item(s) for selected pattern(s). The only information released is the “ship to&rdquor. address when those purchasing for the recipient request this information. All other information remains confidential.
 
 When purchasing items from a registry, we request the following information: name, address, phone number, and e-mail address if correspondence is requested via e-mail. This information is only used to process the order and to contact the purchaser in the event there is a problem with the order and/or payment. In the event the gift recipient has misplaced a receipt or a gift card, we will inform the recipient of the purchaser’s name. All other information remains confidential.
 
@@ -216,7 +216,7 @@ We also collect consumer information from third party providers to update or enh
 
 Cookies and Web Beacons
 
-Cookies are small amounts of data that are used to “remember” specific requests and preferences that are associated with a visit to a specific website, and are also used to facilitate e-commerce transactions on millions of web sites on the Internet. If your browser is set to accept cookies, as you maneuver through various sites, your browser allocates a small amount of space on your hard drive to store these cookies. Replacements.com uses session cookies to identify items that you have expressed an interest in while visiting our site, such as items added to a shopping cart and/or our registration form. If you elect to enable the “Remember Me” feature in our web site, we will also use a cookie to save your name and address information for your next visit to our site’s Pattern Registration or Order Form. If you do not elect to enable our “Remember Me” feature, we ask that you enter your name, address, and product preferences each time an order or registration is submitted online at Replacements.com. Replacements.com cookies are not used to identify, save, or retrieve personal financial information. In order to take advantage of all of Replacements.com’s features, your browser should be set to accept cookies.
+Cookies are small amounts of data that are used to “remember&rdquor. specific requests and preferences that are associated with a visit to a specific website, and are also used to facilitate e-commerce transactions on millions of web sites on the Internet. If your browser is set to accept cookies, as you maneuver through various sites, your browser allocates a small amount of space on your hard drive to store these cookies. Replacements.com uses session cookies to identify items that you have expressed an interest in while visiting our site, such as items added to a shopping cart and/or our registration form. If you elect to enable the “Remember Me&rdquor. feature in our web site, we will also use a cookie to save your name and address information for your next visit to our site’s Pattern Registration or Order Form. If you do not elect to enable our “Remember Me&rdquor. feature, we ask that you enter your name, address, and product preferences each time an order or registration is submitted online at Replacements.com. Replacements.com cookies are not used to identify, save, or retrieve personal financial information. In order to take advantage of all of Replacements.com’s features, your browser should be set to accept cookies.
 
 In addition, we work with other companies to help serve, manage, and track our products and advertisements on the Internet. These companies may use cookies and web beacons. Web beacons are small, HTML-embedded graphic images.  Web beacons assist in determining whether and how often web pages are viewed. These cookies and web beacons do not track personally identifying information. They are used to gather aggregate information to help us provide more relevant information to web visitors and to assist in making our advertising more relevant to consumers looking for our product. 
 
@@ -240,10 +240,10 @@ By using our website, you signify your consent to the Privacy Policy of Replacem
 
 Last Updated: 10/12/2015
 
-Help &. Info Contact Us Return Policy Shipping &. Handling Gift Cards Our Company Our Story Frequently Asked Questions News Releases Careers Services Pattern Identification Help Find This For Me Restoration and Repair Other Services
+Help &. Info Contact Us Return Policy Shipping &. Handling Gift Cards Our Company Our Story Frequently Asked Questions In the News Careers Our Blog Services Pattern Identification Help Find This For Me Restoration and Repair Other Services
 
 *   Follow Us
 
-1-800-REPLACE | My Account Terms &. Conditions | Site Map | Privacy Policy
+1-800-REPLACE Our Blog | My Account Terms &. Conditions | Site Map | Privacy Policy
 
-© 2017 Replacements, Ltd. All rights reserved. 1089 Knox Road McLeansville, NC 27301
+© 2017 Replacements, Ltd. All rights reserved. 1089 Knox Road McLeansville, NC 27301, USA
