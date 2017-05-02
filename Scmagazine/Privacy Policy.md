@@ -43,7 +43,6 @@ Show Search Bar
     *   SC Awards 2017
     *   RiskSec Press Release
     *   SC Reboot Leadership Awards 2017
-    *   Chicago-SC Media Breakfast and Panel Discussion
 *   Whitepapers
 
 *   Log in
