@@ -242,6 +242,7 @@ Menu
         *   8 simple activities that may not be so simple when you have severe asthma
         *   Inspiring Students through STEM Education Programs
         *   GSK IMPACT Awards: 20 years of healthy communities
+        *   Soccer Star Shannon Boxx Takes Her Shot at Lupus Advocacy
     *   Our people
         *   Our people
         *   Changing gears in a scientific career
