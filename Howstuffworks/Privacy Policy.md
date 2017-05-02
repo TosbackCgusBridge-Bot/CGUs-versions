@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
+**Fetal Lambs in 'Biobags' Show Promise for Artificial Human Wombs**
+
+**If You're Missing a Limb, the Brain Recruits Another for the Job**
+
 **Turning Martian Soil Into Building Blocks for Colonists**
-
-**Eerie, Eccentric &. Extraordinary: Our Best Stories You Might've Missed This Week**
-
-**Can Facebook Help People Oppose Government Corruption?**
 
 **See More Headlines »**
 
