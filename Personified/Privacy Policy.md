@@ -1,3 +1,7 @@
+*   Sign In Already Purchased?  
+    Sign In to Your Account!
+*   $0.00
+
 Hello.
 
 Sign in to find your next hire.
@@ -25,6 +29,9 @@ Sign In or Sign Up
     *   Workterra  
         Human Capital Management
     *   View All Products
+*   About
+    *   About CareerBuilder
+    *   Press Room
 *   Resource Center
 
 Request Demo
@@ -32,9 +39,6 @@ Request Demo
 *   Sign In
 *   $0.00 Cart
 *   Sales: 1.877.345.5256
-
-Already Purchased?  
-Sign In to Your Account!
 
 *   Looking for Jobs? Find the Right Job. Right Now.
 
