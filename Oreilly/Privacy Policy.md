@@ -257,9 +257,9 @@ If you no longer wish your information to be shared, or if you have questions re
 
 This is version 2.1.
 
-For version 2.0 please click here.
+Click here for version 2.0.
 
-For version 1.1 please click here.
+Click here for version 1.1.
 
 About Us
 
