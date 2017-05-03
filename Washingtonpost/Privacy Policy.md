@@ -1,8 +1,8 @@
 Privacy Policy
 
-Published: September 13, 2016
+_Published May 2, 2017_
 
-The WP Company LLC (“The Washington Post”) recognizes the importance of protecting the privacy of your personal information, and we have prepared this Privacy Policy to provide you with important information about our privacy practices. This Privacy Policy applies when you use a website, mobile or tablet application, or other online service (collectively, the “Services”) that links or refers to it. It does not govern or apply to information collected or used by WP Company LLC through other means.
+WP Company LLC (“The Washington Post”) recognizes the importance of protecting the privacy of your personal information, and we have prepared this Privacy Policy to provide you with important information about our privacy practices. This Privacy Policy applies when you use a website, mobile or tablet application, or other online service (collectively, the “Services”) that links or refers to it. It does not govern or apply to information collected or used by WP Company LLC through other means.
 
 This Privacy Policy covers the following:
 
@@ -16,11 +16,9 @@ We also collect information that you provide us when you comment on articles, pa
 
 **Information About Your Use of the Services.** In addition to the information you provide to us directly, we may collect information about your use of the Services. For example, we may collect:
 
-● _Device information_ — such as your hardware model, IP address, other unique device identifiers, operating system version, and settings of the device you use to access the Services.
-
-● _Usage information_ — such as information about the Services you use, the time and duration of your use of the Services and other information about your interaction with content offered through a Service, and any information stored using cookies, mobile ad identifiers, and similar technologies that we have set on your device. For detailed information about our use of cookies, web beacons, and other technologies, see Online Tracking and Advertising.
-
-● _Location information_ — such as your computer’s IP address, your mobile device’s GPS signal or information about nearby WiFi access points and cell towers that may be transmitted to us when you use certain Services.
+*   _Device information_— such as your hardware model, IP address, other unique device identifiers, operating system version, and settings of the device you use to access the Services.
+*   _Usage information_— such as information about the Services you use, the time and duration of your use of the Services and other information about your interaction with content offered through a Service, and any information stored using cookies, mobile ad identifiers, and similar technologies that we have set on your device. For detailed information about our use of cookies, web beacons, and other technologies, see Online Tracking and Advertising.
+*   _Location information_— such as your computer’s IP address, your mobile device’s GPS signal or information about nearby WiFi access points and cell towers that may be transmitted to us when you use certain Services.
 
 **Information From Third-Party Sources.** We may receive information about you from publicly and commercially available sources, as permitted by law, which we may combine with other information we receive from or about you. For example, we may receive information about you from a social media site if you connect to the Services through that site.
 
@@ -54,13 +52,13 @@ The following provides information about entities with which we may share inform
 
 **Logging In Through Social Media Services.** If you log into the Services with a social media service or if you connect a social media account with the Services, we may share your information with that social media service. The social media services’ use of the shared information will be governed by the social media services’ privacy policy and your social media account settings. If you do not want your information shared in this way, do not connect your social media service account with your Services.
 
-**Third Parties that Provide Content, Advertising, or Functionality.** Some of the content, advertising, and functionality on our Services may be provided by third parties, such as our advertisers and third parties who analyze and measure ad performance. These third parties may collect or receive certain information about your use of the Services, including through the use of cookies, beacons, mobile ad identifiers, and similar technologies, and this information may be combined with information collected across different websites, online services, and other linked or associated devices.  These third parties may use your information to improve their own services and consistent with their own privacy policies.
+**Third Parties that Provide Content, Advertising, or Functionality.** When you use our Services, third parties may collect or receive certain information about you and/or your use of the Services (_e.g._, hashed data, click stream information, browser type, time and date, information about your interactions with advertisements and other content), including through the use of cookies, beacons, mobile ad identifiers, and similar technologies, in order to provide content, advertising, or functionality or to measure and analyze ad performance, on our Services or other websites or platforms.  This information may be combined with information collected across different websites, online services, and other linked or associated devices.  These third parties may use your information to improve their own services and consistent with their own privacy policies.
 
 **Other Parties in Connection With a Corporate Transaction.** We reserve the right to transfer any information we have about you in the event that we sell or transfer all or a portion of our business or assets to a third party, such as in the event of a merger, acquisition, or in connection with a bankruptcy reorganization.
 
 **Otherwise With Your Consent or At Your Direction.** In addition to the sharing described in this Privacy Policy, we may share information about you with third parties whenever you consent to or direct such sharing.
 
-**Aggregated Data.** We also may provide aggregated data about how users are using our Services to third parties.
+We also may share other information with third parties in a manner that does not identify particular users, including, for example, aggregated data about how users are using our Services.
 
 **_Links to Third-Party Sites_**
 
@@ -96,15 +94,13 @@ We may modify this Privacy Policy from time to time. We will notify you of chang
 
 **_How We Use Cookies, Web Beacons, and Similar Technologies and How To Disable These Technologies_**
 
-We and third parties that provide content, advertising, or functionality on our Services, may use cookies, web beacons, mobile ad identifiers, and similar technologies to facilitate administration and navigation on the Site, to better understand and improve our Services, to determine and/or improve the advertising shown to you here or elsewhere, and to provide you with a customized online experience.
+We and third parties that provide content, advertising, or functionality or measure and analyze ad performance on our Services, may use cookies, web beacons, mobile ad identifiers, and similar technologies to facilitate administration and navigation on the Site, to better understand and improve our Services, to determine and/or improve the advertising shown to you here or elsewhere, and to provide you with a customized online experience.
 
 **Cookies.** Cookies are small files that are placed on your computer when you visit a website. Cookies may be used to store a unique identification number tied to your computer or device so that you can be recognized as the same user across one or more browsing sessions, and across one or more sites. Cookies serve many useful purposes. For example:
 
-● Cookies can remember your sign-in credentials so you do not have to enter those credentials each time you visit a Service
-
-● Cookies can help us and third parties understand which parts of our Services are the most popular because they help us see which pages and features visitors access and how much time they spend on the pages. By studying this kind of information, we are better able to adapt our Services and provide you with a better experience.
-
-● Cookies help us and third parties understand which ads you have seen so that you don’t receive the same ad each time you access a Service.
+*   Cookies can remember your sign-in credentials so you do not have to enter those credentials each time you visit a Service
+*   Cookies can help us and third parties understand which parts of our Services are the most popular because they help us see which pages and features visitors access and how much time they spend on the pages. By studying this kind of information, we are better able to adapt our Services and provide you with a better experience.
+*   Cookies help us and third parties understand which ads you have seen so that you don’t receive the same ad each time you access a Service.
 
 Most browsers accept cookies automatically, but can be configured not to do so or to notify the user when a cookie is being sent. If you wish to disable cookies, refer to your browser help menu to learn how to disable cookies. If you disable browser cookies or flash cookies, it may interfere with the proper functioning of the Services.
 
@@ -121,15 +117,3 @@ In addition to disabling cookies and other tracking technologies as described ab
 Due to differences between using apps and websites on mobile devices, you may need to take additional steps to disable tracking technologies in mobile apps.  Many mobile devices allow you to opt-out of targeted advertising for mobile apps using the settings within the mobile app or your mobile device.  For more information, please check your mobile settings.  You also may uninstall our apps using the standard uninstall process available on your mobile device or app marketplace.
 
 Please visit our Ad Choices page for additional information and privacy choices.
-
-**Ad choices**
-
-September 13, 2016
-
-Online advertising for washingtonpost.com is delivered by the vendor DoubleClick. DoubleClick places cookies on your browser to facilitate serving particular ads – for instance, to help determine whether you have seen a particular advertisement before, to tailor ads to you if you have visited our site before, and to avoid sending you duplicate advertisements. You can opt out of DoubleClick’s use of cookies for these purposes by visiting http://www.google.com/intl/en/privacy/.
-
-In some cases, we and advertisers on washingtonpost.com and other sites work with other third-party vendors to help deliver advertisements tailored to your interests. These vendors include ad networks and audience segment providers, and they use  cookies, beacons, mobile ad identifiers, and similar technologies to collect information about your online activity (e.g., the sites and pages you have visited and mobile apps you use) in order to help advertisers deliver particular ads on our site and other sites that they believe you would find most relevant. You can opt out of those vendors’ use of cookies to tailor advertising to you by visiting http://www.aboutads.info/.
-
-Due to differences between using apps and websites on mobile devices, you may need to take additional steps to disable tracking technologies in mobile apps.  Many mobile devices allow you to opt-out of targeted advertising for mobile apps using the settings within the mobile app or your mobile device.  For more information, please check your mobile settings.  You also may uninstall our apps using the standard uninstall process available on your mobile device or app marketplace.
-
-Often our advertisers contract with a third-party service to host their ads. In this case, an ad serving vendor contacts the advertisers’ hosting service for a particular advertisement. In that case, an independent cookie may be used by the third-party service. We do not have a mechanism to allow visitors to opt-out of cookies from vendors with whom we do not have a contractual relationship.
