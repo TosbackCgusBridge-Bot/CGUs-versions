@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 12.438,01ǀ
+*   DAX 12.507,90ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -47,7 +47,6 @@ Mein SPIEGEL
         *   Jobsuche
         *   Immowelt
         *   Tarifvergleiche
-        *   Kreditvergleich
 *   Panorama
     *   *   Übersicht
         *   Justiz
@@ -655,6 +654,7 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
 *   Brutto-Netto-Rechner
 *   Uni-Tools
 *   Jobsuche
+*   Online Englisch lernen
 
 *   FINANZEN
 *   Währungsrechner
