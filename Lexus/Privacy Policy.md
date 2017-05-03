@@ -1,3 +1,283 @@
+*   Sedans
+*   Suvs
+*   Coupes
+*   Hybrids
+*   Performance
+*   Future
+
+*   Owners
+*   L/Certified
+*   Find a Dealer
+
+MENU **IS**
+
+*   Starting at $37,825\*
+*   2.0L I-4 or 3.5L V6
+
+*   Build
+*   Current Offers
+
+**ES**
+
+*   Starting at $38,900\*
+*   268-hp 3.5L V6
+
+*   Build
+*   Current Offers
+
+**ES HYBRID**
+
+*   Starting at $41,820\*
+*   40-MPG combined rating\*
+
+*   Build
+*   Current Offers
+
+**GS**
+
+*   Starting at $46,310\*
+*   2.0L I-4 or 3.5L V6
+
+*   Build
+*   Current Offers
+
+**GS HYBRID**
+
+*   Starting at $63,635\*
+*   338 TOTAL SYSTEM HP\*
+
+*   Build
+*   Current Offers
+
+**GS F**
+
+*   Starting at $83,940\*
+*   467-HP\* 5.0L V8
+
+*   Build
+*   Current Offers
+
+**LS**
+
+*   Starting at $72,520\*
+*   386-HP\* 4.6L V8 (RWD)
+
+*   Build
+*   Current Offers
+
+SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
+
+COMPARE **NX**
+
+*   Starting at $35,285\*
+*   235-hp\* 2.0L turbo
+
+*   Build
+*   Current Offers
+
+**NX HYBRID**
+
+*   Starting at $39,720\*
+*   31-MPG combined rating\*
+
+*   Build
+*   Current Offers
+
+**RX**
+
+*   Starting at $43,120\*
+*   295-hp 3.5L V6
+
+*   Build
+*   Current Offers
+
+**RX HYBRID**
+
+*   Starting at $53,035\*
+*   30-MPG COMBINED RATING\*
+
+*   Build
+*   Current Offers
+
+**GX**
+
+*   Starting at $51,680\*
+*   301-HP\* V8, FULL-TIME 4WD
+
+*   Build
+*   Current Offers
+
+**LX**
+
+*   Starting at $89,880\*
+*   383-HP\* V8, FULL-TIME 4WD
+
+*   Build
+*   Current Offers
+
+SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
+
+COMPARE **RC**
+
+*   Starting at $40,155\*
+*   2.0L I-4 OR 3.5L V6
+
+*   Build
+*   Current Offers
+
+**RC F**
+
+*   Starting at $64,165\*
+*   467-hp\* 5.0L V8
+
+*   Build
+*   Current Offers
+
+**LC**
+
+*   Starting at $92,000\*
+*   471-HP\* 5.0L V8
+
+*   Build
+*   Current Offers
+
+**LC HYBRID**
+
+*   Starting at $96,510\*
+*   354 TOTAL SYSTEM HP\*
+
+*   Build
+*   Current Offers
+
+SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
+
+COMPARE **CT HYBRID**
+
+*   Starting at $31,250\*
+*   42-MPG combined rating\*
+
+*   Build
+*   Current Offers
+
+**NX HYBRID**
+
+*   Starting at $39,720\*
+*   31-MPG combined rating\*
+
+*   Build
+*   Current Offers
+
+**RX HYBRID**
+
+*   Starting at $53,035\*
+*   30-MPG COMBINED RATING\*
+
+*   Build
+*   Current Offers
+
+**ES HYBRID**
+
+*   Starting at $41,820\*
+*   40-MPG COMBINED RATING\*
+
+*   Build
+*   Current Offers
+
+**GS HYBRID**
+
+*   Starting at $63,635\*
+*   338 TOTAL SYSTEM HP\*
+
+*   Build
+*   Current Offers
+
+**LC HYBRID**
+
+*   Starting at $96,510\*
+*   354 TOTAL SYSTEM HP\*
+
+*   Build
+*   Current Offers
+
+SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
+
+COMPARE **RC F**
+
+*   Starting at $64,165\*
+*   467-HP\* 5.0L V8
+
+*   Build
+*   Current Offers
+
+**GS F**
+
+*   Starting at $83,940\*
+*   467-HP\* 5.0L V8
+
+*   Build
+*   Current Offers
+
+**LC**
+
+*   Starting at $92,000\*
+*   471-HP\* 5.0L V8
+
+*   Build
+*   Current Offers
+
+**LC HYBRID**
+
+*   Starting at $96,510\*
+*   354 TOTAL SYSTEM HP\*
+
+*   Build
+*   Current Offers
+
+**PERFORMANCE**
+
+*   HIGH-PERFORMANCE VEHICLES AND F SPORT ACCESSORIES
+
+SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
+
+COMPARE **LS &. LS HYBRID**
+
+*   FUTURE VEHICLES
+
+**LF-C2**
+
+*   CONCEPT CONVERTIBLE
+
+**LF-SA**
+
+*   CONCEPT VEHICLE
+
+**LF-FC**
+
+*   Concept Vehicle
+
+**UX**
+
+*   Concept Vehicle
+
+*   sedans
+    
+*   suvs
+    
+*   coupes
+    
+*   hybrids
+    
+*   performance
+    
+*   future
+    
+*   Owners
+    
+*   L/Certified
+    
+*   Find a Dealer
+    
+
 YOUR PRIVACY RIGHTS Lexus Personal Information Sharing Practices – 2016
 
 During 2016, Lexus shared Personal Information about our customers with SiriusXM™ Satellite Radio, Lexus hotel partners, Lexus Financial Services, Lexus Financial Savings Bank and our authorized Lexus dealers, where the information was used for the recipient’s own marketing.
