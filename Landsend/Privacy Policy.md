@@ -66,13 +66,13 @@ menu 0 Free Shipping on $50+  |  Offers
     CATEGORIES
     
     *   Swimsuits
-    *   Sweaters
+    *   Dresses
     *   Knit Tops &. Tees
     *   Shirts &. Blouses
     *   Pants
     *   Jeans
     *   Shorts
-    *   Dresses
+    *   Sweaters
     *   Skirts
     *   Blazers &. Jackets
     *   Activewear
@@ -92,7 +92,6 @@ menu 0 Free Shipping on $50+  |  Offers
     *   New Arrivals
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
-    *   How to Dress this Spring
     *   Swim Shop
     *   Occasion Dressing
     *   Sale
@@ -350,16 +349,14 @@ menu 0 Free Shipping on $50+  |  Offers
 *   New
     *   Back
     *   Shop all New
-    *   SHOP NEW ARRIVALS
-        *   Back
-        *   Women
-        *   Men
-        *   Girls
-        *   Boys
-        *   Home
     *   BLOG
         *   Back
         *   The Journal
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    *   Home
 *   Women
     *   Back
     *   Shop all Women
@@ -387,13 +384,13 @@ menu 0 Free Shipping on $50+  |  Offers
         *   Lands' End Canvas
         *   Lands' End Sport
     *   Swimsuits
-    *   Sweaters
+    *   Dresses
     *   Knit Tops &. Tees
     *   Shirts &. Blouses
     *   Pants
     *   Jeans
     *   Shorts
-    *   Dresses
+    *   Sweaters
     *   Skirts
     *   Blazers &. Jackets
     *   Activewear
@@ -411,7 +408,6 @@ menu 0 Free Shipping on $50+  |  Offers
         *   New Arrivals
         *   No Iron Shop
         *   Supima Shirts &. Sweaters
-        *   How to Dress this Spring
         *   Swim Shop
         *   Occasion Dressing
         *   Sale
@@ -672,6 +668,7 @@ menu 0 Free Shipping on $50+  |  Offers
     *   Boys
     *   Home
     *   School Uniforms
+*   Business Outfitters
 *   Hi, Sign in My Account
     *   Back
     *   Sign In
@@ -908,6 +905,7 @@ Company
 *   Newsroom
 *   Lands' End Business
 *   International Sites
+*   The Journal
 
 Services
 
@@ -925,6 +923,12 @@ Policies
 *   Terms of Use
 *   Recall &. Safety Info
 *   CA Transparency Act
+
+Stores
+
+*   Find a complete list of retail store locations, departments and store hours.
+
+*   **Locate Your Store**
 
 *   Privacy Policy
 *   Terms of Use
