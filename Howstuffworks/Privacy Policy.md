@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Fetal Lambs in 'Biobags' Show Promise for Artificial Human Wombs**
+**Loose Mazdas Sink Ships**
 
-**If You're Missing a Limb, the Brain Recruits Another for the Job**
+**Climb Stairs Instead of Guzzling Caffeine for an Energy Boost**
 
-**Turning Martian Soil Into Building Blocks for Colonists**
+**5 Things You Didn't Know About The Rock**
 
 **See More Headlines »**
 
