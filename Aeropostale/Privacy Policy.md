@@ -26,13 +26,12 @@ Aéropostale
     *   Active Tops
     
     *   BOTTOMS
+    *   Shorts
     *   Jeans
-    *   Leggings + Yoga
+    *   Leggings + Active
     *   Joggers + Lounge
     *   Pants
-    *   Shorts
     *   Skirts
-    *   Active Bottoms
     
     *   DRESSES + ROMPERS
     *   JACKETS
@@ -71,10 +70,10 @@ Aéropostale
     *   Hoodies + Sweatshirts
     
     *   BOTTOMS
+    *   Shorts
     *   Jeans
     *   Pants
     *   Joggers + Sweats
-    *   Shorts
     
     *   Swim
     *   ACCESSORIES
@@ -85,7 +84,6 @@ Aéropostale
     *   Black White &. Mesh Allover
     *   Seamless
     *   Active
-    *   Yoga
     *   Lounge
     *   Swim
     *   Sleep
