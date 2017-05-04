@@ -3,7 +3,6 @@ Stack Exchange
 *   All Sites
 *   Top Users
 *   Newsletters
-*   Blogs
 
 terms of service API terms of use privacy policy content policy trademark guidance contact  
 Stack Exchange Network Terms of Service A Note from the Team
@@ -181,4 +180,4 @@ about us work here blog legal privacy policy contact us feedback always welcome
 
 site design / logo © 2017 Stack Exchange, Inc. user contributions licensed under cc by-sa 3.0 with attribution required
 
-2017.5.2.11462
+2017.5.3.11481
