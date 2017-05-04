@@ -292,7 +292,7 @@ LEARN MORE
 
 Lexus Online Privacy Statement
 
-This statement applies to the websites operated by Lexus, a division of Toyota Motor Sales, U.S.A., Inc. ("Lexus," "we," "us," or "our") online. Last Updated January 1, 2107. Some of our products and services may have additional terms that apply, such as vehicles equipped with Connected Vehicle Services technologies. Where product-or-service-specific terms conflict with this Privacy Statement, those terms shall govern.
+This statement applies to the websites operated by Lexus, a division of Toyota Motor Sales, U.S.A., Inc. ("Lexus," "we," "us," or "our") online. Last Updated January 1, 2017. Some of our products and services may have additional terms that apply, such as vehicles equipped with Connected Vehicle Services technologies. Where product-or-service-specific terms conflict with this Privacy Statement, those terms shall govern.
 
 READ THE COMPLETE ONLINE PRIVACY STATEMENT Information Collected CLICK HERE FOR MORE INFORMATION
 
