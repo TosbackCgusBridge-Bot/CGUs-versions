@@ -12,7 +12,7 @@
 *   OUR STORY
 *   SIGN UP
 
-Monkeybrains San Francisco-based ISP since 1998
+Monkeybrains.net San Francisco-based ISP since 1998
 
 *   SIGN UP>
 *   GET SUPPORT>
