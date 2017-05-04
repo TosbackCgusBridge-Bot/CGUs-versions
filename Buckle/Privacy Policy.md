@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card Elevate your style with on-trend shoes. SHOP WOMEN. | SHOP MEN.
+        Give a Buckle Gift card Need help shopping for a special gift? A Buckle Stylist can help. LEARN MORE.
 *   Men
     *   *   Featured
         
@@ -134,7 +134,7 @@
         
           
           
-        Give a Buckle Gift card Elevate your style with on-trend shoes. SHOP WOMEN. | SHOP MEN.
+        Give a Buckle Gift card Need help shopping for a special gift? A Buckle Stylist can help. LEARN MORE.
 *   Kids
     *   *   Featured
         
@@ -156,7 +156,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Elevate your style with on-trend shoes. SHOP WOMEN. | SHOP MEN.
+        Give a Buckle Gift card Need help shopping for a special gift? A Buckle Stylist can help. LEARN MORE.
 *   Jeans
     *   *   Women's Jeans
         
@@ -186,7 +186,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Elevate your style with on-trend shoes. SHOP WOMEN. | SHOP MEN.
+        Give a Buckle Gift card Need help shopping for a special gift? A Buckle Stylist can help. LEARN MORE.
 *   New
     *   *   Featured New
         
@@ -224,7 +224,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Elevate your style with on-trend shoes. SHOP WOMEN. | SHOP MEN.
+        Give a Buckle Gift card Need help shopping for a special gift? A Buckle Stylist can help. LEARN MORE.
 *   Sale
     *   *   Women's Sale
         
@@ -267,7 +267,7 @@
         
           
           
-        Give a Buckle Gift card Elevate your style with on-trend shoes. SHOP WOMEN. | SHOP MEN.
+        Give a Buckle Gift card Need help shopping for a special gift? A Buckle Stylist can help. LEARN MORE.
 *   Brands
     *   *   WOMEN
         
@@ -350,7 +350,7 @@
         *   Society
         *   Shop All
         
-        Give a Buckle Gift card Elevate your style with on-trend shoes. SHOP WOMEN. | SHOP MEN.
+        Give a Buckle Gift card Need help shopping for a special gift? A Buckle Stylist can help. LEARN MORE.
 
 × Privacy &. Security
 
