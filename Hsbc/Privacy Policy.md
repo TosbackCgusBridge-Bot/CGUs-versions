@@ -95,7 +95,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Regulatory capital securities
         *   Credit ratings
     
-    *   1Q 2017 Earnings Release HSBC Holdings plc will announce its 1Q 2017 update on 4 May.
+    *   1Q 2017 Earnings Release HSBC Holdings plc announced its 1Q 2017 update on 4 May.
 *   News and insight
     
     *   Media resources
