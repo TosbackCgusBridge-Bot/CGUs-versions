@@ -4,6 +4,11 @@ Pick a theme
 *   Blue
 *   Pink
 
+Apps
+
+*   {text}
+    
+
 Categories
 
 *   {text} ({games\_number})
