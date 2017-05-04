@@ -175,8 +175,7 @@ Redwood City, CA 94065
 
 Return to Top
 
-*   Shopping
-*   Baby
+Shopping*   Baby
 *   Books, 
 *   CDs, 
 *   &. DVDs
@@ -196,34 +195,28 @@ Return to Top
 *   Video Games 
 *   &. Toys
 
-*   About US
-*   About Nextag
-*   International
-*   Australia
+About US*   About Nextag
+International*   Australia
 *   France
 *   Germany
 *   Japan
 *   United Kingdom
 
-*   Merchant
-*   Merchant Login
+Merchant*   Merchant Login
 *   Advertising Programs
 *   Sell at Nextag
-*   Customer Service
-*   Sign In
+Customer Service*   Sign In
 *   Terms of Use
 *   Privacy Policy
 *   Contact Us
 
-*   My Account
-*   Sign In
+My Account*   Sign In
 *   Register
 *   Manage Radar
 *   Preferences
-*   How Are We Doing
-*   Tell Us What You Think
+How Are We Doing*   Tell Us What You Think
 
 *   Find us on Facebook
 *   Follow us on Twitter
 
-Get deals, exclusive offers and more! Learn More Nextag is committed to protecting your privacy. Read our privacy policy. NexTag.Scroll To Top|About Us|Terms of Use|Privacy Policy (New)|© 1999-2017 ,Nextag, Inc.
+Get deals, exclusive offers and more! Learn More Nextag is committed to protecting your privacy. Read our privacy policy. NexTag.Scroll To Top|About Us|Terms of Use|Privacy Policy (New)| © 1999-2016, Nextag, Inc.
