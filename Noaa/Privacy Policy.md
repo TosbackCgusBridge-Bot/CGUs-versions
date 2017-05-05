@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Humpback whales are dying on the East Coast. NOAA wants to know why. AROUND NOAA // Watch live: NOAA Ship Okeanos Explorer probes seamounts, deep-water areas of central Pacific Fifty years ago, a historic balloon launch that changed the way we see the ozone layer Study: Global plant growth surging alongside carbon dioxide
+Enter Search Terms NOAA and Air Force Reserve hurricane teams to visit East Coast cities AROUND NOAA // Humpback whales are dying on the East Coast. NOAA wants to know why. New ‘sister sanctuary’ agreement protects whales from New England to the Caribbean Watch live: NOAA Ship Okeanos Explorer probes seamounts, deep-water areas of central Pacific
 
 *   About our agency
 *   News and features
