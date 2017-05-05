@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 12.527,84ǀ
+*   DAX 12.647,78ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -659,7 +659,6 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
 *   FINANZEN
 *   Währungsrechner
 *   Immobilien-Börse
-*   Kreditvergleich
 *   Versicherungen
 
 *   FREIZEIT
