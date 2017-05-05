@@ -52,22 +52,22 @@ Up to
 
 2.0i Sport shown
 
-WRX $26,695\* starting price 2017 WRX
+WRX $26,995\* starting price 2018 WRX
 
 Starting at
 
-$26,695 MSRP
+$26,995 MSRP
 
 Up to
 
-27/20 MPG Hwy/City
+27/21 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
 *   Compare
 *   Build Your Own
 
-WRX with accessory fog lights shown
+2018 WRX Limited shown
 
 Legacy $21,995\* starting price 2017 Legacy
 
