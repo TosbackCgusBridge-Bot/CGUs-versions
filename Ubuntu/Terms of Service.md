@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Discord is now available as a snap for Ubuntu and other distributions ›
+*   Canonical’s support for Kubernetes 1.6.2 released! ›
+*   Canonical and NetApp collaborate to supply Open Cloud Solutions ›
 *   Cloud Chatter: April 2017 ›
 *   ROS production: obtaining confined access to the Turtlebot \[4/5\] ›
-*   Canonical joins EdgeX Foundry to help unify IoT edge computing ›
-*   OpenStack public cloud, from Stockholm to Dubai and everywhere between ›
-*   ROS production: our prototype as a snap \[3/5\] ›
