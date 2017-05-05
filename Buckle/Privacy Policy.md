@@ -8,7 +8,6 @@
 *   Jeans
 *   New
 *   Sale
-*   Brands
 
 *   MY ACCOUNT
 *   MY FAVORITES FAVORITED! Login to save this item to your Buckle account.
@@ -267,89 +266,6 @@
         
           
           
-        Give a Buckle Gift card Need help shopping for a special gift? A Buckle Stylist can help. LEARN MORE.
-*   Brands
-    *   *   WOMEN
-        
-        *   Buckle Black
-        *   Daytrip
-        *   BKE
-        *   Gimmicks
-        *   Affliction
-        *   Amuse Society
-        *   Billabong
-        *   FITZ + EDDI
-        *   Flying Monkey
-        *   Free People
-        *   Freebird by Steven
-        *   KanCan
-        *   Miss Me
-        *   Naughty Monkey
-        *   Not Rated
-        *   Rock Revival
-        *   Shop All
-        
-        *   MEN
-        
-        *   BKE
-        *   Fast &. Furious
-        *   Buckle Black
-        *   Departwest
-        *   Outpost Makers
-        *   7Diamonds
-        *   Affliction
-        *   American Fighter
-        *   Billabong
-        *   etnies
-        *   Hurley
-        *   Oakley
-        *   Nixon
-        *   Reef
-        *   Rock Revival
-        *   Salvage
-        *   Stance
-        *   Shop All
-        
-        *   GIRLS
-        
-        *   BKE
-        *   Daytrip
-        *   Billabong
-        *   KanCan
-        *   Miss Me
-        *   Fire
-        *   Hurley
-        *   Lily Bleu
-        *   Me Jane
-        *   Moa Moa
-        *   O'Neill
-        *   Roxy
-        *   Side of Fries
-        *   TOMS
-        *   Under Armour
-        *   Weavers Girl
-        *   Shop All
-        
-        *   BOYS
-        
-        *   BKE
-        *   BKE Vintage
-        *   Departwest
-        *   Affliction
-        *   Buckle Black
-        *   American Customs
-        *   American Fighter
-        *   BKE SPORT
-        *   Buffalo
-        *   Fox
-        *   Hurley
-        *   Parasuco
-        *   RVCA
-        *   Reclaim
-        *   Request Jeans
-        *   Society
-        *   Shop All
-        
         Give a Buckle Gift card Need help shopping for a special gift? A Buckle Stylist can help. LEARN MORE.
 
 × Privacy &. Security
