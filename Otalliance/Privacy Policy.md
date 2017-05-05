@@ -85,6 +85,10 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
+Wed, May 10, 2017 How to Conquer Targeted Email Threats: SANS Review of Agari Enterprise Protect
+
+Despite multiple layers of protection and user awareness training, phishing, ransomware and other socially engineered attacks are still the top means of impactful threats across enterprises, according to SANS surveys. Why? Because these messages look benign and seem to come from known senders (such as business partners or insiders) or nonthreatening senders, they too often pass inspection and arrive in the inbox.
+
 Tue, May 16, 2017 2017 Symantec Internet Threat Intelligence Report
 
 Join Kevin Haley, Director of Product Management for Symantec Security Technology and Response who will share insights and trends into the threat landscape including common vulnerabilities, ransomware trends and others including. 1) Subversion and Sabotage Attacks Emerge at the Forefront, 2) Nation States Chase the Big Scores, 3) Attackers Weaponize Commonly Used Software. Email Becomes the Weapon of Choice, 4) Caving in to Digital Extortion: Americans Most Likely to Pay Ransom Demands and 5) Cracks in the Cloud: The Next Frontier for Cyber Crime is Upon Us
@@ -97,10 +101,6 @@ Wed, May 24, 2017 Planning for the Future: A Conference About Identity Theft
 
 Ten years ago, President Bush launched a new era in the fight against identity theft by issuing an executive order establishing the Identity Theft Task Force, which the Commission co-chaired. In the ensuing ten years, great strides have been made to combat identity theft but it remains a significant problem for American consumers. The Federal Trade Commission will host an all-day conference to take a comprehensive look at how identity theft has evolved over the last decade and what we can do to address this challenge in the future.
 
-Tue, Jun 27, 2017 2017 Online Trust Audit – Congressional Staff Lunch Briefing
-
-Save the date for the 2017 briefing of the audit results of the annual trust audit of the top 1,000 consumer facing sites.  Incorporating over 100 criteria into a weighted analysis, key sites are evaluated for their data security, consumer protection and responsible privacy practices.  Those sites who have demonstrated excellence will be recognized as qualifying for the 2017 Online Trust Honor Roll.  Briefing wil
-
 More >>.
 
 *   OTA Blog
@@ -110,7 +110,7 @@ Mon, Apr 10, 2017 Responsible, Coordinated &. Ethical Vulnerability Disclosures
 
 Updated April 10, 2017
 
-OTA Joins coalition submitting comments to the National Institute of Standards and Technology's (NIST) to Improving Critical Infrastructure Cybersecurity highlighting the need for vulnerability reporting mechanisms.  Read more>
+**OTA Joins coalition submitting comments to the National Institute of Standards and Technology's (NIST) to Improving Critical Infrastructure Cybersecurity highlighting the need for vulnerability reporting mechanisms.** Read more>
 
 Wed, Apr 5, 2017 A New Chapter for OTA
 
