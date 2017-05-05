@@ -1,6 +1,6 @@
 GEICO RESPECTS YOUR PRIVACY
 
-Protecting your privacy is very important to us. Policyholders like you have trusted us with their insurance needs for over 75 years, and we take our obligation to safeguard and secure your personal information very seriously. We want you to understand how we protect your privacy and when we collect and use your information.
+Protecting your privacy is very important to us. Customers like you have trusted us with their insurance needs since 1936, and we take our obligation to safeguard and secure your personal information very seriously. We want you to understand how we protect your privacy and when we collect and use your information.
 
 TABLE OF CONTENTS
 
@@ -92,6 +92,8 @@ We may also share your Information for other permitted purposes, including:
 *   with another insurance company if you are involved in an accident with their insured
 *   with our reinsurers
 *   with insurance-support organizations that detect and prevent fraud
+*   among the GEICO companies listed below and other subsidiaries of GEICO Corporation to offer you additional products and services
+*   with consumer reporting agencies as permitted by law
 *   with medical professionals or institutions in order to verify coverage or conduct operations or services audits
 *   with state insurance departments or other governmental or law enforcement authorities if required by law or to protect our legal interests or in cases of suspected fraud or illegal activities
 *   if ordered by a subpoena, search warrant or other court order
@@ -106,7 +108,7 @@ Please see our Internet Security Policy for further information on how we protec
 
 ADDITIONAL INFORMATION FOR OUR INTERNET USERS
 
-We continuously improve geico.com. We are interested in how visitors use our website, what they like and dislike, and where they have problems. We may gather data on how users navigate our site so we can make geico.com an easy place to do business. Our tools may gather data such as what browser a person uses or even what pages are most popular.
+We continuously improve geico.com. We are interested in how visitors use our website, what they like and dislike, and where they have problems. We may gather data on how users navigate our site so we can make geico.com an easy place to do business. Our tools may gather data such as what browser a person uses or even what pages are most popular. We may also use this data, in aggregated or anonymized form, to offer you content, products, or services we hope will interest you.
 
 We use cookies to improve your experience while using geico.com and our internet apps. Cookies are small files that are stored on your computer. They do not contain any personally identifiable information about you. They help us personalize your experience when you return to our website, and they are required for certain portions of our website. Most browsers let you determine whether or not you accept our cookies. If you don't use cookies, you won't be able to use certain geico.com features, such as the "remember me" function for policyholders that lets you store your User ID so you don't have to input it every time you log in from the same computer.
 
@@ -116,7 +118,7 @@ We also provide some links to third-party websites that are not owned by GEICO. 
 
 CHANGES TO THIS PRIVACY POLICY
 
-We may modify our privacy policy from time to time. The most recent version is always posted at geico.com. Each of our policyholders receives a copy of our privacy policy at least once per year. In addition, in the event that we make a significant change to our privacy practices, we will send a revised copy of our privacy policy to each of our current policyholders.
+We may modify our privacy policy from time to time. The most recent version is always posted at geico.com. Each of our policyholders receives a copy of our privacy policy at least once per year if required by law. In addition, in the event that we make a significant change to our privacy practices, we will send a revised copy of our privacy policy to each of our current policyholders.
 
 WHAT TO DO IF YOU HAVE PRIVACY OR SECURITY CONCERNS
 
@@ -143,4 +145,4 @@ This Privacy Policy applies to all of the following GEICO companies:
 *   GEICO County Mutual Insurance Company
 *   GEICO Insurance Agency, Inc.
 
-The Effective Date of the revised Privacy Policy is January 30, 2014.
+The Effective Date of the revised Privacy Policy is May 4, 2017.
