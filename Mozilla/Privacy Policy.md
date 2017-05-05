@@ -63,8 +63,10 @@ Firefox Privacy Close
     
     *   What is Internet Health?
     *   Privacy &. Security
+    *   Open Innovation
+    *   Decentralization
     *   Digital Inclusion
-    *   Open InnovationPrivacy Facebook privacy tips: How to share without oversharing Security Don’t Get Pwned: A Guide to Safer Logins
+    *   Web LiteracyPrivacy Facebook privacy tips: How to share without oversharing Security Don’t Get Pwned: A Guide to Safer Logins
 *   Technology
     
     Participate and explore our latest innovations — technology built in the open and designed to help keep the Internet healthy.
