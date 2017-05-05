@@ -9,9 +9,9 @@ VH1 Menu VH1
     *   Love &. Hip Hop Atlanta
     *   Basketball Wives
     *   T.I &. Tiny: The Family Hustle
-    *   Black Ink Crew
-    *   RuPaul's Drag Race
     *   Dear Mama
+    *   RuPaul's Drag Race
+    *   Black Ink Crew
     *   Hip Hop Squares
     *   The BreaksSee all Shows
 *   Pop Culture
@@ -30,7 +30,7 @@ VH1 Menu VH1
 *   TV Provider Sign Out
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Atlanta Basketball Wives T.I &. Tiny: The Family Hustle Black Ink Crew RuPaul's Drag Race Dear Mama Hip Hop Squares The Breaks Love &. Hip Hop Brunch With Tiffany See all Shows
+*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Atlanta Basketball Wives T.I &. Tiny: The Family Hustle Dear Mama RuPaul's Drag Race Black Ink Crew Hip Hop Squares The Breaks Love &. Hip Hop Brunch With Tiffany See all Shows
 *   Pop Culture Music Celebrity Movies TV Around The Web Video See all Pop Culture
 *   Life Beauty &. Health Style Relationships Video See all Life
 *   Watch Live TV
