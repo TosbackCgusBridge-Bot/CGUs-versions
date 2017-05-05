@@ -6,18 +6,19 @@ Aéropostale
     *   #FREETOBE
     *   TRENDING
     *   Festival Vibes
+    *   Swim Starting at $6
     *   Buy 1 Get 2 FREE
     *   Limited Edition
     *   Uniform
-    *   Swim
-    *   Online Only
+    *   Basic Essentials
     *   Plus Sizes
     *   Clearance
     
     *   TOPS
-    *   Graphic Tees
-    *   Tees
+    *   Graphic + Logo Tees
+    *   Basic + Printed Tees
     *   Camis + Tanks
+    *   Fashion
     *   Polos
     *   Shirts
     *   Hoodies + Sweatshirts
@@ -67,6 +68,7 @@ Aéropostale
     *   Tees
     *   Tanks
     *   Shirts
+    *   Sweaters
     *   Hoodies + Sweatshirts
     
     *   BOTTOMS
