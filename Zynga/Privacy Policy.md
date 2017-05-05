@@ -6,6 +6,7 @@ Navigation
     *   Chess With Friends
     *   Crazy Cake Swap
     *   Crazy Kitchen
+    *   Crosswords With Friends
     *   CSR Racing 2
     *   Dawn of Titans
     *   Draw Something
