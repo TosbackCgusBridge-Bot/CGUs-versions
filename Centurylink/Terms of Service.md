@@ -108,9 +108,7 @@ I'd like to try to enter my information again.
   
   
   
-Not sure what to do? Try Customer Service Please wait for a few moments. We are  
-making sure you reach your intended destination.  
-**Thank you for your patience.** Wait for it Wait for it...... Finding the Fastest Speed  
+Not sure what to do? Try Customer Service Finding the Fastest Speed  
 Available at Your Home... Please wait while we verify your Internet speed. Customer Service &. Support Close Window We apologize for the inconvenience. This product is currently not available in your area.  
 
 Continue to view these CenturyLink products:
@@ -135,7 +133,7 @@ Go
 How can I find my Account Number?  
   
 Why is this needed? As CenturyLink and Qwest merge companies, we are working hard to combine our systems. By supplying your home telephone or account number we will be able to get you to the right location. Thank you for your patience during the merger process. OK OK OK  
-Attention! Your browser settings show that JavaScript is disabled. Customer Info Close Window Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings show that JavaScript is disabled. For Home For Business
+Attention! Your browser settings show that JavaScript is disabled. Customer Info Close Window Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings show that JavaScript is disabled. For Home For Business
 
 *   Small Business - Up to 10 Employees
 *   Medium Business - More than 10 Employees
