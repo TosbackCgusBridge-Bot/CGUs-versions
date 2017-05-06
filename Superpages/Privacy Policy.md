@@ -41,7 +41,7 @@ Toggle navigationSuperpages Online Yellow Pages, Local Business Directory  
 2.  About Us &. Help
 3.  Privacy Policy
 
-, Privacy Policy - Straight talk about Internet privacy
+Privacy Policy - Straight talk about Internet privacy
 
 Dex Media, Inc. and its affiliates and subsidiaries (collectively, “Dex Media”) respect your right to privacy, and we want you to be aware of how we collect and handle information on each website and mobile application covered by this policy.
 
