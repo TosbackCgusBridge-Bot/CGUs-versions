@@ -3,6 +3,7 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
+    *   $5 TEES
     *   #FREETOBE
     *   TRENDING
     *   Festival Vibes
@@ -52,6 +53,7 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
+    *   $5 TEES
     *   #FREETOBE
     *   TRENDING
     *   Summer Retreat
@@ -64,10 +66,10 @@ Aéropostale
     
     *   TOPS
     *   Graphic Tees
-    *   Polos
-    *   Tees
-    *   Tanks
     *   Shirts
+    *   Tanks
+    *   Tees
+    *   Polos
     *   Sweaters
     *   Hoodies + Sweatshirts
     
