@@ -44,7 +44,6 @@ See all About O’Reilly
 *   Press Room
 *   Tim O'Reilly
 *   Editorial Independence
-*   Careers
 *   Terms of Service
 *   Privacy Policy
 *   Academic
