@@ -46,7 +46,7 @@ menu 0 Free Shipping on $50+  |  Offers
 *   Women FEATURED SHOPS
     
     *   New Arrivals
-    *   Best of Spring
+    *   Best of Summer
     *   The Starfish Collection
     *   Supima® Cotton Collection
     *   Tunic Shop
@@ -363,7 +363,7 @@ menu 0 Free Shipping on $50+  |  Offers
     *   FEATURED SHOPS
         *   Back
         *   New Arrivals
-        *   Best of Spring
+        *   Best of Summer
         *   The Starfish Collection
         *   Supima® Cotton Collection
         *   Tunic Shop
