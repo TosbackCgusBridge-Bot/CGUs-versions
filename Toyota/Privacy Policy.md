@@ -23,7 +23,7 @@
 *   2017 Tundra $30,120 starting 15/19 est. mpg build Specials
 
 *   2018 C-HR $22,500 starting 27/31 est. mpg build Specials
-*   2017 RAV4 $24,910 starting 23/30 est. mpg build Specials
+*   2017 RAV4 $24,410 starting 23/30 est. mpg build Specials
 *   2017 Highlander $30,630 starting 21/27 est. mpg build Specials
 *   2017 4Runner $34,210 starting 17/21 est. mpg build Specials
 *   2017 Sequoia $45,560 starting 13/17 est. mpg build Specials
