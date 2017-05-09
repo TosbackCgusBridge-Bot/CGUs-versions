@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Research Fifty years ago, a historic balloon launch that changed the way we see the ozone layer Across NOAA Ever dream of becoming a scientist? Dream no more. National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Get your #HurricanePrep on: Hurricane Preparedness Week runs May 7-13 Across NOAA Ever dream of becoming a scientist? Dream no more. National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms NOAA and Air Force Reserve hurricane teams to visit East Coast cities AROUND NOAA // Humpback whales are dying on the East Coast. NOAA wants to know why. New ‘sister sanctuary’ agreement protects whales from New England to the Caribbean Watch live: NOAA Ship Okeanos Explorer probes seamounts, deep-water areas of central Pacific
+Enter Search Terms U.S. had 2nd wettest, 11th warmest April on record National drought recedes to record-low level AROUND NOAA // Get your #HurricanePrep on: Hurricane Preparedness Week runs May 7-13 NOAA and Air Force Reserve hurricane teams to visit East Coast cities Watch live: NOAA Ship Okeanos Explorer probes seamounts, deep-water areas of central Pacific
 
 *   About our agency
 *   News and features
