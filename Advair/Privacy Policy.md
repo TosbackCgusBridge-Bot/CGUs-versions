@@ -206,8 +206,8 @@ Menu
         *   Harnessing the electrical language of the body to treat disease
         *   Epigenetics: turn-ons and turn-offs
         *   Inside the open lab
-        *   The race to richer data in clinical trials
         *   Scientists or detectives? Seeking new clues in COPD
+        *   The race to richer data in clinical trials
         *   Cell and gene therapy: a new era of medicine
         *   On target for a new era of drug discovery?
         *   Take a deep breath - your lung microbiome will appreciate it
@@ -269,8 +269,8 @@ Menu
         *   Engineers as leaders: The art of the possible over the probable
         *   Work Together, Give Together
         *   Putting responsible business principles into practice: spotlight on four GSK US "intrapreneurs"
-        *   Building future leaders
         *   The gift of time: increased parental leave
+        *   Building future leaders
         *   Designing inspiring and healthy workplaces
     *   How we do business
         *   How we do business
