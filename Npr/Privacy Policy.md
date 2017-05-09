@@ -288,7 +288,7 @@ Back
 
 May 7, 20139:51 AM ET
 
-**Effective Date March 14, 2017**
+**Effective Date May 8, 2017**
 
 _See related: NPR Terms of Use_
 
@@ -302,7 +302,7 @@ NPR collects a visitor's geolocation data through the NPR Services for purposes 
 
 **Children**
 
-Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) via the web or mobile device, to NPR or to anyone else. The NPR Services are not directed at children under the age of 13 and NPR does not knowingly allow anyone under the age of 13 to provide any personally-identifying information to NPR. If you are under 13, please do not attempt to register for any NPR Services or provide any information about yourself.
+Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) via the web or mobile device, to NPR or to anyone else. NPR does not knowingly allow anyone under the age of 13 to provide any personally-identifying information to NPR. If you are under 13, please do not attempt to register for any NPR Services or provide any information about yourself.
 
 **Gathering of Information**
 
@@ -361,7 +361,7 @@ NPR also may collect other personal information (such as age, gender or other de
 
 In order to personalize the listening experience for visitors to personalized digital listening services offered through the NPR Services, such as the "NPR One" service (collectively, "NPR Personalized Services"), when visitors use NPR Personalized Services, NPR collects information about the listening activity of each visitor, including audio segments that a visitor listens to, audio segments that a visitor skips and shares, audio segments that a visitor marks as interesting, and listening times and frequency. NPR also collects information regarding whether a visitor has donated to Member stations through the NPR Services, or has requested information about or expressed interest in donating to Member stations. Within NPR's mobile sites and applications and any features of these sites and applications ("NPR Mobile Services"), NPR collects a device's unique identifier, operating system, device model, app version, automobile make (for certain connected car platforms), and/or content preferences.
 
-NPR also collects information about visitor interactions with NPR podcasts and other media files, both when visitors download these files and when they listen to them using the NPR One app. We collect this information through server logs (described further below), as well as metadata containers and code embedded in our audio files that send listening information back to our servers over the Internet during playback. The information we collect in this manner includes IDs associated with the titles and other descriptions of the episodes, segments and sponsorship messages included in the audio file, time and date stamps for download and playback events (e.g, when playback of a particular segment or sponsorship message starts, stops or is skipped or paused), listener device IDs, session IDs and information about the device or platform used to download or play a particular file.
+NPR also collects information about visitor interactions with NPR podcasts and other media files, both when visitors download these files and when they listen to them using the NPR One app. We collect this information through server logs (described further below), as well as metadata containers and code embedded in our audio files that send listening information back to our servers over the Internet during playback. The information we collect in this manner includes IDs associated with the titles and other descriptions of the episodes, segments and sponsorship messages included in the audio file, time and date stamps for download and playback events (e.g., when playback of a particular segment or sponsorship message starts, stops or is skipped or paused), listener device IDs, session IDs and information about the device or platform used to download or play a particular file.
 
 Visitors have the opportunity to select a "favorite" Member station by (a) entering a zip code, (b) authorizing NPR to use geolocation data regarding the visitor's current location, or (c) selecting from a list of Member stations. For certain of the NPR Services, including NPR Personalized Services, a Member station is automatically assigned to the visitor based on geolocation data or based on a previously-assigned "favorite" or associated Member station. Geolocation data consists of general location information based on latitude and longitude (if the visitor has enabled location services for an NPR application on the visitor's mobile device), or NPR may approximate a visitor's location based on the IP address of the visitor's computer or mobile device.
 
@@ -436,7 +436,7 @@ NPR has in place what we believe to be appropriate physical, electronic, and man
 
 **Children**
 
-Under 13: Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) via the web or their mobile device, to NPR or to anyone else. The NPR Services are not directed at children under the age of 13 and NPR does not knowingly allow anyone under the age of 13 to provide any personally-identifying information to NPR. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.
+Under 13: Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) via the web or their mobile device, to NPR or to anyone else. NPR does not knowingly allow anyone under the age of 13 to provide any personally-identifying information to NPR. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.
 
 13-18: You must be at least 18 years old in order to Submit any User Materials on or through the NPR Services, register for the NPR Services, create a public profile, participate in any online contests, or place an order on the NPR Shop. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for email newsletters or otherwise sending any personally-identifying information.
 
@@ -452,7 +452,7 @@ NPR reserves the right to change this Privacy Policy. Any changes to this policy
 
 It is important to note that the NPR Services contain links to other sites, applications and services maintained by third parties that may not follow the same privacy policies as the NPR Services. For instance, clicking or tapping on a sponsorship acknowledgment or some third-party logos on the NPR Services will take you to an entirely different site, application or service. These sites, applications and services may use cookies, collect data, and use the data in ways that the NPR Services would not. NPR is not responsible for the privacy practices of, or any information or materials on, these other sites. Please visit these sites if you wish to review their privacy policies.
 
-The NPR Services include a tool that allows you to sign in or share content using information from your account with a third-party service, such as Facebook, Twitter, Google+, or Disqus. Please be aware that those third-party services are unrelated to NPR, and that your use of the third-party services is subject to the terms and policies of those services.
+The NPR Services include a tool that allows you to sign in or share content using information from your account with a third-party service, such as Facebook, Twitter, or Google+. Please be aware that those third-party services are unrelated to NPR, and that your use of the third-party services is subject to the terms and policies of those services.
 
 **International User Notice**
 
