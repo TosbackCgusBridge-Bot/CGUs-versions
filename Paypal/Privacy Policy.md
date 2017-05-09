@@ -18,12 +18,24 @@ Menu PayPal
     
 *   Request
 
-Log In Sign Up Shop millions of sites with PayPal. Sign Up for Free
+*   Sign Up for Free
 
-Explore Business Solutions
+Log In Sign Up Global Purchase Protection. Music to Your Ears.
+
+If the description sounded better than what showed up, PayPal can cover you.\*
+
+Sign Up for Free
+
+Watch the Video
+
+\*See Eligibility.
 
 From everyday purchases to running a business,  
-people around the world rely on us to pay and get paid. How PayPal Works
+people around the world rely on us to pay and get paid. How PayPal Works Looking for business solutions?
+
+PayPal makes it easy to get paid securely anywhere you do business: online, on mobile, in person or via an invoice.
+
+Explore Business Solutions
 
 Join 200+ million people who use PayPal to
 
@@ -106,12 +118,6 @@ Use PayPal at businesses, big and small, in 200+ countries around the world. Pay
 More payment choices
 
 With PayPal, use your favorite banks and cards and still earn card rewards. And get access to flexible payment options like PayPal Credit.
-
-Looking for business solutions?
-
-PayPal makes it easy to get paid securely anywhere you do business: online, on mobile, in person or via an invoice.
-
-Explore Business Solutions
 
 Make the most of your money.
 
