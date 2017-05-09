@@ -55,8 +55,8 @@ Firefox Privacy Close
     *   Desktop Browser
     *   iOS Browser
     *   Android Browser
-    *   Support
-    *   Add-onsFaster Browser Fast, Responsive, Reliable: A Browser for the Multi-Tab Age Better Browsing Smooth Scrolling: How a Web Browser Removes Jank
+    *   Features
+    *   SupportFaster Browser Fast, Responsive, Reliable: A Browser for the Multi-Tab Age Better Browsing Smooth Scrolling: How a Web Browser Removes Jank
 *   Internet Health
     
     Internet Health is crucial for the world to thrive. A healthy Internet is one that is private, inclusive, and collaborative.
