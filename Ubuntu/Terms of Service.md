@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Video: Managed OpenStack upgrades ›
 *   Discord is now available as a snap for Ubuntu and other distributions ›
-*   Canonical’s support for Kubernetes 1.6.2 released! ›
-*   Canonical and NetApp collaborate to supply Open Cloud Solutions ›
+*   Canonical’s support for Kubernetes 1.6.2 released ›
+*   Canonical and NetApp collaborate to supply open cloud solutions ›
 *   Cloud Chatter: April 2017 ›
-*   ROS production: obtaining confined access to the Turtlebot \[4/5\] ›
