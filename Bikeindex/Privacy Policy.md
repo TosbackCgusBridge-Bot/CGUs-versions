@@ -40,4 +40,4 @@ You retain the right to access, amend, correct or delete your personal informati
 
 Questions
 
-Any questions about this Privacy Policy should be addressed to contact@bikeindex.org or by mail at: Bike Index, 2845 W Palmer St, Chicago, IL 60647
+Any questions about this Privacy Policy should be addressed to contact@bikeindex.org
