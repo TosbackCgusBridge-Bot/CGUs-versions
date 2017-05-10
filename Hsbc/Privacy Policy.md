@@ -116,7 +116,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Culture
         *   Other sponsorships
     
-    *   Sustainable cities, smart cities Cities have a vital part to play in fighting climate change and building a low-carbon future.
+    *   Reporting on our impact How HSBC is meeting its legal, social and environmental obligations.
 *   Careers
     
     *   Key hiring areas
