@@ -312,19 +312,19 @@ Close
 
 When You Game
 
-Storm the Beaches of Normandy on D-Day in the Next Call of Duty®
+Call of Duty® Returns to World War II This November 3
 
-Pre-Order Now and Play the Beta First on PS4™
+Learn More
 
 Close
 
 *   Share
-*   Share Storm the Beaches of Normandy on D-Day in the Next Call of Duty® on Facebook
-*   Share Storm the Beaches of Normandy on D-Day in the Next Call of Duty® on Twitter
-*   Share Storm the Beaches of Normandy on D-Day in the Next Call of Duty® on Tumblr
-*   Copy URL to share Storm the Beaches of Normandy on D-Day in the Next Call of Duty®
+*   Share Call of Duty® Returns to World War II This November 3 on Facebook
+*   Share Call of Duty® Returns to World War II This November 3 on Twitter
+*   Share Call of Duty® Returns to World War II This November 3 on Tumblr
+*   Copy URL to share Call of Duty® Returns to World War II This November 3
 
-Pre-Order Now and Play the Beta First on PS4™
+Learn More
 
 Load More
 
