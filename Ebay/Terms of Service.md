@@ -1,4 +1,4 @@
-eBay User Agreement This User Agreement is effective upon acceptance for new users, and from September 29, 2016 for existing users. The previous amendment to this User Agreement was effective for all users on May 19, 2016. In this article Introduction About eBay Using eBay Policy Enforcement Fees Listing Conditions Purchase Conditions International Buying and Selling. Translation Content Notice for Claims of Intellectual Property Violations and Copyright Infringement Pursuant to Section 512(c) of Title 17 of the United States Code Holds Authorization to Contact You. Recording Calls Additional Terms 
+eBay User Agreement This User Agreement is effective upon acceptance for new users, and from June 20, 2017 for existing users. The previous amendment to this User Agreement was effective for all users on September 29, 2016. In this article Introduction About eBay Using eBay Policy Enforcement Fees Listing Conditions Purchase Conditions International Buying and Selling. Translation Content Notice for Claims of Intellectual Property Violations and Copyright Infringement Pursuant to Section 512(c) of Title 17 of the United States Code Holds Authorization to Contact You. Recording Calls Additional Terms 
 
 *   Returns 
     
@@ -13,15 +13,15 @@ Introduction
 
 This User Agreement, the User Privacy Notice, the Mobile Devices Terms, and all policies posted on our sites set out the terms on which eBay offers you access to and use of our sites, services, applications and tools (collectively "Services"). You can find an overview of our policies here. All policies, the Mobile Devices Terms, and the User Privacy Notice are incorporated into this User Agreement. You agree to comply with all of the above when accessing or using our Services.
 
-The entity you are contracting with is eBay Inc., 2025 Hamilton Ave., San Jose, CA 95125 if you reside in the United States. It is eBay Europe S.à r.l., 22-24 Boulevard Royal, L-2449 Luxembourg if you reside in the European Union. eBay India Private Limited, 14th Floor, North Block, R-Tech Park, Western Express Highway, Goregaon (East), Mumbai 400063, Maharashtra if you reside in India. and eBay International AG, Helvetiastrasse 15/17, 3005, Bern, Switzerland if you reside in any other country. In this User Agreement, these entities are individually and collectively referred to as "**eBay**," "**we**," or "**us**."
+The entity you are contracting with is eBay Inc., 2025 Hamilton Ave., San Jose, CA 95125 if you reside in the United States. It is eBay Europe S.à r.l., 22-24 Boulevard Royal, L-2449 Luxembourg if you reside in the European Union. eBay India Private Limited, 14th Floor, North Block, R-Tech Park, Western Express Highway, Goregaon (East), Mumbai 400063, Maharashtra if you reside in India. and , except as provided below, eBay International AG, Helvetiastrasse 15/17, 3005, Bern, Switzerland if you reside in any other country. Starting on July 1, 2017, the entity you are contracting with is eBay Canada Limited, 500 King Street West, Suite 200, Toronto, ON M5V 1L9, Canada, if you reside in Canada. Starting on August 1, 2017, it is eBay (UK) Limited, 5 New Street Square, London, EC4A 3TW, United Kingdom, if you reside in the United Kingdom. In this User Agreement, these entities are individually and collectively referred to as "**eBay**," "**we**," or "**us**."
 
-**Please be advised that this User Agreement contains provisions that govern how claims you and we have against each other are resolved (see Disclaimer of Warranties. Limitation of Liability and Legal Disputes provisions below). It also contains an Agreement to Arbitrate, which will, with limited exception, require you to submit claims you have against us to binding and final arbitration, unless you opt out of the Agreement to Arbitrate (see Legal Disputes, Section B ("Agreement to Arbitrate")). Unless you opt out: (1) you will only be permitted to pursue claims against us on an individual basis, not as a plaintiff or class member in any class or representative action or proceeding and (2) you will only be permitted to seek relief (including monetary, injunctive, and declaratory relief) on an individual basis.**
+**Please be advised that this User Agreement contains provisions that govern how claims you and we have against each other are resolved (see Disclaimer of Warranties. Limitation of Liability and Legal Disputes provisions below). It also contains an Agreement to Arbitrate, which will, with limited exception, require you to submit claims you have against us** **or our agents** **to binding and final arbitration, unless you opt out of the Agreement to Arbitrate (see Legal Disputes, Section B ("Agreement to Arbitrate")). Unless you opt out: (1) you will only be permitted to pursue claims against us** **or our agents** **on an individual basis, not as a plaintiff or class member in any class or representative action or proceeding and (2) you will only be permitted to seek relief (including monetary, injunctive, and declaratory relief) on an individual basis.**
 
 About eBay
 
 eBay is a marketplace that allows users to offer, sell and buy just about anything in a variety of pricing formats and locations. The actual contract for sale is directly between the seller and buyer. eBay is not a traditional auctioneer.  
 
-While we may provide pricing, shipping, listing, and other guidance in our Services, such guidance is solely informational and you may decide to follow it or not. Also, while we may help facilitate the resolution of disputes through various programs, eBay has no control over and does not guarantee the existence, quality, safety or legality of items advertised. the truth or accuracy of users' content or listings. the ability of sellers to sell items. the ability of buyers to pay for items. or that a buyer or seller will actually complete a transaction or return an item.
+While we may provide pricing, shipping, listing, sourcing, and other guidance in our Services, such guidance is solely informational and you may decide to follow it or not. Also, while we may help facilitate the resolution of disputes through various programs, eBay has no control over and does not guarantee the existence, quality, safety or legality of items advertised. the truth or accuracy of users' content or listings. the ability of sellers to sell items. the ability of buyers to pay for items. or that a buyer or seller will actually complete a transaction or return an item.
 
 Using eBay
 
@@ -68,7 +68,9 @@ In connection with using or accessing the Services you will not:
 
 Sellers must meet eBay's minimum performance standards. Failure to meet these standards may result in eBay charging you additional fees, and/or limiting, restricting, suspending, or downgrading your seller account.
 
-If we believe you are abusing eBay in any way, we may, in our sole discretion and without limiting other remedies, limit, suspend, or terminate your user account(s) and access to our Services, delay or remove hosted content, remove any special status associated with your account(s), remove and demote listings, reduce or eliminate any discounts, and take technical and/or legal steps to prevent you from using our Services.
+If we believe you are abusing eBay in any way, we may, in our sole discretion and without limiting other remedies, limit, suspend, or terminate your user account(s) and access to our Services, delay or remove hosted content, remove any special status associated with your account(s), remove, not display, and/or demote listings, reduce or eliminate any discounts, and take technical and/or legal steps to prevent you from using our Services.
+
+If we believe you are violating the policy on Offers to buy or sell outside of eBay, you may be subject to a range of actions, including limits on your buying and selling privileges, restrictions on listings and account features, suspension of your account, application of fees, and recovery of expenses for policy monitoring and enforcement. If you are a seller, you are liable for transaction fees arising out of all sales made using some or all eBay Services, even if sales terms are finalized or payment is made outside of eBay.
 
 We may cancel unconfirmed accounts or accounts that have been inactive for a long time or modify or discontinue our Services. Additionally, we reserve the right to refuse or terminate all or part of our Services to anyone for any reason at our discretion.
 
@@ -86,11 +88,15 @@ Listing Conditions
 
 When listing an item, you agree to comply with eBay's rules for listing and Selling Practices policy and that:
 
-*   You are responsible for the accuracy and content of the listing and item offered;
+*   You are responsible for the accuracy and content of the listing and item offered.
     
-*   Your listing may not be immediately searchable by keyword or category for several hours (or up to 24 hours in some circumstances). eBay can't guarantee exact listing durations;
+*   Your listing may not be immediately searchable by keyword or category for several hours (or up to 24 hours in some circumstances). eBay can't guarantee exact listing durations.
     
-*   Content that violates any of eBay's policies may be deleted at eBay's discretion;
+*   When you use the consumer seller listing tool to create listings, your fixed-price listings may renew automatically every 30 days, based on the listing terms at that time, until the quantities sell out or until you cancel the listing.
+    
+*   Content that violates any of eBay's policies may be deleted at eBay's discretion.
+    
+*   We may revise data in the eBay product catalog to supplement, remove, or correct information. if your listing uses catalog data that has been revised, those revisions may modify your listing accordingly.
     
 *   We strive to create a marketplace where buyers find what they are looking for. Therefore, the appearance or placement of listings in search and browse results will depend on a variety of factors, including, but not limited to:
     
@@ -119,7 +125,7 @@ When buying an item, you agree to the rules for buyers and that:
 
 *   You are responsible for reading the full item listing before making a bid or commitment to buy.
     
-*   You enter into a legally binding contract to purchase an item when you commit to buy an item or if you have the winning bid (or your bid is otherwise accepted).
+*   You enter into a legally binding contract to purchase an item when you commit to buy an item, your offer for an item is accepted, or if you have the winning bid (or your bid is otherwise accepted).
     
 *   For motor vehicles and real estate, a bid or offer initiates a non-binding transaction representing a buyer's serious expression of interest in buying the seller's item and does not create a formal contract between the buyer and the seller.
     
@@ -132,7 +138,7 @@ International Buying and Selling. Translation
 
 Many of our Services are accessible to international sellers and buyers. We may offer certain programs, tools, and site experiences of particular interest to international sellers and buyers, such as estimated local currency conversion and international shipping calculation tools. Sellers and buyers are responsible for complying with all laws and regulations applicable to the international sale, purchase, and shipment of items. If you purchase an item on an eBay site other than eBay.com, you are subject to the User Agreement of that other eBay site with respect to that particular purchase.
 
-You may list your items directly on one or more of eBay's international sites. Additionally, you may direct us to display your listing on eBay sites other than the original eBay listing site, including where you choose to list an item with an international shipping option (such as worldwide shipping or the Global Shipping Program): the appearance of your listings on these sites is not guaranteed. When you sell your items internationally, you agree to be subject to that other site's User Agreement, policies, and the eBay International Selling Policy. You may restrict international buyers from purchasing your items if you explicitly exclude international shipping from your listings and apply an exclusion list to your listings.
+You may list your items directly on one or more of eBay's international sites. Additionally, you may direct us to display your listing on eBay sites other than the original eBay listing site, including where you choose to list an item with an international shipping option (such as worldwide shipping or the Global Shipping Program). the appearance of your listings on these sites is not guaranteed. When you sell your items internationally, you agree to be subject to that other site's User Agreement, policies, and the eBay International Selling Policy. You may restrict international buyers from purchasing your items if you explicitly exclude international shipping from your listings and apply an exclusion list to your listings.
 
 You authorize us to use automated tools to translate your eBay content and member-to-member communications, in whole or in part, into local languages where such translation solutions are available. We may provide you with tools which will enable you to translate content at your request. The accuracy and availability of any translation are not guaranteed.
 
@@ -156,13 +162,15 @@ Holds
 
 To protect eBay from risk of liability for your actions as a seller, eBay has at times recommended, and may continue to recommend, that PayPal restrict access to funds in a seller's PayPal account based on certain factors, including, but not limited to, selling history, seller performance, returns, riskiness of the listing category, transaction value, or the filing of an eBay Money Back Guarantee case. This may result in PayPal restricting funds in your PayPal account.
 
-Authorization to Contact You. Recording Calls
+Authorization to Contact You. Recording Calls. Analyzing Message Content
 
 eBay may contact you using autodialed or prerecorded calls and text messages, at any telephone number that you have provided us, to: (i) notify you regarding your account. (ii) troubleshoot problems with your account. (iii) resolve a dispute. (iv) collect a debt. (v) poll your opinions through surveys or questionnaires. or (vi) as otherwise necessary to service your account or enforce this User Agreement, our policies, applicable law, or any other agreement we may have with you. eBay may also contact you using autodialed or prerecorded calls and text messages for marketing purposes (e.g., offers and promotions), if you consent to such communications. As described in our User Privacy Notice, eBay may collect other telephone numbers for you and may place manual non-marketing calls to any of those numbers and autodialed non-marketing calls to any landline. Standard telephone minute and text charges may apply and may include overage fees if you have exceeded your plan limits. If you do not wish to receive such communications, you may change your communications preference at any time, including through the communication preferences section of your My eBay. 
 
 eBay may share your telephone number with its authorized service providers as stated in our User Privacy Notice. These service providers may contact you using autodialed or prerecorded calls and text messages, only as authorized by eBay to carry out the purposes we have identified above.
 
 eBay may, without further notice or warning and in its discretion, monitor or record telephone conversations you or anyone acting on your behalf has with eBay or its agents for quality control and training purposes, or for its own protection.
+
+eBay’s automated systems scan and analyze the contents of every message sent through its messages platform, including messages between users, to detect and prevent fraudulent activity or violations of eBay’s User Agreement, including the incorporated terms, notices, rules, and policies. This scanning and analysis may occur before, during, or after the message is sent, or while in storage, and may result in your message being delayed or withheld. eBay may store message contents, including to conduct this scanning and analysis.
 
 **Privacy of Others. Marketing**
 
@@ -184,11 +192,11 @@ Additional Terms
     
     *   An eBay-generated return shipping label is used, and the seller is responsible for its cost;
         
-    *   Returns have been automated. and/or
+    *   Returns have been automated.
         
-    *   You fail to send your buyer a return shipping label and, instead, an eBay-generated shipping label is used.
+    *   You fail to send your buyer a return shipping label and, instead, an eBay-generated shipping label is used. and/or
         
-    *   When a transaction is cancelled, to refund the buyer, you (as seller) authorize eBay to request that PayPal remove the refund amount (in same or other currency) from your PayPal account. See our Cancellation Policy for more details.  
+    *   A transaction is cancelled, to refund the buyer, you (as seller) authorize eBay to request that PayPal remove the refund amount (in same or other currency) from your PayPal account. See our Cancellation Policy for more details.  
         
     
 *   **Global Shipping Program**
@@ -264,7 +272,7 @@ Legal Disputes
 
 **PLEASE READ THIS SECTION CAREFULLY. IT AFFECTS YOUR RIGHTS AND WILL HAVE A SUBSTANTIAL IMPACT ON HOW CLAIMS YOU AND EBAY HAVE AGAINST EACH OTHER ARE RESOLVED.**
 
-**You and eBay agree that any claim or dispute at law or equity that has arisen, or may arise, between us relating in any way to or arising out of this or previous versions of the eBay User Agreement, your use of or access to the Services, or any products or services sold or purchased through the Services, will be resolved in accordance with the provisions set forth in this Legal Disputes Section.**
+**You and eBay agree that any claim or dispute at law or equity that has arisen, or may arise, between you and eBay (including any claim or dispute between you and a third-party agent of eBay) that relates in any way to or arises out of this or previous versions of the eBay User Agreement, your use of or access to the Services, the actions of eBay or its agents, or any products or services sold or purchased through the Services, will be resolved in accordance with the provisions set forth in this Legal Disputes Section.**
 
 **A. Applicable Law**
 
@@ -272,7 +280,7 @@ You agree that, except to the extent inconsistent with or preempted by federal l
 
 **B. Agreement to Arbitrate**
 
-**You and eBay each agree that any and all disputes or claims that have arisen, or may arise, between you and eBay relating in any way to or arising out of this or previous versions of the User Agreement, your use of or access to eBay's Services, or any products or services sold, offered, or purchased through eBay's Services shall be resolved exclusively through final and binding arbitration, rather than in court. Alternatively, you may assert your claims in small claims court, if your claims qualify and so long as the matter remains in such court and advances only on an individual (non-class, non-representative) basis.** The Federal Arbitration Act governs the interpretation and enforcement of this Agreement to Arbitrate.
+**You and eBay each agree that any and all disputes or claims that have arisen, or may arise, between you and eBay (including any disputes or claims between you and a third-party agent of eBay) that relate in any way to or arise out of this or previous versions of the User Agreement, your use of or access to eBay's Services, the actions of eBay or its agents, or any products or services sold, offered, or purchased through eBay's Services shall be resolved exclusively through final and binding arbitration, rather than in court. Alternatively, you may assert your claims in small claims court, if your claims qualify and so long as the matter remains in such court and advances only on an individual (non-class, non-representative) basis**. **The Federal Arbitration Act governs the interpretation and enforcement of this Agreement to Arbitrate.**
 
 1.  **Prohibition of Class and Representative Actions and Non-Individualized Relief**
     
@@ -322,8 +330,6 @@ Unless you and we agree otherwise, in the event that the Agreement to Arbitrate 
 
 General
 
-eBay Inc. is located at 2025 Hamilton Ave., San Jose, CA 95125. eBay Inc.'s North American Customer Service Operations Center is located at 583 West eBay Way, Draper, UT 84020. eBay Europe S.à r.l. is located at 22-24 Boulevard Royal, L-2449 Luxembourg. eBay International AG is located at Helvetiastrasse 15/17, 3005, Bern, Switzerland. eBay India Private Limited is located at 14th Floor, North Block, R-Tech Park, Western Express Highway, Goregaon (East), Mumbai 400063, Maharashtra (India).
-
 Except as otherwise provided in this Agreement, if any provision of this User Agreement is held to be invalid, void or for any reason unenforceable, such provision shall be struck out and shall not affect the validity and enforceability of the remaining provisions. In our sole discretion, we may assign this User Agreement, and in such event, we will post notice on www.ebay.com.
 
 Headings are for reference purposes only and do not limit the scope or extent of such Section. Our failure to act with respect to a breach by you or others does not waive our right to act with respect to subsequent or similar breaches. We do not guarantee we will take action against all breaches of this User Agreement.
@@ -336,7 +342,7 @@ If you create or use an account on behalf of a business entity, you represent th
 
 The User Agreement, the User Privacy Notice, and all polices posted through our Services set forth the entire understanding and agreement between you and eBay, and supersede all prior understandings and agreements of the parties.
 
-The following Sections survive any termination of this User Agreement: Fees, Content, Disclaimer of Warranties. Limitation of Liability. Indemnity, and Legal Disputes.
+The following Sections survive any termination of this User Agreement: Fees, Content, Disclaimer of Warranties. Limitation of Liability. Release, Indemnity, Legal Disputes, and General.
 
 If you are a California resident, in accordance with Cal. Civ. Code §1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting them in writing at 400 R Street, Sacramento, CA 95814, or by telephone at (800) 952-5210.
 
