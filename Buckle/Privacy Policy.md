@@ -78,7 +78,7 @@
         
           
           
-        Give a Buckle Gift card Need help shopping for a special gift? A Buckle Stylist can help. LEARN MORE.
+        Give a Buckle Gift card Feel the Breeze. Shop Summer Denim. SHOP WOMEN. SHOP MEN.
 *   Men
     *   *   Featured
         
@@ -133,7 +133,7 @@
         
           
           
-        Give a Buckle Gift card Need help shopping for a special gift? A Buckle Stylist can help. LEARN MORE.
+        Give a Buckle Gift card Feel the Breeze. Shop Summer Denim. SHOP WOMEN. SHOP MEN.
 *   Kids
     *   *   Featured
         
@@ -155,7 +155,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Need help shopping for a special gift? A Buckle Stylist can help. LEARN MORE.
+        Give a Buckle Gift card Feel the Breeze. Shop Summer Denim. SHOP WOMEN. SHOP MEN.
 *   Jeans
     *   *   Women's Jeans
         
@@ -185,17 +185,18 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Need help shopping for a special gift? A Buckle Stylist can help. LEARN MORE.
+        Give a Buckle Gift card Feel the Breeze. Shop Summer Denim. SHOP WOMEN. SHOP MEN.
 *   New
     *   *   Featured New
         
-        *   Men's Easy Care Shirts
+        *   Check out the Summer Lookbook!
         *   Iconic Calvin Klein
         *   Women's Florals
         *   Levi's are Here!
         *   It's in the Hem Details
         *   Show 'em Your Cold Shoulders
         *   Surf and Turf - Hybrid Shorts
+        *   Treat Your Feet - Comfort Footbeds
         
         *   Women's New
         
@@ -223,7 +224,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Need help shopping for a special gift? A Buckle Stylist can help. LEARN MORE.
+        Give a Buckle Gift card Feel the Breeze. Shop Summer Denim. SHOP WOMEN. SHOP MEN.
 *   Sale
     *   *   Women's Sale
         
@@ -266,7 +267,7 @@
         
           
           
-        Give a Buckle Gift card Need help shopping for a special gift? A Buckle Stylist can help. LEARN MORE.
+        Give a Buckle Gift card Feel the Breeze. Shop Summer Denim. SHOP WOMEN. SHOP MEN.
 
 × Privacy &. Security
 
