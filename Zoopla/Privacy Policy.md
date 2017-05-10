@@ -27,8 +27,8 @@ We use personal information about you in connection with the following purposes:
 *   Marketing:
     *   to provide you, or permit other ZPG Group Companies, or selected third parties to provide you, with information about goods or services that may interest you.
     *   to customise or enhance your experience on our website(s) and services, including via the display of adverts and direct communications you receive from us which may be based on your activity on our website(s) or the website of another ZPG Group Company.
-    *   to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you, which may be based on your activity on our website(s) or the website of another ZPG Group Company. and
-    *   to make suggestions and recommendations to you and other users of our website about goods or services that may interest you or them, which may be based on your activity on our website(s) or the website of another ZPG Group Company.
+    *   to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you, which may be based on your activity on our website(s) or the website of another ZPG Group Company or third parties’ websites. and
+    *   to make suggestions and recommendations to you and other users of our website about goods or services that may interest you or them, which may be based on your activity on our website(s) or the website of another ZPG Group Company or third parties’ websites.
 *   Service improvements and account management:
     *   to notify you about changes to our service and to send you service emails relating to your account.
      *   to administer our website(s) and for internal business administration and operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes.
@@ -78,4 +78,4 @@ Access to information
 
 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-Updated: February 2017
+Updated: April 2017
