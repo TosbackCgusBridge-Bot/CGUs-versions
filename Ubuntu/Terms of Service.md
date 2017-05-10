@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Canonical and Qualcomm: Delivering Unprecedented Scaling ›
+*   Consortium GARR creates countywide Federated Canonical OpenStack Cloud ›
+*   Webinar: Delivering the value of IoT in the retail industry ›
+*   ROS production: create Ubuntu Core image with snap preinstalled \[5/5\] ›
 *   Video: Managed OpenStack upgrades ›
-*   Discord is now available as a snap for Ubuntu and other distributions ›
-*   Canonical’s support for Kubernetes 1.6.2 released ›
-*   Canonical and NetApp collaborate to supply open cloud solutions ›
-*   Cloud Chatter: April 2017 ›
