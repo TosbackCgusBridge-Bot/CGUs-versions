@@ -29,9 +29,9 @@
 *   accessible view
     
 
-true true C15944015789
+true true C15944707123
 
-Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1c1j1 TIME :->. Mon May 08 11:15:34 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.6.1.0.1.0
+Your Store: selectedStoreName change store _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p22.jcpenney.com SERVER NAME :->. dtcomexpr1c2j1 TIME :->. Tue May 09 11:10:38 CDT 2017 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 2017.6.1.0.1.0
 
 *   for the home
 *   bed &. bath
@@ -56,7 +56,11 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 true
 
-Up to 65% Off Fine and Fashion Jewelry Mother's Day is May 14
+Love Mom Sale
+
+Mother's Day is May 14
+
+View Store Ad: Shop Sale Now:Up to 65% Off Fine and Fashion Jewelry
 
 Select styles
 
@@ -68,19 +72,15 @@ Shop All Gifts Gifts Under $25 Gifts Under $50Spend $75 on Gift Cards and Get a 
 
 Ends May 14. Redeemable 5/15/17-5/31/17 in store &. online. Some restrictions apply. Applies to E-Gift Cards &. Gift Cards purchased in store.
 
-Now Trending: Color Up Spring Up to 55% Off Home Sale
+Now Trending: Brights Shop the Trend 49.99 Plus-Size Off-The-Shoulder Dress, select styles, orig. $86   37.99 Women's Sandals, select styles, reg. $60 39.99 Bold-Shoulder Maxi Dress, select styles, orig. $68   Now Trending: Color Up Spring Up to 55% Off Home Sale
 
 Select styles
 
-Shop Color Up Spring Trend Shop All Home Bedding Window Kitchen &. Dining Furniture &. Mattresses Home Decor Baby Sale Up to 50% Off
-
-Ends May 29. Select styles.
-
-Baby Essentials Baby Gifts Baby Gear Baby Furniture Disney|Pixar Cars 3 In Theaters June 16
+Shop Color Up Spring Trend Shop All Home Bedding Window Kitchen &. Dining Furniture &. Mattresses Home Decor Disney|Pixar Cars 3 In Theaters June 16
 
 © Disney/Pixar. Disney excluded from coupon.
 
-Shop Now Watch the Trailer \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon May 08 22:42:37 CDT 2017 JVM :->. dtexppr1c1j2\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. colldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Mon May 08 22:42:37 CDT 2017 JVM :->. dtexppr1c1j5\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
+Shop Now Watch the Trailer \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagecontentgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue May 09 22:22:04 CDT 2017 JVM :->. dtexppr1l2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* homepagebelowgrid HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue May 09 22:24:04 CDT 2017 JVM :->. dtexppr1l2j4\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true
 
 get connected
 
