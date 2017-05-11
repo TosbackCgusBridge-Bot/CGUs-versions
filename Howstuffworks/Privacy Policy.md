@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Comets Are Oxygen Factories**
+**Using TARDIS to Mathematically Travel Through Time**
 
-**Watch Cuttlefish Brawl Over a Mate in Unprecedented Video**
+**Grandparents' Child Care Habits Can Be Outdated, Potentially Harmful**
 
-**Rising Sea Levels Mean These U.S. Cities Should Prep for Millions of Migrants**
+**Does Alternate-Day Fasting Work? It Depends on the Person**
 
 **See More Headlines »**
 
