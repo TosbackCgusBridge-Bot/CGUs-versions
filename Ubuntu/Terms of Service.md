@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Why language choices can be irrelevant when choosing the right IoT OS ›
+*   Crowd funding the Radio access technology ›
+*   10 snaps written in April ›
 *   Canonical and Qualcomm: Delivering Unprecedented Scaling ›
-*   Consortium GARR creates countywide Federated Canonical OpenStack Cloud ›
-*   Webinar: Delivering the value of IoT in the retail industry ›
-*   ROS production: create Ubuntu Core image with snap preinstalled \[5/5\] ›
-*   Video: Managed OpenStack upgrades ›
+*   Consortium GARR creates countrywide Federated Canonical OpenStack ›
