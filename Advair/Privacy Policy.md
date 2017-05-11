@@ -164,7 +164,6 @@ GSK Global Website www.gsk.com
     *   Corporate Reporting
     *   Social media
     *   Image and video library
-*   Blog
 *   Business to business
     *   Business to business
     *   US Supplier Diversity
