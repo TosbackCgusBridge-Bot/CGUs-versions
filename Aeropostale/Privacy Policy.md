@@ -137,14 +137,17 @@ Aéropostale
 *   Trending
     
     *   GIRLS
+    *   Ruffles
+    *   Denim Details
     *   Festival Vibes
     *   Off the Shoulder
-    *   Peasant Tops
     
     *   GUYS
-    *   Surf Wash Tees
+    *   Printed
+    *   Denim Shorts
     
     *   LIVE LOVE DREAM
+    *   Retro Stripes
     *   Black White &. Mesh Allover
 
 *   Go
