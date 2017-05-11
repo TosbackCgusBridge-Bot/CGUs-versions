@@ -8,12 +8,12 @@ Menu PayPal
     *   eBay Payments _Speed through checkout on eBay_
     *   Shopping and More _Deals, gift cards and donations_
 *   Business
-    *   All Business Solutions _Merchant services, invoicing and products_
+    *   All Business Solutions _Merchant services, invoicing, and more_
+    *   Get Paid in Person _Mobile card readers and POS Solutions_
+    *   Get Paid on Your Website _Accept credit &. debit cards and PayPal_
     *   Borrow for Your Business _Affordable business loans_
-    *   Credit Card Processing _Accept debit and credit cards_
-    *   Mobile Card Reader _Use with your phone or tablet on the go_
-    *   Add PayPal to Your Checkout _Add the button and accept cards online_
-    *   Point of Sale Solutions _Get paid in your store_
+    *   Add PayPal to Your Checkout _Access customers who prefer PayPal_
+    *   Offer Credit to Your Customers _Promote financing to help increase sales_
 *   Send
     
 *   Request
@@ -26,16 +26,25 @@ If the description sounded better than what showed up, PayPal can cover you.\*
 
 Sign Up for Free
 
-Watch the Video
+Learn About Our Features
 
 \*See Eligibility.
 
-From everyday purchases to running a business,  
-people around the world rely on us to pay and get paid. How PayPal Works Looking for business solutions?
+Looking for business solutions?
 
 PayPal makes it easy to get paid securely anywhere you do business: online, on mobile, in person or via an invoice.
 
-Explore Business Solutions
+Explore Business Solutions Hello, cash flow.
+
+For a limited time, accept $50,000 in payments with PayPal, and get pre-selected for a $5,000 business loan with no credit check.1
+
+Learn more Got an idea for a business?
+
+We can help make it a reality with Business in a Box—everything you need to launch or grow a successful online business.
+
+Learn more
+
+1This promotion (pre-selection for a $5,000 PayPal Working Capital business loan) is only for new PayPal business customers who opt into the promotion. To qualify for this promotion, your business must open a first-time U.S. PayPal business account. begin processing sales within 60 days, process between $50,000 and $10 million in PayPal sales within 240 days of opening the PayPal account. and apply, be approved, and accept PayPal Working Capital between 90 and 240 days of opening the PayPal business account. Only one loan may be funded under the terms of the promotion. however, subject to lender approval, you may be eligible for PayPal Working Capital outside of this promotion. To be eligible to apply for PayPal Working Capital outside of this promotion, your business must have a PayPal business or premier account for at least 90 days and process between $15,000 (or for premier accounts $20,000) and $10 million in PayPal sales within those 90 days or within any time period less than or equal to 12 months. Only one PayPal Working Capital loan may be open at one time on any account. PayPal sales include processing on PayPal Express Checkout, PayPal Payments Standard, PayPal Payments Pro, and PayPal Here. PayPal Working Capital is subject to approval, as determined by the lender, WebBank, member FDIC.
 
 Join 200+ million people who use PayPal to
 
