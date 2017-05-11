@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms U.S. had 2nd wettest, 11th warmest April on record National drought recedes to record-low level AROUND NOAA // Get your #HurricanePrep on: Hurricane Preparedness Week runs May 7-13 NOAA and Air Force Reserve hurricane teams to visit East Coast cities Watch live: NOAA Ship Okeanos Explorer probes seamounts, deep-water areas of central Pacific
+Enter Search Terms U.S. had 2nd wettest, 11th warmest April on record National drought recedes to record-low level AROUND NOAA // Get your #HurricanePrep on: Hurricane Preparedness Week runs May 7-13 Science meets commerce: Aerial data collection helped this small business soar NOAA and Air Force Reserve hurricane teams to visit East Coast cities
 
 *   About our agency
 *   News and features
