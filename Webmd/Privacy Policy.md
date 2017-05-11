@@ -169,7 +169,7 @@ Skip to content Check Your Symptoms Find A Doctor Find Lowest Drug Prices Sign I
     
     Sign Up
 
-Subscribe WebMD Home About WebMD Policies Print Article WebMD Privacy Policy Summary
+Subscribe WebMD Home About WebMD Policies Print Article WebMD Privacy Policy
 
 En español
 
