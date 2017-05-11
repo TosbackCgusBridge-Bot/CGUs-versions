@@ -31,6 +31,7 @@
         *   Plus Sizes
         *   buckle SELECT
         *   Promotions
+        *   Summer Lookbook!
         
         *   Tops
         
@@ -90,6 +91,7 @@
         *   Shop Instagram
         *   Buckle Exclusive
         *   buckle SELECT
+        *   Summer Lookbook!
         
         *   Tops
         
@@ -367,8 +369,6 @@ Promotions
 
 *   Buckle Card Take Two!
 *   Brand Madness Official Rules
-*   OakleyXBuckle Supercross Sweepstakes St. Louis Official Rules
-*   OakleyXBuckle Supercross Sweepstakes Seattle Official Rules
 *   F8 Red Carpet Sweepstakes Official Rules
 *   Social Giveaway Official Rules
 *   Store Events
