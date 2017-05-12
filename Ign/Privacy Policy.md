@@ -15,7 +15,7 @@ Ziff Davis, LLC, its affiliates and its subsidiaries (collectively, **“Ziff Da
 This Privacy Policy covers information collected through these websites and mobile applications:
 
 *   Ziff Davis
-*   PCMag, PCMag UK, PCMag Australia
+*   PCMag, PCMag Canada, PCMag UK, PCMag Australia
 *   Toolbox.com, Inside CRM, Inside-Erp, IT Management, IT Security, VoIP-News
 *   IGN, IGN Canada, IGN UK, IGN Australia, IGN Mobile
 *   ExtremeTech
@@ -66,6 +66,16 @@ The practices described in Sections 1 through 9 below generally apply to all Ser
 1\. What information we collect.
 
 We may collect Personal Information from you or from other sources. **“Personal Information”** generally means information that might reasonably be used to specifically identify you and may include information such as:
+
+*   Contact information, such as your name, postal address, email address, phone number and/or mobile number;
+*   Demographic information such as gender, job information and company information;
+*   Age and/or date of birth;
+*   User name and password. and
+*   Geolocation data.
+
+We do not intentionally collect data such as financial information or data concerning racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership.
+
+We also collect other kinds of information from you or other sources, which we refer to as **“Other Information”** in this Privacy Policy. The type of information we collect may change as technologies evolve. Other Information may include, but is not limited to, information such as:
 
 *   Areas or topics of interest;
 *   Browsing history, including the websites or other services you visited before and after visiting the Services;
@@ -190,7 +200,7 @@ _**California Residents**_ . In accordance with the California Online Privacy Pr
 Ziff Davis  
 28 E 28th Street  
 New York, NY 10016  
-Attn: Legal Department  
+Attn: Legal Department
 
 6\. Information for users located outside the U.S.
 
@@ -198,7 +208,7 @@ The Services operate and are hosted in the United States and, depending on your 
 
 Please note that we may use data collected by a third party operator/licensee of localized versions or editions of Services.
 
-Ziff Davis’ privacy practices described in this Privacy Policy comply with the Asia-Pacific Economic Cooperation (“**APEC**”) Cross Border Privacy Rules System. To learn more about this program, please click here.
+Ziff Davis privacy practices described in this Privacy Policy comply with the Asia-Pacific Economic Cooperation (“**APEC**”) Cross Border Privacy Rules System. To learn more about this program, please click here.
 
 Ziff Davis, LLC and its U.S. subsidiaries IGN Entertainment, Inc., emedia Communications, LLC, SaleBuild, Inc. d/b/a Salesify and B2BSignals, Offers.com, LLC and Ookla, LLC participate in and have certified its compliance with the E.U.-U.S. Privacy Shield Framework. Ziff Davis is committed to subjecting all personal data received from European Union (E.U.) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles. To learn more about the Privacy Shield Framework, please visit the U.S. Department of Commerce’s Privacy Shield List. Ziff Davis is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequent transfers to a third party acting as an agent on its behalf. Ziff Davis complies with the Privacy Shield principles for all onward transfers of personal data from the E.U., including the onward transfer liability provisions. With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Ziff Davis is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Ziff Davis may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. If you are a European individual with a privacy related complaint, concern or question about Ziff Davis’ privacy practices, please contact us by writing to ZDLegal1@ziffdavis.com **(must include “Privacy Policy” in the subject line)** and we will respond within 45 days of receiving your request. Under certain conditions, more fully described on the Privacy Shield website, European individuals may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
@@ -233,7 +243,7 @@ If you have any questions on our Privacy Policy, you can contact us at ZDLegal1@
 Ziff Davis  
 28 E 28th Street  
 New York, NY 10016  
-Attn: Legal Department  
+Attn: Legal Department
 
 If you have an unresolved privacy of data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) by clicking here.
 
