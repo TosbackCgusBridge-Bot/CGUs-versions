@@ -180,169 +180,169 @@ Contacting Us
 
 Users with questions about this Terms of Service and any of the above statements may contact the Company by writing to: Ifwe Inc., 101A Clay St, Box #117, San Francisco, CA 94111.
 
-1.  In order to access or register for our Sites you have to agree to the rules in this Agreement. ↩
+1.  In order to access or register for our Sites you have to agree to the rules in this Agreement. ↩︎
     
-2.  You have to be at least 18 years old to use the Services. ↩
+2.  You have to be at least 18 years old to use the Services. ↩︎
     
-3.  These side summaries are for your reference, so that you can easily find information within the Agreement. ↩
+3.  These side summaries are for your reference, so that you can easily find information within the Agreement. ↩︎
     
-4.  Please read the entire Agreement to your left for all details governing the use of the Services. ↩
+4.  Please read the entire Agreement to your left for all details governing the use of the Services. ↩︎
     
-5.  We can change the terms of this Agreement at any time. ↩
+5.  We can change the terms of this Agreement at any time. ↩︎
     
-6.  We will provide a notice on the site if there is a major change. ↩
+6.  We will provide a notice on the site if there is a major change. ↩︎
     
-7.  It is your responsibility to ensure that you are aware of any changes. ↩
+7.  It is your responsibility to ensure that you are aware of any changes. ↩︎
     
-8.  If you disagree with the current rules or any changes to the rules you should cancel your account. ↩
+8.  If you disagree with the current rules or any changes to the rules you should cancel your account. ↩︎
     
-9.  You can view our Services and features on the website. ↩
+9.  You can view our Services and features on the website. ↩︎
     
-10.  We can change or discontinue the Services and features offered on the site at any time. ↩
+10.  We can change or discontinue the Services and features offered on the site at any time. ↩︎
     
-11.  If you engage in prohibited behavior we may suspend or cancel your account. ↩
+11.  If you engage in prohibited behavior we may suspend or cancel your account. ↩︎
     
-12.  We have the right to monitor your account and any of your content, communication or behavior associated with that account to ensure that you are following the rules. ↩
+12.  We have the right to monitor your account and any of your content, communication or behavior associated with that account to ensure that you are following the rules. ↩︎
     
-13.  We may terminate your account if we find that you are in violation of any of our rules or if we find that you are engaged in prohibited behavior. ↩
+13.  We may terminate your account if we find that you are in violation of any of our rules or if we find that you are engaged in prohibited behavior. ↩︎
     
-14.  You shall not engage in harassment or stalking. ↩
+14.  You shall not engage in harassment or stalking. ↩︎
     
-15.  You shall not provide any information that is false or belongs to another person. ↩
+15.  You shall not provide any information that is false or belongs to another person. ↩︎
     
-16.  You shall not pretend to be someone that you are not. ↩
+16.  You shall not pretend to be someone that you are not. ↩︎
     
-17.  You shall not use this site to sell or advertise anything without written permission from us. ↩
+17.  You shall not use this site to sell or advertise anything without written permission from us. ↩︎
     
-18.  You shall not send spam or junk mail. ↩
+18.  You shall not send spam or junk mail. ↩︎
     
-19.  You shall not use any abusive language. ↩
+19.  You shall not use any abusive language. ↩︎
     
-20.  You shall not post any illegal content or participate in any illegal activity. ↩
+20.  You shall not post any illegal content or participate in any illegal activity. ↩︎
     
-21.  You shall not post pornographic or other inappropriate material. ↩
+21.  You shall not post pornographic or other inappropriate material. ↩︎
     
-22.  You shall not provide information instructing others on how to commit illegal acts. ↩
+22.  You shall not provide information instructing others on how to commit illegal acts. ↩︎
     
-23.  You shall not attempt to access an account or information that does not belong to you. ↩
+23.  You shall not attempt to access an account or information that does not belong to you. ↩︎
     
-24.  You shall not attempt to impair the Services. ↩
+24.  You shall not attempt to impair the Services. ↩︎
     
-25.  You shall not collect personal data about other Members. ↩
+25.  You shall not collect personal data about other Members. ↩︎
     
-26.  You shall not try to gain access to another user’s account. ↩
+26.  You shall not try to gain access to another user’s account. ↩︎
     
-27.  You shall not attempt buy or sell Gold or user accounts. ↩
+27.  You shall not attempt buy or sell Gold or user accounts. ↩︎
     
-28.  We will solely decide whether you violate any guideline and may prevent you from uploading content, may delete your content and your entire account. ↩
+28.  We will solely decide whether you violate any guideline and may prevent you from uploading content, may delete your content and your entire account. ↩︎
     
-29.  See our Privacy Policy for details on what information we collect and use. We can choose to store certain data for an infinite amount of time. ↩
+29.  See our Privacy Policy for details on what information we collect and use. We can choose to store certain data for an infinite amount of time. ↩︎
     
-30.  We can choose to store certain data for an infinite amount of time. ↩
+30.  We can choose to store certain data for an infinite amount of time. ↩︎
     
-31.  You agree to receive commercial messages from us. ↩
+31.  You agree to receive commercial messages from us. ↩︎
     
-32.  Don’t share your password or login information. ↩
+32.  Don’t share your password or login information. ↩︎
     
-33.  Tagged Gold is virtual currency that can only be used on the Tagged site for Tagged Services. ↩
+33.  Tagged Gold is virtual currency that can only be used on the Tagged site for Tagged Services. ↩︎
     
-34.  You are not allowed to buy Tagged Gold outside of the Tagged website. ↩
+34.  You are not allowed to buy Tagged Gold outside of the Tagged website. ↩︎
     
-35.  You are not allowed to sell or give away Tagged Gold. ↩
+35.  You are not allowed to sell or give away Tagged Gold. ↩︎
     
-36.  Purchases of Gold are not refundable, even if your account is cancelled. ↩
+36.  Purchases of Gold are not refundable, even if your account is cancelled. ↩︎
     
-37.  We offer a VIP membership at a monthly cost. ↩
+37.  We offer a VIP membership at a monthly cost. ↩︎
     
-38.  If you access our Services through your mobile phone, your mobile phone company may charge you for use of data. You are responsible for these charges. ↩
+38.  If you access our Services through your mobile phone, your mobile phone company may charge you for use of data. You are responsible for these charges. ↩︎
     
-39.  When you use your mobile phone we may collect additional information, including your location. ↩
+39.  When you use your mobile phone we may collect additional information, including your location. ↩︎
     
-40.  Our content is protected by certain rights, including copyrights, trademarks, service marks, patents, etc. ↩
+40.  Our content is protected by certain rights, including copyrights, trademarks, service marks, patents, etc. ↩︎
     
-41.  You may not use our content outside what is allowed by these terms. ↩
+41.  You may not use our content outside what is allowed by these terms. ↩︎
     
-42.  We do not allow infringement of a copyright holder's rights. Any known infringement should be reported to us. ↩
+42.  We do not allow infringement of a copyright holder's rights. Any known infringement should be reported to us. ↩︎
     
-43.  You may not post content unless they have the right to grant us rights to the content. ↩
+43.  You may not post content unless they have the right to grant us rights to the content. ↩︎
     
-44.  We do not allow infringement of a copyright holder's rights. Any known infringement should be reported to us. ↩
+44.  We do not allow infringement of a copyright holder's rights. Any known infringement should be reported to us. ↩︎
     
-45.  Please notify us of any copyright infringement by contacting us directly. ↩
+45.  Please notify us of any copyright infringement by contacting us directly. ↩︎
     
-46.  Please provide the requested information so that we can take necessary action and remove the infringing content. ↩
+46.  Please provide the requested information so that we can take necessary action and remove the infringing content. ↩︎
     
-47.  You agree to resolve all disputes with us through arbitration. ↩
+47.  You agree to resolve all disputes with us through arbitration. ↩︎
     
-48.  In addition to arbitration, you or the Company may file a claim in small claims court or bring a claim to the attention of the federal, state or local government. ↩
+48.  In addition to arbitration, you or the Company may file a claim in small claims court or bring a claim to the attention of the federal, state or local government. ↩︎
     
-49.  You and the Company waive any rights to trial by jury and all rights to participate in a class action. ↩
+49.  You and the Company waive any rights to trial by jury and all rights to participate in a class action. ↩︎
     
-50.  Before beginning the arbitration process either you or the Compaby has to provide a notice to the other party. ↩
+50.  Before beginning the arbitration process either you or the Compaby has to provide a notice to the other party. ↩︎
     
-51.  You must mail the notice to the Company. The Compaby may send the notice to your email address. ↩
+51.  You must mail the notice to the Company. The Compaby may send the notice to your email address. ↩︎
     
-52.  After receiving notice we will both try to resolve the dispute. ↩
+52.  After receiving notice we will both try to resolve the dispute. ↩︎
     
-53.  If we cannot reach an agreement within 30 days, then you or the Company can start the Arbitration process. ↩
+53.  If we cannot reach an agreement within 30 days, then you or the Company can start the Arbitration process. ↩︎
     
-54.  Arbitration will be conducted by the American Arbitration Association (AAA). ↩
+54.  Arbitration will be conducted by the American Arbitration Association (AAA). ↩︎
     
-55.  You may submit a request for payment assistance to the Company. ↩
+55.  You may submit a request for payment assistance to the Company. ↩︎
     
-56.  The Company will provide assistance with payment of arbitration fee if you are unable to pay and otherwise qualify for the assistance. ↩
+56.  The Company will provide assistance with payment of arbitration fee if you are unable to pay and otherwise qualify for the assistance. ↩︎
     
-57.  The arbitration will be conducted by the AAA, under their rules. ↩
+57.  The arbitration will be conducted by the AAA, under their rules. ↩︎
     
-58.  All arbitrations will take place in San Francisco, California. ↩
+58.  All arbitrations will take place in San Francisco, California. ↩︎
     
-59.  If the amount in dispute is less than $10,000, you may choose to conduct the arbitration by phone or through document submission. ↩
+59.  If the amount in dispute is less than $10,000, you may choose to conduct the arbitration by phone or through document submission. ↩︎
     
-60.  If your claim is for $10,000 or less you may be entitled to have us pay for all the arbitration fees. ↩
+60.  If your claim is for $10,000 or less you may be entitled to have us pay for all the arbitration fees. ↩︎
     
-61.  Until the arbitrator issues a monetary award neither you nor the Company will disclose any settlement offers to the arbitrator. ↩
+61.  Until the arbitrator issues a monetary award neither you nor the Company will disclose any settlement offers to the arbitrator. ↩︎
     
-62.  If an arbitration results in an award to you that is greater than our last written offer, you may be entitled to receive additional fees from us. ↩
+62.  If an arbitration results in an award to you that is greater than our last written offer, you may be entitled to receive additional fees from us. ↩︎
     
-63.  If we did not make any written offer and an arbitrator issues an award you and your attorney may be entitled to receive additional awards. ↩
+63.  If we did not make any written offer and an arbitrator issues an award you and your attorney may be entitled to receive additional awards. ↩︎
     
-64.  You and and the Company agree that any claims brought will be solely on behalf of you or the Company and not as part of a class action. ↩
+64.  You and and the Company agree that any claims brought will be solely on behalf of you or the Company and not as part of a class action. ↩︎
     
-65.  We may request the AAA to combine related arbitration claims from members when such claims are related. ↩
+65.  We may request the AAA to combine related arbitration claims from members when such claims are related. ↩︎
     
-66.  If the AAA grants you an award that is higher than the last written settlement offer from us, if any, you may be entitled to additional fees from us above the amount of the award granted by the AAA. ↩
+66.  If the AAA grants you an award that is higher than the last written settlement offer from us, if any, you may be entitled to additional fees from us above the amount of the award granted by the AAA. ↩︎
     
-67.  If we did not make any written settlement offer prior to arbitration you may also be entitled to receive additional fees. ↩
+67.  If we did not make any written settlement offer prior to arbitration you may also be entitled to receive additional fees. ↩︎
     
-68.  If we change this Dispute provision you may reject the change by a written notice to us and reaffirm that you and the Company will only resolve disputes through arbitration. ↩
+68.  If we change this Dispute provision you may reject the change by a written notice to us and reaffirm that you and the Company will only resolve disputes through arbitration. ↩︎
     
-69.  We are not required to become involved with disputes between you and any other participant on the site. ↩
+69.  We are not required to become involved with disputes between you and any other participant on the site. ↩︎
     
-70.  We will not be responsible for any disputes between you and another participant on the site. ↩
+70.  We will not be responsible for any disputes between you and another participant on the site. ↩︎
     
-71.  We have the right to cancel your account for any reason or without a reason. ↩
+71.  We have the right to cancel your account for any reason or without a reason. ↩︎
     
-72.  We will not be required to provide you with copies of your account content once your account is cancelled. This may include photos, videos and messages. ↩
+72.  We will not be required to provide you with copies of your account content once your account is cancelled. This may include photos, videos and messages. ↩︎
     
-73.  We are providing services on an "as is" basis and makes no promises that the site or its services are intended to fulfill a particular purpose. ↩
+73.  We are providing services on an "as is" basis and makes no promises that the site or its services are intended to fulfill a particular purpose. ↩︎
     
-74.  We are not responsible for any goods or services received through, advertised or otherwise displayed on the site. ↩
+74.  We are not responsible for any goods or services received through, advertised or otherwise displayed on the site. ↩︎
     
-75.  We will not be responsible for any damages resulting from your use or misuse of the site. ↩
+75.  We will not be responsible for any damages resulting from your use or misuse of the site. ↩︎
     
-76.  We will not be responsible for any damages resulting from services or products advertised or displayed on the site. ↩
+76.  We will not be responsible for any damages resulting from services or products advertised or displayed on the site. ↩︎
     
-77.  If your breach of this Agreement results in a dispute involving the Company and related parties, you will be responsible for any attorney's fees, court costs, penalties, monetary payments due and any other required action that is required to correct the injury resulting from your breach. ↩
+77.  If your breach of this Agreement results in a dispute involving the Company and related parties, you will be responsible for any attorney's fees, court costs, penalties, monetary payments due and any other required action that is required to correct the injury resulting from your breach. ↩︎
     
-78.  If there are any disputes between you and the Company, they will be governed by California law and this Agreement will be interpreted under California Law. ↩
+78.  If there are any disputes between you and the Company, they will be governed by California law and this Agreement will be interpreted under California Law. ↩︎
     
-79.  Any claims filed by you related to this Agreement must be filed within 1 year of the incident. ↩
+79.  Any claims filed by you related to this Agreement must be filed within 1 year of the incident. ↩︎
     
-80.  This Agreement governs your use of the Site. ↩
+80.  This Agreement governs your use of the Site. ↩︎
     
-81.  You may also be subject to additional rules from our affiliate services that may apply to third-party content or software. ↩
+81.  You may also be subject to additional rules from our affiliate services that may apply to third-party content or software. ↩︎
     
-82.  These side summaries are for your reference only. Please read the entire agreement to your left for all details governing your use of our Sites. ↩
+82.  These side summaries are for your reference only. Please read the entire agreement to your left for all details governing your use of our Sites. ↩︎
     
 
 PRIVACY POLICY
@@ -487,117 +487,117 @@ Contacting Us
 
 Effective Date November 16, 2016
 
-1.  Our Privacy Policy describes what information we collect and how we use it. ↩
+1.  Our Privacy Policy describes what information we collect and how we use it. ↩︎
     
-2.  These side summaries are for your reference, so that you can easily find information within the policy. ↩
+2.  These side summaries are for your reference, so that you can easily find information within the policy. ↩︎
     
-3.  Please read the entire Privacy Policy to your left for all details governing the collection and use of your information. ↩
+3.  Please read the entire Privacy Policy to your left for all details governing the collection and use of your information. ↩︎
     
-4.  Our Sites are general audience websites for Members who are 18 years of age or older. ↩
+4.  Our Sites are general audience websites for Members who are 18 years of age or older. ↩︎
     
-5.  If we discover that your age has been falsified and that your age is under 18, we can terminate your account and delete your personal information from the Site. ↩
+5.  If we discover that your age has been falsified and that your age is under 18, we can terminate your account and delete your personal information from the Site. ↩︎
     
-6.  COPPA is a law intended to protect children who are under 13 years of age. ↩
+6.  COPPA is a law intended to protect children who are under 13 years of age. ↩︎
     
-7.  Even though we are a general audience website for Members who are 18 years of age or older, we have a process in place designed to remove any Members found to be under 13 years of age and provide parents with a direct contact if they discover that their child has signed up for our Site by using a false age. ↩
+7.  Even though we are a general audience website for Members who are 18 years of age or older, we have a process in place designed to remove any Members found to be under 13 years of age and provide parents with a direct contact if they discover that their child has signed up for our Site by using a false age. ↩︎
     
-8.  You are required to provide certain information if you want to register as a Member of a Site. ↩
+8.  You are required to provide certain information if you want to register as a Member of a Site. ↩︎
     
-9.  You are also required to verify your account through email. ↩
+9.  You are also required to verify your account through email. ↩︎
     
-10.  We use some of your information to allow you to interact with other Members and to enhance your experience on the Site. ↩
+10.  We use some of your information to allow you to interact with other Members and to enhance your experience on the Site. ↩︎
     
-11.  Some of your information can be used to allow Members to search for you. ↩
+11.  Some of your information can be used to allow Members to search for you. ↩︎
     
-12.  We publicly display some of your personal information, such as your picture and name, in your User profile. ↩
+12.  We publicly display some of your personal information, such as your picture and name, in your User profile. ↩︎
     
-13.  Your account will be visible to everyone. ↩
+13.  Your account will be visible to everyone. ↩︎
     
-14.  When you post content using the “everyone” setting, you are allowing anyone to view the post, including people who are not Site Members. ↩
+14.  When you post content using the “everyone” setting, you are allowing anyone to view the post, including people who are not Site Members. ↩︎
     
-15.  We use your profile information to improve our services. ↩
+15.  We use your profile information to improve our services. ↩︎
     
-16.  We use your email address to communicate with you. ↩
+16.  We use your email address to communicate with you. ↩︎
     
-17.  If you import your email address book, we may use the email addresses that are uploaded to invite your friends to a Site. ↩
+17.  If you import your email address book, we may use the email addresses that are uploaded to invite your friends to a Site. ↩︎
     
-18.  We store the information that you post or share on the Site. ↩
+18.  We store the information that you post or share on the Site. ↩︎
     
-19.  We track your behavior on the Site so that we can use the information to improve our Site. We may also share aggregated versions of this information with advertisers. ↩
+19.  We track your behavior on the Site so that we can use the information to improve our Site. We may also share aggregated versions of this information with advertisers. ↩︎
     
-20.  We receive information from the computers and servers that you may use when accessing our Site. ↩
+20.  We receive information from the computers and servers that you may use when accessing our Site. ↩︎
     
-21.  We use cookies, pixel tags, clickstream data, local storage and other tracking devices. ↩
+21.  We use cookies, pixel tags, clickstream data, local storage and other tracking devices. ↩︎
     
-22.  We may share this information with our partners. ↩
+22.  We may share this information with our partners. ↩︎
     
-23.  You can change your browser settings to prohibit tracking devices but this may limit your use of our Site. ↩
+23.  You can change your browser settings to prohibit tracking devices but this may limit your use of our Site. ↩︎
     
-24.  Our advertisers may also use various cookies and tracking devices. ↩
+24.  Our advertisers may also use various cookies and tracking devices. ↩︎
     
-25.  We have no control over how our advertisers use these cookies and tracking devices but you can limit their use. ↩
+25.  We have no control over how our advertisers use these cookies and tracking devices but you can limit their use. ↩︎
     
-26.  Sometimes we share information with advertisers. They may use such information to show you specially tailored ads and products. ↩
+26.  Sometimes we share information with advertisers. They may use such information to show you specially tailored ads and products. ↩︎
     
-27.  We may also share aggregated information about our Members. ↩
+27.  We may also share aggregated information about our Members. ↩︎
     
-28.  Other websites may place identifying user information in your browser address. When you visit one of our Sites, we may store such information from your browser address. ↩
+28.  Other websites may place identifying user information in your browser address. When you visit one of our Sites, we may store such information from your browser address. ↩︎
     
-29.  Any Do Not Track Signals submitted to us will be ignored. ↩
+29.  Any Do Not Track Signals submitted to us will be ignored. ↩︎
     
-30.  We have no control over third party advertisers who may be collecting information about your behavior across different websites. ↩
+30.  We have no control over third party advertisers who may be collecting information about your behavior across different websites. ↩︎
     
-31.  We are not responsible for any links on our Site that direct you to a website not owned by us. ↩
+31.  We are not responsible for any links on our Site that direct you to a website not owned by us. ↩︎
     
-32.  We work with third party companies who help us provide and improve our Services or who use advertising or related products. ↩
+32.  We work with third party companies who help us provide and improve our Services or who use advertising or related products. ↩︎
     
-33.  We use all of the information we have about you to show you relevant ads. ↩
+33.  We use all of the information we have about you to show you relevant ads. ↩︎
     
-34.  We transfer information to vendors, service providers, and other partners who globally support our business. ↩
+34.  We transfer information to vendors, service providers, and other partners who globally support our business. ↩︎
     
-35.  Please be aware that any third party websites and ad server ads that are found on the Services may use cookies, pixel tags, local storage and similar technologies. ↩
+35.  Please be aware that any third party websites and ad server ads that are found on the Services may use cookies, pixel tags, local storage and similar technologies. ↩︎
     
-36.  You grant us rights to use any content that you upload or share on our Site. ↩
+36.  You grant us rights to use any content that you upload or share on our Site. ↩︎
     
-37.  We may use your content and name in connection with endorsements or advertisements promoting our Sites and Services. ↩
+37.  We may use your content and name in connection with endorsements or advertisements promoting our Sites and Services. ↩︎
     
-38.  Once you remove content from our Site we no longer have the right to use your content. However, if your content has already been placed into an endorsement or advertisement we will keep the right to use it. We also have the right to keep such content in backup records. ↩
+38.  Once you remove content from our Site we no longer have the right to use your content. However, if your content has already been placed into an endorsement or advertisement we will keep the right to use it. We also have the right to keep such content in backup records. ↩︎
     
-39.  You can use the Invite Friends feature to send email invites to your friends, asking them to join our Sites. ↩
+39.  You can use the Invite Friends feature to send email invites to your friends, asking them to join our Sites. ↩︎
     
-40.  We may offer surveys and contests. If you choose to participate you may need to provide additional information that might be shared with third parties. ↩
+40.  We may offer surveys and contests. If you choose to participate you may need to provide additional information that might be shared with third parties. ↩︎
     
-41.  We may share your information with others if required by law or if we think it is necessary to protect the rights, property or safety of its Members or the general public. ↩
+41.  We may share your information with others if required by law or if we think it is necessary to protect the rights, property or safety of its Members or the general public. ↩︎
     
-42.  We may store all of your information indefinitely. Depending on business need we may decide to delete certain information and have no obligation to store the information for any specified period of time. ↩
+42.  We may store all of your information indefinitely. Depending on business need we may decide to delete certain information and have no obligation to store the information for any specified period of time. ↩︎
     
-43.  We use industry standards to prevent misuse and improper access of your data. ↩
+43.  We use industry standards to prevent misuse and improper access of your data. ↩︎
     
-44.  Although we try our best, we cannot guarantee that the measures we take will be sufficient to protect your information from third party access. ↩
+44.  Although we try our best, we cannot guarantee that the measures we take will be sufficient to protect your information from third party access. ↩︎
     
-45.  You can update or correct your information at any time. ↩
+45.  You can update or correct your information at any time. ↩︎
     
-46.  You may cancel your account at any time. ↩
+46.  You may cancel your account at any time. ↩︎
     
-47.  We will contact you through email. You can manage the types of emails that you receive within your account settings. ↩
+47.  We will contact you through email. You can manage the types of emails that you receive within your account settings. ↩︎
     
-48.  If you cancel your account we will stop sending you communication. However, you may still receive emails from us if your friend sends you a message to join or from third parties if we shared your information before you cancelled. ↩
+48.  If you cancel your account we will stop sending you communication. However, you may still receive emails from us if your friend sends you a message to join or from third parties if we shared your information before you cancelled. ↩︎
     
-49.  We prohibit Members from sending any form of commercial solicitation. ↩
+49.  We prohibit Members from sending any form of commercial solicitation. ↩︎
     
-50.  This includes any unsolicited messages or postings attempting to advertise or sell goods or services and any other spam or junk messages. ↩
+50.  This includes any unsolicited messages or postings attempting to advertise or sell goods or services and any other spam or junk messages. ↩︎
     
-51.  We may take legal action against anyone who breaks these rules and may report your actions to the authorities, which could result in civil and criminal penalties. ↩
+51.  We may take legal action against anyone who breaks these rules and may report your actions to the authorities, which could result in civil and criminal penalties. ↩︎
     
-52.  If our Company is sold, or otherwise changes ownership, We may transfer all of your information to the new owner. ↩
+52.  If our Company is sold, or otherwise changes ownership, We may transfer all of your information to the new owner. ↩︎
     
-53.  You will get a notification if such a change of ownership occurs and will have the chance to change your registration information. ↩
+53.  You will get a notification if such a change of ownership occurs and will have the chance to change your registration information. ↩︎
     
-54.  We can revise this Privacy Policy at any time. If we make major changes to how we use your information we will provide you with notice. ↩
+54.  We can revise this Privacy Policy at any time. If we make major changes to how we use your information we will provide you with notice. ↩︎
     
-55.  California residents have special rights under California law. ↩
+55.  California residents have special rights under California law. ↩︎
     
-56.  You can contact us directly with any questions about our Privacy Policy. ↩
+56.  You can contact us directly with any questions about our Privacy Policy. ↩︎
     
 
 © 2017 Ifwe Inc. Mobile Company Jobs Advertise Privacy Terms Report Abuse Support English English Bahasa Melayu Basa Jawa Español - América Latina Español - España Español - México Deutsch Français Italiano Magyar Nederlands Português - Brasil Português Русский Română Türkçe বাংলা 中文 (简体) 中文 (繁軆) हिन्दी 日本語 मराठी ਪੰਜਾਬੀ ไทย
