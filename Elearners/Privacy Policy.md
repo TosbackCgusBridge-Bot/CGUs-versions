@@ -165,7 +165,7 @@ Popular Topics:
 
 Online Degrees By Level
 
-*   Associates Degree
+*   Online Associates Degree
 *   Online Bachelors Degree
 *   Online Masters Programs
 *   Online PhD Programs
