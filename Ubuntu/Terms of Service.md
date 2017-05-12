@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Atom is now available as a snap for Ubuntu ›
+*   PCCW Global Chooses Ubuntu OpenStack and Juju ›
 *   Why language choices can be irrelevant when choosing the right IoT OS ›
 *   Crowd funding the Radio access technology ›
 *   10 snaps written in April ›
-*   Canonical and Qualcomm: Delivering Unprecedented Scaling ›
-*   Consortium GARR creates countrywide Federated Canonical OpenStack ›
