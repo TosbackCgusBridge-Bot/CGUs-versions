@@ -111,7 +111,7 @@ Menu
         *   Energy
         
         *   Healthcare
-        *   Technology
+        *   Technology Media &. Telecom
         *   See All Industries
     *   Solutions Expand Solutions Menu
         
