@@ -42,7 +42,6 @@ Aéropostale
     
     *   Live Love Dream
     *   Active
-    *   Yoga
     *   Lounge
     *   Bras
     *   Undies
