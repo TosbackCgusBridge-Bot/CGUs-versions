@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card Feel the Breeze. Shop Summer Denim. SHOP WOMEN. SHOP MEN.
+        Give a Buckle Gift card Last-Minute Mother’s Day Gift? Send a personalized eGift Card. SEE OPTIONS.
 *   Men
     *   *   Featured
         
@@ -135,7 +135,7 @@
         
           
           
-        Give a Buckle Gift card Feel the Breeze. Shop Summer Denim. SHOP WOMEN. SHOP MEN.
+        Give a Buckle Gift card Last-Minute Mother’s Day Gift? Send a personalized eGift Card. SEE OPTIONS.
 *   Kids
     *   *   Featured
         
@@ -157,7 +157,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Feel the Breeze. Shop Summer Denim. SHOP WOMEN. SHOP MEN.
+        Give a Buckle Gift card Last-Minute Mother’s Day Gift? Send a personalized eGift Card. SEE OPTIONS.
 *   Jeans
     *   *   Women's Jeans
         
@@ -187,7 +187,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Feel the Breeze. Shop Summer Denim. SHOP WOMEN. SHOP MEN.
+        Give a Buckle Gift card Last-Minute Mother’s Day Gift? Send a personalized eGift Card. SEE OPTIONS.
 *   New
     *   *   Featured New
         
@@ -226,7 +226,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Feel the Breeze. Shop Summer Denim. SHOP WOMEN. SHOP MEN.
+        Give a Buckle Gift card Last-Minute Mother’s Day Gift? Send a personalized eGift Card. SEE OPTIONS.
 *   Sale
     *   *   Women's Sale
         
@@ -269,7 +269,7 @@
         
           
           
-        Give a Buckle Gift card Feel the Breeze. Shop Summer Denim. SHOP WOMEN. SHOP MEN.
+        Give a Buckle Gift card Last-Minute Mother’s Day Gift? Send a personalized eGift Card. SEE OPTIONS.
 
 × Privacy &. Security
 
@@ -362,7 +362,6 @@ Shipping/Handling
 
 Returns
 
-*   Return Policy
 *   Easy Returns
 
 Promotions
