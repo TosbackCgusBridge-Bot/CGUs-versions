@@ -85,10 +85,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Wed, May 10, 2017 How to Conquer Targeted Email Threats: SANS Review of Agari Enterprise Protect
-
-Despite multiple layers of protection and user awareness training, phishing, ransomware and other socially engineered attacks are still the top means of impactful threats across enterprises, according to SANS surveys. Why? Because these messages look benign and seem to come from known senders (such as business partners or insiders) or nonthreatening senders, they too often pass inspection and arrive in the inbox.
-
 Tue, May 16, 2017 2017 Symantec Internet Threat Intelligence Report
 
 Join Kevin Haley, Director of Product Management for Symantec Security Technology and Response who will share insights and trends into the threat landscape including common vulnerabilities, ransomware trends and others including. 1) Subversion and Sabotage Attacks Emerge at the Forefront, 2) Nation States Chase the Big Scores, 3) Attackers Weaponize Commonly Used Software. Email Becomes the Weapon of Choice, 4) Caving in to Digital Extortion: Americans Most Likely to Pay Ransom Demands and 5) Cracks in the Cloud: The Next Frontier for Cyber Crime is Upon Us
@@ -100,6 +96,10 @@ Join OTA in Boston at this premiere event focused on IoT security.  Take advant
 Wed, May 24, 2017 Planning for the Future: A Conference About Identity Theft
 
 Ten years ago, President Bush launched a new era in the fight against identity theft by issuing an executive order establishing the Identity Theft Task Force, which the Commission co-chaired. In the ensuing ten years, great strides have been made to combat identity theft but it remains a significant problem for American consumers. The Federal Trade Commission will host an all-day conference to take a comprehensive look at how identity theft has evolved over the last decade and what we can do to address this challenge in the future.
+
+Tue, Jun 6, 2017 Privacy Risk Summit
+
+The GDPR embeds a risk-based approach to privacy management and drives technological innovations in privacy management the TRUSTe 2017 Privacy Risk Summit will bring together the industry’s top thinkers, practitioners and solution providers to share emerging best practices and tools and models for success.
 
 More >>.
 
