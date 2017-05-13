@@ -8,12 +8,12 @@ Menu PayPal
     *   eBay Payments _Speed through checkout on eBay_
     *   Shopping and More _Deals, gift cards and donations_
 *   Business
-    *   All Business Solutions _Merchant services, invoicing, and more_
-    *   Get Paid in Person _Mobile card readers and POS Solutions_
-    *   Get Paid on Your Website _Accept credit &. debit cards and PayPal_
+    *   All Business Solutions _Merchant services, invoicing and products_
     *   Borrow for Your Business _Affordable business loans_
-    *   Add PayPal to Your Checkout _Access customers who prefer PayPal_
-    *   Offer Credit to Your Customers _Promote financing to help increase sales_
+    *   Credit Card Processing _Accept debit and credit cards_
+    *   Mobile Card Reader _Use with your phone or tablet on the go_
+    *   Add PayPal to Your Checkout _Add the button and accept cards online_
+    *   Point of Sale Solutions _Get paid in your store_
 *   Send
     
 *   Request
