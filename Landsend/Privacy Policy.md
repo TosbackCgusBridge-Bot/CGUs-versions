@@ -94,6 +94,7 @@ menu 0 Free Shipping on $50+  |  Offers
     *   Supima Shirts &. Sweaters
     *   Swim Shop
     *   Occasion Dressing
+    *   Shirts Of Summer
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -308,6 +309,7 @@ menu 0 Free Shipping on $50+  |  Offers
     *   Gift Cards
     *   Personalized Gifts
     *   Wedding Gifts
+    *   Graduation Gifts
     *   Housewarming Gifts
     *   Outdoor Gifts
     *   Dog Shop
@@ -410,6 +412,7 @@ menu 0 Free Shipping on $50+  |  Offers
         *   Supima Shirts &. Sweaters
         *   Swim Shop
         *   Occasion Dressing
+        *   Shirts Of Summer
         *   Sale
     *   SHOP BY SIZE RANGE
         *   Back
@@ -629,6 +632,7 @@ menu 0 Free Shipping on $50+  |  Offers
         *   Gift Cards
         *   Personalized Gifts
         *   Wedding Gifts
+        *   Graduation Gifts
         *   Housewarming Gifts
         *   Outdoor Gifts
         *   Dog Shop
@@ -803,7 +807,7 @@ Interest-Based Advertisements/Online Advertisements
 
 Lands’ End works with third party service providers who help serve ads on our behalf on various online advertising networks. The online ad networks may use your browsing history across participating websites to show you interest-based advertisements on those websites. You may see ads for Lands’ End on participating websites based on how you browse our Site as well as how you browse those websites.
 
-To learn more about interest-based advertising‚ including how to opt out‚ please visit http://www.networkadvertising.org/choices. Please note that the opt-out mechanism relies on cookies to remember your choices with respect to ad-serving on websites. We may also use technologies‚ such as our own cookies‚ to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising‚ please visit http://dtmc.landsend.com/adinfo/choice/prod/. If you delete your cookies‚ use another computer or device‚ or change browsers‚ you will need to repeat the opt-out process. Other websites you visit may offer their own opt-outs. If you do opt-out of interest-based advertisements‚ you may still see advertisements on websites you visit‚ but those ads will not be based on your browsing behavior.
+To learn more about interest-based advertising‚ including how to opt out‚ please visit http://www.networkadvertising.org/choices. Please note that the opt-out mechanism relies on cookies to remember your choices with respect to ad-serving on websites. We may also use technologies‚ such as our own cookies‚ to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising‚ please visit http://dtmc.landsend.com/adinfo/choice/prod/. To opt out of additional, third party cookies go to http://aboutads.info/choices. If you delete your cookies‚ use another computer or device‚ or change browsers‚ you will need to repeat the opt-out process. Other websites you visit may offer their own opt-outs. If you do opt-out of interest-based advertisements‚ you may still see advertisements on websites you visit‚ but those ads will not be based on your browsing behavior.
 
 Disabling Cookies
 
