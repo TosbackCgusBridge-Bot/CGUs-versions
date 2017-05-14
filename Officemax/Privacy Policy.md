@@ -10,14 +10,13 @@ SEG1 hp
     *   OfficeMax Workplace
 *   800-GO-DEPOT
 *   Chat or Call
-    *   Live Chat Live Chat Available 24/7
-    *   1-800-463-3768 Live Chat Available 24/7 Have Us Call You Ensure your phone line is open and  
-        enter your number below.
+    *   Live Chat Customer service available 24/7
+    *   Untitled-8TXT 1-904-853-3768 Text us your questions and a representative will respond.
+    1-800-463-3768 Call us with your questions and a representative will help. Have Us Call You Ensure your phone line is open and  
+    enter your number below.
 *   Login or Register
 
-Office Depot Deals
-
-qYmSt92M-wbLlObzHRZgCYB
+Office Depot Deals \_2g7wawKga6ISNkHmoYek27
 
 Search Suggestions
 
@@ -258,4 +257,4 @@ This promotion is for Rewards members only. To take advantage of exclusive offer
 
 Join Sign In
 
-/account/v2/editBillingDisplay,/orderhistory/subsManager,/orderhistory/submitReturn,/account/accountSummaryDisplay,/account/loginAccountDisplay,/account/myfiles
+/account/v2/editBillingDisplay,/orderhistory/subsManager,/orderhistory/submitReturn,/account/accountSummaryDisplay,/account/loginAccountDisplay,/account/myfiles,/csl/listAll
