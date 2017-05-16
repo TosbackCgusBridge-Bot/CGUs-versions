@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Get your #HurricanePrep on: Hurricane Preparedness Week runs May 7-13 Across NOAA Ever dream of becoming a scientist? Dream no more. National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Research Science meets commerce: Aerial data collection helped this small business soar Across NOAA Ever dream of becoming a scientist? Dream no more. National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms U.S. had 2nd wettest, 11th warmest April on record National drought recedes to record-low level AROUND NOAA // Get your #HurricanePrep on: Hurricane Preparedness Week runs May 7-13 Science meets commerce: Aerial data collection helped this small business soar NOAA and Air Force Reserve hurricane teams to visit East Coast cities
+Enter Search Terms U.S. had 2nd wettest, 11th warmest April on record National drought recedes to record-low level AROUND NOAA // Two new reports show continued recovery of U.S. fisheries Science meets commerce: Aerial data collection helped this small business soar Spike in Southwest dust storms driven by ocean changes
 
 *   About our agency
 *   News and features
