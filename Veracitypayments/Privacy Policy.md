@@ -142,7 +142,7 @@ More information is just a click away. Email Vanco Payment Solutions anytime. We
   
 Call Us
 
-Questions? Get in touch by phone. Customer service representatives are available 8:30 a.m. to 5:30 p.m. (ET) Monday through Friday. Emergency Technical Assistance available 24/7.
+Questions? Get in touch by phone. Customer service representatives are available 8:30 a.m. to 7:00 p.m. (ET) Monday through Friday. Emergency Technical Assistance available 24/7.
 
 1-800-675-7430  
 Follow Our Blog
