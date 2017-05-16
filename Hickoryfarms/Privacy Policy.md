@@ -10,8 +10,7 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Mother's Day
-    *   Spring Favorites
+    Holidays &. Occasions*   Spring Favorites
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Gifts for Her
@@ -20,7 +19,7 @@
     By Price*   $30 &. Under
     *   $40 &. Under
     *   $50 &. Under
-    *   Over $90Most Popular Mother's Day Gifts Sausage &. Cheese
+    *   Over $90Most Popular Sausage &. Cheese
 *   Sausage &. Cheese
     
     View All Categories Shop by Category*   Gifts
@@ -85,8 +84,7 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Mother's Day
-    *   Spring Favorites
+    Holidays &. Occasions*   Spring Favorites
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Gifts for Her
@@ -95,7 +93,7 @@
     By Price*   $30 &. Under
     *   $40 &. Under
     *   $50 &. Under
-    *   Over $90Most Popular Mother's Day Gifts Sausage &. Cheese
+    *   Over $90Most Popular Sausage &. Cheese
 *   Sausage &. Cheese
     
     View All Categories Shop by Category*   Gifts
