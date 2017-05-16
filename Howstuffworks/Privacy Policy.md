@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**New Sharing Website Links Farmers, Saves Seeds**
+**Why Chugging a Gallon of Milk Is Nearly Impossible**
 
-**Amazing, Astonishing &. Absurd: Our Best Stories You Might Have Missed This Week**
+**Captivating Images From Above Offer New Perspectives on Familiar Wildlife**
 
-**The History of Makeup Is Surprisingly Elitist**
+**Most Mannequins Idealize Underweight, Unhealthy Bodies, New Research Confirms**
 
 **See More Headlines »**
 
