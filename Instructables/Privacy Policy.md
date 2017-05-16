@@ -92,16 +92,14 @@ Change country/language X
     *   Options
     *   Subscriber benefits
     *   Maintenance plan benefits
-    *   Support offerings
     *   Educational institutions
     *   Financing
 *   About Autodesk
     *   Careers
     *   Company
-        *   About us
-        *   Newsroom
-    *   Investor relations
-    *   Trust center
+    *   Newsroom
+*   Investor relations
+*   Trust center
 
 *    Free trials
 *    Students and educators
@@ -239,37 +237,39 @@ Follow Autodesk
 *   LinkedIn
 
 *   All social media
+*   Worldwide sites
 
 Products
 
 *   Free product trials
 *   3D CAD software
-*   3D printing
 *   Civil engineering
-*   Construction
 *   Drafting
 *   Manufacturing
-*   Sketching &. painting
-*   Student downloads
+*   Product design
 *   Find by industry
+
+Buying
+
+*   Buy online
+*   Special offers
+*   Manage your account
+*   Help with buying
+*   Download your software
+*   Returns &. refunds
+*   Subscription renewal
 
 Support &. Learning
 
 *   Product support
-*   Installation, registration &. licensing
-*   Classes on demand
-*   Events
+*   Software installation, registration &. licensing
 *   Updates &. service packs
 *   System requirements
-*   Help forums
+*   Students &. educators
+*   Classes on demand
+*   Workshops and seminars
 *   Training &. certification
-
-Buy
-
-*   Autodesk store
-*   Find a reseller
-*   Subscriber benefits
-*   Support offerings
+*   Autodesk University
 
 About Autodesk
 
@@ -282,5 +282,6 @@ _Autodesk is a leader in 3D design, engineering and entertainment software._
 *   Trust center
 *   Newsroom
 *   Suppliers
+*   Affiliate program
 
 *   Privacy/Cookies  | About our Ads | Legal Notices &. Trademarks | Report Noncompliance | Site map | © 2017 Autodesk Inc. All rights reserved
