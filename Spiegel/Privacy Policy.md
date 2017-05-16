@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 12.770,41ǀ
+*   DAX 12.807,04ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -227,7 +227,7 @@ Allgemeine Nutzungsbedingungen
 
 willkommen bei den persönlichen Diensten der SPIEGEL-Gruppe!
 
-Hier finden Sie die Allgemeinen Nutzungsbedingungen (im Folgenden auch "Nutzungsbedingungen" genannt) für die Online-Angebote der SPIEGEL-Gruppe (im Folgenden auch "Anbieter" genannt). Sie müssen ihnen zustimmen, wenn Sie die registrierungspflichtigen Dienste von SPIEGEL ONLINE, manager magazin Online und Harvard Business Manager Online nutzen wollen, wie z.B.:
+Hier finden Sie die Allgemeinen Nutzungsbedingungen (im Folgenden auch "Nutzungsbedingungen" genannt) für die Online-Angebote der SPIEGEL-Gruppe (im Folgenden auch "Anbieter" genannt). Sie müssen ihnen zustimmen, wenn Sie die registrierungspflichtigen Dienste von SPIEGEL ONLINE, SPIEGEL DAILY, manager magazin Online und Harvard Business Manager Online nutzen wollen, wie z.B.:
 
 *   **SPIEGEL ONLINE:** Mein SPIEGEL, u. a. mit Newsletter, Merkliste, Mein Depot und Meine Unternehmen. Forum, einestages, E-Paper
 *   **manager magazin Online:** Mein manager magazin, u.a. mit Newsletter, Mein Depot und Meine Unternehmen. Blogs
