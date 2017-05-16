@@ -5,7 +5,7 @@ Menutimeanddate.com Search × Site / Articles City / Country Social × Share thi
     *   My Units
     *   My Events
     *   My World Clock
-    *   Log in
+    *   Sign in
     *   Register
 *   HomeBack
     *   Newsletter
