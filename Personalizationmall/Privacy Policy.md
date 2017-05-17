@@ -35,8 +35,6 @@ All registered users can access their profile by visiting My Account, and edit t
 PMall reserves the right to update, modify or alter this Privacy Policy at any time without prior notice. If the Privacy Policy is changed, we will place a notice on the home page and alter the terms in this Privacy Policy indicating the Privacy Policy has changed. In addition, we may send a notice to the email address provided during the registration process. It is your responsibility to review the Privacy Policy regularly to be familiar with its terms.
 
   
-  
-  
 Contacting PersonalizationMall.com:
 
 If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please contact:
