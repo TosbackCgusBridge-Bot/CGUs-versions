@@ -3,6 +3,7 @@ Sencha
 *   Products
     *   Sencha Platform
     *   Why Sencha
+    *   ExtReact
     *   Ext JS
         *   Cmd
         *   IDE &. Editor Plugins
@@ -153,6 +154,7 @@ Subscribe
 *   Products
     *   Sencha Platform
     *   Why Sencha
+    *   ExtReact
     *   Ext JS
     *   Sencha Test
     *   GXT
@@ -197,6 +199,7 @@ Subscribe
 
 *   Store
     *   Ext JS
+    *   ExtReact
     *   Sencha Test
     *   GXT
     *   Licensing
