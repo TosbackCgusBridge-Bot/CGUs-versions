@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   DataArt release new version of Alexa Virtual Device for Raspberry Pi ›
 *   Atom is now available as a snap for Ubuntu ›
 *   PCCW Global chooses Ubuntu OpenStack and Juju ›
 *   Why language choices can be irrelevant when choosing the right IoT OS ›
 *   Crowd funding the Radio access technology ›
-*   10 snaps written in April ›
