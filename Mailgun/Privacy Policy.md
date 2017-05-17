@@ -10,8 +10,6 @@ We updated our Privacy Policy on February 22, 2017 in the following way:
 
 The previous version of our privacy policy is available for review here.
 
-  
-
 This Privacy Policy (the “Policy”) applies to your use of the Mailgun services (the “Services”), including the Mailgun platform (the “Platform”) and the website at mailgun.com (the “Site”), made available by Mailgun Technologies, Inc. It applies to information we collect about you. In this document, “we” refers to Mailgun Technologies Inc., and “you” refers to you, the user or customer to whom this Policy applies. This Policy should be read in conjunction with our Terms of Service. The use of information processed through our service shall be limited to the purpose of providing the service for which the Client has engaged Mailgun.
 
 In order to offer our Services to you, we must collect certain information about you. Because we respect your privacy, we have documented our policies regarding this information here, and we will not collect or use information about you except in the ways we describe.
@@ -86,7 +84,7 @@ Upon request Mailgun will provide you with information about whether we hold any
 
 An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct their query to Mailgun’s customer (the data controller). If requested to remove data we will respond within a reasonable timeframe.
 
-You may access, correct, request deletion or request a copy of any or all of your Personally Identifiable Information in our possession by emailing us at privacy@mailgun.com or updating your account settings, and we will honor your request within 30 days. If we must incur expenses to comply with your request, we may charge you a reasonable fee to cover these expenses if permitted by law. If you believe any of the Personally Identifiable Information we have collected from you is inaccurate, you can email privacy@mailgun.com with a request to update this information. We will honor your requests within reasonable timeframe.
+You may access, correct, request deletion or request a copy of any or all of your Personally Identifiable Information in our possession by emailing us at privacy@mailgun.com or updating your account settings, and we will honor your request within 30 days. If we must incur expenses to comply with your request, we may charge you a reasonable fee to cover these expenses if permitted by law. If you believe any of the Personally Identifiable Information we have collected from you is inaccurate, you can email privacy@mailgun.comwith a request to update this information. We will honor your requests within reasonable timeframe.
 
 6\. Security
 
@@ -104,16 +102,13 @@ With respect to personal data received or transferred pursuant to the Privacy Sh
 
 Under certain conditions, more fully described on the Privacy Shield website at https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-U.S. - Swiss Safe Harbor Framework
+U.S. – Swiss Safe Harbor Framework
 
 Mailgun complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Mailgun has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Mailgun’s certification, please visit https://safeharbor.export.gov/swisslist.aspx.
 
 European Union or Swiss citizens with inquiries or complaints regarding this Policy should first contact Mailgun at:
 
-**Mailgun Technologies, Inc.**  
-535 Mission St.  
-San Francisco, CA 94105  
-by email: privacy@mailgun.com
+**Mailgun Technologies, Inc.** 535 Mission St. San Francisco, CA 94105 by email: privacy@mailgun.com
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
@@ -135,17 +130,4 @@ We will retain personal data we process on behalf of our Clients for as long as 
 
 If you have questions about this Policy, or if you’re concerned that we are using your information improperly, please contact us by mail:
 
-**Mailgun Technologies, Inc.**  
-535 Mission St.  
-San Francisco, CA 94105  
-by email: privacy@mailgun.com Your app with email in minutes
-
-Our API makes integrating real email quick &. easy.
-
-Try Mailgun now
-
-Want better deliverability? Learn more about our managed email service.
-
-Jobs Help Team Terms of service Privacy policy Report Spam Contact Blog
-
-©2017 Mailgun Technologies, Inc.
+**Mailgun Technologies, Inc.** 535 Mission St. San Francisco, CA 94105 by email: privacy@mailgun.com
