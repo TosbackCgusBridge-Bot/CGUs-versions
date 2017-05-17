@@ -1,13 +1,11 @@
-Skip to content Check Your Symptoms Find A Doctor Find Lowest Drug Prices Sign In Sign UpSubscribe
+Skip to main content
 
-*   My ProfileWelcome
-*   *   My Tools
-    *   My WebMD Pages
-    *   My Account
-    *   Sign Out
+*   Check Your Symptoms
+*   Find A Doctor
+*   Find Lowest Drug Prices
 
 *   Health  
-    A-Z Common Conditions View All
+    A-Z Health A-Z Health A-Z Common Conditions
     
     *   ADD/ADHD
     *   Allergies
@@ -16,7 +14,6 @@ Skip to content Check Your Symptoms Find A Doctor Find Lowest Drug Prices Sign I
     *   Cold, Flu &. Cough
     *   Depression
     *   Diabetes
-    
     *   Eye Health
     *   Heart Disease
     *   Heartburn/GERD
@@ -24,64 +21,40 @@ Skip to content Check Your Symptoms Find A Doctor Find Lowest Drug Prices Sign I
     *   Sexual Conditions
     *   Skin Problems
     *   Sleep Disorders
+    *   View All
     
-    Featured Topics
-    
-    *   See What Severe Psoriasis Looks Like
-    *   16 Tips to Help You Get Organized
-    *   Feeling Your Best When You Have MS
-    
-    Symptom Checker
-    
-    Health Concern On Your Mind?
-    
-    See what your medical symptoms could mean, and learn about possible conditions.
-    
-    Get Started Resources
-    *   Second Opinion Read expert perspectives on popular health topics
-    *   Message Boards Connect with people like you, and get expert guidance on living a healthy life
-    *   Insurance Guide Get ready for changes to your health care coverage
-    *   Physician Directory Find a doctor in your areaPain Coach Track your pain levels, triggers, and treatments. Set goals and get tips with our app. Download
+    Resources
+    *   Symptom Checker
+    *   Expert Blogs and Interviews
+    *   Message Boards
+    *   Insurance Guide
+    *   Find a Doctor
+    *   View All
+
+Featured Topics*   Video Learn the F.A.S.T. Test for Stroke
+*   Video See Inside Knee Replacement Surgery
+
 *   Drugs &  
-    Supplements Find Information About:
+    Supplements Drugs &. Supplements Drugs &. Supplements Find &. Review
     
-    Drugs &. Supplements
+    *   Drugs
+    *   Supplements
     
-    Get information and reviews on prescription drugs, over-the-counter medications, vitamins, and supplements. Search by name or medical condition.
+    Tools
     
-    *   Find or Review a Drug
-    *   Find or Review a Vitamin or Supplement
-    *   Check for Drug Interactions
+    *   Manage Your Medications
+    *   Pill Identifier
+    *   Check for Interactions
     
-    Drugs Basics &. Safety
-    
+    Drug Basics &. Safety
     *   Commonly Abused Drugs
-    *   What's Your Medication IQ?
-    *   Taking Medications During Pregnancy
-    
-    Pill Identifier
-    
-    Having trouble identifying your pills?
-    
-    Enter the shape, color, or imprint of your prescription or OTC drug. Our pill identification tool will display pictures that you can compare to your pill.
-    
-    Get Started My Medicine
-    
-    Save your medicine, check interactions, sign up for FDA alerts, create family profiles and more.
-    
-    Get Started Drug News
-    *   Vitamin B12 May Not Help Some Seniors
-    *   Do Supplements Give Athletes an Edge?
-    *   New Schizophrenia Drug Approved
-    *   FDA: New, Stronger Warning for NSAIDs
-    *   New Drug Approved for Heart FailureMobile Drug Information App Drug, supplement, and vitamin information on the go. Download
+    *   Taking Meds When Pregnant
+
+Featured Topics*   News How and When Medical Marijuana Is Used
+*   Slideshow Vitamins &. Minerals From A - Zinc
+
 *   Living  
-    Healthy Featured Content
-    
-    *   Improve Your Concentration  
-        These Foods and Drinks Can Help
-    
-    Allergy App Fight allergies with daily forecasts, local alerts, and personalized tips. Download Living Healthy Centers View All Diet, Food &. Fitness
+    Healthy Living Healthy Living Healthy Diet, Food &. Fitness
     
     *   Diet &. Weight Management
     *   Weight Loss &. Obesity
@@ -96,80 +69,102 @@ Skip to content Check Your Symptoms Find A Doctor Find Lowest Drug Prices Sign I
     *   Oral Care
     
     Living Well
-    
     *   Women's Health
     *   Men's Health
     *   Aging Well
-    *   Teens
+    *   Healthy Teens
     *   Fit Kids
-    
-    Featured Topics
-    *   Overcome Your Fear of Public Speaking
-    *   New Clues Why Mosquitos Attack You
-    *   Why Do You ... ACHOO!?
-    *   Flash Fitness: Try the 7-Minute Workout
-    *   Have Sensitive Teeth? See What to Do
-    *   16 Tips to Help You Get Organized
+
+Featured Topics*   Video What Does Your Thyroid Do?
+*   News Cook at Home to Save Money and Eat Healthier
+
 *   Family &  
-    Pregnancy Featured Content
+    Pregnancy Family &. Pregnancy Family &. Pregnancy All About Pregnancy
     
-    *   What's That Rash? How to Treat Childhood Skin Problems
-    
-    Pregnancy App The big day is coming! Get organized and track baby's weekly development. Download Family and Pregnancy Centers Pregnancy
-    
-    *   Trying to Conceive
+    *   Getting Pregnant
     *   First Trimester
     *   Second Trimester
     *   Third Trimester
+    *   View All
     
-    Parenting
+    Parenting Guide
     
     *   Newborn &. Baby
-    *   Children's Health
-    *   Children's Vaccines
+    *   Children’s Health
+    *   Children’s Vaccines
     *   Raising Fit Kids
+    *   View All
     
-    Pets
-    
+    Pet Care Essentials
     *   Healthy Cats
     *   Healthy Dogs
-    
-    Featured Topics
-    *   When Autism Grows Up
-    *   Top Children's Hospitals Ranked
-    *   Antidepressants Linked to Birth Defects
-    *   When Are You Contagious?
-    *   Which Birth Control Is Best for You?
-    *   New Test May Help Spot Male Infertility
-*   News &  
-    Experts News View All
-    
-    *   Why You Should Rethink That Drink Before Dinner
-    *   New Clues Why Mosquitoes Find You Irresistible
-    *   Article Women: Too Much Sitting Ups Cancer Risk
-    *   Article Popular Heartburn Meds Can Have Health Risks
-    *   Article Do Supplements Give Athletes an Edge?
-    
-    WebMD Health Experts and Community
-    
-    Talk to health experts and other people like you in WebMD's Communities. It's a safe forum where you can create or participate in support groups and discussions about health topics that interest you.
-    
-    *   Second Opinion
-        
-        Read expert perspectives on popular health topics.
-        
-    *   Message Boards
-        
-        Connect with people like you, and get expert guidance on living a healthy life.
-        
-    
-    Newsletters
-    
-    Sign up to receive WebMD's award-winning content delivered to your inbox.
-    
-    Sign Up
+    *   View All
 
-Subscribe WebMD Home About WebMD Policies Print Article WebMD Privacy Policy
+Featured Topics*   Special Report Cancer Takes a Toll on a Small Town
+*   Slideshow Symptoms of ADHD in Children
+
+*   News &  
+    Experts News &. Experts News &. Experts Health News
+    
+    *   Common Painkillers Tied to Heart Attack Risk
+    *   Heart Health May Depend on Geography
+    *   Sushi Lovers Warned About Parasites
+    *   Cycling Doesn't Harm Sexual Health
+    *   Video: Breaking the Stigma of PTSD
+    
+    Experts &. Community
+    *   Message Boards
+    *   Expert Blogs
+    *   News Center
+
+Featured Topics*   News Krabbe: The Infant Disease With No Cure
+*   Newsletters Sign Up to Receive Our Free Newsletters
+
+*   Mobile Apps
+*   Subscriptions
+
+*   Sign In
+*   Subscribe
+*   My Profile
+    *   My Tools
+    *   My WebMD Pages
+    *   My Account
+    *   Sign Out
+
+About Us
+
+*   Who We Are
+*   What We Do For Our Users
+*   Awards and Recognition
+
+Policies
+
+*   Advertising Policy
+*   Corrections Policy
+*   Editorial Policy
+*   Privacy Policy
+*   Our Sponsors
+*   Terms and Conditions of Use
+
+Important Information &. FAQs
+
+*   Message Board Overview
+*   Site Security
+*   Spam FAQs
+*   How to Change Your Profile Settings
+*   About Passwords
+
+Accreditation
+
+*   URAC Center
+
+Customer Care
+
+*   Contact Us
+
+*   About WebMD Policies
+
+WebMD Privacy Policy
 
 En español
 
@@ -182,7 +177,7 @@ WebMD understands how important the privacy of personal information is to our us
 *   How we protect your information
 *   How to contact us with questions or concerns
 
-We urge you to take the time to read our entire Privacy Policy for complete detail about our privacy practices and your information.
+We urge you to take the time to read our entire Privacy Policy for complete detail about our privacy practices and your information.
 
 Information Collected About You
 
@@ -201,9 +196,9 @@ Read more about Information Collected About You
 
 What Choices Do I Have?
 
-If you do not want your Personal Information used by WebMD as provided in this Privacy Policy, you should not register as a member or for any specific tool or application that collects Personal Information. You may correct, update or review Personal Information you have submitted through registration, tools and applications by signing in and updating your registration information. If you have registered and no longer want WebMD to use your Personal Information, you should delete your information as described in this Policy.
+If you do not want your Personal Information used by WebMD as provided in this Privacy Policy, you should not register as a member or for any specific tool or application that collects Personal Information. You may correct, update or review Personal Information you have submitted through registration, tools and applications by signing in and updating your registration information. If you have registered and no longer want WebMD to use your Personal Information, you should delete your information as described in this Policy.
 
-Most browser software can be set to reject Cookies, and you can opt out of Cookies for several companies that serve ads on behalf of WebMD on the WebMD Web Sites and on third party sites and for companies other than WebMD who serve ads for advertisers on the WebMD Web Sites, by visiting the Network Advertising Initiative gateway opt-out site.
+Most browser software can be set to reject Cookies, and you can opt out of Cookies for several companies that serve ads on behalf of WebMD on the WebMD Web Sites and on third party sites and for companies other than WebMD who serve ads for advertisers on the WebMD Web Sites, by visiting the Network Advertising Initiative gateway opt-out site.
 
 You can click on the AdChoices logo at the bottom of every page of the WebMD web sites to stop tailored advertising from WebMD. The TRUSTed Ads™ program is not yet available for our Mobile Device Apps so if you do not want to receive tailored advertising from WebMD you should not use our Mobile Device Apps.
 
@@ -215,10 +210,10 @@ We may use information we collect about you to:
 
 *   Administer your account;
 *   Provide you with access to particular tools and services;
-*   Respond to your inquiries and send you administrative communications.
+*   Respond to your inquiries and send you administrative communications;
 *   Obtain your feedback on our sites and our offerings;
 *   Statistically analyze user behavior and activity;
-*   Provide you and people with similar demographic characteristics and interests with more relevant content and advertisements.
+*   Provide you and people with similar demographic characteristics and interests with more relevant content and advertisements;
 *   Conduct research and measurement activities;
 *   Send you personalized emails or secure electronic messages pertaining to your health interests, including news, announcements, reminders and opportunities from WebMD. or
 *   Send you relevant offers and informational materials on behalf of our sponsors pertaining to your health interests.
@@ -439,64 +434,95 @@ WebMD's privacy practices have been certified in accordance with the requirement
 
 WebMD.com, MedicineNet.com, eMedicineHealth.com, and RxList.com comply with the HONcode standard for trustworthy health information, which can be verified here.
 
-   
+WebMD Policy Last updated on December 30, 2016 © 2016 WebMD, LLC. All rights reserved. Today on WebMD Risky Mistakes Pet Owners Make
 
-Effective Date: December 30, 2016
+Some of these might surprise you.
 
-©2016 WebMD, LLC. All rights reserved.
+Depressed, Guilty Feelings After Eating?
 
-About Us
+Symptoms of binge eating disorder.
 
-*   Who We Are
-*   What We Do For Our Users
-*   Awards and Recognition
+Psoriasis Home Remedies
 
-Policies
+14 tips to ditch the itch.
 
-*   Advertising Policy
-*   Corrections Policy
-*   Editorial Policy
-*   Privacy Policy
-*   Our Sponsors
-*   Terms and Conditions of Use
+Quit Smoking
 
-Important Information &. FAQs
-
-*   Message Board Overview
-*   Site Security
-*   Spam FAQs
-*   How to Change Your Profile Settings
-*   About Passwords
-
-Accreditation
-
-*   URAC Center
-
-Customer Care
-
-*   Contact Us
-
-Hot Topics
-
-*   Rheumatoid Arthritis: How It Affects Your Joints
-*   Treatments for Moderate-to-Severe Psoriasis
-*   Birth Control Options
-*   Multiple Sclerosis: Symptoms to Look For
-*   Are You Fed Up With Overeating?
-*   How to Treat Atrial Fibrillation
-*   What's Killing Your Concentration? 12 Culprits
-*   19 Habits That Wreck Your Teeth
-*   Celebrities With Diabetes
-*   Alzheimer's Disease: Early Warning Signs
+Get your personalized plan.
 
 URAC Health Website Accreditation
 
 Find out how WebMD ensures the quality, accuracy and security of our information.
 
-Go Find us on:
+Go How to Contact URAC
 
-URAC: Accredited Health Web Site AdChoices About WebMD Advertise With Us Terms of Use Privacy Policy Advertising Policy Accessibility Sponsor Policy Site Map Careers Contact Us Medscape Reference eMedicineHealth RxList OnHealth Medscape MedicineNet BootsWebMD WebMD Corporate WebMD Health Services First Aid WebMD Magazine WebMD Health Record WebMD Mobile Newsletters Dictionary Physician Directory
+To contact URAC go to:  
+www.urac.org  
+or:
 
-©2005-2017 WebMD, LLC. All rights reserved.
+**Physical Address:**  
+1220 L Street NW, Suite 400  
+Washington, DC 20005
 
-WebMD does not provide medical advice, diagnosis or treatment. See additional information.
+**Email:**  
+businessdevelopment@urac.org
+
+**Phone:**  
+(202)216-9010
+
+Click Here to View WebMD's Accreditation Seal >>
+
+*   *   Visit WebMD on Facebook
+    *   Visit WebMD on Twitter
+    *   Visit WebMD on Pinterest
+*   Policy
+    
+    *   Privacy Policy
+    *   Terms of Use
+    *   Contact Us
+    
+    About
+    *   About WebMD
+    *   Careers
+    *   Newsletter
+    *   Corporate
+    *   WebMD Health Services
+    *   Site Map
+    *   Accessibility
+*   WebMD Network
+    *   Medscape
+    *   Medscape Reference
+    *   MedicineNet
+    *   eMedicineHealth
+    *   RxList
+    *   OnHealth
+    *   BootsWebMD
+    *   First Aid
+    *   WebMD Magazine
+    *   WebMD Health Record
+    *   Dictionary
+    *   Physician Directory
+*   Our Apps
+    
+    *   WebMD Mobile
+    *   WebMD App
+    *   Pregnancy
+    *   Baby
+    *   Allergy
+    *   Pain Coach
+    *   WebMD Magazine
+    *   Medscape
+    *   TheHeart
+    
+    For Sponsors
+    *   Advertise with Us
+    *   Advertising Policy
+    *   Sponsor Policy
+
+© 2005 - 2017 WebMD, LLC. All rights reserved.
+
+WebMD does not provide medical advice, diagnosis or treatment.
+
+See additional information.
+
+Cancer Treatment &. Nutrition 11 Tips to Control Diabetes
