@@ -10,7 +10,7 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Spring Favorites
+    Holidays &. Occasions*   Father's Day Favorites
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Gifts for Her
@@ -84,7 +84,7 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Spring Favorites
+    Holidays &. Occasions*   Father's Day Favorites
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Gifts for Her
