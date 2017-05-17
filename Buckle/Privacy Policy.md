@@ -368,7 +368,6 @@ Promotions
 
 *   Buckle Card Take Two!
 *   Brand Madness Official Rules
-*   F8 Red Carpet Sweepstakes Official Rules
 *   Social Giveaway Official Rules
 *   Store Events
 *   Sweepstakes Winners
