@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Why Chugging a Gallon of Milk Is Nearly Impossible**
+**They're Killing the MP3, but That's OK**
 
-**Captivating Images From Above Offer New Perspectives on Familiar Wildlife**
+**Drinking Transforms Your Personality Less Than You Think**
 
-**Most Mannequins Idealize Underweight, Unhealthy Bodies, New Research Confirms**
+**Ghost Tape No. 10: The Haunted Mixtape of the Vietnam War**
 
 **See More Headlines »**
 
