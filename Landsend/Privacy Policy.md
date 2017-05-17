@@ -304,7 +304,7 @@ menu 0 Free Shipping on $50+  |  Offers
     *   Baby BlanketsDOG SHOP >.
 *   Gifts FEATURED SHOPS
     
-    *   Mother's Day Gifts
+    *   Father's Day
     *   Favorite Gifts
     *   Gift Cards
     *   Personalized Gifts
@@ -627,7 +627,7 @@ menu 0 Free Shipping on $50+  |  Offers
     *   Shop all Gifts
     *   FEATURED SHOPS
         *   Back
-        *   Mother's Day Gifts
+        *   Father's Day
         *   Favorite Gifts
         *   Gift Cards
         *   Personalized Gifts
