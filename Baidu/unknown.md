@@ -32,7 +32,11 @@
 请您把以上资料和联络方式书面发往以下地址：  
 北京市海淀区上地十街10号  
 北京百度网讯科技有限公司 法务部  
-邮政编码：100085  
+邮政编码：100085
+
+为了缩短您通知的处理时间，请您邮寄纸质版《权利通知》相关材料时附上存有电子版涉侵权URL地址的光盘或U盘。
+
+  
   
 **反通知**  
   
@@ -55,7 +59,11 @@
 请您把以上资料和联络方式书面发往以下地址：  
 北京市海淀区上地十街10号  
 北京百度网讯科技有限公司 法务部  
-邮政编码：100085  
+邮政编码：100085
+
+为了缩短您通知的处理时间，请您邮寄纸质版《权利通知》相关材料时附上存有电子版涉侵权URL地址的光盘或U盘。
+
+  
   
 **Notice to Right Holders**  
 As the largest Chinese language search engine, Baidu provides Chinese language search services over the Internet. According to search instructions from Internet users, Baidu’s search engine system will automatically generate links to web pages of third parties through our algorithmic technology. This will enable Internet users to find and use content (such as files and materials) on web pages of third parties. Baidu does not store, control, edit or modify the content or the form of presentation of any information (including, without limitation, the information presented in the form of texts, pictures or music) posted, stored, edited, or displayed on web pages of third parties.  
@@ -89,7 +97,11 @@ Baidu.com
 No.10,10th  Street, Shangdi, Haidian District, Beijing 100085  
 PRC  
   
-Attn: Legal Department  
+Attn: Legal Department
+
+In order to shorten the processing time, of you notice please send paper version of the right to inform relevant material attached with electronic involving infringement URL CD or USB stick.
+
+  
   
   
 **Counter Notification**  
@@ -112,3 +124,5 @@ No.10,10th  Street, Shangdi, Haidian District, Beijing 100085
 PRC  
   
 Attn: Legal Department
+
+In order to shorten the processing time, of you notice please send paper version of the right to inform relevant material attached with electronic involving infringement URL CD or USB stick.
