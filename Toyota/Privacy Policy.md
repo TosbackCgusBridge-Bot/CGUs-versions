@@ -39,6 +39,19 @@
 *   2017 Prius v $26,675 starting 43/39 est. mpg build Specials
 *   2017 Mirai $57,500 starting 67/67 est. mpg Specials
 
+*   Camry  
+    View More Info
+*   Yaris  
+    View More Info
+*   Sequoia  
+    View More Info
+*   Tundra  
+    View More Info
+*   RAV4  
+    View More Info
+*   FT-4X Concept  
+    View More Info
+
 View All Vehicles
 
 *   Build &. Price
