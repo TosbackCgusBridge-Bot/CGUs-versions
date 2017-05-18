@@ -17,7 +17,6 @@ Click on one of the links below to jump directly to the listed section:
 *   **Cookies and Third-party Advertisers**
 *   **Update Your Account Information**
 *   **Links to Other Websites**
-*   **International Data Transfers**
 *   **How We Protect Personal Information**
 *   **California Residents**
 *   **Children’s Privacy**
@@ -113,40 +112,6 @@ You may access, update and amend some of the Personal Information in our custody
 **Links to Other Websites**
 
 The Talent Network may contain links to other sites for your convenience and information. These sites may be operated by companies not owned by CareerBuilder. These other sites or linked third-party sites may have their own privacy notices, which you should review if you visit those sites. We are not responsible for the content of any sites not owned by CareerBuilder, any use of those sites, or those sites’ privacy practices.
-
-(Return to Top)
-
-**International Data Transfers**
-
-When we obtain Personal Information about you, we may process and store the information outside of the country in which you are located, including in the United States. The countries in which we process the information may not have the same data protection laws as the country in which you are located. Further, the employer for whom we operate this Talent Network also may be located in a different country than you and different laws may apply to their use of your information.
-
-CareerBuilder, LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. To learn more about the Safe Harbor program, and to view CareerBuilder, LLC’s certification, please visit the U.S. Department of Commerce's Safe Harbor web site at http://www.export.gov/safeharbor/. You may also contact us directly to learn more about this certification.
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, CareerBuilder commits to resolve complaints about your privacy and our collection or use of your Personal Information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact CareerBuilder at EU complaints.
-
-CareerBuilder has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by CareerBuilder, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
-
-(Return to Top)
-
-**How We Protect Personal Information**
-
-CareerBuilder maintains administrative, technical and physical safeguards designed to assist us in protecting the Personal Information we collect against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
-
-Please note that no electronic transmission of information can be entirely secure. We cannot guarantee that the security measures we have in place to safeguard Personal Information will never be defeated or fail, or that those measures will always be sufficient or effective. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your Personal Information will always remain private. As a user of the Talent Network, you understand and agree that you assume all responsibility and risk for your use of the Talent Network, the internet generally, and the documents you post or access and for your conduct on and off the Talent Network.
-
-To further protect yourself, you should safeguard your CareerBuilder account user name and password and not share that information with anyone. You should also sign off your account and close your browser window when you have finished your visit to the Talent Network. Please note that we will never ask for your CareerBuilder account user name or password via email. You agree to notify CareerBuilder immediately of any unauthorized use of your account or password.
-
-(Return to Top)
-
-**California, USA Residents**
-
-California law permits its residents to request and receive information about a business’ disclosure of certain categories of Personal Information to other companies for their use in direct marketing. If you are a California resident and a user of any of the Talent Network, you can request a copy of this information from CareerBuilder by sending an email to customer.service@careerbuilder.com or a letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests.
-
-(Return to Top)
-
-**Children’s Privacy**
-
-We do not knowingly collect or solicit information from anyone under the age of 13. If you are under 13, please do not use the Talent Network. In the event that we learn that we have collected personal information from a child under the age of 13, we will delete that information as quickly as possible.
 
 (Return to Top)
 
