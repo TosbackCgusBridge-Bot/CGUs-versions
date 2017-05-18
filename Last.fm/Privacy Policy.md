@@ -217,6 +217,6 @@ Time zone: **UTC**
 *   Jobs at CBSi
 *   Gamespot
 
-You’re viewing a beta version of the new Last.fm website. Leave feedback
+Let us know what you think of the Last.fm website. Leave feedback
 
 API Calls
