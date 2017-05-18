@@ -41,6 +41,10 @@ menu 0 Free Shipping on $50+  |  Offers
     *   Boys
     *   Home
     
+    SWEEPSTAKES
+    
+    *   Best on the Beach
+    
     BLOG
     *   The Journal
 *   Women FEATURED SHOPS
@@ -304,7 +308,7 @@ menu 0 Free Shipping on $50+  |  Offers
     *   Baby BlanketsDOG SHOP >.
 *   Gifts FEATURED SHOPS
     
-    *   Father's Day
+    *   Father's Day Gifts
     *   Favorite Gifts
     *   Gift Cards
     *   Personalized Gifts
@@ -322,20 +326,6 @@ menu 0 Free Shipping on $50+  |  Offers
     *   For Girls
     *   For Boys
     *   For Home
-*   Personalization FEATURED SHOPS
-    
-    *   Canvas Totes
-    *   Backpacks
-    *   Beach Towels
-    *   Bath Towels
-    *   Dog Shop
-    
-    Categories
-    *   Women's
-    *   Men's
-    *   Girls
-    *   Boys
-    *   Home
 *   Sale SHOP SALE
     
     *   Women
@@ -351,6 +341,9 @@ menu 0 Free Shipping on $50+  |  Offers
 *   New
     *   Back
     *   Shop all New
+    *   SWEEPSTAKES
+        *   Back
+        *   Best on the Beach
     *   BLOG
         *   Back
         *   The Journal
@@ -627,7 +620,7 @@ menu 0 Free Shipping on $50+  |  Offers
     *   Shop all Gifts
     *   FEATURED SHOPS
         *   Back
-        *   Father's Day
+        *   Father's Day Gifts
         *   Favorite Gifts
         *   Gift Cards
         *   Personalized Gifts
@@ -645,21 +638,6 @@ menu 0 Free Shipping on $50+  |  Offers
         *   For Girls
         *   For Boys
         *   For Home
-*   Personalization
-    *   Back
-    *   Shop all Personalization
-    *   FEATURED SHOPS
-        *   Back
-        *   Canvas Totes
-        *   Backpacks
-        *   Beach Towels
-        *   Bath Towels
-        *   Dog Shop
-    *   Women's
-    *   Men's
-    *   Girls
-    *   Boys
-    *   Home
 *   Sale
     *   Back
     *   Shop all Sale
