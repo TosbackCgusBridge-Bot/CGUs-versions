@@ -5,6 +5,7 @@ Sencha
     *   Why Sencha
     *   ExtReact
     *   Ext JS
+        *   Ext JS
         *   Cmd
         *   IDE &. Editor Plugins
         *   Architect
