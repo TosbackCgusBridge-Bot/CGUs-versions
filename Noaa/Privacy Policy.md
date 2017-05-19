@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms U.S. had 2nd wettest, 11th warmest April on record National drought recedes to record-low level AROUND NOAA // Two new reports show continued recovery of U.S. fisheries Science meets commerce: Aerial data collection helped this small business soar Spike in Southwest dust storms driven by ocean changes
+Enter Search Terms Globe had 2nd warmest April and year to date on record Last month also saw record-low Arctic, near-record-low Antarctic sea ice AROUND NOAA // Two new reports show continued recovery of U.S. fisheries Science meets commerce: Aerial data collection helped this small business soar Spike in Southwest dust storms driven by ocean changes
 
 *   About our agency
 *   News and features
