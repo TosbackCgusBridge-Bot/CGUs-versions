@@ -9,7 +9,7 @@ Search All NYTimes.com
 
 Help Help >. Permissions and Policies >. Privacy >. Privacy Policy Privacy Policy
 
-_Last Updated on April 12, 2017_
+_Last Updated on May 18, 2017_
 
 This Privacy Policy discloses the privacy practices for The New York Times newspaper and NYTimes.com (including international.nytimes.com, the online edition of The International New York Times), The New York Times Home Delivery website, The New York Times Neediest Cases Fund, The New York Times Store, Times Journeys and The New York Times Learning Network, our email newsletters and other applications owned and operated by The New York Times Company (collectively referred to as the “NYT Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The New York Times" include NYTimes.com and The New York Times newspaper.
 
@@ -196,7 +196,7 @@ We reserve the right to disclose your opt-out information to third parties so th
 
 **Manage Your New York Times Events Account.** Events include TimesTalks, Great Read in the Park, Arts and Leisure Weekend, Sunday with The Magazine and The New York Times Travel Show. To subscribe or unsubscribe from The New York Times Events email newsletter, please visit www.nytimes.com/events. Enter your email address in the field provided, select "unsubscribe" and click "submit."
 
-**Data Retention.** We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+**Data Retention.** We will retain your information for at least as long as your account is active, as needed to provide you services or as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. As a matter of course, we will delete personally identifiable information associated with accounts that have been inactive for at least 15 years. 
 
 **HOW DO I OPT-OUT?**
 
@@ -241,7 +241,7 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 **Changes to This Policy**
 
-This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use or share your personal information, you will be notified via email and/or prominent notice within the Services at least 30 days prior to the changes taking effect.
+We evaluate this privacy policy periodically in light of changing business practices, technology and legal requirements. As a result, it is updated from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use or share your personal information, you will be notified via email and/or prominent notice within the Services at least 30 days prior to the changes taking effect.
 
 Search Help
 
