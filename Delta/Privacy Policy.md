@@ -138,7 +138,7 @@ How Delta uses cookies, tags, and similar technologies Expand All
     
     To opt out of 1st party tracking on delta.com, you may choose from these options:
     
-    Click hereopens in a new window to opt out of analytics and usage tracking on delta.com
+    Click here to opt out of analytics and usage tracking on delta.com
     
     Click here to opt out of content targeting on delta.com
     
