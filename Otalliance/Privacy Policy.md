@@ -36,6 +36,7 @@ Skip to main content Online Trust Alliance
 *   Membership
     *   Membership
     *   OTA Members Portal (Log in Required)
+    *   Donate
 *   About Us
     *   History &. Overview
     *   Vision for Trust
@@ -85,10 +86,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, May 16, 2017 2017 Symantec Internet Threat Intelligence Report
-
-Join Kevin Haley, Director of Product Management for Symantec Security Technology and Response who will share insights and trends into the threat landscape including common vulnerabilities, ransomware trends and others including. 1) Subversion and Sabotage Attacks Emerge at the Forefront, 2) Nation States Chase the Big Scores, 3) Attackers Weaponize Commonly Used Software. Email Becomes the Weapon of Choice, 4) Caving in to Digital Extortion: Americans Most Likely to Pay Ransom Demands and 5) Cracks in the Cloud: The Next Frontier for Cyber Crime is Upon Us
-
 Mon, May 22, 2017 LiveWorx 17
 
 Join OTA in Boston at this premiere event focused on IoT security.  Take advantage of over 230 breakouts offered in a variety of learning styles, including cutting-edge use cases, interactive Q&A’s, small working groups, tech-powered panels, product updates and more! Sessions range from introductory to advanced skill levels and provide the knowledge you need to advance your career, lower costs and risk, and out-innovate your competition.
@@ -100,6 +97,10 @@ Ten years ago, President Bush launched a new era in the fight against identity t
 Tue, Jun 6, 2017 Privacy Risk Summit
 
 The GDPR embeds a risk-based approach to privacy management and drives technological innovations in privacy management the TRUSTe 2017 Privacy Risk Summit will bring together the industry’s top thinkers, practitioners and solution providers to share emerging best practices and tools and models for success.
+
+Tue, Jun 27, 2017 2017 OTA Leadership Meeting &. Congressional Staff Lunch Briefing
+
+**2017 Online Trust Audit** .
 
 More >>.
 
@@ -158,6 +159,7 @@ Membership
 
 *   Membership
 *   OTA Members Portal (Log in Required)
+*   Donate
 
 About Us
 
