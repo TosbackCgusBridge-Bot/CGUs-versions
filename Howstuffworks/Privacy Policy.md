@@ -40,7 +40,6 @@ Twitter
 
 Pinterest
 
-*   NOW
 *   Adventure
 *   Animals
 *   Auto
@@ -64,7 +63,9 @@ Pinterest
 *   Shows
 *   Quizzes
 
-Privacy Policy         | HSW    
+1.  HSW
+
+Privacy Policy    
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace Holdings LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -251,8 +252,6 @@ More to Explore Today's Headlines
 **Kushti: The Traditional Mud Wrestling of India and Pakistan**
 
 **Estonia's e-Residency Gives Brexit Businesses a Way to Stay in the EU**
-
-**See More Headlines »**
 
 About Us
 
