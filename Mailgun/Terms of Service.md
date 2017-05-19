@@ -112,7 +112,7 @@ The following additional terms and conditions (“Terms of Service”) apply to 
 
 **9.3 Usage Data.** Mailgun collects and stores information related to your use of the Services, such as use of the Website, API, SMTP and filtering choices and usage. You agree that Mailgun may use this information for our general business purposes and may disclose the information to third parties in aggregate statistical form, provided that Mailgun does not include any information that could be used to identify you.
 
-**9.4 HIPPA.** If Mailgun is your “Business Associate” as defined in the Health Insurance Portability and Accountability Act of 1996, as amended, then as of the date that Mailgun becomes your Business Associate the HIPAA Business Associate Addendum at http://www.mailgun.com/hippa-baa shall become part of the Agreement.
+**9.4 HIPPA.** If Mailgun is your “Business Associate” as defined in the Health Insurance Portability and Accountability Act of 1996, as amended, then as of the date that Mailgun becomes your Business Associate the HIPAA Business Associate Addendum at http://www.mailgun.com/hipaa-baa shall become part of the Agreement.
 
 **10 LIMITATIONS ON DAMAGES**
 
