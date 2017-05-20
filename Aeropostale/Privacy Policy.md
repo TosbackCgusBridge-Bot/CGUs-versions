@@ -5,6 +5,7 @@ Aéropostale
     *   NEW ARRIVALS
     *   #FREETOBE
     *   TRENDING
+    *   The White Collection
     *   Festival Vibes
     *   Swim Starting at $6
     *   Buy 1 Get 2 FREE
@@ -53,6 +54,7 @@ Aéropostale
     *   NEW ARRIVALS
     *   #FREETOBE
     *   TRENDING
+    *   The White Collection
     *   Summer Retreat
     *   Stretch Shop
     *   Limited Edition
