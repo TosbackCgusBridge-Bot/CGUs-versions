@@ -4,6 +4,7 @@ Toggle navigation
 *   Business
 *   Wholesale
 *   About Us
+*   Offers
 
 Toggle navigation
 
