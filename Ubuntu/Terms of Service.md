@@ -44,8 +44,8 @@ Download Ubuntu
 
 Further reading
 
+*   Visual Studio Code is now available as a snap on Ubuntu ›
 *   Simplenote gives a new life to your notes ›
 *   Ubuntu ranked as 2nd most used IoT OS by Eclipse Foundation survey ›
 *   DataArt release new version of Alexa Virtual Device for Raspberry Pi ›
 *   Atom is now available as a snap for Ubuntu ›
-*   PCCW Global chooses Ubuntu OpenStack and Juju ›
