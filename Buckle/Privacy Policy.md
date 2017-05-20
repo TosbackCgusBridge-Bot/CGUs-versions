@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card Standout Colors. Fun Prints. The Latest Trends. Shop Women's Swimwear | Shop Men's Swimwear
+        Give a Buckle Gift card Gear up for Memorial Day Weekend! SHOP NEW ARRIVALS
 *   Men
     *   *   Featured
         
@@ -135,7 +135,7 @@
         
           
           
-        Give a Buckle Gift card Standout Colors. Fun Prints. The Latest Trends. Shop Women's Swimwear | Shop Men's Swimwear
+        Give a Buckle Gift card Gear up for Memorial Day Weekend! SHOP NEW ARRIVALS
 *   Kids
     *   *   Featured
         
@@ -157,7 +157,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Standout Colors. Fun Prints. The Latest Trends. Shop Women's Swimwear | Shop Men's Swimwear
+        Give a Buckle Gift card Gear up for Memorial Day Weekend! SHOP NEW ARRIVALS
 *   Jeans
     *   *   Women's Jeans
         
@@ -187,7 +187,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Standout Colors. Fun Prints. The Latest Trends. Shop Women's Swimwear | Shop Men's Swimwear
+        Give a Buckle Gift card Gear up for Memorial Day Weekend! SHOP NEW ARRIVALS
 *   New
     *   *   Featured New
         
@@ -226,7 +226,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Standout Colors. Fun Prints. The Latest Trends. Shop Women's Swimwear | Shop Men's Swimwear
+        Give a Buckle Gift card Gear up for Memorial Day Weekend! SHOP NEW ARRIVALS
 *   Sale
     *   *   Women's Sale
         
@@ -269,7 +269,7 @@
         
           
           
-        Give a Buckle Gift card Standout Colors. Fun Prints. The Latest Trends. Shop Women's Swimwear | Shop Men's Swimwear
+        Give a Buckle Gift card Gear up for Memorial Day Weekend! SHOP NEW ARRIVALS
 
 × Privacy &. Security
 
@@ -366,7 +366,7 @@ Returns
 
 Promotions
 
-*   Buckle Card Take Two!
+*   Buckle Card Beach Towel GWP
 *   Brand Madness Official Rules
 *   Social Giveaway Official Rules
 *   Store Events
