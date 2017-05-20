@@ -106,10 +106,10 @@ Featured Topics*   Special Report Cancer Takes a Toll on a Small Town
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Common Painkillers Tied to Heart Attack Risk
-    *   Heart Health May Depend on Geography
-    *   Sushi Lovers Warned About Parasites
-    *   Cycling Doesn't Harm Sexual Health
+    *   Consumer Reports: Best Sunscreens for 2017
+    *   Can You Be Healthy and Obese?
+    *   Nuts May Help Colon Cancer Survivors
+    *   Can Fidget Spinners Help You Focus?
     *   Video: Breaking the Stigma of PTSD
     
     Experts &. Community
