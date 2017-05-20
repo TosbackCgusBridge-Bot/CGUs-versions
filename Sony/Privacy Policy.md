@@ -102,12 +102,8 @@ Your browser does not support JavaScript! Experience What It’s Like to Survive
 
 Play the PS VR Exclusive “Farpoint” This Week
 
-Close
-
-*   Share
 *   Share Experience What It’s Like to Survive On An Unknown Planet on Facebook
 *   Share Experience What It’s Like to Survive On An Unknown Planet on Twitter
-*   Share Experience What It’s Like to Survive On An Unknown Planet on Tumblr
 *   Copy URL to share Experience What It’s Like to Survive On An Unknown Planet
 
 Play Experience What It’s Like to Survive On An Unknown Planet Video
@@ -120,12 +116,8 @@ See How the Perfect Controller for VR Shooter Games Was Made
 
 Learn About the PlayStation®VR Aim Controller
 
-Close
-
-*   Share
 *   Share See How the Perfect Controller for VR Shooter Games Was Made on Facebook
 *   Share See How the Perfect Controller for VR Shooter Games Was Made on Twitter
-*   Share See How the Perfect Controller for VR Shooter Games Was Made on Tumblr
 *   Copy URL to share See How the Perfect Controller for VR Shooter Games Was Made
 
 Play See How the Perfect Controller for VR Shooter Games Was Made Video
@@ -138,12 +130,8 @@ Take Part In Your Own Sci-Fi Thriller
 
 Play “Prey” on PS4™
 
-Close
-
-*   Share
 *   Share Take Part In Your Own Sci-Fi Thriller on Facebook
 *   Share Take Part In Your Own Sci-Fi Thriller on Twitter
-*   Share Take Part In Your Own Sci-Fi Thriller on Tumblr
 *   Copy URL to share Take Part In Your Own Sci-Fi Thriller
 
 Play Take Part In Your Own Sci-Fi Thriller Video
@@ -164,12 +152,8 @@ Immerse Yourself
 
 In Gaming
 
-Close
-
-*   Share
 *   Share Immerse Yourself on Facebook
 *   Share Immerse Yourself on Twitter
-*   Share Immerse Yourself on Tumblr
 *   Copy URL to share Immerse Yourself
 
 In Gaming
@@ -178,12 +162,8 @@ Call of Duty® Returns to World War II This November 3
 
 Learn More
 
-Close
-
-*   Share
 *   Share Call of Duty® Returns to World War II This November 3 on Facebook
 *   Share Call of Duty® Returns to World War II This November 3 on Twitter
-*   Share Call of Duty® Returns to World War II This November 3 on Tumblr
 *   Copy URL to share Call of Duty® Returns to World War II This November 3
 
 Learn More
@@ -192,12 +172,8 @@ The Sony Alpha Imaging Collective Goes to Cuba for a Photo Adventure
 
 Watch Episode 1 of “Through The Lens: Cuba”
 
-Close
-
-*   Share
 *   Share The Sony Alpha Imaging Collective Goes to Cuba for a Photo Adventure on Facebook
 *   Share The Sony Alpha Imaging Collective Goes to Cuba for a Photo Adventure on Twitter
-*   Share The Sony Alpha Imaging Collective Goes to Cuba for a Photo Adventure on Tumblr
 *   Copy URL to share The Sony Alpha Imaging Collective Goes to Cuba for a Photo Adventure
 
 Play The Sony Alpha Imaging Collective Goes to Cuba for a Photo Adventure Video
@@ -210,12 +186,8 @@ Games, Movies, and TV Shows As They Were Meant to be Seen
 
 At Sony Square NYC
 
-Close
-
-*   Share
 *   Share Games, Movies, and TV Shows As They Were Meant to be Seen on Facebook
 *   Share Games, Movies, and TV Shows As They Were Meant to be Seen on Twitter
-*   Share Games, Movies, and TV Shows As They Were Meant to be Seen on Tumblr
 *   Copy URL to share Games, Movies, and TV Shows As They Were Meant to be Seen
 
 At Sony Square NYC
@@ -224,12 +196,8 @@ Music In, Other Noises Out
 
 Upgrade Your Headphones
 
-Close
-
-*   Share
 *   Share Music In, Other Noises Out on Facebook
 *   Share Music In, Other Noises Out on Twitter
-*   Share Music In, Other Noises Out on Tumblr
 *   Copy URL to share Music In, Other Noises Out
 
 Upgrade Your Headphones
@@ -246,12 +214,8 @@ Capture Everything in Slow Motion
 
 With the Xperia XZ Premium
 
-Close
-
-*   Share
 *   Share Capture Everything in Slow Motion on Facebook
 *   Share Capture Everything in Slow Motion on Twitter
-*   Share Capture Everything in Slow Motion on Tumblr
 *   Copy URL to share Capture Everything in Slow Motion
 
 Play Capture Everything in Slow Motion Video
@@ -264,12 +228,8 @@ Check Out a Scene From the Upcoming Movie “Spider-Man: Homecoming”
 
 Coming to Theaters July 7
 
-Close
-
-*   Share
 *   Share Check Out a Scene From the Upcoming Movie “Spider-Man: Homecoming” on Facebook
 *   Share Check Out a Scene From the Upcoming Movie “Spider-Man: Homecoming” on Twitter
-*   Share Check Out a Scene From the Upcoming Movie “Spider-Man: Homecoming” on Tumblr
 *   Copy URL to share Check Out a Scene From the Upcoming Movie “Spider-Man: Homecoming”
 
 Play Check Out a Scene From the Upcoming Movie “Spider-Man: Homecoming” Video
@@ -282,12 +242,8 @@ Harry Styles Soars in the New Video for “Sign of the Times”
 
 Listen to His Debut Album Now
 
-Close
-
-*   Share
 *   Share Harry Styles Soars in the New Video for “Sign of the Times” on Facebook
 *   Share Harry Styles Soars in the New Video for “Sign of the Times” on Twitter
-*   Share Harry Styles Soars in the New Video for “Sign of the Times” on Tumblr
 *   Copy URL to share Harry Styles Soars in the New Video for “Sign of the Times”
 
 Play Harry Styles Soars in the New Video for “Sign of the Times” Video
@@ -300,12 +256,8 @@ Get Ready for Idris Elba &. Matthew McConaughey To Battle It Out This Summer
 
 Learn More About “The Dark Tower”
 
-Close
-
-*   Share
 *   Share Get Ready for Idris Elba &. Matthew McConaughey To Battle It Out This Summer on Facebook
 *   Share Get Ready for Idris Elba &. Matthew McConaughey To Battle It Out This Summer on Twitter
-*   Share Get Ready for Idris Elba &. Matthew McConaughey To Battle It Out This Summer on Tumblr
 *   Copy URL to share Get Ready for Idris Elba &. Matthew McConaughey To Battle It Out This Summer
 
 Play Get Ready for Idris Elba &. Matthew McConaughey To Battle It Out This Summer Video
@@ -318,12 +270,8 @@ The New HAIM Song “Right Now” Is Finally Here
 
 Watch More Music Videos
 
-Close
-
-*   Share
 *   Share The New HAIM Song “Right Now” Is Finally Here on Facebook
 *   Share The New HAIM Song “Right Now” Is Finally Here on Twitter
-*   Share The New HAIM Song “Right Now” Is Finally Here on Tumblr
 *   Copy URL to share The New HAIM Song “Right Now” Is Finally Here
 
 Play The New HAIM Song “Right Now” Is Finally Here Video
@@ -344,12 +292,8 @@ See, Hear and Feel
 
 The Beat
 
-Close
-
-*   Share
 *   Share See, Hear and Feel on Facebook
 *   Share See, Hear and Feel on Twitter
-*   Share See, Hear and Feel on Tumblr
 *   Copy URL to share See, Hear and Feel
 
 The Beat
@@ -358,12 +302,8 @@ Photo Power in the Palm of Your Hand
 
 Check Out the a6500
 
-Close
-
-*   Share
 *   Share Photo Power in the Palm of Your Hand on Facebook
 *   Share Photo Power in the Palm of Your Hand on Twitter
-*   Share Photo Power in the Palm of Your Hand on Tumblr
 *   Copy URL to share Photo Power in the Palm of Your Hand
 
 Check Out the a6500
