@@ -59,7 +59,9 @@ Source &. Screen leverages over 20 years of candidate behavior experience and th
 
 The candidates you receive from our Source &. Screen team are never shopped around to other companies: They’re yours to keep upon completion and you can hire as many of them as you like – all for one flat rate.
 
-Download Data Sheet Features  
+Download Data Sheet
+
+Features  
   
   
 Supplement Your Efforts  
@@ -79,8 +81,7 @@ Make as many hires as you can from your exclusive pool of screened candidates - 
 Resources  
 
 *   *   \>. Data Sheet: Source &. Screen
-    *     
-        
+    
 
 Customers  
 
