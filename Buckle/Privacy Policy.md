@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card Gear up for Memorial Day Weekend! SHOP NEW ARRIVALS
+        Give a Buckle Gift card Americana-inspired styles to proudly display the Red, White, &. Blue. SHOP MEN'S | SHOP WOMEN'S
 *   Men
     *   *   Featured
         
@@ -135,7 +135,7 @@
         
           
           
-        Give a Buckle Gift card Gear up for Memorial Day Weekend! SHOP NEW ARRIVALS
+        Give a Buckle Gift card Americana-inspired styles to proudly display the Red, White, &. Blue. SHOP MEN'S | SHOP WOMEN'S
 *   Kids
     *   *   Featured
         
@@ -157,7 +157,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Gear up for Memorial Day Weekend! SHOP NEW ARRIVALS
+        Give a Buckle Gift card Americana-inspired styles to proudly display the Red, White, &. Blue. SHOP MEN'S | SHOP WOMEN'S
 *   Jeans
     *   *   Women's Jeans
         
@@ -187,7 +187,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Gear up for Memorial Day Weekend! SHOP NEW ARRIVALS
+        Give a Buckle Gift card Americana-inspired styles to proudly display the Red, White, &. Blue. SHOP MEN'S | SHOP WOMEN'S
 *   New
     *   *   Featured New
         
@@ -196,7 +196,7 @@
         *   Women's Florals
         *   Levi's are Here!
         *   It's in the Hem Details
-        *   Show 'em Your Cold Shoulders
+        *   Off the Shoulder
         *   Surf and Turf - Hybrid Shorts
         *   Treat Your Feet - Comfort Footbeds
         
@@ -226,7 +226,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Gear up for Memorial Day Weekend! SHOP NEW ARRIVALS
+        Give a Buckle Gift card Americana-inspired styles to proudly display the Red, White, &. Blue. SHOP MEN'S | SHOP WOMEN'S
 *   Sale
     *   *   Women's Sale
         
@@ -269,7 +269,7 @@
         
           
           
-        Give a Buckle Gift card Gear up for Memorial Day Weekend! SHOP NEW ARRIVALS
+        Give a Buckle Gift card Americana-inspired styles to proudly display the Red, White, &. Blue. SHOP MEN'S | SHOP WOMEN'S
 
 × Privacy &. Security
 
