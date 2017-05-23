@@ -267,7 +267,7 @@ Menu
         *   Making healthy cool in school through Get HYPE Philly!
         *   Engineers as leaders: The art of the possible over the probable
         *   Work Together, Give Together
-        *   Putting responsible business principles into practice: spotlight on four GSK US "intrapreneurs"
+        *   Putting responsible business principles into practice
         *   The gift of time: increased parental leave
         *   Building future leaders
         *   Designing inspiring and healthy workplaces
