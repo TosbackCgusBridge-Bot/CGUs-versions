@@ -140,7 +140,7 @@ Legal &. Regulatory*   Privacy Policy
 *   Internet Terms &. Conditions of Service
 *   Regulatory Notices
 *   PO Terms &. Conditions
-*   Tarrifs, RTCs, Price Lists and Catalogs
+*   Tariffs, RTCs, Price Lists and Catalogs
 *   Service Agreements
 *   Consumer Disclosures – BIAS
 
