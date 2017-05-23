@@ -50,9 +50,9 @@ You agree that all Subscriber Content that You contribute to the Network is perp
 In the event that You post or otherwise use Subscriber Content outside of the Network or Services, with the exception of content entirely created by You, You agree that You will follow the attribution rules of the Creative Commons Attribution Share Alike license as follows:
 
 1.  You will ensure that any such use of Subscriber Content visually displays or otherwise indicates the source of the Subscriber Content as coming from the Stack Exchange Network. This requirement is satisfied with a discreet text blurb, or some other unobtrusive but clear visual indication.
-2.  You will ensure that any such Internet use of Subscriber Content includes a hyperlink directly to the original question on the source site on the Network (e.g., http://stackoverflow.com/questions/12345)
+2.  You will ensure that any such Internet use of Subscriber Content includes a hyperlink directly to the original question on the source site on the Network (e.g., https://stackoverflow.com/questions/12345)
 3.  You will ensure that any such use of Subscriber Content visually display or otherwise clearly indicate the author names for every question and answer so used.
-4.  You will ensure that any such Internet use of Subscriber Content Hyperlink each author name directly back to his or her user profile page on the source site on the Network (e.g., http://stackoverflow.com/users/12345/username), directly to the Stack Exchange domain, in standard HTML (i.e. not through a Tinyurl or other such indirect hyperlink, form of obfuscation or redirection), without any “nofollow” command or any other such means of avoiding detection by search engines, and visible even with JavaScript disabled.
+4.  You will ensure that any such Internet use of Subscriber Content Hyperlink each author name directly back to his or her user profile page on the source site on the Network (e.g., https://stackoverflow.com/users/12345/username), directly to the Stack Exchange domain, in standard HTML (i.e. not through a Tinyurl or other such indirect hyperlink, form of obfuscation or redirection), without any “nofollow” command or any other such means of avoiding detection by search engines, and visible even with JavaScript disabled.
 
 Profile Content
 
