@@ -1,9 +1,5 @@
-You Choose ... Shop Marketplace or any store  
-You'll only need to checkout once!  
+Shop your favorite stores and discover new ones  
   
-Marketplace: All stores, all categories, all in one place.  
-  
-The Stores: Shop your favorite stores and discover new ones
 
 A modern twist on women's classic fashion and accessories. Premium-quality clothing and accessories with a classic flair. Original silk apparel for women's and men's year-round comfort. Women's &. men's fine clothing, brand-name shoes, scrumptious food &. savvy gifts. An energetic mix of clothing, shoes &. accessories for play, travel, work or just hanging out. Creative inspiration for the home.
 
