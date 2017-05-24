@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 12.619,46ǀ
+*   DAX 12.659,15ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -666,7 +666,7 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
     *   Lottozahlen
     *   Sudoku
     *   Kenken
-    *   Streets
+    *   Street
     *   Reise-Deals
 *   *   Bücher bestellen
     *   Hörbücher
