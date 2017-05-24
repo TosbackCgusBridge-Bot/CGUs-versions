@@ -45,6 +45,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Most Popular
     
     Featured
+    *   Managers postgame
     *   MLB Tonight
     *   MLB Moments
     *   Must C
