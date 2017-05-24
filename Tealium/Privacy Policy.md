@@ -1,6 +1,6 @@
 *   Products
     *   Tealium iQ Tag Management
-    *   Tealium AudienceStream
+    *   Tealium AudienceStream CDP
     *   Tealium DataAccess
 *   Integrations
 *   Resources
