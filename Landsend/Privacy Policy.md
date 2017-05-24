@@ -95,6 +95,7 @@ menu 0 Free Shipping on $50+  |  Offers
     
     *   New Arrivals
     *   No Iron Shop
+    *   Father's Day Gifts
     *   Supima Shirts &. Sweaters
     *   Swim Shop
     *   Occasion Dressing
@@ -402,6 +403,7 @@ menu 0 Free Shipping on $50+  |  Offers
         *   Back
         *   New Arrivals
         *   No Iron Shop
+        *   Father's Day Gifts
         *   Supima Shirts &. Sweaters
         *   Swim Shop
         *   Occasion Dressing
