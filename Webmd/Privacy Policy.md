@@ -108,7 +108,7 @@ Featured Topics*   Special Report Cancer Takes a Toll on a Small Town
     
     *   Consumer Reports: Best Sunscreens for 2017
     *   Can You Be Healthy and Obese?
-    *   Nuts May Help Colon Cancer Survivors
+    *   Infections From Swimming Pools Double in 2 Years
     *   Can Fidget Spinners Help You Focus?
     *   Video: Breaking the Stigma of PTSD
     
