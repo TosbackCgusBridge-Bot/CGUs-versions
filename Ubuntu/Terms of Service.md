@@ -20,7 +20,7 @@ A legal description of the services included in the Ubuntu Advantage support pac
 
 Contributors agreement ›
 
-Details of the agreement you need to send to us before you begin contributing to projects at Canonical.
+A legal description of the services included in the Ubuntu Advantage support package.
 
 BootStack terms ›
 
@@ -28,7 +28,7 @@ A legal description of the services included in BootStack.
 
 Short terms ›
 
-This agreement sets out Canonical’s standard service terms for both Ubuntu Advantage and BootStack customers.
+A legal description of the services included in BootStack.
 
 Want a fully managed private cloud?
 
@@ -40,12 +40,12 @@ Get Ubuntu
 
 The open source software platform that runs everywhere from the smartphone, the tablet and the PC to the server and the cloud.
 
-Download Ubuntu
+Download Ubuntu ›
 
 Further reading
 
+*   Redefining the Developer Event ›
 *   Hacking Through Machine Learning at the OpenPOWER Developer Congress ›
 *   Visual Studio Code is now available as a snap on Ubuntu ›
 *   Simplenote gives a new life to your notes ›
 *   Ubuntu ranked as 2nd most used IoT OS by Eclipse Foundation survey ›
-*   DataArt release new version of Alexa Virtual Device for Raspberry Pi ›
