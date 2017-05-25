@@ -605,7 +605,7 @@ We may supplement the information we collect about you through the Platforms wit
 
 The Platforms gives you choices. If you choose to receive e-mails from us about products and other information, we strive to keep your Personal Information updated and accurate.
 
-If you provided Toyota with Personal Information through the Owners section of toyota.com, you may review and update that information by clicking on the Owners link on the homepage of toyota.com, registering or logging in and then clicking on "Update Profile." If you are an Owner who subscribes to the Toyota owner e-mail list, you can access the Preferences page and change your user profile or unsubscribe from the Toyota e-mail list here.
+If you provided Toyota with Personal Information through the Owners section of toyota.com, you may review and update that information by clicking on the Owners link on the homepage of toyota.com, registering or logging in and then clicking on "Update Profile." If you have signed up for the Toyota marketing e-mail list, you can access the Preferences page and change your user profile or unsubscribe from the Toyota e-mail list here.
 
 For users who are not currently registered on our owner site, please call Customer Satisfaction at 800-331-4331 to opt out from receiving e-mail communications from Toyota. If you receive an e-mail, you may opt-out at any time by following the opt-out instructions provided in the e-mail you receive. Your opt-out request will be processed within 30 days of the date on which we receive it.
 
