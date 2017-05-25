@@ -247,11 +247,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Student-built Car Can Drive 2,713 Miles on a Gallon of Gas**
+**Our Online Personalities Change Across Different Social Media Platforms**
 
-**Helping Co-workers in the Morning May Make You More Selfish Later**
+**Satellite Images Reveal Earth Has More Forests Than Previously Thought**
 
-**Are Pop Song Lyrics Getting More Repetitive?**
+**Drug Rep Gifts Influence Doctors' Prescription Choices**
 
 About Us
 
