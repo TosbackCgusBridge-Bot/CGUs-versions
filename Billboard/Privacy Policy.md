@@ -29,11 +29,11 @@ We may store the Personally Identifiable Information we hold about you indefinit
 
 3\. 3. Children
 
-This site is not directed at children under the age of 13 and we endeavor not to knowingly collect any Personally Identifiable Information from children under the age of 13. If a parent or guardian believes that this site has collected the Personally Identifiable Information of a child under the age of 13, please contact Contact@bbthr.com.
+This site is not directed at children under the age of 13 and we endeavor not to knowingly collect any Personally Identifiable Information from children under the age of 13. If a parent or guardian believes that this site has collected the Personally Identifiable Information of a child under the age of 13, please contact \[email protected\]
 
 4\. 4. Access to your information
 
-You may contact us at Contact@bbthr.com if at any time you would like to see the Personally Identifiable Information we hold about you, or to ask us to correct or update this information, or to ask us to delete it. Please contact us if you have questions or wish to take any action with respect to information to which this Privacy Policy applies (see below for contact information).
+You may contact us at \[email protected\] if at any time you would like to see the Personally Identifiable Information we hold about you, or to ask us to correct or update this information, or to ask us to delete it. Please contact us if you have questions or wish to take any action with respect to information to which this Privacy Policy applies (see below for contact information).
 
 5\. 5. How To Contact Us
 
@@ -43,7 +43,7 @@ Prometheus Global Media
 340 Madison Avenue-6th Floor  
 New York, New York 10173  
 1-212-493-4100  
-Contact@bbthr.com
+\[email protected\]
 
 6\. 6. Changes To The Privacy Policy
 
