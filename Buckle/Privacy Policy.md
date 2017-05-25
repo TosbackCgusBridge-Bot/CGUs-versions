@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card Americana-inspired styles to proudly display the Red, White, &. Blue. SHOP MEN'S | SHOP WOMEN'S
+        Give a Buckle Gift card Show Your Patriotism with Brands that Give Back to Our Nation’s Heroes. SHOP NOW.
 *   Men
     *   *   Featured
         
@@ -135,7 +135,7 @@
         
           
           
-        Give a Buckle Gift card Americana-inspired styles to proudly display the Red, White, &. Blue. SHOP MEN'S | SHOP WOMEN'S
+        Give a Buckle Gift card Show Your Patriotism with Brands that Give Back to Our Nation’s Heroes. SHOP NOW.
 *   Kids
     *   *   Featured
         
@@ -157,7 +157,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Americana-inspired styles to proudly display the Red, White, &. Blue. SHOP MEN'S | SHOP WOMEN'S
+        Give a Buckle Gift card Show Your Patriotism with Brands that Give Back to Our Nation’s Heroes. SHOP NOW.
 *   Jeans
     *   *   Women's Jeans
         
@@ -187,7 +187,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Americana-inspired styles to proudly display the Red, White, &. Blue. SHOP MEN'S | SHOP WOMEN'S
+        Give a Buckle Gift card Show Your Patriotism with Brands that Give Back to Our Nation’s Heroes. SHOP NOW.
 *   New
     *   *   Featured New
         
@@ -226,7 +226,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Americana-inspired styles to proudly display the Red, White, &. Blue. SHOP MEN'S | SHOP WOMEN'S
+        Give a Buckle Gift card Show Your Patriotism with Brands that Give Back to Our Nation’s Heroes. SHOP NOW.
 *   Sale
     *   *   Women's Sale
         
@@ -269,7 +269,7 @@
         
           
           
-        Give a Buckle Gift card Americana-inspired styles to proudly display the Red, White, &. Blue. SHOP MEN'S | SHOP WOMEN'S
+        Give a Buckle Gift card Show Your Patriotism with Brands that Give Back to Our Nation’s Heroes. SHOP NOW.
 
 × Privacy &. Security
 
