@@ -122,6 +122,7 @@ GSK Global Website www.gsk.com
 *   Investors
 *   Media
     *   Media
+    *   GSK statement about Ventolin HFA 200D Inhaler
     *   Press releases
     *   Press Kits
         *   Press Kits
@@ -268,8 +269,8 @@ Menu
         *   Engineers as leaders: The art of the possible over the probable
         *   Work Together, Give Together
         *   Putting responsible business principles into practice
-        *   The gift of time: increased parental leave
         *   Building future leaders
+        *   The gift of time: increased parental leave
         *   Designing inspiring and healthy workplaces
     *   How we do business
         *   How we do business
