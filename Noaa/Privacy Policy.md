@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Globe had 2nd warmest April and year to date on record Last month also saw record-low Arctic, near-record-low Antarctic sea ice AROUND NOAA // Video: NOAA testing unmanned aircraft to measure lower atmosphere Video: Endangered ocean animals making a comeback Science meets commerce: Aerial data collection helped this small business soar
+Enter Search Terms Above-normal Atlantic hurricane season is most likely this year ‘Weak or non-existent’ El Nino is a factor AROUND NOAA // NOAA’s newest geostationary satellite will be positioned as GOES-East this fall Globe had 2nd warmest April and year to date on record Video: NOAA testing unmanned aircraft to measure lower atmosphere
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-NOAA
+iStock
