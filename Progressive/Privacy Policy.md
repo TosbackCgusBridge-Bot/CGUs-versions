@@ -146,36 +146,42 @@ We offer insurance by phone, online and through independent agents. Prices vary 
 *   Insurance
     *   Vehicle &. Recreational
         
+        *   ATV
         *   Auto
-        *   Motorcycle
-        *   RV/Trailer
         *   Boat
         *   Classic Car
-        *   Snowmobile
-        *   ATV
-        *   PWC
         *   Golf Cart
-        *   Segway
-        *   Auto &. Property Bundle
         
-        Home &. Property
-        *   Homeowners
-        *   Renters
+        *   Motorcycle
+        *   PWC
+        *   RV/Trailer
+        *   Segway
+        *   Snowmobile
+        *   Auto &. Property BundleSave More with Snapshot
+    *   Home &. Property
         *   Condo
+        *   Flood
+        *   Homeowners
         *   Mobile Home
-        *   FloodBundle Auto and Property
+        *   RentersBundle Auto + Property
     *   Everything Else
-        *   Commercial
-        *   Pet
-        *   Health
-        *   Wedding &. Event
-        *   Life
-        *   Mechanical Breakdown
-        *   Umbrella
+        
         *   Auto Financing
+        *   Auto Refinancing
+        *   Business
+        *   Commercial
         *   Electronic Device
+        
+        *   Health
+        *   ID Theft
+        *   Life
+        *   Mechanical Repair
         *   Mexico Auto
-        *   View All Insurance Products
+        
+        *   Pet
+        *   Travel
+        *   Umbrella
+        *   Wedding &. EventView All Insurance Products
 
 *   Claims
     *   Claims
@@ -234,31 +240,39 @@ Quote &. save today!
 
 Zip Code 
 
-Bundle for even more savings!
+Bundle and save 5%† or more on auto!
 
 *   Auto + Home
 *   Auto + Renters
 *   Auto + Condo
 
 *   Auto
-*   Home
-*   Renters
-*   Condo
-*   Mobile Home
-*   Classic Car
-
-*   Motorcycle/ATV
-*   Boat/PWC
-*   RV/Trailer
-*   Snowmobile
-*   Life
-*   Health
-
-*   Commercial Auto
-*   Business
-*   Travel
-*   Pet
-*   Mechanical Repair
 *   Auto Financing
+*   Auto Refinancing
+*   Boat/PWC
+*   Business
+*   Classic Car
+*   Commercial
 
-Auto + HomeAuto + RentersAuto + CondoAutoHomeRentersCondoMobile HomeClassic CarMotorcycle/ATVBoat/PWCRV/TrailerSnowmobileLifeHealthCommercial AutoBusinessTravelPetMechanical RepairAuto Financing 
+*   Condo
+*   Electronic Device
+*   Flood
+*   Health
+*   Homeowners
+*   ID Theft
+*   Life
+
+*   Mechanical Repair
+*   Mexico Auto
+*   Mobile Home
+*   Motorcycle/ATV
+*   Pet
+*   RV/Trailer
+*   Renters
+
+*   Segway
+*   Snowmobile
+*   Travel
+*   Wedding &. Event
+
+Auto + HomeAuto + RentersAuto + CondoAutoAuto FinancingAuto RefinancingBoat/PWCBusinessClassic CarCommercialCondoElectronic DeviceFloodHealthHomeownersID TheftLifeMechanical RepairMexico AutoMobile HomeMotorcycle/ATVPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event 
