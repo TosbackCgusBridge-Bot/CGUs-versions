@@ -8,7 +8,6 @@ Aéropostale
     *   The White Collection
     *   Festival Vibes
     *   Swim Starting at $6
-    *   Buy 1 Get 2 FREE
     *   Limited Edition
     *   Uniform
     *   Basic Essentials
