@@ -102,7 +102,7 @@ Phone and Tablet AppsThe best of what Sony has to offer on iOS or Android. Downl
 
 Your browser does not support JavaScript! Have an Out-of-This-World TV Viewing Experience
 
-With Our 4K OLED A1E
+With Our BRAVIA OLED 4K HDR TV
 
 Close
 
