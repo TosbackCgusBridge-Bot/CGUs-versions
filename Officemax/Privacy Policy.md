@@ -16,7 +16,7 @@ SEG1 hp
     enter your number below.
 *   Login or Register
 
-Office Depot Deals EACvYpSTMbAwGy8jkYtvdlT
+Office Depot Deals yBT7MN2uLGpXptTNl7jmAbT
 
 Search Suggestions
 
@@ -172,7 +172,6 @@ one qualifying item
 *   Black Friday 2017
 *   Gift &. Rewards Cards
 *   Greener Office
-*   Ideas Center
 *   Products A-Z
 *   Write a Product Review
 
@@ -219,7 +218,7 @@ one qualifying item
 *   Order by item#
 *   Order Tracking
 *   Recall Notices
-*   Refunds and Exchanges
+*   Returns and Exchanges
 *   Reorder
 *   Request a Catalog
 *   Website Feedback
