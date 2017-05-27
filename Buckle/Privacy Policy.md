@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card Show Your Patriotism with Brands that Give Back to Our Nation’s Heroes. SHOP NOW.
+        Give a Buckle Gift card We Salute Our Military! Active Duty and Veterans always receive a 10% discount. LEARN NOW.
 *   Men
     *   *   Featured
         
@@ -135,7 +135,7 @@
         
           
           
-        Give a Buckle Gift card Show Your Patriotism with Brands that Give Back to Our Nation’s Heroes. SHOP NOW.
+        Give a Buckle Gift card We Salute Our Military! Active Duty and Veterans always receive a 10% discount. LEARN NOW.
 *   Kids
     *   *   Featured
         
@@ -157,7 +157,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Show Your Patriotism with Brands that Give Back to Our Nation’s Heroes. SHOP NOW.
+        Give a Buckle Gift card We Salute Our Military! Active Duty and Veterans always receive a 10% discount. LEARN NOW.
 *   Jeans
     *   *   Women's Jeans
         
@@ -187,7 +187,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Show Your Patriotism with Brands that Give Back to Our Nation’s Heroes. SHOP NOW.
+        Give a Buckle Gift card We Salute Our Military! Active Duty and Veterans always receive a 10% discount. LEARN NOW.
 *   New
     *   *   Featured New
         
@@ -226,7 +226,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Show Your Patriotism with Brands that Give Back to Our Nation’s Heroes. SHOP NOW.
+        Give a Buckle Gift card We Salute Our Military! Active Duty and Veterans always receive a 10% discount. LEARN NOW.
 *   Sale
     *   *   Women's Sale
         
@@ -269,7 +269,7 @@
         
           
           
-        Give a Buckle Gift card Show Your Patriotism with Brands that Give Back to Our Nation’s Heroes. SHOP NOW.
+        Give a Buckle Gift card We Salute Our Military! Active Duty and Veterans always receive a 10% discount. LEARN NOW.
 
 × Privacy &. Security
 
