@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Research Science meets commerce: Aerial data collection helped this small business soar Across NOAA Ever dream of becoming a scientist? Dream no more. National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Research Science meets commerce: Aerial data collection helped this small business soar Oceans &. Coasts Video: Could you survive a rip current? See how National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Above-normal Atlantic hurricane season is most likely this year ‘Weak or non-existent’ El Nino is a factor AROUND NOAA // NOAA’s newest geostationary satellite will be positioned as GOES-East this fall Globe had 2nd warmest April and year to date on record Video: NOAA testing unmanned aircraft to measure lower atmosphere
+Enter Search Terms Above-normal Atlantic hurricane season is most likely this year ‘Weak or non-existent’ El Nino is a factor AROUND NOAA // Video: Heading to the beach? See our rip current survival guide first NOAA’s newest geostationary satellite will be positioned as GOES-East this fall Video: NOAA testing unmanned aircraft to measure lower atmosphere
 
 *   About our agency
 *   News and features
