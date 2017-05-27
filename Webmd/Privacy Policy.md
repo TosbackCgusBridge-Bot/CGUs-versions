@@ -75,8 +75,8 @@ Featured Topics*   News How and When Medical Marijuana Is Used
     *   Healthy Teens
     *   Fit Kids
 
-Featured Topics*   Video What Does Your Thyroid Do?
-*   News Cook at Home to Save Money and Eat Healthier
+Featured Topics*   Video Cancer Screenings for Women
+*   Blog Can Fidget Spinners Help You Focus?
 
 *   Family &  
     Pregnancy Family &. Pregnancy Family &. Pregnancy All About Pregnancy
@@ -107,10 +107,10 @@ Featured Topics*   Special Report Cancer Takes a Toll on a Small Town
     Experts News &. Experts News &. Experts Health News
     
     *   Consumer Reports: Best Sunscreens for 2017
-    *   Can You Be Healthy and Obese?
+    *   Where You Carry Fat May Raise Cancer Risk
     *   Infections From Swimming Pools Double in 2 Years
     *   Can Fidget Spinners Help You Focus?
-    *   Video: Breaking the Stigma of PTSD
+    *   Video: Powassan Virus
     
     Experts &. Community
     *   Message Boards
