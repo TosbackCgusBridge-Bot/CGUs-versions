@@ -38,8 +38,14 @@ and studied at Hong Kong University Of Science And Technology (HKUST).
 
 Recently Added Ree , Reyan.Ardan
 
+Quebec, Quebec
+
 *   Obey the Brave
 *   Malang, Indonesia
+
+Ree currently lives in Quebec, QC.  
+Ree works at Obey The Brave.  
+and studied at Suzuran High School.  
 
 Recently Added ซุ้ม เพรชบ้านฉาง ไก่ชนลำพูน, zfsgvggg
 
