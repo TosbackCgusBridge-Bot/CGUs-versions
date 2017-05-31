@@ -45,8 +45,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Build.snapcraft.io gets your code ready to distribute in minutes ›
 *   Redefining the Developer Event ›
 *   Hacking Through Machine Learning at the OpenPOWER Developer Congress ›
 *   Visual Studio Code is now available as a snap on Ubuntu ›
 *   Simplenote gives a new life to your notes ›
-*   Ubuntu ranked as 2nd most used IoT OS by Eclipse Foundation survey ›
