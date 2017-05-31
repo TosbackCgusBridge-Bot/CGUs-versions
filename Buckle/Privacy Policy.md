@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card We Salute Our Military! Active Duty and Veterans always receive a 10% discount. LEARN NOW.
+        Give a Buckle Gift card School’s Out, Summer’s In. Shop Looks You’ll Be Wearing All Summer Long!
 *   Men
     *   *   Featured
         
@@ -135,7 +135,7 @@
         
           
           
-        Give a Buckle Gift card We Salute Our Military! Active Duty and Veterans always receive a 10% discount. LEARN NOW.
+        Give a Buckle Gift card School’s Out, Summer’s In. Shop Looks You’ll Be Wearing All Summer Long!
 *   Kids
     *   *   Featured
         
@@ -157,7 +157,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card We Salute Our Military! Active Duty and Veterans always receive a 10% discount. LEARN NOW.
+        Give a Buckle Gift card School’s Out, Summer’s In. Shop Looks You’ll Be Wearing All Summer Long!
 *   Jeans
     *   *   Women's Jeans
         
@@ -187,7 +187,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card We Salute Our Military! Active Duty and Veterans always receive a 10% discount. LEARN NOW.
+        Give a Buckle Gift card School’s Out, Summer’s In. Shop Looks You’ll Be Wearing All Summer Long!
 *   New
     *   *   Featured New
         
@@ -226,7 +226,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card We Salute Our Military! Active Duty and Veterans always receive a 10% discount. LEARN NOW.
+        Give a Buckle Gift card School’s Out, Summer’s In. Shop Looks You’ll Be Wearing All Summer Long!
 *   Sale
     *   *   Women's Sale
         
@@ -269,7 +269,7 @@
         
           
           
-        Give a Buckle Gift card We Salute Our Military! Active Duty and Veterans always receive a 10% discount. LEARN NOW.
+        Give a Buckle Gift card School’s Out, Summer’s In. Shop Looks You’ll Be Wearing All Summer Long!
 
 × Privacy &. Security
 
