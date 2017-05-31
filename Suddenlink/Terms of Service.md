@@ -24,7 +24,6 @@ Skip to main content     Search Google Appliance Enter the terms you wish to s
 *   My Suddenlink
 *   Help
 *   Business
-*   SuddenlinkFYI
 *   Suddenlink2GO
 
 We can't detect your location. Please provide an address. Change Change your Location ×
@@ -45,7 +44,6 @@ Search Google Appliance Enter the terms you wish to search for. Search
 
 *   Español
 *   TV Lineup
-*   Suddenlink FYI
 *   Suddenlink2GO
 *   Contact Us
 *   My Account
