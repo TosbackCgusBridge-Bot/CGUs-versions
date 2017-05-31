@@ -247,11 +247,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Are Aliens Really Building a 'Megastructure' Around Tabby's Star?**
+**Infrasound and Paranormal Activity: Are They Connected?**
 
-**The 100 Days When Teen Drivers Are Most Likely to Die**
+**Knowing a Tornado's Strength Could Save More Lives Than Knowing Its Exact Path**
 
-**Cool, Comical and Captivating: Our Best Stories You Might Have Missed This Week**
+**When a Town Pays for Uber Rides Rather Than Creating a Bus System**
 
 About Us
 
