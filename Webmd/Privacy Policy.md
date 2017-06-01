@@ -107,9 +107,9 @@ Featured Topics*   Special Report Cancer Takes a Toll on a Small Town
     Experts News &. Experts News &. Experts Health News
     
     *   Consumer Reports: Best Sunscreens for 2017
-    *   Where You Carry Fat May Raise Cancer Risk
-    *   Infections From Swimming Pools Double in 2 Years
-    *   Can Fidget Spinners Help You Focus?
+    *   Can You Change Your Gut Bacteria?
+    *   CDC: Alzheimer's Cases Jump 55%
+    *   Sleepless Nights May Harm Your Heart
     *   Video: Powassan Virus
     
     Experts &. Community
