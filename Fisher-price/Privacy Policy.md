@@ -226,7 +226,7 @@ CUSTOMER SERVICE
 *   Replacement parts
 *   Submit Product Ideas
 
-**\*Free shipping offer is valid on all orders and is viewable in your cart at checkout. No minimum purchase amount is required. Offer expires at 6/4/2017 at 11:59 PM. We reserve the right to change or discontinue this offer at any time.**
+**\*Free shipping offer is valid on all orders and is viewable in your cart at checkout. No minimum purchase amount is required. Applies to standard shipping charges to U.S. addresses only. Canadian shipping charges, rush charges, and/or large item surcharges are additional. Offer expires at 6/4/2017 at 11:59 PM. We reserve the right to change or discontinue this offer at any time.**
 
 Home for Fisher-Price Toys &. More | Use of this site signifies your acceptance of the terms and conditions of use. ©2017Mattel All Rights Reserved.
 
