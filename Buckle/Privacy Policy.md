@@ -366,12 +366,16 @@ Returns
 
 Promotions
 
+*   All Promotions
 *   Buckle Card Beach Towel GWP
-*   Brand Madness Official Rules
-*   Social Giveaway Official Rules
 *   Store Events
-*   Sweepstakes Winners
 *   Military Discount
+
+Sweepstakes Official Rules/Winners
+
+*   Brand Madness Offical Rules
+*   Social Give Away Official Rules
+*   Sweepstakes Winners
 
 Our Merchandise
 
