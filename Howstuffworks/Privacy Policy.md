@@ -247,11 +247,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Infrasound and Paranormal Activity: Are They Connected?**
+**Your Hay Fever Could Make You Allergic to Some Fruits**
 
-**Knowing a Tornado's Strength Could Save More Lives Than Knowing Its Exact Path**
+**Wasted Food in the U.S. Could Feed Much of Population**
 
-**When a Town Pays for Uber Rides Rather Than Creating a Bus System**
+**A Human's Sense of Smell Is Actually as Good as a Dog's**
 
 About Us
 
