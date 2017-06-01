@@ -208,7 +208,7 @@ Follow Us
 *   Türkçe
 *   简体中文
 
-Time zone: **UTC**
+Time zone: **MST**
 
 *   CBS Interactive © 2017 Last.fm Ltd. All rights reserved
 *   Terms of Use
