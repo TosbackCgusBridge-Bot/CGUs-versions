@@ -1,4 +1,4 @@
-FRBR Mai 2017
+FRBR Juin 2017
 
 *   Objet
 *   Mentions légales
