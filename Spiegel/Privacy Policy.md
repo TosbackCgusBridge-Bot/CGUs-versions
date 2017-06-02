@@ -6,7 +6,7 @@ Mein SPIEGEL
 
 *   Schlagzeilen ǀ
 *   Wetterǀ
-*   DAX 12.615,06ǀ
+*   DAX 12.664,92ǀ
 *   TV-Programmǀ
 *   Abo
 
@@ -673,6 +673,7 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
     *   Arztsuche
     *   DSL-Vergleich
     *   Ferientermine
+    *   Mediaplanet Themen
 
 SPIEGEL GRUPPE
 
