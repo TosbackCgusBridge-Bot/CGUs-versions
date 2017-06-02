@@ -86,11 +86,11 @@ Up to
 
 Legacy 3.6R Limited shown
 
-Forester $22,595\* starting price 2017 Forester
+Forester $22,795\* starting price 2018 Forester
 
 Starting at
 
-$22,595 MSRP
+$22,795 MSRP
 
 Up to
 
