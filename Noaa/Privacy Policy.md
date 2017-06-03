@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Above-normal Atlantic hurricane season is most likely this year ‘Weak or non-existent’ El Nino is a factor AROUND NOAA // How ocean savvy are you? Join us in June for #30DaysofOcean Video: Heading to the beach? See our rip current survival guide first NOAA’s newest geostationary satellite will be positioned as GOES-East this fall
+Enter Search Terms How ocean savvy are you? Join us in June for #30DaysofOcean AROUND NOAA // Above-normal Atlantic hurricane season is most likely this year Video: Heading to the beach? See our rip current survival guide first NOAA’s newest geostationary satellite will be positioned as GOES-East this fall
 
 *   About our agency
 *   News and features
