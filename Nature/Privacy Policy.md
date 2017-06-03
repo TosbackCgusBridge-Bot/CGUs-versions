@@ -206,9 +206,9 @@ Donate to The Nature Conservancy
 
 When you donate today, you’ll help The Nature Conservancy protect the most vital habitats on Earth.  
 
-Donate Now Featured Articles What's Your Nature?
+Donate Now Featured Articles Guided by Science
 
-Show us your nature and enter our photo contest today. Submit
+We're united by nature, and guided by science. Learn
 
 Gift Catalog
 
