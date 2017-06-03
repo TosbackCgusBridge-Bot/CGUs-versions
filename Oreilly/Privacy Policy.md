@@ -1,15 +1,15 @@
 skip to main content
 
 *   Ideas
-*   Learning
-*   Events
+*   Learning Platform
+*   Conferences
 *   Shop
 
 Search terms Search Your Account Open menuClose menu
 
 *   Ideas
-*   Learning
-*   Events
+*   Learning Platform
+*   Conferences
 *   Shop
 
 Search terms Search On Our Radar
