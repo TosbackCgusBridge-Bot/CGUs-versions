@@ -240,12 +240,6 @@ Quote &. save today!
 
 Zip Code 
 
-Bundle and save 5%† or more on auto!
-
-*   Auto + Home
-*   Auto + Renters
-*   Auto + Condo
-
 *   Auto
 *   Auto Financing
 *   Auto Refinancing
@@ -260,19 +254,19 @@ Bundle and save 5%† or more on auto!
 *   Health
 *   Homeowners
 *   ID Theft
-*   Life
 
+*   Life
 *   Mechanical Repair
 *   Mexico Auto
 *   Mobile Home
 *   Motorcycle/ATV
 *   Pet
+
 *   RV/Trailer
 *   Renters
-
 *   Segway
 *   Snowmobile
 *   Travel
 *   Wedding &. Event
 
-Auto + HomeAuto + RentersAuto + CondoAutoAuto FinancingAuto RefinancingBoat/PWCBusinessClassic CarCommercialCondoElectronic DeviceFloodHealthHomeownersID TheftLifeMechanical RepairMexico AutoMobile HomeMotorcycle/ATVPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event 
+AutoAuto FinancingAuto RefinancingBoat/PWCBusinessClassic CarCommercialCondoElectronic DeviceFloodHealthHomeownersID TheftLifeMechanical RepairMexico AutoMobile HomeMotorcycle/ATVPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event 
