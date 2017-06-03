@@ -76,6 +76,10 @@ Login Let's Connect What We Do Watch Video
     Return On Ad Spend
 
 *   The Latest News
+*   Guaranteed Ad Quality
+    
+    How we achieve high-quality campaigns  
+    
 *   Get Video Ads on the Right Screens
     
     Extend TV ads to digital with scale &. accuracy  
@@ -91,10 +95,6 @@ Login Let's Connect What We Do Watch Video
 *   The "50 First Dates" Problem
     
     A recipe for bad digital marketing
-    
-*   Marketing Is Failing At Its Top Priority
-    
-    New report with Econsultancy  
     
 
 NEW GUIDE
