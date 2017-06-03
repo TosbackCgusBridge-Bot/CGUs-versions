@@ -45,8 +45,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Kubernetes webinar series ›
+*   Customising MAAS installs ›
 *   The Turtlebot 3 has launched ›
 *   Build.snapcraft.io gets your code ready to distribute in minutes ›
 *   Redefining the Developer Event ›
-*   Hacking Through Machine Learning at the OpenPOWER Developer Congress ›
-*   Visual Studio Code is now available as a snap on Ubuntu ›
