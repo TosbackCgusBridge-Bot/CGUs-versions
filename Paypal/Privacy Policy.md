@@ -1,14 +1,14 @@
 Menu PayPal
 
 *   Personal
-    *   Getting Started _How to use PayPal_
+    Personal*   Getting Started _How to use PayPal_
     *   Check Out Securely Online _Use your credit cards or other funds_
     *   PayPal Credit _Get more time to pay_
     *   Mobile Wallet _Pay in stores with our app_
     *   eBay Payments _Speed through checkout on eBay_
     *   Shopping and More _Deals, gift cards and donations_
 *   Business
-    *   All Business Solutions _Merchant services, invoicing, and more_
+    Business*   All Business Solutions _Merchant services, invoicing, and more_
     *   Get Paid in Person _Mobile card readers and POS Solutions_
     *   Get Paid on Your Website _Accept credit &. debit cards and PayPal_
     *   Borrow for Your Business _Affordable business loans_
