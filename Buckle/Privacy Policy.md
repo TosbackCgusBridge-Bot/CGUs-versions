@@ -107,6 +107,7 @@
         
         *   Jeans
         *   Pants
+        *   Chinos
         *   Joggers
         *   Shorts
         *   Boardshorts
