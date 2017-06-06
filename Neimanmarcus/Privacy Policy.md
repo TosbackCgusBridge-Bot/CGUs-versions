@@ -1,4 +1,4 @@
-Terms &. Conditions and Privacy Policy
+Privacy Policy &. Terms of Use
 
 *   Security &. Privacy Introduction
     
@@ -156,7 +156,7 @@ Terms &. Conditions and Privacy Policy
     *   Neiman Marcus
     *   P.O. Box 650589
     *   Dallas, TX 75265-0589
-*   Conditions of Use &. Disclaimers
+*   Conditions of Use
     
     When you use this website, you are automatically agreeing that both your access to the site and your use of it are:
     
@@ -213,7 +213,7 @@ Terms &. Conditions and Privacy Policy
     
     As part of our ongoing commitment to ensure that your shopping experience with NeimanMarcus.com is protected, NeimanMarcus.com will prosecute all unauthorized or fraudulent transactions to the fullest extent allowed by law.
     
-*   Protecting Yourself From Internet Scams
+*   Security Against Fraud
     
     It should come as no surprise that one of our highest priorities at The Neiman Marcus Group is keeping your personal information secure and confidential. To that end, we would like to share some of the most common types of internet scams and suggestions on how you can be aware of and help protect yourself against identity theft.
     
