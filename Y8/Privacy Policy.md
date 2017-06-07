@@ -13,8 +13,6 @@ My Profile points
 *   My games ()
 *   Log out
 
-Powered by
-
 *   New Games
 *   Best of new games
 *   Most Popular Games
