@@ -45,8 +45,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Canonical Kernel Livepatch Service now available for Ubuntu 14.04 LTS! ›
+*   Developer Economics survey Q3 2017 ›
 *   Kubernetes webinar series ›
 *   Customising MAAS installs ›
 *   The Turtlebot 3 has launched ›
-*   Build.snapcraft.io gets your code ready to distribute in minutes ›
-*   Redefining the Developer Event ›
