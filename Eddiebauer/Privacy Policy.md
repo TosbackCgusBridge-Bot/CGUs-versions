@@ -70,7 +70,7 @@ We provide you access to the following information if you send us an email, call
 *   Transaction information (dates on which you made purchases, amounts and types of Purchases)
 *   Contact information (name, address, phone number)
 
-We provide you with the ability to delete personally identifiable information if you send us an email, call us or write to us
+???company.info.privacy.and.security.content.msg42a???
 
 We evaluate each request and will reply in an appropriate manner and in a form of communication that ensures the security of the information you have requested. Any questions, pleasecontact us.
 
