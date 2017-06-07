@@ -104,7 +104,7 @@ You may choose to opt-out of certain communications or uses of information colle
   
 For more information or to opt-out of certain online behavioral advertising, please visit http://www.aenetworks.com/adchoices.  
   
-Facebook is an advertising partner and may collect and use data to display advertisements on all A+E Networks' digital websites and apps. For more information and to control the ads you see, visit https://m.facebook.com/ads/audience\_network.  
+Facebook is an advertising partner and may collect and use data to display advertisements on all A+E Networks' digital websites and apps. For more information and to control the ads you see, visit https://www.facebook.com/ads/about/?page\_number=6.  
   
 **DO NOT TRACK SIGNALS**  
   
