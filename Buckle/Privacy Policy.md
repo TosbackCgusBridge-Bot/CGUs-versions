@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card School’s Out, Summer’s In. Shop Looks You’ll Be Wearing All Summer Long!
+        Give a Buckle Gift card Check out The Beach Shop for ultimate summer inspiration!
 *   Men
     *   *   Featured
         
@@ -136,7 +136,7 @@
         
           
           
-        Give a Buckle Gift card School’s Out, Summer’s In. Shop Looks You’ll Be Wearing All Summer Long!
+        Give a Buckle Gift card Check out The Beach Shop for ultimate summer inspiration!
 *   Kids
     *   *   Featured
         
@@ -158,7 +158,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card School’s Out, Summer’s In. Shop Looks You’ll Be Wearing All Summer Long!
+        Give a Buckle Gift card Check out The Beach Shop for ultimate summer inspiration!
 *   Jeans
     *   *   Women's Jeans
         
@@ -188,7 +188,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card School’s Out, Summer’s In. Shop Looks You’ll Be Wearing All Summer Long!
+        Give a Buckle Gift card Check out The Beach Shop for ultimate summer inspiration!
 *   New
     *   *   Featured New
         
@@ -227,7 +227,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card School’s Out, Summer’s In. Shop Looks You’ll Be Wearing All Summer Long!
+        Give a Buckle Gift card Check out The Beach Shop for ultimate summer inspiration!
 *   Sale
     *   *   Women's Sale
         
@@ -270,7 +270,7 @@
         
           
           
-        Give a Buckle Gift card School’s Out, Summer’s In. Shop Looks You’ll Be Wearing All Summer Long!
+        Give a Buckle Gift card Check out The Beach Shop for ultimate summer inspiration!
 
 × Privacy &. Security
 
@@ -368,7 +368,6 @@ Returns
 Promotions
 
 *   All Promotions
-*   Buckle Card Beach Towel GWP
 *   Store Events
 *   Military Discount
 
