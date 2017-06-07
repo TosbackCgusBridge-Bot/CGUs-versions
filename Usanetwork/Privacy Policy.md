@@ -33,10 +33,11 @@ Skip to main content
             13.  UNIVERSO UNIVERSO Modern general entertainment for Latinos, bringing the world's top sports franchises and edgy, emotional programming to more than 40 million households. UNIVERSO
             14.  USA Network USA Network A powerful portfolio of scripted and unscripted drama and comedy originals seen in more than 102 million U.S. homes. USA Network
         4.  Digital Businesses
-            1.  Fandango Fandango The nation's leading moviegoer destination. Sells tickets to more than 24,000 screens nationwide. Fandango
-            2.  GolfNow GolfNow Uses leading-edge technology to offers nearly 2 million registered golfers more ways to stay connected to their favorite courses and tee times. GolfNow
-            3.  Hulu Hulu A premium streaming TV destination that seeks to captivate and connect viewers with the stories they love. Hulu
-            4.  Seeso Seeso A new streaming comedy channel offering original and library TV and Film content for $3.99 per month Seeso
+            1.  Craftsy Craftsy Craftsy is the preeminent online destination for passionate makers to learn, create and share. Craftsy
+            2.  Fandango Fandango The nation's leading moviegoer destination. Sells tickets to more than 24,000 screens nationwide. Fandango
+            3.  GolfNow GolfNow Uses leading-edge technology to offers nearly 2 million registered golfers more ways to stay connected to their favorite courses and tee times. GolfNow
+            4.  Hulu Hulu A premium streaming TV destination that seeks to captivate and connect viewers with the stories they love. Hulu
+            5.  Seeso Seeso A new streaming comedy channel offering original and library TV and Film content for $3.99 per month Seeso
         5.  Film
             1.  Focus Features Focus Features Produces, acquires, and releases movies from rising and established talent and filmmakers. Offers a diverse slate for a wide range of moviegoers. Focus Features
             2.  Universal Pictures Universal Pictures Creates and distributes theatrical and non-theatrical filmed entertainment for a growing global marketplace. Universal Pictures
@@ -95,6 +96,7 @@ Skip to main content
                 *   UNIVERSO
                 *   USA Network
         *   *   DIGITAL BUSINESSES
+                *   Craftsy
                 *   Fandango
                 *   GolfNow
                 *   Hulu
