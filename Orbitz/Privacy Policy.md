@@ -1,4 +1,4 @@
-Skip to main content Cobranded header here Welcome to Orbitz.com **Continue to the U.S. site at Orbitz.com** close Booking travel on behalf of Done Join Rewards //a.travel-assets.com/globalcontrols-service/content/35860910227eea19f154f4bf446d42f190b5872a/ Search anything Search
+Skip to main content Cobranded header here Welcome to Orbitz.com **Continue to the U.S. site at Orbitz.com** close Booking travel on behalf of Done Join Rewards //a.travel-assets.com/globalcontrols-service/content/b6c04d13c08de1596e4e13d9734915fab1eeb412/ Search anything Search
 
 Show Menu
 
@@ -44,7 +44,7 @@ Show Menu
     *   Feedback
 *   Español
 
-//a.travel-assets.com/globalcontrols-service/content/35860910227eea19f154f4bf446d42f190b5872a/ Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/b6c04d13c08de1596e4e13d9734915fab1eeb412/ Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Hotels
@@ -231,7 +231,7 @@ Earn Orbucks on flights, hotels &. more
 *   Book Flights &. Hotels Anywhere
 *   Track Flights &. Itineraries
 
-Send a download link to your mobile device Send text Oops! Is it possible you�ve already downloaded our app? Sorry, we are currently having problems connecting to our server. You can still download the app by clicking on the app-store buttons in our app page. Thank you! We are having trouble processing your phone number. Try using this format: {{phoneNumberFormat}}. Thank you! It looks like you just tried to enter a non-{{countryName}} phone number. Unfortunately, at this time we are only supporting {{countryName}} numbers. Please enter your number in the following format: {{phoneNumberFormat}}. Thank you! Thank you! A text with the download link has been sent to your mobile device Orbitz App Now Available On: By providing your number, you agree to receive a one-time automated text message with a link to get the app. Our app offers promotions and booking services. No purchase necessary. Standard text message rates may apply. Explore More Orbitz
+Send a download link to your mobile device Send text Oops! Is it possible you've already downloaded our app? Sorry, we are currently having problems connecting to our server. You can still download the app by clicking on the app-store buttons in our app page. Thank you! We are having trouble processing your phone number. Try using this format: {{phoneNumberFormat}}. Thank you! It looks like you just tried to enter a non-{{countryName}} phone number. Unfortunately, at this time we are only supporting {{countryName}} numbers. Please enter your number in the following format: {{phoneNumberFormat}}. Thank you! Thank you! A text with the download link has been sent to your mobile device Orbitz App Now Available On: By providing your number, you agree to receive a one-time automated text message with a link to get the app. Our app offers promotions and booking services. No purchase necessary. Standard text message rates may apply. Explore More Orbitz
 
 *   About Orbitz
 *   Investor Relations
