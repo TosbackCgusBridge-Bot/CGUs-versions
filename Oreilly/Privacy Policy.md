@@ -1,14 +1,14 @@
 skip to main content
 
 *   Ideas
-*   Learning Platform
+*   Learning
 *   Conferences
 *   Shop
 
 Search terms Search Your Account Open menuClose menu
 
 *   Ideas
-*   Learning Platform
+*   Learning
 *   Conferences
 *   Shop
 
