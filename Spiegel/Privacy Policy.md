@@ -1,16 +1,25 @@
   
   
-Mein SPIEGEL
 
 Mein SPIEGEL
 
-*   Schlagzeilen ǀ
-*   Wetterǀ
-*   DAX 12.690,12ǀ
-*   TV-Programmǀ
+*   Menü
+*   Politik
+*   Meinung
+*   Wirtschaft
+*   Panorama
+*   Sport
+*   Kultur
+*   Netzwelt
+*   Wissenschaft
+*   mehr 
+
+*   Mein SPIEGEL
 *   Abo
-
-Mein SPIEGEL
+*   TV-Programmǀ
+*   DAX 12.672,49ǀ
+*   Wetterǀ
+*   Schlagzeilenǀ
 
 *   Nachrichten
 *   Schlagzeilen
@@ -19,15 +28,14 @@ Mein SPIEGEL
 *   Newsletter
 *   RSS
 *   Mobil
-*   mehr
+*   Multimedia
     
     *   Story
     *   Fotostrecken
     *   Infografiken
-    *   Hilfe
-    *   Impressum
 
 *   Politik
+    
     *   *   Übersicht
         *   Deutschland
         *   Ausland
@@ -36,6 +44,7 @@ Mein SPIEGEL
     
 *   Meinung
 *   Wirtschaft
+    
     *   *   Übersicht
         *   Börse
         *   Verbraucher &. Service
@@ -48,6 +57,7 @@ Mein SPIEGEL
         *   Immowelt
         *   Tarifvergleiche
 *   Panorama
+    
     *   *   Übersicht
         *   Justiz
         *   Leute
@@ -57,6 +67,7 @@ Mein SPIEGEL
     *   *   LOTTO 6aus49
         *   Eurojackpot
 *   Sport
+    
     *   *   Übersicht
         *   Fußball-Liveticker
         *   Fußball-News
@@ -69,6 +80,7 @@ Mein SPIEGEL
     *   *   Bundesliga präsentiert von  
             Continental
 *   Kultur
+    
     *   *   Übersicht
         *   Kino
         *   Musik
@@ -80,6 +92,7 @@ Mein SPIEGEL
     *   *   Hörbücher
 *   Video
 *   Netzwelt
+    
     *   *   Übersicht
         *   Netzpolitik
         *   Web
@@ -88,6 +101,7 @@ Mein SPIEGEL
         *   Apps
     
 *   Wissenschaft
+    
     *   *   Übersicht
         *   Mensch
         *   Natur
@@ -101,6 +115,7 @@ Mein SPIEGEL
         *   Street
 
 *   Gesundheit
+    
     *   *   Übersicht
         *   Diagnose &. Therapie
         *   Ernährung &. Fitness
@@ -111,6 +126,7 @@ Mein SPIEGEL
         *   Kalorienrechner
         *   Arztsuche
 *   einestages
+    
     *   *   Übersicht
         *   Zeitzeugen
         *   Erster Weltkrieg
@@ -122,12 +138,14 @@ Mein SPIEGEL
         *   Archiv
 *   KarriereSPIEGEL
 *   Leben und Lernen
+    
     *   *   Übersicht
         *   Schule
         *   Uni
         *   Job
 *   bento
 *   Reise
+    
     *   *   Übersicht
         *   Städtereisen
         *   Deutschland
@@ -136,11 +154,13 @@ Mein SPIEGEL
         *   Skiatlas
     *   *   Deals der Woche
 *   Auto
+    
     *   *   Übersicht
         *   Tests
         *   Fahrkultur
     *   *   Kfz-Versicherung
 *   Stil
+    
     *   *   Übersicht
         *   Design
         *   Mode
@@ -149,6 +169,7 @@ Mein SPIEGEL
         *   Hotels
     
 *   English
+    
     *   *   Front Page
         *   World
         *   Europe
@@ -159,6 +180,7 @@ Mein SPIEGEL
         *   Newsletter
 
 *   SPIEGEL Plus
+    
     *   *   Übersicht
         *   SPIEGEL Plus Deutschland
         *   SPIEGEL Plus Wirtschaft
@@ -177,12 +199,14 @@ Mein SPIEGEL
     *   Shop
     *   SPIEGELblog
 *   SPIEGEL TV
+    
     *   *   Übersicht
         *   SPIEGEL TV Magazin
         *   SPIEGEL TV Reportage
         *   SPIEGEL TV Programm
         *   SPIEGEL.TV
 *   Forum
+    
     *   *   Übersicht
         *   Votes
         *   Netiquette
@@ -210,7 +234,7 @@ Mein SPIEGEL
 Abbrechen Zeitraumallesletzte Wocheletzter Monatletztes Jahrseit 2005vor 2005vor 2000vor 1995vor 1990vor 1980vor 1970vor 1960 Überschrift und VorspannVolltextAutor
 
 *   Nachrichten
-*   \>Mein SPIEGEL
+*   Mein SPIEGEL
 *   \>Allgemeine Nutzungsbedingungen
 
   
