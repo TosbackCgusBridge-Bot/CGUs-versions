@@ -15,7 +15,6 @@ Sencha
         *   Framework Comparison
     *   Sencha Test
     *   GXT
-    *   Sencha Touch
     *   App Modernization
         *   IBM i
         *   Oracle Forms
