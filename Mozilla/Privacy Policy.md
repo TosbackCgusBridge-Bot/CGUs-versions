@@ -61,7 +61,7 @@ Firefox Privacy Close
     
     Internet Health is crucial for the world to thrive. A healthy Internet is one that is private, inclusive, and collaborative.
     
-    *   What is Internet Health?
+    *   About
     *   Privacy &. Security
     *   Open Innovation
     *   Decentralization
