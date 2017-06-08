@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms How ocean savvy are you? Join us in June for #30DaysofOcean AROUND NOAA // Above-normal Atlantic hurricane season is most likely this year Video: Heading to the beach? See our rip current survival guide first NOAA’s newest geostationary satellite will be positioned as GOES-East this fall
+Enter Search Terms How ocean savvy are you? Join us in June for #30DaysofOcean AROUND NOAA // U.S. had 8th warmest, 11th wettest spring on record Celebrate World Ocean Day with NOAA and our partners Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event Above-normal Atlantic hurricane season is most likely this year
 
 *   About our agency
 *   News and features
