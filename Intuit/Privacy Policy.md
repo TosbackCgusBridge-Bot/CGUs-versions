@@ -41,17 +41,16 @@ Your Store: select store 0 my bag $ 0.00
 *   sephora
 *   clearance
 
-2017.9.0.0.87.0 2017 XM migration-home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Jun 07 22:12:40 CDT 2017 JVM :->. dtexppr1l2j3\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneA \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Jun 07 05:54:17 CDT 2017 JVM :->. dtexppr1l2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneB \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Jun 07 05:54:17 CDT 2017 JVM :->. dtexppr1l2j2\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneC
+2017.9.0.0.87.0 2017 XM migration-home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Jun 08 22:42:22 CDT 2017 JVM :->. dtexppr1c2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneA \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Jun 08 22:42:22 CDT 2017 JVM :->. dtexppr1c2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneB \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Jun 08 22:42:13 CDT 2017 JVM :->. dtexppr1c2j4\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneC
 
-Smart Home
+SMART HOME
 
-shop now
+SHOP NOW
 
 *   $199.99 sale $249.99  original Ring Video Doorbell Pro
 *   $249.99  Netgear Arlo Pro Wirefree HD Security Camera System
 *   $149.99  Honeywell Lyric T5 WiFi Thermostat
 *   $399.99  Neato Robotics Robotic Vacuum 4.080000 (96)
-*   $129.99  Supersonic SC-1417SB 39" 2.0 Premium Optical Bluetooth Soundbar System
 *   $49.99  ilive™ 32" Soundbar With Bluetooth 4.000000 (5)
 *   $49.99  Ring Solar Panel
 *   $49.99  Simple Home XHS7-1002-WHT WiFi Smart Siren Alarm White
@@ -60,32 +59,33 @@ shop now
 *   $129.99  Roku - Ultra Streaming Media Player 4640R
 *   $799.99  Sharp 50" Aquos 4K Ultra HD LED Smart TV
 *   $49.99  Simple Home Wi-Fi Smart Controlled Wall Outlet
-*   $174.99 sale $249.99  original Samsung Smart Things Home Monitoring Kit
+*   $249.99  Samsung Smart Things Home Monitoring Kit
 *   $329.99  Netgear Arlo Smart Home HD Security Camera System (2 pack)
+*   $199  Honeywell Lyric Round WiFi Thermostat
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Jun 07 22:13:28 CDT 2017 JVM :->. dtexppr1l2j4\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneD
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Jun 08 22:42:18 CDT 2017 JVM :->. dtexppr1c2j3\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneD
 
-On Major Appliances
+30-50% OFF DRESSES
 
-Shop hot deals
+SHOP NOW
 
-*   $1,099 sale $1,899 - $2,199  original Samsung ENERGY STAR® 26 cu. ft. 36” Wide 3-Door French Door Refrigerator with Filtered Ice Maker 4.66 (377)
-*   $2,299 - $2,399 sale $3,599 - $3,799  original Samsung ENERGY STAR® 28 cu. ft. 4-Door French Door Refrigerator with Food Showcase Design 4.75 (488)
-*   $1,499 sale $2,299 - $2,599  original Samsung ENERGY STAR® 24.6 cu. ft. 36" Wide 3-DoorFrench Door Refrigerator with External Ice Maker" 4.5 (607)
-*   $649 - $699 sale $899 - $999  original Samsung 5.2 Cu. Ft. Capacity Activewash™ Top Load Washer with Integrated Controls
-*   $399 sale $499  original GE® 3.8 cu. ft. Electric Washer with Stainless Steel Basket 4.16 (1255)
-*   $1,099 - $1,199 sale $1,699 - $1,999  original Samsung 21.8 cu. ft. 30” Wide French-Door Refrigerator 4.61 (173)
-*   $349 sale $499  original Samsung 24" Hybrid Dishwasher
-*   $999 sale $1,399 - $1,499  original Samsung 33" Wide 17.5 cu. ft. Counter-Depth French-Door Refrigerator
-*   $699 - $749 sale $899 - $999  original LG ENERGY STAR® 4.5 cu. ft. Ultra-Large Capacity Front-Load Washer with Steam 4.47 (88)
-*   $1,799 - $1,899 sale $2,699 - $2,999  original Samsung ENERGY STAR® 28 cu. ft. 3-Door French Door Refrigerator 4.51 (242)
-*   $479 sale $599  original GE® 4.2 DOE cu. ft. Top Load Washer 4.12 (3607)
-*   $999 sale $1,199 - $1,499  original Samsung 24.5 cu. ft. Side-by-Side Refrigerator with External Ice and Water Dispenser 4.32 (222)
-*   $649 - $699 sale $899 - $999  original Samsung 7.4 Cu. Ft. Capacity Electric Dryer with Integrated Controls
-*   $399 sale $499  original GE® 7.2 cu. ft. Aluminized-Alloy Drum Electric Dryer 4.57 (600)
-*   $2,499 - $2,599 sale $3,299 - $3,499  original Samsung 24.2 cu. ft. Family Hub™ French-Door Refrigerator
+*   $19.99 sale $44  original a.n.a® V-Neck Fit-and-Flare Dress 4.52 (31)
+*   $24.99 sale $44  original St. John's Bay Sleeveless Sundress 5.0 (8)
+*   $24.99 sale $60  original a.n.a Lace Off The Shoulder Dress 4.42 (24)
+*   $17.99 sale $44  original St. John's Bay Elbow Sleeve A-Line Dress 4.0 (1)
+*   $24.99 sale $44  original St. John's Bay Sleeveless Sundress 5.0 (5)
+*   $24.99 sale $44  original St. John's Bay Sleeveless Sundress 4.25 (4)
+*   $24.99 sale $44  original St. John's Bay Sleeveless Sundress
+*   $29.99 sale $50  original St. John's Bay Sleeveless Maxi Dress 5.0 (3)
+*   $39.99 sale $60  original a.n.a® Sleeveless Empire-Waist Maxi Dress 4.25 (16)
+*   $64.99 sale $90  original Signature by Sangria 3/4-Sleeve Lace Fit-and-Flare Dress 4.7 (10)
+*   $44.99 sale $75  original Bisou Bisou Smocked Off The Shoulder Bodycon Dress 4.6 (15)
+*   $24.99 sale $50  original Alyx Sleeveless Sheath Dress 4.85 (41)
+*   $39.99 - $64.99 sale $90  original Jessica Howard Sleeveless Fit &. Flare Dress 4.8 (40)
+*   $89.99 sale $120  original R&M Richards Long-Sleeve Lace Chiffon Jacket Dress 4.65 (34)
+*   $59.99 sale $86  original Bisou Bisou Sleeveless Maxi Dress 4.0 (1)
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Jun 07 22:13:30 CDT 2017 JVM :->. dtexppr1l2j2\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneE \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Jun 07 22:11:15 CDT 2017 JVM :->. dtexppr1l2j2\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneF \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Jun 07 22:12:26 CDT 2017 JVM :->. dtexppr1l2j2\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneG \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Jun 07 05:54:17 CDT 2017 JVM :->. dtexppr1l2j3\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Wed Jun 07 05:54:17 CDT 2017 JVM :->. dtexppr1l2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true true get connected
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Jun 08 22:42:43 CDT 2017 JVM :->. dtexppr1c2j1\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneE \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Jun 08 22:41:48 CDT 2017 JVM :->. dtexppr1c2j1\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneG \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Jun 08 10:46:00 CDT 2017 JVM :->. dtexppr1c2j4\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Thu Jun 08 10:45:59 CDT 2017 JVM :->. dtexppr1c2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true true get connected
 
 1.800.322.1189 Enter a valid email address Enter a valid mobile number. Sign up for email alerts, offers promotions Sign Up Mobile offers and promotions Sign Up
 
