@@ -45,8 +45,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Kernel Team Summary- June 8, 2017 ›
 *   Top 10 snaps in May ›
 *   Canonical Kernel Livepatch Service now available for Ubuntu 14.04 LTS! ›
 *   Developer Economics survey Q3 2017 ›
 *   Kubernetes webinar series ›
-*   Customising MAAS installs ›
