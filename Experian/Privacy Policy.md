@@ -17,8 +17,6 @@
 
 Close
 
-*   *   Search
-
 More Pages Privacy
 
 *   Approach to Privacy
