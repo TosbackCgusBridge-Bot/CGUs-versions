@@ -100,17 +100,17 @@ Featured Topics*   Video Cancer Screenings for Women
     *   Healthy Dogs
     *   View All
 
-Featured Topics*   Special Report Cancer Takes a Toll on a Small Town
-*   Slideshow Symptoms of ADHD in Children
+Featured Topics*   Slideshow Symptoms of ADHD in Children
+*   Slideshow Foods You Shouldn't Feed Your Dog
 
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Consumer Reports: Best Sunscreens for 2017
-    *   Can You Change Your Gut Bacteria?
-    *   CDC: Alzheimer's Cases Jump 55%
-    *   Sleepless Nights May Harm Your Heart
-    *   Video: Powassan Virus
+    *   Moderate Drinking May Dull Aging Brain
+    *   White vs. Wheat: Is One Bread Better?
+    *   Unknown Street Drug Linked to 4 Deaths
+    *   Loneliness May Lead to Sleepless Nights
+    *   Video: Can Mezcal Lower Blood Pressure?
     
     Experts &. Community
     *   Message Boards
