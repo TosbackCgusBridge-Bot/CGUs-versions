@@ -276,15 +276,15 @@ Sony on YouTube - Sony Alpha Imaging Collective Members Capture Traditional Cuba
 
 Play Sony Alpha Imaging Collective Members Capture Traditional Cuban Folk Dancing Video hotspot
 
-See a Table Becomes a Touchscreen
+See a Table Become a Touchscreen
 
 At Sony Square NYC
 
 Close
 
-*   Share See a Table Becomes a Touchscreen on Facebook
-*   Share See a Table Becomes a Touchscreen on Twitter
-*   Copy URL to share See a Table Becomes a Touchscreen
+*   Share See a Table Become a Touchscreen on Facebook
+*   Share See a Table Become a Touchscreen on Twitter
+*   Copy URL to share See a Table Become a Touchscreen
 
 At Sony Square NYC
 
