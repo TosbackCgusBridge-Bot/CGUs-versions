@@ -15,8 +15,7 @@ Aéropostale
     *   Clearance
     
     *   TOPS
-    *   Graphic + Logo Tees
-    *   Basic + Printed Tees
+    *   Tees
     *   Camis + Tanks
     *   Fashion
     *   Polos
@@ -46,7 +45,6 @@ Aéropostale
     *   Bras
     *   Undies
     *   Swim
-    *   Sleep
     *   Accessories
 *   Guys
     
@@ -88,7 +86,6 @@ Aéropostale
     *   Active
     *   Lounge
     *   Swim
-    *   Sleep
     *   Intimates
     *   Clearance
     
@@ -96,7 +93,6 @@ Aéropostale
     *   Tanks
     *   Short Sleeve Tees
     *   Hoodies &. Sweatshirts
-    *   Sleep Tops
     
     *   BOTTOMS
     *   #BestBootyEver
@@ -104,7 +100,6 @@ Aéropostale
     *   Leggings
     *   Joggers &. Sweats
     *   Bootcut
-    *   Sleep Bottoms
     
     *   UNDIES
     *   Hipster
