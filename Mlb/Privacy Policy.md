@@ -50,6 +50,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB Moments
     *   Must C
     *   Chatting Cage
+    *   Carry The Freight
     *   FastCast
     *   Sharable Video/GIFs
     *   Outstandings
