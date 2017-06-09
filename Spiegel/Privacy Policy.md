@@ -17,7 +17,7 @@ Mein SPIEGEL
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.672,49ǀ
+*   DAX 12.713,58ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -235,7 +235,7 @@ Abbrechen Zeitraumallesletzte Wocheletzter Monatletztes Jahrseit 2005vor 2005vor
 
 *   Nachrichten
 *   Mein SPIEGEL
-*   \>Allgemeine Nutzungsbedingungen
+*   Allgemeine Nutzungsbedingungen
 
   
   
