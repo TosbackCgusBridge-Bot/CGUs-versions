@@ -86,10 +86,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Jun 6, 2017 Privacy Risk Summit
-
-The GDPR embeds a risk-based approach to privacy management and drives technological innovations in privacy management the TRUSTe 2017 Privacy Risk Summit will bring together the industry’s top thinkers, practitioners and solution providers to share emerging best practices and tools and models for success.
-
 Tue, Jun 27, 2017 2017 OTA Leadership Meeting &. Congressional Staff Lunch Briefing
 
 **2017 Online Trust Audit** .
@@ -105,6 +101,10 @@ Privacy. Security. Risk.
 *   OTA Blog
 *   Newsletters
 
+Mon, Jun 5, 2017 Whitelisting Ads Vs. Scorched Earth: What's The Best Approach?
+
+By some accounts, there are more than 200 variants of ad-blocking solutions, many of which utilize whitelisting that allows certain ads through when they adhere to specific rules. While an ad blocker that doesn’t block all ads may sound like an oxymoron, I argue that whitelisting may be critical for the long-term sustainability of ad-supported services.
+
 Mon, Apr 10, 2017 Responsible, Coordinated &. Ethical Vulnerability Disclosures
 
 Updated April 10, 2017
@@ -118,8 +118,6 @@ I would like to share exciting news.  Today OTA has announced it has joined f
 Thu, Mar 30, 2017 Repeal of FCC Privacy Rules. A Sad Day for Consumers
 
 The vote to repeal FCC broadband privacy controls is a sad day for consumers, businesses and the United States.  While the rest of the world is increasingly recognizing privacy as a basic human right, Congress has failed the U.S.
-
-Mon, Mar 13, 2017 OTA Response to NTIA IoT Green Paper
 
 More >>. Resources
 
