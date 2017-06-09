@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Research Science meets commerce: Aerial data collection helped this small business soar Oceans &. Coasts Video: Could you survive a rip current? See how National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Education Celebrate World Ocean Day with NOAA and our partners Oceans &. Coasts Video: Could you survive a rip current? See how National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms How ocean savvy are you? Join us in June for #30DaysofOcean AROUND NOAA // U.S. had 8th warmest, 11th wettest spring on record Celebrate World Ocean Day with NOAA and our partners Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event Above-normal Atlantic hurricane season is most likely this year
+Enter Search Terms Celebrate World Ocean Day with NOAA and our partners AROUND NOAA // Video: Celebrate World Ocean Day with NOAA's National Ocean Service U.S. had 8th warmest, 11th wettest spring on record How ocean savvy are you? Join us in June for #30DaysofOcean Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event
 
 *   About our agency
 *   News and features
