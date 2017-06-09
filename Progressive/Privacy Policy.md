@@ -157,7 +157,8 @@ We offer insurance by phone, online and through independent agents. Prices vary 
         *   RV/Trailer
         *   Segway
         *   Snowmobile
-        *   Auto &. Property BundleSave More with Snapshot
+        *   Auto &. Property Bundle
+        *   Save More with SnapshotSave More with Snapshot
     *   Home &. Property
         *   Condo
         *   Flood
