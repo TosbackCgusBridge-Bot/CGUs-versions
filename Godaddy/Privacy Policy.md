@@ -1,4 +1,4 @@
-**Last Revised: February 9, 2017**
+**Last Revised: June 8, 2017**
 
 GoDaddy Respects your privacy
 
@@ -133,7 +133,7 @@ We will respond to your request for access or to modify or deactivate your infor
 
 **Transfer of Data Abroad**
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries. Furthermore, you acknowledge and agree that in order to best and promptly service our customers' requests, inquiries and/or issues, our customer support operations, including support provided via telephone and chat, are spread around the world (click here for list of Global Support locations and phone numbers or to chat with a representative). Accordingly, when you originate a call or chat from your country of residence, it is possible that the call or chat will be supported by a representative in another country (including, for example, one outside of the EEA), and that such information provided will be transferred to that country.  In any event, your information will be processed in accordance with this Privacy Policy.  By visiting this Site, calling or chatting with our customer service representatives, or otherwise communicating electronically with us, you consent to such transfers.
 
 **Compliance with Laws and Law Enforcement**
 
@@ -156,3 +156,5 @@ ATTN: Web Team
 14455 North Hayden Rd.  
 Suite 219  
 Scottsdale, AZ, 85260, U.S.A.
+
+To avoid any confusion here we would suggesting expanding the transfers section of the GoDaddy privacy policy, to also make clear that, if a user requests a product support call this may be resourced from  GoDaddy's wider Global support team resulting in a transfer of their contact information across international boundaries and the follow up call being made by one of GoDaddy's international support team members.
