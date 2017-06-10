@@ -112,17 +112,17 @@ Close
 
 With the SRS-XB40
 
-A Grad-Inspired Playlist
+Go For the Gold
 
-Listen Now
+With a 1TB PS4™
 
 Close
 
-*   Share A Grad-Inspired Playlist on Facebook
-*   Share A Grad-Inspired Playlist on Twitter
-*   Copy URL to share A Grad-Inspired Playlist
+*   Share Go For the Gold on Facebook
+*   Share Go For the Gold on Twitter
+*   Copy URL to share Go For the Gold
 
-Listen Now
+With a 1TB PS4™
 
 View Stacked on bass. on Instagram
 
@@ -148,21 +148,17 @@ Play Add Extra Bass For More Powerful Sound—and Dance Moves Video hotspot
 
 View Tweet
 
-Dance Along to Sia’s “Move Your Body”
+Watch the PlayStation Press Conference Live From E3
 
-From “This Is Acting”
+Tune in Monday at 5PM PST
 
 Close
 
-*   Share Dance Along to Sia’s “Move Your Body” on Facebook
-*   Share Dance Along to Sia’s “Move Your Body” on Twitter
-*   Copy URL to share Dance Along to Sia’s “Move Your Body”
+*   Share Watch the PlayStation Press Conference Live From E3 on Facebook
+*   Share Watch the PlayStation Press Conference Live From E3 on Twitter
+*   Copy URL to share Watch the PlayStation Press Conference Live From E3
 
-Play Dance Along to Sia’s “Move Your Body” Video
-
-Sony on YouTube - Dance Along to Sia’s “Move Your Body”
-
-Play Dance Along to Sia’s “Move Your Body” Video hotspot
+Tune in Monday at 5PM PST
 
 What Happens When a Bachelorette Party in Miami Goes Off The Rails?
 
