@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Educati
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Celebrate World Ocean Day with NOAA and our partners AROUND NOAA // Video: Celebrate World Ocean Day with NOAA's National Ocean Service U.S. had 8th warmest, 11th wettest spring on record How ocean savvy are you? Join us in June for #30DaysofOcean Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event
+Enter Search Terms How ocean savvy are you? Join us in June for #30DaysofOcean AROUND NOAA // Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event U.S. had 8th warmest, 11th wettest spring on record Video: Celebrate World Ocean Day with NOAA's National Ocean Service
 
 *   About our agency
 *   News and features
