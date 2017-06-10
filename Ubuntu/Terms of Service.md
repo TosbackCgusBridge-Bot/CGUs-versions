@@ -1,12 +1,3 @@
-*   Legal
-
-*   Overview
-*   Terms and policies
-*   Ubuntu Advantage
-*   BootStack
-*   Contributors
-*   Short terms
-
 Ubuntu legal terms and policies
 
 We take our legal responsibilities very seriously at Canonical — especially where they concern the protection of your personal data and the contributions you make to the projects we manage — so we have a number of legal agreements that govern the way we work. They include privacy policies, agreements allowing us to share our intellectual property (which includes trademarks and content as well as code) and descriptions of exactly what our support services cover.
@@ -45,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server Development Summary – 9 Jun 2017 ›
+*   Ubuntu Desktop Weekly Update: June 9, 2017 ›
+*   Webinar: How to get started with your Kubernetes strategy ›
 *   Kernel Team Summary- June 8, 2017 ›
 *   Top 10 snaps in May ›
-*   Canonical Kernel Livepatch Service now available for Ubuntu 14.04 LTS! ›
-*   Developer Economics survey Q3 2017 ›
-*   Kubernetes webinar series ›
