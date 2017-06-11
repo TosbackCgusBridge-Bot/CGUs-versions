@@ -45,6 +45,7 @@ Aéropostale
     *   Bras
     *   Undies
     *   Swim
+    *   Sleep
     *   Accessories
 *   Guys
     
@@ -86,6 +87,7 @@ Aéropostale
     *   Active
     *   Lounge
     *   Swim
+    *   Sleep
     *   Intimates
     *   Clearance
     
