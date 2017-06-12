@@ -41,15 +41,15 @@ Your Store: select store 0 my bag $ 0.00
 *   sephora
 *   clearance
 
-2017.9.0.0.87.0 2017 XM migration-home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Jun 10 03:37:14 CDT 2017 JVM :->. dtexppr1l2j1\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneA \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Jun 10 22:14:29 CDT 2017 JVM :->. dtexppr1l2j1\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneB \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Jun 10 22:14:09 CDT 2017 JVM :->. dtexppr1l2j4\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+2017.9.0.0.87.0 2017 XM migration-home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Jun 11 17:01:37 CDT 2017 JVM :->. dtexppr1l1j2\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneA \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Jun 11 16:59:33 CDT 2017 JVM :->. dtexppr1l2j4\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Jun 10 03:36:26 CDT 2017 JVM :->. dtexppr1l2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneC
+\*Buy one item at regular price, get second item of equal or lesser value for one cent, while supplies last. \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Jun 11 17:01:08 CDT 2017 JVM :->. dtexppr1l2j4\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 MAKING YOUR HOME A SMART HOME IS EASY
 
 SHOP NOW
 
-*   $199.99 sale $249.99  original Ring Video Doorbell Pro 5.000000 (1)
+*   $249.99  Ring Video Doorbell Pro 5.000000 (1)
 *   $249.99  Netgear Arlo Pro Wirefree HD Security Camera System
 *   $399.99  Neato Robotics Robotic Vacuum 4.080000 (97)
 *   $49.99  ilive™ 32" Soundbar With Bluetooth 4.000000 (5)
@@ -61,32 +61,32 @@ SHOP NOW
 *   $799.99  Sharp 50" Aquos 4K Ultra HD LED Smart TV
 *   $49.99  Simple Home Wi-Fi Smart Controlled Wall Outlet
 *   $249.99  Samsung Smart Things Home Monitoring Kit
-*   $329.99  Netgear Arlo Smart Home HD Security Camera System (2 pack)
+*   $269.99 sale $329.99  original Netgear Arlo Smart Home HD Security Camera System (2 pack)
 *   $199  Honeywell Lyric Round WiFi Thermostat
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Jun 10 03:36:26 CDT 2017 JVM :->. dtexppr1l2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneD
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Jun 11 17:00:58 CDT 2017 JVM :->. dtexppr1l2j1\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 30-50% OFF DRESSES
 
 SHOP NOW
 
+*   $24.99 sale $44  original St. John's Bay Sleeveless Sundress 5.0 (1)
+*   $30.80 - $44 original $44  Liz Claiborne Short Sleeve Shirt Dress 5.0 (1)
+*   $19.99 sale $44  original a.n.a® V-Neck Fit-and-Flare Dress 4.53 (32)
 *   $24.99 sale $44  original St. John's Bay Sleeveless Sundress 5.0 (9)
-*   $19.99 sale $44  original a.n.a® V-Neck Fit-and-Flare Dress 4.52 (31)
-*   $49.99 sale $86  original Tiana B Short Sleeve Sheath Dress-Plus
-*   $24.99 sale $50  original Alyx Sleeveless Sheath Dress 4.86 (42)
-*   $59.99 sale $86  original Bisou Bisou Sleeveless Maxi Dress 4.5 (2)
-*   $39.99 sale $60  original a.n.a® Sleeveless Empire-Waist Maxi Dress 4.25 (16)
-*   $49.99 sale $86  original Weslee Rose Short Sleeve Maxi Dress-Plus
-*   $64.99 sale $90  original Jessica Howard Sleeveless Fit &. Flare Dress 4.8 (40)
-*   $24.99 sale $44  original St. John's Bay Sleeveless Sundress 5.0 (6)
-*   $44.99 sale $72  original Luxology Sleeveless Embroidered Sheath Dress-Plus
-*   $29.99 sale $50  original St. John's Bay Sleeveless Maxi Dress 5.0 (3)
-*   $44.99 sale $72  original Alyx Sleeveless Lace Sheath Dress-Plus
+*   $24.99 sale $60  original a.n.a Lace Off The Shoulder Dress 4.44 (27)
+*   $24.99 sale $44  original St. John's Bay Sleeveless Sundress 5.0 (7)
 *   $24.99 sale $44  original St. John's Bay Sleeveless Sundress 4.25 (4)
-*   $34.99 sale $60  original Spense Sleeveless Maxi Dress-Plus
-*   $39.99 sale $72  original London Style Sleeveless Maxi Dress 4.8 (5)
+*   $24.99 sale $44  original St. John's Bay Sleeveless Sundress
+*   $29.99 sale $50  original St. John's Bay Sleeveless Maxi Dress 5.0 (3)
+*   $39.99 sale $60  original a.n.a® Sleeveless Empire-Waist Maxi Dress 4.25 (16)
+*   $64.99 sale $90  original Signature by Sangria 3/4-Sleeve Lace Fit-and-Flare Dress 4.73 (11)
+*   $44.99 sale $75  original Bisou Bisou Smocked Off The Shoulder Bodycon Dress 4.6 (15)
+*   $24.99 sale $50  original Alyx Sleeveless Sheath Dress 4.86 (43)
+*   $39.99 - $64.99 sale $90  original Jessica Howard Sleeveless Fit &. Flare Dress 4.8 (40)
+*   $89.99 sale $120  original R&M Richards Long-Sleeve Lace Chiffon Jacket Dress 4.65 (34)
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Jun 10 03:36:26 CDT 2017 JVM :->. dtexppr1l2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneE \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Jun 10 03:36:26 CDT 2017 JVM :->. dtexppr1l2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneF \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Jun 10 22:14:09 CDT 2017 JVM :->. dtexppr1l2j4\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneG \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Jun 10 03:36:26 CDT 2017 JVM :->. dtexppr1l2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true true get connected
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtaexpr1p03.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Jun 11 17:00:23 CDT 2017 JVM :->. dtexppr1l1j6\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sun Jun 11 17:01:03 CDT 2017 JVM :->. dtexppr1c2j2\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true true get connected
 
 1.800.322.1189 Enter a valid email address Enter a valid mobile number. Sign up for email alerts, offers promotions Sign Up Mobile offers and promotions Sign Up
 
