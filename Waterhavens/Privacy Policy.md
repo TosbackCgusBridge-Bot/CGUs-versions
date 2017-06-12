@@ -10,7 +10,7 @@ All personal and contact information provided via this Web site, e-mail, phone, 
 
 Washington Agency Law &. Code of Ethics
 
-I encourage you to be educated on your rights and responsibilities under Washington Agency Law, which we full support. I of course fully support and encourage your full range of rights under Agency Law, plus I fully guide all of my business practices under the entire Code of Ethics of the National Association of Realtors, Washington Association of Realtors, and Seattle-King County Association of Realtors.
+I encourage you to be educated on your rights and responsibilities under Washington Agency Law, which we fully support. I of course fully support and encourage your full range of rights under Agency Law, plus I fully guide all of my business practices under the entire Code of Ethics of the National Association of Realtors, Washington Association of Realtors, and Seattle-King County Association of Realtors.
 
 Real Estate Listings Disclaimer
 
@@ -32,7 +32,7 @@ Brokerages
 
 Scott Price is a Washington licensed real estate broker with RSVP Real Estate.
 
-Veronqiue Hval is a Washington licensed real estate broker with Windermere Real Estate South.
+Veronique Hval is a Washington licensed real estate broker with Windermere Real Estate South.
 
 and
 
