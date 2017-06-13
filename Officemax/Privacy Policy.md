@@ -16,7 +16,7 @@ SEG1 hp
     enter your number below.
 *   Login or Register
 
-Office Depot Deals LRT\_Ev11sVoCKQbB9HIQS8V
+Office Depot Deals 8BqZ1H0FO\_8gtmtr9hD7Iqf
 
 Search Suggestions
 
@@ -154,8 +154,8 @@ Never expires, ships for free
 Sign up for a credit card  
 and get special financing options
 
-2% back in rewards on everything  
-&. Not a member? Join today. It's FREE!
+You deserve to be rewarded  
+Not a member? Join today. It's FREE!
 
  **1-800-GO-DEPOT**  
 (1-800-463-3768)  Live Chat Available 24/7  **FREE** store pickup.  
