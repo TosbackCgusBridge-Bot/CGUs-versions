@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Desktop – GNOME Extensions poll results ›
 *   Ubuntu Server Development Summary – 9 Jun 2017 ›
 *   Ubuntu Desktop Weekly Update: June 9, 2017 ›
 *   Webinar: How to get started with your Kubernetes strategy ›
 *   Kernel Team Summary- June 8, 2017 ›
-*   Top 10 snaps in May ›
