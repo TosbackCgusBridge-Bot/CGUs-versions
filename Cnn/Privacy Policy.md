@@ -58,13 +58,11 @@ Sport
 
 Travel
 
-*   Aviation
-*   Business Traveller
-*   Destinations
-*   Features
-*   Food/Drink
-*   Hotels
-*   Partner Hotels
+*   Wonder
+*   Food &. Drink
+*   Play
+*   Stay
+*   Videos
 
 *   Fashion
 *   Design
@@ -199,13 +197,11 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
     8.  Skiing
 
 1.  Travel
-    1.  Aviation
-    2.  Business Traveller
-    3.  Destinations
-    4.  Features
-    5.  Food/Drink
-    6.  Hotels
-    7.  Partner Hotels
+    1.  Wonder
+    2.  Food &. Drink
+    3.  Play
+    4.  Stay
+    5.  Videos
 
 1.  1.  Fashion
     2.  Design
