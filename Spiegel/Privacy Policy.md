@@ -17,7 +17,7 @@ Mein SPIEGEL
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.815,72ǀ
+*   DAX 12.690,44ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -76,7 +76,6 @@ Mein SPIEGEL
         *   Formel 1
         *   Formel-1-Liveticker
         *   Ergebnisse
-        *   Live-Kalender
     *   *   Bundesliga präsentiert von  
             Continental
 *   Kultur
@@ -159,6 +158,8 @@ Mein SPIEGEL
         *   Tests
         *   Fahrkultur
     *   *   Kfz-Versicherung
+        *   Autoverkauf
+        *   Automarkt
 *   Stil
     
     *   *   Übersicht
@@ -667,6 +668,8 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
 *   Bußgeldrechner
 *   Werkstattvergleich
 *   Kfz-Versicherung
+*   Autoverkauf
+*   Automarkt
 
 *   ENERGIE
 *   Gasanbietervergleich
