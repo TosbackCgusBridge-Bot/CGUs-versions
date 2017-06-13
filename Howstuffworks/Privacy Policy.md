@@ -1,4 +1,3 @@
-*   NOW
 *   Adventure
 *   Animals
 *   Auto
@@ -247,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Outstanding, Outrageous and Odd: Our Best Stories You Might Have Missed This Week**
+**Synchronized Fireflies Perform a Light Show Like No Other**
 
-**Why is Chuck the Short for Charles and Bill the Short for William?**
+**How Has Interracial Marriage Been Treated Around the World?**
 
-**Climate Change Is Causing Tiny Bird Couples to Share More Parenting Duties**
+**'Latchkey Kids': What's Different About Leaving Children Home Alone Now Versus Then**
 
 About Us
 
