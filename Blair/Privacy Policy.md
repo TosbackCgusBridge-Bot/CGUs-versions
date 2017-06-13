@@ -273,7 +273,7 @@ in Supply Chains Act
 About Us
 
 Shipping &. Delivery  
-Guarantee/Return Policy  
+Return Policy  
 Privacy Policy  
 Terms of Use  
 The Blair Story  
