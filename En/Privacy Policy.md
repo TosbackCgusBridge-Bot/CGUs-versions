@@ -58,7 +58,7 @@ Roc Boronat 117, Planta 6
 
 08018 Barcelona, Spain
 
-93 123 45 67 press@softonic.com
++34 936 012 700 press@softonic.com
 
 *   For Users
 *   For Advertisers
