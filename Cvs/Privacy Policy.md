@@ -1,6 +1,6 @@
 Privacy Policy
 
-Effective Date: August 3, 2016
+Effective Date: June 13, 2017
 
   
 
@@ -199,6 +199,10 @@ You can request the removal or modification of the personal information you have
   
 
 Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion. There may also be residual information that will remain within our databases and other records, which will not be removed.
+
+  
+
+If you are a minor, you may remove or request removal of any content or information you post on our site. To request removal of content or information you have posted to our site, please Contact Us. Removal or requests for removal of content or information that has been posted to our website does not ensure complete or comprehensive removal.
 
   
 Your California Privacy Rights
@@ -232,7 +236,7 @@ Woonsocket, R.I. 02895
 
 Privacy Policy
 
-Effective Date: August 3, 2016
+Effective Date: June 13, 2017
 
   
 
@@ -431,6 +435,10 @@ You can request the removal or modification of the personal information you have
   
 
 Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion. There may also be residual information that will remain within our databases and other records, which will not be removed.
+
+  
+
+If you are a minor, you may remove or request removal of any content or information you post on our site. To request removal of content or information you have posted to our site, please Contact Us. Removal or requests for removal of content or information that has been posted to our website does not ensure complete or comprehensive removal.
 
   
 Your California Privacy Rights
