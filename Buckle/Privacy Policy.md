@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card New Brands, New Styles. Everything You’ll Love. SHOP NOW.
+        Give a Buckle Gift card He’s Your #1. He’s Dad. Shop Father's Day.
 *   Men
     *   *   Featured
         
@@ -136,7 +136,7 @@
         
           
           
-        Give a Buckle Gift card New Brands, New Styles. Everything You’ll Love. SHOP NOW.
+        Give a Buckle Gift card He’s Your #1. He’s Dad. Shop Father's Day.
 *   Kids
     *   *   Featured
         
@@ -158,7 +158,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card New Brands, New Styles. Everything You’ll Love. SHOP NOW.
+        Give a Buckle Gift card He’s Your #1. He’s Dad. Shop Father's Day.
 *   Jeans
     *   *   Women's Jeans
         
@@ -188,7 +188,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card New Brands, New Styles. Everything You’ll Love. SHOP NOW.
+        Give a Buckle Gift card He’s Your #1. He’s Dad. Shop Father's Day.
 *   New
     *   *   Featured New
         
@@ -227,7 +227,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card New Brands, New Styles. Everything You’ll Love. SHOP NOW.
+        Give a Buckle Gift card He’s Your #1. He’s Dad. Shop Father's Day.
 *   Sale
     *   *   Women's Sale
         
@@ -270,7 +270,7 @@
         
           
           
-        Give a Buckle Gift card New Brands, New Styles. Everything You’ll Love. SHOP NOW.
+        Give a Buckle Gift card He’s Your #1. He’s Dad. Shop Father's Day.
 
 × Privacy &. Security
 
