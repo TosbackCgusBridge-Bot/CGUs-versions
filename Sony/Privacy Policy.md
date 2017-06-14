@@ -100,7 +100,23 @@ Phone and Tablet AppsThe best of what Sony has to offer on iOS or Android. Downl
 *   Register a Product
 *   Community
 
-Your browser does not support JavaScript! Watch the Press Conference, Learn About New Exclusive Games, and More
+Your browser does not support JavaScript! In the New God of War, Kratos and His Son Battle Norse Gods
+
+Learn About the PlayStation Exclusive
+
+Close
+
+*   Share In the New God of War, Kratos and His Son Battle Norse Gods on Facebook
+*   Share In the New God of War, Kratos and His Son Battle Norse Gods on Twitter
+*   Copy URL to share In the New God of War, Kratos and His Son Battle Norse Gods
+
+Play In the New God of War, Kratos and His Son Battle Norse Gods Video
+
+Sony on YouTube - In the New God of War, Kratos and His Son Battle Norse Gods
+
+Play In the New God of War, Kratos and His Son Battle Norse Gods Video hotspot
+
+Watch the Press Conference, Learn About New Exclusive Games, and More
 
 See All of the PlayStation’s E3 Announcements
 
@@ -112,17 +128,75 @@ Close
 
 See All of the PlayStation’s E3 Announcements
 
-Don’t Miss the NBA Finals on ABC\* Through PlayStation™Vue
+GT Sport is coming this fall to PS4 and PS4 Pro. Watch the new gameplay trailer right now.
 
-Watch Live
+2017-06-12 05:00:00+00:00
+
+View Tweet
+
+Watch the Latest PS4™ Trailer
+
+For Marvel’s Spider-Man
 
 Close
 
-*   Share Don’t Miss the NBA Finals on ABC\* Through PlayStation™Vue on Facebook
-*   Share Don’t Miss the NBA Finals on ABC\* Through PlayStation™Vue on Twitter
-*   Copy URL to share Don’t Miss the NBA Finals on ABC\* Through PlayStation™Vue
+*   Share Watch the Latest PS4™ Trailer on Facebook
+*   Share Watch the Latest PS4™ Trailer on Twitter
+*   Copy URL to share Watch the Latest PS4™ Trailer
 
-Watch Live
+For Marvel’s Spider-Man
+
+Go For the Gold
+
+With a 1TB PS4™
+
+Close
+
+*   Share Go For the Gold on Facebook
+*   Share Go For the Gold on Twitter
+*   Copy URL to share Go For the Gold
+
+With a 1TB PS4™
+
+Chloe Frazer &. Nadine Ross Have a Treasure-Hunting Adventure
+
+In Uncharted: The Lost Legacy
+
+Close
+
+*   Share Chloe Frazer &. Nadine Ross Have a Treasure-Hunting Adventure on Facebook
+*   Share Chloe Frazer &. Nadine Ross Have a Treasure-Hunting Adventure on Twitter
+*   Copy URL to share Chloe Frazer &. Nadine Ross Have a Treasure-Hunting Adventure
+
+In Uncharted: The Lost Legacy
+
+What Happens When a Bachelorette Party in Miami Goes Off The Rails?
+
+“Rough Night” Hits Theaters This Friday
+
+Close
+
+*   Share What Happens When a Bachelorette Party in Miami Goes Off The Rails? on Facebook
+*   Share What Happens When a Bachelorette Party in Miami Goes Off The Rails? on Twitter
+*   Copy URL to share What Happens When a Bachelorette Party in Miami Goes Off The Rails?
+
+Play What Happens When a Bachelorette Party in Miami Goes Off The Rails? Video
+
+Sony on YouTube - What Happens When a Bachelorette Party in Miami Goes Off The Rails?
+
+Play What Happens When a Bachelorette Party in Miami Goes Off The Rails? Video hotspot
+
+Father’s Day Was Made for Adventures with Dad
+
+Start Yours Now
+
+Close
+
+*   Share Father’s Day Was Made for Adventures with Dad on Facebook
+*   Share Father’s Day Was Made for Adventures with Dad on Twitter
+*   Copy URL to share Father’s Day Was Made for Adventures with Dad
+
+Start Yours Now
 
 For Dads On the Go: An Assistant
 
@@ -138,7 +212,7 @@ Check Out Xperia Ear
 
 You've never seen anything like it. Discover the world's first #4KHDR smartphone display with #Xperia XZ Premium.
 
-2017-06-12 22:50:05+00:00
+2017-06-13 03:50:05+00:00
 
 View Tweet
 
@@ -167,22 +241,6 @@ Close
 *   Copy URL to share Give the Gift of Incredible Viewing Experiences
 
 Check Out Our 4K HDR TVs
-
-What Happens When a Bachelorette Party in Miami Goes Off The Rails?
-
-“Rough Night” Hits Theaters This Friday
-
-Close
-
-*   Share What Happens When a Bachelorette Party in Miami Goes Off The Rails? on Facebook
-*   Share What Happens When a Bachelorette Party in Miami Goes Off The Rails? on Twitter
-*   Copy URL to share What Happens When a Bachelorette Party in Miami Goes Off The Rails?
-
-Play What Happens When a Bachelorette Party in Miami Goes Off The Rails? Video
-
-Sony on YouTube - What Happens When a Bachelorette Party in Miami Goes Off The Rails?
-
-Play What Happens When a Bachelorette Party in Miami Goes Off The Rails? Video hotspot
 
 Rain or Shine, Take the Party Wherever You Go
 
