@@ -6,60 +6,36 @@ Search the web
 *   Terms of Service
 *   Help
 
-AOL Privacy Policy Highlights
+Oath Privacy Policy Highlights Oath, part of the Verizon family of companies, consists of over 50 digital and mobile brands globally, including HuffPost, Yahoo News, Yahoo Sports, Tumblr, and AOL, as well as advertising platforms such as ONE by AOL, BrightRoll, and Gemini.  
+  
+Below are highlights of the full Oath Privacy Policy, which applies to the collection and use of information from any device used to access or connect to Oath branded or affiliated websites, services, or software that link to this Privacy Policy.  
+  
+Similarly, the Yahoo Privacy Policy will apply on Yahoo branded sites and affiliated products, services, and technologies that link to the Yahoo Privacy Policy. If there is a conflict between the Oath Privacy Policy and the Verizon or Yahoo privacy policies, the Oath Privacy Policy will apply when you are on an Oath product, service, or brand site that links to this policy and the Yahoo Privacy Policy will apply on Yahoo branded product, service, technology, or sites that link to the Yahoo policy. Additional privacy information is available in the Verizon Privacy Policy. What's New
 
-We are committed to building, improving, and expanding some of the best brands online – or anywhere, for that matter. You can find out about our brands such as The Huffington Post, Engadget, AOL Advertising and more.
+*   The Oath Privacy Policy was updated effective June 13, 2017.
+*   The AOL company name has changed to Oath. The way we handle your information hasn't changed, so the Oath Privacy Policy will continue to govern when you are on previously branded AOL products, services, or technologies, including AOL Mail, AOL.com, HuffPost, Engadget, TechCrunch, Moviefone, and Makers.
 
-AOL is now part of the Verizon family of companies. Additional privacy practices are described in the Verizon Privacy Policy. In the event of a conflict between this Privacy Policy and the Verizon Privacy Policy, the AOL Privacy Policy will control when you are on an AOL site or using an AOL product or service.
+How to Opt-Out You can opt-out of interest-based advertising delivered by the ONE by AOL advertising services. See Your Choices. Information We Collect and Receive We collect and receive information about you and your device when you give it to us directly, when you use our services across your devices, and from certain third-party sources. Internet Advertising Our ability to provide free content and services depends on advertising. Some of our ads are displayed based on the page visited, but many of our ads are targeted to you based on your interests and other information we have about you. Learn more about how internet advertising works and your choices. Your Choices
 
-This notice provides highlights of the full privacy policy which currently applies to the collection and use of information from any device used to access or connect to AOL branded websites, services, and software, as well as many websites owned by or affiliated with AOL and operating under different names. Para leer este documento en español haz clic aquí.
-
-What's New
-
-*   The AOL Privacy Policy was updated effective 9/29/2016.
-*   Updated information related to International Users.
-*   Updated information related to your Mobile Choices.
-
-How to Opt-Out
-
-You can opt-out of targeted advertising delivered by the AOL Advertising Network.
-
-Information We Collect and Receive
-
-We collect and receive information about you and your device when you give it to us directly, when you use our Services, and from certain third-party sources.
-
-Internet Advertising
-
-Our ability to provide free content and services depends on advertising. Some of our ads are displayed based on the page visited, but many of our ads are targeted to you based on your interests and other information we have about you. We want you to understand how internet advertising works and offer resources and choices. Learn more.
-
-Your Choices
-
-*   You can opt-out of the use of your data for interest-based advertising.
-*   We offer Marketing Preferences to control how we communicate offers to you.
-*   You can control the collection and use of search information.
-*   Registered users can manage their accounts at My Account.
-*   You can view your interest-based segments.
-*   You can manage cookies using browser controls.
+*   You can opt out of receiving interest-based ads from us when you browse the web by visiting the Digital Advertising Alliance's consumer choice page and selecting "AOL Advertising," "BrightRoll," and "Yahoo Inc." If you are a Yahoo registered user, you also must opt out of ads on Yahoo.
+*   You may control how certain information from your mobile device, including your location, may be collected and used through your device and mobile application permissions.
+*   AOL services offer Marketing Preferences to control how we communicate offers to AOL registered users.
+*   You can control the collection and use of AOL Search information.
+*   AOL registered users can manage their accounts at My Account.
+*   You can manage some technologies using browser controls.
 *   Individual products or services may offer additional controls or preferences.
 
-Information Sharing
-
-AOL may share your personal information in limited circumstances, including when we have your consent to do so or when sharing is necessary to protect AOL or comply with the law. Our agents and contractors may have access to your information, but only to perform services for AOL. We do not sell or rent your personal information to third parties. We may, however, share non-personally identifiable information with select business partners.
-
-How we use your Information
-
-The information we collect and receive is used to provide our Services, to improve our Services, and to offer effective advertising, which helps us keep most of our Services free.
-
-How to Contact Us **AOL Privacy**  
+Information Sharing Oath may share your information in limited circumstances, including when we have your consent to do so or when sharing is necessary to protect Oath or comply with the law. Our agents and contractors may have access to your information, but only to perform services for Oath. We do not sell or rent your personal information to third parties. We may, however, share non-personally identifiable information with select business partners. How we use your Information The information we collect and receive is used to provide our Services, to improve our Services, and to offer effective advertising, which helps us keep most of our Services free. How to Contact Us **Oath Privacy**  
 22000 AOL Way  
 Dulles, VA 20166  
 privacyquestions@aol.com  
   
   
   
+  
+  
+Oath (formerly AOL Advertising) is a member of the Network Advertising Initiative and is committed to complying with the Digital Advertising Alliance (DAA) Self-Regulatory Principles for Online Behavioral Advertising.
 
-AOL is a member of the Network Advertising Initiative and is committed to complying with the Digital Advertising Alliance (DAA) Self-Regulatory Principles for Online Behavioral Advertising.
+Oath Inc. | Privacy | Terms of Service | About Our Ads
 
-AOL Inc. | Privacy | Terms of Service | About Our Ads
-
-© 2017, AOL Inc. All rights reserved.
+© 2017, Oath Inc. All rights reserved.
