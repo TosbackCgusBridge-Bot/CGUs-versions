@@ -30,6 +30,8 @@ Yahoo Settings
 
 Yahoo Vie Privée
 
+_Yahoo fait désormais partie de la société de médias numériques et mobiles Oath qui compte plus de 50 marques à travers le monde et qui est membre de la famille d’entreprises Verizon. Votre vie privée est importante pour Yahoo, Oath et Verizon. La manière dont Yahoo gère vos données personnelles, et communique certaines d’entre elles à des tiers et au sein de sa nouvelle famille d’entreprises, n’a pas changé. Les Conditions Générales d'Utilisation et la Politique relative à la vie privée de Yahoo s’appliquent toujours lorsque vous êtes sur un site Yahoo, que vous utilisez une application Yahoo ou que vous interagissez avec nos produits, services ou technologies. En cas de changement substantiel dans la manière dont Yahoo EMEA gère ou partage vos données personnelles, nous vous en informerons dans notre Politique relative à la vie privée._
+
 Bienvenue dans Yahoo Vie Privée ! Vous découvrirez ici comment Yahoo traite vos données personnelles, ainsi que les moyens de contrôler vos préférences et paramètres. Comme toujours, Yahoo s’engage à gagner votre confiance.
 
 **Objet de la Politique relative à la vie privée**
@@ -122,7 +124,7 @@ Yahoo! EMEA Limited
 North Wall Quay, Dublin 1  
 Irlande
 
-_Dernière mise à jour : 29 janvier 2016_
+_Dernière mise à jour : 13 juin 2017_
 
 A la une
 
@@ -132,8 +134,9 @@ Cliquez ici si vous avez ouvert un compte Yahoo après le 19 janvier 2014
 DES PUBLICITÉS PERTINENTES En vous apportant du contenu et des publicités pertinents, adaptés à vos centres d’intérêts, Yahoo transforme l'utilisation de ses services en une expérience unique. Pour en savoir plus sur les publicités pertinentes, cliquez ici. Gérez les catégories basées sur vos centres d’intérêts ou bloquez toutes les catégories sur notre outil de gestion des publicités basées sur les centres d’intérêts.  
 Yahoo et vos données
 
-Yahoo Vie Privée Nous vous proposons un grand nombre de liens décrivant le traitement de vos données personnelles dans les différents produits et services Yahoo. Cliquez ici pour la liste.  
-  Informations générales
+Pour savoir comment Yahoo traite vos informations personnelles, consultez notre Politique relative à la vie privée. Cette page décrit les pratiques Yahoo courantes concernant ce produit ou ce sujet. Les informations figurant sur cette page peuvent changer en fonction des fonctionnalités que Yahoo ajoute ou supprime.
+
+Informations générales
 
 *   Aide complémentaire
 *   Nous contacter
