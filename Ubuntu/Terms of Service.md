@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Vectr: a fresh take on vector graphics edition on Linux ›
+*   Amazon Greengrass launches as a snap on Ubuntu ›
 *   Ubuntu Desktop – GNOME Extensions poll results ›
 *   Ubuntu Server Development Summary – 9 Jun 2017 ›
 *   Ubuntu Desktop Weekly Update: June 9, 2017 ›
-*   Webinar: How to get started with your Kubernetes strategy ›
-*   Kernel Team Summary- June 8, 2017 ›
