@@ -60,7 +60,7 @@ Search Google Appliance Enter the terms you wish to search for. Search
     *   Phone
     *   International Rates
 *   Security
-*   Total Home
+*   Experience
 *   VIPperks
 
 *   Residential Services Agreement
