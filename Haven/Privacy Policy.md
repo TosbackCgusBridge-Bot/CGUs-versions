@@ -72,9 +72,9 @@ In order to process your Brochure Request, enquiry, query or online booking, or 
 
 We only send data to partners processing data for communications on our behalf (i.e. acting as an extension to our team, such as printers, media partners etc) or for analysis purposes as outlined below.
 
-We do sometimes run a few analysis exercises with third parties but the data provided for these purposes is basic and anonymized (e.g. town, postcode), which means that people wouldn’t be able to be identified or contacted by using this information in any way.
+We do sometimes run a few analysis exercises with third parties but the data provided for these purposes is basic and anonymised (e.g. town, postcode), which means that people wouldn’t be able to be identified or contacted by using this information in any way.
 
-From the App, information is shared with third party analytic tools for internal reporting and diagnosing of issues. Only anonmyised data is used in this process.
+From the App, information is shared with third party analytic tools for internal reporting and diagnosing of issues. Only anonymised data is used in this process.
 
 You can unsubscribe from our email database by clicking on the remove link at the base of each email or by sending an email to data.protection@haven.com.
 
