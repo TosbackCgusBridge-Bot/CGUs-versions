@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Virtual Reality Arcades Are Getting Real in the U.S.**
+**How Glasses Correct Colorblindness**
 
-**Astronauts May Soon Be Breaking (and Baking) Bread in Space**
+**China Flips Switch on World's Largest Floating Solar Farm**
 
-**Family Tree of Homo Sapiens Continues to Evolve**
+**NASA Welcomes Its 2017 Class of New Astronaut Recruits**
 
 About Us
 
