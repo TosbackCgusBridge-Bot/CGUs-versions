@@ -75,8 +75,8 @@ Featured Topics*   News How and When Medical Marijuana Is Used
     *   Healthy Teens
     *   Fit Kids
 
-Featured Topics*   Video Cancer Screenings for Women
-*   Blog Can Fidget Spinners Help You Focus?
+Featured Topics*   Video Can Mezcal Lower Blood Pressure?
+*   Slideshow Why Did Your Doctor Do That?
 
 *   Family &  
     Pregnancy Family &. Pregnancy Family &. Pregnancy All About Pregnancy
