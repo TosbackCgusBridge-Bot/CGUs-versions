@@ -151,7 +151,7 @@ We may change this Privacy Policy.  The “_Last Updated_” legend at the top 
 
 **CONTACTING US**
 
-If you have any questions about this Privacy Policy, please contact us at privacy@thestreet.comor:
+If you have any questions about this Privacy Policy, please contact us at privacy@thestreet.com or:
 
            Customer Service  
            TheStreet, Inc.  
