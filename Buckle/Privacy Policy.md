@@ -469,7 +469,6 @@ ORDERS
 *   Track Your Order
 *   Shipping Rates
 *   Easy Returns
-*   Return Policy
 
 GUEST SERVICES
 
@@ -502,7 +501,6 @@ ORDERS
 *   Track Your Order
 *   Shipping Rates
 *   Easy Returns
-*   Return Policy
 
 GUEST SERVICES
 
