@@ -15,7 +15,7 @@ Ziff Davis, LLC, its affiliates and its subsidiaries (collectively, **“Ziff Da
 This Privacy Policy covers information collected through these websites and mobile applications:
 
 *   Ziff Davis
-*   PCMag, PCMag Canada, PCMag UK, PCMag Australia
+*   PCMag, PCMag UK, PCMag Australia
 *   Toolbox.com, Inside CRM, Inside-Erp, IT Management, IT Security, VoIP-News
 *   IGN, IGN Canada, IGN UK, IGN Australia, IGN Mobile
 *   ExtremeTech
