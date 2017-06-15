@@ -17,7 +17,7 @@
 *   2017 Corolla $18,500 starting 28/36 est. mpg build Specials
 *   2017 Corolla iM $18,750 starting 27/35 est. mpg build Specials
 *   2017 Camry $23,070 starting 24/33 est. mpg build Specials
-*   2017 Avalon $33,300 starting 21/30 est. mpg build Specials
+*   2018 Avalon $33,500 starting 21/30 est. mpg build Specials
 *   2017 86 $26,255 starting 21/28 est. mpg build Specials
 *   2017 Sienna $29,750 starting 19/27 est. mpg build Specials
 
@@ -32,7 +32,7 @@
 *   2017 Land Cruiser $84,775 starting 13/18 est. mpg build Specials
 
 *   2017 Camry Hybrid $26,790 starting 42/38 est. mpg build Specials
-*   2017 Avalon Hybrid $37,300 starting 40/39 est. mpg build Specials
+*   2018 Avalon Hybrid $37,500 starting 40/39 est. mpg build Specials
 *   2017 RAV4 Hybrid $29,030 starting 34/30 est. mpg build Specials
 *   2017 Highlander Hybrid $36,270 starting 30/28 est. mpg build Specials
 *   2017 Prius Prime $27,100 starting 54/133 est. mpg /MPGe build Specials
@@ -1087,3 +1087,4 @@ Help
 *   2017 Prius Prime EPA-estimated combined MPGe. Actual MPGe will vary depending upon driving conditions, how you drive and maintain your vehicle, and other factors. Battery capacity will decrease with time and use. For more information, see www.fueleconomy.gov.
 *   2016 EPA-estimated 67 city/67 highway/67 combined MPGe for Mirai and 312-mile driving range. Actual mileage will vary. Range measurement pursuant to SAE J2601 standards (ambient temperature: 20°C. hydrogen tank pressure when fueled: 70 MPa). Fueling time varies with hydrogen fueling pressure and ambient temperature.
 *   2018 C-HR preliminary 27 city/31 highway/29 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
+*   2018 EPA-estimated mileage. Actual mileage will vary.
