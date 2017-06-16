@@ -3,6 +3,7 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
+    *   BUY 1 GET 2 FREE
     *   #FREETOBE
     *   TRENDING
     *   The White Collection
@@ -50,6 +51,7 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
+    *   BUY 1 GET 2 FREE
     *   #FREETOBE
     *   TRENDING
     *   The White Collection
