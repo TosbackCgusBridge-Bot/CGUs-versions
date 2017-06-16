@@ -204,7 +204,7 @@ Join now! Collect 10 nights, get 1 free\*
     *   Contact us
     *   Website feedback
     *   Review a hotel
-*   For Suppliers, Affiliates and the Media
+*   For Suppliers, Affiliates, and the Media
     *   Affiliate with us
     *   Private Label
     *   Promote with Us
@@ -216,14 +216,14 @@ Join now! Collect 10 nights, get 1 free\*
     *   Cookie Policy
     *   About our ads
 *   About Us
-*   Add your hotel
+*   Add Your Hotel
 *   Jobs
 
 *   Travel Guides
 *   Top 50 Cities
 *   All countries
-*   All hotels
-*   Site index
+*   All Hotels
+*   Site Index
 
 © 2017 Hotels.com, L.P. All rights reserved.
 
