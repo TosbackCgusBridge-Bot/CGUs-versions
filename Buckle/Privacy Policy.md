@@ -373,7 +373,6 @@ Promotions
 
 Sweepstakes Official Rules/Winners
 
-*   Brand Madness Offical Rules
 *   Social Give Away Official Rules
 *   Sweepstakes Winners
 
