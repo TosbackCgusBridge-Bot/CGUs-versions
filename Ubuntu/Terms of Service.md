@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
-*   Project Sputnik: crazy idea to community driven developer systems ›
-*   Vectr: a fresh take on vector graphics edition on Linux ›
-*   Amazon Greengrass launches as a snap on Ubuntu ›
-*   Ubuntu Desktop – GNOME Extensions poll results ›
-*   Ubuntu Server Development Summary – 9 Jun 2017 ›
+*   Gitter and Mattermost: two desktop apps for your future chat platform ›
+*   Juju 2.2.0 and conjure-up 2.2.0 are here! ›
+*   Custom user mappings in LXD containers ›
+*   IBM &. Canonical: A Virtualization and Cloud Computing (R-)Evolution ›
+*   Kernel Team Summary- June 15, 2017 ›
