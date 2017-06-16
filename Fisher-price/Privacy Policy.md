@@ -17,7 +17,7 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   Exclusives
     *   Award Winners
     *   Clearance
-    *   Thomas and Friends Clearance
+    *   Thomas &. Friends Clearance
     *   Baby's First Birthday
     
     See all
