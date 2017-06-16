@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites Climate Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event Oceans &. Coasts Video: Could you survive a rip current? See how National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Video: Could you survive a rip current? See how Weather Excessive heat, a 'silent killer' National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Oceans and coastal tools, sanctuary permits, charts and images
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms How ocean savvy are you? Join us in June for #30DaysofOcean AROUND NOAA // Join NOAA Fisheries for #SeaTurtleWeek 2017! Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event As Alaska's North Slope warms, greenhouse gases have nowhere to go but up U.S. had 8th warmest, 11th wettest spring on record
+Enter Search Terms How ocean savvy are you? Join us in June for #30DaysofOcean AROUND NOAA // Join NOAA Fisheries for #SeaTurtleWeek 2017! Blog: Discovery is the middle name for NOAA's ocean workhorse Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event As Alaska's North Slope warms, greenhouse gases have nowhere to go but up
 
 *   About our agency
 *   News and features
