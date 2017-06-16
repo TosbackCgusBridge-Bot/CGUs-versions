@@ -1,4 +1,27 @@
-HOME ABOUT PRODUCTS BUSINESS RESOURCES To see full output on this page you need to enable JavaScript in your browser.   More info » Privacy Policy
+What would you like to know about? Compute
+
+*   Pro
+    *   Overview
+    *   Pro for Students
+    *   Pro for Educators
+*   Apps
+    *   Web Apps
+    *   Problem Generator
+    *   Mobile Apps
+    *   All Products
+*   Tour
+*   Sign in
+    *   Favorites
+    *   History
+    *   Preferences
+    *   Downloads
+    *   Uploads
+    *   Account
+    *   My Widgets
+    *   My API Apps
+    *   Sign Out
+
+Wolfram|Alpha Privacy Policy
 
 We understand your concerns about how your information is used and shared, and we endeavor to use such information carefully and sensibly. This page explains how the information you provide is collected and used.
 
@@ -32,19 +55,16 @@ Other Disclosures of Your Information
 
 We may release personally identifying information when we believe release is necessary to comply with lawful court orders. Any collected information associated with your use of the website (personal and non-personal) will be disclosed to government authorities or third parties only pursuant to a lawful request, subpoena, or other process that legally compels disclosure of that information.
 
-We may also preserve, use, or disclose your information if necessary to enforce our Terms of Use and related agreements. to detect, prevent, or otherwise address fraud, security or technical issues, including high-volume use of the website. to respond to support requests. or to protect the rights, property, or safety of Wolfram|Alpha, our users, or others.
+We may also preserve, use, or disclose your information if necessary to enforce our Terms of Use and related agreements. to detect, prevent, or otherwise address fraud, security or technical issues, including high-volume use of the website. to respond to support requests. or to protect the rights, property, or safety of Wolfram|Alpha, our users, or others.
 
 Cookies
 
 When you visit our website, we, like most websites, send one or more cookies—small anonymous identifiers—to your computer that uniquely identify you to our servers. While we do use cookies for security and fraud investigation purposes, our primary purpose is to enhance your user experience by understanding and remembering your preferences, and by general tracking of our user trends. Most browsers are initially set up to accept cookies, but you can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. Please be aware that Wolfram|Alpha may not have full functionality if your browser refuses cookies. We utilize the following types of cookies:
 
-1) Strictly Necessary Cookies: These cookies are strictly necessary to provide services that you have requested on our website.
-
-2) Functional Cookies: These cookies support and facilitate your use of our website by enabling enhanced and personalized features.
-
-3) Performance Cookies: These cookies collect information that we utilize to support the measurement of this website.
-
-4) Targeting Cookies: These cookies are used by social sharing services (such as Facebook), and also by various third parties to deliver messaging that may be of value or interest to you. We do not have access to read or write such third-party cookies, nor do we directly control the manner in which they may be used.
+*   Strictly Necessary Cookies: These cookies are strictly necessary to provide services that you have requested on our website
+*   Functional Cookies: These cookies support and facilitate your use of our website by enabling enhanced and personalized features.
+*   Performance Cookies: These cookies collect information that we utilize to support the measurement of this website.
+*   Targeting Cookies: These cookies are used by social sharing services (such as Facebook), and also by various third parties to deliver messaging that may be of value or interest to you. We do not have access to read or write such third-party cookies, nor do we directly control the manner in which they may be used.
 
 Links to Third-Party Websites
 
@@ -70,26 +90,31 @@ If you have any questions or concerns about this Privacy Policy, you may email u
 
 Effective as of March 5, 2009.
 
-*   About
+Wolfram|Alpha Pages
+
 *   Pro
-*   Products
+*   Web Apps
 *   Mobile Apps
+*   Products
 *   Business Solutions
-*   For Developers
+*   API &. Developer Solutions
+*   About
 *   Resources &. Tools
 *   Blog
 *   Community
-*   Participate
 *   Contact
 *   Connect
+    
 
-*   © 2017 Wolfram Alpha LLC—A Wolfram Research Company
+*   ©2017 Wolfram Alpha LLC
 *   Terms
 *   Privacy
 
-    Sign Up for Wolfram|Alpha News Name (optional) Organization (optional) Email  
-Message (optional)     Thank You
+Wolfram Research
 
-We appreciate your interest in Wolfram|Alpha and will be in touch soon.
-
-_—The Wolfram|Alpha Team_
+*   wolfram.com
+*   Wolfram Language
+*   Wolfram for Education
+*   Wolfram Demonstrations
+*   Mathematica
+*   MathWorld
