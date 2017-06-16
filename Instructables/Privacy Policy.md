@@ -56,7 +56,6 @@ Change country/language X
     *   Makers &. indie designers
         *   3D printing
         *   Indie game maker
-        *   Makers
 *   Support &. learning
     *   Support
     *   By product
@@ -128,6 +127,7 @@ Legal Notices &. Trademarks
 *   Online Purchases and Auto-Renewal Terms and Conditions
 *   Legal Disclosures
 *   Autodesk Quote and Order Direct Order Terms and Conditions
+*   Move to Subscription Terms and Conditions
 
   Privacy Statement
 
