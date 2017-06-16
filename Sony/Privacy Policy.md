@@ -116,15 +116,15 @@ Sony on YouTube - In the New God of War, Kratos and His Son Battle Norse Gods
 
 Play In the New God of War, Kratos and His Son Battle Norse Gods Video hotspot
 
-Watch the Press Conference, Learn About New Exclusive Games, and More
+Watch the Live Stream From the Video Game Conference
 
 See All of the PlayStation’s E3 Announcements
 
 Close
 
-*   Share Watch the Press Conference, Learn About New Exclusive Games, and More on Facebook
-*   Share Watch the Press Conference, Learn About New Exclusive Games, and More on Twitter
-*   Copy URL to share Watch the Press Conference, Learn About New Exclusive Games, and More
+*   Share Watch the Live Stream From the Video Game Conference on Facebook
+*   Share Watch the Live Stream From the Video Game Conference on Twitter
+*   Copy URL to share Watch the Live Stream From the Video Game Conference
 
 See All of the PlayStation’s E3 Announcements
 
