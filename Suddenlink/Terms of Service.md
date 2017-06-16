@@ -220,7 +220,6 @@ Questions? Call 844.790.7475 My Suddenlink Contact Us FAQ
     *   News
     *   Careers
     *   Investor Relations
-    *   Network Information
     *   Areas We Serve
 *   Services
     *   Find Offers
