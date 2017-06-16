@@ -387,7 +387,7 @@ WHY BOOK HERE
 *   **FOUR POINTS**
 *   **element**
 
-You are on StarwoodHotels.com Starwood Hotels &. Resorts Other Starwood Brands >. Four Pointsbbc Sheraton Aloft W Hotels Le Méridien Luxury Collection Element Westin St. Regis Tribute Portfolio Design Hotels Starwood Preferred Guest Starwood Hotels Learn about our brands
+You are on StarwoodHotels.com Starwood Hotels &. Resorts Other Starwood Brands >. Four Points Sheraton Aloft W Hotels Le Méridien Luxury Collection Element Westin St. Regis Tribute Portfolio Design Hotels Starwood Preferred Guest Starwood Hotels Learn about our brands
 
 © 2017 Marriott International, Inc., All rights reserved. |
 
