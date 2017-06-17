@@ -52,6 +52,7 @@ Aéropostale
     
     *   NEW ARRIVALS
     *   BUY 1 GET 2 FREE
+    *   TAPOUT
     *   #FREETOBE
     *   TRENDING
     *   The White Collection
