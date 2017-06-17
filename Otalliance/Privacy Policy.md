@@ -86,13 +86,17 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Jun 27, 2017 2017 OTA Leadership Meeting &. Congressional Staff Lunch Briefing
+Tue, Jun 27, 2017 2017 OTA Leadership Meeting &. Congressional Staff Breakfast Briefing
 
 **2017 Online Trust Audit** .
 
 Wed, Jun 28, 2017 FTC Connected Car Workshop
 
 The Federal Trade Commission and the National Highway Traffic Safety Administration (NHTSA) will hold a workshop on June 28, 2017 in Washington, D.C., to examine the consumer privacy and security issues posed by automated and connected motor vehicles.  The workshop will feature opening remarks by Acting FTC Chairman Maureen K. Ohlhausen and will bring together a variety of stakeholders, including industry representatives, consumer advocates, academics, and government regulators, to discuss various issues related to connected and automated vehicles that collect data.
+
+Thu, Jun 29, 2017 2017 Online Trust Audit - Find Out Who Made The Grade
+
+Attend the webinar for a review of the 2017 Online Trust Audit, an independent analysis of leading security, privacy and consumer protection practices. Learn who made the "grade" and the common reasons why sites are failing.
 
 Tue, Oct 17, 2017 Privacy, Risk, Security 2017
 
