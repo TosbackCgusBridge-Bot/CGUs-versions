@@ -45,7 +45,7 @@ Please note that third parties (including, for example, advertising networks and
 
 Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or indicate when a cookie is being sent. You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of the Site.
 
-Please note that the first time members of the old ASW logged into the new ASW, ASW cookied login credentials.
+Please note that the first time members of the old ASW logged into ASW, ASW cookied login credentials.
 
 Why We Collect Information
 
