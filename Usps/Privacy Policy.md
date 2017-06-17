@@ -28,7 +28,6 @@ End of sub links*   Newsroom go to Careers header
     *   Events Calendar
     *   Photo Gallery
     *   Service Alerts
-    *   Fact Sheets
 End of sub links*   Careers go to Doing Business with Us header
     *   Career Opportunities
     *   Working at USPS
