@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server Development Summary – 16 Jun 2017 ›
+*   Ubuntu Desktop Weekly Update: June 16, 2017 ›
 *   Gitter and Mattermost: two desktop apps for your future chat platform ›
 *   Juju 2.2.0 and conjure-up 2.2.0 are here! ›
 *   Custom user mappings in LXD containers ›
-*   IBM &. Canonical: A Virtualization and Cloud Computing (R-)Evolution ›
-*   Kernel Team Summary- June 15, 2017 ›
