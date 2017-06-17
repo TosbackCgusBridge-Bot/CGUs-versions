@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card He’s Your #1. He’s Dad. Shop Father's Day.
+        Give a Buckle Gift card Surprise Dad With A Gift He’ll Love! Shop Personalized eGift Cards.
 *   Men
     *   *   Featured
         
@@ -136,7 +136,7 @@
         
           
           
-        Give a Buckle Gift card He’s Your #1. He’s Dad. Shop Father's Day.
+        Give a Buckle Gift card Surprise Dad With A Gift He’ll Love! Shop Personalized eGift Cards.
 *   Kids
     *   *   Featured
         
@@ -158,7 +158,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card He’s Your #1. He’s Dad. Shop Father's Day.
+        Give a Buckle Gift card Surprise Dad With A Gift He’ll Love! Shop Personalized eGift Cards.
 *   Jeans
     *   *   Women's Jeans
         
@@ -188,7 +188,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card He’s Your #1. He’s Dad. Shop Father's Day.
+        Give a Buckle Gift card Surprise Dad With A Gift He’ll Love! Shop Personalized eGift Cards.
 *   New
     *   *   Featured New
         
@@ -227,7 +227,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card He’s Your #1. He’s Dad. Shop Father's Day.
+        Give a Buckle Gift card Surprise Dad With A Gift He’ll Love! Shop Personalized eGift Cards.
 *   Sale
     *   *   Women's Sale
         
@@ -270,7 +270,7 @@
         
           
           
-        Give a Buckle Gift card He’s Your #1. He’s Dad. Shop Father's Day.
+        Give a Buckle Gift card Surprise Dad With A Gift He’ll Love! Shop Personalized eGift Cards.
 
 × Privacy &. Security
 
@@ -512,7 +512,8 @@ STAY CONNECTED
 
 1.  © 2017 Buckle Inc.
 2.  Privacy Policy
-3.  Transparency In Supply Chains
+3.  Data Security Incident
+4.  Transparency In Supply Chains
 
 × ×
 
