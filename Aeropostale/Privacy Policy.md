@@ -98,6 +98,7 @@ Aéropostale
     *   Tanks
     *   Short Sleeve Tees
     *   Hoodies &. Sweatshirts
+    *   Sleep Tops
     
     *   BOTTOMS
     *   #BestBootyEver
@@ -105,6 +106,7 @@ Aéropostale
     *   Leggings
     *   Joggers &. Sweats
     *   Bootcut
+    *   Sleep Bottoms
     
     *   UNDIES
     *   Hipster
