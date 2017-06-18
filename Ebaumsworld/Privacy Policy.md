@@ -8,7 +8,7 @@ You may upload your personal information to the Service and share the informatio
   
 The content that you upload to the Service is not private You have the control over the Content that you wish to upload to the Service. The Content you submit to the Service will be associated with your account. However the Content that you upload may be available to other users of the Service and the Service's personnel, as well as to users of the Internet in general, through, for example, the use of search engine services.  
   
-However, Viumbe attempts to limit access to the Service information by third party search engine "crawlers", "robots" or "spiders". Viumbe takes action to block access of these engines to personal information on the Service, beyond users? name, profile picture, and limited aggregated data about users? profile. Nevertheless, after being uploaded to the Service, such Content is not private or confidential and you should not have any expectation of privacy with respect to it. You are solely responsible for the Content that you upload. Please consider adopting measures to protect your privacy, including but not limited to providing an anonymous user name and refraining from providing personal and identifying or identifiable details when not required.  
+However, Viumbe attempts to limit access to the Service information by third party search engine "crawlers", "robots" or "spiders". Viumbe takes action to block access of these engines to personal information on the Service, beyond users’ name, profile picture, and limited aggregated data about users’ profile. Nevertheless, after being uploaded to the Service, such Content is not private or confidential and you should not have any expectation of privacy with respect to it. You are solely responsible for the Content that you upload. Please consider adopting measures to protect your privacy, including but not limited to providing an anonymous user name and refraining from providing personal and identifying or identifiable details when not required.  
   
 Personal Information that Viumbe collects Viumbe may collect further information when you use any of the services available on the Service. For example, Viumbe may record the frequency and scope of your use of the Service, the duration of your sessions, the web pages that you visit, the groups you joined, information that you read, Content that you use or submit, advertisements that you view or click on, your communications with other users and third parties on the Service, the Internet protocol (IP) address and the name of the domain that serve you to access the Service, and the geographic location of the computer system that you are using to log-in to the Service.  
   
@@ -16,24 +16,24 @@ Further information may be collected when Viumbe exchanges communications with y
   
 What does Viumbe do with your personally identifiable information?  
 Viumbe may use your personally identifiable information for the following purposes :  
-? to enable you to use the Service and to provide you with the services on the Service.  
-? to improve and customize your experience as well as the experience of other users on the Service.  
-? to develop new services on the Service;  
-? to provide you with support, handle complaints and collect fees;  
-? to send you updates, notices and announcements.  
-? to provide you with information related to the Service;  
-? to provide you with further marketing and advertising material, subject to your prior indication of consent on the Service. At any time you may opt out of the Service's mailing lists, by changing your preferences in your Service?s personal account.  
-? to conduct surveys and questionnaires.  
-? to post your Content on the Service and to facilitate communication between you and the Service and other users;  
-? to enforce the Terms of Service.  
-? to contact you as and when Viumbe believes it to be necessary;  
-? to comply with any applicable law and assist law enforcement agencies under any applicable law, when Viumbe has a good faith belief that Viumbe?s cooperation with the law enforcement agencies is legally mandated or meets the applicable legal standards.  
-? to prevent fraud, misappropriation, infringements, identity theft and other illegal activities and misuse of the Service.  
-? to take any action in any case of dispute, or legal proceeding of any kind between you and the Service, or between you and other users or third parties with respect to, or in relation with the Service.  
+• to enable you to use the Service and to provide you with the services on the Service.  
+• to improve and customize your experience as well as the experience of other users on the Service.  
+• to develop new services on the Service;  
+• to provide you with support, handle complaints and collect fees;  
+• to send you updates, notices and announcements.  
+• to provide you with information related to the Service;  
+• to provide you with further marketing and advertising material, subject to your prior indication of consent on the Service. At any time you may opt out of the Service's mailing lists, by changing your preferences in your Service’s personal account.  
+• to conduct surveys and questionnaires.  
+• to post your Content on the Service and to facilitate communication between you and the Service and other users;  
+• to enforce the Terms of Service.  
+• to contact you as and when Viumbe believes it to be necessary;  
+• to comply with any applicable law and assist law enforcement agencies under any applicable law, when Viumbe has a good faith belief that Viumbe’s cooperation with the law enforcement agencies is legally mandated or meets the applicable legal standards.  
+• to prevent fraud, misappropriation, infringements, identity theft and other illegal activities and misuse of the Service.  
+• to take any action in any case of dispute, or legal proceeding of any kind between you and the Service, or between you and other users or third parties with respect to, or in relation with the Service.  
   
 Important notice about children's privacy The Service is not intended for use by persons under the age of 13. If you are not 13 years old or older, then you will not use the Service or any of the services therein and must not provide any of your personal details.  
   
-Viumbe strongly encourages parents to monitor their children's use of the Web. Viumbe will delete a child?s personally identifiable information if a parent so requests by sending an e-mail to contact@Viumbe.com. If Viumbe learns that a child under the age of 13 years has provided personally identifiable information to the Service without verifiable parental consent, Viumbe will use commercially reasonable efforts to delete such information from Viumbe databases.  
+Viumbe strongly encourages parents to monitor their children's use of the Web. Viumbe will delete a child’s personally identifiable information if a parent so requests by sending an e-mail to contact@Viumbe.com. If Viumbe learns that a child under the age of 13 years has provided personally identifiable information to the Service without verifiable parental consent, Viumbe will use commercially reasonable efforts to delete such information from Viumbe databases.  
   
 Provisions relevant to Non U.S. users Viumbe operates the Service and processes personal information on computer servers located in the United States. Viumbe may process and store personal information on computer servers located in other jurisdictions, for back-up, redundancy and other purposes that Viumbe deems necessary to the operation of the Service.  
 You provide your explicit consent to the transfer of your personal information to the United States and other jurisdictions as described above and acknowledge that the laws concerning processing and storing personal information in those jurisdictions may differ from the laws of your home country.  
@@ -47,14 +47,14 @@ Viumbe may monetize the anonymous, statistical or aggregated information collect
 Sharing information with others Viumbe does not sell, rent or lease your personally identifiable information to third parties for any of their marketing purposes.  
   
 Viumbe may share personally identifiable information with others in any of the following instances, or subject to your explicit consent:  
-? When you use the Service, or when you take part in any content-related activity. In these cases, the Service will share your information to the extent necessary to facilitate your use of the Service;  
-? If Viumbe reasonably believes that you have breached the Service's Terms of Service, or abused your rights to use the Service, or performed any act or omission that Viumbe reasonably believes to be violating any applicable law, rules, or regulations. Viumbe may share your information in these cases, with law enforcement and other competent authorities and with any third party, as may be required to handle any result of your wrongdoing;  
-? If Viumbe is required, or reasonably believes that it is required by law and/or law enforcement agencies to share or disclose your information.  
-? In any case of dispute, or legal proceeding of any kind between you and Viumbe or between you and other users with respect to, or in relation with the Service.  
-? To operate the Service and Viumbe?s services, to send messages, and to provide search results and links;  
-? In any case where Viumbe reasonably believes that sharing information is necessary to prevent imminent physical damage or damage to property;  
-? If Viumbe organizes the operation of the Service within a different framework, or through another legal structure or entity, or if Viumbe is acquired by, or merged into or with another entity, provided however, that those entities agree to be bound by the provisions of this policy, with respective changes taken into consideration;  
-? Viumbe may also share personally identifiable information with companies or organizations connected, or affiliated with Viumbe, such as subsidiaries, sister-companies and parent companies, and other partners, with the express provision that their use of such information must comply with this policy.  
+• When you use the Service, or when you take part in any content-related activity. In these cases, the Service will share your information to the extent necessary to facilitate your use of the Service;  
+• If Viumbe reasonably believes that you have breached the Service's Terms of Service, or abused your rights to use the Service, or performed any act or omission that Viumbe reasonably believes to be violating any applicable law, rules, or regulations. Viumbe may share your information in these cases, with law enforcement and other competent authorities and with any third party, as may be required to handle any result of your wrongdoing;  
+• If Viumbe is required, or reasonably believes that it is required by law and/or law enforcement agencies to share or disclose your information.  
+• In any case of dispute, or legal proceeding of any kind between you and Viumbe or between you and other users with respect to, or in relation with the Service.  
+• To operate the Service and Viumbe’s services, to send messages, and to provide search results and links;  
+• In any case where Viumbe reasonably believes that sharing information is necessary to prevent imminent physical damage or damage to property;  
+• If Viumbe organizes the operation of the Service within a different framework, or through another legal structure or entity, or if Viumbe is acquired by, or merged into or with another entity, provided however, that those entities agree to be bound by the provisions of this policy, with respective changes taken into consideration;  
+• Viumbe may also share personally identifiable information with companies or organizations connected, or affiliated with Viumbe, such as subsidiaries, sister-companies and parent companies, and other partners, with the express provision that their use of such information must comply with this policy.  
   
 Choice Viumbe provides you with an opportunity to opt-out of having your personally identifiable information used for certain purposes, when we ask for this information.  
   
@@ -67,7 +67,7 @@ At any time you may access your account on the Service and edit, or amend your p
 Data retention Viumbe may at all times review, retain and disclose any information as Viumbe deems necessary to satisfy any applicable law, regulation, legal process or governmental request. However, by doing so Viumbe does not either expressly or impliedly endorse, affirm or in any manner assume any responsibility for such communications.  
   
 Cookies Viumbe may use cookies on the Service. Cookies are packets of information sent by the Service's servers to your web browser and then sent back by the browser each time it accesses the Service's servers. The cookies may contain a variety of information, such as the content of search queries, the Service's pages you have accessed, session durations and IP addresses.  
-The Service may use cookies for various purposes, such as to save you the need to re-enter your user name and password each time you log-in on the Service, to facilitate the use of services on the Service, to collect statistical information with respect to the use of the Service, to verify information, to customize Service to your personal preferences and for information security purposes. Some of the cookies may expire when the session ends and you exit your browser. Other cookies are saved on your computer?s hard drive. If you wish to block the Service's cookies, then please use the help button in your browser and follow the necessary instructions. However, bear in mind that disabling cookies may complicate or even prevent your use of the Service, or certain features thereof.  
+The Service may use cookies for various purposes, such as to save you the need to re-enter your user name and password each time you log-in on the Service, to facilitate the use of services on the Service, to collect statistical information with respect to the use of the Service, to verify information, to customize Service to your personal preferences and for information security purposes. Some of the cookies may expire when the session ends and you exit your browser. Other cookies are saved on your computer’s hard drive. If you wish to block the Service's cookies, then please use the help button in your browser and follow the necessary instructions. However, bear in mind that disabling cookies may complicate or even prevent your use of the Service, or certain features thereof.  
   
 Advertising Campaigns Viumbe permits third party advertising companies to place advertisements on Viumbe Websites and manage their display. The advertisements originate from these advertising computer systems. In order to manage the advertisements, these companies post cookies on your computer and embed web beacons in the advertisements or in Viumbe Websites' pages. Web beacons are tiny graphics with unique identifiers, embedded in web pages and used to assist in collecting information about the sites usage. The collected information does not identify you, and is only intended to match the displayed advertisements to your personal interests. The use of cookies and web beacons by advertising companies is subject to their own privacy policies and not to this Privacy Policy. Such companies have no access to Viumbe's Websites' cookies and Viumbe has no access to their cookies. Should you wish to check the privacy policies of the companies that are managing the advertising scheme on Viumbe Websites, you may do so via their own websites. To opt out of Google's "interest-based ads" and to learn more about Google's collection of your personal information to serve ads in connection with Viumbe Websites, click here. To receive further information about the advertising companies that Viumbe works with, please contact us at: contact@viumbe.com.  
   
