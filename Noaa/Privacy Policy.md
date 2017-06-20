@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms How ocean savvy are you? Join us in June for #30DaysofOcean AROUND NOAA // Blog: Discovery is the middle name for NOAA's ocean workhorse Excessive heat, a 'silent killer' Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event As Alaska's North Slope warms, greenhouse gases have nowhere to go but up
+Enter Search Terms Earth has 2nd warmest year to date and 3rd warmest May on record The extent of Arctic and Antarctic sea ice remains small AROUND NOAA // How ocean savvy are you? Join us in June for #30DaysofOcean Blog: Discovery is the middle name for NOAA's ocean workhorse Excessive heat, a 'silent killer' As Alaska's North Slope warms, greenhouse gases have nowhere to go but up
 
 *   About our agency
 *   News and features
@@ -124,3 +124,5 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Contact us
 *   Staff Directory
 *   Need help?
+
+NOAA
