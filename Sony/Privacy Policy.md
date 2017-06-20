@@ -100,7 +100,83 @@ Phone and Tablet AppsThe best of what Sony has to offer on iOS or Android. Downl
 *   Register a Product
 *   Community
 
-Your browser does not support JavaScript! In the New God of War, Kratos and His Son Battle Norse Gods
+Your browser does not support JavaScript! Capture Everything in Super Slow Motion
+
+With the Xperia XZ Premium
+
+Close
+
+*   Share Capture Everything in Super Slow Motion on Facebook
+*   Share Capture Everything in Super Slow Motion on Twitter
+*   Copy URL to share Capture Everything in Super Slow Motion
+
+With the Xperia XZ Premium
+
+What’s Your Xperia Color?
+
+Get the Xperia XA1
+
+Close
+
+*   Share What’s Your Xperia Color? on Facebook
+*   Share What’s Your Xperia Color? on Twitter
+*   Copy URL to share What’s Your Xperia Color?
+
+Get the Xperia XA1
+
+Never stop playing. #RemotePlay #XZPremium
+
+2017-06-20 00:30:16+00:00
+
+View Tweet
+
+View Tuning In on Instagram
+
+An Audiophile’s Dream, Realized
+
+Meet the Signature Series
+
+Close
+
+*   Share An Audiophile’s Dream, Realized on Facebook
+*   Share An Audiophile’s Dream, Realized on Twitter
+*   Copy URL to share An Audiophile’s Dream, Realized
+
+Meet the Signature Series
+
+Hit the Road with Jesse, Cassidy and Tulip
+
+"Preacher" Premieres this Week on AMC
+
+Close
+
+*   Share Hit the Road with Jesse, Cassidy and Tulip on Facebook
+*   Share Hit the Road with Jesse, Cassidy and Tulip on Twitter
+*   Copy URL to share Hit the Road with Jesse, Cassidy and Tulip
+
+Play Hit the Road with Jesse, Cassidy and Tulip Video
+
+Sony on YouTube - Hit the Road with Jesse, Cassidy and Tulip
+
+Play Hit the Road with Jesse, Cassidy and Tulip Video hotspot
+
+Inspiring the Innovators of Tomorrow
+
+Learn About Our KOOV Coding Kits
+
+Close
+
+*   Share Inspiring the Innovators of Tomorrow on Facebook
+*   Share Inspiring the Innovators of Tomorrow on Twitter
+*   Copy URL to share Inspiring the Innovators of Tomorrow
+
+Play Inspiring the Innovators of Tomorrow Video
+
+Sony on YouTube - Inspiring the Innovators of Tomorrow
+
+Play Inspiring the Innovators of Tomorrow Video hotspot
+
+In the New God of War, Kratos and His Son Battle Norse Gods
 
 Learn About the PlayStation Exclusive
 
@@ -130,7 +206,7 @@ See All of the PlayStation’s E3 Announcements
 
 GT Sport is coming this fall to PS4 and PS4 Pro. Watch the new gameplay trailer right now.
 
-2017-06-12 05:00:00+00:00
+2017-06-12 10:00:00+00:00
 
 View Tweet
 
@@ -170,179 +246,51 @@ Close
 
 In Uncharted: The Lost Legacy
 
-What Happens When a Bachelorette Party in Miami Goes Off The Rails?
+Edgar Wright's New Movie was Written Around the Soundtrack
 
-“Rough Night” Hits Theaters This Friday
-
-Close
-
-*   Share What Happens When a Bachelorette Party in Miami Goes Off The Rails? on Facebook
-*   Share What Happens When a Bachelorette Party in Miami Goes Off The Rails? on Twitter
-*   Copy URL to share What Happens When a Bachelorette Party in Miami Goes Off The Rails?
-
-Play What Happens When a Bachelorette Party in Miami Goes Off The Rails? Video
-
-Sony on YouTube - What Happens When a Bachelorette Party in Miami Goes Off The Rails?
-
-Play What Happens When a Bachelorette Party in Miami Goes Off The Rails? Video hotspot
-
-Father’s Day Was Made for Adventures with Dad
-
-Start Yours Now
+"Baby Driver" Hits Theaters June 28
 
 Close
 
-*   Share Father’s Day Was Made for Adventures with Dad on Facebook
-*   Share Father’s Day Was Made for Adventures with Dad on Twitter
-*   Copy URL to share Father’s Day Was Made for Adventures with Dad
+*   Share Edgar Wright's New Movie was Written Around the Soundtrack on Facebook
+*   Share Edgar Wright's New Movie was Written Around the Soundtrack on Twitter
+*   Copy URL to share Edgar Wright's New Movie was Written Around the Soundtrack
 
-Start Yours Now
+Play Edgar Wright's New Movie was Written Around the Soundtrack Video
 
-For Dads On the Go: An Assistant
+Sony on YouTube - Edgar Wright's New Movie was Written Around the Soundtrack
 
-Check Out Xperia Ear
+Play Edgar Wright's New Movie was Written Around the Soundtrack Video hotspot
 
-Close
+When a Table Becomes a Touchscreen, Anything Is Possible
 
-*   Share For Dads On the Go: An Assistant on Facebook
-*   Share For Dads On the Go: An Assistant on Twitter
-*   Copy URL to share For Dads On the Go: An Assistant
-
-Check Out Xperia Ear
-
-You've never seen anything like it. Discover the world's first #4KHDR smartphone display with #Xperia XZ Premium.
-
-2017-06-13 03:50:05+00:00
-
-View Tweet
-
-View Sound for any space on Instagram
-
-The Perfect Blu-Ray Player
-
-For Any Movie Buff
+Try the Xperia Touch
 
 Close
 
-*   Share The Perfect Blu-Ray Player on Facebook
-*   Share The Perfect Blu-Ray Player on Twitter
-*   Copy URL to share The Perfect Blu-Ray Player
+*   Share When a Table Becomes a Touchscreen, Anything Is Possible on Facebook
+*   Share When a Table Becomes a Touchscreen, Anything Is Possible on Twitter
+*   Copy URL to share When a Table Becomes a Touchscreen, Anything Is Possible
 
-For Any Movie Buff
+Try the Xperia Touch
 
-Give the Gift of Incredible Viewing Experiences
-
-Check Out Our 4K HDR TVs
-
-Close
-
-*   Share Give the Gift of Incredible Viewing Experiences on Facebook
-*   Share Give the Gift of Incredible Viewing Experiences on Twitter
-*   Copy URL to share Give the Gift of Incredible Viewing Experiences
-
-Check Out Our 4K HDR TVs
-
-Rain or Shine, Take the Party Wherever You Go
+Take the Party Wherever You Go
 
 With the SRS-XB40
 
 Close
 
-*   Share Rain or Shine, Take the Party Wherever You Go on Facebook
-*   Share Rain or Shine, Take the Party Wherever You Go on Twitter
-*   Copy URL to share Rain or Shine, Take the Party Wherever You Go
+*   Share Take the Party Wherever You Go on Facebook
+*   Share Take the Party Wherever You Go on Twitter
+*   Copy URL to share Take the Party Wherever You Go
 
 With the SRS-XB40
 
-A Grad-Inspired Playlist
+You &. a friend could win tickets to the #LA premiere of #SpiderManHomecoming. Enter for a chance to win now.
 
-Listen Now
-
-Close
-
-*   Share A Grad-Inspired Playlist on Facebook
-*   Share A Grad-Inspired Playlist on Twitter
-*   Copy URL to share A Grad-Inspired Playlist
-
-Listen Now
-
-View Stacked on bass. on Instagram
-
-Add Extra Bass For More Powerful Sound—and Dance Moves
-
-Learn More
-
-Close
-
-*   Share Add Extra Bass For More Powerful Sound—and Dance Moves on Facebook
-*   Share Add Extra Bass For More Powerful Sound—and Dance Moves on Twitter
-*   Copy URL to share Add Extra Bass For More Powerful Sound—and Dance Moves
-
-Play Add Extra Bass For More Powerful Sound—and Dance Moves Video
-
-Sony on YouTube - Add Extra Bass For More Powerful Sound—and Dance Moves
-
-Play Add Extra Bass For More Powerful Sound—and Dance Moves Video hotspot
-
-Get @sza's highly anticipated album #Ctrl now on @GooglePlay.
-
-2017-06-11 05:00:00+00:00
+2017-06-15 05:00:00+00:00
 
 View Tweet
-
-Dance Along to Sia’s “Move Your Body”
-
-From “This Is Acting”
-
-Close
-
-*   Share Dance Along to Sia’s “Move Your Body” on Facebook
-*   Share Dance Along to Sia’s “Move Your Body” on Twitter
-*   Copy URL to share Dance Along to Sia’s “Move Your Body”
-
-Play Dance Along to Sia’s “Move Your Body” Video
-
-Sony on YouTube - Dance Along to Sia’s “Move Your Body”
-
-Play Dance Along to Sia’s “Move Your Body” Video hotspot
-
-See a Table Become a Touchscreen
-
-At Sony Square NYC
-
-Close
-
-*   Share See a Table Become a Touchscreen on Facebook
-*   Share See a Table Become a Touchscreen on Twitter
-*   Copy URL to share See a Table Become a Touchscreen
-
-At Sony Square NYC
-
-Noise-Canceling Headphones That Fit Your Life
-
-Check Out the MDR-1000X
-
-Close
-
-*   Share Noise-Canceling Headphones That Fit Your Life on Facebook
-*   Share Noise-Canceling Headphones That Fit Your Life on Twitter
-*   Copy URL to share Noise-Canceling Headphones That Fit Your Life
-
-Check Out the MDR-1000X
-
-Summer Party Jams
-
-Start Streaming
-
-Close
-
-*   Share Summer Party Jams on Facebook
-*   Share Summer Party Jams on Twitter
-*   Copy URL to share Summer Party Jams
-
-Start Streaming
-
-View Sound of gold. on Instagram
 
 Turn Down the World Around You, and Live In the Music
 
@@ -360,27 +308,35 @@ Sony on YouTube - Turn Down the World Around You, and Live In the Music
 
 Play Turn Down the World Around You, and Live In the Music Video hotspot
 
-@djkhaled's new album #GRATEFUL is out June 23! Pre-order it today.
+View Pure black magic. on Instagram
 
-2017-06-05 22:37:51+00:00
+The Perfect Blu-Ray Player
 
-View Tweet
-
-Heard the New Bleachers Song?
-
-Watch More Music Videos
+For Any Movie Buff
 
 Close
 
-*   Share Heard the New Bleachers Song? on Facebook
-*   Share Heard the New Bleachers Song? on Twitter
-*   Copy URL to share Heard the New Bleachers Song?
+*   Share The Perfect Blu-Ray Player on Facebook
+*   Share The Perfect Blu-Ray Player on Twitter
+*   Copy URL to share The Perfect Blu-Ray Player
 
-Play Heard the New Bleachers Song? Video
+For Any Movie Buff
 
-Sony on YouTube - Heard the New Bleachers Song?
+What Happens When a Bachelorette Party in Miami Goes Off The Rails?
 
-Play Heard the New Bleachers Song? Video hotspot
+See “Rough Night” in Theaters Now
+
+Close
+
+*   Share What Happens When a Bachelorette Party in Miami Goes Off The Rails? on Facebook
+*   Share What Happens When a Bachelorette Party in Miami Goes Off The Rails? on Twitter
+*   Copy URL to share What Happens When a Bachelorette Party in Miami Goes Off The Rails?
+
+Play What Happens When a Bachelorette Party in Miami Goes Off The Rails? Video
+
+Sony on YouTube - What Happens When a Bachelorette Party in Miami Goes Off The Rails?
+
+Play What Happens When a Bachelorette Party in Miami Goes Off The Rails? Video hotspot
 
 Load More
 
