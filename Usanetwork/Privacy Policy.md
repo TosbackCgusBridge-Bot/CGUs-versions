@@ -27,7 +27,7 @@ Skip to main content
             7.  NBC Sports Network (NBCSN) NBC Sports Network (NBCSN) Serves today's passionate sports fans with coverage of the Summer and Winter Olympics, NHL, Premier League, Formula One, MLS, Tour de France and more. NBC Sports Network (NBCSN)
             8.  Oxygen Media Oxygen Media Multiplatform brand targeting young multicultural women. Features unscripted original programming that reflects how very real women see the world. Oxygen Media
             9.  Sprout Sprout Sprout is the 24-hour preschool TV network that reflects real kids and the real worlds they are growing up in. Sprout
-            10.  Syfy Syfy A leader in imagination-based entertainment, including year round original series, events, blockbuster movies, classic science fiction &. fantasy. Syfy
+            10.  SYFY SYFY A leader in imagination-based entertainment, including year round original series, events, blockbuster movies, classic science fiction &. fantasy. SYFY
             11.  The Weather Channel Company The Weather Channel Company Provides millions of people every day with the world's best weather forecasts, content and data. The Weather Channel Company
             12.  Universal HD Universal HD The best Universal movies and sports programming in high-definition. Universal HD
             13.  UNIVERSO UNIVERSO Modern general entertainment for Latinos, bringing the world's top sports franchises and edgy, emotional programming to more than 40 million households. UNIVERSO
@@ -90,7 +90,7 @@ Skip to main content
                 *   NBC Sports Network (NBCSN)
                 *   Oxygen Media
                 *   Sprout
-                *   Syfy
+                *   SYFY
                 *   The Weather Channel Company
                 *   Universal HD
                 *   UNIVERSO
