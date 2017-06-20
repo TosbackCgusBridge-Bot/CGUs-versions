@@ -63,7 +63,7 @@ Firefox Privacy Close
     
     *   About
     *   Privacy &. Security
-    *   Open Innovation
+    *   Openness
     *   Decentralization
     *   Digital Inclusion
     *   Web LiteracyPrivacy Facebook privacy tips: How to share without oversharing Security Don’t Get Pwned: A Guide to Safer Logins
