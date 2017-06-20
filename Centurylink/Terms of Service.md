@@ -195,7 +195,7 @@ Attention! Your browser settings show that JavaScript is disabled. Attention! Yo
 
 About Us | Careers | Investor Relations | Legal | Legal Notices | Privacy Policy | Site Map | Tariffs | Customers with Disabilities | Contact Us  
   
-Store Locator | CenturyLink in Your Area | White/Yellow Pages White/Yellow Pages | Email Offers | Referral Program | CenturyLink Retailer | Fed Govt | State &. Fed Govt | Education | Partners  
+Store Locator | CenturyLink in Your Area | White/Yellow Pages White/Yellow Pages | Email Offers | Referral Program | CenturyLink Retailer | Guide to Home Technology | Fed Govt | State &. Local Gov’t | Education | Partners  
   
 For Home | Small Business | Medium Business | Enterprise | Wholesale  
   
