@@ -147,7 +147,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.TV Help Center/FAQs
     *   MLB.TV Support Forum
     *   MLB.TV Blackouts
-    *   Contact Uswbc Spring Training
+    *   Contact Uswbc
 *   Auction
 *   Fantasy Fantasy Fantasy
     *   Beat the Streak
