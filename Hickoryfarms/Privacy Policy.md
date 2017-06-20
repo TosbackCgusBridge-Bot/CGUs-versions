@@ -10,7 +10,7 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Father's Day Favorites
+    Holidays &. Occasions*   Independence Day
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Gifts for Her
@@ -19,7 +19,7 @@
     By Price*   $30 &. Under
     *   $40 &. Under
     *   $50 &. Under
-    *   Over $90Most Popular Father's Day Gifts Sausage &. Cheese
+    *   Over $90Most Popular Birthday Gifts Fruit &. Nuts
 *   Sausage &. Cheese
     
     View All Categories Shop by Category*   Gifts
@@ -84,7 +84,7 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Father's Day Favorites
+    Holidays &. Occasions*   Independence Day
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Gifts for Her
@@ -93,7 +93,7 @@
     By Price*   $30 &. Under
     *   $40 &. Under
     *   $50 &. Under
-    *   Over $90Most Popular Father's Day Gifts Sausage &. Cheese
+    *   Over $90Most Popular Birthday Gifts Fruit &. Nuts
 *   Sausage &. Cheese
     
     View All Categories Shop by Category*   Gifts
@@ -235,7 +235,7 @@ Orders
 
 1.800.621-0226
 
-Sign up for gift ideas &. delicious deals Sign Up
+Sign up for gift ideas &. delicious deals! Sign Up
 
 Customer Service
 
