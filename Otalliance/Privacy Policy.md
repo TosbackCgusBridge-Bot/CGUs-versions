@@ -86,9 +86,16 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Jun 27, 2017 2017 OTA Leadership Meeting &. Congressional Staff Breakfast Briefing
+Tue, Jun 27, 2017 2017 Trust Audit Congressional Staff Breakfast **Register For the Breakfast Briefing Today** 
 
-**2017 Online Trust Audit** .
+**8:00 - 8:30**  Coffee &. Registration
+
+Tue, Jun 27, 2017 OTA Members Leadership Meeting
+
+**Hosted at Symantec**  
+700 13th St NW  
+Suite 1150  
+Washington, DC 20005
 
 Wed, Jun 28, 2017 FTC Connected Car Workshop
 
@@ -98,9 +105,7 @@ Thu, Jun 29, 2017 2017 Online Trust Audit - Find Out Who Made The Grade
 
 Attend the webinar for a review of the 2017 Online Trust Audit, an independent analysis of leading security, privacy and consumer protection practices. Learn who made the "grade" and the common reasons why sites are failing.
 
-Tue, Oct 17, 2017 Privacy, Risk, Security 2017
-
-Privacy. Security. Risk.
+More >>.
 
 *   OTA Blog
 *   Newsletters
