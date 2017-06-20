@@ -1,4 +1,4 @@
-**reddit user agreement** _Last Revised May 27, 2016. Effective May 27, 2016_
+**reddit user agreement** _Last Revised June 19, 2017. Effective May 27, 2016_
 
 > reddit powers thousands of distinct online communities.  
 > these terms and your conduct make that possible.
@@ -121,7 +121,7 @@ DMCA copyright, the dmca, &. takedowns
 
 36 We will respond to legitimate requests under the Digital Millennium Copyright Act ("DMCA"), and we retain the right to remove user content on reddit that we deem to be infringing the copyright of others. If you become aware of user content on reddit that infringes your copyright rights, you may submit a properly formatted DMCA request (see 17 U.S.C. § 512) to reddit.
 
-37 Misrepresentations of infringement can result in liability for monetary damages. You may want to consult an attorney before taking any action pursuant to the DMCA. Any DMCA request should be sent to this contact information:
+37 Misrepresentations of infringement can result in liability for monetary damages. You may want to consult an attorney before taking any action pursuant to the DMCA. A DMCA request can be sent to us via the contact information below, or by completing our DMCA Report Form:
 
 `Copyright Agent reddit, Inc. 548 Market St., #16093 San Francisco, CA 94104-5401 copyright@reddit.com`
 
