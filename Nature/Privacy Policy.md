@@ -263,7 +263,6 @@ GET TEXT UPDATES\* Please provide a valid phone number
 
 Global Sites*   Australia: English
 *   Brazil: Portugues
-*   China: 简体中文
 *   Hong Kong: 繁體中文 | English
 *   Indonesia: Indonesian | English
 *   Latin America: Español
