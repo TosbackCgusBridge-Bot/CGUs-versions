@@ -110,6 +110,10 @@ More >>.
 *   OTA Blog
 *   Newsletters
 
+Tue, Jun 20, 2017 2017 Online Trust Audit Released - What Did We Learn?
+
+Today we released the 9th annual Online Trust Audit and Honor Roll. This year’s Audit is our most comprehensive ever, assessing more than 1000 consumer-facing sites for their adoption of best practices in consumer/brand protection, site security and responsible privacy practices.
+
 Mon, Jun 5, 2017 Whitelisting Ads Vs. Scorched Earth: What's The Best Approach?
 
 By some accounts, there are more than 200 variants of ad-blocking solutions, many of which utilize whitelisting that allows certain ads through when they adhere to specific rules. While an ad blocker that doesn’t block all ads may sound like an oxymoron, I argue that whitelisting may be critical for the long-term sustainability of ad-supported services.
@@ -123,10 +127,6 @@ Updated April 10, 2017
 Wed, Apr 5, 2017 A New Chapter for OTA
 
 I would like to share exciting news.  Today OTA has announced it has joined forces with the Internet Society (ISOC) and will operate as a key ISOC initiative effective May 1, 2017.  ISOC is a global non-profit with the mission to promote the open development, evolution, and use of the Internet for the benefit of all people throughout the world
-
-Thu, Mar 30, 2017 Repeal of FCC Privacy Rules. A Sad Day for Consumers
-
-The vote to repeal FCC broadband privacy controls is a sad day for consumers, businesses and the United States.  While the rest of the world is increasingly recognizing privacy as a basic human right, Congress has failed the U.S.
 
 More >>. Resources
 
