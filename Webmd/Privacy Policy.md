@@ -106,11 +106,11 @@ Featured Topics*   Slideshow Symptoms of ADHD in Children
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Recall: Birth Control Pills
-    *   Be Careful What You Do After Getting a Tattoo
-    *   Unknown Street Drug Linked to 4 Deaths
-    *   Can Coffee or Tea Protect the Liver From a Bad Diet?
-    *   Video: How to Use an AED
+    *   Intense Exercise May Damage the Gut
+    *   More Deadly Heatwaves Ahead
+    *   How Sleep Affects Weight
+    *   Electric Shock Drowning: A Silent Killer
+    *   Video: Physical Symptoms of Anxiety
     
     Experts &. Community
     *   Message Boards
