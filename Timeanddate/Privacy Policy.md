@@ -149,17 +149,17 @@ webmaster@timeanddate.com timeanddate.com
 
 Index
 
-You might also like 12 Months of the Year
+You might also like Full Moon Names
 
-Find out what months have to do with the Moon, why there are 12 months, and what the month names mean. more
+Full Moons had given names in many ancient cultures. The Full Moon names we use today often reflect nature like Harvest Moon. more
 
 2017 / 2018 Cosmic Calendar
 
 List of cosmic events in 2017 an 2018 including supermoons, solar and lunar eclipses, meteor showers, solstices, and equinoxes. more
 
-Magnetic Declination
+12 Months of the Year
 
-A compass needle doesn't point to the geographical North Pole but to magnetic north. Did you know that it usually doesn't point to the magnetic North Pole either? more
+Find out what months have to do with the Moon, why there are 12 months, and what the month names mean. more
 
 Time Zones and DST in Europe
 
