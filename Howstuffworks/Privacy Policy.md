@@ -62,8 +62,6 @@ Pinterest
 *   Shows
 *   Quizzes
 
-1.  HSW
-
 Privacy Policy    
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace Holdings LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
@@ -246,11 +244,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**These Pine Trees Almost Always Lean Toward the Equator**
+**Hundreds of Scientists Call for Tighter Limits on Common Antibacterial Chemical**
 
-**Social Jet Lag May Be Bad for Your Heart**
+**Cracking the Code of the U.S. National Intelligence Agency**
 
-**Long-term Exposure to Aircraft Noise Linked to High Blood Pressure**
+**What Do Babies See Before Birth?**
 
 About Us
 
