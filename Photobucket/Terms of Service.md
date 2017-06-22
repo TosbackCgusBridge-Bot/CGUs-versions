@@ -1,6 +1,6 @@
-Photobucket.com Terms of Use
+**Photobucket.com Terms of Use**
 
-**Last revised June 2, 2017**
+**Last revised June 20, 2017**
 
 Thank you for visiting Photobucket.com (the "**Site**"), operated by Photobucket.com, Inc. ("**Photobucket**" or "**we**" or "**us**"). Please carefully read these Terms of Use ("**Terms**") so you understand how we operate this Site, what we can offer and how we can work together. Please also read our Privacy Policy and Copyright and IP Policy. By using the Site and the Photobucket Services (even if you're just visiting), you are agreeing to the Terms and Privacy Policy posted at the time of your visit.
 
@@ -35,20 +35,23 @@ You may cease use of the Photobucket Services at any time. Even after you are no
 
 *   **Visiting**: There is no cost to visit the Site or to register as a Member.
 *   **Free account**: Each individual Member gets one free account that provides 2 GB of free storage or space available for your original photo files, or videos under 10min. The free account does not allow any image linking or 3rd party image hosting. If a free account Member exceeds their Content Limit, their account will be immediately suspended and they will need to become a “Paying Member” (defined below) in order to continue accessing their account. You can upgrade to a Plus account at any time.
-*   **Plus account**: The Plus Account offers several paid options that may give the Paying Member more storage, bandwidth, 3rd party image hosting, image linking and/or other services as outlined below. Once and during such period of time in which you subscribe to and pay for a Plus Account, we will consider you a "Paying Member." Please note that all subscriptions are billed annually.
+*   **Ad-free account**: The Ad-free account offers Members the ability to use the Site without seeing any third party banner advertisements when logged into your Ad-free account (note, viewers of your images within Photobucket will see ads unless they, too, have Plus accounts). This account level is available for $2.49 / month, payable by the Member on a monthly recurring basis.
+
+*   **Plus account**: The Plus Account offers several paid options that may give the Paying Member more storage, bandwidth, 3rd party image hosting, image linking and/or other services as outlined below. Once and during such period of time in which you subscribe to and pay for a Plus Account, we will consider you a "Paying Member." Please note that all Plus account subscriptions are billed annually at the commencement of the service.
 
 *   **Available Plus Account Plans**: Photobucket offers the following Plus Account Plans:
 
-*   Plus 20 Plan: 22 GB of Storage for $39.99 / Year. **_The Plus 20 Plan does not allow any image linking or 3rd party image hosting._**
+*   Plus 50 Plan: 52 GB of Storage for $59.99 / Year. **_The Plus 50 Plan does not allow any image linking or 3rd party image hosting._**
 *   Plus 100 Plan: 50 GB of Storage for $99.99 / Year. **_The Plus 100 Plan allows for unlimited image linking but does not allow 3rd party image hosting._**
-*   Plus 500 Plan: 500 GB of Storage for $399.99 / Year. **_The Plus 500 Plan allows for unlimited image linking and 3rd party image hosting._**
+*   Plus 500 Plan: 500 GB of Storage and 100 GB of bandwidth for $399.99 / Year. **_The Plus 500 Plan allows for unlimited image linking and 100 GB of  3rd party image hosting._**
+*   Enterprise Level Plan: For Members that need more than 500 GB of Storage and/or more than 100 GB of bandwidth, Photobucket offers competitive pricing to meet your needs. Please contact: support@photobucket.com for pricing.
 
 *   **Additional Features of all Plus Accounts**: When you upgrade to any Plus Account, you will also receive:
 *   Premium Support. You have direct access to our tech support team. Email our PLUS Support Team
 *   No Ads: When you're logged into your Plus account, you won't see any ads on Photobucket pages (note, viewers of your images within Photobucket will see ads unless they, too, have Plus accounts).
     *   **Modifying Your Plus Account**: Photobucket has the right to change the limits at any time. If you are a Paying Member, you can always upgrade to a higher level Plus account and will have the opportunity to downgrade your service at the beginning of the next payment term following any such modifications.
 *   **Payments, Expirations, Refunds and Cancelations**:
-*   When you subscribe to the Plus service, you authorize Photobucket to charge you using your selected payment method for all applicable fees. If the auto-renewal option is selected, Photobucket will automatically charge your credit card annually, unless you notify us that you want to cancel or disable auto-renewal prior to the next renewal.
+*   When you subscribe to the Ad-free service or Plus service, you authorize Photobucket to charge you using your selected payment method for all applicable fees. If the auto-renewal option is selected, Photobucket will automatically charge your credit card monthly for an Ad-free account and annually for a Plus account, unless you notify us that you want to cancel or disable auto-renewal prior to the next renewal.
 *   Paying Members are responsible for providing (and updating when necessary) complete and accurate billing and contact information to Photobucket.
 *   Paying Members can cancel at any time by following the instructions here. If you cancel, you will not be charged for any future term of service, and you will continue to receive the service you purchased through the end of the paid term. Fees are non-refundable except as may be required by applicable law.
 *   If any fee is not paid in a timely manner, or Photobucket is unable to process your transaction using the credit card information provided, Photobucket may suspend or terminate your account until such time as the applicable payment is made. At our discretion, Photobucket may also delete some or all of Your Content so as to reduce your storage space below the applicable Content Limit, which would result in the conversion of your Plus account to a free account (which is subject to the restrictions described in these Terms).
