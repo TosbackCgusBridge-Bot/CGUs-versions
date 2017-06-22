@@ -18,7 +18,7 @@ This JavaScript enables OnlineOpinion, a method for collecting secure feedback d
 *   Financial &. Risk
 *   Innovation
 *   Legal
-*   Reuters New Agency
+*   Reuters News Agency
 *   Tax &. Accounting
 
 Skip to content Skip to navigation menu **Your browser is not supported by this site.** Please update to the latest version, or use a different browser for the best experience. Learn more
