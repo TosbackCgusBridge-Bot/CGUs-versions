@@ -119,7 +119,7 @@ If you have questions concerning our information practices with respect to child
   
 By mail:  
 Oath Children's Online Privacy  
-ATT: H4A:G09  
+ATT: H4A:G10  
 22000 AOL Way  
 Dulles, VA 20166-9302  
   
