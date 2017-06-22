@@ -29,6 +29,13 @@ Search Fidelity.com
     *   Retirement DistributionsLog In Required
     
     *   OFFER See our featured trading offer. Learn more.
+*   Planning &. Advice
+    *   What We Offer
+    *   Financial Basics
+    *   Building Savings
+    *   Managing &. Growing Wealth
+    *   Retirement
+    *   Life Events
 *   News &. Research
     *   News
     *   Watch ListLog In Required
@@ -45,16 +52,6 @@ Search Fidelity.com
     *   Learning Center
     *   Notebook
     *   Notebook
-*   Guidance &. Retirement
-    *   Investment Guidance
-    *   Retirement Planning
-    *   Wealth Management
-    *   Estate Planning &. Inheritance
-    *   Saving for College
-    *   Charitable Giving
-    *   Life Insurance &. Long Term Care
-    *   Fidelity Viewpoints
-    *   Calculators &. Tools
 *   Investment Products
     *   Mutual Funds
     *   Retirement &. IRAs
