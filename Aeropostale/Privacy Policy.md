@@ -3,7 +3,6 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
-    *   BUY 1 GET 2 FREE
     *   #FREETOBE
     *   TRENDING
     *   The White Collection
@@ -51,7 +50,6 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
-    *   BUY 1 GET 2 FREE
     *   TAPOUT
     *   #FREETOBE
     *   TRENDING
@@ -119,20 +117,34 @@ Aéropostale
     *   BRAS
     *   SWIM
     *   ACCESSORIES
-    *   CLEARANCE
+    *   LLD Clearance
     
 *   Clearance
     
-    *   Girls View All
-    *   Clearance Tops
+    *   Girls
+    *   Tees
+    *   Shirts + Polos
+    *   Camis + Tanks
+    *   Hoodies + Long Sleeve
+    *   Dresses
+    *   Swim
     *   Clearance Bottoms
     *   Clearance Accessories
-    *   Clearance Intimates
     
-    *   Guys View All
-    *   Clearance Tops
-    *   Clearance Bottoms
-    *   Clearance Accessories
+    *   Guys
+    *   Tees
+    *   Polos
+    *   Shirts
+    *   Bottoms
+    *   Accessories
+    
+    *   Live Love Dream
+    *   Swim
+    *   LLD Tanks
+    *   LLD Shorts
+    *   Bras + Undies
+    *   LLD Active
+    *   LLD Lounge
     
     *   ROOM
     
