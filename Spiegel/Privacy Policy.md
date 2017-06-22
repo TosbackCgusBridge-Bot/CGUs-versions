@@ -17,7 +17,7 @@ Mein SPIEGEL
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.814,79ǀ
+*   DAX 12.774,26ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -230,6 +230,11 @@ Mein SPIEGEL
     *   Uni-Tools
     *   Währungsrechner
     *   Versicherungen
+*   Gutscheine (Anzeige)
+    
+    *   Amazon
+    *   Mytoys
+    *   Douglas
 
 Abbrechen Zeitraumallesletzte Wocheletzter Monatletztes Jahrseit 2005vor 2005vor 2000vor 1995vor 1990vor 1980vor 1970vor 1960 Überschrift und VorspannVolltextAutor
 
