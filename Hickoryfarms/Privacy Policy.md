@@ -235,7 +235,7 @@ Orders
 
 1.800.621-0226
 
-Sign up for gift ideas &. delicious deals! Sign Up
+Sign up for gift ideas &. exclusive offers! Sign Up
 
 Customer Service
 
