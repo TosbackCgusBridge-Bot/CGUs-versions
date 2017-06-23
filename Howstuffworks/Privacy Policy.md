@@ -244,11 +244,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Elon Musk Lays Out Plans to Colonize Mars**
+**Scientists Create Alternative Plastics Using Just Sugars and CO2**
 
-**4-foot Flying Turkeys Roamed Ancient Australia**
+**How Rain and Snow Could Play a Role in Triggering Earthquakes**
 
-**Why Is Ayn Rand Still So Popular Today?**
+**Small, Alien Worlds Come in Two Flavors: Super-Earths and Mini-Neptunes**
 
 About Us
 
