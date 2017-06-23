@@ -103,22 +103,22 @@ Up to
 
 Forester 2.5i Touring shown
 
-Crosstrek $21,695\* starting price 2017 Crosstrek
+Crosstrek $21,795\* starting price 2018 Crosstrek
 
 Starting at
 
-$21,695 MSRP
+$21,795 MSRP
 
 Up to
 
-33/26 MPG Hwy/City
+33/27 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
 *   Compare
 *   Build Your Own
 
-Crosstrek 2.0i Limited shown
+Crosstrek 2.0i Premium shown
 
 Outback $25,645\* starting price 2017 Outback
 
@@ -360,7 +360,7 @@ Company
 Responsibility
 
 *   Corporate Responsibility
-*   Philosophy
+*   Our Subaru Family
 *   Community
 *   Diversity
 *   SOA Foundation
