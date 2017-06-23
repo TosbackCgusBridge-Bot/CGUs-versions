@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Certified Ubuntu Cloud Guest – The best of Ubuntu on the best clouds ›
 *   Kernel Team Summary: June 22, 2017 ›
 *   OpenStack and Containers live Q&A session ›
 *   MAAS Development Summary: June 12th – 16th ›
 *   Distributing KeePassXC as a snap ›
-*   Ubuntu Server Development Summary – 16 Jun 2017 ›
