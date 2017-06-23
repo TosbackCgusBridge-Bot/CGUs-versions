@@ -138,6 +138,8 @@ Attention! Your browser settings show that JavaScript is disabled. Customer Info
 *   Small Business - Up to 10 Employees
 *   Medium Business - More than 10 Employees
 *   Enterprise
+*   Alliance Partners
+*   Public Sector
 *   Wholesale
 *   Need Help Choosing?
 
