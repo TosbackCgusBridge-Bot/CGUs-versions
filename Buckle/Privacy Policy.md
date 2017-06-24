@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card Make A Splash With Trend Swimwear. Shop Women's. | Shop Men's.
+        Give a Buckle Gift card Kick It Up With The Latest In Trend Footwear. SHOP NOW.
 *   Men
     *   *   Featured
         
@@ -136,7 +136,7 @@
         
           
           
-        Give a Buckle Gift card Make A Splash With Trend Swimwear. Shop Women's. | Shop Men's.
+        Give a Buckle Gift card Kick It Up With The Latest In Trend Footwear. SHOP NOW.
 *   Kids
     *   *   Featured
         
@@ -158,7 +158,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Make A Splash With Trend Swimwear. Shop Women's. | Shop Men's.
+        Give a Buckle Gift card Kick It Up With The Latest In Trend Footwear. SHOP NOW.
 *   Jeans
     *   *   Women's Jeans
         
@@ -188,7 +188,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Make A Splash With Trend Swimwear. Shop Women's. | Shop Men's.
+        Give a Buckle Gift card Kick It Up With The Latest In Trend Footwear. SHOP NOW.
 *   New
     *   *   Featured New
         
@@ -227,7 +227,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Make A Splash With Trend Swimwear. Shop Women's. | Shop Men's.
+        Give a Buckle Gift card Kick It Up With The Latest In Trend Footwear. SHOP NOW.
 *   Sale
     *   *   Women's Sale
         
@@ -270,7 +270,7 @@
         
           
           
-        Give a Buckle Gift card Make A Splash With Trend Swimwear. Shop Women's. | Shop Men's.
+        Give a Buckle Gift card Kick It Up With The Latest In Trend Footwear. SHOP NOW.
 
 × Privacy &. Security
 
@@ -368,6 +368,7 @@ Returns
 Promotions
 
 *   All Promotions
+*   Tax Free Weekends 2017
 *   Store Events
 *   Military Discount
 
