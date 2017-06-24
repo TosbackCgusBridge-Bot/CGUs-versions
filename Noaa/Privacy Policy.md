@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Earth has 2nd warmest year to date and 3rd warmest May on record The extent of Arctic and Antarctic sea ice remains small AROUND NOAA // June 21 is World Hydrography Day: Here's why it's worth celebrating Excessive heat, a 'silent killer' Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event
+Enter Search Terms Earth has 2nd warmest year to date and 3rd warmest May on record The extent of Arctic and Antarctic sea ice remains small AROUND NOAA // Sea turtles released into Atlantic after successful test of turtle-safe fishing gear Excessive heat, a 'silent killer' Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event
 
 *   About our agency
 *   News and features
