@@ -258,6 +258,11 @@ Last updated May 8, 2012.
 Back to Top Mobile Signup
 
 *   Follow Us On:
+*   Facebook
+*   Twitter
+*   Pinterest
+*   Google Plus
+*   YouTube
 
 *   CUSTOMER SERVICE
 *   1-877-289-2376
