@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
-*   Ubuntu Server Development Summary – 23 Jun 2017 ›
 *   Ubuntu Desktop Weekly Update: June 23, 2017 ›
 *   Ubuntu Server Development Summary – 23 Jun 2017 ›
 *   Certified Ubuntu Cloud Guest – The best of Ubuntu on the best clouds ›
 *   Kernel Team Summary: June 22, 2017 ›
+*   OpenStack and Containers live Q&A session ›
