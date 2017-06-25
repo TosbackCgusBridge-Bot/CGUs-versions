@@ -41,9 +41,9 @@ Your Store: select store 0 my bag $ 0.00
 *   sephora
 *   clearance
 
-2017.10.1.0.2.0 2017 XM migration-home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Jun 23 04:13:01 CDT 2017 JVM :->. dtexppr1c2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneA \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Jun 23 04:13:01 CDT 2017 JVM :->. dtexppr1c2j4\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneB \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Jun 23 04:13:01 CDT 2017 JVM :->. dtexppr1c2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+2017.10.1.0.2.0 2017 XM migration-home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Jun 24 06:19:58 CDT 2017 JVM :->. dtexppr1c2j4\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneA \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Jun 24 22:15:05 CDT 2017 JVM :->. dtexppr1c2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneB \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Jun 24 06:19:58 CDT 2017 JVM :->. dtexppr1c2j2\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-\*Buy one item at regular price, get the second item of equal or lesser value for one cent, while supplies last. \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Jun 23 04:13:01 CDT 2017 JVM :->. dtexppr1c2j2\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneC
+\*Buy one item at regular price, get the second item of equal or lesser value for one cent, while supplies last. \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Jun 24 06:19:58 CDT 2017 JVM :->. dtexppr1c2j2\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneC
 
 MOVE THE PARTY OUTSIDE
 
@@ -51,7 +51,7 @@ PATIO FURNITURE
 
 *   $80 sale $320  original Outdoor Oasis™ Newberry Sling Chair set of 4 4.13 (15)
 *   $349 sale $980  original Outdoor Oasis™ Newberry 7pc Dining Set 2.67 (3)
-*   $149 sale $400  original Outdoor Oasis™ Newberry Lounge Chairs -Set of 2 4.0 (7)
+*   $149 sale $400  original Outdoor Oasis™ Newberry Lounge Chairs -Set of 2 4.13 (8)
 *   $119 sale $300  original Outdoor Oasis™ Newberry Two Seat Canopy Swing 4.18 (11)
 *   $449 sale $1,200  original Outdoor Oasis™ Palm Beach 4pc Sectional 3.33 (3)
 *   $120 sale $300  original Outdoor Oasis™ Newberry Swivel Chair set of 2 4.2 (10)
@@ -61,11 +61,11 @@ PATIO FURNITURE
 *   $170 sale $450  original Outdoor Oasis™ Latigo Wicker Dining Chair set of 2 5.0 (1)
 *   $199 sale $400  original Outdoor Oasis™ 10ft Umbrella 3.5 (4)
 *   $79 sale $225  original Outdoor Oasis™ 9ft Market Umbrella 3.89 (9)
+*   $649 sale $1,750  original Outdoor Oasis™ Latigo 7pc Rectangular Dining Set 2.33 (3)
 *   $80 sale $200  original Outdoor Oasis™ Newberry Counter Height Sling Chair Set of 2 4.67 (6)
 *   $99 sale $200  original Outdoor Oasis™ Bistro Set 5.0 (4)
-*   $29 sale $100  original Outdoor Oasis™ Umbrella Base 4.64 (45)
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Jun 23 04:13:01 CDT 2017 JVM :->. dtexppr1c2j2\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Fri Jun 23 04:13:01 CDT 2017 JVM :->. dtexppr1c2j4\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true true get connected
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Jun 24 06:19:58 CDT 2017 JVM :->. dtexppr1c2j1\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Sat Jun 24 22:15:13 CDT 2017 JVM :->. dtexppr1c2j2\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true true get connected
 
 1.800.322.1189 Enter a valid email address Enter a valid mobile number. Sign up for email alerts, offers promotions Sign Up Mobile offers and promotions Sign Up
 
