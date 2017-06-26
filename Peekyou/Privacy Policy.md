@@ -28,12 +28,12 @@ Search Tools Jump To:
 
 Recently Added Remang Cinta
 
-Daerah Khusus Ibukota Jakarta
+Jakarta, Indonesia
 
 *   Hong Kong University of Science and Technology (HKUST)
 *   Jakarta, Indonesia
 
-Remang currently lives in Daerah Khusus Ibukota Jakarta, .  
+Remang currently lives in Jakarta, .  
 and studied at Hong Kong University Of Science And Technology (HKUST).  
 
 Recently Added Ree , Reyan.Ardan
