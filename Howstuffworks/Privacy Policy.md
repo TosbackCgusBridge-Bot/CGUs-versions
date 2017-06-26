@@ -244,11 +244,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
+**When Your Face Is Your Boarding Pass**
+
 **Strange, Super and Surprising: Our Best Stories You Might Have Missed This Week**
 
 **Can You Be Addicted to Travel?**
-
-**Yellowstone Grizzly Bears Lose Endangered Species Protections**
 
 About Us
 
