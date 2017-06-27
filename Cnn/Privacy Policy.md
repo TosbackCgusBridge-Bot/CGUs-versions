@@ -261,6 +261,7 @@ CNN Sans ™ & © 2016 Cable News Network.
 *   Terms of Use
 *   Privacy Policy
 *   AdChoices
+*   MSA Statement
 *   Advertise with us
 *   About us
 *   Newsletters
