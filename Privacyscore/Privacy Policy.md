@@ -139,26 +139,39 @@ Privacy  |  Cookies  |  All third party trademarks are the property of their
 
 Skip to content Skip to menu Change language
 
-*   Global Website: Español / English
+*   Global Website: Español / Worldwide (English) / Europe (English)
+*   Argentina: Español
 *   Australia: English
+*   België: Nederlands
+*   Belgique: Français
 *   Brasil: Português do Brasil
 *   Canada: English
+*   Canada: Français
 *   Česká republika: Čeština
+*   Chile: Español
+*   Colombia: Español
+*   Denmark: English
 *   Deutschland: Deutsch
+
 *   España: Español
 *   France: Français
 *   India: English
-
 *   Indonesia: Bahasa Indonesia
 *   Italia: Italiano
 *   Malaysia: Bahasa Melayu
+*   México: Español
 *   Nederland: Nederlands
+*   New Zealand: English
 *   Norge: Norsk
 *   Polska: Polski
 *   Portugal: Português
-*   Россия: Русский
 
+*   Россия: Русский
+*   Schweiz: Deutsch
 *   Slovensko: Slovenčina
+*   South Africa: English
+*   Suisse: Français
+*   Sweden: English
 *   Türkiye: Türkçe
 *   United Kingdom: English
 *   United States: English
@@ -166,6 +179,6 @@ Skip to content Skip to menu Change language
 *   日本: 日本語
 *   대한민국: 한국어
 
-Global Website: Español / English
+Global Website: Español / Worldwide (English) / Europe (English)
 
 ×
