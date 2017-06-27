@@ -17,7 +17,7 @@ Log in to AVG MyAccount MENU Skip to content Close
     *   AVG Cleaner for Mac®
     *   AVG AntiVirus for Mac®
     *   HMA! Pro VPN NEW
-    *   All Products
+    *   All products
 *   Android
     *   **Android Apps for Mobile and Tablet**
     *   AVG AntiVirus for Android™
@@ -55,7 +55,7 @@ Log in to AVG MyAccount MENU Skip to content Close
     *   Home product support
     *   Product downloads &. updates
     *   FREE support for AVG home products
-    *   Premium Tech Support
+    *   Remote Tech Support
     *   Support for partner products
     *   Contact us for partner support
     *   Support for business products
@@ -137,26 +137,39 @@ Privacy  |  Cookies  |  All third party trademarks are the property of their
 
 Skip to content Skip to menu Change language
 
-*   Global Website: Español / English
+*   Global Website: Español / Worldwide (English) / Europe (English)
+*   Argentina: Español
 *   Australia: English
+*   België: Nederlands
+*   Belgique: Français
 *   Brasil: Português do Brasil
 *   Canada: English
+*   Canada: Français
 *   Česká republika: Čeština
+*   Chile: Español
+*   Colombia: Español
+*   Denmark: English
 *   Deutschland: Deutsch
+
 *   España: Español
 *   France: Français
 *   India: English
-
 *   Indonesia: Bahasa Indonesia
 *   Italia: Italiano
 *   Malaysia: Bahasa Melayu
+*   México: Español
 *   Nederland: Nederlands
+*   New Zealand: English
 *   Norge: Norsk
 *   Polska: Polski
 *   Portugal: Português
-*   Россия: Русский
 
+*   Россия: Русский
+*   Schweiz: Deutsch
 *   Slovensko: Slovenčina
+*   South Africa: English
+*   Suisse: Français
+*   Sweden: English
 *   Türkiye: Türkçe
 *   United Kingdom: English
 *   United States: English
@@ -164,6 +177,6 @@ Skip to content Skip to menu Change language
 *   日本: 日本語
 *   대한민국: 한국어
 
-Global Website: Español / English
+Global Website: Español / Worldwide (English) / Europe (English)
 
 ×
