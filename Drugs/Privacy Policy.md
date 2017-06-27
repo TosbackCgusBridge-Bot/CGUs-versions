@@ -1,4 +1,4 @@
-Changes were made to this privacy policy on September 12th, 2016. Additional clarity on third party service providers, specifically that we do NOT share personal information with these entities. Removed reference to Flash LSOs, which are no longer utilized. Historical changes can be viewed here.
+Changes were made to this privacy policy on June 26th, 2017. Additional clarity on the visibility of usernames. Specifically that usernames are publicly visible on the Drugs.com web site upon registration. Historical changes can be viewed here.
 
 Privacy Policy
 
@@ -78,7 +78,7 @@ However, email and online forms are not secure against interception and senders 
 
 Registration
 
-In order to use some areas of this web site, You must first complete the registration form. During registration You are required to provide contact information such as Your name, age, email address, preferred username, password and preferred subscriptions. We will only use this information to contact You about the services on Our web site in which You have expressed interest. You also have the option to provide demographic information to Us. we encourage You to submit this information so We can provide You a more personalized experience on Our web site.
+In order to use some areas of this web site, You must first complete the registration form. During registration You are required to provide information such as Your name, age, email address, preferred username, password and preferred subscriptions. You should be aware that Your chosen username will be publicly visible on the Drugs.com web site. We will only use Your information to contact You about the services on Our web site in which You have expressed interest. You also have the option to provide demographic information to Us. we encourage You to submit this information so We can provide You a more personalized experience on Our web site.
 
 To store any medication list, You will need to create a Drugs.com account. You control who can access or edit Your medication list. Your account will not be accessible to anyone else except for authorized web site support staff or when required by law enforcement investigation (such as to comply with a judicial proceeding, court order or subpoena).
 
@@ -146,4 +146,4 @@ Changes to the Privacy Policy
 
 If We decide to change our privacy policy, we will post those changes to this privacy policy and provide notifications on the homepage, and other places we deem appropriate so that You are aware of what information We collect, how We use it, and under what circumstances, if any, We disclose it. We reserve the right to modify this privacy policy at any time, so please review it frequently. If We make material changes to this policy, We will notify You here, or by email, or by means of a notice on Our homepage prior to the change becoming effective.
 
-Updated: September 12th, 2016
+Updated: June 26th, 2017
