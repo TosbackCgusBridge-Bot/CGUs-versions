@@ -38,6 +38,7 @@ Skip to main content
             3.  GolfNow GolfNow Uses leading-edge technology to offers nearly 2 million registered golfers more ways to stay connected to their favorite courses and tee times. GolfNow
             4.  Hulu Hulu A premium streaming TV destination that seeks to captivate and connect viewers with the stories they love. Hulu
             5.  Seeso Seeso A new streaming comedy channel offering original and library TV and Film content for $3.99 per month Seeso
+            6.  SportsEngine SportsEngine Helping the world play smarter and live more, SportsEngine, Inc., an NBC Sports Group company, is the leading provider of Sport Life Management web software and mobile applications for youth, amateur, and professional sports. SportsEngine
         5.  Film
             1.  Focus Features Focus Features Produces, acquires, and releases movies from rising and established talent and filmmakers. Offers a diverse slate for a wide range of moviegoers. Focus Features
             2.  Universal Pictures Universal Pictures Creates and distributes theatrical and non-theatrical filmed entertainment for a growing global marketplace. Universal Pictures
@@ -101,6 +102,7 @@ Skip to main content
                 *   GolfNow
                 *   Hulu
                 *   Seeso
+                *   SportsEngine
             *   FILM
                 *   Focus Features
                 *   Universal Pictures
