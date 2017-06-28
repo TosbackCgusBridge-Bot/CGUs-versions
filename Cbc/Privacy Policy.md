@@ -2,7 +2,7 @@ Protection of Personal Information at the CBC Privacy on the Internet Third Part
 
 The CBC Privacy Coordinator is accountable for the CBC’s policies and practices, with respect to the management of personal information, and is the individual to whom complaints and inquires can be forwarded.
 
-Marie-Claude Ferland  
+Stéphanie Duquette  
 Privacy Coordinator  
 Canadian Broadcasting Corporation  
 181 Queen Street,  
