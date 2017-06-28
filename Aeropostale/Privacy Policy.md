@@ -5,7 +5,7 @@ Aéropostale
     *   NEW ARRIVALS
     *   #FREETOBE
     *   TRENDING
-    *   The White Collection
+    *   Americana
     *   Festival Vibes
     *   Swim
     *   Limited Edition
@@ -53,7 +53,7 @@ Aéropostale
     *   TAPOUT
     *   #FREETOBE
     *   TRENDING
-    *   The White Collection
+    *   Americana
     *   Summer Retreat
     *   Stretch Shop
     *   Limited Edition
@@ -77,6 +77,7 @@ Aéropostale
     *   Pants
     *   Joggers + Sweats
     
+    *   JACKETS + COATS
     *   Swim
     *   ACCESSORIES
     *   SHOES
@@ -117,7 +118,7 @@ Aéropostale
     *   BRAS
     *   SWIM
     *   ACCESSORIES
-    *   LLD Clearance
+    *   CLEARANCE
     
 *   Clearance
     
