@@ -273,6 +273,7 @@ Menu
         *   The gift of time: increased parental leave
         *   Designing inspiring and healthy workplaces
         *   How curious minds saved a medicine from being left in the lab
+        *   Brian Johns goes boldly for people living with HIV
     *   How we do business
         *   How we do business
         *   Changing the way we work with healthcare professionals
