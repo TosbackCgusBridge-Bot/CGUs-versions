@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Foundations Development Summary – June 27, 2017 ›
+*   Canonical supports Ubuntu Core on the Raspberry Pi Compute Module 3 ›
 *   Conjure-up dev summary: Week 25 ›
 *   Ubuntu Desktop Weekly Update: June 23, 2017 ›
 *   Ubuntu Server Development Summary – 23 Jun 2017 ›
-*   Certified Ubuntu Cloud Guest – The best of Ubuntu on the best clouds ›
-*   Kernel Team Summary: June 22, 2017 ›
