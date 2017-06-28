@@ -7,18 +7,18 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   SHOP BY BRAND
     *   SHOP BY AGE
     
-    *   Baby's First Birthday
     *   What’s New
     *   Gift Sets
     *   Tech Toys
     *   Gifts for New Baby
-    
     *   As Seen On TV
+    
     *   Fan Faves
     *   Exclusives
     *   Award Winners
     *   Clearance
     *   Thomas &. Friends Clearance
+    *   Baby's First Birthday
     
     See all
     
@@ -41,42 +41,42 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     
     See all
     
-    *   Alvin and the Chipmunks
     *   Everything Baby
     *   Little People®
     *   Thomas &. Friends™
     *   Imaginext®
-    
     *   Laugh &. Learn®
+    
     *   Think &. Learn
     *   Loving Family™
     *   Power Wheels®
     *   Bright Beats™
-    
     *   Shimmer and Shine™
+    
     *   Disney
     *   MEGA BLOKS®
     *   Grow-With-Me
     *   Blaze and the Monster Machines™
-    
     *   Bob the Builder™
+    
     *   Dora &. Friends™
     *   Octonauts™
     *   Smart Toy®
     *   Spinnyos™
+    *   Doodle Pro
     
     See all
     
-    *   Age 12-18 Months
     *   Baby on the Way
     *   Age Birth to 6 months
     *   Age 6-12 Months
     *   Age 18-24 Months
-    
     *   Age 2-3 Years
+    
     *   Age 3-4 Years
     *   Age 4-5 Years
-    *   Age 5+ YearsSee all
+    *   Age 5+ Years
+    *   Age 12-18 MonthsSee all
 *   AGE-BY-AGE PLAYTIME GUIDE AGE-BY-AGE PLAYTIME GUIDE
     
     *   1 Month
