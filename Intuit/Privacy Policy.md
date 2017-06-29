@@ -1,4 +1,4 @@
-2017.10.1.0.2.0
+2017.11.0.0.56.0
 
 *   find a store
 *   store ads
@@ -41,29 +41,49 @@ Your Store: select store 0 my bag $ 0.00
 *   sephora
 *   clearance
 
-2017.10.1.0.2.0 2017 XM migration-home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Jun 27 05:52:47 CDT 2017 JVM :->. dtexppr1c2j2\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneA \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Jun 27 05:52:47 CDT 2017 JVM :->. dtexppr1c1j4\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneB \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Jun 27 05:52:47 CDT 2017 JVM :->. dtexppr1c2j3\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneC
+2017.11.0.0.56.0 2017 XM migration-home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Wed Jun 28 21:27:27 CDT 2017 ->. dtexppr1l2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneA \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Wed Jun 28 21:27:28 CDT 2017 ->. dtexppr1l2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneB \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Wed Jun 28 21:27:27 CDT 2017 ->. dtexppr1l2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneC
 
 MOVE THE PARTY OUTSIDE
 
 PATIO FURNITURE
 
-*   $80 sale $320  original Outdoor Oasis™ Newberry Sling Chair set of 4 4.13 (15)
-*   $349 sale $980  original Outdoor Oasis™ Newberry 7pc Dining Set 2.67 (3)
-*   $149 sale $400  original Outdoor Oasis™ Newberry Lounge Chairs -Set of 2 4.13 (8)
-*   $119 sale $300  original Outdoor Oasis™ Newberry Two Seat Canopy Swing 4.18 (11)
-*   $449 sale $1,200  original Outdoor Oasis™ Palm Beach 4pc Sectional 3.33 (3)
-*   $120 sale $300  original Outdoor Oasis™ Newberry Swivel Chair set of 2 4.2 (10)
-*   $149 sale $400  original Outdoor Oasis™ Newberry 3pc Counter Height Set 5.0 (1)
+*   $149 sale $400  original Outdoor Oasis™ Newberry Lounge Chairs -Set of 2 4.220000 (9)
+*   $249 sale $750  original Outdoor Oasis™ Outdoor Gazebo 4.450000 (71)
+*   $74.99 sale $150  original Outdoor Oasis™ Deep Seat Chair Cushion Set 4.800000 (10)
+*   $119 sale $300  original Outdoor Oasis™ Newberry Two Seat Canopy Swing 4.180000 (11)
+*   $449 sale $1,200  original Outdoor Oasis™ Palm Beach 4pc Sectional 3.330000 (3)
+*   $120 sale $300  original Outdoor Oasis™ Newberry Swivel Chair set of 2 4.200000 (10)
+*   $29.99 sale $80  original Outdoor Oasis™ Chair Cushion 4.820000 (11)
+*   $149 sale $400  original Outdoor Oasis™ Newberry 3pc Counter Height Set 5.000000 (1)
 *   $449 sale $1,200  original Outdoor Oasis™ Latigo 5pc Square Dining Set
-*   $170 sale $450  original Outdoor Oasis™ Latigo Wicker Dining Chair set of 2 5.0 (1)
-*   $199 sale $400  original Outdoor Oasis™ 10ft Umbrella 3.5 (4)
-*   $149 sale $360  original Outdoor Oasis™ Newberry Rectangular Table 4.14 (7)
-*   $80 sale $200  original Outdoor Oasis™ Newberry Counter Height Sling Chair Set of 2 4.67 (6)
-*   $79 sale $225  original Outdoor Oasis™ 9ft Market Umbrella 3.89 (9)
-*   $29 sale $100  original Outdoor Oasis™ Umbrella Base 4.65 (46)
-*   $99 sale $200  original Outdoor Oasis™ Bistro Set 5.0 (4)
+*   $170 sale $450  original Outdoor Oasis™ Latigo Wicker Dining Chair set of 2 5.000000 (1)
+*   $199 sale $400  original Outdoor Oasis™ 10ft Umbrella 3.500000 (4)
+*   $80 sale $200  original Outdoor Oasis™ Newberry Counter Height Sling Chair Set of 2 4.670000 (6)
+*   $79 - $112.50 sale $225  original Outdoor Oasis™ 9ft Market Umbrella 3.890000 (9)
+*   $159 sale $420  original Outdoor Oasis™ Stratton Sofa Bench 4.670000 (6)
+*   $83.99 - $110.99 sale $140 - $185  original Gazebo Solid Grommet-Top Outdoor Curtain Panel 4.600000 (20)
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p04.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Jun 27 05:52:47 CDT 2017 JVM :->. dtexppr1c2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneD \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p01.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Jun 27 05:52:47 CDT 2017 JVM :->. dtexppr1c1j3\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneE \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Jun 27 05:52:47 CDT 2017 JVM :->. dtexppr1c2j3\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtaexpr1p02.jcpenney.com SERVER NAME :->. www.jcpenney.com TIME :->. Tue Jun 27 22:12:58 CDT 2017 JVM :->. dtexppr1c2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true true get connected
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Wed Jun 28 21:27:27 CDT 2017 ->. dtexppr1l2j6\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneD
+
+SHOP CLEARANCE
+
+*   $13.99 clearance $36  original Fred David 3/4 Sleeve Peplum Top
+*   $16.99 - $77.99 clearance $50 - $240  original JCPenney Home™ Hillcrest 4-pc. Comforter Set &. Accessories 4.210000 (33)
+*   $19.99 clearance $24.99  original Tzumi™ PocketJuice 6000 mAh Portable Charger 4.330000 (6)
+*   $17.99 - $26.99 clearance $60  original a.n.a Maui Womens Wedge Sandals 4.830000 (6)
+*   $9.99 clearance $50  original Stafford® Travel Performance Super Shirt 3.670000 (3)
+*   $9.99 clearance $26  original Arizona 3/4 Sleeve Blouse - Preschool Girls
+*   $18 - $72 clearance $60 - $240  original Mara Quilt Set &. Accessories 1.500000 (2)
+*   $11 - $39.99 clearance $45 - $100  original Royal Velvet® Encore Rod-Pocket/Back Tab Curtain Panel 4.270000 (22)
+*   $10.49 - $13.49 clearance $30 - $34  original Arizona Knit Jeggings - Girls 7-16 and Plus 4.820000 (118)
+*   $6.29 clearance $18  original Carter's Sleeveless Romper - Baby 4.980000 (147)
+*   $13.99 clearance $35  original Arizona Iris Girls Braided Sandals - Little Kids 4.360000 (14)
+*   $34 - $79 clearance $68 - $158  original JCPenney Home™ Top-Down/Bottom-Up Cordless Pleated Shade - FREE SWATCH 5.000000 (2)
+*   $31.49 clearance $70  original St. John's Bay Widget Mens Lace-Up Hiking Boots 4.440000 (9)
+*   $105 clearance $350  original Joanne Wool Rectangular Rug 4.730000 (11)
+*   $24 - $91.20 clearance $60 - $240  original Happy Chic by Jonathan Adler Zoe 3-pc. Reversible Comforter Set &. Accessories 4.380000 (13)
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Wed Jun 28 21:27:28 CDT 2017 ->. dtexppr1l2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneE \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Wed Jun 28 21:27:27 CDT 2017 ->. dtexppr1l2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Wed Jun 28 21:27:28 CDT 2017 ->. dtexppr1l2j4\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true true get connected
 
 1.800.322.1189 Enter a valid email address Enter a valid mobile number. Sign up for email alerts, offers promotions Sign Up Mobile offers and promotions Sign Up
 
