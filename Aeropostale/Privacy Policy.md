@@ -3,6 +3,7 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
+    *   $5 RIOT TEES
     *   #FREETOBE
     *   TRENDING
     *   Americana
@@ -50,6 +51,7 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
+    *   $5 RIOT TEES
     *   TAPOUT
     *   #FREETOBE
     *   TRENDING
