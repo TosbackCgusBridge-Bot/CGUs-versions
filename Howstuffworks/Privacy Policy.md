@@ -244,11 +244,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**How Did Elisa Lam End Up Dead in a Hotel Water Tank?**
+**Uranus' Magnetosphere Is Pretty Strange**
 
-**Anonymous Claims NASA Is About to Announce an Alien Discovery. Sadly Not**
+**Sylvia Rivera: A Pioneer of the Modern LGBTQ Rights Movement**
 
-**Do You Turn the Door Key and Have to Pee? It May Be All in Your Brain**
+**The World's Largest Waterfall Is Deep Underwater**
 
 About Us
 
