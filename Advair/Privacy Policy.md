@@ -243,6 +243,7 @@ Menu
         *   Inspiring Students through STEM Education Programs
         *   GSK IMPACT Awards: 20 years of healthy communities
         *   Soccer Star Shannon Boxx Takes Her Shot at Lupus Advocacy
+        *   Don’t mind me. I’m just making sure I can breathe.
     *   Our people
         *   Our people
         *   Changing gears in a scientific career
