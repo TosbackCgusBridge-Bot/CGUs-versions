@@ -8,7 +8,7 @@
 *   |
 *   News
 
-All of these words: The exact phrase: Any of these words: None of these words: Image Color: All ColorsColorBlack &. White Image Size: All Image SizesSmallMediumLarge Language: Any LanguageDanishDutchEnglishFrenchGermanItalianNorwegianPortugueseSpanishSwedish Include Domain Exclude Domain Privacy Policy
+Privacy Policy
 
 InfoSpace, Inc. ("InfoSpace") owns and operates a number of different sites on the Web (each, an "InfoSpace Site"). InfoSpace is strongly committed to protecting the privacy of its user community. The intent of this privacy policy is to detail the information InfoSpace may gather about individuals who visit the InfoSpace Sites, how that information is used, and InfoSpace's disclosure practices. Please note that this policy applies only to the InfoSpace Sites, and not to the Web sites of other companies or organizations to which we provide links or to any software that may be downloaded from the InfoSpace Sites.
 
