@@ -20,7 +20,7 @@ Change country/language X
 *   Products
     *   All products
     *   Collections
-        *   Architecture, Engineering, &. Construction
+        *   Architecture, Engineering &. Construction
         *   Product Design
         *   Media &. Entertainment
     *   AutoCAD
