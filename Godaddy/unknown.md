@@ -1,4 +1,4 @@
-**Last Revised: November 23, 2016**
+**Last Revised: June 28, 2017**
 
 Please read this Domain Name Proxy Agreement ("Agreement") carefully. By using the Services and/or website of Domains By Proxy, LLC, a Delaware limited liability company ("DBP"), You (as defined below) agree to all the terms and conditions set forth both herein and in the DBP privacy policy, which is incorporated by reference and can be found by clicking here.  You acknowledge that DBP may amend this Agreement at any time upon posting the amended terms on its website, and that any new, different or additional features changing the services provided by DBP will automatically be subject to this Agreement. If You do not agree to be bound by, or if You object to, the terms and conditions of this Agreement and any amendments hereto, do not use or access DBP's services. Continued use of DBP's services and its website after any such changes to this Agreement have been posted, constitutes Your acceptance of those changes.
 
@@ -61,7 +61,7 @@ If for any reason DBP and/or the Registrar for Your domain name is unable to cha
 
 **Representations and Warranties**
 
-You warrant that all information provided by You to DBP is truthful, complete, current and accurate. You also warrant that You are using DBP's private registration services in good faith and You have no knowledge of Your domain name infringing upon or conflicting with the legal rights of a third party or a third party's trademark or trade name. You also warrant the domain name being registered by DBP on Your behalf will not be used in connection with any illegal or morally objectionable activity (as defined below in Section 4), or, in connection with the transmission of Spam, or that contains or installs any viruses, worms, bugs, Trojan horses or other code, files or programs designed to, or capable or, disrupting, damaging or limiting the functionality of any software or hardware.
+You warrant that all information provided by You to DBP is truthful, complete, current and accurate. You also warrant that You are using DBP's private registration services in good faith and You have no knowledge of Your domain name infringing upon or conflicting with the legal rights of a third party or a third party's trademark or trade name. You also warrant the domain name being registered by DBP on Your behalf will not be used in connection with any illegal activity, or in connection with the transmission of Spam, or that contains or installs any viruses, worms, bugs, Trojan horses or other code, files or programs designed to, or capable or, disrupting, damaging or limiting the functionality of any software or hardware.
 
 Account Security
 
@@ -89,16 +89,18 @@ You understand and agree that DBP has the absolute right and power, in its sole 
     D. To comply with ICANN's Dispute Resolution Policy or ICANN's Change of Registrant Policy.  
     E. To avoid any financial loss or legal liability (civil or criminal) on the part of DBP, its parent companies, subsidiaries, affiliates, shareholders, agents, officers, directors and employees.  
     F. If the domain name for which DBP is the registrant on Your behalf violates or infringes a third party's trademark, trade name or other legal rights. and  
-    G. If it comes to DBP's attention that You are using DBP's services for purposes of engaging in, participating in, sponsoring or hiding Your involvement in, illegal or morally objectionable activities, including but not limited to, activities which are designed, intended to or otherwise:
+    G. If it comes to DBP's attention that You are using DBP's services in a manner (as determined by DBP in its sole and absolute discretion) that:
 
-> 1\. Appeal purely to the prurient interests of third parties;  
-> 2\. Defame, embarrass, harm, abuse, threaten, or harass third parties;  
-> 3\. Violate state, federal or international law;  
-> 4\. Involve hate crimes, terrorism and child pornography;  
-> 5\. Are tortious, vulgar, obscene, invasive of a third party's privacy, racially, ethnically, or otherwise objectionable;  
-> 6\. Impersonate the identity of a third party;  
-> 7\. Harm minors in any way. or  
-> 8\. Relate to or transmit viruses, Trojan Horses, access codes, backdoors, worms, timebombs or any other code, routine, mechanism, device or item that corrupts, damages, impairs, interferes with, intercepts or misappropriates any software, hardware, firmware, network, system, data or personally identifiable information.
+> *   Is illegal, or promotes or encourages illegal activity;
+> *   Promotes, encourages or engages in child pornography or the exploitation of children;
+> *   Promotes, encourages or engages in terrorism, violence against people, animals, or property;
+> *   Promotes, encourages or engages in any spam or other unsolicited bulk email, or computer or network hacking or cracking;
+> *   Violates the Ryan Haight Online Pharmacy Consumer Protection Act of 2008 or similar legislation, or promotes, encourages or engages in the sale or distribution of prescription medication without a valid prescription.  
+> *   Infringes on the intellectual property rights of another User or any other person or entity;
+> *   Violates the privacy or publicity rights of another User or any other person or entity, or breaches any duty of confidentiality that you owe to another User or any other person or entity;
+> *   Interferes with the operation of DBP services;
+> *   Contains or installs any viruses, worms, bugs, Trojan horses or other code, files or programs designed to, or capable of, disrupting, damaging or limiting the functionality of any software or hardware. or
+> *   Contains false or deceptive language, or unsubstantiated or comparative claims, regarding DBP or its services.
 
 You further understand and agree that if DBP is named as a defendant in, or investigated in anticipation of, any legal or administrative proceeding arising out of Your domain name registration or Your use of DBP's services, Your private registration service may be canceled, which means the domain name registration will revert back to You and Your identity will therefore be revealed in the Whois directory as Registrant.
 
