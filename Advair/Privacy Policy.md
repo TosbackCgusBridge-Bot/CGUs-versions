@@ -275,6 +275,7 @@ Menu
         *   Designing inspiring and healthy workplaces
         *   How curious minds saved a medicine from being left in the lab
         *   Brian Johns goes boldly for people living with HIV
+        *   Thank you for calling GSK. Meet Paul, the voice at the end of the line.
     *   How we do business
         *   How we do business
         *   Changing the way we work with healthcare professionals
