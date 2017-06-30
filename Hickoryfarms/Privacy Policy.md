@@ -1,67 +1,9 @@
 *   Gifts
-    
-    View All Categories Shop by Category*   Gift Boxes
-    *   Gift Baskets and Towers
-    *   Personalized Gifts
-    *   Gifts with Wine
-    *   Military Gifts
-    *   Business Gifts
-    *   New!
-    *   Best Sellers
-    *   Gluten Free
-    
-    Holidays &. Occasions*   Independence Day
-    *   Birthday Gifts
-    *   Weddings &. Showers
-    *   Gifts for Her
-    *   Gifts for Him
-    
-    By Price*   $30 &. Under
-    *   $40 &. Under
-    *   $50 &. Under
-    *   Over $90Most Popular Birthday Gifts Fruit &. Nuts
 *   Sausage &. Cheese
-    
-    View All Categories Shop by Category*   Gifts
-    *   Cheese
-    *   Beef Summer Sausage
-    *   Turkey Summer Sausage
-    *   Dry Salami
-    *   Sausage &. Cheese Combo
-    
-    Specialty Food*   Hickory Farms Simply™
-    *   Hickory Farms Reserve
 *   Fruit &. Nuts
-    View All Categories Shop by Category*   Nuts
-    *   Fruit Baskets
-    *   Fruit &. Wine Combo
-    *   Fruit &. Cheese Combo
 *   Gourmet Food &. Wine
-    
-    View All Categories Shop by Category*   Hickory Farms Reserve
-    *   Wine
-    *   Mustards &. Spreads
-    *   Crackers
-    *   HoneyGold® Ham
-    *   Hickory Farms Simply™
-    
-    *   Pfaelzer Brothers© Steak &. Seafood
-    *   Stock Your Pantry
-    *   Desserts
-    *   Gluten Free
-    *   Dinner for Two
 *   Sweets
-    View All Categories Shop by Category*   Chocolates
-    *   Confections
-    *   Cookies
-    *   Desserts
 *   Shop By Price
-    View All Categories Shop by Category*   Gifts $20 &. Under
-    *   Gifts $30 &. Under
-    *   Gifts $40 &. Under
-    *   Gifts Under $50
-    *   Gifts Over $50
-    *   Gifts Over $90
 *   Sale
 
 1.800.753.8558 Search Catalog Search Skip to content 1.800.753.8558 Stores Account
@@ -73,69 +15,11 @@
   0 Catalog Navigation
 
 *   Gifts
-    
-    View All Categories Shop by Category*   Gift Boxes
-    *   Gift Baskets and Towers
-    *   Personalized Gifts
-    *   Gifts with Wine
-    *   Military Gifts
-    *   Business Gifts
-    *   New!
-    *   Best Sellers
-    *   Gluten Free
-    
-    Holidays &. Occasions*   Independence Day
-    *   Birthday Gifts
-    *   Weddings &. Showers
-    *   Gifts for Her
-    *   Gifts for Him
-    
-    By Price*   $30 &. Under
-    *   $40 &. Under
-    *   $50 &. Under
-    *   Over $90Most Popular Birthday Gifts Fruit &. Nuts
 *   Sausage &. Cheese
-    
-    View All Categories Shop by Category*   Gifts
-    *   Cheese
-    *   Beef Summer Sausage
-    *   Turkey Summer Sausage
-    *   Dry Salami
-    *   Sausage &. Cheese Combo
-    
-    Specialty Food*   Hickory Farms Simply™
-    *   Hickory Farms Reserve
 *   Fruit &. Nuts
-    View All Categories Shop by Category*   Nuts
-    *   Fruit Baskets
-    *   Fruit &. Wine Combo
-    *   Fruit &. Cheese Combo
 *   Gourmet Food &. Wine
-    
-    View All Categories Shop by Category*   Hickory Farms Reserve
-    *   Wine
-    *   Mustards &. Spreads
-    *   Crackers
-    *   HoneyGold® Ham
-    *   Hickory Farms Simply™
-    
-    *   Pfaelzer Brothers© Steak &. Seafood
-    *   Stock Your Pantry
-    *   Desserts
-    *   Gluten Free
-    *   Dinner for Two
 *   Sweets
-    View All Categories Shop by Category*   Chocolates
-    *   Confections
-    *   Cookies
-    *   Desserts
 *   Shop By Price
-    View All Categories Shop by Category*   Gifts $20 &. Under
-    *   Gifts $30 &. Under
-    *   Gifts $40 &. Under
-    *   Gifts Under $50
-    *   Gifts Over $50
-    *   Gifts Over $90
 *   Sale
 
 1.800.753.8558 Menu Search Stores Cart Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
