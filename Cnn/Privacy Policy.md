@@ -108,6 +108,7 @@ More…
 *   Pressroom
 *   Partner sites
 *   iReport
+*   Work for CNN
 
 U.S. International Español Arabic
 
@@ -243,6 +244,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
     5.  Pressroom
     6.  Partner sites
     7.  iReport
+    8.  Work for CNN
 
 International Edition
 
@@ -265,7 +267,6 @@ CNN Sans ™ & © 2016 Cable News Network.
 *   Advertise with us
 *   About us
 *   Newsletters
-*   Work for us
 *   Help
 *   Transcripts
 *   License Footage
