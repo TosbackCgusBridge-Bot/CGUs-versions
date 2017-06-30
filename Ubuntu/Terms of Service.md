@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   AWS Summit London 2017: A Recap ›
 *   Webinar: How to upgrade your OpenStack cloud easily, without downtime ›
 *   Stuck Stacks, the 7 year itch and the DevOps dilemma ›
 *   Build, test, and publish snap packages using snapcraft ›
 *   Ubuntu Foundations Development Summary – June 27, 2017 ›
-*   Canonical supports Ubuntu Core on the Raspberry Pi Compute Module 3 ›
