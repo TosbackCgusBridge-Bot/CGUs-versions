@@ -67,7 +67,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Milestone Tracker
     *   Offseason Leagues
     *   Scoring Changes
-    *   GlossaryLightning Strikes Sortable Stats
+    *   GlossarySortable Stats
 *   Standings Standings Standings
     *   2017 Regular Season Standings
     *   Spring Training Standings
