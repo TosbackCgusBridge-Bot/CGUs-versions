@@ -16,7 +16,7 @@ SEG1 hp
     enter your number below.
 *   Login or Register
 
-Office Depot Deals 8sKsh4h1lvU3iWMwE60XaaS
+Office Depot Deals -aMeA4It0lJi1W5AQvSgQvy
 
 Search Suggestions
 
@@ -154,7 +154,7 @@ Never expires, ships for free
 Sign up for a credit card  
 and get special financing options
 
-You deserve to be rewarded  
+2% back in rewards on everything  
 Not a member? Join today. It's FREE!
 
  **1-800-GO-DEPOT**  
@@ -250,9 +250,9 @@ Your session will time out in 120 seconds.
 
 You will be automatically logged out if you do not click on the button below.
 
-http://officedepot.ugc.bazaarvoice.com 2563 http://static.www.odcdn.com/images/us/od/ Placeholder
+http://officedepot.ugc.bazaarvoice.com 2563rew http://static.www.odcdn.com/images/us/od/ Placeholder
 
-This promotion is for Rewards members only. To take advantage of exclusive offers like these, join Office Depot® OfficeMax® Rewards now!
+This promotion is for Rewards members only. To take advantage of exclusive offers like these, join Office Depot® OfficeMax® Rewards Everything now!
 
 Join Sign In
 
