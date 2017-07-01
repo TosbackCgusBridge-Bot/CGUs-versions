@@ -84,6 +84,7 @@ Features
 *   Impact Your World
 *   Inside Africa
 *   2 degrees
+*   CNN Heroes
 *   All Features
 
 Video
@@ -102,7 +103,6 @@ Video
 More…
 
 *   Weather
-*   CNN Heroes
 *   CNN Profiles
 *   Leadership
 *   Pressroom
@@ -222,7 +222,8 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
     2.  Impact Your World
     3.  Inside Africa
     4.  2 degrees
-    5.  All Features
+    5.  CNN Heroes
+    6.  All Features
 
 1.  Video
     1.  Video news
@@ -238,13 +239,12 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 
 1.  More…
     1.  Weather
-    2.  CNN Heroes
-    3.  CNN Profiles
-    4.  Leadership
-    5.  Pressroom
-    6.  Partner sites
-    7.  iReport
-    8.  Work for CNN
+    2.  CNN Profiles
+    3.  Leadership
+    4.  Pressroom
+    5.  Partner sites
+    6.  iReport
+    7.  Work for CNN
 
 International Edition
 
