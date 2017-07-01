@@ -374,7 +374,7 @@ Promotions
 
 Sweepstakes Official Rules/Winners
 
-*   WE Fest Sweepstakes Rules
+*   WE Fest Sweepstakes Official Rules
 *   Social Give Away Official Rules
 *   Sweepstakes Winners
 
