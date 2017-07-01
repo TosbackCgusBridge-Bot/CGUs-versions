@@ -42,11 +42,11 @@ Menu Log In or Register
 *   Log In
 *   Register
 
-Recent Recent HarvXtra alfalfa gives growers flexibility Jun 29, 2017 4 things farmers should know for 2017 Jun 29, 2017 Ag committees in 'listening' mode should put farmers in 'talking mode' Jun 29, 2017 Japanese beetles showing up on southern Iowa soybeans Jun 29, 2017 Agricultural Youth Work Guidelines released Jun 29, 2017 Featured When hail hits crop, tough decisions need to be made Jun 26, 2017 Dicamba application window closing Jun 26, 2017 Ash borer in more than half of Iowa’s counties Jun 27, 2017 Making small grains work Jun 23, 2017 Top stories Livestock farming appeals to Iowa youth Jun 29, 2017 Survey of Iowa FFA members who want to farm someday shows strong desire to raise livestock. Figure balance-sheet asset values Jun 28, 2017 The value you put on assets depends on why you’re preparing the... Sioux City pork plant to open in September Jun 28, 2017 Processing facility will provide a new market for hog farmers in... Do you want to make a profit?
+Recent Recent 7 ag stories you might have missed this week - June 30, 2017 Jun 30, 2017 U.S. officials celebrate reintroduction of U.S. beef in China Jun 30, 2017 New approach to an autonomous tractor Jun 30, 2017 Market hog inventory sets June 1 record Jun 30, 2017 Iowa Women in Agriculture to host 2017 conference Jun 30, 2017 Featured When hail hits crop, tough decisions need to be made Jun 26, 2017 Dicamba application window closing Jun 26, 2017 Ash borer in more than half of Iowa’s counties Jun 27, 2017 Making small grains work Jun 23, 2017 Top stories Learning about water is a splash of fun Jun 30, 2017 Slideshow: Field trip to 2017 Iowa Children’s Water Festival teaches importance of protecting water quality. Livestock farming appeals to Iowa youth Jun 29, 2017 Survey of Iowa FFA members who want to farm someday shows strong... Figure balance-sheet asset values Jun 28, 2017 The value you put on assets depends on why you’re preparing the... Do you want to make a profit?
 
 This free guide from Penton Agriculture offers 5 ways to manage risk on the farm.
 
-GET IT NOW Vistive Gold soybeans to launch in 2018 Jun 28, 2017 Iowa corn, soybeans look good nearing month’s end Jun 27, 2017 market overview Markets:View All Commodities  
+GET IT NOW Sioux City pork plant to open in September Jun 28, 2017 Vistive Gold soybeans to launch in 2018 Jun 28, 2017 market overview Markets:View All Commodities  
 Data provided by iNet Solutions Group, Inc. All prices delayed 10 minutes.
 
 Sign Up for the Wallaces Farmer Update newsletter today!
