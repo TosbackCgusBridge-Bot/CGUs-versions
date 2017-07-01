@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Earth has 2nd warmest year to date and 3rd warmest May on record The extent of Arctic and Antarctic sea ice remains small AROUND NOAA // Sea turtles released into Atlantic after successful test of turtle-safe fishing gear Excessive heat, a 'silent killer' Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event
+Enter Search Terms Stormy Fourth of July likely for parts of the Midwest and Southeast Sun and warmth expected for much of the West and East on Tuesday AROUND NOAA // Possible new threat to Earth’s ozone layer Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event Sea turtles released into Atlantic after successful test of turtle-safe fishing gear
 
 *   About our agency
 *   News and features
@@ -124,5 +124,3 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Contact us
 *   Staff Directory
 *   Need help?
-
-iStock image
