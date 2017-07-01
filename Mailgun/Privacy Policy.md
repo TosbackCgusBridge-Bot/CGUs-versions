@@ -4,6 +4,10 @@ Last revised and updated 6/27/2017.
 
 Updates
 
+We updated our Privacy Policy on June 30, 2017 in the following way:
+
+*   We updated our policy to remove references to the U.S.-Swiss Safe Harbor Framework.
+
 We updated our Privacy Policy on June 27, 2017 in the following way:
 
 *   We made changes to reflect improvements to our Services’ email validation functionality.
@@ -18,11 +22,11 @@ In order to offer our Services to you, we must collect certain information about
 
 We collect two types of information about you: Personally Identifiable Information and Non-personally Identifiable Information.
 
-**“Personally Identifiable Information”** is information that lets us know who you are, specifically. Information in this category includes the information you use when registering to use the Platform, like your name, company name, email address, postal address, other contact information, associated domain name and credit card information. Your login credentials are also Personally Identifiable Information. Finally, this category includes information tied to your identity that you provide us through other means, such as emails to our support service and comments on our blog.
+“Personally Identifiable Information” is information that lets us know who you are, specifically. Information in this category includes the information you use when registering to use the Platform, like your name, company name, email address, postal address, other contact information, associated domain name and credit card information. Your login credentials are also Personally Identifiable Information. Finally, this category includes information tied to your identity that you provide us through other means, such as emails to our support service and comments on our blog.
 
-**“Non-personally Identifiable Information”** is information that doesn’t let us determine your identity. This generally comes from your use of the Services after registering. For instance, our web server logs may show us that someone with a certain Internet Protocol (“IP”) address visited the Site using a certain web browser, but we can’t use that information alone to say whether the visitor was you or someone else. Non-personally Identifiable Information also includes information that could personally identify you in its original form, but that we have modified to remove or hide (for instance, by aggregation) any Personally Identifiable Information. This collection of information occurs automatically when you use the Services.
+“Non-personally Identifiable Information” is information that doesn’t let us determine your identity. This generally comes from your use of the Services after registering. For instance, our web server logs may show us that someone with a certain Internet Protocol (“IP”) address visited the Site using a certain web browser, but we can’t use that information alone to say whether the visitor was you or someone else. Non-personally Identifiable Information also includes information that could personally identify you in its original form, but that we have modified to remove or hide (for instance, by aggregation) any Personally Identifiable Information. This collection of information occurs automatically when you use the Services.
 
-**Information we collect by automated means.** Each time you visit the Site, view a Mailgun advertisement on a third party-owned website, or read our marketing email, we may automatically collect information about you via cookies, web beacons and other similar technologies. These are small files associated with information that your browser or our servers will save and return as part of your use of the Site and the Services for purposes such as saving your login session between visits, remembering your display preferences and tracking your use of the Site. Such information includes standard information from your web browser (such as browser type and browser language), your IP address, and your activities on the Site (such as the web pages viewed and the links clicked, number of visits, access time), the URL of the site from which you came and the site to which you are going when you leave the Site.
+Information we collect by automated means. Each time you visit the Site, view a Mailgun advertisement on a third party-owned website, or read our marketing email, we may automatically collect information about you via cookies, web beacons and other similar technologies. These are small files associated with information that your browser or our servers will save and return as part of your use of the Site and the Services for purposes such as saving your login session between visits, remembering your display preferences and tracking your use of the Site. Such information includes standard information from your web browser (such as browser type and browser language), your IP address, and your activities on the Site (such as the web pages viewed and the links clicked, number of visits, access time), the URL of the site from which you came and the site to which you are going when you leave the Site.
 
 While cookies do not contain Personally Identifiable Information, we may associate the information they contain with Personally Identifiable Information for these and similar purposes. You may opt out of our use of cookies configuring your browser to reject them. However, this may cause some features of the Services to work incorrectly.
 
@@ -92,7 +96,7 @@ The security of your personal information is important to us. We follow generall
 
 Remember, though, that some parts of the Services are public and that email, by its nature, is not a reliably private means of communication. If you voluntarily provide Personally Identifiable Information in our blog or another public area of the Site, unrelated parties online will be able to view it and collect it. If you don’t want to make this information publicly available, you shouldn’t post it.
 
-7\. EU-U.S. Privacy Shield and Swiss Safe Harbor
+7\. EU-U.S. Privacy Shield
 
 Mailgun participates and has certified its compliance with the EU-U.S. Privacy Shield Framework. Mailgun is committed to subjecting all personal data received from the European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List https://www.privacyshield.gov/list/.
 
@@ -102,13 +106,12 @@ With respect to personal data received or transferred pursuant to the Privacy Sh
 
 Under certain conditions, more fully described on the Privacy Shield website at https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-U.S. – Swiss Safe Harbor Framework
+European Union citizens with inquiries or complaints regarding this Policy should first contact Mailgun at:
 
-Mailgun complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Mailgun has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Mailgun’s certification, please visit https://safeharbor.export.gov/swisslist.aspx.
-
-European Union or Swiss citizens with inquiries or complaints regarding this Policy should first contact Mailgun at:
-
-**Mailgun Technologies, Inc.** 535 Mission St. San Francisco, CA 94105 by email: privacy@mailgun.com
+Mailgun Technologies, Inc.  
+535 Mission St.  
+San Francisco, CA 94105  
+by email: privacy@mailgun.com
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
