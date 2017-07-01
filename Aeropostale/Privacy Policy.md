@@ -114,8 +114,6 @@ Aéropostale
     *   Boy Short
     *   Brief
     *   Bikini
-    *   Thong
-    *   Seamless
     
     *   BRAS
     *   SWIM
