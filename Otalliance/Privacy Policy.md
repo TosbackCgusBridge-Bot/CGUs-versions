@@ -86,10 +86,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Thu, Jun 29, 2017 2017 Online Trust Audit - Find Out Who Made The Grade
-
-Attend the webinar for a review of the 2017 Online Trust Audit, an independent analysis of leading security, privacy and consumer protection practices. Learn who made the "grade" and the common reasons why sites are failing.
-
 Tue, Oct 17, 2017 Privacy, Risk, Security 2017
 
 Privacy. Security. Risk.
