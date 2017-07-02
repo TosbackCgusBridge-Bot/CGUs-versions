@@ -408,8 +408,6 @@ Legal Disclaimers
 
 \*\* EPA-estimated fuel economy. Actual mileage may vary.
 
-\*\*\*Limited warranties are contingent on age and mileage. Whatever comes first concludes the warranty.
-
 Subaru has the utmost respect for the environment and is a proud partner of Leave No Trace. Care was taken not to harm the environment when taking this photo.
 
 Subaru, SUBARU BOXER, BRZ, Forester, Impreza, Legacy, Outback, STI, Tribeca, WRX, XV Crosstrek and EyeSight are registered trademarks.
