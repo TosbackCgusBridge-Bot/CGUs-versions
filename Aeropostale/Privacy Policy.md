@@ -112,7 +112,6 @@ Aéropostale
     *   UNDIES
     *   Hipster
     *   Boy Short
-    *   Brief
     *   Bikini
     
     *   BRAS
