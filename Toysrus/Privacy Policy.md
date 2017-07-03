@@ -1,5 +1,7 @@
 TOYS"R"US PRIVACY POLICY
 
+_If you are using a screen reader and are having problems using this website, please call 844-357-6678 for assistance._
+
 *   WHAT DOES THE TOYS"R"US PRIVACY POLICY COVER?
 *   WHAT INFORMATION DOES TOYS"R"US COLLECT?
 *   HOW DOES TOYS"R"US USE AND SHARE PERSONAL INFORMATION?
