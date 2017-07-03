@@ -208,15 +208,7 @@ Social Media Features
 
 Our website includes ways to interact and share using social media, through features such as the Facebook "Like" button, the "Share This" button, or interactive mini-programs that run on our website ("widgets"). These features may collect information such as your IP address or the page you are visiting on our website, and may set cookies to enable the feature to function properly. Social media features can be hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the social media company providing the feature.
 
-TRUSTe Privacy Seal
-
-Best Buy has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, www.BestBuy.com, and does not cover information that may be collected through our mobile applications or through downloadable software.
-
-If you have questions or concerns regarding our privacy policy or practices, please contact us at PrivacyManager@bestbuy.com. If you are not satisfied with our response, you can file a report with TRUSTe.
-
-Contact TRUSTe for fax and postal mail information ›  
-(TRUSTe's Dispute Resolution process is only available in English.)  
-Read the TRUSTe Enterprise Privacy Certification Standards › Privacy Policy Updates
+TRUSTe Privacy Seal If you have questions or concerns regarding our privacy policy or practices, please contact us at PrivacyManager@bestbuy.com. If you have an unresolved privacy or data-use concern that we have not addressed to your satisfaction, please contact our U.S.-based third-party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. Privacy Policy Updates
 
 We may need to update our Privacy Policy as we and our customers grow and evolve. If we make material changes, we will notify you by e-mail (sent to the e-mail address specified in your account) or by means of posting a notice on this website prior to the change becoming effective, as well as inform you of any choices you may have with respect to these changes.
 
@@ -236,4 +228,4 @@ Attn: Customer Care/Privacy
 7601 Penn Avenue South  
 Richfield, MN 55423-3645
 
-Last Updated: February 19, 2016
+Last Updated: May 19, 2017
