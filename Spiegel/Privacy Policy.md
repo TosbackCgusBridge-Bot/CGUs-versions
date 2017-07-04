@@ -17,7 +17,7 @@ Mein SPIEGEL
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.325,12ǀ
+*   DAX 12.475,31ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -76,7 +76,7 @@ Mein SPIEGEL
         *   Formel 1
         *   Formel-1-Liveticker
         *   Ergebnisse
-    
+    *   *   Wimbledon
 *   Kultur
     
     *   *   Übersicht
