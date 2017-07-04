@@ -1,14 +1,10 @@
-Changes were made to this privacy policy on June 26th, 2017. Additional clarity on the visibility of usernames. Specifically that usernames are publicly visible on the Drugs.com web site upon registration. Historical changes can be viewed here.
+Changes were made to this privacy policy on July 3rd, 2017. Added more specific information in regard to third party service providers. Updated statements on tracking technologies and disclosure of personal data. Historical changes can be viewed here.
 
 Privacy Policy
 
 For the purposes of this privacy policy, the terms "We", "Us", "Our" and "Drugs.com" refer to Our web site www.drugs.com. The terms "You" “Your” and "end-user" refer to You as a user of this web site. This privacy policy applies to www.drugs.com owned and operated by Drugsite Trust, doing business as Drugs.com. This privacy policy describes how Drugsite Trust collects and uses the personal information You provide on Our web site: http://www.drugs.com. It also describes the choices available to You regarding Our use of Your personally identifiable information (PII) and how You can access and update this information and what information may be shared with third party service providers.
 
-TRUSTe
-
-Drugs.com has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe certification only covers information collected on our web site www.drugs.com and does not cover information that may be collected through our Mobile Application(s).
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request
 
 Click here for Our Mobile Application Privacy Policy.
 
@@ -41,17 +37,19 @@ This privacy statement applies only to information collected by this web site.
 
 Third Party Service Providers
 
-Drugs.com employs the services of several third party service providers. These partners provide essential services such as relevant content, search results, advertising and analytics. We share some aggregate, non personally identifiable information with these providers in order to improve site functionality, record analytics data and deliver advertising.
+We may share your information with third parties who provide services on our behalf to help with our business activities. These companies are authorized to use your personal information only as necessary to provide these services to us. These services may include:
+
+*   Providing customer service.
+*   Fulfilling subscription services.
+*   Fulfilling orders and delivering packages.
+*   Conducting research and analysis.
+*   Sending marketing communications.
+*   Conducting research and analysis.
+*   Providing cloud computing infrastructure.
 
 Tracking Technologies
 
-Technologies such as: cookies, beacons, tags and scripts are used by Drugs.com and Our third party service providers.
-
-These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about Our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-
-We use cookies to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If You reject cookies, You may still use our site, but Your ability to use some features or areas of Our site may be limited.
-
-We use Local Shared Objects, such as Local Storage, such as HTML5, to store content information and preferences. Third parties with whom We partner to provide certain features on Our site or to display advertising based upon Your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
+Drugs.com and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 We partner with third parties to either display advertising on Our Web site or to manage Our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about Your activities on this site and other sites in order to provide You advertising based upon Your browsing activities and interests. If You wish to not have this information used for the purpose of serving You interest-based ads, You may opt-out by clicking here. Please note this does not opt You out of being served ads. You will continue to receive generic ads.
 
@@ -68,6 +66,7 @@ Drugs.com does not create individual profiles with the information You provide. 
 
 Drugs.com will not share any personally identifiable information unless specifically agreed to by You, or;
 
+*   in certain situations, Drugs.com may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 *   when required by law enforcement investigation (such as to comply with a judicial proceeding, court order, subpoena or bankruptcy proceedings).
 *   when We believe in good faith that disclosure is necessary to protect Our rights, protect Your safety or the safety of others, investigate fraud, or respond to a government request.
 *   in exceptional cases such as in response to threats of physical harm to You or others.
@@ -106,7 +105,7 @@ To request the removal of publicly displayed personally identifiable information
 
 Updating and Closing Your Account
 
-If Your personally identifiable information changes, or if You no longer desire Our service, You may update, delete, or deactivate Your information by signing into Your account. We will respond to Your request within a reasonable timeframe.
+Upon request Drugs.com will provide you with information about whether we hold any of your personal information. If Your personally identifiable information changes, or if You no longer desire Our service, You may update, delete, or deactivate Your information by signing into Your account. We will respond to Your request within a reasonable timeframe.
 
 You may update or close/delete Your account at any time. When a member is signed in, a prominent link is provided to comprehensive account settings including options to permanently delete their account and to opt in or out of email newsletters. Deleting Your account will also remove any personally identifiable information connected with this account.
 
@@ -136,7 +135,7 @@ Drugs.com follows generally accepted industry standards to protect the personall
 
 Data Retention
 
-We will retain Your information for as long as Your account is active or as needed to provide You services. We will retain and use Your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain Your information for as long as reasonably useful to provide You services. We will retain and use Your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 URLs
 
@@ -146,4 +145,4 @@ Changes to the Privacy Policy
 
 If We decide to change our privacy policy, we will post those changes to this privacy policy and provide notifications on the homepage, and other places we deem appropriate so that You are aware of what information We collect, how We use it, and under what circumstances, if any, We disclose it. We reserve the right to modify this privacy policy at any time, so please review it frequently. If We make material changes to this policy, We will notify You here, or by email, or by means of a notice on Our homepage prior to the change becoming effective.
 
-Updated: June 26th, 2017
+Updated: July 3rd, 2017
