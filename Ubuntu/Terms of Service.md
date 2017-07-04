@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Switching from Unity to Gnome-Shell: first challenges ›
+*   AZLOGICA use Ubuntu Core for customised IoT agricultural solutions ›
+*   How Ubuntu helped InnovaPOS revolutionise the vending machine industry ›
 *   Ubuntu Server Development Summary – 30 Jun 2017 ›
 *   Ubuntu Desktop Weekly Update: June 30, 2017 ›
-*   AWS Summit London 2017: A Recap ›
-*   Webinar: How to upgrade your OpenStack cloud easily, without downtime ›
-*   Stuck Stacks, the 7 year itch and the DevOps dilemma ›
