@@ -42,11 +42,11 @@ Menu Log In or Register
 *   Log In
 *   Register
 
-Recent Recent This Week in Agribusiness, July 1, 2017 Jul 01, 2017 7 ag stories you might have missed this week - June 30, 2017 Jun 30, 2017 U.S. officials celebrate reintroduction of U.S. beef in China Jun 30, 2017 New approach to an autonomous tractor Jun 30, 2017 Market hog inventory sets June 1 record Jun 30, 2017 Featured When hail hits crop, tough decisions need to be made Jun 26, 2017 Dicamba application window closing Jun 26, 2017 Ash borer in more than half of Iowa’s counties Jun 27, 2017 Making small grains work Jun 23, 2017 Top stories Learning about water is a splash of fun Jun 30, 2017 Slideshow: Field trip to 2017 Iowa Children’s Water Festival teaches importance of protecting water quality. Livestock farming appeals to Iowa youth Jun 29, 2017 Survey of Iowa FFA members who want to farm someday shows strong... Figure balance-sheet asset values Jun 28, 2017 The value you put on assets depends on why you’re preparing the... Do you want to make a profit?
+Recent Recent Plan to attend a soil health field day near you Jul 03, 2017 This Week in Agribusiness, July 1, 2017 Jul 01, 2017 7 ag stories you might have missed this week - June 30, 2017 Jun 30, 2017 U.S. officials celebrate reintroduction of U.S. beef in China Jun 30, 2017 New approach to an autonomous tractor Jun 30, 2017 Featured When hail hits crop, tough decisions need to be made Jun 26, 2017 Dicamba application window closing Jun 26, 2017 Ash borer in more than half of Iowa’s counties Jun 27, 2017 Making small grains work Jun 23, 2017 Top stories How are corn, soybeans doing in your area? Jul 03, 2017 This was one of the driest June months in recent memory for farmers in parts of Iowa. Without Bt traits, managing European corn borer difficult Jul 03, 2017 ISU Extension’s new publication provides detailed information about... Learning about water is a splash of fun Jun 30, 2017 Slideshow: Field trip to 2017 Iowa Children’s Water Festival... Do you want to make a profit?
 
 This free guide from Penton Agriculture offers 5 ways to manage risk on the farm.
 
-GET IT NOW Sioux City pork plant to open in September Jun 28, 2017 Vistive Gold soybeans to launch in 2018 Jun 28, 2017 market overview Markets:View All Commodities  
+GET IT NOW Livestock farming appeals to Iowa youth Jun 29, 2017 Figure balance-sheet asset values Jun 28, 2017 market overview Markets:View All Commodities  
 Data provided by iNet Solutions Group, Inc. All prices delayed 10 minutes.
 
 Sign Up for the Wallaces Farmer Update newsletter today!
