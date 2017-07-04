@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card Celebrate 4th of July in Style. Featuring the All-American Shop. Shop Women's | Shop Men's
+        Give a Buckle Gift card Adorn the Red, White, &. Blue. Find Star Spangled Style Online &. In-Store.
 *   Men
     *   *   Featured
         
@@ -136,7 +136,7 @@
         
           
           
-        Give a Buckle Gift card Celebrate 4th of July in Style. Featuring the All-American Shop. Shop Women's | Shop Men's
+        Give a Buckle Gift card Adorn the Red, White, &. Blue. Find Star Spangled Style Online &. In-Store.
 *   Kids
     *   *   Featured
         
@@ -158,7 +158,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Celebrate 4th of July in Style. Featuring the All-American Shop. Shop Women's | Shop Men's
+        Give a Buckle Gift card Adorn the Red, White, &. Blue. Find Star Spangled Style Online &. In-Store.
 *   Jeans
     *   *   Women's Jeans
         
@@ -188,7 +188,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Celebrate 4th of July in Style. Featuring the All-American Shop. Shop Women's | Shop Men's
+        Give a Buckle Gift card Adorn the Red, White, &. Blue. Find Star Spangled Style Online &. In-Store.
 *   New
     *   *   Featured New
         
@@ -227,7 +227,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Celebrate 4th of July in Style. Featuring the All-American Shop. Shop Women's | Shop Men's
+        Give a Buckle Gift card Adorn the Red, White, &. Blue. Find Star Spangled Style Online &. In-Store.
 *   Sale
     *   *   Women's Sale
         
@@ -270,7 +270,7 @@
         
           
           
-        Give a Buckle Gift card Celebrate 4th of July in Style. Featuring the All-American Shop. Shop Women's | Shop Men's
+        Give a Buckle Gift card Adorn the Red, White, &. Blue. Find Star Spangled Style Online &. In-Store.
 
 × Privacy &. Security
 
