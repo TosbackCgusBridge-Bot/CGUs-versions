@@ -42,11 +42,11 @@ Menu Log In or Register
 *   Log In
 *   Register
 
-Recent Recent Plan to attend a soil health field day near you Jul 03, 2017 This Week in Agribusiness, July 1, 2017 Jul 01, 2017 7 ag stories you might have missed this week - June 30, 2017 Jun 30, 2017 U.S. officials celebrate reintroduction of U.S. beef in China Jun 30, 2017 New approach to an autonomous tractor Jun 30, 2017 Featured When hail hits crop, tough decisions need to be made Jun 26, 2017 Dicamba application window closing Jun 26, 2017 Ash borer in more than half of Iowa’s counties Jun 27, 2017 Making small grains work Jun 23, 2017 Top stories How are corn, soybeans doing in your area? Jul 03, 2017 This was one of the driest June months in recent memory for farmers in parts of Iowa. Without Bt traits, managing European corn borer difficult Jul 03, 2017 ISU Extension’s new publication provides detailed information about... Learning about water is a splash of fun Jun 30, 2017 Slideshow: Field trip to 2017 Iowa Children’s Water Festival... Do you want to make a profit?
+Recent Recent Trump's rural broadband goal won't be easy, it will be costly Jul 04, 2017 Corn growers make their money during grain fill Jul 04, 2017 USDA offers tips to grill like a PRO Jul 04, 2017 Plan to attend a soil health field day near you Jul 03, 2017 This Week in Agribusiness, July 1, 2017 Jul 01, 2017 Featured When hail hits crop, tough decisions need to be made Jun 26, 2017 Dicamba application window closing Jun 26, 2017 Ash borer in more than half of Iowa’s counties Jun 27, 2017 Making small grains work Jun 23, 2017 Top stories Comfortable cattle provide better quality beef, more profit Jul 04, 2017 Less stress on the animals while handling them can improve a cattle farm’s bottom line. Partners promote E15 ethanol at Iowa Speedway Jul 04, 2017 Syngenta and Growth Energy highlight benefits of E15 at American... How are corn, soybeans doing in your area? Jul 03, 2017 This was one of the driest June months in recent memory for farmers... Do you want to make a profit?
 
 This free guide from Penton Agriculture offers 5 ways to manage risk on the farm.
 
-GET IT NOW Livestock farming appeals to Iowa youth Jun 29, 2017 Figure balance-sheet asset values Jun 28, 2017 market overview Markets:View All Commodities  
+GET IT NOW Without Bt traits, managing European corn borer difficult Jul 03, 2017 Learning about water is a splash of fun Jun 30, 2017 market overview Markets:View All Commodities  
 Data provided by iNet Solutions Group, Inc. All prices delayed 10 minutes.
 
 Sign Up for the Wallaces Farmer Update newsletter today!
