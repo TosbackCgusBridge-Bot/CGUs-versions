@@ -2,7 +2,7 @@ Privacy &. Security
 
 Effective Date: March 9, 2017
 
-This privacy policy explains what personal information is collected through our websites and online services, how that information is used, to whom it's disclosed, and how it's safeguarded. Unless indicated otherwise, this policy applies only to personal information collected through the websites, microsites, mobile applications, and other online services of our brands and lines of business that expressly adopt, and display or link to, this policy (collectively, the Services). These brands and lines of business include Victoria's Secret, Victoria's Secret Pink, and Pink Nation. By "personal information" we mean information that can be used directly to identify you (including name, home address, and email address), as well as other information (like tastes and preferences) when coupled with your identifying information. We may refer to Victoria's Secret, Victoria's Secret Pink (or "Pink"), and Pink Nation (by Pink) as "we," "us," or "our" throughout this privacy policy.
+This privacy policy explains what personal information is collected through our websites and online services, how that information is used, to whom it's disclosed, and how it's safeguarded. Unless indicated otherwise, this policy applies only to personal information collected through the websites, microsites, mobile applications, and other online services of our brands and lines of business that expressly adopt, and display or link to, this policy (collectively, the “Services”). These brands and lines of business include Victoria's Secret, Victoria's Secret Pink, and Pink Nation. By "personal information" we mean information that can be used directly to identify you (including name, home address, and email address), as well as other information (like tastes and preferences) when coupled with your identifying information. We may refer to Victoria's Secret, Victoria's Secret Pink (or "Pink"), and Pink Nation (by Pink) as "we," "us," or "our" throughout this privacy policy.
 
 This privacy policy answers these questions:
 
@@ -133,7 +133,7 @@ We may share information about you with third parties, as described below, and a
     
 3.  3\.  Other Marketers
     
-    We may share your name, postal address, and summary purchase information with other merchants and merchant exchanges. Other merchants may, in turn, use this information to send you offers for their products and services. If you don't want this information shared with these merchants and exchanges, please click here_, select Nondisclosure of Personal Information Request for the Email Subject and complete the form._.
+    We may share your name, postal address, and summary purchase information with other merchants and merchant exchanges. Other merchants may, in turn, use this information to send you offers for their products and services. If you don't want this information shared with these merchants and exchanges, please click here_, select “Nondisclosure of Personal Information Request” for the Email Subject and complete the form._.
     
 4.  4\.  Law Enforcement and Emergency Response
     
@@ -180,11 +180,11 @@ With your consent, we may send push notifications or alerts to your mobile devic
     
 8.  8\.  Other Marketers
     
-    If you don't want your basic contact and purchase information shared with other merchants and exchanges for their direct marketing purposes, please click here, select Nondisclosure of Personal Information Request for the Email Subject and complete the form..
+    If you don't want your basic contact and purchase information shared with other merchants and exchanges for their direct marketing purposes, please click here, select “Nondisclosure of Personal Information Request” for the Email Subject and complete the form..
     
 9.  9\.  Our Sister Brands
     
-    If you don't want your contact and purchase information shared with our sister brands for their direct marketing purposes, please click here, select Nondisclosure of Personal Information Request for the Email Subject and complete the form.
+    If you don't want your contact and purchase information shared with our sister brands for their direct marketing purposes, please click here, select “Nondisclosure of Personal Information Request” for the Email Subject and complete the form.
     
 
 Back To Top
