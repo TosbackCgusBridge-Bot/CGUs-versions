@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card Adorn the Red, White, &. Blue. Find Star Spangled Style Online &. In-Store.
+        Give a Buckle Gift card Home Is Where The Heart Is. Shop Wear Your Roots.
 *   Men
     *   *   Featured
         
@@ -136,7 +136,7 @@
         
           
           
-        Give a Buckle Gift card Adorn the Red, White, &. Blue. Find Star Spangled Style Online &. In-Store.
+        Give a Buckle Gift card Home Is Where The Heart Is. Shop Wear Your Roots.
 *   Kids
     *   *   Featured
         
@@ -158,7 +158,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Adorn the Red, White, &. Blue. Find Star Spangled Style Online &. In-Store.
+        Give a Buckle Gift card Home Is Where The Heart Is. Shop Wear Your Roots.
 *   Jeans
     *   *   Women's Jeans
         
@@ -188,7 +188,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Adorn the Red, White, &. Blue. Find Star Spangled Style Online &. In-Store.
+        Give a Buckle Gift card Home Is Where The Heart Is. Shop Wear Your Roots.
 *   New
     *   *   Featured New
         
@@ -227,7 +227,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Adorn the Red, White, &. Blue. Find Star Spangled Style Online &. In-Store.
+        Give a Buckle Gift card Home Is Where The Heart Is. Shop Wear Your Roots.
 *   Sale
     *   *   Women's Sale
         
@@ -270,7 +270,7 @@
         
           
           
-        Give a Buckle Gift card Adorn the Red, White, &. Blue. Find Star Spangled Style Online &. In-Store.
+        Give a Buckle Gift card Home Is Where The Heart Is. Shop Wear Your Roots.
 
 × Privacy &. Security
 
@@ -427,8 +427,8 @@ Gift Cards/Services
 Contact Us Guest Services:
 
 Phone: 800.607.9788  
-Mon-Fri 8am - 9pm CT  
-Sat 9am - 9pm CT  
+Mon-Fri 9am - 10pm CT  
+Sat 8am - 10pm CT  
 Sun 12pm - 6pm CT  
 Email: guest.services@buckle.com  
 Fax: 308.236.4493
