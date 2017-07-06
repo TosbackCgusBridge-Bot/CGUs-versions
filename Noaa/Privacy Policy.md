@@ -105,13 +105,13 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Stormy Fourth of July likely for parts of the Midwest and Southeast Sun and warmth expected for much of the West and East on Tuesday AROUND NOAA // Possible new threat to Earth’s ozone layer Video: Heading to the beach? See our rip current survival guide first Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event Sea turtles released into Atlantic after successful test of turtle-safe fishing gear
+Enter Search Terms Possible new threat to Earth’s ozone layer AROUND NOAA // Video: Heading to the beach? See our rip current survival guide first Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event Sea turtles released into Atlantic after successful test of turtle-safe fishing gear
 
 *   About our agency
 *   News and features
 *   Our work
 
-Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouTube NOAA HomeScience. Service. Stewardship. How are we doing? Feedbackopens in new window
+Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouTube NOAA HomeScience. Service. Stewardship. How are we doing? Feedbackopens in new window Sign up for our e-newsletter Subscribe
 
 *   Protecting Your Privacy
 *   FOIA
