@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Foundations Development Summary: July 5, 2017 ›
+*   Quick and easy network configuration with Netplan ›
+*   User acceptance testing of snaps, with Travis CI ›
 *   Switching from Unity to Gnome-Shell: first challenges ›
 *   AZLOGICA use Ubuntu Core for customised IoT agricultural solutions ›
-*   How Ubuntu helped InnovaPOS revolutionise the vending machine industry ›
-*   Ubuntu Server Development Summary – 30 Jun 2017 ›
-*   Ubuntu Desktop Weekly Update: June 30, 2017 ›
