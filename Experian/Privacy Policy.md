@@ -29,9 +29,10 @@ More Pages Privacy
     *   Audience IQSM
     *   AutoCheck®
     *   AutoCount®
-    *   Business Verification By Phone
+    *   Business Verification by Phone
     *   Cross-Channel Marketing
     *   Client Registration
+    *   Consumer Info Policy
     *   Data SelectSM
     *   EU Safe Harbor Privacy Policy
     *   Experian ConnectSM
