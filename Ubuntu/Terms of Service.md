@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   OpenStack in a Snap ›
 *   Ubuntu Foundations Development Summary: July 5, 2017 ›
 *   Quick and easy network configuration with Netplan ›
 *   User acceptance testing of snaps, with Travis CI ›
-*   Switching from Unity to Gnome-Shell: first challenges ›
-*   AZLOGICA use Ubuntu Core for customised IoT agricultural solutions ›
+*   How Ubuntu helped InnovaPOS revolutionise the vending machine industry ›
