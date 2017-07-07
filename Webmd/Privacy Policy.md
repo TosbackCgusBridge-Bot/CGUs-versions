@@ -107,10 +107,10 @@ Featured Topics*   Slideshow Symptoms of ADHD in Children
     Experts News &. Experts News &. Experts Health News
     
     *   Dirty Pool: What's Really in the Water?
-    *   Air Pollution Raises Death Risk for U.S. Seniors
-    *   How Bad for You Are Fried Foods?
-    *   Experts Say 3 Things May Prevent Memory Loss
-    *   Could Shift Work Damage DNA?
+    *   Clif Bars Recalled
+    *   Sleep Problems: A Warning Sign of Alzheimer's?
+    *   Cheaper Alternatives to Hearing Aids?
+    *   Popular Heartburn Meds May Raise Death Risk
     
     Experts &. Community
     *   Message Boards
