@@ -244,11 +244,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Trump Budget Plan Would Remove Ban on Wild Horse Sale and Slaughter**
+**Dinosaur Extinction Allowed Frogs to Flourish**
 
-**Gun Purchases for Self-Defense Skyrocket**
+**America's Past Presidents Had Some Really Weird Habits**
 
-**Pop-Up Ads Are Annoying — But They Work**
+**People Who Drive With Their Hazard Lights Flashing Are Making a Mistake**
 
 About Us
 
