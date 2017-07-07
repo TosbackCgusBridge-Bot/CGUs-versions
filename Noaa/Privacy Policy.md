@@ -111,7 +111,7 @@ Enter Search Terms Possible new threat to Earth’s ozone layer AROUND NOAA // V
 *   News and features
 *   Our work
 
-Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouTube NOAA HomeScience. Service. Stewardship. How are we doing? Feedbackopens in new window Sign up for our e-newsletter Subscribe
+Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouTube NOAA HomeScience. Service. Stewardship. How are we doing? Feedbackopens in new window
 
 *   Protecting Your Privacy
 *   FOIA
