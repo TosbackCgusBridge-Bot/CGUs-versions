@@ -15,6 +15,7 @@ Sencha
         *   Framework Comparison
     *   Sencha Test
     *   GXT
+    *   Stencils
     *   Sencha Touch
     *   App Modernization
         *   IBM i
@@ -164,6 +165,7 @@ Subscribe
     *   IDE &. Editor Plugins
     *   Architect
     *   Themer
+    *   Stencils
     *   Inspector
     *   App Modernization
 
