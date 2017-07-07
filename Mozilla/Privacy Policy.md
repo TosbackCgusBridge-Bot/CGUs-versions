@@ -162,27 +162,24 @@ Back to Mozilla Privacy Policy Mozilla Mozilla
 *   Contact Us
 *   Donate
 *   Contribute to this site
-*   Social:
-    *   Twitter (@mozilla)
+*   *   Twitter (@mozilla)
     *   Facebook (Mozilla)
     *   Instagram (@mozillagram)
 
 Firefox
 
-*   Download Firefox Web browser
+*   Download Firefox Web Browser
 *   Desktop Browser for Mac, Windows, Linux
 *   Mobile Browser for Android
 *   Mobile Browser for iOS
-*   Social:
-    *   Twitter (@firefox)
+*   *   Twitter (@firefox)
     *   Facebook (Firefox)
     *   YouTube (firefoxchannel)
-
-Page language: عربيবাংলা (বাংলাদেশ)বাংলা (ভারত)ČeštinaDeutschΕλληνικάEnglishEspañol (de España)Françaisहिन्दीHrvatskimagyarBahasa IndonesiaItaliano日本語МакедонскиPolskiPortuguês (do Brasil)RomânăРусскийСрпскиKiswahiliதமிழ் Go
-
-Portions of this content are ©1998–2017 by individual mozilla.org contributors. Content available under a Creative Commons license.
 
 *   Privacy
 *   Cookies
 *   Legal
-*   Report Trademark Abuse
+
+Portions of this content are ©1998–2017 by individual mozilla.org contributors. Content available under a Creative Commons license.
+
+Language عربيবাংলা (বাংলাদেশ)বাংলা (ভারত)ČeštinaDeutschΕλληνικάEnglishEspañol (de España)Françaisहिन्दीHrvatskimagyarBahasa IndonesiaItaliano日本語МакедонскиPolskiPortuguês (do Brasil)RomânăРусскийСрпскиKiswahiliதமிழ் Go
