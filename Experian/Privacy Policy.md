@@ -32,7 +32,7 @@ More Pages Privacy
     *   Business Verification by Phone
     *   Cross-Channel Marketing
     *   Client Registration
-    *   Consumer Info Policy
+    *   ConsumerInfo.com Privacy Policy
     *   Data SelectSM
     *   EU Safe Harbor Privacy Policy
     *   Experian ConnectSM
