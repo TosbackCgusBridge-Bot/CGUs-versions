@@ -16,7 +16,6 @@ Sencha
     *   Sencha Test
     *   GXT
     *   Stencils
-    *   Sencha Touch
     *   App Modernization
         *   IBM i
         *   Oracle Forms
@@ -37,7 +36,7 @@ Sencha
 *   Resources
 *   Blog
 *   Contact Us
-*   Sencha ▾
+*   Search
 
 Sencha Home / Sencha Licensing / Privacy PolicyPrivacy Policy Sencha Inc., and its affiliates and subsidiaries (collectively “Sencha”) recognize the importance of keeping the personal information you provide to us private and secure. Sencha has developed a comprehensive privacy policy and we use the latest technology to ensure that your personal information is secure. Information Collection &. Use General
 
@@ -223,7 +222,3 @@ Subscribe
 *   Contact Us
 
 ⊖ Sign up for Sencha News
-
-Sencha
-
-Page
