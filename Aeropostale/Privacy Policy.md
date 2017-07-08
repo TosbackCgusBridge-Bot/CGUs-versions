@@ -4,7 +4,6 @@ Aéropostale
     
     *   NEW ARRIVALS
     *   $5 RIOT TEES
-    *   #FREETOBE
     *   TRENDING
     *   Americana
     *   Festival Vibes
@@ -27,8 +26,8 @@ Aéropostale
     *   Active Tops
     
     *   BOTTOMS
-    *   Shorts
     *   Jeans
+    *   Shorts
     *   Leggings + Active
     *   Joggers + Lounge
     *   Pants
@@ -53,7 +52,6 @@ Aéropostale
     *   NEW ARRIVALS
     *   $5 RIOT TEES
     *   TAPOUT
-    *   #FREETOBE
     *   TRENDING
     *   Americana
     *   Summer Retreat
@@ -74,8 +72,8 @@ Aéropostale
     *   Hoodies + Sweatshirts
     
     *   BOTTOMS
-    *   Shorts
     *   Jeans
+    *   Shorts
     *   Pants
     *   Joggers + Sweats
     
