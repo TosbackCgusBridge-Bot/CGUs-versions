@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Canonical’s support for Kubernetes 1.7 on Ubuntu released ›
+*   Ubuntu Server Development Summary – 07 Jul 2017 ›
+*   If you’re still using ifconfig, you’re living in the past ›
+*   Ubuntu Desktop Weekly Update: July 7, 2017 ›
 *   OpenStack in a Snap ›
-*   Ubuntu Foundations Development Summary: July 5, 2017 ›
-*   Quick and easy network configuration with Netplan ›
-*   User acceptance testing of snaps, with Travis CI ›
-*   How Ubuntu helped InnovaPOS revolutionise the vending machine industry ›
