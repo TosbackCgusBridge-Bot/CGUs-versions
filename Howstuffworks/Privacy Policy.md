@@ -244,11 +244,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Dinosaur Extinction Allowed Frogs to Flourish**
+**Cool, Compelling and Curious: Our Best Stories You Might Have Missed This Week**
 
-**America's Past Presidents Had Some Really Weird Habits**
+**A Breathalyzer for Drugs? We're Not There Yet**
 
-**People Who Drive With Their Hazard Lights Flashing Are Making a Mistake**
+**U.S. Adults Are Overwhelmingly Unprepared for Serious Illness or Injury**
 
 About Us
 
