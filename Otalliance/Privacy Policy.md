@@ -41,7 +41,7 @@ Skip to main content Online Trust Alliance
     *   History &. Overview
     *   Vision for Trust
     *   Members
-    *   Board of Directors
+    *   Advisory Board
     *   Staff
 *   Blog
 
@@ -155,7 +155,7 @@ About Us
 *   Vision for Trust
 *   Members
     *   Members
-*   Board of Directors
+*   Advisory Board
 *   Staff
 
  
