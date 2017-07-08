@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Possible new threat to Earth’s ozone layer AROUND NOAA // Video: Heading to the beach? See our rip current survival guide first Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event Sea turtles released into Atlantic after successful test of turtle-safe fishing gear
+Enter Search Terms U.S. saw 2nd warmest year to date on record and warmer-than-average June Nation has experienced 9 billion-dollar disasters so far, including 3 tornado outbreaks AROUND NOAA // Video: Heading to the beach? See our rip current survival guide first Possible new threat to Earth’s ozone layer Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event
 
 *   About our agency
 *   News and features
@@ -124,3 +124,5 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Contact us
 *   Staff Directory
 *   Need help?
+
+NOAA
