@@ -25,6 +25,12 @@ Monkeybrains.net San Francisco-based ISP since 1998
 
 NOTABLE PRESS MENTIONS &. REVIEWS
 
+_July 5th, 2017_  
+**More than 1,000 income-subsidized housing units in San Francisco are getting free gigabit internet**  
+By April Glaser  
+Not everyone in the tech capital of the world has access to internet.  
+Read more >>.
+
 _March 31, 2017_  
 **After Internet Privacy Vote, Some ISPs Pledge Not To Sell Browsing Histories**  
 By Hamza Shaban  
