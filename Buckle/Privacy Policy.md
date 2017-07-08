@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card Home Is Where The Heart Is. Shop Wear Your Roots.
+        Give a Buckle Gift card You Need A Standard Supply of These Tees!
 *   Men
     *   *   Featured
         
@@ -136,7 +136,7 @@
         
           
           
-        Give a Buckle Gift card Home Is Where The Heart Is. Shop Wear Your Roots.
+        Give a Buckle Gift card You Need A Standard Supply of These Tees!
 *   Kids
     *   *   Featured
         
@@ -158,7 +158,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Home Is Where The Heart Is. Shop Wear Your Roots.
+        Give a Buckle Gift card You Need A Standard Supply of These Tees!
 *   Jeans
     *   *   Women's Jeans
         
@@ -188,7 +188,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Home Is Where The Heart Is. Shop Wear Your Roots.
+        Give a Buckle Gift card You Need A Standard Supply of These Tees!
 *   New
     *   *   Featured New
         
@@ -227,7 +227,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Home Is Where The Heart Is. Shop Wear Your Roots.
+        Give a Buckle Gift card You Need A Standard Supply of These Tees!
 *   Sale
     *   *   Women's Sale
         
@@ -270,7 +270,7 @@
         
           
           
-        Give a Buckle Gift card Home Is Where The Heart Is. Shop Wear Your Roots.
+        Give a Buckle Gift card You Need A Standard Supply of These Tees!
 
 × Privacy &. Security
 
