@@ -144,9 +144,9 @@ Close
 
 Red Carpet Photos
 
-This Friday, experience the “fastest, funniest, superhero movie of the summer!”
+It's time. #SpiderManHomecoming is in theaters today.
 
-2017-07-05 05:36:04+00:00
+2017-07-07 23:45:03+00:00
 
 View Tweet
 
@@ -290,9 +290,9 @@ Close
 
 Fund KOOV Today
 
-Good news! Your trophies will now sync much quicker than ever before on your PS4.
+PS4 games join the PlayStation Now lineup starting today! Stream over 500 PS3 &. PS4 games to your PS4 or PC.
 
-2017-07-05 17:23:24+00:00
+2017-07-06 05:00:00+00:00
 
 View Tweet
 
