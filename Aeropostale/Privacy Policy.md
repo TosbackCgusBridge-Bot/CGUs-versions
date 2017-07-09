@@ -85,7 +85,6 @@ Aéropostale
     
     *   FEATURED
     *   Black White &. Mesh Allover
-    *   Seamless
     *   Active
     *   Lounge
     *   Swim
