@@ -110,6 +110,7 @@ Aéropostale
     *   Hipster
     *   Boy Short
     *   Bikini
+    *   Seamless
     
     *   BRAS
     *   SWIM
