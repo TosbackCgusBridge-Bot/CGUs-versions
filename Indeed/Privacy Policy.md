@@ -579,7 +579,7 @@ These IPP Terms and any dispute arising out of or in connection with these IPP T
 
 E. Indeed Prime Terms
 
-Last Updated: July 6, 2017
+Last Updated: July 10, 2017
 
 These Indeed Prime Terms (“IP Terms”) form a part of, and are incorporated into, the Indeed Terms of Service (the “Agreement”). By using Indeed Prime in any way, or by registering as a Candidate or an Employer on Indeed Prime, you agree to these Indeed Prime Terms and the Indeed Terms of Service.
 
@@ -655,7 +655,7 @@ If you wish to use the Indeed Prime tool, you must have an agreement with Indeed
 
 **5\. Referrals**
 
-a.   Indeed will offer “Candidate Referral Rewards” in the amount of $200 (USD) if in the U.S., £150 (GBP) if in the U.K., $200 (CAD) if in Canada, or €200 (EUR) if in Ireland, to individuals who refer a Candidate (the “Candidate Referrer”) and that Candidate is contacted by an Employer with Indeed Prime. The currency and amount paid with respect to all Candidate Referral Rewards will depend on the tax residence of the Candidate Referrer. In addition, Indeed will offer “Candidate Referral Rewards” in the amount of $2,000 (USD) if in the U.S., £1500 (GBP) if in the U.K., $2,000 (CAD) if in Canada, or €2,000 (EUR) if in Ireland, to Candidate Referrers who refer a Candidate that has been selected by Indeed Prime, has been hired through Indeed Prime, and has worked at the Employer for at least ninety days. In addition, the following limitations apply:
+a.  Indeed will offer “Candidate Referral Rewards” in the form of a $200 (USD) gift card if in the U.S., a £150 (GBP) gift card if in the U.K., a $200 (CAD) gift card if in Canada, or a €200 (EUR) gift card if in Ireland, to individuals who refer a Candidate (the “Candidate Referrer”) and that Candidate is contacted by an Employer with Indeed Prime. The currency and amount paid in the gift card with respect to all Candidate Referral Rewards will depend on the tax residence of the Candidate Referrer. In addition, Indeed will offer “Candidate Referral Rewards” in the amount of $2,000 (USD) if in the U.S., £1500 (GBP) if in the U.K., $2,000 (CAD) if in Canada, or €2,000 (EUR) if in Ireland, to Candidate Referrers who refer a Candidate that has been selected by Indeed Prime, has been hired through Indeed Prime, and has worked at the Employer for at least ninety days. In addition, the following limitations apply:
 
 1.  To qualify, the Candidate referred by the Candidate Referrer must have graduated from their last school or university at least one year prior to the referral.
 2.  There is a limit of 5 rewards per calendar year to any one Candidate Referrer.
