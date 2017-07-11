@@ -244,11 +244,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Cool, Compelling and Curious: Our Best Stories You Might Have Missed This Week**
+**Do You Have to Pull Over for a Funeral Procession?**
 
-**A Breathalyzer for Drugs? We're Not There Yet**
+**Calling a Watermelon 'Seedless' Is Kind of False Advertising**
 
-**U.S. Adults Are Overwhelmingly Unprepared for Serious Illness or Injury**
+**Removing This Invasive Shrub's Flowers Could Help Combat Malaria**
 
 About Us
 
@@ -264,6 +264,10 @@ About Us
 
 More to Explore
 
+  
+
+Advertise With Us
+
 *   About
 *   Shows
 *   Privacy
@@ -271,17 +275,16 @@ More to Explore
 *   Terms
 
 *   Store
-*   Advertising
 *   Careers
 *   Contact Us
 *   Help
 
-HOWSTUFFWORKS  
-ON THE GO
+  
 
-Take us with you on your iPad, iPhone or favorite Android device.
+Copyright © 2017 HowStuffWorks,  
+a division of InfoSpace Holdings LLC
 
-NEWSLETTERS
+Newsletter
 
 Get the best of HowStuffWorks by email. Keep up to date on:
 
@@ -290,7 +293,6 @@ Get the best of HowStuffWorks by email. Keep up to date on:
 *   Tours
 *   Weird &. Wacky
 
-Sign-up Now! Testing this long verbose error message to check the behaviour
+Sign Up Now!
 
-Copyright © 2017 HowStuffWorks,  
-a division of InfoSpace Holdings LLC
+Testing this long verbose error message to check the behaviour
