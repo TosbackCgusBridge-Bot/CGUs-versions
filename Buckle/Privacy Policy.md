@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card You Need A Standard Supply of These Tees!
+        Give a Buckle Gift card Make Out Like A Bandit, With These Promotions.
 *   Men
     *   *   Featured
         
@@ -136,7 +136,7 @@
         
           
           
-        Give a Buckle Gift card You Need A Standard Supply of These Tees!
+        Give a Buckle Gift card Make Out Like A Bandit, With These Promotions.
 *   Kids
     *   *   Featured
         
@@ -158,7 +158,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card You Need A Standard Supply of These Tees!
+        Give a Buckle Gift card Make Out Like A Bandit, With These Promotions.
 *   Jeans
     *   *   Women's Jeans
         
@@ -188,7 +188,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card You Need A Standard Supply of These Tees!
+        Give a Buckle Gift card Make Out Like A Bandit, With These Promotions.
 *   New
     *   *   Featured New
         
@@ -227,7 +227,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card You Need A Standard Supply of These Tees!
+        Give a Buckle Gift card Make Out Like A Bandit, With These Promotions.
 *   Sale
     *   *   Women's Sale
         
@@ -270,7 +270,7 @@
         
           
           
-        Give a Buckle Gift card You Need A Standard Supply of These Tees!
+        Give a Buckle Gift card Make Out Like A Bandit, With These Promotions.
 
 × Privacy &. Security
 
