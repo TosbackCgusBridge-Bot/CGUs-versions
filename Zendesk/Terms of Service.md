@@ -22,7 +22,7 @@ General Terms and Conditions:
 
 6\. Billing, Plan Modifications and Payments
 
-7\. Credits Policy
+7\. Promotional Credits Policy
 
 8\. Cancellation and Termination
 
@@ -174,7 +174,7 @@ Zendesk does not intend use of the Service’s email campaign functionality to c
 
 5.  Aggregated Personal Data that is not personally identifiable. We may anonymize the Personal Data of Your Agents or End-Users so that they cannot be individually identified, and provide that information to our partners. We may also provide aggregate usage information to our partners for analytics purposes, who may use such information to help us understand how often and in what ways people use our Services. However, We never disclose aggregate information to a partner in a manner that would identify Your Agents or End-Users personally, as an individual.
 
-**3.9** Zendesk may also obtain other information, including Personal Data, from third parties and combine that with information We collect through Our Services such as in the case where You use a Third Party Service or where we may have access to certain information from a third party social media or authentication service if You log into Our Services through such service or otherwise provide Us with access to information from such service. Any access that We may have to such information from a third party social or authentication service is in accordance with the authorization procedures determined by that service. By authorizing Us to connect with a third party service, You authorize Us to access and store Your name, email address(es), current city, profile picture URL, and other Personal Data that the third party service makes available to Us, and to use and disclose it in accordance with this Agreement and the Zendesk Privacy Policy as in effect from time to time and available here.
+**3.9** Zendesk may also obtain other information, including Personal Data, from third parties and combine that with information We collect through Our Services such as in the case where You use a Third Party Service or where we may have access to certain information from a third party social media or authentication service if You log into Our Services through such service or otherwise provide Us with access to information from such service. Any access that We may have to such information from a third party social or authentication service is in accordance with the authorization procedures determined by that service. By authorizing Us to connect with a Third Party Service, You authorize Us to access and store Your name, email address(es), current city, profile picture URL, and other Personal Data that the Third Party Service makes available to Us, and to use and disclose it in accordance with this Agreement and the Zendesk Privacy Policy as in effect from time to time and available here.
 
 **4\. INTELLECTUAL PROPERTY RIGHTS**
 
@@ -322,7 +322,7 @@ If Your Service Plan for Zendesk Support allows You to use Zendesk Explore or Yo
 
 The definition of “Software” in the Agreement shall include connectors that are used by You to connect Your data sources to Zendesk Explore or that allow You to use any functionality in connection with Zendesk Explore.
 
-Use of Zendesk Explore may be subject to the obligation to pay applicable usage fees, platform fees and other applicable Subscription charges as detailed on the Site. By enabling or otherwise using Zendesk Explore, You are agreeing to pay all applicable fees and charges with Your use of Zendesk Explore.
+Use of Zendesk Explore may be subject to the obligation to pay applicable usage fees, platform fees and other applicable Subscription Charges as detailed on the Site. By enabling or otherwise using Zendesk Explore, You are agreeing to pay all applicable fees and charges with Your use of Zendesk Explore.
 
 Supplemental Terms for Zendesk’s Guide Service (“Zendesk Guide”):
 
@@ -387,7 +387,7 @@ As provided for in Section 3.5 of the Agreement, any third-party service provide
 
 **4\.** Transmission Controls. Third-party service providers shall take reasonable measures to ensure that it is possible to check and establish to which entities the transfer of Service Data by means of data transmission facilities is envisaged so Service Data cannot be read, copied, modified or removed without authorization during electronic transmission or transport.
 
-**5\.** Input Controls. Third-party service providers shall take reasonable measures designed to ensure that it is possible to check and establish whether and by whom Service Data has been entered into data processing systems, modified or removed. and, any of transfer of Service Data to a third-party service providers is made via a secure transmission.
+**5\.** Input Controls. Third-party service providers shall take reasonable measures designed to ensure that it is possible to check and establish whether and by whom Service Data has been entered into data processing systems, modified or removed. and, any of transfer of Service Data to a third-party service provider is made via a secure transmission.
 
 **6\.** Data Protection. Third-party service providers shall take reasonable measures designed to ensure that Service Data is secured to protect against accidental destruction or loss.
 
