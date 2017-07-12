@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   MAAS Development Summary – July 3rd – 14th ›
+*   Ubuntu Core: Making a factory image with private snaps ›
+*   Windows 10 loves Ubuntu ›
 *   Netplan by default in 17.10 ›
 *   Canonical’s support for Kubernetes 1.7 on Ubuntu released ›
-*   Ubuntu Server Development Summary – 07 Jul 2017 ›
-*   If you’re still using ifconfig, you’re living in the past ›
-*   Ubuntu Desktop Weekly Update: July 7, 2017 ›
