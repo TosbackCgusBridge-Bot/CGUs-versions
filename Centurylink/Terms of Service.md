@@ -1,154 +1,19 @@
-Customer Info Close
+*   For Home
+*   For Business
+    *   Small Business - Up to 10 Employees
+    *   Medium Business - More than 10 Employees
+    *   Enterprise
+    *   Alliance Partners
+    *   Public Sector
+    *   Wholesale
+    *   Need Help Choosing?
 
-We need your zip code to check for service in your area.
+*   Contact Us
+*   Sign In
 
-You must enter a zip code. A zipcode must contain five digits. Please enter a valid zip code. We had an unexpected error, please try again. Zip code (required) Service address zip: change  
-Attention: We cannot match your zip code properly. Please indicate below which company used to provide service to your area in the past.  
-  
-A company selection is required.  
-  
-  
-Qwest  
-CenturyLink\*  
-  
-  
-
-\*CenturyLink includes former ElPasoTel customers
-
-  
-Continue Help
-
-*   Why is this needed?
-
-As CenturyLink and Qwest merge companies, we are working hard to combine our systems. By supplying your service address zip code we will be able to get you to the right location. Thank you for your patience during the merger process.
-
-Sorry, we don't recognize the information you provided.  
-  
-
-What would you like to do?
-
-I'd like to shop for CenturyLink Out of Region Long Distance.  
-I am a new customer moving to a CenturyLink service area. I'd like to search by my new address.  
-I'd like to try to enter my information again.  
-  
-  
-  
-  
-Not sure what to do? Try Customer Service Check Availability Already a customer? Sign in Customer Account Info New customer?
-
-Please enter your service address, so we can show you accurate pricing and product availability in your area.
-
-Sign in with your account user name and password so that we can show you the pricing options available to you. Don't have an account yet? Enroll Now
-
-A valid service address is required A street address is required A city is required A state is required Please enter a valid zip code Please enter a valid zip code Your zip code is unrecognized. Please try again. We had an unexpected error, please try again. Address (required) Unit Number  
-Attention: We cannot match your zip code properly. Please indicate below which company used to provide service to your area in the past.  
-  
-A company selection is required.  
-  
-  
-Qwest  
-CenturyLink\*  
-  
-
-\*CenturyLink includes former ElPasoTel customers
-
-  
-A username is required. A password is required. We had an unexpected error, please try again.  
-Select the company you set up your account with, and enter your user name and password.  
-  
-A company selection is required.  
-  
-Enter your My Account user name and password.  
-Qwest  
-CenturyLink User Name (required) Forgot Username? Password (required) Forgot Password?  
-  
-Phone Number or Account Number  
-A phone or account number is required We had an unexpected error, please try again.  
-
-example: 333-222-2222
-
-  
-  
-
-*   How does CenturyLink protect my information?
-*   How do we protect your account information?
-
-Like most companies, we have certain information about our customers and use it to provide our services. We also share it as needed to meet our business goals or fulfill our legal obligations. We protect the information we have about our customers, and we require those we share it with to protect it too.
-
-By inputting your account information and clicking the "Continue" button, you provide consent to CenturyLink to access your account information, including the services you subscribe to, to respond to your inquiry and inform you of CenturyLink's products and services. You may deny us permission by proceeding no further and your denial will have no affect on your current services. Under federal law, it is your right and our duty to protect your account information. Learn more or Close This Window
-
-Sorry, we don't recognize the information you provided.  
-  
-
-What would you like to do?
-
-I'd like to shop for CenturyLink Out of Region Long Distance.  
-I am a new customer moving to a CenturyLink service area. I'd like to search by my new address.  
-I'd like to try to enter my information again.  
-  
-  
-  
-  
-Not sure what to do? Try Customer Service Customer Info Close Window  
-Enter your My Account user name and password. A username is required. A password is required. We had an unexpected error, please try again.  
-User Name (required) Forgot Username? Password (required) Forgot Password?  
-  
-Quick Bill Pay  
-Set up My Account  
-Why is this needed? As CenturyLink and Qwest merge companies, we are working hard to combine our systems. By supplying your service address zip code we will be able to get you to the right location. Thank you for your patience during the merger process.  
-  
-Sorry, we don't recognize the information you provided.  
-  
-
-What would you like to do?
-
-I'd like to shop for CenturyLink Out of Region Long Distance.  
-I'd like to try to enter my information again.  
-  
-  
-  
-  
-Not sure what to do? Try Customer Service Finding the Fastest Speed  
-Available at Your Home... Please wait while we verify your Internet speed. Customer Service &. Support Close Window We apologize for the inconvenience. This product is currently not available in your area.  
-
-Continue to view these CenturyLink products:
-
-DIRECTV®  
-High-Speed Internet  
-Bundles  
-Phone  
-Go back to the CenturyLink home page.  
-  
-  
-
-We apologize for the inconvenience. This product is currently not available for ordering online. If you have questions, or would like to order, **please call 800-366-8201**.
-
-Customer Info Close Window
-
-Enter your CenturyLink Home Telephone Number or Account Number so we can help you set up your account.
-
-  
-A telephone or account number is required. You must enter a valid telephone or account number. Home Telephone Number or Account Number  
-Go  
-How can I find my Account Number?  
-  
-Why is this needed? As CenturyLink and Qwest merge companies, we are working hard to combine our systems. By supplying your home telephone or account number we will be able to get you to the right location. Thank you for your patience during the merger process. OK OK OK  
-Attention! Your browser settings show that JavaScript is disabled. Customer Info Close Window Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings show that JavaScript is disabled. For Home For Business
-
-*   Small Business - Up to 10 Employees
-*   Medium Business - More than 10 Employees
-*   Enterprise
-*   Alliance Partners
-*   Public Sector
-*   Wholesale
-*   Need Help Choosing?
-
-  
-Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings show that JavaScript is disabled. Call Us Mobile Site Español Contact Us Sign In Attention! Your browser settings show that JavaScript is disabled. Search field Attention! Your browser settings show that JavaScript is disabled.
+Search CenturyLink
 
 *   About Us
-
-Attention! Your browser settings show that JavaScript is disabled.
 
 *   Company Information
 *   Investor Relations
@@ -158,9 +23,25 @@ Attention! Your browser settings show that JavaScript is disabled.
 *   Governance
 *   Legal
 
-Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings show that JavaScript is disabled. Qwest's Acceptable Use Policy
+Toggle navigation
 
-Qwest has formulated this Acceptable Use Policy ("AUP") in order to encourage the responsible use of Qwest's networks, systems, services, web sites and products (collectively, the "Qwest Network and Services") by our customers and other users of the Qwest Network and Services (collectively, "Users"), and to enable us to provide Users with secure, reliable and productive services. By using the Qwest Network and Services, Users consent to be bound by the terms of this AUP. Qwest reserves the right to modify this AUP in its discretion at any time. Such modifications will be effective when posted. Any use of the Qwest Network and Services after such modification shall constitute acceptance of such modification.
+*   MENU
+
+*   About Us
+    *   Company Information
+    *   Investor Relations
+    *   Community
+    *   Newsroom
+    *   Careers
+    *   Governance
+    *   Legal
+
+*   Contact Us
+*   Sign In
+
+Qwest's Acceptable Use Policy Qwest has formulated this Acceptable Use Policy ("AUP") in order to encourage the responsible use of Qwest's networks, systems, services, web sites and products (collectively, the "Qwest Network and Services") by our customers and other users of the Qwest Network and Services (collectively, "Users"), and to enable us to provide Users with secure, reliable and productive services.   
+
+By using the Qwest Network and Services, Users consent to be bound by the terms of this AUP. Qwest reserves the right to modify this AUP in its discretion at any time. Such modifications will be effective when posted. Any use of the Qwest Network and Services after such modification shall constitute acceptance of such modification.
 
 **Suspension. Termination.** Any User which Qwest determines to have violated any element of this AUP may be subject to a suspension or termination of service. Qwest will suspend service for violation of the AUP on the most limited basis as Qwest determines is reasonably practical under the circumstances to address the underlying violation. Qwest will attempt to notify Customer prior to suspending service for violation of the AUP (which may be via email or any other notification). provided, however, Qwest may suspend service without notice if Qwest becomes aware of a violation of any applicable law or regulation or activity, including but not limited to a violation of the AUP, that exposes Qwest to criminal or civil liability or that exposes the Qwest network or Qwest customers' network or property to harm. Such harm to a network may include, but is not limited to, risk of having an IP address placed on blacklists. Qwest may take such further action as Qwest determines to be appropriate under the circumstances to eliminate or preclude repeat violations, and Qwest shall not be liable for any damages of any nature suffered by any Customer, User, or any third party resulting in whole or in part from Qwest's exercise of its rights under this AUP.
 
@@ -181,9 +62,12 @@ Violations of this AUP may be reported at the following link: abuse@qwest.net.
 
 Revised 01-30-09
 
-back to top
+**LEGAL**
 
 *   Acceptable Use Policy
+    *   CenturyLink's Acceptable Use Policy
+    *   Qwest's Acceptable Use Policy
+    *   CTS's Acceptable Use Policy
 *   Privacy Policy
 *   Copyright Notices
 *   Website User Agreement
@@ -193,12 +77,34 @@ back to top
 *   Tariff Library
 *   Internet Service Disclosure
 
-Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings show that JavaScript is disabled.  
+Get Connected. See what's next for CenturyLink.
 
-About Us | Careers | Investor Relations | Newsroom | Legal | Legal Notices | Privacy Policy | Site Map | Tariffs | Customers with Disabilities | Contact Us  
-  
-Store Locator | CenturyLink in Your Area | White/Yellow Pages White/Yellow Pages | Email Offers | Referral Program | CenturyLink Retailer | Guide to Home Technology | Fed Govt | State &. Local Gov’t | Education | Partners  
-  
-For Home | Small Business | Medium Business | Enterprise | Wholesale  
-  
-© 2017, CenturyLink. All Rights Reserved. Feedback   Search Text Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings shows that JavaScript is disabled,please enable for better view Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings show that JavaScript is disabled. Attention! Your browser settings show that JavaScript is disabled.
+*   About Us
+*   Careers
+*   Investor Relations
+*   Legal
+*   Legal Notices
+*   Privacy Policy
+*   Site Map
+*   Tariffs
+*   Customers with Disabilities
+
+*   Store Locator
+*   Yellow Pages
+*   Email Offers
+*   Referral Program
+*   CenturyLink Retailer
+*   Guide to Home Technology
+*   Fed Govt
+*   State &. Local Govt
+*   Education
+*   Partners
+
+*   For Home
+*   Small Business
+*   Medium Business
+*   Enterprise
+*   Wholesale
+*   Feedback
+
+*   © 2017 CenturyLink. All Rights Reserved. Third party marks are the property of their respective owners.
