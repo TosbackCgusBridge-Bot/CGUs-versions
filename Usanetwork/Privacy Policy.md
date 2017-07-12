@@ -175,6 +175,7 @@ Cookies/ tracking technologies are used on some of our online services to serve 
 *   Contact Us
 *   Store
 *   Privacy Policy
+*   Compliance Risk Management
 *   Terms of Service
 
 © 2017 NBCUniversal, Inc. All Rights Reserved.
