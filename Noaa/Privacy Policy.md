@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms U.S. saw 2nd warmest year to date on record and warmer-than-average June Nation has experienced 9 billion-dollar disasters so far, including 3 tornado outbreaks AROUND NOAA // Video: Heading to the beach? See our rip current survival guide first Possible new threat to Earth’s ozone layer Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event
+Enter Search Terms U.S. saw 2nd warmest year to date on record and warmer-than-average June Nation has experienced 9 billion-dollar disasters so far, including 3 tornado outbreaks AROUND NOAA // NOAA’s Greenhouse Gas Index up 40 percent since 1990 Drones at sea: Unmanned vehicles to expand data collection from far-flung locales Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event Video: Heading to the beach? See our rip current survival guide first
 
 *   About our agency
 *   News and features
