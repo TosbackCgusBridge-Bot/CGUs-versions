@@ -5,7 +5,6 @@
     *   Personalized Gifts
     *   Gifts with Wine
     *   Military Gifts
-    *   Business Gifts
     *   New!
     *   Best Sellers
     *   Gluten Free
@@ -79,7 +78,6 @@
     *   Personalized Gifts
     *   Gifts with Wine
     *   Military Gifts
-    *   Business Gifts
     *   New!
     *   Best Sellers
     *   Gluten Free
