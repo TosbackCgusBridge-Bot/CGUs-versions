@@ -5,13 +5,79 @@ Skip to Content CloseSony Sites Sony’s Stories SONY DESIGN Playstation® Sony 
 *   Sony PicturesThe hub for your favourite movies and TV shows.
 *   Sony MusicClassic artists to today’s stars, local and global.
 
-SONY SONY
+SONY
 
+*   SONY
 *   Sony Sites
-*   Electronics
+*   Electronics Electronics Televisions &. Home Theater ›Televisions &. Home Theater
+    
+    *   All Television &. Home cinema products ›
+    *   Televisions
+    *   Home Theater &. Sound Bars
+    *   Projectors
+    *   Blu-ray &. DVD Players
+    
+    View All Audio ›Audio
+    
+    *   All Audio products ›
+    *   Headphones
+    *   MP3 Players
+    *   Wireless Speakers
+    *   High-Resolution Audio
+    *   Audio Systems
+    *   Digital Voice Recorders
+    *   Boomboxes, Radios &. Portable CD Players
+    *   Home Theater
+    
+    View All Cameras ›Cameras
+    
+    *   All Camera products ›
+    *   Interchangeable-lens Cameras
+    *   Lenses
+    *   Compact Cameras
+    *   Lens-Style Cameras
+    
+    View All Mobile, Tablets &. Smart Devices  ›Mobile, Tablets &. Smart Devices 
+    
+    *   All Mobile, Tablets &. Smart Devices products ›
+    *   Cell Phones
+    *   Tablets
+    *   Wearable Technology
+    *   Digital Paper
+    
+    View All Video Cameras ›Video Cameras
+    
+    *   All Video Cameras products ›
+    *   Camcorders
+    *   Action Cameras
+    *   Music Video Recorders
+    *   Professional Camcorders
+    
+    View All Car &. Marine ›Car &. Marine
+    
+    *   All Car &. Marine products ›
+    *   In-Car Receivers &. Players
+    *   In-Car Speakers &. Amplifiers
+    *   Marine Audio
+    *   Automotive OEM Audio
+    
+    View All Energy, Storage &. Cables ›Energy, Storage &. Cables
+    
+    *   All Energy, Storage &. Cables products ›
+    *   Batteries
+    *   Memory Cards &. Flash Drives
+    *   Cables
+    
+    View All All Electronics See Professional Products Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up
 *   PlayStation
-*   Entertainment
-*   Support
+*   Entertainment Entertainment
+    *   Video Games
+    *   Movies &. TV Shows
+    *   MusicPhone and Tablet AppsThe best of what Sony has to offer on iOS or Android. Download our apps.
+*   Support Support
+    *   Support
+    *   Register a Product
+    *   Community
 
 *   Sign In
     
@@ -25,82 +91,7 @@ SONY SONY
 *   Search
 *   Sony Sites
 
-search Electronics Televisions &. Home Theater ›Televisions &. Home Theater
-
-*   All Television &. Home cinema products ›
-*   Televisions
-*   Home Theater &. Sound Bars
-*   Projectors
-*   Blu-ray &. DVD Players
-
-View All Audio ›Audio
-
-*   All Audio products ›
-*   Headphones
-*   MP3 Players
-*   Wireless Speakers
-*   High-Resolution Audio
-*   Audio Systems
-*   Digital Voice Recorders
-*   Boomboxes, Radios &. Portable CD Players
-*   Home Theater
-
-View All Cameras ›Cameras
-
-*   All Camera products ›
-*   Interchangeable-lens Cameras
-*   Lenses
-*   Compact Cameras
-*   Lens-Style Cameras
-
-View All Mobile, Tablets &. Smart Devices  ›Mobile, Tablets &. Smart Devices 
-
-*   All Mobile, Tablets &. Smart Devices products ›
-*   Cell Phones
-*   Tablets
-*   Wearable Technology
-*   Digital Paper
-
-View All Video Cameras ›Video Cameras
-
-*   All Video Cameras products ›
-*   Camcorders
-*   Action Cameras
-*   Music Video Recorders
-*   Professional Camcorders
-
-View All Car &. Marine ›Car &. Marine
-
-*   All Car &. Marine products ›
-*   In-Car Receivers &. Players
-*   In-Car Speakers &. Amplifiers
-*   Marine Audio
-*   Automotive OEM Audio
-
-View All Energy, Storage &. Cables ›Energy, Storage &. Cables
-
-*   All Energy, Storage &. Cables products ›
-*   Batteries
-*   Memory Cards &. Flash Drives
-*   Cables
-
-View All All Electronics See Professional Products Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up
-
-*   PlayStation
-
-Entertainment
-
-*   Video Games
-*   Movies &. TV Shows
-*   Music
-
-Phone and Tablet AppsThe best of what Sony has to offer on iOS or Android. Download our apps. Support
-
-*   Support
-*   Register a Product
-*   Community
-
-Your browser does not support JavaScript! Check Out the Upgrades Stark Industries Made to Spider-Man’s Suit
+search Your browser does not support JavaScript! Check Out the Upgrades Stark Industries Made to Spider-Man’s Suit
 
 Watch “Spider-Man: Homecoming” This Week
 
