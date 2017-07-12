@@ -9,10 +9,10 @@ VH1 Menu VH1
     *   Love &. Hip Hop Atlanta
     *   Basketball Wives
     *   Daytime Divas
-    *   RuPaul's Drag Race
-    *   Trailblazer Honors
     *   Black Ink Crew Chicago
-    *   T.I &. Tiny: The Family Hustle
+    *   Love &. Hip Hop Hollywood
+    *   Signed
+    *   RuPaul's Drag Race
     *   Brunch With TiffanySee all Shows
 *   Pop Culture
     *   Music
@@ -30,7 +30,7 @@ VH1 Menu VH1
 *   TV Provider Sign Out
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Atlanta Basketball Wives Daytime Divas RuPaul's Drag Race Trailblazer Honors Black Ink Crew Chicago T.I &. Tiny: The Family Hustle Brunch With Tiffany See all Shows
+*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Atlanta Basketball Wives Daytime Divas Black Ink Crew Chicago Love &. Hip Hop Hollywood Signed RuPaul's Drag Race Brunch With Tiffany See all Shows
 *   Pop Culture Music Celebrity Movies TV Around The Web Video See all Pop Culture
 *   Life Beauty &. Health Style Relationships Video See all Life
 *   Watch Live TV
