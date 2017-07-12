@@ -106,11 +106,11 @@ Featured Topics*   Slideshow Symptoms of ADHD in Children
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Dirty Pool: What's Really in the Water?
-    *   Clif Bars Recalled
-    *   Sleep Problems: A Warning Sign of Alzheimer's?
-    *   Cheaper Alternatives to Hearing Aids?
-    *   Popular Heartburn Meds May Raise Death Risk
+    *   Recurring Gut Infections on the Rise
+    *   Snortable Chocolate Raises Concerns
+    *   Flesh-Eating Bacteria Warning
+    *   Daily Coffee May Help You Live Longer
+    *   Sleep Disturbances Linked to Alzheimer’s Risk
     
     Experts &. Community
     *   Message Boards
