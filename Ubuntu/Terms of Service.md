@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Storage management in LXD 2.15 ›
+*   Top 10 snaps in June ›
+*   Robot development made easy with Husarion CORE2-ROS running Ubuntu ›
+*   TechnoSec and Ubuntu Core help DE.OL transition to a smart factory ›
 *   MAAS Development Summary – July 3rd – 14th ›
-*   Ubuntu Core: Making a factory image with private snaps ›
-*   Windows 10 loves Ubuntu ›
-*   Netplan by default in 17.10 ›
-*   Canonical’s support for Kubernetes 1.7 on Ubuntu released ›
