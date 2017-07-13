@@ -7,7 +7,7 @@ The Social Network for **meeting** new people
 
   TERMS OF SERVICE Jump to Privacy Policy Terms of Service
 
-Updated as of July 11, 2017
+Updated as of July 12, 2017
 
 WE DO NOT CONDUCT CRIMINAL BACKGROUND CHECKS. PLEASE BE SAFE WHEN INTERACTING WITH USERS. Read our Online Safety tips.
 
@@ -83,7 +83,7 @@ I) Stars and Cash Out
 
 Each user who receives a Gift from another user during a video broadcast will get a number of Stars as determined by Company. By the end of 2017, Company intends to offer a cash-out option with respect to Stars. When Company enables said feature, users will be able to redeem Stars for cash, provided that a user must cash out at least two hundred dollars ($200) worth of Stars for each request, and may cash out only once per day. Company may change the cash-out minimum increments and frequency from time to time, and it reserves the right to do so. Company will also determine the rate of redemption in its sole discretion and it may change the rate from time to time. The rate will be displayed at the point of redemption. You agree that Company has the absolute right to manage, modify, and/or eliminate such redemption feature in its sole discretion. The cost of the Gifts that you give to another user may not correlate to the revenue such user is entitled to receive from Company.
 
-Company intends to use a third party vendor (Tipalti, Inc.) for cash redemption, and users wishing to redeem Stars for cash must 1) have a valid PayPal account using the same email as the user’s Company account, 2) must agree to said vendor’s terms of service, as well as its policies and procedures, and 3) bear any charges that said vendor may impose. User understands that all information submitted during the cash out process will be stored by vendor on vendor’s servers, and will not be stored by or under the control of Company. User releases Company from any and all liability associated with information submitted to Company’s third party vendor, including, without limitation, liability related to the unauthorized release or use of user’s information. Company reserves the right to verify your identity and eligibility to receive cash redemptions prior to payment.
+Company intends to use a third-party vendor (Tipalti, Inc.) for cash redemption, and users wishing to redeem Stars for cash must 1) have a valid PayPal account, 2) must agree to said vendor’s terms of service, as well as its policies and procedures, and 3) bear any charges that said vendor may impose. User understands that all information submitted during the cash out process will be stored by vendor on vendor’s servers, and will not be under the control of Company. User understands that Company has no control over our third-party vendor’s practices and user releases Company from any and all liability associated with information submitted to Company’s third party vendor, including, without limitation, liability related to the unauthorized release or use of user’s information. Company reserves the right to verify your identity and eligibility to receive cash redemptions prior to payment.
 
 All Stars in your account are forfeited if you delete your account or your account is terminated for any reason.
 
@@ -361,11 +361,11 @@ Users with questions about these Terms of Service and any of the above statement
 
 PRIVACY POLICY
 
-Updated as of July 11, 2017
+Updated as of July 12, 2017
 
 How Our Service Works
 
-1 The Meet Group (“we” “us” “our” or “Company”) is dedicated to respecting the privacy of its visitors, customers, and users (“Users”) of Tagged, as well as other Company brands, products and services (the “Services”). When you visit and interact with the Services you may provide information about yourself or your opinions, and it is wise and prudent to be aware of the personal information that you are sharing. 2 We understand this and we have established this Privacy Policy (“Policy) to explain how we collect information from you and how this information is used. We have created side summaries to help you easily locate specific terms within this policy. 3 These summaries are for reference only and in the event that there is a discrepancy between this Privacy Policy and the language of the side summaries, the Privacy Policy will prevail.
+1 The Meet Group, Inc. (“we” “us” “our” or “Company”) is dedicated to respecting the privacy of its visitors, customers, and users (“Users”) of Tagged, as well as other Company brands, products and services (the “Services”). When you visit and interact with the Services you may provide information about yourself or your opinions, and it is wise and prudent to be aware of the personal information that you are sharing. 2 We understand this and we have established this Privacy Policy (“Policy) to explain how we collect information from you and how this information is used. We have created side summaries to help you easily locate specific terms within this policy. 3 These summaries are for reference only and in the event that there is a discrepancy between this Privacy Policy and the language of the side summaries, the Privacy Policy will prevail.
 
 Who is Eligible to Use the Services
 
@@ -483,7 +483,7 @@ How We Communicate With You
 
 No Spam Policy
 
-49 The Company is opposed to spam. Our No Spam Policy and Terms of Service prohibit all Users from engaging in any activity on our Services involving spam. 50 Violations of these prohibitions may result in immediate termination of service and legal action against the User. The Company’s Terms of Service expressly prohibit Users from uploading, posting, emailing, transmitting or otherwise making available junk mail, commercial ads, or other form of commercial solicitation on the Services or through the Company’s services. 51 A violation of our spam policies and/or any unauthorized use of the Company’s computer systems could result in the violation of certain federal and state laws.
+49 The Company is opposed to spam. This No Spam Policy and Terms of Service prohibit all Users from engaging in any activity on our Services involving spam. 50 Violations of these prohibitions may result in immediate termination of service and legal action against the User. The Company’s Terms of Service expressly prohibit Users from uploading, posting, emailing, transmitting or otherwise making available junk mail, commercial ads, or other form of commercial solicitation on the Services or through the Company’s services. 51 A violation of our spam policies and/or any unauthorized use of the Company’s computer systems could result in the violation of certain federal and state laws.
 
 Change of Ownership
 
@@ -501,11 +501,11 @@ California Rights {#california\_rights} 55
 
 Contacting Us
 
-56 If you have any questions about our Privacy Policy or how to access your personal information, you can contact us by sending your request by mail to Member Services, The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938 or by emailing support@themeetgroup.com..
+56 If you have any questions about our Privacy Policy or how to access your personal information, you can contact us by sending your request by mail to Member Services, The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938 or by emailing support@themeetgroup.com.
 
 **YOUR USE OF THE SERVICES SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY.**
 
-Effective Date July 11, 2017
+Effective Date July 12, 2017
 
 1.  Our Privacy Policy describes what information we collect and how we use it. ↩︎
     
