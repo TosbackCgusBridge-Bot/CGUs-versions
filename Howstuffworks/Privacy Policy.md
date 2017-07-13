@@ -244,11 +244,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Male Cockatoos Woo Their Ladies With Impressive Drum Solos**
+**Why the Vatican Says No to Gluten-Free Communion Wafers**
 
-**Why Just 5% of Americans Account for 50% of U.S. Health Care Spending**
+**New Species of Glass Frog Is So Transparent You Can See Its Heart**
 
-**We Finally Know Why Ancient Roman Concrete Outlasts Our Own**
+**Why Do We Love World Records So Much?**
 
 About Us
 
