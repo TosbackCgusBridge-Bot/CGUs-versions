@@ -3,11 +3,7 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
-    *   $5 RIOT TEES
     *   TRENDING
-    *   Americana
-    *   Festival Vibes
-    *   Swim
     *   Limited Edition
     *   Uniform
     *   Basic Essentials
@@ -50,11 +46,8 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
-    *   $5 RIOT TEES
     *   TAPOUT
     *   TRENDING
-    *   Americana
-    *   Summer Retreat
     *   Stretch Shop
     *   Limited Edition
     *   Uniform
@@ -78,7 +71,6 @@ Aéropostale
     *   Joggers + Sweats
     
     *   JACKETS + COATS
-    *   Swim
     *   ACCESSORIES
     *   SHOES
 *   Active
@@ -113,7 +105,6 @@ Aéropostale
     
     *   BRAS
     *   SWIM
-    *   ACCESSORIES
     *   CLEARANCE
     
 *   Clearance
