@@ -429,7 +429,7 @@ Gift Cards/Services
 Contact Us Guest Services:
 
 Phone: 800.607.9788  
-Mon-Fri 9am - 10pm CT  
+Mon-Fri 8am - 10pm CT  
 Sat 8am - 10pm CT  
 Sun 12pm - 6pm CT  
 Email: guest.services@buckle.com  
