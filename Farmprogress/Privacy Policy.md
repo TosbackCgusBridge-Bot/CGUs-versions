@@ -42,11 +42,11 @@ Menu Log In or Register
 *   Log In
 *   Register
 
-Recent Recent Grain cart rebate, irrigation tech, mowers and more Jul 11, 2017 Microsoft proposes plan to eliminate rural broadband gap Jul 11, 2017 6 lessons from this topsy-turvy season Jul 11, 2017 50 cases of PEDv reported in Manitoba Jul 11, 2017 USDA: Corn drops 3 points to 65% g/e, soybeans down 2 to 62% Jul 10, 2017 Featured When hail hits crop, tough decisions need to be made Jun 26, 2017 Dicamba application window closing Jun 26, 2017 Ash borer in more than half of Iowa’s counties Jun 27, 2017 Making small grains work Jun 23, 2017 Top stories Fear of drought mounts for some Iowa farmers Jul 11, 2017 Areas of the state that missed out on rain last week, especially southeast Iowa, are quite dry. Palmer amaranth eradication requires early identification Jul 11, 2017 Cropping Systems: If you can identify Palmer amaranth, you’re one... Pork price reporting will be enhanced by USDA Jul 11, 2017 Agricultural Marketing Service will add new category that will... Do you want to make a profit?
+Recent Recent 8 things about temperature inversion you should know now Jul 13, 2017 Making data collection and use easier Jul 12, 2017 Does dicamba drift cause soybean yield loss? Jul 12, 2017 A new kind of propane engine Jul 12, 2017 Watch for summer insects on corn, soybeans Jul 12, 2017 Featured When hail hits crop, tough decisions need to be made Jun 26, 2017 Dicamba application window closing Jun 26, 2017 Ash borer in more than half of Iowa’s counties Jun 27, 2017 Making small grains work Jun 23, 2017 Top stories Scout corn now to manage late-season challenges Jul 12, 2017 Check fields in midsummer for root development and disease issues. New standard for antibiotic-free feed production Jul 12, 2017 Iowa feed manufacturer introduces antibiotic-free, all-vegetable... Better communication could lead to improved water quality Jul 12, 2017 Iowa Learning Farms: Engaging participants in small group... Do you want to make a profit?
 
 This free guide from Penton Agriculture offers 5 ways to manage risk on the farm.
 
-GET IT NOW Workshops to certify advisers on prairie strips Jul 11, 2017 Iowa farmers plant 3% less corn, 5% more soybeans Jul 10, 2017 market overview Markets:View All Commodities  
+GET IT NOW Fear of drought mounts for some Iowa farmers Jul 11, 2017 Palmer amaranth eradication requires early identification Jul 11, 2017 market overview Markets:View All Commodities  
 Data provided by iNet Solutions Group, Inc. All prices delayed 10 minutes.
 
 Sign Up for the Wallaces Farmer Update newsletter today!
