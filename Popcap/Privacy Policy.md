@@ -5,7 +5,7 @@ Effective Date: November 28, 2016
 
 Your privacy is important to us, and we take our responsibility of caring for it seriously. This policy describes what information EA collects when you use the mobile, online and downloadable products and services ("products") offered by EA and its subsidiaries. For a list of our subsidiaries, click https://www.sec.gov/Archives/edgar/data/712515/000071251516000111/ex-211subsidiariesofthere.htm. By using our products, you consent to this policy.
 
-EA participates in the EU-U.S. Privacy Shield framework. To learn more visit https://tos.ea.com/legalapp/WEBPRIVACYSHIELD/US/en/PC/.
+EA participates in the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. To learn more visit https://tos.ea.com/legalapp/WEBPRIVACYSHIELD/US/en/PC/.
 
 TABLE OF CONTENTS
 
