@@ -244,11 +244,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Why the Vatican Says No to Gluten-Free Communion Wafers**
+**Taking a Photo of Something Makes Donating It Easier**
 
-**New Species of Glass Frog Is So Transparent You Can See Its Heart**
+**Climate Change Will Make the United States Poorer, Hotter and More Unequal**
 
-**Why Do We Love World Records So Much?**
+**Scientists Have Invented a Battery-free Cell Phone**
 
 About Us
 
