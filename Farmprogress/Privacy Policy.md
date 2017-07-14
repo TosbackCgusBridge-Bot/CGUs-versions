@@ -42,11 +42,11 @@ Menu Log In or Register
 *   Log In
 *   Register
 
-Recent Recent 8 things about temperature inversion you should know now Jul 13, 2017 Making data collection and use easier Jul 12, 2017 Does dicamba drift cause soybean yield loss? Jul 12, 2017 A new kind of propane engine Jul 12, 2017 Watch for summer insects on corn, soybeans Jul 12, 2017 Featured When hail hits crop, tough decisions need to be made Jun 26, 2017 Dicamba application window closing Jun 26, 2017 Ash borer in more than half of Iowa’s counties Jun 27, 2017 Making small grains work Jun 23, 2017 Top stories Scout corn now to manage late-season challenges Jul 12, 2017 Check fields in midsummer for root development and disease issues. New standard for antibiotic-free feed production Jul 12, 2017 Iowa feed manufacturer introduces antibiotic-free, all-vegetable... Better communication could lead to improved water quality Jul 12, 2017 Iowa Learning Farms: Engaging participants in small group... Do you want to make a profit?
+Recent Recent Monsanto officials add their perspective on dicamba issues this season Jul 13, 2017 Missouri lifts dicamba ban, new restrictions in place Jul 13, 2017 8 things about temperature inversion you should know now Jul 13, 2017 USDA study finds changes in land use impact bee habitat Jul 13, 2017 New dicamba regulations issued for Tennessee Jul 13, 2017 Featured When hail hits crop, tough decisions need to be made Jun 26, 2017 Dicamba application window closing Jun 26, 2017 Ash borer in more than half of Iowa’s counties Jun 27, 2017 Making small grains work Jun 23, 2017 Top stories Large hog supplies should be manageable Jul 13, 2017 Livestock Outlook: Strong demand helps bolster hog prices. Soybeans disappearing from Iowa bins Jul 13, 2017 Farmers are selling stored soybeans to make way for another record... Scout corn now to manage late-season challenges Jul 12, 2017 Check fields in midsummer for root development and disease issues. Do you want to make a profit?
 
 This free guide from Penton Agriculture offers 5 ways to manage risk on the farm.
 
-GET IT NOW Fear of drought mounts for some Iowa farmers Jul 11, 2017 Palmer amaranth eradication requires early identification Jul 11, 2017 market overview Markets:View All Commodities  
+GET IT NOW New standard for antibiotic-free feed production Jul 12, 2017 Better communication could lead to improved water quality Jul 12, 2017 market overview Markets:View All Commodities  
 Data provided by iNet Solutions Group, Inc. All prices delayed 10 minutes.
 
 Sign Up for the Wallaces Farmer Update newsletter today!
