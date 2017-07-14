@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card Make Out Like A Bandit, With These Promotions.
+        Give a Buckle Gift card Departing west or just taking a Daytrip? Shop New Arrivals For Your Next Vacay!
 *   Men
     *   *   Featured
         
@@ -136,7 +136,7 @@
         
           
           
-        Give a Buckle Gift card Make Out Like A Bandit, With These Promotions.
+        Give a Buckle Gift card Departing west or just taking a Daytrip? Shop New Arrivals For Your Next Vacay!
 *   Kids
     *   *   Featured
         
@@ -158,7 +158,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Make Out Like A Bandit, With These Promotions.
+        Give a Buckle Gift card Departing west or just taking a Daytrip? Shop New Arrivals For Your Next Vacay!
 *   Jeans
     *   *   Women's Jeans
         
@@ -188,7 +188,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Make Out Like A Bandit, With These Promotions.
+        Give a Buckle Gift card Departing west or just taking a Daytrip? Shop New Arrivals For Your Next Vacay!
 *   New
     *   *   Featured New
         
@@ -227,7 +227,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Make Out Like A Bandit, With These Promotions.
+        Give a Buckle Gift card Departing west or just taking a Daytrip? Shop New Arrivals For Your Next Vacay!
 *   Sale
     *   *   Women's Sale
         
@@ -270,7 +270,7 @@
         
           
           
-        Give a Buckle Gift card Make Out Like A Bandit, With These Promotions.
+        Give a Buckle Gift card Departing west or just taking a Daytrip? Shop New Arrivals For Your Next Vacay!
 
 × Privacy &. Security
 
@@ -513,6 +513,8 @@ GUEST SERVICES
 *   Store Feedback
 
 STAY CONNECTED
+
+RESERVE IN STORE
 
 1.  © 2017 Buckle Inc.
 2.  Privacy Policy
