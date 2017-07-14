@@ -135,9 +135,9 @@ Close
 
 Red Carpet Photos
 
-Your #SpiderManHomecoming ticket has the power to earn you Sony Rewards points.
+#SpiderManHomecoming is Certified Fresh on @RottenTomatoes! Experience why in “the best Spider-Man yet” TODAY!
 
-2017-07-11 03:00:55+00:00
+2017-07-13 07:11:28+00:00
 
 View Tweet
 
@@ -207,9 +207,9 @@ Memories Captured
 
 View NEW! Wide-Angle Full-Frame E-Mount Lenses. The FE 16-35 mm F2.8 GM &. the FE 12-24 mm F4 G on Instagram
 
-Take a look at last weeks best entries to the @Sony World Photography Awards.
+Xperia Touch blurs the lines between digital and physical technology. Discover more here.
 
-2017-07-11 00:52:19+00:00
+2017-07-13 21:57:05+00:00
 
 View Tweet
 
@@ -281,9 +281,9 @@ Close
 
 Fund KOOV Today
 
-Introducing the Limited Edition Destiny 2 PS4 Pro Bundle, featuring the Glacier White PS4 Pro.
+Learn how you can auto upload saved game data from a PS4 system to Online Storage.
 
-2017-07-10 23:01:00+00:00
+2017-07-13 08:30:03+00:00
 
 View Tweet
 
