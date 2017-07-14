@@ -1,38 +1,50 @@
+Skip to content Skip to navigation × cancel Country &. Language Selector Search Countries Search Languages Save us United States English Search for Toggle navigation Toggle navigation Toggle navigation Search for
+
 *   Privacy Policy
-    *   Current Privacy Policy
-    *   Children’s Online Privacy Policy
-    *   Cookies Policy
-    *   MyMagic+ at Walt Disney World Resort
-*   Your CA Privacy Rights
+    *   Privacy Policy
+    *   Your California Privacy Rights
+*   For Parents
+    *   For Parents
+    *   Children’s Privacy Policy
+    *   Internet Safety
+
 *   Privacy Controls
+    *   Privacy Controls
     *   Online Tracking and Advertising
     *   Communication Choices
-*   Internet Safety
 *   Contact Us
+    *   Contact Us
 
-Privacy Policy    Current Privacy Policy    Children’s Online Privacy Policy    Cookies Policy    MyMagic+ at Walt Disney World ResortYour CA Privacy RightsPrivacy Controls    Online Tracking and Advertising    Communication ChoicesInternet SafetyContact Us The Walt Disney Company Privacy Center
+Search Privacy Policy
 
-The Walt Disney Company has a rich tradition of bringing great stories, characters and experiences to our guests around the world, and our sites and applications are created to entertain and connect guests with the best that we have to offer on the platforms and devices our guests prefer.
+The Walt Disney Company has a rich tradition of bringing great stories, characters and experiences to our guests around the world, and our sites and applications are created to entertain and connect guests with the best that we have to offer on the platforms and devices our guests prefer.
 
 Our privacy policy is designed to provide transparency into our privacy practices and principles, in a format that our guests can navigate, read and understand. We are dedicated to treating your personal information with care and respect.
 
-Privacy Policy Quick Links
+Learn More
 
-1.  Types of Information We Collect
-2.  How We Collect Your Information
-3.  Use of Your Information by The Walt Disney Family of Companies
-4.  Sharing Your Information with Other Companies
-5.  Your Controls and Choices
-6.  Children’s Privacy
-7.  Data Security and Integrity
-8.  Data Transfers, Storage and Processing Globally
-9.  Changes to this Privacy Policy
-10.  Comments and Questions
-11.  Definitions
+Privacy Policy Online Tracking and Advertising
 
-Read the full privacy policy.
+We and certain service providers operating on our behalf collect information about your activity, or activity on devices associated with you, on our sites and applications using tracking technologies such as cookies, Flash cookies and Web beacons.
 
-© Disney. All rights reserved.
+Learn More
 
-*   Terms of Use
+Online Tracking and Advertising Children’s Privacy Policy
+
+The Walt Disney Family of Companies (“TWDC”), including for example Club Penguin and MarvelKids, is committed to protecting the privacy of children who use our sites and applications.
+
+Learn More
+
+Children’s Privacy Policy Contact Us
+
+Learn More
+
+Contact Us © Disney. All rights reserved
+
 *   Interest-Based Ads
+*   Children’s Online Privacy Policy
+*   Your California Privacy Rights
+*   Terms of Use
+*   Privacy Policy
+
+Back to Top back-to-top
