@@ -105,6 +105,7 @@ Aéropostale
     
     *   BRAS
     *   SWIM
+    *   ACCESSORIES
     *   CLEARANCE
     
 *   Clearance
@@ -146,10 +147,8 @@ Aéropostale
     
     *   GUYS
     *   Printed
-    *   Denim Shorts
     
     *   LIVE LOVE DREAM
-    *   Retro Stripes
     *   Black White &. Mesh Allover
 
 *   Go
