@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: June 12, 2017**
+**Last Revised: July 13, 2017**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -220,6 +220,8 @@ You acknowledge and agree that where refunds are issued to your Payment Method, 
 In the event a refund is issued to your Payment Method and the payment provider, payment processor or individual issuing bank associated with your Payment Method imposes any limitations on refunds, including but not limited to, limitations as to the timing of the refund or the number of refunds allowed, then GoDaddy, in its sole and absolute discretion, reserves the right to issue the refund either (i) in the form of an in-store credit. or (ii) via issuance of a GoDaddy check, which will be sent to the mailing address on file for your Account.  GoDaddy also has the right, but not the obligation, to offer an in-store credit for customers seeking refunds, even if there are no limitations on refunds imposed by the Payment Method.  For the avoidance of doubt, any and all refunds processed via the issuance of either in-store credits or a GoDaddy check are solely within GoDaddy’s discretion and are not available at customer request.
 
 If you are being billed on a monthly basis, your monthly billing date will be based on the date of the month you purchased the Services unless that date falls after the 28th of the month, in which case your billing date will be the 28th of each month. 
+
+Also, where in GoDaddy's estimation, it believes you owe it money for any reason, GoDaddy reserves the right to offset any payments into your Account until GoDaddy is made whole.
 
 In order to ensure that you do not experience an interruption or loss of Services, all Services are offered on automatic renewal.  Except for reasons described below in this section, automatic renewal automatically renews the applicable Service upon expiration of the then curent term for a renewal period equal in time to the most recent service period (except for domain names which may renew for the original service period).  For example, if your last service period is for one year, your renewal period will typically be for one year.  However, in the event renewal with the Payment Method on file fails, GoDaddy may attempt to renew the applicable service for a period less than the original subscription period to the extent necessary for the transaction to succeed. 
 
@@ -831,5 +833,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 6/12/17  
+Revised: 7/13/17  
 Copyright © 2005-2017 GoDaddy.com, LLC All Rights Reserved.
