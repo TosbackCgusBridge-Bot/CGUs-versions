@@ -31,7 +31,7 @@ Up to
 *   Overview
 *   Photos &. Videos
 *   Compare
-*   Build Your Own
+*   Build &. Price
 
 BRZ Premium shown
 
@@ -48,7 +48,7 @@ Up to
 *   Overview
 *   Photos &. Videos
 *   Compare
-*   Build Your Own
+*   Build &. Price
 
 2.0i Sport shown
 
@@ -65,7 +65,7 @@ Up to
 *   Overview
 *   Photos &. Videos
 *   Compare
-*   Build Your Own
+*   Build &. Price
 
 2018 WRX Limited shown
 
@@ -82,7 +82,7 @@ Up to
 *   Overview
 *   Photos &. Videos
 *   Compare
-*   Build Your Own
+*   Build &. Price
 
 Legacy 3.6R Limited shown
 
@@ -99,7 +99,7 @@ Up to
 *   Overview
 *   Photos &. Videos
 *   Compare
-*   Build Your Own
+*   Build &. Price
 
 Forester 2.5i Touring shown
 
@@ -116,15 +116,15 @@ Up to
 *   Overview
 *   Photos &. Videos
 *   Compare
-*   Build Your Own
+*   Build &. Price
 
 Crosstrek 2.0i Premium shown
 
-Outback $25,645\* starting price 2017 Outback
+Outback $25,895\* starting price 2018 Outback
 
 Starting at
 
-$25,645 MSRP
+$25,895 MSRP
 
 Up to
 
@@ -133,9 +133,9 @@ Up to
 *   Overview
 *   Photos &. Videos
 *   Compare
-*   Build Your Own
+*   Build &. Price
 
-Outback 2.5i Limited shown
+Outback 3.6R Limited shown
 
 All Vehicles Find Your Subaru All Vehicles Certified Pre-Owned Certified Pre-Owned
 
@@ -332,7 +332,7 @@ Explore Subaru
 *   Vehicles
 *   View a Brochure
 *   All Things Subaru
-*   Build Your Own
+*   Build &. Price
 *   Compare Vehicles
 *   Find a Retailer
 *   Certified Pre-Owned
@@ -407,6 +407,8 @@ Legal Disclaimers
 \* Manufacturer's suggested retail price does not include destination and delivery charges, tax, title and registration fees. Destination and delivery includes handling and inland freight fees and may vary in some states. Prices, specifications, options, features and models subject to change without notice.
 
 \*\* EPA-estimated fuel economy. Actual mileage may vary.
+
+\*\*\*Limited warranties are contingent on age and mileage. Whatever comes first concludes the warranty.
 
 Subaru has the utmost respect for the environment and is a proud partner of Leave No Trace. Care was taken not to harm the environment when taking this photo.
 
