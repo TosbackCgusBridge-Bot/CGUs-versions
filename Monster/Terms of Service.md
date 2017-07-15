@@ -172,6 +172,14 @@ b) to make unsolicited phone calls or faxes or send unsolicited mail, email, or 
 
 **In order to ensure a safe and effective experience for all of our customers, Monster reserves the right to limit the amount of data (including resume views) that may be accessed by You in any given time period. These limits may be amended in Monster’s sole discretion from time to time.**
 
+**Use of TalentBin Profiles**
+
+You shall use the TalentBin services and TalentBin profiles as provided in these Terms, any contract You have with Monster, and the in accordance with the following:
+
+1.  You may only use the TalentBin services to identify candidates for possible recruitment and make initial contact with such candidates.
+2.  You may not use the TalentBin profiles as a factor in determining any consumer’s eligibility for employment, retention, or promotion.
+3.  You may not review the TalentBin profiles of persons employed by You or persons who have already expressed interest in employment with You outside of the TalentBin services.
+
 4\. Additional terms applicable to Job Seekers.
 
 When You register with any Monster Site, You will be asked to create an account and provide Monster with certain information including, without limitation, a valid email address (Your "Information").
