@@ -82,10 +82,11 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         
     
     *   Investor resources
-        *   Contact our registrar
+        *   Our investment case
+        *   Frequently asked questions - investor relations
         *   Investor contacts
         *   Equity analyst coverage
-        *   Frequently asked questions - investor relations
+        *   Contact our registrar
     *   Fixed income investors
         *   Group securities
         *   Subsidiary company securities
