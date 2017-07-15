@@ -276,6 +276,7 @@ Menu
         *   How curious minds saved a medicine from being left in the lab
         *   Brian Johns goes boldly for people living with HIV
         *   Thank you for calling GSK. Meet Paul, the voice at the end of the line.
+        *   Jamie's story: I control my asthma, it doesn’t control me
     *   How we do business
         *   How we do business
         *   Changing the way we work with healthcare professionals
