@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server Development Summary – 14 Jul 2017 ›
+*   Ubuntu Desktop Weekly Update: July 14, 2017 ›
 *   Ubuntu Foundations Development Summary: July 13, 2017 ›
 *   Storage management in LXD 2.15 ›
 *   Top 10 snaps in June ›
-*   Robot development made easy with Husarion CORE2-ROS running Ubuntu ›
-*   TechnoSec and Ubuntu Core help DE.OL transition to a smart factory ›
