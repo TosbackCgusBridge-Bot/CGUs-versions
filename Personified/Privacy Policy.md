@@ -10,14 +10,17 @@ Sign In or Sign Up
 
 *   Home
 
-*   Post Jobs
-*   Search Resumes
-*   Products and Resources
+*   Post Jobs &. Search Resumes
+    *   Value Plans
     *   Post Jobs
     *   Search Resumes
-    *   Browse Products
+*   Products and Resources
+    *   Value Plans
+    *   Post Jobs
+    *   Search Resumes
+    *   Software &. Services
     *   Resource Center
-*   Browse Products
+*   Software &. Services
     *   Aurico WebACE™  
         Drug &. Background Screening
     *   CareerBuilder Search  
