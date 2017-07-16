@@ -4,6 +4,7 @@ Aéropostale
     
     *   NEW ARRIVALS
     *   TRENDING
+    *   Shark Week Tees
     *   Limited Edition
     *   Uniform
     *   Basic Essentials
@@ -48,6 +49,7 @@ Aéropostale
     *   NEW ARRIVALS
     *   TAPOUT
     *   TRENDING
+    *   Shark Week Tees
     *   Stretch Shop
     *   Limited Edition
     *   Uniform
@@ -102,7 +104,6 @@ Aéropostale
     *   Hipster
     *   Boy Short
     *   Bikini
-    *   Seamless
     
     *   BRAS
     *   SWIM
