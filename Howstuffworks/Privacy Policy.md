@@ -244,11 +244,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
+**Which Is More Dangerous: Motorcycles or Cars?**
+
 **Puzzling, Peculiar and Phenomenal: Our Best Stories You Might Have Missed This Week**
 
 **Increasing Global Demand for Food May Slow in Coming Decade**
-
-**To Make Up After a Row, Men Want Sex, Women Want Quality Time**
 
 About Us
 
