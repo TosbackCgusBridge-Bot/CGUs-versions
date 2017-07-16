@@ -7,18 +7,18 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   SHOP BY BRAND
     *   SHOP BY AGE
     
-    *   Thomas &. Friends Clearance
     *   Baby's First Birthday
     *   What’s New
     *   Gift Sets
     *   Tech Toys
-    
     *   Gifts for New Baby
+    
     *   As Seen On TV
     *   Fan Faves
     *   Exclusives
     *   Award Winners
     *   Clearance
+    *   Thomas &. Friends Clearance
     
     See all
     
