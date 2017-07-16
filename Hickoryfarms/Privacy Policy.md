@@ -211,8 +211,8 @@ Security
 
 About Us
 
-*   The Hickory Farms Story
 *   Store Locator
+*   The Hickory Farms Story
 *   Employment Opportunities
 
 Contact Us
