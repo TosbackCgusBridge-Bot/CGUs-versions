@@ -108,7 +108,7 @@ Featured Topics*   Slideshow Symptoms of ADHD in Children
     
     *   Recurring Gut Infections on the Rise
     *   Snortable Chocolate Raises Concerns
-    *   Flesh-Eating Bacteria Warning
+    *   Alabama Warns About Dangerous Vibrio Bacteria
     *   Daily Coffee May Help You Live Longer
     *   Sleep Disturbances Linked to Alzheimer’s Risk
     
