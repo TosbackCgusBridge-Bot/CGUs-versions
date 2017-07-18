@@ -1,4 +1,4 @@
-Sencha
+Sencha.com
 
 *   Products
     *   Sencha Platform
@@ -140,7 +140,7 @@ Contact Us
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at privacy@sencha.com.  
 
-Sencha
+Sencha.com
 
 US: 1 (800) 212-2802
 
