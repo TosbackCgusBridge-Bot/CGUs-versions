@@ -14,7 +14,6 @@ Fitbit
     *   Smart Fitness  
         Watches
         *   Fitbit Blaze™
-        *   Fitbit Surge™
     *   Smart Scale
         *   Fitbit® Aria®
     *   *   **FITBIT ACCESSORIES**
