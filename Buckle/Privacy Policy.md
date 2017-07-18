@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card Departing west or just taking a Daytrip? Shop New Arrivals For Your Next Vacay!
+        Give a Buckle Gift card What's Your Stance On These Socks? Shop All Socks.
 *   Men
     *   *   Featured
         
@@ -136,7 +136,7 @@
         
           
           
-        Give a Buckle Gift card Departing west or just taking a Daytrip? Shop New Arrivals For Your Next Vacay!
+        Give a Buckle Gift card What's Your Stance On These Socks? Shop All Socks.
 *   Kids
     *   *   Featured
         
@@ -158,7 +158,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Departing west or just taking a Daytrip? Shop New Arrivals For Your Next Vacay!
+        Give a Buckle Gift card What's Your Stance On These Socks? Shop All Socks.
 *   Jeans
     *   *   Women's Jeans
         
@@ -188,7 +188,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Departing west or just taking a Daytrip? Shop New Arrivals For Your Next Vacay!
+        Give a Buckle Gift card What's Your Stance On These Socks? Shop All Socks.
 *   New
     *   *   Featured New
         
@@ -227,7 +227,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Departing west or just taking a Daytrip? Shop New Arrivals For Your Next Vacay!
+        Give a Buckle Gift card What's Your Stance On These Socks? Shop All Socks.
 *   Sale
     *   *   Women's Sale
         
@@ -270,7 +270,7 @@
         
           
           
-        Give a Buckle Gift card Departing west or just taking a Daytrip? Shop New Arrivals For Your Next Vacay!
+        Give a Buckle Gift card What's Your Stance On These Socks? Shop All Socks.
 
 × Privacy &. Security
 
