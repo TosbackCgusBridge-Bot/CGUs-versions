@@ -6,7 +6,11 @@
 *   Careers
 *   Contact
 
-ZIFF DAVIS, LLC PRIVACY POLICY Effective April 7, 2017 Note: The Ziff Davis Privacy Policy has been updated. Please review the updated privacy policy carefully before using the Ziff Davis Services. By using any of the Ziff Davis Services, you consent to the terms of the updated Privacy Policy.
+ZIFF DAVIS, LLC PRIVACY POLICY Effective April 7, 2017
+
+Version Française
+
+Note: The Ziff Davis Privacy Policy has been updated. Please review the updated privacy policy carefully before using the Ziff Davis Services. By using any of the Ziff Davis Services, you consent to the terms of the updated Privacy Policy.
 
 If you have any questions about our Privacy Policy, you can contact us at ZDLegal1@ziffdavis.com **and include ‘Privacy Policy’ in the subject line.**
 
