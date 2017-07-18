@@ -42,11 +42,11 @@ Menu Log In or Register
 *   Log In
 *   Register
 
-Recent Recent This Week in Agribusiness, July 15, 2017 Jul 15, 2017 Arkansas, Missouri, Tennessee move to ameliorate dicamba drift Jul 14, 2017 7 ag stories you might have missed this week - July 14, 2017 Jul 14, 2017 Look for hog margins to turn lower in 2018 Jul 14, 2017 Simplifying tax code discussed at subcommittee hearing Jul 14, 2017 Featured When hail hits crop, tough decisions need to be made Jun 26, 2017 Dicamba application window closing Jun 26, 2017 Ash borer in more than half of Iowa’s counties Jun 27, 2017 Making small grains work Jun 23, 2017 Top stories Get set for 2017 Iowa State Fair Jul 14, 2017 Slideshow: Check out this year’s Top 11 attractions and plan to attend Aug. 10-20. Is Palmer paranoia a threat to conservation? Jul 14, 2017 Commentary: Doing away with conservation plantings and taking land... How does your fungicide work? Jul 14, 2017 Choose the right fungicide product for the right application timing. Do you want to make a profit?
+Recent Recent USDA: Corn drops 1 point to 64% g/e, soybeans down 1 to 61% Jul 17, 2017 Cargill's operating earnings up 85% in fourth quarter 2017 Jul 17, 2017 Syngenta's Agrisure Duracade trait approved by China Jul 17, 2017 China keeps trade deals coming Jul 17, 2017 13 ways tech will reinvent farming as we know it Jul 17, 2017 Featured When hail hits crop, tough decisions need to be made Jun 26, 2017 Dicamba application window closing Jun 26, 2017 Ash borer in more than half of Iowa’s counties Jun 27, 2017 Making small grains work Jun 23, 2017 Top stories China’s appetite for U.S. soybeans remains strong Jul 17, 2017 At a contract signing ceremony in Des Moines, Chinese buyers agree to purchase more than $5 billion worth of soy. Use social media to capture and track crop diseases Jul 17, 2017 Twitter campaign encourages farmers to tweet corn and soybean... SOIL 2017: Cultivating your investment Jul 17, 2017 Sustaining Our Iowa Land conference is geared toward farmland owners. Do you want to make a profit?
 
 This free guide from Penton Agriculture offers 5 ways to manage risk on the farm.
 
-GET IT NOW Large hog supplies should be manageable Jul 13, 2017 Soybeans disappearing from Iowa bins Jul 13, 2017 market overview Markets:View All Commodities  
+GET IT NOW Vote in Iowa corn checkoff director elections July 18 Jul 17, 2017 Get set for 2017 Iowa State Fair Jul 14, 2017 market overview Markets:View All Commodities  
 Data provided by iNet Solutions Group, Inc. All prices delayed 10 minutes.
 
 Sign Up for the Wallaces Farmer Update newsletter today!
