@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore Today's Headlines
 
-**Total Solar Eclipse on Aug. 21, 2017: When, Where and How to See It**
+**Willy, Nilly, Silly Old Bear Banned in China**
 
-**So Long George Romero and Thanks for the Zombies**
+**Still Searching for Bigfoot**
 
-**For a Carpool to Work, Don't Ride With Jerks, Says Study**
+**Unique Silk Physics Keeps Dangling Spiders From Twisting Wildly**
 
 About Us
 
