@@ -76,7 +76,6 @@ Revised 01-30-09
 *   Terms &. Conditions
 *   Tariff Library
 *   Internet Service Disclosure
-*   faqespanol
 
 Get Connected. See what's next for CenturyLink.
 
