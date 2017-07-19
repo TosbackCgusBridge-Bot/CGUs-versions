@@ -200,6 +200,7 @@
         *   Off the Shoulder
         *   Surf and Turf - Hybrid Shorts
         *   Treat Your Feet - Comfort Footbeds
+        *   SPECIAL PRICING - Get it before it's gone!
         
         *   Women's New
         
