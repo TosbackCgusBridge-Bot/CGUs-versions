@@ -5,7 +5,7 @@ you are looking for, please
 
 Privacy Policy
 
-Privacy Policy Last updated on: November 22, 2016
+Privacy Policy Last updated on: July 18, 2017
 
   
   
@@ -285,7 +285,7 @@ Yes. We may provide certain services that are available to you via your mobile p
 
   Are Telephone Calls Recorded?
 
-Yes. Telephone calls to or from our FULLBEAUTY Brands family of companies, including our customer service center, may be monitored and recorded for record-keeping, training and quality assurance purposes.
+Yes. Since approximately September 2003, telephone calls to or from our FULLBEAUTY Brands family of companies, including our customer service center, have been monitored and recorded for record-keeping, training, and quality assurance purposes. Since November 2014, the companiesâ interactive voice response system has included a message regarding this practice.
 
   Whom Do I Contact If I Have Additional Questions or Concerns About This Privacy Policy?
 
@@ -436,6 +436,10 @@ Indianapolis, IN 46201
 Email: GeneralCounsel@FBBrands.com
 
 Please also note that under Section 512(f) any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
+
+  WEBSITE ACCESSIBILITY
+
+If you require assistance in using this website, please contact us at the appropriate customer service number set forth in the chart above under the section entitled âPrivacy Policy â How to Access and Correct Information Collected?â. For customers with a hearing impairment, please use one of the TDD Hearing Impaired numbers provided.
 
   INTERNATIONAL ORDERS
 
