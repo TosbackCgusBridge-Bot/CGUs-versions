@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms U.S. saw 2nd warmest year to date on record and warmer-than-average June Nation has experienced 9 billion-dollar disasters so far, including 3 tornado outbreaks AROUND NOAA // Experimental model predicted tornado's path hours, not minutes, before it formed NOAA’s Greenhouse Gas Index up 40 percent since 1990 Drones at sea: Unmanned vehicles to expand data collection from far-flung locales Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event
+Enter Search Terms Globe had 2nd warmest year to date and 3rd warmest June on record Arctic and Antarctic sea-ice coverage remains small AROUND NOAA // Experimental model predicted tornado's path hours, not minutes, before it formed NOAA’s Greenhouse Gas Index up 40 percent since 1990 Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-NOAA
+iStock image
