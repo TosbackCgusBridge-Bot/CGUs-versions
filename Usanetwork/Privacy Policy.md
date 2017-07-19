@@ -29,9 +29,8 @@ Skip to main content
             9.  Sprout Sprout Sprout is the 24-hour preschool TV network that reflects real kids and the real worlds they are growing up in. Sprout
             10.  SYFY SYFY A leader in imagination-based entertainment, including year round original series, events, blockbuster movies, classic science fiction &. fantasy. SYFY
             11.  The Weather Channel Company The Weather Channel Company Provides millions of people every day with the world's best weather forecasts, content and data. The Weather Channel Company
-            12.  Universal HD Universal HD The best Universal movies and sports programming in high-definition. Universal HD
-            13.  UNIVERSO UNIVERSO Modern general entertainment for Latinos, bringing the world's top sports franchises and edgy, emotional programming to more than 40 million households. UNIVERSO
-            14.  USA Network USA Network A powerful portfolio of scripted and unscripted drama and comedy originals seen in more than 102 million U.S. homes. USA Network
+            12.  UNIVERSO UNIVERSO Modern general entertainment for Latinos, bringing the world's top sports franchises and edgy, emotional programming to more than 40 million households. UNIVERSO
+            13.  USA Network USA Network A powerful portfolio of scripted and unscripted drama and comedy originals seen in more than 102 million U.S. homes. USA Network
         4.  Digital Businesses
             1.  Craftsy Craftsy Craftsy is the preeminent online destination for passionate makers to learn, create and share. Craftsy
             2.  Fandango Fandango The nation's leading moviegoer destination. Sells tickets to more than 24,000 screens nationwide. Fandango
@@ -40,10 +39,11 @@ Skip to main content
             5.  Seeso Seeso A new streaming comedy channel offering original and library TV and Film content for $3.99 per month Seeso
             6.  SportsEngine SportsEngine Helping the world play smarter and live more, SportsEngine, Inc., an NBC Sports Group company, is the leading provider of Sport Life Management web software and mobile applications for youth, amateur, and professional sports. SportsEngine
         5.  Film
-            1.  Focus Features Focus Features Produces, acquires, and releases movies from rising and established talent and filmmakers. Offers a diverse slate for a wide range of moviegoers. Focus Features
-            2.  Universal Pictures Universal Pictures Creates and distributes theatrical and non-theatrical filmed entertainment for a growing global marketplace. Universal Pictures
-            3.  Universal Pictures Home Entertainment Universal Pictures Home Entertainment Universal Pictures Home Entertainment (UPHE) is a unit of Universal Pictures Universal Pictures Home Entertainment
-            4.  Universal Pictures International Universal Pictures International The international marketing and distribution division for Universal Pictures. Universal Pictures International
+            1.  DreamWorks Animation DreamWorks Animation DreamWorks Animation
+            2.  Focus Features Focus Features Produces, acquires, and releases movies from rising and established talent and filmmakers. Offers a diverse slate for a wide range of moviegoers. Focus Features
+            3.  Universal Pictures Universal Pictures Creates and distributes theatrical and non-theatrical filmed entertainment for a growing global marketplace. Universal Pictures
+            4.  Universal Pictures Home Entertainment Universal Pictures Home Entertainment Universal Pictures Home Entertainment (UPHE) is a unit of Universal Pictures Universal Pictures Home Entertainment
+            5.  Universal Pictures International Universal Pictures International The international marketing and distribution division for Universal Pictures. Universal Pictures International
         6.  Parks
             1.  Universal Orlando Resort Universal Orlando Resort Offers guests unique and popular entertainment experiences. Its renowned theme parks feature some of the world’s most thrilling film and TV based attractions. Universal Orlando Resort
             2.  Universal Studios Hollywood Universal Studios Hollywood Get ready for the ultimate Hollywood movie experience! Universal Studios Hollywood
@@ -93,7 +93,6 @@ Skip to main content
                 *   Sprout
                 *   SYFY
                 *   The Weather Channel Company
-                *   Universal HD
                 *   UNIVERSO
                 *   USA Network
         *   *   DIGITAL BUSINESSES
@@ -104,6 +103,7 @@ Skip to main content
                 *   Seeso
                 *   SportsEngine
             *   FILM
+                *   DreamWorks Animation
                 *   Focus Features
                 *   Universal Pictures
                 *   Universal Pictures Home Entertainment
