@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Things to consider when building a robot with open source ›
+*   How modelling helps you avoid getting a stuck OpenStack ›
+*   Hiri, the desktop snap that lets you use Microsoft Exchange on Linux ›
 *   Ubuntu Server Development Summary – 14 Jul 2017 ›
 *   Ubuntu Desktop Weekly Update: July 14, 2017 ›
-*   Ubuntu Foundations Development Summary: July 13, 2017 ›
-*   Storage management in LXD 2.15 ›
-*   Top 10 snaps in June ›
