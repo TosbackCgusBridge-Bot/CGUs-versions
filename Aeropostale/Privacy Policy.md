@@ -32,7 +32,6 @@ Aéropostale
     
     *   DRESSES + ROMPERS
     *   JACKETS
-    *   SWIM
     *   FOOTWEAR
     *   ACCESSORIES
     
@@ -41,7 +40,6 @@ Aéropostale
     *   Lounge
     *   Bras
     *   Undies
-    *   Swim
     *   Sleep
     *   Accessories
 *   Guys
@@ -74,7 +72,6 @@ Aéropostale
     
     *   JACKETS + COATS
     *   ACCESSORIES
-    *   SHOES
 *   Active
     
     *   FEATURED
@@ -106,7 +103,6 @@ Aéropostale
     *   Bikini
     
     *   BRAS
-    *   SWIM
     *   ACCESSORIES
     *   CLEARANCE
     
