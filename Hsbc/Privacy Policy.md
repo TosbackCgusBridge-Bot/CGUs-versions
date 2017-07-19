@@ -60,7 +60,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Operational risk
         *   Reputational risk
         *   Health and safety
-        *   Supplier code of conduct
+        *   Working with suppliers
     
     *   Diversity and inclusion Diversity benefits our customers, our business and our people.
 *   Investor relations
