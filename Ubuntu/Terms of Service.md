@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Kernel Team Summary – July 19, 2017 ›
+*   Achieving ROI trumps security as the IoT industry’s biggest challenge ›
+*   Ubuntu Artful Desktop July Shakedown – call for testing ›
 *   Things to consider when building a robot with open source ›
 *   How modelling helps you avoid getting a stuck OpenStack ›
-*   Hiri, the desktop snap that lets you use Microsoft Exchange on Linux ›
-*   Ubuntu Server Development Summary – 14 Jul 2017 ›
-*   Ubuntu Desktop Weekly Update: July 14, 2017 ›
