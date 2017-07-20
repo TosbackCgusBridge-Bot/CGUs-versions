@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card What's Your Stance On These Socks? Shop All Socks.
+        Give a Buckle Gift card From Workouts To Hangouts, It’s All About Being Comfy. Shop Athleisure.
 *   Men
     *   *   Featured
         
@@ -136,7 +136,7 @@
         
           
           
-        Give a Buckle Gift card What's Your Stance On These Socks? Shop All Socks.
+        Give a Buckle Gift card From Workouts To Hangouts, It’s All About Being Comfy. Shop Athleisure.
 *   Kids
     *   *   Featured
         
@@ -158,7 +158,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card What's Your Stance On These Socks? Shop All Socks.
+        Give a Buckle Gift card From Workouts To Hangouts, It’s All About Being Comfy. Shop Athleisure.
 *   Jeans
     *   *   Women's Jeans
         
@@ -188,7 +188,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card What's Your Stance On These Socks? Shop All Socks.
+        Give a Buckle Gift card From Workouts To Hangouts, It’s All About Being Comfy. Shop Athleisure.
 *   New
     *   *   Featured New
         
@@ -228,7 +228,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card What's Your Stance On These Socks? Shop All Socks.
+        Give a Buckle Gift card From Workouts To Hangouts, It’s All About Being Comfy. Shop Athleisure.
 *   Sale
     *   *   Women's Sale
         
@@ -271,7 +271,7 @@
         
           
           
-        Give a Buckle Gift card What's Your Stance On These Socks? Shop All Socks.
+        Give a Buckle Gift card From Workouts To Hangouts, It’s All About Being Comfy. Shop Athleisure.
 
 × Privacy &. Security
 
