@@ -4,6 +4,7 @@ Aéropostale
     
     *   NEW ARRIVALS
     *   TRENDING
+    *   Icon Tees
     *   Shark Week Tees
     *   Limited Edition
     *   Uniform
@@ -47,6 +48,7 @@ Aéropostale
     *   NEW ARRIVALS
     *   TAPOUT
     *   TRENDING
+    *   Icon Tees
     *   Shark Week Tees
     *   Stretch Shop
     *   Limited Edition
@@ -87,6 +89,7 @@ Aéropostale
     *   Tanks
     *   Short Sleeve Tees
     *   Hoodies &. Sweatshirts
+    *   Jackets &. Vests
     *   Sleep Tops
     
     *   BOTTOMS
