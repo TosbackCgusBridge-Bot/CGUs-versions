@@ -1,4 +1,4 @@
-Effective Date: 05/03/2017
+Effective Date: 07/19/2017
 
 Healthline Media, Inc., owner of Healthline Media UK Limited, ("Healthline", “We”, “Us”) respects the privacy rights of our users and is committed to protecting the information collected through its mobile application: MS Buddy (collectively, the “App”) and on our websites at www.healthline.com and www.medicalnewstoday.com, (the “Website”) (collectively with the App, the “Services”). This privacy policy ("Privacy Policy") explains how Healthline collects, stores, and uses the information collected in connection with Healthline's Services. Your access to and use of the Services is subject to Healthline’s Terms of Service (the “Terms”). Any capitalized terms used but not defined in this Privacy Policy have the meanings provided in the Terms.
 
@@ -6,7 +6,7 @@ BY INSTALLING, USING, REGISTERING TO OR OTHERWISE ACCESSING ANY SERVICES, YOU AG
 
 **Collection and Use**
 
-In visiting or using our Services, we may collect your name and email address when you choose to sign up for newsletters, submit your opinions, contact us or sign up for an account on our Services. We may also additionally collect your birth year, gender, zip/city marital status, Multiple Sclerosis (MS) health information (when you were diagnosed, what type of MS, what medications you’re taking) when you download, sign up for and use our MS Buddy mobile application. When you download and use MS Buddy, we automatically collect information on the type of device you use and operating system version. We use the above information to send you newsletters, respond to customer service requests, administer your account, respond to your questions and concerns, etc. If you share an article, post or content with a friend/contact, we will collect your friend’s/contact’s name and email address. This information will be used for the express purpose of sharing the article, post or content. After that use, the information will be deleted and not be maintained, stored or otherwise retained by Healthline.
+In visiting or using our Services, we may collect your name and email address when you choose to sign up for newsletters, submit your opinions, contact us or sign up for an account on our Services. We may also additionally collect your birth date, gender, zip/city marital status, Multiple Sclerosis (MS) health information (when you were diagnosed, what type of MS, what medications you’re taking) when you download, sign up for and use our MS Buddy mobile application. When you download and use MS Buddy, we automatically collect information on the type of device you use and operating system version. We use the above information to send you newsletters, respond to customer service requests, administer your account, respond to your questions and concerns, etc. If you share an article, post or content with a friend/contact, we will collect your friend’s/contact’s name and email address. This information will be used for the express purpose of sharing the article, post or content. After that use, the information will be deleted and not be maintained, stored or otherwise retained by Healthline.
 
 As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.
 
@@ -20,9 +20,11 @@ We send you push notifications from time-to-time in order to update you about an
 
 We do not ask for, access or track any location-based (precise location) information from your mobile device at any time while downloading or using our Mobile Apps or Services.
 
-**Sharing**
+**Sharing of your information**
 
-We may share your information with third parties who provide services on our behalf to help with our business activities such as email service providers, data analyzers and business intelligence providers.  These companies are authorized to use your personal information only as necessary to provide these services to us.
+To Enhance our Services: We may share your information with third parties who provide services on our behalf to help with our business activities such as email service providers, data analyzers and business intelligence providers for the purpose of enhancing our products and services. These companies are authorized to use your personal information only as necessary to provide these services to us.
+
+Third Party Marketing: We may also wish to share your information (including email address) with third-party business partners so that they can market their products or services to you. Before sharing your information for this purpose, however, we will disclose the proposed sharing to you and obtain your consent, or opt-in, to such sharing. If you do not opt-in, we will not share your information for this purpose. If you have a question regarding opt-in, please contact us at privacypractices@healthline.com.
 
 **Personal Information Access, Retention and Choice**
 
