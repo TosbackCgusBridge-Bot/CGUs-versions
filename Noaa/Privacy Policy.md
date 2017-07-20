@@ -98,10 +98,10 @@ Google EarthTM and Google MapsTM
 Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Video: Could you survive a rip current? See how Weather Excessive heat, a 'silent killer' National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
-*   Oceans and coastal tools, sanctuary permits, charts and images
-*   Fisheries regulations, permits, data reporting and restoration projects
-*   Satellite imagery, reports, launch information
 *   Climate data and reports
+*   Satellite imagery, reports, launch information
+*   Fisheries regulations, permits, data reporting and restoration projects
+*   Oceans and coastal tools, sanctuary permits, charts and images
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
