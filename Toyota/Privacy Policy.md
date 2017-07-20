@@ -37,7 +37,7 @@
 *   2017 Highlander Hybrid $36,270 starting 30/28 est. mpg build Specials
 *   2017 Prius Prime $27,100 starting 54/133 est. mpg /MPGe build Specials
 *   2017 Prius $24,685 starting 54/50 est. mpg build Specials
-*   2017 Prius _c_ $20,150 starting 48/43 est. mpg build Specials
+*   2018 Prius _c_ $20,630 starting 48/43 est. mpg build Specials
 *   2017 Prius _v_ $26,675 starting 43/39 est. mpg build Specials
 *   2017 Mirai $57,500 starting 67/67 est. mpg Specials
 
@@ -203,8 +203,6 @@ Toyota Vehicles
 *   Family SUVs  
     
 *   Search Inventory  
-    
-*   Prius Family  
     
 *   Customize Your Own Toyota  
     
