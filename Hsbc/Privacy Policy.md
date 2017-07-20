@@ -96,7 +96,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Regulatory capital securities
         *   Credit ratings
     
-    *   1Q 2017 Earnings Release HSBC Holdings plc announced its 1Q 2017 update on 4 May.
+    *   Interim Results 2017 HSBC Holdings plc will announce its Interim Results on Monday, 31 July 2017.
 *   News and insight
     
     *   Media resources
