@@ -9,7 +9,6 @@ Skip to main content     Search Google Appliance Enter the terms you wish to s
 *   Phone
     *   International Rates
 *   Home Security
-*   Total Home
 *   VIPperks
 *   Our Company
     *   Who We Are
