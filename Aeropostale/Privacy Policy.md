@@ -60,7 +60,6 @@ Aéropostale
     *   TOPS
     *   Graphic Tees
     *   Shirts
-    *   Tanks
     *   Tees
     *   Polos
     *   Sweaters
@@ -74,6 +73,7 @@ Aéropostale
     
     *   JACKETS + COATS
     *   ACCESSORIES
+    *   SHOES
 *   Active
     
     *   FEATURED
@@ -104,6 +104,7 @@ Aéropostale
     *   Hipster
     *   Boy Short
     *   Bikini
+    *   Thong
     
     *   BRAS
     *   ACCESSORIES
