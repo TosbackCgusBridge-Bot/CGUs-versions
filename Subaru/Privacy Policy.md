@@ -219,7 +219,7 @@ Specifically, we collect and use information from you in certain ways including:
 
 **Processing Your Requests.**
 
-When you interact with us (for example, to request a brochure or locate a retailer) you will be asked for information needed to complete your request. The information you provide is used to process your transactions, to create and share reports about these transactions, and/or to provide related customer service. When you request a quote or other information, these requests may be conducted through retailers or Subaru vendors and suppliers.
+When you interact with us (for example, to request a brochure or locate a retailer) you will be asked for information needed to complete your request. The information you provide is used to process your transactions, to create and share reports about these transactions, and/or to provide related customer service. When you get a local price or other information, these requests may be conducted through retailers or Subaru vendors and suppliers.
 
 **Registration and Use of MySubaru.**
 
@@ -375,6 +375,7 @@ Owners
 *   Service, Parts &. Accessories
 *   Guaranteed Trade-In Program
 *   Vehicle Recalls
+*   Takata Airbag Recall
 
 Other Sites
 
