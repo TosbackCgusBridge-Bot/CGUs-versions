@@ -82,9 +82,15 @@ Reporting Suspicious Email Messages
 
 If you receive an email from Progressive that you're unsure about, please forward it to phishing@email.progressive.com. We'll be able to tell you if it is a legitimate email sent from Progressive.
 
-Reporting Security Vulnerabilities
+Reporting Security Issues
 
-If you believe you have found a security vulnerability with one of our products or services, please email your security concern to securityconcern@email.progressive.com.
+If you believe you have found a security issue with one of our products or services, please report the issue to securityconcern@email.progressive.com.
+
+It's helpful if you include your name and contact information with each report. If you would prefer to send your information securely, please use PGP encryption to protect your report by using Progressive's Public PGP Key.
+
+Please describe the issue in detail, including (for example): the date and time when the issue was first discovered, details needed to reproduce the issue, and a Proof of Concept. Screenshots and videos can also be useful. We will attempt to respond to your report within 10 business days.
+
+We take these reports seriously, so we ask that you keep your findings confidential. Any publication of your findings prior to remediation of the issue may put personal information at risk.
 
  Back
 
