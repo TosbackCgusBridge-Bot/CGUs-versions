@@ -4,7 +4,7 @@ Book online or call 800-246-8357This call is free. 24 hours a day. 7 days a week
 
 *   Hotel Deals
 *   Packages &. Flights
-*   Groups
+*   Groups &. Meetings
 *   Gift Cards
 *   Help
 *   Website feedback
@@ -230,5 +230,3 @@ Join now! Collect 10 nights, get 1 free\*
 Hotels.com and the Hotels.com logo are trademarks or registered trademarks of Hotels.com, LP in the U.S. and/or other countries. All other trademarks are property of their respective owners.
 
 \* Learn more about Hotels.com® Rewards
-
-*   ABOUT SSL CERTIFICATES
