@@ -11,7 +11,6 @@ Sencha.com
         *   Architect
         *   Themer
         *   Inspector
-        *   Data Query Acceleration
         *   Framework Comparison
     *   Sencha Test
     *   GXT
