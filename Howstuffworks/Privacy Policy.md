@@ -244,13 +244,13 @@ Last Updated On: 08/10/2016
 
 Print | Citation &. Date
 
-More to Explore Today's Headlines
+More to Explore More to Explore Today's Headlines
 
-**There's Never Been an Alien Civilization on Mars, Congressman**
+**Boy Literally Stumbles Across Million-year-old Fossils During New Mexico Hike**
 
-**How Do Scientists Measure Sea Level?**
+**Is the 'Blue Whale' Online Game Pushing Teens to Suicide?**
 
-**Why Is a Town in Brazil Celebrating the U.S. Confederacy?**
+**From the 5K to the Marathon, American Runners Are Slowing Down**
 
 About Us
 
@@ -264,7 +264,7 @@ About Us
 
 **Freelance Writers: Apply to Write for HowStuffWorks**
 
-More to Explore
+More to Explore More to Explore
 
   
 
