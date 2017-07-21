@@ -190,13 +190,14 @@ My Account
 
 Guarantees
 
-*   Security
 *   100% Satisfaction
+*   Security
 *   Substitution Policy
 
 Privacy
 
 *   Privacy Policy
+*   MobileConnect Terms and Conditions
 
 Security
 
@@ -211,8 +212,8 @@ Security
 
 About Us
 
-*   The Hickory Farms Story
 *   Store Locator
+*   The Hickory Farms Story
 *   Employment Opportunities
 
 Contact Us
