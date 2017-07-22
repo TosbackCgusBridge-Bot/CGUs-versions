@@ -3,6 +3,7 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
+    *   $15 Backpack Special
     *   TRENDING
     *   Icon Tees
     *   Shark Week Tees
@@ -46,6 +47,7 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
+    *   $15 Backpack Special
     *   TAPOUT
     *   TRENDING
     *   Icon Tees
@@ -60,6 +62,7 @@ Aéropostale
     *   TOPS
     *   Graphic Tees
     *   Shirts
+    *   Tanks
     *   Tees
     *   Polos
     *   Sweaters
@@ -103,6 +106,7 @@ Aéropostale
     *   UNDIES
     *   Hipster
     *   Boy Short
+    *   Brief
     *   Bikini
     *   Thong
     
