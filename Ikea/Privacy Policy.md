@@ -1,4 +1,4 @@
-   FAQ
+    FAQ
 
 *   Log In or Sign Up
 *   My shopping cart
