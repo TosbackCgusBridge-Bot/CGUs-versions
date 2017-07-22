@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server Development Summary – 21 July 2017 ›
+*   Dustin Kirkland: Ubuntu 18.04 LTS Desktop Default Application Survey ›
 *   Testing the future of Juju with snaps ›
-*   Webinar: Speed up your software development lifecycle with Kubernetes ›
+*   Webinar: Speed up your software development lifecycle using Kubernetes ›
 *   Run Django applications on the Canonical Distribution of Kubernetes ›
-*   Robot development made easy with Husarion CORE2-ROS &. Ubuntu – part 2 ›
-*   Kernel Team Summary – July 19, 2017 ›
