@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore More to Explore Today's Headlines
 
-**Boy Literally Stumbles Across Million-year-old Fossils During New Mexico Hike**
+**Curious, Cool and Compelling: Our Best Stories You Might Have Missed This Week**
 
-**Is the 'Blue Whale' Online Game Pushing Teens to Suicide?**
+**Scientists Have Devised a Revolutionary Way to Redefine the Kilogram**
 
-**From the 5K to the Marathon, American Runners Are Slowing Down**
+**The Scopes Monkey Trial Was a Historic Debate Over Evolution … And a Publicity Ploy**
 
 About Us
 
