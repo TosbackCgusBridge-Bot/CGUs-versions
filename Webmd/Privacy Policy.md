@@ -31,7 +31,7 @@ Skip to main content
     *   Find a Doctor
     *   View All
 
-Featured Topics*   Video Learn the F.A.S.T. Test for Stroke
+Featured Topics*   Assessment Get Help for Migraine Relief
 *   Video See Inside Knee Replacement Surgery
 
 *   Drugs &  
@@ -106,10 +106,10 @@ Featured Topics*   Slideshow Symptoms of ADHD in Children
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Recurring Gut Infections on the Rise
-    *   Snortable Chocolate Raises Concerns
-    *   Alabama Warns About Dangerous Vibrio Bacteria
+    *   9 Things That May Raise Dementia Risk
     *   Daily Coffee May Help You Live Longer
+    *   What's Ahead for Health Reform?
+    *   Do Artificial Sweeteners Raise Odds for Obesity?
     *   Sleep Disturbances Linked to Alzheimer’s Risk
     
     Experts &. Community
