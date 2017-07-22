@@ -203,7 +203,7 @@ We may also use third-party service providers to help us determine which Fidelit
 
 **Advertising on non-Fidelity websites**
 
-Fidelity also advertises our products and services on websites not affiliated with Fidelity and we contract with third-party advertising companies to display these ads. These third-party advertising companies may use cookies and similar technologies to collect technical and web navigational information, such as device type, browser type, Internet protocol address, and pages visited.
+Fidelity also advertises our products and services on websites (including mobile applications) not affiliated with Fidelity and we contract with third-party advertising companies to display these ads. These third-party advertising companies may use cookies and similar technologies to collect technical and web navigational information, such as device type, browser type, Internet protocol address, and pages visited.
 
 Fidelity and these third-party online advertising companies may use the data collected, along with other information we have about you and your Fidelity relationships, to serve relevant ads to you. The advertisements may be relevant to your interests, as determined by your activity on Fidelity and non-Fidelity websites. These are known as "interest-based advertisements."
 
@@ -213,7 +213,7 @@ Non-Fidelity websites and mobile applications are not subject to Fidelity's Priv
 
 **Connecting with Fidelity on social media sites**
 
-Fidelity provides experiences on social media platforms that enable online sharing and collaboration among users who have registered to use them. We may collect information you provide by interacting with us via social media, such as photographs, opinions, or Twitter handle. Any content you post, such as pictures, information, opinions, or any personal information that you make available to other participants on these social platforms, is also subject to the terms of use and privacy policies of those platforms. Please refer to them to better understand your rights and obligations with regard to such content.
+Fidelity provides experiences on social media platforms that enable online sharing and collaboration among users who have registered to use them. We may collect information you provide by interacting with us via social media, such as photographs, opinions, or social media account ID. Any content you post, such as pictures, information, opinions, or any personal information that you make available to other participants on these social platforms, is also subject to the terms of use and privacy policies of those platforms. Please refer to them to better understand your rights and obligations with regard to such content.
 
 **Fidelity Mobile® apps**
 
@@ -263,22 +263,22 @@ If you decide to close your account, the Funds will continue to adhere to the pr
 
 Please read the Fidelity Funds Privacy Policy in conjunction with the Privacy Policy for the Fidelity Investments companies of which you are also a customer.
 
-The Fidelity Funds Privacy Policy is provided on behalf of the Fidelity Investments family of mutual funds.
+The Fidelity Funds Privacy Policy is provided on behalf of the Fidelity Investments family of mutual funds, including those advised by Strategic Advisers, Inc.
 
   
-Effective June 2016    
-©1998-2016 FMR LLC. All Rights Reserved.  
+Effective June 2017     
+©1998-2017 FMR LLC. All Rights Reserved.  
   
 Questions?
 
 *   800-343-3548 800-343-3548
 *   Find an Investor Center
 
-2016 Privacy Notice
+2017 Privacy Notice
 
 View the Fidelity Investments and the Fidelity Funds Privacy Notice (PDF)
 
-524812.31.0
+524812.32.0
 
 *   Mutual Funds
 *   ETFs
