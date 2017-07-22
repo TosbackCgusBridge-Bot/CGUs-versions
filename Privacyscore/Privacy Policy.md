@@ -128,7 +128,6 @@ Connect with AVG
 
 *   Facebook
 *   Twitter
-*   RSS
 *   Google+
 *   LinkedIn
 *   YouTube
