@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card From Workouts To Hangouts, It’s All About Being Comfy. Shop Athleisure.
+        Give a Buckle Gift card Hey Dude (or Dudette), check out these shoes! Shop Women's. Shop Men's.
 *   Men
     *   *   Featured
         
@@ -136,7 +136,7 @@
         
           
           
-        Give a Buckle Gift card From Workouts To Hangouts, It’s All About Being Comfy. Shop Athleisure.
+        Give a Buckle Gift card Hey Dude (or Dudette), check out these shoes! Shop Women's. Shop Men's.
 *   Kids
     *   *   Featured
         
@@ -158,7 +158,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card From Workouts To Hangouts, It’s All About Being Comfy. Shop Athleisure.
+        Give a Buckle Gift card Hey Dude (or Dudette), check out these shoes! Shop Women's. Shop Men's.
 *   Jeans
     *   *   Women's Jeans
         
@@ -188,7 +188,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card From Workouts To Hangouts, It’s All About Being Comfy. Shop Athleisure.
+        Give a Buckle Gift card Hey Dude (or Dudette), check out these shoes! Shop Women's. Shop Men's.
 *   New
     *   *   Featured New
         
@@ -228,7 +228,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card From Workouts To Hangouts, It’s All About Being Comfy. Shop Athleisure.
+        Give a Buckle Gift card Hey Dude (or Dudette), check out these shoes! Shop Women's. Shop Men's.
 *   Sale
     *   *   Women's Sale
         
@@ -271,7 +271,7 @@
         
           
           
-        Give a Buckle Gift card From Workouts To Hangouts, It’s All About Being Comfy. Shop Athleisure.
+        Give a Buckle Gift card Hey Dude (or Dudette), check out these shoes! Shop Women's. Shop Men's.
 
 × Privacy &. Security
 
