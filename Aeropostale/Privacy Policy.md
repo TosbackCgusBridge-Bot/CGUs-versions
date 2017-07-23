@@ -90,6 +90,7 @@ Aéropostale
     
     *   TOPS
     *   Tanks
+    *   Bodysuits
     *   Short Sleeve Tees
     *   Hoodies &. Sweatshirts
     *   Jackets &. Vests
@@ -106,7 +107,7 @@ Aéropostale
     *   UNDIES
     *   Hipster
     *   Boy Short
-    *   Brief
+    *   Boy Brief
     *   Bikini
     *   Thong
     
