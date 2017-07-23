@@ -11,12 +11,12 @@ SEG1 hp
 *   800-GO-DEPOT
 *   Chat or Call
     *   Live Chat Customer service available 24/7
-    *   Untitled-8TXT 1-904-853-3768 Text us your questions and a representative will respond.
+    *   TXT 1-904-853-3768 Text us your questions and a representative will respond.
     1-800-463-3768 Call us with your questions and a representative will help. Have Us Call You Ensure your phone line is open and  
     enter your number below.
 *   Login or Register
 
-Office Depot Deals B4ZJakVTKUt11b8mLNKSGZS
+Office Depot Deals XR-HXoSC7O6MMnOftc3S5\_i
 
 Search Suggestions
 
@@ -163,41 +163,36 @@ order online
 ready in 1 hour!  **Tap our app**  
 get offers,  
 manage rewards,  
-compare prices  Signup today  
-and get 20% off  
-one qualifying item
+compare prices  Signup to receive  
+exclusive offers  
+to your inbox
 
 *   PRODUCTS
 *   Ativa®
-*   Black Friday 2017
+*   Black Friday 2015
+*   Foray &. trade
 *   Gift &. Rewards Cards
 *   Greener Office
 *   Products A-Z
 *   Write a Product Review
 
 *   BUSINESS SERVICES
-*   Merchant Credit Card Processing
-*   Small Business Loans
-*   Browse More Services
-
-*   BUSINESS RESOURCES
-*   20+ Employee Businesses
-*   Ideas Center
-*   Print &. Copy
-*   Squaretrade Protection Plans
+*   Business Form Templates
+*   Business Resource Center
+*   Copy &. Print Depot™
+*   MaxAssurance
 *   Prevention of Online Threats
 *   Property Damage Protection
+*   Office Depot Business Services
 *   Security Solutions
 *   Shredding Services
-*   We Fix Computers
-*   We Fix Cell Phones
+*   Tech Depot &. trade Services
 *   Tech Trade-In
 
 *   ABOUT US
 *   Find a Store
 *   About Office Depot®
 *   Affiliate Program
-*   CA Supply Chain Disclosure
 *   Careers
 *   Compliance and Ethics
 *   Diversity
@@ -206,9 +201,8 @@ one qualifying item
 *   Investor Relations
 *   Media Relations
 *   Office Depot Foundation
-*   Make a Donation
-*   Women in Business  
-    Corporate Sustainability 
+*   Women in Business
+*   Corporate Sustainability
 
 *   CUSTOMER SERVICE
 *   Customer Service
@@ -218,16 +212,14 @@ one qualifying item
 *   Order by item#
 *   Order Tracking
 *   Recall Notices
-*   Returns and Exchanges
+*   Refunds and Exchanges
 *   Reorder
 *   Request a Catalog
 *   Website Feedback
 
 *   SPECIAL PROGRAMS
-*   Give Back to  
-    Schools Program
+*   5% Back to Schools Program
 *   Veterans Advantage
-*   Associate Discount
 
 MOBILE APPS          
 
