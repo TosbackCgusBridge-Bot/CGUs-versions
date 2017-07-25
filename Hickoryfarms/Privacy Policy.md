@@ -63,7 +63,7 @@
     *   Gifts Over $90
 *   Sale
 
-1.800.753.8558 Search Catalog Search Skip to content 1.800.753.8558 Stores Account
+1.800.753.8558 Business Gifts 1.800.753.8558 Search Catalog Search Skip to content Business Gifts Stores Account
 
 *   Welcome!
 *   Log In
@@ -136,7 +136,7 @@
     *   Gifts Over $90
 *   Sale
 
-1.800.753.8558 Menu Search Stores Cart Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
+1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
 
 1.  Home
 2.  Customer Service
@@ -190,8 +190,8 @@ My Account
 
 Guarantees
 
-*   100% Satisfaction
 *   Security
+*   100% Satisfaction
 *   Substitution Policy
 
 Privacy
@@ -212,8 +212,8 @@ Security
 
 About Us
 
-*   Store Locator
 *   The Hickory Farms Story
+*   Store Locator
 *   Employment Opportunities
 
 Contact Us
@@ -257,5 +257,12 @@ Contact Us
 *   Contact Us
 
 *   Employment
+
+Business Accounts
+
+*   Business Gifts
+*   Request a Quote
+*   1.800.715.1474
+*   Email Us
 
 PRIVACY POLICY TERMS OF USE SITE MAP © 2017 ALL RIGHTS RESERVED.
