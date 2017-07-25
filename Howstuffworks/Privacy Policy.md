@@ -246,11 +246,11 @@ Print | Citation &. Date
 
 More to Explore More to Explore Today's Headlines
 
-**Curious, Cool and Compelling: Our Best Stories You Might Have Missed This Week**
+**How Barbie's Boyfriend Ken Became an Accidental Gay Icon**
 
-**Scientists Have Devised a Revolutionary Way to Redefine the Kilogram**
+**Wisconsin Company Encourages Employees to Become Cyborgs**
 
-**The Scopes Monkey Trial Was a Historic Debate Over Evolution … And a Publicity Ploy**
+**Do You Have Coffee Bubble Phobia? Scientists Now Know Why**
 
 About Us
 
