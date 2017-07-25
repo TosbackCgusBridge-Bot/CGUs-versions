@@ -16,7 +16,7 @@ SEG1 hp
     enter your number below.
 *   Login or Register
 
-Office Depot Deals sgPSmcGJlKr\_a3WUP0TBYi1
+Office Depot Deals oFlQoq3-Ad-BGgzuSjnV24m
 
 Search Suggestions
 
@@ -220,6 +220,7 @@ to your inbox
 *   SPECIAL PROGRAMS
 *   5% Back to Schools Program
 *   Veterans Advantage
+*   Associate Discount
 
 MOBILE APPS          
 
