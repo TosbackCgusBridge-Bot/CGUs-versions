@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Desktop Weekly Update: July 24, 2017 ›
 *   Ubuntu Server Development Summary – 21 July 2017 ›
 *   Dustin Kirkland: Ubuntu 18.04 LTS Desktop Default Application Survey ›
 *   Testing the future of Juju with snaps ›
 *   Webinar: Speed up your software development lifecycle using Kubernetes ›
-*   Run Django applications on the Canonical Distribution of Kubernetes ›
