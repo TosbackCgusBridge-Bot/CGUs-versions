@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Globe had 2nd warmest year to date and 3rd warmest June on record Arctic and Antarctic sea-ice coverage remains small AROUND NOAA // NOAA locates wreckage of crab fishing vessel off St. George Island, Alaska Experimental model predicted tornado's path hours, not minutes, before it formed NOAA’s Greenhouse Gas Index up 40 percent since 1990 Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event
+Enter Search Terms Globe had 2nd warmest year to date and 3rd warmest June on record Arctic and Antarctic sea-ice coverage remains small AROUND NOAA // Video: A symphony of sharks! Feast your eyes and ears on this NOAA locates wreckage of crab fishing vessel off St. George Island, Alaska Experimental model predicted tornado's path hours, not minutes, before it formed Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event
 
 *   About our agency
 *   News and features
@@ -124,5 +124,3 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Contact us
 *   Staff Directory
 *   Need help?
-
-iStock image
