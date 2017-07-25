@@ -1,6 +1,7 @@
 Menu Mozilla
 
 *   Firefox
+*   Pocket
 *   Internet Health
 *   Technology
 *   About Us
@@ -58,6 +59,11 @@ Firefox Privacy Close
     *   Focus Browser
     *   Features
     *   SupportFaster Browser Fast, Responsive, Reliable: A Browser for the Multi-Tab Age Better Browsing Smooth Scrolling: How a Web Browser Removes Jank
+*   Pocket
+    
+    When you find something you want to view later, put it in Pocket.
+    
+    *   Get Pocket
 *   Internet Health
     
     Internet Health is crucial for the world to thrive. A healthy Internet is one that is private, inclusive, and collaborative.
@@ -93,7 +99,6 @@ Firefox Privacy Close
     *   Give
     *   Volunteer
     *   Events
-
 Websites, Communications &. Cookies Privacy Notice
 
 April 11, 2017
