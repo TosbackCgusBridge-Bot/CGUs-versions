@@ -69,11 +69,11 @@ Up to
 
 2018 WRX Limited shown
 
-Legacy $21,995\* starting price 2017 Legacy
+Legacy $22,195\* starting price 2018 Legacy
 
 Starting at
 
-$21,995 MSRP
+$22,195 MSRP
 
 Up to
 
