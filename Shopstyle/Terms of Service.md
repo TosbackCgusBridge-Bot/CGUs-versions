@@ -1,6 +1,6 @@
 Terms of Service
 
-Effective: April 27, 2017
+Effective: July 25, 2017
 
 POPSUGAR Inc., its subsidiaries and affiliates (“POPSUGAR,” “we,” “us,” “our”) owns and operates POPSUGAR and its network of websites including https://www.popsugar.com, mobile applications, and any other linked and related pages, content, features, products, software, video player and tools offered by POPSUGAR (the “Services”).
 
@@ -83,6 +83,10 @@ POPSUGAR Inc., its subsidiaries and affiliates (“POPSUGAR,” “we,” “us,
     You must notify us in advance if you cancel or change your mobile phone number attached to your Must Have account. To do so, please visit the “Account Settings” page in your Must Have account, or email musthave@popsugar.com.
     
     All purchases made through our Must Have It service are governed by the Must Have Terms.
+    
+*   POPSUGAR INSIGHT COMMUNITY
+    
+    The POPSUGAR Insight Community brings together readers and users of POPSUGAR for the opportunity to participate in surveys, opinion polls, and/or online discussions related to certain products, services and/or features that POPSUGAR or its partners have released or implemented, or that POPSUGAR or its partners currently offer, may release or implement at some point in the future. Participation in the Insight Community is by invitation only, voluntary and governed by the Terms of Service found here.
     
 *   POPSUGAR’S INTELLECTUAL PROPERTY AND LIMITED LICENSES
     
