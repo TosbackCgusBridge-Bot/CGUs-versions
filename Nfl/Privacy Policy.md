@@ -1,22 +1,23 @@
-Search
-
-*   Fantasy Football
-*   News &. Media
-*   Video
+*   News
 *   Scores
-*   Schedules
+*   Schedule
 *   Standings
-*   Stats
-*   Watch NFL Games Live
+*   Video
+*   Fantasy
+
+*   Fantasy
+
+*   *   Game Pass
+    *   Stats
+    *   Training Camp
+    *   Ways to Watch
+    *   Hall of Fame
+    *   NFL Network
+    *   Photos
+
 *   Tickets
 *   Shop
-*   Fans
-
-*   health &. safety
-*   En Español
-*   Mobile
-*   NFL Now
-*   NFL Network
+*   Teams
 
 NFL.com - Privacy Policy English Deutsch Francais
 
@@ -192,100 +193,4 @@ If you have any questions about this Privacy Policy or the privacy practices of 
 NFL Digital Media Group  
 345 Park Avenue, 5th Floor  
 New York, NY 10154  
-Attn: Website Privacy Policy  
-
-Information
-
-*   Contact Us
-*   FAQ | Rule Book
-*   Public Relations
-*   Jobs: League | Team
-*   Privacy Policy
-*   Terms &. Conditions
-*   Accessibility
-
-Initiatives
-
-*   NFL Rush
-*   Play 60
-*   In the Community
-*   NFL Auction
-
-Media Info
-
-*   NFL Communications
-*   Media Kit
-*   Media Guides
-*   Record &. Fact Book
-
-Player Services
-
-*   NFL Health &. Safety
-*   NFL Legends Community
-*   NFL Player Care
-*   Player Engagement
-*   NFL Alumni Association
-
-More NFL Sites
-
-*   Play Football
-*   USA Football
-*   NFL International
-*   NFL On Location
-*   NFL Extra Points
-
- 
-
-*   NFL Football Operations
-*   Pro Football Hall of Fame
-*   NFL Ticket Exchange
-*   NFL Shop
-*   Licensing
-
-© 2017 NFL Enterprises LLC. NFL and the NFL shield design are registered trademarks of the National Football League.The team names, logos and uniform designs are registered trademarks of the teams indicated. All other NFL-related trademarks are trademarks of the National Football League. NFL footage © NFL Productions LLC.
-
- 
-
-*   Bills
-*   Dolphins
-*   Patriots
-*   Jets
-
-*   Ravens
-*   Bengals
-*   Browns
-*   Steelers
-
-*   Texans
-*   Colts
-*   Jaguars
-*   Titans
-
-*   Broncos
-*   Chiefs
-*   Raiders
-*   Chargers
-
-*   Cowboys
-*   Giants
-*   Eagles
-*   Redskins
-
-*   Bears
-*   Lions
-*   Packers
-*   Vikings
-
-*   Falcons
-*   Panthers
-*   Saints
-*   Buccaneers
-
-*   Cardinals
-*   Rams
-*   49ers
-*   Seahawks
-
-© 2017 NFL Enterprises LLC. NFL and the NFL shield design are registered trademarks of the National Football League.The team names, logos and uniform designs are registered trademarks of the teams indicated. All other NFL-related trademarks are trademarks of the National Football League. NFL footage © NFL Productions LLC. PRIVACY POLICY | Terms &. Conditions
-
-NFL News CONTENT 15
+Attn: Website Privacy Policy
