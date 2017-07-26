@@ -33,7 +33,7 @@ Aéropostale
     *   Skirts
     
     *   DRESSES + ROMPERS
-    *   JACKETS
+    *   JACKETS + VESTS
     *   FOOTWEAR
     *   ACCESSORIES
     
@@ -74,7 +74,7 @@ Aéropostale
     *   Pants
     *   Joggers + Sweats
     
-    *   JACKETS + COATS
+    *   JACKETS + VESTS
     *   ACCESSORIES
     *   SHOES
 *   Active
