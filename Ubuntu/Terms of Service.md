@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   ss: another way to get socket statistics ›
 *   Ubuntu Desktop Weekly Update: July 24, 2017 ›
 *   Ubuntu Server Development Summary – 21 July 2017 ›
 *   Dustin Kirkland: Ubuntu 18.04 LTS Desktop Default Application Survey ›
 *   Testing the future of Juju with snaps ›
-*   Webinar: Speed up your software development lifecycle using Kubernetes ›
