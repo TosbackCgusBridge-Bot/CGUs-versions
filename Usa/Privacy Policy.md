@@ -4,18 +4,24 @@ You have been detected as being from . Where applicable, you can see country-spe
 
 Change country/language X
 
-*   Search
-*   Sign in
-    *   My Account
-    *   Autodesk Account
-        
-        (includes all Subscriptions)
-        
-    *   A360
-    *   Education Community Education Community
-    *   Need help? Visit our sign-in FAQs
-*   Sign out
-*   Menu
+*   United States
+    
+    We have redirected you to an equivalent page on your local site where you can see local pricing and promotions and purchase online.
+    
+    Stay on our U.S. site
+    
+*   *   Search
+    *   Sign in
+        *   My Account
+        *   Autodesk Account
+            
+            (includes all Subscriptions)
+            
+        *   A360
+        *   Education Community Education Community
+        *   Need help? Visit our sign-in FAQs
+    *   Sign out
+    *   Menu
 
 *   Products
     *   All products
