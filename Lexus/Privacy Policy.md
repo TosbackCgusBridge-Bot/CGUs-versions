@@ -167,18 +167,18 @@ COMPARE **CT HYBRID**
 *   Build
 *   Current Offers
 
-**RX HYBRID**
-
-*   Starting at $53,035\*
-*   30-MPG COMBINED RATING\*
-
-*   Build
-*   Current Offers
-
 **ES HYBRID**
 
 *   Starting at $41,820\*
 *   40-MPG COMBINED RATING\*
+
+*   Build
+*   Current Offers
+
+**RX HYBRID**
+
+*   Starting at $53,035\*
+*   30-MPG COMBINED RATING\*
 
 *   Build
 *   Current Offers
@@ -385,6 +385,10 @@ Brand &. Lifestyle
 *   Lexus International
 *   Sponsored Athletes
 
+Language
+
+*   Español
+
 *   About
 *   Contact Us
 *   Accessibility
@@ -439,6 +443,8 @@ Brand &. Lifestyle
     *   Vida Lexus
     *   Lexus International
     *   Sponsored Athletes
+*   Language
+    *   Español
 
 Safety Recalls &. Service Campaigns  
 
@@ -448,10 +454,10 @@ Notice for Internet Explorer® Users
 
 To ensure your experience on lexus.com is as exceptional as our vehicles, we no longer support Internet Explorer® Version 10 and older. We do, however, support Version 11 and other browsers. Click here to upgrade your current browser or, to install a new one, select a link below.
 
-Firefox ® Google  
-Chrome ™ Notice for Safari® Users
+Firefox® Google  
+Chrome™ Notice for Safari® Users
 
 To ensure your experience on lexus.com is as exceptional as our vehicles, we no longer support safari® 8 and older. We do, however, support version 9.0+ and other browsers. to upgrade your current browser, click here. or to install a new one, select a link below.
 
-Firefox ® Google  
-Chrome ™
+Firefox® Google  
+Chrome™
