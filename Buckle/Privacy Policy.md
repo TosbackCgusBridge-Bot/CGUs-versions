@@ -193,12 +193,12 @@
     *   *   Featured New
         
         *   Check out the Summer Lookbook!
-        *   Iconic Calvin Klein
+        *   What time is it? Watches for Men
         *   Women's Florals
-        *   Levi's are Here!
+        *   Free People
         *   It's in the Hem Details
         *   Off the Shoulder
-        *   Surf and Turf - Hybrid Shorts
+        *   Shop back to school!
         *   Treat Your Feet - Comfort Footbeds
         *   SPECIAL PRICING - Get it before it's gone!
         
@@ -219,7 +219,6 @@
         *   Shorts
         *   Shirts
         *   Shoes
-        *   Boardshorts
         *   Shop All
         
         *   Kid's New
