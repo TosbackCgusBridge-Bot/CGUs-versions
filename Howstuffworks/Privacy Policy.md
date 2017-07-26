@@ -25,44 +25,31 @@ Twitter
 
 Pinterest
 
-Like HowStuffWorks on Facebook!
-
-howstuffworks
-
 Toggle navigation
 
-Follow us
-
-Facebook
-
-YouTube
-
-Twitter
-
-Pinterest
-
+*   Health
+*   Science
+*   Home &. Garden
+*   Auto
+*   Tech
+*   Culture
+*   Money
+*   Lifestyle
+*   Entertainment
 *   Adventure
 *   Animals
-*   Auto
-*   Culture
-*   Entertainment
-*   Health
-*   Home &. Garden
-*   More
-    *   Lifestyle
-    *   Money
-    *   Science
-    *   Tech
-    *   Video
-    *   Shows
-    *   Quizzes
-*   Lifestyle
-*   Money
-*   Science
-*   Tech
-*   Video
 *   Shows
+*   Video
 *   Quizzes
+*   More 
+    *   Money
+    *   Lifestyle
+    *   Entertainment
+    *   Adventure
+    *   Animals
+    *   Shows
+    *   Video
+    *   Quizzes
 
 Privacy Policy  
 
@@ -246,11 +233,11 @@ Print | Citation &. Date
 
 More to Explore More to Explore Today's Headlines
 
-**How Barbie's Boyfriend Ken Became an Accidental Gay Icon**
+**Fans Bristle at Death of MS Paint, Microsoft Reacts**
 
-**Wisconsin Company Encourages Employees to Become Cyborgs**
+**Moon Base Builders Rejoice: More Water in the Moon Likely**
 
-**Do You Have Coffee Bubble Phobia? Scientists Now Know Why**
+**5 Mammals That Are Adorable … and Toxic**
 
 About Us
 
