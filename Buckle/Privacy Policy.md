@@ -79,7 +79,7 @@
         
           
           
-        Give a Buckle Gift card We Know You Were Thinking It... So We Said It. Shop Conversation Tees.
+        Give a Buckle Gift card Your Favorite Brands + Exclusive Styles. Shop Women’s. | Shop Men’s.
 *   Men
     *   *   Featured
         
@@ -136,7 +136,7 @@
         
           
           
-        Give a Buckle Gift card We Know You Were Thinking It... So We Said It. Shop Conversation Tees.
+        Give a Buckle Gift card Your Favorite Brands + Exclusive Styles. Shop Women’s. | Shop Men’s.
 *   Kids
     *   *   Featured
         
@@ -158,7 +158,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card We Know You Were Thinking It... So We Said It. Shop Conversation Tees.
+        Give a Buckle Gift card Your Favorite Brands + Exclusive Styles. Shop Women’s. | Shop Men’s.
 *   Jeans
     *   *   Women's Jeans
         
@@ -188,7 +188,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card We Know You Were Thinking It... So We Said It. Shop Conversation Tees.
+        Give a Buckle Gift card Your Favorite Brands + Exclusive Styles. Shop Women’s. | Shop Men’s.
 *   New
     *   *   Featured New
         
@@ -227,7 +227,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card We Know You Were Thinking It... So We Said It. Shop Conversation Tees.
+        Give a Buckle Gift card Your Favorite Brands + Exclusive Styles. Shop Women’s. | Shop Men’s.
 *   Sale
     *   *   Women's Sale
         
@@ -270,7 +270,7 @@
         
           
           
-        Give a Buckle Gift card We Know You Were Thinking It... So We Said It. Shop Conversation Tees.
+        Give a Buckle Gift card Your Favorite Brands + Exclusive Styles. Shop Women’s. | Shop Men’s.
 
 × Privacy &. Security
 
@@ -376,6 +376,7 @@ Promotions
 
 Sweepstakes Official Rules/Winners
 
+*   WE Fest Meet and Greet Giveaway Official Rules
 *   WE Fest Sweepstakes Official Rules
 *   Social Give Away Official Rules
 *   Sweepstakes Winners
