@@ -17,7 +17,7 @@ Mein SPIEGEL
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX ǀ
+*   DAX 12.305,11ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -41,6 +41,7 @@ Mein SPIEGEL
         *   Ausland
         *   Europa
         *   Meinung
+        *   Themenwochen Wahl
     
 *   Meinung
 *   Wirtschaft
