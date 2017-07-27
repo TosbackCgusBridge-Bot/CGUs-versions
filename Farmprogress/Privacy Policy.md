@@ -17,6 +17,7 @@ Menu Log In or Register
 *   Livestock
 *   Management
 *   Natural Resources
+*   Master Farmers
 
 *   Quotes
 *   Weather
@@ -42,11 +43,11 @@ Menu Log In or Register
 *   Log In
 *   Register
 
-Recent Recent Upping the side-by-side ante Jul 26, 2017 Groups outline priorities for farm bill 2018 Jul 25, 2017 Hot and dry in southern Iowa Jul 25, 2017 8 findings from the Ag Finance Databook Jul 25, 2017 Unique equipment facility celebrates milestone Jul 25, 2017 Featured When hail hits crop, tough decisions need to be made Jun 26, 2017 Dicamba application window closing Jun 26, 2017 Ash borer in more than half of Iowa’s counties Jun 27, 2017 Making small grains work Jun 23, 2017 Top stories Perdue to speak at Iowa Ag Summit Aug. 5 Jul 25, 2017 U.S. ag secretary will join farm leaders to discuss trade, energy, sustainability and the 2018 Farm Bill. 4 new Iowa conservation projects funded Jul 25, 2017 The research and demonstration projects are focused on reducing... Water quality practices Jul 25, 2017 Many lessons were learned at ISU’s Nitrogen and Water Week field days. Do you want to make a profit?
+Recent Recent Precision Planting sold to Agco Jul 26, 2017 MFA opens first rail facility in Hamilton Jul 26, 2017 Perdue hosts meeting of ag task force Jul 26, 2017 New Mexico Democrat introduces bill to ban chlorpyrifos Jul 26, 2017 Upping the side-by-side ante Jul 26, 2017 Featured When hail hits crop, tough decisions need to be made Jun 26, 2017 Dicamba application window closing Jun 26, 2017 Ash borer in more than half of Iowa’s counties Jun 27, 2017 Making small grains work Jun 23, 2017 Top stories Cash rent rates are sticky issue Jul 26, 2017 Timely Tips: Panel also offers options for hauling grain. Nominate an Iowa Master Farmer Jul 26, 2017 Slideshow: Who do you know that deserves this award? 2018 Master... 6 methods to determine a fair cash rent Jul 26, 2017 Case study on central Iowa farm looks at yields, soil maps, crop... Do you want to make a profit?
 
 This free guide from Penton Agriculture offers 5 ways to manage risk on the farm.
 
-GET IT NOW Focusing on water quality Jul 25, 2017 Charcoal rot: A hidden threat to soybean yield Jul 24, 2017 market overview Markets:View All Commodities  
+GET IT NOW Apply now for cover crop cost share Jul 26, 2017 Perdue to speak at Iowa Ag Summit Aug. 5 Jul 25, 2017 market overview Markets:View All Commodities  
 Data provided by iNet Solutions Group, Inc. All prices delayed 10 minutes.
 
 Sign Up for the Wallaces Farmer Update newsletter today!
@@ -55,7 +56,7 @@ AfghanistanAland IslandsAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarct
 
 Enter your email above to receive messages about offerings by Penton, its brands, affiliates and/or third-party partners, consistent with Penton’s Privacy Policy.
 
-List Today's weather Set location BROUGHT TO YOU BY Energy Jeff Broin receives George Washington Carver Award Jul 25, 2017 EPA’s proposal for RFS a mixed bag Jul 10, 2017 Brazil postpones ethanol tariff decision Jul 06, 2017 Regulatory USDA to publish new cattle report beginning today Jul 25, 2017 Enroll in ARC, PLC by Aug. 1 Jul 24, 2017 $13 million awarded to wetland projects in 7 states Jul 24, 2017 Education Equipment Dealers Foundation provides scholarships Jul 07, 2017 Beef Feedlot Assessment Field Days set for Eastern Iowa Jul 05, 2017 Ag Startup Engine continues to gain traction Jun 14, 2017 Nuffield Scholars program bringing farmers to ISU Jun 13, 2017 20 farmers in NFU 2017-18 Beginning Farmers Institute Jun 09, 2017 Decision Time Providing the latest content to boost production. sponsored content Case IH UAV gives you in-field data in an instant May 18, 2017 See why the new Case IH UAV is the ultimate crop-scouting tool. Featured media Get set for 2017 Iowa State Fair Jul 14, 2017 Slideshow: Check out this year’s Top 11 attractions and plan to attend Aug. 10-20.
+List Today's weather Set location BROUGHT TO YOU BY Energy Brazil announces 30-day delay of ethanol import tariff Jul 26, 2017 Jeff Broin receives George Washington Carver Award Jul 25, 2017 EPA’s proposal for RFS a mixed bag Jul 10, 2017 Regulatory U.K.-U.S. trade talks hit roadblock Jul 26, 2017 USDA to publish new cattle report beginning today Jul 25, 2017 Enroll in ARC, PLC by Aug. 1 Jul 24, 2017 Education Equipment Dealers Foundation provides scholarships Jul 07, 2017 Beef Feedlot Assessment Field Days set for Eastern Iowa Jul 05, 2017 Ag Startup Engine continues to gain traction Jun 14, 2017 Nuffield Scholars program bringing farmers to ISU Jun 13, 2017 20 farmers in NFU 2017-18 Beginning Farmers Institute Jun 09, 2017 Decision Time Providing the latest content to boost production. sponsored content Case IH UAV gives you in-field data in an instant May 18, 2017 See why the new Case IH UAV is the ultimate crop-scouting tool. Featured media Get set for 2017 Iowa State Fair Jul 14, 2017 Slideshow: Check out this year’s Top 11 attractions and plan to attend Aug. 10-20.
 
 *   The Penton Ag Network
 *   Leadership
