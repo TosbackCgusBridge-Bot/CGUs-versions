@@ -16,12 +16,12 @@
 *   2017 Yaris iA $15,950 starting 30/39 est. mpg build Specials
 *   2017 Corolla $18,500 starting 28/36 est. mpg build Specials
 *   2017 Corolla iM $18,750 starting 27/35 est. mpg build Specials
-*   2018 Camry $23,495 starting 22/32 est. mpg build Specials
+*   2018 Camry $23,495 starting 29/41 est. mpg build Specials
 *   2018 Avalon $33,500 starting 21/30 est. mpg build Specials
 *   2017 86 $26,255 starting 21/28 est. mpg build Specials
 *   2017 Sienna $29,750 starting 19/27 est. mpg build Specials
 
-*   2017 Tacoma $24,320 starting 19/24 est. mpg build Specials
+*   2017 Tacoma $24,575 starting 19/24 est. mpg build Specials
 *   2017 Tundra $30,120 starting 15/19 est. mpg build Specials
 
 *   2018 C-HR $22,500 starting 27/31 est. mpg build Specials
@@ -31,7 +31,7 @@
 *   2017 Sequoia $45,560 starting 13/17 est. mpg build Specials
 *   2017 Land Cruiser $84,775 starting 13/18 est. mpg build Specials
 
-*   2018 Camry Hybrid $27,800 starting 44/47 est. mpg build Specials
+*   2018 Camry Hybrid $27,800 starting 51/53 est. mpg build Specials
 *   2018 Avalon Hybrid $37,500 starting 40/39 est. mpg build Specials
 *   2017 RAV4 Hybrid $29,030 starting 34/30 est. mpg build Specials
 *   2017 Highlander Hybrid $36,270 starting 30/28 est. mpg build Specials
