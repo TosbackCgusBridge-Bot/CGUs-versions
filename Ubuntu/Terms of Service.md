@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Conjure-up dev summary highlights: screen ordering and improved deploy ›
 *   ss: another way to get socket statistics ›
 *   Ubuntu Desktop Weekly Update: July 24, 2017 ›
+*   Developing Ubuntu using git ›
 *   Ubuntu Server Development Summary – 21 July 2017 ›
-*   Dustin Kirkland: Ubuntu 18.04 LTS Desktop Default Application Survey ›
-*   Testing the future of Juju with snaps ›
