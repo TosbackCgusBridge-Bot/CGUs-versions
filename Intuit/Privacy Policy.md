@@ -41,72 +41,51 @@ Your Store: select store 0 my bag $ 0.00
 *   sephora
 *   clearance
 
-2017.12.2.0.4.0 2017 XM migration-home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Tue Jul 25 22:04:48 CDT 2017 ->. dtexppr1l1j2\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneA \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Tue Jul 25 22:06:00 CDT 2017 ->. dtexppr1l1j4\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneB \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Tue Jul 25 22:04:19 CDT 2017 ->. dtexppr1l1j5\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneC
+2017.12.2.0.4.0 2017 XM migration-home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Wed Jul 26 14:07:57 CDT 2017 ->. dtexppr1c2j4\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneA \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Wed Jul 26 14:07:57 CDT 2017 ->. dtexppr1c2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneB \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Wed Jul 26 14:07:57 CDT 2017 ->. dtexppr1c2j4\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneC
 
 UP TO 50% OFF DORM
 
 SHOP ALL
 
-*   $54.99 - $84.99 sale $110 - $170  original Home Expressions™ Candace Complete Bedding Set with Sheets 4.23 (13)
-*   $54.99 - $84.99 sale $110 - $170  original Home Expressions Shawn Complete Bedding Set with Sheets 5.0 (1)
+*   $39.99 sale $110 - $170  original Home Expressions™ Candace Complete Bedding Set with Sheets 4.23 (13)
+*   $39.99 sale $110 - $170  original Home Expressions Shawn Complete Bedding Set with Sheets 5.0 (1)
 *   $54.99 - $74.99 sale $110 - $150  original Home Expressions Riley Quilt Set
-*   $54.99 - $84.99 sale $110 - $170  original Home Expressions Callista Bohemian Reversible Complete Bedding Set with Sheets 4.5 (6)
-*   $54.99 - $84.99 sale $110 - $170  original Home Expressions Gigi Complete Bedding Set with Sheets 3.0 (2)
-*   $14.99 - $29.99 sale $40 - $80  original JCPenney Home™ Classic Mattress Pad 4.62 (804)
-*   $7 - $29.99 sale $30 - $60  original Home Expressions™ Microfiber Sheet Set 4.48 (942)
-*   $54.99 - $84.99 sale $110 - $170  original Home Expressions Complete Bedding Set with Sheets 4.73 (40)
+*   $39.99 sale $110 - $170  original Home Expressions Callista Bohemian Reversible Complete Bedding Set with Sheets 4.5 (6)
+*   $39.99 sale $110 - $170  original Home Expressions Gigi Complete Bedding Set with Sheets 3.0 (2)
+*   $14.99 - $29.99 sale $40 - $80  original JCPenney Home™ Classic Mattress Pad 4.62 (807)
+*   $12.99 - $34.99 sale $30 - $60  original Home Expressions™ Microfiber Sheet Set 4.48 (944)
+*   $39.99 sale $110 - $170  original Home Expressions Complete Bedding Set with Sheets 4.73 (40)
 *   $23.99 - $38.99 sale $40 - $65  original JCPenney Home™ Woven Cotton Blanket 4.44 (642)
 *   $19.99 - $29.99 sale $40 - $60  original JCPenney Home™ Velvet Plush Solid Blanket 4.74 (1194)
 *   $29.99 - $44.99 sale $50 - $80  original Intelligent Design Microfiber Solid Sheet Set 3.9 (10)
-*   $54.99 - $84.99 sale $110 - $170  original Studio™ Hudson Reversible Bedding Set 4.35 (63)
-*   $69.99 - $79.99 sale $125 - $160  original Mi Zone Switch Colorblock Comforter Set 4.68 (19)
-*   $69.99 - $79.99 sale $125 - $150  original Intelligent Design Colton Color Block Comforter Set + BONUS Decorative Pillow 4.67 (42)
-*   $89.99 - $109.99 sale $150 - $210  original Intelligent Design Ashley Floral Comforter Set 4.55 (31)
+*   $49.99 - $79.99 sale $125 - $160  original Mi Zone Switch Colorblock Comforter Set 4.68 (19)
+*   $39.99 sale $110 - $170  original Studio™ Hudson Reversible Bedding Set 4.35 (63)
+*   $49.99 - $59.99 sale $125 - $150  original Intelligent Design Colton Color Block Comforter Set + BONUS Decorative Pillow 4.67 (42)
+*   $131.99 - $143.99 sale $220 - $240  original Avondale Manor Ella Striped Reversible 7-pc. Comforter Set 2.67 (15)
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Tue Jul 25 22:34:08 CDT 2017 ->. dtexppr1c1j3\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Wed Jul 26 14:07:57 CDT 2017 ->. dtexppr1c2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 40-50% OFF KIDS
 
 SHOP ALL
 
 *   $17.99 sale $26  original French Toast Bermuda Short Woven Bermuda Shorts - Big Kid Girls 4.4 (15)
-*   $17.99 sale $32  original IZ 4-7 PULL-ON SHORT
+*   $11.99 sale $32  original IZ 4-7 PULL-ON SHORT
 *   $20.99 - $21.99 sale $30 - $32  original French Toast Girls Pull-On Pant Flat Front Pants-Big Kid Girls Plus
 *   $13.99 sale $24  original U.S. Polo Assn. Short Sleeve Solid Polo Shirt - Big Kid Girls
-*   $11.99 - $12.99 sale $20 - $22  original Izod Exclusive Short Sleeve Button-Front Shirt Girls
-*   $13.99 sale $24  original Izod Pleated Scooter Skirt 5.0 (1)
-*   $20.99 sale $30  original French Toast Straight Fit Trousers - Big Kid Girls
+*   $9.99 - $10.99 sale $20 - $22  original Izod Exclusive Short Sleeve Button-Front Shirt Girls
+*   $17.99 - $19.99 sale $40 - $44  original Arizona Flat Front Stretch Pants- Boys 8-20, Slim and Husky
 *   $13.99 - $18.99 sale $20 - $28  original French Toast Pull-On Shorts Big Kid Girls 5.0 (1)
+*   $11.99 sale $24  original Izod Pleated Scooter Skirt 5.0 (1)
 *   $17.99 sale $30  original U.S. Polo Assn. Short Sleeve Cap Sleeve Shirt Dress - Big Kid Girls
-*   $13.99 sale $24  original U.S. Polo Assn. Scooter Skirt Girls
-*   $15.99 sale $24  original French Toast Front Button Pleated Scooter Scooter Skirt Girls
+*   $20.99 sale $30  original French Toast Straight Fit Trousers - Big Kid Girls
 *   $13.99 - $14.99 sale $20 - $22  original French Toast Short Sleeve Button-Front Shirt Girls
-*   $13.99 sale $24  original Izod Exclusive Scooter Skirt Girls
+*   $11.99 sale $24  original Izod Exclusive Scooter Skirt Girls
+*   $15.99 sale $24  original French Toast Front Button Pleated Scooter Scooter Skirt Girls
+*   $13.99 sale $24  original U.S. Polo Assn. Scooter Skirt Girls
 *   $13.99 sale $20  original Short Sleeve Pique Polo Husky
-*   $14.99 - $15.99 sale $22 - $24  original French Toast Short Sleeve Solid Jersey Polo Shirt - Big Kid Girls
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Tue Jul 25 22:04:58 CDT 2017 ->. dtexppr1l1j6\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-25% OFF\* INSTANT REBATE ON ALL HUFFY BIKES •rebate applied in cart
-
-SHOP ALL
-
-*   $141.99  Huffy Alpine 24In Women's Mountain Bike
-*   $123.99  Huffy Marvel Spider-Man 16In Bike with WebTrap Handlebar Plaque
-*   $141.99  Huffy Alpine 26In Women's Mountain Bike
-*   $132.99  Huffy Granite 26In Women's Mountain Bike
-*   $59.99  Huffy Disney Frozen Lights and Sounds Inline Scooter
-*   $132.99  Huffy Granite 26In Men's Mountain Bike
-*   $59.99  Huffy Classic Doubledeck Red Trike
-*   $102.99  Huffy So Sweet 20In Bike
-*   $169.99  Huffy Rival 26In Men's Mountain Bike
-*   $105.99  Huffy Marvel Spider-Man 12In Bike with WebTrap Handlebar Plaque
-*   $132.99  Huffy Good Vibrations 20In Bike
-*   $94.99  Huffy Pro Thunder 16In Bike
-*   $105.99  Huffy Disney Cars 12In Bike with Race-Ready Tire Case
-*   $121.99  Huffy Disney Cars 16In Bike with Race-Ready Tire Case
-
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Tue Jul 25 04:37:40 CDT 2017 ->. dtexppr1l2j2\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Tue Jul 25 22:05:20 CDT 2017 ->. dtexppr1l2j2\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true true get connected
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Wed Jul 26 14:07:57 CDT 2017 ->. dtexppr1c2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Wed Jul 26 14:07:57 CDT 2017 ->. dtexppr1c2j3\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true true get connected
 
 1.800.322.1189 Enter a valid email address Enter a valid mobile number. Sign up for email alerts, offers promotions Sign Up Mobile offers and promotions Sign Up
 
