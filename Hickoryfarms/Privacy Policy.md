@@ -190,8 +190,8 @@ My Account
 
 Guarantees
 
-*   Security
 *   100% Satisfaction
+*   Security
 *   Substitution Policy
 
 Privacy
@@ -212,8 +212,8 @@ Security
 
 About Us
 
-*   The Hickory Farms Story
 *   Store Locator
+*   The Hickory Farms Story
 *   Employment Opportunities
 
 Contact Us
@@ -238,7 +238,6 @@ Sign up for gift ideas &. exclusive offers! Sign Up
 
 Customer Service
 
-*   Business Gifts
 *   Gift Cards
 *   Where to Buy
 *   Order Tracking
