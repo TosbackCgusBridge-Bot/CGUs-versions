@@ -173,10 +173,12 @@ Back to Mozilla Privacy Policy Mozilla Mozilla
 
 Firefox
 
-*   Download Firefox Web Browser
-*   Desktop Browser for Mac, Windows, Linux
-*   Mobile Browser for Android
-*   Mobile Browser for iOS
+*   Download Firefox
+*   Android Browser
+*   iOS Browser
+*   Focus Browser
+*   Desktop Browser
+*   Beta, Nightly, Developer Edition
 *   *   Twitter (@firefox)
     *   Facebook (Firefox)
     *   YouTube (firefoxchannel)
