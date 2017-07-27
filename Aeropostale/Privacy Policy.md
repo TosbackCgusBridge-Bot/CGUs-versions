@@ -112,6 +112,7 @@ Aéropostale
     *   Thong
     
     *   BRAS
+    *   Bodysuits
     *   ACCESSORIES
     *   CLEARANCE
     
