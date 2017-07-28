@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Weekly Kernel Development Summary – Wed July 27, 2017 ›
 *   Conjure-up dev summary highlights: screen ordering and improved deploy ›
 *   ss: another way to get socket statistics ›
 *   Ubuntu Desktop Weekly Update: July 24, 2017 ›
 *   Developing Ubuntu using git ›
-*   Ubuntu Server Development Summary – 21 July 2017 ›
