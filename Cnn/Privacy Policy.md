@@ -56,8 +56,6 @@ Sport
 *   Sailing
 *   Skiing
 
-Travel
-
 *   Wonder
 *   Food &. Drink
 *   Play
@@ -197,8 +195,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
     7.  Sailing
     8.  Skiing
 
-1.  Travel
-    1.  Wonder
+1.  1.  Wonder
     2.  Food &. Drink
     3.  Play
     4.  Stay
