@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server Development Summary – 28 Jul 2017 ›
+*   Ubuntu Desktop Weekly Update: July 28, 2017 ›
+*   The Canonical Distribution of Kubernetes: Development Summary #4 ›
 *   Weekly Kernel Development Summary – Wed July 27, 2017 ›
 *   Conjure-up dev summary highlights: screen ordering and improved deploy ›
-*   ss: another way to get socket statistics ›
-*   Ubuntu Desktop Weekly Update: July 24, 2017 ›
-*   Developing Ubuntu using git ›
