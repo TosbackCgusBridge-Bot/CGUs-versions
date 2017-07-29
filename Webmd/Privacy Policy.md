@@ -106,10 +106,10 @@ Featured Topics*   Slideshow Symptoms of ADHD in Children
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   9 Things That May Raise Dementia Risk
-    *   Daily Coffee May Help You Live Longer
-    *   What's Ahead for Health Reform?
-    *   Do Artificial Sweeteners Raise Odds for Obesity?
+    *   Teen Suicide: 'The Time for Secrecy Is Over'
+    *   Could a Little Alcohol Lower Your Diabetes Risk?
+    *   'Eye Freckles' May Predict Sun-Related Problems
+    *   Is It Necessary to Finish All Your Antibiotics?
     *   Sleep Disturbances Linked to Alzheimer’s Risk
     
     Experts &. Community
