@@ -148,16 +148,17 @@ Aéropostale
 *   Trending
     
     *   GIRLS
-    *   Ruffles
-    *   Denim Details
-    *   Festival Vibes
-    *   Off the Shoulder
+    *   Rompers
+    *   Lace Up
+    *   Baby Tees
     
     *   GUYS
-    *   Printed
+    *   Track Pants
+    *   Printed Shirts
     
     *   LIVE LOVE DREAM
-    *   Black White &. Mesh Allover
+    *   Studio
+    *   Colorblock
 
 *   Go
 
