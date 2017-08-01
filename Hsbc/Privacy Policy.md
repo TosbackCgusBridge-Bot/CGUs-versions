@@ -96,7 +96,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Regulatory capital securities
         *   Credit ratings
     
-    *   Interim Results 2017 HSBC Holdings plc announced its Interim Results on Monday, 31 July 2017.
+    *   Interim Results 2017 HSBC Holdings plc announced its Interim Results 2017 on 31 July.
 *   News and insight
     
     *   Media resources
