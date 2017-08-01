@@ -43,11 +43,11 @@ Menu Log In or Register
 *   Log In
 *   Register
 
-Recent Recent This Week in Agribusiness, July 29, 2017 Jul 29, 2017 Appeals court rules EPA can't consider supply when setting RFS volumes Jul 28, 2017 Japan increases tariff on U.S. beef imports Jul 28, 2017 NPPC supports delay of air emissions reporting Jul 28, 2017 Trump administration begins formal process to repeal WOTUS definition Jul 28, 2017 Featured When hail hits crop, tough decisions need to be made Jun 26, 2017 Dicamba application window closing Jun 26, 2017 Ash borer in more than half of Iowa’s counties Jun 27, 2017 Making small grains work Jun 23, 2017 Top stories Iowa family honored for cattle production Jul 28, 2017 Northwest Iowa operation is recognized for outstanding environmental stewardship. Roller crimper key in organic no-till system Jul 28, 2017 Growing cover crops and then rolling them down can help alleviate... European report presents new data on antibiotic use Jul 28, 2017 Experts recommend further research. Do you want to make a profit?
+Recent Recent Laguarda selected as Farm Credit inspector general Jul 31, 2017 Don't let heat stress keep you out of the show ring Jul 31, 2017 U.S. dairy exports jump 36% from a year ago Jul 31, 2017 Bayer's second quarter performance matches prior-year period Jul 31, 2017 Farmers have been closely watching health care debate Jul 31, 2017 Featured When hail hits crop, tough decisions need to be made Jun 26, 2017 Dicamba application window closing Jun 26, 2017 Ash borer in more than half of Iowa’s counties Jun 27, 2017 Making small grains work Jun 23, 2017 Top stories Low-interest emergency loans available from USDA Jul 31, 2017 Emergency loans for physical loss due to weather are available for more counties in Iowa. Register by Aug. 16 for beef conference Jul 31, 2017 Conference is Aug. 29-30 in Manhattan, Kansas. Iowa family honored for cattle production Jul 28, 2017 Northwest Iowa operation is recognized for outstanding... Do you want to make a profit?
 
 This free guide from Penton Agriculture offers 5 ways to manage risk on the farm.
 
-GET IT NOW More sales are likely Jul 28, 2017 Where are land values going? Jul 27, 2017 market overview Markets:View All Commodities  
+GET IT NOW Roller crimper key in organic no-till system Jul 28, 2017 European report presents new data on antibiotic use Jul 28, 2017 market overview Markets:View All Commodities  
 Data provided by iNet Solutions Group, Inc. All prices delayed 10 minutes.
 
 Sign Up for the Wallaces Farmer Update newsletter today!
