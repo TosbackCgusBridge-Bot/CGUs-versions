@@ -20,8 +20,6 @@ Skip to main content Online Trust Alliance
 *   Resources
     *   Advertising Integrity &. Fraud
     *   Data Breach &. Protection
-    *   Email Practices &. Reports
-    *   IoT Resources
     *   OTA Members (Restricted)
     *   Report a Site Vulnerability
 *   Best Practices
@@ -119,8 +117,6 @@ More >>. Resources
 
 *   Advertising Integrity &. Fraud
 *   Data Breach &. Protection
-*   Email Practices &. Reports
-*   IoT Resources
 *   OTA Members (Restricted)
 *   Report a Site Vulnerability
 
