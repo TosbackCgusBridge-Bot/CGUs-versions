@@ -85,7 +85,7 @@ COMPARE **NX**
 
 **RX**
 
-*   Starting at $43,120\*
+*   Starting at $43,220\*
 *   295-hp 3.5L V6
 
 *   Build
