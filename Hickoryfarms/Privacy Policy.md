@@ -9,7 +9,7 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Summer Entertaining
+    Holidays &. Occasions*   Back to School
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Gifts for Her
@@ -82,7 +82,7 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Summer Entertaining
+    Holidays &. Occasions*   Back to School
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Gifts for Her
@@ -190,8 +190,8 @@ My Account
 
 Guarantees
 
-*   100% Satisfaction
 *   Security
+*   100% Satisfaction
 *   Substitution Policy
 
 Privacy
@@ -212,8 +212,8 @@ Security
 
 About Us
 
-*   Store Locator
 *   The Hickory Farms Story
+*   Store Locator
 *   Employment Opportunities
 
 Contact Us
