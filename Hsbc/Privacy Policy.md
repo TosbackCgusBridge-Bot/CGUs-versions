@@ -35,7 +35,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Online gallery
         *   Frequently asked questions
     
-    *   Structure and network Read more about HSBC's network and four global businesses.
+    *   Our strategy Our strategy enables us to capture value from our international network.
 *   Our approach
     
     *   Our values
@@ -62,7 +62,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Health and safety
         *   Working with suppliers
     
-    *   Diversity and inclusion Diversity benefits our customers, our business and our people.
+    *   Sustainability Sustainability underpins our strategy and enables us to fulfil our purpose.
 *   Investor relations
     
     *   Group results and reporting
@@ -117,7 +117,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Culture
         *   Other sponsorships
     
-    *   Reporting on our impact How HSBC is meeting its legal, social and environmental obligations.
+    *   HSBC is 'World's best bank' We have received one of the industry's most significant accolades.
 *   Careers
     
     *   Key hiring areas
@@ -151,8 +151,8 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Frequently asked questions
         
     
-    *   Why HSBC? We have a supportive, inclusive and diverse environment.
-    *   Application hints and tips What to expect and how you can prepare for the process.
+    *   Explore our business You can develop your career in markets around the world.
+    *   Student and graduates We want HSBC to be a place where everyone can achieve their potential.
 
 Online bankingOnline banking
 
