@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Globe had 2nd warmest year to date and 3rd warmest June on record Arctic and Antarctic sea-ice coverage remains small AROUND NOAA // NOAA discovery of green deep-sea sponge shows promise for cancer research NOAA locates wreckage of crab fishing vessel off St. George Island, Alaska Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event
+Enter Search Terms Globe had 2nd warmest year to date and 3rd warmest June on record Arctic and Antarctic sea-ice coverage remains small AROUND NOAA // Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event Top 10 photos from the 2017 Pacific Coral Survey Expedition NOAA discovery of green deep-sea sponge shows promise for cancer research
 
 *   About our agency
 *   News and features
