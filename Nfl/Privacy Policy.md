@@ -5,8 +5,6 @@
 *   Video
 *   Fantasy
 
-*   Fantasy
-
 *   *   Game Pass
     *   Stats
     *   Training Camp
