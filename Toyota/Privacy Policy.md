@@ -1073,6 +1073,8 @@ Help
 *   MSRP excludes the Delivery, Processing, and Handling Fee of $895 for Cars (Yaris, Yaris iA, 86, Corolla, Corolla iM, Camry, Camry HV, Prius LB, Prius _c_, Prius _v_, Prius Prime, Mirai, Avalon, Avalon HV), $995 for Small/Medium Trucks, SUVs and Van (C-HR, RAV4, RAV4 HV, Highlander, Highlander HV, 4Runner, Sienna, Tacoma), $1,295 for Large SUVs (Sequoia, Land Cruiser), and $1,295 for Large Truck (Tundra). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. Actual dealer price will vary.
 *   2017 EPA-estimated city/highway mileage. Actual mileage will vary.  
     2018 EPA-estimated city/highway mileage. Actual mileage will vary.
+*   2018 EPA-estimated mileage. Actual mileage will vary.
+*   2018 EPA-estimated 29 city/41 highway/34 combined mpg for Camry L, available Fall 2017. Actual mileage will vary.
 *   2017 EPA-estimated mileage. Actual mileage will vary.
 *   2017 EPA-estimated 19 city/27 highway/22 combined mpg for Sienna FWD. Actual mileage will vary.
 *   2017 EPA-estimated 54 city/50 highway/52 combined mpg for Prius. Actual mileage will vary.
