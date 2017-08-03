@@ -17,7 +17,7 @@ Mein SPIEGEL
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.251,29ǀ
+*   DAX 12.181,48ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -159,7 +159,6 @@ Mein SPIEGEL
         *   Tests
         *   Fahrkultur
     *   *   Kfz-Versicherung
-        *   Autoverkauf
         *   Automarkt
 *   Stil
     
@@ -674,7 +673,6 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
 *   Bußgeldrechner
 *   Werkstattvergleich
 *   Kfz-Versicherung
-*   Autoverkauf
 *   Automarkt
 
 *   ENERGIE
