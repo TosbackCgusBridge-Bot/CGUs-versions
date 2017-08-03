@@ -21,6 +21,8 @@ Games
 
 View more results
 
+Add to Chrome
+
 *   Apps
     
 *   Multiplayer
