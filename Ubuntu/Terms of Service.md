@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Weekly Kernel Development Summary – Aug 2, 2017 ›
 *   Ubuntu Foundations Development Summary: August 1, 2017 ›
 *   Snap Updates are getting smaller, here’s why: ›
 *   How to pick a winning IoT business model – Infographic ›
 *   Ubuntu Server Development Summary – 28 Jul 2017 ›
-*   Ubuntu Desktop Weekly Update: July 28, 2017 ›
