@@ -106,10 +106,10 @@ Featured Topics*   Slideshow Symptoms of ADHD in Children
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Teen Suicide: 'The Time for Secrecy Is Over'
-    *   Could a Little Alcohol Lower Your Diabetes Risk?
+    *   Study Warns Yoga Can Be Risky
+    *   New Clues About Allergy Triggers
     *   'Eye Freckles' May Predict Sun-Related Problems
-    *   Is It Necessary to Finish All Your Antibiotics?
+    *   Blood Proteins Tied to Severity of Chronic Fatigue
     *   Sleep Disturbances Linked to Alzheimer’s Risk
     
     Experts &. Community
