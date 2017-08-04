@@ -1,6 +1,4 @@
-_Last revised: February 2017_ **Summary of changes:** In our most recent update to these terms of use, we’ve updated how we use your personal information (see section 6: Personal Information). We now use your information to personalize your digital experiences. When you sign in to our platforms, we store your information to offer things like improved search, newsletters, commenting content recommendations and more relevant ads.
-
-CBC uses your IP address to show you local news, weather and sports content. We also collect aggregate data that’s used to evaluate the performance of our digital platforms and to optimize your online experience.
+_Last revised: February 2017_
 
 1.Welcome to CBC/Radio-Canada's Digital Services
 
