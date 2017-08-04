@@ -4,24 +4,23 @@ You have been detected as being from . Where applicable, you can see country-spe
 
 Change country/language X
 
+*   Sign In
+    *   icon-svg-cta-go-arrow-circle My Account
+    *   icon-svg-cta-go-arrow-circle Autodesk Account
+        
+        (includes all Subscriptions)
+        
+    *   icon-svg-cta-go-arrow-circle A360
+    *   icon-svg-cta-go-arrow-circle Education Community
+    *   icon-svg-cta-go-arrow-circle Education Community
+    *   Need help? Visit our sign-in FAQsSign out
 *   United States
     
     We have redirected you to an equivalent page on your local site where you can see local pricing and promotions and purchase online.
     
     Stay on our U.S. site
     
-*   *   Search
-    *   Sign in
-        *   My Account
-        *   Autodesk Account
-            
-            (includes all Subscriptions)
-            
-        *   A360
-        *   Education Community Education Community
-        *   Need help? Visit our sign-in FAQs
-    *   Sign out
-    *   Menu
+*   *   Menu
 
 *   Products
     *   All products
