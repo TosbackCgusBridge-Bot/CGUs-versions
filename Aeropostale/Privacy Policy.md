@@ -153,8 +153,8 @@ Aéropostale
     *   Baby Tees
     
     *   GUYS
-    *   Track Pants
     *   Printed Shirts
+    *   Track Pants
     
     *   LIVE LOVE DREAM
     *   Studio
