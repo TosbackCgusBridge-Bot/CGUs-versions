@@ -84,10 +84,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Aug 1, 2017 Are You Protecting Your Email and Your Customers? Learnings from the 2017 OTA Online Trust Audit
-
-Join experts from Agari, Valimail and Yes Lifecycle Marketing as we discuss the value of best practices for protecting email using authentication technologies (SPF, DKIM &. DMARC), cover learnings from the 2017 OTA Online Trust Audit and talk about how to avoid common mistakes in deployment of these technologies.
-
 Tue, Oct 17, 2017 Privacy, Risk, Security 2017
 
 Privacy. Security. Risk.
