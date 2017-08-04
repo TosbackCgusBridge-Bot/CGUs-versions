@@ -117,7 +117,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Culture
         *   Other sponsorships
     
-    *   HSBC is 'World's best bank' We have received one of the industry's most significant accolades.
+    *   HSBC wins 'World's Best Bank' We have received one of the industry's most significant accolades.
 *   Careers
     
     *   Key hiring areas
