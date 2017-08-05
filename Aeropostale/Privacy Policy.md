@@ -3,6 +3,7 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
+    *   Fall Must- Haves
     *   $15 Backpack Special
     *   TRENDING
     *   Icon Tees
@@ -47,6 +48,7 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
+    *   Fall Must- Haves
     *   $15 Backpack Special
     *   TAPOUT
     *   TRENDING
@@ -80,6 +82,7 @@ Aéropostale
 *   Active
     
     *   FEATURED
+    *   Fall Must- Haves
     *   Studio
     *   Active
     *   Lounge
@@ -150,6 +153,7 @@ Aéropostale
     *   GIRLS
     *   Rompers
     *   Lace Up
+    *   Ruffle Shoulder Detail
     *   Baby Tees
     
     *   GUYS
