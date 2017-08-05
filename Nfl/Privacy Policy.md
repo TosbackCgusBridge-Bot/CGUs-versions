@@ -1,4 +1,4 @@
-*   ARI 15 DAL? 17 3rd ? 09:46
+*   ARI 18 DAL 20 Final
 
 *   News
 *   Scores
