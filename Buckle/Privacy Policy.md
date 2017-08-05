@@ -374,7 +374,6 @@ Returns
 Promotions
 
 *   50th Anniversary Special Pricing Event
-*   Fifty for 50 Bonus Points
 *   All Promotions
 *   Tax Free Weekends 2017
 *   Store Events
