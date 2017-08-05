@@ -1,4 +1,4 @@
-2017.13.0.0.69.0
+2017.12.2.0.6.0
 
 *   find a store
 *   store ads
@@ -41,53 +41,75 @@ Your Store: select store 0 my bag $ 0.00
 *   sephora
 *   clearance
 
-2017.13.0.0.69.0 2017 XM migration-home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Thu Aug 03 04:26:03 CDT 2017 ->. dtexppr1l1j4\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneA \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Thu Aug 03 04:26:03 CDT 2017 ->. dtexppr1l1j3\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneB \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Thu Aug 03 09:43:49 CDT 2017 ->. dtexppr1l1j4\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneC
+2017.12.2.0.6.0 2017 XM migration-home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Fri Aug 04 03:29:13 CDT 2017 ->. dtexppr1c2j1\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneA \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Fri Aug 04 15:01:43 CDT 2017 ->. dtexppr1c2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneB \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Fri Aug 04 15:15:57 CDT 2017 ->. dtexppr1c2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+\*Buy one item at regular price, get the second item of equal or lesser value for one cent, while supplies last. \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Fri Aug 04 15:01:14 CDT 2017 ->. dtexppr1c2j4\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+KIDS' JEANS 30-50% OFF
+
+SHOP ALL
+
+*   $21.99 sale $38  original Squeeze Skinny Fit Jean Big Kid Girls
+*   $21.99 sale $38  original Squeeze Skinny Fit Jean Big Kid Girls
+*   $22.99 sale $40  original Levi's Skinny Fit Jean Big Kid Girls
+*   $21.99 sale $38  original Ymi Skinny Fit - Big Kid Girls
+*   $22.99 sale $40  original Levi's Skinny Fit Jean Big Kid Girls
+*   $22.99 sale $40  original Levi's Skinny Fit Jean Big Kid Girls
+*   $24.99 sale $48  original Levi's® 519™ Extreme Skinny Jeans - Boys 8-20 4.52 (46)
+*   $21.99 sale $38  original Lee Skinny Fit Jean Big Kid Girls
+*   $21.99 sale $38  original Lee Skinny Fit Jean Big Kid Girls
+*   $29.99 sale $40  original Dickies Slim Fit Jean Boys Slim
+*   $21.99 sale $38  original YMI FRAY HEM ANKLE JEAN
+*   $21.99 sale $38  original Lee Skinny Fit Jean Big Kid Girls
+*   $21.99 sale $45  original Zco Jeans Jean Big Kid Girls
+*   $21.99 sale $45  original Zco Jeans Jean Big Kid Girls
+*   $24.99 sale $48  original Levi's Skinny Fit Jean Big Kid Boys
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Fri Aug 04 15:01:43 CDT 2017 ->. dtexppr1c2j2\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneD
 
 PRICES SO LOW COUPON NOT NEEDED
 
 SHOP ALL
 
-*   $97.28 - $108.09 sale $430 - $460  original Cadence 24-pc. Comforter Set 5.000000 (2)
-*   $46.68 - $75.03 sale $250 - $320  original Madison Park Lafayette 7-pc. Tufted Comforter Set 4.150000 (79)
-*   $29.74 - $41.99 sale $125 - $160  original Mi Zone Switch Colorblock Comforter Set 4.680000 (19)
-*   $29.74 - $36.39 sale $125 - $150  original Intelligent Design Colton Color Block Comforter Set + BONUS Decorative Pillow 4.670000 (43)
-*   $62.25 - $139.99 sale $260 - $400  original Madison Park Teagan 7-pc. Comforter Set 4.660000 (67)
-*   $83.29 - $97.29 sale $300 - $350  original Madison Park Melanie Embroidered 9-pc. Comforter Set 4.220000 (27)
-*   $27.99 - $33.59 sale $100 - $160  original Mi Zone Garrett Striped Comforter Set 4.520000 (31)
-*   $66.49 - $90.99 sale $190 - $260  original Madison Park Essentials Brighton Comforter Set 4.700000 (10)
-*   $64.86 - $87.09 sale $240 - $280  original Madison Park Curtis Pleated 7-pc. Comforter Set 4.450000 (22)
-*   $74.37 - $81.37 sale $220 - $240  original Avondale Manor Ella Striped Reversible 7-pc. Comforter Set 2.670000 (15)
-*   $59.49 - $69 sale $220 - $250  original Madison Park Venetian 6-pc. Coverlet Set 4.620000 (93)
-*   $71.39 - $75.66 sale $290 - $335  original Madison Park Blaine 7-pc. Jacquard Comforter Set 4.570000 (75)
-*   $71.39 - $100.79 sale $170 - $240  original Better Trends Ashton Chenille Bedspread 4.560000 (27)
-*   $48.64 - $83.99 sale $210 - $240  original Madison Park Harvard 5-pc. Quilt Set 4.610000 (36)
-*   $57.07 - $62.26 sale $230 - $250  original Madison Park Anchorage 6-pc. Coverlet Set 5.000000 (10)
-
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Thu Aug 03 04:26:03 CDT 2017 ->. dtexppr1l1j2\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneD
+*   $97.28 - $108.09 sale $430 - $460  original Cadence 24-pc. Comforter Set 5.0 (2)
+*   $46.68 - $75.03 sale $250 - $320  original Madison Park Lafayette 7-pc. Tufted Comforter Set 4.15 (79)
+*   $29.74 - $41.99 sale $125 - $160  original Mi Zone Switch Colorblock Comforter Set 4.68 (19)
+*   $29.74 - $36.39 sale $125 - $150  original Intelligent Design Colton Color Block Comforter Set + BONUS Decorative Pillow 4.67 (43)
+*   $83.29 - $97.29 sale $300 - $350  original Madison Park Melanie Embroidered 9-pc. Comforter Set 4.22 (27)
+*   $62.25 - $139.99 sale $260 - $400  original Madison Park Teagan 7-pc. Comforter Set 4.66 (67)
+*   $33.59 sale $160  original Mi Zone Garrett Striped Comforter Set 4.52 (31)
+*   $66.49 - $90.99 sale $190 - $260  original Madison Park Essentials Brighton Comforter Set 4.7 (10)
+*   $64.86 - $87.09 sale $240 - $280  original Madison Park Curtis Pleated 7-pc. Comforter Set 4.45 (22)
+*   $74.37 - $81.37 sale $220 - $240  original Avondale Manor Ella Striped Reversible 7-pc. Comforter Set 2.67 (15)
+*   $59.49 - $69 sale $220 - $250  original Madison Park Venetian 6-pc. Coverlet Set 4.62 (94)
+*   $71.39 - $75.66 sale $290 - $335  original Madison Park Blaine 7-pc. Jacquard Comforter Set 4.57 (75)
+*   $71.39 - $100.79 sale $170 - $240  original Better Trends Ashton Chenille Bedspread 4.56 (27)
+*   $139.99 - $174.99 sale $420 - $450  original Soho Lorenzo 8-pc. Damask Comforter Set 5.0 (9)
+*   $57.07 - $62.26 sale $230 - $250  original Madison Park Anchorage 6-pc. Coverlet Set 5.0 (10)
 
 COLEMAN CAMPING GEAR
 
 SHOP ALL
 
-*   $34.99  Coleman® Cooler Quad Chair 4.500000 (2)
-*   $62.99  Coleman® SupportRest™ Double-High Twin Airbed 5.000000 (1)
+*   $34.99  Coleman® Cooler Quad Chair 4.5 (2)
+*   $62.99  Coleman® SupportRest™ Double-High Twin Airbed 5.0 (1)
 *   $107.99  Coleman® Big Game™ Big and Tall Sleeping Bag 0º-5º F
+*   $92.99  Coleman® SupportRest™ Plus PillowStop™ Double-High Twin Airbed 5.0 (1)
 *   $74.99  Coleman® Pack-Away® Folding Table
-*   $92.99  Coleman® SupportRest™ Plus PillowStop™ Double-High Twin Airbed 5.000000 (1)
+*   $72.99  Coleman® Pack-Away® 4-In-1 Table 5.0 (1)
 *   $99.99  Coleman® SupportRest™ Plus PillowStop™ Double-High Airbed
-*   $72.99  Coleman® Pack-Away® 4-In-1 Table 5.000000 (1)
-*   $99.99  Coleman® Triton™ Propane Stove 5.000000 (1)
-*   $99.99  Coleman® Camp Propane Grill/Stove 5.000000 (2)
-*   $49.99  Coleman® 42-Can Soft-Sided Cooler with Removable Liner 5.000000 (1)
-*   $70.99  Coleman® Heaton Peak™ 30°F Sleeping Bag 3.000000 (1)
-*   $89.99  Coleman® ComfortSmart ™ Deluxe Cot 4.670000 (3)
-*   $36.99  Coleman® Palmetto™ Sleeping Bag 5.000000 (2)
-*   $19.99  Coleman® Stadium Seat 5.000000 (1)
-*   $38.99  Coleman® CPX® 6 Ultra High-Power LED Spotlight 3.000000 (1)
+*   $36.99  Coleman® Palmetto™ Sleeping Bag 5.0 (2)
+*   $89.99  Coleman® ComfortSmart ™ Deluxe Cot 4.67 (3)
+*   $24.99  Coleman® 16-Can Soft-Sided Cooler with Removable Liner 5.0 (1)
+*   $47.99  Coleman® Green Valley™ Sleeping Bag 5.0 (1)
+*   $38.99  Coleman® CPX® 6 Ultra High-Power LED Spotlight 3.0 (1)
+*   $49.99  Coleman® 42-Can Soft-Sided Cooler with Removable Liner 5.0 (1)
+*   $19.99  Coleman® Stadium Seat 5.0 (1)
+*   $70.99  Coleman® Heaton Peak™ 30°F Sleeping Bag 3.0 (1)
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Thu Aug 03 04:26:03 CDT 2017 ->. dtexppr1l1j1\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneE \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Thu Aug 03 22:03:09 CDT 2017 ->. dtexppr1l1j3\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneG \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Thu Aug 03 10:31:15 CDT 2017 ->. dtexppr1l1j1\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Thu Aug 03 04:26:03 CDT 2017 ->. dtexppr1l1j1\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true true get connected
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Fri Aug 04 21:57:20 CDT 2017 ->. dtexppr1c2j1\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneG \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Fri Aug 04 03:28:42 CDT 2017 ->. dtexppr1c2j4\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Fri Aug 04 03:28:42 CDT 2017 ->. dtexppr1c2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true true get connected
 
-1.800.322.1189 Enter a valid email address Enter a valid mobile number. Sign up for email &. get an Extra 25% off coupon! Some exclusions apply. Sign Up Sign up for text messages &. get an Extra 25% off coupon! Some exclusions apply. Sign Up
+1.800.322.1189 Enter a valid email address Enter a valid mobile number. Sign up for email alerts, offers promotions Sign Up Mobile offers and promotions Sign Up
 
 Message and data rates may apply. By providing my mobile number, I agree to receive autodialed promotional text alerts from JCPenney to that number. I understand that consent is not required to purchase goods or services. Up to 8 msgs/month from 527365 (JCPenney). Text **HELP** to 527365 for help and **STOP** to 527365 to cancel.Terms and conditions    privacy policy
 
