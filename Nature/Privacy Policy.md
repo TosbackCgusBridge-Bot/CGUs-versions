@@ -210,9 +210,9 @@ Donate Now Featured Articles Guided by Science
 
 We're united by nature, and guided by science. Learn
 
-Gift Catalog
+Take Our Survey
 
-Find a unique gift for any occasion that helps save nature. Give
+Give us your feedback on nature.org and help improve our website! Tell us  
 
 Climate Change Threats
 
@@ -244,7 +244,6 @@ GET TEXT UPDATES\* Please provide a valid phone number
     *   Mission
     *   Newsroom
     *   Careers
-    *   Family of Sites
 *   Give
     *   Donate Now
     *   Membership
