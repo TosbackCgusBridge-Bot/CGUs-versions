@@ -173,11 +173,3 @@ New York, NY 10038
 If you are a U.S. government user or otherwise accessing or using any Stack Exchange service in a U.S. government capacity, this Amendment to the Stack Exchange Network Terms of Service shall apply to you.
 
 Thank you!
-
-  
-
-about us work here blog legal privacy policy contact us feedback always welcome
-
-site design / logo © 2017 Stack Exchange, Inc. user contributions licensed under cc by-sa 3.0 with attribution required
-
-2017.8.4.12343
