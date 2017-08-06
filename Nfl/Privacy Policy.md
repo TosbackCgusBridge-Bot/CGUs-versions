@@ -1,5 +1,3 @@
-*   ARI 18 DAL 20 Final
-
 *   News
 *   Scores
 *   Schedule
@@ -14,8 +12,6 @@
     *   Hall of Fame
     *   NFL Network
     *   Photos
-
-ScoresClose
 
 *   Tickets
 *   Shop
