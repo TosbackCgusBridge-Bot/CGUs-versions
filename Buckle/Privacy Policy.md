@@ -204,7 +204,6 @@
         *   Off the Shoulder
         *   Shop back to school!
         *   Treat Your Feet - Comfort Footbeds
-        *   SPECIAL PRICING - Get it before it's gone!
         
         *   Women's New
         
