@@ -59,9 +59,7 @@ Politica De Privacida
 
 Online Trust Alliance, (OTA) is committed to protecting your privacy.  By accessing the Site www.otalliance.org, you are consenting to the information collection and use practices described in this privacy policy. 
 
-Online Trust Alliance has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Site www.otalliance.org.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe.
+**Note on or about August 15, 2017, OTA will legally be part of the Internet Society.  Please visit the Internet Society's Privacy Statement for additional information on their privacy practices and policies as their data sharing and use practices with third parties are broader than those historically advocated by OTA.**
 
 **Collection and Use**  
 We need to collect certain information that personally identifies you in order to contact you, provide a service or carry out a transaction that you have requested, including, but not limited to, name, e-mail address, information about your job or company and credit card information.  OTA may use your personal information to provide you with more effective customer service, to improve the Site: (https://otalliance.org) and any related OTA products or services.  We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. \[Learn More\]
