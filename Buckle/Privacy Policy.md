@@ -79,8 +79,8 @@
         
           
           
-        Give a Buckle Gift card New Arrivals From Free People, BKE, Hurley, &. Many More!  
-        SHOP NOW.
+        Give a Buckle Gift card It’s The Season To Stock Up. Score Big With These Deals!  
+        SHOP BY PROMOTION.
 *   Men
     *   *   Featured
         
@@ -137,8 +137,8 @@
         
           
           
-        Give a Buckle Gift card New Arrivals From Free People, BKE, Hurley, &. Many More!  
-        SHOP NOW.
+        Give a Buckle Gift card It’s The Season To Stock Up. Score Big With These Deals!  
+        SHOP BY PROMOTION.
 *   Kids
     *   *   Featured
         
@@ -160,8 +160,8 @@
         *   Shop All
         
           
-        Give a Buckle Gift card New Arrivals From Free People, BKE, Hurley, &. Many More!  
-        SHOP NOW.
+        Give a Buckle Gift card It’s The Season To Stock Up. Score Big With These Deals!  
+        SHOP BY PROMOTION.
 *   Jeans
     *   *   Women's Jeans
         
@@ -191,8 +191,8 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card New Arrivals From Free People, BKE, Hurley, &. Many More!  
-        SHOP NOW.
+        Give a Buckle Gift card It’s The Season To Stock Up. Score Big With These Deals!  
+        SHOP BY PROMOTION.
 *   New
     *   *   Featured New
         
@@ -230,8 +230,8 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card New Arrivals From Free People, BKE, Hurley, &. Many More!  
-        SHOP NOW.
+        Give a Buckle Gift card It’s The Season To Stock Up. Score Big With These Deals!  
+        SHOP BY PROMOTION.
 *   Sale
     *   *   Women's Sale
         
@@ -274,8 +274,8 @@
         
           
           
-        Give a Buckle Gift card New Arrivals From Free People, BKE, Hurley, &. Many More!  
-        SHOP NOW.
+        Give a Buckle Gift card It’s The Season To Stock Up. Score Big With These Deals!  
+        SHOP BY PROMOTION.
 
 × Privacy &. Security
 
