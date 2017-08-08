@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   JAAS &. Juju update: Juju GUI 2.8.0 ›
 *   Ubuntu Server Development Summary – 4 Aug 2017 ›
 *   Stable releases, sprints, &. more: A snapd recap ›
 *   Upgrading your Ubuntu-on-Windows install to the app version ›
 *   Weekly Kernel Development Summary – Aug 2, 2017 ›
-*   Ubuntu Foundations Development Summary: August 1, 2017 ›
