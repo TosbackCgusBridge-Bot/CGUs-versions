@@ -149,11 +149,7 @@ webmaster@timeanddate.com timeanddate.com
 
 Index
 
-You might also like Lunar Eclipse on August 7/8
-
-The Full Moon on the night between August 7 and 8 will be partially eclipsed. Will you be able to see it? Local times worldwide, map of the path and animations. more
-
-Full Moon Names
+You might also like Full Moon Names
 
 Full Moons had given names in many ancient cultures. The Full Moon names we use today often reflect nature like Harvest Moon. more
 
@@ -164,6 +160,10 @@ List of cosmic events in 2017 an 2018 including supermoons, solar and lunar ecli
 12 Months of the Year
 
 Find out what months have to do with the Moon, why there are 12 months, and what the month names mean. more
+
+Time Zones and DST in Europe
+
+Europe is divided into 4 main time zones that span from UTC +0 hours in western European countries to UTC +3 hours in Belarus and parts of Russia. more
 
 Copyright © Time and Date AS 1995–2017. All rights reserved.
 
