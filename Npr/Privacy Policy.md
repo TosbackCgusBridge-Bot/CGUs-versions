@@ -86,6 +86,7 @@ Back News &. Conversations
 *   Latino USA
 *   NPR Politics Podcast
 *   On Point
+*   Rough Translation
 *   Up First
 *   Weekend Edition Saturday
 *   Weekend Edition Sunday
@@ -283,7 +284,7 @@ Back
 *   Technology
 *   TV &. Film
 
-**Privacy Policy** Privacy Policy
+**Privacy Policy** **Please read NPR's Privacy Policy.** **Privacy Policy** Privacy Policy
 
 *   **Facebook**
 *   **Twitter**
