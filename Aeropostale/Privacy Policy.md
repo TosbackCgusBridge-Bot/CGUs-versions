@@ -94,7 +94,7 @@ Aéropostale
     *   TOPS
     *   Tanks
     *   Bodysuits
-    *   Short Sleeve Tees
+    *   Tees
     *   Hoodies &. Sweatshirts
     *   Jackets &. Vests
     *   Sleep Tops
