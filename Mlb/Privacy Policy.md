@@ -73,8 +73,8 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Spring Training Standings
 *   Schedule Schedule Schedule
     *   2017 Regular Season
+    *   2017 Postseason
     *   2017 Spring Training
-    *   2016 Postseason
     *   Important Dates
     *   Team-by-Team Schedule
     *   National Broadcasts
@@ -95,7 +95,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   General Ticket Information
     *   Fan Values
     *   Celebrate Sunday
-    *   Autism Awareness
     *   StubHub.com
     *   Big League Tours2017 Season Tickets Big League Tours Bank of America 2017 Schedule
 *   Apps Apps Apps
