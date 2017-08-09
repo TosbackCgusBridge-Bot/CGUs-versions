@@ -107,10 +107,10 @@ Featured Topics*   Slideshow Symptoms of ADHD in Children
     Experts News &. Experts News &. Experts Health News
     
     *   Study Warns Yoga Can Be Risky
-    *   New Clues About Allergy Triggers
-    *   'Eye Freckles' May Predict Sun-Related Problems
-    *   Blood Proteins Tied to Severity of Chronic Fatigue
-    *   Sleep Disturbances Linked to Alzheimer’s Risk
+    *   Are Your Copper Mugs Poisoning You?
+    *   Playing Video Games May Affect the Brain
+    *   Accidents at the Fair: 'No One Plans for This'
+    *   Colon Cancer Deaths Up Among Young White People
     
     Experts &. Community
     *   Message Boards
