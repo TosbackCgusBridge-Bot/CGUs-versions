@@ -31,16 +31,17 @@
         *   Plus Sizes
         *   buckle SELECT
         *   Promotions
-        *   Summer Lookbook!
         
         *   Tops
         
-        *   T-Shirts
+        *   Tees
         *   Shirts/Blouses
-        *   Bandeaus/Bralettes
         *   Fashion Tops
-        *   Tank Tops
+        *   Tanks
+        *   Bandeaus/Bralettes
         *   Kimonos
+        *   Sweatshirts
+        *   Sweaters
         *   Coats/Jackets
         *   Shop All
         
@@ -75,6 +76,7 @@
         *   Dresses
         *   Fragrance
         *   Swimwear
+        *   Watches
         *   Shop All
         
           
@@ -92,16 +94,17 @@
         *   Shop Instagram
         *   Buckle Exclusive
         *   buckle SELECT
-        *   Summer Lookbook!
         
         *   Tops
         
-        *   Graphic T-Shirts
-        *   Solid T-Shirts
         *   Shirts
-        *   Tanks
+        *   Graphic Tees
+        *   Solid Tees
+        *   Long Sleeve Tees
         *   Polos
         *   Sweatshirts
+        *   Sweaters
+        *   Coats/Jackets
         *   Shop All
         
         *   Bottoms
@@ -112,7 +115,6 @@
         *   Joggers
         *   Shorts
         *   Boardshorts
-        *   Hybrid Shorts
         *   Shop All
         
         *   Shoes
@@ -196,7 +198,6 @@
 *   New
     *   *   Featured New
         
-        *   Check out the Summer Lookbook!
         *   What time is it? Watches for Men
         *   Women's Florals
         *   Free People
