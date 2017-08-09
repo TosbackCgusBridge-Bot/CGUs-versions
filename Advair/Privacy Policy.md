@@ -314,14 +314,13 @@ Menu
         *   Charitable grants
         *   GSK IMPACT Awards
         *   GSK IMPACT Grants
-        *   GSK Opportunity Scholarships
-        *   Science in the Summer™
-        *   GSK IMPACT Grants: Our kids leading the way to a healthier community
-            *   GSK IMPACT Grants: Our kids leading the way to a healthier community
+            *   GSK IMPACT Grants
             *   Denver, CO: How do you help make a healthy community even healthier?
             *   Philadelphia, PA: How can we make the biggest impact on young people’s health?
             *   East St. Louis, IL: Can we work together to improve the health of a community?
             *   Triangle Region, NC: How can we support young people aging out of the foster care system to become healthy adults?
+        *   GSK Opportunity Scholarships
+        *   Science in the Summer™
     *   Disaster preparedness and resilience
         *   Disaster preparedness and resilience
         *   The Resilient Children/Resilient Communities Initiative
