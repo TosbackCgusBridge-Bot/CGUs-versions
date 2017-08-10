@@ -149,7 +149,11 @@ webmaster@timeanddate.com timeanddate.com
 
 Index
 
-You might also like Full Moon Names
+You might also like Total Solar Eclipse in the US
+
+On Monday, August 21, 2017, there will be a total solar eclipse in the United States, as the New Moon covers the entire disk of the Sun. more
+
+Full Moon Names
 
 Full Moons had given names in many ancient cultures. The Full Moon names we use today often reflect nature like Harvest Moon. more
 
@@ -160,10 +164,6 @@ List of cosmic events in 2017 an 2018 including supermoons, solar and lunar ecli
 12 Months of the Year
 
 Find out what months have to do with the Moon, why there are 12 months, and what the month names mean. more
-
-Time Zones and DST in Europe
-
-Europe is divided into 4 main time zones that span from UTC +0 hours in western European countries to UTC +3 hours in Belarus and parts of Russia. more
 
 Copyright © Time and Date AS 1995–2017. All rights reserved.
 
