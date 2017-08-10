@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms U.S. had 2nd warmest year to date and 10th warmest July on record AROUND NOAA // Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event Top 10 photos from the 2017 Pacific Coral Survey Expedition NOAA discovery of green deep-sea sponge shows promise for cancer research
+Enter Search Terms Early-season storms one indicator of active Atlantic hurricane season ahead AROUND NOAA // U.S. had 2nd warmest year to date and 10th warmest July on record Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event NOAA discovery of green deep-sea sponge shows promise for cancer research
 
 *   About our agency
 *   News and features
