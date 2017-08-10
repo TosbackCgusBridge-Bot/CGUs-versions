@@ -22,13 +22,13 @@
 *   2017 Sienna $29,750 starting 19/27 est. mpg build Specials
 
 *   2017 Tacoma $24,575 starting 19/24 est. mpg build Specials
-*   2017 Tundra $30,120 starting 15/19 est. mpg build Specials
+*   2018 Tundra $31,120 starting 15/19 est. mpg build Specials
 
 *   2018 C-HR $22,500 starting 27/31 est. mpg build Specials
 *   2017 RAV4 $24,410 starting 23/30 est. mpg build Specials
 *   2017 Highlander $30,630 starting 21/27 est. mpg build Specials
 *   2017 4Runner $34,210 starting 17/21 est. mpg build Specials
-*   2017 Sequoia $45,560 starting 13/17 est. mpg build Specials
+*   2018 Sequoia $48,300 starting 13/17 est. mpg build Specials
 *   2017 Land Cruiser $84,775 starting 13/18 est. mpg build Specials
 
 *   2018 Camry Hybrid $27,800 starting 51/53 est. mpg build Specials
@@ -36,14 +36,12 @@
 *   2017 RAV4 Hybrid $29,030 starting 34/30 est. mpg build Specials
 *   2017 Highlander Hybrid $36,270 starting 30/28 est. mpg build Specials
 *   2017 Prius Prime $27,100 starting 54/133 est. mpg /MPGe build Specials
-*   2017 Prius $24,685 starting 54/50 est. mpg build Specials
+*   2017 Prius $23,475 starting 54/50 est. mpg build Specials
 *   2018 Prius _c_ $20,630 starting 48/43 est. mpg build Specials
 *   2017 Prius _v_ $26,675 starting 43/39 est. mpg build Specials
 *   2017 Mirai $57,500 starting 67/67 est. mpg Specials
 
-*   Sequoia  
-    View More Info
-*   Tundra  
+*   Sequoia TRD Sport  
     View More Info
 *   RAV4  
     View More Info
