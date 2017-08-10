@@ -32,6 +32,7 @@
     *   Fetish
     *   Hardcore
     *   HD
+    *   VR
     *   Hentai
     *   Indian
     *   Latina
