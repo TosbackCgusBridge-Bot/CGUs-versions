@@ -1,3 +1,20 @@
+*   HOU 7 CAR? 14 2nd ? 08:13
+*   MIN 0-0 BUF 0-0 Thu 7:00 PM ET
+*   ATL 0-0 MIA 0-0 Thu 7:00 PM ET
+*   WAS 0-0 BAL 0-0 Thu 7:30 PM ET
+*   JAX 0-0 NE 0-0 Thu 7:30 PM ET
+*   DEN 0-0 CHI 0-0 Thu 8:00 PM ET
+*   NO 0-0 CLE 0-0 Thu 8:00 PM ET
+*   PHI 0-0 GB 0-0 Thu 8:00 PM ET
+*   PIT 0-0 NYG 0-0 Fri 7:00 PM ET
+*   TB 0-0 CIN 0-0 Fri 7:30 PM ET
+*   SF 0-0 KC 0-0 Fri 9:00 PM ET
+*   TEN 0-0 NYJ 0-0 Sat 7:30 PM ET
+*   DAL 0-0 LA 0-0 Sat 9:00 PM ET
+*   OAK 0-0 ARI 0-0 Sat 10:00 PM ET
+*   DET 0-0 IND 0-0 Sun 1:30 PM ET
+*   SEA 0-0 LAC 0-0 Sun 8:00 PM ET
+
 *   News
 *   Scores
 *   Schedule
@@ -12,6 +29,8 @@
     *   Hall of Fame
     *   NFL Network
     *   Photos
+
+ScoresClose
 
 *   Tickets
 *   Shop
