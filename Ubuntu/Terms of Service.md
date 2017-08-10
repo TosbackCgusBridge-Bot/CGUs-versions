@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Weekly Kernel Development Summary – Aug 9, 2017 ›
+*   git ubuntu clone ›
+*   68% of businesses are struggling to hire talent for IoT ›
 *   Ubuntu Foundations Development Summary: August 8, 2017 ›
 *   Ubuntu in NYC: Kubernetes in minutes and enterprise support on AWS ›
-*   Ubuntu Artful Desktop Fit and Finish Sprint ›
-*   JAAS &. Juju update: Juju GUI 2.8.0 ›
-*   Ubuntu Server Development Summary – 4 Aug 2017 ›
