@@ -198,12 +198,13 @@
 *   New
     *   *   Featured New
         
-        *   What time is it? Watches for Men
+        *   Watches for Men
         *   Women's Florals
         *   Free People
         *   It's in the Hem Details
         *   Off the Shoulder
-        *   Shop back to school!
+        *   Shop Back to School!
+        *   A Matching Pair - Socks
         *   Treat Your Feet - Comfort Footbeds
         
         *   Women's New
@@ -278,7 +279,7 @@
         Give a Buckle Gift card It’s The Season To Stock Up. Score Big With These Deals!  
         SHOP BY PROMOTION.
 
-× Privacy &. Security
+SearchSubmit SearchSubmit × Close Privacy &. Security
 
 **Privacy &. Security Policy**  
 The Buckle, Inc. ("Buckle") cares about the privacy of our Guests. Our goal is to provide the best shopping experience possible for our Guests, and we strive to achieve that goal through our Internet shopping experience. Buckle.com collects client information to enhance your shopping experience.
@@ -373,7 +374,6 @@ Returns
 
 Promotions
 
-*   50th Anniversary Special Pricing Event
 *   All Promotions
 *   Tax Free Weekends 2017
 *   Store Events
@@ -519,6 +519,13 @@ GUEST SERVICES
 *   Store Feedback
 
 STAY CONNECTED
+
+*   Facebook
+*   Twitter
+*   Pinterest
+*   Instagram
+*   LinkedIn
+*   YouTube
 
 RESERVE IN STORE
 
