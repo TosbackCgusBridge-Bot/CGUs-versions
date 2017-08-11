@@ -77,6 +77,7 @@
         *   Fragrance
         *   Swimwear
         *   Watches
+        *   Socks
         *   Shop All
         
           
@@ -119,18 +120,20 @@
         
         *   Shoes
         
-        *   Flips
+        *   Boots
         *   Sneakers
         *   Casuals
         *   Dress Shoes
         *   Slides
-        *   Boots
+        *   Flips
         *   Shop All
         
         *   More
         
         *   Accessories
         *   Hats
+        *   Boxers
+        *   Socks
         *   Sunglasses
         *   Watches
         *   Cologne
