@@ -190,7 +190,7 @@ All payments are to be made in US dollars and prices are subject to change at an
 
   
 
-In general, DeviantArt accepts returns on defective products or incorrect orders within thirty (30) days after receipt of your order. Please contact DeviantArt at http://help.deviantart.com/contact/ and we will let you know whether you need to return the product(s) to us. If you do need to make a return, simply send the product(s) within thirty (30) days of receipt in the original packaging along with a copy of your invoice or order acknowledgement. Original shipping charges are not refunded on returned items. Customers are responsible for all shipping charges back to DeviantArt on returned items, and DeviantArt will pay the shipping charges on replacement product(s). Returns can be for replacement, refund or credit at DeviantArt's discretion. If your return merchandise is accepted, we will post a credit to your account within 24 hours from the time that we receive the product(s). Each return is credited in the same manner as payment. For example, if you paid for your order with a credit card, the credit will be applied to that card.
+In general, DeviantArt accepts returns on defective products or incorrect orders within thirty (30) days after receipt of your order. Please contact DeviantArt at https://help.deviantart.com/contact/ and we will let you know whether you need to return the product(s) to us. If you do need to make a return, simply send the product(s) within thirty (30) days of receipt in the original packaging along with a copy of your invoice or order acknowledgement. Original shipping charges are not refunded on returned items. Customers are responsible for all shipping charges back to DeviantArt on returned items, and DeviantArt will pay the shipping charges on replacement product(s). Returns can be for replacement, refund or credit at DeviantArt's discretion. If your return merchandise is accepted, we will post a credit to your account within 24 hours from the time that we receive the product(s). Each return is credited in the same manner as payment. For example, if you paid for your order with a credit card, the credit will be applied to that card.
 
   
 
@@ -200,7 +200,7 @@ EXCEPT AS EXPRESSLY PROVIDED IN THIS SECTION 21, ANY PRODUCT PURCHASED THROUGH T
 
 **22\. Print Program**
 
-As a registered member of the Service, you will also be granted the privilege of listing certain types of Artist Materials, known as "Artwork," for sale through the DeviantArt Shop. Visit http://www.deviantart.com/sell/ for additional details on the Print Program. Prior to submitting Artwork for sale, you must accept the additional terms and conditions of the Print Program Agreement, which is incorporated into, and forms a part of, the Terms.
+As a registered member of the Service, you will also be granted the privilege of listing certain types of Artist Materials, known as "Artwork," for sale through the DeviantArt Shop. Visit https://www.deviantart.com/sell/ for additional details on the Print Program. Prior to submitting Artwork for sale, you must accept the additional terms and conditions of the Print Program Agreement, which is incorporated into, and forms a part of, the Terms.
 
   
 
