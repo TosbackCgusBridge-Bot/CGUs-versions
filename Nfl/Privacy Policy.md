@@ -1,11 +1,11 @@
-*   HOU 7 CAR? 14 2nd ? 08:13
-*   MIN 0-0 BUF 0-0 Thu 7:00 PM ET
-*   ATL 0-0 MIA 0-0 Thu 7:00 PM ET
-*   WAS 0-0 BAL 0-0 Thu 7:30 PM ET
-*   JAX 0-0 NE 0-0 Thu 7:30 PM ET
-*   DEN 0-0 CHI 0-0 Thu 8:00 PM ET
-*   NO 0-0 CLE 0-0 Thu 8:00 PM ET
-*   PHI 0-0 GB 0-0 Thu 8:00 PM ET
+*   HOU 17 CAR 27 Final
+*   MIN 17 BUF 10 Final
+*   ATL 20 MIA 23 Final
+*   WAS 3 BAL 23 Final
+*   JAX 31 NE 24 Final
+*   DEN 24 CHI 17 Final
+*   NO 14 CLE 20 Final
+*   PHI 15 GB? 18 4th ? 00:09
 *   PIT 0-0 NYG 0-0 Fri 7:00 PM ET
 *   TB 0-0 CIN 0-0 Fri 7:30 PM ET
 *   SF 0-0 KC 0-0 Fri 9:00 PM ET
