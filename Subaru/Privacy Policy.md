@@ -18,23 +18,6 @@ Subaru Confidence In Motion
 *   Build &. Price
 *   Find Retailer
 
-BRZ $25,495\* starting price 2017 BRZ
-
-Starting at
-
-$25,495 MSRP
-
-Up to
-
-33/24 MPG Hwy/City
-
-*   Overview
-*   Photos &. Videos
-*   Compare
-*   Build &. Price
-
-BRZ Premium shown
-
 Impreza $18,395\* starting price 2017 Impreza
 
 Starting at
@@ -51,23 +34,6 @@ Up to
 *   Build &. Price
 
 2.0i Sport shown
-
-WRX $26,995\* starting price 2018 WRX
-
-Starting at
-
-$26,995 MSRP
-
-Up to
-
-27/21 MPG Hwy/City
-
-*   Overview
-*   Photos &. Videos
-*   Compare
-*   Build &. Price
-
-2018 WRX Limited shown
 
 Legacy $22,195\* starting price 2018 Legacy
 
@@ -86,23 +52,6 @@ Up to
 
 Legacy 3.6R Limited shown
 
-Forester $22,795\* starting price 2018 Forester
-
-Starting at
-
-$22,795 MSRP
-
-Up to
-
-32/26 MPG Hwy/City
-
-*   Overview
-*   Photos &. Videos
-*   Compare
-*   Build &. Price
-
-Forester 2.5i Touring shown
-
 Crosstrek $21,795\* starting price 2018 Crosstrek
 
 Starting at
@@ -120,6 +69,23 @@ Up to
 
 Crosstrek 2.0i Premium shown
 
+Forester $22,795\* starting price 2018 Forester
+
+Starting at
+
+$22,795 MSRP
+
+Up to
+
+32/26 MPG Hwy/City
+
+*   Overview
+*   Photos &. Videos
+*   Compare
+*   Build &. Price
+
+Forester 2.5i Touring shown
+
 Outback $25,895\* starting price 2018 Outback
 
 Starting at
@@ -136,6 +102,40 @@ Up to
 *   Build &. Price
 
 Outback 3.6R Limited shown
+
+BRZ $25,495\* starting price 2017 BRZ
+
+Starting at
+
+$25,495 MSRP
+
+Up to
+
+33/24 MPG Hwy/City
+
+*   Overview
+*   Photos &. Videos
+*   Compare
+*   Build &. Price
+
+BRZ Premium shown
+
+WRX $26,995\* starting price 2018 WRX
+
+Starting at
+
+$26,995 MSRP
+
+Up to
+
+27/21 MPG Hwy/City
+
+*   Overview
+*   Photos &. Videos
+*   Compare
+*   Build &. Price
+
+2018 WRX Limited shown
 
 All Vehicles Find Your Subaru All Vehicles Certified Pre-Owned Certified Pre-Owned
 
