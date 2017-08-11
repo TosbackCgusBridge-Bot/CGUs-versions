@@ -233,11 +233,11 @@ Print | Citation &. Date
 
 More to Explore More to Explore Today's Headlines
 
-Do People Tend to Walk in Predictable, Clockwise Paths?
+How Did 'Fido' Become the Default Name for a Dog?
 
-Why Some Shirts Always Ride Up
+Acupuncture Doesn't Help Women With PCOS Get Pregnant
 
-Humanity's Eclipse Superstitions Are Weird and Fascinating
+In 1680, the Pueblo Peoples Revolted Against Spanish Colonists … And Won
 
 About Us
 
