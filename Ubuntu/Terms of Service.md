@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Security Team Weekly Summary: August 10, 2017 ›
+*   Canonical Distribution of Kubernetes: Dev Summary 2017 (Week 32) ›
+*   Top snaps in July: GIMP, Brackets, Gogland, Openstack and more ›
 *   Weekly Kernel Development Summary – Aug 9, 2017 ›
 *   git ubuntu clone ›
-*   68% of businesses are struggling to hire talent for IoT ›
-*   Ubuntu Foundations Development Summary: August 8, 2017 ›
-*   Ubuntu in NYC: Kubernetes in minutes and enterprise support on AWS ›
