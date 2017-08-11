@@ -106,11 +106,11 @@ Featured Topics*   Slideshow Symptoms of ADHD in Children
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
+    *   5 Deaths Reported After Balloon Obesity Treatments
+    *   Study Says Artificial Sweeteners Trick the Brain
     *   Study Warns Yoga Can Be Risky
     *   Are Your Copper Mugs Poisoning You?
-    *   Playing Video Games May Affect the Brain
-    *   Accidents at the Fair: 'No One Plans for This'
-    *   Colon Cancer Deaths Up Among Young White People
+    *   Colon Cancer Deaths Up for White Adults Under 55
     
     Experts &. Community
     *   Message Boards
