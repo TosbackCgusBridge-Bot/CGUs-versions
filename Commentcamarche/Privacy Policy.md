@@ -1,4 +1,4 @@
-Août 2017
+Juillet 2017
 
 *   Objet
 *   Mentions légales
