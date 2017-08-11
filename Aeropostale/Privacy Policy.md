@@ -3,11 +3,9 @@ Aéropostale
 *   Girls
     
     *   NEW ARRIVALS
-    *   Fall Must- Haves
     *   $15 Backpack Special
     *   TRENDING
     *   Icon Tees
-    *   Shark Week Tees
     *   Limited Edition
     *   Uniform
     *   Basic Essentials
@@ -48,12 +46,10 @@ Aéropostale
 *   Guys
     
     *   NEW ARRIVALS
-    *   Fall Must- Haves
     *   $15 Backpack Special
     *   TAPOUT
     *   TRENDING
     *   Icon Tees
-    *   Shark Week Tees
     *   Stretch Shop
     *   Limited Edition
     *   Uniform
@@ -82,7 +78,6 @@ Aéropostale
 *   Active
     
     *   FEATURED
-    *   Fall Must- Haves
     *   Studio
     *   Active
     *   Lounge
