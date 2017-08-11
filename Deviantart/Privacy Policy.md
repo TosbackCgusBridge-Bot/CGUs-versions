@@ -16,7 +16,7 @@ If you create your Account using your login credentials from a third party site 
 
 We collect and use your PII when you register for special services (e.g., the Print Program), sign up for e-mail newsletters and purchase products or services. We use your PII to help customize advertising and content available on the DeviantArt Sites, to send you information about products and services that may be of interest to you and/or to conduct research for internal purposes. Some features, services, and promotional opportunities that we offer may also ask you to submit PII to participate.
 
-If you have uploaded Artist Materials (as defined in and pursuant to the Submission Policy, which can be found here - http://about.deviantart.com/policy/submission/), you have also authorized DeviantArt to use some of your publicly visible PII for distribution, advertising and promotional purposes.
+If you have uploaded Artist Materials (as defined in and pursuant to the Submission Policy, which can be found here - https://about.deviantart.com/policy/submission/), you have also authorized DeviantArt to use some of your publicly visible PII for distribution, advertising and promotional purposes.
 
 _Non-Personally Identifiable Information._ Our servers automatically record certain information about how a person uses our Services (we refer to this information as **“Log Data”**), for both Account holders and non-Account holders (either will be referred to as a **“User”**).
 
