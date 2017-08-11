@@ -15,7 +15,6 @@ Skip to main content
 *   Online Certificates
     *   MicroMasters
 *   Online Colleges
-*   Free Career Assessment
 *   Education Resources
 
 1.  Home
