@@ -152,7 +152,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         
     
     *   Explore our business You can develop your career in markets around the world.
-    *   Student and graduates We want HSBC to be a place where everyone can achieve their potential.
+    *   Students and graduates We want HSBC to be a place where everyone can achieve their potential.
 
 Online bankingOnline banking
 
