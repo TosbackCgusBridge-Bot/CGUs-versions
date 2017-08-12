@@ -5,10 +5,10 @@
 *   JAX 31 NE 24 Final
 *   DEN 24 CHI 17 Final
 *   NO 14 CLE 20 Final
-*   PHI 15 GB? 18 4th ? 00:09
-*   PIT 0-0 NYG 0-0 Fri 7:00 PM ET
-*   TB 0-0 CIN 0-0 Fri 7:30 PM ET
-*   SF 0-0 KC 0-0 Fri 9:00 PM ET
+*   PHI 9 GB 24 Final
+*   PIT 20 NYG 12 Final
+*   TB 12 CIN 23 Final
+*   SF 9 KC? 7 3rd ? 13:28
 *   TEN 0-0 NYJ 0-0 Sat 7:30 PM ET
 *   DAL 0-0 LA 0-0 Sat 9:00 PM ET
 *   OAK 0-0 ARI 0-0 Sat 10:00 PM ET
