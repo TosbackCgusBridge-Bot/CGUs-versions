@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Desktop Weekly Update: August 11, 2017 ›
+*   How to sign things for Secure Boot ›
 *   Security Team Weekly Summary: August 10, 2017 ›
 *   Canonical Distribution of Kubernetes: Dev Summary 2017 (Week 32) ›
 *   Top snaps in July: GIMP, Brackets, Gogland, Openstack and more ›
-*   Weekly Kernel Development Summary – Aug 9, 2017 ›
-*   git ubuntu clone ›
