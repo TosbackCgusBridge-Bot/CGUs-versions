@@ -42,11 +42,11 @@ Menu Log In or Register
 *   Log In
 *   Register
 
-Recent Recent What do farmers want in a farm bill? Aug 10, 2017 Why fall is the best time for soil sampling Aug 10, 2017 Farm data company Granular acquired by DuPont Aug 09, 2017 Using data to predict equipment failure Aug 09, 2017 What Japan's tariff means for U.S. beef Aug 09, 2017 Featured Blue eye mold threatens stored grain Aug 01, 2017 SCN-resistant soybeans becoming less effective Aug 02, 2017 6 tips for soil sampling Aug 04, 2017 Weeds cause corn yield loss from day one Aug 09, 2017 Top stories Visit Ag Park at Iowa State Fair Aug 10, 2017 Shoot hoops and play games in the Agriculture Building during this year’s fair Aug. 10-20. Try new foods at 2017 Iowa State Fair Aug 10, 2017 It’s no longer about traditional corn dogs and other foods on a stick. What is your crop marketing plan? Aug 10, 2017 Iowa farmers can expect to see a lot of yield variability this fall. Do you want to make a profit?
+Recent Recent If Trump goes to war with Korea, it will disrupt global commodity trade Aug 11, 2017 7 ag stories you might have missed this week - Aug. 11, 2017 Aug 11, 2017 Bayer, Sicit 2000 partner in distribution agreement Aug 11, 2017 Taking on the nitrogen challenge Aug 11, 2017 7 reasons to use native plants around the farmstead Aug 11, 2017 Featured Blue eye mold threatens stored grain Aug 01, 2017 SCN-resistant soybeans becoming less effective Aug 02, 2017 6 tips for soil sampling Aug 04, 2017 Union Pacific earns high marks on Railroad Report Card Aug 11, 2017 Top stories Expanding rural broadband in Iowa Aug 11, 2017 USDA Rural Development is helping expand Iowa’s broadband infrastructure, making faster internet connection available. Learning about the complications of farming Aug 11, 2017 ISU researchers toured two Iowa farms to see firsthand what farming... More beef could pressure prices Aug 11, 2017 Livestock Outlook: Total U.S. inventory of all cattle and calves... Do you want to make a profit?
 
 This free guide from Penton Agriculture offers 5 ways to manage risk on the farm.
 
-GET IT NOW Coping with corn yield variability at harvest Aug 10, 2017 Iowa couple honored for helping Angus youth Aug 09, 2017 market overview Markets:View All Commodities  
+GET IT NOW Visit Ag Park at Iowa State Fair Aug 10, 2017 Try new foods at 2017 Iowa State Fair Aug 10, 2017 market overview Markets:View All Commodities  
 Data provided by iNet Solutions Group, Inc. All prices delayed 10 minutes.
 
 Sign Up for the Wallaces Farmer Update newsletter today!
