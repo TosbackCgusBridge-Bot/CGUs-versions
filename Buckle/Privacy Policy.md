@@ -377,6 +377,7 @@ Returns
 
 Promotions
 
+*   Buckle Credit Card FREE USB Charger
 *   All Promotions
 *   Tax Free Weekends 2017
 *   Store Events
