@@ -1,6 +1,6 @@
 Datenschutzerklärung
 
-Wenn Sie nicht gelöste Bedenken bezüglich des Datenschutzes oder der Datennutzung haben oder der Meinung sind, Ihre Anfrage wäre nicht zu Ihrer Zufriedenheit bearbeitet worden, wenden Sie sich hier an TRUSTe.
+Wenn Sie nicht ausgeräumte Bedenken bezüglich des Datenschutzes oder der Datennutzung haben oder der Meinung sind, Ihre Anfrage wäre nicht zu Ihrer Zufriedenheit bearbeitet worden, wenden Sie sich bitte unter https://feedback-form.truste.com/watchdog/request  an unseren unabhängigen Konfliktlösungsanbieter mit Sitz in den USA (kostenlos).
 
 Zusammenfassung und Inhalt
 
