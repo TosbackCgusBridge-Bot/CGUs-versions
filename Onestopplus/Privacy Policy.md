@@ -18,32 +18,32 @@ We are not responsible for the content or privacy practices on any web site not 
 Our Privacy Policy addresses the following:  
   
 
-*   Safe Harbor Certification
-*   Who is FULLBEAUTY Brands?
-*   What Information Do We Collect?
-*   How Do We Use the Information Collected?
-*   What Information Is Shared And With Whom Is It Shared?
-*   Do We Use Third-Party Advertising?
-*   California Privacy Rights
-*   How Can I Access and Correct Information Collected?
-*   How Can I Opt Out of Receiving Further Communications  
+*   •Safe Harbor Certification
+*   •Who is FULLBEAUTY Brands?
+*   •What Information Do We Collect?
+*   •How Do We Use the Information Collected?
+*   •What Information Is Shared And With Whom Is It Shared?
+*   •Do We Use Third-Party Advertising?
+*   •California Privacy Rights
+*   •How Can I Access and Correct Information Collected?
+*   •How Can I Opt Out of Receiving Further Communications  
          How to be Removed from a Paper Catalog Mailing List  
          How to Unsubscribe from Email Marketing List  
     
-*   Are Branded Private Label Credit Cards available?
-*   Do We Send Unsolicited Promotional E-Mails?
-*   How Do We Safeguard the Information Collected?
-*   How Secure is My Online Transaction?
-*   Do We Use Cookies?
-*   Do We Aggregate Information?
-*   What is Our Policy with Respect to Data Collection from Children?
-*   Does This Privacy Policy apply to Social Media Sites?
-*   Do We Have Specific Terms For Mobile Services?
-*   Are Telephone Calls Recorded?
-*   Whom Do I Contact If I Have Additional Questions Or Concerns About This Policy?
-*   Policy Changes  
+*   •Are Branded Private Label Credit Cards available?
+*   •Do We Send Unsolicited Promotional E-Mails?
+*   •How Do We Safeguard the Information Collected?
+*   •How Secure is My Online Transaction?
+*   •Do We Use Cookies?
+*   •Do We Aggregate Information?
+*   •What is Our Policy with Respect to Data Collection from Children?
+*   •Does This Privacy Policy apply to Social Media Sites?
+*   •Do We Have Specific Terms For Mobile Services?
+*   •Are Telephone Calls Recorded?
+*   •Whom Do I Contact If I Have Additional Questions Or Concerns About This Policy?
+*   •Policy Changes  
     
-*   Terms and Conditions
+*   •Terms and Conditions
 
   Safe Harbor Certification
 
@@ -121,7 +121,7 @@ As an additional step, if you would prefer not to participate in the services of
 
 California Privacy Rights
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us, one time per year, for a notice describing what categories of personal information we share with third parties or corporate affiliates (including other brands within the FULLBEAUTY family of brands) for those third partiesâ or corporate affiliates' direct marketing purposes. That notice will identify the categories of personal information shared with third parties and used for direct marketing purposes and the name and address of the third parties that received such personal information. If you are a California resident and want a copy of this notice, please submit a written request to the following address: FullBeauty Brands Customer Service, P.O. Box 12901, El Paso, TX 79913. In your request, please specify that you want "Your FullBeauty Brands California Privacy Rights Notice." Please allow 30 days for a response.
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us, one time per year, for a notice describing what categories of personal information we share with third parties or corporate affiliates (including other brands within the FULLBEAUTY family of brands) for those third parties’ or corporate affiliates' direct marketing purposes. That notice will identify the categories of personal information shared with third parties and used for direct marketing purposes and the name and address of the third parties that received such personal information. If you are a California resident and want a copy of this notice, please submit a written request to the following address: FullBeauty Brands Customer Service, P.O. Box 12901, El Paso, TX 79913. In your request, please specify that you want "Your FullBeauty Brands California Privacy Rights Notice." Please allow 30 days for a response.
 
 How to Access and Correct Information Collected?
 
@@ -202,7 +202,9 @@ We will make every effort to implement any choice you make as soon as possible, 
 **How to Unsubscribe from promotional Emails or information sharing**  
 To stop receiving promotional emails from our Brands or to request that non-email information be shared with third parties for marketing purposes, please Click Here.  
   
-Please know that it may take up to 30 days to remove you from our emailing solicitation lists. If you choose to be removed from our emailing solicitation lists you will still continue to receive order and confirmation emails as well as emails relating to your other transactions.    
+Please know that it may take up to 30 days to remove you from our emailing solicitation lists. If you choose to be removed from our emailing solicitation lists you will still continue to receive order and confirmation emails as well as emails relating to your other transactions.  
+
+  
   
 Are Branded Private Label Credit Cards Available?  
 
@@ -246,7 +248,7 @@ You may notice an unbroken key or a closed lock at the bottom of the page when y
 
   Do We Use Cookies?
 
-Yes. We use cookies to enhance your browsing and shopping experience. Cookies are small files or records that we place on your computerâs hard drive to collect information about your activities on our Sites. There is no personally identifiable information stored anywhere in these files, and they are used by us to enhance your shopping experience and to allow us to serve you better in the future. Cookies transmit information back to our computers and to third party partners with products and services that may be of interest to you. The information captured makes it possible for us (i) to speed navigation, keep track of items in your shopping cart, and provide you with custom tailored content. (ii) to remember information you gave to us so you donât have to reenter it each time you visit our Sites. (iii) to monitor the effectiveness of some of our marketing email campaigns. and (iv) to monitor total number of visitors, pages viewed, and the total number of visitors served. The information collected and used by these processes is anonymous. If you wish to block, erase, or be warned about cookies, that must be done through changes to your browser. If you choose to block, reject or remove cookies, it could affect your ability to use our Site. You will still be able to browse our selection, but will not be able to place orders on our Site. Moreover, by not allowing cookies, your overall Internet browsing experience could be adversely affected.
+Yes. We use cookies to enhance your browsing and shopping experience. Cookies are small files or records that we place on your computer‘s hard drive to collect information about your activities on our Sites. There is no personally identifiable information stored anywhere in these files, and they are used by us to enhance your shopping experience and to allow us to serve you better in the future. Cookies transmit information back to our computers and to third party partners with products and services that may be of interest to you. The information captured makes it possible for us (i) to speed navigation, keep track of items in your shopping cart, and provide you with custom tailored content. (ii) to remember information you gave to us so you don‘t have to reenter it each time you visit our Sites. (iii) to monitor the effectiveness of some of our marketing email campaigns. and (iv) to monitor total number of visitors, pages viewed, and the total number of visitors served. The information collected and used by these processes is anonymous. If you wish to block, erase, or be warned about cookies, that must be done through changes to your browser. If you choose to block, reject or remove cookies, it could affect your ability to use our Site. You will still be able to browse our selection, but will not be able to place orders on our Site. Moreover, by not allowing cookies, your overall Internet browsing experience could be adversely affected.
 
   Do We Aggregate Information?
 
@@ -277,7 +279,7 @@ We reserve the right to remove comments or content on our social media sites tha
 Yes. We may provide certain services that are available to you via your mobile phone or other mobile device if you have subscribed to them by downloading the application to your device, including the ability to use your mobile device to receive and reply to messages from one of our Brands ("text alerts"), and access certain other features (collectively the "Mobile Services"). The following terms apply, in addition to and as part of the Terms of Use and Privacy Policy, to users of the Mobile Services managed by our Brands.
 
 *   For our Brands that offer Mobile Services, you must sign up for services (opt in) individually for each brand.
-*   Although we may not charge you for these Mobile Services, your mobile carrierâs normal messaging, data, and other rates and fees will still apply to your use of the Mobile Services.
+*   Although we may not charge you for these Mobile Services, your mobile carrier‘s normal messaging, data, and other rates and fees will still apply to your use of the Mobile Services.
 *   Downloading, installing, or using certain Mobile Services may be prohibited or restricted by your mobile carrier, and not all Mobile Services may work with all carriers or devices.
 *   You are responsible for checking with your mobile carrier to determine if the Mobile Services are available for your mobile devices, what restrictions, if any, may be applicable to your use of the Mobile Services, and how much they will cost you.
 *   By using the Mobile Services, you agree that we may communicate with you by SMS, MMS, or other electronic means to your mobile device and that certain information about your usage of the Mobile Services may be communicated to us.
@@ -285,7 +287,7 @@ Yes. We may provide certain services that are available to you via your mobile p
 
   Are Telephone Calls Recorded?
 
-Yes. Since approximately September 2003, telephone calls to or from our FULLBEAUTY Brands family of companies, including our customer service center, have been monitored and recorded for record-keeping, training, and quality assurance purposes. Since November 2014, the companiesâ interactive voice response system has included a message regarding this practice.
+Yes. Since approximately September 2003, telephone calls to or from our FULLBEAUTY Brands family of companies, including our customer service center, have been monitored and recorded for record-keeping, training, and quality assurance purposes. Since November 2014, the companies’ interactive voice response system has included a message regarding this practice.
 
   Whom Do I Contact If I Have Additional Questions or Concerns About This Privacy Policy?
 
@@ -317,7 +319,7 @@ This Site contains copyrighted materials, trademarks and other proprietary infor
 
 **DISCLAIMER**
 
-THIS SITE AND ANY OTHER SITE THAT LISTS OUR PRODUCTS, AND ALL MATERIALS CONTAINED ON THIS SITE AND ANY OTHER SITE THAT LISTS OUR PRODUCTS, INCLUDING ANY OUR OTHER SERVICES, ARE DISTRIBUTED AND TRANSMITTED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. WE DO NOT WARRANT THAT: (A) THE CONTENTS OF THIS SITE OR ANY OTHER SITE OR SERVICE THAT LISTS OUR PRODUCTS (INCLUDING PRICING, DESCRIPTION AND OTHER PRODUCT INFORMATION) WILL BE ACCURATE, RELIABLE, CURRENT OR ERROR-FREE, OR THAT ANY ERRORS IN SUCH CONTENTS WILL BE CORRECTED. OR MISTAKES IN PRICING OR OTHER PRODUCT DETAILS WILL BE HONORED. (B) THAT THIS SITE, ANY OTHER SITE OR SERVICE THAT LISTS OUR PRODUCTS OR THE SERVERS THAT MAKE SUCH SITES AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. OR (C) THAT YOUR USE OF THIS SITE OR OTHER SITE OR SERVICE THAT LISTS OUR PRODUCTS WILL BE UNINTERRUPTED. DESPITE OUR BEST EFFORTS, FROM TIME TO TIME ITEMS ON THIS SITE OR ANY OTHER SITE OR SERVICE THAT LISTS OUR PRODUCTS MAY BE MISPRICED. IF AN ITEMâS CORRECT PRICE IS HIGHER THAN THE LISTED PRICE, WE RESERVE THE RIGHT, IN OUR SOLE DISCRETION, TO CANCEL YOUR ORDER AND NOTIFY YOU OF SUCH CANCELLATION. IF A PRODUCT OFFERED ON THIS SITE OR ANY OTHER SITE OR SERVICE THAT LISTS OUR PRODUCTS IS NOT AS DESCRIBED, YOUR SOLE REMEDY IS TO RETURN IT IN UNUSED CONDITION.
+THIS SITE AND ANY OTHER SITE THAT LISTS OUR PRODUCTS, AND ALL MATERIALS CONTAINED ON THIS SITE AND ANY OTHER SITE THAT LISTS OUR PRODUCTS, INCLUDING ANY OUR OTHER SERVICES, ARE DISTRIBUTED AND TRANSMITTED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. WE DO NOT WARRANT THAT: (A) THE CONTENTS OF THIS SITE OR ANY OTHER SITE OR SERVICE THAT LISTS OUR PRODUCTS (INCLUDING PRICING, DESCRIPTION AND OTHER PRODUCT INFORMATION) WILL BE ACCURATE, RELIABLE, CURRENT OR ERROR-FREE, OR THAT ANY ERRORS IN SUCH CONTENTS WILL BE CORRECTED. OR MISTAKES IN PRICING OR OTHER PRODUCT DETAILS WILL BE HONORED. (B) THAT THIS SITE, ANY OTHER SITE OR SERVICE THAT LISTS OUR PRODUCTS OR THE SERVERS THAT MAKE SUCH SITES AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. OR (C) THAT YOUR USE OF THIS SITE OR OTHER SITE OR SERVICE THAT LISTS OUR PRODUCTS WILL BE UNINTERRUPTED. DESPITE OUR BEST EFFORTS, FROM TIME TO TIME ITEMS ON THIS SITE OR ANY OTHER SITE OR SERVICE THAT LISTS OUR PRODUCTS MAY BE MISPRICED. IF AN ITEM’S CORRECT PRICE IS HIGHER THAN THE LISTED PRICE, WE RESERVE THE RIGHT, IN OUR SOLE DISCRETION, TO CANCEL YOUR ORDER AND NOTIFY YOU OF SUCH CANCELLATION. IF A PRODUCT OFFERED ON THIS SITE OR ANY OTHER SITE OR SERVICE THAT LISTS OUR PRODUCTS IS NOT AS DESCRIBED, YOUR SOLE REMEDY IS TO RETURN IT IN UNUSED CONDITION.
 
 **LIMITATION OF LIABILITY**
 
@@ -381,7 +383,7 @@ Unless you proceed with a small claims action, the Federal Arbitration Act and f
 
 WE EACH AGREE THAT ANY DISPUTE RESOLUTION PROCEEDINGS WILL BE CONDUCTED ONLY ON AN INDIVIDUAL BASIS AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, CONSOLIDATED OR REPRESENTATIVE ACTION. Unless we both agree otherwise, the arbitrator may not consolidate more than one person's claims with your claims, and may not otherwise preside over any form of a representative, consolidated or class proceeding. If the requirements of this paragraph are found to be unenforceable, then the entirety of this arbitration provision shall be null and void except for the waiver of any right to a jury trial described below. Without limiting the foregoing, if for any reason a claim proceeds in court rather than in arbitration, WE EACH HEREBY WAIVE ANY RIGHT TO A JURY TRIAL. We also both agree that either of us may bring suit in court to enjoin infringement or other misuse of intellectual property rights.
 
-Payment of all filing, administration and arbitrator fees will be governed by the American Arbitration Associationâs ("AAA") rules, except as provided in this section. If your total claims seek less than $10,000, we will reimburse you for filing fees you pay to the AAA and will pay arbitratorâs fees, unless the arbitrator determines your claims are frivolous. You may choose to have the arbitration conducted by telephone, based on written submissions, or in person. The arbitrator's award shall be final and binding and may be entered as a judgment in any court of competent jurisdiction.
+Payment of all filing, administration and arbitrator fees will be governed by the American Arbitration Association’s ("AAA") rules, except as provided in this section. If your total claims seek less than $10,000, we will reimburse you for filing fees you pay to the AAA and will pay arbitrator’s fees, unless the arbitrator determines your claims are frivolous. You may choose to have the arbitration conducted by telephone, based on written submissions, or in person. The arbitrator's award shall be final and binding and may be entered as a judgment in any court of competent jurisdiction.
 
 If a dispute arises, we strongly encourage you to first contact our Customer Service Department before starting arbitration or filing a claim in small claims court. We value our relationships with our customers and will try to resolve your claims informally and quickly.
 
@@ -439,7 +441,7 @@ Please also note that under Section 512(f) any person who knowingly materially m
 
   WEBSITE ACCESSIBILITY
 
-If you require assistance in using this website, please contact us at the appropriate customer service number set forth in the chart above under the section entitled âPrivacy Policy â How to Access and Correct Information Collected?â. For customers with a hearing impairment, please use one of the TDD Hearing Impaired numbers provided.
+If you require assistance in using this website, please contact us at the appropriate customer service number set forth in the chart above under the section entitled “Privacy Policy – How to Access and Correct Information Collected?”. For customers with a hearing impairment, please use one of the TDD Hearing Impaired numbers provided.
 
   INTERNATIONAL ORDERS
 
