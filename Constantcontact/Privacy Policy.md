@@ -14,57 +14,70 @@ We are the sole owner of information collected on the Sites (including any metad
 
 In connection with your use of our products or services, we will obtain contact lists (including email addresses and other information for your subscribers) and content (including the content of your campaigns and storefront information) that you provide to us in connection with such use. We acknowledge your ownership rights in such contact lists and content. We will never sell or rent your contact lists to anyone without your permission and will never use your contact lists or content for any purpose other than as described here.
 
-We may use any of this information to offer and improve our products and services, to provide you with requested information or technical support, to facilitate your movement through the Sites or your use of our products and services, to do a better job of advertising and marketing our products and services, to diagnose problems with our servers or our products and services, in connection with our security and compliance programs, to administer our Sites, to communicate with you, to target prospective customers with our products or services, to assist us in offering you a personalized experience or otherwise tailor our Sites, product and service offerings to you, or as otherwise described in this privacy statement. We may aggregate and anonymize information received to produce reports on trends and statistics, such as mobile search trends, email open rates by industry, campaign best practices or the number of users that have been exposed to, or clicked on, our Sites or evaluated or purchased our products and services. Payment information that you provide to us, including credit card data, will only be used to facilitate payment for our products and services. We may also use recorded telephone conversations for quality control purposes, to train our employees and for our own protection. We will only use the username and password for any email account you import any contacts from to enable you to import such contacts. Learn More »
+We may use any of this information to offer and improve our products and services, to provide you with requested information or technical support, to facilitate your movement through the Sites or your use of our products and services, to do a better job of advertising and marketing our products and services, to diagnose problems with our servers or our products and services, in connection with our security and compliance programs, to administer our Sites, to communicate with you, to target prospective customers with our products or services, to assist us in offering you a personalized experience or otherwise tailor our Sites, product and service offerings to you, or as otherwise described in this privacy statement. We may aggregate and anonymize information received to produce reports on trends and statistics, such as mobile search trends, email open rates by industry, campaign best practices or the number of users that have been exposed to, or clicked on, our Sites or evaluated or purchased our products and services. Payment information that you provide to us, including credit card data, will only be used to facilitate payment for our products and services. We may also use recorded telephone conversations for quality control purposes, to train our employees and for our own protection. We will only use the username and password for any email account you import any contacts from to enable you to import such contacts.  
+Learn More »
 
 Security and Privacy
 
-We employ reasonable technical, administrative and physical safeguards to protect the confidentiality and security of your personal information. We use industry-recognized technical safeguards, such as firewalls, and have adopted and implemented security procedures to protect your information from loss, misuse or unauthorized alteration. When we collect financial account information, such as credit card numbers, we protect its transmission through the use of encryption such as the Transport Layer Security (TLS) protocol. Learn More »
+We employ reasonable technical, administrative and physical safeguards to protect the confidentiality and security of your personal information. We use industry-recognized technical safeguards, such as firewalls, and have adopted and implemented security procedures to protect your information from loss, misuse or unauthorized alteration. When we collect financial account information, such as credit card numbers, we protect its transmission through the use of encryption such as the Transport Layer Security (TLS) protocol.  
+Learn More »
 
 Sharing of Information
 
-We will only share certain personal information with our partners, third party service providers and co-marketing partners, an acquirer, with others within your organization, our affiliates (including other members of the Endurance corporate family) and for legal reasons, as more fully described below. Learn More »
+We will only share certain personal information with our partners, third party service providers and co-marketing partners, an acquirer, with others within your organization, our affiliates (including other members of the Endurance corporate family) and for legal reasons, as more fully described below.  
+Learn More »
 
 Tracking Technologies
 
 Technologies such as cookies, beacons, tags and scripts are used by us and our partners (including marketing partners and affiliates) as well as our analytics and other service providers. These technologies are used in many ways, including advertising, sales and marketing, analyzing trends, administering and improving the Sites, tracking users' movements around the Sites (including point of entry), gathering demographic information about our user base, verifying login status, measuring the success of a particular marketing campaign, providing improved customer service, providing more relevant content, deterring or detecting fraud, and providing users with a customized experience. We also use these technologies as part of our product offerings, including to provide our trialers and customers with information about their campaigns, such as email opens, clicks and bounces and tracking whether messages are shared and opened using our social share features. We collect information based on the use of these technologies on an individual as well as aggregated basis.
 
-We use Local Storage Objects (LSOs), such as HTML5 to, among other things, optimize screen presentation, video and other preference information. Learn More »
+We use Local Storage Objects (LSOs), such as HTML5 to, among other things, optimize screen presentation, video and other preference information.  
+Learn More »
 
 Online Advertising
 
-We partner with third parties to either display advertising on our Sites or to manage our advertising on other sites. Our third party partners may use technologies, such as cookies, to gather information about your activities on our Sites and other sites in order to provide you with advertising based upon your browsing activities and interests. Learn More »
+We partner with third parties to either display advertising on our Sites or to manage our advertising on other sites. Our third party partners may use technologies, such as cookies, to gather information about your activities on our Sites and other sites in order to provide you with advertising based upon your browsing activities and interests.  
+Learn More »
 
 Choice/Opt-out
 
-You have a choice about how we use your personal information to communicate with you, and you may opt out at any time by unsubscribing or changing your preferences. Learn More »
+You have a choice about how we use your personal information to communicate with you, and you may opt out at any time by unsubscribing or changing your preferences.  
+Learn More »
 
 Access to Personal and Storage of Information
 
-We take steps to ensure that the personal information we collect is accurate and up to date, and that you have the ability to access it and make corrections to it. Learn More »
+We take steps to ensure that the personal information we collect is accurate and up to date, and that you have the ability to access it and make corrections to it.  
+Learn More »
 
 Refer a Friend
 
-If you choose to use our referral service to tell a friend about our Sites or our products and services, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit our website. We retain this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Learn More »
+If you choose to use our referral service to tell a friend about our Sites or our products and services, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit our website. We retain this information for the sole purpose of sending this one-time email and tracking the success of our referral program.  
+Learn More »
 
 Third Party Links and Information Collection and Use by Our Customers
 
-Some of our Sites provide links to other websites. You may be asked to submit personal information to any of these sites. You may also be asked to provide certain personal information to our trialers or customers in connection with their use of our products and services. Because we do not control the information policies or practices of these third party sites, you should review their privacy policies to learn about how they collect and use personal information. Learn More »
+Some of our Sites provide links to other websites. You may be asked to submit personal information to any of these sites. You may also be asked to provide certain personal information to our trialers or customers in connection with their use of our products and services. Because we do not control the information policies or practices of these third party sites, you should review their privacy policies to learn about how they collect and use personal information.  
+Learn More »
 
 Children
 
-Our Sites and our products and services are not directed to persons under 18. We do not knowingly collect personal information from children under 18. Learn More »
+Our Sites and our products and services are not directed to persons under 18. We do not knowingly collect personal information from children under 18.  
+Learn More »
 
 International Use
 
-We are headquartered in the United States of America. Personal information may be accessed by us or transferred to us in the United States or to our affiliates (including other members of the Endurance corporate family), partners, merchants, or service providers elsewhere in the world. By providing us with personal information, you consent to this transfer. Learn More »
+We are headquartered in the United States of America. Personal information may be accessed by us or transferred to us in the United States or to our affiliates (including other members of the Endurance corporate family), partners, merchants, or service providers elsewhere in the world. By providing us with personal information, you consent to this transfer.  
+Learn More »
 
 Accountability
 
-Constant Contact (and its subsidiary, SinglePlatform, LLC) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Constant Contact is committed to subjecting all personal data received from European Union member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework to the Framework’s applicable principles. Learn More »
+Constant Contact (and its subsidiary, SinglePlatform, LLC) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Constant Contact is committed to subjecting all personal data received from European Union member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework to the Framework’s applicable principles.  
+Learn More »
 
 Notification of Changes
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we decide to change this privacy statement in any material way, we will notify you here, by email, or by means of a notice on www.constantcontact.com and www.singleplatform.com so our users are always aware of what information we collect, how we use it and under what circumstances we disclose it. Learn More »
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we decide to change this privacy statement in any material way, we will notify you here, by email, or by means of a notice on www.constantcontact.com and www.singleplatform.com so our users are always aware of what information we collect, how we use it and under what circumstances we disclose it.  
+Learn More »
 
 Information Collection and Use by Us
 
