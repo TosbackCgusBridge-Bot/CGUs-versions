@@ -1,4 +1,4 @@
-You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page. Turn on more accessible mode Turn off more accessible mode Skip Ribbon Commands Skip to main content Turn off Animations Turn on Animations
+<div class='noindex'>You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.</div>. Turn on more accessible mode Turn off more accessible mode Skip Ribbon Commands Skip to main content Turn off Animations Turn on Animations
 
 *   My Services
     *   My Account
@@ -12,7 +12,7 @@ You may be trying to access this site from a secured browser on the server. Plea
 
   
 Your Location:  
-New Location Set Your Location It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
+New Location Set Your Location <div id="ctl00\_ctl63\_noscript">It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.</div>.
 
 *   For Your Home
 *   For Your Business
@@ -116,7 +116,7 @@ Users may also monitor their bandwidth usage in the MyBandwidth section of http:
 Excessive use means bandwidth or data usage that is significantly higher than typical usage for which our network is designed. Excessive Users consume so much data that their usage could negatively impact the Service provided to other customers. In order to ensure an optimized Internet experience for all customers, data plans have been assigned to all Internet services.
 
   
-Lite Plan 50GB Data Plan 1.5,Mbps, 5Mbps, 8Mbps, 10Mbps,12Mbps 300GB Data Plan Starter Plan 300GB Data Plan Family Plan 500GB Data Plan Streamer &. Gamer Plan 700GB Data Plan Roomate Plan 900GB Data Plan Power Home Plan 1100GB Data Plan\* GigaONE ™ 1100GB Data Plan\*  
+Lite Plan50GB Data Plan1.5,Mbps, 5Mbps, 8Mbps, 10Mbps,12Mbps300GB Data PlanStarter Plan300GB Data PlanFamily Plan500GB Data PlanStreamer &. Gamer Plan700GB Data PlanRoomate Plan900GB Data PlanPower Home Plan1100GB Data Plan\*GigaONE ™1100GB Data Plan\*  
 
 Names, speeds, and data plans are subject to change
 
@@ -166,4 +166,4 @@ Setting your location will allow us to provide you with the most accurate inform
 You are here: Set Your State >. Set Your Location Set Your Location **Hover over a system to see the ares served. Click the system to set your location.** System Areas Served
 
 State: -OR- Zipcode: Go State: City: -OR- Zipcode: Go Clear Existing Location We're sorry, cable one is not  
-available in this area.
+available in this area. <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/984182947/?label=EbnnCKXt9QMQo-Gl1QM&amp;guid=ON&amp;script=0" />. </div>. Live Help is Online.  ×–One moment, we're paging an agent...ChatPowered by
