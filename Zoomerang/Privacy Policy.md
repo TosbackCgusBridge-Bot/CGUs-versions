@@ -81,3 +81,5 @@ Follow us on:
 Search Search for:
 
 Copyright © 2017 MetrixLab. All rights reserved. Privacy Statement
+
+<img alt="" src="https://secure.leadforensics.com/102029.png" style="display:none;" />.
