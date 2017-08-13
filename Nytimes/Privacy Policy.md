@@ -257,3 +257,5 @@ Search Help
 *   Help
 *   Contact Us
 *   Site Feedback
+
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt\_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>. Log in to NYTimes.comCloseEmail/Member ID:Password:Forgot your password?Don't have an NYTimes.com account? Register now for free.Log InRemember meRegister at NYTimes.comCloseEmail:Password:Retype Password:Receive occasional updates and special offers for The New York Times’s products and services.Already have an NYTimes.com account? Log In.Create My Account
