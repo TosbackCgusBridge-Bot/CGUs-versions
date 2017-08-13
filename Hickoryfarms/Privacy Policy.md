@@ -142,9 +142,7 @@
 2.  Customer Service
 3.  Privacy Policy
 
-Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.
-
-Information We Collect and How it is Used
+<div class="browser-compatibility-alert">. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. Information We Collect and How it is Used
 
 We may share your peronally-identifiable information, including your name, address, e-mail address, as well as a record of any transaction you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide anonymous. To choose not to have this information used by our third-party advertising partner click here.  
   
@@ -254,7 +252,7 @@ About Us
 Contact Us
 
 *   Contact Us
-
+*   1.800.753.8558
 *   Employment
 
 Business Accounts
@@ -264,4 +262,4 @@ Business Accounts
 *   1.800.715.1474
 *   Email Us
 
-PRIVACY POLICY TERMS OF USE SITE MAP © 2017 ALL RIGHTS RESERVED.
+PRIVACY POLICY TERMS OF USE SITE MAP © 2017 ALL RIGHTS RESERVED. Feedback
