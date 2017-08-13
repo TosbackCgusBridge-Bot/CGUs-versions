@@ -182,7 +182,7 @@ We use secure socket layer (or “SSL") technology to protect credit card transa
 
 (Return to Top) California, USA Residents
 
-California law permits its residents to request and receive information about a business’ disclosure of certain categories of Personal Information to other companies for their use in direct marketing. If you are a California resident and a user of any of the Sites, you can request a copy of this information from CareerBuilder by sending an email to \[email protected\] or a letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests.
+California law permits its residents to request and receive information about a business’ disclosure of certain categories of Personal Information to other companies for their use in direct marketing. If you are a California resident and a user of any of the Sites, you can request a copy of this information from CareerBuilder by sending an email to customer.service@careerbuilder.com or a letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests.
 
 (Return to Top) Children’s Privacy
 
@@ -190,7 +190,7 @@ We do not knowingly collect or solicit information from anyone under the age of 
 
 (Return to Top) How to Contact Us
 
-You can direct questions regarding this Privacy Policy to CareerBuilder by emailing us at \[email protected\] or by letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests.
+You can direct questions regarding this Privacy Policy to CareerBuilder by emailing us at customer.service@careerbuilder.com or by letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests.
 
 (Return to Top)  
   
@@ -326,4 +326,4 @@ Partner Sites
 Sologig Office 200 N. LaSalle St  
 Suite 1100  
 Chicago, IL 60601  
-© 2017 Sologig.com.
+© 2017 Sologig.com. <img src="//b.scorecardresearch.com/p?c1=2&c2=6035061&c3=&c4=&c5=&c6=&c15=&cj=1" />. <div>. <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-803759h&cg=0&cc=1&ts=noscript" width="1" height="1" alt="" />. </div>.
