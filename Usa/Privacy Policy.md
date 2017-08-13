@@ -102,8 +102,8 @@ Change country/language X
     *   Careers
     *   Company
     *   Newsroom
-*   Investor relations
-*   Trust center
+    *   Investor relations
+    *   Trust center
 
 *    Free trials
 *    Students and educators
