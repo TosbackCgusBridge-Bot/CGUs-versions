@@ -34,7 +34,8 @@ Show Menu
     *   My Account
     *   Sign Out
     *   Not ?
-    *   Not ? Log in to your account
+    *   Not ?  
+        Log in to your account
 *    
     
     Things you view while shopping are saved here.
@@ -83,6 +84,7 @@ Below you will find the updated Privacy Policy for www.orbitz.com. We value your
 *   U.S.-Swiss Safe Harbor Framework
 *   Changes to this Privacy Policy
 *   How you can contact us
+
 What information we collect from you
 
 In General. We receive and store any information you enter on our website or give us in any other way. This includes information that can identify you ("personal information"), including your first and last name, telephone number, postal and email addresses, and billing information (such as credit card number, cardholder name, and expiration date). We may also request information about your hotel room preferences and frequent flyer and car rental program information. You can choose not to provide information to us, but in general some information about you is required in order for you to register as a member. book travel. complete a traveler profile. participate in a survey, contest, or sweepstakes. ask us a question. or initiate other transactions on our site.
