@@ -36,7 +36,7 @@ VH1 Menu VH1
 *   Watch Live TV
 *   facebook twitter tumblr
 
-Privacy Policy And Your California Privacy Rights **Go to Terms of Use** **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**  
+Privacy Policy And Your California Privacy Rights**Go to Terms of Use** **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**  
 **Last Modified:** June 22, 2017  
 Summary of Most Significant Changes
 
@@ -395,6 +395,8 @@ This Privacy Policy was last modified on the date indicated above and is effecti
 
 Copyright © 2017 Viacom International Inc. - All Rights Reserved.
 
+close
+
 *   FAQ/Help
 *   Jobs
 *   Terms of Use \[Updated 3/14/2017\]
@@ -412,3 +414,5 @@ Copyright © 2017 Viacom International Inc. - All Rights Reserved.
 *   Newsletter
 
 © 2017 Viacom International Inc. All Rights Reserved. VH1 and all related titles and logos are trademarks of Viacom International Inc.
+
+**We've Updated Our Terms.** By continuing to use the Site, you agree to the Site's updated Terms of Use and consent to the collection, use, disclosure and transfer of information as described in this Site's updated Privacy Policy. Before you do, please read them and check out some of these changes (such as arbitration for disputes - see our FAQs). Please also note that you are accessing a site which is designed for and targeted to U.S. audiences and is governed by and operated in accordance with U.S. laws.
