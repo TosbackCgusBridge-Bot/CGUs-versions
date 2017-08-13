@@ -1,4 +1,4 @@
-Aéropostale
+Express Shop SUBMIT Aéropostale
 
 *   Girls
     
@@ -116,7 +116,7 @@ Aéropostale
     
 *   Clearance
     
-    *   Girls
+    *   GIRLS
     *   Tees
     *   Shirts + Polos
     *   Camis + Tanks
@@ -126,7 +126,7 @@ Aéropostale
     *   Bottoms
     *   Accessories
     
-    *   Guys
+    *   GUYS
     *   Tees
     *   Polos
     *   Shirts
@@ -250,7 +250,11 @@ Last updated May 8, 2012.
 *   Customer Service
 *   Store Locator
 
-Back to Top Mobile Signup
+Back to Top SIGN UP  
+
+Got It. Thanks!
+
+Mobile Signup
 
 *   Follow Us On:
 *   Facebook
@@ -274,11 +278,14 @@ Back to Top Mobile Signup
 *   STORE LOCATOR
 *   THE AERO WAY
 
+*   CA TRANSPARENCY ACT
+
 *   GIFT CARDS
 *   E-GIFT CARDS
 *   CORPORATE GIFT CARDS
 *   CHECK BALANCE
 
+*   MY ACCOUNT
 *   MY ACCOUNT
 *   ORDER STATUS/TRACKING
 *   EMAILS ABOUT YOUR ORDER
@@ -292,11 +299,15 @@ Back to Top Mobile Signup
 *   P.S. FROM AÉROPOSTALE
 *   LIVE LOVE DREAM
 
-©2014 AEROPOSTALE. ALL RIGHTS RESERVED
+*   COUPONS PAGE
+
+©2014 AEROPOSTALE. ALL RIGHTS RESERVED©2017 AEROPOSTALE. ALL RIGHTS RESERVED
 
 *   Our Brands
 *   Aéropostale
 *   Live Love Dream
 *   P.S. from Aéropostale
 
-Mobile Terms and Conditions Mobile Terms and Conditions Canadian Mobile Terms and Conditions Privacy Policy X
+<img src="http://link.mercent.com/image.ashx?merchantID=Aeropostale" style="display: none;">. <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn\_id=l4csp&p\_id=Twitter" />. <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/offsite\_event.php?id=6009411458653&amp;value=0&amp;currency=USD" />. <img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=288165681345147&amp;ev=NoScript" />. <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1053117129/?value=0&amp;guid=ON&amp;script=0"/>. </div>. <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/980357025/?value=1.000000&amp;label=xdL-CMf9wAkQoZ-80wM&amp;guid=ON&amp;script=0"/>. </div>. Mobile Terms and Conditions Mobile Terms and Conditions Canadian Mobile Terms and Conditions Privacy Policy X
+
+<!\[if lt IE 5\]>. <script src="http://media.gsimedia.net/jpixel?spacedesc=1101515\_1061349\_1x1\_1061349\_1061349&target=\_blank&db\_afcr=123&group=AERO&event=default&random=1502658758215&siteid=87&pagetype=helpdesksafetyprivacy&REVENUE=&browserid=333235900855&ORDERID=&prodid=&catid=0&REFERRER=&cartotal=&pqty=">. </script>. <!\[endif\]>.
