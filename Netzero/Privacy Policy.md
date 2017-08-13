@@ -54,6 +54,7 @@ In addition to information collected from you during registration, we collect in
 *   acceptance of our applications that interact with third party sites or services, such as Facebook or Twitter.
 
 Note that surveys may be conducted by an independent third party and completion of surveys is voluntary. If you do not wish to participate in a survey, simply decline to participate when asked, but we would like your feedback in order to improve our Sites and Services.  
+  
 Please see Section II of this Policy to see how we use, share and disclose information you have provided to us.  
   
 **B. Information we collect through your interaction with our Sites:**  
