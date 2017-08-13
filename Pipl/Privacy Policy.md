@@ -33,6 +33,5 @@ We reserves the right to disclose information to third parties if we believe we 
 \* Protect the rights, property or safety of Pipl, its users and the public.
 
 **Transfer of information**  
-Information collected by Pipl may be stored and processed in the United States or any other country in which Pipl or its agents maintain facilities. By using Pipl, you consent to any such transfer of information outside of your country.  
-With respect to the Personal Data that Pipl receives in the United States from its EU-based Customers, Pipl complies with the EU-US Privacy Shield Framework, please click here for the Privacy Shield Notice.  
+Information collected by Pipl may be stored and processed in the United States or any other country in which Pipl or its agents maintain facilities. By using Pipl, you consent to any such transfer of information outside of your country. With respect to the Personal Data that Pipl receives in the United States from its EU-based Customers, Pipl complies with the EU-US Privacy Shield Framework, please click here for the Privacy Shield Notice.  
 We reserve the right to transfer information in the event of a transfer of ownership of Pipl, such as acquisition by or merger with another company.
