@@ -3,9 +3,16 @@ Accessibility links
 *   Skip to main content
 *   Keyboard shortcuts for audio player
 
+Toggle initial options for NPR audio player ****ON AIR NOW**NPR 24 Hour Program Stream**
+
+*   **Our Picks**
+*   **Live Radio**
+*   **Shows**
+
 View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Directory Search Toggle search
 
 *   NPR Home
+*   Change station?
 
 *   News
 *   Arts &. Life
@@ -34,8 +41,10 @@ View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Dir
 
 *   Podcast Directory
 *   Categories
+*   podcasts
 
 *   Shop
+*   My Account
 
 Back News
 
@@ -284,7 +293,9 @@ Back
 *   Technology
 *   TV &. Film
 
-**Privacy Policy** **Please read NPR's Privacy Policy.** **Privacy Policy** Privacy Policy
+*   Change station?
+
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K9RKM5" height="0" width="0" style="display:none;visibility:hidden"></iframe>. **Privacy Policy** **Please read NPR's Privacy Policy.** **Privacy Policy** Privacy Policy
 
 *   **Facebook**
 *   **Twitter**
@@ -515,9 +526,13 @@ Become an NPR sponsor
     *   NPR Ombudsman
     *   Permissions
 
+© 2017 npr
+
 *   Help
 *   Contact
 *   Terms of Use
 *   Privacy
 *   Sponsorship Choices
 *   Text-Only
+
+<iframe style="display:none;padding:0;margin:0;" width="0" height="0" src="//20655831p.rfihub.com/ca.html?rb=3035&ca=20501671&ra=gtmcb"></iframe><iframe><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1621557368158968&ev=PageView&noscript=1" /></iframe>
