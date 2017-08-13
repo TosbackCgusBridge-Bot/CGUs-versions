@@ -8,7 +8,7 @@ Just type your name, email and company name in the text boxes on the left near t
 
 So we know where to send the newsletter.
 
-Why do you need my name and company name?
+**Why do you need my name and company name?**
 
 To see which companies have people subscribing to our newsletter.
 
