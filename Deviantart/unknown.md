@@ -75,7 +75,9 @@ If you believe that one of your submissions was removed in error you may contact
 
 If you are found to repeatedly post infringing content, your account will be suspended and serious offenders will have their account banned and deactivated. We consider three strikes as an indication of being a repeat infringer subject to ban. If you are found deliberately misrepresenting the copyrighted work of another as your own your account will be immediately banned and deactivated.
 
-The copyright owner may also decide to sue you directly if you infringe his or her copyright in posting content to DeviantArt.  
+The copyright owner may also decide to sue you directly if you infringe his or her copyright in posting content to DeviantArt.
+
+  
 
 **What about "Fair Use"**
 
