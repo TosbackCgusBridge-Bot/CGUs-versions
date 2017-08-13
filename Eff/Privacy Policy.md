@@ -117,6 +117,3 @@ Previous Privacy Policies
 *   Jun 13, 2014 – Apr 7, 2015
     
 *   Apr 8, 2015 – July 13, 2016
-    
-
-Share on Twitter Share on Facebook Share on Google+ Copy link
