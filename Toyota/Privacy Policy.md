@@ -1,6 +1,6 @@
 *   menu
 
-*   Set Location dealers
+*   Your Location: 37203 dealers
 *   Certified Used Vehicles
 *   Owners
 *   Español
@@ -12,58 +12,148 @@
 *   Build &. Price
 *   Local Specials
 
-*   2018 Yaris $15,635 starting 30/36 est. mpg build Specials
-*   2017 Yaris iA $15,950 starting 30/39 est. mpg build Specials
-*   2017 Corolla $18,500 starting 28/36 est. mpg build Specials
-*   2017 Corolla iM $18,750 starting 27/35 est. mpg build Specials
-*   2018 Camry $23,495 starting 29/41 est. mpg build Specials
-*   2018 Avalon $33,500 starting 21/30 est. mpg build Specials
-*   2017 86 $26,255 starting 21/28 est. mpg build Specials
-*   2017 Sienna $29,750 starting 19/27 est. mpg build Specials
+*   Cars &. Minivans
+*   Trucks
+*   Crossovers &. SUVs
+*   Hybrids &. FCV
+*   Upcoming Vehicles
 
-*   2017 Tacoma $24,575 starting 19/24 est. mpg build Specials
-*   2018 Tundra $31,120 starting 15/19 est. mpg build Specials
+*   $18,260 as shown1 2018 Yaris $15,635 starting1  
+    30/36 est MPG3 Build Specials
+*   $15,950 as shown1 2017 Yaris iA $15,950 starting1  
+    30/39 est MPG5 Build Specials
+*   $21,980 as shown1 2017 Corolla $18,500 starting1  
+    28/36 est MPG5 Build Specials
+*   $18,750 as shown1 2017 Corolla iM $18,750 starting1  
+    27/35 est MPG5 Build Specials
+*   $35,345 as shown1 2018 Camry $23,495 starting1  
+    29/41 est MPG4 Build Specials
+*   $37,900 as shown1 2018 Avalon $33,500 starting1  
+    21/30 est MPG3 Build Specials
+*   $26,255 as shown1 2017 86 $26,255 starting1  
+    21/28 est MPG5 Build Specials
+*   $40,830 as shown1 2017 Sienna $29,750 starting1  
+    19/27 est MPG6 Build Specials
 
-*   2018 C-HR $22,500 starting 27/31 est. mpg build Specials
-*   2017 RAV4 $24,410 starting 23/30 est. mpg build Specials
-*   2017 Highlander $30,630 starting 21/27 est. mpg build Specials
-*   2017 4Runner $34,210 starting 17/21 est. mpg build Specials
-*   2018 Sequoia $48,300 starting 13/17 est. mpg build Specials
-*   2017 Land Cruiser $84,775 starting 13/18 est. mpg build Specials
+*   $35,160 as shown1 2017 Tacoma $24,575 starting1  
+    19/24 est MPG5 Build Specials
+*   $45,300 as shown1 2018 Tundra $31,120 starting1  
+    15/19 est MPG3 Build Specials
 
-*   2018 Camry Hybrid $27,800 starting 51/53 est. mpg build Specials
-*   2018 Avalon Hybrid $37,500 starting 40/39 est. mpg build Specials
-*   2017 RAV4 Hybrid $29,030 starting 34/30 est. mpg build Specials
-*   2017 Highlander Hybrid $36,270 starting 30/28 est. mpg build Specials
-*   2017 Prius Prime $27,100 starting 54/133 est. mpg /MPGe build Specials
-*   2017 Prius $23,475 starting 54/50 est. mpg build Specials
-*   2018 Prius _c_ $20,630 starting 48/43 est. mpg build Specials
-*   2017 Prius _v_ $26,675 starting 43/39 est. mpg build Specials
-*   2017 Mirai $57,500 starting 67/67 est. mpg Specials
+*   $24,350 as shown1 2018 C-HR $22,500 starting1  
+    27/31 est MPG12 Build Specials
+*   $36,150 as shown1 2017 RAV4 $24,410 starting1  
+    23/30 est MPG5 Build Specials
+*   $41,150 as shown1 2017 Highlander $30,630 starting1  
+    21/27 est MPG5 Build Specials
+*   $40,675 as shown1 2017 4Runner $34,210 starting1  
+    17/21 est MPG5 Build Specials
+*   $56,795 as shown1 2018 Sequoia $48,300 starting1  
+    13/17 est MPG3 Build Specials
+*   $84,775 as shown1 2017 Land Cruiser $84,775 starting1  
+    13/18 est MPG5 Build Specials
 
-*   Sequoia TRD Sport  
-    View More Info
-*   RAV4  
-    View More Info
-*   FT-4X Concept  
-    View More Info
+*   $32,250 as shown1 2018 Camry Hybrid $27,800 starting1  
+    51/53 est MPG3 Build Specials
+*   $42,800 as shown1 2018 Avalon Hybrid $37,500 starting1  
+    40/39 est MPG3 Build Specials
+*   $32,185 as shown1 2017 RAV4 Hybrid $29,030 starting1  
+    34/30 est MPG5 Build Specials
+*   $50,085 as shown1 2017 Highlander Hybrid $36,270 starting1  
+    30/28 est MPG5 Build Specials
+*   $28,800 as shown1 2017 Prius Prime $27,100 starting1  
+    54/133 est MPG9/MPGe10 Build Specials
+*   $32,115 as shown1 2017 Prius $23,475 starting1  
+    54/50 est MPG7 Build Specials
+*   $23,250 as shown1 2018 Prius _c_ $20,630 starting1  
+    48/43 est MPG3 Build Specials
+*   $34,270 as shown1 2017 Prius _v_ $26,675 starting1  
+    43/39 est MPG8 Build Specials
+*   $57,500 as shown1 2017 Mirai $57,500 starting1  
+    67/67 est MPG11 Specials
 
-View All Vehicles
+*   2018 Sequoia TRD Sport View More Info
+*   2018 RAV4 View More Info
+*   FT-4X Concept View More Info
+
+Compare vs. The Competition
 
 *   Build &. Price
 *   Local Specials
 *   Search Inventory
-*   Get Trade-In Value
+*   KBB Trade-In Value
 
-*   Request A Quote
+*   Request a Quote
+*   View Brochures
+*   Accessories
+*   Contact a Dealer
+*   Compare Vehicles
+*   Toyota Certified Used Vehicles
+*   Find Your Match
+*   Buy Parts and Accessories
+
+*   Vehicles
+*   Shopping Tools
+
+Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1  
+30/36 est MPG3 $15,950 as shown1 2017 Yaris iA $15,950 starting1  
+30/39 est MPG5 $21,980 as shown1 2017 Corolla $18,500 starting1  
+28/36 est MPG5 $18,750 as shown1 2017 Corolla iM $18,750 starting1  
+27/35 est MPG5 $35,345 as shown1 2018 Camry $23,495 starting1  
+29/41 est MPG4 $37,900 as shown1 2018 Avalon $33,500 starting1  
+21/30 est MPG3 $26,255 as shown1 2017 86 $26,255 starting1  
+21/28 est MPG5 $40,830 as shown1 2017 Sienna $29,750 starting1  
+19/27 est MPG6 Trucks $35,160 as shown1 2017 Tacoma $24,575 starting1  
+19/24 est MPG5 $45,300 as shown1 2018 Tundra $31,120 starting1  
+15/19 est MPG3 Crossovers &. SUVs $24,350 as shown1 2018 C-HR $22,500 starting1  
+27/31 est MPG12 $36,150 as shown1 2017 RAV4 $24,410 starting1  
+23/30 est MPG5 $41,150 as shown1 2017 Highlander $30,630 starting1  
+21/27 est MPG5 $40,675 as shown1 2017 4Runner $34,210 starting1  
+17/21 est MPG5 $56,795 as shown1 2018 Sequoia $48,300 starting1  
+13/17 est MPG3 $84,775 as shown1 2017 Land Cruiser $84,775 starting1  
+13/18 est MPG5 Hybrids &. FCV $32,250 as shown1 2018 Camry Hybrid $27,800 starting1  
+51/53 est MPG3 $42,800 as shown1 2018 Avalon Hybrid $37,500 starting1  
+40/39 est MPG3 $32,185 as shown1 2017 RAV4 Hybrid $29,030 starting1  
+34/30 est MPG5 $50,085 as shown1 2017 Highlander Hybrid $36,270 starting1  
+30/28 est MPG5 $28,800 as shown1 2017 Prius Prime $27,100 starting1  
+54/133 est MPG9/MPGe10 $32,115 as shown1 2017 Prius $23,475 starting1  
+54/50 est MPG7 $23,250 as shown1 2018 Prius _c_ $20,630 starting1  
+48/43 est MPG3 $34,270 as shown1 2017 Prius _v_ $26,675 starting1  
+43/39 est MPG8 $57,500 as shown1 2017 Mirai $57,500 starting1  
+67/67 est MPG11 Upcoming Vehicles 2018 Sequoia TRD Sport 2018 RAV4 FT-4X Concept
+
+*   Careers
+*   Español
+*   Owners
+
+*   Build &. Price
+*   Local Specials
+*   Search Inventory
+*   KBB Trade-In Value
+
+*   Request a Quote
+*   Find a Dealer
 *   View Brochures
 *   Accessories
 *   Toyota Certified Used Vehicles
 *   Compare Vehicles
-*   Contact A Dealer
+*   Contact a Dealer
 *   Find Your Match
+*   Buy Parts and Accessories
 
-Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Need help? Have a question? Get instant answers 24/7.
+*   Careers
+*   Español
+*   Owners
+
+Close
+
+SET YOUR LOCATION
+
+Enter your Zip Code to find dealers, inventory, and special offers near you.
+
+Your ZIP is invalid. Submit
+
+GO Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Need help? Have a question? Get instant answers 24/7.
 
 Whether you’re a Toyota owner or just have a question about our products, Toyota is committed to providing a rewarding customer experience. Select the most convenient way to reach us, and we look forward to assisting you.
 
@@ -557,6 +647,7 @@ We use the information we collect about and from you for a variety of business p
 *   Comply with license obligations;
 *   And for purposes disclosed at the time you provide your Personal Information or otherwise with your consent.
 *   You may share your location with us and we may use it for the purpose of providing you with offers and other information relevant to your location.
+
   
 
 **3\. SHARING OF INFORMATION**
@@ -819,7 +910,8 @@ If you decide to leave any of the Sites and access the Third-Party Sites or to u
 
 We may also make available or provide access to products, services, or applications of Third Parties. Such products, services, and applications shall be purchased and/or obtained directly from such Third Party. NO TOYOTA ENTITY SHALL BE A PARTY TO, OR IN ANY WAY BE RESPONSIBLE FOR, ANY TRANSACTION CONCERNING PRODUCTS, SERVICES, OR APPLICATIONS MADE AVAILABLE FROM SUCH THIRD PARTIES OR FOR ANY CONTENT OR INFORMATION PRESENTED IN CONNECTION WITH ANY PRODUCTS, SERVICES OR APPLICATIONS OF THIRD PARTIES. NO TOYOTA ENTITY SHALL BE RESPONSIBLE FOR THE CONTENTS OF ANY WEB SITE OR MOBILE SITE LINKED TO THE SITES, AND THE FACT SUCH LINKS ARE PROVIDED ON THE SITES DOES NOT INDICATE OUR APPROVAL OR ENDORSEMENT OF ANY MATERIAL CONTAINED ON ANY LINKED WEB SITE OR MOBILE SITE. YOUR CONNECTION TO AND USE OF ANY SUCH LINKED WEB SITE OR MOBILE SITE IS AT YOUR OWN RISK.
 
-Any Visitor including a link to the Sites or any Content or other information on any Third-Party Site or in any Third-Party Applications, Software or Content must follow the Guidelines for External Sites set forth herein.If you would like to use Content or information or provide a link to any part of any of the Sites from any Third-Party Site or in any Third-Party Applications, Software or Content, you must read and agree to comply with the following guidelines and all applicable laws.
+Any Visitor including a link to the Sites or any Content or other information on any Third-Party Site or in any Third-Party Applications, Software or Content must follow the Guidelines for External Sites set forth herein.  
+If you would like to use Content or information or provide a link to any part of any of the Sites from any Third-Party Site or in any Third-Party Applications, Software or Content, you must read and agree to comply with the following guidelines and all applicable laws.
 
 _External Third-Party Site Use of Toyota Information_  
 
@@ -874,7 +966,8 @@ You agree that you will not use the Sites to:
 
 You understand that by using the Sites, you may be exposed to User Content created by others that is offensive, indecent or objectionable. Toyota does not endorse or have control over what is posted as User Content. User Content is not reviewed by Toyota prior to posting and does not reflect the opinions or policies of Toyota. Toyota makes no representations or warranties, express or implied as to the User Content or the accuracy and reliability of the User Content or any other material or information that you may access through the Sites. Toyota assumes no responsibility for monitoring the Sites for inappropriate submissions or conduct, but reserves the right to do so. If at any time Toyota chooses, in its sole discretion, to monitor the Sites, Toyota nonetheless assumes no responsibility for the User Content, has no obligation to modify or remove any inappropriate User Content, and has no responsibility for the conduct of the users or Visitors submitting any such User Content. Notwithstanding the foregoing, Toyota and its designees shall have the right to remove any User Content at any time, without notice and for any reason, including but not limited to, content that violates this Agreement or is otherwise objectionable, in Toyota’s sole discretion. You agree that you must evaluate, and bear all risks associated with, the use of any User Content, including any reliance on the accuracy, completeness, or usefulness of such User Content. In this regard, you acknowledge that you may not rely on any User Content. Toyota may store User Content indefinitely. However, Toyota has no obligation to store User Content or make it available to you in the future.
 
-You are solely responsible for your interactions with other Sites users and Visitors. Toyota reserves the right, but has no obligation, to monitor disputes between you and other Sites users and Visitors. Toyota reserves the right to terminate your access to the Sites if Toyota determines, in its sole discretion, that doing so is prudent.You may submit reviews or other feedback on the Sites. Any comments, suggestions, or feedback relating to the Sites (collectively "Feedback") submitted to Toyota shall become the property of Toyota. Toyota will not be required to treat any Feedback as confidential, and will not be liable for any ideas (including without limitation, product, services, application, site, or advertising ideas) and will not incur any liability as a result of any similarities that may appear in the Sites, or its operations or business, in the future. Without limitation, Toyota will have exclusive ownership of all present and future existing rights to the Feedback of every kind and nature everywhere and will be entitled to use the Feedback for any commercial or other purpose whatsoever, without compensation to you or any other person sending the Feedback. You acknowledge that you are responsible for whatever material you submit, and you, not Toyota, have full responsibility for the message, including its legality, reliability, appropriateness, originality and copyright.
+You are solely responsible for your interactions with other Sites users and Visitors. Toyota reserves the right, but has no obligation, to monitor disputes between you and other Sites users and Visitors. Toyota reserves the right to terminate your access to the Sites if Toyota determines, in its sole discretion, that doing so is prudent.  
+You may submit reviews or other feedback on the Sites. Any comments, suggestions, or feedback relating to the Sites (collectively "Feedback") submitted to Toyota shall become the property of Toyota. Toyota will not be required to treat any Feedback as confidential, and will not be liable for any ideas (including without limitation, product, services, application, site, or advertising ideas) and will not incur any liability as a result of any similarities that may appear in the Sites, or its operations or business, in the future. Without limitation, Toyota will have exclusive ownership of all present and future existing rights to the Feedback of every kind and nature everywhere and will be entitled to use the Feedback for any commercial or other purpose whatsoever, without compensation to you or any other person sending the Feedback. You acknowledge that you are responsible for whatever material you submit, and you, not Toyota, have full responsibility for the message, including its legality, reliability, appropriateness, originality and copyright.
 
   
 
@@ -985,7 +1078,8 @@ Arbitration under this Agreement shall be conducted by the American Arbitration 
 
 To the fullest extent permitted by applicable law, NO ARBITRATION OR OTHER CLAIM UNDER THIS AGREEMENT SHALL BE JOINED TO ANY OTHER ARBITRATION OR CLAIM, INCLUDING ANY ARBITRATION OR CLAIM INVOLVING ANY OTHER CURRENT OR FORMER VISITOR OF THE SITES, AND NO CLASS ARBITRATION PROCEEDINGS SHALL BE PERMITTED. In the event that this **CLASS ACTION WAIVER** is deemed unenforceable, then any putative class action may only proceed in a court of competent jurisdiction and not in arbitration.
 
-WE BOTH AGREE THAT, WHETHER ANY CLAIM IS IN ARBITRATION OR IN COURT, YOU AND TOYOTA BOTH WAIVE ANY RIGHT TO A JURY TRIAL INVOLVING ANY CLAIMS OR DISPUTES BETWEEN US.In no event shall any claim, action or proceeding by you related in any way to this Agreement be instituted more than two (2) years after the cause of action arose. The immediately foregoing limitation does not apply to New Jersey residents.
+WE BOTH AGREE THAT, WHETHER ANY CLAIM IS IN ARBITRATION OR IN COURT, YOU AND TOYOTA BOTH WAIVE ANY RIGHT TO A JURY TRIAL INVOLVING ANY CLAIMS OR DISPUTES BETWEEN US.  
+In no event shall any claim, action or proceeding by you related in any way to this Agreement be instituted more than two (2) years after the cause of action arose. The immediately foregoing limitation does not apply to New Jersey residents.
 
   
 
@@ -1068,17 +1162,17 @@ Help
 
 \[#\] View All Disclosures
 
-*   MSRP excludes the Delivery, Processing, and Handling Fee of $895 for Cars (Yaris, Yaris iA, 86, Corolla, Corolla iM, Camry, Camry HV, Prius LB, Prius _c_, Prius _v_, Prius Prime, Mirai, Avalon, Avalon HV), $995 for Small/Medium Trucks, SUVs and Van (C-HR, RAV4, RAV4 HV, Highlander, Highlander HV, 4Runner, Sienna, Tacoma), $1,295 for Large SUVs (Sequoia, Land Cruiser), and $1,295 for Large Truck (Tundra). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. Actual dealer price will vary.
-*   2017 EPA-estimated city/highway mileage. Actual mileage will vary.  
+*   1\. MSRP excludes the Delivery, Processing, and Handling Fee of $895 for Cars (Yaris, Yaris iA, 86, Corolla, Corolla iM, Camry, Camry HV, Prius LB, Prius _c_, Prius _v_, Prius Prime, Mirai, Avalon, Avalon HV), $995 for Small/Medium Trucks, SUVs and Van (C-HR, RAV4, RAV4 HV, Highlander, Highlander HV, 4Runner, Sienna, Tacoma), $1,295 for Large SUVs (Sequoia, Land Cruiser), and $1,295 for Large Truck (Tundra). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. Actual dealer price will vary.
+*   2\. 2017 EPA-estimated city/highway mileage. Actual mileage will vary.  
     2018 EPA-estimated city/highway mileage. Actual mileage will vary.
-*   2018 EPA-estimated mileage. Actual mileage will vary.
-*   2018 EPA-estimated 29 city/41 highway/34 combined mpg for Camry L, available Fall 2017. Actual mileage will vary.
-*   2017 EPA-estimated mileage. Actual mileage will vary.
-*   2017 EPA-estimated 19 city/27 highway/22 combined mpg for Sienna FWD. Actual mileage will vary.
-*   2017 EPA-estimated 54 city/50 highway/52 combined mpg for Prius. Actual mileage will vary.
-*   2017 EPA-estimated 43 city/39 highway/41 combined mpg for Prius _v_. Actual mileage will vary.
-*   2017 Prius Prime EPA-estimated combined mpg. Actual mpg will vary based on driving habits, weather, temperature and road/traffic conditions. For more information on mpg, please see www.fueleconomy.gov.
-*   2017 Prius Prime EPA-estimated combined MPGe. Actual MPGe will vary depending upon driving conditions, how you drive and maintain your vehicle, and other factors. Battery capacity will decrease with time and use. For more information, see www.fueleconomy.gov.
-*   2016 EPA-estimated 67 city/67 highway/67 combined MPGe for Mirai and 312-mile driving range. Actual mileage will vary. Range measurement pursuant to SAE J2601 standards (ambient temperature: 20°C. hydrogen tank pressure when fueled: 70 MPa). Fueling time varies with hydrogen fueling pressure and ambient temperature.
-*   2018 C-HR preliminary 27 city/31 highway/29 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
-*   2018 EPA-estimated mileage. Actual mileage will vary.
+*   3\. 2018 EPA-estimated mileage. Actual mileage will vary.
+*   4\. 2018 EPA-estimated 29 city/41 highway/34 combined mpg for Camry L, available Fall 2017. Actual mileage will vary.
+*   5\. 2017 EPA-estimated mileage. Actual mileage will vary.
+*   6\. 2017 EPA-estimated 19 city/27 highway/22 combined mpg for Sienna FWD. Actual mileage will vary.
+*   7\. 2017 EPA-estimated 54 city/50 highway/52 combined mpg for Prius. Actual mileage will vary.
+*   8\. 2017 EPA-estimated 43 city/39 highway/41 combined mpg for Prius _v_. Actual mileage will vary.
+*   9\. 2017 Prius Prime EPA-estimated combined mpg. Actual mpg will vary based on driving habits, weather, temperature and road/traffic conditions. For more information on mpg, please see www.fueleconomy.gov.
+*   10\. 2017 Prius Prime EPA-estimated combined MPGe. Actual MPGe will vary depending upon driving conditions, how you drive and maintain your vehicle, and other factors. Battery capacity will decrease with time and use. For more information, see www.fueleconomy.gov.
+*   11\. 2016 EPA-estimated 67 city/67 highway/67 combined MPGe for Mirai and 312-mile driving range. Actual mileage will vary. Range measurement pursuant to SAE J2601 standards (ambient temperature: 20°C. hydrogen tank pressure when fueled: 70 MPa). Fueling time varies with hydrogen fueling pressure and ambient temperature.
+*   12\. 2018 C-HR preliminary 27 city/31 highway/29 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
+*   13\. 2018 EPA-estimated mileage. Actual mileage will vary.
