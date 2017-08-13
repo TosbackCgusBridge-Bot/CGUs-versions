@@ -1,4 +1,4 @@
-Last.fm Search SearchSearch Toggle navigation
+Last.fmSearchSearchSearchToggle navigation
 
 *   Live
 *   Music
@@ -7,6 +7,13 @@ Last.fm Search SearchSearch Toggle navigation
 *   Subscribe
 *   Join
 *   Login
+
+*   Live
+*   Music
+*   Events
+*   Features
+
+More…
 
 *   Live
 *   Music
@@ -208,7 +215,7 @@ Follow Us
 *   Türkçe
 *   简体中文
 
-Time zone: **America/Denver**
+Time zone: **America/Chicago**
 
 *   CBS Interactive © 2017 Last.fm Ltd. All rights reserved
 *   Terms of Use
