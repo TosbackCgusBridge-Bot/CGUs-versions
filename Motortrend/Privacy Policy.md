@@ -113,11 +113,11 @@ If you have any questions about this Privacy Policy or our privacy practices, pl
 
 Or you can contact us by mail at:
 
-Source Interlink Companies, Inc.  
+_Source Interlink Companies, Inc.  
 27500 Riverview Center Blvd.  
 Bonita Springs, FL 34134  
 Attn: General Counsel  
-Fax: 239.949.7689  
+Fax: 239.949.7689_  
   
 
 Last Update October 19, 2010
