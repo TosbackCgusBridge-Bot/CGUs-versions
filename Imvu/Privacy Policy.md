@@ -126,7 +126,8 @@ IMVU recognizes the privacy interests of children and we encourage parents and g
 
 Questions/Contact us
 
-If you have any questions regarding this Privacy Policy please contact IMVU, Inc. here by clicking on the "Request Support" tab and selecting "Privacy" as a Case Category or via mail at:
+If you have any questions regarding this Privacy Policy please contact IMVU, Inc. here  
+by clicking on the "Request Support" tab and selecting "Privacy" as a Case Category or via mail at:
 
 Privacy Officer  
 IMVU, Inc.  
