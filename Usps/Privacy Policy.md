@@ -1,4 +1,4 @@
-Skip Top Navigation
+Skip Top Navigation Menu
 
 *   Who We Are go to What We're Doing header
     *   Leadership
@@ -41,7 +41,55 @@ End of sub links*   Doing Business with Us
     *   IT Policies, Process &. Standards
     *   Public Key Infrastructure
 
-End top navigation Search Skip Side Navigation Leadership
+End top navigation Search
+
+*   Who We Are
+    *   Overview
+    *   Leadership
+    *   Financials
+    *   Government Relations
+    *   Judicial Officer
+    *   Legal
+    *   Our History
+    *   Postal Facts
+*   What We're Doing
+    *   Overview
+    *   Transforming Our Business
+    *   Current Initiatives
+    *   Securing The Mail
+    *   REDRESS
+    *   Sustainability
+    *   Corporate Social Responsibility
+    *   Government Services
+    *   Postal Customer Council
+    *   Service Performance Results
+*   Newsroom
+    *   Overview
+    *   National News
+    *   Local News
+    *   Electronic News Kits
+    *   Testimony &. Speeches
+    *   Broadcast Downloads
+    *   Audio Downloads
+    *   Events Calendar
+    *   Photo Gallery
+    *   Service Alerts
+*   Careers
+    *   Overview
+    *   Career Opportunities
+    *   Working at USPS
+    *   Search &. Apply
+    *   Application Process
+*   Doing Business with Us
+    *   Overview
+    *   Suppliers
+    *   Licensing
+    *   Rights &. Permissions
+    *   Auctions
+    *   IT Policies, Process &. Standards
+    *   Public Key Infrastructure
+
+Skip Side Navigation Leadership
 
 *   Board of Governors
 *   Postmaster General &. Executive Leadership Team
