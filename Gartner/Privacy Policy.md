@@ -115,4 +115,4 @@ Last Updated: August, 2016
 *   |
 *   Webinars
 
-© Gartner, Inc. and/or its Affiliates. All Rights Reserved.
+© 2017 Gartner, Inc. and/or its Affiliates. All Rights Reserved.
