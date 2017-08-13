@@ -1,4 +1,4 @@
-eBay User Agreement This User Agreement is effective upon acceptance for new users, and from August 1, 2017 for existing users. The previous amendment to this User Agreement was effective for all users on June 20, 2017. In this article Introduction About eBay Using eBay Policy Enforcement Fees Listing Conditions Purchase Conditions International Buying and Selling. Translation Content Notice for Claims of Intellectual Property Violations and Copyright Infringement Pursuant to Section 512(c) of Title 17 of the United States Code Holds Authorization to Contact You. Recording Calls Additional Terms 
+eBay User AgreementThis User Agreement is effective upon acceptance for new users, and from August 1, 2017 for existing users. The previous amendment to this User Agreement was effective for all users on June 20, 2017. In this articleIntroductionAbout eBayUsing eBayPolicy EnforcementFeesListing ConditionsPurchase ConditionsInternational Buying and Selling. TranslationContentNotice for Claims of Intellectual Property Violations and Copyright Infringement Pursuant to Section 512(c) of Title 17 of the United States CodeHoldsAuthorization to Contact You. Recording CallsAdditional Terms 
 
 *   Returns 
     
@@ -7,7 +7,7 @@ eBay User Agreement This User Agreement is effective upon acceptance for new use
 *   eBay Money Back Guarantee
     
 
-Disclaimer of Warranties. Limitation of Liability Release Indemnity Legal Disputes General
+Disclaimer of Warranties. Limitation of LiabilityReleaseIndemnityLegal DisputesGeneral
 
 Introduction
 
