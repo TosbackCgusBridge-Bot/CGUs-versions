@@ -1,7 +1,7 @@
-  
+<img src="https://count.spiegel.de/nm\_trck.gif?sp.site=9999" width="1" height="1" border="0" align="right" alt="" />.  
   
 
-Mein SPIEGEL
+Anmelden
 
 *   Menü
 *   Politik
