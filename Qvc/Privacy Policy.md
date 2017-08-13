@@ -129,7 +129,9 @@ QVC also works with members of the self-regulatory groups the Network Advertisin
 
 **Facebook**
 
-If you are active on Facebook, QVC may also reach out to you with Facebook ads that are customized to your interests based on how you have interacted with QVC's website and mobile apps. If you do not want QVC to present you with tailored Facebook ads, you can opt out through Facebook. What are third party affinity programs?
+If you are active on Facebook, QVC may also reach out to you with Facebook ads that are customized to your interests based on how you have interacted with QVC's website and mobile apps. If you do not want QVC to present you with tailored Facebook ads, you can opt out through Facebook.
+
+What are third party affinity programs?
 
 Occasionally, we participate in rewards programs with other business organizations where customers who are also members of these businesses will get a credit or a reward for their QVC purchases from the other member organizations. We also sometimes advertise QVC products on other services in the form of a link so that visitors can click over to our services and purchase the products if they are interested. In these situations, we share information about our customers' QVC purchases with these other member organizations and other services under the contracts these entities have with QVC.
 
