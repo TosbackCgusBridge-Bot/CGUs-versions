@@ -1,4 +1,4 @@
-Privacy &. Security
+Artboard 1Pink\_Nation\_Member Privacy &. Security
 
 Effective Date: March 9, 2017
 
@@ -74,7 +74,7 @@ What information is collected and how is it used?
 
 Back To Top
 
-How is technology used to serve our advertisements on other online services and what choices do you have?
+How is technology used to serve our advertisements on other online services and what choices do you have?  
 
 We also contract with third-party advertising companies, which may collect information about your online activities on the Services, over time and across third-party websites and online services, for use in delivering tailored online display and banner advertising to you on other websites and online services. To serve this advertising, these third-party companies place, use, or rely on the technologies described above, including cookies, clear gifs, device identifiers and similar technologies to obtain information about customer interactions with us through our Services and interactions with other online services. These companies use the information they collect to serve you ads that are targeted to your interests.
 
@@ -82,7 +82,7 @@ For information about opt out programs that these third party advertising compan
 
 Back To Top
 
-How do our Services interact with third-party services and content?
+How do our Services interact with third-party services and content?  
 
 We may link to third-party sites and services, or otherwise display third-party content through our Services. We do this for your convenience. We don't endorse or generally have any affiliation with these third parties. And we don't control and aren't responsible for their practices. It is possible that the third party providing content through our Services may collect or observe information through its use of technology. Whether the third-party content appears within our Services (like a map frame), or you leave our Services to view it, those service provider's terms, conditions, and privacy policies govern your online experience (unless we post a statement that indicates otherwise). Please view their terms of service and privacy policies if you have any question about their practices.
 
@@ -119,7 +119,7 @@ Here's a partial list of the third-party content and services available through 
 
 Back To Top
 
-What information do we share with third parties and our sister brands (or what information may they access because of the services they provide to us)?
+What information do we share with third parties and our sister brands (or what information may they access because of the services they provide to us)?  
 
 We may share information about you with third parties, as described below, and as otherwise described in this policy:
 
@@ -189,7 +189,7 @@ With your consent, we may send push notifications or alerts to your mobile devic
 
 Back To Top
 
-How do you update your personal information?
+How do you update your personal information?  
 
 We prefer to keep your personal information accurate and up-to-date. You may update or modify your billing- and shipping-related information, and other account information, by logging onto our Services (e.g., Your Account on the Victoria's Secret and Victoria's Secret Pink website, or Edit Profile on your Pink Nation account). You may also update or modify your postal mailing information by clicking here.
 
@@ -246,4 +246,11 @@ This privacy policy was last updated on the Effective Date listed above. Please 
 
 Back To Top
 
-Close
+Close Stay in touch  
+&. in style
+
+Be the first to know about new products, special offers, store events and more.
+
+Email Field Email Address Form Actions Submit
+
+By submitting, you agree to these Terms &. Conditions. You may unsubscribe any time. View Contact Info and Privacy Policy.
