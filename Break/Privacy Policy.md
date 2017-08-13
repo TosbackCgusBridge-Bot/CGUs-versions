@@ -1,4 +1,4 @@
-Company’s Privacy Policy  
+Company’s Privacy Policy 
 
 Thank you for visiting a Defy Media, LLC website (including any mobile and/or application based version thereof, collectively, the “Defy Site”). The purpose of this privacy policy (“policy”) is to inform users of the Defy Site as to what information we collect and how and why we use such information.
 
