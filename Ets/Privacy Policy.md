@@ -205,13 +205,17 @@ Promotional Links Related Links
 *   General Licensing Permission Form
 *   Research Licensing Permission Form
 
-Navigation for Legal Home Navigation for Legal Home Terms of Use Privacy and Security▼
+Navigation for Legal Home Navigation for Legal HomeTerms of UsePrivacy and Security▼
 
+*   Privacy and Security▼ Overview
 *   Test Takers
 
-Permissions Trademark Use▼
+PermissionsTrademark Use▼
 
+*   Trademark Use▼ Overview
 *   Trademarks Owned by ETS
+
+Contact Us
 
 ETS
 
@@ -259,3 +263,5 @@ ETS — Measuring the Power of Learning.®
 
 Copyright © 2017 by Educational Testing Service. All rights reserved.  
 All trademarks are property of their respective owners.
+
+Activate to launch comment card
