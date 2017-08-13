@@ -8,9 +8,9 @@
 *   PHI 9 GB 24 Final
 *   PIT 20 NYG 12 Final
 *   TB 12 CIN 23 Final
-*   SF 9 KC? 7 3rd ? 13:28
-*   TEN 0-0 NYJ 0-0 Sat 7:30 PM ET
-*   DAL 0-0 LA 0-0 Sat 9:00 PM ET
+*   SF 27 KC 17 Final
+*   TEN? 3 NYJ 7 3rd ? 07:56
+*   DAL 0 LA? 7 1st ? 05:19
 *   OAK 0-0 ARI 0-0 Sat 10:00 PM ET
 *   DET 0-0 IND 0-0 Sun 1:30 PM ET
 *   SEA 0-0 LAC 0-0 Sun 8:00 PM ET
