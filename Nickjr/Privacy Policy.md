@@ -210,6 +210,7 @@ With respect to the Tracking Technologies set by Third Party Advertising Service
     
 
 *   **Nielsen Measurement:**   The player on this website may feature Nielsen's proprietary measurement software which will collect and use certain video viewing metrics and other information, in accordance with Nielsen's digital measurement privacy policy.  For more information about Nielsen's measurement software, see http://www.nielsen.com/digitalprivacy and see the "Choices" section of that digital measurement privacy policy to learn about your choices with respect to Nielsen's measurement, including your opt-out options if you do not wish to participate in such measurement and the scope of any opt-out options.
+    
 
 *   Please note the following with respect to opting out of Tracking Technologies set by Third Party Advertising Service Providers and advertisers:
     
