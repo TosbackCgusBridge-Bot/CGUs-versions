@@ -75,7 +75,11 @@ Fitocracy discloses potentially personally-identifying and personally-identifyin
 
 California Residents
 
-Under California Civil Code Section 1798.83, California residents who have an established business relationship with Fitocracy may choose to opt out of our sharing your Personal Information with third parties for direct marketing purposes. If you are a California resident and (1) you wish to opt out. or (2) you wish to request certain information regarding our disclosure of your Personal Information to third parties for the direct marketing purposes, please send an e-mail to privacy@fitocracy.com or write to us at: Fitocracy, Inc. 51 East 12th St, 4th Floor New York, NY 10003
+Under California Civil Code Section 1798.83, California residents who have an established business relationship with Fitocracy may choose to opt out of our sharing your Personal Information with third parties for direct marketing purposes. If you are a California resident and (1) you wish to opt out. or (2) you wish to request certain information regarding our disclosure of your Personal Information to third parties for the direct marketing purposes, please send an e-mail to privacy@fitocracy.com or write to us at:  
+  
+Fitocracy, Inc.  
+51 East 12th St, 4th Floor  
+New York, NY 10003
 
 Important Notice to Non-US Residents
 
