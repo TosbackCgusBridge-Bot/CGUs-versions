@@ -1,15 +1,172 @@
-LENOVO Menu
+LaptopsTabletsDesktopsDeals LENOVO Menu
 
 *   Products
     *   Laptops
+        *   Explore All Laptops
+        *   ThinkPad Laptops
+            *   X Series
+                *   ThinkPad X1 Carbon Gen 5
+                *   ThinkPad X1 Yoga
+                *   ThinkPad X270
+                *   ThinkPad X1 Carbon Gen 4
+            *   T Series
+                *   ThinkPad T470
+                *   ThinkPad T560
+                *   ThinkPad T460s
+                *   ThinkPad T470s
+                *   ThinkPad T570
+            *   P Series
+                *   ThinkPad P50
+                *   ThinkPad P50s
+                *   ThinkPad P70
+                *   ThinkPad P40 Yoga
+            *   ThinkPad Yoga Series
+                *   ThinkPad Yoga 260
+                *   ThinkPad Yoga 460
+            *   11e Series
+                *   ThinkPad 11e 3rd Gen Chrome
+                *   ThinkPad 11e 3rd Gen Windows
+                *   ThinkPad 11e Yoga 3rd Gen Chrmoe
+                *   ThinkPad 11e Yoga 3rd Gen Windows
+            *   13 Series
+                *   13 Windows 2nd Gen
+                *   13 Chrome
+            *   L Series
+                *   ThinkPad L470
+                *   ThinkPad L560
+        *   Yoga Laptops
+        *   Ideapad Laptops
+            *   Miix Series 2-in-1
+        *   Gaming Laptops
+        *   Yoga Book
+        *   Chromebooks
+        *   Small Business Laptops
     *   Tablets
+        *   Explore All Tablets
+        *   ThinkPad Tablets
+            *   ThinkPad X1 Tablet
+        *   IdeaPad Tablets
+            *   Miix Series 2-in-1
+        *   Small Business Solutions
     *   Smartphones
+        *   Lenovo Smartphones
+            *   Moto Series
+                *   G4 Plus
+                *   G4
+                *   G4 Play
     *   Desktops &  
         All-in-Ones
+        *   Explore all Desktops &. All-in-ones
+        *   ThinkCentre Desktops
+            *   X1 Series
+                *   X1 All-in-one
+            *   M Series Towers
+                *   ThinkCentre M900
+                *   ThinkCentre M700
+                *   ThinkCentre M800
+            *   M Series SFF
+                *   ThinkCentre M900 SFF
+                *   ThinkCentre M700 SFF
+                *   ThinkCentre M79 SFF
+                *   ThinkCentre M800 SFF
+            *   M Series AIO
+                *   ThinkCentre M900z
+                *   ThinkCentre M700z
+                *   ThinkCentre M800z
+            *   M Series Tiny
+                *   M600
+                *   M700
+                *   M715
+        *   Yoga
+        *   IdeaCentre Desktops
+        *   Lenovo Desktops
+            *   C Series All-in-Ones
+            *   H Series Mini Towers
+        *   Gaming Desktops
+        *   Small Business Desktops
     *   Workstations
+        *   Explore All Workstations
+        *   P Series
+            *   P310 SFF
+            *   P310 Tower
+            *   P410
+            *   P510
+            *   P710
+            *   P910
+        *   ThinkPad Mobile Workstations
+        *   Small Business Solutions
     *   Servers, Storage &. Networking
+        *   Explore All Servers, Storage &. Networking
+        *   Servers
+            *   Explore Servers
+            *   Racks
+            *   Towers
+            *   Blades
+            *   Mission-Critical
+            *   High-Density
+            *   Options
+        *   Storage
+            *   Explore Storage
+            *   Software Defined Storage
+            *   Storage-Area Network
+            *   Direct-Attached Storage
+            *   Tape
+            *   Network-Attached Storage
+        *   Networking
+            *   Explore Networking
+            *   Ethernet RackSwitch
+            *   Ethernet Switches for Flex System
+            *   Networking Software
+            *   Juniper Products from Lenovo
+        *   Converged Systems
+            *   Explore Converged Systems
+            *   Lenovo Converged HX Series
+        *   Solutions
+            *   Explore Solutions
+            *   Cloud
+            *   Big Data &. Analytics
+            *   Business Applications
+            *   Database
+            *   High-Performance Computing (HPC)
+            *   Client Virtualization &. Infrastructure
+            *   Alliances
+            *   OEM
+        *   Services
+            *   Explore Services
+            *   Planning Services
+            *   Deployment Services
+            *   Support Services
+            *   Optimization Services
+            *   Asset Disposal Services
+            *   Fulfillment Services
+            *   Extended Lifecycle Program
+            *   Additional Resources
+        *   Software
+            *   Explore Software
+            *   Operating Systems
+            *   Systems Management
+            *   Cloud &. Virtualization
+            *   Security
+            *   High-Performance Computing (HPC)
+        *   Why Lenovo in the Data Center
+        *   Customer Success Stories
     *   Accessories &. Software
+        *   Explore All Accessories &. Software
+        *   Monitors
+        *   Cases &. Bags
+        *   Keyboards &. Mice
+        *   Docking
+        *   Tablet Accessories
+        *   Storage
+        *   Audio
+        *   Chargers &. Batteries
+        *   Software
     *   Services &. Warranty
+        *   Explore All Services &. Warranty
+        *   Warranty Lookup
+        *   Business, Government, Schools
+        *   Personal, Home Office
+        *   Data Center Services
 *   Deals
     *   Explore All  
         Deals
@@ -36,6 +193,14 @@ LENOVO Menu
     *   Existing order help
     *   Download  
         Lenovo Companion - Mobile
+*   My Lenovo
+    *   Community
+    *   Account
+*   Contact Sales
+    *   Sales: 1-855-253-6686
+*   Stay in Touch
+    *   Email
+    *   SMS
 
 *   Sales1-855-253-6686
 
@@ -49,6 +214,7 @@ LENOVO Menu
     *   Community
     *   Account
 *   Contact Sales
+    *   Sales: 1-855-253-6686
 *   Stay in Touch
     *   Email
     *   SMS
@@ -56,7 +222,16 @@ LENOVO Menu
 *   Search
     
 
-Offers Home Privacy Details Privacy Privacy details Cookies Social Sign On  
+*   My Lenovo
+    *   Community
+    *   Account
+*   Contact Sales
+    *   Sales: 1-855-253-6686
+*   Stay in Touch
+    *   Email
+    *   SMS
+
+Filter by specs Offers Home Privacy Details Privacy Privacy details Cookies Social Sign On  
   Privacy Policy    
 
 Your privacy is important to Lenovo. This privacy policy applies to Lenovo’s websites owned and operated by Lenovo. This statement discloses the information practices for Lenovo Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
@@ -331,4 +506,4 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Order Status
     *   Support
 
-trusteValidation 2017 Lenovo. All rights reserved. Email this pagePrint this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions
+2017 Lenovo. All rights reserved. Email this pagePrint this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions
