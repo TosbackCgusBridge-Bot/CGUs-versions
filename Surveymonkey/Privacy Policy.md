@@ -1,37 +1,38 @@
-1.  Sign In
-2.  Help
-
-SurveyMonkey® ÷
+SurveyMonkey® ÷ SIGN IN
 
 *   Sign In
 *   Help
-*   Home
 *   How It Works
+*   Products
+    *   Survey platform
+    *   Survey panel
+    *   App Directory
+    *   Wufoo online forms
+    *   SOLUTIONS
+    *   Overview
+    *   Enterprise survey platform
+    *   Customer experience
+    *   Employee engagement
+    *   Content marketing
+    *   Application management
 *   Examples
-    *   Survey Templates
-    *   Survey Tips
-    *   Survey Types
-    *   Academic Research
-    *   Customer Satisfaction
+    *   Survey types
+    *   Academic research
+    *   Quizzes
+    *   Customer satisfaction
     *   Education
     *   Employee
     *   Healthcare
-    *   Market Research
-    *   Non Profit
+    *   Market research
+    *   Non profit
     *   Events
-*   Survey Services
-    *   Buy Survey Responses
-    *   Buy a Multi-User Account
-    *   Get Benchmarks
-    *   Mobile App
-    *   Integrations
-    *   Take Surveys
-    *   Wufoo Online Forms
-*   Business Solutions
-    *   Overview
-    *   Enterprise Survey Platform
-    *   Customer Satisfaction
-    *   Content Marketing
+*   Resources
+    *   Customer stories
+    *   Survey templates
+    *   Survey tips
+    *   Mobile app
+    *   Blog
+    *   Help center
 *   Plans &. Pricing
 
 Menu œ
@@ -49,12 +50,13 @@ Menu œ
     *   Subscription Cancellation Policy (Europe only)
 *   Information
     *   Security Statement
-    *   SurveyMonkey Canada - Multi-Year Accessibility Plan
+    *   Canadian Data Centre Overview
+    *   SurveyMonkey Canada Inc. Multi-Year Accessibility Plan
 *   Requests &. Forms
     *   Federal 508 VPAT Template
     *   SurveyMonkey's W-9 Form
 
-Privacy Policy Versions: September 12, 2016April 7, 2016July 8, 2015January 1, 2015December 10, 2014October 29, 2013February 5, 2013March 28, 2012June 27, 2011 Effective Date: September 12, 2016
+Privacy Policy Versions:September 12, 2016April 7, 2016July 8, 2015January 1, 2015December 10, 2014October 29, 2013February 5, 2013March 28, 2012June 27, 2011 Effective Date: September 12, 2016
 
 **This privacy policy explains how SurveyMonkey handles your personal information and data. We value your trust, so we’ve strived to present this policy in clear, plain language instead of legalese. The policy is structured so you can quickly find answers to the questions that interest you the most.**
 
@@ -70,7 +72,7 @@ Under certain conditions, more fully described on the Privacy Shield website htt
 
 **U.S. – Swiss Safe Harbor.** SurveyMonkey Inc. (and its subsidiary company, Infinity Box Inc.) complies with the US-Swiss Safe Harbor Framework developed by the U.S. Department of Commerce regarding the collection, use and retention of personal information received in the U.S. from Switzerland.  SurveyMonkey Inc. has certified that it adheres to the U.S.-Swiss Safe Harbor Privacy Principles with respect to such information. SurveyMonkey may process some data from individuals or companies in Switzerland via other compliance mechanisms, including data processing agreements based on the EU Standard Contractual Clauses. To learn more about the Safe Harbor program, and to view our certification, please visit https://safeharbor.export.gov/swisslist.aspx.
 
-**Questions?** For questions regarding our privacy policy or practices, contact SurveyMonkey by mail at 3050 S. Delaware Street, San Mateo, CA 94403, USA, or electronically through this form.
+**Questions?** For questions regarding our privacy policy or practices, contact SurveyMonkey by mail at One Curiosity Way, San Mateo, CA 94403, USA, or electronically through this form.
 
 Key Privacy Points: The Stuff You Really Care About IF YOU CREATE SURVEYS:
 
@@ -260,6 +262,7 @@ PRIVACY FOR SURVEY RESPONDENTS
     *   **Accessing and correcting your personal data.** You have the right to access and correct the personal information that SurveyMonkey holds about you. This right may be exercised by contacting customer support.
     
     **Consents. By clicking “I Agree” or any other button indicating your acceptance of this privacy policy, you expressly consent to the following:**
+    
     *   You consent to the collection, use, disclosure and processing of your personal data in the manner described in this privacy policy, including our procedures relating to **cookies, IP addresses and log files**.
     *   Our servers are based in the United States, so your personal data will be primarily processed by us in the United States. You consent to the transfer and processing of your personal data in the United States by SurveyMonkey Inc. and in the data locations identified in Section 5 by our various affiliates and service providers.
     *   You consent and agree that we may transfer your data to data processors located in countries, including the United States, which do not have data protection laws that provide the same level of protection that exists in countries in the European Economic Area. Your consent is voluntary, and you may revoke your consent by opting out at any time. Please note that if you opt-out, we may no longer be able to provide you our services.
@@ -285,7 +288,7 @@ PRIVACY FOR SURVEY RESPONDENTS
 *   About Us:
 *   Leadership Team
 *   Board of Directors
-*   Integrations
+*   App Directory
 *   Newsroom
 *   Office Locations
 *   Jobs
@@ -299,8 +302,6 @@ PRIVACY FOR SURVEY RESPONDENTS
 *   Security Statement
 *   Email Opt-In
 *   Accessibility
-
-_°_
 
 *   Language:
 *   English
@@ -327,31 +328,35 @@ Copyright © 1999 - 2017 SurveyMonkey
 
 *   Sign In
 *   Help
-*   Home
 *   How It Works
+*   Products
+    *   Survey platform
+    *   Survey panel
+    *   App Directory
+    *   Wufoo online forms
+    *   SOLUTIONS
+    *   Overview
+    *   Enterprise survey platform
+    *   Customer experience
+    *   Employee engagement
+    *   Content marketing
+    *   Application management
 *   Examples
-    *   Survey Templates
-    *   Survey Tips
-    *   Survey Types
-    *   Academic Research
-    *   Customer Satisfaction
+    *   Survey types
+    *   Academic research
+    *   Quizzes
+    *   Customer satisfaction
     *   Education
     *   Employee
     *   Healthcare
-    *   Market Research
-    *   Non Profit
+    *   Market research
+    *   Non profit
     *   Events
-*   Survey Services
-    *   Buy Survey Responses
-    *   Buy a Multi-User Account
-    *   Get Benchmarks
-    *   Mobile App
-    *   Integrations
-    *   Take Surveys
-    *   Wufoo Online Forms
-*   Business Solutions
-    *   Overview
-    *   Enterprise Survey Platform
-    *   Customer Satisfaction
-    *   Content Marketing
+*   Resources
+    *   Customer stories
+    *   Survey templates
+    *   Survey tips
+    *   Mobile app
+    *   Blog
+    *   Help center
 *   Plans &. Pricing
