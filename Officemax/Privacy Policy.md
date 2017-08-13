@@ -16,7 +16,7 @@ SEG1 hp
     enter your number below.
 *   Login or Register
 
-Office Depot Deals itS4vN3B6TJhq7HzP0taT23
+Office Depot Deals ZLJnjJ9hOVmSVOOGVri9WWX
 
 Search Suggestions
 
@@ -139,7 +139,7 @@ Investor Relations Media Relations Corporate Sustainability Need Help?
 
 *   Customer Service
 
-Chat not available Talk with a Representative  
+Chat not availableTalk with a Representative  
 Chat Now Office Depot, Inc. is a leading global provider of products, services, and solutions for every workplace  whether your workplace is an office, home, school or car.  
   
 Office Depot, Inc. is a resource and a catalyst to help customers work better. We are a single source for everything customers need to be more productive, including the latest technology, core office supplies, print and document services, business services, facilities products, furniture, and school essentials.  
@@ -250,10 +250,10 @@ Your session will time out in 120 seconds.
 
 You will be automatically logged out if you do not click on the button below.
 
-http://officedepot.ugc.bazaarvoice.com 2563rew http://static.www.odcdn.com/images/us/od/ Placeholder
+http://officedepot.ugc.bazaarvoice.com 2563rew http://static.www.odcdn.com/images/us/od/ <iframe src="//s.thebrighttag.com/iframe?c=bAEQTsC" title="BrightTag" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">. <html><head></head><body><div style="display:none;">Placeholder</div></body></html>. </iframe>.
 
 This promotion is for Rewards members only. To take advantage of exclusive offers like these, join Office Depot® OfficeMax® Rewards Everything now!
 
 Join Sign In
 
-/account/v2/editBillingDisplay,/orderhistory/subsManager,/orderhistory/submitReturn,/account/accountSummaryDisplay,/account/loginAccountDisplay,/account/myfiles,/csl/listAll
+/account/v2/editBillingDisplay,/orderhistory/subsManager,/orderhistory/submitReturn,/account/accountSummaryDisplay,/account/loginAccountDisplay,/account/myfiles,/csl/listAll Feedback Will open a new window
