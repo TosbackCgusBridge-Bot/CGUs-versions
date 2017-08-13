@@ -55,7 +55,7 @@ This version (Version 2.1) of O'Reilly Media, Inc.'s Privacy Policy is effective
 
 This Policy ("Policy") describes the privacy practices of O'Reilly Media, Inc. ("O'Reilly," "we," "us," "our") and governs how we collect, store, process, transfer, use, and protect personal information collected from and about you. This Policy applies to the websites that we own and that display or link to this Policy, including the websites located at oreilly.com. This Policy also applies to your access to these websites via mobile devices. This Policy does not apply to any O'Reilly websites, products or services that display or link to their own privacy policies, or that do not link to or display this Policy.
 
-Please contact us at if you have questions or concerns about this Policy. If we do not resolve your question or concern satisfactorily, then please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+Please contact us at privacy@oreilly.com if you have questions or concerns about this Policy. If we do not resolve your question or concern satisfactorily, then please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
 *   Information We Collect
 *   How We Use Information We Collect
@@ -200,7 +200,7 @@ This section of the Policy concerns updating, correcting, and/or deleting PI.
 
 O'Reilly Media Requests to Access or Update Information:
 
-If you need to update, correct, or request the deletion or deactivation of your information please do so by email at .
+If you need to update, correct, or request the deletion or deactivation of your information please do so by email at privacy@oreilly.com .
 
 You also may update your information by writing to:
 
@@ -219,9 +219,9 @@ We will retain your information (including geo-location data) for as long as you
 
 Marketing Communications: To opt-out from or change your marketing communications preferences, follow the opt-out instructions included in the relevant newsletter or communication. Please note that your marketing communication preferences do not affect transactional, relationship, and/or legally required communications.
 
-PI Posted in Blogs: To request removal of your PI from one of our blogs, please contact . In some cases, we may not be able to remove your PI. In that case, we will let you know.
+PI Posted in Blogs: To request removal of your PI from one of our blogs, please contact privacy@oreilly.com . In some cases, we may not be able to remove your PI. In that case, we will let you know.
 
-Personal Testimonials: If you wish to update or delete your personal testimonial, you can contact us at .
+Personal Testimonials: If you wish to update or delete your personal testimonial, you can contact us at privacy@oreilly.com .
 
 8\. Children's Privacy
 
@@ -233,7 +233,7 @@ O'Reilly transacts business throughout the world and has operations, processes a
 
 10\. Questions or Concerns: Contact Us
 
-O'Reilly regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or O'Reilly's treatment of PI by emailing us at or by writing to us at:
+O'Reilly regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or O'Reilly's treatment of PI by emailing us at privacy@oreilly.com or by writing to us at:
 
 O'Reilly Media, Inc.  
 Attn: Online Marketing  
@@ -250,7 +250,7 @@ O'Reilly's policy is to share your PI only if you have given us your consent, fo
 
 After obtaining such consent, O'Reilly may from time to time provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs.
 
-If you no longer wish your information to be shared, or if you have questions regarding our information sharing practices, please let us know. You can email us at .
+If you no longer wish your information to be shared, or if you have questions regarding our information sharing practices, please let us know. You can email us at privacy@oreilly.com .
 
 13\. Previous Versions
 
@@ -279,3 +279,5 @@ About Us
   
 
 Terms of Service • Privacy Policy • Editorial Independence
+
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
