@@ -16,7 +16,7 @@ If you have any general questions or information relating to Content on the Site
 
 If you have specific questions or information about use of Content on the British Library website please contact: copyright@bl.uk
 
-Requests for permission to reproduce Content should be addressed as follows: **Images**
+Requests for permission to reproduce Content should be addressed as follows:**Images**
 
 E: permissions@bl.uk
 
