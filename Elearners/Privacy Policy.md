@@ -1,4 +1,4 @@
-Skip to main content
+Skip to main content <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PDDPX5" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
 *   Online Degrees
     *   All Subjects
@@ -214,7 +214,7 @@ Help Section
 
 Newsletter Signup
 
-Your Name \* Your Email Address \* Submit
+Your Name Your Email Address Submit
 
 By entering my email address and clicking "Subscribe" I agree to be contacted by eLearners, EducationDynamics, and preferred third-party partners of eLearners for additional education products and services.
 
@@ -246,4 +246,4 @@ Copyright eLearners.com 1999 - 2017
 
 EducationDynamics maintains business relationships with the schools it features
 
-Find Schools
+Find Schools AddThis Sharing, Number of shares, Number of shares, Number of shares, Number of shares, Number of sharesAddThis SharingSHARES
