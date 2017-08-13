@@ -6,9 +6,13 @@ Skip to main content Online Trust Alliance
 *   Privacy Policy
 *   Contact Us
 
-     
+     _▼_
 
+*   Home
+    
+    _▼_
 *   Initiatives
+    
     *   Advertising Security &. Privacy
     *   Brand Protection
     *   Cyber Incident &. Breach Readiness
@@ -17,30 +21,50 @@ Skip to main content Online Trust Alliance
     *   Online Trust Audit &. Honor Roll
     *   Privacy
     *   Public Policy
+    
+    _▼_
 *   Resources
+    
     *   Advertising Integrity &. Fraud
     *   Data Breach &. Protection
     *   OTA Members (Restricted)
     *   Report a Site Vulnerability
+    
+    _▼_
 *   Best Practices
+    
     *   Industry Best Practices
+    
+    _▼_
 *   Committees
 *   Newsroom
+    
     *   Press Releases
     *   OTA In The News
     *   Upcoming Events
+        
         *   Recent Events
         *   Events Archive
+        
+        _▼_
+    
+    _▼_
 *   Membership
+    
     *   Membership
     *   OTA Members Portal (Log in Required)
     *   Donate
+    
+    _▼_
 *   About Us
+    
     *   History &. Overview
     *   Vision for Trust
     *   Members
     *   Advisory Board
     *   Staff
+    
+    _▼_
 *   Blog
 
 *   Print
