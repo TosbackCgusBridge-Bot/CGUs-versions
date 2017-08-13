@@ -62,3 +62,5 @@ Wikia, Inc. only shares your information with others in the following circumstan
 If the Company becomes involved in a merger or acquisition or any form of sale of some or all of its assets, we will provide notice to you, via an update to this policy, of any personal information to be transferred and/or subject to a different policy.
 
 We may also share with third parties aggregated, non-personal information, such as the number of new user registrations over a specific time period or the number of users who edited a particular community.
+
+<link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/\_\_cb1502451465/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" />
