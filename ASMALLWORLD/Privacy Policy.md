@@ -1,4 +1,4 @@
-Privacy Policy
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KCPGM7" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Privacy Policy
 
 ASMALLWORLD is a private community built on trust. ASMALLWORLD AG of Bellerivestrasse 241, 8008 Zurich, Switzerland and ASMALLWORLD Limited having its registered office at Eighth Floor, 6 New Street Square, New Fetter Lane, London, England EC4A 3AQ are joint data controllers (collectively “ASW” or “we”) and we take your privacy seriously. If you have any questions about this policy, we can be reached by email at privacy@asw.com. Alternatively, you can contact us at:
 
@@ -132,4 +132,4 @@ Error ×
 
 An Error Has Occurred.
 
-Close
+Close <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=870931293042212&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1563791197284691&amp;ev=PageView&amp;noscript=1">.
