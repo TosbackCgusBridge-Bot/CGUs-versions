@@ -23,6 +23,7 @@ This Privacy Policy contains the following sections:
 
   
 If you have any questions regarding this Privacy Policy, please contact us.  
+
 1\. SUMMARY  
 
 This Privacy Policy explains and describes how Local collects, uses, shares, and discloses information collected via our Service and/or Local Web Pages. Although we urge you to read through the entire Privacy Policy for a full understanding of our practices, the following bullets provide a brief summary of some of the central features of our privacy practices:  
@@ -43,6 +44,7 @@ This Privacy Policy explains and describes how Local collects, uses, shares, and
 *   We have special concerns about the privacy of users who are minors (users under the age of 18), as further addressed in the Regarding Children section below. Our Service and Local Web Pages are not directed to children under 13.
 
   
+
 2\. YOUR ACCEPTANCE  
 
 In accessing the Service and/or the Local Web Pages, you accept all the terms and conditions of this Privacy Policy. Accordingly, we ask that you bookmark and periodically review this Privacy Policy to ensure continuing familiarity with the most current version. If you do not agree with the terms and conditions of this Privacy Policy we request that you immediately cease using and accessing the Service and/or the Local Web Pages.
