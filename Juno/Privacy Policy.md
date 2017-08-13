@@ -25,106 +25,107 @@ PRIVACY POLICY
 > This Policy applies to the Sites and Services only. When you visit websites to which we link, or if you click on third party advertisements that appear on our Sites, you will be interacting with a third party that operates under its own privacy and security policies. For example, a third party website will have its own policy regarding the use of cookies and web beacons or collection of your information. If you choose to obtain products or services from such third parties, the data collected by the third party is governed by that third party's privacy policy. We encourage you to review the privacy policies of any other website from whom you request products or services.  
 
 **I. Collection of Your Information  
+**
 
-> A. Information you provide to us:
+> **A. Information you provide to us:**  
+> We collect information about you when you register for the Services, such as:
+> 
+> *   your name;
+> *   your address.
+> *   your telephone number;
+> *   your primary and alternate email addresses.
+> *   your birth date.
+> *   your education.
+> *   your occupation. and
+> *   other household and demographic information.
+> 
+> If you join one of our paid Services, we will also collect:
+> 
+> *   billing and payment information, such as your credit card number and billing address.
+> 
+> In addition to information collected from you during registration, we collect information you provide through:
+> 
+> *   online surveys.
+> *   contest and sweepstakes entries.
+> *   technical and customer service calls.
+> *   your voluntary submission of information. and
+> *   email correspondence with us.
+> 
+> Note that surveys may be conducted by an independent third party and completion of surveys is voluntary. If you do not wish to participate in a survey, simply decline to participate when asked, but we would like your feedback in order to improve our Sites and Services.  
+>   
+> Please see Section II of this Policy to see how we use, share and disclose information you have provided to us.  
+>   
+> **B. Information we collect through your interaction with our Sites:**  
+> We collect information from your access device and browser, including:
+> 
+> *   what type of browser you use.
+> *   software on your computer, mobile device or other similar device.
+> *   processor type;
+> *   operating system.
+> *   IP address. and
+> *   navigational data such as the URLs you visit and any searches you may perform.
+> 
+> As you browse and interact with our Sites, we collect information related to your use of the Sites and Services, including:
+> 
+> *   how often you visit the Sites.
+> *   how often you use the Services.
+> *   how you navigate and conduct searches on our Sites. and
+> *   your interaction with advertisements and other links that are contained within our Sites.
+> 
+> Although we reserve the right to monitor Site activity, we will not intentionally disclose any private email messages or online communication between you and a third party, except in the following circumstances:
+> 
+> *   when we believe, in our sole discretion, you are acting in violation of our Terms of Service, our Acceptable Use Guidelines or any applicable law, rule or regulation. or
+> *   to protect the integrity of our Services or the Internet community as a whole.
+> 
+> Please see Section II of this Policy to see how we use, share and disclose information we collect through your interaction with our Sites or Services.  
+>   
+> **C. Information we receive from third parties:**  
+> We may collect information about you from other sources, including publicly available sources, our Affiliates or our third party partners such as Advertisers (as defined in Section III below), service providers or others, in order to update or supplement information we have collected directly from you. An "**Affiliate**" is a company that controls, is controlled by or is under common control with Juno.  
+>   
+> **D. Information collected through technological methods:**  
+> In addition, we may use, and may allow our Affiliates or third party partners to use, technological methods such as cookies or web beacons to collect information about you.  
+>   
+> Cookies are small pieces of data that may be stored on your computer, mobile device, or other similar device and are used to make the Sites easier to use and to improve effectiveness of advertising. For example, cookies keep track of your preferences, what Sites or other websites you visit, any personalization you may have done, any passwords you have elected to be remembered, and they may also measure whether you've seen or interacted with an advertisement on our Sites or other sites. Cookies (or similar technological methods) also allow us, our Affiliates and our third party partners to serve you with advertisements including targeted advertisements when you are on or off the Sites. Cookies may be set on your browser when you visit our Sites, or when you open emails from us.  
+>   
+> Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and may be used to track the online movement of users. Web beacons help us and our third party partners better manage content delivery by informing us when you are on our Sites and what content is effective. We also use web beacons in our emails to let us know which emails you have opened.  
+>   
+> Please see Sections II and III of this Policy to see how we use, share and disclose information collected through technological methods.  
 
-**  
-We collect information about you when you register for the Services, such as:
-
-*   your name;
-*   your address.
-*   your telephone number;
-*   your primary and alternate email addresses.
-*   your birth date.
-*   your education.
-*   your occupation. and
-*   other household and demographic information.
-
-If you join one of our paid Services, we will also collect:
-
-*   billing and payment information, such as your credit card number and billing address.
-
-In addition to information collected from you during registration, we collect information you provide through:
-
-*   online surveys.
-*   contest and sweepstakes entries.
-*   technical and customer service calls.
-*   your voluntary submission of information. and
-*   email correspondence with us.
-
-Note that surveys may be conducted by an independent third party and completion of surveys is voluntary. If you do not wish to participate in a survey, simply decline to participate when asked, but we would like your feedback in order to improve our Sites and Services.  
-  
-Please see Section II of this Policy to see how we use, share and disclose information you have provided to us.  
-  
-**B. Information we collect through your interaction with our Sites:**  
-We collect information from your access device and browser, including:
-
-*   what type of browser you use.
-*   software on your computer, mobile device or other similar device.
-*   processor type;
-*   operating system.
-*   IP address. and
-*   navigational data such as the URLs you visit and any searches you may perform.
-
-As you browse and interact with our Sites, we collect information related to your use of the Sites and Services, including:
-
-*   how often you visit the Sites.
-*   how often you use the Services.
-*   how you navigate and conduct searches on our Sites. and
-*   your interaction with advertisements and other links that are contained within our Sites.
-
-Although we reserve the right to monitor Site activity, we will not intentionally disclose any private email messages or online communication between you and a third party, except in the following circumstances:
-
-*   when we believe, in our sole discretion, you are acting in violation of our Terms of Service, our Acceptable Use Guidelines or any applicable law, rule or regulation. or
-*   to protect the integrity of our Services or the Internet community as a whole.
-
-Please see Section II of this Policy to see how we use, share and disclose information we collect through your interaction with our Sites or Services.  
-  
-**C. Information we receive from third parties:**  
-We may collect information about you from other sources, including publicly available sources, our Affiliates or our third party partners such as Advertisers (as defined in Section III below), service providers or others, in order to update or supplement information we have collected directly from you. An "**Affiliate**" is a company that controls, is controlled by or is under common control with Juno.  
-  
-**D. Information collected through technological methods:**  
-In addition, we may use, and may allow our Affiliates or third party partners to use, technological methods such as cookies or web beacons to collect information about you.  
-  
-Cookies are small pieces of data that may be stored on your computer, mobile device, or other similar device and are used to make the Sites easier to use and to improve effectiveness of advertising. For example, cookies keep track of your preferences, what Sites or other websites you visit, any personalization you may have done, any passwords you have elected to be remembered, and they may also measure whether you've seen or interacted with an advertisement on our Sites or other sites. Cookies (or similar technological methods) also allow us, our Affiliates and our third party partners to serve you with advertisements including targeted advertisements when you are on or off the Sites. Cookies may be set on your browser when you visit our Sites, or when you open emails from us.  
-  
-Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and may be used to track the online movement of users. Web beacons help us and our third party partners better manage content delivery by informing us when you are on our Sites and what content is effective. We also use web beacons in our emails to let us know which emails you have opened.  
-  
-Please see Sections II and III of this Policy to see how we use, share and disclose information collected through technological methods.  
 **II. Use, Sharing &. Disclosure of Your Information  
+**
 
-> A. How we use your information:
+> **A. How we use your information:**  
+> We use the information we collect in a variety of ways, including:
+> 
+> *   to operate and improve the Sites and Services;
+> *   to fulfill a transaction or request.
+> *   for internal purposes, such as confirming and tracking your order, subscription or registration, and for billing purposes;
+> *   to understand your use of the Sites and Services.
+> *   to better tailor and target advertisements and content to you while you are on and off our Sites;
+> *   to communicate with you.
+> *   to offer you products and services including offers from our Affiliates or Advertisers;
+> *   to conduct research. and
+> *   to develop research reporting for us, our Affiliates and third party market research partners.
+> 
+> **B. How we share your information:**  
+> We may share your information, including in some cases information that specifically identifies you such as your name, your email address, your physical address or telephone number ("**personally identifiable information**" or "**PII**"), with Affiliates and trusted third party partners in the following ways:
+> 
+> *   to help operate the Sites and Services.
+> *   to facilitate fulfillment of a transaction or request.
+> *   to serve you advertisements and to improve the effectiveness of targeted advertising (see Section III of this Policy for more information). or
+> *   to provide research reporting for us, our Affiliates and third party partners.
+> 
+> Examples of third party partners include vendors who process credit cards payments, services providers who compile and analyze data collected by us, service providers who supplement or match information we have collected with information from other parties, market research companies, Advertisers, call centers, and email support vendors. Upon entering into relationships with these third party partners, we implement reasonable contractual and technical protections to limit the use of your information, including your PII, to the scope of the service. When we share or sell aggregated and unaggregated reporting information about the use of and users of the Sites and Services (e.g., market research data), including search and URL information, to Affiliates and third party partners, we do not intentionally disclose PII.  
+>   
+> In addition, we may share information in the following circumstances:
+> 
+> *   without notice, to law enforcement or government agencies in response to subpoenas, court orders, or other legal process (including civil and criminal) or otherwise as required by law.
+> *   in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, and situations involving potential threats to the physical safety of any person, or in cases where we believe the Terms of Service or Acceptable Use Guidelines are being violated. or
+> *   in connection with the actual or potential sale of our business.
+> 
+> Please see Section I of this Policy to see the types of information we collect.
 
-**  
-We use the information we collect in a variety of ways, including:
-
-*   to operate and improve the Sites and Services;
-*   to fulfill a transaction or request.
-*   for internal purposes, such as confirming and tracking your order, subscription or registration, and for billing purposes;
-*   to understand your use of the Sites and Services.
-*   to better tailor and target advertisements and content to you while you are on and off our Sites;
-*   to communicate with you.
-*   to offer you products and services including offers from our Affiliates or Advertisers;
-*   to conduct research. and
-*   to develop research reporting for us, our Affiliates and third party market research partners.
-
-**B. How we share your information:**  
-We may share your information, including in some cases information that specifically identifies you such as your name, your email address, your physical address or telephone number ("**personally identifiable information**" or "**PII**"), with Affiliates and trusted third party partners in the following ways:
-
-*   to help operate the Sites and Services.
-*   to facilitate fulfillment of a transaction or request.
-*   to serve you advertisements and to improve the effectiveness of targeted advertising (see Section III of this Policy for more information). or
-*   to provide research reporting for us, our Affiliates and third party partners.
-
-Examples of third party partners include vendors who process credit cards payments, services providers who compile and analyze data collected by us, service providers who supplement or match information we have collected with information from other parties, market research companies, Advertisers, call centers, and email support vendors. Upon entering into relationships with these third party partners, we implement reasonable contractual and technical protections to limit the use of your information, including your PII, to the scope of the service. When we share or sell aggregated and unaggregated reporting information about the use of and users of the Sites and Services (e.g., market research data), including search and URL information, to Affiliates and third party partners, we do not intentionally disclose PII.  
-  
-In addition, we may share information in the following circumstances:
-
-*   without notice, to law enforcement or government agencies in response to subpoenas, court orders, or other legal process (including civil and criminal) or otherwise as required by law.
-*   in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, and situations involving potential threats to the physical safety of any person, or in cases where we believe the Terms of Service or Acceptable Use Guidelines are being violated. or
-*   in connection with the actual or potential sale of our business.
-
-Please see Section I of this Policy to see the types of information we collect. **III. Targeted Advertising, Email &. Opt-Outs**  
+**III. Targeted Advertising, Email &. Opt-Outs**  
 
 > **A. Targeted Advertising Opt-Outs:**  
 > We may display targeted advertisements to you while you are on and off our Sites based on information we obtain from you, about you, and/or from third parties.  
