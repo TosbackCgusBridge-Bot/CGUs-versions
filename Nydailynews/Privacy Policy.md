@@ -75,6 +75,11 @@ Users of the Daily News Services who are California residents and who have provi
 
 Questions.
 
-If you have any more questions, please email us at webmaster@nydailynews.com or write to: Webmaster New York Daily News Online Daily News, L.P. 4 New York Plaza New York, NY 10004
+If you have any more questions, please email us at webmaster@nydailynews.com or write to:  
+Webmaster  
+New York Daily News Online  
+Daily News, L.P.  
+4 New York Plaza  
+New York, NY 10004
 
 **Last Updated on November 2, 2016**
