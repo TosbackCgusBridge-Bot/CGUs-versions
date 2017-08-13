@@ -124,7 +124,7 @@ By Email
 
 CustomerCare@csc.eddiebauer.com
 
-Communications from Eddie BauerTo Unsubscribe from Eddie Bauer Email
+Communications from Eddie Bauer To Unsubscribe from Eddie Bauer Email
 
 If for any reason you would like to unsubscribe from our email program, please follow the instructions below:
 
