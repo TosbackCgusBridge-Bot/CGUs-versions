@@ -1,406 +1,377 @@
-*   DISH for Business
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-G83D&#038;noscript=true" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Skip to Accessibility Content
+
+*   **CURRENT CUSTOMERS: VISIT MyDISH HERE**
+
 *   DishLATINO
-
-*   Watch DISH Anywhere™
-*   Log in to MyDISH
-
-*   Get DISH
-*   Learn About DISH
-
-*   1-844-800-7487
-
-Shop Core Packages
-
-*   English
-*   Latino
-*   International
-*   By Channels
-
-Shop Add–on Channels
-
-*   Premium &. Movies
-*   Sports
-*   International
-*   Lifestyle
-
-*   News
-*   Latino
-*   Adult
-
-Shop Internet &. Phone
-
-*   Internet Bundles
-*   Complete Bundles
-
-Hopper® Whole-Home  
-HD DVR  
-
-DISH Anywhere™  
-
-*   Whole-Home Entertainment
-*   Installation &. Smart Home Services
-*   TV Outdoors
-
-Get DISH
-
-*   Shop Core Packages
-*   Shop Add–on Channels
-*   Shop Internet &. Phone
-
-Learn About DISH
-
-*   Hopper® Whole–Home HD DVR
-*   DISH Anywhere™
-*   Whole–Home Entertainment
-*   Installation &. Smart Home Services
-*   TV Outdoors
-
-Current Customers
-
-*   Login to MyDish
-
-Shop Core Packages
-
-*   English Packages
-*   Latino Packages
-*   International Packages
-*   Channels by Package
-
-Shop Add–on Channels
-
-*   Premium &. Movies
-*   Sports
-*   International
-*   Lifestyle
-*   News
-*   Latino
-*   Adult
-
-Shop Internet &. Phone
-
-*   Internet Bundles
-*   Complete Bundles
-
-Why pay more for DIRECTV? Call and ask to takeThe DISH Challenge!
-
-Switch to DISH and if we don't save you more than $250, we'llgive you $250.
-
-Call Now Order Now
-
-Must mention Challenge at the time of sale
-
-Important Terms Must mention “Challenge” at time of sale. If first year savings are determined to be less than $250, customer will receive a check in the amount of $250 after new service activation. Savings based on annualized comparison of customer’s last monthly DirecTV bill and first DISH bill for comparable services and equipment as determined by DISH. Requires online validation of customer’s last monthly DirecTV bill within 60 days of activation. Allow 2-4 weeks after validation for delivery of check.  
-  
-Requires qualifying credit, American programming, and 24-month commitment with AutoPay and Paperless Billing. Not available in USVI/PR. Offer expires 6/10/15. Additional Important Terms
-
-Get  
-Extras  
-Get DISH today. Get more. Save up to $540 in your first year with our special introductory pricing. Plus you'll get these extras.
-
-FREE Premium  
-Channels
-
-HBO, Cinemax, Showtime, Starz and Blockbuster @Home FREE for 3 months.
-
-Get Started
-
-Important Terms Offer subject to change based on premium channel availability. After 3 months, then-current prices apply unless you cancel. Promotional offers require 24-month commitment and credit qualification. Additional Important Terms
-
-Hopper® Whole-Home  
-HD DVR
-
-Get a FREE Hopper Whole Home DVR Upgrade when you order today.
-
-What's the Hopper?
-
-Important Terms Available with qualifying packages. Promotional offers require 24-month commitment and credit qualification. Monthly fees apply: Hopper, $12. Joey, $7. Super Joey, $10. Additional Important Terms
-
-Complimentary  
-Professional  
-Installation
-
-Get standard installation in up to 6 rooms, FREE. Ask about same-day service.
-
-See Package Pricing
-
-Important Terms Monthly fees apply based on number of rooms. Promotional offers require 24-month commitment and credit qualification. Additional Important Terms
-
-HD Service  
-FREE for Life
-
-Receive HD service at no additional charge, a $120 annual value.
-
-Compare Packages
-
-Important Terms Available with qualifying packages. Promotional offers require 24-month commitment and credit qualification. HD Free for Life requires continuous enrollment in AutoPay with Paperless Billing. Additional Important Terms
-
-  
-Packages  
-Which package is right for me? We'll help you decide. Our most popular are below.
-
-View All Packages
-
-55+  
-Channels
-
-$19.99
-
-/mo for 12 months
-
-regular rate $34.99/mo
-
-Get the basics at a low price.
-
-Smart Pack
-
-190+  
-Channels
-
-$29.99
-
-America's Top 120
-
-A great value for families.
-
-/mo for 12 months
-
-regular rate $59.99/mo
-
-240+  
-Channels
-
-$39.99
-
-America's Top 200
-
-The major sports channels you really want.
-
-/mo for 12 months
-
-regular rate $74.99/mo
-
-290+  
-Channels
-
-$39.99
-
-America's Top 250
-
-If you like movies and you like choices, this package is for you.
-
-/mo for 12 months
-
-regular rate $84.99/mo
-
-180+  
-Channels
-
-$19.99
-
-/mo for 12 months
-
-regular rate $39.99/mo
-
-Get the basics at a low price.
-
-DishLATINO® Clásico
-
-225+  
-Channels
-
-$29.99
-
-/mo for 12 months
-
-regular rate $59.99/mo
-
-Get the basics at a low price.
-
-DishLATINO® Dos
-
-190+  
-Channels
-
-$19.99
-
-/mo for 12 months
-
-regular rate $44.99/mo
-
-Get the basics at a low price.
-
-DisLATINO® Plus
-
-270+  
-Channels
-
-$39.99
-
-/mo for 12 months
-
-regular rate $69.99/mo
-
-Get the basics at a low price.
-
-DishLATINO® Max
-
-30+  
-Channels
-
-$10.00
-
-/month
-
-The right choice if you want international programming only. Add language-specific packages once you add this to your cart.
-
-International Basic
-
-18+  
-Channels
-
-$10.00
-
-/month
-
-The better choice if you plan to add Chinese language packages to your cart.
-
-Chinese Basic
-
-Promotional offers require 24-month commitment and credit qualification.
-
-  
-Features  
-DISH Features. You won't find anywhere else.
-
-Watch live TV  
-anywhere
-
-Only DISH Anywhere™ gives you the power to watch _all_ your subscribed entertainment — live, recorded or On-Demand — _wherever_.
-
-More
-
-TV on your laptop, tablet or smartphone.
-
-*   Watch all your live TV channels1
-*   Watch On Demand content
-*   Watch all your DVR recordings2
-*   Schedule and manage your DVR recordings1
-*   Search the program guide
-*   Transfer your recordings to watch offline2
-
-How Do I Do This?
-
-Important Terms 1 Requires Internet-connected, Sling-enabled HD DVR and compatible mobile device. 2 Requires Android OS 4.0 or higher to watch on an Android device and iOS 6.0 or higher to watch on an iPhone or iPad. Requires a broadband-connected Hopper with Sling. Select DVR recordings cannot be transferred. Additional Important Terms
-
-PrimeTime  
-on your time
-
-Watch episodes of your favorite shows, up to 8 days after they run. Set it up once, so you don’t have to think about recording them.
-
-More
-
-All prime. Any time.
-
-*   PrimeTime Anytime® gives you the ultimate viewing flexibility
-*   Enjoy your favorite primetime shows on your own schedule
-*   Record as many as 3 hours of primetime television on all 4 networks every night without taking up any more hard drive space
-*   Find primetime episodes as far back as 8 days ago
-*   You can always save shows to your Hopper whether you have watched them or not
-
-See How It Works
-
-Commercial-free  
-TV
-
-Why fast-forward through commercials in select recorded primetime shows when you can easily hop over them with less effort?
-
-More
-
-Less commercials. More entertainment.
-
-*   When you start select shows recorded with PrimeTime Anytime, you’ll have the option to instantly skip commercials
-*   Enjoy a sitcom in just 21 minutes
-*   Watch an hour-long program in only 43 minutes
-*   Experience an evening of primetime TV in a little over 2 hours
-*   Available at varying times, starting the day after airing
-*   Available with select programming from ABC, CBS, FOX and NBC
-
-See Other Hopper Features
-
-Twice as much  
-recording space
-
-The Hopper is the only DVR that gives you the power to store up to 80 days of programming while recording up to 8 shows simultaneously.
-
-More
-
-Save more of your favorites.
-
-*   There’s always something on when you record your favorite shows and movies
-*   When you add a SuperJoey, you can record up to 8 channels at once
-*   Record up to 4 local channels plus 4 channels of your choosing
-*   Family members can watch (and record) what they want at the same time
-*   Save even more programming with an external USB hard drive
-
-Learn About the Hopper
-
-A protection plan  
-for peace of mind.
-
-Easy equipment replacement, 24/7 phone support and free power surge repairs.
-
-More
-
-You have no problem, because we have a plan.
-
-*   Replacement Equipment
-*   Most problems are solved with a simple phone call. If the problem is isolated to the receiver, and it cannot be fixed on the call, we'll send a replacement receiver directly to you – just return the old receiver. The plan covers full replacement and shipping costs.
-*   Video Cabling &. Power Surge Repairs
-*   If a power surge damages your DISH receiver or inside video cabling, we will replace or repair it for free.
-*   In-Home Service
-*   If we're unable to solve your problem with a technical support call, we'll send someone out to help you. Our nationwide service network ensures you're covered no matter where you live. An authorized technician will come to you for only $10. Just give us a call, and we'll schedule it.
-
-Learn  
-More  
-Quality doesn't have to cost more. DISH delivers hassle-free HD satellite, Internet, and music to US customers. We give you the latest technology at a great price.
-
-Compare Packages
-
-About DISH Anywhere™
-
-About the Hopper®
-
-Talk to Us
-
-*   About Dish
-*   News
-*   Investor Relations
-*   Careers
-*   Media Sales
-
-*   My Dish
-*   DISH Anywhere
-*   DishLATINO
-*   DISH for Business
-
-*   Contact Us
+*   DISH International
+*   DISH For Business
+*   DISH High-Speed Internet
+*   Find a Retailer
+*   Watch DISH Anywhere
+
+*   EXPLORE  
+    Products &. Services
+    
+    The DISH Experience
+    
+    At DISH we work tirelessly to identify your needs in home entertainment and provide you the best solutions in our products and services.
+    
+    Experience DISH »
+    
+    *   Experience DISH
+    *   NEW! Alexa Integration
+        
+        DISH Hopper +  
+        Amazon Alexa
+        
+        Use your voice, not your hands, to control your DISH Hopper with Amazon Alexa.
+        
+    *   Hopper 3 Smart DVR
+        
+        Love TV? Experience the Hopper 3
+        
+        Discover a DVR above the rest, with the ability to watch and record up to 16 shows at once, the power to turn any TV into a smart TV, and much more.
+        
+    *   DISH Anywhere
+        
+        All Your TV from Home Anywhere You Go
+        
+        Get 100% of your live and recorded content and thousands of OnDemand titles. On any screen. Anywhere life takes you.
+        
+    *   HopperGO
+        
+        Watch, Share, Go
+        
+        Share all your recorded content on the run with this handy portable Wi-Fi connected storage device.
+        
+    *   Internet &. Phone Bundles
+        
+        Bundle and Save
+        
+        Bundle high-speed internet with your TV for great savings and single-bill convenience.
+        
+    *   TV Channel Packages
+        
+        *   Premium Channels
+            
+            The Premium Movies and Series You Want
+            
+            Watch critically acclaimed series, movies fresh from the theater, and specials you can't get anywhere else.
+            
+        *   Sports
+            
+            Adult Entertainment to Put You in the Right Mood
+            
+            Experience a wild selection of movies, shows and entertainment channels.
+            
+        *   Adult
+            
+            Adult Entertainment to Put You in the Right Mood
+            
+            Experience a wild selection of movies, shows and entertainment channels.
+            
+        
+        Learn More About DISH TV Channels
+        
+        View channels by package or learn more about the specific channels and TV networks that DISH has to offer.
+        
+    *   TV Outdoors
+        
+        Get the DISH Playmaker Today
+        
+        Tailgate in glorious HD with DISH, the leader in tailgating and RV entertainment solutions.
+        
+    *   Smart Home Services
+        
+        *   Smart Phone Repair
+            
+            Trusted Smart Phone Repair That Comes to You Anywhere
+            
+            Book same- or next-day appointments with skilled technicians that are licensed, insured, and just all-around nice people.
+            
+        
+        So Much More Than Installation
+        
+        DISH delivers it all, from custom smart home solutions and mobile phone repair, to the ability to track your technician in real time.
+        
+    *   Meet the Spokeslistener
+        
+        He’s not a spokesperson he’s a spokeslistener
+        
+        Some of our best ideas have come from you. Learn how we heard you and how we’re still listening for ways to continue to make the best home entertainment experience.
+        
+*   COMPARE  
+    DISH vs Competition
+    
+    See Why DISH is #1
+    
+    Upgrade your whole-home experience with amazing value, technology and service that's miles ahead of the competition.
+    
+    COMPARE DISH »
+    
+    *   Compare DISH to Competitors
+    *   DISH vs Competition
+        
+        You deserve a TV provider with technology that's easy to use and greatly improves your quality of life. Come enjoy TV on your terms with us. let's get the entertainment going.
+        
+    *   DISH vs DirecTV
+        
+        DISH vs DirecTV
+        
+        DISH gives you twice the DVR storage capacity, built-in Netflix app and DISH Anywhere - watch 100% of your live and recorded programs and tons of OnDemand content anywhere.
+        
+    *   DISH vs Comcast
+        
+        DISH vs Comcast
+        
+        DISH gives you 4x the DVR storage capacity, a remote control locator and the ability to watch and record 16 shows at once.
+        
+    *   DISH vs Charter
+        
+        DISH vs Charter
+        
+        DISH gives you 4x the DVR storage capacity, the ability to record 16 shows at once, and DISH Anywhere - watch 100% of your live and recorded programs and tons of OnDemand content anywhere.
+        
+    
+    *   Experience DISH
+    *   Compare within DISH
+    *   Packages Compare
+        
+        Get the Best Deal in TV
+        
+        Compare DISH packages and enjoy peace of mind with the same price every month for two years.
+        
+    *   Technology Compare
+        
+        Get the Best Technology in the Industry
+        
+        Compare the latest and greatest DISH technology.
+        
+    *   Channels Compare
+        
+        Get the Best Channels for You
+        
+        Compare all the channels that different DISH packages offer.
+        
+*   SHOP  
+    DISH PACKAGES
+    
+    America’s Top 120  
+    
+    $4999/mo
+    
+    Plus HBO included for ONE FULL YEAR at no extra cost\*
+    
+    \*HBO included for 12 months with all America's Top Packages. After 12 mos., then-current everyday price applies unless you call or go online to downgrade.
+    
+    Call Now  
+    1-844-794-7426
+    
+    *   Packages
+        
+        Packages
+        
+        Choose from TV packages to suit your needs, including the best of sports, drama, entertainment, and more.
+        
+    *   Channel Lineup
+        
+        Channel Lineup
+        
+        See every channel that each of our packages has to make sure you get the right package with your favorites!
+        
+    *   America's Top 120
+        
+        America's Top 120
+        
+        America’s Top 120 has a big variety of the channels you live and a few you might not have known you couldn’t live without. All your favorites are here including USA, CMT, Disney, E!, and ESPN.
+        
+    *   America's Top 120+
+        
+        America's Top 120+
+        
+        America’s Top 120+ has all of America’s Top 120 with additional sports including SEC Network, Big Ten Network, Pac-12 Network, Longhorn Network and your Regional Sports Networks.
+        
+    *   America's Top 200
+        
+        America's Top 200
+        
+        Whether it’s sports, news, culture, or nature, America’s Top 200 has it. The best of America’s Top 120+, and more. It has added sports networks and pop-culture channels will help you keep up with your favorite celebs.
+        
+    *   America's Top 250
+        
+        America's Top 250
+        
+        What’s in America’s Top 250? Everything in the souped-up America’s Top 200 package, plus news, adventure, sports, and kids’ programming—along with 17 more channels for movies. America’s Top 250 has it all.
+        
+    
+    *   Latino TV Packages
+        
+        The Best in Spanish and English Entertainment
+        
+        Choose from Latino packages featuring the best in Spanish and English sports, drama, movies, and more. Our 2-Year TV Price Guarantee offers start at $29.99/mo.
+        
+    *   Latino TV Add-Ons
+        
+        Now available as a Flex Pack Channel Pack add–on
+        
+        Live out your passion for soccer to the fullest, help the little ones have fun learning Spanish, and get access to the best novelas, all in Spanish.
+        
+    *   International TV Add-Ons
+        
+        TV That Brings You Closer to Home
+        
+        Select International Add-On Packages from Africa, Asia, Europe, Middle East, and South America.
+        
+*   Other DISH Websites
+    *   Latino
+    *   International
+    *   Business
+    *   High-Speed Internet
+    *   Smart Phone Repair
+    *   DISH Anywhere
+*   Current Customers
+    *   Log in to MyDISH
+    *   MyDISH
+    *   Dish Anywhere
 *   Find a Retailer
 
-*   Sitemap
-*   Service Agreements
-*   Terms and Conditions
+*   OFFERS
+*   Call DISH 1-844-794-7426
+*   CHAT
 
-Get our latest deals straight to your inbox. Sign Up
+SWITCH TO DISH AND GET A
 
+FREE ECHO DOT
+
+WITH ALEXA VOICE CONTROLS FOR THE HOPPER DVR
+
+LIMITED TIME!
+
+Mention Offer Code:
+
+FREEECHODOT
+
+Get America’s Top 120 for $49.99/mo for 2 years guaranteed! + HBO Included for 12 mo. Learn More
+
+Before you checkout, you need to select a Core package.
+
+Shop Core TV Packages
+
+*   English Packages
+*   DishLatino Packages
+*   International Packages
+
+Shop Add-On Channels
+
+*   Premium &. Movies
+*   Sports
+*   International
+*   Lifestyle
+*   News
+*   Latino
+*   Adult
+
+My DISH order
+
+You need to select at least one International Add-On with the "International Programming"
+
+You need to select a Core package
+
+Shop Core TV Packages
+
+*   English Packages
+*   DishLatino Packages
+*   International Packages
+
+View cart 404 This page is lost in the Outback.
+
+We apologize for the inconvenience.  
+We would like to fix this for you right now!  
+Go to the homepage or call us at  
+**855-797-4386**.
+
+24/7 Customer Support 99% Signal Quality Available Anywhere
+
+Get updates from DISH.
+
+  
+Sign Up EXPLORE
+
+*   Meet the Spokeslistener
+*   Alexa Integration
+*   NEW Hopper 3 Smart DVR
+*   DISH Anywhere
+*   HopperGO
+*   Internet &. Phone Bundles
+*   TV Channels and Packages
+*   Premium &. Movies
+*   HBO
+*   Showtime
+*   Cinemax
+*   STARZ
+*   Sports
+*   Adult
+*   TV Outdoors
+*   Smart Home Services
+*   Smart Phone Repair
+*   Find a Retailer
+
+COMPARE DISH
+
+*   Compare DISH
+*   Compare DirecTV
+*   Compare Comcast
+*   Compare Time Warner Cable
+*   Compare Verizon Fios
+*   Compare Cable Companies
+*   Compare DISH Packages
+
+BUILD
+
+*   Packages
+*   Channel Lineup
+*   America's Top 120
+*   America's Top 120+
+*   America's Top 200
+*   America's Top 250
+*   Latino TV Packages
+*   Latino TV Add-Ons
+*   International TV Add-Ons
+
+DISH RESOURCES
+
+*   Accessibility
+*   About DISH
+*   News
+*   Investor Relations
+*   Availability
+*   Media Sales
 *   Contact Us
-*   Get Email Offers
-*   Find A Retailer
-*   Login to MyDish
-
+*   The DISH Blog
+*   DISH Affiliate Program
+*   Door to Door Sales
 *   Service Agreements
-*   Terms and Conditions
-*   DISH for Business
+*   Terms &. Conditions
+*   Locations
+*   DISH Online Public File
 
-© 2015, DISH Network L.L.C. All rights reserved.
+DISH SITES
+
+*   MyDISH
+*   DishLATINO
+*   DISH for Business
+*   DISH Anywhere
+*   SlingStudio
+*   Careers
+*   Become a Retailer
+*   Sitemap
+
+© 2017, DISH Network L.L.C. All rights reserved.
 
 Privacy Policy
+
+Need Help?
+
+We'd be happy to help you find the best deal on your ideal TV package. Simply talk to one of our helpful agents now.
+
+  1-844-794-7426 Prefer to Chat? <iframe src="//20738052p.rfihub.com/ca.html?rb=26690&amp;ca=20738052&amp;\_o=26690&amp;\_t=20738052&amp;ra=210177847" style="display:none;padding:0;margin:0" width="0" height="0">. </iframe>.
