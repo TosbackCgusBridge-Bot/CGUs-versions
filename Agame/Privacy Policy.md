@@ -1,3 +1,5 @@
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NNTPC7" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+
 Pick a theme
 
 *   Red
@@ -223,6 +225,8 @@ Add to Chrome
     
     My last played games
     
+    *   Hey, you will find your last played games here.  
+    
     FAVE GAMES
     
     Are you an existing user? Then log in to see your favorited games here! Don't have an account yet? Be sure to sign up to use this feature.
@@ -359,3 +363,5 @@ Welcome to Agame.com, your zone to play free online games. Stocked each day with
 *   Cookies
 
 Copyright © 2017 SPIL GAMES All rights reserved.
+
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=456784054513696&ev=PageView&noscript=1"/>. <img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">.
