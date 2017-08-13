@@ -1,4 +1,4 @@
-Privacy Policy ePHOTOzine have created the following document to explain what information we collect when you visit the ePHOTOzine web site, why we collect such information, the ways information is gathered, how we use the information and the choices you can make about these practices.  
+Privacy PolicyePHOTOzine have created the following document to explain what information we collect when you visit the ePHOTOzine web site, why we collect such information, the ways information is gathered, how we use the information and the choices you can make about these practices.  
   
 We are registered with and follow guidelines placed by the Data Protection Act.  
   
@@ -15,7 +15,7 @@ When you visit ePHOTOzine, we automatically receive and record information on ou
 **Cookie Policy**  
 Cookies are tiny text files that are stored on your computer when you visit many websites. Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests.  
   
-Cookies can be "First Party", i.e. set by us, or "Third Party"  set by another company to perform the function, for example Google Analytics or our Advertising cookies.  
+Cookies can be "First Party", i.e. set by us, or "Third Party" – set by another company to perform the function, for example Google Analytics or our Advertising cookies.  
   
 Our primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. We also use cookies to find out things such as the number of visitors to the various parts of the website. We collect this information in a way which does not identify anyone. Cookies do not give us access to your computer or any information about you, other than the data you choose to share with us.  
   
