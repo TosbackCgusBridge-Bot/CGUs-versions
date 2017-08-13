@@ -67,3 +67,5 @@ LinkedIn Corporation _© 2017_
 *   Cookie Policy
 *   Copyright Policy
 *   Unsubscribe
+
+<img src="https://sb.scorecardresearch.com/b?c1=2&amp;c2=6402952&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cv=1.3&amp;cj=1" style="display:none" width="0" height="0" alt="" />. <img src="/csp/dtag?p=10" width="1" height="1" alt="" style="display:none"/>.
