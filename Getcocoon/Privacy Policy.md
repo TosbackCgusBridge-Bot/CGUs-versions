@@ -49,7 +49,7 @@ We welcome your feedback. Please contact us with your questions or concerns rega
 Virtual World Computing  
 5383 Hollister Avenue, Suite 150  
 Santa Barbara, CA 93111  
-Email
+Email <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/938792996/?value=0&amp;guid=ON&amp;script=0"/>. </div>. <img src="//bat.bing.com/action/0?ti=5065606&Ver=2" height="0" width="0" style="display:none. visibility: hidden;" />.
 
 *   *   Overview
     *   Anti Virus
@@ -72,4 +72,4 @@ Email
     *   YouTube
     *   RSS Feed
 
-© 2017 Virtual World Computing, LLC
+© 2017 Virtual World Computing, LLC loading
