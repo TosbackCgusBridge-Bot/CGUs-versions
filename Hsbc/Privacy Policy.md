@@ -6,19 +6,19 @@ We use cookies to give you the best experience on our website. By continuing to 
 
 Close Press tab key to access skip links section. Press Alt+0 to access it anytime. Search Menu
 
-*   About HSBC
+*   About HSBC Skip to Our approach navigation
     
     *   Our purpose
         
     *   Our strategy
         *   The value of our network
-        *   Actions to capture value
+        *   Actions to capture value last item in this group
     *   Leadership
         
     *   Corporate governance
         *   Board committees
         *   Board responsibilities
-        *   Corporate governance codes
+        *   Corporate governance codes last item in this group
     *   Contact us
         
     
@@ -28,28 +28,28 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Global Private Banking
         *   Retail Banking and Wealth Management
         *   HSBC on social media
-        *   Country contacts
+        *   Country contacts last item in this group
     *   Company history
         *   HSBC's history
         *   HSBC’s archives
         *   Online gallery
-        *   Frequently asked questions
+        *   Frequently asked questions last item in this group
     
     *   Our strategy Our strategy enables us to capture value from our international network.
-*   Our approach
+*   Our approach Skip to Investor relations navigation
     
     *   Our values
-        *   Our Charter
+        *   Our Charter last item in this group
     *   Diversity and inclusion
         *   Employee networks
-        *   Valuing diversity
+        *   Valuing diversity last item in this group
     *   Sustainability
         *   Finance
         *   Operations
         *   Communities
-        *   Case studies
+        *   Case studies last item in this group
     *   Remuneration
-        *   Employee share plans
+        *   Employee share plans last item in this group
     
     *   Measuring our impact
         
@@ -60,24 +60,24 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Operational risk
         *   Reputational risk
         *   Health and safety
-        *   Working with suppliers
+        *   Working with suppliers last item in this group
     
     *   Sustainability Sustainability underpins our strategy and enables us to fulfil our purpose.
-*   Investor relations
+*   Investor relations Skip to News and insight navigation
     
     *   Group results and reporting
         *   Annual Report
-        *   Group reporting archive
+        *   Group reporting archive last item in this group
     *   Subsidiary company reporting
         
     *   Stock exchange announcements
-        *   Inside information
+        *   Inside information last item in this group
     *   Share and dividend information
         *   Dividend calculators
         *   Dividend history
         *   Dividend timetable
         *   Scrip dividend
-        *   Treasury shares
+        *   Treasury shares last item in this group
     *   Events and presentations
         
     
@@ -86,7 +86,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Frequently asked questions - investor relations
         *   Investor contacts
         *   Equity analyst coverage
-        *   Contact our registrar
+        *   Contact our registrar last item in this group
     *   Fixed income investors
         *   Group securities
         *   Subsidiary company securities
@@ -94,16 +94,16 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Green bonds
         *   Issuance programmes
         *   Regulatory capital securities
-        *   Credit ratings
+        *   Credit ratings last item in this group
     
     *   Interim Results 2017 HSBC Holdings plc announced its Interim Results 2017 on 31 July.
-*   News and insight
+*   News and insight Skip to Careers navigation
     
     *   Media resources
         *   Media contacts
         *   Media releases
         *   Speeches
-        *   Image gallery
+        *   Image gallery last item in this group
     *   Insight archive
         
     *   Awards
@@ -115,10 +115,10 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Golf
         *   Rugby
         *   Culture
-        *   Other sponsorships
+        *   Other sponsorships last item in this group
     
     *   HSBC wins 'World's Best Bank' We have received one of the industry's most significant accolades.
-*   Careers
+*   Careers Skip navigation
     
     *   Key hiring areas
         
@@ -127,14 +127,14 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Why HSBC?
         *   Learning and development
         *   Culture and community
-        *   Benefits
+        *   Benefits last item in this group
     *   Explore our business
         *   Working in Commercial Banking
         *   Working in Global Banking and Markets
         *   Working in Global Private Banking
         *   Working in Retail Banking and Wealth Management
         *   Working in HSBC Operations, Services and Technology
-        *   Working in Global Functions
+        *   Working in Global Functions last item in this group
     
     *   Meet our people
         
@@ -147,7 +147,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Programmes in Commercial Banking
         *   Programmes in Global Banking and Markets
         *   Programmes in Global Private Banking
-        *   Programmes in Retail Banking and Wealth Management
+        *   Programmes in Retail Banking and Wealth Management last item in this group
     *   Frequently asked questions
         
     
@@ -428,3 +428,5 @@ Follow us
 *   © Copyright HSBC Group 2017
 
 No endorsement or approval of any third parties or their advice, opinions, information, products or services is expressed or implied by any information on this Site or by any hyperlinks to or from any third party websites or pages. Your use of this website is subject to the terms and conditions governing it. Please read these terms and conditions before using the website.
+
+close dialogclose dialog close dialogClose this popup
