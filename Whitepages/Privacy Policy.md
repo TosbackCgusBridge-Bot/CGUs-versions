@@ -1,4 +1,4 @@
-cyzqrtcz
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-MBQDLW" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
 *   Person
 *   Reverse Phone Phone
@@ -24,11 +24,11 @@ Business Name Location Search Cancel
 *   e.g. TGI Fridays
 *   City, State or ZIP
 
-LOG IN
+SIGN IN
 
 Privacy Policy Give Feedback
 
-**Last updated on September 26, 2016.**
+**Last updated on April 6, 2017.**
 
 This privacy policy is designed to provide you with information regarding data collection and use in connection with our products and services. This policy explains how Whitepages uses the data collected by its Web sites, products, and services, but does not apply to databases or third parties that we do not control.
 
@@ -44,7 +44,7 @@ We collect information such as:
 
 (b) Account credentials. We collect passwords and similar security information used for authentication and account access.
 
-(c) Usage data. We collect data about how you use our products and services. This includes data such as the search terms you enter and the items you purchase. We also collect data about your device such as IP address, device identifiers, and data about the network, operating system, or software you use to connect to our products and services.
+(c) Usage data. We collect data about how you use our products and services. This includes, but is not limited to, data such as the search terms you enter, the pages you visit, and the items you purchase. We may also collect data about your device such as IP address, device identifiers, and data about the network, operating system, or software you use to connect to our products and services.
 
 (d) Location data. When you enable location-based features of our products, we may collect location data, such as GPS coordinates. We may also collect location data derived from your IP address.
 
@@ -78,17 +78,17 @@ You should take steps to protect against unauthorized access to your password, p
 
 How do I access and control my personal information?
 
-You may use your account to access, correct, or change any personal information you have provided to us or that is associated with your account. You may also email our customer support team support@whitepages.com. We will respond to your request within 30 days.
+You may use your account to access, correct, or change any personal information that you have provided to us or that is otherwise associated with your account. You may also email our customer support team support@whitepages.com. We will respond to your request within 30 days. Please note that your ability to correct or change your personal information does not extend to information that we have received from third parties.
 
 If you would like to stop receiving marketing materials messages from Whitepages, please provide us with the email address you would like to unsubscribe by mailing support@whitepages.com. Please note that you may still receive account and billing notices from us, if applicable.
 
-B. INFORMATION COLLECTED BY THIRD PARTIES 1. What information is collected by third parties?
+B. INFORMATION COLLECTED BY THIRD PARTIES 1. What information is collected by third parties when I use your products?
 
 Third parties may collect information during your visits to our Web sites and use of our mobile products and services. Such information includes searches you perform (e.g., category of business, location) and general information about you (e.g., browser type, mobile device type, unique user ID, mobile carrier, IP address, date and time of your visits, locality, pages viewed). Certain products and services may collect specific information such as your name, phone number, IP address, etc., but unless you provide specific details about yourself, information collected by such third parties will generally be limited to non-personally-identifiable information.
 
 2\. How is information collected by third parties?
 
-Third parties may collect information by using cookies, web beacons, performance-measuring phone numbers, or GPS information. A cookie is a small file that contains a unique ID tag and stores information (e.g., pages visited, information voluntarily provided). A web beacon is a small graphic file used to identify if a page has been viewed. A performance measuring phone number involves collection of call-related information such as originating phone number and call duration. GPS information may include city, state and other information when you use our products or services on a GPS-enabled mobile device.
+Third parties may collect information by using cookies, web beacons, or GPS information. A cookie is a small file that contains a unique ID tag and stores information (e.g., pages visited, information voluntarily provided). A web beacon is a small graphic file used to identify if a page has been viewed. GPS information may include city, state and other information when you use our products or services on a GPS-enabled mobile device.
 
 3\. Why do these third parties collect information?
 
@@ -100,7 +100,7 @@ Collection and use of data is subject to the privacy policies of the third party
 
 5\. How do I stop the collection and use of my information by third parties?
 
-To stop collection of information in connection with the use of our products and services, you will need to stop using them. To opt-out of Whitepages mobile app marketing program tracking, click here. To stop collection of browsing information via supporting web browsers, click here. To stop information collection for purposes of relevant online advertising, click here. At this time, there is no industry solution to opt-out of receiving relevant mobile advertising, but to opt-out of tracking from Whitepages’s own mobile app marketing programs, go to our third party provider’s Web site by clicking here.
+To stop collection of information in connection with the use of our products and services, you will need to stop using them. To stop collection of browsing information via supporting web browsers, click here. To stop information collection for purposes of relevant online advertising, click here.
 
 6\. What about interest-based advertising?
 
@@ -200,7 +200,6 @@ If you have any questions about this policy, please write to Whitepages Privacy 
     *   Seattle
     *   Tampa
     *   Washington, DC
-*   Whitepages Mexico
 *   411.com
 
 *   ZIP Codes
@@ -242,3 +241,5 @@ Outdated Browser
 Update your browser for the best Whitepages experience. View Browser Options
 
 ×
+
+The quick brown fox jumps over the lazy dog. <img src="//bat.bing.com/action/0?ti=5202400&amp;Ver=2" height="0" width="0" style="display:none. visibility: hidden;">.
