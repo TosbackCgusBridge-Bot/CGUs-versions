@@ -1,4 +1,8 @@
-Menu Mozilla
+Psst… it’s time for a tune up
+
+Stay safe and fast with a quick update.
+
+Update FirefoxClose Menu Mozilla
 
 *   Firefox
 *   Pocket
@@ -99,6 +103,7 @@ Firefox Privacy Close
     *   Give
     *   Volunteer
     *   Events
+
 Websites, Communications &. Cookies Privacy Notice
 
 April 11, 2017
@@ -109,7 +114,7 @@ This privacy notice applies to Mozilla operated websites and mobile apps, which 
 
 Things you should know
 
-We may receive personal information from you based on your interaction with us on social media platforms. if you submit a job, intern or fellow application. if you volunteer as a Mozilla community member. if you submit user feedback or a request to us. if you sign-up for an account. or if you engage with a product or policy campaign.
+We may receive personal information from you based on your interaction with us on social media platforms. if you submit a job, intern or fellow application. if you volunteer as a Mozilla community member. if you submit user feedback or a request to us. if you sign-up for an account. or if you engage with a product or policy campaign. Learn More
 
 *   **Social Media**: If you engage with our social media accounts, such as Twitter and Facebook, we may receive personal information about you. If you use these networks, their privacy policies apply, and you are encouraged to read them.
     
@@ -124,7 +129,7 @@ We may receive personal information from you based on your interaction with us o
 *   **Product &. Policy Campaigns**: Some of our webpages host product or policy campaigns. For example, you can request a link by email or SMS to install Firefox on your mobile device or petition your legislators on internet issues. We use third parties to manage these campaigns and handle any data that you choose to submit.  
     
 
-We may use cookies, clear GIFs, third party web analytics, device information, and IP addresses for functionality and to better understand user interaction with our products, services, and communications.
+We may use cookies, clear GIFs, third party web analytics, device information, and IP addresses for functionality and to better understand user interaction with our products, services, and communications. Learn More
 
 *   **Functionality**: We may use cookies, device information and IP addresses to enhance functionality of certain products, services, and communications. For example:
     
@@ -140,7 +145,7 @@ We may use cookies, clear GIFs, third party web analytics, device information, a
     *   HTTP Referral Data, which may be included with Firefox’s installer, to understand the website domain or advertising campaign that referred you to our download page. This information helps us understand the effectiveness of our advertising campaigns and improve them.
     *   Other metrics tools from time to time, on an experimental basis. For example, we may do this to help evaluate a new metrics tool, or test existing metrics collection.
 
-You can control individual cookie preferences, indicate your cookie preferences to others, select text only emails, and opt-out of web analytics and optimization tools.
+You can control individual cookie preferences, indicate your cookie preferences to others, select text only emails, and opt-out of web analytics and optimization tools. Learn More
 
 *   **Cookie History**: You can accept or decline individual cookies in your Firefox preferences in the Tools/Options/Privacy history section. Note that certain features of our products and services may not function properly without the aid of cookies.
     
@@ -157,7 +162,7 @@ You can control individual cookie preferences, indicate your cookie preferences 
 *   **Social Media**: The social sharing buttons on Mozilla websites are designed not to share data with the social media provider until you specifically click the button.
     
 
-Some Mozilla websites allow you to make purchases (such as apps or gear) or make a donation. These transactions are processed by third parties, and not Mozilla.
+Some Mozilla websites allow you to make purchases (such as apps or gear) or make a donation. These transactions are processed by third parties, and not Mozilla. Learn More
 
 *   **Payment Processing**: Mozilla does not receive any financial information, which is transmitted from you to our third party vendors for processing. The name of the third party will be displayed at the time of the transaction.
 
@@ -189,4 +194,4 @@ Firefox
 
 Portions of this content are ©1998–2017 by individual mozilla.org contributors. Content available under a Creative Commons license.
 
-Language عربيবাংলা (বাংলাদেশ)বাংলা (ভারত)ČeštinaDeutschΕλληνικάEnglishEspañol (de España)Françaisहिन्दीHrvatskimagyarBahasa IndonesiaItaliano日本語МакедонскиPolskiPortuguês (do Brasil)RomânăРусскийСрпскиKiswahiliதமிழ் Go
+Language عربيবাংলা (বাংলাদেশ)বাংলা (ভারত)ČeštinaDeutschΕλληνικάEnglishEspañol (de España)Françaisहिन्दीHrvatskimagyarBahasa IndonesiaItaliano日本語МакедонскиPolskiPortuguês (do Brasil)RomânăРусскийСрпскиKiswahiliதமிழ் <button type="submit">Go</button>.
