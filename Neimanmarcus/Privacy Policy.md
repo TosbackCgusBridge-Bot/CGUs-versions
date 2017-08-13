@@ -8,7 +8,7 @@ Privacy Policy &. Terms of Use
     
     Personal information provided on the website and online credit card transactions are transmitted through a secure server using Secure Socket Layering (SSL) encryption technology. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL. also, your browser may give you a pop-up message that you're about to enter a secure area.
     
-    You may purchase online merchandise by calling toll-free 1.888.888.475724 hours a day, seven days a week. One of our customer service associates will gladly take your order.
+    You may purchase online merchandise by calling toll-free 1.888.888.4757—24 hours a day, seven days a week. One of our customer service associates will gladly take your order.
     
     We are committed to handling your personal information with high standards of information security. We take appropriate physical, electronic, and administrative steps to maintain the security and accuracy of personally identifiable information we collect, including limiting the number of people who have physical access to our database servers, as well as employing electronic security systems and password protections that guard against unauthorized access. Our website uses encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL encrypts ordering information such as your name, address, and credit card number. Our Customer Care center and stores also operate over a private, secure network. Please note that email is not encrypted and is not considered to be a secure means of transmitting credit card information.
     
@@ -26,7 +26,7 @@ Privacy Policy &. Terms of Use
     
     Generally, you may browse the website without providing any personally identifiable information. However, we may ask you to provide personally identifiable information at various times and places on this website. In some cases, if you choose not to provide us with the requested information, you may not be able to access all of this website or participate in all of its features.
     
-    We receive and store any personally identifiable information you enter on the website, whenever you shop with Neiman Marcusonline, through our catalogs, or in our stores, or information you give us in any other way, such as by subscribing to our catalogs, email, or mobile messaging. For example, we may collect the following personally identifiable information: your name, address, telephone number, mobile telephone number, driver's license number, birth date, and email address. If you use a credit or debit card or pay by check, we will also include your account number.
+    We receive and store any personally identifiable information you enter on the website, whenever you shop with Neiman Marcus—online, through our catalogs, or in our stores, or information you give us in any other way, such as by subscribing to our catalogs, email, or mobile messaging. For example, we may collect the following personally identifiable information: your name, address, telephone number, mobile telephone number, driver's license number, birth date, and email address. If you use a credit or debit card or pay by check, we will also include your account number.
     
     When you register with us as an online customer, we may ask for additional information, such as your favorite designers.
     
@@ -149,6 +149,9 @@ Privacy Policy &. Terms of Use
     *   Customer Care
     *   P.O. Box 650589
     *   Dallas, TX 75265-0589
+    
+    Close
+    
 *   Website Accessibility Policy
     
     The Neiman Marcus Group LLC ("NMG") is committed to diversity, inclusion and accessibility in all we do, including our websites. This Accessibility Policy serves to document the scope, standards and best practices that we use to ensure our websites benefit from the principles defined in the Web Content Accessibility Guidelines (WCAG 2.0) of the World Wide Web Consortium. This Accessibility Policy applies to all websites owned and operated by NMG in the U.S.
@@ -161,7 +164,11 @@ Privacy Policy &. Terms of Use
     *   Major activities in our application and content development life-cycle include specific steps to seek conformance with the standards referenced by this Accessibility Policy.
     *   Automated tools and manual inspection techniques are used to monitor, analyze and address accessibility issues found in the web applications and content referenced by this Accessibility Policy. The results of these tools and techniques are updated and reviewed with independent accessibility consultants on a regular basis.
     
+      
+    
     This Accessibility Policy is subject to annual review to ensure the scope, standards and best practices support NMG's commitment to diversity, inclusion and accessibility.
+    
+    Close
     
 *   Warranty Information
     
@@ -170,6 +177,9 @@ Privacy Policy &. Terms of Use
     *   Neiman Marcus
     *   P.O. Box 650589
     *   Dallas, TX 75265-0589
+    
+    Close
+    
 *   Conditions of Use
     
     When you use this website, you are automatically agreeing that both your access to the site and your use of it are:
@@ -184,7 +194,7 @@ Privacy Policy &. Terms of Use
     
     The following elements of this website are the property of Neiman Marcus or our suppliers and are protected by United States and international copyright laws:
     
-    *   All text, graphics, logos, button icons, images, audio clips, digital downloads, and data compilationsboth individually and as they are compiled on the site.
+    *   All text, graphics, logos, button icons, images, audio clips, digital downloads, and data compilations—both individually and as they are compiled on the site.
     *   All software.
     
     Trademarks
@@ -205,7 +215,7 @@ Privacy Policy &. Terms of Use
     
     Errors and inaccuracies
     
-    Our goal is to provide complete, accurate, and up-to-date information on our website. Unfortunately, it is not possible to ensure that any website is completely free of human or technological errors. This site may contain typographical mistakes, inaccuracies, or omissions, some of which may relate to pricing and availability, and some information may not be complete or current. We reserve the right to correct any errors, inaccuracies, or omissionsincluding after an order has been submittedand to change or update information at any time without prior notice. We sincerely apologize for any inconvenience this may cause.
+    Our goal is to provide complete, accurate, and up-to-date information on our website. Unfortunately, it is not possible to ensure that any website is completely free of human or technological errors. This site may contain typographical mistakes, inaccuracies, or omissions, some of which may relate to pricing and availability, and some information may not be complete or current. We reserve the right to correct any errors, inaccuracies, or omissions—including after an order has been submitted—and to change or update information at any time without prior notice. We sincerely apologize for any inconvenience this may cause.
     
     Disclaimer of liability
     
@@ -226,6 +236,8 @@ Privacy Policy &. Terms of Use
     Protecting your information
     
     As part of our ongoing commitment to ensure that your shopping experience with NeimanMarcus.com is protected, NeimanMarcus.com will prosecute all unauthorized or fraudulent transactions to the fullest extent allowed by law.
+    
+    Close
     
 *   Security Against Fraud
     
@@ -248,6 +260,7 @@ Privacy Policy &. Terms of Use
     *   Credit card numbers/bank account numbers
     *   PIN numbers/passwords
     
+      
     Pop-Up Advertisements Alert
     
     Some advertisements "pop up" in a separate browser window advising that you have won a contest or request that you participate in a survey to collect a prize. They may then ask that you provide personal information in order to receive your gift. By clicking on the link it is possible that you are also downloading viruses designed to capture or destroy information on your computer.
@@ -257,12 +270,16 @@ Privacy Policy &. Terms of Use
     A similar but low-tech scam circulates occasionally, in the form of a check, purportedly from The Neiman Marcus Group or one of our divisions, and instructions to deposit it right away, usually in order to receive the balance of a larger sum you have "won" or that has otherwise come to you unexpectedly. You will be instructed to immediately send a payment, in the form of a second personal check, wire transfer, or similar, to some third party to cover taxes, processing fees, administrative costs, or some similarly vague expense. The check you receive in the mail likely would look quite authentic and probably would have our Neiman Marcus Group trademark on it. Do not deposit the check or follow the instructions you receive with it. The check you deposit will bounce. the check you write or funds you wire will clear, before you know about the bounce, and certainly before you can stop payment on your own check.
     
     Important Risk-Reducing Tips
+    
     *   Never respond to emails that cannot be verified.
     *   Never provide personal information via email.
     *   Contact the business by using legitimate phone numbers to verify the request.
     *   Enter websites using your browser and not by clicking on provided links.
     *   Be cautious of any solicitation requesting that you deposit a check or pay a fee to collect a prize, get a job, or cover vaguely described "costs".
     *   Consider filing a report with the Federal Trade Commission and/or state attorney general's consumer protection office, or the FBI. Online complaints may be filed with the FTC at www.ftccomplaintassistant.gov, and white collar crimes may be reported to the FBI at www.ic3.gov/complaint/default.aslix.
+    
+    Close
+    
 *   Mobile Terms of Use NEIMAN MARCUS MOBILE APPLICATION TERMS OF USE
     
     **THE FOLLOWING TERMS OF USE ("TERMS OF USE") APPLY TO YOUR USE OF THE NEIMAN MARCUS MOBILE APP, WHICH IS CURRENTLY AVAILABLE IN THE APPLE® APP STORE. TO THE EXTENT YOU USE THE MOBILE APP TO ACCESS THE NEIMAN MARCUS WEBSITE, OR YOUR USE OF THE NEIMAN MARCUS MOBILE APP OTHERWISE INCLUDES THE USE OF THE NEIMAN MARCUS WEBSITE, THE POLICIES, TERMS AND CONDITIONS GOVERNING YOUR USE OF THE WEBSITE (COLLECTIVELY, THE "WEBSITE TERMS"), WHICH TERMS ARE AVAILABLE AT WWW.NEIMANMARCUS.COM, APPLY TO SUCH USE. IN THE EVENT OF A CONFLICT BETWEEN THE WEBSITE TERMS AND THESE TERMS OF USE, THESE TERMS OF USE SHALL CONTROL. You must download the Neiman Marcus mobile application known as the "NM App" onto your compatible mobile device (currently iOs devices) in order to use it. The NM App includes different services and your use of each service is subject to the service-specific terms described below, as well as the general terms applicable to your use of the NM App. The NM App offers the following services, as well as general NM App features:**
@@ -457,4 +474,7 @@ Privacy Policy &. Terms of Use
     All terms and conditions in these Terms of Use that by their nature are continuing will survive the termination of these Terms of Use.  
     For questions or concerns about your use of the NM App or Services, you may contact us at 888-888-4757 or by email at neimanmarcus@customercare.neimanmarcus.com.
     
-    Mobile Terms of Use Last Update 7-14-16.
+    Mobile Terms of Use Last Update 7-14-16.  
+      
+    
+    Close
