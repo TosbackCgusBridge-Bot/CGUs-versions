@@ -1,4 +1,4 @@
-Procter &. Gamble Skip to main content
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PW4NS3V" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Procter &. Gamble Skip to main content
 
 *   Investor / Shareholder Relations
 *   Careers
@@ -85,3 +85,5 @@ How to Contact Us
 *   AdChoices
 
 © 2017 Procter &. Gamble. All claims valid only in the U.S.
+
+<iframe src="//s.thebrighttag.com/iframe?c=AK7okjI" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>.
