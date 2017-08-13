@@ -1,19 +1,53 @@
-*   HOU 17 CAR 27 Final
-*   MIN 17 BUF 10 Final
-*   ATL 20 MIA 23 Final
-*   WAS 3 BAL 23 Final
-*   JAX 31 NE 24 Final
-*   DEN 24 CHI 17 Final
-*   NO 14 CLE 20 Final
-*   PHI 9 GB 24 Final
-*   PIT 20 NYG 12 Final
-*   TB 12 CIN 23 Final
-*   SF 27 KC 17 Final
-*   TEN? 3 NYJ 7 3rd ? 07:56
-*   DAL 0 LA? 7 1st ? 05:19
-*   OAK 0-0 ARI 0-0 Sat 10:00 PM ET
-*   DET 0-0 IND 0-0 Sun 1:30 PM ET
-*   SEA 0-0 LAC 0-0 Sun 8:00 PM ET
+*   HOU17CAR27Final
+*   MIN17BUF10Final
+*   ATL20MIA23Final
+*   WAS3BAL23Final
+*   JAX31NE24Final
+*   DEN24CHI17Final
+*   NO14CLE20Final
+*   PHI9GB24Final
+*   PIT20NYG12Final
+*   TB12CIN23Final
+*   SF27KC17Final
+*   TEN3NYJ7Final
+*   DAL10LA13Final
+*   OAK10ARI20Final
+*   DET24IND10Final
+*   SEA0-0LAC0-0Sun 8:00 PM ET
+
+*   News
+*   Scores
+*   Schedule
+*   Standings
+*   Video
+*   Fantasy
+*   Tickets
+*   Shop
+*   Teams
+*   Game Pass
+*   Stats
+*   Training Camp
+*   Ways to Watch
+*   Hall of Fame
+*   NFL Network
+*   Photos
+
+*   HOU17CAR27Final
+*   MIN17BUF10Final
+*   ATL20MIA23Final
+*   WAS3BAL23Final
+*   JAX31NE24Final
+*   DEN24CHI17Final
+*   NO14CLE20Final
+*   PHI9GB24Final
+*   PIT20NYG12Final
+*   TB12CIN23Final
+*   SF27KC17Final
+*   TEN3NYJ7Final
+*   DAL10LA13Final
+*   OAK10ARI20Final
+*   DET24IND10Final
+*   SEA0-0LAC0-0Sun 8:00 PM ET
 
 *   News
 *   Scores
