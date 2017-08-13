@@ -10,13 +10,13 @@
 *   Sale
 
 *   MY ACCOUNT
-*   MY FAVORITES FAVORITED! Login to save this item to your Buckle account.
+*   0MY FAVORITESFAVORITED! Login to save this item to your Buckle account.
     *   Login
     *   |
     *   Register
 *   MY BAG
 
-*   MY FAVORITES
+*   0MY FAVORITES
 *   MY BAG
 
 *   Women
@@ -282,7 +282,7 @@
         Give a Buckle Gift card It’s The Season To Stock Up. Score Big With These Deals!  
         SHOP BY PROMOTION.
 
-SearchSubmit SearchSubmit × Close Privacy &. Security
+SearchSubmitSearchSubmit × ClosePrivacy &. Security
 
 **Privacy &. Security Policy**  
 The Buckle, Inc. ("Buckle") cares about the privacy of our Guests. Our goal is to provide the best shopping experience possible for our Guests, and we strive to achieve that goal through our Internet shopping experience. Buckle.com collects client information to enhance your shopping experience.
@@ -436,7 +436,7 @@ Gift Cards/Services
 *   Gift Services
 *   Gift Card Donation Requests
 
-Contact Us Guest Services:
+Contact UsGuest Services:
 
 Phone: 800.607.9788  
 Mon-Fri 8am - 10pm CT  
@@ -538,10 +538,12 @@ RESERVE IN STORE
 3.  Data Security Incident
 4.  Transparency In Supply Chains
 
-× ×
+××
 
 Did you mean to add items to your wish list?
 
 Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
+
+<div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1071819122/?value=0&guid=ON&script=0"/></div>
