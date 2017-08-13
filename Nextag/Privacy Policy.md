@@ -226,4 +226,4 @@ Return to Top
 *   Find us on Facebook
 *   Follow us on Twitter
 
-Get deals, exclusive offers and more! Learn More Nextag is committed to protecting your privacy. Read our privacy policy. NexTag.Scroll To Top|About Us|Terms of Use|Privacy Policy (New)|© 1999-2017 ,Nextag, Inc.
+Get deals, exclusive offers and more!Learn More Nextag is committed to protecting your privacy.Read our privacy policy.NexTag.Scroll To Top|About Us|Terms of Use|Privacy Policy (New)|© 1999-2017 ,Nextag, Inc.
