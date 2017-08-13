@@ -1,4 +1,4 @@
-Text Only
+  Text Only
 
 *   Sign In to SPG.com
 *   Help 
@@ -396,9 +396,3 @@ AdChoices
 *   Website Terms of Use |
 *   Updated Privacy Statement
 *   | Text Only
-
-Close X Get a Better View
-
-Upgrade your browser from Internet Explorer 6 or Firefox 3.0, 3.5 or 4.0 to the latest version for the best possible StarwoodHotels.com experience.
-
-Upgrade FF Now Continue Without Updating (Not Recommended)
