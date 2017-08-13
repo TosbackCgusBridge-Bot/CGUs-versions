@@ -113,7 +113,8 @@ Web Beacons: We, as well as our affiliate program partners, service providers, a
 
 An Embedded Script: is programming code that is designed to collect information about your interactions with the Services, such as the links you click on. The code is temporarily downloaded onto your computer or other device from our server or a third party service provider and is deactivated or deleted when you disconnect from the Services.
 
-Flash &. HTML5: We use Local Storage Objects (LSOs) such as HTML5 to store content, information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 &. Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager07.html
+Flash &. HTML5: We use Local Storage Objects (LSOs) such as HTML5 to store content, information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 &. Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here:  
+http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager07.html
 
 In addition, we may use a variety of other technologies that collect similar information for security and fraud detection purposes.
 
