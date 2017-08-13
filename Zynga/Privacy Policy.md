@@ -57,7 +57,7 @@ Search form Search Privacy
     *   Additional Resources
 *   PrivacyVille
 
-Privacy Policy English简体中文FrançaisDeutschItaliano日本語한국어PortuguêsEspañolTürkçeالعربية繁體中文DanskNederlandsBahasa IndonesiaNorskРусскийSvenskaภาษาไทย
+Privacy Policy English简体中文FrançaisDeutschItaliano日本語한국어PortuguêsEspañolTürkçeالعربية繁體中文DanskNederlandsBahasa IndonesiaNorskРусскийSvenskaภาษาไทย <div>. <input type="submit" id="edit-submit--2" name="op" value="Go" class="form-submit" />. </div>.
 
 This Privacy Policy will be effective from September 29, 2016. To review a copy the Privacy Policy effective prior to September 29, 2016, click here.
 
@@ -310,10 +310,10 @@ To manage the information Zynga receives about you from a third-party applicatio
 Once Zynga receives your information from a third-party application or your mobile device, that information is stored and used by Zynga in accordance with this Privacy Policy. You may access and update that information as described below.
 
 **Accessing and Updating Your Information Held by Zynga**  
-If you want to review, delete, or change the information Zynga has about you or have additional questions, e-mail us at privacy@zynga.com, or for Black Diamond Slots support@risingtidegames.com. For requests to review, delete or change the information obtained in connection with NaturalMotion games, email us at contact@naturalmotion.com. We will respond to your request within thirty days.
+If you want to review, delete, or change the information Zynga has about you or have additional questions, e-mail us at privacy@zynga.com (link sends e-mail), or for Black Diamond Slots support@risingtidegames.com (link sends e-mail). For requests to review, delete or change the information obtained in connection with NaturalMotion games, email us at contact@naturalmotion.com (link sends e-mail). We will respond to your request within thirty days.
 
 **Stopping Use of Your Information**  
-If you no longer want Zynga to make active use of your information, you may send an e-mail to privacy@zynga.com (or if you play NaturalMotion games, send an email to contact@naturalmotion.com). Place "Delete My Account" in the subject line and include your first name, last name, e-mail address and your social network ID for the social network from which you access our Services (if applicable) in the body of the e-mail (for example, your Facebook user ID). We will respond to your request within thirty days. Please note that certain records, for example those relating to payments or customer service matters, will be held for legal and accounting purposes. If you have sent content through or posted content on the Service, we may not be able to delete it.
+If you no longer want Zynga to make active use of your information, you may send an e-mail to privacy@zynga.com (link sends e-mail) (or if you play NaturalMotion games, send an email to contact@naturalmotion.com (link sends e-mail)). Place "Delete My Account" in the subject line and include your first name, last name, e-mail address and your social network ID for the social network from which you access our Services (if applicable) in the body of the e-mail (for example, your Facebook user ID). We will respond to your request within thirty days. Please note that certain records, for example those relating to payments or customer service matters, will be held for legal and accounting purposes. If you have sent content through or posted content on the Service, we may not be able to delete it.
 
 **Opting Out of Geolocation**  
 If you have previously allowed us to access your geolocation data, you can stop making geolocation available to us by visiting your mobile device's settings for the relevant application or the "settings" page for the relevant game.
@@ -330,7 +330,7 @@ You can opt out of receiving SMS messages (for example, text messages) by textin
 When you install our apps on your mobile device you can choose to receive push notifications, which are messages an app sends you on your mobile device even when the app is not on. You can turn off notifications by visiting your mobile device's "settings" page.
 
 **Opting Out of Black Diamond Slots Communications**  
-You may opt out of all communications for Black Diamond Slots by sending an email to support@risingtidegames.com
+You may opt out of all communications for Black Diamond Slots by sending an email to support@risingtidegames.com (link sends e-mail)
 
 Note that if you opt-out of our Promotional Communications or other forms of communication, we may still e-mail or communicate with you from time to time if we need to provide you with information about the Service or if we need to request information from you with respect to a transaction initiated by you or for other legitimate non-marketing reasons, for example, if we update this Privacy Policy or our Terms of Service.
 
@@ -390,7 +390,7 @@ Privacy Shield Specialist
 Zynga Inc.  
 699 8th Street  
 San Francisco, CA 94103  
-privacy@zynga.com
+privacy@zynga.com (link sends e-mail)
 
 We will attempt to answer your questions and satisfy your concerns in a timely and complete manner. If, after discussing the matter with us, your question or complaint is not resolved, you may seek further assistance, at no cost to you, from JAMS at https://www.jamsadr.com/eu-us-privacy-shield, which is an independent dispute resolution body in the United States. PLEASE CONTACT ZYNGA FIRST.
 
@@ -414,7 +414,7 @@ We implement security measures to help protect the security of your information 
 If you have an account registered directly with Zynga, your profile information is protected by the password you use to access your Zynga account. It is important that you protect and maintain your Zynga account's security and that you immediately tell us of any unauthorized use of your account. If you forget the password to your Zynga account, the Service allows you to request that instructions be sent to you that explain how to reset your password. If you access our Services through a social network and your social network account is hacked, this may lead to someone playing your Zynga games without your permission. So, be careful to keep your social network account information, including your social network account password, secure as well. We urge you to log out of your Zynga account and any social network account you have used to access our Services after you use it.
 
 When you sign into your Zynga account or enter payment information, we or our third party payment processor use encryption to transmit that information.  
-While we take precautions against possible security breaches of our Services and our customer databases and records, no website or Internet transmission is completely secure. We cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur, and we cannot guarantee the security of your information while it is being transmitted to our Service. Any transmission is at your own risk. If you have questions about the security of our websites, please contact us at privacy@zynga.com.  
+While we take precautions against possible security breaches of our Services and our customer databases and records, no website or Internet transmission is completely secure. We cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur, and we cannot guarantee the security of your information while it is being transmitted to our Service. Any transmission is at your own risk. If you have questions about the security of our websites, please contact us at privacy@zynga.com (link sends e-mail).  
 back to top
 
 12 Changes to Our Privacy Policy
@@ -424,7 +424,7 @@ back to top
 
 13 Contact Us
 
-If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an e-mail to privacy@zynga.com. All other inquiries should be directed to (1) Zynga's Support Page, (2) for Black Diamond Slots please send an email to support@risingtidegames.com or (3) if your inquiry relates to certain Natural Motion games, you may submit an inquiry by clicking on the "Support" link on that game's page found on NaturalMotion's website and using the "Submit a Request" form.
+If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an e-mail to privacy@zynga.com (link sends e-mail). All other inquiries should be directed to (1) Zynga's Support Page, (2) for Black Diamond Slots please send an email to support@risingtidegames.com (link sends e-mail) or (3) if your inquiry relates to certain Natural Motion games, you may submit an inquiry by clicking on the "Support" link on that game's page found on NaturalMotion's website and using the "Submit a Request" form.
 
 Zynga Inc.  
 699 8th Street  
