@@ -115,3 +115,6 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
 © 2016 Homestead Technologies Inc. All Rights Reserved. | Legal | Privacy
 
 Follow Us:
+
+  
+<div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072632537/?value=0&amp;label=bcCiCNPvoQMQ2aW8\_wM&amp;guid=ON&amp;script=0"/>. </div>.
