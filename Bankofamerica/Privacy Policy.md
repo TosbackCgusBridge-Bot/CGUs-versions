@@ -1,4 +1,4 @@
-Skip to main content Privacy &. Security
+<style>body{display:block;}</style>. Skip to main content close browser upgrade noticewarning-iconOur site may not work properly for the browser you're using.See recommended browsers Privacy &. Security
 
 *   Sign In
 *   Home
@@ -204,7 +204,7 @@ How?
 
 All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information. the reasons Bank of America chooses to share. and whether you can limit this sharing.
 
-Reasons we can share your personal information Does Bank of America share? Can you limit this sharing? **For our everyday business purposes** — such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus Yes No **For our marketing purposes** — with service providers we use to offer our products and services to you (please see below to limit the ways we contact you) Yes No **For joint marketing with other financial companies** Yes No **For our affiliates’ everyday business purposes** — Information about your transactions and experiences Yes No **For our affiliates’ everyday business purposes** — Information about your creditworthiness Yes Yes **For nonaffiliates to market to you** — for all credit card accounts Yes Yes **For nonaffiliates to market to you** — for accounts and services endorsed by another organization (e.g., debit card co-branded with a baseball team) “Sponsored Accounts” Yes Yes **For nonaffiliates to market to you** — for accounts other than credit card accounts and Sponsored Accounts, such as insurance, investments, deposit and lending No We don't share To limit our sharing
+Reasons we can share your personal informationDoes Bank of America share?Can you limit this sharing?**For our everyday business purposes** — such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus Yes No **For our marketing purposes** — with service providers we use to offer our products and services to you (please see below to limit the ways we contact you) Yes No **For joint marketing with other financial companies** Yes No **For our affiliates’ everyday business purposes** — Information about your transactions and experiences Yes No **For our affiliates’ everyday business purposes** — Information about your creditworthiness Yes Yes **For nonaffiliates to market to you** — for all credit card accounts Yes Yes **For nonaffiliates to market to you** — for accounts and services endorsed by another organization (e.g., debit card co-branded with a baseball team) “Sponsored Accounts” Yes Yes **For nonaffiliates to market to you** — for accounts other than credit card accounts and Sponsored Accounts, such as insurance, investments, deposit and lending No We don't share To limit our sharing
 
 *   Visit us online: bankofamerica.com/privacy
 *   Call 888.341.5000 — our menu will prompt you through your choices
@@ -304,22 +304,22 @@ Are you cyber aware?
 Browser check
 
 Browser in use:  
- 
+Mozilla Firefox 54.0
 
 Congratulations! Your internet browser meets our security requirementsPlease update your Internet browser to ensure your information is secure
 
 Review requirements
 
-Hide More Resources
+hide More Resources
 
 *   Online and Mobile Banking Security Guarantee
 *   Watch our video "Keeping Your Financial Info Safe"
 
-Hide Protect your PC
+show Protect your PC
 
 *   Get one free year of McAfee® Internet Security
 
-Hide FAQs
+show FAQs
 
 *   Review our FAQs
 
@@ -329,7 +329,7 @@ Best overall
 
 For 9 years in a row, Bank of America has earned the respected and coveted Best Overall Identity Safety in Banking Award byJavelin Strategy &. Research, the nation's leading provider of financial institution insights. The award is based on strong performance in the categories of fraud prevention, detection and resolution.
 
-Home Accessible Banking Privacy &. Security Careers Site Map Advertising Practices Advertising Practices
+Home Accessible Banking Privacy &. Security Careers Site Map Advertising Practices layer Advertising Practices
 
 We strive to provide you with information about products and services you might find interesting and useful. Relationship-based ads and online behavioral advertising help us do that.
 
@@ -344,7 +344,7 @@ To learn more about relationship-based ads, online behavioral advertising and ou
 Bank of America, N.A. Member FDIC. Equal Housing Lender  
 © 2017 Bank of America Corporation.
 
-Important Notice
+Connect with usConnect with us on Facebook layerConnect with us on Instagram layerConnect with us on LinkedIn layerConnect with us on Pinterest layerConnect with us on Twitter layerConnect with us on YouTube layerFacebookInstagramLinkedInPinterestTwitterYouTube Important Notice
 
 **You're going to another website**
 
@@ -367,3 +367,5 @@ The opt-out will take effect upon your next visit using the same device to Bank 
 Submit Cancel You have successfully opted out of online behavioral advertising
 
 You have successfully opted out of online behavioral advertising. The opt-out will take effect upon your next visit using the same device to Bank of America Sites.
+
+BlankTestESsBlankTestESsBlankTestESsBlankTestESsBlankTestESsLaunches comment card in new windowShare website feedback
