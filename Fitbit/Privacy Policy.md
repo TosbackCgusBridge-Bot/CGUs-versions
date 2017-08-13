@@ -1,4 +1,4 @@
-Fitbit
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-T7WV22" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Fitbit
 
 *   Products
     *   Fitness Wristbands  
@@ -195,3 +195,5 @@ United States (change)
 *   Wear and Care
 *   Recall &. Safety Info
 *   AdChoices
+
+<div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/982784463/?label=k4sECL72rgIQ0vWl6gM&amp;guid=ON&amp;script=0"/>. </div>. <img src="//bat.bing.com/action/0?ti=5039010&amp;Ver=2" height="0" width="0" style="display:none. visibility: hidden;">.
