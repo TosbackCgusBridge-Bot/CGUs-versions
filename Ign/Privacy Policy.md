@@ -6,7 +6,7 @@
 *   Careers
 *   Contact
 
-ZIFF DAVIS, LLC PRIVACY POLICY Effective April 7, 2017
+BRANDSAUDIENCEWORLDWIDEPRESSLEADERSHIPCAREERSCONTACT ZIFF DAVIS, LLC PRIVACY POLICY Effective April 7, 2017
 
 Version Française
 
@@ -185,9 +185,9 @@ _Updating Your Registration Information._ Upon request, Ziff Davis will provide
 
 _Location Based Services_. You may opt-out of location-based services at any time by editing the appropriate setting at the device level (which is usually located in the Settings are of your device) or by emailing us at ZDLegal1@ziffdavis.com **and include “Privacy Policy” in the subject line.**
 
-_OBA_. Ziff Davis is a member of the Digital Advertising Alliance (**“DAA”**) in the U.S., E.U. and Canada and uses third party assurance platforms to comply with the DAA principles. Online ads on the Services using Online Data are delivered with the DAA Ad Marker Icon , which helps users understand how their data is being used and provides choices for users who want more control. This icon is also on each of our web pages and applications where Online Data is collected that will be used for OBA purposes.
+_OBA_. Ziff Davis is a member of the Digital Advertising Alliance (**“DAA”**) in the U.S., E.U. and Canada and uses third party assurance platforms to comply with the DAA principles. Online ads on the Services using Online Data are delivered with the DAA Ad Marker Icon <img class="alignnone size-full wp-image-1183 portfolio-lazyLoad" src="/wp-content/uploads/2016/10/zd\_adchoices.png" alt="" width="14" height="18" />, which helps users understand how their data is being used and provides choices for users who want more control. This icon is also on each of our web pages and applications where Online Data is collected that will be used for OBA purposes.
 
-The DAA Ad Marker Icon provides information (and links to other information) on online behavioral ads, who is collecting and using your Online Data, how you can opt out and more. If you would prefer that we not collect Online Data that may be used to help determine which advertisements to serve you, opt out by clicking this icon , which can be found on most of our webpages and mobile applications.
+The DAA Ad Marker Icon <img class="alignnone size-full wp-image-1183 portfolio-lazyLoad" src="/wp-content/uploads/2016/10/zd\_adchoices.png" alt="AdChoices" width="14" height="18" />. provides information (and links to other information) on online behavioral ads, who is collecting and using your Online Data, how you can opt out and more. If you would prefer that we not collect Online Data that may be used to help determine which advertisements to serve you, opt out by clicking this icon <img class="alignnone size-full wp-image-1183 portfolio-lazyLoad" src="/wp-content/uploads/2016/10/zd\_adchoices.png" alt="AdChoices" width="14" height="18" />, which can be found on most of our webpages and mobile applications.
 
 *   European Union and Switzerland residents should visit the European DAA by clicking here.
 *   Canadian residents should visit the DAA of Canada by clicking here.
@@ -287,6 +287,10 @@ Comments are closed.
 
 Facebook Linkedin Twitter
 
+<img height="1" width="1" src="//zdbb.net/l/z0WVjCBSEeGLoxIxOQVEwQ/" alt="" />.
+
 Use of the site is governed by our Terms of Use and Privacy Policy. Copyright 1996-2017 Ziff Davis. All Rights Reserved. Reproduction in whole or in part in any form or medium without express written permission of Ziff Davis, LLC. is prohibited.
+
+AdChoices
 
 Back to Top
