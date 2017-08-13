@@ -21,7 +21,23 @@ Free Website Builder by Webs
 *   Norge
 *   España
 
-Please enter a valid email address and password Forgot Password? Sign In Sign Up Free Our Terms &. Policies Boring, but important. Grab a coffee, and we'll try to make it quick. Terms of Service Privacy Policy Developer Terms Anti-Spam Policy Terms of Service Last updated: July 31, 2013 Welcome to Webs (formerly Freewebs)
+en
+
+*   France
+*   United States - English
+*   Estados Unidos - Español
+*   Deutschland
+*   United Kingdom
+*   Australia
+*   Danmark
+*   Nederland
+*   Italia
+*   Sverige
+*   Canada - Français
+*   Norge
+*   España
+
+France United States - English Estados Unidos - Español Deutschland United Kingdom Australia Danmark Nederland Italia Sverige Canada - Français Norge España Please enter a valid email address and password Forgot Password? Sign In Sign Up Free Our Terms &. Policies Boring, but important. Grab a coffee, and we'll try to make it quick. Terms of Service Privacy Policy Developer Terms Anti-Spam Policy Terms of Service Last updated: July 31, 2013 Welcome to Webs (formerly Freewebs)
 
 The services offered by Vistaprint Netherlands B.V., which is affiliated with Webs ("Webs" or "us" or "we" or "our") include the websites at www.webs.com and www.freewebs.com as well as any other related websites, toolbars, widgets, or other distribution channels we may, from time to time, operate (collectively, "the Sites") and any other features, content, services or applications offered, from time to time, by us, or by third party Paid Service providers (collectively, the "Services").
 
@@ -562,6 +578,7 @@ Create a free website Google Plus Facebook Twitter
 *   Affiliates
 
 With a powerful free website builder and professional website templates, Webs can help you easily create the website you’ve always wanted to promote your small business, sell something online, or simply showcase your creativity.  
+  
 Ready to get started? Get helpful tips for small business websites and more in our resource center.
 
 ©2017 Webs. A Vistaprint company. All Rights Reserved.
@@ -578,4 +595,4 @@ Sign Up Free
 
 Social Marketing Made Simple.
 
-Learn More
+Learn More <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N4XF" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img width="1" height="1" src="https://tracker.marinsm.com/tp?act=1&amp;cid=2932in917575&amp;script=no">.
