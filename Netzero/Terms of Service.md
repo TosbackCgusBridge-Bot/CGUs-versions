@@ -309,6 +309,7 @@ This section describes what rights you and NetZero possess if you and NetZero ha
         
 *   **Agreement to Participate in Binding Arbitration.**  
       
+    
     *   If you and NetZero cannot reach an informal resolution to the Dispute or Claim within thirty (30) days after NetZero's receipt of your Notice, you or NetZero may commence an arbitration proceeding by sending an arbitration demand ("**Arbitration Demand**") to the following address: NetZero Dispute Resolution, United Online Inc., PO BOX 7064, Woodland Hills, CA 91365. The parties agree to arbitrate any Dispute or Claim between the parties, except to the extent either party chooses to instead pursue the Dispute or Claim in small claims court as provided below.  
           
         
@@ -356,27 +357,25 @@ This section describes what rights you and NetZero possess if you and NetZero ha
         
     *   **YOU AND NETZERO AGREE THAT:  
           
-        
-        *   ANY DISPUTE RESOLUTION PROCEEDINGS WILL BE CONDUCTED ONLY ON AN INDIVIDUAL BASIS AND NOT IN A CLASS OR REPRESENTATIVE ACTION. NEITHER YOU NOR NETZERO SHALL BE A MEMBER IN A CLASS, CONSOLIDATED, OR REPRESENTATIVE ACTION OR PROCEEDING, AND THE ARBITRATOR MAY AWARD RELIEF ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO PROVIDE RELIEF WARRANTED BY THAT PARTY'S INDIVIDUAL DISPUTE OR CLAIM.  
+        **
+        ***   ANY DISPUTE RESOLUTION PROCEEDINGS WILL BE CONDUCTED ONLY ON AN INDIVIDUAL BASIS AND NOT IN A CLASS OR REPRESENTATIVE ACTION. NEITHER YOU NOR NETZERO SHALL BE A MEMBER IN A CLASS, CONSOLIDATED, OR REPRESENTATIVE ACTION OR PROCEEDING, AND THE ARBITRATOR MAY AWARD RELIEF ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO PROVIDE RELIEF WARRANTED BY THAT PARTY'S INDIVIDUAL DISPUTE OR CLAIM.  
               
             
         *   UNLESS BOTH PARTIES AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE PERSON'S DISPUTES OR CLAIMS, AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A REPRESENTATIVE OR CLASS PROCEEDING.  
               
+            ***   **NETZERO DOES NOT CONSENT TO CLASS ARBITRATION. ACCORDINGLY, IF A COURT REFUSES TO ENFORCE THE ABOVE PROVISIONS REGARDING CLASS OR REPRESENTATIVE ACTIONS, THEN THIS AGREEMENT TO ARBITRATE SHALL BE UNENFORCEABLE AS TO YOU. WHETHER A DISPUTE OR CLAIM PROCEEDS IN COURT OR IN ARBITRATION, YOU AND NETZERO HEREBY WAIVE ANY RIGHT TO A JURY TRIAL.**  
+              
             
-        *   NETZERO DOES NOT CONSENT TO CLASS ARBITRATION. ACCORDINGLY, IF A COURT REFUSES TO ENFORCE THE ABOVE PROVISIONS REGARDING CLASS OR REPRESENTATIVE ACTIONS, THEN THIS AGREEMENT TO ARBITRATE SHALL BE UNENFORCEABLE AS TO YOU. WHETHER A DISPUTE OR CLAIM PROCEEDS IN COURT OR IN ARBITRATION, YOU AND NETZERO HEREBY WAIVE ANY RIGHT TO A JURY TRIAL.
-        
-        **  
+    *   This arbitration agreement covers any Dispute or Claim arising out of or relating to any aspect of the relationship between you and NetZero, whether based in contract, tort, statute, fraud, misrepresentation or any other legal theory, even if the Dispute or Claim arises or may arise before or after the period(s) during which you are receiving NetZero Services. For purposes of this arbitration provision, references to "**NetZero**," "**we**," and "**us**" include NetZero, NetZero's Affiliates, and each such entity's respective the directors, officers, employees, shareholders, agents, suppliers, and assignees. The Rules evidence a transaction in interstate commerce, and the Federal Arbitration Act governs the interpretation and enforcement of this section.  
           
         
-*   This arbitration agreement covers any Dispute or Claim arising out of or relating to any aspect of the relationship between you and NetZero, whether based in contract, tort, statute, fraud, misrepresentation or any other legal theory, even if the Dispute or Claim arises or may arise before or after the period(s) during which you are receiving NetZero Services. For purposes of this arbitration provision, references to "**NetZero**," "**we**," and "**us**" include NetZero, NetZero's Affiliates, and each such entity's respective the directors, officers, employees, shareholders, agents, suppliers, and assignees. The Rules evidence a transaction in interstate commerce, and the Federal Arbitration Act governs the interpretation and enforcement of this section.  
+    *   You or NetZero must bring any Dispute or Claim arising out of or related to the Rules, or the relationship between you and NetZero, within two (2) years after the Dispute or Claim arises, or the Dispute or Claim will be permanently barred. To the extent the law applicable under the Governing Law section below makes this limitations period unenforceable with respect to any Dispute(s) or Claim(s), then the statutes of limitations of the state whose laws govern the Rules under the Governing Law section below shall apply.  
+          
+        
+    *   NetZero may make changes to this arbitration provision during the term of our services to you. You may reject any material changes by sending NetZero written objection within thirty (30) days of the change to NetZero Dispute Resolution, United Online, Inc., PO Box 7064, Woodland Hills, CA 91365, Attention Legal Department. By rejecting any future material change, you are agreeing to arbitrate in accordance with the language of this provision.
+    
       
     
-*   You or NetZero must bring any Dispute or Claim arising out of or related to the Rules, or the relationship between you and NetZero, within two (2) years after the Dispute or Claim arises, or the Dispute or Claim will be permanently barred. To the extent the law applicable under the Governing Law section below makes this limitations period unenforceable with respect to any Dispute(s) or Claim(s), then the statutes of limitations of the state whose laws govern the Rules under the Governing Law section below shall apply.  
-      
-    
-*   NetZero may make changes to this arbitration provision during the term of our services to you. You may reject any material changes by sending NetZero written objection within thirty (30) days of the change to NetZero Dispute Resolution, United Online, Inc., PO Box 7064, Woodland Hills, CA 91365, Attention Legal Department. By rejecting any future material change, you are agreeing to arbitrate in accordance with the language of this provision.
-
-  
 *   **Small Claims Court.** You may choose to pursue your Dispute or Claim in small claims court rather than by arbitration if your Dispute or Claim qualifies for small claims court in a location where jurisdiction and venue over you and NetZero is proper.  
       
     
