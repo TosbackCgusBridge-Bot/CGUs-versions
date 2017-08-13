@@ -7,7 +7,9 @@ General Disclaimer
   
   
 
-Terms of Use  
+Terms of Use
+
+  
 Latest Revisions: October 24, 2013  
   
 PLEASE READ THE TERMS OF USE BELOW.  
@@ -132,7 +134,9 @@ The TOU constitute the entire agreement between you and Answers and govern your 
   
   
 
-Privacy Policy  
+Privacy Policy
+
+  
 Latest Revision: October 10, 2013  
   
 Thank you for visiting Answers.com (the "Site"), an Answers Corporation (together with its affiliates, "**Answers**", "**us**," "**our**," or "**we**") website. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at the Site and in connection with the various services and software products we provide on or through the Site (collectively the "Services"). This Privacy Policy is hereby incorporated in our Terms of Use and by using the Site and Services, you accept the terms of this Privacy Policy. If you do not accept the terms of this Privacy Policy, please do not use any of the Site or Services.  
