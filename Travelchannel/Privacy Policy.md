@@ -6,7 +6,7 @@ Turn on more accessible mode Turn off more accessible mode Skip Ribbon Commands 
 *   Rss Feed
 *   Instagram
 
-    Search
+   SearchSearch
 
 *   SNICurrently selected
     *   Our Company
@@ -156,4 +156,4 @@ This Privacy Policy as posted is the sole statement of our privacy policy with r
 *   :
 *   Contact Us
 
-All Rights Reserved © Scripps Networks Interactive, Inc
+All Rights Reserved ©2017 Scripps Networks Interactive, Inc
