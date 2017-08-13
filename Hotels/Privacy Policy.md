@@ -1,10 +1,12 @@
-English (United States)
+English (United States)USD
 
 Book online or call 800-246-8357This call is free. 24 hours a day. 7 days a week.
 
+Menu
+
 *   Hotel Deals
 *   Packages &. Flights
-*   Groups &. Meetings
+*   Groups
 *   Gift Cards
 *   Help
 *   Website feedback
@@ -18,7 +20,7 @@ Book online or call 800-246-8357This call is free. 24 hours a day. 7 days a week
 *   Hotels.com® Rewards
 *   Your bookings
 
-Privacy Policy Print all sections
+Privacy PolicyPrint all sections
 
 Below you will find the updated Privacy Policy for Hotels.com, which applies to any information provided or collected through this Hotels.com website and/or any Hotels.com application, including the Hotels.com mobile and tablet applications or any application on a social media or other website (each an “App”), each of which are provided by Hotels.com, L.P. 5400 LBJ Freeway, Suite 500, Dallas, Texas 75240, USA (“Hotels.com”, “we”, or “us”).  
   
@@ -161,7 +163,7 @@ USA
 This Privacy Statement is effective as of October 4, 2015  
   
 
-Choose one of the following to unlock Secret Prices and pay less on select hotels. Email
+Choose one of the following to unlock Secret Prices and pay less on select hotels.Email
 
 Sign up for our latest offers
 
@@ -230,3 +232,5 @@ Join now! Collect 10 nights, get 1 free\*
 Hotels.com and the Hotels.com logo are trademarks or registered trademarks of Hotels.com, LP in the USA and/or other countries. All other trademarks are property of their respective owners.
 
 \* Learn more about Hotels.com® Rewards
+
+<img src="https://hrum.hotelsapi.io/1x1.gif?uijs=0&u=12631">
