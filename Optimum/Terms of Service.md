@@ -116,5 +116,5 @@ Examples of security actions that will trigger security alarms at OPTIMUMISP's 2
 
 **OPTIMUMISP cooperates fully with local, state, and federal enforcement officials investigating unlawful behavior on our systems or the systems of others, and has a working relationship with both the Pennsylvania FBI office in Allentown, PA. and the Computer Crime Squad division of the FBI in Washington, DC.**
 
-息1995-2002 OptimumISP. All rights reserved.  
+Â©1995-2002 OptimumISP. All rights reserved.  
 Accessibility | Privacy policy | Contact us | Site Map
