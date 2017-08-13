@@ -1,4 +1,8 @@
-Log in to AVG MyAccount MENU Skip to content Close
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PQL2XC" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+
+www.avg.com uses cookies to personalize your experience and help us improve content. Change your settings
+
+OK Log in to AVG MyAccount MENU Skip to content Close
 
 *   PC
     *   The Best
