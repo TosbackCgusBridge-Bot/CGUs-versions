@@ -32,7 +32,7 @@ We never use/share the information you give us with outside parties except when 
 As per our company policy, we never use or share any personally identifiable information provided to us online except the ways described above. Also an opportunity to opt out or prohibit such use is also given.  
   
 Customer Feedback and Complaints  
-We welcome your questions and comments about our web site. Please email us at This email address is being protected from spambots. You need JavaScript enabled to view it. .  
+We welcome your questions and comments about our web site. Please email us at support@TheLawPortal.co.ukThis email address is being protected from spambots. You need JavaScript enabled to view it. .  
   
   
   
@@ -47,4 +47,9 @@ We welcome your questions and comments about our web site. Please email us at Th
 *   Site Map
 
 Copyright © 2009 TheLawPortal.co.uk  
-The Law Portal,430 Legacy Centre,Hampton Road West,Feltham,Middlesex TW13 6DH **JavaScript is currently disabled.**Please enable it for a better experience of Jumi.
+The Law Portal,430 Legacy Centre,Hampton Road West,Feltham,Middlesex TW13 6DH <strong>JavaScript is currently disabled.</strong>Please enable it for a better experience of <a href="http://2glux.com/projects/jumi">Jumi</a>.
+
+*   Home
+*   Resources
+*   About Us
+*   Contact Us
