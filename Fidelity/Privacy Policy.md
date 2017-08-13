@@ -85,10 +85,12 @@ Search Fidelity.com
 *   Refer A Friend
 *   Log Out
 
+ 
+
 *   **Home**»
 
 *   Print
-*   Email Email **Send to** (Separate multiple email addresses with commas)
+*   Email Email Privacy Policy - Fidelity Investments **Send to** (Separate multiple email addresses with commas)
     
     Please enter a valid email address
     
@@ -104,7 +106,7 @@ Search Fidelity.com
     
     Your email has been sent.
     
-*   Share Share Mutual Funds and Mutual Fund Investing - Fidelity Investments
+*   Share Share Privacy Policy - Fidelity Investments
     
     Clicking a link will open a new window.
     
@@ -207,7 +209,7 @@ Fidelity also advertises our products and services on websites (including mobile
 
 Fidelity and these third-party online advertising companies may use the data collected, along with other information we have about you and your Fidelity relationships, to serve relevant ads to you. The advertisements may be relevant to your interests, as determined by your activity on Fidelity and non-Fidelity websites. These are known as "interest-based advertisements."
 
-You may opt-out of receiving interest-based advertisements from online advertising companies by clicking on the AdChoices icon (which appears on all Fidelity interest-based ads) and following the opt-out instructions. For more information about interest-based advertising please see http://www.networkadvertising.org/managing/opt\_out.asp.
+You may opt-out of receiving interest-based advertisements from online advertising companies by clicking on the AdChoices icon (which appears on all Fidelity interest-based ads) and following the opt-out instructions. For more information about interest-based advertising please see http://www.networkadvertising.org/managing/opt\_out.aspOpens in a new window.
 
 Non-Fidelity websites and mobile applications are not subject to Fidelity's Privacy Policy. You may visit the individual sites for additional information on their privacy practices.
 
