@@ -132,6 +132,7 @@ Cliquez ici si vous avez ouvert un compte Yahoo après le 19 janvier 2014
  
 
 DES PUBLICITÉS PERTINENTES En vous apportant du contenu et des publicités pertinents, adaptés à vos centres d’intérêts, Yahoo transforme l'utilisation de ses services en une expérience unique. Pour en savoir plus sur les publicités pertinentes, cliquez ici. Gérez les catégories basées sur vos centres d’intérêts ou bloquez toutes les catégories sur notre outil de gestion des publicités basées sur les centres d’intérêts.  
+
 Yahoo et vos données
 
 Pour savoir comment Yahoo traite vos informations personnelles, consultez notre Politique relative à la vie privée. Cette page décrit les pratiques Yahoo courantes concernant ce produit ou ce sujet. Les informations figurant sur cette page peuvent changer en fonction des fonctionnalités que Yahoo ajoute ou supprime.
@@ -144,4 +145,7 @@ Informations générales
 
 Ajout et correspondance des données
 
-Yahoo peut être amené à ajouter et utiliser des données relatives aux utilisateurs, lesquelles sont publiquement disponibles ou agrégées par des fournisseurs de données tiers, et ce afin de fournir de la publicité et des contenus personnalisés. Cliquez-ici pour en savoir plus.
+Yahoo peut être amené à ajouter et utiliser des données relatives aux utilisateurs, lesquelles sont publiquement disponibles ou agrégées par des fournisseurs de données tiers, et ce afin de fournir de la publicité et des contenus personnalisés. Cliquez-ici pour en savoir plus.  
+ 
+
+<p><img src="//analytics-cs.yahoo.com/piwik.php?idsite=10" style="border:0;" alt="" /></p>.
