@@ -1,8 +1,3 @@
-Analytics Analytics
-
-*   Analytics
-*   Tag Manager
-
 Google Analytics Terms of Service
 
 These Google Analytics Terms of Service (this _"Agreement"_) are entered into by Google Inc. ("Google") and the entity executing this Agreement (_"You"_). This Agreement governs Your use of the standard Google Analytics (the _"Service"_). BY CLICKING THE "I ACCEPT" BUTTON, COMPLETING THE REGISTRATION PROCESS, OR USING THE SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE REVIEWED AND ACCEPT THIS AGREEMENT AND ARE AUTHORIZED TO ACT ON BEHALF OF, AND BIND TO THIS AGREEMENT, THE OWNER OF THIS ACCOUNT. In consideration of the foregoing, the parties agree as follows:
@@ -108,49 +103,3 @@ Google may modify these terms or any additional terms that apply to the Service 
 Google will be excused from performance in this Agreement to the extent that performance is prevented, delayed or obstructed by causes beyond its reasonable control. This Agreement (including any amendment agreed upon by the parties in writing) represents the complete agreement between You and Google concerning its subject matter, and supersedes all prior agreements and representations between the parties. If any provision of this Agreement is held to be unenforceable for any reason, such provision will be reformed to the extent necessary to make it enforceable to the maximum extent permissible so as to effect the intent of the parties, and the remainder of this Agreement will continue in full force and effect. This Agreement will be governed by and construed under the laws of the state of California without reference to its conflict of law principles. In the event of any conflicts between foreign law, rules, and regulations, and California law, rules, and regulations, California law, rules and regulations will prevail and govern. Each party agrees to submit to the exclusive and personal jurisdiction of the courts located in Santa Clara County, California. The United Nations Convention on Contracts for the International Sale of Goods and the Uniform Computer Information Transactions Act do not apply to this Agreement. The Software is controlled by U.S. Export Regulations, and it may be not be exported to or used by embargoed countries or individuals. Any notices to Google must be sent to: Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, with a copy to Legal Department, via first class or air mail or overnight courier, and are deemed given upon receipt. A waiver of any default is not a waiver of any subsequent default. You may not assign or otherwise transfer any of Your rights in this Agreement without Google's prior written consent, and any such attempt is void. The relationship between Google and You is not one of a legal partnership relationship, but is one of independent contractors. This Agreement will be binding upon and inure to the benefit of the respective successors and assigns of the parties hereto. The following sections of this Agreement will survive any termination thereof: 1, 4, 5, 6 (except the last two sentences), 7, 8, 9, 10, 11, 12, 14, and 16.
 
 Last Updated 5/24/2016
-
-Follow us on:
-
-*   Apps Status Dashboard
-*   Terms of Service
-
-Learning &. Support
-
-Help Center
-
-User Forum
-
-Solutions Gallery
-
-Analytics Academy
-
-Partner Gallery
-
-Developers
-
-Analytics Developer Site
-
-Demos &. Tools
-
-Help &. Communities
-
-Technology Partner Program
-
-Related Products
-
-AdWords
-
-DoubleClick
-
-AdSense
-
-More Solutions from Google
-
-Business Solutions
-
-Google Apps for Work
-
-*   Help
-*   Google
-*   Privacy
-*   Terms
