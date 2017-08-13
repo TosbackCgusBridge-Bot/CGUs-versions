@@ -1,4 +1,4 @@
-Electronic Arts Inc. Privacy and Cookie Policy Last Updated: July 31, 2017  
+Electronic Arts Inc.Privacy and Cookie Policy Last Updated: July 31, 2017  
 Effective Date: August 31, 2017  
   
   
