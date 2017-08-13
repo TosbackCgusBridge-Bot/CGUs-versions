@@ -171,4 +171,4 @@ Email: DMC@aenetworks.com  (subject line: "Privacy Policy Contact") U.S. Postal
 Contact: \[Site Name\]  
 235 E. 45th Street  
 New York, NY 10017  
-Attention: Digital Media Counsel, Legal &. Business Affairs Telephone: 212-210-1400 Facsimile: 212-210-1308, Attention: Digital Media Counsel, Legal &. Business Affairs ©2016 A&E Televisions Networks, LLC. All Rights Reserved.
+Attention: Digital Media Counsel, Legal &. Business Affairs Telephone:212-210-1400 Facsimile:212-210-1308, Attention: Digital Media Counsel, Legal &. Business Affairs ©2016 A&E Televisions Networks, LLC. All Rights Reserved.
