@@ -162,7 +162,9 @@ You can also write to us or call our **Privacy Officer** at:
 Express, LLC  
 1 Express Drive  
 Columbus, OH 43230  
-Phone: 1-800-477-8844 WE MAY UPDATE THIS POLICY.
+Phone: 1-800-477-8844
+
+WE MAY UPDATE THIS POLICY.
 
 From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
