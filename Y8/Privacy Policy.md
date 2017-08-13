@@ -1,12 +1,14 @@
+<div><img src="https://mc.yandex.ru/watch/45364173" style="position:absolute. left:-9999px;" alt="" /></div>. <p><img src="//piwik.y8.com/piwik.php?idsite=1" style="border:0;" alt=""></p>.
+
 *   games
 *   videos
 
 Your score  
-points
+0 points
 
 Register Log in
 
-My Profile points
+My Profile 0 points
 
 *   My Profile
 *   Edit Profile
@@ -116,3 +118,5 @@ If you have any questions, you can contact us through our contact form.
 *   Games for Your Website
 *   Terms of Use
 *   Privacy Policy
+
+Share873K
