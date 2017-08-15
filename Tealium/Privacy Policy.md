@@ -27,6 +27,35 @@
 *   Blog
 *   Login
 
+*   Products
+    *   Tealium iQ Tag Management
+    *   Tealium AudienceStream CDP
+    *   Tealium DataAccess
+*   Integrations
+*   Resources
+    *   Case Studies
+    *   Whitepapers
+    *   Videos
+    *   Solution Briefs
+    *   Datasheets
+    *   ROI Calculator
+    *   Preparing for GDPR
+    *   MarTech Challenge
+    *   Tealium Learning Community
+    *   Education
+    *   Executive Briefing Center
+    *   Support
+*   Company
+    *   People
+    *   Careers
+    *   Events
+    *   News
+    *   Partners
+    *   Brand Assets
+    *   Contact
+*   Blog
+*   Login
+
 Privacy Policy **Tealium Inc. Website Privacy Statement**
 
 Privacy Statement Effective as of  September 29, 2016
@@ -93,7 +122,7 @@ To learn more about Tealium’s Privacy Widget, click here.
 
 Cookie management tools provided by your browser may not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here.
 
-Privacy Widget Not Loaded Targeting or Advertising cookies Tealium may engage third parties to track and analyze usage and volume statistical information from Site Visitors.
+Modify Privacy Options Targeting or Advertising cookies Tealium may engage third parties to track and analyze usage and volume statistical information from Site Visitors.
 
 Analytics: Tealium may use cookies delivered by third parties to track the performance of Tealium’s advertisements. For example, these cookies remember which browsers have visited the Tealium Website. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after Tealium receives it.
 
