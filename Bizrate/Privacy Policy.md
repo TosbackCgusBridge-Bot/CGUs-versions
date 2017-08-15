@@ -69,7 +69,7 @@ We thought it would be helpful to set out briefly the key ways in which we use y
 *   You may at any time opt-out of certain activities as set out below (see section VI).
 *   We encrypt any information you input using Secure Sockets Layer (SSL) software and take reasonable security measures to safeguard information.
 *   If you register with us, you have the ability to update or correct the information you previously provided via the account section.
-*   If you have any questions or concerns about privacy at Shopzilla, please contact us by clicking here .
+*   If you have any questions or concerns about privacy at Shopzilla, please contact us by clicking here ;
 *   Our websites and our services are not designed or intended for use by children under 13. and
 *   This Privacy Policy may change from time to time so please check this policy regularly.  Any material changes will be notified to you by email as appropriate.
 
@@ -189,3 +189,5 @@ Stores are responsible for providing bizrate™ with correct and current prices.
 Store ratings and product reviews are submitted by online shoppers. they do not reflect our opinions and we have no responsibility for their content.
 
 © 2017 About Bizrate
+
+<p><img src="http://tracker.blazonco.com/piwik.php?idsite=377" style="border:0;" alt="" /></p>.
