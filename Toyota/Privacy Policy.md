@@ -1,6 +1,6 @@
 *   menu
 
-*   Your Location: 37203 dealers
+*   Your Location: 33780 dealers
 *   Certified Used Vehicles
 *   Owners
 *   Español
@@ -76,7 +76,7 @@
 *   2018 RAV4 View More Info
 *   FT-4X Concept View More Info
 
-Compare vs. The Competition
+View All Vehicles
 
 *   Build &. Price
 *   Local Specials
