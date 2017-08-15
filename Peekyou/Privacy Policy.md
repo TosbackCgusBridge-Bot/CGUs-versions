@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. Online, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 16%  16%  16%  16% 
+What is PeekScore? Public Records &. Background Checks 12%  12%  12%  12% 
 
 *   Privacy Policy - Instant Search View Now
     
@@ -119,7 +119,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 16%  Twitter 3% 
+Facebook 12%  Twitter 2% 
 
 *   Kevin Collier - kevincollier
     
@@ -165,7 +165,7 @@ Facebook 16%  Twitter 3% 
     
 *   Show Less ...
 
-Pinterest 16%  Wikipedia 3% 
+Pinterest 12%  Wikipedia 2% 
 
 *   P3P
     
@@ -184,7 +184,7 @@ Pinterest 16%  Wikipedia 3% 
     Uchiwa is a traditional Japanese fan. It is often used to create a breeze to keep cool in hot weather. They are part of Japanese seasonal traditions and are often ...
     
 
-Instagram 3% 
+Instagram 2% 
 
 *   ZAHRA - privacypolicytsms
     
@@ -210,7 +210,7 @@ Instagram 3% 
     
 *   Show Less ...
 
-Google+ 3% 
+Google+ 2% 
 
 *   Free Privacy Policy - Google+
     
@@ -225,7 +225,7 @@ Google+ 3% 
     privacy policy - Google+. ... privacy policy's posts. Looks like you've reached the end. Looks like you've reached the end. Unable to load more. Retry. Wait while ...
     
 
-Linkedin 3% 
+Linkedin 2% 
 
 *   Privacy Policy | LinkedIn
     
@@ -271,7 +271,7 @@ Linkedin 3% 
     
 *   Show Less ...
 
-Foursquare 16%  Music 3% 
+Foursquare 12%  Music 2% 
 
 *   Pandora
     
@@ -317,7 +317,7 @@ Foursquare 16%  Music 3% 
     
 *   Show Less ...
 
-Photo Albums 3% 
+Photo Albums 2% 
 
 *   Flickriver
     
@@ -328,7 +328,7 @@ Photo Albums 3% 
     Flickr (pronounced "flicker") is an image hosting and video hosting website and web services suite that was created by Ludicorp in 2004 and acquired by Yahoo on March ...
     
 
-Myspace 3% 
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -352,7 +352,7 @@ Myspace 3% 
     
 *   Show Less ...
 
-Documents 3% 
+Documents 2% 
 
 *   Privacy Policy - Google
     
@@ -398,7 +398,7 @@ Documents 3% 
     
 *   Show Less ...
 
-Web Search 3% 
+Web Search 2% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -444,7 +444,7 @@ Web Search 3% 
     
 *   Show Less ...
 
-Images 3% 
+Images 2% 
 
 19
 
