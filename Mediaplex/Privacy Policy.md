@@ -64,11 +64,9 @@ Skip to main content
     *   Affiliate
     *   Join Us
 
-Login Let's Connect CONNECTING  
-BRANDS TO  
-MILLIONS OF REAL  
-PEOPLE BETTER  
-THAN ANYONE What We Do Watch Video
+Login Let's Connect GIVE EACH CONSUMER  
+THEIR OWN REASON  
+TO LOVE YOUR BRAND What We Do Watch Video
 
 *   160+ MILLION Real People You Can  
     Message Right Now
