@@ -1,7 +1,7 @@
 *   Our Work Where We Work United States Priorities Science \[close\] Where We Work
     
     *   United States
-    *   Local: Tennessee
+    *   Local: Colorado
     *   North America
     *   Latin America
     *   Caribbean
