@@ -14,7 +14,7 @@
     *   Login
     *   |
     *   Register
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   0MY FAVORITES
 *   MY BAG
