@@ -11,9 +11,7 @@
 *   Video
 *   Ipost
 
-To enjoy our website, you'll need to enable **JavaScript** in your web browser. Please **click here** to learn how.
-
-cp-logo subscribe log in CMC sites
+<p class="enable-js">. To enjoy our website, you'll need to enable <b>JavaScript</b>. in your web browser. Please <a href="http://enable-javascript.com/" target="\_blank"><b>click here</b></a>. to learn how. </p>. cp-logo subscribe log in CMC sites
 
 *   crossmap
 *   gnl
@@ -67,4 +65,4 @@ For more information, please visit contact us.
 *   Terms
 *   Privacy policy
 
-© 2017 The Christian Post , INC. All Rights Reserved. The Christian Post is part of CMC
+© 2017 The Christian Post , INC. All Rights Reserved. The Christian Post is part of CMC <p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66422650ns.gif" /></p>. <div style="display:none;">. <img src="//pixel.quantserve.com/pixel/p-f3\_tFTzTnk8n2.gif" border="0" height="1" width="1" alt="Quantcast"/>. </div>. BESbswyBESbswyBESbswy
