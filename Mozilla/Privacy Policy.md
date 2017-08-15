@@ -1,8 +1,4 @@
-Psst… it’s time for a tune up
-
-Stay safe and fast with a quick update.
-
-Update FirefoxClose Menu Mozilla
+Menu Mozilla
 
 *   Firefox
 *   Pocket
