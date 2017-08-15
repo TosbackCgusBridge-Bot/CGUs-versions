@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _David Ignatius_: On North Korea, Trump Needs Allies--Not Bombast
+*   _Ben Domenech_: The Reality of Charlottesville
     
-*   _Ruth Marcus_: Let Trump Be Trump, Except on Foreign Policy
+*   _Joshua Zeitz_: What Happened in Charlottesville Is All Too American
     
-*   _Dan Holler_: A Conservative View of Trump vs. Amazon
+*   _Bill O'Reilly_: Yes, 'Many Sides' Are Ripping Charlottesville, America Apart
     
-*   _Kudlow &. Carter_: Index Capital Gains for Inflation, Mr. President
+*   _Joy-Ann Reid_: Trump Has White Nationalists in the White House
     
-*   _Conrad Black_: N. Korean Crisis a Product of Failed Pre-Trump Leadership
+*   _Monica Crowley_: Nikki Haley: Trump's Velvet Hammer at the UN
     
-*   _Robin Wright_: The Way Out of Trump's Ad-Lib War With North Korea
+*   _Evelyn Farkas_: How Trump Can Contain North Korea Without 'Fire &. Fury'
     
-*   _David Catanese_: The New North Korea X-Factor
+*   _John Bolton_: China Is Our Last Diplomatic Hope for North Korea
     
-*   _Hadley Manning_: Google It: Men &. Women Are Different, &. That's Okay
+*   _Matthew Boomer_: Venezuela Buries Left's Hopes of "Good Socialism"
     
-*   _Cynthia Lee_: Let Me Ladysplain James Damore's Memo to You
+*   _Paul Krugman_: When the President Is Un-American
     
-*   _Steve Cortes_: Rahm Emanuel Would Rather Posture Than Fix His City
+*   _Charles Hurt_: Between Alt-Right and Antifa, Media Still Manages to Be Worse
     
-*   _Jonathan Rauch_: Trump Can Stop Leaks If He Stops Acting Like Donald Trump
+*   _Thompson &. Faturechi_: Police Stood By as Mayhem Mounted in Virginia
     
-*   _George Neumayr_: It Was a 'Brennan Operation'
+*   _Sheryl Stolberg_: Hurt and Angry, Charlottesville Tries to Regroup From Violence
     
-*   _Robert Kuttner_: The Fatal Triangle: Trump, Kelly, Mueller
+*   _Scott Greer_: Why Were the Police Held Back in Charlottesville?
     
-*   _Robert Ehrlich_: In the Trump Era, a New Meaning of 'Populism'
+*   _Jeffrey Goldberg_: Why Won't Trump Call Out Radical White Terrorism?
     
-*   _Jeff Spross_: The Problem With the Restaurant Boom
+*   _Kassy Dillon_: Trump's Agenda, U.S. Conservatism Have No Room for Racists
     
-*   _Alexis Simendinger_: Trump: Maybe 'Fire and Fury' Threat Wasn't Tough Enough
+*   _Michael Eric Dyson_: Charlottesville and the Bigotocracy
     
-*   _Thomas Friedman_: Be Strategic, Not Impulsive, on North Korea
+*   _Jim Mattis &. Rex Tillerson_: We're Holding Pyongyang to Account
     
-*   _Mollie Hemingway_: Loretta Lynch, Clinton and the Media's Lost Credibility
+*   _Lawrence Krauss_: North Korea, Trump and the Ticking Doomsday Clock
     
-*   _Chris Cillizza_: FBI's Manafort Raid Means Bob Mueller Means Business
+*   _Stephen Moore_: Beware the Obamacare Industrial Complex
     
-*   _Leonid Bershidsky_: Why Some U.S. Ex-Spies Don't Buy the Russia Story
+*   _Juan Williams_: Trump Ought to Thank Obama
     
-*   _Kimberly Strassel_: Trump Still Hasn't Drained Obama's IRS Swamp
+*   _John Fund_: Will Dems Bet That Their Party Can Fly With Only a Left Wing?
     
-*   _Michael Duffy_: Why General John Kelly Is Trump's Last Hope
+*   _Bill Scher_: Republicans, Kick the Bigots Out
     
-*   _Gideon Resnick_: Will Democrats Blow Their Chance in 2018?
+*   _D.C. McAllister_: White Supremacists Not the Only Thugs in Charlottesville
     
-*   _Rep. Jim Sensenbrenner_: The Senate Broke Its Promise on Obamacare
+*   _Jennifer Kerns_: When Is a Russian 'Hack' Not a Hack?
     
 
 *   Previous
@@ -264,7 +264,7 @@ RecommendedPolitics
 
 *   Trump Doubles Down on Pyongyang Warning
 *   West Virginia's Last Democrat Battles Trump Tide
-*   Gingrich: On North Korea, We Must Break From Past Thinking, Policy
+*   Trump: Racists Will Be Held Accountable, Justice Will Be Delivered
 *   Some Republicans See Trump-McConnell Feud as Ill-Advised
 *   Trump's Backing of Strange Shakes Up Alabama Primary
 *   Presidential Job Approval
@@ -281,29 +281,32 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalGallup
-    *   Approve36
-    *   Disapprove59Disapprove +23
 *   Alabama Senate Special Election - Republican PrimaryTrafalgar Group (R)
-    *   Moore35
-    *   Strange23
-    *   Brooks20
+    *   Moore38
+    *   Strange24
+    *   Brooks17
     *   Pittman6
-    *   Brinson4Moore +12
+    *   Brinson6Moore +14
+*   Alabama Senate Special Election - Republican PrimaryEmerson
+    *   Moore29
+    *   Strange32
+    *   Brooks15
+    *   Pittman10
+    *   BrinsonStrange +3
+*   President Trump Job ApprovalGallup
+    *   Approve34
+    *   Disapprove61Disapprove +27
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve45
-    *   Disapprove53Disapprove +8
-*   Virginia Governor - Gillespie vs. NorthamQuinnipiac\*
-    *   Northam44
-    *   Gillespie38Northam +6
+    *   Approve43
+    *   Disapprove55Disapprove +12
 
 More Latest Polls In The News
 
-*   Fareed Zakaria: Trump Mishandling North Korea. Exaggerating Threat To "Appear Tough"
+*   Jordan Peterson: What Can You Do About Censorship And Tyranny?
+*   Reid: Trump Has White Nationalists In The White House: Miller, Bannon, Gorka, Anton
 *   Rich Lowry to Joy Ann Reid: You Are Helping Neo-Nazis By Calling All Conservatives "Alt-Right"
+*   Fareed Zakaria: Trump Mishandling North Korea. Exaggerating Threat To "Appear Tough"
 *   Scaramucci: "Political Establishment Class" Trying To Close Door For CEOs Entering Washington System
-*   Maher: If You're Coming To The Melting Pot, "Melt A Little". Dem Policy Of 'Come One, Come All'
-*   Former Mueller Deputy on Trump: Deep State, "The Government Is Going To Kill This Guy"
 
 *   Politics
 *   Policy
