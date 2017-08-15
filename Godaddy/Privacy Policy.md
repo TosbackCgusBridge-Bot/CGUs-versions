@@ -1,4 +1,4 @@
-**Last Revised: June 8, 2017**
+**Last Revised: August 14, 2017**
 
 GoDaddy Respects your privacy
 
@@ -156,5 +156,3 @@ ATTN: Web Team
 14455 North Hayden Rd.  
 Suite 219  
 Scottsdale, AZ, 85260, U.S.A.
-
-To avoid any confusion here we would suggesting expanding the transfers section of the GoDaddy privacy policy, to also make clear that, if a user requests a product support call this may be resourced from  GoDaddy's wider Global support team resulting in a transfer of their contact information across international boundaries and the follow up call being made by one of GoDaddy's international support team members.
