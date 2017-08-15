@@ -41,7 +41,7 @@ Connexity
     
 *   Contact
 
-Toggle navigation blog navsite nav
+Toggle navigationblog navsite nav
 
 *   Solutions
     *   Hitwise
@@ -136,6 +136,10 @@ Connexity
 *   Open Positions
 *   Press
 
-&copy 2017 Connexity, Inc. / Privacy Policy / Opt Out / Site Map
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn\_id=nuzib&p\_id=Twitter&tw\_sale\_amount=0&tw\_order\_quantity=0" />. <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn\_id=nuzib&p\_id=Twitter&tw\_sale\_amount=0&tw\_order\_quantity=0" />.
+
+© 2017 Connexity, Inc. / Privacy Policy / Opt Out / Site Map
 
 Connexity®, Audience Discovery® and Hitwise® are registered trademarks of Connexity, Inc.
+
+Sumo
