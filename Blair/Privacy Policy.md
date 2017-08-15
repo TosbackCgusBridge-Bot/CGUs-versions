@@ -1,7 +1,3 @@
-  Offer Details
-
-Use promotion code **BBNQ** at checkout to save 20% on your Blair merchandise order and enjoy 99¢ standard shipping on your entire Blair order. 20% savings applies to merchandise prices only. Additional shipping charges apply for express, heavyweight and deliveries outside the continental US. This offer cannot be combined with other offers. not valid on previously placed or international orders. good online only through August 13, 2017.
-
  
 
 Shop your favorite stores and discover new ones  
