@@ -127,7 +127,7 @@ View View from above. on Instagram
 
 The Xperia #XZPremium helps you rewind time to select the perfect shot with Predictive Capture.
 
-13 days ago
+14 days ago
 
 View Tweet
 
@@ -199,7 +199,7 @@ Everywhere
 
 Pop it with the pinky. See the #EmojiMovie in theaters now!
 
-13 days ago
+14 days ago
 
 View Tweet
 
@@ -281,7 +281,7 @@ At Sony Square NYC
 
 Whatever pace you’re going at, staying on top of your day has never been easier with #Xperia Ear.
 
-12 days ago
+14 days ago
 
 View Tweet
 
