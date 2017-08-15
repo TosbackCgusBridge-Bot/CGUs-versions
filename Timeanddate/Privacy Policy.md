@@ -1,4 +1,4 @@
-Menutimeanddate.com Search × Site / Articles City / Country Social × Share this page / Follow us on: Facebook TweetFollow Twitter Google+ Visit us on: FacebookTwitterGoogle
+Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this page / Follow us on:FacebookTweetFollowTwitterGoogle+Visit us on:FacebookTwitterGoogle
 
 *   My accountBack
     *   My Location
@@ -89,7 +89,7 @@ Menutimeanddate.com Search × Site / Articles City / Country Social × Share thi
     *   Date Pattern Calculator
     *   Fun Fact Articles
 
-Newsletter About Us Site Map Account/Settings Article Topics Home   Site information   Privacy Statement for timeanddate.com Privacy Statement for timeanddate.com
+Newsletter About Us Site Map Account/Settings Article TopicsHome   Site information   Privacy Statement for timeanddate.comPrivacy Statement for timeanddate.com
 
 We have a firm commitment to privacy at timeanddate.com.
 
@@ -131,7 +131,7 @@ Time and Date AS
 PO Box 27 Forus  
 NO-4064 Stavanger  
 Norway  
-webmaster@timeanddate.com timeanddate.com
+webmaster@timeanddate.comtimeanddate.com
 
 1.  About Us
 2.  Contact Us
@@ -149,7 +149,7 @@ webmaster@timeanddate.com timeanddate.com
 
 Index
 
-You might also like Total Solar Eclipse in the US
+You might also likeTotal Solar Eclipse in the US
 
 On Monday, August 21, 2017, there will be a total solar eclipse in the United States, as the New Moon covers the entire disk of the Sun. more
 
@@ -167,4 +167,6 @@ Find out what months have to do with the Moon, why there are 12 months, and what
 
 Copyright © Time and Date AS 1995–2017. All rights reserved.
 
-Feedback | About Us | Advertising | Disclaimer | Privacy | Sitemap
+Feedback | Short URL |
+
+<a id=LRFL href="/information/feedback.html">Feedback</a>. | About Us | Advertising | Disclaimer | Privacy | Sitemap
