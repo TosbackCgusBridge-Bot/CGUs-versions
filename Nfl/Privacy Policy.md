@@ -13,7 +13,7 @@
 *   DAL10LA13Final
 *   OAK10ARI20Final
 *   DET24IND10Final
-*   SEA0-0LAC0-0Sun 8:00 PM ET
+*   SEA48LAC17Final
 
 *   News
 *   Scores
@@ -25,6 +25,7 @@
 *   Shop
 *   Teams
 *   Game Pass
+*   KICKOFF
 *   Stats
 *   Training Camp
 *   Ways to Watch
@@ -47,7 +48,7 @@
 *   DAL10LA13Final
 *   OAK10ARI20Final
 *   DET24IND10Final
-*   SEA0-0LAC0-0Sun 8:00 PM ET
+*   SEA48LAC17Final
 
 *   News
 *   Scores
@@ -57,6 +58,7 @@
 *   Fantasy
 
 *   *   Game Pass
+    *   KICKOFF
     *   Stats
     *   Training Camp
     *   Ways to Watch
