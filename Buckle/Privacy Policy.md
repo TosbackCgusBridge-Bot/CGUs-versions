@@ -82,8 +82,8 @@
         
           
           
-        Give a Buckle Gift card It’s The Season To Stock Up. Score Big With These Deals!  
-        SHOP BY PROMOTION.
+        Give a Buckle Gift card Let These Tees Do The Talking and These Shoes Do The Walking  
+        Women's Tees and Shoes | Men's Tees and Shoes
 *   Men
     *   *   Featured
         
@@ -142,8 +142,8 @@
         
           
           
-        Give a Buckle Gift card It’s The Season To Stock Up. Score Big With These Deals!  
-        SHOP BY PROMOTION.
+        Give a Buckle Gift card Let These Tees Do The Talking and These Shoes Do The Walking  
+        Women's Tees and Shoes | Men's Tees and Shoes
 *   Kids
     *   *   Featured
         
@@ -165,8 +165,8 @@
         *   Shop All
         
           
-        Give a Buckle Gift card It’s The Season To Stock Up. Score Big With These Deals!  
-        SHOP BY PROMOTION.
+        Give a Buckle Gift card Let These Tees Do The Talking and These Shoes Do The Walking  
+        Women's Tees and Shoes | Men's Tees and Shoes
 *   Jeans
     *   *   Women's Jeans
         
@@ -196,8 +196,8 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card It’s The Season To Stock Up. Score Big With These Deals!  
-        SHOP BY PROMOTION.
+        Give a Buckle Gift card Let These Tees Do The Talking and These Shoes Do The Walking  
+        Women's Tees and Shoes | Men's Tees and Shoes
 *   New
     *   *   Featured New
         
@@ -235,8 +235,8 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card It’s The Season To Stock Up. Score Big With These Deals!  
-        SHOP BY PROMOTION.
+        Give a Buckle Gift card Let These Tees Do The Talking and These Shoes Do The Walking  
+        Women's Tees and Shoes | Men's Tees and Shoes
 *   Sale
     *   *   Women's Sale
         
@@ -279,8 +279,8 @@
         
           
           
-        Give a Buckle Gift card It’s The Season To Stock Up. Score Big With These Deals!  
-        SHOP BY PROMOTION.
+        Give a Buckle Gift card Let These Tees Do The Talking and These Shoes Do The Walking  
+        Women's Tees and Shoes | Men's Tees and Shoes
 
 SearchSubmitSearchSubmit × ClosePrivacy &. Security
 
