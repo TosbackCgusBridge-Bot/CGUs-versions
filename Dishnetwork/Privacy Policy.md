@@ -165,7 +165,7 @@
     \*HBO included for 12 months with all America's Top Packages. After 12 mos., then-current everyday price applies unless you call or go online to downgrade.
     
     Call Now  
-    1-855-601-2974
+    1-844-452-4729
     
     *   Packages
         
@@ -236,7 +236,7 @@
 *   Find a Retailer
 
 *   OFFERS
-*   Call DISH 1-855-601-2974
+*   Call DISH 1-844-452-4729
 *   CHAT
 
 SWITCH TO DISH AND GET A
@@ -374,4 +374,14 @@ Need Help?
 
 We'd be happy to help you find the best deal on your ideal TV package. Simply talk to one of our helpful agents now.
 
-  1-855-601-2974 Prefer to Chat? <iframe src="//20738052p.rfihub.com/ca.html?rb=26690&amp;ca=20738052&amp;\_o=26690&amp;\_t=20738052&amp;ra=1036980245" style="display:none;padding:0;margin:0" width="0" height="0">. </iframe>.
+  1-844-452-4729 Prefer to Chat? <iframe src="//20738052p.rfihub.com/ca.html?rb=26690&amp;ca=20738052&amp;\_o=26690&amp;\_t=20738052&amp;ra=1325956762" style="display:none;padding:0;margin:0" width="0" height="0">. </iframe>.  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Feedback
