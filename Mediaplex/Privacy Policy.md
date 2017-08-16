@@ -64,9 +64,11 @@ Skip to main content
     *   Affiliate
     *   Join Us
 
-Login Let's Connect GIVE EACH CONSUMER  
-THEIR OWN REASON  
-TO LOVE YOUR BRAND What We Do Watch Video
+Login Let's Connect PROFIT FROM  
+THE MOST  
+POWERFUL TOOLS  
+IN MEDIA AND  
+MARKETING TECH What We Do Watch Video
 
 *   160+ MILLION Real People You Can  
     Message Right Now
