@@ -16,7 +16,7 @@ SEG1 hp
     enter your number below.
 *   Login or Register
 
-Office Depot Deals pgkax-DI8475rD5UfxARBgO
+Office Depot Deals GxogSOuHrTcVXP8VBqKSvid
 
 Search Suggestions
 
@@ -144,7 +144,7 @@ Chat Now Office Depot, Inc. is a leading global provider of products, services, 
   
 Office Depot, Inc. is a resource and a catalyst to help customers work better. We are a single source for everything customers need to be more productive, including the latest technology, core office supplies, print and document services, business services, facilities products, furniture, and school essentials.  
   
-The Company has annual sales of approximately $11 billion, employs approximately 38,000 associates, and serves consumers and businesses in North America and abroad with approximately 1,400 retail stores, award-winning e-commerce sites and a dedicated business-to-business sales organization  all delivered through a global network of wholly owned operations, franchisees, licensees and alliance partners. The Company operates under several banner brands including Office Depot, OfficeMax, Grand &. Toy, and Viking. The companys portfolio of exclusive product brands include TUL, Foray, Brenton Studio, Ativa, WorkPro, Realspace and HighMark.  
+The company had 2016 annual sales of approximately $11 billion, employed approximately 38,000 associates, and served consumers and businesses in North America and abroad with approximately 1,400 retail stores, award-winning e-commerce sites and a dedicated business-to-business sales organization  with a global network of wholly owned operations, franchisees, licensees and alliance partners. The company operates under several banner brands including Office Depot, OfficeMax and Grand &. Toy. The companys portfolio of exclusive product brands include TUL, Foray, Brenton Studio, Ativa, WorkPro, Realspace and Highmark.  
   
 Office Depot, Inc.s charitable arm, The Office Depot Foundation, supports programs that enhance quality of life for children, strengthen communities, encourage local and international economic growth, and empower schools and non-profit organizations. Office Depot and OfficeMax also provides resources and support to small businesses through its Business Solutions Center. The center provides informative tips, advice, articles, videos and more designed to help businesses achieve their goals.
 
