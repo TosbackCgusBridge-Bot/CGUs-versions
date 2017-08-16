@@ -27,9 +27,8 @@ Show Menu
     *   Mobile
     *   Rewards
 
-*   *   You have 1 notification 1
-        *   *   Get price and availability changes for hotels you view. Your Scratchpad can watch for updates 24/7. Track ChangesClose
-            *   All caught up!  
+*   *   You have 0 notifications 1
+        *   *   All caught up!  
                 No new notifications right now.
 *   Account
     *   Sign in to see exclusive Member Pricing.
