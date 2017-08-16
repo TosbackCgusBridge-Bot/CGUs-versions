@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Ben Domenech_: The Reality of Charlottesville
+*   _William McGurn_: Hurrah for the ACLU
     
-*   _Joshua Zeitz_: What Happened in Charlottesville Is All Too American
+*   _Al Sharpton_: In America, Bias, Hate &. Racism Move to the Mainstream
     
-*   _Bill O'Reilly_: Yes, 'Many Sides' Are Ripping Charlottesville, America Apart
+*   _Bob McManus_: The Avoidable Mayhem in Charlottesville
     
-*   _Joy-Ann Reid_: Trump Has White Nationalists in the White House
+*   _Sen. Dianne Feinstein_: Keep the Iran Deal &. Apply Its Lessons to N. Korea
     
-*   _Monica Crowley_: Nikki Haley: Trump's Velvet Hammer at the UN
+*   _Austin Bay_: Trump's Full-Court Press Against North Korea Is Working
     
-*   _Evelyn Farkas_: How Trump Can Contain North Korea Without 'Fire &. Fury'
+*   _Walter Shapiro_: Trump's Two-Front War Against McConnell &. North Korea
     
-*   _John Bolton_: China Is Our Last Diplomatic Hope for North Korea
+*   _Scott Johnson_: Russia Collusion Gone Missing
     
-*   _Matthew Boomer_: Venezuela Buries Left's Hopes of "Good Socialism"
+*   _Bob Dreyfuss_: Could Paul Manafort Bring Down the Whole Trump Family?
     
-*   _Paul Krugman_: When the President Is Un-American
+*   _Albert Hunt_: Democrats Fret as Clinton Book Rollout Looms
     
-*   _Charles Hurt_: Between Alt-Right and Antifa, Media Still Manages to Be Worse
+*   _Matt Rhoades_: Every Campaign Is Now a Cyberwar Target
     
-*   _Thompson &. Faturechi_: Police Stood By as Mayhem Mounted in Virginia
+*   _Rebecca Berg_: Schmitt Clears Way for Hawley in Mo. Senate Race
     
-*   _Sheryl Stolberg_: Hurt and Angry, Charlottesville Tries to Regroup From Violence
+*   _Robin Wright_: Is America Headed for a New Kind of Civil War?
     
-*   _Scott Greer_: Why Were the Police Held Back in Charlottesville?
+*   _Victor Davis Hanson_: Anti-Trumpers Learning Nothing in Time for 2020
     
-*   _Jeffrey Goldberg_: Why Won't Trump Call Out Radical White Terrorism?
+*   _Richard Cohen_: Trump's America Is Not Mine
     
-*   _Kassy Dillon_: Trump's Agenda, U.S. Conservatism Have No Room for Racists
+*   _Sen. Tim Scott_: Fight Hatred, Fear &. Domestic Terror with American Ideals
     
-*   _Michael Eric Dyson_: Charlottesville and the Bigotocracy
+*   _Caitlin Huey-Burns_: Trump's Charlottesville Response Tries GOP Lawmakers
     
-*   _Jim Mattis &. Rex Tillerson_: We're Holding Pyongyang to Account
+*   _Heather Mac Donald_: Don't Even Think About Being Evil
     
-*   _Lawrence Krauss_: North Korea, Trump and the Ticking Doomsday Clock
+*   _Sam Levin_: James Damore and the Radicalization of Angry White Men
     
-*   _Stephen Moore_: Beware the Obamacare Industrial Complex
+*   _Ace_: Identity Politics of All Kinds Are Odious and Poisonous
     
-*   _Juan Williams_: Trump Ought to Thank Obama
+*   _Collier Meyerson_: Fighting White Supremacy Means Owning Up to History
     
-*   _John Fund_: Will Dems Bet That Their Party Can Fly With Only a Left Wing?
+*   _Anton Mardasov_: Russia Re-Examines Relationship With Iran
     
-*   _Bill Scher_: Republicans, Kick the Bigots Out
+*   _James Carafano_: Trump and the Art of Rope-a-Dope Diplomacy
     
-*   _D.C. McAllister_: White Supremacists Not the Only Thugs in Charlottesville
+*   _Robert Kuttner_: China Reaps Bounty of North Korea-U.S. Conflict
     
-*   _Jennifer Kerns_: When Is a Russian 'Hack' Not a Hack?
+*   _Wilbur Ross_: American Genius Is Under Attack from China
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Doubles Down on Pyongyang Warning
-*   West Virginia's Last Democrat Battles Trump Tide
-*   Trump: Racists Will Be Held Accountable, Justice Will Be Delivered
-*   Some Republicans See Trump-McConnell Feud as Ill-Advised
-*   Trump's Backing of Strange Shakes Up Alabama Primary
+*   Schmitt Clears Way for Hawley in Mo. Senate Race
+*   Combative Trump Presser: Blame Both Sides for Violence
+*   Trump to "Fake News": What About the Alt-Left That Came Charging?
+*   Trump's Charlottesville Response Tries Republican Lawmakers
+*   Melania Trump Inching Toward Spotlight
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -281,32 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Alabama Senate Special Election - Republican PrimaryTrafalgar Group (R)
-    *   Moore38
-    *   Strange24
-    *   Brooks17
-    *   Pittman6
-    *   Brinson6Moore +14
-*   Alabama Senate Special Election - Republican PrimaryEmerson
-    *   Moore29
-    *   Strange32
-    *   Brooks15
-    *   Pittman10
-    *   BrinsonStrange +3
+*   President Trump Job ApprovalMonmouth
+    *   Approve42
+    *   Disapprove49Disapprove +7
 *   President Trump Job ApprovalGallup
-    *   Approve34
-    *   Disapprove61Disapprove +27
+    *   Approve36
+    *   Disapprove59Disapprove +23
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove55Disapprove +12
+    *   Approve42
+    *   Disapprove57Disapprove +15
+*   President Trump Job ApprovalMarist
+    *   Approve37
+    *   Disapprove55Disapprove +18
 
 More Latest Polls In The News
 
+*   Ingraham vs. Krauthammer: Trump's Statements "Will Never Be Enough For The People Who Despise Him"
+*   Chuck Todd: Trump's Press Conference "Gave Me The Wrong Kind Of Chills," "I'm A Bit Shaken"
+*   President Trump On Taking Down Confederate Statues: "I Wonder, Is It George Washington Next Week?"
+*   Hemingway: Trump Denounced Bigotry On Saturday. There Is A Problem On All Sides, Left And Right
 *   Jordan Peterson: What Can You Do About Censorship And Tyranny?
-*   Reid: Trump Has White Nationalists In The White House: Miller, Bannon, Gorka, Anton
-*   Rich Lowry to Joy Ann Reid: You Are Helping Neo-Nazis By Calling All Conservatives "Alt-Right"
-*   Fareed Zakaria: Trump Mishandling North Korea. Exaggerating Threat To "Appear Tough"
-*   Scaramucci: "Political Establishment Class" Trying To Close Door For CEOs Entering Washington System
 
 *   Politics
 *   Policy
