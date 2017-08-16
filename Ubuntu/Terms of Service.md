@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server Development Summary – 15 Aug 2017 ›
+*   Week 32 In Snapcraft ›
 *   LXD: Weekly Status #10 ›
 *   Ubuntu Desktop Weekly Update: August 11, 2017 ›
 *   How to sign things for Secure Boot ›
-*   Security Team Weekly Summary: August 10, 2017 ›
-*   Canonical Distribution of Kubernetes: Dev Summary 2017 (Week 32) ›
