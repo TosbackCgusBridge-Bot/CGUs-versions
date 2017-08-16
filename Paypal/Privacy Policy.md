@@ -1,6 +1,4 @@
-NOTE: Many features on the PayPal Web site require Javascript and cookies. You can enable both via your browser's preference settings.
-
-Skip to main content
+<style type="text/css">body{display:block !important;}</style><p class="nonjsAlert">NOTE: Many features on the PayPal Web site require Javascript and cookies. You can enable both via your browser's preference settings.</p>Skip to main content
 
 *   Sign Up
 *   Log In
@@ -8,6 +6,18 @@ Skip to main content
 *   Security Center
 
 *   Home
+    *   Get Started
+        *   Why Use PayPal
+        *   How It Works
+        *   Where to Shop With It
+    *   Send Payment
+        *   Send Payment Online
+        *   Make a Mass Payment
+    *   Request Money
+        *   Request Money
+        *   Send an Invoice
+    *   Sell on eBay
+    *   Developers
 *   Personal
 *   Business
 *   Products
@@ -146,25 +156,9 @@ Back to top More Information
 *   Legal Agreements
 *   Jobs
 *   Mass Pay
+*   Site Feedback
 
 Copyright © 1999-2017 PayPal. All rights reserved.  
 Consumer advisory- PayPal Pte. Ltd., the holder of PayPal's stored value  
 facility, does not require the approval of the Monetary Authority of Singapore.  
 Users are advised to read the terms and conditions carefully.
-
-*   Home
-    *   Get Started
-        *   Why Use PayPal
-        *   How It Works
-        *   Where to Shop With It
-    *   Send Payment
-        *   Send Payment Online
-        *   Make a Mass Payment
-    *   Request Money
-        *   Request Money
-        *   Send an Invoice
-    *   Sell on eBay
-    *   Developers
-*   Personal
-*   Business
-*   Products
