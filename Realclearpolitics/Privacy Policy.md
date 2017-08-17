@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _William McGurn_: Hurrah for the ACLU
+*   _Michael Goodwin_: Startling Reality Facing U.S. in Wake of Virginia Violence
     
-*   _Al Sharpton_: In America, Bias, Hate &. Racism Move to the Mainstream
+*   _Peter Beinart_: What Trump Gets Wrong About Antifa
     
-*   _Bob McManus_: The Avoidable Mayhem in Charlottesville
+*   _Peder Zane_: Trump Got It Right--There's Intolerance on Many Sides
     
-*   _Sen. Dianne Feinstein_: Keep the Iran Deal &. Apply Its Lessons to N. Korea
+*   _Carol Anderson_: America Is Hooked on the Drug of White Supremacy
     
-*   _Austin Bay_: Trump's Full-Court Press Against North Korea Is Working
+*   _Rich Lowry_: Yesterday Was Worse Than Saturday for Trump
     
-*   _Walter Shapiro_: Trump's Two-Front War Against McConnell &. North Korea
+*   _George Neumayr_: Petty, Sanctimonious Ruling Class Is Beyond Parody
     
-*   _Scott Johnson_: Russia Collusion Gone Missing
+*   _Richard Haass_: In North Korea, There Are No Good Options Left
     
-*   _Bob Dreyfuss_: Could Paul Manafort Bring Down the Whole Trump Family?
+*   _Mark Helprin_: Trump Must Put Pressure on China, Rebuild U.S. Military
     
-*   _Albert Hunt_: Democrats Fret as Clinton Book Rollout Looms
+*   _Gulrez Azhar_: Weathering the Violence of Climate Change
     
-*   _Matt Rhoades_: Every Campaign Is Now a Cyberwar Target
+*   _Francis Menton_: Greatest Scientific Fraud of All Time--Part XVII
     
-*   _Rebecca Berg_: Schmitt Clears Way for Hawley in Mo. Senate Race
+*   _Quinones &. Lajka_: The Country Where Down Syndrome Is Disappearing
     
-*   _Robin Wright_: Is America Headed for a New Kind of Civil War?
+*   _Caitlin Huey-Burns_: A Defiant Trump's Combative Homecoming
     
-*   _Victor Davis Hanson_: Anti-Trumpers Learning Nothing in Time for 2020
+*   _Holman Jenkins_: Trump Loses Corporate America
     
-*   _Richard Cohen_: Trump's America Is Not Mine
+*   _Chris Cillizza_: The President's Moral Failure: Only One Side Is to Blame
     
-*   _Sen. Tim Scott_: Fight Hatred, Fear &. Domestic Terror with American Ideals
+*   _Michelle Malkin_: Where Is the Corporate Disavowal of Black Lives Matter?
     
-*   _Caitlin Huey-Burns_: Trump's Charlottesville Response Tries GOP Lawmakers
+*   _Jack Shafer_: This Is What Happens When You Let Trump Be Trump
     
-*   _Heather Mac Donald_: Don't Even Think About Being Evil
+*   _John Podhoretz_: Trump's Horrifying 'Take Three' on Charlottesville
     
-*   _Sam Levin_: James Damore and the Radicalization of Angry White Men
+*   _Stephen Presser_: Trump Is Right About Violence in Charlottesville
     
-*   _Ace_: Identity Politics of All Kinds Are Odious and Poisonous
+*   _David Ignatius_: U.S. Ponders Path to Permanent Treaty with N. Korea
     
-*   _Collier Meyerson_: Fighting White Supremacy Means Owning Up to History
+*   _Sen. John McCain_: America Is Losing in Afghanistan
     
-*   _Anton Mardasov_: Russia Re-Examines Relationship With Iran
+*   _Kevin Hulbert_: Dereliction of Duty II: The Afghanistan Years
     
-*   _James Carafano_: Trump and the Art of Rope-a-Dope Diplomacy
+*   _Raffi Khatchadourian_: Julian Assange, a Man Without a Country
     
-*   _Robert Kuttner_: China Reaps Bounty of North Korea-U.S. Conflict
+*   _Danielle Ryan_: What If the DNC Russian Hack Was Really a Leak After All?
     
-*   _Wilbur Ross_: American Genius Is Under Attack from China
+*   _Zach Maher_: What Swedes Give Up for 'Free' Money
     
 
 *   Previous
@@ -263,7 +263,7 @@ RecommendedPolitics
 *   Investigations
 
 *   Schmitt Clears Way for Hawley in Mo. Senate Race
-*   Combative Trump Presser: Blame Both Sides for Violence
+*   A Defiant Trump's Combative Homecoming
 *   Trump to "Fake News": What About the Alt-Left That Came Charging?
 *   Trump's Charlottesville Response Tries Republican Lawmakers
 *   Melania Trump Inching Toward Spotlight
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalMonmouth
-    *   Approve42
-    *   Disapprove49Disapprove +7
 *   President Trump Job ApprovalGallup
     *   Approve36
-    *   Disapprove59Disapprove +23
+    *   Disapprove58Disapprove +22
 *   President Trump Job ApprovalRasmussen Reports
+    *   Approve40
+    *   Disapprove58Disapprove +18
+*   President Trump Job ApprovalEconomist/YouGov
     *   Approve42
-    *   Disapprove57Disapprove +15
-*   President Trump Job ApprovalMarist
-    *   Approve37
-    *   Disapprove55Disapprove +18
+    *   Disapprove54Disapprove +12
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve35
+    *   Disapprove58Disapprove +23
 
 More Latest Polls In The News
 
+*   Brewer vs. Navarro: Trump Denounced Hatred, Relentless Attacking Of Him Is Not Serving Country
+*   Navarro: For Too Long Republicans Have Looked The Other Way At "Misogynist Racist Bigoted Pig" Trump
 *   Ingraham vs. Krauthammer: Trump's Statements "Will Never Be Enough For The People Who Despise Him"
 *   Chuck Todd: Trump's Press Conference "Gave Me The Wrong Kind Of Chills," "I'm A Bit Shaken"
-*   President Trump On Taking Down Confederate Statues: "I Wonder, Is It George Washington Next Week?"
-*   Hemingway: Trump Denounced Bigotry On Saturday. There Is A Problem On All Sides, Left And Right
-*   Jordan Peterson: What Can You Do About Censorship And Tyranny?
+*   Mike Cernovich: I Was Wrong About The Alt-Right. Duke &. Spencer's "Sole Purpose Is To Discredit Trump"
 
 *   Politics
 *   Policy
