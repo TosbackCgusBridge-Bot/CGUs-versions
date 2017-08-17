@@ -1,54 +1,19 @@
-*   HOU17CAR27Final
-*   MIN17BUF10Final
-*   ATL20MIA23Final
-*   WAS3BAL23Final
-*   JAX31NE24Final
-*   DEN24CHI17Final
-*   NO14CLE20Final
-*   PHI9GB24Final
-*   PIT20NYG12Final
-*   TB12CIN23Final
-*   SF27KC17Final
-*   TEN3NYJ7Final
-*   DAL10LA13Final
-*   OAK10ARI20Final
-*   DET24IND10Final
-*   SEA48LAC17Final
-
-*   News
-*   Scores
-*   Schedule
-*   Standings
-*   Video
-*   Fantasy
-*   Tickets
-*   Shop
-*   Teams
-*   Game Pass
-*   KICKOFF
-*   Stats
-*   Training Camp
-*   Ways to Watch
-*   Hall of Fame
-*   NFL Network
-*   Photos
-
-*   HOU17CAR27Final
-*   MIN17BUF10Final
-*   ATL20MIA23Final
-*   WAS3BAL23Final
-*   JAX31NE24Final
-*   DEN24CHI17Final
-*   NO14CLE20Final
-*   PHI9GB24Final
-*   PIT20NYG12Final
-*   TB12CIN23Final
-*   SF27KC17Final
-*   TEN3NYJ7Final
-*   DAL10LA13Final
-*   OAK10ARI20Final
-*   DET24IND10Final
-*   SEA48LAC17Final
+*   BAL0-0MIA0-0Thu 7:00 PM ET
+*   BUF0-0PHI0-0Thu 7:00 PM ET
+*   TB0-0JAX0-0Thu 8:00 PM ET
+*   MIN0-0SEA0-0Fri 10:00 PM ET
+*   CAR0-0TEN0-0Sat 3:00 PM ET
+*   KC0-0CIN0-0Sat 7:00 PM ET
+*   IND0-0DAL0-0Sat 7:00 PM ET
+*   NYJ0-0DET0-0Sat 7:30 PM ET
+*   GB0-0WAS0-0Sat 7:30 PM ET
+*   NE0-0HOU0-0Sat 8:00 PM ET
+*   LA0-0OAK0-0Sat 10:00 PM ET
+*   DEN0-0SF0-0Sat 10:00 PM ET
+*   CHI0-0ARI0-0Sat 10:00 PM ET
+*   ATL0-0PIT0-0Sun 4:00 PM ET
+*   NO0-0LAC0-0Sun 8:00 PM ET
+*   NYG0-0CLE0-0Mon 8:00 PM ET
 
 *   News
 *   Scores
