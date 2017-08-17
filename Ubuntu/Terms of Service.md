@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Foundations Development Summary – August 16, 2017 ›
+*   Kernel Team Summary- August 16, 2017 ›
 *   Ubuntu Server Development Summary – 15 Aug 2017 ›
 *   Week 32 In Snapcraft ›
 *   LXD: Weekly Status #10 ›
-*   Ubuntu Desktop Weekly Update: August 11, 2017 ›
-*   How to sign things for Secure Boot ›
