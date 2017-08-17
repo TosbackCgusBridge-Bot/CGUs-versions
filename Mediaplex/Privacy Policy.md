@@ -27,9 +27,8 @@ Skip to main content
 *   Careers
 *   Publishers
     *   Overview
-    *   Website
-    *   App Publishers
-    *   Affiliate
+    *   Benefits
+    *   Integrations
     *   Join Us+
 
 *   Investor Relations
@@ -59,9 +58,8 @@ Skip to main content
 *   Careers
 *   Publishers
     *   Overview
-    *   Website
-    *   App Publishers
-    *   Affiliate
+    *   Benefits
+    *   Integrations
     *   Join Us
 
 Login Let's Connect PROFIT FROM  
@@ -183,9 +181,8 @@ Send me emails containing marketing messages from Conversant and our affiliates.
 *   Publishers +  
       
     *   Overview
-    *   Website
-    *   App Publishers
-    *   Affiliate
+    *   Benefits
+    *   Integrations
     *   Join Us
 
 Let's Connect!
