@@ -101,7 +101,7 @@ COMPARE **NX**
 
 **GX**
 
-*   Starting at $51,6801\*
+*   Starting at $51,8551\*
 *   301-HP3\* V8, FULL-TIME 4WD
 
 *   Build
@@ -109,7 +109,7 @@ COMPARE **NX**
 
 **LX**
 
-*   Starting at $89,8806\*
+*   Starting at $89,9806\*
 *   383-HP3\* V8, FULL-TIME 4WD
 
 *   Build
