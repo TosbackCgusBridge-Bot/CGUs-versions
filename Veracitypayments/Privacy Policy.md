@@ -151,7 +151,7 @@ Read Vanco's blog for timely news and insights about effective management of ele
 
   
 © 2016 Vanco Payment Solutions. All rights reserved.  
-Vanco Payment Solutions is a registered ISO of Wells Fargo Bank, N.A., Walnut Creek, CA.
+Vanco Payment Solutions is a registered ISO of Wells Fargo Bank, N.A., Concord, CA.
 
 *   Privacy Policy|
 *   Terms Of Service|
