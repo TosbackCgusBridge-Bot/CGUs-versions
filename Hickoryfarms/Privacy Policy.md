@@ -188,8 +188,8 @@ My Account
 
 Guarantees
 
-*   Security
 *   100% Satisfaction
+*   Security
 *   Substitution Policy
 
 Privacy
@@ -210,8 +210,8 @@ Security
 
 About Us
 
-*   The Hickory Farms Story
 *   Store Locator
+*   The Hickory Farms Story
 *   Employment Opportunities
 
 Contact Us
@@ -252,7 +252,7 @@ About Us
 Contact Us
 
 *   Contact Us
-*   1.800.753.8558
+
 *   Employment
 
 Business Accounts
@@ -262,4 +262,4 @@ Business Accounts
 *   1.800.715.1474
 *   Email Us
 
-PRIVACY POLICY TERMS OF USE SITE MAP © 2017 ALL RIGHTS RESERVED.
+PRIVACY POLICY TERMS OF USE SITE MAP © 2017 ALL RIGHTS RESERVED. Feedback
