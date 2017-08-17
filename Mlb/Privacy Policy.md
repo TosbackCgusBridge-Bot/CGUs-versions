@@ -25,6 +25,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Voices
     *   Pipeline
     *   Awards
+    *   Photo Stream
     *   Sports on Earth
     *   Entertainment
     *   Reporter's Inbox
