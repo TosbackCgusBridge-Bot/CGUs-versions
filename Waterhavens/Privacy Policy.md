@@ -30,12 +30,12 @@ Web 1 Marketing: Search Engine Optimization &. Internet Marketing Consultation S
 
 Brokerages
 
-Scott Price is a Washington licensed real estate broker with RSVP Real Estate.
+Scott Price is a Washington licensed real estate broker with Summit Properties NW.
 
 Veronique Hval is a Washington licensed real estate broker with Windermere Real Estate South.
 
 and
 
-Windermere Real Estate South and RSVP Real Estate
+Windermere Real Estate South and Summit Properties NW
 
 **© Copyright WaterHavens.com. All Rights Reserved.**
