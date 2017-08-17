@@ -167,3 +167,5 @@ Mail: 135 Morrissey Blvd., Boston, MA 02125, Attention Privacy Manager
 **Unsubscribe Requests**. If you would like to contact us about unsubscribing from our email lists, please email feedback@boston.com and provide all of your email addresses that could appear on our email lists, as well as the name of the newsletter from which you would like to unsubscribe.
 
 **Updates to Personal Information**. If you would like to update the personal information that we have about you, or if you no longer desire our services, you can update your preferences at the Member Center.
+
+Stay updated, right in your news feed.
