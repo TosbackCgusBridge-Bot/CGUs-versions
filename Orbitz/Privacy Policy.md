@@ -2,7 +2,7 @@ Skip to main content Cobranded header here Welcome to Orbitz.com **Continue to t
 
 Get 5% back on the Orbitz App when you book eligible hotels.
 
-Join Rewards //a.travel-assets.com/globalcontrols-service/content/d97a6a2fec3661d2014887421e41d3f531d34f0d Search anything Search
+Join Rewards //a.travel-assets.com/globalcontrols-service/content/56bbc670d562800c8a8bc7796f568d5f43ba3abc Search anything Search
 
 Show Menu
 
@@ -27,8 +27,9 @@ Show Menu
     *   Mobile
     *   Rewards
 
-*   *   You have 0 notifications 1
-        *   *   All caught up!  
+*   *   You have 1 notification 1
+        *   *   Get price and availability changes for hotels you view. Your Scratchpad can watch for updates 24/7. Track ChangesClose
+            *   All caught up!  
                 No new notifications right now.
 *   Account
     *   Sign in to see exclusive Member Pricing.
@@ -53,7 +54,7 @@ Show Menu
     *   Feedback
 *   Español
 
-//a.travel-assets.com/globalcontrols-service/content/d97a6a2fec3661d2014887421e41d3f531d34f0d Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/56bbc670d562800c8a8bc7796f568d5f43ba3abc Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Hotels
