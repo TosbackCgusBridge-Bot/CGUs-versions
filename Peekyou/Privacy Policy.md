@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. Online, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 19%  19%  19%  19% 
+What is PeekScore? Public Records &. Background Checks 15%  15%  15%  15% 
 
 *   Privacy Policy - Instant Search View Now
     
@@ -119,7 +119,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 19%  Twitter 2% 
+Facebook 15%  Twitter 2% 
 
 *   Kevin Collier - kevincollier
     
@@ -165,7 +165,7 @@ Facebook 19%  Twitter 2% 
     
 *   Show Less ...
 
-Pinterest 19%  Wikipedia 2% 
+Pinterest 15%  Wikipedia 2% 
 
 *   P3P
     
@@ -362,7 +362,7 @@ Photo Albums 2% 
     Flickr (pronounced "flicker") is an image hosting and video hosting website and web services suite that was created by Ludicorp in 2004 and acquired by Yahoo on March ...
     
 
-Myspace 1% 
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -386,7 +386,7 @@ Myspace 1% 
     
 *   Show Less ...
 
-Documents 1% 
+Documents 2% 
 
 *   Privacy Policy - Google
     
@@ -432,7 +432,7 @@ Documents 1% 
     
 *   Show Less ...
 
-Web Search 1% 
+Web Search 2% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -478,11 +478,11 @@ Web Search 1% 
     
 *   Show Less ...
 
-Images 1% 
+Images 2% 
 
 19
 
-10
+9
 
 8
 
