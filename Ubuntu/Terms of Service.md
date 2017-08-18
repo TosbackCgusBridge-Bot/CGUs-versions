@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Security Team Weekly Summary: August 17, 2017 ›
+*   How to set up Kubernetes on any cloud and monitor your apps with Weave ›
 *   Ubuntu Foundations Development Summary – August 16, 2017 ›
 *   Kernel Team Summary- August 16, 2017 ›
 *   Ubuntu Server Development Summary – 15 Aug 2017 ›
-*   Week 32 In Snapcraft ›
-*   LXD: Weekly Status #10 ›
