@@ -440,7 +440,7 @@ WebMD Policy Last updated on December 30, 2016 © 2016 WebMD, LLC. All rights re
 
 Some of these might surprise you.
 
-Ending cancer with clinical trials Receive clinical trial access by **MD Anderson** hidden module trigger Depressed, Guilty Feelings After Eating?
+Success in the Form of Clinical Trials Clinical trial access for patients ADVERTISEMENT **MD Anderson** Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
