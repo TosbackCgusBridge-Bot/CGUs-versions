@@ -18,11 +18,11 @@ Subaru Confidence In Motion
 *   Build &. Price
 *   Find Retailer
 
-Impreza $18,395\* starting price 2017 Impreza
+Impreza $18,495\* starting price 2018 Impreza
 
 Starting at
 
-$18,395 MSRP
+$18,495 MSRP
 
 Up to
 
@@ -33,7 +33,7 @@ Up to
 *   Compare
 *   Build &. Price
 
-2.0i Sport shown
+2.0i Sport Sedan shown
 
 Legacy $22,195\* starting price 2018 Legacy
 
@@ -464,4 +464,4 @@ Your location cannot be displayed.
 
 To connect with Subaru of Hawaii, please click here
 
-<div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1065529365/?value=0&guid=ON&script=0"/>. </div>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1139158252766221&ev=PageView&noscript=1" /><img src="//bat.bing.com/action/0?ti=5066940&Ver=2" height="0" width="0" style="display:none. visibility: hidden;" />.
+<div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1065529365/?value=0&guid=ON&script=0"/>. </div>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1139158252766221&ev=PageView&noscript=1" /><img src="//bat.bing.com/action/0?ti=5066940&Ver=2" height="0" width="0" style="display:none. visibility: hidden;" />
