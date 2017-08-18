@@ -169,5 +169,4 @@ Last update August 15, 2015
 *   Australia
 *   New Zealand
 
-© Copyright 2017 Oodle Holdings, LLC. All rights reserved.  
-×We're sorry! Marketplace on Facebook is no longer available. But the site lives on here at Oodle.com.Close
+© Copyright 2017 Oodle Holdings, LLC. All rights reserved.
