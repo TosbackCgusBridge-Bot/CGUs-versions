@@ -144,53 +144,40 @@
 
 <div class="browser-compatibility-alert">. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. Information We Collect and How it is Used
 
-We may share your peronally-identifiable information, including your name, address, e-mail address, as well as a record of any transaction you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide anonymous. To choose not to have this information used by our third-party advertising partner click here.  
-  
-If you request additional information or make an online purchase from us, you may receive e-mail from us about online specials and other events. If you do not want to receive e-mail from us in the future, please let us know by sending an e-mail to us at the above address and telling us that you do not want to receive e-mail from our company. We never sell or trade e-mail addresses with companies outside the Hickory Farms family of brands, which includes Pfaelzer Brothers.  
-  
-If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. You will be given an opportunity to decline our mail services at checkout. If you do not want to receive mail from us in the future, please let us know by sending an e-mail. Also, you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by sending an e-mail to us at the above address. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with organizations other than the Hickory Farms brands listed above.  
-  
-Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding orders they have placed online, new products and services, or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us an e-mail at the above address.  
-  
-  
-Conditions of Use  
+We may share your peronally-identifiable information, including your name, address, e-mail address, as well as a record of any transaction you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide anonymous. To choose not to have this information used by our third-party advertising partner click here.
+
+If you request additional information or make an online purchase from us, you may receive e-mail from us about online specials and other events. If you do not want to receive e-mail from us in the future, please let us know by sending an e-mail to us at the above address and telling us that you do not want to receive e-mail from our company. We never sell or trade e-mail addresses with companies outside the Hickory Farms family of brands, which includes Pfaelzer Brothers.
+
+If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. You will be given an opportunity to decline our mail services at checkout. If you do not want to receive mail from us in the future, please let us know by sending an e-mail. Also, you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by sending an e-mail to us at the above address. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with organizations other than the Hickory Farms brands listed above.
+
+Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding orders they have placed online, new products and services, or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us an e-mail at the above address.
+
+**Customer Mailing List**  
+We sometimes make our customer list available to carefully screened companies whose products or services we think you might enjoy. However, your e-mail address will NEVER be sold or given to any other companies. If you prefer not to receive other mailings, copy your mailing label exactly and mail to us at:  
+Mail Preference Service, P.O. Box 75 Maumee, OH 43537
+
+**Notice of Changes**  
+Hickory Farms' Privacy Policy is subject to change without notice. At any time, you may visit our website to view the current policy.
+
+**Conditions of Use**  
 Any dispute over privacy is subject to this Privacy Policy and our Terms of Use.
 
-Secondary Navigation Shipping and Returns
+Secondary Navigation Shipping Information
 
-*   Shipping Cost
+*   Shipping Costs and Restrictions
 *   Holiday Shipping Deadlines
 *   Order Tracking
 *   Refunds and Replacements
-*   Shipping Restrictions
 
 Placing Your Order
 
-*   Product Selection
-*   Submitting an Order
 *   Valid Payment Methods
 *   Promo Codes
-*   Order Processing
 *   Sales Tax
-*   Order Status
-*   Security (Verisign)
-*   Free Shipping
 
 My Account
 
-*   Managing An Account
-*   Opening An Account
-*   Updating Your Information
-*   Customer Mailing List
-*   Order History
-*   Password Assistance
-*   Tracking Your Order
-
-Guarantees
-
-*   100% Satisfaction
-*   Security
-*   Substitution Policy
+*   Managing &. Creating an Account
 
 Privacy
 
@@ -200,18 +187,11 @@ Privacy
 Security
 
 *   Use of Cookies
-*   Credit Card Safety
-*   Bank or Credit Card Liability
-*   Your Credit Card Information is Secure
-*   Links to Other Sites
-*   Notice of Changes
-*   Terms of Use information
-*   Additional Questions
+*   Terms of Use Information
 
 About Us
 
 *   Store Locator
-*   The Hickory Farms Story
 *   Employment Opportunities
 
 Contact Us
@@ -236,9 +216,9 @@ Sign up for gift ideas &. exclusive offers! Sign Up
 
 Customer Service
 
+*   Order Tracking
 *   Gift Cards
 *   Where to Buy
-*   Order Tracking
 *   Request a Catalog
 *   My Account
 
@@ -252,7 +232,7 @@ About Us
 Contact Us
 
 *   Contact Us
-
+*   1.800.753.8558
 *   Employment
 
 Business Accounts
@@ -262,4 +242,4 @@ Business Accounts
 *   1.800.715.1474
 *   Email Us
 
-PRIVACY POLICY TERMS OF USE SITE MAP © 2017 ALL RIGHTS RESERVED. Feedback
+PRIVACY POLICY TERMS OF USE SITE MAP © 2017 ALL RIGHTS RESERVED.
