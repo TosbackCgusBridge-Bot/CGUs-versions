@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Michael Goodwin_: Startling Reality Facing U.S. in Wake of Virginia Violence
+*   _Gail Collins_: How to Handle Donald Trump
     
-*   _Peter Beinart_: What Trump Gets Wrong About Antifa
+*   _Byron York_: Measuring, and Mismeasuring, the Trump Conundrum
     
-*   _Peder Zane_: Trump Got It Right--There's Intolerance on Many Sides
+*   _Julia Ioffe_: The Road to Radicalism in Charlottesville
     
-*   _Carol Anderson_: America Is Hooked on the Drug of White Supremacy
+*   _Seth Lipsky_: A Warning From George Orwell on the 'Monument Wars'
     
-*   _Rich Lowry_: Yesterday Was Worse Than Saturday for Trump
+*   _Nancy Gibbs_: Will the U.S. Succeed After Charlottesville Where Trump Failed?
     
-*   _George Neumayr_: Petty, Sanctimonious Ruling Class Is Beyond Parody
+*   _Conrad Black_: The Campaign of Defamation Against Trump Will Fail
     
-*   _Richard Haass_: In North Korea, There Are No Good Options Left
+*   _Bryce Covert_: Trump's White Supremacist Economic Agenda
     
-*   _Mark Helprin_: Trump Must Put Pressure on China, Rebuild U.S. Military
+*   _Salena Zito_: Dems Need New Message to Attract Moderate Voters
     
-*   _Gulrez Azhar_: Weathering the Violence of Climate Change
+*   _Tucker Carlson_: Bill Kristol Was My Boss and a Friend. What Happened?
     
-*   _Francis Menton_: Greatest Scientific Fraud of All Time--Part XVII
+*   _Richard Trumka_: Why I Quit Trump's Business Council
     
-*   _Quinones &. Lajka_: The Country Where Down Syndrome Is Disappearing
+*   _Brian Blum_: Screen Addiction: On the Brink of a Smartphone Health Crisis
     
-*   _Caitlin Huey-Burns_: A Defiant Trump's Combative Homecoming
+*   _Scott Rasmussen_: To Move Nation Forward, Lift Up America's Founding Ideals
     
-*   _Holman Jenkins_: Trump Loses Corporate America
+*   _K-Sue Park_: The A.C.L.U. Needs to Rethink Free Speech
     
-*   _Chris Cillizza_: The President's Moral Failure: Only One Side Is to Blame
+*   _Charles Cooke_: There's No 'Nazi' Exception to the First Amendment
     
-*   _Michelle Malkin_: Where Is the Corporate Disavowal of Black Lives Matter?
+*   _John Grisham_: Silence Is Not an Option
     
-*   _Jack Shafer_: This Is What Happens When You Let Trump Be Trump
+*   _Harry Stein_: Who's Next, George Washington?
     
-*   _John Podhoretz_: Trump's Horrifying 'Take Three' on Charlottesville
+*   _E.J. Dionne_: Will There Ever Be a Breaking Point for Trump?
     
-*   _Stephen Presser_: Trump Is Right About Violence in Charlottesville
+*   _Daniel Payne_: Trump Spoke the Truth &. the Media Lost Its Mind
     
-*   _David Ignatius_: U.S. Ponders Path to Permanent Treaty with N. Korea
+*   _Robert Kuttner_: Bannon on Economic War w/China, Ethno-Nationalists
     
-*   _Sen. John McCain_: America Is Losing in Afghanistan
+*   _Victor Davis Hanson_: Silicon Valley Billionaires Are the New Robber Barons
     
-*   _Kevin Hulbert_: Dereliction of Duty II: The Afghanistan Years
+*   _Jan &. Dwoskin_: Tech Ups War on White Racists, Despite Free Speech Concerns
     
-*   _Raffi Khatchadourian_: Julian Assange, a Man Without a Country
+*   _Scott McConnell_: What Trump Got Right About Charlottesville
     
-*   _Danielle Ryan_: What If the DNC Russian Hack Was Really a Leak After All?
+*   _John Nichols_: Fire the Supremacists and Topple the Statues
     
-*   _Zach Maher_: What Swedes Give Up for 'Free' Money
+*   _Eddie Scarry_: Media Plead Ignorance of the 'Alt-Left'
     
 
 *   Previous
@@ -262,10 +262,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Schmitt Clears Way for Hawley in Mo. Senate Race
 *   A Defiant Trump's Combative Homecoming
-*   Trump to "Fake News": What About the Alt-Left That Came Charging?
-*   Trump's Charlottesville Response Tries Republican Lawmakers
+*   Trump Isolation Grows as Some CEOs, Republicans Pull Away
+*   Ingraham vs. Krauthammer on Trump's Press Conference
+*   Schmitt Clears Way for Hawley in Mo. Senate Race
 *   Melania Trump Inching Toward Spotlight
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve39
+    *   Disapprove57Disapprove +18
+*   President Trump Job ApprovalNPR/PBS/Marist
+    *   Approve38
+    *   Disapprove51Disapprove +13
 *   President Trump Job ApprovalGallup
-    *   Approve36
-    *   Disapprove58Disapprove +22
+    *   Approve37
+    *   Disapprove57Disapprove +20
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve40
-    *   Disapprove58Disapprove +18
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve42
-    *   Disapprove54Disapprove +12
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve35
-    *   Disapprove58Disapprove +23
+    *   Disapprove59Disapprove +19
 
 More Latest Polls In The News
 
+*   CNN's Blitzer: There Will Be Questions if Barcelona Terror Attack Was Copycat Of Charlottesville
+*   Tucker Carlson Rips Kristol: "Like A Slot Machine Junkie" Using Twitter To Say I Rationalized Slavery
+*   Sharpton: Defund The Jefferson Memorial, Asking Me To "Subsidize The Insult Of My Family"
+*   Acosta: Not Surprising Trump Is Espousing White Nationalist Views, Has Showed His True Colors
 *   Brewer vs. Navarro: Trump Denounced Hatred, Relentless Attacking Of Him Is Not Serving Country
-*   Navarro: For Too Long Republicans Have Looked The Other Way At "Misogynist Racist Bigoted Pig" Trump
-*   Ingraham vs. Krauthammer: Trump's Statements "Will Never Be Enough For The People Who Despise Him"
-*   Chuck Todd: Trump's Press Conference "Gave Me The Wrong Kind Of Chills," "I'm A Bit Shaken"
-*   Mike Cernovich: I Was Wrong About The Alt-Right. Duke &. Spencer's "Sole Purpose Is To Discredit Trump"
 
 *   Politics
 *   Policy
