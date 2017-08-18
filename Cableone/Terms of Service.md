@@ -166,4 +166,4 @@ Setting your location will allow us to provide you with the most accurate inform
 You are here: Set Your State >. Set Your Location Set Your Location **Hover over a system to see the ares served. Click the system to set your location.** System Areas Served
 
 State: -OR- Zipcode: Go State: City: -OR- Zipcode: Go Clear Existing Location We're sorry, cable one is not  
-available in this area. <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/984182947/?label=EbnnCKXt9QMQo-Gl1QM&amp;guid=ON&amp;script=0" />. </div>. Live Help is Online.  ×–One moment, we're paging an agent...ChatPowered by
+available in this area. <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/984182947/?label=EbnnCKXt9QMQo-Gl1QM&amp;guid=ON&amp;script=0" />. </div>. Live Help is Online.  ×–undefinedChatPowered by
