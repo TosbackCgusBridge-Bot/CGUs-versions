@@ -17,7 +17,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.263,86ǀ
+*   DAX 12.203,46ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -169,6 +169,8 @@ Anmelden
         *   Reisen
         *   Hotels
     
+*   Backstage
+
 *   English
     
     *   *   Front Page
@@ -179,7 +181,6 @@ Anmelden
         *   Zeitgeist
         *   BeyondTomorrow
         *   Newsletter
-
 *   SPIEGEL Plus
     
     *   *   Übersicht
