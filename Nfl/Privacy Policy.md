@@ -1,6 +1,3 @@
-*   BAL0-0MIA0-0Thu 7:00 PM ET
-*   BUF0-0PHI0-0Thu 7:00 PM ET
-*   TB0-0JAX0-0Thu 8:00 PM ET
 *   MIN0-0SEA0-0Fri 10:00 PM ET
 *   CAR0-0TEN0-0Sat 3:00 PM ET
 *   KC0-0CIN0-0Sat 7:00 PM ET
@@ -14,12 +11,17 @@
 *   ATL0-0PIT0-0Sun 4:00 PM ET
 *   NO0-0LAC0-0Sun 8:00 PM ET
 *   NYG0-0CLE0-0Mon 8:00 PM ET
+*   BAL31MIA7Final
+*   BUF16PHI20Final
+*   TB12JAX8Final
 
 *   News
 *   Scores
 *   Schedule
 *   Standings
 *   Video
+*   Fantasy
+
 *   Fantasy
 
 *   *   Game Pass
@@ -30,8 +32,6 @@
     *   Hall of Fame
     *   NFL Network
     *   Photos
-
-ScoresClose
 
 *   Tickets
 *   Shop
