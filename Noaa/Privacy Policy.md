@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Video: Could you survive a rip current? See how Weather Excessive heat, a 'silent killer' National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites Climate Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event Oceans &. Coasts Video: Could you survive a rip current? See how National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms International report confirms 2016 was warmest year on record for the globe AROUND NOAA // Ozone treaty taking a bite out of U.S. greenhouse gas emissions Early-season storms one indicator of active Atlantic hurricane season ahead U.S. had 2nd warmest year to date and 10th warmest July on record Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event
+Enter Search Terms 4 days left and counting until total solar #Eclipse2017 Get your weather forecast, viewing map, imagery and more for the historic August 21 event AROUND NOAA // Globe had 2nd warmest July and year to date on record Ready, set, eclipse! Consult our cloudiness map ahead of August 21 event Early-season storms one indicator of active Atlantic hurricane season ahead International report confirms 2016 was warmest year on record for the globe
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock image
+iStock
