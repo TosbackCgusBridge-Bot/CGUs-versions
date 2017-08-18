@@ -22,10 +22,10 @@
     30/36 est MPG3 Build Specials
 *   $15,950 as shown1 2017 Yaris iA $15,950 starting1  
     30/39 est MPG5 Build Specials
-*   $21,980 as shown1 2017 Corolla $18,500 starting1  
-    28/36 est MPG5 Build Specials
-*   $18,750 as shown1 2017 Corolla iM $18,750 starting1  
-    27/35 est MPG5 Build Specials
+*   $22,030 as shown1 2018 Corolla $18,550 starting1  
+    28/36 est MPG3 Build Specials
+*   $19,985 as shown1 2018 Corolla iM $18,850 starting1  
+    27/35 est MPG3 Build Specials
 *   $35,345 as shown1 2018 Camry $23,495 starting1  
     29/41 est MPG4 Build Specials
 *   $37,900 as shown1 2018 Avalon $33,500 starting1  
@@ -46,11 +46,11 @@
     23/30 est MPG5 Build Specials
 *   $41,150 as shown1 2017 Highlander $30,630 starting1  
     21/27 est MPG5 Build Specials
-*   $40,675 as shown1 2017 4Runner $34,210 starting1  
-    17/21 est MPG5 Build Specials
+*   $41,245 as shown1 2018 4Runner $34,410 starting1  
+    17/21 est MPG3 Build Specials
 *   $56,795 as shown1 2018 Sequoia $48,300 starting1  
     13/17 est MPG3 Build Specials
-*   $84,775 as shown1 2017 Land Cruiser $84,775 starting1  
+*   $83,665 as shown1 2018 Land Cruiser $83,665 starting1  
     13/18 est MPG5 Build Specials
 
 *   $32,250 as shown1 2018 Camry Hybrid $27,800 starting1  
@@ -81,12 +81,12 @@ View All Vehicles
 *   Build &. Price
 *   Local Specials
 *   Search Inventory
-*   KBB Trade-In Value
+*   find a dealer
 
-*   Request a Quote
+*   Contact A Dealer
 *   View Brochures
 *   Accessories
-*   Contact a Dealer
+*   KBB Trade-In-Value
 *   Compare Vehicles
 *   Toyota Certified Used Vehicles
 *   Find Your Match
@@ -97,9 +97,9 @@ View All Vehicles
 
 Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1  
 30/36 est MPG3 $15,950 as shown1 2017 Yaris iA $15,950 starting1  
-30/39 est MPG5 $21,980 as shown1 2017 Corolla $18,500 starting1  
-28/36 est MPG5 $18,750 as shown1 2017 Corolla iM $18,750 starting1  
-27/35 est MPG5 $35,345 as shown1 2018 Camry $23,495 starting1  
+30/39 est MPG5 $22,030 as shown1 2018 Corolla $18,550 starting1  
+28/36 est MPG3 $19,985 as shown1 2018 Corolla iM $18,850 starting1  
+27/35 est MPG3 $35,345 as shown1 2018 Camry $23,495 starting1  
 29/41 est MPG4 $37,900 as shown1 2018 Avalon $33,500 starting1  
 21/30 est MPG3 $26,255 as shown1 2017 86 $26,255 starting1  
 21/28 est MPG5 $40,830 as shown1 2017 Sienna $29,750 starting1  
@@ -108,9 +108,9 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 15/19 est MPG3 Crossovers &. SUVs $24,350 as shown1 2018 C-HR $22,500 starting1  
 27/31 est MPG12 $36,150 as shown1 2017 RAV4 $24,410 starting1  
 23/30 est MPG5 $41,150 as shown1 2017 Highlander $30,630 starting1  
-21/27 est MPG5 $40,675 as shown1 2017 4Runner $34,210 starting1  
-17/21 est MPG5 $56,795 as shown1 2018 Sequoia $48,300 starting1  
-13/17 est MPG3 $84,775 as shown1 2017 Land Cruiser $84,775 starting1  
+21/27 est MPG5 $41,245 as shown1 2018 4Runner $34,410 starting1  
+17/21 est MPG3 $56,795 as shown1 2018 Sequoia $48,300 starting1  
+13/17 est MPG3 $83,665 as shown1 2018 Land Cruiser $83,665 starting1  
 13/18 est MPG5 Hybrids &. FCV $32,250 as shown1 2018 Camry Hybrid $27,800 starting1  
 51/53 est MPG3 $42,800 as shown1 2018 Avalon Hybrid $37,500 starting1  
 40/39 est MPG3 $32,185 as shown1 2017 RAV4 Hybrid $29,030 starting1  
@@ -129,15 +129,15 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 *   Build &. Price
 *   Local Specials
 *   Search Inventory
-*   KBB Trade-In Value
+*   find a dealer
 
-*   Request a Quote
+*   Contact A Dealer
 *   Find a Dealer
 *   View Brochures
 *   Accessories
 *   Toyota Certified Used Vehicles
 *   Compare Vehicles
-*   Contact a Dealer
+*   KBB Trade-In-Value
 *   Find Your Match
 *   Buy Parts and Accessories
 
@@ -1175,4 +1175,3 @@ Help
 *   10\. 2017 Prius Prime EPA-estimated combined MPGe. Actual MPGe will vary depending upon driving conditions, how you drive and maintain your vehicle, and other factors. Battery capacity will decrease with time and use. For more information, see www.fueleconomy.gov.
 *   11\. 2016 EPA-estimated 67 city/67 highway/67 combined MPGe for Mirai and 312-mile driving range. Actual mileage will vary. Range measurement pursuant to SAE J2601 standards (ambient temperature: 20°C. hydrogen tank pressure when fueled: 70 MPa). Fueling time varies with hydrogen fueling pressure and ambient temperature.
 *   12\. 2018 C-HR preliminary 27 city/31 highway/29 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
-*   13\. 2018 EPA-estimated mileage. Actual mileage will vary.
