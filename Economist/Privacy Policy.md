@@ -154,18 +154,18 @@ In accordance with the UK Data Protection Act 1998, the following companies are 
 
   
 Data controller: The Economist Newspaper Limited   
-Registered Office:  25 St James's Street, London SW1A 1HG, UK  
+Registered Office:  The Adelphi, 1-11 John Adam Street, London, WC2N 6HT, UK  
 ICO Registered Number: Z7134617 Data Protection Registration Number: 236383  
 Other names: The World In, The Economist, European Voice, Economist.com, Intelligent Life
 
 Data controller:The Economist Intelligence Unit Limited  
-Registered Office: 25 St James's Street, London SW1A 1HG, UK  
+Registered Office:  The Adelphi, 1-11 John Adam Street, London, WC2N 6HT, UK  
 ICO Registered Number: Z6982453   
 Data Protection Registration Number: 1762617  
 Other names: EIU, Economist Intelligence Unit, Economist Conferences, Economist Corporate Network
 
 Data controller: EuroFinance Conferences Ltd  
-Registered Office: 25 St James's Street, London SW1A 1HG, UK  
+Registered Office:  The Adelphi, 1-11 John Adam Street, London, WC2N 6HT, UK  
 ICO Registered Number: Z4865712  
 Data Protection Registration Number: 3015764    
 Other names: EuroFinance Intelligence, EuroFinance Training
@@ -195,4 +195,4 @@ Please contact the customer services center, by telephone or email for you regio
 Last update—March 24th, 2016
 
 Copyright © The Economist Newspaper Limited 2017  
-Registered in England and Wales. No. 236383 | Registered office: 25 St James's Street, London, SW1A 1HG | VAT Reg No: GB 340 436 876
+Registered in England and Wales. No. 236383 | Registered office: The Adelphi, 1-11 John Adam Street, London, WC2N 6HT | VAT Reg No: GB 340 436 876
