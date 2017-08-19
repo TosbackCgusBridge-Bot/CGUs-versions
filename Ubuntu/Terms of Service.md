@@ -37,7 +37,7 @@ Download Ubuntu ›
 Further reading
 
 *   Security Team Weekly Summary: August 17, 2017 ›
-*   How to set up Kubernetes on any cloud and monitor your apps with Weave ›
+*   How to set up Kubernetes with conjure-up and monitor apps with Weave ›
 *   Ubuntu Foundations Development Summary – August 16, 2017 ›
 *   Kernel Team Summary- August 16, 2017 ›
 *   Ubuntu Server Development Summary – 15 Aug 2017 ›
