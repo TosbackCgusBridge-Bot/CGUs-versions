@@ -14,7 +14,7 @@
     *   Login
     *   |
     *   Register
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   0MY FAVORITES
 *   MY BAG
@@ -82,8 +82,7 @@
         
           
           
-        Give a Buckle Gift card Let These Tees Do The Talking and These Shoes Do The Walking  
-        Women's Tees and Shoes | Men's Tees and Shoes
+        Give a Buckle Gift card Got Denim On Your Mind? Check Out These New Arrivals! Women's Denim | Men's Denim
 *   Men
     *   *   Featured
         
@@ -142,8 +141,7 @@
         
           
           
-        Give a Buckle Gift card Let These Tees Do The Talking and These Shoes Do The Walking  
-        Women's Tees and Shoes | Men's Tees and Shoes
+        Give a Buckle Gift card Got Denim On Your Mind? Check Out These New Arrivals! Women's Denim | Men's Denim
 *   Kids
     *   *   Featured
         
@@ -165,8 +163,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Let These Tees Do The Talking and These Shoes Do The Walking  
-        Women's Tees and Shoes | Men's Tees and Shoes
+        Give a Buckle Gift card Got Denim On Your Mind? Check Out These New Arrivals! Women's Denim | Men's Denim
 *   Jeans
     *   *   Women's Jeans
         
@@ -196,8 +193,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Let These Tees Do The Talking and These Shoes Do The Walking  
-        Women's Tees and Shoes | Men's Tees and Shoes
+        Give a Buckle Gift card Got Denim On Your Mind? Check Out These New Arrivals! Women's Denim | Men's Denim
 *   New
     *   *   Featured New
         
@@ -235,8 +231,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Let These Tees Do The Talking and These Shoes Do The Walking  
-        Women's Tees and Shoes | Men's Tees and Shoes
+        Give a Buckle Gift card Got Denim On Your Mind? Check Out These New Arrivals! Women's Denim | Men's Denim
 *   Sale
     *   *   Women's Sale
         
@@ -279,8 +274,7 @@
         
           
           
-        Give a Buckle Gift card Let These Tees Do The Talking and These Shoes Do The Walking  
-        Women's Tees and Shoes | Men's Tees and Shoes
+        Give a Buckle Gift card Got Denim On Your Mind? Check Out These New Arrivals! Women's Denim | Men's Denim
 
 SearchSubmitSearchSubmit × ClosePrivacy &. Security
 
