@@ -1,8 +1,4 @@
-Your browser security is at risk.
-
-Update Firefox now to protect yourself from the latest malware.
-
-Update nowClose Menu Mozilla
+Menu Mozilla
 
 *   Firefox
 *   Pocket
@@ -57,12 +53,12 @@ Firefox Privacy Close
     Get the only browser built for people, not profit.
     
     *   About Firefox
-    *   Desktop Browser
-    *   iOS Browser
-    *   Android Browser
-    *   Focus Browser
+    *   Desktop
+    *   iOS
+    *   Android
+    *   Focus
     *   Features
-    *   SupportFaster Browser Fast, Responsive, Reliable: A Browser for the Multi-Tab Age Better Browsing Smooth Scrolling: How a Web Browser Removes Jank
+    *   Support
 *   Pocket
     
     When you find something you want to view later, put it in Pocket.
