@@ -2,7 +2,7 @@ Artboard 1Pink\_Nation\_Member Privacy &. Security
 
 Effective Date: March 9, 2017
 
-This privacy policy explains what personal information is collected through our websites and online services, how that information is used, to whom it's disclosed, and how it's safeguarded. Unless indicated otherwise, this policy applies only to personal information collected through the websites, microsites, mobile applications, and other online services of our brands and lines of business that expressly adopt, and display or link to, this policy (collectively, the “Services”). These brands and lines of business include Victoria's Secret, Victoria's Secret Pink, and Pink Nation. By "personal information" we mean information that can be used directly to identify you (including name, home address, and email address), as well as other information (like tastes and preferences) when coupled with your identifying information. We may refer to Victoria's Secret, Victoria's Secret Pink (or "Pink"), and Pink Nation (by Pink) as "we," "us," or "our" throughout this privacy policy.
+This privacy policy explains what personal information is collected through our websites and online services, how that information is used, to whom it's disclosed, and how it's safeguarded. Unless indicated otherwise, this policy applies only to personal information collected through the websites, microsites, mobile applications, and other online services of our brands and lines of business that expressly adopt, and display or link to, this policy (collectively, the "Services"). These brands and lines of business include Victoria's Secret, Victoria's Secret Pink, and Pink Nation. By "personal information" we mean information that can be used directly to identify you (including name, home address, and email address), as well as other information (like tastes and preferences) when coupled with your identifying information. We may refer to Victoria's Secret, Victoria's Secret Pink (or "Pink"), and Pink Nation (by Pink) as "we," "us," or "our" throughout this privacy policy.
 
 This privacy policy answers these questions:
 
@@ -133,7 +133,7 @@ We may share information about you with third parties, as described below, and a
     
 3.  3\.  Other Marketers
     
-    We may share your name, postal address, and summary purchase information with other merchants and merchant exchanges. Other merchants may, in turn, use this information to send you offers for their products and services. If you don't want this information shared with these merchants and exchanges, please click here_, select “Nondisclosure of Personal Information Request” for the Email Subject and complete the form._.
+    We may share your name, postal address, and summary purchase information with other merchants and merchant exchanges. Other merchants may, in turn, use this information to send you offers for their products and services. If you don't want this information shared with these merchants and exchanges, please click here, select “Nondisclosure of Personal Information Request” for the Email Subject and complete the form..
     
 4.  4\.  Law Enforcement and Emergency Response
     
@@ -158,17 +158,17 @@ What choices do you have over how your information is used?
     
     If you've signed up for mobile text messaging offers (e.g., from Pink) but later decide you no longer wish to receive these offers, simply follow the opt-out instructions included in the mobile message.
     
-3\.  Mobile Push Notifications/Alerts
-
-With your consent, we may send push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
-
+3.  3\.  Mobile Push Notifications/Alerts
+    
+    With your consent, we may send push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
+    
 4.  4\.  Location Information
     
     You may have the ability to turn location-based services on and off by adjusting the settings of your Internet browser or mobile device or, for some devices, by revoking permission for our mobile apps to access your location information.
     
 5.  5\.  Postal Mail: Catalogs
     
-    If you'd like to specify your preferences for our postal mail, simply follow the instructions on the mailer, or dial 1-800-411-5116. To reduce postal mail **click here**.
+    If you'd like to specify your preferences for our postal mail, simply follow the instructions on the mailer, or dial 1-800-411-5116. To reduce postal mail click here.
     
 6.  6\.  Victoria's Secret Pink Nation
     
