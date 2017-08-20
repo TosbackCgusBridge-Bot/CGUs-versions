@@ -233,4 +233,4 @@ Hotels.com and the Hotels.com logo are trademarks or registered trademarks of Ho
 
 \* Learn more about Hotels.com® Rewards
 
-<img src="https://hrum.hotelsapi.io/1x1.gif?uijs=0&u=478640">
+<img src="https://hrum.hotelsapi.io/1x1.gif?uijs=0&u=102393">
