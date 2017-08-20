@@ -296,11 +296,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   GOP Senate Candidate Shiva Ayyadurai Called For Peace And Love At Boston "Free Speech Rally"
+*   Maher: Speech Under Attack. Trump's "Totalitarian Tourettes" vs. Left's "Anti-Free Speech Brigade"
 *   Gingrich: Trump More Isolated Than He Realizes, Needs "Serious Changes" For A Stable Presidency
+*   Karl Rove: Bannon Interview An Affront To President Trump's Leadership, Full Of Himself
 *   Michael Eric Dyson: Antifa, Black Lives Matter "Preserving The Fabric Of America"
-*   Tucker Carlson Rips Kristol: "Like A Slot Machine Junkie" Using Twitter To Say I Rationalized Slavery
-*   Sharpton: Defund The Jefferson Memorial, Asking Me To "Subsidize The Insult Of My Family"
-*   CNN's Blitzer: There Will Be Questions if Barcelona Terror Attack Was Copycat Of Charlottesville
 
 *   Politics
 *   Policy
