@@ -76,7 +76,7 @@
 *   2018 RAV4 View More Info
 *   FT-4X Concept View More Info
 
-View All Vehicles
+Compare vs. The Competition
 
 *   Build &. Price
 *   Local Specials
