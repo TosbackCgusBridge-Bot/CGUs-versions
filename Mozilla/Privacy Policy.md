@@ -1,4 +1,8 @@
-Menu Mozilla
+Your browser security is at risk.
+
+Update Firefox now to protect yourself from the latest malware.
+
+Update nowClose Menu Mozilla
 
 *   Firefox
 *   Pocket
