@@ -1,6 +1,6 @@
-Your browser security is at risk.
+Time to browse better!
 
-Update Firefox now to protect yourself from the latest malware.
+Get the latest version of Firefox for extra speed and safety.
 
 Update nowClose Menu Mozilla
 
