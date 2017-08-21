@@ -1,8 +1,3 @@
-*   LA•17OAK143rd • 08:46
-*   DEN•23SF74th • 15:00
-*   CHI17ARI•144th • 09:28
-*   ATL0-0PIT0-0August 20, 2017 4:00:00 PM EDT ET
-*   NO0-0LAC0-0August 20, 2017 8:00:00 PM EDT ET
 *   NYG0-0CLE0-0August 21, 2017 8:00:00 PM EDT ET
 *   BAL31MIA7Final
 *   BUF16PHI20Final
@@ -14,6 +9,11 @@
 *   NYJ6DET16Final
 *   GB21WAS17Final
 *   NE23HOU27Final
+*   LA24OAK21Final
+*   DEN33SF14Final
+*   CHI24ARI23Final
+*   ATL13PIT17Final
+*   NO13LAC7Final
 
 *   News
 *   Scores
@@ -33,11 +33,6 @@
 *   NFL Network
 *   Photos
 
-*   LA•17OAK143rd • 08:46
-*   DEN•23SF74th • 15:00
-*   CHI17ARI•144th • 09:28
-*   ATL0-0PIT0-0August 20, 2017 4:00:00 PM EDT ET
-*   NO0-0LAC0-0August 20, 2017 8:00:00 PM EDT ET
 *   NYG0-0CLE0-0August 21, 2017 8:00:00 PM EDT ET
 *   BAL31MIA7Final
 *   BUF16PHI20Final
@@ -49,6 +44,11 @@
 *   NYJ6DET16Final
 *   GB21WAS17Final
 *   NE23HOU27Final
+*   LA24OAK21Final
+*   DEN33SF14Final
+*   CHI24ARI23Final
+*   ATL13PIT17Final
+*   NO13LAC7Final
 
 *   News
 *   Scores
