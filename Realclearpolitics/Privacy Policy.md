@@ -296,11 +296,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Castellanos: This Week, Trump Supporters Saw Democrats "Paint Us All As Nazis"
+*   Civil Rights Activist Andrew Young: The Problem Is Trump Is "Still Thinking Nationally -- As A Nationalist"
+*   Jordan Peterson on Identity Politics, Protests: "Drop Your Cult-Like Affiliations" And Sort Out Your Own Life First
 *   GOP Senate Candidate Shiva Ayyadurai Called For Peace And Love At Boston "Free Speech Rally"
 *   Maher: Speech Under Attack. Trump's "Totalitarian Tourettes" vs. Left's "Anti-Free Speech Brigade"
-*   Gingrich: Trump More Isolated Than He Realizes, Needs "Serious Changes" For A Stable Presidency
-*   Karl Rove: Bannon Interview An Affront To President Trump's Leadership, Full Of Himself
-*   Michael Eric Dyson: Antifa, Black Lives Matter "Preserving The Fabric Of America"
 
 *   Politics
 *   Policy
