@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms 2 days left and counting until total solar #Eclipse2017 Get your weather forecast, viewing map, imagery and more for the historic August 21 event AROUND NOAA // Globe had 2nd warmest July and year to date on record NOAA scientists get rare chance to study effects of August 21 eclipse on weather Early-season storms one indicator of active Atlantic hurricane season ahead
+Enter Search Terms 1 day left until total solar #Eclipse2017 Get your weather forecast, viewing map, imagery and more for the historic August 21 event AROUND NOAA // Globe had 2nd warmest July and year to date on record NOAA scientists get rare chance to study effects of August 21 eclipse on weather Early-season storms one indicator of active Atlantic hurricane season ahead
 
 *   About our agency
 *   News and features
