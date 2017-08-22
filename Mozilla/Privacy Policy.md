@@ -1,8 +1,4 @@
-Time to browse better!
-
-Get the latest version of Firefox for extra speed and safety.
-
-Update nowClose Menu Mozilla
+Menu Mozilla
 
 *   Firefox
 *   Pocket
