@@ -1,4 +1,3 @@
-*   NYG0-0CLE0-0August 21, 2017 8:00:00 PM EDT ET
 *   BAL31MIA7Final
 *   BUF16PHI20Final
 *   TB12JAX8Final
@@ -14,6 +13,7 @@
 *   CHI24ARI23Final
 *   ATL13PIT17Final
 *   NO13LAC7Final
+*   NYG6CLE10Final
 
 *   News
 *   Scores
@@ -33,7 +33,6 @@
 *   NFL Network
 *   Photos
 
-*   NYG0-0CLE0-0August 21, 2017 8:00:00 PM EDT ET
 *   BAL31MIA7Final
 *   BUF16PHI20Final
 *   TB12JAX8Final
@@ -49,6 +48,7 @@
 *   CHI24ARI23Final
 *   ATL13PIT17Final
 *   NO13LAC7Final
+*   NYG6CLE10Final
 
 *   News
 *   Scores
@@ -246,4 +246,9 @@ If you have any questions about this Privacy Policy or the privacy practices of 
 NFL Digital Media Group  
 345 Park Avenue, 5th Floor  
 New York, NY 10154  
-Attn: Website Privacy Policy
+Attn: Website Privacy Policy  
+
+ More information &. opt-out options »What is interest based advertising »Ford Privacy Policy »Privacy Controls by Evidon, Inc.\[ X \]
+
+This ad was delivered on behalf of Ford Motor Company. It may have been matched to your interests based on your browsing activity.  
+The Ford Motor Company is committed to providing you with transparency and control over the types of online ads you receive from us.
