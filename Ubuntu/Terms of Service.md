@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Git Ubuntu: More on the imported repositories ›
+*   LXD: Weekly status #11 ›
+*   conjure-up dev summary: aws native integration, vsphere <3, and ADDONS ›
+*   MAAS Development Summary – August 21, 2017 ›
 *   Security Team Weekly Summary: August 17, 2017 ›
-*   How to set up Kubernetes with conjure-up and monitor apps with Weave ›
-*   Ubuntu Foundations Development Summary – August 16, 2017 ›
-*   Kernel Team Summary- August 16, 2017 ›
-*   Ubuntu Server Development Summary – 15 Aug 2017 ›
