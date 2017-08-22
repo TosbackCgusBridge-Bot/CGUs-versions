@@ -17,7 +17,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.165,19ǀ
+*   DAX 12.065,99ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -71,6 +71,7 @@ Anmelden
     
     *   *   Übersicht
         *   Fußball-Liveticker
+        *   Spielerindex SPIX
         *   Fußball-News
         *   Champions League
         *   Fußball-Tippspiel
