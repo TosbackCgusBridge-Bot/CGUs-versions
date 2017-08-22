@@ -39,11 +39,7 @@ Show Search Bar
 *   Events
     *   Virtual Conferences
     *   Webcasts
-    *   RiskSec NY 2017
-    *   RiskSec Toronto 2017
-    *   SC Awards 2017
-    *   RiskSec Press Release
-    *   SC Reboot Leadership Awards 2017
+    *   SC Awards 2018
 *   Whitepapers
 
 *   Log in
