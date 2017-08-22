@@ -106,8 +106,8 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Lyme Disease Vaccine in the Works
-    *   Fleas Test Positive for Plague
+    *   Plague: Scary but Rare
+    *   Could City Lights Raise Breast Cancer Risk?
     *   Essential Oils: Natural Doesn't Mean Risk-Free
     *   Study Says Artificial Sweeteners Trick the Brain
     *   Colon Cancer Deaths Up for White Adults Under 55
@@ -440,7 +440,7 @@ WebMD Policy Last updated on December 30, 2016 © 2016 WebMD, LLC. All rights re
 
 Some of these might surprise you.
 
-End Cancer With Clinical Trials Clinical trial access for patients ADVERTISEMENT **MD Anderson** Depressed, Guilty Feelings After Eating?
+Success in the Form of Clinical Trials Clinical trial access for patients ADVERTISEMENT **MD Anderson** Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
