@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Maggie Haberman_: Bannon Out at White House After Turbulent Run
+*   _Marina Koren_: What It's Like to Chase Eclipses for 60 Years
     
-*   _Kimberly Strassel_: The 'Resistance' Goes Lower
+*   _Eric Metaxas_: Are Solar Eclipses Proof of God?
     
-*   _Jonathan Alter_: Resistance Isn't Futile: Six Ways Trump Can Be Contained
+*   _Emily Badger_: The Showdown Over How We Define Fringe Views in America
     
-*   _Roger Stone_: Why Bannon's Time Is Up
+*   _Daniel Jones_: Trump Is the Real Anti-Fascist
     
-*   _Ben Smith_: Steve Bannon's Fantasy, Donald Trump's Reality
+*   _Russ Feingold_: How Republicans Do the Bidding of White Supremacists
     
-*   _Peggy Noonan_: Trump's Tangle of Rhetorical Inadequacy
+*   _Jonah Goldberg_: When Trumpism Hits the Fan: The 'Last Straw'?
     
-*   _Dov Fischer_: In His Inartful Way, Trump Was Absolutely Right
+*   _James Freeman_: Trump's Demise Has Been Predicted Often the Last 2 Years
     
-*   _Rosie Gray_: Erik Prince's Plan to Privatize the War in Afghanistan
+*   _Amie Parnes_: Democrats Long for Obama's Return
     
-*   _David Adler_: Countering Chinese Mercantilism
+*   _Barry Posen_: Time to Make Afghanistan Someone Else's Problem
     
-*   _Ian Bremmer_: U.S. Can Win Trade War With China, But It Shouldn't Try
+*   _David Andelman_: How the U.S. Can Still Win in Afghanistan
     
-*   _James Freeman_: The Slippery Slopes of Iceland
+*   _Angelo Codevilla_: Should Presidents Follow Expert Military Advice?
     
-*   _Simon Jenkins_: The White Van Has Become Terrorists' Guided Missile
+*   _Byron York_: On Afghanistan, Trump Asks: Why Are We Still There?
     
-*   _Harry Kazianis_: Barcelona Attack: Why the War on Terror Is Far From Over
+*   _Charles Blow_: Failing All Tests of the Presidency
     
-*   _Maria Svart_: Confederate Monuments Must Go Immediately
+*   _Daniel Lee_: Political Class Unites in Attempt to Keep Broken Status Quo
     
-*   _Wesley Pruden_: Democrats Search for Another Lost Cause
+*   _Albert Hunt_: Democrats Need a Message, Not New Policies
     
-*   _Eugene Robinson_: GOP Leaders Must Overcome Timidity and Denounce Trump
+*   _Jillian Melchior_: Mizzou Pays a Price for Appeasing the Left
     
-*   _Patrick Buchanan_: America's Second Civil War
+*   _Jonathan Chait_: Trump's White Nationalist House
     
-*   _Richard Hasen_: Speech in America Is Fast, Cheap &. Out of Control
+*   _Stephen Moore_: Donald Trump's Real Record on Race
     
-*   _Dave Shiflett_: Why Not Put Truth on a Pedestal?
+*   _Richard Haass_: The End of Asia's Strategic Miracle?
     
-*   _Fuller_: 'Antifa' Growing as Force on the Left
+*   _Graham Allison_: Playing Chicken With China
     
-*   _Jonah Goldberg_: Fighting Nazis Doesn't Make 'Antifa' the Good Guys
+*   _David Byler_: Can Kid Rock Become Michigan's Next Senator?
     
-*   _Jamelle Bouie_: White Americans Have to Make a Choice
+*   _Sarlin &. Seitz-Wald_: Democrats Could Win 50 House Seats. Here's How
     
-*   _Pete Kasperowicz_: Media Working Overtime to Prove Trump Is a Racist
+*   _Katie Kieffer_: Wake Up--Mitch &. Paul! Stop Snoozing, Keep Your Promises
     
-*   _Julius Krein_: I Voted for Trump. And I Sorely Regret It.
+*   _Emily Jashinsky_: Reminder: The Southern Poverty Law Center Is a Fraud
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Delaney, a "Different Kind of Democrat," Sets Sights on WH
+*   Steve Bannon Out as White House Chief Strategist in Latest Upheaval
+*   Can Kid Rock Become Michigan's Next Senator?
+*   Castellanos: Trump Supporters Saw Dems "Paint Us All as Nazis"
 *   Trump Isolation Grows as Some CEOs, Republicans Pull Away
-*   Sen. Corker Calls for "Radical Changes" From the White House
-*   A Defiant Trump's Combative Homecoming
-*   Schmitt Clears Way for Hawley in Mo. Senate Race
+*   Delaney, a "Different Kind of Democrat," Sets Sights on WH
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalABC News/Wash Post
+    *   Approve37
+    *   Disapprove58Disapprove +21
 *   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove57Disapprove +19
+    *   Approve35
+    *   Disapprove59Disapprove +24
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve42
     *   Disapprove57Disapprove +15
-*   President Trump Job ApprovalNPR/PBS/Marist
-    *   Approve38
-    *   Disapprove51Disapprove +13
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve39
-    *   Disapprove57Disapprove +18
+*   Direction of CountryRasmussen Reports
+    *   Right Direction30
+    *   Wrong Track64Wrong Track +34
 
 More Latest Polls In The News
 
+*   Full Replay/Transcript, President Trump's Afghanistan Address: "We're Not Nation-Building, We're Killing Terrorists"
+*   Woodward: Trump Does Not Understand What It's Like To Be Black, Hispanic Or A Minority
 *   Castellanos: This Week, Trump Supporters Saw Democrats "Paint Us All As Nazis"
 *   Civil Rights Activist Andrew Young: The Problem Is Trump Is "Still Thinking Nationally -- As A Nationalist"
 *   Jordan Peterson on Identity Politics, Protests: "Drop Your Cult-Like Affiliations" And Sort Out Your Own Life First
-*   GOP Senate Candidate Shiva Ayyadurai Called For Peace And Love At Boston "Free Speech Rally"
-*   Maher: Speech Under Attack. Trump's "Totalitarian Tourettes" vs. Left's "Anti-Free Speech Brigade"
 
 *   Politics
 *   Policy
