@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Marina Koren_: What It's Like to Chase Eclipses for 60 Years
+*   _Peter Bergen_: For Trump's Generals, This Is Personal
     
-*   _Eric Metaxas_: Are Solar Eclipses Proof of God?
+*   _Monica Showalter_: Trump Rejects Bush/Obama Approach in Afghanistan
     
-*   _Emily Badger_: The Showdown Over How We Define Fringe Views in America
+*   _Amy Sorkin_: Trump's Confused and Troubling Afghanistan Speech
     
-*   _Daniel Jones_: Trump Is the Real Anti-Fascist
+*   _Susan Glasser_: America Is Out of Ideas in Afghanistan
     
-*   _Russ Feingold_: How Republicans Do the Bidding of White Supremacists
+*   _Sandra Erwin_: Afghanistan Strategy a Defining Moment for Mattis
     
-*   _Jonah Goldberg_: When Trumpism Hits the Fan: The 'Last Straw'?
+*   _Conrad Black_: The 'Resistance' Loses Its Senses
     
-*   _James Freeman_: Trump's Demise Has Been Predicted Often the Last 2 Years
+*   _Corey Robin_: Will Steve Bannon's War Tear Apart the Republican Party?
     
-*   _Amie Parnes_: Democrats Long for Obama's Return
+*   _Clio Chang_: Yes, Democrats Have a Fundraising Problem
     
-*   _Barry Posen_: Time to Make Afghanistan Someone Else's Problem
+*   _Byron York_: At Paul Ryan Town Hall, Not a Word on Russia
     
-*   _David Andelman_: How the U.S. Can Still Win in Afghanistan
+*   _Michael Socolow_: One Year Without Gawker When We've Needed It Most
     
-*   _Angelo Codevilla_: Should Presidents Follow Expert Military Advice?
+*   _Ben Domenech_: Gawker Is Dead and Deserved to Die
     
-*   _Byron York_: On Afghanistan, Trump Asks: Why Are We Still There?
+*   _Simendinger &. Arkin_: In Pivot, Trump Vows to 'Win' in Afghanistan
     
-*   _Charles Blow_: Failing All Tests of the Presidency
+*   _Vice President Mike Pence_: New Afghan Strategy Will Undo Past Failures
     
-*   _Daniel Lee_: Political Class Unites in Attempt to Keep Broken Status Quo
+*   _Fred Kaplan_: Killing Terrorists Is Not a Strategy
     
-*   _Albert Hunt_: Democrats Need a Message, Not New Policies
+*   _Ned Ryun_: With Bannon's Exit, Trump's Base Loses Powerful Voice
     
-*   _Jillian Melchior_: Mizzou Pays a Price for Appeasing the Left
+*   _Walter Russell Mead_: Steve Bannon Isn't Going Away
     
-*   _Jonathan Chait_: Trump's White Nationalist House
+*   _Eric Foner_: Confederate Statues and 'Our' History
     
-*   _Stephen Moore_: Donald Trump's Real Record on Race
+*   _Victor Davis Hanson_: Our War Against Memory
     
-*   _Richard Haass_: The End of Asia's Strategic Miracle?
+*   _David Remnick_: The Divider: Donald Trump's True Allegiances
     
-*   _Graham Allison_: Playing Chicken With China
+*   _Scott McKay_: The Terrorists of the Left
     
-*   _David Byler_: Can Kid Rock Become Michigan's Next Senator?
+*   _Caitlin Huey-Burns_: Feud With Trump Shifts to Jeff Flake's Home Turf in Arizona
     
-*   _Sarlin &. Seitz-Wald_: Democrats Could Win 50 House Seats. Here's How
+*   _Elvia Diaz_: Be Careful, Latinos. Trump Is In Phoenix to Provoke Us
     
-*   _Katie Kieffer_: Wake Up--Mitch &. Paul! Stop Snoozing, Keep Your Promises
+*   _Rep. Trent Franks_: Why Trump Should Pardon America's Toughest Sheriff
     
-*   _Emily Jashinsky_: Reminder: The Southern Poverty Law Center Is a Fraud
+*   _Trudy Rubin_: After Speech, Afghanistan Is Trump's War Now
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Steve Bannon Out as White House Chief Strategist in Latest Upheaval
+*   Feud With Trump Shifts to Flake's Home Turf, Ariz. Race
+*   In Pivot, Trump Vows to "Win" in Afghanistan
+*   Trump: "We Are Not Nation-Building Again. We Are Killing Terrorists."
 *   Can Kid Rock Become Michigan's Next Senator?
-*   Castellanos: Trump Supporters Saw Dems "Paint Us All as Nazis"
-*   Trump Isolation Grows as Some CEOs, Republicans Pull Away
-*   Delaney, a "Different Kind of Democrat," Sets Sights on WH
+*   Steve Bannon Out as White House Chief Strategist in Latest Upheaval
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalABC News/Wash Post
-    *   Approve37
-    *   Disapprove58Disapprove +21
+*   Virginia Governor - Gillespie vs. NorthamRoanoke College\*
+    *   Northam43
+    *   Gillespie36Northam +7
 *   President Trump Job ApprovalGallup
     *   Approve35
-    *   Disapprove59Disapprove +24
+    *   Disapprove60Disapprove +25
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve42
-    *   Disapprove57Disapprove +15
-*   Direction of CountryRasmussen Reports
-    *   Right Direction30
-    *   Wrong Track64Wrong Track +34
+    *   Approve43
+    *   Disapprove56Disapprove +13
+*   President Trump Job ApprovalABC News/Wash Post
+    *   Approve39
+    *   Disapprove58Disapprove +19
 
 More Latest Polls In The News
 
-*   Full Replay/Transcript, President Trump's Afghanistan Address: "We're Not Nation-Building, We're Killing Terrorists"
-*   Woodward: Trump Does Not Understand What It's Like To Be Black, Hispanic Or A Minority
-*   Castellanos: This Week, Trump Supporters Saw Democrats "Paint Us All As Nazis"
-*   Civil Rights Activist Andrew Young: The Problem Is Trump Is "Still Thinking Nationally -- As A Nationalist"
-*   Jordan Peterson on Identity Politics, Protests: "Drop Your Cult-Like Affiliations" And Sort Out Your Own Life First
+*   Trump Clarifies Charlottesville Response: "Only People Giving A Platform To Hate Groups Is The Media Itself"
+*   Scott Adams: Rep. Jackie Speier Must Have Real Evidence That President Trump Is Crazy, Right?
+*   Carolla: Do People Really Care About White Supremacist Rallies? Media, CNN Link Everything To Trump
+*   CNN's Cuomo vs. Haley: Citizen And Candidate Trump "Would Have Hated" President Trump's Afghanistan Speech
+*   Bret Stephens: Tillerson Perhaps Worst Secretary Of State Ever, "Bannonite" Approach To 'Deep State'
 
 *   Politics
 *   Policy
