@@ -254,12 +254,6 @@ Quote &. save today!
 
 Zip Code Auto 
 
-Bundle and save 5%† or more on auto!
-
-*   Auto + Home
-*   Auto + Renters
-*   Auto + Condo
-
 *   Auto
 *   Auto Financing
 *   Auto Refinancing
@@ -274,23 +268,23 @@ Bundle and save 5%† or more on auto!
 *   Health
 *   Homeowners
 *   ID Theft
-*   Life
 
+*   Life
 *   Mechanical Repair
 *   Mexico Auto
 *   Mobile Home
 *   Motorcycle/ATV
 *   Pet
+
 *   RV/Trailer
 *   Renters
-
 *   Segway
 *   Snowmobile
 *   Travel
 *   Wedding &. Event
 
-Auto + HomeAuto + RentersAuto + CondoAutoAuto FinancingAuto RefinancingBoat/PWCBusinessClassic CarCommercialCondoElectronic DeviceFloodHealthHomeownersID TheftLifeMechanical RepairMexico AutoMobile HomeMotorcycle/ATVPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event
+AutoAuto FinancingAuto RefinancingBoat/PWCBusinessClassic CarCommercialCondoElectronic DeviceFloodHealthHomeownersID TheftLifeMechanical RepairMexico AutoMobile HomeMotorcycle/ATVPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event
 
 Loading
 
- <iframe style="display:none;" src="https://ad.atdmt.com/m/a.html;m=11247200770992;noscript=1?conversionname=PROGCOM&amp;U4=d0d111606a3f41f18259c597cb5afde9&amp;U16=https%3A%2F%2Fwww.progressive.com%2Fprivacy%2F&amp;U12=undefined&amp;U6=Desktop&amp. U3=&amp;U20=">. </iframe>.
+ <iframe style="display:none;" src="https://ad.atdmt.com/m/a.html;m=11247200770992;noscript=1?conversionname=PROGCOM&amp;U4=04487a2b7cb54940a1cc2025ad157d4e&amp;U16=https%3A%2F%2Fwww.progressive.com%2Fprivacy%2F&amp;U12=undefined&amp;U6=Desktop&amp. U3=&amp;U20=">. </iframe>.
