@@ -94,7 +94,13 @@ You represent and warrant that your User Content is not subject to any confident
 
 Submission of Ideas
 
-Separate and apart from the User Content you provide, you can submit questions, comments, feedback, suggestions, ideas, plans, notes, drawings, original or creative materials or other information about Starbucks, our Sites and our products (collectively, "Ideas"). Ideas, whether posted to the Sites or provided to Starbucks by email or otherwise are entirely voluntary, non-confidential, gratuitous and non-committal. Starbucks shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use and dissemination of Ideas for any purpose, commercial or otherwise, without acknowledgment or compensation to you. Please do not send us Ideas if you expect to be paid or want to continue to own or claim rights in them. your Ideas might be great, but we may have already had the same or similar idea and we do not want disputes.
+Separate and apart from the User Content you provide, you may submit questions, comments, feedback, suggestions, ideas, improvements, plans, notes, drawings, original or creative materials or other information about Starbucks, our Sites and our products (collectively, "Ideas") either through the mystarbucksidea.com portal or otherwise. The Ideas you submit are voluntary, non-confidential, gratuitous and non-committal. Please do not send us Ideas if you expect to be paid or want to continue to own or claim rights in them. your Ideas might be great, but we may have already had the same or similar idea and we do not want disputes. You must also inform us if you have a pending or registered patent relative to the Idea.
+
+You represent and warrant that your Idea is not subject to any confidentiality obligations or third party intellectual property encumbrances and that you own and control all of the rights to the Idea and have the authority to grant the rights to Starbucks that you grant herein.
+
+By submitting your Idea, you grant Starbucks and its designees a worldwide, perpetual, irrevocable, non-exclusive, fully-paid up and royalty free license to use, sell, reproduce, prepare derivative works, combine with other works, alter, translate, distribute copies, display, perform, publish, license or sub-license the Idea and shall be entitled to the unrestricted use and dissemination of Ideas for any purpose, commercial or otherwise, without acknowledgment or compensation to you. By submitting your Idea, you hereby release Starbucks and its agents and employees from any claims that such use violates any of your rights.
+
+Starbucks shall own exclusive rights, including all intellectual property rights, to any work it creates or has created from the Idea or a similar idea of its own.
 
 Links to Sites
 
