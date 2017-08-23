@@ -246,9 +246,4 @@ If you have any questions about this Privacy Policy or the privacy practices of 
 NFL Digital Media Group  
 345 Park Avenue, 5th Floor  
 New York, NY 10154  
-Attn: Website Privacy Policy  
-
- More information &. opt-out options »What is interest based advertising »Ford Privacy Policy »Privacy Controls by Evidon, Inc.\[ X \]
-
-This ad was delivered on behalf of Ford Motor Company. It may have been matched to your interests based on your browsing activity.  
-The Ford Motor Company is committed to providing you with transparency and control over the types of online ads you receive from us.
+Attn: Website Privacy Policy
