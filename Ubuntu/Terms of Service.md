@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   This Week In Snapcraft ›
+*   Week 33 of 2017 in snapcraft ›
+*   Ubuntu Server Development Summary – 22 Aug 2017 ›
+*   SnapRoute and Canonical create new switch stack for network operators ›
 *   Git Ubuntu: More on the imported repositories ›
-*   LXD: Weekly status #11 ›
-*   conjure-up dev summary: aws native integration, vsphere <3, and ADDONS ›
-*   MAAS Development Summary – August 21, 2017 ›
-*   Security Team Weekly Summary: August 17, 2017 ›
