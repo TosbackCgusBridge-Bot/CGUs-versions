@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. Online, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 12%  12%  12%  12% 
+What is PeekScore? Public Records &. Background Checks 31%  31%  31%  30% 
 
 *   Privacy Policy - Instant Search View Now
     
@@ -119,7 +119,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 12%  Twitter 2% 
+Facebook 30%  Twitter 2% 
 
 *   Cristiano Ronaldo - Cristiano
     
@@ -165,7 +165,7 @@ Facebook 12%  Twitter 2% 
     
 *   Show Less ...
 
-Pinterest 12%  Wikipedia 2% 
+Pinterest 30%  Wikipedia 2% 
 
 *   P3P
     
