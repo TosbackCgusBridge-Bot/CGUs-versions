@@ -233,21 +233,21 @@ Print | Citation &. Date
 
 More to Explore   You might also like
 
-*   The 30 Most Expensive Colleges In America Worldation
-*   Why The 60-Minute Workout Is Dead Anytime Fitness
-*   The Most Amazing Baby Products You Can Order Online Today Geeky Camel
+*   Stop These 6 Habits Right Now If You Want to Be Healthier Anytime Fitness
+*   What Are Hip Dips And Why Are They a Thing? Anytime Fitness
+*   Reinventing Utilization Management to Bring Value to the Point of Care McKesson
 
-*   Universities switching to a paperless system are seeing big changes for the better The Chronicle of Higher Education
-*   Homeowners Born Before 1985 Get A Big Pay Day clevereconomy.com
-*   Here's How You Can Pay Off Your Credit Card Debt Faster Lending Club
+*   Discover How A Former Coffee Shop Employee Quit Living Paycheck To Paycheck And Now Lives A Freelance Freedom Lifestyle… – Inspiring Business Stories www.inspiring-business-stories.com
+*   Mercedes Has Never Been Sleeker: See the New GLC Coupe The Truth About Cars
+*   What kind of car can you buy for under $10K? Cars.com
 
 Sponsored by Today's Headlines
 
-Why Hardly Anyone Uses Employee Assistance Programs
+When Is It OK to Drive in the Emergency Lane?
 
-Why Comedians Name Their Characters and Shows After Themselves
+Don't Toss Your Eclipse Glasses — Give Them a Second Life Instead
 
-What Really Happened to Hitler?
+Wasted Bread Is Being Brewed Into Craft Beer
 
 About Us
 
@@ -263,13 +263,13 @@ About Us
 
 More to Explore   DON'T MISS
 
-*   How Beats Audio Works
+*   10 Myths About Video Games
 
-*   The Ultimate Romantic Kissing Spots in America Quiz
+*   How the Hunt for D.B. Cooper Worked
 
-*   Top 10 Influential Business Models
+*   How Temper Tantrums Work
 
-*   10 Accidental Inventions You Won't Believe
+*   HowStuffWorks Newsletter Signup
 
 By
 
@@ -304,4 +304,4 @@ Get the best of HowStuffWorks by email. Keep up to date on:
 
 Sign Up Now!
 
-Testing this long verbose error message to check the behaviour <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. <img src="https://soflopxl.com/px?partner\_id=31210">AddThis Sharing SidebarShare to Facebook, Number of sharesShare to TwitterShare to Google+Share to Pinterest, Number of sharesShare to EmailMore AddThis Share options, Number of sharesHideShowCloseAddThis
+Testing this long verbose error message to check the behaviour <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. <img src="https://soflopxl.com/px?partner\_id=31210">. AddThis Sharing SidebarShare to Facebook, Number of sharesShare to TwitterShare to Google+Share to Pinterest, Number of sharesShare to EmailMore AddThis Share options, Number of sharesHideShowCloseAddThis
