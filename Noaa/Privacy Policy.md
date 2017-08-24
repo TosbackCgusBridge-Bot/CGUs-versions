@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites Out of this world: Imagery from the total solar eclipse across America Oceans &. Coasts Video: Could you survive a rip current? See how National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Education Teachers: Six NOAA tools for back to school Oceans &. Coasts Video: Could you survive a rip current? See how National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Out of this world: Imagery from the total solar eclipse across America AROUND NOAA // NOAA scientists get rare chance to study effects of August 21 eclipse on weather Teachers: 5 programs that bring Earth science #BacktoSchool Globe had 2nd warmest July and year to date on record Early-season storms one indicator of active Atlantic hurricane season ahead
+Enter Search Terms Out of this world: Imagery from the total solar eclipse across America AROUND NOAA // #Harvey expected to bring heavy rainfall, life-threatening storm surge to Gulf: Get the latest Teachers: Six NOAA tools for back to school NOAA scientists get rare chance to study effects of August 21 eclipse on weather Globe had 2nd warmest July and year to date on record
 
 *   About our agency
 *   News and features
