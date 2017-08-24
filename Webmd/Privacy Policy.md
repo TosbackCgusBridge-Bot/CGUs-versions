@@ -440,7 +440,7 @@ WebMD Policy Last updated on December 30, 2016 © 2016 WebMD, LLC. All rights re
 
 Some of these might surprise you.
 
-Feed 15 Hungry People And Have An Epic Tailgate On Game Day. Check Out This Amazing Offer! Get a free $10 eGift card and instant savings on tailgating must-haves with a $45 Sam's Savings membership. Ad By **Sam's Club** Depressed, Guilty Feelings After Eating?
+Experts in all types of cancers The world leader in fighting cancer ADVERTISEMENT **MD Anderson** Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
