@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   LXD 2.17 has been released ›
+*   Canonical expands enterprise Kubernetes ›
+*   Kernel Team Summary: August 23, 2017 ›
 *   This Week In Snapcraft ›
 *   Week 33 of 2017 in snapcraft ›
-*   Ubuntu Server Development Summary – 22 Aug 2017 ›
-*   SnapRoute and Canonical create new switch stack for network operators ›
-*   Git Ubuntu: More on the imported repositories ›
