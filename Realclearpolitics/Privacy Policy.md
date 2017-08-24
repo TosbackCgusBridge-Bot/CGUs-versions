@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Peter Bergen_: For Trump's Generals, This Is Personal
+*   _William Galston_: The Dangerous Assault on Free Speech
     
-*   _Monica Showalter_: Trump Rejects Bush/Obama Approach in Afghanistan
+*   _Supran &. Oreskes_: What Exxon Mobil Didn't Say About Climate Change
     
-*   _Amy Sorkin_: Trump's Confused and Troubling Afghanistan Speech
+*   _Daniel Payne_: Charlottesville, Trump &. Our Broken Political Establishment
     
-*   _Susan Glasser_: America Is Out of Ideas in Afghanistan
+*   _Jen Psaki_: Trump Can Stay Sane for Approximately 24 Hours
     
-*   _Sandra Erwin_: Afghanistan Strategy a Defining Moment for Mattis
+*   _Byron York_: Republicans Skeptical About Origin of Trump Dossier
     
-*   _Conrad Black_: The 'Resistance' Loses Its Senses
+*   _Mark Murray_: 12 Days That Stunned a Nation: How Hillary Clinton Lost
     
-*   _Corey Robin_: Will Steve Bannon's War Tear Apart the Republican Party?
+*   _Matthew Hennessey_: Live Free or High in the Granite State
     
-*   _Clio Chang_: Yes, Democrats Have a Fundraising Problem
+*   _Barton Hinkle_: What Gives Censors Any Right to Censor?
     
-*   _Byron York_: At Paul Ryan Town Hall, Not a Word on Russia
+*   _Chris Cillizza_: Trump's 57 Most Outrageous Quotes From His Arizona Speech
     
-*   _Michael Socolow_: One Year Without Gawker When We've Needed It Most
+*   _James Freeman_: CNN's Big Secret: Journalists Don't Like Trump
     
-*   _Ben Domenech_: Gawker Is Dead and Deserved to Die
+*   _Sara Porterfield_: Tribal History Imperiled as Zinke Mulls Monument's Status
     
-*   _Simendinger &. Arkin_: In Pivot, Trump Vows to 'Win' in Afghanistan
+*   _Zalmay Khalilzad_: Why Trump Is Right to Get Tough With Pakistan
     
-*   _Vice President Mike Pence_: New Afghan Strategy Will Undo Past Failures
+*   _Walter Shapiro_: Echoes of Vietnam in Trump's Afghan About-Face
     
-*   _Fred Kaplan_: Killing Terrorists Is Not a Strategy
+*   _Holman Jenkins_: The Great Nazi Scare of 2017
     
-*   _Ned Ryun_: With Bannon's Exit, Trump's Base Loses Powerful Voice
+*   _Eugene Robinson_: How Unhinged Is Trump?
     
-*   _Walter Russell Mead_: Steve Bannon Isn't Going Away
+*   _Roger Kimball_: While the Left Rages, Trump Builds
     
-*   _Eric Foner_: Confederate Statues and 'Our' History
+*   _Heather Mac Donald_: Culture, Not Culture Wars
     
-*   _Victor Davis Hanson_: Our War Against Memory
+*   _William Cohan_: Gary Cohn, Trump Agoniste, Contemplates the End
     
-*   _David Remnick_: The Divider: Donald Trump's True Allegiances
+*   _Joy Pullmann_: Vandals Destroying Monuments Were Taught to Hate U.S.
     
-*   _Scott McKay_: The Terrorists of the Left
+*   _Jon Meacham_: Why Lee Should Go, and Washington Should Stay
     
-*   _Caitlin Huey-Burns_: Feud With Trump Shifts to Jeff Flake's Home Turf in Arizona
+*   _Bloomfield &. Harvey_: A Strategy for Trump's Age of Disruption
     
-*   _Elvia Diaz_: Be Careful, Latinos. Trump Is In Phoenix to Provoke Us
+*   _David Ignatius_: Trump Doesn't Want Stain of Defeat in Afghanistan
     
-*   _Rep. Trent Franks_: Why Trump Should Pardon America's Toughest Sheriff
+*   _Noah Rothman_: We're All Interventionists Now
     
-*   _Trudy Rubin_: After Speech, Afghanistan Is Trump's War Now
+*   _Pat Buchanan_: The Country Did Not Vote for Confrontation or War
     
 
 *   Previous
@@ -262,9 +262,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Feud With Trump Shifts to Flake's Home Turf, Ariz. Race
 *   In Pivot, Trump Vows to "Win" in Afghanistan
-*   Trump: "We Are Not Nation-Building Again. We Are Killing Terrorists."
+*   Feud With Trump Shifts to Flake's Home Turf, Ariz. Race
+*   At AZ Rally, Trump Blames Media for Country's Deepening Divisions
 *   Can Kid Rock Become Michigan's Next Senator?
 *   Steve Bannon Out as White House Chief Strategist in Latest Upheaval
 *   Presidential Job Approval
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Virginia Governor - Gillespie vs. NorthamRoanoke College\*
-    *   Northam43
-    *   Gillespie36Northam +7
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve35
+    *   Disapprove59Disapprove +24
 *   President Trump Job ApprovalGallup
     *   Approve35
-    *   Disapprove60Disapprove +25
+    *   Disapprove59Disapprove +24
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove56Disapprove +13
-*   President Trump Job ApprovalABC News/Wash Post
-    *   Approve39
-    *   Disapprove58Disapprove +19
+    *   Approve41
+    *   Disapprove57Disapprove +16
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve36
+    *   Disapprove59Disapprove +23
 
 More Latest Polls In The News
 
+*   Hillary Clinton: "Skin Crawled" When Trump Stood Behind Me, I Should Have Called Him A "Creep"
+*   Don Lemon: Trump Unhinged, Embarrassing, Petty, "Opened Race Wound From Charlottesville"
 *   Trump Clarifies Charlottesville Response: "Only People Giving A Platform To Hate Groups Is The Media Itself"
 *   Scott Adams: Rep. Jackie Speier Must Have Real Evidence That President Trump Is Crazy, Right?
 *   Carolla: Do People Really Care About White Supremacist Rallies? Media, CNN Link Everything To Trump
-*   CNN's Cuomo vs. Haley: Citizen And Candidate Trump "Would Have Hated" President Trump's Afghanistan Speech
-*   Bret Stephens: Tillerson Perhaps Worst Secretary Of State Ever, "Bannonite" Approach To 'Deep State'
 
 *   Politics
 *   Policy
