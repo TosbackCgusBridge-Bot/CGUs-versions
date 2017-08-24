@@ -147,7 +147,7 @@ View Platinum Headphones on Instagram
 
 Want a tour of the Western Ghats from Uncharted: The Lost Legacy? Check out this new 360° screenshot.
 
-12 days ago
+13 days ago
 
 View Tweet
 
@@ -219,7 +219,7 @@ View Rise and shine. on Instagram
 
 WATCH: Sony 4K Laser Projectors offer compelling visualization, immersive entertainment, and powerful data display.
 
-8 days ago
+9 days ago
 
 View Tweet
 
@@ -303,7 +303,7 @@ Play Jeopardy! In the Palm of Your Hand Video hotspot
 
 Want to watch HDR titles on @Netflix on your mobile? You can now with XZ Premium. Read about why it’s so great here.
 
-8 days ago
+9 days ago
 
 View Tweet
 
