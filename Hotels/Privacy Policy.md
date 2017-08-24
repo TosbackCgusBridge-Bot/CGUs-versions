@@ -232,5 +232,3 @@ Join now! Collect 10 nights, get 1 free\*
 Hotels.com and the Hotels.com logo are trademarks or registered trademarks of Hotels.com, LP in the USA and/or other countries. All other trademarks are property of their respective owners.
 
 \* Learn more about Hotels.com® Rewards
-
-<img src="https://hrum.hotelsapi.io/1x1.gif?uijs=0&u=149351">
