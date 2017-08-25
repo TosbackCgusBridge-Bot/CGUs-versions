@@ -7,13 +7,13 @@ VH1 Menu VH1
     *   Show News
     *   TV Schedule
     *   Love &. Hip Hop Hollywood
-    *   Basketball Wives
     *   Baller Wives
     *   Black Ink Crew Chicago
     *   Signed
-    *   Daytime Divas
-    *   Love &. Hip Hop Atlanta
-    *   Brunch With TiffanySee all Shows
+    *   Ricky Martin: Behind The Vegas Residency
+    *   Brunch With Tiffany
+    *   Basketball Wives
+    *   Daytime DivasSee all Shows
 *   Pop Culture
     *   Music
     *   Celebrity
@@ -30,7 +30,7 @@ VH1 Menu VH1
 *   TV Provider Sign Out
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Hollywood Basketball Wives Baller Wives Black Ink Crew Chicago Signed Daytime Divas Love &. Hip Hop Atlanta Brunch With Tiffany See all Shows
+*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Hollywood Baller Wives Black Ink Crew Chicago Signed Ricky Martin: Behind The Vegas Residency Brunch With Tiffany Basketball Wives Daytime Divas See all Shows
 *   Pop Culture Music Celebrity Movies TV Around The Web Video See all Pop Culture
 *   Life Beauty &. Health Style Relationships Video See all Life
 *   Watch Live TV
@@ -414,5 +414,3 @@ close
 *   Newsletter
 
 © 2017 Viacom International Inc. All Rights Reserved. VH1 and all related titles and logos are trademarks of Viacom International Inc.
-
-**We've Updated Our Terms.** By continuing to use the Site, you agree to the Site's updated Terms of Use and consent to the collection, use, disclosure and transfer of information as described in this Site's updated Privacy Policy. Before you do, please read them and check out some of these changes (such as arbitration for disputes - see our FAQs). Please also note that you are accessing a site which is designed for and targeted to U.S. audiences and is governed by and operated in accordance with U.S. laws.
