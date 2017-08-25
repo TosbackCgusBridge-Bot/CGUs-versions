@@ -233,21 +233,21 @@ Print | Citation &. Date
 
 More to Explore   You might also like
 
-*   Stop These 6 Habits Right Now If You Want to Be Healthier Anytime Fitness
-*   What Are Hip Dips And Why Are They a Thing? Anytime Fitness
-*   Reinventing Utilization Management to Bring Value to the Point of Care McKesson
+*   People who switch save an average of $620 on car insurance. Progressive
+*   The Reason Jim Carrey Is Basically Unhireable Today Worldation
+*   Video: Managing Your RA Symptoms Livestrong.com
 
-*   Discover How A Former Coffee Shop Employee Quit Living Paycheck To Paycheck And Now Lives A Freelance Freedom Lifestyle… – Inspiring Business Stories www.inspiring-business-stories.com
-*   Mercedes Has Never Been Sleeker: See the New GLC Coupe The Truth About Cars
-*   What kind of car can you buy for under $10K? Cars.com
+*   Discover The Different Signs of Psoriatic Arthritis Yahoo! Search
+*   Every Cooking Question You Have, Answered The Huffington Post
+*   What Sam Eliot’s Wife Looks Like Today Is Incredible, Try Not To Gasp Greeningz
 
 Sponsored by Today's Headlines
 
-When Is It OK to Drive in the Emergency Lane?
+Why Gravy Wrestling Is an Annual Tradition in One British Town
 
-Don't Toss Your Eclipse Glasses — Give Them a Second Life Instead
+Astronaut Pee and Yeast Could Revolutionize Our Future in Space
 
-Wasted Bread Is Being Brewed Into Craft Beer
+A Dirty Little Secret: Why Cigarette Makers Are Embracing Nicotine Patches
 
 About Us
 
@@ -263,13 +263,13 @@ About Us
 
 More to Explore   DON'T MISS
 
-*   10 Myths About Video Games
-
-*   How the Hunt for D.B. Cooper Worked
+*   How Viagra Works
 
 *   How Temper Tantrums Work
 
-*   HowStuffWorks Newsletter Signup
+*   How does JavaScript work and how can I build simple calculators with it?
+
+*   What's the best way to play my iPod in the car?
 
 By
 
@@ -304,4 +304,4 @@ Get the best of HowStuffWorks by email. Keep up to date on:
 
 Sign Up Now!
 
-Testing this long verbose error message to check the behaviour <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. <img src="https://soflopxl.com/px?partner\_id=31210">. AddThis Sharing SidebarShare to Facebook, Number of sharesShare to TwitterShare to Google+Share to Pinterest, Number of sharesShare to EmailMore AddThis Share options, Number of sharesHideShowCloseAddThis
+Testing this long verbose error message to check the behaviour <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. <img src="https://soflopxl.com/px?partner\_id=31210">AddThis Sharing SidebarShare to Facebook, Number of sharesShare to TwitterShare to Google+Share to Pinterest, Number of sharesShare to EmailMore AddThis Share options, Number of sharesHideShowCloseAddThis
