@@ -97,7 +97,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Fan Values
     *   Celebrate Sunday
     *   StubHub.com
-    *   Big League Tours2017 Season Tickets Big League Tours Bank of America 2017 Schedule
+    *   Big League ToursBig League Tours Bank of America 2017 Schedule
 *   Apps Apps Apps
     *   At Bat app
     *   At Bat on Tablets
