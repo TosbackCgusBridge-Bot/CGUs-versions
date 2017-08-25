@@ -35,13 +35,7 @@ Looking for business solutions?
 
 PayPal makes it easy to get paid securely anywhere you do business: online, on mobile, in person or via an invoice.
 
-Explore Business Solutions Hello, cash flow.
-
-For a limited time, accept $50,000 in payments with PayPal, and get pre-selected for a $5,000 business loan with no credit check.1
-
-Learn more
-
-1This promotion (pre-selection for a $5,000 PayPal Working Capital business loan) is only for new PayPal business customers who opt into the promotion. To qualify for this promotion, your business must open a first-time U.S. PayPal business account. begin processing sales within 60 days, process between $50,000 and $10 million in PayPal sales within 240 days of opening the PayPal account. and apply, be approved, and accept PayPal Working Capital between 90 and 240 days of opening the PayPal business account. Only one loan may be funded under the terms of the promotion. however, subject to lender approval, you may be eligible for PayPal Working Capital outside of this promotion. To be eligible to apply for PayPal Working Capital outside of this promotion, your business must have a PayPal business or premier account for at least 90 days and process between $15,000 (or for premier accounts $20,000) and $10 million in PayPal sales within those 90 days or within any time period less than or equal to 12 months. Only one PayPal Working Capital loan may be open at one time on any account. PayPal sales include processing on PayPal Express Checkout, PayPal Payments Standard, PayPal Payments Pro, and PayPal Here. PayPal Working Capital is subject to approval, as determined by the lender, WebBank, member FDIC.
+Explore Business Solutions
 
 Join 200+ million people who use PayPal to
 
@@ -104,4 +98,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=6d5fd2c26f7e3&rsta=en\_US&pgtf=&s=ci&ccpg=us&csci=7a0c77aca82e47e8bac338a65f47dd13&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&xe=2570&xt=6168&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=500d90d817270&rsta=en\_US&pgtf=&s=ci&ccpg=us&csci=e2def6091fb84c0aafc20b49ee027524&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&xe=2563&xt=6151&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
