@@ -1,39 +1,29 @@
-<div class='noindex'>You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.</div>. Turn on more accessible mode Turn off more accessible mode Skip Ribbon Commands Skip to main content Turn off Animations Turn on Animations
+Turn on more accessible mode Turn off more accessible mode Skip to main content
 
-*   My Services
-    *   My Account
-    *   My Bill
-    *   My Mail
-    *   My Phone
-*   |
-*   Home
-*   |
-*   Contact Us
-
-  
-Your Location:  
-New Location Set Your Location <div id="ctl00\_ctl63\_noscript">It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.</div>.
-
-*   For Your Home
-*   For Your Business
-*   Customer Support
-*   Local Information
 *   Order Now
+*   My Services
+    My Services Check Email Pay Bill  
+    Internet Tools TV Everywhere  
+    Phone Tools Channel Lineup Local Info
+*   Get Support
+*   Business
+*   × Please enter your Zip Code Locations
+    
+    To display accurate prices and offers in your area, we need to know your service area. Please enter your zipcode:
+    
+    Change Location:
+*   Search Search Search Type Residential Business Support
+*   Menu
+    Order Now Get Support Business
+    
+    For accurate product information enter your zip code
+    
+    (click the icon above)
+    
+    Channel Line Up Local Information Check Email Pay Bill Phone Tools Internet Tools Product and pricing below are for Fargo, ND (58104) Channel Line Up Local Information Internet TV  
+    Packages Phone Check Email Pay Bill Phone Tools Internet Tools
 
-**You are here:** Home >. Terms and Conditions
-
-*   Terms &. ConditionsCurrently selected
-    *   Closed Captioning
-*   Copyright Notice
-*   Privacy Policy
-*   Internet Aup
-*   Network Management
-    *   Annual Notice (PDF)
-*   Cable Service Guard
-
-Terms &. Conditions
-
-**Terms and Conditions**
+Terms and Conditions Terms and Conditions
 
 In this document, "Cable One" means Cable One, Inc. and any Cable One affiliate or subsidiary authorized to provide you with services. Specifically, Cable One affiliates or subsidiaries include Cable One VoIP LLC. Please read and review this document carefully before accessing further information on this web site. By proceeding to access this web site, you agree to be bound by the terms and conditions set forth below. If you do not wish to be bound by these terms and conditions, please do not access or use this web site. Cable ONE, Inc. may modify this agreement and its terms and conditions, and such modified agreement shall be effective immediately upon posting. Your continued access to or use of this web site shall be deemed your conclusive acceptance of the agreement and its terms and conditions and any modifications thereto.
 
@@ -53,20 +43,50 @@ You hereby represent, warrant and covenant to Cable ONE that you shall use the w
 
 Cable ONE, Inc. may make changes to the information provided in this site, or to the products or services provided herein, at any time without notice. However, Cable ONE, Inc. has no obligation to provide such modifications or updates, or to continue to provide access to this site and may discontinue this site at any time in its sole discretion.
 
-**Closed Captioning**
+Services Residential
 
-For immediate technical concerns or service issues **with Closed Captioning**, please call **(toll-free) 1-877-MY-CABLE (877-692-2253)**, fax 1-602-200-0516, or email us at: **NOC@cableone.biz**. Formal written complaints should be addressed to Emerson Yearwood, Assistant General Counsel -- Regulatory Affairs, Cable One, Inc. 210 East Earll Drive, Phoenix, AZ 85012. Telephone: 602.364.6000. Fax: 602.364.6013. emerson.yearwood@cableone.biz
+*   CableONE Residential Internet
+*   CableONE Residential Cable TV
+*   CableONE Residential Packages
+*   CableONE Residential Phone
 
-For Your Home For Your Business Customer Support Remote Connect Speed Test Local Information All About Us  
-Investor Relations Legal Notices Open Internet/Network Management Contact Us Great Careers Payment Center Site Map
+Business
 
-Copyright 2017, Cable ONE Inc., All Rights Reserved.
+*   CableONE Business Internet
+*   CableONE Business Phone
+*   CableONE Business Cable TV
+*   CableONE Business Networking
+*   CableONE Business Carrier &. Wholesale
 
-Close Window X Set Your Location - Step 1 of 2 You are here: Set Your State Set Your State Find and click on your state's button in the US map (below)
+I Want To...
 
-Setting your location will allow us to provide you with the most accurate information about our products and services. The dark blue shows the states currently served by Cable ONE. You may also set your location directly in the fields below.
+*   Order New Service
+*   View or Pay Bill
+*   Check Email
+*   Get Support
 
-You are here: Set Your State >. Set Your Location Set Your Location **Hover over a system to see the ares served. Click the system to set your location.** System Areas Served
+Company
 
-State: -OR- Zipcode: Go State: City: -OR- Zipcode: Go Clear Existing Location We're sorry, cable one is not  
-available in this area. <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/984182947/?label=EbnnCKXt9QMQo-Gl1QM&amp;guid=ON&amp;script=0" />. </div>. Live Help is Online.  ×–undefinedChatPowered by
+*   CableONE About Us
+*   CableONE Social Responsibility
+*   CableONE Press Releases
+*   CableONE Investor Relations
+
+Legal
+
+*   CableONE Open Internet
+*   CableONE Terms &. Conditions
+*   CableONE Privacy Policy
+*   CableONE Acceptable Use Policy
+*   CableONE Closed Captioning
+*   CableONE Accessibility
+*   CableONE Cable Service Guard
+
+Search Search Type Residential Business Support
+
+*   CableONE Locations
+*   Contact Us
+*   CableONE Careers
+*   CableONE Site Map
+
+Facebook Twitter Google+ YouTube LinkedIn Copyright 2017 , Cable ONE Inc ., All Rights Reserved. Live Help is Online.  ×–undefinedChatPowered by
