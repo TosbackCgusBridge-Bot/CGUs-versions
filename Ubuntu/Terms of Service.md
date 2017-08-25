@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Canonical Distribution of Kubernetes: Development Summary- August 24 ›
+*   Security Team Weekly Summary: August 24, 2017 ›
+*   From docs to Schema ›
 *   LXD 2.17 has been released ›
 *   Canonical expands enterprise Kubernetes ›
-*   Kernel Team Summary: August 23, 2017 ›
-*   This Week In Snapcraft ›
-*   Week 33 of 2017 in snapcraft ›
