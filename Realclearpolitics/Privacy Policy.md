@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _William Galston_: The Dangerous Assault on Free Speech
+*   _Seth Cropsey_: Has the Navy Reached Its Breaking Point?
     
-*   _Supran &. Oreskes_: What Exxon Mobil Didn't Say About Climate Change
+*   _Nicholas Kristof_: We're Journalists, Mr. Trump, Not the Enemy
     
-*   _Daniel Payne_: Charlottesville, Trump &. Our Broken Political Establishment
+*   _S.E. Cupp_: After ESPN &. Other Insanity, Clear Trump Won Monument Debate
     
-*   _Jen Psaki_: Trump Can Stay Sane for Approximately 24 Hours
+*   _Steve Kornacki_: The Trump Culture War and Why It Matters
     
-*   _Byron York_: Republicans Skeptical About Origin of Trump Dossier
+*   _Betsy McCaughey_: Trump Is Not Backing Down on Trade
     
-*   _Mark Murray_: 12 Days That Stunned a Nation: How Hillary Clinton Lost
+*   _Betsy Woodruff_: Inside Robert Mueller's Army
     
-*   _Matthew Hennessey_: Live Free or High in the Granite State
+*   _Michael Lind_: The 'New Cold War' Was Never Inevitable
     
-*   _Barton Hinkle_: What Gives Censors Any Right to Censor?
+*   _Newt Gingrich_: GOP, Stop Giving Liberal Media the Cannibalism It Craves
     
-*   _Chris Cillizza_: Trump's 57 Most Outrageous Quotes From His Arizona Speech
+*   _Cristian Farias_: Progressives Learn to Love Federalism in the Trump Era
     
-*   _James Freeman_: CNN's Big Secret: Journalists Don't Like Trump
+*   _Eva Moskowitz_: Test Scores Don't Lie: Charter Schools Are Transformative
     
-*   _Sara Porterfield_: Tribal History Imperiled as Zinke Mulls Monument's Status
+*   _Cameron Joseph_: Menendez Conviction Would Be Nightmare for Senate Dems
     
-*   _Zalmay Khalilzad_: Why Trump Is Right to Get Tough With Pakistan
+*   _Amy Davidson Sorkin_: In Phoenix, Trump Lets the Real World Go Away
     
-*   _Walter Shapiro_: Echoes of Vietnam in Trump's Afghan About-Face
+*   _Gregg Jarrett_: Head on, Trump Assails Crooks, Liars, and Pompous Media
     
-*   _Holman Jenkins_: The Great Nazi Scare of 2017
+*   _Alexis Simendinger_: Trump's Two Faces: Uniter, Divider
     
-*   _Eugene Robinson_: How Unhinged Is Trump?
+*   _John Dempsey_: There Is No Military Path to Victory in Afghanistan
     
-*   _Roger Kimball_: While the Left Rages, Trump Builds
+*   _Meghan O'Sullivan_: Trump Afghan Strategy Different, Braver Than Obama
     
-*   _Heather Mac Donald_: Culture, Not Culture Wars
+*   _Karl Rove_: Good Riddance to Steve Bannon
     
-*   _William Cohan_: Gary Cohn, Trump Agoniste, Contemplates the End
+*   _Gabriel Sherman_: Steve Bannon Readies His Revenge
     
-*   _Joy Pullmann_: Vandals Destroying Monuments Were Taught to Hate U.S.
+*   _Donnella_: What Our Monuments (Don't) Teach Us About the Past
     
-*   _Jon Meacham_: Why Lee Should Go, and Washington Should Stay
+*   _Victor Davis Hanson_: The Progressive War Against the Dead
     
-*   _Bloomfield &. Harvey_: A Strategy for Trump's Age of Disruption
+*   _Susan Milligan_: McConnell, Trump Spat Puts GOP Agenda in Peril
     
-*   _David Ignatius_: Trump Doesn't Want Stain of Defeat in Afghanistan
+*   _Tammy Bruce_: Anti-Trump Agenda in Congress Holding Party Back
     
-*   _Noah Rothman_: We're All Interventionists Now
+*   _Brady &. Parker_: Trump Losing the Supporters He Needs Most: Independents
     
-*   _Pat Buchanan_: The Country Did Not Vote for Confrontation or War
+*   _Roxanne Jones_: Why ESPN and Robert Lee Are Right
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Facing Big Fights, Kelly Seeks to Restore White House Order
+*   Trump's Two Faces: Uniter, Divider
+*   At AZ Rally, Trump Blames Media for Country's Deepening Divisions
 *   In Pivot, Trump Vows to "Win" in Afghanistan
 *   Feud With Trump Shifts to Flake's Home Turf, Ariz. Race
-*   At AZ Rally, Trump Blames Media for Country's Deepening Divisions
-*   Can Kid Rock Become Michigan's Next Senator?
-*   Steve Bannon Out as White House Chief Strategist in Latest Upheaval
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve35
-    *   Disapprove59Disapprove +24
+*   President Trump Job ApprovalGWU/Battleground
+    *   Approve42
+    *   Disapprove53Disapprove +11
 *   President Trump Job ApprovalGallup
-    *   Approve35
-    *   Disapprove59Disapprove +24
+    *   Approve34
+    *   Disapprove60Disapprove +26
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve41
-    *   Disapprove57Disapprove +16
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve36
-    *   Disapprove59Disapprove +23
+    *   Approve42
+    *   Disapprove56Disapprove +14
+*   2018 Generic Congressional VoteGWU/Battleground
+    *   Democrats45
+    *   Republicans38Democrats +7
 
 More Latest Polls In The News
 
-*   Hillary Clinton: "Skin Crawled" When Trump Stood Behind Me, I Should Have Called Him A "Creep"
-*   Don Lemon: Trump Unhinged, Embarrassing, Petty, "Opened Race Wound From Charlottesville"
-*   Trump Clarifies Charlottesville Response: "Only People Giving A Platform To Hate Groups Is The Media Itself"
-*   Scott Adams: Rep. Jackie Speier Must Have Real Evidence That President Trump Is Crazy, Right?
-*   Carolla: Do People Really Care About White Supremacist Rallies? Media, CNN Link Everything To Trump
+*   Mattis Denounces Russian "Aggression" In Ukraine. "Threats To The International Order Writ Large"
+*   Blumenthal on Trump Probes: "Heroes Of This Era Will Be The Free Press And The Independent Judiciary"
+*   Roger Stone: Any Politician Who Votes To Impeach Trump "Would Be Endangering Their Own Life"
+*   Conway: Disconnect Between What Media Tell Americans Is Important To Them And What Americans Tell Pollsters
+*   Huckabee: Republicans Like Jeff Flake "Can't Wait To Run In Front Of A Camera And Trash The President"
 
 *   Politics
 *   Policy
