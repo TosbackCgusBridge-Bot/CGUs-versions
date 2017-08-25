@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. Online, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 31%  31%  31%  30% 
+What is PeekScore? Public Records &. Background Checks 12%  12%  12%  12% 
 
 *   Privacy Policy - Instant Search View Now
     
@@ -119,7 +119,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 30%  Twitter 2% 
+Facebook 12%  Twitter 3% 
 
 *   Cristiano Ronaldo - Cristiano
     
@@ -165,7 +165,7 @@ Facebook 30%  Twitter 2% 
     
 *   Show Less ...
 
-Pinterest 30%  Wikipedia 2% 
+Pinterest 12%  Wikipedia 3% 
 
 *   P3P
     
@@ -184,7 +184,7 @@ Pinterest 30%  Wikipedia 2% 
     Uchiwa is a traditional Japanese fan. It is often used to create a breeze to keep cool in hot weather. They are part of Japanese seasonal traditions and are often ...
     
 
-Instagram 2% 
+Instagram 3% 
 
 *   Privacy Policy - insta\_privacy\_policy
     
@@ -210,7 +210,7 @@ Instagram 2% 
     
 *   Show Less ...
 
-Google+ 2% 
+Google+ 3% 
 
 *   Free Privacy Policy - Google+
     
@@ -225,7 +225,7 @@ Google+ 2% 
     privacy policy - Google+. ... privacy policy's posts. Looks like you've reached the end. Looks like you've reached the end. Unable to load more. Retry. Wait while ...
     
 
-Linkedin 2% 
+Linkedin 3% 
 
 *   Privacy Policy | LinkedIn
     
