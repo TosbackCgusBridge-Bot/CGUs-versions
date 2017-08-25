@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Educati
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Out of this world: Imagery from the total solar eclipse across America AROUND NOAA // #Harvey expected to bring heavy rainfall, life-threatening storm surge to Gulf: Get the latest Teachers: Six NOAA tools for back to school NOAA scientists get rare chance to study effects of August 21 eclipse on weather Globe had 2nd warmest July and year to date on record
+Enter Search Terms #Harvey forecast to be major hurricane as it approaches Texas coast. Get latest updates AROUND NOAA // Hurricane Andrew: What it was like to work in a Category 5 storm Out of this world: Imagery from the total solar eclipse across America Teachers: Six NOAA tools for back to school Globe had 2nd warmest July and year to date on record
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock
+NOAA
