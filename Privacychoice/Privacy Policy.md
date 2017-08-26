@@ -99,6 +99,7 @@ Whatever your device, we’ve got you covered About AVG
 Home Products
 
 *   Downloads
+*   Beta Downloads
 *   Antivirus Software
 *   Mobile Security
 *   Free Mac Antivirus
