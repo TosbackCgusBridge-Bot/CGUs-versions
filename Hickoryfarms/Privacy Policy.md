@@ -189,14 +189,9 @@ Security
 *   Use of Cookies
 *   Terms of Use Information
 
-About Us
+Careers
 
-*   Store Locator
 *   Employment Opportunities
-
-Contact Us
-
-*   Contact Us Form
 
 Need Help?
 
@@ -242,4 +237,4 @@ Business Accounts
 *   1.800.715.1474
 *   Email Us
 
-PRIVACY POLICY TERMS OF USE SITE MAP © 2017 ALL RIGHTS RESERVED. Feedback
+PRIVACY POLICY TERMS OF USE SITE MAP © 2017 ALL RIGHTS RESERVED.
