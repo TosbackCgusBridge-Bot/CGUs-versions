@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Seth Cropsey_: Has the Navy Reached Its Breaking Point?
+*   _Carl Hulse_: With Border Wall Spending Threat, Trump Fences Himself In
     
-*   _Nicholas Kristof_: We're Journalists, Mr. Trump, Not the Enemy
+*   _Jennifer Kerns_: Trump Is Right on the Wall, and Numbers Back Him Up
     
-*   _S.E. Cupp_: After ESPN &. Other Insanity, Clear Trump Won Monument Debate
+*   _Dylan Scott_: Why Obamacare Didn't Implode
     
-*   _Steve Kornacki_: The Trump Culture War and Why It Matters
+*   _Chris Jacobs_: 3 Ways Kathleen Sebelius Sabotaged the Rule of Law
     
-*   _Betsy McCaughey_: Trump Is Not Backing Down on Trade
+*   _Damon Linker_: Things Are Going to Get Much, Much Worse
     
-*   _Betsy Woodruff_: Inside Robert Mueller's Army
+*   _Bill Kristol_: Single Best Thing for Country Would Be for Trump to Resign
     
-*   _Michael Lind_: The 'New Cold War' Was Never Inevitable
+*   _Julie Kelly_: The Kristol Crackup
     
-*   _Newt Gingrich_: GOP, Stop Giving Liberal Media the Cannibalism It Craves
+*   _A.B. Stoddard_: Democrats Are Working Hard to Destroy Their Party
     
-*   _Cristian Farias_: Progressives Learn to Love Federalism in the Trump Era
+*   _Bill McKibben_: The Climate Movement's New Battle Cry
     
-*   _Eva Moskowitz_: Test Scores Don't Lie: Charter Schools Are Transformative
+*   _John Kass_: Murder on the Steps of a Church Tests the Faithful
     
-*   _Cameron Joseph_: Menendez Conviction Would Be Nightmare for Senate Dems
+*   _Foster Friess_: How Do We Return Civility to Our Culture?
     
-*   _Amy Davidson Sorkin_: In Phoenix, Trump Lets the Real World Go Away
+*   _William Voegeli_: Liberals, Shipwrecked
     
-*   _Gregg Jarrett_: Head on, Trump Assails Crooks, Liars, and Pompous Media
+*   _Jeff Greenfield_: When Trump Fails, What Becomes of His Fans?
     
-*   _Alexis Simendinger_: Trump's Two Faces: Uniter, Divider
+*   _James Robbins_: As Dems Howl Over Statues, Trump Is Free to Run Nation
     
-*   _John Dempsey_: There Is No Military Path to Victory in Afghanistan
+*   _Ryan Lizza_: How Bannon Lost the Battle for the Soul of Trumpism
     
-*   _Meghan O'Sullivan_: Trump Afghan Strategy Different, Braver Than Obama
+*   _Peter Brookes_: New Afghan Strategy Hits the Mark
     
-*   _Karl Rove_: Good Riddance to Steve Bannon
+*   _Ayaan Hirsi Ali_: Why Is the Southern Poverty Law Center Targeting Liberals?
     
-*   _Gabriel Sherman_: Steve Bannon Readies His Revenge
+*   _John Judis_: The Socialism America Needs Now
     
-*   _Donnella_: What Our Monuments (Don't) Teach Us About the Past
+*   _Byron York_: Mystery Deepens Over Who Funded Trump Dossier
     
-*   _Victor Davis Hanson_: The Progressive War Against the Dead
+*   _Caitlin Huey-Burns_: Republicans Weigh Fallout of Pardon for Arizona's Arpaio
     
-*   _Susan Milligan_: McConnell, Trump Spat Puts GOP Agenda in Peril
+*   _Kamisar &. Hagen_: 7 Senate Seats Most Likely to Flip in 2018
     
-*   _Tammy Bruce_: Anti-Trump Agenda in Congress Holding Party Back
+*   _Jayme Metzgar_: Meet the Conservative Trying to Unseat Manchin in WV
     
-*   _Brady &. Parker_: Trump Losing the Supporters He Needs Most: Independents
+*   _Ian Bremmer_: 5 Reasons Things in North Korea Could Still Go Badly Wrong
     
-*   _Roxanne Jones_: Why ESPN and Robert Lee Are Right
+*   _David Ignatius_: Could This Be a Game-Changer for Mideast Peace?
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Facing Big Fights, Kelly Seeks to Restore White House Order
 *   Trump's Two Faces: Uniter, Divider
+*   Republicans Weigh Fallout of Pardon for Arizona's Arpaio
 *   At AZ Rally, Trump Blames Media for Country's Deepening Divisions
+*   Facing Big Fights, Kelly Seeks to Restore White House Order
 *   In Pivot, Trump Vows to "Win" in Afghanistan
-*   Feud With Trump Shifts to Flake's Home Turf, Ariz. Race
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalGWU/Battleground
-    *   Approve42
-    *   Disapprove53Disapprove +11
 *   President Trump Job ApprovalGallup
     *   Approve34
     *   Disapprove60Disapprove +26
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve42
     *   Disapprove56Disapprove +14
+*   President Trump Job ApprovalGWU/Battleground
+    *   Approve42
+    *   Disapprove53Disapprove +11
 *   2018 Generic Congressional VoteGWU/Battleground
     *   Democrats45
     *   Republicans38Democrats +7
 
 More Latest Polls In The News
 
-*   Mattis Denounces Russian "Aggression" In Ukraine. "Threats To The International Order Writ Large"
+*   Graham: Trump Focusing Against Congress "Very Thought-Out Strategy... Nothing Crazy About It"
+*   Black Trump Supporter Sucker-Punched By Antifa: If Situation Were Reversed, "I'd Be In Spotlight On CNN"
 *   Blumenthal on Trump Probes: "Heroes Of This Era Will Be The Free Press And The Independent Judiciary"
 *   Roger Stone: Any Politician Who Votes To Impeach Trump "Would Be Endangering Their Own Life"
 *   Conway: Disconnect Between What Media Tell Americans Is Important To Them And What Americans Tell Pollsters
-*   Huckabee: Republicans Like Jeff Flake "Can't Wait To Run In Front Of A Camera And Trash The President"
 
 *   Politics
 *   Policy
