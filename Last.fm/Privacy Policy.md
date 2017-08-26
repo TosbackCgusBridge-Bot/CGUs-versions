@@ -173,8 +173,8 @@ This Privacy Policy is effective as of Tuesday 15 January 2013.
 
 Company
 
-*   About
-*   Contact
+*   About Last.fm
+*   Contact Us
 
 Help
 
