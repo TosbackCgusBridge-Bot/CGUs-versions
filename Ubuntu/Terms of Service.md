@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Desktop Weekly Update: August 25, 2017 ›
 *   Canonical Distribution of Kubernetes: Development Summary- August 24 ›
 *   Security Team Weekly Summary: August 24, 2017 ›
 *   From docs to Schema ›
-*   LXD 2.17 has been released ›
-*   Canonical expands enterprise Kubernetes ›
+*   I me mine: An UbuConLA 2017 Summit Summary ›
