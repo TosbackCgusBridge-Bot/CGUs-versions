@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. Online, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 12%  12%  12%  12% 
+What is PeekScore? Public Records &. Background Checks 20%  20%  20%  20% 
 
 *   Privacy Policy - Instant Search View Now
     
@@ -119,7 +119,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 12%  Twitter 3% 
+Facebook 20%  Twitter 2% 
 
 *   Cristiano Ronaldo - Cristiano
     
@@ -165,26 +165,7 @@ Facebook 12%  Twitter 3% 
     
 *   Show Less ...
 
-Pinterest 12%  Wikipedia 3% 
-
-*   P3P
-    
-    The Platform for Privacy Preferences Project (P3P) is a protocol allowing websites to declare their intended use of information they collect about web browser users.
-    
-*   Aciclovir
-    
-    Aciclovir (ACV), also known as acyclovir, is an antiviral medication. It is primarily used for the treatment of herpes simplex virus infections, chickenpox, and shingles.
-    
-*   Skadi
-    
-    Skadi was a goddess of hunting and skiing in Norse mythology. She was married to Njord, and later married to Ull or Ullr. She married Njord because she was supposed ...
-    
-*   Uchiwa
-    
-    Uchiwa is a traditional Japanese fan. It is often used to create a breeze to keep cool in hot weather. They are part of Japanese seasonal traditions and are often ...
-    
-
-Instagram 3% 
+Pinterest 20%  Wikipedia 20%  Instagram 2% 
 
 *   Privacy Policy - insta\_privacy\_policy
     
@@ -210,7 +191,7 @@ Instagram 3% 
     
 *   Show Less ...
 
-Google+ 3% 
+Google+ 2% 
 
 *   Free Privacy Policy - Google+
     
@@ -225,7 +206,7 @@ Google+ 3% 
     privacy policy - Google+. ... privacy policy's posts. Looks like you've reached the end. Looks like you've reached the end. Unable to load more. Retry. Wait while ...
     
 
-Linkedin 3% 
+Linkedin 2% 
 
 *   Privacy Policy | LinkedIn
     
@@ -432,7 +413,7 @@ Documents 2% 
     
 *   Show Less ...
 
-Web Search 2% 
+Web Search 1% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -478,7 +459,7 @@ Web Search 2% 
     
 *   Show Less ...
 
-Images 2% 
+Images 1% 
 
 20
 
