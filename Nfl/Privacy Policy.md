@@ -1,54 +1,19 @@
-*   MIA24PHI•313rd ? 07:28
-*   CAR10JAX10Halftime
-*   NE0-2DET2-0Fri 7:00 PM ET
-*   KC1-1SEA2-0Fri 8:00 PM ET
-*   ARI1-2ATL0-2Sat 7:00 PM ET
-*   BUF0-2BAL2-0Sat 7:00 PM ET
-*   NYJ1-1NYG0-2Sat 7:00 PM ET
-*   IND0-2PIT2-0Sat 7:30 PM ET
-*   CLE2-0TB1-1Sat 7:30 PM ET
-*   OAK0-2DAL2-1Sat 8:00 PM ET
-*   LAC0-2LA2-0Sat 8:00 PM ET
-*   HOU1-1NO1-1Sat 8:00 PM ET
-*   GB2-0DEN2-0Sat 9:00 PM ET
-*   CHI1-1TEN1-1Sun 1:00 PM ET
-*   CIN1-1WAS0-2Sun 4:30 PM ET
-*   SF1-1MIN1-1Sun 8:00 PM ET
-
-*   News
-*   Scores
-*   Schedule
-*   Standings
-*   Video
-*   Fantasy
-*   Tickets
-*   Shop
-*   Teams
-*   Game Pass
-*   KICKOFF
-*   Stats
-*   Training Camp
-*   Ways to Watch
-*   Hall of Fame
-*   NFL Network
-*   Photos
-
-*   MIA24PHI•313rd ? 07:28
-*   CAR10JAX10Halftime
-*   NE0-2DET2-0Fri 7:00 PM ET
-*   KC1-1SEA2-0Fri 8:00 PM ET
-*   ARI1-2ATL0-2Sat 7:00 PM ET
-*   BUF0-2BAL2-0Sat 7:00 PM ET
-*   NYJ1-1NYG0-2Sat 7:00 PM ET
-*   IND0-2PIT2-0Sat 7:30 PM ET
-*   CLE2-0TB1-1Sat 7:30 PM ET
-*   OAK0-2DAL2-1Sat 8:00 PM ET
-*   LAC0-2LA2-0Sat 8:00 PM ET
-*   HOU1-1NO1-1Sat 8:00 PM ET
-*   GB2-0DEN2-0Sat 9:00 PM ET
-*   CHI1-1TEN1-1Sun 1:00 PM ET
-*   CIN1-1WAS0-2Sun 4:30 PM ET
-*   SF1-1MIN1-1Sun 8:00 PM ET
+*   ARI1-2ATL0-2August 26, 2017 7:00:00 PM EDT ET
+*   BUF0-2BAL2-0August 26, 2017 7:00:00 PM EDT ET
+*   NYJ1-1NYG0-2August 26, 2017 7:00:00 PM EDT ET
+*   IND0-2PIT2-0August 26, 2017 7:30:00 PM EDT ET
+*   CLE2-0TB1-1August 26, 2017 7:30:00 PM EDT ET
+*   OAK0-2DAL2-1August 26, 2017 8:00:00 PM EDT ET
+*   LAC0-2LA2-0August 26, 2017 8:00:00 PM EDT ET
+*   HOU1-1NO1-1August 26, 2017 8:00:00 PM EDT ET
+*   GB2-0DEN2-0August 26, 2017 9:00:00 PM EDT ET
+*   CHI1-1TEN1-1August 27, 2017 1:00:00 PM EDT ET
+*   CIN1-1WAS0-2August 27, 2017 4:30:00 PM EDT ET
+*   SF1-1MIN1-1August 27, 2017 8:00:00 PM EDT ET
+*   MIA31PHI38Final
+*   CAR24JAX23Final
+*   NE30DET28Final
+*   KC13SEA26Final
 
 *   News
 *   Scores
