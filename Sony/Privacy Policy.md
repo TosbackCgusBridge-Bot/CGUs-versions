@@ -145,9 +145,9 @@ View Platinum Headphones on Instagram
 
 <img class="bg-img" class="url(https://scontent-sjc2-1.cdninstagram.com/t51.2885-15/e35/16123861\_1708335559477461\_5514599993584910336\_n.jpg);" alt="">.
 
-Want a tour of the Western Ghats from Uncharted: The Lost Legacy? Check out this new 360° screenshot.
+Call of Duty: WWII private beta weekend. Beginning today. Pre-order to play it first on #PlayStation
 
-14 days ago
+1 hour ago
 
 View Tweet
 
@@ -217,9 +217,9 @@ View Rise and shine. on Instagram
 
 <img class="bg-img" class="url(https://scontent-sjc2-1.cdninstagram.com/t51.2885-15/e35/19379574\_236189413554673\_6035698943860408320\_n.jpg);" alt="">.
 
-WATCH: Sony 4K Laser Projectors offer compelling visualization, immersive entertainment, and powerful data display.
+Life Space meets green space. #SonySquareNYC #LifeSpaceUX sony.com/squarenyc
 
-10 days ago
+19 hours ago
 
 View Tweet
 
@@ -301,9 +301,9 @@ Play Jeopardy! In the Palm of Your Hand Video hotspot
 
 <img class="bg-img" class="url(/en\_us/media/content/jwt\_sony\_web\_600x600.jpg);" alt="Jeopardy World Tour Game">.
 
-Want to watch HDR titles on @Netflix on your mobile? You can now with XZ Premium. Read about why it’s so great here.
+RT @TheTickTV: Destiny has arrived at your doorstep. Let her in, she has popcorn! Stream #TheTick now with your Prime membership.
 
-10 days ago
+3 hours ago
 
 View Tweet
 
