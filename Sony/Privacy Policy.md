@@ -147,7 +147,7 @@ View Platinum Headphones on Instagram
 
 Call of Duty: WWII private beta weekend. Beginning today. Pre-order to play it first on #PlayStation
 
-1 hour ago
+1 day ago
 
 View Tweet
 
@@ -303,7 +303,7 @@ Play Jeopardy! In the Palm of Your Hand Video hotspot
 
 RT @TheTickTV: Destiny has arrived at your doorstep. Let her in, she has popcorn! Stream #TheTick now with your Prime membership.
 
-3 hours ago
+1 day ago
 
 View Tweet
 
