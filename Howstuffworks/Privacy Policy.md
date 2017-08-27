@@ -234,12 +234,12 @@ Print | Citation &. Date
 More to Explore   You might also like
 
 *   People who switch save an average of $620 on car insurance. Progressive
-*   The 30 Most Expensive Colleges In America Shockpedia
-*   How Weather Could Be Affected Your PsA! Health Central
+*   Kelly LeBrock: For Good Or Bad, Steven Seagal Will Always Be Part Of My Life Ninjajournalist
+*   7 Reasons Connor McGregor Will Beat Floyd Mayweather Sports Jamm - Making Sports Stimulating
 
-*   Thinking About Installing Solar Panels? Read This First Energy Bill Cruncher
-*   The Future of Trucks. The New F-150 Has it All Yahoo! Search
-*   9 Steps to Prevent Identity Fraud This School Year IdentityProtector
+*   Only 1 In 10 Americans Know These Facts About Hitler Offbeat
+*   Former Amish Finally Confirms The Rumors Worldation
+*   Reduce the Risk of AMD Progression With This 3-Part Action Plan AARP
 
 Sponsored by Today's Headlines
 
@@ -263,13 +263,13 @@ About Us
 
 More to Explore   DON'T MISS
 
-*   How California's Power Crisis Works
+*   The Ultimate Romantic Kissing Spots in America Quiz
+
+*   How the Hunt for D.B. Cooper Worked
 
 *   10 of the Biggest Lies in History
 
-*   10 Accidental Inventions You Won't Believe
-
-*   How Manual Transmissions Work
+*   10 Myths About Video Games
 
 By
 
