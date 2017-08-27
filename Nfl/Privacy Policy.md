@@ -1,12 +1,3 @@
-*   ARI1-2ATL0-2August 26, 2017 7:00:00 PM EDT ET
-*   BUF0-2BAL2-0August 26, 2017 7:00:00 PM EDT ET
-*   NYJ1-1NYG0-2August 26, 2017 7:00:00 PM EDT ET
-*   IND0-2PIT2-0August 26, 2017 7:30:00 PM EDT ET
-*   CLE2-0TB1-1August 26, 2017 7:30:00 PM EDT ET
-*   OAK0-2DAL2-1August 26, 2017 8:00:00 PM EDT ET
-*   LAC0-2LA2-0August 26, 2017 8:00:00 PM EDT ET
-*   HOU1-1NO1-1August 26, 2017 8:00:00 PM EDT ET
-*   GB2-0DEN2-0August 26, 2017 9:00:00 PM EDT ET
 *   CHI1-1TEN1-1August 27, 2017 1:00:00 PM EDT ET
 *   CIN1-1WAS0-2August 27, 2017 4:30:00 PM EDT ET
 *   SF1-1MIN1-1August 27, 2017 8:00:00 PM EDT ET
@@ -14,6 +5,50 @@
 *   CAR24JAX23Final
 *   NE30DET28Final
 *   KC13SEA26Final
+*   ARI24ATL14Final
+*   BUF9BAL13Final
+*   NYJ31NYG32Final
+*   IND19PIT15Final
+*   CLE13TB9Final
+*   OAK20DAL24Final
+*   LAC21LA19Final
+*   HOU0NO13Final
+*   GB17DEN20Final
+
+*   News
+*   Scores
+*   Schedule
+*   Standings
+*   Video
+*   Fantasy
+*   Tickets
+*   Shop
+*   Teams
+*   Game Pass
+*   KICKOFF
+*   Stats
+*   Training Camp
+*   Ways to Watch
+*   Hall of Fame
+*   NFL Network
+*   Photos
+
+*   CHI1-1TEN1-1August 27, 2017 1:00:00 PM EDT ET
+*   CIN1-1WAS0-2August 27, 2017 4:30:00 PM EDT ET
+*   SF1-1MIN1-1August 27, 2017 8:00:00 PM EDT ET
+*   MIA31PHI38Final
+*   CAR24JAX23Final
+*   NE30DET28Final
+*   KC13SEA26Final
+*   ARI24ATL14Final
+*   BUF9BAL13Final
+*   NYJ31NYG32Final
+*   IND19PIT15Final
+*   CLE13TB9Final
+*   OAK20DAL24Final
+*   LAC21LA19Final
+*   HOU0NO13Final
+*   GB17DEN20Final
 
 *   News
 *   Scores
