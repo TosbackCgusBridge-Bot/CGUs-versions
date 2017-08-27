@@ -1,8 +1,4 @@
-Skip to main content Cobranded header here Welcome to Orbitz.com **Continue to the U.S. site at Orbitz.com** close Booking travel on behalf of Done Book, travel, earn!
-
-Get 5% back on the Orbitz App when you book eligible hotels.
-
-Join Rewards //a.travel-assets.com/globalcontrols-service/content/fa0fdf2a846a2ae252c06f7b05a3c4281ac109b2 Search anything Search
+Skip to main content Cobranded header here Welcome to Orbitz.com **Continue to the U.S. site at Orbitz.com** close Booking travel on behalf of Done Join Rewards //a.travel-assets.com/globalcontrols-service/content/fa0fdf2a846a2ae252c06f7b05a3c4281ac109b2 Search anything Search
 
 Show Menu
 
