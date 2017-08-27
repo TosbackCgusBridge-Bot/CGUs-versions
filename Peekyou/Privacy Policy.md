@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. Online, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 20%  20%  20%  20% 
+What is PeekScore? Public Records &. Background Checks 21%  21%  21%  21% 
 
 *   Privacy Policy - Instant Search View Now
     
@@ -119,7 +119,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 20%  Twitter 2% 
+Facebook 21%  Twitter 1% 
 
 *   Cristiano Ronaldo - Cristiano
     
@@ -165,7 +165,26 @@ Facebook 20%  Twitter 2% 
     
 *   Show Less ...
 
-Pinterest 20%  Wikipedia 20%  Instagram 2% 
+Pinterest 21%  Wikipedia 1% 
+
+*   Medana
+    
+    Medana (pronounced \[mɛˈdaːna\]) is a village in the Municipality of Brda in the Slovenian Littoral region of Slovenia. It is located in the Gorizia Hills (Slovene ...
+    
+*   Bauduen
+    
+    Bauduen is a commune in the Var department in the Provence-Alpes-Côte d'Azur region in southeastern France. See also. Communes of the Var department. Lac de Sainte-Croix
+    
+*   Empiricism
+    
+    In philosophy, empiricism is a theory which believes that all knowledge comes from experience. 'Experience' is sometimes translated as 'sense data', i.e. we cannot ...
+    
+*   Titian
+    
+    Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
+    
+
+Instagram 1% 
 
 *   Privacy Policy - insta\_privacy\_policy
     
@@ -191,7 +210,7 @@ Pinterest 20%  Wikipedia 20%  Instagram 2% 
     
 *   Show Less ...
 
-Google+ 2% 
+Google+ 1% 
 
 *   Free Privacy Policy - Google+
     
@@ -206,7 +225,7 @@ Google+ 2% 
     privacy policy - Google+. ... privacy policy's posts. Looks like you've reached the end. Looks like you've reached the end. Unable to load more. Retry. Wait while ...
     
 
-Linkedin 2% 
+Linkedin 1% 
 
 *   Privacy Policy | LinkedIn
     
@@ -252,7 +271,7 @@ Linkedin 2% 
     
 *   Show Less ...
 
-Foursquare 2% 
+Foursquare 1% 
 
 *   privacy policy
     
@@ -286,7 +305,7 @@ Foursquare 2% 
     
 *   Show Less ...
 
-Music 2% 
+Music 1% 
 
 *   Pandora
     
@@ -332,7 +351,7 @@ Music 2% 
     
 *   Show Less ...
 
-Photo Albums 2% 
+Photo Albums 1% 
 
 *   Flickriver
     
@@ -343,7 +362,7 @@ Photo Albums 2% 
     Flickr (pronounced "flicker") is an image hosting and video hosting website and web services suite that was created by Ludicorp in 2004 and acquired by Yahoo on March ...
     
 
-Myspace 2% 
+Myspace 1% 
 
 *   Privacy Policy - 49086242
     
@@ -367,7 +386,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Documents 2% 
+Documents 1% 
 
 *   Privacy Policy - Google
     
