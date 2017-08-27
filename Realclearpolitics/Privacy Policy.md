@@ -282,25 +282,25 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve34
-    *   Disapprove60Disapprove +26
+    *   Approve35
+    *   Disapprove60Disapprove +25
+*   Nevada Senate - Republican PrimaryJMC Analytics
+    *   Tarkanian39
+    *   Heller31Tarkanian +8
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve42
     *   Disapprove56Disapprove +14
 *   President Trump Job ApprovalGWU/Battleground
     *   Approve42
     *   Disapprove53Disapprove +11
-*   2018 Generic Congressional VoteGWU/Battleground
-    *   Democrats45
-    *   Republicans38Democrats +7
 
 More Latest Polls In The News
 
+*   Halperin: Government Shutdown Over Border Wall "Implausible, But There's No Obvious Other Outcome"
 *   Graham: Trump Focusing Against Congress "Very Thought-Out Strategy... Nothing Crazy About It"
 *   Black Trump Supporter Sucker-Punched By Antifa: If Situation Were Reversed, "I'd Be In Spotlight On CNN"
 *   Blumenthal on Trump Probes: "Heroes Of This Era Will Be The Free Press And The Independent Judiciary"
 *   Roger Stone: Any Politician Who Votes To Impeach Trump "Would Be Endangering Their Own Life"
-*   Conway: Disconnect Between What Media Tell Americans Is Important To Them And What Americans Tell Pollsters
 
 *   Politics
 *   Policy
