@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Educati
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms #Harvey is drenching Texas. Get the latest updates AROUND NOAA // Hurricane Andrew: What it was like to work in a Category 5 storm Out of this world: Imagery from the total solar eclipse across America Teachers: Six NOAA tools for back to school Globe had 2nd warmest July and year to date on record
+Enter Search Terms #Harvey is causing catastrophic flooding. Get the latest updates AROUND NOAA // Hurricane Andrew: What it was like to work in a Category 5 storm Out of this world: Imagery from the total solar eclipse across America Teachers: Six NOAA tools for back to school Globe had 2nd warmest July and year to date on record
 
 *   About our agency
 *   News and features
