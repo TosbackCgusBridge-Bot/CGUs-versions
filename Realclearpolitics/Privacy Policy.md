@@ -296,11 +296,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Tillerson: Sebastian Gorka Is "Completely Wrong" About Radical Islam, Afghanistan, "Globalism vs. America First"
+*   Sebastian Gorka on Breitbart News Saturday: "The Forces Of MAGA" Are Down, But Not Out
+*   Former McConnell Chief-of-Staff: 2018 Not A Good Time For Trump To "Triangulate" GOP Leaders In Congress
 *   Halperin: Government Shutdown Over Border Wall "Implausible, But There's No Obvious Other Outcome"
 *   Graham: Trump Focusing Against Congress "Very Thought-Out Strategy... Nothing Crazy About It"
-*   Black Trump Supporter Sucker-Punched By Antifa: If Situation Were Reversed, "I'd Be In Spotlight On CNN"
-*   Blumenthal on Trump Probes: "Heroes Of This Era Will Be The Free Press And The Independent Judiciary"
-*   Roger Stone: Any Politician Who Votes To Impeach Trump "Would Be Endangering Their Own Life"
 
 *   Politics
 *   Policy
