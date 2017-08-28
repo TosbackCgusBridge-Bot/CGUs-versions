@@ -1,6 +1,3 @@
-*   CHI1-1TEN1-1August 27, 2017 1:00:00 PM EDT ET
-*   CIN1-1WAS0-2August 27, 2017 4:30:00 PM EDT ET
-*   SF1-1MIN1-1August 27, 2017 8:00:00 PM EDT ET
 *   MIA31PHI38Final
 *   CAR24JAX23Final
 *   NE30DET28Final
@@ -14,6 +11,9 @@
 *   LAC21LA19Final
 *   HOU0NO13Final
 *   GB17DEN20Final
+*   CHI19TEN7Final
+*   CIN17WAS23Final
+*   SF31MIN32Final
 
 *   News
 *   Scores
@@ -33,9 +33,6 @@
 *   NFL Network
 *   Photos
 
-*   CHI1-1TEN1-1August 27, 2017 1:00:00 PM EDT ET
-*   CIN1-1WAS0-2August 27, 2017 4:30:00 PM EDT ET
-*   SF1-1MIN1-1August 27, 2017 8:00:00 PM EDT ET
 *   MIA31PHI38Final
 *   CAR24JAX23Final
 *   NE30DET28Final
@@ -49,6 +46,9 @@
 *   LAC21LA19Final
 *   HOU0NO13Final
 *   GB17DEN20Final
+*   CHI19TEN7Final
+*   CIN17WAS23Final
+*   SF31MIN32Final
 
 *   News
 *   Scores
