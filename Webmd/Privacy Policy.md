@@ -106,11 +106,11 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Plague: Scary but Rare
-    *   Could City Lights Raise Breast Cancer Risk?
-    *   Essential Oils: Natural Doesn't Mean Risk-Free
-    *   Study Says Artificial Sweeteners Trick the Brain
-    *   Colon Cancer Deaths Up for White Adults Under 55
+    *   Less REM Sleep May Raise Dementia Risk
+    *   Did You Damage Your Eyes During the Eclipse?
+    *   Sitting a Health Risk for the Frail
+    *   Supplement May Help Vision in Seniors
+    *   Do Common Vitamins Raise Lung Cancer Risk?
     
     Experts &. Community
     
@@ -440,7 +440,7 @@ WebMD Policy Last updated on December 30, 2016 © 2016 WebMD, LLC. All rights re
 
 Some of these might surprise you.
 
-Experts in all types of cancers The world leader in fighting cancer ADVERTISEMENT **MD Anderson** Depressed, Guilty Feelings After Eating?
+Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
