@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. Online, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 21%  21%  21%  21% 
+What is PeekScore? Public Records &. Background Checks 12%  12%  12%  12% 
 
 *   Privacy Policy - Instant Search View Now
     
@@ -119,7 +119,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 21%  Twitter 1% 
+Facebook 12%  Twitter 2% 
 
 *   Cristiano Ronaldo - Cristiano
     
@@ -165,7 +165,7 @@ Facebook 21%  Twitter 1% 
     
 *   Show Less ...
 
-Pinterest 21%  Wikipedia 1% 
+Pinterest 12%  Wikipedia 2% 
 
 *   Medana
     
@@ -184,7 +184,7 @@ Pinterest 21%  Wikipedia 1% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Instagram 1% 
+Instagram 2% 
 
 *   Privacy Policy - insta\_privacy\_policy
     
@@ -210,7 +210,7 @@ Instagram 1% 
     
 *   Show Less ...
 
-Google+ 1% 
+Google+ 2% 
 
 *   Free Privacy Policy - Google+
     
@@ -225,53 +225,7 @@ Google+ 1% 
     privacy policy - Google+. ... privacy policy's posts. Looks like you've reached the end. Looks like you've reached the end. Unable to load more. Retry. Wait while ...
     
 
-Linkedin 1% 
-
-*   Privacy Policy | LinkedIn
-    
-    Main content starts below. Sign up. Help Center. About. Press. Blog. Developers. Careers. Advertising. Talent Solutions
-    
-*   LinkedIn - Official Site
-    
-    500 million+ members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
-    
-*   Wire Stone | LinkedIn
-    
-    Learn about working at Wire Stone. Join LinkedIn today for free. See who you know at Wire Stone, leverage your professional network, and get hired.
-    
-*   Leif Larsen | Professional Profile
-    
-    View Leif Larsen’s professional profile on LinkedIn. LinkedIn is the world's largest business network, helping professionals like Leif Larsen discover inside ...
-    
-*   Show More ...
-
-*   Updates to Our Terms of Service | Official LinkedIn Blog
-    
-    Apr 10, 2017 · At LinkedIn, our “members first” philosophy helps guide every decision we make, including how we gather and respect your personal information. Today ...
-    
-*   Privacy policy: Learning Online Marketing - LinkedIn
-    
-    Join Lorrie Thomas Ross for an in-depth discussion in this video, Privacy policy: Learning Online Marketing, part of Learning Online Marketing.
-    
-*   Updates to LinkedIn’s Terms of Service | Official LinkedIn ...
-    
-    Aug 19, 2013 · We have updated the section of the privacy policy that allows what LinkedIn can suggest to you based on the data that you have chosen to upload from your ...
-    
-*   Managing Your Account and Privacy Settings - Overview ...
-    
-    Overall, how satisfied were you with your experience on the LinkedIn Help Center today? \* This field is required. Very satisfied. Satisfied. Somewhat satisfied
-    
-*   Updating LinkedIn’s Privacy Policy | Official LinkedIn Blog
-    
-    May 10, 2013 · At LinkedIn, we’re committed to putting our members first so we want to let you know we’re planning to update LinkedIn’s Privacy Policy in the next week.
-    
-*   Spotify's Big Data Scandal: Outcry Against Intruding ...
-    
-    Aug 26, 2015 · What do you think of Spotify’s new privacy policy? Par for the course, or a gross intrusion into user data privacy?
-    
-*   Show Less ...
-
-Foursquare 1% 
+Linkedin 12%  Foursquare 2% 
 
 *   privacy policy
     
@@ -305,7 +259,7 @@ Foursquare 1% 
     
 *   Show Less ...
 
-Music 1% 
+Music 2% 
 
 *   Pandora
     
@@ -351,7 +305,7 @@ Music 1% 
     
 *   Show Less ...
 
-Photo Albums 1% 
+Photo Albums 2% 
 
 *   Flickriver
     
@@ -362,7 +316,7 @@ Photo Albums 1% 
     Flickr (pronounced "flicker") is an image hosting and video hosting website and web services suite that was created by Ludicorp in 2004 and acquired by Yahoo on March ...
     
 
-Myspace 1% 
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -386,7 +340,7 @@ Myspace 1% 
     
 *   Show Less ...
 
-Documents 1% 
+Documents 2% 
 
 *   Privacy Policy - Google
     
@@ -432,7 +386,7 @@ Documents 1% 
     
 *   Show Less ...
 
-Web Search 1% 
+Web Search 2% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -478,7 +432,7 @@ Web Search 1% 
     
 *   Show Less ...
 
-Images 1% 
+Images 2% 
 
 20
 
