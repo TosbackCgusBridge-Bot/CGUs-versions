@@ -145,9 +145,9 @@ View Platinum Headphones on Instagram
 
 <img class="bg-img" class="url(https://scontent-sjc2-1.cdninstagram.com/t51.2885-15/e35/16123861\_1708335559477461\_5514599993584910336\_n.jpg);" alt="">.
 
-Call of Duty: WWII private beta weekend. Beginning today. Pre-order to play it first on #PlayStation
+Everybody's Golf launches on PS4 on 8/29! Here's everything you need to know before hitting the links: play.st/2wc9jUP
 
-2 days ago
+18 hours ago
 
 View Tweet
 
@@ -217,9 +217,9 @@ View Rise and shine. on Instagram
 
 <img class="bg-img" class="url(https://scontent-sjc2-1.cdninstagram.com/t51.2885-15/e35/19379574\_236189413554673\_6035698943860408320\_n.jpg);" alt="">.
 
-Life Space meets green space. #SonySquareNYC #LifeSpaceUX sony.com/squarenyc
+See how Sony's HDC-4800 camera was used to capture this weekend's big fight #sportstech
 
-1 day ago
+50 minutes ago
 
 View Tweet
 
@@ -283,45 +283,47 @@ Sony on YouTube - A Teen With Autism Looks for Love &. Independence
 
 Play A Teen With Autism Looks for Love &. Independence Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/Atypical-600x600.jpg);" alt="Atypical Trailer">. Jeopardy! In the Palm of Your Hand
+<img class="bg-img" class="url(/en\_us/media/content/Atypical-600x600.jpg);" alt="Atypical Trailer">. See Our Interview With Nicky Jam
 
-Play Jeopardy! World Tour
+Then Check Out the SRS-XB40
 
 Close
 
-*   Share Jeopardy! In the Palm of Your Hand on Facebook
-*   Share Jeopardy! In the Palm of Your Hand on Twitter
-*   Copy URL to share Jeopardy! In the Palm of Your Hand
+*   Share See Our Interview With Nicky Jam on Facebook
+*   Share See Our Interview With Nicky Jam on Twitter
+*   Copy URL to share See Our Interview With Nicky Jam
 
-Play Jeopardy! In the Palm of Your Hand Video
+Play See Our Interview With Nicky Jam Video
 
-Sony on YouTube - Jeopardy! In the Palm of Your Hand
+Sony on YouTube - See Our Interview With Nicky Jam
 
-Play Jeopardy! In the Palm of Your Hand Video hotspot
+Play See Our Interview With Nicky Jam Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/jwt\_sony\_web\_600x600.jpg);" alt="Jeopardy World Tour Game">.
+<img class="bg-img" class="url(/en\_us/media/content/Nicky-Jam-SRS-XB40-600x600.jpg);" alt="Nicky Jam SRS-XB40">. Plus: Listen to the Artist’s
 
-RT @TheTickTV: Destiny has arrived at your doorstep. Let her in, she has popcorn! Stream #TheTick now with your Prime membership.
+Album “Fénix”
 
-2 days ago
+Close
 
-View Tweet
+*   Share Plus: Listen to the Artist’s on Facebook
+*   Share Plus: Listen to the Artist’s on Twitter
+*   Copy URL to share Plus: Listen to the Artist’s
+
+Album “Fénix”
+
+<img class="bg-img" class="url(/en\_us/media/content/Nicky-Jam-600x600\_1.jpg);" alt="Nicky Jam Album">.
 
 View NEW! Wide-Angle Full-Frame E-Mount Lenses. The FE 16-35 mm F2.8 GM &. the FE 12-24 mm F4 G on Instagram
 
-<img class="bg-img" class="url(https://scontent-sjc2-1.cdninstagram.com/t51.2885-15/e35/18579644\_1682982425341275\_2457376121205817344\_n.jpg);" alt="">. Get Next-Level Creativity
+<img class="bg-img" class="url(https://scontent-sjc2-1.cdninstagram.com/t51.2885-15/e35/18579644\_1682982425341275\_2457376121205817344\_n.jpg);" alt="">.
 
-WIth the a9 Camera
+Congrats to @JohnLegend on his win for his video for "Surefire" http://smarturl.it/SurefireVideo
 
-Close
+1 hour ago
 
-*   Share Get Next-Level Creativity on Facebook
-*   Share Get Next-Level Creativity on Twitter
-*   Copy URL to share Get Next-Level Creativity
+View Tweet
 
-WIth the a9 Camera
-
-<img class="bg-img" class="url(/en\_us/media/content/a9-600x600\_4.jpg);" alt="a9 camera">. Here’s Your Chance to Win a Trip to NYC to See Harry Styles Live
+Here’s Your Chance to Win a Trip to NYC to See Harry Styles Live
 
 Start Bidding Now
 
