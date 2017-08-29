@@ -201,31 +201,34 @@
 *   New
     *   *   Featured New
         
-        *   Watches for Men
-        *   Women's Florals
-        *   Free People
-        *   It's in the Hem Details
-        *   Off the Shoulder
-        *   Shop Back to School!
-        *   A Matching Pair - Socks
-        *   Treat Your Feet - Comfort Footbeds
+        *   Fall Checklist
+        *   Sports Apparel
+        *   Stretch Denim
+        *   Gilded Intent
+        *   Departwest
+        *   Women's Bags
+        *   Men's Hats
+        *   Fall Boots
         
         *   Women's New
         
-        *   T-Shirts
         *   Jeans
-        *   Shorts
-        *   Tanks
         *   Shirts/Blouses
+        *   Fashion Tops
+        *   Sweaters
+        *   Sweatshirts
+        *   Coats/Jackets
         *   Shoes
         *   Shop All
         
         *   Men's New
         
-        *   T-Shirts
         *   Jeans
-        *   Shorts
+        *   T-Shirts
         *   Shirts
+        *   Sweatshirts
+        *   Sweaters
+        *   Coats/Jackets
         *   Shoes
         *   Shop All
         
