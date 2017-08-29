@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Carl Hulse_: With Border Wall Spending Threat, Trump Fences Himself In
+*   _Shelby Steele_: Why the Left Can't Let Go of Racism
     
-*   _Jennifer Kerns_: Trump Is Right on the Wall, and Numbers Back Him Up
+*   _Heather Parton_: Arpaio Pardon Sends a Clear Signal to Racist, Brutal Cops
     
-*   _Dylan Scott_: Why Obamacare Didn't Implode
+*   _Susan Glasser_: For All His Fire and Fury, Trump Hasn't Changed Much
     
-*   _Chris Jacobs_: 3 Ways Kathleen Sebelius Sabotaged the Rule of Law
+*   _Rep. Bill Johnson_: Time for Congress to Turn to Pro-Growth Tax Cuts
     
-*   _Damon Linker_: Things Are Going to Get Much, Much Worse
+*   _Neil Irwin_: Will Republican Tax Bill Be Aimed at the Past, or the Future?
     
-*   _Bill Kristol_: Single Best Thing for Country Would Be for Trump to Resign
+*   _Andy Kessler_: The Bitcoin Valuation Bubble
     
-*   _Julie Kelly_: The Kristol Crackup
+*   _Paul Mulshine_: Alt-Left Attack on History: And They Say Trump's Crazy?
     
-*   _A.B. Stoddard_: Democrats Are Working Hard to Destroy Their Party
+*   _Michael Weiss_: Yes, It's OK to Question Trump's Mental Health
     
-*   _Bill McKibben_: The Climate Movement's New Battle Cry
+*   _Laurence Bergreen_: Columbus Deserves to Stay in His Rightful Place
     
-*   _John Kass_: Murder on the Steps of a Church Tests the Faithful
+*   _Zalmay Khalilzad_: The Path to U.S.-Russia Cooperation
     
-*   _Foster Friess_: How Do We Return Civility to Our Culture?
+*   _Sarah Ellison_: How Jared and Ivanka Were Repelled by Washington Elite
     
-*   _William Voegeli_: Liberals, Shipwrecked
+*   _Alexis Simendinger_: Trump to Launch Tax Reform Push, But Hurdles Are Steep
     
-*   _Jeff Greenfield_: When Trump Fails, What Becomes of His Fans?
+*   _Fred Barnes_: For Better or Worse, Trump and Republicans Need Each Other
     
-*   _James Robbins_: As Dems Howl Over Statues, Trump Is Free to Run Nation
+*   _Juan Williams_: Trump's Shutdown Gamble
     
-*   _Ryan Lizza_: How Bannon Lost the Battle for the Soul of Trumpism
+*   _Kimberley Strassel_: J.P. Morgan's Hate List
     
-*   _Peter Brookes_: New Afghan Strategy Hits the Mark
+*   _Todd Gitlin_: Who's Afraid of Antifa?
     
-*   _Ayaan Hirsi Ali_: Why Is the Southern Poverty Law Center Targeting Liberals?
+*   _Isaac Chotiner_: 'There's Been a Slightly Hysterical Tone About Race'
     
-*   _John Judis_: The Socialism America Needs Now
+*   _Byron York_: Next Stop for Trump Dossier Probe: The FBI
     
-*   _Byron York_: Mystery Deepens Over Who Funded Trump Dossier
+*   _Jane Chong_: The Arpaio Pardon Hastens Trump's Assault on the Law
     
-*   _Caitlin Huey-Burns_: Republicans Weigh Fallout of Pardon for Arizona's Arpaio
+*   _James Arkin_: Dems Aim for Competitive Rematches in 2018 House Races
     
-*   _Kamisar &. Hagen_: 7 Senate Seats Most Likely to Flip in 2018
+*   _Stephen Moore_: The Key to Tax Reform: 'Keep It Simple, Stupid'
     
-*   _Jayme Metzgar_: Meet the Conservative Trying to Unseat Manchin in WV
+*   _Robert Samuelson_: We Need Higher Taxes
     
-*   _Ian Bremmer_: 5 Reasons Things in North Korea Could Still Go Badly Wrong
+*   _Charles Kesler_: The Old New Left and the New New Left
     
-*   _David Ignatius_: Could This Be a Game-Changer for Mideast Peace?
+*   _Bill Scher_: Which Divided Party Will Be the Last One Standing in '18?
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump's Two Faces: Uniter, Divider
+*   Dems Aim for Competitive Rematches in 2018 House Races
+*   Trump to Launch Tax Reform Push, But Hurdles Are Steep
+*   Tillerson: No One at U.N. Doubts U.S. Commitment to Freedom, Equality
 *   Republicans Weigh Fallout of Pardon for Arizona's Arpaio
-*   At AZ Rally, Trump Blames Media for Country's Deepening Divisions
-*   Facing Big Fights, Kelly Seeks to Restore White House Order
-*   In Pivot, Trump Vows to "Win" in Afghanistan
+*   Trump's Two Faces: Uniter, Divider
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -284,23 +284,24 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalGallup
     *   Approve35
     *   Disapprove60Disapprove +25
-*   Nevada Senate - Republican PrimaryJMC Analytics
-    *   Tarkanian39
-    *   Heller31Tarkanian +8
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve42
-    *   Disapprove56Disapprove +14
-*   President Trump Job ApprovalGWU/Battleground
-    *   Approve42
-    *   Disapprove53Disapprove +11
+    *   Disapprove57Disapprove +15
+*   Direction of CountryRasmussen Reports
+    *   Right Direction29
+    *   Wrong Track64Wrong Track +35
+*   Arizona Senate - Republican PrimaryJMC Analytics
+    *   Ward47
+    *   Flake21
+    *   Tutora3Ward +26
 
 More Latest Polls In The News
 
-*   Tillerson: Sebastian Gorka Is "Completely Wrong" About Radical Islam, Afghanistan, "Globalism vs. America First"
+*   Glenn Thrush: How Would Trump React To Another President's Response To Hurricane Harvey?
+*   Scarborough: Arpaio "Complete Thug". 'Morning Joe' Panel: He Ran "A Concentration Camp"
+*   Trump Supporter Slams CNN's Navarro: You Don't Represent Republican View, You Supported Democrats
 *   Sebastian Gorka on Breitbart News Saturday: "The Forces Of MAGA" Are Down, But Not Out
-*   Former McConnell Chief-of-Staff: 2018 Not A Good Time For Trump To "Triangulate" GOP Leaders In Congress
-*   Halperin: Government Shutdown Over Border Wall "Implausible, But There's No Obvious Other Outcome"
-*   Graham: Trump Focusing Against Congress "Very Thought-Out Strategy... Nothing Crazy About It"
+*   Tillerson: Sebastian Gorka Is "Completely Wrong" About Radical Islam, Afghanistan, "Globalism vs. America First"
 
 *   Politics
 *   Policy
