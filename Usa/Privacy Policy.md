@@ -132,6 +132,7 @@ Legal Notices &. Trademarks
 *   Online Purchases and Auto-Renewal Terms and Conditions
 *   Legal Disclosures
 *   Autodesk Quote and Order Direct Order Terms and Conditions
+*   Trademarks
 *   Move to Subscription Terms and Conditions
 *   Autodesk Terms and Conditions Governing the Provision of Consulting Services
 *   Autodesk Participant Guildelines
