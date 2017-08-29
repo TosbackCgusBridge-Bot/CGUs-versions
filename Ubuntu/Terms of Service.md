@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   LXD Weekly Status 12 ›
+*   conjure-up dev summary: you like LXD? we like LXD. Put your floaties on and step up to the Helm! ›
 *   Ubuntu Desktop Weekly Update: August 25, 2017 ›
 *   Canonical Distribution of Kubernetes: Development Summary- August 24 ›
 *   Security Team Weekly Summary: August 24, 2017 ›
-*   From docs to Schema ›
-*   I me mine: An UbuConLA 2017 Summit Summary ›
