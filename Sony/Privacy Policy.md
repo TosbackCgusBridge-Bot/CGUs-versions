@@ -219,7 +219,7 @@ View Rise and shine. on Instagram
 
 See how Sony's HDC-4800 camera was used to capture this weekend's big fight #sportstech
 
-50 minutes ago
+1 day ago
 
 View Tweet
 
@@ -319,7 +319,7 @@ View NEW! Wide-Angle Full-Frame E-Mount Lenses. The FE 16-35 mm F2.8 GM &. the F
 
 Congrats to @JohnLegend on his win for his video for "Surefire" http://smarturl.it/SurefireVideo
 
-1 hour ago
+1 day ago
 
 View Tweet
 
