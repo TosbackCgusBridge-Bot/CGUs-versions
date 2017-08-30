@@ -1,4 +1,6 @@
-Turn on more accessible mode Turn off more accessible mode Skip to main content
+Turn on more accessible mode Turn off more accessible mode
+
+Skip to main content
 
 *   Order Now
 *   My Services
