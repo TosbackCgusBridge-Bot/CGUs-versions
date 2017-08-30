@@ -14,12 +14,12 @@ Sign In or Sign Up
 
 *   Post Jobs &. Search Resumes
     *   Value Plans
-    *   Post Jobs
-    *   Search Resumes
+    *   Job Postings
+    *   Resume Database
 *   Products and Resources
     *   Value Plans
-    *   Post Jobs
-    *   Search Resumes
+    *   Job Postings
+    *   Resume Database
     *   Software &. Services
     *   Resource Center
 *   Software &. Services
@@ -34,7 +34,8 @@ Sign In or Sign Up
     *   Workterra  
         Human Capital Management
     *   View All Products
-*   About
+*   Company
+    *   Why CareerBuilder
     *   About CareerBuilder
     *   Press Room
 *   Resource Center
