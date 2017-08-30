@@ -62,11 +62,11 @@ Skip to main content
     *   Integrations
     *   Join Us
 
-Login Let's Connect PROFIT FROM  
-THE MOST  
-POWERFUL TOOLS  
-IN MEDIA AND  
-MARKETING TECH What We Do Watch Video
+Login Let's Connect CONNECTING  
+BRANDS TO  
+MILLIONS OF REAL  
+PEOPLE BETTER  
+THAN ANYONE What We Do Watch Video
 
 *   160+ MILLION Real People You Can  
     Message Right Now
