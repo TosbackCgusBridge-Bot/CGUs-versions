@@ -82,8 +82,8 @@
         
           
           
-        Give a Buckle Gift card The Best Deals In Denim  
-        Women | Men | Sale | Factory Seconds
+        Give a Buckle Gift card Back To Fall, Trends For All!  
+        Women's New Arrivals | Men's New Arrivals
 *   Men
     *   *   Featured
         
@@ -142,8 +142,8 @@
         
           
           
-        Give a Buckle Gift card The Best Deals In Denim  
-        Women | Men | Sale | Factory Seconds
+        Give a Buckle Gift card Back To Fall, Trends For All!  
+        Women's New Arrivals | Men's New Arrivals
 *   Kids
     *   *   Featured
         
@@ -165,8 +165,8 @@
         *   Shop All
         
           
-        Give a Buckle Gift card The Best Deals In Denim  
-        Women | Men | Sale | Factory Seconds
+        Give a Buckle Gift card Back To Fall, Trends For All!  
+        Women's New Arrivals | Men's New Arrivals
 *   Jeans
     *   *   Women's Jeans
         
@@ -196,8 +196,8 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card The Best Deals In Denim  
-        Women | Men | Sale | Factory Seconds
+        Give a Buckle Gift card Back To Fall, Trends For All!  
+        Women's New Arrivals | Men's New Arrivals
 *   New
     *   *   Featured New
         
@@ -238,8 +238,8 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card The Best Deals In Denim  
-        Women | Men | Sale | Factory Seconds
+        Give a Buckle Gift card Back To Fall, Trends For All!  
+        Women's New Arrivals | Men's New Arrivals
 *   Sale
     *   *   Women's Sale
         
@@ -282,8 +282,8 @@
         
           
           
-        Give a Buckle Gift card The Best Deals In Denim  
-        Women | Men | Sale | Factory Seconds
+        Give a Buckle Gift card Back To Fall, Trends For All!  
+        Women's New Arrivals | Men's New Arrivals
 
 SearchSubmitSearchSubmit × ClosePrivacy &. Security
 
