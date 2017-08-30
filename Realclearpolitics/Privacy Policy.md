@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Shelby Steele_: Why the Left Can't Let Go of Racism
+*   _Frank Somerville_: 'I Experienced Hate Firsthand' at Berkeley Rally
     
-*   _Heather Parton_: Arpaio Pardon Sends a Clear Signal to Racist, Brutal Cops
+*   _Mark Kingwell_: Don't Bother Trying to Understand Those on 'Other Side'
     
-*   _Susan Glasser_: For All His Fire and Fury, Trump Hasn't Changed Much
+*   _Larry O'Connor_: Why Won't the Media Demand Dems Condemn Antifa?
     
-*   _Rep. Bill Johnson_: Time for Congress to Turn to Pro-Growth Tax Cuts
+*   _Nicole Gelinas_: Houston, Inundated
     
-*   _Neil Irwin_: Will Republican Tax Bill Be Aimed at the Past, or the Future?
+*   _Steve Israel_: Will the 'Comeuppance Caucus' Get Help for Harvey?
     
-*   _Andy Kessler_: The Bitcoin Valuation Bubble
+*   _Heather MacDonald_: Profs Labeled Racists for Urging Public to Act Responsibly
     
-*   _Paul Mulshine_: Alt-Left Attack on History: And They Say Trump's Crazy?
+*   _Juan Escalante_: If Trump Ends DACA, Dreamers Will Return to Life of Doubt
     
-*   _Michael Weiss_: Yes, It's OK to Question Trump's Mental Health
+*   _Debra Saunders_: Trump's Immigration Policy Working, Without Building a Wall
     
-*   _Laurence Bergreen_: Columbus Deserves to Stay in His Rightful Place
+*   _Kashmir Hill_: Facebook Figured Out My Secrets But Won't Tell Me How
     
-*   _Zalmay Khalilzad_: The Path to U.S.-Russia Cooperation
+*   _Glenn Reynolds_: Why Mark Zuckerberg Won't Be President
     
-*   _Sarah Ellison_: How Jared and Ivanka Were Repelled by Washington Elite
+*   _Carl M. Cannon_: Michael Cromartie: An Indispensable Man
     
-*   _Alexis Simendinger_: Trump to Launch Tax Reform Push, But Hurdles Are Steep
+*   _Friedman &. Schwartz_: How Hurricane Harvey Became So Destructive
     
-*   _Fred Barnes_: For Better or Worse, Trump and Republicans Need Each Other
+*   _Christie Blatchford_: 'Deplorables' Pull Together in Harvey Aftermath
     
-*   _Juan Williams_: Trump's Shutdown Gamble
+*   _Eugene Robinson_: Pay Heed to What Nature Is Telling Us
     
-*   _Kimberley Strassel_: J.P. Morgan's Hate List
+*   _Victor Davis Hanson_: Trump Haters, Supporters, Neither, and Both
     
-*   _Todd Gitlin_: Who's Afraid of Antifa?
+*   _Richard Cohen_: Gary Cohn, a Pained but Necessary Man in the White House
     
-*   _Isaac Chotiner_: 'There's Been a Slightly Hysterical Tone About Race'
+*   _Pat Buchanan_: Can the GOP's Shotgun Marriage Be Saved?
     
-*   _Byron York_: Next Stop for Trump Dossier Probe: The FBI
+*   _Andrew Romano_: Jeff Flake Fights for Conservatism's Future, and His Own
     
-*   _Jane Chong_: The Arpaio Pardon Hastens Trump's Assault on the Law
+*   _Damon Linker_: The Lost Cause of the Never Trump Republicans
     
-*   _James Arkin_: Dems Aim for Competitive Rematches in 2018 House Races
+*   _Clive Crook_: Why People Still Support Trump
     
-*   _Stephen Moore_: The Key to Tax Reform: 'Keep It Simple, Stupid'
+*   _Rep. Raul Grijalva_: How Can Law &. Order GOP Stay Silent on Arpaio Pardon?
     
-*   _Robert Samuelson_: We Need Higher Taxes
+*   _Wesley Pruden_: Sheriff Joe Finds a Little Justice
     
-*   _Charles Kesler_: The Old New Left and the New New Left
+*   _Gilsinan &. Serhan_: North Korea's Most Provocative Missile Launch Yet
     
-*   _Bill Scher_: Which Divided Party Will Be the Last One Standing in '18?
+*   _Julian Adorney_: Socialism Set Fire to Venezuela's Oil Crisis
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Dems Aim for Competitive Rematches in 2018 House Races
 *   Trump to Launch Tax Reform Push, But Hurdles Are Steep
-*   Tillerson: No One at U.N. Doubts U.S. Commitment to Freedom, Equality
+*   Trump Pledges Swift Financial Aid to Harvey's Victims
+*   Arpaio: McCain "Should Be on My Side... Sad, Him Using Me Like That"
+*   Dems Aim for Competitive Rematches in 2018 House Races
 *   Republicans Weigh Fallout of Pardon for Arizona's Arpaio
-*   Trump's Two Faces: Uniter, Divider
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -281,27 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalPew Research
+    *   Approve36
+    *   Disapprove63Disapprove +27
 *   President Trump Job ApprovalGallup
     *   Approve35
     *   Disapprove60Disapprove +25
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve42
-    *   Disapprove57Disapprove +15
-*   Direction of CountryRasmussen Reports
-    *   Right Direction29
-    *   Wrong Track64Wrong Track +35
-*   Arizona Senate - Republican PrimaryJMC Analytics
-    *   Ward47
-    *   Flake21
-    *   Tutora3Ward +26
+    *   Approve41
+    *   Disapprove58Disapprove +17
+*   Alabama Senate Run-Off Election - Moore vs. StrangeHarper (R)
+    *   Moore47
+    *   Strange45Moore +2
 
 More Latest Polls In The News
 
-*   Glenn Thrush: How Would Trump React To Another President's Response To Hurricane Harvey?
-*   Scarborough: Arpaio "Complete Thug". 'Morning Joe' Panel: He Ran "A Concentration Camp"
+*   CNN's Zeleny: No "Empathy" From "Showman" Trump In Texas Visit. Did Not Offer Hugs, Hope
+*   Trump Supporter Assaulted By Antifa: "Before I Could Have Any Dialogue... Their Emotions Got The Better Of Them"
+*   Lemon vs. Ruddy On CNN Bias: Trump Doesn't Get As Upset With People "Who Don't Look Like Me"
+*   Tucker vs. Dem on Transgender Pronouns: If I'm Called Names, Should People Be Jailed?
 *   Trump Supporter Slams CNN's Navarro: You Don't Represent Republican View, You Supported Democrats
-*   Sebastian Gorka on Breitbart News Saturday: "The Forces Of MAGA" Are Down, But Not Out
-*   Tillerson: Sebastian Gorka Is "Completely Wrong" About Radical Islam, Afghanistan, "Globalism vs. America First"
 
 *   Politics
 *   Policy
