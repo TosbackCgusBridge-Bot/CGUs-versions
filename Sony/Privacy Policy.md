@@ -147,7 +147,7 @@ View Platinum Headphones on Instagram
 
 Everybody's Golf launches on PS4 on 8/29! Here's everything you need to know before hitting the links: play.st/2wc9jUP
 
-18 hours ago
+1 day ago
 
 View Tweet
 
@@ -219,7 +219,7 @@ View Rise and shine. on Instagram
 
 See how Sony's HDC-4800 camera was used to capture this weekend's big fight #sportstech
 
-1 day ago
+2 days ago
 
 View Tweet
 
@@ -319,7 +319,7 @@ View NEW! Wide-Angle Full-Frame E-Mount Lenses. The FE 16-35 mm F2.8 GM &. the F
 
 Congrats to @JohnLegend on his win for his video for "Surefire" http://smarturl.it/SurefireVideo
 
-1 day ago
+2 days ago
 
 View Tweet
 
