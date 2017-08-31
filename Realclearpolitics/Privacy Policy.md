@@ -114,6 +114,40 @@
     *   About
     *   Media Kit
 
+*   _Tevi Troy_: Trump's Reassuring Hurricane Response
+    
+*   _Amy Davidson Sorkin_: What Did Donald Trump Learn in Texas?
+    
+*   _Ed Feulner_: Giving Tax Cuts a Fighting Chance
+    
+*   _Sarah Anderson_: It's a Myth That Corporate Tax Cuts Mean More Jobs
+    
+*   _Ken Masugi_: Trump's Coming Victory Over Identity Politics
+    
+*   _Alexis Okeowo_: Witnessing a Rally for a New Confederate Monument
+    
+*   _Jason Riley_: Modern Liberalism's False Obsession With Civil War Monuments
+    
+*   _Bridgette Dunlap_: Why Trump's Arpaio Pardon Is So Terrifying
+    
+*   _Paul Mirengoff_: Did Arpaio Receive a Fair Hearing From Unbiased Judge?
+    
+*   _David Catanese_: Arizona's Rattled Senate Race
+    
+*   _Melinda Henneberger_: Trump's Missouri Supporters Weigh In: It's Complicated
+    
+*   _Jonah Goldberg_: Handling Harvey Shows America at Its Best
+    
+*   _Daniel Gross_: What It Means for the Economy When Houston Shuts Down
+    
+*   _Rich Lowry_: Stop Making Excuses for Antifa Thuggery
+    
+*   _Ryan Lizza_: Trump's Real-Estate Ambitions in Moscow
+    
+*   _Willis Krumholz_: We Still Have Zero Evidence of Trump-Russia Collusion
+    
+*   _Sean Gregory_: How Kids' Sports Became a $15 Billion Industry
+    
 *   _Frank Somerville_: 'I Experienced Hate Firsthand' at Berkeley Rally
     
 *   _Mark Kingwell_: Don't Bother Trying to Understand Those on 'Other Side'
@@ -127,40 +161,6 @@
 *   _Heather MacDonald_: Profs Labeled Racists for Urging Public to Act Responsibly
     
 *   _Juan Escalante_: If Trump Ends DACA, Dreamers Will Return to Life of Doubt
-    
-*   _Debra Saunders_: Trump's Immigration Policy Working, Without Building a Wall
-    
-*   _Kashmir Hill_: Facebook Figured Out My Secrets But Won't Tell Me How
-    
-*   _Glenn Reynolds_: Why Mark Zuckerberg Won't Be President
-    
-*   _Carl M. Cannon_: Michael Cromartie: An Indispensable Man
-    
-*   _Friedman &. Schwartz_: How Hurricane Harvey Became So Destructive
-    
-*   _Christie Blatchford_: 'Deplorables' Pull Together in Harvey Aftermath
-    
-*   _Eugene Robinson_: Pay Heed to What Nature Is Telling Us
-    
-*   _Victor Davis Hanson_: Trump Haters, Supporters, Neither, and Both
-    
-*   _Richard Cohen_: Gary Cohn, a Pained but Necessary Man in the White House
-    
-*   _Pat Buchanan_: Can the GOP's Shotgun Marriage Be Saved?
-    
-*   _Andrew Romano_: Jeff Flake Fights for Conservatism's Future, and His Own
-    
-*   _Damon Linker_: The Lost Cause of the Never Trump Republicans
-    
-*   _Clive Crook_: Why People Still Support Trump
-    
-*   _Rep. Raul Grijalva_: How Can Law &. Order GOP Stay Silent on Arpaio Pardon?
-    
-*   _Wesley Pruden_: Sheriff Joe Finds a Little Justice
-    
-*   _Gilsinan &. Serhan_: North Korea's Most Provocative Missile Launch Yet
-    
-*   _Julian Adorney_: Socialism Set Fire to Venezuela's Oil Crisis
     
 
 *   Previous
@@ -262,9 +262,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump to Launch Tax Reform Push, But Hurdles Are Steep
 *   Trump Pledges Swift Financial Aid to Harvey's Victims
-*   Arpaio: McCain "Should Be on My Side... Sad, Him Using Me Like That"
+*   White House Launches Tax Reform Push, But Hurdles Are Steep
+*   Trump Talks Clean Up in Texas: "We Want to Do It Better Than Ever Before"
 *   Dems Aim for Competitive Rematches in 2018 House Races
 *   Republicans Weigh Fallout of Pardon for Arizona's Arpaio
 *   Presidential Job Approval
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalPew Research
-    *   Approve36
-    *   Disapprove63Disapprove +27
+*   President Trump Job ApprovalFOX News
+    *   Approve41
+    *   Disapprove55Disapprove +14
 *   President Trump Job ApprovalGallup
     *   Approve35
-    *   Disapprove60Disapprove +25
+    *   Disapprove59Disapprove +24
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve41
     *   Disapprove58Disapprove +17
-*   Alabama Senate Run-Off Election - Moore vs. StrangeHarper (R)
-    *   Moore47
-    *   Strange45Moore +2
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve37
+    *   Disapprove58Disapprove +21
 
 More Latest Polls In The News
 
+*   Ben Shapiro: Does Trump Have An Empathy Problem? Or Does The Media Have An Expectation Problem?
+*   Christie: Media Coverage Of Trump "Exhausting". Feels Like It's Gone On For 4 Years, Not 7 Months
 *   CNN's Zeleny: No "Empathy" From "Showman" Trump In Texas Visit. Did Not Offer Hugs, Hope
 *   Trump Supporter Assaulted By Antifa: "Before I Could Have Any Dialogue... Their Emotions Got The Better Of Them"
 *   Lemon vs. Ruddy On CNN Bias: Trump Doesn't Get As Upset With People "Who Don't Look Like Me"
-*   Tucker vs. Dem on Transgender Pronouns: If I'm Called Names, Should People Be Jailed?
-*   Trump Supporter Slams CNN's Navarro: You Don't Represent Republican View, You Supported Democrats
 
 *   Politics
 *   Policy
