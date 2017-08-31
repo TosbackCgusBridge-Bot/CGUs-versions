@@ -1,4 +1,5 @@
-Skip to main content
+Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking Subscribe, I agree to the WebMD Terms &. Conditions &. Privacy Policy  
+and understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -51,7 +52,7 @@ Skip to main content
     *   Commonly Abused Drugs
     *   Taking Meds When Pregnant
     
-    Featured Topics*   News How and When Medical Marijuana Is Used
+    Featured Topics*   News FDA Approves First-of-Its-Kind Cancer Treatment
     *   Slideshow Vitamins &. Minerals From A - Zinc
 *   Living  
     Healthy Living Healthy Living Healthy Diet, Food &. Fitness
@@ -106,11 +107,11 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Less REM Sleep May Raise Dementia Risk
-    *   Did You Damage Your Eyes During the Eclipse?
-    *   Sitting a Health Risk for the Frail
+    *   FDA Approves First-of-Its-Kind Cancer Treatment
+    *   Drink Coffee, Live Longer?
+    *   Slow and Steady Wins the Weight Loss Race
+    *   Many Migraine Patients Given Unnecessary Opioids
     *   Supplement May Help Vision in Seniors
-    *   Do Common Vitamins Raise Lung Cancer Risk?
     
     Experts &. Community
     
@@ -440,7 +441,7 @@ WebMD Policy Last updated on December 30, 2016 © 2016 WebMD, LLC. All rights re
 
 Some of these might surprise you.
 
-Depressed, Guilty Feelings After Eating?
+How Would You Describe Whitening Toothpaste? The Touch Test Truth How do Sensodyne® True White® and other whitening toothpastes stack up? Several people noticed a difference in texture. Ad By **Sensodyne®** Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
