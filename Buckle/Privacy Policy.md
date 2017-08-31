@@ -14,7 +14,7 @@
     *   Login
     *   |
     *   Register
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   0MY FAVORITES
 *   MY BAG
@@ -380,6 +380,7 @@ Returns
 
 Promotions
 
+*   Buckle Card Score Extra Points
 *   Buckle Credit Card FREE USB Charger
 *   All Promotions
 *   Tax Free Weekends 2017
