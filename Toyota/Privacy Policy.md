@@ -81,12 +81,12 @@ View All Vehicles
 *   Build &. Price
 *   Local Specials
 *   Search Inventory
-*   find a dealer
+*   KBB Trade-In Value
 
-*   Contact A Dealer
+*   Request a Quote
 *   View Brochures
 *   Accessories
-*   KBB Trade-In-Value
+*   Contact a Dealer
 *   Compare Vehicles
 *   Toyota Certified Used Vehicles
 *   Find Your Match
@@ -129,15 +129,15 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 *   Build &. Price
 *   Local Specials
 *   Search Inventory
-*   find a dealer
+*   KBB Trade-In Value
 
-*   Contact A Dealer
+*   Request a Quote
 *   Find a Dealer
 *   View Brochures
 *   Accessories
 *   Toyota Certified Used Vehicles
 *   Compare Vehicles
-*   KBB Trade-In-Value
+*   Contact a Dealer
 *   Find Your Match
 *   Buy Parts and Accessories
 
