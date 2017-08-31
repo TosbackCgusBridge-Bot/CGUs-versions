@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Education Teachers: Six NOAA tools for back to school Oceans &. Coasts Video: Could you survive a rip current? See how National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather 'Turn around, don't drown': What to do before, during and after a flood Education Teachers: Six NOAA tools for back to school National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Educati
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms #Harvey is causing catastrophic flooding. Get the latest updates AROUND NOAA // Hurricane Andrew: What it was like to work in a Category 5 storm Out of this world: Imagery from the total solar eclipse across America Teachers: Six NOAA tools for back to school Globe had 2nd warmest July and year to date on record
+Enter Search Terms #Harvey is causing catastrophic flooding. Get the latest updates AROUND NOAA // 'Turn around, don't drown': What to do before, during and after a flood Teachers: Six NOAA tools for back to school Hurricane Andrew: What it was like to work in a Category 5 storm Globe had 2nd warmest July and year to date on record
 
 *   About our agency
 *   News and features
