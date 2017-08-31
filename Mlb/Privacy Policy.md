@@ -47,8 +47,8 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     
     Featured
     *   Managers postgame
-    *   MLB Tonight
-    *   MLB Moments
+    *   Dirtiest Plays
+    *   Radio Calls
     *   Must C
     *   Chatting Cage
     *   Carry The Freight
