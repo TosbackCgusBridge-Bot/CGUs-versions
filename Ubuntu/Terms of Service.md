@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Security Team Weekly Summary: August 31, 2017 ›
+*   Ubuntu Foundations Development Summary – August 30, 2017 ›
+*   Kernel Team Summary: August 30, 2017 ›
+*   Ceph storage driver in LXD ›
 *   Ubuntu Server Development Summary – 29 Aug 2017 ›
-*   Testing Unsupported Release Upgrades ›
-*   Week 34 of 2017 in snapcraft ›
-*   LXD Weekly Status 12 ›
-*   conjure-up dev summary: you like LXD? we like LXD. Put your floaties on and step up to the Helm! ›
