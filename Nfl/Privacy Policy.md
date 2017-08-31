@@ -1,70 +1,68 @@
-*   MIA1-231PHI2-138Final
-*   CAR2-124JAX1-223Final
-*   NE1-230DET2-128Final
-*   KC1-213SEA3-026Final
-*   ARI2-224ATL0-314Final
-*   BUF0-39BAL3-013Final
-*   NYJ1-231NYG1-232Final
-*   IND1-219PIT2-115Final
-*   CLE3-013TB1-29Final
-*   OAK0-320DAL3-124Final
-*   LAC1-221LA2-119Final
-*   HOU1-20NO2-113Final
-*   GB2-117DEN3-020Final
-*   CHI2-119TEN1-27Final
-*   CIN1-217WAS1-223Final
-*   SF1-231MIN2-132Final
+*   PHI2-1NYJ1-2August 31, 2017 7:00:00 PM EDT ET
+*   JAX1-2ATL0-3August 31, 2017 7:00:00 PM EDT ET
+*   DET2-1BUF0-3August 31, 2017 7:00:00 PM EDT ET
+*   LA2-1GB2-1August 31, 2017 7:00:00 PM EDT ET
+*   CIN1-2IND1-2August 31, 2017 7:00:00 PM EDT ET
+*   PIT2-1CAR2-1August 31, 2017 7:30:00 PM EDT ET
+*   NYG1-2NE1-2August 31, 2017 7:30:00 PM EDT ET
+*   WAS1-2TB1-2August 31, 2017 7:30:00 PM EDT ET
+*   CLE3-0CHI2-1August 31, 2017 8:00:00 PM EDT ET
+*   MIA1-2MIN2-1August 31, 2017 8:00:00 PM EDT ET
+*   BAL3-0NO2-1August 31, 2017 8:00:00 PM EDT ET
+*   TEN1-2KC1-2August 31, 2017 8:30:00 PM EDT ET
+*   ARI2-2DEN3-0August 31, 2017 9:00:00 PM EDT ET
+*   SEA3-0OAK0-3August 31, 2017 10:00:00 PM EDT ET
+*   LAC1-2SF1-2August 31, 2017 10:00:00 PM EDT ET
 
 *   News
 *   Scores
 *   Schedule
 *   Standings
+*   KICKOFF
 *   Video
 *   Fantasy
 *   Tickets
 *   Shop
 *   Teams
 *   Game Pass
-*   KICKOFF
 *   Stats
+*   LONDON GAMES
 *   Training Camp
 *   Ways to Watch
-*   Hall of Fame
 *   NFL Network
 *   Photos
 
-*   MIA31PHI38Final
-*   CAR24JAX23Final
-*   NE30DET28Final
-*   KC13SEA26Final
-*   ARI24ATL14Final
-*   BUF9BAL13Final
-*   NYJ31NYG32Final
-*   IND19PIT15Final
-*   CLE13TB9Final
-*   OAK20DAL24Final
-*   LAC21LA19Final
-*   HOU0NO13Final
-*   GB17DEN20Final
-*   CHI19TEN7Final
-*   CIN17WAS23Final
-*   SF31MIN32Final
+*   PHI2-1NYJ1-2August 31, 2017 7:00:00 PM EDT ET
+*   JAX1-2ATL0-3August 31, 2017 7:00:00 PM EDT ET
+*   DET2-1BUF0-3August 31, 2017 7:00:00 PM EDT ET
+*   LA2-1GB2-1August 31, 2017 7:00:00 PM EDT ET
+*   CIN1-2IND1-2August 31, 2017 7:00:00 PM EDT ET
+*   PIT2-1CAR2-1August 31, 2017 7:30:00 PM EDT ET
+*   NYG1-2NE1-2August 31, 2017 7:30:00 PM EDT ET
+*   WAS1-2TB1-2August 31, 2017 7:30:00 PM EDT ET
+*   CLE3-0CHI2-1August 31, 2017 8:00:00 PM EDT ET
+*   MIA1-2MIN2-1August 31, 2017 8:00:00 PM EDT ET
+*   BAL3-0NO2-1August 31, 2017 8:00:00 PM EDT ET
+*   TEN1-2KC1-2August 31, 2017 8:30:00 PM EDT ET
+*   ARI2-2DEN3-0August 31, 2017 9:00:00 PM EDT ET
+*   SEA3-0OAK0-3August 31, 2017 10:00:00 PM EDT ET
+*   LAC1-2SF1-2August 31, 2017 10:00:00 PM EDT ET
 
 *   News
 *   Scores
 *   Schedule
 *   Standings
+*   KICKOFF
 *   Video
 *   Fantasy
 
 *   Fantasy
 
 *   *   Game Pass
-    *   KICKOFF
     *   Stats
+    *   LONDON GAMES
     *   Training Camp
     *   Ways to Watch
-    *   Hall of Fame
     *   NFL Network
     *   Photos
 
