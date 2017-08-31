@@ -278,7 +278,7 @@ COMPARE **LS &. LS HYBRID**
 *   Find a Dealer
     
 
-YOUR PRIVACY RIGHTS Lexus Personal Information Sharing Practices – 2016
+YOUR PRIVACY RIGHTS Lexus Personal Information Sharing Practices – 2016 (Effective as of January 1, 2017)
 
 During 2016, Lexus shared Personal Information about our customers with SiriusXM™ Satellite Radio, Lexus hotel partners, Lexus Financial Services, Lexus Financial Savings Bank and our authorized Lexus dealers, where the information was used for the recipient’s own marketing.
 
@@ -320,15 +320,16 @@ Important Information
 
 *   **CHILDREN.** Lexus does not seek information from children under the age of 13.
 *   **PHISHING SCAMS.** Toyota will never ask you to update your personal information through email.
-*   **ACCEPTANCE.** By using the Platforms, you signify your acceptance of this Privacy Policy.
+*   **ACCEPTANCE.** By using the Platforms, you signify your acceptance of this Privacy Statement.
 
 HOW TO CONTACT US
 
 To contact us with a question, call us at 1-800-25-LEXUS or mail your inquiry to:
 
 Lexus  
-P.O. Box 2991 – Mail Drop L201  
-Torrance, CA 90509-2991
+P.O. Box 259001 – Mail Drop E3-2D  
+Plano, TX 75025-9001  
+United States
 
 To read more about contact information
 
