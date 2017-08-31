@@ -138,7 +138,11 @@ To learn how to opt out of these cookies using your browser settings click here.
 
 To learn how to manage privacy and storage settings for Flash cookies click here.
 
-Tracking and other cookies The Services use hashed tags or an anonymized tracking identifier that ties to cookies that are used on Customers’ website that allow Customers to manage the data gathered about their website visitors and take action to improve their experiences. Customers are responsible for complying with any legal requirements in using hashed tags and cookies. To learn how to opt out of these cookies using your browser settings click here.
+Tracking and other cookies The Services use hashed tags or an anonymized tracking identifier that ties to cookies that are used on Customers’ website that allow Customers to manage the data gathered about their website visitors and take action to improve their experiences. Customers are responsible for complying with any legal requirements in using hashed tags and cookies.
+
+The Services may also use tracking pixels embedded by our Customers in their on-line advertising, often distributed to third party web sites using ad exchanges, that allow our Customers to gather data about viewers of their on-line advertisements.
+
+To learn how to opt out of these cookies using your browser settings click here.
 
 Cookies that are used as part of the Services (in the proxy) may include cookies of a third party website that is being co-browsed, for example, in order to deliver the website as intended by the third party website operator. The cookie practices of such websites are governed by their own respective privacy statements. Tealium encourages you to review the privacy statements of other websites to understand their information practices.
 
