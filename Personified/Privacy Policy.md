@@ -23,16 +23,10 @@ Sign In or Sign Up
     *   Software &. Services
     *   Resource Center
 *   Software &. Services
-    *   Aurico WebACE™  
-        Drug &. Background Screening
-    *   CareerBuilder Search  
-        Advanced resume search
-    *   Talentstream Engage  
-        Career site and talent network
-    *   Talentstream Recruit  
-        Applicant Tracking System
-    *   Workterra  
-        Human Capital Management
+    *   Talent Network
+    *   Applicant Tracking
+    *   Background Checks / Verifications
+    *   Human Capital Management
     *   View All Products
 *   Company
     *   Why CareerBuilder
