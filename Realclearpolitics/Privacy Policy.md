@@ -114,6 +114,14 @@
     *   About
     *   Media Kit
 
+*   _E.J. Dionne_: A Hurricane of Conservative Hypocrisy
+    
+*   _Larry Elder_: The Problem With Politically Correct History
+    
+*   _Alexis Simendinger_: In Tax Reform Pitch, Trump Draws Bead on Missouri Dem
+    
+*   _Caitlin Huey-Burns_: Partisan Politics Laps Up at Floodwaters' Edge
+    
 *   _Tevi Troy_: Trump's Reassuring Hurricane Response
     
 *   _Amy Davidson Sorkin_: What Did Donald Trump Learn in Texas?
@@ -153,14 +161,6 @@
 *   _Mark Kingwell_: Don't Bother Trying to Understand Those on 'Other Side'
     
 *   _Larry O'Connor_: Why Won't the Media Demand Dems Condemn Antifa?
-    
-*   _Nicole Gelinas_: Houston, Inundated
-    
-*   _Steve Israel_: Will the 'Comeuppance Caucus' Get Help for Harvey?
-    
-*   _Heather MacDonald_: Profs Labeled Racists for Urging Public to Act Responsibly
-    
-*   _Juan Escalante_: If Trump Ends DACA, Dreamers Will Return to Life of Doubt
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Partisan Politics Laps Up at Floodwaters' Edge
+*   In Tax Reform Pitch, Trump Draws Bead on Missouri Dem
+*   Feinstein: If Trump Changes, He Can Be a Good President
 *   Trump Pledges Swift Financial Aid to Harvey's Victims
-*   White House Launches Tax Reform Push, But Hurdles Are Steep
-*   Trump Talks Clean Up in Texas: "We Want to Do It Better Than Ever Before"
 *   Dems Aim for Competitive Rematches in 2018 House Races
-*   Republicans Weigh Fallout of Pardon for Arizona's Arpaio
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalFOX News
-    *   Approve41
-    *   Disapprove55Disapprove +14
 *   President Trump Job ApprovalGallup
-    *   Approve35
-    *   Disapprove59Disapprove +24
+    *   Approve34
+    *   Disapprove60Disapprove +26
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve41
     *   Disapprove58Disapprove +17
+*   President Trump Job ApprovalFOX News
+    *   Approve41
+    *   Disapprove55Disapprove +14
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve37
     *   Disapprove58Disapprove +21
 
 More Latest Polls In The News
 
+*   Charles Hurt: Bureaucracy Should Offset Hurricane Relief With Spending Cuts
+*   Princeton Professor to Class of 2021: "You Can Not Seek The Truth If You Are A Conformist"
+*   Dan Rather: "Hurricane Vladimir" Is "Approaching Category Four" For Trump Presidency
 *   Ben Shapiro: Does Trump Have An Empathy Problem? Or Does The Media Have An Expectation Problem?
-*   Christie: Media Coverage Of Trump "Exhausting". Feels Like It's Gone On For 4 Years, Not 7 Months
 *   CNN's Zeleny: No "Empathy" From "Showman" Trump In Texas Visit. Did Not Offer Hugs, Hope
-*   Trump Supporter Assaulted By Antifa: "Before I Could Have Any Dialogue... Their Emotions Got The Better Of Them"
-*   Lemon vs. Ruddy On CNN Bias: Trump Doesn't Get As Upset With People "Who Don't Look Like Me"
 
 *   Politics
 *   Policy
