@@ -2,6 +2,9 @@ Skip to main content
 
 *   Who We Are
 *   Our History
+    *   1.  Despicable Me becomes top-grossing animated film franchise ever
+        2.  In its 42nd season, SNL sees its ratings soar to a 23-year high
+        3.  The Fate of the Furious has biggest global opening of all time
 *   Newsroom
 *   Values
 *   Careers
@@ -70,6 +73,10 @@ Skip to main content
     *   Menu
     *   Who We Are
     *   Our History
+        *   Back To Menu
+        *   DESPICABLE ME BECOMES TOP-GROSSING ANIMATED FILM FRANCHISE EVER
+        *   IN ITS 42ND SEASON, SNL SEES ITS RATINGS SOAR TO A 23-YEAR HIGH
+        *   THE FATE OF THE FURIOUS HAS BIGGEST GLOBAL OPENING OF ALL TIME
     *   Newsroom
     *   Values
     *   Careers
@@ -183,4 +190,4 @@ Cookies/ tracking technologies are used on some of our online services to serve 
 *   Supply Chain Values
 *   Terms of Service
 
-© 2017 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/8345918" height="1" width="1" alt="" /></a></div>.
+© 2017 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/5679137" height="1" width="1" alt="" /></a></div>.
