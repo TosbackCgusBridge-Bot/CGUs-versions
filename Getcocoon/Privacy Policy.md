@@ -70,6 +70,6 @@ Email <div style="display:inline;">. <img height="1" width="1" style="border-sty
 *   *   Twitter
     *   Facebook
     *   YouTube
-    *   RSS Feed
+    *   LinkedIn
 
 © 2017 Virtual World Computing, LLC loading
