@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   cloud-init Summit in Seattle, Washington ›
+*   Running an Ubuntu mirror with Juju! ›
+*   Why containers and automation are essential in a world being eaten by software ›
+*   OpenStack Weekly Update ›
 *   Security Team Weekly Summary: August 31, 2017 ›
-*   Ubuntu Foundations Development Summary – August 30, 2017 ›
-*   Kernel Team Summary: August 30, 2017 ›
-*   Ceph storage driver in LXD ›
-*   Ubuntu Server Development Summary – 29 Aug 2017 ›
