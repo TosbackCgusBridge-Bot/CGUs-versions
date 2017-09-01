@@ -8,8 +8,6 @@
     *   Government
 *   About AT&T
 
-About AT&T
-
 *   About AT&T
 *   About Us
     *   Company Profile
@@ -99,8 +97,9 @@ About AT&T
     *   Resources
 *   More from AT&T
 *   Go
+*   X
 
-AT&T Privacy Policy  
+About AT&T AT&T Privacy Policy  
 
 **En Español**  **En Français**
 
