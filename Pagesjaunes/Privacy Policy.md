@@ -734,4 +734,4 @@ Les autres marques et services de Solocal Group
 
 PagesJaunes est une marque de SoLocal Group ©2017
 
-Recrutement Charte du groupe <img width="1" height="0" style="display:none" src="https://www.pagesjaunes.fr:443/stat/pageal?v=1.0&amp;p1=NEWPJ&amp;p2=&amp;p3=&amp;p4=&amp;p5=&amp;rn=1504157400" alt="" />. <img width="1" height="1" src="https://logs1257.at.pagesjaunes.fr/hit.xiti?s=483323&amp;s2=5&amp;p=PLUS\_DE\_SERVICE::mentions\_legales&amp;rn=1504157400" alt="" />.
+Recrutement Charte du groupe <img width="1" height="0" style="display:none" src="https://www.pagesjaunes.fr:443/stat/pageal?v=1.0&amp;p1=NEWPJ&amp;p2=&amp;p3=&amp;p4=&amp;p5=&amp;rn=1504243713" alt="" />. <img width="1" height="1" src="https://logs1257.at.pagesjaunes.fr/hit.xiti?s=483323&amp;s2=5&amp;p=PLUS\_DE\_SERVICE::mentions\_legales&amp;rn=1504243713" alt="" />.
