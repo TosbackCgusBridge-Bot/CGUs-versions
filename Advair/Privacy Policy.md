@@ -120,6 +120,8 @@ GSK Global Website www.gsk.com
     *   Clinical Study Register
     *   Contact us
 *   Investors
+    *   Investors
+    *   Contact Us
 *   Media
     *   Media
     *   GSK statement about Ventolin HFA 200D Inhaler
@@ -185,7 +187,7 @@ GSK Global Website www.gsk.com
     *   Shareholders
     *   Employees/retirees
     *   Business partners/vendors
-    *   Healthcare providers
+    *   Healthcare professionals
     *   GSK integrity and compliance
 
 Menu
