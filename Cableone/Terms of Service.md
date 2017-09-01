@@ -14,6 +14,7 @@ Skip to main content
     To display accurate prices and offers in your area, we need to know your service area. Please enter your zipcode:
     
     Change Location:
+    
 *   Search Search Search Type Residential Business Support
 *   Menu
     Order Now Get Support Business
@@ -169,7 +170,7 @@ Business
 
 *   CableONE Business Internet
 *   CableONE Business Phone
-*   CableONE Business Cable TV
+*   CableONE BusinessCable TV
 *   CableONE Business Networking
 *   CableONE Business Carrier &. Wholesale
 
@@ -203,7 +204,6 @@ Search Search Type Residential Business Support
 *   CableONE Locations
 *   Contact Us
 *   CableONE Careers
-*   CableONE Site Map
-*   CableONE Remote Connect
+*   CableONESite Map
 
 Facebook Twitter Google+ YouTube LinkedIn Copyright 2017 , Cable ONE Inc ., All Rights Reserved. Live Help is Online.  ×–undefinedChatPowered by
