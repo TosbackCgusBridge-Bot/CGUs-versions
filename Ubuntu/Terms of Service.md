@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Rally in NYC ›
+*   OpenStack Pike and all new updates to the Cloud Archive ›
 *   cloud-init Summit in Seattle, Washington ›
 *   Running an Ubuntu mirror with Juju! ›
 *   Why containers and automation are essential in a world being eaten by software ›
-*   OpenStack Weekly Update ›
-*   Security Team Weekly Summary: August 31, 2017 ›
