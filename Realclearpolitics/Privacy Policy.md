@@ -114,6 +114,10 @@
     *   About
     *   Media Kit
 
+*   _A.B. Stoddard_: Will Trump Stand By a Loser in Alabama?
+    
+*   _James Arkin_: Initial Relief Funds Likely, But Hurdles Then Loom
+    
 *   _E.J. Dionne_: A Hurricane of Conservative Hypocrisy
     
 *   _Larry Elder_: The Problem With Politically Correct History
@@ -155,12 +159,6 @@
 *   _Willis Krumholz_: We Still Have Zero Evidence of Trump-Russia Collusion
     
 *   _Sean Gregory_: How Kids' Sports Became a $15 Billion Industry
-    
-*   _Frank Somerville_: 'I Experienced Hate Firsthand' at Berkeley Rally
-    
-*   _Mark Kingwell_: Don't Bother Trying to Understand Those on 'Other Side'
-    
-*   _Larry O'Connor_: Why Won't the Media Demand Dems Condemn Antifa?
     
 
 *   Previous
@@ -262,10 +260,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Partisan Politics Laps Up at Floodwaters' Edge
 *   In Tax Reform Pitch, Trump Draws Bead on Missouri Dem
-*   Feinstein: If Trump Changes, He Can Be a Good President
-*   Trump Pledges Swift Financial Aid to Harvey's Victims
+*   Initial Relief Funds Likely, But Hurdles Then Loom
+*   Huckabee Sanders: Trump Will Donate One Million Dollars to Harvey Relief
+*   Partisan Politics Laps Up at Floodwaters' Edge
 *   Dems Aim for Competitive Rematches in 2018 House Races
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -283,10 +281,10 @@ Latest PollsAll Polls
 
 *   President Trump Job ApprovalGallup
     *   Approve34
-    *   Disapprove60Disapprove +26
+    *   Disapprove61Disapprove +27
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve41
-    *   Disapprove58Disapprove +17
+    *   Approve42
+    *   Disapprove56Disapprove +14
 *   President Trump Job ApprovalFOX News
     *   Approve41
     *   Disapprove55Disapprove +14
@@ -296,11 +294,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Reporter to Huckabee Sanders: Does Trump View 'DREAMers' As Americans Or Foreigners?
+*   WH on Approval Ratings: "Same Polls Told You Trump Would Never Be President"
+*   John Harwood: Hurricane Harvey Relief Will Stop Funding For The Wall, Potential For A Shutdown
+*   Bernie Sanders: "I Hope Trump Learns A Lesson" From Houston. People Coming Together Regardless Of Race
 *   Charles Hurt: Bureaucracy Should Offset Hurricane Relief With Spending Cuts
-*   Princeton Professor to Class of 2021: "You Can Not Seek The Truth If You Are A Conformist"
-*   Dan Rather: "Hurricane Vladimir" Is "Approaching Category Four" For Trump Presidency
-*   Ben Shapiro: Does Trump Have An Empathy Problem? Or Does The Media Have An Expectation Problem?
-*   CNN's Zeleny: No "Empathy" From "Showman" Trump In Texas Visit. Did Not Offer Hugs, Hope
 
 *   Politics
 *   Policy
