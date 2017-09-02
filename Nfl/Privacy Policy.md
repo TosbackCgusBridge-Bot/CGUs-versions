@@ -1,5 +1,3 @@
-*   SEA10OAK•103rd • 00:14REDZONE
-*   LAC6SF•234th • 10:09
 *   PHI2-210NYJ2-216Final
 *   JAX2-213ATL0-47Final
 *   DET2-217BUF1-327Final
@@ -13,6 +11,8 @@
 *   BAL4-014NO2-213Final
 *   TEN1-36KC2-230Final
 *   ARI2-32DEN4-030Final
+*   SEA4-017OAK0-413Final
+*   LAC1-313SF2-223Final
 
 *   News
 *   Scores
@@ -27,13 +27,10 @@
 *   Game Pass
 *   Stats
 *   LONDON GAMES
-*   Training Camp
 *   Ways to Watch
 *   NFL Network
 *   Photos
 
-*   SEA10OAK•103rd • 00:14REDZONE
-*   LAC6SF•234th • 10:09
 *   PHI10NYJ16Final
 *   JAX13ATL7Final
 *   DET17BUF27Final
@@ -47,6 +44,8 @@
 *   BAL14NO13Final
 *   TEN6KC30Final
 *   ARI2DEN30Final
+*   SEA17OAK13Final
+*   LAC13SF23Final
 
 *   News
 *   Scores
@@ -61,7 +60,6 @@
 *   *   Game Pass
     *   Stats
     *   LONDON GAMES
-    *   Training Camp
     *   Ways to Watch
     *   NFL Network
     *   Photos
