@@ -182,12 +182,12 @@ GSK Global Website www.gsk.com
     *   Contact us
     *   Our US Locations
     *   Patients/consumers
+    *   Healthcare professionals
     *   Media
     *   Investors
     *   Shareholders
     *   Employees/retirees
     *   Business partners/vendors
-    *   Healthcare professionals
     *   GSK integrity and compliance
 
 Menu
