@@ -12,6 +12,7 @@ Show Search Bar
     *   SC Fast Facts
     *   Reboot 2016
     *   Women in Security 2017
+    *   SC Reboot Awards 2017
 *   Cybercrime
     *   Ransomware
     *   Data breaches
@@ -36,6 +37,7 @@ Show Search Bar
     *   Video
     *   In Depth
     *   SC Magazine Archive
+    *   SC Reboot Awards 2017
 *   Events
     *   Virtual Conferences
     *   Webcasts
