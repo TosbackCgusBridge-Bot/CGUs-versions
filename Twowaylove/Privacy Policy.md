@@ -1,3 +1,3 @@
-TwoWayLove – Making sense of on-line dating Relaunching Soon 00Months00Days00Hours00Minutes00Seconds
+Dans le but d'améliorer ses performances, ce site est actuellement en maintenance.
 
-Copyright 2016 TwoWayLove, All Rights Reserved
+Merci pour votre compréhension.
