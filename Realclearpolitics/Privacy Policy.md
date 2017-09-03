@@ -114,6 +114,8 @@
     *   About
     *   Media Kit
 
+*   _Eugene Robinson_: Not at All Quiet for Trump on the Russia Front
+    
 *   _A.B. Stoddard_: Will Trump Stand By a Loser in Alabama?
     
 *   _James Arkin_: Initial Relief Funds Likely, But Hurdles Then Loom
@@ -125,40 +127,6 @@
 *   _Alexis Simendinger_: In Tax Reform Pitch, Trump Draws Bead on Missouri Dem
     
 *   _Caitlin Huey-Burns_: Partisan Politics Laps Up at Floodwaters' Edge
-    
-*   _Tevi Troy_: Trump's Reassuring Hurricane Response
-    
-*   _Amy Davidson Sorkin_: What Did Donald Trump Learn in Texas?
-    
-*   _Ed Feulner_: Giving Tax Cuts a Fighting Chance
-    
-*   _Sarah Anderson_: It's a Myth That Corporate Tax Cuts Mean More Jobs
-    
-*   _Ken Masugi_: Trump's Coming Victory Over Identity Politics
-    
-*   _Alexis Okeowo_: Witnessing a Rally for a New Confederate Monument
-    
-*   _Jason Riley_: Modern Liberalism's False Obsession With Civil War Monuments
-    
-*   _Bridgette Dunlap_: Why Trump's Arpaio Pardon Is So Terrifying
-    
-*   _Paul Mirengoff_: Did Arpaio Receive a Fair Hearing From Unbiased Judge?
-    
-*   _David Catanese_: Arizona's Rattled Senate Race
-    
-*   _Melinda Henneberger_: Trump's Missouri Supporters Weigh In: It's Complicated
-    
-*   _Jonah Goldberg_: Handling Harvey Shows America at Its Best
-    
-*   _Daniel Gross_: What It Means for the Economy When Houston Shuts Down
-    
-*   _Rich Lowry_: Stop Making Excuses for Antifa Thuggery
-    
-*   _Ryan Lizza_: Trump's Real-Estate Ambitions in Moscow
-    
-*   _Willis Krumholz_: We Still Have Zero Evidence of Trump-Russia Collusion
-    
-*   _Sean Gregory_: How Kids' Sports Became a $15 Billion Industry
     
 
 *   Previous
@@ -282,23 +250,23 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalGallup
     *   Approve34
     *   Disapprove61Disapprove +27
+*   West Virginia Senate - Jenkins vs. ManchinMetroNews
+    *   Manchin50
+    *   Jenkins40Manchin +10
+*   West Virginia Senate - Morrisey vs. ManchinMetroNews
+    *   Manchin51
+    *   Morrisey37Manchin +14
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve42
     *   Disapprove56Disapprove +14
-*   President Trump Job ApprovalFOX News
-    *   Approve41
-    *   Disapprove55Disapprove +14
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve37
-    *   Disapprove58Disapprove +21
 
 More Latest Polls In The News
 
+*   David Brooks: Construction Workers Needed In Texas, Not The Time To Crack Down On Immigration
 *   Reporter to Huckabee Sanders: Does Trump View 'DREAMers' As Americans Or Foreigners?
 *   WH on Approval Ratings: "Same Polls Told You Trump Would Never Be President"
 *   John Harwood: Hurricane Harvey Relief Will Stop Funding For The Wall, Potential For A Shutdown
 *   Bernie Sanders: "I Hope Trump Learns A Lesson" From Houston. People Coming Together Regardless Of Race
-*   Charles Hurt: Bureaucracy Should Offset Hurricane Relief With Spending Cuts
 
 *   Politics
 *   Policy
