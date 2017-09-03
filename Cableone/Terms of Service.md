@@ -57,7 +57,7 @@ Business
 
 *   CableONE Business Internet
 *   CableONE Business Phone
-*   CableONE BusinessCable TV
+*   CableONE Business Cable TV
 *   CableONE Business Networking
 *   CableONE Business Carrier &. Wholesale
 
@@ -91,6 +91,6 @@ Search Search Type Residential Business Support
 *   CableONE Locations
 *   Contact Us
 *   CableONE Careers
-*   CableONESite Map
+*   CableONE Site Map
 
 Facebook Twitter Google+ YouTube LinkedIn Copyright 2017 , Cable ONE Inc ., All Rights Reserved. Live Help is Online.  ×–undefinedChatPowered by
