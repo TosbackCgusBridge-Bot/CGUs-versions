@@ -114,19 +114,13 @@
     *   About
     *   Media Kit
 
+*   _Michael Barone_: Time to Drop Colleges' Racial Quotas &. Preferences
+    
 *   _Eugene Robinson_: Not at All Quiet for Trump on the Russia Front
     
 *   _A.B. Stoddard_: Will Trump Stand By a Loser in Alabama?
     
 *   _James Arkin_: Initial Relief Funds Likely, But Hurdles Then Loom
-    
-*   _E.J. Dionne_: A Hurricane of Conservative Hypocrisy
-    
-*   _Larry Elder_: The Problem With Politically Correct History
-    
-*   _Alexis Simendinger_: In Tax Reform Pitch, Trump Draws Bead on Missouri Dem
-    
-*   _Caitlin Huey-Burns_: Partisan Politics Laps Up at Floodwaters' Edge
     
 
 *   Previous
@@ -248,8 +242,8 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve34
-    *   Disapprove61Disapprove +27
+    *   Approve36
+    *   Disapprove58Disapprove +22
 *   West Virginia Senate - Jenkins vs. ManchinMetroNews
     *   Manchin50
     *   Jenkins40Manchin +10
@@ -262,11 +256,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Mnuchin: Congress Should Tie Harvey Disaster Aid To Debt Ceiling Increase. "Put Politics Aside"
+*   CNN's Brian Stelter: "I've Been Noticing A Lack Of Answers" From WH Press Secretary Sarah Huckabee Sanders
 *   David Brooks: Construction Workers Needed In Texas, Not The Time To Crack Down On Immigration
 *   Reporter to Huckabee Sanders: Does Trump View 'DREAMers' As Americans Or Foreigners?
 *   WH on Approval Ratings: "Same Polls Told You Trump Would Never Be President"
-*   John Harwood: Hurricane Harvey Relief Will Stop Funding For The Wall, Potential For A Shutdown
-*   Bernie Sanders: "I Hope Trump Learns A Lesson" From Houston. People Coming Together Regardless Of Race
 
 *   Politics
 *   Policy
