@@ -1,4 +1,4 @@
-By continuing to browse our site you agree to our use of cookies, revised Privacy Policy and Terms of Service. More information about cookiesI agreeNews AlertNorth Korea appears to have conducted a sixth nuclear test. A large tremor was detected near the country's nuclear test site SundayHome+CNN Privacy PolicyRegionsU.S. PoliticsMoneyEntertainmentTechSportTravelStyleHealthVideoVRLive TV Search »International Edition+U.S.InternationalArabicEspañol
+By continuing to browse our site you agree to our use of cookies, revised Privacy Policy and Terms of Service. More information about cookiesI agreeBreaking NewsHome+CNN Privacy PolicyRegionsU.S. PoliticsMoneyEntertainmentTechSportTravelStyleHealthVideoVRLive TV Search »International Edition+U.S.InternationalArabicEspañol
 
 Set edition preference:
 
@@ -149,7 +149,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 
 FacebookTwitterShare
 
-London, United Kingdom13°
+London, United Kingdom15°
 
 1.  Home
 
