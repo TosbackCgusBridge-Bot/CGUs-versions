@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   LXD Weekly Status #13: Snap data migration, Open Source Summit &. more ›
+*   Controlling snap releases with channels, tracks and branches – Part 1 ›
 *   Ubuntu Rally in NYC ›
 *   OpenStack Pike and all new updates to the Cloud Archive ›
 *   cloud-init Summit in Seattle, Washington ›
-*   Running an Ubuntu mirror with Juju! ›
-*   Why containers and automation are essential in a world being eaten by software ›
