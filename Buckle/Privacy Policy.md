@@ -14,7 +14,7 @@
     *   Login
     *   |
     *   Register
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   0MY FAVORITES
 *   MY BAG
@@ -82,8 +82,8 @@
         
           
           
-        Give a Buckle Gift card SALE ON SALE – Celebrate a three-day weekend with NEW markdowns on favorite styles.  
-        EXTRA 10% OFF | EXTRA 33% OFF
+        Give a Buckle Gift card Looking for the perfect jean? Check out our selection of fits and finishes to find yours today!  
+        Women's Denim | Men's Denim
 *   Men
     *   *   Featured
         
@@ -142,8 +142,8 @@
         
           
           
-        Give a Buckle Gift card SALE ON SALE – Celebrate a three-day weekend with NEW markdowns on favorite styles.  
-        EXTRA 10% OFF | EXTRA 33% OFF
+        Give a Buckle Gift card Looking for the perfect jean? Check out our selection of fits and finishes to find yours today!  
+        Women's Denim | Men's Denim
 *   Kids
     *   *   Featured
         
@@ -165,8 +165,8 @@
         *   Shop All
         
           
-        Give a Buckle Gift card SALE ON SALE – Celebrate a three-day weekend with NEW markdowns on favorite styles.  
-        EXTRA 10% OFF | EXTRA 33% OFF
+        Give a Buckle Gift card Looking for the perfect jean? Check out our selection of fits and finishes to find yours today!  
+        Women's Denim | Men's Denim
 *   Jeans
     *   *   Women's Jeans
         
@@ -196,8 +196,8 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card SALE ON SALE – Celebrate a three-day weekend with NEW markdowns on favorite styles.  
-        EXTRA 10% OFF | EXTRA 33% OFF
+        Give a Buckle Gift card Looking for the perfect jean? Check out our selection of fits and finishes to find yours today!  
+        Women's Denim | Men's Denim
 *   New
     *   *   Featured New
         
@@ -238,8 +238,8 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card SALE ON SALE – Celebrate a three-day weekend with NEW markdowns on favorite styles.  
-        EXTRA 10% OFF | EXTRA 33% OFF
+        Give a Buckle Gift card Looking for the perfect jean? Check out our selection of fits and finishes to find yours today!  
+        Women's Denim | Men's Denim
 *   Sale
     *   *   Women's Sale
         
@@ -282,8 +282,8 @@
         
           
           
-        Give a Buckle Gift card SALE ON SALE – Celebrate a three-day weekend with NEW markdowns on favorite styles.  
-        EXTRA 10% OFF | EXTRA 33% OFF
+        Give a Buckle Gift card Looking for the perfect jean? Check out our selection of fits and finishes to find yours today!  
+        Women's Denim | Men's Denim
 
 SearchSubmitSearchSubmit × ClosePrivacy &. Security
 
