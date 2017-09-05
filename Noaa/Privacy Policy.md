@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Labor Day weekend forecast: Hot and dry in the West, cool and some rain in the East Remnants of #Harvey traveling eastward, then offshore Sunday AROUND NOAA // NOAA aerial images of Harvey damage now available online 'Turn around, don't drown': What to do before, during and after a flood Teachers: Six NOAA tools for back to school
+Enter Search Terms NOAA aerial images of Harvey damage now available online AROUND NOAA // JPSS-1 has new target launch date Teachers: Six NOAA tools for back to school 'Turn around, don't drown': What to do before, during and after a flood
 
 *   About our agency
 *   News and features
