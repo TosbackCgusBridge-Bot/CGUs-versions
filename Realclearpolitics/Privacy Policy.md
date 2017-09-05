@@ -118,10 +118,6 @@
     
 *   _Eugene Robinson_: Not at All Quiet for Trump on the Russia Front
     
-*   _A.B. Stoddard_: Will Trump Stand By a Loser in Alabama?
-    
-*   _James Arkin_: Initial Relief Funds Likely, But Hurdles Then Loom
-    
 
 *   Previous
 *   Next
@@ -222,11 +218,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Upbeat Trump Pitches In at Shelter for Harvey Victims
+*   South Korea Simulates Attack on North's Nuke Site After Test
+*   Mattis Warns of Massive, Overwhelming Military Response to N. Korea
 *   In Tax Reform Pitch, Trump Draws Bead on Missouri Dem
 *   Initial Relief Funds Likely, But Hurdles Then Loom
-*   Huckabee Sanders: Trump Will Donate One Million Dollars to Harvey Relief
-*   Partisan Politics Laps Up at Floodwaters' Edge
-*   Dems Aim for Competitive Rematches in 2018 House Races
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -242,17 +238,17 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve36
-    *   Disapprove58Disapprove +22
+    *   Approve38
+    *   Disapprove56Disapprove +18
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve43
+    *   Disapprove55Disapprove +12
+*   Direction of CountryRasmussen Reports
+    *   Right Direction32
+    *   Wrong Track61Wrong Track +29
 *   West Virginia Senate - Jenkins vs. ManchinMetroNews
     *   Manchin50
     *   Jenkins40Manchin +10
-*   West Virginia Senate - Morrisey vs. ManchinMetroNews
-    *   Manchin51
-    *   Morrisey37Manchin +14
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve42
-    *   Disapprove56Disapprove +14
 
 More Latest Polls In The News
 
