@@ -17,7 +17,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.102,21ǀ
+*   DAX 12.123,71ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -398,6 +398,13 @@ SPIEGEL ONLINE benutzt Google Analytics, einen Web-Analysedienst der Google Inc.
 Basierend auf den Auswertungen von Google Analytics verwendet Google DoubleClick DART-Cookies und nutzt möglicherweise Informationen über Ihre Benutzung dieser Website und anderer Websites, damit Anzeigen zu Produkten und Diensten geschaltet werden können, die Sie interessieren könnten (interessenbezogene Anzeigen). Die durch die Cookies erzeugten Informationen über die Nutzung dieser Website, einschließlich der IP-Adresse, werden an Server von Google übertragen und dort gespeichert. Auch wird Google diese Informationen gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben ist oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Google erklärt, in keinem Fall Ihre IP-Adresse mit anderen Daten von Google zusammenzuführen oder in Verbindung zu bringen. Google nimmt am Safe-Harbour-Programm der Europäischen Union und der Vereinigten Staaten teil. Die Informationen, die im Rahmen dieses Dienstes übertragen werden, schließen nicht den Namen, die Adresse, die E-Mail-Adresse oder die Telefonnummer des Nutzers ein.
 
 Sollten Sie die Verwendung von DoubleClick DART-Cookies nicht wünschen, können Sie diese über den Anzeigenvorgaben-Manager unter http://www.google.com/settings/ads/onweb/?hl=de deaktivieren.
+
+**Einsatz von Google Remarketing:**
+
+Diese Website verwendet die Remarketing-Funktion der Google Inc. ("Google"). Diese Funktion dient dazu, Besuchern der Website im Rahmen des Google-Werbenetzwerks interessenbezogene Werbeanzeigen zu präsentieren. Der Browser des Websitebesuchers speichert sog. "Cookies", Textdateien, die auf Ihrem Computer gespeichert werden und die es ermöglichen, den Besucher wiederzuerkennen, wenn dieser Websites aufruft, die dem Werbenetzwerk von Google angehören. Auf diesen Seiten können dem Besucher dann Werbeanzeigen präsentiert werden, die sich auf Inhalte beziehen, die der Besucher zuvor auf Websites aufgerufen hat, die die Remarketing Funktion von Google verwenden. Nach eigenen Angaben erhebt Google bei diesem Vorgang keine personenbezogenen Daten.
+
+Sollten Sie die Funktion Remarketing von Google dennoch nicht wünschen, können Sie diese grundsätzlich deaktivieren, indem Sie die entsprechenden Einstellungen unter http://www.google.com/settings/ads vornehmen. Alternativ können Sie den Einsatz von Cookies für interessenbezogene Werbung über die Werbenetzwerkinitiative deaktivieren, indem Sie den Anweisungen unter http://www.networkadvertising.org/managing/opt\_out.asp folgen.  
+Weiterführende Informationen zu Google Remarketing und die Datenschutzerklärung von Google können Sie einsehen unter: http://www.google.com/privacy/ads/.
 
 (14)  
 SPIEGEL ONLINE verwendet auf www.spiegel.de zur Anzeige von Werbung AdDefend, einen Dienst der AdDefend GmbH, Borselstrasse 3, 22765 Hamburg. Dieser Dienst nutzt Cookies, um festzustellen, ob Sie eine Webseite schon einmal besucht haben. Sie können der Verwendung dieser Cookies durch AdDefend jederzeit widersprechen, indem Sie eine E-Mail an privacy@addefend.com senden.
