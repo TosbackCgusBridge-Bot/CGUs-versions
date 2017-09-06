@@ -9,7 +9,7 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Back to School
+    Holidays &. Occasions*   Game Day
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Gifts for Her
@@ -82,7 +82,7 @@
     *   Best Sellers
     *   Gluten Free
     
-    Holidays &. Occasions*   Back to School
+    Holidays &. Occasions*   Game Day
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Gifts for Her
