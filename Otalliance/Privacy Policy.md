@@ -73,7 +73,7 @@ Skip to main content Online Trust Alliance
 *   Facebook
 *   Youtube
 
-Home › Privacy Policy Privacy Policy Privacy Policy Highlights
+Facebook Twitter LinkedIn Email Addthis Home › Privacy Policy Privacy Policy Privacy Policy Highlights
 
 **Updated August 1, 2016** (See archived privacy policy)                                  
 
