@@ -230,12 +230,13 @@ Questions? Call 844.790.7475 My Suddenlink Contact Us FAQ
     *   Pay Bill
     *   My Account
     *   Email
+    *   Pricing &. Packages
 *   Products
     *   Television
     *   Internet
     *   Phone
     *   Security
-    *   Total Home
+    *   Experience
     *   VIPperks
 *   Support
     *   Contact Us
