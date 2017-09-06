@@ -14,7 +14,7 @@
     *   Login
     *   |
     *   Register
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   0MY FAVORITES
 *   MY BAG
@@ -381,7 +381,6 @@ Returns
 Promotions
 
 *   Buckle Card Score Extra Points
-*   Buckle Credit Card FREE USB Charger
 *   All Promotions
 *   Tax Free Weekends 2017
 *   Store Events
@@ -389,8 +388,6 @@ Promotions
 
 Sweepstakes Official Rules/Winners
 
-*   WE Fest Meet and Greet Giveaway Official Rules
-*   WE Fest Sweepstakes Official Rules
 *   Social Give Away Official Rules
 *   Sweepstakes Winners
 
