@@ -52,7 +52,7 @@ Sport
 *   Equestrian
 *   Golf
 *   Judo
-*   Horseracing
+*   Horse Racing
 *   Motorsport
 *   Sailing
 *   Skiing
@@ -149,7 +149,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 
 FacebookTwitterShare
 
-London, United Kingdom18°
+London, United Kingdom13°
 
 1.  Home
 
@@ -194,7 +194,7 @@ London, United Kingdom18°
     3.  Equestrian
     4.  Golf
     5.  Judo
-    6.  Horseracing
+    6.  Horse Racing
     7.  Motorsport
     8.  Sailing
     9.  Skiing
