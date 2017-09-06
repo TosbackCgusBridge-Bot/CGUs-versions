@@ -1,4 +1,4 @@
-From the Intermarkets Blog: **And the traffic goes to…** Twitter Facebook LinedIn Google Plus Intermarkets, Inc. Up-to-date industry insights, news, and events Site Navigation Skip to content
+From the Intermarkets Blog: **Inc. Names Intermarkets One Of The Fastest Growing Companies in America for Eighth Time** Twitter Facebook LinedIn Google Plus Intermarkets, Inc. Up-to-date industry insights, news, and events Site Navigation Skip to content
 
 *   Advertiser Solutions
 *   Publisher Solutions
