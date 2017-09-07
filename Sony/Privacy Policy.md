@@ -289,7 +289,7 @@ View Illuminating sounds. on Instagram
 
 Go behind the scenes of Paris Fashion Week with our latest gallery featuring work from Sony Artisan @ninorakichevich, now at #SonySquareNYC.
 
-23 hours ago
+2 days ago
 
 View Tweet
 
