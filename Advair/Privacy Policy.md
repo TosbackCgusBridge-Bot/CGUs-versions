@@ -162,10 +162,10 @@ GSK Global Website www.gsk.com
             *   Knowledge gaps in vaccination against meningococcal disease
         *   US IMPACT Awards
         *   Flulaval Quadrivalent for infants 6 months and older
-    *   Infographics
     *   Media contacts
     *   Corporate Reporting
     *   Social media
+    *   Infographics
     *   Image and video library
 *   Business to business
     *   Business to business
@@ -182,8 +182,8 @@ GSK Global Website www.gsk.com
     *   Contact us
     *   Our US Locations
     *   Patients/consumers
-    *   Healthcare professionals
     *   Media
+    *   Healthcare professionals
     *   Investors
     *   Shareholders
     *   Employees/retirees
@@ -278,8 +278,8 @@ Menu
         *   Engineers as leaders: The art of the possible over the probable
         *   Work Together, Give Together
         *   Putting responsible business principles into practice
-        *   Building future leaders
         *   The gift of time: increased parental leave
+        *   Building future leaders
         *   Designing inspiring and healthy workplaces
         *   How curious minds saved a medicine from being left in the lab
         *   Brian Johns goes boldly for people living with HIV
@@ -370,26 +370,28 @@ Menu
     
     *   Back
     *   Products
+    *   Our prescription medicines
+    *   Our vaccines
     *   Our consumer healthcare products
-    *   Our prescription medicines and vaccines
     *   ViiV Healthcare
     *   Stiefel dermatology
+    *   Consumer questions about Ventolin HFA 200D inhaler?
     
     *   Our consumer healthcare products
         
         Many of our brands, such as Sensodyne, Aquafresh and Nicorette are familiar around the world.
         
-    *   Our prescription medicines and vaccines
+    *   Our prescription medicines
         
-        We make a wide range of medicines and vaccines. Learn more about the products available in the US.
+        Our pharmaceuticals business discovers, develops and makes medicines to treat a broad range of the world's most common acute and chronic diseases.
         
     *   ViiV Healthcare
         
-        ViiV Healthcare is a global specialist HIV company dedicated to delivering advances in treatment and care for people living with HIV.
+        ViiV Healthcare is an independent, global specialist HIV company dedicated to delivering innovative new options for the care and treatment of people living with HIV/AIDS.
         
     *   Stiefel dermatology
         
-        Stiefel has a long history of excellence in dermatology and deep expertise and R&D capabilities in acne, psoriasis, eczema, atopic dermatitis and superficial skin infections.
+        Stiefel has a long history of excellence in dermatology and is research focused on acne, psoriasis, eczema, atopic dermatitis and superficial skin infections.
         
 *   Careers
     
