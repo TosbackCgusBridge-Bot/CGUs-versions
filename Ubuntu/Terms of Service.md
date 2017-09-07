@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   The snapd roadmap ›
+*   LXC 2.1 has been released ›
+*   Kernel Team Summary: September 6, 2017 ›
 *   Ubuntu Server Development Summary – 05 Sep 2017 ›
 *   LXD Weekly Status #13: Snap data migration, Open Source Summit &. more ›
-*   Controlling snap releases with channels, tracks and branches – Part 1 ›
-*   Ubuntu Rally in NYC ›
-*   OpenStack Pike and all new updates to the Cloud Archive ›
