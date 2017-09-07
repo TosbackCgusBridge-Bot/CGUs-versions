@@ -1,5 +1,19 @@
-Skip to main content <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGG2R3" height="0" width="0" style="display:none;visibility:hidden"></iframe>.     Search Google Appliance Enter the terms you wish to search for. Search
+Skip to main content <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGG2R3" height="0" width="0" style="display:none;visibility:hidden"></iframe>.     Search Google Appliance Enter the terms you wish to search for. Search Home Television Internet Phone Security Experience VIPperks Start Shopping
 
+*   Current Customers
+    *   My Services
+    *   My Account
+    *   My Bill
+    *   TV Lineup
+    *   Suddenlink2GO
+*   Our Company
+    *   Who We Are
+    *   Careers
+    *   Investor Relations
+    *   Newsroom
+    *   Leadership
+*   Contact Us
+*   Business
 *   Home
 *   Television
     *   Video On Demand
@@ -16,14 +30,6 @@ Skip to main content <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGG2
     *   Investor Relations
     *   Newsroom
     *   Leadership
-
-*   TV Lineup
-*   Contact Us
-*   My Account
-*   My Suddenlink
-*   Help
-*   Business
-*   Suddenlink2GO
 
 We can't detect your location. Please provide an address. Change Change your Location ×
 
