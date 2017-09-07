@@ -20,8 +20,8 @@
 
 *   $18,260 as shown1 2018 Yaris $15,635 starting1  
     30/36 est MPG3 Build Specials
-*   $15,950 as shown1 2017 Yaris iA $15,950 starting1  
-    30/39 est MPG5 Build Specials
+*   $15,950 as shown1 2018 Yaris iA $15,950 starting1  
+    32/40 est MPG3 Build Specials
 *   $22,030 as shown1 2018 Corolla $18,550 starting1  
     28/36 est MPG3 Build Specials
 *   $19,985 as shown1 2018 Corolla iM $18,850 starting1  
@@ -61,7 +61,7 @@
     34/30 est MPG5 Build Specials
 *   $50,085 as shown1 2017 Highlander Hybrid $36,270 starting1  
     30/28 est MPG5 Build Specials
-*   $28,800 as shown1 2017 Prius Prime $27,100 starting1  
+*   $27,100 as shown1 2017 Prius Prime $27,100 starting1  
     54/133 est MPG9/MPGe10 Build Specials
 *   $32,115 as shown1 2017 Prius $23,475 starting1  
     54/50 est MPG7 Build Specials
@@ -96,8 +96,8 @@ View All Vehicles
 *   Shopping Tools
 
 Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1  
-30/36 est MPG3 $15,950 as shown1 2017 Yaris iA $15,950 starting1  
-30/39 est MPG5 $22,030 as shown1 2018 Corolla $18,550 starting1  
+30/36 est MPG3 $15,950 as shown1 2018 Yaris iA $15,950 starting1  
+32/40 est MPG3 $22,030 as shown1 2018 Corolla $18,550 starting1  
 28/36 est MPG3 $19,985 as shown1 2018 Corolla iM $18,850 starting1  
 27/35 est MPG3 $35,345 as shown1 2018 Camry $23,495 starting1  
 29/41 est MPG4 $37,900 as shown1 2018 Avalon $33,500 starting1  
@@ -115,7 +115,7 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 51/53 est MPG3 $42,800 as shown1 2018 Avalon Hybrid $37,500 starting1  
 40/39 est MPG3 $32,185 as shown1 2017 RAV4 Hybrid $29,030 starting1  
 34/30 est MPG5 $50,085 as shown1 2017 Highlander Hybrid $36,270 starting1  
-30/28 est MPG5 $28,800 as shown1 2017 Prius Prime $27,100 starting1  
+30/28 est MPG5 $27,100 as shown1 2017 Prius Prime $27,100 starting1  
 54/133 est MPG9/MPGe10 $32,115 as shown1 2017 Prius $23,475 starting1  
 54/50 est MPG7 $23,250 as shown1 2018 Prius _c_ $20,630 starting1  
 48/43 est MPG3 $34,270 as shown1 2017 Prius _v_ $26,675 starting1  
@@ -1092,15 +1092,12 @@ Go
 Sign up for toyota updates Request A Quote Trade-In Value Shopping Tools
 
 *   Trade-In Value
-*   Trade-In Value
 *   Build Your Toyota
 *   Search Inventory
 *   Find a Dealer
 *   Local Specials
 *   Request a Quote
 *   Accessories
-*   Accessories
-*   Find Your Match
 *   Find Your Match
 *   Toyota Certified Used Vehicles
 
@@ -1129,7 +1126,6 @@ Helpful Links
 *   Car Tips &. Advice
 *   Car Tips &. Advice
 *   Dealers
-*   Dealers
 *   Safety Recalls &  
     Service Campaigns
 
@@ -1144,7 +1140,7 @@ About Toyota
 
 Language
 
-*   Español
+*   Espanol
 
 Help
 
@@ -1155,7 +1151,6 @@ Help
 *   Privacy Policy
 *   Legal Terms
 *   Site Map
-*   AdChoices
 *   AdChoices
 
 ©2017 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.
