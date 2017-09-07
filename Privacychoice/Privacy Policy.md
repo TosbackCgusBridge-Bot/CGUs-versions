@@ -29,20 +29,6 @@ OK Log in to AVG MyAccount MENU Skip to content Close
     *   HMA! Pro VPN NEW
     *   All Products
 *   Partners
-    *   Products
-    *   AVG Managed Workplace®
-    *   AVG CloudCare™
-    *   Centrify Identity Service
-    *   AVG Business Security Products
-    *   Why Partner With AVG Business
-    *   Find a Partner
-    *   Become a Partner
-    *   Partner Portal
-    *   Reseller Center
-    *   Programs
-    *   Partner Certification Program
-    *   Webinars &. Events
-    *   Mobile Global Alliances
 *   Business
     *   AVG Internet Security Business Edition
     *   AVG AntiVirus Business Edition
