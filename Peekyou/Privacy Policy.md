@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 20%  20%  20%  20% 
+What is PeekScore? Public Records &. Background Checks 11%  11%  11%  11% 
 
 *   Privacy Policy - Instant Search View Now
     
@@ -119,7 +119,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 20%  Twitter 2% 
+Facebook 11%  Twitter 2% 
 
 *   Cristiano Ronaldo - Cristiano
     
@@ -165,7 +165,7 @@ Facebook 20%  Twitter 2% 
     
 *   Show Less ...
 
-Pinterest 20%  Wikipedia 2% 
+Pinterest 11%  Wikipedia 2% 
 
 *   Medana
     
@@ -370,18 +370,7 @@ Music 2% 
     
 *   Show Less ...
 
-Photo Albums 2% 
-
-*   Flickriver
-    
-    Flickriver - view images as a 'river of photos' and more...
-    
-*   Flickr
-    
-    Flickr (pronounced "flicker") is an image hosting and video hosting website and web services suite that was created by Ludicorp in 2004 and acquired by Yahoo on March ...
-    
-
-Myspace 2% 
+Photo Albums 11%  Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -451,53 +440,7 @@ Documents 2% 
     
 *   Show Less ...
 
-Web Search 2% 
-
-*   Privacy Policy – Privacy &. Terms – Google
-    
-    Welcome to the Google Privacy Policy. When you use Google services, you trust us with your information. This Privacy Policy is meant to help you understand ...
-    
-*   Free Privacy Policy Generator - Template
-    
-    Free Privacy Policy Generator Template sample for your website, blog or mobile app. Create your free internet privacy policy online, today!
-    
-*   Privacy Policy — Automattic
-    
-    Below is our privacy policy, which incorporates these goals. (Note: we've decided to make this privacy policy available under a Creative Commons ShareAlike ...
-    
-*   Privacy Policy | MailChimp
-    
-    We may change this Privacy Policy at any time and from time to time. The most recent version of the Privacy Policy is reflected by the version date located at the  ...
-    
-*   Show More ...
-
-*   Privacy Statement - Privacy at Microsoft
-    
-    Your privacy is important to us. This privacy statement explains what personal data we collect from you and how we use it. We encourage you to read the ...
-    
-*   Privacy policy - Wikipedia
-    
-    A privacy policy is a statement or a legal document (in privacy law) that discloses some or all of the ways a party gathers, uses, discloses, and manages a ...
-    
-*   Privacy Policy - US Department of State
-    
-    This notice provides the Department of State's (the Department) privacy policy regarding the nature, purpose, use, and sharing of any Personally Identifiable ...
-    
-*   Privacy Policy | Twitter
-    
-    This Privacy Policy describes how and when we collect, use and share your information across our websites, SMS, APIs, email notifications, applications, ...
-    
-*   Privacy - Our Privacy Policy - Apple
-    
-    Sep 12, 2016 ... So we've developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to ...
-    
-*   IRS Privacy Policy
-    
-    Mar 3, 2017 ... Thank you for visiting the Internal Revenue Service's website, an official United States Government System, and reviewing our privacy policy.
-    
-*   Show Less ...
-
-Images 2% 
+Web Search 11%  Images 2% 
 
 20
 
