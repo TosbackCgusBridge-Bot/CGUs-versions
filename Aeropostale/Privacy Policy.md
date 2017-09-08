@@ -1,314 +1,511 @@
-Express Shop SUBMIT Aéropostale
+Aeropostale
+
+*   Open submenu ( Girls ) Girls
+*   Open submenu ( Guys ) Guys
+*   Open submenu ( Jeans ) Jeans
+*   Open submenu ( Live Love Dream ) Live Love Dream
+*   Open submenu ( Trending ) Trending
+*   Open submenu ( Clearance ) Clearance
+
+*   Help - Live Chat
+*   Sign Up/Login
+*   Refer a Friend
+
+Close submenu ( Girls ) Girls
+
+*   View Home
+*   Open submenu ( Features ) Features
+*   Clearance
+
+*   Open submenu ( Tops ) Tops
+
+*   Open submenu ( Bottoms ) Bottoms
+*   Dresses + Rompers
+*   Jackets + Vests
+*   Shoes + Accessories
+
+*   Open submenu ( Live Love Dream ) Live Love Dream
+
+Close submenu ( Features ) Features
+
+*   View All
+*   New Arrivals
+*   $15 Special
+*   Icon Tees
+*   Trending
+*   Limited Edition
+*   Uniform
+*   Basic Essentials
+*   Plus Size
+
+Close submenu ( Tops ) Tops
+
+*   View All
+*   Tees
+*   Camis + Tanks
+*   Fashion Tops
+*   Polos
+*   Shirts
+*   Hoodies + Sweatshirts
+*   Sweaters
+*   Bodysuits
+*   Active Tops
+
+Close submenu ( Bottoms ) Bottoms
+
+*   View All
+*   Jeans
+*   Shorts
+*   Leggings + Active
+*   Joggers + Lounge
+*   Pants
+*   Skirts
+
+Close submenu ( Live Love Dream ) Live Love Dream
+
+*   View All
+*   Active
+*   Lounge
+*   Bras
+*   Undies
+*   Sleep
+*   Accessories
+
+Close submenu ( Guys ) Guys
+
+*   View Home
+*   Open submenu ( Features ) Features
+*   Clearance
+
+*   Open submenu ( Tops ) Tops
+
+*   Open submenu ( Bottoms ) Bottoms
+*   Jackets + Vests
+*   Accessories
+
+Close submenu ( Features ) Features
+
+*   View All
+*   New Arrivals
+*   $15 Special
+*   Tapout
+*   Trending
+*   Icon Tees
+*   Limited Edition
+*   Uniform
+*   Online Only
+*   Extended Sizes
+
+Close submenu ( Tops ) Tops
+
+*   View All
+*   Tees
+*   Shirts
+*   Tanks
+*   Polos
+*   Hoodies + Sweatshirts
+*   Sweaters
+
+Close submenu ( Bottoms ) Bottoms
+
+*   View All
+*   Jeans
+*   Shorts
+*   Pants
+*   Joggers + Sweats
+
+Close submenu ( Jeans ) Jeans
+
+*   View Home
+*   Open submenu ( Girls Jeans ) Girls Jeans
+
+*   Open submenu ( Guys Jeans ) Guys Jeans
+
+Close submenu ( Girls Jeans ) Girls Jeans
+
+*   View All
+*   Low Rise Ankle Jegging
+*   Cropped Skinny Kick
+*   Ankle Straight
+*   High Waisted Ankle Jegging
+*   High Waisted Jegging
+*   High Waisted Jegging Crop
+*   Low Rise Jegging
+*   Girlfriend
+*   Skinny
+*   Bootcut
+
+Close submenu ( Guys Jeans ) Guys Jeans
+
+*   View All
+*   Skinny
+*   Slim Straight
+*   Slim Tapered
+*   Straight
+*   Super Skinny
+*   Relaxed
+
+Close submenu ( Live Love Dream ) Live Love Dream
+
+*   View Home
+*   Open submenu ( Features ) Features
+*   Clearance
+
+*   Open submenu ( Tops ) Tops
+
+*   Open submenu ( Bottoms ) Bottoms
+
+*   Bras
+*   Undies
+*   Accessories
+
+Close submenu ( Features ) Features
+
+*   View All
+*   Trending
+*   Active
+*   Lounge
+*   Sleep
+*   Intimates
+
+Close submenu ( Tops ) Tops
+
+*   View All
+*   Tees
+*   Tanks
+*   Hoodies + Sweatshirts
+*   Jackets + Vests
+*   Bodysuits
+*   Sleep
+
+Close submenu ( Bottoms ) Bottoms
+
+*   View All
+*   #Bestbootyever
+*   Leggings
+*   Joggers + Sweats
+*   Bootcut
+*   Shorts
+*   Sleep Bottoms
+
+Close submenu ( Trending ) Trending
+
+*   View Home
+*   Open submenu ( Girls ) Girls
+
+*   Open submenu ( Guys ) Guys
+
+*   Open submenu ( Live Love Dream ) Live Love Dream
+
+Close submenu ( Girls ) Girls
+
+*   View All
+*   Rompers
+*   Lace Up
+*   Ruffle Shoulder Detail
+*   Baby Tees
+*   Fashion Fleece
+*   Velour
+
+Close submenu ( Guys ) Guys
+
+*   View All
+*   Active
+*   Printed Shirts
+
+Close submenu ( Live Love Dream ) Live Love Dream
+
+*   View All
+*   Colorblock
+*   Studio
+
+Close submenu ( Clearance ) Clearance
+
+*   View Home
+*   Open submenu ( Girls ) Girls
+
+*   Open submenu ( Guys ) Guys
+
+*   Open submenu ( Live Love Dream ) Live Love Dream
+
+Close submenu ( Girls ) Girls
+
+*   View All
+*   Tops
+*   Bottoms
+*   Accessories
+
+Close submenu ( Guys ) Guys
+
+*   View All
+*   Tops
+*   Bottoms
+*   Accessories
+
+Close submenu ( Live Love Dream ) Live Love Dream
+
+*   View All
+*   Tops
+*   Bottoms
+*   Accessories
+
+**50-70% OFF** + **FREE SHIPPING ON $87** OR **$5 FLAT RATE**
+
+*   My Account My Account Login Register
+
+Menu Find a Store Aeropostale
 
 *   Girls
     
-    *   NEW ARRIVALS
-    *   $15 Special
-    *   TRENDING
-    *   Icon Tees
-    *   Limited Edition
-    *   Uniform
-    *   Basic Essentials
-    *   Plus Sizes
+    *   View Home
+    *   Features
+        *   View All
+        *   New Arrivals
+        *   $15 Special
+        *   Icon Tees
+        *   Trending
+        *   Limited Edition
+        *   Uniform
+        *   Basic Essentials
+        *   Plus Size
     *   Clearance
     
-    *   TOPS
-    *   Tees
-    *   Camis + Tanks
-    *   Fashion
-    *   Polos
-    *   Shirts
-    *   Hoodies + Sweatshirts
-    *   Sweaters
-    *   Bodysuits
-    *   Active Tops
+    *   Tops
+        *   View All
+        *   Tees
+        *   Camis + Tanks
+        *   Fashion Tops
+        *   Polos
+        *   Shirts
+        *   Hoodies + Sweatshirts
+        *   Sweaters
+        *   Bodysuits
+        *   Active Tops
     
-    *   BOTTOMS
-    *   Jeans
-    *   Shorts
-    *   Leggings + Active
-    *   Joggers + Lounge
-    *   Pants
-    *   Skirts
-    
-    *   DRESSES + ROMPERS
-    *   JACKETS + VESTS
-    *   FOOTWEAR
-    *   ACCESSORIES
+    *   Bottoms
+        *   View All
+        *   Jeans
+        *   Shorts
+        *   Leggings + Active
+        *   Joggers + Lounge
+        *   Pants
+        *   Skirts
+    *   Dresses + Rompers
+    *   Jackets + Vests
+    *   Shoes + Accessories
     
     *   Live Love Dream
-    *   Active
-    *   Lounge
-    *   Bras
-    *   Undies
-    *   Sleep
-    *   Accessories
+        *   View All
+        *   Active
+        *   Lounge
+        *   Bras
+        *   Undies
+        *   Sleep
+        *   Accessories
 *   Guys
     
-    *   NEW ARRIVALS
-    *   $15 Special
-    *   TAPOUT
-    *   TRENDING
-    *   Icon Tees
-    *   Stretch Shop
-    *   Limited Edition
-    *   Uniform
-    *   Online Only
-    *   Extended Sizes
+    *   View Home
+    *   Features
+        *   View All
+        *   New Arrivals
+        *   $15 Special
+        *   Tapout
+        *   Trending
+        *   Icon Tees
+        *   Limited Edition
+        *   Uniform
+        *   Online Only
+        *   Extended Sizes
     *   Clearance
     
-    *   TOPS
-    *   Graphic Tees
-    *   Shirts
-    *   Tanks
-    *   Tees
-    *   Polos
-    *   Sweaters
-    *   Hoodies + Sweatshirts
+    *   Tops
+        *   View All
+        *   Tees
+        *   Shirts
+        *   Tanks
+        *   Polos
+        *   Hoodies + Sweatshirts
+        *   Sweaters
     
-    *   BOTTOMS
-    *   Jeans
-    *   Shorts
-    *   Pants
-    *   Joggers + Sweats
+    *   Bottoms
+        *   View All
+        *   Jeans
+        *   Shorts
+        *   Pants
+        *   Joggers + Sweats
+    *   Jackets + Vests
+    *   Accessories
+*   Jeans
     
-    *   JACKETS + VESTS
-    *   ACCESSORIES
-*   Active
+    *   View Home
+    *   Girls Jeans
+        *   View All
+        *   Low Rise Ankle Jegging
+        *   Cropped Skinny Kick
+        *   Ankle Straight
+        *   High Waisted Ankle Jegging
+        *   High Waisted Jegging
+        *   High Waisted Jegging Crop
+        *   Low Rise Jegging
+        *   Girlfriend
+        *   Skinny
+        *   Bootcut
     
-    *   FEATURED
-    *   Studio
-    *   Active
-    *   Lounge
-    *   Swim
-    *   Sleep
-    *   Intimates
+    *   Guys Jeans
+        *   View All
+        *   Skinny
+        *   Slim Straight
+        *   Slim Tapered
+        *   Straight
+        *   Super Skinny
+        *   Relaxed
+    
+*   Live Love Dream
+    
+    *   View Home
+    *   Features
+        *   View All
+        *   Trending
+        *   Active
+        *   Lounge
+        *   Sleep
+        *   Intimates
     *   Clearance
     
-    *   TOPS
-    *   Tanks
-    *   Bodysuits
-    *   Tees
-    *   Hoodies &. Sweatshirts
-    *   Jackets &. Vests
-    *   Sleep Tops
+    *   Tops
+        *   View All
+        *   Tees
+        *   Tanks
+        *   Hoodies + Sweatshirts
+        *   Jackets + Vests
+        *   Bodysuits
+        *   Sleep
     
-    *   BOTTOMS
-    *   #BestBootyEver
-    *   Shorts
-    *   Leggings
-    *   Joggers &. Sweats
-    *   Bootcut
-    *   Sleep Bottoms
-    
-    *   UNDIES
-    *   Hipster
-    *   Boy Short
-    *   Boy Brief
-    *   Bikini
-    *   Thong
-    
-    *   BRAS
-    *   Bodysuits
-    *   ACCESSORIES
-    *   CLEARANCE
-    
-*   Clearance
-    
-    *   GIRLS
-    *   Tees
-    *   Shirts + Polos
-    *   Camis + Tanks
-    *   Hoodies + Long Sleeve
-    *   Dresses
-    *   Swim
     *   Bottoms
+        *   View All
+        *   #Bestbootyever
+        *   Leggings
+        *   Joggers + Sweats
+        *   Bootcut
+        *   Shorts
+        *   Sleep Bottoms
+    
+    *   Bras
+    *   Undies
     *   Accessories
-    
-    *   GUYS
-    *   Tees
-    *   Polos
-    *   Shirts
-    *   Bottoms
-    *   Accessories
-    
-    *   Live Love Dream
-    *   Swim
-    *   LLD Tanks
-    *   LLD Shorts
-    *   Bras + Undies
-    *   LLD Active
-    *   LLD Lounge
-    
-    *   ROOM
-    
 *   Trending
     
-    *   GIRLS
-    *   Rompers
-    *   Lace Up
-    *   Ruffle Shoulder Detail
-    *   Baby Tees
-    *   Fashion Fleece
-    *   Velour
+    *   View Home
+    *   Girls
+        *   View All
+        *   Rompers
+        *   Lace Up
+        *   Ruffle Shoulder Detail
+        *   Baby Tees
+        *   Fashion Fleece
+        *   Velour
     
-    *   GUYS
-    *   Printed Shirts
-    *   Active
+    *   Guys
+        *   View All
+        *   Active
+        *   Printed Shirts
+        
     
-    *   LIVE LOVE DREAM
-    *   Studio
-    *   Colorblock
+    *   Live Love Dream
+        *   View All
+        *   Colorblock
+        *   Studio
+*   Clearance
+    
+    *   View Home
+    *   Girls
+        *   View All
+        *   Tops
+        *   Bottoms
+        *   Accessories
+    
+    *   Guys
+        *   View All
+        *   Tops
+        *   Bottoms
+        *   Accessories
+    
+    *   Live Love Dream
+        *   View All
+        *   Tops
+        *   Bottoms
+        *   Accessories
 
-*   Go
+*   Help - Live Chat
+*   Sign Up/Login
+*   Refer a Friend
 
-*   account
-    *   My Account
-    *   Email Sign Up
-    *   Track Your Order
-*   0
+0 Search Catalog Search Promotions Shop Girls Shop Guys shop girls shop guys
 
-Safety, Security and Privacy
+*   Lounge Starting at $8.00 Shop Lounge
+*   Leggings Starting at $10.00 Shop Leggings
+*   Polos Starting at $9.00 Shop Girls
+*   Pants Starting at $9.00 Shop Girls Shop Guys
+*   Lounge Starting at $8.00 Shop Lounge
+*   Leggings Starting at $10.00 Shop Leggings
+*   Polos Starting at $9.00 Shop Girls
+*   Pants Starting at $9.00 Shop Girls Shop Guys
 
-*   Secure Shopping Guarantee
-*   Terms &. Conditions
-*   Privacy Policy
-*   Canadian Privacy Policy
+*   1
+*   2
+*   3
+*   4
 
-Go to helpdesk
+OUR FEATURED STYLES
 
-**Privacy Policy**
+*   LLD Mesh Inset Full-Zip Top $49.50 $25.00
+*   LLD Long Sleeve Mesh Inset Tee $32.50 $16.00
+*   Hooded Puffer Vest $59.50 $30.00
+*   Long Sleeve Lettuce-Edge Layering Tee $32.50 $13.00
+*   Seriously Stretchy High-Waisted Ankle Jegging $49.50
+*   Hooded Active Parka $89.50 $53.70
+*   Long Sleeve Twill Plaid Woven Shirt $44.50 $14.00
+*   Skinny Indigo Green Dark Wash Reflex Jean $49.50
+*   LLD Mesh Inset Full-Zip Top $49.50 $25.00
+*   LLD Long Sleeve Mesh Inset Tee $32.50 $16.00
+*   Hooded Puffer Vest $59.50 $30.00
+*   Long Sleeve Lettuce-Edge Layering Tee $32.50 $13.00
 
-  
-Aéropostale, Inc. and our subsidiary, P.S. From Aéropostale, Inc. (collectively, "Aéropostale", "we" or "us") recognize that the users and customers ("you") of our web sites, Aéropostale.com and PS4U.com (each a "Web Site" and collectively, the "Web Sites"), care how information about them is used and shared. We have created this Privacy Policy ("Privacy Policy") to inform you of our information collection, use and sharing practices for the Web Sites.  
-  
-Please be advised that the practices described in this Privacy Policy apply only to information gathered through our stores and Web Sites and, where applicable, through the Web Sites' Customer Service Department in connection with the Web Site, and do not necessarily reflect our practices with respect to information gathered through other web sites that we operate or through other off-line means.  
-  
-If you have any questions regarding this Privacy Policy, you should contact the Web Sites' Customer Service Department by e-mail at customerservice@aeropostale.com, by phone at 877-289-2376 or write to us at:  
-  
-Aeropostale.com  
-Attn: Aéropostale Customer Service  
-915 S. Babcock St.  
-Melbourne, FL 32901  
-  
-  
-What Information About Me Is Collected, Stored and Used?  
-We collect and store information that you enter into this Web Site or that you provide through this Web Site's Customer Service Department. For example, when you open an account or place an order, we collect and store some or all of the following information that you provide: name, billing address, shipping address, email address, telephone number, credit card number and expiration date ("Personal Information"). This information is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. Some of this information also may be used to contact you about new products, sales, promotions, special offers, and events, product and customer surveys and new site features, unless you have opted not to receive promotional communications in connection with this Web Site.  
-  
-We collect and store certain other information automatically whenever you interact with our Web Sites. For example, we collect your IP address, browser information and reference site domain name every time you visit the Web Sites. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve the Web Sites and to provide our customers with a fulfilling shopping experience.  
-  
-Also, like many web sites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies help us to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves our Web Site without checking out. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on our Web Sites.  
-  
-We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you.  
-  
-Is Information Collected From Children?  
-We are fully aware of the concerns regarding the collection of personal information from children. As a result, we do not sell or ship any items ordered through our Web Sites directly to anyone who we know to be under the age of 13, nor do we collect any personal information from anyone who we know to be under the age of 13. If you are under the age of 13, you should use our Web Sites only with the involvement of a parent or guardian and should not submit any personal information to us. If a parent or guardian becomes aware that a child under the age of 13 has submitted personal information on our Web Site, please contact the Web Site's Customer Service Department by phone at 877-289-2376, and we will remove the personal information about the individual from our database.  
-  
-With Whom Do You Share Information?  
-We do not share with others any personal information that you provide to us through our Web Sites or through the Web Sites' Customer Service Department, except with your consent or as described in this Privacy Policy.  
-  
-We may share personal information that you provide to us through our stores, the Web Site or through the Web Sites' Customer Service Department with our affiliates, strategic and/or marketing partners and with our service providers. Certain of our affiliates and service providers may share this personal information with their affiliates and with service providers whom they engage to perform services related to the Web Sites or the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, web site evaluation, data analysis and, where applicable, data cleansing. These service providers are authorized to use this personal information only in connection with the services they are engaged to perform.  
-  
-We may release personal information if we believe in good faith that: the law or legal process requires it. we have received a valid administrative request from a law enforcement agency. or such release is necessary to protect the rights, property or safety of Aéropostale, or any of our affiliates, service providers, customers or others.  
-  
-We may share non-personal information with our marketing partners, advertisers and others from time to time. Examples of such non-personal information include the number of users who visited this Web Site during a specific time period or purchased a specific product through this Web Site. This information generally is shared in an aggregated form.  
-  
-What Steps Are Taken To Keep Personal Information Secure?  
-Various security measures, including Secure Socket Layer (SSL) encryption technology, are used to protect personal information that we collect. If you place an order through our Web Sites, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel your password, or if you become aware of any loss, theft or unauthorized use of your password, please contact this Web Site's Customer Service Department by email at customerservice@aeropostale.com or by phone at 877-289-2376.  
-  
-How Can I Access, Correct and Update Personal Information?  
-You can access, correct and update certain personal information that you have provided to us by clicking on "Manage Your Account" within the Help Desk area of this Web Site.  
-  
-Can I Indicate Whether or Not I Want To Receive Promotional Communications?  
-There are several ways in which you can tell us whether or not you want to receive promotional communications from us. When you set up an account, or click on "Manage Your Account" within the Help Desk area, or place an order, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you.  
-  
-What Happens When I Link To or From Another Web Site?  
-Our Web Sites may contain links to other web sites operated by affiliates of Aéropostale or third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other web sites and that we are not responsible for the privacy policies, practices or contents of these other web sites. We encourage you to be aware of when you leave our Web Site and to read the privacy policies of each and every web site that you visit.  
-  
-  
-  
-What About Contests and Sweepstakes?  
-When we run a contest or sweepstakes relating to our Web Site, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed, if different than as described in this Privacy Policy.  
-  
-California Privacy Rights  
-Pursuant to California Civil Code Section 1798.83, if you live in the State of California, you may request certain information about the type of your Personal Information we share with third parties for direct marketing purposes and the identity of any such third party. Once per calendar year, California residents may request this information by contacting us by e-mail at customerservice@aeropostale.com, by phone at 877-289-2376 or by writing to us at: Aeropostale.com, Attn: Aéropostale Customer Service, 915 S. Babcock St., Melbourne, FL 32901.  
-  
-Additional Information  
-No transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Aéropostale to intercept or access transmissions or private communications unlawfully. While we strive to protect your Personal Information, neither Aéropostale nor any of our service providers can ensure or warrant the security of any information you transmit to us. Any such transmission is done at your own risk. If you choose to visit our Web Sites, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use including but not limited to limitations of damages and application of the law of the State of New York. UNDER NO CIRCUMSTANCES, INCLUDING BUT NOT LIMITED TO NEGLIGENCE, SHALL AÉROPOSTALE OR ANY OF OUR SERVICE PROVIDERS OR AFFILIATES BE LIABLE FOR ANY SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES THAT RESULT FROM THE USE OF THE INFORMATION OR MATERIALS ON THE AÉROPOSTALE.COM OR PS4U.COM SITE, EVEN IF AÉROPOSTALE OR ANY OF OUR SERVICE PROVIDERS OR AFFILIATES, OR AN AUTHORIZED REPRESENTATIVE OF AÉROPOSTALE OR ANY OF OUR SERVICE PROVIDERS OR AFFILIATES HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
-  
-Acceptance of Terms  
-By using our Web Sites, you signify your acceptance of our Privacy Policy. By providing Personal Information to us through the Web Site, you signify your acceptance of our Privacy Policy with respect to the collection and use of Personal Information. If you do not agree to this Privacy Policy, please do not use our Web Site. Your continued use of the Web site following the posting of changes to these terms will mean that you accept these changes accordingly.  
-  
-How Will I Be Informed About Changes Regarding This Privacy Policy?  
-We reserve the right to modify this Privacy Policy at any time. If we modify this Privacy Policy, we will post the revised Privacy Policy on the Web Sites. We also may post a notice on the Web Sites or send an email describing the changes. You should check the Web Site regularly to see if any recent changes to this Privacy Policy have occurred.  
-  
-Last updated May 8, 2012.  
-  
-  
-  
+*   1
+*   2
+*   3
+*   4
+*   5
+*   6
+*   7
+*   8
 
-*   My Account
-*   Customer Service
+In Store + Online UP TO 80% OFF CLEARANCE PRICES AS MARKED shop girls shop guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
+
+*   Order Status
+*   Track Your Order
+*   Shipping and Handling
+*   Returns
+*   Size Charts
+*   Contact Us
+
+Stores
+
 *   Store Locator
 
-Back to Top SIGN UP  
+About Us
 
-Got It. Thanks!
+*   About Aeropostale
+*   Careers
+*   The Aero Way
+*   The People
+*   Terms of Use
+*   Privacy Policy
+*   CA Transparency Act
 
-Mobile Signup
+Stay Connected
 
-*   Follow Us On:
-*   Facebook
-*   Twitter
-*   Pinterest
-*   Google Plus
-*   YouTube
+*   Live ChatCall Us
 
-*   CUSTOMER SERVICE
-*   1-877-289-2376
-*   RETURNS
-*   SHIPPING
-*   SIZE CHART
-
-*   COMPANY INFO
-*   ABOUT AÉROPOSTALE
-*   CAREERS
-*   INVESTOR RELATIONS
-*   TERMS OF USE
-*   PRIVACY POLICY
-*   STORE LOCATOR
-*   THE AERO WAY
-
-*   CA TRANSPARENCY ACT
-
-*   GIFT CARDS
-*   E-GIFT CARDS
-*   CORPORATE GIFT CARDS
-*   CHECK BALANCE
-
-*   MY ACCOUNT
-*   MY ACCOUNT
-*   ORDER STATUS/TRACKING
-*   EMAILS ABOUT YOUR ORDER
-*   DELIVERY OF YOUR ITEMS
-*   CANCELLATIONS
-
-*   AÉROPOSTALE
-*   TOP PRODUCTS
-*   MOBILE SITE
-*   SITE MAP
-*   P.S. FROM AÉROPOSTALE
-*   LIVE LOVE DREAM
-
-*   COUPONS PAGE
-
-©2014 AEROPOSTALE. ALL RIGHTS RESERVED©2017 AEROPOSTALE. ALL RIGHTS RESERVED
-
-*   Our Brands
-*   Aéropostale
-*   Live Love Dream
-*   P.S. from Aéropostale
-
-<img src="http://link.mercent.com/image.ashx?merchantID=Aeropostale" style="display: none;">. <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn\_id=l4csp&p\_id=Twitter" />. <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/offsite\_event.php?id=6009411458653&amp;value=0&amp;currency=USD" />. <img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=288165681345147&amp;ev=NoScript" />. <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1053117129/?value=0&amp;guid=ON&amp;script=0"/>. </div>. <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/980357025/?value=1.000000&amp;label=xdL-CMf9wAkQoZ-80wM&amp;guid=ON&amp;script=0"/>. </div>. Mobile Terms and Conditions Mobile Terms and Conditions Canadian Mobile Terms and Conditions Privacy Policy X
-
-<!\[if lt IE 5\]>. <script src="http://media.gsimedia.net/jpixel?spacedesc=1101515\_1061349\_1x1\_1061349\_1061349&target=\_blank&db\_afcr=123&group=AERO&event=default&random=1504672047612&siteid=87&pagetype=helpdesksafetyprivacy&REVENUE=&browserid=337118523055&ORDERID=&prodid=&catid=0&REFERRER=&cartotal=&pqty=">. </script>. <!\[endif\]>.
+© 2017 Aeropostale. All Rights Reserved.
