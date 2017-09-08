@@ -1,18 +1,18 @@
-*   KC0-0NE0-0Thu 8:30 PM ET
-*   NYJ0-0BUF0-0Sun 1:00 PM ET
-*   ATL0-0CHI0-0Sun 1:00 PM ET
-*   BAL0-0CIN0-0Sun 1:00 PM ET
-*   PIT0-0CLE0-0Sun 1:00 PM ET
-*   ARI0-0DET0-0Sun 1:00 PM ET
-*   JAX0-0HOU0-0Sun 1:00 PM ET
-*   OAK0-0TEN0-0Sun 1:00 PM ET
-*   PHI0-0WAS0-0Sun 1:00 PM ET
-*   IND0-0LA0-0Sun 4:05 PM ET
-*   SEA0-0GB0-0Sun 4:25 PM ET
-*   CAR0-0SF0-0Sun 4:25 PM ET
-*   NYG0-0DAL0-0Sun 8:30 PM ET
-*   NO0-0MIN0-0Mon 7:10 PM ET
-*   LAC0-0DEN0-0Mon 10:20 PM ET
+*   NYJ0-0BUF0-0September 10, 2017 1:00:00 PM EDT ET
+*   ATL0-0CHI0-0September 10, 2017 1:00:00 PM EDT ET
+*   BAL0-0CIN0-0September 10, 2017 1:00:00 PM EDT ET
+*   PIT0-0CLE0-0September 10, 2017 1:00:00 PM EDT ET
+*   ARI0-0DET0-0September 10, 2017 1:00:00 PM EDT ET
+*   JAX0-0HOU0-0September 10, 2017 1:00:00 PM EDT ET
+*   OAK0-0TEN0-0September 10, 2017 1:00:00 PM EDT ET
+*   PHI0-0WAS0-0September 10, 2017 1:00:00 PM EDT ET
+*   IND0-0LA0-0September 10, 2017 4:05:00 PM EDT ET
+*   SEA0-0GB0-0September 10, 2017 4:25:00 PM EDT ET
+*   CAR0-0SF0-0September 10, 2017 4:25:00 PM EDT ET
+*   NYG0-0DAL0-0September 10, 2017 8:30:00 PM EDT ET
+*   NO0-0MIN0-0September 11, 2017 7:10:00 PM EDT ET
+*   LAC0-0DEN0-0September 11, 2017 10:20:00 PM EDT ET
+*   KC1-042NE0-127Final
 
 *   News
 *   Scores
@@ -31,21 +31,21 @@
 *   NFL Network
 *   Photos
 
-*   KC0-0NE0-0Thu 8:30 PM ET
-*   NYJ0-0BUF0-0Sun 1:00 PM ET
-*   ATL0-0CHI0-0Sun 1:00 PM ET
-*   BAL0-0CIN0-0Sun 1:00 PM ET
-*   PIT0-0CLE0-0Sun 1:00 PM ET
-*   ARI0-0DET0-0Sun 1:00 PM ET
-*   JAX0-0HOU0-0Sun 1:00 PM ET
-*   OAK0-0TEN0-0Sun 1:00 PM ET
-*   PHI0-0WAS0-0Sun 1:00 PM ET
-*   IND0-0LA0-0Sun 4:05 PM ET
-*   SEA0-0GB0-0Sun 4:25 PM ET
-*   CAR0-0SF0-0Sun 4:25 PM ET
-*   NYG0-0DAL0-0Sun 8:30 PM ET
-*   NO0-0MIN0-0Mon 7:10 PM ET
-*   LAC0-0DEN0-0Mon 10:20 PM ET
+*   NYJ0-0BUF0-0September 10, 2017 1:00:00 PM EDT ET
+*   ATL0-0CHI0-0September 10, 2017 1:00:00 PM EDT ET
+*   BAL0-0CIN0-0September 10, 2017 1:00:00 PM EDT ET
+*   PIT0-0CLE0-0September 10, 2017 1:00:00 PM EDT ET
+*   ARI0-0DET0-0September 10, 2017 1:00:00 PM EDT ET
+*   JAX0-0HOU0-0September 10, 2017 1:00:00 PM EDT ET
+*   OAK0-0TEN0-0September 10, 2017 1:00:00 PM EDT ET
+*   PHI0-0WAS0-0September 10, 2017 1:00:00 PM EDT ET
+*   IND0-0LA0-0September 10, 2017 4:05:00 PM EDT ET
+*   SEA0-0GB0-0September 10, 2017 4:25:00 PM EDT ET
+*   CAR0-0SF0-0September 10, 2017 4:25:00 PM EDT ET
+*   NYG0-0DAL0-0September 10, 2017 8:30:00 PM EDT ET
+*   NO0-0MIN0-0September 11, 2017 7:10:00 PM EDT ET
+*   LAC0-0DEN0-0September 11, 2017 10:20:00 PM EDT ET
+*   KC42NE27Final
 
 *   News
 *   Scores
@@ -55,8 +55,6 @@
 *   Video
 *   Fantasy
 
-*   Fantasy
-
 *   *   Game Pass
     *   Stats
     *   LONDON GAMES
@@ -64,11 +62,13 @@
     *   NFL Network
     *   Photos
 
+ScoresClose
+
 *   Tickets
 *   Shop
 *   Teams
 
-NFL.com - Privacy Policy English Deutsch Francais
+BREAKING NEWSChiefs safety Eric Berry carted off with Achilles tendon injuryThe three-time All-Pro suffered the injury during the fourth quarter against the Patriots.READ MORE NFL.com - Privacy Policy English Deutsch Francais
 
 **Effective Date: August 16, 2001  
 Updated: December 19, 2016**  
@@ -242,4 +242,6 @@ If you have any questions about this Privacy Policy or the privacy practices of 
 NFL Digital Media Group  
 345 Park Avenue, 5th Floor  
 New York, NY 10154  
-Attn: Website Privacy Policy
+Attn: Website Privacy Policy  
+
+ The three-time All-Pro suffered the injury during the fourth quarter against the Patriots.
