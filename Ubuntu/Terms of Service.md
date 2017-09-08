@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
-*   The snapd roadmap ›
-*   LXC 2.1 has been released ›
-*   Kernel Team Summary: September 6, 2017 ›
-*   Ubuntu Server Development Summary – 05 Sep 2017 ›
-*   LXD Weekly Status #13: Snap data migration, Open Source Summit &. more ›
+*   Kubernetes for the Enterprise: 1, 2, 3, Go! ›
+*   Security Team Weekly Summary: September 7, 2017 ›
+*   Week 35 of 2017 in snapcraft ›
+*   Canonical Distribution of Kubernetes: Development Summary (9/7/2017) ›
+*   Controlling snap releases with channels, tracks and branches – Part 2 ›
