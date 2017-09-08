@@ -88,7 +88,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Equity analyst coverage
         *   Contact our registrar last item in this group
     *   Fixed income investors
-        *   Group securities
+        *   HSBC Holdings securities
         *   Subsidiary company securities
         *   Covered bonds
         *   Green bonds
