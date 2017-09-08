@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Gregg Jarrett_: Trump Restores Constitutional Sanity to Immigration Laws
+*   _Alexander Bolton_: Trump's Surprise Deal Shakes Up Fall Agenda
     
-*   _Eric Holder_: The Trump Admin's Deep Misunderstanding of DACA
+*   _Larry Elder_: Harvey Shows Our Colorblind Spirit--Bad News for Race Hustlers
     
-*   _Byron York_: House Panel Subpoenas FBI, Justice Over Trump Dossier
+*   _Graydon Carter_: National Lampoon's Presidential Vacation
     
-*   _Rebecca Berg_: Trump Loyalists Fume as WH Sway Diminishes
+*   _Thomas Edsall_: The Struggle Between Clinton and Sanders Is Not Over
     
-*   _Alex Shephard_: Do You Miss Obama Yet?
+*   _Ben Shapiro_: If Republicans Don't Make Moves, They Deserve to Lose
     
-*   _Betsy McCaughey_: Obamacare Creating Uninsured Crisis Among Middle Class
+*   _Sarah Kliff_: This Is What Obamacare Sabotage Looks Like
     
-*   _John Bolton_: FDR's 'Rattlesnake' Rule and the North Korean Threat
+*   _Sally Pipes_: The Inconvenient Truth About Obamacare's Premium Spiral
     
-*   _Jonathan Steele_: Hawkish Talk Only Heightens Threat From North Korea
+*   _George Melloan_: Democrats Have the Green Party Blues
     
-*   _Kotkin &. Cox_: Spotlight on Infrastructure After Harvey
+*   _Elizabeth Kolbert_: Hurricane Harvey &. Trump's Climate-Change Delusions
     
-*   _Lee Habeeb_: A Tale of Two Cities: Charlottesville and Houston
+*   _Laura Rozen_: Trump Could Kick Iran Deal to Congress, Haley Says
     
-*   _Jonathan Haidt_: The Fragile Generation: A Crisis of Resilience on Campus
+*   _Luke Rosiak_: The Mystery of Wasserman Schultz's Found Laptop
     
-*   _Simendinger &. Arkin_: Trump Tosses 'Dreamers' Fate to Congress
+*   _Irwin Stelzer_: What Democrats Have Wrong on DACA &. the Dreamers
     
-*   _Rich Lowry_: President Trump Gets DACA Right
+*   _Charles Blow_: Trump's Inner Racism Revealed
     
-*   _James Fallows_: Why the GOP Will Come to Regret Rolling Back DACA
+*   _Alexis Simendinger_: Trump to Congress: Help Dreamers, Secure Borders
     
-*   _Harlan Hill_: If Dems Actually Care About Dreamers, Then Make a Deal
+*   _Gov. Scott Walker_: The Last, Best Hope to Repeal &. Replace Obamacare
     
-*   _Sam Stein_: Dreamers Against Border Wall Deal That Would Save Them
+*   _Ben Austen_: Running on Hope: Can Democrats Forge a New Path?
     
-*   _Victor Davis Hanson_: Virtual Virtue
+*   _Marc Thiessen_: How Dems Left Us Vulnerable to North Korea Nukes
     
-*   _Abramowitz &. Webster_: 'Negative Partisanship' Explains Everything
+*   _Peter Beinart_: South Korea's Approach More Sensible Than Washington's
     
-*   _David Byler_: Is Jeff Flake's Re-election in Jeopardy?
+*   _Walter Russell Mead_: Does Trump Want a Nuclear Japan?
     
-*   _Jill Filipovic_: Hillary Clinton Is Right About Bernie Sanders
+*   _Roger Kimball_: A Battle Between Freedom and the Inebriates of Virtue
     
-*   _Becket Adams_: Reminder: The Press Really Wanted Hillary to Win
+*   _Chris Smith_: De Blasio on Trump, Cuomo and Getting NY to Like You
     
-*   _David Ignatius_: How Fog of Uncertainty Can Lead to War
+*   _Caitlin Huey-Burns_: In North Dakota, Trump Gives Nod to Democrat Heitkamp
     
-*   _Kevin Rudd_: Three Scenarios as Odds of Korean War Rise
+*   _Daniel Sobieski_: Corrupt Comey Had the Fix In for Clinton
     
-*   _Walter Williams_: Black Leaders &. the Distraction of Purging Statues
+*   _Michael Crowley_: The Deep State Is Real, But It Might Not Be What You Think
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Is Jeff Flake in Jeopardy in Arizona?
-*   Trump Moves to End "Dreamers" Program. Urges Congress to Act
-*   Sessions: American People Have Rejected Open Borders
-*   Republicans Weigh Linking Harvey Funds, Debt Limit
-*   The Nub of the North Korea Crisis
+*   Trump to Congress: Help Dreamers, Secure Borders
+*   Trump Backs Dems on Fiscal Deals, Riling Republicans
+*   Ryan: Trump Right to Give Congress 6 Months to Find Compromise on DACA
+*   In North Dakota, Trump Gives Nod to Democrat Heitkamp
+*   Trump Loyalists Fume as WH Sway Diminishes
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -282,11 +282,11 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove56Disapprove +19
+    *   Approve36
+    *   Disapprove57Disapprove +21
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve45
-    *   Disapprove53Disapprove +8
+    *   Disapprove54Disapprove +9
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve40
     *   Disapprove57Disapprove +17
@@ -296,11 +296,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Trump vs. Reporter on N. Korea: "I Don't Put My Negotiations On The Table, Unlike Past Administrations"
+*   Fired Google Engineer James Damore: Progressives Can't See Their Own Echo Chamber
+*   Bannon: Catholic Church Has "Economic Interest" In Continuing "Unlimited Illegal Immigration"
+*   Gutfeld: Southern Poverty Law Center Might Have To Put Itself On Its Own Hate Group List
 *   Haberman: Trump Did Not Actually Want To Rescind DACA, Stephen Miller Pushed Him To
-*   Hannity vs. Ramos: "We Can't Take Care Of The World's Children," Can't "Burn The Constitution" For You
-*   Paul Ryan: President Trump Was Right To Give Congress Six Months To Find A Compromise On DACA
-*   Sen. Schumer: Put Clean DREAM Act On The Floor, Dems Will Attach It To Every Bill Until It Passes
-*   Kobach vs. MSNBC Host: DACA Recipients Should Be Grateful To Taxpayers. Go Home, Do It Legally
 
 *   Politics
 *   Policy
