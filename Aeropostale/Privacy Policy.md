@@ -442,14 +442,14 @@ Menu Find a Store Aeropostale
 
 0 Search Catalog Search Promotions Shop Girls Shop Guys shop girls shop guys
 
-*   Lounge Starting at $8.00 Shop Lounge
-*   Leggings Starting at $10.00 Shop Leggings
-*   Polos Starting at $9.00 Shop Girls
-*   Pants Starting at $9.00 Shop Girls Shop Guys
-*   Lounge Starting at $8.00 Shop Lounge
-*   Leggings Starting at $10.00 Shop Leggings
-*   Polos Starting at $9.00 Shop Girls
-*   Pants Starting at $9.00 Shop Girls Shop Guys
+*   Lounge Starting at $10.00 Shop Lounge
+*   Leggings Starting at $17.80 Shop Leggings
+*   Polos Starting at $8.00 Shop Girls Shop Guys
+*   Pants Starting at $12.00 Shop Girls Shop Guys
+*   Lounge Starting at $10.00 Shop Lounge
+*   Leggings Starting at $17.80 Shop Leggings
+*   Polos Starting at $8.00 Shop Girls Shop Guys
+*   Pants Starting at $12.00 Shop Girls Shop Guys
 
 *   1
 *   2
@@ -458,7 +458,7 @@ Menu Find a Store Aeropostale
 
 OUR FEATURED STYLES
 
-*   LLD Mesh Inset Full-Zip Top $49.50 $25.00
+*   LLD Mesh Inset Full-Zip Top $49.50 $28.00
 *   LLD Long Sleeve Mesh Inset Tee $32.50 $16.00
 *   Hooded Puffer Vest $59.50 $30.00
 *   Long Sleeve Lettuce-Edge Layering Tee $32.50 $13.00
@@ -466,7 +466,7 @@ OUR FEATURED STYLES
 *   Hooded Active Parka $89.50 $53.70
 *   Long Sleeve Twill Plaid Woven Shirt $44.50 $14.00
 *   Skinny Indigo Green Dark Wash Reflex Jean $49.50
-*   LLD Mesh Inset Full-Zip Top $49.50 $25.00
+*   LLD Mesh Inset Full-Zip Top $49.50 $28.00
 *   LLD Long Sleeve Mesh Inset Tee $32.50 $16.00
 *   Hooded Puffer Vest $59.50 $30.00
 *   Long Sleeve Lettuce-Edge Layering Tee $32.50 $13.00
@@ -489,6 +489,7 @@ Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 *   Returns
 *   Size Charts
 *   Contact Us
+*   Help
 
 Stores
 
