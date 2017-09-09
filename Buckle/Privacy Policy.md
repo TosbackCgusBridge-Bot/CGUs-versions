@@ -16,7 +16,7 @@
     *   Login
     *   |
     *   Register
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   0MY FAVORITES
 *   MY BAG
@@ -84,8 +84,8 @@
         
           
           
-        Give a Buckle Gift card Looking for the perfect jean? Check out our selection of fits and finishes to find yours today!  
-        Women's Denim | Men's Denim
+        Give a Buckle Gift card Things are cooling down! Cozy Up with Go-To Sweaters and Timeless Cardigans.  
+        Shop Women's | Shop Men's
 *   Men
     *   *   Featured
         
@@ -144,8 +144,8 @@
         
           
           
-        Give a Buckle Gift card Looking for the perfect jean? Check out our selection of fits and finishes to find yours today!  
-        Women's Denim | Men's Denim
+        Give a Buckle Gift card Things are cooling down! Cozy Up with Go-To Sweaters and Timeless Cardigans.  
+        Shop Women's | Shop Men's
 *   Kids
     *   *   Featured
         
@@ -167,8 +167,8 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Looking for the perfect jean? Check out our selection of fits and finishes to find yours today!  
-        Women's Denim | Men's Denim
+        Give a Buckle Gift card Things are cooling down! Cozy Up with Go-To Sweaters and Timeless Cardigans.  
+        Shop Women's | Shop Men's
 *   Jeans
     *   *   Women's Jeans
         
@@ -198,8 +198,8 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Looking for the perfect jean? Check out our selection of fits and finishes to find yours today!  
-        Women's Denim | Men's Denim
+        Give a Buckle Gift card Things are cooling down! Cozy Up with Go-To Sweaters and Timeless Cardigans.  
+        Shop Women's | Shop Men's
 *   New
     *   *   Featured New
         
@@ -240,8 +240,8 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Looking for the perfect jean? Check out our selection of fits and finishes to find yours today!  
-        Women's Denim | Men's Denim
+        Give a Buckle Gift card Things are cooling down! Cozy Up with Go-To Sweaters and Timeless Cardigans.  
+        Shop Women's | Shop Men's
 *   Sale
     *   *   Women's Sale
         
@@ -284,8 +284,8 @@
         
           
           
-        Give a Buckle Gift card Looking for the perfect jean? Check out our selection of fits and finishes to find yours today!  
-        Women's Denim | Men's Denim
+        Give a Buckle Gift card Things are cooling down! Cozy Up with Go-To Sweaters and Timeless Cardigans.  
+        Shop Women's | Shop Men's
 
 SearchSubmitSearchSubmit × ClosePrivacy &. Security
 
