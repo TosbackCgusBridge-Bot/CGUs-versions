@@ -17,7 +17,7 @@
 *   Profile
 *   Sign Out
 
-Search Location CareerBuilder: Find the right job. Right now. Search Location Recent Searches No Recent Searches Add your resume and let your next job find you. Add Your Resume Employers are using these keywords to search for candidates: Java (Programming Language) Accounting Sales Linux Accounts Payable Accounts Receivable Restaurant Operation Sql (Programming Language) Administration Warehousing Quick Links Resumes Cover Letters Saved &. Applied Jobs Saved Searches Profile Job Recommendations
+Search Location CareerBuilder: Find the right job. Right now. Search Location Recent Searches No Recent Searches Add your resume and let your next job find you. Add Your Resume Employers are using these keywords to search for candidates: Java (Programming Language) Accounting Sales Linux Accounts Payable Accounts Receivable Restaurant Operation Sql (Programming Language) Customer Service Finance Quick Links Resumes Cover Letters Saved &. Applied Jobs Saved Searches Profile Job Recommendations
 
 No job recommendations yet, but opportunity is out there!
 
