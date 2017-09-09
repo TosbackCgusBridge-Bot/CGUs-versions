@@ -131,7 +131,7 @@ View Inspiration comes in all shapes and sizes. on Instagram
 
 Moving subjects never looked so graceful than with #Xperia XZ1 Compact.
 
-1 day ago
+2 days ago
 
 View Tweet
 
@@ -203,7 +203,7 @@ Before It’s Released?
 
 Get ready for Round 2. The Saint of Killers is back on the hunt in the latest episode of #Preacher.
 
-1 day ago
+2 days ago
 
 View Tweet
 
