@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Desktop Weekly Update: September 8, 2017 ›
 *   Kubernetes for the Enterprise: 1, 2, 3, Go! ›
 *   Security Team Weekly Summary: September 7, 2017 ›
 *   Week 35 of 2017 in snapcraft ›
 *   Canonical Distribution of Kubernetes: Development Summary (9/7/2017) ›
-*   Controlling snap releases with channels, tracks and branches – Part 2 ›
