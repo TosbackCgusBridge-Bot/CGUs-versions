@@ -4,11 +4,11 @@ Hi! Welcome to the Digg Terms of Service. (Please wipe your feet.)
 
 What is this thing?
 
-**The document you are reading now is the legal contract between you and News.me Inc.** (a.k.a., “Digg”, “we”, “us”) **that applies to your use of anything Digg, including Digg’s websites, mobile apps, email and other products, content, and related services** (in this doc, we’re going to refer to Digg’s products and services collectively as “Digg Services”).
+**The document you are reading now is the legal contract between you and Digg Inc.** (a.k.a., “Digg”, “we”, “us”) **that applies to your use of anything Digg, including Digg’s websites, mobile apps, email and other products, content, and related services** (in this doc, we’re going to refer to Digg’s products and services collectively as “Digg Services”).
 
-Who is News.me Inc.?
+Who is Digg Inc.?
 
-News.me Inc. is the company that provides and operates the Digg Services. We refer to ourselves here as “Digg”, because Digg is the name of the service the vast majority of our users know us by.
+Digg Inc. is the company that provides and operates the Digg Services. We refer to ourselves here as “Digg”, because Digg is the name of the service the vast majority of our users know us by.
 
 Why should I read this?
 
@@ -68,7 +68,7 @@ Digg complies with the Digital Millennium Copyright Act. We have a policy of ter
 
 The contact information for Digg’s Designated Agent for receipt of notices of claimed infringement is here:
 
-> _Physical mail:_ Digg / News.me Inc., 50 Eldridge Street, New York, NY, 10002, Attn: Digg Copyright Agent
+> _Physical mail:_ Digg, 50 Eldridge Street, New York, NY, 10002, Attn: Digg Copyright Agent
 > 
 > _Email:_ support@digg.com
 
