@@ -6,14 +6,14 @@ VH1 Menu VH1
     *   Shows A-Z
     *   Show News
     *   TV Schedule
+    *   Hip Hop Honors
     *   Love &. Hip Hop Hollywood
     *   Baller Wives
     *   Black Ink Crew Chicago
     *   Signed
     *   Ricky Martin: Behind The Vegas Residency
     *   Brunch With Tiffany
-    *   Basketball Wives
-    *   Daytime DivasSee all Shows
+    *   Basketball WivesSee all Shows
 *   Pop Culture
     *   Music
     *   Celebrity
@@ -30,7 +30,7 @@ VH1 Menu VH1
 *   TV Provider Sign Out
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Hollywood Baller Wives Black Ink Crew Chicago Signed Ricky Martin: Behind The Vegas Residency Brunch With Tiffany Basketball Wives Daytime Divas See all Shows
+*   Shows Full Episodes Shows A-Z Show News TV Schedule Hip Hop Honors Love &. Hip Hop Hollywood Baller Wives Black Ink Crew Chicago Signed Ricky Martin: Behind The Vegas Residency Brunch With Tiffany Basketball Wives See all Shows
 *   Pop Culture Music Celebrity Movies TV Around The Web Video See all Pop Culture
 *   Life Beauty &. Health Style Relationships Video See all Life
 *   Watch Live TV
