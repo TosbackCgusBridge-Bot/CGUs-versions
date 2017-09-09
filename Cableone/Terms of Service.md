@@ -206,4 +206,4 @@ Search Search Type Residential Business Support
 *   CableONE Careers
 *   CableONE Site Map
 
-Facebook Twitter Google+ YouTube LinkedIn Copyright 2017 , Cable ONE Inc ., All Rights Reserved. Live Help is Online.  ×–undefinedChatPowered by
+Facebook Twitter Google+ YouTube LinkedIn Copyright 2017 , Cable ONE Inc ., All Rights Reserved. Live Help is Online.  ×–undefinedChat Input BoxChatPowered by
