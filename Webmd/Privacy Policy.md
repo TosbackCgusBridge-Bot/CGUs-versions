@@ -106,11 +106,11 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
+    *   Can't Afford the Dentist? You're Not Alone
     *   FDA Approves First-of-Its-Kind Cancer Treatment
-    *   Drink Coffee, Live Longer?
-    *   Slow and Steady Wins the Weight Loss Race
+    *   Drug Approved for Antibiotic-Resistant UTIs
     *   Many Migraine Patients Given Unnecessary Opioids
-    *   More Evidence 'Mono' Virus Linked to MS
+    *   Nearly Half a Million Pacemakers Recalled
     
     Experts &. Community
     
@@ -440,7 +440,7 @@ WebMD Policy Last updated on December 30, 2016 © 2016 WebMD, LLC. All rights re
 
 Some of these might surprise you.
 
-Depressed, Guilty Feelings After Eating?
+Save $5 off of one or $20 off of three Poise® Maximum Absorbency Pads, only at Sam’s Club Save $5 off of one or $20 off of three Poise® Maximum Absorbency Pads, only at Sam’s Club Ad By **Poise** Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
