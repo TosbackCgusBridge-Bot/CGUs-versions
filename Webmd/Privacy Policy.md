@@ -440,7 +440,7 @@ WebMD Policy Last updated on December 30, 2016 © 2016 WebMD, LLC. All rights re
 
 Some of these might surprise you.
 
-Save $5 off of one or $20 off of three Poise® Maximum Absorbency Pads, only at Sam’s Club Save $5 off of one or $20 off of three Poise® Maximum Absorbency Pads, only at Sam’s Club Ad By **Poise** Depressed, Guilty Feelings After Eating?
+Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
