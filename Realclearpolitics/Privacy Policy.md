@@ -282,8 +282,8 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve36
-    *   Disapprove57Disapprove +21
+    *   Approve38
+    *   Disapprove56Disapprove +18
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve46
     *   Disapprove53Disapprove +7
@@ -296,11 +296,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Tucker Carlson Interviews Dave Rubin About "Ominous" Google De-Monetizing YouTube Videos
 *   Maxine Waters Worried About Domestic Terror: "You See How Much They Want To Kill Me"
 *   GOP Rep. Duffy: Trump "Empowered Democrats," Schumer "Doesn't Want to Make America Great Again"
 *   Fired Google Engineer James Damore: Progressives Can't See Their Own Echo Chamber
 *   Bernie Sanders: No One Believes I Stole Any Of Hillary Clinton's Ideas, Mine Are "Sweeping America"
-*   Gutfeld: Southern Poverty Law Center Might Have To Put Itself On Its Own Hate Group List
 
 *   Politics
 *   Policy
