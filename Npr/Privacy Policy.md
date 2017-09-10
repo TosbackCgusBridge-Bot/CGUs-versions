@@ -3,7 +3,7 @@ Accessibility links
 *   Skip to main content
 *   Keyboard shortcuts for audio player
 
-Toggle initial options for NPR audio player ****ON AIR NOW**NPR 24 Hour Program Stream**
+Toggle initial options for NPR audio player ****ON AIR NOW**CPR News**
 
 *   **Our Picks**
 *   **Live Radio**
@@ -12,7 +12,7 @@ Toggle initial options for NPR audio player ****ON AIR NOW**NPR 24 Hour Program 
 View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Directory Search Toggle search
 
 *   NPR Home
-*   Change station?
+*   **CPR News**
 
 *   News
 *   Arts &. Life
@@ -41,8 +41,9 @@ View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Dir
 
 *   Podcast Directory
 *   Categories
-*   podcasts
+*   CPR News podcasts
 
+*   donate now
 *   Shop
 *   My Account
 
@@ -293,7 +294,8 @@ Back
 *   Technology
 *   TV &. Film
 
-*   Change station?
+*   **CPR News**
+*   donate now
 
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K9RKM5" height="0" width="0" style="display:none;visibility:hidden"></iframe>. **Privacy Policy** **Please read NPR's Privacy Policy.** **Privacy Policy** Privacy Policy
 
