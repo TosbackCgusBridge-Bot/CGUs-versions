@@ -1,6 +1,6 @@
 Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-Forget the store-bought stuff. Create kinetic sand using 3 household ingredients! Forget the store-bought stuff. Create kinetic sand using 3 household ingredients! Get instructions
+Get parenting tips, kid-friendly recipes, cool crafts and more on PBS Parents! Get parenting tips, kid-friendly recipes, cool crafts and more on PBS Parents! Visit the site
 
 Toggle message bar
 
