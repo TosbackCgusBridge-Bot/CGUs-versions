@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 18%  18%  18%  18% 
+What is PeekScore? Public Records &. Background Checks 11%  11%  11%  11% 
 
 *   Privacy Policy - Instant Search View Now
     
@@ -119,7 +119,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 17%  Twitter 3% 
+Facebook 11%  Twitter 2% 
 
 *   Cristiano Ronaldo - Cristiano
     
@@ -165,7 +165,7 @@ Facebook 17%  Twitter 3% 
     
 *   Show Less ...
 
-Pinterest 17%  Wikipedia 3% 
+Pinterest 11%  Wikipedia 2% 
 
 *   Medana
     
@@ -184,7 +184,7 @@ Pinterest 17%  Wikipedia 3% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Instagram 3% 
+Instagram 2% 
 
 *   Privacy Policy - insta\_privacy\_policy
     
@@ -210,7 +210,7 @@ Instagram 3% 
     
 *   Show Less ...
 
-Google+ 3% 
+Google+ 2% 
 
 *   Free Privacy Policy - Google+
     
@@ -244,7 +244,7 @@ Google+ 3% 
     
 *   Show Less ...
 
-Linkedin 3% 
+Linkedin 2% 
 
 *   Privacy Policy | LinkedIn
     
@@ -290,7 +290,7 @@ Linkedin 3% 
     
 *   Show Less ...
 
-Foursquare 3% 
+Foursquare 2% 
 
 *   privacy policy
     
@@ -324,7 +324,7 @@ Foursquare 3% 
     
 *   Show Less ...
 
-Music 3% 
+Music 2% 
 
 *   Pandora
     
@@ -370,7 +370,7 @@ Music 3% 
     
 *   Show Less ...
 
-Photo Albums 3% 
+Photo Albums 2% 
 
 *   Flickr
     
@@ -381,7 +381,7 @@ Photo Albums 3% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 3% 
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -405,7 +405,7 @@ Myspace 3% 
     
 *   Show Less ...
 
-Documents 3% 
+Documents 2% 
 
 *   Privacy Policy - Google
     
@@ -451,7 +451,7 @@ Documents 3% 
     
 *   Show Less ...
 
-Web Search 3% 
+Web Search 2% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -497,7 +497,7 @@ Web Search 3% 
     
 *   Show Less ...
 
-Images 3% 
+Images 2% 
 
 20
 
