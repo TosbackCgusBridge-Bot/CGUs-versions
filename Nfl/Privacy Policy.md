@@ -1,24 +1,23 @@
-*   NYJ0-0BUF0-0September 10, 2017 1:00:00 PM EDT ET
-*   ATL0-0CHI0-0September 10, 2017 1:00:00 PM EDT ET
-*   BAL0-0CIN0-0September 10, 2017 1:00:00 PM EDT ET
-*   PIT0-0CLE0-0September 10, 2017 1:00:00 PM EDT ET
-*   ARI0-0DET0-0September 10, 2017 1:00:00 PM EDT ET
-*   JAX0-0HOU0-0September 10, 2017 1:00:00 PM EDT ET
-*   OAK0-0TEN0-0September 10, 2017 1:00:00 PM EDT ET
-*   PHI0-0WAS0-0September 10, 2017 1:00:00 PM EDT ET
-*   IND0-0LA0-0September 10, 2017 4:05:00 PM EDT ET
-*   SEA0-0GB0-0September 10, 2017 4:25:00 PM EDT ET
-*   CAR0-0SF0-0September 10, 2017 4:25:00 PM EDT ET
-*   NYG0-0DAL0-0September 10, 2017 8:30:00 PM EDT ET
 *   NO0-0MIN0-0September 11, 2017 7:10:00 PM EDT ET
 *   LAC0-0DEN0-0September 11, 2017 10:20:00 PM EDT ET
 *   KC1-042NE0-127Final
+*   NYJ0-112BUF1-021Final
+*   ATL1-023CHI0-117Final
+*   BAL1-020CIN0-10Final
+*   PIT1-021CLE0-118Final
+*   ARI0-123DET1-035Final
+*   JAX1-029HOU0-17Final
+*   OAK1-026TEN0-116Final
+*   PHI1-030WAS0-117Final
+*   IND0-19LA1-046Final
+*   SEA0-19GB1-017Final
+*   CAR1-023SF0-13Final
+*   NYG0-13DAL1-019Final
 
 *   News
 *   Scores
 *   Schedule
 *   Standings
-*   KICKOFF
 *   Video
 *   Fantasy
 *   Tickets
@@ -31,27 +30,26 @@
 *   NFL Network
 *   Photos
 
-*   NYJ0-0BUF0-0September 10, 2017 1:00:00 PM EDT ET
-*   ATL0-0CHI0-0September 10, 2017 1:00:00 PM EDT ET
-*   BAL0-0CIN0-0September 10, 2017 1:00:00 PM EDT ET
-*   PIT0-0CLE0-0September 10, 2017 1:00:00 PM EDT ET
-*   ARI0-0DET0-0September 10, 2017 1:00:00 PM EDT ET
-*   JAX0-0HOU0-0September 10, 2017 1:00:00 PM EDT ET
-*   OAK0-0TEN0-0September 10, 2017 1:00:00 PM EDT ET
-*   PHI0-0WAS0-0September 10, 2017 1:00:00 PM EDT ET
-*   IND0-0LA0-0September 10, 2017 4:05:00 PM EDT ET
-*   SEA0-0GB0-0September 10, 2017 4:25:00 PM EDT ET
-*   CAR0-0SF0-0September 10, 2017 4:25:00 PM EDT ET
-*   NYG0-0DAL0-0September 10, 2017 8:30:00 PM EDT ET
 *   NO0-0MIN0-0September 11, 2017 7:10:00 PM EDT ET
 *   LAC0-0DEN0-0September 11, 2017 10:20:00 PM EDT ET
 *   KC42NE27Final
+*   NYJ12BUF21Final
+*   ATL23CHI17Final
+*   BAL20CIN0Final
+*   PIT21CLE18Final
+*   ARI23DET35Final
+*   JAX29HOU7Final
+*   OAK26TEN16Final
+*   PHI30WAS17Final
+*   IND9LA46Final
+*   SEA9GB17Final
+*   CAR23SF3Final
+*   NYG3DAL19Final
 
 *   News
 *   Scores
 *   Schedule
 *   Standings
-*   KICKOFF
 *   Video
 *   Fantasy
 
