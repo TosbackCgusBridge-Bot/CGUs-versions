@@ -6,7 +6,7 @@ Menu
 
 *   Hotel Deals
 *   Packages &. Flights
-*   Groups
+*   Group Bookings
 *   Gift Cards
 *   Help
 *   Website feedback
