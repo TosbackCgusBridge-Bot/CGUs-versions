@@ -17,7 +17,7 @@
 *   Profile
 *   Sign Out
 
-Search Location CareerBuilder: Find the right job. Right now. Search Location Recent Searches No Recent Searches Add your resume and let your next job find you. Add Your Resume Employers are using these keywords to search for candidates: Accounting Java (Programming Language) Sales Sql (Programming Language) Linux Finance Microsoft Excel Customer Service Registered Nurse Psychiatric Mental Health Nurse Practitioner Quick Links Resumes Cover Letters Saved &. Applied Jobs Saved Searches Profile Job Recommendations
+Search Location CareerBuilder: Find the right job. Right now. Search Location Recent Searches No Recent Searches Add your resume and let your next job find you. Add Your Resume Employers are using these keywords to search for candidates: Accounting Java (Programming Language) Sales Sql (Programming Language) Linux Finance Customer Service Microsoft Excel Psychiatric Mental Health Nurse Practitioner Registered Nurse Quick Links Resumes Cover Letters Saved &. Applied Jobs Saved Searches Profile Job Recommendations
 
 No job recommendations yet, but opportunity is out there!
 
