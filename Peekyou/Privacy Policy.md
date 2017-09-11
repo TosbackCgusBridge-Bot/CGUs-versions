@@ -324,53 +324,7 @@ Foursquare 2% 
     
 *   Show Less ...
 
-Music 2% 
-
-*   Pandora
-    
-    Pandora Privacy Policy. Effective as of October 18, 2016. Pandora operates a personalized Internet radio service and related platform features available through ...
-    
-*   Pandora Services Terms of Use
-    
-    Pandora's privacy policy explains the data we collect, use, store, and process while you use and access our Services. By using our Services, you have read, ...
-    
-*   Pandora | Change your Privacy Settings
-    
-    For our current Privacy Policy, click here. To learn how to manage or change your Privacy Settings please choose the device you are using below: Computer
-    
-*   Pandora | Information about Privacy on Pandora
-    
-    Where can I view Pandora's privacy policy? Why does Pandora need my Postal / Zip Code, Gender, and Birth Year? I entered my birthdate, but can't register for ...
-    
-*   Show More ...
-
-*   Pandora
-    
-    Oct 18, 2016 ... The Pandora Terms of Use and the Pandora Privacy Policy (collectively, the " Pandora Agreement"), which you agreed to when you registered ...
-    
-*   Pandora
-    
-    Privacy Policy >>. Audience Network by Facebook (formerly LiveRail Inc.) Ad Network, Learn More. Facebook's Audience Network helps publishers to monetise ...
-    
-*   Pandora | Create an Account
-    
-    Review the Terms Of Use and Privacy policy. Check or uncheck to remain signed in. Click Sign Up. You can then start creating stations by entering an artist or ...
-    
-*   Pandora | How to use our Redesigned Website
-    
-    Check the box to agree to the Terms Of Use and Privacy policy. Click the Register button. Back To Top. Create a Station. To create a station on the Pandora ...
-    
-*   Pandora | How to Use the Classic Site
-    
-    Check the box to agree to the Terms Of Use and Privacy policy 3. Click the Register button. Back To Top Create a Station To create a station on the Pandora  ...
-    
-*   IKEA Back to College Sweepstakes
-    
-    Aug 31, 2011 ... ... LLC's Privacy Policy http://www.eprize.com/privacy-policy and Sponsor's Privacy Policy http://www.ikea.com/us/en/privacy\_policy\_new.html.
-    
-*   Show Less ...
-
-Photo Albums 2% 
+Music 11%  Photo Albums 2% 
 
 *   Flickr
     
