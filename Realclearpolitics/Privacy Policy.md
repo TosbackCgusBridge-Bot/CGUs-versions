@@ -262,8 +262,8 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Democrats Greet Clinton Book Tour With Mixed Emotions
 *   Trump-Dems Deal Leaves Republicans Wary of More to Come
+*   Democrats Greet Clinton Book Tour With Mixed Emotions
 *   Trump: We Should Consider Getting Rid of Debt Ceiling Altogether
 *   Trump to Congress: Help Dreamers, Secure Borders
 *   In North Dakota, Trump Gives Nod to Democrat Heitkamp
@@ -296,11 +296,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   'OpenTheBooks' Founder Adam Andrzejewski: American Government Needs A Transparency Revolution
+*   McCain on DACA: "We Need It To Go Through Congress... We Can Do It"
 *   Tucker Carlson Interviews Dave Rubin About "Ominous" Google De-Monetizing YouTube Videos
 *   Maxine Waters Worried About Domestic Terror: "You See How Much They Want To Kill Me"
 *   GOP Rep. Duffy: Trump "Empowered Democrats," Schumer "Doesn't Want to Make America Great Again"
-*   Fired Google Engineer James Damore: Progressives Can't See Their Own Echo Chamber
-*   Bernie Sanders: No One Believes I Stole Any Of Hillary Clinton's Ideas, Mine Are "Sweeping America"
 
 *   Politics
 *   Policy
