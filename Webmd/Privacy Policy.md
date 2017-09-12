@@ -1,5 +1,4 @@
-Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking Subscribe, I agree to the WebMD Terms &. Conditions &. Privacy Policy  
-and understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
+Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -441,7 +440,7 @@ WebMD Policy Last updated on December 30, 2016 © 2016 WebMD, LLC. All rights re
 
 Some of these might surprise you.
 
-Depressed, Guilty Feelings After Eating?
+Have you tried Walmart’s new online Grocery Pickup? It’s fast, fresh &. free! Save time and money on groceries. Order online and let Walmart’s experts pick out the freshest items at Everyday Low Prices. Pickup is free! Ad By **Walmart** Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
