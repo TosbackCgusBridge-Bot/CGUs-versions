@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Ross Barkan_: Trump Cut a Deal With the Dems. Is a New Era Upon Us?
+*   _James Antle_: Obama: The Former President Who Won't Go Away
     
-*   _Fred Barnes_: Trump, Tax Cuts, and the Big 4
+*   _Jeffrey Goldberg_: Can America Recover From the Trump Administration?
     
-*   _Michael Tomasky_: Swap DACA for Wall Funding? No Way!
+*   _Gramm &. Solon_: Finding America's Lost 3% Growth
     
-*   _Robert Heiler_: Deconstructing the DACA Debate
+*   _Chris Cillizza_: No One Is Ousting Paul Ryan Any Time Soon
     
-*   _Maureen Callahan_: Cluelessness, Thy Name Is Hillary Clinton
+*   _Charlie Rose_: Steve Bannon Declares War on Republican Establishment
     
-*   _T.A. Frank_: Is Donald Trump as Sane as Kim Jong-un?
+*   _James Gagliano_: Time for Special Prosecutor in Clinton Email Probe
     
-*   _A.B. Stoddard_: Storms &. Crises Trigger a Breakout of Bipartisanship
+*   _Paul Krugman_: Conspiracies, Corruption and Climate
     
-*   _Kris Kobach_: Out-of-State Voters May Have Swung NH's 2016 Senate Race
+*   _Bjorn Lomborg_: The Climate-Change Distraction
     
-*   _Christopher Ingraham_: Kris Kobach Can't Be Serious About His NH Claim
+*   _Rafael Mangual_: Sub-Chicago and America's Real Crime Rate
     
-*   _Megan McArdle_: SPLC Gets Creative to Label 'Hate Groups'
+*   _Mark Obbie_: Sessions' Recycled Crime-Fighting Strategy Is Doomed to Fail
     
-*   _Henry Grabar_: The Airport Is America at Its Worst
+*   _Marc Sternberg_: New York's Bad Teachers, Back on the Job
     
-*   _Paul Begala_: Why Trump Caved to Pelosi and Schumer
+*   _Robin Wright_: Sixteen Years After 9/11, How Does Terrorism End?
     
-*   _Charles Hurt_: President Trump Sidesteps Republicans' Roadblock
+*   _Pascal Bruckner_: There's No Such Thing as Islamophobia
     
-*   _James Arkin_: Trump-Dems Deal Leaves GOP Wary of More to Come
+*   _Albert Hunt_: Don't Expect Trump and Congress to Do Anything
     
-*   _KC Johnson &. Stuart Taylor Jr._: DeVos Pledges to Restore Due Process
+*   _Michael Goodwin_: Is This a Turning Point in the Trump Presidency?
     
-*   _David Futrelle_: Title IX Rollback Is a Win for Men's-Rights Groups
+*   _Jedediah Purdy_: Is America Still a 'Nation of Ideas'?
     
-*   _Alfredo Ortiz_: Tax Cut Would Bring Long-Awaited Hope and Change
+*   _Brian Joondeph_: Hurricanes, Climate Models, and Wild Guesses
     
-*   _Paul Krugman_: Dreamers, Liars and Bad Economics
+*   _Emily Atkin_: This Weather Is Not Normal. And It Will Only Get Worse.
     
-*   _Spencer Morrison_: Ending DACA Is a Win for American Workers
+*   _Karol Markowicz_: DeVos Is Right to Roll Back Insane 'Anti-Rape' Rules
     
-*   _David Ignatius_: While Trump Takes the Shots, Tillerson Runs the Offense
+*   _Lucia Graves_: Does DeVos Care More About the Accused Than Victims?
     
-*   _Caitlin Huey-Burns_: Democrats Greet Clinton Book Tour With Mixed Emotions
+*   _Emily Yoffe_: The Bad Science Behind Campus Response to Sexual Assault
     
-*   _Kimberly Strassel_: Comey's Secret Power
+*   _Noah Rothman_: Trump Doesn't Know What He's Doing
     
-*   _Maya Kosoff_: The Darker Truth About Facebook and Russia
+*   _Joel Pollak_: The Week Donald Trump Restored the Republic
     
-*   _George Neumayr_: Dianne Feinstein and the Anti-Catholic Bigots
+*   _Bill Scher_: Nancy Pelosi Is Worth the Trouble for Democrats
     
 
 *   Previous
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Alabama Senate Run-Off Election - Moore vs. StrangeEmerson
+    *   Moore40
+    *   Strange26Moore +14
 *   President Trump Job ApprovalGallup
     *   Approve38
-    *   Disapprove56Disapprove +18
+    *   Disapprove57Disapprove +19
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove53Disapprove +7
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve40
-    *   Disapprove57Disapprove +17
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve42
-    *   Disapprove54Disapprove +12
+    *   Approve44
+    *   Disapprove55Disapprove +11
+*   Direction of CountryRasmussen Reports
+    *   Right Direction34
+    *   Wrong Track59Wrong Track +25
 
 More Latest Polls In The News
 
+*   CNN's Acosta vs. WH: Does The Thought Of Climate Change Occur To Trump After Category 4 Hurricanes?
+*   Clinton in CBS 'Sunday Morning' Interview: "If The Election Were On Oct. 27, I Would Be Your President"
+*   'Last Week Tonight' Host John Oliver On Trump's Pardon Of Joe Arpaio: "A Slap In The Face"
 *   'OpenTheBooks' Founder Adam Andrzejewski: American Government Needs A Transparency Revolution
-*   McCain on DACA: "We Need It To Go Through Congress... We Can Do It"
 *   Tucker Carlson Interviews Dave Rubin About "Ominous" Google De-Monetizing YouTube Videos
-*   Maxine Waters Worried About Domestic Terror: "You See How Much They Want To Kill Me"
-*   GOP Rep. Duffy: Trump "Empowered Democrats," Schumer "Doesn't Want to Make America Great Again"
 
 *   Politics
 *   Policy
