@@ -46,7 +46,7 @@ Please follow these instructions to install Firefox.
 *   **Download Firefox**
 *   **Download Firefox**
 
-Firefox Privacy Close
+Firefox Privacy Notice Close
 
 *   Firefox
     
@@ -102,7 +102,7 @@ Firefox Privacy Close
 
 Websites, Communications &. Cookies Privacy Notice
 
-April 11, 2017
+September 6, 2017
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our Mozilla Privacy Policy describes how we handle that information.
 
@@ -132,7 +132,7 @@ We may use cookies, clear GIFs, third party web analytics, device information, a
     *   Cookies are used to remember your Firefox language preference and Firefox add-ons. They also assist with user sign-in and authentication so you can bypass entering your passwords on certain Mozilla websites.
     *   IP addresses are used to customize communications by language and country.
     *   Device information such as country, language, operator and OEM, may be used to customize your experience on Firefox Marketplace and Webmaker.
-*   **Metrics**: We may also use cookies, device information and IP addresses, along with clear GIFs, cookies and third party services help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
+*   **Metrics**: We may also use cookies, device information and IP addresses, along with clear GIFs, cookies and third party services to help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
     
     *   Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites. This helps us to improve site content.
     *   Optimizely and ShareProgress, which place a cookie on your device, to help us test variations of web content. This helps us offer better web experiences to users.
@@ -141,13 +141,13 @@ We may use cookies, clear GIFs, third party web analytics, device information, a
     *   HTTP Referral Data, which may be included with Firefox’s installer, to understand the website domain or advertising campaign that referred you to our download page. This information helps us understand the effectiveness of our advertising campaigns and improve them.
     *   Other metrics tools from time to time, on an experimental basis. For example, we may do this to help evaluate a new metrics tool, or test existing metrics collection.
 
-You can control individual cookie preferences, indicate your cookie preferences to others, select text only emails, and opt-out of web analytics and optimization tools. Learn More
+You can control individual cookie preferences, indicate your cookie preferences to others, and opt-out of web analytics and optimization tools. Learn More
 
 *   **Cookie History**: You can accept or decline individual cookies in your Firefox preferences in the Tools/Options/Privacy history section. Note that certain features of our products and services may not function properly without the aid of cookies.
     
 *   **Do Not Track**: Mozilla does not track users across third party websites to provide targeted advertising. If you have configured your browser to send a “Do Not Track” signal when accessing our websites, Mozilla will not utilize any of the tools described in the Metrics section.
     
-*   **Email**: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your Mozilla email preferences. You can disable the functionality of clear GIFs by viewing emails from us in “text only” format.
+*   **Email**: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your Mozilla email preferences.
     
 *   **Analytics &. Optimization**: Follow the instructions below to prevent data collection about your visits to Mozilla websites:
     
@@ -184,7 +184,7 @@ Firefox
     *   Facebook (Firefox)
     *   YouTube (firefoxchannel)
 
-*   Privacy
+*   Website Privacy Notice
 *   Cookies
 *   Legal
 
