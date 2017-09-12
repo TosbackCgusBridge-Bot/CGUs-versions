@@ -33,7 +33,6 @@ Close submenu ( Features ) Features
 *   $15 Special
 *   Icon Tees
 *   Trending
-*   Limited Edition
 *   Uniform
 *   Basic Essentials
 *   Plus Size
@@ -91,7 +90,6 @@ Close submenu ( Features ) Features
 *   Tapout
 *   Trending
 *   Icon Tees
-*   Limited Edition
 *   Uniform
 *   Online Only
 *   Extended Sizes
@@ -264,7 +262,6 @@ Menu Find a Store Aeropostale
         *   $15 Special
         *   Icon Tees
         *   Trending
-        *   Limited Edition
         *   Uniform
         *   Basic Essentials
         *   Plus Size
@@ -312,7 +309,6 @@ Menu Find a Store Aeropostale
         *   Tapout
         *   Trending
         *   Icon Tees
-        *   Limited Edition
         *   Uniform
         *   Online Only
         *   Extended Sizes
@@ -494,6 +490,7 @@ Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 Stores
 
 *   Store Locator
+*   eGift Cards
 
 About Us
 
