@@ -279,5 +279,3 @@ About Us
   
 
 Terms of Service • Privacy Policy • Editorial Independence
-
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
