@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Top 10 snaps in August: Chromium, Dino, Gogs and more ›
+*   LXD: Weekly status #14 ›
 *   Ubuntu Desktop Weekly Update: September 8, 2017 ›
 *   Kubernetes for the Enterprise: 1, 2, 3, Go! ›
 *   Security Team Weekly Summary: September 7, 2017 ›
-*   Week 35 of 2017 in snapcraft ›
-*   Canonical Distribution of Kubernetes: Development Summary (9/7/2017) ›
