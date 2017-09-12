@@ -131,7 +131,7 @@ View Inspiration comes in all shapes and sizes. on Instagram
 
 Moving subjects never looked so graceful than with #Xperia XZ1 Compact.
 
-4 days ago
+5 days ago
 
 View Tweet
 
@@ -203,7 +203,7 @@ Before It’s Released?
 
 Get ready for Round 2. The Saint of Killers is back on the hunt in the latest episode of #Preacher.
 
-4 days ago
+5 days ago
 
 View Tweet
 
@@ -289,7 +289,7 @@ View Illuminating sounds. on Instagram
 
 Go behind the scenes of Paris Fashion Week with our latest gallery featuring work from Sony Artisan @ninorakichevich, now at #SonySquareNYC.
 
-5 days ago
+7 days ago
 
 View Tweet
 
