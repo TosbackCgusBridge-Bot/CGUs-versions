@@ -21,15 +21,12 @@ Menu PayPal
 
 *   Sign Up for Free
 
-Log In Sign Up Hurricane Harvey Relief
+Log In Sign Up Need your money fast?  
+PayPal Instant Transfer
 
-Support a helping charity.
+Move money to your bank account using an eligible debit card linked to your PayPal account ($0.25 per transfer). Transfers typically occur within 30 minutes.
 
-Donate Now
-
-Sign Up for Free
-
-Looking for business solutions?
+Sign Up Now Support Hurricane Irma Relief Efforts. View Charities &. Donate Looking for business solutions?
 
 PayPal makes it easy to get paid securely anywhere you do business: online, on mobile, in person or via an invoice.
 
@@ -96,4 +93,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=c9a23b3e89c2e&rsta=en\_US&pgtf=&s=ci&ccpg=us&csci=113819d242fc4a8aa325a503862bf7f7&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=131b0f8771b66&rsta=en\_US&pgtf=&s=ci&ccpg=us&csci=1c4c2396c2e3420789c847c31931dd5e&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
