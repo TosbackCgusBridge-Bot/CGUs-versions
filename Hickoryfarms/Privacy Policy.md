@@ -1,7 +1,7 @@
 *   Gifts
     
     View All Categories Shop by Category*   Gift Boxes
-    *   Gift Baskets and Towers
+    *   Gift Baskets
     *   Personalized Gifts
     *   Gifts with Wine
     *   Military Gifts
@@ -74,7 +74,7 @@
 *   Gifts
     
     View All Categories Shop by Category*   Gift Boxes
-    *   Gift Baskets and Towers
+    *   Gift Baskets
     *   Personalized Gifts
     *   Gifts with Wine
     *   Military Gifts
