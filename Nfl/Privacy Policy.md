@@ -1,5 +1,3 @@
-*   NO0-0MIN0-0September 11, 2017 7:10:00 PM EDT ET
-*   LAC0-0DEN0-0September 11, 2017 10:20:00 PM EDT ET
 *   KC1-042NE0-127Final
 *   NYJ0-112BUF1-021Final
 *   ATL1-023CHI0-117Final
@@ -13,6 +11,8 @@
 *   SEA0-19GB1-017Final
 *   CAR1-023SF0-13Final
 *   NYG0-13DAL1-019Final
+*   NO0-119MIN1-029Final
+*   LAC0-121DEN1-024Final
 
 *   News
 *   Scores
@@ -30,8 +30,6 @@
 *   NFL Network
 *   Photos
 
-*   NO0-0MIN0-0September 11, 2017 7:10:00 PM EDT ET
-*   LAC0-0DEN0-0September 11, 2017 10:20:00 PM EDT ET
 *   KC42NE27Final
 *   NYJ12BUF21Final
 *   ATL23CHI17Final
@@ -45,6 +43,8 @@
 *   SEA9GB17Final
 *   CAR23SF3Final
 *   NYG3DAL19Final
+*   NO19MIN29Final
+*   LAC21DEN24Final
 
 *   News
 *   Scores
