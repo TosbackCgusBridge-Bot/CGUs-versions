@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server Development Summary – 12 Sep 2017 ›
+*   Wavebox snap: A central hub for Gmail, Outlook, Trello, Slack and more ›
 *   Top 10 snaps in August: Chromium, Dino, Gogs and more ›
 *   LXD: Weekly status #14 ›
 *   Ubuntu Desktop Weekly Update: September 8, 2017 ›
-*   Kubernetes for the Enterprise: 1, 2, 3, Go! ›
-*   Security Team Weekly Summary: September 7, 2017 ›
