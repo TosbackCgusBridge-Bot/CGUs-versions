@@ -63,12 +63,13 @@ Sport
 *   Stay
 *   Videos
 
-*   Fashion
-*   Design
-*   Architecture
 *   Arts
-*   Autos
+*   Design
+*   Fashion
+*   Architecture
 *   Luxury
+*   Autos
+*   Video
 
 Health
 
@@ -149,7 +150,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 
 FacebookTwitterShare
 
-London, United Kingdom12°
+London, United Kingdom15°
 
 1.  Home
 
@@ -205,12 +206,13 @@ London, United Kingdom12°
     4.  Stay
     5.  Videos
 
-1.  1.  Fashion
+1.  1.  Arts
     2.  Design
-    3.  Architecture
-    4.  Arts
-    5.  Autos
-    6.  Luxury
+    3.  Fashion
+    4.  Architecture
+    5.  Luxury
+    6.  Autos
+    7.  Video
 
 1.  Health
     1.  Diet + Fitness
