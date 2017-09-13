@@ -41,6 +41,7 @@ Close submenu ( Tops ) Tops
 
 *   View All
 *   Tees
+*   Long Sleeve
 *   Camis + Tanks
 *   Fashion Tops
 *   Polos
@@ -48,7 +49,6 @@ Close submenu ( Tops ) Tops
 *   Hoodies + Sweatshirts
 *   Sweaters
 *   Bodysuits
-*   Active Tops
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -98,6 +98,7 @@ Close submenu ( Tops ) Tops
 
 *   View All
 *   Tees
+*   Long Sleeve
 *   Shirts
 *   Tanks
 *   Polos
@@ -123,11 +124,9 @@ Close submenu ( Girls Jeans ) Girls Jeans
 
 *   View All
 *   Low Rise Ankle Jegging
-*   Cropped Skinny Kick
 *   Ankle Straight
 *   High Waisted Ankle Jegging
 *   High Waisted Jegging
-*   High Waisted Jegging Crop
 *   Low Rise Jegging
 *   Girlfriend
 *   Skinny
@@ -270,6 +269,7 @@ Menu Find a Store Aeropostale
     *   Tops
         *   View All
         *   Tees
+        *   Long Sleeve
         *   Camis + Tanks
         *   Fashion Tops
         *   Polos
@@ -277,7 +277,6 @@ Menu Find a Store Aeropostale
         *   Hoodies + Sweatshirts
         *   Sweaters
         *   Bodysuits
-        *   Active Tops
     
     *   Bottoms
         *   View All
@@ -317,6 +316,7 @@ Menu Find a Store Aeropostale
     *   Tops
         *   View All
         *   Tees
+        *   Long Sleeve
         *   Shirts
         *   Tanks
         *   Polos
@@ -337,11 +337,9 @@ Menu Find a Store Aeropostale
     *   Girls Jeans
         *   View All
         *   Low Rise Ankle Jegging
-        *   Cropped Skinny Kick
         *   Ankle Straight
         *   High Waisted Ankle Jegging
         *   High Waisted Jegging
-        *   High Waisted Jegging Crop
         *   Low Rise Jegging
         *   Girlfriend
         *   Skinny
@@ -501,6 +499,7 @@ About Us
 *   Terms of Use
 *   Privacy Policy
 *   CA Transparency Act
+*   Supply Chain
 
 Stay Connected
 
