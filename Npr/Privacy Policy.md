@@ -535,6 +535,6 @@ Become an NPR sponsor
 *   Terms of Use
 *   Privacy
 *   Sponsorship Choices
-*   Text-Only
+*   Text Only
 
 <iframe style="display:none;padding:0;margin:0;" width="0" height="0" src="//20655831p.rfihub.com/ca.html?rb=3035&ca=20501671&ra=gtmcb"></iframe><iframe><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1621557368158968&ev=PageView&noscript=1" /></iframe>
