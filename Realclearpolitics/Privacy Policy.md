@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _James Antle_: Obama: The Former President Who Won't Go Away
+*   _Julia Azari_: Why Republicans Can't Govern
     
-*   _Jeffrey Goldberg_: Can America Recover From the Trump Administration?
+*   _Romina Boccia_: Trump's Budget Deal Could Move Tax Reform
     
-*   _Gramm &. Solon_: Finding America's Lost 3% Growth
+*   _Walter Shapiro_: The Two-Party System on a Sick Bed
     
-*   _Chris Cillizza_: No One Is Ousting Paul Ryan Any Time Soon
+*   _Carl Hulse_: McConnell Says Dem Glee on Debt Limit Deal Was Premature
     
-*   _Charlie Rose_: Steve Bannon Declares War on Republican Establishment
+*   _Rebecca Berg_: Next Steps on DACA Hold Peril for Republicans
     
-*   _James Gagliano_: Time for Special Prosecutor in Clinton Email Probe
+*   _Justin Haskins_: Shame on the FBI for Dropping Clinton Email Scandal
     
-*   _Paul Krugman_: Conspiracies, Corruption and Climate
+*   _Madeleine Pauker_: Betsy DeVos Has It Backwards
     
-*   _Bjorn Lomborg_: The Climate-Change Distraction
+*   _Jennifer Braceras_: Straight Talk for College Women
     
-*   _Rafael Mangual_: Sub-Chicago and America's Real Crime Rate
+*   _Damon Linker_: The Dangers of the Great American Unchurching
     
-*   _Mark Obbie_: Sessions' Recycled Crime-Fighting Strategy Is Doomed to Fail
+*   _Mary Ham_: J.J. Watt's $30M Harvey Haul Is Everything Great About U.S.
     
-*   _Marc Sternberg_: New York's Bad Teachers, Back on the Job
+*   _Cincinnati Enquirer_: Seven Days of Heroin: This Is What an Epidemic Looks Like
     
-*   _Robin Wright_: Sixteen Years After 9/11, How Does Terrorism End?
+*   _William McGurn_: The Cruelty of Barack Obama
     
-*   _Pascal Bruckner_: There's No Such Thing as Islamophobia
+*   _Charles Blow_: Soul Survival in Trump's Hell
     
-*   _Albert Hunt_: Don't Expect Trump and Congress to Do Anything
+*   _Susan Shelley_: In Deal With Dems, Trump Shows He'll Do What It Takes
     
-*   _Michael Goodwin_: Is This a Turning Point in the Trump Presidency?
+*   _Evan Osnos_: The Risk of Nuclear War With North Korea
     
-*   _Jedediah Purdy_: Is America Still a 'Nation of Ideas'?
+*   _Zev Chafets_: Israel Has a Playbook for Dealing With North Korea
     
-*   _Brian Joondeph_: Hurricanes, Climate Models, and Wild Guesses
+*   _Carol Swain_: What It's Like to Be Smeared by the Southern Poverty Law Center
     
-*   _Emily Atkin_: This Weather Is Not Normal. And It Will Only Get Worse.
+*   _Katrina vanden Heuvel_: Republican Tax 'Reform' Is Highway Robbery
     
-*   _Karol Markowicz_: DeVos Is Right to Roll Back Insane 'Anti-Rape' Rules
+*   _Lukas &. Parker_: Support Female Entrepreneurs With Much-Needed Tax Cuts
     
-*   _Lucia Graves_: Does DeVos Care More About the Accused Than Victims?
+*   _John Crudele_: Weak Economy in 2016 Meant Clinton Never Had a Chance
     
-*   _Emily Yoffe_: The Bad Science Behind Campus Response to Sexual Assault
+*   _Philippe Reines_: What I Learned From Playing Donald Trump
     
-*   _Noah Rothman_: Trump Doesn't Know What He's Doing
+*   _Victor Davis Hanson_: Call On the Investigations--or Call Them Off?
     
-*   _Joel Pollak_: The Week Donald Trump Restored the Republic
+*   _Arkin &. Huey-Burns_: Eyes on 2018 as 3rd House Republican Says He'll Retire
     
-*   _Bill Scher_: Nancy Pelosi Is Worth the Trouble for Democrats
+*   _Erika Christakis_: U.S. Is Giving Up on Public Schools. That's a Mistake.
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   So Far, Republicans Aren't Outpacing Trump's Approval
+*   Eyes on 2018 as 3rd House Republican Says He'll Retire
+*   Huckabee Sanders: James Comey Gave False Testimony
 *   Trump-Dems Deal Leaves Republicans Wary of More to Come
 *   Democrats Greet Clinton Book Tour With Mixed Emotions
-*   Trump: We Should Consider Getting Rid of Debt Ceiling Altogether
-*   Trump to Congress: Help Dreamers, Secure Borders
-*   In North Dakota, Trump Gives Nod to Democrat Heitkamp
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve37
+    *   Disapprove58Disapprove +21
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve44
+    *   Disapprove54Disapprove +10
 *   Alabama Senate Run-Off Election - Moore vs. StrangeEmerson
     *   Moore40
     *   Strange26Moore +14
-*   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove57Disapprove +19
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove55Disapprove +11
 *   Direction of CountryRasmussen Reports
     *   Right Direction34
     *   Wrong Track59Wrong Track +25
 
 More Latest Polls In The News
 
-*   CNN's Acosta vs. WH: Does The Thought Of Climate Change Occur To Trump After Category 4 Hurricanes?
-*   Clinton in CBS 'Sunday Morning' Interview: "If The Election Were On Oct. 27, I Would Be Your President"
-*   'Last Week Tonight' Host John Oliver On Trump's Pardon Of Joe Arpaio: "A Slap In The Face"
-*   'OpenTheBooks' Founder Adam Andrzejewski: American Government Needs A Transparency Revolution
-*   Tucker Carlson Interviews Dave Rubin About "Ominous" Google De-Monetizing YouTube Videos
+*   Huckabee Sanders: "Sad" That Clinton Will Be Defined By Popping Up Book Sales With False Attacks
+*   Vanderbilt Law Professor Carol Swain: I Wear Southern Poverty Law Center's Smear As "Badge Of Honor"
+*   Hillary Clinton on Loss: "We Don't Control The Media Environment The Same Way The Right Does"
+*   USA Today's Susan Page: Clinton Wrote Book To "Settle Some Scores" With Comey &. Bernie Sanders
+*   Hayworth: Republicans Must Play The Hand Trump Dealt. "We Don't Elect Presidents Based On Aesthetics"
 
 *   Politics
 *   Policy
