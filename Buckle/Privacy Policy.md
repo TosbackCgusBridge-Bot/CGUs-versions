@@ -84,8 +84,8 @@
         
           
           
-        Give a Buckle Gift card Things are cooling down! Cozy Up with Go-To Sweaters and Timeless Cardigans.  
-        Shop Women's | Shop Men's
+        Give a Buckle Gift card Support Those Affected by Hurricane Harvey with Our Limited Edition Tees. All Proceeds Go To the American Red Cross.  
+        GET YOUR TEE
 *   Men
     *   *   Featured
         
@@ -144,8 +144,8 @@
         
           
           
-        Give a Buckle Gift card Things are cooling down! Cozy Up with Go-To Sweaters and Timeless Cardigans.  
-        Shop Women's | Shop Men's
+        Give a Buckle Gift card Support Those Affected by Hurricane Harvey with Our Limited Edition Tees. All Proceeds Go To the American Red Cross.  
+        GET YOUR TEE
 *   Kids
     *   *   Featured
         
@@ -167,8 +167,8 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Things are cooling down! Cozy Up with Go-To Sweaters and Timeless Cardigans.  
-        Shop Women's | Shop Men's
+        Give a Buckle Gift card Support Those Affected by Hurricane Harvey with Our Limited Edition Tees. All Proceeds Go To the American Red Cross.  
+        GET YOUR TEE
 *   Jeans
     *   *   Women's Jeans
         
@@ -198,8 +198,8 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Things are cooling down! Cozy Up with Go-To Sweaters and Timeless Cardigans.  
-        Shop Women's | Shop Men's
+        Give a Buckle Gift card Support Those Affected by Hurricane Harvey with Our Limited Edition Tees. All Proceeds Go To the American Red Cross.  
+        GET YOUR TEE
 *   New
     *   *   Featured New
         
@@ -240,8 +240,8 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Things are cooling down! Cozy Up with Go-To Sweaters and Timeless Cardigans.  
-        Shop Women's | Shop Men's
+        Give a Buckle Gift card Support Those Affected by Hurricane Harvey with Our Limited Edition Tees. All Proceeds Go To the American Red Cross.  
+        GET YOUR TEE
 *   Sale
     *   *   Women's Sale
         
@@ -284,8 +284,8 @@
         
           
           
-        Give a Buckle Gift card Things are cooling down! Cozy Up with Go-To Sweaters and Timeless Cardigans.  
-        Shop Women's | Shop Men's
+        Give a Buckle Gift card Support Those Affected by Hurricane Harvey with Our Limited Edition Tees. All Proceeds Go To the American Red Cross.  
+        GET YOUR TEE
 
 SearchSubmitSearchSubmit × ClosePrivacy &. Security
 
