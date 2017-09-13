@@ -23,9 +23,8 @@ Show Menu
     *   Mobile
     *   Rewards
 
-*   *   You have 1 notification 1
-        *   *   Get price and availability changes for hotels you view. We'll watch prices on your saved and recently viewed items for you. Track ChangesClose
-            *   All caught up!  
+*   *   You have 0 notifications 1
+        *   *   All caught up!  
                 No new notifications right now.
 *   Account
     *   Sign in to see exclusive Member Pricing.
