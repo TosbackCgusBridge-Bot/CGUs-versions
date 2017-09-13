@@ -2,7 +2,7 @@ Données personnelles
 
 orange.fr
 
-En tant qu�internaute, lorsque vous utilisez un des services du portail www.orange.fr (ci-après le « Portail »), vous bénéficiez, conformément à la loi Informatique et Libertés du 6 janvier 1978 modifiée, d'un droit d'accès, d'opposition et de rectification des données personnelles qui vous concernent (ci-après ses Données) et que vous êtes susceptible de communiquer dans le cadre de l'utilisation d'un de ces services.
+En tant qu’internaute, lorsque vous utilisez un des services du portail www.orange.fr (ci-après le « Portail »), vous bénéficiez, conformément à la loi Informatique et Libertés du 6 janvier 1978 modifiée, d'un droit d'accès, d'opposition et de rectification des données personnelles qui vous concernent (ci-après ses Données) et que vous êtes susceptible de communiquer dans le cadre de l'utilisation d'un de ces services.
 
   
 
@@ -10,7 +10,7 @@ Les Données communiquées par vous, le cas échéant, lors de l'utilisation d'u
 
   
 
-Afin d'am�liorer votre exp�rience sur le portail Orange.fr, Orange est susceptible de collecter des informations relatives au fonctionnement des pages web du site Orange.fr. Ces informations permettent par exemple � Orange, de d�tecter l'origine technique des pages d'erreur affich�es aux internautes pour y apporter les corrections n�cessaires. Ces informations techniques ne font l'objet d'aucune utilisation commerciale.
+Afin d'améliorer votre expérience sur le portail Orange.fr, Orange est susceptible de collecter des informations relatives au fonctionnement des pages web du site Orange.fr. Ces informations permettent par exemple à Orange, de détecter l'origine technique des pages d'erreur affichées aux internautes pour y apporter les corrections nécessaires. Ces informations techniques ne font l'objet d'aucune utilisation commerciale.
 
   
 
@@ -18,6 +18,6 @@ En outre, lorsque vous visualisez ou cliquez sur des bandeaux publicitaires lors
 
   
 
-Pour plus d'information sur nos engagements en matière de donn�es personnelles, Orange vous invite � consulter la Charte d'Orange relative � la protection des donn�es personnelles et de la vie priv�e.
+Pour plus d'information sur nos engagements en matière de données personnelles, Orange vous invite à consulter la Charte d'Orange relative à la protection des données personnelles et de la vie privée.
 
 Fermer la fenêtre
