@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 21%  21%  21%  21% 
+What is PeekScore? Public Records &. Background Checks 12%  12%  12%  12% 
 
 *   Privacy Policy - Instant Search View Now
     
@@ -119,7 +119,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 20%  Twitter 1% 
+Facebook 12%  Twitter 2% 
 
 *   Cristiano Ronaldo - Cristiano
     
@@ -165,7 +165,7 @@ Facebook 20%  Twitter 1% 
     
 *   Show Less ...
 
-Pinterest 20%  Wikipedia 1% 
+Pinterest 11%  Wikipedia 2% 
 
 *   Medana
     
@@ -184,7 +184,7 @@ Pinterest 20%  Wikipedia 1% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Instagram 1% 
+Instagram 2% 
 
 *   Privacy Policy - insta\_privacy\_policy
     
@@ -210,7 +210,7 @@ Instagram 1% 
     
 *   Show Less ...
 
-Google+ 1% 
+Google+ 2% 
 
 *   Free Privacy Policy - Google+
     
@@ -244,7 +244,7 @@ Google+ 1% 
     
 *   Show Less ...
 
-Linkedin 1% 
+Linkedin 2% 
 
 *   Privacy Policy | LinkedIn
     
@@ -290,7 +290,7 @@ Linkedin 1% 
     
 *   Show Less ...
 
-Foursquare 1% 
+Foursquare 2% 
 
 *   privacy policy
     
@@ -324,7 +324,7 @@ Foursquare 1% 
     
 *   Show Less ...
 
-Music 20%  Photo Albums 1% 
+Music 11%  Photo Albums 2% 
 
 *   Flickr
     
@@ -335,7 +335,7 @@ Music 20%  Photo Albums 1% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 1% 
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -359,7 +359,7 @@ Myspace 1% 
     
 *   Show Less ...
 
-Documents 1% 
+Documents 2% 
 
 *   Privacy Policy - Google
     
@@ -405,7 +405,7 @@ Documents 1% 
     
 *   Show Less ...
 
-Web Search 1% 
+Web Search 2% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -451,7 +451,7 @@ Web Search 1% 
     
 *   Show Less ...
 
-Images 1% 
+Images 2% 
 
 20
 
