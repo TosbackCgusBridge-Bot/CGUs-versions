@@ -439,11 +439,11 @@ Menu Find a Store Aeropostale
 *   Lounge Starting at $10.00 Shop Lounge
 *   Leggings Starting at $17.80 Shop Leggings
 *   Polos Starting at $8.00 Shop Girls Shop Guys
-*   Pants Starting at $12.00 Shop Girls Shop Guys
+*   Pants Starting at $15.00 Shop Girls Shop Guys
 *   Lounge Starting at $10.00 Shop Lounge
 *   Leggings Starting at $17.80 Shop Leggings
 *   Polos Starting at $8.00 Shop Girls Shop Guys
-*   Pants Starting at $12.00 Shop Girls Shop Guys
+*   Pants Starting at $15.00 Shop Girls Shop Guys
 
 *   1
 *   2
@@ -457,7 +457,7 @@ OUR FEATURED STYLES
 *   Hooded Puffer Vest $59.50 $30.00
 *   Long Sleeve Lettuce-Edge Layering Tee $32.50 $13.00
 *   Seriously Stretchy High-Waisted Ankle Jegging $49.50
-*   Hooded Active Parka $89.50 $53.70
+*   Hooded Active Parka $89.50 $44.75
 *   Long Sleeve Twill Plaid Woven Shirt $44.50 $14.00
 *   Skinny Indigo Green Dark Wash Reflex Jean $49.50
 *   LLD Mesh Inset Full-Zip Top $49.50 $28.00
@@ -505,4 +505,4 @@ Stay Connected
 
 *   Live ChatCall Us
 
-© 2017 Aeropostale. All Rights Reserved.
+© 2017 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
