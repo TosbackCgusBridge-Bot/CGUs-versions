@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Assessing Irma’s destruction from the air: First aerial images now available AROUND NOAA // Remnants of #Irma brings rain to parts of eastern U.S. View and download NOAA satellite imagery of hurricanes, tropical storms 'Turn around, don't drown': What to do before, during and after a flood 10 greatest sightings, so far, from NOAA’s exploration of the deepwater Pacific
+Enter Search Terms Assessing Irma’s destruction from the air: First aerial images now available Additional photos will be posted as more flights are conducted AROUND NOAA // View and download NOAA satellite imagery of hurricanes, tropical storms 'Turn around, don't drown': What to do before, during and after a flood 10 greatest sightings, so far, from NOAA’s exploration of the deepwater Pacific
 
 *   About our agency
 *   News and features
