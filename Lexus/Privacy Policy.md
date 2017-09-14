@@ -69,7 +69,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **NX**
 
-*   Starting at $35,2851\*
+*   Starting at $35,9851\*
 *   235-hp3\* 2.0L turbo
 
 *   Build
@@ -77,7 +77,7 @@ COMPARE **NX**
 
 **NX HYBRID**
 
-*   Starting at $39,7201\*
+*   Starting at $38,3351\*
 *   31-MPG combined rating4\*
 
 *   Build
@@ -161,7 +161,7 @@ COMPARE **CT HYBRID**
 
 **NX HYBRID**
 
-*   Starting at $39,7201\*
+*   Starting at $38,3351\*
 *   31-MPG combined rating4\*
 
 *   Build
