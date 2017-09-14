@@ -297,7 +297,7 @@ At Sony Square NYC
 
 Thanks to all of you that came to yesterday afternoon's street photography photo walk with @ninorakichevich at #SonySquareNYC.
 
-4 hours ago
+1 day ago
 
 View Tweet
 
