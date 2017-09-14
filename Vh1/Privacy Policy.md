@@ -36,13 +36,13 @@ VH1 Menu VH1
 *   Watch Live TV
 *   facebook twitter tumblr
 
-HIP HOP HONORS AIRS LIVE IN
+HIP HOP HONORS AIRS IN
 
 *   0
 *   9
 
-*   5
 *   4
+*   3
 
 d
 
@@ -57,16 +57,16 @@ h
 *   1
 *   0
 
-*   7
 *   6
+*   5
 
 m
 
 *   3
 *   2
 
-*   1
-*   0
+*   6
+*   5
 
 s Privacy Policy And Your California Privacy Rights**Go to Terms of Use** **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**  
 **Last Modified:** June 22, 2017  
