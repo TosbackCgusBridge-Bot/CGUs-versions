@@ -1,6 +1,3 @@
-*   Shop
-*   Deals
-
 *   Log In
 *   Sign Up
 *   Help
