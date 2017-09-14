@@ -182,8 +182,8 @@ GSK Global Website www.gsk.com
     *   Contact us
     *   Our US Locations
     *   Patients/consumers
-    *   Media
     *   Healthcare professionals
+    *   Media
     *   Investors
     *   Shareholders
     *   Employees/retirees
