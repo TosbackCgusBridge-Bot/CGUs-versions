@@ -1,4 +1,4 @@
-Skip to main content Cobranded header here Welcome to Orbitz.com **Continue to the U.S. site at Orbitz.com** close Booking travel on behalf of Done Join Rewards //a.travel-assets.com/globalcontrols-service/content/cf48f49a44460370227060b6f05d30b473e17509 Search anything Search
+Skip to main content Cobranded header here Welcome to Orbitz.com **Continue to the U.S. site at Orbitz.com** close Booking travel on behalf of Done Join Rewards //a.travel-assets.com/globalcontrols-service/content/131e97d5b05783c6d5d494aaca3fc354a0691a93 Search anything Search
 
 Show Menu
 
@@ -23,8 +23,9 @@ Show Menu
     *   Mobile
     *   Rewards
 
-*   *   You have 0 notifications 1
-        *   *   All caught up!  
+*   *   You have 1 notification 1
+        *   *   Get price and availability changes for hotels you view. We'll watch prices on your saved and recently viewed items for you. Track ChangesClose
+            *   All caught up!  
                 No new notifications right now.
 *   Account
     *   Sign in to see exclusive Member Pricing.
@@ -49,7 +50,7 @@ Show Menu
     *   Feedback
 *   Español
 
-//a.travel-assets.com/globalcontrols-service/content/cf48f49a44460370227060b6f05d30b473e17509 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/131e97d5b05783c6d5d494aaca3fc354a0691a93 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Hotels
@@ -230,6 +231,15 @@ If you have questions about either this Privacy Policy (or your travel planning 
 
 This Privacy Policy is effective as of December 4, 2015.
 
+Earn Orbucks on flights, hotels &. more
+
+*   Earn Orbucks
+*   Get Mobile-Exclusive Deals
+*   Book Flights &. Hotels Anywhere
+*   Track Flights &. Itineraries
+
+Send a download link to your mobile device Send text Oops! Is it possible you've already downloaded our app? Sorry, we are currently having problems connecting to our server. You can still download the app by clicking on the app-store buttons in our app page. Thank you! We are having trouble processing your phone number. Try using this format: XXX-XXX-XXXX. Thank you! It looks like you just tried to enter a non-United States phone number. Unfortunately, at this time we are only supporting United States numbers. Please enter your number in the following format: XXX-XXX-XXXX. Thank you! Thank you! A text with the download link has been sent to your mobile device Orbitz App Now Available On: By providing your number, you agree to receive a one-time automated text message with a link to get the app. Our app offers promotions and booking services. No purchase necessary. Standard text message rates may apply.
+
 Explore More Orbitz
 
 *   About Orbitz
@@ -265,11 +275,4 @@ Other Links
 *   Mobile
 *   Vacations by Interest
 
-© 2017 Orbitz, LLC. All rights reserved. Orbitz, Orbitz.com, and the Orbitz logo are either registered trademarks or trademarks of Orbitz, LLC in the U.S. and/or other countries. Other logos or product and company names mentioned herein may be the property of their respective owners. Earn Orbucks on flights, hotels &. more
-
-*   Earn Orbucks
-*   Get Mobile-Exclusive Deals
-*   Book Flights &. Hotels Anywhere
-*   Track Flights &. Itineraries
-
-Send a download link to your mobile device Send text Oops! Is it possible you've already downloaded our app? Sorry, we are currently having problems connecting to our server. You can still download the app by clicking on the app-store buttons in our app page. Thank you! We are having trouble processing your phone number. Try using this format: XXX-XXX-XXXX. Thank you! It looks like you just tried to enter a non-United States phone number. Unfortunately, at this time we are only supporting United States numbers. Please enter your number in the following format: XXX-XXX-XXXX. Thank you! Thank you! A text with the download link has been sent to your mobile device Orbitz App Now Available On: By providing your number, you agree to receive a one-time automated text message with a link to get the app. Our app offers promotions and booking services. No purchase necessary. Standard text message rates may apply.
+© 2017 Orbitz, LLC. All rights reserved. Orbitz, Orbitz.com, and the Orbitz logo are either registered trademarks or trademarks of Orbitz, LLC in the U.S. and/or other countries. Other logos or product and company names mentioned herein may be the property of their respective owners.
