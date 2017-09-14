@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Julia Azari_: Why Republicans Can't Govern
+*   _Edward-Isaac Dovere_: Teflon Don Confounds Democrats
     
-*   _Romina Boccia_: Trump's Budget Deal Could Move Tax Reform
+*   _Roger Cohen_: From 9/11 to President Humpty Dumpty
     
-*   _Walter Shapiro_: The Two-Party System on a Sick Bed
+*   _Josh Siegel_: Pruitt Hits Obama, Moves EPA Away From Climate Change
     
-*   _Carl Hulse_: McConnell Says Dem Glee on Debt Limit Deal Was Premature
+*   _Eugene Robinson_: Harvey, Irma Are Clearly Linked to Climate Change
     
-*   _Rebecca Berg_: Next Steps on DACA Hold Peril for Republicans
+*   _Edward Luce_: The Empty Shell of America's Two-Party System
     
-*   _Justin Haskins_: Shame on the FBI for Dropping Clinton Email Scandal
+*   _Willis Krumholz_: Russia Story Says More About Deep State Than Trump
     
-*   _Madeleine Pauker_: Betsy DeVos Has It Backwards
+*   _Jim Rutenberg_: RT, Sputnik and Russia's New Theory of War
     
-*   _Jennifer Braceras_: Straight Talk for College Women
+*   _Graham Allison_: Can North Korea Drag the U.S. and China Into War?
     
-*   _Damon Linker_: The Dangers of the Great American Unchurching
+*   _Jason Riley_: Another Obama Policy Betsy DeVos Should Throw Out
     
-*   _Mary Ham_: J.J. Watt's $30M Harvey Haul Is Everything Great About U.S.
+*   _Kai Wright_: On White Supremacy and American Terrorism
     
-*   _Cincinnati Enquirer_: Seven Days of Heroin: This Is What an Epidemic Looks Like
+*   _E.J. Montini_: Does ESPN Have a Racial Double Standard?
     
-*   _William McGurn_: The Cruelty of Barack Obama
+*   _Joe McLean_: Trump Has Stabbed the GOP in the Back. Will It Pay Off?
     
-*   _Charles Blow_: Soul Survival in Trump's Hell
+*   _David Smick_: The Republican Tax Plan Better Be Audacious
     
-*   _Susan Shelley_: In Deal With Dems, Trump Shows He'll Do What It Takes
+*   _Sen. Bernie Sanders_: Why We Need Medicare for All
     
-*   _Evan Osnos_: The Risk of Nuclear War With North Korea
+*   _Bill Scher_: The Single-Payer Insanity
     
-*   _Zev Chafets_: Israel Has a Playbook for Dealing With North Korea
+*   _Michael Goodwin_: Trump's Bipartisan Politics Surprise After Obama
     
-*   _Carol Swain_: What It's Like to Be Smeared by the Southern Poverty Law Center
+*   _Jack Goldsmith_: Will Donald Trump Destroy the Presidency?
     
-*   _Katrina vanden Heuvel_: Republican Tax 'Reform' Is Highway Robbery
+*   _Timothy Carney_: On Authoritarianism, Clinton Was the Greater Threat
     
-*   _Lukas &. Parker_: Support Female Entrepreneurs With Much-Needed Tax Cuts
+*   _Mark Bauerlein_: How Bannon Turned the Table on Liberals
     
-*   _John Crudele_: Weak Economy in 2016 Meant Clinton Never Had a Chance
+*   _Jamelle Bouie_: Steve Bannon's Intellectual Reputation Is a Charade
     
-*   _Philippe Reines_: What I Learned From Playing Donald Trump
+*   _Douglas MacKinnon_: Irma and How the Left Has Politicized Even the Weather
     
-*   _Victor Davis Hanson_: Call On the Investigations--or Call Them Off?
+*   _Elizabeth Kolbert_: Will the Recovery Make Flooding More Inevitable?
     
-*   _Arkin &. Huey-Burns_: Eyes on 2018 as 3rd House Republican Says He'll Retire
+*   _Patrice Onwuka_: Betsy DeVos Stands for the Rights of Victims
     
-*   _Erika Christakis_: U.S. Is Giving Up on Public Schools. That's a Mistake.
+*   _Ben Smith_: There's Blood in the Water in Silicon Valley
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   So Far, Republicans Aren't Outpacing Trump's Approval
+*   Next Steps on DACA Hold Peril for Republicans
+*   Trump Seeks to Speed Up Hill Deliberation on Taxes
+*   Clinton: I Don't Think the Press Did Their Job During Election
+*   Democrats Split on Sanders' Medicare for All Plan
 *   Eyes on 2018 as 3rd House Republican Says He'll Retire
-*   Huckabee Sanders: James Comey Gave False Testimony
-*   Trump-Dems Deal Leaves Republicans Wary of More to Come
-*   Democrats Greet Clinton Book Tour With Mixed Emotions
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   New Jersey Governor - Guadagno vs. MurphyQuinnipiac
+    *   Murphy58
+    *   Guadagno33Murphy +25
 *   President Trump Job ApprovalGallup
     *   Approve37
-    *   Disapprove58Disapprove +21
+    *   Disapprove57Disapprove +20
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove54Disapprove +10
-*   Alabama Senate Run-Off Election - Moore vs. StrangeEmerson
-    *   Moore40
-    *   Strange26Moore +14
-*   Direction of CountryRasmussen Reports
-    *   Right Direction34
-    *   Wrong Track59Wrong Track +25
+    *   Approve42
+    *   Disapprove56Disapprove +14
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve35
+    *   Disapprove59Disapprove +24
 
 More Latest Polls In The News
 
-*   Huckabee Sanders: "Sad" That Clinton Will Be Defined By Popping Up Book Sales With False Attacks
+*   Huckabee Sanders: Clinton "Placing Blame On A Lot Of Other People Instead Of Accepting It Herself"
+*   Hillary Clinton on WH Press Secretary Sarah Huckabee Sanders: "I Don't Pay Much Attention To What She Says"
+*   Lauer to Clinton On Blame For Loss: "Did You Make Enough Mistakes Yourself To Lose The Election?"
+*   Full Event: Katy Tur Talks To Chuck Todd About New Book 'Unbelievable,' Covering Trump in 2016
 *   Vanderbilt Law Professor Carol Swain: I Wear Southern Poverty Law Center's Smear As "Badge Of Honor"
-*   Hillary Clinton on Loss: "We Don't Control The Media Environment The Same Way The Right Does"
-*   USA Today's Susan Page: Clinton Wrote Book To "Settle Some Scores" With Comey &. Bernie Sanders
-*   Hayworth: Republicans Must Play The Hand Trump Dealt. "We Don't Elect Presidents Based On Aesthetics"
 
 *   Politics
 *   Policy
