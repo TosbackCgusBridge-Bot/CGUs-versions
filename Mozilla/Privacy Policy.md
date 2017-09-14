@@ -57,6 +57,7 @@ Firefox Privacy Notice Close
     *   iOS
     *   Android
     *   Focus
+    *   Developer Edition
     *   Features
     *   Support
 *   Pocket
