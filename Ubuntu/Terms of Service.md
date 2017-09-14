@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
-*   Ubuntu Server Development Summary – 12 Sep 2017 ›
-*   Wavebox snap: A central hub for Gmail, Outlook, Trello, Slack and more ›
-*   Top 10 snaps in August: Chromium, Dino, Gogs and more ›
-*   LXD: Weekly status #14 ›
-*   Ubuntu Desktop Weekly Update: September 8, 2017 ›
+*   Kernel Team Summary – September 13, 2017 ›
+*   Running Ubuntu Containers with Hyper-V Isolation on Windows ›
+*   Congratulations to GNOME on the release of 3.26 ›
+*   Week 36 of 2017 in snapcraft ›
+*   NEC partners with Canonical on Ubuntu Core based signage platform ›
