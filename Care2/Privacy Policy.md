@@ -184,6 +184,6 @@ Report Spam Abuse
 
 Corporate contact information:  
 Care2.com, Inc.  
-275 Shoreline Drive, Suite 300  
+203 Redwood Shores Parkway, Suite 230  
 Redwood City, CA 94065  
 Phone: 650-622-0860
