@@ -1,19 +1,19 @@
-*   HOU0-1CIN0-1September 14, 2017 8:25:00 PM EDT ET
-*   CLE0-1BAL1-0September 17, 2017 1:00:00 PM EDT ET
-*   BUF1-0CAR1-0September 17, 2017 1:00:00 PM EDT ET
-*   ARI0-1IND0-1September 17, 2017 1:00:00 PM EDT ET
-*   TEN0-1JAX1-0September 17, 2017 1:00:00 PM EDT ET
-*   PHI1-0KC1-0September 17, 2017 1:00:00 PM EDT ET
-*   NE0-1NO0-1September 17, 2017 1:00:00 PM EDT ET
-*   MIN1-0PIT1-0September 17, 2017 1:00:00 PM EDT ET
-*   CHI0-1TB0-0September 17, 2017 1:00:00 PM EDT ET
-*   MIA0-0LAC0-1September 17, 2017 4:05:00 PM EDT ET
-*   NYJ0-1OAK1-0September 17, 2017 4:05:00 PM EDT ET
-*   DAL1-0DEN1-0September 17, 2017 4:25:00 PM EDT ET
-*   WAS0-1LA1-0September 17, 2017 4:25:00 PM EDT ET
-*   SF0-1SEA0-1September 17, 2017 4:25:00 PM EDT ET
-*   GB1-0ATL1-0September 17, 2017 8:30:00 PM EDT ET
-*   DET1-0NYG0-1September 18, 2017 8:30:00 PM EDT ET
+*   HOU•3CIN01st ? 01:28
+*   CLE0-1BAL1-0Sun 1:00 PM ET
+*   BUF1-0CAR1-0Sun 1:00 PM ET
+*   ARI0-1IND0-1Sun 1:00 PM ET
+*   TEN0-1JAX1-0Sun 1:00 PM ET
+*   PHI1-0KC1-0Sun 1:00 PM ET
+*   NE0-1NO0-1Sun 1:00 PM ET
+*   MIN1-0PIT1-0Sun 1:00 PM ET
+*   CHI0-1TB0-0Sun 1:00 PM ET
+*   MIA0-0LAC0-1Sun 4:05 PM ET
+*   NYJ0-1OAK1-0Sun 4:05 PM ET
+*   DAL1-0DEN1-0Sun 4:25 PM ET
+*   WAS0-1LA1-0Sun 4:25 PM ET
+*   SF0-1SEA0-1Sun 4:25 PM ET
+*   GB1-0ATL1-0Sun 8:30 PM ET
+*   DET1-0NYG0-1Mon 8:30 PM ET
 
 *   News
 *   Scores
@@ -31,22 +31,22 @@
 *   NFL Network
 *   Photos
 
-*   HOU0-1CIN0-1September 14, 2017 8:25:00 PM EDT ET
-*   CLE0-1BAL1-0September 17, 2017 1:00:00 PM EDT ET
-*   BUF1-0CAR1-0September 17, 2017 1:00:00 PM EDT ET
-*   ARI0-1IND0-1September 17, 2017 1:00:00 PM EDT ET
-*   TEN0-1JAX1-0September 17, 2017 1:00:00 PM EDT ET
-*   PHI1-0KC1-0September 17, 2017 1:00:00 PM EDT ET
-*   NE0-1NO0-1September 17, 2017 1:00:00 PM EDT ET
-*   MIN1-0PIT1-0September 17, 2017 1:00:00 PM EDT ET
-*   CHI0-1TB0-0September 17, 2017 1:00:00 PM EDT ET
-*   MIA0-0LAC0-1September 17, 2017 4:05:00 PM EDT ET
-*   NYJ0-1OAK1-0September 17, 2017 4:05:00 PM EDT ET
-*   DAL1-0DEN1-0September 17, 2017 4:25:00 PM EDT ET
-*   WAS0-1LA1-0September 17, 2017 4:25:00 PM EDT ET
-*   SF0-1SEA0-1September 17, 2017 4:25:00 PM EDT ET
-*   GB1-0ATL1-0September 17, 2017 8:30:00 PM EDT ET
-*   DET1-0NYG0-1September 18, 2017 8:30:00 PM EDT ET
+*   HOU•3CIN01st ? 01:28
+*   CLE0-1BAL1-0Sun 1:00 PM ET
+*   BUF1-0CAR1-0Sun 1:00 PM ET
+*   ARI0-1IND0-1Sun 1:00 PM ET
+*   TEN0-1JAX1-0Sun 1:00 PM ET
+*   PHI1-0KC1-0Sun 1:00 PM ET
+*   NE0-1NO0-1Sun 1:00 PM ET
+*   MIN1-0PIT1-0Sun 1:00 PM ET
+*   CHI0-1TB0-0Sun 1:00 PM ET
+*   MIA0-0LAC0-1Sun 4:05 PM ET
+*   NYJ0-1OAK1-0Sun 4:05 PM ET
+*   DAL1-0DEN1-0Sun 4:25 PM ET
+*   WAS0-1LA1-0Sun 4:25 PM ET
+*   SF0-1SEA0-1Sun 4:25 PM ET
+*   GB1-0ATL1-0Sun 8:30 PM ET
+*   DET1-0NYG0-1Mon 8:30 PM ET
 
 *   News
 *   Scores
@@ -71,7 +71,7 @@ ScoresClose
 NFL.com - Privacy Policy English Deutsch Francais
 
 **Effective Date: August 16, 2001  
-Updated: December 19, 2016**  
+Updated: September 15, 2017**  
 
   
 
@@ -153,7 +153,7 @@ We are committed to maintaining your trust, and we want you to understand when a
     
 *   **Contests and Sweepstakes**: In some cases, a third party may operate or host a contest or sweepstakes on the Services, and collect your information. In those cases, we urge you to review the third party's privacy policy for that contest or sweepstakes before participating. We take measures to help ensure that our partners protect the confidentiality, integrity, and security of any information we share with them. However, we are not responsible for the privacy practices of our business partners, which may use your information for their own purposes. Please read their respective privacy policies for more information.
     
-*   **Third-Party Ad Serving and Audience and Traffic Measurement Services**: We may use third-parties to serve advertisements on the Services. These third parties may set their own cookies or similar web technologies to collect information about users' online activities over time and across different websites. To manage your preferences you may opt out here http://preferences-mgr.truste.com/.
+*   **Third-Party Ad Serving and Audience and Traffic Measurement Services**: We may use third-parties to serve advertisements on the Services. These third parties may set their own cookies or similar web technologies to collect information about users' online activities over time and across different websites. To manage your preferences you may opt out here http://preferences-mgr.truste.com/. The Services may feature Nielsen proprietary measurement software, which will allow users to contribute to market research, such as Nielsen TV Ratings. Nielsen believes that you should have a choice about whether to contribute to our research and insights. To opt out of Nielsen measurement, you need only to activate the "Limit Ad Tracking" (for iOS devices) or "Opt out of Ads Personalization" (for Android devices) option in your devices settings. For web, please visit: http://www.nielsen.com/digitalprivacy to learn more about the Nielsen digital measurement products and your choices in regard to them.
     
 *   **Business Transfer**: If we sell all or part of our business, or make a sale or transfer of assets, or are otherwise involved in a merger or business transfer, or in the unlikely event of bankruptcy, a business reorganization, or similar event, we may transfer your information as part of such transaction.
     
