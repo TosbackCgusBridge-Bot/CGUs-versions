@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Edward-Isaac Dovere_: Teflon Don Confounds Democrats
+*   _Ryan Lizza_: Who Knew That Tax Reform Could Be So Complicated?
     
-*   _Roger Cohen_: From 9/11 to President Humpty Dumpty
+*   _Daniel Henninger_: Title IX and Sexual Politics
     
-*   _Josh Siegel_: Pruitt Hits Obama, Moves EPA Away From Climate Change
+*   _Diane Rosenfeld_: DeVos's Position on Campus Sex Assault Is Flawed
     
-*   _Eugene Robinson_: Harvey, Irma Are Clearly Linked to Climate Change
+*   _Charlie Cook_: Dems Face Steep Climb to Win Back the Senate
     
-*   _Edward Luce_: The Empty Shell of America's Two-Party System
+*   _Jonathan Tobin_: Trump's Republican Civil War
     
-*   _Willis Krumholz_: Russia Story Says More About Deep State Than Trump
+*   _Ezra Klein_: What Hillary Clinton Really Thinks
     
-*   _Jim Rutenberg_: RT, Sputnik and Russia's New Theory of War
+*   _Kristan Hawkins_: In 2016, Voters Rejected Clinton's Abortion Extremism
     
-*   _Graham Allison_: Can North Korea Drag the U.S. and China Into War?
+*   _Juanita Duggan_: Cut Business Taxes for the 99.9%
     
-*   _Jason Riley_: Another Obama Policy Betsy DeVos Should Throw Out
+*   _Ruchir Sharma_: What Trump Can Do to Prevent the Next Crash
     
-*   _Kai Wright_: On White Supremacy and American Terrorism
+*   _Bryan Curtis_: Jemele Hill and the Fight for the Future of ESPN
     
-*   _E.J. Montini_: Does ESPN Have a Racial Double Standard?
+*   _Ben Domenech_: Hill's Tweets Are Bad, But Her ESPN Show Is Even Worse
     
-*   _Joe McLean_: Trump Has Stabbed the GOP in the Back. Will It Pay Off?
+*   _Josh Blackman_: Trump Talks, Schneiderman Sues
     
-*   _David Smick_: The Republican Tax Plan Better Be Audacious
+*   _Joe Biden_: Reclaiming America's Values
     
-*   _Sen. Bernie Sanders_: Why We Need Medicare for All
+*   _David Harsanyi_: Reminder: Susan Rice Lied About Role in Unmasking
     
-*   _Bill Scher_: The Single-Payer Insanity
+*   _Melanie Eversley_: Deal on DREAMers? Trump Says No to Democrats' Yes
     
-*   _Michael Goodwin_: Trump's Bipartisan Politics Surprise After Obama
+*   _David Remnick_: Hillary Clinton Looks Back in Anger
     
-*   _Jack Goldsmith_: Will Donald Trump Destroy the Presidency?
+*   _Thomas Frank_: Clinton Cannot Escape Her White-Collar Worldview
     
-*   _Timothy Carney_: On Authoritarianism, Clinton Was the Greater Threat
+*   _Richard Rahn_: The Paul Ryan Problem
     
-*   _Mark Bauerlein_: How Bannon Turned the Table on Liberals
+*   _Scott Wong_: Speculation Mounts, But Ryan's Job Seen as Safe
     
-*   _Jamelle Bouie_: Steve Bannon's Intellectual Reputation Is a Charade
+*   _John Judis_: I Argued Demographics Favored Dems. I Was Wrong.
     
-*   _Douglas MacKinnon_: Irma and How the Left Has Politicized Even the Weather
+*   _David Byler_: Will the 2018 House Elections Be 2006 All Over Again?
     
-*   _Elizabeth Kolbert_: Will the Recovery Make Flooding More Inevitable?
+*   _Conrad Black_: Trump Seeks Higher Ground as War With Dems De-Escalates
     
-*   _Patrice Onwuka_: Betsy DeVos Stands for the Rights of Victims
+*   _Steve Koczela_: The Voter Fraud Commission Is Chasing Shadows in NH
     
-*   _Ben Smith_: There's Blood in the Water in Silicon Valley
+*   _Tammy Bruce_: Why Democrats Fear Voter Fraud Investigations
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Next Steps on DACA Hold Peril for Republicans
 *   Trump Seeks to Speed Up Hill Deliberation on Taxes
-*   Clinton: I Don't Think the Press Did Their Job During Election
-*   Democrats Split on Sanders' Medicare for All Plan
-*   Eyes on 2018 as 3rd House Republican Says He'll Retire
+*   Will the 2018 House Elections Be 2006 All Over Again?
+*   Swain: I Wear SPLC's Smear as "Badge of Honor"
+*   Senate Rejects Measure to End ISIS War Authorization
+*   Next Steps on DACA Hold Peril for Republicans
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve37
+    *   Disapprove56Disapprove +19
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve44
+    *   Disapprove54Disapprove +10
 *   New Jersey Governor - Guadagno vs. MurphyQuinnipiac
     *   Murphy58
     *   Guadagno33Murphy +25
-*   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove57Disapprove +20
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve42
-    *   Disapprove56Disapprove +14
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve35
     *   Disapprove59Disapprove +24
 
 More Latest Polls In The News
 
-*   Huckabee Sanders: Clinton "Placing Blame On A Lot Of Other People Instead Of Accepting It Herself"
-*   Hillary Clinton on WH Press Secretary Sarah Huckabee Sanders: "I Don't Pay Much Attention To What She Says"
-*   Lauer to Clinton On Blame For Loss: "Did You Make Enough Mistakes Yourself To Lose The Election?"
-*   Full Event: Katy Tur Talks To Chuck Todd About New Book 'Unbelievable,' Covering Trump in 2016
-*   Vanderbilt Law Professor Carol Swain: I Wear Southern Poverty Law Center's Smear As "Badge Of Honor"
+*   Rubio: Never Sensed President Trump Was "Gung Ho" About Deporting DREAMers. "Quite The Opposite"
+*   Pelosi: DACA Deal Is "Not Amnesty". "This is An Earned Path To Citizenship"
+*   Schumer on Trump Meeting: "We All Agreed On A Framework," Pass DACA In Exchange For Border Security
+*   Tucker Carlson: If Hillary Clinton Is Such A Strong Woman, Why Is She Playing The Victim?
+*   Gutfeld To Clinton: Shut Up And Go Away. Book Tour Is Punishment For Not Voting For Her
 
 *   Politics
 *   Policy
