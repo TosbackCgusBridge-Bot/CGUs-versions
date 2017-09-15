@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Security Team Weekly Summary: September 14, 2017 ›
 *   Kernel Team Summary – September 13, 2017 ›
 *   Running Ubuntu Containers with Hyper-V Isolation on Windows ›
 *   Congratulations to GNOME on the release of 3.26 ›
-*   Week 36 of 2017 in snapcraft ›
-*   NEC partners with Canonical on Ubuntu Core based signage platform ›
+*   Modeling infrastructure with security and flexibility in mind ›
