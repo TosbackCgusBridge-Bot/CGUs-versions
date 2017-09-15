@@ -172,11 +172,12 @@
 *   Jeans
     *   *   Women's Jeans
         
+        *   Ankle Skinny
         *   Jegging
         *   Skinny
+        *   Straight
         *   Bootcut
         *   Flare
-        *   Ankle Skinny
         *   Shop All
         
         *   Men's Jeans
@@ -245,24 +246,24 @@
 *   Sale
     *   *   Women's Sale
         
-        *   All Tops
-        *   Tank Tops
         *   Jeans
-        *   T-Shirts
-        *   Crops/Capris
-        *   Shorts
+        *   All Tops
+        *   Shirts/Blouses
+        *   Sweaters
+        *   Sweatshirts
+        *   Coats/Jackets
         *   Shoes
         *   Shop All
         
         *   Men's Sale
         
-        *   All Tops
-        *   Shoes
-        *   T-Shirts
-        *   Polos
-        *   Shorts
-        *   Boardshorts
         *   Jeans
+        *   All Tops
+        *   Shirts
+        *   Tees
+        *   Sweatshirts
+        *   Coats/Jackets
+        *   Shoes
         *   Shop All
         
         *   Kid's Sale
