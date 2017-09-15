@@ -362,7 +362,6 @@ Owners
 *   Enform Subscription
 *   Owner Benefits
 *   Mobile Phone Apps
-*   Navigation Updates
 *   Pay My Bill
 *   Drivers Website
 
@@ -427,7 +426,6 @@ Language
     *   Enform Subscription
     *   Owner Benefits
     *   Mobile Phone Apps
-    *   Navigation Updates
     *   Pay My Bill
     *   Drivers Website
 *   Service &. Warranty
