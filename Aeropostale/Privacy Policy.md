@@ -197,12 +197,14 @@ Close submenu ( Trending ) Trending
 Close submenu ( Girls ) Girls
 
 *   View All
+*   Hem Details
+*   Ruffles
 *   Rompers
 *   Lace Up
-*   Ruffle Shoulder Detail
 *   Baby Tees
 *   Fashion Fleece
 *   Velour
+*   Ruffle Shoulder Detail
 
 Close submenu ( Guys ) Guys
 
@@ -213,6 +215,7 @@ Close submenu ( Guys ) Guys
 Close submenu ( Live Love Dream ) Live Love Dream
 
 *   View All
+*   Mesh Detail
 *   Colorblock
 *   Studio
 
@@ -392,12 +395,14 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls
         *   View All
+        *   Hem Details
+        *   Ruffles
         *   Rompers
         *   Lace Up
-        *   Ruffle Shoulder Detail
         *   Baby Tees
         *   Fashion Fleece
         *   Velour
+        *   Ruffle Shoulder Detail
     
     *   Guys
         *   View All
@@ -407,6 +412,7 @@ Menu Find a Store Aeropostale
     
     *   Live Love Dream
         *   View All
+        *   Mesh Detail
         *   Colorblock
         *   Studio
 *   Clearance
@@ -438,12 +444,12 @@ Menu Find a Store Aeropostale
 
 *   Lounge Starting at $10.00 Shop Lounge
 *   Leggings Starting at $17.80 Shop Leggings
-*   Polos Starting at $8.00 Shop Girls Shop Guys
-*   Pants Starting at $15.00 Shop Girls Shop Guys
+*   Dresses Starting at $12.00 Shop Dresses
+*   Pants Starting at $15.00 Shop Guys Shop Girls
 *   Lounge Starting at $10.00 Shop Lounge
 *   Leggings Starting at $17.80 Shop Leggings
-*   Polos Starting at $8.00 Shop Girls Shop Guys
-*   Pants Starting at $15.00 Shop Girls Shop Guys
+*   Dresses Starting at $12.00 Shop Dresses
+*   Pants Starting at $15.00 Shop Guys Shop Girls
 
 *   1
 *   2
@@ -452,18 +458,19 @@ Menu Find a Store Aeropostale
 
 OUR FEATURED STYLES
 
-*   LLD Mesh Inset Full-Zip Top $49.50 $28.00
-*   LLD Long Sleeve Mesh Inset Tee $32.50 $16.00
-*   Hooded Puffer Vest $59.50 $30.00
-*   Long Sleeve Lettuce-Edge Layering Tee $32.50 $13.00
-*   Seriously Stretchy High-Waisted Ankle Jegging $49.50
-*   Hooded Active Parka $89.50 $44.75
-*   Long Sleeve Twill Plaid Woven Shirt $44.50 $14.00
+*   LLD Lace Strappy Cross-Back Bralette $24.50 $10.00
+*   LLD Long Sleeve Cloud Fleece Crew Tee $39.50 $18.00
+*   Faux Leather Moto Jacket $89.50 $35.00
+*   Long Sleeve Ribbed Cold-Shoulder Top $36.50 $14.60
+*   Seriously Stretchy High-Waisted Ankle Jegging $59.50
+*   CAMO PUFFER VEST $49.50 $24.75
+*   Prince &. Fox Solid Oxford Button Down $44.50 $14.00
 *   Skinny Indigo Green Dark Wash Reflex Jean $49.50
-*   LLD Mesh Inset Full-Zip Top $49.50 $28.00
-*   LLD Long Sleeve Mesh Inset Tee $32.50 $16.00
-*   Hooded Puffer Vest $59.50 $30.00
-*   Long Sleeve Lettuce-Edge Layering Tee $32.50 $13.00
+*   LLD Fuzzy Fleece Jogger $44.50 $20.00
+*   LLD Lace Strappy Cross-Back Bralette $24.50 $10.00
+*   LLD Long Sleeve Cloud Fleece Crew Tee $39.50 $18.00
+*   Faux Leather Moto Jacket $89.50 $35.00
+*   Long Sleeve Ribbed Cold-Shoulder Top $36.50 $14.60
 
 *   1
 *   2
@@ -473,6 +480,7 @@ OUR FEATURED STYLES
 *   6
 *   7
 *   8
+*   9
 
 In Store + Online UP TO 80% OFF CLEARANCE PRICES AS MARKED shop girls shop guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
@@ -505,4 +513,4 @@ Stay Connected
 
 *   Live ChatCall Us
 
-© 2017 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+© 2017 Aeropostale. All Rights Reserved.
