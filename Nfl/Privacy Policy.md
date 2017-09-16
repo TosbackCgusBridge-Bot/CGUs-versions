@@ -1,4 +1,3 @@
-*   HOU•3CIN01st ? 01:28
 *   CLE0-1BAL1-0Sun 1:00 PM ET
 *   BUF1-0CAR1-0Sun 1:00 PM ET
 *   ARI0-1IND0-1Sun 1:00 PM ET
@@ -14,6 +13,7 @@
 *   SF0-1SEA0-1Sun 4:25 PM ET
 *   GB1-0ATL1-0Sun 8:30 PM ET
 *   DET1-0NYG0-1Mon 8:30 PM ET
+*   HOU1-113CIN0-29Final
 
 *   News
 *   Scores
@@ -31,7 +31,6 @@
 *   NFL Network
 *   Photos
 
-*   HOU•3CIN01st ? 01:28
 *   CLE0-1BAL1-0Sun 1:00 PM ET
 *   BUF1-0CAR1-0Sun 1:00 PM ET
 *   ARI0-1IND0-1Sun 1:00 PM ET
@@ -47,6 +46,7 @@
 *   SF0-1SEA0-1Sun 4:25 PM ET
 *   GB1-0ATL1-0Sun 8:30 PM ET
 *   DET1-0NYG0-1Mon 8:30 PM ET
+*   HOU13CIN9Final
 
 *   News
 *   Scores
