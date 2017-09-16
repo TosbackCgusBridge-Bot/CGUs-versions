@@ -1,5 +1,4 @@
-Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking Subscribe, I agree to the WebMD Terms &. Conditions &. Privacy Policy  
-and understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
+Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -52,7 +51,7 @@ and understand that I may opt out of WebMD subscriptions at any time. close Skip
     *   Commonly Abused Drugs
     *   Taking Meds When Pregnant
     
-    Featured Topics*   News FDA Approves First-of-Its-Kind Cancer Treatment
+    Featured Topics*   Slideshow 10 Diseases Vaccines Can Prevent
     *   Slideshow Vitamins &. Minerals From A - Zinc
 *   Living  
     Healthy Living Healthy Living Healthy Diet, Food &. Fitness
@@ -441,7 +440,7 @@ WebMD Policy Last updated on December 30, 2016 © 2016 WebMD, LLC. All rights re
 
 Some of these might surprise you.
 
-Bettering the Way Home Shoppers Shop on remax.com From bungalows and split-levels to cabins and row homes, visit remax.com to discover recently listed homes just right for your lifestyle. Ad By **RE/MAX** Depressed, Guilty Feelings After Eating?
+Health insurance you can feel good about. Bright Health and Centura Health are gearing up to bring you quality doctors, a customized experience, and smart collaborative care. Ad By **Bright Health** Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
