@@ -29,9 +29,9 @@ Skip to main content
             6.  MSNBCMSNBC The premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives.MSNBC
             7.  NBC Sports Network (NBCSN)NBC Sports Network (NBCSN)Serves today's passionate sports fans with coverage of the Summer and Winter Olympics, NHL, Premier League, Formula One, MLS, Tour de France and more.NBC Sports Network (NBCSN)
             8.  Oxygen MediaOxygen MediaMultiplatform brand targeting young multicultural women. Features unscripted original programming that reflects how very real women see the world.Oxygen Media
-            9.  SproutSproutSprout is the 24-hour preschool TV network that reflects real kids and the real worlds they are growing up in.Sprout
-            10.  SYFYSYFYA leader in imagination-based entertainment, including year round original series, events, blockbuster movies, classic science fiction &. fantasy.SYFY
-            11.  The Weather Channel CompanyThe Weather Channel CompanyProvides millions of people every day with the world's best weather forecasts, content and data.The Weather Channel Company
+            9.  SYFYSYFYA leader in imagination-based entertainment, including year round original series, events, blockbuster movies, classic science fiction &. fantasy.SYFY
+            10.  The Weather Channel CompanyThe Weather Channel CompanyProvides millions of people every day with the world's best weather forecasts, content and data.The Weather Channel Company
+            11.  Universal KidsUniversal KidsAs a kid-focused ecosystem with great TV content at the center, Universal Kids is programmed for the 2-12 year old audience, with a fresh mix of animated content, unscripted entertainment, and proven international hits. Universal Kids
             12.  UNIVERSOUNIVERSOModern general entertainment for Latinos, bringing the world's top sports franchises and edgy, emotional programming to more than 40 million households.UNIVERSO
             13.  USA NetworkUSA NetworkA powerful portfolio of scripted and unscripted drama and comedy originals seen in more than 102 million U.S. homes. USA Network
         3.  Digital Businesses
@@ -95,9 +95,9 @@ Skip to main content
                 *   MSNBC
                 *   NBC Sports Network (NBCSN)
                 *   Oxygen Media
-                *   Sprout
                 *   SYFY
                 *   The Weather Channel Company
+                *   Universal Kids
                 *   UNIVERSO
                 *   USA Network
         *   *   DIGITAL BUSINESSES
@@ -183,4 +183,4 @@ Cookies/ tracking technologies are used on some of our online services to serve 
 *   Supply Chain Values
 *   Terms of Service
 
-© 2017 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/9498090" height="1" width="1" alt="" /></a></div>.
+© 2017 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/1873861" height="1" width="1" alt="" /></a></div>.
