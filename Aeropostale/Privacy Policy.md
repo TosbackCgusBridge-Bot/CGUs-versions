@@ -41,6 +41,7 @@ Close submenu ( Tops ) Tops
 
 *   View All
 *   Tees
+*   Graphic Tees
 *   Long Sleeve
 *   Camis + Tanks
 *   Fashion Tops
@@ -48,7 +49,6 @@ Close submenu ( Tops ) Tops
 *   Shirts
 *   Hoodies + Sweatshirts
 *   Sweaters
-*   Bodysuits
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -172,7 +172,6 @@ Close submenu ( Tops ) Tops
 *   Tanks
 *   Hoodies + Sweatshirts
 *   Jackets + Vests
-*   Bodysuits
 *   Sleep
 
 Close submenu ( Bottoms ) Bottoms
@@ -247,6 +246,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   View All
 *   Tops
 *   Bottoms
+*   Intimates
 *   Accessories
 
 **50-70% OFF** + **FREE SHIPPING ON $87** OR **$5 FLAT RATE**
@@ -272,6 +272,7 @@ Menu Find a Store Aeropostale
     *   Tops
         *   View All
         *   Tees
+        *   Graphic Tees
         *   Long Sleeve
         *   Camis + Tanks
         *   Fashion Tops
@@ -279,7 +280,6 @@ Menu Find a Store Aeropostale
         *   Shirts
         *   Hoodies + Sweatshirts
         *   Sweaters
-        *   Bodysuits
     
     *   Bottoms
         *   View All
@@ -375,7 +375,6 @@ Menu Find a Store Aeropostale
         *   Tanks
         *   Hoodies + Sweatshirts
         *   Jackets + Vests
-        *   Bodysuits
         *   Sleep
     
     *   Bottoms
@@ -434,6 +433,7 @@ Menu Find a Store Aeropostale
         *   View All
         *   Tops
         *   Bottoms
+        *   Intimates
         *   Accessories
 
 *   Help - Live Chat
