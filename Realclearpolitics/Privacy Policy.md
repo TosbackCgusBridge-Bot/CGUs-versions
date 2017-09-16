@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Ryan Lizza_: Who Knew That Tax Reform Could Be So Complicated?
+*   _Fred Barnes_: The President Discombobulates Friend and Foe
     
-*   _Daniel Henninger_: Title IX and Sexual Politics
+*   _Jonathan Chait_: Could Trump Betray His Party on Taxes Next?
     
-*   _Diane Rosenfeld_: DeVos's Position on Campus Sex Assault Is Flawed
+*   _Todd Purdum_: 'Burned' Trump Finds Comfort With Democrats
     
-*   _Charlie Cook_: Dems Face Steep Climb to Win Back the Senate
+*   _Kurt Schlichter_: Read My Lips: Schumer Is Playing You, Mr. President
     
-*   _Jonathan Tobin_: Trump's Republican Civil War
+*   _Paul Krugman_: Politicians, Promises, and Getting Real
     
-*   _Ezra Klein_: What Hillary Clinton Really Thinks
+*   _James Freeman_: Dems' Coalition of the Descendant
     
-*   _Kristan Hawkins_: In 2016, Voters Rejected Clinton's Abortion Extremism
+*   _Sean Illing_: A Trans Military Ban, Like Don't Ask Don't Tell, Won't Work
     
-*   _Juanita Duggan_: Cut Business Taxes for the 99.9%
+*   _Julie Pulley_: Trump's Trans Ban Makes Military and Medical Sense
     
-*   _Ruchir Sharma_: What Trump Can Do to Prevent the Next Crash
+*   _Stewart Patrick &. Megan Roberts_: Trump and Guterres -- a Diplomatic Odd Couple
     
-*   _Bryan Curtis_: Jemele Hill and the Fight for the Future of ESPN
+*   _Jay Newman_: Keep Your Eye on the U.N.'s Fat Kleptocats
     
-*   _Ben Domenech_: Hill's Tweets Are Bad, But Her ESPN Show Is Even Worse
+*   _David Volodzko_: North Korea's Secret Weapon? Economic Growth.
     
-*   _Josh Blackman_: Trump Talks, Schneiderman Sues
+*   _John Cassidy_: An About-Face on DACA?
     
-*   _Joe Biden_: Reclaiming America's Values
+*   _James Robbins_: Bipartisanship Is Back at the White House
     
-*   _David Harsanyi_: Reminder: Susan Rice Lied About Role in Unmasking
+*   _Arkin & Huey-Burns_: Dems, GOP Lawmakers Wary of Trump's DACA 'Deal'
     
-*   _Melanie Eversley_: Deal on DREAMers? Trump Says No to Democrats' Yes
+*   _David Catanese_: Dawn of the Berniecratic Party
     
-*   _David Remnick_: Hillary Clinton Looks Back in Anger
+*   _Matthew Continetti_: Democrats Follow Bernie Sanders Off a Cliff
     
-*   _Thomas Frank_: Clinton Cannot Escape Her White-Collar Worldview
+*   _Gillian Tett_: The Strange Case of Donald Trump and the Missing Infrastructure
     
-*   _Richard Rahn_: The Paul Ryan Problem
+*   _Lee Smith_: Our Iran Problems Run Deep, Thanks to Obama
     
-*   _Scott Wong_: Speculation Mounts, But Ryan's Job Seen as Safe
+*   _David Ignatius_: The Iran Nuclear Deal May Not Be Perfect. But Don't Scrap It.
     
-*   _John Judis_: I Argued Demographics Favored Dems. I Was Wrong.
+*   _Michael Auslin_: 'Land of No Good Options'
     
-*   _David Byler_: Will the 2018 House Elections Be 2006 All Over Again?
+*   _Hadley Freeman_: Anti-Clinton Vitriol Reveals a Nation Mired in Misogyny
     
-*   _Conrad Black_: Trump Seeks Higher Ground as War With Dems De-Escalates
+*   _Kimberly Strassel_: Here's What Really Happened to Hillary
     
-*   _Steve Koczela_: The Voter Fraud Commission Is Chasing Shadows in NH
+*   _Sabrina Tavernise_: When History's Losers Write the Story
     
-*   _Tammy Bruce_: Why Democrats Fear Voter Fraud Investigations
+*   _Joseph Bottum_: The Joy of Destruction
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Seeks to Speed Up Hill Deliberation on Taxes
+*   North Korea Fires Missile Over Japan in Longest-Ever Flight
+*   Dems, Republican Lawmakers Wary of Trump's DACA "Deal"
+*   Hannity: The Wall Better Be Part of Trump's Deal
 *   Will the 2018 House Elections Be 2006 All Over Again?
-*   Swain: I Wear SPLC's Smear as "Badge of Honor"
-*   Senate Rejects Measure to End ISIS War Authorization
-*   Next Steps on DACA Hold Peril for Republicans
+*   Trump Seeks to Speed Up Hill Deliberation on Taxes
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalMarist
+    *   Approve41
+    *   Disapprove50Disapprove +9
 *   President Trump Job ApprovalGallup
     *   Approve37
-    *   Disapprove56Disapprove +19
+    *   Disapprove57Disapprove +20
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove54Disapprove +10
+    *   Approve43
+    *   Disapprove55Disapprove +12
 *   New Jersey Governor - Guadagno vs. MurphyQuinnipiac
     *   Murphy58
     *   Guadagno33Murphy +25
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve35
-    *   Disapprove59Disapprove +24
 
 More Latest Polls In The News
 
-*   Rubio: Never Sensed President Trump Was "Gung Ho" About Deporting DREAMers. "Quite The Opposite"
-*   Pelosi: DACA Deal Is "Not Amnesty". "This is An Earned Path To Citizenship"
-*   Schumer on Trump Meeting: "We All Agreed On A Framework," Pass DACA In Exchange For Border Security
+*   Rushdie On Safe Spaces, Trigger Warnings: Speak Severely To People Who Want To Propagate This
+*   Scarborough: Hannity, Coulter, Breitbart "About To Learn What The Flummoxed Mainstream Media Learned" About Trump Supporters
+*   Coulter On Trump's "DACA Deal": "Looks Like A Doomsday Scenario," "Might Be Time For Third Party"
+*   Trump on DACA: "We're Not Looking At Citizenship... We're Looking At Allowing People To Stay"
 *   Tucker Carlson: If Hillary Clinton Is Such A Strong Woman, Why Is She Playing The Victim?
-*   Gutfeld To Clinton: Shut Up And Go Away. Book Tour Is Punishment For Not Voting For Her
 
 *   Politics
 *   Policy
