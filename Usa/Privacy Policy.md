@@ -26,7 +26,7 @@ Change country/language X
     *   All products
     *   Collections
         *   Architecture, Engineering &. Construction
-        *   Product Design
+        *   Product Design &. Manufacturing
         *   Media &. Entertainment
     *   AutoCAD
     *   AutoCAD LT
