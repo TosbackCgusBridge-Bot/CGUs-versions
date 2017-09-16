@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather What to do when a hurricane or tropical storm threatens Weather Remnants of #Irma brings rain to parts of eastern U.S. National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Marine &. Aviation Charting Assessing Irma’s destruction from the air: Aerial images available Oceans &. Coasts Video: Could you survive a rip current? See how National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Assessing Irma’s destruction from the air: First aerial images now available Additional photos will be posted as more flights are conducted AROUND NOAA // View and download NOAA satellite imagery of hurricanes, tropical storms 'Turn around, don't drown': What to do before, during and after a flood 10 greatest sightings, so far, from NOAA’s exploration of the deepwater Pacific
+Enter Search Terms Assessing Irma’s destruction from the air: Aerial images available Additional photos will be posted as more flights are conducted AROUND NOAA // Video: Could you survive a rip current? See how NOAA’s JPSS-1 satellite arrives in California for launch 10 greatest sightings, so far, from NOAA’s exploration of the deepwater Pacific U.S. had 15th warmest summer and 3rd warmest year to date on record
 
 *   About our agency
 *   News and features
