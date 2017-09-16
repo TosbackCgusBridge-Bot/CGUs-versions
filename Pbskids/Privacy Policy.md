@@ -1,4 +1,8 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS Toggle message bar
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
+
+What parents should know about Common Core math. What parents should know about Common Core math. Learn more
+
+Toggle message bar
 
 *   Apps
 *   Shop
@@ -7,7 +11,7 @@ Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS Toggle message b
 *   TV Times
 *   Settings PBS KIDS Settings_Close_Your Local PBS Station
     
-    Rocky Mountain PBS / KRMA 6
+    Rocky Mountain PBS
     
     Select your local station
     
