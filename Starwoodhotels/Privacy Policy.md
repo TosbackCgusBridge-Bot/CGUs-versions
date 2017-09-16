@@ -1,33 +1,71 @@
   Text Only
 
-*   Sign In to SPG.com
-*   Help 
-    *   Reservations
-    *   Email
-    *   All Options
-*   Our Brand Sites  ST REGIS THE LUXURY COLLECTION W HOTELS DESIGN HOTELS Sheraton WESTIN Le MERIDIEN TRIBUTE PORTFOLIO FOUR POINTS aloft HOTELS element Starwood Preferred Guest
-*   Language 
-    
-    *   Deutsch
-    *   English
-    *   Español
-    
-    *   Français
-    *   Italiano
-    *   Português
-    
-    *   中文(简体)
-    *   日本語
-    *   Русский
+*   Find &. Book
+*   About
+*   My SPG
 
-*   Book &. Stay
-*   Our Company
+SPG Sign In*   Language
+    
+    *   Deutsch Deutsch
+    *   English English
+    *   Español Español
+    
+    *   Français Français
+    *   Italiano Italiano
+    *   Português Português
+    
+    *   中文(简体) 中文(简体)
+    *   日本語 日本語
+    *   Русский Русский
+Find A Hotel Close
+
+*   Please enter your search criteria
+
+Close
+
+*   Enter a destination.
+*   Enter a country.
+*   Enter a state/province.
+*   Need to enter a destination for a destination search.
+
+Check In Check Out Close
+
+*   For stays longer than 90 days, please call 866-539-3446.
+*   You can only book 550 days in advance.
+*   Please double-check your dates.
+
+1 Room 1 Rooms , 1 Adult 1 Adults , 1 Child 0 Children 123456789101112131415 Room Rooms 1234 Adult per room Adults per room 01234 Child per room Children per room (age 0 - 12) Search WHY BOOK HERE
+
+*   Hotel Directory &. Map
+*   Help
+
+*   Company Overview
+*   Global Citizenship (CSR)
+*   Our Brands
+*   News
+*   Help
+
+*   Vacation Ownership
+*   Meeting Planner
+*   Residences
+*   Developers
+
+*   Investors
 *   Careers
-*   Travel Professionals _spg.com/travelpro_
-*   Meeting Planners _spg.com/meetingplanner_
-*   Developers _development.starwoodhotels.com_
 
-Hotel Directory New Hotels Resorts Customer Service Reservations Vacation Ownership Best Rate Guarantee Advanced Search Offers Residences Starwood Preferred Guest Sign In to SPG.com  Go to SPG.com  Join now 
+*   Account Overview
+*   My Reservations
+*   Find A Reservation
+*   My Starpoints Activity
+*   Help
+
+*   Join SPG
+*   Already Enrolled?
+    
+    If you signed up at a hotel or by phone, activate your SPG account.
+    
+
+Save for next visit Save for next visit Sign In Forgot password?
 
 Starwood Hotels &. Resorts Worldwide, LLC Online Privacy Statement
 
@@ -311,46 +349,63 @@ Back to Top
   
 
 *   Find &. Book
-    *   Starwood Preferred Guest
-    *   Hotel Directory
-    *   Reservations
+*   My Stays &. SPG
+*   Our Company
+
+*   *   Hotel Directory &. Map
     *   New Hotels
-    *   SPG Resorts
-    *   Best Rate Guarantee
-    *   Help
-*   Offers
-    *   All Offers
-    *   Resort Offers
-    *   Spa Offers
-    *   Partner Offers
-    *   Golf Offers
-    *   Beach Offers
-    *   Weekend Offers
-    *   Starpoints® Offers
-*   Media &. Investors
+    *   Offers
+    *   Meetings &. Events
+    *   WHY BOOK HERE
+*   *   My Reservations
+    *   Find an Existing Reservation
+    *   About SPG
+    *   SPG Member Benefits
+    *   Join SPG
+*   *   Company Overview
+    *   Company Values
+    *   Company Diversity
+    *   Global Citizenship (CSR)
+    *   TakeCare Relief Fund
+    *   Our Brands
+    *   Starwood and Marriott Merger
+*   *   Careers
     *   News
-    *   Company Overview
-    *   Investor Relations
-    *   Global Citizenship
-    *   Service Commitment
-    *   Leadership
-*   Sites &. Services
-    *   Starwood Careers
-    *   Marriott Careers
-    *   Meeting Planners
-    *   Travel Professionals
+    *   Investors
     *   Developers
-    *   Government &. Military
-    *   Auto Clubs
-    *   Vacation Ownership
     *   Residences
+    *   Vacation Ownership
 
-WHY BOOK HERE
+*   Help
+*   Language 
+    
+    *   Deutsch Deutsch
+    *   English English
+    *   Español Español
+    
+    *   Français Français
+    *   Italiano Italiano
+    *   Português Português
+    
+    *   中文(简体) 中文(简体)
+    *   日本語 日本語
+    *   Русский Русский
+*   Website Terms of Use
+*   Privacy Statement
+*   Text Only
 
-*   Stay connected to Starwood Hotels:
-*   More
-*   Mobile Options
-*   Guest Reviews
+Put the world at your fingertips. With an app for every device, and a tool for every travel need, get the SPG apps and get packing >. Top Destinations
+
+*   New York Hotels
+*   San Francisco Hotels
+*   Los Angeles Hotels
+*   Atlanta Hotels
+*   Chicago Hotels
+*   Toronto Hotels
+*   Houston Hotels
+*   San Diego Hotels
+*   Boston Hotels
+*   Philadelphia Hotels
 
 *   **THE RITZ CARLTON REWARDS**
 *   **The Ritz-Carlton**
@@ -387,12 +442,6 @@ WHY BOOK HERE
 *   **FOUR POINTS**
 *   **element**
 
-You are on StarwoodHotels.com Starwood Hotels &. Resorts Other Starwood Brands >. Four Points Sheraton Aloft W Hotels Le Méridien Luxury Collection Element Westin St. Regis Tribute Portfolio Design Hotels Starwood Preferred Guest Starwood Hotels Learn about our brands
+You are on StarwoodHotels.com | Starwood Hotels &. Resorts | Other Starwood Brands >. Four Points Sheraton Aloft W Hotels Le Méridien Luxury Collection Element Westin St. Regis Tribute Portfolio Design Hotels Starwood Preferred Guest Starwood Hotels Learn about our brands © 2017 Marriott International, Inc., All rights reserved. | AdChoices
 
-© 2017 Marriott International, Inc., All rights reserved. |
-
-AdChoices
-
-*   Website Terms of Use |
-*   Updated Privacy Statement
-*   | Text Only
+*   Youtube
