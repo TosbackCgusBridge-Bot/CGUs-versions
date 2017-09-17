@@ -246,11 +246,4 @@ This privacy policy was last updated on the Effective Date listed above. Please 
 
 Back To Top
 
-Close Stay in touch  
-&. in style
-
-Be the first to know about new products, special offers, store events and more.
-
-Email Field Email Address Form Actions Submit
-
-By submitting, you agree to these Terms &. Conditions. You may unsubscribe any time. View Contact Info and Privacy Policy.
+Close
