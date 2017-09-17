@@ -17,7 +17,7 @@
 *   Profile
 *   Sign Out
 
-Search Location CareerBuilder: Find the right job. Right now. Search Location Recent Searches No Recent Searches Add your resume and let your next job find you. Add Your Resume Employers are using these keywords to search for candidates: Accounting Java (Programming Language) Sales Sql (Programming Language) Linux Finance Microsoft Excel Customer Service Accounts Payable Psychiatric Mental Health Nurse Practitioner Quick Links Resumes Cover Letters Saved &. Applied Jobs Saved Searches Profile Job Recommendations
+Search Location CareerBuilder: Find the right job. Right now. Search Location Recent Searches No Recent Searches Add your resume and let your next job find you. Add Your Resume Employers are using these keywords to search for candidates: Accounting Java (Programming Language) Sales Sql (Programming Language) Linux Finance Customer Service Accounts Payable Microsoft Excel Registered Nurse Quick Links Resumes Cover Letters Saved &. Applied Jobs Saved Searches Profile Job Recommendations
 
 No job recommendations yet, but opportunity is out there!
 
@@ -92,7 +92,6 @@ CareerBuilder
 
 *   About Us
 *   Work at CareerBuilder
-*   Send Feedback
 
 200 N. LaSalle St.  
 Suite 1100  
@@ -119,4 +118,4 @@ Search on the Go
 
 © 2017 CareerBuilder, LLC. All rights reserved.
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=651028534974288&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=651028534974288&amp;ev=PageView&amp;noscript=1">.
