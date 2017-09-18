@@ -46,6 +46,174 @@ Add to Chrome
 *   For you
     
 
+*   Top Categories
+    
+    *   Social Games
+    *   2 player
+    *   Casino Games
+    *   MMO
+    *   .io Games
+    
+    All Multiplayer Browse By
+    
+    *   Most popular
+    *   Most played
+    *   Recently Added
+    *   Alphabetical Order
+    
+    Best Games
+    *   Forge of Empires
+    *   Jackpot
+    *   Goodgame Empire
+    *   Goodgame Poker
+    *   Klondike - the lost expedition
+    *   Family BarnSpotlight Slotomania
+*   Top Categories
+    
+    *   Fighting
+    *   Anime and Manga Games
+    *   Shooting Games
+    *   Strategy
+    *   Tower Defence
+    *   War Games
+    *   Zombie Games
+    
+    All Action Browse By
+    
+    *   Most popular
+    *   Most played
+    *   Recently Added
+    *   Alphabetical Order
+    
+    Best Games
+    *   Swords &. Souls: A Soul Adventure
+    *   Hero Simulator: Idle Adventure
+    *   Takeover
+    *   Super Mechs
+    *   Sniper Team 2
+    *   Mighty Knight 2Spotlight SuperSnake.io
+*   Top Categories
+    
+    *   Platform Games
+    *   Physics
+    *   Funny Games
+    *   Simulation
+    *   Scary Games
+    *   Ninja Games
+    
+    All Adventure Browse By
+    
+    *   Most popular
+    *   Most played
+    *   Recently Added
+    *   Alphabetical Order
+    
+    Best Games
+    *   Papa Louie 3: When Sundaes Attack
+    *   Cactus McCoy 2
+    *   Paladog
+    *   Lego Star Wars Adventure
+    *   Tomb Runner
+    *   Stealth HunterSpotlight Easy Joe World
+*   Top Categories
+    
+    *   Casino Games
+    *   Hidden Objects
+    *   Colored Blocks
+    *   Mahjong
+    *   Match 3
+    *   Solitaire
+    *   Bubble Shooter
+    
+    All Puzzle Browse By
+    
+    *   Most popular
+    *   Most played
+    *   Recently Added
+    *   Alphabetical Order
+    
+    Best Games
+    *   Mahjong Link
+    *   Smarty Bubbles
+    *   Fitz!
+    *   Spider Soli
+    *   Jewel Academy
+    *   Bubble ShooterSpotlight Mahjong Chain
+*   Top Categories
+    
+    *   Animal
+    *   Beauty Games
+    *   Caring
+    *   Cooking
+    *   Room Decoration
+    *   Dress Up
+    *   Love Games
+    *   Princess Games
+    
+    All Girls Browse By
+    
+    *   Most popular
+    *   Most played
+    *   Recently Added
+    *   Alphabetical Order
+    
+    Best Games
+    *   Papa’s Cheeseria
+    *   Shopaholic: Hollywood
+    *   My Puppy Play Day
+    *   My New Room 2
+    *   Hair Do Design
+    *   Gingerbread House: Sara's Cooking ClassSpotlight My Dolphin Show World
+*   Top Categories
+    
+    *   BMX Games
+    *   Truck Games
+    *   Flight Games
+    *   Car Games
+    *   Motor Racing
+    *   Parking
+    *   Boat Racing
+    *   Stunt Driving
+    
+    All Racing Browse By
+    
+    *   Most popular
+    *   Most played
+    *   Recently Added
+    *   Alphabetical Order
+    
+    Best Games
+    *   Valvoline Race of the Decades
+    *   4x4 Soccer
+    *   Mad Day 2
+    *   Bus Man Parking 3D
+    *   ATV Destroyer
+    *   FMX TeamSpotlight Car Eats Car 2: Mad Dreams
+*   Top Categories
+    
+    *   Athletics
+    *   Basketball
+    *   Billiards
+    *   Skateboarding
+    *   Winter Sports
+    *   Golf
+    *   Soccer
+    *   Boxing
+    
+    All Sports Browse By
+    
+    *   Most popular
+    *   Most played
+    *   Recently Added
+    *   Alphabetical Order
+    
+    Best Games
+    *   Billiards Master Pro
+    *   Football Headz Cup
+    *   The Champions 4: World Domination
+    *   Sports Heads Basketball
+    *   Baseball
+    *   SnookerSpotlight England Soccer League
 *   *   Multiplayer
     *   Action
     *   Adventure
