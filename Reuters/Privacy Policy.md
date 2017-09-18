@@ -1,4 +1,4 @@
-Activate to launch comment card This JavaScript enables OnlineOpinion, a method for collecting secure feedback data. <iframe src="//www.googletagmanager.com/ns.html?id=GTM-LD4Q" height="0" width="0" style="display: none. visibility: hidden"></iframe>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-LD4Q" height="0" width="0" style="display: none. visibility: hidden"></iframe>.
 
 *   Discover Thomson Reuters
 *   USA - English
@@ -27,7 +27,7 @@ Legal Solutions | USA
 
 Free Standard Shipping on books!
 
-Advanced Search Law Books Solutions Support Insights &. Trends  
+Law Books Solutions Support Insights &. Trends  
 Home >. westlaw legal research >. practitioner insights <img src="//pixel.quantserve.com/pixel/p-9cSFV8m5u\_KjY.gif?labels=\_fp.event.Campaign+Landing+Page" style="display: none;" border="0" height="1" width="1" alt="" />. Log in to Westlaw Thomson Reuters Westlaw  
 The world's most preferred online legal research service Start your free trial today
 
