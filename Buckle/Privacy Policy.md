@@ -84,8 +84,7 @@
         
           
           
-        Give a Buckle Gift card Support Those Affected by Hurricane Harvey with Our Limited Edition Tees. All Proceeds Go To the American Red Cross.  
-        GET YOUR TEE
+        Give a Buckle Gift card It’s All NEW For Fall! Shop Women’s New Arrivals | Shop Men’s New Arrivals
 *   Men
     *   *   Featured
         
@@ -144,8 +143,7 @@
         
           
           
-        Give a Buckle Gift card Support Those Affected by Hurricane Harvey with Our Limited Edition Tees. All Proceeds Go To the American Red Cross.  
-        GET YOUR TEE
+        Give a Buckle Gift card It’s All NEW For Fall! Shop Women’s New Arrivals | Shop Men’s New Arrivals
 *   Kids
     *   *   Featured
         
@@ -167,8 +165,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card Support Those Affected by Hurricane Harvey with Our Limited Edition Tees. All Proceeds Go To the American Red Cross.  
-        GET YOUR TEE
+        Give a Buckle Gift card It’s All NEW For Fall! Shop Women’s New Arrivals | Shop Men’s New Arrivals
 *   Jeans
     *   *   Women's Jeans
         
@@ -199,8 +196,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Support Those Affected by Hurricane Harvey with Our Limited Edition Tees. All Proceeds Go To the American Red Cross.  
-        GET YOUR TEE
+        Give a Buckle Gift card It’s All NEW For Fall! Shop Women’s New Arrivals | Shop Men’s New Arrivals
 *   New
     *   *   Featured New
         
@@ -241,8 +237,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card Support Those Affected by Hurricane Harvey with Our Limited Edition Tees. All Proceeds Go To the American Red Cross.  
-        GET YOUR TEE
+        Give a Buckle Gift card It’s All NEW For Fall! Shop Women’s New Arrivals | Shop Men’s New Arrivals
 *   Sale
     *   *   Women's Sale
         
@@ -285,8 +280,7 @@
         
           
           
-        Give a Buckle Gift card Support Those Affected by Hurricane Harvey with Our Limited Edition Tees. All Proceeds Go To the American Red Cross.  
-        GET YOUR TEE
+        Give a Buckle Gift card It’s All NEW For Fall! Shop Women’s New Arrivals | Shop Men’s New Arrivals
 
 SearchSubmitSearchSubmit × ClosePrivacy &. Security
 
@@ -383,7 +377,6 @@ Returns
 
 Promotions
 
-*   Buckle Card Score Extra Points
 *   All Promotions
 *   Tax Free Weekends 2017
 *   Store Events
