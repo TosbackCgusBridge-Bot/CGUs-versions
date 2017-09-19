@@ -94,4 +94,4 @@ Search Search Type Residential Business Support
 *   CableONE Site Map
 *   CableONE Remote Connect
 
-Facebook Twitter Google+ YouTube LinkedIn Copyright 2017 , Cable ONE Inc ., All Rights Reserved.
+Facebook Twitter Google+ YouTube LinkedIn Copyright 2017 , Cable ONE Inc ., All Rights Reserved. Live Help is Online.  ×–undefinedChat Input BoxChatPowered by
