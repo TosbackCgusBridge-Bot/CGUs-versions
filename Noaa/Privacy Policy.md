@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Assessing Irma’s destruction from the air: Aerial images available Additional photos will be posted as more flights are conducted AROUND NOAA // Video: Could you survive a rip current? See how NOAA’s JPSS-1 satellite arrives in California for launch 10 greatest sightings, so far, from NOAA’s exploration of the deepwater Pacific U.S. had 15th warmest summer and 3rd warmest year to date on record
+Enter Search Terms Globe sees 2nd warmest year to date, 3rd warmest August on record Arctic and Antarctic sea ice coverage remains at near-record lows AROUND NOAA // Assessing Irma’s destruction from the air: Aerial images available Video: Could you survive a rip current? See how NOAA’s JPSS-1 satellite arrives in California for launch 10 greatest sightings, so far, from NOAA’s exploration of the deepwater Pacific
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-NOAA
+iStock image
