@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Larry Elder_: Have Liberals Rejected King's Colorblind Dream?
+*   _Zalmay Khalilzad_: Trump and the United Nations: Reform or Die?
     
-*   _Larry Kudlow_: Trump Turnaround Raises Odds of Big Tax Cut
+*   _Susan Glasser_: Twitter Man vs. Rocket Man
     
-*   _Fred Barnes_: The President Discombobulates Friend and Foe
+*   _Byron York_: Over DACA, an Acute Case of Trump Panic Syndrome
     
-*   _Jonathan Chait_: Could Trump Betray His Party on Taxes Next?
+*   _Walter Shapiro_: Dancing With the Democrats Will Not Save Trump
     
-*   _Todd Purdum_: 'Burned' Trump Finds Comfort With Democrats
+*   _Newt Gingrich_: Tax Cuts for Small Business Would Change GOP Trajectory
     
-*   _Kurt Schlichter_: Read My Lips: Schumer Is Playing You, Mr. President
+*   _Avik Roy_: Inside Bill Cassidy's Plan to Replace Obamacare
     
-*   _Paul Krugman_: Politicians, Promises, and Getting Real
+*   _Joshua Zeitz_: Identity Politics Is an American Tradition. Because It Works.
     
-*   _James Freeman_: Dems' Coalition of the Descendant
+*   _Victor Davis Hanson_: To Survive, U.S. Must Celebrate Unity, Not Diversity
     
-*   _Sean Illing_: A Trans Military Ban, Like Don't Ask Don't Tell, Won't Work
+*   _Jeet Heer_: Hillary Clinton's Legacy Is Huge and Lasting
     
-*   _Julie Pulley_: Trump's Trans Ban Makes Military and Medical Sense
+*   _Daniel Sobieski_: New Clinton Emails Warrant Special Prosecutor
     
-*   _Stewart Patrick &. Megan Roberts_: Trump and Guterres -- a Diplomatic Odd Couple
+*   _Jeff Fager_: How Don Hewitt Invented 60 Minutes &. Changed Journalism
     
-*   _Jay Newman_: Keep Your Eye on the U.N.'s Fat Kleptocats
+*   _Robert Samuelson_: The Middle Class Is Making a Comeback
     
-*   _David Volodzko_: North Korea's Secret Weapon? Economic Growth.
+*   _E.J. Dionne_: Save Obamacare First, Then Go for Single Payer
     
-*   _John Cassidy_: An About-Face on DACA?
+*   _Betsy McCaughey_: How BernieCare for All Slams Working People
     
-*   _James Robbins_: Bipartisanship Is Back at the White House
+*   _Shinzo Abe_: Solidarity Against the North Korean Threat
     
-*   _Arkin & Huey-Burns_: Dems, GOP Lawmakers Wary of Trump's DACA 'Deal'
+*   _Gordon Chang_: War With North Korea Starts to Look Inevitable
     
-*   _David Catanese_: Dawn of the Berniecratic Party
+*   _Kean &. Roemer_: Washington Dysfunction Is Damaging National Security
     
-*   _Matthew Continetti_: Democrats Follow Bernie Sanders Off a Cliff
+*   _Matthew Walther_: The Lost Democrats
     
-*   _Gillian Tett_: The Strange Case of Donald Trump and the Missing Infrastructure
+*   _Kyle Smith_: The Real Title of Hillary's Book: Why I Should've Won
     
-*   _Lee Smith_: Our Iran Problems Run Deep, Thanks to Obama
+*   _Leah Singer_: Moving From a Blue to a Red State Changed My Life
     
-*   _David Ignatius_: The Iran Nuclear Deal May Not Be Perfect. But Don't Scrap It.
+*   _Charles Blow_: Yes, Trump Is a White Supremacist
     
-*   _Michael Auslin_: 'Land of No Good Options'
+*   _Charles Hurt_: Trump 'Experts' and Their Racial Slurs
     
-*   _Hadley Freeman_: Anti-Clinton Vitriol Reveals a Nation Mired in Misogyny
+*   _Ganesh Sitaraman_: Our Constitution Wasn't Built for This
     
-*   _Kimberly Strassel_: Here's What Really Happened to Hillary
+*   _Sohrab Ahmari_: The Terrible American Turn Toward Illiberalism
     
 
 *   Previous
@@ -262,10 +262,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump to Make U.N. Debut With Speech Offering Warmth to Allies
+*   Politics and Sean Spicer Take Center Stage at Emmy Awards
+*   Haley: "It Is a New Day at the United Nations"
 *   Dems, Republican Lawmakers Wary of Trump's DACA "Deal"
-*   North Korea Fires Missile Over Japan in Longest-Ever Flight
-*   Hannity: The Wall Better Be Part of Trump's Deal
-*   Will the 2018 House Elections Be 2006 All Over Again?
 *   Trump Seeks to Speed Up Hill Deliberation on Taxes
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Virginia Governor - Gillespie vs. NorthamSuffolk\*
+    *   Northam42
+    *   Gillespie42Tie
+*   Alabama Senate Run-Off Election - Moore vs. StrangeJMC Analytics
+    *   Moore50
+    *   Strange42Moore +8
 *   President Trump Job ApprovalGallup
     *   Approve38
-    *   Disapprove57Disapprove +19
-*   President Trump Job ApprovalMarist
-    *   Approve41
-    *   Disapprove50Disapprove +9
+    *   Disapprove56Disapprove +18
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove55Disapprove +12
-*   New Jersey Governor - Guadagno vs. MurphyQuinnipiac
-    *   Murphy58
-    *   Guadagno33Murphy +25
+    *   Approve44
+    *   Disapprove55Disapprove +11
 
 More Latest Polls In The News
 
-*   Tillerson: "Peaceful Pressure Campaign" on North Korean Nuclear Program Is "Unanimous" Policy Of World
+*   Charles Murray on Universal Basic Income: Give Every Citizen $10,000 A Year In Disposable Income
+*   President Trump: United Nations Must "Regain The Trust Of The People Of The World"
+*   Clinton: Would Not Rule Out Questioning Legitimacy Of Election If Deep Russia Interference Confirmed
 *   Schiff: Why Is It So Hard For President Trump To Acknowledge President Obama Did Anything Right?
 *   Tom Cotton: DREAM Act Would Be "Single Biggest Amnesty In History Of The U.S."
-*   Maher: Sen. Menendez Shouldn't Resign If Convicted, I Don't Care If He's A Menendez Brother
-*   David Brooks on Clinton: I Like Institutionalists. I Think Organizations Change History, Rarely A Person
 
 *   Politics
 *   Policy
