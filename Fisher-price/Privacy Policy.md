@@ -1,5 +1,5 @@
-× Save 20% and Sign up  
-for VIP Rewards\* Save 20% and Sign up for VIP Rewards\* icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev iconicon-tag-close icon Toggle navigation Menu Go 0 Sign In / Register
+× Become a Very Important  
+Parent and Save 20%\* Become a Very Important Parent and Save 20%\* icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev iconicon-tag-close icon Toggle navigation Menu Go 0 Sign In / Register
 
 *   SHOP
     
