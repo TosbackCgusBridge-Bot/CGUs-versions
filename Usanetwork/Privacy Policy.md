@@ -35,12 +35,14 @@ Skip to main content
             12.  UNIVERSOUNIVERSOModern general entertainment for Latinos, bringing the world's top sports franchises and edgy, emotional programming to more than 40 million households.UNIVERSO
             13.  USA NetworkUSA NetworkA powerful portfolio of scripted and unscripted drama and comedy originals seen in more than 102 million U.S. homes. USA Network
         3.  Digital Businesses
-            1.  CraftsyCraftsyCraftsy is the preeminent online destination for passionate makers to learn, create and share.Craftsy
-            2.  FandangoFandangoThe nation's leading moviegoer destination. Sells tickets to more than 24,000 screens nationwide.Fandango
-            3.  GolfNowGolfNowUses leading-edge technology to offers nearly 2 million registered golfers more ways to stay connected to their favorite courses and tee times.GolfNow
-            4.  HuluHuluA premium streaming TV destination that seeks to captivate and connect viewers with the stories they love.Hulu
-            5.  SeesoSeesoA new streaming comedy channel offering original and library TV and Film content for $3.99 per monthSeeso
-            6.  SportsEngineSportsEngineHelping the world play smarter and live more, SportsEngine, Inc., an NBC Sports Group company, is the leading provider of Sport Life Management web software and mobile applications for youth, amateur, and professional sports.SportsEngine
+            1.  AwesomenessTVAwesomenessTVAwesomenessTV is a leading destination for original programming serving the global Gen Z audience.AwesomenessTV
+            2.  CraftsyCraftsyCraftsy is the preeminent online destination for passionate makers to learn, create and share.Craftsy
+            3.  FandangoFandangoThe nation's leading moviegoer destination. Sells tickets to more than 24,000 screens nationwide.Fandango
+            4.  GolfNowGolfNowUses leading-edge technology to offers nearly 2 million registered golfers more ways to stay connected to their favorite courses and tee times.GolfNow
+            5.  HuluHuluA premium streaming TV destination that seeks to captivate and connect viewers with the stories they love.Hulu
+            6.  PrivPrivPRIV is a mobile and web platform that delivers vetted beauty and wellness professionals to your location. Priv
+            7.  SeesoSeesoA new streaming comedy channel offering original and library TV and Film content for $3.99 per monthSeeso
+            8.  SportsEngineSportsEngineHelping the world play smarter and live more, SportsEngine, Inc., an NBC Sports Group company, is the leading provider of Sport Life Management web software and mobile applications for youth, amateur, and professional sports.SportsEngine
         4.  Film
             
             1.  DreamWorks AnimationDreamWorks AnimationDreamWorks Animation
@@ -101,10 +103,12 @@ Skip to main content
                 *   UNIVERSO
                 *   USA Network
         *   *   DIGITAL BUSINESSES
+                *   AwesomenessTV
                 *   Craftsy
                 *   Fandango
                 *   GolfNow
                 *   Hulu
+                *   Priv
                 *   Seeso
                 *   SportsEngine
             *   FILM
@@ -183,4 +187,4 @@ Cookies/ tracking technologies are used on some of our online services to serve 
 *   Supply Chain Values
 *   Terms of Service
 
-© 2017 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/2447246" height="1" width="1" alt="" /></a></div>.
+© 2017 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/9582647" height="1" width="1" alt="" /></a></div>.
