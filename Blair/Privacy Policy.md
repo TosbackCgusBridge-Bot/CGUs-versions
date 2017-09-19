@@ -1,8 +1,6 @@
-  Offer Details
+    Offer Details
 
-Use promotion code **BGQF** at checkout for free standard shipping on your Blair order. Additional shipping charges apply for express, heavyweight and deliveries outside the continental US. This offer cannot be combined with other offers. not valid on previously placed or international orders. good online only through September 17, 2017.
-
- 
+Use promotion code **BGRQ** at checkout to save 25% on the highest-priced item in your Blair merchandise order. Savings applies to merchandise prices only. This offer cannot be combined with other offers. not valid on previously placed or international orders. good online only through September 22, 2017.
 
 Shop your favorite stores and discover new ones  
   
