@@ -1,4 +1,3 @@
-*   DET1-0NYG0-1September 18, 2017 8:30:00 PM EDT ET
 *   HOU1-113CIN0-29Final
 *   CLE0-210BAL2-024Final
 *   BUF1-13CAR2-09Final
@@ -14,6 +13,7 @@
 *   WAS1-127LA1-120Final
 *   SF0-29SEA1-112Final
 *   GB1-123ATL2-034Final
+*   DET2-024NYG0-210Final
 
 *   News
 *   Scores
@@ -31,7 +31,6 @@
 *   NFL Network
 *   Photos
 
-*   DET1-0NYG0-1September 18, 2017 8:30:00 PM EDT ET
 *   HOU13CIN9Final
 *   CLE10BAL24Final
 *   BUF3CAR9Final
@@ -47,6 +46,7 @@
 *   WAS27LA20Final
 *   SF9SEA12Final
 *   GB23ATL34Final
+*   DET24NYG10Final
 
 *   News
 *   Scores
