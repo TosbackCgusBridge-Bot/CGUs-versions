@@ -300,6 +300,7 @@ View the Fidelity Investments and the Fidelity Funds Privacy Notice (PDF)
 *   Retirement Products
 *   Retirement Planning
 *   529 Plans
+*   Charitable Giving
 *   FINRA's BrokerCheck
 *   Guest Access
 
