@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
-*   Ubuntu Desktop Weekly Update: September 15, 2017 ›
-*   Security Team Weekly Summary: September 14, 2017 ›
-*   Kernel Team Summary – September 13, 2017 ›
-*   Running Ubuntu Containers with Hyper-V Isolation on Windows ›
-*   Congratulations to GNOME on the release of 3.26 ›
+*   Ubuntu Server Development Summary – 19 Sep 2017 ›
+*   Results of the Ubuntu Desktop Applications Survey ›
+*   Webinar: OpenStack Pike is here, what’s new? ›
+*   MAAS 2.3.0 Alpha 3 release! ›
+*   LXD: Weekly Status #15 ›
