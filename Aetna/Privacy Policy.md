@@ -1,10 +1,10 @@
 Skip to main content
 
-Aetna.com works best with Internet Explorer 11 and above. Learn more >
+Aetna.com works best with Internet Explorer 11 and above, and does not work in compatibility mode. Learn more >
 
 Aetna.com works best with Safari 8 and above. Learn more >
 
-If your browser is in Private mode, pages that use personal or geographic information may not work.
+If your browser is in Private mode, pages that use personal or geographic information may not work. Learn more about private mode. >
 
 *   Individuals &. Families  
 *   Employers &. Organizations  
@@ -12,8 +12,7 @@ If your browser is in Private mode, pages that use personal or geographic inform
 *   Producers  
 *   About Us  
 
-Search Individuals &. Families Shop For  
- 
+Search Individuals &. Families Shop For
 
 *   Health Insurance
 *   Plans on the Health Insurance Marketplace
@@ -22,7 +21,6 @@ Search Individuals &. Families Shop For
 *   International Insurance
 *   Medicare
 *   Medicaid
-*   Benefits of Joining Aetna
 
 Insurance through an Employer
 
@@ -32,7 +30,7 @@ Insurance through an Employer
 *   Life Insurance
 *   Disability Insurance
 *   Government &. Labor Insurance
-*   Supplemental Insurance
+*   Voluntary Benefits
 
 Information &. Resources
 
@@ -47,8 +45,7 @@ Information &. Resources
 *   Mental &. Emotional Health
 *   Success Stories
 
-For Members  
- 
+For Members
 
 *   Rights &. Resources
 *   Find a Form
@@ -70,7 +67,7 @@ For Members
 *   For Health Care Professionals
 *   For Producers
 *   About Us
-*   News &amp Analysis
+*   News &. Analysis
 
 Employers &. Organizations Support &. Resources
 
@@ -89,7 +86,7 @@ Products &. Programs
 *   Multi-Employer Labor Funds
 *   Public Sector
 *   Retiree Health Plans
-*   Part-Time, Seasonal &. Hourly Employee Benefits
+*   Voluntary Benefits
 *   Aetna International Insurance
 
 For Small Businesses
@@ -113,10 +110,9 @@ Helpful Links
 *   For Health Care Professionals
 *   For Producers
 *   About Us
-*   News &amp Analysis
+*   News &. Analysis
 
-Health Care Professionals Working with Us  
- 
+Health Care Professionals Working with Us
 
 *   Join the Network
 *   Claims, Payment &. Reimbursement
@@ -140,8 +136,7 @@ Resources for Health Care Professionals
 *   Education &. Manuals
 *   Insurance Regulations by State
 
-Helpful Links  
- 
+Helpful Links
 
 *   Secure Provider Website
 *   AetnaDental.com
@@ -162,7 +157,7 @@ Helpful Links
 *   For Employers &. Organizations
 *   For Producers
 *   About Us
-*   News &amp Analysis
+*   News &. Analysis
 
 Producers Working with Us
 
@@ -183,7 +178,7 @@ Plans &. Services
 *   Behavioral Health Programs
 *   Health &. Wellness
 *   International Insurance
-*   Voluntary Products
+*   Voluntary Benefits
 
 Helpful Links
 
@@ -248,7 +243,7 @@ Investors
 *   For Employers &. Organizations
 *   For Health Care Professionals
 *   For Producers
-*   News &amp Analysis
+*   News &. Analysis
 
 *   For Individuals &. Families
 *   For Employers &. Organizations
@@ -288,6 +283,7 @@ As you navigate our Applications and communicate with Aetna (sometimes referred 
 *   How Do We Acquire and Use Non-Personally Identifiable Information?
 *   How Do We Protect Your Information?
 *   Behavioral Advertising
+*   Cross Device Linking and Advertising
 *   Your Email
 *   Linking to Other Websites and Applications
 *   Changes to Aetna’s Privacy Statement
@@ -365,6 +361,18 @@ See our interest-based ads policy 
 
 Back to top
 
+**Cross Device Linking and Advertising**
+
+Aetna’s third-party service provider, Neustar, uses a variety of technologies to assess how our sites or mobile applications are used, to help us personalize your experience and to help us deliver advertising, including online content, tailored to your interests.
+
+Our service provider may also create and store linkages between and among household or individual level identifiers such as Cookies, mobile advertising IDs, hashed email addresses and/or other persistent IDs that have been assigned to a unique but de-identified user. This process is sometimes called “cross device linking,” which is a technique used to predict or determine a likely association or relationship between two or more devices such as smartphones, tablets, desktop computers, etc. These de-identified linkages are not stored or merged with personal information about you. 
+
+Our service provider will honor your preferences regarding cross device linking.  You can opt out of cross device linking on our service provider’s website.  
+
+Opt out of Neustar cross device linking and advertising 
+
+Back to top
+
 **Your e-mail**
 
 We welcome your comments or questions about our Applications and have provided e-mail boxes for that purpose. We will share your comments and questions with our customer service representatives and those employees most capable of addressing your questions and concerns.
@@ -389,7 +397,7 @@ Aetna may change this Privacy Statement from time to time. when updates are made
 
 Back to top
 
-Privacy statement update: 7/28/16
+Privacy statement update: 9/19/17
 
 *   Glossary
 *   Health Care Reform
@@ -411,11 +419,11 @@ Privacy statement update: 7/28/16
 *   Privacy Center
 *   State Directory
 
-Copyright © 2001-\[current-year\] Aetna Inc.
+Copyright © 2001-2017 Aetna Inc.
 
- Language services can be provided by calling the number on your member ID card. For additional language assistance: Español | 中文 | Tiếng Việt | 한국어 | Tagalog | Pусский | العربية | Kreyòl | Français | Polski | Português | Italiano | Deutsch | 日本語 | فارسی | Other Languages…
+ For language services, please call the number on your member ID card and request an operator.  For other language services:  Español | 中文 | Tiếng Việt | 한국어 | Tagalog | Pусский | العربية | Kreyòl | Français | Polski | Português | Italiano | Deutsch | 日本語 | فارسی | Other Languages…
 
-JavaScript is required
+<img src="https://aetna.112.2o7.net/b/ss/aetnagssprod/1/H.26--NS/0" height="1" width="1" alt=""/>. <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="https://webstats.aetna.com/dcs9a1185100004ztp0jf250k\_5o4s/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.3.0"/></div>. ✓Facebook Twitter Google+ Pinterest LinkedIn StumbleUpon Digg Facebook Messenger Flipboard Copy Link Delicious Email Reddit Tumblr WordPress Google Gmail WhatsApp AIM Amazon Wish List AOL Mail Balatarin BibSonomy Bitty Browser Blinklist Blogger Post BlogMarks Bookmarks.fr Box.net BuddyMarks Buffer Care2 News CiteULike Design Float Diary.Ru Diaspora diHITT Diigo Douban Draugiem DZone Evernote Fark Folkd Google Bookmarks Google Classroom Hacker News Hatena Houzz Instapaper Jamespot Kakao Kik Kindle It Known Line LiveJournal Mail.Ru Mendeley Meneame Mixi MySpace Netlog Netvouz NewsVine NUjij Odnoklassniki Oknotizie Outlook.com Papaly Pinboard Plurk Pocket Polyvore Print PrintFriendly Protopage Bookmarks Pusha Qzone Rediff MyPage Refind Renren Segnalo Sina Weibo SiteJot Skype Slashdot SMS StockTwits Stumpedia Svejo Symbaloo Feeds Telegram Threema Trello Tuenti Twiddla TypePad Post Viadeo Viber VK Wanelo Webnews WeChat Wykop XING Yahoo Bookmarks Yahoo Mail Yahoo Messenger Yoolink YouMob Yummly AddToAnyFacebook Twitter Google+ Pinterest LinkedIn StumbleUpon Digg Facebook Messenger Google Gmail AOL Mail Outlook.com Yahoo Mail Email app More… JavaScript is required
 
 In order to have the best experience on Aetna.com, Javascript needs to be enabled.  
 Learn how to change your browser settings to enable Javascript.
@@ -424,7 +432,7 @@ You are now leaving the Aetna website
 
 Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy, or privacy practices of linked sites, or for products or services described on these sites.
 
-Continue >. Member Log In
+Continue >. Member Login
 
 Do you have Aetna insurance through an employer or are you a Medicare member? Yes No
 
@@ -436,21 +444,7 @@ My ZIP code is: Select your county Select your county
 
 Please enter a valid ZIP code
 
-Continue
-
-Continue
-
-Continue
-
-Continue
-
-Continue
-
-Continue
-
-Continue
-
-Continue Please enter all of your information Member Log In
+<div class="par parsys"><div class="progressivePageDeepLinksSection section">. <div class="deep-link-section hidden-element" data-name="ldl-find-doc">. <div class="articleModule parbase section">. <div class="articleModule ">. <p><a class="blueBtn whiteBtn full-width " href="https://member.aetna.com/appConfig/login/login.fcc?TYPE=33554433&amp;REALMOID=06-36d8cb4d-4ac1-44c7-b12d-a80fba4b718e&amp;GUID=&amp;SMAUTHREASON=0&amp;METHOD=GET&amp;SMAGENTNAME=-SM-jRs63Nsa3LlO0w8DBRJePrGDb%2fSrW4lCcEp3BCF2N5CYudNJWAZ6IAjtTBQZYxKV&amp;TARGET=-SM-HTTPS%3a%2f%2fmember%2eaetna%2ecom%2fMbrLanding%2fRoutingServlet%3fcreateSession%3dtrue%26navDeepLink%3dDOCFINDDEEPLINK" onclick="ClientContext.set('/profile/audience/member', 'returning');Aetna.analytics.omniture.linkCode('aeMemLnkSecA','Deep Link:Find A Doctor',this);s.tl(this,'e',linkText);">Continue</a></p>. </div></div>. </div>. </div>. <div class="progressivePageDeepLinksSection section">. <div class="deep-link-section hidden-element" data-name="ldl-view-coverage">. <div class="articleModule parbase section">. <div class="articleModule ">. <p><a class="blueBtn whiteBtn full-width " href="https://member.aetna.com/appConfig/login/login.fcc?TYPE=33554433&amp;REALMOID=06-36d8cb4d-4ac1-44c7-b12d-a80fba4b718e&amp;GUID=&amp;SMAUTHREASON=0&amp;METHOD=GET&amp;SMAGENTNAME=-SM-jRs63Nsa3LlO0w8DBRJePrGDb%2fSrW4lCcEp3BCF2N5CYudNJWAZ6IAjtTBQZYxKV&amp;TARGET=-SM-HTTPS%3a%2f%2fmember%2eaetna%2ecom%2fMbrLanding%2fRoutingServlet%3fcreateSession%3dtrue%26custNumSel%3dA%26serviceName%3dhome%26navDeepLink%3dBENEFITSUMMARYLNK" onclick="ClientContext.set('/profile/audience/member', 'returning');Aetna.analytics.omniture.linkCode('aeMemLnkSecA','Deep Link:View Coverage',this);s.tl(this,'e',linkText);">Continue</a></p>. </div></div>. </div>. </div>. <div class="progressivePageDeepLinksSection section">. <div class="deep-link-section hidden-element" data-name="ldl-check-claim">. <div class="articleModule parbase section">. <div class="articleModule ">. <p><a class="blueBtn whiteBtn full-width " href="https://member.aetna.com/appConfig/login/login.fcc?TYPE=33554433&amp;REALMOID=06-36d8cb4d-4ac1-44c7-b12d-a80fba4b718e&amp;GUID=&amp;SMAUTHREASON=0&amp;METHOD=GET&amp;SMAGENTNAME=-SM-jRs63Nsa3LlO0w8DBRJePrGDb%2fSrW4lCcEp3BCF2N5CYudNJWAZ6IAjtTBQZYxKV&amp;TARGET=-SM-HTTPS%3a%2f%2fmember%2eaetna%2ecom%2fMbrLanding%2fRoutingServlet%3fcreateSession%3dtrue%26custNumSel%3dA%26serviceName%3dhome%26navDeepLink%3dviewClaimsLNK" onclick="ClientContext.set('/profile/audience/member', 'returning');Aetna.analytics.omniture.linkCode('aeMemLnkSecA','Deep Link:Check Claim',this);s.tl(this,'e',linkText);">Continue</a></p>. </div></div>. </div>. </div>. <div class="progressivePageDeepLinksSection section">. <div class="deep-link-section hidden-element" data-name="ldl-get-id-card">. <div class="articleModule parbase section">. <div class="articleModule ">. <p><a class="blueBtn whiteBtn full-width " href="https://member.aetna.com/MbrLanding/RoutingServlet?createSession=true&amp;custNumSel=A&amp;serviceName=home&amp;navDeepLink=IDCARDLNK" onclick="ClientContext.set('/profile/audience/member', 'returning');Aetna.analytics.omniture.linkCode('aeMemLnkSecA','Deep Link:Get an ID Card',this);s.tl(this,'e',linkText);">Continue</a></p>. </div></div>. </div>. </div>. <div class="progressivePageDeepLinksSection section">. <div class="deep-link-section hidden-element" data-name="ldl-update-account">. <div class="articleModule parbase section">. <div class="articleModule ">. <p><a class="blueBtn whiteBtn full-width " href="https://member.aetna.com/MbrLanding/RoutingServlet?createSession=true&amp;custNumSel=A&amp;serviceName=home&amp;navDeepLink=PERSONALPROFILELNK" onclick="ClientContext.set('/profile/audience/member', 'returning');Aetna.analytics.omniture.linkCode('aeMemLnkSecA','Deep Link:Update Account',this);s.tl(this,'e',linkText);">Continue</a></p>. </div></div>. </div>. </div>. <div class="progressivePageDeepLinksSection section">. <div class="deep-link-section hidden-element" data-name="ldl-login">. <div class="articleModule parbase section">. <div class="articleModule ">. <p style="font-family: tahoma, arial, helvetica, sans-serif. font-size: 12px;"><a class="blueBtn whiteBtn full-width " href="https://member.aetna.com/appConfig/login/login.fcc?TYPE=33554433&amp;REALMOID=06-36d8cb4d-4ac1-44c7-b12d-a80fba4b718e&amp;GUID=&amp;SMAUTHREASON=0&amp;METHOD=GET&amp;SMAGENTNAME=-SM-xU5km2Pz5%2f9A%2f2FCwUlXE48HlDkyH9ruz3da8Iqw6pwcy09mgHFN5RmlkMNqguY5&amp;TARGET=-SM-HTTPS%3a%2f%2fmember%2eaetna%2ecom%2fMbrLanding%2fRoutingServlet%3fcreateSession%3dtrue&amp;WT.svl=Login\_nav" onclick="ClientContext.set('/profile/audience/member', 'returning');Aetna.analytics.omniture.linkCode('aeLoginClkA','Deep Link:Log In',this);s.tl(this,'e',linkText);">Continue</a></p>. </div></div>. </div>. </div>. <div class="progressivePageDeepLinksSection section">. <div class="deep-link-section hidden-element" data-name="ldl-register">. <div class="articleModule parbase section">. <div class="articleModule ">. <p style="font-family: tahoma, arial, helvetica, sans-serif. font-size: 12px;"><a class="blueBtn whiteBtn full-width " href="https://member.aetna.com/appConfig/navRegistration/regRedirect.html" onclick="ClientContext.set('/profile/audience/member', 'returning');Aetna.analytics.omniture.linkCode('aeRegClkA','Deep Link:Register',this);s.tl(this,'e',linkText);">Continue</a></p>. </div></div>. </div>. </div>. </div>. Continue Please enter all of your information Member Log In
 
 Do you have Aetna insurance through an employer or are you a Medicare member? Yes No
 
@@ -462,4 +456,4 @@ My ZIP code is: Select your county Select your county
 
 Please enter a valid ZIP code
 
-Continue Please enter all of your information This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
+Continue Please enter all of your information FeedbackWill open a new window This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
