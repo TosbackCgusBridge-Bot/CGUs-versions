@@ -271,6 +271,6 @@ Global Sites*   Australia: English
 
 The Nature Conservancy is a nonprofit, tax-exempt charitable organization (tax identification number 53-0242652) under Section 501(c)(3) of the Internal Revenue Code. Donations are tax-deductible as allowed by law.
 
-\*By providing my mobile phone number, I agree that The Nature Conservancy may contact me by mobile phone call and text message regarding the Conservancy's programs, events and membership. Terms of Use | Privacy Policy
+\*By providing your mobile phone number, you agree that The Nature Conservancy may contact you by mobile phone call and text message regarding the Conservancy's programs, events and membership, subject to our Mobile Service Provider's Terms of Use and Mobile Service Provider's Privacy Policy.
 
 SUBSCRIBE Please provide a valid email address Cancel
