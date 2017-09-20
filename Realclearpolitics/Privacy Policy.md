@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Zalmay Khalilzad_: Trump and the United Nations: Reform or Die?
+*   _Rich Lowry_: A Jacksonian Speech in Turtle Bay
     
-*   _Susan Glasser_: Twitter Man vs. Rocket Man
+*   _Evan Osnos_: Why China Won't Pressure N. Korea as Much as U.S. Wants
     
-*   _Byron York_: Over DACA, an Acute Case of Trump Panic Syndrome
+*   _Caitlin Huey-Burns_: At U.N., Trump Threatens to 'Totally Destroy' N. Korea
     
-*   _Walter Shapiro_: Dancing With the Democrats Will Not Save Trump
+*   _James Blumstein_: How to End Obamacare in Two Pages
     
-*   _Newt Gingrich_: Tax Cuts for Small Business Would Change GOP Trajectory
+*   _Chris Cillizza_: Trump's Unpresidential Presidency Keeps Hitting New Lows
     
-*   _Avik Roy_: Inside Bill Cassidy's Plan to Replace Obamacare
+*   _Roger Stone_: Russian Collusion? It's a Delusion
     
-*   _Joshua Zeitz_: Identity Politics Is an American Tradition. Because It Works.
+*   _Samantha Power_: Why Foreign Propaganda Is More Dangerous Now
     
-*   _Victor Davis Hanson_: To Survive, U.S. Must Celebrate Unity, Not Diversity
+*   _Salena Zito_: The Day That Destroyed the Working Class
     
-*   _Jeet Heer_: Hillary Clinton's Legacy Is Huge and Lasting
+*   _Christopher DeMuth_: The Dangers of Letting Legislative Power Atrophy
     
-*   _Daniel Sobieski_: New Clinton Emails Warrant Special Prosecutor
+*   _Juan Williams_: Momentum Builds Against Gerrymandering
     
-*   _Jeff Fager_: How Don Hewitt Invented 60 Minutes &. Changed Journalism
+*   _Mary Ham_: After My Husband's Death, Stewarding the Light He Left Us
     
-*   _Robert Samuelson_: The Middle Class Is Making a Comeback
+*   _Eugene Robinson_: What Happened? America's Political Axis Tilted.
     
-*   _E.J. Dionne_: Save Obamacare First, Then Go for Single Payer
+*   _William Allen_: A Way Out for Dems: The President Offers a Deal
     
-*   _Betsy McCaughey_: How BernieCare for All Slams Working People
+*   _Jen Psaki_: World Leaders, Help Us Out Here
     
-*   _Shinzo Abe_: Solidarity Against the North Korean Threat
+*   _Fassihi &. Stokols_: Trump to Push Nationalist Policy in First U.N. Address
     
-*   _Gordon Chang_: War With North Korea Starts to Look Inevitable
+*   _Jeffrey Frank_: Will Trump Keep Swimming With the Democrats?
     
-*   _Kean &. Roemer_: Washington Dysfunction Is Damaging National Security
+*   _Jason Hill_: An Open Letter to Ta-Nehisi Coates: The Dream Is Real
     
-*   _Matthew Walther_: The Lost Democrats
+*   _Jonathan Capehart_: 'The First White President' Is a 'Bad Dude'
     
-*   _Kyle Smith_: The Real Title of Hillary's Book: Why I Should've Won
+*   _Daniel Payne_: Leftists at UVA Prove Trump Right on Jefferson Statues
     
-*   _Leah Singer_: Moving From a Blue to a Red State Changed My Life
+*   _Byron York_: New Deadline for FBI as Trump Dossier Standoff Deepens
     
-*   _Charles Blow_: Yes, Trump Is a White Supremacist
+*   _Bradley Moss_: The Hapless Smear Campaign Against Jim Comey
     
-*   _Charles Hurt_: Trump 'Experts' and Their Racial Slurs
+*   _Caitlin Huey-Burns_: Trump's U.N. Trip Draws Spotlight to Nikki Haley
     
-*   _Ganesh Sitaraman_: Our Constitution Wasn't Built for This
+*   _John Moody_: Listen Up, U.N.: Trump Means What He's Telling You
     
-*   _Sohrab Ahmari_: The Terrible American Turn Toward Illiberalism
+*   _Gordon Sander_: When the U.S. Almost Went to War With North Korea
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump to Make U.N. Debut With Speech Offering Warmth to Allies
+*   Obamacare Repeal Plan Is Gaining Momentum
+*   Trump's U.N. Trip Draws Spotlight to Nikki Haley
+*   Trump: United Nations Must Regain the Trust of People of the World
 *   Politics and Sean Spicer Take Center Stage at Emmy Awards
-*   Haley: "It Is a New Day at the United Nations"
 *   Dems, Republican Lawmakers Wary of Trump's DACA "Deal"
-*   Trump Seeks to Speed Up Hill Deliberation on Taxes
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Virginia Governor - Gillespie vs. NorthamSuffolk\*
+*   Virginia Governor - Gillespie vs. NorthamFOX News\*
     *   Northam42
-    *   Gillespie42Tie
-*   Alabama Senate Run-Off Election - Moore vs. StrangeJMC Analytics
-    *   Moore50
-    *   Strange42Moore +8
+    *   Gillespie38Northam +4
+*   Virginia Governor - Gillespie vs. NorthamMason-Dixon\*
+    *   Northam44
+    *   Gillespie43Northam +1
 *   President Trump Job ApprovalGallup
     *   Approve38
-    *   Disapprove56Disapprove +18
+    *   Disapprove55Disapprove +17
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove55Disapprove +11
+    *   Approve43
+    *   Disapprove55Disapprove +12
 
 More Latest Polls In The News
 
-*   Charles Murray on Universal Basic Income: Give Every Citizen $10,000 A Year In Disposable Income
-*   President Trump: United Nations Must "Regain The Trust Of The People Of The World"
-*   Clinton: Would Not Rule Out Questioning Legitimacy Of Election If Deep Russia Interference Confirmed
-*   Schiff: Why Is It So Hard For President Trump To Acknowledge President Obama Did Anything Right?
-*   Tom Cotton: DREAM Act Would Be "Single Biggest Amnesty In History Of The U.S."
+*   Trump: "For Years I've Been A Critic" Of The United Nations, But Never Denied Its "Tremendous," "Epic" Potential
+*   Hillary Clinton on WikiLeaks, Pizzagate, Russian Agitprop: "If We Don't Get A Handle On This... It Will Not Stop"
+*   Trump: North Korean Regime Is A "Band Of Criminals" Led By "Rocket Man On A Suicide Mission"
+*   CNN's Nia-Malika Henderson: People In North Korea And Venezuela Also Think They Are Protecting Their Sovereignty
+*   DREAMers Shout Down Nancy Pelosi: "We Owe You Nothing... This Is Our Democracy"
 
 *   Politics
 *   Policy
