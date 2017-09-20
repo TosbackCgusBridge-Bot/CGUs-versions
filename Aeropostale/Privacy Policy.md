@@ -98,6 +98,7 @@ Close submenu ( Tops ) Tops
 
 *   View All
 *   Tees
+*   Graphic Tees
 *   Long Sleeve
 *   Shirts
 *   Tanks
@@ -198,12 +199,10 @@ Close submenu ( Girls ) Girls
 *   View All
 *   Hem Details
 *   Ruffles
-*   Rompers
 *   Lace Up
 *   Baby Tees
 *   Fashion Fleece
 *   Velour
-*   Ruffle Shoulder Detail
 
 Close submenu ( Guys ) Guys
 
@@ -249,7 +248,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**50-70% OFF** + **FREE SHIPPING ON $87** OR **$5 FLAT RATE**
+**FREE SHIPPING ON ALL ORDERS - TODAY ONLY!**
 
 *   My Account My Account Login Register
 
@@ -319,6 +318,7 @@ Menu Find a Store Aeropostale
     *   Tops
         *   View All
         *   Tees
+        *   Graphic Tees
         *   Long Sleeve
         *   Shirts
         *   Tanks
@@ -396,12 +396,10 @@ Menu Find a Store Aeropostale
         *   View All
         *   Hem Details
         *   Ruffles
-        *   Rompers
         *   Lace Up
         *   Baby Tees
         *   Fashion Fleece
         *   Velour
-        *   Ruffle Shoulder Detail
     
     *   Guys
         *   View All
@@ -462,10 +460,10 @@ OUR FEATURED STYLES
 *   LLD Long Sleeve Cloud Fleece Crew Tee $39.50 $18.00
 *   Faux Leather Moto Jacket $89.50 $35.00
 *   Long Sleeve Ribbed Cold-Shoulder Top $36.50 $14.60
-*   Seriously Stretchy High-Waisted Ankle Jegging $59.50
+*   Buy One Get One Free Seriously Stretchy High-Waisted Ankle Jegging $59.50
 *   CAMO PUFFER VEST $49.50 $24.75
 *   Prince &. Fox Solid Oxford Button Down $44.50 $14.00
-*   Skinny Indigo Green Dark Wash Reflex Jean $49.50
+*   Buy One Get One Free Skinny Indigo Green Dark Wash Reflex Jean $49.50
 *   LLD Fuzzy Fleece Jogger $44.50 $20.00
 *   LLD Lace Strappy Cross-Back Bralette $24.50 $10.00
 *   LLD Long Sleeve Cloud Fleece Crew Tee $39.50 $18.00
@@ -513,4 +511,4 @@ Stay Connected
 
 *   Live ChatCall Us
 
-© 2017 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+© 2017 Aeropostale. All Rights Reserved.
