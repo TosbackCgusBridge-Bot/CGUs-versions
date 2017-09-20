@@ -1,4 +1,4 @@
-eBay User AgreementThis User Agreement is effective upon acceptance for new users, and from August 1, 2017 for existing users. The previous amendment to this User Agreement was effective for all users on June 20, 2017. In this articleIntroductionAbout eBayUsing eBayPolicy EnforcementFeesListing ConditionsPurchase ConditionsInternational Buying and Selling. TranslationContentNotice for Claims of Intellectual Property Violations and Copyright Infringement Pursuant to Section 512(c) of Title 17 of the United States CodeHoldsAuthorization to Contact You. Recording CallsAdditional Terms 
+eBay User AgreementThis User Agreement is effective upon acceptance for new users, and from November 1, 2017 for existing users. The previous amendment to this User Agreement was effective for all users on August 1, 2017. In this articleIntroductionAbout eBayUsing eBayPolicy EnforcementFeesListing ConditionsPurchase ConditionsInternational Buying and Selling. TranslationContentNotice for Claims of Intellectual Property Violations and Copyright Infringement Pursuant to Section 512(c) of Title 17 of the United States CodeHoldsAuthorization to Contact You. Recording CallsAdditional Terms 
 
 *   Returns 
     
@@ -13,7 +13,7 @@ Introduction
 
 This User Agreement, the User Privacy Notice, the Mobile Devices Terms, and all policies posted on our sites set out the terms on which eBay offers you access to and use of our sites, services, applications and tools (collectively "Services"). You can find an overview of our policies here. All policies, the Mobile Devices Terms, and the User Privacy Notice are incorporated into this User Agreement. You agree to comply with all of the above when accessing or using our Services.
 
-The entity you are contracting with is eBay Inc., 2025 Hamilton Ave., San Jose, CA 95125 if you reside in the United States. It is eBay Europe S.à r.l., 22-24 Boulevard Royal, L-2449 Luxembourg if you reside in the European Union. and , except as provided below, eBay International AG, Helvetiastrasse 15/17, 3005, Bern, Switzerland if you reside in any other country. Starting on July 1, 2017, the entity you are contracting with is eBay Canada Limited, 500 King Street West, Suite 200, Toronto, ON M5V 1L9, Canada, if you reside in Canada. Starting on August 1, 2017, it is eBay (UK) Limited, 5 New Street Square, London, EC4A 3TW, United Kingdom, if you reside in the United Kingdom. If you reside in India, prior to August 1, 2017, the entity you are contracting with is eBay India Private Limited, 14th Floor, North Block, R-Tech Park, Western Express Highway, Goregaon (East), Mumbai 400063, Maharashtra. thereafter, the entity is eBay International AG, Helvetiastrasse 15/17, 3005, Bern, Switzerland.
+The entity you are contracting with is: eBay Inc., 2025 Hamilton Ave., San Jose, CA 95125 if you reside in the United States. eBay (UK) Limited, 5 New Street Square, London, EC4A 3TW, United Kingdom, if you reside in the United Kingdom. eBay Europe S.à r.l., 22-24 Boulevard Royal, L-2449 Luxembourg if you reside outside the United Kingdom but within the European Union. eBay Canada Limited, 500 King Street West, Suite 200, Toronto, ON M5V 1L9, Canada, if you reside in Canada. and eBay International AG, Helvetiastrasse 15/17, 3005, Bern, Switzerland if you reside in any other country.
 
 In this User Agreement, these entities are individually and collectively referred to as "**eBay**," "**we**," or "**us**."
 
@@ -72,7 +72,7 @@ Sellers must meet eBay's minimum performance standards. Failure to meet these st
 
 If we believe you are abusing eBay in any way, we may, in our sole discretion and without limiting other remedies, limit, suspend, or terminate your user account(s) and access to our Services, delay or remove hosted content, remove any special status associated with your account(s), remove, not display, and/or demote listings, reduce or eliminate any discounts, and take technical and/or legal steps to prevent you from using our Services.
 
-If we believe you are violating the policy on Offers to buy or sell outside of eBay, you may be subject to a range of actions, including limits on your buying and selling privileges, restrictions on listings and account features, suspension of your account, application of fees, and recovery of expenses for policy monitoring and enforcement. If you are a seller, you are liable for transaction fees arising out of all sales made using some or all eBay Services, even if sales terms are finalized or payment is made outside of eBay.
+If we believe you are violating the policy on Offers to buy or sell outside of eBay, you may be subject to a range of actions, including limits on your buying and selling privileges, restrictions on listings and account features, suspension of your account, application of fees, and recovery of expenses for policy monitoring and enforcement. If you are a seller and you offer or reference your contact information or ask a buyer for their contact information in the context of buying or selling outside of eBay, you may be liable to pay a final value fee applicable to that item, even if the item does not sell.
 
 We may cancel unconfirmed accounts or accounts that have been inactive for a long time or modify or discontinue our Services. Additionally, we reserve the right to refuse or terminate all or part of our Services to anyone for any reason at our discretion.
 
@@ -83,6 +83,8 @@ When a buyer or seller issue arises, we may consider the user's performance hist
 Fees
 
 The fees we charge for using our Services are listed on our Standard Selling Fees page. We may change our seller fees from time to time by posting the changes on the eBay site 14 days in advance, but with no advance notice required for temporary promotions or any changes that result in the reduction of fees.
+
+If you are a seller, you are liable for transaction fees arising out of all sales made using some or all eBay Services, even if sales terms are finalized or payment is made outside of eBay. In particular, if you offer or reference your contact information or ask a buyer for their contact information in the context of buying or selling outside of eBay, you may be liable to pay a final value fee applicable to that item, even if the item doesn’t sell, given your usage of eBay Services for the introduction to a buyer.
 
 You must have a payment method on file when selling on eBay and pay all fees and applicable taxes associated with our Services by the payment due date. If your payment method fails or your account is past due, we may collect fees owed by charging other payment methods on file with us, retain collection agencies and legal counsel, and, for accounts over 180 days past due, request that PayPal deduct the amount owed from your PayPal account balance. In addition, you will be subject to late fees. eBay, or the collection agencies we retain, may also report information about your account to credit bureaus, and as a result, late payments, missed payments, or other defaults on your account may be reflected in your credit report. If you wish to dispute the information eBay reported to a credit bureau (i.e., Experian, Equifax or TransUnion) please contact us at eBay Inc., C/O Global Collections, 7700 West Parmer Lane, Building D, Austin, TX 78729. If you wish to dispute the information a collection agency reported to a credit bureau regarding your eBay account, you must contact the collection agency directly.
 
@@ -96,7 +98,7 @@ When listing an item, you agree to comply with eBay's rules for listing and Sell
     
 *   When you use the consumer seller listing tool to create listings, your fixed-price listings may renew automatically every 30 days, based on the listing terms at that time, until the quantities sell out or until you cancel the listing.
     
-*   Content that violates any of eBay's policies may be deleted at eBay's discretion.
+*   Content that violates any of eBay's policies may be modified, obfuscated or deleted at eBay's discretion.
     
 *   We may revise data in the eBay product catalog to supplement, remove, or correct information. if your listing uses catalog data that has been revised, those revisions may modify your listing accordingly.
     
