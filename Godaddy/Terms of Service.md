@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: July 17, 2017**
+**Last Revised: September 19, 2017**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -55,6 +55,8 @@ You acknowledge and agree that you have the necessary rights and permissions to 
 
 All paid services are non-refundable.
 
+GoDaddy reserves the right to modify, change, or discontinue any aspect of this Site or the Services, including without limitation prices and fees for the same, at any time.
+
 ****5**. GENERAL RULES OF CONDUCT**
 
 You acknowledge and agree that:
@@ -81,8 +83,6 @@ You acknowledge and agree that:
     
 10.  You are aware that GoDaddy may from time-to-time call you about your account, and that, for the purposes of any and all such call(s), you do not have any reasonable expectation of privacy during those calls. indeed you hereby consent to allow GoDaddy, in its sole discretion, to record the entirety of such calls regardless of whether GoDaddy asks you on any particular call for consent to record such call.  You further acknowledge and agree that, to the extent permitted by applicable law, any such recording(s) may be submitted as evidence in any legal proceeding in which GoDaddy is a party_._ Further, by providing your telephone or mobile number, you consent to receive marketing telephone calls from or on behalf of GoDaddy that may be initiated by an automatic telephone dialing system and/or use an artificial or prerecorded voice. You understand that providing consent is not a condition of purchasing any good or service from GoDaddy.  Similarly, by providing your mobile number, you consent to receive marketing text messages from or on behalf of GoDaddy that may be sent by an automatic telephone dialing system. You understand that providing consent is not a condition of purchasing any good or service from GoDaddy. Message and data rates may apply.
     
-
-GoDaddy reserves the right to modify, change, or discontinue any aspect of this Site or the Services, including without limitation prices and fees for the same, at any time.
 
 ****6**. YOUR USE OF GoDaddy CONTENT AND USER CONTENT**
 
@@ -833,5 +833,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 7/17/17  
+Revised: 9/19/17  
 Copyright © 2005-2017 GoDaddy.com, LLC All Rights Reserved.
