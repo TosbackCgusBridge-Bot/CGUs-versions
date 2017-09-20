@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Globe sees 2nd warmest year to date, 3rd warmest August on record Arctic and Antarctic sea ice coverage remains at near-record lows AROUND NOAA // Assessing Irma’s destruction from the air: Aerial images available Video: Could you survive a rip current? See how NOAA’s JPSS-1 satellite arrives in California for launch 10 greatest sightings, so far, from NOAA’s exploration of the deepwater Pacific
+Enter Search Terms Potentially catastrophic Hurricane Maria headed for Virgin Islands and Puerto Rico Get the latest information from NOAA's National Hurricane Center AROUND NOAA // Globe sees 2nd warmest year to date, 3rd warmest August on record Assessing Irma’s destruction from the air: Aerial images available Video: Could you survive a rip current? See how 10 greatest sightings, so far, from NOAA’s exploration of the deepwater Pacific
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock image
+NOAA
