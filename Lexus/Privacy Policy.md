@@ -78,7 +78,7 @@ COMPARE **NX**
 **NX HYBRID**
 
 *   Starting at $38,3351\*
-*   31-MPG combined rating4\*
+*   31-MPG combined rating2\*
 
 *   Build
 *   Current Offers
@@ -94,7 +94,7 @@ COMPARE **NX**
 **RX HYBRID**
 
 *   Starting at $53,0351\*
-*   30-MPG COMBINED RATING5\*
+*   30-MPG COMBINED RATING4\*
 
 *   Build
 *   Current Offers
@@ -109,7 +109,7 @@ COMPARE **NX**
 
 **LX**
 
-*   Starting at $89,9806\*
+*   Starting at $89,9805\*
 *   383-HP3\* V8, FULL-TIME 4WD
 
 *   Build
@@ -154,7 +154,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 COMPARE **CT HYBRID**
 
 *   Starting at $31,2501\*
-*   42-MPG combined rating7\*
+*   42-MPG combined rating6\*
 
 *   Build
 *   Current Offers
@@ -162,7 +162,7 @@ COMPARE **CT HYBRID**
 **NX HYBRID**
 
 *   Starting at $38,3351\*
-*   31-MPG combined rating4\*
+*   31-MPG combined rating2\*
 
 *   Build
 *   Current Offers
@@ -178,7 +178,7 @@ COMPARE **CT HYBRID**
 **RX HYBRID**
 
 *   Starting at $53,0351\*
-*   30-MPG COMBINED RATING5\*
+*   30-MPG COMBINED RATING4\*
 
 *   Build
 *   Current Offers
@@ -337,17 +337,15 @@ click here Important Info Important Info
 
 \[1\] MSRP does not include delivery, processing and handling fee of $995. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
 
-\[2\] 2016 ES 300h EPA 40/39/40 city/hwy/combined mpg estimates. Actual mileage will vary.
+\[2\] Preliminary mileage estimates determined by Lexus. EPA mileage estimates not available at time of posting. Actual mileage will vary.
 
 \[3\] Ratings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
 
-\[4\] Preliminary mileage estimates determined by Lexus. EPA mileage estimates not available at time of posting. Actual mileage will vary.
+\[4\] 2016 RX 450h (AWD) EPA 30/28/30 city/hwy/combined mpg estimates. Actual mileage will vary.
 
-\[5\] 2016 RX 450h (AWD) EPA 30/28/30 city/hwy/combined mpg estimates. Actual mileage will vary.
+\[5\] MSRP does not include delivery, processing and handling fee of $1,195. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
 
-\[6\] MSRP does not include delivery, processing and handling fee of $1,195. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
-
-\[7\] 2017 EPA 43/40/42 city/hwy/combined mpg estimates. Actual mileage will vary.
+\[6\] 2017 EPA 43/40/42 city/hwy/combined mpg estimates. Actual mileage will vary.
 
 Leasing &. Finance
 
