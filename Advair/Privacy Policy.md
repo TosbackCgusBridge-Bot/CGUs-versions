@@ -129,6 +129,7 @@ GSK Global Website www.gsk.com
     *   Press Kits
         *   Press Kits
         *   Trelegy Ellipta
+        *   The IMPACT study: InforMing the PAthway of COPD Treatment
         *   Altius Institute for Biomedical Sciences
         *   ANORO™ ELLIPTA™
         *   Arnuity™ Ellipta® &. Incruse® Ellipta®
