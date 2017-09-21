@@ -143,7 +143,7 @@ Play The Matthews Family Knows Football Video hotspot
 
 Learn about PlayStation Vue availability, subscriptions, channels and more: playstation.com/vue
 
-17 hours ago
+1 day ago
 
 View Tweet
 
@@ -301,7 +301,7 @@ View What 8 Million Perfect Pixels Look Like on Instagram
 
 RT @BryanCranston: Why should kids get all the #Halloween treats? This #Crackle original special Drag Me to Halloween is especially spooky #SuperMansion
 
-15 hours ago
+1 day ago
 
 View Tweet
 
