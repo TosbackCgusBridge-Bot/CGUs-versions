@@ -248,7 +248,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**FREE SHIPPING ON ALL ORDERS - TODAY ONLY!**
+**50-70% OFF** + **FREE SHIPPING ON $87** + **$5 FLAT RATE**
 
 *   My Account My Account Login Register
 
@@ -443,11 +443,11 @@ Menu Find a Store Aeropostale
 *   Lounge Starting at $10.00 Shop Lounge
 *   Leggings Starting at $17.80 Shop Leggings
 *   Dresses Starting at $12.00 Shop Dresses
-*   Pants Starting at $15.00 Shop Guys Shop Girls
+*   Pants Starting at Shop Guys Shop Girls
 *   Lounge Starting at $10.00 Shop Lounge
 *   Leggings Starting at $17.80 Shop Leggings
 *   Dresses Starting at $12.00 Shop Dresses
-*   Pants Starting at $15.00 Shop Guys Shop Girls
+*   Pants Starting at Shop Guys Shop Girls
 
 *   1
 *   2
@@ -456,19 +456,19 @@ Menu Find a Store Aeropostale
 
 OUR FEATURED STYLES
 
-*   LLD Lace Strappy Cross-Back Bralette $24.50 $10.00
-*   LLD Long Sleeve Cloud Fleece Crew Tee $39.50 $18.00
-*   Faux Leather Moto Jacket $89.50 $35.00
-*   Long Sleeve Ribbed Cold-Shoulder Top $36.50 $14.60
-*   Buy One Get One Free Seriously Stretchy High-Waisted Ankle Jegging $59.50
-*   CAMO PUFFER VEST $49.50 $24.75
-*   Prince &. Fox Solid Oxford Button Down $44.50 $14.00
-*   Buy One Get One Free Skinny Indigo Green Dark Wash Reflex Jean $49.50
-*   LLD Fuzzy Fleece Jogger $44.50 $20.00
-*   LLD Lace Strappy Cross-Back Bralette $24.50 $10.00
-*   LLD Long Sleeve Cloud Fleece Crew Tee $39.50 $18.00
-*   Faux Leather Moto Jacket $89.50 $35.00
-*   Long Sleeve Ribbed Cold-Shoulder Top $36.50 $14.60
+*   LLD Lace Strappy Cross-Back Bralette $24.50
+*   LLD Long Sleeve Cloud Fleece Crew Tee $39.50
+*   Faux Leather Moto Jacket $89.50
+*   Long Sleeve Ribbed Cold-Shoulder Top $36.50
+*   Buy 1 Get 1 Free Seriously Stretchy High-Waisted Ankle Jegging $59.50
+*   CAMO PUFFER VEST $49.50
+*   Prince &. Fox Solid Oxford Button Down $44.50
+*   Buy 1 Get 1 Free Skinny Indigo Green Dark Wash Reflex Jean $49.50
+*   LLD Fuzzy Fleece Jogger $44.50
+*   LLD Lace Strappy Cross-Back Bralette $24.50
+*   LLD Long Sleeve Cloud Fleece Crew Tee $39.50
+*   Faux Leather Moto Jacket $89.50
+*   Long Sleeve Ribbed Cold-Shoulder Top $36.50
 
 *   1
 *   2
@@ -509,6 +509,4 @@ About Us
 
 Stay Connected
 
-*   Live ChatCall Us
-
-© 2017 Aeropostale. All Rights Reserved.
+*   © 2017 Aeropostale. All Rights Reserved.
