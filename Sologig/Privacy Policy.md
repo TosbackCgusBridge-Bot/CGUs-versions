@@ -289,8 +289,7 @@ Please be advised that CareerBuilder will never initiate a request for your pers
 
 If you think you have been a victim of fraud, immediately report the committed fraud to your local police and contact us using our feedback form so steps can be taken for your safety.
 
-Partner Sites: Full-Time Jobs | Jobs.net | Consulting Job | Restaurant Jobs | Employment Resources | Salary Calculator | Free Career Test | DegreeDriven.com  
-CB Institute | Entry level Jobs | Internships | Healthcare Jobs | Therapy Jobs | Allied Health Jobs | Nursing Jobs | Resume Writing
+Partner Sites: Full-Time Jobs | Jobs.net | Consulting Job | Restaurant Jobs | Employment Resources | Salary Calculator | Entry level Jobs | Internships | Healthcare Jobs | Therapy Jobs | Allied Health Jobs | Nursing Jobs | Resume Writing
 
 About Us
 
