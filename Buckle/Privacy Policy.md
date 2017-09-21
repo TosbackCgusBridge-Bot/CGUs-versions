@@ -361,6 +361,8 @@ While we implement the above security measures on this site, you should be aware
 
 FAQs
 
+Ship to Store FAQS
+
 Your Account
 
 *   Email Updates
@@ -433,6 +435,8 @@ Gift Cards/Services
 *   Gift Services
 *   Gift Card Donation Requests
 
+Promotions
+
 Contact UsGuest Services:
 
 Phone: 800.607.9788  
@@ -483,7 +487,7 @@ ORDERS
 GUEST SERVICES
 
 *   FAQs
-*   Military Discount
+*   Ship To Store
 *   Contact Us
 *   Store Feedback
 
@@ -515,7 +519,7 @@ ORDERS
 GUEST SERVICES
 
 *   FAQs
-*   Military Discount
+*   Ship To Store
 *   Contact Us
 *   Store Feedback
 
