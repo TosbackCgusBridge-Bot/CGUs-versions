@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Rich Lowry_: A Jacksonian Speech in Turtle Bay
+*   _Michael Goodwin_: Wiretaps May Prove Trump Right--and That's Terrifying
     
-*   _Evan Osnos_: Why China Won't Pressure N. Korea as Much as U.S. Wants
+*   _Peter Beinart_: A Radical Rebuke of Obama's Foreign Policy Legacy
     
-*   _Caitlin Huey-Burns_: At U.N., Trump Threatens to 'Totally Destroy' N. Korea
+*   _Roger Kimball_: Why Trump's UN Speech Was a Triumph
     
-*   _James Blumstein_: How to End Obamacare in Two Pages
+*   _Walter Shapiro_: The Fatal Flaw for Republicans in Graham-Cassidy
     
-*   _Chris Cillizza_: Trump's Unpresidential Presidency Keeps Hitting New Lows
+*   _Theodore Kupfer_: Graham-Cassidy Is a Triumph of Federalism
     
-*   _Roger Stone_: Russian Collusion? It's a Delusion
+*   _Jay Timmons_: Tax Reform Must Go Bold
     
-*   _Samantha Power_: Why Foreign Propaganda Is More Dangerous Now
+*   _Ryan Lizza_: Why Is Congress Conducting Russia Investigation in Secret?
     
-*   _Salena Zito_: The Day That Destroyed the Working Class
+*   _James Freeman_: Did Obama Know About Comey's Surveillance?
     
-*   _Christopher DeMuth_: The Dangers of Letting Legislative Power Atrophy
+*   _A.B. Stoddard_: Tell Us, Mr. Bannon--Just What Is Trumpism?
     
-*   _Juan Williams_: Momentum Builds Against Gerrymandering
+*   _Paul Mulshine_: Don't Look Now, But Trump's Strategy Is Beating ISIS
     
-*   _Mary Ham_: After My Husband's Death, Stewarding the Light He Left Us
+*   _Stephen Rodrick_: Tucker Carlson Is Sorry for Being Mean
     
-*   _Eugene Robinson_: What Happened? America's Political Axis Tilted.
+*   _Doyle McManus_: Will Trump's 'Rocket Man' Speech Lead Us to War?
     
-*   _William Allen_: A Way Out for Dems: The President Offers a Deal
+*   _Benny Avni_: Nationalism Without Isolationism: Trump's UN Triumph
     
-*   _Jen Psaki_: World Leaders, Help Us Out Here
+*   _Russel Berman_: Groundhog Day for Obamacare Repeal
     
-*   _Fassihi &. Stokols_: Trump to Push Nationalist Policy in First U.N. Address
+*   _Jonah Goldberg_: Which New Healthcare Plan is 'Extreme?' Hint: Not the GOP's
     
-*   _Jeffrey Frank_: Will Trump Keep Swimming With the Democrats?
+*   _Randall Eliason_: Why the Wiretap of Manafort Is a Big Deal
     
-*   _Jason Hill_: An Open Letter to Ta-Nehisi Coates: The Dream Is Real
+*   _Tucker Carlson_: Were We Lied to About Wiretapping, or Did FBI Go Rogue?
     
-*   _Jonathan Capehart_: 'The First White President' Is a 'Bad Dude'
+*   _George Neumayr_: All of Obama's Wiretappers
     
-*   _Daniel Payne_: Leftists at UVA Prove Trump Right on Jefferson Statues
+*   _Jamelle Bouie_: Why Jemele Hill Is Rebuked, But Trump Gets to Be President
     
-*   _Byron York_: New Deadline for FBI as Trump Dossier Standoff Deepens
+*   _Jason Riley_: Ta-Nehisi Coates and the Politics of Contempt
     
-*   _Bradley Moss_: The Hapless Smear Campaign Against Jim Comey
+*   _Andrew Sullivan_: Can Our Democracy Survive Tribalism?
     
-*   _Caitlin Huey-Burns_: Trump's U.N. Trip Draws Spotlight to Nikki Haley
+*   _Ed Morrissey_: The Ongoing Delusions of Hillary Clinton
     
-*   _John Moody_: Listen Up, U.N.: Trump Means What He's Telling You
+*   _Rick Wilson_: Memo to Trump Fans: Conman-in-Chief Will Betray You All
     
-*   _Gordon Sander_: When the U.S. Almost Went to War With North Korea
+*   _Hugh Hewitt_: All in All, Trump Has Had a Pretty Good 8 Months
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Obamacare Repeal Plan Is Gaining Momentum
 *   Trump's U.N. Trip Draws Spotlight to Nikki Haley
-*   Trump: United Nations Must Regain the Trust of People of the World
+*   At U.N., Trump Threatens to "Totally Destroy" N. Korea
+*   Carlson: Were We Lied to About Wiretapping, or Did FBI Go Rogue?
+*   Obamacare Repeal Plan Is Gaining Momentum
 *   Politics and Sean Spicer Take Center Stage at Emmy Awards
-*   Dems, Republican Lawmakers Wary of Trump's DACA "Deal"
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Virginia Governor - Gillespie vs. NorthamFOX News\*
-    *   Northam42
-    *   Gillespie38Northam +4
-*   Virginia Governor - Gillespie vs. NorthamMason-Dixon\*
-    *   Northam44
-    *   Gillespie43Northam +1
+*   New Jersey Governor - Guadagno vs. MurphyFOX News\*
+    *   Murphy42
+    *   Guadagno29Murphy +13
+*   Michigan Senate - Kid Rock vs. StabenowMRG
+    *   Stabenow52
+    *   Kid Rock34Stabenow +18
+*   President Trump Job ApprovalMonmouth
+    *   Approve42
+    *   Disapprove48Disapprove +6
 *   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove55Disapprove +17
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove55Disapprove +12
+    *   Approve39
+    *   Disapprove55Disapprove +16
 
 More Latest Polls In The News
 
-*   Trump: "For Years I've Been A Critic" Of The United Nations, But Never Denied Its "Tremendous," "Epic" Potential
-*   Hillary Clinton on WikiLeaks, Pizzagate, Russian Agitprop: "If We Don't Get A Handle On This... It Will Not Stop"
-*   Trump: North Korean Regime Is A "Band Of Criminals" Led By "Rocket Man On A Suicide Mission"
-*   CNN's Nia-Malika Henderson: People In North Korea And Venezuela Also Think They Are Protecting Their Sovereignty
-*   DREAMers Shout Down Nancy Pelosi: "We Owe You Nothing... This Is Our Democracy"
+*   Obama: We Have To Keep "Our Leaders" From "Inflicting Real Human Suffering On Their Constituents"
+*   DNC's Rep. Keith Ellison Likens Refusing Sanctuary To DACA Recipients To Denying Jews Help In Nazi Germany
+*   Carlson: "Patronizing Assurances That No One Was Spying On Campaigns Were False, Probably Intentionally"
+*   Tillerson: "There Have To Be Changes Made" To Iran Nuclear Deal Or Iran Will Follow North Korea's Path
+*   Hillary Clinton to Colbert: Putin "Had A Personal Grudge Against Me," "Partly Because I'm A Woman"
 
 *   Politics
 *   Policy
