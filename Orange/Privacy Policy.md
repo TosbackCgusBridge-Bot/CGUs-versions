@@ -2,7 +2,7 @@ Données personnelles
 
 orange.fr
 
-En tant qu’internaute, lorsque vous utilisez un des services du portail www.orange.fr (ci-après le « Portail »), vous bénéficiez, conformément à la loi Informatique et Libertés du 6 janvier 1978 modifiée, d'un droit d'accès, d'opposition et de rectification des données personnelles qui vous concernent (ci-après ses Données) et que vous êtes susceptible de communiquer dans le cadre de l'utilisation d'un de ces services.
+En tant qu'internaute, lorsque vous utilisez un des services du portail www.orange.fr (ci-après le « Portail »), vous bénéficiez, conformément à la loi Informatique et Libertés du 6 janvier 1978 modifiée, d'un droit d'accès, d'opposition et de rectification des données personnelles qui vous concernent (ci-après ses Données) et que vous êtes susceptible de communiquer dans le cadre de l'utilisation d'un de ces services.
 
   
 
