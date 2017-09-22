@@ -288,8 +288,7 @@ Please be advised that CareerBuilder will never initiate a request for your pers
 
 If you think you have been a victim of fraud, immediately report the committed fraud to your local police and contact us using our feedback form so steps can be taken for your safety.
 
-Partner Sites: Full-Time Jobs | Jobs.net | Consulting Job | Restaurant Jobs | Employment Resources | Salary Calculator | Free Career Test | DegreeDriven.com  
-CB Institute | Entry level Jobs | Internships | Healthcare Jobs | Therapy Jobs | Allied Health Jobs | Nursing Jobs | Resume Writing
+Partner Sites: Full-Time Jobs | Jobs.net | Consulting Job | Restaurant Jobs | Employment Resources | Salary Calculator | Entry level Jobs | Internships | Healthcare Jobs | Therapy Jobs | Allied Health Jobs | Nursing Jobs | Resume Writing
 
 About Us
 
@@ -321,4 +320,4 @@ Partner Sites
 HeadHunter Office 200 N. LaSalle St  
 Suite 1100  
 Chicago, IL 60601  
-© 2017 HeadHunter.com. <img src="//b.scorecardresearch.com/p?c1=2&c2=6035061&c3=&c4=&c5=&c6=&c15=&cj=1" />. <div>. <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-803759h&cg=0&cc=1&ts=noscript" width="1" height="1" alt="" />. </div>.
+© 2017 HeadHunter.com. <img src="//sb.scorecardresearch.com/p?c1=2&c2=6035061&c3=&c4=&c5=&c6=&c15=&cj=1" />. <div>. <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-803759h&cg=0&cc=1&ts=noscript" width="1" height="1" alt="" />. </div>.
