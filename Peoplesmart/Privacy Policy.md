@@ -1,35 +1,11 @@
-Sign In Plans &. Pricing Search
-
-Search Search Search
-
-People
-
-*   People
-*   Phone
-*   Email
-*   Address
-
-Find Location Birth MonthJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecemberBirth Month
-
-Day12345678910111213141516171819202122232425262728293031Day
-
-Birth Year19991998199719961995199419931992199119901989198819871986198519841983198219811980197919781977197619751974197319721971197019691968196719661965196419631962196119601959195819571956195519541953195219511950194919481947194619451944194319421941194019391938193719361935193419331932193119301929192819271926192519241923192219211920Birth Year
-
-+/- --012510--
-
-Minimize
-
-Phone: Email: \*enter valid email address Street: City:
-
-Search
+Sign In
 
 *   Sign In
-*   Plans &. Pricing
 *   About
 *   Blog
 *   Help
 
-Privacy Policy
+Public Records Search First Name a-z, dash, period, spaces only Last Name a-z, dash, period, spaces only Select a State NationwideAlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming Search Privacy Policy
 
 Welcome to PeopleSmart.com, a website designed to help you find information available in public records. This privacy policy is for visitors and registered users ("you") of PeopleSmart.com (the "website" or "service"), which is owned and operated by Inflection.com, Inc. (“Inflection”, "we" or "our"):
 
