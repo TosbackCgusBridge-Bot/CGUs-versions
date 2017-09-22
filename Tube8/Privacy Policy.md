@@ -33,7 +33,6 @@ Close
     *   JP 日本語
 *   Straight
     
-    *   Straight
     *   Gay
     *   Shemale
 *   Upload
