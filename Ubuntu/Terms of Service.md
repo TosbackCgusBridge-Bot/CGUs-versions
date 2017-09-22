@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Microsoft and Canonical Increase Velocity with Azure Tailored Kernel ›
+*   Kubernetes Snaps: The Quick Version ›
+*   Security Team Weekly Summary: September 21, 2017 ›
 *   Kernel Team Summary – September 20, 2017 ›
 *   Ubuntu Server Development Summary – 19 Sep 2017 ›
-*   Results of the Ubuntu Desktop Applications Survey ›
-*   Webinar: OpenStack Pike is here, what’s new? ›
-*   MAAS 2.3.0 Alpha 3 release! ›
