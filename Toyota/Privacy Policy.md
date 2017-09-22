@@ -82,7 +82,7 @@ View All Vehicles
 *   Search Inventory
 *   find a dealer
 
-*   Request a Quote
+*   Contact A Dealer
 *   View Brochures
 *   Accessories
 *   KBB Trade-In-Value
@@ -130,7 +130,7 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 *   Search Inventory
 *   find a dealer
 
-*   Request a Quote
+*   Contact A Dealer
 *   Find a Dealer
 *   View Brochures
 *   Accessories
