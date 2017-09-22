@@ -123,6 +123,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Home &. Office
     *   Clearance
     *   Gift Certificates
+    *   European Shop
     *   Photo Store
     
     Auctions
