@@ -1,4 +1,3 @@
-*   LA1-1SF0-2September 21, 2017 8:25:00 PM EDT ET
 *   BAL2-0JAX1-1September 24, 2017 9:30:00 AM EDT ET
 *   DEN2-0BUF1-1September 24, 2017 1:00:00 PM EDT ET
 *   NO0-2CAR2-0September 24, 2017 1:00:00 PM EDT ET
@@ -14,6 +13,7 @@
 *   KC2-0LAC0-2September 24, 2017 4:25:00 PM EDT ET
 *   OAK2-0WAS1-1September 24, 2017 8:30:00 PM EDT ET
 *   DAL1-1ARI1-1September 25, 2017 8:30:00 PM EDT ET
+*   LA2-141SF0-339Final
 
 *   News
 *   Scores
@@ -31,7 +31,6 @@
 *   NFL Network
 *   Photos
 
-*   LA1-1SF0-2September 21, 2017 8:25:00 PM EDT ET
 *   BAL2-0JAX1-1September 24, 2017 9:30:00 AM EDT ET
 *   DEN2-0BUF1-1September 24, 2017 1:00:00 PM EDT ET
 *   NO0-2CAR2-0September 24, 2017 1:00:00 PM EDT ET
@@ -47,6 +46,7 @@
 *   KC2-0LAC0-2September 24, 2017 4:25:00 PM EDT ET
 *   OAK2-0WAS1-1September 24, 2017 8:30:00 PM EDT ET
 *   DAL1-1ARI1-1September 25, 2017 8:30:00 PM EDT ET
+*   LA41SF39Final
 
 *   News
 *   Scores
