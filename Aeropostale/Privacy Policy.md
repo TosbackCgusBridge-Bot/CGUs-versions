@@ -30,6 +30,7 @@ Close submenu ( Features ) Features
 
 *   View All
 *   New Arrivals
+*   $5 Special
 *   $15 Special
 *   Icon Tees
 *   Trending
@@ -49,6 +50,8 @@ Close submenu ( Tops ) Tops
 *   Shirts
 *   Hoodies + Sweatshirts
 *   Sweaters
+*   Bodysuits
+*   Active Tops
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -86,6 +89,7 @@ Close submenu ( Features ) Features
 
 *   View All
 *   New Arrivals
+*   $5 Special
 *   $15 Special
 *   Tapout
 *   Trending
@@ -260,6 +264,7 @@ Menu Find a Store Aeropostale
     *   Features
         *   View All
         *   New Arrivals
+        *   $5 Special
         *   $15 Special
         *   Icon Tees
         *   Trending
@@ -279,6 +284,8 @@ Menu Find a Store Aeropostale
         *   Shirts
         *   Hoodies + Sweatshirts
         *   Sweaters
+        *   Bodysuits
+        *   Active Tops
     
     *   Bottoms
         *   View All
@@ -306,6 +313,7 @@ Menu Find a Store Aeropostale
     *   Features
         *   View All
         *   New Arrivals
+        *   $5 Special
         *   $15 Special
         *   Tapout
         *   Trending
@@ -438,15 +446,15 @@ Menu Find a Store Aeropostale
 *   Sign Up/Login
 *   Refer a Friend
 
-0 Search Catalog Search Promotions Shop Girls Shop Guys shop girls shop guys
+0 Search Catalog Search Promotions Shop Girls Shop Guys Shop Girls Shop Guys shop girls shop guys
 
 *   Lounge Starting at $10.00 Shop Lounge
 *   Leggings Starting at $17.80 Shop Leggings
-*   Dresses Starting at $12.00 Shop Dresses
+*   $5 Special Starting at $5.99 Shop Girls Shop Guys
 *   Pants Starting at Shop Guys Shop Girls
 *   Lounge Starting at $10.00 Shop Lounge
 *   Leggings Starting at $17.80 Shop Leggings
-*   Dresses Starting at $12.00 Shop Dresses
+*   $5 Special Starting at $5.99 Shop Girls Shop Guys
 *   Pants Starting at Shop Guys Shop Girls
 
 *   1
@@ -456,19 +464,19 @@ Menu Find a Store Aeropostale
 
 OUR FEATURED STYLES
 
-*   LLD Lace Strappy Cross-Back Bralette $24.50
-*   LLD Long Sleeve Cloud Fleece Crew Tee $39.50
-*   Faux Leather Moto Jacket $89.50
-*   Long Sleeve Ribbed Cold-Shoulder Top $36.50
-*   Buy 1 Get 1 Free Seriously Stretchy High-Waisted Ankle Jegging $59.50
-*   CAMO PUFFER VEST $49.50
-*   Prince &. Fox Solid Oxford Button Down $44.50
-*   Buy 1 Get 1 Free Skinny Indigo Green Dark Wash Reflex Jean $49.50
-*   LLD Fuzzy Fleece Jogger $44.50
-*   LLD Lace Strappy Cross-Back Bralette $24.50
-*   LLD Long Sleeve Cloud Fleece Crew Tee $39.50
-*   Faux Leather Moto Jacket $89.50
-*   Long Sleeve Ribbed Cold-Shoulder Top $36.50
+*   LLD Studio Low Impact Y-Back Sports Bra $24.50 $15.00
+*   LLD #BESTBOOTYEVER Marled Leggings $49.50 $19.80
+*   Faux Suede Moto Jacket $89.50 $40.00
+*   3/4 Bell Sleeve Ribbed Sweater $44.50 $15.00
+*   Buy 1 Get 1 Free Seriously Stretchy High-Waisted Jegging $49.50
+*   Military Bomber Jacket $89.50 $44.75
+*   Long Sleeve Heathered Check Woven Shirt $44.50 $14.00
+*   Classic Reflex Joggers $44.50 $18.00
+*   LLD Melange Live Love Run Full-Zip Hoodie $49.50 $18.00
+*   LLD Studio Low Impact Y-Back Sports Bra $24.50 $15.00
+*   LLD #BESTBOOTYEVER Marled Leggings $49.50 $19.80
+*   Faux Suede Moto Jacket $89.50 $40.00
+*   3/4 Bell Sleeve Ribbed Sweater $44.50 $15.00
 
 *   1
 *   2
@@ -509,4 +517,6 @@ About Us
 
 Stay Connected
 
-*   © 2017 Aeropostale. All Rights Reserved.
+*   Live ChatCall Us
+
+© 2017 Aeropostale. All Rights Reserved.
