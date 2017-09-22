@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Michael Goodwin_: Wiretaps May Prove Trump Right--and That's Terrifying
+*   _John Cassidy_: There Is No Trump Doctrine, Only Contradictions &. Bluster
     
-*   _Peter Beinart_: A Radical Rebuke of Obama's Foreign Policy Legacy
+*   _Conrad Black_: Trump's Bold Defense of America
     
-*   _Roger Kimball_: Why Trump's UN Speech Was a Triumph
+*   _Margaret Carlson_: GOP Not Even Sure Why They're Doing New Health Care Bill
     
-*   _Walter Shapiro_: The Fatal Flaw for Republicans in Graham-Cassidy
+*   _John Daniel Davidson_: Graham-Cassidy Is the Best GOP Health Plan Yet
     
-*   _Theodore Kupfer_: Graham-Cassidy Is a Triumph of Federalism
+*   _Jeff Greenfield_: The Strange Authenticity of Hillary Clinton
     
-*   _Jay Timmons_: Tax Reform Must Go Bold
+*   _Ed Rogers_: Hillary Clinton 3.0 Isn't Helping the Democrats Move On
     
-*   _Ryan Lizza_: Why Is Congress Conducting Russia Investigation in Secret?
+*   _Jonathan Bernstein_: Republicans Looking for Easiest Way Out on Taxes
     
-*   _James Freeman_: Did Obama Know About Comey's Surveillance?
+*   _Sen. Thom Tillis_: Tax Reform Transformed N. Carolina. Congress, Take Note
     
-*   _A.B. Stoddard_: Tell Us, Mr. Bannon--Just What Is Trumpism?
+*   _Mark Joseph Stern_: Trump's Judges Will Transform America
     
-*   _Paul Mulshine_: Don't Look Now, But Trump's Strategy Is Beating ISIS
+*   _Ben Domenech_: 13 Questions About the Wiretapping of Paul Manafort
     
-*   _Stephen Rodrick_: Tucker Carlson Is Sorry for Being Mean
+*   _Peter Cummings_: I'm a Brain Scientist and I Let My Son Play Football
     
-*   _Doyle McManus_: Will Trump's 'Rocket Man' Speech Lead Us to War?
+*   _Lanhee Chen_: Republicans Get One Last Chance to Replace Obamacare
     
-*   _Benny Avni_: Nationalism Without Isolationism: Trump's UN Triumph
+*   _Albert Hunt_: The GOP Peddles Nonsense to Sell Its Health-Care Plan
     
-*   _Russel Berman_: Groundhog Day for Obamacare Repeal
+*   _Marc Thiessen_: Why the Left Hated Trump's Smart U.N. Speech
     
-*   _Jonah Goldberg_: Which New Healthcare Plan is 'Extreme?' Hint: Not the GOP's
+*   _Michael Fuchs_: Is Trump About to Repeat Bush 43's Worst Mistake?
     
-*   _Randall Eliason_: Why the Wiretap of Manafort Is a Big Deal
+*   _Peter Robinson_: Trump Through a Pinhole
     
-*   _Tucker Carlson_: Were We Lied to About Wiretapping, or Did FBI Go Rogue?
+*   _Stephen Collinson_: Trump Slashes at Obama's Legacy, But Risks His Own
     
-*   _George Neumayr_: All of Obama's Wiretappers
+*   _Sharyl Attkisson_: Looks Like Obama Did Spy on Trump--and Apparently Me
     
-*   _Jamelle Bouie_: Why Jemele Hill Is Rebuked, But Trump Gets to Be President
+*   _Cristian Farias_: Why Trump Must Comply With Mueller's Demands
     
-*   _Jason Riley_: Ta-Nehisi Coates and the Politics of Contempt
+*   _Victor Davis Hanson_: Claims of Foreign Election Tampering Always Rang Hollow
     
-*   _Andrew Sullivan_: Can Our Democracy Survive Tribalism?
+*   _Nicole Nelson_: When Will Black Lives Matter in St. Louis?
     
-*   _Ed Morrissey_: The Ongoing Delusions of Hillary Clinton
+*   _Philippe Lemoine_: Police Violence Against Black Men Is Rare
     
-*   _Rick Wilson_: Memo to Trump Fans: Conman-in-Chief Will Betray You All
+*   _David Catanese_: Trump vs. Bannon in 'Bama
     
-*   _Hugh Hewitt_: All in All, Trump Has Had a Pretty Good 8 Months
+*   _Bryce Covert_: Deadbeat Democrats
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump's U.N. Trip Draws Spotlight to Nikki Haley
+*   Republican Senator Defends Health Plan Against Kimmel Attacks
+*   Diplomats Meet on Iran Deal as Trump Stays Mum on Decision
+*   Obama Expresses Frustration Over Health Law Repeal Effort
 *   At U.N., Trump Threatens to "Totally Destroy" N. Korea
-*   Carlson: Were We Lied to About Wiretapping, or Did FBI Go Rogue?
-*   Obamacare Repeal Plan Is Gaining Momentum
-*   Politics and Sean Spicer Take Center Stage at Emmy Awards
+*   Trump's U.N. Trip Draws Spotlight to Nikki Haley
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   New Jersey Governor - Guadagno vs. MurphyFOX News\*
-    *   Murphy42
-    *   Guadagno29Murphy +13
-*   Michigan Senate - Kid Rock vs. StabenowMRG
-    *   Stabenow52
-    *   Kid Rock34Stabenow +18
-*   President Trump Job ApprovalMonmouth
+*   President Trump Job ApprovalCNN
     *   Approve42
-    *   Disapprove48Disapprove +6
+    *   Disapprove53Disapprove +11
+*   President Trump Job ApprovalNBC News/Wall St. Jrnl
+    *   Approve43
+    *   Disapprove52Disapprove +9
 *   President Trump Job ApprovalGallup
-    *   Approve39
-    *   Disapprove55Disapprove +16
+    *   Approve37
+    *   Disapprove56Disapprove +19
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve43
+    *   Disapprove55Disapprove +12
 
 More Latest Polls In The News
 
-*   Obama: We Have To Keep "Our Leaders" From "Inflicting Real Human Suffering On Their Constituents"
-*   DNC's Rep. Keith Ellison Likens Refusing Sanctuary To DACA Recipients To Denying Jews Help In Nazi Germany
-*   Carlson: "Patronizing Assurances That No One Was Spying On Campaigns Were False, Probably Intentionally"
-*   Tillerson: "There Have To Be Changes Made" To Iran Nuclear Deal Or Iran Will Follow North Korea's Path
-*   Hillary Clinton to Colbert: Putin "Had A Personal Grudge Against Me," "Partly Because I'm A Woman"
+*   Tucker Carlson vs. Rob Reiner: If We Are At War With Russia Would You Support Bombing Of St. Petersburg?
+*   Maxine Waters: Impeachment Is Whatever Congress Says It Is, No Law That Dictates Impeachment
+*   Dem Rep.: McCain Will Make "Good Choices" On Health Care Because "He's Staring Death In The Face"
+*   Douglas Murray: Recasting The Immigration/Identity Debate In Terms Of Mercy vs. Justice, Not Good vs. Evil
+*   Hannity On Tapping Trump: Lazy Liberal Media Have Been Exposed As Frauds Yet Again
 
 *   Politics
 *   Policy
@@ -318,7 +318,6 @@ More Latest Polls In The News
 *   Books
 *   Life
 
-*   © 2017 RealClearPolitics.com. All Rights Reserved.
 *   About Us
 *   Privacy Policy
 *   Advertise With Us
@@ -326,7 +325,7 @@ More Latest Polls In The News
 *   RSS
 *   View Mobile Site
 
-©2017 RealClearPolitics | Go to full site <img src="http://b.scorecardresearch.com/p?c1=2&c2=6872493&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>. Sign Up For RC Newsletters
+Copyright © 2017 RealClearHoldings, LLC. ©2017 RealClearPolitics | Go to full site <img src="http://b.scorecardresearch.com/p?c1=2&c2=6872493&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>. Sign Up For RC Newsletters
 
 *   RealClear Originals✓
 *   Carl M. Cannon's Morning Note✓
