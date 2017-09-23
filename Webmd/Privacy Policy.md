@@ -1,4 +1,5 @@
-Skip to main content
+Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking Subscribe, I agree to the WebMD Terms &. Conditions &. Privacy Policy  
+and understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -109,8 +110,8 @@ Skip to main content
     *   Tattoo Ink May Reach Lymph Nodes
     *   Bleach and Disinfectants Linked to Lung Disease
     *   When Is Snoozing With Your Dog OK?
-    *   Stand Up, Sitting May Kill You
-    *   Health Risks of Long Work Weeks
+    *   Sperm Health Linked to Weight?
+    *   World Running Low on Antibiotics
     
     Experts &. Community
     
@@ -440,7 +441,7 @@ WebMD Policy Last updated on December 30, 2016 © 2016 WebMD, LLC. All rights re
 
 Some of these might surprise you.
 
-Is DNA destiny? Learn more at helix.com/blog FROM OUR ADVERTISER **Helix** Depressed, Guilty Feelings After Eating?
+Finally, health insurance that revolves around you. Bright Health and Centura Health are gearing up to bring you quality doctors, a customized experience, and smart collaborative care. Ad By **Bright Health** AdChoices Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
