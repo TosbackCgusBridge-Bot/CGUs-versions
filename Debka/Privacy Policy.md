@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Friday, September 22, 2017  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, September 23, 2017  
 
 DEBKAfile
 
@@ -46,6 +46,14 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Israeli air force strikes targets near Damascus airport - reports
+    
+    Sep 22, 2017 @ 11:51
+    
+*   Khamenei and Kim hurl torrents of abuse at Trump
+    
+    Sep 22, 2017 @ 11:05
+    
 *   UK Police release train bomb suspect Yahyah Farroukh
     
     Sep 21, 2017 @ 23:06
@@ -67,29 +75,29 @@ Breaking news
     Sep 21, 2017 @ 10:40
     
 *   Sep 21, 2017 @ 10:26
-    
-*   South Korea resumes humanitarian aid to North
-    
-    Sep 21, 2017 @ 09:50
-    
-*   US military leaves E. Syrian base at Zaqaf, Hizballah moves in
-    
-    Sep 21, 2017 @ 09:48
     
 
+*   Saudi King to spend three days in Moscow
+    
+    Sep 21, 2017 @ 18:49
+    
+*   Sixth arrest in London Underground terror bombing
+    
+    Sep 21, 2017 @ 10:47
+    
 *   Russia threatens US-backed SDP with “all means of destruction”
     
     Sep 21, 2017 @ 10:40
     
 *   Sep 21, 2017 @ 10:26
     
-*   South Korea resumes humanitarian aid to North
+*   Israeli air force strikes targets near Damascus airport - reports
     
-    Sep 21, 2017 @ 09:50
+    Sep 22, 2017 @ 11:51
     
-*   US military leaves E. Syrian base at Zaqaf, Hizballah moves in
+*   Khamenei and Kim hurl torrents of abuse at Trump
     
-    Sep 21, 2017 @ 09:48
+    Sep 22, 2017 @ 11:05
     
 *   UK Police release train bomb suspect Yahyah Farroukh
     
@@ -113,13 +121,13 @@ Breaking news
     
 *   Sep 21, 2017 @ 10:26
     
-*   South Korea resumes humanitarian aid to North
+*   Israeli air force strikes targets near Damascus airport - reports
     
-    Sep 21, 2017 @ 09:50
+    Sep 22, 2017 @ 11:51
     
-*   US military leaves E. Syrian base at Zaqaf, Hizballah moves in
+*   Khamenei and Kim hurl torrents of abuse at Trump
     
-    Sep 21, 2017 @ 09:48
+    Sep 22, 2017 @ 11:05
     
 *   UK Police release train bomb suspect Yahyah Farroukh
     
@@ -128,14 +136,6 @@ Breaking news
 *   Trump signs executive order for new sanctions on North Korea
     
     Sep 21, 2017 @ 22:57
-    
-*   Saudi King to spend three days in Moscow
-    
-    Sep 21, 2017 @ 18:49
-    
-*   Sixth arrest in London Underground terror bombing
-    
-    Sep 21, 2017 @ 10:47
     
 
 12PrevNext DEBKA Video
