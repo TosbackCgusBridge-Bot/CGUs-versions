@@ -84,7 +84,7 @@
         
           
           
-        Give a Buckle Gift card It’s All NEW For Fall! Shop Women’s New Arrivals | Shop Men’s New Arrivals
+        Give a Buckle Gift card Celebrate Fall With Sweaters, Boots, Denim, Flannels, and More! Shop Women’s New Arrivals | Shop Men’s New Arrivals
 *   Men
     *   *   Featured
         
@@ -143,7 +143,7 @@
         
           
           
-        Give a Buckle Gift card It’s All NEW For Fall! Shop Women’s New Arrivals | Shop Men’s New Arrivals
+        Give a Buckle Gift card Celebrate Fall With Sweaters, Boots, Denim, Flannels, and More! Shop Women’s New Arrivals | Shop Men’s New Arrivals
 *   Kids
     *   *   Featured
         
@@ -165,7 +165,7 @@
         *   Shop All
         
           
-        Give a Buckle Gift card It’s All NEW For Fall! Shop Women’s New Arrivals | Shop Men’s New Arrivals
+        Give a Buckle Gift card Celebrate Fall With Sweaters, Boots, Denim, Flannels, and More! Shop Women’s New Arrivals | Shop Men’s New Arrivals
 *   Jeans
     *   *   Women's Jeans
         
@@ -196,7 +196,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card It’s All NEW For Fall! Shop Women’s New Arrivals | Shop Men’s New Arrivals
+        Give a Buckle Gift card Celebrate Fall With Sweaters, Boots, Denim, Flannels, and More! Shop Women’s New Arrivals | Shop Men’s New Arrivals
 *   New
     *   *   Featured New
         
@@ -237,7 +237,7 @@
         *   Shop All Boy's New
         
           
-        Give a Buckle Gift card It’s All NEW For Fall! Shop Women’s New Arrivals | Shop Men’s New Arrivals
+        Give a Buckle Gift card Celebrate Fall With Sweaters, Boots, Denim, Flannels, and More! Shop Women’s New Arrivals | Shop Men’s New Arrivals
 *   Sale
     *   *   Women's Sale
         
@@ -280,7 +280,7 @@
         
           
           
-        Give a Buckle Gift card It’s All NEW For Fall! Shop Women’s New Arrivals | Shop Men’s New Arrivals
+        Give a Buckle Gift card Celebrate Fall With Sweaters, Boots, Denim, Flannels, and More! Shop Women’s New Arrivals | Shop Men’s New Arrivals
 
 SearchSubmitSearchSubmit × ClosePrivacy &. Security
 
