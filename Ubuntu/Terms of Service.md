@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Canonical Distribution of Kubernetes: Dev Summary (Sept 22 2017) ›
+*   Ubuntu Desktop Weekly Update: September 22, 2017 ›
 *   Microsoft and Canonical Increase Velocity with Azure Tailored Kernel ›
 *   Kubernetes Snaps: The Quick Version ›
 *   Security Team Weekly Summary: September 21, 2017 ›
-*   Kernel Team Summary – September 20, 2017 ›
-*   Ubuntu Server Development Summary – 19 Sep 2017 ›
