@@ -450,11 +450,11 @@ Menu Find a Store Aeropostale
 
 *   Lounge Starting at $10.00 Shop Lounge
 *   Leggings Starting at $17.80 Shop Leggings
-*   $5 Special Starting at $5.99 Shop Girls Shop Guys
+*   $5 Special Starting at $6.00 Shop Girls Shop Guys
 *   Pants Starting at Shop Guys Shop Girls
 *   Lounge Starting at $10.00 Shop Lounge
 *   Leggings Starting at $17.80 Shop Leggings
-*   $5 Special Starting at $5.99 Shop Girls Shop Guys
+*   $5 Special Starting at $6.00 Shop Girls Shop Guys
 *   Pants Starting at Shop Guys Shop Girls
 
 *   1
