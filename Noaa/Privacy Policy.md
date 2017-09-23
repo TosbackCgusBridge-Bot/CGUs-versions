@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Jose and Maria churn in the Atlantic Get the latest information from NOAA's National Hurricane Center AROUND NOAA // Globe sees 2nd warmest year to date, 3rd warmest August on record 2017 Arctic sea ice minimum comes in at eighth smallest on record Assessing Irma’s destruction from the air: Aerial images available Video: Could you survive a rip current? See how
+Enter Search Terms Globe sees 2nd warmest year to date, 3rd warmest August on record Arctic and Antarctic sea ice coverage remains at near-record lows AROUND NOAA // Hurricane Maria churning in the Atlantic Video: Could you survive a rip current? See how 2017 Arctic sea ice minimum comes in at eighth smallest on record Assessing Irma’s destruction from the air: Aerial images available
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-NOAA
+iStock image
