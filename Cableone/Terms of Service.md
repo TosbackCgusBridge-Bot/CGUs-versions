@@ -190,7 +190,7 @@ Company
 
 Legal
 
-*   CableONE Open Internet
+*   CableONE Open Internet &. Network Management
 *   CableONE Terms &. Conditions
 *   CableONE Privacy Policy
 *   CableONE Acceptable Use Policy
@@ -198,6 +198,8 @@ Legal
 *   CableONE Accessibility
 *   CableONE Cable Service Guard
 *   CableONE Referral Program Terms &. Conditions
+*   CableONE Copyright Notice
+*   CableONE Annual Notice
 
 Search Search Type Residential Business Support
 
