@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 26%  3% 
+What is PeekScore? Public Records &. Background Checks 10%  2% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 26%  3% 
     
 *   Show Less ...
 
-26%  26%  Arrest Records &. Driving Infractions
+10%  10%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 25%  Twitter 2% 
+Facebook 10%  Twitter 1% 
 
 *   Cristiano Ronaldo - Cristiano
     
@@ -199,7 +199,7 @@ Facebook 25%  Twitter 2% 
     
 *   Show Less ...
 
-Pinterest 25%  Wikipedia 2% 
+Pinterest 9%  Wikipedia 1% 
 
 *   Medana
     
@@ -218,7 +218,7 @@ Pinterest 25%  Wikipedia 2% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Instagram 2% 
+Instagram 1% 
 
 *   Karen McDowall - privacy\_\_\_policy
     
@@ -244,7 +244,7 @@ Instagram 2% 
     
 *   Show Less ...
 
-Google+ 2% 
+Google+ 1% 
 
 *   Free Privacy Policy - Google+
     
@@ -278,7 +278,7 @@ Google+ 2% 
     
 *   Show Less ...
 
-Linkedin 2% 
+Linkedin 1% 
 
 *   Privacy Policy | LinkedIn
     
@@ -324,7 +324,7 @@ Linkedin 2% 
     
 *   Show Less ...
 
-Foursquare 2% 
+Foursquare 1% 
 
 *   privacy policy
     
@@ -358,7 +358,7 @@ Foursquare 2% 
     
 *   Show Less ...
 
-Music 2% 
+Music 1% 
 
 *   Pandora
     
@@ -404,7 +404,7 @@ Music 2% 
     
 *   Show Less ...
 
-Photo Albums 2% 
+Photo Albums 1% 
 
 *   Flickr
     
@@ -415,7 +415,7 @@ Photo Albums 2% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 2% 
+Myspace 1% 
 
 *   Privacy Policy - 49086242
     
@@ -439,7 +439,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Documents 2% 
+Documents 1% 
 
 *   Privacy Policy - Google
     
@@ -485,7 +485,7 @@ Documents 2% 
     
 *   Show Less ...
 
-Web Search 2% 
+Web Search 1% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -531,7 +531,7 @@ Web Search 2% 
     
 *   Show Less ...
 
-Images 2% 
+Images 1% 
 
 20
 
