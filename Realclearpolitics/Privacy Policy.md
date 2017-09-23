@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _John Cassidy_: There Is No Trump Doctrine, Only Contradictions &. Bluster
+*   _Paul Krugman_: Cruelty, Incompetence and Lies
     
-*   _Conrad Black_: Trump's Bold Defense of America
+*   _Ben Domenech_: Jimmy Kimmel Has No Clue What He's Talking About
     
-*   _Margaret Carlson_: GOP Not Even Sure Why They're Doing New Health Care Bill
+*   _James Arkin_: Twin Crucibles for GOP: Alabama Runoff, Obamacare Repeal
     
-*   _John Daniel Davidson_: Graham-Cassidy Is the Best GOP Health Plan Yet
+*   _Jordain Carney_: McCain to Vote No on Obamacare Repeal
     
-*   _Jeff Greenfield_: The Strange Authenticity of Hillary Clinton
+*   _Rich Lowry_: Trump's 'Sovereignty' Talk Was What U.N. Needed to Hear
     
-*   _Ed Rogers_: Hillary Clinton 3.0 Isn't Helping the Democrats Move On
+*   _E.J. Dionne_: On World Stage, Trump's Tough Talk Makes Us Weaker
     
-*   _Jonathan Bernstein_: Republicans Looking for Easiest Way Out on Taxes
+*   _Sebastian Gorka_: Rein In Deep State to Secure the Blessings of Liberty
     
-*   _Sen. Thom Tillis_: Tax Reform Transformed N. Carolina. Congress, Take Note
+*   _Chris Cillizza_: Trump Has No Evidence That His Wiretapping Claim Was Right
     
-*   _Mark Joseph Stern_: Trump's Judges Will Transform America
+*   _Holman Jenkins_: Democrats Collude With Moscow Don
     
-*   _Ben Domenech_: 13 Questions About the Wiretapping of Paul Manafort
+*   _Mark A. Jamison_: What the Facebook-Russian Nexus Can Teach Us
     
-*   _Peter Cummings_: I'm a Brain Scientist and I Let My Son Play Football
+*   _Wilbur Ross_: These NAFTA Rules Are Killing Our Jobs
     
-*   _Lanhee Chen_: Republicans Get One Last Chance to Replace Obamacare
+*   _Philip Elliott_: Can Anything Save the Democrats?
     
-*   _Albert Hunt_: The GOP Peddles Nonsense to Sell Its Health-Care Plan
+*   _Caitlin Huey-Burns_: Trump's Alabama Rally Spotlights GOP Divide
     
-*   _Marc Thiessen_: Why the Left Hated Trump's Smart U.N. Speech
+*   _Wesley Pruden_: The Sad Tale of Two Stumbling Parties
     
-*   _Michael Fuchs_: Is Trump About to Repeat Bush 43's Worst Mistake?
+*   _Eleanor Clift_: Democrats Pin Their Hopes on War Heroes
     
-*   _Peter Robinson_: Trump Through a Pinhole
+*   _Jim Geraghty_: The Unlearned Lessons of 2016
     
-*   _Stephen Collinson_: Trump Slashes at Obama's Legacy, But Risks His Own
+*   _David Axelrod_: I Cried When We Passed Obamacare
     
-*   _Sharyl Attkisson_: Looks Like Obama Did Spy on Trump--and Apparently Me
+*   _David Harsanyi_: Jimmy Kimmel's Cheap Zero-Sum Emotionalism
     
-*   _Cristian Farias_: Why Trump Must Comply With Mueller's Demands
+*   _Ryan Lizza_: A Dizzying Week of Trump-Russia Revelations
     
-*   _Victor Davis Hanson_: Claims of Foreign Election Tampering Always Rang Hollow
+*   _Daniel Flynn_: Russia Didn't Hack the Election. Obama Did
     
-*   _Nicole Nelson_: When Will Black Lives Matter in St. Louis?
+*   _David Ignatius_: U.S. Must Think Outside the Box on North Korea
     
-*   _Philippe Lemoine_: Police Violence Against Black Men Is Rare
+*   _Christie Blatchford_: Trump Spoke Ugly Truth in Refreshing UN Speech
     
-*   _David Catanese_: Trump vs. Bannon in 'Bama
+*   _Dani McClain_: Can Black Lives Matter Win in the Age of Trump?
     
-*   _Bryce Covert_: Deadbeat Democrats
+*   _Piers Morgan_: Mad About White Girls Singing a Song? Blame Kanye
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Republican Senator Defends Health Plan Against Kimmel Attacks
+*   Twin Crucibles for Republicans: AL Runoff, Obamacare Repeal
+*   Trump's Alabama Rally May Spotlight Republican Divide
+*   Clapper: "Possible" That Trump Was Recorded on Manafort Wiretap
 *   Diplomats Meet on Iran Deal as Trump Stays Mum on Decision
-*   Obama Expresses Frustration Over Health Law Repeal Effort
-*   At U.N., Trump Threatens to "Totally Destroy" N. Korea
-*   Trump's U.N. Trip Draws Spotlight to Nikki Haley
+*   Republican Senator Defends Health Plan Against Kimmel Attacks
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -281,24 +281,24 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalCNN
-    *   Approve42
-    *   Disapprove53Disapprove +11
-*   President Trump Job ApprovalNBC News/Wall St. Jrnl
-    *   Approve43
-    *   Disapprove52Disapprove +9
 *   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove56Disapprove +19
+    *   Approve38
+    *   Disapprove56Disapprove +18
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve43
     *   Disapprove55Disapprove +12
+*   Alabama Senate Run-Off Election - Moore vs. StrangeFOX 10/Strategy Research
+    *   Moore54
+    *   Strange46Moore +8
+*   President Trump Job ApprovalCNN
+    *   Approve42
+    *   Disapprove53Disapprove +11
 
 More Latest Polls In The News
 
 *   Tucker Carlson vs. Rob Reiner: If We Are At War With Russia Would You Support Bombing Of St. Petersburg?
 *   Maxine Waters: Impeachment Is Whatever Congress Says It Is, No Law That Dictates Impeachment
-*   Dem Rep.: McCain Will Make "Good Choices" On Health Care Because "He's Staring Death In The Face"
+*   Ellen Degeneres to Megyn Kelly: As A Gay Woman, I Can't Have "Dangerous" Donald Trump On My Show
 *   Douglas Murray: Recasting The Immigration/Identity Debate In Terms Of Mercy vs. Justice, Not Good vs. Evil
 *   Hannity On Tapping Trump: Lazy Liberal Media Have Been Exposed As Frauds Yet Again
 
