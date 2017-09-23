@@ -8,7 +8,6 @@ Menu
 *   Packages &. Flights
 *   Group Bookings
 *   Gift Cards
-*   Add your property
 *   Help
 *   Website feedback
 
