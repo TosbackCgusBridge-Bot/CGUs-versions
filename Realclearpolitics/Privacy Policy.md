@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Rallies for Strange in AL, Vows He Will "Drain the Swamp"
+*   McCain Opposes Graham-Cassidy Bill, Dealing a Significant Blow
+*   Carlson vs. Reiner: Would You Support Bombing of St. Petersburg?
 *   Twin Crucibles for Republicans: AL Runoff, Obamacare Repeal
-*   Trump's Alabama Rally May Spotlight Republican Divide
-*   Clapper: "Possible" That Trump Was Recorded on Manafort Wiretap
 *   Diplomats Meet on Iran Deal as Trump Stays Mum on Decision
-*   Republican Senator Defends Health Plan Against Kimmel Attacks
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalABC News/Wash Post
+    *   Approve42
+    *   Disapprove54Disapprove +12
 *   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove56Disapprove +18
+    *   Approve37
+    *   Disapprove56Disapprove +19
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve43
     *   Disapprove55Disapprove +12
 *   Alabama Senate Run-Off Election - Moore vs. StrangeFOX 10/Strategy Research
     *   Moore54
     *   Strange46Moore +8
-*   President Trump Job ApprovalCNN
-    *   Approve42
-    *   Disapprove53Disapprove +11
 
 More Latest Polls In The News
 
+*   Costas: Politics Often Intersects With Sports, But "Mouthbreathers" Say "Leave It All Out Of Sports"
+*   David Brooks: "We Look Like The Bad Guys" After Trump's "Nationalistic" U.N. Speech Against North Korea
+*   Trump: NFL Owners Should Fire The "Son Of A Bitch" Player Who "Disrespects Our Flag" By Kneeling
+*   Attkisson: I Was Wiretapped By The Government. "Almost Insurmountable" To Seek Justice
 *   Tucker Carlson vs. Rob Reiner: If We Are At War With Russia Would You Support Bombing Of St. Petersburg?
-*   Maxine Waters: Impeachment Is Whatever Congress Says It Is, No Law That Dictates Impeachment
-*   Ellen Degeneres to Megyn Kelly: As A Gay Woman, I Can't Have "Dangerous" Donald Trump On My Show
-*   Douglas Murray: Recasting The Immigration/Identity Debate In Terms Of Mercy vs. Justice, Not Good vs. Evil
-*   Hannity On Tapping Trump: Lazy Liberal Media Have Been Exposed As Frauds Yet Again
 
 *   Politics
 *   Policy
