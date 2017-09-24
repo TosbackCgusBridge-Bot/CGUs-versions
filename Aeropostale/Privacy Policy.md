@@ -30,8 +30,6 @@ Close submenu ( Features ) Features
 
 *   View All
 *   New Arrivals
-*   $5 Special
-*   $15 Special
 *   Icon Tees
 *   Trending
 *   Uniform
@@ -89,8 +87,6 @@ Close submenu ( Features ) Features
 
 *   View All
 *   New Arrivals
-*   $5 Special
-*   $15 Special
 *   Tapout
 *   Trending
 *   Icon Tees
@@ -252,7 +248,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**50-70% OFF** + **FREE SHIPPING ON $87** + **$5 FLAT RATE**
+**60% OFF** + **FREE SHIPPING ON $87** + **$5 FLAT RATE**
 
 *   My Account My Account Login Register
 
@@ -264,8 +260,6 @@ Menu Find a Store Aeropostale
     *   Features
         *   View All
         *   New Arrivals
-        *   $5 Special
-        *   $15 Special
         *   Icon Tees
         *   Trending
         *   Uniform
@@ -313,8 +307,6 @@ Menu Find a Store Aeropostale
     *   Features
         *   View All
         *   New Arrivals
-        *   $5 Special
-        *   $15 Special
         *   Tapout
         *   Trending
         *   Icon Tees
@@ -364,7 +356,6 @@ Menu Find a Store Aeropostale
         *   Straight
         *   Super Skinny
         *   Relaxed
-    
 *   Live Love Dream
     
     *   View Home
@@ -446,15 +437,15 @@ Menu Find a Store Aeropostale
 *   Sign Up/Login
 *   Refer a Friend
 
-0 Search Catalog Search Promotions Shop Girls Shop Guys Shop Girls Shop Guys shop girls shop guys
+0 Search Catalog Search Promotions Shop Girls Shop Guys shop girls shop guys
 
 *   Lounge Starting at $10.00 Shop Lounge
 *   Leggings Starting at $17.80 Shop Leggings
-*   $5 Special Starting at $6.00 Shop Girls Shop Guys
+*   Dresses Starting at $12.00 Shop Dresses
 *   Pants Starting at Shop Guys Shop Girls
 *   Lounge Starting at $10.00 Shop Lounge
 *   Leggings Starting at $17.80 Shop Leggings
-*   $5 Special Starting at $6.00 Shop Girls Shop Guys
+*   Dresses Starting at $12.00 Shop Dresses
 *   Pants Starting at Shop Guys Shop Girls
 
 *   1
@@ -468,10 +459,10 @@ OUR FEATURED STYLES
 *   LLD #BESTBOOTYEVER Marled Leggings $49.50 $19.80
 *   Faux Suede Moto Jacket $89.50 $40.00
 *   3/4 Bell Sleeve Ribbed Sweater $44.50 $15.00
-*   Buy 1 Get 1 Free Seriously Stretchy High-Waisted Jegging $49.50
+*   Seriously Stretchy High-Waisted Jegging $49.50 $19.80
 *   Military Bomber Jacket $89.50 $44.75
 *   Long Sleeve Heathered Check Woven Shirt $44.50 $14.00
-*   Classic Reflex Joggers $44.50 $18.00
+*   Classic Reflex Joggers $44.50 $17.80
 *   LLD Melange Live Love Run Full-Zip Hoodie $49.50 $18.00
 *   LLD Studio Low Impact Y-Back Sports Bra $24.50 $15.00
 *   LLD #BESTBOOTYEVER Marled Leggings $49.50 $19.80
