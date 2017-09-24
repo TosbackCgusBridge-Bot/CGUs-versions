@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Marine &. Aviation Charting Assessing Irma’s destruction from the air: Aerial images available Oceans &. Coasts Video: Could you survive a rip current? See how National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Marine &. Aviation Charting Assessing Maria's destruction from the air: Aerial photos are available Oceans &. Coasts Video: Could you survive a rip current? See how National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Globe sees 2nd warmest year to date, 3rd warmest August on record Arctic and Antarctic sea ice coverage remains at near-record lows AROUND NOAA // Hurricane Maria churning in the Atlantic Video: Could you survive a rip current? See how 2017 Arctic sea ice minimum comes in at eighth smallest on record Assessing Irma’s destruction from the air: Aerial images available
+Enter Search Terms Globe sees 2nd warmest year to date, 3rd warmest August on record Arctic and Antarctic sea ice coverage remains at near-record lows AROUND NOAA // Assessing Maria's destruction from the air: Aerial photos are available Hurricane Maria churning in the Atlantic Video: Could you survive a rip current? See how 2017 Arctic sea ice minimum comes in at eighth smallest on record
 
 *   About our agency
 *   News and features
