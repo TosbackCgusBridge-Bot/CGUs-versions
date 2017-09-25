@@ -262,8 +262,8 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Rallies for Strange in AL, Vows He Will "Drain the Swamp"
 *   McCain Opposes Graham-Cassidy Bill, Dealing a Significant Blow
+*   Trump Rallies for Strange in AL, Vows He Will "Drain the Swamp"
 *   Carlson vs. Reiner: Would You Support Bombing of St. Petersburg?
 *   Twin Crucibles for Republicans: AL Runoff, Obamacare Repeal
 *   Diplomats Meet on Iran Deal as Trump Stays Mum on Decision
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Alabama Senate Run-Off Election - Moore vs. StrangeEmerson
+    *   Moore50
+    *   Strange40Moore +10
+*   Alabama Senate Run-Off Election - Moore vs. StrangeGravis
+    *   Moore48
+    *   Strange40Moore +8
+*   Alabama Senate Run-Off Election - Moore vs. Strange0ptimus
+    *   Moore55
+    *   Strange45Moore +10
 *   President Trump Job ApprovalABC News/Wash Post
     *   Approve42
     *   Disapprove54Disapprove +12
-*   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove56Disapprove +19
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove55Disapprove +12
-*   Alabama Senate Run-Off Election - Moore vs. StrangeFOX 10/Strategy Research
-    *   Moore54
-    *   Strange46Moore +8
 
 More Latest Polls In The News
 
+*   Rand Paul: Graham-Cassidy Obamacare Bill "Sets Up A Perpetual Food Fight" Over Federal Funds
+*   Iranian Foreign Minister: We Will Never Develop Nuclear Weapons. "A Lot Of Fearmongering Going On"
 *   Costas: Politics Often Intersects With Sports, But "Mouthbreathers" Say "Leave It All Out Of Sports"
 *   David Brooks: "We Look Like The Bad Guys" After Trump's "Nationalistic" U.N. Speech Against North Korea
 *   Trump: NFL Owners Should Fire The "Son Of A Bitch" Player Who "Disrespects Our Flag" By Kneeling
-*   Attkisson: I Was Wiretapped By The Government. "Almost Insurmountable" To Seek Justice
-*   Tucker Carlson vs. Rob Reiner: If We Are At War With Russia Would You Support Bombing Of St. Petersburg?
 
 *   Politics
 *   Policy
