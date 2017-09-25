@@ -150,7 +150,7 @@ Play The Matthews Family Knows Football Video hotspot
 
 Learn about PlayStation Vue availability, subscriptions, channels and more: playstation.com/vue
 
-4 days ago
+5 days ago
 
 View Tweet
 
@@ -224,7 +224,7 @@ View Stacked on bass. on Instagram
 
 Experience Gran Turismo Sport on #PS4 and #PSVR weeks before launch. Now at #SonySquareNYC.
 
-3 days ago
+4 days ago
 
 View Tweet
 
@@ -308,7 +308,7 @@ View What 8 Million Perfect Pixels Look Like on Instagram
 
 RT @BryanCranston: Why should kids get all the #Halloween treats? This #Crackle original special Drag Me to Halloween is especially spooky #SuperMansion
 
-4 days ago
+5 days ago
 
 View Tweet
 
