@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 11%  2% 
+What is PeekScore? Public Records &. Background Checks 12%  2% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 11%  2% 
     
 *   Show Less ...
 
-11%  11%  Arrest Records &. Driving Infractions
+12%  12%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 11%  Twitter 2% 
+Facebook 12%  Twitter 2% 
 
 *   Cristiano Ronaldo - Cristiano
     
@@ -199,7 +199,7 @@ Facebook 11%  Twitter 2% 
     
 *   Show Less ...
 
-Pinterest 11%  Wikipedia 2% 
+Pinterest 12%  Wikipedia 2% 
 
 *   Medana
     
@@ -244,7 +244,7 @@ Instagram 2% 
     
 *   Show Less ...
 
-Google+ 2% 
+Google+ 1% 
 
 *   Free Privacy Policy - Google+
     
@@ -278,7 +278,7 @@ Google+ 2% 
     
 *   Show Less ...
 
-Linkedin 2% 
+Linkedin 1% 
 
 *   Privacy Policy | LinkedIn
     
@@ -324,7 +324,7 @@ Linkedin 2% 
     
 *   Show Less ...
 
-Foursquare 2% 
+Foursquare 1% 
 
 *   privacy policy
     
@@ -358,7 +358,7 @@ Foursquare 2% 
     
 *   Show Less ...
 
-Music 2% 
+Music 1% 
 
 *   Pandora
     
@@ -404,7 +404,7 @@ Music 2% 
     
 *   Show Less ...
 
-Photo Albums 2% 
+Photo Albums 1% 
 
 *   Flickr
     
@@ -415,7 +415,7 @@ Photo Albums 2% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 2% 
+Myspace 1% 
 
 *   Privacy Policy - 49086242
     
@@ -439,53 +439,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Documents 2% 
-
-*   Privacy Policy - Google
-    
-    Privacy Policy. Last modified: March 1, 2017 (view archived versions) (The hyperlinked examples are available at the end of this document.) There are many  ...
-    
-*   Generic Privacy Policy template - TermsFeed
-    
-    Generic Privacy Policy template. Privacy Policy. Last updated: ​(add date). My Company (change this)​("us", "we", or "our") operates ​http://www.mysite.com ...
-    
-*   PRIVACY POLICY This Privacy Policy applies to Web.com Group ...
-    
-    website displaying this Privacy Policy or a link thereto (a "Website", ... This Privacy Policy is further subject to the Web.com Services Agreement related to the ...
-    
-*   Privacy Policy - Fairway Independent Mortgage Corporation
-    
-    Page 1. Privacy Statement. Fairway Independent Mortgage Corporation is committed to protecting your privacy and developing technology that gives you.
-    
-*   Show More ...
-
-*   Privacy Policy | Incyte.com
-    
-    Our Human Resource Privacy Policy can be found at http://www.incyte.com/ privacy.aspx#resource-policy. Research. Our primary business is the discovery, ...
-    
-*   NASBA.org Privacy Policy The National Association of State Boards ...
-    
-    You consent to our Terms of Use, Privacy Policy, use of cookies and the processing of data about you in the manner and for the purposes set out below. If you do ...
-    
-*   Privacy Policy - Trane
-    
-    Privacy Policy. Ingersoll-Rand plc ("Ingersoll-Rand") respects individual privacy and values the confidence of its customers, employees, vendors, consumers, ...
-    
-*   Privacy Policy - Fyber
-    
-    Privacy Policy. We at Fyber care about our users' and partners' privacy and are committed to disclose our data practices. This policy (“Privacy Policy”) explains ...
-    
-*   Privacy Policy - University of Phoenix
-    
-    University of Phoenix PRIVACY POLICY – SUMMARY. Updated: April 18, 2016. Summarized below are key elements of our Privacy Policy. To read our full ...
-    
-*   Privacy Policy - Zyndio
-    
-    PRIVACY POLICY. The protection of personal information is crucial with the Zyndio Health Sciences. (“Zyndio”). Privacy protection is, and always will be, critical ...
-    
-*   Show Less ...
-
-Web Search 2% 
+Documents 11%  Web Search 1% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -531,7 +485,7 @@ Web Search 2% 
     
 *   Show Less ...
 
-Images 2% 
+Images 1% 
 
 20
 
