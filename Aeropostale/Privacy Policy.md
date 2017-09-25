@@ -248,7 +248,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**60% OFF** + **FREE SHIPPING ON $87** + **$5 FLAT RATE**
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **60% OFF** + **FREE SHIPPING ON $87** + **$5 FLAT RATE**
 
 *   My Account My Account Login Register
 
@@ -459,10 +459,10 @@ OUR FEATURED STYLES
 *   LLD #BESTBOOTYEVER Marled Leggings $49.50 $19.80
 *   Faux Suede Moto Jacket $89.50 $40.00
 *   3/4 Bell Sleeve Ribbed Sweater $44.50 $15.00
-*   Seriously Stretchy High-Waisted Jegging $49.50 $19.80
+*   Seriously Stretchy High-Waisted Jegging $49.50
 *   Military Bomber Jacket $89.50 $44.75
 *   Long Sleeve Heathered Check Woven Shirt $44.50 $14.00
-*   Classic Reflex Joggers $44.50 $17.80
+*   Classic Reflex Joggers $44.50 $18.00
 *   LLD Melange Live Love Run Full-Zip Hoodie $49.50 $18.00
 *   LLD Studio Low Impact Y-Back Sports Bra $24.50 $15.00
 *   LLD #BESTBOOTYEVER Marled Leggings $49.50 $19.80
