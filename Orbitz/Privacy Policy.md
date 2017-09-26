@@ -1,4 +1,4 @@
-Skip to main content Cobranded header here Welcome to Orbitz.com **Continue to the U.S. site at Orbitz.com** close Booking travel on behalf of Done Join Rewards //a.travel-assets.com/globalcontrols-service/content/77a742f26cf39116499c2175139614c183a9b633 Search anything Search
+Skip to main content Cobranded header here Welcome to Orbitz.com **Continue to the U.S. site at Orbitz.com** close Booking travel on behalf of Done Join Rewards //a.travel-assets.com/globalcontrols-service/content/e9630996baf36664b3d02974cce9411df1848ac4 Search anything Search
 
 Show Menu
 
@@ -50,7 +50,7 @@ Show Menu
     *   Feedback
 *   Español
 
-//a.travel-assets.com/globalcontrols-service/content/77a742f26cf39116499c2175139614c183a9b633 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/e9630996baf36664b3d02974cce9411df1848ac4 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Hotels
