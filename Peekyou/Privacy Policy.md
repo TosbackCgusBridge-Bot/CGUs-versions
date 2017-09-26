@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 12%  2% 
+What is PeekScore? Public Records &. Background Checks 21%  2% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 12%  2% 
     
 *   Show Less ...
 
-12%  12%  Arrest Records &. Driving Infractions
+21%  21%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 12%  Twitter 2% 
+Facebook 21%  Twitter 2% 
 
 *   Cristiano Ronaldo - Cristiano
     
@@ -199,7 +199,7 @@ Facebook 12%  Twitter 2% 
     
 *   Show Less ...
 
-Pinterest 12%  Wikipedia 2% 
+Pinterest 21%  Wikipedia 2% 
 
 *   Medana
     
@@ -244,7 +244,7 @@ Instagram 2% 
     
 *   Show Less ...
 
-Google+ 1% 
+Google+ 2% 
 
 *   Free Privacy Policy - Google+
     
@@ -278,7 +278,7 @@ Google+ 1% 
     
 *   Show Less ...
 
-Linkedin 1% 
+Linkedin 2% 
 
 *   Privacy Policy | LinkedIn
     
@@ -324,7 +324,7 @@ Linkedin 1% 
     
 *   Show Less ...
 
-Foursquare 1% 
+Foursquare 2% 
 
 *   privacy policy
     
@@ -358,7 +358,7 @@ Foursquare 1% 
     
 *   Show Less ...
 
-Music 1% 
+Music 2% 
 
 *   Pandora
     
@@ -404,7 +404,7 @@ Music 1% 
     
 *   Show Less ...
 
-Photo Albums 1% 
+Photo Albums 2% 
 
 *   Flickr
     
@@ -415,7 +415,7 @@ Photo Albums 1% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 1% 
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -439,7 +439,7 @@ Myspace 1% 
     
 *   Show Less ...
 
-Documents 11%  Web Search 1% 
+Documents 21%  Web Search 2% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -485,7 +485,7 @@ Documents 11%  Web Search 1% 
     
 *   Show Less ...
 
-Images 1% 
+Images 2% 
 
 20
 
@@ -498,12 +498,6 @@ twitterx
 instagramx
 
 foursquarex
-
-*   Find Out Who Called!
-    
-    There was a time when a ringing phone was a mysterious beckoning, one approached with bravery and cautious optimism. Most phones have been equipped wi…
-    
-    Read More
 
 *   About PeekYou
 *   Privacy Policy
