@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Globe sees 2nd warmest year to date, 3rd warmest August on record Arctic and Antarctic sea ice coverage remains at near-record lows AROUND NOAA // Assessing Maria's destruction from the air: Aerial photos are available Hurricane Maria churning in the Atlantic Video: Could you survive a rip current? See how 2017 Arctic sea ice minimum comes in at eighth smallest on record
+Enter Search Terms It's #AquacultureWeek at NOAA See how aquaculture is creating new opportunities for commercial fishermen AROUND NOAA // South Carolina oyster farming: One man finds success on the half shell Assessing Maria's destruction from the air: Aerial photos are available Hurricane Maria is churning in the Atlantic Globe sees 2nd warmest year to date, 3rd warmest August on record
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock image
+iStock
