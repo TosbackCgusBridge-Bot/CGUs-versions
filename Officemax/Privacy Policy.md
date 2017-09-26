@@ -16,7 +16,7 @@ Company Info at Office Depot SEG1 hp
     enter your number below.
 *   Login or Register
 
-Office Depot Deals 7t0VXTi8yMYaWvH2\_ejfByj
+Office Depot Deals edaAn20zGduyOghYaao\_wOf
 
 Search Suggestions
 
@@ -158,7 +158,7 @@ and get special financing options
 Not a member? Join today. It's FREE!
 
  **1-800-GO-DEPOT**  
-(1-800-463-3768)  Live Chat Available 24/7  **FREE** store pickup.  
+(1-800-463-3768)   Live Chat Available 24/7  **FREE** store pickup.  
 order online  
 ready in 1 hour!  **Tap our app**  
 get offers,  
@@ -167,76 +167,54 @@ compare prices  Signup to receive
 exclusive offers  
 to your inbox
 
-*   PRODUCTS
-*   Ativa®
-*   Black Friday 2017
+*   CUSTOMER SERVICE
+*   Help Center
+*   FAQs
+*   Check Order Status
+*   Return an Item
+*   Contact Us
 *   Gift &. Rewards Cards
-*   Greener Office
-*   Products A-Z
-*   Write a Product Review  
-     
+*   Price Match Policy
 
-*   BUSINESS SERVICES
-*   Merchant Credit Card Processing
-*   Small Business Loans
-*   Browse More Services  
-     
-
-*   BUSINESS RESOURCES
-*   20+ Employee Businesses
-*   Ideas Center
-*   Print &. Copy
-*   Squaretrade Protection Plans
-*   Prevention of Online Threats
-*   Property Damage Protection
-*   Security Solutions
-*   Shredding Services
-*   We Fix Computers
-*   We Fix Cell Phones
-*   Tech Trade-In
-
-*   ABOUT US
-*   Find a Store
-*   About Office Depot®
-*   Affiliate Program
+*   COMPANY INFO
+*   About Office Depot
+*   Corporate Sustainability
 *   Careers
 *   Compliance and Ethics
-*   Supply Chain Transparency Act
 *   Diversity
-*   FAQs
-*   Government Programs
 *   Investor Relations
 *   Media Relations
-*   Office Depot Foundation
-*   Women in Business
-*   Corporate Sustainability
+*   CA Supply Chain Disclosure
 
-*   CUSTOMER SERVICE
-*   Customer Service
+*   RESOURCES
+*   Store Locator
+*   Services
+*   Online Catalogs
+*   Rebates
 *   Customer Survey
-*   Delivery Info
-*   Mail-in Savings Center
-*   Order by item#
-*   Order Tracking
-*   Recall Notices
-*   Returns and Exchanges
-*   Reorder
-*   Request a Catalog
-*   Website Feedback
+*   20+ Employee Businesses
 
-*   SPECIAL PROGRAMS
-*   5% Back to Schools Program
+*   SHOPPING
+*   Order by Item Number
+*   Write Product Review
+*   Black Friday 2017
+*   Subscriptions
+*   Recall Notices
+*   Greener Office Products
+
+*   PROGRAMS
+*   Affiliate Program
+*   Give Back to School Program
 *   Veterans Advantage
+*   Government Programs
 *   Associate Discount
 
 MOBILE APPS          
 
-*   Site Map
 *   Terms of Use
 *   Privacy Policy
 *   Office Depot Tracking Tools
 *   Office Depot Anywhere
-*   International
 *   Grand &. Toy Canada
 
 **Norton Secure**  
@@ -257,4 +235,4 @@ This promotion is for Rewards members only. To take advantage of exclusive offer
 
 Join Sign In
 
-/account/v2/editBillingDisplay,/orderhistory/subsManager,/orderhistory/submitReturn,/account/accountSummaryDisplay,/account/loginAccountDisplay,/account/myfiles,/csl/listAll Feedback Will open a new window
+/account/v2/editBillingDisplay,/orderhistory/subsManager,/orderhistory/submitReturn,/account/accountSummaryDisplay,/account/loginAccountDisplay,/account/myfiles,/csl/listAll
