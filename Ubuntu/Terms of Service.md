@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   LXD Weekly Status #16 ›
+*   UbuCon Europe 2017 ›
 *   Canonical Distribution of Kubernetes: Dev Summary (Sept 22 2017) ›
 *   Ubuntu Desktop Weekly Update: September 22, 2017 ›
 *   Microsoft and Canonical Increase Velocity with Azure Tailored Kernel ›
-*   Kubernetes Snaps: The Quick Version ›
-*   Security Team Weekly Summary: September 21, 2017 ›
