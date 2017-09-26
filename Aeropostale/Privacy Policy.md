@@ -248,7 +248,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **60% OFF** + **FREE SHIPPING ON $87** + **$5 FLAT RATE**
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **EXTRA 20% OFF EVERYTHING** USE CODE: **EXTRA20**
 
 *   My Account My Account Login Register
 
@@ -437,15 +437,15 @@ Menu Find a Store Aeropostale
 *   Sign Up/Login
 *   Refer a Friend
 
-0 Search Catalog Search Promotions Shop Girls Shop Guys shop girls shop guys
+0 Search Catalog Search Promotions Shop Girls Shop Guys Shop Girls Shop Guys shop girls shop guys
 
 *   Lounge Starting at $10.00 Shop Lounge
 *   Leggings Starting at $17.80 Shop Leggings
-*   Dresses Starting at $12.00 Shop Dresses
+*   Dresses Starting at $15.00 Shop Dresses
 *   Pants Starting at Shop Guys Shop Girls
 *   Lounge Starting at $10.00 Shop Lounge
 *   Leggings Starting at $17.80 Shop Leggings
-*   Dresses Starting at $12.00 Shop Dresses
+*   Dresses Starting at $15.00 Shop Dresses
 *   Pants Starting at Shop Guys Shop Girls
 
 *   1
@@ -459,7 +459,7 @@ OUR FEATURED STYLES
 *   LLD #BESTBOOTYEVER Marled Leggings $49.50 $19.80
 *   Faux Suede Moto Jacket $89.50 $40.00
 *   3/4 Bell Sleeve Ribbed Sweater $44.50 $15.00
-*   Seriously Stretchy High-Waisted Jegging $49.50
+*   Buy 1 Get 1 Free Seriously Stretchy High-Waisted Jegging $49.50
 *   Military Bomber Jacket $89.50 $44.75
 *   Long Sleeve Heathered Check Woven Shirt $44.50 $14.00
 *   Classic Reflex Joggers $44.50 $18.00
