@@ -16,7 +16,7 @@
     *   Login
     *   |
     *   Register
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   0MY FAVORITES
 *   MY BAG
@@ -36,15 +36,15 @@
         
         *   Tops
         
-        *   Tees
         *   Shirts/Blouses
         *   Fashion Tops
+        *   Sweaters
+        *   Sweatshirts
+        *   Kimonos
+        *   Coats/Jackets
+        *   Tees
         *   Tanks
         *   Bandeaus/Bralettes
-        *   Kimonos
-        *   Sweatshirts
-        *   Sweaters
-        *   Coats/Jackets
         *   Shop All
         
         *   Bottoms
@@ -208,6 +208,7 @@
         *   Women's Bags
         *   Men's Hats
         *   Fall Boots
+        *   Men's Barbershop
         
         *   Women's New
         
@@ -487,9 +488,10 @@ ORDERS
 GUEST SERVICES
 
 *   FAQs
-*   Ship To Store
+*   Military Discount
 *   Contact Us
 *   Store Feedback
+*   Ship To Store
 
 GIFT CARD
 
@@ -519,9 +521,10 @@ ORDERS
 GUEST SERVICES
 
 *   FAQs
-*   Ship To Store
+*   Military Discount
 *   Contact Us
 *   Store Feedback
+*   Ship To Store
 
 STAY CONNECTED
 
