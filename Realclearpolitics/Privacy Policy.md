@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Paul Krugman_: Cruelty, Incompetence and Lies
+*   _Mollie Hemingway_: 5 Problems With the NFL's National Anthem Protest
     
-*   _Ben Domenech_: Jimmy Kimmel Has No Clue What He's Talking About
+*   _Jerry Brewer_: The NFL Beat Trump. Soundly.
     
-*   _James Arkin_: Twin Crucibles for GOP: Alabama Runoff, Obamacare Repeal
+*   _Rush Limbaugh_: There's No Way the NFL Wins This Fight
     
-*   _Jordain Carney_: McCain to Vote No on Obamacare Repeal
+*   _Bernie Sanders_: Time Is Ripe for Medicare for All
     
-*   _Rich Lowry_: Trump's 'Sovereignty' Talk Was What U.N. Needed to Hear
+*   _Scott Atlas_: Why Single Payer Health Care Is a Terrible Option
     
-*   _E.J. Dionne_: On World Stage, Trump's Tough Talk Makes Us Weaker
+*   _Gideon Rachman_: The End of German Exceptionalism
     
-*   _Sebastian Gorka_: Rein In Deep State to Secure the Blessings of Liberty
+*   _Eli Lake_: Can We Stop Calling It a 'Muslim Ban' Now?
     
-*   _Chris Cillizza_: Trump Has No Evidence That His Wiretapping Claim Was Right
+*   _Alex Roarty_: Meet the Party Boss Driving Dems to the Left
     
-*   _Holman Jenkins_: Democrats Collude With Moscow Don
+*   _Charles Hurt_: Donald Trump's Self-Interest Isn't a Bad Thing
     
-*   _Mark A. Jamison_: What the Facebook-Russian Nexus Can Teach Us
+*   _Robert Samuelson_: Hit the Brakes on Driverless Cars
     
-*   _Wilbur Ross_: These NAFTA Rules Are Killing Our Jobs
+*   _Michael Lev-Ram_: Ray Kurzweil Isn't Worried About Tech Stealing Your Job
     
-*   _Philip Elliott_: Can Anything Save the Democrats?
+*   _Jack Holmes_: The NFL Won't Forget September 24, 2017 Anytime Soon
     
-*   _Caitlin Huey-Burns_: Trump's Alabama Rally Spotlights GOP Divide
+*   _Scott Greer_: President Trump Wins When the NFL Takes a Knee
     
-*   _Wesley Pruden_: The Sad Tale of Two Stumbling Parties
+*   _Dean Obeidallah_: Trump's NFL Rant Proves He Doesn't Get American Values
     
-*   _Eleanor Clift_: Democrats Pin Their Hopes on War Heroes
+*   _Ralph Z. Hallow_: Sure, NFL Players Can Kneel. And Customers Can Walk
     
-*   _Jim Geraghty_: The Unlearned Lessons of 2016
+*   _Philipp Wittrock_: Merkel Lands Fourth Term, But at What Cost?
     
-*   _David Axelrod_: I Cried When We Passed Obamacare
+*   _Thomas Donohue_: A Nafta Exit Would Be a Rotten Deal
     
-*   _David Harsanyi_: Jimmy Kimmel's Cheap Zero-Sum Emotionalism
+*   _E.J. Dionne_: Can We Avoid a Health Care Horror?
     
-*   _Ryan Lizza_: A Dizzying Week of Trump-Russia Revelations
+*   _Alexandra DeSanctis_: Alabama's Curious Special Election
     
-*   _Daniel Flynn_: Russia Didn't Hack the Election. Obama Did
+*   _Tim Murphy_: Dems Don't Need to Win Texas - But They Might Anyway
     
-*   _David Ignatius_: U.S. Must Think Outside the Box on North Korea
+*   _Jed Babbin_: Unmasking: Yet Another Abuse of Powers
     
-*   _Christie Blatchford_: Trump Spoke Ugly Truth in Refreshing UN Speech
+*   _Cristian Farias_: Reading the Tea Leaves of Robert Mueller's Probe
     
-*   _Dani McClain_: Can Black Lives Matter Win in the Age of Trump?
+*   _Wayne Allyn Root_: Obamagate Will Make Watergate Look Like a Misdemeanor
     
-*   _Piers Morgan_: Mad About White Girls Singing a Song? Blame Kanye
+*   _Pablo Venes_: Puerto Rico Is in Dire Straits
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Trying to Turn Around Republican Holdouts on Health Bill
+*   President's Criticisms Spark More Protests at NFL Games
+*   Mnuchin: NFL Players "Can Do Free Speech on Their Own Time"
 *   McCain Opposes Graham-Cassidy Bill, Dealing a Significant Blow
-*   Trump Rallies for Strange in AL, Vows He Will "Drain the Swamp"
-*   Carlson vs. Reiner: Would You Support Bombing of St. Petersburg?
 *   Twin Crucibles for Republicans: AL Runoff, Obamacare Repeal
-*   Diplomats Meet on Iran Deal as Trump Stays Mum on Decision
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Alabama Senate Run-Off Election - Moore vs. StrangeEmerson
-    *   Moore50
-    *   Strange40Moore +10
-*   Alabama Senate Run-Off Election - Moore vs. StrangeGravis
-    *   Moore48
-    *   Strange40Moore +8
-*   Alabama Senate Run-Off Election - Moore vs. Strange0ptimus
-    *   Moore55
-    *   Strange45Moore +10
-*   President Trump Job ApprovalABC News/Wash Post
-    *   Approve42
-    *   Disapprove54Disapprove +12
+*   Alabama Senate Run-Off Election - Moore vs. StrangeTrafalgar Group (R)
+    *   Moore57
+    *   Strange41Moore +16
+*   Virginia Governor - Gillespie vs. NorthamChristopher Newport Univ.\*
+    *   Northam47
+    *   Gillespie41Northam +6
+*   New Jersey Governor - Guadagno vs. MurphySuffolk\*
+    *   Murphy44
+    *   Guadagno25Murphy +19
+*   President Trump Job ApprovalCBS News
+    *   Approve35
+    *   Disapprove55Disapprove +20
 
 More Latest Polls In The News
 
-*   Rand Paul: Graham-Cassidy Obamacare Bill "Sets Up A Perpetual Food Fight" Over Federal Funds
-*   Iranian Foreign Minister: We Will Never Develop Nuclear Weapons. "A Lot Of Fearmongering Going On"
-*   Costas: Politics Often Intersects With Sports, But "Mouthbreathers" Say "Leave It All Out Of Sports"
-*   David Brooks: "We Look Like The Bad Guys" After Trump's "Nationalistic" U.N. Speech Against North Korea
-*   Trump: NFL Owners Should Fire The "Son Of A Bitch" Player Who "Disrespects Our Flag" By Kneeling
+*   Hillary Clinton: Quite Telling That Trump Is Willing To Attack Black Athletes, "Dog Whistle" To Base
+*   Costas: Kaepernick Sometimes Sounds Like He Took A Class From A Radical Professor, Knows Everything
+*   NFL Great Burgess Owens: Flag Protest Result Of Liberal Ideology That Destroyed The Black Family
+*   Tapper: Trump Says This Is Not About Race, But He Called Upon White Owners To Punish Black Players
+*   Hemingway: Kneeling Protest Not Well Designed, People Don't Understand What They're Protesting
 
 *   Politics
 *   Policy
