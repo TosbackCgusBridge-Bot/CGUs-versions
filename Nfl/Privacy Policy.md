@@ -1,37 +1,4 @@
-*   DAL1-1ARI1-1September 25, 2017 8:30:00 PM EDT ET
-*   LA2-141SF0-339Final
-*   BAL2-17JAX2-144Final
-*   DEN2-116BUF2-126Final
-*   NO1-234CAR2-113Final
-*   PIT2-117CHI1-223Final (OT)
-*   ATL3-030DET2-126Final
-*   CLE0-328IND1-231Final
-*   TB1-117MIN2-134Final
-*   HOU1-233NE2-136Final
-*   MIA1-16NYJ1-220Final
-*   NYG0-324PHI2-127Final
-*   SEA1-227TEN2-133Final
-*   CIN0-324GB2-127Final (OT)
-*   KC3-024LAC0-310Final
-*   OAK2-110WAS2-127Final
-
-*   News
-*   Scores
-*   Schedule
-*   Standings
-*   Video
-*   Fantasy
-*   Tickets
-*   Shop
-*   Teams
-*   Game Pass
-*   Stats
-*   LONDON GAMES
-*   Ways to Watch
-*   NFL Network
-*   Photos
-
-*   DAL1-1ARI1-1September 25, 2017 8:30:00 PM EDT ET
+*   DAL0ARI?01st ? 13:09
 *   LA41SF39Final
 *   BAL7JAX44Final
 *   DEN16BUF26Final
