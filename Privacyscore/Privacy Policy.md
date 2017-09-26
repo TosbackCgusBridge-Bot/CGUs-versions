@@ -81,7 +81,6 @@ Whatever your device, we’ve got you covered About AVG
 *   Profile
 *   Media Center
 *   Policies
-*   Reseller Locator
 *   Contact Us
 
 Home Products
