@@ -30,10 +30,11 @@ Skip to main content
             7.  NBC Sports Network (NBCSN)NBC Sports Network (NBCSN)Serves today's passionate sports fans with coverage of the Summer and Winter Olympics, NHL, Premier League, Formula One, MLS, Tour de France and more.NBC Sports Network (NBCSN)
             8.  Oxygen MediaOxygen MediaMultiplatform brand targeting young multicultural women. Features unscripted original programming that reflects how very real women see the world.Oxygen Media
             9.  SYFYSYFYA leader in imagination-based entertainment, including year round original series, events, blockbuster movies, classic science fiction &. fantasy.SYFY
-            10.  The Weather Channel CompanyThe Weather Channel CompanyProvides millions of people every day with the world's best weather forecasts, content and data.The Weather Channel Company
-            11.  Universal KidsUniversal KidsAs a kid-focused ecosystem with great TV content at the center, Universal Kids is programmed for the 2-12 year old audience, with a fresh mix of animated content, unscripted entertainment, and proven international hits. Universal Kids
-            12.  UNIVERSOUNIVERSOModern general entertainment for Latinos, bringing the world's top sports franchises and edgy, emotional programming to more than 40 million households.UNIVERSO
-            13.  USA NetworkUSA NetworkA powerful portfolio of scripted and unscripted drama and comedy originals seen in more than 102 million U.S. homes. USA Network
+            10.  The Olympic Channel: Home of Team USAThe Olympic Channel: Home of Team USAOlympic Channel: Home of Team USA is a partnership between the International Olympic Committee, the United States Olympic Committee, and NBCUniversal. The TV network offers fans year-round programming of Olympic Sports from around the world, highlighting their favorite American athletes and teams.The Olympic Channel: Home of Team USA
+            11.  The Weather Channel CompanyThe Weather Channel CompanyProvides millions of people every day with the world's best weather forecasts, content and data.The Weather Channel Company
+            12.  Universal KidsUniversal KidsAs a kid-focused ecosystem with great TV content at the center, Universal Kids is programmed for the 2-12 year old audience, with a fresh mix of animated content, unscripted entertainment, and proven international hits. Universal Kids
+            13.  UNIVERSOUNIVERSOModern general entertainment for Latinos, bringing the world's top sports franchises and edgy, emotional programming to more than 40 million households.UNIVERSO
+            14.  USA NetworkUSA NetworkA powerful portfolio of scripted and unscripted drama and comedy originals seen in more than 102 million U.S. homes. USA Network
         3.  Digital Businesses
             1.  AwesomenessAwesomenessAwesomeness is a leading multi-platform media company defining the future of entertainment.Awesomeness
             2.  CraftsyCraftsyCraftsy is the preeminent online destination for passionate makers to learn, create and share.Craftsy
@@ -98,6 +99,7 @@ Skip to main content
                 *   NBC Sports Network (NBCSN)
                 *   Oxygen Media
                 *   SYFY
+                *   The Olympic Channel: Home of Team USA
                 *   The Weather Channel Company
                 *   Universal Kids
                 *   UNIVERSO
@@ -187,4 +189,4 @@ Cookies/ tracking technologies are used on some of our online services to serve 
 *   Supply Chain Values
 *   Terms of Service
 
-© 2017 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/6796216" height="1" width="1" alt="" /></a></div>.
+© 2017 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/3178169" height="1" width="1" alt="" /></a></div>.
