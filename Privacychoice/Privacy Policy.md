@@ -79,7 +79,6 @@ Whatever your device, we’ve got you covered About AVG
 *   Profile
 *   Media Center
 *   Policies
-*   Reseller Locator
 *   Contact Us
 
 Home Products
@@ -106,9 +105,6 @@ Partners &. Business
 *   Business Antivirus Software
 *   Partners &. Resellers
 *   Reseller Center
-*   AVG CloudCare™
-*   AVG Managed Workplace
-*   AVG Secure Sign On
 *   Partner Support
 *   Business Support
 *   Affiliates
