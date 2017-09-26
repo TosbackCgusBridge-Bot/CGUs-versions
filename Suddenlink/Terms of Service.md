@@ -7,29 +7,13 @@ Skip to main content <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGG2
     *   TV Lineup
     *   Suddenlink2GO
 *   Our Company
-    *   Who We Are
+    *   About Altice USA
     *   Careers
     *   Investor Relations
-    *   Newsroom
+    *   News
     *   Leadership
 *   Contact Us
 *   Business
-*   Home
-*   Television
-    *   Video On Demand
-    *   Pay Per View
-    *   Apps
-*   Internet
-*   Phone
-    *   International Rates
-*   Home Security
-*   VIPperks
-*   Our Company
-    *   Who We Are
-    *   Careers
-    *   Investor Relations
-    *   Newsroom
-    *   Leadership
 
 We can't detect your location. Please provide an address. Change Change your Location ×
 
@@ -250,7 +234,7 @@ Questions? Call 844.790.7475 My Suddenlink Contact Us FAQ
     *   Terms &. Policies
     *   Law Enforcement
 
-*   Our Company
+*   About Altice USA
 *   Contact Us
 *   Terms &. Policies
 *   Disclaimers
