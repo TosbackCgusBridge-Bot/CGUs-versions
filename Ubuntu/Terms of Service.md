@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Four steps to mobilising legacy OpenStack and escaping StuckStack ›
 *   LXD Weekly Status #16 ›
 *   UbuCon Europe 2017 ›
 *   Canonical Distribution of Kubernetes: Dev Summary (Sept 22 2017) ›
 *   Ubuntu Desktop Weekly Update: September 22, 2017 ›
-*   Microsoft and Canonical Increase Velocity with Azure Tailored Kernel ›
