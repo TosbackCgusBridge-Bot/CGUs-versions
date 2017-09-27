@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Mollie Hemingway_: 5 Problems With the NFL's National Anthem Protest
+*   _Kim &. Haberkorn_: Senate Won't Vote on Last-Ditch Obamacare Repeal Bill
     
-*   _Jerry Brewer_: The NFL Beat Trump. Soundly.
+*   _David Harsanyi_: Republicans Must Reject 'Bipartisan' Obamacare Solution
     
-*   _Rush Limbaugh_: There's No Way the NFL Wins This Fight
+*   _David Graham_: Kaepernick's Triumph
     
-*   _Bernie Sanders_: Time Is Ripe for Medicare for All
+*   _James Robbins_: NFL Commits Suicide by Trump With PC Protests
     
-*   _Scott Atlas_: Why Single Payer Health Care Is a Terrible Option
+*   _Sen. Cory Booker_: We Must Act Now to Protect Our Democracy
     
-*   _Gideon Rachman_: The End of German Exceptionalism
+*   _Victor Davis Hanson_: The Obama Administration's Lying Quartet
     
-*   _Eli Lake_: Can We Stop Calling It a 'Muslim Ban' Now?
+*   _Ezra Klein_: There Is No Trump Pivot, and There Never Will Be
     
-*   _Alex Roarty_: Meet the Party Boss Driving Dems to the Left
+*   _Sec. Elaine Duke_: New Security Requirements Will Keep Americans Safe
     
-*   _Charles Hurt_: Donald Trump's Self-Interest Isn't a Bad Thing
+*   _Kevin Drum_: Congress Is Broken. Bring Back Pork.
     
-*   _Robert Samuelson_: Hit the Brakes on Driverless Cars
+*   _Todd Hitt_: We Need Visionaries in DC to Rebuild the American Dream
     
-*   _Michael Lev-Ram_: Ray Kurzweil Isn't Worried About Tech Stealing Your Job
+*   _Maya Rhodan_: What a Roy Moore Win Could Mean for Washington
     
-*   _Jack Holmes_: The NFL Won't Forget September 24, 2017 Anytime Soon
+*   _Salena Zito_: Pittsburgh Fans Conflicted About Game They Love
     
-*   _Scott Greer_: President Trump Wins When the NFL Takes a Knee
+*   _Charles Blow_: A Rebel, a Warrior and a Race Fiend
     
-*   _Dean Obeidallah_: Trump's NFL Rant Proves He Doesn't Get American Values
+*   _Emily Jashinsky_: The Left's Ever-Expanding Definition of Racism
     
-*   _Ralph Z. Hallow_: Sure, NFL Players Can Kneel. And Customers Can Walk
+*   _Christine Brennan_: Trump Missed Memo: Don't Pick on Football Players
     
-*   _Philipp Wittrock_: Merkel Lands Fourth Term, But at What Cost?
+*   _Allen Guelzo_: The Rusher Who Wouldn't Take the Knee
     
-*   _Thomas Donohue_: A Nafta Exit Would Be a Rotten Deal
+*   _Albert Hunt_: Democrats Should Cut a Border Deal With Trump
     
-*   _E.J. Dionne_: Can We Avoid a Health Care Horror?
+*   _Ed Rogers_: Cassidy-Graham: An Inspired Plan From Out of the Blue
     
-*   _Alexandra DeSanctis_: Alabama's Curious Special Election
+*   _Jason Furman_: Tax Reform Should Not Make Other Problems Worse
     
-*   _Tim Murphy_: Dems Don't Need to Win Texas - But They Might Anyway
+*   _Tim Cavanaugh_: 'Dirty Little Secrets' of a Fusion GPS Sleaze Slinger
     
-*   _Jed Babbin_: Unmasking: Yet Another Abuse of Powers
+*   _Bill Scher_: Joe Biden's Platform for 2020
     
-*   _Cristian Farias_: Reading the Tea Leaves of Robert Mueller's Probe
+*   _Eddie Zipperer_: U.S. Anthem Protests &. the Disappearing Democratic Party
     
-*   _Wayne Allyn Root_: Obamagate Will Make Watergate Look Like a Misdemeanor
+*   _Benjamin Wallace-Wells_: Did Trump Lose the Country by Attacking NFL?
     
-*   _Pablo Venes_: Puerto Rico Is in Dire Straits
+*   _Dubowitz &. Albright_: How Trump Can Improve the Iran Deal
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Trying to Turn Around Republican Holdouts on Health Bill
+*   Republican Poll Shows Strong Support for Tax Reform
+*   Republicans Concede Health Bill's Fate Is Bleak
+*   Kimmel Celebrates Opposition to Graham-Cassidy: I May Have Stopped It
+*   North Korean Diplomat Says Trump Has 'Declared War'
 *   President's Criticisms Spark More Protests at NFL Games
-*   Mnuchin: NFL Players "Can Do Free Speech on Their Own Time"
-*   McCain Opposes Graham-Cassidy Bill, Dealing a Significant Blow
-*   Twin Crucibles for Republicans: AL Runoff, Obamacare Repeal
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Alabama Senate Run-Off Election - Moore vs. StrangeTrafalgar Group (R)
-    *   Moore57
-    *   Strange41Moore +16
-*   Virginia Governor - Gillespie vs. NorthamChristopher Newport Univ.\*
+*   Virginia Governor - Gillespie vs. NorthamMonmouth\*
+    *   Northam49
+    *   Gillespie44Northam +5
+*   Virginia Governor - Gillespie vs. NorthamRoanoke College\*
     *   Northam47
-    *   Gillespie41Northam +6
-*   New Jersey Governor - Guadagno vs. MurphySuffolk\*
-    *   Murphy44
-    *   Guadagno25Murphy +19
-*   President Trump Job ApprovalCBS News
-    *   Approve35
-    *   Disapprove55Disapprove +20
+    *   Gillespie43Northam +4
+*   President Trump Job ApprovalGallup
+    *   Approve39
+    *   Disapprove56Disapprove +17
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve42
+    *   Disapprove56Disapprove +14
 
 More Latest Polls In The News
 
-*   Hillary Clinton: Quite Telling That Trump Is Willing To Attack Black Athletes, "Dog Whistle" To Base
-*   Costas: Kaepernick Sometimes Sounds Like He Took A Class From A Radical Professor, Knows Everything
-*   NFL Great Burgess Owens: Flag Protest Result Of Liberal Ideology That Destroyed The Black Family
-*   Tapper: Trump Says This Is Not About Race, But He Called Upon White Owners To Punish Black Players
-*   Hemingway: Kneeling Protest Not Well Designed, People Don't Understand What They're Protesting
+*   O'Reilly to Hannity: Far Left Mobilizing Minorities To Be Angry, Anti-White. A New Constitution Is The "Endgame"
+*   Hillary Clinton Compares Trump To Putin: "Hopefully" He Hasn't Ordered Killing Of Journalists
+*   Don Lemon: If You Think Kneeling Is About The Flag, You Must Think Rosa Parks Was Protesting A Bus
+*   Scott Adams: By Siding With America, Trump Has Already Won On Anthem. "Better Brand Always Wins"
+*   NFL Great Burgess Owens: Anthem Protest Result Of Liberal Ideology That Destroyed The Black Family
 
 *   Politics
 *   Policy
