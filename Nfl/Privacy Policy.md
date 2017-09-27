@@ -1,4 +1,3 @@
-*   DAL0ARI?01st ? 13:09
 *   LA41SF39Final
 *   BAL7JAX44Final
 *   DEN16BUF26Final
@@ -14,6 +13,7 @@
 *   CIN24GB27Final (OT)
 *   KC24LAC10Final
 *   OAK10WAS27Final
+*   DAL28ARI17Final
 
 *   News
 *   Scores
