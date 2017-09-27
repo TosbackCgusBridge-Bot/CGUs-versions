@@ -44,7 +44,7 @@ View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Dir
 *   CPR News podcasts
 
 *   donate now
-*   Shop
+*   **NPR** Shop
 *   My Account
 
 Back News
@@ -295,6 +295,7 @@ Back
 *   TV &. Film
 
 *   **CPR News**
+*   **NPR** Shop
 *   donate now
 
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K9RKM5" height="0" width="0" style="display:none;visibility:hidden"></iframe>. **Privacy Policy** **Please read NPR's Privacy Policy.** **Privacy Policy** Privacy Policy
