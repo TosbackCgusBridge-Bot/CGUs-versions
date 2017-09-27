@@ -1,4 +1,4 @@
-From the Intermarkets Blog: **Intermarkets VP Stephanie Snow Honored as Digiday Top Boss** Twitter Facebook LinedIn Google Plus Intermarkets, Inc. Up-to-date industry insights, news, and events Site Navigation Skip to content
+From the Intermarkets Blog: **Intermarkets VP Erik Requidan Recognized to DC Inno 50 on Fire** Twitter Facebook LinedIn Google Plus Intermarkets, Inc. Up-to-date industry insights, news, and events Site Navigation Skip to content
 
 *   Advertiser Solutions
 *   Publisher Solutions
