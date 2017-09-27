@@ -248,7 +248,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **EXTRA 20% OFF EVERYTHING** USE CODE: **EXTRA20**
+**EXTRA 20% OFF EVERYTHING** USE CODE: **EXTRA20**
 
 *   My Account My Account Login Register
 
