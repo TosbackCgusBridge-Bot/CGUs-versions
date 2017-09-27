@@ -1,5 +1,6 @@
 *   Products
     *   Tealium iQ Tag Management
+    *   Tealium EventStream API Hub
     *   Tealium AudienceStream CDP
     *   Tealium DataAccess
 *   Integrations
@@ -29,6 +30,7 @@
 
 *   Products
     *   Tealium iQ Tag Management
+    *   Tealium EventStream API Hub
     *   Tealium AudienceStream CDP
     *   Tealium DataAccess
 *   Integrations
