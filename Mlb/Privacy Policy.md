@@ -71,11 +71,13 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Glossary2017 Esurance MLB Awards Sortable Stats
 *   Standings Standings Standings
     *   2017 Regular Season Standings
+    *   2017 Wild Card Standings
     *   Spring Training Standings
 *   Schedule Schedule Schedule
     *   2017 Regular Season
     *   2017 Postseason
     *   2017 Spring Training
+    *   2018 Regular Season
     *   Important Dates
     *   Team-by-Team Schedule
     *   National Broadcasts
