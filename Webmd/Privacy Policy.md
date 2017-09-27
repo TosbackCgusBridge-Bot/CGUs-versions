@@ -106,10 +106,10 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Tattoo Ink May Reach Lymph Nodes
-    *   Bleach and Disinfectants Linked to Lung Disease
-    *   When Is Snoozing With Your Dog OK?
-    *   Sperm Health Linked to Weight?
+    *   New Tests May Help Spot Alzheimer's Earlier
+    *   Egg Freezing Gives You Options but Has Risks
+    *   U.S. Pays a Hefty Price for Obesity
+    *   Nerve 'Zap' Pulls Patient From Vegetative State
     *   World Running Low on Antibiotics
     
     Experts &. Community
@@ -440,7 +440,7 @@ WebMD Policy Last updated on December 30, 2016 © 2016 WebMD, LLC. All rights re
 
 Some of these might surprise you.
 
-Explore the Heart of Santa Fe. Adventure Awaits. Santa Fe is a city for all seasons but fall is extra special. Take a tour, grab a bite, hit the shops or relax in the spa. Ad By **TOURISM Santa Fe** AdChoices Depressed, Guilty Feelings After Eating?
+Soak up the Sights and Sounds as You Relax in Santa Fe Indulge in our spas and tranquil mountain views and you’ll quickly see why The City Different is your destination for relaxation. Ad By **TOURISM Santa Fe** AdChoices Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
