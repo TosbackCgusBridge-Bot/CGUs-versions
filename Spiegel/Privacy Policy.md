@@ -17,7 +17,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.605,20ǀ
+*   DAX 12.657,41ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -171,6 +171,7 @@ Anmelden
         *   Kochen
         *   Reisen
         *   Hotels
+        *   S-Magazin
     
 *   Backstage
 
