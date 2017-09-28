@@ -118,4 +118,4 @@ Search on the Go
 
 © 2017 CareerBuilder, LLC. All rights reserved.
 
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=651028534974288&amp;ev=PageView&amp;noscript=1">.
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=651028534974288&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
