@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms It's #AquacultureWeek at NOAA See how aquaculture is creating new opportunities for commercial fishermen AROUND NOAA // South Carolina oyster farming: One man finds success on the half shell Maria churning in the Atlantic, bringing dangerous surf and rip currents to East Coast Assessing Maria's destruction from the air: Aerial photos are available Globe sees 2nd warmest year to date, 3rd warmest August on record
+Enter Search Terms It's #AquacultureWeek at NOAA See how aquaculture is creating new opportunities for commercial fishermen AROUND NOAA // South Carolina oyster farming: One man finds success on the half shell Featured photo: South Pole sees first sunrise in 6 months with arrival of spring Assessing Maria's destruction from the air: Aerial photos are available Globe sees 2nd warmest year to date, 3rd warmest August on record
 
 *   About our agency
 *   News and features
