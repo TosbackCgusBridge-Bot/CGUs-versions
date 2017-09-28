@@ -442,11 +442,11 @@ Menu Find a Store Aeropostale
 *   Lounge Starting at $10.00 Shop Lounge
 *   Leggings Starting at $17.80 Shop Leggings
 *   Dresses Starting at $15.00 Shop Dresses
-*   Pants Starting at Shop Guys Shop Girls
+*   Pants Starting at $14.99 Shop Guys Shop Girls
 *   Lounge Starting at $10.00 Shop Lounge
 *   Leggings Starting at $17.80 Shop Leggings
 *   Dresses Starting at $15.00 Shop Dresses
-*   Pants Starting at Shop Guys Shop Girls
+*   Pants Starting at $14.99 Shop Guys Shop Girls
 
 *   1
 *   2
@@ -458,16 +458,16 @@ OUR FEATURED STYLES
 *   LLD Studio Low Impact Y-Back Sports Bra $24.50 $15.00
 *   LLD #BESTBOOTYEVER Marled Leggings $49.50 $19.80
 *   Faux Suede Moto Jacket $89.50 $40.00
-*   3/4 Bell Sleeve Ribbed Sweater $44.50 $15.00
-*   Buy 1 Get 1 Free Seriously Stretchy High-Waisted Jegging $49.50
-*   Military Bomber Jacket $89.50 $44.75
+*   3/4 Bell Sleeve Ribbed Sweater $44.50 $12.00
+*   Seriously Stretchy High-Waisted Jegging $49.50 $19.80
+*   Military Bomber Jacket $89.50 $44.87
 *   Long Sleeve Heathered Check Woven Shirt $44.50 $14.00
-*   Classic Reflex Joggers $44.50 $18.00
+*   Classic Reflex Joggers $44.50 $17.80
 *   LLD Melange Live Love Run Full-Zip Hoodie $49.50 $18.00
 *   LLD Studio Low Impact Y-Back Sports Bra $24.50 $15.00
 *   LLD #BESTBOOTYEVER Marled Leggings $49.50 $19.80
 *   Faux Suede Moto Jacket $89.50 $40.00
-*   3/4 Bell Sleeve Ribbed Sweater $44.50 $15.00
+*   3/4 Bell Sleeve Ribbed Sweater $44.50 $12.00
 
 *   1
 *   2
