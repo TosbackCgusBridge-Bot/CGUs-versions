@@ -1,4 +1,4 @@
-**reddit user agreement** _Last Revised June 19, 2017. Effective May 27, 2016_
+**reddit user agreement** _Last Revised September 27, 2017. Effective September 27, 2017_
 
 > reddit powers thousands of distinct online communities.  
 > these terms and your conduct make that possible.
@@ -136,7 +136,7 @@ DMCA copyright, the dmca, &. takedowns
 
 your right to file a counter-notice
 
-39 If we remove your user content in response to a copyright or trademark notice, we will notify you via reddit’s private messaging system and offer to provide you with a copy of the notice. If you believe your user content was wrongly removed due to a mistake or misidentification of the material, you can file a counter-notice with us that includes the following:
+39 If we remove your user content in response to a copyright or trademark notice, we will notify you via reddit’s private messaging system. If you believe your user content was wrongly removed due to a mistake or misidentification of the material, you can file a counter-notice with us that includes the following:
 
 1.  Your physical or electronic signature;
 2.  Identification of the material that has been removed or to which access has been disabled and where the material was located online before it was removed or access to it was disabled;
