@@ -6,8 +6,9 @@ Menu
 
 *   Hotel Deals
 *   Packages &. Flights
-*   Groups &. Meetings
+*   Group Bookings
 *   Gift Cards
+*   Add your property
 *   Help
 *   Website feedback
 
