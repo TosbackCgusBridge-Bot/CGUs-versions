@@ -51,7 +51,7 @@ MENU **IS**
 
 **GS F**
 
-*   Starting at $83,9401\*
+*   Starting at $84,3501\*
 *   467-HP3\* 5.0L V8
 
 *   Build
@@ -211,7 +211,7 @@ COMPARE **RC F**
 
 **GS F**
 
-*   Starting at $83,9401\*
+*   Starting at $84,3501\*
 *   467-HP3\* 5.0L V8
 
 *   Build
