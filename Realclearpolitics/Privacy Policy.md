@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Kim &. Haberkorn_: Senate Won't Vote on Last-Ditch Obamacare Repeal Bill
+*   _Niall Stanage_: Five Takeaways From the Alabama Runoff
     
-*   _David Harsanyi_: Republicans Must Reject 'Bipartisan' Obamacare Solution
+*   _Mollie Hemingway_: Republican Voters Are Done With the Old Ways
     
-*   _David Graham_: Kaepernick's Triumph
+*   _Steve Israel_: Brace Yourself, Republicans--a Rough Ride's Coming
     
-*   _James Robbins_: NFL Commits Suicide by Trump With PC Protests
+*   _Scott Flanders_: Obamacare Is Failing the Middle Class
     
-*   _Sen. Cory Booker_: We Must Act Now to Protect Our Democracy
+*   _Derek Thompson_: Yes, NFL Viewership Is Down, But It's Not All Trump.
     
-*   _Victor Davis Hanson_: The Obama Administration's Lying Quartet
+*   _Roger Simon_: Kneeling for a Self-Deceiving Lie
     
-*   _Ezra Klein_: There Is No Trump Pivot, and There Never Will Be
+*   _John Legend_: The NFL Protests Are Patriotic: If I Could, I'd Take a Knee
     
-*   _Sec. Elaine Duke_: New Security Requirements Will Keep Americans Safe
+*   _Taya Kyle_: An Open Letter to the NFL
     
-*   _Kevin Drum_: Congress Is Broken. Bring Back Pork.
+*   _Chris Arnade_: Today's Journalists Don't Understand How Bubbled They Are
     
-*   _Todd Hitt_: We Need Visionaries in DC to Rebuild the American Dream
+*   _Michelle Goldberg_: Tyranny of the Minority
     
-*   _Maya Rhodan_: What a Roy Moore Win Could Mean for Washington
+*   _Irwin Stelzer_: Trump, Schumer and the Real Art of the Deal
     
-*   _Salena Zito_: Pittsburgh Fans Conflicted About Game They Love
+*   _Jason Riley_: Is 'Police Brutality' NFL Players Are Protesting Based in Reality?
     
-*   _Charles Blow_: A Rebel, a Warrior and a Race Fiend
+*   _Jonathan Alter_: Dems Can Use Trump's NFL Fumble to Throw Bums Out
     
-*   _Emily Jashinsky_: The Left's Ever-Expanding Definition of Racism
+*   _Josh Kraushaar_: Democrats Lose Touch With America
     
-*   _Christine Brennan_: Trump Missed Memo: Don't Pick on Football Players
+*   _Chris Cillizza_: Trump's Goal Is to Divide, Not Unite the Country
     
-*   _Allen Guelzo_: The Rusher Who Wouldn't Take the Knee
+*   _Dennis Prager_: Who's Divisive--the President or the Players?
     
-*   _Albert Hunt_: Democrats Should Cut a Border Deal With Trump
+*   _James Arkin_: Groundhog Day: Obamacare Repeal Fails Again
     
-*   _Ed Rogers_: Cassidy-Graham: An Inspired Plan From Out of the Blue
+*   _Alex Isenstadt_: AL Race Spells Trouble for Republican Establishment in '18
     
-*   _Jason Furman_: Tax Reform Should Not Make Other Problems Worse
+*   _William McGurn_: Lock One Up, Mr. Grassley
     
-*   _Tim Cavanaugh_: 'Dirty Little Secrets' of a Fusion GPS Sleaze Slinger
+*   _Jeffrey Toobin_: 'Mark Felt,' the Movie, and Donald Trump, the President
     
-*   _Bill Scher_: Joe Biden's Platform for 2020
+*   _James Grant_: Trump Intent on Global Domination--of the Energy Sector
     
-*   _Eddie Zipperer_: U.S. Anthem Protests &. the Disappearing Democratic Party
+*   _Alexandra Sifferlin_: Climate Change Is Already Making People Sicker
     
-*   _Benjamin Wallace-Wells_: Did Trump Lose the Country by Attacking NFL?
+*   _Julie Kelly_: More Unsettled Science on Climate Change
     
-*   _Dubowitz &. Albright_: How Trump Can Improve the Iran Deal
+*   _David Ignatius_: On North Korea, Trump Needs to Start Dealing
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Groundhog Day: Repeal Fails Again. Republicans Vow to Keep at It
+*   Moore Defeats Strange in Alabama Senate Runoff
+*   Trump: Kneeling for Anthem Disgraceful, It's Called Respect for Our Country
 *   Republican Poll Shows Strong Support for Tax Reform
-*   Republicans Concede Health Bill's Fate Is Bleak
-*   Kimmel Celebrates Opposition to Graham-Cassidy: I May Have Stopped It
-*   North Korean Diplomat Says Trump Has 'Declared War'
-*   President's Criticisms Spark More Protests at NFL Games
+*   North Korean Diplomat Says Trump Has "Declared War"
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Virginia Governor - Gillespie vs. NorthamMonmouth\*
-    *   Northam49
-    *   Gillespie44Northam +5
-*   Virginia Governor - Gillespie vs. NorthamRoanoke College\*
-    *   Northam47
-    *   Gillespie43Northam +4
-*   President Trump Job ApprovalGallup
-    *   Approve39
-    *   Disapprove56Disapprove +17
-*   President Trump Job ApprovalRasmussen Reports
+*   President Trump Job ApprovalFOX News
     *   Approve42
-    *   Disapprove56Disapprove +14
+    *   Disapprove53Disapprove +11
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve36
+    *   Disapprove57Disapprove +21
+*   President Trump Job ApprovalGallup
+    *   Approve37
+    *   Disapprove58Disapprove +21
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve43
+    *   Disapprove56Disapprove +13
 
 More Latest Polls In The News
 
+*   Dershowitz: Radical Groups Protesting My Speech "Afraid I Might Actually Persuade Students"
+*   Cornel West: Trump Disrespects The American Flag When He Scapegoats Black And Brown People
 *   O'Reilly to Hannity: Far Left Mobilizing Minorities To Be Angry, Anti-White. A New Constitution Is The "Endgame"
-*   Hillary Clinton Compares Trump To Putin: "Hopefully" He Hasn't Ordered Killing Of Journalists
 *   Don Lemon: If You Think Kneeling Is About The Flag, You Must Think Rosa Parks Was Protesting A Bus
 *   Scott Adams: By Siding With America, Trump Has Already Won On Anthem. "Better Brand Always Wins"
-*   NFL Great Burgess Owens: Anthem Protest Result Of Liberal Ideology That Destroyed The Black Family
 
 *   Politics
 *   Policy
