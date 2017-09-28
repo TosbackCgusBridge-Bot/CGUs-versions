@@ -196,11 +196,7 @@ Return to Top
 *   About US
 *   About Nextag
 *   International
-*   Australia
-*   France
 *   Germany
-*   Japan
-*   United Kingdom
 
 *   Merchant
 *   Merchant Login
