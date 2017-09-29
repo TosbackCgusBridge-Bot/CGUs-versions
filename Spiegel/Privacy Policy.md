@@ -17,7 +17,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.657,41ǀ
+*   DAX 12.704,65ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -268,7 +268,7 @@ Hier finden Sie die Allgemeinen Nutzungsbedingungen (im Folgenden auch "Nutzungs
 *   **manager magazin Online:** Mein manager magazin, u.a. mit Newsletter, Mein Depot und Meine Unternehmen. Blogs
 *   **Harvard Business Manager Online:** persönlicher Bereich Mein HBM
 
-Durch das Anklicken des entsprechenden Feldes bei der Registrierung erklären Sie, dass Sie die Nutzungsbedingungen gelesen haben und mit ihnen einverstanden sind. Sie können sie auch ausdrucken oder herunterladen. Die Datenschutzbestimmungen können Sie auch außerhalb der Nutzungsbedingungen lesen.
+Durch das Anklicken des entsprechenden Feldes bei der Registrierung erklären Sie, dass Sie die Nutzungsbedingungen gelesen haben und mit ihnen einverstanden sind. Sie können sie auch ausdrucken oder herunterladen.
 
 A) Allgemeine Nutzungsbedingungen 1. Geltungsbereich
 
@@ -407,6 +407,10 @@ Diese Website verwendet die Remarketing-Funktion der Google Inc. ("Google"). Die
 
 Sollten Sie die Funktion Remarketing von Google dennoch nicht wünschen, können Sie diese grundsätzlich deaktivieren, indem Sie die entsprechenden Einstellungen unter http://www.google.com/settings/ads vornehmen. Alternativ können Sie den Einsatz von Cookies für interessenbezogene Werbung über die Werbenetzwerkinitiative deaktivieren, indem Sie den Anweisungen unter http://www.networkadvertising.org/managing/opt\_out.asp folgen.  
 Weiterführende Informationen zu Google Remarketing und die Datenschutzerklärung von Google können Sie einsehen unter: http://www.google.com/privacy/ads/.
+
+**Einsatz der Google AMP Client ID API:**
+
+Diese Webseite verwendet die Google AMP Client-Funktion der Google Inc. ("Google"). Diese Funktion dient dazu, die Benutzeraktivitäten auf AMP und nicht-AMP Seiten in Google Analytics zu verknüpfen.
 
 (14)  
 SPIEGEL ONLINE verwendet auf www.spiegel.de zur Anzeige von Werbung AdDefend, einen Dienst der AdDefend GmbH, Borselstrasse 3, 22765 Hamburg. Dieser Dienst nutzt Cookies, um festzustellen, ob Sie eine Webseite schon einmal besucht haben. Sie können der Verwendung dieser Cookies durch AdDefend jederzeit widersprechen, indem Sie eine E-Mail an privacy@addefend.com senden.
