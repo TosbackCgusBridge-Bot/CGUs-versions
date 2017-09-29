@@ -6,14 +6,14 @@ VH1 Menu VH1
     *   Shows A-Z
     *   Show News
     *   TV Schedule
-    *   Hip Hop Honors
     *   Love &. Hip Hop Hollywood
     *   Hip Hop Squares
+    *   Martha &. Snoop's Potluck Dinner Party
     *   Black Ink Crew Chicago
-    *   Signed
+    *   Scared Famous
+    *   Hip Hop Honors
     *   Baller Wives
-    *   Brunch With Tiffany
-    *   Basketball WivesSee all Shows
+    *   Brunch With TiffanySee all Shows
 *   Pop Culture
     *   Music
     *   Celebrity
@@ -30,7 +30,7 @@ VH1 Menu VH1
 *   TV Provider Sign Out
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z Show News TV Schedule Hip Hop Honors Love &. Hip Hop Hollywood Hip Hop Squares Black Ink Crew Chicago Signed Baller Wives Brunch With Tiffany Basketball Wives See all Shows
+*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Hollywood Hip Hop Squares Martha &. Snoop's Potluck Dinner Party Black Ink Crew Chicago Scared Famous Hip Hop Honors Baller Wives Brunch With Tiffany See all Shows
 *   Pop Culture Music Celebrity Movies TV Around The Web Video See all Pop Culture
 *   Life Beauty &. Health Style Relationships Video See all Life
 *   Watch Live TV
