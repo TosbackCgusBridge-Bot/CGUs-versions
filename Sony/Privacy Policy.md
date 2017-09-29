@@ -138,7 +138,7 @@ View Big sound comes in mini boxes on Instagram
 
 #Outlander Clan, which moments with Frank (@tobiasmenzies) have stuck most with you over the seasons? #TeamFrank
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -210,7 +210,7 @@ Everything Is Better In Camo
 
 From Super slow motion shots to super-wide selfies, your camera game is strong with #Xperia XZ1 Compact.
 
-1 day ago
+2 days ago
 
 View Tweet
 
@@ -314,7 +314,7 @@ View Stacked on bass. on Instagram
 
 Pick up this new timed-edition The Last of Us poster for Outbreak Day 2017. You have until 10am Pacific Friday!
 
-14 hours ago
+1 day ago
 
 View Tweet
 
