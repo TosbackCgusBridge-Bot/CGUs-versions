@@ -78,7 +78,7 @@ We evaluate each request and will reply in an appropriate manner and in a form o
 
 We have appropriate security measures in place to protect against the loss, misuse or alteration of information that we have collected from you so you can feel comfortable and secure when shopping. We use industry-standard encryption technologies when transferring and receiving your personal information. On the Internet, when you see either a solid key icon or a locked padlock icon at the lower portion of your browser window, this indicates that the site is secured through Secure Sockets Layer (SSL). Pages requesting personal information should always have one of these icons. If you do not see one of these icons, please contact us to complete your transaction over the phone by calling 1-800-426-8020. When you apply on-line for an Eddie Bauer Charge Card, we will direct you to the Comenity Bank website. See theComenity.net website for information on its privacy statement.
 
-^Return to top How to Report Fraud
+Verisign secured ^Return to top How to Report Fraud
 
 You can help us identify attempts at fraud.
 
@@ -89,12 +89,14 @@ If you receive a suspicious email appearing to come from Eddie Bauer, such as on
 You should not respond directly to suspicious email. And do not click on or open any hyperlink embedded in the suspicious email.
 
 There are a few common features of fraudulent emails that can help you identify them as spam. The two most frequent are:  
-a) receiving an email that contains mistakes such as misspelled words or grammatical errors, and  
-b) receiving an email that asks for your confidential information or asks you to take immediate action on your account.  
+
+1.  receiving an email that contains mistakes such as misspelled words or grammatical errors, and
+2.  receiving an email that asks for your confidential information or asks you to take immediate action on your account.
 
 We encourage all of our customers to protect themselves and their information:  
-a) do not share your credentials or account information with any third party, and  
-b) make sure that your system is properly patched, running anti-virus and a personal firewall.  
+
+1.  do not share your credentials or account information with any third party, and
+2.  make sure that your system is properly patched, running anti-virus and a personal firewall.
 
 If you have already provided information in response to a suspicious email that appeared to have been sent by Eddie Bauer, you may report the suspicious email by forwarding it toabuse@eddiebauer.com..  
 
