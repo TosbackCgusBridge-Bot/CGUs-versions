@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 8%  1% 
+What is PeekScore? Public Records &. Background Checks 10%  2% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 8%  1% 
     
 *   Show Less ...
 
-7%  7%  Arrest Records &. Driving Infractions
+10%  10%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 7%  Twitter 1% 
+Facebook 10%  Twitter 2% 
 
 *   Cristiano Ronaldo - Cristiano
     
@@ -199,7 +199,7 @@ Facebook 7%  Twitter 1% 
     
 *   Show Less ...
 
-Pinterest 7%  Wikipedia 1% 
+Pinterest 10%  Wikipedia 2% 
 
 *   Medana
     
@@ -218,7 +218,7 @@ Pinterest 7%  Wikipedia 1% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Instagram 1% 
+Instagram 2% 
 
 *   Karen McDowall - privacy\_\_\_policy
     
@@ -244,7 +244,7 @@ Instagram 1% 
     
 *   Show Less ...
 
-Google+ 1% 
+Google+ 2% 
 
 *   Free Privacy Policy - Google+
     
@@ -278,7 +278,7 @@ Google+ 1% 
     
 *   Show Less ...
 
-Linkedin 1% 
+Linkedin 2% 
 
 *   Privacy Policy | LinkedIn
     
@@ -324,7 +324,7 @@ Linkedin 1% 
     
 *   Show Less ...
 
-Foursquare 1% 
+Foursquare 2% 
 
 *   privacy policy
     
@@ -358,7 +358,7 @@ Foursquare 1% 
     
 *   Show Less ...
 
-Music 1% 
+Music 2% 
 
 *   Pandora
     
@@ -404,7 +404,7 @@ Music 1% 
     
 *   Show Less ...
 
-Photo Albums 1% 
+Photo Albums 2% 
 
 *   Flickr
     
@@ -439,7 +439,7 @@ Myspace 1% 
     
 *   Show Less ...
 
-Documents 7%  Web Search 1% 
+Documents 9%  Web Search 1% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -508,4 +508,4 @@ foursquarex
 
 Copyright 2017 PeekYou.com. A Patent Pending People Search Process. All Rights Reserved.
 
-Tweets by @peekyou Scroll
+Scroll
