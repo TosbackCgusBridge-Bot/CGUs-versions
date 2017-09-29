@@ -107,11 +107,11 @@ and understand that I may opt out of WebMD subscriptions at any time. close Skip
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
+    *   STDs Hit All-Time High in U.S.
+    *   Is It OK to Use Older Blood in a Transfusion?
     *   New Tests May Help Spot Alzheimer's Earlier
     *   Egg Freezing Gives You Options but Has Risks
     *   U.S. Pays a Hefty Price for Obesity
-    *   Nerve 'Zap' Pulls Patient From Vegetative State
-    *   World Running Low on Antibiotics
     
     Experts &. Community
     
@@ -441,7 +441,7 @@ WebMD Policy Last updated on December 30, 2016 © 2016 WebMD, LLC. All rights re
 
 Some of these might surprise you.
 
-Hum is the technology that connects you to the car. With 24/7 Pinpoint Roadside Assistance and more, Hum helps your family get where they need to be. Ad By **Hum by Verizon** AdChoices Depressed, Guilty Feelings After Eating?
+Finally, health insurance that’s better at better. Bright Health and Centura Health are gearing up to bring you quality doctors, a customized experience, and smart collaborative care. Ad By **Bright Health** AdChoices Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
