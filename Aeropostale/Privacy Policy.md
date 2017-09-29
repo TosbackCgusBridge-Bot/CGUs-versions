@@ -59,7 +59,6 @@ Close submenu ( Bottoms ) Bottoms
 *   Leggings + Active
 *   Joggers + Lounge
 *   Pants
-*   Skirts
 
 Close submenu ( Live Love Dream ) Live Love Dream
 
@@ -229,26 +228,43 @@ Close submenu ( Clearance ) Clearance
 Close submenu ( Girls ) Girls
 
 *   View All
-*   Tops
-*   Bottoms
+*   Tees
+*   Camis + Tanks
+*   Fashion Tops
+*   Hoodies + Jackets
+*   Shirts
+*   Dresses + Skirts
+*   Jeans
+*   Joggers + Sweats
+*   Leggings + Active
+*   Shorts
 *   Accessories
 
 Close submenu ( Guys ) Guys
 
 *   View All
-*   Tops
-*   Bottoms
+*   Tees + Tanks
+*   Polos
+*   Shirts + Sweaters
+*   Hoodies + Jackets
+*   Jeans + Pants
+*   Shorts
 *   Accessories
 
 Close submenu ( Live Love Dream ) Live Love Dream
 
 *   View All
-*   Tops
-*   Bottoms
+*   Active
+*   Lounge
+*   Tees
+*   Camis + Tanks
+*   Hoodies + Jackets
+*   Leggings + Pants
+*   Shorts
 *   Intimates
 *   Accessories
 
-**EXTRA 20% OFF EVERYTHING** USE CODE: **EXTRA20**
+**EXTRA 30% OFF CLEARANCE** USE CODE: **EXTRA30**
 
 *   My Account My Account Login Register
 
@@ -288,7 +304,6 @@ Menu Find a Store Aeropostale
         *   Leggings + Active
         *   Joggers + Lounge
         *   Pants
-        *   Skirts
     *   Dresses + Rompers
     *   Jackets + Vests
     *   Shoes + Accessories
@@ -416,20 +431,37 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls
         *   View All
-        *   Tops
-        *   Bottoms
+        *   Tees
+        *   Camis + Tanks
+        *   Fashion Tops
+        *   Hoodies + Jackets
+        *   Shirts
+        *   Dresses + Skirts
+        *   Jeans
+        *   Joggers + Sweats
+        *   Leggings + Active
+        *   Shorts
         *   Accessories
     
     *   Guys
         *   View All
-        *   Tops
-        *   Bottoms
+        *   Tees + Tanks
+        *   Polos
+        *   Shirts + Sweaters
+        *   Hoodies + Jackets
+        *   Jeans + Pants
+        *   Shorts
         *   Accessories
     
     *   Live Love Dream
         *   View All
-        *   Tops
-        *   Bottoms
+        *   Active
+        *   Lounge
+        *   Tees
+        *   Camis + Tanks
+        *   Hoodies + Jackets
+        *   Leggings + Pants
+        *   Shorts
         *   Intimates
         *   Accessories
 
@@ -437,49 +469,23 @@ Menu Find a Store Aeropostale
 *   Sign Up/Login
 *   Refer a Friend
 
-0 Search Catalog Search Promotions Shop Girls Shop Guys Shop Girls Shop Guys shop girls shop guys
+0 Search Catalog Search Promotions Shop Girls Shop Guys shop girls shop guys
 
-*   Lounge Starting at $10.00 Shop Lounge
-*   Leggings Starting at $17.80 Shop Leggings
-*   Dresses Starting at $15.00 Shop Dresses
-*   Pants Starting at $14.99 Shop Guys Shop Girls
-*   Lounge Starting at $10.00 Shop Lounge
-*   Leggings Starting at $17.80 Shop Leggings
-*   Dresses Starting at $15.00 Shop Dresses
-*   Pants Starting at $14.99 Shop Guys Shop Girls
-
-*   1
-*   2
-*   3
-*   4
-
-OUR FEATURED STYLES
-
-*   LLD Studio Low Impact Y-Back Sports Bra $24.50 $15.00
-*   LLD #BESTBOOTYEVER Marled Leggings $49.50 $19.80
-*   Faux Suede Moto Jacket $89.50 $40.00
-*   3/4 Bell Sleeve Ribbed Sweater $44.50 $12.00
-*   Seriously Stretchy High-Waisted Jegging $49.50 $19.80
-*   Military Bomber Jacket $89.50 $44.87
-*   Long Sleeve Heathered Check Woven Shirt $44.50 $14.00
-*   Classic Reflex Joggers $44.50 $17.80
-*   LLD Melange Live Love Run Full-Zip Hoodie $49.50 $18.00
-*   LLD Studio Low Impact Y-Back Sports Bra $24.50 $15.00
-*   LLD #BESTBOOTYEVER Marled Leggings $49.50 $19.80
-*   Faux Suede Moto Jacket $89.50 $40.00
-*   3/4 Bell Sleeve Ribbed Sweater $44.50 $12.00
+*   Hoodies Starting at $10.00 Shop Girls Shop Guys
+*   Joggers + Sweats Starting at $10.00 Shop Girls Shop Guys
+*   Graphic Tees Starting at $8.00 Shop Girls Shop Guys
+*   Long Sleeves Starting at $9.00 Shop Girls Shop Guys
+*   Hoodies Starting at $10.00 Shop Girls Shop Guys
+*   Joggers + Sweats Starting at $10.00 Shop Girls Shop Guys
+*   Graphic Tees Starting at $8.00 Shop Girls Shop Guys
+*   Long Sleeves Starting at $9.00 Shop Girls Shop Guys
 
 *   1
 *   2
 *   3
 *   4
-*   5
-*   6
-*   7
-*   8
-*   9
 
-In Store + Online UP TO 80% OFF CLEARANCE PRICES AS MARKED shop girls shop guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+shop girls shop guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
