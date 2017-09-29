@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Niall Stanage_: Five Takeaways From the Alabama Runoff
+*   _Stephen Moore_: Only Question on the Tax Cuts: What Took So Long?
     
-*   _Mollie Hemingway_: Republican Voters Are Done With the Old Ways
+*   _Jonathan Chait_: The Trump Tax Cuts Are Going to Hurt the Republican Party
     
-*   _Steve Israel_: Brace Yourself, Republicans--a Rough Ride's Coming
+*   _Byron York_: The Alabama Senate Vote: It's Not What You Think
     
-*   _Scott Flanders_: Obamacare Is Failing the Middle Class
+*   _E.J. Dionne_: Alabama's Rebel Yell From the Right
     
-*   _Derek Thompson_: Yes, NFL Viewership Is Down, But It's Not All Trump.
+*   _Gregg Jarrett_: Trump Won't Fire Mueller Because He Did Nothing Wrong
     
-*   _Roger Simon_: Kneeling for a Self-Deceiving Lie
+*   _Samuel Buell_: Slow and Steady Is the Perfect Pace for Mueller
     
-*   _John Legend_: The NFL Protests Are Patriotic: If I Could, I'd Take a Knee
+*   _Larry Elder_: Do Facts Matter to National Anthem Protesters?
     
-*   _Taya Kyle_: An Open Letter to the NFL
+*   _Bill Scher_: The Culture War President
     
-*   _Chris Arnade_: Today's Journalists Don't Understand How Bubbled They Are
+*   _Maxford Nelsen_: Gorsuch Could Give Workers a Win Over Unions
     
-*   _Michelle Goldberg_: Tyranny of the Minority
+*   _Rachel Cohen_: The New Fight for Labor Rights
     
-*   _Irwin Stelzer_: Trump, Schumer and the Real Art of the Deal
+*   _Ben Domenech_: Hugh Hefner's Legacy Is About More Than Sex
     
-*   _Jason Riley_: Is 'Police Brutality' NFL Players Are Protesting Based in Reality?
+*   _Albert Hunt_: Count the Broken Promises in the GOP Tax Plan
     
-*   _Jonathan Alter_: Dems Can Use Trump's NFL Fumble to Throw Bums Out
+*   _David Ricks_: Tax Plan Would Level Playing Field for U.S. Workers, Businesses
     
-*   _Josh Kraushaar_: Democrats Lose Touch With America
+*   _James Arkin_: Trump Aims to Pressure Democrats on Taxes
     
-*   _Chris Cillizza_: Trump's Goal Is to Divide, Not Unite the Country
+*   _Jared Bernstein_: Real Tax Reform: What It Is and What It Isn't
     
-*   _Dennis Prager_: Who's Divisive--the President or the Players?
+*   _Scott Jennings_: Trump's Gut Knows That U.S. Agrees With Him on NFL Protest
     
-*   _James Arkin_: Groundhog Day: Obamacare Repeal Fails Again
+*   _Charles Blow_: 'The Flag Is Drenched With Our Blood'
     
-*   _Alex Isenstadt_: AL Race Spells Trouble for Republican Establishment in '18
+*   _Heather Mac Donald_: Hard Data, Hollow Protests
     
-*   _William McGurn_: Lock One Up, Mr. Grassley
+*   _John Cassidy_: Why the War Over Health Care Isn't Over
     
-*   _Jeffrey Toobin_: 'Mark Felt,' the Movie, and Donald Trump, the President
+*   _Kevin Williamson_: Time for Democrats to Admit They Were Wrong on the ACA
     
-*   _James Grant_: Trump Intent on Global Domination--of the Energy Sector
+*   _Caitlin Huey-Burns_: Vexing Question for GOP: Whose Party Is This?
     
-*   _Alexandra Sifferlin_: Climate Change Is Already Making People Sicker
+*   _Chris Buskirk_: 'Bama Blowout Signals the End of McConnell Era
     
-*   _Julie Kelly_: More Unsettled Science on Climate Change
+*   _Ed Rogers_: Roy Moore's Win Is Bad for Alabama, and Even Worse for the GOP
     
-*   _David Ignatius_: On North Korea, Trump Needs to Start Dealing
+*   _Dave Lindorff_: Trump and Puerto Rico: Malign Neglect
     
 
 *   Previous
@@ -262,11 +262,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Vexing Question for Republicans: Whose Party Is This?
+*   Trump Aims to Pressure Democrats on Taxes
+*   Trump: NFL Owners "Are Afraid of Their Players"
 *   Groundhog Day: Repeal Fails Again. Republicans Vow to Keep at It
 *   Moore Defeats Strange in Alabama Senate Runoff
-*   Trump: Kneeling for Anthem Disgraceful, It's Called Respect for Our Country
-*   Republican Poll Shows Strong Support for Tax Reform
-*   North Korean Diplomat Says Trump Has "Declared War"
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalFOX News
-    *   Approve42
-    *   Disapprove53Disapprove +11
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve36
-    *   Disapprove57Disapprove +21
 *   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove58Disapprove +21
+    *   Approve36
+    *   Disapprove59Disapprove +23
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve43
     *   Disapprove56Disapprove +13
+*   President Trump Job ApprovalPPP (D)
+    *   Approve42
+    *   Disapprove53Disapprove +11
+*   Congressional Job ApprovalPPP (D)
+    *   Approve9
+    *   Disapprove76Disapprove +67
 
 More Latest Polls In The News
 
+*   Rep. Al Green: "A President Need Not Be Convicted Of A Criminal Offense To Be Impeached"
+*   Gold Star Parents vs. Spike Lee: How Do You Support Millionaires On Their Knees And Not Fallen Heroes?
 *   Dershowitz: Radical Groups Protesting My Speech "Afraid I Might Actually Persuade Students"
 *   Cornel West: Trump Disrespects The American Flag When He Scapegoats Black And Brown People
-*   O'Reilly to Hannity: Far Left Mobilizing Minorities To Be Angry, Anti-White. A New Constitution Is The "Endgame"
-*   Don Lemon: If You Think Kneeling Is About The Flag, You Must Think Rosa Parks Was Protesting A Bus
-*   Scott Adams: By Siding With America, Trump Has Already Won On Anthem. "Better Brand Always Wins"
+*   O'Reilly: Far Left Mobilizing Minorities To Be Angry, Anti-White. A New Constitution Is The "Endgame"
 
 *   Politics
 *   Policy
