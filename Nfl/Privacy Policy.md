@@ -1,4 +1,4 @@
-*   CHI1-2GB2-1Thu 8:25 PM ET
+*   Big Play HighlightK.Wright 5-yard TD pass from M.GlennonWatch NowCHI?7GB283rd ? 03:15
 *   NO1-2MIA1-1Sun 9:30 AM ET
 *   BUF2-1ATL3-0Sun 1:00 PM ET
 *   PIT2-1BAL2-1Sun 1:00 PM ET
