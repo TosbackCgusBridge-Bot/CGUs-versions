@@ -118,5 +118,3 @@ If you have any questions, you can contact us through our contact form.
 *   Games for Your Website
 *   Terms of Use
 *   Privacy Policy
-
-Share875K
