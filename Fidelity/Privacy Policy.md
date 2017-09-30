@@ -295,6 +295,7 @@ View the Fidelity Investments and the Fidelity Funds Privacy Notice (PDF)
 *   Annuities
 *   Life Insurance &. Long Term Care
 *   Small Business Retirement Plans
+*   FAQs
 
 *   IRAs
 *   Retirement Products
