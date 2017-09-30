@@ -114,53 +114,53 @@
     *   About
     *   Media Kit
 
-*   _Stephen Moore_: Only Question on the Tax Cuts: What Took So Long?
+*   _Steve Kornacki_: The Next Republican Uprising Is Underway
     
-*   _Jonathan Chait_: The Trump Tax Cuts Are Going to Hurt the Republican Party
+*   _Charles Gasparino_: Trump Tax Plan Sounds Great--But Devil Is in the Details
     
-*   _Byron York_: The Alabama Senate Vote: It's Not What You Think
+*   _Julian Zelizer_: How America's Vision of Progressive Tax Reform Died
     
-*   _E.J. Dionne_: Alabama's Rebel Yell From the Right
+*   _John Davidson_: Delusional Dems and the Perils of Identity Politics
     
-*   _Gregg Jarrett_: Trump Won't Fire Mueller Because He Did Nothing Wrong
+*   _Paul Krugman_: Trump's Deadly Narcissism
     
-*   _Samuel Buell_: Slow and Steady Is the Perfect Pace for Mueller
+*   _Victor Davis Hanson_: The Need for Missile Defense
     
-*   _Larry Elder_: Do Facts Matter to National Anthem Protesters?
+*   _Moniz &. Nunn_: The Road to Diplomacy on the Korean Peninsula
     
-*   _Bill Scher_: The Culture War President
+*   _Christopher Caldwell_: Merkel's Immigration Hangover: Germany Turns Right
     
-*   _Maxford Nelsen_: Gorsuch Could Give Workers a Win Over Unions
+*   _Roger Cohen_: Return of the German Volk
     
-*   _Rachel Cohen_: The New Fight for Labor Rights
+*   _Ashe Schow_: Inside the Legal Labyrinth of a Campus Rape Case
     
-*   _Ben Domenech_: Hugh Hefner's Legacy Is About More Than Sex
+*   _Felix Gillette_: Trump vs. Pro Football Is a Ratings Game the NFL Can't Win
     
-*   _Albert Hunt_: Count the Broken Promises in the GOP Tax Plan
+*   _Fred Barnes_: Make America Gipper Again
     
-*   _David Ricks_: Tax Plan Would Level Playing Field for U.S. Workers, Businesses
+*   _Bledsoe &. Marshall_: Dems Need to Put Forward a Tax Plan Too
     
-*   _James Arkin_: Trump Aims to Pressure Democrats on Taxes
+*   _Sally Pipes_: Sanders' Single-Payer Fairy Tale
     
-*   _Jared Bernstein_: Real Tax Reform: What It Is and What It Isn't
+*   _Sarah Jaffe_: Socialized Medicine Has Won the Health-Care Debate
     
-*   _Scott Jennings_: Trump's Gut Knows That U.S. Agrees With Him on NFL Protest
+*   _Kimberly Strassel_: The Never-Trump Triumvirate
     
-*   _Charles Blow_: 'The Flag Is Drenched With Our Blood'
+*   _Benjamin Wallace-Wells_: Roy Moore and the Republican Reckoning
     
-*   _Heather Mac Donald_: Hard Data, Hollow Protests
+*   _George Neumayr_: The Establishment GOP's Meaningless Majority
     
-*   _John Cassidy_: Why the War Over Health Care Isn't Over
+*   _John Whitesides_: Beyond Daily Drama, Trump Begins to Alter American Life
     
-*   _Kevin Williamson_: Time for Democrats to Admit They Were Wrong on the ACA
+*   _Wesley Pruden_: Puerto Rico: Humanitarian Aid vs Political Posturing
     
-*   _Caitlin Huey-Burns_: Vexing Question for GOP: Whose Party Is This?
+*   _Alexis Madrigal_: The False Dream of a Neutral Facebook
     
-*   _Chris Buskirk_: 'Bama Blowout Signals the End of McConnell Era
+*   _Peter Hasson_: The Dirty Little Russian Secret About Black Lives Matter
     
-*   _Ed Rogers_: Roy Moore's Win Is Bad for Alabama, and Even Worse for the GOP
+*   _Gary Younge_: Trump Knows the Depth of America's Bigotry
     
-*   _Dave Lindorff_: Trump and Puerto Rico: Malign Neglect
+*   _L. Todd Wood_: I'm Sick of Black America Blaming White America
     
 
 *   Previous
@@ -262,8 +262,8 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Vexing Question for Republicans: Whose Party Is This?
 *   Trump Aims to Pressure Democrats on Taxes
+*   Vexing Question for Republicans: Whose Party Is This?
 *   Trump: NFL Owners "Are Afraid of Their Players"
 *   Groundhog Day: Repeal Fails Again. Republicans Vow to Keep at It
 *   Moore Defeats Strange in Alabama Senate Runoff
@@ -281,26 +281,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalCNN
+    *   Approve37
+    *   Disapprove56Disapprove +19
 *   President Trump Job ApprovalGallup
-    *   Approve36
-    *   Disapprove59Disapprove +23
+    *   Approve37
+    *   Disapprove59Disapprove +22
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove56Disapprove +13
-*   President Trump Job ApprovalPPP (D)
-    *   Approve42
-    *   Disapprove53Disapprove +11
-*   Congressional Job ApprovalPPP (D)
-    *   Approve9
-    *   Disapprove76Disapprove +67
+    *   Approve45
+    *   Disapprove54Disapprove +9
+*   Alabama Senate Special Election - Moore vs. JonesOpinion Savvy
+    *   Moore50
+    *   Jones45Moore +5
 
 More Latest Polls In The News
 
+*   Jeffrey Sachs: Trump Tax Plan Is A "Sham" Designed To Let Him "Pass Along His Wealth To His Children"
 *   Rep. Al Green: "A President Need Not Be Convicted Of A Criminal Offense To Be Impeached"
 *   Gold Star Parents vs. Spike Lee: How Do You Support Millionaires On Their Knees And Not Fallen Heroes?
 *   Dershowitz: Radical Groups Protesting My Speech "Afraid I Might Actually Persuade Students"
 *   Cornel West: Trump Disrespects The American Flag When He Scapegoats Black And Brown People
-*   O'Reilly: Far Left Mobilizing Minorities To Be Angry, Anti-White. A New Constitution Is The "Endgame"
 
 *   Politics
 *   Policy
