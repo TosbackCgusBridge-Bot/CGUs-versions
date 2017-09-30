@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Friday, September 29, 2017  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, September 30, 2017  
 
 DEBKAfile
 
@@ -46,86 +46,86 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   DEBKAfile shuts down for Yom Kippur
+    
+    Sep 29, 2017 @ 17:15
+    
+*   Trump schedules a 10-day Far East tour next month
+    
+    Sep 29, 2017 @ 16:30
+    
+*   Shabaab car bombs and gunfire kill 17 Somali soldiers
+    
+    Sep 29, 2017 @ 16:21
+    
+*   Kurdistan government refuses to hand over border gates to Iraq
+    
+    Sep 29, 2017 @ 16:20
+    
+*   Jerusalem security ramped up for Yom Kippur
+    
+    Sep 29, 2017 @ 09:26
+    
 *   ISIS chief Baghdadi in new video calls on followers not to despair
     
     Sep 28, 2017 @ 19:42
-    
-*   ISIS claims capture of two Russian soldiers on Deir ez-Zour road
-    
-    Sep 28, 2017 @ 17:59
-    
-*   Turkey advises citizens to leave Iraqi Kurdistan before flights suspended
-    
-    Sep 28, 2017 @ 17:26
-    
-*   Putin arrives in Ankara for talks with Erdogan 
-    
-    Sep 28, 2017 @ 16:27
-    
-*   Three Israeli Arabs indicted for pro-ISIS Temple Mt terror plot
-    
-    Sep 28, 2017 @ 11:19
-    
-*   IDF chief commutes Hebron soldier’s jail sentence by four months
-    
-    Sep 27, 2017 @ 15:07
     
 
-*   Turkey advises citizens to leave Iraqi Kurdistan before flights suspended
+*   Shabaab car bombs and gunfire kill 17 Somali soldiers
     
-    Sep 28, 2017 @ 17:26
+    Sep 29, 2017 @ 16:21
     
-*   Putin arrives in Ankara for talks with Erdogan 
+*   Kurdistan government refuses to hand over border gates to Iraq
     
-    Sep 28, 2017 @ 16:27
+    Sep 29, 2017 @ 16:20
     
-*   Three Israeli Arabs indicted for pro-ISIS Temple Mt terror plot
+*   Jerusalem security ramped up for Yom Kippur
     
-    Sep 28, 2017 @ 11:19
-    
-*   IDF chief commutes Hebron soldier’s jail sentence by four months
-    
-    Sep 27, 2017 @ 15:07
+    Sep 29, 2017 @ 09:26
     
 *   ISIS chief Baghdadi in new video calls on followers not to despair
     
     Sep 28, 2017 @ 19:42
     
-*   ISIS claims capture of two Russian soldiers on Deir ez-Zour road
+*   DEBKAfile shuts down for Yom Kippur
     
-    Sep 28, 2017 @ 17:59
+    Sep 29, 2017 @ 17:15
     
-*   Turkey advises citizens to leave Iraqi Kurdistan before flights suspended
+*   Trump schedules a 10-day Far East tour next month
     
-    Sep 28, 2017 @ 17:26
+    Sep 29, 2017 @ 16:30
     
-*   Putin arrives in Ankara for talks with Erdogan 
+*   Shabaab car bombs and gunfire kill 17 Somali soldiers
     
-    Sep 28, 2017 @ 16:27
+    Sep 29, 2017 @ 16:21
     
-*   Three Israeli Arabs indicted for pro-ISIS Temple Mt terror plot
+*   Kurdistan government refuses to hand over border gates to Iraq
     
-    Sep 28, 2017 @ 11:19
+    Sep 29, 2017 @ 16:20
     
-*   IDF chief commutes Hebron soldier’s jail sentence by four months
+*   Jerusalem security ramped up for Yom Kippur
     
-    Sep 27, 2017 @ 15:07
+    Sep 29, 2017 @ 09:26
     
 *   ISIS chief Baghdadi in new video calls on followers not to despair
     
     Sep 28, 2017 @ 19:42
     
-*   ISIS claims capture of two Russian soldiers on Deir ez-Zour road
+*   DEBKAfile shuts down for Yom Kippur
     
-    Sep 28, 2017 @ 17:59
+    Sep 29, 2017 @ 17:15
     
-*   Turkey advises citizens to leave Iraqi Kurdistan before flights suspended
+*   Trump schedules a 10-day Far East tour next month
     
-    Sep 28, 2017 @ 17:26
+    Sep 29, 2017 @ 16:30
     
-*   Putin arrives in Ankara for talks with Erdogan 
+*   Shabaab car bombs and gunfire kill 17 Somali soldiers
     
-    Sep 28, 2017 @ 16:27
+    Sep 29, 2017 @ 16:21
+    
+*   Kurdistan government refuses to hand over border gates to Iraq
+    
+    Sep 29, 2017 @ 16:20
     
 
 12PrevNext DEBKA Video
