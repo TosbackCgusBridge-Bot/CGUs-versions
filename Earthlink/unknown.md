@@ -6,7 +6,7 @@ THIS DIAL-UP SERVICE AGREEMENT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL 
 
 This Dial-Up Service Agreement ("Agreement") is between EarthLink, LLC and its related entities ("EarthLink") and applies to our use of the EarthLink Dial-Up service, the PeoplePC Dial-Up service, and the EarthLink and PeoplePC software and tools including those described at http://www.earthlink.net/software/ (collectively referred to as "Service") except for EarthLink Home Networking and EarthLink Online Backup which have their own Service Agreements.
 
-This Agreement consists of the terms and conditions below, the specific terms of your billing plan for the Service(s) to which you subscribe, the Windstream Privacy Policy, the Windstream Acceptable Use Policy, and the EarthLink Digital Millennium Copyright Act Policy which are found at http://www.earthlink.net/about/policies and all of which are incorporated herein.
+This Agreement consists of the terms and conditions below, the specific terms of your billing plan for the Service(s) to which you subscribe, the Windstream Privacy Policy, the Windstream Acceptable Use Policy, and the Digital Millennium Copyright Act Policy which are found at https://www.earthlink.net/about/policies and all of which are incorporated herein.
 
 By establishing an account for the Service or using the Service, you agree to be bound by this Agreement and to use the Service in compliance with the terms of this Agreement and all applicable federal, state and local laws, rules and regulations.
 
@@ -20,7 +20,7 @@ To order and receive the Service, you acknowledge that you are 18 years of age o
 
 You represent that all information you provided during the subscription process is accurate and complete and that you will update such information with EarthLink should any of it change.
 
-EarthLink reserves the right to verify the accuracy of the information you submit in connection with your subscription to the Service and you consent to such verification. EarthLink also reserves the right to validate the payment method information you provide at subscription and account updates, including attempting up to a $1.00 authorization to your credit or debit card which is not actually billed. To understand how EarthLink handles and protects your personal information, please see the EarthLink Privacy Policy.
+EarthLink reserves the right to verify the accuracy of the information you submit in connection with your subscription to the Service and you consent to such verification. EarthLink also reserves the right to validate the payment method information you provide at subscription and account updates, including attempting up to a $1.00 authorization to your credit or debit card which is not actually billed. To understand how EarthLink handles and protects your personal information, please see the Windstream Privacy Policy.
 
 The Service must be available to your location. EarthLink may accept or reject any potential subscriber to the Service in its sole discretion. EarthLink will send you a welcome email as written confirmation of your order. Even if EarthLink has accepted your order, EarthLink cannot guarantee that the Service can be provisioned to your address.
 
@@ -94,12 +94,12 @@ EarthLink will email an e-invoice to your primary EarthLink or PeoplePC email ad
 
 Your account will be automatically inactivated if you put a stop payment on your account with your financial institution in connection with the payment of your monthly bill.
 
-All charges are considered valid unless disputed in writing within 30 days of the billing date and mailed to:
+All charges are considered valid unless disputed in writing within 30 days of the billing date and mailed to1:
 
-> EarthLink, LLC  
-> Customer Service  
-> 1170 Peachtree Street, Suite 900  
-> Atlanta, Georgia 30309
+EarthLink, LLC  
+Customer Service  
+1439 Peachtree Street NE  
+Atlanta, Georgia 30309
 
 Adjustments will not be made for charges that are disputed more than 30 days after the billing date.
 
@@ -113,27 +113,27 @@ The billing plans for some of the Services may vary by geographic location, phon
 
 If you signed up for a pre-paid billing plan, you will receive the applicable Service for the duration of your subscription term without further monthly Service fees. Depending on the terms of your pre-paid billing plan, your subscription may convert to either a monthly or a fixed period subscription at the end of the initial fixed pre-paid subscription term. Pricing will be subject to the rates in effect at that time for that Service. If you cancel your subscription before the end of the fixed term or if EarthLink terminates your subscription before the end of the fixed term for violation of this Agreement or other applicable EarthLink agreements or policies, EarthLink will not refund, in whole or in part, the amount you have paid for your subscription.
 
-The email storage limits for your billing plan are posted on the EarthLink website located at www.earthlink.net or the PeoplePC website located at www.peoplepc.com. If your mailbox is approaching the storage limit for your Service, it will be noted visually on your web mail. EarthLink also will send email notices to this mailbox stating you are approaching your email storage limit. When your mailbox exceeds the allotted email storage space, you will receive a second email warning from EarthLink that your email storage is over quota and then EarthLink will stop transmitting email messages to your inbox. Any incoming emails will be bounced with an error message to the sender stating that your mailbox is full. After you delete some email messages to free up some space, new messages will be accepted again. You may purchase additional storage up to a fixed limit as described at https://myaccount.earthlink.net or https://myacount.peoplepc.com.
+The email storage limits for your billing plan are posted on the EarthLink website located at www.earthlink.net or the PeoplePC website located at www.peoplepc.com . If your mailbox is approaching the storage limit for your Service, it will be noted visually on your web mail. EarthLink also will send email notices to this mailbox stating you are approaching your email storage limit. When your mailbox exceeds the allotted email storage space, you will receive a second email warning from EarthLink that your email storage is over quota and then EarthLink will stop transmitting email messages to your inbox. Any incoming emails will be bounced with an error message to the sender stating that your mailbox is full. After you delete some email messages to free up some space, new messages will be accepted again. You may purchase additional storage up to a fixed limit as described at https://myaccount.earthlink.net or https://myacount.peoplepc.com .
 
-Certain billing plans may offer the ability to create your personal webspace. The maximum webspace available for such use is 10MB per account. Limitations may include, but are not limited to, certain software and certain operating systems. You agree to use your personal webspace in compliance with the terms of the EarthLink Acceptable Use Policy. In the event that one of your personal webspace exceeds 10 MB, no additional information can be uploaded to it. If the traffic on one of your personal webspace exceeds 1 GB of webspace in a calendar month, such personal webspace will be shut down until the next calendar month. If you want more space or bandwidth for your personal webspace, you can subscribe to the EarthLink Web Hosting Service.
+Certain billing plans may offer the ability to create your personal webspace. The maximum webspace available for such use is 10MB per account. Limitations may include, but are not limited to, certain software and certain operating systems. You agree to use your personal webspace in compliance with the terms of the Windstream Acceptable Use Policy . In the event that one of your personal webspace exceeds 10 MB, no additional information can be uploaded to it. If the traffic on one of your personal webspace exceeds 1 GB of webspace in a calendar month, such personal webspace will be shut down until the next calendar month. If you want more space or bandwidth for your personal webspace, you can subscribe to the EarthLink Web Hosting Service.
 
 **10\. CANCELLATION AND TERMINATION**
 
 You may cancel your Service only as follows:
 
-> Telephone Cancellation for EarthLink Services: toll free number at 1-888-327-8454
-> 
-> Telephone Cancellation for PeoplePC Services: toll free number at 1-866-772-6277
-> 
-> Fax Cancellation for both EarthLink Services and PeoplePC Services: Please include your account number and current telephone number and fax to 404-795-1034.
-> 
-> Mail Cancellation for both EarthLink Services and PeoplePC Services: Send registered or certified mail, return receipt requested to:
-> 
-> > EarthLink, LLC  
-> > Cancel (write Name of Service)  
-> > 1170 Peachtree Street, Suite 900  
-> > Atlanta, Georgia 30309  
-> > \*Include your account number and current telephone number.
+Telephone Cancellation for EarthLink Services: toll free number at 1-888-327-8454
+
+Telephone Cancellation for PeoplePC Services: toll free number at 1-866-772-6277
+
+Fax Cancellation for both EarthLink Services and PeoplePC Services: Please include your account number and current telephone number and fax to 404-795-1034.
+
+Mail Cancellation for both EarthLink Services and PeoplePC Services: Send registered or certified mail, return receipt requested to:
+
+> EarthLink, LLC  
+> Cancel (write Name of Service)  
+> 1439 Peachtree Street NE  
+> Atlanta, Georgia 30309  
+> \*Include your account number and current telephone number.
 
 EarthLink does NOT accept cancellations by email.
 
@@ -155,7 +155,7 @@ EarthLink may take any legal and technical remedies to enforce or prevent the vi
 
 EarthLink has no obligation to monitor the Service but may do so to (i) comply with laws, regulations, or governmental or legal requests. (ii) protect the overall integrity of the Service (including the EarthLink network). (iii) operate the technical aspects of the Service in a proper, effective, and reasonable manner. (iv) protect itself, its employees, or others as described in the Windstream Privacy Policy. and (v) enforce or prevent breaches of this Agreement or other EarthLink agreements or policies, including the Windstream Acceptable Use Policy.
 
-EarthLink will only disclose information regarding your use of your Service in accordance with the Windstream Privacy Policy. EarthLink may immediately remove your material or information from EarthLink's servers, in whole or in part, if EarthLink reasonably believes it infringes another's property rights or violates the Windstream Acceptable Use Policy , other EarthLink agreements or policies, or any laws or regulations.
+EarthLink will only disclose information regarding your use of your Service in accordance with the Windstream Privacy Policy. EarthLink may immediately remove your material or information from EarthLink's servers, in whole or in part, if EarthLink reasonably believes it infringes another's property rights or violates the Windstream Acceptable Use Policy, other EarthLink agreements or policies, or any laws or regulations.
 
 EarthLink will use commercially reasonable efforts to schedule any maintenance outages in a way that minimizes the impact on subscribers. however, EarthLink cannot guarantee that your Service will not be interrupted and cannot always provide advance notice of such outages.
 
@@ -189,11 +189,11 @@ In addition, you hereby agree that your use of the Service constitutes your expr
 
 15.3 Changing Your Contact Preferences
 
-You may exercise your option not to receive any marketing communications from and/or automated or manually dialed calls, text messages and pre-recorded messages from EarthLink (i) for EarthLink Services, by going directly to https://myaccount.earthlink.net/cam/contactinfo.jsp or calling EarthLink customer service, or (ii) for the PeoplePC DSL Service, by going directly to https://myaccount.peoplepc.com/cam/contactinfo.jsp or calling PeoplePC customer service. You also may text STOP in response to any text message from EarthLink to stop receiving text messages from EarthLink.1
+You may exercise your option not to receive any marketing communications from and/or automated or manually dialed calls, text messages and pre-recorded messages from EarthLink (i) for EarthLink Services, by going directly to https://myaccount.earthlink.net/cam/contactinfo.jsp or calling EarthLink customer service, or (ii) for the PeoplePC DSL Service, by going directly to https://myaccount.peoplepc.com/cam/contactinfo.jsp or calling PeoplePC customer service. You also may text STOP in response to any text message from EarthLink to stop receiving text messages from EarthLink .
 
 **16\. CUSTOMER SERVICE AND TECHNICAL SUPPORT**
 
-For online customer support for your Service, including troubleshooting email, certain connection issues, billing issues, setting up your email, and online account maintenance, go to http://support.earthlink.net/ for the EarthLink Services or https://support.peoplepc.com/ for the PeoplePC Services. For specific billing questions, you also can login to myaccount at https://myaccount.earthlink.net/cam/whlogin.jsp.
+For online customer support for your Service, including troubleshooting email, certain connection issues, billing issues, setting up your email, and online account maintenance, go to http://support.earthlink.net/ for the EarthLink Services or https://support.peoplepc.com/ for the PeoplePC Services. For specific billing questions, you also can login to myaccount at https://myaccount.earthlink.net/cam/whlogin.jsp .
 
 To contact EarthLink Customer Service via telephone or live chat, go to http://www.earthlink.net/about/contact/ for the EarthLink Services and http://psc.peoplepc.com/contact/contact.php for the PeoplePC Services.
 
@@ -228,7 +228,7 @@ You agree that, by entering into this Agreement, you and EarthLink are each waiv
 
 18.3(1) Notice of Dispute
 
-A party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute ("Notice"). A Notice to EarthLink should be addressed to: General Counsel (Arbitration), EarthLink, LLC, 1170 Peachtree Street, Suite 900, Atlanta, Georgia 30309 ("Notice Address"). The Notice must (a) describe the nature and basis of the claim or dispute. and (b) set forth the specific relief sought ("Demand"). A Notice to you will be addressed to the billing address that EarthLink has on file for you.
+A party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute ("Notice"). A Notice to EarthLink should be addressed to: EarthLink, LLC, 4001 Rodney Parham Rd., Little Rock, AR 72212, Mailstop B1F03-53A, Attn: Legal Department (Arbitration) ("Notice Address"). The Notice must (a) describe the nature and basis of the claim or dispute. and (b) set forth the specific relief sought ("Demand"). A Notice to you will be addressed to the billing address that EarthLink has on file for you.
 
 18.3(2) Settlement Proposals
 
@@ -274,7 +274,7 @@ Notwithstanding any provision in this Agreement to the contrary, if EarthLink ma
 
 California residents are entitled to the following information:
 
-The Service is provided by EarthLink, LLC, 1170 Peachtree Street, Suite 900, Atlanta, Georgia 30309.
+The Service is provided by EarthLink, LLC, 1439 Peachtree Street NE, Atlanta, Georgia 30309.
 
 Charges may vary depending on the type of Service.
 
@@ -292,8 +292,8 @@ EarthLink may revise, amend, or modify this Agreement at any time by posting the
 
 You may not assign your rights or delegate any of your duties under this Agreement without the prior written consent of EarthLink, and any attempted assignment or delegation without such consent will be void. If one or more provisions of this Agreement are held to be invalid, illegal, or unenforceable, the validity, legality and enforceability of the remaining provisions will not be affected or impaired thereby. The foregoing does not apply to the prohibition against class or representative actions that is part of the arbitration provision in Section 18. if that prohibition is found to be unenforceable, the entire DISPUTE RESOLUTION BY BINDING ARBITRATION provision (but only the DISPUTE RESOLUTION BY BINDING ARBITRATION provision) will be null and void and the dispute will be heard by a court. EarthLink may amend or replace such unenforceable provision with one that is valid and enforceable and which achieves, to the extent possible, the original objectives and intent of EarthLink as reflected in the original provision. Nothing in this Agreement or in the understanding of the parties confers upon the parties the status of agency, partnership, or other form of joint enterprise between the parties. EarthLink may subcontract any work, obligations or other performance required of EarthLink under this Agreement without your consent. EarthLink will not be liable for delays, damages or failures in performance because of causes beyond its reasonable control, including, but not limited to, acts of a government in its sovereign capacity, acts of war, terrorism, acts of a public enemy, fires, earthquakes, acts of God, labor disputes, strikes, work slow-downs or other labor-related activity.
 
-Effective Date: September 15, 2016
+Effective Date: September 30, 2017
 
-The following endnote summarize the material revision made in this September 15, 2016 version of this Agreement compared to the February 11, 2016 version of this Agreement.
+The following endnote summarize the material revision made in this September 30, 2017 version of this Agreement compared to the September 15, 2016 version of this Agreement.
 
-1 Section 15 was updated.
+1 EarthLink address changes throughout the Agreement.
