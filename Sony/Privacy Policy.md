@@ -136,9 +136,9 @@ View Big sound comes in mini boxes on Instagram
 
 <img class="bg-img" class="url(https://scontent.cdninstagram.com/t51.2885-15/e35/15802904\_649200765252145\_5066124185755975680\_n.jpg);" alt="">.
 
-#Outlander Clan, which moments with Frank (@tobiasmenzies) have stuck most with you over the seasons? #TeamFrank
+#MarkFelt starring Liam Neeson is now playing in NY &. LA! @AARP calls it "sleek" and "thrilling"…
 
-3 days ago
+21 hours ago
 
 View Tweet
 
@@ -208,9 +208,9 @@ Everything Is Better In Camo
 
 <img class="bg-img" class="url(/en\_us/media/content/CODBundle-600x600\_v2\_4AX3daO.jpg);" alt="Call of Duty WWII PS4 Bundle">.
 
-From Super slow motion shots to super-wide selfies, your camera game is strong with #Xperia XZ1 Compact.
+RT @RollingStone: Inside Harry Styles' intimate first solo tour.
 
-2 days ago
+20 hours ago
 
 View Tweet
 
@@ -276,7 +276,7 @@ Play Go On Location as Yuji Nukui Photographs Mont-Saint Michel in France Video 
 
 <img class="bg-img" class="url(/en\_us/media/content/DI-Stories-600x600\_9aqM9bX.jpg);" alt="DI Stories ">. Five Medical Students Try to Find Out What Happens After Death
 
-See "Flatliners” in Theaters This Friday
+See "Flatliners” in Theaters This Weekend
 
 Close
 
@@ -312,9 +312,9 @@ View Stacked on bass. on Instagram
 
 <img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/14359484\_555383667987834\_3427506132682276864\_n.jpg);" alt="">.
 
-Pick up this new timed-edition The Last of Us poster for Outbreak Day 2017. You have until 10am Pacific Friday!
+We're busy building out our next installation at #SonySquareNYC. Experience it yourself beginning October 1.
 
-1 day ago
+20 hours ago
 
 View Tweet
 
