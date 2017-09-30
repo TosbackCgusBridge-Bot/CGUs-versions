@@ -141,11 +141,8 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Jerseys
     *   PhotosMLB Auctions Shop
 *   MLB.TV MLB.TV MLB.TV
-    *   Buy MLB.TV
-    *   Watch MLB.TV
+    *   Watch MLB.TV for Free
     *   Buy Follow Your Team
-    *   View MLB.TV Demo
-    *   Buy Gameday Audio
     *   Alternative Audio
     *   MLB.TV Devices
     *   MLB.TV with Extra Innings
