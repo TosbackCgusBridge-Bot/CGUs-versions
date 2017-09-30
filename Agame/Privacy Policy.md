@@ -225,9 +225,9 @@ Add to Chrome
     
     Recommended Games
     
-    *   Total Front
     *   World of Warships
-    *   Jungle Jewels
+    *   Dragon Awaken
+    *   Sparta: War Of Empires
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
