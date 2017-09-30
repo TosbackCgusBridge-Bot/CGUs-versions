@@ -8,7 +8,7 @@
 *   Men
 *   Kids
 *   Jeans
-*   Trending
+*   New
 *   Sale
 
 *   Search
@@ -17,7 +17,7 @@
     *   Login
     *   |
     *   Register
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   0MY FAVORITES
 *   MY BAG
@@ -201,7 +201,7 @@
         *   Shop All Factory Seconds
         
         Give a Buckle Gift card Want Free Shipping? Buy Online &. Pick Up Your Order In-Store. SHOP WOMEN | SHOP MEN | LEARN MORE
-*   Trending
+*   New
     *   *   Featured New
         
         *   Fall Checklist
