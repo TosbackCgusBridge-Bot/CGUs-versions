@@ -114,6 +114,10 @@
     *   About
     *   Media Kit
 
+*   _Larry Kudlow_: Trump's Incentive-Packed Tax Plan
+    
+*   _Michelle Malkin_: How the NFL Feeds at the Taxpayer Trough
+    
 *   _Steve Kornacki_: The Next Republican Uprising Is Underway
     
 *   _Charles Gasparino_: Trump Tax Plan Sounds Great--But Devil Is in the Details
@@ -157,10 +161,6 @@
 *   _Alexis Madrigal_: The False Dream of a Neutral Facebook
     
 *   _Peter Hasson_: The Dirty Little Russian Secret About Black Lives Matter
-    
-*   _Gary Younge_: Trump Knows the Depth of America's Bigotry
-    
-*   _L. Todd Wood_: I'm Sick of Black America Blaming White America
     
 
 *   Previous
@@ -281,12 +281,12 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve37
+    *   Disapprove58Disapprove +21
 *   President Trump Job ApprovalCNN
     *   Approve37
     *   Disapprove56Disapprove +19
-*   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove59Disapprove +22
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve45
     *   Disapprove54Disapprove +9
@@ -296,11 +296,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Maher On Free Speech: Doesn't Take Courage To Be Punch Nazis, No One Being Thrown In Ovens
+*   David Brooks: If You Want To Hold Off Steve Bannon You Actually Have To Have An Argument
+*   Bret Stephens: Trump Election Should Be 'Come To Jesus Moment' For The Media, "What Have We Done?"
+*   Candace Owens (Red Pill Black): How I Discovered The World Of Gaslighting "Journalist-Hitmen"
 *   Jeffrey Sachs: Trump Tax Plan Is A "Sham" Designed To Let Him "Pass Along His Wealth To His Children"
-*   Rep. Al Green: "A President Need Not Be Convicted Of A Criminal Offense To Be Impeached"
-*   Gold Star Parents vs. Spike Lee: How Do You Support Millionaires On Their Knees And Not Fallen Heroes?
-*   Dershowitz: Radical Groups Protesting My Speech "Afraid I Might Actually Persuade Students"
-*   Cornel West: Trump Disrespects The American Flag When He Scapegoats Black And Brown People
 
 *   Politics
 *   Policy
