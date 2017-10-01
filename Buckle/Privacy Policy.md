@@ -8,7 +8,7 @@
 *   Men
 *   Kids
 *   Jeans
-*   New
+*   Trending
 *   Sale
 
 *   Search
@@ -201,7 +201,7 @@
         *   Shop All Factory Seconds
         
         Give a Buckle Gift card Want Free Shipping? Buy Online &. Pick Up Your Order In-Store. SHOP WOMEN | SHOP MEN | LEARN MORE
-*   New
+*   Trending
     *   *   Featured New
         
         *   Fall Checklist
