@@ -349,6 +349,7 @@ Menu Find a Store Aeropostale
         *   Joggers + Sweats
     *   Jackets + Vests
     *   Accessories
+    
 *   Jeans
     
     *   View Home
@@ -371,6 +372,7 @@ Menu Find a Store Aeropostale
         *   Straight
         *   Super Skinny
         *   Relaxed
+    
 *   Live Love Dream
     
     *   View Home
@@ -403,6 +405,7 @@ Menu Find a Store Aeropostale
     *   Bras
     *   Undies
     *   Accessories
+    
 *   Trending
     
     *   View Home
@@ -426,6 +429,7 @@ Menu Find a Store Aeropostale
         *   Mesh Detail
         *   Colorblock
         *   Studio
+    
 *   Clearance
     
     *   View Home
@@ -464,6 +468,7 @@ Menu Find a Store Aeropostale
         *   Shorts
         *   Intimates
         *   Accessories
+    
 
 *   Help - Live Chat
 *   Sign Up/Login
