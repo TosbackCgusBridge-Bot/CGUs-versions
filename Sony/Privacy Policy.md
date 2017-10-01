@@ -314,7 +314,7 @@ View Stacked on bass. on Instagram
 
 We're busy building out our next installation at #SonySquareNYC. Experience it yourself beginning October 1.
 
-20 hours ago
+19 hours ago
 
 View Tweet
 
