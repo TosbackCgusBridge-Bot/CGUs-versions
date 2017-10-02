@@ -1,4 +1,4 @@
-JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing 2017.16.0.0.69.0
+JCPenney: Window &. Home Decor, Bedding, Appliances &. Clothing 2017.16.0.0.70.0
 
 *   find a store
 *   store ads
@@ -41,27 +41,27 @@ JCPenney Your Store: Northfld @ Stapleton change store 0
 *   Sephora
 *   Clearance
 
-2017.16.0.0.69.0 2017 XM migration-home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sat Sep 30 21:58:53 CDT 2017 ->. dtexppr1c2j5\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneA \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sat Sep 30 21:58:35 CDT 2017 ->. dtexppr1c2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneB \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sat Sep 30 21:58:53 CDT 2017 ->. dtexppr1c2j3\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneC
+2017.16.0.0.69.0 2017 XM migration-home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sun Oct 01 21:56:20 CDT 2017 ->. dtexppr1c1j1\_07 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneA \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sun Oct 01 21:57:17 CDT 2017 ->. dtexppr1c2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneB \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sun Oct 01 21:57:53 CDT 2017 ->. dtexppr1c1j2\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneC
 
-60% OFF CARTER'S  
-NO COUPON NEEDED
+SAVE MORE ON BEDDING WITH CODE HURRY36
 
 SHOP ALL
 
-Previous*   $10.40 sale $26  original Carter's Little Baby Basics Boy 5-Pack... (36)
-*   $9.60 sale $24  original Carter's Pull-On Pants Boys
-*   $12 sale $30  original Carter's 2-pc. Legging Set-Toddler Girls (1)
-*   $10.40 sale $26  original Carter's Little Baby Basics Girl 5-Pack... (29)
-*   $8.80 sale $22  original Carter's Little Baby Basics Boy 2-Pack... (52)
-*   $8.80 sale $22  original Carter's Little Baby Basics Boy... (195)
-*   $8.80 sale $22  original Carter's Little Baby Basics Girl... (283)
-*   $12 sale $30  original Carter's 2-pc. Jogger Set Boys
-*   $13.60 sale $34  original Carter's 4-pc. Pajama Set Girls (2)
-*   $6.40 - $8 sale $16  original Carter's Sleep and Play - Baby (91)
-*   $8 sale $20  original Carter's 2-pc. Bodysuit Set-Baby Boys (4)
-*   $12 sale $30  original Carter's 2-pc. Pant Set Boys
-*   $6.40 - $8 sale $16  original Carter's Sleep and Play - Baby (65)
-*   $13.60 sale $34  original Carter's 4-pc. Kids Pajama Set - Toddler... (2)
+Previous*   $139.99 - $169.99 sale $199 - $249  original Linden Street Kenora 4-pc. Comforter Set
+*   $159.99 - $189.99 sale $269 - $319  original Royal Velvet Hayden Comforter Set
+*   $139.99 - $169.99 sale $260 - $300  original Home Expressions Nina 10-pc. Comforter Set
+*   $199.99 - $229.99 sale $369 - $429  original Royal Velvet Charrington 13-pc...
+*   $39.99 - $69.99 sale $100 - $160  original JCPenney Home™ Classic Light-Warmth... (1088)
+*   $99.99 - $149.99 sale $200 - $300  original Home Expressions™ Cassandra Pieced... (491)
+*   $49.99 - $69.99 sale $100 - $140  original Home Expressions™ Emma Quilt (216)
+*   $199.99 - $249.99 sale $335 - $420  original Croscill Classics® Catalina Red 4-pc... (158)
+*   $129.99 - $149.99 sale $250 - $300  original Royal Velvet® Big and Soft™ Extra-Warmth... (198)
+*   $69.99 - $119.99 sale $140 - $200  original Home Expressions™ Everly Bedspread (175)
+*   $84.99 - $109.99 sale $145 - $185  original JCPenney Home™ Faux Ultra Mink Fur and... (613)
+*   $129.99 - $169.99 sale $220 - $270  original Royal Velvet Modena 4-pc. Comforter Set (28)
+*   $179.99 - $219.99 sale $350 - $420  original Madison Park Wellington 12-pc... (54)
+*   $199.99 - $249.99 sale $335 - $420  original Croscill Classics® Catalina Brown 4-pc... (61)
+*   $109.99 - $149.99 sale $200 - $300  original Retro Chic Cotton Striped Bedspread (407)
 Next
 
 60% OFF SELECT WOMEN'S POPULAR BRANDS NO COUPON NEEDED
@@ -71,18 +71,18 @@ SHOP ALL
 Previous*   $17.60 sale $44  original Worthington® Modern Fit Trouser Pants (1705)
 *   $17.60 sale $44  original St. John's Bay® Bi-Stretch Secretly... (823)
 *   $16 sale $40  original Arizona Schoolgirl Bootcut Pants-Juniors (767)
-*   $14.40 - $17.60 sale $36  original St. John's Bay Skinny Fit Jean (2)
 *   $19.20 sale $48  original Liz Claiborne Classic Fit Audra Straight Leg... (869)
 *   $6.40 - $6.80 sale $16 - $17  original St. John's Bay 3/4 Sleeve V Neck... (81)
+*   $14.40 - $17.60 sale $36  original St. John's Bay Skinny Fit Jean (2)
+*   $17.60 sale $44  original Worthington® Curvy Fit Straight Leg Pants (243)
 *   $17.60 - $19.20 sale $44 - $48  original Worthington® Essential Curvy Fit Trouser... (914)
 *   $17.60 sale $44  original a.n.a Wrap Front Blouse (18)
 *   $19.20 sale $48  original Liz Claiborne Classic Fit Emma Ankle Pant (11)
 *   $17.60 sale $44  original a.n.a Stretch Twill Ankle (133)
-*   $19.20 sale $48  original Worthington® Modern Fit Trouser Pants - Talls (1705)
 *   $28 sale $70  original Worthington Blazer (31)
 *   $8.80 sale $22  original a.n.a 3/4 Sleeve Scoop Neck Tee (1)
-*   $27.20 - $28.80 sale $68 - $72  original Worthington® Long Sleeve Open Front... (103)
-*   $20 sale $50  original Liz Claiborne® Super Stretch Pants - Tall (34)
+*   $19.20 sale $48  original Worthington® Modern Fit Trouser Pants - Talls (1705)
+*   $17.60 sale $44  original St. John's Bay® Back Flap Pocket Bootcut... (193)
 Next
 
 SAVE 60% OFF SELECT MEN'S TOP BRANDS  
@@ -90,21 +90,21 @@ NO COUPON NEEDED
 
 SHOP ALL
 
-Previous*   $36.99 sale $59.50  original Levi's® 505™ Regular Fit Jeans (2050)
-*   $36.99 sale $59.50  original Levi's® 550™ Relaxed Fit Jeans (1239)
-*   $36.99 sale $59.50  original Levi's® 501® Original Fit Jeans (2399)
-*   $44.99 sale $69.50  original Levi's® 550™ Relaxed Fit Jeans-Big &. Tall (1239)
-*   $16 sale $40  original Stafford® Travel Wrinkle-Free Oxford... (1577)
+Previous*   $16 sale $40  original Stafford® Travel Wrinkle-Free Oxford... (1577)
 *   $20 sale $50  original Stafford® Travel Performance Super... (1112)
 *   $84 sale $210  original Stafford Travel Wool Blend Stretch Classic... (50)
-*   $36.99 sale $62  original Dockers® D3 Signature Stretch... (84)
 *   $16 sale $40  original Stafford® Travel Performance Pinpoint... (663)
-*   $36.99 sale $59.50  original Levi's® 517™ Bootcut Jeans (924)
-*   $49.99 sale $69.50  original Levi's® 511™ Slim Jeans Stretch (826)
-*   $36.99 sale $62  original Dockers® D3 Signature Stretch... (104)
-*   $15 sale $20  original Nike® 6-pk. Performance Cotton... (88)
-*   $12.50 sale $25  original The Foundry Big &. Tall Supply Co.™ Solid... (960)
 *   $76 sale $190  original JF J. Ferrar® Stretch Gabardine Suit Jacket... (243)
+*   $19.20 sale $48  original Liz Claiborne Classic Fit Emma Ankle Pant (11)
+*   $104 sale $260  original Stafford® Executive Super 100 Wool Suit... (192)
+*   $24 sale $60  original Stafford® Travel Performance Super... (1112)
+*   $20 sale $50  original St. John's Bay® Easy-Care Classic Flat-Front... (207)
+*   $36 sale $90  original Men's JF J. Ferrar® Stretch Gabardine... (168)
+*   $44 sale $110  original Stafford Travel Wool Blend Stretch Flat... (15)
+*   $12 sale $30  original The Foundry Big &. Tall Supply Co.™ Solid... (915)
+*   $20 sale $50  original The Foundry Big &. Tall Supply Co.™ Flex... (50)
+*   $20 sale $50  original Stafford® Travel Performance Pinpoint... (663)
+*   $84 sale $210  original Stafford® Travel Suit Jacket - Classic (373)
 Next
 
 60% OFF SELECT KIDS' TOP BRANDS  
@@ -112,46 +112,24 @@ NO COUPON NEEDED
 
 SHOP ALL
 
-Previous*   $7.20 sale $18  original Total Girl Pattern Knit Leggings - Big Kid...
-*   $6.40 - $7.20 sale $16 - $18  original Arizona Long Sleeve Solid Tees Boys 8-20...
-*   $10.40 sale $26  original Carter's Pull-On Pants Boys
-*   $10 sale $25  original Xersion Hoodie-Preschool Boys
-*   $12 sale $30  original Carter's 2-pc. Legging Set-Toddler Girls
-*   $10 sale $25  original Jacques Moret Abstract Biketard - Preschool
-*   $14 sale $35  original Xersion Hoodie-Big Kid Girls
-*   $12 sale $30  original Xersion Quarter-Zip Pullover - Big Kid Girls
-*   $23.20 sale $58  original Arizona Bell Long Sleeve Peasant Dress...
-*   $8 - $8.80 sale $20 - $22  original Arizona Microfleece Sport Print Pajama...
+Previous*   $6.40 sale $16  original Carter's Floral Knit Leggings - Preschool...
+*   $8 sale $20  original Xersion Poly Graphic Tee Graphic...
+*   $12.80 sale $32  original Carter's 2-pc. Pajama Set Boys
 *   $7.20 sale $18  original Carter's Long Sleeve Round Neck...
-*   $12 - $12.80 sale $30 - $32  original Arizona Long Sleeve Plush Hoodie - Girls'...
+*   $7.20 sale $18  original Total Girl Pattern Knit Leggings - Big Kid...
+*   $8.80 - $9.60 sale $22 - $24  original Arizona Lace SS Embroidered Top -...
+*   $8 sale $20  original Xersion Camouflage Jersey Leggings - Big...
+*   $12 sale $30  original Carter's 2-pc. Animal Pant Set Boys
+*   $6.40 sale $16  original Carter's Long Sleeve Round Neck...
+*   $6.40 sale $16  original Carter's Long Sleeve Round Neck...
 *   $8.80 sale $22  original Xersion Pull-On Shorts Big Kid Girls
-*   $13.60 sale $34  original Carter's 4-pc. Pajama Set Girls
-*   $6.40 sale $16  original Okie Dokie Pull-On Pants Boys
+*   $9.60 sale $24  original Carter's Long Sleeve Henley Shirt - Toddler...
+*   $10.40 sale $26  original Carter's Long Sleeve Button-Front Shirt Boys
+*   $8 sale $20  original Carter's Long Sleeve One Piece...
+*   $7.20 - $8 sale $18 - $20  original Carter's Long Sleeve Round Neck...
 Next
 
-60% OFF SELECT SHOES  
-NO COUPON NEEDED
-
-SHOP ALL
-
-Previous*   $29.99 sale $59  original Arizona Garrity Womens Bootie (5)
-*   $19.99 sale $55  original Worthington Beckwith Womens Heeled... (133)
-*   $39.99 sale $79  original Arizona Delling Womens Riding Boots
-*   $29.99 sale $50  original Arizona Laflin Ankle-Strap Wedge Pumps (41)
-*   $24.99 sale $50  original Liz Claiborne Warwick Womens Sneakers (98)
-*   $59.99 sale $80  original Clarks® May Marigold Slip-On Shoes (204)
-*   $39.99 sale $69  original Arizona Olympia Womens Bootie (1)
-*   $49.99 sale $60  original Nike® Revolution 3 Mens Running Shoes (149)
-*   $29.99 sale $59  original Arizona York Womens Bootie
-*   $19.99 sale $60  original Liz Claiborne Gavi Womens Heeled Sandal (46)
-*   $49.99 sale $55  original Converse Chuck Taylor All Star Sneakers -... (738)
-*   $19.99 sale $60  original a.n.a® Claire Pumps (63)
-*   $39.99 sale $69  original a.n.a Addie Womens Bootie
-*   $48.75 sale $65  original Nike® Air Monarch IV Mens Training Shoes (503)
-*   $39.99 - $49.99 sale $65  original Skechers® Go Walk 4 Pursuit Slip-On... (317)
-Next
-
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sat Sep 30 21:59:45 CDT 2017 ->. dtexppr1c2j3\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneE \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sat Sep 30 03:28:53 CDT 2017 ->. dtexppr1c2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sat Sep 30 21:58:06 CDT 2017 ->. dtexppr1c2j1\_08 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true true get connected
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sun Oct 01 21:57:28 CDT 2017 ->. dtexppr1c2j4\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneD \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sun Oct 01 21:57:37 CDT 2017 ->. dtexppr1l1j2\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sun Oct 01 03:19:15 CDT 2017 ->. dtexppr1c1j5\_01 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneF \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sun Oct 01 03:19:15 CDT 2017 ->. dtexppr1c1j4\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sun Oct 01 03:19:15 CDT 2017 ->. dtexppr1l1j3\_03 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true true get connected
 
 1.800.322.1189 Enter a valid email address Enter a valid mobile number. Sign up for email &. get an Extra 25% off coupon! Some exclusions apply. Sign Up Sign up for text messages &. get an Extra 25% off coupon! Some exclusions apply. Sign Up
 
