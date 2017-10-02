@@ -1,19 +1,19 @@
-*   NO1-2MIA1-1Sun 9:30 AM ET
-*   BUF2-1ATL3-0Sun 1:00 PM ET
-*   PIT2-1BAL2-1Sun 1:00 PM ET
-*   CIN0-3CLE0-3Sun 1:00 PM ET
-*   LA2-1DAL2-1Sun 1:00 PM ET
-*   TEN2-1HOU1-2Sun 1:00 PM ET
-*   DET2-1MIN2-1Sun 1:00 PM ET
-*   CAR2-1NE2-1Sun 1:00 PM ET
-*   JAX2-1NYJ1-2Sun 1:00 PM ET
-*   SF0-3ARI1-2Sun 4:05 PM ET
-*   PHI2-1LAC0-3Sun 4:05 PM ET
-*   NYG0-3TB1-1Sun 4:05 PM ET
-*   OAK2-1DEN2-1Sun 4:25 PM ET
-*   IND1-2SEA1-2Sun 8:30 PM ET
+*   Big Play HighlightJ.Coleman 28-yard INT return for TDWatch NowIND?2SEA102nd ? 07:23RZ
 *   WAS2-1KC3-0Mon 8:30 PM ET
 *   CHI14GB35Final
+*   NO20MIA0Final
+*   BUF23ATL17Final
+*   PIT26BAL9Final
+*   CIN31CLE7Final
+*   LA35DAL30Final
+*   TEN14HOU57Final
+*   DET14MIN7Final
+*   CAR33NE30Final
+*   JAX20NYJ23Final (OT)
+*   SF15ARI18Final (OT)
+*   PHI26LAC24Final
+*   NYG23TB25Final
+*   OAK10DEN16Final
 
 *   News
 *   Scores
