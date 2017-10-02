@@ -223,17 +223,9 @@ Add to Chrome
     *   Sports
 *   For you
     
-    Recommended Games
+    My last played games
     
-    *   World of Warships
-    *   Dragon Awaken
-    *   Sparta: War Of Empires
-    *   Madalin Stunt Cars 2
-    *   Geometry Neon Dash
-    *   Fireboy &. Watergirl 4: Crystal Temple
-    *   Bubble Shooter HD
-    *   Solitaire FRVR
-    *   Uphill Rush 7: Waterpark
+    *   Hey, you will find your last played games here.  
     
     FAVE GAMES
     
