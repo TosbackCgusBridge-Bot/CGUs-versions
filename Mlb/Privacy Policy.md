@@ -74,9 +74,8 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   2017 Wild Card Standings
     *   Spring Training Standings
 *   Schedule Schedule Schedule
-    *   2017 Regular Season
     *   2017 Postseason
-    *   2017 Spring Training
+    *   2017 Regular Season
     *   2018 Regular Season
     *   Important Dates
     *   Team-by-Team Schedule
@@ -141,15 +140,18 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Jerseys
     *   PhotosMLB Auctions Shop
 *   MLB.TV MLB.TV MLB.TV
-    *   Watch MLB.TV for Free
-    *   Buy Follow Your Team
+    *   MLB.TV Postseason US
+    *   MLB.TV Postseason INTL
+    *   Postseason.TV
+    *   MLB.TV Postseason Schedule
+    *   Watch MLB.TV
     *   Alternative Audio
     *   MLB.TV Devices
     *   MLB.TV with Extra Innings
     *   MLB.TV Help Center/FAQs
     *   MLB.TV Support Forum
     *   MLB.TV Blackouts
-    *   Contact Uswbc
+    *   Contact Us
 *   Auction
 *   Fantasy Fantasy Fantasy
     *   Beat the Streak
