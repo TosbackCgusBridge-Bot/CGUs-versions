@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 10%  2% 
+What is PeekScore? Public Records &. Background Checks 8%  1% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 10%  2% 
     
 *   Show Less ...
 
-10%  10%  Arrest Records &. Driving Infractions
+7%  7%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 10%  Twitter 2% 
+Facebook 7%  Twitter 1% 
 
 *   Cristiano Ronaldo - Cristiano
     
@@ -199,7 +199,7 @@ Facebook 10%  Twitter 2% 
     
 *   Show Less ...
 
-Pinterest 10%  Wikipedia 2% 
+Pinterest 7%  Wikipedia 1% 
 
 *   Medana
     
@@ -218,7 +218,7 @@ Pinterest 10%  Wikipedia 2% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Instagram 2% 
+Instagram 1% 
 
 *   Karen McDowall - privacy\_\_\_policy
     
@@ -244,7 +244,7 @@ Instagram 2% 
     
 *   Show Less ...
 
-Google+ 2% 
+Google+ 1% 
 
 *   Free Privacy Policy - Google+
     
@@ -278,7 +278,7 @@ Google+ 2% 
     
 *   Show Less ...
 
-Linkedin 2% 
+Linkedin 1% 
 
 *   Privacy Policy | LinkedIn
     
@@ -324,7 +324,7 @@ Linkedin 2% 
     
 *   Show Less ...
 
-Foursquare 2% 
+Foursquare 1% 
 
 *   privacy policy
     
@@ -358,7 +358,7 @@ Foursquare 2% 
     
 *   Show Less ...
 
-Music 2% 
+Music 1% 
 
 *   Pandora
     
@@ -404,7 +404,7 @@ Music 2% 
     
 *   Show Less ...
 
-Photo Albums 2% 
+Photo Albums 1% 
 
 *   Flickr
     
@@ -415,7 +415,7 @@ Photo Albums 2% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 2% 
+Myspace 1% 
 
 *   Privacy Policy - 49086242
     
@@ -439,7 +439,53 @@ Myspace 2% 
     
 *   Show Less ...
 
-Documents 10%  Web Search 2% 
+Documents 1% 
+
+*   Generic Privacy Policy template - TermsFeed
+    
+    Generic Privacy Policy template. Privacy Policy. Last updated: ​(add date). My Company (change this)​("us", "we", or "our") operates ​http://www.mysite.com ...
+    
+*   PRIVACY POLICY This Privacy Policy applies to Web.com Group ...
+    
+    WEB.COM ASSUMES NO RESPONSIBILITY OR LIABILITY WITH REGARD TO ANY THEFT, LOSS, ALTERATION OR MISUSE OF PERSONAL OR OTHER INFORMATION LAWFULLY PROVIDED BY WEB.COM TO THIRD PARTIES, OR WITH REGARD TO THE FAILURE OF ANY THIRD PARTY TO ABIDE BY THIS PRIVACY POLICY OR SUCH THIRD PARTY'S PRIVACY POLICY OR ANY AGREEMENT ...
+    
+*   Privacy Policy | PenFed Credit Union
+    
+    PenFed's privacy policy outlines how your personal information is collected, shared, and protected. You can also find out whether you can limit what is shared .
+    
+*   PRIVACY - Crashlytics
+    
+    Jan 27, 2017 ... When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. This includes any information you choose to provide that is deemed sensitive under applicable law.
+    
+*   Show More ...
+
+*   Privacy Policy - Exelon Corporation
+    
+    Aug 18, 2017 ... From time to time, we may change this Privacy Policy and will make reasonable efforts ... Please regularly check this Privacy Policy for any such.
+    
+*   Privacy Policy - Fyber
+    
+    We at Fyber care about our users' and partners' privacy and are committed to disclose our data practices. This policy (“Privacy Policy”) explains how Fyber ...
+    
+*   Privacy Policy - Performance Horizon
+    
+    PRIVACY POLICY. 1. Introduction and General Terms. Performance Horizon Group Limited (“we” or “us”) is committed to protecting your personal information  ...
+    
+*   privacy notice - Signator Investors
+    
+    Questions? If you have questions or would like additional details regarding our privacy policy, please call us at 1-800-611-7989 or send a written request to:.
+    
+*   Privacy Policy - Cambridge Investment Research
+    
+    Privacy Policy 03/13/14. Page 1 of 2. Privacy Policy. Rev. 05/11. FACTS. WHAT DOES CAMBRIDGE DO WITH YOUR PERSONAL INFORMATION? Why?
+    
+*   Privacy Policy | Guardian
+    
+    Our Customer Privacy Policy describes our privacy commitment with respect to information we collect and disclose as a part of the customer relationship. Please  ...
+    
+*   Show Less ...
+
+Web Search 1% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -485,7 +531,7 @@ Documents 10%  Web Search 2% 
     
 *   Show Less ...
 
-Images 2% 
+Images 1% 
 
 20
 
