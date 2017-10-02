@@ -282,8 +282,8 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove58Disapprove +21
+    *   Approve38
+    *   Disapprove57Disapprove +19
 *   President Trump Job ApprovalCNN
     *   Approve37
     *   Disapprove56Disapprove +19
@@ -296,11 +296,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
-*   Maher On Free Speech: Doesn't Take Courage To Be Punch Nazis, No One Being Thrown In Ovens
+*   Schumer: GOP Using "Fake Numbers" For Tax Plan, Completely Focused On Wealthy And Powerful
+*   Chris Wallace vs. Mick Mulvaney On Tax Cuts: "There Is No Evidence They Pay For Themselves"
+*   Sanders: "We Have A Right To Be Suspect" Race Is Part Of Trump's Treatment Of Puerto Rico
+*   Maher On Free Speech: Doesn't Take Courage To Punch Nazis, No One Being Thrown In Ovens
 *   David Brooks: If You Want To Hold Off Steve Bannon You Actually Have To Have An Argument
-*   Bret Stephens: Trump Election Should Be 'Come To Jesus Moment' For The Media, "What Have We Done?"
-*   Candace Owens (Red Pill Black): How I Discovered The World Of Gaslighting "Journalist-Hitmen"
-*   Jeffrey Sachs: Trump Tax Plan Is A "Sham" Designed To Let Him "Pass Along His Wealth To His Children"
 
 *   Politics
 *   Policy
