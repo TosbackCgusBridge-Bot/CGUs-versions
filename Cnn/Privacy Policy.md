@@ -1,4 +1,4 @@
-By continuing to browse our site you agree to our use of cookies, revised Privacy Policy and Terms of Service. More information about cookiesI agreeNews AlertUK’s “biggest ever peacetime repatriation” underway after 110,000 stranded by Monarch Airlines bankruptcyHome+CNN Privacy PolicyRegionsU.S. PoliticsMoneyEntertainmentTechSportTravelStyleHealthVideoVRLive TV Search »International Edition+U.S.InternationalArabicEspañol
+By continuing to browse our site you agree to our use of cookies, revised Privacy Policy and Terms of Service. More information about cookiesI agreeBreaking NewsHome+CNN Privacy PolicyRegionsU.S. PoliticsMoneyEntertainmentTechSportTravelStyleHealthVideoVRLive TV Search »International Edition+U.S.InternationalArabicEspañol
 
 Set edition preference:
 
@@ -150,7 +150,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 
 FacebookTwitterShare
 
-London, United Kingdom15°
+London, United Kingdom11°
 
 1.  Home
 
