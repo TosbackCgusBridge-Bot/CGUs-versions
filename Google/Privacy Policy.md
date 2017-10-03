@@ -4,7 +4,7 @@ Wanneer u Google-services gebruikt, vertrouwt u ons met uw gegevens. Dit Privacy
 
 Privacybeleid Voorbeelden verbergen Voorbeelden weergeven Voorbeelden verbergen
 
-Laatst aangepast: 17 april 2017 (gearchiveerde versies weergeven) (De voorbeelden met hyperlinks zijn beschikbaar aan het einde van dit document.)
+Laatst aangepast: 2 oktober 2017 (gearchiveerde versies weergeven) (De voorbeelden met hyperlinks zijn beschikbaar aan het einde van dit document.)
 
 Pdf-versie downloaden
 
@@ -155,7 +155,7 @@ We werken er hard aan Google en onze gebruikers te beschermen tegen ongeautorise
 
 Bovenkant pagina Wanneer dit Privacybeleid van toepassing is
 
-Ons Privacybeleid is van toepassing op alle services die worden aangeboden door Google Inc. en zijn partners, waaronder YouTube, services die Google levert op Android-apparaten en services die worden aangeboden op andere sites (zoals onze advertentieservices), maar niet op services die een afzonderlijk privacybeleid hebben waarin dit Privacybeleid niet is opgenomen.
+Ons Privacybeleid is van toepassing op alle services die worden aangeboden door Google LLC en zijn partners, waaronder YouTube, services die Google levert op Android-apparaten en services die worden aangeboden op andere sites (zoals onze advertentieservices), maar niet op services die een afzonderlijk privacybeleid hebben waarin dit Privacybeleid niet is opgenomen.
 
 Ons Privacybeleid is niet van toepassing op services die worden geleverd door andere bedrijven of individuen, waaronder producten of sites die aan u kunnen worden weergegeven in zoekresultaten, sites die Google-services bevatten of andere sites waarnaar een link is opgenomen in onze services. Ons Privacybeleid dekt niet het gegevensbeleid van andere bedrijven en organisaties die adverteren in onze services en die cookies, pixeltags en andere technologieën kunnen gebruiken om relevante advertenties weer te geven en te leveren.
 
@@ -177,6 +177,8 @@ In de volgende kennisgevingen worden specifieke privacybeleidsregels uitgelegd m
 *   Fiber
 *   Project Fi
 *   G Suite for Education
+*   YouTube Kids
+*   Google-accounts die worden beheerd met Family Link
 
 U kunt naar de Privacyhandleiding voor Google-producten gaan voor meer informatie over sommige van onze populairste services.
 
