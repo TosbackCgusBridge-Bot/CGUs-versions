@@ -1,5 +1,4 @@
-*   Big Play HighlightJ.Coleman 28-yard INT return for TDWatch NowIND?2SEA102nd ? 07:23RZ
-*   WAS2-1KC3-0Mon 8:30 PM ET
+*   Big Play HighlightT.Pryor 44-yard TD pass from K.CousinsWatch NowWAS10KC?02nd ? 03:50
 *   CHI14GB35Final
 *   NO20MIA0Final
 *   BUF23ATL17Final
@@ -14,6 +13,7 @@
 *   PHI26LAC24Final
 *   NYG23TB25Final
 *   OAK10DEN16Final
+*   IND18SEA46Final
 
 *   News
 *   Scores
