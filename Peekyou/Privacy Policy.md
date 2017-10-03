@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 8%  1% 
+What is PeekScore? Public Records &. Background Checks 16%  2% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 8%  1% 
     
 *   Show Less ...
 
-7%  7%  Arrest Records &. Driving Infractions
+16%  16%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 7%  Twitter 1% 
+Facebook 16%  Twitter 2% 
 
 *   Cristiano Ronaldo - Cristiano
     
@@ -199,7 +199,7 @@ Facebook 7%  Twitter 1% 
     
 *   Show Less ...
 
-Pinterest 7%  Wikipedia 1% 
+Pinterest 16%  Wikipedia 2% 
 
 *   Medana
     
@@ -218,7 +218,7 @@ Pinterest 7%  Wikipedia 1% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Instagram 1% 
+Instagram 2% 
 
 *   Karen McDowall - privacy\_\_\_policy
     
@@ -244,41 +244,7 @@ Instagram 1% 
     
 *   Show Less ...
 
-Google+ 1% 
-
-*   Free Privacy Policy - Google+
-    
-    35 followers. Post has attachment. Free Privacy Policy. RT @seanburkeh: 11 Common Mistakes You're Making With Influencer Marketing via @Entrepreneur @johnrampton. 11 Common Mistakes You're Making With Influencer Marketing.
-    
-*   Privacy Policy - Google+ - Google Plus
-    
-    Privacy Policy: Basically, all the features like massages, party and friends froze in place at roughly at 4 o' clock. At the time I didn't realise that these features ...
-    
-*   privacy policy - Google+ - Google Plus
-    
-    privacy policy - Google+. ... privacy policy's posts. Looks like you've reached the end. Looks like you've reached the end. Unable to load more. Retry. Wait while ...
-    
-*   Free Privacy Policy - Google+ - Google Plus
-    
-    Jul 18, 2017 ... The Best 21 Web Tools &. Services in 2017 | BloggingPro﻿. The Best 21 Web Tools &. Services in 2017 | BloggingPro. The Best 21 Web Tools ...
-    
-*   Show More ...
-
-*   OpenTable UK - Google+
-    
-    ©2017 Google • Privacy Policy • Terms of Service • Maps Terms. Region. Search. Sign in. About... Sign in. Profile cover photo. Profile photo. OpenTable UK.
-    
-*   Médecins Sans Frontières/Doctors Without Borders (MSF) - Google+
-    
-    ©2017 Google • Privacy Policy • Terms of Service • Maps Terms. Region. Search. Sign in. About... Sign in. Profile cover photo. Profile photo. Médecins Sans ...
-    
-*   Expedia - Google+
-    
-    ... to see available shortcut keys.. Discover. Join Google+. Report an issue. Help. ©2017 Google • Privacy Policy • Terms of Service • Maps Terms. Region.
-    
-*   Show Less ...
-
-Linkedin 1% 
+Google+ 16%  Linkedin 2% 
 
 *   Privacy Policy | LinkedIn
     
@@ -324,7 +290,7 @@ Linkedin 1% 
     
 *   Show Less ...
 
-Foursquare 1% 
+Foursquare 2% 
 
 *   privacy policy
     
@@ -358,7 +324,7 @@ Foursquare 1% 
     
 *   Show Less ...
 
-Music 1% 
+Music 2% 
 
 *   Pandora
     
@@ -404,7 +370,7 @@ Music 1% 
     
 *   Show Less ...
 
-Photo Albums 1% 
+Photo Albums 2% 
 
 *   Flickr
     
@@ -415,7 +381,7 @@ Photo Albums 1% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 1% 
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -439,7 +405,7 @@ Myspace 1% 
     
 *   Show Less ...
 
-Documents 1% 
+Documents 2% 
 
 *   Generic Privacy Policy template - TermsFeed
     
@@ -485,7 +451,7 @@ Documents 1% 
     
 *   Show Less ...
 
-Web Search 1% 
+Web Search 2% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -531,7 +497,7 @@ Web Search 1% 
     
 *   Show Less ...
 
-Images 1% 
+Images 2% 
 
 20
 
