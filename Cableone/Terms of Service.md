@@ -115,7 +115,7 @@ Users may also monitor their bandwidth usage in the MyBandwidth section of http:
 
 Excessive use means bandwidth or data usage that is significantly higher than typical usage for which our network is designed. Excessive Users consume so much data that their usage could negatively impact the Service provided to other customers. In order to ensure an optimized Internet experience for all customers, data plans have been assigned to all Internet services.
 
-Plan name Data limit Lite Plan 50GB Data Plan 1.5,Mbps, 5Mbps, 8Mbps, 10Mbps,12Mbps 300GB Data Plan Starter Plan 300GB Data Plan Family Plan 500GB Data Plan Streamer &. Gamer Plan 700GB Data Plan Roomate Plan 900GB Data Plan Power Home Plan 1100GB Data Plan\* GigaONE ® 1100GB Data Plan\*
+Plan name Data limit Lite Plan 50GB Data Plan 1.5,Mbps, 5Mbps, 8Mbps, 10Mbps,12Mbps 300GB Data Plan Starter Plan 300GB Data Plan Family Plan 600GB Data Plan Streamer &. Gamer Plan 900GB Data Plan Roomate Plan 1200GB Data Plan Power Home Plan 1500GB Data Plan\* GigaONE ® 1500GB Data Plan\*
 
 \* Names, speeds, and data plans are subject to change
 
