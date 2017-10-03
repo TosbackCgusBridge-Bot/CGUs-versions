@@ -4,7 +4,7 @@ Lorsque vous utilisez nos services, vous nous faites confiance pour le traitemen
 
 Règles de confidentialité Masquer les exemples Afficher les exemples Masquer les exemples
 
-Date de la dernière modification : 17 avril 2017 (voir les versions archivées) (Les exemples en liens hypertexte sont disponibles au bas de ce document.)
+Date de la dernière modification : 2 octobre 2017 (voir les versions archivées) (Les exemples en liens hypertexte sont disponibles au bas de ce document.)
 
 Télécharger la version PDF
 
@@ -155,7 +155,7 @@ Nous mettons en œuvre toutes les mesures de sécurité nécessaires pour proté
 
 Haut de la page Champ d'application des présentes Règles de confidentialité
 
-Les présentes Règles de confidentialité s'appliquent à tous les services proposés par Google Inc. et par ses filiales, y compris à YouTube, aux services fournis par Google sur les appareils Android et aux services proposés sur d'autres sites (nos services publicitaires, par exemple), mais excluent les services régis par d'autres règles de confidentialité n'incorporant pas les présentes.
+Les présentes Règles de confidentialité s'appliquent à tous les services proposés par Google LLC et par ses filiales, y compris à YouTube, aux services fournis par Google sur les appareils Android et aux services proposés sur d'autres sites (nos services publicitaires, par exemple), mais excluent les services régis par d'autres règles de confidentialité n'incorporant pas les présentes.
 
 Les présentes Règles de confidentialité ne s’appliquent pas aux services proposés par d’autres sociétés ou personnes, notamment aux produits ou aux sites qui peuvent vous être proposés dans les résultats de recherche, aux sites qui peuvent incorporer des services Google ou aux autres sites accessibles à partir de nos services. Les présentes Règles de confidentialité ne couvrent pas les pratiques en matière de protection des données d’autres sociétés ou organisations qui font la publicité de nos services et qui peuvent utiliser des cookies, des balises pixel ou d’autres technologies pour afficher et proposer des annonces pertinentes.
 
@@ -177,6 +177,8 @@ Les documents suivants exposent des pratiques spécifiques en matière de confid
 *   Fiber
 *   Project Fi
 *   G Suite for Education
+*   YouTube Kids
+*   Comptes Google gérés avec Family Link
 
 Pour obtenir plus d'informations sur certains de nos services les plus populaires, vous pouvez consulter le guide de confidentialité des produits Google.
 
