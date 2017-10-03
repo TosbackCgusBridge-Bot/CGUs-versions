@@ -23,6 +23,7 @@ Sign In or Sign Up
     *   Software &. Services
     *   Resource Center
 *   Software &. Services
+    *   Talent Discovery
     *   Talent Network
     *   Applicant Tracking
     *   Background Checks / Verifications
