@@ -36,11 +36,7 @@
 *   Video
 *   Writers
     *   Staff Writers
-    *   Alexis Simendinger
-    *   Rebecca Berg
     *   James Arkin
-    *   David Byler
-    *   Emily Goodin
     *   Tom Bevan
     *   Carl M. Cannon
     *   Sean Trende
@@ -114,53 +110,53 @@
     *   About
     *   Media Kit
 
-*   _Larry Kudlow_: Trump's Incentive-Packed Tax Plan
+*   _LV Review-Journal_: 'Horror Show': At Least 59 Dead, 515 Wounded on Vegas Strip
     
-*   _Michelle Malkin_: How the NFL Feeds at the Taxpayer Trough
+*   _Bernard Kerik_: The Worst Mass Shooting Massacre in Our History
     
-*   _Steve Kornacki_: The Next Republican Uprising Is Underway
+*   _Adam Gopnik_: There Can Be No Truce With the Second Amendment
     
-*   _Charles Gasparino_: Trump Tax Plan Sounds Great--But Devil Is in the Details
+*   _Graeme Wood_: Why Did the Islamic State Claim the Las Vegas Shooting?
     
-*   _Julian Zelizer_: How America's Vision of Progressive Tax Reform Died
+*   _Hess &. Addison_: Betsy DeVos vs. the Mindless Mob at Harvard
     
-*   _John Davidson_: Delusional Dems and the Perils of Identity Politics
+*   _Julian Zelizer_: Trump's Tweets: A Presidential Wrecking Ball
     
-*   _Paul Krugman_: Trump's Deadly Narcissism
+*   _Byron York_: As Fight Enters 2nd Month, FBI Still Withholding Dossier Docs
     
-*   _Victor Davis Hanson_: The Need for Missile Defense
+*   _Janet Malcolm_: Rachel Maddow: Trump's TV Nemesis
     
-*   _Moniz &. Nunn_: The Road to Diplomacy on the Korean Peninsula
+*   _Kurt Schlichter_: Our Broken Obama Military Can't Even Toss Out Traitors
     
-*   _Christopher Caldwell_: Merkel's Immigration Hangover: Germany Turns Right
+*   _Richard Primus_: The Supreme Court's Blockbuster Term
     
-*   _Roger Cohen_: Return of the German Volk
+*   _Ari Schulman_: Can Neuroscientists Measure Free Will?
     
-*   _Ashe Schow_: Inside the Legal Labyrinth of a Campus Rape Case
+*   _Peter Baker_: Trump Takes On All Comers, Believing Himself the Victor
     
-*   _Felix Gillette_: Trump vs. Pro Football Is a Ratings Game the NFL Can't Win
+*   _Salena Zito_: The Republican Takeover in New England
     
-*   _Fred Barnes_: Make America Gipper Again
+*   _Doyle McManus_: Promise the Moon, Deliver Tax Cuts for the Wealthy
     
-*   _Bledsoe &. Marshall_: Dems Need to Put Forward a Tax Plan Too
+*   _Jeff Spross_: 4 Ideas in Republican Tax Plan That Dems Should Support
     
-*   _Sally Pipes_: Sanders' Single-Payer Fairy Tale
+*   _Jeff Sessions_: When Colleges Became Echo Chambers of Political Correctness
     
-*   _Sarah Jaffe_: Socialized Medicine Has Won the Health-Care Debate
+*   _Matthew Yglesias_: Puerto Rico Is All Our Worst Fears About Trump Coming True
     
-*   _Kimberly Strassel_: The Never-Trump Triumvirate
+*   _Glenn Reynolds_: Puerto Rico Has Problems, But Trump Isn't One of Them
     
-*   _Benjamin Wallace-Wells_: Roy Moore and the Republican Reckoning
+*   _Bernard Hudson_: Counterterrorism in a Time of Great Power Rivalry
     
-*   _George Neumayr_: The Establishment GOP's Meaningless Majority
+*   _Robin Wright_: Kurds Voted. So Is the Middle East Breaking Up?
     
-*   _John Whitesides_: Beyond Daily Drama, Trump Begins to Alter American Life
+*   _Daniel Davis_: Is McMaster's Worldview Compatible With Trump's?
     
-*   _Wesley Pruden_: Puerto Rico: Humanitarian Aid vs Political Posturing
+*   _Derek Hunter_: The Slow Death of the NFL?
     
-*   _Alexis Madrigal_: The False Dream of a Neutral Facebook
+*   _Charles Blow_: Divert, Divide, Destroy
     
-*   _Peter Hasson_: The Dirty Little Russian Secret About Black Lives Matter
+*   _Hannah Scherlacher_: Why I'm Standing Up to Southern Poverty Law Center
     
 
 *   Previous
@@ -264,7 +260,7 @@ RecommendedPolitics
 
 *   Trump Aims to Pressure Democrats on Taxes
 *   Vexing Question for Republicans: Whose Party Is This?
-*   Trump: NFL Owners "Are Afraid of Their Players"
+*   Pelosi: Dems Didn't Win the Elections, But We've Won Every Fight
 *   Groundhog Day: Repeal Fails Again. Republicans Vow to Keep at It
 *   Moore Defeats Strange in Alabama Senate Runoff
 *   Presidential Job Approval
@@ -282,25 +278,25 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove57Disapprove +19
+    *   Approve37
+    *   Disapprove57Disapprove +20
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve42
+    *   Disapprove57Disapprove +15
+*   Direction of CountryRasmussen Reports
+    *   Right Direction29
+    *   Wrong Track65Wrong Track +36
 *   President Trump Job ApprovalCNN
     *   Approve37
     *   Disapprove56Disapprove +19
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve45
-    *   Disapprove54Disapprove +9
-*   Alabama Senate Special Election - Moore vs. JonesOpinion Savvy
-    *   Moore50
-    *   Jones45Moore +5
 
 More Latest Polls In The News
 
-*   Schumer: GOP Using "Fake Numbers" For Tax Plan, Completely Focused On Wealthy And Powerful
+*   President Trump on Las Vegas Shooting: "An Act Of Pure Evil". Announces Visit On Wednesday
 *   Chris Wallace vs. Mick Mulvaney On Tax Cuts: "There Is No Evidence They Pay For Themselves"
 *   Sanders: "We Have A Right To Be Suspect" Race Is Part Of Trump's Treatment Of Puerto Rico
+*   Schumer: GOP Using "Fake Numbers" For Tax Plan, Completely Focused On Wealthy And Powerful
 *   Maher On Free Speech: Doesn't Take Courage To Punch Nazis, No One Being Thrown In Ovens
-*   David Brooks: If You Want To Hold Off Steve Bannon You Actually Have To Have An Argument
 
 *   Politics
 *   Policy
