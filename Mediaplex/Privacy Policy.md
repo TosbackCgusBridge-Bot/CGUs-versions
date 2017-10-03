@@ -40,23 +40,29 @@ Job Title\*
 
 Company\*
 
-Email Address\*
+Email Address \*
 
 Business Phone\*
 
-State/Province\* -- Please Select\* --Outside North America AlaskaAlabamaArkansasArizonaCaliforniaColoradoConnecticutD.C.DelawareFloridaGeorgiaHawaiiIowaIdahoIllinoisIndianaKansasKentuckyLouisianaMassachusettsMarylandMaineMichiganMinnesotaMissouriMississippiMontanaNorth CarolinaNorth DakotaNebraskaNew HampshireNew JerseyNew MexicoNevadaNew YorkOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVirginiaVermontWashingtonWisconsinWest VirginiaWyomingAlbertaManitobaBritish ColumbiaNew BrunswickNewfoundland and LabradorNova ScotiaNorthwest TerritoriesNunavutOntarioPrince Edward IslandQuebecSaskatchewanYukon Territory
+State/Province\* -- Please Select State-- Outside North America Alaska Alabama Arkansas Arizona California Colorado Connecticut D.C. Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maryland Maine Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Alberta Manitoba British Columbia New Brunswick Newfoundland and Labrador Nova Scotia Northwest Territories Nunavut Ontario Prince Edward Island Quebec Saskatchewan Yukon Territory
 
-Area of Interest\* -- Please Select\* --AdservingAffiliate MarketingCRM/PersonalizationCross Device AdvertisingDisplay AdvertisingMedia Publisher or Service ProviderMobile AdvertisingProgrammatic AdvertisingRich MediaTag ManagementVideo AdvertisingPress InquiryClient Support InquiryOther
+Business Type \* -- Please Select Business -- Media Publisher Agency Brand Marketer Journalist/Press Other
+
+Industry -- Please Select Industry-- Automotive CPG Financial Services Health Media &. Entertainment Non-Profit QSR/Dining Retail Technology Telecommunications Travel &. Tourism Other
+
+Area of Interest \* -- Please Select Area of Interest-- Digital Advertising Affiliate Marketing
+
+How Many Pennies Equal a Dollar?
 
 Questions/Comments
 
 Send me emails containing marketing messages from Conversant and our affiliates.
 
-PROFIT FROM  
-THE MOST  
-POWERFUL TOOLS  
-IN MEDIA AND  
-MARKETING TECH What We Do Watch Video
+CONNECTING  
+BRANDS TO  
+MILLIONS OF REAL  
+PEOPLE BETTER  
+THAN ANYONE What We Do Watch Video
 
 *   160+ MILLION Real People You Can  
     Message Right Now
