@@ -4,7 +4,7 @@ Wenn Sie Google-Dienste verwenden, vertrauen Sie uns Ihre Daten an. In dieser Da
 
 Datenschutzerklärung Beispiele ausblenden Beispiele anzeigen Beispiele ausblenden
 
-Zuletzt geändert am: 17. April 2017 (archivierte Versionen anzeigen) Die verlinkten Beispiele sind unten auf dieser Seite zu finden.
+Zuletzt geändert am: 2. Oktober 2017 (archivierte Versionen anzeigen) Die verlinkten Beispiele sind unten auf dieser Seite zu finden.
 
 PDF-Version herunterladen
 
@@ -155,7 +155,7 @@ Wir bemühen uns intensiv darum, Google und unsere Nutzer vor unbefugtem Zugriff
 
 Zurück nach oben Anwendungsbereich der Datenschutzerklärung
 
-Unsere Datenschutzerklärung gilt für alle Dienste, die von Google Inc. und den verbundenen Unternehmen angeboten werden, einschließlich YouTube, der Dienste, die Google auf Android-Geräten bereitgestellt, und der Dienste, die auf anderen Webseiten angeboten werden (beispielsweise unsere Werbedienste). Diese Datenschutzerklärung gilt nicht für Dienste, für die gesonderte Datenschutzerklärungen gelten, die die vorliegende Datenschutzerklärung nicht mit umfassen.
+Unsere Datenschutzerklärung gilt für alle Dienste, die von Google LLC und den verbundenen Unternehmen angeboten werden, einschließlich YouTube, der Dienste, die Google auf Android-Geräten bereitgestellt, und der Dienste, die auf anderen Webseiten angeboten werden (beispielsweise unsere Werbedienste). Diese Datenschutzerklärung gilt nicht für Dienste, für die gesonderte Datenschutzerklärungen gelten, die die vorliegende Datenschutzerklärung nicht mit umfassen.
 
 Unsere Datenschutzerklärung gilt nicht für Dienste, die von anderen Unternehmen oder Personen angeboten werden, einschließlich Produkte oder Webseiten, die Ihnen in Suchergebnissen angezeigt werden, Webseiten, die möglicherweise Google-Dienste beinhalten, oder andere mit unseren Diensten verlinkte Webseiten. Unsere Datenschutzerklärung umfasst nicht den Umgang mit Informationen durch andere Unternehmen oder Organisationen, die unsere Dienste bewerben und gegebenenfalls Cookies, Pixel-Tags und andere Technologien verwenden, um relevante Anzeigen zur Verfügung zu stellen und anzubieten.
 
@@ -177,6 +177,8 @@ Die folgenden Hinweise erläutern gesonderte Datenschutzpraktiken im Zusammenhan
 *   Fiber
 *   Projekt Fi
 *   G Suite for Education
+*   YouTube Kids
+*   Google-Konten, die mit Family Link verwaltet werden
 
 Weitere Informationen zu einigen der am häufigsten genutzten Google-Dienste erhalten Sie im Leitfaden zum Datenschutz in Google-Produkten.
 
