@@ -4,7 +4,7 @@ Quando o usuário usa nossos serviços, confia a nós informações dele. Esta P
 
 Política de Privacidade Ocultar exemplos Mostrar exemplos Ocultar exemplos
 
-Última modificação: 17 de abril de 2017 (visualizar versões arquivadas) Os exemplos com hiperlinks estão disponíveis no final deste documento.
+Última modificação: 2 de outubro de 2017 (visualizar versões arquivadas) Os exemplos com hiperlinks estão disponíveis no final deste documento.
 
 Fazer o download da versão em PDF
 
@@ -155,7 +155,7 @@ Trabalhamos com afinco para proteger a Google e nossos usuários de acesso não 
 
 Voltar ao início Quando esta Política de Privacidade se aplica
 
-Nossa Política de Privacidade se aplica a todos os serviços oferecidos pela Google Inc. e suas afiliadas, inclusive YouTube, serviços que a Google oferece em dispositivos Android e serviços oferecidos em outros sites (por exemplo, nossos serviços de anúncio), mas exclui serviços que tenham políticas de privacidade separadas que não incorporam esta Política de Privacidade.
+Nossa Política de Privacidade se aplica a todos os serviços oferecidos pela Google LLC e suas afiliadas, inclusive YouTube, serviços que a Google oferece em dispositivos Android e serviços oferecidos em outros sites (por exemplo, nossos serviços de anúncio), mas exclui serviços que tenham políticas de privacidade separadas que não incorporam esta Política de Privacidade.
 
 Nossa Política de Privacidade não se aplica a serviços oferecidos por outras empresas ou indivíduos, inclusive produtos ou sites que podem ser exibidos ao usuário nos resultados de pesquisa, sites que podem incluir serviços da Google, ou outros sites com links de nossos serviços. Nossa Política de Privacidade não abrange as práticas de informação de outras empresas e organizações que anunciam nossos serviços e que podem usar cookies, pixels tags e outras tecnologias para oferecer anúncios relevantes.
 
@@ -177,6 +177,8 @@ Os seguintes avisos explicam as práticas de privacidade específicas em relaç�
 *   Fiber
 *   Project Fi
 *   G Suite for Education
+*   YouTube Kids
+*   Contas do Google gerenciadas com o Family Link
 
 Para mais informações sobre alguns dos nossos serviços mais populares, visite o Guia de Privacidade do Produto Google.
 
