@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Snap install-time setup: the install hook ›
+*   LXD Weekly Status #17 ›
+*   First Ubuntu Core Workshop in Shenzhen ›
 *   Ubuntu 16.04 LTS selected for Samsung ARTIK Gateway modules ›
 *   Security Team Weekly Summary: September 27, 2017 ›
-*   Patch CDK #2: Multi arch support — s390x ›
-*   Ubuntu Server Development Summary – 26 Sep 2017 ›
-*   Patch CDK #1: Build &. Release ›
