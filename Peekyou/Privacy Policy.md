@@ -64,9 +64,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, Utah. On the internet, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, UT. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 16%  2% 
+What is PeekScore? Public Records &. Background Checks 8%  2% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 16%  2% 
     
 *   Show Less ...
 
-16%  16%  Arrest Records &. Driving Infractions
+8%  8%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 16%  Twitter 2% 
+Facebook 8%  Twitter 2% 
 
 *   Cristiano Ronaldo - Cristiano
     
@@ -199,7 +199,7 @@ Facebook 16%  Twitter 2% 
     
 *   Show Less ...
 
-Pinterest 16%  Wikipedia 2% 
+Pinterest 8%  Wikipedia 2% 
 
 *   Medana
     
@@ -244,7 +244,26 @@ Instagram 2% 
     
 *   Show Less ...
 
-Google+ 16%  Linkedin 2% 
+Google+ 2% 
+
+*   Free Privacy Policy - Google+
+    
+    Free Privacy Policy. Earn $1 For Everyone You Invite and Opts-In To This Pre-Launch Party! Russell Brunsen wants help launching his latest video and will pay you $1 for everyone you invite and opts-in to the Pre-Launch Party!
+    
+*   privacy policy - Google+ - Google Plus
+    
+    Profile photo. privacy policy. About. privacy policy's posts. Looks like you've reached the end. Looks like you've reached the end. Unable to load more. Retry.
+    
+*   Privacy Policy - Google+ - Google Plus
+    
+    Privacy Policy: Basically, all the features like massages, party and friends froze in place at roughly at 4 o' clock. At the time I didn't realise that these features ...
+    
+*   Verizon fios - Google+
+    
+    ©2017 Google • Privacy Policy • Terms of Service • Maps Terms. Region. Search. Sign in. About... Sign in. Profile cover photo. Profile photo. Verizon fios.
+    
+
+Linkedin 2% 
 
 *   Privacy Policy | LinkedIn
     
