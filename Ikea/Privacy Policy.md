@@ -1,4 +1,4 @@
-skip to main content We use cookies to make sure you get the best experience on our website. If you continue without changing your settings, you're agreeing to receive all cookies on the IKEA website.Privacy policy | Read more about cookies    Welcome! FAQ
+skip to main content We use cookies to make sure you get the best experience on our website. If you continue without changing your settings, you're agreeing to receive all cookies on the IKEA website.Privacy policy | Read more about cookies    Welcome! Find an IKEA Store
 
 *   Log In or Sign Up
 *   My shopping cart
