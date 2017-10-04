@@ -110,53 +110,53 @@
     *   About
     *   Media Kit
 
-*   _LV Review-Journal_: 'Horror Show': At Least 59 Dead, 515 Wounded on Vegas Strip
+*   _Noah Rothman_: Gun Violence and the Definition of Insanity
     
-*   _Bernard Kerik_: The Worst Mass Shooting Massacre in Our History
+*   _Richard Wolffe_: Mourn the Vegas Shooting, We're Told. But Don't Ask Why
     
-*   _Adam Gopnik_: There Can Be No Truce With the Second Amendment
+*   _David Shribman_: A Significant Moment in Trump's Presidential Passage
     
-*   _Graeme Wood_: Why Did the Islamic State Claim the Las Vegas Shooting?
+*   _Reed Galen_: We're Past Thoughts and Prayers
     
-*   _Hess &. Addison_: Betsy DeVos vs. the Mindless Mob at Harvard
+*   _Andrew Malcolm_: Two GOPs Confront Each Other -- and Tax Reform
     
-*   _Julian Zelizer_: Trump's Tweets: A Presidential Wrecking Ball
+*   _Francis Wilkinson_: Alabama Is a Race Worth Losing for Democrats
     
-*   _Byron York_: As Fight Enters 2nd Month, FBI Still Withholding Dossier Docs
+*   _George Will_: Will the Supreme Court Fall Into a Political Thicket?
     
-*   _Janet Malcolm_: Rachel Maddow: Trump's TV Nemesis
+*   _Sam Wang &. Brian Remlinger_: Slaying the Partisan Gerrymander
     
-*   _Kurt Schlichter_: Our Broken Obama Military Can't Even Toss Out Traitors
+*   _William McGurn_: The Morality of Charles Koch
     
-*   _Richard Primus_: The Supreme Court's Blockbuster Term
+*   _Max Read_: Does Even Mark Zuckerberg Know What Facebook Is?
     
-*   _Ari Schulman_: Can Neuroscientists Measure Free Will?
+*   _Carl Cannon_: Why October 3 Isn't Thanksgiving Day
     
-*   _Peter Baker_: Trump Takes On All Comers, Believing Himself the Victor
+*   _Peter Bergen_: America the Lethal
     
-*   _Salena Zito_: The Republican Takeover in New England
+*   _William Murchison_: President Trump Is Right
     
-*   _Doyle McManus_: Promise the Moon, Deliver Tax Cuts for the Wealthy
+*   _Jelani Cobb_: Another Worst Mass Shooting in the United States
     
-*   _Jeff Spross_: 4 Ideas in Republican Tax Plan That Dems Should Support
+*   _David Harsanyi_: Stop Politicizing Mass Shootings
     
-*   _Jeff Sessions_: When Colleges Became Echo Chambers of Political Correctness
+*   _Jimmy Kimmel_: Thoughts &. Prayers Are Not Enough Against the NRA
     
-*   _Matthew Yglesias_: Puerto Rico Is All Our Worst Fears About Trump Coming True
+*   _Rich Lowry_: The Passionate Non-Sequiturs of the Gun Debate
     
-*   _Glenn Reynolds_: Puerto Rico Has Problems, But Trump Isn't One of Them
+*   _Derek Thompson_: What a Real Middle-Class Tax Cut Would Look Like
     
-*   _Bernard Hudson_: Counterterrorism in a Time of Great Power Rivalry
+*   _Ed Rogers_: The Dems' Lazy, Dishonest Arguments Against Tax Reform
     
-*   _Robin Wright_: Kurds Voted. So Is the Middle East Breaking Up?
+*   _Donna Brazile_: To Rebuild, Trump Must Show Civility After the Storm
     
-*   _Daniel Davis_: Is McMaster's Worldview Compatible With Trump's?
+*   _Wesley Pruden_: Reducing Disaster in Puerto Rico to Politics
     
-*   _Derek Hunter_: The Slow Death of the NFL?
+*   _Cheryl Strayed_: Someday, a Woman Like Hillary Clinton Will Win
     
-*   _Charles Blow_: Divert, Divide, Destroy
+*   _Noemie Emery_: Hillary &. Michelle Throw Shade on the Ladies
     
-*   _Hannah Scherlacher_: Why I'm Standing Up to Southern Poverty Law Center
+*   _A.B. Stoddard_: The Duopoly Is Broken. Time to Create a New Center
     
 
 *   Previous
@@ -258,11 +258,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Aims to Pressure Democrats on Taxes
+*   59 Killed as Gunman Opens Fire at Las Vegas Concert
+*   Trump Calls Las Vegas Shooter "Sick" and "Demented Man"
+*   Kimmel Blasts NRA, Seeks Stricter Gun Control Laws to Stop Violence
+*   Dems in Iowa Wilderness Struggle for Power in Trump Era
 *   Vexing Question for Republicans: Whose Party Is This?
-*   Pelosi: Dems Didn't Win the Elections, But We've Won Every Fight
-*   Groundhog Day: Repeal Fails Again. Republicans Vow to Keep at It
-*   Moore Defeats Strange in Alabama Senate Runoff
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -277,26 +277,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   New Jersey Governor - Guadagno vs. MurphyMonmouth
+    *   Murphy51
+    *   Guadagno37Murphy +14
+*   Alabama Senate Special Election - Moore vs. JonesJMC Analytics
+    *   Moore48
+    *   Jones40Moore +8
 *   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove57Disapprove +20
+    *   Approve38
+    *   Disapprove57Disapprove +19
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve42
     *   Disapprove57Disapprove +15
-*   Direction of CountryRasmussen Reports
-    *   Right Direction29
-    *   Wrong Track65Wrong Track +36
-*   President Trump Job ApprovalCNN
-    *   Approve37
-    *   Disapprove56Disapprove +19
 
 More Latest Polls In The News
 
-*   President Trump on Las Vegas Shooting: "An Act Of Pure Evil". Announces Visit On Wednesday
-*   Chris Wallace vs. Mick Mulvaney On Tax Cuts: "There Is No Evidence They Pay For Themselves"
-*   Sanders: "We Have A Right To Be Suspect" Race Is Part Of Trump's Treatment Of Puerto Rico
-*   Schumer: GOP Using "Fake Numbers" For Tax Plan, Completely Focused On Wealthy And Powerful
-*   Maher On Free Speech: Doesn't Take Courage To Punch Nazis, No One Being Thrown In Ovens
+*   Michelle Obama: Having A Commander In Chief Who Respects The Office Now Means Something Different
+*   Trump: "I Hate To Tell You Puerto Rico But You've Thrown Our Budget A Little Out Of Whack"
+*   Hume: In Wake Of Vegas Attack, Trump Right Not To Go "To Battle Stations, As So Many Others Seemed To Do"
+*   Sen. Chris Murphy: "Convenient Tool" Of The Gun Lobby To Enforce "24-Hour Waiting Period" Before Politicizing Mass Murders
+*   Jimmy Kimmel Gets Emotional Over Vegas Shooting: NRA Has GOP's "Balls In A Money Clip"
 
 *   Politics
 *   Policy
