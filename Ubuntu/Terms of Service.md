@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Snap configuration: the configure hook ›
+*   Ubuntu Server Development Summary – 03 Oct 2017 ›
+*   Learning to speak Juju ›
 *   Snap install-time setup: the install hook ›
 *   LXD Weekly Status #17 ›
-*   First Ubuntu Core Workshop in Shenzhen ›
-*   Ubuntu 16.04 LTS selected for Samsung ARTIK Gateway modules ›
-*   Security Team Weekly Summary: September 27, 2017 ›
