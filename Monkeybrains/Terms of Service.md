@@ -1,22 +1,24 @@
 *   Sign Up
-*   Technical Support
-*   Billing/Payment
-*   Our Coverage Area
+*   Tech Support
+*   Make a Payment
+*   Customer Portal
 *   Residential Service
 *   Business Service
 *   Event Bandwidth
+*   Our Coverage Area
 *   How Our Service Works
 
 *   TECH SUPPORT
-*   BILLING/PAYMENT
-*   OUR STORY
+*   MAKE A PAYMENT
+*   CUSTOMER PORTAL
 *   SIGN UP
 
 Monkeybrains.net San Francisco-based ISP since 1998
 
 *   SIGN UP>
-*   GET SUPPORT>
+*   TECH SUPPORT>
 *   MAKE A PAYMENT>
+*   CUSTOMER PORTAL>
 *   OUR STORY>
 
 *   RESIDENTIAL
@@ -71,11 +73,12 @@ Read more >>. ^ Our Services
 
 *   Residential
 *   Business
-*   Event Bandwidth
+*   Event bandwidth
 *   Colocation
 
 About Us
 
+*   Our story
 *   Our coverage area
 *   How our service works
 *   Press / Testimonials
@@ -83,9 +86,10 @@ About Us
 
 Contact Us
 
-*   Sign Up
-*   Payment / Billing
-*   Technical Support
+*   Sign up
+*   Tech support
+*   Make a payment
+*   Customer portal
 
 Misc
 
