@@ -1,4 +1,3 @@
-*   Big Play HighlightT.Pryor 44-yard TD pass from K.CousinsWatch NowWAS10KC?02nd ? 03:50
 *   CHI14GB35Final
 *   NO20MIA0Final
 *   BUF23ATL17Final
@@ -14,6 +13,7 @@
 *   NYG23TB25Final
 *   OAK10DEN16Final
 *   IND18SEA46Final
+*   WAS20KC29Final
 
 *   News
 *   Scores
