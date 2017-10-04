@@ -151,8 +151,8 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Open submenu ( Tops ) Tops
 
 *   Open submenu ( Bottoms ) Bottoms
-
 *   Bras
+
 *   Undies
 *   Accessories
 
@@ -182,7 +182,6 @@ Close submenu ( Bottoms ) Bottoms
 *   Joggers + Sweats
 *   Bootcut
 *   Shorts
-*   Sleep Bottoms
 
 Close submenu ( Trending ) Trending
 
@@ -232,7 +231,7 @@ Close submenu ( Girls ) Girls
 *   Camis + Tanks
 *   Fashion Tops
 *   Hoodies + Jackets
-*   Shirts
+*   Shirts + Sweaters
 *   Dresses + Skirts
 *   Jeans
 *   Joggers + Sweats
@@ -400,9 +399,8 @@ Menu Find a Store Aeropostale
         *   Joggers + Sweats
         *   Bootcut
         *   Shorts
-        *   Sleep Bottoms
-    
     *   Bras
+    
     *   Undies
     *   Accessories
     
@@ -439,7 +437,7 @@ Menu Find a Store Aeropostale
         *   Camis + Tanks
         *   Fashion Tops
         *   Hoodies + Jackets
-        *   Shirts
+        *   Shirts + Sweaters
         *   Dresses + Skirts
         *   Jeans
         *   Joggers + Sweats
