@@ -259,10 +259,6 @@
             
             Get these deals before they're gone
             
-        *   Explore the Lenovo Campus
-            
-            Find the perfect PC to take back to school
-            
 *   Support
     *   Sales Enquiries
     *   Order Support
@@ -348,55 +344,7 @@ ThinkAgile VX Series
 
 This is the future-defined data center
 
-Star Wars Jedi Challenges: Begin Your Journey Recommended For You Best Seller ThinkPad X1 Carbon (5th gen)
-
-★★★★★ ★★★★★
-
-3.8
-
-(59)
-
-$1403.10
-
-Shop Now
-
-1718Viewing Best Seller Lenovo YOGA 910
-
-★★★★★ ★★★★★
-
-4.1
-
-(395)
-
-$1099.99
-
-Shop Now
-
-1120Viewing Best Seller Yoga 720 (15")
-
-★★★★★ ★★★★★
-
-4.1
-
-(69)
-
-$1049.99
-
-Shop Now
-
-786Viewing ThinkPad T470 Business Laptop
-
-★★★★★ ★★★★★
-
-3.3
-
-(12)
-
-$881.10
-
-Shop Now
-
-900Viewing
+Star Wars Jedi Challenges: Begin Your Journey
 
 LAPTOPS
 
