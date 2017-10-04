@@ -58,11 +58,11 @@ Questions/Comments
 
 Send me emails containing marketing messages from Conversant and our affiliates.
 
-CONNECTING  
-BRANDS TO  
-MILLIONS OF REAL  
-PEOPLE BETTER  
-THAN ANYONE What We Do Watch Video
+PROFIT FROM  
+THE MOST  
+POWERFUL TOOLS  
+IN MEDIA AND  
+MARKETING TECH What We Do Watch Video
 
 *   160+ MILLION Real People You Can  
     Message Right Now
