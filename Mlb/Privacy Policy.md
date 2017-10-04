@@ -154,7 +154,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Contact Us
 *   Auction
 *   Fantasy Fantasy Fantasy
-    *   Postseason Bracket Challenge
     *   Beat the Streak
     *   R.B.I. Baseball 17
     *   MLB.com Home Run Derby
@@ -166,7 +165,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   WGT Baseball: MLB
     *   Prospect Watch
     *   Fantasy 411 Blog
-    *   Follow @Fantasy411MLB.com Postseason Bracket Challenge Beat the Streak R.B.I. Baseball 17 Fantasy Player Preview 160x160 MLB.com Line Drive MLB.com Home Run Derby
+    *   Follow @Fantasy411Beat the Streak R.B.I. Baseball 17 MLB.com Line Drive Fantasy Player Preview 160x160 MLB.com Home Run Derby MLB.com Postseason Bracket Challenge
 *   Play Ball Play Ball Play Ball
     *   PlayBall.org
     *   Videos
