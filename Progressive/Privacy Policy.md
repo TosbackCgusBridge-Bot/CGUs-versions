@@ -147,8 +147,6 @@ Copyright 1995 - 2017. Progressive Casualty Insurance Company. All Rights Reserv
 
 Search
 
-Loading
-
 We offer insurance by phone, online and through independent agents. Prices vary based on how you buy.
 
 *   Insurance
@@ -242,11 +240,7 @@ Log In
 
 Welcome!
 
-User ID Password Show Save User ID
-
-Loading
-
- Need help logging in?
+User ID Password Show Save User ID  Need help logging in?
 
 New user? Register for an account
 
@@ -289,8 +283,4 @@ Bundle and save 5%† or more on auto!
 *   Travel
 *   Wedding &. Event
 
-Auto + HomeAuto + RentersAuto + CondoAutoAuto FinancingAuto RefinancingBoat/PWCBusinessClassic CarCommercialCondoElectronic DeviceFloodHealthHomeownersID TheftLifeMechanical RepairMexico AutoMobile HomeMotorcycle/ATVPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event
-
-Loading
-
- <iframe style="display:none;" src="https://ad.atdmt.com/m/a.html;m=11247200770992;noscript=1?conversionname=PROGCOM&amp;U4=f7f5c8772bb4430088d7af782ba58edd&amp;U16=https%3A%2F%2Fwww.progressive.com%2Fprivacy%2F&amp;U12=undefined&amp;U6=Desktop&amp. U3=&amp;U20=">. </iframe>.
+Auto + HomeAuto + RentersAuto + CondoAutoAuto FinancingAuto RefinancingBoat/PWCBusinessClassic CarCommercialCondoElectronic DeviceFloodHealthHomeownersID TheftLifeMechanical RepairMexico AutoMobile HomeMotorcycle/ATVPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event  <iframe style="display:none;" src="https://ad.atdmt.com/m/a.html;m=11247200770992;noscript=1?conversionname=PROGCOM&amp;U4=62cb48c26a8f4aaa97ebaf38204b14c9&amp;U16=https%3A%2F%2Fwww.progressive.com%2Fprivacy%2F&amp;U12=undefined&amp;U6=Desktop&amp. U3=&amp;U20=">. </iframe>.
