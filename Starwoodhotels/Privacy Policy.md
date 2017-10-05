@@ -69,7 +69,7 @@ Save for next visit Save for next visit Sign In Forgot password?
 
 Starwood Hotels &. Resorts Worldwide, LLC Online Privacy Statement
 
-**Updated May 31, 2017**
+**Updated October 5, 2017**
 
 **Our Mission**
 
@@ -291,7 +291,9 @@ by e-mail:
 starwood.preferred.guest@starwoodhotels.com
 
 by telephone:  
-1-888-625-4988 or 1-519-637-6500
+1-888-625-4988 (Toll free in the United States)  
+or  
+1-519-637-6500 (charges will be incurred)
 
 by writing to us at:  
 Starwood Preferred Guest Program  
