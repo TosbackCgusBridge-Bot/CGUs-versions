@@ -441,7 +441,7 @@ WebMD Policy Last updated on December 30, 2016 © 2016 WebMD, LLC. All rights re
 
 Some of these might surprise you.
 
-Doctors and insurers got together and hugged it out. Bright Health and Centura Health are gearing up to bring you quality doctors, a customized experience, and smart collaborative care. Ad By **Bright Health** AdChoices Depressed, Guilty Feelings After Eating?
+Finally, health insurance that’s better at better. Bright Health and Centura Health are gearing up to bring you quality doctors, a customized experience, and smart collaborative care. Ad By **Bright Health** AdChoices Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
