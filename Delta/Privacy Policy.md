@@ -172,13 +172,13 @@ How Do I Opt Out of Being Contacted by Delta for Promotional Purposes?
 You may request to be removed from Delta's informational and promotional email subscription lists or designate email preferences several ways:
 
 *   You can log in and visit our SkyMiles Partners and Promotional Partners on delta.com if you want to modify your subscription, email and contact preferences.
-*   You may contact us by using the Email Us page if you have questions about removing your name from our subscription lists.
+*   You may contact us by using the Email Usopens in a new window page if you have questions about removing your name from our subscription lists.
 *   You may call our Customer Care Offices at +1-404-773-0305 if you have any questions about changing your contact preference or require assistance in removing your name from our subscription lists.
 *   Assistance in changing contact preferences for those with disabilities is available at +1-404-209-3434.
 
 How Does Delta Comply with the Children's Online Privacy Protection Act (COPPA)?
 
-Delta does not knowingly collect personal identifiable information from children under the age of 13. If a child under 13 has provided us with personal information without parental or guardian consent, the parent or guardian may contact us by using the Email Us page, and we will remove the information and unsubscribe the child from any promotional contact opportunities.
+Delta does not knowingly collect personal identifiable information from children under the age of 13. If a child under 13 has provided us with personal information without parental or guardian consent, the parent or guardian may contact us by using the Email Usopens in a new window page, and we will remove the information and unsubscribe the child from any promotional contact opportunities.
 
 Links
 
