@@ -59,7 +59,7 @@
     40/39 est MPG3 Build Specials
 *   $34,030 as shown1 2018 RAV4 Hybrid $29,030 starting1  
     34/30 est MPG3 Build Specials
-*   $50,085 as shown1 2017 Highlander Hybrid $36,270 starting1  
+*   $47,880 as shown1 2017 Highlander Hybrid $36,270 starting1  
     30/28 est MPG5 Build Specials
 *   $27,100 as shown1 2017 Prius Prime $27,100 starting1  
     54/133 est MPG9/MPGe10 Build Specials
@@ -113,7 +113,7 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 13/18 est MPG5 Hybrids &. FCV $32,250 as shown1 2018 Camry Hybrid $27,800 starting1  
 51/53 est MPG3 $42,800 as shown1 2018 Avalon Hybrid $37,500 starting1  
 40/39 est MPG3 $34,030 as shown1 2018 RAV4 Hybrid $29,030 starting1  
-34/30 est MPG3 $50,085 as shown1 2017 Highlander Hybrid $36,270 starting1  
+34/30 est MPG3 $47,880 as shown1 2017 Highlander Hybrid $36,270 starting1  
 30/28 est MPG5 $27,100 as shown1 2017 Prius Prime $27,100 starting1  
 54/133 est MPG9/MPGe10 $32,115 as shown1 2017 Prius $23,475 starting1  
 54/50 est MPG7 $23,250 as shown1 2018 Prius _c_ $20,630 starting1  
