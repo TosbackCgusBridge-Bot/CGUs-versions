@@ -5,7 +5,7 @@ Sign In
 *   Blog
 *   Help
 
-Public Records Search First Name a-z, dash, period, spaces only Last Name a-z, dash, period, spaces only Select a State NationwideAlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming Search Privacy Policy
+Privacy Policy
 
 Welcome to PeopleSmart.com, a website designed to help you find information available in public records. This privacy policy is for visitors and registered users ("you") of PeopleSmart.com (the "website" or "service"), which is owned and operated by Inflection.com, Inc. (“Inflection”, "we" or "our"):
 
@@ -167,7 +167,7 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 Effective Date Of This Policy: August 25, 2017
 
-About Manage Your Listing Affiliate Program Help Center Privacy Education How We Think About Privacy Important Notices for Use Terms of Use Privacy Policy Opt-Out Policy Payment Policy Data Sources Education About Our Cookies FCRA Regulations Contact Us Sitemap Explore People Search Plans &. Pricing Sign In PeopleSmart PRO Directories Find People Court Records Criminal Records County Records Company About Blog Privacy Education Affiliates Support Help Sitemap Opt Out Follow PeopleSmart
+Manage Your Listing Help Center Privacy Education How We Think About Privacy Important Notices for Use Terms of Use Privacy Policy Opt-Out Policy Payment Policy Data Sources Education About Our Cookies FCRA Regulations Contact Us Sitemap Explore Find People Court Records Criminal Records County Records Privacy Education Members Help Sitemap Opt Out Sign In Company Home About
 
 PeopleSmart is designed to help you find and connect with others. Search by name, email, phone number, and address. PeopleSmart is not a consumer reporting agency as defined by the Fair Credit Reporting Act (FCRA). To learn more, please see our Terms of Use and Privacy Policy. Information offered by PeopleSmart is not to be used for assessing or evaluating a person's eligibility for employment, housing, insurance, credit, or for any other purpose covered under the FCRA. Visit GoodHire.com for all your employment screening needs.
 
