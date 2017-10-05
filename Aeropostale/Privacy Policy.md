@@ -474,11 +474,11 @@ Menu Find a Store Aeropostale
 
 0 Search Catalog Search Promotions Shop Girls Shop Guys shop girls shop guys
 
-*   Hoodies Starting at $10.00 Shop Girls Shop Guys
+*   Hoodies Starting at $11.80 Shop Girls Shop Guys
 *   Joggers + Sweats Starting at $10.00 Shop Girls Shop Guys
 *   Graphic Tees Starting at $8.00 Shop Girls Shop Guys
 *   Long Sleeves Starting at $9.00 Shop Girls Shop Guys
-*   Hoodies Starting at $10.00 Shop Girls Shop Guys
+*   Hoodies Starting at $11.80 Shop Girls Shop Guys
 *   Joggers + Sweats Starting at $10.00 Shop Girls Shop Guys
 *   Graphic Tees Starting at $8.00 Shop Girls Shop Guys
 *   Long Sleeves Starting at $9.00 Shop Girls Shop Guys
