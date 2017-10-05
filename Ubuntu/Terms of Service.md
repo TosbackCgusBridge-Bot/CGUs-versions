@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Security Team Update: October 5, 2017 ›
+*   MAAS 2.3.0 beta 1 released ›
+*   Kernel Team Summary – October 4, 2017 ›
+*   Heroku as a snap: talking security, Snapcraft &. daily updates ›
 *   Snap configuration: the configure hook ›
-*   Ubuntu Server Development Summary – 03 Oct 2017 ›
-*   Learning to speak Juju ›
-*   Snap install-time setup: the install hook ›
-*   LXD Weekly Status #17 ›
