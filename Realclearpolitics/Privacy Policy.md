@@ -110,53 +110,53 @@
     *   About
     *   Media Kit
 
-*   _Noah Rothman_: Gun Violence and the Definition of Insanity
+*   _Katy Steinmetz_: Why Words Fail to Describe the Las Vegas Shooting
     
-*   _Richard Wolffe_: Mourn the Vegas Shooting, We're Told. But Don't Ask Why
+*   _Joan Walsh_: U.S. Impulse to Equate Guns With Freedom Is Killing Us
     
-*   _David Shribman_: A Significant Moment in Trump's Presidential Passage
+*   _Michelle Malkin_: Jimmy Kimmel: The Tears of a Clown
     
-*   _Reed Galen_: We're Past Thoughts and Prayers
+*   _Chris Cillizza_: What Jimmy Kimmel Gets Right About Gun Control Debate
     
-*   _Andrew Malcolm_: Two GOPs Confront Each Other -- and Tax Reform
+*   _Leah Libresco_: My Research Told Me Gun Control Is Not the Answer
     
-*   _Francis Wilkinson_: Alabama Is a Race Worth Losing for Democrats
+*   _Michelle Goldberg_: An Unfit President Fails Puerto Rico
     
-*   _George Will_: Will the Supreme Court Fall Into a Political Thicket?
+*   _Liz Peek_: Trump Isn't Responsible for Decades of Corruption &. Collapse
     
-*   _Sam Wang &. Brian Remlinger_: Slaying the Partisan Gerrymander
+*   _Jonathan Tobin_: On Late-Term Abortion, Liberals Are Science Deniers
     
-*   _William McGurn_: The Morality of Charles Koch
+*   _Jeffrey Toobin_: Ginsburg Slaps Gorsuch in Gerrymandering Case
     
-*   _Max Read_: Does Even Mark Zuckerberg Know What Facebook Is?
+*   _Zachary Karabell_: No Inflation? Technology May Have Left It in 20th Century
     
-*   _Carl Cannon_: Why October 3 Isn't Thanksgiving Day
+*   _Mark Hemingway_: Remembering Tom Petty
     
-*   _Peter Bergen_: America the Lethal
+*   _Karol Markowicz_: Liberal Comedians Aren't Helping Las Vegas Victims
     
-*   _William Murchison_: President Trump Is Right
+*   _Kirsten Powers_: 'Thoughts and Prayers' Is Starting to Sound Profane
     
-*   _Jelani Cobb_: Another Worst Mass Shooting in the United States
+*   _Jennifer Doverspike_: Thoughts and Prayers Are Not Useless After Tragedy
     
-*   _David Harsanyi_: Stop Politicizing Mass Shootings
+*   _Laura Reston_: The NRA's New Scare Tactics
     
-*   _Jimmy Kimmel_: Thoughts &. Prayers Are Not Enough Against the NRA
+*   _Josh Kraushaar_: Why Gun Control Is a Losing Issue for Democrats
     
-*   _Rich Lowry_: The Passionate Non-Sequiturs of the Gun Debate
+*   _Thomas Friedman_: If Only Stephen Paddock Were a Muslim
     
-*   _Derek Thompson_: What a Real Middle-Class Tax Cut Would Look Like
+*   _Peter Boyer_: How Donald Trump Has Disrupted the Media
     
-*   _Ed Rogers_: The Dems' Lazy, Dishonest Arguments Against Tax Reform
+*   _Eric Holder_: Gerrymandering Has Broken Our Democracy
     
-*   _Donna Brazile_: To Rebuild, Trump Must Show Civility After the Storm
+*   _Matt Walter_: A Constitutional Right to Win? Democrats Want One
     
-*   _Wesley Pruden_: Reducing Disaster in Puerto Rico to Politics
+*   _Robert Robb_: Trump Will Win in 2020 If Dems Keep Calling Him a Racist
     
-*   _Cheryl Strayed_: Someday, a Woman Like Hillary Clinton Will Win
+*   _Ta-Nehisi Coates_: Civil-Rights Protests Have Never Been Popular
     
-*   _Noemie Emery_: Hillary &. Michelle Throw Shade on the Ladies
+*   _Walter Williams_: Blacks vs. Police Is a Misguided Protest
     
-*   _A.B. Stoddard_: The Duopoly Is Broken. Time to Create a New Center
+*   _Luke Nichter_: In PBS' 'Vietnam War,' Not All Voices Get Equal Play
     
 
 *   Previous
@@ -258,9 +258,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   59 Killed as Gunman Opens Fire at Las Vegas Concert
 *   Trump Calls Las Vegas Shooter "Sick" and "Demented Man"
-*   Kimmel Blasts NRA, Seeks Stricter Gun Control Laws to Stop Violence
+*   Could Mississippi Be the Next Alabama?
+*   Trump on Puerto Rico's Debt: "We're Going to Have to Wipe That Out"
 *   Dems in Iowa Wilderness Struggle for Power in Trump Era
 *   Vexing Question for Republicans: Whose Party Is This?
 *   Presidential Job Approval
@@ -277,26 +277,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   New Jersey Governor - Guadagno vs. MurphyMonmouth
-    *   Murphy51
-    *   Guadagno37Murphy +14
-*   Alabama Senate Special Election - Moore vs. JonesJMC Analytics
-    *   Moore48
-    *   Jones40Moore +8
-*   President Trump Job ApprovalGallup
+*   Virginia Governor - Gillespie vs. NorthamWashington Post\*
+    *   Northam53
+    *   Gillespie40Northam +13
+*   President Trump Job ApprovalCNBC
     *   Approve38
-    *   Disapprove57Disapprove +19
+    *   Disapprove52Disapprove +14
+*   President Trump Job ApprovalGallup
+    *   Approve39
+    *   Disapprove57Disapprove +18
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve42
-    *   Disapprove57Disapprove +15
+    *   Approve44
+    *   Disapprove55Disapprove +11
 
 More Latest Polls In The News
 
-*   Michelle Obama: Having A Commander In Chief Who Respects The Office Now Means Something Different
-*   Trump: "I Hate To Tell You Puerto Rico But You've Thrown Our Budget A Little Out Of Whack"
-*   Hume: In Wake Of Vegas Attack, Trump Right Not To Go "To Battle Stations, As So Many Others Seemed To Do"
-*   Sen. Chris Murphy: "Convenient Tool" Of The Gun Lobby To Enforce "24-Hour Waiting Period" Before Politicizing Mass Murders
-*   Jimmy Kimmel Gets Emotional Over Vegas Shooting: NRA Has GOP's "Balls In A Money Clip"
+*   Camille Paglia: Must Return To Authentic 1960s Vision Where Consciousness Transcends Divisions Of Gender, Race
+*   Tillerson: Some In Washington "Try To Sow Dissention To Advance Their Own Agendas"
+*   Shapiro to Kimmel: To Say 2A Doesn't Cover Military Weapons Is Like Saying 1st Amendment Doesn't Cover TV
+*   Noonan on Gun Control: "There Are Some Problems That Can Not Be Solved, But They Can Be Managed"
+*   Kimmel To 'Nuts' Against Gun Control Remarks: "In Your Heart, You Know You Bear Some Responsibility"
 
 *   Politics
 *   Policy
