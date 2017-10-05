@@ -85,5 +85,3 @@ How to Contact Us
 *   AdChoices
 
 © 2017 Procter &. Gamble. All claims valid only in the U.S.
-
-<iframe src="//s.thebrighttag.com/iframe?c=AK7okjI" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>.
