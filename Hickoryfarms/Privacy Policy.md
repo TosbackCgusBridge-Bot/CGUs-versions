@@ -13,12 +13,7 @@
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Gifts for Her
-    *   Gifts for Him
-    
-    By Price*   $30 &. Under
-    *   $40 &. Under
-    *   $50 &. Under
-    *   Over $90Most Popular Birthday Gifts Fruit &. Nuts
+    *   Gifts for HimMost Popular Birthday Gifts Fruit &. Nuts
 *   Sausage &. Cheese
     
     View All Categories Shop by Category*   Gifts
@@ -90,12 +85,7 @@
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Gifts for Her
-    *   Gifts for Him
-    
-    By Price*   $30 &. Under
-    *   $40 &. Under
-    *   $50 &. Under
-    *   Over $90Most Popular Birthday Gifts Fruit &. Nuts
+    *   Gifts for HimMost Popular Birthday Gifts Fruit &. Nuts
 *   Sausage &. Cheese
     
     View All Categories Shop by Category*   Gifts
