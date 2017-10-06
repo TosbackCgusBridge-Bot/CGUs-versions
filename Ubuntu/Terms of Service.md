@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Kubernetes on Ubuntu VMs ›
+*   Webinar: 10-step plan to rollout Cloud devops ›
 *   Security Team Update: October 5, 2017 ›
 *   MAAS 2.3.0 beta 1 released ›
 *   Kernel Team Summary – October 4, 2017 ›
-*   Heroku as a snap: talking security, Snapcraft &. daily updates ›
-*   Snap configuration: the configure hook ›
