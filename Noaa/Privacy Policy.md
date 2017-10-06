@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Celebrate National Seafood Month Learn how to choose sustainable seafood, get recipes, and more AROUND NOAA // Video: Taking the riddle out of weather forecasts Featured photo: South Pole sees first sunrise in 6 months with arrival of spring Assessing Maria's destruction from the air: Aerial photos are available Globe sees 2nd warmest year to date, 3rd warmest August on record
+Enter Search Terms Celebrate National Seafood Month Learn how to choose sustainable seafood, get recipes, and more AROUND NOAA // Get the latest forecast on Nate from NOAA's National Hurricane Center Oct. 12: NOAA hosts Reddit AUA about the launch of newest polar-orbiting satellite Video: Taking the riddle out of weather forecasts Assessing Maria's destruction from the air: Aerial photos are available
 
 *   About our agency
 *   News and features
