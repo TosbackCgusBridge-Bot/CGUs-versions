@@ -35,7 +35,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Online gallery
         *   Frequently asked questions last item in this group
     
-    *   Our strategy Our strategy enables us to capture value from our international network.
+    *   Company history The experiences of the past 150 years have formed the character of HSBC.
 *   Our approach Skip to Investor relations navigation
     
     *   Our values
@@ -62,7 +62,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Health and safety
         *   Working with suppliers last item in this group
     
-    *   Sustainability Sustainability underpins our strategy and enables us to fulfil our purpose.
+    *   Our values We are dependable, open and connected.
 *   Investor relations Skip to News and insight navigation
     
     *   Group results and reporting
@@ -96,7 +96,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Regulatory capital securities
         *   Credit ratings last item in this group
     
-    *   Interim Results 2017 HSBC Holdings plc announced its Interim Results 2017 on 31 July.
+    *   Our investment case Our factbooks help investors understand the bank’s strategy.
 *   News and insight Skip to Careers navigation
     
     *   Media resources
@@ -117,7 +117,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Culture
         *   Other sponsorships last item in this group
     
-    *   HSBC wins 'World's Best Bank' We have received one of the industry's most significant accolades.
+    *   India punches its weight India could become the world’s third largest economy within a decade
 *   Careers Skip navigation
     
     *   Key hiring areas
@@ -151,8 +151,8 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Frequently asked questions
         
     
-    *   Explore our business You can develop your career in markets around the world.
     *   Students and graduates We want HSBC to be a place where everyone can achieve their potential.
+    *   Application hints and tips Improve your chances of getting a job at HSBC.
 
 Online bankingOnline banking
 
