@@ -64,9 +64,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, Utah. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 8%  2% 
+What is PeekScore? Public Records &. Background Checks 17%  8% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 8%  2% 
     
 *   Show Less ...
 
-8%  8%  Arrest Records &. Driving Infractions
+17%  17%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 8%  Twitter 2% 
+Facebook 17%  Twitter 8% 
 
 *   Cristiano Ronaldo - Cristiano
     
@@ -199,7 +199,7 @@ Facebook 8%  Twitter 2% 
     
 *   Show Less ...
 
-Pinterest 8%  Wikipedia 2% 
+Pinterest 17%  Wikipedia 8% 
 
 *   Medana
     
@@ -218,7 +218,7 @@ Pinterest 8%  Wikipedia 2% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Instagram 2% 
+Instagram 8% 
 
 *   Karen McDowall - privacy\_\_\_policy
     
@@ -244,7 +244,7 @@ Instagram 2% 
     
 *   Show Less ...
 
-Google+ 2% 
+Google+ 8% 
 
 *   Free Privacy Policy - Google+
     
@@ -263,7 +263,7 @@ Google+ 2% 
     ©2017 Google • Privacy Policy • Terms of Service • Maps Terms. Region. Search. Sign in. About... Sign in. Profile cover photo. Profile photo. Verizon fios.
     
 
-Linkedin 2% 
+Linkedin 8% 
 
 *   Privacy Policy | LinkedIn
     
@@ -309,7 +309,7 @@ Linkedin 2% 
     
 *   Show Less ...
 
-Foursquare 2% 
+Foursquare 8% 
 
 *   privacy policy
     
@@ -343,7 +343,7 @@ Foursquare 2% 
     
 *   Show Less ...
 
-Music 2% 
+Music 8% 
 
 *   Pandora
     
@@ -389,7 +389,7 @@ Music 2% 
     
 *   Show Less ...
 
-Photo Albums 2% 
+Photo Albums 8% 
 
 *   Flickr
     
@@ -400,7 +400,7 @@ Photo Albums 2% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 2% 
+Myspace 8% 
 
 *   Privacy Policy - 49086242
     
@@ -424,7 +424,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Documents 2% 
+Documents 8% 
 
 *   Generic Privacy Policy template - TermsFeed
     
@@ -470,7 +470,7 @@ Documents 2% 
     
 *   Show Less ...
 
-Web Search 2% 
+Web Search 8% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -516,7 +516,7 @@ Web Search 2% 
     
 *   Show Less ...
 
-Images 2% 
+Images 8% 
 
 19
 
