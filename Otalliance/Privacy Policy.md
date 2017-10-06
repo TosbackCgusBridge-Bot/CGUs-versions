@@ -75,35 +75,14 @@ Skip to main content Online Trust Alliance
 *   Facebook
 *   Youtube
 
-Facebook Twitter LinkedIn Email Addthis Home › Privacy Policy Privacy Policy Privacy Policy Highlights
+Facebook Twitter LinkedIn Email Addthis Home › Privacy Statement Privacy Statement
 
-**Updated August 1, 2016** (See archived privacy policy)                                  
+The Online Trust Alliance is now part of the Internet Society, (ISOC) and governed by the new ISOC Privacy Statement, published August 17, 2017.   As a combined organization, we are mutually committed to responsible and ethical data privacy practices.  To review the new ISOC privacy statement click here.   Questions please email privacy@isoc.org.   
 
-Complete Privacy Policy                                   
+Previous OTA privacy policies are posted below
 
-Politica De Privacida
-
-Online Trust Alliance, (OTA) is committed to protecting your privacy.  By accessing the Site www.otalliance.org, you are consenting to the information collection and use practices described in this privacy policy. 
-
-**Note on or about October 1, 2017, OTA will legally be part of the Internet Society.  Please visit the Internet Society's Privacy Statement for additional information on their privacy practices and policies as their data sharing and use practices with third parties are broader than those historically advocated by OTA.  ISOC will be updating their Privacy Statement to align to OTA's as well as to comply with the forthcoming GDPR requirements.  If you have any questions or wish to have your data removed, please email OTA@ISOC.org.**
-
-**Collection and Use**  
-We need to collect certain information that personally identifies you in order to contact you, provide a service or carry out a transaction that you have requested, including, but not limited to, name, e-mail address, information about your job or company and credit card information.  OTA may use your personal information to provide you with more effective customer service, to improve the Site: (https://otalliance.org) and any related OTA products or services.  We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. \[Learn More\]
-
-**Data Sharing**  
-OTA does not share or sell any data to third parties with the exception of third parties who provide services on our behalf.  OTA occasionally hires other companies, consultants and contractors to provide limited services. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose.  \[Learn More\] 
-
-**Cookies and Other Tracking Technologies**  
-We and our service providers may use tracking technologies such as cookies, beacons, tags, scripts or similar technologies, to analyze trends, administer the Site, track users’ movements around the Site, and gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies from these companies on an individual or aggregated basis. \[Learn More\]
-
-**User Options**  
-OTA honors a user's Do Not Track Setting, directing a site to not share tracking information with any third party with the exception of providing services on OTA's behalf as outlined above. Receiving email messages from OTA is optional and we provide choice options. Users can also access the personal information they have provided to OTA for the purposes of reviewing, updating, and deleting such information.  \[Learn More\]
-
-**Data Security**  
-We have implemented generally accepted standards of security features throughout the Site that are intended to prevent the unauthorized release of or access to the user information we collect online. 
-
-**Other Information**  
-The Site is not targeted nor directed to children under the age of eighteen. To contact us, please visit the Contact Us page.
+*   OTA Privacy Policy  Revised August 1, 2016 and effective through August 21, 2017
+*   OTA Privacy Policy - July 13, 2016 ("redlined", replacing policy dated March 1, 2016)
 
 *   Upcoming Events
 *   News
