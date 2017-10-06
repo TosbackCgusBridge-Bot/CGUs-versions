@@ -1,9 +1,8 @@
 Skip to main content
 
-*   Very Real
 *   Crime Time
-*   In Progress
 *   Martinis &. Murder
+*   Very Real
 *   Podcast
 
 Open menu
@@ -46,10 +45,9 @@ Get Updates Facebook Twitter Newsletter Close menu Oxygen.com
 
 Get Updates Facebook Twitter Instagram Snapchat Newsletter Sites
 
-*   Very Real
 *   Crime Time
-*   In Progress
 *   Martinis &. Murder
+*   Very Real
 *   Podcast
 
 Page Not Found
