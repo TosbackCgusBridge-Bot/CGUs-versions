@@ -11,6 +11,7 @@
         *   Chromebooks
         *   Yoga Book
         *   SMALL BUSINESS LAPTOPS
+        *   ThinkPad 25
         
         *   *   Explore Thinkpad
             
@@ -53,6 +54,8 @@
         *   *   Explore Yoga Book >.
         
         *   *   SMALL BUSINESS LAPTOPS >.
+        
+        *   *   ThinkPad 25 >.
         
     *   Desktops &. All-In-Ones Explore All  Desktops &. All-In-Ones Explore All  Desktops &. All-In-Ones Plenty to consider before making your purchase. Let us help.
         
@@ -244,6 +247,7 @@
     *   Explore All Deals
     *   Laptop Deals
     *   Professional Laptop Deals
+    *   Tablet Deals
     *   Desktop Deals
     *   Accessories Deals
     *   Clearance
@@ -313,36 +317,34 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers
+Home >. Filter by specs Offers THE WORLD’S BEST LAPTOP JUST TURNED 25
 
-Sorry, Primordial Elements
+COMMEMORATE WITH OUR ANNIVERSARY SALE! 25% OFF THROUGH OCT 11.
 
-Shop now >.
+Save now >.
 
-Hyperconverged Simplified
+THIS IS NOT A LAPTOP. IT'S A THINKPAD
 
-ThinkAgile for Nutanix offers game changing agility, simplicity and a transformative experience.
-
-ThinkAgile HX Series >. ThinkAgile SX for Nutanix >.
+Celebrate >.
 
 *   1
 *   2
 
-Weekly Deals
+Daily Deal
 
-Great deals on select products.
+Our best price of the season on a new product bundle each day!
 
-Business Solutions
+25 Years up to 25% off
 
-Your device should fit you. Not the other way around. Explore our extensive line of business ready computers.
+Hey Business Owners, celebrate 25 years of ThinkPad with up to 25% off ThinkPad devices.
 
-72 Hours Only
+Accessories up to 50% off
 
-Save up to 36% on premium Yoga laptops.
+Pick up matching keyboards, docks, monitors, cases and more at huge savings!
 
-ThinkAgile VX Series
+ThinkPad X1 Tablet
 
-This is the future-defined data center
+Power through your whole day, with the tablet that includes a full-sized, detachable keyboard and stylus.
 
 Star Wars Jedi Challenges: Begin Your Journey
 
