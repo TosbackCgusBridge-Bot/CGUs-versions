@@ -226,7 +226,6 @@ POPSUGAR Inc., its subsidiaries and affiliates (“POPSUGAR,” “we,” “us,
         San Francisco, CA 94104  
         Phone: (415) 391-7576  
         Fax: (415) 391-7584  
-        copyright@popsugar.com
         
 *   APPLE DEVICE AND APPLICATION TERMS
     
