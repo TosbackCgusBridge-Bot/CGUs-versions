@@ -110,53 +110,53 @@
     *   About
     *   Media Kit
 
-*   _Katy Steinmetz_: Why Words Fail to Describe the Las Vegas Shooting
+*   _Ed Rogers_: Steady Tillerson Is Here to Stay
     
-*   _Joan Walsh_: U.S. Impulse to Equate Guns With Freedom Is Killing Us
+*   _Nik Steinberg_: Rex Tillerson Running the State Department Into the Ground
     
-*   _Michelle Malkin_: Jimmy Kimmel: The Tears of a Clown
+*   _Charlotte Alter_: They Survived the Shooting. But They Don't Want Gun Control
     
-*   _Chris Cillizza_: What Jimmy Kimmel Gets Right About Gun Control Debate
+*   _Bret Stephens_: Repeal the Second Amendment
     
-*   _Leah Libresco_: My Research Told Me Gun Control Is Not the Answer
+*   _David Harsanyi_: Come and Take Them, Bret Stephens
     
-*   _Michelle Goldberg_: An Unfit President Fails Puerto Rico
+*   _Edward Luce_: Donald Trump, America's Fake Healer-in-Chief
     
-*   _Liz Peek_: Trump Isn't Responsible for Decades of Corruption &. Collapse
+*   _Steve Cortes_: Hurricane Response Belies Critics' Hit Job on Trump
     
-*   _Jonathan Tobin_: On Late-Term Abortion, Liberals Are Science Deniers
+*   _Ed O'Keefe_: Top House Dem: Time for Pelosi and Her Leadership Team to Go
     
-*   _Jeffrey Toobin_: Ginsburg Slaps Gorsuch in Gerrymandering Case
+*   _Neil Swidey_: If the Elites Go Down, We're All in Trouble
     
-*   _Zachary Karabell_: No Inflation? Technology May Have Left It in 20th Century
+*   _Brian Rogers_: Conservatives &. Trump Can Still Stop the Worst of Obamacare
     
-*   _Mark Hemingway_: Remembering Tom Petty
+*   _Caitlin Flanagan_: Death at a Penn State Fraternity
     
-*   _Karol Markowicz_: Liberal Comedians Aren't Helping Las Vegas Victims
+*   _C. Moon Reed_: We Don't Need Your Prayers in Vegas. We Need Gun Control
     
-*   _Kirsten Powers_: 'Thoughts and Prayers' Is Starting to Sound Profane
+*   _David Harsanyi_: Dems Have No Idea How to Prevent Mass Shootings
     
-*   _Jennifer Doverspike_: Thoughts and Prayers Are Not Useless After Tragedy
+*   _E.J. Dionne_: Why the Majority Doesn't Rule on Guns
     
-*   _Laura Reston_: The NRA's New Scare Tactics
+*   _George Neumayr_: The Unserious 'Serious' Discussion About Guns
     
-*   _Josh Kraushaar_: Why Gun Control Is a Losing Issue for Democrats
+*   _Robert Schlesinger_: Trump Administration Chaos Continues
     
-*   _Thomas Friedman_: If Only Stephen Paddock Were a Muslim
+*   _Bill O'Reilly_: Liberal, Anti-Trump Media Taking Us All for 'Morons'
     
-*   _Peter Boyer_: How Donald Trump Has Disrupted the Media
+*   _Jimmy Carter_: What I've Learned From North Korea's Leaders
     
-*   _Eric Holder_: Gerrymandering Has Broken Our Democracy
+*   _Roger L. Simon_: Trump Should Decertify Obama's Monstrous Iran Deal
     
-*   _Matt Walter_: A Constitutional Right to Win? Democrats Want One
+*   _Lawrence Martin_: The Grand Old Party Is on Its Deathbed
     
-*   _Robert Robb_: Trump Will Win in 2020 If Dems Keep Calling Him a Racist
+*   _Jeet Heer_: GOP Isn't Cracking Up. It's Getting Stronger.
     
-*   _Ta-Nehisi Coates_: Civil-Rights Protests Have Never Been Popular
+*   _Holly Harris_: On Criminal Justice Reform, Bipartisanship Is Back
     
-*   _Walter Williams_: Blacks vs. Police Is a Misguided Protest
+*   _Charles Blow_: Blood Pact With the N.R.A.
     
-*   _Luke Nichter_: In PBS' 'Vietnam War,' Not All Voices Get Equal Play
+*   _Stephen L. Miller_: The Media Doesn't Understand Guns - &. Doesn't Want To
     
 
 *   Previous
@@ -258,11 +258,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Calls Las Vegas Shooter "Sick" and "Demented Man"
 *   Could Mississippi Be the Next Alabama?
-*   Trump on Puerto Rico's Debt: "We're Going to Have to Wipe That Out"
+*   Trump Meets Survivors at Las Vegas Hospital, Honors Their Bravery
+*   Trump: Tillerson Comments "Fake News" Made Up by NBC
+*   Burr: Senate Probe of Russian Collusion "Still Open"
 *   Dems in Iowa Wilderness Struggle for Power in Trump Era
-*   Vexing Question for Republicans: Whose Party Is This?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -280,15 +280,15 @@ Latest PollsAll Polls
 *   Virginia Governor - Gillespie vs. NorthamWashington Post\*
     *   Northam53
     *   Gillespie40Northam +13
-*   President Trump Job ApprovalCNBC
-    *   Approve38
-    *   Disapprove52Disapprove +14
 *   President Trump Job ApprovalGallup
     *   Approve39
-    *   Disapprove57Disapprove +18
+    *   Disapprove56Disapprove +17
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove55Disapprove +11
+    *   Approve45
+    *   Disapprove54Disapprove +9
+*   President Trump Job ApprovalUSA Today/Suffolk
+    *   Approve38
+    *   Disapprove56Disapprove +18
 
 More Latest Polls In The News
 
