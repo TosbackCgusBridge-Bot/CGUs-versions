@@ -219,37 +219,29 @@ Contact Us
 
 ETS
 
-*   Home
 *   About ETS
-*   Research
 *   Careers
-*   Newsroom
-*   Conferences
+*   Contact Us
 *   Disabilities
 *   ETS Store
-*   Contact Us
+*   News: Open Notes
+*   Research
 
-Who We Serve
+Learning Solutions
 
-*   K–12 Student Assessment Programs
-*   Educator Licensure Assessments
-*   Higher Education Community
-*   Global Programs and Services
-*   English Learners and Teachers
-*   Workplace Community
-*   View All
+*   Educator Licensure
+*   English Language Learning
+*   Higher Education
+*   K–12 Student Programs
+*   Workplace &. Training
 
-Tests and Products
+Products
 
 *   GRE Tests
 *   HiSET Exam
-*   The Praxis Series Tests
-*   TOEFL Test
+*   Praxis Tests
+*   TOEFL Tests
 *   TOEIC Tests
-*   ETS Educator Series
-*   ETS Performance Portfolio
-*   ETS SkillBuilders
-*   ETS Tech Connect
 *   View All
 
 Send Feedback
