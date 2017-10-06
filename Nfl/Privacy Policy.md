@@ -1,4 +1,3 @@
-*   NE2-2TB2-1Thu 8:25 PM ET
 *   BUF3-1CIN1-3Sun 1:00 PM ET
 *   NYJ2-2CLE0-4Sun 1:00 PM ET
 *   CAR3-1DET3-1Sun 1:00 PM ET
@@ -12,6 +11,7 @@
 *   GB3-1DAL2-2Sun 4:25 PM ET
 *   KC4-0HOU2-2Sun 8:30 PM ET
 *   MIN2-2CHI1-3Mon 8:30 PM ET
+*   NE19TB14Final
 
 *   News
 *   Scores
