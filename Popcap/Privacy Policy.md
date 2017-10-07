@@ -1,4 +1,4 @@
-Sign In Create Account  powered byNeed Help? Explore common problems Verify my Origin Login Link Origin to my PSN ID How do I redeem a Code? I can't play online!
+Sign In Create Account Need Help? Explore common problems Verify my Origin Login Link Origin to my PSN ID How do I redeem a Code? I can't play online!
 
 Can't find what you're looking for? Go to EA Help, Answers HQ or EA Forums
 
