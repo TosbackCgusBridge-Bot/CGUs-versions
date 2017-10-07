@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Friday, October 6, 2017  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, October 7, 2017  
 
 DEBKAfile
 
@@ -46,29 +46,17 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
-*   Saudis bust ISIS cell in Riyadh
+*   Breakthrough in Shmerling murder uncovers Palestinian terror
     
-    Oct 05, 2017 @ 23:08
+    Oct 06, 2017 @ 22:37
     
-*   Hamas terror mastermind Saleh Arouri named deputy politburo chief
+*   Iran denies report that its missile program is open to negotiation
     
-    Oct 05, 2017 @ 14:17
+    Oct 06, 2017 @ 22:28
     
-*   Nusra Front leader Al-Julani reported in a coma after a Russian air strike
+*   Obscure anti-nuclear NGO wins Nobel peace prize
     
-    Oct 05, 2017 @ 11:56
-    
-*   Three US Special Ops troops killed, two injured in SW Niger
-    
-    Oct 05, 2017 @ 11:34
-    
-*   The Iraqi army claims Hawijah has fallen
-    
-    Oct 05, 2017 @ 11:26
-    
-*   The body of an Israeli man found in Kafr Qassem prompts a terror probe
-    
-    Oct 04, 2017 @ 21:21
+    Oct 06, 2017 @ 14:24
     
 *   Saudis bust ISIS cell in Riyadh
     
@@ -82,34 +70,34 @@ Breaking news
     
     Oct 05, 2017 @ 11:56
     
-*   Three US Special Ops troops killed, two injured in SW Niger
+*   Breakthrough in Shmerling murder uncovers Palestinian terror
     
-    Oct 05, 2017 @ 11:34
+    Oct 06, 2017 @ 22:37
     
-*   The Iraqi army claims Hawijah has fallen
+*   Iran denies report that its missile program is open to negotiation
     
-    Oct 05, 2017 @ 11:26
+    Oct 06, 2017 @ 22:28
     
-*   The body of an Israeli man found in Kafr Qassem prompts a terror probe
+*   Obscure anti-nuclear NGO wins Nobel peace prize
     
-    Oct 04, 2017 @ 21:21
+    Oct 06, 2017 @ 14:24
+    
+*   Saudis bust ISIS cell in Riyadh
+    
+    Oct 05, 2017 @ 23:08
+    
+*   Hamas terror mastermind Saleh Arouri named deputy politburo chief
+    
+    Oct 05, 2017 @ 14:17
+    
+*   Nusra Front leader Al-Julani reported in a coma after a Russian air strike
+    
+    Oct 05, 2017 @ 11:56
     
 
-*   Nusra Front leader Al-Julani reported in a coma after a Russian air strike
+*   Obscure anti-nuclear NGO wins Nobel peace prize
     
-    Oct 05, 2017 @ 11:56
-    
-*   Three US Special Ops troops killed, two injured in SW Niger
-    
-    Oct 05, 2017 @ 11:34
-    
-*   The Iraqi army claims Hawijah has fallen
-    
-    Oct 05, 2017 @ 11:26
-    
-*   The body of an Israeli man found in Kafr Qassem prompts a terror probe
-    
-    Oct 04, 2017 @ 21:21
+    Oct 06, 2017 @ 14:24
     
 *   Saudis bust ISIS cell in Riyadh
     
@@ -123,17 +111,17 @@ Breaking news
     
     Oct 05, 2017 @ 11:56
     
-*   Three US Special Ops troops killed, two injured in SW Niger
+*   Breakthrough in Shmerling murder uncovers Palestinian terror
     
-    Oct 05, 2017 @ 11:34
+    Oct 06, 2017 @ 22:37
     
-*   The Iraqi army claims Hawijah has fallen
+*   Iran denies report that its missile program is open to negotiation
     
-    Oct 05, 2017 @ 11:26
+    Oct 06, 2017 @ 22:28
     
-*   The body of an Israeli man found in Kafr Qassem prompts a terror probe
+*   Obscure anti-nuclear NGO wins Nobel peace prize
     
-    Oct 04, 2017 @ 21:21
+    Oct 06, 2017 @ 14:24
     
 *   Saudis bust ISIS cell in Riyadh
     
@@ -147,9 +135,21 @@ Breaking news
     
     Oct 05, 2017 @ 11:56
     
-*   Three US Special Ops troops killed, two injured in SW Niger
+*   Breakthrough in Shmerling murder uncovers Palestinian terror
     
-    Oct 05, 2017 @ 11:34
+    Oct 06, 2017 @ 22:37
+    
+*   Iran denies report that its missile program is open to negotiation
+    
+    Oct 06, 2017 @ 22:28
+    
+*   Obscure anti-nuclear NGO wins Nobel peace prize
+    
+    Oct 06, 2017 @ 14:24
+    
+*   Saudis bust ISIS cell in Riyadh
+    
+    Oct 05, 2017 @ 23:08
     
 
 12PrevNext DEBKA Video
