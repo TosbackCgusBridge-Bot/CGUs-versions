@@ -110,53 +110,53 @@
     *   About
     *   Media Kit
 
-*   _Ed Rogers_: Steady Tillerson Is Here to Stay
+*   _Noah Rothman_: How to Manipulate a Democrat
     
-*   _Nik Steinberg_: Rex Tillerson Running the State Department Into the Ground
+*   _Ezra Klein_: Harvey Weinstein, Milo Yiannopoulos, and the Era of Unleashing
     
-*   _Charlotte Alter_: They Survived the Shooting. But They Don't Want Gun Control
+*   _Wesley Pruden_: Without Bombast or Bravado, a Presidential President
     
-*   _Bret Stephens_: Repeal the Second Amendment
+*   _Chris Cillizza_: Trump Treating a Potential War Like a Reality Show Cliffhanger
     
-*   _David Harsanyi_: Come and Take Them, Bret Stephens
+*   _Megan McArdle_: Debt Alone Won't Crush Puerto Rico. Depopulation Will.
     
-*   _Edward Luce_: Donald Trump, America's Fake Healer-in-Chief
+*   _Bill Scher_: Who Will Lead the Left on Gun Control?
     
-*   _Steve Cortes_: Hurricane Response Belies Critics' Hit Job on Trump
+*   _Meredith Dake-O'Connor_: Your Right-Wing Friend Won't Budge on Gun Laws
     
-*   _Ed O'Keefe_: Top House Dem: Time for Pelosi and Her Leadership Team to Go
+*   _Michael Ledeen_: The Separatist Wave: Kurdistan, Catalonia, Brexit
     
-*   _Neil Swidey_: If the Elites Go Down, We're All in Trouble
+*   _Varoufakis & Galbraith_: Why Europe Needs a New Deal, Not Breakup
     
-*   _Brian Rogers_: Conservatives &. Trump Can Still Stop the Worst of Obamacare
+*   _Paul Farhi_: Four Years Later, IRS Tea Party 'Scandal' Looks Different
     
-*   _Caitlin Flanagan_: Death at a Penn State Fraternity
+*   _Jenny Beth Martin_: Trump, Show No Mercy in Terminating John Koskinen
     
-*   _C. Moon Reed_: We Don't Need Your Prayers in Vegas. We Need Gun Control
+*   _David Ignatius_: Trump's Geopolitical Straddle in Iran
     
-*   _David Harsanyi_: Dems Have No Idea How to Prevent Mass Shootings
+*   _Stephen Hayes &. Michael Warren_: The Art of Decertifying the Iran Deal
     
-*   _E.J. Dionne_: Why the Majority Doesn't Rule on Guns
+*   _Gloria Borger_: Trump and His Cabinet Are Stuck in an Awkward Embrace
     
-*   _George Neumayr_: The Unserious 'Serious' Discussion About Guns
+*   _Theodore Dalrymple_: Stephen Paddock and the Unanswerable
     
-*   _Robert Schlesinger_: Trump Administration Chaos Continues
+*   _Timothy Egan_: The Cancer in the Constitution
     
-*   _Bill O'Reilly_: Liberal, Anti-Trump Media Taking Us All for 'Morons'
+*   _David French_: The Misguided, Ineffectual Moral Superiority of Gun Controllers
     
-*   _Jimmy Carter_: What I've Learned From North Korea's Leaders
+*   _Kurt Andersen_: America's Gun Fantasy
     
-*   _Roger L. Simon_: Trump Should Decertify Obama's Monstrous Iran Deal
+*   _James Arkin_: Dems, GOP Weigh Investment in Alabama Senate Race
     
-*   _Lawrence Martin_: The Grand Old Party Is on Its Deathbed
+*   _Melissa Mackenzie_: Harvey Weinstein: Clinton Friend, Fundraiser, Sexist Pig
     
-*   _Jeet Heer_: GOP Isn't Cracking Up. It's Getting Stronger.
+*   _Ryan Lizza_: The Secrecy Undermining the Senate's Russia Probe
     
-*   _Holly Harris_: On Criminal Justice Reform, Bipartisanship Is Back
+*   _Byron York_: 10 Reasons to Stay Calm About the Russia Facebook Ads
     
-*   _Charles Blow_: Blood Pact With the N.R.A.
+*   _Scott Jennings_: Will GOP Gadflies Sink Popular Tax Reform?
     
-*   _Stephen L. Miller_: The Media Doesn't Understand Guns - &. Doesn't Want To
+*   _Andrew Prokop_: The Republican Tax Reform Push Is Already a Huge Mess
     
 
 *   Previous
@@ -258,11 +258,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Dems, Republicans Weigh Investment in Alabama Senate Race
+*   Blackburn Enters TN Senate Race, Highlights Support for Trump
+*   Trump Warns: "Maybe It Is the Calm Before the Storm"
 *   Could Mississippi Be the Next Alabama?
 *   Trump Meets Survivors at Las Vegas Hospital, Honors Their Bravery
-*   Trump: Tillerson Comments "Fake News" Made Up by NBC
-*   Burr: Senate Probe of Russian Collusion "Still Open"
-*   Dems in Iowa Wilderness Struggle for Power in Trump Era
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -277,25 +277,25 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Michigan Senate - Kid Rock vs. StabenowMitchell/Rosetta Stone
+    *   Stabenow46
+    *   Kid Rock38Stabenow +8
+*   President Trump Job ApprovalGallup
+    *   Approve39
+    *   Disapprove57Disapprove +18
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove53Disapprove +7
 *   Virginia Governor - Gillespie vs. NorthamWashington Post\*
     *   Northam53
     *   Gillespie40Northam +13
-*   President Trump Job ApprovalGallup
-    *   Approve39
-    *   Disapprove56Disapprove +17
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve45
-    *   Disapprove54Disapprove +9
-*   President Trump Job ApprovalUSA Today/Suffolk
-    *   Approve38
-    *   Disapprove56Disapprove +18
 
 More Latest Polls In The News
 
+*   GOP Sen. Lankford: Russians Don't Create Conflicts In America, They Amp Them Up
 *   Camille Paglia: Must Return To Authentic 1960s Vision Where Consciousness Transcends Divisions Of Gender, Race
 *   Tillerson: Some In Washington "Try To Sow Dissention To Advance Their Own Agendas"
 *   Shapiro to Kimmel: To Say 2A Doesn't Cover Military Weapons Is Like Saying 1st Amendment Doesn't Cover TV
-*   Noonan on Gun Control: "There Are Some Problems That Can Not Be Solved, But They Can Be Managed"
 *   Kimmel To 'Nuts' Against Gun Control Remarks: "In Your Heart, You Know You Bear Some Responsibility"
 
 *   Politics
