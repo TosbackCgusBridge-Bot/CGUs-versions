@@ -9,7 +9,7 @@ Search All NYTimes.com
 
 Help Help >. Permissions and Policies >. Privacy >. Privacy Policy Privacy Policy
 
-_Last Updated on May 18, 2017_
+_Last Updated on October 6th, 2017_
 
 This Privacy Policy discloses the privacy practices for The New York Times newspaper and NYTimes.com (including international.nytimes.com, the online edition of The International New York Times), The New York Times Home Delivery website, The New York Times Neediest Cases Fund, The New York Times Store, Times Journeys and The New York Times Learning Network, our email newsletters and other applications owned and operated by The New York Times Company (collectively referred to as the “NYT Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The New York Times" include NYTimes.com and The New York Times newspaper.
 
@@ -33,8 +33,6 @@ This Privacy Policy covers:
 
   
 **TRUSTe**: If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
-
-The TRUSTe program covers only information that is collected through the NYTimes.com website. The TRUSTe program does not cover the mobile application or information that may be collected through software downloaded from this site. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal.
 
 **WHAT INFORMATION DO WE GATHER ABOUT YOU?**
 
