@@ -110,6 +110,8 @@
     *   About
     *   Media Kit
 
+*   _Larry Kudlow_: Kevin Hassett Spanks the Tax Policy Center
+    
 *   _Noah Rothman_: How to Manipulate a Democrat
     
 *   _Ezra Klein_: Harvey Weinstein, Milo Yiannopoulos, and the Era of Unleashing
@@ -155,8 +157,6 @@
 *   _Byron York_: 10 Reasons to Stay Calm About the Russia Facebook Ads
     
 *   _Scott Jennings_: Will GOP Gadflies Sink Popular Tax Reform?
-    
-*   _Andrew Prokop_: The Republican Tax Reform Push Is Already a Huge Mess
     
 
 *   Previous
@@ -277,12 +277,12 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve39
+    *   Disapprove56Disapprove +17
 *   Michigan Senate - Kid Rock vs. StabenowMitchell/Rosetta Stone
     *   Stabenow46
     *   Kid Rock38Stabenow +8
-*   President Trump Job ApprovalGallup
-    *   Approve39
-    *   Disapprove57Disapprove +18
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve46
     *   Disapprove53Disapprove +7
@@ -292,11 +292,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Maher Lashes Out At Dems For Over-Regulation: "It Makes People Hate Us, It Makes Me Hate Us"
+*   Bishop Aubrey Shines To NFL, NBA Players: "You Have Been Bamboozled," Stop Being Pawns, Flunkies, And Stooges
 *   GOP Sen. Lankford: Russians Don't Create Conflicts In America, They Amp Them Up
 *   Camille Paglia: Must Return To Authentic 1960s Vision Where Consciousness Transcends Divisions Of Gender, Race
 *   Tillerson: Some In Washington "Try To Sow Dissention To Advance Their Own Agendas"
-*   Shapiro to Kimmel: To Say 2A Doesn't Cover Military Weapons Is Like Saying 1st Amendment Doesn't Cover TV
-*   Kimmel To 'Nuts' Against Gun Control Remarks: "In Your Heart, You Know You Bear Some Responsibility"
 
 *   Politics
 *   Policy
