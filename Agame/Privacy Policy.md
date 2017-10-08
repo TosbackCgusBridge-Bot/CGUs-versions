@@ -23,6 +23,8 @@ Games
 
 View more results
 
+Add to Chrome
+
 *   Apps
     
 *   Multiplayer
@@ -221,17 +223,9 @@ View more results
     *   Sports
 *   For you
     
-    Recommended Games
+    My last played games
     
-    *   Roblox
-    *   Forge of Empires
-    *   Warbanner
-    *   Madalin Stunt Cars 2
-    *   Geometry Neon Dash
-    *   Fireboy &. Watergirl 4: Crystal Temple
-    *   Bubble Shooter HD
-    *   Solitaire FRVR
-    *   Uphill Rush 7: Waterpark
+    *   Hey, you will find your last played games here.  
     
     FAVE GAMES
     
