@@ -154,7 +154,7 @@ View Introducing the all NEW Sony RX0. on Instagram
 
 Strike a pose with an amazing 23MP camera in #Xperia XA1 Plus.
 
-4 days ago
+5 days ago
 
 View Tweet
 
@@ -230,7 +230,7 @@ View Big sound comes in mini boxes on Instagram
 
 We asked the #FlatlinersMovie stars (@ellenpage, @beau\_mirchoff, @ninadobrev) what gets their pulse racing—from skydiving to blind dates.
 
-3 days ago
+4 days ago
 
 View Tweet
 
@@ -322,7 +322,7 @@ View Make a splash. on Instagram
 
 Gran Turismo Sport gets a free, limited-time demo Oct. 9: http://play.st/2xdK9CD
 
-3 days ago
+4 days ago
 
 View Tweet
 
