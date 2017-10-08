@@ -233,13 +233,13 @@ Print | Citation &. Date | Reprint
 
 More to Explore   You might also like
 
-*   Colorado: Best &. Worst Refinance Mortgage Companies of 2017 Comparisons.org
-*   What is Psoriatic Arthritis? Yahoo! Search
-*   An Engineer's View: How To Build Cloud Right Forbes
+*   Thinking About Installing Solar Panels? Read This First Energy Bill Cruncher
+*   Bitcoin Millionaire: "Proceed - But with Caution" Strategic Tech Investor
+*   What Your Net Worth Says About Your Retirement: Free Guide Fisher Investments
 
-*   Colorado Approves $0 Down Solar in Denver Area Energy Bill Cruncher
-*   She Had No Idea Why The Crew Was Staring Kiwi Report
-*   How To Fix Aging Skin (Do This Every Day) Health Headlines
+*   How to Pay Off Your Credit Card Debt Faster Lending Club
+*   This Simple Quiz Can Reveal Your Highest Education Level Definition
+*   7 Outrageous Credit Cards If You Have Excellent Credit NextAdvisor
 
 Sponsored by Today's Headlines
 
@@ -267,9 +267,9 @@ More to Explore   DON'T MISS
 
 *   How Beats Audio Works
 
-*   What was Archimedes' death ray?
-
 *   How to Remove Blood Stains From Any Material
+
+*   Should I really punch animals in the nose when attacked?
 
 By
 
