@@ -8,7 +8,7 @@
 *   Men
 *   Kids
 *   Jeans
-*   Trending
+*   New
 *   Sale
 
 *   Search
@@ -212,7 +212,7 @@
         Give a Buckle Gift card BARE YOUR BRALETTE TO RAISE AWARENESS FOR BREAST CANCER PREVENTION &. EARLY DETECTION!  
         $1 from every bralette purchased in October will be contributed to the American Cancer Society.  
         SHOP BRALETTES | LEARN MORE
-*   Trending
+*   New
     *   *   Featured New
         
         *   Fall Checklist
