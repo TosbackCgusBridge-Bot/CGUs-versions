@@ -277,26 +277,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Virginia Governor - Gillespie vs. NorthamEmerson\*
+    *   Northam49
+    *   Gillespie44Northam +5
 *   President Trump Job ApprovalGallup
-    *   Approve39
-    *   Disapprove56Disapprove +17
+    *   Approve38
+    *   Disapprove57Disapprove +19
 *   Michigan Senate - Kid Rock vs. StabenowMitchell/Rosetta Stone
     *   Stabenow46
     *   Kid Rock38Stabenow +8
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve46
     *   Disapprove53Disapprove +7
-*   Virginia Governor - Gillespie vs. NorthamWashington Post\*
-    *   Northam53
-    *   Gillespie40Northam +13
 
 More Latest Polls In The News
 
+*   Dem Rep. Seth Moulton Debates GOP Rep. Scott Taylor on Gun Control, Regulation
+*   Feinstein: "Not Sure There Is Any Set Of Laws" That Could Have Prevented Las Vegas Shooting
+*   NRA's Wayne LaPierre: Hollywood Elites Make Billions Teaching Irresponsible Use Of Firearms
 *   Maher Lashes Out At Dems For Over-Regulation: "It Makes People Hate Us, It Makes Me Hate Us"
 *   Bishop Aubrey Shines To NFL, NBA Players: "You Have Been Bamboozled," Stop Being Pawns, Flunkies, And Stooges
-*   GOP Sen. Lankford: Russians Don't Create Conflicts In America, They Amp Them Up
-*   Camille Paglia: Must Return To Authentic 1960s Vision Where Consciousness Transcends Divisions Of Gender, Race
-*   Tillerson: Some In Washington "Try To Sow Dissention To Advance Their Own Agendas"
 
 *   Politics
 *   Policy
