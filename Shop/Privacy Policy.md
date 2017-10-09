@@ -346,55 +346,7 @@ ThinkPad X1 Tablet
 
 Power through your whole day, with the tablet that includes a full-sized, detachable keyboard and stylus.
 
-Star Wars Jedi Challenges: Begin Your Journey Recommended For You Best Seller ThinkPad X1 Carbon (5th gen)
-
-★★★★★ ★★★★★
-
-3.8
-
-(59)
-
-$1169.25
-
-Shop Now
-
-2643Viewing Best Seller Lenovo YOGA 910
-
-★★★★★ ★★★★★
-
-4.1
-
-(396)
-
-$999.99
-
-Shop Now
-
-1184Viewing Best Seller ThinkPad T470 Business Laptop
-
-★★★★★ ★★★★★
-
-3.3
-
-(12)
-
-$734.25
-
-Shop Now
-
-1380Viewing ThinkPad 25
-
-★★★★★ ★★★★★
-
-0
-
-(0)
-
-$1899.00
-
-Shop Now
-
-2937Viewing
+Star Wars Jedi Challenges: Begin Your Journey
 
 LAPTOPS
 
