@@ -17,7 +17,7 @@
 *   Profile
 *   Sign Out
 
-Search Location CareerBuilder: Find the right job. Right now. Search Location Recent Searches No Recent Searches Add your resume and let your next job find you. Add Your Resume Employers are using these keywords to search for candidates: C++ (Programming Language) Bookkeeping Ibm Websphere Application Server Customer Relationship Management C Sharp (Programming Language) Mortgage Loans Micro Station Financial Statements Customer Service Enterprise Resource Planning Quick Links Resumes Cover Letters Saved &. Applied Jobs Saved Searches Profile Job Recommendations
+Search Location CareerBuilder: Find the right job. Right now. Search Location Recent Searches No Recent Searches Add your resume and let your next job find you. Add Your Resume Employers are using these keywords to search for candidates: Ibm Websphere Application Server Mortgage Loans Financial Statements Enterprise Resource Planning Cisco Certified Network Associate Microsoft Excel Windows Power Shell Finance Salesforce.Com Marketing Quick Links Resumes Cover Letters Saved &. Applied Jobs Saved Searches Profile Job Recommendations
 
 No job recommendations yet, but opportunity is out there!
 
@@ -118,4 +118,4 @@ Search on the Go
 
 © 2017 CareerBuilder, LLC. All rights reserved.
 
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=651028534974288&amp;ev=PageView&amp;noscript=1">.
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=651028534974288&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
