@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Sunday, October 8, 2017  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Monday, October 9, 2017  
 
 DEBKAfile
 
@@ -46,102 +46,13 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
-*   Gunman killed after deadly attack at Jeddah palace gate
+*   A rocket from Gaza explodes in Eshkol region
     
-    Oct 07, 2017 @ 22:58
+    Oct 08, 2017 @ 21:02
     
-*   IDF denies rockets from Gaza landed at Hof Ashkelon
+*   Two Palestinians suspects detained in Reuven Shmerling murder
     
-    Oct 07, 2017 @ 21:45
-    
-*   Eleven injured in central London by car which drove onto a pavement
-    
-    Oct 07, 2017 @ 17:15
-    
-*   Iran’s president defends 2015 nuclear deal
-    
-    Oct 07, 2017 @ 15:07
-    
-*   Continuing Russian air strikes kill 180 ISIS terrorists
-    
-    Oct 07, 2017 @ 12:59
-    
-*   US lifts most sanctions on Sudan, leaves its terror sponsorship status
-    
-    Oct 07, 2017 @ 12:16
-    
-*   US approves $15bn sale of THAADs to Saudi Arabia
-    
-    Oct 07, 2017 @ 12:14
-    
-*   Trump and Macron discuss anti-terror ops in Sahe
-    
-    Oct 07, 2017 @ 11:52
-    
-*   Breakthrough in Shmerling murder uncovers Palestinian terror
-    
-    Oct 06, 2017 @ 22:37
-    
-*   Iran denies report that its missile program is open to negotiation
-    
-    Oct 06, 2017 @ 22:28
-    
-
-*   US approves $15bn sale of THAADs to Saudi Arabia
-    
-    Oct 07, 2017 @ 12:14
-    
-*   Trump and Macron discuss anti-terror ops in Sahe
-    
-    Oct 07, 2017 @ 11:52
-    
-*   Breakthrough in Shmerling murder uncovers Palestinian terror
-    
-    Oct 06, 2017 @ 22:37
-    
-*   Iran denies report that its missile program is open to negotiation
-    
-    Oct 06, 2017 @ 22:28
-    
-*   Gunman killed after deadly attack at Jeddah palace gate
-    
-    Oct 07, 2017 @ 22:58
-    
-*   IDF denies rockets from Gaza landed at Hof Ashkelon
-    
-    Oct 07, 2017 @ 21:45
-    
-*   Eleven injured in central London by car which drove onto a pavement
-    
-    Oct 07, 2017 @ 17:15
-    
-*   Iran’s president defends 2015 nuclear deal
-    
-    Oct 07, 2017 @ 15:07
-    
-*   Continuing Russian air strikes kill 180 ISIS terrorists
-    
-    Oct 07, 2017 @ 12:59
-    
-*   US lifts most sanctions on Sudan, leaves its terror sponsorship status
-    
-    Oct 07, 2017 @ 12:16
-    
-*   US approves $15bn sale of THAADs to Saudi Arabia
-    
-    Oct 07, 2017 @ 12:14
-    
-*   Trump and Macron discuss anti-terror ops in Sahe
-    
-    Oct 07, 2017 @ 11:52
-    
-*   Breakthrough in Shmerling murder uncovers Palestinian terror
-    
-    Oct 06, 2017 @ 22:37
-    
-*   Iran denies report that its missile program is open to negotiation
-    
-    Oct 06, 2017 @ 22:28
+    Oct 08, 2017 @ 17:42
     
 *   Gunman killed after deadly attack at Jeddah palace gate
     
@@ -160,7 +71,64 @@ Breaking news
     Oct 07, 2017 @ 15:07
     
 
-123PrevNext DEBKA Video
+*   Gunman killed after deadly attack at Jeddah palace gate
+    
+    Oct 07, 2017 @ 22:58
+    
+*   IDF denies rockets from Gaza landed at Hof Ashkelon
+    
+    Oct 07, 2017 @ 21:45
+    
+*   Eleven injured in central London by car which drove onto a pavement
+    
+    Oct 07, 2017 @ 17:15
+    
+*   Iran’s president defends 2015 nuclear deal
+    
+    Oct 07, 2017 @ 15:07
+    
+*   A rocket from Gaza explodes in Eshkol region
+    
+    Oct 08, 2017 @ 21:02
+    
+*   Two Palestinians suspects detained in Reuven Shmerling murder
+    
+    Oct 08, 2017 @ 17:42
+    
+*   Gunman killed after deadly attack at Jeddah palace gate
+    
+    Oct 07, 2017 @ 22:58
+    
+*   IDF denies rockets from Gaza landed at Hof Ashkelon
+    
+    Oct 07, 2017 @ 21:45
+    
+*   Eleven injured in central London by car which drove onto a pavement
+    
+    Oct 07, 2017 @ 17:15
+    
+*   Iran’s president defends 2015 nuclear deal
+    
+    Oct 07, 2017 @ 15:07
+    
+*   A rocket from Gaza explodes in Eshkol region
+    
+    Oct 08, 2017 @ 21:02
+    
+*   Two Palestinians suspects detained in Reuven Shmerling murder
+    
+    Oct 08, 2017 @ 17:42
+    
+*   Gunman killed after deadly attack at Jeddah palace gate
+    
+    Oct 07, 2017 @ 22:58
+    
+*   IDF denies rockets from Gaza landed at Hof Ashkelon
+    
+    Oct 07, 2017 @ 21:45
+    
+
+12PrevNext DEBKA Video
 
 TagsAl Qaeda Americas Ayatollah Ali Khamenei Barack Obama Bashar Assad Bin Laden Terror Binyamin Netanyahu chemical weapons Donald Trump Egypt Erdogan Gaza Golan Hamas Hizballah IDF Intelligence Iran Iran nuclear Iraq Iraq war ISIS Israel John Kerry Jordan Lebanon Libya Muslim Brotherhood Palestinians Russia Saudi Arabia Syria Syrian rebels Syrian war Terror Terrorism Turkey US US-Iran Vladimir Putin Search  
   
