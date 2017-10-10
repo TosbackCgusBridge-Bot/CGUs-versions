@@ -535,6 +535,5 @@ About Us
 Stay Connected
 
 *   Live ChatCall Us
-*   Refer-A- Friend
 
 © 2017 Aeropostale. All Rights Reserved.
