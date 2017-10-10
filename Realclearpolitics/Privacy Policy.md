@@ -110,53 +110,53 @@
     *   About
     *   Media Kit
 
-*   _Larry Kudlow_: Kevin Hassett Spanks the Tax Policy Center
+*   _Lee Smith_: Why the Harvey Weinstein Story Is Worse Than You Think
     
-*   _Noah Rothman_: How to Manipulate a Democrat
+*   _Graham Vyse_: Don't Let the NRA Control the Conversation
     
-*   _Ezra Klein_: Harvey Weinstein, Milo Yiannopoulos, and the Era of Unleashing
+*   _Mollie Hemingway_: Scalise vs. Uninformed, Partisan Activist Chuck Todd
     
-*   _Wesley Pruden_: Without Bombast or Bravado, a Presidential President
+*   _Mark Stern_: Pence Has Become Trump's Pathetic Prop
     
-*   _Chris Cillizza_: Trump Treating a Potential War Like a Reality Show Cliffhanger
+*   _Joel Kotkin_: Bottom Line: The Culture Wars Are Bad for Business
     
-*   _Megan McArdle_: Debt Alone Won't Crush Puerto Rico. Depopulation Will.
+*   _James Varney_: Whatever Became of the Obama Scandals?
     
-*   _Bill Scher_: Who Will Lead the Left on Gun Control?
+*   _Amanda Marcotte_: 20-Week Abortion Ban Is Pure Anti-Woman Propaganda
     
-*   _Meredith Dake-O'Connor_: Your Right-Wing Friend Won't Budge on Gun Laws
+*   _Naomi Schaefer Riley_: Easy Abortion Is a Winner for Sleazy Men
     
-*   _Michael Ledeen_: The Separatist Wave: Kurdistan, Catalonia, Brexit
+*   _Nitsuh Abebe_: The Golden Age of Existential Dread
     
-*   _Varoufakis & Galbraith_: Why Europe Needs a New Deal, Not Breakup
+*   _William Murray_: Puerto Rico Can Move Forward--Without the Jones Act
     
-*   _Paul Farhi_: Four Years Later, IRS Tea Party 'Scandal' Looks Different
+*   _Marianna Belenkaya_: After Two Years in Syria, What's Next for Russia?
     
-*   _Jenny Beth Martin_: Trump, Show No Mercy in Terminating John Koskinen
+*   _Michael Hirsh_: The Case for Brinksmanship With North Korea
     
-*   _David Ignatius_: Trump's Geopolitical Straddle in Iran
+*   _Jeffrey Frank_: Trump and the Art of Irrational Provocation
     
-*   _Stephen Hayes &. Michael Warren_: The Art of Decertifying the Iran Deal
+*   _Michael Caputo_: Why Taking the Knee Stomps on My Foot
     
-*   _Gloria Borger_: Trump and His Cabinet Are Stuck in an Awkward Embrace
+*   _Nancy Armour_: Real Mockery of National Anthem Was by Mike Pence
     
-*   _Theodore Dalrymple_: Stephen Paddock and the Unanswerable
+*   _Jean Yarbrough_: Trump--and Tocqueville?
     
-*   _Timothy Egan_: The Cancer in the Constitution
+*   _Rep. Michael McCaul_: We Are Now One Step Closer to Securing Our Borders
     
-*   _David French_: The Misguided, Ineffectual Moral Superiority of Gun Controllers
+*   _Larry Summers_: America's Tax Plan Is Not Worth Its Name
     
-*   _Kurt Andersen_: America's Gun Fantasy
+*   _Deroy Murdock_: Trump's Giant, Beautiful, Simple Tax Cut
     
-*   _James Arkin_: Dems, GOP Weigh Investment in Alabama Senate Race
+*   _Sharon Waxman_: Weinstein's Media Enablers? NY Times Is One of Them
     
-*   _Melissa Mackenzie_: Harvey Weinstein: Clinton Friend, Fundraiser, Sexist Pig
+*   _Charles Blow_: Attacking Media as Distraction
     
-*   _Ryan Lizza_: The Secrecy Undermining the Senate's Russia Probe
+*   _Matthew Boyle_: Nationalists Plan Anti-Establishment Midterm Tsunami
     
-*   _Byron York_: 10 Reasons to Stay Calm About the Russia Facebook Ads
+*   _Robert Kuttner_: Steve Bannon, Unleashed
     
-*   _Scott Jennings_: Will GOP Gadflies Sink Popular Tax Reform?
+*   _Doug Sosnik_: Trump Is on Track to Win Reelection
     
 
 *   Previous
@@ -259,10 +259,10 @@ RecommendedPolitics
 *   Investigations
 
 *   Dems, Republicans Weigh Investment in Alabama Senate Race
+*   White House Makes Hard-Line Demands for Deal on DACA
+*   "Special Report": VA Race for Governor Turns Focus to Gun Control
 *   Blackburn Enters TN Senate Race, Highlights Support for Trump
-*   Trump Warns: "Maybe It Is the Calm Before the Storm"
 *   Could Mississippi Be the Next Alabama?
-*   Trump Meets Survivors at Las Vegas Hospital, Honors Their Bravery
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -280,23 +280,23 @@ Latest PollsAll Polls
 *   Virginia Governor - Gillespie vs. NorthamEmerson\*
     *   Northam49
     *   Gillespie44Northam +5
+*   Virginia Governor - Gillespie vs. NorthamChristopher Newport Univ.\*
+    *   Northam49
+    *   Gillespie42Northam +7
 *   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove57Disapprove +19
-*   Michigan Senate - Kid Rock vs. StabenowMitchell/Rosetta Stone
-    *   Stabenow46
-    *   Kid Rock38Stabenow +8
+    *   Approve37
+    *   Disapprove56Disapprove +19
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove53Disapprove +7
+    *   Approve44
+    *   Disapprove55Disapprove +11
 
 More Latest Polls In The News
 
-*   Dem Rep. Seth Moulton Debates GOP Rep. Scott Taylor on Gun Control, Regulation
-*   Feinstein: "Not Sure There Is Any Set Of Laws" That Could Have Prevented Las Vegas Shooting
-*   NRA's Wayne LaPierre: Hollywood Elites Make Billions Teaching Irresponsible Use Of Firearms
-*   Maher Lashes Out At Dems For Over-Regulation: "It Makes People Hate Us, It Makes Me Hate Us"
-*   Bishop Aubrey Shines To NFL, NBA Players: "You Have Been Bamboozled," Stop Being Pawns, Flunkies, And Stooges
+*   Bannon Declares War On GOP Establishment: "We're Coming After All Of Them And We're Going To Win"
+*   Hume: If Pence Performed A Stunt, So Are NFL Players. Either Both Are Stunts Or Neither Are
+*   'The View' On Quiet Hollywood Reaction To Harvey Weinstein: "People Are Assessing," "Give It A Minute"
+*   Scarborough: Pence Leaving Colts Game Was A "Stunt," "Much Worse Than Bridgegate"
+*   Veterans Dem Rep. Seth Moulton and GOP Rep. Scott Taylor Debate Gun Control, Regulation
 
 *   Politics
 *   Policy
