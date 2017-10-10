@@ -1,5 +1,4 @@
-*   KC?3HOU01st ? 02:49
-*   MIN2-2CHI1-3Mon 8:30 PM ET
+*   Big Play HighlightJ.McKinnon 58-yard TD runWatch NowMIN?17CHI174th ? 10:46
 *   NE19TB14Final
 *   BUF16CIN20Final
 *   NYJ17CLE14Final
@@ -12,6 +11,7 @@
 *   SEA16LA10Final
 *   BAL30OAK17Final
 *   GB35DAL31Final
+*   KC42HOU34Final
 
 *   News
 *   Scores
