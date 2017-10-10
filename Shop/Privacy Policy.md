@@ -236,11 +236,14 @@
         
         *   BUSINESSES | ENTERPRISES | GOVERNMENT | SCHOOLS
         *   PERSONAL | Home Office
+        *   Service Parts
         
         *   *   Explore All Services >.
         *   *   Business >.
         
         *   *   Consumer >.
+        
+        *   *   Service Parts >.
         
 *   Deals
     
@@ -267,6 +270,7 @@
     *   Sales Enquiries
     *   Order Support
     *   Technical Support
+    *   Service Parts
 *   Solutions
     *   OEM Solutions
     *   Small Business
@@ -346,7 +350,55 @@ ThinkPad X1 Tablet
 
 Power through your whole day, with the tablet that includes a full-sized, detachable keyboard and stylus.
 
-Star Wars Jedi Challenges: Begin Your Journey
+Star Wars Jedi Challenges: Begin Your Journey Recommended For You Best Seller ThinkPad X1 Carbon (5th gen)
+
+★★★★★ ★★★★★
+
+3.8
+
+(59)
+
+$1169.25
+
+Shop Now
+
+2483Viewing Best Seller ThinkPad T470 Business Laptop
+
+★★★★★ ★★★★★
+
+3.3
+
+(13)
+
+$734.25
+
+Shop Now
+
+1197Viewing Best Seller Lenovo YOGA 910
+
+★★★★★ ★★★★★
+
+4.1
+
+(396)
+
+$999.99
+
+Shop Now
+
+1556Viewing Best Seller ThinkPad X1 Yoga (2nd Gen)
+
+★★★★★ ★★★★★
+
+3.8
+
+(30)
+
+$1401.75
+
+Shop Now
+
+967Viewing
 
 LAPTOPS
 
@@ -418,7 +470,6 @@ Laptops Tablets Desktops Deals Chat Laptops Tablets Desktops Deals Chat Select C
     *   Business Leasing
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 *   SHOP BY INDUSTRY
-    *   Home &. Home Office
     *   Small Business Store
     *   Large Enterprise
     *   Government
