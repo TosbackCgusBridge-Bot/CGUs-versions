@@ -1,3 +1,5 @@
+AdBlock Test
+
 *   Policy
 *   Markets
 *   World
@@ -110,53 +112,53 @@
     *   About
     *   Media Kit
 
-*   _Lee Smith_: Why the Harvey Weinstein Story Is Worse Than You Think
+*   _Bob McManus_: The Weinstein Silence
     
-*   _Graham Vyse_: Don't Let the NRA Control the Conversation
+*   _Ronan Farrow_: Harvey Weinstein's Accusers Tell Their Stories
     
-*   _Mollie Hemingway_: Scalise vs. Uninformed, Partisan Activist Chuck Todd
+*   _Randall Lane_: Inside Donald Trump's Head: An Interview With the President
     
-*   _Mark Stern_: Pence Has Become Trump's Pathetic Prop
+*   _Paul Waldman_: It's Time for Republicans to Come Clean on Trump
     
-*   _Joel Kotkin_: Bottom Line: The Culture Wars Are Bad for Business
+*   _Ira Stoll_: Trump's Feud With the Press Proves 'Dangerous'--But to Whom?
     
-*   _James Varney_: Whatever Became of the Obama Scandals?
+*   _David Leonhardt_: Gary Cohn and Steven Mnuchin Risk Their Reputations
     
-*   _Amanda Marcotte_: 20-Week Abortion Ban Is Pure Anti-Woman Propaganda
+*   _Steve Cortes_: Drain the Swamp at the Fed
     
-*   _Naomi Schaefer Riley_: Easy Abortion Is a Winner for Sleazy Men
+*   _Lee Drutman_: Identity Politics Is Solution for Dems, Not the Problem
     
-*   _Nitsuh Abebe_: The Golden Age of Existential Dread
+*   _David Harsanyi_: Twitter Would Be Wise to Stay Out of Abortion Politics
     
-*   _William Murray_: Puerto Rico Can Move Forward--Without the Jones Act
+*   _Bergen et al._: Google and Facebook Scramble to Hold Washington at Bay
     
-*   _Marianna Belenkaya_: After Two Years in Syria, What's Next for Russia?
+*   _Carl Cannon_: Powering Las Vegas: The Dam That Lit Up the Desert
     
-*   _Michael Hirsh_: The Case for Brinksmanship With North Korea
+*   _Norm Ornstein_: American Kakistocracy
     
-*   _Jeffrey Frank_: Trump and the Art of Irrational Provocation
+*   _Noemie Emery_: Who's Breaking America's Norms Now?
     
-*   _Michael Caputo_: Why Taking the Knee Stomps on My Foot
+*   _Damon Linker_: This Is the America We Deserve
     
-*   _Nancy Armour_: Real Mockery of National Anthem Was by Mike Pence
+*   _John Merline_: What Is 'Patriotic' These Days? A Guide For The Perplexed
     
-*   _Jean Yarbrough_: Trump--and Tocqueville?
+*   _Eugene Robinson_: Our Democracy Could Be Sunk by a President Adrift
     
-*   _Rep. Michael McCaul_: We Are Now One Step Closer to Securing Our Borders
+*   _Jeffrey Lord_: Dear Bob Corker: Please Go Now
     
-*   _Larry Summers_: America's Tax Plan Is Not Worth Its Name
+*   _Jake Coyle_: In Weinstein's Downfall, a Moment of Reckoning for Hollywood
     
-*   _Deroy Murdock_: Trump's Giant, Beautiful, Simple Tax Cut
+*   _Maureen Callahan_: No One Knew About Harvey? Give Me a Break
     
-*   _Sharon Waxman_: Weinstein's Media Enablers? NY Times Is One of Them
+*   _Bradner_: Inside Steve Bannon's War Against Mitch McConnell
     
-*   _Charles Blow_: Attacking Media as Distraction
+*   _Alan Greenblatt_: Are Democrats Headed for a McGovern Redux?
     
-*   _Matthew Boyle_: Nationalists Plan Anti-Establishment Midterm Tsunami
+*   _Pat Buchanan_: Trump Embraces the Culture Wars
     
-*   _Robert Kuttner_: Steve Bannon, Unleashed
+*   _Ezra Klein_: The President Needs to Distract From the Awful Job He's Doing
     
-*   _Doug Sosnik_: Trump Is on Track to Win Reelection
+*   _Frank Miniter_: The Democrats' IT Scandal Just Got Even More Bizarre
     
 
 *   Previous
@@ -258,11 +260,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Dems, Republicans Weigh Investment in Alabama Senate Race
+*   Democrats Reject White House Immigration Proposal
+*   Missouri Republican Hawley Announces Run for Senate
+*   Bannon Declares War on Republican Establishment: "Nobody Is Safe"
 *   White House Makes Hard-Line Demands for Deal on DACA
-*   "Special Report": VA Race for Governor Turns Focus to Gun Control
-*   Blackburn Enters TN Senate Race, Highlights Support for Trump
-*   Could Mississippi Be the Next Alabama?
+*   Dems, Republicans Weigh Investment in Alabama Senate Race
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -277,26 +279,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Virginia Governor - Gillespie vs. NorthamEmerson\*
-    *   Northam49
-    *   Gillespie44Northam +5
-*   Virginia Governor - Gillespie vs. NorthamChristopher Newport Univ.\*
-    *   Northam49
-    *   Gillespie42Northam +7
 *   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove56Disapprove +19
+    *   Approve36
+    *   Disapprove58Disapprove +22
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove55Disapprove +11
+    *   Approve43
+    *   Disapprove56Disapprove +13
+*   President Trump Job ApprovalIBD/TIPP
+    *   Approve33
+    *   Disapprove61Disapprove +28
+*   Direction of CountryIBD/TIPP
+    *   Right Direction35
+    *   Wrong Track64Wrong Track +29
 
 More Latest Polls In The News
 
+*   'Project Veritas' Targets New York Times: Video Editor Caught On Film Bragging About Anti-Trump Bias
 *   Bannon Declares War On GOP Establishment: "We're Coming After All Of Them And We're Going To Win"
 *   Hume: If Pence Performed A Stunt, So Are NFL Players. Either Both Are Stunts Or Neither Are
 *   'The View' On Quiet Hollywood Reaction To Harvey Weinstein: "People Are Assessing," "Give It A Minute"
-*   Scarborough: Pence Leaving Colts Game Was A "Stunt," "Much Worse Than Bridgegate"
-*   Veterans Dem Rep. Seth Moulton and GOP Rep. Scott Taylor Debate Gun Control, Regulation
+*   Trump Digital Director to '60 Minutes': A "Farce" That Campaign Colluded With Russia
 
 *   Politics
 *   Policy
