@@ -219,7 +219,6 @@ About Us
 
 *   In The News
 *   Our Blog
-*   Traditions Matter
 *   No Kid Hungry®
 
 Contact Us
@@ -235,4 +234,4 @@ Business Accounts
 *   1.800.715.1474
 *   Email Us
 
-PRIVACY POLICY TERMS OF USE SITE MAP © 2017 ALL RIGHTS RESERVED.
+PRIVACY POLICY TERMS OF USE SITE MAP © 2017 ALL RIGHTS RESERVED. Feedback
