@@ -1,4 +1,3 @@
-*   Big Play HighlightJ.McKinnon 58-yard TD runWatch NowMIN?17CHI174th ? 10:46
 *   NE19TB14Final
 *   BUF16CIN20Final
 *   NYJ17CLE14Final
@@ -12,6 +11,7 @@
 *   BAL30OAK17Final
 *   GB35DAL31Final
 *   KC42HOU34Final
+*   MIN20CHI17Final
 
 *   News
 *   Scores
