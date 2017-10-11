@@ -130,6 +130,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   High Waisted Jegging
 *   Low Rise Jegging
 *   Girlfriend
+*   Boyfriend
 *   Skinny
 *   Bootcut
 
@@ -264,7 +265,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**COLUMBUS DAY SALE!** + **FREE SHIPPING ON $75**
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **COLUMBUS DAY SALE!** + **FREE SHIPPING ON $75**
 
 *   My Account My Account Login Register
 
@@ -361,6 +362,7 @@ Menu Find a Store Aeropostale
         *   High Waisted Jegging
         *   Low Rise Jegging
         *   Girlfriend
+        *   Boyfriend
         *   Skinny
         *   Bootcut
     
@@ -536,4 +538,4 @@ Stay Connected
 
 *   Live ChatCall Us
 
-© 2017 Aeropostale. All Rights Reserved.
+© 2017 Aeropostale. All Rights Reserved. close dialogGive us your email to snag10% OFFPlease enter aboveUNLOCK 10% OFFI DON'T WANT 10% OFFYOU’VE SNAGGED 10% OFFUse CodeBEX-WD9L39FX93GVat checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
