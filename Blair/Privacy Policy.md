@@ -297,4 +297,4 @@ Check Gift Card Balance
 Place Catalog Order  
 Request a Catalog  
 VIP Plus Loyalty Program  
-© BLAIR 2000-2017 | 220 Hickory St., Warren, PA 16366 Processing...
+© BLAIR 2000-2017 | 220 Hickory St., Warren, PA 16366
