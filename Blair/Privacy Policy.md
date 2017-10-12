@@ -1,8 +1,6 @@
-  Offer Details
+    Offer Details
 
 Use promotion code **BQBG** at checkout for 99¢ standard shipping on each item in your Blair order. Additional shipping charges apply for express, heavyweight and deliveries outside the continental US. This offer cannot be combined with other offers. not valid on previously placed or international orders. good online only through October 15, 2017.
-
- 
 
 Shop your favorite stores and discover new ones  
   
