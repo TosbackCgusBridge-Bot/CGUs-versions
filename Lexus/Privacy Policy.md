@@ -11,7 +11,7 @@
 
 MENU **IS**
 
-*   Starting at $37,8251\*
+*   Starting at $38,2101\*
 *   2.0L I-4 or 3.5L V6
 
 *   Build
@@ -151,15 +151,7 @@ COMPARE **RC**
 
 SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
-COMPARE **CT HYBRID**
-
-*   Starting at $31,2501\*
-*   42-MPG combined rating6\*
-
-*   Build
-*   Current Offers
-
-**NX HYBRID**
+COMPARE **NX HYBRID**
 
 *   Starting at $38,3351\*
 *   31-MPG combined rating2\*
@@ -344,8 +336,6 @@ click here Important Info Important Info
 \[4\] 2016 RX 450h (AWD) EPA 30/28/30 city/hwy/combined mpg estimates. Actual mileage will vary.
 
 \[5\] MSRP does not include delivery, processing and handling fee of $1,195. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
-
-\[6\] 2017 EPA 43/40/42 city/hwy/combined mpg estimates. Actual mileage will vary.
 
 Leasing &. Finance
 
