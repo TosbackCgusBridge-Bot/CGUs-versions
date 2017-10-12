@@ -266,6 +266,10 @@
             
             Get these deals before they're gone
             
+        *   Yoga 910 Star Wars Glass
+            
+            Where Does Your Loyalty Lie?
+            
 *   Support
     *   Sales Enquiries
     *   Order Support
@@ -321,34 +325,34 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers THE WORLD’S BEST LAPTOP JUST TURNED 25
+Home >. Filter by specs Offers T470s
 
-COMMEMORATE WITH OUR ANNIVERSARY SALE! 25% OFF THROUGH OCT 11.
+Boost Your Productivity With Performance You Can Count On
 
-Save now >.
+Shop now >.
 
-THIS IS NOT A LAPTOP. IT'S A THINKPAD
+When inspiration strikes, strike back
 
-Celebrate >.
+Shop Now >.
 
 *   1
 *   2
 
-Daily Deal
+Weekly Deals
 
-Our best price of the season on a new product bundle each day!
+Great deals on select products.
 
-25 Years up to 25% off
+2017 Is All Business
 
-Hey Business Owners, celebrate 25 years of ThinkPad with up to 25% off ThinkPad devices.
+Devices, resources, and special VIP deals that can make a difference for your business.
 
-Accessories up to 50% off
+ThinkCentre M710 Tiny
 
-Pick up matching keyboards, docks, monitors, cases and more at huge savings!
+96% smaller than a traditional desktop
 
-ThinkPad X1 Tablet
+THINKAGILE VX SERIES
 
-Power through your whole day, with the tablet that includes a full-sized, detachable keyboard and stylus.
+This is the future-defined data center
 
 Star Wars Jedi Challenges: Begin Your Journey
 
