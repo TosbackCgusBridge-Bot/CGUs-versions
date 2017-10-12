@@ -1,4 +1,4 @@
-Free Standard Shipping on Orders $99 $59+ Shipped to U.S. with code CC59\*\*1-800-REPLACE (1-800-737-5223)1-800-737-5223 Free Standard U.S. Shipping Orders $59+ with code CC59\*\* 1-800-737-5223 Sign In / Create Account Home China - Dinnerware
+Free Standard U.S. Shipping Every Day on Orders $99+\*1-800-REPLACE (1-800-737-5223)1-800-737-5223 Free Standard U.S. Shipping Orders $99+\*1-800-737-5223 Sign In / Create Account Home China - Dinnerware
 
 *   Brands A-Z
 *   Register Your Pattern
