@@ -58,9 +58,11 @@ Questions/Comments
 
 Send me emails containing marketing messages from Conversant and our affiliates.
 
-GIVE EACH CONSUMER  
-THEIR OWN REASON  
-TO LOVE YOUR BRAND What We Do Watch Video
+CONNECTING  
+BRANDS TO  
+MILLIONS OF REAL  
+PEOPLE BETTER  
+THAN ANYONE What We Do Watch Video
 
 *   160+ MILLION Real People You Can  
     Message Right Now
