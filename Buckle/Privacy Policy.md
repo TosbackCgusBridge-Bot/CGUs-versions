@@ -8,7 +8,7 @@
 *   Men
 *   Kids
 *   Jeans
-*   Trending
+*   New
 *   Sale
 
 *   Search
@@ -17,7 +17,7 @@
     *   Login
     *   |
     *   Register
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   0MY FAVORITES
 *   MY BAG
@@ -89,9 +89,9 @@
         
           
           
-        Give a Buckle Gift card BARE YOUR BRALETTE TO RAISE AWARENESS FOR BREAST CANCER PREVENTION &. EARLY DETECTION!  
-        $1 from every bralette purchased in October will be contributed to the American Cancer Society.  
-        SHOP BRALETTES | LEARN MORE
+        Give a Buckle Gift card BUCKLE BELIEVES IN SAVING LIVES FROM BREAST CANCER.  
+        A portion of the proceeds from select merchandise will be contributed to breast cancer foundations.  
+        SHOP WOMEN'S | SHOP MEN'S | LEARN MORE
 *   Men
     *   *   Featured
         
@@ -153,9 +153,9 @@
         
           
           
-        Give a Buckle Gift card BARE YOUR BRALETTE TO RAISE AWARENESS FOR BREAST CANCER PREVENTION &. EARLY DETECTION!  
-        $1 from every bralette purchased in October will be contributed to the American Cancer Society.  
-        SHOP BRALETTES | LEARN MORE
+        Give a Buckle Gift card BUCKLE BELIEVES IN SAVING LIVES FROM BREAST CANCER.  
+        A portion of the proceeds from select merchandise will be contributed to breast cancer foundations.  
+        SHOP WOMEN'S | SHOP MEN'S | LEARN MORE
 *   Kids
     *   *   Featured
         
@@ -176,9 +176,9 @@
         *   Bottoms
         *   Shop All
         
-        Give a Buckle Gift card BARE YOUR BRALETTE TO RAISE AWARENESS FOR BREAST CANCER PREVENTION &. EARLY DETECTION!  
-        $1 from every bralette purchased in October will be contributed to the American Cancer Society.  
-        SHOP BRALETTES | LEARN MORE
+        Give a Buckle Gift card BUCKLE BELIEVES IN SAVING LIVES FROM BREAST CANCER.  
+        A portion of the proceeds from select merchandise will be contributed to breast cancer foundations.  
+        SHOP WOMEN'S | SHOP MEN'S | LEARN MORE
 *   Jeans
     *   *   Women's Jeans
         
@@ -209,10 +209,10 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card BARE YOUR BRALETTE TO RAISE AWARENESS FOR BREAST CANCER PREVENTION &. EARLY DETECTION!  
-        $1 from every bralette purchased in October will be contributed to the American Cancer Society.  
-        SHOP BRALETTES | LEARN MORE
-*   Trending
+        Give a Buckle Gift card BUCKLE BELIEVES IN SAVING LIVES FROM BREAST CANCER.  
+        A portion of the proceeds from select merchandise will be contributed to breast cancer foundations.  
+        SHOP WOMEN'S | SHOP MEN'S | LEARN MORE
+*   New
     *   *   Featured New
         
         *   Fall Checklist
@@ -252,9 +252,9 @@
         *   Shop All Girl's New
         *   Shop All Boy's New
         
-        Give a Buckle Gift card BARE YOUR BRALETTE TO RAISE AWARENESS FOR BREAST CANCER PREVENTION &. EARLY DETECTION!  
-        $1 from every bralette purchased in October will be contributed to the American Cancer Society.  
-        SHOP BRALETTES | LEARN MORE
+        Give a Buckle Gift card BUCKLE BELIEVES IN SAVING LIVES FROM BREAST CANCER.  
+        A portion of the proceeds from select merchandise will be contributed to breast cancer foundations.  
+        SHOP WOMEN'S | SHOP MEN'S | LEARN MORE
 *   Sale
     *   *   Women's Sale
         
@@ -297,9 +297,9 @@
         
           
           
-        Give a Buckle Gift card BARE YOUR BRALETTE TO RAISE AWARENESS FOR BREAST CANCER PREVENTION &. EARLY DETECTION!  
-        $1 from every bralette purchased in October will be contributed to the American Cancer Society.  
-        SHOP BRALETTES | LEARN MORE
+        Give a Buckle Gift card BUCKLE BELIEVES IN SAVING LIVES FROM BREAST CANCER.  
+        A portion of the proceeds from select merchandise will be contributed to breast cancer foundations.  
+        SHOP WOMEN'S | SHOP MEN'S | LEARN MORE
 
 SearchSubmitToggle Main MenuSearchSubmit × ClosePrivacy &. Security
 
