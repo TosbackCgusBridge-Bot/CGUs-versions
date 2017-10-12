@@ -12,7 +12,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Injury Updates
     *   Transactions
     *   Hall of Fame
-    *   History
+    *   Postseason history
     *   World Series
     *   Events
     *   MLB Draft
@@ -40,7 +40,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Statcast
     *   MLB Network
     *   #MLBmemorybank
-    *   120 Sports
+    *   Stadium
     *   Podcasts
     *   Alternative Audio
     *   Most Popular
@@ -53,7 +53,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Chatting Cage
     *   Carry The Freight
     *   FastCast
-    *   Sharable Video/GIFs
+    *   Share Video/GIFs
     *   Outstandings
     *   Cut4
     *   Baseball's Best
