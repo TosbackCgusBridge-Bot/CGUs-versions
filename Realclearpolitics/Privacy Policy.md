@@ -1,5 +1,3 @@
-AdBlock Test
-
 *   Policy
 *   Markets
 *   World
@@ -112,53 +110,53 @@ AdBlock Test
     *   About
     *   Media Kit
 
-*   _Bob McManus_: The Weinstein Silence
+*   _Niall Stanage_: Republicans Fear Aftershocks From Trump-Corker Feud
     
-*   _Ronan Farrow_: Harvey Weinstein's Accusers Tell Their Stories
+*   _Michael Goodwin_: Dems Must Find Way to Compromise on Border Wall
     
-*   _Randall Lane_: Inside Donald Trump's Head: An Interview With the President
+*   _Paul Krugman_: Virginia Is for Haters
     
-*   _Paul Waldman_: It's Time for Republicans to Come Clean on Trump
+*   _David Freddoso_: Republicans Score Top Recruit in Missouri Senate Race
     
-*   _Ira Stoll_: Trump's Feud With the Press Proves 'Dangerous'--But to Whom?
+*   _Katrina vanden Heuvel_: Why Democrats Need a 50-State Strategy
     
-*   _David Leonhardt_: Gary Cohn and Steven Mnuchin Risk Their Reputations
+*   _Lloyd Grove_: How NBC 'Killed' Ronan Farrow's Weinstein Expose
     
-*   _Steve Cortes_: Drain the Swamp at the Fed
+*   _Sharyl Attkisson_: Weinstein Allegations Aren't First Stories 'Spiked' by Media
     
-*   _Lee Drutman_: Identity Politics Is Solution for Dems, Not the Problem
+*   _Peder Zane_: After Las Vegas, Liberals Are Righteous &. Wrong
     
-*   _David Harsanyi_: Twitter Would Be Wise to Stay Out of Abortion Politics
+*   _Chris Cillizza_: Eminem Unleashes Primal Scream Felt by Many About Trump
     
-*   _Bergen et al._: Google and Facebook Scramble to Hold Washington at Bay
+*   _Andy Puzder_: Labor Market Thriving Far Better Under Trump Than Obama
     
-*   _Carl Cannon_: Powering Las Vegas: The Dam That Lit Up the Desert
+*   _Markham Heid_: We Need to Talk About Kids and Smartphones
     
-*   _Norm Ornstein_: American Kakistocracy
+*   _Rich Lowry_: Trump Is Overwriting Obama's Unlawful Green Schemes
     
-*   _Noemie Emery_: Who's Breaking America's Norms Now?
+*   _Amy Sorkin_: Pruitt and Trump Further Endanger the Planet
     
-*   _Damon Linker_: This Is the America We Deserve
+*   _Lee Smith_: Fusion GPS, Russia and the Corrupt U.S. Media
     
-*   _John Merline_: What Is 'Patriotic' These Days? A Guide For The Perplexed
+*   _Peter Beinart_: What Bob Corker Really Fears
     
-*   _Eugene Robinson_: Our Democracy Could Be Sunk by a President Adrift
+*   _Austin Bay_: Trump's North Korea Threat-Theater Is Working
     
-*   _Jeffrey Lord_: Dear Bob Corker: Please Go Now
+*   _Ian Buruma_: The North Korean Cult
     
-*   _Jake Coyle_: In Weinstein's Downfall, a Moment of Reckoning for Hollywood
+*   _Victor Davis Hanson_: Message vs. Messenger: The Trump Enigma
     
-*   _Maureen Callahan_: No One Knew About Harvey? Give Me a Break
+*   _Jill Lawrence_: Taxes &. Obamacare: Trump's Art-of-the-Deal Waterloos?
     
-*   _Bradner_: Inside Steve Bannon's War Against Mitch McConnell
+*   _Michelle Malkin_: Obama Lied. My Fourth Health Plan Died.
     
-*   _Alan Greenblatt_: Are Democrats Headed for a McGovern Redux?
+*   _Ed Dolan_: A Health Care Plan That's Universal and Bipartisan
     
-*   _Pat Buchanan_: Trump Embraces the Culture Wars
+*   _Kate Maltby_: Harvey Weinstein and His Enablers
     
-*   _Ezra Klein_: The President Needs to Distract From the Awful Job He's Doing
+*   _Roger Simon_: Harvey Weinstein Has Destroyed Hollywood--Now What?
     
-*   _Frank Miniter_: The Democrats' IT Scandal Just Got Even More Bizarre
+*   _Todd Hitt_: We Won't Be Rebuilding Houston Any Time Soon
     
 
 *   Previous
@@ -260,11 +258,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Democrats Reject White House Immigration Proposal
+*   Feinstein's Re-election Bid May Spur Challenge on Her Left
 *   Missouri Republican Hawley Announces Run for Senate
-*   Bannon Declares War on Republican Establishment: "Nobody Is Safe"
-*   White House Makes Hard-Line Demands for Deal on DACA
-*   Dems, Republicans Weigh Investment in Alabama Senate Race
+*   Trump to Corker: "I Inherited a Mess, But We're Fixing It"
+*   Democrats Reject White House Immigration Proposal
+*   In Weinstein's Downfall, a Moment of Reckoning for Hollywood
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -279,26 +277,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve38
+    *   Disapprove56Disapprove +18
 *   President Trump Job ApprovalGallup
-    *   Approve36
-    *   Disapprove58Disapprove +22
+    *   Approve37
+    *   Disapprove56Disapprove +19
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve43
     *   Disapprove56Disapprove +13
-*   President Trump Job ApprovalIBD/TIPP
-    *   Approve33
-    *   Disapprove61Disapprove +28
-*   Direction of CountryIBD/TIPP
-    *   Right Direction35
-    *   Wrong Track64Wrong Track +29
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve36
+    *   Disapprove59Disapprove +23
 
 More Latest Polls In The News
 
-*   'Project Veritas' Targets New York Times: Video Editor Caught On Film Bragging About Anti-Trump Bias
+*   Clinton on Weinstein: "I Was Sick, I Was Shocked". "Certainly" Didn't Know About His Sexual "Behavior"
+*   Assange on Russiagate: Rep. Adam Schiff Is "Not Credible," He Is "Being Trolled" By Roger Stone
+*   Friedman: Tillerson Is "Worst Sec Of State," Trump Is "Worst Foreign Policy Pres" In "Worst Time" In Post-War Era
+*   Newt Gingrich: Smug And "Morally Superior" Leftists "Are The People Orwell Wrote 1984 About"
 *   Bannon Declares War On GOP Establishment: "We're Coming After All Of Them And We're Going To Win"
-*   Hume: If Pence Performed A Stunt, So Are NFL Players. Either Both Are Stunts Or Neither Are
-*   'The View' On Quiet Hollywood Reaction To Harvey Weinstein: "People Are Assessing," "Give It A Minute"
-*   Trump Digital Director to '60 Minutes': A "Farce" That Campaign Colluded With Russia
 
 *   Politics
 *   Policy
@@ -335,13 +333,10 @@ Copyright © 2017 RealClearHoldings, LLC. ©2017 RealClearPolitics | Go to full 
 *   Science News✓
 *   RealClearEnergy Morning Volt✓
 *   World News✓
-*   Sports News✓
-*   Weekend Warmup✓
 *   Education Today✓
 *   RealClearHealth Morning Scan✓
 *   Europe Memo✓
 *   Mideast Memo✓
-*   RealClearFuture Dispatch✓
 *   Weekly Policy Picks✓
 *   RealClearPolicy Today✓
 *   RealClearReligion Today✓
