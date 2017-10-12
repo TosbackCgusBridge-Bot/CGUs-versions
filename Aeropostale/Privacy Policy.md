@@ -265,7 +265,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **COLUMBUS DAY SALE!** + **FREE SHIPPING ON $75**
+**COLUMBUS DAY SALE!** + **FREE SHIPPING ON $75**
 
 *   My Account My Account Login Register
 
@@ -475,26 +475,26 @@ Menu Find a Store Aeropostale
 
 *   Doorbuster
     
-    LLD Logo Stripe 90's Wide-Leg Sweatpants $44.50 $9.90
-*   LLD Lace Strappy Cross-Back Bralette $24.50 $10.00
+    LLD Logo Stripe 90's Wide-Leg Sweatpants $44.50
+*   LLD Lace Strappy Cross-Back Bralette $24.50
 *   Doorbuster
     
-    Long Sleeve Lettuce-Edge Layering Tee $32.50 $9.90
+    Long Sleeve Lettuce-Edge Layering Tee $32.50
 *   Buy 1 Get 1 Free Seriously Stretchy Light Wash Blasted Knee High-Waisted Ankle Jegging $54.50
-*   Hooded Puffer Vest $59.50 $25.00
-*   Polyfleece Quarter-Zip Pullover Jacket $49.50 $19.80
-*   Long Sleeve Heathered Check Woven Shirt $44.50 $14.00
+*   Hooded Puffer Vest $59.50
+*   Polyfleece Quarter-Zip Pullover Jacket $49.50
+*   Long Sleeve Heathered Check Woven Shirt $44.50
 *   Buy 1 Get 1 Free
     
     Skinny Dark Rinse Wash Reflex Jean $44.50
-*   LLD Long Sleeve Cloud Fleece Crew Tee $39.50 $14.00
+*   LLD Long Sleeve Cloud Fleece Crew Tee $39.50
 *   Doorbuster
     
-    LLD Logo Stripe 90's Wide-Leg Sweatpants $44.50 $9.90
-*   LLD Lace Strappy Cross-Back Bralette $24.50 $10.00
+    LLD Logo Stripe 90's Wide-Leg Sweatpants $44.50
+*   LLD Lace Strappy Cross-Back Bralette $24.50
 *   Doorbuster
     
-    Long Sleeve Lettuce-Edge Layering Tee $32.50 $9.90
+    Long Sleeve Lettuce-Edge Layering Tee $32.50
 *   Buy 1 Get 1 Free Seriously Stretchy Light Wash Blasted Knee High-Waisted Ankle Jegging $54.50
 
 *   1
@@ -537,5 +537,6 @@ About Us
 Stay Connected
 
 *   Live ChatCall Us
+*   Refer-A-Friend
 
-© 2017 Aeropostale. All Rights Reserved. close dialogGive us your email to snag10% OFFPlease enter aboveUNLOCK 10% OFFI DON'T WANT 10% OFFYOU’VE SNAGGED 10% OFFUse CodeBEX-WD9L39FX93GVat checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
+© 2017 Aeropostale. All Rights Reserved. close dialogGive us your email to snag10% OFFPlease enter aboveUNLOCK 10% OFFI DON'T WANT 10% OFFYOU’VE SNAGGED 10% OFFUse CodeBEX-SGSRF5D3GLB4at checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
