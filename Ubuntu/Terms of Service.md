@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server Development Summary – 10 Oct 2017 ›
+*   Kernel Team Summary- October 11, 2017 ›
+*   elementary on why snaps are right for their Linux distro ›
+*   Private Docker Registries and the Canonical Distribution of Kubernetes ›
 *   LXD Weekly status #18 ›
-*   Kubernetes on Ubuntu VMs ›
-*   Webinar: 10-step plan to rollout Cloud devops ›
-*   Security Team Update: October 5, 2017 ›
-*   MAAS 2.3.0 beta 1 released ›
