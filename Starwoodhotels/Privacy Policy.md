@@ -295,11 +295,6 @@ by telephone:
 or  
 1-519-637-6500 (charges will be incurred)
 
-by writing to us at:  
-Starwood Preferred Guest Program  
-P.O. Box 20190  
-St. Thomas, ON Canada N5P 4H4
-
 **Customer Service**
 
 If you would like to contact Starwood’s Customer Service Department, please choose the most convenient method from the following:
@@ -309,16 +304,6 @@ consumer.privacy@starwoodhotels.com
 
 by telephone:  
 1-800-328-6242
-
-by writing to us at:  
-Starwood Preferred Guest Program  
-Corporate Customer Service  
-P.O. Box 6020  
-Lancaster, California 93539-6020
-
-USA
-
-Attention: Customer Service
 
 **Data Privacy**
 
@@ -392,6 +377,7 @@ Back to Top
     *   中文(简体) 中文(简体)
     *   日本語 日本語
     *   Русский Русский
+    
 *   Website Terms of Use
 *   Privacy Statement
 *   Text Only
