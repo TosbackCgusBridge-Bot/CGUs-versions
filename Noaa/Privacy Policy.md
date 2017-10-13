@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms U.S. warmer and drier than average in September. 3rd warmest and wettest year to date AROUND NOAA // Celebrate National Seafood Month Oct. 12: NOAA hosts Reddit AUA about the launch of newest polar-orbiting satellite Assessing Maria's destruction from the air: Aerial photos are available
+Enter Search Terms Wildfires continue to ravage California. NOAA experts are on the scene AROUND NOAA // U.S. warmer and drier than average in September. 3rd warmest and wettest year to date A whirlwind of an Atlantic hurricane season: What gives? Celebrate National Seafood Month Assessing Maria's destruction from the air: Aerial photos are available
 
 *   About our agency
 *   News and features
