@@ -45,6 +45,8 @@ Navigation
     *   Games for Good
 *   JOBS
 *   SUPPORT
+    *   Player Support
+    *   Player Forums
 
 Search form Search Privacy
 
