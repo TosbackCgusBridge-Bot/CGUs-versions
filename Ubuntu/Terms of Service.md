@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Kubernetes the not so easy way ›
+*   Security Team Weekly Summary: October 12, 2017 ›
 *   Ubuntu Server Development Summary – 10 Oct 2017 ›
 *   Kernel Team Summary- October 11, 2017 ›
 *   elementary on why snaps are right for their Linux distro ›
-*   Private Docker Registries and the Canonical Distribution of Kubernetes ›
-*   LXD Weekly status #18 ›
