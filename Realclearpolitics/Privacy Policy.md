@@ -110,53 +110,53 @@
     *   About
     *   Media Kit
 
-*   _Niall Stanage_: Republicans Fear Aftershocks From Trump-Corker Feud
+*   _Jill Filipovic_: Harvey Weinstein and What Happens Next
     
-*   _Michael Goodwin_: Dems Must Find Way to Compromise on Border Wall
+*   _Kyle Smith_: The Hollywood Conspiracy of Silence
     
-*   _Paul Krugman_: Virginia Is for Haters
+*   _Ali & Polgreen_: How Top NBC Execs Quashed the Harvey Weinstein Story
     
-*   _David Freddoso_: Republicans Score Top Recruit in Missouri Senate Race
+*   _Todd_: Trump Takes Wrecking Ball to Two Obama Legacies
     
-*   _Katrina vanden Heuvel_: Why Democrats Need a 50-State Strategy
+*   _Chris Cillizza_: Donald Trump Is Acting Like a Fifth-Grade Bully
     
-*   _Lloyd Grove_: How NBC 'Killed' Ronan Farrow's Weinstein Expose
+*   _Rep. Lou Barletta_: Trump Is Right: Tax Cuts Will Make Economy Great Again
     
-*   _Sharyl Attkisson_: Weinstein Allegations Aren't First Stories 'Spiked' by Media
+*   _E.J. Dionne_: Hillary Tweets a Reminder of Why More People Chose Her
     
-*   _Peder Zane_: After Las Vegas, Liberals Are Righteous &. Wrong
+*   _Damon Linker_: Democrats' Delusions of Pragmatism
     
-*   _Chris Cillizza_: Eminem Unleashes Primal Scream Felt by Many About Trump
+*   _Blair Levin &. Adie Tomer_: Trump Administration: Infrastructure Friend or Foe?
     
-*   _Andy Puzder_: Labor Market Thriving Far Better Under Trump Than Obama
+*   _Linda Greenhouse_: On Contraception, It's Church Over State
     
-*   _Markham Heid_: We Need to Talk About Kids and Smartphones
+*   _Kevin Williamson_: Neither Trump Nor the GOP Wants to Take Your Birth Control
     
-*   _Rich Lowry_: Trump Is Overwriting Obama's Unlawful Green Schemes
+*   _David Catanese_: The Tax Reform Tipping Point
     
-*   _Amy Sorkin_: Pruitt and Trump Further Endanger the Planet
+*   _Thomas Edsall_: Dems Are Playing Checkers While Trump Is Playing Chess
     
-*   _Lee Smith_: Fusion GPS, Russia and the Corrupt U.S. Media
+*   _James Arkin_: Can Republicans De-escalate Intra-Party Warfare?
     
-*   _Peter Beinart_: What Bob Corker Really Fears
+*   _Graham Vyse_: How Elizabeth Warren Became the Soul of the Democratic Party
     
-*   _Austin Bay_: Trump's North Korea Threat-Theater Is Working
+*   _Victor Davis Hanson_: It's 1968 All Over Again
     
-*   _Ian Buruma_: The North Korean Cult
+*   _Mira Sorvino_: Why I Spoke Out Against Harvey Weinstein
     
-*   _Victor Davis Hanson_: Message vs. Messenger: The Trump Enigma
+*   _Father Raymond de Souza_: Weinstein's Fall Traumatizing for Hollywood Hypocrites
     
-*   _Jill Lawrence_: Taxes &. Obamacare: Trump's Art-of-the-Deal Waterloos?
+*   _Ezra Klein_: Ta-Nehisi Coates Is Not Here to Comfort You
     
-*   _Michelle Malkin_: Obama Lied. My Fourth Health Plan Died.
+*   _Heather MacDonald_: Are We All Unconscious Racists?
     
-*   _Ed Dolan_: A Health Care Plan That's Universal and Bipartisan
+*   _Christine Brennan_: Dear NFL Players: Don't Let Trump Win, Boycott Anthem
     
-*   _Kate Maltby_: Harvey Weinstein and His Enablers
+*   _Charles Gasparino_: NFL Admits Trump Knows the Fans Better Than It Does
     
-*   _Roger Simon_: Harvey Weinstein Has Destroyed Hollywood--Now What?
+*   _Charles Pierce_: Time for Obama to Join the Resistance Full Time
     
-*   _Todd Hitt_: We Won't Be Rebuilding Houston Any Time Soon
+*   _Keith Koffler_: Republicans Become the Party of the Little Guy
     
 
 *   Previous
@@ -258,11 +258,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Turns Back to Tax Cut Plan. Pitch Aimed at Truckers
+*   Can Republicans De-Escalate Intra-Party Warfare?
+*   Trump: No Amnesty, Have to Get Something in Return on DACA
 *   Feinstein's Re-election Bid May Spur Challenge on Her Left
 *   Missouri Republican Hawley Announces Run for Senate
-*   Trump to Corker: "I Inherited a Mess, But We're Fixing It"
-*   Democrats Reject White House Immigration Proposal
-*   In Weinstein's Downfall, a Moment of Reckoning for Hollywood
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -277,26 +277,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve37
+    *   Disapprove57Disapprove +20
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve44
+    *   Disapprove55Disapprove +11
 *   President Trump Job ApprovalQuinnipiac
     *   Approve38
     *   Disapprove56Disapprove +18
-*   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove56Disapprove +19
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove56Disapprove +13
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve36
     *   Disapprove59Disapprove +23
 
 More Latest Polls In The News
 
+*   Chief Of Staff Kelly: Problems Kicked Down The Road By Obama "Have Come Home To Roost"
+*   Tucker Carlson: Politicians and Media Enabled Weinstein, "They're Now Lying To Cover Their Tracks"
+*   Kellyanne Conway: Clinton A "Hypocrite About Women's Empowerment And What It Means To Be Pro-Woman"
 *   Clinton on Weinstein: "I Was Sick, I Was Shocked". "Certainly" Didn't Know About His Sexual "Behavior"
 *   Assange on Russiagate: Rep. Adam Schiff Is "Not Credible," He Is "Being Trolled" By Roger Stone
-*   Friedman: Tillerson Is "Worst Sec Of State," Trump Is "Worst Foreign Policy Pres" In "Worst Time" In Post-War Era
-*   Newt Gingrich: Smug And "Morally Superior" Leftists "Are The People Orwell Wrote 1984 About"
-*   Bannon Declares War On GOP Establishment: "We're Coming After All Of Them And We're Going To Win"
 
 *   Politics
 *   Policy
