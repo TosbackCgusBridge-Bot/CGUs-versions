@@ -1,43 +1,24 @@
-*   For Home
-*   For Business
-    *   Small Business - Up to 10 Employees
-    *   Medium Business - More than 10 Employees
-    *   Enterprise
-    *   Alliance Partners
-    *   Public Sector
-    *   Wholesale
-    *   Need Help Choosing?
-
-*   Contact Us
-*   Sign In
-
-Search CenturyLink
-
-*   About Us
-
-*   Company Information
-*   Investor Relations
-*   Community
-*   Newsroom
-*   Careers
-*   Governance
-*   Legal
-
-Toggle navigation
-
-*   MENU
-
-*   About Us
-    *   Company Information
-    *   Investor Relations
-    *   Community
-    *   Newsroom
-    *   Careers
-    *   Governance
-    *   Legal
-
-*   Contact Us
-*   Sign In
+Contact Us CenturyLink For Home Shop Internet Bundles TV CenturyLink®  
+Prism® TV DIRECTV® CenturyLink®  
+Stream TV Home Phone Check For Deals At My Home Home Phone Wireless Special Offers My CenturyLink My Account Quick Bill Pay Enroll Support Support Center Contact Us Guidance Center For Business Small Business/ 1-10 employees Medium Business/ 11-1,000 employees Enterprise/ 1,000-100,000+ employees Partners Public Sector Wholesale About Us Company Information Find everthing  
+you need to know  
+about us. Investor Relations View financial  
+information  
+for our investors. Community See how we are  
+committed to  
+strengthening the  
+communities  
+we serve. News Room Find the latest  
+news or search our  
+news release archive. Careers Discover your new  
+direction for success. Governance Learn more about  
+our corporate  
+governance by  
+viewing our corporate  
+governance guidelines. Legal List of the relevant  
+terms and conditions  
+under which  
+CenturyLink abides. About Us Check For Deals At My Home For Home: Home Page Internet Bundles TV Prism® TV DIRECTV® CenturyLink®Stream Home Phone Wireless Special Offers Connected Home My CenturyLink Support Quick Bill Pay Contact Us For Business Small Business: 1-10 Employees Medium Business: 11-1,000 Employees Enterprise: 1,000-100,000+ Employees Partners Public Sector Wholesale Search Sign In For Home QuickPay For Business Small Business/ 1-10 employees Medium Business/ 11-1,000 employees Enterprise/ 1,000-100,000+ employees
 
 Qwest's Acceptable Use Policy Qwest has formulated this Acceptable Use Policy ("AUP") in order to encourage the responsible use of Qwest's networks, systems, services, web sites and products (collectively, the "Qwest Network and Services") by our customers and other users of the Qwest Network and Services (collectively, "Users"), and to enable us to provide Users with secure, reliable and productive services.   
 
