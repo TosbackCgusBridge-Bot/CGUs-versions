@@ -64,9 +64,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 24%  2% 
+What is PeekScore? Public Records &. Background Checks 16%  2% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 24%  2% 
     
 *   Show Less ...
 
-24%  24%  Arrest Records &. Driving Infractions
+16%  16%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 23%  Twitter 2% 
+Facebook 16%  Twitter 2% 
 
 *   Cristiano Ronaldo - Cristiano
     
@@ -199,7 +199,7 @@ Facebook 23%  Twitter 2% 
     
 *   Show Less ...
 
-Pinterest 23%  Wikipedia 2% 
+Pinterest 16%  Wikipedia 2% 
 
 *   Medana
     
@@ -309,41 +309,7 @@ Linkedin 2% 
     
 *   Show Less ...
 
-Foursquare 2% 
-
-*   privacy policy
-    
-    Bratislava - Ružinov, Bratislavský kraj
-    
-*   chax saggieto
-    
-    Machang Kuantan
-    
-*   k privacy
-    
-    London, England
-    
-*   t j
-    
-*   Show More ...
-
-*   muhammad fadly arief
-    
-    Sulawesi Selatan
-    
-*   jade dixon
-    
-    Gainesville, VA
-    
-*   us department of agriculture
-    
-*   regions bank
-    
-*   black hawk mines bulletin
-    
-*   Show Less ...
-
-Music 2% 
+Foursquare 16%  Music 2% 
 
 *   Pandora
     
@@ -522,13 +488,9 @@ Images 2% 
 
 10
 
-8
-
 twitterx
 
 instagramx
-
-foursquarex
 
 *   About PeekYou
 *   Privacy Policy
@@ -539,4 +501,4 @@ foursquarex
 
 Copyright 2017 PeekYou.com. A Patent Pending People Search Process. All Rights Reserved.
 
-Tweets by @peekyou Scroll
+Scroll
