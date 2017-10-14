@@ -7,7 +7,7 @@ Aeropostale
 *   Open submenu ( Trending ) Trending
 *   Open submenu ( Clearance ) Clearance
 
-*   Help - Live Chat
+*   Help - Live Chat Help - Call Us
 *   Sign Up/Login
 *   Refer a Friend
 
@@ -467,7 +467,7 @@ Menu Find a Store Aeropostale
         *   Intimates
         *   Accessories
 
-*   Help - Live Chat
+*   Help - Live Chat Help - Call Us
 *   Sign Up/Login
 *   Refer a Friend
 
@@ -519,4 +519,4 @@ Stay Connected
 *   Live ChatCall Us
 *   Refer-A-Friend
 
-close dialogGive us your email to snag10% OFFPlease enter aboveUNLOCK 10% OFFI DON'T WANT 10% OFFYOU’VE SNAGGED 10% OFFUse CodeBEX-3RX7W3DWZD3Wat checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
+close dialogGive us your email to snag10% OFFPlease enter aboveUNLOCK 10% OFFI DON'T WANT 10% OFFYOU’VE SNAGGED 10% OFFUse CodeBEX-6WKXGGWW6XW7at checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
