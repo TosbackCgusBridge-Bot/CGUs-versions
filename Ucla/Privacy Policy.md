@@ -10,6 +10,12 @@ The UCLA web space contains official pages in support of the core mission of the
 
 The University does not actively monitor or control web content. However, when the University receives a notification of an alleged violation of law or policy, we investigate and address violations accordingly. Contact: abuse@ucla.edu or webadmin@ucla.edu.
 
+Accessibility — Statement
+
+UCLA is committed to web accessibility for everyone.
+
+If you are experiencing a web accessibility issue, please contact the ADA/504 Office for further assistance by emailing ada@saonet.ucla.edu or calling (310) 206-8049.
+
 Privacy: The UCLA Gateway and Other Sites
 
 The UCLA gateway site, www.ucla.edu, collects information to improve functionality and content and to monitor performance. Data is used to help answer specific questions about the usage and performance of the web site or individual web pages. At no time is site usage associated with individual IP addresses.  
