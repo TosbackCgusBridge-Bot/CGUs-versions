@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Satellites Oct. 12: NOAA hosts Reddit AUA about the launch of newest polar-orbiting satellite Oceans &. Coasts Marine &. Aviation Charting Assessing Maria's destruction from the air: Aerial photos are available National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Wildfires continue to ravage California. NOAA experts are on the scene Oceans &. Coasts Marine &. Aviation Charting Assessing Maria's destruction from the air: Aerial photos are available National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Wildfires continue to ravage California. NOAA experts are on the scene AROUND NOAA // U.S. warmer and drier than average in September. 3rd warmest and wettest year to date A whirlwind of an Atlantic hurricane season: What gives? Celebrate National Seafood Month Assessing Maria's destruction from the air: Aerial photos are available
+Enter Search Terms Wildfires continue to ravage California. NOAA experts are on the scene AROUND NOAA // Scientists uncover a centuries-old case of mistaken identity in the Chesapeake Bay A whirlwind of an Atlantic hurricane season: What gives? Celebrate National Seafood Month Assessing Maria's destruction from the air: Aerial photos are available
 
 *   About our agency
 *   News and features
