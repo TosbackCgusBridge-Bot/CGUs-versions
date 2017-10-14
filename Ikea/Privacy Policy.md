@@ -1,4 +1,4 @@
-skip to main content We use cookies to make sure you get the best experience on our website. If you continue without changing your settings, you're agreeing to receive all cookies on the IKEA website.Privacy policy | Read more about cookies    Welcome! Find an IKEA Store
+skip to main content We use cookies to make sure you get the best experience on our website. If you continue without changing your settings, you're agreeing to receive all cookies on the IKEA website.Privacy policy | Read more about cookies    Welcome! FAQ
 
 *   Log In or Sign Up
 *   My shopping cart
@@ -33,14 +33,4 @@ Conshohocken, PA 19428
   
 We will respond to your inquiry or investigate your concern as quickly as possible.  
   
-DATED: June 22, 2009 Catalog &. Brochures Request View Online Buying Guides Need HelpFAQContact UsReturn PolicyChildren's Product RegistrationDelivery InformationStore DeliveryOnline DeliveryPicking with DeliveryDelivery Terms &. ConditionsHelpful LinksFind an IKEA StoreAll ProductsPlanning ToolsIKEA Food &. RestaurantWarrantiesIKEA ServicesIKEA Gift CardThis is IKEAThe IKEA ConceptDemocratic DesignAbout the IKEA GroupPeople &. PlanetPress RoomRead our MaterialsIKEA FoundationJobs at IKEA © Inter IKEA Systems B.V. 1999 - 2017 | Privacy Policy <div style="display: none;">. <img src="https://smetrics.ikea.com/b/ss/ikeaallnojavascriptprod/5/?c8=us&amp;pageName=nojavascript" alt="" width="5" height="5" />. </div>. EnglishEspañol
-
-Help us to improve!
-
-Would you like to participate in our survey? The survey will take approximately 10 minutes to complete.
-
-If you agree to take part the survey will start when you finish your visit to IKEA.com today
-
-Take Part
-
-No thanks
+DATED: June 22, 2009 Catalog &. Brochures Request View Online Buying Guides Need HelpFAQContact UsReturn PolicyChildren's Product RegistrationDelivery InformationStore DeliveryOnline DeliveryPicking with DeliveryDelivery Terms &. ConditionsHelpful LinksFind an IKEA StoreAll ProductsPlanning ToolsIKEA Food &. RestaurantWarrantiesIKEA ServicesIKEA Gift CardThis is IKEAThe IKEA ConceptDemocratic DesignAbout the IKEA GroupPeople &. PlanetPress RoomRead our MaterialsIKEA FoundationJobs at IKEA © Inter IKEA Systems B.V. 1999 - 2017 | Privacy Policy <div style="display: none;">. <img src="https://smetrics.ikea.com/b/ss/ikeaallnojavascriptprod/5/?c8=us&amp;pageName=nojavascript" alt="" width="5" height="5" />. </div>.
