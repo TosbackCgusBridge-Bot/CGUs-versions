@@ -110,53 +110,53 @@
     *   About
     *   Media Kit
 
-*   _Jill Filipovic_: Harvey Weinstein and What Happens Next
+*   _James Robbins_: Trump Plays Smart Chess on the Iran Deal
     
-*   _Kyle Smith_: The Hollywood Conspiracy of Silence
+*   _Amir Handjani_: Trump Aims at Iran, Hits the U.S.
     
-*   _Ali & Polgreen_: How Top NBC Execs Quashed the Harvey Weinstein Story
+*   _John Phillips_: Weinstein &. Hollywood's Secular, Liberal Indulgences
     
-*   _Todd_: Trump Takes Wrecking Ball to Two Obama Legacies
+*   _Emma Brockes_: In Hollywood, White Men Always Get a Second Chance
     
-*   _Chris Cillizza_: Donald Trump Is Acting Like a Fifth-Grade Bully
+*   _David Harsanyi_: About Time Trump Ended Obamacare's Illegal Subsidies
     
-*   _Rep. Lou Barletta_: Trump Is Right: Tax Cuts Will Make Economy Great Again
+*   _Abigail Tracy_: 'Vast, Pointless Sabotage': Trump Will Collapse Health Care
     
-*   _E.J. Dionne_: Hillary Tweets a Reminder of Why More People Chose Her
+*   _David Azerrad_: U.S. Divided: It Starts With the Democratic Party
     
-*   _Damon Linker_: Democrats' Delusions of Pragmatism
+*   _Sohrab Ahmari_: Trump Leaves UNESCO and Its Den of Antisemites
     
-*   _Blair Levin &. Adie Tomer_: Trump Administration: Infrastructure Friend or Foe?
+*   _Sasha Polakow-Suransky_: White Nationalism Is Destroying the West
     
-*   _Linda Greenhouse_: On Contraception, It's Church Over State
+*   _Carl Cannon_: Out at Home: Baseball Breaks Fans' Hearts Once Again
     
-*   _Kevin Williamson_: Neither Trump Nor the GOP Wants to Take Your Birth Control
+*   _Alexis Madrigal_: What Facebook Did to American Democracy
     
-*   _David Catanese_: The Tax Reform Tipping Point
+*   _Olga Khazan_: A Stunning Blow to Obamacare
     
-*   _Thomas Edsall_: Dems Are Playing Checkers While Trump Is Playing Chess
+*   _Betsy McCaughey_: Trump Strikes a Blow for Healthcare Freedom
     
-*   _James Arkin_: Can Republicans De-escalate Intra-Party Warfare?
+*   _David Leonhardt_: We're About to Fall Behind the Great Depression
     
-*   _Graham Vyse_: How Elizabeth Warren Became the Soul of the Democratic Party
+*   _Michael Barone_: Today's Turn-of-the-Century Problems
     
-*   _Victor Davis Hanson_: It's 1968 All Over Again
+*   _Vali Nasr_: Trump Making the Defining Mistake of His Foreign Policy
     
-*   _Mira Sorvino_: Why I Spoke Out Against Harvey Weinstein
+*   _Matthew Continetti_: Will GOP Have Trump's Back on Iran?
     
-*   _Father Raymond de Souza_: Weinstein's Fall Traumatizing for Hollywood Hypocrites
+*   _Yohana Desta_: Why Harvey Weinstein's Open Secret Lasted So Long
     
-*   _Ezra Klein_: Ta-Nehisi Coates Is Not Here to Comfort You
+*   _Scott Greer_: Dear Hollywood: Don't Ever Lecture America Again
     
-*   _Heather MacDonald_: Are We All Unconscious Racists?
+*   _Al Sharpton_: ESPN Caved to Trump on Jemele Hill
     
-*   _Christine Brennan_: Dear NFL Players: Don't Let Trump Win, Boycott Anthem
+*   _Rich Lowry_: How the NFL Lost to Trump
     
-*   _Charles Gasparino_: NFL Admits Trump Knows the Fans Better Than It Does
+*   _Mark Penn_: Polls, Pundits Still Underestimating Trump
     
-*   _Charles Pierce_: Time for Obama to Join the Resistance Full Time
+*   _Pat Buchanan_: Reagan Was Mocked &. Underestimated, Too
     
-*   _Keith Koffler_: Republicans Become the Party of the Little Guy
+*   _Eugene Robinson_: Abandoning Puerto Rico Would Be an Impeachable Offense
     
 
 *   Previous
@@ -258,9 +258,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Turns Back to Tax Cut Plan. Pitch Aimed at Truckers
 *   Can Republicans De-Escalate Intra-Party Warfare?
-*   Trump: No Amnesty, Have to Get Something in Return on DACA
+*   Trump Turns Back to Tax Cut Plan. Pitch Aimed at Truckers
+*   Kelly: Problems Kicked Down Road by Obama "Have Come Home to Roost"
 *   Feinstein's Re-election Bid May Spur Challenge on Her Left
 *   Missouri Republican Hawley Announces Run for Senate
 *   Presidential Job Approval
@@ -278,11 +278,11 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove57Disapprove +20
+    *   Approve39
+    *   Disapprove54Disapprove +15
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove55Disapprove +11
+    *   Approve43
+    *   Disapprove55Disapprove +12
 *   President Trump Job ApprovalQuinnipiac
     *   Approve38
     *   Disapprove56Disapprove +18
@@ -292,11 +292,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
-*   Chief Of Staff Kelly: Problems Kicked Down The Road By Obama "Have Come Home To Roost"
-*   Tucker Carlson: Politicians and Media Enabled Weinstein, "They're Now Lying To Cover Their Tracks"
-*   Kellyanne Conway: Clinton A "Hypocrite About Women's Empowerment And What It Means To Be Pro-Woman"
-*   Clinton on Weinstein: "I Was Sick, I Was Shocked". "Certainly" Didn't Know About His Sexual "Behavior"
-*   Assange on Russiagate: Rep. Adam Schiff Is "Not Credible," He Is "Being Trolled" By Roger Stone
+*   CNN's Cuomo to Rep. Jordan on ACA Subsidies: "Why Aren't You Saying The President Is Acting Like An Emperor?"
+*   Jane Fonda Admits She Knew About Weinstein: "It Hadn't Happened To Me," So I Didn't Speak Out
+*   Scott Adams On Trump's Faith In Affirmations, Norman Vincent Peale. "Power Of Positive Thinking"
+*   Trump on Faith: "Times Have Changed. But You Know What? Now They're Changing Back Again"
+*   Van Jones: The Left Is Still Mad, Not Just At Election, But "Every Single Person Who Voted For Trump"
 
 *   Politics
 *   Policy
