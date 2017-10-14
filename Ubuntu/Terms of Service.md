@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   OpenStack Development Summary – October 13, 2017 ›
 *   Kubernetes the not so easy way ›
 *   Security Team Weekly Summary: October 12, 2017 ›
 *   Ubuntu Server Development Summary – 10 Oct 2017 ›
 *   Kernel Team Summary- October 11, 2017 ›
-*   elementary on why snaps are right for their Linux distro ›
