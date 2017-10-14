@@ -1,4 +1,3 @@
-*   Big Play HighlightZ.Ertz 17-yard TD pass from C.WentzWatch NowPHI?18CAR133rd ? 08:48
 *   MIA2-2ATL3-1Sun 1:00 PM ET
 *   CHI1-4BAL3-2Sun 1:00 PM ET
 *   CLE0-5HOU2-3Sun 1:00 PM ET
@@ -12,6 +11,7 @@
 *   LAC1-4OAK2-3Sun 4:25 PM ET
 *   NYG0-5DEN3-1Sun 8:30 PM ET
 *   IND2-3TEN2-3Mon 8:30 PM ET
+*   PHI28CAR23Final
 
 *   News
 *   Scores
