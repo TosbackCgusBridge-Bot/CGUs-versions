@@ -33,11 +33,11 @@ LATEST ON TWITTER
 
 My week on Twitter : 6 Mentions, 18.9K Mention Reach, 6 Favorited, 2 Retweets, 860 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/gF3B…
 
-About 2 days ago
+About 4 days ago
 
 Our biggest fans this week: @Requidan, @DRUMDTAUSA. Thank you! via sumall.com/thankyou?… pic.twitter.com/94KH…
 
-About 3 days ago
+About 5 days ago
 
 Takin' it back to a fun night w/ great company at @DRUMDTAUSA #DTAUSA @TripleLiftHQ @Requidan @Jambrose @Nicole\_Kosar @247WallSt @RodaleInc pic.twitter.com/fYez…
 
