@@ -8,7 +8,7 @@
 *   Men
 *   Kids
 *   Jeans
-*   New
+*   Trending
 *   Sale
 
 *   Search
@@ -212,7 +212,7 @@
         Give a Buckle Gift card BUCKLE BELIEVES IN SAVING LIVES FROM BREAST CANCER.  
         A portion of the proceeds from select merchandise will be contributed to breast cancer foundations.  
         SHOP WOMEN'S | SHOP MEN'S | LEARN MORE
-*   New
+*   Trending
     *   *   Featured New
         
         *   Fall Checklist
