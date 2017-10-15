@@ -154,7 +154,7 @@ View Mirror, Mirror On the Wall ... on Instagram
 
 The cast of #OnlyTheBrave traveled to Phoenix to discuss the movie and honoring first responders.
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -234,7 +234,7 @@ View Introducing the all NEW Sony RX0. on Instagram
 
 Every Tuesday this month: bring your Sony cameras &. lenses into #SonySquareNYC for a cleaning. First come, first served.
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -318,7 +318,7 @@ View Primary Colors on Instagram
 
 Celebrate PS VR's upcoming one-year anniversary with PlayStation Store's biggest sale on VR titles to date: play.st/2xwIOH3
 
-2 days ago
+3 days ago
 
 View Tweet
 
