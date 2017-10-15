@@ -41,72 +41,51 @@ JCPenney Your Store: Northfld @ Stapleton change store 0
 *   Sephora
 *   Clearance
 
-Day 5 of COUPON CODE 4YOUSAVE ENDS IN
+Day 6 of COUPON CODE 4YOUSAVE ENDS IN
 
 \*Sale ends on 10/19/17
 
-0 0 1 1 Days 0 0 0 0 hours 4 4 1 1 mins 1 1 2 2 secs 2017.18.0.0.140.0 2017 XM migration-home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Fri Oct 13 04:55:28 CDT 2017 ->. dtexppr1c2j3\_08 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneA \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Fri Oct 13 04:55:28 CDT 2017 ->. dtexppr1c2j3\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneB \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Fri Oct 13 04:55:28 CDT 2017 ->. dtexppr1c2j1\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneC
+0 0 1 1 Days 0 0 0 0 hours 4 4 0 0 mins 2 2 9 9 secs 2017.18.0.0.140.0 2017 XM migration-home \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sat Oct 14 22:11:48 CDT 2017 ->. dtexppr1c2j4\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneA \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sat Oct 14 05:53:42 CDT 2017 ->. dtexppr1c2j3\_08 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneB \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sat Oct 14 22:12:34 CDT 2017 ->. dtexppr1c2j4\_08 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneC
 
-40% OFF PROJECT RUNWAY
+COSTUMES &. DECOR
 
 SHOP ALL
 
-Previous*   $24.99 sale $44  original Project Runway Hooded Sweatshirt Dress
-*   $49.99 sale $84  original Project Runway Red Moto Jacket
-*   $24.99 sale $44  original Project Runway Long Sleeve Corset...
-*   $24.99 sale $44  original Project Runway Grommet Raglan...
-*   $34.99 sale $59  original Project Runway Embellished Pearl...
-*   $24.99 sale $44  original Project Runway Lace Up Hooded Sweatshirt
-*   $19.99 sale $37  original Project Runway Long Sleeve Mesh Top
-*   $49.99 sale $84  original Project Runway Bomber Jacket
-*   $49.99 sale $84  original Project Runway Off Shoulder Bomber...
-*   $24.99 sale $44  original Project Runway Corset Sweatshirt Dress
-*   $24.99 sale $44  original Project Runway Grommet Trim Pencil...
-*   $29.99 sale $54  original Project Runway Lace Up Sleeve Dress
-*   $24.99 sale $44  original Project Runway Corset Sweatshirt Dress
-*   $29.99 sale $54  original Project Runway Long Sleeve Bodycon Dress
-*   $49.99 sale $89  original Project Runway Lightweight...
+Previous*   $29.99  Buyseasons Batman v Superman: Dawn of...
+*   $27.99 sale $40  original Disney Girls Moana Dress Up... (2)
+*   $75 - $105  Decor 140 Itsy Bitsy Spider Square Throw...
+*   $5  City Streets Pet Costume
+*   $14.45 - $16.99 sale $18.99  original Wonder Woman T-Shirt Adult Costume Kit
+*   $163.99  Star Wars: The Force Awakens - Kylo Ren...
+*   $9.99 sale $22  original JCPenney Home™ Beware Rectangular...
+*   $27.99 sale $40  original Disney Frozen Dress Up Costume-Big Kid... (3)
+*   $14  JCPenney Home Harvest Collection...
+*   $41.65 sale $50.99  original Maleficent Deluxe Christening Black...
+*   $72.99  Pirates of the Caribbean Captain...
+*   $69.69 sale $81.99  original Jurassic World: Adult Inflatable T-Rex...
+*   $34 sale $43.99  original Buyseasons Batman v Superman: Dawn of...
+*   $67.99 sale $81.99  original Ride a Chicken Adult Costume - One Size...
 Next
 
-WHITE MARK APPAREL STARTING AT $12
+65% OFF DRESSES WITH CODE 4YOUSAVE
 
 SHOP ALL
 
-Previous*   $34  White Mark Jenara Long Sleeve Fit &. Flare Dress (1)
-*   $32  White Mark Katherine Sleeveless Maxi Dress (6)
-*   $34  White Mark Ria Long Sleeve Maxi Dress
-*   $33  White Mark High Low Hem Cardigan
-*   $34  White Mark Piper Plaid Tunic Top Plus (2)
-*   $32  White Mark Mya Paisley Sheath Dress
-*   $12  White Mark Solid Knit Leggings
-*   $12  White Mark Lace Trim Knit Tank Top-Plus
-*   $34  White Mark Angora-Like Long Sleeve Sweater...
-*   $31  White Mark Yanette Tunic Top Plus (1)
-*   $31  White Mark Rella Tunic Top Plus
-*   $26  White Mark Damask Palazzo Pants (1)
-*   $28  White Mark Flare Flared Skirt (9)
-*   $12  White Mark Knit Tank Top- Plus
-Next
-
-SAVE ON BLANKETS WITH CODE 4YOUSAVE
-
-SHOP ALL
-
-Previous*   $27  JCPenney Home™ Velvet Plush Solid... (407)
-*   $40 - $60  JCPenney Home™ Velvet Plush Solid... (1204)
-*   $100 - $200  Biddeford™ Plush Heated Blanket (726)
-*   $65 - $105  Vellux® Blanket (364)
-*   $90 - $190  Biddeford™ Comfort Knit Heated Blanket (309)
-*   $35 - $55  JCPenney Home Satin Trim Fleece Blanket (80)
-*   $280 - $480  Micro Flannel® Heated Blanket (31)
-*   $270 - $500  Micro Flannel® Reverses to Sherpa... (13)
-*   $190 - $330  Sunbeam® SlumberRest...
-*   $50 - $90  Royal Velvet Luxury Cotton Blanket (4)
-*   $27  JCPenney Home™ Velvet Plush Print... (346)
-*   $80 - $120  JCPenney Home™ Quilted Down... (43)
-*   $40 - $65  JCPenney Home™ Woven Cotton Blanket (644)
-*   $80  Biddeford™ Plush Electric Throw (172)
-*   $50 - $70  Micro Flannel® All Seasons Year Round... (362)
+Previous*   $44  a.n.a Bell Sleeve Sweater Dress
+*   $49  a.n.a Bell Sleeve Velvet Dress
+*   $54  a.n.a 3/4 Sleeve Embroidered Shirt...
+*   $44  a.n.a Long Sleeve Shift Dress
+*   $56  Planet Motherhood Elbow Sleeve Lace... (64)
+*   $44  a.n.a Ruffle Cold Shoulder Sweatshirt...
+*   $74  a.n.a Long Sleeve Embroidered Velvet...
+*   $60  a.n.a Long Sleeve Wrap Dress
+*   $50  St. John\`s Bay Sleeveless Twist Front... (83)
+*   $60  a.n.a Sleeveless A-Line Dress
+*   $60  a.n.a Long Sleeve Shirt Dress
+*   $59  Bisou Bisou Long Sleeve Velvet Dress
+*   $60  a.n.a Sleeveless Shirt Dress
+*   $68  Planet Motherhood Short Sleeve Maxi... (3)
+*   $37  Short Sleeve Tie Dye Maxi Dress
 Next
 
 50% OFF XERSION WITH CODE 4YOUSAVE
@@ -130,26 +109,29 @@ Previous*   $20  Xersion Power Tee (1)
 *   $26  Xersion Tank Top
 Next
 
-COSTUMES &. DECOR
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sat Oct 14 22:11:59 CDT 2017 ->. dtexppr1c2j4\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneD \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sat Oct 14 05:53:17 CDT 2017 ->. dtexppr1c2j6\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneE \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sat Oct 14 05:53:37 CDT 2017 ->. dtexppr1c2j1\_08 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneF
+
+WHITE MARK APPAREL STARTING AT $12
 
 SHOP ALL
 
-Previous*   $29.99  Buyseasons Batman v Superman: Dawn of...
-*   $27.99 sale $40  original Disney Girls Moana Dress Up... (2)
-*   $75 - $105  Decor 140 Itsy Bitsy Spider Square Throw...
-*   $5  City Streets Pet Costume
-*   $14.45 - $16.99 sale $18.99  original Wonder Woman T-Shirt Adult Costume Kit
-*   $163.99  Star Wars: The Force Awakens - Kylo Ren...
-*   $9.99 sale $22  original JCPenney Home™ Beware Rectangular...
-*   $27.99 sale $40  original Disney Frozen Dress Up Costume-Big Kid... (3)
-*   $14  JCPenney Home Harvest Collection...
-*   $41.65 sale $50.99  original Maleficent Deluxe Christening Black...
-*   $72.99  Pirates of the Caribbean Captain...
-*   $69.69 sale $81.99  original Jurassic World: Adult Inflatable T-Rex...
-*   $67.99 sale $81.99  original Ride a Chicken Adult Costume - One Size...
+Previous*   $34  White Mark Jenara Long Sleeve Fit &. Flare Dress (1)
+*   $32  White Mark Katherine Sleeveless Maxi Dress (6)
+*   $34  White Mark Ria Long Sleeve Maxi Dress
+*   $33  White Mark High Low Hem Cardigan
+*   $34  White Mark Piper Plaid Tunic Top Plus (2)
+*   $32  White Mark Mya Paisley Sheath Dress
+*   $12  White Mark Solid Knit Leggings
+*   $12  White Mark Lace Trim Knit Tank Top-Plus
+*   $34  White Mark Angora-Like Long Sleeve Sweater...
+*   $31  White Mark Yanette Tunic Top Plus (1)
+*   $31  White Mark Rella Tunic Top Plus
+*   $26  White Mark Damask Palazzo Pants (1)
+*   $28  White Mark Flare Flared Skirt (9)
+*   $12  White Mark Knit Tank Top- Plus
 Next
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Fri Oct 13 04:55:28 CDT 2017 ->. dtexppr1c2j2\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneD \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Fri Oct 13 04:55:28 CDT 2017 ->. dtexppr1c2j5\_04 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneE \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Fri Oct 13 04:55:28 CDT 2017 ->. dtexppr1c2j6\_08 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Content-ZoneF \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Fri Oct 13 04:55:28 CDT 2017 ->. dtexppr1c2j5\_08 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Fri Oct 13 04:55:28 CDT 2017 ->. dtexppr1c2j6\_08 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true true get connected
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sat Oct 14 05:54:18 CDT 2017 ->. dtexppr1c2j4\_08 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Sat Oct 14 22:12:34 CDT 2017 ->. dtexppr1c2j4\_02 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* true true get connected
 
 1.800.322.1189 Enter a valid email address Enter a valid mobile number. Sign up for email &. get an Extra 25% off coupon! Some exclusions apply. Sign Up Sign up for text messages &. get an Extra 25% off coupon! Some exclusions apply. Sign Up
 
@@ -208,5 +190,3 @@ At JCPenney, we're always helping you find amazing deals on all your favorite it
 *   AdChoices
 
 ©jcp Media Inc., 2017. All Rights Reserved.
-
-Play IconFeedback
