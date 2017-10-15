@@ -367,43 +367,43 @@ $1403.10
 
 Shop Now
 
-1621Viewing Best Seller IdeaCentre Y710 Cube
+1512Viewing Best Seller Lenovo Legion Y520 Laptop
 
 ★★★★★ ★★★★★
 
 4.3
 
-(21)
+(56)
 
-$749.99
+$779.99
 
 Shop Now
 
-740Viewing Best Seller ThinkPad T470 Business Laptop
+811Viewing IdeaCentre AIO Y910 (27")
 
 ★★★★★ ★★★★★
 
-3.3
+4.3
 
 (13)
 
-$881.10
+$1329.99
 
 Shop Now
 
-884Viewing Yoga 720 (15")
+430Viewing Flex 5 (14")
 
 ★★★★★ ★★★★★
 
-4.1
+4.6
 
-(69)
+(11)
 
-$999.99
+$499.99
 
 Shop Now
 
-707Viewing
+1221Viewing
 
 LAPTOPS
 
