@@ -518,5 +518,3 @@ Stay Connected
 
 *   Live ChatCall Us
 *   Refer-A-Friend
-
-close dialogGive us your email to snag10% OFFPlease enter aboveUNLOCK 10% OFFI DON'T WANT 10% OFFYOU’VE SNAGGED 10% OFFUse CodeBEX-6WKXGGWW6XW7at checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
