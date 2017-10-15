@@ -110,6 +110,38 @@
     *   About
     *   Media Kit
 
+*   _Andrew McCarthy_: Trump Faithfully Executes Unraveling Obamacare
+    
+*   _Amy Davidson Sorkin_: Trump Tries to Break Obamacare All by Himself
+    
+*   _David Ignatius_: Trump Tosses Verbal Grenade in Turbulent Mideast
+    
+*   _Josh Kraushaar_: Dems Target Ryan, Not Trump, to Take Back House
+    
+*   _Russell Berman_: A Party Out of Power, the Democrats' Luck Runs Out
+    
+*   _Andrew Surabian_: Free Trade Needs Strong Enforcement
+    
+*   _Lori Wallach_: Will Trump Really Give Us a Better NAFTA?
+    
+*   _Ed Rogers_: John Kelly Offers Washington a Xanax
+    
+*   _Alexandra King_: Harvey Weinstein's Master Class on Power and Abuse
+    
+*   _Stephen Miller_: Can Democrats Afford to Cut Hollywood Loose?
+    
+*   _Philip Stephens_: How to Beat Populism in Europe
+    
+*   _John O'Sullivan_: Populism Not a Threat to Democracy, But a Salve
+    
+*   _Toure_: Jemele Hill Should Speak Out--Just Maybe Not on ESPN
+    
+*   _Patrick Hynes_: Trump vs. NFL Is the GOP Primaries All Over Again
+    
+*   _Naomi Schaefer Riley &. James Piereson_: Fostering the Habit of Giving
+    
+*   _Aarian Marshall_: Uber and Lyft Haven't Revolutionized the American City--Yet
+    
 *   _James Robbins_: Trump Plays Smart Chess on the Iran Deal
     
 *   _Amir Handjani_: Trump Aims at Iran, Hits the U.S.
@@ -125,38 +157,6 @@
 *   _David Azerrad_: U.S. Divided: It Starts With the Democratic Party
     
 *   _Sohrab Ahmari_: Trump Leaves UNESCO and Its Den of Antisemites
-    
-*   _Sasha Polakow-Suransky_: White Nationalism Is Destroying the West
-    
-*   _Carl Cannon_: Out at Home: Baseball Breaks Fans' Hearts Once Again
-    
-*   _Alexis Madrigal_: What Facebook Did to American Democracy
-    
-*   _Olga Khazan_: A Stunning Blow to Obamacare
-    
-*   _Betsy McCaughey_: Trump Strikes a Blow for Healthcare Freedom
-    
-*   _David Leonhardt_: We're About to Fall Behind the Great Depression
-    
-*   _Michael Barone_: Today's Turn-of-the-Century Problems
-    
-*   _Vali Nasr_: Trump Making the Defining Mistake of His Foreign Policy
-    
-*   _Matthew Continetti_: Will GOP Have Trump's Back on Iran?
-    
-*   _Yohana Desta_: Why Harvey Weinstein's Open Secret Lasted So Long
-    
-*   _Scott Greer_: Dear Hollywood: Don't Ever Lecture America Again
-    
-*   _Al Sharpton_: ESPN Caved to Trump on Jemele Hill
-    
-*   _Rich Lowry_: How the NFL Lost to Trump
-    
-*   _Mark Penn_: Polls, Pundits Still Underestimating Trump
-    
-*   _Pat Buchanan_: Reagan Was Mocked &. Underestimated, Too
-    
-*   _Eugene Robinson_: Abandoning Puerto Rico Would Be an Impeachable Offense
     
 
 *   Previous
@@ -278,8 +278,8 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve39
-    *   Disapprove54Disapprove +15
+    *   Approve38
+    *   Disapprove56Disapprove +18
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve43
     *   Disapprove55Disapprove +12
@@ -292,11 +292,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Hillary on Weinstein: Trump A "Sexual Assaulter". Bill Clinton's Behavior Litigated, "Clearly In The Past"
+*   Turley: Obama's Original Obamacare Order Was Unconstitutional, Also Violated Law Itself
+*   David Brooks: Trump Treating Puerto Ricans Differently Because They Don't "Look Like" The People In Texas
 *   CNN's Cuomo to Rep. Jordan on ACA Subsidies: "Why Aren't You Saying The President Is Acting Like An Emperor?"
-*   Jane Fonda Admits She Knew About Weinstein: "It Hadn't Happened To Me," So I Didn't Speak Out
 *   Scott Adams On Trump's Faith In Affirmations, Norman Vincent Peale. "Power Of Positive Thinking"
-*   Trump on Faith: "Times Have Changed. But You Know What? Now They're Changing Back Again"
-*   Van Jones: The Left Is Still Mad, Not Just At Election, But "Every Single Person Who Voted For Trump"
 
 *   Politics
 *   Policy
