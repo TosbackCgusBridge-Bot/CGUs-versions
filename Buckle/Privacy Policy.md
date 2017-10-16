@@ -8,7 +8,7 @@
 *   Men
 *   Kids
 *   Jeans
-*   Trending
+*   New
 *   Sale
 
 *   Search
@@ -17,7 +17,7 @@
     *   Login
     *   |
     *   Register
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   0MY FAVORITES
 *   MY BAG
@@ -212,7 +212,7 @@
         Give a Buckle Gift card BUCKLE BELIEVES IN SAVING LIVES FROM BREAST CANCER.  
         A portion of the proceeds from select merchandise will be contributed to breast cancer foundations.  
         SHOP WOMEN'S | SHOP MEN'S | LEARN MORE
-*   Trending
+*   New
     *   *   Featured New
         
         *   Fall Checklist
