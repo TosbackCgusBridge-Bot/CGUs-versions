@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Sunday, October 15, 2017  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Monday, October 16, 2017  
 
 DEBKAfile
 
@@ -46,134 +46,102 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
-*   Qatar loses candidacy as UNESCO director to Audrey Azoulay of France
+*   Two rockets from ISIS-Sinai explode in Israel
     
-    Oct 13, 2017 @ 22:14
+    Oct 15, 2017 @ 22:53
     
-*   Netanyahu: Trump repaired damage of Iran nuclear deal
+*   Austria votes for a 31-year old conservative chancellor
     
-    Oct 13, 2017 @ 21:45
+    Oct 15, 2017 @ 21:31
     
-*   Trump: US stays in Iran nuclear deal, provided Congress addresses flaws
+*   Six Egyptian soldiers killed in ISIS attack in Sinai
     
-    Oct 13, 2017 @ 20:44
+    Oct 15, 2017 @ 21:24
     
-*   Tillerson: Trump will neither re-certify the Iran deal, nor leave it
+*   Tillerson: Diplomacy with North Korea “until the first bomb drops”
     
-    Oct 13, 2017 @ 18:58
+    Oct 15, 2017 @ 17:33
     
-*   Turkish convoy heads into Syria, sets up lookout post
+*   Three days mourning for 231 dead in Somalia’s biggest terror attack
     
-    Oct 13, 2017 @ 17:58
+    Oct 15, 2017 @ 14:46
     
-*   US-backed anti-ISIS Syrian forces withdraw to Jordan. Hizballah moves in
+*   Iranian Guards' Soleimani holds talks with Kurds
     
-    Oct 13, 2017 @ 16:57
+    Oct 15, 2017 @ 14:27
     
-*   France follows Russia, Germany in committing to Iran nuclear deal
+*   Kurds charge Iranian Guards in Iraqi military buildup against them
     
-    Oct 13, 2017 @ 16:47
+    Oct 15, 2017 @ 08:56
     
-*   At least 6,000 Kurdish fighters sent to Kirkuk against Iraqi buildup
+*   Netanyahu slams police chief for illicit leaks on probes against him
     
-    Oct 13, 2017 @ 16:31
-    
-*   Qatar loses candidacy as UNESCO director to Audrey Azoulay of France
-    
-    Oct 13, 2017 @ 22:14
-    
-*   Netanyahu: Trump repaired damage of Iran nuclear deal
-    
-    Oct 13, 2017 @ 21:45
-    
-*   Trump: US stays in Iran nuclear deal, provided Congress addresses flaws
-    
-    Oct 13, 2017 @ 20:44
-    
-*   Tillerson: Trump will neither re-certify the Iran deal, nor leave it
-    
-    Oct 13, 2017 @ 18:58
-    
-*   Turkish convoy heads into Syria, sets up lookout post
-    
-    Oct 13, 2017 @ 17:58
-    
-*   US-backed anti-ISIS Syrian forces withdraw to Jordan. Hizballah moves in
-    
-    Oct 13, 2017 @ 16:57
-    
-*   France follows Russia, Germany in committing to Iran nuclear deal
-    
-    Oct 13, 2017 @ 16:47
-    
-*   At least 6,000 Kurdish fighters sent to Kirkuk against Iraqi buildup
-    
-    Oct 13, 2017 @ 16:31
+    Oct 15, 2017 @ 08:42
     
 
-*   Turkish convoy heads into Syria, sets up lookout post
+*   Three days mourning for 231 dead in Somalia’s biggest terror attack
     
-    Oct 13, 2017 @ 17:58
+    Oct 15, 2017 @ 14:46
     
-*   US-backed anti-ISIS Syrian forces withdraw to Jordan. Hizballah moves in
+*   Iranian Guards' Soleimani holds talks with Kurds
     
-    Oct 13, 2017 @ 16:57
+    Oct 15, 2017 @ 14:27
     
-*   France follows Russia, Germany in committing to Iran nuclear deal
+*   Kurds charge Iranian Guards in Iraqi military buildup against them
     
-    Oct 13, 2017 @ 16:47
+    Oct 15, 2017 @ 08:56
     
-*   At least 6,000 Kurdish fighters sent to Kirkuk against Iraqi buildup
+*   Netanyahu slams police chief for illicit leaks on probes against him
     
-    Oct 13, 2017 @ 16:31
+    Oct 15, 2017 @ 08:42
     
-*   Qatar loses candidacy as UNESCO director to Audrey Azoulay of France
+*   Two rockets from ISIS-Sinai explode in Israel
     
-    Oct 13, 2017 @ 22:14
+    Oct 15, 2017 @ 22:53
     
-*   Netanyahu: Trump repaired damage of Iran nuclear deal
+*   Austria votes for a 31-year old conservative chancellor
     
-    Oct 13, 2017 @ 21:45
+    Oct 15, 2017 @ 21:31
     
-*   Trump: US stays in Iran nuclear deal, provided Congress addresses flaws
+*   Six Egyptian soldiers killed in ISIS attack in Sinai
     
-    Oct 13, 2017 @ 20:44
+    Oct 15, 2017 @ 21:24
     
-*   Tillerson: Trump will neither re-certify the Iran deal, nor leave it
+*   Tillerson: Diplomacy with North Korea “until the first bomb drops”
     
-    Oct 13, 2017 @ 18:58
+    Oct 15, 2017 @ 17:33
     
-*   Turkish convoy heads into Syria, sets up lookout post
+*   Three days mourning for 231 dead in Somalia’s biggest terror attack
     
-    Oct 13, 2017 @ 17:58
+    Oct 15, 2017 @ 14:46
     
-*   US-backed anti-ISIS Syrian forces withdraw to Jordan. Hizballah moves in
+*   Iranian Guards' Soleimani holds talks with Kurds
     
-    Oct 13, 2017 @ 16:57
+    Oct 15, 2017 @ 14:27
     
-*   France follows Russia, Germany in committing to Iran nuclear deal
+*   Kurds charge Iranian Guards in Iraqi military buildup against them
     
-    Oct 13, 2017 @ 16:47
+    Oct 15, 2017 @ 08:56
     
-*   At least 6,000 Kurdish fighters sent to Kirkuk against Iraqi buildup
+*   Netanyahu slams police chief for illicit leaks on probes against him
     
-    Oct 13, 2017 @ 16:31
+    Oct 15, 2017 @ 08:42
     
-*   Qatar loses candidacy as UNESCO director to Audrey Azoulay of France
+*   Two rockets from ISIS-Sinai explode in Israel
     
-    Oct 13, 2017 @ 22:14
+    Oct 15, 2017 @ 22:53
     
-*   Netanyahu: Trump repaired damage of Iran nuclear deal
+*   Austria votes for a 31-year old conservative chancellor
     
-    Oct 13, 2017 @ 21:45
+    Oct 15, 2017 @ 21:31
     
-*   Trump: US stays in Iran nuclear deal, provided Congress addresses flaws
+*   Six Egyptian soldiers killed in ISIS attack in Sinai
     
-    Oct 13, 2017 @ 20:44
+    Oct 15, 2017 @ 21:24
     
-*   Tillerson: Trump will neither re-certify the Iran deal, nor leave it
+*   Tillerson: Diplomacy with North Korea “until the first bomb drops”
     
-    Oct 13, 2017 @ 18:58
+    Oct 15, 2017 @ 17:33
     
 
 12PrevNext DEBKA Video
