@@ -343,13 +343,13 @@ Weekly Deals
 
 Great deals on select products.
 
-2017 Is All Business
+Free Display Offer
 
-Devices, resources, and special VIP deals that can make a difference for your business.
+Buy the top-rated IdeaCentre 710 and get a 23” borderless LED free! Includes detachable stand and easy cable management.
 
-ThinkCentre M710 Tiny
+72 Hours Only
 
-96% smaller than a traditional desktop
+Don't miss the best deals on essential PCs.
 
 THINKAGILE VX SERIES
 
@@ -367,31 +367,31 @@ $1403.10
 
 Shop Now
 
-1512Viewing Best Seller Lenovo Legion Y520 Laptop
+1643Viewing Best Seller Yoga 920 (14")
+
+★★★★★ ★★★★★
+
+0
+
+(0)
+
+$1329.00
+
+Shop Now
+
+643Viewing Best Seller IdeaCentre Y710 Cube
 
 ★★★★★ ★★★★★
 
 4.3
 
-(56)
+(21)
 
-$779.99
-
-Shop Now
-
-811Viewing IdeaCentre AIO Y910 (27")
-
-★★★★★ ★★★★★
-
-4.3
-
-(13)
-
-$1329.99
+$749.99
 
 Shop Now
 
-430Viewing Flex 5 (14")
+1132Viewing Flex 5 (14")
 
 ★★★★★ ★★★★★
 
@@ -403,7 +403,7 @@ $499.99
 
 Shop Now
 
-1221Viewing
+690Viewing
 
 LAPTOPS
 
