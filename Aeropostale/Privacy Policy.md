@@ -215,7 +215,6 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Metallic is the New Black
 *   All About That Lace
 *   Mesh Detail
-*   Studio
 
 Close submenu ( Clearance ) Clearance
 
@@ -427,7 +426,6 @@ Menu Find a Store Aeropostale
         *   Metallic is the New Black
         *   All About That Lace
         *   Mesh Detail
-        *   Studio
 *   Clearance
     
     *   View Home
@@ -517,4 +515,4 @@ About Us
 Stay Connected
 
 *   Live ChatCall Us
-*   Refer-A-Friend
+*   Give $15, Get $15
