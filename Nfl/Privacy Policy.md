@@ -1,4 +1,3 @@
-*   IND2-3TEN2-3Mon 8:30 PM ET
 *   PHI28CAR23Final
 *   MIA20ATL17Final
 *   CHI27BAL24Final (OT)
@@ -12,6 +11,7 @@
 *   PIT19KC13Final
 *   LAC17OAK16Final
 *   NYG23DEN10Final
+*   IND22TEN36Final
 
 *   News
 *   Scores
