@@ -17,7 +17,7 @@
     *   Login
     *   |
     *   Register
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   0MY FAVORITES
 *   MY BAG
@@ -77,13 +77,13 @@
         *   More
         
         *   Accessories
-        *   Activewear
-        *   Bags
-        *   Hats
-        *   Dresses
-        *   Fragrance
-        *   Swimwear
         *   Watches
+        *   Bags
+        *   Dresses
+        *   Rompers/Jumpsuits
+        *   Fragrance
+        *   Hats
+        *   Activewear
         *   Socks
         *   Shop All
         
