@@ -499,6 +499,7 @@ Click Here to View WebMD's Accreditation Seal >>
     *   RxList
     *   OnHealth
     *   BootsWebMD
+    *   WebMDRx
     *   First Aid
     *   WebMD Magazine
     *   WebMD Health Record
