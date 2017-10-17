@@ -1,4 +1,8 @@
-Menu Mozilla
+Your Firefox is out-of-date.
+
+Get the most recent version to keep browsing securely.
+
+Update FirefoxClose Menu Mozilla
 
 *   Firefox
 *   Pocket
@@ -10,11 +14,11 @@ Menu Mozilla
 Download Firefox — English (US)
 
 *   Windows (XP/Vista)
-*   Windows
 *   Windows 64-bit
+*   Windows 32-bit
 *   macOS
-*   Linux
 *   Linux 64-bit
+*   Linux 32-bit
 *   Android
 *   iOS
 
@@ -23,11 +27,11 @@ Your system may not meet the requirements for Firefox, but you can try one of th
 Download Firefox — English (US)
 
 *   Windows (XP/Vista)
-*   Windows
 *   Windows 64-bit
+*   Windows 32-bit
 *   macOS
-*   Linux
 *   Linux 64-bit
+*   Linux 32-bit
 *   Android
 *   iOS
 
