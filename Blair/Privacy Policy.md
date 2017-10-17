@@ -256,16 +256,12 @@ Customer Service
 Email Us  
 FAQs  
 Site Map  
-International Shipping  
 Blair Accessibility Policy  
 California Transparency  
 in Supply Chains Act
 
 Customer Service
 
-Email Us  
-international@blair.com  
-International Shipping  
 Blair Accessibility Policy  
 Site Map  
 California Transparency  
