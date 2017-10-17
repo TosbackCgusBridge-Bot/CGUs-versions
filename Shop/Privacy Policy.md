@@ -349,13 +349,26 @@ Buy the top-rated IdeaCentre 710 and get a 23” borderless LED free! Includes d
 
 72 Hours Only
 
-Don't miss the best deals on essential PCs.
+Don't miss the best deals on essential PCs.  
+Sale ends 10/18
 
 THINKAGILE VX SERIES
 
 This is the future-defined data center
 
-Star Wars Jedi Challenges: Begin Your Journey Recommended For You Best Seller ThinkPad X1 Carbon (5th gen)
+Star Wars Jedi Challenges: Begin Your Journey Recommended For You Best Seller Lenovo Yoga 700 (11")
+
+★★★★★ ★★★★★
+
+3.8
+
+(89)
+
+$449.99
+
+Shop Now
+
+462Viewing Best Seller ThinkPad X1 Carbon (5th gen)
 
 ★★★★★ ★★★★★
 
@@ -367,7 +380,7 @@ $1403.10
 
 Shop Now
 
-1643Viewing Best Seller Yoga 920 (14")
+1806Viewing Best Seller Yoga 920 (14")
 
 ★★★★★ ★★★★★
 
@@ -379,31 +392,19 @@ $1329.00
 
 Shop Now
 
-643Viewing Best Seller IdeaCentre Y710 Cube
+762Viewing Best Seller ThinkPad T470s
 
 ★★★★★ ★★★★★
 
-4.3
+3.5
 
-(21)
+(4)
 
-$749.99
-
-Shop Now
-
-1132Viewing Flex 5 (14")
-
-★★★★★ ★★★★★
-
-4.6
-
-(11)
-
-$499.99
+$1079.10
 
 Shop Now
 
-690Viewing
+858Viewing
 
 LAPTOPS
 
