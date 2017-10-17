@@ -110,53 +110,53 @@
     *   About
     *   Media Kit
 
-*   _Andrew McCarthy_: Trump Faithfully Executes Unraveling Obamacare
+*   _Charles Blow_: Donald Trump: Anti-Obama &. Chieftain of Spite
     
-*   _Amy Davidson Sorkin_: Trump Tries to Break Obamacare All by Himself
+*   _Roger Kimball_: Yes, Trump Is Winning
     
-*   _Ray Takeyh_: A First, Indispensable Step on the Iran Deal
+*   _Ezra Klein_: On Obamacare, Donald Trump Is Sabotaging Himself
     
-*   _David Ignatius_: Trump Tosses Verbal Grenade in Turbulent Mideast
+*   _Melinda Henneberger_: Why Are Dems Losing in the Heartland? Some Ideas
     
-*   _Josh Kraushaar_: Dems Target Ryan, Not Trump, to Take Back House
+*   _George Shultz &. Pedro Aspe_: NAFTA Needs an Update, Not Repeal
     
-*   _Russell Berman_: A Party Out of Power, the Democrats' Luck Runs Out
+*   _Ian Vandewalker &. Larry Norden_: Facebook Can't Do Congress' Job
     
-*   _Andrew Surabian_: Free Trade Needs Strong Enforcement
+*   _Mark Penn_: No, Moscow Didn't Buy the Presidency for $100,000
     
-*   _Lori Wallach_: Will Trump Really Give Us a Better NAFTA?
+*   _Charles Hurt_: Trump Takes Wrecking Ball to Swamp That Is D.C.
     
-*   _Ed Rogers_: John Kelly Offers Washington a Xanax
+*   _Abigail Tracy_: Could Tom Cotton Be the Nail in Rex Tillerson's Coffin?
     
-*   _Alexandra King_: Harvey Weinstein's Master Class on Power and Abuse
+*   _Semih Idiz_: Are We Headed for Turkish-American Breakup?
     
-*   _Stephen Miller_: Can Democrats Afford to Cut Hollywood Loose?
+*   _Christian Britschgi_: Shaking Down Taxpayers Each Time They Want a Big Gulp
     
-*   _Philip Stephens_: How to Beat Populism in Europe
+*   _Byron York_: What's Behind Trump's New Executive Actions
     
-*   _John O'Sullivan_: Populism Not a Threat to Democracy, But a Salve
+*   _David Leonhardt_: How to Fight the New Trumpcare
     
-*   _Toure_: Jemele Hill Should Speak Out--Just Maybe Not on ESPN
+*   _Michael Tanner_: Trump's Health Move Expands Insurance, Buyer Choice
     
-*   _Patrick Hynes_: Trump vs. NFL Is the GOP Primaries All Over Again
+*   _Richard Nephew_: The Iran Gamble Will Not Pay Off
     
-*   _Naomi Schaefer Riley &. James Piereson_: Fostering the Habit of Giving
+*   _Claudia Rosett_: Trump Finally Sets Facts of Sham Iran Deal Straight
     
-*   _Aarian Marshall_: Uber and Lyft Haven't Revolutionized the American City--Yet
+*   _John Podesta_: Tax Cut Plan Takes Disdain for Evidence to New Level
     
-*   _James Robbins_: Trump Plays Smart Chess on the Iran Deal
+*   _Steve Bannon_: The Populist Revolt Is Still Rolling Full Force
     
-*   _Amir Handjani_: Trump Aims at Iran, Hits the U.S.
+*   _Caitlin Huey-Burns_: Dems See Virginia Governor Race as a Must-Win
     
-*   _John Phillips_: Weinstein &. Hollywood's Secular, Liberal Indulgences
+*   _Paul Waldman_: The Republican Civil War Is Spreading
     
-*   _Emma Brockes_: In Hollywood, White Men Always Get a Second Chance
+*   _Mollie Hemingway_: President Trump Renders Media Blind to All But Chaos
     
-*   _David Harsanyi_: About Time Trump Ended Obamacare's Illegal Subsidies
+*   _T.A. Frank_: What Democrats Can Learn From Trump's Culture War
     
-*   _Abigail Tracy_: 'Vast, Pointless Sabotage': Trump Will Collapse Health Care
+*   _Zoe Williams_: Brexit, Trump, Sexual Harassment: All the Same Chauvinism
     
-*   _David Azerrad_: U.S. Divided: It Starts With the Democratic Party
+*   _Heather Mac Donald_: Standing on the Shoulders of Diversocrats
     
 
 *   Previous
@@ -259,10 +259,10 @@ RecommendedPolitics
 *   Investigations
 
 *   Trump: Iran Violating Nuke Deal But He Won't Pull Out Now
-*   Can Republicans De-Escalate Intra-Party Warfare?
+*   Democrats See Virginia Governor Race as a Must-Win
 *   Bannon: Trump Is Going to "Win With 400 Electoral Votes in 2020"
+*   Can Republicans De-Escalate Intra-Party Warfare?
 *   Collins to Remain in Senate, Declines Run for Governor
-*   Trump Turns Back to Tax Cut Plan. Pitch Aimed at Truckers
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -278,25 +278,25 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove56Disapprove +18
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove55Disapprove +12
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve38
-    *   Disapprove56Disapprove +18
-*   President Trump Job ApprovalReuters/Ipsos
     *   Approve36
     *   Disapprove59Disapprove +23
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve43
+    *   Disapprove56Disapprove +13
+*   Direction of CountryRasmussen Reports
+    *   Right Direction31
+    *   Wrong Track63Wrong Track +32
+*   New Jersey Governor - Guadagno vs. MurphyStockton
+    *   Murphy51
+    *   Guadagno33Murphy +18
 
 More Latest Polls In The News
 
-*   Bannon: The Populist Revolt Is Still Rolling Full Force
-*   Nancy Pelosi: "I Have Promoted" Adam Schiff To Get Him "Ready" To Lead House Democrats
+*   Bannon: Populist Revolt Is Rolling Full Force. As Long As You're A Citizen Of Republic, That's What Matters
+*   Pelosi: I Have Promoted Many People, Like Adam Schiff, To Get Them "Ready" To Lead House Democrats
+*   Tillerson "Not Going To Dignify" 'Moron' Question From CNN's Tapper: This Town Feeds On People
 *   Hillary on Weinstein: Trump A "Sexual Assaulter". Bill Clinton's Behavior Litigated, "Clearly In The Past"
-*   Turley: Obama's Original Obamacare Order Was Unconstitutional, Also Violated Law Itself
-*   David Brooks: Trump Treating Puerto Ricans Differently Because They Don't "Look Like" The People In Texas
+*   Puerto Rico Delegate: Everything That We've Asked For, President Trump Has Provided To The Island
 
 *   Politics
 *   Policy
