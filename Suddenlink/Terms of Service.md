@@ -19,7 +19,7 @@ We can't detect your location. Please provide an address. Change Change your Loc
 
 You must at minimum enter a zip code
 
-Select StateAlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict Of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyomingUpdate Updating your location...
+Seleccione EstadoAlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict Of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyomingUpdate Updating your location...
 
 *   Suddenlink
 *   Menu
@@ -213,6 +213,7 @@ Questions? Call 844.790.7475 My Suddenlink Contact Us FAQ
     *   News
     *   Careers
     *   Investor Relations
+    *   Network Information
     *   Areas We Serve
 *   Services
     *   Find Offers
