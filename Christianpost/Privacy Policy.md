@@ -11,12 +11,7 @@
 *   Video
 *   Ipost
 
-<p class="enable-js">. To enjoy our website, you'll need to enable <b>JavaScript</b>. in your web browser. Please <a href="http://enable-javascript.com/" target="\_blank"><b>click here</b></a>. to learn how. </p>. cp-logo subscribe log in CMC sites
-
-*   crossmap
-*   gnl
-
-about **cp** About Us
+<p class="enable-js">. To enjoy our website, you'll need to enable <b>JavaScript</b>. in your web browser. Please <a href="http://enable-javascript.com/" target="\_blank"><b>click here</b></a>. to learn how. </p>. Menu **CP**about about **cp** About Us
 
 *   General Information
 *   Statement of Faith
