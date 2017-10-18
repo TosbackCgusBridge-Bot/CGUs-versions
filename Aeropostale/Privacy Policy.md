@@ -200,6 +200,7 @@ Close submenu ( Girls ) Girls
 *   Velour + Velvet
 *   The New Denim
 *   It's Cold Outside
+*   Sleeve Detail
 
 Close submenu ( Guys ) Guys
 
@@ -412,6 +413,7 @@ Menu Find a Store Aeropostale
         *   Velour + Velvet
         *   The New Denim
         *   It's Cold Outside
+        *   Sleeve Detail
     
     *   Guys
         *   View All
@@ -515,4 +517,4 @@ About Us
 Stay Connected
 
 *   Live ChatCall Us
-*   Give $15, Get $15
+*   Refer-A-Friend
