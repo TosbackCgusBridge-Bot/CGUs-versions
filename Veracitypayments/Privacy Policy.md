@@ -157,4 +157,4 @@ Vanco Payment Solutions is a registered ISO of Wells Fargo Bank, N.A., Concord, 
 *   Terms Of Service|
 *   Site Map|
 
-GO
+GO <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1833255713665121&amp;ev=PageView&amp;noscript=1">.
