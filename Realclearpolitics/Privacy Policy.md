@@ -110,53 +110,53 @@
     *   About
     *   Media Kit
 
-*   _Charles Blow_: Donald Trump: Anti-Obama &. Chieftain of Spite
+*   _Jeffrey Frank_: Donald Trump and the Wrecking-Ball Presidency
     
-*   _Roger Kimball_: Yes, Trump Is Winning
+*   _David Harsanyi_: Trump's Executive Moves Strengthen Checks &. Balances
     
-*   _Ezra Klein_: On Obamacare, Donald Trump Is Sabotaging Himself
+*   _Robert Kuttner_: What If Trump Wins on Obamacare and Taxes?
     
-*   _Melinda Henneberger_: Why Are Dems Losing in the Heartland? Some Ideas
+*   _John Feehery_: Stephen Bannon's Misplaced War
     
-*   _George Shultz &. Pedro Aspe_: NAFTA Needs an Update, Not Repeal
+*   _Mark Bauerlein_: The Establishment Doesn't Have a Clue--But Bannon Does
     
-*   _Ian Vandewalker &. Larry Norden_: Facebook Can't Do Congress' Job
+*   _Michelle Goldberg_: Save the Phony Weinstein Outrage, Republicans
     
-*   _Mark Penn_: No, Moscow Didn't Buy the Presidency for $100,000
+*   _Eddie Scarry_: NBC's Credibility Collapse
     
-*   _Charles Hurt_: Trump Takes Wrecking Ball to Swamp That Is D.C.
+*   _Paul Sperry_: Deal for Bowe Bergdahl Looks Worse and Worse
     
-*   _Abigail Tracy_: Could Tom Cotton Be the Nail in Rex Tillerson's Coffin?
+*   _Miller &. Sokolsky_: Trump's Goals for Decertifying Iran Deal Remain a Mystery
     
-*   _Semih Idiz_: Are We Headed for Turkish-American Breakup?
+*   _Robert Zubrin_: What Do We Need? Missile Defense.
     
-*   _Christian Britschgi_: Shaking Down Taxpayers Each Time They Want a Big Gulp
+*   _Eric Scigliano_: The Book Mattis Reads to Be Prepared for War With N. Korea
     
-*   _Byron York_: What's Behind Trump's New Executive Actions
+*   _Victor Davis Hanson_: Dems Are Still Misdiagnosing What Happened
     
-*   _David Leonhardt_: How to Fight the New Trumpcare
+*   _Masha Gessen_: How Trump Governs Like a Teenager
     
-*   _Michael Tanner_: Trump's Health Move Expands Insurance, Buyer Choice
+*   _Huey-Burns &. Arkin_: Trump and McConnell Make Nice in Unity Display
     
-*   _Richard Nephew_: The Iran Gamble Will Not Pay Off
+*   _Rich Lowry_: From Carson to Kimmel: Collapse of the Late-Night Empire
     
-*   _Claudia Rosett_: Trump Finally Sets Facts of Sham Iran Deal Straight
+*   _Walter Shapiro_: Weinstein and the Republicans' Guilt-by-Association Game
     
-*   _John Podesta_: Tax Cut Plan Takes Disdain for Evidence to New Level
+*   _Scott Rosenberg_: Everyone Knew About Weinstein's Predatory Behavior
     
-*   _Steve Bannon_: The Populist Revolt Is Still Rolling Full Force
+*   _Monica Showalter_: The Flimsiness of Obama's 'Legacy'
     
-*   _Caitlin Huey-Burns_: Dems See Virginia Governor Race as a Must-Win
+*   _Juan Williams_: Trump Is Becoming a Failed President
     
-*   _Paul Waldman_: The Republican Civil War Is Spreading
+*   _Ken Gause_: How Trump Could Win the North Korea Nuclear Game
     
-*   _Mollie Hemingway_: President Trump Renders Media Blind to All But Chaos
+*   _Marion Smith_: Donald Trump, Anti-Communist
     
-*   _T.A. Frank_: What Democrats Can Learn From Trump's Culture War
+*   _Evan Osnos_: Trump's Irrational Hatred of the Iran Deal
     
-*   _Zoe Williams_: Brexit, Trump, Sexual Harassment: All the Same Chauvinism
+*   _Richard Reinsch_: Dethroning False Europe
     
-*   _Heather Mac Donald_: Standing on the Shoulders of Diversocrats
+*   _Paul Hockenos_: The Austrian Elections Should Terrify Europeans
     
 
 *   Previous
@@ -258,9 +258,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump: Iran Violating Nuke Deal But He Won't Pull Out Now
 *   Democrats See Virginia Governor Race as a Must-Win
-*   Bannon: Trump Is Going to "Win With 400 Electoral Votes in 2020"
+*   Trump and McConnell Make Nice in Unity Display
+*   Trump on Bannon vs. Establishment: I Understand Fully How He Feels
 *   Can Republicans De-Escalate Intra-Party Warfare?
 *   Collins to Remain in Senate, Declines Run for Governor
 *   Presidential Job Approval
@@ -277,26 +277,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalGallup
-    *   Approve36
-    *   Disapprove59Disapprove +23
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove56Disapprove +13
-*   Direction of CountryRasmussen Reports
-    *   Right Direction31
-    *   Wrong Track63Wrong Track +32
-*   New Jersey Governor - Guadagno vs. MurphyStockton
-    *   Murphy51
-    *   Guadagno33Murphy +18
+*   Virginia Governor - Gillespie vs. NorthamMonmouth\*
+    *   Northam47
+    *   Gillespie48Gillespie +1
+*   Virginia Governor - Gillespie vs. NorthamChristopher Newport Univ.\*
+    *   Northam48
+    *   Gillespie44Northam +4
+*   Virginia Governor - Gillespie vs. NorthamRoanoke College\*
+    *   Northam50
+    *   Gillespie44Northam +6
+*   New Jersey Governor - Guadagno vs. MurphyFOX News
+    *   Murphy47
+    *   Guadagno33Murphy +14
 
 More Latest Polls In The News
 
+*   Joe Scarborough: Donald Trump Is The "Antithesis" Of Jesus Christ's Sermon On The Mount
+*   Jonathan Haidt: The Psychological Roots Of Nationalism vs. Globalism
+*   McCain: U.S. Must Not Refuse Obligations Of Global Leadership In Favor Of "Half Baked" Nationalist "Dogma"
 *   Bannon: Populist Revolt Is Rolling Full Force. As Long As You're A Citizen Of Republic, That's What Matters
 *   Pelosi: I Have Promoted Many People, Like Adam Schiff, To Get Them "Ready" To Lead House Democrats
-*   Tillerson "Not Going To Dignify" 'Moron' Question From CNN's Tapper: This Town Feeds On People
-*   Hillary on Weinstein: Trump A "Sexual Assaulter". Bill Clinton's Behavior Litigated, "Clearly In The Past"
-*   Puerto Rico Delegate: Everything That We've Asked For, President Trump Has Provided To The Island
 
 *   Politics
 *   Policy
