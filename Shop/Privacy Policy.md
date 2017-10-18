@@ -368,7 +368,7 @@ $449.99
 
 Shop Now
 
-462Viewing Best Seller ThinkPad X1 Carbon (5th gen)
+432Viewing Best Seller ThinkPad X1 Carbon (5th gen)
 
 ★★★★★ ★★★★★
 
@@ -380,7 +380,7 @@ $1403.10
 
 Shop Now
 
-1806Viewing Best Seller Yoga 920 (14")
+1956Viewing Best Seller Yoga 920 (14")
 
 ★★★★★ ★★★★★
 
@@ -388,23 +388,23 @@ Shop Now
 
 (0)
 
-$1329.00
+$1999.99
 
 Shop Now
 
-762Viewing Best Seller ThinkPad T470s
+4151Viewing Best Seller Lenovo Legion Y520 Laptop
 
 ★★★★★ ★★★★★
 
-3.5
+4.3
 
-(4)
+(56)
 
-$1079.10
+$779.99
 
 Shop Now
 
-858Viewing
+975Viewing
 
 LAPTOPS
 
