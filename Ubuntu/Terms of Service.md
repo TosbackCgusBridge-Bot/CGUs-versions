@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server Development Summary – 17 Oct 2017 ›
 *   LXD Weekly Status #19 ›
 *   OpenStack Development Summary – October 13, 2017 ›
 *   Kubernetes the not so easy way ›
 *   Security Team Weekly Summary: October 12, 2017 ›
-*   How to find Ubuntu Server Bugs to Fix ›
