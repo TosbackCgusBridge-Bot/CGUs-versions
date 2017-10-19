@@ -135,7 +135,7 @@ View Platinum Headphones on Instagram
 
 Gran Turismo Sport is here. Check out the car categories &. tell us what you'll race in. https://t.co/TYIqUby1Hb
 
-17 hours ago
+1 day ago
 
 View Tweet
 
@@ -199,7 +199,7 @@ View All about ambiance. on Instagram
 
 It's easy to record in #Superslowmotion with #Xperia. Our tutorial shows you how: https://t.co/0hwtSypSVy
 
-23 hours ago
+1 day ago
 
 View Tweet
 
@@ -295,7 +295,7 @@ View Primary Colors on Instagram
 
 Show off your best side. Check out the portrait challenge at #SonySquareNYC's Pushing the Lens. https://t.co/aWQVCPOLMb
 
-1 day ago
+2 days ago
 
 View Tweet
 
