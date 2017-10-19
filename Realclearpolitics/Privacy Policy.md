@@ -110,53 +110,53 @@
     *   About
     *   Media Kit
 
-*   _Jeffrey Frank_: Donald Trump and the Wrecking-Ball Presidency
+*   _Sec. Steve Mnuchin_: Tax Reform Will Boost Workers &. Business
     
-*   _David Harsanyi_: Trump's Executive Moves Strengthen Checks &. Balances
+*   _Paul Krugman_: The Republican Party Is No Place for Honest Men
     
-*   _Robert Kuttner_: What If Trump Wins on Obamacare and Taxes?
+*   _Karl Zinsmeister_: Why Philanthropy Is Worth Defending in Tax Code
     
-*   _John Feehery_: Stephen Bannon's Misplaced War
+*   _Leonard Pitts_: Democrats Need to Move Left
     
-*   _Mark Bauerlein_: The Establishment Doesn't Have a Clue--But Bannon Does
+*   _Ned Ryun_: Beware of the Bannon: Republican Senators Reap Whirlwind
     
-*   _Michelle Goldberg_: Save the Phony Weinstein Outrage, Republicans
+*   _E.J. Montini_: McCain Calls Trump a Phony &. a Punk (in a Nice Way)
     
-*   _Eddie Scarry_: NBC's Credibility Collapse
+*   _Jack Hellner_: McCain's Amnesia on Obama's Foreign Policy Failures
     
-*   _Paul Sperry_: Deal for Bowe Bergdahl Looks Worse and Worse
+*   _Jessica Valenti_: #MeToo Named the Victims. Now, Let's List the Perps
     
-*   _Miller &. Sokolsky_: Trump's Goals for Decertifying Iran Deal Remain a Mystery
+*   _Michelle Malkin_: Beware the Rape Allegation Bandwagon
     
-*   _Robert Zubrin_: What Do We Need? Missile Defense.
+*   _Willa Paskin_: How Long Can Jimmy Kimmel Be the Hero of the Left?
     
-*   _Eric Scigliano_: The Book Mattis Reads to Be Prepared for War With N. Korea
+*   _Carl Cannon_: A Flag-Raising in Puerto Rico--and a Call to Duty
     
-*   _Victor Davis Hanson_: Dems Are Still Misdiagnosing What Happened
+*   _Thomas Friedman_: The Trump Doctrine: Obama Built It, I Broke It, You Fix It
     
-*   _Masha Gessen_: How Trump Governs Like a Teenager
+*   _Clifford May_: Trump's Third Way on the Iran Nuclear Deal
     
-*   _Huey-Burns &. Arkin_: Trump and McConnell Make Nice in Unity Display
+*   _Uri Friedman_: Is Obama's Foreign Policy Legacy Disappearing?
     
-*   _Rich Lowry_: From Carson to Kimmel: Collapse of the Late-Night Empire
+*   _John Heubusch_: Trump Must Mirror Reagan's Leadership on Taxes
     
-*   _Walter Shapiro_: Weinstein and the Republicans' Guilt-by-Association Game
+*   _Eric Levitz_: Trump Is Afraid His Tax Plan Is Doomed. He Should Be
     
-*   _Scott Rosenberg_: Everyone Knew About Weinstein's Predatory Behavior
+*   _Bernie Marcus_: If GOP Won't Unite on Taxes, Dems Will Win in 2018
     
-*   _Monica Showalter_: The Flimsiness of Obama's 'Legacy'
+*   _Josh Kraushaar_: Bannon's Bark Is Worse Than His Bite
     
-*   _Juan Williams_: Trump Is Becoming a Failed President
+*   _Bill Whalen_: The End of an Era in California Politics?
     
-*   _Ken Gause_: How Trump Could Win the North Korea Nuclear Game
+*   _Thomas Edsall &. Henry Olsen_: Can the Parties Survive?
     
-*   _Marion Smith_: Donald Trump, Anti-Communist
+*   _Mike Allen_: Trump Spreads Fake News &. Lives in an Alternative Reality
     
-*   _Evan Osnos_: Trump's Irrational Hatred of the Iran Deal
+*   _Tucker Carlson_: Why the Media Constantly Lies and Manipulates
     
-*   _Richard Reinsch_: Dethroning False Europe
+*   _Lang &. Wagmeister_: Harvey Weinstein's Fall &. Hollywood's Culture of Secrecy
     
-*   _Paul Hockenos_: The Austrian Elections Should Terrify Europeans
+*   _John Podhoretz_: Why Hollywood Is the Perfect Hunting Ground for Pervs
     
 
 *   Previous
@@ -258,11 +258,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Democrats See Virginia Governor Race as a Must-Win
 *   Trump and McConnell Make Nice in Unity Display
-*   Trump on Bannon vs. Establishment: I Understand Fully How He Feels
+*   Democrats See Virginia Governor Race as a Must-Win
+*   Greenwald: Journalists "Eagerly Being Manipulated" on Russia Stories
+*   Bannon on Republican Insurgency: "Nobody Can Run and Hide"
 *   Can Republicans De-Escalate Intra-Party Warfare?
-*   Collins to Remain in Senate, Declines Run for Governor
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -277,26 +277,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Virginia Governor - Gillespie vs. NorthamMonmouth\*
-    *   Northam47
-    *   Gillespie48Gillespie +1
-*   Virginia Governor - Gillespie vs. NorthamChristopher Newport Univ.\*
-    *   Northam48
-    *   Gillespie44Northam +4
-*   Virginia Governor - Gillespie vs. NorthamRoanoke College\*
-    *   Northam50
-    *   Gillespie44Northam +6
-*   New Jersey Governor - Guadagno vs. MurphyFOX News
-    *   Murphy47
-    *   Guadagno33Murphy +14
+*   Virginia Governor - Gillespie vs. NorthamFOX News\*
+    *   Northam49
+    *   Gillespie42Northam +7
+*   Virginia Governor - Gillespie vs. NorthamQuinnipiac\*
+    *   Northam53
+    *   Gillespie39Northam +14
+*   President Trump Job ApprovalGallup
+    *   Approve36
+    *   Disapprove59Disapprove +23
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve43
+    *   Disapprove55Disapprove +12
 
 More Latest Polls In The News
 
-*   Joe Scarborough: Donald Trump Is The "Antithesis" Of Jesus Christ's Sermon On The Mount
-*   Jonathan Haidt: The Psychological Roots Of Nationalism vs. Globalism
+*   Holder: Comey's Draft Exoneration Of Clinton "A Good-Faith Assessment" Based On The Facts
+*   Dem Rep. Frederica Wilson: "Insensitive" Trump Told Soldier's Widow He "Knew What He Signed Up For"
+*   Greenwald to Tucker Carlson: Journalists "Eagerly Being Manipulated" By Intelligence Community On Russia
 *   McCain: U.S. Must Not Refuse Obligations Of Global Leadership In Favor Of "Half Baked" Nationalist "Dogma"
-*   Bannon: Populist Revolt Is Rolling Full Force. As Long As You're A Citizen Of Republic, That's What Matters
-*   Pelosi: I Have Promoted Many People, Like Adam Schiff, To Get Them "Ready" To Lead House Democrats
+*   Jonathan Haidt: The Psychological Roots Of Nationalism vs. Globalism
 
 *   Politics
 *   Policy
