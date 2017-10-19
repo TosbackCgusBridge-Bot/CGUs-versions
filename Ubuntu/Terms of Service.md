@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   MAAS KVM Pods ›
+*   Kernel Team Summary – October 18th, 2017 ›
+*   Top snaps in September: games, GNOME apps and more! ›
 *   Ubuntu Server Development Summary – 17 Oct 2017 ›
 *   LXD Weekly Status #19 ›
-*   OpenStack Development Summary – October 13, 2017 ›
-*   Kubernetes the not so easy way ›
-*   Security Team Weekly Summary: October 12, 2017 ›
