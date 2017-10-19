@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Wildfires continue to ravage California. NOAA experts are on the scene AROUND NOAA // NOAA, NASA team up again to investigate the atmosphere over Antarctica Scientists uncover a centuries-old case of mistaken identity in the Chesapeake Bay A whirlwind of an Atlantic hurricane season: What gives? Celebrate National Seafood Month
+Enter Search Terms Globe had 2nd warmest year to date, 4th warmest September on record AROUND NOAA // NOAA, NASA team up again to investigate the atmosphere over Antarctica Scientists uncover a centuries-old case of mistaken identity in the Chesapeake Bay A whirlwind of an Atlantic hurricane season: What gives? Celebrate National Seafood Month
 
 *   About our agency
 *   News and features
