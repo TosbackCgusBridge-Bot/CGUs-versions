@@ -332,9 +332,9 @@ Boost Your Productivity With Performance You Can Count On
 
 Shop now >.
 
-When inspiration strikes, strike back
+CROSS OUT THE ORDINARY
 
-Shop Now >.
+Learn More >.
 
 *   1
 *   2
@@ -343,68 +343,19 @@ Weekly Deals
 
 Great deals on select products.
 
-Free Display Offer
+Rebel Alliance or Galactic Empire
 
-Buy the top-rated IdeaCentre 710 and get a 23” borderless LED free! Includes detachable stand and easy cable management.
+This device is as epic as its namesake.
 
-72 Hours Only
+GAMING SALE
 
-Don't miss the best deals on essential PCs.  
-Sale ends 10/18
+Save big on elite gaming desktops, laptops &. accessories!
 
 THINKAGILE VX SERIES
 
 This is the future-defined data center
 
-Star Wars Jedi Challenges: Begin Your Journey Recommended For You Best Seller Lenovo Yoga 700 (11")
-
-★★★★★ ★★★★★
-
-3.8
-
-(89)
-
-$449.99
-
-Shop Now
-
-432Viewing Best Seller ThinkPad X1 Carbon (5th gen)
-
-★★★★★ ★★★★★
-
-3.8
-
-(60)
-
-$1403.10
-
-Shop Now
-
-1956Viewing Best Seller Yoga 920 (14")
-
-★★★★★ ★★★★★
-
-0
-
-(0)
-
-$1999.99
-
-Shop Now
-
-4151Viewing Best Seller Lenovo Legion Y520 Laptop
-
-★★★★★ ★★★★★
-
-4.3
-
-(56)
-
-$779.99
-
-Shop Now
-
-975Viewing
+Star Wars Jedi Challenges: Begin Your Journey
 
 LAPTOPS
 
