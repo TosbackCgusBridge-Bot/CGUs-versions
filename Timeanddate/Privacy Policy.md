@@ -89,7 +89,7 @@ Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this pag
     *   Date Pattern Calculator
     *   Fun Fact Articles
 
-Newsletter About Us Site Map Account/Settings Article TopicsHome   Site information   Privacy Statement for timeanddate.comPrivacy Statement for timeanddate.com
+Home   Site information   Privacy Statement for timeanddate.comPrivacy Statement for timeanddate.com
 
 We have a firm commitment to privacy at timeanddate.com.
 
@@ -148,22 +148,6 @@ webmaster@timeanddate.comtimeanddate.com
 13.  Disclaimer
 
 Index
-
-You might also likeEquinox on September 22
-
-On the equinox, day and night are nearly the same length, 12 hours each, everywhere on Earth. more
-
-Full Moon Names
-
-Full Moons had given names in many ancient cultures. The Full Moon names we use today often reflect nature like Harvest Moon. more
-
-2017 / 2018 Cosmic Calendar
-
-List of cosmic events in 2017 an 2018 including supermoons, solar and lunar eclipses, meteor showers, solstices, and equinoxes. more
-
-12 Months of the Year
-
-Find out what months have to do with the Moon, why there are 12 months, and what the month names mean. more
 
 Copyright © Time and Date AS 1995–2017. All rights reserved.
 
