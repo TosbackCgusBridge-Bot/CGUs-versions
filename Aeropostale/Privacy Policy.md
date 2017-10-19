@@ -14,7 +14,7 @@ Aeropostale
 Close submenu ( Girls ) Girls
 
 *   View Home
-*   Open submenu ( Features ) Features
+*   Open submenu ( Featured ) Featured
 *   Clearance
 
 *   Open submenu ( Tops ) Tops
@@ -26,7 +26,7 @@ Close submenu ( Girls ) Girls
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
 
-Close submenu ( Features ) Features
+Close submenu ( Featured ) Featured
 
 *   View All
 *   $6 Tops
@@ -73,7 +73,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 Close submenu ( Guys ) Guys
 
 *   View Home
-*   Open submenu ( Features ) Features
+*   Open submenu ( Featured ) Featured
 *   Clearance
 
 *   Open submenu ( Tops ) Tops
@@ -82,7 +82,7 @@ Close submenu ( Guys ) Guys
 *   Jackets + Vests
 *   Accessories
 
-Close submenu ( Features ) Features
+Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
@@ -102,6 +102,7 @@ Close submenu ( Tops ) Tops
 *   Shirts
 *   Polos
 *   Hoodies + Sweatshirts
+*   Sweaters
 *   Tanks
 
 Close submenu ( Bottoms ) Bottoms
@@ -145,7 +146,7 @@ Close submenu ( Guys Jeans ) Guys Jeans
 Close submenu ( Live Love Dream ) Live Love Dream
 
 *   View Home
-*   Open submenu ( Features ) Features
+*   Open submenu ( Featured ) Featured
 *   Clearance
 
 *   Open submenu ( Tops ) Tops
@@ -156,7 +157,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Undies
 *   Accessories
 
-Close submenu ( Features ) Features
+Close submenu ( Featured ) Featured
 
 *   View All
 *   Trending
@@ -229,6 +230,7 @@ Close submenu ( Clearance ) Clearance
 Close submenu ( Girls ) Girls
 
 *   View All
+*   Under $10
 *   Tees + Polos
 *   Camis + Tanks
 *   Fashion Tops
@@ -239,11 +241,11 @@ Close submenu ( Girls ) Girls
 *   Joggers + Sweats
 *   Leggings + Active
 *   Shorts
-*   Accessories
 
 Close submenu ( Guys ) Guys
 
 *   View All
+*   Under $10
 *   Tees + Tanks
 *   Polos
 *   Shirts + Sweaters
@@ -255,6 +257,7 @@ Close submenu ( Guys ) Guys
 Close submenu ( Live Love Dream ) Live Love Dream
 
 *   View All
+*   Under $10
 *   Active
 *   Lounge
 *   Tees
@@ -265,7 +268,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**FREE SHIPPING ON $75**
+**$25 OFF $100** USE CODE: **25OFF** + **FREE SHIPPING ON $75**
 
 *   My Account My Account Login Register
 
@@ -274,7 +277,7 @@ Menu Find a Store Aeropostale
 *   Girls
     
     *   View Home
-    *   Features
+    *   Featured
         *   View All
         *   $6 Tops
         *   New Arrivals
@@ -317,10 +320,11 @@ Menu Find a Store Aeropostale
         *   Undies
         *   Sleep
         *   Accessories
+    
 *   Guys
     
     *   View Home
-    *   Features
+    *   Featured
         *   View All
         *   New Arrivals
         *   Tapout
@@ -339,6 +343,7 @@ Menu Find a Store Aeropostale
         *   Shirts
         *   Polos
         *   Hoodies + Sweatshirts
+        *   Sweaters
         *   Tanks
     
     *   Bottoms
@@ -349,6 +354,7 @@ Menu Find a Store Aeropostale
         *   Shorts
     *   Jackets + Vests
     *   Accessories
+    
 *   Jeans
     
     *   View Home
@@ -372,10 +378,11 @@ Menu Find a Store Aeropostale
         *   Straight
         *   Super Skinny
         *   Relaxed
+    
 *   Live Love Dream
     
     *   View Home
-    *   Features
+    *   Featured
         *   View All
         *   Trending
         *   Active
@@ -403,6 +410,7 @@ Menu Find a Store Aeropostale
     
     *   Undies
     *   Accessories
+    
 *   Trending
     
     *   View Home
@@ -428,11 +436,13 @@ Menu Find a Store Aeropostale
         *   Metallic is the New Black
         *   All About That Lace
         *   Mesh Detail
+    
 *   Clearance
     
     *   View Home
     *   Girls
         *   View All
+        *   Under $10
         *   Tees + Polos
         *   Camis + Tanks
         *   Fashion Tops
@@ -443,10 +453,10 @@ Menu Find a Store Aeropostale
         *   Joggers + Sweats
         *   Leggings + Active
         *   Shorts
-        *   Accessories
     
     *   Guys
         *   View All
+        *   Under $10
         *   Tees + Tanks
         *   Polos
         *   Shirts + Sweaters
@@ -457,6 +467,7 @@ Menu Find a Store Aeropostale
     
     *   Live Love Dream
         *   View All
+        *   Under $10
         *   Active
         *   Lounge
         *   Tees
@@ -466,28 +477,29 @@ Menu Find a Store Aeropostale
         *   Shorts
         *   Intimates
         *   Accessories
+    
 
 *   Help - Live Chat Help - Call Us
 *   Sign Up/Login
 *   Refer a Friend
 
-0 Search Catalog Search Promotions Shop Girls Clearance Shop Guys Clearance shop girls shop guys shop girls jeans shop guys jeans
+0 Search Catalog Search Shop Girls Shop Guys Get In Store Coupon Promotions Shop Girls Shop Guys
 
+*   Jackets + Vests Starting at $19.80 Shop Girls Shop Guys
+*   Joggers + Sweats Starting at $10.00 Shop Guys Shop Girls
 *   Hoodies Starting at $10.00 Shop Girls Shop Guys
-*   Joggers + Sweats Starting at $10.00 Shop Girls Shop Guys
-*   Graphic Tees Starting at $6.00 Shop Girls Shop Guys
-*   Long Sleeves Starting at $6.00 Shop Girls Shop Guys
+*   Tees Starting at $6.00 Shop Girls Shop Guys
+*   Jackets + Vests Starting at $19.80 Shop Girls Shop Guys
+*   Joggers + Sweats Starting at $10.00 Shop Guys Shop Girls
 *   Hoodies Starting at $10.00 Shop Girls Shop Guys
-*   Joggers + Sweats Starting at $10.00 Shop Girls Shop Guys
-*   Graphic Tees Starting at $6.00 Shop Girls Shop Guys
-*   Long Sleeves Starting at $6.00 Shop Girls Shop Guys
+*   Tees Starting at $6.00 Shop Girls Shop Guys
 
 *   1
 *   2
 *   3
 *   4
 
-<div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up © 2017 Aeropostale. All Rights Reserved. SIGN UP For AERO TEXTS Join the party!  
+shop girls shop guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
@@ -518,3 +530,5 @@ Stay Connected
 
 *   Live ChatCall Us
 *   Refer-A-Friend
+
+© 2017 Aeropostale. All Rights Reserved.
