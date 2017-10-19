@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 11%  2% 
+What is PeekScore? Public Records &. Background Checks 8%  2% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 11%  2% 
     
 *   Show Less ...
 
-11%  11%  Arrest Records &. Driving Infractions
+8%  8%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,53 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 11%  Twitter 2% 
-
-*   Cristiano Ronaldo - Cristiano
-    
-*   FTC - FTC
-    
-*   Justice Department - TheJusticeDept
-    
-*   Free Privacy Policy - FreePrivacy1
-    
-*   Show More ...
-
-*   CDC - CDCgov
-    
-*   HHS.gov - HHSGov
-    
-*   NIH - NIH
-    
-*   HealthCare.gov - HealthCareGov
-    
-*   U.S. Census Bureau - uscensusbureau
-    
-*   U.S. FDA - FDArecalls
-    
-*   Federal Reserve - federalreserve
-    
-*   HIV.gov - HIVGov
-    
-*   OAIC - OAICgov
-    
-*   U.S. FDA - US\_FDA
-    
-*   Bush Library - Bush41Library
-    
-*   EuropeanPrivacyAssoc - europeanprivacy
-    
-*   IRS - IRSnews
-    
-*   Francis S. Collins - NIHDirector
-    
-*   FDA Drug Information - FDA\_Drug\_Info
-    
-*   DOJ Civil Rights - CivilRights
-    
-*   Show Less ...
-
-Pinterest 11%  Wikipedia 2% 
+Facebook 8%  Twitter 8%  Pinterest 8%  Wikipedia 2% 
 
 *   Medana
     
@@ -218,33 +172,7 @@ Pinterest 11%  Wikipedia 2% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Instagram 2% 
-
-*   Karen McDowall - privacy\_\_\_policy
-    
-*   Privacy Policy - insta\_privacy\_policy
-    
-*   Рогов Хуго - privacypolicy
-    
-*   privacypolicy\_\_\_\_ - privacypolicy\_\_\_\_
-    
-*   Show More ...
-
-*   privacypolicy - privacypolicy4072
-    
-*   Privacy Policy - mrprivacypolicy
-    
-*   Terms &. Privacy Policy - policytermsprivacy
-    
-*   privacy policy - privacy.p
-    
-*   privacy&policy - privacyandpolicy
-    
-*   Loading... - privacy.policy\_\_
-    
-*   Show Less ...
-
-Google+ 2% 
+Instagram 8%  Google+ 2% 
 
 *   Free Privacy Policy - Google+
     
@@ -309,7 +237,7 @@ Linkedin 2% 
     
 *   Show Less ...
 
-Foursquare 11%  Music 2% 
+Foursquare 8%  Music 2% 
 
 *   Pandora
     
@@ -482,15 +410,7 @@ Web Search 2% 
     
 *   Show Less ...
 
-Images 2% 
-
-19
-
-10
-
-twitterx
-
-instagramx
+Images 8% 
 
 *   About PeekYou
 *   Privacy Policy
