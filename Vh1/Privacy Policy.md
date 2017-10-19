@@ -398,7 +398,6 @@ Copyright © 2017 Viacom International Inc. - All Rights Reserved.
 closeAll ResultsShowsEpisodesVideosNewsEventsTrending
 
 *   FAQ/Help
-*   Keep Viacom
 *   Jobs
 *   Terms of Use \[Updated 3/14/2017\]
 *   Privacy Policy/Privacy Rights \[Updated 6/22/2017\]
