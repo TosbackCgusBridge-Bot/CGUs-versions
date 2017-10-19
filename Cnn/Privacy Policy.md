@@ -56,6 +56,7 @@ Sport
 *   Motorsport
 *   Sailing
 *   Skiing
+*   Olympics
 
 *   Destinations
 *   Food &. Drink
@@ -150,7 +151,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 
 FacebookTwitterShare
 
-London, United Kingdom13°
+London, United Kingdom15°
 
 1.  Home
 
@@ -199,6 +200,7 @@ London, United Kingdom13°
     7.  Motorsport
     8.  Sailing
     9.  Skiing
+    10.  Olympics
 
 1.  1.  Destinations
     2.  Food &. Drink
