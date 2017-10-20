@@ -17,7 +17,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 13.043,03ǀ
+*   DAX 12.990,10ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
