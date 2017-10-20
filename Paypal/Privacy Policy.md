@@ -21,16 +21,39 @@ Menu PayPal
 
 *   Sign Up for Free
 
-Log In Sign Up Need your money fast?  
-PayPal Instant Transfer
+Log In Sign Up Personal
 
-Move money to your bank account using an eligible debit card linked to your PayPal account ($0.25 per transfer). Transfers typically occur within 30 minutes.
+Learn how PayPal makes it easy to shop and send money to family and friends.
 
-Sign Up Now Support Hurricane Irma Relief Efforts. View Charities &. Donate Looking for business solutions?
+\+ Personal + Personal
 
-PayPal makes it easy to get paid securely anywhere you do business: online, on mobile, in person or via an invoice.
+Shop, send money, and pay bills without entering your payment info again and again
 
-Explore Business Solutions
+With 24/7 fraud detection, we work around the clock to keep your account secure
+
+Pay your way, whether it’s credit, debit, or your bank account
+
+Speed through checkout at millions of brands that accept PayPal
+
+Sign Up for Free Business
+
+Start accepting all kinds of payments with one PayPal business account.
+
+\+ Business + Business
+
+Get paid on your website or app, in your store or on-the-go, and by email or phone
+
+Accept cards, PayPal, Apple Pay, PayPal Credit and much more
+
+Borrow for your business with affordable business loans. Learn more
+
+Get live support and seller protection
+
+Get Started Make a small loan. Make a big impact.
+
+For over 10 years, PayPal has supported Kiva's efforts to empower entrepreneurs around the world. Join us by making a loan to a Kiva entrepreneur by Oct. 25th and receive a $25 Kiva credit to lend again. Terms apply.
+
+Learn more
 
 Join 200+ million people who use PayPal to
 
@@ -93,4 +116,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=d94026f32fec&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=3bbb9540711a4f6fa1a7032053f9585b&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=ec8693bee1ed&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=3fd072e8f31749708186c0f11ab9e7a3&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
