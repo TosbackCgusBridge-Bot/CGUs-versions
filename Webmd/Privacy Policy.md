@@ -33,7 +33,7 @@ Skip to main content
     *   View All
     
     Featured Topics*   Assessment Get Help for Migraine Relief
-    *   Video What Life With Bipolar Disorder Is Really Like
+    *   Video Doctors Tweet Things They've Heard From Patients
 *   Drugs &  
     Supplements Drugs &. Supplements Drugs &. Supplements Find &. Review
     
@@ -107,10 +107,10 @@ Skip to main content
     Experts News &. Experts News &. Experts Health News
     
     *   News Special: Tension in the Doctor’s Office?
+    *   Too Much Exercise May Be Bad for Some Men's Hearts
+    *   Even a Little Walking Can Lengthen Your Life
     *   Melatonin Benefits, Risks: What You Need to Know
     *   1 in 9 American Men Has Oral HPV
-    *   Study: Handgun Waiting Periods Save Lives
-    *   Obesity Linked to 13 Types of Cancer
     
     Experts &. Community
     
@@ -440,7 +440,7 @@ WebMD Policy Last updated on December 30, 2016 © 2016 WebMD, LLC. All rights re
 
 Some of these might surprise you.
 
-Sam's Club Members Get a $45 Rebate When They Buy Tide, Bounty, And Charmin Together. Join here for big savings on products your family loves. Only at Sam's Club. Ad By **Sam's Club** AdChoices Depressed, Guilty Feelings After Eating?
+Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
