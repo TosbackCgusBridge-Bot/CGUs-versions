@@ -250,7 +250,6 @@
     *   Explore All Deals
     *   Laptop Deals
     *   Professional Laptop Deals
-    *   Tablet Deals
     *   Desktop Deals
     *   Accessories Deals
     *   Clearance
@@ -355,7 +354,55 @@ THINKAGILE VX SERIES
 
 This is the future-defined data center
 
-Star Wars Jedi Challenges: Begin Your Journey
+Star Wars Jedi Challenges: Begin Your Journey Recommended For You Best Seller Lenovo Yoga 700 (11")
+
+★★★★★ ★★★★★
+
+3.8
+
+(89)
+
+$449.99
+
+Shop Now
+
+490Viewing Best Seller ThinkPad X1 Carbon (5th gen)
+
+★★★★★ ★★★★★
+
+3.8
+
+(60)
+
+$1403.10
+
+Shop Now
+
+1678Viewing Best Seller ThinkPad T470 Business Laptop
+
+★★★★★ ★★★★★
+
+3.3
+
+(13)
+
+$881.10
+
+Shop Now
+
+912Viewing Best Seller ThinkPad T470s
+
+★★★★★ ★★★★★
+
+3.5
+
+(4)
+
+$1079.10
+
+Shop Now
+
+817Viewing
 
 LAPTOPS
 
