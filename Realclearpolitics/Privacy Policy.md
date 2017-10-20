@@ -110,53 +110,53 @@
     *   About
     *   Media Kit
 
-*   _Sec. Steve Mnuchin_: Tax Reform Will Boost Workers &. Business
+*   _David Ignatius_: What Foreign Leaders Need to Know About Trump
     
-*   _Paul Krugman_: The Republican Party Is No Place for Honest Men
+*   _Gregg Jarrett_: Clinton Cover-Up--Brought to You by Trump Investigators
     
-*   _Karl Zinsmeister_: Why Philanthropy Is Worth Defending in Tax Code
+*   _Katrina vanden Heuvel_: What's Even Scarier Than Donald Trump?
     
-*   _Leonard Pitts_: Democrats Need to Move Left
+*   _Jeff Stein_: Democrats' Test of Party Unity Is Off to a Rocky Start
     
-*   _Ned Ryun_: Beware of the Bannon: Republican Senators Reap Whirlwind
+*   _Bret Stephens_: McCain the Hedgehog vs. Bannon the Honey Badger
     
-*   _E.J. Montini_: McCain Calls Trump a Phony &. a Punk (in a Nice Way)
+*   _Willis Krumholz_: The Trouble With the Neocon Siren Song
     
-*   _Jack Hellner_: McCain's Amnesia on Obama's Foreign Policy Failures
+*   _Jonathan Tasini_: America Needs Higher Wages, Not Lower Taxes
     
-*   _Jessica Valenti_: #MeToo Named the Victims. Now, Let's List the Perps
+*   _Peter Ferrara_: Economic Growth Is Not a Mystery, Yet It Eludes Dems
     
-*   _Michelle Malkin_: Beware the Rape Allegation Bandwagon
+*   _Jacob Siegel &. Angela Nagle_: Anti-PC Idol-Smashing Isn't Just a Joke
     
-*   _Willa Paskin_: How Long Can Jimmy Kimmel Be the Hero of the Left?
+*   _Molly Ringwald_: All the Other Harvey Weinsteins
     
-*   _Carl Cannon_: A Flag-Raising in Puerto Rico--and a Call to Duty
+*   _Andrew Ferguson_: Sally Quinn &. the Ruling Classless
     
-*   _Thomas Friedman_: The Trump Doctrine: Obama Built It, I Broke It, You Fix It
+*   _Noah Feldman_: Goodbye and Good Riddance to the Islamic State
     
-*   _Clifford May_: Trump's Third Way on the Iran Nuclear Deal
+*   _Peter Bergen_: Trump Didn't Defeat ISIS
     
-*   _Uri Friedman_: Is Obama's Foreign Policy Legacy Disappearing?
+*   _Jonathan Tobin_: Shift in War That Beat ISIS Occurred on Trump's Watch
     
-*   _John Heubusch_: Trump Must Mirror Reagan's Leadership on Taxes
+*   _Amy Davidson Sorkin_: Trump's Unseemly Condolence-Call Bragging Game
     
-*   _Eric Levitz_: Trump Is Afraid His Tax Plan Is Doomed. He Should Be
+*   _Forbes et al._: GOP, Deliver Trump's Tax Reform to Americans by Christmas
     
-*   _Bernie Marcus_: If GOP Won't Unite on Taxes, Dems Will Win in 2018
+*   _Arkin & Huey-Burns_: Bannon's 'War' Includes Races Against Dem Incumbents
     
-*   _Josh Kraushaar_: Bannon's Bark Is Worse Than His Bite
+*   _Bill Scher_: Steve Bannon, Democrats, and the Urge to Purge
     
-*   _Bill Whalen_: The End of an Era in California Politics?
+*   _Mollie Hemingway_: McConnell's Disingenuous Argument on GOP Nominees
     
-*   _Thomas Edsall &. Henry Olsen_: Can the Parties Survive?
+*   _Megan McArdle_: Scandals and Outrage Won't End Sexual Harassment
     
-*   _Mike Allen_: Trump Spreads Fake News &. Lives in an Alternative Reality
+*   _Alyssa Milano_: How We Can Help Women Come Forward
     
-*   _Tucker Carlson_: Why the Media Constantly Lies and Manipulates
+*   _Roger Simon_: Uranium One Means Mueller Must Recuse Himself
     
-*   _Lang &. Wagmeister_: Harvey Weinstein's Fall &. Hollywood's Culture of Secrecy
+*   _Charles Blow_: Trump Isn't Hitler. But the Lying...
     
-*   _John Podhoretz_: Why Hollywood Is the Perfect Hunting Ground for Pervs
+*   _Andy Puzder_: Any Competent Employer Could Have Avoided NFL Mess
     
 
 *   Previous
@@ -258,11 +258,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   More Conflicts Loom After Islamic State Defeat in Raqqa
+*   Bannon's "War" Includes Races Against Dem Incumbents
+*   Cruz vs. Sanders: What's Difference Between a Socialist &. a Dem on Taxes?
 *   Trump and McConnell Make Nice in Unity Display
 *   Democrats See Virginia Governor Race as a Must-Win
-*   Greenwald: Journalists "Eagerly Being Manipulated" on Russia Stories
-*   Bannon on Republican Insurgency: "Nobody Can Run and Hide"
-*   Can Republicans De-Escalate Intra-Party Warfare?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -277,26 +277,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Virginia Governor - Gillespie vs. NorthamFOX News\*
-    *   Northam49
-    *   Gillespie42Northam +7
-*   Virginia Governor - Gillespie vs. NorthamQuinnipiac\*
-    *   Northam53
-    *   Gillespie39Northam +14
+*   President Trump Job ApprovalMarist
+    *   Approve38
+    *   Disapprove54Disapprove +16
 *   President Trump Job ApprovalGallup
     *   Approve36
     *   Disapprove59Disapprove +23
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove55Disapprove +12
+    *   Approve41
+    *   Disapprove57Disapprove +16
+*   Direction of CountryMarist
+    *   Right Direction31
+    *   Wrong Track63Wrong Track +32
 
 More Latest Polls In The News
 
+*   Bush: Politics Today "Seems More Vulnerable To Conspiracy Theories And Outright Fabrication"
+*   Larry Elder: The Modern Left Would Have You Believe JFK Is A Right Wing Extremist
+*   Scandinavian To Sen. Sanders: You Want To Spend Like A Scandinavian, But Not Tax Like One
 *   Holder: Comey's Draft Exoneration Of Clinton "A Good-Faith Assessment" Based On The Facts
 *   Dem Rep. Frederica Wilson: "Insensitive" Trump Told Soldier's Widow He "Knew What He Signed Up For"
-*   Greenwald to Tucker Carlson: Journalists "Eagerly Being Manipulated" By Intelligence Community On Russia
-*   McCain: U.S. Must Not Refuse Obligations Of Global Leadership In Favor Of "Half Baked" Nationalist "Dogma"
-*   Jonathan Haidt: The Psychological Roots Of Nationalism vs. Globalism
 
 *   Politics
 *   Policy
