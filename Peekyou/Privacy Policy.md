@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 8%  2% 
+What is PeekScore? Public Records &. Background Checks 6%  2% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 8%  2% 
     
 *   Show Less ...
 
-8%  8%  Arrest Records &. Driving Infractions
+6%  6%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,53 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 8%  Twitter 8%  Pinterest 8%  Wikipedia 2% 
+Facebook 5%  Twitter 1% 
+
+*   OAIC - OAICgov
+    
+*   Cristiano Ronaldo - Cristiano
+    
+*   FTC - FTC
+    
+*   Justice Department - TheJusticeDept
+    
+*   Show More ...
+
+*   CDC - CDCgov
+    
+*   Free Privacy Policy - FreePrivacy1
+    
+*   HHS.gov - HHSGov
+    
+*   NIH - NIH
+    
+*   U.S. Census Bureau - uscensusbureau
+    
+*   HealthCare.gov - HealthCareGov
+    
+*   U.S. FDA - FDArecalls
+    
+*   Federal Reserve - federalreserve
+    
+*   HIV.gov - HIVGov
+    
+*   Bush Library - Bush41Library
+    
+*   EuropeanPrivacyAssoc - europeanprivacy
+    
+*   U.S. FDA - US\_FDA
+    
+*   IRS - IRSnews
+    
+*   Francis S. Collins - NIHDirector
+    
+*   FDA Drug Information - FDA\_Drug\_Info
+    
+*   DOJ Civil Rights - CivilRights
+    
+*   Show Less ...
+
+Pinterest 5%  Wikipedia 1% 
 
 *   Medana
     
@@ -172,7 +218,7 @@ Facebook 8%  Twitter 8%  Pinterest 8%  Wikipedia 2% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Instagram 8%  Google+ 2% 
+Instagram 5%  Google+ 1% 
 
 *   Free Privacy Policy - Google+
     
@@ -191,7 +237,7 @@ Instagram 8%  Google+ 2% 
     ©2017 Google • Privacy Policy • Terms of Service • Maps Terms. Region. Search. Sign in. About... Sign in. Profile cover photo. Profile photo. Verizon fios.
     
 
-Linkedin 2% 
+Linkedin 1% 
 
 *   Privacy Policy | LinkedIn
     
@@ -237,7 +283,7 @@ Linkedin 2% 
     
 *   Show Less ...
 
-Foursquare 8%  Music 2% 
+Foursquare 5%  Music 1% 
 
 *   Pandora
     
@@ -283,7 +329,7 @@ Foursquare 8%  Music 2% 
     
 *   Show Less ...
 
-Photo Albums 2% 
+Photo Albums 1% 
 
 *   Flickr
     
@@ -294,7 +340,7 @@ Photo Albums 2% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 2% 
+Myspace 1% 
 
 *   Privacy Policy - 49086242
     
@@ -318,7 +364,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Documents 2% 
+Documents 1% 
 
 *   Generic Privacy Policy template - TermsFeed
     
@@ -364,7 +410,7 @@ Documents 2% 
     
 *   Show Less ...
 
-Web Search 2% 
+Web Search 1% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -410,7 +456,11 @@ Web Search 2% 
     
 *   Show Less ...
 
-Images 8% 
+Images 1% 
+
+20
+
+twitterx
 
 *   About PeekYou
 *   Privacy Policy
