@@ -89,9 +89,8 @@
         
           
           
-        Give a Buckle Gift card BUCKLE BELIEVES IN SAVING LIVES FROM BREAST CANCER.  
-        A portion of the proceeds from select merchandise will be contributed to breast cancer foundations.  
-        SHOP WOMEN'S | SHOP MEN'S | LEARN MORE
+        Give a Buckle Gift card LEDGENDARY DENIM &. SERVICE SINCE 1967.  
+        Women's Denim | Men's Denim | Personal Styling
 *   Men
     *   *   Featured
         
@@ -153,9 +152,8 @@
         
           
           
-        Give a Buckle Gift card BUCKLE BELIEVES IN SAVING LIVES FROM BREAST CANCER.  
-        A portion of the proceeds from select merchandise will be contributed to breast cancer foundations.  
-        SHOP WOMEN'S | SHOP MEN'S | LEARN MORE
+        Give a Buckle Gift card LEDGENDARY DENIM &. SERVICE SINCE 1967.  
+        Women's Denim | Men's Denim | Personal Styling
 *   Kids
     *   *   Featured
         
@@ -176,9 +174,8 @@
         *   Bottoms
         *   Shop All
         
-        Give a Buckle Gift card BUCKLE BELIEVES IN SAVING LIVES FROM BREAST CANCER.  
-        A portion of the proceeds from select merchandise will be contributed to breast cancer foundations.  
-        SHOP WOMEN'S | SHOP MEN'S | LEARN MORE
+        Give a Buckle Gift card LEDGENDARY DENIM &. SERVICE SINCE 1967.  
+        Women's Denim | Men's Denim | Personal Styling
 *   Jeans
     *   *   Women's Jeans
         
@@ -209,9 +206,8 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card BUCKLE BELIEVES IN SAVING LIVES FROM BREAST CANCER.  
-        A portion of the proceeds from select merchandise will be contributed to breast cancer foundations.  
-        SHOP WOMEN'S | SHOP MEN'S | LEARN MORE
+        Give a Buckle Gift card LEDGENDARY DENIM &. SERVICE SINCE 1967.  
+        Women's Denim | Men's Denim | Personal Styling
 *   Trending
     *   *   Featured New
         
@@ -252,9 +248,8 @@
         *   Shop All Girl's New
         *   Shop All Boy's New
         
-        Give a Buckle Gift card BUCKLE BELIEVES IN SAVING LIVES FROM BREAST CANCER.  
-        A portion of the proceeds from select merchandise will be contributed to breast cancer foundations.  
-        SHOP WOMEN'S | SHOP MEN'S | LEARN MORE
+        Give a Buckle Gift card LEDGENDARY DENIM &. SERVICE SINCE 1967.  
+        Women's Denim | Men's Denim | Personal Styling
 *   Sale
     *   *   Women's Sale
         
@@ -297,9 +292,8 @@
         
           
           
-        Give a Buckle Gift card BUCKLE BELIEVES IN SAVING LIVES FROM BREAST CANCER.  
-        A portion of the proceeds from select merchandise will be contributed to breast cancer foundations.  
-        SHOP WOMEN'S | SHOP MEN'S | LEARN MORE
+        Give a Buckle Gift card LEDGENDARY DENIM &. SERVICE SINCE 1967.  
+        Women's Denim | Men's Denim | Personal Styling
 
 SearchSubmitToggle Main MenuSearchSubmit × ClosePrivacy &. Security
 
@@ -570,4 +564,4 @@ Your cart is full!
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
 
 ×**Hey You!**Want to stay updated on our latest styles and promotions?  
-Sign up for email and let’s make things official. Submit Email×× <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1893227547574163&amp;ev=PageView&amp;noscript=1">.
+Sign up for email and let’s make things official. Submit Email××<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1893227547574163&amp;ev=PageView&amp;noscript=1">.
