@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu 17.10 releases with GNOME, Kubernetes 1.8 &. minimal base images ›
 *   MAAS KVM Pods ›
 *   Kernel Team Summary – October 18th, 2017 ›
 *   Top snaps in September: games, GNOME apps and more! ›
 *   Ubuntu Server Development Summary – 17 Oct 2017 ›
-*   LXD Weekly Status #19 ›
