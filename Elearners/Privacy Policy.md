@@ -246,4 +246,4 @@ Copyright eLearners.com 1999 - 2017
 
 EducationDynamics maintains business relationships with the schools it features
 
-Find Schools
+Find Schools AddThis SharingFacebook, Number of sharesLinkedIn, Number of sharesTwitter, Number of sharesGoogle+, Number of sharesPinterest, Number of sharesAddThis SharingSHARESFacebookLinkedInTwitterGoogle+Pinterest
