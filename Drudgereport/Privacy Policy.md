@@ -117,9 +117,13 @@ When you use the Intermarkets website, you are accepting the terms and condition
 
 LATEST ON TWITTER
 
+AMA: Outsourcing advertising for publishers with @mrmistry stateofdigitalpublis… via @StateofDigitalP
+
+About 14 hours ago
+
 My week on Twitter : 4 Mentions, 22.4K Mention Reach, 4 New Followers, 2 Tweets. See yours with sumall.com/performan… pic.twitter.com/0JqB…
 
-Yesterday
+About 2 days ago
 
 My week on Twitter : 6 Mentions, 18.9K Mention Reach, 6 Favorited, 2 Retweets, 860 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/gF3B…
 
@@ -130,10 +134,6 @@ Our biggest fans this week: @Requidan, @DRUMDTAUSA. Thank you! via sumall.com/th
 Last week
 
 Takin' it back to a fun night w/ great company at @DRUMDTAUSA #DTAUSA @TripleLiftHQ @Requidan @Jambrose @Nicole\_Kosar @247WallSt @RodaleInc pic.twitter.com/fYez…
-
-About 2 weeks ago
-
-My week on Twitter : 5 New Followers, 9 Mentions, 106K Mention Reach, 2 Favorited, 2 Retweets. See yours with sumall.com/performan… pic.twitter.com/qhcD…
 
 About 2 weeks ago
 
