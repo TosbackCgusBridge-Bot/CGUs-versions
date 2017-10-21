@@ -366,7 +366,7 @@ $449.99
 
 Shop Now
 
-490Viewing Best Seller ThinkPad X1 Carbon (5th gen)
+331Viewing Best Seller ThinkPad X1 Carbon (5th gen)
 
 ★★★★★ ★★★★★
 
@@ -378,31 +378,31 @@ $1403.10
 
 Shop Now
 
-1678Viewing Best Seller ThinkPad T470 Business Laptop
+1474Viewing Best Seller ThinkPad P51 Mobile Workstation
 
 ★★★★★ ★★★★★
 
-3.3
+4.6
 
-(13)
+(12)
+
+$1340.10
+
+Shop Now
+
+437Viewing Best Seller ThinkPad T470 Business Laptop
+
+★★★★★ ★★★★★
+
+3.4
+
+(14)
 
 $881.10
 
 Shop Now
 
-912Viewing Best Seller ThinkPad T470s
-
-★★★★★ ★★★★★
-
-3.5
-
-(4)
-
-$1079.10
-
-Shop Now
-
-817Viewing
+875Viewing
 
 LAPTOPS
 
