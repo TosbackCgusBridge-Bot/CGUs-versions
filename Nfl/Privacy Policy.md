@@ -1,4 +1,3 @@
-*   Big Play HighlightD.Washington 4-yard TD runWatch NowKC27OAK?213rd ? 05:48
 *   TB2-3BUF3-2Sun 1:00 PM ET
 *   CAR4-2CHI2-4Sun 1:00 PM ET
 *   TEN3-3CLE0-6Sun 1:00 PM ET
@@ -13,6 +12,7 @@
 *   SEA3-2NYG1-5Sun 4:25 PM ET
 *   ATL3-2NE4-2Sun 8:30 PM ET
 *   WAS3-2PHI5-1Mon 8:30 PM ET
+*   KC30OAK31Final
 
 *   News
 *   Scores
