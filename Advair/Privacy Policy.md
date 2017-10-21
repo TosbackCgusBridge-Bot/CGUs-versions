@@ -128,8 +128,8 @@ GSK Global Website www.gsk.com
     *   Press releases
     *   Press Kits
         *   Press Kits
-        *   Trelegy Ellipta
-        *   The IMPACT study: InforMing the PAthway of COPD Treatment
+        *   Shingrix
+        *   Shingles resources
         *   Altius Institute for Biomedical Sciences
         *   ANORO™ ELLIPTA™
         *   Arnuity™ Ellipta® &. Incruse® Ellipta®
@@ -156,12 +156,14 @@ GSK Global Website www.gsk.com
             *   Dr. Leonard Friedland, VP, director of Scientific Affairs and Public Health, Vaccines, North America at GSK
         *   Tanzeum™ (albiglutide)
         *   The State of Uncontrolled Asthma in America
+        *   The IMPACT study: InforMing the PAthway of COPD Treatment
         *   World Meningitis Day
             *   World Meningitis Day
             *   Jamie Schanbaum
             *   Meningococcal disease fact sheet
             *   Hour of Power Rowing &. Cycling Challenge
             *   Knowledge gaps in vaccination against meningococcal disease
+        *   Trelegy Ellipta
         *   US IMPACT Awards
         *   Flulaval Quadrivalent for infants 6 months and older
     *   Media contacts
