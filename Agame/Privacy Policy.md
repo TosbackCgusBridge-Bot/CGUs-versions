@@ -223,8 +223,8 @@ View more results
     
     Recommended Games
     
-    *   World of Tanks
-    *   Sao Legend
+    *   World of Warships
+    *   Forge of Empires
     *   Roblox
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
