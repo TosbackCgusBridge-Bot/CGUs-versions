@@ -110,53 +110,53 @@
     *   About
     *   Media Kit
 
-*   _David Ignatius_: What Foreign Leaders Need to Know About Trump
+*   _Jim Tankersley_: Republicans Ready to Move on a Tax Plan Few Have Seen
     
-*   _Gregg Jarrett_: Clinton Cover-Up--Brought to You by Trump Investigators
+*   _Monica Showalter_: The Strength and Power of General John Kelly
     
-*   _Katrina vanden Heuvel_: What's Even Scarier Than Donald Trump?
+*   _Chris Cillizza_: Donald Trump's Low-Road Presidency
     
-*   _Jeff Stein_: Democrats' Test of Party Unity Is Off to a Rocky Start
+*   _Ed Rogers_: Cruz Totally Outclassed Sanders in Debate on Taxes
     
-*   _Bret Stephens_: McCain the Hedgehog vs. Bannon the Honey Badger
+*   _David Catanese_: The Return of Obama
     
-*   _Willis Krumholz_: The Trouble With the Neocon Siren Song
+*   _J. Michael Waller_: Hillary Clinton's Russian Ghost Stories
     
-*   _Jonathan Tasini_: America Needs Higher Wages, Not Lower Taxes
+*   _Masha Gessen_: John Kelly and the Language of the Military Coup
     
-*   _Peter Ferrara_: Economic Growth Is Not a Mystery, Yet It Eludes Dems
+*   _Shadi Hamid_: Your Alarmism Over Trump Is Dangerous for Democracy
     
-*   _Jacob Siegel &. Angela Nagle_: Anti-PC Idol-Smashing Isn't Just a Joke
+*   _Tony Coelho_: Failed 2020 Census Looms as Funding, Preparations Stall
     
-*   _Molly Ringwald_: All the Other Harvey Weinsteins
+*   _Gary Younge_: Immigration Controls Show We Value Money Over People
     
-*   _Andrew Ferguson_: Sally Quinn &. the Ruling Classless
+*   _Angelo Codevilla_: Migration: The Straw That's Breaking Europe's Back
     
-*   _Noah Feldman_: Goodbye and Good Riddance to the Islamic State
+*   _Tom Shattuck_: Kelly's Eloquent Defense of America's Sacred Pillars
     
-*   _Peter Bergen_: Trump Didn't Defeat ISIS
+*   _Joy-Ann Reid_: Why I'm Siding w/Frederica Wilson Over Kelly &. Trump
     
-*   _Jonathan Tobin_: Shift in War That Beat ISIS Occurred on Trump's Watch
+*   _Peter Lucier_: As a Former U.S. Marine, Phone Call Flap Misses the Point
     
-*   _Amy Davidson Sorkin_: Trump's Unseemly Condolence-Call Bragging Game
+*   _Kimberley Strassel_: The Fusion Collusion
     
-*   _Forbes et al._: GOP, Deliver Trump's Tax Reform to Americans by Christmas
+*   _Thomas Edsall_: Democracy Can Plant the Seeds of Its Own Destruction
     
-*   _Arkin & Huey-Burns_: Bannon's 'War' Includes Races Against Dem Incumbents
+*   _Michael Barone_: Democrats Yelp as Trump Upholds Constitution
     
-*   _Bill Scher_: Steve Bannon, Democrats, and the Urge to Purge
+*   _David Lazarus_: An Insurance Giant Moves to Lower Drug Prices
     
-*   _Mollie Hemingway_: McConnell's Disingenuous Argument on GOP Nominees
+*   _Thomas Hicks_: Add Tax Reform to Trump's List of Accomplishments
     
-*   _Megan McArdle_: Scandals and Outrage Won't End Sexual Harassment
+*   _Robin Wright_: The Ignominious End of the ISIS Caliphate
     
-*   _Alyssa Milano_: How We Can Help Women Come Forward
+*   _Matthew Continetti_: What We Can Learn From World War II
     
-*   _Roger Simon_: Uranium One Means Mueller Must Recuse Himself
+*   _A.B. Stoddard_: GOP Silence on Trump's Press Threats Is Shameful
     
-*   _Charles Blow_: Trump Isn't Hitler. But the Lying...
+*   _William Cohan_: Billionaires Can't Fix Media's Broken Business Model
     
-*   _Andy Puzder_: Any Competent Employer Could Have Avoided NFL Mess
+*   _Michael Graham_: Hey, Media: We Finally Found a Real Russia Scandal!
     
 
 *   Previous
@@ -258,11 +258,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   More Conflicts Loom After Islamic State Defeat in Raqqa
-*   Bannon's "War" Includes Races Against Dem Incumbents
+*   Kelly Defends Trump on Calls, Lashes Out at Florida Democrat
+*   Senate Passes Budget Plan, Unlocking Vehicle for Tax Cut
 *   Cruz vs. Sanders: What's Difference Between a Socialist &. a Dem on Taxes?
+*   Bannon's "War" Includes Races Against Dem Incumbents
 *   Trump and McConnell Make Nice in Unity Display
-*   Democrats See Virginia Governor Race as a Must-Win
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -277,25 +277,25 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve35
+    *   Disapprove60Disapprove +25
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve43
+    *   Disapprove55Disapprove +12
 *   President Trump Job ApprovalMarist
     *   Approve38
     *   Disapprove54Disapprove +16
-*   President Trump Job ApprovalGallup
-    *   Approve36
-    *   Disapprove59Disapprove +23
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve41
-    *   Disapprove57Disapprove +16
 *   Direction of CountryMarist
     *   Right Direction31
     *   Wrong Track63Wrong Track +32
 
 More Latest Polls In The News
 
+*   Obama on Trumpism: "It's The 21st Century -- Not The 19th Century, Come On"
+*   Janet Napolitano: We Must Educate Students Restricting Free Speech What First Amendment Means
 *   Bush: Politics Today "Seems More Vulnerable To Conspiracy Theories And Outright Fabrication"
-*   Larry Elder: The Modern Left Would Have You Believe JFK Is A Right Wing Extremist
 *   Scandinavian To Sen. Sanders: You Want To Spend Like A Scandinavian, But Not Tax Like One
-*   Holder: Comey's Draft Exoneration Of Clinton "A Good-Faith Assessment" Based On The Facts
 *   Dem Rep. Frederica Wilson: "Insensitive" Trump Told Soldier's Widow He "Knew What He Signed Up For"
 
 *   Politics
