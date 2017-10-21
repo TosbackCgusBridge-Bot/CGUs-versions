@@ -96,7 +96,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Regulatory capital securities
         *   Credit ratings last item in this group
     
-    *   Our investment case Our factbooks help investors understand the bank’s strategy.
+    *   3Q 2017 Earnings Release HSBC Holdings plc will announce its 3Q 2017 update on 30 October.
 *   News and insight Skip to Careers navigation
     
     *   Media resources
