@@ -34,6 +34,14 @@ Unique identifiers (such as email address) are collected from Web site visitors 
   
 We do not collect home and / or cell phone numbers.  
   
+**Collected Google/Facebook User Data**  
+  
+Users may opt to sign in using a Google or Facebook User account.  
+  
+When creating or linking an account, Newgrounds will access your first and last name, your profile image, your email address, and the unique user id associated with your account, which are then used to pre-fill our registration form.  
+  
+Once you submit the form, we will collect and store your email address and the user id associated with your account. We collect the email address to ensure you have a valid point of contact, and we collect the user id to associate your Newgrounds account with your Google or Facebook account. Each time you sign in via Google or Facebook, we access your user id in order to look up the appropriate Newgrounds account to sign you into.  
+  
 **Order Forms**  
   
 Our site uses an order form for customers to purchase items from our store. We collect contact information (such as email address) from these forms to get in touch with the purchaser when necessary. We collect mailing addresses for shipping purposes. None of this information is shared with third parties.  
