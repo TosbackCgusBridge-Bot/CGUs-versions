@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 11%  1% 
+What is PeekScore? Public Records &. Background Checks 56%  2% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 11%  1% 
     
 *   Show Less ...
 
-11%  11%  Arrest Records &. Driving Infractions
+56%  56%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 11%  Twitter 1% 
+Facebook 56%  Twitter 2% 
 
 *   OAIC - OAICgov
     
@@ -199,7 +199,7 @@ Facebook 11%  Twitter 1% 
     
 *   Show Less ...
 
-Pinterest 11%  Wikipedia 1% 
+Pinterest 56%  Wikipedia 2% 
 
 *   Medana
     
@@ -218,7 +218,7 @@ Pinterest 11%  Wikipedia 1% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Instagram 11%  Google+ 1% 
+Instagram 56%  Google+ 2% 
 
 *   Free Privacy Policy - Google+
     
@@ -237,7 +237,7 @@ Instagram 11%  Google+ 1% 
     ©2017 Google • Privacy Policy • Terms of Service • Maps Terms. Region. Search. Sign in. About... Sign in. Profile cover photo. Profile photo. Verizon fios.
     
 
-Linkedin 1% 
+Linkedin 2% 
 
 *   Privacy Policy | LinkedIn
     
@@ -283,7 +283,7 @@ Linkedin 1% 
     
 *   Show Less ...
 
-Foursquare 11%  Music 1% 
+Foursquare 56%  Music 2% 
 
 *   Pandora
     
@@ -329,7 +329,7 @@ Foursquare 11%  Music 1% 
     
 *   Show Less ...
 
-Photo Albums 1% 
+Photo Albums 2% 
 
 *   Flickr
     
@@ -340,7 +340,7 @@ Photo Albums 1% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 1% 
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -364,7 +364,7 @@ Myspace 1% 
     
 *   Show Less ...
 
-Documents 1% 
+Documents 2% 
 
 *   Generic Privacy Policy template - TermsFeed
     
@@ -410,7 +410,7 @@ Documents 1% 
     
 *   Show Less ...
 
-Web Search 1% 
+Web Search 2% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -456,7 +456,7 @@ Web Search 1% 
     
 *   Show Less ...
 
-Images 1% 
+Images 2% 
 
 20
 
