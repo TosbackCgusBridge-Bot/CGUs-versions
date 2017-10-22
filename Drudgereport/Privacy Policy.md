@@ -119,11 +119,11 @@ LATEST ON TWITTER
 
 AMA: Outsourcing advertising for publishers with @mrmistry stateofdigitalpublis… via @StateofDigitalP
 
-About 2 days ago
+About 3 days ago
 
 My week on Twitter : 4 Mentions, 22.4K Mention Reach, 4 New Followers, 2 Tweets. See yours with sumall.com/performan… pic.twitter.com/0JqB…
 
-About 3 days ago
+About 4 days ago
 
 My week on Twitter : 6 Mentions, 18.9K Mention Reach, 6 Favorited, 2 Retweets, 860 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/gF3B…
 
@@ -135,7 +135,7 @@ Last week
 
 Takin' it back to a fun night w/ great company at @DRUMDTAUSA #DTAUSA @TripleLiftHQ @Requidan @Jambrose @Nicole\_Kosar @247WallSt @RodaleInc pic.twitter.com/fYez…
 
-About 2 weeks ago
+About 3 weeks ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
