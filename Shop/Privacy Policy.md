@@ -354,55 +354,55 @@ THINKAGILE VX SERIES
 
 This is the future-defined data center
 
-Star Wars Jedi Challenges: Begin Your Journey Recommended For You Best Seller Lenovo Yoga 700 (11")
+Star Wars Jedi Challenges: Begin Your Journey Recommended For You Best Seller Lenovo Legion Y520 Laptop
 
 ★★★★★ ★★★★★
 
-3.8
+4.3
 
-(89)
+(57)
 
-$449.99
+$899.99
 
 Shop Now
 
-331Viewing Best Seller ThinkPad X1 Carbon (5th gen)
+979Viewing Lenovo Yoga 720 (13")
 
 ★★★★★ ★★★★★
 
-3.8
+3.9
 
-(60)
+(45)
 
-$1403.10
+$749.99
 
 Shop Now
 
-1474Viewing Best Seller ThinkPad P51 Mobile Workstation
+857Viewing ThinkPad T470 Business Laptop
 
 ★★★★★ ★★★★★
 
-4.6
+3.5
 
-(12)
-
-$1340.10
-
-Shop Now
-
-437Viewing Best Seller ThinkPad T470 Business Laptop
-
-★★★★★ ★★★★★
-
-3.4
-
-(14)
+(15)
 
 $881.10
 
 Shop Now
 
-875Viewing
+757Viewing Yoga 920 (14")
+
+★★★★★ ★★★★★
+
+1
+
+(1)
+
+$1329.99
+
+Shop Now
+
+1598Viewing
 
 LAPTOPS
 
