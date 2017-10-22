@@ -6,6 +6,6 @@ Please try again, or take a look at our **homepage** for the latest news and mar
 
 You may also be interested in these pages:
 
-U.S. News Markets Pre-markets Stocks Commodities Currencies Bonds Latest Video Investing Tech Make It
+U.S. News Pre-markets Stocks Commodities Currencies Bonds Latest Video Investing Tech Make It
 
 Report a broken link | Help | Site map
