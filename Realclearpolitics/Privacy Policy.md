@@ -110,6 +110,10 @@
     *   About
     *   Media Kit
 
+*   _Victor Davis Hanson_: North Korea Military Capability--Knowns and Unknowns
+    
+*   _Alex Titus_: An America First Tax Plan
+    
 *   _Jim Tankersley_: Republicans Ready to Move on a Tax Plan Few Have Seen
     
 *   _Monica Showalter_: The Strength and Power of General John Kelly
@@ -153,10 +157,6 @@
 *   _Matthew Continetti_: What We Can Learn From World War II
     
 *   _A.B. Stoddard_: GOP Silence on Trump's Press Threats Is Shameful
-    
-*   _William Cohan_: Billionaires Can't Fix Media's Broken Business Model
-    
-*   _Michael Graham_: Hey, Media: We Finally Found a Real Russia Scandal!
     
 
 *   Previous
@@ -278,25 +278,25 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve35
-    *   Disapprove60Disapprove +25
+    *   Approve36
+    *   Disapprove59Disapprove +23
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve43
     *   Disapprove55Disapprove +12
+*   Congressional Job ApprovalGallup
+    *   Approve13
+    *   Disapprove80Disapprove +67
 *   President Trump Job ApprovalMarist
     *   Approve38
     *   Disapprove54Disapprove +16
-*   Direction of CountryMarist
-    *   Right Direction31
-    *   Wrong Track63Wrong Track +32
 
 More Latest Polls In The News
 
+*   David Brooks On Condolence Call: "Trump Is Not Oprah, He Doesn't Speak Empathy Particularly Well"
 *   Obama on Trumpism: "It's The 21st Century -- Not The 19th Century, Come On"
 *   Janet Napolitano: We Must Educate Students Restricting Free Speech What First Amendment Means
 *   Bush: Politics Today "Seems More Vulnerable To Conspiracy Theories And Outright Fabrication"
 *   Scandinavian To Sen. Sanders: You Want To Spend Like A Scandinavian, But Not Tax Like One
-*   Dem Rep. Frederica Wilson: "Insensitive" Trump Told Soldier's Widow He "Knew What He Signed Up For"
 
 *   Politics
 *   Policy
