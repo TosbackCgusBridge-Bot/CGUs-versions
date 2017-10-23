@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Sunday, October 22, 2017  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Monday, October 23, 2017  
 
 DEBKAfile
 
@@ -46,13 +46,37 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Man with sawn-off shotgun takes hostages in British park
+    
+    Oct 22, 2017 @ 18:51
+    
+*   Hamas leader who signed the Palestinian reconciliation pact received by Khamenei
+    
+    Oct 22, 2017 @ 16:43
+    
+*   Russian special forces rescue 160 Chechen women and children from fallen ISIS bastions
+    
+    Oct 22, 2017 @ 13:33
+    
+*   Palestinian infiltrators “harvest” tons of produce from Israeli farm
+    
+    Oct 22, 2017 @ 12:31
+    
+*   Spain announces plan to oust Catalan leaders, impose direct rule
+    
+    Oct 22, 2017 @ 11:47
+    
+*   Yaron Blum is new director of operations for Israeli captives and MIAs
+    
+    Oct 22, 2017 @ 08:58
+    
+*   Gen. Eisenkott leaves for Washington
+    
+    Oct 22, 2017 @ 08:44
+    
 *   Trump to allow release of classified docs on 1963 Kennedy assassination
     
     Oct 21, 2017 @ 17:17
-    
-*   Knifeman injures four people in Munich
-    
-    Oct 21, 2017 @ 12:08
     
 *   IDF smashes three Syrian artillery guns after Golan rocket fire
     
@@ -61,55 +85,15 @@ Breaking news
 *   Red alert across Israeli Golan
     
     Oct 21, 2017 @ 05:41
-    
-*   Suicide blasts kill 72 people at Shiite mosques in and outside Kabul
-    
-    Oct 20, 2017 @ 21:26
-    
-*   In a gunfight southwest of Cairo, 30 Egyptian police killed
-    
-    Oct 20, 2017 @ 21:25
-    
-*   Fierce clashes erupt between Kurdish and Iraqi troops
-    
-    Oct 20, 2017 @ 16:59
-    
-*   Palestinian detained minutes before ramming stolen truck
-    
-    Oct 20, 2017 @ 12:44
-    
-*   Pompeo: North Korea at cusp of nuclear capability
-    
-    Oct 20, 2017 @ 12:30
-    
-*   Lavrov:  US must withdraw nukes from Europe
-    
-    Oct 20, 2017 @ 12:19
     
 
-*   Fierce clashes erupt between Kurdish and Iraqi troops
+*   Gen. Eisenkott leaves for Washington
     
-    Oct 20, 2017 @ 16:59
-    
-*   Palestinian detained minutes before ramming stolen truck
-    
-    Oct 20, 2017 @ 12:44
-    
-*   Pompeo: North Korea at cusp of nuclear capability
-    
-    Oct 20, 2017 @ 12:30
-    
-*   Lavrov:  US must withdraw nukes from Europe
-    
-    Oct 20, 2017 @ 12:19
+    Oct 22, 2017 @ 08:44
     
 *   Trump to allow release of classified docs on 1963 Kennedy assassination
     
     Oct 21, 2017 @ 17:17
-    
-*   Knifeman injures four people in Munich
-    
-    Oct 21, 2017 @ 12:08
     
 *   IDF smashes three Syrian artillery guns after Golan rocket fire
     
@@ -119,37 +103,37 @@ Breaking news
     
     Oct 21, 2017 @ 05:41
     
-*   Suicide blasts kill 72 people at Shiite mosques in and outside Kabul
+*   Man with sawn-off shotgun takes hostages in British park
     
-    Oct 20, 2017 @ 21:26
+    Oct 22, 2017 @ 18:51
     
-*   In a gunfight southwest of Cairo, 30 Egyptian police killed
+*   Hamas leader who signed the Palestinian reconciliation pact received by Khamenei
     
-    Oct 20, 2017 @ 21:25
+    Oct 22, 2017 @ 16:43
     
-*   Fierce clashes erupt between Kurdish and Iraqi troops
+*   Russian special forces rescue 160 Chechen women and children from fallen ISIS bastions
     
-    Oct 20, 2017 @ 16:59
+    Oct 22, 2017 @ 13:33
     
-*   Palestinian detained minutes before ramming stolen truck
+*   Palestinian infiltrators “harvest” tons of produce from Israeli farm
     
-    Oct 20, 2017 @ 12:44
+    Oct 22, 2017 @ 12:31
     
-*   Pompeo: North Korea at cusp of nuclear capability
+*   Spain announces plan to oust Catalan leaders, impose direct rule
     
-    Oct 20, 2017 @ 12:30
+    Oct 22, 2017 @ 11:47
     
-*   Lavrov:  US must withdraw nukes from Europe
+*   Yaron Blum is new director of operations for Israeli captives and MIAs
     
-    Oct 20, 2017 @ 12:19
+    Oct 22, 2017 @ 08:58
+    
+*   Gen. Eisenkott leaves for Washington
+    
+    Oct 22, 2017 @ 08:44
     
 *   Trump to allow release of classified docs on 1963 Kennedy assassination
     
     Oct 21, 2017 @ 17:17
-    
-*   Knifeman injures four people in Munich
-    
-    Oct 21, 2017 @ 12:08
     
 *   IDF smashes three Syrian artillery guns after Golan rocket fire
     
@@ -158,6 +142,22 @@ Breaking news
 *   Red alert across Israeli Golan
     
     Oct 21, 2017 @ 05:41
+    
+*   Man with sawn-off shotgun takes hostages in British park
+    
+    Oct 22, 2017 @ 18:51
+    
+*   Hamas leader who signed the Palestinian reconciliation pact received by Khamenei
+    
+    Oct 22, 2017 @ 16:43
+    
+*   Russian special forces rescue 160 Chechen women and children from fallen ISIS bastions
+    
+    Oct 22, 2017 @ 13:33
+    
+*   Palestinian infiltrators “harvest” tons of produce from Israeli farm
+    
+    Oct 22, 2017 @ 12:31
     
 
 123PrevNext DEBKA Video  
