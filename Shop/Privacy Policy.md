@@ -325,9 +325,9 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers T470s
+Home >. Filter by specs Offers
 
-Boost Your Productivity With Performance You Can Count On
+Where your professional capabilities and budget meet
 
 Shop now >.
 
@@ -342,43 +342,19 @@ Weekly Deals
 
 Great deals on select products.
 
-Rebel Alliance or Galactic Empire
+LENOVO SWEEPSTAKES
 
-This device is as epic as its namesake.
+Play for your chance to win some of our hottest products!
 
-GAMING SALE
+TWITCHCON SALE!
 
-Save big on elite gaming desktops, laptops &. accessories!
+You don't have to be a streamer to get these deals!
 
 THINKAGILE VX SERIES
 
 This is the future-defined data center
 
-Star Wars Jedi Challenges: Begin Your Journey Recommended For You Best Seller Lenovo Legion Y520 Laptop
-
-★★★★★ ★★★★★
-
-4.3
-
-(57)
-
-$899.99
-
-Shop Now
-
-979Viewing Lenovo Yoga 720 (13")
-
-★★★★★ ★★★★★
-
-3.9
-
-(45)
-
-$749.99
-
-Shop Now
-
-857Viewing ThinkPad T470 Business Laptop
+Star Wars Jedi Challenges: Begin Your Journey Recommended For You ThinkPad T470 Business Laptop
 
 ★★★★★ ★★★★★
 
@@ -390,19 +366,43 @@ $881.10
 
 Shop Now
 
-757Viewing Yoga 920 (14")
+889Viewing ThinkPad X1 Carbon (5th gen)
 
 ★★★★★ ★★★★★
 
-1
+3.8
 
-(1)
+(61)
 
-$1329.99
+$1403.10
 
 Shop Now
 
-1598Viewing
+1519Viewing Lenovo Legion Y520 Laptop
+
+★★★★★ ★★★★★
+
+4.3
+
+(57)
+
+$919.99
+
+Shop Now
+
+1016Viewing Flex 5 (14")
+
+★★★★★ ★★★★★
+
+4.6
+
+(11)
+
+$499.99
+
+Shop Now
+
+418Viewing
 
 LAPTOPS
 
