@@ -487,11 +487,11 @@ Menu Find a Store Aeropostale
 
 *   Jackets + Vests Starting at $19.80 Shop Girls Shop Guys
 *   Joggers + Sweats Starting at $10.00 Shop Guys Shop Girls
-*   Hoodies + Sweatshirts Starting at $10.00 Shop Girls Shop Guys
+*   Hoodies + Sweatshirts Starting at $12.00 Shop Girls Shop Guys
 *   Tees Starting at $6.00 Shop Girls Shop Guys
 *   Jackets + Vests Starting at $19.80 Shop Girls Shop Guys
 *   Joggers + Sweats Starting at $10.00 Shop Guys Shop Girls
-*   Hoodies + Sweatshirts Starting at $10.00 Shop Girls Shop Guys
+*   Hoodies + Sweatshirts Starting at $12.00 Shop Girls Shop Guys
 *   Tees Starting at $6.00 Shop Girls Shop Guys
 
 *   1
@@ -531,4 +531,4 @@ Stay Connected
 *   Live ChatCall Us
 *   Refer-A-Friend
 
-© 2017 Aeropostale. All Rights Reserved.
+© 2017 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
