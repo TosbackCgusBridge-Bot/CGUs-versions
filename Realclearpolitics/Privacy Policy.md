@@ -110,8 +110,6 @@
     *   About
     *   Media Kit
 
-*   _Victor Davis Hanson_: North Korea Military Capability--Knowns and Unknowns
-    
 *   _Alex Titus_: An America First Tax Plan
     
 *   _Jim Tankersley_: Republicans Ready to Move on a Tax Plan Few Have Seen
@@ -157,6 +155,8 @@
 *   _Matthew Continetti_: What We Can Learn From World War II
     
 *   _A.B. Stoddard_: GOP Silence on Trump's Press Threats Is Shameful
+    
+*   _William Cohan_: Billionaires Can't Fix Media's Broken Business Model
     
 
 *   Previous
@@ -279,24 +279,24 @@ Latest PollsAll Polls
 
 *   President Trump Job ApprovalGallup
     *   Approve36
-    *   Disapprove59Disapprove +23
+    *   Disapprove58Disapprove +22
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve43
     *   Disapprove55Disapprove +12
 *   Congressional Job ApprovalGallup
     *   Approve13
     *   Disapprove80Disapprove +67
-*   President Trump Job ApprovalMarist
-    *   Approve38
-    *   Disapprove54Disapprove +16
+*   Alabama Senate Special Election - Moore vs. JonesWBRC-TV/Strategy Research
+    *   Moore51
+    *   Jones40Moore +11
 
 More Latest Polls In The News
 
+*   Bannon: Cable News Is "Pro-Wrestling," Designed To Divert Your Attention From What's Really Going On
+*   Sen. Brown: "Steve Bannon is A White Supremacist". "The Media Has Not Been Unfair To Trump"
+*   Schumer: I Didn't Know U.S. Has Troops In Niger. Time To "Reexamine" Post-9/11 AUMF
 *   David Brooks On Condolence Call: "Trump Is Not Oprah, He Doesn't Speak Empathy Particularly Well"
-*   Obama on Trumpism: "It's The 21st Century -- Not The 19th Century, Come On"
 *   Janet Napolitano: We Must Educate Students Restricting Free Speech What First Amendment Means
-*   Bush: Politics Today "Seems More Vulnerable To Conspiracy Theories And Outright Fabrication"
-*   Scandinavian To Sen. Sanders: You Want To Spend Like A Scandinavian, But Not Tax Like One
 
 *   Politics
 *   Policy
