@@ -29,7 +29,6 @@ Close submenu ( Girls ) Girls
 Close submenu ( Featured ) Featured
 
 *   View All
-*   $6 Tops
 *   New Arrivals
 *   Trending
 *   Uniform
@@ -152,8 +151,9 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Open submenu ( Tops ) Tops
 
 *   Open submenu ( Bottoms ) Bottoms
-*   Bras
 
+*   Sleep
+*   Bras
 *   Undies
 *   Accessories
 
@@ -183,6 +183,7 @@ Close submenu ( Bottoms ) Bottoms
 *   Joggers + Sweats
 *   Bootcut
 *   Shorts
+*   Sleep Bottoms
 
 Close submenu ( Trending ) Trending
 
@@ -268,7 +269,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**$25 OFF $100** USE CODE: **25OFF** + **FREE SHIPPING ON $75**
+**EXTRA 20% OFF** CODE: **FALL20** + **FREE SHIPPING ON $75**
 
 *   My Account My Account Login Register
 
@@ -279,7 +280,6 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Featured
         *   View All
-        *   $6 Tops
         *   New Arrivals
         *   Trending
         *   Uniform
@@ -406,8 +406,10 @@ Menu Find a Store Aeropostale
         *   Joggers + Sweats
         *   Bootcut
         *   Shorts
-    *   Bras
+        *   Sleep Bottoms
     
+    *   Sleep
+    *   Bras
     *   Undies
     *   Accessories
     
@@ -483,16 +485,16 @@ Menu Find a Store Aeropostale
 *   Sign Up/Login
 *   Refer a Friend
 
-0 Search Catalog Search Shop Girls Shop Guys Get In Store Coupon Promotions Shop Girls Shop Guys
+0 Search Catalog Search Promotions Shop Girls Shop Guys Get In Store Coupon
 
-*   Jackets + Vests Starting at $19.80 Shop Girls Shop Guys
 *   Joggers + Sweats Starting at $10.00 Shop Guys Shop Girls
+*   Sweaters Starting at $10.00 Shop Girls Shop Guys
+*   Long Sleeve Tees Starting at $6.00 Shop Girls Shop Guys
 *   Hoodies + Sweatshirts Starting at $12.00 Shop Girls Shop Guys
-*   Tees Starting at $6.00 Shop Girls Shop Guys
-*   Jackets + Vests Starting at $19.80 Shop Girls Shop Guys
 *   Joggers + Sweats Starting at $10.00 Shop Guys Shop Girls
+*   Sweaters Starting at $10.00 Shop Girls Shop Guys
+*   Long Sleeve Tees Starting at $6.00 Shop Girls Shop Guys
 *   Hoodies + Sweatshirts Starting at $12.00 Shop Girls Shop Guys
-*   Tees Starting at $6.00 Shop Girls Shop Guys
 
 *   1
 *   2
@@ -531,4 +533,4 @@ Stay Connected
 *   Live ChatCall Us
 *   Refer-A-Friend
 
-© 2017 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+© 2017 Aeropostale. All Rights Reserved.
