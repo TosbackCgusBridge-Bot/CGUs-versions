@@ -335,8 +335,15 @@ CROSS OUT THE ORDINARY
 
 Learn More >.
 
+Hyperconverged Simplified
+
+ThinkAgile for Nutanix offers game changing agility, simplicity and a transformative experience.
+
+ThinkAgile HX Series >. ThinkAgile SX for Nutanix >.
+
 *   1
 *   2
+*   3
 
 Weekly Deals
 
@@ -346,63 +353,15 @@ LENOVO SWEEPSTAKES
 
 Play for your chance to win some of our hottest products!
 
-TWITCHCON SALE!
+Gaming Sale
 
-You don't have to be a streamer to get these deals!
+Save big on elite gaming desktops, laptops &. accessories
 
 THINKAGILE VX SERIES
 
 This is the future-defined data center
 
-Star Wars Jedi Challenges: Begin Your Journey Recommended For You ThinkPad T470 Business Laptop
-
-★★★★★ ★★★★★
-
-3.5
-
-(15)
-
-$881.10
-
-Shop Now
-
-889Viewing ThinkPad X1 Carbon (5th gen)
-
-★★★★★ ★★★★★
-
-3.8
-
-(61)
-
-$1403.10
-
-Shop Now
-
-1519Viewing Lenovo Legion Y520 Laptop
-
-★★★★★ ★★★★★
-
-4.3
-
-(57)
-
-$919.99
-
-Shop Now
-
-1016Viewing Flex 5 (14")
-
-★★★★★ ★★★★★
-
-4.6
-
-(11)
-
-$499.99
-
-Shop Now
-
-418Viewing
+Star Wars Jedi Challenges: Begin Your Journey
 
 LAPTOPS
 
@@ -502,9 +461,9 @@ Laptops Tablets Desktops Deals Chat Laptops Tablets Desktops Deals Chat Select C
 *   CUSTOMER SUPPORT
     *   Contact Us
     *   Shopping Help
-    *   FAQs
-    *   Order Status
-    *   Support
+    *   Product FAQs
+    *   Order Visibility Portal
+    *   Technical Support
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 
 © 2017 Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close Chat with a Lenovo Specialist Would you like to start the session?
