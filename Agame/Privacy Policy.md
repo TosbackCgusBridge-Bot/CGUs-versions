@@ -224,7 +224,7 @@ View more results
     Recommended Games
     
     *   World of Warships
-    *   Forge of Empires
+    *   World of Tanks
     *   Roblox
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
