@@ -1,4 +1,5 @@
-*   WAS3-2PHI5-1Mon 8:30 PM ET
+*   Big Play HighlightC.Clement 9-yard TD pass from C.WentzWatch NowWAS17PHI?244th ? 11:57RZ
+*   KC30OAK31Final
 *   TB27BUF30Final
 *   CAR3CHI17Final
 *   TEN12CLE9Final (OT)
@@ -12,7 +13,6 @@
 *   DEN0LAC21Final
 *   SEA24NYG7Final
 *   ATL7NE23Final
-*   KC30OAK31Final
 
 *   News
 *   Scores
