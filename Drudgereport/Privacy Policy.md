@@ -117,13 +117,17 @@ When you use the Intermarkets website, you are accepting the terms and condition
 
 LATEST ON TWITTER
 
+Listen now to Erik @Requidan's State of #Programmatic podcast w. @LiveIntent's @KeishaSG &. @kerel\_cooper here: blog.liveintent.com/…
+
+About 10 hours ago
+
 AMA: Outsourcing advertising for publishers with @mrmistry stateofdigitalpublis… via @StateofDigitalP
 
-About 4 days ago
+About 5 days ago
 
 My week on Twitter : 4 Mentions, 22.4K Mention Reach, 4 New Followers, 2 Tweets. See yours with sumall.com/performan… pic.twitter.com/0JqB…
 
-About 5 days ago
+About 6 days ago
 
 My week on Twitter : 6 Mentions, 18.9K Mention Reach, 6 Favorited, 2 Retweets, 860 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/gF3B…
 
@@ -132,10 +136,6 @@ About 2 weeks ago
 Our biggest fans this week: @Requidan, @DRUMDTAUSA. Thank you! via sumall.com/thankyou?… pic.twitter.com/94KH…
 
 About 2 weeks ago
-
-Takin' it back to a fun night w/ great company at @DRUMDTAUSA #DTAUSA @TripleLiftHQ @Requidan @Jambrose @Nicole\_Kosar @247WallSt @RodaleInc pic.twitter.com/fYez…
-
-About 3 weeks ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
