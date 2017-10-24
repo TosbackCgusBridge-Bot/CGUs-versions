@@ -1,6 +1,6 @@
 Terms of Service
 
-Last Updated: March 3, 2017
+Last Updated: October 6, 2017
 
 \*\*PLEASE READ THIS DOCUMENT CAREFULLY. Vimeo, Inc. ("Vimeo," "we," or "us") offers an online video sharing platform and community through its website located at Vimeo.com and other Vimeo-operated sites (collectively, the "Vimeo Site"), mobile applications, connected TV applications, and other online services (collectively and including the Vimeo Site, the "Vimeo Service"). By registering as a member or by using the Vimeo Service in any way, you accept these Terms of Service ("Agreement"), which forms a binding agreement between you and Vimeo. If you do not wish to be bound by this Agreement, do not use the Vimeo Service. \*\*
 
@@ -37,7 +37,7 @@ Content
 
 **COMMERCIAL USE:** You may not use the Vimeo Service for commercial purposes unless:
 
-*   You are a Vimeo PRO or Vimeo Business user, in which case you may use and access the Vimeo Service for commercial and non-commercial purposes, subject to compliance with the Vimeo Guidelines. or
+*   You are a Vimeo PRO or higher subscriber, in which case you may use and access the Vimeo Service for commercial and non-commercial purposes, subject to compliance with the Vimeo Guidelines. or
 *   You are a small-scale independent production company, non-profit, or artist, in which case you may use the Vimeo Service to showcase or promote your own creative works.
 
 If you sell Vimeo-hosted videos directly to users other than through Vimeo On Demand, such usage will be deemed an "Application" under our API Terms (whether you use our API or not) and will be subject to our API Terms.
@@ -66,13 +66,13 @@ Your privacy rights are set forth in our Privacy Policy, which forms a part of t
 
 5\. Subscriptions and Purchases
 
-**VIMEO PLUS, PRO AND BUSINESS:** In addition to offering Basic (free) Vimeo memberships, we offer Vimeo Plus, PRO, and Vimeo Business subscriptions. Please see our subscription pages for current Plus, PRO, and Business features and pricing. Features and prices are subject to change. Storage limits are calculated based upon source files. We reserve the right to charge for excessive use of bandwidth where plays occur on third-party sites and applications outside the native Vimeo player or apps. Anyone who wishes to obtain storage capacity beyond what is offered with the Vimeo Business subscription, or additional bandwidth for applications not using the Vimeo player may request a custom account by contacting us here: vimeo.com/help/contact. Additional terms and conditions (to be shown prior to purchase) apply to custom accounts. All fees may be subject to taxes.
+**SUBSCRIPTIONS:** In addition to offering Basic (free) Vimeo memberships, we offer paid subscriptions. Please see our subscription pages for current features and pricing. Features and prices are subject to change. Storage limits are calculated based upon source files. We reserve the right to charge for excessive use of bandwidth where plays occur on third-party sites and applications outside the native Vimeo player or apps. Anyone who wishes to obtain storage capacity beyond what is offered with a particular subscription, or additional bandwidth for applications not using the Vimeo player may request a custom account by contacting us here: join.vimeo.com/custom. Additional terms and conditions (to be shown prior to purchase) apply to custom accounts. All fees may be subject to taxes.
 
-**CANCELATION AND REFUNDS:** Users who purchase annual subscriptions have thirty (30) days after their purchase to cancel and receive a full refund. Users who purchase monthly subscriptions have five (5) days after purchase to cancel and receive a full refund. After the cancelation period ends, all purchases are final and all fees paid are non-refundable, even if your account is later terminated by Vimeo. If your account is terminated due to your breach of this Agreement during the relevant cancelation period, you will not be refunded. If you have questions, please contact us.
+**CANCELATION AND REFUNDS:** Users who purchase annual subscriptions have thirty (30) days after their purchase to cancel and receive a full refund. Users who purchase monthly subscriptions have five (5) days after purchase to cancel and receive a full refund. In the case of Live subscription products, refunds are not available if the user has exceeded the storage or bandwidth threshold set forth in the refund policy presented at the time of purchase. After the cancelation period ends, all purchases are final and all fees paid are non-refundable, even if your account is later terminated by Vimeo. If your account is terminated due to your breach of this Agreement during the relevant cancelation period, you will not be refunded. If you have questions, please contact us.
 
 **RENEWALS:** Subject to the terms hereof, you may choose to renew your subscription at the end of the subscription period. By default, all subscriptions are set to automatically renew for the same period of time as the original subscription. You may decline to renew at any time prior to the commencement of a renewal subscription. Vimeo reserves the right to deny subscriptions, renewals, and other purchases for any reason. Unused storage, plays, and other limits do not roll over to subsequent subscription periods.
 
-**END OF SUBSCRIPTION:** When a Vimeo Plus, PRO, or Business subscription ends, the account automatically becomes a Basic (free) account and Vimeo may disable access to or delete any content to comply with Basic account limits. If you're using Vimeo for commercial purposes, you will need to maintain a Vimeo PRO, Business, or custom plan to continue hosting your videos. Your account and its content may be deleted if your subscription is not renewed.
+**END OF SUBSCRIPTION:** When a paid subscription ends, the account automatically becomes a Basic (free) account and Vimeo may disable access to or delete any content to comply with Basic account limits. If you're using Vimeo for commercial purposes, you will need to maintain a Vimeo PRO or higher plan to continue hosting your videos. Your account and its content may be deleted if your subscription is not renewed.
 
 **OTHER PURCHASES:** Purchases of other products and services through the Vimeo Service are subject to our **Payment Addendum** and to other terms and conditions that are presented to you at the time of purchase.
 
@@ -80,7 +80,7 @@ Your privacy rights are set forth in our Privacy Policy, which forms a part of t
 
 **TERM:** This Agreement begins on the date you first use the Vimeo Service and continues as long as you have an account with us.
 
-**ACCOUNT DELETION:** You may delete your account at any time. Basic accounts may be deleted from the Vimeo Service if they remain inactive (i.e., the user fails to log in) for a continuous period of at least six (6) months. Subscription accounts will remain active until the end of the subscription term and any renewal term.
+**ACCOUNT DELETION:** You may delete your account at any time. Basic accounts may be deleted from the Vimeo Service if they remain inactive (i.e., the user fails to log in) for a continuous period of at least six (6) months. Paid subscription accounts will remain active until the end of the subscription term and any renewal term.
 
 **TERMINATION FOR BREACH:** Vimeo may suspend, disable, or delete your account (or any part thereof) or block or remove any content you submitted if Vimeo determines that you have violated any provision of this Agreement or that your conduct or content would tend to damage Vimeo's reputation and goodwill. If Vimeo deletes your account for the foregoing reasons, you may not re-register for the Vimeo Service. Vimeo may block your email address and Internet protocol address to prevent further registration.
 
@@ -116,7 +116,9 @@ Vimeo has the right, but not the obligation, to monitor all conduct on and conte
 
 9\. Licenses Granted by You 9.1 Videos
 
-**LICENSE TO VIMEO:** As between you and Vimeo, you own the video content ("videos") that you submit to the Vimeo Service. By submitting a video, you grant Vimeo and its affiliates a limited, worldwide, non-exclusive, royalty-free license and right to copy, transmit, distribute, publicly perform and display (through all media now known or hereafter created), and make derivative works from your video for the purpose of (i) displaying the video within the Vimeo Service. (ii) displaying the video on third party websites and applications through a video embed or Vimeo's API subject to your video privacy choices. (iii) allowing other users to play, download, and embed on third party websites the video, subject to your video privacy choices. (iii) promoting the Vimeo Service, provided that you have made the video publicly available. and (iv) archiving or preserving the video for disputes, legal proceedings, or investigations.
+**LICENSE TO VIMEO:** As between you and Vimeo, you own the video content ("videos") that you submit to the Vimeo Service. By submitting a video, you grant Vimeo and its affiliates a limited, worldwide, non-exclusive, royalty-free license and right to copy, transmit, distribute, publicly perform and display (through all media now known or hereafter created), and make derivative works from your video for the purpose of (i) displaying the video within the Vimeo Service. (ii) displaying the video on third party websites and applications through a video embed or Vimeo's API subject to your video privacy choices. (iii) allowing other users to play, download, and embed on third party websites the video, subject to your video privacy choices. (iv) promoting the Vimeo Service, provided that you have made the video publicly available. and (v) archiving or preserving the video for disputes, legal proceedings, or investigations.
+
+**LIVE STREAMS:** For the purposes hereof, a "video" includes a live stream and you are deemed to have "submitted" a video when you live stream any content using the Vimeo Service, regardless of whether a permanent copy is created.
 
 **LICENSE TO OTHER USERS:** You further grant all users of the Vimeo Service permission to view your videos for their personal, non-commercial purposes. This includes the right to copy and make derivative works from the videos solely to the extent necessary to view the videos. The foregoing licenses are in addition to any license you may decide to grant (e.g., a Creative Commons license).
 
