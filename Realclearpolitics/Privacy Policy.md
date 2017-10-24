@@ -23,16 +23,12 @@
     *   Generic Ballot
     *   Donald Trump Favorability
     *   State of Union Polls
-*   Election 2016
-    *   RCP National Average
-    *   No Toss Ups Map
-    *   Final Electoral Map
-    *   Senate No Toss Ups Map
-    *   Final Senate Map
-    *   RCP Governors Map
-    *   Final House Map
-    *   GOP Nomination Polls
-    *   Dem Nomination Polls
+*   Election 2017/18
+    *   Virginia Governor
+    *   New Jersey Governor
+    *   Alabama Senate
+    *   Generic Congressional Ballot
+    *   Latest Election Polls
 *   Video
 *   Writers
     *   Staff Writers
@@ -62,17 +58,13 @@
         *   Generic Ballot
         *   Donald Trump Favorability
         *   State of Union Polls
-    *   RCP Election 2016
-        *   Election 2016
-        *   RCP National Average
-        *   No Toss Ups Map
-        *   Final Electoral Map
-        *   Senate No Toss Ups Map
-        *   Final Senate Map
-        *   RCP Governors Map
-        *   Final House Map
-        *   GOP Nomination Polls
-        *   Dem Nomination Polls
+    *   RCP Election 2017/18
+        *   Election 2017/18
+        *   Virginia Governor
+        *   New Jersey Governor
+        *   Alabama Senate
+        *   Generic Congressional Ballot
+        *   Latest Election Polls
     *   Video
     *   Writers
         
@@ -110,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Alex Titus_: An America First Tax Plan
+*   _Michelle Cottle_: Alabama's Republican Primary Is Just a Preview
     
-*   _Jim Tankersley_: Republicans Ready to Move on a Tax Plan Few Have Seen
+*   _Peter Boyer_: Donald Trump: King of Deregulation?
     
-*   _Monica Showalter_: The Strength and Power of General John Kelly
+*   _Larry Summers_: Corporate Tax Cuts Benefit the Rich
     
-*   _Chris Cillizza_: Donald Trump's Low-Road Presidency
+*   _Sullivan &. Tankersley_: Trump Disrupts Tax Debate by Ruling Out 401(k) Change
     
-*   _Ed Rogers_: Cruz Totally Outclassed Sanders in Debate on Taxes
+*   _Gregg Jarrett_: Lynch, the Clintons and a Series of Fantastic Coincidences
     
-*   _David Catanese_: The Return of Obama
+*   _Julian Zelizer_: What 'Trumpification' of the Presidency Means to Generation Z
     
-*   _J. Michael Waller_: Hillary Clinton's Russian Ghost Stories
+*   _David Harsanyi_: 10 Times CNN Told Us an Apple Was a Banana
     
-*   _Masha Gessen_: John Kelly and the Language of the Military Coup
+*   _David Leonhardt_: Driverless Cars Made Me Nervous. Then I Tried One.
     
-*   _Shadi Hamid_: Your Alarmism Over Trump Is Dangerous for Democracy
+*   _Ned Ryun_: The Charitable Health Care Racket
     
-*   _Tony Coelho_: Failed 2020 Census Looms as Funding, Preparations Stall
+*   _Carl Cannon_: Lend-Lease: When U.S. Largesse Saved the World
     
-*   _Gary Younge_: Immigration Controls Show We Value Money Over People
+*   _Zev Chafets_: Talking North Korea and Iran With Israel's Rocket Man
     
-*   _Angelo Codevilla_: Migration: The Straw That's Breaking Europe's Back
+*   _Charles Kesler_: Draining the Swamp
     
-*   _Tom Shattuck_: Kelly's Eloquent Defense of America's Sacred Pillars
+*   _Juan Williams_: Trump's Cynical Sabotage of Obamacare
     
-*   _Joy-Ann Reid_: Why I'm Siding w/Frederica Wilson Over Kelly &. Trump
+*   _F.H. Buckley_: What Bush Missed About Conservative Nationalism
     
-*   _Peter Lucier_: As a Former U.S. Marine, Phone Call Flap Misses the Point
+*   _Jen Psaki_: Bush and Obama Remind Us: This Is Not Normal
     
-*   _Kimberley Strassel_: The Fusion Collusion
+*   _Byron York_: Is Tone of Trump-Russia Probe Changing?
     
-*   _Thomas Edsall_: Democracy Can Plant the Seeds of Its Own Destruction
+*   _Sen. Ted Cruz_: A Pressure Point for North Korea
     
-*   _Michael Barone_: Democrats Yelp as Trump Upholds Constitution
+*   _James Stavridis_: Here's How to Pull Turkey Back From the Brink
     
-*   _David Lazarus_: An Insurance Giant Moves to Lower Drug Prices
+*   _Charles Hurt_: A Clown in a Sequined Hat Distorts Greatest Sacrifice
     
-*   _Thomas Hicks_: Add Tax Reform to Trump's List of Accomplishments
+*   _Charles Blow_: Trump's Boogeymen? Women!
     
-*   _Robin Wright_: The Ignominious End of the ISIS Caliphate
+*   _Jonathan Johnson_: Listen to the Will of the People and Cut Taxes Now
     
-*   _Matthew Continetti_: What We Can Learn From World War II
+*   _Bill McKibben_: Just Say 'No' to Arctic Refuge Drilling
     
-*   _A.B. Stoddard_: GOP Silence on Trump's Press Threats Is Shameful
+*   _Rupert Darwall_: From Golden to Green: Inside CA's Eco-Fundamentalism
     
-*   _William Cohan_: Billionaires Can't Fix Media's Broken Business Model
+*   _William Sullivan_: NFL's Regrettable Marriage to Left-Wing Identity Politics
     
 
 *   Previous
@@ -258,9 +250,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Kelly Defends Trump on Calls, Lashes Out at Florida Democrat
 *   Senate Passes Budget Plan, Unlocking Vehicle for Tax Cut
-*   Cruz vs. Sanders: What's Difference Between a Socialist &. a Dem on Taxes?
+*   Kelly Defends Trump on Calls, Lashes Out at Florida Democrat
+*   Trump Talks Taxes, Health Care, Twitter, John Kelly in Bartiromo Interview
 *   Bannon's "War" Includes Races Against Dem Incumbents
 *   Trump and McConnell Make Nice in Unity Display
 *   Presidential Job Approval
@@ -279,24 +271,24 @@ Latest PollsAll Polls
 
 *   President Trump Job ApprovalGallup
     *   Approve36
-    *   Disapprove58Disapprove +22
+    *   Disapprove57Disapprove +21
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove55Disapprove +12
+    *   Approve41
+    *   Disapprove58Disapprove +17
+*   Direction of CountryRasmussen Reports
+    *   Right Direction33
+    *   Wrong Track61Wrong Track +28
 *   Congressional Job ApprovalGallup
     *   Approve13
     *   Disapprove80Disapprove +67
-*   Alabama Senate Special Election - Moore vs. JonesWBRC-TV/Strategy Research
-    *   Moore51
-    *   Jones40Moore +11
 
 More Latest Polls In The News
 
+*   Scarborough: Trump, Bannon Want To Destroy Republican Party. Bannon's "Scam" Will Blow Up Midterms
 *   Bannon: Cable News Is "Pro-Wrestling," Designed To Divert Your Attention From What's Really Going On
 *   Sen. Brown: "Steve Bannon is A White Supremacist". "The Media Has Not Been Unfair To Trump"
 *   Schumer: I Didn't Know U.S. Has Troops In Niger. Time To "Reexamine" Post-9/11 AUMF
 *   David Brooks On Condolence Call: "Trump Is Not Oprah, He Doesn't Speak Empathy Particularly Well"
-*   Janet Napolitano: We Must Educate Students Restricting Free Speech What First Amendment Means
 
 *   Politics
 *   Policy
