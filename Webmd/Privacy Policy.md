@@ -1,4 +1,5 @@
-Skip to main content
+Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking Subscribe, I agree to the WebMD Terms &. Conditions &. Privacy Policy  
+and understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -75,7 +76,7 @@ Skip to main content
     *   Healthy Teens
     *   Fit Kids
     
-    Featured Topics*   Slideshow Fruits With the Most Sugar
+    Featured Topics*   Slideshow How Your Bad Habits Can Affect Your Health
     *   Slideshow Best and Worst Salads
 *   Family &  
     Pregnancy Family &. Pregnancy Family &. Pregnancy All About Pregnancy
@@ -106,9 +107,9 @@ Skip to main content
     Experts News &. Experts News &. Experts Health News
     
     *   News Special: Tension in the Doctor’s Office?
-    *   Too Much Exercise May Be Bad for Some Men's Hearts
+    *   Recall: Vegetable Products Sold at Major Retailers
+    *   More Evidence Depression Shortens Lives
     *   Even a Little Walking Can Lengthen Your Life
-    *   Melatonin Benefits, Risks: What You Need to Know
     *   1 in 9 American Men Has Oral HPV
     
     Experts &. Community
