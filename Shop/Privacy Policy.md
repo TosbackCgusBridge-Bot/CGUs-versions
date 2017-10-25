@@ -1,4 +1,9 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FJM5K" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Lenovo Official US Store | Laptops, Tablets, Computers, PCs Lenovo Menu
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FJM5K" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Lenovo Official US Store | Laptops, Tablets, Computers, PCs Lenovo
+
+*   Call 1-855-253-6686
+    *   Call 1-855-253-6686
+
+Menu Close Menu Close
 
 *   Products
     *   Laptops &. Ultrabooks Explore All  Laptops &. Ultrabooks Explore All  Laptops &. Ultrabooks Narrow your choices by category and find the laptop you truly want
@@ -300,8 +305,6 @@
 
 *   Call 1-855-253-6686
 
-Compare (0)
-
 *   Email Sign-Up
 *   My Account
     *   Sign In
@@ -310,10 +313,12 @@ Compare (0)
     *   Product Registration
     *   Sign Out
 
-*   Call 1-855-253-6686
-    *   Call 1-855-253-6686
 *   Search
     
+*   Call 1-855-253-6686
+    *   Call 1-855-253-6686
+
+Compare (0)
 
 *   Email Sign-Up
 *   My Account
@@ -401,7 +406,7 @@ STAY CONNECTED
 *   Flickr
 *   Lenovo Forums
 
-Laptops Tablets Desktops Deals Chat Laptops Tablets Desktops Deals Chat Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium-FrançaisBelgium-DutchBoliviaBotswanaBrazilBulgariaCanada-FrançaisCanada-EnglishChileChinaColombiaCote d'IvoireCroatiaCzech RepublicDenmarkEcuadorEgypt-العربيةEgypt-EnglishEstoniaFinlandFranceGermanyGhanaGreeceHong Kong S.A.R. of China-EnglishHong Kong S.A.R. of China-繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia-العربيةSaudi Arabia-EnglishSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland-GermanSwitzerland-FrenchTaiwanTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates-EnglishUnited Arab Emirates-العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe
+Laptops Tablets Desktops Deals Laptops Tablets Desktops Deals Chat Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium-FrançaisBelgium-DutchBoliviaBotswanaBrazilBulgariaCanada-FrançaisCanada-EnglishChileChinaColombiaCote d'IvoireCroatiaCzech RepublicDenmarkEcuadorEgypt-العربيةEgypt-EnglishEstoniaFinlandFranceGermanyGhanaGreeceHong Kong S.A.R. of China-EnglishHong Kong S.A.R. of China-繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia-العربيةSaudi Arabia-EnglishSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland-GermanSwitzerland-FrenchTaiwanTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates-EnglishUnited Arab Emirates-العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe
 
 *   ABOUT LENOVO
     *   Our Company
@@ -466,7 +471,9 @@ Laptops Tablets Desktops Deals Chat Laptops Tablets Desktops Deals Chat Select C
     *   Technical Support
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 
-© 2017 Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close Chat with a Lenovo Specialist Would you like to start the session?
+© 2017   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
+
+Chat with a Lenovo Specialist Would you like to start the session?
 
 *   Yes, let's chat
 *   No, not right now
