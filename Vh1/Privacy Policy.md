@@ -4,35 +4,25 @@ VH1 Menu VH1
 *   Shows
     *   Full Episodes
     *   Shows A-Z
-    *   Show News
     *   TV Schedule
-    *   Love &. Hip Hop Hollywood
+    *   Love &. Hip Hop
     *   Scared Famous
     *   Martha &. Snoop's Potluck Dinner Party
     *   Black Ink Crew Chicago
-    *   Love &. Hip Hop
+    *   Love &. Hip Hop Hollywood
     *   RuPaul's Drag Race All Stars
     *   Hip Hop Squares
+    *   Hip Hop Honors
     *   Brunch With TiffanySee all Shows
-*   Pop Culture
-    *   Music
-    *   Celebrity
-    *   Movies
-    *   TV
-    *   Around The Web
-    *   VideoSee all Pop Culture
-*   Life
-    *   Beauty &. Health
-    *   Style
-    *   Relationships
-    *   VideoSee all Life
+*   News
+*   Digital Originals
 *   Watch Live TV
 *   TV Provider Sign Out
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z Show News TV Schedule Love &. Hip Hop Hollywood Scared Famous Martha &. Snoop's Potluck Dinner Party Black Ink Crew Chicago Love &. Hip Hop RuPaul's Drag Race All Stars Hip Hop Squares Brunch With Tiffany See all Shows
-*   Pop Culture Music Celebrity Movies TV Around The Web Video See all Pop Culture
-*   Life Beauty &. Health Style Relationships Video See all Life
+*   Shows Full Episodes Shows A-Z TV Schedule Love &. Hip Hop Scared Famous Martha &. Snoop's Potluck Dinner Party Black Ink Crew Chicago Love &. Hip Hop Hollywood RuPaul's Drag Race All Stars Hip Hop Squares Hip Hop Honors Brunch With Tiffany See all Shows
+*   News
+*   Digital Originals
 *   Watch Live TV
 *   facebook twitter tumblr
 
