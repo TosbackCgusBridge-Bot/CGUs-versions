@@ -117,23 +117,23 @@ When you use the Intermarkets website, you are accepting the terms and condition
 
 LATEST ON TWITTER
 
+My week on Twitter : 3 Mentions, 16.8K Mention Reach, 3 Favorited, 2 Tweets. See yours with sumall.com/performan… pic.twitter.com/nuSB…
+
+About 5 hours ago
+
 Listen now to Erik @Requidan's State of #Programmatic podcast w. @LiveIntent's @KeishaSG &. @kerel\_cooper here: blog.liveintent.com/…
 
-About 10 hours ago
+About a day ago
 
 AMA: Outsourcing advertising for publishers with @mrmistry stateofdigitalpublis… via @StateofDigitalP
 
-About 5 days ago
+About 6 days ago
 
 My week on Twitter : 4 Mentions, 22.4K Mention Reach, 4 New Followers, 2 Tweets. See yours with sumall.com/performan… pic.twitter.com/0JqB…
 
-About 6 days ago
+Last week
 
 My week on Twitter : 6 Mentions, 18.9K Mention Reach, 6 Favorited, 2 Retweets, 860 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/gF3B…
-
-About 2 weeks ago
-
-Our biggest fans this week: @Requidan, @DRUMDTAUSA. Thank you! via sumall.com/thankyou?… pic.twitter.com/94KH…
 
 About 2 weeks ago
 
