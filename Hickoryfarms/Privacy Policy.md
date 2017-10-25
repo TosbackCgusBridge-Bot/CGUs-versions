@@ -36,9 +36,9 @@
     *   Wine &. Fruit Baskets
 *   Gourmet Snacks
     View All Categories Shop by Category*   Condiments &. Spreads
-    *   Mustards
-    *   Nuts
-    *   Crackers
+    *   Gourmet Mustard
+    *   Gourmet Nuts
+    *   Gourmet Crackers
     *   Coffee &. Tea
 *   Sweets
     View All Categories Shop by Category*   Chocolates
@@ -105,9 +105,9 @@
     *   Wine &. Fruit Baskets
 *   Gourmet Snacks
     View All Categories Shop by Category*   Condiments &. Spreads
-    *   Mustards
-    *   Nuts
-    *   Crackers
+    *   Gourmet Mustard
+    *   Gourmet Nuts
+    *   Gourmet Crackers
     *   Coffee &. Tea
 *   Sweets
     View All Categories Shop by Category*   Chocolates
