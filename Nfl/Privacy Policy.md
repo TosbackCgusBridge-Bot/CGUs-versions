@@ -1,4 +1,4 @@
-*   Big Play HighlightC.Clement 9-yard TD pass from C.WentzWatch NowWAS17PHI?244th ? 11:57RZ
+*   WAS24PHI34Final
 *   KC30OAK31Final
 *   TB27BUF30Final
 *   CAR3CHI17Final
