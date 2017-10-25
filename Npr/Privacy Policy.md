@@ -302,7 +302,6 @@ Back
 
 *   **Facebook**
 *   **Twitter**
-*   **Google+**
 *   **Email**
 
 May 7, 20139:51 AM ET
@@ -483,7 +482,6 @@ If you have any questions or comments concerning our Privacy Policy, please Cont
 
 *   **Facebook**
 *   **Twitter**
-*   **Google+**
 *   **Email**
 
 NPR thanks our sponsors
