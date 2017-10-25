@@ -72,7 +72,6 @@ Get Connected. See what's next for CenturyLink.
 
 *   Store Locator
 *   Yellow Pages
-*   Email Offers
 *   Referral Program
 *   CenturyLink Retailer
 *   Guide to Home Technology
