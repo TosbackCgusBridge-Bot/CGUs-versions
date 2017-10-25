@@ -293,6 +293,7 @@ Menu
         *   Jamie's story: I control my asthma, it doesn’t control me
         *   Breathing life into an idea for a respiratory medicine
         *   Crossing items off my bucket list, one breath at a time
+        *   What I know about asthma… then and now.
     *   How we do business
         *   Back
         *   How we do business
@@ -324,10 +325,9 @@ Menu
         *   Consumer Healthcare
     *   Our mission and strategy
     *   US Pharmaceuticals Leadership Team
-    *   Global partnerships
-    *   US community partnerships
+    *   US Community Partnerships
         *   Back
-        *   US community partnerships
+        *   US Community Partnerships
         *   Barnes smART Fund for Arts Education
         *   Charitable grants
         *   GSK IMPACT Awards
@@ -339,13 +339,14 @@ Menu
             *   East St. Louis, IL: Can we work together to improve the health of a community?
             *   Triangle Region, NC: How can we support young people aging out of the foster care system to become healthy adults?
         *   GSK Opportunity Scholarships
+        *   Save the Children partnership
+            *   Back
+            *   Save the Children partnership
+            *   The Resilient Children/Resilient Communities Initiative
+            *   Why community resilience?
+            *   Cross-sector partnership
         *   Science in the Summer™
-    *   Disaster preparedness and resilience
-        *   Back
-        *   Disaster preparedness and resilience
-        *   The Resilient Children/Resilient Communities Initiative
-        *   Why community resilience?
-        *   Cross-sector partnership
+        *   Vetri Cooking Lab
     *   Policies, codes and standards
         *   Back
         *   Policies, codes and standards
@@ -360,11 +361,7 @@ Menu
         
         Our mission is to help people do more, feel better, live longer.
         
-    *   Global partnerships
-        
-        Many of the best ideas come from collaboration.
-        
-    *   US community partnerships
+    *   US Community Partnerships
         
         Where we live matters to our health. That's why we want to build healthy communities.
         
@@ -390,6 +387,10 @@ Menu
     *   Our prescription medicines
         
         Our pharmaceuticals business discovers, develops and makes medicines to treat a broad range of the world's most common acute and chronic diseases.
+        
+    *   Our vaccines
+        
+        Our vaccines business develops, produces and distributes over 1.9 million vaccines every day to people across over 150 countries.
         
     *   ViiV Healthcare
         
