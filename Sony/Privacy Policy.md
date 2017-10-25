@@ -131,7 +131,7 @@ View When In Doubt, Wear Red on Instagram
 
 There's never been a better time to be an undead farm animal! Goat Simulator: GoatZ now off at PS Store.
 
-23 hours ago
+1 day ago
 
 View Tweet
 
