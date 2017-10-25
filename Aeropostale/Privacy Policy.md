@@ -173,7 +173,7 @@ Close submenu ( Tops ) Tops
 *   Tanks
 *   Hoodies + Sweatshirts
 *   Jackets + Vests
-*   Sleep
+*   Sleep Tops
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -242,6 +242,7 @@ Close submenu ( Girls ) Girls
 *   Joggers + Sweats
 *   Leggings + Active
 *   Shorts
+*   Accessories
 
 Close submenu ( Guys ) Guys
 
@@ -269,7 +270,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**EXTRA 20% OFF** CODE: **FALL20** + **FREE SHIPPING ON $75**
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **EXTRA 20% OFF** CODE: **FALL20** + **FREE SHIPPING ON $75**
 
 *   My Account My Account Login Register
 
@@ -397,7 +398,7 @@ Menu Find a Store Aeropostale
         *   Tanks
         *   Hoodies + Sweatshirts
         *   Jackets + Vests
-        *   Sleep
+        *   Sleep Tops
     
     *   Bottoms
         *   View All
@@ -455,6 +456,7 @@ Menu Find a Store Aeropostale
         *   Joggers + Sweats
         *   Leggings + Active
         *   Shorts
+        *   Accessories
     
     *   Guys
         *   View All
