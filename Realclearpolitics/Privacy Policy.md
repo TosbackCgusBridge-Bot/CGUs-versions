@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Michelle Cottle_: Alabama's Republican Primary Is Just a Preview
+*   _John Davidson_: A Year Later, Elites Still Don't Get Why People Voted Trump
     
-*   _Peter Boyer_: Donald Trump: King of Deregulation?
+*   _Tina Nguyen_: Trump's Tantrums Paralyze Washington
     
-*   _Larry Summers_: Corporate Tax Cuts Benefit the Rich
+*   _James Arkin_: Brady: Odds 'Very Good' for Tax Reform by Year's End
     
-*   _Sullivan &. Tankersley_: Trump Disrupts Tax Debate by Ruling Out 401(k) Change
+*   _Patricia Murphy_: Avoiding Another 'Brownbackistan'
     
-*   _Gregg Jarrett_: Lynch, the Clintons and a Series of Fantastic Coincidences
+*   _Gary Varvel_: Rebutting the Media Caricature of Mike Pence
     
-*   _Julian Zelizer_: What 'Trumpification' of the Presidency Means to Generation Z
+*   _Derek Thompson_: The Doom Loop of Modern Liberalism
     
-*   _David Harsanyi_: 10 Times CNN Told Us an Apple Was a Banana
+*   _Megan McArdle_: Be Careful Who You Call a 'White Supremacist'
     
-*   _David Leonhardt_: Driverless Cars Made Me Nervous. Then I Tried One.
+*   _Barbara Ransby_: Black Lives Matter Is Radical Democracy in Action
     
-*   _Ned Ryun_: The Charitable Health Care Racket
+*   _Steven Malanga_: Amazon's Utopian Criteria
     
-*   _Carl Cannon_: Lend-Lease: When U.S. Largesse Saved the World
+*   _Michael Rubin_: After ISIS: Hope in Iraq and New Storm Clouds in Syria
     
-*   _Zev Chafets_: Talking North Korea and Iran With Israel's Rocket Man
+*   _Wladimir van Wilgenburg_: Secrets of the Black Stadium: ISIS' House of Horror
     
-*   _Charles Kesler_: Draining the Swamp
+*   _Molly Ball_: On Safari in Trump's America
     
-*   _Juan Williams_: Trump's Cynical Sabotage of Obamacare
+*   _Matthew Walther_: Voters Aren't Animals to Be Studied by Elitists on 'Safari'
     
-*   _F.H. Buckley_: What Bush Missed About Conservative Nationalism
+*   _Michelle Goldberg_: Democrats Should Embrace Impeachment
     
-*   _Jen Psaki_: Bush and Obama Remind Us: This Is Not Normal
+*   _Wesley Pruden_: Trump Derangement Syndrome Only Gets Dems So Far
     
-*   _Byron York_: Is Tone of Trump-Russia Probe Changing?
+*   _Richard Cohen_: General Kelly Has Tarnished His Stars
     
-*   _Sen. Ted Cruz_: A Pressure Point for North Korea
+*   _Ken Blackwell_: All Hat, No Decency
     
-*   _James Stavridis_: Here's How to Pull Turkey Back From the Brink
+*   _Scott Jennings_: Dear Dems: Spare Me Your Phony Nostalgia for Bush
     
-*   _Charles Hurt_: A Clown in a Sequined Hat Distorts Greatest Sacrifice
+*   _Robert Kuttner_: Is Trump Smart Enough to Re-Appoint Yellen?
     
-*   _Charles Blow_: Trump's Boogeymen? Women!
+*   _John Crudele_: Why Trump Should Pick a New Fed Chair
     
-*   _Jonathan Johnson_: Listen to the Will of the People and Cut Taxes Now
+*   _Michael Gerson_: How Trump Broke Conservatism
     
-*   _Bill McKibben_: Just Say 'No' to Arctic Refuge Drilling
+*   _Victor Davis Hanson_: The 'Never Trump' Construct
     
-*   _Rupert Darwall_: From Golden to Green: Inside CA's Eco-Fundamentalism
+*   _Eugene Robinson_: Congress Must Reclaim Its War-Making Powers
     
-*   _William Sullivan_: NFL's Regrettable Marriage to Left-Wing Identity Politics
+*   _David Bossie_: Time for Special Counsel on Hillary Clinton's Russia Scandal
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Says 401(k) Program Will Be Unscathed in Tax Plan
+*   Tillerson Seeks Arab Help in U.S. Effort to Isolate Iran
+*   McConnell Rips Bannon: "This Element" Cost Us 5 Seats in 2010, 2012
 *   Senate Passes Budget Plan, Unlocking Vehicle for Tax Cut
 *   Kelly Defends Trump on Calls, Lashes Out at Florida Democrat
-*   Trump Talks Taxes, Health Care, Twitter, John Kelly in Bartiromo Interview
-*   Bannon's "War" Includes Races Against Dem Incumbents
-*   Trump and McConnell Make Nice in Unity Display
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Florida Senate - Scott vs. NelsonUNF
+    *   Nelson37
+    *   Scott36Nelson +1
 *   President Trump Job ApprovalGallup
     *   Approve36
-    *   Disapprove57Disapprove +21
+    *   Disapprove58Disapprove +22
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve41
-    *   Disapprove58Disapprove +17
+    *   Approve43
+    *   Disapprove56Disapprove +13
 *   Direction of CountryRasmussen Reports
     *   Right Direction33
     *   Wrong Track61Wrong Track +28
-*   Congressional Job ApprovalGallup
-    *   Approve13
-    *   Disapprove80Disapprove +67
 
 More Latest Polls In The News
 
-*   Scarborough: Trump, Bannon Want To Destroy Republican Party. Bannon's "Scam" Will Blow Up Midterms
-*   Bannon: Cable News Is "Pro-Wrestling," Designed To Divert Your Attention From What's Really Going On
-*   Sen. Brown: "Steve Bannon is A White Supremacist". "The Media Has Not Been Unfair To Trump"
-*   Schumer: I Didn't Know U.S. Has Troops In Niger. Time To "Reexamine" Post-9/11 AUMF
-*   David Brooks On Condolence Call: "Trump Is Not Oprah, He Doesn't Speak Empathy Particularly Well"
+*   Ingraham: Flake's View Of Conservatism "Receding," His Views Are "Unpopular" In Republican Ranks
+*   GOP Sen. Flake Announces Retirement: Trump Makes Us Look Backward, Will Make Us Minority Party
+*   Hannity To Never-Trumper Senators: Take McConnell, Sasse, Cornyn, Murkowski, and Collins With You
+*   Maxine Waters: Trump Supporters "Not Accustomed" To A Black Woman "Taking Leadership" To Impeach Him
+*   Victor Davis Hanson: Russia Collusion Obsession Is Empty Hysteria. The Investigators Are Now Being Investigated
 
 *   Politics
 *   Policy
