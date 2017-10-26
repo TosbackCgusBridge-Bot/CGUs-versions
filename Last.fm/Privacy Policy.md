@@ -188,6 +188,7 @@ Goodies
 *   Download Scrobbler
 *   Developer API
 *   Free Music Downloads
+*   Merchandise
 
 Account
 
