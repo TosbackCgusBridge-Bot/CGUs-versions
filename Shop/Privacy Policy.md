@@ -279,7 +279,7 @@ Menu Close Menu Close
     *   Order Support
     *   Technical Support
     *   Service Parts
-    *   View Order Status
+    *   ORDER VISIBILITY PORTAL
 *   Solutions
     *   OEM Solutions
     *   Small Business
@@ -358,9 +358,9 @@ LENOVO SWEEPSTAKES
 
 Play for your chance to win some of our hottest products!
 
-Gaming Sale
+Miix 720
 
-Save big on elite gaming desktops, laptops &. accessories
+Need productivity on the go? This 2-in-1 can take you there.
 
 THINKAGILE VX SERIES
 
@@ -378,11 +378,11 @@ Sleek all-in-ones, high-performance towers and space-saving tiny desktops for ho
 
 TABLETS
 
-Android and Windows tablets enhanced for a high-productivity and multimedia experience.
+Android and Windows tablets engineered for enhanced productivity and a rich multimedia experience.
 
 ACCESSORIES
 
-From monitors to docks, keyboards &. mice to graphics, software and everything in between.
+From monitors to docks, keyboards to mice, graphics to software, and everything in between.
 
 Virtual Reality &. Smart Devices
 
