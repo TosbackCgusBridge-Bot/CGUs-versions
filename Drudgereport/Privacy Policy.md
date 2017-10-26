@@ -119,15 +119,15 @@ LATEST ON TWITTER
 
 My week on Twitter : 3 Mentions, 16.8K Mention Reach, 3 Favorited, 2 Tweets. See yours with sumall.com/performan… pic.twitter.com/nuSB…
 
-About 5 hours ago
+Yesterday
 
 Listen now to Erik @Requidan's State of #Programmatic podcast w. @LiveIntent's @KeishaSG &. @kerel\_cooper here: blog.liveintent.com/…
 
-About a day ago
+About 2 days ago
 
 AMA: Outsourcing advertising for publishers with @mrmistry stateofdigitalpublis… via @StateofDigitalP
 
-About 6 days ago
+Last week
 
 My week on Twitter : 4 Mentions, 22.4K Mention Reach, 4 New Followers, 2 Tweets. See yours with sumall.com/performan… pic.twitter.com/0JqB…
 
