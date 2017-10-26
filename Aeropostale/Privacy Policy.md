@@ -270,7 +270,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **EXTRA 20% OFF** CODE: **FALL20** + **FREE SHIPPING ON $75**
+**EXTRA 20% OFF** CODE: **FALL20** + **FREE SHIPPING ON $75**
 
 *   My Account My Account Login Register
 
