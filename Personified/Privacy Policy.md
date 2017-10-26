@@ -1,4 +1,4 @@
-<iframe height='0' src='https://www.googletagmanager.com/ns.html?id=GTM-PPCSWP' style='display:none;visibility:hidden' width='0'></iframe>. Recently Viewed No items to display Source &. Screen
+<iframe height='0' src='https://www.googletagmanager.com/ns.html?id=GTM-PPCSWP' style='display:none;visibility:hidden' width='0'></iframe>.
 
 *   Sign In Already Purchased?  
     Sign In to Your Account!
