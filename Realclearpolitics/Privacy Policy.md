@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _John Davidson_: A Year Later, Elites Still Don't Get Why People Voted Trump
+*   _Niall Stanage_: Republicans Brace for What's Next Amid Corker, Flake Tumult
     
-*   _Tina Nguyen_: Trump's Tantrums Paralyze Washington
+*   _Michael Goodwin_: Russia Collusion Script Flipped on Its Head
     
-*   _James Arkin_: Brady: Odds 'Very Good' for Tax Reform by Year's End
+*   _Chris Cillizza_: Launch Probes! GOP Tries Desperately to Take Focus off Trump
     
-*   _Patricia Murphy_: Avoiding Another 'Brownbackistan'
+*   _Mollie Hemingway_: The 10 Most Important Claims About the Steele Dossier
     
-*   _Gary Varvel_: Rebutting the Media Caricature of Mike Pence
+*   _Elvia Diaz_: Jeff Flake Quit. Trump Won. And Civility Lost
     
-*   _Derek Thompson_: The Doom Loop of Modern Liberalism
+*   _Sean Trende_: Flake Retirement Helps the GOP in Ariz. Senate Race
     
-*   _Megan McArdle_: Be Careful Who You Call a 'White Supremacist'
+*   _Ben White_: Schumer Takes Hard Line With Trump on Taxes
     
-*   _Barbara Ransby_: Black Lives Matter Is Radical Democracy in Action
+*   _Marc Thiessen_: Red State Dems Will Pay for Opposing Tax Cuts
     
-*   _Steven Malanga_: Amazon's Utopian Criteria
+*   _Robert Reich_: How to End Crony Capitalism
     
-*   _Michael Rubin_: After ISIS: Hope in Iraq and New Storm Clouds in Syria
+*   _Ryan Cooper_: In Niger, America's Appalling Inattention to War on Display
     
-*   _Wladimir van Wilgenburg_: Secrets of the Black Stadium: ISIS' House of Horror
+*   _Michael McLaughlin_: Why Trump Is Right About North Korea
     
-*   _Molly Ball_: On Safari in Trump's America
+*   _Byron York_: After Trump Dossier Revelation, FBI Is Next
     
-*   _Matthew Walther_: Voters Aren't Animals to Be Studied by Elitists on 'Safari'
+*   _Woodruff & Ackerman_: GOP on Russia Probe Not That Interested in Russia
     
-*   _Michelle Goldberg_: Democrats Should Embrace Impeachment
+*   _Conrad Black_: Trump Admin Shifts Into Full Gear as Clintons Immolate
     
-*   _Wesley Pruden_: Trump Derangement Syndrome Only Gets Dems So Far
+*   _Steve Israel_: With Flake's Retirement, a Battle for the Soul of Democracy
     
-*   _Richard Cohen_: General Kelly Has Tarnished His Stars
+*   _Ben Domenech_: Flake's Decision Has Been Coming for a Long Time
     
-*   _Ken Blackwell_: All Hat, No Decency
+*   _Caitlin Huey-Burns_: Can Non-Trump Republicans Spark a Multi-Party System?
     
-*   _Scott Jennings_: Dear Dems: Spare Me Your Phony Nostalgia for Bush
+*   _Damon Linker_: Democrats in Denial
     
-*   _Robert Kuttner_: Is Trump Smart Enough to Re-Appoint Yellen?
+*   _Jeffrey Toobin_: Is the End of Blocking Trump's Judicial Nominees Near?
     
-*   _John Crudele_: Why Trump Should Pick a New Fed Chair
+*   _Betsy McCaughey_: Congress Poised to Bailout Insurers, Fleece Taxpayers
     
-*   _Michael Gerson_: How Trump Broke Conservatism
+*   _Stephen Stromberg_: The Latest Terrible GOP Plan to Ruin Obamacare
     
-*   _Victor Davis Hanson_: The 'Never Trump' Construct
+*   _Salena Zito_: Michigan's John James Could Be the GOP's Future
     
-*   _Eugene Robinson_: Congress Must Reclaim Its War-Making Powers
+*   _Graham Vyse_: The Win-or-Lose Case for Challenging Dianne Feinstein
     
-*   _David Bossie_: Time for Special Counsel on Hillary Clinton's Russia Scandal
+*   _James Clad &. Francesca Silvestri_: Is It Time for a U.S.-India Alliance?
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Can Non-Trump Republicans Spark a Multi-Party System?
+*   Flake Retirement Scrambles Arizona Senate Race
+*   Hume on Trump Dossier, Clinton-Russian Ties: "Tide May Be Turning"
+*   Brady: Odds "Very Good" for Tax Reform by Year's End
 *   Trump Says 401(k) Program Will Be Unscathed in Tax Plan
-*   Tillerson Seeks Arab Help in U.S. Effort to Isolate Iran
-*   McConnell Rips Bannon: "This Element" Cost Us 5 Seats in 2010, 2012
-*   Senate Passes Budget Plan, Unlocking Vehicle for Tax Cut
-*   Kelly Defends Trump on Calls, Lashes Out at Florida Democrat
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Florida Senate - Scott vs. NelsonUNF
-    *   Nelson37
-    *   Scott36Nelson +1
+*   Virginia Governor - Gillespie vs. NorthamHampton
+    *   Northam33
+    *   Gillespie41Gillespie +8
+*   New Jersey Governor - Guadagno vs. MurphyQuinnipiac
+    *   Murphy57
+    *   Guadagno37Murphy +20
+*   President Trump Job ApprovalFOX News
+    *   Approve38
+    *   Disapprove57Disapprove +19
 *   President Trump Job ApprovalGallup
     *   Approve36
-    *   Disapprove58Disapprove +22
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove56Disapprove +13
-*   Direction of CountryRasmussen Reports
-    *   Right Direction33
-    *   Wrong Track61Wrong Track +28
+    *   Disapprove59Disapprove +23
 
 More Latest Polls In The News
 
-*   Ingraham: Flake's View Of Conservatism "Receding," His Views Are "Unpopular" In Republican Ranks
-*   GOP Sen. Flake Announces Retirement: Trump Makes Us Look Backward, Will Make Us Minority Party
-*   Hannity To Never-Trumper Senators: Take McConnell, Sasse, Cornyn, Murkowski, and Collins With You
-*   Maxine Waters: Trump Supporters "Not Accustomed" To A Black Woman "Taking Leadership" To Impeach Him
-*   Victor Davis Hanson: Russia Collusion Obsession Is Empty Hysteria. The Investigators Are Now Being Investigated
+*   Nunes On 'Trump Dossier': Did The Democrats Use The Intelligence Services for Their Political Gain?
+*   Chuck Todd: "Steve Bannon Won An Important Battle In This Fight For The Soul of The Republican Party"
+*   Flake: "I Could Not Win Republican Primary, That's The Bottom Line". I'd Have To Cozy Up To Trump
+*   Tucker Carlson Source: Podesta Brothers and Manafort, Not Trump, "Central Figures" In Mueller Probe
+*   Hume On 'Trump Dossier,' Clinton Russian Connections: "Tide May Be Turning" On Trump Probe
 
 *   Politics
 *   Policy
