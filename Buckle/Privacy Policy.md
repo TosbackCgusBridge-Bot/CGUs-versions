@@ -146,6 +146,7 @@
         *   Hats
         *   Boxers
         *   Socks
+        *   Bags
         *   Cologne
         *   Sunglasses
         *   Factory Seconds
