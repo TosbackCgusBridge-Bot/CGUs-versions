@@ -30,7 +30,7 @@ Up to
 
 *   Overview
 *   Photos &. Videos
-*   Competition
+*   Compare
 *   Build &. Price
 
 2.0i Sport Sedan shown
@@ -47,7 +47,7 @@ Up to
 
 *   Overview
 *   Photos &. Videos
-*   Competition
+*   Compare
 *   Build &. Price
 
 Legacy 3.6R Limited shown
@@ -64,7 +64,7 @@ Up to
 
 *   Overview
 *   Photos &. Videos
-*   Competition
+*   Compare
 *   Build &. Price
 
 Crosstrek 2.0i Premium shown
@@ -81,7 +81,7 @@ Up to
 
 *   Overview
 *   Photos &. Videos
-*   Competition
+*   Compare
 *   Build &. Price
 
 Forester 2.5i Touring shown
@@ -98,7 +98,7 @@ Up to
 
 *   Overview
 *   Photos &. Videos
-*   Competition
+*   Compare
 *   Build &. Price
 
 Outback 3.6R Limited shown
@@ -115,7 +115,7 @@ Up to
 
 *   Overview
 *   Photos &. Videos
-*   Competition
+*   Compare
 *   Build &. Price
 
 BRZ Premium shown
@@ -132,7 +132,7 @@ Up to
 
 *   Overview
 *   Photos &. Videos
-*   Competition
+*   Compare
 *   Build &. Price
 
 2018 WRX Limited shown
@@ -471,4 +471,4 @@ Your location cannot be displayed.
 
 To connect with Subaru of Hawaii, please click here
 
-<div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1065529365/?value=0&guid=ON&script=0"/>. </div>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1139158252766221&ev=PageView&noscript=1" /><img src="//bat.bing.com/action/0?ti=5066940&Ver=2" height="0" width="0" style="display:none. visibility: hidden;" />
+<div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1065529365/?value=0&guid=ON&script=0"/>. </div>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1139158252766221&ev=PageView&noscript=1" /><img src="//bat.bing.com/action/0?ti=5066940&Ver=2" height="0" width="0" style="display:none. visibility: hidden;" />.
