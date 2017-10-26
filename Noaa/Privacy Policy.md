@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Celebrating 45 years of national marine sanctuaries AROUND NOAA // U.S. Winter Outlook: NOAA forecasters predict cooler, wetter North and warmer, drier South Globe had 2nd warmest year to date, 4th warmest September on record NOAA, NASA team up again to investigate the atmosphere over Antarctica Scientists uncover a centuries-old case of mistaken identity in the Chesapeake Bay
+Enter Search Terms Celebrating 45 years of national marine sanctuaries AROUND NOAA // NOAA and partners assess Hurricane Irma damage to Florida coral reefs U.S. Winter Outlook: NOAA forecasters predict cooler, wetter North and warmer, drier South Globe had 2nd warmest year to date, 4th warmest September on record NOAA, NASA team up again to investigate the atmosphere over Antarctica
 
 *   About our agency
 *   News and features
