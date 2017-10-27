@@ -358,13 +358,13 @@ LENOVO SWEEPSTAKES
 
 Play for your chance to win some of our hottest products!
 
+72 Hours Only
+
+Snag these deals on Essential laptops.
+
 Miix 720
 
 Need productivity on the go? This 2-in-1 can take you there.
-
-THINKAGILE VX SERIES
-
-This is the future-defined data center
 
 Star Wars Jedi Challenges: Begin Your Journey
 
