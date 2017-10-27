@@ -1,4 +1,3 @@
-*   MIA4-2BAL3-4Thu 8:25 PM ET
 *   MIN5-2CLE0-7Sun 9:30 AM ET
 *   OAK3-4BUF4-2Sun 1:00 PM ET
 *   IND2-5CIN2-4Sun 1:00 PM ET
@@ -11,6 +10,7 @@
 *   DAL3-3WAS3-3Sun 4:25 PM ET
 *   PIT5-2DET3-3Sun 8:30 PM ET
 *   DEN3-3KC5-2Mon 8:30 PM ET
+*   MIA0BAL40Final
 
 *   News
 *   Scores
