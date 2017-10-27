@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 7%  Twitter 2% 
+Facebook 6%  Twitter 2% 
 
 *   OAIC - OAICgov
     
@@ -199,7 +199,7 @@ Facebook 7%  Twitter 2% 
     
 *   Show Less ...
 
-Pinterest 7%  Wikipedia 2% 
+Pinterest 6%  Wikipedia 2% 
 
 *   Medana
     
@@ -218,7 +218,7 @@ Pinterest 7%  Wikipedia 2% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Instagram 7%  Google+ 2% 
+Instagram 6%  Google+ 2% 
 
 *   Free Privacy Policy - Google+
     
@@ -237,53 +237,7 @@ Instagram 7%  Google+ 2% 
     ©2017 Google • Privacy Policy • Terms of Service • Maps Terms. Region. Search. Sign in. About... Sign in. Profile cover photo. Profile photo. Verizon fios.
     
 
-Linkedin 1% 
-
-*   Privacy Policy | LinkedIn
-    
-    Main content starts below. Sign up. Help Center. About. Press. Blog. Developers. Careers. Advertising. Talent Solutions
-    
-*   Wire Stone | LinkedIn
-    
-    Learn about working at Wire Stone. Join LinkedIn today for free. See who you know at Wire Stone, leverage your professional network, and get hired.
-    
-*   VOLIA | LinkedIn
-    
-    Learn about working at VOLIA. Join LinkedIn today for free. See who you know at VOLIA, leverage your professional network, and get hired.
-    
-*   Cookie Policy | LinkedIn
-    
-    Main content starts below. Sign up. Help Center. About. Press. Blog. Developers. Careers. Advertising. Talent Solutions
-    
-*   Show More ...
-
-*   Patrina Corporation | LinkedIn
-    
-    Learn about working at Patrina Corporation. Join LinkedIn today for free. See who you know at Patrina Corporation, leverage your professional network, and get hired.
-    
-*   Leif Larsen | Professional Profile
-    
-    View Leif Larsen’s professional profile on LinkedIn. LinkedIn is the world's largest business network, helping professionals like Leif Larsen discover inside ...
-    
-*   Privacy policy: Learning Online Marketing - LinkedIn
-    
-    You can use free privacy policy generators online, or you can go through a third-party privacy company, like truste.com, for help on this.
-    
-*   Privacy Policy Changes: More control over your LinkedIn ...
-    
-    Jun 10, 2011 · In keeping with our commitment to put our members first, we’d like to announce upcoming updates, mostly straightforward clarifications of our our User ...
-    
-*   The Privacy Policy and Data Protection in Egypt | LinkedIn
-    
-    Digital data is the result of transactions made through an intermediary, or a machine like an ATM, to your computer. Identification (ID) is a digital data registered ...
-    
-*   Dimension Data New Zealand | LinkedIn
-    
-    Learn about working at Dimension Data New Zealand. Join LinkedIn today for free. See who you know at Dimension Data New Zealand, leverage your professional network ...
-    
-*   Show Less ...
-
-Foursquare 7%  Music 1% 
+Linkedin 6%  Foursquare 6%  Music 2% 
 
 *   Pandora
     
@@ -329,7 +283,7 @@ Foursquare 7%  Music 1% 
     
 *   Show Less ...
 
-Photo Albums 1% 
+Photo Albums 2% 
 
 *   Flickr
     
@@ -340,7 +294,7 @@ Photo Albums 1% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 1% 
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -364,7 +318,7 @@ Myspace 1% 
     
 *   Show Less ...
 
-Documents 1% 
+Documents 2% 
 
 *   Generic Privacy Policy template - TermsFeed
     
@@ -410,7 +364,7 @@ Documents 1% 
     
 *   Show Less ...
 
-Web Search 1% 
+Web Search 2% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -456,7 +410,7 @@ Web Search 1% 
     
 *   Show Less ...
 
-Images 1% 
+Images 2% 
 
 20
 
