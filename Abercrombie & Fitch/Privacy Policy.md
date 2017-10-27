@@ -1,7 +1,7 @@
 Abercrombie &. Fitch US  
 Privacy Policy
 
-Updated: February 2017
+Updated: October 2017
 
 Ad Cookie Policy How Third Parties Serve You Our Advertisements On Other Websites and Your Choices
 
@@ -114,7 +114,7 @@ We may use the information that we collect under this Privacy Policy for the pur
 
 _We may disclose the information that you provide to us (including, without limitation, your personal data) to any member of our group, which means our subsidiaries, our ultimate holding company, and the subsidiaries of our holding company (including our affiliated companies)._ **A&F and its affiliated companies will not subscribe you to their ongoing marketing email and/or text message programs unless you have separately consented to receive such marketing communications from a given affiliated company.**
 
-We make the names and postal addresses in our postal mailing list, sometimes categorized by purchasing information, available to other unaffiliated companies for their marketing purposes. See the “Opt-Out” section below for instructions on how to opt out of sharing with unaffiliated companies.  If you submit content to us through our Websites, Apps or Social Media Pages, such as comments, reviews or images, and we choose to post your content on our Websites or otherwise display it, it will become public information.
+If you submit content to us through our Websites, Apps or Social Media Pages, such as comments, reviews or images, and we choose to post your content on our Websites or otherwise display it, it will become public information.
 
 Please be aware that we may use third parties to assist us with our e-commerce business, such as our Websites, emails, text messages, and Social Media Pages. Some examples of the assistance that may be provided by third party service providers are: fulfilling orders (including, but not limited to, processing payments, providing fraud prevention services, and verifying addresses). providing electronic online investor information. providing advertising services, including on social media sites and internet search engines. monitoring and analyzing site activity, your actions in response to our emails and the effectiveness of our advertising. providing support services. facilitating communication with you through emails, texts, Notifications, and other platforms. conducting surveys. administering and maintaining employment application information. offering interactive features. and administering the A&F Club program, product reviews, promotions, sweepstakes or contests. Personal information you provide us may be shared, as necessary, with the relevant third parties to so carry out functions on our behalf. It is possible that some of these service providers will be located outside of the United States.
 
@@ -154,14 +154,6 @@ Text Messages
 
 *   Marketing Text Messages: If you have signed up to receive text messages from Abercrombie &. Fitch, or any of our affiliated companies (for example, Hollister Co. and abercrombie kids), but no longer wish to receive these mobile messages, simply follow the opt-out instructions included in each mobile message or follow the opt-out instructions in the Texts Terms for each brand, i.e. send or reply “STOP” to any text message you have received.  Or, if you created an account or are a member of The A&F Club program, go to the email and phone page within the "My Info" section of the Websites, click on "manage your marketing preferences" and select the option to no longer receive text messages in the drop-down menu for each brand and press 'SUBMIT.' Please note, if you unsubscribe by sending a text or by going to the email and phone page within the "My Info" section of the Websites you may receive a reply message confirming that you have opted out of receiving text messages.
 *   Shipping Alert Text Messages: If you opted to receive shipping alerts via text message but you no longer wish to receive them, reply "STOP" to any shipping alert text message you have received.
-
-Postal Marketing
-
-If you no longer wish to receive marketing materials from Abercrombie &. Fitch via regular postal mail, please email us at Privacy\_Policy@Abercrombie.com and tell us in your comments that you want to be removed from the Abercrombie &. Fitch postal mailing list, including the postal address you wish to have removed.
-
-Third-Party Postal Address Sharing
-
-If you would like to make sure that we do not disclose your name and postal mailing address to unaffiliated third parties for their marketing purposes, please email us at Privacy\_Policy@Abercrombie.com and ask us not to share your postal address with unaffiliated companies, including the postal address.
 
 Facebook Messenger Communication
 
