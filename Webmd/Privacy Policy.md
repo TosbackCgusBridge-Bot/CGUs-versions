@@ -29,6 +29,7 @@ and understand that I may opt out of WebMD subscriptions at any time. close Skip
     *   Symptom Checker
     *   Expert Blogs and Interviews
     *   Message Boards
+    *   Questions &. Answers
     *   Insurance Guide
     *   Find a Doctor
     
@@ -107,10 +108,10 @@ and understand that I may opt out of WebMD subscriptions at any time. close Skip
     Experts News &. Experts News &. Experts Health News
     
     *   News Special: Tension in the Doctor’s Office?
-    *   Recall: Vegetable Products Sold at Major Retailers
+    *   Controversial Chemical Can Linger on Toothbrushes
+    *   Solving the Mystery of Chronic Fatigue
     *   More Evidence Depression Shortens Lives
     *   Even a Little Walking Can Lengthen Your Life
-    *   1 in 9 American Men Has Oral HPV
     
     Experts &. Community
     
@@ -440,7 +441,7 @@ WebMD Policy Last updated on December 30, 2016 © 2016 WebMD, LLC. All rights re
 
 Some of these might surprise you.
 
-For perfectly cooked steak every time, try Joule: Sous Vide. Check out Joule: Sous Vide - the kitchen gadget that guarantees perfectly prepped meat, fish, and veggies every time you cook. Ad By **Joule: Sous Vide** AdChoices Depressed, Guilty Feelings After Eating?
+This kitchen essential will have you cooking as perfectly as a professional chef Want to prepare food perfectly, every time? Try Joule: the smallest, smartest, and sexiest sous vide tool ever. Ad By **Joule: Sous Vide** AdChoices Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
