@@ -33,7 +33,10 @@ Close submenu ( Featured ) Featured
 *   Trending
 *   Uniform
 *   Basic Essentials
+*   Lounge + Sleep
 *   Plus Size
+*   It's Cold Outside
+*   Jean Guide
 
 Close submenu ( Tops ) Tops
 
@@ -85,12 +88,13 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
-*   Tapout
+*   Jean Guide
 *   Trending
+*   Tapout
 *   Icon Tees
-*   Uniform
 *   Online Only
 *   Extended Sizes
+*   Uniform
 
 Close submenu ( Tops ) Tops
 
@@ -285,7 +289,10 @@ Menu Find a Store Aeropostale
         *   Trending
         *   Uniform
         *   Basic Essentials
+        *   Lounge + Sleep
         *   Plus Size
+        *   It's Cold Outside
+        *   Jean Guide
     *   Clearance
     
     *   Tops
@@ -328,12 +335,13 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
-        *   Tapout
+        *   Jean Guide
         *   Trending
+        *   Tapout
         *   Icon Tees
-        *   Uniform
         *   Online Only
         *   Extended Sizes
+        *   Uniform
     *   Clearance
     
     *   Tops
@@ -533,6 +541,6 @@ About Us
 Stay Connected
 
 *   Live ChatCall Us
-*   Refer-A-Friend
+*   Give $15, Get $15
 
 © 2017 Aeropostale. All Rights Reserved.
