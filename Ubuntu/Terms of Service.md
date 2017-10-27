@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Security Team Weekly Summary: October 26, 2017 ›
+*   Glowing Bear and Weechat in Kubernetes with Helm ›
+*   Thinger.io uses Ubuntu Core &. snaps for easy IoT deployment ›
 *   Kernel Team Summary – October 25, 2017 ›
 *   Ubuntu Server Development Summary – 24 Oct 2017 ›
-*   Latest and greatest versions of GNOME apps on YOUR desktop! ›
-*   Cinergy makes significant digital signage savings using Ubuntu Core ›
-*   LXD Weekly Status #20: Authentication, Conferences &. More ›
