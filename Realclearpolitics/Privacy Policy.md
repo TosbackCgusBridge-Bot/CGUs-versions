@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Niall Stanage_: Republicans Brace for What's Next Amid Corker, Flake Tumult
+*   _Sen. Chris Coons_: Why Jeff Flake's Exit Should Scare Democrats
     
-*   _Michael Goodwin_: Russia Collusion Script Flipped on Its Head
+*   _Conrad Black_: Russia 'Collusion' Story Blows Up Like the Hindenburg
     
-*   _Chris Cillizza_: Launch Probes! GOP Tries Desperately to Take Focus off Trump
+*   _Jack Shafer_: Baby Donald Trump and the Disputed Dossier
     
-*   _Mollie Hemingway_: The 10 Most Important Claims About the Steele Dossier
+*   _Ron Meyer_: Are Democrats Trying to Lose Virginia's Governor Race?
     
-*   _Elvia Diaz_: Jeff Flake Quit. Trump Won. And Civility Lost
+*   _Charles Blow_: The Menace of Trumpism
     
-*   _Sean Trende_: Flake Retirement Helps the GOP in Ariz. Senate Race
+*   _Peter Ferrara_: How Trump Got Economy Booming in Less Than a Year
     
-*   _Ben White_: Schumer Takes Hard Line With Trump on Taxes
+*   _Ari Fleischer_: Taxes and the Rich--Yes, They Pay Their Fair Share
     
-*   _Marc Thiessen_: Red State Dems Will Pay for Opposing Tax Cuts
+*   _Mark Perry_: Are Trump's Generals in Over Their Heads?
     
-*   _Robert Reich_: How to End Crony Capitalism
+*   _Ned Ryun_: Trump's Malaysia Gambit: Call It Another Win
     
-*   _Ryan Cooper_: In Niger, America's Appalling Inattention to War on Display
+*   _Gideon Rachman_: An Assertive China Challenges the West
     
-*   _Michael McLaughlin_: Why Trump Is Right About North Korea
+*   _John O'Sullivan_: Reckoning With Communism
     
-*   _Byron York_: After Trump Dossier Revelation, FBI Is Next
+*   _John Kass_: Fusion GPS Revelation Rocks the Dem Media Complex
     
-*   _Woodruff & Ackerman_: GOP on Russia Probe Not That Interested in Russia
+*   _Abigail Tracy_: Yes, Dems Funded the Dossier, But Trump Isn't Off the Hook
     
-*   _Conrad Black_: Trump Admin Shifts Into Full Gear as Clintons Immolate
+*   _Rep. Devin Nunes_: Did Dems Use the Intel Services for Their Political Gain?
     
-*   _Steve Israel_: With Flake's Retirement, a Battle for the Soul of Democracy
+*   _Roger Cohen_: The Bone-Spur Bozo at the White House
     
-*   _Ben Domenech_: Flake's Decision Has Been Coming for a Long Time
+*   _David Drucker_: Trump Wins the Civil War Where It Counts--With Voters
     
-*   _Caitlin Huey-Burns_: Can Non-Trump Republicans Spark a Multi-Party System?
+*   _Doyle McManus_: If the Trump Tax Plan Passes, Don't Count on a Raise
     
-*   _Damon Linker_: Democrats in Denial
+*   _Steven Rattner_: Why 'Medicare for All' Will Sink the Democrats
     
-*   _Jeffrey Toobin_: Is the End of Blocking Trump's Judicial Nominees Near?
+*   _Tom Bevan_: The Takeaway: Shake-up in the Va. Governor's Race
     
-*   _Betsy McCaughey_: Congress Poised to Bailout Insurers, Fleece Taxpayers
+*   _David Kamp_: Why Biden Didn't Run--and Why He's Not Ruling Out 2020
     
-*   _Stephen Stromberg_: The Latest Terrible GOP Plan to Ruin Obamacare
+*   _David Harsanyi_: Does the Dems' Dossier Trick Count as Treason?
     
-*   _Salena Zito_: Michigan's John James Could Be the GOP's Future
+*   _Alex Finley_: The Recruitables: Why Trump's Team Was Easy Prey for Putin
     
-*   _Graham Vyse_: The Win-or-Lose Case for Challenging Dianne Feinstein
+*   _Victor Davis Hanson_: Things Look Worse &. Worse for Trump's Accusers
     
-*   _James Clad &. Francesca Silvestri_: Is It Time for a U.S.-India Alliance?
+*   _Josh Marshall_: Why Everyone Needs to Thank Dems for Dossier
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   The Takeaway: Shake-Up in the Va. Governor's Race
+*   Flake Retirement Helps Republicans in Ariz. Senate Race
+*   Trump: Clinton-Bought Fake Dossier a Disgrace, Russia Hoax Flips Around
 *   Can Non-Trump Republicans Spark a Multi-Party System?
-*   Flake Retirement Scrambles Arizona Senate Race
-*   Hume on Trump Dossier, Clinton-Russian Ties: "Tide May Be Turning"
 *   Brady: Odds "Very Good" for Tax Reform by Year's End
-*   Trump Says 401(k) Program Will Be Unscathed in Tax Plan
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Virginia Governor - Gillespie vs. NorthamHampton
-    *   Northam33
-    *   Gillespie41Gillespie +8
-*   New Jersey Governor - Guadagno vs. MurphyQuinnipiac
-    *   Murphy57
-    *   Guadagno37Murphy +20
-*   President Trump Job ApprovalFOX News
-    *   Approve38
-    *   Disapprove57Disapprove +19
+*   Florida Senate - Scott vs. NelsonMason-Dixon
+    *   Scott44
+    *   Nelson44Tie
+*   New Jersey Governor - Guadagno vs. MurphyStockton
+    *   Murphy51
+    *   Guadagno37Murphy +14
 *   President Trump Job ApprovalGallup
-    *   Approve36
-    *   Disapprove59Disapprove +23
+    *   Approve37
+    *   Disapprove58Disapprove +21
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve43
+    *   Disapprove55Disapprove +12
 
 More Latest Polls In The News
 
+*   Huckabee Sanders: Everything Clinton and DNC Were Falsely Accusing Trump Of Doing, They Were Doing
+*   Sen. Coons: If Only "Blindly Loyal" Republicans Remain In Senate, America Can't Remain Beacon Of Freedom For World
 *   Nunes On 'Trump Dossier': Did The Democrats Use The Intelligence Services for Their Political Gain?
+*   Full Lou Dobbs Interview: Trump Asks What Could Be More Fake Than CBS, NBC, ABC and CNN?
 *   Chuck Todd: "Steve Bannon Won An Important Battle In This Fight For The Soul of The Republican Party"
-*   Flake: "I Could Not Win Republican Primary, That's The Bottom Line". I'd Have To Cozy Up To Trump
-*   Tucker Carlson Source: Podesta Brothers and Manafort, Not Trump, "Central Figures" In Mueller Probe
-*   Hume On 'Trump Dossier,' Clinton Russian Connections: "Tide May Be Turning" On Trump Probe
 
 *   Politics
 *   Policy
