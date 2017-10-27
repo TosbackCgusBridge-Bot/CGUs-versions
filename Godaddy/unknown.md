@@ -1,4 +1,4 @@
-**Last Revised: June 28, 2017**
+**Last Revised: October 25, 2017**
 
 Please read this Domain Name Proxy Agreement ("Agreement") carefully. By using the Services and/or website of Domains By Proxy, LLC, a Delaware limited liability company ("DBP"), You (as defined below) agree to all the terms and conditions set forth both herein and in the DBP privacy policy, which is incorporated by reference and can be found by clicking here.  You acknowledge that DBP may amend this Agreement at any time upon posting the amended terms on its website, and that any new, different or additional features changing the services provided by DBP will automatically be subject to this Agreement. If You do not agree to be bound by, or if You object to, the terms and conditions of this Agreement and any amendments hereto, do not use or access DBP's services. Continued use of DBP's services and its website after any such changes to this Agreement have been posted, constitutes Your acceptance of those changes.
 
@@ -12,9 +12,9 @@ You agree You will be bound by representations made by third parties acting on Y
 
 1\. description of DBP's private registration services
 
-When You subscribe to DBP's private registration service through a DBP-affiliated Registrar, each available domain name registration You designate will thereafter be registered in the name of DBP, as Registrant. In exchange for DBP becoming the Registrant of each domain name registration on Your behalf, DBP shall keep Your name, postal address, email address, phone and fax numbers confidential, subject to Section 4 of this Agreement. When DBP becomes the Registrant of Your domain name registration, the following information (and not Your personal information) will be made publicly available in the "Whois" directory as determined by ICANN policy:
+When You subscribe to DBP's private registration service through a DBP-affiliated Registrar, DBP will display its contact information in the publicly available "Whois" directory in place of Your information. DBP shall keep Your name, postal address, email address, phone and fax numbers confidential, subject to Section 4 of this Agreement. The following information (and not Your personal information) will be made publicly available in the "Whois" directory as determined by ICANN policy:
 
-1.  DBP's name as the Registrant of the domain name and a proxy email address, phone number and postal address for the Registrant's contact information;
+1.  DBP's name as the proxy Registrant of the domain name and a proxy email address, phone number and postal address for the proxy Registrant's contact information;
 2.  A proxy postal address and phone number for the domain name registration's technical contact;
 3.  A proxy email address, postal address and phone number for the domain name registration's administrative contact;
 4.  A proxy email address, postal address and phone number for the domain's name registration's billing contact;
@@ -36,7 +36,7 @@ Although DBP will show in the "Whois" directory as the Registrant of each domai
 
 **Personal Information and Your Notification Obligations** 
 
-You agree that for each domain name for which DBP becomes the Registrant on Your behalf, You will provide accurate and current information as to:
+You agree that for each domain name for which you use DBP services, You will provide accurate and current information as to:
 
 1.  Your name, the email address, postal address, phone and fax numbers for the domain name registration's Registrant contact;
 2.  The email address, postal address, phone and fax numbers for the domain name registration's technical contact;
@@ -55,7 +55,7 @@ It is Your responsibility to keep Your personal information current and accurate
 
 **Renewals**
 
-You agree DBP, as Registrant, will arrange for Your Registrar to charge the credit card You have on file with the Registrar, at the Registrar's then current rates.
+You agree DBP will arrange for Your Registrar to charge the credit card You have on file with the Registrar, at the Registrar's then current rates.
 
 If for any reason DBP and/or the Registrar for Your domain name is unable to charge Your credit card for the full amount of the service provided, or if DBP and/or the Registrar is charged back for any fee it previously charged to the credit card You provided, You agree that DBP and/or the Registrar may, without notice to You, pursue all available remedies in order to obtain payment, including but not limited to immediate cancellation of all services DBP provides to You.
 
