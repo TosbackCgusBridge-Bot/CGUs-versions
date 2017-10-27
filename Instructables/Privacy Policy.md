@@ -133,7 +133,6 @@ Legal Notices &. Trademarks
 *   Legal Disclosures
 *   Autodesk Quote and Order Direct Order Terms and Conditions
 *   Move to Subscription Terms and Conditions
-*   Autodesk Terms and Conditions Governing the Provision of Consulting Services
 *   Autodesk Participant Guidelines
 
   Privacy Statement
