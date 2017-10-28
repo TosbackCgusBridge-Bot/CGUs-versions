@@ -49,11 +49,12 @@ Borrow for your business with affordable business loans. Learn more
 
 Get live support and seller protection
 
-Get Started Make a small loan. Make a big impact.
+Get Started Need your money fast?  
+PayPal Instant Transfer
 
-For over 10 years, PayPal has supported Kiva's efforts to empower entrepreneurs around the world. Join us by making a loan to a Kiva entrepreneur by Oct. 25th and receive a $25 Kiva credit to lend again. Terms apply.
+Move money to your bank account using an eligible debit card linked to your PayPal account ($0.25 per transfer). Transfers typically occur within 30 minutes.
 
-Learn more
+Transfer funds now
 
 Join 200+ million people who use PayPal to
 
@@ -116,4 +117,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=1214cf889151d&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=a7a65c63b624445595b99b8dc73cd2cc&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=7b0be4298cf1a&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=c20c8e5f055b4559a3221e24199c40d6&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
