@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Sen. Chris Coons_: Why Jeff Flake's Exit Should Scare Democrats
+*   _Jennifer Kerns_: Time for Mueller to Dismiss the Trump Investigation
     
-*   _Conrad Black_: Russia 'Collusion' Story Blows Up Like the Hindenburg
+*   _Jonathan Chait_: GOP Develops Theory of Alt-Collusion to Defend Trump
     
-*   _Jack Shafer_: Baby Donald Trump and the Disputed Dossier
+*   _David Catanese_: Razing Arizona: McSally Eyeing GOP Senate Battle
     
-*   _Ron Meyer_: Are Democrats Trying to Lose Virginia's Governor Race?
+*   _John Davidson_: VA Race Has Exposed Dems' Big Immigration Problem
     
-*   _Charles Blow_: The Menace of Trumpism
+*   _Rep. Dwight Evans_: Republicans' Failure on Health Care Is Unacceptable
     
-*   _Peter Ferrara_: How Trump Got Economy Booming in Less Than a Year
+*   _Lanhee Chen_: How Republicans Can Make a Deal on Health Care
     
-*   _Ari Fleischer_: Taxes and the Rich--Yes, They Pay Their Fair Share
+*   _Jay Ambrose_: Trump Helping Nation Recover From Obama
     
-*   _Mark Perry_: Are Trump's Generals in Over Their Heads?
+*   _Jules Witcover_: The Transformation of Gen. John Kelly
     
-*   _Ned Ryun_: Trump's Malaysia Gambit: Call It Another Win
+*   _Noah Rothman_: John Kelly's Clarifying Patriotism
     
-*   _Gideon Rachman_: An Assertive China Challenges the West
+*   _Leonid Bershidsky_: Catalonia Isn't Ready for This Fight
     
-*   _John O'Sullivan_: Reckoning With Communism
+*   _James Bovard_: Facebook Censored Me, and I'm Far From Alone
     
-*   _John Kass_: Fusion GPS Revelation Rocks the Dem Media Complex
+*   _Eugene Robinson_: The Democrats Are in Crisis Too
     
-*   _Abigail Tracy_: Yes, Dems Funded the Dossier, But Trump Isn't Off the Hook
+*   _Michael Barone_: Both Parties Trying Even Harder to Defeat Themselves
     
-*   _Rep. Devin Nunes_: Did Dems Use the Intel Services for Their Political Gain?
+*   _David Corn_: The Trump-Russia Scandal Is a Huge Media Fail
     
-*   _Roger Cohen_: The Bone-Spur Bozo at the White House
+*   _Paul Sperry_: How Team Hillary Played the Press for Fools on Russia
     
-*   _David Drucker_: Trump Wins the Civil War Where It Counts--With Voters
+*   _Sen. Chuck Schumer_: Trump's Tax Reform Nothing Like Reagan's
     
-*   _Doyle McManus_: If the Trump Tax Plan Passes, Don't Count on a Raise
+*   _Steve Forbes_: Time for Trump to Kill Regulatory Swamp Monsters
     
-*   _Steven Rattner_: Why 'Medicare for All' Will Sink the Democrats
+*   _Roger Altman_: Trump Was an Election Surprise. Expect More
     
-*   _Tom Bevan_: The Takeaway: Shake-up in the Va. Governor's Race
+*   _Piers Morgan_: Snowflakes Are Screaming, But Trump's Likely to Win Again
     
-*   _David Kamp_: Why Biden Didn't Run--and Why He's Not Ruling Out 2020
+*   _Caitlin Huey-Burns_: Challenging Trump: Republicans' 2020 Question
     
-*   _David Harsanyi_: Does the Dems' Dossier Trick Count as Treason?
+*   _Patrick Buchanan_: It's Trump's Party Now
     
-*   _Alex Finley_: The Recruitables: Why Trump's Team Was Easy Prey for Putin
+*   _Vann Newkirk_: What's Still Missing From Trump's Opioid Crisis Plan
     
-*   _Victor Davis Hanson_: Things Look Worse &. Worse for Trump's Accusers
+*   _Matthew Walther_: Fear and Loathing on Hillary Clinton's Grievance Tour
     
-*   _Josh Marshall_: Why Everyone Needs to Thank Dems for Dossier
+*   _Larry Elliott_: As Trump Turns His Back on World, Stage Is Set for Xi
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   The Takeaway: Shake-Up in the Va. Governor's Race
+*   Trump Calls for Liberation From "Scourge" of Drug Addiction
+*   Challenging Trump: Republicans' 2020 Question
+*   Nunes: Did Democrats Use the Intel Services for Their Political Gain?
 *   Flake Retirement Helps Republicans in Ariz. Senate Race
-*   Trump: Clinton-Bought Fake Dossier a Disgrace, Russia Hoax Flips Around
-*   Can Non-Trump Republicans Spark a Multi-Party System?
-*   Brady: Odds "Very Good" for Tax Reform by Year's End
+*   The Takeaway: Shake-Up in the Va. Governor's Race
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Florida Senate - Scott vs. NelsonMason-Dixon
-    *   Scott44
-    *   Nelson44Tie
-*   New Jersey Governor - Guadagno vs. MurphyStockton
-    *   Murphy51
-    *   Guadagno37Murphy +14
-*   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove58Disapprove +21
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove55Disapprove +12
+*   Virginia Governor - Gillespie vs. NorthamThe Polling Company (R)
+    *   Northam43
+    *   Gillespie45Gillespie +2
+*   Virginia Governor - Gillespie vs. NorthamChristopher Newport Univ.\*
+    *   Northam50
+    *   Gillespie43Northam +7
+*   Nevada Senate - Republican PrimaryJMC Analytics
+    *   Tarkanian44
+    *   Heller38Tarkanian +6
+*   President Trump Job ApprovalHarvard-Harris
+    *   Approve42
+    *   Disapprove58Disapprove +16
 
 More Latest Polls In The News
 
 *   Huckabee Sanders: Everything Clinton and DNC Were Falsely Accusing Trump Of Doing, They Were Doing
+*   Chris Wallace: Dems Okay With Foreign Election Interference As Long As It Hurt Trump
 *   Sen. Coons: If Only "Blindly Loyal" Republicans Remain In Senate, America Can't Remain Beacon Of Freedom For World
 *   Nunes On 'Trump Dossier': Did The Democrats Use The Intelligence Services for Their Political Gain?
 *   Full Lou Dobbs Interview: Trump Asks What Could Be More Fake Than CBS, NBC, ABC and CNN?
-*   Chuck Todd: "Steve Bannon Won An Important Battle In This Fight For The Soul of The Republican Party"
 
 *   Politics
 *   Policy
