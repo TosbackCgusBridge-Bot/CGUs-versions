@@ -30,13 +30,13 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
+*   Jean Guide
 *   Trending
-*   Uniform
+*   It's Cold Outside
 *   Basic Essentials
 *   Lounge + Sleep
+*   Uniform
 *   Plus Size
-*   It's Cold Outside
-*   Jean Guide
 
 Close submenu ( Tops ) Tops
 
@@ -286,13 +286,13 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
+        *   Jean Guide
         *   Trending
-        *   Uniform
+        *   It's Cold Outside
         *   Basic Essentials
         *   Lounge + Sleep
+        *   Uniform
         *   Plus Size
-        *   It's Cold Outside
-        *   Jean Guide
     *   Clearance
     
     *   Tops
@@ -541,6 +541,6 @@ About Us
 Stay Connected
 
 *   Live ChatCall Us
-*   Give $15, Get $15
+*   Refer-A-Friend
 
 © 2017 Aeropostale. All Rights Reserved.
