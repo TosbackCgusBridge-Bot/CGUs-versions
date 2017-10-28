@@ -147,7 +147,7 @@ View When In Doubt, Wear Red on Instagram
 
 There's never been a better time to be an undead farm animal! Goat Simulator: GoatZ now off at PS Store.
 
-3 days ago
+5 days ago
 
 View Tweet
 
@@ -163,19 +163,15 @@ Close
 
 Michael Jackson’s “Scream”
 
-<img class="bg-img" class="url(/en\_us/media/content/Michael-Jackson-Scream-600x600\_4FcvShV.jpg);" alt="Michael-Jackson-Scream-Album">. Dressing Up as Spider-Man This Halloween?
+<img class="bg-img" class="url(/en\_us/media/content/Michael-Jackson-Scream-600x600\_4FcvShV.jpg);" alt="Michael-Jackson-Scream-Album">. Close
 
-Get Ready With "Spider-Man: Homecoming"
+*   Share Add Some Fright to Your Gaming on Facebook
+*   Share Add Some Fright to Your Gaming on Twitter
+*   Copy URL to share Add Some Fright to Your Gaming
 
-Close
+This Halloween
 
-*   Share Dressing Up as Spider-Man This Halloween? on Facebook
-*   Share Dressing Up as Spider-Man This Halloween? on Twitter
-*   Copy URL to share Dressing Up as Spider-Man This Halloween?
-
-Get Ready With "Spider-Man: Homecoming"
-
-<img class="bg-img" class="url(/en\_us/media/content/Spider-Man-Halloween-600x600\_0BNIsjw.jpg);" alt="Spider-Man-Homecoming">. Get the Inside Scoop on How “The Good Doctor” Was Created
+<img class="bg-img" class="url(/en\_us/media/content/Sony\_Halloween\_BatController\_b9Qycra.png);" alt="PlayStation-Halloween-Batman-Controller">. Get the Inside Scoop on How “The Good Doctor” Was Created
 
 Then Watch It Mondays 10/9c on ABC
 
@@ -223,7 +219,7 @@ View Ride the Wave on Instagram
 
 We asked the cast &. crew of #OnlyTheBrave about working with a totally uncontrollable character like fire.
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -311,7 +307,7 @@ View Platinum Headphones on Instagram
 
 We're one week away! PlayStation Live From Paris Games Week begins at 8AM Pacific on October 30.
 
-2 days ago
+3 days ago
 
 View Tweet
 
