@@ -233,21 +233,21 @@ Print | Citation &. Date | Reprint
 
 More to Explore   You might also like
 
-*   See the Stunning New Shape of the Mercedes GLC Coupe The Truth About Cars
-*   Spend $1000 Using This Card And Receive a $200 Intro Bonus NextAdvisor
-*   Is Walmart's Free Grocery Pickup Service Available in Your Area? Walmart
+*   Self-driving cars that predict accidents? Bosch expert Moritz Dechant is currently working on it. Bosch
+*   Colorado Brings $0 Down Solar to Denver Area Energy Bill Cruncher
+*   Car buying on a budget? Check this first. Cars.com
 
-*   10 Products That Are Built to Last AARP
+*   What is Psoriatic Arthritis? Yahoo! Search
 *   Expiring Colorado Program Pays Off Mortgage Fetcharate
-*   Colorado: Best &. Worst Refinance Mortgage Companies of 2017 Comparisons.org
+*   Best &. Worst Refinance Mortgage Companies in Colorado Comparisons.org
 
 Sponsored by Today's Headlines
 
-Fantastic, Freaky and Futuristic: Our Best Stories You Might Have Missed This Week
+Sweet, Super and Strange: Our Best Stories You Might Have Missed This Week
 
-Hotel Security Experts Warn About Learning the Wrong Lessons in Wake of Las Vegas Shooting
+Majority Want Legal Marijuana To Be the Norm
 
-Antarctic Farm Could One Day Journey to Mars
+Why Treasure Hunters Are Still Searching for the Nazi Gold Train
 
 About Us
 
@@ -263,9 +263,9 @@ About Us
 
 More to Explore   DON'T MISS
 
-*   How the Solowheel Works
+*   How Electric Motors Work
 
-*   How Beats Audio Works
+*   Can a TV actor live off royalties forever?
 
 *   10 Causes of Weight Gain That Doctors Have Changed Their Minds About
 
@@ -305,4 +305,4 @@ Get the best of HowStuffWorks by email. Keep up to date on:
 
 Sign Up Now!
 
-Testing this long verbose error message to check the behaviour <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. <img src="https://soflopxl.com/px?partner\_id=31210">AddThis Sharing SidebarShare to FacebookFacebook, Number of sharesShare to TwitterTwitterShare to Google+Google+Share to PinterestPinterest, Number of sharesShare to EmailEmailMore AddThis Share optionsAddthis, Number of sharesHideShowCloseAddThis
+Testing this long verbose error message to check the behaviour <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. <img src="https://soflopxl.com/px?partner\_id=31210">
