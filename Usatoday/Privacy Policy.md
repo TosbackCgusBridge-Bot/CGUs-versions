@@ -5,9 +5,9 @@ WE MADE SOME CHANGES IN THE PRIVACY NOTICE WHICH MAY INTEREST YOU. **Please take
   
   
   
-**What’s new in the updated Privacy Notice?**
+**Whatâ€™s new in the updated Privacy Notice?**
 
-Most importantly, we inform you that we may use the information that we collect while you are using our Website or Apps (collectively, “Services”), and we may authorize our affiliates and service providers to use such information, to mail or email promotional offers directly to you, even if you have not specifically informed us that you would like to receive such promotional offers. However, we do provide information on how to contact us to ask us to stop the collection, storage or use of your information. 
+Most importantly, we inform you that we may use the information that we collect while you are using our Website or Apps (collectively, â€œServicesâ€), and we may authorize our affiliates and service providers to use such information, to mail or email promotional offers directly to you, even if you have not specifically informed us that you would like to receive such promotional offers. However, we do provide information on how to contact us to ask us to stop the collection, storage or use of your information. 
 
 Other important changes are listed below.
 
@@ -36,7 +36,7 @@ Last Updated: February 3, 2016
 We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
 
   
-This Privacy Notice discloses the privacy practices of our Websites, whether accessed through a computer, tablet, smartphone or other device (individually or collectively, “Device” or “Devices”), and our Apps. Specifically, it outlines the types of information that we gather about you while you are using our Websites or Apps (collectively, “Services”) or other websites, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail). In addition, this Privacy Notice does not apply to our non-digital products and services. Please read this Privacy Notice carefully. By using the Services, you agree that your use of our Services, and any dispute over our online privacy practices, is governed by this Privacy Notice and our Terms of Service. Because the web and apps are evolving media, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on our Websites or Apps. If we make a significant change in the way we collect, use or share your information, the change will be posted on this page thirty (30) days before the change takes effect. We will also update the "Last Updated" date to reflect the date of the changes. By continuing to use the Services after we post any such changes, you accept the Privacy Notice as modified. Your access of the Services for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Privacy Notice unless you make any further use or access of our Services.  
+This Privacy Notice discloses the privacy practices of our Websites, whether accessed through a computer, tablet, smartphone or other device (individually or collectively, â€œDeviceâ€ or â€œDevicesâ€), and our Apps. Specifically, it outlines the types of information that we gather about you while you are using our Websites or Apps (collectively, â€œServicesâ€) or other websites, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail). In addition, this Privacy Notice does not apply to our non-digital products and services. Please read this Privacy Notice carefully. By using the Services, you agree that your use of our Services, and any dispute over our online privacy practices, is governed by this Privacy Notice and our Terms of Service. Because the web and apps are evolving media, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on our Websites or Apps. If we make a significant change in the way we collect, use or share your information, the change will be posted on this page thirty (30) days before the change takes effect. We will also update the "Last Updated" date to reflect the date of the changes. By continuing to use the Services after we post any such changes, you accept the Privacy Notice as modified. Your access of the Services for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Privacy Notice unless you make any further use or access of our Services.  
   
   
 **Your California Privacy Rights**
@@ -89,9 +89,9 @@ We also collect and store information that is generated automatically as you use
     
 *   the source of the download of the App (for example, through a particular advertisement for the App);   
     
-*   your Device’s connection to the Internet;   
+*   your Deviceâ€™s connection to the Internet;   
     
-*   your browser or operating system. •which pages you visit through our Services and how often;   
+*   your browser or operating system. â€¢which pages you visit through our Services and how often;   
     
 *   which features of our Services you interact with and how often;   
     
@@ -124,7 +124,7 @@ In addition, our service providers and third-party advertising service providers
 
 The collection of information by our service providers and third-party advertising service providers is governed by their relevant privacy notices, for which we have no responsibility or liability, and are not covered by our Privacy Notice. If you have any questions regarding the privacy notice of one of our service providers, you should contact the service provider directly for more information. 
 
-If you would like more information about the information collection practices of a particular third-party advertising service provider, or if you would like more information on how to opt out of a third-party advertising service provider’s information collection practices, go to www.aboutads.info, or for apps, at www.aboutads.info/appchoices. 
+If you would like more information about the information collection practices of a particular third-party advertising service provider, or if you would like more information on how to opt out of a third-party advertising service providerâ€™s information collection practices, go to www.aboutads.info, or for apps, at www.aboutads.info/appchoices. 
 
 Additionally, some of our third-party advertising service providers are members of the Network Advertising Initiative ("NAI"). You can obtain more information about these third-party advertising service providers' information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI's website at http://www.networkadvertising.org/managing/opt\_out.asp.
 
@@ -141,10 +141,10 @@ We may use the information we collect from you while you are using the Services 
     
 *   to customize features and advertising that appear through the Services.  
     
-*   to deliver our Services’ content to you;
+*   to deliver our Servicesâ€™ content to you;
 *   to contact you for customer service purposes;
 *   to send you administrative notices or notices regarding important changes or additions to our Services;
-*   to measure Services’ traffic;
+*   to measure Servicesâ€™ traffic;
 *   to measure and analyze user interests, behavior, trends and traffic patterns;
 *   to protect the rights of the Services and others or to comply with applicable law. and
 *   to improve the features offered via the Services.
@@ -164,15 +164,15 @@ _Sharing for Additional Content, Products and Services_. We also make some conte
 
 If you do not wish certain information to be shared for these purposes, send a letter to the Online Privacy Coordinator, whose contact information is listed at the end of this Privacy Notice. 
 
-_Sharing Information for Advertising and Other Promotional Purposes_. We may use service providers and third-party advertising service providers to target and serve some of the advertisements you see through the Services. We may share your information, or technical or aggregate information, with service providers, third-party advertising service providers, our affiliates, third parties and advertisers for their use in displaying ads through our Services or for other promotional purposes, including displaying ads on other sites and apps. The technical or aggregate information may be based on data that includes your information and such items as type of pages viewed and categories of interest. These service providers, third-party advertising service providers, affiliates, third parties and advertisers may use their own browser or flash cookies, web beacons and similar technologies to collect technical information (such as Device unique identifier, IP address, MAC address, browser type, pages visited, and location information) that is generated automatically as a user views or interacts with an ad. These service providers, third-party advertising service providers, affiliates, third parties and advertisers may use that information, sometimes in conjunction with similar information gathered through other websites and other sources, to deliver advertisements through the Services or for other promotional purposes. They also may use that information to deliver advertisements, or for other promotional purposes, on other websites, as well as on other websites that participate in our third-party advertising service providers’ advertising networks, which are tailored to match the perceived interests of consumers. The information obtained by service providers, third-party advertising service providers, affiliates, third parties and advertisers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes. 
+_Sharing Information for Advertising and Other Promotional Purposes_. We may use service providers and third-party advertising service providers to target and serve some of the advertisements you see through the Services. We may share your information, or technical or aggregate information, with service providers, third-party advertising service providers, our affiliates, third parties and advertisers for their use in displaying ads through our Services or for other promotional purposes, including displaying ads on other sites and apps. The technical or aggregate information may be based on data that includes your information and such items as type of pages viewed and categories of interest. These service providers, third-party advertising service providers, affiliates, third parties and advertisers may use their own browser or flash cookies, web beacons and similar technologies to collect technical information (such as Device unique identifier, IP address, MAC address, browser type, pages visited, and location information) that is generated automatically as a user views or interacts with an ad. These service providers, third-party advertising service providers, affiliates, third parties and advertisers may use that information, sometimes in conjunction with similar information gathered through other websites and other sources, to deliver advertisements through the Services or for other promotional purposes. They also may use that information to deliver advertisements, or for other promotional purposes, on other websites, as well as on other websites that participate in our third-party advertising service providersâ€™ advertising networks, which are tailored to match the perceived interests of consumers. The information obtained by service providers, third-party advertising service providers, affiliates, third parties and advertisers also may be used to help measure and research an advertisementâ€™s effectiveness, or for other purposes. 
 
-If you log into the Services with a social media service or you connect a social media account with the Services, we may share your information with that social media service. The social media services’ use of the shared information will be governed by the social media services’ privacy policy and your social media account settings, for which we have no responsibility or liability. If you do not want your information shared in this way, do not log into the Services through a social media service and do not connect your social media account with the Services. 
+If you log into the Services with a social media service or you connect a social media account with the Services, we may share your information with that social media service. The social media servicesâ€™ use of the shared information will be governed by the social media servicesâ€™ privacy policy and your social media account settings, for which we have no responsibility or liability. If you do not want your information shared in this way, do not log into the Services through a social media service and do not connect your social media account with the Services. 
 
 If you do not wish certain information to be shared for these purposes, send a letter to the Online Privacy Coordinator, whose contact information is listed at the end of this Privacy Notice. 
 
 _Sharing for Other Purposes_. Please be aware that we may occasionally release information about you if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process. (b) to enforce our  Terms of Service or (c) to protect the rights, property, or personal safety of our Services, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
 
-Please also note that as our business grows, we may buy or sell various assets. If we sell some or all of our assets, or our Services are acquired by another company, information collected about our Services’ users may be among the transferred assets.  
+Please also note that as our business grows, we may buy or sell various assets. If we sell some or all of our assets, or our Services are acquired by another company, information collected about our Servicesâ€™ users may be among the transferred assets.  
   
   
 **Ad Serving and Targeting Choices**
@@ -194,7 +194,7 @@ If you are a registered user of our Services, you can make changes to your accou
   
 **Security**
 
-All information we gather on our Services is stored within databases to which only we and service providers are provided access. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Services’ servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.  
+All information we gather on our Services is stored within databases to which only we and service providers are provided access. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Servicesâ€™ servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.  
   
 **Links to Other Sites**
 
