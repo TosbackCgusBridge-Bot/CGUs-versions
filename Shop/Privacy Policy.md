@@ -1,4 +1,4 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FJM5K" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Lenovo Official US Store | Laptops, Tablets, Computers, PCs Lenovo
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FJM5K" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Lenovo Official US Site | Computers, Smartphones, Data Center Lenovo
 
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
@@ -360,13 +360,61 @@ Play for your chance to win some of our hottest products!
 
 72 Hours Only
 
-Snag these deals on Essential laptops.
+Snag these deals on Essential laptops. Sale Ends October 29.
 
 Miix 720
 
 Need productivity on the go? This 2-in-1 can take you there.
 
-Star Wars Jedi Challenges: Begin Your Journey
+Star Wars Jedi Challenges: Begin Your Journey Recommended For You Best Seller ThinkPad X1 Carbon (5th gen)
+
+★★★★★ ★★★★★
+
+3.9
+
+(62)
+
+$1403.10
+
+Shop Now
+
+1931Viewing ThinkPad T470s
+
+★★★★★ ★★★★★
+
+3.5
+
+(4)
+
+$1079.10
+
+Shop Now
+
+463Viewing Lenovo Yoga 720 (13")
+
+★★★★★ ★★★★★
+
+3.9
+
+(46)
+
+$749.99
+
+Shop Now
+
+734Viewing ThinkCentre M710 Tiny Desktop
+
+★★★★★ ★★★★★
+
+0
+
+(0)
+
+$404.10
+
+Shop Now
+
+157Viewing
 
 LAPTOPS
 
