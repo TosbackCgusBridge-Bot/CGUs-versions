@@ -1,4 +1,4 @@
-Log in with your social account: Or, you can log in or sign up using Forbes.
+Social by Gigya Log in with your social account:   Social by Gigya Or, you can log in or sign up using Forbes.
 
 *   Editors' Picks
 *   Podcasts
@@ -6,7 +6,7 @@ Log in with your social account: Or, you can log in or sign up using Forbes.
 *   Lists
 *   Video
 
-Connect | Sign up | Log in The Little Black Book of Billionaire Secrets Forbes.com Privacy Statement
+Connect    | Sign up | Log in The Little Black Book of Billionaire Secrets Forbes.com Privacy Statement
 
 _Revised and posted as of: October 11, 2016_  
   
@@ -175,3 +175,5 @@ Education
 *   Privacy Statement
 *   Market Data by Morningstar
 *   AdChoices
+
+<img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1494993704116832&amp;ev=PixelInitialized">
