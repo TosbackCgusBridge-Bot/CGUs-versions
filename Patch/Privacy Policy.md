@@ -1,56 +1,64 @@
-Toggle navigation Find Your Patch Patch Thursday, May 4th, 2017 Find Your Community   See All Patches Regional Patches
+Toggle navigation Find Your Patch Everything local.
 
+*   Advertise
+*   Post on Patch
+
+Find Your Community See All Patches Regional
+
+*   Alabama
 *   Alaska
-*   Arkansas
 *   Arizona
+*   Arkansas
 *   California
 *   Colorado
 *   Connecticut
+*   Delaware
 *   District Of Columbia
 *   Florida
 *   Georgia
 *   Hawaii
-*   Iowa
 *   Idaho
 *   Illinois
 *   Indiana
+*   Iowa
 *   Kansas
 *   Kentucky
 *   Louisiana
-*   Massachusetts
-*   Maryland
 *   Maine
+*   Maryland
+*   Massachusetts
 *   Michigan
 *   Minnesota
+*   Mississippi
 *   Missouri
-*   North Carolina
+*   Montana
 *   Nebraska
+*   Nevada
 *   New Hampshire
 *   New Jersey
 *   New Mexico
-*   Nevada
 *   New York
+*   North Carolina
+*   North Dakota
 *   Ohio
 *   Oklahoma
 *   Oregon
 *   Pennsylvania
 *   Rhode Island
 *   South Carolina
+*   South Dakota
 *   Tennessee
 *   Texas
 *   US
 *   Utah
-*   Virginia
 *   Vermont
+*   Virginia
 *   Washington
+*   West Virginia
 *   Wisconsin
+*   Wyoming
 
-*   Twitter
-*   Facebook
-*   |
-*   Post
-
-Thursday, May 4th, 2017 TAP HERE TO FIND YOUR PATCH!   Patch Facebook Link Twitter Link Advertise on Patch Post on Patch Patch Privacy Policy
+Patch Privacy Policy
 
 Planck, LLC, d/b/a Patch Media ("Patch", "we" or "us") is committed to protecting your privacy. This Privacy Policy discloses our practices regarding information we collect and receive from users of the Patch.com desktop and mobile websites (the “Sites”), the Patch mobile applications (the “Apps”) and other services, such as emails, provided by Patch (collectively, the “Service”). Unless we state otherwise, any new features or functionality provided by Patch on the Sites and/or Apps are also part of the Service. By accessing or using the Service, whether through a personal computer, mobile device or any other means, or submitting any content or information for publication or distribution, you agree to be bound by this Privacy Policy. Please read this Privacy Policy carefully before registering or using the Service or submitting any content. If you do not accept this Privacy Policy, you may not use the Service or submit any content.
 
@@ -60,24 +68,24 @@ Information You Provide or We Collect
 
 Patch receives information you choose to provide to us directly. We also collect information passively or automatically when you use the Service.
 
-*   **Information You Provide.** In order to register or in connection with other uses of the Service, such as participation in contests, sweepstakes or promotions, subscribing to a Patch email newsletter, placing a classified or event, or to contact us with an inquiry or to report a problem, you may be asked to provide, or voluntarily provide, certain personally identifiable information, such as your name, email address, street address, telephone number or credit card number (“Personal Information”). You are not required to provide your Personal Information, but if you don’t, you may not be able to access or use parts of the Service.
+*   Information You Provide. In order to register or in connection with other uses of the Service, such as participation in contests, sweepstakes or promotions, subscribing to a Patch email newsletter, placing a classified or event, or to contact us with an inquiry or to report a problem, you may be asked to provide, or voluntarily provide, certain personally identifiable information, such as your name, email address, street address, telephone number or credit card number (“Personal Information”). You are not required to provide your Personal Information, but if you don’t, you may not be able to access or use parts of the Service.
     
     If you submit an email address or other Personal Information through an advertisement on the Service, Patch will share that information with the advertiser so that they may contact you directly. By providing your email address or other Personal Information in or in response to an advertisement on the Service, you may receive promotional emails or other communication from the advertiser. Patch does not control such communication, and information you provide to any third party is not subject to this Privacy Policy.
     
-*   **Information We Collect.** Patch, its third party service providers, advertisers, advertising networks and platforms, agencies and other partners (“Partners”), may collect or receive information about you or your computer or other device used to access the Service. This information includes, without limitation, your IP address, browser type, operating system, Internet service provider, mobile network, type of mobile device, device identifiers and settings, browser settings, pages you have visited on the Service, location information, and your interaction with advertising and other data when you use the Service. Please see Cookies, Web Beacons and Similar Technologies for more information about how this information is collected and used.
-*   **Social Media Services.** If you choose to connect to or access the Service with a social networking service, such as Facebook, Google+ or Twitter, we may share information about you with that service and they may share information with us, including Personal Information. You authorize us to collect, store and use that information for the purposes discussed in this Privacy Policy. Please refer to the privacy policies and Terms of Use for these third party services for information regarding how they use, disclose and otherwise handle your information.
-*   **Location Information.** If you access or use the Service on a mobile device or through a mobile application, you may be asked to allow us to use services on your device, such as Wi-Fi, GPS or Bluetooth, to determine your location. You may choose not to provide location information by adjusting the settings on your device or the settings in the applicable App.
+*   Information We Collect. Patch, its third party service providers, advertisers, advertising networks and platforms, agencies and other partners (“Partners”), may collect or receive information about you or your computer or other device used to access the Service. This information includes, without limitation, your IP address, browser type, operating system, Internet service provider, mobile network, type of mobile device, device identifiers and settings, browser settings, pages you have visited on the Service, location information, and your interaction with advertising and other data when you use the Service. Please see Cookies, Web Beacons and Similar Technologies for more information about how this information is collected and used.
+*   Social Media Services. If you choose to connect to or access the Service with a social networking service, such as Facebook, Google+ or Twitter, we may share information about you with that service and they may share information with us, including Personal Information. You authorize us to collect, store and use that information for the purposes discussed in this Privacy Policy. Please refer to the privacy policies and Terms of Use for these third party services for information regarding how they use, disclose and otherwise handle your information.
+*   Location Information. If you access or use the Service on a mobile device or through a mobile application, you may be asked to allow us to use services on your device, such as Wi-Fi, GPS or Bluetooth, to determine your location. You may choose not to provide location information by adjusting the settings on your device or the settings in the applicable App.
 
 How We Use Your Information
 
 Patch and its Partners may use your information, including Personal Information, to:
 
-*   Provide the Service to you, including providing technical and other support for the Service;
-*   Communicate with you regarding the Service and respond to your inquiries and requests, such as subscriptions to Patch email newsletters;
+*   Provide the Service to you, including providing technical and other support for the Service.
+*   Communicate with you regarding the Service and respond to your inquiries and requests, such as subscriptions to Patch email newsletters.
 *   Administer contests and sweepstakes, and notify you if you have won;
-*   Enforce this Privacy Policy and the Patch Terms of Use, address fraud and other illegal activities, including claims of copyright infringement and protect your safety and the safety of other users of the Service;
+*   Enforce this Privacy Policy and the Patch Terms of Use, address fraud and other illegal activities, including claims of copyright infringement and protect your safety and the safety of other users of the Service.
 *   For the purpose(s) for which you provide the information;
-*   Deliver advertising and content that is customized to your individual behavior or demographic, based on your use of the Service and other online or mobile websites, apps and services;
+*   Deliver advertising and content that is customized to your individual behavior or demographic, based on your use of the Service and other online or mobile websites, apps and services.
 *   Analyze your use of the Service and the performance of and your interactions with advertising and content provided on the Service. and
 *   As you may otherwise agree or consent.
 
@@ -102,7 +110,7 @@ If you participate in a contest or sweepstakes, or another part of the Service s
 
 If you register with Patch and create a profile, the information you provide in your profile and the content you submit, such as posts, photographs and videos, and comments, and classifieds and events you place, will be publicly displayed and published on the Service. Information and content you submit (including classifieds and events) is subject to our Terms of Use.
 
-Cookies, Web Beacons, and Similar Technologies
+  Cookies, Web Beacons, and Similar Technologies
 
 “Cookies” are pieces of information that may be placed on your computer’s browser or your device by a website or service to store your preferences, for the purpose of facilitating and enhancing your communication and interaction with that website or service or with other websites or services. Many websites, including Patch, may also use Flash cookies, or locally shared objects (“LSOs”), that operate similarly to browser cookies. Patch, or its Partners, may also use “web beacons,” clear GIFs or similar technologies, pieces of information placed on a service or email to track and collect information about user behavior, for example by counting the number of visitors to a web page, delivering a cookie to a user’s browser or tracking open rates, clicks and forwards.
 
@@ -148,7 +156,7 @@ Any communication or material you transmit to us, by email or posting on the Ser
 
 If you prefer not to receive marketing emails from the Service, please follow the “unsubscribe” information included in any marketing email from the Service, or let us know as provided in Updating and Correcting Your Information. If you have signed up to receive text messages and no longer wish to receive such messages, please follow the instructions to stop the delivery of such messages, which may include replying “STOP” to the text message.
 
-Updating and Correcting Your Information
+  Updating and Correcting Your Information
 
 If you are a registered user of the Service, you can unsubscribe or opt-out of any service or update your information by editing your user profile. You may also send unsubscribe or opt-out requests to us, at support@patch.com and we will process your request within a reasonable time after receipt. We are not responsible for removing your personal information from the lists of any third party, such as a Partner, who has previously been provided your information in accordance with this Privacy Policy.
 
@@ -183,16 +191,20 @@ Corporate Info
 
 Partnerships
 
-*   Advertise
+*   Advertise on Patch
 
 Support
 
 *   FAQs
-*   Contact Us
-*   All Patches
+*   Contact Patch
+*   View All Patches
 
-Copyright © 2017 Patch Media. All Rights Reserved.
+*   Patch Network
+*   Terms of Use
+*   Privacy Policy
 
-*   **Patch Network**
-*   Terms of Use
-*   Privacy Policy
+© 2017 Patch Media. All Rights Reserved.
+
+Swipe for more from Patch »
+
+<img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qKjWj1a0Sn00GK" style="display:none" height="1" width="1" alt="" />.
