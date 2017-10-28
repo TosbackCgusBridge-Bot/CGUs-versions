@@ -441,7 +441,7 @@ WebMD Policy Last updated on December 30, 2016 © 2016 WebMD, LLC. All rights re
 
 Some of these might surprise you.
 
-This kitchen essential will have you cooking as perfectly as a professional chef Want to prepare food perfectly, every time? Try Joule: the smallest, smartest, and sexiest sous vide tool ever. Ad By **Joule: Sous Vide** AdChoices Depressed, Guilty Feelings After Eating?
+Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
