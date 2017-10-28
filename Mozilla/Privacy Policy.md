@@ -169,6 +169,7 @@ Back to Mozilla Privacy Policy Mozilla Mozilla
 *   Contact Us
 *   Donate
 *   Contribute to this site
+*   Source code for this page
 *   *   Twitter (@mozilla)
     *   Facebook (Mozilla)
     *   Instagram (@mozillagram)
