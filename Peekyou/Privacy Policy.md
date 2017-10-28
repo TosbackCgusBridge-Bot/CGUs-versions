@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 7%  2% 
+What is PeekScore? Public Records &. Background Checks 23%  1% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 7%  2% 
     
 *   Show Less ...
 
-7%  7%  Arrest Records &. Driving Infractions
+23%  23%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 6%  Twitter 2% 
+Facebook 23%  Twitter 1% 
 
 *   OAIC - OAICgov
     
@@ -199,7 +199,7 @@ Facebook 6%  Twitter 2% 
     
 *   Show Less ...
 
-Pinterest 6%  Wikipedia 2% 
+Pinterest 23%  Wikipedia 1% 
 
 *   Medana
     
@@ -218,7 +218,7 @@ Pinterest 6%  Wikipedia 2% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Instagram 6%  Google+ 2% 
+Instagram 23%  Google+ 1% 
 
 *   Free Privacy Policy - Google+
     
@@ -237,7 +237,53 @@ Instagram 6%  Google+ 2% 
     ©2017 Google • Privacy Policy • Terms of Service • Maps Terms. Region. Search. Sign in. About... Sign in. Profile cover photo. Profile photo. Verizon fios.
     
 
-Linkedin 6%  Foursquare 6%  Music 2% 
+Linkedin 1% 
+
+*   Privacy Policy | LinkedIn
+    
+    Main content starts below. Sign up. Help Center. About. Press. Blog. Developers. Careers. Advertising. Talent Solutions
+    
+*   VOLIA | LinkedIn
+    
+    Learn about working at VOLIA. Join LinkedIn today for free. See who you know at VOLIA, leverage your professional network, and get hired.
+    
+*   Cookie Policy | LinkedIn
+    
+    Main content starts below. Sign up. Help Center. About. Press. Blog. Developers. Careers. Advertising. Talent Solutions
+    
+*   Leif Larsen | Professional Profile
+    
+    View Leif Larsen’s professional profile on LinkedIn. LinkedIn is the world's largest business network, helping professionals like Leif Larsen discover inside ...
+    
+*   Show More ...
+
+*   OccuVAX | LinkedIn
+    
+    Learn about working at OccuVAX. Join LinkedIn today for free. See who you know at OccuVAX, leverage your professional network, and get hired.
+    
+*   LinkedIn - Official Site
+    
+    500 million+ members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
+    
+*   Privacy policy: Learning Online Marketing - LinkedIn
+    
+    Join Lorrie Thomas Ross for an in-depth discussion in this video, Privacy policy, part of Learning Online Marketing.
+    
+*   MUFG Investor Services | LinkedIn
+    
+    Learn about working at MUFG Investor Services. Join LinkedIn today for free. See who you know at MUFG Investor Services, leverage your professional network, and get ...
+    
+*   Wire Stone, part of Accenture Interactive | LinkedIn
+    
+    Learn about working at Wire Stone, part of Accenture Interactive. Join LinkedIn today for free. See who you know at Wire Stone, part of Accenture Interactive ...
+    
+*   Privacy Policy Changes: More control over your LinkedIn ...
+    
+    Jun 10, 2011 · In keeping with our commitment to put our members first, we’d like to announce upcoming updates, mostly straightforward clarifications of our our User ...
+    
+*   Show Less ...
+
+Foursquare 23%  Music 1% 
 
 *   Pandora
     
@@ -283,7 +329,7 @@ Linkedin 6%  Foursquare 6%  Music 2% 
     
 *   Show Less ...
 
-Photo Albums 2% 
+Photo Albums 1% 
 
 *   Flickr
     
@@ -294,7 +340,7 @@ Photo Albums 2% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 2% 
+Myspace 1% 
 
 *   Privacy Policy - 49086242
     
@@ -318,7 +364,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Documents 2% 
+Documents 1% 
 
 *   Generic Privacy Policy template - TermsFeed
     
@@ -364,7 +410,7 @@ Documents 2% 
     
 *   Show Less ...
 
-Web Search 2% 
+Web Search 1% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -410,7 +456,7 @@ Web Search 2% 
     
 *   Show Less ...
 
-Images 2% 
+Images 1% 
 
 20
 
