@@ -151,4 +151,6 @@ Index
 
 Copyright © Time and Date AS 1995–2017. All rights reserved.
 
+Feedback | Short URL |
+
 <a id=LRFL href="/information/feedback.html">Feedback</a>. | About Us | Advertising | Disclaimer | Privacy | Sitemap
