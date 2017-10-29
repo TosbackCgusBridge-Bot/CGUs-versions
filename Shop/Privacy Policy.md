@@ -378,43 +378,43 @@ $1403.10
 
 Shop Now
 
-1931Viewing ThinkPad T470s
+1697Viewing ThinkPad T470 Business Laptop
 
 ★★★★★ ★★★★★
 
 3.5
 
-(4)
+(15)
 
-$1079.10
+$881.10
 
 Shop Now
 
-463Viewing Lenovo Yoga 720 (13")
+765Viewing Best Seller IdeaCentre Y710 Cube
 
 ★★★★★ ★★★★★
 
-3.9
+4.4
 
-(46)
+(22)
 
 $749.99
 
 Shop Now
 
-734Viewing ThinkCentre M710 Tiny Desktop
+665Viewing Yoga 920 (14")
 
 ★★★★★ ★★★★★
 
-0
+3.3
 
-(0)
+(3)
 
-$404.10
+$1329.99
 
 Shop Now
 
-157Viewing
+662Viewing
 
 LAPTOPS
 
