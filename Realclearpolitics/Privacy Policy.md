@@ -102,6 +102,8 @@
     *   About
     *   Media Kit
 
+*   _Larry Kudlow_: Trump Needs a Stable Dollar to Maximize Growth
+    
 *   _Jennifer Kerns_: Time for Mueller to Dismiss the Trump Investigation
     
 *   _Jonathan Chait_: GOP Develops Theory of Alt-Collusion to Defend Trump
@@ -147,8 +149,6 @@
 *   _Vann Newkirk_: What's Still Missing From Trump's Opioid Crisis Plan
     
 *   _Matthew Walther_: Fear and Loathing on Hillary Clinton's Grievance Tour
-    
-*   _Larry Elliott_: As Trump Turns His Back on World, Stage Is Set for Xi
     
 
 *   Previous
@@ -269,6 +269,9 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve36
+    *   Disapprove59Disapprove +23
 *   Virginia Governor - Gillespie vs. NorthamThe Polling Company (R)
     *   Northam43
     *   Gillespie45Gillespie +2
@@ -278,17 +281,14 @@ Latest PollsAll Polls
 *   Nevada Senate - Republican PrimaryJMC Analytics
     *   Tarkanian44
     *   Heller38Tarkanian +6
-*   President Trump Job ApprovalHarvard-Harris
-    *   Approve42
-    *   Disapprove58Disapprove +16
 
 More Latest Polls In The News
 
+*   David Brooks: This Was The Week Steve Bannon Really Took Control Of The Republican Party
+*   Tom Steyer: Trump "Has Met The Boundaries For Impeachment," American People In "Great Danger"
+*   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
 *   Huckabee Sanders: Everything Clinton and DNC Were Falsely Accusing Trump Of Doing, They Were Doing
 *   Chris Wallace: Dems Okay With Foreign Election Interference As Long As It Hurt Trump
-*   Sen. Coons: If Only "Blindly Loyal" Republicans Remain In Senate, America Can't Remain Beacon Of Freedom For World
-*   Nunes On 'Trump Dossier': Did The Democrats Use The Intelligence Services for Their Political Gain?
-*   Full Lou Dobbs Interview: Trump Asks What Could Be More Fake Than CBS, NBC, ABC and CNN?
 
 *   Politics
 *   Policy
