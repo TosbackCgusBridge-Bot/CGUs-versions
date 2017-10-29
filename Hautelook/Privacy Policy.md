@@ -8,27 +8,57 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Tart Including Plus Sizes
+    *   Nic+Zoe Including Plus &. Petites
+    *   Kendall &. Kylie Handbags
+    *   Nostalgia Under $30
+    *   Rainy Day Styles: Boots &. Jackets
     *   Michele Watches
-    *   TOV
+    *   Affliction Men
+    *   Hello Kitty &. Paul Frank Sleep
+    *   Lucky Brand Jewelry
+    *   Fergie &. Fergalicious
+    *   Affliction
+    *   Plus Shop: On-Trend Styles ft. Glamorous
+    *   Joe Fresh Jewelry
+    *   Juicy Couture Sun &. More Under $25
+    *   Lukka Lux Active
+    *   Marsi Bond
+    *   Qupid Boots Under $50
+    *   Now Trending: Heels, Booties &. More
+    *   Hipchik Couture: Mala Beads &. Necklaces
+    *   Alterna Hair Care
+    *   Terre Mere Organic Vegan Beauty Up to 75% Off
+    *   BioMiracle Anti-Aging Skin Care
+    *   Borgo 28 &. More
+    *   X-Ray
+    *   Gordon Rush
+    *   Jachs &. More
+    *   Calpak Luggage
+    *   Tart Maternity
+    *   Doodle Pants
+    *   Free Shipping: Luxe Bedding Basics
+    *   Free Shipping: Hand-Painted Replicas
+    *   Free Shipping: Luxuriously Soft Towels
+    *   Tech Accessories by Native Union
     *   Terani Couture
-    *   Why Dress
-    *   Designer Shop ft. Rachel Zoe Up to 70% Off
     *   Badgley Mischka
     *   Party Perfect: Dresses Under $50
-    *   Finishing Touches: Crystal Jewelry
-    *   Glam Evening Clutches
     *   Dress to Impress: Heels &. Pumps
+    *   Glam Evening Clutches
+    *   Finishing Touches: Crystal Jewelry
     *   Sharp Suits &. More
+    
     *   Dress It Up: Men's Shoes Up to 50% Off
     *   PUMA
     *   PUMA Men
     *   Via Spiga Outerwear
-    *   Bony Levy Fine Jewelry
     *   Bed|Stu
+    *   Why Dress
     *   Dresses from Nicole Miller Studio &. More
-    *   Steve Madden Handbags
     *   Nanette Lepore Active
     *   Denim Under $50
+    *   Steve Madden Handbags
     *   On Trend: Vegan Shoes from BC Footwear
     *   Shapewear Faves ft. ControlBody
     *   Fall Favorites: Boots &. Booties Under $35
@@ -46,12 +76,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Stanley Hydration
     *   Free Shipping: Steam &. Go
     *   Free Shipping: Tailgate Essentials
-    *   Swarovski Jewelry
-    
-    *   Boys' Brands We Love Under $25
-    *   Girls' Brands We Love Under $25
-    *   Nordstrom Rack-Exclusive Shoes
-    *   Cold Weather Accessories Under $25
     *   Nordstrom Rack Men's Exclusives
     *   Timberland Men
     *   philosophy
@@ -60,144 +84,135 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Timberland Luggage
     *   Scent Shop: Fall Fragrances Starting at $10
     *   Ben Sherman
-    *   Timberland Kids &. More
-    *   Great Fall Looks for Kids ft. Petit Lem
-    *   Peppercorn Kids
-    *   Kids' Favorite Holiday Books from HarperCollins
     *   Free Shipping: Lighting for the Home
     *   Free Shipping: Fashion-Forward Rugs
     *   Free Shipping: Art for Every Room
-    *   Abound
     *   Cuisinart
     *   Sharpen Up: Wusthof Cutlery Knife Sets &. More
+    
     *   Free Shipping: Modern Metallic Serveware
     *   Free Shipping: Holiday Serveware &. More
-    *   Free Shipping: Bedding Steals Up to 80% Off
-    *   Bruno Magli
+    *   Goby
     *   StriVectin
-    *   Ittse Cosmetics: Customize Your Color
-    *   Robert Wayne
-    *   LAFCO New York
-    *   Blend Mineral Cosmetics Up to 75% Off
+    *   Burberry Watches
     *   Free Shipping: Pop Art Pillows Under $20
-    *   Style Meets Function: Accent Furniture
+    *   Fall Obsession: On-Trend Hoodies &. Sweatshirts
     *   Storage Necessities Starting at $10
     *   Free Shipping: Brazilian Cowhide Up to 75% Off
     *   Free Shipping: Super-Cozy Quilts &. More
-    *   Ninja Kitchen Electrics
-    *   Healthy Cooking Must-Haves
-    *   Workout-Ready Water Bottles
-    
-    *   Talk the Talk: Quotable Towels, Pillows &. More
-    *   Vivienne Westwood Handbags
-    *   Styles We Love: Lucca Couture &. More
-    *   Goby
-    *   Breckelle's Footwear Under $35
-    *   Burberry Watches
     *   BABOR: Precision Skin Care &. Color
-    *   Fall Obsession: On-Trend Hoodies &. Sweatshirts
-    *   French Connection Handbags
-    *   Godiva Boots Up to 70% Off
     *   Mediterranean Skin Care
     *   Day to Night: Sheer &. Blackout Curtains
     *   Free Shipping: Wonder Home Bedding &. Curtains
     *   Pile on the Pillows: Printed Cushions &. More
     *   Dr. Martens Men
-    *   Blanc Noir Active
     *   Free Shipping: Modern Bohemian Decor
-    *   Perlina Up to 60% Off
     *   Beauty &. Grooming Essentials for Her &. Him
-    *   Six Crisp Days
-    *   G by GUESS Under $50
+    *   Free Shipping: Festive Pillows, Decor &. More
     *   Sean John Outerwear &. More
-    *   Cashmere from Philosophy &. More
+    *   Bony Levy Fine Jewelry
     *   Do + Be
     *   Classic Coats ft. GUESS
     *   Max Studio Dresses &. Collection
+    *   Kids' Character Tees &. More Starting at $8
+    *   Mini Melissa
+    *   Swarovski Jewelry
+    *   TOV
+    *   Designer Shop ft. Rachel Zoe Up to 70% Off
+    *   Gucci Sun &. Optical
+    *   Boys' Brands We Love Under $25
+    *   Girls' Brands We Love Under $25
     *   Triple Five Soul
     *   Marco Vittorio
     *   All Dressed Up: Dorissa &. More
-    *   Free Press &. Shimera Lingerie and Sleep
-    *   James Perse
-    *   Gucci Sun &. Optical
-    *   Timberland Women
-    *   Laundry by Shelli Segal Including Petites
-    *   Free Shipping: Festive Pillows, Decor &. More
-    *   Kids' Character Tees &. More Starting at $8
-    *   Mini Melissa
+    *   Abound
+    *   Free Shipping: Bedding Steals Up to 80% Off
+    *   Ittse Cosmetics: Customize Your Color
+    *   Style Meets Function: Accent Furniture
 *   WomenShop Sale Events
     
+    *   Tart Including Plus Sizes
+    *   Nic+Zoe Including Plus &. Petites
+    *   Kendall &. Kylie Handbags
+    *   Nostalgia Under $30
+    *   Rainy Day Styles: Boots &. Jackets
     *   Michele Watches
-    *   TOV
+    *   Hello Kitty &. Paul Frank Sleep
+    *   Lucky Brand Jewelry
+    *   Fergie &. Fergalicious
+    *   Affliction
+    *   Plus Shop: On-Trend Styles ft. Glamorous
+    *   Joe Fresh Jewelry
+    *   Juicy Couture Sun &. More Under $25
+    *   Lukka Lux Active
+    *   Marsi Bond
+    *   Qupid Boots Under $50
+    *   Now Trending: Heels, Booties &. More
+    *   Hipchik Couture: Mala Beads &. Necklaces
+    *   Alterna Hair Care
+    *   Terre Mere Organic Vegan Beauty Up to 75% Off
+    *   BioMiracle Anti-Aging Skin Care
+    *   Calpak Luggage
+    *   Tart Maternity
     *   Terani Couture
-    *   Why Dress
-    *   Designer Shop ft. Rachel Zoe Up to 70% Off
     *   Badgley Mischka
     *   Party Perfect: Dresses Under $50
-    *   Finishing Touches: Crystal Jewelry
-    *   Glam Evening Clutches
     *   Dress to Impress: Heels &. Pumps
+    *   Glam Evening Clutches
+    *   Finishing Touches: Crystal Jewelry
     *   PUMA
     *   Via Spiga Outerwear
-    *   Bony Levy Fine Jewelry
     *   Bed|Stu
+    
+    *   Why Dress
     *   Dresses from Nicole Miller Studio &. More
-    *   Steve Madden Handbags
     *   Nanette Lepore Active
     *   Denim Under $50
+    *   Steve Madden Handbags
     *   On Trend: Vegan Shoes from BC Footwear
     *   Shapewear Faves ft. ControlBody
     *   Fall Favorites: Boots &. Booties Under $35
     *   BaBylissPRO Hair Tools
     *   Dynamic Innovation Labs Skin Care Up to 90% Off
     *   YOSH &. Ineke Fragrances
-    *   Swarovski Jewelry
-    *   Nordstrom Rack-Exclusive Shoes
-    *   Cold Weather Accessories Under $25
     *   philosophy
     *   Laura Geller New York
     *   Scent Shop: Fall Fragrances Starting at $10
-    
-    *   Abound
-    *   StriVectin
-    *   Ittse Cosmetics: Customize Your Color
-    *   LAFCO New York
-    *   Blend Mineral Cosmetics Up to 75% Off
-    *   Vivienne Westwood Handbags
-    *   Styles We Love: Lucca Couture &. More
     *   Goby
-    *   Breckelle's Footwear Under $35
+    *   StriVectin
     *   Burberry Watches
-    *   BABOR: Precision Skin Care &. Color
     *   Fall Obsession: On-Trend Hoodies &. Sweatshirts
-    *   French Connection Handbags
-    *   Godiva Boots Up to 70% Off
+    *   BABOR: Precision Skin Care &. Color
     *   Mediterranean Skin Care
-    *   Blanc Noir Active
-    *   Perlina Up to 60% Off
     *   Beauty &. Grooming Essentials for Her &. Him
-    *   Six Crisp Days
-    *   G by GUESS Under $50
-    *   Cashmere from Philosophy &. More
+    *   Bony Levy Fine Jewelry
     *   Do + Be
     *   Classic Coats ft. GUESS
     *   Max Studio Dresses &. Collection
-    *   Free Press &. Shimera Lingerie and Sleep
-    *   James Perse
+    *   Swarovski Jewelry
+    *   TOV
+    *   Designer Shop ft. Rachel Zoe Up to 70% Off
     *   Gucci Sun &. Optical
-    *   Timberland Women
-    *   Laundry by Shelli Segal Including Petites
+    *   Abound
+    *   Ittse Cosmetics: Customize Your Color
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Handbags
     *   Jewelry
+    *   Handbags
     *   Accessories
     *   Lingerie
     *   Watches
+    *   Tech Accessories
 *   MenShop Sale Events
     
+    *   Affliction Men
+    *   Borgo 28 &. More
+    *   X-Ray
+    *   Gordon Rush
+    *   Jachs &. More
+    *   Calpak Luggage
     *   Sharp Suits &. More
     *   Dress It Up: Men's Shoes Up to 50% Off
     *   PUMA Men
@@ -206,16 +221,14 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   34 Heritage Denim &. More
     *   Men's Concert Tees Under $20 ft. Bravado
     *   YOSH &. Ineke Fragrances
+    
     *   English Laundry
     *   Nordstrom Rack Men's Exclusives
     *   Timberland Men
     *   Timberland Men's Apparel
-    
     *   Timberland Luggage
     *   Scent Shop: Fall Fragrances Starting at $10
     *   Ben Sherman
-    *   Bruno Magli
-    *   Robert Wayne
     *   Burberry Watches
     *   Dr. Martens Men
     *   Beauty &. Grooming Essentials for Her &. Him
@@ -224,39 +237,37 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Marco Vittorio
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
     *   Watches
 *   KidsShop Sale Events
     
+    *   Tart Maternity
+    *   Doodle Pants
     *   PUMA Kids
     *   PUMA Kids' Activewear
-    *   Boys' Brands We Love Under $25
-    *   Girls' Brands We Love Under $25
-    *   Timberland Kids &. More
-    *   Great Fall Looks for Kids ft. Petit Lem
-    
-    *   Peppercorn Kids
-    *   Kids' Favorite Holiday Books from HarperCollins
-    *   All Dressed Up: Dorissa &. More
     *   Kids' Character Tees &. More Starting at $8
     *   Mini Melissa
+    *   Boys' Brands We Love Under $25
+    *   Girls' Brands We Love Under $25
+    *   All Dressed Up: Dorissa &. More
     
     Shop By Category
-    *   Toys
     *   Girls Sizes 2T-6X
-    *   Kids Accessories
     *   Girls Sizes 7-16
-    *   Girls' Shoes
-    *   Boys' Shoes
-    *   Boys Sizes 2T-7
-    *   Baby Girl
-    *   Boys Sizes 8-20
     *   Baby Boy
-    *   Baby Gear &. Essentials
+    *   Baby Girl
+    *   Girls' Shoes
+    *   Boys Sizes 2T-7
+    *   Boys Sizes 8-20
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: Luxe Bedding Basics
+    *   Free Shipping: Hand-Painted Replicas
+    *   Free Shipping: Luxuriously Soft Towels
+    *   Tech Accessories by Native Union
     *   Eddie Bauer Bedding
     *   Stanley Hydration
     *   Free Shipping: Steam &. Go
@@ -266,57 +277,54 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Art for Every Room
     *   Cuisinart
     *   Sharpen Up: Wusthof Cutlery Knife Sets &. More
+    
     *   Free Shipping: Modern Metallic Serveware
     *   Free Shipping: Holiday Serveware &. More
-    *   Free Shipping: Bedding Steals Up to 80% Off
     *   Free Shipping: Pop Art Pillows Under $20
-    
-    *   Style Meets Function: Accent Furniture
     *   Storage Necessities Starting at $10
     *   Free Shipping: Brazilian Cowhide Up to 75% Off
     *   Free Shipping: Super-Cozy Quilts &. More
-    *   Ninja Kitchen Electrics
-    *   Healthy Cooking Must-Haves
-    *   Workout-Ready Water Bottles
-    *   Talk the Talk: Quotable Towels, Pillows &. More
     *   Day to Night: Sheer &. Blackout Curtains
     *   Free Shipping: Wonder Home Bedding &. Curtains
     *   Pile on the Pillows: Printed Cushions &. More
     *   Free Shipping: Modern Bohemian Decor
     *   Free Shipping: Festive Pillows, Decor &. More
+    *   Free Shipping: Bedding Steals Up to 80% Off
+    *   Style Meets Function: Accent Furniture
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
     *   Bedding
+    *   Kitchen &. Tabletop
     *   Organization
     *   Accent Furniture
-    *   Outdoor Living
-    *   Luggage &. Travel
     *   Bath
+    *   Luggage &. Travel
+    *   Outdoor Living
     *   Rugs
 *   BeautyShop Sale Events
     
+    *   Alterna Hair Care
+    *   Terre Mere Organic Vegan Beauty Up to 75% Off
+    *   BioMiracle Anti-Aging Skin Care
     *   BaBylissPRO Hair Tools
     *   Dynamic Innovation Labs Skin Care Up to 90% Off
     *   YOSH &. Ineke Fragrances
     *   philosophy
+    
     *   Laura Geller New York
     *   Scent Shop: Fall Fragrances Starting at $10
     *   StriVectin
-    
-    *   Ittse Cosmetics: Customize Your Color
-    *   LAFCO New York
-    *   Blend Mineral Cosmetics Up to 75% Off
     *   BABOR: Precision Skin Care &. Color
     *   Mediterranean Skin Care
     *   Beauty &. Grooming Essentials for Her &. Him
+    *   Ittse Cosmetics: Customize Your Color
     
     Shop By Category
-    *   Makeup
     *   Skin Care
-    *   Bath &. Body
+    *   Makeup
     *   Fragrance
+    *   Bath &. Body
     *   Hair Care
     *   Tools &. Accessories
     *   Nails
