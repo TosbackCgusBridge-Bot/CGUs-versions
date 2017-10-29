@@ -364,7 +364,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Stockings and Stuffers
     *   Host and Hostess Gifts
     *   Flannel Favorites
-    *   Mad For Plaid
     *   Personalized Gifts
     *   Sleep Shop
     *   Canvas Totes
@@ -721,7 +720,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Stockings and Stuffers
         *   Host and Hostess Gifts
         *   Flannel Favorites
-        *   Mad For Plaid
         *   Personalized Gifts
         *   Sleep Shop
         *   Canvas Totes
