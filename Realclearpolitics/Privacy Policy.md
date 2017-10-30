@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   New Jersey Governor - Guadagno vs. MurphyEmerson
+    *   Murphy47
+    *   Guadagno31Murphy +16
+*   President Trump Job ApprovalNBC News/Wall St. Jrnl
+    *   Approve38
+    *   Disapprove58Disapprove +20
 *   President Trump Job ApprovalGallup
-    *   Approve36
-    *   Disapprove59Disapprove +23
-*   Virginia Governor - Gillespie vs. NorthamThe Polling Company (R)
-    *   Northam43
-    *   Gillespie45Gillespie +2
-*   Virginia Governor - Gillespie vs. NorthamChristopher Newport Univ.\*
-    *   Northam50
-    *   Gillespie43Northam +7
-*   Nevada Senate - Republican PrimaryJMC Analytics
-    *   Tarkanian44
-    *   Heller38Tarkanian +6
+    *   Approve35
+    *   Disapprove60Disapprove +25
+*   2018 Generic Congressional VoteNBC News/Wall St. Jrnl
+    *   Democrats48
+    *   Republicans41Democrats +7
 
 More Latest Polls In The News
 
-*   David Brooks: This Was The Week Steve Bannon Really Took Control Of The Republican Party
-*   Tom Steyer: Trump "Has Met The Boundaries For Impeachment," American People In "Great Danger"
+*   Kasich: "Bulk Of The Republican Party" Supports Immigration, Opposes "Nationalism"
+*   Stelter: If You Watched Fox News This Week, "You Might Have Thought Hillary Clinton Was President"
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Huckabee Sanders: Everything Clinton and DNC Were Falsely Accusing Trump Of Doing, They Were Doing
-*   Chris Wallace: Dems Okay With Foreign Election Interference As Long As It Hurt Trump
+*   Independent Sen. Angus King: Investigation Needed Into Clinton/Obama 'Uranium One' Scandal
+*   David Brooks: This Was The Week Steve Bannon Really Took Control Of The Republican Party
 
 *   Politics
 *   Policy
