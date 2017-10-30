@@ -119,23 +119,23 @@ LATEST ON TWITTER
 
 Where is #programmatic heading? Erik @Requidan talks to @LiveIntent about this and more in this month's podcast: blog.liveintent.com/…
 
-About 3 days ago
+About 4 days ago
 
 My week on Twitter : 3 Mentions, 16.8K Mention Reach, 3 Favorited, 2 Tweets. See yours with sumall.com/performan… pic.twitter.com/nuSB…
 
-About 4 days ago
+About 5 days ago
 
 Listen now to Erik @Requidan's State of #Programmatic podcast w. @LiveIntent's @KeishaSG &. @kerel\_cooper here: blog.liveintent.com/…
 
-About 5 days ago
+About 6 days ago
 
 AMA: Outsourcing advertising for publishers with @mrmistry stateofdigitalpublis… via @StateofDigitalP
 
-Last week
+About 2 weeks ago
 
 My week on Twitter : 4 Mentions, 22.4K Mention Reach, 4 New Followers, 2 Tweets. See yours with sumall.com/performan… pic.twitter.com/0JqB…
 
-Last week
+About 2 weeks ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
