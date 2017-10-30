@@ -332,7 +332,7 @@ Compare (0)
 
 Home >. Filter by specs Offers
 
-Where your professional capabilities and budget meet
+Don't fear Black Friday. Shop early and get great savings now.
 
 Shop now >.
 
@@ -350,21 +350,21 @@ ThinkAgile HX Series >. ThinkAgile SX for Nutanix >.
 *   2
 *   3
 
-Weekly Deals
+ThinkPad X1 Carbon
 
-Great deals on select products.
+The lightest, thinnest X1 Carbon, packed with more power than ever.
 
 LENOVO SWEEPSTAKES
 
 Play for your chance to win some of our hottest products!
 
-72 Hours Only
+FLEX 5 (15")
 
-Snag these deals on Essential laptops. Sale Ends October 29.
+Pen-point sensitive touch screen and durable 360 degree hinge.
 
-Miix 720
+Boost Your Bottom Line
 
-Need productivity on the go? This 2-in-1 can take you there.
+What if you could push your business towards the black, while beating the line on Black Friday? Now you can.
 
 Star Wars Jedi Challenges: Begin Your Journey Recommended For You Best Seller ThinkPad X1 Carbon (5th gen)
 
@@ -378,19 +378,7 @@ $1403.10
 
 Shop Now
 
-1697Viewing ThinkPad T470 Business Laptop
-
-★★★★★ ★★★★★
-
-3.5
-
-(15)
-
-$881.10
-
-Shop Now
-
-765Viewing Best Seller IdeaCentre Y710 Cube
+2246Viewing Best Seller IdeaCentre Y710 Cube
 
 ★★★★★ ★★★★★
 
@@ -402,19 +390,31 @@ $749.99
 
 Shop Now
 
-665Viewing Yoga 920 (14")
+557Viewing Lenovo Legion Y520 Laptop
 
 ★★★★★ ★★★★★
 
-3.3
+4.3
 
-(3)
+(60)
 
-$1329.99
+$699.99
 
 Shop Now
 
-662Viewing
+1465Viewing Lenovo Yoga 700 (11")
+
+★★★★★ ★★★★★
+
+3.8
+
+(90)
+
+$449.99
+
+Shop Now
+
+249Viewing
 
 LAPTOPS
 
