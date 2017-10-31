@@ -89,7 +89,7 @@ Previous OTA privacy policies are posted below
 
 Wed, Nov 8, 2017 SecureWorld - Seattle
 
-Join OTA and OTA members Infoblox, Malwarebytes and Symantec at the top security show in the Northwest. OTA is an association partner and Craig Spiezle is hosting the session "Are You Ready For the Next Data Breach Hurricane? Lessons from Equifax" at 11:15 a.m. on November 9.
+Join OTA and OTA members Infoblox, Malwarebytes and Symantec at the top security show in the Northwest. OTA is an association partner and Craig Spiezle is hosting the session "Are You Ready For the Next Data Breach Hurricane? Lessons from Equifax" at 11:15 a.m. on November 9. Visit OTA/Internet Society at Booth 300.
 
 Wed, Nov 29, 2017 IoT Tech Expo - North America
 
