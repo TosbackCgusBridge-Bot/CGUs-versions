@@ -1,8 +1,4 @@
-Skip to main content Cobranded header here Welcome to Orbitz.com **Continue to the U.S. site at Orbitz.com** close Booking travel on behalf of Done Download the free app
-
-Earn 5% back in app + save 15% on select hotels with code **APP15**
-
-Join Rewards //a.travel-assets.com/globalcontrols-service/content/529b8a6c18ea2d7e1cb73acc45aabd5470d7513d Search anything Search
+Skip to main content Cobranded header here Welcome to Orbitz.com **Continue to the U.S. site at Orbitz.com** close Booking travel on behalf of Done Join Rewards //a.travel-assets.com/globalcontrols-service/content/b64bf1285cfc568b56d6e8618dfce76ecc212277 Search anything Search
 
 Show Menu
 
@@ -27,9 +23,8 @@ Show Menu
     *   Mobile
     *   Rewards
 
-*   *   You have 1 notification 1
-        *   *   Get price and availability changes for hotels you view. We'll watch prices on your saved and recently viewed items for you. Track ChangesClose
-            *   All caught up!  
+*   *   You have 0 notifications 1
+        *   *   All caught up!  
                 No new notifications right now.
 *   Account
     *   Sign in to see exclusive Member Pricing.
@@ -54,7 +49,7 @@ Show Menu
     *   Feedback
 *   Español
 
-//a.travel-assets.com/globalcontrols-service/content/529b8a6c18ea2d7e1cb73acc45aabd5470d7513d Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/b64bf1285cfc568b56d6e8618dfce76ecc212277 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Hotels
