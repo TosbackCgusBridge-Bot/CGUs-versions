@@ -186,7 +186,7 @@ Get the skinny on all things Fitbit
 *   Retailers
 *   Affiliates
 *   Fitbit Group Health
-*   API
+*   Developers
 *   Help
 
 United States (change)
