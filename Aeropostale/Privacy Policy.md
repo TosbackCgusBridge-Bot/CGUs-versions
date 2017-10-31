@@ -495,7 +495,7 @@ Menu Find a Store Aeropostale
 *   Sign Up/Login
 *   Refer a Friend
 
-0 Search Catalog Search Promotions Shop Girls Shop Guys Get In Store Coupon
+0 Search Catalog Search Promotions Shop Girls Shop Guys
 
 *   Joggers + Sweats Starting at $10.00 Shop Guys Shop Girls
 *   Sweaters Starting at $10.00 Shop Girls Shop Guys
@@ -511,7 +511,7 @@ Menu Find a Store Aeropostale
 *   3
 *   4
 
-shop girls jeans shop guys jeans shop girls shop guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+shop girls jeans shop guys jeans shop girls jeans shop guys jeans <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
