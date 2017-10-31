@@ -9,11 +9,12 @@ products &. offersInspirationNewOffersServicesNew Lower Price    Welcome! 0 FA
 *   Join our email list
 *   Información en español
 
-Bathroom Living room Bedroom Office furniture Children’s Outdoor Furniture Cooking Pets Decoration Secondary storage Dining Small storage Eating Textiles &. Rugs Food Wireless charging Hallway IKEA FAMILY products &. offers Kitchens For business Laundry Winter holidays Lighting XFree delivery offer valid on in-store and online purchases over $250.00Offer valid on purchases made 10/30-11/3/2017.  
-Not valid on purchases prior to 10/30/17.  
+Bathroom Living room Bedroom Office furniture Children’s Outdoor Furniture Cooking Pets Decoration Secondary storage Dining Small storage Eating Textiles &. Rugs Food Wireless charging Hallway IKEA FAMILY products &. offers Kitchens For business Laundry Winter holidays Lighting XFree delivery offer valid on in-store and online product purchases over $250.00Offer valid on product purchases made 10/30-11/3/2017.  
+Not valid on product purchases prior to 10/30/17.  
 Not valid on out of stock merchandise.  
 Truck deliveries not available to Alaska or Hawaii.  
-Delivery area limitations apply on in-store purchases, see store associate for details. Questions? Unfortunately, you need a newer version of Adobe Flash Player to take a look at this content. Don't worry, it's easy. To install the latest version, just click  
+Not available on gift card purchases.  
+Delivery area limitations apply on in-store product purchases, see store associate for details. Questions? Unfortunately, you need a newer version of Adobe Flash Player to take a look at this content. Don't worry, it's easy. To install the latest version, just click  
 here. IKEA Privacy Policy A partnership in trust. When IKEA set out to create a high-quality, low-priced line of home furnishings, we knew we couldn't do it without the help of some very important partners-you, our customers. Whether you're researching purchases in the IKEA catalog, picking up your furniture in our self-serve warehouses or assembling your purchases at home - we're working together to help you create a better everyday life at a price everyone can afford. IKEA is based on a partnership with our customers. Without you, IKEA could not exist.  
   
 This partnership extends to the way we handle your personal information. Just like shopping at IKEA is a cooperative experience, IKEA makes a point of working with our customers when it comes to their privacy. We only collect the information we may need to create a better shopping experience for you. This Privacy Policy is our way of telling you what information we collect, how we use it and how you can access, change and remove your information. Help us build a better IKEA. In order to create a better IKEA, we need your help. You can help by providing us with various kinds of information to help IKEA serve you better, and ultimately improve IKEA for everyone. Below you’ll find some of the reasons we request information from you, as well as how we obtain and use that information to help improve your IKEA shopping experience.  
