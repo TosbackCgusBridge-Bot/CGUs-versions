@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather U.S. Winter Outlook: NOAA forecasters predict cooler, wetter North and warmer, drier South Weather Satellites Climate 30-day countdown to JPSS-1 launch National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts BOO? You won't find any trick-or-treaters in a ghost forest Oceans &. Coasts Five years after Sandy: What we've learned National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Celebrating 45 years of national marine sanctuaries AROUND NOAA // NOAA and partners assess Hurricane Irma damage to Florida coral reefs U.S. Winter Outlook: NOAA forecasters predict cooler, wetter North and warmer, drier South Globe had 2nd warmest year to date, 4th warmest September on record
+Enter Search Terms Celebrating 45 years of national marine sanctuaries AROUND NOAA // BOO? You won't find any trick-or-treaters in a ghost forest Every Full Moon video series: Watch 'Creep into the deep sea' NOAA and partners assess Hurricane Irma damage to Florida coral reefs U.S. Winter Outlook: NOAA forecasters predict cooler, wetter North and warmer, drier South
 
 *   About our agency
 *   News and features
