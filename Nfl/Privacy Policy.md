@@ -1,5 +1,5 @@
-*   PIT•3DET62nd ? 05:46
-*   DEN3-3KC5-2Mon 8:30 PM ET
+*   DEN3-419KC6-229Final
+*   MIA4-30BAL4-440Final
 *   MIN6-233CLE0-816Final
 *   OAK3-514BUF5-234Final
 *   IND2-623CIN3-424Final
@@ -10,7 +10,7 @@
 *   CAR5-317TB2-53Final
 *   HOU3-438SEA5-241Final
 *   DAL4-333WAS3-419Final
-*   MIA4-30BAL4-440Final
+*   PIT6-220DET3-415Final
 
 *   News
 *   Scores
@@ -28,8 +28,8 @@
 *   NFL Network
 *   Photos
 
-*   PIT•3DET62nd ? 05:46
-*   DEN3-3KC5-2Mon 8:30 PM ET
+*   DEN19KC29Final
+*   MIA0BAL40Final
 *   MIN33CLE16Final
 *   OAK14BUF34Final
 *   IND23CIN24Final
@@ -40,7 +40,7 @@
 *   CAR17TB3Final
 *   HOU38SEA41Final
 *   DAL33WAS19Final
-*   MIA0BAL40Final
+*   PIT20DET15Final
 
 *   News
 *   Scores
