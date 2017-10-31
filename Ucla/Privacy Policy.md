@@ -16,6 +16,8 @@ UCLA is committed to web accessibility for everyone.
 
 If you are experiencing a web accessibility issue, please contact the ADA/504 Office for further assistance by emailing ada@saonet.ucla.edu or calling (310) 206-8049.
 
+If you are a student and would like to file a disability-based discrimination grievance, please see UCLA Procedure 230.2: Student Grievances Regarding Violations of Anti-Discrimination Laws or University Policies on Discrimination Based on Disability.
+
 Privacy: The UCLA Gateway and Other Sites
 
 The UCLA gateway site, www.ucla.edu, collects information to improve functionality and content and to monitor performance. Data is used to help answer specific questions about the usage and performance of the web site or individual web pages. At no time is site usage associated with individual IP addresses.  
