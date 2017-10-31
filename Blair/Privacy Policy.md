@@ -1,8 +1,6 @@
-  Offer Details
+    Offer Details
 
 Use promotion code **BQCD** at checkout for FREE standard shipping on your entire Blair order. Additional shipping charges apply for express, heavyweight and deliveries outside the continental US. This offer cannot be combined with other offers. not valid on previously placed or international orders. good online only through October 31, 2017.
-
-  No thank you, I prefer to pay for shipping!  
 
 Shop your favorite stores and discover new ones  
   
@@ -249,7 +247,7 @@ Blair
 Warren, PA 16366
 
   
-Report Ad  
+  
 Sign Up for Email  
 New subscribers receive a FREE SHIPPING offer.  
   
