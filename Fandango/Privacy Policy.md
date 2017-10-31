@@ -5,39 +5,37 @@ Gift Cards | Offers | Sign In Sign Out
 
 *   Movies Now Playing
     
+    *   Jigsaw
     *   Boo 2! A Madea Halloween
     *   Geostorm
     *   Happy Death Day
     *   Blade Runner 2049
+    *   Thank You for Your Service (2017)
     *   Only the Brave
     *   The Foreigner (2017)
+    *   Let There Be Light (2017)
     *   It (2017)
-    *   The Snowman (2017)
     *   American Made
-    *   Kingsman: The Golden Circle
-    *   The Mountain Between Us
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Jigsaw
-    *   Suburbicon
-    *   Thank You for Your Service (2017)
-    *   All I See Is You
-    *   Crash Pad
-    *   The Divine Order
-    *   Félicité
-    *   God's Own Country (2017)
-    *   The Heyday of the Insensitive Bastards
-    *   Let There Be Light (2017)
-    *   Novitiate
+    *   A Bad Moms Christmas
+    *   Thor: Ragnarok (2017)
+    *   11/8/16
+    *   Bad Grandmas
+    *   Blade of the Immortal
+    *   Dream Boat (2017)
+    *   Gilbert
+    *   Ittefaq (2017)
+    *   Lady Bird
+    *   Last Flag Flying
+    *   LBJ
     *   See All Opening This Week
     
     Pre Sales Tickets
     
     *   Star Wars: The Last Jedi (2017)
-    *   Thor: Ragnarok (2017)
-    *   A Bad Moms Christmas
     
     Coming Soon
     
@@ -48,6 +46,7 @@ Gift Cards | Offers | Sign In Sign Out
     *   Wonder
     *   Coco (2017)
     *   Polaroid
+    *   Just Getting Started
     *   See All Coming Soon
     
     Explore More
@@ -76,8 +75,8 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Wonder Woman and Pennywise Top Fandango’s Halloween Costume List Read More
-    *   Movie News: Tom Hanks Will Go Sci-Fi as Robot Creator Read More
-    *   Interview: Director Jason Hall on How 'Thank You For Your Service' Is a Spiritual Sequel to 'American Sniper' Read More
+    *   Movie News: Zachary Levi to Star in 'Shazam!' Read More
+    *   Jeff Goldblum's Grandmaster and Benicio Del Toro's Collector Will Likely Appear in a Marvel Movie Together Read More
     
     Explore Content
     *   Movie Reviews
@@ -268,9 +267,9 @@ Offers
     
     Buy tickets and get a FREE\* exclusive 'Justice League' poster with ticket purchase. BUY TICKETS
     
-*   'Star Wars: The Last Jedi' Gift with Purchase
+*   'A Bad Moms Christmas' Gift With Purchase
     
-    LIMITED TIME ONLY! Buy tickets now and get a FREE\* 'Jedi' poster. BUY TICKETS
+    Buy tickets to 'A Bad Moms Christmas' and get a FREE digital copy of the first 'Bad Moms' on FandangoNOW. BUY TICKETS
     
 *   'Thor: Ragnarok' Gift With Purchase
     
@@ -323,4 +322,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
