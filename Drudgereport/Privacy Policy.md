@@ -119,15 +119,15 @@ LATEST ON TWITTER
 
 Where is #programmatic heading? Erik @Requidan talks to @LiveIntent about this and more in this month's podcast: blog.liveintent.com/…
 
-About 4 days ago
+About 5 days ago
 
 My week on Twitter : 3 Mentions, 16.8K Mention Reach, 3 Favorited, 2 Tweets. See yours with sumall.com/performan… pic.twitter.com/nuSB…
 
-About 5 days ago
+About 6 days ago
 
 Listen now to Erik @Requidan's State of #Programmatic podcast w. @LiveIntent's @KeishaSG &. @kerel\_cooper here: blog.liveintent.com/…
 
-About 6 days ago
+Last week
 
 AMA: Outsourcing advertising for publishers with @mrmistry stateofdigitalpublis… via @StateofDigitalP
 
