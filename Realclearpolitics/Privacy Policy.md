@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Larry Kudlow_: Trump Needs a Stable Dollar to Maximize Growth
+*   _Peter Baker_: For Trump, Indictment of Former Top Lieutenant Raises Stakes
     
-*   _Jennifer Kerns_: Time for Mueller to Dismiss the Trump Investigation
+*   _Thaddeus McCotter_: Dems' Russia Ruse: Blame Trump, &. Hope for Best
     
-*   _Jonathan Chait_: GOP Develops Theory of Alt-Collusion to Defend Trump
+*   _Paul Callan_: Manafort Charges Will Send Shivers Through the White House
     
-*   _David Catanese_: Razing Arizona: McSally Eyeing GOP Senate Battle
+*   _John Fund_: Manafort Is a Small Fish (But He Raises a Lot of Questions)
     
-*   _John Davidson_: VA Race Has Exposed Dems' Big Immigration Problem
+*   _Adam Gopnik_: The JFK Files, Trump and the Deep State
     
-*   _Rep. Dwight Evans_: Republicans' Failure on Health Care Is Unacceptable
+*   _John Davidson_: George Washington &. the Toxic Logic of Identity Politics
     
-*   _Lanhee Chen_: How Republicans Can Make a Deal on Health Care
+*   _Piven &. Minnite_: Why Democrats and Movements Need Each Other
     
-*   _Jay Ambrose_: Trump Helping Nation Recover From Obama
+*   _Josh Kraushaar_: McConnell's High-Stakes Offensive Against Bannon
     
-*   _Jules Witcover_: The Transformation of Gen. John Kelly
+*   _Kristin Tate_: Establishment, Be Afraid: Flake Is Only the First Scalp
     
-*   _Noah Rothman_: John Kelly's Clarifying Patriotism
+*   _Kalefa Sanneh_: What Does Tulsi Gabbard Believe?
     
-*   _Leonid Bershidsky_: Catalonia Isn't Ready for This Fight
+*   _Fred Barnes_: A Fight in Virginia Over the Proper Role of an AG
     
-*   _James Bovard_: Facebook Censored Me, and I'm Far From Alone
+*   _Albert Hunt_: Virginia Governor's Race Isn't Just About the Candidates
     
-*   _Eugene Robinson_: The Democrats Are in Crisis Too
+*   _George Neumayr_: Dirty Dems, Hoist by Their Own Russian Petard
     
-*   _Michael Barone_: Both Parties Trying Even Harder to Defeat Themselves
+*   _Susan Glasser_: James Clapper: 'The Russians Have Succeeded'
     
-*   _David Corn_: The Trump-Russia Scandal Is a Huge Media Fail
+*   _Rep. Trey Gowdy_: Did Obama DOJ Rely on Dossier to Get FISA Warrant?
     
-*   _Paul Sperry_: How Team Hillary Played the Press for Fools on Russia
+*   _Ryan Lizza_: As Mueller Pushes Ahead, Trump Distracts
     
-*   _Sen. Chuck Schumer_: Trump's Tax Reform Nothing Like Reagan's
+*   _Christine Wicker_: The Touch Trump and FDR Share in Common
     
-*   _Steve Forbes_: Time for Trump to Kill Regulatory Swamp Monsters
+*   _D.J. Tice_: Some Problems for Democrats to Meditate Upon
     
-*   _Roger Altman_: Trump Was an Election Surprise. Expect More
+*   _Bryce Covert_: The Economy Can't Grow Without Birth Control
     
-*   _Piers Morgan_: Snowflakes Are Screaming, But Trump's Likely to Win Again
+*   _Hal Lambert_: 2017 Tax Cut Will Lead to Trump Victory in 2020
     
-*   _Caitlin Huey-Burns_: Challenging Trump: Republicans' 2020 Question
+*   _Victor Davis Hanson_: The Islamic State &. the Limitations of Cruelty
     
-*   _Patrick Buchanan_: It's Trump's Party Now
+*   _Luke Mogelson_: Dark Victory in Raqqa
     
-*   _Vann Newkirk_: What's Still Missing From Trump's Opioid Crisis Plan
+*   _Charles Hurt_: Christ Church and the Slavers' Blood Money
     
-*   _Matthew Walther_: Fear and Loathing on Hillary Clinton's Grievance Tour
+*   _Noah Feldman_: James Madison's Lessons in Racism
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Calls for Liberation From "Scourge" of Drug Addiction
+*   Economy Grew at Solid 3% Rate in 3rd Quarter, Despite Storms
+*   Paul Manafort and Rick Gates Indicted in Mueller Investigation
+*   Hemingway: Clinton Campaign Did What They Accused Trump's of Doing
 *   Challenging Trump: Republicans' 2020 Question
-*   Nunes: Did Democrats Use the Intel Services for Their Political Gain?
 *   Flake Retirement Helps Republicans in Ariz. Senate Race
-*   The Takeaway: Shake-Up in the Va. Governor's Race
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   New Jersey Governor - Guadagno vs. MurphyEmerson
-    *   Murphy47
-    *   Guadagno31Murphy +16
-*   President Trump Job ApprovalNBC News/Wall St. Jrnl
-    *   Approve38
-    *   Disapprove58Disapprove +20
+*   Virginia Governor - Gillespie vs. NorthamQuinnipiac\*
+    *   Northam53
+    *   Gillespie36Northam +17
+*   New Jersey Governor - Guadagno vs. MurphySuffolk\*
+    *   Murphy49
+    *   Guadagno33Murphy +16
 *   President Trump Job ApprovalGallup
-    *   Approve35
-    *   Disapprove60Disapprove +25
-*   2018 Generic Congressional VoteNBC News/Wall St. Jrnl
-    *   Democrats48
-    *   Republicans41Democrats +7
+    *   Approve33
+    *   Disapprove62Disapprove +29
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve44
+    *   Disapprove54Disapprove +10
 
 More Latest Polls In The News
 
+*   CNN's Jim Acosta to Sarah Sanders: "How Is It Not Collusion" When Papadopoulos Promised Dirt On Clinton?
+*   Paul Manafort's Attorney: "No Evidence Mr. Manafort Or Trump Campaign Colluded With Russian Government"
+*   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
 *   Kasich: "Bulk Of The Republican Party" Supports Immigration, Opposes "Nationalism"
 *   Stelter: If You Watched Fox News This Week, "You Might Have Thought Hillary Clinton Was President"
-*   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Independent Sen. Angus King: Investigation Needed Into Clinton/Obama 'Uranium One' Scandal
-*   David Brooks: This Was The Week Steve Bannon Really Took Control Of The Republican Party
 
 *   Politics
 *   Policy
