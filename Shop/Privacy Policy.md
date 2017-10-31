@@ -366,55 +366,7 @@ Boost Your Bottom Line
 
 What if you could push your business towards the black, while beating the line on Black Friday? Now you can.
 
-Star Wars Jedi Challenges: Begin Your Journey Recommended For You Best Seller ThinkPad X1 Carbon (5th gen)
-
-★★★★★ ★★★★★
-
-3.9
-
-(62)
-
-$1403.10
-
-Shop Now
-
-2246Viewing Best Seller IdeaCentre Y710 Cube
-
-★★★★★ ★★★★★
-
-4.4
-
-(22)
-
-$749.99
-
-Shop Now
-
-557Viewing Lenovo Legion Y520 Laptop
-
-★★★★★ ★★★★★
-
-4.3
-
-(60)
-
-$699.99
-
-Shop Now
-
-1465Viewing Lenovo Yoga 700 (11")
-
-★★★★★ ★★★★★
-
-3.8
-
-(90)
-
-$449.99
-
-Shop Now
-
-249Viewing
+Star Wars Jedi Challenges: Begin Your Journey
 
 LAPTOPS
 
