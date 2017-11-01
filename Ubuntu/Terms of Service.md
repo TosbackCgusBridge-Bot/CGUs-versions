@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
-*   Ubuntu Desktop Weekly Update: GNOME Fixes &. New Snaps ›
-*   Security Team Weekly Summary: October 26, 2017 ›
-*   Glowing Bear and Weechat in Kubernetes with Helm ›
-*   Thinger.io uses Ubuntu Core &. snaps for easy IoT deployment ›
-*   Kernel Team Summary – October 25, 2017 ›
+*   Ubuntu Server Development Summary – 31 Oct 2017 ›
+*   Juju GUI: get your users started with getstarted.md ›
+*   MAAS 2.3.0 beta 3 released! ›
+*   LXD Weekly Status #21: Console Attach, Distribution Work, &. More ›
+*   Using snaps to advance robotics development ›
