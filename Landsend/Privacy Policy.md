@@ -768,9 +768,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 40% off all outerwear, including coats, snow boots, hats &. gloves! Plus, receive 30% off regular-price styles!
+Receive 50% off regular-price kids' styles! And, receive 31% off everything else!
 
-code: HAUNTED pin: 6193 DETAILS
+code: OCTOBER pin: 3110 DETAILS
 
 Customer Service Menu
 
