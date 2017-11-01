@@ -233,21 +233,21 @@ Print | Citation &. Date | Reprint
 
 More to Explore   You might also like
 
-*   How Lung Cancer is Treated. Explore Treatment Options on Yahoo! Search Yahoo! Search
-*   Dell Offers Customers Incredible Savings On XPS Laptops Dell
-*   20 Things 'Gunsmoke' Producers Hid From Fans Standard News
+*   Is It Time for a Credit Card Upgrade? Our 6 Favorites NerdWallet
+*   Quiz: Can You Still Name The Capitals Of All 50 States? \[Quiz\] Definition
+*   \[Gallery\] This Strange Aircraft Almost Went Into Full Production HistoryInOrbit.com
 
-*   Denver, Colorado: This Brilliant Company Is Disrupting a $200 Billion Industry EverQuote
-*   \[Doctor\] “How To Get Rid of Lip Wrinkles &. Vertical Lines” Vital Updates
-*   Download Guide to Overcome Digital Transformation Challenges Verizon Enterprise
+*   How Does Getting Rid of Interest Payments For 15 To 21 Months Sound For Your Holiday Spending? NerdWallet
+*   Best &. Worst Refinance Mortgage Companies of 2017 Comparisons.org
+*   Do Not Pay Upfront To Install Solar Panels (Here's Why) Energy Bill Cruncher
 
 Sponsored by Today's Headlines
 
-Sweet, Super and Strange: Our Best Stories You Might Have Missed This Week
+Why Do We Keep Turning Our Monsters Cute?
 
-Majority Want Legal Marijuana To Be the Norm
+Colossal Conspiracies About Why the Titanic Sank
 
-Why Treasure Hunters Are Still Searching for the Nazi Gold Train
+Will Autonomous Vehicles Be Able to Break the Speed Limit?
 
 About Us
 
@@ -263,11 +263,11 @@ About Us
 
 More to Explore   DON'T MISS
 
-*   Herpes 101
+*   5 Low
 
-*   10 Technologies Kids Already Don’t Know How to Use
+*   Where do bullets go when guns are fired straight up into the air?
 
-*   10 Causes of Weight Gain That Doctors Have Changed Their Minds About
+*   How UPC Bar Codes Work
 
 *   Right Now in Quizzes
 
@@ -305,4 +305,4 @@ Get the best of HowStuffWorks by email. Keep up to date on:
 
 Sign Up Now!
 
-Testing this long verbose error message to check the behaviour <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. <img src="https://soflopxl.com/px?partner\_id=31210">
+Testing this long verbose error message to check the behaviour <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. <img src="https://soflopxl.com/px?partner\_id=31210">AddThis Sharing SidebarShare to FacebookFacebook, Number of sharesShare to TwitterTwitterShare to Google+Google+Share to PinterestPinterest, Number of sharesShare to EmailEmailMore AddThis Share optionsAddthis, Number of sharesHideShowCloseAddThis
