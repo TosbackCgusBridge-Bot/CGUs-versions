@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Peter Baker_: For Trump, Indictment of Former Top Lieutenant Raises Stakes
+*   _Paul Sperry_: Robert Mueller's Big Catch Was Low-Level, Unpaid Intern
     
-*   _Thaddeus McCotter_: Dems' Russia Ruse: Blame Trump, &. Hope for Best
+*   _Bill Press_: First Stop on a Long Road Ahead: Mueller Lowers the Boom
     
-*   _Paul Callan_: Manafort Charges Will Send Shivers Through the White House
+*   _Bill McGurn_: Nunes's Intel Committee Plods on With Real Russia Investigation
     
-*   _John Fund_: Manafort Is a Small Fish (But He Raises a Lot of Questions)
+*   _Jonathan Chait_: The GOP Is Gearing Up for War on the Rule of Law
     
-*   _Adam Gopnik_: The JFK Files, Trump and the Deep State
+*   _Deroy Murdock_: Republicans Should Cut Taxes Before Thanksgiving
     
-*   _John Davidson_: George Washington &. the Toxic Logic of Identity Politics
+*   _Jeffrey Sachs_: The Ominous Absurdity of Trump's Tax Cuts
     
-*   _Piven &. Minnite_: Why Democrats and Movements Need Each Other
+*   _Jeremy Peters_: Deep in 'The Resistance,' Calif. Conservatives Are Invigorated
     
-*   _Josh Kraushaar_: McConnell's High-Stakes Offensive Against Bannon
+*   _Hudson & Tillman_: DC's Lobbyists See Danger in Manafort Indictment
     
-*   _Kristin Tate_: Establishment, Be Afraid: Flake Is Only the First Scalp
+*   _Scott Ritter_: The Democratic Law Firm Behind the Russian Collusion Narrative
     
-*   _Kalefa Sanneh_: What Does Tulsi Gabbard Believe?
+*   _Owen Jones_: How Dare You, Kevin Spacey?
     
-*   _Fred Barnes_: A Fight in Virginia Over the Proper Role of an AG
+*   _Frank Stephens_: 'I Am A Man With Down Syndrome &. My Life Is Worth Living'
     
-*   _Albert Hunt_: Virginia Governor's Race Isn't Just About the Candidates
+*   _John Cassidy_: Mueller Is Just Beginning to Put the Pressure On
     
-*   _George Neumayr_: Dirty Dems, Hoist by Their Own Russian Petard
+*   _Andrew McCarthy_: Manafort Indictment: Much Ado About Not Much
     
-*   _Susan Glasser_: James Clapper: 'The Russians Have Succeeded'
+*   _Caitlin Huey-Burns_: Papadopoulos: Bit Player at Center Stage in Russia Probe
     
-*   _Rep. Trey Gowdy_: Did Obama DOJ Rely on Dossier to Get FISA Warrant?
+*   _Michelle Goldberg_: The Plot Against America
     
-*   _Ryan Lizza_: As Mueller Pushes Ahead, Trump Distracts
+*   _Patrick Buchanan_: The Plot to Bring Down Donald Trump
     
-*   _Christine Wicker_: The Touch Trump and FDR Share in Common
+*   _Ezra Klein_: It's Impossible to Believe Trump Didn't Collude With Russia
     
-*   _D.J. Tice_: Some Problems for Democrats to Meditate Upon
+*   _James Robbins_: Worried About Election Meddling? Dossier Had Most Impact
     
-*   _Bryce Covert_: The Economy Can't Grow Without Birth Control
+*   _Jeet Heer_: Hillary Should Embrace Her Role as Trump's Nemesis
     
-*   _Hal Lambert_: 2017 Tax Cut Will Lead to Trump Victory in 2020
+*   _Victor Davis Hanson_: The Advantages of Liberal Insurance
     
-*   _Victor Davis Hanson_: The Islamic State &. the Limitations of Cruelty
+*   _William Greider_: What Killed the Democratic Party?
     
-*   _Luke Mogelson_: Dark Victory in Raqqa
+*   _James Arkin_: Wisconsin a Critical Test for Both Parties in 2018
     
-*   _Charles Hurt_: Christ Church and the Slavers' Blood Money
+*   _Irwin Stelzer_: Facebook, Google, Amazon: Time to Break Up Big Tech?
     
-*   _Noah Feldman_: James Madison's Lessons in Racism
+*   _Clay Travis_: ESPN Is the Sports Version of Blockbuster Video
     
 
 *   Previous
@@ -250,10 +250,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Wisconsin Will Be Critical Test for Both Parties in 2018
+*   Papadopoulos: Bit Player at Center Stage in Russia Probe
+*   Sekulow: President Trump Is Not Firing Mueller
 *   Economy Grew at Solid 3% Rate in 3rd Quarter, Despite Storms
-*   Paul Manafort and Rick Gates Indicted in Mueller Investigation
-*   Hemingway: Clinton Campaign Did What They Accused Trump's of Doing
-*   Challenging Trump: Republicans' 2020 Question
 *   Flake Retirement Helps Republicans in Ariz. Senate Race
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Virginia Governor - Gillespie vs. NorthamQuinnipiac\*
-    *   Northam53
-    *   Gillespie36Northam +17
-*   New Jersey Governor - Guadagno vs. MurphySuffolk\*
-    *   Murphy49
-    *   Guadagno33Murphy +16
+*   Virginia Governor - Gillespie vs. NorthamWashington Post\*
+    *   Northam49
+    *   Gillespie44Northam +5
 *   President Trump Job ApprovalGallup
-    *   Approve33
-    *   Disapprove62Disapprove +29
+    *   Approve34
+    *   Disapprove62Disapprove +28
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve44
     *   Disapprove54Disapprove +10
+*   President Trump Job ApprovalPPP (D)
+    *   Approve38
+    *   Disapprove56Disapprove +18
 
 More Latest Polls In The News
 
-*   CNN's Jim Acosta to Sarah Sanders: "How Is It Not Collusion" When Papadopoulos Promised Dirt On Clinton?
-*   Paul Manafort's Attorney: "No Evidence Mr. Manafort Or Trump Campaign Colluded With Russian Government"
+*   Bernie Sanders: "Americans Are Not Staying Up Every Day Worrying About Russia's Interference In Our Election"
+*   Tim Kaine: "Apparently Some Funds" For Steele Dossier Were "Paid For By The Clinton Campaign"
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Kasich: "Bulk Of The Republican Party" Supports Immigration, Opposes "Nationalism"
-*   Stelter: If You Watched Fox News This Week, "You Might Have Thought Hillary Clinton Was President"
+*   McCain: "We Are Asleep In Our Echo Chambers" Blinded By "Propaganda And Conspiracy Theories"
+*   CNN's Jim Acosta to Sarah Sanders: "How Is It Not Collusion" When Papadopoulos Promised Dirt On Clinton?
 
 *   Politics
 *   Policy
