@@ -96,4 +96,4 @@ Seeking Alpha's Privacy Policy is to share personal information only with the ow
 
 _Updated: August 9, 2017_
 
-Top Authors|RSS Feeds|Sitemap|About Us|Contact UsTerms of Use|Privacy|Xignite quote data|© 2017 Seeking Alpha <img src="https://sb.scorecardresearch.com/p?c1=2&c2=8500672&cv=2.0&cj=1" width="0" height="0" />. <img src="https://www.facebook.com/tr?id=228550053985270&ev=PageView&noscript=1" height="1" width="1" style="display:none" />. The quick brown fox jumps over the lazy dog.
+Top Authors|RSS Feeds|Sitemap|About Us|Contact UsTerms of Use|Privacy|Xignite quote data|© 2017 Seeking Alpha <img src="https://sb.scorecardresearch.com/p?c1=2&c2=8500672&cv=2.0&cj=1" width="0" height="0" />. <img src="https://www.facebook.com/tr?id=228550053985270&ev=PageView&noscript=1" height="1" width="1" style="display:none" />. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy The quick brown fox jumps over the lazy dog.
