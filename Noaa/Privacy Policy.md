@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Celebrating 45 years of national marine sanctuaries AROUND NOAA // BOO? You won't find any trick-or-treaters in a ghost forest Every Full Moon video series: Watch 'Creep into the deep sea' NOAA and partners assess Hurricane Irma damage to Florida coral reefs U.S. Winter Outlook: NOAA forecasters predict cooler, wetter North and warmer, drier South
+Enter Search Terms BOO? You won't find any trick-or-treaters in a ghost forest AROUND NOAA // Federal collaboration yields radar coverage for Puerto Rico, USVI in wake of Hurricane Maria Every Full Moon video series: Watch 'Creep into the deep sea' NOAA and partners assess Hurricane Irma damage to Florida coral reefs
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-Wendy Cover/NOAA
+iStock
