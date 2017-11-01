@@ -74,9 +74,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Wonder Woman and Pennywise Top Fandango’s Halloween Costume List Read More
-    *   Movie News: Zachary Levi to Star in 'Shazam!' Read More
-    *   Jeff Goldblum's Grandmaster and Benicio Del Toro's Collector Will Likely Appear in a Marvel Movie Together Read More
+    *   Fear Not, The ‘Thor: Ragnarok’ Blu-ray Will Include Lots More Jeff Goldblum Read More
+    *   Movie News: Lupita Nyong'o to Star in Zombie Comedy 'Little Monsters' Read More
+    *   'Pet Sematary' Remake Digs 'Starry Eyes' Directors. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -322,4 +322,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
+Help FEEDBACK My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
