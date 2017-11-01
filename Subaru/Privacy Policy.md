@@ -30,7 +30,7 @@ Up to
 
 *   Overview
 *   Photos &. Videos
-*   Competition
+*   Compare
 *   Build &. Price
 
 2.0i Sport Sedan shown
@@ -47,7 +47,7 @@ Up to
 
 *   Overview
 *   Photos &. Videos
-*   Competition
+*   Compare
 *   Build &. Price
 
 Legacy 3.6R Limited shown
@@ -64,7 +64,7 @@ Up to
 
 *   Overview
 *   Photos &. Videos
-*   Competition
+*   Compare
 *   Build &. Price
 
 Crosstrek 2.0i Premium shown
@@ -81,7 +81,7 @@ Up to
 
 *   Overview
 *   Photos &. Videos
-*   Competition
+*   Compare
 *   Build &. Price
 
 Forester 2.5i Touring shown
@@ -98,7 +98,7 @@ Up to
 
 *   Overview
 *   Photos &. Videos
-*   Competition
+*   Compare
 *   Build &. Price
 
 Outback 3.6R Limited shown
@@ -115,7 +115,7 @@ Up to
 
 *   Overview
 *   Photos &. Videos
-*   Competition
+*   Compare
 *   Build &. Price
 
 BRZ Premium shown
@@ -132,7 +132,7 @@ Up to
 
 *   Overview
 *   Photos &. Videos
-*   Competition
+*   Compare
 *   Build &. Price
 
 2018 WRX Limited shown
