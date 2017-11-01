@@ -15,7 +15,7 @@ Menu
     *   Sign in
     *   Create an account
     *   Your bookings
-    *   Trip Planner
+    *   Your Hotels
     *   Review a hotel
 *   Hotels.com® Rewards
 *   Your bookings
