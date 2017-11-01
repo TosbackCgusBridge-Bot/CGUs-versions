@@ -114,6 +114,7 @@ Partners &. Business
 *   Partner Support
 *   Business Support
 *   Affiliates
+*   Student Discount
 
 Connect with AVG
 
