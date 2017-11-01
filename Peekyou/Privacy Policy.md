@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 13%  2% 
+What is PeekScore? Public Records &. Background Checks 10%  1% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 13%  2% 
     
 *   Show Less ...
 
-13%  13%  Arrest Records &. Driving Infractions
+10%  10%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 13%  Twitter 2% 
+Facebook 10%  Twitter 1% 
 
 *   OAIC - OAICgov
     
@@ -199,7 +199,7 @@ Facebook 13%  Twitter 2% 
     
 *   Show Less ...
 
-Pinterest 13%  Wikipedia 2% 
+Pinterest 10%  Wikipedia 1% 
 
 *   Medana
     
@@ -218,7 +218,7 @@ Pinterest 13%  Wikipedia 2% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Instagram 13%  Google+ 2% 
+Instagram 10%  Google+ 1% 
 
 *   Free Privacy Policy - Google+
     
@@ -237,7 +237,7 @@ Instagram 13%  Google+ 2% 
     ©2017 Google • Privacy Policy • Terms of Service • Maps Terms. Region. Search. Sign in. About... Sign in. Profile cover photo. Profile photo. Verizon fios.
     
 
-Linkedin 2% 
+Linkedin 1% 
 
 *   Privacy Policy | LinkedIn
     
@@ -283,7 +283,7 @@ Linkedin 2% 
     
 *   Show Less ...
 
-Foursquare 13%  Music 2% 
+Foursquare 10%  Music 1% 
 
 *   Pandora
     
@@ -329,7 +329,7 @@ Foursquare 13%  Music 2% 
     
 *   Show Less ...
 
-Photo Albums 2% 
+Photo Albums 1% 
 
 *   Flickr
     
@@ -340,7 +340,7 @@ Photo Albums 2% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 2% 
+Myspace 1% 
 
 *   Privacy Policy - 49086242
     
@@ -364,7 +364,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Documents 2% 
+Documents 1% 
 
 *   Generic Privacy Policy template - TermsFeed
     
