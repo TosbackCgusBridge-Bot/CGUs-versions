@@ -24,13 +24,13 @@ Gift Cards | Offers | Sign In Sign Out
     *   Thor: Ragnarok (2017)
     *   11/8/16
     *   Bad Grandmas
+    *   Battlecreek
     *   Blade of the Immortal
-    *   Dream Boat (2017)
-    *   Gilbert
     *   Ittefaq (2017)
     *   Lady Bird
     *   Last Flag Flying
     *   LBJ
+    *   Dream Boat (2017)
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -45,8 +45,8 @@ Gift Cards | Offers | Sign In Sign Out
     *   The Star (2017)
     *   Wonder
     *   Coco (2017)
-    *   Polaroid
     *   Just Getting Started
+    *   Ferdinand
     *   See All Coming Soon
     
     Explore More
@@ -74,9 +74,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Fear Not, The ‘Thor: Ragnarok’ Blu-ray Will Include Lots More Jeff Goldblum Read More
-    *   Movie News: Lupita Nyong'o to Star in Zombie Comedy 'Little Monsters' Read More
-    *   'Pet Sematary' Remake Digs 'Starry Eyes' Directors. Here's Everything We Know Read More
+    *   The Women of the MCU Want an All-Female Marvel Movie Read More
+    *   Movie News: First Look at Steven Spielberg's 'The Post' Read More
+    *   Reel TV: Potential 'Blair Witch' TV Series. Potential 'Quantum Leap' Movie Read More
     
     Explore Content
     *   Movie Reviews
@@ -263,9 +263,9 @@ For any questions in relation to this Privacy Policy please contact us at privac
 
 Offers
 
-*   'Justice League' Free Gift With Purchase
+*   'Daddy's Home 2' Gift With Purchase
     
-    Buy tickets and get a FREE\* exclusive 'Justice League' poster with ticket purchase. BUY TICKETS
+    Buy tickets to 'Daddy's Home 2' and get a FREE digital copy of the first 'Daddy's Home' on FandangoNOW. BUY TICKETS
     
 *   'A Bad Moms Christmas' Gift With Purchase
     
@@ -275,9 +275,9 @@ Offers
     
     Buy tickets to ‘Thor: Ragnarok’ and get FREE\* exclusive poster on Fandango FanShop. BUY TICKETS
     
-*   Star Wars Gift Cards
+*   Fandango VIP
     
-    Give the epic gift of galactic adventure this holiday BUY GIFT CARDS
+    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
     
 
 New + Coming soon
@@ -316,10 +316,10 @@ Videos
 Photos
 
 *   Red Carpet
-*   October Celebrity Birthdays
+*   November Celebrity Birthdays
 
 Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help FEEDBACK My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
