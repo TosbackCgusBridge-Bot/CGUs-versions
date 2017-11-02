@@ -1,4 +1,4 @@
- 
+  No thank you, I prefer to pay for shipping!  
 
 Shop your favorite stores and discover new ones  
   
