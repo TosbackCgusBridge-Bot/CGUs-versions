@@ -303,6 +303,9 @@ Menu Close Menu Close
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
+HOLIDAY  
+STORE
+
 *   Call 1-855-253-6686
 
 *   Email Sign-Up
@@ -340,11 +343,11 @@ CROSS OUT THE ORDINARY
 
 Learn More >.
 
-Hyperconverged Simplified
+Lenovo in the Data Center
 
-ThinkAgile for Nutanix offers game changing agility, simplicity and a transformative experience.
+The most reliable, flexible, and secure data centers
 
-ThinkAgile HX Series >. ThinkAgile SX for Nutanix >.
+Learn more >.
 
 *   1
 *   2
@@ -354,67 +357,19 @@ ThinkPad X1 Carbon
 
 The lightest, thinnest X1 Carbon, packed with more power than ever.
 
-LENOVO SWEEPSTAKES
+Boost Your Bottom Line
 
-Play for your chance to win some of our hottest products!
+What if you could push your business towards the black, while beating the line on Black Friday? Now you can.
 
 FLEX 5 (15")
 
 Pen-point sensitive touch screen and durable 360 degree hinge.
 
-Boost Your Bottom Line
+Miix 720
 
-What if you could push your business towards the black, while beating the line on Black Friday? Now you can.
+Need productivity on the go? This 2-in-1 can take you there.
 
-Star Wars Jedi Challenges: Begin Your Journey Recommended For You Best Seller ThinkPad X1 Carbon (5th gen)
-
-★★★★★ ★★★★★
-
-3.9
-
-(62)
-
-$1169.25
-
-Shop Now
-
-2901Viewing Best Seller ThinkPad T470 Business Laptop
-
-★★★★★ ★★★★★
-
-3.5
-
-(15)
-
-$783.20
-
-Shop Now
-
-1271Viewing ThinkCentre M710 Tiny Desktop
-
-★★★★★ ★★★★★
-
-0
-
-(0)
-
-$359.20
-
-Shop Now
-
-205Viewing Best Seller ThinkPad X1 Yoga (2nd Gen)
-
-★★★★★ ★★★★★
-
-3.8
-
-(31)
-
-$1401.75
-
-Shop Now
-
-1724Viewing
+C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE!
 
 LAPTOPS
 
@@ -454,7 +409,7 @@ STAY CONNECTED
 *   Flickr
 *   Lenovo Forums
 
-Laptops Tablets Desktops Deals Laptops Tablets Desktops Deals Chat Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium-FrançaisBelgium-DutchBoliviaBotswanaBrazilBulgariaCanada-FrançaisCanada-EnglishChileChinaColombiaCote d'IvoireCroatiaCzech RepublicDenmarkEcuadorEgypt-العربيةEgypt-EnglishEstoniaFinlandFranceGermanyGhanaGreeceHong Kong S.A.R. of China-EnglishHong Kong S.A.R. of China-繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia-العربيةSaudi Arabia-EnglishSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland-GermanSwitzerland-FrenchTaiwanTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates-EnglishUnited Arab Emirates-العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe
+Holiday Laptops Tablets Desktops Deals Holiday Laptops Tablets Desktops Deals Chat Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium-FrançaisBelgium-DutchBoliviaBotswanaBrazilBulgariaCanada-FrançaisCanada-EnglishChileChinaColombiaCote d'IvoireCroatiaCzech RepublicDenmarkEcuadorEgypt-العربيةEgypt-EnglishEstoniaFinlandFranceGermanyGhanaGreeceHong Kong S.A.R. of China-EnglishHong Kong S.A.R. of China-繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia-العربيةSaudi Arabia-EnglishSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland-GermanSwitzerland-FrenchTaiwanTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates-EnglishUnited Arab Emirates-العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe
 
 *   ABOUT LENOVO
     *   Our Company
