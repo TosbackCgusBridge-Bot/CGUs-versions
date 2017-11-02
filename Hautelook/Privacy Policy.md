@@ -8,19 +8,53 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Eliza J &. Gabby Skye Dresses Incl. Special Sizes
-    *   Fall's Best Boots &. Booties
-    *   Belstaff
-    *   Sweaters of the Season: Styles Under $45
-    *   Love + Harmony
+    *   Shinola Watches &. Jewelry
+    *   Trina Turk Swim
+    *   Marc Fisher LTD
+    *   Shinola Handbags
+    *   CeCe by Cynthia Steffe Including Petites
+    *   Riller &. Fount Up to 75% Off
+    *   MUK LUKS
+    *   Men's Cozy Sweaters
+    *   Little Luxuries: Scarves, Hats &. More
+    *   Cold Comfort: Robes, Wraps &. More
+    *   Warm &. Cozy: Dreamers by Debut &. More
+    *   Luxe Coats ft. Trina Turk
+    *   Issue New York
+    *   Saucony
+    *   Perricone MD
+    *   Leibl '38
+    *   Leather Handbags &. Wallets Starting at $20
+    *   Yummie by Heather Thomson
+    *   After Market
+    *   Vintage Havana
+    *   Taylor Says
+    *   MIAMICA: Trendy Travel Accessories
+    *   Japonesque Cosmetics
+    *   Psycho Bunny
+    *   Saucony Men
+    *   K-Swiss
+    *   Shinola Men's Accessories &. More
+    *   Unsimply Stitched Up to 75% Off
+    *   Sleep Tight: Kids' Character PJs
+    *   Saucony Kids
+    *   World Tech Toys: RC Helicopters, Trucks &. More
+    *   Free Shipping: Bathroom Accessories
+    *   Fresh Bathroom Scents by Poo-Pourri
+    *   Storage &. Organization Essentials
+    *   Joie &. Soft Joie
     *   UGG Home
-    *   Nambe
     *   Host Gifts: Quirky Kitchen Towels
+    
     *   Free Shipping: BergHOFF
     *   Free Shipping: Hip Accent Furniture
     *   Free Shipping: Fashion-Forward Art
+    *   Eliza J &. Gabby Skye Dresses Incl. Special Sizes
     *   Cooper &. Ella
+    *   Love + Harmony
     *   LORAC Starting at $10
+    *   Fall's Best Boots &. Booties
+    *   Sweaters of the Season: Styles Under $45
     *   Color Pop: Holiday Statement Jewelry Starting at $15
     *   Furla Handbags
     *   Ro &. De
@@ -31,6 +65,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Korean Beauty: Skinfood
     *   Luz Lashes Up to 60% Off
     *   Chase &. Chloe Starting at $20
+    *   Belstaff
     *   Rush by Gordon Rush
     *   The Fresh Brand Starting at $20
     *   Obey &. More
@@ -38,91 +73,84 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Briggs &. Riley Luggage and More
     *   Boho Looks for Girls ft. Haute Hits
     *   Classic Looks for Baby Up to 70% Off
-    *   Seychelles
-    *   Joie &. Soft Joie
-    *   CURRENT/ELLIOTT
     *   Joie Shoes
     *   Bobbi Brown
-    
-    *   Sea Gypsies
-    *   Sara Boo Up to 70% Off
-    *   OnTwelfth
     *   Peter Millar
     *   Mavi &. More
-    *   DSGN Yoga Under $35 Including Plus
     *   Zachary Prell
-    *   Saachi Jewelry: Leather Wrap Bracelets &. More
     *   Everyday Kitchen Essentials Starting at $10
     *   Hart Schaffner Marx
-    *   Susina and 14th &. Union Shoes
-    *   Anna Footwear Under $35
-    *   Handcrafted in Colombia: Mishky Jewelry
     *   NIGHT Youth-Boosting Pillows
     *   Le Top
-    *   Italian Collection: Totes &. More
     *   Free Shipping: Rugs for Every Room
-    *   NADRI
+    
     *   Get Cozy: Fall Candles
     *   On-Trend Looks: Kids' Bomber Jackets
     *   Happy Socks &. More
-    *   Go Couture Sweater Blowout
     *   Predire Paris Luxury Skin Care Up to 95% Off
-    *   Grayse Up to 80% Off
-    *   Samuel B Jewelry Starting at $20
-    *   Fall Shoe Blowout
-    *   Treasure Hunt: Jewelry Under $80
-    *   Sunglasses We Love Up to 80% Off
     *   Men's Shoes Up to 70% Off
     *   Royale USA Hair Tools Up to 90% Off
     *   Ron Tomson Sportswear Up to 70% Off
     *   Dress Shirts Under $30 ft. Forsyth of Canada
     *   Au Noir
-    *   Mia Belle Girls
-    *   Skechers
-    
-    *   For Little Gentlemen: English Laundry &. More
     *   Fan-Favorite Gifts: Sports Mugs, Decor &. More
-    *   Affliction Men
     *   Alterna Hair Care
-    *   Terre Mere Organic Vegan Beauty Up to 75% Off
+    *   Free Shipping: Bedding Starting at $14
     *   BioMiracle Anti-Aging Skin Care
-    *   Borgo 28 &. More
-    *   X-Ray
-    *   Gordon Rush
-    *   Jachs &. More
     *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Luxuriously Soft Towels
     *   Tech Accessories by Native Union
-    *   BaBylissPRO Hair Tools
-    *   Dynamic Innovation Labs Skin Care Up to 90% Off
-    *   YOSH &. Ineke Fragrances
+    *   Nambe
+    *   CURRENT/ELLIOTT
+    *   Sara Boo Up to 70% Off
+    *   OnTwelfth
+    *   Handcrafted in Colombia: Mishky Jewelry
+    *   Go Couture Sweater Blowout
+    *   Eastland
+    *   Mia Belle Girls
+    *   Free Shipping: Modern Bohemian Decor
+    *   Free Shipping: Luxe Bedding Basics
+    *   Seychelles
+    *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   Eddie Bauer Bedding
     *   Stanley Hydration
     *   Free Shipping: Steam &. Go
     *   Free Shipping: Tailgate Essentials
-    *   Free Shipping: Lighting for the Home
-    *   Free Shipping: Fashion-Forward Rugs
-    *   Free Shipping: Art for Every Room
-    *   Free Shipping: Bedding Starting at $14
-    *   Free Shipping: Wonder Home Bedding &. Curtains
-    *   Pile on the Pillows: Printed Cushions &. More
-    *   Parker
-    *   Wolverine Women's Shoes
-    *   Free Shipping: Luxe Bedding Basics
-    *   Eastland
-    *   Tart Maternity
-    *   Doodle Pants
-    *   Free Shipping: Modern Bohemian Decor
     *   Day to Night: Sheer &. Blackout Curtains
-    *   Free Shipping: Festive Pillows, Decor &. More
+    *   Pile on the Pillows: Printed Cushions &. More
+    *   Free Shipping: Wonder Home Bedding &. Curtains
 *   WomenShop Sale Events
     
+    *   Shinola Watches &. Jewelry
+    *   Trina Turk Swim
+    *   Marc Fisher LTD
+    *   Shinola Handbags
+    *   CeCe by Cynthia Steffe Including Petites
+    *   Riller &. Fount Up to 75% Off
+    *   MUK LUKS
+    *   Little Luxuries: Scarves, Hats &. More
+    *   Cold Comfort: Robes, Wraps &. More
+    *   Warm &. Cozy: Dreamers by Debut &. More
+    *   Luxe Coats ft. Trina Turk
+    *   Issue New York
+    *   Saucony
+    *   Perricone MD
+    *   Leibl '38
+    *   Leather Handbags &. Wallets Starting at $20
+    *   Yummie by Heather Thomson
+    *   After Market
+    *   Vintage Havana
+    *   Taylor Says
+    *   MIAMICA: Trendy Travel Accessories
+    *   Japonesque Cosmetics
+    *   Joie &. Soft Joie
     *   Eliza J &. Gabby Skye Dresses Incl. Special Sizes
+    *   Cooper &. Ella
+    *   Love + Harmony
+    *   LORAC Starting at $10
+    
     *   Fall's Best Boots &. Booties
     *   Sweaters of the Season: Styles Under $45
-    *   Love + Harmony
-    *   Cooper &. Ella
-    *   LORAC Starting at $10
     *   Color Pop: Holiday Statement Jewelry Starting at $15
     *   Furla Handbags
     *   Ro &. De
@@ -134,105 +162,91 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Luz Lashes Up to 60% Off
     *   Chase &. Chloe Starting at $20
     *   Briggs &. Riley Luggage and More
-    *   Seychelles
-    *   Joie &. Soft Joie
-    *   CURRENT/ELLIOTT
     *   Joie Shoes
     *   Bobbi Brown
-    *   Sea Gypsies
-    *   Sara Boo Up to 70% Off
-    *   OnTwelfth
-    
-    *   DSGN Yoga Under $35 Including Plus
-    *   Saachi Jewelry: Leather Wrap Bracelets &. More
-    *   Susina and 14th &. Union Shoes
-    *   Anna Footwear Under $35
-    *   Handcrafted in Colombia: Mishky Jewelry
     *   NIGHT Youth-Boosting Pillows
-    *   Italian Collection: Totes &. More
-    *   NADRI
-    *   Go Couture Sweater Blowout
     *   Predire Paris Luxury Skin Care Up to 95% Off
-    *   Grayse Up to 80% Off
-    *   Samuel B Jewelry Starting at $20
-    *   Fall Shoe Blowout
-    *   Treasure Hunt: Jewelry Under $80
-    *   Sunglasses We Love Up to 80% Off
     *   Royale USA Hair Tools Up to 90% Off
     *   Alterna Hair Care
-    *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   BioMiracle Anti-Aging Skin Care
-    *   BaBylissPRO Hair Tools
-    *   Dynamic Innovation Labs Skin Care Up to 90% Off
-    *   YOSH &. Ineke Fragrances
-    *   Parker
-    *   Wolverine Women's Shoes
-    *   Tart Maternity
+    *   CURRENT/ELLIOTT
+    *   Sara Boo Up to 70% Off
+    *   OnTwelfth
+    *   Handcrafted in Colombia: Mishky Jewelry
+    *   Go Couture Sweater Blowout
+    *   Seychelles
+    *   Terre Mere Organic Vegan Beauty Up to 75% Off
     
     Shop By Category
     *   Clothing
-    *   Jewelry
     *   Shoes
+    *   Jewelry
     *   Handbags
+    *   Lingerie
     *   Accessories
+    *   Watches
     *   Tech Accessories
 *   MenShop Sale Events
     
+    *   Shinola Watches &. Jewelry
+    *   Men's Cozy Sweaters
+    *   Psycho Bunny
+    *   Saucony Men
+    *   K-Swiss
+    *   Shinola Men's Accessories &. More
+    *   Unsimply Stitched Up to 75% Off
     *   Belstaff
     *   Rush by Gordon Rush
     *   The Fresh Brand Starting at $20
     *   Obey &. More
     *   Men's Sun ft. HUGO BOSS
+    
     *   Briggs &. Riley Luggage and More
     *   Peter Millar
     *   Mavi &. More
     *   Zachary Prell
     *   Hart Schaffner Marx
     *   Happy Socks &. More
-    
     *   Men's Shoes Up to 70% Off
     *   Ron Tomson Sportswear Up to 70% Off
     *   Dress Shirts Under $30 ft. Forsyth of Canada
     *   Au Noir
-    *   Affliction Men
-    *   Borgo 28 &. More
-    *   X-Ray
-    *   Gordon Rush
-    *   Jachs &. More
-    *   YOSH &. Ineke Fragrances
     *   Eastland
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Sleep Tight: Kids' Character PJs
+    *   Saucony Kids
+    *   World Tech Toys: RC Helicopters, Trucks &. More
     *   Boho Looks for Girls ft. Haute Hits
     *   Classic Looks for Baby Up to 70% Off
     *   Le Top
     *   On-Trend Looks: Kids' Bomber Jackets
     *   Mia Belle Girls
-    *   Skechers
-    *   For Little Gentlemen: English Laundry &. More
-    *   Tart Maternity
-    *   Doodle Pants
     
     Shop By Category
     *   Girls Sizes 2T-6X
-    *   Baby Boy
-    *   Baby Girl
-    *   Girls Sizes 7-16
-    *   Boys Sizes 8-20
+    *   Toys
     *   Boys Sizes 2T-7
-    *   Girls' Shoes
-    *   Boys' Shoes
+    *   Girls Sizes 7-16
+    *   Baby Girl
+    *   Baby Boy
     *   Kids Accessories
+    *   Boys' Shoes
+    *   Boys Sizes 8-20
+    *   Girls' Shoes
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Bathroom Accessories
+    *   Fresh Bathroom Scents by Poo-Pourri
+    *   Storage &. Organization Essentials
     *   UGG Home
-    *   Nambe
     *   Host Gifts: Quirky Kitchen Towels
     *   Free Shipping: BergHOFF
     *   Free Shipping: Hip Accent Furniture
@@ -241,58 +255,54 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Rugs for Every Room
     *   Get Cozy: Fall Candles
     *   Fan-Favorite Gifts: Sports Mugs, Decor &. More
+    *   Free Shipping: Bedding Starting at $14
+    
     *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Luxuriously Soft Towels
     *   Tech Accessories by Native Union
+    *   Nambe
+    *   Free Shipping: Modern Bohemian Decor
+    *   Free Shipping: Luxe Bedding Basics
     *   Eddie Bauer Bedding
-    
     *   Stanley Hydration
     *   Free Shipping: Steam &. Go
     *   Free Shipping: Tailgate Essentials
-    *   Free Shipping: Lighting for the Home
-    *   Free Shipping: Fashion-Forward Rugs
-    *   Free Shipping: Art for Every Room
-    *   Free Shipping: Bedding Starting at $14
-    *   Free Shipping: Wonder Home Bedding &. Curtains
-    *   Pile on the Pillows: Printed Cushions &. More
-    *   Free Shipping: Luxe Bedding Basics
-    *   Free Shipping: Modern Bohemian Decor
     *   Day to Night: Sheer &. Blackout Curtains
-    *   Free Shipping: Festive Pillows, Decor &. More
+    *   Pile on the Pillows: Printed Cushions &. More
+    *   Free Shipping: Wonder Home Bedding &. Curtains
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
     *   Bedding
+    *   Kitchen &. Tabletop
     *   Bath
+    *   Organization
     *   Outdoor Living
     *   Accent Furniture
     *   Luggage &. Travel
-    *   Organization
     *   Rugs
 *   BeautyShop Sale Events
     
+    *   Perricone MD
+    *   MIAMICA: Trendy Travel Accessories
+    *   Japonesque Cosmetics
     *   LORAC Starting at $10
     *   Korean Beauty: Skinfood
     *   Luz Lashes Up to 60% Off
     *   Bobbi Brown
+    
     *   NIGHT Youth-Boosting Pillows
     *   Predire Paris Luxury Skin Care Up to 95% Off
     *   Royale USA Hair Tools Up to 90% Off
-    
     *   Alterna Hair Care
-    *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   BioMiracle Anti-Aging Skin Care
-    *   BaBylissPRO Hair Tools
-    *   Dynamic Innovation Labs Skin Care Up to 90% Off
-    *   YOSH &. Ineke Fragrances
+    *   Terre Mere Organic Vegan Beauty Up to 75% Off
     
     Shop By Category
-    *   Skin Care
     *   Makeup
+    *   Skin Care
     *   Hair Care
     *   Tools &. Accessories
-    *   Fragrance
     *   Bath &. Body
     *   Nails
 
