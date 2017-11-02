@@ -768,9 +768,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 50% off regular-price kids' styles! And, receive 31% off everything else!
+Today only! Receive 50% off any 1 regular-price item!
 
-code: OCTOBER pin: 3110 DETAILS
+code: WIND pin: 5088 DETAILS
 
 Customer Service Menu
 
