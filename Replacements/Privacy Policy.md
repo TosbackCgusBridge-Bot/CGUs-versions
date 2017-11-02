@@ -155,7 +155,7 @@ Flatware Specials
     *   Yard Sale
     
     *   Dinnerware Sets &. More
-    *   Warehouse SaleShop Our Fall Lookbook >.
+    *   Warehouse SaleShop Our Holiday Lookbook >.
 
 *   Our Story
 *   Services
