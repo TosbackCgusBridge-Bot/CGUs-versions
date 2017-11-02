@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Canonical joins GNOME Foundation Advisory Board ›
 *   Ubuntu Server Development Summary – 31 Oct 2017 ›
 *   Juju GUI: get your users started with getstarted.md ›
 *   MAAS 2.3.0 beta 3 released! ›
 *   LXD Weekly Status #21: Console Attach, Distribution Work, &. More ›
-*   Using snaps to advance robotics development ›
