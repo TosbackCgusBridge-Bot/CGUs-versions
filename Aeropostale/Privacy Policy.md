@@ -4,7 +4,7 @@ Aeropostale
 *   Open submenu ( Guys ) Guys
 *   Open submenu ( Jeans ) Jeans
 *   Open submenu ( Live Love Dream ) Live Love Dream
-*   Open submenu ( Trending ) Trending
+*   Open submenu ( Gifts ) Gifts
 *   Open submenu ( Clearance ) Clearance
 
 *   Help - Live Chat Help - Call Us
@@ -29,9 +29,10 @@ Close submenu ( Girls ) Girls
 Close submenu ( Featured ) Featured
 
 *   View All
+*   Doorbusters
 *   New Arrivals
 *   Jean Guide
-*   The Logo Shop
+*   Logo Shop
 *   Trending
 *   It's Cold Outside
 *   Basic Essentials
@@ -77,8 +78,8 @@ Close submenu ( Guys ) Guys
 
 *   View Home
 *   Open submenu ( Featured ) Featured
-
 *   Clearance
+
 *   Open submenu ( Tops ) Tops
 
 *   Open submenu ( Bottoms ) Bottoms
@@ -88,6 +89,7 @@ Close submenu ( Guys ) Guys
 Close submenu ( Featured ) Featured
 
 *   View All
+*   Doorbusters
 *   New Arrivals
 *   Jean Guide
 *   Trending
@@ -192,39 +194,36 @@ Close submenu ( Bottoms ) Bottoms
 *   Shorts
 *   Sleep Bottoms
 
-Close submenu ( Trending ) Trending
+Close submenu ( Gifts ) Gifts
 
 *   View Home
-*   Open submenu ( Girls ) Girls
+*   Open submenu ( Gifts for Her ) Gifts for Her
 
-*   Open submenu ( Guys ) Guys
+*   Open submenu ( Gifts for Him ) Gifts for Him
 
-*   Open submenu ( Live Love Dream ) Live Love Dream
-
-Close submenu ( Girls ) Girls
+Close submenu ( Gifts for Her ) Gifts for Her
 
 *   View All
-*   Hem Details
-*   Ruffles
-*   Velour + Velvet
-*   The New Denim
-*   It's Cold Outside
-*   Sleeve Detail
+*   Jeans
+*   Hoodies + Sweaters
+*   Comfy Cozy
+*   Must Have Tops
+*   Jackets + Vests
+*   Cold Weather
+*   Stocking Stuffers
+*   Gifts Under $20
 
-Close submenu ( Guys ) Guys
-
-*   View All
-*   The New Denim
-*   Winter Camo
-*   Active
-*   Printed Shirts
-
-Close submenu ( Live Love Dream ) Live Love Dream
+Close submenu ( Gifts for Him ) Gifts for Him
 
 *   View All
-*   Metallic is the New Black
-*   All About That Lace
-*   Mesh Detail
+*   Jeans
+*   Hoodies
+*   Graphic Tees
+*   Shirts
+*   Jackets + Vests
+*   Cold Weather
+*   Stocking Stuffers
+*   Gifts Under $20
 
 Close submenu ( Clearance ) Clearance
 
@@ -277,7 +276,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**FREE SHIPPING ON ALL ORDERS!** + **20% OFF** CODE: **TREAT**
+**50-70% OFF** + **FREE SHIPPING ON ALL JEANS!**
 
 *   My Account My Account Login Register
 
@@ -288,9 +287,10 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Featured
         *   View All
+        *   Doorbusters
         *   New Arrivals
         *   Jean Guide
-        *   The Logo Shop
+        *   Logo Shop
         *   Trending
         *   It's Cold Outside
         *   Basic Essentials
@@ -338,6 +338,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Featured
         *   View All
+        *   Doorbusters
         *   New Arrivals
         *   Jean Guide
         *   Trending
@@ -348,8 +349,8 @@ Menu Find a Store Aeropostale
         *   Back to Basics
         *   Extended Sizes
         *   Uniform
-    
     *   Clearance
+    
     *   Tops
         *   View All
         *   Tees
@@ -428,31 +429,30 @@ Menu Find a Store Aeropostale
     *   Undies
     *   Accessories
     
-*   Trending
+*   Gifts
     
     *   View Home
-    *   Girls
+    *   Gifts for Her
         *   View All
-        *   Hem Details
-        *   Ruffles
-        *   Velour + Velvet
-        *   The New Denim
-        *   It's Cold Outside
-        *   Sleeve Detail
+        *   Jeans
+        *   Hoodies + Sweaters
+        *   Comfy Cozy
+        *   Must Have Tops
+        *   Jackets + Vests
+        *   Cold Weather
+        *   Stocking Stuffers
+        *   Gifts Under $20
     
-    *   Guys
+    *   Gifts for Him
         *   View All
-        *   The New Denim
-        *   Winter Camo
-        *   Active
-        *   Printed Shirts
-        
-    
-    *   Live Love Dream
-        *   View All
-        *   Metallic is the New Black
-        *   All About That Lace
-        *   Mesh Detail
+        *   Jeans
+        *   Hoodies
+        *   Graphic Tees
+        *   Shirts
+        *   Jackets + Vests
+        *   Cold Weather
+        *   Stocking Stuffers
+        *   Gifts Under $20
     
 *   Clearance
     
@@ -501,23 +501,29 @@ Menu Find a Store Aeropostale
 *   Sign Up/Login
 *   Refer a Friend
 
-0 Search Catalog Search Promotions Shop Girls Shop Guys shop girls shop guys
+0 Search Catalog Search Promotions Shop Girls Tops Shop Guys Tops Shop Girls Jeans Shop Guys Jeans shop girls shop guys
 
-*   Joggers + Sweats Starting at $12.00 Shop Guys Shop Girls
-*   Sweaters Starting at $16.00 Shop Girls Shop Guys
-*   Long Sleeve Tees Starting at $6.00 Shop Girls Shop Guys
-*   Hoodies + Sweatshirts Starting at $14.00 Shop Girls Shop Guys
-*   Joggers + Sweats Starting at $12.00 Shop Guys Shop Girls
-*   Sweaters Starting at $16.00 Shop Girls Shop Guys
-*   Long Sleeve Tees Starting at $6.00 Shop Girls Shop Guys
-*   Hoodies + Sweatshirts Starting at $14.00 Shop Girls Shop Guys
+*   Puffer Vests Starting at $17.87 Shop Girls Puffer Vests
+*   Jeggings Starting at $17.87 Shop Jeggings
+*   Tees Starting at $5.87 Shop Girls Graphic Tees
+*   Graphic Tees Starting at $7.87 Shop Guys Graphic Tees
+*   Velour Tops + Bottoms Starting at $9.87 Shop Velour Tops + Bottoms
+*   Polos Starting at $9.87 Shop Guys Polos
+*   Hoodies + Joggers Starting at $11.87 Shop Girls Hoodies + Joggers
+*   Puffer Vests Starting at $17.87 Shop Girls Puffer Vests
+*   Jeggings Starting at $17.87 Shop Jeggings
+*   Tees Starting at $5.87 Shop Girls Graphic Tees
+*   Graphic Tees Starting at $7.87 Shop Guys Graphic Tees
 
 *   1
 *   2
 *   3
 *   4
+*   5
+*   6
+*   7
 
-shop girls jeans shop guys jeans shop girls shop guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+shop girls shop guys shop gifts for her shop gifts for him shop gifts for him <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
@@ -547,6 +553,6 @@ About Us
 Stay Connected
 
 *   Live ChatCall Us
-*   Give $15, Get $15
+*   Refer a Friend
 
 © 2017 Aeropostale. All Rights Reserved.
