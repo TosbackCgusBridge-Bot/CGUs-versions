@@ -11,8 +11,8 @@ VH1 Menu VH1
     *   Black Ink Crew Chicago
     *   Love &. Hip Hop Hollywood
     *   RuPaul's Drag Race All Stars
+    *   Love &. Hip Hop Miami
     *   Hip Hop Squares
-    *   Hip Hop Honors
     *   Brunch With TiffanySee all Shows
 *   News
 *   Digital Originals
@@ -20,7 +20,7 @@ VH1 Menu VH1
 *   TV Provider Sign Out
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z TV Schedule Love &. Hip Hop Scared Famous Martha &. Snoop's Potluck Dinner Party Black Ink Crew Chicago Love &. Hip Hop Hollywood RuPaul's Drag Race All Stars Hip Hop Squares Hip Hop Honors Brunch With Tiffany See all Shows
+*   Shows Full Episodes Shows A-Z TV Schedule Love &. Hip Hop Scared Famous Martha &. Snoop's Potluck Dinner Party Black Ink Crew Chicago Love &. Hip Hop Hollywood RuPaul's Drag Race All Stars Love &. Hip Hop Miami Hip Hop Squares Brunch With Tiffany See all Shows
 *   News
 *   Digital Originals
 *   Watch Live TV
