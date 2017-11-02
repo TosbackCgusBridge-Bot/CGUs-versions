@@ -119,15 +119,15 @@ LATEST ON TWITTER
 
 My week on Twitter : 1 Mention, 239 Mention Reach, 6 Favorited, 6 Retweets, 2.2K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/LPTz…
 
-About 5 hours ago
+Yesterday
 
 Our biggest fans this week: @kerel\_cooper, @Requidan, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/wR3A…
 
-About 16 hours ago
+About 2 days ago
 
 Where is #programmatic heading? Erik @Requidan talks to @LiveIntent about this and more in this month's podcast: blog.liveintent.com/…
 
-About 6 days ago
+Last week
 
 My week on Twitter : 3 Mentions, 16.8K Mention Reach, 3 Favorited, 2 Tweets. See yours with sumall.com/performan… pic.twitter.com/nuSB…
 
