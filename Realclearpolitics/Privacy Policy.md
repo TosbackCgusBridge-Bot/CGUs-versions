@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Paul Sperry_: Robert Mueller's Big Catch Was Low-Level, Unpaid Intern
+*   _Peter Bergen_: In NY, Terrorists' Tactic of Choice Strikes Near Scene of 9/11
     
-*   _Bill Press_: First Stop on a Long Road Ahead: Mueller Lowers the Boom
+*   _Gregg Jarrett_: Still No Trump-Russia 'Collusion,' But Clinton Looks Guilty
     
-*   _Bill McGurn_: Nunes's Intel Committee Plods on With Real Russia Investigation
+*   _David Ignatius_: Mueller Is Unraveling Russian Meddling. Let Him Finish His Job.
     
-*   _Jonathan Chait_: The GOP Is Gearing Up for War on the Rule of Law
+*   _Matthew Walther_: Mueller Is Running Amok
     
-*   _Deroy Murdock_: Republicans Should Cut Taxes Before Thanksgiving
+*   _Victor Joecks_: Obamacare Quadruples Nevada Premiums in 4 Years
     
-*   _Jeffrey Sachs_: The Ominous Absurdity of Trump's Tax Cuts
+*   _Sarah Kliff_: Trump Won't Advertise Obamacare, So Obama Is Stepping In
     
-*   _Jeremy Peters_: Deep in 'The Resistance,' Calif. Conservatives Are Invigorated
+*   _Carrie Severino_: Ongoing Democratic Obstruction Aided by the ABA
     
-*   _Hudson & Tillman_: DC's Lobbyists See Danger in Manafort Indictment
+*   _Brian Beutler_: John Kelly, the Deplorable
     
-*   _Scott Ritter_: The Democratic Law Firm Behind the Russian Collusion Narrative
+*   _Ralph Peters_: Kelly Is Right About Robert E. Lee
     
-*   _Owen Jones_: How Dare You, Kevin Spacey?
+*   _Wallison &. Pinto_: Realtors, Homebuilders Put Profits Over Middle Class
     
-*   _Frank Stephens_: 'I Am A Man With Down Syndrome &. My Life Is Worth Living'
+*   _Semih Idiz_: Saudi Crown Prince Rattles Turkish Islamists
     
-*   _John Cassidy_: Mueller Is Just Beginning to Put the Pressure On
+*   _Miller &. Barron_: Halloween Massacre: Islamic Terror Strikes NYC
     
-*   _Andrew McCarthy_: Manafort Indictment: Much Ado About Not Much
+*   _Graeme Wood_: What the Attack Says About ISIS's Supporters
     
-*   _Caitlin Huey-Burns_: Papadopoulos: Bit Player at Center Stage in Russia Probe
+*   _Roger Simon_: Reform Islam or Live the 'New Normal' Forever
     
-*   _Michelle Goldberg_: The Plot Against America
+*   _Eugene Robinson_: Trump Must Be Wondering Who Else Is Talking to Mueller
     
-*   _Patrick Buchanan_: The Plot to Bring Down Donald Trump
+*   _George Neumayr_: Mueller's Thin Gruel
     
-*   _Ezra Klein_: It's Impossible to Believe Trump Didn't Collude With Russia
+*   _Steve Israel_: Democrats' Big Opportunity From Russia Probe
     
-*   _James Robbins_: Worried About Election Meddling? Dossier Had Most Impact
+*   _K.S. Bruce_: Let's Cut Through the Hypocrisy on Russia &. the Election
     
-*   _Jeet Heer_: Hillary Should Embrace Her Role as Trump's Nemesis
+*   _Paul Starr_: America Needs a Dem Party That Wants Working Class Whites
     
-*   _Victor Davis Hanson_: The Advantages of Liberal Insurance
+*   _Ben Shapiro_: Dems Send America Further Down a Path of Division in Virginia
     
-*   _William Greider_: What Killed the Democratic Party?
+*   _A.B. Stoddard_: Tax Reform May Not Stop the Republican Crack-Up
     
-*   _James Arkin_: Wisconsin a Critical Test for Both Parties in 2018
+*   _Clifford May_: Israel &. the 100-Year-Old Promise
     
-*   _Irwin Stelzer_: Facebook, Google, Amazon: Time to Break Up Big Tech?
+*   _Mahmoud Abbas_: Britain Must Atone for Balfour &. 100 Yrs of Suffering
     
-*   _Clay Travis_: ESPN Is the Sports Version of Blockbuster Video
+*   _Hal Lambert_: Tech Giants Biggest Threat Facing Trump Supporters
     
 
 *   Previous
@@ -252,7 +252,7 @@ RecommendedPolitics
 
 *   Wisconsin Will Be Critical Test for Both Parties in 2018
 *   Papadopoulos: Bit Player at Center Stage in Russia Probe
-*   Sekulow: President Trump Is Not Firing Mueller
+*   Kelly Jokes the Left Wants to Replace Washington With Andy Warhol
 *   Economy Grew at Solid 3% Rate in 3rd Quarter, Despite Storms
 *   Flake Retirement Helps Republicans in Ariz. Senate Race
 *   Presidential Job Approval
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Virginia Governor - Gillespie vs. NorthamWashington Post\*
-    *   Northam49
-    *   Gillespie44Northam +5
+*   New Jersey Governor - Guadagno vs. MurphyMonmouth
+    *   Murphy53
+    *   Guadagno39Murphy +14
+*   President Trump Job ApprovalCBS News
+    *   Approve39
+    *   Disapprove55Disapprove +16
 *   President Trump Job ApprovalGallup
-    *   Approve34
-    *   Disapprove62Disapprove +28
+    *   Approve35
+    *   Disapprove61Disapprove +26
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove54Disapprove +10
-*   President Trump Job ApprovalPPP (D)
-    *   Approve38
-    *   Disapprove56Disapprove +18
+    *   Approve43
+    *   Disapprove55Disapprove +12
 
 More Latest Polls In The News
 
+*   WH Reporter April Ryan to Sarah Huckabee Sanders: Does Trump Administration Support Slavery?
+*   President Trump: "I Am Today Starting The Process Of Terminating The Diversity Lottery Program"
+*   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
 *   Bernie Sanders: "Americans Are Not Staying Up Every Day Worrying About Russia's Interference In Our Election"
 *   Tim Kaine: "Apparently Some Funds" For Steele Dossier Were "Paid For By The Clinton Campaign"
-*   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   McCain: "We Are Asleep In Our Echo Chambers" Blinded By "Propaganda And Conspiracy Theories"
-*   CNN's Jim Acosta to Sarah Sanders: "How Is It Not Collusion" When Papadopoulos Promised Dirt On Clinton?
 
 *   Politics
 *   Policy
@@ -313,28 +313,4 @@ More Latest Polls In The News
 *   RSS
 *   View Mobile Site
 
-Copyright © 2017 RealClearHoldings, LLC. ©2017 RealClearPolitics | Go to full site <img src="http://b.scorecardresearch.com/p?c1=2&c2=6872493&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>. Sign Up For RC Newsletters
-
-*   RealClear Originals✓
-*   Carl M. Cannon's Morning Note✓
-*   RCP Daily Poll Wrap-Up✓
-*   RCP Today ✓
-*   RCP Morning Reel✓
-*   RCP Events✓
-*   RCD Morning Recon ✓
-*   Science News✓
-*   RealClearEnergy Morning Volt✓
-*   World News✓
-*   Education Today✓
-*   RealClearHealth Morning Scan✓
-*   Europe Memo✓
-*   Mideast Memo✓
-*   Weekly Policy Picks✓
-*   RealClearPolicy Today✓
-*   RealClearReligion Today✓
-*   RealClearBooks Today✓
-*   RealClearHistory Today✓
-*   RealClearMarkets Today✓
-*   RealClearInvestigations Today✓
-
-Receive emails about new products &. services? Receive emails from partners &. advertisers?
+Copyright © 2017 RealClearHoldings, LLC. ©2017 RealClearPolitics | Go to full site <img src="http://b.scorecardresearch.com/p?c1=2&c2=6872493&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
