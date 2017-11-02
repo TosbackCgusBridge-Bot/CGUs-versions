@@ -123,55 +123,59 @@ Sony on YouTube - Expanding Human Possibility Through the Power of Robotics
 
 Play Expanding Human Possibility Through the Power of Robotics Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/Shibuya-City-Race-600x600.jpg);" alt="Shibuya-City-Games">. On “Hotel Transylvania: The Series”
+<img class="bg-img" class="url(/en\_us/media/content/Shibuya-City-Race-600x600.jpg);" alt="Shibuya-City-Games">. The LAPD Has a New Leader
 
-The Monsters Go Trick-or-Treating
+Watch “S.W.A.T” This Week
 
 Close
 
-*   Share On “Hotel Transylvania: The Series” on Facebook
-*   Share On “Hotel Transylvania: The Series” on Twitter
-*   Copy URL to share On “Hotel Transylvania: The Series”
+*   Share The LAPD Has a New Leader on Facebook
+*   Share The LAPD Has a New Leader on Twitter
+*   Copy URL to share The LAPD Has a New Leader
 
-Play On “Hotel Transylvania: The Series” Video
+Play The LAPD Has a New Leader Video
 
-Sony on YouTube - On “Hotel Transylvania: The Series”
+Sony on YouTube - The LAPD Has a New Leader
 
-Play On “Hotel Transylvania: The Series” Video hotspot
+Play The LAPD Has a New Leader Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/HotelTransylvania-v2-600x600.jpg);" alt="Hotel-Transylvania-Series-Halloween-Special">.
+<img class="bg-img" class="url(/en\_us/media/content/SWAT-600x600.jpg);" alt="SWAT-Trailer">.
 
-View When In Doubt, Wear Red on Instagram
+View Always ready to help. (Google Assistant Built-in Wireless Speaker) on Instagram
 
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/22580562\_147212832557339\_6011370702907637760\_n.jpg);" alt="">.
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/22581825\_148972942509660\_4207276051069403136\_n.jpg);" alt="">.
 
-There's never been a better time to be an undead farm animal! Goat Simulator: GoatZ now off at PS Store.
+LEMON is out now! Watch @NeRdArMy's tutorial featuring @rihanna.
 
-9 days ago
+23 hours ago
 
 View Tweet
 
-Make It a “Thriller” Night With
+Our Best Friend Returns
 
-Michael Jackson’s “Scream”
+Meet the New Aibo
 
 Close
 
-*   Share Make It a “Thriller” Night With on Facebook
-*   Share Make It a “Thriller” Night With on Twitter
-*   Copy URL to share Make It a “Thriller” Night With
+*   Share Our Best Friend Returns on Facebook
+*   Share Our Best Friend Returns on Twitter
+*   Copy URL to share Our Best Friend Returns
 
-Michael Jackson’s “Scream”
+Meet the New Aibo
 
-<img class="bg-img" class="url(/en\_us/media/content/Michael-Jackson-Scream-600x600\_4FcvShV.jpg);" alt="Michael-Jackson-Scream-Album">. Close
+<img class="bg-img" class="url(/en\_us/media/content/Aibo-600x600v3\_4yhh2RB.jpg);" alt="Aibo-Announcement ">. Earn Sony Rewards Points to Get Access to Exclusive Experiences
 
-*   Share Add Some Fright to Your Gaming on Facebook
-*   Share Add Some Fright to Your Gaming on Twitter
-*   Copy URL to share Add Some Fright to Your Gaming
+Learn More About the New Sony Card℠
 
-This Halloween
+Close
 
-<img class="bg-img" class="url(/en\_us/media/content/Sony\_Halloween\_BatController\_b9Qycra.png);" alt="PlayStation-Halloween-Batman-Controller">. Get the Inside Scoop on How “The Good Doctor” Was Created
+*   Share Earn Sony Rewards Points to Get Access to Exclusive Experiences on Facebook
+*   Share Earn Sony Rewards Points to Get Access to Exclusive Experiences on Twitter
+*   Copy URL to share Earn Sony Rewards Points to Get Access to Exclusive Experiences
+
+Learn More About the New Sony Card℠
+
+<img class="bg-img" class="url(/en\_us/media/content/SonyCard-600x600\_UZUK9jV.jpg);" alt="Sony Card">. Get the Inside Scoop on How “The Good Doctor” Was Created
 
 Then Watch It Mondays 10/9c on ABC
 
@@ -187,7 +191,143 @@ Sony on YouTube - Get the Inside Scoop on How “The Good Doctor” Was Created
 
 Play Get the Inside Scoop on How “The Good Doctor” Was Created Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/TheGoodDoctorStoriesVideo-600x600.jpg);" alt="The-Good-Doctor-Stories-Video">. Ready to Capture Your Vision at Every Angle
+<img class="bg-img" class="url(/en\_us/media/content/TheGoodDoctorStoriesVideo-600x600.jpg);" alt="The-Good-Doctor-Stories-Video">. Call of Duty® Fans Know That
+
+Everything Is Better in Camo
+
+Close
+
+*   Share Call of Duty® Fans Know That on Facebook
+*   Share Call of Duty® Fans Know That on Twitter
+*   Copy URL to share Call of Duty® Fans Know That
+
+Everything Is Better in Camo
+
+<img class="bg-img" class="url(/en\_us/media/content/CODWWIIBundle-600x600\_TUnViFC.jpg);" alt="Call-of-Duty-PS4-Bundle">. It's Never Too Young
+
+To Start Gaming
+
+Close
+
+*   Share It's Never Too Young on Facebook
+*   Share It's Never Too Young on Twitter
+*   Copy URL to share It's Never Too Young
+
+To Start Gaming
+
+<img class="bg-img" class="url(/en\_us/media/content/Mini-Wired-Gamepad-600x600\_kx8J9kw.jpg);" alt="PS4-Mini-Wired-Gamepad">.
+
+View Platinum Headphones on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/16123861\_1708335559477461\_5514599993584910336\_n.jpg);" alt="">.
+
+Why War Mode is a bold step forward for Call of Duty: WWII’s competitive MP.
+
+56 minutes ago
+
+View Tweet
+
+Fight Your Way Across Europe
+
+In the Newest Call of Duty®
+
+Close
+
+*   Share Fight Your Way Across Europe on Facebook
+*   Share Fight Your Way Across Europe on Twitter
+*   Copy URL to share Fight Your Way Across Europe
+
+Play Fight Your Way Across Europe Video
+
+Sony on YouTube - Fight Your Way Across Europe
+
+Play Fight Your Way Across Europe Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/Call-of-Duty-Story-Trailer-600x600.jpg);" alt="Call-of-Duty-Story-Trailer">. Developers On Bringing the Epic Battles of the Second World War to Life
+
+Play “Call of Duty®: WWII” on PS4™ This Week
+
+Close
+
+*   Share Developers On Bringing the Epic Battles of the Second World War to Life on Facebook
+*   Share Developers On Bringing the Epic Battles of the Second World War to Life on Twitter
+*   Copy URL to share Developers On Bringing the Epic Battles of the Second World War to Life
+
+Play Developers On Bringing the Epic Battles of the Second World War to Life Video
+
+Sony on YouTube - Developers On Bringing the Epic Battles of the Second World War to Life
+
+Play Developers On Bringing the Epic Battles of the Second World War to Life Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/Call-of-Duty-BTS-Video-600x600.jpg);" alt="Call-of-Duty-WWII-BTS-Video">. Have New Adventures—and Fight New Beasts—With Aloy
+
+Get “Horizon Zero Dawn: The Frozen Wilds”
+
+Close
+
+*   Share Have New Adventures—and Fight New Beasts—With Aloy on Facebook
+*   Share Have New Adventures—and Fight New Beasts—With Aloy on Twitter
+*   Copy URL to share Have New Adventures—and Fight New Beasts—With Aloy
+
+Play Have New Adventures—and Fight New Beasts—With Aloy Video
+
+Sony on YouTube - Have New Adventures—and Fight New Beasts—With Aloy
+
+Play Have New Adventures—and Fight New Beasts—With Aloy Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/HZD-Frozen-Wilds-600x600.jpg);" alt="Horizon-Zero-Dawn-The-Frozen-Wilds">. Watch Pink’s Striking Video for “What About Us”
+
+From Her New Album “Beautiful Trauma”
+
+Close
+
+*   Share Watch Pink’s Striking Video for “What About Us” on Facebook
+*   Share Watch Pink’s Striking Video for “What About Us” on Twitter
+*   Copy URL to share Watch Pink’s Striking Video for “What About Us”
+
+Play Watch Pink’s Striking Video for “What About Us” Video
+
+Sony on YouTube - Watch Pink’s Striking Video for “What About Us”
+
+Play Watch Pink’s Striking Video for “What About Us” Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/Pink-600x600.jpg);" alt="Pink-What-About-Us-Video">. The New Sound Bar: Cinematic Sound Quality
+
+In a Compact Design
+
+Close
+
+*   Share The New Sound Bar: Cinematic Sound Quality on Facebook
+*   Share The New Sound Bar: Cinematic Sound Quality on Twitter
+*   Copy URL to share The New Sound Bar: Cinematic Sound Quality
+
+In a Compact Design
+
+<img class="bg-img" class="url(/en\_us/media/content/HT-MT300-Soundbar-600x600.jpg);" alt="Soundbar HT-MT500">.
+
+View When In Doubt, Wear Red on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/22580562\_147212832557339\_6011370702907637760\_n.jpg);" alt="">.
+
+Beginning this Friday, experience the Best Place to Play at #SonySquareNYC.
+
+21 hours ago
+
+View Tweet
+
+Audiophiles: Feel
+
+Hi-Res Sound
+
+Close
+
+*   Share Audiophiles: Feel on Facebook
+*   Share Audiophiles: Feel on Twitter
+*   Copy URL to share Audiophiles: Feel
+
+Hi-Res Sound
+
+<img class="bg-img" class="url(/en\_us/media/content/MDR-Z1R-Headphones-600x600\_g1ti1Tc.jpg);" alt="MDR-Z1R-Headphones">. Ready to Capture Your Vision at Every Angle
 
 Check Out the RX0 Ultra-Compact Camera
 
@@ -199,159 +339,7 @@ Close
 
 Check Out the RX0 Ultra-Compact Camera
 
-<img class="bg-img" class="url(/en\_us/media/content/RX0-600x600\_q0A2Uol.jpg);" alt="RX0-Camera">. Your Own Personal Google
-
-In a Wireless Speaker
-
-Close
-
-*   Share Your Own Personal Google on Facebook
-*   Share Your Own Personal Google on Twitter
-*   Copy URL to share Your Own Personal Google
-
-In a Wireless Speaker
-
-<img class="bg-img" class="url(/en\_us/media/content/BluetoothSpeaker-600x600\_v2\_bOKig0k.jpg);" alt="Google-Assistant-Built-in-Wireless-Speaker">.
-
-View Ride the Wave on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/21984578\_275832516239311\_6642716511574163456\_n.jpg);" alt="">.
-
-We asked the cast &. crew of #OnlyTheBrave about working with a totally uncontrollable character like fire.
-
-7 days ago
-
-View Tweet
-
-Every Note Becomes Wow With High Resolution Audio
-
-Learn More About the Xperia XZ1 Compact
-
-Close
-
-*   Share Every Note Becomes Wow With High Resolution Audio on Facebook
-*   Share Every Note Becomes Wow With High Resolution Audio on Twitter
-*   Copy URL to share Every Note Becomes Wow With High Resolution Audio
-
-Play Every Note Becomes Wow With High Resolution Audio Video
-
-Sony on YouTube - Every Note Becomes Wow With High Resolution Audio
-
-Play Every Note Becomes Wow With High Resolution Audio Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/XZ1\_hi-res-600x600.jpg);" alt="Mobile-Hi-Res-Video">. Travel to Ancient Egypt to See Where the Brotherhood Began
-
-Play “Assassin’s Creed Origins” on PS4™ This Week
-
-Close
-
-*   Share Travel to Ancient Egypt to See Where the Brotherhood Began on Facebook
-*   Share Travel to Ancient Egypt to See Where the Brotherhood Began on Twitter
-*   Copy URL to share Travel to Ancient Egypt to See Where the Brotherhood Began
-
-Play Travel to Ancient Egypt to See Where the Brotherhood Began Video
-
-Sony on YouTube - Travel to Ancient Egypt to See Where the Brotherhood Began
-
-Play Travel to Ancient Egypt to See Where the Brotherhood Began Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/AssassinsCreed-600x600.jpg);" alt="Assassins-Creed-Origins-Trailer">. Test Out Our Latest Cameras, and Learn Some New Photography Skills
-
-At Sony Square NYC
-
-Close
-
-*   Share Test Out Our Latest Cameras, and Learn Some New Photography Skills on Facebook
-*   Share Test Out Our Latest Cameras, and Learn Some New Photography Skills on Twitter
-*   Copy URL to share Test Out Our Latest Cameras, and Learn Some New Photography Skills
-
-At Sony Square NYC
-
-<img class="bg-img" class="url(/en\_us/media/content/PushingTheLensSSNYC-600x600.jpg);" alt="Pushing the Lens at Sony Square NYC">. Watch the PlayStation Underground Crew Race in “Gran Turismo Sport”
-
-Now Available on PS4™
-
-Close
-
-*   Share Watch the PlayStation Underground Crew Race in “Gran Turismo Sport” on Facebook
-*   Share Watch the PlayStation Underground Crew Race in “Gran Turismo Sport” on Twitter
-*   Copy URL to share Watch the PlayStation Underground Crew Race in “Gran Turismo Sport”
-
-Play Watch the PlayStation Underground Crew Race in “Gran Turismo Sport” Video
-
-Sony on YouTube - Watch the PlayStation Underground Crew Race in “Gran Turismo Sport”
-
-Play Watch the PlayStation Underground Crew Race in “Gran Turismo Sport” Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/GT-Sport-600x600.jpg);" alt="Gran-Turismo-Sport-Trailer">. “Whoa, You’ve Gotta Try This”
-
-Find Your Moment
-
-Close
-
-*   Share “Whoa, You’ve Gotta Try This” on Facebook
-*   Share “Whoa, You’ve Gotta Try This” on Twitter
-*   Copy URL to share “Whoa, You’ve Gotta Try This”
-
-Play “Whoa, You’ve Gotta Try This” Video
-
-Sony on YouTube - “Whoa, You’ve Gotta Try This”
-
-Play “Whoa, You’ve Gotta Try This” Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/InnovationDesignGTSportVideo-600x600.jpg);" alt="Innovation-Design-Vignette-PlayStation">.
-
-View Platinum Headphones on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/16123861\_1708335559477461\_5514599993584910336\_n.jpg);" alt="">.
-
-We're one week away! PlayStation Live From Paris Games Week begins at 8AM Pacific on October 30.
-
-7 days ago
-
-View Tweet
-
-Immerse Yourself
-
-In Gaming
-
-Close
-
-*   Share Immerse Yourself on Facebook
-*   Share Immerse Yourself on Twitter
-*   Copy URL to share Immerse Yourself
-
-In Gaming
-
-<img class="bg-img" class="url(/en\_us/media/content/psvr-600x600\_4.jpg);" alt="PS VR">. See the Cars and Tracks of “Gran Turismo Sport”
-
-A PlayStation Exclusive
-
-Close
-
-*   Share See the Cars and Tracks of “Gran Turismo Sport” on Facebook
-*   Share See the Cars and Tracks of “Gran Turismo Sport” on Twitter
-*   Copy URL to share See the Cars and Tracks of “Gran Turismo Sport”
-
-A PlayStation Exclusive
-
-<img class="bg-img" class="url(/en\_us/media/content/GTSportPSBlogPost-600x600\_D8Gw4G9.jpg);" alt="Gran-Turismo-Sport-PS-Blog-Post">. A Vision of the Future Made Possible Every Day
-
-Feel the Sony Beyond
-
-Close
-
-*   Share A Vision of the Future Made Possible Every Day on Facebook
-*   Share A Vision of the Future Made Possible Every Day on Twitter
-*   Copy URL to share A Vision of the Future Made Possible Every Day
-
-Play A Vision of the Future Made Possible Every Day Video
-
-Sony on YouTube - A Vision of the Future Made Possible Every Day
-
-Play A Vision of the Future Made Possible Every Day Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/BR2049-HP-600x600.jpg);" alt="Blade Runner campaign video">.
+<img class="bg-img" class="url(/en\_us/media/content/RX0-600x600\_q0A2Uol.jpg);" alt="RX0-Camera">.
 
 Load More
 
