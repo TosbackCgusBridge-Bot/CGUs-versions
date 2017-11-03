@@ -49,7 +49,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     
     SHOP NEW COLLECTIONS
     
-    *   Pink Thread
     *   Girls' Winter Collections
     *   Boys' Winter Collections
     
@@ -65,6 +64,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Holiday Dressing
     *   Gifts For Her
     *   The Starfish Collection
+    *   Wise Buys
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -127,6 +127,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Flannel Favorites
     *   Shirt Finder
     *   Squall System Builder
+    *   Wise Buys
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -189,7 +190,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Girls' Knit Kit
     *   Boys Winter Collections
     *   Girls Winter Collections
-    *   Backpacks &. Lunch Boxes
+    *   Wise Buys
     *   Sale
     
     SHOP BY AGE RANGE
@@ -320,6 +321,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Flannel Bedding
     *   The Best of Kids Home
     *   Stockings and Holders
+    *   Wise Buys
     *   Sale
     
     More for the Home >.
@@ -395,7 +397,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Resort
     *   SHOP NEW COLLECTIONS
         *   Back
-        *   Pink Thread
         *   Girls' Winter Collections
         *   Boys' Winter Collections
     *   BLOG
@@ -419,6 +420,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Holiday Dressing
         *   Gifts For Her
         *   The Starfish Collection
+        *   Wise Buys
         *   Sale
     *   SHOP BY SIZE RANGE
         *   Back
@@ -478,6 +480,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Flannel Favorites
         *   Shirt Finder
         *   Squall System Builder
+        *   Wise Buys
         *   Sale
     *   SHOP BY SIZE RANGE
         *   Back
@@ -537,7 +540,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Girls' Knit Kit
         *   Boys Winter Collections
         *   Girls Winter Collections
-        *   Backpacks &. Lunch Boxes
+        *   Wise Buys
         *   Sale
     *   SHOP BY AGE RANGE
         *   Back
@@ -675,6 +678,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Flannel Bedding
         *   The Best of Kids Home
         *   Stockings and Holders
+        *   Wise Buys
         *   Sale
     *   More for the Home
         *   Back
@@ -768,9 +772,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Today only! Receive 50% off any 1 regular-price item!
+Receive 40% off your order!
 
-code: WIND pin: 5088 DETAILS
+code: FRIENDS pin: 3418 DETAILS
 
 Customer Service Menu
 
