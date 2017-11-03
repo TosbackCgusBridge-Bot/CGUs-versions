@@ -21,7 +21,7 @@
     *   Indonesia
     *   Israel
     *   Japan
-    *   Kazakhstan
+    *   Kazakhstan (RU)
     *   Korea
     
     *   Malaysia
@@ -39,7 +39,7 @@
     *   Vietnam
 *   Australasia
     *   Australia
-    *   New Zealand
+    *   New Zealand (EN)
 *   Europe
     
     *   Albania
