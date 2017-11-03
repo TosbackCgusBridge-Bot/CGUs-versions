@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Report: American fisheries remain a strong economic driver U.S. imported more seafood in 2016, much of that farm-raised AROUND NOAA // Federal collaboration yields radar coverage for Puerto Rico, USVI in wake of Hurricane Maria Every Full Moon video series: Watch 'Creep into the deep sea' NOAA and partners assess Hurricane Irma damage to Florida coral reefs
+Enter Search Terms Warm air helped keep 2017 Antarctic ozone hole smallest in 29 years AROUND NOAA // Weather readiness depends on more than just a good forecast Report: American fisheries remain a strong economic driver Federal collaboration yields radar coverage for Puerto Rico, USVI in wake of Hurricane Maria
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock
+NOAA
