@@ -109,7 +109,7 @@ Get the Details
 
 <img class="bg-img" class="url(/en\_us/media/content/a7RM3-600x600.jpg);" alt="a7R III camera ">. Expanding Human Possibility Through the Power of Robotics
 
-Learn More About the Shibuya City Games
+Find Out About the Shibuya City Games
 
 Close
 
@@ -151,17 +151,17 @@ LEMON is out now! Watch @NeRdArMy's tutorial featuring @rihanna.
 
 View Tweet
 
-Our Best Friend Returns
+A New Story Begins
 
-Meet the New Aibo
+With Aibo
 
 Close
 
-*   Share Our Best Friend Returns on Facebook
-*   Share Our Best Friend Returns on Twitter
-*   Copy URL to share Our Best Friend Returns
+*   Share A New Story Begins on Facebook
+*   Share A New Story Begins on Twitter
+*   Copy URL to share A New Story Begins
 
-Meet the New Aibo
+With Aibo
 
 <img class="bg-img" class="url(/en\_us/media/content/Aibo-600x600v3\_4yhh2RB.jpg);" alt="Aibo-Announcement ">. Earn Sony Rewards Points to Get Access to Exclusive Experiences
 
@@ -223,7 +223,7 @@ View Platinum Headphones on Instagram
 
 Why War Mode is a bold step forward for Call of Duty: WWII’s competitive MP.
 
-56 minutes ago
+1 day ago
 
 View Tweet
 
