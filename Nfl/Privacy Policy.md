@@ -1,4 +1,3 @@
-*   BUF5-2NYJ3-5Thu 8:25 PM ET
 *   ATL4-3CAR5-3Sun 1:00 PM ET
 *   IND2-6HOU3-4Sun 1:00 PM ET
 *   CIN3-4JAX4-3Sun 1:00 PM ET
@@ -11,6 +10,7 @@
 *   KC6-2DAL4-3Sun 4:25 PM ET
 *   OAK3-5MIA4-3Sun 8:30 PM ET
 *   DET3-4GB4-3Mon 8:30 PM ET
+*   BUF5-321NYJ4-534Final
 
 *   News
 *   Scores
@@ -28,7 +28,6 @@
 *   NFL Network
 *   Photos
 
-*   BUF5-2NYJ3-5Thu 8:25 PM ET
 *   ATL4-3CAR5-3Sun 1:00 PM ET
 *   IND2-6HOU3-4Sun 1:00 PM ET
 *   CIN3-4JAX4-3Sun 1:00 PM ET
@@ -41,6 +40,7 @@
 *   KC6-2DAL4-3Sun 4:25 PM ET
 *   OAK3-5MIA4-3Sun 8:30 PM ET
 *   DET3-4GB4-3Mon 8:30 PM ET
+*   BUF21NYJ34Final
 
 *   News
 *   Scores
