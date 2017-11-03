@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Foundations Development Summary: November 2, 2017 ›
+*   Security Team Weekly Summary: November 2, 2017 ›
+*   PT Biznet Gio Nusantara Launches NEO Cloud with Canonical BootStack ›
+*   Launching Fingbox: from idea to distribution in under a year ›
 *   Canonical joins GNOME Foundation Advisory Board ›
-*   Ubuntu Server Development Summary – 31 Oct 2017 ›
-*   Juju GUI: get your users started with getstarted.md ›
-*   MAAS 2.3.0 beta 3 released! ›
-*   LXD Weekly Status #21: Console Attach, Distribution Work, &. More ›
