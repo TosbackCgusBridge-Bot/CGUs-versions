@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Peter Bergen_: In NY, Terrorists' Tactic of Choice Strikes Near Scene of 9/11
+*   _James Arkin_: House GOP Unveils Sweeping Tax Plan, But Obstacles Remain
     
-*   _Gregg Jarrett_: Still No Trump-Russia 'Collusion,' But Clinton Looks Guilty
+*   _Nicholas Kristof_: Robert Mueller in the Cross Hairs
     
-*   _David Ignatius_: Mueller Is Unraveling Russian Meddling. Let Him Finish His Job.
+*   _Conrad Black_: Time for Truth: Focus of Russia Probe Should Be on Clinton
     
-*   _Matthew Walther_: Mueller Is Running Amok
+*   _Carter Eskew_: Can Northam Hold Off Gillespie's Surge in Virginia?
     
-*   _Victor Joecks_: Obamacare Quadruples Nevada Premiums in 4 Years
+*   _Mohamed El-Erian_: Jerome Powell Brings Continuity &. Experience to Fed
     
-*   _Sarah Kliff_: Trump Won't Advertise Obamacare, So Obama Is Stepping In
+*   _Sean Illing_: We're Becoming Numb to Terrorism. That Might Be a Good Thing
     
-*   _Carrie Severino_: Ongoing Democratic Obstruction Aided by the ABA
+*   _Andrew McCarthy_: The West Side Highway Jihad &. 'Extreme Vetting'
     
-*   _Brian Beutler_: John Kelly, the Deplorable
+*   _Pat Garofalo_: Tax Cuts in Search of a Problem
     
-*   _Ralph Peters_: Kelly Is Right About Robert E. Lee
+*   _Stephen Moore_: Five Reasons to Hate the Tax Code as Is
     
-*   _Wallison &. Pinto_: Realtors, Homebuilders Put Profits Over Middle Class
+*   _Bryce Covert_: How Corporations Create a Culture of Impunity for Harassers
     
-*   _Semih Idiz_: Saudi Crown Prince Rattles Turkish Islamists
+*   _Lawrence Haas_: A Time to Celebrate Israel
     
-*   _Miller &. Barron_: Halloween Massacre: Islamic Terror Strikes NYC
+*   _Robert Draper_: A Post-Obama Democratic Party in Search of Itself
     
-*   _Graeme Wood_: What the Attack Says About ISIS's Supporters
+*   _Edward-Isaac Dovere_: Nancy Pelosi Has Trump Right Where She Wants Him
     
-*   _Roger Simon_: Reform Islam or Live the 'New Normal' Forever
+*   _Seth Barron_: Dems' Willful Inversion of Reality on Terrorism
     
-*   _Eugene Robinson_: Trump Must Be Wondering Who Else Is Talking to Mueller
+*   _Simon Jenkins_: Trump's Reaction to Terror? To Make U.S. Terrified Again
     
-*   _George Neumayr_: Mueller's Thin Gruel
+*   _Roger Kimball_: Mueller Serves Up a Nothing Burger With Wheeze
     
-*   _Steve Israel_: Democrats' Big Opportunity From Russia Probe
+*   _Paul Waldman_: What Trump Is Really Afraid That Mueller Will Find
     
-*   _K.S. Bruce_: Let's Cut Through the Hypocrisy on Russia &. the Election
+*   _Donna Brazile_: Inside Hillary Clinton's Secret Takeover of the DNC
     
-*   _Paul Starr_: America Needs a Dem Party That Wants Working Class Whites
+*   _Ed Rogers_: Democrats' Suicidal Addiction to Racial Identity Politics
     
-*   _Ben Shapiro_: Dems Send America Further Down a Path of Division in Virginia
+*   _Mary Curtis_: Did the Entire White House Take a Nap During History Class?
     
-*   _A.B. Stoddard_: Tax Reform May Not Stop the Republican Crack-Up
+*   _Rep. Kevin McCarthy_: U.S. Tax Reform Will Boost Innovation &. Entrepreneurship
     
-*   _Clifford May_: Israel &. the 100-Year-Old Promise
+*   _Roger Ferguson_: Trump Tax Plan's Gimmick Is Only a Short-Term Fix
     
-*   _Mahmoud Abbas_: Britain Must Atone for Balfour &. 100 Yrs of Suffering
+*   _Sen. Elizabeth Warren_: The Supreme Court Has An Ethics Problem
     
-*   _Hal Lambert_: Tech Giants Biggest Threat Facing Trump Supporters
+*   _Adam White_: Beware the ABA's Own Version of 'Judicial Activism'
     
 
 *   Previous
@@ -251,9 +251,9 @@ RecommendedPolitics
 *   Investigations
 
 *   Wisconsin Will Be Critical Test for Both Parties in 2018
+*   Trump Demands "Much Tougher" Immigration Law After NY Attack
+*   Justice Thomas: We're Getting Comfortable in Society Limiting Ideas
 *   Papadopoulos: Bit Player at Center Stage in Russia Probe
-*   Kelly Jokes the Left Wants to Replace Washington With Andy Warhol
-*   Economy Grew at Solid 3% Rate in 3rd Quarter, Despite Storms
 *   Flake Retirement Helps Republicans in Ariz. Senate Race
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   New Jersey Governor - Guadagno vs. MurphyMonmouth
-    *   Murphy53
-    *   Guadagno39Murphy +14
-*   President Trump Job ApprovalCBS News
-    *   Approve39
-    *   Disapprove55Disapprove +16
+*   Virginia Governor - Gillespie vs. NorthamSuffolk\*
+    *   Northam47
+    *   Gillespie43Northam +4
+*   President Trump Job ApprovalPew Research
+    *   Approve34
+    *   Disapprove59Disapprove +25
 *   President Trump Job ApprovalGallup
-    *   Approve35
-    *   Disapprove61Disapprove +26
+    *   Approve38
+    *   Disapprove58Disapprove +20
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve43
-    *   Disapprove55Disapprove +12
+    *   Disapprove56Disapprove +13
 
 More Latest Polls In The News
 
-*   WH Reporter April Ryan to Sarah Huckabee Sanders: Does Trump Administration Support Slavery?
-*   President Trump: "I Am Today Starting The Process Of Terminating The Diversity Lottery Program"
+*   Trump Full Interview With Ingraham: Dossier, Justice Department, Immigration, DNC Primary &. Sanders
+*   Clinton: There Is A Difference Between Paying For Trump Dossier And "Collusion" With Russia
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Bernie Sanders: "Americans Are Not Staying Up Every Day Worrying About Russia's Interference In Our Election"
-*   Tim Kaine: "Apparently Some Funds" For Steele Dossier Were "Paid For By The Clinton Campaign"
+*   Clarence Thomas Full Interview: "We're Getting Quite Comfortable In Our Society Limiting Ideas"
+*   DNC Chair Ignores Donna Brazile's Allegation That Hillary "Rigged" 2016 Primary: "We're Moving Forward"
 
 *   Politics
 *   Policy
@@ -313,4 +313,28 @@ More Latest Polls In The News
 *   RSS
 *   View Mobile Site
 
-Copyright © 2017 RealClearHoldings, LLC. ©2017 RealClearPolitics | Go to full site <img src="http://b.scorecardresearch.com/p?c1=2&c2=6872493&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
+Copyright © 2017 RealClearHoldings, LLC. ©2017 RealClearPolitics | Go to full site <img src="http://b.scorecardresearch.com/p?c1=2&c2=6872493&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>. Sign Up For RC Newsletters
+
+*   RealClear Originals✓
+*   Carl M. Cannon's Morning Note✓
+*   RCP Daily Poll Wrap-Up✓
+*   RCP Today ✓
+*   RCP Morning Reel✓
+*   RCP Events✓
+*   RCD Morning Recon ✓
+*   Science News✓
+*   RealClearEnergy Morning Volt✓
+*   World News✓
+*   Education Today✓
+*   RealClearHealth Morning Scan✓
+*   Europe Memo✓
+*   Mideast Memo✓
+*   Weekly Policy Picks✓
+*   RealClearPolicy Today✓
+*   RealClearReligion Today✓
+*   RealClearBooks Today✓
+*   RealClearHistory Today✓
+*   RealClearMarkets Today✓
+*   RealClearInvestigations Today✓
+
+Receive emails about new products &. services? Receive emails from partners &. advertisers?
