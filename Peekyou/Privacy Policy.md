@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 21%  2% 
+What is PeekScore? Public Records &. Background Checks 7%  2% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 21%  2% 
     
 *   Show Less ...
 
-21%  21%  Arrest Records &. Driving Infractions
+7%  7%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 21%  Twitter 2% 
+Facebook 6%  Twitter 1% 
 
 *   OAIC - OAICgov
     
@@ -199,7 +199,7 @@ Facebook 21%  Twitter 2% 
     
 *   Show Less ...
 
-Pinterest 21%  Wikipedia 2% 
+Pinterest 6%  Wikipedia 1% 
 
 *   Medana
     
@@ -218,7 +218,22 @@ Pinterest 21%  Wikipedia 2% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Instagram 21%  Google+ 21%  Linkedin 2% 
+Instagram 6%  Google+ 1% 
+
+*   Privacy Policy - Google+ - Google Plus
+    
+    Privacy Policy: Basically, all the features like massages, party and friends froze in place at roughly at 4 o' clock. At the time I didn't realise that these features ...
+    
+*   privacy policy - Google+ - Google Plus
+    
+    Profile photo. privacy policy. About. privacy policy's posts. Looks like you've reached the end. Looks like you've reached the end. Unable to load more. Retry.
+    
+*   Free Privacy Policy - Google+
+    
+    Profile photo. Free Privacy Policy. 35 followers -. Build a Privacy policy for your site in 5 minutes! Build a Privacy policy for your site in 5 minutes! 35 followers.
+    
+
+Linkedin 1% 
 
 *   Privacy Policy | LinkedIn
     
@@ -264,7 +279,7 @@ Instagram 21%  Google+ 21%  Linkedin 2% 
     
 *   Show Less ...
 
-Foursquare 21%  Music 2% 
+Foursquare 6%  Music 1% 
 
 *   Pandora
     
@@ -310,7 +325,7 @@ Foursquare 21%  Music 2% 
     
 *   Show Less ...
 
-Photo Albums 2% 
+Photo Albums 1% 
 
 *   Flickr
     
@@ -321,7 +336,7 @@ Photo Albums 2% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 2% 
+Myspace 1% 
 
 *   Privacy Policy - 49086242
     
@@ -345,7 +360,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Documents 2% 
+Documents 1% 
 
 *   Generic Privacy Policy template - TermsFeed
     
@@ -391,7 +406,7 @@ Documents 2% 
     
 *   Show Less ...
 
-Web Search 2% 
+Web Search 1% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -437,7 +452,7 @@ Web Search 2% 
     
 *   Show Less ...
 
-Images 2% 
+Images 1% 
 
 20
 
