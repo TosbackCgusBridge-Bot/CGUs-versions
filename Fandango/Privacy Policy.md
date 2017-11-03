@@ -74,9 +74,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Women of the MCU Want an All-Female Marvel Movie Read More
-    *   Movie News: First Look at Steven Spielberg's 'The Post' Read More
-    *   Reel TV: Potential 'Blair Witch' TV Series. Potential 'Quantum Leap' Movie Read More
+    *   'Star Wars: The Last Jedi' TV Spot: See Luke Skywalker on the Millennium Falcon Read More
+    *   Miyazaki Announces the Title of His "Last" Animated Movie Read More
+    *   Beyonce Confirmed for New 'Lion King'. Here's Everything We Know So Far Read More
     
     Explore Content
     *   Movie Reviews
