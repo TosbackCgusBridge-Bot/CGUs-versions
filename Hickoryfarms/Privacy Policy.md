@@ -3,9 +3,7 @@
     View All Categories Shop by Category*   Gift Boxes
     *   Gift Baskets
     *   Best Sellers
-    *   Sweets
     *   Gifts With Wine
-    *   Fruit Baskets
     *   Military Gifts
     *   New!
     
@@ -23,7 +21,7 @@
     *   Turkey Summer Sausage
     *   Specialty Meats
     *   Dry Salami
-    *   Steaks
+    *   Gourmet Steaks
     
     Signature Cheese*   Cheese
     *   Cheese Balls &. Spreads
@@ -32,8 +30,7 @@
     *   All Natural
     *   Seafood
 *   Fruit Baskets
-    View All Categories Shop by Category*   Fruit Baskets
-    *   Wine &. Fruit Baskets
+    View All Categories Shop by Category*   Wine &. Fruit Baskets
 *   Gourmet Snacks
     View All Categories Shop by Category*   Condiments &. Spreads
     *   Gourmet Mustard
@@ -59,7 +56,7 @@
     *   Weddings &. Showers
 *   Sale
 
-1.800.753.8558 Business Gifts 1.800.753.8558 Search Catalog Search Skip to content Business Gifts Stores Account
+1.800.753.8558 Business Gifts 1.800.753.8558 Search Catalog Skip to content Business Gifts Stores Account
 
 *   Welcome!
 *   Log In
@@ -72,9 +69,7 @@
     View All Categories Shop by Category*   Gift Boxes
     *   Gift Baskets
     *   Best Sellers
-    *   Sweets
     *   Gifts With Wine
-    *   Fruit Baskets
     *   Military Gifts
     *   New!
     
@@ -92,7 +87,7 @@
     *   Turkey Summer Sausage
     *   Specialty Meats
     *   Dry Salami
-    *   Steaks
+    *   Gourmet Steaks
     
     Signature Cheese*   Cheese
     *   Cheese Balls &. Spreads
@@ -101,8 +96,7 @@
     *   All Natural
     *   Seafood
 *   Fruit Baskets
-    View All Categories Shop by Category*   Fruit Baskets
-    *   Wine &. Fruit Baskets
+    View All Categories Shop by Category*   Wine &. Fruit Baskets
 *   Gourmet Snacks
     View All Categories Shop by Category*   Condiments &. Spreads
     *   Gourmet Mustard
@@ -128,13 +122,7 @@
     *   Weddings &. Showers
 *   Sale
 
-1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
-
-1.  Home
-2.  Customer Service
-3.  Privacy Policy
-
-<div class="browser-compatibility-alert">. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. Information We Collect and How it is Used
+1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. Privacy Policy Information We Collect and How it is Used
 
 We may share your peronally-identifiable information, including your name, address, e-mail address, as well as a record of any transaction you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide anonymous. To choose not to have this information used by our third-party advertising partner click here.
 
@@ -153,51 +141,6 @@ Hickory Farms' Privacy Policy is subject to change without notice. At any time, 
 
 **Conditions of Use**  
 Any dispute over privacy is subject to this Privacy Policy and our Terms of Use.
-
-Secondary Navigation Shipping Information
-
-*   Shipping Costs and Restrictions
-*   Holiday Shipping Deadlines
-*   Order Tracking
-*   Refunds and Replacements
-
-Placing Your Order
-
-*   Valid Payment Methods
-*   Promo Codes
-*   Sales Tax
-
-My Account
-
-*   Managing &. Creating an Account
-
-Privacy
-
-*   Privacy Policy
-*   MobileConnect Terms and Conditions
-
-Security
-
-*   Use of Cookies
-*   Terms of Use Information
-
-Careers
-
-*   Employment Opportunities
-
-Need Help?
-
-If you have any questions or need help with your account, you may Contact Us to assist you.
-
-Customer Service  
-8:30 AM to 6:00 PM EST  
-
-1.800.442.5671
-
-Orders  
-24/7  
-
-1.800.621-0226
 
 Sign up for gift ideas &. exclusive offers! Sign Up
 
