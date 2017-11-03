@@ -85,12 +85,13 @@
         *   Hats
         *   Activewear
         *   Socks
+        *   Swimwear
         *   Shop All
         
           
           
-        Give a Buckle Gift card Shoes Are The Foundation To Any Good Outfit.  
-        SHOP WOMEN | SHOP MEN
+        Give a Buckle Gift card The Holiday Gift Guide is HERE!  
+        Shop for her or for him now.
 *   Men
     *   *   Featured
         
@@ -153,8 +154,8 @@
         
           
           
-        Give a Buckle Gift card Shoes Are The Foundation To Any Good Outfit.  
-        SHOP WOMEN | SHOP MEN
+        Give a Buckle Gift card The Holiday Gift Guide is HERE!  
+        Shop for her or for him now.
 *   Kids
     *   *   Featured
         
@@ -175,8 +176,8 @@
         *   Bottoms
         *   Shop All
         
-        Give a Buckle Gift card Shoes Are The Foundation To Any Good Outfit.  
-        SHOP WOMEN | SHOP MEN
+        Give a Buckle Gift card The Holiday Gift Guide is HERE!  
+        Shop for her or for him now.
 *   Jeans
     *   *   Women's Jeans
         
@@ -207,8 +208,8 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card Shoes Are The Foundation To Any Good Outfit.  
-        SHOP WOMEN | SHOP MEN
+        Give a Buckle Gift card The Holiday Gift Guide is HERE!  
+        Shop for her or for him now.
 *   Trending
     *   *   Featured New
         
@@ -244,13 +245,24 @@
         *   Shoes
         *   Shop All
         
-        *   Kid's New
+        *   Kids' New
         
         *   Shop All Girl's New
         *   Shop All Boy's New
         
-        Give a Buckle Gift card Shoes Are The Foundation To Any Good Outfit.  
-        SHOP WOMEN | SHOP MEN
+        *   Gift Guide
+        
+        *   Men's Gifts
+        *   Women's Gifts
+        *   Stocking Stuffers
+        *   Kids' Gifts
+        *   Gifts That Give Back
+        *   Ugly Christmas
+        *   Buckle Gift Cards
+        *   Shipping Deadlines
+        
+        Give a Buckle Gift card The Holiday Gift Guide is HERE!  
+        Shop for her or for him now.
 *   Sale
     *   *   Women's Sale
         
@@ -293,8 +305,8 @@
         
           
           
-        Give a Buckle Gift card Shoes Are The Foundation To Any Good Outfit.  
-        SHOP WOMEN | SHOP MEN
+        Give a Buckle Gift card The Holiday Gift Guide is HERE!  
+        Shop for her or for him now.
 
 SearchSubmitToggle Main MenuSearchSubmit × ClosePrivacy &. Security
 
