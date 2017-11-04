@@ -74,9 +74,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   'Star Wars: The Last Jedi' TV Spot: See Luke Skywalker on the Millennium Falcon Read More
-    *   Miyazaki Announces the Title of His "Last" Animated Movie Read More
-    *   Beyonce Confirmed for New 'Lion King'. Here's Everything We Know So Far Read More
+    *   Movie News: 'Shazam!' Villain Touted Read More
+    *   Trailer Roundup: 'Downsizing,' 'The Disaster Artist' and 'Pottersville' Read More
+    *   How the 'Thor: Ragnarok' Post-Credits Scenes Set Up 'Avengers: Infinity War' Read More
     
     Explore Content
     *   Movie Reviews
