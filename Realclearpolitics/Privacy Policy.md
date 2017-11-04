@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _James Arkin_: House GOP Unveils Sweeping Tax Plan, But Obstacles Remain
+*   _Patricia Cohen_: A Tax Cut That Lifts the Economy? Opinions Are Split
     
-*   _Nicholas Kristof_: Robert Mueller in the Cross Hairs
+*   _John Podhoretz_: The Democratic Primary Was Rigged After All
     
-*   _Conrad Black_: Time for Truth: Focus of Russia Probe Should Be on Clinton
+*   _Matt Bai_: The Patsy in the White House
     
-*   _Carter Eskew_: Can Northam Hold Off Gillespie's Surge in Virginia?
+*   _David Catanese_: One Year Later, Dems Still Stumped on Trump
     
-*   _Mohamed El-Erian_: Jerome Powell Brings Continuity &. Experience to Fed
+*   _Eric Levitz_: America Is Not a 'Center-Right Nation'
     
-*   _Sean Illing_: We're Becoming Numb to Terrorism. That Might Be a Good Thing
+*   _J.B. White_: Trump Has Broken the Apology Hypnosis on Race
     
-*   _Andrew McCarthy_: The West Side Highway Jihad &. 'Extreme Vetting'
+*   _Eugene Robinson_: Trump's Racism Makes Him Corrosive to Nation
     
-*   _Pat Garofalo_: Tax Cuts in Search of a Problem
+*   _Stephen Hayes_: How 470,000 Bin Laden Docs Got Out in the Open
     
-*   _Stephen Moore_: Five Reasons to Hate the Tax Code as Is
+*   _Tucker Carlson_: We Have a Right to Be Worried About the FBI
     
-*   _Bryce Covert_: How Corporations Create a Culture of Impunity for Harassers
+*   _Farhad Manjoo_: The Upside of Being Ruled by the Five Tech Giants
     
-*   _Lawrence Haas_: A Time to Celebrate Israel
+*   _Ben Weingarten_: PragerU Sues YouTube for Discriminating Against Videos
     
-*   _Robert Draper_: A Post-Obama Democratic Party in Search of Itself
+*   _Newt Gingrich_: Tax Cuts Are Key to Reaching Four Percent Growth
     
-*   _Edward-Isaac Dovere_: Nancy Pelosi Has Trump Right Where She Wants Him
+*   _Scott Lemieux_: What a Surprise: Another Tax Plan to Help the Super Rich
     
-*   _Seth Barron_: Dems' Willful Inversion of Reality on Terrorism
+*   _Steven Rattner_: Trump Makes the Right Choice With Jerome Powell
     
-*   _Simon Jenkins_: Trump's Reaction to Terror? To Make U.S. Terrified Again
+*   _Daniel Flynn_: How Democrats Cheated Sanders and Lied About It
     
-*   _Roger Kimball_: Mueller Serves Up a Nothing Burger With Wheeze
+*   _Molly Ball_: Trump's Mueller Problem
     
-*   _Paul Waldman_: What Trump Is Really Afraid That Mueller Will Find
+*   _Holman Jenkins_: Trump and the 'Russia Racket'
     
-*   _Donna Brazile_: Inside Hillary Clinton's Secret Takeover of the DNC
+*   _James Arkin_: Parties' 2018 Hopes Ride on Selling--or Maligning--Tax Bill
     
-*   _Ed Rogers_: Democrats' Suicidal Addiction to Racial Identity Politics
+*   _Jelani Cobb_: John Kelly's Bizarre Mythology of the Civil War
     
-*   _Mary Curtis_: Did the Entire White House Take a Nap During History Class?
+*   _John Davidson_: Kelly Is Right: Civil War Came Because Compromise Failed
     
-*   _Rep. Kevin McCarthy_: U.S. Tax Reform Will Boost Innovation &. Entrepreneurship
+*   _John Kass_: The Language of Islamic Terror in America
     
-*   _Roger Ferguson_: Trump Tax Plan's Gimmick Is Only a Short-Term Fix
+*   _Ash Carter_: Behind the Plan to Defeat ISIS
     
-*   _Sen. Elizabeth Warren_: The Supreme Court Has An Ethics Problem
+*   _Jennifer Kerns_: Brennan's Intel Failures Hurt Our Security, Democracy
     
-*   _Adam White_: Beware the ABA's Own Version of 'Judicial Activism'
+*   _Caitlin Huey-Burns_: Dems Are Loath to Weaponize Russia Probe Indictments
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Wisconsin Will Be Critical Test for Both Parties in 2018
-*   Trump Demands "Much Tougher" Immigration Law After NY Attack
-*   Justice Thomas: We're Getting Comfortable in Society Limiting Ideas
-*   Papadopoulos: Bit Player at Center Stage in Russia Probe
-*   Flake Retirement Helps Republicans in Ariz. Senate Race
+*   House Republicans Unveil Tax Cuts, But Obstacles Remain
+*   Parties' 2018 Hopes Ride on Selling--or Maligning--Tax Bill
+*   Trump Interview With Ingraham: Dossier, DOJ, Immigration, Dem Primary
+*   Dems Are Loath to Weaponize Russia Probe Indictments
+*   The Takeaway: N.J., Va. Races Near the Finish Line
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,18 +269,18 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Virginia Governor - Gillespie vs. NorthamSuffolk\*
+*   Virginia Governor - Gillespie vs. NorthamRoanoke College\*
     *   Northam47
-    *   Gillespie43Northam +4
-*   President Trump Job ApprovalPew Research
-    *   Approve34
-    *   Disapprove59Disapprove +25
+    *   Gillespie47Tie
+*   Virginia Governor - Gillespie vs. NorthamThe Polling Company (R)
+    *   Northam43
+    *   Gillespie46Gillespie +3
+*   Virginia Governor - Gillespie vs. NorthamRasmussen Reports\*
+    *   Northam45
+    *   Gillespie45Tie
 *   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove58Disapprove +20
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove56Disapprove +13
+    *   Approve39
+    *   Disapprove57Disapprove +18
 
 More Latest Polls In The News
 
