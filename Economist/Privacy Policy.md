@@ -118,7 +118,7 @@ Whenever we deliver these ads to you in the United States, Canada and the Europe
 
 A cookie is a small file which is placed on your hard drive when you visit any of the Group's websites (directly or via our applications). We use information from cookies for purposes which may include:
 
-*   identifying returning users, registrants and subscribers
+*   identifying users, registrants and subscribers
 *   eliminating the need for returning users to re-enter their login details
 *   enabling you to move more easily around our sites and applications
 *   tracking your use of our sites to better develop our sites and applications in accordance with your requirements
