@@ -241,7 +241,7 @@ Menu Close Menu Close
         
         *   BUSINESSES | ENTERPRISES | GOVERNMENT | SCHOOLS
         *   PERSONAL | Home Office
-        *   Service Parts
+        *   Replacement Parts
         
         *   *   Explore All Services >.
         *   *   Business >.
@@ -257,6 +257,7 @@ Menu Close Menu Close
     *   Professional Laptop Deals
     *   Desktop Deals
     *   Accessories Deals
+    *   Tablets Deals
     *   Clearance
     *   Deals for Students &. Educators
     *   Deals for Military
@@ -278,20 +279,14 @@ Menu Close Menu Close
     *   Sales Enquiries
     *   Order Support
     *   Technical Support
-    *   Service Parts
+    *   Replacement Parts
     *   ORDER VISIBILITY PORTAL
 *   Solutions
-    *   OEM Solutions
     *   Small Business
-    *   Large Enterprise
-    *   Health
-    *   Government
-    *   K-12 Education
-    *   Higher Education
-    *   Students
-    *   Business Partners
-    *   Resource Center
+    *   Data Center
+    *   Students &. Teachers
     *   PC as a Service
+    *   Lenovo Partner Network
     *   See All Solutions
 *   Email Sign-Up
 *   My Account
@@ -369,7 +364,55 @@ Miix 720
 
 Need productivity on the go? This 2-in-1 can take you there.
 
-C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE!
+C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE! Recommended For You Best Seller ThinkPad X1 Carbon (5th gen)
+
+★★★★★ ★★★★★
+
+3.9
+
+(65)
+
+$1169.25
+
+Shop Now
+
+2198Viewing Best Seller ThinkPad X1 Yoga (2nd Gen)
+
+★★★★★ ★★★★★
+
+3.8
+
+(31)
+
+$1401.75
+
+Shop Now
+
+693Viewing ThinkPad T470s
+
+★★★★★ ★★★★★
+
+3.5
+
+(4)
+
+$959.20
+
+Shop Now
+
+448Viewing Best Seller ThinkPad E570
+
+★★★★★ ★★★★★
+
+4.3
+
+(56)
+
+$479.20
+
+Shop Now
+
+325Viewing
 
 LAPTOPS
 
@@ -439,6 +482,7 @@ Holiday Laptops Tablets Desktops Deals Holiday Laptops Tablets Desktops Deals Ch
     *   Yoga Computers
     *   Outlet
     *   Business Leasing
+    *   Replacement parts
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 *   SHOP BY INDUSTRY
     *   Small Business Store
@@ -451,6 +495,7 @@ Holiday Laptops Tablets Desktops Deals Holiday Laptops Tablets Desktops Deals Ch
     *   Business Partners
     *   Partner Portal
     *   Military
+    *   Higher Education
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 *   RESOURCES
     *   Resource Center
