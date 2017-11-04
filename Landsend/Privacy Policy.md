@@ -43,12 +43,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Boys
     *   Home
     
-    COMING SOON
-    
-    *   Resort
-    
     SHOP NEW COLLECTIONS
     
+    *   Soft Leisure Collection
     *   Girls' Winter Collections
     *   Boys' Winter Collections
     
@@ -64,6 +61,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Holiday Dressing
     *   Gifts For Her
     *   The Starfish Collection
+    *   Soft Leisure Collection
     *   Wise Buys
     *   Sale
     
@@ -89,14 +87,14 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Shirts &. Blouses
     *   Pants
     *   Jeans
-    *   Shorts
+    *   Sleepwear
     *   Dresses
     *   Skirts
     *   Blazers
     *   Activewear
     *   Swimsuits
+    *   Shorts
     *   Bags
-    *   Sleepwear
     *   Long Underwear
     
     SHOES
@@ -261,6 +259,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Boys
     
     FEATURED SHOPS
+    *   Women's Swim Finder
+    *   Women's Mix &. Match Tool
+    *   Resort Collection
     *   Swim Tees &. Rash Guards
     *   Water Shoes &. Sandals
     *   Totes &. Beach Bags
@@ -319,7 +320,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Bedding Basics
     *   Personalized Gifts
     *   Flannel Bedding
-    *   The Best of Kids Home
     *   Stockings and Holders
     *   Wise Buys
     *   Sale
@@ -392,11 +392,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
 *   New
     *   Back
     *   Shop all New
-    *   COMING SOON
-        *   Back
-        *   Resort
     *   SHOP NEW COLLECTIONS
         *   Back
+        *   Soft Leisure Collection
         *   Girls' Winter Collections
         *   Boys' Winter Collections
     *   BLOG
@@ -420,6 +418,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Holiday Dressing
         *   Gifts For Her
         *   The Starfish Collection
+        *   Soft Leisure Collection
         *   Wise Buys
         *   Sale
     *   SHOP BY SIZE RANGE
@@ -459,14 +458,14 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Shirts &. Blouses
     *   Pants
     *   Jeans
-    *   Shorts
+    *   Sleepwear
     *   Dresses
     *   Skirts
     *   Blazers
     *   Activewear
     *   Swimsuits
+    *   Shorts
     *   Bags
-    *   Sleepwear
     *   Long Underwear
 *   Men
     *   Back
@@ -609,6 +608,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Shop all Swim
     *   FEATURED SHOPS
         *   Back
+        *   Women's Swim Finder
+        *   Women's Mix &. Match Tool
+        *   Resort Collection
         *   Swim Tees &. Rash Guards
         *   Water Shoes &. Sandals
         *   Totes &. Beach Bags
@@ -676,7 +678,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Bedding Basics
         *   Personalized Gifts
         *   Flannel Bedding
-        *   The Best of Kids Home
         *   Stockings and Holders
         *   Wise Buys
         *   Sale
@@ -772,11 +773,11 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 40% off your order!
+Receive 40% off your order! Plus, CashTouch scarves from $15!
 
-code: FRIENDS pin: 3418 DETAILS
+code: PALS pin: 8229 DETAILS
 
-Customer Service Menu
+Shop Now Customer Service Menu
 
 Customer Service
 
