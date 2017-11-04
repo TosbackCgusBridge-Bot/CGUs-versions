@@ -275,7 +275,7 @@ Menu
         *   Simon Wright, Head of Child Survival at Save the Children gives a partnership perspective
         *   War and peace: Ivo, Nobel prize winner
         *   Changing Lives
-        *   The global as personal: GSK and The National Museum of African American History and Culture
+        *   GSK and The National Museum of African American History and Culture
         *   From the GSK archives: William Allen, scientist, businessman, abolitionist
         *   Persevering to accelerate your career success: lessons from an engineer
         *   Making the global goals our business
@@ -283,7 +283,6 @@ Menu
         *   Making healthy cool in school through Get HYPE Philly!
         *   Engineers as leaders: The art of the possible over the probable
         *   Work Together, Give Together
-        *   Putting responsible business principles into practice
         *   Building future leaders
         *   The gift of time: increased parental leave
         *   Designing inspiring and healthy workplaces
@@ -305,7 +304,7 @@ Menu
         *   The hope for a cure for HIV/AIDS in our lifetime
         *   Helping to Change the World
         *   Letting the sunshine in – transparency that’ll grow trust
-        *   How doctors and insurers get information about medicines for patients
+        *   How doctors and insurers get information about medicines
         *   Buyer beware: importing drugs comes with big risks
         *   Changing the way we do business
         *   Fast-tracking our response to pandemics
@@ -334,10 +333,10 @@ Menu
         *   GSK IMPACT Grants
             *   Back
             *   GSK IMPACT Grants
-            *   Denver, CO: How do you help make a healthy community even healthier?
-            *   Philadelphia, PA: How can we make the biggest impact on young people’s health?
-            *   East St. Louis, IL: Can we work together to improve the health of a community?
-            *   Triangle Region, NC: How can we support young people aging out of the foster care system to become healthy adults?
+            *   How do you help make a healthy community even healthier?
+            *   How can we make the biggest impact on young people’s health?
+            *   Can we work together to improve the health of a community?
+            *   How can we support young people aging out of the foster care system to become healthy adults?
         *   GSK Opportunity Scholarships
         *   Save the Children partnership
             *   Back
