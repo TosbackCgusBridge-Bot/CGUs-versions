@@ -364,55 +364,7 @@ Miix 720
 
 Need productivity on the go? This 2-in-1 can take you there.
 
-C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE! Recommended For You Best Seller ThinkPad X1 Carbon (5th gen)
-
-★★★★★ ★★★★★
-
-3.9
-
-(65)
-
-$1169.25
-
-Shop Now
-
-2198Viewing Best Seller ThinkPad X1 Yoga (2nd Gen)
-
-★★★★★ ★★★★★
-
-3.8
-
-(31)
-
-$1401.75
-
-Shop Now
-
-693Viewing ThinkPad T470s
-
-★★★★★ ★★★★★
-
-3.5
-
-(4)
-
-$959.20
-
-Shop Now
-
-448Viewing Best Seller ThinkPad E570
-
-★★★★★ ★★★★★
-
-4.3
-
-(56)
-
-$479.20
-
-Shop Now
-
-325Viewing
+C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE!
 
 LAPTOPS
 
