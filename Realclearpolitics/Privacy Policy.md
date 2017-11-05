@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Virginia Governor - Gillespie vs. NorthamRoanoke College\*
-    *   Northam47
-    *   Gillespie47Tie
-*   Virginia Governor - Gillespie vs. NorthamThe Polling Company (R)
-    *   Northam43
-    *   Gillespie46Gillespie +3
-*   Virginia Governor - Gillespie vs. NorthamRasmussen Reports\*
-    *   Northam45
-    *   Gillespie45Tie
+*   Virginia Governor - Gillespie vs. NorthamTrafalgar Group (R)\*
+    *   Northam49
+    *   Gillespie48Northam +1
+*   Virginia Governor - Gillespie vs. NorthamGravis\*
+    *   Northam48
+    *   Gillespie43Northam +5
+*   President Trump Job ApprovalABC News/Wash Post
+    *   Approve38
+    *   Disapprove58Disapprove +20
 *   President Trump Job ApprovalGallup
     *   Approve39
-    *   Disapprove57Disapprove +18
+    *   Disapprove56Disapprove +17
 
 More Latest Polls In The News
 
-*   Trump Full Interview With Ingraham: Dossier, Justice Department, Immigration, DNC Primary &. Sanders
-*   Clinton: There Is A Difference Between Paying For Trump Dossier And "Collusion" With Russia
+*   Maher: How About A Democratic Party That Says We Find Beliefs Behind Terrorist Acts Intolerable?
+*   David Brooks: Those Of Us Trying To Rebut Trump Have The Disadvantage That "Our Elites Really Do Stink"
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Clarence Thomas Full Interview: "We're Getting Quite Comfortable In Our Society Limiting Ideas"
-*   DNC Chair Ignores Donna Brazile's Allegation That Hillary "Rigged" 2016 Primary: "We're Moving Forward"
+*   Den Rep. Gabbard: Campaign Finance Laws Allowed Clinton To Take Control Of DNC, Purge Sanders Supporters
+*   Trump Full Interview With Ingraham: Dossier, Justice Department, Immigration, DNC Primary &. Sanders
 
 *   Politics
 *   Policy
