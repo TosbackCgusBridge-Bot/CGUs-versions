@@ -100,17 +100,17 @@ Activate your digital access.MORE NEWSQuick Links
 *   Member Guide
 *   USA TODAY NETWORK
 
-Crime Man shot by officer after caller warned of macheteRead StoryDaniel BorundaEl Paso Times
+Utep MTSU hammers Miners, drops UTEP to 0-9Read StoryBret BloomquistEl Paso Times
 
-*   Rams pull away for win vs. Spartans 40m
-*   Robots to track stock at 7 El Paso Walmarts 11h
-*   Check the latest Friday night football scores here 1h
-*   New Mexico teen arrested in Montwood High threat 6h
-*   Chapin rallies in final minute to top Burges 26m
-*   Event honors mom, daughters killed in apartment… 4h
-*   Mistrial declared in Bandidos biker beating case 7h
-*   Bel Air, Canutillo win. So who will make the… 1h
-*   School districts lose funding as charters grow 8h
+*   Man dies after shot by police in machete case 4h
+*   Burglars hit washing machines at apartment complex 3h
+*   UTEP must choose wisely on AD, football coach 3h
+*   5th grader saves choking friend, credits TV show 3h
+*   Border Mass: 'River of life or river of death?' 2h
+*   Man allegedly crashes into House of Pizza, flees 10h
+*   Coronado is last El Paso volleyball team in the… 3h
+*   School districts lose funding as charters grow 4h
+*   San Elizario wins state cross country title -… 5h
 
 *   Tradition of Excellence
 *   PUBLIC NOTICES
@@ -126,28 +126,28 @@ Local Weather
 
 El Paso, TX
 
-*   TodayFriday
+*   TodaySaturday
     
-    78°/55°
-    
-*   SatSaturday
-    
-    81°/59°
+    79°/57°
     
 *   SunSunday
     
-    82°/53°
+    82°/54°
     
 *   MonMonday
     
-    80°/57°
+    81°/55°
+    
+*   TueTuesday
+    
+    81°/55°
     
 
 More Weather
 
 presented byHeadlines
 
-Updated 3:31 a.m. MDT
+Updated 1:12 a.m. MST
 
 The Big Page
 
@@ -160,191 +160,191 @@ The Big Page
     
     Five things to do in El PasoCar shows, Dia de los Muertos, ghost tours and more.
     *   Entertainment
-    *   1 day, 8 hours ago
-*   Local News
+    *   2 days, 6 hours ago
+*   Crime
     
-    Girl, 10, with cerebral palsy freed from custody
+    Death investigated near Loop 375 ramp
     
-    Girl, 10, with cerebral palsy freed from custodyRosa Maria Hernandez has been released from federal custody, the family’s California-based attorney Alex Galvez confirmed Friday.
-    *   Local News
-    *   5 hours, 4 minutes ago
+    Death investigated near Loop 375 rampEl Paso police were investigating a "suspicious death" Saturday near the Loop 375 and Interstate 10 interchange in the far East Side.
+    *   Crime
+    *   2 hours, 5 minutes ago
 *   Football
     
-    See scores from all corners of Texas
+    Rams pull away for win vs. Spartans
     
-    See scores from all corners of TexasA complete list of scores from all around Texas
+    Rams pull away for win vs. SpartansQB Fernandez helps Montwood past Pebble Hills
     *   Football
-    *   47 minutes ago
+    *   11 hours, 9 minutes ago
 *   Sports
     
-    UTEP overwhelms Western New Mexico 98-50
+    UTEP women lose to Division II school in exhibition
     
-    UTEP overwhelms Western New Mexico 98-50Miners make strides in final exhibition game Friday night
+    UTEP women lose to Division II school in exhibitionRattlers make 14 3s, UTEP cools off after quick start. Real season starts soon.
     *   Sports
-    *   31 minutes ago
-*   Boxing
+    *   3 hours, 40 minutes ago
+*   Opinion
     
-    Champ still has all the advantages in boxing rematch
+    First Chance program too narrow: Joe Moody column
     
-    Champ still has all the advantages in boxing rematchYeah, it’ll be Stiverne stepping in against Deontay Wilder in a rematch of their 2015 fight.
-    *   Boxing
-    *   7 hours, 2 minutes ago
+    First Chance program too narrow: Joe Moody columnFirst Chance program too narrow: Joe Moody column
+    *   Opinion
+    *   8 hours, 19 minutes ago
+*   Utep
+    
+    UTEP overwhelms Western New Mexico
+    
+    UTEP overwhelms Western New MexicoMiners make strides in final exhibition game Friday night
+    *   Utep
+    *   3 hours, 38 minutes ago
+*   El Paso
+    
+    Robots to track stock at 7 El Paso Walmarts
+    
+    Robots to track stock at 7 El Paso WalmartsMeet the robot that knows when items are out of stock at seven of El Paso's Walmart stores.
+    *   El Paso
+    *   1 day, 9 hours ago
 *   Nation Now
     
-    Twin sisters swept away by killer wave in Mexico
+    Lou Diamond Phillips apologizes for DWI arrest
     
-    Twin sisters swept away by killer wave in MexicoA "rogue wave" swept twin sisters out to sea during a vacation to Cabo San Lucas, Mexico, last month, family members said.
+    Lou Diamond Phillips apologizes for DWI arrest"I want to sincerely apologize for an incident this morning. Some of you may have heard about that," he said.
     *   Nation Now
-    *   3 hours, 16 minutes ago
-*   Traffic
+    *   10 hours, 16 minutes ago
+*   On Politics
     
-    Man dies in motorcycle accident in far East Side
+    George H.W. Bush: Trump is a 'blowhard' motivated by 'ego'
     
-    Man dies in motorcycle accident in far East SideA 19-year-old man died at a hospital after a motorcycle accident Thursday night in the Montwood area.
-    *   Traffic
-    *   6 hours, 4 minutes ago
+    George H.W. Bush: Trump is a 'blowhard' motivated by 'ego'Meanwhile, the younger Bush says Trump is fanning public anger and came to the presidency with no understanding of the job.
+    *   On Politics
+    *   8 hours, 7 minutes ago
 *   News
     
-    Top gift ideas from A Christmas Fair
+    Selena gets star on Hollywood Walk of Fame
     
-    Top gift ideas from A Christmas FairEl Paso Times culture/social media reporter Maria Cortes Gonzalez picks her favorite gift ideas at the Christmas Fair this weekend at the El Paso convention center. Times are 10:00 a.m.–6:00 p.m. Saturday, Nov. 4, and Sunday, Nov. 5. General Admission: $10. Children...
+    Selena gets star on Hollywood Walk of FameNov. 3 was proclaimed 'Selena Day' in LA and hundreds of fans gathered for the unveiling ceremony of Selena's Hollywood Walk of Fame star.
     *   News
-    *   4 hours, 49 minutes ago
-*   All The Moms
-    
-    Parents, be honest with your kids about weed
-    
-    Parents, be honest with your kids about weedA study led by an ASU researcher found that kids were less likely to use drugs when their parents spoke to them about it
-    *   All The Moms
-    *   1 day, 4 hours ago
+    *   21 hours, 25 minutes ago
 *   News
     
     Woman slain by reserve deputy was mentally ill
     
     Woman slain by reserve deputy was mentally illThe woman was the mother to an 8- and 11-year-old boy.
     *   News
-    *   4 hours, 56 minutes ago
-*   People
-    
-    Spacey: Netflix dumps actor from 'House of Cards'
-    
-    Spacey: Netflix dumps actor from 'House of Cards'The streaming service late Friday said it would not continue 'Cards' with Spacey and that it would not release his film, 'Gore.'
-    *   People
-    *   2 hours, 42 minutes ago
+    *   1 day, 2 hours ago
 *   News
     
-    What is a reserve deputy?
+    Mistrial declared in Bandidos biker beating case
     
-    What is a reserve deputy?A DASO reserve deputy was involved in the fatal shooting of a Louisiana woman. Why?
+    Mistrial declared in Bandidos biker beating caseThe jury deliberated for more than eight hours over two days before saying they were unable to agree on a verdict in the trial of Thomas Decarlo.
     *   News
-    *   5 hours, 1 minute ago
+    *   12 hours, 32 minutes ago
 
-*   El Paso
+*   News
     
-    Christmas Fair has holiday shopping through Sunday
+    JFK files report Oswald's contact with Soviet embassy in Mexico City
     
-    Christmas Fair has holiday shopping through SundayThe 44th Christmas Fair will be this weekend at the Judson F. Williams Convention Center in Downtown.
-    *   El Paso
-    *   4 hours, 46 minutes ago
-*   Sports
-    
-    Ripe for an upset, UTEP takes its shot at MTSU
-    
-    Ripe for an upset, UTEP takes its shot at MTSUThe Miners take on a team that is unsettled at quarterback.
-    *   Sports
-    *   6 hours, 9 minutes ago
-*   Dining
-    
-    Hungry? Check out El Paso restaurant favorites
-    
-    Hungry? Check out El Paso restaurant favoritesDining out: Listings and capsule reviews for area restaurants.
-    *   Dining
-    *   7 hours, 7 minutes ago
-*   Business
-    
-    El Paso architects get awards for area projects
-    
-    El Paso architects get awards for area projectsBusiness people in the news at American Institute of Architects' El Paso chapter, UTEP, Mimco, Film Commission, Hub of Human Innovation and others.
-    *   Business
-    *   11 hours, 30 minutes ago
-*   Local News
-    
-    Lou Diamond Phillips keeps speaking engagement after arrest
-    
-    Lou Diamond Phillips keeps speaking engagement after arrestThe Flour Bluff grad was expected to make a guest appearance at a Corpus Christi event.
-    *   Local News
-    *   10 hours, 10 minutes ago
-*   El Paso
-    
-    Celebrate Sandwich Day with border cousin, torta
-    
-    Celebrate Sandwich Day with border cousin, tortaOn Friday, you can celebrate Sandwich Day with its border cousin, the torta.
-    *   El Paso
-    *   8 hours, 44 minutes ago
+    JFK files report Oswald's contact with Soviet embassy in Mexico CityThe National Archives releases more than 600 new files, mostly from the CIA.
+    *   News
+    *   13 hours, 12 minutes ago
 *   Football
     
-    Coronado-Franklin lives up to hype
+    Bel Air, Canutillo win. So who will make the playoffs?
     
-    Coronado-Franklin lives up to hypeWith a playoff berth on the line the Westside Bowl was a dramatic game that saw one team make a last-second stop to head to the playoffs.
+    Bel Air, Canutillo win. So who will make the playoffs?Bel Air and Canutillo are fighting for the final playoff spot in District 2-5A. Find out how they can get in the postseason.
     *   Football
-    *   13 hours, 6 minutes ago
-*   Health
+    *   22 hours, 57 minutes ago
+*   Football
     
-    DOJ: ACLU 'misled' feds in Jane Doe abortion case
+    Chapin rallies in final minute to top Burges
     
-    DOJ: ACLU 'misled' feds in Jane Doe abortion caseThe Department of Justice has asked the Supreme Court to vacate a lower court order allowing an undocumented teen in Texas to have an abortion.
-    *   Health
-    *   6 hours ago
-*   Crime
-    
-    Border Patrol agent followed in shooting
-    
-    Border Patrol agent followed in shootingAn off-duty U.S. Border Patrol agent was followed from his home before he was shot at on Interstate 10. One suspect was linked to a home invasion.
-    *   Crime
-    *   1 day, 15 hours ago
-*   Crime
-    
-    Montwood High threats lead to police investigation
-    
-    Montwood High threats lead to police investigationA person has been identified following a perceived social media threat of a possible shooting at Montwood High School, school district officials said.
-    *   Crime
-    *   1 day, 9 hours ago
-*   Crime
-    
-    Car burglary suspect arrested in West El Paso
-    
-    Car burglary suspect arrested in West El PasoA man was exiting a vehicle when he was arrested in connection with auto burglaries at West El Paso apartment complexes.
-    *   Crime
-    *   1 day, 1 hour ago
-*   Music
-    
-    Khalid named one of the most influential teens
-    
-    Khalid named one of the most influential teensRight along side some other big-name celebrities, TIME Magazine says El Paso's Khalid is one of the most influential teens.
-    *   Music
-    *   1 day, 10 hours ago
-
+    Chapin rallies in final minute to top BurgesAfter three touchdowns in three quarters, teams combine for five scores in wild fourth quarter
+    *   Football
+    *   22 hours, 7 minutes ago
 *   El Paso
     
-    Fort Worth court to rule on Downtown arena cases
+    Event honors mom, daughters killed in apartment fire
     
-    Fort Worth court to rule on Downtown arena casesThe move comes in light of the Eighth District Court of Appeals in El Paso County recusing itself from the cases.
+    Event honors mom, daughters killed in apartment fireThe MAP Fire Awareness Memorial Walk will take place at 10 a.m. Saturday at the Memorial Park Reserve.
     *   El Paso
-    *   12 hours, 10 minutes ago
-*   Local
-    
-    Abraham must fix historic Downtown building
-    
-    Abraham must fix historic Downtown buildingA district judge says William "Billy" Abraham must fix his building and pay a $1.2 million fine.
-    *   Local
-    *   7 hours, 22 minutes ago
+    *   1 day, 1 hour ago
 *   Education
     
     Which state regulations don't apply to charters?
     
     Which state regulations don't apply to charters?Charter schools are not subject to as many regulations as traditional public schools
     *   Education
-    *   14 hours, 20 minutes ago
+    *   4 hours, 23 minutes ago
+*   Business
+    
+    El Paso architects get awards for area projects
+    
+    El Paso architects get awards for area projectsBusiness people in the news at American Institute of Architects' El Paso chapter, UTEP, Mimco, Film Commission, Hub of Human Innovation and others.
+    *   Business
+    *   1 day, 9 hours ago
+*   High School Spotlight
+    
+    Saturday's high school sports results
+    
+    Saturday's high school sports resultsSaturday's high school volleyball results
+    *   High School Spotlight
+    *   1 hour, 1 minute ago
+*   Local News
+    
+    Girl, 10, with cerebral palsy freed from custody
+    
+    Girl, 10, with cerebral palsy freed from custodyRosa Maria Hernandez has been released from federal custody, the family’s California-based attorney Alex Galvez confirmed Friday.
+    *   Local News
+    *   1 day, 2 hours ago
+*   News
+    
+    Green Bay kid finds needle in Halloween candy
+    
+    Green Bay kid finds needle in Halloween candyThe Green Bay Police Department reported a needle was found in Halloween candy.
+    *   News
+    *   2 days, 3 hours ago
+*   Traffic
+    
+    Man dies in motorcycle accident in far East Side
+    
+    Man dies in motorcycle accident in far East SideA 19-year-old man died at a hospital after a motorcycle accident Thursday night in the Montwood area.
+    *   Traffic
+    *   1 day, 3 hours ago
+*   News
+    
+    Top gift ideas from A Christmas Fair
+    
+    Top gift ideas from A Christmas FairEl Paso Times culture/social media reporter Maria Cortes Gonzalez picks her favorite gift ideas at the Christmas Fair this weekend at the El Paso convention center. Times are 10:00 a.m.–6:00 p.m. Saturday, Nov. 4, and Sunday, Nov. 5. General Admission: $10. Children...
+    *   News
+    *   1 day, 2 hours ago
+*   El Paso
+    
+    Christmas Fair has holiday shopping through Sunday
+    
+    Christmas Fair has holiday shopping through SundayThe 44th Christmas Fair will be this weekend at the Judson F. Williams Convention Center in Downtown.
+    *   El Paso
+    *   1 day, 2 hours ago
+
+*   Utep
+    
+    Here are 3 things that went right for UTEP
+    
+    Here are 3 things that went right for UTEPAt this point, looking for the bright spots can help a fan base.
+    *   Utep
+    *   9 minutes ago
+*   News
+    
+    El Paso Most Wanted fugitives for week of Nov. 6
+    
+    El Paso Most Wanted fugitives for week of Nov. 6El Paso Most Wanted fugitives for week of Nov. 6
+    *   News
+    *   1 hour, 19 minutes ago
+*   Utep
+    
+    Can the Miners get a win? Check the score here.
+    
+    Can the Miners get a win? Check the score here.We have a live scoreboard and commentary from our reporters at the game.
+    *   Utep
+    *   4 hours, 1 minute ago
 
 Show More NewsVideoSkip in Skipx
 
@@ -438,9 +438,9 @@ x
 
 Share
 
-CLOSEHoly smokes, this guys hair is on fire!
+CLOSEHoly smokes! This guy's hair is on fire
 
-Yes, this man's hair is on fire and it's a great reminder why kids (and sometimes adults) should never play with fireworks! USA TODAY
+Yes, this man's hair is on fire. It's a great reminder why kids (and sometimes adults) should never play with fireworks! USA TODAY
 
 8 of 25See more videoSkip in Skipx
 
@@ -646,70 +646,70 @@ CLOSELittle girl won't get up and we can all relate!
 
 We've all been there! This little girl doesn't want to get up this faithful morning, and we can all relate! USA TODAY
 
-25 of 25See more videoLast VideoNext VideoFeatured ContentNews 5 differences between charter and traditional public schools Reviewed.com The best Black Friday deals you can get right now News Sandwich or Torta? Sports Postgame: Coronado's Jose Luis Herrera speaks after the game Food Our staff tried UberEATS. Here is how it went. Entertainment 7 things to know about 'Motown: The Musical' Football See the top 10 football teams for Nov. 2-3 News Dia de los Muertos Sugar Skull face painting Utep UTEP at Middle Tennessee: 5 things to know
+25 of 25See more videoLast VideoNext VideoFeatured ContentUtep UTEP women's coach, player after preseason loss Reviewed.com The best Black Friday deals you can get right now News Border Mass News 5 differences between charter and traditional public schools News "Que viva Cristo," crowds sings on both sides of the border Food Our staff tried UberEATS. Here is how it went. Entertainment 7 things to know about 'Motown: The Musical' Football See the top 10 football teams for Nov. 2-3 News Dia de los Muertos Sugar Skull face painting
 
-Nation Now The best way to protect your bank account after Equifax  
-List: All of the Hollywood power players accused of sexual assault or harassment  
+Nation Now George H.W. Bush says Trump is a 'blowhard' motivated by 'ego'  
+Florida man named Donald changes middle name to 'Trump'  
 more NATION NOW storiesGalleries
 
+*   Photos: Juarez and El Paso Pray For a Compassion at Border Mass
+*   Train Enthusiasts Tour Antique Locomotive and Caboose at Train Show
+*   Photos: Montwood Reins Supreme After 49-46 Win Over Spartans
 *   44th Annual A Christmas Fair This Weekend At The Convention Center
 *   Photos: Coronado Wins Westside Bowl 35-28 Over Franklin
-*   Auto burglary arrests
-*   Football picks of the week: El Paso Times staff
-*   Mexican Consulate "Dia de Los Muertos" Altar at E.P. Museum of Art
 
-FacebookTwitterGoogle+LinkedIn44th Annual A Christmas Fair This Weekend At The Convention CenterFacebookTwitterGoogle+LinkedInPhotos: Coronado Wins Westside Bowl 35-28 Over FranklinFacebookTwitterGoogle+LinkedInAuto burglary arrestsFacebookTwitterGoogle+LinkedInFootball picks of the week: El Paso Times staffFacebookTwitterGoogle+LinkedInMexican Consulate "Dia de Los Muertos" Altar at E.P. Museum of Art FullscreenPost to FacebookPosted!
+FacebookTwitterGoogle+LinkedInPhotos: Juarez and El Paso Pray For a Compassion at Border MassFacebookTwitterGoogle+LinkedInTrain Enthusiasts Tour Antique Locomotive and Caboose at Train ShowFacebookTwitterGoogle+LinkedInPhotos: Montwood Reins Supreme After 49-46 Win Over SpartansFacebookTwitterGoogle+LinkedIn44th Annual A Christmas Fair This Weekend At The Convention CenterFacebookTwitterGoogle+LinkedInPhotos: Coronado Wins Westside Bowl 35-28 Over Franklin FullscreenPost to FacebookPosted!
 
 A link has been posted to your Facebook feed.
 
 Discover the benefits of being a subscriber with special deals, access and more!**Extras:** #BookmarkThis With Alec Baldwin **Deals:** Insider Savings on Tires on Goodyear.com **Extras:** Thanksgiving Menu Exclusively for Insiders **Extras:** Vote for Your Favorite Pumpkin Carving **Events:** Let's Talk Bourbon **Deals:** Liquor Flavor-Enhancing Elements **Extras:** Traveling With Seniors **Extras:** NFL Tailgating Recipe: Mexican Pizza **Extras:** Common Cold Myths Trivia **Deals:** Jumbo Ice Trays **Extras:** DIY: Make A Gorgeous Indian Corn Wreath **Extras:** Cider Rules! Try These Drink Recipes **Extras:** eCookbook: Home Baking **Extras:** NFL Tailgating Recipe: Queso Dip with Smoked Brisket **Extras:** 'College Guide' Magazine **Deals:** Mini Tracker - Never Lose Your Things Again **Extras:** Mouth-watering Pumpkin Recipes You Must Try! **Extras:** Season 2 of 'Accused' Podcast: Episodes 7 &. 8 **Deals:** Scratch Off Interactive World Map **Deals:** Exclusive Discount: 9 Day Irish Explorer Tour **Deals:** Make Fairytale Your Favorite! **Events:** Insider Movie Club: Blade Runner 2049 **Extras:** Eat Local: Downtown El Paso **Extras:** eCookbook: Creative Casseroles **Extras:** NFL Tailgating Recipe: Smoked Spare Ribs **Extras:** Best Airports for Craft Beer Lovers **Deals:** Costco National Membership Program **Events:** #BookmarkThis with the Bush Sisters - Missed the Chat? **Extras:** Five Cocktails You'll Fall For More
 
-ObituariesRECENT OBITUARIESSHIRLEY BUSTAMANTE, DAVID FRIAS, TONY GUEL, Search by NameGoSee more obituaries Local Weather
+ObituariesRECENT OBITUARIESCHRISTY ALLEN-LEE, El Paso, TXJORGE ARAUJO, El Paso, TXJUANITA BARREDA, EL PASO, TXSearch by NameGoSee more obituaries Local Weather
 
 El Paso, TX
 
 presented by
 
-*   TodayFriday
+*   TodaySaturday
     
-    78°/55°
-    
-*   SatSaturday
-    
-    81°/59°
+    79°/57°
     
 *   SunSunday
     
-    82°/53°
+    82°/54°
     
 *   MonMonday
     
-    80°/57°
+    81°/55°
+    
+*   TueTuesday
+    
+    81°/55°
     
 
 More Weather
 
 AD CONTENTby TaboolaRight Now
 
-*   High School Spotlight High school sports results, schedule
+*   High School Spotlight Saturday's high school sports results
     
-    13 hours, 6 minutes ago
+    1 hour, 1 minute ago
     
 *   The Beat Bewitched? Dave Acosta has no post-Halloween gripes
     
-    1 day, 8 hours ago
+    2 days, 6 hours ago
     
 *   El Paso Cappies METAMORPHOSES presented by Pebble Hills High School
     
-    4 days, 13 hours ago
+    5 days, 11 hours ago
     
 *   UTEP Sports Conference USA football standings
     
-    5 days, 5 hours ago
+    6 days, 3 hours ago
     
 *   Free Kicks with Joe Bravos Look To Take Sole Possession Of First Place…
     
-    1 week, 6 days ago
+    2 weeks ago
     
 *   Tales from the Morgue 1969: Benjamin Paddock escaped from La Tuna
     
@@ -725,7 +725,7 @@ AD CONTENTby TaboolaRight Now
     
 *   After the Bell UTEP appoints new academic affairs provost
     
-    6 months ago
+    6 months, 1 week ago
     
 *   Down the Barrel Commanding general for JMC calls Bliss 'best-kept secret'
     
