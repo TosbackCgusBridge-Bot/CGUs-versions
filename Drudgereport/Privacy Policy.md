@@ -119,15 +119,15 @@ LATEST ON TWITTER
 
 Recap: Celebrating our own Erik @Requidan &. all of DC's winning innovators &. leaders at @DC\_Inno #50onFireDC event: intermarkets.net/201…
 
-About 10 hours ago
+About a day ago
 
 My week on Twitter : 1 Mention, 239 Mention Reach, 6 Favorited, 6 Retweets, 2.2K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/LPTz…
 
-About 3 days ago
+About 4 days ago
 
 Our biggest fans this week: @kerel\_cooper, @Requidan, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/wR3A…
 
-About 4 days ago
+About 5 days ago
 
 Where is #programmatic heading? Erik @Requidan talks to @LiveIntent about this and more in this month's podcast: blog.liveintent.com/…
 
