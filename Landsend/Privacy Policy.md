@@ -773,9 +773,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 40% off your order! Plus, CashTouch scarves from $15!
+Today only! Receive 40% off your order! Plus, fleece throws from $10!
 
-code: PALS pin: 8229 DETAILS
+code: FRIENDSHIP pin: 4509 DETAILS
 
 Shop Now Customer Service Menu
 
