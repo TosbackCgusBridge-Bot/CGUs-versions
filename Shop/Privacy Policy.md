@@ -328,15 +328,17 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers
+Home >. Filter by specs Offers New ThinkPad A475
 
-Don't fear Black Friday. Shop early and get great savings now.
+Where your professional capabilities and budget meet
 
 Shop now >.
 
-CROSS OUT THE ORDINARY
+Yoga 720 15"
 
-Learn More >.
+A Powerhouse That Bends Backwards
+
+Celebrate >.
 
 Lenovo in the Data Center
 
@@ -348,23 +350,71 @@ Learn more >.
 *   2
 *   3
 
-ThinkPad X1 Carbon
+Weekly Deals
 
-The lightest, thinnest X1 Carbon, packed with more power than ever.
+Great deals on select products.
 
 Boost Your Bottom Line
 
 What if you could push your business towards the black, while beating the line on Black Friday? Now you can.
 
-FLEX 5 (15")
+72 Hours Only
 
-Pen-point sensitive touch screen and durable 360 degree hinge.
+Save on the lightest and thinnest PCs in their class. Sale ends Nov 8th.
 
-Miix 720
+ThinkPad X1 Carbon
 
-Need productivity on the go? This 2-in-1 can take you there.
+The lightest, thinnest X1 Carbon, packed with more power than ever.
 
-C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE!
+C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE! Recommended For You Best Seller ThinkPad X1 Carbon (5th gen)
+
+★★★★★ ★★★★★
+
+3.9
+
+(66)
+
+$1403.10
+
+Shop Now
+
+2417Viewing ThinkPad T470 Business Laptop
+
+★★★★★ ★★★★★
+
+3.5
+
+(15)
+
+$783.20
+
+Shop Now
+
+1014Viewing Lenovo Yoga 720 (13")
+
+★★★★★ ★★★★★
+
+3.9
+
+(53)
+
+$749.99
+
+Shop Now
+
+1228Viewing ThinkPad P51 Mobile Workstation
+
+★★★★★ ★★★★★
+
+4.6
+
+(13)
+
+$1191.20
+
+Shop Now
+
+534Viewing
 
 LAPTOPS
 
