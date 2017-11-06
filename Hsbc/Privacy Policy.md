@@ -44,7 +44,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Employee networks
         *   Valuing diversity last item in this group
     *   Sustainability
-        *   Finance
+        *   Sustainable finance
         *   Operations
         *   Communities
         *   Case studies last item in this group
