@@ -250,8 +250,8 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   House Republicans Unveil Tax Cuts, But Obstacles Remain
 *   Parties' 2018 Hopes Ride on Selling--or Maligning--Tax Bill
+*   House Republicans Unveil Tax Cuts, But Obstacles Remain
 *   Trump Interview With Ingraham: Dossier, DOJ, Immigration, Dem Primary
 *   Dems Are Loath to Weaponize Russia Probe Indictments
 *   The Takeaway: N.J., Va. Races Near the Finish Line
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Virginia Governor - Gillespie vs. NorthamEmerson\*
+    *   Northam49
+    *   Gillespie46Northam +3
+*   Virginia Governor - Gillespie vs. NorthamNY Times/Siena\*
+    *   Northam43
+    *   Gillespie40Northam +3
+*   President Trump Job ApprovalGallup
+    *   Approve37
+    *   Disapprove57Disapprove +20
 *   Virginia Governor - Gillespie vs. NorthamTrafalgar Group (R)\*
     *   Northam49
     *   Gillespie48Northam +1
-*   Virginia Governor - Gillespie vs. NorthamGravis\*
-    *   Northam48
-    *   Gillespie43Northam +5
-*   President Trump Job ApprovalABC News/Wash Post
-    *   Approve38
-    *   Disapprove58Disapprove +20
-*   President Trump Job ApprovalGallup
-    *   Approve39
-    *   Disapprove56Disapprove +17
 
 More Latest Polls In The News
 
+*   Conway to Stelter: In Your Network's "Commercial Interest" To Be Anti-Trump. "CNN Should Own It"
+*   Trump In Japan: When Nations Underestimated Us "It Was Not Pleasant For Them"
+*   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
 *   Maher: How About A Democratic Party That Says We Find Beliefs Behind Terrorist Acts Intolerable?
 *   David Brooks: Those Of Us Trying To Rebut Trump Have The Disadvantage That "Our Elites Really Do Stink"
-*   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Den Rep. Gabbard: Campaign Finance Laws Allowed Clinton To Take Control Of DNC, Purge Sanders Supporters
-*   Trump Full Interview With Ingraham: Dossier, Justice Department, Immigration, DNC Primary &. Sanders
 
 *   Politics
 *   Policy
