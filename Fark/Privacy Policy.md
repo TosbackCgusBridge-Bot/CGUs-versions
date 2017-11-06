@@ -1,5 +1,3 @@
-Fark will be undergoing database maintenance for one hour during the Daylight Time switchover (in Eastern Time) -- more details here.
-
 > *   1 Legal Stuff
 >     *   1.1 Fark's Legal and Privacy Statement
 >         *   1.1.1 Terms Of Service
