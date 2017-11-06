@@ -553,6 +553,6 @@ About Us
 Stay Connected
 
 *   Live ChatCall Us
-*   Give $15, Get $15
+*   Refer a Friend
 
 © 2017 Aeropostale. All Rights Reserved.
