@@ -147,7 +147,7 @@ View Always ready to help. (Google Assistant Built-in Wireless Speaker) on Insta
 
 LEMON is out now! Watch @NeRdArMy's tutorial featuring @rihanna.
 
-2 days ago
+4 days ago
 
 View Tweet
 
@@ -223,7 +223,7 @@ View Platinum Headphones on Instagram
 
 Why War Mode is a bold step forward for Call of Duty: WWII’s competitive MP.
 
-3 days ago
+4 days ago
 
 View Tweet
 
@@ -311,7 +311,7 @@ View When In Doubt, Wear Red on Instagram
 
 Beginning this Friday, experience the Best Place to Play at #SonySquareNYC.
 
-2 days ago
+3 days ago
 
 View Tweet
 
