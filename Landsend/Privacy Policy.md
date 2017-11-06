@@ -773,9 +773,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Today only! Receive 40% off your order! Plus, fleece throws from $10!
+Today only! Receive 40% off your order! Plus, turtlenecks for the family from $12!
 
-code: FRIENDSHIP pin: 4509 DETAILS
+code: LOVING pin: 9012 DETAILS
 
 Shop Now Customer Service Menu
 
