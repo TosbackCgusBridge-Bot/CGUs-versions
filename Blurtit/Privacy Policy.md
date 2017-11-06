@@ -5,7 +5,7 @@ Blurtit.
 *   Discover
 *   Sign in
 
-FAQ's How helpful are you?
+**Ask anonymously** Next FAQ's How helpful are you?
 
 You know things no one else knows, so we’d love you to share your knowledge and become helpful to others. On Blurtit you’ll build a reputation and followers - who will also be helpful to you.
 
