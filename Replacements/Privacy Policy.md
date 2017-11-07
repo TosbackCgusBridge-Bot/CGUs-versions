@@ -29,6 +29,7 @@ Collectibles
 
 Get Inspired
 
+*   Curated by RPL
 *   Designers &. Influencers
 *   Get This Look
 *   Our Blog
@@ -144,6 +145,7 @@ Flatware Specials
     *   Designers &. Influencers
     *   Get This Look
     *   Our Blog
+    *   Curated by RPL
     
     *   Top Styles
     *   Seasonal Selections
