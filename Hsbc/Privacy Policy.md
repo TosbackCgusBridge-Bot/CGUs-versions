@@ -144,7 +144,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Application hints and tips
         
     *   Careers events
-        
+        *   HSBC Cambridge Dinner last item in this group
     *   Students and graduates
         *   View programmes
         *   Programmes in Commercial Banking
