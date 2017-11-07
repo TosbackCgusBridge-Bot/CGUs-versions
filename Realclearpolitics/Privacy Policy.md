@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Patricia Cohen_: A Tax Cut That Lifts the Economy? Opinions Are Split
+*   _David Graham_: Mass Shootings in America Are Spreading Like a Disease
     
-*   _John Podhoretz_: The Democratic Primary Was Rigged After All
+*   _David French_: In Face of Evil, Prayer a Rational &. Effective Response
     
-*   _Matt Bai_: The Patsy in the White House
+*   _Dean &. Vaughan_: Dems Have Already Started Their Comeback. VA Is Next
     
-*   _David Catanese_: One Year Later, Dems Still Stumped on Trump
+*   _James Antle_: Bloody VA Gov Race Looks Like Replay of Trump vs. Clinton
     
-*   _Eric Levitz_: America Is Not a 'Center-Right Nation'
+*   _Albert Hunt_: Look for Republicans to Backtrack on Taxes
     
-*   _J.B. White_: Trump Has Broken the Apology Hypnosis on Race
+*   _Rep. Peter Roskam_: GOP Tax Plan Will Unlock Growth, Help Middle Class
     
-*   _Eugene Robinson_: Trump's Racism Makes Him Corrosive to Nation
+*   _Jules Witcover_: No Attack Is Too Low for Our Vile President
     
-*   _Stephen Hayes_: How 470,000 Bin Laden Docs Got Out in the Open
+*   _Ned Ryun_: There's Nothing Normal About the Fusion GPS Dossier
     
-*   _Tucker Carlson_: We Have a Right to Be Worried About the FBI
+*   _Carron Phillips_: Vin Scully &. Mark Cuban Are Hypocrites
     
-*   _Farhad Manjoo_: The Upside of Being Ruled by the Five Tech Giants
+*   _Rev. Eugene Rivers_: Inner-City Needs Can't Be Delayed 4 More Years
     
-*   _Ben Weingarten_: PragerU Sues YouTube for Discriminating Against Videos
+*   _Todd Hitt_: Puerto Ricans Are U.S. Citizens. We Owe Them Our Help
     
-*   _Newt Gingrich_: Tax Cuts Are Key to Reaching Four Percent Growth
+*   _Scott Pelley_: The 12-Year-Old Prodigy Whose 'First Language' Is Mozart
     
-*   _Scott Lemieux_: What a Surprise: Another Tax Plan to Help the Super Rich
+*   _Sen. Marco Rubio_: Tax Reform Should Help American Families
     
-*   _Steven Rattner_: Trump Makes the Right Choice With Jerome Powell
+*   _Lawrence Summers_: 3 (Almost) Inexplicable Parts of GOP Tax Plan
     
-*   _Daniel Flynn_: How Democrats Cheated Sanders and Lied About It
+*   _Byron York_: Spinning in Circles on the Trump Dossier
     
-*   _Molly Ball_: Trump's Mueller Problem
+*   _Reza Aslan_: The Dangerous Cult of Donald Trump
     
-*   _Holman Jenkins_: Trump and the 'Russia Racket'
+*   _Timothy Stanley_: Liberals Still Obsessed &. Tortured by Trump's Victory
     
-*   _James Arkin_: Parties' 2018 Hopes Ride on Selling--or Maligning--Tax Bill
+*   _E.J. Dionne_: Virginia Will Be Speaking for the Nation
     
-*   _Jelani Cobb_: John Kelly's Bizarre Mythology of the Civil War
+*   _David Catron_: Does Northam Think 67% of Virginians Are Racists?
     
-*   _John Davidson_: Kelly Is Right: Civil War Came Because Compromise Failed
+*   _Sean Trende_: Virginia Governor Race Within the 'Margie Margin'
     
-*   _John Kass_: The Language of Islamic Terror in America
+*   _Phil Hotsenpiller_: God, Evil &. a Senseless Act
     
-*   _Ash Carter_: Behind the Plan to Defeat ISIS
+*   _Josh Marshall_: Donna Brazile's Growing Pile of Nonsense
     
-*   _Jennifer Kerns_: Brennan's Intel Failures Hurt Our Security, Democracy
+*   _Glenn Greenwald_: Journalists Spreading Lies on Twitter
     
-*   _Caitlin Huey-Burns_: Dems Are Loath to Weaponize Russia Probe Indictments
+*   _Conrad Black_: Is Mueller Working With the Democrats?
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   With Tensions High, Trump, Abe Strengthen Bond on the Links
+*   Va. Governor Race Is Within the "Margie Margin"
+*   Psaki Slams Warren, Says Dem Primary Wasn't Rigged for Clinton
 *   Parties' 2018 Hopes Ride on Selling--or Maligning--Tax Bill
 *   House Republicans Unveil Tax Cuts, But Obstacles Remain
-*   Trump Interview With Ingraham: Dossier, DOJ, Immigration, Dem Primary
-*   Dems Are Loath to Weaponize Russia Probe Indictments
-*   The Takeaway: N.J., Va. Races Near the Finish Line
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,23 +269,23 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Virginia Governor - Gillespie vs. NorthamEmerson\*
-    *   Northam49
-    *   Gillespie46Northam +3
-*   Virginia Governor - Gillespie vs. NorthamNY Times/Siena\*
-    *   Northam43
-    *   Gillespie40Northam +3
-*   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove57Disapprove +20
-*   Virginia Governor - Gillespie vs. NorthamTrafalgar Group (R)\*
-    *   Northam49
-    *   Gillespie48Northam +1
+*   Virginia Governor - Gillespie vs. NorthamMonmouth\*
+    *   Northam47
+    *   Gillespie45Northam +2
+*   Virginia Governor - Gillespie vs. NorthamFOX News\*
+    *   Northam48
+    *   Gillespie43Northam +5
+*   Virginia Governor - Gillespie vs. NorthamQuinnipiac\*
+    *   Northam51
+    *   Gillespie42Northam +9
+*   Virginia Governor - Gillespie vs. NorthamThe Polling Company (R)
+    *   Northam47
+    *   Gillespie46Northam +1
 
 More Latest Polls In The News
 
+*   DNC Chair Perez: Actually, DNC Gave Clinton "Insufficient And Just Substandard Tools For Success"
 *   Conway to Stelter: In Your Network's "Commercial Interest" To Be Anti-Trump. "CNN Should Own It"
-*   Trump In Japan: When Nations Underestimated Us "It Was Not Pleasant For Them"
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
 *   Maher: How About A Democratic Party That Says We Find Beliefs Behind Terrorist Acts Intolerable?
 *   David Brooks: Those Of Us Trying To Rebut Trump Have The Disadvantage That "Our Elites Really Do Stink"
