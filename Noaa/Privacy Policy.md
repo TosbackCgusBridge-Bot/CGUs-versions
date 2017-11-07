@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts BOO? You won't find any trick-or-treaters in a ghost forest Oceans &. Coasts Five years after Sandy: What we've learned National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites Launch of JPSS-1 satellite is delayed Oceans &. Coasts Five years after Sandy: What we've learned National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Warm air helped keep 2017 Antarctic ozone hole smallest in 29 years AROUND NOAA // Weather readiness depends on more than just a good forecast Report: American fisheries remain a strong economic driver Federal collaboration yields radar coverage for Puerto Rico, USVI in wake of Hurricane Maria
+Enter Search Terms Launch of JPSS-1 satellite is delayed AROUND NOAA // Warm air helped keep 2017 Antarctic ozone hole smallest in 29 years Report: American fisheries remain a strong economic driver Federal collaboration yields radar coverage for Puerto Rico, USVI in wake of Hurricane Maria
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-NOAA
+NOAA &. iStock
