@@ -1,4 +1,4 @@
-The Register is owned and operated by Situation Publishing Limited
+The Register is owned and operated by Situation Publishing Limited.
 
 Situation Publishing Limited  
 Unit 1  
@@ -9,7 +9,7 @@ PR8 1LJ
 
 The Register strongly believes in the importance of keeping readers' personal information personal. It will never use your information for any use beyond that stated or the permissions you give us or as required by law. This policy should be read in conjunction with our Terms of Use here.
 
-The Register may collect, process and use your personal data (including your name, postal address, email address, telephone, mobile and fax numbers). We will do so to contact you regarding the services you have requested and/or to offer services to you, and/or to provide the services you have requested. This includes re-registration/renewal notifications, payment processing, surveys on improving our service to you and/or invitations to exhibitions, seminars and shows. The Register may employ trusted third party specialists to process and use your data on our behalf in order to deliver the products and services to you in a more efficient manner.
+The Register may collect, process and use your personal data (including your name, postal address, email address, telephone, and mobile numbers). We will do so to contact you regarding the services you have requested and/or to offer services to you, and/or to provide the services you have requested. This includes re-registration/renewal notifications, payment processing, surveys on improving our service to you and/or invitations to exhibitions, seminars and shows. The Register may employ trusted third party specialists to process and use your data on our behalf in order to deliver the products and services to you in a more efficient manner.
 
 IP Addresses and Server Logs
 
@@ -27,15 +27,17 @@ These ad servers may attempt to set cookies on your computer. All these sites st
 
 The respective privacy policies of these ad servers can be found here:
 
-DoubleClick Privacy Policy
+Google / DoubleClick
 
-DoubleClick also has a cookie opt-out facility here
+DoubleClick has a cookie opt-out facility here
+
+Sovrn / lijit.com Privacy Policy
 
 Atlas DMT Privacy Policy
 
 MediaMind Privacy Policy
 
-If you encounter any problems with advertising please email ads@theregister.co.uk
+If you encounter any problems with advertising please email ads@sitpub.com
 
 Email and Online Forms
 
@@ -57,10 +59,6 @@ If permission is granted, this information may be used to send occasional emails
 
 The Register will never use your data for anything beyond the reason stated and the permissions you grant us.
 
-Mobile Apps
-
-When using comments through The Register mobile apps, login details that are entered within the app are submitted to The Register’s servers and the IP address of all communication with the servers is logged. This IP information is used anonymously in aggregate for generating site statistics, and for ensuring our services are not abused. We do not process login information for any further purpose.
-
 Publishing
 
 We reserve the right to publish emails and letters sent to The Register. If the sender asks that that we don't reveal his or her identity, that information won't be published. We never publish a private email address unless specifically asked to do so by its owner.
@@ -71,7 +69,7 @@ Peer 1 hosts The Register's websites.
 
 Data Protection
 
-Anyone who provides The Register with personal information is given the opportunity to manage how that information is used. This includes opting out of any services and restricting the use of that information. You can do that by visiting this address or by contacting The data controller (Caroline Wilson).
+Anyone who provides The Register with personal information is given the opportunity to manage how that information is used. This includes opting out of any services and restricting the use of that information. You can do that by visiting this address or by contacting The data controller (Caroline Cash).
 
 Accessing your Data
 
@@ -97,4 +95,4 @@ Southport PR8 1LJ
 
 By Email
 
-cwilson@sitpub.com
+ccash@sitpub.com
