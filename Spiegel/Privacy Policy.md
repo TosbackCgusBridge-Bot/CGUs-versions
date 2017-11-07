@@ -17,7 +17,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 13.478,86ǀ
+*   DAX 13.468,79ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -112,9 +112,9 @@ Anmelden
         *   Medizin
         *   Datenlese
         *   ÜberMorgen
+        *   Uno-Klimakonferenz 2017
     *   *   Sudoku
         *   Kenken
-        *   Street
 
 *   Gesundheit
     
