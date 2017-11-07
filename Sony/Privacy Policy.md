@@ -145,25 +145,25 @@ View Always ready to help. (Google Assistant Built-in Wireless Speaker) on Insta
 
 <img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/22581825\_148972942509660\_4207276051069403136\_n.jpg);" alt="">.
 
-LEMON is out now! Watch @NeRdArMy's tutorial featuring @rihanna.
+Season Two of the award-winning drama @TheCrownNetflix returns to @netflix Friday, December 8. Watch the new trailer.
 
-4 days ago
+21 hours ago
 
 View Tweet
 
-A New Story Begins
+Make Movie Night Better
 
-With Aibo
+With Our 4K HDR TVs
 
 Close
 
-*   Share A New Story Begins on Facebook
-*   Share A New Story Begins on Twitter
-*   Copy URL to share A New Story Begins
+*   Share Make Movie Night Better on Facebook
+*   Share Make Movie Night Better on Twitter
+*   Copy URL to share Make Movie Night Better
 
-With Aibo
+With Our 4K HDR TVs
 
-<img class="bg-img" class="url(/en\_us/media/content/Aibo-600x600v3\_4yhh2RB.jpg);" alt="Aibo-Announcement ">. Earn Sony Rewards Points to Get Access to Exclusive Experiences
+<img class="bg-img" class="url(/en\_us/media/content/4KTV-600x600\_CB1UnP1.jpg);" alt="4K TV">. Earn Sony Rewards Points to Get Access to Exclusive Experiences
 
 Learn More About the New Sony Card℠
 
@@ -221,9 +221,9 @@ View Platinum Headphones on Instagram
 
 <img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/16123861\_1708335559477461\_5514599993584910336\_n.jpg);" alt="">.
 
-Why War Mode is a bold step forward for Call of Duty: WWII’s competitive MP.
+Welcome back, Dragonborn. Introducing the PlayStation VR Skyrim VR Bundle.
 
-4 days ago
+22 hours ago
 
 View Tweet
 
@@ -309,9 +309,9 @@ View When In Doubt, Wear Red on Instagram
 
 <img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/22580562\_147212832557339\_6011370702907637760\_n.jpg);" alt="">.
 
-Beginning this Friday, experience the Best Place to Play at #SonySquareNYC.
+With #Xperia XZ1 and Predictive Capture, you’re sure to snap the sweetest smile – every time.
 
-3 days ago
+2 hours ago
 
 View Tweet
 
