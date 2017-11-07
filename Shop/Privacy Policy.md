@@ -289,12 +289,6 @@ Menu Close Menu Close
     *   Lenovo Partner Network
     *   See All Solutions
 *   Email Sign-Up
-*   My Account
-    *   Sign In
-    *   My Account
-    *   Orders
-    *   Product Registration
-    *   Sign Out
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
@@ -302,8 +296,8 @@ HOLIDAY
 STORE
 
 *   Call 1-855-253-6686
-
 *   Email Sign-Up
+
 *   My Account
     *   Sign In
     *   My Account
@@ -319,12 +313,6 @@ STORE
 Compare (0)
 
 *   Email Sign-Up
-*   My Account
-    *   Sign In
-    *   My Account
-    *   Orders
-    *   Product Registration
-    *   Sign Out
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
@@ -378,43 +366,43 @@ $1403.10
 
 Shop Now
 
-2417Viewing ThinkPad T470 Business Laptop
-
-★★★★★ ★★★★★
-
-3.5
-
-(15)
-
-$783.20
-
-Shop Now
-
-1014Viewing Lenovo Yoga 720 (13")
+2217Viewing Best Seller Lenovo Yoga 720 (13")
 
 ★★★★★ ★★★★★
 
 3.9
 
-(53)
+(54)
 
 $749.99
 
 Shop Now
 
-1228Viewing ThinkPad P51 Mobile Workstation
+1045Viewing Best Seller Yoga 910 (14")
 
 ★★★★★ ★★★★★
 
-4.6
+4.1
 
-(13)
+(407)
 
-$1191.20
+$1029.99
 
 Shop Now
 
-534Viewing
+1140Viewing Best Seller ThinkPad T470s
+
+★★★★★ ★★★★★
+
+3.5
+
+(4)
+
+$1079.10
+
+Shop Now
+
+590Viewing
 
 LAPTOPS
 
