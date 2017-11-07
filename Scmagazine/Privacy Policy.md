@@ -1,4 +1,4 @@
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. menu
+menu
 
 *   SC US
 *   SC UK
@@ -206,7 +206,7 @@ Copyright © 2016 Haymarket Media, Inc. All Rights Reserved.
 This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
 Your use of this website constitutes acceptance of Haymarket Media's Privacy Policy and Terms &. Conditions.
 
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W475TQW" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">×Have your voice heard!
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W475TQW" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">×Have your voice heard!
 
 Do you really know how your key production indicators are performing?  
   
