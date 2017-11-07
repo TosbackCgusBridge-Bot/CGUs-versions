@@ -5,48 +5,47 @@ Gift Cards | Offers | Sign In Sign Out
 
 *   Movies Now Playing
     
+    *   Thor: Ragnarok (2017)
+    *   A Bad Moms Christmas
     *   Jigsaw
     *   Boo 2! A Madea Halloween
     *   Geostorm
     *   Happy Death Day
-    *   Blade Runner 2049
     *   Thank You for Your Service (2017)
+    *   Blade Runner 2049
     *   Only the Brave
-    *   The Foreigner (2017)
     *   Let There Be Light (2017)
-    *   It (2017)
-    *   American Made
+    *   The Foreigner (2017)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   A Bad Moms Christmas
-    *   Thor: Ragnarok (2017)
-    *   11/8/16
-    *   Bad Grandmas
-    *   Battlecreek
-    *   Blade of the Immortal
-    *   Ittefaq (2017)
-    *   Lady Bird
-    *   Last Flag Flying
-    *   LBJ
-    *   Dream Boat (2017)
+    *   Daddy's Home 2
+    *   Murder on the Orient Express (2017)
+    *   Amanda &. Jack Go Glamping
+    *   No Greater Love
+    *   The Secret Life of Lance Letscher
+    *   Thelma (2017)
+    *   Three Billboards Outside Ebbing, Missouri
     *   See All Opening This Week
     
     Pre Sales Tickets
     
+    *   Justice League (2017)
+    *   Coco (2017)
     *   Star Wars: The Last Jedi (2017)
     
     Coming Soon
     
-    *   Daddy's Home 2
-    *   Murder on the Orient Express (2017)
-    *   Justice League (2017)
     *   The Star (2017)
     *   Wonder
     *   Coco (2017)
     *   Just Getting Started
     *   Ferdinand
+    *   All the Money in the World
+    *   Downsizing
+    *   Father Figures
+    *   Pitch Perfect 3
     *   See All Coming Soon
     
     Explore More
@@ -74,9 +73,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Movie News: 'Shazam!' Villain Touted Read More
-    *   Trailer Roundup: 'Downsizing,' 'The Disaster Artist' and 'Pottersville' Read More
-    *   How the 'Thor: Ragnarok' Post-Credits Scenes Set Up 'Avengers: Infinity War' Read More
+    *   Movie News: New 'Red Sonja' on Its Way Read More
+    *   Watch: Final 'Fifty Shades Freed' Trailer Released Read More
+    *   Disney Has Talked to 21st Century Fox About Buying Its Movie and TV Properties Read More
     
     Explore Content
     *   Movie Reviews
@@ -275,14 +274,13 @@ Offers
     
     Buy tickets to ‘Thor: Ragnarok’ and get FREE\* exclusive poster on Fandango FanShop. BUY TICKETS
     
-*   Fandango VIP
+*   'Fifty Shades Freed' Sweepstakes
     
-    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
+    Buy tickets now and you could win a vacation to Paris BUY TICKETS
     
 
 New + Coming soon
 
-*   Jigsaw
 *   Thor: Ragnarok (2017)
 *   Daddy's Home 2
 *   Justice League (2017)
@@ -290,6 +288,7 @@ New + Coming soon
 *   Star Wars: The Last Jedi (2017)
 *   Jumanji: Welcome to the Jungle
 *   Pitch Perfect 3
+*   Black Panther
 
 Experience + Explore
 
