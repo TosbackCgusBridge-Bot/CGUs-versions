@@ -773,9 +773,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Today only! Receive 40% off your order! Plus, turtlenecks for the family from $12!
+Today only! Receive 40% off your order! Plus, fleece half-zips from $15!
 
-code: LOVING pin: 9012 DETAILS
+code: HAPPY pin: 5463 DETAILS
 
 Shop Now Customer Service Menu
 
