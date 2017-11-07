@@ -117,23 +117,23 @@ When you use the Intermarkets website, you are accepting the terms and condition
 
 LATEST ON TWITTER
 
+Erik @Requidan's advice to publisher's adding to Ads.txt files: Be mindful and vigilant adexchanger.com/publ… via @adexchanger
+
+About 16 hours ago
+
 Recap: Celebrating our own Erik @Requidan &. all of DC's winning innovators &. leaders at @DC\_Inno #50onFireDC event: intermarkets.net/201…
 
-About 2 days ago
+About 3 days ago
 
 My week on Twitter : 1 Mention, 239 Mention Reach, 6 Favorited, 6 Retweets, 2.2K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/LPTz…
 
-About 5 days ago
+About 6 days ago
 
 Our biggest fans this week: @kerel\_cooper, @Requidan, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/wR3A…
 
-About 6 days ago
+Last week
 
 Where is #programmatic heading? Erik @Requidan talks to @LiveIntent about this and more in this month's podcast: blog.liveintent.com/…
-
-About 2 weeks ago
-
-My week on Twitter : 3 Mentions, 16.8K Mention Reach, 3 Favorited, 2 Tweets. See yours with sumall.com/performan… pic.twitter.com/nuSB…
 
 About 2 weeks ago
 
