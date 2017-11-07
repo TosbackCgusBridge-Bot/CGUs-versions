@@ -30,7 +30,8 @@
     *   All Natural
     *   Seafood
 *   Fruit Baskets
-    View All Categories Shop by Category*   Wine &. Fruit Baskets
+    View All Categories Shop by Category*   Fruit Baskets
+    *   Wine &. Fruit Baskets
 *   Gourmet Snacks
     View All Categories Shop by Category*   Condiments &. Spreads
     *   Gourmet Mustard
@@ -96,7 +97,8 @@
     *   All Natural
     *   Seafood
 *   Fruit Baskets
-    View All Categories Shop by Category*   Wine &. Fruit Baskets
+    View All Categories Shop by Category*   Fruit Baskets
+    *   Wine &. Fruit Baskets
 *   Gourmet Snacks
     View All Categories Shop by Category*   Condiments &. Spreads
     *   Gourmet Mustard
