@@ -8,6 +8,33 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Free Shipping: Budget-Friendly Rugs from $26
+    *   Free Shipping: Luxe Faux Fur Accents
+    *   Free Shipping: Modern Flatware
+    *   JA Henckels
+    *   KitchenAid
+    *   Frye
+    *   Frye Men
+    *   Frye Handbags
+    *   Fall Frills: DR2 by Daniel Rainn &. More
+    *   Frye Men's Accessories
+    *   James Jeans
+    *   Soprano
+    *   Warm &. Cozy: Ponchos, Ruanas &. More
+    *   Monoreno
+    *   California Made: King Baby Jewelry
+    *   Lounge &. Sleep ft. The Laundry Room
+    *   Swim from Raisins, Leilani &. More
+    *   Kelsi Dagger Brooklyn
+    *   Chamilia by Swarovski
+    *   NuFACE Facial Toning Device
+    *   GrandeLASH-MD
+    *   Men's Premium Jean Shop
+    *   Stay Warm: Men's Outerwear ft. Hawke &. Co.
+    *   2(X)IST
+    *   PLAE
+    *   Fall Looks for Boys ft. Tailor Vintage
+    *   Jessica Simpson Baby &. Girls
     *   Tory Burch
     *   Tory Burch Handbags
     *   Tory Burch Clothing
@@ -15,13 +42,14 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Tory Burch Swim
     *   Tory Burch Fragrances
     *   Tory Burch Jewelry
+    
     *   Tory Burch Sunglasses
     *   Dresses We Love ft. Monique Lhuillier
     *   Susina Including Plus &. Petites
-    *   BECCA Cosmetics
-    *   Rock &. Candy and Zigi
     *   Sky
+    *   Rock &. Candy and Zigi
     *   NUX Active
+    *   BECCA Cosmetics
     *   Celebrity Strands Hair Extensions
     *   Jack Spade
     *   Fall Fresh Wardrobe: Soul Star
@@ -41,93 +69,65 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Men's Final Few Up to 75% Off
     *   Men's Shoe Blowout
     *   Sun Up to 80% Off ft. JOE'S Jeans
-    *   Cashmere ft. Catherine Catherine Malandrino
-    *   Romeo &. Juliet Couture
-    *   Catherine Catherine Malandrino Up to 60% Off
-    *   BLVD Starting at $15
-    *   Party Dresses Starting at $30
-    *   Josie Sleep &. Lingerie
-    
-    *   Sunday Comforts: Leggings, Sweatshirts &. More
-    *   ECCO
-    *   Chinese Laundry
-    *   Cold Front: Wool Coats Up to 65% Off
-    *   Made in Italy: Handbags
-    *   Blackstone Women
-    *   Bold Gems, Ring Stacks &. More
     *   Korean Beauty: Leaders Cosmetics
     *   Tommy Hilfiger Suits &. More
     *   Kinetix
     *   Rockport
     *   Eton Dress Shirts &. More
-    *   Citizen Eco-Drive Watches &. More
     *   Weekend Casual: Ezekiel &. More
     *   Teami Blends Detox Teas &. Supplements
     *   Free Shipping: Bedding Essentials Blowout
+    
     *   Free Shipping: Holiday Decor Starting at $12
     *   Frenchie Mini Couture
-    *   Crocs for the Whole Family
     *   Waiting for Santa: Kids' PJs
     *   Ravensburger: Puzzle Gifts &. More
-    *   MISS ME
-    *   Betsey Johnson &. Love...Ady Dresses
-    *   Felina Lingerie &. Sleep Incl. Full-Fit Bras
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
-    *   Workweek Chic: Shoes ft. Michael Michael Kors
-    *   Joe Fresh Including Plus
-    *   Noa Elle Up to 60% Off
-    *   Free City Up to 70% Off
-    *   Ivy Kirzhner
-    *   Active Brands We Love Under $40
-    *   Nanette Nanette Lepore
-    *   Agate, Quartz &. Crystal Jewelry Starting at $15
-    *   Colorful Gemstone Jewelry
-    *   Must-Have Fall Bags
     *   Jolii Cosmetics
     *   Nion Beauty Face &. Body Brushes
-    *   Initial Pendant Necklaces Under $25
-    *   L4L
-    
     *   Golf Gear ft. Callaway
     *   Crevo
     *   Revo
     *   22|7
     *   Praise &. More Up to 70% Off
-    *   PinkBlush Maternity
-    *   Best for Baby: Coccoli
-    *   Bravado Designs Maternity &. Nursing Intimates
-    *   GEOX Kids
     *   Charging, Bluetooth &. Phone Accessories
     *   Free Shipping: Mason Jar Candles &. More
-    *   Men's Cold-Weather Jackets &. More
-    *   Cold Weather Essentials: Men's Boots
-    *   Bundle Up: Men's Accessories
     *   Cool Cosmetic Bags by Henry Charles
-    *   Elemis Skincare
+    *   PinkBlush Maternity
     *   Trophy Skin
-    *   Civil Society &. More
-    *   Bespoke Up to 80% Off
-    *   Free Shipping: Amrapur Bedding
-    *   Crown Pro Starting at $10
-    *   GO SMiLE
-    *   Fromm Beauty Must-Haves Starting at $10
+    *   Bravado Designs Maternity &. Nursing Intimates
     *   Free Shipping: Rustic Decor, Vases &. More
     *   Keep Time: Sleek Modern Clocks
     *   Free Shipping: Holiday Dining Essentials
     *   Free Shipping: Bathroom Accessories
     *   Fresh Bathroom Scents by Poo-Pourri
     *   Storage &. Organization Essentials
-    *   UGG Home
-    *   Host Gifts: Quirky Kitchen Towels
-    *   Free Shipping: BergHOFF
-    *   Free Shipping: Hip Accent Furniture
-    *   Free Shipping: Fashion-Forward Art
-    *   Drifter Men
-    *   Nambe
-    *   Jewelry Steals Up to 85% Off
     *   Gifts &. Stocking Stuffers
+    *   Jewelry Steals Up to 85% Off
+    *   Cashmere ft. Catherine Catherine Malandrino
+    *   Romeo &. Juliet Couture
+    *   BLVD Starting at $15
+    *   ECCO
+    *   MISS ME
+    *   Felina Lingerie &. Sleep Incl. Full-Fit Bras
+    *   Elemis Skincare
+    *   Free Shipping: Amrapur Bedding
 *   WomenShop Sale Events
     
+    *   Frye
+    *   Frye Handbags
+    *   Fall Frills: DR2 by Daniel Rainn &. More
+    *   James Jeans
+    *   Soprano
+    *   Warm &. Cozy: Ponchos, Ruanas &. More
+    *   Monoreno
+    *   California Made: King Baby Jewelry
+    *   Lounge &. Sleep ft. The Laundry Room
+    *   Swim from Raisins, Leilani &. More
+    *   Kelsi Dagger Brooklyn
+    *   Chamilia by Swarovski
+    *   NuFACE Facial Toning Device
+    *   GrandeLASH-MD
     *   Tory Burch
     *   Tory Burch Handbags
     *   Tory Burch Clothing
@@ -138,73 +138,51 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Tory Burch Sunglasses
     *   Dresses We Love ft. Monique Lhuillier
     *   Susina Including Plus &. Petites
-    *   BECCA Cosmetics
-    *   Rock &. Candy and Zigi
     *   Sky
+    *   Rock &. Candy and Zigi
+    
     *   NUX Active
+    *   BECCA Cosmetics
     *   Celebrity Strands Hair Extensions
     *   Norma Kamali Up to 70% Off
     *   Shoe Closet Blowout: Boots, Booties &. More
     *   American Twist Starting at $15
     *   HERA Hair Tools Up to 85% Off
     *   Sun Up to 80% Off ft. JOE'S Jeans
-    *   Cashmere ft. Catherine Catherine Malandrino
-    *   Romeo &. Juliet Couture
-    *   Catherine Catherine Malandrino Up to 60% Off
-    *   BLVD Starting at $15
-    *   Party Dresses Starting at $30
-    *   Josie Sleep &. Lingerie
-    *   Sunday Comforts: Leggings, Sweatshirts &. More
-    *   ECCO
-    *   Chinese Laundry
-    *   Cold Front: Wool Coats Up to 65% Off
-    *   Made in Italy: Handbags
-    *   Blackstone Women
-    
-    *   Bold Gems, Ring Stacks &. More
     *   Korean Beauty: Leaders Cosmetics
-    *   Citizen Eco-Drive Watches &. More
     *   Teami Blends Detox Teas &. Supplements
-    *   Crocs for the Whole Family
-    *   MISS ME
-    *   Betsey Johnson &. Love...Ady Dresses
-    *   Felina Lingerie &. Sleep Incl. Full-Fit Bras
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
-    *   Workweek Chic: Shoes ft. Michael Michael Kors
-    *   Joe Fresh Including Plus
-    *   Noa Elle Up to 60% Off
-    *   Free City Up to 70% Off
-    *   Ivy Kirzhner
-    *   Active Brands We Love Under $40
-    *   Nanette Nanette Lepore
-    *   Agate, Quartz &. Crystal Jewelry Starting at $15
-    *   Colorful Gemstone Jewelry
-    *   Must-Have Fall Bags
     *   Jolii Cosmetics
     *   Nion Beauty Face &. Body Brushes
-    *   Initial Pendant Necklaces Under $25
-    *   L4L
-    *   PinkBlush Maternity
-    *   Bravado Designs Maternity &. Nursing Intimates
     *   Cool Cosmetic Bags by Henry Charles
-    *   Elemis Skincare
+    *   PinkBlush Maternity
     *   Trophy Skin
-    *   Crown Pro Starting at $10
-    *   GO SMiLE
-    *   Fromm Beauty Must-Haves Starting at $10
+    *   Bravado Designs Maternity &. Nursing Intimates
     *   Jewelry Steals Up to 85% Off
+    *   Cashmere ft. Catherine Catherine Malandrino
+    *   Romeo &. Juliet Couture
+    *   BLVD Starting at $15
+    *   ECCO
+    *   MISS ME
+    *   Felina Lingerie &. Sleep Incl. Full-Fit Bras
+    *   Elemis Skincare
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Lingerie
     *   Tech Accessories
-    *   Handbags
     *   Accessories
+    *   Handbags
+    *   Lingerie
     *   Watches
 *   MenShop Sale Events
     
+    *   Frye Men
+    *   Frye Men's Accessories
+    *   Men's Premium Jean Shop
+    *   Stay Warm: Men's Outerwear ft. Hawke &. Co.
+    *   2(X)IST
     *   Jack Spade
     *   Fall Fresh Wardrobe: Soul Star
     *   Andrew Marc
@@ -212,85 +190,74 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Flomotion
     *   Men's Final Few Up to 75% Off
     *   Men's Shoe Blowout
+    
     *   Sun Up to 80% Off ft. JOE'S Jeans
     *   Tommy Hilfiger Suits &. More
     *   Kinetix
     *   Rockport
     *   Eton Dress Shirts &. More
-    *   Citizen Eco-Drive Watches &. More
     *   Weekend Casual: Ezekiel &. More
-    
     *   Teami Blends Detox Teas &. Supplements
-    *   Crocs for the Whole Family
     *   Golf Gear ft. Callaway
     *   Crevo
     *   Revo
     *   22|7
     *   Praise &. More Up to 70% Off
-    *   Men's Cold-Weather Jackets &. More
-    *   Cold Weather Essentials: Men's Boots
-    *   Bundle Up: Men's Accessories
-    *   Civil Society &. More
-    *   Bespoke Up to 80% Off
-    *   GO SMiLE
-    *   Drifter Men
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
+    *   PLAE
+    *   Fall Looks for Boys ft. Tailor Vintage
+    *   Jessica Simpson Baby &. Girls
     *   Luxe Gifts for Baby from Bonnie Mob
     *   Carter's
     *   Baby Aspen Gifts
-    *   Frenchie Mini Couture
-    *   Crocs for the Whole Family
-    *   Waiting for Santa: Kids' PJs
     
+    *   Frenchie Mini Couture
+    *   Waiting for Santa: Kids' PJs
     *   Ravensburger: Puzzle Gifts &. More
     *   PinkBlush Maternity
-    *   Best for Baby: Coccoli
     *   Bravado Designs Maternity &. Nursing Intimates
-    *   GEOX Kids
     
     Shop By Category
     *   Toys
-    *   Baby Gear &. Essentials
-    *   Baby Boy
-    *   Girls' Shoes
-    *   Girls Sizes 2T-6X
     *   Boys Sizes 2T-7
+    *   Baby Gear &. Essentials
+    *   Girls Sizes 2T-6X
     *   Baby Girl
-    *   Boys' Shoes
+    *   Baby Boy
     *   Girls Sizes 7-16
-    *   Kids Accessories
     *   Boys Sizes 8-20
+    *   Girls' Shoes
+    *   Boys' Shoes
+    *   Kids Accessories
 *   HomeShop Sale Events
     
+    *   Free Shipping: Budget-Friendly Rugs from $26
+    *   Free Shipping: Luxe Faux Fur Accents
+    *   Free Shipping: Modern Flatware
+    *   JA Henckels
+    *   KitchenAid
     *   Free Shipping: Gifts for the New Bohemian
     *   Free Shipping: Melange Throws &. More from $22
     *   Free Shipping: Kitchen Blowout
     *   Free Shipping: Bedding Essentials Blowout
     *   Free Shipping: Holiday Decor Starting at $12
+    
     *   Charging, Bluetooth &. Phone Accessories
     *   Free Shipping: Mason Jar Candles &. More
-    *   Free Shipping: Amrapur Bedding
     *   Free Shipping: Rustic Decor, Vases &. More
     *   Keep Time: Sleek Modern Clocks
     *   Free Shipping: Holiday Dining Essentials
-    
     *   Free Shipping: Bathroom Accessories
     *   Fresh Bathroom Scents by Poo-Pourri
     *   Storage &. Organization Essentials
-    *   UGG Home
-    *   Host Gifts: Quirky Kitchen Towels
-    *   Free Shipping: BergHOFF
-    *   Free Shipping: Hip Accent Furniture
-    *   Free Shipping: Fashion-Forward Art
-    *   Nambe
     *   Gifts &. Stocking Stuffers
+    *   Free Shipping: Amrapur Bedding
     
     Shop By Category
     *   Home Decor
@@ -298,35 +265,33 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bedding
     *   Organization
     *   Bath
-    *   Accent Furniture
     *   Luggage &. Travel
     *   Outdoor Living
+    *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   NuFACE Facial Toning Device
+    *   GrandeLASH-MD
     *   Tory Burch Fragrances
     *   BECCA Cosmetics
     *   Celebrity Strands Hair Extensions
     *   HERA Hair Tools Up to 85% Off
     *   Korean Beauty: Leaders Cosmetics
+    
     *   Teami Blends Detox Teas &. Supplements
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
     *   Jolii Cosmetics
-    
     *   Nion Beauty Face &. Body Brushes
     *   Cool Cosmetic Bags by Henry Charles
-    *   Elemis Skincare
     *   Trophy Skin
-    *   Crown Pro Starting at $10
-    *   GO SMiLE
-    *   Fromm Beauty Must-Haves Starting at $10
+    *   Elemis Skincare
     
     Shop By Category
-    *   Hair Care
     *   Skin Care
+    *   Hair Care
     *   Makeup
     *   Tools &. Accessories
     *   Bath &. Body
-    *   Nails
     *   Supplements
     *   Fragrance
 
