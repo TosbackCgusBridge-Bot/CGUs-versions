@@ -239,11 +239,14 @@ Menu Close Menu Close
         
     *   Services &. Warranty Explore All  Services &. Warranty Explore All  Services &. Warranty
         
+        *   DATA CENTER
         *   BUSINESSES | ENTERPRISES | GOVERNMENT | SCHOOLS
         *   PERSONAL | Home Office
         *   Replacement Parts
         
         *   *   Explore All Services >.
+        *   *   Data Center >.
+        
         *   *   Business >.
         
         *   *   Consumer >.
@@ -328,9 +331,9 @@ A Powerhouse That Bends Backwards
 
 Celebrate >.
 
-Lenovo in the Data Center
+88 World Records
 
-The most reliable, flexible, and secure data centers
+Lenovo ThinkSystem leads in innovation
 
 Learn more >.
 
@@ -366,7 +369,7 @@ $1403.10
 
 Shop Now
 
-2217Viewing Best Seller Lenovo Yoga 720 (13")
+2477Viewing Best Seller Lenovo Yoga 720 (13")
 
 ★★★★★ ★★★★★
 
@@ -378,31 +381,31 @@ $749.99
 
 Shop Now
 
-1045Viewing Best Seller Yoga 910 (14")
+1859Viewing Best Seller ThinkPad P51 Mobile Workstation
 
 ★★★★★ ★★★★★
 
-4.1
+4.6
 
-(407)
+(14)
 
-$1029.99
+$1340.10
 
 Shop Now
 
-1140Viewing Best Seller ThinkPad T470s
+615Viewing Best Seller Yoga 720 (15")
 
 ★★★★★ ★★★★★
 
-3.5
+4.2
 
-(4)
+(76)
 
-$1079.10
+$999.99
 
 Shop Now
 
-590Viewing
+926Viewing
 
 LAPTOPS
 
@@ -432,7 +435,7 @@ Outlet
 
 Find great deals on new and refurbished Lenovo products.
 
-STAY CONNECTED
+X Awaken your inner Jedi with the smartphone-powered augmented reality _STAR WARS_ ™ experience. Learn More STAY CONNECTED
 
 *   Facebook
 *   Twitter
