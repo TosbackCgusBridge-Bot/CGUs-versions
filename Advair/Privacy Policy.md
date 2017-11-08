@@ -198,9 +198,11 @@ GSK Global Website www.gsk.com
 Menu
 
 *   Behind the science
+    *   Back
     *   Behind the science
     *   Tags A-Z
     *   Innovation
+        *   Back
         *   Innovation
         *   Turning the tide on antibiotic resistance
         *   GSK’s Chief Immunology Officer discusses unlocking the secrets of the immune system to tackle disease
@@ -220,6 +222,7 @@ Menu
         *   Take a deep breath - your lung microbiome will appreciate it
         *   Welcome to the golden age of vaccine innovation
     *   Access to healthcare
+        *   Back
         *   Access to healthcare
         *   Our humanitarian response to the Ebola outbreak
         *   Malaria: life cycle of a parasite
@@ -233,6 +236,7 @@ Menu
         *   Pricing our medicines to help ensure patient access
         *   Helping patients in need
     *   Patients &. consumers
+        *   Back
         *   Patients &. consumers
         *   Science of a different stripe
         *   Every breath you take: Alison’s story
@@ -254,6 +258,7 @@ Menu
         *   Don’t mind me. I’m just making sure I can breathe.
         *   Hyung makes sense of what consumers want
     *   Our people
+        *   Back
         *   Our people
         *   Changing gears in a scientific career
         *   From academia to industry: a new challenge
@@ -289,6 +294,7 @@ Menu
         *   Crossing items off my bucket list, one breath at a time
         *   What I know about asthma… then and now.
     *   How we do business
+        *   Back
         *   How we do business
         *   Changing the way we work with healthcare professionals
         *   Switching on to consumer choice: medicines for everyday health
@@ -308,8 +314,10 @@ Menu
         *   Evolving our graduated approach to intellectual property
 *   About us
     
+    *   Back
     *   About us
     *   What we do
+        *   Back
         *   What we do
         *   Pharmaceuticals
         *   Vaccines
@@ -317,10 +325,12 @@ Menu
     *   Our mission and strategy
     *   US Pharmaceuticals Leadership Team
     *   US Community Partnerships
+        *   Back
         *   US Community Partnerships
         *   Barnes smART Fund for Arts Education
         *   Charitable grants
         *   GSK IMPACT Grants
+            *   Back
             *   GSK IMPACT Grants
             *   How do you help make a healthy community even healthier?
             *   How can we make the biggest impact on young people’s health?
@@ -328,6 +338,7 @@ Menu
             *   How can we support young people aging out of the foster care system to become healthy adults?
         *   GSK IMPACT Awards
         *   Save the Children partnership
+            *   Back
             *   Save the Children partnership
             *   The Resilient Children/Resilient Communities Initiative
             *   Why community resilience?
@@ -337,6 +348,7 @@ Menu
         *   Vetri Cooking Lab
         *   EDCI Youth Leadership Council
     *   Policies, codes and standards
+        *   Back
         *   Policies, codes and standards
         *   US policies
         *   Global policies
@@ -359,6 +371,7 @@ Menu
         
 *   Products
     
+    *   Back
     *   Products
     *   Our prescription medicines
     *   Our vaccines
@@ -389,9 +402,11 @@ Menu
         
 *   Careers
     
+    *   Back
     *   Careers
     *   Search jobs and apply
     *   Areas of opportunity
+        *   Back
         *   Areas of opportunity
         *   R&D
         *   Manufacturing &. supply
@@ -399,6 +414,7 @@ Menu
         *   Other opportunities
     *   Our locations
     *   Working at GSK
+        *   Back
         *   Working at GSK
         *   Developing our people
         *   Employees helping communities
@@ -411,6 +427,7 @@ Menu
     *   Internships and co-ops
     *   Undergraduates
     *   MBA and Graduate Students
+        *   Back
         *   MBA and Graduate Students
         *   Esprit finance program
         *   Esprit commercial program
@@ -419,6 +436,7 @@ Menu
         *   Residencies and Fellowships
         *   R&D postdoctoral global training program
     *   Physicians
+        *   Back
         *   Physicians
         *   Paul-Peter Tak
         *   Monica Shaw
@@ -426,6 +444,7 @@ Menu
         *   Kumaran Vadivelu
         *   Neil Barnes
     *   Apprenticeships
+        *   Back
         *   Apprenticeships
         *   Our programs
         *   Meet our apprentices
@@ -449,33 +468,40 @@ Menu
         
 *   Research
     
+    *   Back
     *   Research
     *   How we discover new products
+        *   Back
         *   How we discover new products
         *   How we discover new medicines
         *   How we discover new vaccines
         *   Consumer healthcare research
         *   Responsible research
     *   Trials in people
+        *   Back
         *   Trials in people
         *   Clinical trial phases
         *   COPD clinical trials in the US
         *   Become a clinical research volunteer
     *   Our use of animals
+        *   Back
         *   Our use of animals
         *   The 3Rs in medicine research
         *   Use of non-human primates
         *   Frequently asked questions
     *   Sharing our research
+        *   Back
         *   Sharing our research
         *   Patient-level data
         *   Research/Open innovation
         *   Clinical Study Register
     *   Antibiotics research
     *   Bioelectronics research
+        *   Back
         *   Bioelectronics research
         *   Bioelectronics at SXSW 2016
     *   mHealth Research
+        *   Back
         *   mHealth Research
         *   mHealth at SXSW 2017
     *   R&D locations
@@ -499,6 +525,7 @@ Menu
         We are committed to reporting the results of clinical research that evaluates our medicines and vaccines.
         
 *   Responsibility
+    *   Back
     *   Responsibility
     *   Health for all
     *   Our behavior
