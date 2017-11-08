@@ -17,7 +17,7 @@
     *   Login
     *   |
     *   Register
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   0MY FAVORITES
 *   MY BAG
@@ -52,9 +52,10 @@
         *   Bottoms
         
         *   Jeans
-        *   Ankle Jeans
         *   Bootcut Jeans
         *   Curvy Jeans
+        *   Skinny Jeans
+        *   Straight Jeans
         *   Jeans Under $50
         *   Leggings &. Loungewear
         *   Pants
@@ -90,8 +91,7 @@
         
           
           
-        Give a Buckle Gift card The Holiday Gift Guide is HERE!  
-        Shop for her or for him now.
+        Give a Buckle Gift card Give a little love this holiday with stocking stuffers under $25! See them now.
 *   Men
     *   *   Featured
         
@@ -154,8 +154,7 @@
         
           
           
-        Give a Buckle Gift card The Holiday Gift Guide is HERE!  
-        Shop for her or for him now.
+        Give a Buckle Gift card Give a little love this holiday with stocking stuffers under $25! See them now.
 *   Kids
     *   *   Featured
         
@@ -176,8 +175,7 @@
         *   Bottoms
         *   Shop All
         
-        Give a Buckle Gift card The Holiday Gift Guide is HERE!  
-        Shop for her or for him now.
+        Give a Buckle Gift card Give a little love this holiday with stocking stuffers under $25! See them now.
 *   Jeans
     *   *   Women's Jeans
         
@@ -208,8 +206,7 @@
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds
         
-        Give a Buckle Gift card The Holiday Gift Guide is HERE!  
-        Shop for her or for him now.
+        Give a Buckle Gift card Give a little love this holiday with stocking stuffers under $25! See them now.
 *   Trending
     *   *   Featured New
         
@@ -261,8 +258,7 @@
         *   Buckle Gift Cards
         *   Shipping Deadlines
         
-        Give a Buckle Gift card The Holiday Gift Guide is HERE!  
-        Shop for her or for him now.
+        Give a Buckle Gift card Give a little love this holiday with stocking stuffers under $25! See them now.
 *   Sale
     *   *   Women's Sale
         
@@ -305,8 +301,7 @@
         
           
           
-        Give a Buckle Gift card The Holiday Gift Guide is HERE!  
-        Shop for her or for him now.
+        Give a Buckle Gift card Give a little love this holiday with stocking stuffers under $25! See them now.
 
 SearchSubmitToggle Main MenuSearchSubmit × ClosePrivacy &. Security
 
