@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server Development Summary – 07 Nov 2017 ›
+*   Top snaps in October: IntelliJ IDEA, MuseScore and more ›
 *   LXD Weekly Status #22 ›
 *   Ubuntu Foundations Development Summary: November 2, 2017 ›
 *   Security Team Weekly Summary: November 2, 2017 ›
-*   PT Biznet Gio Nusantara Launches NEO Cloud with Canonical BootStack ›
-*   Launching Fingbox: from idea to distribution in under a year ›
