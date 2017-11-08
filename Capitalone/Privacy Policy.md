@@ -6,11 +6,23 @@ Information that you provide to Capital One when you apply for or obtain a produ
   
 By using this website or our mobile applications, you agree to the terms and conditions of this Statement.
 
-Information We Collect  How We Collect Information  How We Use Information  Managing Your Preferences   
-Updating Your Information   
-Children's Online Privacy   
-Links   
-Information Security    Information We Collect
+ Information We Collect 
+
+ How We Collect Information 
+
+ How We Use Information 
+
+ Managing Your Preferences 
+
+ Updating Your Information 
+
+ Children's Online Privacy 
+
+ Links 
+
+ Information Security 
+
+  Information We Collect
 
 When you use our website or our mobile applications, we may collect data from you that generally fall into one of two categories:
 
