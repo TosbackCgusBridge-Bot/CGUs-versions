@@ -45,6 +45,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     
     SHOP NEW COLLECTIONS
     
+    *   Weather Channel Collection
     *   Soft Leisure Collection
     *   Girls' Winter Collections
     *   Boys' Winter Collections
@@ -243,6 +244,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Boys
     
     FEATURED SHOPS
+    *   Weather Channel Collection
     *   Women's Coat Finder
     *   Women's Coats of Winter
     *   Men's Squall System Builder
@@ -394,6 +396,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Shop all New
     *   SHOP NEW COLLECTIONS
         *   Back
+        *   Weather Channel Collection
         *   Soft Leisure Collection
         *   Girls' Winter Collections
         *   Boys' Winter Collections
@@ -595,6 +598,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Boys
     *   FEATURED SHOPS
         *   Back
+        *   Weather Channel Collection
         *   Women's Coat Finder
         *   Women's Coats of Winter
         *   Men's Squall System Builder
@@ -773,9 +777,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Today only! Receive 40% off your order! Plus, fleece half-zips from $15!
+Today only! Receive 40% off your order! Plus, Supima cardigans from $25!
 
-code: HAPPY pin: 5463 DETAILS
+code: CARE pin: 4014 DETAILS
 
 Shop Now Customer Service Menu
 
