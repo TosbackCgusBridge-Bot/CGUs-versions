@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _David Graham_: Mass Shootings in America Are Spreading Like a Disease
+*   _Severns & Robillard_: For Democrats, Virginia's Elections Are a Petri Dish
     
-*   _David French_: In Face of Evil, Prayer a Rational &. Effective Response
+*   _Byron York_: Trump's 12 Months of Style Clashing With Substance
     
-*   _Dean &. Vaughan_: Dems Have Already Started Their Comeback. VA Is Next
+*   _Adam Gopnik_: The False, Evergreen Arguments Against Gun Control
     
-*   _James Antle_: Bloody VA Gov Race Looks Like Replay of Trump vs. Clinton
+*   _Bre Payton_: Hero: I Couldn't Have Stopped Shooter Without My AR-15
     
-*   _Albert Hunt_: Look for Republicans to Backtrack on Taxes
+*   _Molly Olmstead_: Heroism in Texas Doesn't Validate 'Good Guy With a Gun'
     
-*   _Rep. Peter Roskam_: GOP Tax Plan Will Unlock Growth, Help Middle Class
+*   _Stephen Moore_: The Left Is Baffled Over Trump's Economic Revival
     
-*   _Jules Witcover_: No Attack Is Too Low for Our Vile President
+*   _Nouriel Roubini_: The Plot Against America's 99%
     
-*   _Ned Ryun_: There's Nothing Normal About the Fusion GPS Dossier
+*   _Monica Showalter_: Did Fusion GPS Pay Journalists to Publish Fake News?
     
-*   _Carron Phillips_: Vin Scully &. Mark Cuban Are Hypocrites
+*   _Evelyn Farkas_: With Manafort, It Really Is About Russia, Not Ukraine
     
-*   _Rev. Eugene Rivers_: Inner-City Needs Can't Be Delayed 4 More Years
+*   _Eli Lake_: John Kerry's Delusional Advice on North Korea
     
-*   _Todd Hitt_: Puerto Ricans Are U.S. Citizens. We Owe Them Our Help
+*   _Russell Moore_: Why Church Shootings Don't Intimidate the Church
     
-*   _Scott Pelley_: The 12-Year-Old Prodigy Whose 'First Language' Is Mozart
+*   _Rich Lowry_: The Heroes of Sutherland Springs
     
-*   _Sen. Marco Rubio_: Tax Reform Should Help American Families
+*   _Jill Lawrence_: On Gun Control, a Plea for Action After Years of Shootings
     
-*   _Lawrence Summers_: 3 (Almost) Inexplicable Parts of GOP Tax Plan
+*   _David Harsanyi_: Why Bringing a Gun to Church Is a Pretty Good Idea
     
-*   _Byron York_: Spinning in Circles on the Trump Dossier
+*   _Charles Blow_: The New Democratic Party
     
-*   _Reza Aslan_: The Dangerous Cult of Donald Trump
+*   _Ramesh Ponnuru_: Why Democrats' Race-Baiting Often Backfires
     
-*   _Timothy Stanley_: Liberals Still Obsessed &. Tortured by Trump's Victory
+*   _Caitlin Huey-Burns_: D-Day in VA Governor's Race: What to Watch For
     
-*   _E.J. Dionne_: Virginia Will Be Speaking for the Nation
+*   _Michelle Goldberg_: Anniversary of the Apocalypse
     
-*   _David Catron_: Does Northam Think 67% of Virginians Are Racists?
+*   _Jonathan Turley_: Did Dems Commit Crimes in 'Rigging' the 2016 Primary?
     
-*   _Sean Trende_: Virginia Governor Race Within the 'Margie Margin'
+*   _Victor Davis Hanson_: Crossing the Trump Rubicon
     
-*   _Phil Hotsenpiller_: God, Evil &. a Senseless Act
+*   _Roger Cohen_: Donald Trump and the Erosion of American Greatness
     
-*   _Josh Marshall_: Donna Brazile's Growing Pile of Nonsense
+*   _Christian Whiton_: Trump Shows America Is Done Being a Chump in Asia
     
-*   _Glenn Greenwald_: Journalists Spreading Lies on Twitter
+*   _Bruce Riedel_: High Stakes as Saudi Crown Prince Removes Opponents
     
-*   _Conrad Black_: Is Mueller Working With the Democrats?
+*   _Bill Whalen_: How the World Series Mirrored Politics
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   With Tensions High, Trump, Abe Strengthen Bond on the Links
-*   Va. Governor Race Is Within the "Margie Margin"
-*   Psaki Slams Warren, Says Dem Primary Wasn't Rigged for Clinton
+*   In Seoul, Trump Calls for North Korea to "Make a Deal"
+*   D-Day in Virginia Governor's Race: What to Watch For
+*   Man Who Shot Texas Church Shooter Talks About Chasing Him Down
+*   Trump Says U.S. Will Arm Japan to Knock Down Korea Missiles
 *   Parties' 2018 Hopes Ride on Selling--or Maligning--Tax Bill
-*   House Republicans Unveil Tax Cuts, But Obstacles Remain
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve37
+    *   Disapprove57Disapprove +20
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve43
+    *   Disapprove56Disapprove +13
 *   Virginia Governor - Gillespie vs. NorthamMonmouth\*
     *   Northam47
     *   Gillespie45Northam +2
 *   Virginia Governor - Gillespie vs. NorthamFOX News\*
     *   Northam48
     *   Gillespie43Northam +5
-*   Virginia Governor - Gillespie vs. NorthamQuinnipiac\*
-    *   Northam51
-    *   Gillespie42Northam +9
-*   Virginia Governor - Gillespie vs. NorthamThe Polling Company (R)
-    *   Northam47
-    *   Gillespie46Northam +1
 
 More Latest Polls In The News
 
-*   DNC Chair Perez: Actually, DNC Gave Clinton "Insufficient And Just Substandard Tools For Success"
-*   Conway to Stelter: In Your Network's "Commercial Interest" To Be Anti-Trump. "CNN Should Own It"
+*   VA Democrat Ralph Northam Victory Speech: "End The Politics That Have Torn This Country Apart"
+*   NJ Democrat Phil Murphy Victory Speech: "We Declare The Days Of Division Are Over"
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Maher: How About A Democratic Party That Says We Find Beliefs Behind Terrorist Acts Intolerable?
-*   David Brooks: Those Of Us Trying To Rebut Trump Have The Disadvantage That "Our Elites Really Do Stink"
+*   Trump Threatens North Korea With "Largest Aircraft Carriers In The World," "Hope To God We Never Have To Use" Them
+*   DNC Chair Perez: Actually, DNC Gave Clinton "Insufficient And Just Substandard Tools For Success"
 
 *   Politics
 *   Policy
