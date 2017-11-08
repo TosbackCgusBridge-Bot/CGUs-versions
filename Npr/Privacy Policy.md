@@ -49,7 +49,7 @@ View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Dir
 
 Back News
 
-*   U.S.
+*   National
 *   World
 *   Politics
 *   Business
@@ -490,7 +490,7 @@ Become an NPR sponsor
 
 *   Homepage
 *   News
-    *   U.S.
+    *   National
     *   World
     *   Politics
     *   Business
