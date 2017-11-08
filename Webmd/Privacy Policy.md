@@ -1,5 +1,4 @@
-Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking Subscribe, I agree to the WebMD Terms &. Conditions &. Privacy Policy  
-and understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
+Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -107,11 +106,11 @@ and understand that I may opt out of WebMD subscriptions at any time. close Skip
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   News Special: Tension in the Doctor’s Office?
+    *   Are 'Green' Cleaners Better?
+    *   Heartburn Meds May Lead to Kidney Trouble
+    *   Inexpensive Blood Thinner May Guard Against Cancer
     *   Using Kratom to Get Off Opioids
-    *   Acetaminophen in Pregnancy Tied to ADHD Risk
-    *   Expert Q&A: FDA Moves to Revoke Soy's Health Claim
-    *   Solving the Mystery of Chronic Fatigue
+    *   News Special: Tension in the Doctor’s Office?
     
     Experts &. Community
     
@@ -441,7 +440,7 @@ WebMD Policy Last updated on December 30, 2016 © 2016 WebMD, LLC. All rights re
 
 Some of these might surprise you.
 
-Whatever The Destination, It Matters How You Get There. Click here to see how Jeff Bridges, Tilda Swinton &. Jordan Peele team up with Lyft to explain that it matters how you get there. Ad By **Lyft** AdChoices Depressed, Guilty Feelings After Eating?
+Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
