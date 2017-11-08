@@ -116,7 +116,7 @@ As we continue to develop our business, we may also buy or sell all or part of o
 
 U.S. Educational Institutions
 
-Please see our additional privacy disclosures for U.S. educational institutions {here} \[MAKE LINK TO NEW PAGE\].
+Please see our additional privacy disclosures for U.S. educational institutions here.
 
 **EU/SWISS - U.S. Privacy Shield**
 
