@@ -311,7 +311,7 @@ View When In Doubt, Wear Red on Instagram
 
 With #Xperia XZ1 and Predictive Capture, you’re sure to snap the sweetest smile – every time.
 
-2 hours ago
+1 day ago
 
 View Tweet
 
