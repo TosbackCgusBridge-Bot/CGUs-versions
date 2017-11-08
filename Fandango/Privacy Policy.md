@@ -73,8 +73,8 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Movie News: New 'Red Sonja' on Its Way Read More
-    *   Watch: Final 'Fifty Shades Freed' Trailer Released Read More
+    *   Movie News: Jessica Chastain Hopes to Join 'It: Chapter Two' Read More
+    *   'Justice League' Buzz: Jason Momoa Teases Post-Credits Scene and More Read More
     *   Disney Has Talked to 21st Century Fox About Buying Its Movie and TV Properties Read More
     
     Explore Content
