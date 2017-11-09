@@ -18,13 +18,13 @@ Navigation
     *   FarmVille Tropic Escape
     *   Gems With Friends
     *   Hanging With Friends
-    *   Ice Age: Arctic Blast
     *   Looney Tunes Dash
     *   Matching With Friends
     *   Solitaire
     *   Speed Guess Something
     *   Wizard of Oz Magic Match
     *   Words With Friends
+    *   Words With Friends 2
     *   Yummy Gummy
 *   CASINO
     *   Free Slots
