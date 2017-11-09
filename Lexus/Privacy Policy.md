@@ -384,8 +384,6 @@ Brand &. Lifestyle
 *   Lexus Hybrids
 *   Lexus Merchandise
 *   Lexus Magazine
-*   Luxury Awaits
-*   Vida Lexus
 *   Lexus International
 *   Sponsored Athletes
 
@@ -442,8 +440,6 @@ Language
     *   Lexus Hybrids
     *   Lexus Merchandise
     *   Lexus Magazine
-    *   Luxury Awaits
-    *   Vida Lexus
     *   Lexus International
     *   Sponsored Athletes
 *   Language
