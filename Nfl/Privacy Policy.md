@@ -1,16 +1,17 @@
-*   DET3-4GB4-3Mon 8:30 PM ET
-*   OAK4-527MIA4-424Final
-*   ATL4-417CAR6-320Final
-*   IND3-620HOU3-514Final
-*   CIN3-57JAX5-323Final
-*   TB2-610NO6-230Final
-*   LA6-251NYG1-717Final
-*   DEN3-523PHI8-151Final
-*   BAL4-520TEN5-323Final
-*   ARI4-420SF0-910Final
-*   WAS4-417SEA5-314Final
-*   KC6-317DAL5-328Final
-*   BUF5-321NYJ4-534Final
+*   SEA5-3ARI4-4November 9, 2017 8:25:00 PM EST ET
+*   NO6-2BUF5-3November 12, 2017 1:00:00 PM EST ET
+*   GB4-4CHI3-5November 12, 2017 1:00:00 PM EST ET
+*   CLE0-8DET4-4November 12, 2017 1:00:00 PM EST ET
+*   PIT6-2IND3-6November 12, 2017 1:00:00 PM EST ET
+*   LAC3-5JAX5-3November 12, 2017 1:00:00 PM EST ET
+*   NYJ4-5TB2-6November 12, 2017 1:00:00 PM EST ET
+*   CIN3-5TEN5-3November 12, 2017 1:00:00 PM EST ET
+*   MIN6-2WAS4-4November 12, 2017 1:00:00 PM EST ET
+*   HOU3-5LA6-2November 12, 2017 4:05:00 PM EST ET
+*   DAL5-3ATL4-4November 12, 2017 4:25:00 PM EST ET
+*   NYG1-7SF0-9November 12, 2017 4:25:00 PM EST ET
+*   NE6-2DEN3-5November 12, 2017 8:30:00 PM EST ET
+*   MIA4-4CAR6-3November 13, 2017 8:30:00 PM EST ET
 
 *   News
 *   Scores
@@ -23,24 +24,25 @@
 *   Teams
 *   Game Pass
 *   Stats
-*   LONDON GAMES
+*   Mexico Game
 *   Ways to Watch
 *   NFL Network
 *   Photos
 
-*   DET3-4GB4-3Mon 8:30 PM ET
-*   OAK27MIA24Final
-*   ATL17CAR20Final
-*   IND20HOU14Final
-*   CIN7JAX23Final
-*   TB10NO30Final
-*   LA51NYG17Final
-*   DEN23PHI51Final
-*   BAL20TEN23Final
-*   ARI20SF10Final
-*   WAS17SEA14Final
-*   KC17DAL28Final
-*   BUF21NYJ34Final
+*   SEA5-3ARI4-4November 9, 2017 8:25:00 PM EST ET
+*   NO6-2BUF5-3November 12, 2017 1:00:00 PM EST ET
+*   GB4-4CHI3-5November 12, 2017 1:00:00 PM EST ET
+*   CLE0-8DET4-4November 12, 2017 1:00:00 PM EST ET
+*   PIT6-2IND3-6November 12, 2017 1:00:00 PM EST ET
+*   LAC3-5JAX5-3November 12, 2017 1:00:00 PM EST ET
+*   NYJ4-5TB2-6November 12, 2017 1:00:00 PM EST ET
+*   CIN3-5TEN5-3November 12, 2017 1:00:00 PM EST ET
+*   MIN6-2WAS4-4November 12, 2017 1:00:00 PM EST ET
+*   HOU3-5LA6-2November 12, 2017 4:05:00 PM EST ET
+*   DAL5-3ATL4-4November 12, 2017 4:25:00 PM EST ET
+*   NYG1-7SF0-9November 12, 2017 4:25:00 PM EST ET
+*   NE6-2DEN3-5November 12, 2017 8:30:00 PM EST ET
+*   MIA4-4CAR6-3November 13, 2017 8:30:00 PM EST ET
 
 *   News
 *   Scores
@@ -51,7 +53,7 @@
 
 *   *   Game Pass
     *   Stats
-    *   LONDON GAMES
+    *   Mexico Game
     *   Ways to Watch
     *   NFL Network
     *   Photos
