@@ -147,7 +147,7 @@ View Always ready to help. (Google Assistant Built-in Wireless Speaker) on Insta
 
 Season Two of the award-winning drama @TheCrownNetflix returns to @netflix Friday, December 8. Watch the new trailer.
 
-21 hours ago
+1 day ago
 
 View Tweet
 
@@ -223,7 +223,7 @@ View Platinum Headphones on Instagram
 
 Welcome back, Dragonborn. Introducing the PlayStation VR Skyrim VR Bundle.
 
-22 hours ago
+1 day ago
 
 View Tweet
 
@@ -311,7 +311,7 @@ View When In Doubt, Wear Red on Instagram
 
 With #Xperia XZ1 and Predictive Capture, you’re sure to snap the sweetest smile – every time.
 
-1 day ago
+2 days ago
 
 View Tweet
 
