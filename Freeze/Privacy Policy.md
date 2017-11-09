@@ -1,1 +1,2 @@
-This site requires JavaScript and Cookies to be enabled. Please change your browser settings or upgrade your browser.
+403 Error - Forbidden  
+Forbidden.
