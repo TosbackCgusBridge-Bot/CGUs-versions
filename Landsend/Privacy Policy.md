@@ -126,6 +126,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Flannel Favorites
     *   Shirt Finder
     *   Squall System Builder
+    *   Holiday Style Guide
     *   Wise Buys
     *   Sale
     
@@ -482,6 +483,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Flannel Favorites
         *   Shirt Finder
         *   Squall System Builder
+        *   Holiday Style Guide
         *   Wise Buys
         *   Sale
     *   SHOP BY SIZE RANGE
@@ -777,9 +779,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Today only! Receive 40% off your order! Plus, Supima cardigans from $25!
+Today only! Receive 40% off your order! Plus, down vests from $25!
 
-code: CARE pin: 4014 DETAILS
+code: HOME pin: 8057 DETAILS
 
 Shop Now Customer Service Menu
 
