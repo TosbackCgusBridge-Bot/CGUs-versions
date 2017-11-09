@@ -17,7 +17,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 13.468,79ǀ
+*   DAX 13.382,42ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -717,6 +717,7 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
     *   Kenken
     *   Street
     *   Reise-Deals
+    *   Gutscheine
 *   *   Bücher bestellen
     *   Hörbücher
     *   Arztsuche
