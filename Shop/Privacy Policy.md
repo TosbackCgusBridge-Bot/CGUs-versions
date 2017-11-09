@@ -243,6 +243,7 @@ Menu Close Menu Close
         *   BUSINESSES | ENTERPRISES | GOVERNMENT | SCHOOLS
         *   PERSONAL | Home Office
         *   Replacement Parts
+        *   Service Overview
         
         *   *   Explore All Services >.
         *   *   Data Center >.
@@ -251,7 +252,9 @@ Menu Close Menu Close
         
         *   *   Consumer >.
         
-        *   *   Service Parts >.
+        *   *   Service Overview >.
+        
+        *   *   Services Overview >.
         
 *   Deals
     
@@ -351,61 +354,13 @@ What if you could push your business towards the black, while beating the line o
 
 72 Hours Only
 
-Save on the lightest and thinnest PCs in their class. Sale ends Nov 8th.
+Save on Select Yoga Laptops. Sale ends Nov 11th.
 
 ThinkPad X1 Carbon
 
 The lightest, thinnest X1 Carbon, packed with more power than ever.
 
-C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE! Recommended For You Best Seller ThinkPad X1 Carbon (5th gen)
-
-★★★★★ ★★★★★
-
-3.9
-
-(66)
-
-$1403.10
-
-Shop Now
-
-2477Viewing Best Seller Lenovo Yoga 720 (13")
-
-★★★★★ ★★★★★
-
-3.9
-
-(54)
-
-$749.99
-
-Shop Now
-
-1859Viewing Best Seller ThinkPad P51 Mobile Workstation
-
-★★★★★ ★★★★★
-
-4.6
-
-(14)
-
-$1340.10
-
-Shop Now
-
-615Viewing Best Seller Yoga 720 (15")
-
-★★★★★ ★★★★★
-
-4.2
-
-(76)
-
-$999.99
-
-Shop Now
-
-926Viewing
+C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE!
 
 LAPTOPS
 
@@ -474,7 +429,7 @@ Holiday Laptops Tablets Desktops Deals Holiday Laptops Tablets Desktops Deals Ch
     *   Gaming Computers
     *   Yoga Computers
     *   Outlet
-    *   Business Leasing
+    *   Financing Options
     *   Replacement parts
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 *   SHOP BY INDUSTRY
