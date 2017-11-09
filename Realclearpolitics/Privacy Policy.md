@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Severns & Robillard_: For Democrats, Virginia's Elections Are a Petri Dish
+*   _Alice Stewart_: A Wake-Up Call for Trump and Republicans
     
-*   _Byron York_: Trump's 12 Months of Style Clashing With Substance
+*   _Jason Sattler_: Is the 2016 Nightmare Finally Over for Democrats?
     
-*   _Adam Gopnik_: The False, Evergreen Arguments Against Gun Control
+*   _Mollie Hemingway_: 5 Takeaways on Virginia's Dem Election Sweep
     
-*   _Bre Payton_: Hero: I Couldn't Have Stopped Shooter Without My AR-15
+*   _E.J. Dionne_: Voters Yearn for an End to the Trump Era
     
-*   _Molly Olmstead_: Heroism in Texas Doesn't Validate 'Good Guy With a Gun'
+*   _Vice President Mike Pence_: It Has Been a Year of Accomplishments
     
-*   _Stephen Moore_: The Left Is Baffled Over Trump's Economic Revival
+*   _Nate Silver_: The Fundamentals Favor Democrats in 2018
     
-*   _Nouriel Roubini_: The Plot Against America's 99%
+*   _Betsy McCaughey_: Democrats' Tax-Cut Delusions
     
-*   _Monica Showalter_: Did Fusion GPS Pay Journalists to Publish Fake News?
+*   _Conrad Black_: Ring Down the Curtain on Mueller's Russia Fiasco
     
-*   _Evelyn Farkas_: With Manafort, It Really Is About Russia, Not Ukraine
+*   _Allan Lichtman_: After Last Week, Trump Is a Lot Closer to Being Impeached
     
-*   _Eli Lake_: John Kerry's Delusional Advice on North Korea
+*   _Kyle Lamb_: If You Carry a Gun for Self-Defense, Training Is Essential
     
-*   _Russell Moore_: Why Church Shootings Don't Intimidate the Church
+*   _Thomas Lipscomb_: Bergdahl Was on Trial, But So Were His Commanders
     
-*   _Rich Lowry_: The Heroes of Sutherland Springs
+*   _Albert Hunt_: Big Win in Virginia Soothes Democrats &. Makes GOP Sweat
     
-*   _Jill Lawrence_: On Gun Control, a Plea for Action After Years of Shootings
+*   _Doug Schoen_: Last Night's Lesson for Dems? Embrace Centrism or Perish
     
-*   _David Harsanyi_: Why Bringing a Gun to Church Is a Pretty Good Idea
+*   _Jonathan Chait_: The Anti-Trump Wave Has Come, and GOP Can't Stop It
     
-*   _Charles Blow_: The New Democratic Party
+*   _Charles Hurt_: Northam's Win Based on Dishonesty &. Racial Animus
     
-*   _Ramesh Ponnuru_: Why Democrats' Race-Baiting Often Backfires
+*   _Newt Gingrich_: On Tax Cuts, GOP Majorities Hang in the Balance
     
-*   _Caitlin Huey-Burns_: D-Day in VA Governor's Race: What to Watch For
+*   _Jared Bernstein_: Republican Class Warfare at Its Most Egregious
     
-*   _Michelle Goldberg_: Anniversary of the Apocalypse
+*   _Sen. Orrin Hatch_: A Necessary Turning Point on Judicial Confirmations
     
-*   _Jonathan Turley_: Did Dems Commit Crimes in 'Rigging' the 2016 Primary?
+*   _Amanda Marcotte_: McConnell's Supply Line for Trump's Right-Wing Judges
     
-*   _Victor Davis Hanson_: Crossing the Trump Rubicon
+*   _Roger Simon_: Will Trump's Greatest Triumphs Be in Foreign Policy?
     
-*   _Roger Cohen_: Donald Trump and the Erosion of American Greatness
+*   _Andrew Bacevich_: Leave It to the Generals: Nonstrategy in Afghanistan
     
-*   _Christian Whiton_: Trump Shows America Is Done Being a Chump in Asia
+*   _Eugene Robinson_: How Gun Control Will Stop the Blood of Innocents
     
-*   _Bruce Riedel_: High Stakes as Saudi Crown Prince Removes Opponents
+*   _Ben Shapiro_: Government Action Is Not the Answer to Mass Shootings
     
-*   _Bill Whalen_: How the World Series Mirrored Politics
+*   _David Bacon_: NAFTA, the Cross-Border Disaster
     
 
 *   Previous
@@ -250,10 +250,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump to Push China on Trade, North Korea During 2-Day Visit
+*   Democrats Sweep Virginia, New Jersey Governor's Races
+*   Trump to North Korea: "Do Not Underestimate Us, Do Not Try Us"
 *   In Seoul, Trump Calls for North Korea to "Make a Deal"
-*   D-Day in Virginia Governor's Race: What to Watch For
-*   Man Who Shot Texas Church Shooter Talks About Chasing Him Down
-*   Trump Says U.S. Will Arm Japan to Knock Down Korea Missiles
 *   Parties' 2018 Hopes Ride on Selling--or Maligning--Tax Bill
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -270,25 +270,25 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove57Disapprove +20
+    *   Approve38
+    *   Disapprove55Disapprove +17
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove56Disapprove +13
-*   Virginia Governor - Gillespie vs. NorthamMonmouth\*
-    *   Northam47
-    *   Gillespie45Northam +2
-*   Virginia Governor - Gillespie vs. NorthamFOX News\*
-    *   Northam48
-    *   Gillespie43Northam +5
+    *   Approve42
+    *   Disapprove57Disapprove +15
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve35
+    *   Disapprove60Disapprove +25
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve40
+    *   Disapprove55Disapprove +15
 
 More Latest Polls In The News
 
-*   VA Democrat Ralph Northam Victory Speech: "End The Politics That Have Torn This Country Apart"
-*   NJ Democrat Phil Murphy Victory Speech: "We Declare The Days Of Division Are Over"
+*   Brazile Full Interview With Tucker Carlson: Critics Who Can't Stomach My Book Can Go Write Their Own
+*   Jonathan Turley on Russia: Can't Have It Both Ways, Have To Investigate Both Trump And Clinton
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Trump Threatens North Korea With "Largest Aircraft Carriers In The World," "Hope To God We Never Have To Use" Them
-*   DNC Chair Perez: Actually, DNC Gave Clinton "Insufficient And Just Substandard Tools For Success"
+*   Trump to North Korea: "Do Not Underestimate Us, Do Not Try Us". We Will Defend Our "Sacred Liberty"
+*   VA Democrat Ralph Northam Victory Speech: "End The Politics That Have Torn This Country Apart"
 
 *   Politics
 *   Policy
