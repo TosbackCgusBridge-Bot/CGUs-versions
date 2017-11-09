@@ -501,7 +501,7 @@ Menu Find a Store Aeropostale
 *   Sign Up/Login
 *   Refer a Friend
 
-0 Search Catalog Search Promotions Shop Girls Tops Shop Guys Tops Shop Girls Jeans Shop Guys Jeans shop girls shop guys
+0 Search Catalog Search shop girls shop guys
 
 *   Puffer Vests Starting at $17.87 Shop Girls Puffer Vests
 *   Jeggings Starting at $17.87 Shop Jeggings
