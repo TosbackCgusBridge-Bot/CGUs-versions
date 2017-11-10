@@ -25,15 +25,16 @@ Close submenu ( Girls ) Girls
 *   Shoes + Accessories
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
+*   Trending
 
 Close submenu ( Featured ) Featured
 
 *   View All
 *   Doorbusters
 *   New Arrivals
+*   Hoodies + Joggers
 *   Jean Guide
 *   Logo Shop
-*   Trending
 *   It's Cold Outside
 *   Basic Essentials
 *   Lounge + Sleep
@@ -85,21 +86,24 @@ Close submenu ( Guys ) Guys
 *   Open submenu ( Bottoms ) Bottoms
 *   Jackets + Vests
 *   Accessories
+*   Trending
 
 Close submenu ( Featured ) Featured
 
 *   View All
 *   Doorbusters
 *   New Arrivals
+*   Hoodies + Joggers
 *   Jean Guide
-*   Trending
-*   Tapout
+*   Aero Active
 *   Icon Tees
 *   Logo Shop
+*   Warm + Rugged
 *   Online Only
 *   Back to Basics
-*   Extended Sizes
+*   Tapout
 *   Uniform
+*   Extended Sizes
 
 Close submenu ( Tops ) Tops
 
@@ -119,6 +123,7 @@ Close submenu ( Bottoms ) Bottoms
 *   Jeans
 *   Joggers + Sweats
 *   Pants
+*   Sleep
 *   Shorts
 
 Close submenu ( Jeans ) Jeans
@@ -132,6 +137,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 
 *   View All
 *   Low Rise Ankle Jegging
+*   Cropped Skinny Kick
 *   Ankle Straight
 *   High Waisted Ankle Jegging
 *   High Waisted Jegging
@@ -165,11 +171,11 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Bras
 *   Undies
 *   Accessories
+*   Trending
 
 Close submenu ( Featured ) Featured
 
 *   View All
-*   Trending
 *   Active
 *   Lounge
 *   Sleep
@@ -237,6 +243,7 @@ Close submenu ( Clearance ) Clearance
 Close submenu ( Girls ) Girls
 
 *   View All
+*   New to Clearance
 *   Under $10
 *   Tees + Polos
 *   Camis + Tanks
@@ -253,6 +260,7 @@ Close submenu ( Girls ) Girls
 Close submenu ( Guys ) Guys
 
 *   View All
+*   New to Clearance
 *   Under $10
 *   Tees + Tanks
 *   Polos
@@ -265,6 +273,7 @@ Close submenu ( Guys ) Guys
 Close submenu ( Live Love Dream ) Live Love Dream
 
 *   View All
+*   New to Clearance
 *   Under $10
 *   Active
 *   Lounge
@@ -276,7 +285,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**50-70% OFF** + **FREE SHIPPING ON ALL JEANS!**
+**50-70% OFF** + **FREE SHIPPING ON ALL HOODIES + JOGGERS!**
 
 *   My Account My Account Login Register
 
@@ -289,9 +298,9 @@ Menu Find a Store Aeropostale
         *   View All
         *   Doorbusters
         *   New Arrivals
+        *   Hoodies + Joggers
         *   Jean Guide
         *   Logo Shop
-        *   Trending
         *   It's Cold Outside
         *   Basic Essentials
         *   Lounge + Sleep
@@ -332,6 +341,7 @@ Menu Find a Store Aeropostale
         *   Undies
         *   Sleep
         *   Accessories
+    *   Trending
     
 *   Guys
     
@@ -340,15 +350,17 @@ Menu Find a Store Aeropostale
         *   View All
         *   Doorbusters
         *   New Arrivals
+        *   Hoodies + Joggers
         *   Jean Guide
-        *   Trending
-        *   Tapout
+        *   Aero Active
         *   Icon Tees
         *   Logo Shop
+        *   Warm + Rugged
         *   Online Only
         *   Back to Basics
-        *   Extended Sizes
+        *   Tapout
         *   Uniform
+        *   Extended Sizes
     *   Clearance
     
     *   Tops
@@ -361,15 +373,18 @@ Menu Find a Store Aeropostale
         *   Hoodies + Sweatshirts
         *   Sweaters
         *   Tanks
+        
     
     *   Bottoms
         *   View All
         *   Jeans
         *   Joggers + Sweats
         *   Pants
+        *   Sleep
         *   Shorts
     *   Jackets + Vests
     *   Accessories
+    *   Trending
     
 *   Jeans
     
@@ -377,6 +392,7 @@ Menu Find a Store Aeropostale
     *   Girls Jeans
         *   View All
         *   Low Rise Ankle Jegging
+        *   Cropped Skinny Kick
         *   Ankle Straight
         *   High Waisted Ankle Jegging
         *   High Waisted Jegging
@@ -400,7 +416,6 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Featured
         *   View All
-        *   Trending
         *   Active
         *   Lounge
         *   Sleep
@@ -428,6 +443,7 @@ Menu Find a Store Aeropostale
     *   Bras
     *   Undies
     *   Accessories
+    *   Trending
     
 *   Gifts
     
@@ -459,6 +475,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls
         *   View All
+        *   New to Clearance
         *   Under $10
         *   Tees + Polos
         *   Camis + Tanks
@@ -474,6 +491,7 @@ Menu Find a Store Aeropostale
     
     *   Guys
         *   View All
+        *   New to Clearance
         *   Under $10
         *   Tees + Tanks
         *   Polos
@@ -485,6 +503,7 @@ Menu Find a Store Aeropostale
     
     *   Live Love Dream
         *   View All
+        *   New to Clearance
         *   Under $10
         *   Active
         *   Lounge
@@ -501,19 +520,27 @@ Menu Find a Store Aeropostale
 *   Sign Up/Login
 *   Refer a Friend
 
-0 Search Catalog Search shop girls shop guys
+0 Search Catalog Search Promotions Shop Girls Hoodies + Joggers Shop Guys Hoodies + Joggers shop girls shop guys
 
-*   Puffer Vests Starting at $17.87 Shop Girls Puffer Vests
-*   Jeggings Starting at $17.87 Shop Jeggings
+Previous*   Jeggings Starting at $17.87 Shop Jeggings
+*   Plaid Shirts Starting at $13.87 Shop Plaid Shirts
+*   Hoodies + Joggers Starting at $17.87 Shop Hoodies + Joggers
+*   Puffer Vests Starting at $15.87 Shop Puffer Vests
 *   Tees Starting at $5.87 Shop Girls Graphic Tees
 *   Graphic Tees Starting at $7.87 Shop Guys Graphic Tees
 *   Velour Tops + Bottoms Starting at $9.87 Shop Velour Tops + Bottoms
-*   Polos Starting at $9.87 Shop Guys Polos
+*   Polos Starting at $11.99 Shop Guys Polos
 *   Hoodies + Joggers Starting at $11.87 Shop Girls Hoodies + Joggers
 *   Puffer Vests Starting at $17.87 Shop Girls Puffer Vests
 *   Jeggings Starting at $17.87 Shop Jeggings
+*   Plaid Shirts Starting at $13.87 Shop Plaid Shirts
+*   Hoodies + Joggers Starting at $17.87 Shop Hoodies + Joggers
+*   Puffer Vests Starting at $15.87 Shop Puffer Vests
 *   Tees Starting at $5.87 Shop Girls Graphic Tees
 *   Graphic Tees Starting at $7.87 Shop Guys Graphic Tees
+*   Velour Tops + Bottoms Starting at $9.87 Shop Velour Tops + Bottoms
+*   Polos Starting at $11.99 Shop Guys Polos
+Next
 
 *   1
 *   2
@@ -522,8 +549,11 @@ Menu Find a Store Aeropostale
 *   5
 *   6
 *   7
+*   8
+*   9
+*   10
 
-shop girls shop guys shop gifts for her shop gifts for him shop gifts for him <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+shop girls shop guys Shop Gifts For Her Shop Gifts For Him Shop Tapout <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
