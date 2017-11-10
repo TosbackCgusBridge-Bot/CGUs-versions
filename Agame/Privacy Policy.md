@@ -278,7 +278,7 @@ The information that our Websites collect includes (among others) the following:
 
 2.5    SPIL may share demographic information (certain anonymous information about you as a user, such as age and country) with certain ad network providers to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by such third parties as ad network providers is subject to their own privacy policies, not this Privacy Policy.
 
-2.6    Most browsers are initially set to accept cookies, but you can (re)set your browser to refuse all cookies, or to indicate when a cookie is sent. You can opt out of receiving cookies from certain third-party advertising networks by resetting your browser. You may also use the following link to the Network Advertising Initiatives cookie opt-out page or the link to the European Interactive Digital Advertising Alliance (EDAA) opt-out page. However, keep in mind that some features and services may not function properly if cookies are disabled.
+2.6    Most browsers are initially set to accept cookies, but you can (re)set your browser to refuse all cookies or to indicate when a cookie is being sent. You can opt out of receiving cookies from certain third-party advertising networks by resetting your browser. You may also use the following link to the Network Advertising Initiatives cookies opt-out page or the link to the European Interactive Digital Advertising Alliance (EDAA) opt-out page . However, some features and services may not function properly if cookies are disabled.
 
 **b)   ** **Personal Data, Including Your E-mail Address**
 
