@@ -49,12 +49,13 @@ Borrow for your business with affordable business loans. Learn more
 
 Get live support and seller protection
 
-Get Started Need your money fast?  
-PayPal Instant Transfer
+Get Started Shop the globe right from your home for the holidays.
 
-Move money to your bank account using an eligible debit card linked to your PayPal account ($0.25 per transfer). Transfers typically occur within 30 minutes.
+You’re already shopping for the holidays, why not earn 2% cash back on every purchase with the PayPal Cashback Mastercard®?
 
-Transfer funds now
+Learn more
+
+The PayPal Cashback Mastercard is issued by Synchrony Bank pursuant to a license by Mastercard International Inc.
 
 Join 200+ million people who use PayPal to
 
@@ -117,4 +118,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=f31d9e654da0f&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=a16de3e90a74487fa28994f59227091f&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=7f59233c7433d&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=f44d8e8d402544b8ad195e30d2bcf076&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&xe=3273&xt=7822&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
