@@ -16,7 +16,7 @@ Company Info at Office Depot SEG1 hp
     enter your number below.
 *   Login or Register
 
-Office Depot Deals 0uUeAgBzq9830YNsrVWcAuq
+Office Depot Deals 5kvdP9u\_PAJ-bBY9oYeKaQw
 
 Search Suggestions
 
@@ -140,13 +140,13 @@ Investor Relations Media Relations Corporate Sustainability Need Help?
 *   Customer Service
 
 Chat not availableTalk with a Representative  
-Chat Now Office Depot, Inc. is a leading global provider of products, services, and solutions for every workplace  whether your workplace is an office, home, school or car.  
-  
-Office Depot, Inc. is a resource and a catalyst to help customers work better. We are a single source for everything customers need to be more productive, including the latest technology, core office supplies, print and document services, business services, facilities products, furniture, and school essentials.  
-  
-The company had 2016 annual sales of approximately $11 billion, employed approximately 38,000 associates, and served consumers and businesses in North America and abroad with approximately 1,400 retail stores, award-winning e-commerce sites and a dedicated business-to-business sales organization  with a global network of wholly owned operations, franchisees, licensees and alliance partners. The company operates under several banner brands including Office Depot, OfficeMax and Grand &. Toy. The companys portfolio of exclusive product brands include TUL, Foray, Brenton Studio, Ativa, WorkPro, Realspace and Highmark.  
-  
-Office Depot, Inc.s charitable arm, The Office Depot Foundation, supports programs that enhance quality of life for children, strengthen communities, encourage local and international economic growth, and empower schools and non-profit organizations. Office Depot and OfficeMax also provides resources and support to small businesses through its Business Solutions Center. The center provides informative tips, advice, articles, videos and more designed to help businesses achieve their goals.
+Chat Now
+
+Office Depot, Inc. is a leading provider of office supplies, business products and services delivered through an omnichannel platform.
+
+The company had 2016 annual sales of approximately $11 billion, employed approximately 38,000 associates, and served consumers and businesses in North America and abroad with approximately 1,400 retail stores, award-winning e-commerce sites and a dedicated business-to-business sales organization – with a global network of wholly owned operations, franchisees, licensees and alliance partners. The company operates under several banner brands including Office Depot®, OfficeMax® and Grand &. Toy. The company’s portfolio of exclusive product brands include TUL®, Foray®, Brenton Studio®, Ativa®, WorkPro®, Realspace® and Highmark®.
+
+Office Depot, Inc.’s charitable arm, The Office Depot Foundation, supports programs that enhance quality of life for children, strengthen communities, encourage local and international economic growth, and empower schools and non-profit organizations. Office Depot and OfficeMax also provides resources and support to small businesses through its Business Solutions Center. The center provides informative tips, advice, articles, videos and more designed to help businesses achieve their goals.
 
 Give them a gift card.  
 Never expires, ships for free
