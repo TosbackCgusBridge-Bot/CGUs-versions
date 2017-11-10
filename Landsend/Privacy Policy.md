@@ -779,11 +779,11 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Today only! Receive 40% off your order! Plus, down vests from $25!
+Today only! Receive 50% off 1 regular-price style!
 
-code: HOME pin: 8057 DETAILS
+code: AUTUMN pin: 3407 DETAILS
 
-Shop Now Customer Service Menu
+Customer Service Menu
 
 Customer Service
 
