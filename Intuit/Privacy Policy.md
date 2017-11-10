@@ -93,12 +93,12 @@ My StoreNorthfld @ Stapleton Change My Store Find a StoreBack 3CC45767-B846-491D
     
     was $40
     
-    The Foundry Big &. Tall Supply Co. Long Sleeve Crew Neck T-Shirt-Big and Tall ★★★★★★★★★★(1)
+    The Foundry Big &. Tall Supply Co. Long Sleeve Crew Neck T-Shirt-Big and Tall ★★★★★★★★★★(2)
 *   $19.99 sale
     
     was $40
     
-    The Foundry Big &. Tall Supply Co. Long Sleeve Henley Shirt-Big and Tall ★★★★★★★★★★(2)
+    The Foundry Big &. Tall Supply Co. Long Sleeve Henley Shirt-Big and Tall ★★★★★★★★★★(3)
 *   $19.99 sale
     
     was $40
@@ -127,16 +127,16 @@ HOLIDAY DECORSHOP ALLHOLIDAY DECORSHOP ALL
     was $400
     
     North Pole Trading Co. 7 1/2 Foot Inverness Pre-Lit Christmas Tree
-*   $179.99 sale
-    
-    was $360
-    
-    North Pole Trading Co. 7 Foot Raleigh Pre-Lit Flocked Christmas Tree
 *   $209.99 sale
     
     was $420
     
     North Pole Trading Co. 9 Foot Linden Pre-Lit Christmas Tree
+*   $179.99 sale
+    
+    was $360
+    
+    North Pole Trading Co. 7 Foot Raleigh Pre-Lit Flocked Christmas Tree
 *   $79.99 sale
     
     was $160
@@ -147,11 +147,6 @@ HOLIDAY DECORSHOP ALLHOLIDAY DECORSHOP ALL
     was $320
     
     North Pole Trading Co. 7 1/2 Foot Linden Pre-Lit Christmas Tree
-*   $799.99 sale
-    
-    was $1,600
-    
-    7 1/2 Foot Aspen Grow &. Stow Pre-Lit Christmas Tree
 *   $92.49 sale
     
     was $370
@@ -162,6 +157,11 @@ HOLIDAY DECORSHOP ALLHOLIDAY DECORSHOP ALL
     was $400
     
     North Pole Trading Co. 7 1/2 Foot Green Grand Quick Set Pre-Lit Christmas Tree
+*   $799.99 sale
+    
+    was $1,600
+    
+    7 1/2 Foot Aspen Grow &. Stow Pre-Lit Christmas Tree
 *   $119.99 sale
     
     was $240
@@ -172,21 +172,21 @@ HOLIDAY DECORSHOP ALLHOLIDAY DECORSHOP ALL
     was $27
     
     North Pole Trading Co Velvet Plush Throw ★★★★★★★★★★(1)
-*   $99.99 - $299.99 sale
-    
-    was $160 - $600
-    
-    Pre-Lit Balsam Fir Christmas Tree
-*   $55.99 sale
-    
-    was $140
-    
-    Pfaltzgraff® Winterberry 16-pc. Dinnerware Set ★★★★★★★★★★(37)
 *   $36.24 sale
     
     was $145
     
     National Tree Company® 20" Frosted Berry Battery-Operated LED Hanging Basket with Timer
+*   $199.99 sale
+    
+    was $400
+    
+    North Pole Trading Co. 9 Foot Ventura Pre-Lit Christmas Tree
+*   $99.99 - $299.99 sale
+    
+    was $160 - $600
+    
+    Pre-Lit Balsam Fir Christmas Tree
 
 TVs &. HOME THEATERSHOP ALLTVs &. HOME THEATERSHOP ALL
 
@@ -195,6 +195,11 @@ TVs &. HOME THEATERSHOP ALLTVs &. HOME THEATERSHOP ALL
     was $799.99
     
     Samsung 55" Class UHD 4K HDR LED Smart HDTV Model UN55MU6300FXZA ★★★★★★★★★★(74)
+*   $549.99 sale
+    
+    was $749.99
+    
+    Samsung ENERGY STAR® 50" Class UHD 4K HDR LED Smart HDTV ★★★★★★★★★★(74)
 *   $399.99 sale
     
     was $449.99
@@ -202,10 +207,10 @@ TVs &. HOME THEATERSHOP ALLTVs &. HOME THEATERSHOP ALL
     Samsung 40" Class UHD 4K HDR LED Smart HDTV Model UN40MU6290FXZA ★★★★★★★★★★(74)
 *   $699.99
     
-    GPX TU5587B 55" Curved 4K LED Television
+    Samsung 55" Class UHD 4K HDR LED Smart HDTV Model UN55MU6290FXZA ★★★★★★★★★★(74)
 *   $699.99
     
-    Samsung 55" Class UHD 4K HDR LED Smart HDTV Model UN55MU6290FXZA ★★★★★★★★★★(74)
+    GPX TU5587B 55" Curved 4K LED Television
 *   $699.99 sale
     
     was $999.99
@@ -219,6 +224,11 @@ TVs &. HOME THEATERSHOP ALLTVs &. HOME THEATERSHOP ALL
 *   $399.99
     
     Samsung 40" Class 1080p Full LED Smart HDTV Model UN40M5300AFXZA ★★★★★★★★★★(7)
+*   $1,599.99 sale
+    
+    was $2,799.99
+    
+    Samsung 55" Class UHD 4K HDR QLED Smart HDTV Model QN55Q7FAMFXZA ★★★★★★★★★★(136)
 *   $549.99 sale
     
     was $799.99
@@ -226,95 +236,85 @@ TVs &. HOME THEATERSHOP ALLTVs &. HOME THEATERSHOP ALL
     Samsung 49" Class UHD 4K HDR LED Smart HDTV Model UN49MU7000FXZA ★★★★★★★★★★(15)
 *   $499.99 sale
     
-    was $599.99
+    was $699.99
     
-    Samsung 43" Class UHD 4K HDR LED Smart HDTV Model UN43MU6300FXZA ★★★★★★★★★★(74)
-*   $1,599.99 sale
+    LG 49" Class UHD 4K HDR LED Smart HDTV Model 49UJ6300 ★★★★★★★★★★(382)
+*   $499.99 sale
     
-    was $2,299.99
+    was $749.99
     
-    LG 55" Class UHD 4K HDR OLED Smart HDTV Model OLED55B7A ★★★★★★★★★★(14)
-*   $1,599.99 sale
-    
-    was $2,799.99
-    
-    Samsung 55" Class UHD 4K HDR QLED Smart HDTV Model QN55Q7FAMFXZA ★★★★★★★★★★(136)
-*   $449.99 sale
-    
-    was $549.99
-    
-    Samsung 40" Class UHD 4K HDR LED Smart HDTV Model UN40MU6300FXZA ★★★★★★★★★★(74)
+    Samsung Curved 49" Class UHD 4K HDR LED Smart HDTV Model UN49MU6500FXZA ★★★★★★★★★★(39)
 *   $399.99 sale
     
     was $549.99
     
-    LG 43" Class UHD 4K HDR LED Smart HDTV Model 43UJ6300 ★★★★★★★★★★(372)
-*   BEST VALUE!
-    
-    $399.89
-    
-    Gpx® 40" LED HDTV
+    LG 43" Class UHD 4K HDR LED Smart HDTV Model 43UJ6300 ★★★★★★★★★★(382)
 *   $899.99 sale
     
     was $1,199.99
     
-    LG 55" Class Super UHD 4K HDR LED Smart HDTV Model 55SJ8000 ★★★★★★★★★★(25)
+    LG 55" Class Super UHD 4K HDR LED Smart HDTV Model 55SJ8000 ★★★★★★★★★★(26)
+*   $499.99 sale
+    
+    was $599.99
+    
+    Samsung 43" Class UHD 4K HDR LED Smart HDTV Model UN43MU6300FXZA ★★★★★★★★★★(74)
 
 TOYLANDSHOP ALLTOYLANDSHOP ALL
 
 *   $289.99
     
     Step2 Elegant Edge Kitchen
-*   $39.99 sale
-    
-    was $50
-    
-    babyGund® Peek-A-Boo Bear ★★★★★★★★★★(2)
 *   $1,504.99
     
     Hathaway Newport 7-Ft Pool Table
-*   $782.99
-    
-    Hathaway Challenger 12-Ft Shuffleboard Table
 *   $279.99
     
     KidTrax Spiderman Dune Buggy 12Volt Electric Ride-on in Red &. Blue
-*   $699.99
+*   $782.99
     
-    Upper Bounce Easy Assemble Mega 9’ X 15’ Rectangular Trampoline
-*   $259.99
-    
-    Step2 Extreme Coaster
-*   $64.99
-    
-    Step2 Whisper Ride II
+    Hathaway Challenger 12-Ft Shuffleboard Table
 *   $114.99
     
     KidTrax Police Rescue Motorcycle 6Volt Electric Ride-on in Black
+*   $699.99
+    
+    Upper Bounce Easy Assemble Mega 9’ X 15’ Rectangular Trampoline
 *   $169.99
     
     KidTrax Disney Frozen 4x4 6Volt Electric Ride-on in Blue
-*   $39.99 sale
+*   $259.99
     
-    was $50
-    
-    Gund Animated Flappy The Elephant ★★★★★★★★★★(2)
+    Step2 Extreme Coaster
 *   $39.99 sale
     
     was $50
     
     215-Pc. Art 101 Mixed Media Art Set
+*   $269.99
+    
+    Surge City Scooter
+*   $39.99 sale
+    
+    was $50
+    
+    Gund Animated Flappy The Elephant ★★★★★★★★★★(2)
+*   $13.59 sale
+    
+    was $33.99
+    
+    ALEX Toys Craft Knot A Quilt Kit ★★★★★★★★★★(18)
 *   $89.99
     
     Step2 Little Baker's Kitchen
-*   $159.99
+*   $9.99 sale
     
-    Giggo Toys - Li'l Skootah 6V Battery Powered Scooter, Purple
-*   BEST VALUE!
+    was $21.89
     
-    $127.99
+    Discovery Kids Coin-Counting Money Jar
+*   $116.99
     
-    Razor E100 Electric Scooter ★★★★★★★★★★(2)
+    Theo Klein Hot Wheels Service Car Station/Engine
 
 Shop and Save at JCPenney
 
