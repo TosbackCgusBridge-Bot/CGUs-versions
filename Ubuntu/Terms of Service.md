@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Security Team Weekly Summary: November 9, 2017 ›
 *   Kernel Team Summary: November 7, 2017 ›
 *   Discovering snaps with .NET and Microsoft ›
 *   Ubuntu Server Development Summary – 07 Nov 2017 ›
 *   Top snaps in October: IntelliJ IDEA, MuseScore and more ›
-*   LXD Weekly Status #22 ›
