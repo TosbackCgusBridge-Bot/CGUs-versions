@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Alice Stewart_: A Wake-Up Call for Trump and Republicans
+*   _Walter Shapiro_: Democrats Go From the Window Ledge to Giddy
     
-*   _Jason Sattler_: Is the 2016 Nightmare Finally Over for Democrats?
+*   _Scott Rasmussen_: Will Trump Be 4th President in a Row to Lose Congress?
     
-*   _Mollie Hemingway_: 5 Takeaways on Virginia's Dem Election Sweep
+*   _Ronna McDaniel_: Hats Off to Trump for Growing Economy, Shaking Up D.C.
     
-*   _E.J. Dionne_: Voters Yearn for an End to the Trump Era
+*   _Jesse Lehrich_: The Resistance Just Proved Its Staying Power
     
-*   _Vice President Mike Pence_: It Has Been a Year of Accomplishments
+*   _Gregg Jarrett_: Did Comey Obstruct Justice by Protecting Clinton?
     
-*   _Nate Silver_: The Fundamentals Favor Democrats in 2018
+*   _Masha Gessen_: Revisiting 'Rules for Autocracy' 1 Year After Trump
     
-*   _Betsy McCaughey_: Democrats' Tax-Cut Delusions
+*   _Heather Wilhelm_: Gun Control and Magical Liberal Thinking
     
-*   _Conrad Black_: Ring Down the Curtain on Mueller's Russia Fiasco
+*   _Rep. Ted Lieu_: Why I Boycotted When Ryan Called for 'Moment of Silence'
     
-*   _Allan Lichtman_: After Last Week, Trump Is a Lot Closer to Being Impeached
+*   _Caitlin Huey-Burns_: Is Virginia Now a Blue State?
     
-*   _Kyle Lamb_: If You Carry a Gun for Self-Defense, Training Is Essential
+*   _Evan McMullin_: Gillespie Transformed for the Worse in Virginia Race
     
-*   _Thomas Lipscomb_: Bergdahl Was on Trial, But So Were His Commanders
+*   _Raheem Kassam_: The Republican Swamp Got the Loss They Wanted
     
-*   _Albert Hunt_: Big Win in Virginia Soothes Democrats &. Makes GOP Sweat
+*   _David Harsanyi_: GOP's Loss Tells Us Little About the State of Politics
     
-*   _Doug Schoen_: Last Night's Lesson for Dems? Embrace Centrism or Perish
+*   _L.A. Kauffman_: The Resistance Is Blossoming, and It's Built to Last
     
-*   _Jonathan Chait_: The Anti-Trump Wave Has Come, and GOP Can't Stop It
+*   _Jonathan Alter_: Don't Be Fooled: Dems Still Don't Have Winning Message
     
-*   _Charles Hurt_: Northam's Win Based on Dishonesty &. Racial Animus
+*   _Sean Trende_: Lessons Learned From Virginia
     
-*   _Newt Gingrich_: On Tax Cuts, GOP Majorities Hang in the Balance
+*   _Kevin O'Leary_: Could Alabama Be Next?
     
-*   _Jared Bernstein_: Republican Class Warfare at Its Most Egregious
+*   _Peter Ferrara_: GOP Tax Reform Plan Will Lead to Economic Boom
     
-*   _Sen. Orrin Hatch_: A Necessary Turning Point on Judicial Confirmations
+*   _Eric Levitz_: Republican Fixation on Corporate Tax Cuts Is Insanity
     
-*   _Amanda Marcotte_: McConnell's Supply Line for Trump's Right-Wing Judges
+*   _James Bovard_: The Progressive Delusion to 'Save' Democracy Under Trump
     
-*   _Roger Simon_: Will Trump's Greatest Triumphs Be in Foreign Policy?
+*   _Rahm Emanuel &. Bruce Reed_: How to Win Like Bill Clinton
     
-*   _Andrew Bacevich_: Leave It to the Generals: Nonstrategy in Afghanistan
+*   _Emmett Tyrrell_: The Clintons Bankrupted the Democratic Party
     
-*   _Eugene Robinson_: How Gun Control Will Stop the Blood of Innocents
+*   _James Arkin_: Va. Wins Have Dems Sensing Momentum for 2018
     
-*   _Ben Shapiro_: Government Action Is Not the Answer to Mass Shootings
+*   _Amie Parnes_: Despite Wins, Dems Face an Identity Crisis
     
-*   _David Bacon_: NAFTA, the Cross-Border Disaster
+*   _James Varney_: For 'Climate Relocation,' the Math Is Hardly Settled
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump to Push China on Trade, North Korea During 2-Day Visit
-*   Democrats Sweep Virginia, New Jersey Governor's Races
-*   Trump to North Korea: "Do Not Underestimate Us, Do Not Try Us"
-*   In Seoul, Trump Calls for North Korea to "Make a Deal"
-*   Parties' 2018 Hopes Ride on Selling--or Maligning--Tax Bill
+*   Va. Wins Have Democrats Sensing Momentum for 2018
+*   What We Learned From the Virginia Races
+*   Carlson vs. Brazile: Why Didn't DNC Turn Servers Over to the FBI?
+*   Trump, Xi Present United Front Despite Differences
+*   Is Virginia Now a Blue State?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -270,11 +270,11 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove55Disapprove +17
+    *   Approve37
+    *   Disapprove57Disapprove +20
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve42
-    *   Disapprove57Disapprove +15
+    *   Approve43
+    *   Disapprove56Disapprove +13
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve35
     *   Disapprove60Disapprove +25
@@ -284,11 +284,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Scarborough: Trump Was Earthquake That Caused "Tidal Wave" Of Democratic Wins On Tuesday
+*   Hillary Clinton on Donna Brazile: "I Didn't Know What She Was Referring To," "Just Wasn't The Case"
+*   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
 *   Brazile Full Interview With Tucker Carlson: Critics Who Can't Stomach My Book Can Go Write Their Own
 *   Jonathan Turley on Russia: Can't Have It Both Ways, Have To Investigate Both Trump And Clinton
-*   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Trump to North Korea: "Do Not Underestimate Us, Do Not Try Us". We Will Defend Our "Sacred Liberty"
-*   VA Democrat Ralph Northam Victory Speech: "End The Politics That Have Torn This Country Apart"
 
 *   Politics
 *   Policy
