@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites Launch of JPSS-1 satellite is delayed Oceans &. Coasts Five years after Sandy: What we've learned National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites JPSS-1 satellite launch rescheduled for November 14 Oceans &. Coasts Five years after Sandy: What we've learned National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms U.S. had 3rd warmest and 2nd wettest year to date Wildfires ravaged parts of Northern California and New England saw record warmth in October AROUND NOAA // Launch of JPSS-1 satellite is delayed Warm air helped keep 2017 Antarctic ozone hole smallest in 29 years Report: American fisheries remain a strong economic driver
+Enter Search Terms JPSS-1 satellite launch rescheduled for November 14 Find out how you can watch launch day coverage and liftoff AROUND NOAA // Vet Corps opens doors to fish habitat restoration and research jobs for veterans La Nina moves in for the winter U.S. had 3rd warmest and 2nd wettest year to date
 
 *   About our agency
 *   News and features
