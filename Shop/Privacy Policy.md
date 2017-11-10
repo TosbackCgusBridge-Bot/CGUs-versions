@@ -240,21 +240,14 @@ Menu Close Menu Close
     *   Services &. Warranty Explore All  Services &. Warranty Explore All  Services &. Warranty
         
         *   DATA CENTER
-        *   BUSINESSES | ENTERPRISES | GOVERNMENT | SCHOOLS
-        *   PERSONAL | Home Office
         *   Replacement Parts
-        *   Service Overview
         
         *   *   Explore All Services >.
         *   *   Data Center >.
         
-        *   *   Business >.
-        
-        *   *   Consumer >.
-        
         *   *   Service Overview >.
         
-        *   *   Services Overview >.
+        *   *   \>.
         
 *   Deals
     
@@ -298,7 +291,7 @@ Menu Close Menu Close
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-HOLIDAY  
+HOLIDAY   
 STORE
 
 *   Call 1-855-253-6686
@@ -322,7 +315,7 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers New ThinkPad A475
+Home >. Filter by specs Offers
 
 Where your professional capabilities and budget meet
 
@@ -356,11 +349,59 @@ What if you could push your business towards the black, while beating the line o
 
 Save on Select Yoga Laptops. Sale ends Nov 11th.
 
-ThinkPad X1 Carbon
+THANK YOU MILITARY
 
-The lightest, thinnest X1 Carbon, packed with more power than ever.
+This Veteran’s Day week, active and veteran military enjoy an additional 15% off your entire purchase! Ends Nov 19th.
 
-C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE!
+C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE! Recommended For You Best Seller ThinkPad X1 Carbon (5th gen)
+
+★★★★★ ★★★★★
+
+3.9
+
+(67)
+
+$1403.10
+
+Shop Now
+
+2748Viewing Best Seller Yoga 920 (14)
+
+★★★★★ ★★★★★
+
+4.4
+
+(5)
+
+$1199.99
+
+Shop Now
+
+1910Viewing Best Seller ThinkPad T470 Business Laptop
+
+★★★★★ ★★★★★
+
+3.6
+
+(16)
+
+$881.10
+
+Shop Now
+
+1308Viewing ThinkCentre M710 Tiny Desktop
+
+★★★★★ ★★★★★
+
+0
+
+(0)
+
+$404.10
+
+Shop Now
+
+276Viewing
 
 LAPTOPS
 
