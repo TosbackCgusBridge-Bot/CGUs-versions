@@ -118,38 +118,3 @@ You hereby agree to indemnify, defend and hold harmless Plentyoffish and all off
 
 **MISCELLANEOUS**  
 If any provision of this Agreement is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain in full force and effect and be enforceable. You may not assign, transfer or sublicense this Agreement without the prior written consent of Plentyoffish. Plentyoffish may assign this Agreement in whole or in part. No agency, partnership, joint venture, or employment is created as a result of this Agreement. Headings are for convenience only and have no legal or contractual effect. All notices under this Agreement shall be in writing and shall be deemed to have been duly given when receipt is electronically confirmed, if transmitted by facsimile or email or upon receipt, if sent by certified or registered mail, return receipt requested.
-
-  
-
-**Community**  
-Success Stories  
-
-  
-
-**Help**  
-Help Center  
-Forums  
-PlentyOfFish Blog  
-Safety  
-
-**Company**  
-Advertising  
-Press  
-Careers  
-Terms of Service  
-Privacy Policy
-
-Get the POF Mobile app
-
-**Countries**  
-POF Brasil  
-POF France  
-POF Spain  
-POF Germany  
-POF Italy  
-POF Denmark  
-POF Netherlands  
-POF Sweden  
-POF Mexico
-
-Copyright 2001-2017 Plentyoffish Media ULC POF, PLENTYOFFISH, PLENTY OF FISH and PLENTY OF are registered trademarks of Plentyoffish Media ULC
