@@ -102,6 +102,8 @@
     *   About
     *   Media Kit
 
+*   _Eugene Robinson_: Tuesday's Election Sent a Righteous Message
+    
 *   _Walter Shapiro_: Democrats Go From the Window Ledge to Giddy
     
 *   _Scott Rasmussen_: Will Trump Be 4th President in a Row to Lose Congress?
@@ -147,8 +149,6 @@
 *   _James Arkin_: Va. Wins Have Dems Sensing Momentum for 2018
     
 *   _Amie Parnes_: Despite Wins, Dems Face an Identity Crisis
-    
-*   _James Varney_: For 'Climate Relocation,' the Math Is Hardly Settled
     
 
 *   Previous
@@ -250,10 +250,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Va. Wins Have Democrats Sensing Momentum for 2018
+*   Republican Senators Urge Moore to Quit AL Race If Report Is True
+*   Senate Republicans Propose to Delay Major Corporate Tax Cut a Year
+*   Trump: U.S. Will No Longer Be Taken Advantage of on Trade
 *   What We Learned From the Virginia Races
-*   Carlson vs. Brazile: Why Didn't DNC Turn Servers Over to the FBI?
-*   Trump, Xi Present United Front Despite Differences
 *   Is Virginia Now a Blue State?
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Alabama Senate Special Election - Moore vs. JonesOpinion Savvy
+    *   Moore46
+    *   Jones46Tie
 *   President Trump Job ApprovalGallup
     *   Approve37
-    *   Disapprove57Disapprove +20
+    *   Disapprove58Disapprove +21
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove56Disapprove +13
+    *   Approve44
+    *   Disapprove55Disapprove +11
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve35
     *   Disapprove60Disapprove +25
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve40
-    *   Disapprove55Disapprove +15
 
 More Latest Polls In The News
 
-*   Scarborough: Trump Was Earthquake That Caused "Tidal Wave" Of Democratic Wins On Tuesday
-*   Hillary Clinton on Donna Brazile: "I Didn't Know What She Was Referring To," "Just Wasn't The Case"
+*   Hannity Interviews Moore: "Generally" Didn't Date Girls In Late Teens, Accusations "Never Happened"
+*   Trump Gives Hardline Trade Speech In Vietnam: We Are Not Going To Be Taken Advantage Of Anymore
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Brazile Full Interview With Tucker Carlson: Critics Who Can't Stomach My Book Can Go Write Their Own
-*   Jonathan Turley on Russia: Can't Have It Both Ways, Have To Investigate Both Trump And Clinton
+*   Hillary Clinton on Donna Brazile: "I Didn't Know What She Was Referring To," "Just Wasn't The Case"
+*   Scarborough: Trump Was Earthquake That Caused "Tidal Wave" Of Democratic Wins On Tuesday
 
 *   Politics
 *   Policy
