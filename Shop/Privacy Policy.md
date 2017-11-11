@@ -239,13 +239,14 @@ Menu Close Menu Close
         
     *   Services &. Warranty Explore All  Services &. Warranty Explore All  Services &. Warranty
         
-        *   DATA CENTER
+        *   PC Services
+        *   DATA CENTER SERVICES
         *   Replacement Parts
         
         *   *   Explore All Services >.
-        *   *   Data Center >.
+        *   *   Services Overview >.
         
-        *   *   Service Overview >.
+        *   *   Data Center Services >.
         
         *   *   \>.
         
@@ -365,31 +366,7 @@ $1403.10
 
 Shop Now
 
-2748Viewing Best Seller Yoga 920 (14)
-
-★★★★★ ★★★★★
-
-4.4
-
-(5)
-
-$1199.99
-
-Shop Now
-
-1910Viewing Best Seller ThinkPad T470 Business Laptop
-
-★★★★★ ★★★★★
-
-3.6
-
-(16)
-
-$881.10
-
-Shop Now
-
-1308Viewing ThinkCentre M710 Tiny Desktop
+2169Viewing ThinkCentre M710 Tiny Desktop
 
 ★★★★★ ★★★★★
 
@@ -401,7 +378,31 @@ $404.10
 
 Shop Now
 
-276Viewing
+290Viewing Best Seller Yoga 920 (14)
+
+★★★★★ ★★★★★
+
+4.4
+
+(5)
+
+$1199.99
+
+Shop Now
+
+1615Viewing Best Seller ThinkPad T470 Business Laptop
+
+★★★★★ ★★★★★
+
+3.6
+
+(16)
+
+$1248.65
+
+Shop Now
+
+1039Viewing
 
 LAPTOPS
 
@@ -471,7 +472,7 @@ Holiday Laptops Tablets Desktops Deals Holiday Laptops Tablets Desktops Deals Ch
     *   Yoga Computers
     *   Outlet
     *   Financing Options
-    *   Replacement parts
+    *   Replacement Parts
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 *   SHOP BY INDUSTRY
     *   Small Business Store
