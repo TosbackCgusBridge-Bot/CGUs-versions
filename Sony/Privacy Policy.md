@@ -223,7 +223,7 @@ View a7R III on Instagram
 
 Check out these expert tips to help you make the most of Predictive Capture from #Xperia XZ1.
 
-58 minutes ago
+1 day ago
 
 View Tweet
 
@@ -311,7 +311,7 @@ View Gold Headphones on Instagram
 
 Congratulations to @mirandalambert on winning #FemaleVocalistOfTheYear at tonight's #CMAawards! @CountryMusic
 
-9 hours ago
+1 day ago
 
 View Tweet
 
