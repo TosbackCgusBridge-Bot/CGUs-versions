@@ -22,7 +22,6 @@
         *   Community
 *   Post
 *   Sign In
-*   Search All Marketplace
 
 *   Home
 *   Merchandise
