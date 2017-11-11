@@ -583,6 +583,6 @@ About Us
 Stay Connected
 
 *   Live ChatCall Us
-*   Refer a Friend
+*   Give $15, Get $15
 
 © 2017 Aeropostale. All Rights Reserved.
