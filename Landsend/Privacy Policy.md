@@ -64,6 +64,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   The Starfish Collection
     *   Soft Leisure Collection
     *   Wise Buys
+    *   Resort Collection
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -424,6 +425,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   The Starfish Collection
         *   Soft Leisure Collection
         *   Wise Buys
+        *   Resort Collection
         *   Sale
     *   SHOP BY SIZE RANGE
         *   Back
@@ -779,9 +781,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Today only! Receive 50% off 1 regular-price style!
+Receive 40% off regular prices!
 
-code: AUTUMN pin: 3407 DETAILS
+code: WALNUT pin: 7199 DETAILS
 
 Customer Service Menu
 
