@@ -52,66 +52,57 @@ Gift Cards | Offers | Sign In Sign Out
     *   Watch Trailers on MovieClips
     *   Top Box Office
     *   New DVDs
-*   Movie Times + Tickets Find tickets at the following theaters My Favorite Theater Non-Fandango Ticketing Theater
+*   Movie Times + Tickets Where are you located? Here are our top cities
     
-    *   Century 16 Bel Mar and XD S. Teller and W. Alameda Ave.
-    *   UA Colorado Mills Stadium 16 IMAX &. RPX 14500 West Colfax Ave.
-    *   UA Denver West Village Stadium 12 14225 W. Colfax Ave.
-    *   Alamo Drafthouse Sloans Lake 4255 West Colfax Ave
-    *   Regal River Point Stadium 14 &. RPX 3565 S. Platte River Drive
-    *   Mayan Theatre 110 Broadway
-    *   AMC Bowles Crossing 12 8035 West Bowles Avenue
-    *   UA Denver Pavilions Stadium 15 &. RPX 500 16th St.
-    *   Elvis Cinemas Kipling 6 Theatre 6014 S. Kipling
+    *   New York, NY
+    *   Los Angeles, CA
+    *   Atlanta, GA
+    *   Chicago, IL
+    *   Austin, TX
+    *   Miami, FL
+    *   San Francisco, CA
+    *   Phoenix, AZ
+    *   Washington, DC
+    *   Boston, MA
+    *   San Diego, CA
+    *   Seattle, WA
+    *   Edison, NJ
+    *   Houston, TX
+    *   Tampa, FL
     
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Movie News: Jessica Chastain Hopes to Join 'It: Chapter Two' Read More
-    *   'Justice League' Buzz: Jason Momoa Teases Post-Credits Scene and More Read More
-    *   Disney Has Talked to 21st Century Fox About Buying Its Movie and TV Properties Read More
+    *   Interview: Kenneth Branagh on Finding the Perfect Mustache for ‘Murder on the Orient Express” Read More
+    *   Movie News: 'Truth or Dare' Horror Thriller Set for 2018 Read More
+    *   The Week in Movie News: Another 'Star Wars' Trilogy, Disney, Fox and More Read More
     
     Explore Content
     *   Movie Reviews
     *   Indie Movie Guide
     *   Star Wars Guide
     *   Weekend Ticket
-*   My VIP Account Top Movies Near 80201 Edit Zip Code
+*   My VIP Account Join FandangoVIP Refunds + Exchanges
     
-    See all movies My Theaters
-*   Save your favorite theater and we'll make sure it's front and center for you.
+    Bypass the box office line at many theaters with guaranteed tickets. If something comes up, you can return or exchange up to two hours before showtime through Fandango.
     
-Manage my theater list Insider Perks
-
-*   Please check back - more exciting offers are coming soon.
+    Learn more Partner Rewards
     
-
-See all insider perks Payment Method
-
-For warp speed checkout, securely add your credit card.
-
-Add your  
-Credit Card Manage my VIP account Join FandangoVIP Refunds + Exchanges
-
-Bypass the box office line at many theaters with guaranteed tickets. If something comes up, you can return or exchange up to two hours before showtime through Fandango.
-
-Learn more Partner Rewards
-
-Earn rewards points from our partners, including AMC Stubs, Regal Crown Club and more.
-
-Learn more My Fandango
-
-Save your favorite theaters and movies to experience a customized Fandango just for you.
-
-Learn more Insider Perks
-
-Get the VIP treatment, free screenings, digital downloads, discounts and more.
-
-Learn more Join Fandango VIP For Free
-
-(It only takes a few seconds to join)
-
-Already a Fandango VIP? Sign In
+    Earn rewards points from our partners, including AMC Stubs, Regal Crown Club and more.
+    
+    Learn more My Fandango
+    
+    Save your favorite theaters and movies to experience a customized Fandango just for you.
+    
+    Learn more Insider Perks
+    
+    Get the VIP treatment, free screenings, digital downloads, discounts and more.
+    
+    Learn more Join Fandango VIP For Free
+    
+    (It only takes a few seconds to join)
+    
+    Already a Fandango VIP? Sign In
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Movie Ticket Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP Rewards Program Terms Privacy PolicyTerms and PoliciesTerms of UseMovie Ticket PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP Rewards Program Terms
 
@@ -330,4 +321,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
