@@ -4,7 +4,7 @@
     *   Gift Baskets
     *   Best Sellers
     *   Gifts With Wine
-    *   Military Gifts
+    *   Military
     *   New!
     
     Occasions*   Christmas Gifts
@@ -48,7 +48,6 @@
     
     View All Categories Shop by Category*   Christmas Gifts
     *   Thanksgiving Gifts
-    *   Halloween
     
     Occasions*   Birthday Gifts
     *   Gifts for Her
@@ -71,7 +70,7 @@
     *   Gift Baskets
     *   Best Sellers
     *   Gifts With Wine
-    *   Military Gifts
+    *   Military
     *   New!
     
     Occasions*   Christmas Gifts
@@ -115,7 +114,6 @@
     
     View All Categories Shop by Category*   Christmas Gifts
     *   Thanksgiving Gifts
-    *   Halloween
     
     Occasions*   Birthday Gifts
     *   Gifts for Her
@@ -173,4 +171,4 @@ Business Accounts
 *   1.800.715.1474
 *   Email Us
 
-PRIVACY POLICY TERMS OF USE SITE MAP © 2017 ALL RIGHTS RESERVED. Feedback
+PRIVACY POLICY TERMS OF USE SITE MAP © 2017 ALL RIGHTS RESERVED.
