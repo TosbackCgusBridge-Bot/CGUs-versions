@@ -41,7 +41,7 @@ Show Menu
     *   Not ?
     *   Not ?  
         Log in to your account
-*   My Lists  
+*   My Lists 0 You have 0 recently viewed items  
     
     Things you view while shopping are saved here.
     
