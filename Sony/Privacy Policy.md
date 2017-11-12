@@ -151,7 +151,7 @@ View Remote Play on Instagram
 
 Free social VR experience Rec Room is coming to PS VR! Open beta kicks off Nov. 21.
 
-21 hours ago
+1 day ago
 
 View Tweet
 
@@ -223,7 +223,7 @@ View a7R III on Instagram
 
 Check out these expert tips to help you make the most of Predictive Capture from #Xperia XZ1.
 
-1 day ago
+2 days ago
 
 View Tweet
 
@@ -311,7 +311,7 @@ View Gold Headphones on Instagram
 
 Congratulations to @mirandalambert on winning #FemaleVocalistOfTheYear at tonight's #CMAawards! @CountryMusic
 
-1 day ago
+2 days ago
 
 View Tweet
 
