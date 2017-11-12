@@ -126,7 +126,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   The Pants Shop
     *   Flannel Favorites
     *   Shirt Finder
-    *   Squall System Builder
+    *   The Getaway Collection
     *   Holiday Style Guide
     *   Wise Buys
     *   Sale
@@ -353,7 +353,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Towels
     *   Rugs &. Mats
     *   Beach Towels
-    *   Shower Curtains
     
     KIDS ROOM >.
     *   Kids Bedding
@@ -367,8 +366,8 @@ menu Close 0 Free Shipping on $50+  |  Offers
     
     *   Holiday Shop
     *   Favorite Gifts
-    *   Stockings and Stuffers
-    *   Host and Hostess Gifts
+    *   Stockings &. Stuffers
+    *   Host &. Hostess Gifts
     *   Flannel Favorites
     *   Personalized Gifts
     *   Sleep Shop
@@ -484,7 +483,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   The Pants Shop
         *   Flannel Favorites
         *   Shirt Finder
-        *   Squall System Builder
+        *   The Getaway Collection
         *   Holiday Style Guide
         *   Wise Buys
         *   Sale
@@ -712,7 +711,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Towels
         *   Rugs &. Mats
         *   Beach Towels
-        *   Shower Curtains
     *   KIDS ROOM
         *   Back
         *   Kids Bedding
@@ -730,8 +728,8 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Back
         *   Holiday Shop
         *   Favorite Gifts
-        *   Stockings and Stuffers
-        *   Host and Hostess Gifts
+        *   Stockings &. Stuffers
+        *   Host &. Hostess Gifts
         *   Flannel Favorites
         *   Personalized Gifts
         *   Sleep Shop
