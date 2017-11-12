@@ -119,19 +119,19 @@ LATEST ON TWITTER
 
 We had a great time celebrating @Requidan at the @DC\_Inno #50onFireDC event last week! #tbt @Jambrose @Nicole\_Kosar pic.twitter.com/w8dS…
 
-About 2 days ago
+About 3 days ago
 
 Fun night celebrating all the winners and our Top Boss, @stephsnowint, at @DigidayAwards !! #DigidayAwards Congrats to all! pic.twitter.com/TqhV…
 
-About 3 days ago
+About 4 days ago
 
 My week on Twitter : 13 Mentions, 3.64K Mention Reach, 4 Favorited, 3 Tweets. See yours with sumall.com/performan… pic.twitter.com/7tr3…
 
-About 3 days ago
+About 4 days ago
 
 Erik @Requidan's advice to publisher's adding to Ads.txt files: Be mindful and vigilant adexchanger.com/publ… via @adexchanger
 
-About 5 days ago
+About 6 days ago
 
 Recap: Celebrating our own Erik @Requidan &. all of DC's winning innovators &. leaders at @DC\_Inno #50onFireDC event: intermarkets.net/201…
 
