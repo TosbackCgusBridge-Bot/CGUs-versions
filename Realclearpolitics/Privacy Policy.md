@@ -102,6 +102,10 @@
     *   About
     *   Media Kit
 
+*   _Larry Kudlow_: A Pro-Growth Tax Bill Is on the Way
+    
+*   _James Hitchcock_: Poll: Americans Skeptical of U.S. Military Interventions
+    
 *   _Eugene Robinson_: Tuesday's Election Sent a Righteous Message
     
 *   _Walter Shapiro_: Democrats Go From the Window Ledge to Giddy
@@ -145,10 +149,6 @@
 *   _Rahm Emanuel &. Bruce Reed_: How to Win Like Bill Clinton
     
 *   _Emmett Tyrrell_: The Clintons Bankrupted the Democratic Party
-    
-*   _James Arkin_: Va. Wins Have Dems Sensing Momentum for 2018
-    
-*   _Amie Parnes_: Despite Wins, Dems Face an Identity Crisis
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Republican Senators Urge Moore to Quit AL Race If Report Is True
+*   Trump Says U.S. Will No Longer Be Taken Advantage of on Trade
+*   Republicans Cut Ties With Moore as Candidate Denies Sexual Misconduct
+*   RCP/CKI Poll: Veterans, Civilians Skeptical of Military Intervention
 *   Senate Republicans Propose to Delay Major Corporate Tax Cut a Year
-*   Trump: U.S. Will No Longer Be Taken Advantage of on Trade
 *   What We Learned From the Virginia Races
-*   Is Virginia Now a Blue State?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,12 +269,12 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve38
+    *   Disapprove57Disapprove +19
 *   Alabama Senate Special Election - Moore vs. JonesOpinion Savvy
     *   Moore46
     *   Jones46Tie
-*   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove58Disapprove +21
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve44
     *   Disapprove55Disapprove +11
