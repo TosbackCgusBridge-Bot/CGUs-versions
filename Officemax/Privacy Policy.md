@@ -1,4 +1,4 @@
-Company Info at Office Depot SEG1 hp
+SEG1 hp
 
 ×
 
@@ -16,7 +16,7 @@ Company Info at Office Depot SEG1 hp
     enter your number below.
 *   Login or Register
 
-Office Depot Deals dLeWc63mB1f2zP7of4IraDc
+Office Depot Deals pnqpn6Z\_6P83lRhbAKMs-cO
 
 Search Suggestions
 
@@ -151,8 +151,8 @@ Office Depot, Inc.’s charitable arm, The Office Depot Foundation, supports pro
 Give them a gift card.  
 Never expires, ships for free
 
-Sign up for a credit card  
-and get special financing options
+$50 off $150  
+plus 20% back sitewide
 
 2% back in rewards on everything  
 Not a member? Join today. It's FREE!
