@@ -318,9 +318,9 @@ Compare (0)
 
 Home >. Filter by specs Offers
 
-Where your professional capabilities and budget meet
+'OOPS' RESISTANT
 
-Shop now >.
+Learn more >.
 
 Yoga 720 15"
 
@@ -342,13 +342,13 @@ Weekly Deals
 
 Great deals on select products.
 
-Boost Your Bottom Line
+All New Lenovo Pro Store
 
-What if you could push your business towards the black, while beating the line on Black Friday? Now you can.
+Let Lenovo be your small business partner with an all new Pro Portal.
 
-72 Hours Only
+Stand up and Fight!
 
-Save on Select Yoga Laptops. Sale ends Nov 11th.
+Begin your journey with Star Wars Jedi Challenges
 
 THANK YOU MILITARY
 
@@ -366,19 +366,7 @@ $1403.10
 
 Shop Now
 
-2169Viewing ThinkCentre M710 Tiny Desktop
-
-★★★★★ ★★★★★
-
-0
-
-(0)
-
-$404.10
-
-Shop Now
-
-290Viewing Best Seller Yoga 920 (14)
+2075Viewing Best Seller Yoga 920 (14)
 
 ★★★★★ ★★★★★
 
@@ -386,23 +374,35 @@ Shop Now
 
 (5)
 
-$1199.99
+$1229.99
 
 Shop Now
 
-1615Viewing Best Seller ThinkPad T470 Business Laptop
+1914Viewing Best Seller Lenovo Legion Y520 Laptop
 
 ★★★★★ ★★★★★
 
-3.6
+4.3
 
-(16)
+(62)
 
-$1248.65
+$699.99
 
 Shop Now
 
-1039Viewing
+1826Viewing Best Seller Lenovo Yoga 720 (13")
+
+★★★★★ ★★★★★
+
+3.9
+
+(57)
+
+$749.99
+
+Shop Now
+
+1485Viewing
 
 LAPTOPS
 
@@ -432,7 +432,7 @@ Outlet
 
 Find great deals on new and refurbished Lenovo products.
 
-X Awaken your inner Jedi with the smartphone-powered augmented reality _STAR WARS_ ™ experience. Learn More STAY CONNECTED
+STAY CONNECTED
 
 *   Facebook
 *   Twitter
