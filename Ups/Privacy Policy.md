@@ -52,11 +52,11 @@ More Shipping Options
 *   Service Guide
 *   Order Supplies
 
-Explore All Shipping If shipping isn't your day job, no worries.
+Explore All Shipping Ship just a few times a week? No Problem.
 
 We took the guesswork out, and put the easy in.
 
-Ship Now
+Try It Now
 
 Servicesexpand Services Services By Type
 
