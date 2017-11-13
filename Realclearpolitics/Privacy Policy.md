@@ -108,48 +108,6 @@
     
 *   _Eugene Robinson_: Tuesday's Election Sent a Righteous Message
     
-*   _Walter Shapiro_: Democrats Go From the Window Ledge to Giddy
-    
-*   _Scott Rasmussen_: Will Trump Be 4th President in a Row to Lose Congress?
-    
-*   _Ronna McDaniel_: Hats Off to Trump for Growing Economy, Shaking Up D.C.
-    
-*   _Jesse Lehrich_: The Resistance Just Proved Its Staying Power
-    
-*   _Gregg Jarrett_: Did Comey Obstruct Justice by Protecting Clinton?
-    
-*   _Masha Gessen_: Revisiting 'Rules for Autocracy' 1 Year After Trump
-    
-*   _Heather Wilhelm_: Gun Control and Magical Liberal Thinking
-    
-*   _Rep. Ted Lieu_: Why I Boycotted When Ryan Called for 'Moment of Silence'
-    
-*   _Caitlin Huey-Burns_: Is Virginia Now a Blue State?
-    
-*   _Evan McMullin_: Gillespie Transformed for the Worse in Virginia Race
-    
-*   _Raheem Kassam_: The Republican Swamp Got the Loss They Wanted
-    
-*   _David Harsanyi_: GOP's Loss Tells Us Little About the State of Politics
-    
-*   _L.A. Kauffman_: The Resistance Is Blossoming, and It's Built to Last
-    
-*   _Jonathan Alter_: Don't Be Fooled: Dems Still Don't Have Winning Message
-    
-*   _Sean Trende_: Lessons Learned From Virginia
-    
-*   _Kevin O'Leary_: Could Alabama Be Next?
-    
-*   _Peter Ferrara_: GOP Tax Reform Plan Will Lead to Economic Boom
-    
-*   _Eric Levitz_: Republican Fixation on Corporate Tax Cuts Is Insanity
-    
-*   _James Bovard_: The Progressive Delusion to 'Save' Democracy Under Trump
-    
-*   _Rahm Emanuel &. Bruce Reed_: How to Win Like Bill Clinton
-    
-*   _Emmett Tyrrell_: The Clintons Bankrupted the Democratic Party
-    
 
 *   Previous
 *   Next
@@ -269,26 +227,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Alabama Senate Special Election - Moore vs. JonesEmerson
+    *   Moore55
+    *   Jones45Moore +10
+*   Alabama Senate Special Election - Moore vs. JonesJMC Analytics\*
+    *   Moore44
+    *   Jones48Jones +4
 *   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove57Disapprove +19
+    *   Approve39
+    *   Disapprove55Disapprove +16
 *   Alabama Senate Special Election - Moore vs. JonesOpinion Savvy
     *   Moore46
     *   Jones46Tie
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove55Disapprove +11
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve35
-    *   Disapprove60Disapprove +25
 
 More Latest Polls In The News
 
-*   Hannity Interviews Moore: "Generally" Didn't Date Girls In Late Teens, Accusations "Never Happened"
-*   Trump Gives Hardline Trade Speech In Vietnam: We Are Not Going To Be Taken Advantage Of Anymore
+*   Brennan &. Clapper: "Badge Of Honor" To Be Called "Hacks" By President Trump
+*   Klobuchar: "I Have A Dream That One Day" We'll Have More Women Senators Than Victims Of Harvey Weinstein
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Hillary Clinton on Donna Brazile: "I Didn't Know What She Was Referring To," "Just Wasn't The Case"
-*   Scarborough: Trump Was Earthquake That Caused "Tidal Wave" Of Democratic Wins On Tuesday
+*   Kellyanne Conway: We Shouldn't Let The Press Prosecute Roy Moore. He Denied Allegations
+*   DNC Chair Perez: Actually, DNC Gave Clinton "Insufficient And Just Substandard Tools For Success"
 
 *   Politics
 *   Policy
