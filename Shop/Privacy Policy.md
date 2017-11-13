@@ -328,15 +328,8 @@ A Powerhouse That Bends Backwards
 
 Celebrate >.
 
-88 World Records
-
-Lenovo ThinkSystem leads in innovation
-
-Learn more >.
-
 *   1
 *   2
-*   3
 
 Weekly Deals
 
@@ -362,35 +355,23 @@ C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE! Recommended For You Bes
 
 (67)
 
-$1403.10
+$1376.10
 
 Shop Now
 
-2075Viewing Best Seller Yoga 920 (14)
+2632Viewing Ideapad 510S (14")
 
 ★★★★★ ★★★★★
 
-4.4
+3.8
 
-(5)
+(12)
 
-$1229.99
-
-Shop Now
-
-1914Viewing Best Seller Lenovo Legion Y520 Laptop
-
-★★★★★ ★★★★★
-
-4.3
-
-(62)
-
-$699.99
+$499.99
 
 Shop Now
 
-1826Viewing Best Seller Lenovo Yoga 720 (13")
+411Viewing Best Seller Lenovo Yoga 720 (13")
 
 ★★★★★ ★★★★★
 
@@ -402,7 +383,19 @@ $749.99
 
 Shop Now
 
-1485Viewing
+1504Viewing Lenovo Legion Y520 Laptop
+
+★★★★★ ★★★★★
+
+4.3
+
+(62)
+
+$699.99
+
+Shop Now
+
+2171Viewing
 
 LAPTOPS
 
