@@ -1,4 +1,5 @@
-skip to main content We use cookies to make sure you get the best experience on our website. If you continue without changing your settings, you're agreeing to receive all cookies on the IKEA website.Privacy policy | Read more about cookies Search    <div class="buttonContainer"><a href="javascript:void(0);"><span class="buttonLeft">&nbsp;</span><span class="buttonCaption"><input id="lnkSearchBtnHeader" type="submit" value="Search" /></span><span class="buttonRight">&nbsp;</span></a></div>. Welcome! FAQ
+skip to main content We use cookies to make sure you get the best experience on our website. If you continue without changing your settings, you're agreeing to receive all cookies on the IKEA website.Privacy policy | Read more about cookies Welcome to USAIKEA FAMILYIKEA for BusinessCustomer ServicesFind an IKEA StoreJoin our email listInformación en españolLog In/Sign UpProducts BathroomBedroomChildrensCookingDecorationDiningEatingFoodHallwayKitchensLaundryLightingLiving RoomOffice FurnitureOutdoor FurniturePetsSecondary StorageSmall StorageTextiles and RugsWireless chargingWinter HolidaysFor BusinessIKEA FAMILY  
+products &. offersInspirationNewOffersServicesNew Lower Price    Welcome! 0 FAQ
 
 *   Log In or Sign Up
 *   My shopping cart
@@ -8,7 +9,7 @@ skip to main content We use cookies to make sure you get the best experience on 
 *   Join our email list
 *   Información en español
 
-Offers New IDEAS Living room Bedroom Bath Kitchens Dining Textiles Business Children's Outdoor Back to college  All Departments Bathroom Living room Bedroom Office furniture Children’s Outdoor Furniture Cooking Pets Decoration Secondary storage Dining Small storage Eating Textiles &. Rugs Food Wireless charging Hallway IKEA FAMILY products &. offers Kitchens For business Laundry Winter holidays Lighting Unfortunately, you need a newer version of Adobe Flash Player to take a look at this content. Don't worry, it's easy. To install the latest version, just click  
+Bathroom Living room Bedroom Office furniture Children’s Outdoor Furniture Cooking Pets Decoration Secondary storage Dining Small storage Eating Textiles &. Rugs Food Wireless charging Hallway IKEA FAMILY products &. offers Kitchens For business Laundry Winter holidays Lighting Unfortunately, you need a newer version of Adobe Flash Player to take a look at this content. Don't worry, it's easy. To install the latest version, just click  
 here. IKEA Privacy Policy A partnership in trust. When IKEA set out to create a high-quality, low-priced line of home furnishings, we knew we couldn't do it without the help of some very important partners-you, our customers. Whether you're researching purchases in the IKEA catalog, picking up your furniture in our self-serve warehouses or assembling your purchases at home - we're working together to help you create a better everyday life at a price everyone can afford. IKEA is based on a partnership with our customers. Without you, IKEA could not exist.  
   
 This partnership extends to the way we handle your personal information. Just like shopping at IKEA is a cooperative experience, IKEA makes a point of working with our customers when it comes to their privacy. We only collect the information we may need to create a better shopping experience for you. This Privacy Policy is our way of telling you what information we collect, how we use it and how you can access, change and remove your information. Help us build a better IKEA. In order to create a better IKEA, we need your help. You can help by providing us with various kinds of information to help IKEA serve you better, and ultimately improve IKEA for everyone. Below you’ll find some of the reasons we request information from you, as well as how we obtain and use that information to help improve your IKEA shopping experience.  
@@ -33,14 +34,4 @@ Conshohocken, PA 19428
   
 We will respond to your inquiry or investigate your concern as quickly as possible.  
   
-DATED: June 22, 2009 Catalog &. Brochures Request View Online Buying Guides Need HelpFAQContact UsReturn PolicyChildren's Product RegistrationDelivery InformationStore DeliveryOnline DeliveryPicking with DeliveryDelivery Terms &. ConditionsHelpful LinksFind an IKEA StoreAll ProductsPlanning ToolsIKEA Food &. RestaurantWarrantiesIKEA ServicesIKEA Gift CardThis is IKEAThe IKEA ConceptDemocratic DesignAbout the IKEA GroupPeople &. PlanetPress RoomRead our MaterialsIKEA FoundationJobs at IKEA © Inter IKEA Systems B.V. 1999 - 2017 | Privacy Policy <div style="display: none;">. <img src="https://smetrics.ikea.com/b/ss/ikeaallnojavascriptprod/5/?c8=us&amp;pageName=nojavascript" alt="" width="5" height="5" />. </div>. EnglishEspañol
-
-Help us to improve!
-
-Would you like to participate in our survey? The survey will take approximately 10 minutes to complete.
-
-If you agree to take part the survey will start when you finish your visit to IKEA.com today
-
-Take Part
-
-No thanks
+DATED: June 22, 2009 Catalog &. Brochures Request View Online Buying Guides Need HelpFAQContact UsReturn PolicyChildren's Product RegistrationDelivery InformationStore DeliveryOnline DeliveryPicking with DeliveryDelivery Terms &. ConditionsHelpful LinksFind an IKEA StoreAll ProductsPlanning ToolsIKEA Food &. RestaurantWarrantiesIKEA ServicesIKEA Gift CardThis is IKEAThe IKEA ConceptDemocratic DesignAbout the IKEA GroupPeople &. PlanetPress RoomRead our MaterialsIKEA FoundationJobs at IKEA © Inter IKEA Systems B.V. 1999 - 2017 | Privacy Policy <div style="display: none;">. <img src="https://smetrics.ikea.com/b/ss/ikeaallnojavascriptprod/5/?c8=us&amp;pageName=nojavascript" alt="" width="5" height="5" />. </div>.
