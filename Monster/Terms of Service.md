@@ -1,6 +1,6 @@
 Terms of Use  
 
-These Terms of Use were updated effective March 2014. Click here for a summary of the changes.
+These Terms of Use were updated effective March 2014. Read summary of changes.
 
 Understanding your rights and responsibilities as a Monster user Privacy Reminder
 
