@@ -28,7 +28,7 @@ Skip to main content
             5.  Golf ChannelGolf ChannelA multimedia golf entertainment &. service company featuring exclusive partnerships with the world’s top tours and more live golf coverage than all other networks combined.Golf Channel
             6.  MSNBCMSNBC The premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives.MSNBC
             7.  NBC Sports Network (NBCSN)NBC Sports Network (NBCSN)Serves today's passionate sports fans with coverage of the Summer and Winter Olympics, NHL, Premier League, Formula One, MLS, Tour de France and more.NBC Sports Network (NBCSN)
-            8.  Oxygen MediaOxygen MediaMultiplatform brand targeting young multicultural women. Features unscripted original programming that reflects how very real women see the world.Oxygen Media
+            8.  Oxygen MediaOxygen MediaOxygen Media is a multiplatform crime destination brand for women.Oxygen Media
             9.  SYFYSYFYA leader in imagination-based entertainment, including year round original series, events, blockbuster movies, classic science fiction &. fantasy.SYFY
             10.  The Olympic Channel: Home of Team USAThe Olympic Channel: Home of Team USAOlympic Channel: Home of Team USA is a partnership between the International Olympic Committee, the United States Olympic Committee, and NBCUniversal. The TV network offers fans year-round programming of Olympic Sports from around the world, highlighting their favorite American athletes and teams.The Olympic Channel: Home of Team USA
             11.  The Weather Channel CompanyThe Weather Channel CompanyProvides millions of people every day with the world's best weather forecasts, content and data.The Weather Channel Company
@@ -42,8 +42,7 @@ Skip to main content
             4.  GolfNowGolfNowUses leading-edge technology to offers nearly 2 million registered golfers more ways to stay connected to their favorite courses and tee times.GolfNow
             5.  HuluHuluA premium streaming TV destination that seeks to captivate and connect viewers with the stories they love.Hulu
             6.  PrivPrivPRIV is a mobile and web platform that delivers vetted beauty and wellness professionals to your location. Priv
-            7.  SeesoSeesoA new streaming comedy channel offering original and library TV and Film content for $3.99 per monthSeeso
-            8.  SportsEngineSportsEngineHelping the world play smarter and live more, SportsEngine, Inc., an NBC Sports Group company, is the leading provider of Sport Life Management web software and mobile applications for youth, amateur, and professional sports.SportsEngine
+            7.  SportsEngineSportsEngineHelping the world play smarter and live more, SportsEngine, Inc., an NBC Sports Group company, is the leading provider of Sport Life Management web software and mobile applications for youth, amateur, and professional sports.SportsEngine
         4.  Film
             
             1.  DreamWorks AnimationDreamWorks AnimationDreamWorks Animation
@@ -111,7 +110,6 @@ Skip to main content
                 *   GolfNow
                 *   Hulu
                 *   Priv
-                *   Seeso
                 *   SportsEngine
             *   FILM
                 *   DreamWorks Animation
@@ -189,4 +187,4 @@ Cookies/ tracking technologies are used on some of our online services to serve 
 *   Supply Chain Values
 *   Terms of Service
 
-© 2017 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/5770838" height="1" width="1" alt="" /></a></div>.
+© 2017 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/5131237" height="1" width="1" alt="" /></a></div>.
