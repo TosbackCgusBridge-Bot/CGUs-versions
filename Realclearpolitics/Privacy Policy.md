@@ -102,11 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Larry Kudlow_: A Pro-Growth Tax Bill Is on the Way
+*   _David Leonhardt_: Democrats, Don't Be Fooled by Victory
     
-*   _James Hitchcock_: Poll: Americans Skeptical of U.S. Military Interventions
+*   _George Will_: Moore Is an Embarrassment. Jones Deserves to Win.
     
-*   _Eugene Robinson_: Tuesday's Election Sent a Righteous Message
+*   _Daniel Oliver_: Roy Moore and Jeff Sessions: 2 Problems and a Solution
+    
+*   _Bill Scher_: Tax Reform Is Splitting Republicans. It's Happened Before.
+    
+*   _Reps. Jordan &. Gaetz_: Special Counsel Needed on Clinton, Comey, Dossier
+    
+*   _Rep. Adam Schiff_: One Thing Mike Pence and I Agreed On
+    
+*   _Tom Rogan_: Trump Delivered Compelling Vision, &. China's Xi Didn't Like It
+    
+*   _Susan Glasser_: Inside N. Korea Talks: 'They Want to Know If Trump's Crazy'
+    
+*   _Ted Carpenter_: Libya: The Forgotten Reason N. Korea Wants Nukes
+    
+*   _Juan Williams_: GOP Is Shackled to Trump
+    
+*   _David Byler_: Trump Is (Still) Outpolling House Republicans
+    
+*   _James Arkin_: Roskam at Center of Fight Over Taxes
+    
+*   _Ryan Goodman &. John Sipher_: Taking Putin's Word for It
+    
+*   _Byron York_: Did Dossier Trigger the Trump-Russia Probe?
+    
+*   _Thomas Frank_: Liberals Still Aghast at Trump, But What Good Has It Done?
+    
+*   _Robert Knight_: The Bergdahl Liberals
+    
+*   _John Archibald_: Roy Moore Defense: Unbuckling the Bible Belt
+    
+*   _Barton Hinkle_: Seems Money in Politics Isn't So Bad--When Dems Win
+    
+*   _Clare Foran_: Keith Ellison: Dems Will Take Back House &. Senate
+    
+*   _Jed Babbin_: Blame It All on James Comey
+    
+*   _Charles Blow_: Siding With the Enemy
+    
+*   _Roger Simon_: Trust But Verify: Why Trump Is Right on Russia
+    
+*   _David Remnick_: The Weinstein Moment and the Trump Presidency
+    
+*   _Rod Dreher_: NYT Op-Ed: White People Are Violent Racists
     
 
 *   Previous
@@ -209,9 +251,9 @@ RecommendedPolitics
 *   Investigations
 
 *   Trump Says U.S. Will No Longer Be Taken Advantage of on Trade
-*   Republicans Cut Ties With Moore as Candidate Denies Sexual Misconduct
+*   Roskam at the Center of Political Fight Over Taxes
 *   RCP/CKI Poll: Veterans, Civilians Skeptical of Military Intervention
-*   Senate Republicans Propose to Delay Major Corporate Tax Cut a Year
+*   Republicans Cut Ties With Moore as Candidate Denies Sexual Misconduct
 *   What We Learned From the Virginia Races
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -227,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve38
+    *   Disapprove56Disapprove +18
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove53Disapprove +7
+*   Direction of CountryRasmussen Reports
+    *   Right Direction33
+    *   Wrong Track61Wrong Track +28
 *   Alabama Senate Special Election - Moore vs. JonesEmerson
     *   Moore55
     *   Jones45Moore +10
-*   Alabama Senate Special Election - Moore vs. JonesJMC Analytics\*
-    *   Moore44
-    *   Jones48Jones +4
-*   President Trump Job ApprovalGallup
-    *   Approve39
-    *   Disapprove55Disapprove +16
-*   Alabama Senate Special Election - Moore vs. JonesOpinion Savvy
-    *   Moore46
-    *   Jones46Tie
 
 More Latest Polls In The News
 
+*   McConnell on Moore Allegations: I Believe The Women. Mounting A Write-In Campaign "An Option"
+*   Kellyanne Conway: We Shouldn't Let The Press Prosecute Roy Moore. He Denied Allegations
+*   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
 *   Brennan &. Clapper: "Badge Of Honor" To Be Called "Hacks" By President Trump
 *   Klobuchar: "I Have A Dream That One Day" We'll Have More Women Senators Than Victims Of Harvey Weinstein
-*   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Kellyanne Conway: We Shouldn't Let The Press Prosecute Roy Moore. He Denied Allegations
-*   DNC Chair Perez: Actually, DNC Gave Clinton "Insufficient And Just Substandard Tools For Success"
 
 *   Politics
 *   Policy
