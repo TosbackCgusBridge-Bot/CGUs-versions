@@ -1,35 +1,5 @@
-*   NE7-241DEN3-616Final
-*   NO7-247BUF5-410Final
-*   GB5-423CHI3-616Final
-*   CLE0-924DET5-438Final
-*   PIT7-220IND3-717Final
-*   LAC3-617JAX6-320Final (OT)
-*   NYJ4-610TB3-615Final
-*   CIN3-620TEN6-324Final
-*   MIN7-238WAS4-530Final
-*   HOU3-67LA7-233Final
-*   DAL5-47ATL5-427Final
-*   NYG1-821SF1-931Final
-*   MIA4-4CAR6-3November 13, 2017 8:30:00 PM EST ET
-*   SEA6-322ARI4-516Final
-
-*   News
-*   Scores
-*   Schedule
-*   Standings
-*   Video
-*   Fantasy
-*   Tickets
-*   Shop
-*   Teams
-*   Game Pass
-*   Stats
-*   Mexico Game
-*   Ways to Watch
-*   NFL Network
-*   Photos
-
-*   NE41DEN16Final
+*   Big Play HighlightE.Dickson 7-yard TD pass from C.NewtonWatch NowMIA7CAR?173rd ? 12:20
+*   SEA22ARI16Final
 *   NO47BUF10Final
 *   GB23CHI16Final
 *   CLE24DET38Final
@@ -41,8 +11,7 @@
 *   HOU7LA33Final
 *   DAL7ATL27Final
 *   NYG21SF31Final
-*   MIA4-4CAR6-3November 13, 2017 8:30:00 PM EST ET
-*   SEA22ARI16Final
+*   NE41DEN16Final
 
 *   News
 *   Scores
