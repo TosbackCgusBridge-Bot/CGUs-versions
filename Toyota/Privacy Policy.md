@@ -1180,4 +1180,4 @@ SEARCHES✕Easily save searches.Look through and edit searches you’ve saved an
 Click to remove.GET STARTED INVENTORY✕Find your Toyota.Search dealer inventory and save your favorite vehicles here.Click to save.  
 Click to remove.GET STARTED OFFERS✕Keep an eye on offers.Find local specials and save them here. We’ll even notify you when they’re about to expire.Click to save.  
 Click to remove.GET STARTED BUILDS✕Build and save.Customize your Toyota, and save the details to your garage. We’ll help you find local inventory from there.Click to save.  
-Click to remove.GET STARTEDCLOSE   ✕
+Click to remove.GET STARTEDCLOSE   ✕ ✕
