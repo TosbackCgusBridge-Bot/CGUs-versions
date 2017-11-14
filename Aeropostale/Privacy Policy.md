@@ -520,14 +520,15 @@ Menu Find a Store Aeropostale
 *   Sign Up/Login
 *   Refer a Friend
 
-0 Search Catalog Search Promotions Shop Girls Hoodies + Joggers Shop Guys Hoodies + Joggers shop girls shop guys
+0 Your Shopping Cart is Empty FREE SHIPPING  
+ON ORDERS OVER $75 Search Catalog Search Promotions Shop Girls Hoodies + Joggers Shop Guys Hoodies + Joggers shop girls shop guys
 
 Previous*   Jeggings Starting at $17.87 Shop Jeggings
 *   Plaid Shirts Starting at $13.87 Shop Plaid Shirts
 *   Hoodies + Joggers Starting at $17.87 Shop Hoodies + Joggers
 *   Puffer Vests Starting at $15.87 Shop Puffer Vests
 *   Tees Starting at $5.87 Shop Girls Graphic Tees
-*   Graphic Tees Starting at $7.87 Shop Guys Graphic Tees
+*   Graphic Tees Starting at $5.99 Shop Guys Graphic Tees
 *   Velour Tops + Bottoms Starting at $9.87 Shop Velour Tops + Bottoms
 *   Polos Starting at $11.99 Shop Guys Polos
 *   Hoodies + Joggers Starting at $11.87 Shop Girls Hoodies + Joggers
@@ -537,7 +538,7 @@ Previous*   Jeggings Starting at $17.87 Shop Jeggings
 *   Hoodies + Joggers Starting at $17.87 Shop Hoodies + Joggers
 *   Puffer Vests Starting at $15.87 Shop Puffer Vests
 *   Tees Starting at $5.87 Shop Girls Graphic Tees
-*   Graphic Tees Starting at $7.87 Shop Guys Graphic Tees
+*   Graphic Tees Starting at $5.99 Shop Guys Graphic Tees
 *   Velour Tops + Bottoms Starting at $9.87 Shop Velour Tops + Bottoms
 *   Polos Starting at $11.99 Shop Guys Polos
 Next
@@ -583,6 +584,6 @@ About Us
 Stay Connected
 
 *   Live ChatCall Us
-*   Give $15, Get $15
+*   Refer a Friend
 
 © 2017 Aeropostale. All Rights Reserved.
