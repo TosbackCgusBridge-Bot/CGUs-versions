@@ -145,4 +145,4 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 
-close dialogThanks for supporting local journalismSubscribe NowFor $29/yr. close dialog
+close dialogUnlock your rewards.Sign up now to get special deals fromEl Paso Times &. the USA TODAY NETWORK, invites to events and sweepstakes, and more.Please enter aboveSign UpNo thanksThanks for signing upclose dialogclose dialogThanks for supporting local journalismSubscribe NowFor $29/yr. close dialog
