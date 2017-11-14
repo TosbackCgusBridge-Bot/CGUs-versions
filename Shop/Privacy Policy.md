@@ -257,7 +257,6 @@ Menu Close Menu Close
     *   Professional Laptop Deals
     *   Desktop Deals
     *   Accessories Deals
-    *   Tablets Deals
     *   Clearance
     *   Deals for Students &. Educators
     *   Deals for Military
@@ -271,9 +270,7 @@ Menu Close Menu Close
             
             Get these deals before they're gone
             
-        *   Yoga 910 Star Wars Glass
-            
-            Where Does Your Loyalty Lie?
+        *   Holiday Gifts &. More!
             
 *   Support
     *   Sales Enquiries
@@ -328,8 +325,15 @@ A Powerhouse That Bends Backwards
 
 Celebrate >.
 
+Accelerate the Intelligence Revolution
+
+Let Lenovo help accelerate your artifical intelligence journey
+
+Learn more >.
+
 *   1
 *   2
+*   3
 
 Weekly Deals
 
@@ -347,55 +351,7 @@ THANK YOU MILITARY
 
 This Veteran’s Day week, active and veteran military enjoy an additional 15% off your entire purchase! Ends Nov 19th.
 
-C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE! Recommended For You Best Seller ThinkPad X1 Carbon (5th gen)
-
-★★★★★ ★★★★★
-
-3.9
-
-(67)
-
-$1376.10
-
-Shop Now
-
-2632Viewing Ideapad 510S (14")
-
-★★★★★ ★★★★★
-
-3.8
-
-(12)
-
-$499.99
-
-Shop Now
-
-411Viewing Best Seller Lenovo Yoga 720 (13")
-
-★★★★★ ★★★★★
-
-3.9
-
-(57)
-
-$749.99
-
-Shop Now
-
-1504Viewing Lenovo Legion Y520 Laptop
-
-★★★★★ ★★★★★
-
-4.3
-
-(62)
-
-$699.99
-
-Shop Now
-
-2171Viewing
+C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE!
 
 LAPTOPS
 
