@@ -52,14 +52,11 @@ Firefox Privacy Notice Close
     
     Get the only browser built for people, not profit.
     
-    *   About Firefox
     *   Desktop
-    *   iOS
-    *   Android
-    *   Focus
-    *   Developer Edition
-    *   Features
+    *   Mobile
+    *   Extensions
     *   Support
+    *   Blog
 *   Pocket
     
     When you find something you want to view later, put it in Pocket.
