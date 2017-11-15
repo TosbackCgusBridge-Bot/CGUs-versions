@@ -1,5 +1,4 @@
-Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking Subscribe, I agree to the WebMD Terms &. Conditions &. Privacy Policy  
-and understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
+Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -107,11 +106,11 @@ and understand that I may opt out of WebMD subscriptions at any time. close Skip
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
+    *   High Blood Pressure: New Guidelines, More at Risk
+    *   Is Strep Linked to Scary Kids' Behavior Disorder?
+    *   Americans Drinking Less Soda
     *   Are 'Green' Cleaners Better?
-    *   Heartburn Meds May Lead to Kidney Trouble
-    *   Inexpensive Blood Thinner May Guard Against Cancer
     *   Using Kratom to Get Off Opioids
-    *   News Special: Tension in the Doctor’s Office?
     
     Experts &. Community
     
