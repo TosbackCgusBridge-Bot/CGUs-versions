@@ -117,25 +117,25 @@ When you use the Intermarkets website, you are accepting the terms and condition
 
 LATEST ON TWITTER
 
+My week on Twitter : 10 Favorited, 5 Retweets, 5.23K Retweet Reach, 4 Tweets. See yours with sumall.com/performan… pic.twitter.com/vIC6…
+
+About 5 hours ago
+
+We are honored to be named one of @adage's 2017 50 best places to work for the second year in a row! Congrats to all on the list! intermarkets.net/201…
+
+About 13 hours ago
+
+Our biggest fans this week: @mcaldecutt, @Requidan, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/iaCq…
+
+About 16 hours ago
+
 It's about staying neutral! @Requidan discusses the importance of why brands should advertise to all - via @adage twitter.com/adage/st…
 
-About 14 hours ago
+About 2 days ago
 
 We had a great time celebrating @Requidan at the @DC\_Inno #50onFireDC event last week! #tbt @Jambrose @Nicole\_Kosar pic.twitter.com/w8dS…
 
-About 5 days ago
-
-Fun night celebrating all the winners and our Top Boss, @stephsnowint, at @DigidayAwards !! #DigidayAwards Congrats to all! pic.twitter.com/TqhV…
-
 About 6 days ago
-
-My week on Twitter : 13 Mentions, 3.64K Mention Reach, 4 Favorited, 3 Tweets. See yours with sumall.com/performan… pic.twitter.com/7tr3…
-
-About 6 days ago
-
-Erik @Requidan's advice to publisher's adding to Ads.txt files: Be mindful and vigilant adexchanger.com/publ… via @adexchanger
-
-Last week
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
@@ -145,7 +145,7 @@ Contact Us
 Request for Proposal  
   
 703.242.7878  
-solutions@intermarket.net  
+publishers@intermarket.net  
 11951 Freedom Dr. 11th Floor  
 Reston VA, 20190
 
