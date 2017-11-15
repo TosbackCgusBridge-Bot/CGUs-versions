@@ -17,7 +17,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 13.074,42ǀ
+*   DAX 13.033,48ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -692,6 +692,8 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
 *   Werkstattvergleich
 *   Kfz-Versicherung
 *   Automarkt
+*   Firmenradrechner
+*   Firmenwagenrechner
 
 *   ENERGIE
 *   Gasanbietervergleich
@@ -744,8 +746,3 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
-
-  
-  
-  
-BESbswyBESbswyBESbswy
