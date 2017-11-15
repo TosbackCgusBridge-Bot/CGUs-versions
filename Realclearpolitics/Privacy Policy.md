@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _David Leonhardt_: Democrats, Don't Be Fooled by Victory
+*   _Peter Roff_: For Party and Country, Roy Moore Should Drop Out
     
-*   _George Will_: Moore Is an Embarrassment. Jones Deserves to Win.
+*   _Ezra Klein_: Dems Made a Big Mistake, But They Didn't Rig Their Primary
     
-*   _Daniel Oliver_: Roy Moore and Jeff Sessions: 2 Problems and a Solution
+*   _Kimberley Strassel_: The FBI and the Ugly Truth About False Trump Dossier
     
-*   _Bill Scher_: Tax Reform Is Splitting Republicans. It's Happened Before.
+*   _Joel Willett_: How to Find a Smoking Gun in the Russia Investigation
     
-*   _Reps. Jordan &. Gaetz_: Special Counsel Needed on Clinton, Comey, Dossier
+*   _Bob Calco_: Mueller's Collusion Illusion
     
-*   _Rep. Adam Schiff_: One Thing Mike Pence and I Agreed On
+*   _Gideon Lewis-Kraus_: How the Resistance Helped Dems Dominate VA
     
-*   _Tom Rogan_: Trump Delivered Compelling Vision, &. China's Xi Didn't Like It
+*   _Richard Bernstein_: China &. the Rise of the 'Authoritarian International'
     
-*   _Susan Glasser_: Inside N. Korea Talks: 'They Want to Know If Trump's Crazy'
+*   _Wesley Pruden_: Lessons About Trade From Trump's Trip to Asia
     
-*   _Ted Carpenter_: Libya: The Forgotten Reason N. Korea Wants Nukes
+*   _Briahna Joy Gray_: Identity Politics, Trump's Racism, &. the Mess We're In
     
-*   _Juan Williams_: GOP Is Shackled to Trump
+*   _Marian Tupy_: Socialism's Obsession With Race
     
-*   _David Byler_: Trump Is (Still) Outpolling House Republicans
+*   _M. Anthony Mills &. Christopher Beach_: What Policies Can Really Lower Drug Prices?
     
-*   _James Arkin_: Roskam at Center of Fight Over Taxes
+*   _Schmidt &. Haberman_: Justice Dept. to Weigh Inquiry Into Clinton, Uranium One
     
-*   _Ryan Goodman &. John Sipher_: Taking Putin's Word for It
+*   _Bolton &. Carney_: Republicans Mobilize Against Moore in Alabama
     
-*   _Byron York_: Did Dossier Trigger the Trump-Russia Probe?
+*   _Arnold Steinberg_: Four Reasons Why Roy Moore's a Goner
     
-*   _Thomas Frank_: Liberals Still Aghast at Trump, But What Good Has It Done?
+*   _Lee Drutman_: How Dems Can Extend the Winning Streak Into 2018
     
-*   _Robert Knight_: The Bergdahl Liberals
+*   _William McGurn_: The ABA Jumps the Shark
     
-*   _John Archibald_: Roy Moore Defense: Unbuckling the Bible Belt
+*   _Sen. Dianne Feinstein_: Republicans Reverse Course on 'Blue Slips' for Judges
     
-*   _Barton Hinkle_: Seems Money in Politics Isn't So Bad--When Dems Win
+*   _Roger Kimball_: Trump's Real Agenda vs. the Fantasy of 'Trumpism'
     
-*   _Clare Foran_: Keith Ellison: Dems Will Take Back House &. Senate
+*   _Susan Rice_: Trump Is Making China Great Again
     
-*   _Jed Babbin_: Blame It All on James Comey
+*   _Irwin Stelzer_: There Is Nothing 'Free' About Our Trade With China
     
-*   _Charles Blow_: Siding With the Enemy
+*   _Caitlin Flanagan_: Bill Clinton: A Reckoning
     
-*   _Roger Simon_: Trust But Verify: Why Trump Is Right on Russia
+*   _Elizabeth Bruenig_: Do We Understand the 2nd Amendment Anymore?
     
-*   _David Remnick_: The Weinstein Moment and the Trump Presidency
+*   _John Lott_: Stephen Willeford Saved Many Lives With His Gun
     
-*   _Rod Dreher_: NYT Op-Ed: White People Are Violent Racists
+*   _A.B. Stoddard_: Who Will Vote for Republicans Next Year?
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Says U.S. Will No Longer Be Taken Advantage of on Trade
+*   Trump Faces New Challenges in Tax Overhaul, Alabama Race
+*   Calls for Moore to Quit Race Grow After New Accusation
+*   Moore Press Conference on New Allegation: "Absolutely False"
 *   Roskam at the Center of Political Fight Over Taxes
-*   RCP/CKI Poll: Veterans, Civilians Skeptical of Military Intervention
-*   Republicans Cut Ties With Moore as Candidate Denies Sexual Misconduct
-*   What We Learned From the Virginia Races
+*   Trump Says U.S. Will No Longer Be Taken Advantage of on Trade
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,18 +269,18 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Alabama Senate Special Election - Moore vs. JonesFOX 10/Strategy Research
+    *   Moore49
+    *   Jones43Moore +6
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve35
+    *   Disapprove58Disapprove +23
 *   President Trump Job ApprovalGallup
     *   Approve38
-    *   Disapprove56Disapprove +18
+    *   Disapprove57Disapprove +19
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove53Disapprove +7
-*   Direction of CountryRasmussen Reports
-    *   Right Direction33
-    *   Wrong Track61Wrong Track +28
-*   Alabama Senate Special Election - Moore vs. JonesEmerson
-    *   Moore55
-    *   Jones45Moore +10
+    *   Approve44
+    *   Disapprove54Disapprove +10
 
 More Latest Polls In The News
 
