@@ -779,9 +779,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 40% off regular prices!
+Receive 50% off 1 full-price style!
 
-code: WALNUT pin: 7199 DETAILS
+code: CRISP pin: 2744 DETAILS
 
 Customer Service Menu
 
