@@ -51,7 +51,9 @@ Toggle navigation
     *   Video
     *   Quizzes
 
-Privacy Policy  
+Privacy Policy
+
+ 
 
 This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace Holdings LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -231,47 +233,17 @@ Last Updated On: 08/10/2016
 
 Print | Citation &. Date | Reprint
 
-More to Explore   You might also like
+Print | Citation &. Date | Reprint
 
-*   A Spectacular 21 Month 0% Interest Rate Credit Card Has Been Announced NerdWallet
-*   The Best Way To Wipe Out $10,000 Of Debt NerdWallet
-*   How To Invest In Real Estate Without Being A Landlord Realty Mogul
+More to Explore     by Taboola by Taboola Sponsored Links Sponsored Links Promoted Links Promoted Links .GameOfGlamStars Who Were Once HomelessGameOfGlamAmazing Earth 201710 Beautiful Beaches That You Should Avoid |Amazing Earth 2017CloudyStonePlus Size Dresses &. SkirtsCloudyStoneFiat5 Ways to Have an Adult Snow Day Beyond Just Sleeping InFiatLIVEmusicblog.comYou Won't Believe How Freaked Out Washington D.C. WasLIVEmusicblog.comTime-journal.comTop 5 Most Beautiful Coastal Towns In EnglandTime-journal.comTop Celeb Daily10 Hollywood Stars You Didn't Know Were LesbianTop Celeb DailyZillowIt's a Volcano, It's a Spaceship…Zillow Today's Headlines
 
-*   Here are the Newest 2017 Crossover SUVs Yahoo! Search
-*   Savvy Ways to Save Money In 2017 AARP
-*   How to Pay Off Your Credit Card Debt Faster Lending Club
+Was South Korea's Disgraced Ex-President Controlled by a Cult?
 
-Sponsored by Today's Headlines
+Why Do So Many Women’s Sports Still Incorporate Skirts?
 
-Creative, Curious and Compelling: Our Best Stories You Might Have Missed This Week
+Women Less Likely to Receive CPR in Public, Study Finds
 
-Our World Is Rich With Places to See Real Dinosaur Tracks
-
-5 Smooth Things You Didn't Know About Peanut Butter
-
-About Us
-
-**About HowStuffWorks**
-
-**Awards**
-
-**Advertising**
-
-**Working for HowStuffWorks**
-
-**Freelance Writers: Apply to Write for HowStuffWorks**
-
-More to Explore   DON'T MISS
-
-*   Nearly Complete Tyrannosaur Skeleton Found in Utah
-
-*   Why are black cats considered unlucky?
-
-*   Why Goldfish Make Their Own Alcohol
-
-*   About HowStuffWorks
-
-By
+More to Explore Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksWorking for HowStuffWorksAbout HowStuffWorks10 Horrific Deaths That Happened While Filming a Movie10 Foodborne Illnesses That Will Make You Wish You Were Deadby Taboolaby Taboola
 
   
 
@@ -305,4 +277,4 @@ Get the best of HowStuffWorks by email. Keep up to date on:
 
 Sign Up Now!
 
-Testing this long verbose error message to check the behaviour <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. <img src="https://soflopxl.com/px?partner\_id=31210">AddThis Sharing SidebarShare to FacebookFacebook, Number of sharesShare to TwitterTwitterShare to Google+Google+Share to PinterestPinterest, Number of sharesShare to EmailEmailMore AddThis Share optionsAddthis, Number of sharesHideShowCloseAddThis
+Testing this long verbose error message to check the behaviour <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. <img src="https://soflopxl.com/px?partner\_id=31210">
