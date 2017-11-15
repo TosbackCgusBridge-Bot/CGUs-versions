@@ -1,4 +1,35 @@
-*   Big Play HighlightE.Dickson 7-yard TD pass from C.NewtonWatch NowMIA7CAR?173rd ? 12:20
+*   MIA4-521CAR7-345Final
+*   SEA6-322ARI4-516Final
+*   NO7-247BUF5-410Final
+*   GB5-423CHI3-616Final
+*   CLE0-924DET5-438Final
+*   PIT7-220IND3-717Final
+*   LAC3-617JAX6-320Final (OT)
+*   NYJ4-610TB3-615Final
+*   CIN3-620TEN6-324Final
+*   MIN7-238WAS4-530Final
+*   HOU3-67LA7-233Final
+*   DAL5-47ATL5-427Final
+*   NYG1-821SF1-931Final
+*   NE7-241DEN3-616Final
+
+*   News
+*   Scores
+*   Schedule
+*   Standings
+*   Video
+*   Fantasy
+*   Tickets
+*   Shop
+*   Teams
+*   Game Pass
+*   Stats
+*   Mexico Game
+*   Ways to Watch
+*   NFL Network
+*   Photos
+
+*   MIA21CAR45Final
 *   SEA22ARI16Final
 *   NO47BUF10Final
 *   GB23CHI16Final
