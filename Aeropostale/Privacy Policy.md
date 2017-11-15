@@ -255,6 +255,7 @@ Close submenu ( Girls ) Girls
 *   Joggers + Sweats
 *   Leggings + Active
 *   Shorts
+*   Swim
 *   Accessories
 
 Close submenu ( Guys ) Guys
@@ -487,6 +488,7 @@ Menu Find a Store Aeropostale
         *   Joggers + Sweats
         *   Leggings + Active
         *   Shorts
+        *   Swim
         *   Accessories
     
     *   Guys
@@ -528,9 +530,9 @@ Previous*   Jeggings Starting at $17.87 Shop Jeggings
 *   Hoodies + Joggers Starting at $17.87 Shop Hoodies + Joggers
 *   Puffer Vests Starting at $15.87 Shop Puffer Vests
 *   Tees Starting at $5.87 Shop Girls Graphic Tees
-*   Graphic Tees Starting at $5.99 Shop Guys Graphic Tees
+*   Graphic Tees Starting at $7.87 Shop Guys Graphic Tees
 *   Velour Tops + Bottoms Starting at $9.87 Shop Velour Tops + Bottoms
-*   Polos Starting at $11.99 Shop Guys Polos
+*   Polos Starting at $9.87 Shop Guys Polos
 *   Hoodies + Joggers Starting at $11.87 Shop Girls Hoodies + Joggers
 *   Puffer Vests Starting at $17.87 Shop Girls Puffer Vests
 *   Jeggings Starting at $17.87 Shop Jeggings
@@ -538,9 +540,9 @@ Previous*   Jeggings Starting at $17.87 Shop Jeggings
 *   Hoodies + Joggers Starting at $17.87 Shop Hoodies + Joggers
 *   Puffer Vests Starting at $15.87 Shop Puffer Vests
 *   Tees Starting at $5.87 Shop Girls Graphic Tees
-*   Graphic Tees Starting at $5.99 Shop Guys Graphic Tees
+*   Graphic Tees Starting at $7.87 Shop Guys Graphic Tees
 *   Velour Tops + Bottoms Starting at $9.87 Shop Velour Tops + Bottoms
-*   Polos Starting at $11.99 Shop Guys Polos
+*   Polos Starting at $9.87 Shop Guys Polos
 Next
 
 *   1
@@ -586,4 +588,4 @@ Stay Connected
 *   Live ChatCall Us
 *   Refer a Friend
 
-© 2017 Aeropostale. All Rights Reserved.
+© 2017 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
