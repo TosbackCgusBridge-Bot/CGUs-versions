@@ -1,4 +1,51 @@
-skip to main content We use cookies to make sure you get the best experience on our website. If you continue without changing your settings, you're agreeing to receive all cookies on the IKEA website.Privacy policy | Read more about cookies Welcome to USAIKEA FAMILYIKEA for BusinessCustomer ServicesFind an IKEA StoreJoin our email listInformación en españolLog In/Sign UpProducts BathroomBedroomChildrensCookingDecorationDiningEatingFoodHallwayKitchensLaundryLightingLiving RoomOffice FurnitureOutdoor FurniturePetsSecondary StorageSmall StorageTextiles and RugsWireless chargingWinter HolidaysFor BusinessIKEA FAMILY  
+skip to main content We use cookies to make sure you get the best experience on our website. If you continue without changing your settings, you're agreeing to receive all cookies on the IKEA website.Privacy policy | Read more about cookies IKEA FAMILYIKEA for BusinessCustomer ServicesFind an IKEA StoreJoin our email listInformación en españolYou are shopping in  
+**WA, Renton**Choose Your Store Choose Your Store **View Store Finder**AZ, Tempe  
+CA, Burbank  
+CA, Carson  
+CA, Costa Mesa  
+CA, Covina  
+CA, East Palo Alto  
+CA, Emeryville  
+CA, San Diego  
+CA, West Sacramento  
+CO, Centennial  
+CT, New Haven  
+FL, Jacksonville  
+FL, Miami  
+FL, Orlando  
+FL, Sunrise  
+FL, Tampa  
+GA, Atlanta  
+IL, Bolingbrook  
+IL, Schaumburg  
+IN, Fishers  
+KS, Merriam  
+MD, Baltimore  
+MD, College Park  
+MA, Stoughton  
+MI, Canton  
+MN, Twin Cities  
+MO, St. Louis  
+NV, Las Vegas  
+NJ, Elizabeth  
+NJ, Paramus  
+NY, Brooklyn  
+NY, Long Island  
+NC, Charlotte  
+OH, Columbus  
+OH, West Chester  
+OR, Portland  
+PA, Conshohocken  
+PA, South Philadelphia  
+PA, Pittsburgh  
+TN, Memphis  
+TX, Frisco  
+TX, Houston  
+TX, Round Rock  
+UT, Draper  
+VA, Woodbridge  
+WA, Renton  
+Log In/Sign UpProducts BathroomBedroomChildrensCookingDecorationDiningEatingFoodHallwayKitchensLaundryLightingLiving RoomOffice FurnitureOutdoor FurniturePetsSecondary StorageSmall StorageTextiles and RugsWireless chargingWinter HolidaysFor BusinessIKEA FAMILY  
 products &. offersInspirationNewOffersServicesNew Lower Price    Welcome! 0 FAQ
 
 *   Log In or Sign Up
