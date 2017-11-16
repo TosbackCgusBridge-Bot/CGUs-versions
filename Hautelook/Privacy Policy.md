@@ -8,11 +8,47 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   JOE'S Jeans
-    *   JOE'S Jeans Men
-    *   New Balance
-    *   French Connection
-    *   ASTR the Label
+    *   The Holiday Edit: Party Styles
+    *   The Holiday Edit: Cozy-Casual Styles
+    *   Men's Holiday Edit
+    *   Kids' Holiday Edit
+    *   Vince Camuto
+    *   Natori Sleep
+    *   Urban Decay
+    *   Young Fabulous &. Broke
+    *   Vince Camuto &. Two by Vince Camuto Incl. Plus
+    *   Vince Camuto Handbags
+    *   Dresses We Love ft. Isabel Garcia
+    *   Nicole Miller
+    *   GUESS
+    *   Vince Camuto Accessories
+    *   Must-Have Coats ft. Vince Camuto
+    *   Big Star
+    *   Ramarim
+    *   Nina Jewelry Starting at $15
+    *   Nina Shoes &. Clutches Up to 60% Off
+    *   Western Chief Rain Boots
+    *   Precious Pieces: 14K Gold &. Gems Starting at $15
+    *   Original Penguin
+    *   Original Penguin Tailored Clothing
+    *   Original Penguin Shoes
+    *   Report Collection
+    *   James Tattersall &. More Up to 75% Off
+    *   Robert Wayne
+    *   Martinni Beauty Professional Masks Up to 85% Off
+    *   Bath Bombs &. More Up to 50% Off
+    *   Fekkai Starting at $10
+    *   Free Shipping: Primitives by Kathy Starting at $10
+    *   Free Shipping: Kitchen Blowout
+    *   Free Shipping: 1000 Thread Count Sheets Up to 80% Off
+    *   Free Shipping: Accent Furniture Under $300
+    *   Inspired Must-Haves: Kids' Styles Starting at $10
+    *   Favorite Holiday Books: The Grinch &. More
+    *   Total Dreamz Nightlights
+    *   UGG
+    *   UGG Sleep
+    *   Love Token
+    
     *   Jonathan Adler Up to 60% Off
     *   Holiday Preview: Lights &. Decor Starting at $10
     *   Holiday Dishtowels &. Accessories from $10
@@ -20,9 +56,14 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Melange Bedding Starting at $22
     *   Free Shipping: Luxe Bath Accessories Up to 75% Off
     *   Free Shipping: Oliver Gal Up to 60% Off
+    *   JOE'S Jeans
+    *   JOE'S Jeans Men
+    *   New Balance
     *   Jealous Tomato &. More Under $40
+    *   ASTR the Label
     *   Made in Italy: Handbags Starting at $35
     *   Muubaa
+    *   French Connection
     *   Wear-to-Work Shoes ft. Calvin Klein
     *   LA Rocks
     *   Badgley Mischka Sport
@@ -40,40 +81,23 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Sophie Catalou
     *   New Balance Kids' Activewear
     *   New Balance Kids
-    *   UGG
     *   UGG Kids
     *   UGG Men
-    *   UGG Sleep
-    
     *   UGG Men's Lounge &. Accessories
-    *   Love Token
-    *   Rachel Zoe
-    *   Just Me Dresses
-    *   Melrose and Market Including Plus &. Petites
-    *   Kenneth Cole Reaction
-    *   Nest Jewelry Up to 65% Off
-    *   Peace Love World
-    *   Sugarlips
     *   Zoe Ayla Cosmetics Up to 80% Off
     *   MintPear Skin Care &. More
     *   PURA D'OR Hair Care
     *   Emanuel Ungaro Outerwear &. More
     *   Px
+    
     *   Sweaters Under $35
-    *   Invicta Watches Under $100
     *   Peace Love World Kids
     *   Nicole Miller Girls &. More
     *   Little Miss Twin Stars &. Molly Glitz
     *   Free Shipping: Curtains &. More
     *   Pet Beds &. More
-    *   Papillon Up to 80% Off
     *   Free Shipping: Hip Modern Rugs Up to 85% Off
-    *   Insight Up to 80% Off
     *   Brilliance New York Hair Tools Under $50
-    *   Charlene K Jewelry Under $50
-    *   Fall Shoe Blowout: Boots, Booties &. More
-    *   Meredith Leigh Semi-Precious Jewelry Under $80
-    *   On-Trend Bags Up to 75% Off
     *   Men's Shoe Blowout
     *   Backpack Blowout
     *   Kiehl's Since 1851
@@ -81,51 +105,64 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Boga
     *   Panier des Sens
     *   Allen Edmonds
-    
     *   Lorenzo Uomo Dress Shirts
     *   John Varvatos Sun &. More Up to 75% Off
-    *   Mezlan Belts &. More
+    *   NYDJ Including Plus &. Petites Up to 65% Off
     *   Laura Ashley Bedding &. Decor from $20
     *   Free Shipping: Bold Pillows &. Throws
-    *   Sweet Looks for Girls ft. Funkyberry
-    *   Beetle &. Thread
     *   Holiday Must-Haves: Laura Geller New York
-    *   Red Wing
-    *   PUMA Men's Active &. More
-    *   Tailorbyrd Tailored Clothing
-    *   Mason's &. More
-    *   Panda Diplomacy
     *   Balanced Guru
     *   Free Shipping: Fine Art Blowout
     *   Holiday Baking Essentials
     *   Elite Kitchen Electrics
-    *   Korean Beauty: Secret Key
-    *   Truly Clear Light Therapy Up to 80% Off
-    *   Sky Organics
     *   Free Shipping: Chic Home Blankets &. Bedding
     *   Winter Wonderland: Decor We Love
-    *   Valentino by Mario Valentino
-    *   NYDJ Including Plus &. Petites Up to 65% Off
-    *   Free Shipping: Parvez Taj
-    *   French Prestige: Staub Cookware
-    *   Designer Shop ft. Paul &. Joe Sister
-    *   Fan Gifts: Sports Collectibles
-    *   Small Space Accent Furniture Under $200
-    *   Lights Please: Pendant Lighting &. More
-    *   Sleep Yoga
     *   Sip in Style: Bright Bottles &. Tumblers
     *   Free Shipping: Rugs Starting at $29
+    *   Free Shipping: Parvez Taj
+    *   French Prestige: Staub Cookware
     *   Free Shipping: Metallic Decor &. More
+    *   Fan Gifts: Sports Collectibles
     *   ENGLISH LAUNDRY
+    *   Melrose and Market Including Plus &. Petites
+    *   Kenneth Cole Reaction
+    *   Papillon Up to 80% Off
+    *   Mezlan Belts &. More
 *   WomenShop Sale Events
     
+    *   The Holiday Edit: Party Styles
+    *   The Holiday Edit: Cozy-Casual Styles
+    *   Vince Camuto
+    *   Natori Sleep
+    *   Urban Decay
+    *   Young Fabulous &. Broke
+    *   Vince Camuto &. Two by Vince Camuto Incl. Plus
+    *   Vince Camuto Handbags
+    *   Dresses We Love ft. Isabel Garcia
+    *   Nicole Miller
+    *   GUESS
+    *   Vince Camuto Accessories
+    *   Must-Have Coats ft. Vince Camuto
+    *   Big Star
+    *   Ramarim
+    *   Nina Jewelry Starting at $15
+    *   Nina Shoes &. Clutches Up to 60% Off
+    *   Western Chief Rain Boots
+    *   Precious Pieces: 14K Gold &. Gems Starting at $15
+    *   Martinni Beauty Professional Masks Up to 85% Off
+    *   Bath Bombs &. More Up to 50% Off
+    *   Fekkai Starting at $10
+    *   UGG
+    *   UGG Sleep
+    *   Love Token
     *   JOE'S Jeans
     *   New Balance
-    *   French Connection
-    *   ASTR the Label
+    
     *   Jealous Tomato &. More Under $40
+    *   ASTR the Label
     *   Made in Italy: Handbags Starting at $35
     *   Muubaa
+    *   French Connection
     *   Wear-to-Work Shoes ft. Calvin Klein
     *   LA Rocks
     *   Badgley Mischka Sport
@@ -135,64 +172,50 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bettye Muller
     *   PMD Personal Microderm
     *   Dazzlepro Teeth Whitening Up to 75% Off
-    *   UGG
-    *   UGG Sleep
-    *   Love Token
-    *   Rachel Zoe
-    *   Just Me Dresses
-    *   Melrose and Market Including Plus &. Petites
-    *   Kenneth Cole Reaction
-    *   Nest Jewelry Up to 65% Off
-    
-    *   Peace Love World
-    *   Sugarlips
     *   Zoe Ayla Cosmetics Up to 80% Off
     *   MintPear Skin Care &. More
     *   PURA D'OR Hair Care
-    *   Invicta Watches Under $100
-    *   Papillon Up to 80% Off
-    *   Insight Up to 80% Off
     *   Brilliance New York Hair Tools Under $50
-    *   Charlene K Jewelry Under $50
-    *   Fall Shoe Blowout: Boots, Booties &. More
-    *   Meredith Leigh Semi-Precious Jewelry Under $80
-    *   On-Trend Bags Up to 75% Off
     *   Kiehl's Since 1851
     *   Panier des Sens
+    *   NYDJ Including Plus &. Petites Up to 65% Off
     *   Holiday Must-Haves: Laura Geller New York
     *   Balanced Guru
-    *   Korean Beauty: Secret Key
-    *   Truly Clear Light Therapy Up to 80% Off
-    *   Sky Organics
-    *   Valentino by Mario Valentino
-    *   NYDJ Including Plus &. Petites Up to 65% Off
-    *   Designer Shop ft. Paul &. Joe Sister
+    *   Melrose and Market Including Plus &. Petites
+    *   Kenneth Cole Reaction
+    *   Papillon Up to 80% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
     *   Handbags
-    *   Tech Accessories
-    *   Watches
     *   Accessories
     *   Lingerie
+    *   Watches
+    *   Tech Accessories
 *   MenShop Sale Events
     
+    *   Men's Holiday Edit
+    *   Original Penguin
+    *   Original Penguin Tailored Clothing
+    *   Original Penguin Shoes
+    *   Report Collection
+    *   James Tattersall &. More Up to 75% Off
+    *   Robert Wayne
     *   JOE'S Jeans Men
     *   New Balance Men
     *   Cult of Individuality
     *   Blanc Noir
     *   Blackstone
     *   Dazzlepro Teeth Whitening Up to 75% Off
+    
     *   UGG Men
     *   UGG Men's Lounge &. Accessories
     *   Emanuel Ungaro Outerwear &. More
     *   Px
     *   Sweaters Under $35
-    *   Invicta Watches Under $100
     *   Men's Shoe Blowout
-    
     *   Backpack Blowout
     *   Diesel Men
     *   Boga
@@ -200,43 +223,46 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Lorenzo Uomo Dress Shirts
     *   John Varvatos Sun &. More Up to 75% Off
     *   Mezlan Belts &. More
-    *   Red Wing
-    *   PUMA Men's Active &. More
-    *   Tailorbyrd Tailored Clothing
-    *   Mason's &. More
-    *   Panda Diplomacy
-    *   Truly Clear Light Therapy Up to 80% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
+    *   Kids' Holiday Edit
+    *   Inspired Must-Haves: Kids' Styles Starting at $10
+    *   Favorite Holiday Books: The Grinch &. More
+    *   Total Dreamz Nightlights
     *   JOE'S Jeans Kids Under $20
     *   Sophie Catalou
+    
     *   New Balance Kids' Activewear
     *   New Balance Kids
     *   UGG Kids
     *   Peace Love World Kids
     *   Nicole Miller Girls &. More
     *   Little Miss Twin Stars &. Molly Glitz
-    *   Sweet Looks for Girls ft. Funkyberry
-    *   Beetle &. Thread
     
     Shop By Category
     *   Girls Sizes 2T-6X
     *   Kids Accessories
-    *   Girls Sizes 7-16
-    *   Girls' Shoes
-    *   Baby Girl
     *   Boys Sizes 2T-7
+    *   Toys
+    *   Girls Sizes 7-16
+    *   Baby Girl
+    *   Girls' Shoes
     *   Boys' Shoes
     *   Boys Sizes 8-20
     *   Baby Boy
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Primitives by Kathy Starting at $10
+    *   Free Shipping: Kitchen Blowout
+    *   Free Shipping: 1000 Thread Count Sheets Up to 80% Off
+    *   Free Shipping: Accent Furniture Under $300
+    *   UGG
     *   Jonathan Adler Up to 60% Off
     *   Holiday Preview: Lights &. Decor Starting at $10
     *   Holiday Dishtowels &. Accessories from $10
@@ -244,27 +270,23 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Melange Bedding Starting at $22
     *   Free Shipping: Luxe Bath Accessories Up to 75% Off
     *   Free Shipping: Oliver Gal Up to 60% Off
-    *   UGG
     *   Free Shipping: Curtains &. More
     *   Pet Beds &. More
+    
     *   Free Shipping: Hip Modern Rugs Up to 85% Off
     *   Laura Ashley Bedding &. Decor from $20
     *   Free Shipping: Bold Pillows &. Throws
     *   Free Shipping: Fine Art Blowout
-    
     *   Holiday Baking Essentials
     *   Elite Kitchen Electrics
     *   Free Shipping: Chic Home Blankets &. Bedding
     *   Winter Wonderland: Decor We Love
-    *   Free Shipping: Parvez Taj
-    *   French Prestige: Staub Cookware
-    *   Fan Gifts: Sports Collectibles
-    *   Small Space Accent Furniture Under $200
-    *   Lights Please: Pendant Lighting &. More
-    *   Sleep Yoga
     *   Sip in Style: Bright Bottles &. Tumblers
     *   Free Shipping: Rugs Starting at $29
+    *   Free Shipping: Parvez Taj
+    *   French Prestige: Staub Cookware
     *   Free Shipping: Metallic Decor &. More
+    *   Fan Gifts: Sports Collectibles
     
     Shop By Category
     *   Home Decor
@@ -278,26 +300,27 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Urban Decay
+    *   Martinni Beauty Professional Masks Up to 85% Off
+    *   Bath Bombs &. More Up to 50% Off
+    *   Fekkai Starting at $10
     *   PMD Personal Microderm
     *   Dazzlepro Teeth Whitening Up to 75% Off
     *   Zoe Ayla Cosmetics Up to 80% Off
+    
     *   MintPear Skin Care &. More
     *   PURA D'OR Hair Care
     *   Brilliance New York Hair Tools Under $50
     *   Kiehl's Since 1851
-    
     *   Panier des Sens
     *   Holiday Must-Haves: Laura Geller New York
     *   Balanced Guru
-    *   Korean Beauty: Secret Key
-    *   Truly Clear Light Therapy Up to 80% Off
-    *   Sky Organics
     
     Shop By Category
-    *   Hair Care
     *   Skin Care
-    *   Makeup
     *   Bath &. Body
+    *   Hair Care
+    *   Makeup
     *   Tools &. Accessories
     *   Fragrance
 
