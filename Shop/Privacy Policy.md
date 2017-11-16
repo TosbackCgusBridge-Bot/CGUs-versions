@@ -315,6 +315,15 @@ Compare (0)
 
 Home >. Filter by specs Offers
 
+*   Flexible financing is available! Check out your options now. Learn More >
+*   Be Confident in your Lenovo Purchase. Learn More >
+*   Lenovo offers a 10% discount for students and teachers + Free ShippingLearn More >
+*   Always Free Shipping. Ships Free and Quick!Learn More >
+*   Flexible financing is available! Check out your options now. Learn More >
+*   Be Confident in your Lenovo Purchase. Learn More >
+
+PrevNext
+
 'OOPS' RESISTANT
 
 Learn more >.
@@ -331,9 +340,14 @@ Let Lenovo help accelerate your artifical intelligence journey
 
 Learn more >.
 
+Awaken your inner Jedi with a new smartphone-powered augmented-reality experience.
+
+Start your training >.
+
 *   1
 *   2
 *   3
+*   4
 
 Weekly Deals
 
@@ -381,7 +395,7 @@ Outlet
 
 Find great deals on new and refurbished Lenovo products.
 
-STAY CONNECTED
+X Awaken your inner Jedi with the smartphone-powered augmented reality _STAR WARS_ ™ experience. Learn More STAY CONNECTED
 
 *   Facebook
 *   Twitter
@@ -460,10 +474,18 @@ Holiday Laptops Tablets Desktops Deals Holiday Laptops Tablets Desktops Deals Ch
 
 © 2017   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
 
-Chat with a Lenovo Specialist Would you like to start the session?
+Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
-*   Yes, let's chat
-*   No, not right now
-*   No, do not ask again
+How can we help you today?
+
+CONSUMERS SALESCONSUMERS SALES BUSINESS SALESBUSINESS SALES EXISTING ORDER HELPEXISTING ORDER HELP
+
+Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being least favorable, how likely is it that you would recommend Lenovo to a friend or colleague?
+
+1 2 3 4 5 6 7 8 9 10
+
+Please tell us how we can improve your experience:
+
+SUBMIT CHATHIDE
 
 Feedback Will open a new windowFeedbackLaunches comment card in new window
