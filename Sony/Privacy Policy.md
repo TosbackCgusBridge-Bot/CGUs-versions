@@ -147,7 +147,7 @@ View Remote Play on Instagram
 
 Black Friday starts this Friday for PS Plus members. Save up to 40% on COD WWII, Destiny 2, NBA 2K18, FIFA 18 and more.
 
-20 hours ago
+1 day ago
 
 View Tweet
 
@@ -219,7 +219,7 @@ View a7R III on Instagram
 
 See why @RomanJIsraelEsq is “one of the finest performances of \[Denzel’s\] career” in select LA/NYC theaters Friday.
 
-21 hours ago
+1 day ago
 
 View Tweet
 
@@ -307,7 +307,7 @@ View Gold Headphones on Instagram
 
 Not long to wait for the brand new episode of #TheGoodDoctor! Tune in tonight 10/9c on @ABCNetwork.
 
-19 hours ago
+1 day ago
 
 View Tweet
 
