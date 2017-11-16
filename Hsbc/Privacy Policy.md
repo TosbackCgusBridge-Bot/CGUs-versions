@@ -120,7 +120,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Culture
         *   Other sponsorships last item in this group
     
-    *   India punches its weight India could become the world’s third largest economy within a decade.
+    *   Our sustainability pledges HSBC will provide USD100 billion in sustainable financing by 2025.
 *   Careers Skip navigation
     
     *   Key hiring areas
