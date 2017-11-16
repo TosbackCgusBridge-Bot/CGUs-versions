@@ -41,13 +41,10 @@ See all On Our Radar
 See all About O’Reilly
 
 *   Contacts
+*   Resources
 *   Press Room
 *   Tim O'Reilly
 *   Editorial Independence
-*   Terms of Service
-*   Privacy Policy
-*   Academic
-*   RSS
 
 Privacy Policy
 
