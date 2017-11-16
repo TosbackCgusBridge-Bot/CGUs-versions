@@ -27,7 +27,6 @@
     *   About Us
     *   Buzz
 *   Get Motivated
-    *   Fitstar
     *   Events
     *   Blog
     *   FitForGood
