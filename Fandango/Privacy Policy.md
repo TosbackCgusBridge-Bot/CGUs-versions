@@ -6,39 +6,38 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movies Now Playing
     
     *   Thor: Ragnarok (2017)
+    *   Daddy's Home 2
+    *   Murder on the Orient Express (2017)
     *   A Bad Moms Christmas
     *   Jigsaw
     *   Boo 2! A Madea Halloween
     *   Geostorm
-    *   Happy Death Day
-    *   Thank You for Your Service (2017)
     *   Blade Runner 2049
-    *   Only the Brave
+    *   Happy Death Day
+    *   Lady Bird
     *   Let There Be Light (2017)
-    *   The Foreigner (2017)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Daddy's Home 2
-    *   Murder on the Orient Express (2017)
-    *   Amanda &. Jack Go Glamping
-    *   No Greater Love
-    *   The Secret Life of Lance Letscher
-    *   Thelma (2017)
-    *   Three Billboards Outside Ebbing, Missouri
+    *   Justice League (2017)
+    *   The Star (2017)
+    *   Wonder
+    *   Almost Friends (2017)
+    *   Big Sonia
+    *   Revolt
+    *   Roman J Israel, Esq.
+    *   Song of Granite
+    *   Sweet Virginia
     *   See All Opening This Week
     
     Pre Sales Tickets
     
-    *   Justice League (2017)
     *   Coco (2017)
     *   Star Wars: The Last Jedi (2017)
     
     Coming Soon
     
-    *   The Star (2017)
-    *   Wonder
     *   Coco (2017)
     *   Just Getting Started
     *   Ferdinand
@@ -46,6 +45,8 @@ Gift Cards | Offers | Sign In Sign Out
     *   Downsizing
     *   Father Figures
     *   Pitch Perfect 3
+    *   The Greatest Showman
+    *   Jumanji: Welcome to the Jungle
     *   See All Coming Soon
     
     Explore More
@@ -68,13 +69,14 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Interview: Kenneth Branagh on Finding the Perfect Mustache for ‘Murder on the Orient Express” Read More
-    *   Movie News: 'Truth or Dare' Horror Thriller Set for 2018 Read More
-    *   The Week in Movie News: Another 'Star Wars' Trilogy, Disney, Fox and More Read More
+    *   Movie News: 'Wonder Woman 2' Moves Up Release Date Read More
+    *   'Super Mario Bros.' Will Be Animated for Next Movie Adaptation Read More
     
     Explore Content
     *   Movie Reviews
     *   Indie Movie Guide
     *   Star Wars Guide
+    *   Holiday Movie Guide
     *   Weekend Ticket
 *   My VIP Account Top Movies Near 80201 Edit Zip Code
     
@@ -283,9 +285,9 @@ Offers
     
     Buy tickets to ‘Thor: Ragnarok’ and get FREE\* exclusive poster on Fandango FanShop. BUY TICKETS
     
-*   'Fifty Shades Freed' Sweepstakes
+*   'Justice League' Free Gift With Purchase
     
-    Buy tickets now and you could win a vacation to Paris BUY TICKETS
+    Buy tickets and get a FREE\* exclusive 'Justice League' poster with ticket purchase. BUY TICKETS
     
 
 New + Coming soon
@@ -312,6 +314,7 @@ Editorial Features
 
 *   Indie Movie Guide
 *   Star Wars Guide
+*   Holiday Movie Guide
 *   Movie News
 
 Videos
