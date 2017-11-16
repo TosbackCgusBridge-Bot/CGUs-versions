@@ -4,6 +4,8 @@
 *   FIND A STORE
 *   800.607.9788
 
+Stay home for the holidays and warm up to cozy knits and soft sweaters. Shop Women's | Shop Men's
+
 *   Women
 *   Men
 *   Kids
@@ -91,7 +93,7 @@
         
           
           
-        Give a Buckle Gift card Stay home for the holidays and warm up to cozy knits and soft sweaters. Shop Women's | Shop Men's
+        Give a Buckle Gift card
 *   Men
     *   *   Featured
         
@@ -154,7 +156,7 @@
         
           
           
-        Give a Buckle Gift card Stay home for the holidays and warm up to cozy knits and soft sweaters. Shop Women's | Shop Men's
+        Give a Buckle Gift card
 *   Kids
     *   *   Featured
         
@@ -173,9 +175,7 @@
         
         *   Tops
         *   Bottoms
-        *   Shop All
-        
-        Give a Buckle Gift card Stay home for the holidays and warm up to cozy knits and soft sweaters. Shop Women's | Shop Men's
+        *   Shop AllGive a Buckle Gift card
 *   Jeans
     *   *   Women's Jeans
         
@@ -207,7 +207,7 @@
         *   Shop All Factory Seconds
         
           
-        Give a Buckle Gift card Stay home for the holidays and warm up to cozy knits and soft sweaters. Shop Women's | Shop Men's
+        Give a Buckle Gift card
 *   Trending
     *   *   Featured New
         
@@ -260,7 +260,7 @@
         *   Shipping Deadlines
         
           
-        Give a Buckle Gift card Stay home for the holidays and warm up to cozy knits and soft sweaters. Shop Women's | Shop Men's
+        Give a Buckle Gift card
 *   Sale
     *   *   Women's Sale
         
@@ -303,7 +303,7 @@
         
           
           
-        Give a Buckle Gift card Stay home for the holidays and warm up to cozy knits and soft sweaters. Shop Women's | Shop Men's
+        Give a Buckle Gift card
 
 SearchSubmitToggle Main MenuSearchSubmit × ClosePrivacy &. Security
 
@@ -573,4 +573,4 @@ Your cart is full!
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
 
 ×**Hey You!**Want to stay updated on our latest styles and promotions?  
-Sign up for email and let’s make things official. Submit Email××<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1893227547574163&amp;ev=PageView&amp;noscript=1">.
+Sign up for email and let’s make things official. Submit Email×<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1893227547574163&amp;ev=PageView&amp;noscript=1">.
