@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Orchestrating architectural installations and live shows with snaps ›
+*   How to turn your website into a desktop app ›
+*   Codetree Collect Info ›
 *   Ubuntu Server Development Summary – 14 Nov 2017 ›
-*   New Dell Precision Machines Available With Ubuntu Pre-Installed ›
-*   LXD Weekly Status #23 ›
-*   How to deploy one or more Kubernetes clusters to a single box ›
-*   Ubuntu Desktop Weekly, Nov 3rd &. 10th: Bionic daily images available ›
+*   Dell Precision Machines Available With Ubuntu Pre-Installed ›
