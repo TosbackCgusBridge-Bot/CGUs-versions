@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Peter Roff_: For Party and Country, Roy Moore Should Drop Out
+*   _Michael Goodwin_: Sessions Again Proves He Was Trump's Biggest Mistake
     
-*   _Ezra Klein_: Dems Made a Big Mistake, But They Didn't Rig Their Primary
+*   _Amy Sorkin_: Why the Democrats Should Listen to Donna Brazile
     
-*   _Kimberley Strassel_: The FBI and the Ugly Truth About False Trump Dossier
+*   _Josh Kraushaar_: Fiasco in Alabama: Can Republicans Block Moore?
     
-*   _Joel Willett_: How to Find a Smoking Gun in the Russia Investigation
+*   _Betsy McCaughey_: ABA and Dems Smear Court Picks
     
-*   _Bob Calco_: Mueller's Collusion Illusion
+*   _David Ignatius_: Trump Asia Trip: Long on Flattery, Short on Strategy
     
-*   _Gideon Lewis-Kraus_: How the Resistance Helped Dems Dominate VA
+*   _Joseph Bosco_: Is Trump Taking a Page From Kissinger on North Korea?
     
-*   _Richard Bernstein_: China &. the Rise of the 'Authoritarian International'
+*   _Johnson &. Karni_: Pompeo Emerges as Favorite to Succeed Tillerson
     
-*   _Wesley Pruden_: Lessons About Trade From Trump's Trip to Asia
+*   _Michelle Goldberg_: I Believe Juanita Broaddrick
     
-*   _Briahna Joy Gray_: Identity Politics, Trump's Racism, &. the Mess We're In
+*   _Allahpundit_: Please, Dems, No More Phony Op-Eds About Bill Clinton
     
-*   _Marian Tupy_: Socialism's Obsession With Race
+*   _Studley &. Hamer_: For Border States Michigan and Arizona, NAFTA Is Essential
     
-*   _M. Anthony Mills &. Christopher Beach_: What Policies Can Really Lower Drug Prices?
+*   _Tom Friedman_: China Could Sell Trump the Brooklyn Bridge
     
-*   _Schmidt &. Haberman_: Justice Dept. to Weigh Inquiry Into Clinton, Uranium One
+*   _Joe Curl_: Trump Triumphs in Asia, Despite Media's Games
     
-*   _Bolton &. Carney_: Republicans Mobilize Against Moore in Alabama
+*   _Tara John &. Joseph Hincks_: What We Know About the Coup in Zimbabwe
     
-*   _Arnold Steinberg_: Four Reasons Why Roy Moore's a Goner
+*   _John Kass_: Politics Shouldn't Override Decency
     
-*   _Lee Drutman_: How Dems Can Extend the Winning Streak Into 2018
+*   _Kyle Whitmire_: Roy Moore Is Poison in the Republican Blood Stream
     
-*   _William McGurn_: The ABA Jumps the Shark
+*   _Jeff Greenfield_: How Roy Moore's Misdeeds Force an Awakening On the Left
     
-*   _Sen. Dianne Feinstein_: Republicans Reverse Course on 'Blue Slips' for Judges
+*   _Jim Geraghty_: Kennedy, Clinton &. Weinstein: A Convenient Reckoning
     
-*   _Roger Kimball_: Trump's Real Agenda vs. the Fantasy of 'Trumpism'
+*   _John Cassidy_: Donald Trump's Trump, Jr., Problem
     
-*   _Susan Rice_: Trump Is Making China Great Again
+*   _James Bovard_: Do Trump's Liberal Critics Seem Increasingly Unhinged?
     
-*   _Irwin Stelzer_: There Is Nothing 'Free' About Our Trade With China
+*   _Paul Waldman_: GOP's' Pathetic Attempt to Create Another Hillary Scandal
     
-*   _Caitlin Flanagan_: Bill Clinton: A Reckoning
+*   _Gregg Jarrett_: Clinton's Pay-to-Play Scheme Deserves Special Counsel
     
-*   _Elizabeth Bruenig_: Do We Understand the 2nd Amendment Anymore?
+*   _Eric Levitz_: Republicans Can't Afford Their Tax-Cut Habit
     
-*   _John Lott_: Stephen Willeford Saved Many Lives With His Gun
+*   _Michael Needham &. David McIntosh_: One Simple Way to Improve GOP's Tax Plan
     
-*   _A.B. Stoddard_: Who Will Vote for Republicans Next Year?
+*   _Eleanor Clift_: The GOP's Plan to Rule the Courts Until 2050
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Faces New Challenges in Tax Overhaul, Alabama Race
+*   Sessions Seeks Balance in Pondering Clinton, Uranium One Special Counsel
+*   Senate Tax Proposal Will Include Repeal of Obamacare Mandate
+*   Murphy: I'm Concerned That Trump Will Order a Nuclear Weapons Strike
 *   Calls for Moore to Quit Race Grow After New Accusation
-*   Moore Press Conference on New Allegation: "Absolutely False"
 *   Roskam at the Center of Political Fight Over Taxes
-*   Trump Says U.S. Will No Longer Be Taken Advantage of on Trade
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Alabama Senate Special Election - Moore vs. JonesFOX 10/Strategy Research
-    *   Moore49
-    *   Jones43Moore +6
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve35
-    *   Disapprove58Disapprove +23
+*   President Trump Job ApprovalMarist
+    *   Approve39
+    *   Disapprove55Disapprove +16
 *   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove57Disapprove +19
+    *   Approve37
+    *   Disapprove57Disapprove +20
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove54Disapprove +10
+    *   Approve45
+    *   Disapprove53Disapprove +8
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve37
+    *   Disapprove59Disapprove +22
 
 More Latest Polls In The News
 
-*   McConnell on Moore Allegations: I Believe The Women. Mounting A Write-In Campaign "An Option"
-*   Kellyanne Conway: We Shouldn't Let The Press Prosecute Roy Moore. He Denied Allegations
+*   UCLA Basketball Players Thank President Trump For Getting Them Out Of Chinese Prison Sentence
+*   Hannity Issues Ultimatum To Roy Moore: Explain "Inconsistencies" Now Or "Get Out Of This Race"
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Brennan &. Clapper: "Badge Of Honor" To Be Called "Hacks" By President Trump
-*   Klobuchar: "I Have A Dream That One Day" We'll Have More Women Senators Than Victims Of Harvey Weinstein
+*   Dem Rep. Jackie Speier: Two Current Members Of Congress Have Engaged In Sexual Harassment
+*   Tucker Carlson: "Can My Children Be Friends With White People?" Op-Ed Shows Racism Of The Left
 
 *   Politics
 *   Policy
