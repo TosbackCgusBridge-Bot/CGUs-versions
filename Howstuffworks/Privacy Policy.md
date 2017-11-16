@@ -235,15 +235,15 @@ Print | Citation &. Date | Reprint
 
 Print | Citation &. Date | Reprint
 
-More to Explore     by Taboola by Taboola Sponsored Links Sponsored Links Promoted Links Promoted Links .GameOfGlamStars Who Were Once HomelessGameOfGlamAmazing Earth 201710 Beautiful Beaches That You Should Avoid |Amazing Earth 2017CloudyStonePlus Size Dresses &. SkirtsCloudyStoneFiat5 Ways to Have an Adult Snow Day Beyond Just Sleeping InFiatLIVEmusicblog.comYou Won't Believe How Freaked Out Washington D.C. WasLIVEmusicblog.comTime-journal.comTop 5 Most Beautiful Coastal Towns In EnglandTime-journal.comTop Celeb Daily10 Hollywood Stars You Didn't Know Were LesbianTop Celeb DailyZillowIt's a Volcano, It's a Spaceship…Zillow Today's Headlines
+More to Explore     by Taboola by Taboola Sponsored Links Sponsored Links Promoted Links Promoted Links .Womanitely10 Excuses That Are Keeping You from Reaching Your GoalsWomanitelyUpandnetThe World's 30 Most Dangerous Airports Will Make You Sweat!UpandnetBuzzFond9 Characters Who Look Surprisingly Different From Their Image On The ScreenBuzzFondAlert1Why More Seniors Choose Medical Alerts over Cell PhonesAlert1Her MomentsThis Is Why Everyone Should Start Pouring Soda In The ToiletHer MomentsCrutchfieldWhy Subwoofers Blow: Slam, Bang, Pop, and SizzleCrutchfieldThe Funny BeaverLioness Adopts A Baby Lamb, What Happens Next Stuns ResearchersThe Funny Beaveradaily.info10 Best Diet and Exercise Resolutionsadaily.info Today's Headlines
 
-Was South Korea's Disgraced Ex-President Controlled by a Cult?
+Nearby Earth-sized Alien World Orbits 'Quiet' Star, Boosting Habitable Potential
 
-Why Do So Many Women’s Sports Still Incorporate Skirts?
+Traffic Hotspots Cost U.S. Drivers Billions, Study Shows
 
-Women Less Likely to Receive CPR in Public, Study Finds
+What Will Replace the Smartphone?
 
-More to Explore Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksWorking for HowStuffWorksAbout HowStuffWorks10 Horrific Deaths That Happened While Filming a Movie10 Foodborne Illnesses That Will Make You Wish You Were Deadby Taboolaby Taboola
+More to Explore Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff Works10 Horrific Deaths That Happened While Filming a MovieWorking for HowStuffWorksAbout HowStuffWorks10 Foodborne Illnesses That Will Make You Wish You Were Deadby Taboolaby Taboola
 
   
 
