@@ -112,7 +112,7 @@ Menu Close Menu Close
         
         *   *   SMALL BUSINESS WORKSTATIONS >.
         
-    *   Tablets Explore All  Tablets Explore All  Tablets Your tablet is an extension of your personality. Check out specifics here.
+    *   Tablets Explore All  Tablets Explore All  Tablets Your tablet is an extension of your personality! Find the one that best compliments you.
         
         *   Android Tablets Android Tablets Budget-friendly Android tablets, built for fun.
         *   Windows Tablets Windows Tablets Business-ready Windows tablets with enhanced security features.
@@ -317,7 +317,6 @@ Home >. Filter by specs Offers
 
 *   Flexible financing is available! Check out your options now. Learn More >
 *   Be Confident in your Lenovo Purchase. Learn More >
-*   Lenovo offers a 10% discount for students and teachers + Free ShippingLearn More >
 *   Always Free Shipping. Ships Free and Quick!Learn More >
 *   Flexible financing is available! Check out your options now. Learn More >
 *   Be Confident in your Lenovo Purchase. Learn More >
@@ -395,7 +394,7 @@ Outlet
 
 Find great deals on new and refurbished Lenovo products.
 
-X Awaken your inner Jedi with the smartphone-powered augmented reality _STAR WARS_ ™ experience. Learn More STAY CONNECTED
+STAY CONNECTED
 
 *   Facebook
 *   Twitter
@@ -472,13 +471,11 @@ Holiday Laptops Tablets Desktops Deals Holiday Laptops Tablets Desktops Deals Ch
     *   Technical Support
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 
-© 2017   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
-
-Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+© 2017   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
-CONSUMERS SALESCONSUMERS SALES BUSINESS SALESBUSINESS SALES EXISTING ORDER HELPEXISTING ORDER HELP
+CONSUMER SALESCONSUMER SALES BUSINESS SALESBUSINESS SALES EXISTING ORDER HELPEXISTING ORDER HELP
 
 Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being least favorable, how likely is it that you would recommend Lenovo to a friend or colleague?
 
@@ -486,6 +483,6 @@ Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being 
 
 Please tell us how we can improve your experience:
 
-SUBMIT CHATHIDE
+SUBMIT CHATHIDE Close
 
 Feedback Will open a new windowFeedbackLaunches comment card in new window
