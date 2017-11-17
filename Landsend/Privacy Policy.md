@@ -779,9 +779,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 50% off 1 full-price style!
+Receive 40% off full-price styles!
 
-code: CRISP pin: 2744 DETAILS
+code: COCOA pin: 6032 DETAILS
 
 Customer Service Menu
 
