@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Michael Goodwin_: Sessions Again Proves He Was Trump's Biggest Mistake
+*   _Kaplan &. Rappeport_: House Passes Tax Bill in Major Step Toward Overhaul
     
-*   _Amy Sorkin_: Why the Democrats Should Listen to Donna Brazile
+*   _Helen Raleigh_: Will Senate Become the Burial Chamber for Tax Reform?
     
-*   _Josh Kraushaar_: Fiasco in Alabama: Can Republicans Block Moore?
+*   _Ruth Marcus_: How 'Fiddler on the Roof' Explains Republican Tax Bill
     
-*   _Betsy McCaughey_: ABA and Dems Smear Court Picks
+*   _Jonathan Chait_: What If Dems' Senate Majority Hinged on a Child Molester?
     
-*   _David Ignatius_: Trump Asia Trip: Long on Flattery, Short on Strategy
+*   _Byron York_: Can Republicans Avoid a Catastrophe in Alabama?
     
-*   _Joseph Bosco_: Is Trump Taking a Page From Kissinger on North Korea?
+*   _James Arkin_: McConnell Wants Ethics Probe of Sen. Franken
     
-*   _Johnson &. Karni_: Pompeo Emerges as Favorite to Succeed Tillerson
+*   _Ezra Klein_: Al Franken Should Be Investigated, and So Should Donald Trump.
     
-*   _Michelle Goldberg_: I Believe Juanita Broaddrick
+*   _Steven Mosher_: Trump Represents U.S. Far Better in Asia Than Obama Did
     
-*   _Allahpundit_: Please, Dems, No More Phony Op-Eds About Bill Clinton
+*   _Andrew Rosenthal_: This Is How Grown-Ups Deal With Putin
     
-*   _Studley &. Hamer_: For Border States Michigan and Arizona, NAFTA Is Essential
+*   _Willis Krumholz_: Why Talking to Russia Is Good for U.S. National Security
     
-*   _Tom Friedman_: China Could Sell Trump the Brooklyn Bridge
+*   _Mahmut Bozarslan_: Iran, Turkey Have Own Plans for Iraq's Strategic Sinjar
     
-*   _Joe Curl_: Trump Triumphs in Asia, Despite Media's Games
+*   _Hadley Manning_: The Obamacare Mandate Belongs in the Trash Heap
     
-*   _Tara John &. Joseph Hincks_: What We Know About the Coup in Zimbabwe
+*   _Robert Rubin_: The Republican Tax Plan's Five Worst Dangers
     
-*   _John Kass_: Politics Shouldn't Override Decency
+*   _Bernie Marcus_: Tax Bills Give Small Businesses Plenty to Be Thankful For
     
-*   _Kyle Whitmire_: Roy Moore Is Poison in the Republican Blood Stream
+*   _Graham Vyse_: What VA Taught Dems About Winning Back the States
     
-*   _Jeff Greenfield_: How Roy Moore's Misdeeds Force an Awakening On the Left
+*   _Isenstadt &. Johnson_: Republicans Weigh Drastic Plan to Save AL Senate Seat
     
-*   _Jim Geraghty_: Kennedy, Clinton &. Weinstein: A Convenient Reckoning
+*   _Andrew Napolitano_: Sessions Shouldn't Pass the Buck on Clinton, Comey
     
-*   _John Cassidy_: Donald Trump's Trump, Jr., Problem
+*   _John Podesta_: Trump Wants to Upend 230 Years of Constitutional Principle
     
-*   _James Bovard_: Do Trump's Liberal Critics Seem Increasingly Unhinged?
+*   _Sen. Chuck Grassley_: 100 Years of the Blue Slip Courtesy
     
-*   _Paul Waldman_: GOP's' Pathetic Attempt to Create Another Hillary Scandal
+*   _Bloomberg &. Gov. Brown_: U.S. Is Tackling Global Warming, Even If Trump Isn't
     
-*   _Gregg Jarrett_: Clinton's Pay-to-Play Scheme Deserves Special Counsel
+*   _Francis Menton_: Climate Alarmists Don't Believe Their Own Spin
     
-*   _Eric Levitz_: Republicans Can't Afford Their Tax-Cut Habit
+*   _Carrie Severino_: Sleeper SCOTUS Blockbuster May Be the Next Kelo
     
-*   _Michael Needham &. David McIntosh_: One Simple Way to Improve GOP's Tax Plan
+*   _Vivian Gornick_: Little House, Small Government
     
-*   _Eleanor Clift_: The GOP's Plan to Rule the Courts Until 2050
+*   _Todd Hitt_: A Patriot's Pledge: Higher Taxes Won't Grow the Economy
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   First Republican Senator Opposes Tax Bill in Early Sign of Problems
 *   Sessions Seeks Balance in Pondering Clinton, Uranium One Special Counsel
+*   Trump: America's Standing in World Has Never Been Stronger
+*   6 House Dems Introduce Articles of Impeachment Against Trump
 *   Senate Tax Proposal Will Include Repeal of Obamacare Mandate
-*   Murphy: I'm Concerned That Trump Will Order a Nuclear Weapons Strike
-*   Calls for Moore to Quit Race Grow After New Accusation
-*   Roskam at the Center of Political Fight Over Taxes
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalMarist
-    *   Approve39
-    *   Disapprove55Disapprove +16
+*   Alabama Senate Special Election - Moore vs. JonesFOX News
+    *   Moore42
+    *   Jones50Jones +8
 *   President Trump Job ApprovalGallup
     *   Approve37
     *   Disapprove57Disapprove +20
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve45
-    *   Disapprove53Disapprove +8
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve37
-    *   Disapprove59Disapprove +22
+    *   Approve41
+    *   Disapprove57Disapprove +16
+*   President Trump Job ApprovalMarist
+    *   Approve39
+    *   Disapprove55Disapprove +16
 
 More Latest Polls In The News
 
-*   UCLA Basketball Players Thank President Trump For Getting Them Out Of Chinese Prison Sentence
-*   Hannity Issues Ultimatum To Roy Moore: Explain "Inconsistencies" Now Or "Get Out Of This Race"
+*   Hatch Blows Up On Dem Sen. Brown: Tired Of "That Crap" That Republicans Only Help The Rich
+*   Sen. Hirono: I Hope Franken Accusations Lead To "Institutional And Cultural Change" in Congress
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Dem Rep. Jackie Speier: Two Current Members Of Congress Have Engaged In Sexual Harassment
-*   Tucker Carlson: "Can My Children Be Friends With White People?" Op-Ed Shows Racism Of The Left
+*   Hillary Clinton: Prosecuting Me Would Be "Like Some Dictatorship, Like Some Authoritarian Regime"
+*   UCLA Basketball Players Thank President Trump For Getting Them Out Of Chinese Prison Sentence
 
 *   Politics
 *   Policy
