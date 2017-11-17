@@ -258,6 +258,8 @@ Menu
         *   Soccer Star Shannon Boxx Takes Her Shot at Lupus Advocacy
         *   Don’t mind me. I’m just making sure I can breathe.
         *   Hyung makes sense of what consumers want
+        *   Veterans continue to fight for respiratory health
+        *   A birthday wish: for all COPD patients to live every breath
     *   Our people
         *   Back
         *   Our people
