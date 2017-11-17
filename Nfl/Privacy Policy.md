@@ -1,17 +1,17 @@
-*   TEN6-3PIT7-2November 16, 2017 8:25:00 PM EST ET
-*   TB3-6MIA4-5November 19, 2017 1:00:00 PM EST ET
-*   DET5-4CHI3-6November 19, 2017 1:00:00 PM EST ET
-*   JAX6-3CLE0-9November 19, 2017 1:00:00 PM EST ET
-*   BAL4-5GB5-4November 19, 2017 1:00:00 PM EST ET
-*   ARI4-5HOU3-6November 19, 2017 1:00:00 PM EST ET
-*   LA7-2MIN7-2November 19, 2017 1:00:00 PM EST ET
-*   WAS4-5NO7-2November 19, 2017 1:00:00 PM EST ET
-*   KC6-3NYG1-8November 19, 2017 1:00:00 PM EST ET
-*   BUF5-4LAC3-6November 19, 2017 4:05:00 PM EST ET
-*   CIN3-6DEN3-6November 19, 2017 4:25:00 PM EST ET
-*   NE7-2OAK4-5November 19, 2017 4:25:00 PM EST ET
-*   PHI8-1DAL5-4November 19, 2017 8:30:00 PM EST ET
-*   ATL5-4SEA6-3November 20, 2017 8:30:00 PM EST ET
+*   TEN6-417PIT8-240FinalGame Center
+*   TB3-6MIA4-5November 19, 2017 1:00:00 PM EST ETGame Center
+*   DET5-4CHI3-6November 19, 2017 1:00:00 PM EST ETGame Center
+*   JAX6-3CLE0-9November 19, 2017 1:00:00 PM EST ETGame Center
+*   BAL4-5GB5-4November 19, 2017 1:00:00 PM EST ETGame Center
+*   ARI4-5HOU3-6November 19, 2017 1:00:00 PM EST ETGame Center
+*   LA7-2MIN7-2November 19, 2017 1:00:00 PM EST ETGame Center
+*   WAS4-5NO7-2November 19, 2017 1:00:00 PM EST ETGame Center
+*   KC6-3NYG1-8November 19, 2017 1:00:00 PM EST ETGame Center
+*   BUF5-4LAC3-6November 19, 2017 4:05:00 PM EST ETGame Center
+*   CIN3-6DEN3-6November 19, 2017 4:25:00 PM EST ETGame Center
+*   NE7-2OAK4-5November 19, 2017 4:25:00 PM EST ETGame Center
+*   PHI8-1DAL5-4November 19, 2017 8:30:00 PM EST ETGame Center
+*   ATL5-4SEA6-3November 20, 2017 8:30:00 PM EST ETGame Center
 
 *   News
 *   Scores
@@ -19,17 +19,17 @@
 *   Standings
 *   Video
 *   Fantasy
+*   Mexico Game
 *   Tickets
 *   Shop
 *   Teams
 *   Game Pass
 *   Stats
-*   Mexico Game
 *   Ways to Watch
 *   NFL Network
 *   Photos
 
-*   TEN6-3PIT7-2November 16, 2017 8:25:00 PM EST ET
+*   TEN17PIT40Final
 *   TB3-6MIA4-5November 19, 2017 1:00:00 PM EST ET
 *   DET5-4CHI3-6November 19, 2017 1:00:00 PM EST ET
 *   JAX6-3CLE0-9November 19, 2017 1:00:00 PM EST ET
@@ -50,10 +50,10 @@
 *   Standings
 *   Video
 *   Fantasy
+*   Mexico Game
 
 *   *   Game Pass
     *   Stats
-    *   Mexico Game
     *   Ways to Watch
     *   NFL Network
     *   Photos
