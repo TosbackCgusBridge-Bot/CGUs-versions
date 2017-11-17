@@ -151,7 +151,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 
 FacebookTwitterShare
 
-Pinellas Park, FL62°
+Pinellas Park, FL64°
 
 1.  Home
 
@@ -271,6 +271,7 @@ CNN Sans ™ & © 2016 Cable News Network.
 *   MSA Statement
 *   Advertise with us
 *   About us
+*   CNN Store
 *   Newsletters
 *   Help
 *   Transcripts
