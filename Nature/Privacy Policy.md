@@ -282,5 +282,3 @@ Match Opportunity
 Give by November 17  
 and your donation has  
 double the power.
-
-Cancel
