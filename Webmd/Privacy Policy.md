@@ -102,7 +102,7 @@ and understand that I may opt out of WebMD subscriptions at any time. close Skip
     *   Healthy Dogs
     *   View All
     
-    Featured Topics*   Video Where Lead Hides
+    Featured Topics*   Expert Blog Dangers After Childbirth -- What to Watch For
     *   Video 3 Things to Keep in a Diaper Bag
 *   News &  
     Experts News &. Experts News &. Experts Health News
@@ -119,7 +119,7 @@ and understand that I may opt out of WebMD subscriptions at any time. close Skip
     *   Expert Blogs
     *   News Center
     
-    Featured Topics*   Special Report There's Lead in That?!
+    Featured Topics*   News Special Why Do So Many Women Die After Childbirth?
     *   Newsletters Sign Up to Receive Our Free Newsletters
 *   Mobile Apps
 *   Subscriptions
