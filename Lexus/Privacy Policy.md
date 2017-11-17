@@ -57,13 +57,17 @@ MENU **IS**
 *   Build
 *   Current Offers
 
-**LS**
+**2017 LS**
 
 *   Starting at $72,5201\*
 *   386-HP3\* 4.6L V8 (RWD)
 
 *   Build
 *   Current Offers
+
+**2018 LS**
+
+*   COMING SOON
 
 SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
@@ -231,11 +235,7 @@ COMPARE **RC F**
 
 SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
-COMPARE **LS &. LS HYBRID**
-
-*   FUTURE VEHICLES
-
-**LF-C2**
+COMPARE **LF-C2**
 
 *   CONCEPT CONVERTIBLE
 
