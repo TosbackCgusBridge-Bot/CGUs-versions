@@ -203,4 +203,8 @@ Support
 *   Terms of Use
 *   Privacy Policy
 
-© 2017 Patch Media. All Rights Reserved. <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qKjWj1a0Sn00GK" style="display:none" height="1" width="1" alt="" />.
+© 2017 Patch Media. All Rights Reserved.
+
+Swipe for more from Patch »
+
+<img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qKjWj1a0Sn00GK" style="display:none" height="1" width="1" alt="" />.
