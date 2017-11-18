@@ -63,7 +63,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Gifts For Her
     *   The Starfish Collection
     *   Soft Leisure Collection
-    *   Wise Buys
     *   Resort Collection
     *   Sale
     
@@ -128,7 +127,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Shirt Finder
     *   The Getaway Collection
     *   Holiday Style Guide
-    *   Wise Buys
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -191,7 +189,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Girls' Knit Kit
     *   Boys Winter Collections
     *   Girls Winter Collections
-    *   Wise Buys
     *   Sale
     
     SHOP BY AGE RANGE
@@ -325,7 +322,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Personalized Gifts
     *   Flannel Bedding
     *   Stockings and Holders
-    *   Wise Buys
     *   Sale
     
     More for the Home >.
@@ -423,7 +419,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Gifts For Her
         *   The Starfish Collection
         *   Soft Leisure Collection
-        *   Wise Buys
         *   Resort Collection
         *   Sale
     *   SHOP BY SIZE RANGE
@@ -485,7 +480,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Shirt Finder
         *   The Getaway Collection
         *   Holiday Style Guide
-        *   Wise Buys
         *   Sale
     *   SHOP BY SIZE RANGE
         *   Back
@@ -545,7 +539,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Girls' Knit Kit
         *   Boys Winter Collections
         *   Girls Winter Collections
-        *   Wise Buys
         *   Sale
     *   SHOP BY AGE RANGE
         *   Back
@@ -686,7 +679,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Personalized Gifts
         *   Flannel Bedding
         *   Stockings and Holders
-        *   Wise Buys
         *   Sale
     *   More for the Home
         *   Back
@@ -779,9 +771,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 40% off full-price styles!
+Receive 40% off full-price styles. 50% off sweaters!
 
-code: COCOA pin: 6032 DETAILS
+code: BREEZE pin: 6032 DETAILS
 
 Customer Service Menu
 
