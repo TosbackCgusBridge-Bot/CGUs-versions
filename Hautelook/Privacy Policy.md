@@ -8,8 +8,47 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Luxe Fragrances: Gucci, Burberry &. More
+    *   Rachel Pally
+    *   Black Halo
+    *   Nine West
+    *   Obermeyer Coats &. More
+    *   Get Cozy: Winter's Best Boots
+    *   Performance Tech Active Under $30
+    *   Get Cozy: Headwraps, Scarves &. More
+    *   Cougar Waterproof Boots
+    *   Men's Snow-Ready Jackets &. More
+    *   Best in Snow: Men's Boots
+    *   Cold Front: Kids' Boots
+    *   Melton Kids' Cold-Weather Hats &. More
+    *   Free Press &. Shimera Lingerie &. Sleep
+    *   Lancaster Paris
+    *   Free Shipping: On-Trend Jewelry in Sterling Silver
+    *   Alpha &. Omega
+    *   Report
+    *   Rieker &. Remonte
+    *   Meghan LA
+    *   Festive Faves: Sweaters &. More Starting at $15
+    *   Naot
+    *   Yosi Samra
+    *   Kenneth Cole Reaction
+    *   Seduka Men's Outerwear Under $35
+    *   ghd: good hair day every day
+    *   ORA Dermal Roller &. Microdermabrasion Tools
+    *   Free Shipping: Pop Art Pillows Under $20
+    *   Nutrichef Kitchen Electrics Up to 65% Off
+    *   Farmhouse-Inspired Decor &. More Starting at $10
+    *   Free Shipping: Pet Beds Up to 60% Off
+    *   Joe-Ella Girls' Holiday Dresses
+    *   People's Project LA Kids
+    *   Justice League Gear for Kids
+    *   Men's Polished Looks ft. David Naman
+    *   Gifts for Him: Brouk &. Co
+    *   Statement Jewelry by Givenchy &. More
+    *   Tissot Watches for Men
     *   Ted Baker London
     *   Ted Baker London Handbags &. Accessories
+    
     *   Ted Baker London Men
     *   Ted Baker London Tailored Clothing
     *   Ted Baker London Men's Shoes
@@ -17,16 +56,13 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Black Orchid
     *   24/7 Comfort Under $40 Including Plus
     *   Dr. Brandt Up to 60% Off
-    *   Camper
-    *   Dex
-    *   Holiday Sweaters &. More from Tipsy Elves
     *   14K Gold, Gemstones &. More Under $80
-    *   Manitobah Mukluks
-    *   Minuet
-    *   The Holiday Edit: Party Styles
-    *   The Holiday Edit: Cozy-Casual Styles
+    *   Holiday Sweaters &. More from Tipsy Elves
+    *   Dex
     *   Tahitian &. Akoya Pearl Jewelry &. More Under $80
+    *   Minuet
     *   Profile by Gottex Swim
+    *   Manitobah Mukluks
     *   Luxe Accessories: Cashmere Scarves &. More
     *   Nomad Footwear Starting at $30
     *   Aerosoles
@@ -34,33 +70,14 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Fragrances by Margot Elena Starting at $10
     *   Angel Dear: Great Gifts Under $10
     *   Minnetonka for the Whole Family
-    *   Men's Holiday Edit
     *   Melissa &. Doug: Must-Have Gifts Starting at $8
     *   Disney Pajama Party: Kids' PJs
-    *   Kids' Holiday Edit
     *   Free Shipping: Entertaining Finds Starting at $10
     *   Turn Up the Volume: Record Players &. More
     *   Holiday Cheer: Decor &. More Starting at $10
     *   Free Shipping: Glam Decor Accents Starting at $10
     *   Free Shipping: Cozy Bedding &. More Up to 55% Off
-    *   Vince Camuto
-    *   Natori Sleep
     *   Urban Decay
-    *   Young Fabulous &. Broke
-    
-    *   Vince Camuto &. Two by Vince Camuto Incl. Plus
-    *   Vince Camuto Handbags
-    *   Dresses We Love ft. Isabel Garcia
-    *   Nicole Miller
-    *   GUESS
-    *   Vince Camuto Accessories
-    *   Must-Have Coats ft. Vince Camuto
-    *   Big Star
-    *   Ramarim
-    *   Nina Jewelry Starting at $15
-    *   Nina Shoes &. Clutches Up to 60% Off
-    *   Western Chief Rain Boots
-    *   Precious Pieces: 14K Gold &. Gems Starting at $15
     *   Original Penguin
     *   Original Penguin Tailored Clothing
     *   Original Penguin Shoes
@@ -72,6 +89,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Fekkai Starting at $10
     *   Free Shipping: Primitives by Kathy Starting at $10
     *   Free Shipping: Kitchen Blowout
+    
     *   Free Shipping: 1000 Thread Count Sheets Up to 80% Off
     *   Free Shipping: Accent Furniture Under $300
     *   Inspired Must-Haves: Kids' Styles Starting at $10
@@ -84,140 +102,133 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Melange Bedding Starting at $22
     *   Free Shipping: Luxe Bath Accessories Up to 75% Off
     *   Free Shipping: Oliver Gal Up to 60% Off
-    *   JOE'S Jeans Men
     *   New Balance Men
-    *   Cult of Individuality
-    
+    *   The Holiday Edit: Party Styles
     *   Blanc Noir
     *   Blackstone
     *   PMD Personal Microderm
     *   Dazzlepro Teeth Whitening Up to 75% Off
-    *   JOE'S Jeans Kids Under $20
-    *   Sophie Catalou
-    *   New Balance Kids' Activewear
-    *   New Balance Kids
-    *   Zoe Ayla Cosmetics Up to 80% Off
+    *   Camper
     *   MintPear Skin Care &. More
     *   PURA D'OR Hair Care
-    *   Emanuel Ungaro Outerwear &. More
-    *   Px
-    *   Sweaters Under $35
     *   Free Shipping: Curtains &. More
     *   Pet Beds &. More
     *   Free Shipping: Hip Modern Rugs Up to 85% Off
-    *   Brilliance New York Hair Tools Under $50
-    *   Kiehl's Since 1851
-    *   Panier des Sens
     *   Laura Ashley Bedding &. Decor from $20
     *   Free Shipping: Bold Pillows &. Throws
+    *   Natori Sleep
+    *   Young Fabulous &. Broke
+    *   Vince Camuto &. Two by Vince Camuto Incl. Plus
+    *   Nicole Miller
+    *   Cult of Individuality
+    *   Zoe Ayla Cosmetics Up to 80% Off
+    *   Elite Kitchen Electrics
+    *   The Holiday Edit: Cozy-Casual Styles
+    *   Men's Holiday Edit
+    *   Kids' Holiday Edit
+    *   Dresses We Love ft. Isabel Garcia
     *   Free Shipping: Fine Art Blowout
     *   Holiday Baking Essentials
-    *   Elite Kitchen Electrics
-    *   Free Shipping: Chic Home Blankets &. Bedding
-    *   Winter Wonderland: Decor We Love
-    *   Sip in Style: Bright Bottles &. Tumblers
-    *   Free Shipping: Rugs Starting at $29
-    *   JOE'S Jeans
-    *   ASTR the Label
-    *   Jealous Tomato &. More Under $40
-    *   New Balance
-    *   French Connection
-    *   Love Token
-    *   Peace Love World Kids
     *   ENGLISH LAUNDRY
 *   WomenShop Sale Events
     
+    *   Luxe Fragrances: Gucci, Burberry &. More
+    *   Rachel Pally
+    *   Black Halo
+    *   Nine West
+    *   Obermeyer Coats &. More
+    *   Get Cozy: Winter's Best Boots
+    *   Performance Tech Active Under $30
+    *   Get Cozy: Headwraps, Scarves &. More
+    *   Cougar Waterproof Boots
+    *   Free Press &. Shimera Lingerie &. Sleep
+    *   Lancaster Paris
+    *   Free Shipping: On-Trend Jewelry in Sterling Silver
+    *   Alpha &. Omega
+    *   Report
+    *   Rieker &. Remonte
+    *   Meghan LA
+    *   Festive Faves: Sweaters &. More Starting at $15
+    *   Naot
+    *   Yosi Samra
+    *   ghd: good hair day every day
+    *   ORA Dermal Roller &. Microdermabrasion Tools
+    *   Statement Jewelry by Givenchy &. More
     *   Ted Baker London
     *   Ted Baker London Handbags &. Accessories
     *   Ted Baker London Shoes
     *   Black Orchid
     *   24/7 Comfort Under $40 Including Plus
     *   Dr. Brandt Up to 60% Off
-    *   Camper
-    *   Dex
-    *   Holiday Sweaters &. More from Tipsy Elves
     *   14K Gold, Gemstones &. More Under $80
-    *   Manitobah Mukluks
-    *   Minuet
-    *   The Holiday Edit: Party Styles
-    *   The Holiday Edit: Cozy-Casual Styles
+    
+    *   Holiday Sweaters &. More from Tipsy Elves
+    *   Dex
     *   Tahitian &. Akoya Pearl Jewelry &. More Under $80
+    *   Minuet
     *   Profile by Gottex Swim
+    *   Manitobah Mukluks
     *   Luxe Accessories: Cashmere Scarves &. More
     *   Nomad Footwear Starting at $30
     *   Aerosoles
     *   Smooth Skin Bath &. Body Essentials Starting at $10
     *   Fragrances by Margot Elena Starting at $10
     *   Minnetonka for the Whole Family
-    *   Vince Camuto
-    *   Natori Sleep
     *   Urban Decay
-    *   Young Fabulous &. Broke
-    *   Vince Camuto &. Two by Vince Camuto Incl. Plus
-    *   Vince Camuto Handbags
-    
-    *   Dresses We Love ft. Isabel Garcia
-    *   Nicole Miller
-    *   GUESS
-    *   Vince Camuto Accessories
-    *   Must-Have Coats ft. Vince Camuto
-    *   Big Star
-    *   Ramarim
-    *   Nina Jewelry Starting at $15
-    *   Nina Shoes &. Clutches Up to 60% Off
-    *   Western Chief Rain Boots
-    *   Precious Pieces: 14K Gold &. Gems Starting at $15
     *   Martinni Beauty Professional Masks Up to 85% Off
     *   Bath Bombs &. More Up to 50% Off
     *   Fekkai Starting at $10
+    *   The Holiday Edit: Party Styles
     *   PMD Personal Microderm
     *   Dazzlepro Teeth Whitening Up to 75% Off
-    *   Zoe Ayla Cosmetics Up to 80% Off
+    *   Camper
     *   MintPear Skin Care &. More
     *   PURA D'OR Hair Care
-    *   Brilliance New York Hair Tools Under $50
-    *   Kiehl's Since 1851
-    *   Panier des Sens
-    *   JOE'S Jeans
-    *   ASTR the Label
-    *   Jealous Tomato &. More Under $40
-    *   New Balance
-    *   French Connection
-    *   Love Token
+    *   Natori Sleep
+    *   Young Fabulous &. Broke
+    *   Vince Camuto &. Two by Vince Camuto Incl. Plus
+    *   Nicole Miller
+    *   Zoe Ayla Cosmetics Up to 80% Off
+    *   The Holiday Edit: Cozy-Casual Styles
+    *   Dresses We Love ft. Isabel Garcia
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Handbags
     *   Accessories
-    *   Tech Accessories
+    *   Handbags
     *   Lingerie
+    *   Tech Accessories
     *   Watches
 *   MenShop Sale Events
     
+    *   Luxe Fragrances: Gucci, Burberry &. More
+    *   Men's Snow-Ready Jackets &. More
+    *   Best in Snow: Men's Boots
+    *   Kenneth Cole Reaction
+    *   Seduka Men's Outerwear Under $35
+    *   Men's Polished Looks ft. David Naman
+    *   Gifts for Him: Brouk &. Co
+    *   Tissot Watches for Men
     *   Ted Baker London Men
     *   Ted Baker London Tailored Clothing
     *   Ted Baker London Men's Shoes
     *   Holiday Sweaters &. More from Tipsy Elves
     *   Minnetonka for the Whole Family
-    *   Men's Holiday Edit
+    
     *   Original Penguin
     *   Original Penguin Tailored Clothing
     *   Original Penguin Shoes
     *   Report Collection
     *   James Tattersall &. More Up to 75% Off
-    
     *   Robert Wayne
-    *   JOE'S Jeans Men
     *   New Balance Men
-    *   Cult of Individuality
     *   Blanc Noir
     *   Blackstone
     *   Dazzlepro Teeth Whitening Up to 75% Off
-    *   Emanuel Ungaro Outerwear &. More
-    *   Px
-    *   Sweaters Under $35
+    *   Cult of Individuality
+    *   Men's Holiday Edit
     
     Shop By Category
     *   Clothing
@@ -226,34 +237,38 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Cold Front: Kids' Boots
+    *   Melton Kids' Cold-Weather Hats &. More
+    *   Joe-Ella Girls' Holiday Dresses
+    *   People's Project LA Kids
+    *   Justice League Gear for Kids
     *   Angel Dear: Great Gifts Under $10
+    
     *   Melissa &. Doug: Must-Have Gifts Starting at $8
     *   Disney Pajama Party: Kids' PJs
-    *   Kids' Holiday Edit
     *   Inspired Must-Haves: Kids' Styles Starting at $10
     *   Favorite Holiday Books: The Grinch &. More
-    
     *   Total Dreamz Nightlights
-    *   JOE'S Jeans Kids Under $20
-    *   Sophie Catalou
-    *   New Balance Kids' Activewear
-    *   New Balance Kids
-    *   Peace Love World Kids
+    *   Kids' Holiday Edit
     
     Shop By Category
     *   Girls Sizes 2T-6X
     *   Boys Sizes 2T-7
     *   Toys
     *   Girls Sizes 7-16
-    *   Baby Girl
     *   Boys Sizes 8-20
+    *   Baby Girl
     *   Girls' Shoes
-    *   Boys' Shoes
     *   Baby Boy
     *   Baby Gear &. Essentials
     *   Kids Accessories
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: Pop Art Pillows Under $20
+    *   Nutrichef Kitchen Electrics Up to 65% Off
+    *   Farmhouse-Inspired Decor &. More Starting at $10
+    *   Free Shipping: Pet Beds Up to 60% Off
     *   Free Shipping: Entertaining Finds Starting at $10
     *   Turn Up the Volume: Record Players &. More
     *   Holiday Cheer: Decor &. More Starting at $10
@@ -264,11 +279,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: 1000 Thread Count Sheets Up to 80% Off
     *   Free Shipping: Accent Furniture Under $300
     *   Jonathan Adler Up to 60% Off
+    
     *   Holiday Preview: Lights &. Decor Starting at $10
     *   Holiday Dishtowels &. Accessories from $10
     *   Free Shipping: Rustic Decor Starting at $22
     *   Free Shipping: Melange Bedding Starting at $22
-    
     *   Free Shipping: Luxe Bath Accessories Up to 75% Off
     *   Free Shipping: Oliver Gal Up to 60% Off
     *   Free Shipping: Curtains &. More
@@ -276,13 +291,9 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Hip Modern Rugs Up to 85% Off
     *   Laura Ashley Bedding &. Decor from $20
     *   Free Shipping: Bold Pillows &. Throws
+    *   Elite Kitchen Electrics
     *   Free Shipping: Fine Art Blowout
     *   Holiday Baking Essentials
-    *   Elite Kitchen Electrics
-    *   Free Shipping: Chic Home Blankets &. Bedding
-    *   Winter Wonderland: Decor We Love
-    *   Sip in Style: Bright Bottles &. Tumblers
-    *   Free Shipping: Rugs Starting at $29
     
     Shop By Category
     *   Home Decor
@@ -291,34 +302,34 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bath
     *   Accent Furniture
     *   Luggage &. Travel
-    *   Rugs
     *   Organization
+    *   Rugs
     *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Luxe Fragrances: Gucci, Burberry &. More
+    *   ghd: good hair day every day
+    *   ORA Dermal Roller &. Microdermabrasion Tools
     *   Dr. Brandt Up to 60% Off
     *   Smooth Skin Bath &. Body Essentials Starting at $10
     *   Fragrances by Margot Elena Starting at $10
     *   Urban Decay
     *   Martinni Beauty Professional Masks Up to 85% Off
+    
     *   Bath Bombs &. More Up to 50% Off
     *   Fekkai Starting at $10
     *   PMD Personal Microderm
-    
     *   Dazzlepro Teeth Whitening Up to 75% Off
-    *   Zoe Ayla Cosmetics Up to 80% Off
     *   MintPear Skin Care &. More
     *   PURA D'OR Hair Care
-    *   Brilliance New York Hair Tools Under $50
-    *   Kiehl's Since 1851
-    *   Panier des Sens
+    *   Zoe Ayla Cosmetics Up to 80% Off
     
     Shop By Category
     *   Skin Care
+    *   Fragrance
+    *   Makeup
     *   Bath &. Body
     *   Hair Care
-    *   Makeup
-    *   Fragrance
     *   Tools &. Accessories
     *   Supplements
 
