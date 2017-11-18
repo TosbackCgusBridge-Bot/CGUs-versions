@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 35%  7% 
+What is PeekScore? Public Records &. Background Checks 41%  4% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 35%  7% 
     
 *   Show Less ...
 
-35%  35%  Arrest Records &. Driving Infractions
+41%  41%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,53 +153,53 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 35%  Twitter 7% 
+Facebook 41%  Twitter 30% 
 
-*   OAIC - OAICgov
+*   Federal Reserve - federalreserve
     
-*   Cristiano Ronaldo - Cristiano
-    
-*   FTC - FTC
-    
-*   Justice Department - TheJusticeDept
-    
-*   Show More ...
-
-*   CDC - CDCgov
-    
-*   Free Privacy Policy - FreePrivacy1
-    
-*   HHS.gov - HHSGov
-    
-*   NIH - NIH
+*   EuropeanPrivacyAssoc - europeanprivacy
     
 *   U.S. Census Bureau - uscensusbureau
     
+*   HIV.gov - HIVGov
+    
+*   Show More ...
+
 *   HealthCare.gov - HealthCareGov
     
 *   U.S. FDA - FDArecalls
     
-*   Federal Reserve - federalreserve
-    
-*   HIV.gov - HIVGov
-    
-*   Bush Library - Bush41Library
-    
-*   EuropeanPrivacyAssoc - europeanprivacy
-    
 *   U.S. FDA - US\_FDA
     
-*   IRS - IRSnews
+*   Free Privacy Policy - FreePrivacy1
     
 *   Francis S. Collins - NIHDirector
     
+*   OAIC - OAICgov
+    
+*   CDC - CDCgov
+    
+*   Justice Department - TheJusticeDept
+    
 *   FDA Drug Information - FDA\_Drug\_Info
+    
+*   HHS.gov - HHSGov
+    
+*   FTC - FTC
+    
+*   Bush Library - Bush41Library
+    
+*   Cristiano Ronaldo - Cristiano
+    
+*   NIH - NIH
+    
+*   IRS - IRSnews
     
 *   DOJ Civil Rights - CivilRights
     
 *   Show Less ...
 
-Instagram 6% 
+Instagram 4% 
 
 *   Karen McDowall - privacy\_\_\_policy
     
@@ -265,7 +265,7 @@ Instagram 6% 
     
 *   Show Less ...
 
-Pinterest 34%  Wikipedia 6% 
+Pinterest 41%  Wikipedia 4% 
 
 *   Medana
     
@@ -284,7 +284,7 @@ Pinterest 34%  Wikipedia 6% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Google+ 6% 
+Google+ 4% 
 
 *   Privacy Policy - Google+ - Google Plus
     
@@ -299,7 +299,7 @@ Google+ 6% 
     Profile photo. Free Privacy Policy. 35 followers -. Build a Privacy policy for your site in 5 minutes! Build a Privacy policy for your site in 5 minutes! 35 followers.
     
 
-Linkedin 6% 
+Linkedin 4% 
 
 *   Privacy Policy | LinkedIn
     
@@ -345,7 +345,7 @@ Linkedin 6% 
     
 *   Show Less ...
 
-Foursquare 34%  Music 6% 
+Foursquare 41%  Music 4% 
 
 *   Pandora
     
@@ -391,7 +391,7 @@ Foursquare 34%  Music 6% 
     
 *   Show Less ...
 
-Photo Albums 6% 
+Photo Albums 4% 
 
 *   Flickr
     
@@ -402,7 +402,7 @@ Photo Albums 6% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 6% 
+Myspace 4% 
 
 *   Privacy Policy - 49086242
     
@@ -426,7 +426,7 @@ Myspace 6% 
     
 *   Show Less ...
 
-Documents 6% 
+Documents 4% 
 
 *   Generic Privacy Policy template - TermsFeed
     
@@ -472,7 +472,7 @@ Documents 6% 
     
 *   Show Less ...
 
-Web Search 6% 
+Web Search 4% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -518,15 +518,15 @@ Web Search 6% 
     
 *   Show Less ...
 
-Images 6% 
-
-20
+Images 4% 
 
 30
 
-twitterx
+20
 
 instagramx
+
+twitterx
 
 *   About PeekYou
 *   Privacy Policy
