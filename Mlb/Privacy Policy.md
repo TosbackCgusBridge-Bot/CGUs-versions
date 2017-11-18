@@ -68,7 +68,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Milestone Tracker
     *   Offseason Leagues
     *   Scoring Changes
-    *   Glossary2017 Esurance MLB Awards Sortable Stats
+    *   GlossarySortable Stats
 *   Standings Standings Standings
     *   2017 Regular Season Standings
     *   2017 Wild Card Standings
