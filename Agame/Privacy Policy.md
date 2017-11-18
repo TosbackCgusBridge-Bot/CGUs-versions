@@ -224,8 +224,8 @@ View more results
     Recommended Games
     
     *   World of Tanks
+    *   World of Warships
     *   Roblox
-    *   Call Of War
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
