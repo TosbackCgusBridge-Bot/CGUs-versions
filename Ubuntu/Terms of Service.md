@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Edging Closer – ODS Sydney ›
 *   Security Team Weekly Summary: November 16, 2017 ›
 *   Orchestrating architectural installations and live shows with snaps ›
 *   How to turn your website into a desktop app ›
 *   Codetree Collect Info ›
-*   Ubuntu Server Development Summary – 14 Nov 2017 ›
