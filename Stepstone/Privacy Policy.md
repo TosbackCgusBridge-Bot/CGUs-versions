@@ -1,4 +1,4 @@
-&lt;a href="http://www.omniture.com" title="Web Analytics"&gt;&lt;img src="https://102.112.2O7.net/b/ss/stepstone-com/1/H.9--NS/0?\[AQB\]&amp;server=WWW&amp;CE=UTF%2D8&amp;cc=EUR&amp;\[AQE\]" height="1" width="1" border="0" alt="" /&gt;&lt;/a&gt.
+We use cookies! By using this website you consent to the use of cookies, according to the current browser settings. Dismiss &lt;a href="http://www.omniture.com" title="Web Analytics"&gt;&lt;img src="https://102.112.2O7.net/b/ss/stepstone-com/1/H.9--NS/0?\[AQB\]&amp;server=WWW&amp;CE=UTF%2D8&amp;cc=EUR&amp;\[AQE\]" height="1" width="1" border="0" alt="" /&gt;&lt;/a&gt.
 
 *   Home
 *   About StepStone
