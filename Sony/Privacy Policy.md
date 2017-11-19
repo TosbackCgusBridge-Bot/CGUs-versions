@@ -163,7 +163,7 @@ In Gaming
 
 PlayStation Experience 2017 exhibitor list revealed. Play 100+ games in Anaheim this December.
 
-21 hours ago
+1 day ago
 
 View Tweet
 
@@ -223,7 +223,7 @@ View Always ready to help. (Google Assistant Built-in Wireless Speaker) on Insta
 
 This Monday: Join us as @Outlander\_STARZ series author @Writer\_DG takes over our account for an #Outlander Twitter Q&A. Tag your questions with #AskDiana now.
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -311,7 +311,7 @@ Play Can a Gamer Save Humanity? Video hotspot
 
 Watch @Pink's #CarpoolKaraoke on the @latelateshow! #PINKcarpool
 
-2 days ago
+3 days ago
 
 View Tweet
 
