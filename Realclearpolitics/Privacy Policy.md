@@ -250,8 +250,8 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   The Takeaway: Moore Problems for Republicans in Alabama
 *   House Passes Tax Bill in First Step Toward Major Overhaul
+*   The Takeaway: Moore Problems for Republicans in Alabama
 *   Hatch vs. Brown: Tired of "That Crap" That Republicans Only Help Rich
 *   McConnell Wants Ethics Probe of Franken in Groping Case
 *   First Republican Senator Opposes Tax Bill in Early Sign of Problems
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve39
+    *   Disapprove56Disapprove +17
 *   Alabama Senate Special Election - Moore vs. JonesGravis
     *   Jones47
     *   Moore42Jones +5
 *   President Trump Job ApprovalHarvard-Harris
     *   Approve41
     *   Disapprove59Disapprove +18
-*   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove56Disapprove +19
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve42
     *   Disapprove56Disapprove +14
 
 More Latest Polls In The News
 
-*   Roy Moore's Wife: Trump "Owes Us A Thank You," "Have You Noticed You're Not Hearing Much About Russia?"
-*   Mnuchin: "We're Getting The Federal Government Out Of The Business Of Subsidizing States" With High Local Taxes
+*   Clinton: We Have A Man Accused Of Sexual Assault In Oval Office, Accusations Not Taken Seriously
+*   David Brooks: What Roy Moore Did "Highest Level Of Vileness," What Franken Did Shouldn't Be A "Career-Ender"
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
+*   Roy Moore's Wife: Trump "Owes Us A Thank You," "Have You Noticed You're Not Hearing Much About Russia?"
 *   Hatch Blows Up On Dem Sen. Brown: Tired Of "That Crap" That Republicans Only Help The Rich
-*   Hillary Clinton: Prosecuting Me Would Be "Like Some Dictatorship, Like Some Authoritarian Regime"
 
 *   Politics
 *   Policy
