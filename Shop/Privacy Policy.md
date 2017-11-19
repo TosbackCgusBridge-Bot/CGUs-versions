@@ -364,7 +364,55 @@ THANK YOU MILITARY
 
 This Veteran’s Day week, active and veteran military enjoy an additional 15% off your entire purchase! Ends Nov 19th.
 
-C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE!
+C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE! Recommended For You Best Seller Ideapad 510S (14")
+
+★★★★★ ★★★★★
+
+3.8
+
+(12)
+
+$499.99
+
+Shop Now
+
+3035Viewing Best Seller ThinkPad X1 Carbon (5th gen)
+
+★★★★★ ★★★★★
+
+3.9
+
+(68)
+
+$1376.10
+
+Shop Now
+
+2735Viewing Best Seller ThinkPad P51 Mobile Workstation
+
+★★★★★ ★★★★★
+
+4.5
+
+(15)
+
+$1340.10
+
+Shop Now
+
+568Viewing Lenovo Legion Y720 Laptop
+
+★★★★★ ★★★★★
+
+3.8
+
+(18)
+
+$1099.99
+
+Shop Now
+
+1091Viewing
 
 LAPTOPS
 
@@ -471,9 +519,7 @@ Holiday Laptops Tablets Desktops Deals Holiday Laptops Tablets Desktops Deals Ch
     *   Technical Support
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 
-© 2017   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
-
-Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+© 2017   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
@@ -485,6 +531,6 @@ Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being 
 
 Please tell us how we can improve your experience:
 
-SUBMIT CHATHIDE
+SUBMIT CHATHIDE Close
 
 Feedback Will open a new windowFeedbackLaunches comment card in new window
