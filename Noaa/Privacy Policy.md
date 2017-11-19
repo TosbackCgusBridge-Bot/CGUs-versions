@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheri
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms JPSS-1 satellite launch rescheduled for November 18 Watch it live on NASA TV AROUND NOAA // Globe had 3rd warmest year to date and 4th warmest October on record Think outside the bird this Thanksgiving: Serve up some seafood La Nina moves in for the winter
+Enter Search Terms Lift off! JPSS-1 heads to orbit AROUND NOAA // Globe had 3rd warmest year to date and 4th warmest October on record Think outside the bird this Thanksgiving: Serve up some seafood La Nina moves in for the winter
 
 *   About our agency
 *   News and features
