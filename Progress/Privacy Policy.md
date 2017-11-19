@@ -19,6 +19,7 @@
     *   Request a quote
     *   Estimate a payment
     *   Trade-in value
+    
     *   Leasing
     *   Financing
     *   Apply for credit
@@ -35,10 +36,12 @@
     *   Certified pre-owned
     
     Buy
+    
     *   Find a dealer
     *   Request a quote
     *   Estimate a payment
     *   Trade-in value
+    
     *   Leasing
     *   Financing
     *   Apply for credit
@@ -148,4 +151,4 @@ Own
 Audi of America. All rights reserved.  
 © Copyright 2017
 
-<img src="https://audiag.112.2o7.net/b/ss/audiagaoacq5test/1/H.26.2--NS/1507094261672?cdp=2&amp;gn=content%3Aaudiusa%3Aen%3A404" height="1" width="1" border="0" alt=""/>. <iframe src="//s.thebrighttag.com/iframe?c=a525KK2" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>.
+<img src="https://audiag.112.2o7.net/b/ss/audiagaoacq5test/1/H.25--NS/1511072713193?cdp=2&amp;gn=%2Fcontent%2Faudiusa%2Fen%2F404" height="1" width="1" border="0" alt=""/>. <iframe src="//s.thebrighttag.com/iframe?c=a525KK2" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>.
