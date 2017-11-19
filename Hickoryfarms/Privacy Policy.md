@@ -13,7 +13,7 @@
     *   Gifts for Her
     *   Gifts for Him
     *   Game Day
-    *   Weddings &. ShowersMost Popular Birthday Gifts
+    *   Weddings &. ShowersMost Popular Christmas Gifts Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat
@@ -37,13 +37,13 @@
     *   Gourmet Mustard
     *   Gourmet Nuts
     *   Gourmet Crackers
-    *   Coffee &. Tea
+    *   Tea &. Coffee Gifts
 *   Sweets
     View All Categories Shop by Category*   Chocolates
     *   Mints
     *   Cookies &. Cakes
     *   Candy &. Confections
-    *   Desserts
+    *   DessertsMost Popular Sweets
 *   Holiday
     
     View All Categories Shop by Category*   Christmas Gifts
@@ -79,7 +79,7 @@
     *   Gifts for Her
     *   Gifts for Him
     *   Game Day
-    *   Weddings &. ShowersMost Popular Birthday Gifts
+    *   Weddings &. ShowersMost Popular Christmas Gifts Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat
@@ -103,13 +103,13 @@
     *   Gourmet Mustard
     *   Gourmet Nuts
     *   Gourmet Crackers
-    *   Coffee &. Tea
+    *   Tea &. Coffee Gifts
 *   Sweets
     View All Categories Shop by Category*   Chocolates
     *   Mints
     *   Cookies &. Cakes
     *   Candy &. Confections
-    *   Desserts
+    *   DessertsMost Popular Sweets
 *   Holiday
     
     View All Categories Shop by Category*   Christmas Gifts
