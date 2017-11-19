@@ -53,23 +53,29 @@ Gift Cards | Offers | Sign In Sign Out
     *   Watch Trailers on MovieClips
     *   Top Box Office
     *   New DVDs
-*   Movie Times + Tickets Find tickets at the following theaters My Favorite Theater Non-Fandango Ticketing Theater
+*   Movie Times + Tickets Where are you located? Here are our top cities
     
-    *   Century 16 Bel Mar and XD S. Teller and W. Alameda Ave.
-    *   UA Colorado Mills Stadium 16 IMAX &. RPX 14500 West Colfax Ave.
-    *   UA Denver West Village Stadium 12 14225 W. Colfax Ave.
-    *   Alamo Drafthouse Sloans Lake 4255 West Colfax Ave
-    *   Regal River Point Stadium 14 &. RPX 3565 S. Platte River Drive
-    *   Mayan Theatre 110 Broadway
-    *   AMC Bowles Crossing 12 8035 West Bowles Avenue
-    *   UA Denver Pavilions Stadium 15 &. RPX 500 16th St.
-    *   Elvis Cinemas Kipling 6 Theatre 6014 S. Kipling
+    *   New York, NY
+    *   Los Angeles, CA
+    *   Atlanta, GA
+    *   Chicago, IL
+    *   Austin, TX
+    *   Miami, FL
+    *   San Francisco, CA
+    *   Phoenix, AZ
+    *   Washington, DC
+    *   Boston, MA
+    *   San Diego, CA
+    *   Seattle, WA
+    *   Edison, NJ
+    *   Houston, TX
+    *   Tampa, FL
     
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Movie News: 'Wonder' Director Tapped for Disney's 'Prince Charming' Read More
-    *   Watch Dwayne Johnson vs. Monsters in First 'Rampage' Trailer Read More
+    *   'Multiple Man': James Franco, James Franco and James Franco to Star in 'X-Men' Spin-off Read More
+    *   The Week in Movie News: 'Super Mario Bros.', 'Fantastic Beasts' and More Read More
     *   'Fantastic Beasts' Sequel Gets a New Title and Motion Poster: Here's What We Know Read More
     
     Explore Content
@@ -78,42 +84,27 @@ Gift Cards | Offers | Sign In Sign Out
     *   Star Wars Guide
     *   Holiday Movie Guide
     *   Weekend Ticket
-*   My VIP Account Top Movies Near 80201 Edit Zip Code
+*   My VIP Account Join FandangoVIP Refunds + Exchanges
     
-    See all movies My Theaters
-*   Save your favorite theater and we'll make sure it's front and center for you.
+    Bypass the box office line at many theaters with guaranteed tickets. If something comes up, you can return or exchange up to two hours before showtime through Fandango.
     
-Manage my theater list Insider Perks
-
-*   Please check back - more exciting offers are coming soon.
+    Learn more Partner Rewards
     
-
-See all insider perks Payment Method
-
-For warp speed checkout, securely add your credit card.
-
-Add your  
-Credit Card Manage my VIP account Join FandangoVIP Refunds + Exchanges
-
-Bypass the box office line at many theaters with guaranteed tickets. If something comes up, you can return or exchange up to two hours before showtime through Fandango.
-
-Learn more Partner Rewards
-
-Earn rewards points from our partners, including AMC Stubs, Regal Crown Club and more.
-
-Learn more My Fandango
-
-Save your favorite theaters and movies to experience a customized Fandango just for you.
-
-Learn more Insider Perks
-
-Get the VIP treatment, free screenings, digital downloads, discounts and more.
-
-Learn more Join Fandango VIP For Free
-
-(It only takes a few seconds to join)
-
-Already a Fandango VIP? Sign In
+    Earn rewards points from our partners, including AMC Stubs, Regal Crown Club and more.
+    
+    Learn more My Fandango
+    
+    Save your favorite theaters and movies to experience a customized Fandango just for you.
+    
+    Learn more Insider Perks
+    
+    Get the VIP treatment, free screenings, digital downloads, discounts and more.
+    
+    Learn more Join Fandango VIP For Free
+    
+    (It only takes a few seconds to join)
+    
+    Already a Fandango VIP? Sign In
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Movie Ticket Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP Rewards Program Terms Privacy PolicyTerms and PoliciesTerms of UseMovie Ticket PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP Rewards Program Terms
 
@@ -273,9 +264,9 @@ For any questions in relation to this Privacy Policy please contact us at privac
 
 Offers
 
-*   'Daddy's Home 2' Gift With Purchase
+*   'Darkest Hour' Free Gift With Purchase
     
-    Buy tickets to 'Daddy's Home 2' and get a FREE digital copy of the first 'Daddy's Home' on FandangoNOW. BUY TICKETS
+    Buy tickets to 'Darkest Hour' and get a FREE audiobook download from Audible. BUY TICKETS
     
 *   'A Bad Moms Christmas' Gift With Purchase
     
