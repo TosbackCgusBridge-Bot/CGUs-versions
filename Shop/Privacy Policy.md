@@ -253,22 +253,17 @@ Menu Close Menu Close
 *   Deals
     
     *   Explore All Deals
-    *   Laptop Deals
-    *   Professional Laptop Deals
+    *   Home Laptop Deals
+    *   ThinkPad Deals
     *   Desktop Deals
-    *   Accessories Deals
+    *   Tablet Deals
+    *   Accessory Deals
     *   Clearance
-    *   Deals for Students &. Educators
-    *   Deals for Military
-    *   Outlet
+    *   OUTLET
     
-    *   *   WEEKLY DEALS
+    *   *   Doorbusters
             
-            Great deals on select products
-            
-        *   Clearance Sale
-            
-            Get these deals before they're gone
+        *   Clearance
             
         *   Holiday Gifts &. More!
             
@@ -321,32 +316,14 @@ Home >. Filter by specs Offers
 *   Flexible financing is available! Check out your options now. Learn More >
 *   Be Confident in your Lenovo Purchase. Learn More >
 
-PrevNext
+PrevNext Black Friday starts now!  
+Our biggest sale of the year.
 
-'OOPS' RESISTANT
+Save up to 60%. Sale ends Nov. 26
 
-Learn more >.
+Shop now >.
 
-Yoga 720 15"
-
-A Powerhouse That Bends Backwards
-
-Celebrate >.
-
-Accelerate the Intelligence Revolution
-
-Let Lenovo help accelerate your artifical intelligence journey
-
-Learn more >.
-
-Awaken your inner Jedi with a new smartphone-powered augmented-reality experience.
-
-Start your training >.
-
-*   1
-*   2
-*   3
-*   4
+Special Financing Available
 
 Weekly Deals
 
@@ -376,7 +353,7 @@ $499.99
 
 Shop Now
 
-3035Viewing Best Seller ThinkPad X1 Carbon (5th gen)
+2135Viewing Best Seller ThinkPad X1 Carbon (5th gen)
 
 ★★★★★ ★★★★★
 
@@ -384,23 +361,11 @@ Shop Now
 
 (68)
 
-$1376.10
+$1070.30
 
 Shop Now
 
-2735Viewing Best Seller ThinkPad P51 Mobile Workstation
-
-★★★★★ ★★★★★
-
-4.5
-
-(15)
-
-$1340.10
-
-Shop Now
-
-568Viewing Lenovo Legion Y720 Laptop
+3448Viewing Best Seller Lenovo Legion Y720 Laptop
 
 ★★★★★ ★★★★★
 
@@ -408,11 +373,23 @@ Shop Now
 
 (18)
 
-$1099.99
+$999.99
 
 Shop Now
 
-1091Viewing
+1155Viewing ThinkPad P51 Mobile Workstation
+
+★★★★★ ★★★★★
+
+4.5
+
+(15)
+
+$1116.75
+
+Shop Now
+
+689Viewing
 
 LAPTOPS
 
