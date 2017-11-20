@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 26%  4% 
+What is PeekScore? Public Records &. Background Checks 7%  3% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 26%  4% 
     
 *   Show Less ...
 
-26%  26%  Arrest Records &. Driving Infractions
+7%  7%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 26%  Twitter 4% 
+Facebook 7%  Twitter 3% 
 
 *   Federal Reserve - federalreserve
     
@@ -199,7 +199,7 @@ Facebook 26%  Twitter 4% 
     
 *   Show Less ...
 
-Instagram 4% 
+Instagram 3% 
 
 *   Karen McDowall - privacy\_\_\_policy
     
@@ -265,7 +265,7 @@ Instagram 4% 
     
 *   Show Less ...
 
-Pinterest 26%  Wikipedia 4% 
+Pinterest 7%  Wikipedia 3% 
 
 *   Medana
     
@@ -284,7 +284,7 @@ Pinterest 26%  Wikipedia 4% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Google+ 4% 
+Google+ 3% 
 
 *   Privacy Policy - Google+ - Google Plus
     
@@ -299,7 +299,7 @@ Google+ 4% 
     Profile photo. Free Privacy Policy. 35 followers -. Build a Privacy policy for your site in 5 minutes! Build a Privacy policy for your site in 5 minutes! 35 followers.
     
 
-Linkedin 4% 
+Linkedin 3% 
 
 *   Privacy Policy | LinkedIn
     
@@ -345,7 +345,7 @@ Linkedin 4% 
     
 *   Show Less ...
 
-Foursquare 26%  Music 4% 
+Foursquare 7%  Music 3% 
 
 *   Pandora
     
