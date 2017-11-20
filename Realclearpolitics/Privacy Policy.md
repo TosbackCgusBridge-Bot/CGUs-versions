@@ -270,8 +270,8 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve39
-    *   Disapprove56Disapprove +17
+    *   Approve38
+    *   Disapprove57Disapprove +19
 *   Alabama Senate Special Election - Moore vs. JonesGravis
     *   Jones47
     *   Moore42Jones +5
@@ -284,11 +284,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   WH: If Trump Didn't Believe Accusations Were Credible, He Would Be In Alabama Campaigning For Roy Moore
 *   Clinton: We Have A Man Accused Of Sexual Assault In Oval Office, Accusations Not Taken Seriously
-*   David Brooks: What Roy Moore Did "Highest Level Of Vileness," What Franken Did Shouldn't Be A "Career-Ender"
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
+*   David Brooks: What Roy Moore Did "Highest Level Of Vileness," What Franken Did Shouldn't Be A "Career-Ender"
 *   Roy Moore's Wife: Trump "Owes Us A Thank You," "Have You Noticed You're Not Hearing Much About Russia?"
-*   Hatch Blows Up On Dem Sen. Brown: Tired Of "That Crap" That Republicans Only Help The Rich
 
 *   Politics
 *   Policy
