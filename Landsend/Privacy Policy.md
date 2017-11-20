@@ -771,9 +771,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 40% off full-price styles. 50% off sweaters!
+Receive 40% off full-price styles. 50% off all sweaters and outerwear!
 
-code: BREEZE pin: 6032 DETAILS
+code: WARM pin: 2398 DETAILS
 
 Customer Service Menu
 
