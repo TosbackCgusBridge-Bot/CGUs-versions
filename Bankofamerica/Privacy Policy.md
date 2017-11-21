@@ -315,9 +315,9 @@ hide More Resources
 *   Online and Mobile Banking Security Guarantee
 *   Watch our video "Keeping Your Financial Info Safe"
 
-show Protect your PC
+show Protect your devices
 
-*   Get one free year of McAfee® Internet Security
+*   Get McAfee® LiveSafe™ at no cost for the first 12 months
 
 show FAQs
 
