@@ -5,7 +5,6 @@
 Company Information
 
 *   About Bankrate.com
-*   Bankrate, Inc. management
 *   Bankrate.com management
 *   Advertise with Bankrate
 *   Press releases
@@ -16,7 +15,6 @@ Company Information
 *   Email newsletters
 *   Rate Data in print
 *   Press Room
-*   Investor Relations
 *   What's New
 
 Privacy Policy
@@ -194,6 +192,6 @@ Attention: Sr. Director, Client Services
 
 California privacy rights requests must include the reference "Request for California Privacy Information" on the subject line and in the body of the message and must include the email address or mailing address, as applicable, for us to send our response. This request may be made no more than once per calendar year. We reserve the right not to respond to requests submitted other than to the address specified above.
 
-About us Advertise with Bankrate Partners Press Room Investor Relations Free Content Center Contact Us Sitemap Topics Newsletters Mobile Apps Careers  
+About us Advertise with Bankrate Partners Press Room Contact Us Sitemap Topics Careers  
 Understanding Bankrate's rate averages  
 _© 2017 Bankrate, LLC All Rights Reserved._ Privacy Policy/Your California Privacy Rights Terms of Use Bankrate.com is an independent, advertising-supported publisher and comparison service. Bankrate may be compensated in exchange for featured placement of certain sponsored products and services, or your clicking on certain links posted on this website. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1453616258274236&amp;ev=PageView&amp;noscript=1">. <img src="//bat.bing.com/action/0?ti=4064189&amp;Ver=2" height="0" width="0" style="display:none. visibility: hidden;">. <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2618953619387&amp;event=pagevisit&amp;noscript=1">.
