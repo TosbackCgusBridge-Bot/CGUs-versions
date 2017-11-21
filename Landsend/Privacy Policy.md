@@ -771,11 +771,11 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 40% off full-price styles. 50% off all sweaters and outerwear!
+Receive 50% off all turtlenecks and sweaters. 40% off everything else!
 
-code: WARM pin: 2398 DETAILS
+code: ENJOY pin: 7612 DETAILS
 
-Customer Service Menu
+Shop Now Customer Service Menu
 
 Customer Service
 
