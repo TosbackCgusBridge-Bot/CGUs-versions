@@ -253,6 +253,7 @@ Menu Close Menu Close
 *   Deals
     
     *   Explore All Deals
+    *   Black Friday Doorbusters
     *   Home Laptop Deals
     *   ThinkPad Deals
     *   Desktop Deals
@@ -263,7 +264,7 @@ Menu Close Menu Close
     
     *   *   Doorbusters
             
-        *   Clearance
+        *   Save up to 44% on ThinkPad
             
         *   Holiday Gifts &. More!
             
@@ -310,11 +311,12 @@ Compare (0)
 
 Home >. Filter by specs Offers
 
-*   Flexible financing is available! Check out your options now. Learn More >
+*   Extended Holiday Hours! 9am-11pm on Black Friday &. Cyber Mon. See Complete Extended Holiday Schedule. >
+*   Free Shipping &. Free Returns for the Holidays. Learn More >
 *   Be Confident in your Lenovo Purchase. Learn More >
-*   Always Free Shipping. Ships Free and Quick!Learn More >
 *   Flexible financing is available! Check out your options now. Learn More >
-*   Be Confident in your Lenovo Purchase. Learn More >
+*   Extended Holiday Hours! 9am-11pm on Black Friday &. Cyber Mon. See Complete Extended Holiday Schedule. >
+*   Free Shipping &. Free Returns for the Holidays. Learn More >
 
 PrevNext Black Friday starts now!  
 Our biggest sale of the year.
@@ -341,55 +343,7 @@ THANK YOU MILITARY
 
 This Veteran’s Day week, active and veteran military enjoy an additional 15% off your entire purchase! Ends Nov 19th.
 
-C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE! Recommended For You Best Seller Ideapad 510S (14")
-
-★★★★★ ★★★★★
-
-3.8
-
-(12)
-
-$499.99
-
-Shop Now
-
-2135Viewing Best Seller ThinkPad X1 Carbon (5th gen)
-
-★★★★★ ★★★★★
-
-3.9
-
-(68)
-
-$1070.30
-
-Shop Now
-
-3448Viewing Best Seller Lenovo Legion Y720 Laptop
-
-★★★★★ ★★★★★
-
-3.8
-
-(18)
-
-$999.99
-
-Shop Now
-
-1155Viewing ThinkPad P51 Mobile Workstation
-
-★★★★★ ★★★★★
-
-4.5
-
-(15)
-
-$1116.75
-
-Shop Now
-
-689Viewing
+C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE!
 
 LAPTOPS
 
@@ -411,9 +365,9 @@ Virtual Reality &. Smart Devices
 
 Connect your world: Smart devices to enhance your life, at home and on the go.
 
-Data Center
+Winner of 5 HPCwire Awards
 
-Achieve competitive advantage in the next-generation data center.
+Lenovo and our customers advancing zika research, optimizing wind energy.
 
 Outlet
 
