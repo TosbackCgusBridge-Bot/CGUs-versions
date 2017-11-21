@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Karl Rove_: Two Tax Reforms Can Be Better Than One
+*   _Masha Gessen_: 'Should Al Franken Resign?' Is the Wrong Question
     
-*   _Doug Sosnik_: What Democratic Civil War? The Left Already Won.
+*   _Kurt Schlichter_: Savoring the Democrats' Pervgate Pain
     
-*   _Andrew Sullivan_: The Danger of Knowing You're on the 'Right Side of History'
+*   _Chris Cillizza_: Donald Trump Is Playing Zero-Dimensional Chess (Again)
     
-*   _Paul Mulshine_: Christie Would've Made a Better AG Than Sessions
+*   _David Lauter_: Strong Economy Boosts Trump Among Skeptical Voters
     
-*   _Ari Berman_: Clinton on 2016: 'Lots of Questions About Its Legitimacy'
+*   _Benjamin Fong_: The Climate Crisis? It's Capitalism, Stupid
     
-*   _John Solomon_: FBI Gave Clinton Investigation 'Special' Status, Email Shows
+*   _Chuck DeVore_: Gas &. Electricity Cost Too Much? You Can Thank Liberals
     
-*   _Matthew Continetti_: The Great American Earthquake
+*   _Byron York_: FBI Has Not Verified Trump Dossier
     
-*   _Gray &. Coppins_: Conservatives Reap the Whirlwind of Their War on Media
+*   _Juan Williams_: The Politics of Impeaching Trump
     
-*   _S.E. Cupp_: Why Conservatives Lost Faith in Mainstream Media
+*   _Everett Piper_: How to Make Sure Your Kid Doesn't Go to Snowflake U.
     
-*   _Megan McArdle_: What to Ask When Decades-Old Harassment Surfaces
+*   _Taylor Link_: Liberal Outrage: How 'Snowflakes' Are Finally Moving the Needle
     
-*   _David Ignatius_: Saudi Political Explosions Risk Collateral Damage
+*   _Piers Morgan_: Is Ludicrous Lena Dunham the World's Worst Feminist?
     
-*   _Damon Linker_: Al Franken Is Just the Beginning
+*   _Josh Kraushaar_: The Franken Factor in Minnesota
     
-*   _Masha Gessen_: When Does a Watershed Become a Sex Panic?
+*   _Jonathan Zimmerman_: Don't Place Franken in Same Frame as Weinstein
     
-*   _John Fund_: Finally on the Cusp of Tax Reform
+*   _Stephen Moore_: Republicans Showing Backbone on Tax Reform
     
-*   _Tom Perez_: Republican Tax Plan Is a Dumpster Fire. Take Out the Trash.
+*   _Sens. Bennet &. Kaine_: Make Obamacare Better With Medicare-X
     
-*   _Roger Kimball_: Anti-Trump Whiners Overlook Many Achievements
+*   _Paul Sperry_: The Biggest Myths of the Russian-Collusion Story
     
-*   _Susan Glasser_: Karl Rove Has Seen the Enemy &. He Is Steve Bannon
+*   _Cass Sunstein_: Trump's Clinton Fixation Should Scare All Americans
     
-*   _Mark Penn_: If They Want to Win, Dems Must Run More Moderates
+*   _Marc Thiessen_: Why Clinton, Uranium One Deal Must Be Investigated
     
-*   _Tom Bevan_: The Takeaway: Moore Problems for GOP in Alabama
+*   _Rebecca Chavez_: Nafta's Renegotiation Risks National Security
     
-*   _Scott McKay_: Al Franken to Roy Moore's Rescue
+*   _McGroarty & Tuttle_: Scott Pruitt Drains the Swamp at the EPA
     
-*   _Richard Wolffe_: Is Trump Administration Afflicted With 'Moscow Memory'?
+*   _Mary Ham_: Trump Should Get Credit for Bringing Americans Home
     
-*   _Rep. Mark Meadows_: Obama's FBI, Russia Dossier Need a Special Counsel
+*   _Sam Amick_: Trump Takes the Bait, and LaVar Ball Wins Again
     
-*   _Stein & Markay_: Trump Quietly Builds an Alliance With Liberals on Trade
+*   _Salena Zito_: Erie Tells an Ominous Sign for Democrats
     
-*   _Kevin Sullivan_: Trump's Guns-and-Butter Gambit in Asia
+*   _John Nichols_: Democrats Can Win in Alabama--and Everywhere
     
 
 *   Previous
@@ -272,23 +272,23 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalGallup
     *   Approve38
     *   Disapprove57Disapprove +19
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve41
+    *   Disapprove57Disapprove +16
+*   Direction of CountryRasmussen Reports
+    *   Right Direction33
+    *   Wrong Track61Wrong Track +28
 *   Alabama Senate Special Election - Moore vs. JonesGravis
     *   Jones47
     *   Moore42Jones +5
-*   President Trump Job ApprovalHarvard-Harris
-    *   Approve41
-    *   Disapprove59Disapprove +18
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve42
-    *   Disapprove56Disapprove +14
 
 More Latest Polls In The News
 
+*   Dem Rep. Speier: Clinton's Victims "Should Have Been Believed". Most People That Come Forward Tell The Truth
 *   WH: If Trump Didn't Believe Accusations Were Credible, He Would Be In Alabama Campaigning For Roy Moore
-*   Clinton: We Have A Man Accused Of Sexual Assault In Oval Office, Accusations Not Taken Seriously
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
+*   Clinton: We Have A Man Accused Of Sexual Assault In Oval Office, Accusations Not Taken Seriously
 *   David Brooks: What Roy Moore Did "Highest Level Of Vileness," What Franken Did Shouldn't Be A "Career-Ender"
-*   Roy Moore's Wife: Trump "Owes Us A Thank You," "Have You Noticed You're Not Hearing Much About Russia?"
 
 *   Politics
 *   Policy
