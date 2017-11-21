@@ -35,11 +35,11 @@ SHOP DEPARTMENTS
 *   My List
 *   Coupons
 
-My StoreNorthfld @ Stapleton Change My Store Find a StoreBack Day 1 of Black Friday Deals ENDS IN
+My StoreNorthfld @ Stapleton Change My Store Find a StoreBack Day 2 of Black Friday Deals ENDS IN
 
 \*Deals end 11/24/17
 
-0 0 0 0 Days 0 0 0 0 hours 4 4 0 0 mins 1 1 3 2 secs 3CC45767-B846-491D-82D8-794D25E7228FDF100ADC-F3E9-4171-B1EE-058720FE99CDF052C3FB-E4FA-4F2F-B79D-42ABF565E491DAB76EF1-C61A-4E9D-AFB8-56D64DA737A15D42282A-91F8-4B40-97F9-0EEB6F6BFA5F668223A1-72DC-4DFC-BE52-40C17E5FEE491432C116-F41B-42E2-848E-2D44189B91067B496B08-0D38-4AA8-9F4F-82674869EDEA38EB52F4-69A2-4FBF-9B18-E2CD34F9781A976491A8-E8BA-4AAD-9730-6F9CBDC8F2BF46E5D142-C946-46F1-B159-B709BAE62AFF79B12579-90BE-47A4-92E0-013FED3DBDED90A39209-617B-431B-8E2E-3669E5190E06F8CA3A65-9A76-4255-B64B-79E1C73AB9A8DAB76EF1-C61A-4E9D-AFB8-56D64DA737A18C0484FF-ACF6-4250-A6F2-82E42A1251535839B181-36FD-4153-962C-B04D1E7432D231BCB86C-0544-4300-9DE2-F802C62999EE64C61DA7-D79B-4874-9777-B6FBF90AB7895E577DF8-FA90-43D0-91D0-EE410F445CBB8B0FDD24-F4B1-4079-852B-2A7A09470E5C49AA578B-2A26-4D00-B4D9-C87F9A1DE2FDB501EE5C-B375-4FEA-AA4A-EBC34F4064CB46235D25-F3F7-4F4C-845D-ABB7F88EE63F6458B170-1EB9-4CBD-815E-0CCB8FC3C5382812F50A-0444-4837-8CB0-9700C456E0CFC4AD5B28-FCAE-4807-8C32-CBC3DADCA3F1D1E47448-5A9D-45C8-8365-C05A970A295F8970DDDE-778D-46E9-9B84-C11C38D7428180B4D823-FAF4-4AD3-9BF9-295D1C4387489C395E0A-63BE-4A89-A5D1-64C036CFEC00534CFD99-0060-4843-BFCE-7D9BA55C271E5B925E09-4E34-4F4C-A90B-146A6A5AE196C21A5B38-2758-4ED4-9609-77E2C1B1B7E4A252BB8B-5BBE-46E5-AD2B-E7B55E6D9B718B0FDD24-F4B1-4079-852B-2A7A09470E5CBAD06B59-AF93-4AF7-A8F7-1DA9B715A1E7DF7092CB-997D-4C45-BE78-4AD3D537E6FD86CC0931-FA08-4A92-9304-BA35D3FFC637B637D2EF-1380-4874-AB9E-5FBCEE25CE67 81E7AA6D-A54D-4E1A-8B86-969596D3514E3CC45767-B846-491D-82D8-794D25E7228Ficon/ALL/conversation-lineD117C0A9-CFCB-4CF5-A910-0DE33D72E7B0IconDAB76EF1-C61A-4E9D-AFB8-56D64DA737A15F400C74-D128-4777-800D-7BC41E359DF9682D6825-8DE7-4A70-A714-7424D5432720792B306D-00FA-43E7-BB08-0058D9A5FCA7521C0A39-AC08-4AF1-B60C-5DCC8FDA86F04EDDAB3D-B9A2-4E05-8FA8-7E6E4AF1127219249671-EE5F-4059-AC46-D8B7277F6ADFFD9D8A57-5829-4DE8-B2C0-FF737BC815BB5E0F35A1-D109-43F5-A370-01C0C7E684BA5B042BA6-5AB6-4475-B9CE-78FB8E6ADF0B5EA0826A-68F0-4C29-A591-BCF4DC17EA648970DDDE-778D-46E9-9B84-C11C38D7428185F697B5-F536-4132-B990-CC10B3C15B14Gallery - Video Icon - Lg + XL
+0 0 0 0 Days 0 0 0 0 hours 4 4 0 0 mins 2 2 4 4 secs 3CC45767-B846-491D-82D8-794D25E7228FDF100ADC-F3E9-4171-B1EE-058720FE99CDF052C3FB-E4FA-4F2F-B79D-42ABF565E491DAB76EF1-C61A-4E9D-AFB8-56D64DA737A15D42282A-91F8-4B40-97F9-0EEB6F6BFA5F668223A1-72DC-4DFC-BE52-40C17E5FEE491432C116-F41B-42E2-848E-2D44189B91067B496B08-0D38-4AA8-9F4F-82674869EDEA38EB52F4-69A2-4FBF-9B18-E2CD34F9781A976491A8-E8BA-4AAD-9730-6F9CBDC8F2BF46E5D142-C946-46F1-B159-B709BAE62AFF79B12579-90BE-47A4-92E0-013FED3DBDED90A39209-617B-431B-8E2E-3669E5190E06F8CA3A65-9A76-4255-B64B-79E1C73AB9A8DAB76EF1-C61A-4E9D-AFB8-56D64DA737A18C0484FF-ACF6-4250-A6F2-82E42A1251535839B181-36FD-4153-962C-B04D1E7432D231BCB86C-0544-4300-9DE2-F802C62999EE64C61DA7-D79B-4874-9777-B6FBF90AB7895E577DF8-FA90-43D0-91D0-EE410F445CBB8B0FDD24-F4B1-4079-852B-2A7A09470E5C49AA578B-2A26-4D00-B4D9-C87F9A1DE2FDB501EE5C-B375-4FEA-AA4A-EBC34F4064CB46235D25-F3F7-4F4C-845D-ABB7F88EE63F6458B170-1EB9-4CBD-815E-0CCB8FC3C5382812F50A-0444-4837-8CB0-9700C456E0CFC4AD5B28-FCAE-4807-8C32-CBC3DADCA3F1D1E47448-5A9D-45C8-8365-C05A970A295F8970DDDE-778D-46E9-9B84-C11C38D7428180B4D823-FAF4-4AD3-9BF9-295D1C4387489C395E0A-63BE-4A89-A5D1-64C036CFEC00534CFD99-0060-4843-BFCE-7D9BA55C271E5B925E09-4E34-4F4C-A90B-146A6A5AE196C21A5B38-2758-4ED4-9609-77E2C1B1B7E4A252BB8B-5BBE-46E5-AD2B-E7B55E6D9B718B0FDD24-F4B1-4079-852B-2A7A09470E5CBAD06B59-AF93-4AF7-A8F7-1DA9B715A1E7DF7092CB-997D-4C45-BE78-4AD3D537E6FD86CC0931-FA08-4A92-9304-BA35D3FFC637B637D2EF-1380-4874-AB9E-5FBCEE25CE67 81E7AA6D-A54D-4E1A-8B86-969596D3514E3CC45767-B846-491D-82D8-794D25E7228Ficon/ALL/conversation-lineD117C0A9-CFCB-4CF5-A910-0DE33D72E7B0IconDAB76EF1-C61A-4E9D-AFB8-56D64DA737A15F400C74-D128-4777-800D-7BC41E359DF9682D6825-8DE7-4A70-A714-7424D5432720792B306D-00FA-43E7-BB08-0058D9A5FCA7521C0A39-AC08-4AF1-B60C-5DCC8FDA86F04EDDAB3D-B9A2-4E05-8FA8-7E6E4AF1127219249671-EE5F-4059-AC46-D8B7277F6ADFFD9D8A57-5829-4DE8-B2C0-FF737BC815BB5E0F35A1-D109-43F5-A370-01C0C7E684BA5B042BA6-5AB6-4475-B9CE-78FB8E6ADF0B5EA0826A-68F0-4C29-A591-BCF4DC17EA648970DDDE-778D-46E9-9B84-C11C38D7428185F697B5-F536-4132-B990-CC10B3C15B14Gallery - Video Icon - Lg + XL
 
 UP TO 60% OFF LUGGAGE SELECT STYLESSHOP ALLUP TO 60% OFF LUGGAGE SELECT STYLESSHOP ALL
 
@@ -59,13 +59,6 @@ UP TO 60% OFF LUGGAGE SELECT STYLESSHOP ALLUP TO 60% OFF LUGGAGE SELECT STYLESSH
     American Tourister Pop Plus 3-pc. Luggage Set ★★★★★★★★★★(22)
 *   BLACK FRIDAY DEAL!
     
-    $95.99 sale
-    
-    was $240
-    
-    Samsonite Prevail 3.0 21" Spinner Luggage ★★★★★★★★★★(9)
-*   BLACK FRIDAY DEAL!
-    
     $127.99 sale
     
     was $320
@@ -73,11 +66,11 @@ UP TO 60% OFF LUGGAGE SELECT STYLESSHOP ALLUP TO 60% OFF LUGGAGE SELECT STYLESSH
     Samsonite® Soar 2.0 21" Spinner Carry-On Luggage ★★★★★★★★★★(29)
 *   BLACK FRIDAY DEAL!
     
-    $119.99 sale
+    $95.99 sale
     
-    was $300
+    was $240
     
-    Samsonite Prevail 3.0 25" Spinner Luggage ★★★★★★★★★★(3)
+    Samsonite Prevail 3.0 21" Spinner Luggage ★★★★★★★★★★(9)
 *   BLACK FRIDAY DEAL!
     
     $39.99 sale
@@ -87,20 +80,6 @@ UP TO 60% OFF LUGGAGE SELECT STYLESSHOP ALLUP TO 60% OFF LUGGAGE SELECT STYLESSH
     Protocol Garrison 5 Pc Luggage Set ★★★★★★★★★★(1)
 *   BLACK FRIDAY DEAL!
     
-    $143.99 sale
-    
-    was $360
-    
-    Samsonite Prevail 3.0 29" Spinner Luggage ★★★★★★★★★★(3)
-*   BLACK FRIDAY DEAL!
-    
-    $151.99 sale
-    
-    was $380
-    
-    Samsonite® SWERV 28" Expandable Hardside Spinner Upright Luggage ★★★★★★★★★★(20)
-*   BLACK FRIDAY DEAL!
-    
     $151.99 sale
     
     was $380
@@ -108,11 +87,11 @@ UP TO 60% OFF LUGGAGE SELECT STYLESSHOP ALLUP TO 60% OFF LUGGAGE SELECT STYLESSH
     Samsonite® Soar 2.0 25" Spinner Upright Luggage ★★★★★★★★★★(19)
 *   BLACK FRIDAY DEAL!
     
-    $175.99 sale
+    $119.99 sale
     
-    was $440
+    was $300
     
-    Samsonite® Soar 2.0 29" Spinner Upright Luggage ★★★★★★★★★★(8)
+    Samsonite Prevail 3.0 25" Spinner Luggage ★★★★★★★★★★(3)
 *   BLACK FRIDAY DEAL!
     
     $111.99 sale
@@ -122,11 +101,18 @@ UP TO 60% OFF LUGGAGE SELECT STYLESSHOP ALLUP TO 60% OFF LUGGAGE SELECT STYLESSH
     American Tourister Pirouette X 28 Inch Hardside Luggage ★★★★★★★★★★(3)
 *   BLACK FRIDAY DEAL!
     
-    $119.99 sale
+    $143.99 sale
     
-    was $300
+    was $360
     
-    Samsonite Aspire XLite 25" Spinner Luggage ★★★★★★★★★★(68)
+    Samsonite Prevail 3.0 29" Spinner Luggage ★★★★★★★★★★(3)
+*   BLACK FRIDAY DEAL!
+    
+    $175.99 sale
+    
+    was $440
+    
+    Samsonite® Soar 2.0 29" Spinner Upright Luggage ★★★★★★★★★★(8)
 *   BLACK FRIDAY DEAL!
     
     $199.99 sale
@@ -148,84 +134,112 @@ UP TO 60% OFF LUGGAGE SELECT STYLESSHOP ALLUP TO 60% OFF LUGGAGE SELECT STYLESSH
     was $240
     
     American Tourister Pirouette X 24 Inch Hardside Luggage ★★★★★★★★★★(3)
+*   BLACK FRIDAY DEAL!
+    
+    $151.99 sale
+    
+    was $380
+    
+    Samsonite® SWERV 28" Expandable Hardside Spinner Upright Luggage ★★★★★★★★★★(20)
+*   BLACK FRIDAY DEAL!
+    
+    $119.99 sale
+    
+    was $300
+    
+    Samsonite Aspire XLite 25" Spinner Luggage ★★★★★★★★★★(68)
 
-JAMMIES - SWEET DREAMS FOR THE FAMILYSHOP ALLJAMMIES - SWEET DREAMS FOR THE FAMILYSHOP ALL
+SAVE ON GAME TABLESSHOP ALLSAVE ON GAME TABLESSHOP ALL
 
-*   LOW PRICE EVERYDAY!
+*   BLACK FRIDAY DEAL!
     
-    $29
+    $664.99 sale
     
-    Red Fairisle Family Pajama Robe- Women's
-*   LOW PRICE EVERYDAY!
+    was $782.99
     
-    $29
+    Hathaway Challenger 12-Ft Shuffleboard Table
+*   BLACK FRIDAY DEAL!
     
-    Family Pajama Santa Robe - Women's
-*   LOW PRICE EVERYDAY!
+    $865.99 sale
     
-    $29
+    was $1,154.99
     
-    Onesie Fleece One Piece Pajama Red Elf Print- Women's
-*   LOW PRICE EVERYDAY!
+    Hathaway Sherwood 7-Ft Air Hockey Table
+*   BLACK FRIDAY DEAL!
     
-    $19 - $22
+    $664.99 sale
     
-    North Pole Trading Co. Merry Textmas Microfleece Family Pajamas-Women's
-*   LOW PRICE EVERYDAY!
+    was $782.99
     
-    $29
+    Hathaway Challenger 12-Ft Shuffleboard Table
+*   BLACK FRIDAY DEAL!
     
-    Onesie More Naughty Than Nice Print Family Pajamas-Women's
-*   LOW PRICE EVERYDAY!
+    $134.99 sale
     
-    $29
+    was $169.99
     
-    North Pole Trading Co. Elf Family Pajamas-Women's
-*   LOW PRICE EVERYDAY!
+    Voit Playmaker 60" Air Hockey Table wtih Table Tennis
+*   BLACK FRIDAY DEAL!
     
-    $24
+    $358.99 sale
     
-    Elf on the Shelf Family Pajama Set- Women's
-*   LOW PRICE EVERYDAY!
+    was $449.99
     
-    $29 - $34
+    Driftwood 56-in Foosball Table
+*   BLACK FRIDAY DEAL!
     
-    North Pole Trading Co. One Piece Reindeer Family Pajamas-Women's ★★★★★★★★★★(3)
-*   LOW PRICE EVERYDAY!
+    $389.99 sale
     
-    $29
+    was $459.89
     
-    Onesie Fleece One Piece Pajama Red Holiday Print- Women's
-*   LOW PRICE EVERYDAY!
+    Hathaway Avenger 9-Ft Recreational Shuffleboard Table
+*   BLACK FRIDAY DEAL!
     
-    $29
+    $228.99 sale
     
-    Long Sleeve One Piece Pajama
-*   LOW PRICE EVERYDAY!
+    was $270.19
     
-    $24
+    Hathaway Outlaw Free Standing Dartboard
+*   $137.49
     
-    #FAMJAMS Woodland Creatures Family Pajama Set- Women's ★★★★★★★★★★(3)
-*   LOW PRICE EVERYDAY!
+    Voit Foosball Table
+*   $60.99
     
-    $19 - $22
+    Viper Stadium Dartboard Cabinet With Shot King Sisal Dartboard
+*   BLACK FRIDAY DEAL!
     
-    North Pole Trading Co. Checkin' It Twice Flannel Family Pajamas-Women's ★★★★★★★★★★(7)
-*   LOW PRICE EVERYDAY!
+    $168.99 sale
     
-    $24
+    was $226.19
     
-    #FAMJAMS Hanukkah Family Pajama Set- Women's ★★★★★★★★★★(2)
-*   LOW PRICE EVERYDAY!
+    Hathaway Enforcer 5.5-Ft Air Hockey Table
+*   $49.39 - $75.09
     
-    $24
+    Mainstreet Classic Mini Air Hockey
+*   BLACK FRIDAY DEAL!
     
-    Rudolph The Red Nose Reindeer Family Pajama Set- Women's
-*   LOW PRICE EVERYDAY!
+    $41.99 sale
     
-    $29
+    was $47.09
     
-    Onesie Fleece One Piece Pajama Santa Print- Women's
+    Hathaway Blue Line 32-In Portable Table Top Air Hockey Table
+*   BLACK FRIDAY DEAL!
+    
+    $94.99 sale
+    
+    was $111.99
+    
+    Hathaway Sure Shot Dual Arcade Basketball Game
+*   BLACK FRIDAY DEAL!
+    
+    $158.99 sale
+    
+    was $187.89
+    
+    Hathaway Face-Off 5-Ft Air Hockey Table
+*   $173.89
+    
+    Viper Xtreme Electronic Dartboard
 
 SAVE ON SELECT DRONESSHOP ALLSAVE ON SELECT DRONESSHOP ALL
 
@@ -304,26 +318,26 @@ UP TO 50% OFF HOMEDICS SELECT STYLESSHOP ALLUP TO 50% OFF HOMEDICS SELECT STYLES
     was $300
     
     HoMedics® Shiatsu Air Pro Foot Massager with Heat ★★★★★★★★★★(3)
-*   $39.99 sale
-    
-    was $80
-    
-    HoMedics® Shiatsu Neck and Shoulder Massager with Heat ★★★★★★★★★★(14)
 *   $79.99 sale
     
     was $160
     
     HoMedics® Deep Sleep II White Noise Machine ★★★★★★★★★★(3)
+*   $39.99 sale
+    
+    was $80
+    
+    HoMedics® Shiatsu Neck and Shoulder Massager with Heat ★★★★★★★★★★(14)
 *   $99.99 sale
     
     was $200
     
     HoMedics® Dual Shiatsu Massage Cushion with Heat ★★★★★★★★★★(5)
-*   $149.99 sale
+*   $79.99 sale
     
-    was $300
+    was $160
     
-    HoMedics® Triple Shiatsu Massage Cushion with Heat ★★★★★★★★★★(4)
+    HoMedics® Air and Shiatsu Foot Massager with Heat ★★★★★★★★★★(4)
 *   $69.99 sale
     
     was $140
@@ -334,16 +348,16 @@ UP TO 50% OFF HOMEDICS SELECT STYLESSHOP ALLUP TO 50% OFF HOMEDICS SELECT STYLES
     was $200
     
     HoMedics® Shiatsu PROPLUS
-*   $79.99 sale
+*   $39.99 sale
     
-    was $160
+    was $80
     
-    HoMedics® Air and Shiatsu Foot Massager with Heat ★★★★★★★★★★(4)
-*   $19.99 sale
+    HoMedics® Soundspa White Noise Machine with Time Projection
+*   $149.99 sale
     
-    was $40
+    was $300
     
-    HoMedics® SoundSpa® Relaxation Sound Machine ★★★★★★★★★★(5)
+    HoMedics® Triple Shiatsu Massage Cushion with Heat ★★★★★★★★★★(4)
 *   $19.99 sale
     
     was $40
@@ -353,25 +367,27 @@ UP TO 50% OFF HOMEDICS SELECT STYLESSHOP ALLUP TO 50% OFF HOMEDICS SELECT STYLES
     
     was $80
     
-    HoMedics® Soundspa White Noise Machine with Time Projection
+    Homedics Percussion Action Plus Handheld Massager with Heat
 *   $49.99 sale
     
     was $100
     
-    HoMedics® Bubble Spa Elite Footbath with Heat Boost Power
-*   $400
+    HoMedics® Shiatsu Elite Foot Massager ★★★★★★★★★★(1)
+*   $99.99 sale
     
-    HoMedics® Quad Shiatsu Massage Cushion with Heat ★★★★★★★★★★(1)
+    was $200
+    
+    HoMedics® Shiatsu Air Max Rolling Foot Massager with Heat
 *   $99.99 sale
     
     was $200
     
     HoMedics® Shiatsu Deluxe Neck and Shoulder Massager ★★★★★★★★★★(1)
-*   $39.99 sale
+*   $49.99 sale
     
-    was $80
+    was $100
     
-    Homedics Percussion Action Plus Handheld Massager with Heat
+    HoMedics® Bubble Spa Elite Footbath with Heat Boost Power
 
 SCOOTERSSHOP ALLSCOOTERSSHOP ALL
 
@@ -387,13 +403,11 @@ SCOOTERSSHOP ALLSCOOTERSSHOP ALL
     was $269.99
     
     Surge City Scooter
-*   BLACK FRIDAY DEAL!
+*   BEST VALUE!
     
-    $32.99 sale
+    $43.39
     
-    was $49.99
-    
-    Neon Viper Scooter
+    Razor RipStik Ripster Caster Board
 *   BEST VALUE!
     
     $35.09
@@ -408,17 +422,12 @@ SCOOTERSSHOP ALLSCOOTERSSHOP ALL
     Surge Girls Electric Scooter
 *   BEST VALUE!
     
-    $43.39
-    
-    Razor RipStik Ripster Caster Board
-*   BEST VALUE!
-    
     $33.79 - $37.59
     
     Razor Jr. Folding Kiddie Kick Scooter
-*   $50.89 - $64.99
+*   $309.99
     
-    Razor A3 Kick Scooter
+    MotoTec Hoverboard 36v 10inch (Bluetooth)
 *   BEST VALUE!
     
     $305.09
@@ -427,12 +436,18 @@ SCOOTERSSHOP ALLSCOOTERSSHOP ALL
 *   $159.99
     
     Razor Power Core E100 Electric Scooter
-*   $309.99
+*   $50.89 - $64.99
     
-    MotoTec Hoverboard 36v 10inch (Bluetooth)
+    Razor A3 Kick Scooter
 *   $299.99
     
     MotoTec Hoverboard Transformer 36v 8.5inch (Bluetooth)
+*   $44.99
+    
+    Razor Jr. Lil' Tek Kick Scooter
+*   $71.59 - $89.99
+    
+    Razor RipStik Caster Board
 *   BLACK FRIDAY DEAL!
     
     $20.99 sale
@@ -443,13 +458,24 @@ SCOOTERSSHOP ALLSCOOTERSSHOP ALL
 *   $109.99
     
     Razor A5 DLX Kick Scooter
-*   BLACK FRIDAY DEAL!
-    
-    $46.99 sale
-    
-    was $59.99
-    
-    My Little Pony 3 Wheel Scooter
+
+Top Sellers
+
+*   Studio 1000tc Luxury Performance Sheet Sets
+*   a.n.a Knit Leggings ★★★★★★★★★★(118)
+*   Nike® Club Solid Pullover Cotton Hoodie ★★★★★★★★★★(26)
+*   Arizona Chet Wide Calf Womens Riding Boots
+*   Total Girl Leggings - Big Kid Girls ★★★★★★★★★★(16)
+*   JCPenney Home™ Quick Dri Textured Solid 6-pc Bath Towel Set ★★★★★★★★★★(4)
+*   St. John's Bay Long Sleeve Crewneck Pointelle Pullover Sweater
+*   St. John's Bay® Easy-Care Classic Flat-Front Pants ★★★★★★★★★★(221)
+*   Arizona Gardenia Womens Bootie ★★★★★★★★★★(1)
+*   Arizona Knit Jogger Pants - Boys 8-20 &amp. Husky ★★★★★★★★★★(72)
+*   Limited Time Special - 1/10 CT. T.W. Double Halo Diamond Stud Earrings in Sterling Silver
+*   St. John's Bay Long Sleeve V Neck Pullover Sweater - Plus
+*   Stafford® Travel Wrinkle-Free Oxford Dress Shirt ★★★★★★★★★★(1577)
+*   Arizona Lexi Womens Bootie ★★★★★★★★★★(3)
+*   Arizona Long Sleeve Favorite Tee - Girls' 7-16 and Plus ★★★★★★★★★★(2)
 
 Black Friday at JCPenney: Shop &. Save
 
