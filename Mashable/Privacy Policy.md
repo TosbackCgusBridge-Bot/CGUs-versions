@@ -2,7 +2,7 @@ Untitled Document
 
 **Mashable Privacy Policy**
 
-This Privacy Policy was last updated on June 26, 2017.
+This Privacy Policy was last updated on November 20, 2017.
 
 We take your privacy very seriously and are committed to being transparent with how we use your information. This website (www.mashable.com), mobile application and any of our services and sites directing you to this Privacy Policy are controlled by Mashable, Inc (collectively "we" or "us"). This Privacy Policy also incorporates the terms contained in the Terms of Use (http://mashable.com/terms/), Cookies Policy (http://mashable.com/cookie-policy) and the Copyright Policy (http://mashable.com/copyright-policy).
 
@@ -167,7 +167,8 @@ Our website is not directed toward children under 13 and we will not knowingly c
 Our website and associated services are hosted in the United States. If you are outside of the United States, your information will be processed and stored in the United States and by using our website or providing us with personal information, you consent to such processing and storage.
 
 **Enforcement and Dispute Resolution**  
-We regularly review our compliance with our Privacy Policy. When we receive formal written complaints at privacy@mashable.com, we will contact the person who made the complaint to follow up.
+We regularly review our compliance with our Privacy Policy. When we receive formal written complaints at privacy@mashable.com, we will contact the person who made the complaint to follow up.  
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
 **Changes**  
 We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
