@@ -1,4 +1,5 @@
-*   PHI9-137DAL5-59Final
+*   ATL6-434SEA6-431Final
+*   TEN6-417PIT8-240Final
 *   TB4-630MIA4-620Final
 *   DET6-427CHI3-724Final
 *   JAX7-319CLE0-107Final
@@ -10,8 +11,7 @@
 *   BUF5-524LAC4-654Final
 *   CIN4-620DEN3-717Final
 *   NE8-233OAK4-68Final
-*   ATL5-4SEA6-3November 20, 2017 8:30:00 PM EST ET
-*   TEN6-417PIT8-240Final
+*   PHI9-137DAL5-59Final
 
 *   News
 *   Scores
@@ -29,7 +29,8 @@
 *   NFL Network
 *   Photos
 
-*   PHI37DAL9Final
+*   ATL34SEA31Final
+*   TEN17PIT40Final
 *   TB30MIA20Final
 *   DET27CHI24Final
 *   JAX19CLE7Final
@@ -41,8 +42,7 @@
 *   BUF24LAC54Final
 *   CIN20DEN17Final
 *   NE33OAK8Final
-*   ATL5-4SEA6-3November 20, 2017 8:30:00 PM EST ET
-*   TEN17PIT40Final
+*   PHI37DAL9Final
 
 *   News
 *   Scores
