@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   LXD Weekly Status #24: LXD 2.20 ›
+*   Introducing the UP² Grove IoT development kit with Ubuntu ›
+*   Building a future-proofed IoT consumer device with brand stores ›
 *   Edging Closer – ODS Sydney ›
 *   Security Team Weekly Summary: November 16, 2017 ›
-*   Orchestrating architectural installations and live shows with snaps ›
-*   How to turn your website into a desktop app ›
-*   Codetree Collect Info ›
