@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Masha Gessen_: 'Should Al Franken Resign?' Is the Wrong Question
+*   _Ajit Pai_: How the FCC Can Save the Open Internet
     
-*   _Kurt Schlichter_: Savoring the Democrats' Pervgate Pain
+*   _Maya Kosoff_: Republicans Unveil Plans to Nuke the Internet
     
-*   _Chris Cillizza_: Donald Trump Is Playing Zero-Dimensional Chess (Again)
+*   _Conrad Black_: Hillary's Version of What Happened
     
-*   _David Lauter_: Strong Economy Boosts Trump Among Skeptical Voters
+*   _Jamie Stiehm_: Leave Bill Alone, Women Never Had a Better President
     
-*   _Benjamin Fong_: The Climate Crisis? It's Capitalism, Stupid
+*   _Liz Peek_: Scandals Finally Catch Up With the Clintons
     
-*   _Chuck DeVore_: Gas &. Electricity Cost Too Much? You Can Thank Liberals
+*   _Chris Cillizza_: The Incredible Shrinking Presidency of Donald Trump
     
-*   _Byron York_: FBI Has Not Verified Trump Dossier
+*   _John Solomon_: FBI Informant's Memos Show Russian Push for Uranium One
     
-*   _Juan Williams_: The Politics of Impeaching Trump
+*   _Eli Lake_: America's Adversaries Get It: Trump Can Be Ignored
     
-*   _Everett Piper_: How to Make Sure Your Kid Doesn't Go to Snowflake U.
+*   _Vivian Bercovici_: Thank Obama for Looming Mideast War Against Iran
     
-*   _Taylor Link_: Liberal Outrage: How 'Snowflakes' Are Finally Moving the Needle
+*   _Glenda Elizabeth Gilmore_: Colin Kaepernick &. the Myth of the 'Good' Protest
     
-*   _Piers Morgan_: Is Ludicrous Lena Dunham the World's Worst Feminist?
+*   _Steve Cortes_: How to Save the City of Big Shoulders
     
-*   _Josh Kraushaar_: The Franken Factor in Minnesota
+*   _Jim Edwards_: This Is the Tech Bubble We've Been Waiting For
     
-*   _Jonathan Zimmerman_: Don't Place Franken in Same Frame as Weinstein
+*   _Michael Wear_: Why Dems Must Regain the Trust of Religious Voters
     
-*   _Stephen Moore_: Republicans Showing Backbone on Tax Reform
+*   _Victor Davis Hanson_: Forget 'Trumpism': What is 'Deplorablism'?
     
-*   _Sens. Bennet &. Kaine_: Make Obamacare Better With Medicare-X
+*   _Michael Tomasky_: Hell, No, Bill Clinton Shouldn't Have Resigned
     
-*   _Paul Sperry_: The Biggest Myths of the Russian-Collusion Story
+*   _Roger L. Simon_: Why Liberals Are Such Big Hypocrites on Women's Rights
     
-*   _Cass Sunstein_: Trump's Clinton Fixation Should Scare All Americans
+*   _Michelle Goldberg_: Maybe Al Franken Shouldn't Resign
     
-*   _Marc Thiessen_: Why Clinton, Uranium One Deal Must Be Investigated
+*   _Patrick Buchanan_: Unserious Nation
     
-*   _Rebecca Chavez_: Nafta's Renegotiation Risks National Security
+*   _Paul Krugman_: Lies, Incoherence and Rage on Tax Cuts
     
-*   _McGroarty & Tuttle_: Scott Pruitt Drains the Swamp at the EPA
+*   _Sen. David Perdue_: The Simple Truth About America's Awful Tax Code
     
-*   _Mary Ham_: Trump Should Get Credit for Bringing Americans Home
+*   _Zoe Tillman_: Federalist Society Helps to Reshape the Courts Under Trump
     
-*   _Sam Amick_: Trump Takes the Bait, and LaVar Ball Wins Again
+*   _Innocent Madawo_: Mugabe Is Not Leaving Without a Fight
     
-*   _Salena Zito_: Erie Tells an Ominous Sign for Democrats
+*   _PEG_: Why Zimbabwe's Next Dictator Will Be Even Worse Than Mugabe
     
-*   _John Nichols_: Democrats Can Win in Alabama--and Everywhere
+*   _Severin Weiland_: What's Next for Merkel and Germany?
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Justice Dept. Sues to Stop AT&T's $85 Billion Time Warner Deal
+*   Ala. Senate Race Shows National Parties' Waning Influence
+*   Charlie Rose Accused of Making Unwanted Sexual Advances
+*   New Allegation Against Franken, This Time Met With Silence
 *   House Passes Tax Bill in First Step Toward Major Overhaul
-*   The Takeaway: Moore Problems for Republicans in Alabama
-*   Hatch vs. Brown: Tired of "That Crap" That Republicans Only Help Rich
-*   McConnell Wants Ethics Probe of Franken in Groping Case
-*   First Republican Senator Opposes Tax Bill in Early Sign of Problems
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalGallup
+*   Alabama Senate Special Election - Moore vs. JonesWBRC-TV/Strategy Research
+    *   Jones45
+    *   Moore47Moore +2
+*   President Trump Job ApprovalQuinnipiac
     *   Approve38
-    *   Disapprove57Disapprove +19
+    *   Disapprove55Disapprove +17
+*   President Trump Job ApprovalGallup
+    *   Approve36
+    *   Disapprove57Disapprove +21
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve41
-    *   Disapprove57Disapprove +16
-*   Direction of CountryRasmussen Reports
-    *   Right Direction33
-    *   Wrong Track61Wrong Track +28
-*   Alabama Senate Special Election - Moore vs. JonesGravis
-    *   Jones47
-    *   Moore42Jones +5
+    *   Approve43
+    *   Disapprove56Disapprove +13
 
 More Latest Polls In The News
 
-*   Dem Rep. Speier: Clinton's Victims "Should Have Been Believed". Most People That Come Forward Tell The Truth
-*   WH: If Trump Didn't Believe Accusations Were Credible, He Would Be In Alabama Campaigning For Roy Moore
+*   Joe Scarborough: "Weak-Minded People Blindly Follow Trump Over Their God"
+*   Trump Voter: If Jesus Christ Himself Told Me Trump Colluded With Russia, I Wouldn't Believe Him
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Clinton: We Have A Man Accused Of Sexual Assault In Oval Office, Accusations Not Taken Seriously
-*   David Brooks: What Roy Moore Did "Highest Level Of Vileness," What Franken Did Shouldn't Be A "Career-Ender"
+*   Hannity: Uranium One Informant Has Evidence of Bribery, Kickback, Extortion, Money Laundering, Racketeering
+*   Dem Rep. Speier: Clinton's Victims "Should Have Been Believed". Most People That Come Forward Tell The Truth
 
 *   Politics
 *   Policy
