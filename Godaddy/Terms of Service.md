@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: September 19, 2017**
+**Last Revised: November 21, 2017**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -747,7 +747,7 @@ For expired domains names purchased through Your account, You acknowledge and ag
 
 ****19**. UNCLAIMED PROPERTY. DORMANCY CHARGES**
 
-Please be advised that if a customer has an outstanding account balance (a credit positive balance) for three (3) years or more for any reason, and (i) GoDaddy is unable to issue payment to such customer or (ii) GoDaddy issued payment to such customer in the form of a paper check, but the check was never cashed, then GoDaddy shall turn over such account balance to the State of Arizona in accordance with state law.  You acknowledge and agree that in either case (i) or (ii) above, GoDaddy may withhold a dormancy charge in an amount equal to the lesser of $15.00 or the total outstanding account balance associated with such customer.    
+Please be advised that if a customer has an outstanding account balance (a credit positive balance) for three (3) years or more for any reason, and (i) GoDaddy is unable to issue payment to such customer or (ii) GoDaddy issued payment to such customer in the form of a paper check, but the check was never cashed, then GoDaddy shall turn over such account balance to the State of Arizona in accordance with state law.  You acknowledge and agree that in either case (i) or (ii) above, GoDaddy may withhold a dormancy charge in an amount equal to the lesser of $25.00 or the total outstanding account balance associated with such customer.    
 
 ****20**. SUCCESSORS AND ASSIGNS**
 
@@ -833,5 +833,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 9/19/17  
+Revised: 11/21/17  
 Copyright © 2005-2017 GoDaddy.com, LLC All Rights Reserved.
