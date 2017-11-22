@@ -163,6 +163,7 @@ Some Mozilla websites allow you to make purchases (such as apps or gear) or make
 Back to Mozilla Privacy Policy Mozilla Mozilla
 
 *   About
+*   Blog
 *   Contact Us
 *   Donate
 *   Contribute to this site
@@ -174,10 +175,9 @@ Back to Mozilla Privacy Policy Mozilla Mozilla
 Firefox
 
 *   Download Firefox
-*   Android Browser
-*   iOS Browser
-*   Focus Browser
-*   Desktop Browser
+*   Desktop
+*   Mobile
+*   Features
 *   Beta, Nightly, Developer Edition
 *   *   Twitter (@firefox)
     *   Facebook (Firefox)
