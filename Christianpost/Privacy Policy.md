@@ -7,7 +7,7 @@
 *   living
 *   Opinion
 *   Buzzvine
-*   Blogs
+*   Voices
 *   Video
 *   Ipost
 
