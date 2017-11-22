@@ -1,7 +1,3 @@
-Sign In Create Account Need Help? Explore common problems Verify my Origin Login Link Origin to my PSN ID How do I redeem a Code? I can't play online!
-
-Can't find what you're looking for? Go to EA Help, Answers HQ or EA Forums
-
 Home Menu AboutCareersGamesHome Close AboutCareersGamesPvZ GamesBejeweled GamesInspire the world to play!We Make Great Games
 
 Our games are sprinkled with a whirlwind of smile-inducing awesomeness and polished to a shiny sheen that keeps the world coming back again and again. And best of all, you’ll find our games on mobile, console, PC, and many other devices – you may even be able to play them on the moon!
@@ -11,7 +7,3 @@ Learn More We Are Worldwide SEATTLE SEATTLE VANCOUVER VANCOUVER SHANGHAI SHANGHA
 You are not eligible to view this content.
 
 Enter your birthdate/ /
-
-This playlist may contain content that is inappropriate for children
-
-Heroes are born on the battlefront, and in Star Wars Battlefront 2, you're able to experience it for yourself. Buy Now Close OverlayClose OverlayOpen OverlayExplore Star Wars Battlefront II
