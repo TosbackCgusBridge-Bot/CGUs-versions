@@ -771,9 +771,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 50% off all turtlenecks and sweaters. 40% off everything else!
+Receive 40% off your order. Plus, down vests from $25!
 
-code: ENJOY pin: 7612 DETAILS
+code: SWEET pin: 1437 DETAILS
 
 Shop Now Customer Service Menu
 
