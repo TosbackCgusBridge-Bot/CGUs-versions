@@ -1,8 +1,8 @@
-<iframe height='0' src='https://www.googletagmanager.com/ns.html?id=GTM-PPCSWP' style='display:none;visibility:hidden' width='0'></iframe>.
+Outsourced Candidate Screening | CareerBuilder for Employers <iframe height='0' src='https://www.googletagmanager.com/ns.html?id=GTM-PPCSWP' style='display:none;visibility:hidden' width='0'></iframe>. For Employers
 
+*   $0.00
 *   Sign In Already Purchased?  
     Sign In to Your Account!
-*   $0.00
 
 Hello.
 
@@ -34,18 +34,7 @@ Sign In or Sign Up
     *   About CareerBuilder
     *   Press Room
 *   Resource Center
-
-SearchSearchSearchSearchSearch ResultsClose
-
-Searching. . . .
-
-Resources
-
-Sorry, No Results Found
-
-Oops! Site Search is Currently Experiencing Some Difficulties
-
-Request Demo
+*   Request Demo
 
 *   Sign In
 *   $0.00 Cart
@@ -141,4 +130,4 @@ Sign Up for the Latest Industry News, Tips and Advice Email Comments Subscribe
 *   Terms &. Conditions
 *   Fraud
 
-Clicky! <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=575283812576156&amp;ev=PixelInitialized">. <img height='1' src='https://www.facebook.com/tr?id=575283812576156&amp;ev=PageView&amp;noscript=1' style='display:none' width='1'>. <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn\_id=l5dns&amp;p\_id=Twitter">. <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn\_id=l5dns&amp;p\_id=Twitter">
+Clicky! <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=575283812576156&amp;ev=PixelInitialized">. <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn\_id=l5dns&amp;p\_id=Twitter">. <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn\_id=l5dns&amp;p\_id=Twitter">. <img height='1' src='https://www.facebook.com/tr?id=575283812576156&amp;ev=PageView&amp;noscript=1' style='display:none' width='1'>.
