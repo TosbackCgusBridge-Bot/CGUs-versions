@@ -55,14 +55,13 @@ Skip to main content Online Trust Alliance
     
     *   Membership
     *   OTA Members Portal (Log in Required)
-    *   Donate
     
     _▼_
 *   About Us
     
+    *   Members
     *   History &. Overview
     *   Vision for Trust
-    *   Members
     *   Advisory Board
     *   Staff
     
@@ -152,14 +151,13 @@ Membership
 
 *   Membership
 *   OTA Members Portal (Log in Required)
-*   Donate
 
 About Us
 
-*   History &. Overview
-*   Vision for Trust
 *   Members
     *   Members
+*   History &. Overview
+*   Vision for Trust
 *   Advisory Board
 *   Staff
 
