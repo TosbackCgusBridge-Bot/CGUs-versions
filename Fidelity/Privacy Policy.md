@@ -289,6 +289,7 @@ View the Fidelity Investments and the Fidelity Funds Privacy Notice (PDF)
 *   CDs
 *   Options
 *   Active Trader Pro
+*   Investor Centers
 
 *   Stocks
 *   Online Trading
