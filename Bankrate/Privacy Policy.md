@@ -19,7 +19,7 @@ Company Information
 
 Privacy Policy
 
-Last updated: September 28, 2016
+Last updated: November 21, 2017
 
 This Privacy Policy applies to this website, www.bankrate.com, owned and operated by Bankrate, LLC This Privacy Policy describes how we collect, use and share information when you use our Services. The terms "we," "us," or "our" mean Bankrate, LLC, a Delaware corporation, and its legal subsidiaries and affiliates. The term "Services," means, collectively, various websites, applications, widgets, email notifications and other mediums, or portions of such mediums, through which you have accessed this Privacy Policy. By accessing or using our Services, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of Your Information (collectively, "Use of Your Information") as described in this Privacy Policy.
 
@@ -32,11 +32,6 @@ This Privacy Policy applies to our Use of Your Information as a result of you us
 *   Information collected by any person or entity other than us, even if related to our Services (such as a third-party website, application, widget or lead form).
 
 In addition to this Privacy Policy, our Services are also governed by our Terms of Use and any other documents referred to in this Privacy Policy and our Terms of Use. These documents describe information that we collect from you or that you provide on or to the Services and how Your Information may be used and disclosed by us. They also describe the choices available to you regarding our Use of Your Information and how you can access and update Your Information. Please read this Privacy Policy and the Terms of Use carefully.
-
-**TRUSTe Scope**  
-The TRUSTe program covers only information that is collected through www.bankrate.com, and my.bankrate.com and does not cover information collected through mobile applications. It also does not cover information that may be collected through software downloaded from the website.
-
-In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. If you have unresolved privacy or data use concern that have not addressed satisfatorily, please contact TRUSTe at https://feedback- form.truste.com/watchdog/request.
 
 **Information We Collect and Receive About You**  
 We might receive or collect several types of information about you, such as the information described below.
