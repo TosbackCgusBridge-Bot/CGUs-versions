@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Announcing snapcraft 2.35 ›
 *   Join us at the Ubuntu Enterprise Summit! ›
 *   Ubuntu Server Development Summary – 21 Nov 2017 ›
 *   MAAS 2.3.0 (final) Released! ›
 *   LXD Weekly Status #24: LXD 2.20 ›
-*   Introducing the UP² Grove IoT development kit with Ubuntu ›
