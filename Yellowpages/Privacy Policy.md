@@ -272,8 +272,6 @@ Choices &. Controls
 
 How to Contact Us
 
-AT&T has been awarded the TRUSTe Privacy Seal and you may contact TRUSTe if a privacy question is not properly addressed
-
 We Want to Hear from You
 
 Thanks for your feedback on our updated Privacy Policy. We heard you and, as a result, we're adding additional information on how you can exercise your privacy choices. We appreciate you as a customer and we value your thoughts. Please continue to share your feedback through our privacy mailbox.
