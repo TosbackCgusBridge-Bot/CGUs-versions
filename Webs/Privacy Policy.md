@@ -1,3 +1,5 @@
+Starting on November 15th, site analytics history will be reduced to 13 months. Downloads are available for site analytics data older than 13 months on the Site Activity dashboard.
+
 Free Website Builder by Webs
 
 *   How It Works
