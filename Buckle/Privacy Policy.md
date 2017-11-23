@@ -19,7 +19,7 @@ Stay home for the holidays and warm up to cozy knits and soft sweaters. Shop Wom
     *   Login
     *   |
     *   Register
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   0MY FAVORITES
 *   MY BAG
