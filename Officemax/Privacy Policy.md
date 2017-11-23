@@ -16,7 +16,7 @@ SEG1 hp
     enter your number below.
 *   Login or Register
 
-Office Depot Deals MuJIuDb0H4yRgmGbYIWDsjE
+Office Depot Deals MSM01U4x\_n3vgn5DPanbOOy
 
 Search Suggestions
 
@@ -152,7 +152,7 @@ Give them a gift card.
 Never expires, ships for free
 
 $50 off $150  
-plus 20% back sitewide
+plus 20% back in rewards
 
 2% back in rewards on everything  
 Not a member? Join today. It's FREE!
