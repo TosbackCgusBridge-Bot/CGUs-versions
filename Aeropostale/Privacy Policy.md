@@ -288,7 +288,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**50-70% OFF** + **FREE SHIPPING ON ALL HOODIES + JOGGERS!**
+**60-70% OFF** + **FREE SHIPPING ON ORDERS OVER $50!**
 
 *   My Account My Account Login Register
 
@@ -527,34 +527,46 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Promotions
+ON ORDERS OVER $50 Search Catalog Search Shop Girls Shop Guys shop girls shop guys
 
-Previous*   Puffer Vests Starting at $15.87 Puffer Vests
-*   Jeggings Starting at Jeggings
-*   Hoodies + Joggers Starting at $14.87 Hoodies + Joggers
+Previous*   Plaid Shirts Starting at $13.87
+*   Sweaters Starting at Sweaters
 *   Puffer Vests Starting at $15.87 Puffer Vests
-*   Beanies Starting at $4.87 Beanies
-*   Tees Starting at $5.87 Tees
+*   Jeggings Starting at $15.87 Jeggings
+*   Essential Tees Starting at $4.87 Essential Tees
 *   Tees Starting at $5.87 Tees
 *   Long Sleeve Tops Starting at $8.87 Long Sleeve Tops
 *   Velour Tops + Bottoms Starting at $9.87 Velour Tops + Bottoms
-*   Polos Starting at $3.99 Polos
-*   Must Have Tops Starting at $11.87 Must Have Tops
 *   Hoodies + Joggers Starting at $9.87 Hoodies + Joggers
-*   Long Sleeve Tops Starting at $11.87 Long Sleeve Tops
-*   Plaid Shirts Starting at $13.87 Plaid Shirts
+*   Must Have Tops Starting at $11.87 Must Have Tops
+*   Plaid Shirts Starting at $13.87
 *   Sweaters Starting at Sweaters
 *   Puffer Vests Starting at $15.87 Puffer Vests
-*   Jeggings Starting at Jeggings
+*   Jeggings Starting at $15.87 Jeggings
+*   Essential Tees Starting at $4.87 Essential Tees
+*   Tees Starting at $5.87 Tees
+*   Long Sleeve Tops Starting at $8.87 Long Sleeve Tops
+*   Velour Tops + Bottoms Starting at $9.87 Velour Tops + Bottoms
+Next
+
+Previous*   Long Sleeve Tops Starting at $11.87 Long Sleeve Tops
+*   Plaid Shirts Starting at $13.87 Plaid Shirts
 *   Hoodies + Joggers Starting at $14.87 Hoodies + Joggers
 *   Puffer Vests Starting at $15.87 Puffer Vests
 *   Beanies Starting at $4.87 Beanies
 *   Tees Starting at $5.87 Tees
+*   Polos Starting at $3.99 Polos
+*   Long Sleeve Tops Starting at $11.87 Long Sleeve Tops
+*   Plaid Shirts Starting at $13.87 Plaid Shirts
+*   Hoodies + Joggers Starting at $14.87 Hoodies + Joggers
+*   Puffer Vests Starting at $15.87 Puffer Vests
+*   Beanies Starting at $4.87 Beanies
 *   Tees Starting at $5.87 Tees
-*   Long Sleeve Tops Starting at $8.87 Long Sleeve Tops
+*   Polos Starting at $3.99 Polos
+*   Long Sleeve Tops Starting at $11.87 Long Sleeve Tops
 Next
 
-shop girls shop guys shop sabrina's picks learn more shop girls shop guys Shop Gifts For Her Shop Gifts For Him Shop Tapout <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+shop girls shop guys shop gifts for her shop gifts for him shop gifts for him shop sabrina's picks learn more <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. HOLIDAY HELPDESK FOR STORE HOURS, SHIPPING &. MORE VISIT OUR HOLIDAY HELPDESK SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
@@ -587,4 +599,4 @@ Stay Connected
 *   Refer a Friend
 *   College Student Discount
 
-© 2017 Aeropostale. All Rights Reserved. close dialogBe the first to joinThe exclusive Black Friday SaleAdd your email to the listPlease enter aboveJoin the list No thanksclose dialog
+© 2017 Aeropostale. All Rights Reserved. close dialogBlack Friday Sale60-70% OffEverything + Exclusive DoorbustersPlease enter aboveOffer Ends In:3days:05hours:32minutes:42secondsShop the deals No thanksclose dialog
