@@ -1,5 +1,4 @@
-Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking Subscribe, I agree to the WebMD Terms &. Conditions &. Privacy Policy  
-and understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
+Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -530,4 +529,4 @@ WebMD does not provide medical advice, diagnosis or treatment.
 
 See additional information.
 
-<img alt="" height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=428750600651790&ev=PageView&noscript=1"/><img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2618142259440&noscript=1" /><div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/875612316/?guid=ON&amp;script=0"/>. </div>.
+<img alt="" height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=428750600651790&ev=PageView&noscript=1"/><img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2618142259440&noscript=1" /><div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/875612316/?guid=ON&amp;script=0"/>. </div>. undefinedundefinedundefinedundefinedundefinedundefinedundefinedundefined
