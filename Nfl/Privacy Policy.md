@@ -1,17 +1,19 @@
-*   ATL6-434SEA6-431Final
-*   TEN6-417PIT8-240Final
-*   TB4-630MIA4-620Final
-*   DET6-427CHI3-724Final
-*   JAX7-319CLE0-107Final
-*   BAL5-523GB5-50Final
-*   ARI4-621HOU4-631Final
-*   LA7-37MIN8-224Final
-*   WAS4-631NO8-234Final (OT)
-*   KC6-49NYG2-812Final (OT)
-*   BUF5-524LAC4-654Final
-*   CIN4-620DEN3-717Final
-*   NE8-233OAK4-68Final
-*   PHI9-137DAL5-59Final
+*   MIN8-2DET6-4November 23, 2017 12:30:00 PM EST ET
+*   LAC4-6DAL5-5November 23, 2017 4:30:00 PM EST ET
+*   NYG2-8WAS4-6November 23, 2017 8:30:00 PM EST ET
+*   TB4-6ATL6-4November 26, 2017 1:00:00 PM EST ET
+*   CLE0-10CIN4-6November 26, 2017 1:00:00 PM EST ET
+*   TEN6-4IND3-7November 26, 2017 1:00:00 PM EST ET
+*   BUF5-5KC6-4November 26, 2017 1:00:00 PM EST ET
+*   MIA4-6NE8-2November 26, 2017 1:00:00 PM EST ET
+*   CAR7-3NYJ4-6November 26, 2017 1:00:00 PM EST ET
+*   CHI3-7PHI9-1November 26, 2017 1:00:00 PM EST ET
+*   SEA6-4SF1-9November 26, 2017 4:05:00 PM EST ET
+*   NO8-2LA7-3November 26, 2017 4:25:00 PM EST ET
+*   JAX7-3ARI4-6November 26, 2017 4:25:00 PM EST ET
+*   DEN3-7OAK4-6November 26, 2017 4:25:00 PM EST ET
+*   GB5-5PIT8-2November 26, 2017 8:30:00 PM EST ET
+*   HOU4-6BAL5-5November 27, 2017 8:30:00 PM EST ET
 
 *   News
 *   Scores
@@ -19,7 +21,6 @@
 *   Standings
 *   Video
 *   Fantasy
-*   Mexico Game
 *   Tickets
 *   Shop
 *   Teams
@@ -29,20 +30,22 @@
 *   NFL Network
 *   Photos
 
-*   ATL34SEA31Final
-*   TEN17PIT40Final
-*   TB30MIA20Final
-*   DET27CHI24Final
-*   JAX19CLE7Final
-*   BAL23GB0Final
-*   ARI21HOU31Final
-*   LA7MIN24Final
-*   WAS31NO34Final (OT)
-*   KC9NYG12Final (OT)
-*   BUF24LAC54Final
-*   CIN20DEN17Final
-*   NE33OAK8Final
-*   PHI37DAL9Final
+*   MIN8-2DET6-4November 23, 2017 12:30:00 PM EST ET
+*   LAC4-6DAL5-5November 23, 2017 4:30:00 PM EST ET
+*   NYG2-8WAS4-6November 23, 2017 8:30:00 PM EST ET
+*   TB4-6ATL6-4November 26, 2017 1:00:00 PM EST ET
+*   CLE0-10CIN4-6November 26, 2017 1:00:00 PM EST ET
+*   TEN6-4IND3-7November 26, 2017 1:00:00 PM EST ET
+*   BUF5-5KC6-4November 26, 2017 1:00:00 PM EST ET
+*   MIA4-6NE8-2November 26, 2017 1:00:00 PM EST ET
+*   CAR7-3NYJ4-6November 26, 2017 1:00:00 PM EST ET
+*   CHI3-7PHI9-1November 26, 2017 1:00:00 PM EST ET
+*   SEA6-4SF1-9November 26, 2017 4:05:00 PM EST ET
+*   NO8-2LA7-3November 26, 2017 4:25:00 PM EST ET
+*   JAX7-3ARI4-6November 26, 2017 4:25:00 PM EST ET
+*   DEN3-7OAK4-6November 26, 2017 4:25:00 PM EST ET
+*   GB5-5PIT8-2November 26, 2017 8:30:00 PM EST ET
+*   HOU4-6BAL5-5November 27, 2017 8:30:00 PM EST ET
 
 *   News
 *   Scores
@@ -50,7 +53,6 @@
 *   Standings
 *   Video
 *   Fantasy
-*   Mexico Game
 
 *   *   Game Pass
     *   Stats
