@@ -1,5 +1,3 @@
-SUBSCRIBE NOWto get full access
-
 *   Home
 *   News
 *   Sports
