@@ -127,7 +127,7 @@ View Nothing But Music on Instagram
 
 The next Pushing the Lens challenge is now live. Submit your photos &. win Sony gear.
 
-1 day ago
+2 days ago
 
 View Tweet
 
@@ -207,7 +207,7 @@ Play A Dazzling Tale of First Love Video hotspot
 
 You &. a friend could win tickets to the #LA premiere of #JUMANJI. Enter for a chance to win now.
 
-1 day ago
+2 days ago
 
 View Tweet
 
