@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Ajit Pai_: How the FCC Can Save the Open Internet
+*   _Jennifer Weiner_: The Women I'm Thankful For
     
-*   _Maya Kosoff_: Republicans Unveil Plans to Nuke the Internet
+*   _Betsy McCaughey_: Shut Down Politicians' Sex-Scandal Hush Funds
     
-*   _Conrad Black_: Hillary's Version of What Happened
+*   _Froma Harrop_: Must We 'Believe' Juanita Broaddrick? No.
     
-*   _Jamie Stiehm_: Leave Bill Alone, Women Never Had a Better President
+*   _Ilya Shapiro_: Trump Is Restoring the Constitutional Order With Court Picks
     
-*   _Liz Peek_: Scandals Finally Catch Up With the Clintons
+*   _Walter Shapiro_: The Republican Tax Bill Is All Hat and No Rabbit
     
-*   _Chris Cillizza_: The Incredible Shrinking Presidency of Donald Trump
+*   _Mike Gonzalez_: Congressional Hispanic Caucus: No Republicans Allowed?
     
-*   _John Solomon_: FBI Informant's Memos Show Russian Push for Uranium One
+*   _Adam Serwer_: The Nationalist's Delusion
     
-*   _Eli Lake_: America's Adversaries Get It: Trump Can Be Ignored
+*   _Michelle Malkin_: Dumb Sensors, Deadly Consequences on the AZ Border
     
-*   _Vivian Bercovici_: Thank Obama for Looming Mideast War Against Iran
+*   _Dennis Bullock_: The Perils of a Non-Compromising Congress
     
-*   _Glenda Elizabeth Gilmore_: Colin Kaepernick &. the Myth of the 'Good' Protest
+*   _Masha Gessen_: Sarah Huckabee Sanders's Degrading Press Briefing
     
-*   _Steve Cortes_: How to Save the City of Big Shoulders
+*   _Laura Ingraham_: Media Won't Say It, But It's Been a Great Year for Workers
     
-*   _Jim Edwards_: This Is the Tech Bubble We've Been Waiting For
+*   _Jonathan Tobin_: Democrats Have Lost Bill Clinton's Winning Formula
     
-*   _Michael Wear_: Why Dems Must Regain the Trust of Religious Voters
+*   _Ezra Klein_: The Best Analogy to Trump in 2017 Is Bush in 2005
     
-*   _Victor Davis Hanson_: Forget 'Trumpism': What is 'Deplorablism'?
+*   _Michael Graham_: Why Republicans Should Be Thankful This Thanksgiving
     
-*   _Michael Tomasky_: Hell, No, Bill Clinton Shouldn't Have Resigned
+*   _John Kirby_: How Sarah Sanders Humiliated the Press
     
-*   _Roger L. Simon_: Why Liberals Are Such Big Hypocrites on Women's Rights
+*   _James Arkin_: Conservative Group Aims to Sell Republican Tax Plan
     
-*   _Michelle Goldberg_: Maybe Al Franken Shouldn't Resign
+*   _Charles Hurt_: Trump Proves His Warrior Spirit by Defending Moore
     
-*   _Patrick Buchanan_: Unserious Nation
+*   _Amanda Marcotte_: Time to Investigate the Sex Charges Against Trump
     
-*   _Paul Krugman_: Lies, Incoherence and Rage on Tax Cuts
+*   _Sen. Ted Cruz &. Michael O'Reilly_: Stop the Next Internet Power Grab
     
-*   _Sen. David Perdue_: The Simple Truth About America's Awful Tax Code
+*   _Michael Grunwald_: Under Trump, U.S. Companies Face Rough Road on Trade
     
-*   _Zoe Tillman_: Federalist Society Helps to Reshape the Courts Under Trump
+*   _Irwin Stelzer_: Trump Is Right: Chinese Car Makers Are Hosing U.S.
     
-*   _Innocent Madawo_: Mugabe Is Not Leaving Without a Fight
+*   _Thomas Lifson_: Uranium One Noose Is Tightening
     
-*   _PEG_: Why Zimbabwe's Next Dictator Will Be Even Worse Than Mugabe
+*   _John Ritch_: This Uranium Deal Was No Scandal
     
-*   _Severin Weiland_: What's Next for Merkel and Germany?
+*   _David Ignatius_: A Beleaguered Tillerson Is Still at the Table
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Justice Dept. Sues to Stop AT&T's $85 Billion Time Warner Deal
 *   Ala. Senate Race Shows National Parties' Waning Influence
-*   Charlie Rose Accused of Making Unwanted Sexual Advances
+*   Conservative Group Aims to Sell Republican Tax Plan
+*   Ingraham: 2017 Has Been a Great Year for Workers
+*   Justice Dept. Sues to Stop AT&T's $85 Billion Time Warner Deal
 *   New Allegation Against Franken, This Time Met With Silence
-*   House Passes Tax Bill in First Step Toward Major Overhaul
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Alabama Senate Special Election - Moore vs. JonesWBRC-TV/Strategy Research
-    *   Jones45
-    *   Moore47Moore +2
-*   President Trump Job ApprovalQuinnipiac
+*   President Trump Job ApprovalGallup
     *   Approve38
     *   Disapprove55Disapprove +17
-*   President Trump Job ApprovalGallup
-    *   Approve36
-    *   Disapprove57Disapprove +21
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove56Disapprove +13
+    *   Approve44
+    *   Disapprove54Disapprove +10
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve36
+    *   Disapprove59Disapprove +23
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve40
+    *   Disapprove55Disapprove +15
 
 More Latest Polls In The News
 
+*   Trump to Women: "It Is A Very Special Time," "I'm Happy A Lot Of These Things Are Coming Out"
+*   President Donald Trump Leads Turkey Pardoning At White House
+*   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
 *   Joe Scarborough: "Weak-Minded People Blindly Follow Trump Over Their God"
 *   Trump Voter: If Jesus Christ Himself Told Me Trump Colluded With Russia, I Wouldn't Believe Him
-*   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Hannity: Uranium One Informant Has Evidence of Bribery, Kickback, Extortion, Money Laundering, Racketeering
-*   Dem Rep. Speier: Clinton's Victims "Should Have Been Believed". Most People That Come Forward Tell The Truth
 
 *   Politics
 *   Policy
