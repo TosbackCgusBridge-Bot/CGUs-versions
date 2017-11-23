@@ -56,8 +56,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
 *   Women FEATURED SHOPS
     
     *   New Arrivals
-    *   Winter Looks To Love
-    *   Sweater Shop
     *   Coats of Winter
     *   Holiday Dressing
     *   Gifts For Her
@@ -72,12 +70,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Petite
     *   Tall
     *   Plus
-    
-    BRANDS
-    
-    *   Lands' End
-    *   Lands' End Canvas
-    *   Lands' End Sport
     
     CATEGORIES
     
@@ -134,12 +126,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Regular
     *   Tall
     *   Big &. Tall
-    
-    BRANDS
-    
-    *   Lands' End
-    *   Lands' End Canvas
-    *   Lands' End Sport
     
     CATEGORIES
     
@@ -324,15 +310,15 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Stockings and Holders
     *   Sale
     
-    More for the Home >.
+    Christmas Shop >.
     
-    *   Outdoor Living
-    *   Storage &. Organization
-    *   Door Mats
-    *   Luggage &. Bags
-    *   Canvas Totes
+    *   Christmas Stockings
+    *   Christmas Ornaments and Tree Skirts
+    *   Christmas Wreaths
+    *   Christmas Bedding
+    *   Christmas Candy &. Treats
+    *   Holiday Decor
     *   Entertaining
-    *   Decor
     
     BEDDING >.
     
@@ -351,13 +337,21 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Beach Towels
     
     KIDS ROOM >.
+    
     *   Kids Bedding
     *   Kids Towels
     *   Seasonal Totes
     *   Toys &. Gifts
     *   Bean Bag Chairs
     *   Sleeping Bags
-    *   Baby BlanketsDOG SHOP >.
+    *   Baby Blankets
+    
+    More for the Home >.
+    *   Outdoor Living
+    *   Storage &. Organization
+    *   Door Mats
+    *   Luggage &. Bags
+    *   Canvas Totes
 *    Gifts FEATURED SHOPS
     
     *   Holiday Shop
@@ -371,11 +365,21 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Gifts-In-A-Tote
     
     GIFT By Recipient
+    
     *   For Her
     *   For Him
     *   For Girls
     *   For Boys
-    *   For HomeGift Cards >.
+    *   For Home
+    
+    Christmas Shop
+    *   Christmas Stockings
+    *   Christmas Ornaments and Tree Skirts
+    *   Christmas Wreaths
+    *   Christmas Bedding
+    *   Christmas Candy &. Treats
+    *   Holiday Decor
+    *   Entertaining
 *   Sale SHOP SALE
     
     *   Women
@@ -412,8 +416,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FEATURED SHOPS
         *   Back
         *   New Arrivals
-        *   Winter Looks To Love
-        *   Sweater Shop
         *   Coats of Winter
         *   Holiday Dressing
         *   Gifts For Her
@@ -427,11 +429,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Petite
         *   Tall
         *   Plus
-    *   BRANDS
-        *   Back
-        *   Lands' End
-        *   Lands' End Canvas
-        *   Lands' End Sport
     *   SHOES
         *   Back
         *   View All
@@ -486,11 +483,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Regular
         *   Tall
         *   Big &. Tall
-    *   BRANDS
-        *   Back
-        *   Lands' End
-        *   Lands' End Canvas
-        *   Lands' End Sport
     *   SHOES
         *   Back
         *   View All
@@ -680,15 +672,15 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Flannel Bedding
         *   Stockings and Holders
         *   Sale
-    *   More for the Home
+    *   Christmas Shop
         *   Back
-        *   Outdoor Living
-        *   Storage &. Organization
-        *   Door Mats
-        *   Luggage &. Bags
-        *   Canvas Totes
+        *   Christmas Stockings
+        *   Christmas Ornaments and Tree Skirts
+        *   Christmas Wreaths
+        *   Christmas Bedding
+        *   Christmas Candy &. Treats
+        *   Holiday Decor
         *   Entertaining
-        *   Decor
     *   BEDDING
         *   Back
         *   Sheets &. Pillowcases
@@ -712,7 +704,13 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Bean Bag Chairs
         *   Sleeping Bags
         *   Baby Blankets
-    *   DOG SHOP
+    *   More for the Home
+        *   Back
+        *   Outdoor Living
+        *   Storage &. Organization
+        *   Door Mats
+        *   Luggage &. Bags
+        *   Canvas Totes
 *    Gifts
     *   Back
     *   Shop all Gifts
@@ -734,7 +732,15 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   For Girls
         *   For Boys
         *   For Home
-    *   Gift Cards
+    *   Christmas Shop
+        *   Back
+        *   Christmas Stockings
+        *   Christmas Ornaments and Tree Skirts
+        *   Christmas Wreaths
+        *   Christmas Bedding
+        *   Christmas Candy &. Treats
+        *   Holiday Decor
+        *   Entertaining
 *   Sale
     *   Back
     *   Shop all Sale
@@ -771,9 +777,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 40% off your order. Plus, down vests from $25!
+Receive 50% off all home merchandise and totes. 40% off everything else!
 
-code: SWEET pin: 1437 DETAILS
+code: EXCITE pin: 4113 DETAILS
 
 Shop Now Customer Service Menu
 
