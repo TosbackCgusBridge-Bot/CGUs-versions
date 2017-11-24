@@ -235,15 +235,15 @@ Print | Citation &. Date | Reprint
 
 Print | Citation &. Date | Reprint
 
-More to Explore     by Taboola by Taboola Sponsored Links Sponsored Links Promoted Links Promoted Links .TophatterShoppers Are Getting Unbelievable Deals With This Little-Known SiteTophatterSafesound Personal AlarmDon't Like Guns? Carry This InsteadSafesound Personal Alarm1MD3 Common Foods Surgeons Are Now Calling "DEATH FOODS"1MDJuveTressWant A Gorgeous Head Of Hair Again? Don't Use This Popular ProductJuveTressLivinglyBefore They Were Famous: 18 Celebs Who've Changed a LotLivinglyStandardNewsSinking Of Titanic Revealed In These Heartbreaking PhotosStandardNewsIG CriticWhen Rescuers Found This Dog They Were StunnedIG CriticTalk Tech Daily | Sponsored LinksColorado Landline Phones Are In For a "Killer" ReplacementTalk Tech Daily | Sponsored Links Trending
+More to Explore     by Taboola by Taboola Sponsored Links Sponsored Links Promoted Links Promoted Links .Safesound Personal AlarmDon't Like Guns? Carry This InsteadSafesound Personal AlarmHome ChefDenver,This Meal Service Cheaper Than Your Local StoreHome ChefZimbioThe Greatest Animal Photobombs of All TimeZimbioWhite House Black MarketPants So Comfy You'll Want To Live In Them - Shop NowWhite House Black MarketHoochUnreal Before And After Photos Of Adult Film StarsHoochTophatterShoppers Are Getting Unbelievable Deals With This Little-Known SiteTophatterYahoo SearchHere Are The Best Cell Phone Plans For SeniorsYahoo SearchWell+Good | BrandlessThis Healthy Online Grocery Store Sells Everything For $3Well+Good | Brandless Trending
 
-**What's the Fastest Way to Thaw a Frozen Turkey?**
+**After Cyber Monday, Will People Open Their Wallets for Giving Tuesday?**
 
-**Ultimate Guide to the Macy's Thanksgiving Day Parade**
+**3 Myths About Smartphone Batteries That Need to Die**
 
-**Could Turkey Trots Get a Whole Nation to Run?**
+**Do You Have to Pull Over for a Funeral Procession?**
 
-More to Explore Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksWorking for HowStuffWorksAbout HowStuffWorks10 Reasons Not to Go to the ER10 Worst Computer Viruses of All Timeby Taboolaby Taboola
+More to Explore Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksWorking for HowStuffWorksHow Google WorksAbout HowStuffWorks10 Reasons Not to Go to the ERby Taboolaby Taboola
 
   
 
