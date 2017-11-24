@@ -6,7 +6,7 @@ This policy (together with our terms of use and any other documents referred to 
 
 We may amend this privacy policy at any time. Any changes we may make will be posted on this page, so please check back frequently. Your continued use of our website(s) will constitute your acceptance of, and agreement to, any changes to the privacy policy.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Zoopla Limited of The Cooperage, 5 Copper Row, London, SE1 2LH. Zoopla Limited is part of the ZPG Plc group of companies, comprising ZPG Plc and its subsidiaries, which are referred to in this privacy policy, collectively, as the "ZPG Group of Companies" and, individually, a "ZPG Group Company".
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Zoopla Limited of The Cooperage, 5 Copper Row, London, SE1 2LH. Zoopla Limited is part of the Zoopla Limited group of companies, comprising Zoopla Limited and its subsidiaries, which are referred to in this privacy policy, collectively, as the "ZPG Group of Companies" and, individually, a "ZPG Group Company".
 
 Information we may collect from you
 
@@ -66,7 +66,7 @@ Our website uses cookies to distinguish you from other users of our website. Thi
 
 Opting Out of Collection of Information by Third Parties
 
-ZPG Plc’s third-party ad servers, ad network providers, and third-party advertisers (the **_ZPG Group Ad Providers_** ) may provide you with advertisements that you may see on our website(s) or on other affiliated websites. To improve the relevancy and help measure the effectiveness of such advertisements, the ZPG Group Ad Providers may use cookies, web beacons, clear .gifs or similar technologies. These are used to record users’ activity, such as the pages visited, and to learn what types of information are of most interest to the users. Use of these technologies by ZPG Group Ad Providers is subject to their own privacy policies and is not covered by our privacy policy. For more information regarding the choices you have about these technologies (such as opting-out), click here.
+Zoopla Limited’s third-party ad servers, ad network providers, and third-party advertisers (the **_ZPG Group Ad Providers_** ) may provide you with advertisements that you may see on our website(s) or on other affiliated websites. To improve the relevancy and help measure the effectiveness of such advertisements, the ZPG Group Ad Providers may use cookies, web beacons, clear .gifs or similar technologies. These are used to record users’ activity, such as the pages visited, and to learn what types of information are of most interest to the users. Use of these technologies by ZPG Group Ad Providers is subject to their own privacy policies and is not covered by our privacy policy. For more information regarding the choices you have about these technologies (such as opting-out), click here.
 
 Your rights
 
