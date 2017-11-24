@@ -22,7 +22,7 @@ OK Log in to AVG MyAccount MENU Skip to content Close
     *   AVG AntiVirus for Mac®
     *   HMA! Pro VPN NEW
     *   All products
-*   Android
+*   Mobile
     *   **Android Apps for Mobile and Tablet**
     *   AVG AntiVirus for Android™
     *   AVG Cleaner™ for Android™
