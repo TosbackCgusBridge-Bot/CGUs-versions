@@ -318,8 +318,7 @@ Home >. Filter by specs Offers
 *   Extended Holiday Hours! 9am-11pm on Black Friday &. Cyber Mon. See Complete Extended Holiday Schedule. >
 *   Free Shipping &. Free Returns for the Holidays. Learn More >
 
-PrevNext Black Friday starts now!  
-Our biggest sale of the year.
+PrevNext Our biggest sale of the year.
 
 Save up to 60%. Sale ends Nov. 26
 
@@ -448,6 +447,7 @@ Holiday Laptops Tablets Desktops Deals Holiday Laptops Tablets Desktops Deals Ch
     *   Product FAQs
     *   Order Visibility Portal
     *   Technical Support
+    *   Return Policy
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 
 © 2017   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
