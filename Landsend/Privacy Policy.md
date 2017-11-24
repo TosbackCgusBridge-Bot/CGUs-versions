@@ -777,9 +777,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 50% off all home merchandise and totes. 40% off everything else!
+Receive 50% off all sleep styles. 40% off everything else!
 
-code: EXCITE pin: 4113 DETAILS
+code: GOBBLE pin: 3409 DETAILS
 
 Shop Now Customer Service Menu
 
