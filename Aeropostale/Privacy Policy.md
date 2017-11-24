@@ -599,4 +599,4 @@ Stay Connected
 *   Refer a Friend
 *   College Student Discount
 
-© 2017 Aeropostale. All Rights Reserved. close dialogBlack Friday Sale60-70% OffEverything + Exclusive DoorbustersPlease enter aboveOffer Ends In:3days:05hours:32minutes:42secondsShop the deals No thanksclose dialog
+© 2017 Aeropostale. All Rights Reserved. close dialogBlack Friday Sale60-70% OffEverything + Exclusive DoorbustersPlease enter aboveOffer Ends In:2days:05hours:32minutes:48secondsShop the deals No thanksclose dialog
