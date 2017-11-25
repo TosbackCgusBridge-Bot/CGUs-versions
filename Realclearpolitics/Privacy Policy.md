@@ -102,6 +102,38 @@
     *   About
     *   Media Kit
 
+*   _Thomas Friedman_: Saudi Arabia's Arab Spring, at Last
+    
+*   _Michael Barone_: Merkel - and Davos - Rebuked in Germany
+    
+*   _Klaus Brinkbaumer_: The End of the End of History
+    
+*   _James Kirchick_: Meet Zimbabwe's New Boss, Same as the Old Boss
+    
+*   _Maureen Dowd_: My Brother Kevin's Not Tired of Winning
+    
+*   _Rich Lowry_: After Weinstein, a Cultural Revolution
+    
+*   _Sarah Jaffe_: Students Are Right: There Are No Safe Spaces
+    
+*   _Tammy Bruce_: The Liberal Ruse of Feminism
+    
+*   _Eugene Robinson_: Congress Should Probe Trump's Alleged Sexual Misconduct
+    
+*   _John Phillips_: Al Gore's Dark Past an Inconvenient Truth
+    
+*   _Amie Parnes_: How Dem Insiders Rank the 2020 Contenders
+    
+*   _Matthew Rozsa_: The Case for Hillary Clinton in 2020
+    
+*   _Mike Huckabee_: Let's Give Lois Lerner a Safe, Taxpayer-Funded Home
+    
+*   _Jeff Spross_: Killing the AT&T-Time Warner Deal Would Be Radical. Good.
+    
+*   _Henry Grabar_: Black Friday Ain't What It Used to Be
+    
+*   _James Robbins_: Mattel Markets 'Hijab Barbie' to Trump-Hating Parents
+    
 *   _Jayme Metzgar_: How the Civil War Gave Us Today's Thanksgiving
     
 *   _David Von Drehle_: Thanksgiving in a World That Seems on the Verge of Collapse
@@ -110,45 +142,13 @@
     
 *   _Charles Blow_: Thankfully Recommitting to Resistance
     
-*   _Victor Davis Hanson_: China's New Greater East Asia Co-Prosperity Sphere
+*   _Christian Schneider_: GOP Tax Plan Is Right to Kill Individual Mandate
     
-*   _Jennifer Weiner_: The Women I'm Thankful For
+*   _Jules Witcover_: GOP Doesn't Get Americans Depend on Obamacare
     
-*   _Betsy McCaughey_: Shut Down Politicians' Sex-Scandal Hush Funds
+*   _Anna North_: Dems Face Important Test in Franken. They've Failed It Before
     
-*   _Froma Harrop_: Must We 'Believe' Juanita Broaddrick? No.
-    
-*   _Ilya Shapiro_: Trump Is Restoring the Constitutional Order With Court Picks
-    
-*   _Walter Shapiro_: The Republican Tax Bill Is All Hat and No Rabbit
-    
-*   _Mike Gonzalez_: Congressional Hispanic Caucus: No Republicans Allowed?
-    
-*   _Adam Serwer_: The Nationalist's Delusion
-    
-*   _Michelle Malkin_: Dumb Sensors, Deadly Consequences on the AZ Border
-    
-*   _Dennis Bullock_: The Perils of a Non-Compromising Congress
-    
-*   _Masha Gessen_: Sarah Huckabee Sanders's Degrading Press Briefing
-    
-*   _Laura Ingraham_: Media Won't Say It, But It's Been a Great Year for Workers
-    
-*   _Jonathan Tobin_: Democrats Have Lost Bill Clinton's Winning Formula
-    
-*   _Ezra Klein_: The Best Analogy to Trump in 2017 Is Bush in 2005
-    
-*   _Michael Graham_: Why Republicans Should Be Thankful This Thanksgiving
-    
-*   _John Kirby_: How Sarah Sanders Humiliated the Press
-    
-*   _James Arkin_: Conservative Group Aims to Sell Republican Tax Plan
-    
-*   _Charles Hurt_: Trump Proves His Warrior Spirit by Defending Moore
-    
-*   _Amanda Marcotte_: Time to Investigate the Sex Charges Against Trump
-    
-*   _Sen. Ted Cruz &. Michael O'Reilly_: Stop the Next Internet Power Grab
+*   _Jonathan Chait_: Endorsing Roy Moore Is the Trumpiest Decision Ever
     
 
 *   Previous
@@ -284,8 +284,8 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Behar: I Can't Have Dinner With Trump Supporters. Democrats Need To Go "Lower," Ditch Wonky Talk
 *   Trump to Women: "It Is A Very Special Time," "I'm Happy A Lot Of These Things Are Coming Out"
-*   President Donald Trump Leads Turkey Pardoning At White House
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
 *   Joe Scarborough: "Weak-Minded People Blindly Follow Trump Over Their God"
 *   Trump Voter: If Jesus Christ Himself Told Me Trump Colluded With Russia, I Wouldn't Believe Him
