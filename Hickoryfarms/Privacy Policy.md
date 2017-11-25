@@ -126,7 +126,7 @@
     View All Categories Shop by Category*   Black Friday
     *   Buy One, Get One
 
-1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Free Shipping, No Minimum!\* Black Friday Starts Now! <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. Privacy Policy Information We Collect and How it is Used
+1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Free Shipping, No Minimum!\* Shop Black Friday Today! <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. Privacy Policy Information We Collect and How it is Used
 
 We may share your peronally-identifiable information, including your name, address, e-mail address, as well as a record of any transaction you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide anonymous. To choose not to have this information used by our third-party advertising partner click here.
 
@@ -146,6 +146,9 @@ Hickory Farms' Privacy Policy is subject to change without notice. At any time, 
 **Conditions of Use**  
 Any dispute over privacy is subject to this Privacy Policy and our Terms of Use.
 
+**Security**  
+Hickory Farms is committed to maintaining safety and security for our web site users. Please refer to our security page for additional details.
+
 Sign up for gift ideas &. exclusive offers! Sign Up
 
 Customer Service
@@ -155,6 +158,7 @@ Customer Service
 *   Where to Buy
 *   Request a Catalog
 *   My Account
+*   Security
 
 About Us
 
