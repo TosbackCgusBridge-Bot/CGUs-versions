@@ -9,220 +9,217 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 *   All EventsShop Sale Events
     
     *   The Black Friday Event
-    *   Johnny Was &. More Up to 65% Off
-    *   Derek Lam Up to 75% Off
-    *   Holiday Jewelry Under $30: Eye Candy LA
-    *   Cozy Slippers Starting at $15
-    *   Luma Italy Up to 75% Off
-    *   On-Trend Sweaters Under $20
-    *   Dasein Handbags Under $40
-    *   All Under $25: Hats, Scarves &. More
-    *   Sleep &. Lingerie Gifts Under $25
-    *   From $15: Initial Necklaces &. More
-    *   Zeus Men's Grooming
-    *   Men's Essentials Under $30
-    *   Men's Slippers Under $40
-    *   Hobo Handbags Up to 60% Off
-    *   Genetic Denim Up to 75% Off
-    *   ABS by Allen Schwartz Up to 75% Off
-    *   Step into Comfort: Shoes ft. Vionic
-    *   Vintage Havana Under $30
-    *   Goby
-    *   Mirenesse Australia Up to 70% Off
-    *   Sterling Silver Jewelry Starting at $15
-    *   Kenneth Cole Up to 60% Off
-    *   Steve Madden Boots &. More Under $75
-    *   Levinas Dress Shirts &. More Up to 80% Off
-    *   Gevril Watches Up to 85% Off
-    *   French Blu Up to 75% Off
-    *   Victoria Beckham Sun &. More Up to 65% Off
-    *   Marchesa Jewelry
-    *   Top Moda Under $30
-    *   Intaglia Boots Up to 60% Off
-    *   Holiday Attire: Cufflinks &. More Up to 70% Off
-    *   Erno Laszlo Up to 55% Off
-    *   FOXYBAE Rose Gold Hair Tools Up to 70% Off
-    *   Holiday Finds: Kids' Favorite Characters from A to Z
-    *   To Grandma's House: Wildkin Travel Accessories
-    *   Original Penguin Kids Starting at $20
-    *   Twisted Tea Towels at $12
-    *   Vases &. Decor We Love Starting at $20
-    *   Free Shipping: Chic Art &. Photography Prints
-    *   One-of-a-Kind Blanket Blowout
+    *   OFRA Cosmetics Starting at $10
+    *   Gracia Starting at $30
+    *   Catherine Catherine Malandrino Up to 70% Off
+    *   Inhabit Up to 80% Off
+    *   Dolce Cabo Up to 75% Off
+    *   Luxe Skin Care Up to 90% Off
+    *   Electric Yoga Up to 70% Off
+    *   Perry Ellis Up to 65% Off
+    *   TR Premium Up to 90% Off
+    *   MUK LUKS Starting at $15
+    *   Blend Mineral Cosmetics Up to 80% Off
+    *   Coatigans, Knitted Jackets &. More Up to 65% Off
+    *   CZ by Kenneth Jay Lane Up to 75% Off
+    *   Yoki Starting at $15
+    *   Holiday Looks: On-Trend Styles Under $30
+    *   Free Shipping: Brazilian Cowhide &. Sheepskin Up to 80% Off
+    *   UKIES Up to 65% Off
+    *   Leather Wallets &. More Starting at $15
+    *   Godiva Boots Up to 65% Off
+    *   Fall Favorites: Boots &. Booties Under $35
+    *   Suzy Levian Jewelry Under $80
+    *   Marcasite Jewelry Favorites Starting at $20
+    *   Free Shipping: Bedding Blowout
+    *   Light It Up: LED Lighting &. More from $10
+    *   iHome Tech Accessories Starting at $10
+    *   Free Shipping: Gifts for Men Starting at $14
+    *   Kevyn Aucoin Up to 75% Off
+    *   Tweezerman Starting at $10
+    *   Storage Essentials Under $25
+    *   X-Ray Starting at $20
+    *   Frank Wright Up to 60% Off
+    *   GBX Starting at $30
+    *   Mermaid Tail Blankets Under $10
+    *   Margherita Missoni Kids Up to 70% Off
     *   Le Creuset
-    *   Cuisinart
     *   Peanuts Fine Art by Tom Everhart
     *   Free Shipping: The Rug Market Up to 75% Off
-    
-    *   Party Ready: Holiday Looks from Whyte Eyelash
+    *   Free Shipping: Amrapur Bath Up to 80% Off
     *   Storage Must-Haves Starting at $10
-    *   Free Shipping: Pop Art Pillows Under $20
-    *   GUESS Dresses
-    *   Farmhouse-Inspired Decor &. More Starting at $10
-    *   Free Shipping: Pet Beds Up to 60% Off
+    *   All Under $25: Hats, Scarves &. More
+    *   Dasein Handbags Under $40
+    *   Luma Italy Up to 75% Off
+    *   On-Trend Sweaters Under $20
+    *   Derek Lam Up to 75% Off
+    
+    *   Cozy Slippers Starting at $15
+    *   Zeus Men's Grooming
+    *   Holiday Jewelry Under $30: Eye Candy LA
+    *   Men's Slippers Under $40
+    *   Sleep &. Lingerie Gifts Under $25
+    *   Original Penguin Kids Starting at $20
+    *   Step into Comfort: Shoes ft. Vionic
+    *   Intaglia Boots Up to 60% Off
+    *   Erno Laszlo Up to 55% Off
+    *   French Blu Up to 75% Off
+    *   Marchesa Jewelry
+    *   Levinas Dress Shirts &. More Up to 80% Off
+    *   Gevril Watches Up to 85% Off
+    *   Mirenesse Australia Up to 70% Off
+    *   Goby
+    *   To Grandma's House: Wildkin Travel Accessories
+    *   Kenneth Cole Up to 60% Off
+    *   Steve Madden Boots &. More Under $75
+    *   FOXYBAE Rose Gold Hair Tools Up to 70% Off
+    *   Holiday Finds: Kids' Favorite Characters from A to Z
+    *   Hobo Handbags Up to 60% Off
+    *   One-of-a-Kind Blanket Blowout
+    *   ABS by Allen Schwartz Up to 75% Off
+    *   Vintage Havana Under $30
+    *   14K Gold Jewelry &. More Starting at $15
+    *   Top Moda Under $30
+    *   Genetic Denim Up to 75% Off
+    *   Vases &. Decor We Love Starting at $20
+    *   Johnny Was &. More Up to 65% Off
+    *   Victoria Beckham Sun &. More Up to 65% Off
+    *   Twisted Tea Towels at $12
     *   Noir Jewelry Starting at $15
     *   Evening Clutches Starting at $20
-    *   Katy Perry
     *   Party Ready: Men's Dress Shoes
-    *   Final Touches: Wraps, Kimonos &. More
     *   Set to Fete: Tights, Sheers &. Socks Under $30
-    *   Ouidad Under $20
-    *   Manas
+    *   Katy Perry
+    *   Final Touches: Wraps, Kimonos &. More
+    *   Korean Beauty: Goodal &. More
+    *   Flow Society Kids
+    *   Car Storage &. Organization Starting at $10
+    *   Free Shipping: Pillows Up to 50% Off
     *   Preschool Prep Company
-    *   Lalique Fragrances
-    *   LaFonn Jewelry &. More Up to 75% Off
-    *   Bright &. Bold: Llum Up to 70% Off
+    *   ChinUp Masks
+    *   English Laundry
+    *   Free Shipping: Lighting We Love
+    
+    *   Everyday Kitchen Essentials Starting at $10
+    *   Ouidad Under $20
+    *   Andrew Christian
     *   ASICS Kids
     *   ASICS Men
-    *   Baldinini
-    *   English Laundry
-    *   Andrew Christian
     *   Micros Under $25
-    *   Flow Society Kids
-    *   Korean Beauty: Goodal &. More
-    *   Suits, Dress Shirts &. More
-    *   Marrakech &. Anorak Up to 70% Off
-    *   Splendid Starting at $35
-    *   Etienne Marcel Up to 80% Off
-    *   Do + Be
-    *   Savvy Cie Jewelry Up to 85% Off
-    *   Free Shipping: Pillows Up to 50% Off
-    *   Splendid Shoes
-    *   Car Storage &. Organization Starting at $10
-    *   Free Shipping: Lighting We Love
-    *   Ready to Run: Active Picks Up to 65% Off
-    *   ASICS
-    *   House of Harlow 1960 Jewelry
-    *   Tom Ford Sun
-    *   Everyday Kitchen Essentials Starting at $10
-    *   Liebeskind Berlin
+    *   Lalique Fragrances
+    *   Free Shipping: NFL Gifts Starting at $30
+    *   Bright &. Bold: Llum Up to 70% Off
     *   Free Shipping: Fashion Bedding Up to 80% Off
+    *   Cuisinart
     *   Prep the Guest Room: Bedding &. More
     *   Free Shipping: Art Steals Up to 70% Off
-    
-    *   The Art of Clean: Sonic Brushes Up to 50% Off
-    *   Apple &. Bears Bath and Body Starting at $10
-    *   Deux Par Deux
-    *   Cute &. Cozy: Kids' Boots
     *   Stance Socks &. More
-    *   Free Shipping: Copper Kitchen Favorites
-    *   Leather Weather: Men's Jackets &. More
-    *   Lucky Brand Men
-    *   Ben Sherman
-    *   Lucky Brand Lounge &. Underwear
-    *   reVive LED Light Therapy
-    *   butter LONDON Up to 50% Off
-    *   Luxe Gifts: Elizabeth and James Fragrances
-    *   FaceBase Cosmetics Under $20
-    *   Skin Chemists Up to 80% Off
-    *   La Fresh Skin Care Starting at $10
-    *   Free Shipping: Luxe Sateen Sheets Starting at $39
-    *   Free Shipping: Rugs, Pillows &. More Starting at $24
-    *   NuvaLash Natural Lash &. Brow Enhancing Serum
-    *   Free Shipping: Statement-Making Art Up to 60% Off
-    *   Sutra Hair Tools Starting at $25
-    *   PUR Cosmetics Starting at $10
+    *   Apple &. Bears Bath and Body Starting at $10
+    *   The Art of Clean: Sonic Brushes Up to 50% Off
+    *   Wall Decals We Love Starting at $10
     *   Slimming Shapers, Bodysuits &. More Up to 65% Off
-    *   Wine Glasses &. More Starting at $12
-    *   Made in Italy: Perla Formentini
-    *   ChinUp Masks
+    *   Luxe Gifts: Elizabeth and James Fragrances
+    *   butter LONDON Up to 50% Off
+    *   reVive LED Light Therapy
     *   Free Shipping: Melange Bath Up to 75% Off
-    *   Free Shipping: NFL Gifts Starting at $30
-    *   Faherty Brand &. More
+    *   Wine Glasses &. More Starting at $12
     *   Zanerobe &. More
+    *   Free Shipping: Rugs, Pillows &. More Starting at $24
     *   Pre de Provence
     *   Hairgenics Lavish Lash &. Brow Serum
-    *   Wall Decals We Love Starting at $10
     *   Gifts for Your Pet Under $25
     *   Bluetooth Blowout
-    *   Free Shipping: Amrapur Bath Up to 80% Off
-    *   Cape Robbin
+    *   Men's Essentials Under $30
+    *   Free Shipping: Chic Art &. Photography Prints
+    *   Holiday Attire: Cufflinks &. More Up to 70% Off
+    *   Party Ready: Holiday Looks from Whyte Eyelash
+    *   GUESS Dresses
+    *   Splendid Shoes
+    *   Suits, Dress Shirts &. More
+    *   FaceBase Cosmetics Under $20
     *   Free Shipping: Sterling Silver, Marcasite &. More
-    *   Skagen Watches
-    *   LAGOS
-    *   Nutrichef Kitchen Electrics Up to 65% Off
-    *   TOV Up to 70% Off
-    *   Jeffrey Campbell
-    *   Love Stitch Starting at $25
-    *   Betsey Johnson Active
+    *   Cape Robbin
+    *   Free Shipping: Luxe Sateen Sheets Starting at $39
+    *   From $15: Initial Necklaces &. More
+    *   Free Shipping: Statement-Making Art Up to 60% Off
+    *   Faherty Brand &. More
+    *   Free Shipping: Copper Kitchen Favorites
+    *   Savvy Cie Jewelry Up to 85% Off
 *   WomenShop Sale Events
     
     *   The Black Friday Event
-    *   Johnny Was &. More Up to 65% Off
-    *   Derek Lam Up to 75% Off
-    *   Holiday Jewelry Under $30: Eye Candy LA
-    *   Cozy Slippers Starting at $15
+    *   OFRA Cosmetics Starting at $10
+    *   Gracia Starting at $30
+    *   Catherine Catherine Malandrino Up to 70% Off
+    *   Inhabit Up to 80% Off
+    *   Dolce Cabo Up to 75% Off
+    *   Luxe Skin Care Up to 90% Off
+    *   Electric Yoga Up to 70% Off
+    *   MUK LUKS Starting at $15
+    *   Blend Mineral Cosmetics Up to 80% Off
+    *   Coatigans, Knitted Jackets &. More Up to 65% Off
+    *   CZ by Kenneth Jay Lane Up to 75% Off
+    *   Yoki Starting at $15
+    *   Holiday Looks: On-Trend Styles Under $30
+    *   UKIES Up to 65% Off
+    *   Leather Wallets &. More Starting at $15
+    *   Godiva Boots Up to 65% Off
+    *   Fall Favorites: Boots &. Booties Under $35
+    *   Suzy Levian Jewelry Under $80
+    *   Marcasite Jewelry Favorites Starting at $20
+    *   Kevyn Aucoin Up to 75% Off
+    *   Tweezerman Starting at $10
+    *   All Under $25: Hats, Scarves &. More
+    *   Dasein Handbags Under $40
     *   Luma Italy Up to 75% Off
     *   On-Trend Sweaters Under $20
-    *   Dasein Handbags Under $40
-    *   All Under $25: Hats, Scarves &. More
+    *   Derek Lam Up to 75% Off
+    *   Cozy Slippers Starting at $15
+    *   Holiday Jewelry Under $30: Eye Candy LA
     *   Sleep &. Lingerie Gifts Under $25
-    *   From $15: Initial Necklaces &. More
-    *   Hobo Handbags Up to 60% Off
-    *   Genetic Denim Up to 75% Off
-    *   ABS by Allen Schwartz Up to 75% Off
     *   Step into Comfort: Shoes ft. Vionic
-    *   Vintage Havana Under $30
-    *   Goby
-    *   Mirenesse Australia Up to 70% Off
-    *   Sterling Silver Jewelry Starting at $15
-    *   Gevril Watches Up to 85% Off
-    *   French Blu Up to 75% Off
-    *   Victoria Beckham Sun &. More Up to 65% Off
-    *   Marchesa Jewelry
-    *   Top Moda Under $30
     *   Intaglia Boots Up to 60% Off
     *   Erno Laszlo Up to 55% Off
+    *   French Blu Up to 75% Off
+    *   Marchesa Jewelry
+    *   Gevril Watches Up to 85% Off
+    
+    *   Mirenesse Australia Up to 70% Off
+    *   Goby
     *   FOXYBAE Rose Gold Hair Tools Up to 70% Off
-    *   Party Ready: Holiday Looks from Whyte Eyelash
-    *   GUESS Dresses
+    *   Hobo Handbags Up to 60% Off
+    *   ABS by Allen Schwartz Up to 75% Off
+    *   Vintage Havana Under $30
+    *   14K Gold Jewelry &. More Starting at $15
+    *   Top Moda Under $30
+    *   Genetic Denim Up to 75% Off
+    *   Johnny Was &. More Up to 65% Off
+    *   Victoria Beckham Sun &. More Up to 65% Off
     *   Noir Jewelry Starting at $15
     *   Evening Clutches Starting at $20
+    *   Set to Fete: Tights, Sheers &. Socks Under $30
     *   Katy Perry
     *   Final Touches: Wraps, Kimonos &. More
-    *   Set to Fete: Tights, Sheers &. Socks Under $30
-    *   Ouidad Under $20
-    *   Manas
-    *   Lalique Fragrances
-    *   LaFonn Jewelry &. More Up to 75% Off
-    
-    *   Baldinini
     *   Korean Beauty: Goodal &. More
-    *   Marrakech &. Anorak Up to 70% Off
-    *   Splendid Starting at $35
-    *   Etienne Marcel Up to 80% Off
-    *   Do + Be
-    *   Savvy Cie Jewelry Up to 85% Off
-    *   Splendid Shoes
-    *   Ready to Run: Active Picks Up to 65% Off
-    *   ASICS
-    *   House of Harlow 1960 Jewelry
-    *   Tom Ford Sun
-    *   Liebeskind Berlin
-    *   The Art of Clean: Sonic Brushes Up to 50% Off
-    *   Apple &. Bears Bath and Body Starting at $10
-    *   reVive LED Light Therapy
-    *   butter LONDON Up to 50% Off
-    *   Luxe Gifts: Elizabeth and James Fragrances
-    *   FaceBase Cosmetics Under $20
-    *   Skin Chemists Up to 80% Off
-    *   La Fresh Skin Care Starting at $10
-    *   NuvaLash Natural Lash &. Brow Enhancing Serum
-    *   Sutra Hair Tools Starting at $25
-    *   PUR Cosmetics Starting at $10
-    *   Slimming Shapers, Bodysuits &. More Up to 65% Off
-    *   Made in Italy: Perla Formentini
     *   ChinUp Masks
+    *   Ouidad Under $20
+    *   Lalique Fragrances
+    *   Apple &. Bears Bath and Body Starting at $10
+    *   The Art of Clean: Sonic Brushes Up to 50% Off
+    *   Slimming Shapers, Bodysuits &. More Up to 65% Off
+    *   Luxe Gifts: Elizabeth and James Fragrances
+    *   butter LONDON Up to 50% Off
+    *   reVive LED Light Therapy
     *   Pre de Provence
     *   Hairgenics Lavish Lash &. Brow Serum
-    *   Cape Robbin
+    *   Party Ready: Holiday Looks from Whyte Eyelash
+    *   GUESS Dresses
+    *   Splendid Shoes
+    *   FaceBase Cosmetics Under $20
     *   Free Shipping: Sterling Silver, Marcasite &. More
-    *   Skagen Watches
-    *   LAGOS
-    *   TOV Up to 70% Off
-    *   Jeffrey Campbell
-    *   Love Stitch Starting at $25
-    *   Betsey Johnson Active
+    *   Cape Robbin
+    *   From $15: Initial Necklaces &. More
+    *   Savvy Cie Jewelry Up to 85% Off
     
     Shop By Category
     *   Clothing
@@ -231,37 +228,37 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Handbags
     *   Accessories
     *   Lingerie
-    *   Watches
     *   Tech Accessories
+    *   Watches
 *   MenShop Sale Events
     
     *   The Black Friday Event
+    *   Perry Ellis Up to 65% Off
+    *   TR Premium Up to 90% Off
+    *   X-Ray Starting at $20
+    *   Frank Wright Up to 60% Off
+    *   GBX Starting at $30
     *   Zeus Men's Grooming
-    *   Men's Essentials Under $30
     *   Men's Slippers Under $40
-    *   Kenneth Cole Up to 60% Off
-    *   Steve Madden Boots &. More Under $75
     *   Levinas Dress Shirts &. More Up to 80% Off
     *   Gevril Watches Up to 85% Off
-    *   Holiday Attire: Cufflinks &. More Up to 70% Off
+    *   Kenneth Cole Up to 60% Off
+    *   Steve Madden Boots &. More Under $75
     *   Party Ready: Men's Dress Shoes
-    *   Lalique Fragrances
-    *   ASICS Men
-    *   English Laundry
     
+    *   English Laundry
     *   Andrew Christian
+    *   ASICS Men
     *   Micros Under $25
-    *   Suits, Dress Shirts &. More
-    *   The Art of Clean: Sonic Brushes Up to 50% Off
-    *   Apple &. Bears Bath and Body Starting at $10
+    *   Lalique Fragrances
     *   Stance Socks &. More
-    *   Leather Weather: Men's Jackets &. More
-    *   Lucky Brand Men
-    *   Ben Sherman
-    *   Lucky Brand Lounge &. Underwear
-    *   Faherty Brand &. More
+    *   Apple &. Bears Bath and Body Starting at $10
+    *   The Art of Clean: Sonic Brushes Up to 50% Off
     *   Zanerobe &. More
-    *   Skagen Watches
+    *   Men's Essentials Under $30
+    *   Holiday Attire: Cufflinks &. More Up to 70% Off
+    *   Suits, Dress Shirts &. More
+    *   Faherty Brand &. More
     
     Shop By Category
     *   Clothing
@@ -271,69 +268,71 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 *   KidsShop Sale Events
     
     *   The Black Friday Event
-    *   Holiday Finds: Kids' Favorite Characters from A to Z
-    *   To Grandma's House: Wildkin Travel Accessories
+    *   Mermaid Tail Blankets Under $10
+    *   Margherita Missoni Kids Up to 70% Off
     *   Original Penguin Kids Starting at $20
-    *   Preschool Prep Company
-    *   Bright &. Bold: Llum Up to 70% Off
-    *   ASICS Kids
+    *   To Grandma's House: Wildkin Travel Accessories
+    *   Holiday Finds: Kids' Favorite Characters from A to Z
     *   Flow Society Kids
-    *   Deux Par Deux
-    *   Cute &. Cozy: Kids' Boots
+    *   Preschool Prep Company
+    *   ASICS Kids
+    *   Bright &. Bold: Llum Up to 70% Off
     
     Shop By Category
-    *   Kids Accessories
     *   Baby Gear &. Essentials
     *   Girls Sizes 7-16
-    *   Girls Sizes 2T-6X
+    *   Kids Accessories
     *   Toys
+    *   Girls Sizes 2T-6X
     *   Boys Sizes 8-20
     *   Boys' Shoes
+    *   Baby Girl
     *   Girls' Shoes
     *   Boys Sizes 2T-7
     *   Baby Boy
-    *   Baby Girl
 *   HomeShop Sale Events
     
     *   The Black Friday Event
-    *   Twisted Tea Towels at $12
-    *   Vases &. Decor We Love Starting at $20
-    *   Free Shipping: Chic Art &. Photography Prints
-    *   One-of-a-Kind Blanket Blowout
+    *   Free Shipping: Brazilian Cowhide &. Sheepskin Up to 80% Off
+    *   Free Shipping: Bedding Blowout
+    *   Light It Up: LED Lighting &. More from $10
+    *   iHome Tech Accessories Starting at $10
+    *   Free Shipping: Gifts for Men Starting at $14
+    *   Storage Essentials Under $25
     *   Le Creuset
-    *   Cuisinart
     *   Peanuts Fine Art by Tom Everhart
     *   Free Shipping: The Rug Market Up to 75% Off
+    *   Free Shipping: Amrapur Bath Up to 80% Off
     *   Storage Must-Haves Starting at $10
-    *   Free Shipping: Pop Art Pillows Under $20
-    *   Farmhouse-Inspired Decor &. More Starting at $10
-    *   Free Shipping: Pet Beds Up to 60% Off
-    *   Free Shipping: Pillows Up to 50% Off
+    *   One-of-a-Kind Blanket Blowout
+    *   Vases &. Decor We Love Starting at $20
+    *   Twisted Tea Towels at $12
     *   Car Storage &. Organization Starting at $10
-    *   Free Shipping: Lighting We Love
+    *   Free Shipping: Pillows Up to 50% Off
     
+    *   Free Shipping: Lighting We Love
     *   Everyday Kitchen Essentials Starting at $10
+    *   Free Shipping: NFL Gifts Starting at $30
     *   Free Shipping: Fashion Bedding Up to 80% Off
+    *   Cuisinart
     *   Prep the Guest Room: Bedding &. More
     *   Free Shipping: Art Steals Up to 70% Off
-    *   Free Shipping: Copper Kitchen Favorites
-    *   Free Shipping: Luxe Sateen Sheets Starting at $39
-    *   Free Shipping: Rugs, Pillows &. More Starting at $24
-    *   Free Shipping: Statement-Making Art Up to 60% Off
-    *   Wine Glasses &. More Starting at $12
-    *   Free Shipping: Melange Bath Up to 75% Off
-    *   Free Shipping: NFL Gifts Starting at $30
     *   Wall Decals We Love Starting at $10
+    *   Free Shipping: Melange Bath Up to 75% Off
+    *   Wine Glasses &. More Starting at $12
+    *   Free Shipping: Rugs, Pillows &. More Starting at $24
     *   Gifts for Your Pet Under $25
     *   Bluetooth Blowout
-    *   Free Shipping: Amrapur Bath Up to 80% Off
-    *   Nutrichef Kitchen Electrics Up to 65% Off
+    *   Free Shipping: Chic Art &. Photography Prints
+    *   Free Shipping: Luxe Sateen Sheets Starting at $39
+    *   Free Shipping: Statement-Making Art Up to 60% Off
+    *   Free Shipping: Copper Kitchen Favorites
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Bath
     *   Bedding
+    *   Bath
     *   Organization
     *   Outdoor Living
     *   Luggage &. Travel
@@ -342,37 +341,37 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 *   BeautyShop Sale Events
     
     *   The Black Friday Event
+    *   OFRA Cosmetics Starting at $10
+    *   Luxe Skin Care Up to 90% Off
+    *   Blend Mineral Cosmetics Up to 80% Off
+    *   Kevyn Aucoin Up to 75% Off
+    *   Tweezerman Starting at $10
     *   Zeus Men's Grooming
-    *   Mirenesse Australia Up to 70% Off
     *   Erno Laszlo Up to 55% Off
+    *   Mirenesse Australia Up to 70% Off
     *   FOXYBAE Rose Gold Hair Tools Up to 70% Off
+    *   Korean Beauty: Goodal &. More
+    
+    *   ChinUp Masks
     *   Ouidad Under $20
     *   Lalique Fragrances
-    *   Korean Beauty: Goodal &. More
-    *   The Art of Clean: Sonic Brushes Up to 50% Off
     *   Apple &. Bears Bath and Body Starting at $10
-    *   reVive LED Light Therapy
-    
-    *   butter LONDON Up to 50% Off
+    *   The Art of Clean: Sonic Brushes Up to 50% Off
     *   Luxe Gifts: Elizabeth and James Fragrances
-    *   FaceBase Cosmetics Under $20
-    *   Skin Chemists Up to 80% Off
-    *   La Fresh Skin Care Starting at $10
-    *   NuvaLash Natural Lash &. Brow Enhancing Serum
-    *   Sutra Hair Tools Starting at $25
-    *   PUR Cosmetics Starting at $10
-    *   ChinUp Masks
+    *   butter LONDON Up to 50% Off
+    *   reVive LED Light Therapy
     *   Pre de Provence
     *   Hairgenics Lavish Lash &. Brow Serum
+    *   FaceBase Cosmetics Under $20
     
     Shop By Category
     *   Makeup
     *   Skin Care
     *   Bath &. Body
     *   Fragrance
-    *   Hair Care
-    *   Nails
     *   Tools &. Accessories
+    *   Nails
+    *   Hair Care
 
 SearchHauteLook Privacy PolicyHauteLook Privacy Policy Overview
 
