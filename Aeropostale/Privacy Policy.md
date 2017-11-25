@@ -555,14 +555,14 @@ Previous*   Long Sleeve Tops Starting at $11.87 Long Sleeve Tops
 *   Puffer Vests Starting at $15.87 Puffer Vests
 *   Beanies Starting at $4.87 Beanies
 *   Tees Starting at $5.87 Tees
-*   Polos Starting at $3.99 Polos
+*   Polos Starting at $8.87 Polos
 *   Long Sleeve Tops Starting at $11.87 Long Sleeve Tops
 *   Plaid Shirts Starting at $13.87 Plaid Shirts
 *   Hoodies + Joggers Starting at $14.87 Hoodies + Joggers
 *   Puffer Vests Starting at $15.87 Puffer Vests
 *   Beanies Starting at $4.87 Beanies
 *   Tees Starting at $5.87 Tees
-*   Polos Starting at $3.99 Polos
+*   Polos Starting at $8.87 Polos
 *   Long Sleeve Tops Starting at $11.87 Long Sleeve Tops
 Next
 
@@ -599,4 +599,4 @@ Stay Connected
 *   Refer a Friend
 *   College Student Discount
 
-© 2017 Aeropostale. All Rights Reserved. close dialogBlack Friday Sale60-70% OffEverything + Exclusive DoorbustersPlease enter aboveOffer Ends In:2days:05hours:32minutes:48secondsShop the deals No thanksclose dialog
+© 2017 Aeropostale. All Rights Reserved. close dialogBlack Friday Sale60-70% OffEverything + Exclusive DoorbustersPlease enter aboveOffer Ends In:1days:05hours:32minutes:21secondsShop the deals No thanksclose dialog
