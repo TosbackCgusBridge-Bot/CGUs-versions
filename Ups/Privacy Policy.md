@@ -1,6 +1,4 @@
-*   Service to Puerto Rico Resumed...More
-
-1/ 1 Close Skip To Main ContentUPSexpand Quick StartQuick Start Hello. Get Started with UPS.
+Skip To Main ContentUPSexpand Quick StartQuick Start Hello. Get Started with UPS.
 
 *   Track Tracking Numbers Go
 *   expand ShipShip Close
