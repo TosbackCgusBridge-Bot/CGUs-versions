@@ -64,9 +64,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, Utah. Online, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 8%  4% 
+What is PeekScore? Public Records &. Background Checks 7%  3% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 8%  4% 
     
 *   Show Less ...
 
-8%  8%  Arrest Records &. Driving Infractions
+7%  7%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 8%  Twitter 4% 
+Facebook 7%  Twitter 3% 
 
 *   Federal Reserve - federalreserve
     
@@ -199,7 +199,7 @@ Facebook 8%  Twitter 4% 
     
 *   Show Less ...
 
-Instagram 4% 
+Instagram 3% 
 
 *   Karen McDowall - privacy\_\_\_policy
     
@@ -265,7 +265,7 @@ Instagram 4% 
     
 *   Show Less ...
 
-Pinterest 8%  Wikipedia 4% 
+Pinterest 6%  Wikipedia 2% 
 
 *   Medana
     
@@ -284,7 +284,7 @@ Pinterest 8%  Wikipedia 4% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Google+ 4% 
+Google+ 2% 
 
 *   Privacy Policy - Google+ - Google Plus
     
@@ -299,53 +299,7 @@ Google+ 4% 
     Profile photo. Free Privacy Policy. 35 followers -. Build a Privacy policy for your site in 5 minutes! Build a Privacy policy for your site in 5 minutes! 35 followers.
     
 
-Linkedin 4% 
-
-*   Privacy Policy | LinkedIn
-    
-    Main content starts below. Sign up. Help Center. About. Press. Blog. Developers. Careers. Advertising. Talent Solutions
-    
-*   VOLIA | LinkedIn
-    
-    Learn about working at VOLIA. Join LinkedIn today for free. See who you know at VOLIA, leverage your professional network, and get hired.
-    
-*   Cookie Policy | LinkedIn
-    
-    Main content starts below. Sign up. Help Center. About. Press. Blog. Developers. Careers. Advertising. Talent Solutions
-    
-*   Leif Larsen | Professional Profile
-    
-    View Leif Larsen’s professional profile on LinkedIn. LinkedIn is the world's largest business network, helping professionals like Leif Larsen discover inside ...
-    
-*   Show More ...
-
-*   OccuVAX | LinkedIn
-    
-    Learn about working at OccuVAX. Join LinkedIn today for free. See who you know at OccuVAX, leverage your professional network, and get hired.
-    
-*   LinkedIn - Official Site
-    
-    500 million+ members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
-    
-*   Privacy policy: Learning Online Marketing - LinkedIn
-    
-    Join Lorrie Thomas Ross for an in-depth discussion in this video, Privacy policy, part of Learning Online Marketing.
-    
-*   MUFG Investor Services | LinkedIn
-    
-    Learn about working at MUFG Investor Services. Join LinkedIn today for free. See who you know at MUFG Investor Services, leverage your professional network, and get ...
-    
-*   Wire Stone, part of Accenture Interactive | LinkedIn
-    
-    Learn about working at Wire Stone, part of Accenture Interactive. Join LinkedIn today for free. See who you know at Wire Stone, part of Accenture Interactive ...
-    
-*   Privacy Policy Changes: More control over your LinkedIn ...
-    
-    Jun 10, 2011 · In keeping with our commitment to put our members first, we’d like to announce upcoming updates, mostly straightforward clarifications of our our User ...
-    
-*   Show Less ...
-
-Foursquare 8%  Music 4% 
+Linkedin 6%  Foursquare 6%  Music 2% 
 
 *   Pandora
     
@@ -391,7 +345,7 @@ Foursquare 8%  Music 4% 
     
 *   Show Less ...
 
-Photo Albums 4% 
+Photo Albums 2% 
 
 *   Flickr
     
@@ -402,7 +356,7 @@ Photo Albums 4% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 4% 
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -426,7 +380,7 @@ Myspace 4% 
     
 *   Show Less ...
 
-Documents 4% 
+Documents 2% 
 
 *   Generic Privacy Policy template - TermsFeed
     
@@ -472,7 +426,7 @@ Documents 4% 
     
 *   Show Less ...
 
-Web Search 3% 
+Web Search 2% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -518,7 +472,7 @@ Web Search 3% 
     
 *   Show Less ...
 
-Images 3% 
+Images 2% 
 
 20
 
