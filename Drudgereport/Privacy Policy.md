@@ -119,11 +119,11 @@ LATEST ON TWITTER
 
 My week on Twitter : 4 Mentions, 1.72K Mention Reach, 5 Favorited, 6 Retweets, 3.3K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/bASt…
 
-About 3 days ago
+About 4 days ago
 
 Our biggest fans this week: @mrmistry, @Requidan, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/ci0Q…
 
-About 4 days ago
+About 5 days ago
 
 My week on Twitter : 10 Favorited, 5 Retweets, 5.23K Retweet Reach, 4 Tweets. See yours with sumall.com/performan… pic.twitter.com/vIC6…
 
