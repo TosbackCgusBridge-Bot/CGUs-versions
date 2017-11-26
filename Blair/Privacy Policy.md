@@ -1,8 +1,6 @@
-  Offer Details
+  No thank you, I prefer to pay for shipping!     Offer Details
 
 Use promotion code **BDQA** at checkout to save 30% on your entire Blair merchandise order. Savings applies to merchandise prices only, not to shipping/processing fees or for the purchase of gift cards. This offer cannot be combined with other offers. not valid on previously placed or international orders. good online only through November 26, 2017.
-
-  No thank you, I prefer to pay for shipping!  
 
 Shop your favorite stores and discover new ones  
   
