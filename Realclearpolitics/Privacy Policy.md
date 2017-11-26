@@ -134,6 +134,8 @@
     
 *   _James Robbins_: Mattel Markets 'Hijab Barbie' to Trump-Hating Parents
     
+*   _Dave Barry_: The 2017 Holiday Gift Guide
+    
 *   _Jayme Metzgar_: How the Civil War Gave Us Today's Thanksgiving
     
 *   _David Von Drehle_: Thanksgiving in a World That Seems on the Verge of Collapse
@@ -147,8 +149,6 @@
 *   _Jules Witcover_: GOP Doesn't Get Americans Depend on Obamacare
     
 *   _Anna North_: Dems Face Important Test in Franken. They've Failed It Before
-    
-*   _Jonathan Chait_: Endorsing Roy Moore Is the Trumpiest Decision Ever
     
 
 *   Previous
