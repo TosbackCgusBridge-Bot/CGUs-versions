@@ -313,7 +313,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     Christmas Shop >.
     
     *   Christmas Stockings
-    *   Christmas Ornaments and Tree Skirts
+    *   Christmas Ornaments &. Tree Skirts
     *   Christmas Wreaths
     *   Christmas Bedding
     *   Christmas Candy &. Treats
@@ -351,7 +351,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Storage &. Organization
     *   Door Mats
     *   Luggage &. Bags
-    *   Canvas Totes
+    *   Canvas TotesDOG SHOP >.
 *    Gifts FEATURED SHOPS
     
     *   Holiday Shop
@@ -675,7 +675,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Christmas Shop
         *   Back
         *   Christmas Stockings
-        *   Christmas Ornaments and Tree Skirts
+        *   Christmas Ornaments &. Tree Skirts
         *   Christmas Wreaths
         *   Christmas Bedding
         *   Christmas Candy &. Treats
@@ -711,6 +711,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Door Mats
         *   Luggage &. Bags
         *   Canvas Totes
+    *   DOG SHOP
 *    Gifts
     *   Back
     *   Shop all Gifts
@@ -777,9 +778,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 50% off your order. Plus, women's Combed Cotton Cable Sweater from $20!
+Receive 50% off fleece. 40% off everything else!
 
-code: FRIDAY pin: 2565 DETAILS
+code: TERRIFIC pin: 2067 DETAILS
 
 Shop Now Customer Service Menu
 
@@ -802,7 +803,11 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Privacy Last Updated: August 9‚ 2016
+Find an answer fast
+
+Search the Lands' End Help Center.
+
+Search the Lands' End Help Center. Go Privacy Last Updated: August 9‚ 2016
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
