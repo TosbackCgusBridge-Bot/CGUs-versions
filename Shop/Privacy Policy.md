@@ -114,7 +114,10 @@ Menu Close Menu Close
         
     *   Tablets Explore All  Tablets Explore All  Tablets Your tablet is an extension of your personality! Find the one that best compliments you.
         
-        *   Android Tablets Android Tablets Budget-friendly Android tablets, built for fun.
+        *   Android Tablets Android Tablets
+            *   Multimedia tablets
+            *   Lightweight &. portable
+            *   Budget friendly
         *   Windows Tablets Windows Tablets Business-ready Windows tablets with enhanced security features.
         *   2-in-1 PCs 2-in-1 PCs Multimedia tablets with multiple modes, including Stand, Hold, and Hang.
         *   Connected Devices Connected Devices
@@ -132,9 +135,9 @@ Menu Close Menu Close
         *   *   Because your tablet is like an extension of your personality. Check out specifics, and complement yourself.
                 
                 Explore All Tablets >.
-        *   *   Multimedia tablets.  
-                Lightweight &. portable.  
-                Budget-friendly pricing.
+        *   *   Multimedia tablets  
+                Lightweight &. portable  
+                Budget friendly
                 
                 Learn more about the android family >.
         
@@ -450,9 +453,7 @@ Holiday Laptops Tablets Desktops Deals Holiday Laptops Tablets Desktops Deals Ch
     *   Return Policy
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 
-© 2017   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
-
-Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+© 2017   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
@@ -464,6 +465,6 @@ Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being 
 
 Please tell us how we can improve your experience:
 
-SUBMIT CHATHIDE
+SUBMIT CHATHIDE Close
 
 Feedback Will open a new windowFeedbackLaunches comment card in new window
