@@ -778,9 +778,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 50% off fleece. 40% off everything else!
+Receive 50% off all sweaters and turtlenecks. 40% off everything else!
 
-code: TERRIFIC pin: 2067 DETAILS
+code: COOL pin: 9132 DETAILS
 
 Shop Now Customer Service Menu
 
