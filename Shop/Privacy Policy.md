@@ -114,10 +114,9 @@ Menu Close Menu Close
         
     *   Tablets Explore All  Tablets Explore All  Tablets Your tablet is an extension of your personality! Find the one that best compliments you.
         
-        *   Android Tablets Android Tablets
-            *   Multimedia tablets
-            *   Lightweight &. portable
-            *   Budget friendly
+        *   Android Tablets Android Tablets Multimedia tablets  
+            Lightweight &. portable  
+            Budget friendly
         *   Windows Tablets Windows Tablets Business-ready Windows tablets with enhanced security features.
         *   2-in-1 PCs 2-in-1 PCs Multimedia tablets with multiple modes, including Stand, Hold, and Hang.
         *   Connected Devices Connected Devices
@@ -256,14 +255,15 @@ Menu Close Menu Close
 *   Deals
     
     *   Explore All Deals
-    *   Black Friday Doorbusters
+    *   Cyber Monday Doorbusters
     *   Home Laptop Deals
     *   ThinkPad Deals
     *   Desktop Deals
     *   Tablet Deals
     *   Accessory Deals
     *   Clearance
-    *   OUTLET
+    *   Financing Options
+    *   Outlet
     
     *   *   Doorbusters
             
@@ -321,11 +321,12 @@ Home >. Filter by specs Offers
 *   Extended Holiday Hours! 9am-11pm on Black Friday &. Cyber Mon. See Complete Extended Holiday Schedule. >
 *   Free Shipping &. Free Returns for the Holidays. Learn More >
 
-PrevNext Our biggest sale of the year.
+PrevNext THE SHOPPING DAY THAT GEEKS BUILT
 
-Save up to 60%. Sale ends Nov. 26
+Serious deals on serious tech! Get up to 60% off this  
+Cyber Monday—while supplies last.
 
-Shop now >.
+Shop Now >.
 
 Special Financing Available
 
@@ -453,7 +454,9 @@ Holiday Laptops Tablets Desktops Deals Holiday Laptops Tablets Desktops Deals Ch
     *   Return Policy
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 
-© 2017   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+© 2017   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
+
+Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
@@ -465,6 +468,6 @@ Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being 
 
 Please tell us how we can improve your experience:
 
-SUBMIT CHATHIDE Close
+SUBMIT CHATHIDE
 
 Feedback Will open a new windowFeedbackLaunches comment card in new window
