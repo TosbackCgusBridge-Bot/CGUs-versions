@@ -136,20 +136,6 @@
     
 *   _Dave Barry_: The 2017 Holiday Gift Guide
     
-*   _Jayme Metzgar_: How the Civil War Gave Us Today's Thanksgiving
-    
-*   _David Von Drehle_: Thanksgiving in a World That Seems on the Verge of Collapse
-    
-*   _Mark Bauerlein_: What It's Like to Be the Only Trump Fan at Thanksgiving
-    
-*   _Charles Blow_: Thankfully Recommitting to Resistance
-    
-*   _Christian Schneider_: GOP Tax Plan Is Right to Kill Individual Mandate
-    
-*   _Jules Witcover_: GOP Doesn't Get Americans Depend on Obamacare
-    
-*   _Anna North_: Dems Face Important Test in Franken. They've Failed It Before
-    
 
 *   Previous
 *   Next
@@ -270,8 +256,8 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove55Disapprove +17
+    *   Approve37
+    *   Disapprove57Disapprove +20
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve44
     *   Disapprove54Disapprove +10
@@ -284,11 +270,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Sens. Dick Durbin and Lindsey Graham Debate Tax Reform. Graham: "Failure Is Not An Option"
+*   Tom Steyer Says He Became The Biggest Donor In Politics To Advocate For Getting Money Out Of Politics
+*   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
 *   Behar: I Can't Have Dinner With Trump Supporters. Democrats Need To Go "Lower," Ditch Wonky Talk
 *   Trump to Women: "It Is A Very Special Time," "I'm Happy A Lot Of These Things Are Coming Out"
-*   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Joe Scarborough: "Weak-Minded People Blindly Follow Trump Over Their God"
-*   Trump Voter: If Jesus Christ Himself Told Me Trump Colluded With Russia, I Wouldn't Believe Him
 
 *   Politics
 *   Policy
