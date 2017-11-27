@@ -287,7 +287,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**60-70% OFF** + **FREE SHIPPING ON ORDERS OVER $50!**
+**UP TO 75% OFF** + **FREE SHIPPING ON ORDERS OVER $50!**
 
 *   My Account My Account Login Register
 
@@ -525,9 +525,9 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Shop Girls Shop Guys shop girls shop guys
+ON ORDERS OVER $50 Search Catalog Search Promotions Shop Girls Shop Guys Shop Girls Shop Guys Promotions shop girls shop guys
 
-Previous*   Plaid Shirts Starting at $16.87
+Previous*   Must Have Tops Starting at $11.87 Must Have Tops
 *   Sweaters Starting at Sweaters
 *   Puffer Vests Starting at $15.87 Puffer Vests
 *   Jeggings Starting at $19.87 Jeggings
@@ -537,7 +537,6 @@ Previous*   Plaid Shirts Starting at $16.87
 *   Velour Tops + Bottoms Starting at $11.87 Velour Tops + Bottoms
 *   Hoodies + Joggers Starting at $11.87 Hoodies + Joggers
 *   Must Have Tops Starting at $11.87 Must Have Tops
-*   Plaid Shirts Starting at $16.87
 *   Sweaters Starting at Sweaters
 *   Puffer Vests Starting at $15.87 Puffer Vests
 *   Jeggings Starting at $19.87 Jeggings
@@ -563,7 +562,7 @@ Previous*   Long Sleeve Tops Starting at $12.87 Long Sleeve Tops
 *   Plaid Shirts Starting at $15.87 Plaid Shirts
 Next
 
-shop girls shop guys shop gifts for her shop gifts for him shop gifts for him shop sabrina's picks learn more <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. HOLIDAY HELPDESK FOR STORE HOURS, SHIPPING &. MORE VISIT OUR HOLIDAY HELPDESK SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+shop gifts for her shop gifts for him shop gifts for him shop sabrina's picks learn more <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. HOLIDAY HELPDESK FOR STORE HOURS, SHIPPING &. MORE VISIT OUR HOLIDAY HELPDESK SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
@@ -593,7 +592,7 @@ About Us
 Stay Connected
 
 *   Live ChatCall Us
-*   Give $15, Get $15
+*   Refer a Friend
 *   College Student Discount
 
-© 2017 Aeropostale. All Rights Reserved. close dialogBlack Friday Sale60-70% OffEverything + Exclusive DoorbustersPlease enter aboveOffer Ends In:0days:05hours:33minutes:11secondsShop the deals No thanksclose dialog
+© 2017 Aeropostale. All Rights Reserved. close dialogCyber Monday SaleUp to 75% off everything+ Extra 20% off your entire orderPlease enter aboveOffer Ends In:53hours:33minutes:37secondsShop the deals No thanksclose dialog
