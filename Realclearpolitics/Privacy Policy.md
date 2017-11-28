@@ -102,39 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Thomas Friedman_: Saudi Arabia's Arab Spring, at Last
+*   _Arthur Herman_: Trump Banishes Woodrow Wilson's Ghost
     
-*   _Michael Barone_: Merkel - and Davos - Rebuked in Germany
+*   _Gideon Rachman_: Trump, Xi and the Siren Song of Nationalism
     
-*   _Klaus Brinkbaumer_: The End of the End of History
+*   _Peter Berkowitz_: What Elites Still Don't Understand About Populism
     
-*   _James Kirchick_: Meet Zimbabwe's New Boss, Same as the Old Boss
+*   _Juan Williams_: McCain and Flake: Two Politicians of the Year
     
-*   _Maureen Dowd_: My Brother Kevin's Not Tired of Winning
+*   _Sen. Rand Paul_: Why I Plan to Vote for the Senate Tax Bill
     
-*   _Rich Lowry_: After Weinstein, a Cultural Revolution
+*   _David Roberts_: All the Risks of Climate Change, in a Single Graph
     
-*   _Sarah Jaffe_: Students Are Right: There Are No Safe Spaces
+*   _Charles Hurt_: The Case for Roy Moore
     
-*   _Tammy Bruce_: The Liberal Ruse of Feminism
+*   _Rick Wilson_: What Trump and His Gang Will Forgive Is Unforgivable
     
-*   _Eugene Robinson_: Congress Should Probe Trump's Alleged Sexual Misconduct
+*   _Steven Myers_: In China, the Brutality of 'House Arrest'
     
-*   _John Phillips_: Al Gore's Dark Past an Inconvenient Truth
+*   _Nicholas Waddy_: Missile Defense: The Epitome of America First
     
-*   _Amie Parnes_: How Dem Insiders Rank the 2020 Contenders
+*   _Isaac Fish_: Trump's Pyongyang Moment
     
-*   _Matthew Rozsa_: The Case for Hillary Clinton in 2020
+*   _Kim &. Becker_: Tax Cuts Hang in Balance in Critical Week for Republicans
     
-*   _Mike Huckabee_: Let's Give Lois Lerner a Safe, Taxpayer-Funded Home
+*   _Josh Blackman_: Is Trump Restoring Separation of Powers?
     
-*   _Jeff Spross_: Killing the AT&T-Time Warner Deal Would Be Radical. Good.
+*   _Cesar Hernandez_: ICE's Courthouse Arrests Undercut Democracy
     
-*   _Henry Grabar_: Black Friday Ain't What It Used to Be
+*   _Byron York_: What Really Happened With Republican Platform &. Russia
     
-*   _James Robbins_: Mattel Markets 'Hijab Barbie' to Trump-Hating Parents
+*   _Susan Glasser_: Trump's Russian Schizophrenia
     
-*   _Dave Barry_: The 2017 Holiday Gift Guide
+*   _Wang Dan_: Beijing Hinders Free Speech in America
+    
+*   _Kotkin &. Cox_: Playgrounds for Elites: Our Increasingly Left-Wing Cities
+    
+*   _Christine Emba_: Let's Rethink Sex
+    
+*   _Ned Ryun_: In Defense of Masculinity
+    
+*   _Stephen Marche_: The Unexamined Brutality of the Male Libido
+    
+*   _Ally Bowlin_: Abortion Is Not Empowering--I Know, Because I Had One
+    
+*   _Sarah Marshall_: The Trials of a Pioneering Abortionist
+    
+*   _F.H. Buckley_: The Wrong Way to Save Academia
     
 
 *   Previous
@@ -236,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Looming Deadlines, Much Unfinished Business Await Congress
+*   Gorsuch's Early Reviews: What Right Hoped For, Left Feared
+*   Pelosi Defends Conyers, Says "Icon" Deserves "Due Process"
 *   Ala. Senate Race Shows National Parties' Waning Influence
 *   Conservative Group Aims to Sell Republican Tax Plan
-*   Ingraham: 2017 Has Been a Great Year for Workers
-*   Justice Dept. Sues to Stop AT&T's $85 Billion Time Warner Deal
-*   New Allegation Against Franken, This Time Met With Silence
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -259,22 +273,22 @@ Latest PollsAll Polls
     *   Approve37
     *   Disapprove57Disapprove +20
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove54Disapprove +10
+    *   Approve43
+    *   Disapprove55Disapprove +12
+*   Direction of CountryRasmussen Reports
+    *   Right Direction35
+    *   Wrong Track58Wrong Track +23
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve36
     *   Disapprove59Disapprove +23
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve40
-    *   Disapprove55Disapprove +15
 
 More Latest Polls In The News
 
+*   April Ryan: Blacks Are The "Opposition" In Press Room, Reporters Feel "Friendship" With Trump Admin
+*   Reporter Grills Franken On Groping: My Credibility Has Been Undermined, But I'm A "Good Questioner"
+*   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
 *   Sens. Dick Durbin and Lindsey Graham Debate Tax Reform. Graham: "Failure Is Not An Option"
 *   Tom Steyer Says He Became The Biggest Donor In Politics To Advocate For Getting Money Out Of Politics
-*   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Behar: I Can't Have Dinner With Trump Supporters. Democrats Need To Go "Lower," Ditch Wonky Talk
-*   Trump to Women: "It Is A Very Special Time," "I'm Happy A Lot Of These Things Are Coming Out"
 
 *   Politics
 *   Policy
