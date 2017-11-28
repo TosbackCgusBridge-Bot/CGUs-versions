@@ -1,4 +1,4 @@
-Aeropostale
+close dialogCYBER MONDAY SALEDON’T MISS OUTUp to 75% off Everything+ additional 20% off your entire orderUse code: CYBEREnds in:29hours:32minutes:50secondsclose dialog Aeropostale
 
 *   Open submenu ( Girls ) Girls
 *   Open submenu ( Guys ) Guys
@@ -287,7 +287,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**UP TO 75% OFF** + **FREE SHIPPING ON ORDERS OVER $50!**
+**EXTRA 20% OFF** USE CODE **CYBER**
 
 *   My Account My Account Login Register
 
@@ -595,4 +595,4 @@ Stay Connected
 *   Refer a Friend
 *   College Student Discount
 
-© 2017 Aeropostale. All Rights Reserved. close dialogCyber Monday SaleUp to 75% off everything+ Extra 20% off your entire orderPlease enter aboveOffer Ends In:53hours:33minutes:37secondsShop the deals No thanksclose dialog
+© 2017 Aeropostale. All Rights Reserved. close dialogCYBER MONDAY SALEDON’T MISS OUTUp to 75% off Everything+ additional 20% off your entire orderUse code: CYBEREnds in:29hours:32minutes:50secondsclose dialogclose dialogCyber Monday SaleUp to 75% off everything+ Extra 20% off your entire orderPlease enter aboveOffer Ends In:29hours:32minutes:50secondsShop the deals No thanksclose dialog
