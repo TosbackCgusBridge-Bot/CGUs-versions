@@ -778,11 +778,11 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 50% off all sweaters and turtlenecks. 40% off everything else!
+Receive 50% off your order. Plus, Peppermint Crunch cookies from $12!
 
-code: COOL pin: 9132 DETAILS
+code: MONDAY pin: 4767 DETAILS
 
-Shop Now Customer Service Menu
+Customer Service Menu
 
 Customer Service
 
