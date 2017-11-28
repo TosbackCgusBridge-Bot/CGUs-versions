@@ -1,11 +1,11 @@
 Menu PayPal
 
 *   Personal
-    Personal*   Getting Started _How to use PayPal_
+    Personal*   What is PayPal? _Learn how PayPal works in your everyday life_
     *   Check Out Securely Online _Use your credit cards or other funds_
     *   PayPal Credit _Get more time to pay_
     *   Mobile Wallet _Pay in stores with our app_
-    *   eBay Payments _Speed through checkout on eBay_
+    *   PayPal Can Do That _Discover ways to manage and move your money_
     *   Shopping and More _Deals, gift cards and donations_Close
 *   Business
     Business*   All Business Solutions _Merchant services, invoicing, and more_
@@ -118,4 +118,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=77c9680a9c470&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=5d3d91f1652149dbaaa67b3c1efe97df&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&xe=3273&xt=7822&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=a71416477de28&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=c11a3614c3604537a954400b2f2508b1&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&xe=3273&xt=7821&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
