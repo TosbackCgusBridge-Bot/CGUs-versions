@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Satellites Lift off! JPSS-1 heads to orbit Fisheries Think outside the bird this Thanksgiving: Serve up some seafood National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites JPSS-1 satellite now has a new name: NOAA-20. Learn why. Satellites Climate Globe had 3rd warmest year to date and 4th warmest October on record National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Thanksgiving Week forecast: Fair weather expected for much of U.S. Find out what's in store for your neck of the woods at weather.gov AROUND NOAA // JPSS-1 satellite now has a new name: NOAA-20. Learn why. Globe had 3rd warmest year to date and 4th warmest October on record Think outside the bird this Thanksgiving: Serve up some seafood
+Enter Search Terms JPSS-1 satellite now has a new name: NOAA-20. Learn why. AROUND NOAA // Fisheries scientists to reap benefits of new NOAA satellite Globe had 3rd warmest year to date and 4th warmest October on record Think outside the bird this Thanksgiving: Serve up some seafood
 
 *   About our agency
 *   News and features
