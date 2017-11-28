@@ -1,4 +1,7 @@
-*   GB5-628PIT9-231Final
+*   HOU4-716BAL6-523Final
+*   MIN9-230DET6-523Final
+*   LAC5-628DAL5-66Final
+*   NYG2-910WAS5-620Final
 *   TB4-720ATL7-434Final
 *   CLE0-1116CIN5-630Final
 *   TEN7-420IND3-816Final
@@ -10,10 +13,7 @@
 *   NO8-320LA8-326Final
 *   JAX7-424ARI5-627Final
 *   DEN3-814OAK5-621Final
-*   HOU4-6BAL5-5November 27, 2017 8:30:00 PM EST ET
-*   MIN9-230DET6-523Final
-*   LAC5-628DAL5-66Final
-*   NYG2-910WAS5-620Final
+*   GB5-628PIT9-231Final
 
 *   News
 *   Scores
@@ -30,7 +30,10 @@
 *   NFL Network
 *   Photos
 
-*   GB28PIT31Final
+*   HOU16BAL23Final
+*   MIN30DET23Final
+*   LAC28DAL6Final
+*   NYG10WAS20Final
 *   TB20ATL34Final
 *   CLE16CIN30Final
 *   TEN20IND16Final
@@ -42,10 +45,7 @@
 *   NO20LA26Final
 *   JAX24ARI27Final
 *   DEN14OAK21Final
-*   HOU4-6BAL5-5November 27, 2017 8:30:00 PM EST ET
-*   MIN30DET23Final
-*   LAC28DAL6Final
-*   NYG10WAS20Final
+*   GB28PIT31Final
 
 *   News
 *   Scores
