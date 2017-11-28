@@ -1,7 +1,7 @@
 *   Travel
-*   Society
 *   Politics
-*   Thanksgiving
+*   Society
+*   The Holidays
 *   Gift Guide 2017
 
 *   Subscribe
@@ -50,7 +50,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 What Happens to the Children of Infamous Fathers? 2 The Panettone You Won't Want to Regift 3 The Queen's Anniversary Portrait Contains a Secret 4 30 Christmas Decorations to Kick Off the Season 5 22 Cocktails to Help You Survive Winter Privacy Policy Dec 1, 2014
+Today's Top Stories 1 Meghan Markle's Style Evolution 2 What Happens to the Children of Infamous Fathers? 3 The Queen's Anniversary Portrait Contains a Secret 4 30 Christmas Decorations to Kick Off the Season 5 22 Cocktails to Help You Survive Winter Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
@@ -178,7 +178,7 @@ Advertisement - Continue Reading Below
 
 Last revised on April 1, 2016
 
-Advertisement - Continue Reading Below Share Tweet Email
+Watch Next Advertisement - Continue Reading Below More From About Advertise Online And the Top Schools in the Country Are . . . The Story Behind Donald Trump's Most Impressive Homes Share Tweet Email
 
 *   About
 *   Trump Likens War Policy to '21' Club Renovation
