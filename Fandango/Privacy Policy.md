@@ -5,6 +5,7 @@ Gift Cards | Offers | Sign In Sign Out
 
 *   Movies Now Playing
     
+    *   Coco (2017)
     *   Justice League (2017)
     *   Wonder
     *   Thor: Ragnarok (2017)
@@ -12,21 +13,24 @@ Gift Cards | Offers | Sign In Sign Out
     *   Murder on the Orient Express (2017)
     *   The Star (2017)
     *   A Bad Moms Christmas
-    *   Lady Bird
+    *   Roman J Israel, Esq.
     *   Three Billboards Outside Ebbing, Missouri
-    *   Jigsaw
-    *   Blade Runner 2049
+    *   Lady Bird
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Coco (2017)
-    *   Roman J Israel, Esq.
-    *   Bombshell: The Hedy Lamarr Story
-    *   Call Me by Your Name
-    *   Darkest Hour
-    *   Eric Clapton: Life in 12 Bars
-    *   The Man Who Invented Christmas
+    *   Another Wolfcop
+    *   Brotherhood of Blades 2: The Infernal Battlefield
+    *   Daisy Winters
+    *   The Disaster Artist (2017)
+    *   Drawing Home
+    *   Gangster Land
+    *   Inoperable
+    *   Kepler's Dream
+    *   The Shape of Water (2017)
+    *   Slumber
+    *   The Swindlers (2017)
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -70,8 +74,8 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Audiences Can See Coco in Spanish in Theaters Read More
-    *   Movie News: How 'Aquaman' Will Be Different Than 'Justice League' Read More
+    *   Marvel Has 20 "Completely Different" Movies Planned Beyond 'Avengers 4' Read More
+    *   Movie News: See Joe Manganiello as Deathstroke in 'Justice League' Read More
     *   Jude Law Cast as Male Lead in 'Captain Marvel' Read More
     
     Explore Content
@@ -320,4 +324,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
