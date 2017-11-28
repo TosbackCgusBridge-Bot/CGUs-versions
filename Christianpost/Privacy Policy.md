@@ -60,4 +60,4 @@ For more information, please visit contact us.
 *   Terms
 *   Privacy policy
 
-© 2017 The Christian Post , INC. All Rights Reserved. The Christian Post is part of CMC <p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66422650ns.gif" /></p>. <div style="display:none;">. <img src="//pixel.quantserve.com/pixel/p-f3\_tFTzTnk8n2.gif" border="0" height="1" width="1" alt="Quantcast"/>. </div>. BESbswyBESbswyBESbswy
+© 2017 The Christian Post , INC. All Rights Reserved. The Christian Post is part of CMC <div style="display:none;">. <img src="//pixel.quantserve.com/pixel/p-f3\_tFTzTnk8n2.gif" border="0" height="1" width="1" alt="Quantcast"/>. </div>. BESbswyBESbswyBESbswy
