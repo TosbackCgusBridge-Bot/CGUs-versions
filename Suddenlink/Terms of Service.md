@@ -1,4 +1,4 @@
-Skip to main content <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGG2R3" height="0" width="0" style="display:none;visibility:hidden"></iframe>.     Search Google Appliance Enter the terms you wish to search for. Search Home Television Internet Phone Security Experience VIPperks Start Shopping
+Skip to main content <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGG2R3" height="0" width="0" style="display:none;visibility:hidden"></iframe>.     Search Google Appliance Enter the terms you wish to search for. Search Home Television Internet Phone Security Start Shopping
 
 *   Current Customers
     *   My Services
@@ -14,12 +14,6 @@ Skip to main content <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGG2
     *   Leadership
 *   Contact Us
 *   Business
-
-We can't detect your location. Please provide an address. Change Change your Location ×
-
-You must at minimum enter a zip code
-
-Select StateAlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict Of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyomingUpdate Updating your location...
 
 *   Suddenlink
 *   Menu
@@ -38,23 +32,9 @@ Search Google Appliance Enter the terms you wish to search for. Search
 *   My Account
 
 *   Television
-    *   Back
-    *   Television
-    *   Television
-    *   Video On Demand
-    *   Pay-Per-View
-    *   Accessibility
-    *   TiVo
-    *   Apps
 *   Internet
 *   Phone
-    *   Back
-    *   Phone
-    *   Phone
-    *   International Rates
 *   Security
-*   Experience
-*   VIPperks
 
 *   Residential Services Agreement
 
