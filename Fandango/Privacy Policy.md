@@ -76,7 +76,7 @@ Gift Cards | Offers | Sign In Sign Out
     
     *   Marvel Has 20 "Completely Different" Movies Planned Beyond 'Avengers 4' Read More
     *   Movie News: See Joe Manganiello as Deathstroke in 'Justice League' Read More
-    *   Jude Law Cast as Male Lead in 'Captain Marvel' Read More
+    *   Movie News: James Franco Talks 'Multiple Man' Read More
     
     Explore Content
     *   Movie Reviews
@@ -264,9 +264,9 @@ For any questions in relation to this Privacy Policy please contact us at privac
 
 Offers
 
-*   'Pitch Perfect 3' Free Song Download
+*   Holiday Gift Card Offer
     
-    Buy tickets and get FREE song download performed by The Bellas &. The Voice Top 12 Contestants BUY TICKETS
+    Give the gift of movies. Free movie ticket with gift card orders $75+. Plus, get a chance to win a year of movie tickets with orders over $100. Use code: HOLIDAY4U BUY NOW
     
 *   'Coco' Gift With Purchase
     
@@ -283,14 +283,14 @@ Offers
 
 New + Coming soon
 
-*   Thor: Ragnarok (2017)
-*   Daddy's Home 2
 *   Justice League (2017)
 *   Coco (2017)
 *   Star Wars: The Last Jedi (2017)
 *   Jumanji: Welcome to the Jungle
 *   Pitch Perfect 3
+*   Maze Runner: The Death Cure
 *   Black Panther
+*   A Wrinkle in Time
 
 Experience + Explore
 
@@ -324,4 +324,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
