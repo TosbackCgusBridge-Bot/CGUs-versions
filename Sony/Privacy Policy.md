@@ -149,9 +149,9 @@ View Sound for any space on Instagram
 
 <img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/16789304\_263879204049987\_8502340640963559424\_n.jpg);" alt="">.
 
-#Outlander costumes, from sketch to screen. For more with the writers, actors, producers, and crew, head to sony.com/outlander
+CALL ME BY YOUR NAME won two @GothamAwards last night, including the big one Best Feature! Thanks @ifpfilm!
 
-20 hours ago
+16 hours ago
 
 View Tweet
 
@@ -167,15 +167,15 @@ Close
 
 With Our 4K HDR TVs
 
-<img class="bg-img" class="url(/en\_us/media/content/X830C-4k-tv-600x600\_1.jpg);" alt="4K TV">. Only 3 More Episodes Are Left in This Season of “Outlander”
+<img class="bg-img" class="url(/en\_us/media/content/X830C-4k-tv-600x600\_1.jpg);" alt="4K TV">. Only 2 More Episodes Are Left in This Season of “Outlander”
 
 Get the Inside Scoop On the Making of the Show
 
 Close
 
-*   Share Only 3 More Episodes Are Left in This Season of “Outlander” on Facebook
-*   Share Only 3 More Episodes Are Left in This Season of “Outlander” on Twitter
-*   Copy URL to share Only 3 More Episodes Are Left in This Season of “Outlander”
+*   Share Only 2 More Episodes Are Left in This Season of “Outlander” on Facebook
+*   Share Only 2 More Episodes Are Left in This Season of “Outlander” on Twitter
+*   Copy URL to share Only 2 More Episodes Are Left in This Season of “Outlander”
 
 Get the Inside Scoop On the Making of the Show
 
@@ -225,9 +225,9 @@ View Nothing But Music on Instagram
 
 <img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/23596631\_1479700648810750\_6690611229490151424\_n.jpg);" alt="">.
 
-DEAL: Now save 50% on the #Sony4K Ultra HD Blu-ray player (U.S. only) #CyberMonday Click for more: amzn.to/2z4YtPz
+We're proud to partner with @PhotoStartGo by giving employees the chance to donate their used #SonyAlpha cameras to children &. young adults living in distressed areas around the world. Join us in donating.
 
-20 hours ago
+16 hours ago
 
 View Tweet
 
@@ -329,9 +329,9 @@ In Gaming
 
 <img class="bg-img" class="url(/en\_us/media/content/psvr-600x600\_4.jpg);" alt="PS VR">.
 
-Gran Turismo Sport updates incoming: New cars, offline play, GT League, and more before the end of the year.
+For our #GodofWar #fanart contest winners, not only will they be receiving a RARE Huldra Bros coin but also a special thank you card: bit.ly/HuldraFanArtGOW
 
-2 days ago
+7 hours ago
 
 View Tweet
 
