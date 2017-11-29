@@ -1,4 +1,8 @@
-Menu Mozilla
+Your Firefox is out-of-date.
+
+Get the most recent version to keep browsing securely.
+
+Update FirefoxClose Menu Mozilla
 
 *   Firefox
 *   Pocket
@@ -77,8 +81,12 @@ Firefox Privacy Notice Close
     Participate and explore our latest innovations — technology built in the open and designed to help keep the Internet healthy.
     
     *   Web Innovations
-    *   Mozilla Developers
-    *   MDNOptimized for Design A new CSS Grid demo Game-changing Browser Lots new in Firefox, including support for WebAssembly
+    *   Developer Hub
+    *   Research
+    *   Virtual Reality
+    *   Games
+    *   Documentation
+    *   Hacks blogOptimized for Design A new CSS Grid demo Game-changing Browser Lots new in Firefox, including support for WebAssembly
 *   About Us
     
     We’re Mozilla, the proudly non-profit champions of a healthy Internet – keeping it open and accessible to all.
