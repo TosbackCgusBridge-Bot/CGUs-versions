@@ -4,7 +4,8 @@
 *   FIND A STORE
 *   800.607.9788
 
-It’s CYBER MONDAY! Take me to the SALE.
+Want FREE shipping? Buy online and pick up your order in-store!  
+SHOP WOMEN | SHOP MEN | LEARN MORE
 
 *   Women
 *   Men
@@ -403,6 +404,7 @@ Returns
 
 Promotions
 
+*   FOR A LIMITED TIME, SAVE 15% ON YOUR FIRST BUCKLE CARD PURCHASE
 *   Friends &. Family Shop Event
 *   Buckle Card Sport Bottle GWP
 *   All Promotions
