@@ -1,4 +1,4 @@
-close dialogCYBER MONDAY SALEDON’T MISS OUTUp to 75% off Everything+ additional 20% off your entire orderUse code: CYBEREnds in:29hours:32minutes:50secondsclose dialog Aeropostale
+close dialogCYBER MONDAY SALEDON’T MISS OUTUp to 75% off Everything+ additional 20% off your entire orderUse code: CYBEREnds in:05hours:32minutes:40secondsclose dialog Aeropostale
 
 *   Open submenu ( Girls ) Girls
 *   Open submenu ( Guys ) Guys
@@ -595,4 +595,4 @@ Stay Connected
 *   Refer a Friend
 *   College Student Discount
 
-© 2017 Aeropostale. All Rights Reserved. close dialogCYBER MONDAY SALEDON’T MISS OUTUp to 75% off Everything+ additional 20% off your entire orderUse code: CYBEREnds in:29hours:32minutes:50secondsclose dialogclose dialogCyber Monday SaleUp to 75% off everything+ Extra 20% off your entire orderPlease enter aboveOffer Ends In:29hours:32minutes:50secondsShop the deals No thanksclose dialog
+© 2017 Aeropostale. All Rights Reserved. close dialogCYBER MONDAY SALEDON’T MISS OUTUp to 75% off Everything+ additional 20% off your entire orderUse code: CYBEREnds in:05hours:32minutes:40secondsclose dialogclose dialogCyber Monday SaleUp to 75% off everything+ Extra 20% off your entire orderPlease enter aboveOffer Ends In:05hours:32minutes:40secondsShop the deals No thanksclose dialog
