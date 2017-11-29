@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Arthur Herman_: Trump Banishes Woodrow Wilson's Ghost
+*   _Andrew McCarthy_: The Law Makes Clear Trump's in the Right on the CFPB
     
-*   _Gideon Rachman_: Trump, Xi and the Siren Song of Nationalism
+*   _Eugene Robinson_: We Will All Pay a Price for Trump's Nihilism
     
-*   _Peter Berkowitz_: What Elites Still Don't Understand About Populism
+*   _Mollie Hemingway_: No, Trump's 'Pocahontas' Insult of Warren Isn't Racist
     
-*   _Juan Williams_: McCain and Flake: Two Politicians of the Year
+*   _Rosie Gray &. McKay Coppins_: How James O'Keefe Made Himself Irrelevant
     
-*   _Sen. Rand Paul_: Why I Plan to Vote for the Senate Tax Bill
+*   _Justin Dent_: Long Overlooked, Millennials Get Boost From GOP Tax Plans
     
-*   _David Roberts_: All the Risks of Climate Change, in a Single Graph
+*   _Ezra Klein_: 5 Big Problems the Senate Republican Tax Bill Creates
     
-*   _Charles Hurt_: The Case for Roy Moore
+*   _Andrew Egger_: Why Won't Al Franken Say Whether He Believes His Accusers?
     
-*   _Rick Wilson_: What Trump and His Gang Will Forgive Is Unforgivable
+*   _Bari Weiss_: The Limits of 'Believe All Women'
     
-*   _Steven Myers_: In China, the Brutality of 'House Arrest'
+*   _Jamelle Bouie_: The New York Times Learns How Banal Racism Is
     
-*   _Nicholas Waddy_: Missile Defense: The Epitome of America First
+*   _Damon Linker_: Liberals' Clueless Crusade Against Far-Right Extremists
     
-*   _Isaac Fish_: Trump's Pyongyang Moment
+*   _Matthew Shaer_: How Far Will Sean Hannity Go?
     
-*   _Kim &. Becker_: Tax Cuts Hang in Balance in Critical Week for Republicans
+*   _Richard Cohen_: Trump Has Ushered in America's Darkest Hour
     
-*   _Josh Blackman_: Is Trump Restoring Separation of Powers?
+*   _Victor Davis Hanson_: Economy, Dems' Self-Destruction May Re-Elect Trump
     
-*   _Cesar Hernandez_: ICE's Courthouse Arrests Undercut Democracy
+*   _Paul Krugman_: The Biggest Tax Scam in History
     
-*   _Byron York_: What Really Happened With Republican Platform &. Russia
+*   _Bernie Marcus_: Republicans Should Unite For Legacy Tax-Reform Vote
     
-*   _Susan Glasser_: Trump's Russian Schizophrenia
+*   _James Arkin_: GOP Group Releases New Tax Reform Ads
     
-*   _Wang Dan_: Beijing Hinders Free Speech in America
+*   _Walter Russell Mead_: Trump Brings Foreign Policy Back to Earth
     
-*   _Kotkin &. Cox_: Playgrounds for Elites: Our Increasingly Left-Wing Cities
+*   _Nicholas Burns &. Ryan Crocker_: Dismantling the Foreign Service
     
-*   _Christine Emba_: Let's Rethink Sex
+*   _Rich Lowry_: Conyers Case Shows What Dems Really Think About Harassment
     
-*   _Ned Ryun_: In Defense of Masculinity
+*   _Chris Cillizza_: Al Franken Is Very Sorry, Though He's Not Sure Why
     
-*   _Stephen Marche_: The Unexamined Brutality of the Male Libido
+*   _Noemie Emery_: Forgiving Franken: Feminists Tighten Grip on Hot Stove
     
-*   _Ally Bowlin_: Abortion Is Not Empowering--I Know, Because I Had One
+*   _Dana Milbank_: The Unconvincing Roy Moore 'What Aboutism'
     
-*   _Sarah Marshall_: The Trials of a Pioneering Abortionist
+*   _Patrick Buchanan_: Why Roy Moore Matters
     
-*   _F.H. Buckley_: The Wrong Way to Save Academia
+*   _Nancy Gibbs_: How America Became So Divided
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump, Republicans Scramble to Win Votes for Tax Plan
+*   Republican Group Releases New Tax Reform Ads
+*   Trump Mocks "Pocahontas" Warren at Event With Navajo Code Talkers
 *   Looming Deadlines, Much Unfinished Business Await Congress
 *   Gorsuch's Early Reviews: What Right Hoped For, Left Feared
-*   Pelosi Defends Conyers, Says "Icon" Deserves "Due Process"
-*   Ala. Senate Race Shows National Parties' Waning Influence
-*   Conservative Group Aims to Sell Republican Tax Plan
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Alabama Senate Special Election - Moore vs. JonesEmerson
+    *   Moore53
+    *   Jones47Moore +6
 *   President Trump Job ApprovalGallup
     *   Approve37
-    *   Disapprove57Disapprove +20
+    *   Disapprove56Disapprove +19
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove55Disapprove +12
+    *   Approve42
+    *   Disapprove56Disapprove +14
 *   Direction of CountryRasmussen Reports
     *   Right Direction35
     *   Wrong Track58Wrong Track +23
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve36
-    *   Disapprove59Disapprove +23
 
 More Latest Polls In The News
 
-*   April Ryan: Blacks Are The "Opposition" In Press Room, Reporters Feel "Friendship" With Trump Admin
-*   Reporter Grills Franken On Groping: My Credibility Has Been Undermined, But I'm A "Good Questioner"
+*   Ted Cruz To Bernie Sanders: There Aren't Enough Millionaires To Pay For All Your Socialism
+*   Cantwell: Cruz Trying To "Divide" Democrats By Asking Difference Between Democrat And Socialist
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Sens. Dick Durbin and Lindsey Graham Debate Tax Reform. Graham: "Failure Is Not An Option"
-*   Tom Steyer Says He Became The Biggest Donor In Politics To Advocate For Getting Money Out Of Politics
+*   Warren: Trump Insults To Distract From WH Takeover At Consumer Financial Protection Bureau
+*   April Ryan: Blacks Are The "Opposition" In Press Room, Reporters Feel "Friendship" With Trump Admin
 
 *   Politics
 *   Policy
