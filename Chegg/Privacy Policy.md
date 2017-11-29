@@ -4,7 +4,7 @@ Last Updated and Effective Date: March 1, 2017
 
 See also: Terms of Use  
 General Policies  
-Tutoring Policies  
+Chegg Tutors Terms of Service  
 Intellectual Property Rights Owner Program PRIVACY POLICY
 
 We at Chegg, Inc. (collectively with any subsidiaries, "Chegg") have created this Privacy Policy to describe our practices regarding information we collect through our web sites, mobile features, applications and any other interactive features or services owned or controlled by Chegg that post a link to this Privacy Policy (each, a "Service" and collectively, the "Services"), as well as any information we collect offline and combine in our databases. Certain features discussed in this Privacy Policy may not be offered on each Service at any particular time. Note that we combine the information we collect from you through all of our web sites, mobile applications, and other Services.
