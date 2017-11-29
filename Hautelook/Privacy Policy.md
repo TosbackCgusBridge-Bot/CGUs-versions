@@ -4,22 +4,49 @@ Nordstrom RackHauteLook
 *   Help
 *   Invite a Friend, Get $20
 
-CartYou have no items in your cartStart shopping now to take advantage of prices up to 75% off.HauteLookFREE SHIPPING SITEWIDE on Standard Orders, Now Through Monday!\*
+CartYou have no items in your cartStart shopping now to take advantage of prices up to 75% off.HauteLookFree Shipping on Orders Over $100\* 90-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Designer Handbags: MCM &. More
-    *   Designer Shoes: Balmain, Versace &. More
-    *   Rebecca Taylor, A.L.C. &. More
+    *   ALEX AND ANI
+    *   Michael Stars Starting at $30
+    *   Donald Pliner
+    *   LOVE Moschino Up to 65% Off
+    *   Terani Couture
+    *   Great Hostess Gifts Starting at $10
+    *   Floral Notes: Gifts for the Home Starting at $10
+    *   The Grommet: Tech-Savvy Gifts Starting at $10
+    *   New Year's Hosting Essentials Starting at $10
+    *   Free Shipping: Winter Bedding Steals from $12
+    *   Shine On: Evening Clutches
+    *   Trending Textures: Velvet &. More Starting at $20
+    *   X by Gottex Active Up to 70% Off
+    *   Gentle Souls by Kenneth Cole
+    *   Cole Haan Men's Outerwear
+    *   Soul Star Up to 75% Off
+    *   A. Calin &. More Under $40
+    *   Hudson London
+    *   BC Footwear
+    *   Free Shipping: Sterling Silver Jewelry Under $80
+    *   Alterna Hair Care Up to 50% Off
+    *   Clean Fragrance Starting at $10
+    *   Korean Beauty: Skin 79 &. More
+    *   Dr. Martens
+    *   Heart to Heart: Room Decor &. More
+    *   Akid
     *   Smashbox at 50% Off
+    *   Designer Shoes: Balmain, Versace &. More
+    *   Designer Handbags: MCM &. More
+    *   Rebecca Taylor, A.L.C. &. More
     *   Men's Designer Shoes: Versace, Bruno Magli &. More
     *   Denim Shop ft. AG
-    *   Religion Up to 70% Off
     *   Men's Designer Accessories Up to 55% Off
+    *   Religion Up to 70% Off
     *   Ron Tomson Sportswear Up to 75% Off
     *   Isaac Mizrahi Boys &. More Up to 70% Off
     *   Free Shipping: Kitchen Finds Up to 65% Off
     *   Australia Luxe Collective Up to 65% Off
+    
     *   Blanc Noir Active Up to 70% Off
     *   On the Road Up to 70% Off
     *   Laura Geller New York Starting at $10
@@ -47,20 +74,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Hair Tools Up to 80% Off
     *   Free Shipping: Bedding Essentials Blowout
     *   Men's Shoes Up to 60% Off
-    *   Hanky Panky
     *   LORAC Starting at $10
-    *   ZAC Zac Posen Up to 70% Off
     *   Jared Lang Up to 75% Off
-    *   Vanity Room Up to 65% Off Incl. Special Sizes
-    *   Sub\_Urban Riot Starting at $15
-    
-    *   Kooba Handbags
-    *   Trend Jewelry: Colorful Pendants, Earrings &. Rings
-    *   YMI Swim &. More Under $30
-    *   Ramarim Up to 75% Off
-    *   Scarf Shop: La Fiorentina &. More
-    *   Athena Alexander Starting at $30
-    *   Made in Italy: Summit Up to 60% Off
     *   Pinrose Fragrances Under $30
     *   The Big Toy Shop
     *   Great Holiday Gifts: Coccoli Up to 65% Off
@@ -68,47 +83,22 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Barney Cools &. More Up to 60% Off
     *   Budget-Friendly Accent Furniture Under $300
     *   Free Shipping: Bohemian Decor Up to 70% Off
-    *   Kensie Footwear Up to 60% Off
-    *   After Market Sweaters Starting at $20
-    *   Sofia Cashmere Up to 75% Off
-    *   Trend Alert: Sock Boots Up to 70% Off
-    *   Stocking Stuffers Under $20
-    *   Barefoot Dreams Sleep
     *   Macadamia Professional Hair Care from $10
     *   Men's Boots Under $100
+    
     *   Nostalgia Kitchen Appliances Starting at $14
-    *   True Religion
-    *   True Religion Men
-    *   True Religion Kids
-    *   Go Couture Sweaters Up to 75% Off
-    *   Sigerson Morrison
-    *   Chantelle Lingerie Up to 55% Off
-    *   Winter Wardrobe: Dresses Up to 75% Off
-    *   Ramy Brook Up to 75% Off
-    *   Handmade Jewelry by Alisa Michelle Starting at $20
-    *   Qupid Boots Under $45
-    *   HYFVE &. More Under $30
-    *   Shiraleah Bags &. More Under $40
-    *   Under $100: 14K Gold Jewelry &. More
-    *   Cashmere, Silk &. More ft. Roberto Cavalli
-    *   Liliana Starting at $20
-    *   Kenneth Cole Reaction Sun &. More Under $25
-    *   dav Rain Boots Starting at $30
     *   The Perfect Present: Holiday Scents Up to 50% Off
-    *   Cosmetic Bags Under $15
+    *   Under $100: 14K Gold Jewelry &. More
     *   Terre Mere Organic Vegan Beauty Up to 80% Off
     *   Jean Claude Jewelry Up to 80% Off
     *   Swims Waterproof Boots Up to 50% Off
-    
     *   Men's Concert Tees Under $20 ft. Bravado
-    *   Great Gifts Under $20 from Melissa &. Doug
     *   Free Shipping: Art for Every Room
     *   Free Shipping: Down &. Memory Foam Up to 60% Off
     *   Step into the Holidays: Doormats Starting at $16
     *   Rogue Up to 85% Off
     *   OFRA Cosmetics Starting at $10
     *   Luxe Skin Care Up to 90% Off
-    *   TR Premium Up to 90% Off
     *   Free Shipping: Brazilian Cowhide &. Sheepskin Up to 80% Off
     *   Free Shipping: Bedding Blowout
     *   Light It Up: LED Lighting &. More from $10
@@ -117,14 +107,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Kevyn Aucoin Up to 75% Off
     *   Tweezerman Starting at $10
     *   Blend Mineral Cosmetics Up to 80% Off
-    *   X-Ray Starting at $20
-    *   Frank Wright Up to 60% Off
-    *   GBX Starting at $30
-    *   Erno Laszlo Up to 55% Off
-    *   Holiday Finds: Kids' Favorite Characters from A to Z
-    *   Zeus Men's Grooming
-    *   Mirenesse Australia Up to 70% Off
-    *   FOXYBAE Rose Gold Hair Tools Up to 70% Off
     *   One-of-a-Kind Blanket Blowout
     *   Vases &. Decor We Love Starting at $20
     *   Twisted Tea Towels at $12
@@ -133,22 +115,36 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Lighting We Love
     *   Everyday Kitchen Essentials Starting at $10
     *   Free Shipping: NFL Gifts Starting at $30
-    *   Free Shipping: Fashion Bedding Up to 80% Off
-    *   Le Creuset
-    *   Cuisinart
-    *   Prep the Guest Room: Bedding &. More
-    *   Free Shipping: Art Steals Up to 70% Off
     *   Free Shipping: Melange Bath Up to 75% Off
     *   Free Shipping: Chic Art &. Photography Prints
-    *   Shashi Trend Jewelry Starting at $15
-    *   Storage Essentials Under $25
     *   Wine Glasses &. More Starting at $12
+    *   Sub\_Urban Riot Starting at $15
+    *   Go Couture Sweaters Up to 75% Off
+    *   ZAC Zac Posen Up to 70% Off
+    *   Cosmetic Bags Under $15
+    *   Storage Essentials Under $25
 *   WomenShop Sale Events
     
-    *   Designer Handbags: MCM &. More
-    *   Designer Shoes: Balmain, Versace &. More
-    *   Rebecca Taylor, A.L.C. &. More
+    *   ALEX AND ANI
+    *   Michael Stars Starting at $30
+    *   Donald Pliner
+    *   LOVE Moschino Up to 65% Off
+    *   Terani Couture
+    *   Shine On: Evening Clutches
+    *   Trending Textures: Velvet &. More Starting at $20
+    *   X by Gottex Active Up to 70% Off
+    *   Gentle Souls by Kenneth Cole
+    *   A. Calin &. More Under $40
+    *   Hudson London
+    *   BC Footwear
+    *   Free Shipping: Sterling Silver Jewelry Under $80
+    *   Alterna Hair Care Up to 50% Off
+    *   Clean Fragrance Starting at $10
+    *   Korean Beauty: Skin 79 &. More
     *   Smashbox at 50% Off
+    *   Designer Shoes: Balmain, Versace &. More
+    *   Designer Handbags: MCM &. More
+    *   Rebecca Taylor, A.L.C. &. More
     *   Denim Shop ft. AG
     *   Religion Up to 70% Off
     *   Australia Luxe Collective Up to 65% Off
@@ -157,6 +153,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Laura Geller New York Starting at $10
     *   Predire Paris Up to 95% Off
     *   All About Cashmere: Accessories Starting at $35
+    
     *   Jessica Simpson Up to 50% Off
     *   Restricted Under $50
     *   Saachi Gemstone &. Leather Jewelry Starting at $15
@@ -170,87 +167,51 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Last Call: Styles Up to 80% Off
     *   Treasure Hunt: Jewelry Under $75
     *   Hair Tools Up to 80% Off
-    *   Hanky Panky
     *   LORAC Starting at $10
-    *   ZAC Zac Posen Up to 70% Off
-    *   Vanity Room Up to 65% Off Incl. Special Sizes
-    *   Sub\_Urban Riot Starting at $15
-    *   Kooba Handbags
-    *   Trend Jewelry: Colorful Pendants, Earrings &. Rings
-    *   YMI Swim &. More Under $30
-    *   Ramarim Up to 75% Off
-    *   Scarf Shop: La Fiorentina &. More
-    *   Athena Alexander Starting at $30
-    
-    *   Made in Italy: Summit Up to 60% Off
     *   Pinrose Fragrances Under $30
-    *   Kensie Footwear Up to 60% Off
-    *   After Market Sweaters Starting at $20
-    *   Sofia Cashmere Up to 75% Off
-    *   Trend Alert: Sock Boots Up to 70% Off
-    *   Stocking Stuffers Under $20
-    *   Barefoot Dreams Sleep
     *   Macadamia Professional Hair Care from $10
-    *   True Religion
-    *   Go Couture Sweaters Up to 75% Off
-    *   Sigerson Morrison
-    *   Chantelle Lingerie Up to 55% Off
-    *   Winter Wardrobe: Dresses Up to 75% Off
-    *   Ramy Brook Up to 75% Off
-    *   Handmade Jewelry by Alisa Michelle Starting at $20
-    *   Qupid Boots Under $45
-    *   HYFVE &. More Under $30
-    *   Shiraleah Bags &. More Under $40
-    *   Under $100: 14K Gold Jewelry &. More
-    *   Cashmere, Silk &. More ft. Roberto Cavalli
-    *   Liliana Starting at $20
-    *   Kenneth Cole Reaction Sun &. More Under $25
-    *   dav Rain Boots Starting at $30
     *   The Perfect Present: Holiday Scents Up to 50% Off
-    *   Cosmetic Bags Under $15
+    *   Under $100: 14K Gold Jewelry &. More
     *   Terre Mere Organic Vegan Beauty Up to 80% Off
     *   OFRA Cosmetics Starting at $10
     *   Luxe Skin Care Up to 90% Off
     *   Kevyn Aucoin Up to 75% Off
     *   Tweezerman Starting at $10
     *   Blend Mineral Cosmetics Up to 80% Off
-    *   Erno Laszlo Up to 55% Off
-    *   Mirenesse Australia Up to 70% Off
-    *   FOXYBAE Rose Gold Hair Tools Up to 70% Off
-    *   Shashi Trend Jewelry Starting at $15
+    *   Sub\_Urban Riot Starting at $15
+    *   Go Couture Sweaters Up to 75% Off
+    *   ZAC Zac Posen Up to 70% Off
+    *   Cosmetic Bags Under $15
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Accessories
     *   Handbags
-    *   Lingerie
     *   Tech Accessories
+    *   Accessories
     *   Watches
+    *   Lingerie
 *   MenShop Sale Events
     
+    *   Cole Haan Men's Outerwear
+    *   Soul Star Up to 75% Off
+    *   Dr. Martens
     *   Men's Designer Shoes: Versace, Bruno Magli &. More
     *   Men's Designer Accessories Up to 55% Off
     *   Ron Tomson Sportswear Up to 75% Off
     *   Men's Designer Shop: Styles Up to 60% Off
     *   TechnoMarine Watches Up to 70% Off
     *   Men's Shoes Up to 60% Off
+    
     *   Jared Lang Up to 75% Off
     *   Volcom Under $35
     *   Barney Cools &. More Up to 60% Off
     *   Men's Boots Under $100
-    
-    *   True Religion Men
     *   Jean Claude Jewelry Up to 80% Off
     *   Swims Waterproof Boots Up to 50% Off
     *   Men's Concert Tees Under $20 ft. Bravado
     *   Rogue Up to 85% Off
-    *   TR Premium Up to 90% Off
-    *   X-Ray Starting at $20
-    *   Frank Wright Up to 60% Off
-    *   GBX Starting at $30
-    *   Zeus Men's Grooming
     
     Shop By Category
     *   Clothing
@@ -259,30 +220,34 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Heart to Heart: Room Decor &. More
+    *   Akid
     *   Isaac Mizrahi Boys &. More Up to 70% Off
     *   Mimi &. Maggie Up to 65% Off
     *   First Steps Up to 50% Off
     *   World Tech Toys: RC Helicopters &. More from $7
     *   The Big Toy Shop
     *   Great Holiday Gifts: Coccoli Up to 65% Off
-    *   True Religion Kids
-    *   Great Gifts Under $20 from Melissa &. Doug
-    *   Holiday Finds: Kids' Favorite Characters from A to Z
     
     Shop By Category
     *   Toys
     *   Boys Sizes 2T-7
-    *   Girls Sizes 2T-6X
-    *   Kids Accessories
-    *   Girls Sizes 7-16
-    *   Boys Sizes 8-20
     *   Baby Gear &. Essentials
-    *   Baby Boy
-    *   Baby Girl
     *   Girls' Shoes
+    *   Kids Accessories
+    *   Girls Sizes 2T-6X
+    *   Boys Sizes 8-20
+    *   Baby Girl
+    *   Baby Boy
     *   Boys' Shoes
+    *   Girls Sizes 7-16
 *   HomeShop Sale Events
     
+    *   Great Hostess Gifts Starting at $10
+    *   Floral Notes: Gifts for the Home Starting at $10
+    *   The Grommet: Tech-Savvy Gifts Starting at $10
+    *   New Year's Hosting Essentials Starting at $10
+    *   Free Shipping: Winter Bedding Steals from $12
     *   Free Shipping: Kitchen Finds Up to 65% Off
     *   Free Shipping: Eddie Bauer Bedding Up to 50% Off
     *   Free Shipping: Steamer Steals Up to 70% Off
@@ -295,12 +260,12 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Down &. Memory Foam Up to 60% Off
     *   Step into the Holidays: Doormats Starting at $16
     *   Free Shipping: Brazilian Cowhide &. Sheepskin Up to 80% Off
+    
     *   Free Shipping: Bedding Blowout
     *   Light It Up: LED Lighting &. More from $10
     *   iHome Tech Accessories Starting at $10
     *   Free Shipping: Gifts for Men Starting at $14
     *   One-of-a-Kind Blanket Blowout
-    
     *   Vases &. Decor We Love Starting at $20
     *   Twisted Tea Towels at $12
     *   Car Storage &. Organization Starting at $10
@@ -308,15 +273,10 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Lighting We Love
     *   Everyday Kitchen Essentials Starting at $10
     *   Free Shipping: NFL Gifts Starting at $30
-    *   Free Shipping: Fashion Bedding Up to 80% Off
-    *   Le Creuset
-    *   Cuisinart
-    *   Prep the Guest Room: Bedding &. More
-    *   Free Shipping: Art Steals Up to 70% Off
     *   Free Shipping: Melange Bath Up to 75% Off
     *   Free Shipping: Chic Art &. Photography Prints
-    *   Storage Essentials Under $25
     *   Wine Glasses &. More Starting at $12
+    *   Storage Essentials Under $25
     
     Shop By Category
     *   Home Decor
@@ -330,26 +290,25 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Rugs
 *   BeautyShop Sale Events
     
+    *   Alterna Hair Care Up to 50% Off
+    *   Clean Fragrance Starting at $10
+    *   Korean Beauty: Skin 79 &. More
     *   Smashbox at 50% Off
     *   Laura Geller New York Starting at $10
     *   Predire Paris Up to 95% Off
     *   Hair Tools Up to 80% Off
     *   LORAC Starting at $10
     *   Pinrose Fragrances Under $30
+    
     *   Macadamia Professional Hair Care from $10
     *   The Perfect Present: Holiday Scents Up to 50% Off
-    *   Cosmetic Bags Under $15
     *   Terre Mere Organic Vegan Beauty Up to 80% Off
-    
     *   OFRA Cosmetics Starting at $10
     *   Luxe Skin Care Up to 90% Off
     *   Kevyn Aucoin Up to 75% Off
     *   Tweezerman Starting at $10
     *   Blend Mineral Cosmetics Up to 80% Off
-    *   Erno Laszlo Up to 55% Off
-    *   Zeus Men's Grooming
-    *   Mirenesse Australia Up to 70% Off
-    *   FOXYBAE Rose Gold Hair Tools Up to 70% Off
+    *   Cosmetic Bags Under $15
     
     Shop By Category
     *   Makeup
@@ -546,4 +505,4 @@ Get a $20 credit each time a friend you invite makes their first purchase. Limit
 
 Or you can use your personal referral link to invite
 
-Shipping &. ReturnsFree Shipping is valid on U.S. ground flat-rate standard shipping for any qualifying transaction, pretax, made between 9:01 PM PST on Thursday, November 23, 2017, and 11:59 PM PST on Monday, November 27, 2017. Free Shipping is not valid on orders placed with Next Business-Day or Two Business-Day shipping. Product exclusions or additional shipping charges may apply, and will be reflected in the customer's cart. Credit will not be granted if transaction is canceled or item(s) are returned. Nordstromrack.com | HauteLook reserves the right to suspend or terminate this offer at any time.Easy ReturnsReturn to StoreBring your invoice and returnable item to your nearest store.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US, $10.95 for Canada and $25.95 for Australia. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.
+Shipping &. ReturnsFree shipping is applied to orders over $100 before tax. International orders and all items over 5lbs excluded.Easy ReturnsReturn to StoreBring your invoice and returnable item to your nearest store.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US, $10.95 for Canada and $25.95 for Australia. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.
