@@ -1,4 +1,4 @@
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. menu
+menu
 
 *   SC US
 *   SC UK
@@ -52,7 +52,7 @@ Show Search Bar
 
 The Cybersecurity source Privacy Policy
 
-**Last updated: November 10, 2017**
+**Last updated: November 28, 2017**
 
 US Privacy Policy
 
@@ -101,7 +101,7 @@ We will share your Personal Information with our third party suppliers who need 
 
 Haymarket will share user data with the accredited provider(s) of CME/CE activities in which users participate, and/or medical education and communications companies who assisted in the development of CME/CE activities in which users participate.
 
-In order to comply with the Federal CAN-SPAM Act of 2003, we also may provide lists of customers who have opted-out of email promotion for Haymarket products to other companies, so they can be suppressed from mailings those companies send on Haymarket's behalf. In addition, if you unsubscribe from a mailing we send to our own list on behalf of a third party, your removal instruction may also be supplied to the third party and added to their own suppression file. If you continue receiving email after opting out, please contact us at custserve@haymarketmedia.com
+In order to comply with the Federal CAN-SPAM Act of 2003, we also may provide lists of customers who have opted-out of email promotion for Haymarket products to other companies, so they can be suppressed from mailings those companies send on Haymarket's behalf. In addition, if you unsubscribe from a mailing we send to our own list on behalf of a third party, your removal instruction may also be supplied to the third party and added to their own suppression file. If you continue receiving email after opting out, please contact us at custserv@haymarketmedia.com
 
 **Aggregated information**
 
@@ -113,7 +113,7 @@ As a business-to-business company, we do not knowingly collect information from 
 
 **Updating Visitor Information:**
 
-You have the option of accessing, correcting, updating and modifying your Personal and/or Financial Information, or visitor profile, at any time and as often as desired. If you desire to delete your Personal and/or Financial Information please contact us at custserve@haymarketmedia.com
+You have the option of accessing, correcting, updating and modifying your Personal and/or Financial Information, or visitor profile, at any time and as often as desired. If you desire to delete your Personal and/or Financial Information please contact us at custserv@haymarketmedia.com
 
 **Update Your Newsletter Subscriptions**
 
@@ -121,7 +121,7 @@ You can opt-in to newsletter mailing lists, or remove yourself (opt-out) at any 
 
 **Update Your Print Subscription Information**
 
-You can correct or change your print subscription information by sending an email to custserve@haymarketmedia.com After processing your change will take effect with the next available issue.
+You can correct or change your print subscription information by sending an email to custserv@haymarketmedia.com After processing your change will take effect with the next available issue.
 
 **Third Party and Affiliated Links:**
 
@@ -206,4 +206,4 @@ Copyright © 2016 Haymarket Media, Inc. All Rights Reserved.
 This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
 Your use of this website constitutes acceptance of Haymarket Media's Privacy Policy and Terms &. Conditions.
 
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W475TQW" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W475TQW" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
