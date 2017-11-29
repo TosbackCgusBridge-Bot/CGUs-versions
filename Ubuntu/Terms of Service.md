@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   How to write an Ubuntu tutorial ›
 *   LXD Weekly Status #25 ›
 *   Making NTP best practices easy with Juju charms ›
 *   Announcing snapcraft 2.35 ›
 *   Join us at the Ubuntu Enterprise Summit! ›
-*   Ubuntu Server Development Summary – 21 Nov 2017 ›
