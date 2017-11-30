@@ -111,7 +111,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         
     *   Awards
         
-    *   Advertising
+    *   Our brand
         
     
     *   Sponsorship
@@ -391,7 +391,7 @@ News and insight
 *   Media resources
 *   Insight archive
 *   Awards
-*   Advertising
+*   Our brand
 *   Sponsorship
 
 Careers
