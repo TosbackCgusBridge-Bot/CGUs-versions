@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Andrew McCarthy_: The Law Makes Clear Trump's in the Right on the CFPB
+*   _Mollie Hemingway_: Pence, Warren and Why People Loathe the Media
     
-*   _Eugene Robinson_: We Will All Pay a Price for Trump's Nihilism
+*   _Paul Waldman_: Can We Just Say It Already? Donald Trump Is a Racist.
     
-*   _Mollie Hemingway_: No, Trump's 'Pocahontas' Insult of Warren Isn't Racist
+*   _Brian Darling_: Reminder: Elizabeth Warren Isn't Native American
     
-*   _Rosie Gray &. McKay Coppins_: How James O'Keefe Made Himself Irrelevant
+*   _Carol Costello_: Beware the Sexual Harassment Backlash
     
-*   _Justin Dent_: Long Overlooked, Millennials Get Boost From GOP Tax Plans
+*   _Ross Baker_: Democrats Are Now the Puritans and It Could Cost Them
     
-*   _Ezra Klein_: 5 Big Problems the Senate Republican Tax Bill Creates
+*   _Thomas Kean_: Trump Should Fire the E.P.A.'s Scott Pruitt
     
-*   _Andrew Egger_: Why Won't Al Franken Say Whether He Believes His Accusers?
+*   _Gary Shilling_: Trump Deregulation Is a Major Driver of Stock Market Rally
     
-*   _Bari Weiss_: The Limits of 'Believe All Women'
+*   _Doug Badger_: Obamacare's Individual Mandate Is Repealing Itself
     
-*   _Jamelle Bouie_: The New York Times Learns How Banal Racism Is
+*   _Ryan Enos_: How Segregation Leads to Racist Voting by Whites
     
-*   _Damon Linker_: Liberals' Clueless Crusade Against Far-Right Extremists
+*   _Edith Jorge_: How Republicans Are Winning Over Hispanic Voters
     
-*   _Matthew Shaer_: How Far Will Sean Hannity Go?
+*   _Megan Garber_: The Ghost of Matt Lauer
     
-*   _Richard Cohen_: Trump Has Ushered in America's Darkest Hour
+*   _Rappeport &. Kaplan_: Republicans Clear Major Hurdle as Tax Bill Advances
     
-*   _Victor Davis Hanson_: Economy, Dems' Self-Destruction May Re-Elect Trump
+*   _Conrad Black_: Roy Moore, Al Franken and the Current Panic
     
-*   _Paul Krugman_: The Biggest Tax Scam in History
+*   _Josh Kraushaar_: Democratic Women in 2018: Hear Them Roar
     
-*   _Bernie Marcus_: Republicans Should Unite For Legacy Tax-Reform Vote
+*   _Ronna McDaniel_: Dems Were for Tax Reform Before They Were Against It
     
-*   _James Arkin_: GOP Group Releases New Tax Reform Ads
+*   _Caitlin Huey-Burns_: Red State Democrats Unintimidated by Trump's Tax Push
     
-*   _Walter Russell Mead_: Trump Brings Foreign Policy Back to Earth
+*   _David Catanese_: Elizabeth Warren's Pocahontas Pickle
     
-*   _Nicholas Burns &. Ryan Crocker_: Dismantling the Foreign Service
+*   _Arvina Martin_: Trump's Insult Makes Mockery of Native American History
     
-*   _Rich Lowry_: Conyers Case Shows What Dems Really Think About Harassment
+*   _Liz Peek_: What Trump Knows About 'Pocahontas' and the CFPB
     
-*   _Chris Cillizza_: Al Franken Is Very Sorry, Though He's Not Sure Why
+*   _James Arkin_: Trump, Democrats Cast Preemptive Shutdown Blame
     
-*   _Noemie Emery_: Forgiving Franken: Feminists Tighten Grip on Hot Stove
+*   _Chris Cillizza_: Donald Trump's Secret? There Is No Secret
     
-*   _Dana Milbank_: The Unconvincing Roy Moore 'What Aboutism'
+*   _Arthur Herman_: Why Mike Pence Is the Most Important Man in America
     
-*   _Patrick Buchanan_: Why Roy Moore Matters
+*   _Alan Dershowitz_: When Politics Is Criminalized
     
-*   _Nancy Gibbs_: How America Became So Divided
+*   _A.B. Stoddard_: Both Parties Killed Off Good Character in Politics
     
 
 *   Previous
@@ -250,10 +250,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump, Republicans Scramble to Win Votes for Tax Plan
+*   Red State Democrats Unintimidated by Trump's Tax Push
+*   Trump, Democrats Cast Preemptive Shutdown Blame
+*   Cruz vs. Sanders: Not Enough Millionaires to Pay for Your Socialism
 *   Republican Group Releases New Tax Reform Ads
-*   Trump Mocks "Pocahontas" Warren at Event With Navajo Code Talkers
-*   Looming Deadlines, Much Unfinished Business Await Congress
 *   Gorsuch's Early Reviews: What Right Hoped For, Left Feared
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Alabama Senate Special Election - Moore vs. JonesEmerson
-    *   Moore53
-    *   Jones47Moore +6
+*   Alabama Senate Special Election - Moore vs. JonesJMC Analytics
+    *   Moore49
+    *   Jones44Moore +5
 *   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove56Disapprove +19
+    *   Approve38
+    *   Disapprove55Disapprove +17
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve42
-    *   Disapprove56Disapprove +14
-*   Direction of CountryRasmussen Reports
-    *   Right Direction35
-    *   Wrong Track58Wrong Track +23
+    *   Approve41
+    *   Disapprove57Disapprove +16
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve38
+    *   Disapprove57Disapprove +19
 
 More Latest Polls In The News
 
-*   Ted Cruz To Bernie Sanders: There Aren't Enough Millionaires To Pay For All Your Socialism
-*   Cantwell: Cruz Trying To "Divide" Democrats By Asking Difference Between Democrat And Socialist
+*   CNN's Don Lemon Uses Matt Lauer's Campaign Interview With Hillary Clinton As Example Of Sexism
+*   Full CNN Debate: Bernie Sanders, Maria Cantwell vs. Ted Cruz, Tim Scott on Tax Reform
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Warren: Trump Insults To Distract From WH Takeover At Consumer Financial Protection Bureau
-*   April Ryan: Blacks Are The "Opposition" In Press Room, Reporters Feel "Friendship" With Trump Admin
+*   Ted Cruz To Bernie Sanders: There Aren't Enough Millionaires To Pay For All Your Socialism
+*   Olbermann Retires From Political Commentary: Trump Presidency Will End Prematurely And Soon
 
 *   Politics
 *   Policy
