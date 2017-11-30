@@ -106,10 +106,10 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   IKEA Expands Dresser Recall After 8th Child Dies
-    *   5 Factors Predict Heart Health
-    *   Severe Psoriasis May Make Diabetes More Likely
-    *   Is Common Shoulder Surgery Beneficial?
+    *   Is It Time to Discontinue the Pap Test?
+    *   New BP Guidelines: What You Need to Know
+    *   FDA Warns Biotin Can Interfere With Lab Tests
+    *   Seeking Better Sleep? Open a Window
     *   Does Your Brain Know When You're Dead?
     
     Experts &. Community
@@ -118,7 +118,7 @@ Skip to main content
     *   Expert Blogs
     *   News Center
     
-    Featured Topics*   News Special Why Do So Many Women Die After Childbirth?
+    Featured Topics*   News Special Why Are Women Still Dying From Childbirth?
     *   Newsletters Sign Up to Receive Our Free Newsletters
 *   Mobile Apps
 *   Subscriptions
