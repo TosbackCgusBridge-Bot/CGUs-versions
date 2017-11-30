@@ -113,7 +113,7 @@ COMPARE **NX**
 
 **LX**
 
-*   Starting at $89,9805\*
+*   Starting at $84,9805\*
 *   383-HP3\* V8, FULL-TIME 4WD
 
 *   Build
@@ -235,7 +235,11 @@ COMPARE **RC F**
 
 SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
-COMPARE **LF-C2**
+COMPARE **RXL**
+
+*   FUTURE VEHICLE
+
+**LF-C2**
 
 *   CONCEPT CONVERTIBLE
 
@@ -383,7 +387,6 @@ Brand &. Lifestyle
 *   LFA Supercar
 *   Lexus Hybrids
 *   Lexus Merchandise
-*   Lexus Magazine
 *   Lexus International
 *   Sponsored Athletes
 
@@ -439,7 +442,6 @@ Language
     *   LFA Supercar
     *   Lexus Hybrids
     *   Lexus Merchandise
-    *   Lexus Magazine
     *   Lexus International
     *   Sponsored Athletes
 *   Language
