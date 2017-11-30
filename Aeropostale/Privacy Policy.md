@@ -1,4 +1,4 @@
-close dialogCYBER MONDAY SALEDON’T MISS OUTUp to 75% off Everything+ additional 20% off your entire orderUse code: CYBEREnds in:05hours:32minutes:40secondsclose dialog Aeropostale
+close dialogCYBER MONDAY SALEDON’T MISS OUTUp to 75% off Everything+ additional 20% off your entire orderUse code: CYBEREnds in:05hours:32minutes:00secondsclose dialog Aeropostale
 
 *   Open submenu ( Girls ) Girls
 *   Open submenu ( Guys ) Guys
@@ -97,13 +97,12 @@ Close submenu ( Featured ) Featured
 *   New Arrivals
 *   Hoodies + Joggers
 *   Jean Guide
-*   Aero Active
-*   Icon Tees
 *   Logo Shop
+*   Tapout + Aero Active
+*   Icon Tees
 *   Warm + Rugged
-*   Online Only
 *   Back to Basics
-*   Tapout
+*   Online Only
 *   Uniform
 *   Extended Sizes
 
@@ -356,13 +355,12 @@ Menu Find a Store Aeropostale
         *   New Arrivals
         *   Hoodies + Joggers
         *   Jean Guide
-        *   Aero Active
-        *   Icon Tees
         *   Logo Shop
+        *   Tapout + Aero Active
+        *   Icon Tees
         *   Warm + Rugged
-        *   Online Only
         *   Back to Basics
-        *   Tapout
+        *   Online Only
         *   Uniform
         *   Extended Sizes
     *   Clearance
@@ -595,4 +593,4 @@ Stay Connected
 *   Refer a Friend
 *   College Student Discount
 
-© 2017 Aeropostale. All Rights Reserved. close dialogCYBER MONDAY SALEDON’T MISS OUTUp to 75% off Everything+ additional 20% off your entire orderUse code: CYBEREnds in:05hours:32minutes:40secondsclose dialogclose dialogCyber Monday SaleUp to 75% off everything+ Extra 20% off your entire orderPlease enter aboveOffer Ends In:05hours:32minutes:40secondsShop the deals No thanksclose dialog
+© 2017 Aeropostale. All Rights Reserved. close dialogCYBER MONDAY SALEDON’T MISS OUTUp to 75% off Everything+ additional 20% off your entire orderUse code: CYBEREnds in:05hours:32minutes:00secondsclose dialogclose dialogExtended Cyber Monday SaleUp to 75% off everything+ Extra 20% off your entire orderPlease enter aboveOffer Ends In:Shop the deals No thanksclose dialog
