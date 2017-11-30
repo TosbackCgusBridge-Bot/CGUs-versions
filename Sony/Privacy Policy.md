@@ -331,7 +331,7 @@ In Gaming
 
 For our #GodofWar #fanart contest winners, not only will they be receiving a RARE Huldra Bros coin but also a special thank you card: bit.ly/HuldraFanArtGOW
 
-7 hours ago
+1 day ago
 
 View Tweet
 
