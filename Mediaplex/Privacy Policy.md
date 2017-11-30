@@ -57,11 +57,9 @@ Questions/Comments
 
 Send me emails containing marketing messages from Conversant and our affiliates.
 
-PROFIT FROM  
-THE MOST  
-POWERFUL TOOLS  
-IN MEDIA AND  
-MARKETING TECH What We Do Watch Video
+GIVE EACH CONSUMER  
+THEIR OWN REASON  
+TO LOVE YOUR BRAND What We Do Watch Video
 
 *   160+ MILLION Real People You Can  
     Message Right Now
