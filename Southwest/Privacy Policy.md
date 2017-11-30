@@ -151,7 +151,7 @@ Note that your browser settings may allow you to automatically transmit a “Do 
 
 Certain advertising networks and exchanges may participate in the Digital Advertising Alliance ("DAA") AdChoices Program and may display an Advertising Option Icon for interest-based ads. You can learn more about the DAA AdChoices Program at http://www.youradchoices.com and its opt out program for mobile applications at http://www.aboutads.info/appchoices. In addition, certain advertising networks and exchanges may participate in the Network Advertising Initiative (“NAI”). NAI has developed a tool that allows consumers to opt out of targeted advertising delivered by NAI members' ad networks. To learn more about opting out of targeted advertising or to use the tool, visit http://www.networkadvertising.org/choices/. We are not responsible for effectiveness of, or compliance with, any third-parties’ opt out options or programs or the accuracy of their statements regarding their programs.
 
-Southwest also has a specific marketing platform that uses persistent cookies. To opt out from our marketing platform’s persistent cookies click here (please note that if you delete your cookies or switch to a different browser you will have to repeat this procedure). Use of cookies by Southwest’s marketing platform is subject to its privacy policies. Please be aware that, even if you are able to opt out of certain kinds of targeted advertising, you will continue to receive generic ads.
+Southwest also has a specific marketing platform that uses persistent cookies. Click this link to opt out from our marketing platform’s persistent cookies (please note that if you delete your cookies or switch to a different browser you will have to repeat this procedure). Use of cookies by Southwest’s marketing platform is subject to its privacy policies. Please be aware that, even if you are able to opt out of certain kinds of targeted advertising, you will continue to receive generic ads.
 
   
 Back to Top Social Features
@@ -198,7 +198,7 @@ Promotional Communications**
 
 You can opt out of receiving promotional e-mail communications from us at any time by following the instructions provided in those communications or e-mail us as detailed here
 
-As a Southwest customer, Southwest account holder, SWABIZ®, or Rapid Rewards® Member, or user of the Services, you may also receive periodic promotional postal mailings from Southwest Airlines and/or our select marketing partners. If you do not wish to receive such promotional mailings, you may call Rapid Rewards® Customer Relations at 214-932-0333 (Monday - Friday, 7am-8pm CT).
+As a Southwest customer, Southwest account holder, SWABIZ®, or Rapid Rewards® Member, or user of the Services, you may also receive periodic promotional postal mailings from Southwest Airlines and/or our select marketing partners. If you do not wish to receive such promotional mailings, you may call Rapid Rewards® Customer Relations at 855-234-4656 (Monday - Friday, 7am-8pm CT).
 
 Please note that even if you opt out of receiving promotional communications, we may continue to send you non-promotional e-mails and other types of communications, as permitted by law, such as those about our ongoing business relations. For example, we may send e-mails that contain service-related announcements that affect your account, confirmations and updates regarding flight reservations you have made, requests for feedback on our services and/or your specific travel experiences, or responses to your comments and feedback submitted to us.  
 
