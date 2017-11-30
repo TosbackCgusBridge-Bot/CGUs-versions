@@ -313,7 +313,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     Christmas Shop >.
     
     *   Christmas Stockings
-    *   Christmas Ornaments and Tree Skirts
+    *   Christmas Ornaments &. Tree Skirts
     *   Christmas Wreaths
     *   Christmas Bedding
     *   Christmas Candy &. Treats
@@ -351,7 +351,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Storage &. Organization
     *   Door Mats
     *   Luggage &. Bags
-    *   Canvas Totes
+    *   Canvas TotesDOG SHOP >.
 *    Gifts FEATURED SHOPS
     
     *   Holiday Shop
@@ -675,7 +675,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Christmas Shop
         *   Back
         *   Christmas Stockings
-        *   Christmas Ornaments and Tree Skirts
+        *   Christmas Ornaments &. Tree Skirts
         *   Christmas Wreaths
         *   Christmas Bedding
         *   Christmas Candy &. Treats
@@ -711,6 +711,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Door Mats
         *   Luggage &. Bags
         *   Canvas Totes
+    *   DOG SHOP
 *    Gifts
     *   Back
     *   Shop all Gifts
@@ -777,9 +778,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 50% off your order. Plus, women's Supima cardigans from $20!
+Receive 50% off 1 full-price style!
 
-code: SAVINGS pin: 2080 DETAILS
+code: WREATH pin: 2691 DETAILS
 
 Customer Service Menu
 
