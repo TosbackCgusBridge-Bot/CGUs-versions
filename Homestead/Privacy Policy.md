@@ -112,7 +112,7 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
     *   Account Log In
     *   Webmail Log In
 
-© 2016 Homestead Technologies Inc. All Rights Reserved. | Legal | Privacy
+© 2017 Homestead Technologies Inc. All Rights Reserved. | Legal | Privacy
 
 Follow Us:
 
