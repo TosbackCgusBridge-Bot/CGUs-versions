@@ -404,7 +404,7 @@ Returns
 
 Promotions
 
-*   FOR A LIMITED TIME, SAVE 15% ON YOUR FIRST BUCKLE CARD PURCHASE
+*   Buckle Card 15% Off Promotion
 *   Friends &. Family Shop Event
 *   Buckle Card Sport Bottle GWP
 *   All Promotions
