@@ -778,9 +778,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 50% off 1 full-price style!
+Receive 50% off all home merchandise and totes. 40% off everything else!
 
-code: WREATH pin: 2691 DETAILS
+code: CAROLS pin: 4582 DETAILS
 
 Customer Service Menu
 
