@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms JPSS-1 satellite now has a new name: NOAA-20. Learn why. AROUND NOAA // Fisheries scientists to reap benefits of new NOAA satellite Globe had 3rd warmest year to date and 4th warmest October on record Think outside the bird this Thanksgiving: Serve up some seafood
+Enter Search Terms Extremely active 2017 Atlantic hurricane season finally ends Investments in forecasting and research yield more accurate predictions AROUND NOAA // New NOAA tool is helping to predict U.S. droughts, global famine JPSS-1 satellite now has a new name: NOAA-20. Learn why. Fisheries scientists to reap benefits of new NOAA satellite
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-istock
+NOAA
