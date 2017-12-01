@@ -249,20 +249,17 @@ Menu Close Menu Close
         
 *   Deals
     
-    *   Explore All Deals
-    *   Cyber Monday Doorbusters
-    *   Home Laptop Deals
-    *   ThinkPad Deals
+    *   Featured Deals
+    *   Laptop Deals
+    *   Professional Laptop Deals
     *   Desktop Deals
-    *   Tablet Deals
-    *   Accessory Deals
+    *   Accessories Deals
     *   Clearance
-    *   Financing Options
     *   Outlet
     
-    *   *   Doorbusters
+    *   *   12 Days of Christmas
             
-        *   Save up to 44% on ThinkPad
+        *   12 Days of Business
             
         *   Holiday Store
             
@@ -316,20 +313,41 @@ Home >. Filter by specs Offers
 *   Extended Holiday Hours! 9am-11pm on Black Friday &. Cyber Mon. See Complete Extended Holiday Schedule. >
 *   Free Shipping &. Free Returns for the Holidays. Learn More >
 
-PrevNext EXTENDED CYBER MONDAY SALE
+PrevNext Amazing Deals so Hot, they disappear in a Flash!
 
-Even more days to save! Up to 60% off through Nov. 30  
-on select items-while supplies last.
+Sale ends December 12 at Midnight EST.
 
-Shop Now >.
+Weekly Sale >. Daily Deal >.
 
-Special Financing Available
+The Perfect Balance
+
+Performance, memory, and flexibility for SMB and enterprise workloads
+
+ThinkSystem SR570 >. ThinkSystem SR590 >.
+
+*   1
+*   2
 
 Stand up and Fight!
 
 Begin your journey with Star Wars Jedi Challenges
 
-C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE!
+12 Days of Business Sale
+
+Unwrap today’s daily deal and get your business the gift it deserves.
+
+Yoga 920 14"
+
+Sleeker than ever and packed with speed and power.
+
+ThinkPad T470s
+
+Boost Your Productivity With Performance You Can Count On
+
+C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE! Check out today's Daily Deal - New Offers Each Day. While Supplies Last!
+
+*   1
+*   2
 
 LAPTOPS
 
