@@ -164,7 +164,7 @@ Customer Care
 
 *   Contact Us
 
-*   About WebMD Policies
+*   About WebMD
 
 WebMD Privacy Policy Share on FacebookShare on TwitterShare on PinterestSaveEmailPrintListen
 
