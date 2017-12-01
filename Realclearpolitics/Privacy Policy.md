@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Mollie Hemingway_: Pence, Warren and Why People Loathe the Media
+*   _Doreen St. Felix_: Matt Lauer's Firing &. NBC's Theater of Accountability
     
-*   _Paul Waldman_: Can We Just Say It Already? Donald Trump Is a Racist.
+*   _Charles Lipson_: Nancy Pelosi -- Roy Moore's Accidental Wingman
     
-*   _Brian Darling_: Reminder: Elizabeth Warren Isn't Native American
+*   _David Graham_: Trump's Musical Chairs Chaos in the Cabinet Room
     
-*   _Carol Costello_: Beware the Sexual Harassment Backlash
+*   _Roger Kimball_: If We Love Democracy, Why Does 'Populism' Get a Bad Rap?
     
-*   _Ross Baker_: Democrats Are Now the Puritans and It Could Cost Them
+*   _Thomas Edsall_: Trump &. the Self-Destruction of American Democracy
     
-*   _Thomas Kean_: Trump Should Fire the E.P.A.'s Scott Pruitt
+*   _Rush Limbaugh_: Trump Has Momentum &. His Critics Are Losing It
     
-*   _Gary Shilling_: Trump Deregulation Is a Major Driver of Stock Market Rally
+*   _Sarah Kliff_: Tax Bill Makes Dangerous Changes to Federal Health Care
     
-*   _Doug Badger_: Obamacare's Individual Mandate Is Repealing Itself
+*   _Michael Tanner_: Individual-Mandate Repeal Makes GOP Plan More Attractive
     
-*   _Ryan Enos_: How Segregation Leads to Racist Voting by Whites
+*   _Amber Tamblyn_: I'm Not Ready for the Redemption of Men
     
-*   _Edith Jorge_: How Republicans Are Winning Over Hispanic Voters
+*   _Tucker Carlson_: Not Every Accuser Tells The Truth. I Should Know
     
-*   _Megan Garber_: The Ghost of Matt Lauer
+*   _Mike Hixenbaugh_: Alive Inside: How a Hospital Helps Brain-Damaged Patients
     
-*   _Rappeport &. Kaplan_: Republicans Clear Major Hurdle as Tax Bill Advances
+*   _Amy Walter_: Sexual Harassment &. the Dems' Missed Opportunity
     
-*   _Conrad Black_: Roy Moore, Al Franken and the Current Panic
+*   _E.J. Dionne_: Who Will Challenge Trump's Enablers?
     
-*   _Josh Kraushaar_: Democratic Women in 2018: Hear Them Roar
+*   _Newt Gingrich_: President Trump Is Decisively Reining In the Left
     
-*   _Ronna McDaniel_: Dems Were for Tax Reform Before They Were Against It
+*   _Andrew Rosenthal_: Are Republican Senators Truly That Clueless on Taxes?
     
-*   _Caitlin Huey-Burns_: Red State Democrats Unintimidated by Trump's Tax Push
+*   _Brian Riedl_: The Misleading Arguments Against the Tax Bills
     
-*   _David Catanese_: Elizabeth Warren's Pocahontas Pickle
+*   _Ramin Setoodeh &. Elizabeth Wagmeister_: Matt Lauer, Exposed
     
-*   _Arvina Martin_: Trump's Insult Makes Mockery of Native American History
+*   _Brent Bozell_: Matt Lauer and the Raging Hypocrisy on Sexual Harassment
     
-*   _Liz Peek_: What Trump Knows About 'Pocahontas' and the CFPB
+*   _Ezra Klein_: The Case for Normalizing Impeachment
     
-*   _James Arkin_: Trump, Democrats Cast Preemptive Shutdown Blame
+*   _Victor Davis Hanson_: Who Polices the Police?
     
-*   _Chris Cillizza_: Donald Trump's Secret? There Is No Secret
+*   _Sophia Tesfaye_: The Guy Who Wrecked Kansas Is the GOP's Role Model
     
-*   _Arthur Herman_: Why Mike Pence Is the Most Important Man in America
+*   _David French_: Elizabeth Warren, Progressive Fraud
     
-*   _Alan Dershowitz_: When Politics Is Criminalized
+*   _David Byler_: A Rising Tide in Alabama? Roy Moore Gains Ground in Polls
     
-*   _A.B. Stoddard_: Both Parties Killed Off Good Character in Politics
+*   _Peter Beinart_: Trump's Anti-Muslim Political Strategy
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Backs McCaskill Opponent as He Stumps for Tax Bill
+*   Senate Takes Key Tax Reform Step, Votes to Open Debate
+*   Cruz vs. Sanders: Not Enough Millionaires to Pay for Your Socialism
 *   Red State Democrats Unintimidated by Trump's Tax Push
 *   Trump, Democrats Cast Preemptive Shutdown Blame
-*   Cruz vs. Sanders: Not Enough Millionaires to Pay for Your Socialism
-*   Republican Group Releases New Tax Reform Ads
-*   Gorsuch's Early Reviews: What Right Hoped For, Left Feared
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve36
+    *   Disapprove57Disapprove +21
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve42
+    *   Disapprove56Disapprove +14
 *   Alabama Senate Special Election - Moore vs. JonesJMC Analytics
     *   Moore49
     *   Jones44Moore +5
-*   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove55Disapprove +17
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve41
-    *   Disapprove57Disapprove +16
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve38
     *   Disapprove57Disapprove +19
 
 More Latest Polls In The News
 
-*   CNN's Don Lemon Uses Matt Lauer's Campaign Interview With Hillary Clinton As Example Of Sexism
-*   Full CNN Debate: Bernie Sanders, Maria Cantwell vs. Ted Cruz, Tim Scott on Tax Reform
+*   NYT's Charles Blow: Steinle's Murder Epitomizes "White Pathology" Trump Projects On Minorities
+*   Grover Norquist: Game Over, With John McCain Commitment To Vote Yes, Tax Cut Bill Is Unstoppable
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Ted Cruz To Bernie Sanders: There Aren't Enough Millionaires To Pay For All Your Socialism
-*   Olbermann Retires From Political Commentary: Trump Presidency Will End Prematurely And Soon
+*   Sen. Angus King Against Tax Bill: The Faster A Bill Moves Through The Senate, The Worse It Will Be
+*   Scarborough Questions Trump's Sanity: "If This Is Not What The 25th Amendment Was Drafted For"
 
 *   Politics
 *   Policy
