@@ -86,10 +86,6 @@ Previous OTA privacy policies are posted below
 *   Upcoming Events
 *   News
 
-Wed, Nov 29, 2017 IoT Tech Expo - North America
-
-Jeff Wilbur, Director of the OTA Initiative at Internet Society, will participate in a panel on "Testing in the IoT Ecosystem" at noon on November 29, talking about OTA's IoT Trust Framework.
-
 Mon, Apr 16, 2018 RSA Conference 2018
 
 Once again OTA is an Associaton Sponsor of the RSA Conference. Join us and other OTA member conference sponsors Agari, Malwarebytes, Microsoft and Symantec in San Francisco. Many other OTA members will be exhibiting as well. When sessions involving OTA and member organizations are announced, we will highlight them. When you register, be sure to note you are a member of OTA. 
