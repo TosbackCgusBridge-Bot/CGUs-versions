@@ -252,7 +252,7 @@ This Agreement hereby incorporates by this reference any additional terms and co
 
 Indeed General Terms of Service
 
-Last Updated: November 20, 2017
+Last Updated: December 1, 2017
 
 **A.** The following terms and conditions apply to all Job Seekers, Employers, Publishers and other users who access or use the Site, or otherwise indicate their acceptance to this Agreement.
 
@@ -291,6 +291,8 @@ By using Indeed Apply and answering screener questions, you acknowledge that Emp
 **1(l)** Regardless of whether you are a Job Seeker or an Employer, any emails or email notifications corresponding with any actions you take on the Site through the Indeed Apply process are provided solely as a courtesy. Indeed disclaims all warranties with regards to the transmission or storage of such courtesy notices, does not guarantee their delivery or receipt, and does not guarantee the date or time at which they may be sent. Further, if you are an Employer and you posted a Job Listing directly on Indeed, applications are sent only to your Indeed dashboard. any other notifications you may receive are provided solely as a courtesy to you.
 
 **1(m)** Indeed may offer beta test products which have different pricing models for posting your Job Listing, including but not limited to payment for candidates you deem to be qualified.  These beta test products may be offered in limited quantities, in limited locations, and for limited job categories in order to gauge interest. The current offering is in two locations within the Austin area (Georgetown, TX and San Marcos, TX) for Senior Staff Nurse and Dental Nurse jobs. If you purchase the beta test product in which you receive a certain number of qualified candidates for a price, please note that any “money back” offer requires that you notify Indeed within thirty days that the candidates you receive do not meet your qualifications.  Indeed reserves the right to offer “money back” either via a refund or simply not invoicing you for payment.  Indeed further reserves the right to change the terms or parameters of any beta test product at any time.
+
+**1(n)** If you are a job seeker in India or Brazil, Indeed may provide limited applicant screening and filtering services to Employers that request that Indeed perform this processing on their behalf.
 
 **2\. External Sites**
 
@@ -771,4 +773,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-Jobs - Browse Companies - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - API - About - Help Center Cookies, Privacy and Terms | © 2017 Indeed Jobs - Job Category Trends - Career Advice - Hiring Lab - Browse Jobs - Tools - API - About - Help Center ©2017 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="http://b.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1c08deq25a454dcp&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+Jobs - Browse Companies - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - API - About - Help Center Cookies, Privacy and Terms | © 2017 Indeed Jobs - Job Category Trends - Career Advice - Hiring Lab - Browse Jobs - Tools - API - About - Help Center ©2017 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="http://b.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1c0avnm4ka4989h6&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
