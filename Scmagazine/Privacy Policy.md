@@ -1,4 +1,4 @@
-menu
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. menu
 
 *   SC US
 *   SC UK
@@ -52,7 +52,7 @@ Show Search Bar
 
 The Cybersecurity source Privacy Policy
 
-**Last updated: November 28, 2017**
+**Last updated: December 01, 2017**
 
 US Privacy Policy
 
@@ -97,7 +97,7 @@ We may share information about your engagement with any of our services includin
 
 We may invite you to participate in industry-sponsored programs which present you with branded sponsor-selected materials to provide clinical information to physicians about medical conditions, options for treatment and recommended products. Your invitation will use the Personal Information that you have provided or that we have obtained from third parties, and non-personally identifiable information which we gather from your site visits by the use of cookies or other tracking technologies. Sponsor programs will be affiliated with your area of specialty and any specific interests you have shared with us. Not everyone will qualify for an invitation to participate. conversely you may be invited to register or participate in more than one program. Haymarket will provide information, personally identified information or in aggregated form, about your participation in specific programs to the program sponsor or their representatives. This helps our industry sponsors to improve clinical education and information and communicate with you in a more targeted way. If you interact with any of our sponsors directly, their Privacy Policy and practices will apply.
 
-We will share your Personal Information with our third party suppliers who need to process you data to deliver the services you have requested or consented to receive. These suppliers are required under contract not to use Personal Information supplied by us other than to provide the services requested by us and to guarantee to our satisfaction that they have sufficient processes in place to ensure the security of your data whilst it is in their care. You expressly consent to the sharing of your Personal Information with our contractors and third party service supplies for the purpose of providing services to you.
+We will share your Personal Information with our third party suppliers who need to process your data to deliver the services you have requested or consented to receive. These suppliers are required under contract not to use Personal Information supplied by us other than to provide the services requested by us and to guarantee to our satisfaction that they have sufficient processes in place to ensure the security of your data whilst it is in their care. You expressly consent to the sharing of your Personal Information with our contractors and third party service supplies for the purpose of providing services to you.
 
 Haymarket will share user data with the accredited provider(s) of CME/CE activities in which users participate, and/or medical education and communications companies who assisted in the development of CME/CE activities in which users participate.
 
@@ -206,4 +206,4 @@ Copyright © 2016 Haymarket Media, Inc. All Rights Reserved.
 This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
 Your use of this website constitutes acceptance of Haymarket Media's Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W475TQW" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W475TQW" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
