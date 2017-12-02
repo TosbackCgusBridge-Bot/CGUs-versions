@@ -237,7 +237,18 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Snow Boots
     *   Long Underwear
     *   Sale
-*   Bags
+*   Bags SHOP BAGS
+    
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    
+    FEATURED SHOPS
+    *   Canvas Totes
+    *   Backpacks &. Lunchboxes
+    *   Business Bags
+    *   Travel Bags
 *   Swim SHOP SWIM
     
     *   Women
@@ -595,6 +606,20 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Long Underwear
         *   Sale
 *   Bags
+    *   Back
+    *   Shop all Bags
+    *   SHOP BAGS
+        *   Back
+        *   Women
+        *   Men
+        *   Girls
+        *   Boys
+    *   FEATURED SHOPS
+        *   Back
+        *   Canvas Totes
+        *   Backpacks &. Lunchboxes
+        *   Business Bags
+        *   Travel Bags
 *   Swim
     *   Back
     *   Shop all Swim
@@ -778,9 +803,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 50% off all home merchandise and totes. 40% off everything else!
+Receive 50% off all sweaters, turtlenecks and t-shirts. 40% off everything else!
 
-code: CAROLS pin: 4582 DETAILS
+code: HOLIDAYS pin: 7214 DETAILS
 
 Customer Service Menu
 
