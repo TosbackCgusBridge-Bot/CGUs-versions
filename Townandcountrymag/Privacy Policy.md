@@ -1,6 +1,6 @@
 *   Travel
 *   Politics
-*   Society
+*   Royals
 *   The Holidays
 *   Gift Guide 2017
 
@@ -50,7 +50,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 Meghan Markle's Style Evolution 2 What Happens to the Children of Infamous Fathers? 3 The Queen's Anniversary Portrait Contains a Secret 4 30 Christmas Decorations to Kick Off the Season 5 22 Cocktails to Help You Survive Winter Privacy Policy Dec 1, 2014
+Today's Top Stories 1 The Story of Prince Harry and Meghan Markle's Love 2 The Curious Plight of the Modern Debutante 3 The Most Elegant Christmas Wreaths To Buy Online 4 9 Places to Spend New Year's 2018 5 22 Cocktails to Help You Survive Winter Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
