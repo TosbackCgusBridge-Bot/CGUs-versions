@@ -158,13 +158,20 @@ BUY
 *   Extended Service Plans
 *   Parts &. Service
 
-See what your local Subaru retailer has available today.
+Get the most precise number on the Subaru you want.
 
 YOUR RETAILER
 
 CHANGE
 
-FIND A RETAILER What Makes a Subaru
+Shortline Subaru
+
+580 S Havana St  
+Aurora, CO 80012
+
+(303) 364-2200
+
+Get a Local Price What Makes a Subaru
 
 *   Reviews &. Awards
 *   Commitment to Safety
