@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Doreen St. Felix_: Matt Lauer's Firing &. NBC's Theater of Accountability
+*   _Ed Rogers_: Sorry, Dems, 'Collusion' Outrage Is Running Out of Steam
     
-*   _Charles Lipson_: Nancy Pelosi -- Roy Moore's Accidental Wingman
+*   _Chris Cillizza_: Flynn's Guilty Plea Is a Massive Problem for Trump
     
-*   _David Graham_: Trump's Musical Chairs Chaos in the Cabinet Room
+*   _Andrew McCarthy_: Less to the Flynn News Than Meets the Eye
     
-*   _Roger Kimball_: If We Love Democracy, Why Does 'Populism' Get a Bad Rap?
+*   _Noah Feldman_: How the Flynn Charges Box In Trump
     
-*   _Thomas Edsall_: Trump &. the Self-Destruction of American Democracy
+*   _Christopher Ruddy_: Trump's Big Tax Plan Will Fuel Economy for a Decade
     
-*   _Rush Limbaugh_: Trump Has Momentum &. His Critics Are Losing It
+*   _Paul Krugman_: GOP's Tax Lies Show the Rot Spreads Wide and Runs Deep
     
-*   _Sarah Kliff_: Tax Bill Makes Dangerous Changes to Federal Health Care
+*   _Byron York_: Why the Alabama Senate Race Is Shifting in Moore's Favor
     
-*   _Michael Tanner_: Individual-Mandate Repeal Makes GOP Plan More Attractive
+*   _Elizabeth Drew_: Sex and Power in Washington
     
-*   _Amber Tamblyn_: I'm Not Ready for the Redemption of Men
+*   _Caitlin Huey-Burns_: Sexual Assault Stirring Change in Congress &. Campaigns
     
-*   _Tucker Carlson_: Not Every Accuser Tells The Truth. I Should Know
+*   _Goldsmith & Vermuele_: Elite Schools Validate Conservatives' Disdain
     
-*   _Mike Hixenbaugh_: Alive Inside: How a Hospital Helps Brain-Damaged Patients
+*   _Alana Semuels_: The Neverending Foreclosure
     
-*   _Amy Walter_: Sexual Harassment &. the Dems' Missed Opportunity
+*   _Russell Berman_: A Last Minute Threat to the Republican Tax Bill
     
-*   _E.J. Dionne_: Who Will Challenge Trump's Enablers?
+*   _Alfredo Ortiz_: Don't Believe the Democrats' Myths About Tax Reform
     
-*   _Newt Gingrich_: President Trump Is Decisively Reining In the Left
+*   _Pat Garafalo_: Taxes Need to Go Up, Not Down
     
-*   _Andrew Rosenthal_: Are Republican Senators Truly That Clueless on Taxes?
+*   _Kimberley Strassel_: When Democrats Backed Tax Cuts
     
-*   _Brian Riedl_: The Misleading Arguments Against the Tax Bills
+*   _John Diaz_: Kate Steinle's Family Discusses Anguish &. Frustration
     
-*   _Ramin Setoodeh &. Elizabeth Wagmeister_: Matt Lauer, Exposed
+*   _Roger Simon_: The Unintended Consequences of the Steinle Decision
     
-*   _Brent Bozell_: Matt Lauer and the Raging Hypocrisy on Sexual Harassment
+*   _Tom Bevan_: The Takeaway: Roy Moore Back in Front
     
-*   _Ezra Klein_: The Case for Normalizing Impeachment
+*   _Eugene Robinson_: Trump Is Mentally Unfit - and Getting Worse
     
-*   _Victor Davis Hanson_: Who Polices the Police?
+*   _Rich Lowry_: Trump's Presidency Is Far Better Than His Twitter Feed
     
-*   _Sophia Tesfaye_: The Guy Who Wrecked Kansas Is the GOP's Role Model
+*   _Jason Altmire_: Dear Dems: Victory Not Worth Tearing America Apart
     
-*   _David French_: Elizabeth Warren, Progressive Fraud
+*   _Danny Tarkanian_: Why I'm Running Against Dean Heller
     
-*   _David Byler_: A Rising Tide in Alabama? Roy Moore Gains Ground in Polls
+*   _Chuck Jones_: In 2016, Trump Pledged Carrier Workers Help. We're Still Waiting.
     
-*   _Peter Beinart_: Trump's Anti-Muslim Political Strategy
+*   _Todd Leebow_: American Steel Deserves a Level Playing Field
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   The Takeaway: Roy Moore Back in Front
+*   Sexual Assault Stirring Change in Congress, Campaigns
+*   Tom Cotton on Chain Migration Legislation, DACA, CIA Director Rumors
 *   Trump Backs McCaskill Opponent as He Stumps for Tax Bill
 *   Senate Takes Key Tax Reform Step, Votes to Open Debate
-*   Cruz vs. Sanders: Not Enough Millionaires to Pay for Your Socialism
-*   Red State Democrats Unintimidated by Trump's Tax Push
-*   Trump, Democrats Cast Preemptive Shutdown Blame
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -270,11 +270,11 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve36
-    *   Disapprove57Disapprove +21
+    *   Approve34
+    *   Disapprove60Disapprove +26
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve42
-    *   Disapprove56Disapprove +14
+    *   Approve44
+    *   Disapprove55Disapprove +11
 *   Alabama Senate Special Election - Moore vs. JonesJMC Analytics
     *   Moore49
     *   Jones44Moore +5
@@ -284,11 +284,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Sanders: This Tax Bill Will Be Remembered As One Of The Greatest Robberies In American History
+*   ABC's Brian Ross: Flynn Prepared To Testify Against Trump, Trump Family, White House Staff
+*   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
 *   NYT's Charles Blow: Steinle's Murder Epitomizes "White Pathology" Trump Projects On Minorities
 *   Grover Norquist: Game Over, With John McCain Commitment To Vote Yes, Tax Cut Bill Is Unstoppable
-*   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Sen. Angus King Against Tax Bill: The Faster A Bill Moves Through The Senate, The Worse It Will Be
-*   Scarborough Questions Trump's Sanity: "If This Is Not What The 25th Amendment Was Drafted For"
 
 *   Politics
 *   Policy
