@@ -250,11 +250,14 @@ Menu Close Menu Close
 *   Deals
     
     *   Featured Deals
-    *   Laptop Deals
-    *   Professional Laptop Deals
+    *   12 Days of Christmas
+    *   12 Days of Business
+    *   Home Laptop Deals
+    *   ThinkPad Deals
     *   Desktop Deals
-    *   Accessories Deals
+    *   Accessory Deals
     *   Clearance
+    *   Financing Options
     *   Outlet
     
     *   *   12 Days of Christmas
@@ -273,7 +276,6 @@ Menu Close Menu Close
     *   Small Business
     *   Data Center
     *   Students &. Teachers
-    *   PC as a Service
     *   Lenovo Partner Network
     *   See All Solutions
 *   Email Sign-Up
@@ -369,9 +371,9 @@ Virtual Reality &. Smart Devices
 
 Connect your world: Smart devices to enhance your life, at home and on the go.
 
-Winner of 5 HPCwire Awards
+Data Center
 
-Lenovo and our customers advancing Zika research, optimizing wind energy.
+Achieve competitive advantage in the next-generation data center.
 
 Outlet
 
