@@ -119,7 +119,7 @@ LATEST ON TWITTER
 
 My week on Twitter : 1 Mention, 1.13K Mention Reach, 1 Like, 2 Tweets. See yours with sumall.com/performan… pic.twitter.com/2pVU…
 
-About 3 days ago
+About 4 days ago
 
 My week on Twitter : 4 Mentions, 1.72K Mention Reach, 5 Favorited, 6 Retweets, 3.3K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/bASt…
 
@@ -131,7 +131,7 @@ Last week
 
 My week on Twitter : 10 Favorited, 5 Retweets, 5.23K Retweet Reach, 4 Tweets. See yours with sumall.com/performan… pic.twitter.com/vIC6…
 
-About 2 weeks ago
+About 3 weeks ago
 
 We are honored to be named one of @adage's 2017 50 best places to work for the second year in a row! Congrats to all on the list! intermarkets.net/201…
 
