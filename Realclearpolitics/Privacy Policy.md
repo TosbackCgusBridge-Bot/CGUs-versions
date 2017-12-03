@@ -102,6 +102,10 @@
     *   About
     *   Media Kit
 
+*   _Larry Kudlow_: Tax Plan Will Spark an Investment Boom That Benefits Everyone
+    
+*   _David Ignatius_: China Has a Plan to Rule the World
+    
 *   _Ed Rogers_: Sorry, Dems, 'Collusion' Outrage Is Running Out of Steam
     
 *   _Chris Cillizza_: Flynn's Guilty Plea Is a Massive Problem for Trump
@@ -145,10 +149,6 @@
 *   _Jason Altmire_: Dear Dems: Victory Not Worth Tearing America Apart
     
 *   _Danny Tarkanian_: Why I'm Running Against Dean Heller
-    
-*   _Chuck Jones_: In 2016, Trump Pledged Carrier Workers Help. We're Still Waiting.
-    
-*   _Todd Leebow_: American Steel Deserves a Level Playing Field
     
 
 *   Previous
@@ -269,23 +269,23 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Alabama Senate Special Election - Moore vs. JonesWashington Post
+    *   Moore47
+    *   Jones50Jones +3
 *   President Trump Job ApprovalGallup
-    *   Approve34
-    *   Disapprove60Disapprove +26
+    *   Approve33
+    *   Disapprove62Disapprove +29
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve44
     *   Disapprove55Disapprove +11
 *   Alabama Senate Special Election - Moore vs. JonesJMC Analytics
     *   Moore49
     *   Jones44Moore +5
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve38
-    *   Disapprove57Disapprove +19
 
 More Latest Polls In The News
 
 *   Sanders: This Tax Bill Will Be Remembered As One Of The Greatest Robberies In American History
-*   ABC's Brian Ross: Flynn Prepared To Testify Against Trump, Trump Family, White House Staff
+*   ABC's Brian Ross: Flynn Prepared To Testify Against Trump, Trump Family, White House Staff (UPDATED)
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
 *   NYT's Charles Blow: Steinle's Murder Epitomizes "White Pathology" Trump Projects On Minorities
 *   Grover Norquist: Game Over, With John McCain Commitment To Vote Yes, Tax Cut Bill Is Unstoppable
