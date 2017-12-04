@@ -64,9 +64,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, UT. On the internet, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, UT. Online, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 7%  2% 
+What is PeekScore? Public Records &. Background Checks 23%  5% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 7%  2% 
     
 *   Show Less ...
 
-7%  7%  Arrest Records &. Driving Infractions
+23%  23%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 7%  Twitter 2% 
+Facebook 23%  Twitter 5% 
 
 *   Federal Reserve - federalreserve
     
@@ -199,7 +199,7 @@ Facebook 7%  Twitter 2% 
     
 *   Show Less ...
 
-Instagram 2% 
+Instagram 5% 
 
 *   Karen McDowall - privacy\_\_\_policy
     
@@ -265,7 +265,7 @@ Instagram 2% 
     
 *   Show Less ...
 
-Pinterest 7%  Wikipedia 2% 
+Pinterest 23%  Wikipedia 5% 
 
 *   Medana
     
@@ -284,7 +284,7 @@ Pinterest 7%  Wikipedia 2% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Google+ 7%  Linkedin 7%  Music 2% 
+Google+ 23%  Linkedin 23%  Music 5% 
 
 *   Pandora
     
@@ -330,7 +330,7 @@ Google+ 7%  Linkedin 7%  Music 2% 
     
 *   Show Less ...
 
-Photo Albums 2% 
+Photo Albums 5% 
 
 *   Flickr
     
@@ -341,7 +341,7 @@ Photo Albums 2% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 2% 
+Myspace 5% 
 
 *   Privacy Policy - 49086242
     
@@ -365,7 +365,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Documents 2% 
+Documents 5% 
 
 *   Generic Privacy Policy template - TermsFeed
     
@@ -411,7 +411,7 @@ Documents 2% 
     
 *   Show Less ...
 
-Web Search 2% 
+Web Search 5% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -457,7 +457,7 @@ Web Search 2% 
     
 *   Show Less ...
 
-Images 2% 
+Images 5% 
 
 20
 
