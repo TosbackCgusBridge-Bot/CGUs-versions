@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Alabama Senate Special Election - Moore vs. JonesCBS News/YouGov
+    *   Moore49
+    *   Jones43Moore +6
+*   President Trump Job ApprovalGallup
+    *   Approve34
+    *   Disapprove61Disapprove +27
 *   Alabama Senate Special Election - Moore vs. JonesWashington Post
     *   Moore47
     *   Jones50Jones +3
-*   President Trump Job ApprovalGallup
-    *   Approve33
-    *   Disapprove62Disapprove +29
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve44
     *   Disapprove55Disapprove +11
-*   Alabama Senate Special Election - Moore vs. JonesJMC Analytics
-    *   Moore49
-    *   Jones44Moore +5
 
 More Latest Polls In The News
 
-*   Sanders: This Tax Bill Will Be Remembered As One Of The Greatest Robberies In American History
-*   ABC's Brian Ross: Flynn Prepared To Testify Against Trump, Trump Family, White House Staff (UPDATED)
+*   Feinstein: President Trump's Pattern Of "Instability, Volatility" Will Lead To "Serious Discord"
+*   SNL Warns Trump: Ghosts Of Mike Flynn, Billy Bush, And Vladimir Putin Will Haunt You This Christmas
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   NYT's Charles Blow: Steinle's Murder Epitomizes "White Pathology" Trump Projects On Minorities
-*   Grover Norquist: Game Over, With John McCain Commitment To Vote Yes, Tax Cut Bill Is Unstoppable
+*   Elizabeth Warren Reveals Last-Minute Handwritten Additions To Senate Tax Plan
+*   Sanders: This Tax Bill Will Be Remembered As One Of The Greatest Robberies In American History
 
 *   Politics
 *   Policy
