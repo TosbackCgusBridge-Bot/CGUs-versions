@@ -47,10 +47,6 @@ Communicate with Us the Old-Fashioned Ways
 Extended Holiday Hours
 
 Our customer service will be **open**  
-from **9am-9pm 7 days a week**  
-starting **11/24/17** through **12/03/17**
-
-Our customer service will be open  
 from **9am-8pm 7 days a week**  
 starting **12/04/17** through **12/22/17**
 
