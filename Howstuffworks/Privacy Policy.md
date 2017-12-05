@@ -235,15 +235,15 @@ Print | Citation &. Date | Reprint
 
 Print | Citation &. Date | Reprint
 
-More to Explore     by Taboola by Taboola Sponsored Links Sponsored Links Promoted Links Promoted Links .CrowdabilityPittsburgh Man Goes from Dead Broke to MillionaireCrowdabilityHome ChefDenver: This Meal Service is Cheaper Than Your Local StoreHome ChefSedans | Sponsored LinksThinking of Buying a New Sedan in 2017? Check Out The Top DealsSedans | Sponsored LinksActivatedYou SupplementsActress: “Eating This Every Morning Changed My Life”ActivatedYou SupplementsForge Of Empires - Free Online GameJourney through the Eras in this Award-Winning GameForge Of Empires - Free Online GameDefinitionWe Can Guess Your Education Level With This QuizDefinitionLectin Shield SupplementThe One Vegetable You Should Never EatLectin Shield SupplementSafesound Personal AlarmDon't Like Guns? Carry This InsteadSafesound Personal Alarm Today's Headlines
+More to Explore     by Taboola by Taboola Sponsored Links Sponsored Links Promoted Links Promoted Links .1MD3 Common Foods Surgeons Are Now Calling "DEATH FOODS"1MDLife BuzzThis Woman Thought Her Dog Had Been Bitten By Bugs – Then She Realized The Scary TruthLife BuzzDefinitionWe Can Guess Your Education Level With This QuizDefinitionSafesound Personal AlarmDon't Like Guns? Carry This InsteadSafesound Personal AlarmTophatterShoppers Are Getting Unbelievable Deals With This Little-Known SiteTophatterJournalistateMalia Obama's New Car Is BreathtakingJournalistateForge Of Empires - Free Online GameThe Most Addictive Game of the YearForge Of Empires - Free Online GameStansberry ResearchLook Who's Going Bankrupt Next In AmericaStansberry Research Today's Headlines
 
-FDA Approves the First Digital Pill
+Ford Robutt Mimics Motions of Human Bottom
 
-Review Websites Like TripAdvisor Are Under Fire. Is That Warranted?
+Prehistoric Women Were Stronger Than Today's Elite Female Athletes
 
-How College Football Crowns Its Champ
+Shining a Light on London’s Epic 1952 Smog
 
-More to Explore Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksAbout HowStuffWorksWorking for HowStuffWorksHow Social Security Numbers WorkIs it safe to buy things from Amazon?by Taboolaby Taboola
+More to Explore Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksWorking for HowStuffWorksAbout HowStuffWorksIs it safe to buy things from Amazon?How Internet Cookies Workby Taboolaby Taboola
 
   
 
