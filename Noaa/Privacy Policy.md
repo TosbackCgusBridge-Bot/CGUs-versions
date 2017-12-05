@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Extremely active 2017 Atlantic hurricane season finally ends Investments in forecasting and research yield more accurate predictions AROUND NOAA // New NOAA tool is helping to predict U.S. droughts, global famine JPSS-1 satellite now has a new name: NOAA-20. Learn why. Fisheries scientists to reap benefits of new NOAA satellite
+Enter Search Terms How coral savvy are you? Build your knowledge during #CoralsWeek AROUND NOAA // Coral: The gift you don't want to give, or get Extremely active 2017 Atlantic hurricane season finally ends New NOAA tool is helping to predict U.S. droughts, global famine
 
 *   About our agency
 *   News and features
