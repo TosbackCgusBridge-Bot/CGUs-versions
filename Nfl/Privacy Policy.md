@@ -1,4 +1,5 @@
-*   PHI10-210SEA8-424Final
+*   PIT10-223CIN5-720Final
+*   WAS5-714DAL6-638Final
 *   MIN10-214ATL7-59Final
 *   DET6-620BAL7-544Final
 *   NE10-223BUF6-63Final
@@ -12,8 +13,7 @@
 *   CAR8-421NO9-331Final
 *   LA9-332ARI5-716Final
 *   NYG2-1017OAK6-624Final
-*   PIT9-2CIN5-6December 4, 2017 8:30:00 PM EST ET
-*   WAS5-714DAL6-638Final
+*   PHI10-210SEA8-424Final
 
 *   News
 *   Scores
@@ -30,7 +30,8 @@
 *   NFL Network
 *   Photos
 
-*   PHI10SEA24Final
+*   PIT23CIN20Final
+*   WAS14DAL38Final
 *   MIN14ATL9Final
 *   DET20BAL44Final
 *   NE23BUF3Final
@@ -44,8 +45,7 @@
 *   CAR21NO31Final
 *   LA32ARI16Final
 *   NYG17OAK24Final
-*   PIT9-2CIN5-6December 4, 2017 8:30:00 PM EST ET
-*   WAS14DAL38Final
+*   PHI10SEA24Final
 
 *   News
 *   Scores
