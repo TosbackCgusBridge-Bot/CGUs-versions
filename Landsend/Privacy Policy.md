@@ -799,9 +799,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 50% off all outerwear, including coats, snow boots, hats and gloves. 40% off everything else!
+Receive 50% off full-price styles!
 
-code: BELLS pin: 3140 DETAILS
+code: WARMTH pin: 3216 DETAILS
 
 Customer Service Menu
 
