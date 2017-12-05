@@ -4,8 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Want FREE shipping? Buy online and pick up your order in-store!  
-SHOP WOMEN | SHOP MEN | LEARN MORE
+THE GIFT OF DENIM – FOR FAMILY, FOR FRIENDS, FOR YOU! SHOP DENIM
 
 *   Women
 *   Men
@@ -20,7 +19,7 @@ SHOP WOMEN | SHOP MEN | LEARN MORE
     *   Login
     *   |
     *   Register
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   0MY FAVORITES
 *   MY BAG
@@ -244,10 +243,14 @@ SHOP WOMEN | SHOP MEN | LEARN MORE
         *   Shoes
         *   Shop All
         
-        *   Kids' New
+        *   Looks
         
-        *   Shop All Girl's New
-        *   Shop All Boy's New
+        *   Men's Carefree Style
+        *   Women's Carefree Style
+        *   Men's Edgy Style
+        *   Women's Edgy Style
+        *   Men's Polished Style
+        *   Women's Feminine Style
         
         *   Gift Guide
         
