@@ -49,13 +49,13 @@ Borrow for your business with affordable business loans. Learn more
 
 Get live support and seller protection
 
-Get Started Shop the globe right from your home for the holidays.
+Get Started Gift money with ease.
 
-You’re already shopping for the holidays, why not earn 2% cash back on every purchase with the PayPal Cashback Mastercard®?
+Seize the season by sending money to friends &. family in just a few clicks for the perfect present.
 
-Learn more
+Gift money now
 
-The PayPal Cashback Mastercard is issued by Synchrony Bank pursuant to a license by Mastercard International Inc.
+\*Recipients must have a PayPal account. Signing up for an account is free.
 
 Join 200+ million people who use PayPal to
 
@@ -118,4 +118,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=ea1e3c679e428&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=6788b1b31e2a41229cc436a5585dbaf5&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&xe=3273&xt=7823&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=60c12b119cffc&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=e9abe141ddbb4049a1b3d2e94f505d2e&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&xe=3273&xt=7822&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
