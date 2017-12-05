@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Larry Kudlow_: Tax Plan Will Spark an Investment Boom That Benefits Everyone
+*   _Jordan Fabian_: Trump Rips FBI Over 'Unfair' Treatment of Flynn, Clinton
     
-*   _David Ignatius_: China Has a Plan to Rule the World
+*   _Hemel &. Posner_: Why the Trump Team Should Fear the Logan Act
     
-*   _Ed Rogers_: Sorry, Dems, 'Collusion' Outrage Is Running Out of Steam
+*   _Lee Smith_: Fusion GPS, Media in Possible Pay-to-Publish Scheme
     
-*   _Chris Cillizza_: Flynn's Guilty Plea Is a Massive Problem for Trump
+*   _Juan Williams_: The Republican Party Has Divided America
     
-*   _Andrew McCarthy_: Less to the Flynn News Than Meets the Eye
+*   _Sen. Mitch McConnell_: Tax Reform: What's in It for You
     
-*   _Noah Feldman_: How the Flynn Charges Box In Trump
+*   _Ezra Klein_: This Tax Bill Shows Republican Debt Concerns Were Pure Fraud
     
-*   _Christopher Ruddy_: Trump's Big Tax Plan Will Fuel Economy for a Decade
+*   _Dov Fischer_: A Crazy Week of More Reasons to Vote for Roy Moore
     
-*   _Paul Krugman_: GOP's Tax Lies Show the Rot Spreads Wide and Runs Deep
+*   _Nate Silver_: Lots of Alabama Voters Care About Roy Moore's Scandals
     
-*   _Byron York_: Why the Alabama Senate Race Is Shifting in Moore's Favor
+*   _Jake Novak_: ABC News Helps Trump Score in His War on 'Fake News'
     
-*   _Elizabeth Drew_: Sex and Power in Washington
+*   _Jack Goldsmith_: The Cost of Trump's Attacks on the FBI
     
-*   _Caitlin Huey-Burns_: Sexual Assault Stirring Change in Congress &. Campaigns
+*   _Roger Simon_: Trump's Right--the FBI Is in Tatters
     
-*   _Goldsmith & Vermuele_: Elite Schools Validate Conservatives' Disdain
+*   _Hrant Jamgochian_: Congress Should Advance Integrated Care for Dialysis Patients
     
-*   _Alana Semuels_: The Neverending Foreclosure
+*   _Byron York_: In Trump-Russia Probe, Was It All About the Logan Act?
     
-*   _Russell Berman_: A Last Minute Threat to the Republican Tax Bill
+*   _Ruth Marcus_: Flynn Takedown May Be Moment Everything Changed
     
-*   _Alfredo Ortiz_: Don't Believe the Democrats' Myths About Tax Reform
+*   _James Robbins_: Time to Move On From Russia Collusion Fantasy
     
-*   _Pat Garafalo_: Taxes Need to Go Up, Not Down
+*   _Steve Coll_: Donald Trump's 'Fake News' Tactics
     
-*   _Kimberley Strassel_: When Democrats Backed Tax Cuts
+*   _Kurt Schlichter_: The Dem Media Doesn't Deserve Our Respect or Our Trust
     
-*   _John Diaz_: Kate Steinle's Family Discusses Anguish &. Frustration
+*   _Josh Kraushaar_: The Political Case for Tax Cuts
     
-*   _Roger Simon_: The Unintended Consequences of the Steinle Decision
+*   _Doyle McManus_: Republican Tax Promises, Broken
     
-*   _Tom Bevan_: The Takeaway: Roy Moore Back in Front
+*   _Samuel Rines_: 2018 Could Be the Year of 'Trumponomics'
     
-*   _Eugene Robinson_: Trump Is Mentally Unfit - and Getting Worse
+*   _Billy Bush_: Yes, Donald Trump, You Said That
     
-*   _Rich Lowry_: Trump's Presidency Is Far Better Than His Twitter Feed
+*   _Bill O'Reilly_: Politics Helped Kill Kate Steinle, Zarate Just Pulled the Trigger
     
-*   _Jason Altmire_: Dear Dems: Victory Not Worth Tearing America Apart
+*   _John Nichols_: Can Our Revolution Build a Blue Texas?
     
-*   _Danny Tarkanian_: Why I'm Running Against Dean Heller
+*   _Dean Clancy_: Senate Democrats Blatantly Lied About Hillsdale College
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   The Takeaway: Roy Moore Back in Front
+*   Senate OKs Tax Bill as Trump, Republicans Near Big Legislative Win
+*   Trump Complains About "Unfair" Treatment of Flynn
+*   Mukasey: "Heavy Breathing" Over Russia Probe Completely Unwarranted
+*   San Francisco Defends Sanctuary Status as Backlash Mounts
 *   Sexual Assault Stirring Change in Congress, Campaigns
-*   Tom Cotton on Chain Migration Legislation, DACA, CIA Director Rumors
-*   Trump Backs McCaskill Opponent as He Stumps for Tax Bill
-*   Senate Takes Key Tax Reform Step, Votes to Open Debate
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Alabama Senate Special Election - Moore vs. JonesCBS News/YouGov
+*   Alabama Senate Special Election - Moore vs. JonesEmerson\*
     *   Moore49
-    *   Jones43Moore +6
+    *   Jones46Moore +3
 *   President Trump Job ApprovalGallup
-    *   Approve34
-    *   Disapprove61Disapprove +27
-*   Alabama Senate Special Election - Moore vs. JonesWashington Post
-    *   Moore47
-    *   Jones50Jones +3
+    *   Approve35
+    *   Disapprove60Disapprove +25
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove55Disapprove +11
+    *   Approve42
+    *   Disapprove56Disapprove +14
+*   Direction of CountryRasmussen Reports
+    *   Right Direction35
+    *   Wrong Track58Wrong Track +23
 
 More Latest Polls In The News
 
-*   Feinstein: President Trump's Pattern Of "Instability, Volatility" Will Lead To "Serious Discord"
-*   SNL Warns Trump: Ghosts Of Mike Flynn, Billy Bush, And Vladimir Putin Will Haunt You This Christmas
+*   Dershowitz: No Case For Obstruction Of Justice Against Trump, Would Be "Constitutional Crisis"
+*   Sen. Blumenthal: "There Is A Credible Case Of Obstruction Of Justice Against Donald Trump"
 *   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Elizabeth Warren Reveals Last-Minute Handwritten Additions To Senate Tax Plan
-*   Sanders: This Tax Bill Will Be Remembered As One Of The Greatest Robberies In American History
+*   Mollie Hemingway: "People Who Haven't Accepted The Reality" Of Trump Winning Shouldn't Call Him Crazy
+*   Trump: Hillary Clinton Lied To FBI And Nothing Happened To Her, Flynn Lied And They Ruined His Life
 
 *   Politics
 *   Policy
