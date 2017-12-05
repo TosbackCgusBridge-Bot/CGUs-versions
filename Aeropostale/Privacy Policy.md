@@ -188,7 +188,6 @@ Close submenu ( Tops ) Tops
 *   Tees
 *   Tanks
 *   Hoodies + Sweatshirts
-*   Jackets + Vests
 *   Sleep Tops
 
 Close submenu ( Bottoms ) Bottoms
@@ -433,7 +432,6 @@ Menu Find a Store Aeropostale
         *   Tees
         *   Tanks
         *   Hoodies + Sweatshirts
-        *   Jackets + Vests
         *   Sleep Tops
     
     *   Bottoms
@@ -573,5 +571,5 @@ About Us
 Stay Connected
 
 *   Live ChatCall Us
-*   Refer a Friend
+*   Give $15, Get $15
 *   College Student Discount
