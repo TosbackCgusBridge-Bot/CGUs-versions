@@ -113,13 +113,17 @@ Intermarkets may update this Privacy Policy from time to time, and so you should
 
 Acceptance of Privacy Policy
 
-When you use the Intermarkets website, you are accepting the terms and conditions of this Privacy Policy, and Intermarkets will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Intermarkets website. You can also access, correct, or change your Personally Identifiable Information, or opt out of our direct marketing efforts, by sending an email to info@intermarkets.net.  Once a request to opt out has been received, Intermarkets will send a confirming email message to the user that the user’s Personally Identifiable Information has been successfully opted out of Intermarkets’ database.  If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed. If you have questions or concerns about this Privacy Policy, please email us atinfo@intermarkets.net or send us a letter at Intermarkets, Inc., Attention: Privacy, 11911 Freedom Drive, Suite 1140, Reston, VA 20190.
+When you use the Intermarkets website, you are accepting the terms and conditions of this Privacy Policy, and Intermarkets will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Intermarkets website. You can also access, correct, or change your Personally Identifiable Information, or opt out of our direct marketing efforts, by sending an email to info@intermarkets.net.  Once a request to opt out has been received, Intermarkets will send a confirming email message to the user that the user’s Personally Identifiable Information has been successfully opted out of Intermarkets’ database.  If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed. If you have questions or concerns about this Privacy Policy, please email us at info@intermarkets.net or send us a letter at Intermarkets, Inc., Attention: Privacy, 11951 Freedom Drive, 11th Floor, Reston, VA 20190.
 
 LATEST ON TWITTER
 
+Congrats to Kary Jones! She's been appointed a new role here as Manager of Publisher Development. What does this mean for Intermarkets? "We're ready to look at diversification and bringing on new partners!" Exciting news and well deserved! intermarkets.net/201…
+
+About 13 hours ago
+
 My week on Twitter : 1 Mention, 1.13K Mention Reach, 1 Like, 2 Tweets. See yours with sumall.com/performan… pic.twitter.com/2pVU…
 
-About 5 days ago
+About 6 days ago
 
 My week on Twitter : 4 Mentions, 1.72K Mention Reach, 5 Favorited, 6 Retweets, 3.3K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/bASt…
 
@@ -130,10 +134,6 @@ Our biggest fans this week: @mrmistry, @Requidan, @Nicole\_Kosar. Thank you! via
 About 2 weeks ago
 
 My week on Twitter : 10 Favorited, 5 Retweets, 5.23K Retweet Reach, 4 Tweets. See yours with sumall.com/performan… pic.twitter.com/vIC6…
-
-About 3 weeks ago
-
-We are honored to be named one of @adage's 2017 50 best places to work for the second year in a row! Congrats to all on the list! intermarkets.net/201…
 
 About 3 weeks ago
 
