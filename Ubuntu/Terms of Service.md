@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   LXD Weekly Status #26 ›
 *   Ubuntu Desktop Weekly Update: December 1, 2017 ›
 *   Ubuntu Core’s role in helping manage 25m data points every minute ›
 *   How to write an Ubuntu tutorial ›
 *   LXD Weekly Status #25 ›
-*   Making NTP best practices easy with Juju charms ›
