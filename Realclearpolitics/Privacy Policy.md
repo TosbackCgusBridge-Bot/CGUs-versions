@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Jordan Fabian_: Trump Rips FBI Over 'Unfair' Treatment of Flynn, Clinton
+*   _Ed Rogers_: The Quest for Collusion Is Over, and Dems Know It
     
-*   _Hemel &. Posner_: Why the Trump Team Should Fear the Logan Act
+*   _Jill Abramson_: All the Signs in the Russia Probe Point to Jared Kushner
     
-*   _Lee Smith_: Fusion GPS, Media in Possible Pay-to-Publish Scheme
+*   _Joseph Curl_: Mueller Credibility Plunges, Trump Probe Imploding
     
-*   _Juan Williams_: The Republican Party Has Divided America
+*   _Roger Cohen_: Mueller's Facts and Trump's Make-Believe
     
-*   _Sen. Mitch McConnell_: Tax Reform: What's in It for You
+*   _Jonathan Tobin_: Why Trump Should Make School Choice His Next Big Fight
     
-*   _Ezra Klein_: This Tax Bill Shows Republican Debt Concerns Were Pure Fraud
+*   _McKay Coppins_: God's Plan for Mike Pence
     
-*   _Dov Fischer_: A Crazy Week of More Reasons to Vote for Roy Moore
+*   _David Brody_: Mike Pence on 'the Role of Faith in the Life of This Nation'
     
-*   _Nate Silver_: Lots of Alabama Voters Care About Roy Moore's Scandals
+*   _Greg Weiner_: No Winners in the Supreme Court's Wedding Cake Case
     
-*   _Jake Novak_: ABC News Helps Trump Score in His War on 'Fake News'
+*   _Tucker Carlson_: The FBI Is Out of Control
     
-*   _Jack Goldsmith_: The Cost of Trump's Attacks on the FBI
+*   _Chris Cillizza_: Trump's I-Am-the-Law Defense on the Russia Probe
     
-*   _Roger Simon_: Trump's Right--the FBI Is in Tatters
+*   _Charles Lipson_: What Flynn's Guilty Plea Means, Sans Exaggerations
     
-*   _Hrant Jamgochian_: Congress Should Advance Integrated Care for Dialysis Patients
+*   _Washington Post_: Technology Is Making Natural Gas Nimbler
     
-*   _Byron York_: In Trump-Russia Probe, Was It All About the Logan Act?
+*   _Eugene Robinson_: What Is Trump Trying So Desperately to Cover Up?
     
-*   _Ruth Marcus_: Flynn Takedown May Be Moment Everything Changed
+*   _Scott McKay_: We're Learning Mueller's Probe Is Rotten to the Core
     
-*   _James Robbins_: Time to Move On From Russia Collusion Fantasy
+*   _Stephen Collinson_: Trump's Russia Defense in Disarray
     
-*   _Steve Coll_: Donald Trump's 'Fake News' Tactics
+*   _Hugh Hewitt_: Time For a Special Counsel to Investigate the FBI
     
-*   _Kurt Schlichter_: The Dem Media Doesn't Deserve Our Respect or Our Trust
+*   _Sen. Dianne Feinstein_: Fight Against the GOP's Unfair Tax Plans Not Over
     
-*   _Josh Kraushaar_: The Political Case for Tax Cuts
+*   _Stephen Moore_: Dems Now the Party of the Rich--So Why Not Tax Them?
     
-*   _Doyle McManus_: Republican Tax Promises, Broken
+*   _James Arkin_: Heller's Tax Cut Vote May Be Key to His 2018 Chances
     
-*   _Samuel Rines_: 2018 Could Be the Year of 'Trumponomics'
+*   _Andrew Cline_: GOP Promised America an Anti-Washington Party. Where Is It?
     
-*   _Billy Bush_: Yes, Donald Trump, You Said That
+*   _Edward-Isaac Dovere_: Trump's Threat to Take Down the GOP Still Stands
     
-*   _Bill O'Reilly_: Politics Helped Kill Kate Steinle, Zarate Just Pulled the Trigger
+*   _Michael Graham_: Why Roy Moore Is Surging in Alabama
     
-*   _John Nichols_: Can Our Revolution Build a Blue Texas?
+*   _Carol Costello_: All the President's Women Are Complicit
     
-*   _Dean Clancy_: Senate Democrats Blatantly Lied About Hillsdale College
+*   _Caitlin Huey-Burns_: Can Trump Help Push Moore Over the Finish Line?
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Senate OKs Tax Bill as Trump, Republicans Near Big Legislative Win
+*   Can Trump's Backing Push Moore Over the Finish Line in AL?
+*   Heller's Tax Reform Push May Be Key to His Chances in NV
+*   Carlson: The FBI Is Out of Control
 *   Trump Complains About "Unfair" Treatment of Flynn
-*   Mukasey: "Heavy Breathing" Over Russia Probe Completely Unwarranted
-*   San Francisco Defends Sanctuary Status as Backlash Mounts
-*   Sexual Assault Stirring Change in Congress, Campaigns
+*   Senate OKs Tax Bill as Trump, Republicans Near Big Legislative Win
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Alabama Senate Special Election - Moore vs. JonesEmerson\*
-    *   Moore49
-    *   Jones46Moore +3
+*   Alabama Senate Special Election - Moore vs. JonesWBRC-TV/Strategy Research
+    *   Moore50
+    *   Jones43Moore +7
+*   Alabama Senate Special Election - Moore vs. JonesGravis
+    *   Moore44
+    *   Jones48Jones +4
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve35
+    *   Disapprove58Disapprove +23
 *   President Trump Job ApprovalGallup
     *   Approve35
     *   Disapprove60Disapprove +25
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve42
-    *   Disapprove56Disapprove +14
-*   Direction of CountryRasmussen Reports
-    *   Right Direction35
-    *   Wrong Track58Wrong Track +23
 
 More Latest Polls In The News
 
-*   Dershowitz: No Case For Obstruction Of Justice Against Trump, Would Be "Constitutional Crisis"
-*   Sen. Blumenthal: "There Is A Credible Case Of Obstruction Of Justice Against Donald Trump"
-*   SponsoredTax Cuts Now John F. Kennedy - Commercial From Job Creators Network
-*   Mollie Hemingway: "People Who Haven't Accepted The Reality" Of Trump Winning Shouldn't Call Him Crazy
-*   Trump: Hillary Clinton Lied To FBI And Nothing Happened To Her, Flynn Lied And They Ruined His Life
+*   CBS's Major Garrett To WH: Is Trump Planning An International Spy Network To Circumvent US Intelligence?
+*   Mika Brzezinski: "Noose" Tightening On Trump Family. "Might Go To Jail For The Rest Of Their Lives"
+*   Tucker Carlson: "Out Of Control" FBI Considers Itself Above The Law, Threat To Every American
+*   CNN: FBI's Strzok Changed Comey's Clinton Language From "Grossly Negligent" To "Extremely Careless"
+*   Sanders: This Tax Bill Will Be Remembered As One Of The Greatest Robberies In American History
 
 *   Politics
 *   Policy
