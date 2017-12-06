@@ -1,4 +1,4 @@
-**Reddit, Inc. Privacy Policy** _Effective August 31, 2017._
+**Reddit, Inc. Privacy Policy** _Effective December 5, 2017._
 
 1 We want you to understand how and why Reddit, Inc. (“Reddit,” “we” or “us”) collects, uses, and shares information about you when you access and use Reddit’s websites, mobile apps, widgets, and other online products and services (collectively, the "Services") or when you otherwise interact with us. This Privacy Policy applies to all of our Services, including those that maintain a separate Privacy Notice that incorporates this Privacy Policy by reference.
 
@@ -142,9 +142,9 @@ International Data Transfers
 
 34 In connection with Reddit's processing of personal data received from the European Union, we adhere to the E.U-U.S. Privacy Shield Program (“Privacy Shield”) and comply with its framework and principles.
 
-35 To learn more about the U.S. - E.U. and U.S. Swiss Safe Harbor Privacy principles of notice, choice, onward transfer, security, data integrity, access and enforcement, and to view our certification, please visit the U.S. Department of Commerce’s Safe Harbor website. For more information about the Privacy Shield principles and to view our certification, please visit the U.S. Department of Commerce’s Privacy Shield website.
+35 For more information about the Privacy Shield principles and to view our certification, please visit the U.S. Department of Commerce’s Privacy Shield website.
 
-36 Please direct any inquiries or complaints regarding our compliance with the Safe Harbor program and Privacy Shield principles to the point of contact listed in the “Contact Us” section below. If we do not resolve your complaint, you may submit your complaint free of charge to JAMS. Under certain conditions specified by the Privacy Shield principles, you may also be able to invoke binding arbitration to resolve your complaint. We are subject to the investigatory and enforcement powers of the Federal Trade Commission. If we share E.U. Data with a third-party service provider that processes the data solely on our behalf, then we will be liable for that third party’s processing of E.U. Data in violation of the Privacy Shield principles, unless we can prove that we are not responsible for the event giving rise to the damage.
+36 Please direct any inquiries or complaints regarding our compliance with the Privacy Shield principles to the point of contact listed in the “Contact Us” section below. If we do not resolve your complaint, you may submit your complaint free of charge to JAMS. Under certain conditions specified by the Privacy Shield principles, you may also be able to invoke binding arbitration to resolve your complaint. We are subject to the investigatory and enforcement powers of the Federal Trade Commission. If we share E.U. Data with a third-party service provider that processes the data solely on our behalf, then we will be liable for that third party’s processing of E.U. Data in violation of the Privacy Shield principles, unless we can prove that we are not responsible for the event giving rise to the damage.
 
 Changes
 
