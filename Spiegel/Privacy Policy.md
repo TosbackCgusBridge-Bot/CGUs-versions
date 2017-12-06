@@ -17,7 +17,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 13.058,55ǀ
+*   DAX 13.048,54ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -79,6 +79,7 @@ Anmelden
         *   Formel 1
         *   Formel-1-Liveticker
         *   Ergebnisse
+        *   Wintersport
     *   *   Bundesliga präsentiert von  
             Continental
 *   Kultur
