@@ -93,6 +93,10 @@ Once again OTA is an Associaton Sponsor of the RSA Conference. Join us and other
 *   OTA Blog
 *   Newsletters
 
+Tue, Dec 5, 2017 Will Uber Drive Us to Federal Breach Legislation ?
+
+The past six months we have witnessed an un-paralleled level of questionable business practices resulting from data breaches.  As trusted brands, Uber as well as Equifax and others, who have been entrusted with significant amounts of personal data have failed the American public.  The breach missteps and follies only continue.  Each time most within the security and privacy communities have rolled our eyes in disbelieve.
+
 Wed, Aug 30, 2017 CAN-SPAM - Looking Ahead &. Looking Global
 
 This week OTA / the Internet Society joined nearly 90 individuals and organizations submitting comments in response to the US Federal Trade Commission call for comments in regard to the CANSPAM Act.  By most accounts, the interactive marketing industry and email community have demonstrated a commitment towards compliance and the overall user experience.  Based on OTA's own research businesses are unsubscribing t
@@ -104,12 +108,6 @@ Today we released the 9th annual Online Trust Audit and Honor Roll. This year’
 Mon, Jun 5, 2017 Whitelisting Ads Vs. Scorched Earth: What's The Best Approach?
 
 By some accounts, there are more than 200 variants of ad-blocking solutions, many of which utilize whitelisting that allows certain ads through when they adhere to specific rules. While an ad blocker that doesn’t block all ads may sound like an oxymoron, I argue that whitelisting may be critical for the long-term sustainability of ad-supported services.
-
-Mon, Apr 10, 2017 Responsible, Coordinated &. Ethical Vulnerability Disclosures
-
-Updated April 10, 2017
-
-**OTA Joins coalition submitting comments to the National Institute of Standards and Technology's (NIST) to Improving Critical Infrastructure Cybersecurity highlighting the need for vulnerability reporting mechanisms.** Read more>
 
 More >>. Resources
 
