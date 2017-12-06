@@ -8,7 +8,6 @@
     *   New!
     
     Occasions*   Christmas Gifts
-    *   Thanksgiving Entertaining
     *   Birthday Gifts
     *   Gifts for Her
     *   Gifts for Him
@@ -76,7 +75,6 @@
     *   New!
     
     Occasions*   Christmas Gifts
-    *   Thanksgiving Entertaining
     *   Birthday Gifts
     *   Gifts for Her
     *   Gifts for Him
