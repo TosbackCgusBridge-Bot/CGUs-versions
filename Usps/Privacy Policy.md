@@ -12,7 +12,6 @@ End of sub links*   What We're Doing go to Newsroom header
     *   Transforming Our Business
     *   Current Initiatives
     *   Securing The Mail
-    *   REDRESS
     *   Sustainability
     *   Corporate Social Responsibility
     *   Government Services
@@ -57,7 +56,6 @@ End top navigation Search
     *   Transforming Our Business
     *   Current Initiatives
     *   Securing The Mail
-    *   REDRESS
     *   Sustainability
     *   Corporate Social Responsibility
     *   Government Services
