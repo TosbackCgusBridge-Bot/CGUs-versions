@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server Development Summary – 05 Dec 2017 ›
+*   Canonical and Rancher Labs announce Kubernetes Cloud Native Platform ›
+*   Snaps &. automatic updates prove popular with email client, Mailspring ›
 *   LXD Weekly Status #26 ›
 *   Ubuntu Desktop Weekly Update: December 1, 2017 ›
-*   Ubuntu Core’s role in helping manage 25m data points every minute ›
-*   How to write an Ubuntu tutorial ›
-*   LXD Weekly Status #25 ›
