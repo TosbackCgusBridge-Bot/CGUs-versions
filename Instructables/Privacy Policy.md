@@ -133,7 +133,7 @@ Legal Notices &. Trademarks
 
   Privacy Statement
 
-Updated: December 02, 2017
+Updated: December 05, 2017
 
 *   Privacy Statement  
     o Cookie Policy  
@@ -287,3 +287,7 @@ _Autodesk is a leader in 3D design, engineering and entertainment software._
 *   Affiliate program
 
 *   Privacy/Cookies  | About our Ads | Legal Notices &. Trademarks | Report Noncompliance | Site map | © 2017 Autodesk Inc. All rights reserved
+
+**Your opinion is important to Autodesk**  
+  
+After your visit, would you be willing to answer a few short questions?
