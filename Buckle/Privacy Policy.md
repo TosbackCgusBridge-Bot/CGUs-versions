@@ -19,7 +19,7 @@ THE GIFT OF DENIM – FOR FAMILY, FOR FRIENDS, FOR YOU! SHOP DENIM
     *   Login
     *   |
     *   Register
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   0MY FAVORITES
 *   MY BAG
