@@ -531,15 +531,15 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ON ORDERS OVER $50 Search Catalog Search Promotions Shop Girls Shop Guys
 
-*   Hoodies + Joggers Starting at $9.87
+*   Hoodies + Joggers Starting at $10.87
 *   Jackets + Vests Starting at $13.87
 *   Jeans Starting at $15.87
 *   Must Have Tops Starting at $9.87
 
 *   Hoodies + Joggers Starting at $15.87
 *   Jackets + Vests Starting at $16.87
-*   Jeans Starting at $20.00
-*   Tees Starting at $5.87
+*   Jeans Starting at $22.00
+*   Tees Starting at $6.87
 
 shop sabrina's picks learn more shop girls shop guys shop gifts for her shop gifts for him shop gifts for him <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. HOLIDAY HELPDESK FOR STORE HOURS, SHIPPING &. MORE VISIT OUR HOLIDAY HELPDESK SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up © 2017 Aeropostale. All Rights Reserved. SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
@@ -571,5 +571,5 @@ About Us
 Stay Connected
 
 *   Live ChatCall Us
-*   Give $15, Get $15
+*   Refer a Friend
 *   College Student Discount
