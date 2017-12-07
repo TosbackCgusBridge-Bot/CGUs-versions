@@ -68,9 +68,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Creating the Soundtrack for 'Coco' Read More
-    *   The Week in Movie News: 'Avengers: Infinity War' Trailer, Disney Finds 'Mulan' Star and More Read More
-    *   2018 Sundance Film Festival Line-up Announced Read More
+    *   'Star Wars' Buzz: Daisy Ridley May Be Done After 'Episode IX' Read More
+    *   Sequel Buzz: How 'Baby Driver' and 'Alien' May Be Heading in New Directions Read More
+    *   Movie News: Kurt Russell, Your New Santa Claus Read More
     
     Explore Content
     *   Movie Reviews
