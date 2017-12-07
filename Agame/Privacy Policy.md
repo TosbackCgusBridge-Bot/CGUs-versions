@@ -233,8 +233,8 @@ View more results
     Recommended Games
     
     *   Roblox
-    *   Star Stable
-    *   Slotomania
+    *   World of Warships
+    *   Sparta: War Of Empires
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
