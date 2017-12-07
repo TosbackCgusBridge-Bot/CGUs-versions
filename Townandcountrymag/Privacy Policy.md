@@ -31,6 +31,7 @@
     *   Leisure
     *   Travel
     *   Arts &. Culture
+    *   Drinks
     *   Food
     *   Sporting
     *   Real Estate
