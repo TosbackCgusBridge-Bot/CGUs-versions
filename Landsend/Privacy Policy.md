@@ -313,12 +313,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
 *   Home FEATURED SHOPS
     
     *   New Arrivals
-    *   Holiday Shop
     *   Supima Bedding &. Bath
     *   Bedding Basics
-    *   Personalized Gifts
     *   Flannel Bedding
-    *   Stockings and Holders
     *   Sale
     
     Christmas Shop >.
@@ -589,12 +586,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
 *   Outerwear
     *   Back
     *   Shop all Outerwear
-    *   SHOP OUTERWEAR
-        *   Back
-        *   Women
-        *   Men
-        *   Girls
-        *   Boys
     *   FEATURED SHOPS
         *   Back
         *   Weather Channel Collection
@@ -605,21 +596,23 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Snow Boots
         *   Long Underwear
         *   Sale
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
 *   Bags
     *   Back
     *   Shop all Bags
-    *   SHOP BAGS
-        *   Back
-        *   Women
-        *   Men
-        *   Girls
-        *   Boys
     *   FEATURED SHOPS
         *   Back
         *   Canvas Totes
         *   Backpacks &. Lunchboxes
         *   Business Bags
         *   Travel Bags
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
 *   Swim
     *   Back
     *   Shop all Swim
@@ -690,12 +683,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FEATURED SHOPS
         *   Back
         *   New Arrivals
-        *   Holiday Shop
         *   Supima Bedding &. Bath
         *   Bedding Basics
-        *   Personalized Gifts
         *   Flannel Bedding
-        *   Stockings and Holders
         *   Sale
     *   Christmas Shop
         *   Back
@@ -803,9 +793,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 50% off all outerwear, including coats, snow boots, hats and gloves. 40% off everything else!
+Receive 50% off full-price styles!
 
-code: BRIGHT pin: 9572 DETAILS
+code: CHESTNUT pin: 2811 DETAILS
 
 Customer Service Menu
 
