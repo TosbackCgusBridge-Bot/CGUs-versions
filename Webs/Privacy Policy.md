@@ -1,5 +1,3 @@
-On 12/05 at 11:30 PM EST we will be performing maintenance in our servers. We expect 2 hours of down time.
-
 Free Website Builder by Webs
 
 *   How It Works
