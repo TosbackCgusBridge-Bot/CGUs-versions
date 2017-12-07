@@ -8,6 +8,31 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Red Wing
+    *   Ellen Tracy Coats Up to 75% Off
+    *   Max Studio Dresses &. Collection
+    *   Love Token
+    *   Camper
+    *   Holiday Party Picks: Sweaters &. More Starting at $15
+    *   Season's Best Booties
+    *   Evening Glam Clutches
+    *   Marina Dresses Including Special Sizes
+    *   Statement Earrings &. More Ft. Blossom Box
+    *   Sneakers on Trend
+    *   Italian Leather Bags ft. Persaman Up to 70% Off
+    *   Robert Graham
+    *   Minnie Rose
+    *   Cozy Classics: Robes, Sleep &. More
+    *   Blue Topaz, Peridot &. More Under $80
+    *   Kenneth Cole New York
+    *   Liebeskind Berlin
+    *   Joe Fresh Jewelry Starting at $8
+    *   Chinese Laundry
+    *   Weatherproof
+    *   Revo
+    *   Sleep Tight: Kids' Pajamas
+    *   Slippers for the Whole Family
+    *   The Little Toys Shop Starting at $10
     *   HUDSON
     *   HUDSON Men
     *   Aquatalia
@@ -17,55 +42,49 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free People
     *   14K Gold Jewelry &. More Under $80
     *   C&C California Sport Under $25
-    *   Designer Shoes ft. Bruno Magli
     *   Threads 4 Thought Starting at $10
     *   G by GUESS
     *   Our Favorite On-Trend Sweaters Under $30
+    
     *   Uniquely Yours: Anuschka Handbags
     *   White Mountain
     *   Baccarat Crystal Jewelry Up to 65% Off
+    *   Best Holiday Scents Starting at $10
+    *   Gifts We Love: Static Nails
+    *   Deborah Lippmann Up to 55% Off
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   ilike Organic Skin Care
     *   Aquiesse: Luxe Candles &. Diffusers
-    *   Manna Kadar Under $20
+    *   Face Masks We Love Up to 85% Off
+    *   ilike Organic Skin Care
     *   Aquatalia Men
     *   Brooks Brothers
     *   Religion
     *   GUESS
     *   Frequent Flyer: Stylish &. Functional Luggage
+    *   kate spade new york Home
+    *   Click &. Grow Smart Gardens
     *   Free Shipping: BergHOFF
     *   Holiday Storage Essentials Starting at $10
     *   Free Shipping: Budget-Friendly Rugs Starting at $20
     *   Free Shipping: Faux-Fur Decor &. More Up to 55% Off
     *   Free Shipping: Bedding Sets
-    *   Gifts We Love: Static Nails
     *   Girls' Glitter Shoes &. More
-    *   Wacoal &. b.tempt'd by Wacoal Incl. Full-Fit Bras
-    *   Click &. Grow Smart Gardens
-    *   kate spade new york Home
+    *   Manna Kadar Under $20
+    *   Designer Shoes ft. Bruno Magli
     *   Great Gifts: Mugs, Stationery &. More from $10
     *   Free Shipping: New Year's Party Essentials from $10
     *   Quirky Kitchen Towels from $10
-    
     *   Free Shipping: Lifestyle Books for Your Library
     *   kate spade new york
     *   kate spade new york Clothing
-    *   kate spade new york Shoes
     *   kate spade new york Jewelry &. Watches
-    *   kate spade new york Accessories
     *   kate spade new york Swim
     *   kate spade new york Girls
     *   Marz Jewelry
     *   Bonobos
     *   Jack Spade
+    
     *   Bruno Magli
-    *   Best Holiday Scents Starting at $10
-    *   MUK LUKS
-    *   The Cashmere Shop: Styles Starting at $40
-    *   Amanda &. Chelsea Up to 65% Off Incl. Special Sizes
-    *   Classic Fall Styles ft. Adrienne Vittadini
-    *   Susina and 14th &. Union Shoes
-    *   Deborah Lippmann Up to 55% Off
     *   La Therapie Skin Care
     *   Miamica Under $15
     *   Appaman
@@ -81,49 +100,46 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   KitchenAid
     *   Free Shipping: Graphic Art for Every Room
     *   Free Shipping: Decorative Pillows from $20
-    *   Tween Scene: Vintage Havana &. More
-    *   LunchBots
-    *   Great Gifts: Books for Kids of All Ages
-    *   Boys' Dress Shoes from Deer Stags
-    
-    *   Juvia's Place
-    *   Hair Tools We Love ft. BaBylissPRO
-    *   Hydrate from Within: bkr Water Bottles
     *   Light a Fire: Candles We Love Starting at $10
     *   Great Gifts for the Home Under $20
     *   Holiday Bakeware Starting at $10
     *   Free Shipping: Hoodie Blankets &. More
     *   Charging, Bluetooth &. Phone Accessories from $10
-    *   Free Shipping: Momeni Rugs Starting at $14
-    *   Free Shipping: Cozy Fleece Throws at 50% Off
-    *   Toscano
-    *   Polo Ralph Lauren Lounge
     *   Crown Brush Starting at $10
     *   Mon Shampoing: Customized Haircare
-    *   Men's Hiking &. Outdoor Shoes ft. Merrell
     *   Free Shipping: NMK Bedding Up to 70% Off
-    *   Free Shipping: Luxuriously Soft Towels from $10
-    *   Base London
-    *   Lindbergh
-    *   Cast Iron Cookware &. Stainless Steel Cutlery from $22
-    *   Men's Shoes Up to 60% Off
-    *   Go Couture Up to 80% Off
-    *   Free Shipping: On-Trend Rings Up to 55% Off
-    *   Women's Shoe Blowout
-    *   Men's Final Few Up to 75% Off
-    *   Face Masks We Love Up to 85% Off
+    *   Kenneth Cole Coats Starting at 80% Off
+    *   kate spade new york Shoes
+    *   kate spade new york Accessories
+    *   The Cashmere Shop: Styles Starting at $40
+    *   MUK LUKS
     *   Free Shipping: Down &. Memory Foam Blowout
     *   Bath Accessories &. More Under $19
-    *   Citizen Eco Drive Watches &. More Up to 50% Off
-    *   Kenneth Cole Coats Starting at 80% Off
-    *   Eliza J &. Gabby Skye Dresses Incl. Special Sizes
-    *   Tommy Hilfiger
-    *   Lola Ramona
-    *   Rachel Zoe Shoes
-    *   Everly Grey Maternity Up to 80% Off
-    *   Le Top: Festive Finds for Baby &. Kids
+    *   Men's Final Few Up to 75% Off
+    *   Men's Shoes Up to 60% Off
+    *   Wacoal &. b.tempt'd by Wacoal Incl. Full-Fit Bras
+    *   LunchBots
+    *   Free Shipping: Luxuriously Soft Towels from $10
+    *   Cast Iron Cookware &. Stainless Steel Cutlery from $22
 *   WomenShop Sale Events
     
+    *   Ellen Tracy Coats Up to 75% Off
+    *   Max Studio Dresses &. Collection
+    *   Love Token
+    *   Camper
+    *   Holiday Party Picks: Sweaters &. More Starting at $15
+    *   Season's Best Booties
+    *   Evening Glam Clutches
+    *   Marina Dresses Including Special Sizes
+    *   Statement Earrings &. More Ft. Blossom Box
+    *   Sneakers on Trend
+    *   Minnie Rose
+    *   Cozy Classics: Robes, Sleep &. More
+    *   Blue Topaz, Peridot &. More Under $80
+    *   Kenneth Cole New York
+    *   Liebeskind Berlin
+    *   Joe Fresh Jewelry Starting at $8
+    *   Chinese Laundry
     *   HUDSON
     *   Aquatalia
     *   UNOde50 Jewelry &. Watches
@@ -131,154 +147,133 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free People
     *   14K Gold Jewelry &. More Under $80
     *   C&C California Sport Under $25
-    *   Designer Shoes ft. Bruno Magli
     *   Threads 4 Thought Starting at $10
     *   G by GUESS
     *   Our Favorite On-Trend Sweaters Under $30
     *   Uniquely Yours: Anuschka Handbags
     *   White Mountain
+    
     *   Baccarat Crystal Jewelry Up to 65% Off
-    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   ilike Organic Skin Care
-    *   Aquiesse: Luxe Candles &. Diffusers
-    *   Manna Kadar Under $20
-    *   Frequent Flyer: Stylish &. Functional Luggage
+    *   Best Holiday Scents Starting at $10
     *   Gifts We Love: Static Nails
-    *   Wacoal &. b.tempt'd by Wacoal Incl. Full-Fit Bras
+    *   Deborah Lippmann Up to 55% Off
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
+    *   Aquiesse: Luxe Candles &. Diffusers
+    *   Face Masks We Love Up to 85% Off
+    *   ilike Organic Skin Care
+    *   Frequent Flyer: Stylish &. Functional Luggage
+    *   Manna Kadar Under $20
+    *   Designer Shoes ft. Bruno Magli
     *   kate spade new york
     *   kate spade new york Clothing
-    *   kate spade new york Shoes
     *   kate spade new york Jewelry &. Watches
-    *   kate spade new york Accessories
     *   kate spade new york Swim
-    *   Best Holiday Scents Starting at $10
-    
-    *   MUK LUKS
-    *   The Cashmere Shop: Styles Starting at $40
-    *   Amanda &. Chelsea Up to 65% Off Incl. Special Sizes
-    *   Classic Fall Styles ft. Adrienne Vittadini
-    *   Susina and 14th &. Union Shoes
-    *   Deborah Lippmann Up to 55% Off
     *   La Therapie Skin Care
     *   Miamica Under $15
     *   L.A. Girl &. City Color Cosmetics from $10
     *   My Makeup Brush Set
-    *   Juvia's Place
-    *   Hair Tools We Love ft. BaBylissPRO
-    *   Hydrate from Within: bkr Water Bottles
     *   Crown Brush Starting at $10
     *   Mon Shampoing: Customized Haircare
-    *   Go Couture Up to 80% Off
-    *   Free Shipping: On-Trend Rings Up to 55% Off
-    *   Women's Shoe Blowout
-    *   Face Masks We Love Up to 85% Off
-    *   Bath Accessories &. More Under $19
-    *   Citizen Eco Drive Watches &. More Up to 50% Off
     *   Kenneth Cole Coats Starting at 80% Off
-    *   Eliza J &. Gabby Skye Dresses Incl. Special Sizes
-    *   Tommy Hilfiger
-    *   Lola Ramona
-    *   Rachel Zoe Shoes
-    *   Everly Grey Maternity Up to 80% Off
+    *   kate spade new york Shoes
+    *   kate spade new york Accessories
+    *   The Cashmere Shop: Styles Starting at $40
+    *   MUK LUKS
+    *   Bath Accessories &. More Under $19
+    *   Wacoal &. b.tempt'd by Wacoal Incl. Full-Fit Bras
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Tech Accessories
     *   Handbags
+    *   Tech Accessories
     *   Lingerie
-    *   Watches
     *   Accessories
+    *   Watches
 *   MenShop Sale Events
     
+    *   Red Wing
+    *   Italian Leather Bags ft. Persaman Up to 70% Off
+    *   Robert Graham
+    *   Weatherproof
+    *   Revo
     *   HUDSON Men
+    *   Best Holiday Scents Starting at $10
     *   Aquatalia Men
     *   Brooks Brothers
     *   Religion
     *   GUESS
     *   Frequent Flyer: Stylish &. Functional Luggage
+    
     *   Marz Jewelry
     *   Bonobos
     *   Jack Spade
     *   Bruno Magli
-    *   Best Holiday Scents Starting at $10
     *   2(X)IST Underwear
     *   Travis Mathew
-    
     *   Wolverine
     *   Raffi
     *   S13 Outerwear &. More
     *   Ben Sherman Luggage &. Bags
-    *   Toscano
-    *   Polo Ralph Lauren Lounge
-    *   Men's Hiking &. Outdoor Shoes ft. Merrell
-    *   Base London
-    *   Lindbergh
-    *   Men's Shoes Up to 60% Off
     *   Men's Final Few Up to 75% Off
-    *   Citizen Eco Drive Watches &. More Up to 50% Off
+    *   Men's Shoes Up to 60% Off
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Accessories
+    *   Shoes
     *   Watches
 *   KidsShop Sale Events
     
+    *   Sleep Tight: Kids' Pajamas
+    *   Slippers for the Whole Family
+    *   The Little Toys Shop Starting at $10
     *   HUDSON Kids
     *   Girls' Glitter Shoes &. More
     *   kate spade new york Girls
     *   Appaman
     *   MUK LUKS Kids
-    *   Tween Scene: Vintage Havana &. More
-    
     *   LunchBots
-    *   Great Gifts: Books for Kids of All Ages
-    *   Boys' Dress Shoes from Deer Stags
-    *   Everly Grey Maternity Up to 80% Off
-    *   Le Top: Festive Finds for Baby &. Kids
     
     Shop By Category
-    *   Girls Sizes 7-16
-    *   Toys
     *   Girls Sizes 2T-6X
-    *   Baby Girl
-    *   Baby Boy
-    *   Girls' Shoes
+    *   Girls Sizes 7-16
     *   Boys Sizes 2T-7
-    *   Kids Accessories
-    *   Boys' Shoes
+    *   Girls' Shoes
     *   Boys Sizes 8-20
+    *   Baby Girl
+    *   Toys
+    *   Kids Accessories
+    *   Baby Boy
+    *   Boys' Shoes
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   kate spade new york Home
+    *   Click &. Grow Smart Gardens
     *   Free Shipping: BergHOFF
     *   Holiday Storage Essentials Starting at $10
     *   Free Shipping: Budget-Friendly Rugs Starting at $20
     *   Free Shipping: Faux-Fur Decor &. More Up to 55% Off
     *   Free Shipping: Bedding Sets
-    *   Click &. Grow Smart Gardens
-    *   kate spade new york Home
     *   Great Gifts: Mugs, Stationery &. More from $10
     *   Free Shipping: New Year's Party Essentials from $10
     *   Quirky Kitchen Towels from $10
     *   Free Shipping: Lifestyle Books for Your Library
     *   KitchenAid
-    *   Free Shipping: Graphic Art for Every Room
     
+    *   Free Shipping: Graphic Art for Every Room
     *   Free Shipping: Decorative Pillows from $20
     *   Light a Fire: Candles We Love Starting at $10
     *   Great Gifts for the Home Under $20
     *   Holiday Bakeware Starting at $10
     *   Free Shipping: Hoodie Blankets &. More
     *   Charging, Bluetooth &. Phone Accessories from $10
-    *   Free Shipping: Momeni Rugs Starting at $14
-    *   Free Shipping: Cozy Fleece Throws at 50% Off
     *   Free Shipping: NMK Bedding Up to 70% Off
+    *   Free Shipping: Down &. Memory Foam Blowout
     *   Free Shipping: Luxuriously Soft Towels from $10
     *   Cast Iron Cookware &. Stainless Steel Cutlery from $22
-    *   Free Shipping: Down &. Memory Foam Blowout
     
     Shop By Category
     *   Home Decor
@@ -287,36 +282,33 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bath
     *   Luggage &. Travel
     *   Organization
-    *   Rugs
     *   Outdoor Living
+    *   Rugs
 *   BeautyShop Sale Events
     
-    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   ilike Organic Skin Care
-    *   Aquiesse: Luxe Candles &. Diffusers
-    *   Manna Kadar Under $20
-    *   Gifts We Love: Static Nails
     *   Best Holiday Scents Starting at $10
+    *   Gifts We Love: Static Nails
     *   Deborah Lippmann Up to 55% Off
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
+    *   Aquiesse: Luxe Candles &. Diffusers
+    *   Face Masks We Love Up to 85% Off
+    *   ilike Organic Skin Care
+    *   Manna Kadar Under $20
+    
     *   La Therapie Skin Care
     *   Miamica Under $15
-    
     *   L.A. Girl &. City Color Cosmetics from $10
     *   My Makeup Brush Set
-    *   Juvia's Place
-    *   Hair Tools We Love ft. BaBylissPRO
-    *   Hydrate from Within: bkr Water Bottles
     *   Crown Brush Starting at $10
     *   Mon Shampoing: Customized Haircare
-    *   Face Masks We Love Up to 85% Off
     *   Bath Accessories &. More Under $19
     
     Shop By Category
     *   Makeup
     *   Skin Care
+    *   Fragrance
     *   Hair Care
     *   Tools &. Accessories
-    *   Fragrance
     *   Nails
     *   Supplements
     *   Bath &. Body
