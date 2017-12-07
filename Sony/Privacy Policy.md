@@ -82,7 +82,7 @@ SONY
 *   SupportSupport
     *   <img src="//sonyglobal.scene7.com/is/image/gwtprod/bf43c4ef8c2eb71880b73f458ec57373?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Support
     *   <img src="//sonyglobal.scene7.com/is/image/gwtprod/9e54e9a0759ae334e03e85366d4ba231?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Register a Product
-    *   <img src="//sonyglobal.scene7.com/is/image/gwtprod/b40fc153416e1395537a641506dd9fb8?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Support
+    *   <img src="//sonyglobal.scene7.com/is/image/gwtprod/b40fc153416e1395537a641506dd9fb8?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Community
 
 *   Sign In
     
@@ -128,7 +128,7 @@ Find the Perfect Camera
 
 Gift Cards = Great Gifts. Use your #SonyRewardsPoints &. grab a gift card for everyone on your list.
 
-19 hours ago
+1 day ago
 
 View Tweet
 
@@ -208,7 +208,7 @@ Of 2017
 
 Race your way to awesome. #SonySquareNYC #GTSport
 
-22 hours ago
+1 day ago
 
 View Tweet
 
@@ -288,7 +288,7 @@ View Ride the Wave on Instagram
 
 PlayStation Experience is almost here! Stream the opening presentation at 8:00 PM Pacific on Friday December 8 at http://live.playstation.com #PSX
 
-21 hours ago
+1 day ago
 
 View Tweet
 
