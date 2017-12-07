@@ -19,7 +19,7 @@ Company Information
 
 Privacy Policy
 
-Last updated: November 21, 2017
+Last updated: Dec. 5, 2017
 
 This Privacy Policy applies to this website, www.bankrate.com, owned and operated by Bankrate, LLC This Privacy Policy describes how we collect, use and share information when you use our Services. The terms "we," "us," or "our" mean Bankrate, LLC, a Delaware corporation, and its legal subsidiaries and affiliates. The term "Services," means, collectively, various websites, applications, widgets, email notifications and other mediums, or portions of such mediums, through which you have accessed this Privacy Policy. By accessing or using our Services, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of Your Information (collectively, "Use of Your Information") as described in this Privacy Policy.
 
@@ -85,10 +85,13 @@ We (Bankrate) and our partners use cookies or similar technologies to analyze tr
 Network Advertising  
 From time to time, we may participate in, partner with, or use advertising networks, such as third-party advertising servers, advertising agencies, technology vendors and research firms. For example, we use Google AdSense to publish ads on our Services. Â When you view or click on an ad, a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. In addition, we may use third-party advertising networks to serve advertisements to you on our Web site, or to manage our advertising on other sites. Our third party partners may use technologies such as cookies t o gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. This practice is often referred to as "online behavioral advertising." Please see the "Online Behavioral Advertising" subsection of Choices About How We Use and Collect Your Information below to read about how you can prevent certain third-party advertising networks from collecting information about you.
 
-**How we Secure Your Information**  
+Nielsen  
+This website features Nielsen's audience measurement software which will allow you to contribute to market research. If you are not currently a Nielsen panelist and do not wish to participate in Nielsen's digital measurement research, you may opt out on browsers by clicking here. To learn more about our digital audience measurement products and your choices in regard to them, please visit http://www.nielsen.com/digitalprivacy for more information.
+
+**How We Secure Your Information**  
 Bankrate's web servers support the Secure Socket Layer (SSL) transaction protocol originally developed by Netscape and now largely accepted as an industry standard. The purpose of this encryption protocol is to keep confidential the information passed back and forth between a web server and its users. In addition, Bankrate uses 128-Bit Domestic Grade Strong Encryption, the most powerful encryption commercially available for Internet products (however, be aware that if you are using a 40-bit browser, your encryption level, while secure, is not the highest level available). We work to protect personally identifiable information stored on the site's servers from unauthorized access using industry standard computer security products, such as firewalls, as well as carefully developed security procedures and practices. In addition, a username, member ID name and password are required for you to use, view or change application or interview information. We use both internal and external resources to review the adequacy of our security measures on a regular basis.
 
-**H** **o** **w We Use Information**  
+**How We Use Information**  
 We may make Use of Your Information for various lawful business purposes. Among others, these purposes may include using Your Information to:
 
 *   Engage in customer support. For example, we might confirm and complete transactions requested by you, verify information you provide to us and provide you with administrative notices.
