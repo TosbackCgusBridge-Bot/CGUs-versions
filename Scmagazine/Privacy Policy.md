@@ -1,4 +1,4 @@
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. menu
+menu
 
 *   SC US
 *   SC UK
@@ -52,7 +52,7 @@ Show Search Bar
 
 The Cybersecurity source Privacy Policy
 
-**Last updated: December 01, 2017**
+**Last updated: December 06, 2017**
 
 US Privacy Policy
 
@@ -91,7 +91,7 @@ We will use your information for the following purposes:
 
 Except as otherwise provided in this Privacy Policy, we will keep your Personal Information and your Financial Information private and will not share it with third parties, unless such disclosure is necessary to (a) comply with a court order or other legal process. (b) protect our rights or property. or (c) enforce our terms of service.
 
-Unless you opt-out, we may share your Personal Information with Haymarket's affiliates, partners and third parties licensed or permitted to access your Personal Information by any of the foregoing.
+Unless you opt-out, we may share your Personal Information with Haymarket's affiliates, partners and third parties licensed or permitted to access such information by any of the foregoing. If you register for content after opting out, we may share your information with the sponsor(s) of that content.
 
 We may share information about your engagement with any of our services including receipt and/or action with our emails, activity on our sites including content and/or advertisements viewed and actions taken or personal information otherwise provided by you.
 
@@ -206,4 +206,4 @@ Copyright © 2016 Haymarket Media, Inc. All Rights Reserved.
 This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
 Your use of this website constitutes acceptance of Haymarket Media's Privacy Policy and Terms &. Conditions.
 
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W475TQW" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W475TQW" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
