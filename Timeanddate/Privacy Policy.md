@@ -93,35 +93,39 @@ Home   Site information   Privacy Statement for timeanddate.comPrivacy Stateme
 
 We have a firm commitment to privacy at timeanddate.com.
 
-This page discloses our information gathering and dissemination practices for this website: **www.timeanddate.com.**
+This page discloses our information gathering and dissemination practices for timeanddate.com.
 
 IP Address and Cookies
 
-We use your IP address to help diagnose problems with our server and to administer our website. Your IP address is used to gather broad demographic information. We use cookies to deliver content specific to your interests.
+We use your IP address to help diagnose problems with our servers and to administer our websites. Your IP address is used to gather broad demographic information. We use cookies to deliver content specific to your interests.
 
-Registration and Servers
+Registration
 
-If you register with the site, your email address is used as your login name. Your email address will not be sold nor distributed to any third party, but for technical purposes, it is shared with vendors working on our behalf. We will only send mail to your email address when you first register with the site, when you request your password to be reset, or for answering support questions.
+If you register with the site, your email address is used as your login name. Your email address will not be sold nor distributed to any third party, but for technical purposes, it is shared with vendors working on our behalf.
 
-Our servers are located in USA, Germany, Singapore, and Norway. We also rely on third parties to host our services and our infrastructure, and to distribute our content. Although we have security measures in place, we cannot guarantee full privacy.
+When creating an account, you agree to our terms and conditions.
 
-We recommend that you do not add sensitive information to the calendars.
+Servers and Sensitive Information
+
+Our servers are located in USA, Germany, Singapore, Australia, and Norway. We also rely on third parties to host our services and our infrastructure, and to distribute our content.
+
+Although we have security measures in place, we cannot guarantee full privacy. We recommend that you do not add sensitive information to the calendars, countdowns, or any other application.
 
 External Links
 
 This site contains links to other sites. timeanddate.com is not responsible for the privacy practices or the content of such websites.
 
-Our online surveys may ask visitors for contact information (such as their email address). The customer's contact information is used to contact the visitor when necessary.
+If we have online surveys, we may ask you for contact information, such as your email address. This information is used to contact you if necessary.
 
 Advertising
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. For more information about this practice and your possibility to opt out, click here.
+We use third-party advertising companies to serve ads when you visit timeanddate.com. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites to provide advertisements about goods and services of interest to you. For more information about this practice and your possibility to opt out, click here.
 
-Third-party Privacy Policies
+Third-Party Privacy Policies
 
-*   Google, as a third party vendor, uses cookies to serve ads on your site.
-*   Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-*   Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+*   Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites.
+*   Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+*   Users may opt out of personalized advertising by visiting Ads Settings.
 
 Contacting the Website
 
@@ -137,15 +141,16 @@ webmaster@timeanddate.comtimeanddate.com
 2.  Contact Us
 3.  Feedback
 4.  Privacy Statement
-5.  Copyright
-6.  Logo Use
-7.  GeoNames
-8.  Support Us
-9.  Ad Blockers
-10.  Work Here
-11.  Advertise
-12.  Credits
-13.  Disclaimer
+5.  Terms and Conditions
+6.  Copyright
+7.  Logo Use
+8.  GeoNames
+9.  Support Us
+10.  Ad Blockers
+11.  Work Here
+12.  Advertise
+13.  Credits
+14.  Disclaimer
 
 Index
 
