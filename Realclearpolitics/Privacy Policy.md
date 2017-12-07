@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Ed Rogers_: The Quest for Collusion Is Over, and Dems Know It
+*   _Adam White_: Bake Now, or Forever Hold Your Peace?
     
-*   _Jill Abramson_: All the Signs in the Russia Probe Point to Jared Kushner
+*   _Sarah Jones_: Masterpiece Cakeshop Isn't a Free Speech Case
     
-*   _Joseph Curl_: Mueller Credibility Plunges, Trump Probe Imploding
+*   _Gregg Jarrett_: How Peter Strzok Corrupted Mueller, Comey Investigations
     
-*   _Roger Cohen_: Mueller's Facts and Trump's Make-Believe
+*   _Martin London_: Trump's Lies Are Fatally Wounding Our Democracy
     
-*   _Jonathan Tobin_: Why Trump Should Make School Choice His Next Big Fight
+*   _Noah Millman_: The Republican Party's Smart Bet on the Economy
     
-*   _McKay Coppins_: God's Plan for Mike Pence
+*   _Albert Hunt_: No Matter Who Wins in Alabama, Republicans Lose
     
-*   _David Brody_: Mike Pence on 'the Role of Faith in the Life of This Nation'
+*   _Roger Simon_: Trump and Congress Challenge the Palestinians to Grow Up
     
-*   _Greg Weiner_: No Winners in the Supreme Court's Wedding Cake Case
+*   _Thomas Friedman_: Obsession With Iran Is Driving Mideast and U.S. Crazy
     
-*   _Tucker Carlson_: The FBI Is Out of Control
+*   _Myron Magnet_: Saudi Arabia's Earth-Shaking Coup
     
-*   _Chris Cillizza_: Trump's I-Am-the-Law Defense on the Russia Probe
+*   _Carl Cannon_: When Teddy Roosevelt Waved the Third-Party Flag
     
-*   _Charles Lipson_: What Flynn's Guilty Plea Means, Sans Exaggerations
+*   _Zacharek_: Person of the Year 2017: The Silence Breakers
     
-*   _Washington Post_: Technology Is Making Natural Gas Nimbler
+*   _Shmuel Rosner_: Of Course Jerusalem Is Israel's Capital
     
-*   _Eugene Robinson_: What Is Trump Trying So Desperately to Cover Up?
+*   _Aaron Miller_: Recognizing Jerusalem as Israel's Capital Is a Dangerous Gambit
     
-*   _Scott McKay_: We're Learning Mueller's Probe Is Rotten to the Core
+*   _David Harsanyi_: How Trump's Move Makes Peace More Likely
     
-*   _Stephen Collinson_: Trump's Russia Defense in Disarray
+*   _David Ignatius_: North Korea Missile Tests: A Pivot to Negotiations?
     
-*   _Hugh Hewitt_: Time For a Special Counsel to Investigate the FBI
+*   _Paul Sperry_: Double-Crossing FBI Agent Sends Shock Waves Through D.C.
     
-*   _Sen. Dianne Feinstein_: Fight Against the GOP's Unfair Tax Plans Not Over
+*   _Bradley Moss_: Anti-Trump Texts Hardly Discredit Mueller's Russia Probe
     
-*   _Stephen Moore_: Dems Now the Party of the Rich--So Why Not Tax Them?
+*   _Chuck Ross_: Top Clinton Aides Also Lied to FBI, Face No Charges
     
-*   _James Arkin_: Heller's Tax Cut Vote May Be Key to His 2018 Chances
+*   _Carl Cannon_: Revamping the Rust Belt: Software Comes to the Fore
     
-*   _Andrew Cline_: GOP Promised America an Anti-Washington Party. Where Is It?
+*   _Jeffrey Toobin_: Ginsburg, Kagan Ask About the Artistry of Wedding Cake
     
-*   _Edward-Isaac Dovere_: Trump's Threat to Take Down the GOP Still Stands
+*   _Melinda Henneberger_: I'd Make the Cake, But Jack Phillips Shouldn't Have To
     
-*   _Michael Graham_: Why Roy Moore Is Surging in Alabama
+*   _Victor Davis Hanson_: Does a President's Character Decide His Destiny?
     
-*   _Carol Costello_: All the President's Women Are Complicit
+*   _Frank Bruni_: Donald Trump Could Really Use a Friend
     
-*   _Caitlin Huey-Burns_: Can Trump Help Push Moore Over the Finish Line?
+*   _James Arkin_: Uncertainty Abounds as Shutdown Deadline Nears
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Can Trump's Backing Push Moore Over the Finish Line in AL?
+*   Conyers Leaves Congress in the Wake of Harassment Claims
+*   Uncertainty Abounds as Shutdown Deadline Nears
+*   Earnest: There Are Consequences When You Defame Intel Community
 *   Heller's Tax Reform Push May Be Key to His Chances in NV
-*   Carlson: The FBI Is Out of Control
-*   Trump Complains About "Unfair" Treatment of Flynn
-*   Senate OKs Tax Bill as Trump, Republicans Near Big Legislative Win
+*   Can Trump's Backing Push Moore Over the Finish Line in AL?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Alabama Senate Special Election - Moore vs. JonesWBRC-TV/Strategy Research
-    *   Moore50
-    *   Jones43Moore +7
-*   Alabama Senate Special Election - Moore vs. JonesGravis
-    *   Moore44
-    *   Jones48Jones +4
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve35
-    *   Disapprove58Disapprove +23
+*   President Trump Job ApprovalIBD/TIPP
+    *   Approve36
+    *   Disapprove59Disapprove +23
 *   President Trump Job ApprovalGallup
-    *   Approve35
-    *   Disapprove60Disapprove +25
+    *   Approve36
+    *   Disapprove59Disapprove +23
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve42
+    *   Disapprove56Disapprove +14
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve37
+    *   Disapprove59Disapprove +22
 
 More Latest Polls In The News
 
+*   Israeli PM Netanyahu: "Forever Greatful" To Trump For Jerusalem Statement, "Step Towards Peace"
+*   Trump: Government Shutdown "Could Happen," Democrats "Want To Have Illegal Immmigrants"
 *   CBS's Major Garrett To WH: Is Trump Planning An International Spy Network To Circumvent US Intelligence?
 *   Mika Brzezinski: "Noose" Tightening On Trump Family. "Might Go To Jail For The Rest Of Their Lives"
 *   Tucker Carlson: "Out Of Control" FBI Considers Itself Above The Law, Threat To Every American
-*   CNN: FBI's Strzok Changed Comey's Clinton Language From "Grossly Negligent" To "Extremely Careless"
-*   Sanders: This Tax Bill Will Be Remembered As One Of The Greatest Robberies In American History
 
 *   Politics
 *   Policy
