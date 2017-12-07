@@ -2,15 +2,38 @@
 
 *   What We Do
     *   Overview
-    *   Direct to Brands
-    *   For Agencies
+    *   Our Approach
+    *   Power of Conversant
+    *   Industries We Serve
+*   What We Offer
+    *   Overview
+    *   Engage Your Customers
+    *   Acquire Customers
+    *   Deliver Media
+*   What We Know
+    *   Overview
+    *   Guides
+    *   Case Studies
+    *   Blog
+*   Who We Are
+    *   Overview
+    *   In the News
+    *   Press Releases
+    *   Our Locations
+    *   Partners
+*   Publishers
+    *   Overview
+    *   Benefits
+    *   Integrations
+    *   Join Us
+*   Careers
+*   Contact
+
+*   What We Do
+    *   Overview
     *   The Power of Conversant
 *   How We Do It
     *   Overview
-    *   CRM
-    *   Video
-    *   Mobile
-    *   Display
 *   What We Know
     *   Overview
     *   Whitepapers
@@ -29,111 +52,85 @@
     *   Integrations
     *   Join Us
 
-Login Let's Connect ✕
+GET TO THE HEART  
+OF WHAT MATTERS  
+TO MILLIONS Watch Our Story
 
-First Name\*
-
-Last Name\*
-
-Job Title\*
-
-Company\*
-
-Email Address \*
-
-Business Phone\*
-
-State/Province\* -- Please Select State-- Outside North America Alaska Alabama Arkansas Arizona California Colorado Connecticut D.C. Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maryland Maine Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Alberta Manitoba British Columbia New Brunswick Newfoundland and Labrador Nova Scotia Northwest Territories Nunavut Ontario Prince Edward Island Quebec Saskatchewan Yukon Territory
-
-Business Type \* -- Please Select Business -- Media Publisher Agency Brand Marketer Journalist/Press Other
-
-Industry -- Please Select Industry-- Automotive CPG Financial Services Health Media &. Entertainment Non-Profit QSR/Dining Retail Technology Telecommunications Travel &. Tourism Other
-
-Area of Interest \* -- Please Select Area of Interest-- Digital Advertising Affiliate Marketing
-
-How Many Pennies Equal a Dollar?
-
-Questions/Comments
-
-Send me emails containing marketing messages from Conversant and our affiliates.
-
-GIVE EACH CONSUMER  
-THEIR OWN REASON  
-TO LOVE YOUR BRAND What We Do Watch Video
-
-*   160+ MILLION Real People You Can  
+*   160M+ Real People You Can  
     Message Right Now
-*   96% Cross-Device  
-    Matching Accuracy
-*   1+ Trillion Daily Real-Time  
-    Decisions
-*   10X Average Incremental  
-    Return On Ad Spend
+*   7,000+ Dimensions to  
+    Consumer Profiles
+*   96% Accuracy at matching  
+    Consumers to devices
+*   80% Consumers stay  
+    Reachable after 1 Year
+*   10X Average incremental  
+    Return on Ad spend
 
-*   The Latest News
-*   Guaranteed Ad Quality
+More data plus smarter decisioning make us THE INDUSTRY’S MOST POWERFUL DIGITAL MEDIA COMPANY
+
+The Latest News
+
+*   Do You Have an Identity Crisis?  
+    Get the tools to achieve identity matching  
     
-    How we achieve high-quality campaigns  
+*   Bridge the TV-Digital Gap  
+    Extend TV ads online with scale &. accuracy  
     
-*   Get Video Ads on the Right Screens
+*   Gain Confidence With Ad Quality  
+    The steps to staying brand-safe &. bot-free  
     
-    Extend TV ads to digital with scale &. accuracy  
-    
-*   How To Do Video Smartly
-    
+*   How to Do Video Smartly  
     7 questions your technology needs to consider  
     
-*   Conversant Header Bidding is Here
-    
-    The solution is now open to all publishers  
-    
-*   The "50 First Dates" Problem
-    
+*   The “50 First Dates” Problem  
     A recipe for bad digital marketing
-    
 
-NEW GUIDE
-
-Don't Stalk. Just Sell.
-
-A story about how to get digital marketing right.
-
-DOWNLOAD NOW INTELLIGENCE
-
-The 5 Keys to Connecting with Real People
-
-DOWNLOAD NOW ← View Case Study View Case Study View Case Study View Case Study View Case Study View Case Study →
+← See our case study See our case study See our case study See our case study See our case study See our case study →
 
 *   1
 *   2
 *   3
 *   4
 
-CONVERSANT MEDIAfor marketing &. media professionals
+Research  
+Five ways to win customers with tech  
+Hear from the experts >. New Guide  
+Know the Truth About Your Digital Vendors  
+Read it now >. Quiz Yourself  
+What do you know about ad tech?  
+Find out now >. SOME OF THE COMPANIES THAT  
+HARNESS OUR POWER
 
-Have meaningful, ongoing conversations with millions of real people, across all of their devices.
+Ready to talk? Contact us 
 
-  
-Learn More CJ AFFILIATEfor affiliate marketers
-
-Drive outstanding growth with the world’s largest affiliate network. World-class service, insights &. personalization.
-
-  
-Learn More SOME OF THE COMPANIES THAT HARNESS OUR POWER
-
-Our 4,000 clients include 400+ blue chip brands and 65 of the Internet Retailer Top 100.
+*   What We Do
+    *   Our Approach
+    *   Power of Conversant
+    *   Industries We Serve
+*   What We Offer
+    *   Engage Your Customers
+    *   Acquire Customers
+    *   Deliver Media
+*   What We Know
+    *   Guides
+    *   Case Studies
+    *   Blog
+*   Who We Are
+    *   In the News
+    *   Press Releases
+    *   Our Locations
+    *   Partners
+*   Publishers
+    *   Benefits
+    *   Integrations
+    *   Join Us
 
 *   What We Do
     *   Overview
-    *   Direct to Brands
-    *   For Agencies
     *   The Power of Conversant
 *   How We Do It
     *   Overview
-    *   CRM
-    *   Video
-    *   Mobile
-    *   Display
 *   What We Know
     *   Overview
     *   Whitepapers
