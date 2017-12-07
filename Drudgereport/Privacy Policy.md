@@ -119,11 +119,11 @@ LATEST ON TWITTER
 
 My week on Twitter : 4 Mentions, 45.6K Mention Reach, 8 New Followers, 1 Tweet. See yours with sumall.com/performan… pic.twitter.com/HzEm…
 
-About 5 hours ago
+Yesterday
 
 Congrats to Kary Jones! She's been appointed a new role here as Manager of Publisher Development. What does this mean for Intermarkets? "We're ready to look at diversification and bringing on new partners!" Exciting news and well deserved! intermarkets.net/201…
 
-About 2 days ago
+About 3 days ago
 
 My week on Twitter : 1 Mention, 1.13K Mention Reach, 1 Like, 2 Tweets. See yours with sumall.com/performan… pic.twitter.com/2pVU…
 
