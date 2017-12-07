@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites JPSS-1 satellite now has a new name: NOAA-20. Learn why. Satellites Climate Globe had 3rd warmest year to date and 4th warmest October on record National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites JPSS-1 satellite now has a new name: NOAA-20. Learn why. Oceans &. Coasts Fisheries Coral: The gift you don't want to give, or get National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms How coral savvy are you? Build your knowledge during #CoralsWeek AROUND NOAA // Coral: The gift you don't want to give, or get Extremely active 2017 Atlantic hurricane season finally ends New NOAA tool is helping to predict U.S. droughts, global famine
+Enter Search Terms U.S. had 3rd warmest year to date, 7th warmest November on record 10th warmest autumn and low rainfall expanded drought across much of U.S. South AROUND NOAA // How coral savvy are you? Build your knowledge during #CoralsWeek Coral: The gift you don't want to give, or get Extremely active 2017 Atlantic hurricane season finally ends New NOAA tool is helping to predict U.S. droughts, global famine
 
 *   About our agency
 *   News and features
