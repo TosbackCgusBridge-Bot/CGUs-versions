@@ -114,6 +114,8 @@
     
     **확인**취소초기 설정으로 변경
 
+NAVER Terms &. Privacy 한국어(Korean) 한국어(Korean) 영어(English)
+
 *   이용약관
 *   개인정보취급방침
 *   청소년보호정책
