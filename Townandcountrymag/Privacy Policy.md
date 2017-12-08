@@ -51,7 +51,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 The Story of Prince Harry and Meghan Markle's Love 2 The Curious Plight of the Modern Debutante 3 The Most Elegant Christmas Wreaths To Buy Online 4 9 Places to Spend New Year's 2018 5 21 Cocktails to Help You Survive Winter Privacy Policy Dec 1, 2014
+Today's Top Stories 1 Rare da Vinci Painting Going to Louvre Abu Dhabi 2 Inside the Cult of Outlander 3 The Most Elegant Christmas Wreaths To Buy Online 4 9 Places to Spend New Year's 2018 5 21 Cocktails to Help You Survive Winter Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
@@ -179,7 +179,7 @@ Advertisement - Continue Reading Below
 
 Last revised on April 1, 2016
 
-Advertisement - Continue Reading Below Share Tweet Email
+Watch Next Advertisement - Continue Reading Below More From About Advertise Online And the Top Schools in the Country Are . . . The Story Behind Donald Trump's Most Impressive Homes Share Tweet Email
 
 *   About
 *   Trump Likens War Policy to '21' Club Renovation
