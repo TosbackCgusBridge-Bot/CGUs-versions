@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Adam White_: Bake Now, or Forever Hold Your Peace?
+*   _Zev Chafets_: Trump Teaches Palestinians About the New Middle East
     
-*   _Sarah Jones_: Masterpiece Cakeshop Isn't a Free Speech Case
+*   _Hanan Ashrawi_: Trump Is Making a Huge Mistake on Jerusalem
     
-*   _Gregg Jarrett_: How Peter Strzok Corrupted Mueller, Comey Investigations
+*   _George Neumayr_: Franken's Phony Finale
     
-*   _Martin London_: Trump's Lies Are Fatally Wounding Our Democracy
+*   _Kirsten Powers_: With Franken Exit, Democrats Seize the High Ground
     
-*   _Noah Millman_: The Republican Party's Smart Bet on the Economy
+*   _Michael Tomasky_: On Franken, Dems Did Right Thing -- But May Regret It
     
-*   _Albert Hunt_: No Matter Who Wins in Alabama, Republicans Lose
+*   _Lewandowski &. Bossie_: Trump Has Made Our Political Elite Class Irrelevant
     
-*   _Roger Simon_: Trump and Congress Challenge the Palestinians to Grow Up
+*   _Dana Milbank_: Doesn't Trump Ever Get Tired of Losing So Much?
     
-*   _Thomas Friedman_: Obsession With Iran Is Driving Mideast and U.S. Crazy
+*   _Ramesh Ponnuru_: Repealing the Obamacare Mandate Now Makes Sense
     
-*   _Myron Magnet_: Saudi Arabia's Earth-Shaking Coup
+*   _Ronald Brownstein_: The Closing of the Republican Mind
     
-*   _Carl Cannon_: When Teddy Roosevelt Waved the Third-Party Flag
+*   _Thomas Edsall_: Liberals Need to Take Their Fingers Out of Their Ears
     
-*   _Zacharek_: Person of the Year 2017: The Silence Breakers
+*   _Allison Benedikt_: The Upside of Office Flirtation? I'm Living It.
     
-*   _Shmuel Rosner_: Of Course Jerusalem Is Israel's Capital
+*   _Washington Post_: From Remote to Real-Time: New Tech in Natural Gas
     
-*   _Aaron Miller_: Recognizing Jerusalem as Israel's Capital Is a Dangerous Gambit
+*   _Thomas Friedman_: Trump, Israel, and the Art of the Giveaway
     
-*   _David Harsanyi_: How Trump's Move Makes Peace More Likely
+*   _Matthew Continetti_: Promise Keeper
     
-*   _David Ignatius_: North Korea Missile Tests: A Pivot to Negotiations?
+*   _Stephen Collinson_: Trump's Jerusalem Decision Promises Upheaval
     
-*   _Paul Sperry_: Double-Crossing FBI Agent Sends Shock Waves Through D.C.
+*   _Shadi Hamid_: No, Jerusalem Move Won't Really Hurt U.S.-Arab Alliances
     
-*   _Bradley Moss_: Anti-Trump Texts Hardly Discredit Mueller's Russia Probe
+*   _Huey-Burns & Arkin_: Dems Flip on Franken to Pressure GOP on Moore
     
-*   _Chuck Ross_: Top Clinton Aides Also Lied to FBI, Face No Charges
+*   _Tucker Carlson_: Kirsten Gillbrand Is an Unprincipled Fraud
     
-*   _Carl Cannon_: Revamping the Rust Belt: Software Comes to the Fore
+*   _E.J. Dionne_: Who Are Republicans, Really? Look to Alabama.
     
-*   _Jeffrey Toobin_: Ginsburg, Kagan Ask About the Artistry of Wedding Cake
+*   _Pat Garofalo_: Adding Insult to Tax Injuries
     
-*   _Melinda Henneberger_: I'd Make the Cake, But Jack Phillips Shouldn't Have To
+*   _Edward Morrissey_: Democrats Are So, So Wrong About the GOP Tax Bill
     
-*   _Victor Davis Hanson_: Does a President's Character Decide His Destiny?
+*   _John Cassidy_: Robert Mueller Jumps Onto the Trump Money Trail
     
-*   _Frank Bruni_: Donald Trump Could Really Use a Friend
+*   _Ned Ryun_: Mueller's Probe Doesn't End With a Bang, But With a Whimper
     
-*   _James Arkin_: Uncertainty Abounds as Shutdown Deadline Nears
+*   _Chris Magnus_: Sessions' Anti-Immigrant Policies Will Endanger Cities
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Conyers Leaves Congress in the Wake of Harassment Claims
+*   Trump Formally Recognizes Jerusalem as Capital of Israel
+*   Franken Departure Could Pressure Republicans on Moore's Fate
+*   Trump: Dems' Stance on Illegal Immigrants Could Prompt Shutdown
 *   Uncertainty Abounds as Shutdown Deadline Nears
-*   Earnest: There Are Consequences When You Defame Intel Community
-*   Heller's Tax Reform Push May Be Key to His Chances in NV
-*   Can Trump's Backing Push Moore Over the Finish Line in AL?
+*   Conyers Leaves Congress in the Wake of Harassment Claims
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalIBD/TIPP
+*   President Trump Job ApprovalCBS News
     *   Approve36
-    *   Disapprove59Disapprove +23
+    *   Disapprove57Disapprove +21
+*   President Trump Job ApprovalPew Research
+    *   Approve34
+    *   Disapprove62Disapprove +28
 *   President Trump Job ApprovalGallup
-    *   Approve36
-    *   Disapprove59Disapprove +23
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve42
-    *   Disapprove56Disapprove +14
-*   President Trump Job ApprovalReuters/Ipsos
     *   Approve37
     *   Disapprove59Disapprove +22
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve44
+    *   Disapprove55Disapprove +11
 
 More Latest Polls In The News
 
-*   Israeli PM Netanyahu: "Forever Greatful" To Trump For Jerusalem Statement, "Step Towards Peace"
+*   Jordan Grills FBI Director Wray About Peter Strzok: Did He Use Steele Dossier To Obtain FISA Warrant?
+*   Gregg Jarrett: Mueller Using "America's Secret Police" FBI As "Political Weapon" For "Illegitimate" Probe
+*   Israeli PM Netanyahu: "Forever Grateful" To Trump For Jerusalem Statement, "Step Towards Peace"
 *   Trump: Government Shutdown "Could Happen," Democrats "Want To Have Illegal Immmigrants"
-*   CBS's Major Garrett To WH: Is Trump Planning An International Spy Network To Circumvent US Intelligence?
-*   Mika Brzezinski: "Noose" Tightening On Trump Family. "Might Go To Jail For The Rest Of Their Lives"
-*   Tucker Carlson: "Out Of Control" FBI Considers Itself Above The Law, Threat To Every American
+*   Sanders: This Tax Bill Will Be Remembered As One Of The Greatest Robberies In American History
 
 *   Politics
 *   Policy
