@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Security Team Weekly Summary: December 7, 2017 ›
 *   Kernel Team Summary – December 6, 2017 ›
 *   Commercetools uses Ubuntu on its next-generation ecommerce platform ›
 *   Ubuntu Server Development Summary – 05 Dec 2017 ›
 *   Canonical and Rancher Labs announce Kubernetes Cloud Native Platform ›
-*   Snaps &. automatic updates prove popular with email client, Mailspring ›
