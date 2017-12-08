@@ -30,9 +30,9 @@ Close submenu ( Girls ) Girls
 Close submenu ( Featured ) Featured
 
 *   View All
-*   Doorbusters
-*   New Arrivals
 *   Gifts for Her
+*   New Arrivals
+*   Doorbusters
 *   Sabrina's Picks
 *   Jean Guide
 *   Logo Shop
@@ -93,9 +93,9 @@ Close submenu ( Guys ) Guys
 Close submenu ( Featured ) Featured
 
 *   View All
-*   Doorbusters
-*   New Arrivals
 *   Gifts for Him
+*   New Arrivals
+*   Doorbusters
 *   Jean Guide
 *   Logo Shop
 *   Tapout + Aero Active
@@ -209,30 +209,33 @@ Close submenu ( Gifts ) Gifts
 Close submenu ( Gifts for Her ) Gifts for Her
 
 *   View All
-*   Tees
-*   Hoodies + Joggers
-*   Jeans
-*   Sweaters
+*   Top Tees
+*   Fleece Favorites
+*   Giftable Jeans
+*   Signature Sweaters
 *   Comfy Cozy
-*   Must Have Tops
-*   Jackets + Vests
-*   Cold Weather
+*   Longing for Sleeves
+*   Outerwear Obsessed
+*   Warm Wonders
 *   Stocking Stuffers
+*   Gifts Under $5
+*   Gifts Under $10
 *   Gifts Under $20
+*   Splurge Worthy Gifts
 
 Close submenu ( Gifts for Him ) Gifts for Him
 
 *   View All
-*   Jeans
-*   Hoodies + Joggers
-*   Tees
-*   Shirts
-*   Long Sleeve
-*   Sweaters
-*   Jackets + Vests
-*   Cold Weather
+*   Top Tees
+*   Fleece Favorites
+*   Giftable Jeans
+*   Buttoned Up
+*   Warm + Rugged
+*   Warmest Accessories
 *   Stocking Stuffers
+*   Gifts Under $10
 *   Gifts Under $20
+*   Splurge Worthy Gifts
 
 Close submenu ( Clearance ) Clearance
 
@@ -289,7 +292,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**50-70% OFF** + **FREE SHIPPING OVER $50**
+**EXTRA 30% OFF CLEARANCE** USE CODE **EXTRA30** **50-70% OFF** + **FREE SHIPPING OVER $50** **EXTRA 30% OFF CLEARANCE** USE CODE **EXTRA30** **50-70% OFF** + **FREE SHIPPING OVER $50**
 
 *   My Account My Account Login Register
 
@@ -300,9 +303,9 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Featured
         *   View All
-        *   Doorbusters
-        *   New Arrivals
         *   Gifts for Her
+        *   New Arrivals
+        *   Doorbusters
         *   Sabrina's Picks
         *   Jean Guide
         *   Logo Shop
@@ -354,9 +357,9 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Featured
         *   View All
-        *   Doorbusters
-        *   New Arrivals
         *   Gifts for Him
+        *   New Arrivals
+        *   Doorbusters
         *   Jean Guide
         *   Logo Shop
         *   Tapout + Aero Active
@@ -453,29 +456,32 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Gifts for Her
         *   View All
-        *   Tees
-        *   Hoodies + Joggers
-        *   Jeans
-        *   Sweaters
+        *   Top Tees
+        *   Fleece Favorites
+        *   Giftable Jeans
+        *   Signature Sweaters
         *   Comfy Cozy
-        *   Must Have Tops
-        *   Jackets + Vests
-        *   Cold Weather
+        *   Longing for Sleeves
+        *   Outerwear Obsessed
+        *   Warm Wonders
         *   Stocking Stuffers
+        *   Gifts Under $5
+        *   Gifts Under $10
         *   Gifts Under $20
+        *   Splurge Worthy Gifts
     
     *   Gifts for Him
         *   View All
-        *   Jeans
-        *   Hoodies + Joggers
-        *   Tees
-        *   Shirts
-        *   Long Sleeve
-        *   Sweaters
-        *   Jackets + Vests
-        *   Cold Weather
+        *   Top Tees
+        *   Fleece Favorites
+        *   Giftable Jeans
+        *   Buttoned Up
+        *   Warm + Rugged
+        *   Warmest Accessories
         *   Stocking Stuffers
+        *   Gifts Under $10
         *   Gifts Under $20
+        *   Splurge Worthy Gifts
     
 *   Clearance
     
@@ -531,15 +537,15 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ON ORDERS OVER $50 Search Catalog Search Promotions Shop Girls Shop Guys
 
-*   Hoodies + Joggers Starting at $7.87
-*   Jackets + Vests Starting at $13.87
-*   Jeans Starting at $13.87
-*   Must Have Tops Starting at $7.87
+*   Fleece Favorites Starting at $7.87
+*   Outerwear Obsessed Starting at $13.87
+*   Giftable Jeans Starting at $13.87
+*   Longing for Sleeves Starting at $7.87
 
-*   Hoodies + Joggers Starting at $14.87
-*   Jackets + Vests Starting at $15.87
-*   Jeans Starting at $10.00
-*   Tees Starting at $5.87
+*   Fleece Favorites Starting at $14.87
+*   Warm + Rugged Starting at $2.87
+*   Giftable Jeans Starting at $10.00
+*   Top Tees Starting at $5.87
 
 shop sabrina's picks learn more shop girls shop guys shop gifts for her shop gifts for him shop gifts for him <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. HOLIDAY HELPDESK FOR STORE HOURS, SHIPPING &. MORE VISIT OUR HOLIDAY HELPDESK SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up © 2017 Aeropostale. All Rights Reserved. SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
@@ -556,6 +562,7 @@ Stores
 
 *   Store Locator
 *   eGift Cards
+*   Contests
 
 About Us
 
