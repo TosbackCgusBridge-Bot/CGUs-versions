@@ -70,7 +70,7 @@ Gift Cards | Offers | Sign In Sign Out
     
     *   'Star Wars' Buzz: Daisy Ridley May Be Done After 'Episode IX' Read More
     *   Sequel Buzz: How 'Baby Driver' and 'Alien' May Be Heading in New Directions Read More
-    *   Movie News: Kurt Russell, Your New Santa Claus Read More
+    *   Movie News: Ryan Reynolds to Star in 'Detective Pikachu' Read More
     
     Explore Content
     *   Movie Reviews
@@ -258,9 +258,9 @@ For any questions in relation to this Privacy Policy please contact us at privac
 
 Offers
 
-*   Holiday Gift Card Offer
+*   'Jurassic World: Fallen Kingdom' Sweepstakes
     
-    Give the gift of movies. Free movie ticket with gift card orders $75+. Plus, get a chance to win a year of movie tickets with orders over $100. Use code: HOLIDAY4U BUY NOW
+    Sign up for a ‘Jurassic World: Fallen Kingdom’ FanAlert® for your chance to win a trip to the filming location in Hawaii. SIGN UP
     
 *   'Coco' Gift With Purchase
     
