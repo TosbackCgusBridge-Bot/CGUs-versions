@@ -84,17 +84,17 @@ Close
     *   young
     *   0
     *   interracial
-    *   creampie
     *   orgasm
     *   petite
     *   german
-    *   brazzers
     *   masturbation
+    *   brazzers
     *   cumshot
-    *   blonde
+    *   creampie
     *   brunette
+    *   blonde
     *   missionary
-    *   harriet sugarcookie
+    *   sunny leone
     *   View All
 *   Premium HD
 *   Live Girls
@@ -448,7 +448,7 @@ Lawrence G. Walters
 **Walters Law Group**  
 195 W. Pine Ave.  
 Longwood, FL 32750  
-Email: copyright@tube8.com
+Email: copyright@pornhub.com
 
 _Please do not send other inquiries or requests to our designated copyright agent. Absent prior express permission, our designated copyright agent is not authorized to accept or waive service of formal legal process, and any agency relationship beyond that required to receive valid DMCA Notices or Counter-Notices (as defined below) is expressly disclaimed._
 
@@ -467,7 +467,7 @@ Lawrence G. Walters
 **Walters Law Group**  
 195 W. Pine Ave.  
 Longwood, FL 32750  
-Email: copyright@tube8.com
+Email: copyright@pornhub.com
 
 _Please do not send other inquiries or requests to our designated copyright agent. Absent prior express permission, our designated copyright agent is not authorized to accept or waive service of formal legal process, and any agency relationship beyond that required to receive valid DMCA Notices or Counter-Notices is expressly disclaimed._
 
@@ -660,7 +660,7 @@ Discover
 *   Mobile
 *   /
 *   Tablet
-*   Rss
+*   RSS
 *   Hall of Fap
 
 Copyright © 2007-2017 Tube8.com, All Rights Reserved.
