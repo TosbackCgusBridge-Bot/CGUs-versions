@@ -235,15 +235,13 @@ Print | Citation &. Date | Reprint
 
 Print | Citation &. Date | Reprint
 
-More to Explore     by Taboola by Taboola Sponsored Links Sponsored Links Promoted Links Promoted Links .Safesound Personal AlarmDon't Like Guns? Carry This InsteadSafesound Personal AlarmTophatterShoppers Are Getting Unbelievable Deals With This Little-Known SiteTophatterDefinitionWe Can Guess Your Education Level With This QuizDefinitionStandardNewsRare Photos Not Suitable For History BooksStandardNewsLife BuzzNurse Puts Dying Baby Next To Her Twin To Say Final Goodbye And Then Witnesses A MiracleLife BuzzRadSpeed Detector ProThis Amazing Device Should Be BannedRadSpeed Detector ProDental Implants | Sponsored LinksDental Implants Used To Be Expensive! Not Anymore!Dental Implants | Sponsored LinksJournalistateMalia Obama's New Car Is BreathtakingJournalistate Today's Headlines
+More to Explore     by Taboola by Taboola Sponsored Links Sponsored Links Promoted Links Promoted Links .DefinitionWe Can Guess Your Education Level With This QuizDefinitionDesign BumpAfter Losing Weight Honey Boo Boo Looks Like A ModelDesign BumpSafesound Personal AlarmDon't Like Guns? Carry This InsteadSafesound Personal AlarmLivinglyCelebs Who Looked Different Before They Became Super FamousLivinglyGundry MDCardiologist Warns: Throw Out Your Probiotics NowGundry MDTophatterShoppers Are Getting Unbelievable Deals With This Little-Known SiteTophatterJournalistateMalia Obama's New Car Is BreathtakingJournalistate
 
-Telling Doctors Not to Resuscitate, by Tattoo
+02:00
 
-Most Scientists Agree Another Pangaea Is Certain, Disagree How It Will Look
+02:00
 
-Sure, Amazon's Changed Shopping, But Retailers Can Still Compete
-
-More to Explore Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksWorking for HowStuffWorksAbout HowStuffWorksWhen Private Investigators Go RogueHow Internet Cookies Workby Taboolaby Taboola
+SharecareEczema Differences and Symptoms You Need to KnowSharecare Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksHow Facial Recognition Systems WorkWorking for HowStuffWorksWhen Private Investigators Go RogueHow Identity Theft Worksby Taboolaby Taboola
 
   
 
@@ -277,4 +275,4 @@ Get the best of HowStuffWorks by email. Keep up to date on:
 
 Sign Up Now!
 
-Testing this long verbose error message to check the behaviour <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. <img src="https://soflopxl.com/px?partner\_id=31210">
+Testing this long verbose error message to check the behaviour #} <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. <img src="https://soflopxl.com/px?partner\_id=31210">
