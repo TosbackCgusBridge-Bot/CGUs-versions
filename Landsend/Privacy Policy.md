@@ -793,9 +793,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 50% off full-price styles!
+Receive 40% off your order!
 
-code: CHESTNUT pin: 2811 DETAILS
+code: SNOWMAN pin: 3668 DETAILS
 
 Customer Service Menu
 
