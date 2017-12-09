@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Friday, December 8, 2017  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, December 9, 2017  
 
 DEBKAfile
 
@@ -46,102 +46,102 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
-*   Putin “deeply concerned” by Trump’s Jerusalem decision
+*   A rocket explodes on Sderot main street
     
-    Dec 08, 2017 @ 08:29
+    Dec 08, 2017 @ 22:13
     
-*   Palestinians complain to UN Sec Council meeting on Jerusalem Friday
+*   Israeli warplanes strike Hamas military facilities in Gaza
     
-    Dec 08, 2017 @ 08:26
+    Dec 08, 2017 @ 21:32
     
-*   Trump hosts his first Hanukkah party at the White House
+*   Adel Al-Jubayr is replaced as Saudi foreign Minister
     
-    Dec 08, 2017 @ 08:13
+    Dec 08, 2017 @ 21:27
     
-*   Israeli and Cypriot armies end joint exercise in Troodos Mts.
+*   Dep Nat Sec Adviser Dina Powell plans to leave White House
     
-    Dec 07, 2017 @ 19:32
+    Dec 08, 2017 @ 21:01
     
-*   Two rockets fired from Gaza explode before flying into Israel
+*   UN Sec Council meeting on Jerusalem begins
     
-    Dec 07, 2017 @ 18:22
+    Dec 08, 2017 @ 19:36
     
-*   Israel security forces bolstered to meet unrest in Palestinian towns
+*   Iron Dome intercepts Gaza rocket
     
-    Dec 07, 2017 @ 13:39
+    Dec 08, 2017 @ 19:26
     
-*   Moscow says it considers West Jerusalem to be Israel’s capital
+*   Low-key Palestinian protest rallies. One killed in Gaza
     
-    Dec 07, 2017 @ 13:27
+    Dec 08, 2017 @ 17:33
     
-*   Hamas: The intifada (uprising) begins tomorrow
+*   Yuval Steinitz: We are on alert for Palestinian violence every Independence Day
     
-    Dec 07, 2017 @ 11:07
+    Dec 08, 2017 @ 08:48
     
 
-*   Two rockets fired from Gaza explode before flying into Israel
+*   UN Sec Council meeting on Jerusalem begins
     
-    Dec 07, 2017 @ 18:22
+    Dec 08, 2017 @ 19:36
     
-*   Israel security forces bolstered to meet unrest in Palestinian towns
+*   Iron Dome intercepts Gaza rocket
     
-    Dec 07, 2017 @ 13:39
+    Dec 08, 2017 @ 19:26
     
-*   Moscow says it considers West Jerusalem to be Israel’s capital
+*   Low-key Palestinian protest rallies. One killed in Gaza
     
-    Dec 07, 2017 @ 13:27
+    Dec 08, 2017 @ 17:33
     
-*   Hamas: The intifada (uprising) begins tomorrow
+*   Yuval Steinitz: We are on alert for Palestinian violence every Independence Day
     
-    Dec 07, 2017 @ 11:07
+    Dec 08, 2017 @ 08:48
     
-*   Putin “deeply concerned” by Trump’s Jerusalem decision
+*   A rocket explodes on Sderot main street
     
-    Dec 08, 2017 @ 08:29
+    Dec 08, 2017 @ 22:13
     
-*   Palestinians complain to UN Sec Council meeting on Jerusalem Friday
+*   Israeli warplanes strike Hamas military facilities in Gaza
     
-    Dec 08, 2017 @ 08:26
+    Dec 08, 2017 @ 21:32
     
-*   Trump hosts his first Hanukkah party at the White House
+*   Adel Al-Jubayr is replaced as Saudi foreign Minister
     
-    Dec 08, 2017 @ 08:13
+    Dec 08, 2017 @ 21:27
     
-*   Israeli and Cypriot armies end joint exercise in Troodos Mts.
+*   Dep Nat Sec Adviser Dina Powell plans to leave White House
     
-    Dec 07, 2017 @ 19:32
+    Dec 08, 2017 @ 21:01
     
-*   Two rockets fired from Gaza explode before flying into Israel
+*   UN Sec Council meeting on Jerusalem begins
     
-    Dec 07, 2017 @ 18:22
+    Dec 08, 2017 @ 19:36
     
-*   Israel security forces bolstered to meet unrest in Palestinian towns
+*   Iron Dome intercepts Gaza rocket
     
-    Dec 07, 2017 @ 13:39
+    Dec 08, 2017 @ 19:26
     
-*   Moscow says it considers West Jerusalem to be Israel’s capital
+*   Low-key Palestinian protest rallies. One killed in Gaza
     
-    Dec 07, 2017 @ 13:27
+    Dec 08, 2017 @ 17:33
     
-*   Hamas: The intifada (uprising) begins tomorrow
+*   Yuval Steinitz: We are on alert for Palestinian violence every Independence Day
     
-    Dec 07, 2017 @ 11:07
+    Dec 08, 2017 @ 08:48
     
-*   Putin “deeply concerned” by Trump’s Jerusalem decision
+*   A rocket explodes on Sderot main street
     
-    Dec 08, 2017 @ 08:29
+    Dec 08, 2017 @ 22:13
     
-*   Palestinians complain to UN Sec Council meeting on Jerusalem Friday
+*   Israeli warplanes strike Hamas military facilities in Gaza
     
-    Dec 08, 2017 @ 08:26
+    Dec 08, 2017 @ 21:32
     
-*   Trump hosts his first Hanukkah party at the White House
+*   Adel Al-Jubayr is replaced as Saudi foreign Minister
     
-    Dec 08, 2017 @ 08:13
+    Dec 08, 2017 @ 21:27
     
-*   Israeli and Cypriot armies end joint exercise in Troodos Mts.
+*   Dep Nat Sec Adviser Dina Powell plans to leave White House
     
-    Dec 07, 2017 @ 19:32
+    Dec 08, 2017 @ 21:01
     
 
 12PrevNext DEBKA Video
