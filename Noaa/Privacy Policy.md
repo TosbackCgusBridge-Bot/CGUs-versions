@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Operation: Coral Rescue is under way A feel-good story just in time for #CoralsWeek AROUND NOAA // Coral: The gift you don't want to give, or get U.S. had 3rd warmest year to date, 7th warmest November on record How coral savvy are you? Build your knowledge during #CoralsWeek
+Enter Search Terms Operation: Coral Rescue is under way A feel-good story just in time for #CoralsWeek AROUND NOAA // South for the winter: NOAA’s GOES-S satellite arrives in Florida ahead of 2018 launch What are your chances for a white Christmas? U.S. had 3rd warmest year to date, 7th warmest November on record How coral savvy are you? Build your knowledge during #CoralsWeek
 
 *   About our agency
 *   News and features
