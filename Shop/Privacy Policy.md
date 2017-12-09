@@ -309,12 +309,12 @@ Compare (0)
 
 Home >. Filter by specs Offers
 
-*   Extended Holiday Hours! 9am-11pm on Black Friday &. Cyber Mon. See Complete Extended Holiday Schedule. >
-*   Free Shipping &. Free Returns for the Holidays. Learn More >
+*   Extended Holiday Hours! See Extended Holiday Schedule. >
+*   Enjoy free, expedited shipping on everything you buy! Now through Dec. 12. Learn More >
 *   Be Confident in your Lenovo Purchase. Learn More >
 *   Flexible financing is available! Check out your options now. Learn More >
-*   Extended Holiday Hours! 9am-11pm on Black Friday &. Cyber Mon. See Complete Extended Holiday Schedule. >
-*   Free Shipping &. Free Returns for the Holidays. Learn More >
+*   Extended Holiday Hours! See Extended Holiday Schedule. >
+*   Enjoy free, expedited shipping on everything you buy! Now through Dec. 12. Learn More >
 
 PrevNext Amazing Deals so Hot, they disappear in a Flash!
 
