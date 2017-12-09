@@ -184,6 +184,29 @@ Effective Date
 
 This Privacy Policy was last updated August 31, 2016.
 
+Patches Across Our Network
+
+*   Banning, CA
+*   Livermore, CA
+*   Murrieta, CA
+*   Temecula, CA
+*   Fairfield, CT
+*   Greenwich, CT
+*   Milford, CT
+*   Joliet, IL
+*   Oak Lawn, IL
+*   Plainfield, IL
+*   Bel Air, MD
+*   Concord, NH
+*   Nashua, NH
+*   Brick, NJ
+*   Middletown, NJ
+*   Ocean City, NJ
+*   Toms River, NJ
+*   Sachem, NY
+*   Doylestown, PA
+*   Marple Newtown, PA
+
 Corporate Info
 
 *   About Patch
