@@ -1,4 +1,4 @@
-*   NO3ATL•32nd ? 12:56
+*   NO9-417ATL8-520Final
 *   IND3-9BUF6-6Sun 1:00 PM ET
 *   MIN10-2CAR8-4Sun 1:00 PM ET
 *   CHI3-9CIN5-7Sun 1:00 PM ET
@@ -30,7 +30,7 @@
 *   NFL Network
 *   Photos
 
-*   NO3ATL•32nd ? 12:56
+*   NO17ATL20Final
 *   IND3-9BUF6-6Sun 1:00 PM ET
 *   MIN10-2CAR8-4Sun 1:00 PM ET
 *   CHI3-9CIN5-7Sun 1:00 PM ET
