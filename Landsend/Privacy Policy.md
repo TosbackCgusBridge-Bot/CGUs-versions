@@ -793,9 +793,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 40% off your order!
+Receive 50% off all outerwear, including coats, snow boots, hats and gloves. 40% off everything else!
 
-code: SNOWMAN pin: 3668 DETAILS
+code: SLEIGH pin: 4461 DETAILS
 
 Customer Service Menu
 
