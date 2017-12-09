@@ -68,8 +68,8 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   'Star Wars' Buzz: Daisy Ridley May Be Done After 'Episode IX' Read More
-    *   Sequel Buzz: How 'Baby Driver' and 'Alien' May Be Heading in New Directions Read More
+    *   Watch: 'Jurassic World: Fallen Kingdom' Trailer Erupts With All New Thrills Read More
+    *   Here’s What Paul Thomas Anderson’s ‘Star Wars’ Movie Would Be Like Read More
     *   Movie News: Ryan Reynolds to Star in 'Detective Pikachu' Read More
     
     Explore Content
