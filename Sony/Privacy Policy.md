@@ -128,7 +128,7 @@ Find the Perfect Camera
 
 Gift Cards = Great Gifts. Use your #SonyRewardsPoints &. grab a gift card for everyone on your list.
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -208,7 +208,7 @@ Of 2017
 
 Race your way to awesome. #SonySquareNYC #GTSport
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -288,7 +288,7 @@ View Ride the Wave on Instagram
 
 PlayStation Experience is almost here! Stream the opening presentation at 8:00 PM Pacific on Friday December 8 at http://live.playstation.com #PSX
 
-2 days ago
+3 days ago
 
 View Tweet
 
