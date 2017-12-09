@@ -51,7 +51,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 Rare da Vinci Painting Going to Louvre Abu Dhabi 2 Inside the Cult of Outlander 3 The Most Elegant Christmas Wreaths To Buy Online 4 9 Places to Spend New Year's 2018 5 21 Cocktails to Help You Survive Winter Privacy Policy Dec 1, 2014
+Today's Top Stories 1 See Rare Footage of JFK Playing With His Children 2 Inside the Cult of Outlander 3 The Most Elegant Christmas Wreaths To Buy Online 4 9 Places to Spend New Year's 2018 5 21 Cocktails to Help You Survive Winter Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
