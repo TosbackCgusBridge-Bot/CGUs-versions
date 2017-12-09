@@ -30,7 +30,7 @@ Click here to review the Flickr Gift Purchaser Terms.
     
 2.  **DESCRIPTION OF THE FLICKR SERVICES**
     
-    Please click this link to learn what additional features Flickr Pro provides: http://help.yahoo.com/kb/index?page=content&y=PROD\_FLICKR&locale=en\_US&id=SLN25499
+    Please click this link to learn what additional features Flickr Pro provides: https://www.flickr.com/account/upgrade/pro
     
     Please click this link to learn what additional features Doublr provides: https://www.flickr.com/help/limits/#150470666.
     
@@ -44,7 +44,7 @@ Click here to review the Flickr Gift Purchaser Terms.
     
     1.  **Payment Terms**
         
-        Your credit card will automatically be charged the current fee for the Flickr Service you choose on the date that you click the “Submit order” button in the ordering process. If you do not cancel the Flickr Service you ordered by the end of the current term, your credit card on file will also automatically be charged the then-current fee for that Flickr Service at the commencement of each renewal term. Fees can not be credited towards other services. Current fees are posted on Flickr at http://help.yahoo.com/kb/index?page=content&y=PROD\_FLICKR&locale=en\_US&id=SLN25499. All currency references are in U.S. dollars. Please note, payment for the Service is non-refundable, unless Yahoo expressly provides otherwise. To cancel the Service visit https://flickr.com/account/wallet. If you cancel you will continue to keep the service until the end of your subscription term.
+        Your credit card will automatically be charged the current fee for the Flickr Service you choose on the date that you click the “Submit order” button in the ordering process. If you do not cancel the Flickr Service you ordered by the end of the current term, your credit card on file will also automatically be charged the then-current fee for that Flickr Service at the commencement of each renewal term. Fees can not be credited towards other services. Current fees are posted on Flickr at https://www.flickr.com/account/upgrade/pro. All currency references are in U.S. dollars. Please note, payment for the Service is non-refundable, unless Yahoo expressly provides otherwise. To cancel the Service visit https://flickr.com/account/wallet. If you cancel you will continue to keep the service until the end of your subscription term.
         
     2.  **Account Updater**
         
