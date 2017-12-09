@@ -1,4 +1,4 @@
-close dialog$9.99 /YR.close dialog
+close dialogCelebrate Together This Season$29/YRSubscribe close dialog
 
 *   Home
 *   News
@@ -14,7 +14,6 @@ close dialog$9.99 /YR.close dialog
 *   Photo &. Video
 *   Subscribe
 *   Advertise with Us
-*   Thanksgiving
 *   More
     *   Home
     *   News
@@ -30,7 +29,6 @@ close dialog$9.99 /YR.close dialog
     *   Photo &. Video
     *   Subscribe
     *   Advertise with Us
-    *   Thanksgiving
 
 *   socialFollow
 *   search
@@ -118,7 +116,7 @@ LifestyleOpinion
 *   Columnists
 *   Letters to the Editor
 
-HomesObituariesUSA TODAYPhoto &. VideoSubscribeThanksgiving
+HomesObituariesUSA TODAYPhoto &. VideoSubscribe
 
 © 2017 elpasotimes.com, All rights reserved.
 
@@ -143,6 +141,5 @@ Our Partners
 *   Classifieds
 *   Cars.com El Paso
 *   The Job Network
-*   Thanksgiving.com
 
-close dialogUnlock your rewards.Sign up now to get special deals fromEl Paso Times &. the USA TODAY NETWORK, invites to events and sweepstakes, and more.Please enter aboveSign UpNo thanksThanks for signing upclose dialogclose dialogGet 30 Days Free!Discover the benefits of being a subscriber. Experience unlimited digital access, easy-to-use apps, access to events, deals and giveaways, and more — free for 30 days!No credit card required.Unlock My Free TrialNo thanks, I don’t like free things.close dialogclose dialog$9.99 /YR.close dialogclose dialogConnect with your community$9.99 /YR.Not looking to subscribe right now close dialog
+close dialogUnlock your rewards.Sign up now to get special deals fromEl Paso Times &. the USA TODAY NETWORK, invites to events and sweepstakes, and more.Please enter aboveSign UpNo thanksThanks for signing upclose dialogclose dialogGet 30 Days Free!Discover the benefits of being a subscriber. Experience unlimited digital access, easy-to-use apps, access to events, deals and giveaways, and more — free for 30 days!No credit card required.Unlock My Free TrialNo thanks, I don’t like free things.close dialogclose dialogCelebrate Together This Season$29/YRSubscribe close dialog
