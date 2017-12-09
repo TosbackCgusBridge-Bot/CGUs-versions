@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Zev Chafets_: Trump Teaches Palestinians About the New Middle East
+*   _Ruth Marcus_: Was Al Franken's Punishment Fair?
     
-*   _Hanan Ashrawi_: Trump Is Making a Huge Mistake on Jerusalem
+*   _Christina Cauterucci_: Why Franken Had to Go
     
-*   _George Neumayr_: Franken's Phony Finale
+*   _Jonathan Tobin_: Trump Exposes the Cause of Palestinian Rage
     
-*   _Kirsten Powers_: With Franken Exit, Democrats Seize the High Ground
+*   _Eric Cortellessa_: Artless Dealmaking Could Doom Mideast Peace
     
-*   _Michael Tomasky_: On Franken, Dems Did Right Thing -- But May Regret It
+*   _Gary Abernathy_: Trump's Doing Exactly What He Promised
     
-*   _Lewandowski &. Bossie_: Trump Has Made Our Political Elite Class Irrelevant
+*   _Tom Perez &. Rep. Keith Ellison_: How Democrats Win the Future
     
-*   _Dana Milbank_: Doesn't Trump Ever Get Tired of Losing So Much?
+*   _Kurt Schlichter_: Liberals Have Turned the FBI Into a Disgrace
     
-*   _Ramesh Ponnuru_: Repealing the Obamacare Mandate Now Makes Sense
+*   _Lanny Davis_: The Department of Justice Is Not Trump's Law Firm
     
-*   _Ronald Brownstein_: The Closing of the Republican Mind
+*   _Michael Barone_: Real Target of GOP Tax Bills: Feds, Eds, &. Meds Bloat
     
-*   _Thomas Edsall_: Liberals Need to Take Their Fingers Out of Their Ears
+*   _Matt Bai_: Will Tax Cuts Spur the Economy? Maybe With a Time Machine.
     
-*   _Allison Benedikt_: The Upside of Office Flirtation? I'm Living It.
+*   _Andrew Sullivan_: The Case for the Baker in Gay-Wedding Culture War
     
-*   _Washington Post_: From Remote to Real-Time: New Tech in Natural Gas
+*   _Kimberley Strassel_: Obstruction of Congress
     
-*   _Thomas Friedman_: Trump, Israel, and the Art of the Giveaway
+*   _Eugene Robinson_: What If Mueller Catches Trump - and It Isn't Enough?
     
-*   _Matthew Continetti_: Promise Keeper
+*   _Byron York_: How Far Did Obama's DoJ Go to Stop Trump?
     
-*   _Stephen Collinson_: Trump's Jerusalem Decision Promises Upheaval
+*   _Carl Hulse_: Al Franken's Improbable Political Rise and Sudden Fall
     
-*   _Shadi Hamid_: No, Jerusalem Move Won't Really Hurt U.S.-Arab Alliances
+*   _John Fund_: Democrats Forced Franken Out Only to Bring Down Trump
     
-*   _Huey-Burns & Arkin_: Dems Flip on Franken to Pressure GOP on Moore
+*   _Jelani Cobb_: What Conyers' Resignation Means for the Black Caucus
     
-*   _Tucker Carlson_: Kirsten Gillbrand Is an Unprincipled Fraud
+*   _Will Rahn_: President Trump Starts to Rack Up Wins
     
-*   _E.J. Dionne_: Who Are Republicans, Really? Look to Alabama.
+*   _Hacker &. Pierson_: GOP Passing Its Unpopular Agenda Is Bad for Democracy
     
-*   _Pat Garofalo_: Adding Insult to Tax Injuries
+*   _Heather Wilhelm_: 'Evil' Tax Cuts? Nope, It's Blue-State Panic
     
-*   _Edward Morrissey_: Democrats Are So, So Wrong About the GOP Tax Bill
+*   _David Ignatius_: Despite Trump's Rancor, World Economy Is Surging
     
-*   _John Cassidy_: Robert Mueller Jumps Onto the Trump Money Trail
+*   _Judith Miller_: Jerusalem, Now and Eternal
     
-*   _Ned Ryun_: Mueller's Probe Doesn't End With a Bang, But With a Whimper
+*   _Gershom Gorenberg_: Jerusalem to Pay Price for Trump's Ignorance
     
-*   _Chris Magnus_: Sessions' Anti-Immigrant Policies Will Endanger Cities
+*   _Peter Berkowitz_: Exploring the Bonds of Judaism and Conservatism
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Congress Averts Shutdown, Sends Trump Stopgap Spending Bill
+*   In Franken's Fall, Sudden Senate Pickup Chance for Republicans
+*   Jordan Grills Wray: Did Strzok Use Dossier to Obtain FISA Warrant?
 *   Trump Formally Recognizes Jerusalem as Capital of Israel
 *   Franken Departure Could Pressure Republicans on Moore's Fate
-*   Trump: Dems' Stance on Illegal Immigrants Could Prompt Shutdown
-*   Uncertainty Abounds as Shutdown Deadline Nears
-*   Conyers Leaves Congress in the Wake of Harassment Claims
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve38
+    *   Disapprove58Disapprove +20
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve42
+    *   Disapprove56Disapprove +14
 *   President Trump Job ApprovalCBS News
     *   Approve36
     *   Disapprove57Disapprove +21
 *   President Trump Job ApprovalPew Research
     *   Approve34
     *   Disapprove62Disapprove +28
-*   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove59Disapprove +22
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove55Disapprove +11
 
 More Latest Polls In The News
 
+*   Trump: Same People Who Won't Accept Election Are Those Who Undermined Credibility Of Institutions
 *   Jordan Grills FBI Director Wray About Peter Strzok: Did He Use Steele Dossier To Obtain FISA Warrant?
 *   Gregg Jarrett: Mueller Using "America's Secret Police" FBI As "Political Weapon" For "Illegitimate" Probe
+*   Tucker Carlson: Kirsten Gillbrand's Cynical Hypocrisy On Sexual Harassment And The Clintons
 *   Israeli PM Netanyahu: "Forever Grateful" To Trump For Jerusalem Statement, "Step Towards Peace"
-*   Trump: Government Shutdown "Could Happen," Democrats "Want To Have Illegal Immmigrants"
-*   Sanders: This Tax Bill Will Be Remembered As One Of The Greatest Robberies In American History
 
 *   Politics
 *   Policy
