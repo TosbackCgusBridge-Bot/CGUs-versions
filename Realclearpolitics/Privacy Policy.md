@@ -250,8 +250,8 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Congress Averts Shutdown, Sends Trump Stopgap Spending Bill
 *   In Franken's Fall, Sudden Senate Pickup Chance for Republicans
+*   Iraq Says Its War Against ISIS Has Ended
 *   Jordan Grills Wray: Did Strzok Use Dossier to Obtain FISA Warrant?
 *   Trump Formally Recognizes Jerusalem as Capital of Israel
 *   Franken Departure Could Pressure Republicans on Moore's Fate
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Alabama Senate Special Election - Moore vs. JonesTrafalgar Group (R)
+    *   Moore51
+    *   Jones46Moore +5
+*   Alabama Senate Special Election - Moore vs. JonesGravis
+    *   Moore49
+    *   Jones45Moore +4
 *   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove58Disapprove +20
+    *   Approve37
+    *   Disapprove58Disapprove +21
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve42
     *   Disapprove56Disapprove +14
-*   President Trump Job ApprovalCBS News
-    *   Approve36
-    *   Disapprove57Disapprove +21
-*   President Trump Job ApprovalPew Research
-    *   Approve34
-    *   Disapprove62Disapprove +28
 
 More Latest Polls In The News
 
+*   Nunes: FBI/DOJ Officials Have Become So "Dirty," "Who Is Watching The Watchmen? Investigating These People?"
+*   Brzezinski: Franken Accuser a "Playboy Model Who Goes On Hannity, Who Voted For Trump"
 *   Trump: Same People Who Won't Accept Election Are Those Who Undermined Credibility Of Institutions
+*   David Brooks: GOP Made "Deal With The Devil" With Trump. He'll Take Everything, Including Your Soul
 *   Jordan Grills FBI Director Wray About Peter Strzok: Did He Use Steele Dossier To Obtain FISA Warrant?
-*   Gregg Jarrett: Mueller Using "America's Secret Police" FBI As "Political Weapon" For "Illegitimate" Probe
-*   Tucker Carlson: Kirsten Gillbrand's Cynical Hypocrisy On Sexual Harassment And The Clintons
-*   Israeli PM Netanyahu: "Forever Grateful" To Trump For Jerusalem Statement, "Step Towards Peace"
 
 *   Politics
 *   Policy
