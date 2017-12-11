@@ -32,7 +32,6 @@ Close submenu ( Featured ) Featured
 *   View All
 *   Gifts for Her
 *   New Arrivals
-*   Cozy Sock Deal
 *   Doorbusters
 *   Sabrina's Picks
 *   Jean Guide
@@ -292,7 +291,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**50-70% OFF** + **FREE SHIPPING OVER $50** **EXTRA 30% OFF CLEARANCE** USE CODE **EXTRA30**
+**FREE SHIPPING ON ALL ORDERS!** **GUARANTEED HOLIDAY DELIVERY! DETAILS**
 
 *   My Account My Account Login Register
 
@@ -305,7 +304,6 @@ Menu Find a Store Aeropostale
         *   View All
         *   Gifts for Her
         *   New Arrivals
-        *   Cozy Sock Deal
         *   Doorbusters
         *   Sabrina's Picks
         *   Jean Guide
@@ -535,19 +533,19 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Promotions Shop Girls Shop Guys
+ON ALL ORDERS Search Catalog Search Promotions Shop Girls Shop Guys
 
-*   Fleece Favorites Starting at $7.87
-*   Outerwear Obsessed Starting at $13.87
+*   Fleece Favorites Starting at $9.87
+*   Outerwear Obsessed Starting at $11.87
 *   Giftable Jeans Starting at $13.87
-*   Longing for Sleeves Starting at $7.87
+*   Longing for Sleeves Starting at $8.87
 
-*   Fleece Favorites Starting at $14.87
+*   Fleece Favorites Starting at $15.87
 *   Warm + Rugged Starting at $2.87
-*   Giftable Jeans Starting at $10.00
-*   Top Tees Starting at $5.87
+*   Giftable Jeans Starting at $22.00
+*   Top Tees Starting at $6.87
 
-Choose Free Socks shop sabrina's picks HOLIDAY PLAYLIST learn more Shop Gifts For Her Shop Gifts For Him Find a Store shop girls shop guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>.
+shop sabrina's picks HOLIDAY PLAYLIST learn more Shop Gifts For Her Shop Gifts For Him Find a Store shop girls shop guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>.
 
 CLOSE
 
