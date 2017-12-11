@@ -264,7 +264,7 @@ Menu Close Menu Close
             
         *   12 Days of Business
             
-        *   Stylish, Dependable and Affordable PCs
+        *   Green Monday
             
 *   Support
     *   Sales Enquiries
@@ -315,11 +315,12 @@ Home >. Filter by specs Offers
 *   Extended Holiday Hours! See Extended Holiday Schedule. >
 *   Enjoy free, expedited shipping on everything you buy! Now through Dec. 12. Learn More >
 
-PrevNext Amazing Deals so Hot, they disappear in a Flash!
+PrevNext Green Monday
 
-Sale ends December 12 at Midnight EST.
+Save the Wallet! Great Deals for Less Cash  
+Doorbusters Dropping Throughout the Day
 
-Weekly Sale >. Daily Deal >.
+Shop Green Monday >.
 
 The Perfect Balance
 
@@ -330,9 +331,9 @@ ThinkSystem SR570 >. ThinkSystem SR590 >.
 *   1
 *   2
 
-Stand up and Fight!
+Check out today's Daily Deal
 
-Begin your journey with Star Wars Jedi Challenges
+New Offers Each Day. While Supplies Last!
 
 12 Days of Business Sale
 
