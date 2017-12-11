@@ -1,19 +1,19 @@
-*   NO9-417ATL8-520Final
-*   IND3-9BUF6-6Sun 1:00 PM ET
-*   MIN10-2CAR8-4Sun 1:00 PM ET
-*   CHI3-9CIN5-7Sun 1:00 PM ET
-*   GB6-6CLE0-12Sun 1:00 PM ET
-*   SF2-10HOU4-8Sun 1:00 PM ET
-*   OAK6-6KC6-6Sun 1:00 PM ET
-*   DET6-6TB4-8Sun 1:00 PM ET
-*   DAL6-6NYG2-10Sun 1:00 PM ET
-*   TEN8-4ARI5-7Sun 4:05 PM ET
-*   NYJ5-7DEN3-9Sun 4:05 PM ET
-*   WAS5-7LAC6-6Sun 4:05 PM ET
-*   SEA8-4JAX8-4Sun 4:25 PM ET
-*   PHI10-2LA9-3Sun 4:25 PM ET
-*   BAL7-5PIT10-2Sun 8:30 PM ET
+*   BAL0PIT•142nd ? 13:11
+*   SEA8-524JAX9-430Final
+*   PHI11-243LA9-435Final
+*   IND3-107BUF7-613Final (OT)
+*   MIN10-324CAR9-431Final
+*   CHI4-933CIN5-87Final
+*   GB7-627CLE0-1321Final (OT)
+*   SF3-1026HOU4-916Final
+*   OAK6-715KC7-626Final
+*   DET7-624TB4-921Final
+*   DAL7-630NYG2-1110Final
+*   TEN8-57ARI6-712Final
+*   NYJ5-80DEN4-923Final
+*   WAS5-813LAC7-630Final
 *   NE10-2MIA5-7Mon 8:30 PM ET
+*   NO9-417ATL8-520Final
 
 *   News
 *   Scores
@@ -30,22 +30,22 @@
 *   NFL Network
 *   Photos
 
-*   NO17ATL20Final
-*   IND3-9BUF6-6Sun 1:00 PM ET
-*   MIN10-2CAR8-4Sun 1:00 PM ET
-*   CHI3-9CIN5-7Sun 1:00 PM ET
-*   GB6-6CLE0-12Sun 1:00 PM ET
-*   SF2-10HOU4-8Sun 1:00 PM ET
-*   OAK6-6KC6-6Sun 1:00 PM ET
-*   DET6-6TB4-8Sun 1:00 PM ET
-*   DAL6-6NYG2-10Sun 1:00 PM ET
-*   TEN8-4ARI5-7Sun 4:05 PM ET
-*   NYJ5-7DEN3-9Sun 4:05 PM ET
-*   WAS5-7LAC6-6Sun 4:05 PM ET
-*   SEA8-4JAX8-4Sun 4:25 PM ET
-*   PHI10-2LA9-3Sun 4:25 PM ET
-*   BAL7-5PIT10-2Sun 8:30 PM ET
+*   BAL0PIT•142nd ? 13:11
+*   SEA24JAX30Final
+*   PHI43LA35Final
+*   IND7BUF13Final (OT)
+*   MIN24CAR31Final
+*   CHI33CIN7Final
+*   GB27CLE21Final (OT)
+*   SF26HOU16Final
+*   OAK15KC26Final
+*   DET24TB21Final
+*   DAL30NYG10Final
+*   TEN7ARI12Final
+*   NYJ0DEN23Final
+*   WAS13LAC30Final
 *   NE10-2MIA5-7Mon 8:30 PM ET
+*   NO17ATL20Final
 
 *   News
 *   Scores
@@ -66,7 +66,7 @@ ScoresClose
 *   Shop
 *   Teams
 
-NFL.com - Privacy Policy English Deutsch Francais
+BREAKING NEWSSteelers clinch AFC North titlePittsburgh clinched a spot in the postseason with their 39-38 win over the Ravens today.READ MORE NFL.com - Privacy Policy English Deutsch Francais
 
 **Effective Date: August 16, 2001  
 Updated: September 15, 2017**  
@@ -240,4 +240,6 @@ If you have any questions about this Privacy Policy or the privacy practices of 
 NFL Digital Media Group  
 345 Park Avenue, 5th Floor  
 New York, NY 10154  
-Attn: Website Privacy Policy
+Attn: Website Privacy Policy  
+
+   Pittsburgh clinched a spot in the postseason with their 39-38 win over the Ravens today.
