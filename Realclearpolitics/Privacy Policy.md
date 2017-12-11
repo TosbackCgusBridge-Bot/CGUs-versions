@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve36
+    *   Disapprove59Disapprove +23
 *   Alabama Senate Special Election - Moore vs. JonesTrafalgar Group (R)
     *   Moore51
     *   Jones46Moore +5
 *   Alabama Senate Special Election - Moore vs. JonesGravis
     *   Moore49
     *   Jones45Moore +4
-*   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove58Disapprove +21
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve42
     *   Disapprove56Disapprove +14
 
 More Latest Polls In The News
 
+*   Comstock: List Of Congressional Sex Abuse Settlements "Will Be Fully Disclosed... One Way Or Another"
 *   Nunes: FBI/DOJ Officials Have Become So "Dirty," "Who Is Watching The Watchmen? Investigating These People?"
 *   Brzezinski: Franken Accuser a "Playboy Model Who Goes On Hannity, Who Voted For Trump"
 *   Trump: Same People Who Won't Accept Election Are Those Who Undermined Credibility Of Institutions
 *   David Brooks: GOP Made "Deal With The Devil" With Trump. He'll Take Everything, Including Your Soul
-*   Jordan Grills FBI Director Wray About Peter Strzok: Did He Use Steele Dossier To Obtain FISA Warrant?
 
 *   Politics
 *   Policy
