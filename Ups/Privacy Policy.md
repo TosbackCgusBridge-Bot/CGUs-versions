@@ -1,4 +1,6 @@
-Skip To Main ContentUPSexpand Quick StartQuick Start Hello. Get Started with UPS.
+*   Wildfires Impacting Areas of California...More
+
+1/ 1 Close Skip To Main ContentUPSexpand Quick StartQuick Start Hello. Get Started with UPS.
 
 *   Track Tracking Numbers Go
 *   expand ShipShip Close
@@ -50,11 +52,11 @@ More Shipping Options
 *   Service Guide
 *   Order Supplies
 
-Explore All Shipping Ship just a few times a week? No Problem.
+Explore All Shipping Service Guarantees Suspended for Puerto Rico
 
-We took the guesswork out, and put the easy in.
+Though shipping to Puerto Rico has resumed, service guarantees are suspended.
 
-Try It Now
+View Our Terms and Conditions
 
 Servicesexpand Services Services By Type
 
@@ -83,11 +85,13 @@ By Industry
 
 Explore All Services Have a question?
 
-Start in our UPS Help Center for tips about services, solutions, and FAQs or search by topic.
+Read FAQs and search by topic to help manage your holiday shipping and deliveries. 
 
-Find Answers in the UPS Help Center
+Get Answers at the UPS Help Center
 
-Customer Serviceexpand Customer Service Customer Service
+Customer Serviceexpand Customer ServiceCustomer Service Need tracking help now?
+
+Ask our new UPS virtual assistant
 
 *   Help Center
 *   Get Started with UPS
@@ -182,3 +186,16 @@ LegalCollapse Legal
   
 
 Copyright ©1994- 2017 United Parcel Service of America, Inc. All rights reserved.
+
+Browse togetherwith our experts onlineUPS Co-BrowseUPS Co-BrowseAre you sure you want to terminate this session?  
+NoYes
+
+End of informational layer
+
+Secure Session ID Number
+
+Disconnect
+
+© United Parcel Service of America, Inc.
+
+End of Modal Layer
