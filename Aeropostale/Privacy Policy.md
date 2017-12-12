@@ -291,7 +291,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**FREE SHIPPING ON ALL ORDERS!** **GUARANTEED HOLIDAY DELIVERY! DETAILS**
+**FREE SHIPPING ON ALL ORDERS!** **20% OFF $60** USE CODE **GREEN**
 
 *   My Account My Account Login Register
 
