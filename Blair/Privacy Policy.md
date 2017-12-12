@@ -1,6 +1,6 @@
   Offer Details
 
-Use promotion code **BDQC** at checkout to enjoy FREE standard shipping on your entire Blair order. Additional shipping charges apply for express, heavyweight and deliveries outside the continental US. This offer cannot be combined with other offers. not valid on previously placed or international orders. good online only through December 18, 2017.
+Use promotion code **BQEZ** at checkout for free standard shipping plus 15% on your entire Blair merchandise order. Additional shipping charges apply for express, heavyweight and deliveries outside the continental US. This offer cannot be combined with other offers. not valid on previously placed or international orders. good online only through December 18, 2017.
 
   No thank you, I prefer to pay for shipping!  
 
