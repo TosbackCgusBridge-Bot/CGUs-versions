@@ -119,11 +119,11 @@ LATEST ON TWITTER
 
 What does Erik @Requidan have to say about political content flags? Find out here: adexchanger.com/publ… via @adexchanger @SarahSluis
 
-About 4 days ago
+About 5 days ago
 
 My week on Twitter : 4 Mentions, 45.6K Mention Reach, 8 New Followers, 1 Tweet. See yours with sumall.com/performan… pic.twitter.com/HzEm…
 
-About 5 days ago
+About 6 days ago
 
 Congrats to Kary Jones! She's been appointed a new role here as Manager of Publisher Development. What does this mean for Intermarkets? "We're ready to look at diversification and bringing on new partners!" Exciting news and well deserved! intermarkets.net/201…
 
