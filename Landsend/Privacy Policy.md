@@ -793,9 +793,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 50% off your order!
+Receive 50% off full-price styles!
 
-code: GIFT pin: 7081 DETAILS
+code: SING pin: 8942 DETAILS
 
 Customer Service Menu
 
