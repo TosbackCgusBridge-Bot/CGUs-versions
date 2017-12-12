@@ -51,7 +51,11 @@ OK Log in to AVG MyAccount MENU Skip to content Close
     *   Support for business products
     *   Contact us for business support
 
-Log in to AVG MyAccount English This domain is registered and owned by AVG Technologies
+Log in to AVG MyAccount English
+
+Got a moment? We'd love to hear what you think of our website. Give us feedback
+
+This domain is registered and owned by AVG Technologies
 
 Maybe we can help you find what you are looking for. The links below should be a good place to start.
 
