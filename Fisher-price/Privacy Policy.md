@@ -8,22 +8,22 @@ Parent and Save 20%\* Become a Very Important Parent and Save 20%\* icon-arrow-d
     *   SHOP BY BRAND
     *   SHOP BY AGE
     
+    *   Holiday Savings
+    *   Thomas &. Friends Clearance
     *   Baby's First Birthday
     *   What’s New
     *   Holiday Gift Guide
+    
     *   Top Holiday Toy List
     *   Gift Sets
-    
     *   Tech Toys
     *   Gifts for New Baby
     *   As Seen On TV
+    
     *   Fan Faves
     *   Exclusives
-    
     *   Award Winners
     *   Clearance
-    *   Holiday Savings
-    *   Thomas &. Friends Clearance
     
     See all
     
@@ -47,28 +47,28 @@ Parent and Save 20%\* Become a Very Important Parent and Save 20%\* icon-arrow-d
     See all
     
     *   Alvin and the Chipmunks
-    *   Bing
     *   Go Jetters
-    *   Sproutling Sleep Wearable
     *   Everything Baby
-    
     *   Little People®
     *   Thomas &. Friends™
+    
     *   Imaginext®
     *   Laugh &. Learn®
     *   Think &. Learn
-    
     *   Loving Family™
     *   Power Wheels®
+    
     *   Bright Beats™
     *   Shimmer and Shine™
     *   Disney
-    
     *   MEGA BLOKS®
     *   Grow-With-Me
-    *   Nickelodeon
+    
     *   Blaze and the Monster Machines™
     *   Bob the Builder™
+    *   Dora &. Friends™
+    *   Octonauts™
+    *   Smart Toy®
     
     See all
     
@@ -232,7 +232,11 @@ CUSTOMER SERVICE
 *   Replacement parts
 *   Submit Product Ideas
 
-**\*Free Shipping Offer is valid on all orders after discounts, and before charges for gift wrap, shipping &. processing and/or taxes are applied. Must select Standard Shipping to qualify. Excludes shipments to Alaska, Hawaii, Canada, Puerto Rico, international, PO box and APO/FPO addresses. Offer expires at 11:59 PM ET on 12/14/17. We reserve the right to change or discontinue this offer at any time.  
+****HOLIDAY SHIPPING DEADLINE**  
+  
+For guaranteed Christmas delivery, order by 2:30 PM ET on 12/15/17 for Standard Shipping — and by 2:30 PM ET on 12/19/17 for 2-Day Shipping. Excludes shipments to Alaska, Hawaii, Canada, Puerto Rico, international, PO box and APO/FPO addresses.  
+  
+\*Free Shipping Offer is valid on all orders after discounts, and before charges for gift wrap, shipping &. processing and/or taxes are applied. Must select Standard Shipping to qualify. Excludes shipments to Alaska, Hawaii, Canada, Puerto Rico, international, PO box and APO/FPO addresses. Offer expires at 11:59 PM ET on 12/14/17. We reserve the right to change or discontinue this offer at any time.  
   
 \*\*Free shipping offer is valid on Top Toys and is activated by entering code TOPTOYS at checkout. Must select Standard Shipping to qualify. Excludes shipments to Alaska, Hawaii, Canada, Puerto Rico, international, PO box and APO/FPO addresses. Offer expires at 11:59 PM ET on 12/31/17. We reserve the right to change or discontinue this offer at any time.**
 
