@@ -261,6 +261,7 @@ Menu
         *   Veterans continue to fight for respiratory health
         *   A birthday wish: for all COPD patients to live every breath
         *   If you can’t breathe, you’re not going to be able to play the tuba
+        *   Controlled asthma, to me, means freedom
     *   Our people
         *   Back
         *   Our people
