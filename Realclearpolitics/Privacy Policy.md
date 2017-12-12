@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _Ruth Marcus_: Was Al Franken's Punishment Fair?
+*   _David Harsanyi_: Political Journalists Regret the Error. Again and Again.
     
-*   _Christina Cauterucci_: Why Franken Had to Go
+*   _Keith Boykin_: On the Economy, Trump Needs to Get His Statistics Straight
     
-*   _Jonathan Tobin_: Trump Exposes the Cause of Palestinian Rage
+*   _Adam Michel_: Families Across America Can Expect a Tax Cut
     
-*   _Eric Cortellessa_: Artless Dealmaking Could Doom Mideast Peace
+*   _Emily Yoffe_: Is There a Looming #MeToo Backlash?
     
-*   _Gary Abernathy_: Trump's Doing Exactly What He Promised
+*   _Charles Bethea_: Jones Tries to Make AL Race at Least Partly About Him
     
-*   _Tom Perez &. Rep. Keith Ellison_: How Democrats Win the Future
+*   _Chris Buskirk_: What's at Stake in Alabama
     
-*   _Kurt Schlichter_: Liberals Have Turned the FBI Into a Disgrace
+*   _Tom Shattuck_: Trump's Leadership, Military Support Eradicate ISIS
     
-*   _Lanny Davis_: The Department of Justice Is Not Trump's Law Firm
+*   _Raja Shehadeh_: I've Witnessed 2 Intifadas. Trump May Ignite a Third
     
-*   _Michael Barone_: Real Target of GOP Tax Bills: Feds, Eds, &. Meds Bloat
+*   _Alan Dershowitz_: Mideast Violence Shouldn't Determine U.S. Foreign Policy
     
-*   _Matt Bai_: Will Tax Cuts Spur the Economy? Maybe With a Time Machine.
+*   _Kudlow &. Moore_: Republican Tax Plan Takes Quirky Swipe at the Little Guys
     
-*   _Andrew Sullivan_: The Case for the Baker in Gay-Wedding Culture War
+*   _Chamath Palihapitiya_: Social Media Is Ripping Social Fabric Apart
     
-*   _Kimberley Strassel_: Obstruction of Congress
+*   _E.J. Dionne_: Our Institutional Crisis Is Upon Us
     
-*   _Eugene Robinson_: What If Mueller Catches Trump - and It Isn't Enough?
+*   _Rivkin &. Casey_: Can a President Obstruct Justice? Yes, But Trump Hasn't
     
-*   _Byron York_: How Far Did Obama's DoJ Go to Stop Trump?
+*   _Ryan Cooper_: Finally, Dems Figuring Out How to Reclaim High Ground
     
-*   _Carl Hulse_: Al Franken's Improbable Political Rise and Sudden Fall
+*   _Charles Hurt_: Democrats' Chickens Come Home to Roost
     
-*   _John Fund_: Democrats Forced Franken Out Only to Bring Down Trump
+*   _Earl Ofari Hutchinson_: Sadly, Trump Is Winning
     
-*   _Jelani Cobb_: What Conyers' Resignation Means for the Black Caucus
+*   _John Archibald_: Alabama Voters Agree on One Thing: They Want It to End
     
-*   _Will Rahn_: President Trump Starts to Rack Up Wins
+*   _Charles Blow_: Rise of the Roypublicans
     
-*   _Hacker &. Pierson_: GOP Passing Its Unpopular Agenda Is Bad for Democracy
+*   _Jack Cashill_: No One Ever Drowned in Roy Moore's Car
     
-*   _Heather Wilhelm_: 'Evil' Tax Cuts? Nope, It's Blue-State Panic
+*   _Alex Shephard_: Why the Media Shouldn't Be Distracted by Trump's Attacks
     
-*   _David Ignatius_: Despite Trump's Rancor, World Economy Is Surging
+*   _Roger Simon_: The Mask Slips at CNN
     
-*   _Judith Miller_: Jerusalem, Now and Eternal
+*   _Lawrence Summers_: Economy Is on a Sugar High, and Tax Cuts Won't Help
     
-*   _Gershom Gorenberg_: Jerusalem to Pay Price for Trump's Ignorance
+*   _F.H. Buckley_: GOP Tax Bill Is Good for Middle-Class Americans
     
-*   _Peter Berkowitz_: Exploring the Bonds of Judaism and Conservatism
+*   _Nic Robertson_: Trump Has to Live w/Consequences of Jerusalem Decision
     
 
 *   Previous
@@ -250,10 +250,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Trying to Help Push Moore Across Alabama Finish Line
 *   In Franken's Fall, Sudden Senate Pickup Chance for Republicans
+*   Nunes: FBI/DOJ Officials Have Become "So Dirty". Who's Watching?
 *   Iraq Says Its War Against ISIS Has Ended
-*   Jordan Grills Wray: Did Strzok Use Dossier to Obtain FISA Warrant?
-*   Trump Formally Recognizes Jerusalem as Capital of Israel
 *   Franken Departure Could Pressure Republicans on Moore's Fate
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Alabama Senate Special Election - Moore vs. JonesMonmouth
+    *   Moore46
+    *   Jones46Tie
+*   Alabama Senate Special Election - Moore vs. JonesFOX News
+    *   Moore40
+    *   Jones50Jones +10
+*   Alabama Senate Special Election - Moore vs. JonesEmerson
+    *   Moore53
+    *   Jones44Moore +9
 *   President Trump Job ApprovalGallup
-    *   Approve36
-    *   Disapprove59Disapprove +23
-*   Alabama Senate Special Election - Moore vs. JonesTrafalgar Group (R)
-    *   Moore51
-    *   Jones46Moore +5
-*   Alabama Senate Special Election - Moore vs. JonesGravis
-    *   Moore49
-    *   Jones45Moore +4
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve42
-    *   Disapprove56Disapprove +14
+    *   Approve35
+    *   Disapprove60Disapprove +25
 
 More Latest Polls In The News
 
+*   April Ryan to Sarah Sanders: Trump Must Address Nation On His Assault Allegations
+*   WH Repeats: Voters Knew About Allegations Against President Trump Before The Election
+*   Three Trump Accusers Hold Press Conference: Call For Congress To Investigate Trump
+*   Sen. Graham Calls Into Fox News To Say Attempted NYC Bomber Should Be Held As Enemy Combatant
 *   Comstock: List Of Congressional Sex Abuse Settlements "Will Be Fully Disclosed... One Way Or Another"
-*   Nunes: FBI/DOJ Officials Have Become So "Dirty," "Who Is Watching The Watchmen? Investigating These People?"
-*   Brzezinski: Franken Accuser a "Playboy Model Who Goes On Hannity, Who Voted For Trump"
-*   Trump: Same People Who Won't Accept Election Are Those Who Undermined Credibility Of Institutions
-*   David Brooks: GOP Made "Deal With The Devil" With Trump. He'll Take Everything, Including Your Soul
 
 *   Politics
 *   Policy
