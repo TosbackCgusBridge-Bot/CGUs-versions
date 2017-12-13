@@ -793,9 +793,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 50% off full-price styles!
+Receive 50% off all outerwear, including coats, snow boots, hats and gloves. 40% off everything else!
 
-code: SING pin: 8942 DETAILS
+code: JINGLE pin: 2585 DETAILS
 
 Customer Service Menu
 
