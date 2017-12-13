@@ -538,7 +538,7 @@ ON ALL ORDERS Search Catalog Search Promotions Shop Girls Shop Guys
 *   Fleece Favorites Starting at $9.87
 *   Outerwear Obsessed Starting at $11.87
 *   Giftable Jeans Starting at $13.87
-*   Longing for Sleeves Starting at $8.87
+*   Longing for Sleeves Starting at $10.00
 
 *   Fleece Favorites Starting at $15.87
 *   Warm + Rugged Starting at $2.87
