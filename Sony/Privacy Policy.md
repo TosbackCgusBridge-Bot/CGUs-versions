@@ -128,7 +128,7 @@ Check Out Life Space UX
 
 Stepping inside your favorite PlayStation games is easy at #PSX.
 
-22 hours ago
+1 day ago
 
 View Tweet
 
@@ -292,7 +292,7 @@ Play Queen Elizabeth II Faces New Challenges Video hotspot
 
 Sony Pictures receives an impressive 17 @Goldenglobes nominations including 5 for @SPTV! Congratulations to all our nominees! See the full list.
 
-16 hours ago
+17 hours ago
 
 View Tweet
 
