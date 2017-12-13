@@ -8,22 +8,22 @@ Parent and Save 20%\* Become a Very Important Parent and Save 20%\* icon-arrow-d
     *   SHOP BY BRAND
     *   SHOP BY AGE
     
-    *   Holiday Savings
-    *   Thomas &. Friends Clearance
-    *   Baby's First Birthday
-    *   What’s New
-    *   Holiday Gift Guide
-    
     *   Top Holiday Toy List
-    *   Gift Sets
-    *   Tech Toys
-    *   Gifts for New Baby
-    *   As Seen On TV
-    
+    *   Holiday Savings
+    *   Holiday Gift Guide
+    *   What’s New
     *   Fan Faves
-    *   Exclusives
-    *   Award Winners
+    
+    *   Gift Sets
+    *   Gifts for New Baby
     *   Clearance
+    *   Thomas &. Friends Clearance
+    *   Award Winners
+    
+    *   Tech Toys
+    *   Exclusives
+    *   As Seen On TV
+    *   Baby's First Birthday
     
     See all
     
@@ -46,36 +46,36 @@ Parent and Save 20%\* Become a Very Important Parent and Save 20%\* icon-arrow-d
     
     See all
     
-    *   Alvin and the Chipmunks
-    *   Go Jetters
     *   Everything Baby
     *   Little People®
     *   Thomas &. Friends™
-    
     *   Imaginext®
     *   Laugh &. Learn®
+    
     *   Think &. Learn
     *   Loving Family™
     *   Power Wheels®
-    
     *   Bright Beats™
     *   Shimmer and Shine™
+    
     *   Disney
     *   MEGA BLOKS®
     *   Grow-With-Me
-    
     *   Blaze and the Monster Machines™
     *   Bob the Builder™
+    
     *   Dora &. Friends™
     *   Octonauts™
+    *   Alvin and the Chipmunks
     *   Smart Toy®
+    *   Spinnyos™
     
     See all
     
-    *   Age 12-18 Months
     *   Baby on the Way
     *   Age Birth to 6 months
     *   Age 6-12 Months
+    *   Age 12-18 Months
     *   Age 18-24 Months
     
     *   Age 2-3 Years
@@ -227,7 +227,7 @@ CUSTOMER SERVICE
 *   Terms &. Conditions
 *   Terms of Sale
 *   Recalls
-*   Privacy Statement
+*   Updated Privacy Statement
 *   AdChoices
 *   Replacement parts
 *   Submit Product Ideas
