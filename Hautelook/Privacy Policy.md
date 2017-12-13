@@ -8,6 +8,38 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   alice + olivia by Stacey Bendet
+    *   Frye
+    *   Cashmere Shop: Styles Up to 70% Off
+    *   Frye Men
+    *   Free Shipping: On-Trend Accent Furniture
+    *   Free Shipping: Hip Modern Rugs Up to 70% Off
+    *   Cuisinart Cookware Sets &. More
+    *   Free Shipping: Melange Bedding &. Throws Starting at $12
+    *   Pyropet Candles Under $25
+    *   Mini Melissa
+    *   Alice + Olivia Handbags
+    *   Pink Owl Under $35
+    *   Olive &. Oak Under $30
+    *   Melissa Footwear
+    *   Naturalizer
+    *   Lysse Leggings
+    *   Diamond Jewelry from KC Designs
+    *   Lucchese
+    *   Tahari
+    *   Fresh Coats: Ponchos, Vests &. More
+    *   Bold Gems, Ring Stacks &. More
+    *   LAFCO New York
+    *   Le Savonnier Marseillais Soaps
+    *   Ben Sherman
+    *   truewhite Teeth Whitening
+    *   Andrew Marc Outerwear &. More
+    *   Ben Sherman Dress Shirts, Ties &. More
+    *   Original Penguin Accessories
+    *   Kids' Sets Under $24
+    *   Last-Minute Gifts: Toys ft. Melissa &. Doug
+    *   Chocolat Blu &. More
+    *   Nadri Jewelry Up to 55% Off
     *   Marc Jacobs
     *   Marc Jacobs Clothing
     *   Marc Jacobs Shoes
@@ -15,14 +47,14 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Papillon Up to 80% Off
     *   Designer Sun: Elizabeth and James &. More
     *   Emory Park Starting at $15
+    
     *   Pajar
     *   MIKOH Swim
-    *   Ardency Inn Cosmetics Under $15
     *   philosophy
     *   Halston Heritage
     *   DSGN Yoga
     *   Looks We Love ft. dee elly &. More
-    *   Crevo Women
+    *   Crevo
     *   Betsey Johnson Handbags &. Accessories
     *   Mad for Motos: Leather Jackets &. More
     *   Holiday Costume Jewelry Starting at $15
@@ -31,7 +63,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Hawke &. Co.
     *   Sweaters Under $35
     *   Wool Coats &. More ft. Cardinal of Canada
-    *   Crevo
+    *   Crevo Women
+    *   Ardency Inn Cosmetics Under $15
     *   Purlisse Skincare
     *   Peace Love World Kids Up to 75% Off
     *   Winter Break Ready: Kids' Outerwear
@@ -47,29 +80,14 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Tiri Pro Hair Tools Up to 75% Off
     *   Samuel B Jewelry Up to 60 Off
     *   Free Shipping: Amrapur Towels Up to 80% Off
-    *   Vera Wang
-    
-    *   Level 99 Up to 70% Off
-    *   Wear-to-Work Shoes ft. Calvin Klein
-    *   HUE Leggings &. More
-    *   Why Dress
     *   Bottoms Out Lounge
     *   Allen Edmonds
-    *   Handcrafted in Colombia: Mishky Jewelry
-    *   Naked Zebra Starting at $20
-    *   DRIFTER Up to 70% Off
-    *   Keen
-    *   Downtown Chic: Handbags
-    *   PJs All Day: Styles Up to 70% Off
-    *   Heels, Boots &. More Starting at $20
-    *   Agate, Beads &. Gemstone Jewelry by Charlene K
     *   Fusion Beauty Up to 70% Off
-    *   Kristin Cavallari by Chinese Laundry
-    *   Daya by Zendaya
     *   Michael Todd Soniclear Cleansing Brush
     *   Tommy Hilfiger Tailored Clothing
     *   Lorenzo Uomo
     *   Keen Men
+    
     *   Men's Belts ft. A. Testoni
     *   Christmas Clean-Up: Storage Essentials from $10
     *   Chic Wall Mirrors &. More from $24
@@ -77,20 +95,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Flap Happy: Colorful Finds Under $15
     *   Kids' Character Pajamas, Toys &. More
     *   Keen Kids
-    *   Women's Surprise Steals Starting at 80% Off
-    *   Juicy Couture Up to 70% Off
-    *   Tart Dresses &. More Including Plus
-    *   Kendall + Kylie
-    *   William Rast
-    *   What to Wear Now: Chelsea Boots
-    *   Made in Italy: Handbags
-    *   Cozy Hats &. Scarves
-    *   Natural Wonder: Raw Gems, Stacking Rings &. More
-    *   Gemstones &. Precious Metals Starting at $15
-    *   Korks
-    *   Blackstone
-    
-    *   Vince Camuto Luggage
     *   Todd Snyder &. More
     *   H by Hudson Up to 70% Off
     *   Shirts Under $20 ft. Something Strong
@@ -100,37 +104,50 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Teeez Cosmetics
     *   Spongelle
     *   Embryolisse Skincare Starting at $10
-    *   Bio Ionic Hair Tools Starting at $10
     *   Free Shipping: Bedding, Throws &. More from $10
     *   Free Shipping: Salav Steamers from $22
     *   Curtains Starting at $20
     *   MOTA Tech Accessories Up to 50% Off
-    *   Lilac Maternity
-    *   Great Gifts for Baby: aden + anais
-    *   Rockabye
-    *   Nine West Kids
-    *   Baublebar Jewelry Up to 55% Off
     *   Clink Clink: Orrefors Glassware
-    *   Dress Boots &. Oxfords up to 65% Off
     *   Morphe Brushes
-    *   Star USA by John Varvatos
     *   Algenist Up to 65% Off
     *   Brazabra Beauty Solutions Starting at $10
     *   Go Smile Up to 65% Off
     *   Demeter Fragrance Library
-    *   Nick Graham Tailored Clothing
     *   Free Shipping: Hand-Painted Replicas up to 70% Off
     *   Free Shipping: Wall Mirrors Up to 50% Off
     *   Cheers to the New Year: Wine Accessories from $16
     *   Modern Cowhide Rugs &. More
     *   Cookware &. Gadgets by Art &. Cook
-    *   Free Shipping: Budget-Friendly Rugs Starting at $20
-    *   Free Shipping: Faux-Fur Decor &. More Up to 55% Off
-    *   Whish Beauty Under $10
-    *   Free Shipping: Bedding Sets
     *   Londontown Lakur
+    *   Bio Ionic Hair Tools Starting at $10
+    *   Whish Beauty Under $10
+    *   Vera Wang
+    *   Level 99 Up to 70% Off
+    *   HUE Leggings &. More
+    *   Why Dress
+    *   Juicy Couture Up to 70% Off
 *   WomenShop Sale Events
     
+    *   alice + olivia by Stacey Bendet
+    *   Frye
+    *   Cashmere Shop: Styles Up to 70% Off
+    *   Alice + Olivia Handbags
+    *   Pink Owl Under $35
+    *   Olive &. Oak Under $30
+    *   Melissa Footwear
+    *   Naturalizer
+    *   Lysse Leggings
+    *   Diamond Jewelry from KC Designs
+    *   Lucchese
+    *   Tahari
+    *   Fresh Coats: Ponchos, Vests &. More
+    *   Bold Gems, Ring Stacks &. More
+    *   LAFCO New York
+    *   Le Savonnier Marseillais Soaps
+    *   truewhite Teeth Whitening
+    *   Chocolat Blu &. More
+    *   Nadri Jewelry Up to 55% Off
     *   Marc Jacobs
     *   Marc Jacobs Clothing
     *   Marc Jacobs Shoes
@@ -140,15 +157,16 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Emory Park Starting at $15
     *   Pajar
     *   MIKOH Swim
-    *   Ardency Inn Cosmetics Under $15
     *   philosophy
     *   Halston Heritage
     *   DSGN Yoga
+    
     *   Looks We Love ft. dee elly &. More
-    *   Crevo Women
     *   Betsey Johnson Handbags &. Accessories
     *   Mad for Motos: Leather Jackets &. More
     *   Holiday Costume Jewelry Starting at $15
+    *   Crevo Women
+    *   Ardency Inn Cosmetics Under $15
     *   Purlisse Skincare
     *   Vertigo Up to 85% Off
     *   Last Call: Shoes Up to 65% Off
@@ -156,50 +174,24 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Jessica Simpson Handbags &. More Under $40
     *   Tiri Pro Hair Tools Up to 75% Off
     *   Samuel B Jewelry Up to 60 Off
-    *   Vera Wang
-    *   Level 99 Up to 70% Off
-    *   Wear-to-Work Shoes ft. Calvin Klein
-    *   HUE Leggings &. More
-    *   Why Dress
-    *   Handcrafted in Colombia: Mishky Jewelry
-    *   Naked Zebra Starting at $20
-    *   DRIFTER Up to 70% Off
-    *   Keen
-    
-    *   Downtown Chic: Handbags
-    *   PJs All Day: Styles Up to 70% Off
-    *   Heels, Boots &. More Starting at $20
-    *   Agate, Beads &. Gemstone Jewelry by Charlene K
     *   Fusion Beauty Up to 70% Off
-    *   Kristin Cavallari by Chinese Laundry
-    *   Daya by Zendaya
     *   Michael Todd Soniclear Cleansing Brush
-    *   Women's Surprise Steals Starting at 80% Off
-    *   Juicy Couture Up to 70% Off
-    *   Tart Dresses &. More Including Plus
-    *   Kendall + Kylie
-    *   William Rast
-    *   What to Wear Now: Chelsea Boots
-    *   Made in Italy: Handbags
-    *   Cozy Hats &. Scarves
-    *   Natural Wonder: Raw Gems, Stacking Rings &. More
-    *   Gemstones &. Precious Metals Starting at $15
-    *   Korks
-    *   Blackstone
-    *   Vince Camuto Luggage
     *   Teeez Cosmetics
     *   Spongelle
     *   Embryolisse Skincare Starting at $10
-    *   Bio Ionic Hair Tools Starting at $10
-    *   Lilac Maternity
-    *   Baublebar Jewelry Up to 55% Off
     *   Morphe Brushes
     *   Algenist Up to 65% Off
     *   Brazabra Beauty Solutions Starting at $10
     *   Go Smile Up to 65% Off
     *   Demeter Fragrance Library
-    *   Whish Beauty Under $10
     *   Londontown Lakur
+    *   Bio Ionic Hair Tools Starting at $10
+    *   Whish Beauty Under $10
+    *   Vera Wang
+    *   Level 99 Up to 70% Off
+    *   HUE Leggings &. More
+    *   Why Dress
+    *   Juicy Couture Up to 70% Off
     
     Shop By Category
     *   Clothing
@@ -212,18 +204,24 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   MenShop Sale Events
     
+    *   Frye Men
+    *   Ben Sherman
+    *   truewhite Teeth Whitening
+    *   Andrew Marc Outerwear &. More
+    *   Ben Sherman Dress Shirts, Ties &. More
+    *   Original Penguin Accessories
+    *   Crevo
     *   Belstaff
     *   Pajar Men
     *   Hawke &. Co.
     *   Sweaters Under $35
     *   Wool Coats &. More ft. Cardinal of Canada
-    *   Crevo
     *   Bottoms Out Lounge
+    
     *   Allen Edmonds
     *   Tommy Hilfiger Tailored Clothing
     *   Lorenzo Uomo
     *   Keen Men
-    
     *   Men's Belts ft. A. Testoni
     *   Todd Snyder &. More
     *   H by Hudson Up to 70% Off
@@ -231,10 +229,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Diamond Supply
     *   Jerry Leigh Graphic Tees &. Sweatshirts
     *   Stacy Adams
-    *   Dress Boots &. Oxfords up to 65% Off
-    *   Star USA by John Varvatos
     *   Go Smile Up to 65% Off
-    *   Nick Graham Tailored Clothing
     
     Shop By Category
     *   Clothing
@@ -242,91 +237,95 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Mini Melissa
+    *   Kids' Sets Under $24
+    *   Last-Minute Gifts: Toys ft. Melissa &. Doug
     *   Peace Love World Kids Up to 75% Off
     *   Winter Break Ready: Kids' Outerwear
     *   Kids' Holiday Denim Shop
+    
     *   Vacation-Ready Looks for Kids ft. Kanz
     *   Frenchie Mini Couture
     *   Flap Happy: Colorful Finds Under $15
-    
     *   Kids' Character Pajamas, Toys &. More
     *   Keen Kids
-    *   Lilac Maternity
-    *   Great Gifts for Baby: aden + anais
-    *   Rockabye
-    *   Nine West Kids
     
     Shop By Category
     *   Girls Sizes 2T-6X
     *   Boys Sizes 2T-7
     *   Boys Sizes 8-20
     *   Girls Sizes 7-16
-    *   Baby Boy
-    *   Baby Gear &. Essentials
     *   Baby Girl
-    *   Kids Accessories
     *   Toys
+    *   Baby Boy
+    *   Kids Accessories
     *   Girls' Shoes
+    *   Baby Gear &. Essentials
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: On-Trend Accent Furniture
+    *   Free Shipping: Hip Modern Rugs Up to 70% Off
+    *   Cuisinart Cookware Sets &. More
+    *   Free Shipping: Melange Bedding &. Throws Starting at $12
+    *   Pyropet Candles Under $25
     *   Free Shipping: Wall Art Up to 80% Off
     *   Tech Candy Phone Accessories Starting at $10
     *   Bedding to Keep You Cool
     *   Free Shipping: Amrapur Towels Up to 80% Off
     *   Christmas Clean-Up: Storage Essentials from $10
     *   Chic Wall Mirrors &. More from $24
+    
     *   Free Shipping: Bedding, Throws &. More from $10
     *   Free Shipping: Salav Steamers from $22
     *   Curtains Starting at $20
     *   MOTA Tech Accessories Up to 50% Off
-    
     *   Clink Clink: Orrefors Glassware
     *   Free Shipping: Hand-Painted Replicas up to 70% Off
     *   Free Shipping: Wall Mirrors Up to 50% Off
     *   Cheers to the New Year: Wine Accessories from $16
     *   Modern Cowhide Rugs &. More
     *   Cookware &. Gadgets by Art &. Cook
-    *   Free Shipping: Budget-Friendly Rugs Starting at $20
-    *   Free Shipping: Faux-Fur Decor &. More Up to 55% Off
-    *   Free Shipping: Bedding Sets
     
     Shop By Category
     *   Home Decor
     *   Bedding
-    *   Bath
     *   Kitchen &. Tabletop
+    *   Bath
     *   Organization
-    *   Luggage &. Travel
-    *   Rugs
     *   Accent Furniture
+    *   Luggage &. Travel
+    *   Outdoor Living
 *   BeautyShop Sale Events
     
-    *   Ardency Inn Cosmetics Under $15
+    *   LAFCO New York
+    *   Le Savonnier Marseillais Soaps
+    *   truewhite Teeth Whitening
     *   philosophy
+    *   Ardency Inn Cosmetics Under $15
     *   Purlisse Skincare
     *   Tiri Pro Hair Tools Up to 75% Off
     *   Fusion Beauty Up to 70% Off
     *   Michael Todd Soniclear Cleansing Brush
     *   Teeez Cosmetics
+    
     *   Spongelle
     *   Embryolisse Skincare Starting at $10
-    
-    *   Bio Ionic Hair Tools Starting at $10
     *   Morphe Brushes
     *   Algenist Up to 65% Off
     *   Brazabra Beauty Solutions Starting at $10
     *   Go Smile Up to 65% Off
     *   Demeter Fragrance Library
-    *   Whish Beauty Under $10
     *   Londontown Lakur
+    *   Bio Ionic Hair Tools Starting at $10
+    *   Whish Beauty Under $10
     
     Shop By Category
     *   Makeup
-    *   Tools &. Accessories
-    *   Skin Care
-    *   Fragrance
     *   Bath &. Body
+    *   Skin Care
+    *   Tools &. Accessories
+    *   Fragrance
     *   Hair Care
     *   Nails
 
