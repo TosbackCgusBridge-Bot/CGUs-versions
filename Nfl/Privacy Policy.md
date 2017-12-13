@@ -1,3 +1,5 @@
+*   NE10-320MIA6-727Final
+*   NO9-417ATL8-520Final
 *   IND3-107BUF7-613Final (OT)
 *   MIN10-324CAR9-431Final
 *   CHI4-933CIN5-87Final
@@ -12,8 +14,6 @@
 *   SEA8-524JAX9-430Final
 *   PHI11-243LA9-435Final
 *   BAL7-638PIT11-239Final
-*   NE10-2MIA5-7Mon 8:30 PM ET
-*   NO9-417ATL8-520Final
 
 *   News
 *   Scores
@@ -30,6 +30,8 @@
 *   NFL Network
 *   Photos
 
+*   NE20MIA27Final
+*   NO17ATL20Final
 *   IND7BUF13Final (OT)
 *   MIN24CAR31Final
 *   CHI33CIN7Final
@@ -44,8 +46,6 @@
 *   SEA24JAX30Final
 *   PHI43LA35Final
 *   BAL38PIT39Final
-*   NE10-2MIA5-7Mon 8:30 PM ET
-*   NO17ATL20Final
 
 *   News
 *   Scores
