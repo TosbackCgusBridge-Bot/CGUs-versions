@@ -96,7 +96,7 @@
     *   Corporate Governance
     *   Resources
 *   More from AT&T
-*   Go
+*   SearchGo
 *   X
 
 About AT&T AT&T Privacy Policy  
@@ -293,7 +293,7 @@ Connect with us
 *   Legal Policy Center
 *   Privacy Policy
 *   Terms of Use
-*   Broadband Details
+*   Broadband Information
 *   Advertising Choices
 *   Accessibility
 *   Contact Us
@@ -301,6 +301,6 @@ Connect with us
 
 © 2017 AT&T Intellectual Property. All rights reserved.
 
-Legal Policy Center Privacy Policy Terms of Use Broadband Details Advertising Choices Accessibility Contact Us Site Map
+Legal Policy Center Privacy Policy Terms of Use Broadband Information Advertising Choices Accessibility Contact Us Site Map
 
 © 2017 AT&T Intellectual Property. All rights reserved.
