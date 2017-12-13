@@ -102,53 +102,53 @@
     *   About
     *   Media Kit
 
-*   _David Harsanyi_: Political Journalists Regret the Error. Again and Again.
+*   _Ben Kamisar_: Alabama Drama Nears an Explosive End
     
-*   _Keith Boykin_: On the Economy, Trump Needs to Get His Statistics Straight
+*   _Rich Lowry_: The New Media Standard: Too Anti-Trump to Check
     
-*   _Adam Michel_: Families Across America Can Expect a Tax Cut
+*   _Ezra Klein_: The Republican Party's Reality Problem--and Ours
     
-*   _Emily Yoffe_: Is There a Looming #MeToo Backlash?
+*   _D.C. McAllister_: Can We Be Honest About Women?
     
-*   _Charles Bethea_: Jones Tries to Make AL Race at Least Partly About Him
+*   _Caitlin Huey-Burns_: 'Me Too' Fervor, Politics Fuel Dem Calls for Trump to Resign
     
-*   _Chris Buskirk_: What's at Stake in Alabama
+*   _Zephyr Teachout_: I'm Not Convinced Franken Should Quit
     
-*   _Tom Shattuck_: Trump's Leadership, Military Support Eradicate ISIS
+*   _Andrew McCarthy_: Real Collusion Was Obama DOJ and Clinton Campaign
     
-*   _Raja Shehadeh_: I've Witnessed 2 Intifadas. Trump May Ignite a Third
+*   _Paul Waldman_: A Constitutional Crisis Is on the Way
     
-*   _Alan Dershowitz_: Mideast Violence Shouldn't Determine U.S. Foreign Policy
+*   _Abrahms &. Glaser_: The Pundits Were Wrong About Assad and ISIS
     
-*   _Kudlow &. Moore_: Republican Tax Plan Takes Quirky Swipe at the Little Guys
+*   _Robin Wright_: Putin Declares Victory in Syria
     
-*   _Chamath Palihapitiya_: Social Media Is Ripping Social Fabric Apart
+*   _Tom Rogan_: Putin Visit to Egypt Proves Why Trump Must Be a Realist
     
-*   _E.J. Dionne_: Our Institutional Crisis Is Upon Us
+*   _Washington Post_: Taking the Problems Out of Energy Problem Solving
     
-*   _Rivkin &. Casey_: Can a President Obstruct Justice? Yes, But Trump Hasn't
+*   _Victor Davis Hanson_: Fake Truth
     
-*   _Ryan Cooper_: Finally, Dems Figuring Out How to Reclaim High Ground
+*   _Ruth Ben-Ghiat_: Obama Is Right: U.S. Democracy Is Fragile
     
-*   _Charles Hurt_: Democrats' Chickens Come Home to Roost
+*   _Byron York_: Former Top Spy Rethinks Attacking a New President
     
-*   _Earl Ofari Hutchinson_: Sadly, Trump Is Winning
+*   _Bob Bauer_: Why Team Trump Needs to Lay Off the Mueller Probe
     
-*   _John Archibald_: Alabama Voters Agree on One Thing: They Want It to End
+*   _James Robbins_: Suspend Mueller's Politically Tainted Investigation
     
-*   _Charles Blow_: Rise of the Roypublicans
+*   _James Arkin_: Alabama Result Likely to Impact 2018 Senate Races
     
-*   _Jack Cashill_: No One Ever Drowned in Roy Moore's Car
+*   _David French_: The Comprehensive Case Against Roy Moore
     
-*   _Alex Shephard_: Why the Media Shouldn't Be Distracted by Trump's Attacks
+*   _Daniel Oliver_: 4 Reasons Roy Moore May Win in Alabama
     
-*   _Roger Simon_: The Mask Slips at CNN
+*   _Nate Silver_: What Is Happening With These Alabama Polls?
     
-*   _Lawrence Summers_: Economy Is on a Sugar High, and Tax Cuts Won't Help
+*   _Ronald Rotunda_: Justice Ginsburg Has Some Explaining to Do
     
-*   _F.H. Buckley_: GOP Tax Bill Is Good for Middle-Class Americans
+*   _Mort Kondracke_: The Seeds of a Moderate Movement Must Be Nurtured
     
-*   _Nic Robertson_: Trump Has to Live w/Consequences of Jerusalem Decision
+*   _Amanda Marcotte_: Ryan Zinke: Shameless Tool of Oil and Gas Industries
     
 
 *   Previous
@@ -250,11 +250,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Trying to Help Push Moore Across Alabama Finish Line
+*   Chronicler of Islamic State "Killing Machine" Goes Public
+*   Alabama Result Likely to Impact 2018 Senate Races
+*   Gillibrand: Trump Should Resign Over Sex Abuse Claims
+*   Start Clock for Trump, Republicans in Last Push on Taxes, Budget
 *   In Franken's Fall, Sudden Senate Pickup Chance for Republicans
-*   Nunes: FBI/DOJ Officials Have Become "So Dirty". Who's Watching?
-*   Iraq Says Its War Against ISIS Has Ended
-*   Franken Departure Could Pressure Republicans on Moore's Fate
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,26 +269,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Alabama Senate Special Election - Moore vs. JonesMonmouth
-    *   Moore46
-    *   Jones46Tie
-*   Alabama Senate Special Election - Moore vs. JonesFOX News
-    *   Moore40
-    *   Jones50Jones +10
-*   Alabama Senate Special Election - Moore vs. JonesEmerson
-    *   Moore53
-    *   Jones44Moore +9
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve37
+    *   Disapprove57Disapprove +20
 *   President Trump Job ApprovalGallup
     *   Approve35
     *   Disapprove60Disapprove +25
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve41
+    *   Disapprove57Disapprove +16
+*   President Trump Job ApprovalMarist
+    *   Approve39
+    *   Disapprove55Disapprove +16
 
 More Latest Polls In The News
 
-*   April Ryan to Sarah Sanders: Trump Must Address Nation On His Assault Allegations
-*   WH Repeats: Voters Knew About Allegations Against President Trump Before The Election
-*   Three Trump Accusers Hold Press Conference: Call For Congress To Investigate Trump
-*   Sen. Graham Calls Into Fox News To Say Attempted NYC Bomber Should Be Held As Enemy Combatant
-*   Comstock: List Of Congressional Sex Abuse Settlements "Will Be Fully Disclosed... One Way Or Another"
+*   Charles Barkley: Jones Victory A Message For Dems To "Get Off Their Ass," Stop "Abusing" Black Vote
+*   Dem Strategist: "Our Minds Are In The Gutter" Because Trump Lives There And We Followed Him
+*   MSNBC's Brzezinski: Trump "Literally Sexually Harassed" Gillibrand on Twitter This Morning
+*   CNN's Acosta: "Journalists Make Honest Mistakes". I "Want" To Be As "Objective" As Possible
+*   Former Facebook Exec: Social Media Is Ripping Apart The Social Fabric Of How Society Works
 
 *   Politics
 *   Policy
