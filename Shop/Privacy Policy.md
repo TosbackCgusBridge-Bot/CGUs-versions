@@ -6,15 +6,18 @@
 Menu Close Menu Close
 
 *   Products
-    *   Laptops &. Ultrabooks Explore All  Laptops &. Ultrabooks Explore All  Laptops &. Ultrabooks Narrow your choices by category and find the laptop you truly want
+    *   Laptops &  
+        2-in-1s Explore All  Laptops &  
+        2-in-1s Explore All  Laptops &  
+        2-in-1s Narrow your choices by category and find the laptop you truly want
         
         *   Thinkpad Laptops Thinkpad Laptops Enterprise-level performance. Premium reliability.
         *   Yoga Laptops Yoga Laptops Innovative design. Impressive performance. Notable multimode style.
         *   Ideapad Laptops Ideapad Laptops From gamers to students to first-time owners, there's one for everybody.
         *   Lenovo Lenovo Innovative design, responsive performance
+        *   2-in-1 PCs 2-in-1 PCs Multimedia tablets with multiple modes, including Stand, Hold, and Hang.
         *   Gaming Laptops
         *   Chromebooks
-        *   Yoga Book
         *   SMALL BUSINESS LAPTOPS
         *   ThinkPad 25
         
@@ -25,6 +28,8 @@ Menu Close Menu Close
         *   *   Explore Ideapad
             
         *   *   Explore Lenovo
+            
+        *   *   Explore all 2-in-1s
             
         
         *   *   Lots of options, but only one you, right? Narrow your choices by category, and find the laptop you truly want.
@@ -52,11 +57,15 @@ Menu Close Menu Close
                 
                 Learn more about the Lenovo laptops >.
         
+        *   *   Detachable 2-in-1s.  
+                Great for work &. play.  
+                Ultraportable.
+                
+                Explore all 2-in-1s >.
+        
         *   *   Explore all gaming laptops >.
         
         *   *   Chromebooks >.
-        
-        *   *   Explore Yoga Book >.
         
         *   *   SMALL BUSINESS LAPTOPS >.
         
@@ -112,26 +121,30 @@ Menu Close Menu Close
         
         *   *   SMALL BUSINESS WORKSTATIONS >.
         
-    *   Tablets Explore All  Tablets Explore All  Tablets Your tablet is an extension of your personality! Find the one that best compliments you.
+    *   Phones, Tablets, &. Smart Devices Explore All  Phones, Tablets, &. Smart Devices Explore All  Phones, Tablets, &. Smart Devices Your tablet is an extension of your personality! Find the one that best compliments you.
         
+        *   Motorola Smartphones
         *   Android Tablets Android Tablets Multimedia tablets  
             Lightweight &. portable  
             Budget friendly
         *   Windows Tablets Windows Tablets Business-ready Windows tablets with enhanced security features.
         *   2-in-1 PCs 2-in-1 PCs Multimedia tablets with multiple modes, including Stand, Hold, and Hang.
-        *   Connected Devices
-        *   SMALL BUSINESS TABLETS &. DETACHABLES
+        *   Phablets
+        *   Smart Home
+        *   SMALL BUSINESS TABLETS
         
         *   *   Explore Android
             
         *   *   Explore Windows
             
-        *   *   Explore 2-in-1
+        *   *   Explore all 2-in-1s
             
         
         *   *   Because your tablet is like an extension of your personality. Check out specifics, and complement yourself.
                 
                 Explore All Tablets >.
+        *   *   Motorola Smartphones >.
+        
         *   *   Multimedia tablets  
                 Lightweight &. portable  
                 Budget friendly
@@ -148,32 +161,37 @@ Menu Close Menu Close
                 Great for work &. play.  
                 Ultraportable.
                 
-                Learn more about the 2-in-1 tablets >.
+                Explore all 2-in-1s >.
+        
+        *   *   Phablets >.
         
         *   *   Multi-use mobility, home &. work
                 
-                CONNECTED DEVICES >.
+                SMART HOME >.
         
-        *   *   SMALL BUSINESS TABLETS &. DETACHABLES >.
+        *   *   SMALL BUSINESS TABLETS >.
         
-    *   Virtual Reality &. Smart Devices Explore All  Virtual Reality &. Smart Devices Explore All  Virtual Reality &. Smart Devices
+    *   Gaming &. AR/VR Explore All  Gaming &. AR/VR Explore All  Gaming &. AR/VR
         
+        *   Gaming Laptops
+        *   Gaming Desktops
+        *   Gaming Accessories
         *   Explore AR/VR
         *   Jedi Challenges
-        *   Augmented Reality
-        *   Virtual Reality
-        *   Smartphones
+        *   Lenovo Explorer Mixed Reality Headset
         
-        *   *   Explore VR &. Smart Devices >.
-        *   *   Explore AR/VR >.
+        *   *   Explore Gaming >.
+        *   *   Gaming Laptops >.
+        
+        *   *   Gaming Desktops >.
+        
+        *   *   \>.
+        
+        *   *   Discover AR/VR >.
         
         *   *   Explore Jedi Challenges >.
         
-        *   *   Explore Augmented Reality >.
-        
-        *   *   Explore Virtual Reality >.
-        
-        *   *   Explore Smartphones >.
+        *   *   Lenovo Explorer >.
         
     *   Accessories &. Monitors Explore All  Accessories &. Monitors Explore All  Accessories &. Monitors
         
@@ -260,11 +278,9 @@ Menu Close Menu Close
     *   Financing Options
     *   Outlet
     
-    *   *   12 Days of Christmas
+    *   *   Stylish, Dependable and Affordable PCs
             
-        *   12 Days of Business
-            
-        *   Stylish, Dependable and Affordable PCs
+        *   48-hour-sale
             
 *   Support
     *   Sales Enquiries
@@ -309,26 +325,33 @@ Compare (0)
 Home >. Filter by specs Offers
 
 *   Extended Holiday Hours! See Extended Holiday Schedule. >
-*   Enjoy free, expedited shipping on everything you buy! Now through Dec. 12. Learn More >
+*   Free Shipping &. Free Returns for the Holidays. Learn More >
 *   Be Confident in your Lenovo Purchase. Learn More >
 *   Flexible financing is available! Check out your options now. Learn More >
 *   Extended Holiday Hours! See Extended Holiday Schedule. >
-*   Enjoy free, expedited shipping on everything you buy! Now through Dec. 12. Learn More >
+*   Free Shipping &. Free Returns for the Holidays. Learn More >
 
-PrevNext
+PrevNext Treat yourself!
 
-GET IT—GRAB IT—GO! Save Up to 65% off ends Dec 12. Systems and more at shocking prices, plus free, fast shipping!
+Shop year-end savings on Think brand computers and save up to 25%.
 
-Shop Sale >.
+Shop Now >.
 
-Hybrid Cloud, Simplified
+**48** HOUR **BLOWOUT**!
 
-ThinkAgile SX for Microsoft Azure Stack
+Grab our most looked-for laptops &. more at low, low, prices!
+
+Snag These Deals >.
+
+Hybrid Cloud, Simplified 
+
+ThinkAgile SX for Microsoft Azure Stack 
 
 Learn More >.
 
 *   1
 *   2
+*   3
 
 Check out today's Daily Deal
 
@@ -345,11 +368,6 @@ Sleeker than ever and packed with speed and power.
 ThinkPad T470s
 
 Boost Your Productivity With Performance You Can Count On
-
-C'MON GET HAPPY FOR THE HOLIDAYS: GIFTS, DEALS, &. MORE! Check out today's Daily Deal - New Offers Each Day. While Supplies Last!
-
-*   1
-*   2
 
 LAPTOPS
 
@@ -379,7 +397,11 @@ Outlet
 
 Find great deals on new and refurbished Lenovo products.
 
-STAY CONNECTED
+Small Business
+
+Devices, resources, and special VIP deals that can make a difference for your business.
+
+Awaken your inner Jedi with a new smartphone-powered augmented-reality experience. STAY CONNECTED
 
 *   Facebook
 *   Twitter
@@ -389,7 +411,7 @@ STAY CONNECTED
 *   Flickr
 *   Lenovo Forums
 
-Holiday Laptops Tablets Desktops Deals Holiday Laptops Tablets Desktops Deals Chat Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium-FrançaisBelgium-DutchBoliviaBotswanaBrazilBulgariaCanada-EnglishCanada-FrançaisChileChinaColombiaCote d'IvoireCroatiaCzech RepublicDenmarkEcuadorEgypt-العربيةEgypt-EnglishEstoniaFinlandFranceGermanyGhanaGreeceHong Kong S.A.R. of China-繁體中文Hong Kong S.A.R. of China-EnglishHungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia-العربيةSaudi Arabia-EnglishSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland-GermanSwitzerland-FrenchTaiwanTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates-العربيةUnited Arab Emirates-EnglishUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe
+Holiday Laptops Tablets Desktops Deals Holiday Laptops Tablets Desktops Deals Chat Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium-FrançaisBelgium-DutchBoliviaBotswanaBrazilBulgariaCanada-FrançaisCanada-EnglishChileChinaColombiaCote d'IvoireCroatiaCzech RepublicDenmarkEcuadorEgypt-العربيةEgypt-EnglishEstoniaFinlandFranceGermanyGhanaGreeceHong Kong S.A.R. of China-EnglishHong Kong S.A.R. of China-繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia-العربيةSaudi Arabia-EnglishSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland-GermanSwitzerland-FrenchTaiwanTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates-EnglishUnited Arab Emirates-العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe
 
 *   ABOUT LENOVO
     *   Our Company
@@ -457,9 +479,7 @@ Holiday Laptops Tablets Desktops Deals Holiday Laptops Tablets Desktops Deals Ch
     *   Return Policy
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 
-© 2017   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
-
-Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+© 2017   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
@@ -471,6 +491,6 @@ Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being 
 
 Please tell us how we can improve your experience:
 
-SUBMIT CHATHIDE
+SUBMIT CHATHIDE Close
 
 Feedback Will open a new windowFeedbackLaunches comment card in new window
