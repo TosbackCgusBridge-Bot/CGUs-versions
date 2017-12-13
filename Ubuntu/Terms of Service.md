@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server Development Summary – 12 Dec 2017 ›
+*   Canonical helps DeNA lower operational cost of always-on service ›
 *   LXD Weekly Status #27 ›
 *   The Silph Road embraces cloud and containers with Canonical ›
 *   Rocket.chat communication platform enables simplicity through snaps ›
-*   Security Team Weekly Summary: December 7, 2017 ›
-*   Kernel Team Summary – December 6, 2017 ›
