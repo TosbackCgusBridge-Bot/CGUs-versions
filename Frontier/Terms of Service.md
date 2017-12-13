@@ -99,7 +99,6 @@ Corporate
 Frontier Sites
 
 *   Get Vantage
-*   Frontier Secure
 *   Frontier Business
 *   Frontier Wi-Fi
 *   Wholesale
