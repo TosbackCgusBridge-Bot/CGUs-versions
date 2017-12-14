@@ -51,7 +51,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 See Rare Footage of JFK Playing With His Children 2 Inside the Cult of Outlander 3 The Most Elegant Christmas Wreaths To Buy Online 4 9 Places to Spend New Year's 2018 5 21 Cocktails to Help You Survive Winter Privacy Policy Dec 1, 2014
+Today's Top Stories 1 FAO Schwarz Is Reopening in New York 2 Inside the Cult of Outlander 3 13 Fabulously Festive Christmas Party Outfits 4 9 Places to Spend New Year's 2018 5 21 Cocktails to Help You Survive Winter Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
@@ -179,7 +179,7 @@ Advertisement - Continue Reading Below
 
 Last revised on April 1, 2016
 
-Advertisement - Continue Reading Below Share Tweet Email
+Watch Next Advertisement - Continue Reading Below More From About Advertise Online And the Top Schools in the Country Are . . . The Story Behind Donald Trump's Most Impressive Homes Share Tweet Email
 
 *   About
 *   Trump Likens War Policy to '21' Club Renovation
