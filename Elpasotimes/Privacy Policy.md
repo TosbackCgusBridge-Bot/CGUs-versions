@@ -142,4 +142,4 @@ Our Partners
 *   Cars.com El Paso
 *   The Job Network
 
-close dialogUnlock your rewards.Sign up now to get special deals fromEl Paso Times &. the USA TODAY NETWORK, invites to events and sweepstakes, and more.Please enter aboveSign UpNo thanksThanks for signing upclose dialogclose dialogGet 30 Days Free!Discover the benefits of being a subscriber. Experience unlimited digital access, easy-to-use apps, access to events, deals and giveaways, and more — free for 30 days!No credit card required.Unlock My Free TrialNo thanks, I don’t like free things.close dialogclose dialogCelebrate Together This Season$29/YRSubscribe close dialog
+close dialogGet 30 Days Free!Discover the benefits of being a subscriber. Experience unlimited digital access, easy-to-use apps, access to events, deals and giveaways, and more — free for 30 days!No credit card required.Unlock My Free TrialNo thanks, I don’t like free things.close dialogclose dialogCelebrate Together This Season$29/YRSubscribe close dialog
