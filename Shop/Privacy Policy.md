@@ -268,8 +268,6 @@ Menu Close Menu Close
 *   Deals
     
     *   Featured Deals
-    *   12 Days of Christmas
-    *   12 Days of Business
     *   Home Laptop Deals
     *   ThinkPad Deals
     *   Desktop Deals
@@ -278,9 +276,15 @@ Menu Close Menu Close
     *   Financing Options
     *   Outlet
     
-    *   *   Stylish, Dependable and Affordable PCs
+    *   *   Save up to 25% on ThinkPad!
             
-        *   48-hour-sale
+            Get your business the year’s best tech at the year’s best prices.
+            
+        *   Stylish, Dependable and Affordable PCs
+            
+        *   48 Hour Flash SALE
+            
+            SALE ENDS DEC 14 MIDNIGHT
             
 *   Support
     *   Sales Enquiries
@@ -353,21 +357,23 @@ Learn More >.
 *   2
 *   3
 
-Check out today's Daily Deal
+ThinkPad T470s
 
-New Offers Each Day. While Supplies Last!
+Boost Your Productivity With Performance You Can Count On
 
-12 Days of Business Sale
+Small Business
 
-Unwrap today’s daily deal and get your business the gift it deserves.
+Devices, resources, and special VIP deals that can make a difference for your business.
+
+ThinkPad X1 Carbon
+
+The lightest, thinnest X1 Carbon, packed with more power than ever.
 
 Yoga 920 14"
 
 Sleeker than ever and packed with speed and power.
 
-ThinkPad T470s
-
-Boost Your Productivity With Performance You Can Count On
+Awaken your inner Jedi with a new smartphone-powered augmented-reality experience.
 
 LAPTOPS
 
@@ -397,11 +403,7 @@ Outlet
 
 Find great deals on new and refurbished Lenovo products.
 
-Small Business
-
-Devices, resources, and special VIP deals that can make a difference for your business.
-
-Awaken your inner Jedi with a new smartphone-powered augmented-reality experience. STAY CONNECTED
+STAY CONNECTED
 
 *   Facebook
 *   Twitter
