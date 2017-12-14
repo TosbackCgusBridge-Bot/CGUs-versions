@@ -123,7 +123,6 @@ Close submenu ( Bottoms ) Bottoms
 *   Jeans
 *   Joggers + Sweats
 *   Pants
-*   Sleep
 *   Shorts
 
 Close submenu ( Jeans ) Jeans
@@ -291,7 +290,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**FREE SHIPPING ON ALL ORDERS!** **20% OFF $60** USE CODE **GREEN**
+**50-70% OFF** \+ **FREE SHIPPING OVER $50** **GUARANTEED HOLIDAY DELIVERY! DETAILS**
 
 *   My Account My Account Login Register
 
@@ -386,7 +385,6 @@ Menu Find a Store Aeropostale
         *   Jeans
         *   Joggers + Sweats
         *   Pants
-        *   Sleep
         *   Shorts
     *   Jackets + Vests
     *   Accessories
@@ -533,19 +531,19 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ALL ORDERS Search Catalog Search Promotions Shop Girls Shop Guys
+ON ORDERS OVER $50 Search Catalog Search Promotions Shop Girls Shop Guys Get In Store Coupon
 
-*   Fleece Favorites Starting at $9.87
-*   Outerwear Obsessed Starting at $11.87
+*   Fleece Favorites Starting at $7.87
+*   Outerwear Obsessed Starting at $13.87
 *   Giftable Jeans Starting at $13.87
-*   Longing for Sleeves Starting at $10.00
+*   Longing for Sleeves Starting at $6.87
 
-*   Fleece Favorites Starting at $15.87
+*   Fleece Favorites Starting at $15.00
 *   Warm + Rugged Starting at $2.87
-*   Giftable Jeans Starting at $22.00
+*   Giftable Jeans Starting at $10.00
 *   Top Tees Starting at $6.87
 
-shop sabrina's picks HOLIDAY PLAYLIST learn more Shop Gifts For Her Shop Gifts For Him Find a Store shop girls shop guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>.
+shop girls shop guys shop sabrina's picks HOLIDAY PLAYLIST learn more Shop Gifts For Her Shop Gifts For Him Find a Store <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>.
 
 CLOSE
 
@@ -582,3 +580,5 @@ Stay Connected
 *   Live ChatCall Us
 *   Refer a Friend
 *   College Student Discount
+
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
