@@ -117,23 +117,23 @@ When you use the Intermarkets website, you are accepting the terms and condition
 
 LATEST ON TWITTER
 
+You're welcome &. enjoy!! twitter.com/keishasg…
+
+About 12 hours ago
+
 My week on Twitter : 2 Mentions, 14.5K Mention Reach, 5 Likes, 3 Retweets, 1.22K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/Ms2O…
 
-About 5 hours ago
+Yesterday
 
 Our biggest fans this week: @Requidan, @Nicole\_Kosar, @lacyagallagher. Thank you! via sumall.com/thankyou?… pic.twitter.com/MTlp…
 
-About 16 hours ago
+About 2 days ago
 
 What does Erik @Requidan have to say about political content flags? Find out here: adexchanger.com/publ… via @adexchanger @SarahSluis
 
-About 6 days ago
-
-My week on Twitter : 4 Mentions, 45.6K Mention Reach, 8 New Followers, 1 Tweet. See yours with sumall.com/performan… pic.twitter.com/HzEm…
-
 Last week
 
-Congrats to Kary Jones! She's been appointed a new role here as Manager of Publisher Development. What does this mean for Intermarkets? "We're ready to look at diversification and bringing on new partners!" Exciting news and well deserved! intermarkets.net/201…
+My week on Twitter : 4 Mentions, 45.6K Mention Reach, 8 New Followers, 1 Tweet. See yours with sumall.com/performan… pic.twitter.com/HzEm…
 
 Last week
 
