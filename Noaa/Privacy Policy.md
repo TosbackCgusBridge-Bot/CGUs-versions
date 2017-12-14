@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Arctic saw 2nd warmest year, smallest winter sea ice coverage on record in 2017 AROUND NOAA // South for the winter: NOAA’s GOES-S satellite arrives in Florida ahead of 2018 launch What are your chances for a white Christmas? U.S. had 3rd warmest year to date, 7th warmest November on record
+Enter Search Terms Arctic saw 2nd warmest year, smallest winter sea ice coverage on record in 2017 AROUND NOAA // Special report: 2016 extreme weather events and ties to climate change What are your chances for a white Christmas? South for the winter: NOAA’s GOES-S satellite arrives in Florida ahead of 2018 launch U.S. had 3rd warmest year to date, 7th warmest November on record
 
 *   About our agency
 *   News and features
