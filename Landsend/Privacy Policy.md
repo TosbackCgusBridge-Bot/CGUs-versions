@@ -116,7 +116,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Supima Shirts &. Sweaters
     *   The Pants Shop
     *   Flannel Favorites
-    *   Shirt Finder
     *   The Getaway Collection
     *   Holiday Style Guide
     *   Sale
@@ -232,7 +231,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Weather Channel Collection
     *   Women's Coat Finder
     *   Women's Coats of Winter
-    *   Men's Squall System Builder
     *   Hats, Gloves &. Scarves
     *   Snow Boots
     *   Long Underwear
@@ -482,7 +480,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Supima Shirts &. Sweaters
         *   The Pants Shop
         *   Flannel Favorites
-        *   Shirt Finder
         *   The Getaway Collection
         *   Holiday Style Guide
         *   Sale
@@ -591,7 +588,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Weather Channel Collection
         *   Women's Coat Finder
         *   Women's Coats of Winter
-        *   Men's Squall System Builder
         *   Hats, Gloves &. Scarves
         *   Snow Boots
         *   Long Underwear
