@@ -1,6 +1,6 @@
-Ubuntu legal terms and policies
+Ubuntu legal
 
-We take our legal responsibilities very seriously at Canonical — especially where they concern the protection of your personal data and the contributions you make to the projects we manage — so we have a number of legal agreements that govern the way we work. They include privacy policies, agreements allowing us to share our intellectual property (which includes trademarks and content as well as code) and descriptions of exactly what our support services cover.
+We have a number of legal agreements to protect your personal data and the contributions you make to the projects we manage. We also have agreements that enable us to share intellectual property (which includes our trademarks and content as well as code), plus legal descriptions of exactly what our support services cover.
 
 Terms and policies ›
 
@@ -12,15 +12,15 @@ A legal description of the services included in the Ubuntu Advantage support pac
 
 Contributors agreement ›
 
-A legal description of the services included in the Ubuntu Advantage support package.
+Details of the agreement you need to send to us before you begin contributing to projects at Canonical.
 
 BootStack terms ›
 
-A legal description of the services included in BootStack.
+A legal description of the services included in Bootstack.
 
 Short terms ›
 
-A legal description of the services included in BootStack.
+This agreement sets out Canonical’s standard service terms for both Ubuntu Advantage and Bootstack customers.
 
 Want a fully managed private cloud?
 
@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   FIPS 140-2 Certified Modules for Ubuntu 16.04 LTS ›
 *   Ubuntu Server Development Summary – 12 Dec 2017 ›
 *   Canonical helps DeNA lower operational cost of always-on service ›
 *   LXD Weekly Status #27 ›
 *   The Silph Road embraces cloud and containers with Canonical ›
-*   Rocket.chat communication platform enables simplicity through snaps ›
