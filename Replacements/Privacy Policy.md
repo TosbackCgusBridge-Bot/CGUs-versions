@@ -1,4 +1,4 @@
-Free Standard U.S. Shipping on Orders $99 $49+ with code HOLGIF49\*\*1-800-REPLACE (1-800-737-5223)1-800-737-5223 Free Standard U.S. Shipping Orders $49+ with code HOLGIF49\*\* 1-800-737-5223 Sign In / Create Account Home China - Dinnerware
+Free Standard U.S. Shipping on Orders $99 $69+ with code SHIP69\*\*1-800-REPLACE (1-800-737-5223)1-800-737-5223 Free Standard U.S. Shipping Orders $69+ with code SHIP69\*\* 1-800-737-5223 Sign In / Create Account Home China - Dinnerware
 
 *   Brands A-Z
 *   Register Your Pattern
