@@ -70,7 +70,7 @@ Questions
 Questions regarding our privacy practices or this statement should be directed to:
 
 Pollen.com  
-c/o QuintilesIMS  
+c/o IQVIA  
 1 IMS Drive  
 Plymouth Meeting, PA 19462  
   
@@ -88,6 +88,6 @@ Advertisement Advertisement
 *   Advertising
 *   Site Map
 
-Copyright © 2017 QuintilesIMS. All rights reserved.
+Copyright © 2017 IQVIA™. All rights reserved.
 
-Pollen.com and Allergy Alert are registered trademarks of QuintilesIMS. Page last modified: 12/13/2017
+Pollen.com and Allergy Alert are registered trademarks of IQVIA. Page last modified: 12/14/2017
