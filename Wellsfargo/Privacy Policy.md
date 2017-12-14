@@ -98,23 +98,19 @@ Search Use up and down arrows to navigate suggestions.
     *   Planning for Retirement
     *   Home Lending
     
-    Popular Links
-    
-    *   Small Business Insurance
-    *   Commercial Insurance
-    
       
     
 *   Investing and Retirement Investing and Retirement Ways to Invest
     
-    *   Invest Online
-    *   Invest With Guidance
-    *   Invest in Mutual Funds
+    *   With a Dedicated Advisor
+    *   Online With Guidance
+    *   Online Independently
     *   Compare Ways to Invest
     
     Investing Solutions
     
     *   IRAs
+    *   Invest in Mutual Funds
     *   Investment Services
     *   Rollovers (401k and IRA)
     *   Investing for Education
@@ -190,7 +186,7 @@ Search Use up and down arrows to navigate suggestions.
 Wells Fargo Digital Privacy and Cookies Policy
 
 *   Print
-*    ShareFacebookTwitter
+*    ShareFacebookTwitterShare this page
 
 Beginning of popupShare this page
 
