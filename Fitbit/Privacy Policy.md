@@ -184,7 +184,7 @@ Get the skinny on all things Fitbit
 *   Careers
 *   Retailers
 *   Affiliates
-*   Fitbit Group Health
+*   Fitbit Health Solutions
 *   Developers
 *   Help
 
