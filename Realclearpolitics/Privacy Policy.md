@@ -6,7 +6,6 @@
 *   Health
 *   Science
 *   Religion
-*   Future
 *   Education
 *   Sports
 *   History
@@ -102,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Ben Kamisar_: Alabama Drama Nears an Explosive End
+*   _Molly Ball_: How Doug Jones Beat Roy Moore and Shocked the World
     
-*   _Rich Lowry_: The New Media Standard: Too Anti-Trump to Check
+*   _Ed Rogers_: Sen. Shelby Saves the Day in Alabama
     
-*   _Ezra Klein_: The Republican Party's Reality Problem--and Ours
+*   _Jordan Gehrke_: Thank Mitch McConnell for Doug Jones' Victory
     
-*   _D.C. McAllister_: Can We Be Honest About Women?
+*   _Ronald Brownstein_: 'We Are in a Trump-Driven Worst-Case Situation'
     
-*   _Caitlin Huey-Burns_: 'Me Too' Fervor, Politics Fuel Dem Calls for Trump to Resign
+*   _Andrew McCarthy_: Ugly as Mueller Probe Is, It's on Track to Clear Trump
     
-*   _Zephyr Teachout_: I'm Not Convinced Franken Should Quit
+*   _Paul Waldman_: Republicans' Mueller Freakout
     
-*   _Andrew McCarthy_: Real Collusion Was Obama DOJ and Clinton Campaign
+*   _Ed Morrissey_: Key FBI Agent Mulled 'Insurance Policy' in Case of Trump Win
     
-*   _Paul Waldman_: A Constitutional Crisis Is on the Way
+*   _Steven Erlanger_: 'Fake News,' Trump's Obsession, Now a Cudgel for Strongmen
     
-*   _Abrahms &. Glaser_: The Pundits Were Wrong About Assad and ISIS
+*   _Carl Cannon_: The Undervalued Art of Bowing Out Gracefully
     
-*   _Robin Wright_: Putin Declares Victory in Syria
+*   _Heather Mac Donald_: Double Standards and Distortions
     
-*   _Tom Rogan_: Putin Visit to Egypt Proves Why Trump Must Be a Realist
+*   _Mimi O'Donnell_: Philip Seymour Hoffman and the Devastation of Addiction
     
-*   _Washington Post_: Taking the Problems Out of Energy Problem Solving
+*   _Frank Bruni_: Thank Heaven for... Alabama?
     
-*   _Victor Davis Hanson_: Fake Truth
+*   _Roger Simon_: Steve Bannon's Big Loss in Alabama
     
-*   _Ruth Ben-Ghiat_: Obama Is Right: U.S. Democracy Is Fragile
+*   _Huey-Burns &. Arkin_: To Both Parties, Moore's Loss Is a Potential Win for 2018
     
-*   _Byron York_: Former Top Spy Rethinks Attacking a New President
+*   _David Von Drehle_: Trump Should Feel Nervous About Doug Jones Win
     
-*   _Bob Bauer_: Why Team Trump Needs to Lay Off the Mueller Probe
+*   _Douglas Schoen_: Jones Victory a Rejection of Roy Moore, Not Trump
     
-*   _James Robbins_: Suspend Mueller's Politically Tainted Investigation
+*   _Alfredo Ortiz_: Tax Bill Is Christmas Present Americans Have Been Waiting For
     
-*   _James Arkin_: Alabama Result Likely to Impact 2018 Senate Races
+*   _David Ignatius_: Voters Will Remember Republicans Who Made Tax Mess
     
-*   _David French_: The Comprehensive Case Against Roy Moore
+*   _Jill Filipovic_: Trump Gets Into the Gutter With Gillibrand Tweet
     
-*   _Daniel Oliver_: 4 Reasons Roy Moore May Win in Alabama
+*   _Kim Holmes_: Liberals' Sexual Harassment Crusade Cloaks a Divisive Bent
     
-*   _Nate Silver_: What Is Happening With These Alabama Polls?
+*   _Lee Smith_: Fusion GPS at the Center of the Russia Collusion Hoax
     
-*   _Ronald Rotunda_: Justice Ginsburg Has Some Explaining to Do
+*   _Randall Eliason_: Attacks on Mueller Are Misguided and Dangerous
     
-*   _Mort Kondracke_: The Seeds of a Moderate Movement Must Be Nurtured
+*   _Victor Davis Hanson_: One Mueller-Investigation Coincidence Too Many
     
-*   _Amanda Marcotte_: Ryan Zinke: Shameless Tool of Oil and Gas Industries
+*   _Abigail Tracy_: Nikki Haley in the Crosshairs?
     
 
 *   Previous
@@ -250,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Bets on Moore and Suffers Stinging Defeat
+*   To Both Parties, Moore's Loss Is a Potential Win for 2018
+*   Jones Victory Speech: Tonight Alabama Chose the "Right Road"
+*   "Me Too" Fervor, Politics Fuel Dems' Calls for Trump to Resign
 *   Chronicler of Islamic State "Killing Machine" Goes Public
-*   Alabama Result Likely to Impact 2018 Senate Races
-*   Gillibrand: Trump Should Resign Over Sex Abuse Claims
-*   Start Clock for Trump, Republicans in Last Push on Taxes, Budget
-*   In Franken's Fall, Sudden Senate Pickup Chance for Republicans
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve37
-    *   Disapprove57Disapprove +20
+*   President Trump Job ApprovalHarvard-Harris
+    *   Approve41
+    *   Disapprove59Disapprove +18
+*   President Trump Job ApprovalMonmouth
+    *   Approve33
+    *   Disapprove59Disapprove +26
 *   President Trump Job ApprovalGallup
-    *   Approve35
-    *   Disapprove60Disapprove +25
+    *   Approve36
+    *   Disapprove59Disapprove +23
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve41
     *   Disapprove57Disapprove +16
-*   President Trump Job ApprovalMarist
-    *   Approve39
-    *   Disapprove55Disapprove +16
 
 More Latest Polls In The News
 
+*   Moore Refuses To Concede: Awaiting Certification By Secretary Of State, Heart &. Soul Of Country At Stake
+*   Larry Sabato: Trump Doesn't Have A Clue How People See Him. Makes A Million New Enemies Per Day
 *   Charles Barkley: Jones Victory A Message For Dems To "Get Off Their Ass," Stop "Abusing" Black Vote
-*   Dem Strategist: "Our Minds Are In The Gutter" Because Trump Lives There And We Followed Him
+*   Jones Victory Speech: We Usually Take The Wrong Fork, Tonight Alabama Chose The "Right Road"
 *   MSNBC's Brzezinski: Trump "Literally Sexually Harassed" Gillibrand on Twitter This Morning
-*   CNN's Acosta: "Journalists Make Honest Mistakes". I "Want" To Be As "Objective" As Possible
-*   Former Facebook Exec: Social Media Is Ripping Apart The Social Fabric Of How Society Works
 
 *   Politics
 *   Policy
