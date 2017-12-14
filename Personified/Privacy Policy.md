@@ -64,9 +64,7 @@ The candidates you receive from our Source &. Screen team are never shopped arou
 Download Data Sheet
 
 Features  
-  
-  
-Supplement Your Efforts  
+   Supplement Your Efforts  
 
 Let our experts work on your behalf to broaden your sourcing power, allowing your team to focus on making hires.  
 
@@ -84,9 +82,8 @@ Resources
 
 *   *   \>. Source &. Screen Product Overview
 
-Customers  
+Customers
 
-  
 ​
 
 Thank you for subscribing to our newsletter. More great content headed your way!
