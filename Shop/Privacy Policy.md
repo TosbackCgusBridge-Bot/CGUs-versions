@@ -282,10 +282,6 @@ Menu Close Menu Close
             
         *   Stylish, Dependable and Affordable PCs
             
-        *   48 Hour Flash SALE
-            
-            SALE ENDS DEC 14 MIDNIGHT
-            
 *   Support
     *   Sales Enquiries
     *   Order Support
@@ -341,11 +337,9 @@ Shop year-end savings on Think brand computers and save up to 25%.
 
 Shop Now >.
 
-**48** HOUR **BLOWOUT**!
+GET IT—GRAB IT—GO! Save Up to 65% off ends Dec 17. Systems and more at shocking prices, plus free, fast shipping!
 
-Grab our most looked-for laptops &. more at low, low, prices!
-
-Snag These Deals >.
+Shop Sale >.
 
 Hybrid Cloud, Simplified 
 
