@@ -126,9 +126,9 @@ Check Out Life Space UX
 
 <img class="bg-img" class="url(/en\_us/media/content/LifeSpaceUXGiftGuide-600x600A.jpg);" alt="Life Space UX Gift Guide">.
 
-Stepping inside your favorite PlayStation games is easy at #PSX.
+RT @billboard: The ULTIMATE guide to Mariah Carey's "All I Want For Christmas Is You."
 
-2 days ago
+16 hours ago
 
 View Tweet
 
@@ -206,9 +206,9 @@ See Our Video Camcorders
 
 <img class="bg-img" class="url(/en\_us/media/content/4KCamcorder-600x600\_kAGERaD.jpg);" alt="4K Camcorder">.
 
-Not ready for the #Droughtlander? Go inside the #Outlander Season 3 finale with E.P.s @themattbroberts &. @outlanderwriter.
+Head over to #SonySquareNYC for a deeper dive into the jungles of #JUMANJI. You never know who might stop by.
 
-1 day ago
+16 hours ago
 
 View Tweet
 
@@ -290,9 +290,9 @@ Play Queen Elizabeth II Faces New Challenges Video hotspot
 
 <img class="bg-img" class="url(/en\_us/media/content/TheCrown-600x600.jpg);" alt="The Crown">.
 
-Sony Pictures receives an impressive 17 @Goldenglobes nominations including 5 for @SPTV! Congratulations to all our nominees! See the full list.
+We revealed Nolan North's audition tape and heard BTS details from the cast in our #Uncharted10 PSX panel: http://play.st/2B7un1V
 
-1 day ago
+9 hours ago
 
 View Tweet
 
