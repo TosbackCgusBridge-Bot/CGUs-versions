@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   UbuCon Europe: 27th, 28th, 29th of April 2018 in Gijón/Xixón, Spain ›
+*   Canonical shows EdgeX on ARM ›
+*   Security Team Weekly Summary: December 14, 2017 ›
 *   FIPS 140-2 Certified Modules for Ubuntu 16.04 LTS ›
 *   Ubuntu Server Development Summary – 12 Dec 2017 ›
-*   Canonical helps DeNA lower operational cost of always-on service ›
-*   LXD Weekly Status #27 ›
-*   The Silph Road embraces cloud and containers with Canonical ›
