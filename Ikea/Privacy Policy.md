@@ -41,6 +41,7 @@ PA, Pittsburgh
 TN, Memphis  
 TX, Frisco  
 TX, Houston  
+TX, Grand Prairie  
 TX, Round Rock  
 UT, Draper  
 VA, Woodbridge  
