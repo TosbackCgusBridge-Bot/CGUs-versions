@@ -1,4 +1,4 @@
-*   DEN4-9IND3-10Thu 8:25 PM ET
+*   DEN5-925IND3-1113Final
 *   CHI4-9DET7-6Sat 4:30 PM ET
 *   LAC7-6KC7-6Sat 8:30 PM ET
 *   MIA6-7BUF7-6Sun 1:00 PM ET
@@ -21,6 +21,7 @@
 *   Standings
 *   Video
 *   Fantasy
+*   Playoff Picture
 *   Tickets
 *   Shop
 *   Teams
@@ -30,7 +31,7 @@
 *   NFL Network
 *   Photos
 
-*   DEN4-9IND3-10Thu 8:25 PM ET
+*   DEN25IND13Final
 *   CHI4-9DET7-6Sat 4:30 PM ET
 *   LAC7-6KC7-6Sat 8:30 PM ET
 *   MIA6-7BUF7-6Sun 1:00 PM ET
@@ -53,6 +54,7 @@
 *   Standings
 *   Video
 *   Fantasy
+*   Playoff Picture
 
 *   *   Game Pass
     *   Stats
