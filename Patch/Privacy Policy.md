@@ -2,6 +2,7 @@ Toggle navigation Find Your Patch Everything local.
 
 *   Advertise
 *   Post on Patch
+*   See All Patches
 
 Find Your Community See All Patches Regional
 
