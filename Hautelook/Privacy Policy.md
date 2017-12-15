@@ -8,18 +8,42 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   FENTY PUMA BY RIHANNA &. More
+    *   Bony Levy
+    *   Sorel
+    *   DR2 by Daniel Rainn &. Pleione Incl. Plus &. Petites
+    *   DL1961
+    *   Honeydew Sleep &. Lingerie
+    *   Diesel Men
+    *   Lacoste
+    *   Clarks
+    *   Must-Have Dresses ft. Soieblu
+    *   RAGA Up to 70% Off
+    *   Bed|Stu
+    *   Pour La Victoire
+    *   Street Chic: Faux Fur Jackets &. More
+    *   Free Shipping: Druzy, Gemstone &. Crystal Jewelry
+    *   D24K by D'OR Luxury Skin Care Up to 90% Off
+    *   Billion Dollar Brows Starting at $10
+    *   On Trend: Velvet Bags &. More Starting at $15
+    *   Tailored Recreation
+    *   Clarks
+    *   Smyth &. Gibson Dress Shirts
+    *   Stone Rose
+    *   Naturino
+    *   Girls' Brands We Love Under $25
+    *   Boys' Brands We Love Under $25
+    *   Cocktail Kits &. More
+    *   Record Players &. More Starting at $40
     *   tarte cosmetics
-    *   FENTY PUMA BY RIHANNA Active &. More
-    *   Hobo
     *   T3 Hair Tools
     *   Tria Beauty Electronics
-    *   TOMS
-    *   TOMS Kids
+    *   FENTY PUMA BY RIHANNA &. More
+    *   FENTY PUMA BY RIHANNA Active &. More
     *   Dogeared Jewelry Up to 55% Off
     *   Sanctuary Starting at $30 Including Petites
     *   Our Best Trend Styles ft. Abound
     *   Gold Rush: 14K Jewelry &. More
+    
     *   Men's Outerwear Up to 80% Off
     *   TOMS Men
     *   Badgley Mischka Up to 60% Off
@@ -27,7 +51,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Tea &. Cup Up to 70% Off
     *   Hale Bob Up to 50% Off
     *   Raisins Swim, Radio Fiji &. More Incl. Plus
-    *   Kiehl's Since 1851
     *   PUMA Men's Active
     *   William Rast &. More
     *   Kuwalla
@@ -39,23 +62,13 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Boho-Chic Decor Up to 70% Off
     *   Rustic Home Decor Finds Starting at $10
     *   Free Shipping: String Lighting &. More Starting at $20
+    *   Hobo
+    *   TOMS
+    *   TOMS Kids
+    *   Kiehl's Since 1851
     *   alice + olivia by Stacey Bendet
-    *   Frye Men
-    *   Frye
-    *   Cashmere Shop: Styles Up to 70% Off
     *   Mini Melissa
     *   Alice + Olivia Handbags
-    
-    *   Pink Owl Under $35
-    *   Olive &. Oak Under $30
-    *   Melissa Footwear
-    *   Naturalizer
-    *   Lysse Leggings
-    *   Diamond Jewelry from KC Designs
-    *   Lucchese
-    *   Tahari
-    *   Fresh Coats: Ponchos, Vests &. More
-    *   Bold Gems, Ring Stacks &. More
     *   LAFCO New York
     *   Le Savonnier Marseillais Soaps
     *   Ben Sherman
@@ -65,11 +78,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Original Penguin Accessories
     *   Kids' Sets Under $24
     *   Last-Minute Gifts: Toys ft. Melissa &. Doug
-    *   Marc Jacobs
-    *   Marc Jacobs Clothing
-    *   Marc Jacobs Shoes
-    *   Marc Jacobs Jewelry Up to 50% Off
     *   philosophy
+    
     *   Crevo
     *   Belstaff
     *   Pajar Men
@@ -78,29 +88,16 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Wool Coats &. More ft. Cardinal of Canada
     *   Ardency Inn Cosmetics Under $15
     *   Purlisse Skincare
-    *   Peace Love World Kids Up to 75% Off
-    *   Winter Break Ready: Kids' Outerwear
-    *   Kids' Holiday Denim Shop
-    *   Vacation-Ready Looks for Kids ft. Kanz
     *   Free Shipping: Wall Art Up to 80% Off
-    
     *   Cuisinart Cookware Sets &. More
     *   Tech Candy Phone Accessories Starting at $10
     *   Bedding to Keep You Cool
     *   Tiri Pro Hair Tools Up to 75% Off
     *   Free Shipping: Amrapur Towels Up to 80% Off
-    *   Allen Edmonds
     *   Fusion Beauty Up to 70% Off
     *   Michael Todd Soniclear Cleansing Brush
-    *   Tommy Hilfiger Tailored Clothing
-    *   Lorenzo Uomo
-    *   Keen Men
-    *   Men's Belts ft. A. Testoni
     *   Christmas Clean-Up: Storage Essentials from $10
     *   Chic Wall Mirrors &. More from $24
-    *   Teeez Cosmetics
-    *   Spongelle
-    *   Embryolisse Skincare Starting at $10
     *   Free Shipping: Bedding, Throws &. More from $10
     *   Free Shipping: Salav Steamers from $22
     *   Curtains Starting at $20
@@ -115,78 +112,73 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Melange Bedding &. Throws Starting at $12
     *   Free Shipping: Hip Modern Rugs Up to 70% Off
     *   Free Shipping: On-Trend Accent Furniture
-    *   Vertigo Up to 85% Off
-    *   Chocolat Blu &. More
-    *   Nadri Jewelry Up to 55% Off
-    *   Papillon Up to 80% Off
-    *   Pajar
+    *   Cashmere Shop: Styles Up to 70% Off
+    *   Peace Love World Kids Up to 75% Off
 *   WomenShop Sale Events
     
-    *   FENTY PUMA BY RIHANNA &. More
+    *   Bony Levy
+    *   Sorel
+    *   DR2 by Daniel Rainn &. Pleione Incl. Plus &. Petites
+    *   DL1961
+    *   Honeydew Sleep &. Lingerie
+    *   Clarks
+    *   Must-Have Dresses ft. Soieblu
+    *   RAGA Up to 70% Off
+    *   Bed|Stu
+    *   Pour La Victoire
+    *   Street Chic: Faux Fur Jackets &. More
+    *   Free Shipping: Druzy, Gemstone &. Crystal Jewelry
+    *   D24K by D'OR Luxury Skin Care Up to 90% Off
+    *   Billion Dollar Brows Starting at $10
+    *   On Trend: Velvet Bags &. More Starting at $15
     *   tarte cosmetics
-    *   FENTY PUMA BY RIHANNA Active &. More
-    *   Hobo
     *   T3 Hair Tools
     *   Tria Beauty Electronics
-    *   TOMS
+    *   FENTY PUMA BY RIHANNA &. More
+    *   FENTY PUMA BY RIHANNA Active &. More
     *   Dogeared Jewelry Up to 55% Off
     *   Sanctuary Starting at $30 Including Petites
     *   Our Best Trend Styles ft. Abound
+    
     *   Gold Rush: 14K Jewelry &. More
     *   Badgley Mischka Up to 60% Off
     *   Carlos by Carlos Santana
     *   Tea &. Cup Up to 70% Off
     *   Hale Bob Up to 50% Off
     *   Raisins Swim, Radio Fiji &. More Incl. Plus
-    *   Kiehl's Since 1851
     *   PUMA Sun
+    *   Hobo
+    *   TOMS
+    *   Kiehl's Since 1851
     *   alice + olivia by Stacey Bendet
-    *   Frye
-    *   Cashmere Shop: Styles Up to 70% Off
     *   Alice + Olivia Handbags
-    *   Pink Owl Under $35
-    *   Olive &. Oak Under $30
-    *   Melissa Footwear
-    *   Naturalizer
-    *   Lysse Leggings
-    
-    *   Diamond Jewelry from KC Designs
-    *   Lucchese
-    *   Tahari
-    *   Fresh Coats: Ponchos, Vests &. More
-    *   Bold Gems, Ring Stacks &. More
     *   LAFCO New York
     *   Le Savonnier Marseillais Soaps
     *   truewhite Teeth Whitening
-    *   Marc Jacobs
-    *   Marc Jacobs Clothing
-    *   Marc Jacobs Shoes
-    *   Marc Jacobs Jewelry Up to 50% Off
     *   philosophy
     *   Ardency Inn Cosmetics Under $15
     *   Purlisse Skincare
     *   Tiri Pro Hair Tools Up to 75% Off
     *   Fusion Beauty Up to 70% Off
     *   Michael Todd Soniclear Cleansing Brush
-    *   Teeez Cosmetics
-    *   Spongelle
-    *   Embryolisse Skincare Starting at $10
-    *   Vertigo Up to 85% Off
-    *   Chocolat Blu &. More
-    *   Nadri Jewelry Up to 55% Off
-    *   Papillon Up to 80% Off
-    *   Pajar
+    *   Cashmere Shop: Styles Up to 70% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
     *   Handbags
-    *   Accessories
-    *   Tech Accessories
     *   Lingerie
+    *   Tech Accessories
+    *   Accessories
 *   MenShop Sale Events
     
+    *   Diesel Men
+    *   Lacoste
+    *   Tailored Recreation
+    *   Clarks
+    *   Smyth &. Gibson Dress Shirts
+    *   Stone Rose
     *   FENTY PUMA BY RIHANNA &. More
     *   Men's Outerwear Up to 80% Off
     *   TOMS Men
@@ -194,13 +186,12 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   William Rast &. More
     *   Kuwalla
     *   Timberland Watches Starting at $40
+    
     *   PUMA Sun
-    *   Frye Men
     *   Ben Sherman
     *   truewhite Teeth Whitening
     *   Andrew Marc Outerwear &. More
     *   Ben Sherman Dress Shirts, Ties &. More
-    
     *   Original Penguin Accessories
     *   Crevo
     *   Belstaff
@@ -208,11 +199,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Hawke &. Co.
     *   Sweaters Under $35
     *   Wool Coats &. More ft. Cardinal of Canada
-    *   Allen Edmonds
-    *   Tommy Hilfiger Tailored Clothing
-    *   Lorenzo Uomo
-    *   Keen Men
-    *   Men's Belts ft. A. Testoni
     
     Shop By Category
     *   Clothing
@@ -221,33 +207,34 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
-    *   TOMS Kids
+    *   Naturino
+    *   Girls' Brands We Love Under $25
+    *   Boys' Brands We Love Under $25
     *   PUMA Kids' Activewear &. More
     *   PUMA Kids
     *   Last-Minute Gifts: Kids' Holiday PJs &. More
+    
+    *   TOMS Kids
     *   Mini Melissa
     *   Kids' Sets Under $24
-    
     *   Last-Minute Gifts: Toys ft. Melissa &. Doug
     *   Peace Love World Kids Up to 75% Off
-    *   Winter Break Ready: Kids' Outerwear
-    *   Kids' Holiday Denim Shop
-    *   Vacation-Ready Looks for Kids ft. Kanz
     
     Shop By Category
-    *   Girls Sizes 2T-6X
     *   Girls' Shoes
-    *   Boys Sizes 2T-7
+    *   Girls Sizes 2T-6X
     *   Boys' Shoes
     *   Girls Sizes 7-16
+    *   Boys Sizes 2T-7
+    *   Toys
     *   Baby Girl
     *   Boys Sizes 8-20
-    *   Toys
     *   Baby Boy
-    *   Kids Accessories
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Cocktail Kits &. More
+    *   Record Players &. More Starting at $40
     *   Free Shipping: Boho-Chic Decor Up to 70% Off
     *   Rustic Home Decor Finds Starting at $10
     *   Free Shipping: String Lighting &. More Starting at $20
@@ -259,8 +246,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Christmas Clean-Up: Storage Essentials from $10
     *   Chic Wall Mirrors &. More from $24
     *   Free Shipping: Bedding, Throws &. More from $10
-    *   Free Shipping: Salav Steamers from $22
     
+    *   Free Shipping: Salav Steamers from $22
     *   Curtains Starting at $20
     *   MOTA Tech Accessories Up to 50% Off
     *   Clink Clink: Orrefors Glassware
@@ -285,28 +272,27 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   D24K by D'OR Luxury Skin Care Up to 90% Off
+    *   Billion Dollar Brows Starting at $10
     *   tarte cosmetics
     *   T3 Hair Tools
     *   Tria Beauty Electronics
     *   Kiehl's Since 1851
     *   LAFCO New York
     *   Le Savonnier Marseillais Soaps
+    
     *   truewhite Teeth Whitening
     *   philosophy
-    
     *   Ardency Inn Cosmetics Under $15
     *   Purlisse Skincare
     *   Tiri Pro Hair Tools Up to 75% Off
     *   Fusion Beauty Up to 70% Off
     *   Michael Todd Soniclear Cleansing Brush
-    *   Teeez Cosmetics
-    *   Spongelle
-    *   Embryolisse Skincare Starting at $10
     
     Shop By Category
     *   Makeup
-    *   Bath &. Body
     *   Skin Care
+    *   Bath &. Body
     *   Hair Care
     *   Tools &. Accessories
     *   Fragrance
