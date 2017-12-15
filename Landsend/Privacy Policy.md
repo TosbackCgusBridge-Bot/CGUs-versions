@@ -789,9 +789,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 50% off all outerwear, including coats, snow boots, hats and gloves. 40% off everything else!
+Receive 50% off your order!
 
-code: JINGLE pin: 2585 DETAILS
+code: ORNAMENT pin: 3408 DETAILS
 
 Customer Service Menu
 
